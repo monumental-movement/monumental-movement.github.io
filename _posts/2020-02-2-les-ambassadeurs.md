@@ -23,7 +23,7 @@ In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel;
 
 test up
 
-~~[ththththththth](http://taro-hana.ijinkai.or.jp/)~~
+~~[](https/)~~
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">
