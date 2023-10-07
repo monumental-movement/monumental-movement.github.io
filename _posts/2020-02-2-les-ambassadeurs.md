@@ -3,7 +3,7 @@ layout: post
 title:  "Quarks – Allein"
 author: sal
 categories: [ Lifestyle ]
-tags: [ レコード, エレクトロ, テックハウス, ハウス, レコード , エレクトロ , テックハウス , ハウス , エレクトロポップ , ジャーマンエレクトロ , DJ , グドルン・グート , トーマス・フェールマン , サシャ・フンケ , サシャフンケ , Sascha_Funke , remix , リミックス , クラブミュージック , ダンスミュージック  ]
+tags: [ レコード, エレクトロ, テックハウス, ハウス, レコード, エレクトロ, テックハウス, ハウス, エレクトロポップ, ジャーマンエレクトロ, DJ, グドルン・グート, トーマス・フェールマン, サシャ・フンケ, サシャフンケ, Sascha_Funke, remix, リミックス, クラブミュージック, ダンスミュージック  ]
 image: ../assets/images/2.jpg
 rating: 4.5
 v-rating: VG
