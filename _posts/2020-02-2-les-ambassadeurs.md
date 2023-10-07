@@ -2,8 +2,8 @@
 layout: post
 title:  "Quarks – Allein"
 author: sal
-categories: [ Lifestyle ]
-tags: [ レコード, エレクトロ, テックハウス, ハウス ]
+categories: [ レコード ]
+tags: [ エレクトロ, テックハウス, ハウス ]
 image: ../assets/images/2.jpg
 rating: 4.5
 v-rating: VG
@@ -27,7 +27,7 @@ B2. Allein (Original)
 > 2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
 
 
-~~[メルカリで購入](https://jp.mercari.com/item/m18806136180)~~
+[メルカリで購入](https://jp.mercari.com/item/m18806136180)
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">
