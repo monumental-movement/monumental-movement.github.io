@@ -3,27 +3,31 @@ layout: post
 title:  "Quarks – Allein"
 author: sal
 categories: [ Lifestyle ]
-tags: [ レコード, エレクトロ, テックハウス, ハウス, レコード, エレクトロ, テックハウス, ハウス, エレクトロポップ, ジャーマンエレクトロ, DJ, グドルン・グート, トーマス・フェールマン, サシャ・フンケ, サシャフンケ, Sascha_Funke, remix, リミックス, クラブミュージック, ダンスミュージック  ]
+tags: [ レコード, エレクトロ, テックハウス, ハウス ]
 image: ../assets/images/2.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-アイウエオあいfewfeうえお愛上尾かきくけこカキクケコ下記九毛粉
+Quarks – Allein
 
-Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
+A. Allein (Augen Zu Und Durch)  
+Remix, Producer – Sascha Funke
 
-> It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
+B1. Allein (Rolling Luggage)  
+Remix, Producer – Swayzak
+Vocals [Additional Vox] – Darkfarmer
 
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
+B2. Allein (Original)
 
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
+> ドイツ・ベルリン出身のエレクトロポップデュオ「Quarks」は1995年に結成され、メンバーはグドルン・グート（Gudrun Gut）とトーマス・フェールマン（Thomas Fehlmann）。彼らは1990年代後半から2000年代初頭にかけて、ドイツのエレクトロニックミュージックシーンで人気を博しました。
 
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+> Quarksの音楽は、エレクトロニックポップ、シンセポップ、実験的なサウンドの要素を組み合わせています。彼らの曲は、キャッチーなメロディ、エレクトロニックなビート、そしてグドルン・グートの特徴的なボーカルを特徴としていました。
 
-test up
+> 2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
 
-~~[](https/)~~
+
+~~[メルカリで購入](https://jp.mercari.com/item/m18806136180)~~
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">
