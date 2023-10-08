@@ -1,13 +1,34 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Monumental Movement Records
 permalink: /about
 comments: false
 image: ../assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+・主にらくらくメルカリ便での発送を予定しておりますが、場合によってはゆうゆうメルカリ便に変更させていただくことがございます。
+・レコードはビニールとダンボールで発送いたします。
+・CD&カセットは緩衝材と封筒で発送いたします。
+・書籍は原則的にビニールと封筒で発送いたします。
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+※梱包にはリサイクル資材を利用しておりますので、予めご了承ください。
+
+
+[ 商品について ]
+
+商品の状態には細心の注意を払っておりますが、完璧にチェックすることができない場合もございます。予めご了承ください。中古品であるため、美品をお求めの方はご遠慮いただきますようお願い申し上げます。
+商品自体の詳細については、お手数ですがインターネットなどで検索をお願いいたします。
+※ペット、喫煙者はおりません。
+
+
+[ お取引について ]
+
+取引のメッセージの有無や評価の遅延により、評価を低くすることはございません。お忙しい中、商品をご購入いただけることに感謝しておりますので、お忙しい方も安心してご購入ください。
+
+大変申し訳ございませんが、基本的には値下げ交渉には応じることができませんので予めご了承いただきますようお願い申し上げます。
+
+ 
+
+<a target="_blank" href="https://jp.mercari.com/user/profile/937430248" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
 
