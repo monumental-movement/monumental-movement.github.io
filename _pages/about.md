@@ -30,5 +30,5 @@ imageshadow: true
 
  
 
-<a target="_blank" href="https://jp.mercari.com/user/profile/937430248" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="https://jp.mercari.com/user/profile/937430248" class="btn btn-dark"> メルカリのプロフィール &rarr;</a>
 
