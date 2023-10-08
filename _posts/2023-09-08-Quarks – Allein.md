@@ -31,8 +31,8 @@ B2. Allein (Original)
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">b: VG</strong>
+<strong class="mr-1">盤質: VG</strong>
 </div>
 <div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">J: G</strong>
+<strong class="mr-1">ジャケット: G</strong>
 </div>
