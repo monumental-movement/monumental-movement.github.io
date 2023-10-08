@@ -4,7 +4,7 @@ title: "m.m.r"
 description: "Life with Music"
 logo: '../assets/images/logo.png'
 favicon: '../assets/images/logo.png'
-baseurl: https://monumental-movement.github.io/
+baseurl: https://monumental-movement.github.io
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'mmr'
 mailchimp-list: ''
