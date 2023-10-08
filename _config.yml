@@ -7,7 +7,7 @@ favicon: '../assets/images/logo.png'
 baseurl: https://monumental-movement.github.io
 google_analytics: 'G-YYMSK3VLV2'
 disqus: 'mmr'
-mailchimp-list: ''
+mailchimp-list: 'monumental-movement'
 include: ["_pages"]
 permalink: /:title/
 email: monumental.movement.records@gmail.com
