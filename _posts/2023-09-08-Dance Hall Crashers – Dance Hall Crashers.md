@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992)"
-author: sal
+author: mmr
 categories: [ レコード ]
 tags: [ スカ, ska, スカコア, スカパンク ]
 image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).jpg

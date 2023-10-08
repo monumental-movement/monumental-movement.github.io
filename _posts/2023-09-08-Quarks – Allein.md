@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quarks – Allein"
-author: sal
+author: mmr
 categories: [ レコード ]
 tags: [ エレクトロ, テックハウス, ハウス ]
 image: ../assets/images/quarks-allein.jpg

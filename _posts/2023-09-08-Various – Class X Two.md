@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Various – Class X Two"
-author: sal
+author: mmr
 categories: [ レコード ]
 tags: [ シンセポップ, エレクトロ, ドナサマー ]
 image: ../assets/images/Various – Class X Two.jpg
