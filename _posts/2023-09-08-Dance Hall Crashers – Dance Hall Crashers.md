@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Dance Hall Crashers – Dance Hall Crashers"
+title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992)"
 author: mmr
 categories: [ レコード ]
 tags: [ スカ, ska, スカコア, スカパンク ]
-image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.jpg
-rating: 4.0
+image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).jpg
+rating: 4
 v-rating: VG
 ---
 
