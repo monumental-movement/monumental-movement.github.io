@@ -1,7 +1,7 @@
 # Site
 name: "MMR"
 title: "m.m.r"
-description: "Life with Music"
+description: "Monumental Movement"
 logo: '../assets/images/logo.png'
 favicon: '../assets/images/logo.png'
 baseurl: https://monumental-movement.github.io
@@ -14,13 +14,13 @@ email: monumental.movement.records@gmail.com
 
 # Authors
 authors:
-  sal:
+  mmr:
     name: MMR
     display_name: mmr
     avatar: '../assets/images/avatar-mm.png'
     email: monumental.movement.records@gmail.com
     web: https://jp.mercari.com/user/profile/937430248
-    twitter: https://twitter.com/
+    twitter: https://twitter.com/mmrecords_japan
     description: "Monumental-Movement-Rocords"
 
 # Plugins
