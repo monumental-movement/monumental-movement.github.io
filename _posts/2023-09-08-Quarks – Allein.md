@@ -4,7 +4,7 @@ title:  "Quarks – Allein"
 author: sal
 categories: [ レコード ]
 tags: [ エレクトロ, テックハウス, ハウス ]
-image: ../assets/images/2.jpg
+image: ../assets/images/quarks-allein.jpg
 rating: 4.5
 v-rating: VG
 ---
