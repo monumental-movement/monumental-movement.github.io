@@ -5,7 +5,7 @@ author: mmr
 categories: [ レコード ]
 tags: [ ハウス, テックハウス, ミニマル ]
 image: ../assets/images/Treplec – Fliege Jürgen!.jpg
-rating: 3.5
+rating: 4.5
 v-rating: VG
 ---
 
