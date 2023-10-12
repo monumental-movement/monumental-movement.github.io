@@ -5,7 +5,7 @@ author: mmr
 categories: [ レコード ]
 tags: [ ジャズ, ラテン, フューチャージャズ ]
 image: ../assets/images/A Friend From Rio – Para Lennon And McCartney.jpg
-rating: 4.5
+rating: 3.5
 v-rating: VG
 ---
 
