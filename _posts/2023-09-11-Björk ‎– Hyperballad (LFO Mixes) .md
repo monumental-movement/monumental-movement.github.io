@@ -4,7 +4,7 @@ title:  "Björk – Hyperballad (LFO Mixes)"
 author: mmr
 categories: [ レコード ]
 tags: [ テクノ, 10インチ, エレクトロニック ]
-image: ../assets/images/Treplec – Fliege Jürgen!.jpg
+image: ../assets/images/Björk – Hyperballad (LFO Mixes).jpg
 rating: 4.5
 v-rating: VG
 ---
