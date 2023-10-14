@@ -17,7 +17,7 @@ v-rating: VG
 
 > 1999年にリリースされたロンドンのエイプマンレコーズの10インチです。
 
-Super Dense Childは、Jimmy RandallとNic Horsburghによるプロジェクト。
+> 「Super Dense Child」は、Jimmy RandallとNic Horsburghによるプロジェクト。
 
 
 
