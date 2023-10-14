@@ -3,7 +3,7 @@ layout: post
 title:  "Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version"
 author: sal
 categories: [ レコード ]
-tags: [ エレクトロ, テックハウス, ハウス ]
+tags: [ ヒップホップ, ウータン, 名盤 ]
 image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.jpg
 rating: 4.5
 v-rating: VG
