@@ -5,7 +5,7 @@ author: mmr
 categories: [ レコード ]
 tags: [ パンク, ジャパニーズパンク, 10インチ ]
 image: ../assets/images/Manwoman – Manwoman.jpg
-rating: 3.5
+rating: 3.0
 v-rating: VG
 ---
 
