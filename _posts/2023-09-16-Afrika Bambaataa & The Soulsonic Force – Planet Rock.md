@@ -11,9 +11,11 @@ v-rating: VG
 
 #### Afrika Bambaataa & The Soulsonic Force – Planet Rock
 
-**A1. Planet Rock (Vocal)
-A2. Bonus Beats I
-B. Planet Rock (Instrumental)**
+**A1. Planet Rock (Vocal)**
+
+**A2. Bonus Beats I**
+
+**B. Planet Rock (Instrumental)**
 
 
 > アメリカのヒップホップアーティスト、Afrika Bambaataaと彼のバンドThe Soulsonic Forceによる楽曲で、1982年にリリースされました。
