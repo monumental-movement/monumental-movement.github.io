@@ -3,7 +3,7 @@ layout: post
 title:  "Johannes Heil – Future Primitive"
 author: mmr
 categories: [ レコード ]
-tags: [ テクノ, ダウンテンポ ]
+tags: [ テクノ, ジャーマンテクノ, ダウンテンポ ]
 image: ../assets/images/Johannes Heil – Future Primitive.jpg
 rating: 4.5
 v-rating: VG
