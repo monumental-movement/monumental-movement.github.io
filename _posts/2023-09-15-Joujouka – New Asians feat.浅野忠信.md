@@ -4,7 +4,7 @@ title:  "Joujouka – New Asians feat.浅野忠信"
 author: mmr
 categories: [ レコード ]
 tags: [ ハウス, ビッグビート, サイケデリック ]
-image: ../assets/images/Joujouka – New Asians feat.浅野忠信.jpg
+image: ../assets/images/Joujouka – New Asians.jpg
 rating: 4.5
 v-rating: VG
 ---
