@@ -3,7 +3,7 @@ layout: post
 title:  "Barbee Boys – 負けるもんか"
 author: mmr
 categories: [ レコード ]
-tags: [ ハウス, Jポップ, ダウンテンポ ]
+tags: [ Jポップ, 80's, ロック ]
 image: ../assets/images/Barbee Boys – 負けるもんか.jpg
 rating: 4.5
 v-rating: VG
