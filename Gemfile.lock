@@ -146,6 +146,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  fastlane
   bootstrap (~> 4.4.1)
   jekyll-archives
   jekyll-feed
