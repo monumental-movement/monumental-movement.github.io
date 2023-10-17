@@ -11,10 +11,10 @@ v-rating: VG
 
 #### Wu-Tang Clan – C.R.E.A.M.
 
-A1. C.R.E.A.M. (Radio Edit)
-A2. C.R.E.A.M. (Album Version)
-A3. C.R.E.A.M. (A Cappella)
-A4. C.R.E.A.M. (Instrumental)
+*A1. C.R.E.A.M. (Radio Edit)*
+*A2. C.R.E.A.M. (Album Version)*
+*A3. C.R.E.A.M. (A Cappella)*
+*A4. C.R.E.A.M. (Instrumental)*
 
 B1. Da Mystery Of Chessboxin' (Radio Edit)
 B2. Da Mystery Of Chessboxin' (Album Version)
