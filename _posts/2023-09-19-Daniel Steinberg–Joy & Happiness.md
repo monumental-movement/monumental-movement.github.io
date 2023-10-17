@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Daniel Steinberg – Joy & Happiness"
+title:  "Daniel Steinberg – Joy & Happiness EP"
 author: mmr
 categories: [ レコード ]
 tags: [ ハウス, ディープハウス, ミニマル ]
-image: ../assets/images/Daniel Steinberg – Joy & Happiness.jpg
+image: ../assets/images/Daniel Steinberg – Joy & Happiness EP.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-#### Daniel Steinberg – Joy & Happiness
+#### Daniel Steinberg – Joy & Happiness EP
 
 A1. Tell Me What
 A2. Is This The Story
