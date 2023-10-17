@@ -12,9 +12,11 @@ v-rating: VG
 #### Modjo – Lady (Hear Me Tonight)
 
 A1  Lady (Hear Me Tonight)
+
 A2  Lady (Hear Me Tonight) (Radio Edit)
 
 B1  Lady (Roy's Universal Soldiers Mix)
+
 B2  Lady (Acoustic)
 
 > 「Modjo - Lady (Hear Me Tonight)」は、フランスのディスコデュオであるModjoが2000年にリリースしたシングルです。この曲は世界中で大ヒットし、多くのチャートで上位にランクインしました。
