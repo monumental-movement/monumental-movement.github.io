@@ -11,9 +11,11 @@ v-rating: VG
 
 #### UNKLE – In A State
 
-**A. In A State (Sasha Remix)**
 
-**B. In A State (Album Version)**
+A. In A State (Sasha Remix)
+
+B. In A State (Album Version)
+
 
 > 「In a State」は、イギリスのエレクトロニック・ミュージック・グループであるUNKLE（アンクル）による楽曲です。この曲は、彼らのアルバム「Psyence Fiction」に収録されており、その中でも特に注目されたトラックの一つです。
 

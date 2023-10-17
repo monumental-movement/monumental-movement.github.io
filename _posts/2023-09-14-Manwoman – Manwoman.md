@@ -11,16 +11,20 @@ v-rating: VG
 
 #### Manwoman – Manwoman
 
-**A1. Blk(black)out**
 
-**A2. Mukei-no-chi**
+A1. Blk(black)out
 
-**B1. Speedometer**
 
-**B2. Man And Woman**
+A2. Mukei-no-chi
+
+
+B1. Speedometer
+
+
+B2. Man And Woman
+
 
 > 95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
-
 
 
 [メルカリで購入](https://jp.mercari.com/item/m46814457892)

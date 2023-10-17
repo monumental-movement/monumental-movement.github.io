@@ -11,28 +11,36 @@ v-rating: VG
 
 #### Various – Class X Two
 
-**A1. Simple Minds–New Gold Dream**
 
-**A2. The Mood–Don't Stop**
+A1. Simple Minds–New Gold Dream
 
-**B1. A Flock Of Seagulls–Transfer Affection**
 
-**B2. Our Daughter's Wedding–Auto Music**
+A2. The Mood–Don't Stop
 
-**C1. Donna Summer–Our Love**
 
-**C2. The Cure–The Walk**
+B1. A Flock Of Seagulls–Transfer Affection
 
-**D1. Heaven 17–Let Me Go**
 
-**D2. Yazoo–Don't Go**
+B2. Our Daughter's Wedding–Auto Music
+
+
+C1. Donna Summer–Our Love
+
+
+C2. The Cure–The Walk
+
+
+D1. Heaven 17–Let Me Go
+
+
+D2. Yazoo–Don't Go
+
 
 > Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
 
 > オリジナル バージョンよりもさらに優れた素晴らしいものです。
 
 > この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
-
 
 
 

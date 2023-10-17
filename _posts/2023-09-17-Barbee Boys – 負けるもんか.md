@@ -11,11 +11,14 @@ v-rating: VG
 
 #### Barbee Boys – 負けるもんか
 
-**A. 負けるもんか**
 
-**B1. C'm'on Let's Go!**
+A. 負けるもんか
 
-**B2. 翔んでみせろ(ライブ)**
+
+B1. C'm'on Let's Go!
+
+
+B2. 翔んでみせろ(ライブ)
 
 
 > 「Barbee Boys - 負けるもんか」は、日本のロックバンドであるBarbee Boys（バービーボーイズ）による楽曲です。

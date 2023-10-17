@@ -11,13 +11,16 @@ v-rating: VG
 
 #### Joujouka – New Asians feat.浅野忠信
 
-**A1. NEW ASIANS**
 
-**A2. DON'T THINK, FEEL!!JOUJOUKA Remix**
+A1. NEW ASIANS
 
-**B1.DON'T THINK,FEEL!! feat.TADANOBU ASANO**
+A2. DON'T THINK, FEEL!!JOUJOUKA Remix
 
-**B2. DON'T THINK FEEL!!Captain Funk "CF in darkness"Version(Dub)**
+
+B1.DON'T THINK,FEEL!! feat.TADANOBU ASANO
+
+
+B2. DON'T THINK FEEL!!Captain Funk "CF in darkness"Version(Dub)
 
 
 > DJ TSUYOSHI率いるユニット、Joujoukaのメジャー・シングルのアナログ盤。アジアをテーマにした音の追求からブルース・リーの映画に出てくる台詞「考えるな、感じろ」をコンセプトにした作品。作詞・作曲/ヴォーカルに浅野忠信を迎えた意欲作。

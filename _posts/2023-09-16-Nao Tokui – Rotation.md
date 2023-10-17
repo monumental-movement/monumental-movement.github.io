@@ -11,13 +11,18 @@ v-rating: VG
 
 #### Nao Tokui – Rotation
 
-**A1. Rotation**
 
-**A2. Pine Ave**
+A1. Rotation
 
-**B1. On the Bank of Donau**
 
-**B2. Ms. Cherry**
+A2. Pine Ave
+
+
+B1. On the Bank of Donau
+
+
+B2. Ms. Cherry
+
 
 > 2004年のリリースでミニマルな４トラックを収録。
 

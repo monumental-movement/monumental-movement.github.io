@@ -11,14 +11,16 @@ v-rating: VG
 
 #### Cari Lekebusch – Universalsessions - Instrumentalicks
 
-**A. Conrad 4 (Instrumental)**
 
-**B. Video Hi 8 (Instrumental)**
+A. Conrad 4 (Instrumental)
+
+
+B. Video Hi 8 (Instrumental)
+
 
 > 1999年のリリースです。Side Bは特に素晴らしいエレクトロです。
 
 > ダークなメロディが静けさを感じさせるトラックです。
-
 
 
 [メルカリで購入](https://jp.mercari.com/item/m21088903450)

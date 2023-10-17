@@ -11,14 +11,20 @@ v-rating: VG
 
 #### Quarks – Allein
 
-**A. Allein (Augen Zu Und Durch)**
+
+A. Allein (Augen Zu Und Durch)
+
   Remix, Producer – Sascha Funke
 
-**B1. Allein (Rolling Luggage)**
+
+B1. Allein (Rolling Luggage)
+
 Remix, Producer – Swayzak
 Vocals [Additional Vox] – Darkfarmer
 
-**B2. Allein (Original)**
+
+B2. Allein (Original)
+
 
 > ドイツ・ベルリン出身のエレクトロポップデュオ「Quarks」は1995年に結成され、メンバーはグドルン・グート（Gudrun Gut）とトーマス・フェールマン（Thomas Fehlmann）。彼らは1990年代後半から2000年代初頭にかけて、ドイツのエレクトロニックミュージックシーンで人気を博しました。
 

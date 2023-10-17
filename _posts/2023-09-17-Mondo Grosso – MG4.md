@@ -11,29 +11,41 @@ v-rating: VG
 
 #### Mondo Grosso – MG4
 
-**A1  MG2SS**
 
-**A2  Butterfly**
+A1  MG2SS
 
-**B1  Show Me Your Love**
 
-**B2  Life**
+A2  Butterfly
 
-**C1  MG4BB**
 
-**C2  Cenário**
+B1  Show Me Your Love
 
-**D1  Samba Do Gato**
 
-**D2  Now You Know Better**
+B2  Life
 
-**E1  Star Suite I. New Star**
 
-**E2  Star Suite II. Fading Star**
+C1  MG4BB
 
-**F1  Star Suite IIII. North Star**
 
-**F2  1974-Way Home**
+C2  Cenário
+
+
+D1  Samba Do Gato
+
+
+D2  Now You Know Better
+
+
+E1  Star Suite I. New Star
+
+
+E2  Star Suite II. Fading Star
+
+
+F1  Star Suite IIII. North Star
+
+
+F2  1974-Way Home
 
 
 > 大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。

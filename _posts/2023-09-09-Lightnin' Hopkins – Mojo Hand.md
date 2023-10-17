@@ -11,23 +11,33 @@ v-rating: VG
 
 #### Lightnin' Hopkins – Mojo Hand
 
-**A1. Mojo Hand**
 
-**A2. Coffee For Mama**
+A1. Mojo Hand
 
-**A3. Awful Dream**
 
-**A4. Black Mare Trot**
+A2. Coffee For Mama
 
-**A5. Have You Ever Loved A Woman**
 
-**B1. Glory Bee**
+A3. Awful Dream
 
-**B2. Sometimes She Will**
 
-**B3. Shine On, Moon!**
+A4. Black Mare Trot
 
-**B4. Santa**
+
+A5. Have You Ever Loved A Woman
+
+
+B1. Glory Bee
+
+
+B2. Sometimes She Will
+
+
+B3. Shine On, Moon!
+
+
+B4. Santa
+
 
 > 「Mojo Hand（モジョ・ハンド）」は、著名なアメリカのブルースミュージシャン、ライトニン・ホプキンスによるクラシックなブルース曲です。この曲は1960年に初めて録音され、その後彼の代表曲の一つとなりました。特徴的なギタープレイと情熱的なボーカルが「Mojo Hand」を特徴づけています。
 

@@ -11,11 +11,15 @@ v-rating: VG
 
 #### Modjo – Chillin'
 
-**A  Chillin' (Original Extended Mix)**
 
-**B1  Chillin' Con Carne (Por Favor Mix by We In Music vs. The Buffalo Bunch)**
+A  Chillin' (Original Extended Mix)
 
-**B2  The Art Of Chillin'** 
+
+B1  Chillin' Con Carne (Por Favor Mix by We In Music vs. The Buffalo Bunch)
+
+
+B2  The Art Of Chillin'
+ 
 
 > 「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
 

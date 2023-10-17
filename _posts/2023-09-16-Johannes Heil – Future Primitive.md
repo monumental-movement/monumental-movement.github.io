@@ -11,23 +11,32 @@ v-rating: VG
 
 #### Johannes Heil – Future Primitive
 
-**A1  Future Primitive Intro**
 
-**A2  Children Of The Night**
+A1  Future Primitive Intro
 
-**A3  Play**
 
-**A4  Seven Stars**
+A2  Children Of The Night
 
-**B1  The Chains Of Babylon**
 
-**B2  Future Primitive**
+A3  Play
 
-**C1  Born In The Light**
 
-**C2  Golden Dawn**
+A4  Seven Stars
 
-**D   Cherubim**
+
+B1  The Chains Of Babylon
+
+
+B2  Future Primitive
+
+
+C1  Born In The Light
+
+
+C2  Golden Dawn
+
+
+D   Cherubim
 
 
 > ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。

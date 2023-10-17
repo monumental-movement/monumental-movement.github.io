@@ -11,13 +11,18 @@ v-rating: VG
 
 #### Mondo Grosso – Butterfly
 
-**A1  Butterfly (Main)**
 
-**A2  Butterfly (Sleepy Tongue Love Mix)**
+A1  Butterfly (Main)
 
-**B1  Butterfly (Francois K Jazzy Vibe Mix)**
 
-**B2  Butterfly (Main Instrumental)**
+A2  Butterfly (Sleepy Tongue Love Mix)
+
+
+B1  Butterfly (Francois K Jazzy Vibe Mix)
+
+
+B2  Butterfly (Main Instrumental)
+
 
 > 「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。
 

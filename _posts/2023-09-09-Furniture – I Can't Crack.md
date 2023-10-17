@@ -11,13 +11,18 @@ v-rating: VG
 
 #### Furniture – I Can't Crack
 
-**A1. I Can't Crack**
 
-**A2. Switch Off**
+A1. I Can't Crack
 
-**A3. Pause**
 
-**B1. I Can't Crack (Broken Mix)**
+A2. Switch Off
+
+
+A3. Pause
+
+
+B1. I Can't Crack (Broken Mix)
+
 
 > Furnitureは、1979年から1991年まで活動していたイギリスのポップバンドです。バンドのメンバーは、ジム・アーヴィン（ボーカルとパーカッション）、ティム・ウィーラン（ギター）、ハミルトン・リー（ドラムス）、サリー・スティル（ベース）、マヤ・ギルダー（キーボード）、ラリー・ナゾーン（サックス）でした。
 

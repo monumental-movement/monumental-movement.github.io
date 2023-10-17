@@ -11,14 +11,16 @@ v-rating: VG
 
 #### Super Dense Child – Bedroom Twiddling
 
-**A. Bedroom Twiddling (Part I)**
 
-**B. Bedroom Twiddling (Part II)**
+A. Bedroom Twiddling (Part I)
+
+
+B. Bedroom Twiddling (Part II)
+
 
 > 1999年にリリースされたロンドンのエイプマンレコーズの10インチです。
 
 > 「Super Dense Child」は、Jimmy RandallとNic Horsburghによるプロジェクト。
-
 
 
 [メルカリで購入](https://jp.mercari.com/item/m41293882699)

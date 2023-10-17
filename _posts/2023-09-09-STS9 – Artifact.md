@@ -11,16 +11,24 @@ v-rating: VG
 
 #### Sound Tribe Sector 9 – Artifact
 
-**A1. Possibilities**
 
-**A2. Tokyo**
+A1. Possibilities
 
-**A3. Vibyl**
-**B1. Peoples**
 
-**B2. Somesing**
+A2. Tokyo
 
-**B3. Better Day**
+
+A3. Vibyl
+
+
+B1. Peoples
+
+
+B2. Somesing
+
+
+B3. Better Day
+
 
 > 「Artifact」は、2005年にリリースされたサウンド・トライブ・セクター9（STS9）の3枚目のスタジオアルバムです。STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
 
@@ -29,7 +37,6 @@ v-rating: VG
 > A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ライブパフォーマンスでも頻繁に演奏されます。
 
 > 「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
-
 
 
 

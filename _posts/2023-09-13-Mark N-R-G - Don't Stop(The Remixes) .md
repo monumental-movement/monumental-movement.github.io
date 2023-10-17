@@ -11,9 +11,12 @@ v-rating: VG
 
 #### Mark N-R-G - Don't Stop(The Remixes)
 
-**A. Don't Stop (Remix By Daz Sound And Trevor Rockcliffe (Black & Brown))**
 
-**B. Don't Stop (Remix By Roland Casper)**
+A. Don't Stop (Remix By Daz Sound And Trevor Rockcliffe (Black & Brown))
+
+
+B. Don't Stop (Remix By Roland Casper)
+
 
 > マーク・エヌアールジー（Mark NRG）は、ドイツのフランクフルト出身のDJ兼音楽プロデューサーで,音楽活動を1989年にスタートしました。
 
@@ -22,7 +25,6 @@ v-rating: VG
 > 彼のキャリア初期には、ジャズやヒップホップの要素をハウス、テクノ、インダストリアルなどのエレクトロニックミュージックと見事に融合させたことで知られています。テクノシーンにおいても、クラブの環境で音響的にも卓越した作品を多くリリースし、この「Don't Stop」もその中の一つです。
 
 > マーク・エヌアールジーのレガシーは、今もなお世界中のエレクトロニックミュージックのファンに響き続けており、業界内の革新的なアーティストとしての地位を確立しています。
-
 
 
 [メルカリで購入](https://jp.mercari.com/item/m68077728341)

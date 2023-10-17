@@ -11,13 +11,19 @@ v-rating: VG
 
 #### DJ Krush FeatACO, Twigy –Tragicomic = 悲喜
 
-**A1. Tragicomic Featuring ACO, Twigy**
 
-**A2. Tragicomic (Instrumental)** 
+A1. Tragicomic Featuring ACO, Twigy
 
-**B1. Tragicomic (Beyond Real Mix)**
 
-**B2. Tragicomic (Beyond Real Mix Instrumental)**
+A2. Tragicomic (Instrumental)
+ 
+
+
+B1. Tragicomic (Beyond Real Mix)
+
+
+B2. Tragicomic (Beyond Real Mix Instrumental)
+
 
 > DJ Krushは、日本のヒップホップ、トリップホップ、ダウンテンポなどの音楽ジャンルで高く評価されるトラックメーカーで、その独自のサウンドとビートメイキングのスキルで知られています。ACOは、ソウルフルで感情的なヴォーカルスタイルで、日本国内外で高い評価を得ているシンガーの一人で、Twigyはラップのスキルとキャリアで注目を浴びています。
 

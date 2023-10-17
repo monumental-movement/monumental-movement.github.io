@@ -11,11 +11,15 @@ v-rating: VG
 
 #### Yoshinori Sunahara – Journey Beyond
 
-**A1. Journey Beyond The Stars**
 
-**A2. Journey Beyond The Stars(Schwebebalken Mix)**
+A1. Journey Beyond The Stars
 
-**B. Journey Beyond The Stars(A Moment In Space & Time Mix)**
+
+A2. Journey Beyond The Stars(Schwebebalken Mix)
+
+
+B. Journey Beyond The Stars(A Moment In Space & Time Mix)
+
 
 > 「Journey Beyond」は、砂原良徳の作品の一部で、彼の独自のサウンドスタイルを堪能できる楽曲の一つです。彼の音楽は、しばしば独創的で実験的でありながら、心地よいリラックス感も備えています。この曲は、アンビエント音楽の要素を取り入れつつも、砂原良徳自身の音楽的なビジョンを反映しています。
 

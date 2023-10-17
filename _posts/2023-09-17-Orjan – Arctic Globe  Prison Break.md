@@ -11,9 +11,11 @@ v-rating: VG
 
 #### Orjan – Arctic Globe  Prison Break
 
-**A. Arctic Globe**
 
-**AA. Prison Break**
+A. Arctic Globe
+
+
+AA. Prison Break
 
 
 > 「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。

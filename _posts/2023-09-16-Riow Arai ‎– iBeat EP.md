@@ -11,9 +11,11 @@ v-rating: VG
 
 #### Riow Arai – iBeat EP
 
-**A. iBeat**
 
-**B. Non Fiction**
+A. iBeat
+
+
+B. Non Fiction
 
 
 > 「iBeat EP」は、エレクトロニックミュージックを中心に展開され、テクノやヒップホップの要素も組み込まれたリズミカルでノリの良いトラックです。

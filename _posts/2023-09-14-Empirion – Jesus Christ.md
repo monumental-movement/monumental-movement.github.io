@@ -11,13 +11,18 @@ v-rating: VG
 
 #### Empirion – Jesus Christ
 
-**A. Jesus Christ**
 
-**B. Jesus Christ**
+A. Jesus Christ
 
-**C. Quark (Remix)**
 
-**D. New Religion**
+B. Jesus Christ
+
+
+C. Quark (Remix)
+
+
+D. New Religion
+
 
 > EmpirionはOz Morsley、Bobby Glennie、Jamie Smartの３人からなるユニットです。
 

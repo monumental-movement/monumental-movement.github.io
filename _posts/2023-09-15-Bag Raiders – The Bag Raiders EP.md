@@ -11,11 +11,14 @@ v-rating: VG
 
 #### Bag Raiders – The Bag Raiders EP
 
-**A1. Fun Punch**
 
-**A2. Punch Reprise**
+A1. Fun Punch
 
-**B. Nil By Mouth**
+
+A2. Punch Reprise
+
+
+B. Nil By Mouth
 
 
 > Bag Raidersは、オーストラリア出身の音楽デュオで、このEPにはヒット曲である「Fun Punch」が収録されています。

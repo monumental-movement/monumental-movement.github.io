@@ -11,13 +11,18 @@ v-rating: VG
 
 #### Various – Isolated Audio Players EP2
 
-**A1. Indopepsychics–D_P (Pt.2)**
 
-**A2. Takayuki Shiraishi–Flicker**
+A1. Indopepsychics–D_P (Pt.2)
 
-**B1. Jin Hiyama–Tennis**
 
-**B2. Dol-lop–Storm**
+A2. Takayuki Shiraishi–Flicker
+
+
+B1. Jin Hiyama–Tennis
+
+
+B2. Dol-lop–Storm
+
 
 > Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 
