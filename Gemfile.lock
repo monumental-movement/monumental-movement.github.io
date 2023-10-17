@@ -141,12 +141,9 @@ GEM
     zeitwerk (2.3.0)
 
 PLATFORMS
-  universal-darwin-22
   x64-mingw32
-  x86_64-linux
 
 DEPENDENCIES
-  fastlane
   bootstrap (~> 4.4.1)
   jekyll-archives
   jekyll-feed
