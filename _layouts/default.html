@@ -6,12 +6,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ title }}">
     <meta name="twitter:description" content="{{ description }}">
-
-    {% if image contains '://' %}
-        <meta property="twitter:image" content="{{ image }}">
-    {% else %}
-        <meta property="twitter:image" content="{{ image | prepend: site.url }}">
-    {% endif %}
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
