@@ -11,8 +11,6 @@ v-rating: VG
 
 #### Ray Okpara – Blues Me Blues
 
-Ray Okpara – Blues Me Blues
-
 A1. Blues Me Blues
 
 B1. Bounce To This Featuring – Obi Jazz
