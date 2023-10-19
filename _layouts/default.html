@@ -3,20 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ title }}">
-<meta name="twitter:site" content="">
-<meta name="twitter:description" content="{{ description }}">
 
-    {% if image contains '://' %}
-        <meta property="twitter:image" content="{{ image }}">
-    {% else %}
-        <meta property="twitter:image" content="{{ image | prepend: site.url }}">
-    {% endif %}
-    
-    {% if site.mmrecords_japan %}
-        <meta name="twitter:site" content="@{{ site.mmrecords_japan }}">
-    {% endif %}
+{% include twitter-card.html %}
+
     
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
