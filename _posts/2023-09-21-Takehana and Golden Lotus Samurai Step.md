@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Takehana and Golden Lotus Samurai Step"
+title:  "Takehana and Golden Lotus - Samurai Step"
 author: mmr
 categories: [ レコード ]
 tags: [ アブストラクト, ジャズ ]
@@ -9,9 +9,7 @@ rating: 4.5
 v-rating: VG
 ---
 
-#### Takehana & Golden Lotus Samurai Step
-
-Takehana & Golden Lotus – Samurai Step
+#### Takehana & Golden Lotus - Samurai Step
 
 A  Steppen Step
 
