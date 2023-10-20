@@ -4,7 +4,7 @@ title:  "Wu-Tang Clan – C.R.E.A.M."
 author: mmr
 categories: [ レコード ]
 tags: [ ヒップホップ, ウータン ]
-image: ../assets/images/Wu-Tang Clan – C.R.E.A.M..jpg
+image: ../assets/images/Wu-Tang Clan – CREAM.jpg
 rating: 4.5
 v-rating: VG
 ---
