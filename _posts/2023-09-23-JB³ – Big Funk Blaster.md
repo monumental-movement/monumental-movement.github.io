@@ -3,7 +3,7 @@ layout: post
 title:  "JB³ – Big Funk Blaster"
 author: mmr
 categories: [ レコード ]
-tags: [ トランス, サイケデリック ]
+tags: [ テクノ, ファンク ]
 image: ../assets/images/JB³ – Big Funk Blaster.jpg
 rating: 4.5
 v-rating: VG
