@@ -5,7 +5,7 @@ author: mmr
 categories: [ レコード ]
 tags: [ ハウス, ディスコ ]
 image: ../assets/images/Love Boat People –3 Some Too The Other Woorld Dontcha Know.jpg
-rating: 5.0
+rating: 4.5
 v-rating: VG
 ---
 
