@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Kitsuné X"
 author: mmr
-categories: [ レコード ]
+categories: [ CD ]
 tags: [ ハウス, エレクトロ ]
 image: ../assets/images/Various – Kitsuné X.jpg
 rating: 4.5
