@@ -4,7 +4,7 @@ title:  "Headshop – 4 Sale!"
 author: mmr
 categories: [ レコード ]
 tags: [ テクノ, ハードコアテクノ ]
-image: ../assets/images/Headshop – 4 Sale!.jpg
+image: ../assets/images/Headshop – 4 Sale.jpg
 rating: 4.5
 v-rating: VG
 ---
