@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Union Jack – Cactus Morning Glory.jpg"
+title:  "Union Jack – Cactus Morning Glory"
 author: mmr
 categories: [ レコード ]
 tags: [ トランス, プログレッシブ ]
-image: ../assets/images/Union Jack – Cactus Morning Glory.jpg.jpg
+image: ../assets/images/Union Jack – Cactus Morning Glory.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-#### Union Jack – Cactus Morning Glory.jpg
+#### Union Jack – Cactus Morning Glory
 
 A. Cactus
 
