@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Deee-Lite – Christine 23 Onna – Shiny Crystal Planet"
+title:  "Christine 23 Onna – Shiny Crystal Planet"
 author: mmr
 categories: [ CD ]
 tags: [ サイケデリック, ノイズ ]
-image: ../assets/images/Deee-Lite – Christine 23 Onna – Shiny Crystal Planet.jpg
+image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-#### Deee-Lite – Christine 23 Onna – Shiny Crystal Planet
+#### Christine 23 Onna – Shiny Crystal Planet
 
 1. Drive To Crystal Planet
 
