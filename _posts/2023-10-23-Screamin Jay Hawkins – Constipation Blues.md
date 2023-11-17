@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Screamin' Jay Hawkins – Constipation Blues"
+title:  "Screamin Jay Hawkins – Constipation Blues"
 author: mmr
 categories: [ レコード ]
 tags: [ ソウル, 70s, 7 ]

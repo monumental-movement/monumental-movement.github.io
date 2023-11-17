@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "The Bee Gees –  Massachusetts"
+title:  "The Bee Gees – Massachusetts"
 author: mmr
 categories: [ レコード ]
 tags: [ ポップス, ロック, 7インチ ]
-image: ../assets/images/The Bee Gees –  Massachusetts.jpg
+image: ../assets/images/The Bee Gees – Massachusetts.jpg
 rating: 3.5
 v-rating: VG
 ---
 
-#### The Bee Gees –  Massachusetts
+#### The Bee Gees – Massachusetts
 
 A. Massachusetts（マサチューセッツ）
 
