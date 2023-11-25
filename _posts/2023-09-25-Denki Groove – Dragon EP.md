@@ -3,7 +3,7 @@ layout: post
 title:  "Denki Groove – Dragon EP"
 author: mmr
 categories: [ レコード ]
-tags: [ テクノ, エレクトロ ]
+tags: [ テクノ, Jポップ ]
 image: ../assets/images/Denki Groove – Dragon EP.jpg
 rating: 4.5
 v-rating: VG
@@ -11,19 +11,23 @@ v-rating: VG
 
 #### Denki Groove – Dragon EP
 
-A1. I Am Ready
+A1. Dinosaur Tank
 
-B1. Music Ventilator
+A2. Baron Dance
 
-> I Am Ready EP」は、スロベニア出身のテクノDJおよびプロデューサーであるUmekによるEPです。
+B1. The Marble Men
 
-> このEPには、Umekの特徴的なテクノサウンドが詰まっており、ダンサブルなビート、グルーヴィなベースライン、洗練されたシンセサウンドが特徴です。彼の楽曲は、パワフルでハイエナジーな要素とメロディアスな要素を組み合わせ、クラブシーンでのプレイに最適な楽曲となっています。
+B2. Brazilian Cowboy
 
-> 「I Am Ready EP」は、Umekのファンやテクノミュージック愛好家にとって、彼の音楽の最新の表現として注目される作品となっており、Umekの音楽の魅力と独自性を堪能することができます。彼のサウンドは、テクノミュージックの進化と革新に寄与しており、多くの人々にとって不可欠な存在となっています。
+> タイトル曲「Dragon」は、エレクトロニックミュージックとテクノの要素を組み合わせたダンサブルな楽曲です。電気グルーヴ独自のサウンドとリズムが特徴であり、ユニークなメロディとビートが聴く人を魅了します。
+
+> 「Dragon EP」は、さまざまな音楽スタイルとアプローチが試されています。電気グルーヴの実験的な要素や遊び心が楽曲に反映されており、その独自性と創造性が際立っています。
+
+> このEPは、電気グルーヴのファンにとっては貴重な一枚であり、彼らの音楽の進化や新たな試みを感じることができます。また、電気グルーヴの音楽を初めて聴く人にとっても、そのユニークなサウンドとエネルギーに触れる絶好の機会となるでしょう。
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m16340275000)
+[メルカリで購入](https://jp.mercari.com/item/m27644764690)
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">
