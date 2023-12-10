@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mad Max – Rollin' Thunder"
+title:  "Mad Max – Rollin Thunder"
 author: mmr
 categories: [ レコード ]
 tags: [ ヘヴィメタル, ハードロック ]
