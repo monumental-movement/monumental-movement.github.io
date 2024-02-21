@@ -5,7 +5,7 @@ description: "Monumental Movement"
 logo: '../assets/images/logo.png'
 favicon: '../assets/images/logo.png'
 baseurl: '/'
-site:url: 'https://monumental-movement.jp/'
+site:url: '/'
 google_analytics: 'G-YYMSK3VLV2'
 disqus: 'mmr'
 mailchimp-list: 'monumental-movement'
