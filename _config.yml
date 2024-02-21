@@ -4,7 +4,8 @@ title: "m.m.r"
 description: "Monumental Movement"
 logo: '../assets/images/logo.png'
 favicon: '../assets/images/logo.png'
-baseurl: 'https://twitter.com/mmrecords_japan/'
+baseurl: 'https://monumental-movement.jp/'
+site:url: 'https://monumental-movement.jp/'
 google_analytics: 'G-YYMSK3VLV2'
 disqus: 'mmr'
 mailchimp-list: 'monumental-movement'
