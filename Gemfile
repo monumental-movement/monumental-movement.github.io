@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 
 # If you have any plugins, put them here!
-gem 'gekyll', '~>= 4.2' if Gem.win_platform?
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
@@ -19,5 +19,4 @@ group :jekyll_plugins do
     gem 'bootstrap', '~> 4.4.1'
     gem 'kramdown'
     gem 'rouge'
-    gem "jekyll-timeago", "~> 0.13.1"
 end
