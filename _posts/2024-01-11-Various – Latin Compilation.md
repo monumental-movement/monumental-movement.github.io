@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Various –Latin Compilation"
+title:  "Various – Latin Compilation"
 author: mmr
 categories: [ レコード ]
 tags: [ ラテン, レゲエ, レゲトン ]
@@ -9,9 +9,9 @@ rating: 3.5
 v-rating: VG
 ---
 
-#### Various –Latin Compilation
+#### Various – Latin Compilation
 
-Various –ラテン・コンピレーション
+Various – ラテン・コンピレーション
 
 A1. Trebol Clan – Agarrate
 A2. Nicky Jam – Metele
