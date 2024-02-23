@@ -4,7 +4,7 @@ title:  "Various – Latin Compilation"
 author: mmr
 categories: [ レコード ]
 tags: [ ラテン, レゲエ, レゲトン ]
-image: ../assets/images/Various –Latin Compilation.jpg
+image: ../assets/images/Various – Latin Compilation.jpg
 rating: 3.5
 v-rating: VG
 ---
