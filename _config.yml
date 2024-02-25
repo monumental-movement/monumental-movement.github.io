@@ -4,7 +4,8 @@ title: "m.m.r"
 description: "Monumental Movement"
 logo: '../assets/images/logo.png'
 favicon: '../assets/images/logo.png'
-baseurl: /
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://monumental-movement.jp" # the base hostname & protocol for your site
 google_analytics: 'G-YYMSK3VLV2'
 disqus: 'mmr'
 mailchimp-list: 'monumental-movement'
