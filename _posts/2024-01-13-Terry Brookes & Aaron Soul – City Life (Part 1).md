@@ -14,7 +14,9 @@ v-rating: VG
 テリー・ブルックス&アーロン・ソウル
 
 A. City Life (Carl Craig's Max Mix) 
+
 B1. City Life (Original Version)
+
 B2. City Life (Deepart Mix) 
 
 1999年にChristiaan MacdonaldとAntal Heitlagerによって設立された、アムステルダムに拠点を置くオランダのレコードレーベルRush Hourから2005年にリリースされたハウストラック。

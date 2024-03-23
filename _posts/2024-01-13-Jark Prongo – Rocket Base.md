@@ -18,7 +18,9 @@ A1. Rocket Base (Laidback Luke Mix) Remix – Laidback Luke
 A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
 Vocals – Afrika Islam
 
-オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongoは、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
+オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongoは、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
+
+また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
 
 同じ年に、彼らはレコードレーベルFresh Fruitを設立しました。彼らがFresh Fruitでリリースしたほとんどのトラックは、1995年にレーベルを離れるまでのものでした。
 

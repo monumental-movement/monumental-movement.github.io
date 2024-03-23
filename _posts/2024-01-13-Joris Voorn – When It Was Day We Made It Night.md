@@ -14,8 +14,11 @@ v-rating: VG
 ヨリス・ヴォーン
 
 A1. Minor
+
 A2. When It Became Real
+
 B1. Decay
+
 B2. When It Was Day We Made It Night
 
 [メルカリで購入](https://jp.mercari.com/item/m54807852331?afid=6142608987)

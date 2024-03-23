@@ -12,9 +12,11 @@ v-rating: VG
 #### Justin Berkovi – Fast- Wide E.P
 
 A1. Brutal City
+
 A2. Risk Rumblin'
 
 B1. Steadycam
+
 B2. Neon
 
 ロンドンを拠点とするイギリスのテクノDJおよびプロデューサーであるJustin BerkoviはPredicamentsの創設者です。

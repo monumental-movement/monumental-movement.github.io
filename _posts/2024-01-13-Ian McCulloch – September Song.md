@@ -14,9 +14,12 @@ v-rating: VG
 A. September Song (Long Version)
 
 B1. September Song (Short Version)
+
 B2. Cockles And Mussels
 
-Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。
+Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。
+
+彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。
 
 [メルカリで購入](https://jp.mercari.com/item/m99638933922?afid=6142608987)
 

@@ -12,8 +12,11 @@ v-rating: VG
 #### Jjak Hogan – Jjak Hogan EP
 
 A1. Dev
+
 A2. 2 Far Advanced
+
 B1. Outdere
+
 B2. Warped Up
 
 RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年にリリースされた、USデュオJJAK HOGANによるエレクトロ・ブレイクビーツ＆ラップトラック。

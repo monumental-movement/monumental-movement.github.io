@@ -14,9 +14,11 @@ v-rating: EX
 パット・マッグリン –あの娘はアイドル
 
 A. She'd Rather Be With Me (あの娘はアイドル)
+
 B. Street Walkin' Girl (テクニカラーの女の子)
 
 スコットランド出身のパット・マッグリンは、1976年後半にBay City Rollers（ベイ シティ ローラーズ）のギタリストとして活動したのち、自身のバンドPat McGlynn's Scotties（パット・マクグリンズ・スコッティズ）を結成。
+
 「She'd Rather Be With Me 」は、1977年にLondon Recordsよりリリースされた。プロデューサーはNick Raymonde。
 
 [メルカリで購入](https://jp.mercari.com/item/m46039365171?afid=6142608987)

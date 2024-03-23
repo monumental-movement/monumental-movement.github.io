@@ -12,11 +12,15 @@ v-rating: VG
 #### Stacs Of Stamina – Mistake Rewind Repeat EP
 
 A1. Mistake, Rewind, Repeat
+
 A2. Boy Go Get Your Gun Featuring – Yarah Bravo
+
 A3. For Crying Out Loud (That's Loud!)
 
 B1. Mistake, Rewind, Repeat (dDamage Remix) 
+
 B2. Mistake, Rewind, Repeat (Para One Remix) 
+
 B3. Mistake, Rewind, Repeat (Original Johan Instr)
 
 UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。

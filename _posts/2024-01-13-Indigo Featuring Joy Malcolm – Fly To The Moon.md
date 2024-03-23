@@ -12,6 +12,7 @@ v-rating: VG
 #### Indigo Featuring Joy Malcolm – Fly To The Moon
 
 A. Fly To The Moon (The Mood II Swing Club Remix)
+
 B. Fly To The Moon (The Mood II Swing Sentinal Dub)
 
 1999年にUKのレーベル「Defender Music」からリリースされた本名Luke Purewalによるプロジェクト「Indigo」のEPです。

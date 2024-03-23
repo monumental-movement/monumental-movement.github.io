@@ -14,6 +14,7 @@ v-rating: VG
 ダニエル・ブーン – ビューティフル・サンデー
 
 A. Beautiful Sunday (ビューティフルサンデー)
+
 B. Sleepy Head (スリーピー・ヘッド)
 
 Daniel Boone(ダニエル　ブーン)は、イギリス出身のシンガーソングライター。

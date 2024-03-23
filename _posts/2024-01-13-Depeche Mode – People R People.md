@@ -12,9 +12,11 @@ v-rating: VG
 #### Depeche Mode – People R People
 
 デペッシュモード
+
 remixe- Bastone & Burnz
 
 A. People Are People
+
 B. People Are People (Dub)
 
 Depeche Mode（デペッシュモード）「People R People」をB&BことBastone & Burnz（フレディ・バストン＆ジェフリー・バーンスタイン）がハウスremix。1999年リリース。

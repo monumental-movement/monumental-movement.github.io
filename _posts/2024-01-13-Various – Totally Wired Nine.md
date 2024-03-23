@@ -10,17 +10,25 @@ v-rating: VG
 ---
 
 #### Various – Totally Wired Nine
+
 アシッドジャズコンピレーション
 
 A1.Max Beesley's High Vibes – Mr. Jeckle
+
 A2.Mother Earth(マザー・アース)– Warlocks Of Pendragon
+
 A3.Robbie Gordon – Dat's Slammin'
+
 A4.Sons Of Judah – Peter And The Wolf In Sheeps' Clothing
 
 B1.G. Wiggs, Mikey Supa, Jonzi – Groove Goin' On (The O'Song)
+
 B2.Brenda George – I Can't Stand It (I Can't Take No More)
+
 B3.Corduroy(コーデュロイ) – Electric Soup
+
 B4.The Grass Snakes – That's It
+
 B5.Raw – Dreams
 
 UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。

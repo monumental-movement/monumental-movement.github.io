@@ -14,9 +14,11 @@ v-rating: VG
 クラクソンズ
 
 A1. Gravity's Rainbow
+
 A2. Gravity's Rainbow (Van She Remix)
 
 B1. Gravity's Rainbow (Nightmoves Remix)
+
 B2. Gravity's Rainbow (To My Boy Remix)
 
 
@@ -24,7 +26,9 @@ Klaxons (クラクソンズ) は、UKニュークロスで2005年に結成され
 
 A面２曲目はオーストラリア出身のエレクトロポップ バンドVan She（ヴァンシー）によるremix。
 
-B面１曲目はNightmovesことMatt Waitesによるremix。B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
+B面１曲目はNightmovesことMatt Waitesによるremix。
+
+B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987)
 

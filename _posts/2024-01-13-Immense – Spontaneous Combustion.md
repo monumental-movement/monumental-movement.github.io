@@ -12,7 +12,9 @@ v-rating: VG
 #### Immense – Spontaneous Combustion
 
 A1. Spontaneous Combustion
+
 B1. E Flat Sonic (Boom)
+
 B2. Perhaps You Should Talk To Someone
 
 1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。

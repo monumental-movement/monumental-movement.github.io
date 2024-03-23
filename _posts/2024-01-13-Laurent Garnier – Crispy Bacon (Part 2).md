@@ -14,7 +14,9 @@ v-rating: VG
 ローラン・ガルニエ
 
 A. Crispy Bacon (Aux 88 Mix) 
+
 B1. Orgasm
+
 B2. Crispy Bacon (Gilb'r Versatile Mix) 
 
 Laurent Garnier(ローラン・ガルニエ）は、Choice（チョイス）としても知られるフランスの電子音楽プロデューサー兼 DJ。

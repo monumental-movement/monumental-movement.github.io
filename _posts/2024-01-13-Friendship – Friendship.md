@@ -14,11 +14,17 @@ v-rating: VG
 フレンドシップ
 
 A1. Bullet Train
+
 A2. Tighten Up
+
 A3. The Situation
+
 A4. Let's Not Talk About It
+
 B1. Here Today Hear Tomorrow
+
 B2. Waterwings
+
 B3. The Real Thing
 
 Abraham Laboriel（エイブラハム・ラボリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作されたジャズファンクアルバム。1979年リリース。

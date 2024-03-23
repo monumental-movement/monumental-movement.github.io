@@ -12,6 +12,7 @@ v-rating: VG
 #### Kobbe & Austin Leeds – Fusing Love
 
 A. Fusing Love (Original)
+
 B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
 
 アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。

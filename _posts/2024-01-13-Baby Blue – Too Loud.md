@@ -14,10 +14,14 @@ v-rating: VG
 ベイビーブルー
 
 A. Too Loud (Original Mix)
+
 B1. Too Loud (Trevor Rockcliffe Remix)
+
 B2. Too Loud (Dave Audé Remix)
 
-Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。別名義で、Tin Tin Outとしても活躍した。
+Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
+
+別名義で、Tin Tin Outとしても活躍した。
 
 B面１曲目は、Love Parade, Dance Planet, Tribal Gatheringなどのフェスや世界的に有名なクラブで活躍するTrevor Rockcliffeによるremix。
 
