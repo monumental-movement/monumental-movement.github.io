@@ -11,23 +11,19 @@ jQuery(document).ready(function($){
         }
       }, 1);
 
-      // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
-      $('a[href*=\\#]:not([href=\\#])').click(function() {
+    // Smooth scroll
+    
+    $('a[href*=#]:not([href=#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-          smoothScrollTo($(this.hash));
-          return false;
+   
+   $('body, html').stop().animate({
+                    'scrollTop': $($(this).attr('href')).offset().top
+                }, 980);
+                
+                return false;
+            
+            
         }
-      });
-
-      function smoothScrollTo(target) {
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-
-        if (target.length) {
-          $('html,body').animate({
-            scrollTop: target.offset().top
-          }, 1000);
-        }
-      }
     });
 	
 	
