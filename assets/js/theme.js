@@ -5,7 +5,7 @@ jQuery(document).ready(function($){
       setTimeout(function() {
         if (location.hash) {
           /* we need to scroll to the top of the window first, because the browser will always jump to the anchor first before JavaScript is ready, thanks Stack Overflow: http://stackoverflow.com/a/3659116 */
-          window.scrollTo(0, 0);
+          window.scrollTo(0, 1);
           target = location.hash.split('#');
           smoothScrollTo($('#'+target[1]));
         }
@@ -67,7 +67,7 @@ else window.addEventListener('load', loadDeferredStyles);
 // Reset animations on page: body.preload
 setTimeout(function(){
 	document.body.className="";
-},1);
+},500);
 
 // Open/close navigation when clicked .nav-icon
 $(document).ready(function(){
