@@ -150,12 +150,20 @@ $(document).ready(function(){
 
     //Check to see if the window is top if not then display button
     $(window).scroll(function(){
-        if ($(this).scrollTop() > 300) {
+        if ($(this).scrollTop() > 10) {
             $('.scroll-top').addClass('active');
         } else {
             $('.scroll-top').removeClass('active');
         }
     });
+
+    //Click event to scroll to top
+    $('.scroll-top').click(function(){
+        $('html, body').animate({scrollTop : 0},1);
+        return false;
+    });
+
+});
 
 
 // DOCS
