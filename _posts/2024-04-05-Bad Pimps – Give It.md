@@ -21,7 +21,7 @@ B2. Get On Up!
 
 Bad Pimpsは、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
 
-Monika Kruse（モニカクルス）のレーベルTerminal Mかた2002年にリリースされたテクノ・テックハウストラック。
+Monika Kruse（モニカクルス）のレーベルTerminal Mから2002年にリリースされたテクノ・テックハウストラック。
 
 [メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987)
 
