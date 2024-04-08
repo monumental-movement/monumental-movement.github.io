@@ -67,7 +67,7 @@ else window.addEventListener('load', loadDeferredStyles);
 // Reset animations on page: body.preload
 setTimeout(function(){
 	document.body.className="";
-},500);
+},1);
 
 // Open/close navigation when clicked .nav-icon
 $(document).ready(function(){
@@ -150,7 +150,7 @@ $(document).ready(function(){
 
     //Check to see if the window is top if not then display button
     $(window).scroll(function(){
-        if ($(this).scrollTop() > 3000) {
+        if ($(this).scrollTop() > 300) {
             $('.scroll-top').addClass('active');
         } else {
             $('.scroll-top').removeClass('active');
@@ -159,7 +159,7 @@ $(document).ready(function(){
 
     //Click event to scroll to top
     $('.scroll-top').click(function(){
-        $('html, body').animate({scrollTop : 0},3000);
+        $('html, body').animate({scrollTop : 0},300);
         return false;
     });
 
