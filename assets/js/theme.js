@@ -12,12 +12,6 @@ jQuery(document).ready(function($){
       }, 1);
 
 
-      window.onload = function(){
-      	if(document.body.scrollTop == 0){
-      		setTimeout(function(){scrlollTo(0,1)}, 1);
-      	}
-      	};
-
       // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
       $('a[href*=\\#]:not([href=\\#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
@@ -156,13 +150,11 @@ if (hasTouch()) {
 $(document).ready(function(){
 
     //Check to see if the window is top if not then display button
-    $(window).scroll(function(){
-        if ($(this).scrollTop() > 300) {
-            $('.scroll-top').addClass('active');
-        } else {
-            $('.scroll-top').removeClass('active');
-        }
-    });
+    $(window).onload = function(){
+      	if(document.body.scrollTop == 0){
+      		setTimeout(function(){scrlollTo(0,1)}, 1);
+      	}
+      	};
 
     //Click event to scroll to top
     $('.scroll-top').click(function(){
