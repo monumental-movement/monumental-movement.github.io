@@ -11,6 +11,13 @@ jQuery(document).ready(function($){
         }
       }, 1);
 
+
+      window.onload = function(){
+      	if(document.body.scrollTop == 0){
+      		setTimeout(function(){scrlollTo(0,1)}, 1);
+      	}
+      	};
+
       // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
       $('a[href*=\\#]:not([href=\\#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
