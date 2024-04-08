@@ -5,19 +5,28 @@ jQuery(document).ready(function($){
       setTimeout(function() {
         if (location.hash) {
           /* we need to scroll to the top of the window first, because the browser will always jump to the anchor first before JavaScript is ready, thanks Stack Overflow: http://stackoverflow.com/a/3659116 */
-          window.scrollTo(0, 1);
+          window.scrollTo(0, 0);
           target = location.hash.split('#');
           smoothScrollTo($('#'+target[1]));
         }
       }, 1);
 
       // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
-      $('a[href*=\\#]:not([href=\\#])').click(function() {
-        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-          smoothScrollTo($(this.hash));
-          return false;
-        }
-      });
+      $('a[href*="#"]').on('click', function (e) {
+	// リンク先が現在のページ内のものかを判定
+	if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+		// クリックされたaタグのhref属性で指定された要素を取得する
+		var target = $(this.hash);
+		// もしtargetに対応する要素が存在しなかった場合、name属性による検索でtargetを取得する
+		target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+		if (target.length) {
+			// smoothScroll関数を呼び出して、スムーズスクロールを行う
+			smoothScroll(target);
+			return false;
+		}
+	}
+});
+
 
       function smoothScrollTo(target) {
         target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
