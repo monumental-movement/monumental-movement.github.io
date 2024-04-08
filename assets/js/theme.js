@@ -27,6 +27,19 @@ jQuery(document).ready(function($){
 	}
 });
 
+      // URLに#が含まれる場合、その要素までスムーズスクロールする
+$(document).ready(function () {
+	if (window.location.hash) {
+		// URLの#以降の文字列で指定された要素を取得する
+		var target = $(window.location.hash);
+		if (target.length) {
+			// smoothScroll関数を呼び出して、スムーズスクロールを行う
+			smoothScroll(target);
+			return false;
+		}
+	}
+});
+
 
       function smoothScrollTo(target) {
         target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
