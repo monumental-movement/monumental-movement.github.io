@@ -25,7 +25,7 @@ jQuery(document).ready(function($){
         if (target.length) {
           $('html,body').animate({
             scrollTop: target.offset().top
-          }, 1000);
+          }, 10000);
         }
       }
     });
@@ -150,7 +150,7 @@ $(document).ready(function(){
 
     //Check to see if the window is top if not then display button
     $(window).scroll(function(){
-        if ($(this).scrollTop() > 10) {
+        if ($(this).scrollTop() > 300) {
             $('.scroll-top').addClass('active');
         } else {
             $('.scroll-top').removeClass('active');
@@ -159,7 +159,7 @@ $(document).ready(function(){
 
     //Click event to scroll to top
     $('.scroll-top').click(function(){
-        $('html, body').animate({scrollTop : 0},1);
+        $('html, body').animate({scrollTop : 0},300);
         return false;
     });
 
