@@ -2,7 +2,7 @@
 layout: post
 title:  "Clivillés & Cole – A Deeper Love (A Deeper Feeling Mix)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Clivilles & Cole – A Deeper Love (A Deeper Feeling Mix).jpg
 rating: 3.5

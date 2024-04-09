@@ -2,7 +2,7 @@
 layout: post
 title:  "Stacs Of Stamina – Mistake Rewind Repeat EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エクスペリメンタル, グリッチ, ガラージ ]
 image: ../assets/images/Stacs Of Stamina – Mistake Rewind Repeat EP.jpg
 rating: 4.5

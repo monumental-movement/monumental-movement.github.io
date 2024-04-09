@@ -2,7 +2,7 @@
 layout: post
 title:  "Shantel – EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, フューチャージャズ ]
 image: ../assets/images/Shantel – EP.jpg
 rating: 3.5

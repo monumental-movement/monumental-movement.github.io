@@ -2,7 +2,7 @@
 layout: post
 title:  "The Monkees - Words"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ポップス, 7インチ ]
 image: ../assets/images/The Monkees - Words.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Umek – Lanicor"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, レア ]
 image: ../assets/images/Umek – Lanicor.jpg
 rating: 4.5

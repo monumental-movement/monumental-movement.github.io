@@ -2,7 +2,7 @@
 layout: post
 title:  "Justin Berkovi – I Can Feel The Sound"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, UKテクノ ]
 image: ../assets/images/Justin Berkovi – I Can Feel The Sound.jpg
 rating: 4.5

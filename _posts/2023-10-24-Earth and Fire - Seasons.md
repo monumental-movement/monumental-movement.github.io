@@ -2,7 +2,7 @@
 layout: post
 title:  "Earth and Fire - Seasons"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, プログレッシブ, 7インチ ]
 image: ../assets/images/Earth and Fire - Seasons.jpg
 rating: 3.5

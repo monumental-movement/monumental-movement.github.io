@@ -2,7 +2,7 @@
 layout: post
 title:  "Pike's Peak – All Around My City"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, スカ ]
 image: ../assets/images/Pike's Peak – All Around My City.jpg
 rating: 3.5

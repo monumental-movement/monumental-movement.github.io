@@ -2,7 +2,7 @@
 layout: post
 title:  "Dub War – Wrong Side Of Beautiful"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダブ, レゲエ ]
 image: ../assets/images/Dub War – Wrong Side Of Beautiful.jpg
 rating: 3.5

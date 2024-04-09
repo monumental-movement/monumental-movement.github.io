@@ -2,7 +2,7 @@
 layout: post
 title:  "The Belle Stars– Iko Iko"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ポップス, UKポップス, 7インチ ]
 image: ../assets/images/The Belle Stars– Iko Iko.jpg
 rating: 3.5

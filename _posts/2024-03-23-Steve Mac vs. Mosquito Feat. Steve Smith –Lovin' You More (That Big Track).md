@@ -2,7 +2,7 @@
 layout: post
 title:  "Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, UKハウス, 00s ]
 image: ../assets/images/Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track).jpg
 rating: 4.5

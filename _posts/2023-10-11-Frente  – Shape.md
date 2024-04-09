@@ -2,7 +2,7 @@
 layout: post
 title:  "Frente  – Shape"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, フォーク ]
 image: ../assets/images/Frente  – Shape.jpg
 rating: 3.5

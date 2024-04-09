@@ -2,7 +2,7 @@
 layout: post
 title:  "Wink – Higher State Of Consciousness"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アシッド ]
 image: ../assets/images/Wink – Higher State Of Consciousness.jpg
 rating: 4.5

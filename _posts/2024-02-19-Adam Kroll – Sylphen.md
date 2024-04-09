@@ -2,7 +2,7 @@
 layout: post
 title:  "Adam Kroll – Sylphen"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, テックハウス, エレクトロ ]
 image: ../assets/images/Adam Kroll – Sylphen.jpg
 rating: 4.5

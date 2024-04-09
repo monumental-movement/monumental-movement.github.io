@@ -2,7 +2,7 @@
 layout: post
 title:  "Sexual Harrassment – I Need A Freak"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, アンセム ]
 image: ../assets/images/Sexual Harrassment – I Need A Freak.jpg
 rating: 3.5

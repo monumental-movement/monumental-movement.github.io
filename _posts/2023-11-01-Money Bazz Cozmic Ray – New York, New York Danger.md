@@ -2,7 +2,7 @@
 layout: post
 title:  "Money Bazz Cozmic Ray – New York, New York Danger"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ ]
 image: ../assets/images/Money Bazz Cozmic Ray – New York, New York Danger.jpg
 rating: 3.5

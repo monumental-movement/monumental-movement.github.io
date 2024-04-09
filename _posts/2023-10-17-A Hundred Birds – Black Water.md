@@ -2,7 +2,7 @@
 layout: post
 title:  "A Hundred Birds – Black Water"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/A Hundred Birds – Black Water.jpg
 rating: 4.5

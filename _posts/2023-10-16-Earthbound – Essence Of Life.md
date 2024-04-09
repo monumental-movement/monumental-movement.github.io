@@ -2,7 +2,7 @@
 layout: post
 title:  "Earthbound – Essence Of Life"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Earthbound – Essence Of Life.jpg
 rating: 3.5

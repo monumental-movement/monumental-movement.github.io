@@ -2,7 +2,7 @@
 layout: post
 title:  "DSK – What Would We Do"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, 90s ]
 image: ../assets/images/DSK – What Would We Do.jpg
 rating: .45

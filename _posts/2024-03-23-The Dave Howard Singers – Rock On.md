@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dave Howard Singers – Rock On"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ EBM, カバー, 80s ]
 image: ../assets/images/The Dave Howard Singers – Rock On.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Rough Cutt – Rough Cutt"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ハードロック ]
 image: ../assets/images/Rough Cutt – Rough Cutt.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ ]
 image: ../assets/images/Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark EP.jpg
 rating: 3.5

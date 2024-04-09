@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Golden R&B"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ソウル, RnB, 7インチ ]
 image: ../assets/images/Various – Golden RnB.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Zorro – Fuego"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハイバーテクノ ]
 image: ../assets/images/DJ Zorro – Fuego.jpg
 rating: 4.5

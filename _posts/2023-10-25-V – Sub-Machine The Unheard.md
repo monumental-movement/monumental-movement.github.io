@@ -2,7 +2,7 @@
 layout: post
 title:  "V – Sub-Machine The Unheard"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ IDM, インディーロック, 7インチ ]
 image: ../assets/images/V – Sub-Machine The Unheard.jpg
 rating: 3.5

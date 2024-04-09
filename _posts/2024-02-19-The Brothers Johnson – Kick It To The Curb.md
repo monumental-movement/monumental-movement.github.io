@@ -2,7 +2,7 @@
 layout: post
 title:  "The Brothers Johnson – Kick It To The Curb"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ファンク, ソウル ]
 image: ../assets/images/The Brothers Johnson – Kick It To The Curb.jpg
 rating: 4.5

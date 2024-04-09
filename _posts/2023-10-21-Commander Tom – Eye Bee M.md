@@ -2,7 +2,7 @@
 layout: post
 title:  "Commander Tom – Eye Bee M"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ジャーマンテクノ ]
 image: ../assets/images/Commander Tom – Eye Bee M.jpg
 rating: 3.5

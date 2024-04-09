@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Belal – Reggaeton Party Mix 05"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダンスホール, レゲエ, レゲトン ]
 image: ../assets/images/DJ Belal – Reggaeton Party Mix 05.jpg
 rating: 3.5

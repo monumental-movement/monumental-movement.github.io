@@ -2,7 +2,7 @@
 layout: post
 title:  "Combustible Edison – Bluebeard"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, ラテン ]
 image: ../assets/images/Combustible Edison – Bluebeard.jpg
 rating: 4.5

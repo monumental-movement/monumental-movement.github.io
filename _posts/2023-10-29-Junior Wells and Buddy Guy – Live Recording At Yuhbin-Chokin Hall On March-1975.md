@@ -2,7 +2,7 @@
 layout: post
 title:  "Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブルース, レア ]
 image: ../assets/images/Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975.jpg
 rating: 4.5

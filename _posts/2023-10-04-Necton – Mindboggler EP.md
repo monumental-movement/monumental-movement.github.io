@@ -2,7 +2,7 @@
 layout: post
 title:  "Necton – Mindboggler EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ゴアトランス ]
 image: ../assets/images/Necton – Mindboggler EP.jpg
 rating: 4.5

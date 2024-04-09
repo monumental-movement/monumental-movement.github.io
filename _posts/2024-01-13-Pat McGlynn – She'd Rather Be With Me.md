@@ -2,7 +2,7 @@
 layout: post
 title:  "Pat McGlynn – She'd Rather Be With Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ 懐メロ, 7インチ, ロック ]
 image: ../assets/images/Pat McGlynn – She'd Rather Be With Me.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Stray Dog – Mirror"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス ]
 image: ../assets/images/Stray Dog – Mirror.jpg
 rating: 3.5

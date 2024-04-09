@@ -2,7 +2,7 @@
 layout: post
 title:  "Sam & Valley – My Favorite Clinic"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ IDM, テクノ ]
 image: ../assets/images/Sam and Valley – My Favorite Clinic.jpg
 rating: 3.5

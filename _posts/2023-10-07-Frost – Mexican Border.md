@@ -2,7 +2,7 @@
 layout: post
 title:  "Frost – Mexican Border"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ギャングスタ ]
 image: ../assets/images/Frost – Mexican Border.jpg
 rating: 3.5

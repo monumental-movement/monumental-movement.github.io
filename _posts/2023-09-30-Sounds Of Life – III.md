@@ -2,7 +2,7 @@
 layout: post
 title:  "Sounds Of Life – III"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース ]
 image: ../assets/images/Sounds Of Life – III.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Santessa – Eyes On You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, フューチャージャズ, 00s ]
 image: ../assets/images/Santessa – Eyes On You.jpg
 rating: 4.5

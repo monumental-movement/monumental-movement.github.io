@@ -2,7 +2,7 @@
 layout: post
 title:  "Klaxons – Gravity's Rainbow"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, ポップス ]
 image: ../assets/images/Klaxons – Gravity's Rainbow.jpg
 rating: 4.5

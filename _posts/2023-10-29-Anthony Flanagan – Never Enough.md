@@ -2,7 +2,7 @@
 layout: post
 title:  "Anthony Flanagan – Never Enough"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Anthony Flanagan – Never Enough.jpg
 rating: 3.5

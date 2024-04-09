@@ -2,7 +2,7 @@
 layout: post
 title:  "Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – Lost Child"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, Jポップ, ダウンテンポ ]
 image: ../assets/images/Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – Lost Child.jpg
 rating: 4.5

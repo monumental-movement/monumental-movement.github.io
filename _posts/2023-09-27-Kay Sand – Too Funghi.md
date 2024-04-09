@@ -2,7 +2,7 @@
 layout: post
 title:  "Kay Sand – Too Funghi"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Kay Sand – Too Funghi.jpg
 rating: 4.5

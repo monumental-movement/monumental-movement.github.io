@@ -2,7 +2,7 @@
 layout: post
 title:  "Repeater – The Serpents Knees E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, アシッド ]
 image: ../assets/images/Repeater – The Serpents Knees E.P.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Roger Sanchez – Another Chance"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ダウンテンポ ]
 image: ../assets/images/Roger Sanchez – Another Chance.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mondo Grosso – Now You Know Better"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, Jポップ, ディープハウス ]
 image: ../assets/images/Mondo Grosso – Now You Know Better.jpg
 rating: 4.5

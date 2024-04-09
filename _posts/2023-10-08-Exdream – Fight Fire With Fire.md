@@ -2,7 +2,7 @@
 layout: post
 title:  "Exdream – Fight Fire With Fire"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, イタロ ]
 image: ../assets/images/Exdream – Fight Fire With Fire.jpg
 rating: 4.5

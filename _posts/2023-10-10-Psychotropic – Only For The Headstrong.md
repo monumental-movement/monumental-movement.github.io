@@ -2,7 +2,7 @@
 layout: post
 title:  "Psychotropic – Only For The Headstrong"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ハウス ]
 image: ../assets/images/Psychotropic – Only For The Headstrong.jpg
 rating: 4.5

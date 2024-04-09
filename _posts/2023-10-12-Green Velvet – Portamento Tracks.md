@@ -2,7 +2,7 @@
 layout: post
 title:  "Green Velvet – Portamento Tracks"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テクノ ]
 image: ../assets/images/Green Velvet – Portamento Tracks.jpg
 rating: 3.5

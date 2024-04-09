@@ -2,7 +2,7 @@
 layout: post
 title:  "Onnazae – Dark Knight EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, トリップホップ ]
 image: ../assets/images/Onnazae – Dark Knight EP.jpg
 rating: 4.5

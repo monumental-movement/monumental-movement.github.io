@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Superstar"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ レゲエ, ダンスホール ]
 image: ../assets/images/Various – Superstar.jpg
 rating: 3.5

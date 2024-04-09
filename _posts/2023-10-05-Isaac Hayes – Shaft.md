@@ -2,7 +2,7 @@
 layout: post
 title:  "Isaac Hayes – Shaft"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ソウル, ジャズ, ファンク ]
 image: ../assets/images/Isaac Hayes – Shaft.jpg
 rating: 4.5

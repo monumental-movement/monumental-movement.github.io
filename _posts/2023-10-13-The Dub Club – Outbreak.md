@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dub Club – Outbreak"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, トランス ]
 image: ../assets/images/The Dub Club – Outbreak.jpg
 rating: 4.5

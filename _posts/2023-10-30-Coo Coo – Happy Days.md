@@ -2,7 +2,7 @@
 layout: post
 title:  "Coo Coo – Happy Days"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ハイエナジー, レア ]
 image: ../assets/images/Coo Coo – Happy Days.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ultra Naté – Free"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, スピードガラージ ]
 image: ../assets/images/Ultra Nate – Free.jpg
 rating: 3.5

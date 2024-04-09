@@ -2,7 +2,7 @@
 layout: post
 title:  "Denki Groove – Orange Remixes"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, テクノ ]
 image: ../assets/images/Denki Groove – Orange Remixes.jpg
 rating: 4.5

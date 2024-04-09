@@ -2,7 +2,7 @@
 layout: post
 title:  "Svenson & Gielen – Twisted"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハードトランス ]
 image: ../assets/images/Svenson & Gielen – Twisted.jpg
 rating: 3.5

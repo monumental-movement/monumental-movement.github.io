@@ -2,7 +2,7 @@
 layout: post
 title:  "Afrika Bambaataa & The Soulsonic Force – Planet Rock"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ファンク, 80's ]
 image: ../assets/images/Afrika Bambaataa & The Soulsonic Force – Planet Rock.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Stoned Democracy – Close (Like An Overdose)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ガラージハウス, ディープハウス ]
 image: ../assets/images/Stoned Democracy – Close (Like An Overdose).jpg
 rating: 4.5

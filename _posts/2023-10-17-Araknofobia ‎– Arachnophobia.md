@@ -2,7 +2,7 @@
 layout: post
 title:  "Araknofobia – Arachnophobia"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハードコア ]
 image: ../assets/images/Araknofobia – Arachnophobia.jpg
 rating: 3.5

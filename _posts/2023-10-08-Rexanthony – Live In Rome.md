@@ -2,7 +2,7 @@
 layout: post
 title:  "Rexanthony – Live In Rome"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハードコア ]
 image: ../assets/images/Rexanthony – Live In Rome.jpg
 rating: 4.5

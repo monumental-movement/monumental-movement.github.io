@@ -2,7 +2,7 @@
 layout: post
 title:  "Zimbabwe Legit – Doin' Damage In My Native Language"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ ]
 image: ../assets/images/Zimbabwe Legit – Doin' Damage In My Native Language.jpg
 rating: 4.5

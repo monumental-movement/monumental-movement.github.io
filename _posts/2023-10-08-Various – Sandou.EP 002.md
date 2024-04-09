@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Sandou.EP 002"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エクスペリメンタル, ブレイクビーツ ]
 image: ../assets/images/Various – Sandou.EP 002.jpg
 rating: 4.5

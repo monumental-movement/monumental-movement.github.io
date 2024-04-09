@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mighty Quark – Disco Blood"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/The Mighty Quark – Disco Blood.jpg
 rating: 3.5

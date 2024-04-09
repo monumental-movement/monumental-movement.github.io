@@ -2,7 +2,7 @@
 layout: post
 title:  "Sisqo – Thong Song (Remix)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, R&B, リミックス ]
 image: ../assets/images/Sisqo – Thong Song (Remix).jpg
 rating: 4.5

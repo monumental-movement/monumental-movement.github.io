@@ -2,7 +2,7 @@
 layout: post
 title:  "Aaron Spectre – Amen, Punk"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース, ジャングル ]
 image: ../assets/images/Aaron Spectre – Amen, Punk.jpg
 rating: 4.5

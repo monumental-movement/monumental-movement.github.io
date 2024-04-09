@@ -2,7 +2,7 @@
 layout: post
 title:  "Pleasure & Pain – Higher"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイエナジー ]
 image: ../assets/images/Pleasure and Pain – Higher.jpg
 rating: 3.5

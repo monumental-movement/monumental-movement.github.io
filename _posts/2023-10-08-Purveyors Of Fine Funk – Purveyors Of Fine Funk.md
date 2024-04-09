@@ -2,7 +2,7 @@
 layout: post
 title:  "Purveyors Of Fine Funk – Purveyors Of Fine Funk"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハウス ]
 image: ../assets/images/Purveyors Of Fine Funk – Purveyors Of Fine Funk.jpg
 rating: 4.5

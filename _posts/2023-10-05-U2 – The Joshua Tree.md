@@ -2,7 +2,7 @@
 layout: post
 title:  "U2 – The Joshua Tree"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ロック, ポップス ]
 image: ../assets/images/U2 – The Joshua Tree.jpg
 rating: 4.5

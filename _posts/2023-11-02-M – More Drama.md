@@ -2,7 +2,7 @@
 layout: post
 title:  "M – More Drama"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ, トライバル ]
 image: ../assets/images/M – More Drama.jpg
 rating: 4.5

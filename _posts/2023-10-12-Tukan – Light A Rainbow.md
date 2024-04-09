@@ -2,7 +2,7 @@
 layout: post
 title:  "Tukan – Light A Rainbow"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ジャーマントランス ]
 image: ../assets/images/Tukan – Light A Rainbow.jpg
 rating: 3.5

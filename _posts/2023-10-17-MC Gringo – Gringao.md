@@ -2,7 +2,7 @@
 layout: post
 title:  "MC Gringo – Gringão"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, バイレファン ]
 image: ../assets/images/MC Gringo – Gringao.jpg
 rating: 3.5

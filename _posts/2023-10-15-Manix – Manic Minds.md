@@ -2,7 +2,7 @@
 layout: post
 title:  "Manix – Manic Minds"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ブレイクビーツ ]
 image: ../assets/images/Manix – Manic Minds.jpg
 rating: 4.5

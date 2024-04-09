@@ -2,7 +2,7 @@
 layout: post
 title:  "XTC – Skylarking"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ロック, ポップス ]
 image: ../assets/images/XTC – Skylarking.jpg
 rating: 4.5

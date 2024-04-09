@@ -2,7 +2,7 @@
 layout: post
 title:  "Drivetrain – Symphonium"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイト ]
 image: ../assets/images/Drivetrain – Symphonium.jpg
 rating: 4.5

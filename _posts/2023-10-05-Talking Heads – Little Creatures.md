@@ -2,7 +2,7 @@
 layout: post
 title:  "Talking Heads – Little Creatures"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ニューウェーブ, ポストパンク ]
 image: ../assets/images/Talking Heads – Little Creatures.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Adam Beyer – Drumcode 09"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, 90s ]
 image: ../assets/images/Adam Beyer – Drumcode 09.jpg
 rating: 3.5

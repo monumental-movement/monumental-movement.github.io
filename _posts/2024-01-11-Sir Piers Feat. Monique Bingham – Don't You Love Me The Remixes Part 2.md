@@ -2,7 +2,7 @@
 layout: post
 title:  "Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ガラージハウス, UKハウス ]
 image: ../assets/images/Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2.jpg
 rating: 4.5

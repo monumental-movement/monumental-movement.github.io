@@ -2,7 +2,7 @@
 layout: post
 title:  "Prince And The Revolution  – Purple Rain"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ファンク, 7インチ ]
 image: ../assets/images/Prince And The Revolution  – Purple Rain.jpg
 rating: 4.5

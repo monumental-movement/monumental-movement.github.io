@@ -2,7 +2,7 @@
 layout: post
 title:  "Klangkontakt – Dekadent"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, プログレッシブ ]
 image: ../assets/images/Klangkontakt – Dekadent.jpg
 rating: 3.5

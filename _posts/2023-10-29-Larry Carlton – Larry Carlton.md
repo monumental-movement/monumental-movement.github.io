@@ -2,7 +2,7 @@
 layout: post
 title:  "Larry Carlton – Larry Carlton"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ フュージョンジャズ, ジャズ, 70s ]
 image: ../assets/images/Larry Carlton – Larry Carlton.jpg
 rating: 4.5

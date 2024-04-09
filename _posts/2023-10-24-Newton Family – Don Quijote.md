@@ -2,7 +2,7 @@
 layout: post
 title:  "Newton Family – Don Quijote"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, 80s, 7インチ ]
 image: ../assets/images/Newton Family – Don Quijote.jpg
 rating: 3.5

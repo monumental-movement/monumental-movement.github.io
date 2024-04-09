@@ -2,7 +2,7 @@
 layout: post
 title:  "Booka Shade – In White Rooms (Vinyl Two)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, エレクトロ ]
 image: ../assets/images/Booka Shade – In White Rooms (Vinyl Two).jpg
 rating: 4.5

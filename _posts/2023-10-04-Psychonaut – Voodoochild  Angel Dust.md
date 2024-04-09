@@ -2,7 +2,7 @@
 layout: post
 title:  "Psychonaut – Voodoochild  Angel Dust"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, サイケデリック ]
 image: ../assets/images/Psychonaut – Voodoochild  Angel Dust.jpg
 rating: 4.5

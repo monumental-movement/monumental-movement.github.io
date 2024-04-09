@@ -2,7 +2,7 @@
 layout: post
 title:  "Czerkinsky – Variations Sur Natacha (Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アシッドジャズ, リミックス ]
 image: ../assets/images/Czerkinsky – Variations Sur Natacha (Remixes).jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Believe In The Frequency Power"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, アシッド ]
 image: ../assets/images/Believe In The Frequency Power.jpg
 rating: 4.5

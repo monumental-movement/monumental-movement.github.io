@@ -2,7 +2,7 @@
 layout: post
 title:  "2 The Core – The Final Destination"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロハウス, ユーロビート ]
 image: ../assets/images/2 The Core – The Final Destination.jpg
 rating: 3.5

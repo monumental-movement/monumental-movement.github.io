@@ -2,7 +2,7 @@
 layout: post
 title:  "Messengers – That's The Way A Woman Is"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ポップス, 7インチ ]
 image: ../assets/images/Messengers – That's The Way A Woman Is.jpg
 rating: 3.5

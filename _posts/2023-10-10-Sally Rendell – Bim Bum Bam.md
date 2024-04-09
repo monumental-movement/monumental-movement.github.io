@@ -2,7 +2,7 @@
 layout: post
 title:  "Sally Rendell – Bim Bum Bam"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Sally Rendell – Bim Bum Bam.jpg
 rating: 3.5

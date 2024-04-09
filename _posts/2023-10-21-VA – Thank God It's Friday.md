@@ -2,7 +2,7 @@
 layout: post
 title:  "VA – Thank God It's Friday"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, 70s ]
 image: ../assets/images/VA – Thank God It's Friday.jpg
 rating: 4.5

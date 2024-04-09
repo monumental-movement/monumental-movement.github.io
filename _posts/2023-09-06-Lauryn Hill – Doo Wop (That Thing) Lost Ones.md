@@ -2,7 +2,7 @@
 layout: post
 title:  "Lauryn Hill – Doo Wop (That Thing) / Lost Ones"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ラップ, 90s ]
 image: ../assets/images/Lauryn Hill – Doo Wop (That Thing) Lost Ones.jpg
 rating: 4.5

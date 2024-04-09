@@ -2,7 +2,7 @@
 layout: post
 title:  "Technova – Transcience Remixes"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, レア ]
 image: ../assets/images/Technova – Transcience Remixes.jpg
 rating: 3.5

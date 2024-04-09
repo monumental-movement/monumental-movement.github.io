@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Latin Compilation"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ラテン, レゲエ, レゲトン ]
 image: ../assets/images/Various – Latin Compilation.jpg
 rating: 3.5

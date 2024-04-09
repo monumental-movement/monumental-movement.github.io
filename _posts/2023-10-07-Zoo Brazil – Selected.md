@@ -2,7 +2,7 @@
 layout: post
 title:  "Zoo Brazil – Selected"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Zoo Brazil – Selected.jpg
 rating: 3.5

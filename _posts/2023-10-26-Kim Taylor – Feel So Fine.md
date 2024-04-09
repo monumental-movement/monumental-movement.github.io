@@ -2,7 +2,7 @@
 layout: post
 title:  "Kim Taylor – Feel So Fine"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, ユーロ, 80s ]
 image: ../assets/images/Kim Taylor – Feel So Fine.jpg
 rating: 3.5

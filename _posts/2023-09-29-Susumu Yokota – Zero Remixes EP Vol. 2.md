@@ -2,7 +2,7 @@
 layout: post
 title:  "Susumu Yokota – Zero Remixes EP Vol.2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, リミックス ]
 image: ../assets/images/Susumu Yokota – Zero Remixes EP Vol.2.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "By All Means – Somebody Save Me (Altered States)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アシッド, ガラージ ]
 image: ../assets/images/By All Means – Somebody Save Me (Altered States).jpg
 rating: 3.5

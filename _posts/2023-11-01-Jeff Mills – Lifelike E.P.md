@@ -2,7 +2,7 @@
 layout: post
 title:  "Jeff Mills – Lifelike E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ ]
 image: ../assets/images/Jeff Mills – Lifelike E.P.jpg
 rating: 4.5

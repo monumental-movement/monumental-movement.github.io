@@ -2,7 +2,7 @@
 layout: post
 title:  "Alfred Azzetto – Colors (Part One)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Alfred Azzetto – Colors (Part One).jpg
 rating: 3.5

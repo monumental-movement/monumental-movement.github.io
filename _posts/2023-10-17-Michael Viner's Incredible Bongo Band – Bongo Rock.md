@@ -2,7 +2,7 @@
 layout: post
 title:  "Michael Viner's Incredible Bongo Band – Bongo Rock"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ファンク ]
 image: ../assets/images/Michael Viner's Incredible Bongo Band – Bongo Rock.jpg
 rating: 4.5

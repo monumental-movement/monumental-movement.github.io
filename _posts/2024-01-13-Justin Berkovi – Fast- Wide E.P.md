@@ -2,7 +2,7 @@
 layout: post
 title:  "Justin Berkovi – Fast- Wide E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, 90s ]
 image: ../assets/images/Justin Berkovi – Fast- Wide E.P.jpg
 rating: 4.5

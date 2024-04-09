@@ -2,7 +2,7 @@
 layout: post
 title:  "Passionata –  Himiko"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, シンセポップ, 7インチ ]
 image: ../assets/images/Passionata –  Himiko.jpg
 rating: 3.5

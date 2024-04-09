@@ -2,7 +2,7 @@
 layout: post
 title:  "Jjak Hogan – Jjak Hogan EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, ブレイク, ヒップホップ ]
 image: ../assets/images/Jjak Hogan – Jjak Hogan EP.jpg
 rating: 4.5

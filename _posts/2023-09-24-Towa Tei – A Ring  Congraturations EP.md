@@ -2,7 +2,7 @@
 layout: post
 title:  "Towa Tei – A Ring Congraturations EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ノイズ, 10インチ ]
 image: ../assets/images/Towa Tei – A Ring Congraturations EP.jpg
 rating: 4.5

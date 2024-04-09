@@ -2,7 +2,7 @@
 layout: post
 title:  "The Lassie Foundation – Pacifico"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ シューゲイザー, レア ]
 image: ../assets/images/The Lassie Foundation – Pacifico.jpg
 rating: 4.5

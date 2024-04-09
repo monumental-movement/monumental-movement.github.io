@@ -2,7 +2,7 @@
 layout: post
 title:  "Push Pull – Africa"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, トライバル, ミニマル ]
 image: ../assets/images/Push Pull – Africa.jpg
 rating: 4.5

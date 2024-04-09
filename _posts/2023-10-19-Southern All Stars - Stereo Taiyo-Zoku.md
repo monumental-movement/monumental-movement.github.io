@@ -2,7 +2,7 @@
 layout: post
 title:  "Southern All Stars - Stereo Taiyo-Zoku"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, ポップス ]
 image: ../assets/images/Southern All Stars - Stereo Taiyo-Zoku.jpg
 rating: 3.5

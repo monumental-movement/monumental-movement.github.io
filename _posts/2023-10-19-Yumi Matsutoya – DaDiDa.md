@@ -2,7 +2,7 @@
 layout: post
 title:  "Yumi Matsutoya – Da・Di・Da"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, ポップス ]
 image: ../assets/images/Yumi Matsutoya – Da・Di・Da.jpg
 rating: 4.5

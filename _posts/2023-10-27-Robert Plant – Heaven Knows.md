@@ -2,7 +2,7 @@
 layout: post
 title:  "Robert Plant – Heaven Knows"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, UKロック, 7インチ ]
 image: ../assets/images/Robert Plant – Heaven Knows.jpg
 rating: 3.5

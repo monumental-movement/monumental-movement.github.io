@@ -2,7 +2,7 @@
 layout: post
 title:  "Willie Stubz – The Industry Come With Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ギャングスタ ]
 image: ../assets/images/Willie Stubz – The Industry Come With Me.jpg
 rating: 3.5

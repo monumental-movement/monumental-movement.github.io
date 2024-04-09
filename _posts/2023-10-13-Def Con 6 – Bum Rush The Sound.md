@@ -2,7 +2,7 @@
 layout: post
 title:  "Def Con 6 – Bum Rush The Sound"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, アシッド ]
 image: ../assets/images/Def Con 6 – Bum Rush The Sound.jpg
 rating: 3.5

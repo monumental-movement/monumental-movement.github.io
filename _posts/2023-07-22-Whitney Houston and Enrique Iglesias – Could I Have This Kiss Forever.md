@@ -2,7 +2,7 @@
 layout: post
 title:  "Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, バラード ]
 image: ../assets/images/Whitney Houston and Enrique Iglesias – Could I Have This Kiss Forever.jpg
 rating: 4.5

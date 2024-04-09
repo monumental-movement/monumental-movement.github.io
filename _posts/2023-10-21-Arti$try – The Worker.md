@@ -2,7 +2,7 @@
 layout: post
 title:  "Arti$try – The Worker"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, 90s ]
 image: ../assets/images/Arti$try – The Worker.jpg
 rating: 3.5

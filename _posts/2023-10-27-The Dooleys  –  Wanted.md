@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dooleys  –  Wanted"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, UKポップ, 7インチ ]
 image: ../assets/images/The Dooleys  –  Wanted.jpg
 rating: 3.5

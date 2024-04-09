@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflection Eternal – On Mission"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ラップ, 90s ]
 image: ../assets/images/Reflection Eternal – On Mission.jpg
 rating: 3.5

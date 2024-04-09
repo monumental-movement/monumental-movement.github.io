@@ -2,7 +2,7 @@
 layout: post
 title:  "Kierra Sheard – Just Until"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ R&B, ソウル, ゴスペル ]
 image: ../assets/images/Kierra Sheard – Just Until.jpg
 rating: 3.5

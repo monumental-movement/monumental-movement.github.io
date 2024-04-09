@@ -2,7 +2,7 @@
 layout: post
 title:  "Fiona – Oops...I Did It Again"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ラガ, レゲエ, 7インチ ]
 image: ../assets/images/Fiona – Oops...I Did It Again.jpg
 rating: 3.5

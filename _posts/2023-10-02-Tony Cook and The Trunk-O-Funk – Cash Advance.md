@@ -2,7 +2,7 @@
 layout: post
 title:  "Tony Cook and The Trunk-O-Funk – Cash Advance"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ファンク ]
 image: ../assets/images/Tony Cook and The Trunk-O-Funk – Cash Advance.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Rip – Digital Distortion"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ハードハウス, テクノ ]
 image: ../assets/images/DJ Rip – Digital Distortion.jpg
 rating: 3.5

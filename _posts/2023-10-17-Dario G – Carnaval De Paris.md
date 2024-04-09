@@ -2,7 +2,7 @@
 layout: post
 title:  "Dario G – Carnaval De Paris"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ラテン ]
 image: ../assets/images/Dario G – Carnaval De Paris.jpg
 rating: 3.5

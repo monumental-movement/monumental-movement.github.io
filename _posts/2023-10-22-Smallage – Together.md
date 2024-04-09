@@ -2,7 +2,7 @@
 layout: post
 title:  "Smallage – Together"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ, ハウス ]
 image: ../assets/images/Smallage – Together.jpg
 rating: 3.5

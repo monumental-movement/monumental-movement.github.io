@@ -2,7 +2,7 @@
 layout: post
 title:  "Nando – Music Go Wild Love Killer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイエナジー ]
 image: ../assets/images/Nando – Music Go Wild Love Killer.jpg
 rating: 4.5

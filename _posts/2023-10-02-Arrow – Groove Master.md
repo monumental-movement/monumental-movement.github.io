@@ -2,7 +2,7 @@
 layout: post
 title:  "Arrow – Groove Master"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アシッド, ラテン ]
 image: ../assets/images/Arrow – Groove Master.jpg
 rating: 4.5

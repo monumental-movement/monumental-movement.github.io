@@ -2,7 +2,7 @@
 layout: post
 title:  "Dibaba – Love Train"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アシッド, エレクトロ ]
 image: ../assets/images/Dibaba – Love Train.jpg
 rating: 4.5

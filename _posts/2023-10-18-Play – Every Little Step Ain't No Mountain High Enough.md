@@ -2,7 +2,7 @@
 layout: post
 title:  "Play – Every Little Step / Ain't No Mountain High Enough"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ R&B, ファンク ]
 image: ../assets/images/Play – Every Little Step Ain't No Mountain High Enough.jpg
 rating: 3.5

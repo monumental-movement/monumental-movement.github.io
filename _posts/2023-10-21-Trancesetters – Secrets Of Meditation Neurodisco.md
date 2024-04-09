@@ -2,7 +2,7 @@
 layout: post
 title:  "Trancesetters – Secrets Of Meditation Neurodisco"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, プログレッシブ ]
 image: ../assets/images/Trancesetters – Secrets Of Meditation Neurodisco.jpg
 rating: 3.5

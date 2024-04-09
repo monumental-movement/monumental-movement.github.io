@@ -2,7 +2,7 @@
 layout: post
 title:  "Snakeman Show  – Snakeman Show"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, テクノ ]
 image: ../assets/images/Snakeman Show  – Snakeman Show.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Survival Of The Fattest"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, ハードコア ]
 image: ../assets/images/Various – Survival Of The Fattest.jpg
 rating: 3.5

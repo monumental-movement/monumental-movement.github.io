@@ -2,7 +2,7 @@
 layout: post
 title:  "Irene Cara – Fame"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, 80s, 7インチ ]
 image: ../assets/images/Irene Cara – Fame.jpg
 rating: 3.5

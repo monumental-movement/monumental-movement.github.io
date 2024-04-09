@@ -2,7 +2,7 @@
 layout: post
 title:  "Selu Vibra – Stargazing"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス ]
 image: ../assets/images/Selu Vibra – Stargazing.jpg
 rating: 3.5

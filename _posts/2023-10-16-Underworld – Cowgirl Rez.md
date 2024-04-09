@@ -2,7 +2,7 @@
 layout: post
 title:  "Underworld – Cowgirl Rez"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, プログレッシブ ]
 image: ../assets/images/Underworld – Cowgirl Rez.jpg
 rating: 3.5

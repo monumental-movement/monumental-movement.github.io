@@ -2,7 +2,7 @@
 layout: post
 title:  "Bill Riley – Closing In"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース ]
 image: ../assets/images/Bill Riley – Closing In.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Markus Schulz – Coldharbour Selections Volume 2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Markus Schulz – Coldharbour Selections Volume 2.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Kagami – Guardians Hammer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/Kagami – Guardians Hammer.jpg
 rating: 3.5

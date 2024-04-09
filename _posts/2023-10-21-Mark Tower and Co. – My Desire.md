@@ -2,7 +2,7 @@
 layout: post
 title:  "Mark Tower & Co. – My Desire"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイエナジー ]
 image: ../assets/images/Mark Tower and Co. – My Desire.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Sound Fiction Feat. Kate Cameron – Alive"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ, 00s ]
 image: ../assets/images/Sound Fiction Feat. Kate Cameron – Alive.jpg
 rating: 3.5

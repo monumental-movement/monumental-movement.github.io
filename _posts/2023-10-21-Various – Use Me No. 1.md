@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Use Me No. 1"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テクノ ]
 image: ../assets/images/Various – Use Me No. 1.jpg
 rating: 3.5

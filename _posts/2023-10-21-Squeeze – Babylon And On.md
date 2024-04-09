@@ -2,7 +2,7 @@
 layout: post
 title:  "Squeeze – Babylon And On"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニューウェーブ, ポップス ]
 image: ../assets/images/Squeeze – Babylon And On-r.jpg
 rating: 3.5

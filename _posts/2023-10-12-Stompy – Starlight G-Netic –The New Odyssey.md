@@ -2,7 +2,7 @@
 layout: post
 title:  "Stompy – Starlight G-Netic – The New Odyssey"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハッピーハードコア, テクノ ]
 image: ../assets/images/Stompy – Starlight G-Netic – The New Odyssey.jpg
 rating: 3.5

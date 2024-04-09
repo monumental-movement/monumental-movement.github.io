@@ -2,7 +2,7 @@
 layout: post
 title:  "Menno de Jong – Tundra"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Menno de Jong – Tundra.jpg
 rating: 3.5

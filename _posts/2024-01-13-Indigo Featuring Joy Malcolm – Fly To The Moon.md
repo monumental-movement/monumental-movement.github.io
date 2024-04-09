@@ -2,7 +2,7 @@
 layout: post
 title:  "Indigo Featuring Joy Malcolm – Fly To The Moon"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, 90s ]
 image: ../assets/images/Indigo Featuring Joy Malcolm – Fly To The Moon.jpg
 rating: 4.5

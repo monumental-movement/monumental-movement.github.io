@@ -2,7 +2,7 @@
 layout: post
 title:  "Ikarus – 7 Days Out!"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, トライバル ]
 image: ../assets/images/Ikarus – 7 Days Out!.jpg
 rating: 4.5

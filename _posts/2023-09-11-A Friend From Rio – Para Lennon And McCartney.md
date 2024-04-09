@@ -2,7 +2,7 @@
 layout: post
 title:  "A Friend From Rio – Para Lennon And McCartney"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, ラテン, フューチャージャズ ]
 image: ../assets/images/A Friend From Rio – Para Lennon And McCartney.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Alphaville – Romeos"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ シンセポップ, ニューウェーブ ]
 image: ../assets/images/Alphaville – Romeos.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mondo Grosso – Butterfly"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Mondo Grosso – Butterfly.jpg
 rating: 4.5

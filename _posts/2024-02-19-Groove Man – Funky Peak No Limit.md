@@ -2,7 +2,7 @@
 layout: post
 title:  "Groove Man – Funky Peak No Limit"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, フレンチハウス, 00s ]
 image: ../assets/images/Groove Man – Funky Peak No Limit.jpg
 rating: 4.5

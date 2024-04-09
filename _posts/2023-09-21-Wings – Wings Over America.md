@@ -2,7 +2,7 @@
 layout: post
 title:  "Wings – Wings Over America"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ビートルズ ]
 image: ../assets/images/Wings – Wings Over America.jpg
 rating: 4.5

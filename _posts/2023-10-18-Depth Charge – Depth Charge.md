@@ -2,7 +2,7 @@
 layout: post
 title:  "Depth Charge – Depth Charge"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ ]
 image: ../assets/images/Depth Charge – Depth Charge.jpg
 rating: 3.5

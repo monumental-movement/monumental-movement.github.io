@@ -2,7 +2,7 @@
 layout: post
 title:  "Grand Funk – The Best Of Grand Funk"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ハードロック ]
 image: ../assets/images/Grand Funk – The Best Of Grand Funk.jpg
 rating: 3.5

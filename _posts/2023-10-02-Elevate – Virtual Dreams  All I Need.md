@@ -2,7 +2,7 @@
 layout: post
 title:  "Elevate – Virtual Dreams  All I Need"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハッピーハードコア ]
 image: ../assets/images/Elevate – Virtual Dreams  All I Need.jpg
 rating: 4.5

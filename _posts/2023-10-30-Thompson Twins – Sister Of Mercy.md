@@ -2,7 +2,7 @@
 layout: post
 title:  "Thompson Twins – Sister Of Mercy"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ポップス, シンセポップ ]
 image: ../assets/images/Thompson Twins – Sister Of Mercy.jpg
 rating: 3.5

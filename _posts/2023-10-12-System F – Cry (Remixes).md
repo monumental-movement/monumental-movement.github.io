@@ -2,7 +2,7 @@
 layout: post
 title:  "System F – Cry (Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ダッチトランス ]
 image: ../assets/images/System F – Cry (Remixes).jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mark N-R-G - Don't Stop(The Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, Remix, 10インチ ]
 image: ../assets/images/Mark N-R-G - Don't Stop(The Remixes).jpg
 rating: 4.5

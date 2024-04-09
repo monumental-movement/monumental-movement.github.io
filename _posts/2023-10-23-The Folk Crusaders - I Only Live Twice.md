@@ -2,7 +2,7 @@
 layout: post
 title:  "The Folk Crusaders - I Only Live Twice"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, フォーク, 7インチ ]
 image: ../assets/images/The Folk Crusaders - I Only Live Twice.jpg
 rating: 3.5

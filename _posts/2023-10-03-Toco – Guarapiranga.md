@@ -2,7 +2,7 @@
 layout: post
 title:  "Toco – Guarapiranga"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ボサノヴァ, ラテン ]
 image: ../assets/images/Toco – Guarapiranga.jpg
 rating: 4.5

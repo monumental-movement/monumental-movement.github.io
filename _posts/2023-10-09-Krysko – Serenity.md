@@ -2,7 +2,7 @@
 layout: post
 title:  "Krysko – Serenity"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース, レア ]
 image: ../assets/images/Krysko – Serenity.jpg
 rating: 3.5

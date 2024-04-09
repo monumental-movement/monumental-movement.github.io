@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Keepintime 12 Series No1 Of 3"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ジャズ ]
 image: ../assets/images/Various – Keepintime 12 Series No1 Of 3.jpg
 rating: 4.5

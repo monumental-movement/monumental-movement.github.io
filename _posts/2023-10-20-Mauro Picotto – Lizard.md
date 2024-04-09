@@ -2,7 +2,7 @@
 layout: post
 title:  "Mauro Picotto – Lizard"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハードトランス ]
 image: ../assets/images/Mauro Picotto – Lizard.jpg
 rating: 3.5

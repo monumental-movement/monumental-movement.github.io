@@ -2,7 +2,7 @@
 layout: post
 title:  "Terje Bakke – Dovyn Aren EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ミニマル, ハウス ]
 image: ../assets/images/Terje Bakke – Dovyn Aren EP.jpg
 rating: 4.5

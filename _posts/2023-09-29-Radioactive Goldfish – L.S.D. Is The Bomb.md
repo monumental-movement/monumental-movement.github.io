@@ -2,7 +2,7 @@
 layout: post
 title:  "Radioactive Goldfish – L.S.D. Is The Bomb"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, アシッド ]
 image: ../assets/images/Radioactive Goldfish – L.S.D. Is The Bomb.jpg
 rating: 4.5

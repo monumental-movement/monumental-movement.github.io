@@ -2,7 +2,7 @@
 layout: post
 title:  "Ei Mori – Vetettem Violat"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニュービート, ニューウェーブ ]
 image: ../assets/images/Ei Mori – Vetettem Violat.jpg
 rating: 4.5

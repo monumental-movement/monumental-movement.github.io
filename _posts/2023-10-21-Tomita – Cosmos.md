@@ -2,7 +2,7 @@
 layout: post
 title:  "Tomita – Cosmos"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アンビエント, クラシック ]
 image: ../assets/images/Tomita – Cosmos.jpg
 rating: 3.5

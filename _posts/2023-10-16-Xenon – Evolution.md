@@ -2,7 +2,7 @@
 layout: post
 title:  "Xenon – Evolution"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ ]
 image: ../assets/images/Xenon – Evolution.jpg
 rating: 4.5

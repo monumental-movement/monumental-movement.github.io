@@ -2,7 +2,7 @@
 layout: post
 title:  "Alek Stark – We Love You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, シンセポップ ]
 image: ../assets/images/Alek Stark – We Love You.jpg
 rating: 3.5

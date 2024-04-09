@@ -2,7 +2,7 @@
 layout: post
 title:  "Justin Timberlake – Like I Love You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ポップス, 00s ]
 image: ../assets/images/Justin Timberlake – Like I Love You.jpg
 rating: 4.5

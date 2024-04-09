@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Omega – Spellbound"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ゲトーテック ]
 image: ../assets/images/DJ Omega – Spellbound.jpg
 rating: 3.5

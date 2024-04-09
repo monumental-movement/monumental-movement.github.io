@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art Of Noise – In No Sense Nonsense"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ シンセポップ, レフトフィールド ]
 image: ../assets/images/The Art Of Noise – In No Sense Nonsense.jpg
 rating: 4.5

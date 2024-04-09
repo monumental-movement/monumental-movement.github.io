@@ -2,7 +2,7 @@
 layout: post
 title:  "Propagandhi – How To Clean Everything"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, ハードコア ]
 image: ../assets/images/Propagandhi – How To Clean Everything.jpg
 rating: 3.5

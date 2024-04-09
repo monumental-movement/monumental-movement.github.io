@@ -2,7 +2,7 @@
 layout: post
 title:  "Clivilles and Cole – Pride (In The Name Of Love)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, 90s ]
 image: ../assets/images/Clivilles and Cole – Pride (In The Name Of Love).jpg
 rating: 3.5

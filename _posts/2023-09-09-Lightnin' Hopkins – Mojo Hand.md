@@ -2,7 +2,7 @@
 layout: post
 title:  "Lightnin' Hopkins – Mojo Hand"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブルース, カントリー, クラシック ]
 image: ../assets/images/Lightnin' Hopkins – Mojo Hand.jpg
 rating: 4.5

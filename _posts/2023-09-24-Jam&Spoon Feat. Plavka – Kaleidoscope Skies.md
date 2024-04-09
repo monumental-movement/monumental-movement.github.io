@@ -2,7 +2,7 @@
 layout: post
 title:  "Jam&Spoon Feat. Plavka – Kaleidoscope Skies"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, トランス, ダウンテンポ ]
 image: ../assets/images/Jam&Spoon Feat. Plavka – Kaleidoscope Skies.jpg
 rating: 3.5

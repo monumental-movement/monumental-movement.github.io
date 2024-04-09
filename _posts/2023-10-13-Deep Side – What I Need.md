@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Side – What I Need"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ ]
 image: ../assets/images/Deep Side – What I Need.jpg
 rating: 3.5

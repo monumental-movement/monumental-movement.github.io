@@ -2,7 +2,7 @@
 layout: post
 title:  "The Hard Concert – Get The Power"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ ]
 image: ../assets/images/The Hard Concert – Get The Power.jpg
 rating: 3.5

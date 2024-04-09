@@ -2,7 +2,7 @@
 layout: post
 title:  "Foreigner – Head Games"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ハードロック ]
 image: ../assets/images/Foreigner – Head Games.jpg
 rating: 3.5

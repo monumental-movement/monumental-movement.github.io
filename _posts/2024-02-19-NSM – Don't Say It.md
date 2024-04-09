@@ -2,7 +2,7 @@
 layout: post
 title:  "NSM – Don't Say It"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, ブロークンビート, 00s ]
 image: ../assets/images/NSM – Don't Say It.jpg
 rating: 4.5

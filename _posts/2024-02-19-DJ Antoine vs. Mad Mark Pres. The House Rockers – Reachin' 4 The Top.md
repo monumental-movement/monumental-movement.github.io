@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ガラージハウス ]
 image: ../assets/images/DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top.jpg
 rating: 4.5

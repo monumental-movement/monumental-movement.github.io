@@ -2,7 +2,7 @@
 layout: post
 title:  "UNKLE – In A State"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, プログレッシブ, リミックス ]
 image: ../assets/images/UNKLE – In A State.jpg
 rating: 4.5

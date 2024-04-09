@@ -2,7 +2,7 @@
 layout: post
 title:  "Cheap Trick – In Color"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ポップス ]
 image: ../assets/images/Cheap Trick – In Color.jpg
 rating: 3.5

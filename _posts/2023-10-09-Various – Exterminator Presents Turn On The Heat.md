@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Exterminator Presents Turn On The Heat"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ レゲエ, ダンスホール ]
 image: ../assets/images/Various – Exterminator Presents Turn On The Heat.jpg
 rating: 4.5

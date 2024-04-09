@@ -2,7 +2,7 @@
 layout: post
 title:  "Norken – Soul Static Bureau"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル, レア ]
 image: ../assets/images/Norken – Soul Static Bureau.jpg
 rating: 4.5

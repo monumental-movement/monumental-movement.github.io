@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – King Britt Presents Black To The Future"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, ディープハウス ]
 image: ../assets/images/Various – King Britt Presents Black To The Future.jpg
 rating: 3.5

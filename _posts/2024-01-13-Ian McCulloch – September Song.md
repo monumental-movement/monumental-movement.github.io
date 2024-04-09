@@ -2,7 +2,7 @@
 layout: post
 title:  "Ian McCulloch – September Song"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニューウェーブ, ロック, 80s ]
 image: ../assets/images/Ian McCulloch – September Song.jpg
 rating: 4.5

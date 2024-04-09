@@ -2,7 +2,7 @@
 layout: post
 title:  "Inland Knights – Filter Interference"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Inland Knights – Filter Interference.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "El Cubano – Samba Nueva"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ サンバ, ラテン, ユーロハウス ]
 image: ../assets/images/El Cubano – Samba Nueva.jpg
 rating: 4.5

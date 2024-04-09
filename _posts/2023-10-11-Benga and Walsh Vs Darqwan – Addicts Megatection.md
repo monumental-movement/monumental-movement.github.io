@@ -2,7 +2,7 @@
 layout: post
 title:  "Benga and Walsh Vs Darqwan – Addicts Megatection"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダブステップ, UKダブステップ ]
 image: ../assets/images/Benga and Walsh Vs Darqwan – Addicts Megatection.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Communards – Red"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ シンセポップ, ポップス ]
 image: ../assets/images/The Communards – Red.jpg
 rating: 4.5

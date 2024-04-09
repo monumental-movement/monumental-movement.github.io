@@ -2,7 +2,7 @@
 layout: post
 title:  "The Actors Pedantry – Diffrint Hings Oan E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ IDM, ハウス ]
 image: ../assets/images/The Actors Pedantry – Diffrint Hings Oan E.P.jpg
 rating: 3.5

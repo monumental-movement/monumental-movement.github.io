@@ -2,7 +2,7 @@
 layout: post
 title:  "Coldplay – Clocks"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, エレクトロ ]
 image: ../assets/images/Coldplay – Clocks.jpg
 rating: 3.5

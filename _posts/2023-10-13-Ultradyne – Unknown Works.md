@@ -2,7 +2,7 @@
 layout: post
 title:  "Ultradyne – Unknown Works"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ ]
 image: ../assets/images/Ultradyne – Unknown Works.jpg
 rating: 4.5

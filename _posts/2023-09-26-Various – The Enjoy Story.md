@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – The Enjoy! Story"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ヒップホップ, クラシック ]
 image: ../assets/images/Various – The Enjoy! Story.jpg
 rating: 4.5

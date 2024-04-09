@@ -2,7 +2,7 @@
 layout: post
 title:  "Özgür Can – Irony"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Ozgur Can – Irony.jpg
 rating: 3.5

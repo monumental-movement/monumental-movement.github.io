@@ -2,7 +2,7 @@
 layout: post
 title:  "Tina – There Must Be An Angel"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, ソウル ]
 image: ../assets/images/Tina – There Must Be An Angel.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Dave Aju – The Unorthodoctor EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Dave Aju – The Unorthodoctor EP.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "ZUSHii – There Ain't Enough Love ('94 Remix) Surprise"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, UKアーバンソウル ]
 image: ../assets/images/ZUSHii – There Ain't Enough Love ('94 Remix) Surprise.jpg
 rating: 3.5

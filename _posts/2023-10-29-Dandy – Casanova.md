@@ -2,7 +2,7 @@
 layout: post
 title:  "Dandy – Casanova"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイエナジー ]
 image: ../assets/images/Dandy – Casanova.jpg
 rating: 3.5

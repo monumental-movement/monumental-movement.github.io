@@ -2,7 +2,7 @@
 layout: post
 title:  "Logic System – Logic"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, シンセポップ ]
 image: ../assets/images/Logic System – Logic.jpg
 rating: 4.5

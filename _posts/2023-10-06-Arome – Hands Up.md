@@ -2,7 +2,7 @@
 layout: post
 title:  "Arome – Hands Up"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハードトランス ]
 image: ../assets/images/Arome – Hands Up.jpg
 rating: 4.5

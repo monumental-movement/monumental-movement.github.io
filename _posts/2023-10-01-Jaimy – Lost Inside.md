@@ -2,7 +2,7 @@
 layout: post
 title:  "Jaimy – Lost Inside"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Jaimy – Lost Inside.jpg
 rating: 4.5

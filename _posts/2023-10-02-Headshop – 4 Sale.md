@@ -2,7 +2,7 @@
 layout: post
 title:  "Headshop – 4 Sale!"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハードコアテクノ ]
 image: ../assets/images/Headshop – 4 Sale.jpg
 rating: 4.5

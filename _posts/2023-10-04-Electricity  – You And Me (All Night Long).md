@@ -2,7 +2,7 @@
 layout: post
 title:  "Electricity  – You And Me (All Night Long)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ ]
 image: ../assets/images/Electricity  – You And Me (All Night Long).jpg
 rating: 4.5

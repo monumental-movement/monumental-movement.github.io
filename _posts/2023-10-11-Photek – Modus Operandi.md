@@ -2,7 +2,7 @@
 layout: post
 title:  "Photek – Modus Operandi"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, ジャングル ]
 image: ../assets/images/Photek – Modus Operandi.jpg
 rating: 3.5

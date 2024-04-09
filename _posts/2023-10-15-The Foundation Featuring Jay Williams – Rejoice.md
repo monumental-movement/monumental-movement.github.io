@@ -2,7 +2,7 @@
 layout: post
 title:  "The Foundation Featuring Jay Williams – Rejoice"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/The Foundation Featuring Jay Williams – Rejoice.jpg
 rating: 4.5

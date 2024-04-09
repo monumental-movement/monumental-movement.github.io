@@ -2,7 +2,7 @@
 layout: post
 title:  "Gang Starr – Positivity"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, 90's, ギャングスター ]
 image: ../assets/images/Gang Starr – Positivity.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Abe Duque – Don't Be So Mean Part I"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ダウンテンポ, レア ]
 image: ../assets/images/Abe Duque – Don't Be So Mean Part I.jpg
 rating: 4.5

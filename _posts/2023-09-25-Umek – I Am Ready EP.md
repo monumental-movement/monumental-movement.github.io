@@ -2,7 +2,7 @@
 layout: post
 title:  "Umek – I Am Ready EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, エレクトロ ]
 image: ../assets/images/Umek – I Am Ready EP.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Wu-Tang Clan Featuring Ron Isley – Back In The Game"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, R&B ]
 image: ../assets/images/Wu-Tang Clan Featuring Ron Isley – Back In The Game.jpg
 rating: 4.5

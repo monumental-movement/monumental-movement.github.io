@@ -2,7 +2,7 @@
 layout: post
 title:  "LSG – Netherworld"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/LSG – Netherworld.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Londonbeat – I've Been Thinking About You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, EDM ]
 image: ../assets/images/Londonbeat – I've Been Thinking About You.jpg
 rating: 3.5

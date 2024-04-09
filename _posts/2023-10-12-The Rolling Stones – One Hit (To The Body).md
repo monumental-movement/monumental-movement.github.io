@@ -2,7 +2,7 @@
 layout: post
 title:  "The Rolling Stones – One Hit (To The Body)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ポップス ]
 image: ../assets/images/The Rolling Stones – One Hit (To The Body).jpg
 rating: 3.5

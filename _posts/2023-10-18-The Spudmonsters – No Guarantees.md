@@ -2,7 +2,7 @@
 layout: post
 title:  "The Spudmonsters – No Guarantees"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハードコア, ロック, スラッシュメタル ]
 image: ../assets/images/The Spudmonsters – No Guarantees.jpg
 rating: 3.5

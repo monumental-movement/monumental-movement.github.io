@@ -2,7 +2,7 @@
 layout: post
 title:  "Lennie De Ice – We Are I.E. (Part 1 of 2)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ハードハウス ]
 image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2).jpg
 rating: 3.5

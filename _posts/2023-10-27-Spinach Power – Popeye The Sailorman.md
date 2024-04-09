@@ -2,7 +2,7 @@
 layout: post
 title:  "Spinach Power – Popeye The Sailorman"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, 70s, 7インチ ]
 image: ../assets/images/Spinach Power – Popeye The Sailorman.jpg
 rating: 3.5

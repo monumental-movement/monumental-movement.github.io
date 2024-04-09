@@ -2,7 +2,7 @@
 layout: post
 title:  "Ultravox – Vienna"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニューウェーブ, シンセポップ ]
 image: ../assets/images/Ultravox – Vienna.jpg
 rating: 3.5

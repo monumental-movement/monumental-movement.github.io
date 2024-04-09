@@ -2,7 +2,7 @@
 layout: post
 title:  "Art Of Trance – Madagascar"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス ]
 image: ../assets/images/Art Of Trance – Madagascar.jpg
 rating: 3.5

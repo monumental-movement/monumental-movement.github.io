@@ -2,7 +2,7 @@
 layout: post
 title:  "The Architect – Pixelated Porn King"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/The Architect – Pixelated Porn King.jpg
 rating: 4.5

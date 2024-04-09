@@ -2,7 +2,7 @@
 layout: post
 title:  "Midnight Juggernauts – Into The Galaxy"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, エレクトロ ]
 image: ../assets/images/Midnight Juggernauts – Into The Galaxy.jpg
 rating: 3.5

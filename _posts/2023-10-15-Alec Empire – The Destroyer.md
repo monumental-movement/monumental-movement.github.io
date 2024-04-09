@@ -2,7 +2,7 @@
 layout: post
 title:  "Alec Empire – The Destroyer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ デジタルハードコア, ブレイクコア ]
 image: ../assets/images/Alec Empire – The Destroyer.jpg
 rating: 3.5

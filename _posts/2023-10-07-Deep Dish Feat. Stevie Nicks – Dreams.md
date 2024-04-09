@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Dish Feat. Stevie Nicks – Dreams"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Deep Dish Feat. Stevie Nicks – Dreams.jpg
 rating: 3.5

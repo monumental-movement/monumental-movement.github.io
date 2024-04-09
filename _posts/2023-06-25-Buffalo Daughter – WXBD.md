@@ -2,7 +2,7 @@
 layout: post
 title:  "Buffalo Daughter – WXBD"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ビッグビート ]
 image: ../assets/images/Buffalo Daughter – WXBD.jpg
 rating: 4.5

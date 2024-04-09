@@ -2,7 +2,7 @@
 layout: post
 title:  "Ian Lex – I Wanna Be Your Man"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハウス ]
 image: ../assets/images/Ian Lex – I Wanna Be Your Man.jpg
 rating: 4.5

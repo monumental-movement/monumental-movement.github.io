@@ -2,7 +2,7 @@
 layout: post
 title:  "Riow Arai – iBeat EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロニック, テクノ, ブレイクビーツ ]
 image: ../assets/images/Riow Arai – iBeat EP.jpg
 rating: 4.5

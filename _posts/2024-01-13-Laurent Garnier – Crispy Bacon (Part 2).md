@@ -2,7 +2,7 @@
 layout: post
 title:  "Laurent Garnier – Crispy Bacon (Part 2)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, 90s, ドラムンベース ]
 image: ../assets/images/Laurent Garnier – Crispy Bacon (Part 2).jpg
 rating: 4.5

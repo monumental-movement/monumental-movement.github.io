@@ -2,7 +2,7 @@
 layout: post
 title:  "Eagles – Hotel California"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, 懐メロ, 7インチ ]
 image: ../assets/images/Eagles – Hotel California.jpg
 rating: 3.5

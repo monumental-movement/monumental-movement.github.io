@@ -2,7 +2,7 @@
 layout: post
 title:  "Wu-Tang Clan – C.R.E.A.M."
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ウータン ]
 image: ../assets/images/Wu-Tang Clan – CREAM.jpg
 rating: 4.5

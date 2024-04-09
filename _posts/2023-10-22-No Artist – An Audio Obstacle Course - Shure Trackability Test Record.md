@@ -2,7 +2,7 @@
 layout: post
 title:  "No Artist – An Audio Obstacle Course - Shure Trackability Test Record"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクニカル, テストレコード ]
 image: ../assets/images/No Artist – An Audio Obstacle Course - Shure Trackability Test Record.jpg
 rating: 3.5

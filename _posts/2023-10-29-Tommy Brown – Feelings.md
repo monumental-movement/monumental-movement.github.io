@@ -2,7 +2,7 @@
 layout: post
 title:  "Tommy Brown – Feelings"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダウンテンポ, イタロ ]
 image: ../assets/images/Tommy Brown – Feelings.jpg
 rating: 3.5

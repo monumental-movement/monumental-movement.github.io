@@ -2,7 +2,7 @@
 layout: post
 title:  "The Prodigy – Out Of Space"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ハードコア ]
 image: ../assets/images/The Prodigy – Out Of Space.jpg
 rating: 4.5

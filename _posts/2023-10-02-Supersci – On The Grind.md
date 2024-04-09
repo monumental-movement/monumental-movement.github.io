@@ -2,7 +2,7 @@
 layout: post
 title:  "Supersci – On The Grind"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ラップ ]
 image: ../assets/images/Supersci – On The Grind.jpg
 rating: 4.5

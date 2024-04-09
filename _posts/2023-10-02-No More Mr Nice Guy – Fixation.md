@@ -2,7 +2,7 @@
 layout: post
 title:  "No More Mr Nice Guy – Fixation"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, プログレッシブ ]
 image: ../assets/images/No More Mr Nice Guy – Fixation.jpg
 rating: 4.5

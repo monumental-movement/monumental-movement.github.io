@@ -2,7 +2,7 @@
 layout: post
 title:  "Groove Coverage – Poison"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ユーロ, 00s ]
 image: ../assets/images/Groove Coverage – Poison.jpg
 rating: 3.5

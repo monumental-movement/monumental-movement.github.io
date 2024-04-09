@@ -2,7 +2,7 @@
 layout: post
 title:  "麻丘めぐみ – わたしの彼は左きき"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, 懐メロ, 7インチ ]
 image: ../assets/images/Megumi Asaoka – Left Hand.jpg
 rating: 3.5

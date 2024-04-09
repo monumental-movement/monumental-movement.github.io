@@ -2,7 +2,7 @@
 layout: post
 title:  "Yoshinori Sunahara – Journey Beyond"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ダウンテンポ ]
 image: ../assets/images/Yoshinori Sunahara – Journey Beyond.jpg
 rating: 4.5

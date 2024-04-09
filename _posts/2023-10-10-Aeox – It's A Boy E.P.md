@@ -2,7 +2,7 @@
 layout: post
 title:  "Aeox – It's A Boy E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, エレクトロ ]
 image: ../assets/images/Aeox – It's A Boy E.P.jpg
 rating: 4.5

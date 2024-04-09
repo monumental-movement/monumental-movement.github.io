@@ -2,7 +2,7 @@
 layout: post
 title:  "Stock, Hausen & Walkman – Ventilating Deer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エクスペリメンタル, コラージュ, 10インチ ]
 image: ../assets/images/Stock, Hausen & Walkman – Ventilating Deer.jpg
 rating: 3.5

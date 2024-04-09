@@ -2,7 +2,7 @@
 layout: post
 title:  "Vinylgroover – The World Of Vinylgroover (Part One)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハッピーハードコア, ハードコア ]
 image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "FLR – Easy Filter Part 9"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, テックハウス ]
 image: ../assets/images/FLR – Easy Filter Part 9.jpg
 rating: 3.5

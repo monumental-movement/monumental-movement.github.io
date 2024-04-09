@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Krush FeatACO, Twigy –Tragicomic"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, トリップホップ ]
 image: ../assets/images/DJ Krush FeatACO, Twigy –Tragicomic.jpg
 rating: 4.5

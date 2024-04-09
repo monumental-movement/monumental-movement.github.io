@@ -2,7 +2,7 @@
 layout: post
 title:  "Quench – Dreams"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, 90s ]
 image: ../assets/images/Quench – Dreams.jpg
 rating: 4.5

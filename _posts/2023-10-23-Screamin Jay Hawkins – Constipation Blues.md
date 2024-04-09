@@ -2,7 +2,7 @@
 layout: post
 title:  "Screamin Jay Hawkins – Constipation Blues"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ソウル, 70s, 7インチ ]
 image: ../assets/images/Screamin Jay Hawkins – Constipation Blues.jpg
 rating: 4.5

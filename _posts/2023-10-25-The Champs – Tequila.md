@@ -2,7 +2,7 @@
 layout: post
 title:  "The Champs – Tequila"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ラテン, 7インチ ]
 image: ../assets/images/The Champs – Tequila.jpg
 rating: 3.5

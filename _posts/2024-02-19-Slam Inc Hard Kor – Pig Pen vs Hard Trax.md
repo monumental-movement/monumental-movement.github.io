@@ -2,7 +2,7 @@
 layout: post
 title:  "Slam Inc Hard Kor – Pig Pen vs Hard Trax"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ハードハウス, 00s ]
 image: ../assets/images/Slam Inc Hard Kor – Pig Pen vs Hard Trax.jpg
 rating: 4.5

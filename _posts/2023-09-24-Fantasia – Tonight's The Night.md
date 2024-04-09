@@ -2,7 +2,7 @@
 layout: post
 title:  "Fantasia – Tonight's The Night"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Fantasia – Tonight's The Night.jpg
 rating: 4.5

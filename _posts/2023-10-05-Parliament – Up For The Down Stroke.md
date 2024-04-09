@@ -2,7 +2,7 @@
 layout: post
 title:  "Parliament – Up For The Down Stroke"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ファンク, ソウル ]
 image: ../assets/images/Parliament – Up For The Down Stroke.jpg
 rating: 4.5

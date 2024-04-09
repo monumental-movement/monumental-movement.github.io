@@ -2,7 +2,7 @@
 layout: post
 title:  "Hypnotist – House Is Mine 92"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハードコア ]
 image: ../assets/images/Hypnotist – House Is Mine 92.jpg
 rating: 4.5

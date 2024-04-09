@@ -2,7 +2,7 @@
 layout: post
 title:  "Norma Sheffield – Look Me In The Eyes"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイエナジー ]
 image: ../assets/images/Norma Sheffield – Look Me In The Eyes.jpg
 rating: 3.5

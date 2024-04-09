@@ -2,7 +2,7 @@
 layout: post
 title:  "Super Fighter USAF F-15 Eagle"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アンビエント, 環境音 ]
 image: ../assets/images/Super Fighter USAF F-15 Eagle.jpg
 rating: 4.5

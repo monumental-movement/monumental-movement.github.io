@@ -2,7 +2,7 @@
 layout: post
 title:  "Smurf & Perry – Lovin' You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Smurf and Perry – Lovin' You.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Snuff – Flibbiddydibbiddydob"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, ロック ]
 image: ../assets/images/Snuff – Flibbiddydibbiddydob.jpg
 rating: 4.5

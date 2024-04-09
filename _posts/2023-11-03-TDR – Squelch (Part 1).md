@@ -2,7 +2,7 @@
 layout: post
 title:  "TDR – Squelch (Part 1)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, テックハウス ]
 image: ../assets/images/TDR – Squelch (Part 1).jpg
 rating: 3.5

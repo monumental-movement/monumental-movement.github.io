@@ -2,7 +2,7 @@
 layout: post
 title:  "ACDC – Moneytalks"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ロック, ハードロック ]
 image: ../assets/images/ACDC – Moneytalks.jpg
 rating: 4.5

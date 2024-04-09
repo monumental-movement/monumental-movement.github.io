@@ -2,7 +2,7 @@
 layout: post
 title:  "Lou Reed – New York"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ パンク, アートロック ]
 image: ../assets/images/Lou Reed – New York.jpg
 rating: 4.5

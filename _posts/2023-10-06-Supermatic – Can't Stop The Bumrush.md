@@ -2,7 +2,7 @@
 layout: post
 title:  "Supermatic – Can't Stop The Bumrush"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ブレイクビーツ ]
 image: ../assets/images/Supermatic – Can't Stop The Bumrush.jpg
 rating: 4.5

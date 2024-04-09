@@ -2,7 +2,7 @@
 layout: post
 title:  "8 Days Of Nothing - Die Kosmo Gesellschaft"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ノイズ, レア, 10インチ ]
 image: ../assets/images/8 Days Of Nothing - Die Kosmo Gesellschaft.jpg
 rating: 4.5

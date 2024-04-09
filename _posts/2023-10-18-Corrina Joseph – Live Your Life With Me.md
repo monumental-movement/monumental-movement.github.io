@@ -2,7 +2,7 @@
 layout: post
 title:  "Corrina Joseph – Live Your Life With Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ダウンテンポ ]
 image: ../assets/images/Corrina Joseph – Live Your Life With Me.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Elektronische Musik -Interkontinental 5"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ボサノヴァ, ラテン ]
 image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.jpg
 rating: 4.5

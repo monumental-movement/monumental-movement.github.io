@@ -2,7 +2,7 @@
 layout: post
 title:  "DHS – Attention Earth People Select Tracks"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ミニマル ]
 image: ../assets/images/DHS – Attention Earth People Select Tracks.jpg
 rating: 4.5

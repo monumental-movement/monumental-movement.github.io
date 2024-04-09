@@ -2,7 +2,7 @@
 layout: post
 title:  "Donna Summer And Giorgio Moroder –Carry On"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディスコ ]
 image: ../assets/images/Donna Summer And Giorgio Moroder –Carry On.jpg
 rating: 4.5

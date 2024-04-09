@@ -2,7 +2,7 @@
 layout: post
 title:  "Polyester – Culture Club"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, エレクトロ ]
 image: ../assets/images/Polyester – Culture Club.jpg
 rating: 4.5

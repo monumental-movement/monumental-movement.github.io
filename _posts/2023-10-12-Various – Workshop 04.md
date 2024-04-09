@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Workshop 04"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディープハウス, ミニマル ]
 image: ../assets/images/Various – Workshop 04.jpg
 rating: 4.5

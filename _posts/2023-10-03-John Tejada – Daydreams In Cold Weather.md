@@ -2,7 +2,7 @@
 layout: post
 title:  "John Tejada – Daydreams In Cold Weather"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ IDM, エレクトロ ]
 image: ../assets/images/John Tejada – Daydreams In Cold Weather.jpg
 rating: 3.5

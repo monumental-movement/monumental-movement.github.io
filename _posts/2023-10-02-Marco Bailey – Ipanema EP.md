@@ -2,7 +2,7 @@
 layout: post
 title:  "Marco Bailey – Ipanema EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハードテクノ ]
 image: ../assets/images/Marco Bailey – Ipanema EP.jpg
 rating: 3.5

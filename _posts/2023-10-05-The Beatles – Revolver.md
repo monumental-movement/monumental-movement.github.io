@@ -2,7 +2,7 @@
 layout: post
 title:  "The Beatles – Revolver"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ロック, サイケデリック ]
 image: ../assets/images/The Beatles – Revolver.jpg
 rating: 4.5

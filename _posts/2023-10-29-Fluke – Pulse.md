@@ -2,7 +2,7 @@
 layout: post
 title:  "Fluke – Pulse"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, プログレッシブ ]
 image: ../assets/images/Fluke – Pulse.jpg
 rating: 3.5

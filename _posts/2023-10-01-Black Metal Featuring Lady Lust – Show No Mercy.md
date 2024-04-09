@@ -2,7 +2,7 @@
 layout: post
 title:  "Black Metal Featuring Lady Lust – Show No Mercy"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイパーテクノ ]
 image: ../assets/images/Black Metal Featuring Lady Lust – Show No Mercy.jpg
 rating: 4.5

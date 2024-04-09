@@ -2,7 +2,7 @@
 layout: post
 title:  "Fantasia – Free Yourself"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Fantasia – Free Yourself.jpg
 rating: 4.5

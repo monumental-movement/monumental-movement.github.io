@@ -2,7 +2,7 @@
 layout: post
 title:  "Elektrochemie LK – When I Rock"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ジャーマンテクノ, 00s ]
 image: ../assets/images/Elektrochemie LK – When I Rock.jpg
 rating: 4.5

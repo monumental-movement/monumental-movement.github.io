@@ -2,7 +2,7 @@
 layout: post
 title:  "D'Malicious – The Loup-Garou EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス, 00s ]
 image: ../assets/images/D'Malicious – The Loup-Garou EP.jpg
 rating: 4.5

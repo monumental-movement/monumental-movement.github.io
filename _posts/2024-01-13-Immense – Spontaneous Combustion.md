@@ -2,7 +2,7 @@
 layout: post
 title:  "Immense – Spontaneous Combustion"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, 90s ]
 image: ../assets/images/Immense – Spontaneous Combustion.jpg
 rating: 4.5

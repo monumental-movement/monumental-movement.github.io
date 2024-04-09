@@ -2,7 +2,7 @@
 layout: post
 title:  "Motion Detector – Motion Detector"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, DUB, 00s ]
 image: ../assets/images/Motion Detector – Motion Detector.jpg
 rating: 4.5

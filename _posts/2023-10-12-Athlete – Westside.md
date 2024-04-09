@@ -2,7 +2,7 @@
 layout: post
 title:  "Athlete – Westside"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, インディーロック ]
 image: ../assets/images/Athlete – Westside.jpg
 rating: 3.5

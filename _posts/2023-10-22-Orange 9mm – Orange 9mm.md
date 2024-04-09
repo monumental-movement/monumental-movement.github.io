@@ -2,7 +2,7 @@
 layout: post
 title:  "Orange 9mm – Orange 9mm"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハードコア, ポストハードコア ]
 image: ../assets/images/Orange 9mm – Orange 9mm.jpg
 rating: 3.5

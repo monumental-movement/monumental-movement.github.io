@@ -2,7 +2,7 @@
 layout: post
 title:  "India Arie – Heading In The Right Direction"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ソウル ]
 image: ../assets/images/India Arie – Heading In The Right Direction.jpg
 rating: 3.5

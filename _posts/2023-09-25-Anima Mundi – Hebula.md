@@ -2,7 +2,7 @@
 layout: post
 title:  "Anima Mundi – Hebula"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, トライバル ]
 image: ../assets/images/Anima Mundi – Hebula.jpg
 rating: 4.5

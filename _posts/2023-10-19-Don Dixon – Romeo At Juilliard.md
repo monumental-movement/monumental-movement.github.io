@@ -2,7 +2,7 @@
 layout: post
 title:  "Don Dixon – Romeo At Juilliard"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, インディーロック ]
 image: ../assets/images/Don Dixon – Romeo At Juilliard.jpg
 rating: 3.5

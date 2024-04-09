@@ -2,7 +2,7 @@
 layout: post
 title:  "Hardy Hard – Everybody Shake Your Body"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Hardy Hard – Everybody Shake Your Body.jpg
 rating: 4.5

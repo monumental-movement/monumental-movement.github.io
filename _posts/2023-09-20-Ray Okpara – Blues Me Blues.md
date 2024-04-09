@@ -2,7 +2,7 @@
 layout: post
 title:  "Ray Okpara – Blues Me Blues"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ミニマル ]
 image: ../assets/images/Ray Okpara – Blues Me Blues.jpg
 rating: 4.5

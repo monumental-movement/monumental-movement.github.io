@@ -2,7 +2,7 @@
 layout: post
 title:  "Friendship – Friendship"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, スムースジャズ, 70s ]
 image: ../assets/images/Friendship – Friendship.jpg
 rating: 3.5

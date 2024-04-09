@@ -2,7 +2,7 @@
 layout: post
 title:  "Plutocracy – Dankstahz"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ グラインドコア, ロック ]
 image: ../assets/images/Plutocracy – Dankstahz.jpg
 rating: 4.5

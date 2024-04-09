@@ -2,7 +2,7 @@
 layout: post
 title:  "Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ミニマル, エレクトロ ]
 image: ../assets/images/Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen.jpg
 rating: 3.5

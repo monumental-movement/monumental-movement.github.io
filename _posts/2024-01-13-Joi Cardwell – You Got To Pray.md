@@ -2,7 +2,7 @@
 layout: post
 title:  "Joi Cardwell – You Got To Pray"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, リミックス, 90s ]
 image: ../assets/images/Joi Cardwell – You Got To Pray.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Supertramp – Breakfast In America"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, プログレ, 7インチ ]
 image: ../assets/images/Supertramp – Breakfast In America.jpg
 rating: 3.5

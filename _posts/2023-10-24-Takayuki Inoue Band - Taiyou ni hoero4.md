@@ -2,7 +2,7 @@
 layout: post
 title:  "Takayuki Inoue Band - Taiyou ni hoero4"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラマ主題歌, 懐メロ, 7インチ ]
 image: ../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.jpg
 rating: 3.5

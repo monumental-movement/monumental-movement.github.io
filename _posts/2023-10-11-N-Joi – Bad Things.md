@@ -2,7 +2,7 @@
 layout: post
 title:  "N-Joi – Bad Things"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/N-Joi – Bad Things.jpg
 rating: 3.5

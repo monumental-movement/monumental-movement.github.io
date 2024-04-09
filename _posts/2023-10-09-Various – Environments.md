@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Environments"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, アブストラクト ]
 image: ../assets/images/Various – Environments.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Jark Prongo – Rocket Base"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テクノ ]
 image: ../assets/images/Jark Prongo – Rocket Base.jpg
 rating: 4.5

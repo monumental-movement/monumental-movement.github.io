@@ -2,7 +2,7 @@
 layout: post
 title:  "Jeff Mills – Very EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ, トライバル ]
 image: ../assets/images/Jeff Mills – Very EP.jpg
 rating: 4.5

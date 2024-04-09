@@ -2,7 +2,7 @@
 layout: post
 title:  "Isotonik – The Isotonik E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ハードコア ]
 image: ../assets/images/Isotonik – The Isotonik E.P.jpg
 rating: 3.5

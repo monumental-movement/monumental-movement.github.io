@@ -2,7 +2,7 @@
 layout: post
 title:  "Distance – Night Vision Traffic (Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ダブステップ, インダストリアル ]
 image: ../assets/images/Distance – Night Vision Traffic (Remixes).jpg
 rating: 4.5

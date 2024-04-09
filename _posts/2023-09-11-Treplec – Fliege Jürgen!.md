@@ -2,7 +2,7 @@
 layout: post
 title:  "Treplec – Fliege Jürgen! EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス, ミニマル ]
 image: ../assets/images/Treplec – Fliege Jürgen!.jpg
 rating: 4.5

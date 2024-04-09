@@ -2,7 +2,7 @@
 layout: post
 title:  "Rednail Kidz – Elektrik Disko"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, 90s ]
 image: ../assets/images/Rednail Kidz – Elektrik Disko.jpg
 rating: 3.5

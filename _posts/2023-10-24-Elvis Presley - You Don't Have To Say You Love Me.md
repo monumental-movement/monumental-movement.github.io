@@ -2,7 +2,7 @@
 layout: post
 title:  "Elvis Presley - You Don't Have To Say You Love Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, 70s, 7インチ ]
 image: ../assets/images/Elvis Presley - You Don't Have To Say You Love Me.jpg
 rating: 3.5

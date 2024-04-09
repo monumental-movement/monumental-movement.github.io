@@ -2,7 +2,7 @@
 layout: post
 title:  "Zeni Geva – Desire For Agony"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハードコア, ヘビーメタル, ノイズ ]
 image: ../assets/images/Zeni Geva – Desire For Agony.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Joey Beltram – Game Form"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, USテクノ ]
 image: ../assets/images/Joey Beltram – Game Form.jpg
 rating: 3.5

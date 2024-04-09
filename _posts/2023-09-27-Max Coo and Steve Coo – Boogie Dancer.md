@@ -2,7 +2,7 @@
 layout: post
 title:  "Max Coo & Steve Coo – Boogie Dancer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, イタロ, ハイエナジー ]
 image: ../assets/images/Max Coo & Steve Coo – Boogie Dancer.jpg
 rating: 4.5

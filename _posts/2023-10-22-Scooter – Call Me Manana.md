@@ -2,7 +2,7 @@
 layout: post
 title:  "Scooter – Call Me Mañana"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハッピーハードコア, トランス ]
 image: ../assets/images/Scooter – Call Me Manana.jpg
 rating: 3.5

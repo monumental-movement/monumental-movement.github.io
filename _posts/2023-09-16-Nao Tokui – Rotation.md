@@ -2,7 +2,7 @@
 layout: post
 title:  "Nao Tokui – Rotation"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/Nao Tokui – Rotation.jpg
 rating: 4.5

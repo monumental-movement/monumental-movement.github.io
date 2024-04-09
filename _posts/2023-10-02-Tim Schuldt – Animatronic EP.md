@@ -2,7 +2,7 @@
 layout: post
 title:  "Tim Schuldt – Animatronic EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ゴアトランス, サイケデリック ]
 image: ../assets/images/Tim Schuldt – Animatronic EP.jpg
 rating: 3.5

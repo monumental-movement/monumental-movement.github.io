@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Blast From The Past EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス, ジャズ ]
 image: ../assets/images/Various – Blast From The Past EP.jpg
 rating: 4.5

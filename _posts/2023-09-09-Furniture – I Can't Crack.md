@@ -2,7 +2,7 @@
 layout: post
 title:  "Furniture – I Can't Crack"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブルース, カントリー, クラシック ]
 image: ../assets/images/Furniture – I Can't Crack.jpg
 rating: 4.5

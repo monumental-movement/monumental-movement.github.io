@@ -2,7 +2,7 @@
 layout: post
 title:  "Modomonomusik and Bee – Silicon Valley"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/Modomonomusik and Bee – Silicon Valley.jpg
 rating: 4.5

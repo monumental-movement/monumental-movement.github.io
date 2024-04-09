@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dooleys – Body Language"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, シンセポップ, 7インチ ]
 image: ../assets/images/The Dooleys – Body Language.jpg
 rating: 3.5

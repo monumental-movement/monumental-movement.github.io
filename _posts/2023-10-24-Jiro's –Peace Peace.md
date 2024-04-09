@@ -2,7 +2,7 @@
 layout: post
 title:  "Jiro's –Peace Peace"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ フォーク, 懐メロ, 7インチ ]
 image: ../assets/images/Jiro's –Peace Peace.jpg
 rating: 3.5

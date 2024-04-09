@@ -2,7 +2,7 @@
 layout: post
 title:  "The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To Tell Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ポップス, 60s ]
 image: ../assets/images/The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To Tell Me.jpg
 rating: 3.5

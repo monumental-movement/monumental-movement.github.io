@@ -2,7 +2,7 @@
 layout: post
 title:  "Hyena Featuring Ricky Trauma –I've Got To Dance"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ハウス ]
 image: ../assets/images/Hyena Featuring Ricky Trauma –I've Got To Dance.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Economic Animals - Minato no Yoko"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, パロディ, 7インチ ]
 image: ../assets/images/エコノミック・アニマルズ – 帰ってきた港のヨーコ.jpg
 rating: 3.5

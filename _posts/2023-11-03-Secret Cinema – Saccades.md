@@ -2,7 +2,7 @@
 layout: post
 title:  "Secret Cinema – Saccades"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, 00s ]
 image: ../assets/images/Secret Cinema – Saccades.jpg
 rating: 3.5

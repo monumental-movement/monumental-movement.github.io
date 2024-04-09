@@ -2,7 +2,7 @@
 layout: post
 title:  "Ann Nesby & Al Green – Put It On Paper"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, カラージハウス, ソウル ]
 image: ../assets/images/Ann Nesby and Al Green – Put It On Paper.jpg
 rating: 3.5

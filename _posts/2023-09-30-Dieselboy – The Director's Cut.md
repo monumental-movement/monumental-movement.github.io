@@ -2,7 +2,7 @@
 layout: post
 title:  "Dieselboy – The Director's Cut"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ドラムンベース, レア ]
 image: ../assets/images/Dieselboy – The Director's Cut.jpg
 rating: 4.5

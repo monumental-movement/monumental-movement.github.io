@@ -2,7 +2,7 @@
 layout: post
 title:  "Zion – Fantasma Dos Jueyes"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ スピードコア, ハードコア ]
 image: ../assets/images/Zion – Fantasma Dos Jueyes.jpg
 rating: 3.5

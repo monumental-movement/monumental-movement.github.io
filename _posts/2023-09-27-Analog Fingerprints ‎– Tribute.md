@@ -2,7 +2,7 @@
 layout: post
 title:  "Analog Fingerprints – Tribute"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, エレクトロ ]
 image: ../assets/images/Analog Fingerprints – Tribute.jpg
 rating: 4.5

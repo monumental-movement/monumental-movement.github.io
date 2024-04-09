@@ -2,7 +2,7 @@
 layout: post
 title:  "Sly & The Family Stone – Stand"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ファンク, ソウル ]
 image: ../assets/images/Sly & The Family Stone – Stand.jpg
 rating: 4.5

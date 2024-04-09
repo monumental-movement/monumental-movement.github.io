@@ -2,7 +2,7 @@
 layout: post
 title:  "Kaleidoscópio – Meu Sonho"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ドラムンベース ]
 image: ../assets/images/Kaleidoscopio – Meu Sonho.jpg
 rating: 3.5

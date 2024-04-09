@@ -2,7 +2,7 @@
 layout: post
 title:  "Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime.jpg
 rating: 4.5

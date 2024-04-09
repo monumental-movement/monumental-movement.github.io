@@ -2,7 +2,7 @@
 layout: post
 title:  "Passage – Passage"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ソウル, ディスコ ]
 image: ../assets/images/Passage – Passage.jpg
 rating: 3.5

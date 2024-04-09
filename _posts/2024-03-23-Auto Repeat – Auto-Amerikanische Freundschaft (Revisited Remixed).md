@@ -2,7 +2,7 @@
 layout: post
 title:  "Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハウス, 90s ]
 image: ../assets/images/Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed).jpg
 rating: 4.5

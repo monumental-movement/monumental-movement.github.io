@@ -2,7 +2,7 @@
 layout: post
 title:  "Diephuis – Inside Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アフリカン, ディープハウス ]
 image: ../assets/images/Diephuis – Inside Me.jpg
 rating: 4.5

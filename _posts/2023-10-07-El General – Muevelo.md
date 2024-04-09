@@ -2,7 +2,7 @@
 layout: post
 title:  "El General – Muevelo"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, レゲエ, ラガ ]
 image: ../assets/images/El General – Muevelo.jpg
 rating: 4.5

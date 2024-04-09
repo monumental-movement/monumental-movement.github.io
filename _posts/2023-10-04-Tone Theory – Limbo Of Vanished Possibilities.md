@@ -2,7 +2,7 @@
 layout: post
 title:  "Tone Theory – Limbo Of Vanished Possibilities"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ディープハウス ]
 image: ../assets/images/Tone Theory – Limbo Of Vanished Possibilities.jpg
 rating: 4.5

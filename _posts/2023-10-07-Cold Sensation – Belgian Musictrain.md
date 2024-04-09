@@ -2,7 +2,7 @@
 layout: post
 title:  "Cold Sensation – Belgian Musictrain"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニュービート ]
 image: ../assets/images/Cold Sensation – Belgian Musictrain.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Elektrochemie LK – Gold!"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ジャーマンテクノ ]
 image: ../assets/images/Elektrochemie LK – Gold.jpg
 rating: 4.5

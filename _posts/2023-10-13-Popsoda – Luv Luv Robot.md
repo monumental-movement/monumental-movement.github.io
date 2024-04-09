@@ -2,7 +2,7 @@
 layout: post
 title:  "Popsoda – Luv Luv Robot"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, シンセポップ ]
 image: ../assets/images/Popsoda – Luv Luv Robot.jpg
 rating: 3.5

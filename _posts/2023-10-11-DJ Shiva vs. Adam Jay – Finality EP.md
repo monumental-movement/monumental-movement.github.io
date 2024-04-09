@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Shiva vs. Adam Jay – Finality EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/DJ Shiva vs. Adam Jay – Finality EP.jpg
 rating: 3.5

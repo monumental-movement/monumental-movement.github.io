@@ -2,7 +2,7 @@
 layout: post
 title:  "Supertramp – Crime Of The Century"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, プログレッシブ ]
 image: ../assets/images/Supertramp – Crime Of The Century.jpg
 rating: 3.5

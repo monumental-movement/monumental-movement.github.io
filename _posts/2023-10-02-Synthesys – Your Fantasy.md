@@ -2,7 +2,7 @@
 layout: post
 title:  "Synthesys – Your Fantasy"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ ]
 image: ../assets/images/Synthesys – Your Fantasy.jpg
 rating: 4.5

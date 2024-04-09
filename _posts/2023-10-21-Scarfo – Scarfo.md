@@ -2,7 +2,7 @@
 layout: post
 title:  "Scarfo – Scarfo"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ポップス, ロック ]
 image: ../assets/images/Scarfo – Scarfo.jpg
 rating: 3.5

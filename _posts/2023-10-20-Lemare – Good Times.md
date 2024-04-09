@@ -2,7 +2,7 @@
 layout: post
 title:  "Lemare – Good Times"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ UKガラージ, ファンク ]
 image: ../assets/images/Lemare – Good Times.jpg
 rating: 3.5

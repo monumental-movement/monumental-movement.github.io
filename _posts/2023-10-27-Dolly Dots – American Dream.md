@@ -2,7 +2,7 @@
 layout: post
 title:  "Dolly Dots – American Dream"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, 80s ]
 image: ../assets/images/Dolly Dots – American Dream.jpg
 rating: 3.5

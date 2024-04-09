@@ -2,7 +2,7 @@
 layout: post
 title:  "Technasia – Force"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/Technasia – Force.jpg
 rating: 3.5

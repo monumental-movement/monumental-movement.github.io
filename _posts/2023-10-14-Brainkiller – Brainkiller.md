@@ -2,7 +2,7 @@
 layout: post
 title:  "Brainkiller – Brainkiller"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ スピードコア, ハードコア ]
 image: ../assets/images/Brainkiller – Brainkiller.jpg
 rating: 3.5

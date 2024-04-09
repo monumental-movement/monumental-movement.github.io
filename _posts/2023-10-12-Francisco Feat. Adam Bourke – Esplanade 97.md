@@ -2,7 +2,7 @@
 layout: post
 title:  "Francisco Feat. Adam Bourke – Esplanade 97"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, エレクトロ ]
 image: ../assets/images/Francisco Feat. Adam Bourke – Esplanade 97.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Heart – Dreamboat Annie"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ハードロック ]
 image: ../assets/images/Heart – Dreamboat Annie.jpg
 rating: 3.5

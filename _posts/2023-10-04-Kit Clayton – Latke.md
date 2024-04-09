@@ -2,7 +2,7 @@
 layout: post
 title:  "Kit Clayton – Latke"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ダブ ]
 image: ../assets/images/Kit Clayton – Latke.jpg
 rating: 4.5

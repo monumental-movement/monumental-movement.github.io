@@ -2,7 +2,7 @@
 layout: post
 title:  "The Original Caste – Mr. Monday  Sweet Chicago"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ フォーク, 懐メロ, 7インチ ]
 image: ../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.jpg
 rating: 3.5

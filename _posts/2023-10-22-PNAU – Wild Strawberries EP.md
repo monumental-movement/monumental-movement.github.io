@@ -2,7 +2,7 @@
 layout: post
 title:  "PNAU – Wild Strawberries EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, アシッド ]
 image: ../assets/images/PNAU – Wild Strawberries EP.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Real McCoy – Another Night"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ユーロ, ガラージ ]
 image: ../assets/images/Real McCoy – Another Night.jpg
 rating: 3.5

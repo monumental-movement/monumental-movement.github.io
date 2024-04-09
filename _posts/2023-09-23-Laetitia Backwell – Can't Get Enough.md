@@ -2,7 +2,7 @@
 layout: post
 title:  "Laetitia Backwell – Can't Get Enough"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, ソウル ]
 image: ../assets/images/Laetitia Backwell – Can't Get Enough.jpg
 rating: 3.5

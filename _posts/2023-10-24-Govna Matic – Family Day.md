@@ -2,7 +2,7 @@
 layout: post
 title:  "Govna Matic – Family Day"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ハードコアヒップホップ ]
 image: ../assets/images/Govna Matic – Family Day.jpg
 rating: 3.5

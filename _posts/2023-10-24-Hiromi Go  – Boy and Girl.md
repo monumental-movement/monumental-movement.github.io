@@ -2,7 +2,7 @@
 layout: post
 title:  "郷ひろみ  – 男の子女の子"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [Jポップ, 懐メロ, 7インチ ]
 image: ../assets/images/郷ひろみ  – 男の子女の子.jpg
 rating: 3.5

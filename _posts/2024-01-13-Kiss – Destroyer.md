@@ -2,7 +2,7 @@
 layout: post
 title:  "Kiss – Destroyer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ハードロック, 80s ]
 image: ../assets/images/Kiss – Destroyer.jpg
 rating: 4.5

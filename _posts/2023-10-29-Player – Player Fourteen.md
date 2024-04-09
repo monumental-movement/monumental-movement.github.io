@@ -2,7 +2,7 @@
 layout: post
 title:  "Player – Player Fourteen"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, UKテクノ ]
 image: ../assets/images/Player – Player Fourteen.jpg
 rating: 3.5

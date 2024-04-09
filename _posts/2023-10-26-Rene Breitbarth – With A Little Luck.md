@@ -2,7 +2,7 @@
 layout: post
 title:  "Rene Breitbarth – With A Little Luck"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ミニマル, テックハウス ]
 image: ../assets/images/Rene Breitbarth – With A Little Luck.jpg
 rating: 3.5

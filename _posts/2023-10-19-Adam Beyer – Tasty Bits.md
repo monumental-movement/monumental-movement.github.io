@@ -2,7 +2,7 @@
 layout: post
 title:  "Adam Beyer – Tasty Bits"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/Adam Beyer – Tasty Bits.jpg
 rating: 4.5

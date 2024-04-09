@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Pierre – We Gonna Funk"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アシッド ]
 image: ../assets/images/DJ Pierre – We Gonna Funk.jpg
 rating: 4.5

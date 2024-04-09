@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Extravagance II E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハードコアテクノ ]
 image: ../assets/images/Various – Extravagance II E.P.jpg
 rating: 4.5

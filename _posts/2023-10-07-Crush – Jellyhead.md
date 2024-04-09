@@ -2,7 +2,7 @@
 layout: post
 title:  "Crush – Jellyhead"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ユーロハウス ]
 image: ../assets/images/Crush – Jellyhead.jpg
 rating: 3.5

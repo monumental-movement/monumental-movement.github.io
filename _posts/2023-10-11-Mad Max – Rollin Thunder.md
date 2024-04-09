@@ -2,7 +2,7 @@
 layout: post
 title:  "Mad Max – Rollin Thunder"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヘヴィメタル, ハードロック ]
 image: ../assets/images/Mad Max – Rollin' Thunder.jpg
 rating: 3.5

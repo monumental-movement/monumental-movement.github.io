@@ -2,7 +2,7 @@
 layout: post
 title:  "Sambôa – Sambôa"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ボサノヴァ, ラテン ]
 image: ../assets/images/Samboa – Samboa.jpg
 rating: 3.5

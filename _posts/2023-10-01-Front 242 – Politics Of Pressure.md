@@ -2,7 +2,7 @@
 layout: post
 title:  "Front 242 – Politics Of Pressure"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ EBM, ノイズ ]
 image: ../assets/images/Front 242 – Politics Of Pressure.jpg
 rating: 4.5

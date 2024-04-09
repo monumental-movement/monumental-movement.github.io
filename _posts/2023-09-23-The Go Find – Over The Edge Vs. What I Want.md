@@ -2,7 +2,7 @@
 layout: post
 title:  "The Go Find – Over The Edge Vs. What I Want"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, エレクトロ ]
 image: ../assets/images/The Go Find – Over The Edge Vs. What I Want.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Palm Skin Productions – Getting Out Of Hell"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アシッドジャズ, ジャズ ]
 image: ../assets/images/Palm Skin Productions – Getting Out Of Hell.jpg
 rating: 3.5

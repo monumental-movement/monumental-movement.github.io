@@ -2,7 +2,7 @@
 layout: post
 title:  "Space Raiders – Glam Raid"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ビッグビート, テクノ, 7インチ ]
 image: ../assets/images/Space Raiders – Glam Raid.jpg
 rating: 4.5

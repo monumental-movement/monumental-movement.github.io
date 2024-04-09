@@ -2,7 +2,7 @@
 layout: post
 title:  "Cut & Run – Outta Space 6,4367"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイク, ブレイクビーツ ]
 image: ../assets/images/Cut and Run – Outta Space 6,4367.jpg
 rating: 4.5

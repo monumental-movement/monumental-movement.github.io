@@ -2,7 +2,7 @@
 layout: post
 title:  "STS9 – Artifact"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビート, ドラムンベース, ジャズ ]
 image: ../assets/images/STS9 – Artifact.jpg
 rating: 4.5

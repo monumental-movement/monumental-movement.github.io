@@ -2,7 +2,7 @@
 layout: post
 title:  "Marc Anthony – You Sang To Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ポップス ]
 image: ../assets/images/Marc Anthony – You Sang To Me.jpg
 rating: 4.5

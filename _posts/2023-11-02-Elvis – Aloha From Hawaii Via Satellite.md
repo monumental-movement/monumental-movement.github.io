@@ -2,7 +2,7 @@
 layout: post
 title:  "Elvis – Aloha From Hawaii Via Satellite"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, 70s ]
 image: ../assets/images/Elvis – Aloha From Hawaii Via Satellite.jpg
 rating: 3.5

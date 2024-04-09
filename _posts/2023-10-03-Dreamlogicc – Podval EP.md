@@ -2,7 +2,7 @@
 layout: post
 title:  "Dreamlogicc – Podval EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アンビエント, テクノ ]
 image: ../assets/images/Dreamlogicc – Podval EP.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Armand Van Helden – Koochy"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス,ブレイクビート, 00s ]
 image: ../assets/images/Armand Van Helden – Koochy.jpg
 rating: 4.5

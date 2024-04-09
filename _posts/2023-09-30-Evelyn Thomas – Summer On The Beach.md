@@ -2,7 +2,7 @@
 layout: post
 title:  "Evelyn Thomas – Summer On The Beach"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ソウル, ファンク, ハイエナジー ]
 image: ../assets/images/Evelyn Thomas – Summer On The Beach.jpg
 rating: 4.5

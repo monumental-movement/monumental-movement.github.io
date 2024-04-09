@@ -2,7 +2,7 @@
 layout: post
 title:  "Monette Evans – (This Is) The Time (Remix)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロ, ハウス, 90s ]
 image: ../assets/images/Monette Evans – (This Is) The Time (Remix).jpg
 rating: 4.5

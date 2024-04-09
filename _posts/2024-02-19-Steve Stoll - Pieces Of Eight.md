@@ -2,7 +2,7 @@
 layout: post
 title:  "Steve Stoll - Pieces Of Eight"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, NYテクノ, UKテクノ ]
 image: ../assets/images/Steve Stoll - Pieces Of Eight.jpg
 rating: 4.5

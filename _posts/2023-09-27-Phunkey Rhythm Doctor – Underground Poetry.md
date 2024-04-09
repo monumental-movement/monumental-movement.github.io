@@ -2,7 +2,7 @@
 layout: post
 title:  "Phunkey Rhythm Doctor – Underground Poetry"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, エレクトロ ]
 image: ../assets/images/Phunkey Rhythm Doctor – Underground Poetry.jpg
 rating: 4.5

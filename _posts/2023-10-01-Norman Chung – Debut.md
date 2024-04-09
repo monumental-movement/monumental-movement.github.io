@@ -2,7 +2,7 @@
 layout: post
 title:  "Norman Chung – Debut"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/Norman Chung – Debut.jpg
 rating: 4.5

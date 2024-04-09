@@ -2,7 +2,7 @@
 layout: post
 title:  "Miss Monday – Curious"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, ソウル ]
 image: ../assets/images/Miss Monday – Curious.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Air Supply – Now And Forever"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ソフトロック ]
 image: ../assets/images/Air Supply – Now And Forever.jpg
 rating: 3.5

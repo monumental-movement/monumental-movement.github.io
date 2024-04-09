@@ -2,7 +2,7 @@
 layout: post
 title:  "Paintbox – The Door  Provided Railroad"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハードコア, パンク, 7インチ ]
 image: ../assets/images/Paintbox – The Door Provided Railroad.jpg
 rating: 3.5

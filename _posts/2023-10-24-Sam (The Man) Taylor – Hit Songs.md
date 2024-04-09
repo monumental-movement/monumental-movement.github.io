@@ -2,7 +2,7 @@
 layout: post
 title:  "Sam (The Man) Taylor – Hit Songs"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, 懐メロ, 70s ]
 image: ../assets/images/Sam (The Man) Taylor – Hit Songs.jpg
 rating: 3.5

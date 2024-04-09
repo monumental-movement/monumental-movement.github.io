@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, アシッド ]
 image: ../assets/images/Various – EP.jpg
 rating: 4.5

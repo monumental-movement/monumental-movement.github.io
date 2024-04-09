@@ -2,7 +2,7 @@
 layout: post
 title:  "Joey Beltram – Arena"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, USテクノ ]
 image: ../assets/images/Joey Beltram – Arena.jpg
 rating: 3.5

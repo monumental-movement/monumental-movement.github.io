@@ -2,7 +2,7 @@
 layout: post
 title:  "Grant Nelson – Spellbound"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, レア ]
 image: ../assets/images/Grant Nelson – Spellbound.jpg
 rating: 4.5

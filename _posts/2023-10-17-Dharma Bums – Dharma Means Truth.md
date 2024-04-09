@@ -2,7 +2,7 @@
 layout: post
 title:  "Dharma Bums – Dharma Means Truth"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, トランス ]
 image: ../assets/images/Dharma Bums – Dharma Means Truth.jpg
 rating: 3.5

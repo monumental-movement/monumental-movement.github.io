@@ -2,7 +2,7 @@
 layout: post
 title:  "Realside – High Noon"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, フューチャージャズ ]
 image: ../assets/images/Realside – High Noon.jpg
 rating: 4.5

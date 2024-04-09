@@ -2,7 +2,7 @@
 layout: post
 title:  "Fun Fun – Gimme Some Loving (House Mix)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ ]
 image: ../assets/images/Fun Fun – Gimme Some Loving (House Mix).jpg
 rating: 3.5

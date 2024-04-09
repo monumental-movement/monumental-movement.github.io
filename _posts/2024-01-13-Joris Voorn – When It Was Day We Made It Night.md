@@ -2,7 +2,7 @@
 layout: post
 title:  "Joris Voorn – When It Was Day We Made It Night"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, テックハウス, 00s ]
 image: ../assets/images/Joris Voorn – When It Was Day We Made It Night.jpg
 rating: 4.5

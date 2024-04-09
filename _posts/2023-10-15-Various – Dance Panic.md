@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Dance Panic"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, レア ]
 image: ../assets/images/Various – Dance Panic.jpg
 rating: 3.5

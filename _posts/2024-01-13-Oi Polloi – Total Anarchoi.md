@@ -2,7 +2,7 @@
 layout: post
 title:  "Oi Polloi – Total Anarchoi"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, 90s ]
 image: ../assets/images/Oi Polloi – Total Anarchoi.jpg
 rating: 4.5

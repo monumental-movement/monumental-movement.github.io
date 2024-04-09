@@ -2,7 +2,7 @@
 layout: post
 title:  "Leroy Hanghofer – Bathroomboogie"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, レフトフィールド ]
 image: ../assets/images/Leroy Hanghofer – Bathroomboogie.jpg
 rating: 4.5

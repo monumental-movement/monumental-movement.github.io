@@ -2,7 +2,7 @@
 layout: post
 title:  "DNA – Rebel Woman"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロ, ユーロハウス, UKテクノ ]
 image: ../assets/images/DNA – Rebel Woman.jpg
 rating: 4.5

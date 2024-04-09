@@ -2,7 +2,7 @@
 layout: post
 title:  "Model 500 – The Flow"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ドラムンベース, デトロイトテクノ ]
 image: ../assets/images/Model 500 – The Flow.jpg
 rating: 4.5

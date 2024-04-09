@@ -2,7 +2,7 @@
 layout: post
 title:  "All Boxed In – ...Happen"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/All Boxed In – ...Happen.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ken Laszlo – Tonight"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ, レア ]
 image: ../assets/images/Ken Laszlo – Tonight.jpg
 rating: 4.5

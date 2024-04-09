@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Breeze – Jump A Little Higher"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハッピーハードコア, ハードコア ]
 image: ../assets/images/DJ Breeze – Jump A Little Higher.jpg
 rating: 3.5

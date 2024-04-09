@@ -2,7 +2,7 @@
 layout: post
 title:  "Sonic Insomniac – Impermanence EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ IDM, テクノ ]
 image: ../assets/images/Sonic Insomniac – Impermanence EP.jpg
 rating: 4.5

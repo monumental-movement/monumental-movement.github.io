@@ -2,7 +2,7 @@
 layout: post
 title:  "Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair.jpg
 rating: 3.5

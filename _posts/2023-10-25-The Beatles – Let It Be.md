@@ -2,7 +2,7 @@
 layout: post
 title:  "The Beatles – Let It Be"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, 70s, 7インチ ]
 image: ../assets/images/The Beatles – Let It Be.jpg
 rating: 4.5

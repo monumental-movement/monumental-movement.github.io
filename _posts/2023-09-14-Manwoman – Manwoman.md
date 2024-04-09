@@ -2,7 +2,7 @@
 layout: post
 title:  "Manwoman – Manwoman"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, ジャパニーズパンク, 10インチ ]
 image: ../assets/images/Manwoman – Manwoman.jpg
 rating: 4.5

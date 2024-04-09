@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Bam Bam – Elektro-Synthesis"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ハードハウス ]
 image: ../assets/images/DJ Bam Bam – Elektro-Synthesis.jpg
 rating: 3.5

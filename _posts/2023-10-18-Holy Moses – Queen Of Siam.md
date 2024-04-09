@@ -2,7 +2,7 @@
 layout: post
 title:  "Holy Moses – Queen Of Siam"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, スラッシュ ]
 image: ../assets/images/Holy Moses – Queen Of Siam.jpg
 rating: 4.5

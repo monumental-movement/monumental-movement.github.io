@@ -2,7 +2,7 @@
 layout: post
 title:  "Joey Beltram – E.P. Number One"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, USテクノ ]
 image: ../assets/images/Joey Beltram – E.P. Number One.jpg
 rating: 3.5

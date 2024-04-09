@@ -2,7 +2,7 @@
 layout: post
 title:  "Paul Hardcastle – Walk In The Night"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アシッドジャズ, シンセポップ ]
 image: ../assets/images/Paul Hardcastle – Walk In The Night.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Adam Marshall – Remote Culture"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/Adam Marshall – Remote Culture.jpg
 rating: 4.5

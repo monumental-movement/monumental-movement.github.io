@@ -2,7 +2,7 @@
 layout: post
 title:  "Dao Dezi – La Jument De Mishao"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロ, ユーロハウス ]
 image: ../assets/images/Dao Dezi – La Jument De Mishao.jpg
 rating: 4.5

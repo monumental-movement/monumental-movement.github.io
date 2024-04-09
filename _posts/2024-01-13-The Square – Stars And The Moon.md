@@ -2,7 +2,7 @@
 layout: post
 title:  "The Square – Stars And The Moon"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, バンド, 80s ]
 image: ../assets/images/The Square – Stars And The Moon.jpg
 rating: 4.5

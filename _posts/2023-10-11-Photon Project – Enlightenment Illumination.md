@@ -2,7 +2,7 @@
 layout: post
 title:  "Photon Project – Enlightenment Illumination"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Photon Project – Enlightenment Illumination.jpg
 rating: 3.5

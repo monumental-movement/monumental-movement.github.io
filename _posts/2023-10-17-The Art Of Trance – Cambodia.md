@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art Of Trance – Cambodia"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, アシッド ]
 image: ../assets/images/The Art Of Trance – Cambodia.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "MK – Burning"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, アンセム ]
 image: ../assets/images/MK – Burning.jpg
 rating: 3.5

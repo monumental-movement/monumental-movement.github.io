@@ -2,7 +2,7 @@
 layout: post
 title:  "Grandmaster Flash – U Know What Time It Is"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ブレイクビーツ ]
 image: ../assets/images/Grandmaster Flash – U Know What Time It Is.jpg
 rating: 4.5

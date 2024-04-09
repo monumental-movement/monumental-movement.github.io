@@ -2,7 +2,7 @@
 layout: post
 title:  "Roy Montgomery – Particle Wave"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, スペースロック ]
 image: ../assets/images/Roy Montgomery – Particle Wave.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Charly Lownoise & Mental Theo –Together In Wonderland"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハッピーハードコア ]
 image: ../assets/images/Charly Lownoise & Mental Theo –Together In Wonderland.jpg
 rating: 4.5

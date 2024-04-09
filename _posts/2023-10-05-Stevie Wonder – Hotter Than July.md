@@ -2,7 +2,7 @@
 layout: post
 title:  "Stevie Wonder – Hotter Than July"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ファンク, ソウル ]
 image: ../assets/images/Stevie Wonder – Hotter Than July.jpg
 rating: 4.5

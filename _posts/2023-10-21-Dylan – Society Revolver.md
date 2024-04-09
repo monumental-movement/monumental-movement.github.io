@@ -2,7 +2,7 @@
 layout: post
 title:  "Dylan – Society Revolver"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Dylan – Society Revolver.jpg
 rating: 3.5

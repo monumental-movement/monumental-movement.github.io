@@ -2,7 +2,7 @@
 layout: post
 title:  "Talking Heads – Speaking In Tongues"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ロック, アートロック ]
 image: ../assets/images/Talking Heads – Speaking In Tongues.jpg
 rating: 4.5

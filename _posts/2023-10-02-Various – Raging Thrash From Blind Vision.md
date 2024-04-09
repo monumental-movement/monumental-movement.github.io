@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Raging Thrash From Blind Vision"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, ハードコア ]
 image: ../assets/images/Various – Raging Thrash From Blind Vision.jpg
 rating: 4.5

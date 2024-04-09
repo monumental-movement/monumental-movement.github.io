@@ -2,7 +2,7 @@
 layout: post
 title:  "Minor Tuning Band - Hit in Disco"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, ソウル, 7インチ ]
 image: ../assets/images/マイナー・チューニング・バンド マリリン・モンロー・ハズバンド – 歌謡ヒット・イン・ディスコ '76 ソウルこれっきりですか ピーナッツ.jpg
 rating: 3.5

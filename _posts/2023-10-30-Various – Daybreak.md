@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Daybreak"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ダウンテンポ ]
 image: ../assets/images/Various – Daybreak.jpg
 rating: 3.5

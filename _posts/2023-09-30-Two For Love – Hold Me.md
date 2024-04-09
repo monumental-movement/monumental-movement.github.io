@@ -2,7 +2,7 @@
 layout: post
 title:  "Two For Love – Hold Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ユーロビート ]
 image: ../assets/images/Two For Love – Hold Me.jpg
 rating: 4.5

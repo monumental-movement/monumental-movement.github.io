@@ -2,7 +2,7 @@
 layout: post
 title:  "Savier – Cucú"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ラテン, ユーロ ]
 image: ../assets/images/Savier – Cucú.jpg
 rating: 4.5

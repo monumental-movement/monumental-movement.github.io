@@ -2,7 +2,7 @@
 layout: post
 title:  "Rotterdam Wolves – Rotterdam Anthem"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ガバ ]
 image: ../assets/images/Rotterdam Wolves – Rotterdam Anthem.jpg
 rating: 4.5

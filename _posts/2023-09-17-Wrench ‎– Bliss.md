@@ -2,7 +2,7 @@
 layout: post
 title:  "Wrench – Bliss"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ダブ, ミクスチャー ]
 image: ../assets/images/Wrench – Bliss.jpg
 rating: 4.5

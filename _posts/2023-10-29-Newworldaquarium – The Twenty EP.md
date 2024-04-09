@@ -2,7 +2,7 @@
 layout: post
 title:  "Newworldaquarium – The Twenty EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テクノ ]
 image: ../assets/images/Newworldaquarium – The Twenty EP.jpg
 rating: 4.5

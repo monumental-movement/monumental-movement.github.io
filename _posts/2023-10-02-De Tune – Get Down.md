@@ -2,7 +2,7 @@
 layout: post
 title:  "De Tune – Get Down"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/De Tune – Get Down.jpg
 rating: 3.5

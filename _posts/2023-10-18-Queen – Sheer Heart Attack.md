@@ -2,7 +2,7 @@
 layout: post
 title:  "Queen – Sheer Heart Attack"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック ]
 image: ../assets/images/Queen – Sheer Heart Attack.jpg
 rating: 4.5

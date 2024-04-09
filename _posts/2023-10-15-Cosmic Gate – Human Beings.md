@@ -2,7 +2,7 @@
 layout: post
 title:  "Cosmic Gate – Human Beings"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハードトランス ]
 image: ../assets/images/Cosmic Gate – Human Beings.jpg
 rating: 3.5

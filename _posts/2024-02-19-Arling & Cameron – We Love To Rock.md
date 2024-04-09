@@ -2,7 +2,7 @@
 layout: post
 title:  "Arling & Cameron – We Love To Rock"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ブレイク, エレクトロ ]
 image: ../assets/images/Arling & Cameron – We Love To Rock.jpg
 rating: 4.5

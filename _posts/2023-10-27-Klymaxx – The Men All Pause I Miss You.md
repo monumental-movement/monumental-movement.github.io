@@ -2,7 +2,7 @@
 layout: post
 title:  "Klymaxx – The Men All Pause I Miss You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ポップス, ファンク, 7インチ ]
 image: ../assets/images/Klymaxx – The Men All Pause I Miss You.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Mahavishnu Orchestra – Between Nothingness & Eternity"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ フュージョン, ジャズ, ロック ]
 image: ../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.jpg
 rating: 3.5

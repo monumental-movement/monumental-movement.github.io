@@ -2,7 +2,7 @@
 layout: post
 title:  "Claude Young – The Dexit E.P."
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ ]
 image: ../assets/images/Claude Young – The Dexit E.P.jpg
 rating: 4.5

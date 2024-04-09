@@ -2,7 +2,7 @@
 layout: post
 title:  "On Top – Until I'm Heard"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ガラージハウス, 90s ]
 image: ../assets/images/On Top – Until I'm Heard.jpg
 rating: 4.5

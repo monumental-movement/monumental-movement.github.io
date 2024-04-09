@@ -2,7 +2,7 @@
 layout: post
 title:  "Deodato – Prelude"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, ファンク ]
 image: ../assets/images/Deodato – Prelude.jpg
 rating: 3.5

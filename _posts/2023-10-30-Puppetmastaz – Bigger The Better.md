@@ -2,7 +2,7 @@
 layout: post
 title:  "Puppetmastaz – Bigger The Better"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ヒップホップ, ラップ ]
 image: ../assets/images/Puppetmastaz – Bigger The Better.jpg
 rating: 3.5

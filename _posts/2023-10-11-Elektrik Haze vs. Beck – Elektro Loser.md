@@ -2,7 +2,7 @@
 layout: post
 title:  "Elektrik Haze vs. Beck – Elektro Loser"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, リミックス ]
 image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.jpg
 rating: 3.5

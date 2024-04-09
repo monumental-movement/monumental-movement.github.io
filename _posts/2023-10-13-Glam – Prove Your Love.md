@@ -2,7 +2,7 @@
 layout: post
 title:  "Glam – Prove Your Love"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, レア ]
 image: ../assets/images/Glam – Prove Your Love.jpg
 rating: 4.5

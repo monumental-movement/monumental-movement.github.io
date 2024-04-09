@@ -2,7 +2,7 @@
 layout: post
 title:  "Caesars – Jerk It Out (The Jason Nevins Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ロック,  ]
 image: ../assets/images/Caesars – Jerk It Out (The Jason Nevins Remixes).jpg
 rating: 4.5

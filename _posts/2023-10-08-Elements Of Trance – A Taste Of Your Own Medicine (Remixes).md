@@ -2,7 +2,7 @@
 layout: post
 title:  "Elements Of Trance – A Taste Of Your Own Medicine (Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, トランス ]
 image: ../assets/images/Elements Of Trance – A Taste Of Your Own Medicine (Remixes).jpg
 rating: 4.5

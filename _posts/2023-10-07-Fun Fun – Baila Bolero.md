@@ -2,7 +2,7 @@
 layout: post
 title:  "Fun Fun – Baila Bolero"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ディスコ ]
 image: ../assets/images/Fun Fun – Baila Bolero.jpg
 rating: 3.5

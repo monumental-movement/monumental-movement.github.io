@@ -2,7 +2,7 @@
 layout: post
 title:  "Gigolo – I Wanna Tell You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Gigolo – I Wanna Tell You.jpg
 rating: 3.5

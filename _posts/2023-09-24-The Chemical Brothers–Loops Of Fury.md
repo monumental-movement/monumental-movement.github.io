@@ -2,7 +2,7 @@
 layout: post
 title:  "The Chemical Brothers–Loops Of Fury"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/The Chemical Brothers–Loops Of Fury.jpg
 rating: 4.5

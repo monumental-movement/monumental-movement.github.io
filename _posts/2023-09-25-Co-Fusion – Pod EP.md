@@ -2,7 +2,7 @@
 layout: post
 title:  "Co-Fusion – Pod EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ジャパニーズテクノ ]
 image: ../assets/images/Co-Fusion – Pod EP.jpg
 rating: 4.5

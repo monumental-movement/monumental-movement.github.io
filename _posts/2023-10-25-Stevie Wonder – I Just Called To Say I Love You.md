@@ -2,7 +2,7 @@
 layout: post
 title:  "Stevie Wonder – I Just Called To Say I Love You"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ソウル, ファンク, 7インチ ]
 image: ../assets/images/Stevie Wonder – I Just Called To Say I Love You.jpg
 rating: 3.5

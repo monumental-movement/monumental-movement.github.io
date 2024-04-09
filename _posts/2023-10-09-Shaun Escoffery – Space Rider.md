@@ -2,7 +2,7 @@
 layout: post
 title:  "Shaun Escoffery – Space Rider"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ガラージハウス ]
 image: ../assets/images/Shaun Escoffery – Space Rider.jpg
 rating: 3.5

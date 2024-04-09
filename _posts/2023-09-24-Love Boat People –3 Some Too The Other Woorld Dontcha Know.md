@@ -2,7 +2,7 @@
 layout: post
 title:  "Love Boat People –3 Some Too The Other Woorld Dontcha Know"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディスコ ]
 image: ../assets/images/Love Boat People –3 Some Too The Other Woorld Dontcha Know.jpg
 rating: 4.5

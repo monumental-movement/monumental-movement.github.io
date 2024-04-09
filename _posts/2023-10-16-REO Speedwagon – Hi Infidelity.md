@@ -2,7 +2,7 @@
 layout: post
 title:  "REO Speedwagon – Hi Infidelity"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハードトランス ]
 image: ../assets/images/REO Speedwagon – Hi Infidelity.jpg
 rating: 3.5

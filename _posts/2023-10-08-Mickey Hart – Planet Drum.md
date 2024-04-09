@@ -2,7 +2,7 @@
 layout: post
 title:  "Mickey Hart – Planet Drum"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ トライバル, アンビエント ]
 image: ../assets/images/Mickey Hart – Planet Drum.jpg
 rating: 4.5

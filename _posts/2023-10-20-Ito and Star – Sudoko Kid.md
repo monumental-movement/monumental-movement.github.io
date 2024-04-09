@@ -2,7 +2,7 @@
 layout: post
 title:  "Ito & Star – Sudoko Kid"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/Ito and Star – Sudoko Kid.jpg
 rating: 3.5

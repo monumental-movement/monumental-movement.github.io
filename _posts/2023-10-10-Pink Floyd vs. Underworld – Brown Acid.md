@@ -2,7 +2,7 @@
 layout: post
 title:  "Pink Floyd vs. Underworld – Brown Acid"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, マッシュアップ ]
 image: ../assets/images/Pink Floyd vs. Underworld – Brown Acid.jpg
 rating: 4.5

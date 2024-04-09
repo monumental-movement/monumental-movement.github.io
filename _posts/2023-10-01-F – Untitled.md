@@ -2,7 +2,7 @@
 layout: post
 title:  "F – Untitled"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, レア ]
 image: ../assets/images/F – Untitled.jpg
 rating: 4.5

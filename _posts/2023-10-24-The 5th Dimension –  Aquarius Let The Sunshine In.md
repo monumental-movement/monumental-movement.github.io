@@ -2,7 +2,7 @@
 layout: post
 title:  "The 5th Dimension –  Aquarius Let The Sunshine In"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ソウル, サイケデリック, 7インチ ]
 image: ../assets/images/The 5th Dimension –  Aquarius Let The Sunshine In.jpg
 rating: 4.5

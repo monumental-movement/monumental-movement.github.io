@@ -2,7 +2,7 @@
 layout: post
 title:  "Mille and Mr. Hirsch – Jazzhatz"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Motiv One – Cosmik  Loop Progression"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース ]
 image: ../assets/images/Motiv One – Cosmik  Loop Progression.jpg
 rating: 4.5

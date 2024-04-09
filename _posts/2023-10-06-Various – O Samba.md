@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – O Samba"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ サンバ, ラテン ]
 image: ../assets/images/Various – O Samba.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Suicidal Tendencies – Lights...Camera...Revolution"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ハードコア, パンク ]
 image: ../assets/images/Suicidal Tendencies – Lights...Camera...Revolution.jpg
 rating: 4.5

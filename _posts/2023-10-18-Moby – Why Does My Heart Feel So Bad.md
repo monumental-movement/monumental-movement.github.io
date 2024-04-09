@@ -2,7 +2,7 @@
 layout: post
 title:  "Moby – Why Does My Heart Feel So Bad"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, リミックス ]
 image: ../assets/images/Moby – Why Does My Heart Feel So Bad.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Michael Saxell – Red And Blue"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, ポップス ]
 image: ../assets/images/Michael Saxell – Red And Blue.jpg
 rating: 3.5

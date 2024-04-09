@@ -2,7 +2,7 @@
 layout: post
 title:  "Lab4 – None Of Us Are Saints"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハードトランス ]
 image: ../assets/images/Lab4 – None Of Us Are Saints.jpg
 rating: 3.5

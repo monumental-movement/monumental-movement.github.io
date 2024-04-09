@@ -2,7 +2,7 @@
 layout: post
 title:  "Craig Alexander - The Exhibit A EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス ]
 image: ../assets/images/Craig Alexander - The Exhibit A EP.jpg
 rating: 4.5

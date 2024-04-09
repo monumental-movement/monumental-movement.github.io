@@ -2,7 +2,7 @@
 layout: post
 title:  "Octave One – Blackwater"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, リミックス ]
 image: ../assets/images/Octave One – Blackwater.jpg
 rating: 4.5

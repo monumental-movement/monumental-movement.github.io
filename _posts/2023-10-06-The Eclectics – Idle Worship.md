@@ -2,7 +2,7 @@
 layout: post
 title:  "The Eclectics – Idle Worship"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ スカ, パンク ]
 image: ../assets/images/The Eclectics – Idle Worship.jpg
 rating: 4.5

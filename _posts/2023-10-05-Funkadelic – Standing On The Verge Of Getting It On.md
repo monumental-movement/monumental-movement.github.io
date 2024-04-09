@@ -2,7 +2,7 @@
 layout: post
 title:  "Funkadelic – Standing On The Verge Of Getting It On"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ファンク, ソウル ]
 image: ../assets/images/Funkadelic – Standing On The Verge Of Getting It On.jpg
 rating: 4.5

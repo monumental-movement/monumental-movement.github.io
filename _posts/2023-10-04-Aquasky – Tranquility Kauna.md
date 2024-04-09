@@ -2,7 +2,7 @@
 layout: post
 title:  "Aquasky – Tranquility Kauna"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース, アシッド ]
 image: ../assets/images/Aquasky – Tranquility Kauna.jpg
 rating: 4.5

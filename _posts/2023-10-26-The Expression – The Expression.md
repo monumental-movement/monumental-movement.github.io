@@ -2,7 +2,7 @@
 layout: post
 title:  "The Expression – The Expression"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニューウェーブ, ロック ]
 image: ../assets/images/The Expression – The Expression.jpg
 rating: 3.5

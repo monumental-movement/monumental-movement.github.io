@@ -2,7 +2,7 @@
 layout: post
 title:  "Workidz – Work It"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, テックハウス ]
 image: ../assets/images/Workidz – Work It.jpg
 rating: 3.5

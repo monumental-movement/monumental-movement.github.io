@@ -2,7 +2,7 @@
 layout: post
 title:  "Circuit Boy Feat. Alan T. – The Door"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/Circuit Boy Feat. Alan T. – The Door.jpg
 rating: 3.5

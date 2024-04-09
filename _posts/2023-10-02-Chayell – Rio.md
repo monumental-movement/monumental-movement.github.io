@@ -2,7 +2,7 @@
 layout: post
 title:  "Chayell – Rio"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ニュービート ]
 image: ../assets/images/Chayell – Rio.jpg
 rating: 3.5

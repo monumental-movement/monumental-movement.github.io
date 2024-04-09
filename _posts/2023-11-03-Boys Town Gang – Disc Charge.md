@@ -2,7 +2,7 @@
 layout: post
 title:  "Boys Town Gang – Disc Charge"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ディスコ, ハイエナジー ]
 image: ../assets/images/Boys Town Gang – Disc Charge.jpg
 rating: 3.5

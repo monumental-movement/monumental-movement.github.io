@@ -2,7 +2,7 @@
 layout: post
 title:  "Flare – Nettin Pure 2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, テックハウス ]
 image: ../assets/images/Flare – Nettin Pure 2.jpg
 rating: 3.5

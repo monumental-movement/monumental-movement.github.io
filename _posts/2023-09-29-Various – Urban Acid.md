@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Urban Acid"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, アシッド, ハウス ]
 image: ../assets/images/Various – Urban Acid.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "So-Low – The Hourglass Pulse"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, プログレッシブ, レア ]
 image: ../assets/images/So-Low – The Hourglass Pulse.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Para One – Midnight Swim"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, エレクトロ, フレンチエレクトロ ]
 image: ../assets/images/Para One – Midnight Swim.jpg
 rating: 4.5

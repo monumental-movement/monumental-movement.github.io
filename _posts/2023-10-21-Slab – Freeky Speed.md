@@ -2,7 +2,7 @@
 layout: post
 title:  "Slab – Freeky Speed"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ビッグビート, ブレイクビーツ ]
 image: ../assets/images/Slab – Freeky Speed.jpg
 rating: 3.5

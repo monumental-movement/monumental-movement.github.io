@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – The Great Fighting II"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ 実況放送, プロレス ]
 image: ../assets/images/Various – The Great Fighting II.jpg
 rating: 3.5

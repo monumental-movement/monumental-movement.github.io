@@ -2,7 +2,7 @@
 layout: post
 title:  "Faithless – Why Go"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ハウス ]
 image: ../assets/images/Faithless – Why Go.jpg
 rating: 4.5

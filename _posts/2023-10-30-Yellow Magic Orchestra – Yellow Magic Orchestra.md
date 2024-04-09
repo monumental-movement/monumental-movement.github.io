@@ -2,7 +2,7 @@
 layout: post
 title:  "Yellow Magic Orchestra – Yellow Magic Orchestra"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, シンセポップ, テクノ ]
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra.jpg
 rating: 4.5

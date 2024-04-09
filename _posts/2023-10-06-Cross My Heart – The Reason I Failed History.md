@@ -2,7 +2,7 @@
 layout: post
 title:  "Cross My Heart – The Reason I Failed History"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, エモ ]
 image: ../assets/images/Cross My Heart – The Reason I Failed History.jpg
 rating: 4.5

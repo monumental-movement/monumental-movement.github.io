@@ -2,7 +2,7 @@
 layout: post
 title:  "Led Zeppelin – Led Zeppelin II"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ロック, ハードロック ]
 image: ../assets/images/Led Zeppelin – Led Zeppelin II.jpg
 rating: 4.5

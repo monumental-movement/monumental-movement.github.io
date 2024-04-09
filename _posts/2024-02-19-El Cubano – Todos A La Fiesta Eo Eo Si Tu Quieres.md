@@ -2,7 +2,7 @@
 layout: post
 title:  "El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロ, ハウス ]
 image: ../assets/images/El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres.jpg
 rating: 4.5

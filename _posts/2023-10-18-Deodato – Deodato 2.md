@@ -2,7 +2,7 @@
 layout: post
 title:  "Deodato – Deodato 2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ファンク ]
 image: ../assets/images/Deodato – Deodato 2.jpg
 rating: 3.5

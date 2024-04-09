@@ -2,7 +2,7 @@
 layout: post
 title:  "山口百恵 – プレイバックPart2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, 懐メロ, 7インチ ]
 image: ../assets/images/山口百恵 – プレイバックPart2.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Isolated Audio Players EP2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, IDM, レフトフィールド ]
 image: ../assets/images/Various – Isolated Audio Players EP2.jpg
 rating: 4.5

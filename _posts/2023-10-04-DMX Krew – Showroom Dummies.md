@@ -2,7 +2,7 @@
 layout: post
 title:  "DMX Krew – Showroom Dummies"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, テクノ ]
 image: ../assets/images/DMX Krew – Showroom Dummies.jpg
 rating: 3.5

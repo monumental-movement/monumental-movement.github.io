@@ -2,7 +2,7 @@
 layout: post
 title:  "Black 4 White – So I Love You Baby"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ イタロ, ユーロハウス ]
 image: ../assets/images/Black 4 White – So I Love You Baby.jpg
 rating: 4.5

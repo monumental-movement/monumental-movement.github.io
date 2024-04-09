@@ -2,7 +2,7 @@
 layout: post
 title:  "Jeff Mills – Circus"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ, トライバル ]
 image: ../assets/images/Jeff Mills – Circus.jpg
 rating: 4.5

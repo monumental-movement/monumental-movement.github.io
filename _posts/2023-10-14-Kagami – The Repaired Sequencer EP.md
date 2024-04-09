@@ -2,7 +2,7 @@
 layout: post
 title:  "Kagami – The Repaired Sequencer EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ディスコ ]
 image: ../assets/images/Kagami – The Repaired Sequencer EP.jpg
 rating: 3.5

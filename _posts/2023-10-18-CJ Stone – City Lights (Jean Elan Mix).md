@@ -2,7 +2,7 @@
 layout: post
 title:  "CJ Stone – City Lights (Jean Elan Mix)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, リミックス ]
 image: ../assets/images/CJ Stone – City Lights (Jean Elan Mix).jpg
 rating: 3.5

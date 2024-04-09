@@ -2,7 +2,7 @@
 layout: post
 title:  "Noisia – Yellow Brick Raar"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ブレイク, エレクトロ ]
 image: ../assets/images/Noisia – Yellow Brick Raar.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "岩崎良美 – タッチ"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Jポップ, 懐メロ, アニメ主題歌, 7インチ ]
 image: ../assets/images/Yoshimi Iwasaki - Touch.jpg
 rating: 3.5

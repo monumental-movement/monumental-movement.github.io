@@ -2,7 +2,7 @@
 layout: post
 title:  "Distek and Zoid and Rhythm Technologies – The Winter Warmer EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ ]
 image: ../assets/images/Distek and Zoid and Rhythm Technologies – The Winter Warmer EP.jpg
 rating: 4.5

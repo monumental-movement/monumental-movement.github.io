@@ -2,7 +2,7 @@
 layout: post
 title:  "Murcof – Ulysses"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アンビエント, ミニマル ]
 image: ../assets/images/Murcof – Ulysses.jpg
 rating: 4.5

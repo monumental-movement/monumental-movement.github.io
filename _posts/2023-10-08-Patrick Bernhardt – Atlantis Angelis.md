@@ -2,7 +2,7 @@
 layout: post
 title:  "Patrick Bernhardt – Atlantis Angelis"
 author: mmr
-categories: [ カセット ]
+categories: [ Cassette ]
 tags: [ ニューエイジ, アンビエント ]
 image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.jpg
 rating: 4.5

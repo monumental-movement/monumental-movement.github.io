@@ -2,7 +2,7 @@
 layout: post
 title:  "Ellie – Bitches In Babylon Let Me Be Me"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ アブストラクト, ダウンテンポ ]
 image: ../assets/images/Ellie – Bitches In Babylon Let Me Be Me.jpg
 rating: 4.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Archae and Grovskopa – Emergent Properties"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, インダストリアル ]
 image: ../assets/images/Archae and Grovskopa – Emergent Properties.jpg
 rating: 3.5

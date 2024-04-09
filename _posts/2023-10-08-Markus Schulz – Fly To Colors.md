@@ -2,7 +2,7 @@
 layout: post
 title:  "Markus Schulz – Fly To Colors"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Markus Schulz – Fly To Colors.jpg
 rating: 4.5

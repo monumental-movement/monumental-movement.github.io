@@ -2,7 +2,7 @@
 layout: post
 title:  "Space Circus – Funky Caravan"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ロック, プログレッシブ, フュージョン ]
 image: ../assets/images/Space Circus – Funky Caravan.jpg
 rating: 4.5

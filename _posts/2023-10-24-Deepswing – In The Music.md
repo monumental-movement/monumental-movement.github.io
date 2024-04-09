@@ -2,7 +2,7 @@
 layout: post
 title:  "Deepswing – In The Music"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス ]
 image: ../assets/images/Deepswing – In The Music.jpg
 rating: 3.5

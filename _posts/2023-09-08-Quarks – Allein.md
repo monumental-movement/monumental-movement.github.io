@@ -2,7 +2,7 @@
 layout: post
 title:  "Quarks – Allein"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, テックハウス, ハウス ]
 image: ../assets/images/quarks-allein.jpg
 rating: 4.5

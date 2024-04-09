@@ -2,7 +2,7 @@
 layout: post
 title:  "Herb Alpert – Route 101"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, 80s, 7インチ ]
 image: ../assets/images/Herb Alpert – Route 101.jpg
 rating: 3.5

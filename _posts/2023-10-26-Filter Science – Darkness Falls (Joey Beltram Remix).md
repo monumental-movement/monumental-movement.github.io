@@ -2,7 +2,7 @@
 layout: post
 title:  "Filter Science – Darkness Falls (Joey Beltram Remix)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ハードハウス ]
 image: ../assets/images/Filter Science – Darkness Falls (Joey Beltram Remix).jpg
 rating: 3.5

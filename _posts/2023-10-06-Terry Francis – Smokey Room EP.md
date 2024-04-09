@@ -2,7 +2,7 @@
 layout: post
 title:  "Terry Francis – Smokey Room EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, テックハウス ]
 image: ../assets/images/Terry Francis – Smokey Room EP.jpg
 rating: 3.5

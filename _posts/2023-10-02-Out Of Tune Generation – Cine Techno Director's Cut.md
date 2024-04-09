@@ -2,7 +2,7 @@
 layout: post
 title:  "Out Of Tune Generation – Cine Techno Director's Cut"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ハウス ]
 image: ../assets/images/Out Of Tune Generation – Cine Techno Director's Cut.jpg
 rating: 3.5

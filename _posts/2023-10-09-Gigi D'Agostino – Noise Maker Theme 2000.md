@@ -2,7 +2,7 @@
 layout: post
 title:  "Gigi D'Agostino – Noise Maker Theme 2000"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Gigi D'Agostino – Noise Maker Theme 2000.jpg
 rating: 3.5

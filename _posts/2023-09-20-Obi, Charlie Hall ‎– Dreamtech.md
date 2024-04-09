@@ -2,7 +2,7 @@
 layout: post
 title:  "Obi, Charlie Hall – Dreamtech"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ディープハウス, トライバル ]
 image: ../assets/images/Obi, Charlie Hall – Dreamtech.jpg
 rating: 4.5

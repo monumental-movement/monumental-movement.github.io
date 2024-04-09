@@ -2,7 +2,7 @@
 layout: post
 title:  "Oriental Space – Magical Express"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス ]
 image: ../assets/images/Oriental Space – Magical Express.jpg
 rating: 3.5

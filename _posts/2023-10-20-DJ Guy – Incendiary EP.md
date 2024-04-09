@@ -2,7 +2,7 @@
 layout: post
 title:  "DJ Guy – Incendiary EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, ゲットーハウス ]
 image: ../assets/images/DJ Guy – Incendiary EP.jpg
 rating: 3.5

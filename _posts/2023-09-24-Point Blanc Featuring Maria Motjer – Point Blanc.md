@@ -2,7 +2,7 @@
 layout: post
 title:  "Point Blanc Featuring Maria Motjér – Point Blanc"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, ファンク, 10インチ ]
 image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.jpg
 rating: 4.5

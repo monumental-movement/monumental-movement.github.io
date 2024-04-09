@@ -2,7 +2,7 @@
 layout: post
 title:  "Johannes Heil – Paranoid Dancer"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマルエレクトロ ]
 image: ../assets/images/Johannes Heil – Paranoid Dancer.jpg
 rating: 3.5

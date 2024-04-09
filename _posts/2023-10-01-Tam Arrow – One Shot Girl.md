@@ -2,7 +2,7 @@
 layout: post
 title:  "Tam Arrow – One Shot Girl"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ユーロビート, ハイエナジー ]
 image: ../assets/images/Tam Arrow – One Shot Girl.jpg
 rating: 4.5

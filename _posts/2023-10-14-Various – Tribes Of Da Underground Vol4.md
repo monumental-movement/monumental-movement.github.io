@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Tribes Of Da Underground Vol4"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ブレイクビーツ, ダウンテンポ ]
 image: ../assets/images/Various – Tribes Of Da Underground Vol4.jpg
 rating: 3.5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Modjo – Chillin'"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, フレンチハウス ]
 image: ../assets/images/Modjo – Chillin'.jpg
 rating: 4.5

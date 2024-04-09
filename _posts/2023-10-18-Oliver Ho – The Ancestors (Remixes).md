@@ -2,7 +2,7 @@
 layout: post
 title:  "Oliver Ho – The Ancestors (Remixes)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ミニマル ]
 image: ../assets/images/Oliver Ho – The Ancestors (Remixes).jpg
 rating: 4.5

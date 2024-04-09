@@ -2,7 +2,7 @@
 layout: post
 title:  "Lukie D Determine – Between The Sheets"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ レゲエ, レア, 7インチ ]
 image: ../assets/images/Lukie D Determine – Between The Sheets.jpg
 rating: 4.5

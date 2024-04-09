@@ -2,7 +2,7 @@
 layout: post
 title:  "The Gang – Barricada Rumble Beat"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ パンク, ハードコア ]
 image: ../assets/images/The Gang – Barricada Rumble Beat.jpg
 rating: 4.5

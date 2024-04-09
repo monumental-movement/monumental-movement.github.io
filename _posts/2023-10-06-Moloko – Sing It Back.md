@@ -2,7 +2,7 @@
 layout: post
 title:  "Moloko – Sing It Back"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ハウス, ガラージハウス ]
 image: ../assets/images/Moloko – Sing It Back.jpg
 rating: 4.5

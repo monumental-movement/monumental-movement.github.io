@@ -2,7 +2,7 @@
 layout: post
 title:  "Aquasky – Nylon Roadster  Cosmic Glue"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ドラムンベース, ダブステップ ]
 image: ../assets/images/Aquasky – Nylon Roadster Cosmic Glue.jpg
 rating: 3.5

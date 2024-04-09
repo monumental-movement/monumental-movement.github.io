@@ -2,7 +2,7 @@
 layout: post
 title:  "Odds – Odds E.P"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, ゴアトランス ]
 image: ../assets/images/Odds – Odds E.P.jpg
 rating: 3.5

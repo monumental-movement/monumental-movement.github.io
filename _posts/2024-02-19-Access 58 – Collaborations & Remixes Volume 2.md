@@ -2,7 +2,7 @@
 layout: post
 title:  "Access 58 – Collaborations & Remixes Volume 2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, テックハウス, 00s ]
 image: ../assets/images/Access 58 – Collaborations & Remixes Volume 2.jpg
 rating: 4.5

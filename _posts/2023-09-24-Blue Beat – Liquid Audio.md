@@ -2,7 +2,7 @@
 layout: post
 title:  "Blue Beat – Liquid Audio"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ トランス, プログレッシブ ]
 image: ../assets/images/Blue Beat – Liquid Audio.jpg
 rating: 4.5

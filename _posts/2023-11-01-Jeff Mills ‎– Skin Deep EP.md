@@ -2,7 +2,7 @@
 layout: post
 title:  "Jeff Mills – Skin Deep EP"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, デトロイトテクノ ]
 image: ../assets/images/Jeff Mills – Skin Deep EP.jpg
 rating: 4.5

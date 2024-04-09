@@ -2,7 +2,7 @@
 layout: post
 title:  "Boris Dlugosch – Bionic Breaks"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ エレクトロ, ヒップホップ ]
 image: ../assets/images/Boris Dlugosch – Bionic Breaks.jpg
 rating: 3.5

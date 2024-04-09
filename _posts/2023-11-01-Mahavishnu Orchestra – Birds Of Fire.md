@@ -2,7 +2,7 @@
 layout: post
 title:  "Mahavishnu Orchestra – Birds Of Fire"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ フュージョン, ジャズ, ロック ]
 image: ../assets/images/Mahavishnu Orchestra – Birds Of Fire.jpg
 rating: 3.5

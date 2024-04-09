@@ -2,7 +2,7 @@
 layout: post
 title:  "S Moore Featuring M.C. ROKK – Touch Me (II Time)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, イタロ ]
 image: ../assets/images/S Moore Featuring M.C. ROKK – Touch Me (II Time).jpg
 rating: 3.5

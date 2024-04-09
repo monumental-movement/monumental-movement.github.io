@@ -2,7 +2,7 @@
 layout: post
 title:  "Johannes Heil – Leagues Under The Skin"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ テクノ, ジャーマンテクノ ]
 image: ../assets/images/Johannes Heil – Leagues Under The Skin.jpg
 rating: 4.5

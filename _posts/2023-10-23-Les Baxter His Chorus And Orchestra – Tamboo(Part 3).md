@@ -2,7 +2,7 @@
 layout: post
 title:  "Les Baxter His Chorus And Orchestra – Tamboo(Part 3)"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ ジャズ, スペースエイジ, 7インチ ]
 image: ../assets/images/Les Baxter, His Chorus And Orchestra – Tamboo(Part 3).jpg
 rating: 4.5
