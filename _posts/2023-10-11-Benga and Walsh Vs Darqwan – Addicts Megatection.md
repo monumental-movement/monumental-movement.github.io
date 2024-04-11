@@ -3,7 +3,7 @@ layout: post
 title:  "Benga and Walsh Vs Darqwan – Addicts Megatection"
 author: mmr
 categories: [ Vinyl ]
-, tags: [ Dubstep, UK Dubstep ]
+tags: [ Dubstep, UK Dubstep ]
 image: ../assets/images/Benga and Walsh Vs Darqwan – Addicts Megatection.jpg
 rating: 3.5
 v-rating: VG
