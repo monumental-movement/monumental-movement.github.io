@@ -3,7 +3,7 @@ layout: post
 title:  "Diephuis – Inside Me"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, アフリカン, ディープハウス ]
+tags: [ House, African, Deep House ]
 image: ../assets/images/Diephuis – Inside Me.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Smallage – Together"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ディスコ, ハウス ]
+tags: [ Italo, Disco, House ]
 image: ../assets/images/Smallage – Together.jpg
 rating: 3.5
 v-rating: VG

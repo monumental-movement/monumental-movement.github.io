@@ -3,7 +3,7 @@ layout: post
 title:  "Quadrophonia – The Wave Of The Future"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ブレイクビート, ハードテクノ ]
+tags: [ Techno, Break Beat, Hard Techno ]
 image: ../assets/images/Quadrophonia – The Wave Of The Future.jpg
 rating: 4.5
 v-rating: VG

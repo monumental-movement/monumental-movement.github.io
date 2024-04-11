@@ -3,7 +3,7 @@ layout: post
 title:  "Love And Rockets – Love And Rockets"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ゴス ]
+tags: [ Rock, Goth ]
 image: ../assets/images/Love And Rockets – Love And Rockets.jpg
 rating: 4.5
 v-rating: VG

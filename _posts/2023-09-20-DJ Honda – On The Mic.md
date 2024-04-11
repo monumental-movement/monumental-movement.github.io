@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Honda – On The Mic"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ラップ ]
+tags: [ Hiphop, Rap ]
 image: ../assets/images/DJ Honda – On The Mic.jpg
 rating: 4.5
 v-rating: VG

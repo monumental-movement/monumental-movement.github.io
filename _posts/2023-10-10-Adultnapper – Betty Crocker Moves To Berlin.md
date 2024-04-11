@@ -3,7 +3,7 @@ layout: post
 title:  "Adultnapper – Betty Crocker Moves To Berlin"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル, エレクトロ ]
+tags: [ Techno, Minimal, Electro ]
 image: ../assets/images/Adultnapper – Betty Crocker Moves To Berlin.jpg
 rating: 4.5
 v-rating: VG

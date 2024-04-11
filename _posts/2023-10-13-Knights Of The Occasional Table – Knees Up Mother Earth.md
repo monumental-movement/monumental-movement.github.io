@@ -3,7 +3,7 @@ layout: post
 title:  "Knights Of The Occasional Table – Knees Up Mother Earth"
 author: mmr
 categories: [ CD ]
-tags: [ ダウンテンポ, UKバンド ]
+tags: [ Downtempo, UK Band ]
 image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Earth.jpg
 rating: 3.5
 v-rating: VG

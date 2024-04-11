@@ -3,7 +3,7 @@ layout: post
 title:  "Christine 23 Onna – Shiny Crystal Planet"
 author: mmr
 categories: [ CD ]
-tags: [ サイケデリック, ノイズ ]
+tags: [ Psychedelic, Noise ]
 image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.jpg
 rating: 4.5
 v-rating: VG

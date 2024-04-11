@@ -3,7 +3,7 @@ layout: post
 title:  "Sandi & Matues – The World Pt. 1"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ファンク, 7インチ ]
+tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/Sandi and Matues – The World Pt. 1.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Hiroshima  –  Go"
 author: mmr
 categories: [ Cassette ]
-tags: [ ジャズ, モダンジャズ ]
+tags: [ Jazz, Modern Jazz ]
 image: ../assets/images/Hiroshima  –  Go.jpg
 rating: 4.5
 v-rating: VG

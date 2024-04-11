@@ -3,7 +3,7 @@ layout: post
 title:  "Hertz – Look Back To See The Future EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, テックハウス ]
+tags: [ Techno, Tech House ]
 image: ../assets/images/Hertz – Look Back To See The Future EP.jpg
 rating: 4.5
 v-rating: VG

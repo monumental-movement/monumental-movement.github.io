@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Class X Two"
 author: mmr
 categories: [ Vinyl ]
-tags: [ シンセポップ, エレクトロ, ドナサマー ]
+tags: [ Synth-Pop, Electro ]
 image: ../assets/images/Various – Class X Two.jpg
 rating: 4.5
 v-rating: VG

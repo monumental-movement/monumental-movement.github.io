@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Superstar"
 author: mmr
 categories: [ Vinyl ]
-tags: [ レゲエ, ダンスホール ]
+tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Superstar.jpg
 rating: 3.5
 v-rating: VG

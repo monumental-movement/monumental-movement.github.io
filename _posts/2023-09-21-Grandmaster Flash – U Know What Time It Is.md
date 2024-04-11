@@ -3,7 +3,7 @@ layout: post
 title:  "Grandmaster Flash – U Know What Time It Is"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ブレイクビーツ ]
+tags: [ Hiphop, Break Beat ]
 image: ../assets/images/Grandmaster Flash – U Know What Time It Is.jpg
 rating: 4.5
 v-rating: VG

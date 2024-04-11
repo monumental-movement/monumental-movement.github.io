@@ -3,7 +3,7 @@ layout: post
 title:  "ACDC – For Those About To Rock We Salute You"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/ACDC – For Those About To Rock We Salute You.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Foo Fighters – Confessions"
 author: mmr
 categories: [ Vinyl ]
-tags: [ リミックス, レア ]
+tags: [ Remix, Rare ]
 image: ../assets/images/Foo Fighters – Confessions.jpg
 rating: 4.5
 v-rating: VG

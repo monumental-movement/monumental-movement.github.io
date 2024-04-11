@@ -3,7 +3,7 @@ layout: post
 title:  "Deep Side – What I Need"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ ]
+tags: [ Hiphop ]
 image: ../assets/images/Deep Side – What I Need.jpg
 rating: 3.5
 v-rating: VG

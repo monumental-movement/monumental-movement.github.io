@@ -3,7 +3,7 @@ layout: post
 title:  "Björk – Medúlla"
 author: mmr
 categories: [ CD ]
-tags: [ エクスペリメンタル, 実験音楽 ]
+tags: [ Experimental ]
 image: ../assets/images/Björk – Medúlla.jpg
 rating: 4.5
 v-rating: VG

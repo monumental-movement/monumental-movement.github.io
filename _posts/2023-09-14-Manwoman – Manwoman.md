@@ -3,7 +3,7 @@ layout: post
 title:  "Manwoman – Manwoman"
 author: mmr
 categories: [ Vinyl ]
-tags: [ パンク, ジャパニーズパンク, 10インチ ]
+tags: [ Punk, Japanese Punk, 10inch ]
 image: ../assets/images/Manwoman – Manwoman.jpg
 rating: 4.5
 v-rating: VG

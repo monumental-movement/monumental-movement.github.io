@@ -3,7 +3,7 @@ layout: post
 title:  "Hiroyuki Oda – Rise Cataract"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, 00s ]
+tags: [ Trance, 00s ]
 image: ../assets/images/Hiroyuki Oda – Rise Cataract.jpg
 rating: 3.5
 v-rating: VG

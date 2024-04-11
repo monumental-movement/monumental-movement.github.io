@@ -3,7 +3,7 @@ layout: post
 title:  "Evelyn Thomas – Summer On The Beach"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ファンク, ハイエナジー ]
+tags: [ Soul, Funk, Hi NRG ]
 image: ../assets/images/Evelyn Thomas – Summer On The Beach.jpg
 rating: 4.5
 v-rating: VG

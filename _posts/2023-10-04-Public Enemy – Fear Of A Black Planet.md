@@ -3,7 +3,7 @@ layout: post
 title:  "Public Enemy – Fear Of A Black Planet"
 author: mmr
 categories: [ Cassette ]
-tags: [ ヒップホップ, クラシック ]
+tags: [ Hiphop, Classic ]
 image: ../assets/images/Public Enemy – Fear Of A Black Planet.jpg
 rating: 4.5
 v-rating: VG

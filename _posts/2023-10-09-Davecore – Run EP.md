@@ -3,7 +3,7 @@ layout: post
 title:  "Davecore – Run! EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロ, ブレイク ]
+tags: [ Electro, Breaks ]
 image: ../assets/images/Davecore – Run! EP.jpg
 rating: 3.5
 v-rating: VG

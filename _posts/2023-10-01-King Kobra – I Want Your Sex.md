@@ -3,7 +3,7 @@ layout: post
 title:  "King Kobra – I Want Your Sex"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート ]
+tags: [ Euro Beat ]
 image: ../assets/images/King Kobra – I Want Your Sex.jpg
 rating: 3.5
 v-rating: VG

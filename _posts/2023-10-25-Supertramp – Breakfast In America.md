@@ -3,7 +3,7 @@ layout: post
 title:  "Supertramp – Breakfast In America"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, プログレ, 7インチ ]
+tags: [ Rock, Progressive, 7inch ]
 image: ../assets/images/Supertramp – Breakfast In America.jpg
 rating: 3.5
 v-rating: VG

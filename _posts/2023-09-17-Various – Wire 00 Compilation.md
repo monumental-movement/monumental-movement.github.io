@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Wire 00 Compilation"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, コンピレーション, 電気グルーヴ ]
+tags: [ Techno, Compilation ]
 image: ../assets/images/Various – Wire 00 Compilation.jpg
 rating: 4.5
 v-rating: VG

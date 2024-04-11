@@ -3,7 +3,7 @@ layout: post
 title:  "MC Gringo – Gringão"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, バイレファン ]
+tags: [ Hiphop, Favela Funk ]
 image: ../assets/images/MC Gringo – Gringao.jpg
 rating: 3.5
 v-rating: VG

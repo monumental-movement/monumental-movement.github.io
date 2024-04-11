@@ -3,7 +3,7 @@ layout: post
 title:  "Weirdo – Normalisation"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハードトランス, トランス, 00s ]
+tags: [ Hard Trance, Trance, 00s ]
 image: ../assets/images/Weirdo – Normalisation.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Kalim Shabazz – Peak Bomb"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ミニマル ]
+tags: [ House, Minimal ]
 image: ../assets/images/Kalim Shabazz – Peak Bomb.jpg
 rating: 4.5
 v-rating: VG

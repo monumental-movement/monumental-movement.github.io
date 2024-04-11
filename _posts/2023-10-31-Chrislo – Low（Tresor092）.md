@@ -3,7 +3,7 @@ layout: post
 title:  "Chrislo – Low（Tresor092）"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, ミックス ]
+tags: [ Techno, Mix ]
 image: ../assets/images/Chrislo – Low（Tresor092）.jpg
 rating: 4.5
 v-rating: VG

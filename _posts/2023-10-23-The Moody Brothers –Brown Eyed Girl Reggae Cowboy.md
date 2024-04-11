@@ -3,7 +3,7 @@ layout: post
 title:  "The Moody Brothers –Brown Eyed Girl Reggae Cowboy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ カントリー, ブルーグラス, 7インチ ]
+tags: [ Country, Folk, 7inch ]
 image: ../assets/images/The Moody Brothers –Brown Eyed Girl Reggae Cowboy.jpg
 rating: 3.5
 v-rating: VG

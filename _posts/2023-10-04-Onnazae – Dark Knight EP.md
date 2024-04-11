@@ -3,7 +3,7 @@ layout: post
 title:  "Onnazae – Dark Knight EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ダウンテンポ, トリップホップ ]
+tags: [ Downtempo, Triphop ]
 image: ../assets/images/Onnazae – Dark Knight EP.jpg
 rating: 4.5
 v-rating: VG

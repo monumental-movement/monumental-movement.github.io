@@ -3,7 +3,7 @@ layout: post
 title:  "Archae and Grovskopa – Emergent Properties"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, インダストリアル ]
+tags: [ Techno, Industrial ]
 image: ../assets/images/Archae and Grovskopa – Emergent Properties.jpg
 rating: 3.5
 v-rating: VG

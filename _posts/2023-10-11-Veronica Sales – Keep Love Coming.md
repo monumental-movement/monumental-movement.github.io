@@ -3,7 +3,7 @@ layout: post
 title:  "Veronica Sales – Keep Love Coming"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート ]
+tags: [ Euro Beat ]
 image: ../assets/images/Veronica Sales – Keep Love Coming.jpg
 rating: 3.5
 v-rating: VG

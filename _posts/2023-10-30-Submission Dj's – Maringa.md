@@ -3,7 +3,7 @@ layout: post
 title:  "Submission Dj's – Maringa"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, トライバル ]
+tags: [ House, Tribal ]
 image: ../assets/images/Submission Dj's – Maringa.jpg
 rating: 3.5
 v-rating: VG

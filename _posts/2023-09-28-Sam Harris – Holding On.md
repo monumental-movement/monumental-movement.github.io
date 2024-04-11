@@ -3,7 +3,7 @@ layout: post
 title:  "Sam Harris – Holding On"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, リミックス ]
+tags: [ House, Remix ]
 image: ../assets/images/Sam Harris – Holding On.jpg
 rating: 3.5
 v-rating: VG

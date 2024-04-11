@@ -3,7 +3,7 @@ layout: post
 title:  "Psychotropic – Only For The Headstrong"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, ハウス ]
+tags: [ Break Beat, House ]
 image: ../assets/images/Psychotropic – Only For The Headstrong.jpg
 rating: 4.5
 v-rating: VG

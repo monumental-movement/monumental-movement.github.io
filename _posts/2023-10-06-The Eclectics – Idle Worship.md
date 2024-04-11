@@ -3,7 +3,7 @@ layout: post
 title:  "The Eclectics – Idle Worship"
 author: mmr
 categories: [ Vinyl ]
-tags: [ スカ, パンク ]
+tags: [ Ska, Punk ]
 image: ../assets/images/The Eclectics – Idle Worship.jpg
 rating: 4.5
 v-rating: VG

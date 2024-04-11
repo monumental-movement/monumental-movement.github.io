@@ -3,7 +3,7 @@ layout: post
 title:  "Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テクノ ]
+tags: [ House, Techno ]
 image: ../assets/images/Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own).jpg
 rating: 4.5
 v-rating: VG

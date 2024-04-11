@@ -3,7 +3,7 @@ layout: post
 title:  "Anton Pieete – Players"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Anton Pieete – Players.jpg
 rating: 3.5
 v-rating: VG

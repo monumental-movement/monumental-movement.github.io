@@ -3,7 +3,7 @@ layout: post
 title:  "Carbine – House Your Booty Funky Old Cortina"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド ]
+tags: [ Techno, Acid ]
 image: ../assets/images/Carbine – House Your Booty Funky Old Cortina.jpg
 rating: 4.5
 v-rating: VG

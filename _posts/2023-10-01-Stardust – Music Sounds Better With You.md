@@ -3,7 +3,7 @@ layout: post
 title:  "Stardust – Music Sounds Better With You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, フレンチハウス ]
+tags: [ House, French House ]
 image: ../assets/images/Stardust – Music Sounds Better With You.jpg
 rating: 4.5
 v-rating: VG

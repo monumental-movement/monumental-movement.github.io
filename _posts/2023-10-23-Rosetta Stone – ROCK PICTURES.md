@@ -3,7 +3,7 @@ layout: post
 title:  "Rosetta Stone – ROCK PICTURES"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/Rosetta Stone – ROCK PICTURES.jpg
 rating: 3.5
 v-rating: VG

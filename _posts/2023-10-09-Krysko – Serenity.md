@@ -3,7 +3,7 @@ layout: post
 title:  "Krysko – Serenity"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース, レア ]
+tags: [ Drum n Bass, Rare ]
 image: ../assets/images/Krysko – Serenity.jpg
 rating: 3.5
 v-rating: VG

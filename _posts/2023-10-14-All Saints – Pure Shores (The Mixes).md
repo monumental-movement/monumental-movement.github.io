@@ -3,7 +3,7 @@ layout: post
 title:  "All Saints – Pure Shores (The Mixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ポップス ]
+tags: [ House, Pops ]
 image: ../assets/images/All Saints – Pure Shores (The Mixes).jpg
 rating: 3.5
 v-rating: VG

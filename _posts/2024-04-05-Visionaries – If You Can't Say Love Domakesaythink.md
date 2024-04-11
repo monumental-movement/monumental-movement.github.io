@@ -3,7 +3,7 @@ layout: post
 title:  "Visionaries – If You Can't Say Love Domakesaythink"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ラップ, 00s ]
+tags: [ Hiphop, Rap, 00s ]
 image: ../assets/images/Visionaries – If You Can't Say Love Domakesaythink.jpg
 rating: 4.5
 v-rating: VG

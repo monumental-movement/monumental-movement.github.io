@@ -3,7 +3,7 @@ layout: post
 title:  "April Wine – The Nature Of The Beast"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/April Wine – The Nature Of The Beast.jpg
 rating: 4.5
 v-rating: VG

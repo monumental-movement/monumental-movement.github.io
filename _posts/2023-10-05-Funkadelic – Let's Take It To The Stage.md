@@ -3,7 +3,7 @@ layout: post
 title:  "Funkadelic – Let's Take It To The Stage"
 author: mmr
 categories: [ Cassette ]
-tags: [ ファンク, ソウル ]
+tags: [ Funk, Soul ]
 image: ../assets/images/Funkadelic – Let's Take It To The Stage.jpg
 rating: 4.5
 v-rating: VG

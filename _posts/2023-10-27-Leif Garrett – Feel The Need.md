@@ -3,7 +3,7 @@ layout: post
 title:  "Leif Garrett – Feel The Need"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ディスコ, 70s, 7インチ ]
+tags: [ Disco, 70s, 7inch ]
 image: ../assets/images/Leif Garrett – Feel The Need.jpg
 rating: 3.5
 v-rating: VG

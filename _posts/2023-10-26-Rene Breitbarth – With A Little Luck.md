@@ -3,7 +3,7 @@ layout: post
 title:  "Rene Breitbarth – With A Little Luck"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ミニマル, テックハウス ]
+tags: [ House, Minimal, Tech House ]
 image: ../assets/images/Rene Breitbarth – With A Little Luck.jpg
 rating: 3.5
 v-rating: VG

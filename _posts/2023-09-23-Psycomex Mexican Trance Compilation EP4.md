@@ -3,7 +3,7 @@ layout: post
 title:  "Psycomex Mexican Trance Compilation EP4"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, サイケデリック ]
+tags: [ Trance, Psychedelic ]
 image: ../assets/images/Psycomex Mexican Trance Compilation EP4.jpg
 rating: 4.5
 v-rating: VG

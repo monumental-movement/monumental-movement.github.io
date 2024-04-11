@@ -3,7 +3,7 @@ layout: post
 title:  "Jeff Mills – Very EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, デトロイトテクノ, トライバル ]
+tags: [ Techno, Detroit Techno, Tribal ]
 image: ../assets/images/Jeff Mills – Very EP.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Chayell – Rio"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニュービート ]
+tags: [ New Beat ]
 image: ../assets/images/Chayell – Rio.jpg
 rating: 3.5
 v-rating: VG

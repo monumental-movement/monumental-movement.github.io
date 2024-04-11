@@ -3,7 +3,7 @@ layout: post
 title:  "Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブ ]
+tags: [ House, Progressive ]
 image: ../assets/images/Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True.jpg
 rating: 3.5
 v-rating: VG

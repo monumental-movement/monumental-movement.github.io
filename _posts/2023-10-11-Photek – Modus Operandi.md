@@ -3,7 +3,7 @@ layout: post
 title:  "Photek – Modus Operandi"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ダウンテンポ, ジャングル ]
+tags: [ Downtempo, Jungle ]
 image: ../assets/images/Photek – Modus Operandi.jpg
 rating: 3.5
 v-rating: VG

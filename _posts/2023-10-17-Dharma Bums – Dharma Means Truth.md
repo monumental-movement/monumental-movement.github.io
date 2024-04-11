@@ -3,7 +3,7 @@ layout: post
 title:  "Dharma Bums – Dharma Means Truth"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, トランス ]
+tags: [ House, Trance ]
 image: ../assets/images/Dharma Bums – Dharma Means Truth.jpg
 rating: 3.5
 v-rating: VG

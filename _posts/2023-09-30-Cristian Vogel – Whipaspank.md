@@ -3,7 +3,7 @@ layout: post
 title:  "Cristian Vogel – Whipaspank"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, UKテクノ ]
+tags: [ Techno, UK Techno ]
 image: ../assets/images/Cristian Vogel – Whipaspank.jpg
 rating: 4.5
 v-rating: VG

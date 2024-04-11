@@ -3,7 +3,7 @@ layout: post
 title:  "Frente  – Shape"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, フォーク ]
+tags: [ Rock, Folk ]
 image: ../assets/images/Frente  – Shape.jpg
 rating: 3.5
 v-rating: VG

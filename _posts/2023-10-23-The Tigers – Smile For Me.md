@@ -3,7 +3,7 @@ layout: post
 title:  "The Tigers – Smile For Me"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, グループサウンズ, 7インチ ]
+tags: [ JPop, Group Sounds, 7inch ]
 image: ../assets/images/The Tigers – Smile For Me.jpg
 rating: 3.5
 v-rating: VG

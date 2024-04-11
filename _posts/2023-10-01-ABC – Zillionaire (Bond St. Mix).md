@@ -3,7 +3,7 @@ layout: post
 title:  "ABC – Zillionaire (Bond St. Mix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ポップス, シンセポップ ]
+tags: [ Pops, Synth-Pop ]
 image: ../assets/images/ABC – Zillionaire (Bond St. Mix).jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "F – Untitled"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, レア ]
+tags: [ House, Rare ]
 image: ../assets/images/F – Untitled.jpg
 rating: 4.5
 v-rating: VG

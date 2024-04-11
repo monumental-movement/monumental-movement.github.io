@@ -3,7 +3,7 @@ layout: post
 title:  "Headshop – 4 Sale!"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハードコアテクノ ]
+tags: [ Techno, Hardcore Techno ]
 image: ../assets/images/Headshop – 4 Sale.jpg
 rating: 4.5
 v-rating: VG

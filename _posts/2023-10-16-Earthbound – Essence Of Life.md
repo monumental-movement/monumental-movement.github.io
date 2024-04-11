@@ -3,7 +3,7 @@ layout: post
 title:  "Earthbound – Essence Of Life"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Earthbound – Essence Of Life.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Thomas Schumacher – When I Rock (Remix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, エレクトロ ]
+tags: [ Techno, Electro ]
 image: ../assets/images/Thomas Schumacher – When I Rock (Remix).jpg
 rating: 3.5
 v-rating: VG

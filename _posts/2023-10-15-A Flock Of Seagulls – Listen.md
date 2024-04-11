@@ -3,7 +3,7 @@ layout: post
 title:  "A Flock Of Seagulls – Listen"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, シンセポップ ]
+tags: [ New-Wave, Synth-Pop ]
 image: ../assets/images/A Flock Of Seagulls – Listen.jpg
 rating: 4.5
 v-rating: VG

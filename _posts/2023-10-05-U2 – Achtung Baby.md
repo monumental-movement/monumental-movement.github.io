@@ -3,7 +3,7 @@ layout: post
 title:  "U2 – Achtung Baby"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ポップス ]
+tags: [ Rock, Pops ]
 image: ../assets/images/U2 – Achtung Baby.jpg
 rating: 4.5
 v-rating: VG

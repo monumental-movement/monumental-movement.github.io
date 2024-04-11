@@ -3,7 +3,7 @@ layout: post
 title:  "Dave and Dr. DOPE – Get Wild"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハイパーテクノ ]
+tags: [ Techno, Hyper Techno ]
 image: ../assets/images/Dave and Dr. DOPE – Get Wild.jpg
 rating: 3.5
 v-rating: VG

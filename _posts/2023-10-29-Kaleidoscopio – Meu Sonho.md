@@ -3,7 +3,7 @@ layout: post
 title:  "Kaleidoscópio – Meu Sonho"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ドラムンベース ]
+tags: [ House, Drum n Bass ]
 image: ../assets/images/Kaleidoscopio – Meu Sonho.jpg
 rating: 3.5
 v-rating: VG

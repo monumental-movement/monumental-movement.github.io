@@ -3,7 +3,7 @@ layout: post
 title:  "Ei Mori – Vetettem Violat"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニュービート, ニューウェーブ ]
+tags: [ New Beat, New-Wave ]
 image: ../assets/images/Ei Mori – Vetettem Violat.jpg
 rating: 4.5
 v-rating: VG

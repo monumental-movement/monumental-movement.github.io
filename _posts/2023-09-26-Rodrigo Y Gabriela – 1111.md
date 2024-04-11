@@ -3,7 +3,7 @@ layout: post
 title:  "Rodrigo Y Gabriela – 1111"
 author: mmr
 categories: [ CD ]
-tags: [ ラテン, 民族音楽 ]
+tags: [ Latin, Folk, Rock ]
 image: ../assets/images/Rodrigo Y Gabriela – 1111.jpg
 rating: 3.5
 v-rating: VG

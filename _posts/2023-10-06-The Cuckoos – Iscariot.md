@@ -3,7 +3,7 @@ layout: post
 title:  "The Cuckoos – Iscariot"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, インディーロック ]
+tags: [ Rock, Indie Rock ]
 image: ../assets/images/The Cuckoos – Iscariot.jpg
 rating: 3.5
 v-rating: VG

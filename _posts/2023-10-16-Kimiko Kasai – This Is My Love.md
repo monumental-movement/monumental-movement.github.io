@@ -3,7 +3,7 @@ layout: post
 title:  "Kimiko Kasai – This Is My Love"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ジャズ ]
+tags: [ Soul, Jazz ]
 image: ../assets/images/Kimiko Kasai – This Is My Love.jpg
 rating: 4.5
 v-rating: VG

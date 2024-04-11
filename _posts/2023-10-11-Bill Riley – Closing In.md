@@ -3,7 +3,7 @@ layout: post
 title:  "Bill Riley – Closing In"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース ]
+tags: [ Drum n Bass ]
 image: ../assets/images/Bill Riley – Closing In.jpg
 rating: 3.5
 v-rating: VG

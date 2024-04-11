@@ -3,7 +3,7 @@ layout: post
 title:  "The Prodigy – Out Of Space"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, ハードコア ]
+tags: [ Break Beat, Hardcore ]
 image: ../assets/images/The Prodigy – Out Of Space.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Mondo Grosso – Butterfly"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Mondo Grosso – Butterfly.jpg
 rating: 4.5
 v-rating: VG

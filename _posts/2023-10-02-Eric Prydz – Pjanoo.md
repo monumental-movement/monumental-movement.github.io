@@ -3,7 +3,7 @@ layout: post
 title:  "Eric Prydz – Pjanoo"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース ]
+tags: [ Drum n Bass ]
 image: ../assets/images/Eric Prydz – Pjanoo.jpg
 rating: 4.5
 v-rating: VG

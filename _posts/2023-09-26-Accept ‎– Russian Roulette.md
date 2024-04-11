@@ -3,7 +3,7 @@ layout: post
 title:  "Accept – Russian Roulette"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヘヴィメタル, ロック ]
+tags: [ Heavy Metal, Rock ]
 image: ../assets/images/Accept – Russian Roulette.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Ian McCulloch – September Song"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, ロック, 80s ]
+tags: [ New-Wave, Rock, 80s ]
 image: ../assets/images/Ian McCulloch – September Song.jpg
 rating: 4.5
 v-rating: VG

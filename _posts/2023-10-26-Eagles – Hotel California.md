@@ -3,7 +3,7 @@ layout: post
 title:  "Eagles – Hotel California"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, 懐メロ, 7インチ ]
+tags: [ Rock, Nostalgic, 7inch ]
 image: ../assets/images/Eagles – Hotel California.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Joe Smooth – Disco Acid 4"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディスコ, アシッド ]
+tags: [ House, Disco, Acid ]
 image: ../assets/images/Joe Smooth – Disco Acid 4.jpg
 rating: 4.5
 v-rating: VG

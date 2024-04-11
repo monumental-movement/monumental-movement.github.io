@@ -3,7 +3,7 @@ layout: post
 title:  "Cross My Heart – The Reason I Failed History"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, エモ ]
+tags: [ Rock, Emo ]
 image: ../assets/images/Cross My Heart – The Reason I Failed History.jpg
 rating: 4.5
 v-rating: VG

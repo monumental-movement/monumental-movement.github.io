@@ -3,7 +3,7 @@ layout: post
 title:  "Funk D'Void & Percy X presents X-Funk – Voyager EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド ]
+tags: [ Techno, Acid ]
 image: ../assets/images/Funk D'Void and Percy X presents X-Funk – Voyager EP.jpg
 rating: 4.5
 v-rating: VG

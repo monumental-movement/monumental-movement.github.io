@@ -3,7 +3,7 @@ layout: post
 title:  "Don Dixon – Romeo At Juilliard"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, インディーロック ]
+tags: [ Rock, Indie Rock ]
 image: ../assets/images/Don Dixon – Romeo At Juilliard.jpg
 rating: 3.5
 v-rating: VG

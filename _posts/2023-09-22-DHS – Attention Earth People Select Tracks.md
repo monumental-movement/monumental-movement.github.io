@@ -3,7 +3,7 @@ layout: post
 title:  "DHS – Attention Earth People Select Tracks"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, ミニマル ]
+tags: [ Break Beat, Minimal ]
 image: ../assets/images/DHS – Attention Earth People Select Tracks.jpg
 rating: 4.5
 v-rating: VG

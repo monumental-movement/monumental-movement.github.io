@@ -3,7 +3,7 @@ layout: post
 title:  "Sally Rendell – Bim Bum Bam"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Sally Rendell – Bim Bum Bam.jpg
 rating: 3.5
 v-rating: VG

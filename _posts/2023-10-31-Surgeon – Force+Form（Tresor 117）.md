@@ -3,7 +3,7 @@ layout: post
 title:  "Surgeon – Force+Form（Tresor 117）"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, DJ ]
+tags: [ Techno, DJ ]
 image: ../assets/images/Surgeon – Force+Form（Tresor 117）.jpg
 rating: 4.5
 v-rating: VG

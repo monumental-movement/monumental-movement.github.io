@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Bam Bam – Mr. Big Foot"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハードハウス ]
+tags: [ Techno, Hard House ]
 image: ../assets/images/DJ Bam Bam – Mr. Big Foot.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Overrocket – Weather Forecast"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, シンセポップ ]
+tags: [ Techno, Synth-Pop ]
 image: ../assets/images/Overrocket – Weather Forecast.jpg
 rating: 3.5
 v-rating: VG

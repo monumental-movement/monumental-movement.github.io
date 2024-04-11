@@ -3,7 +3,7 @@ layout: post
 title:  "Mickey Hart – Planet Drum"
 author: mmr
 categories: [ Cassette ]
-tags: [ トライバル, アンビエント ]
+tags: [ Tribal, Ambient ]
 image: ../assets/images/Mickey Hart – Planet Drum.jpg
 rating: 4.5
 v-rating: VG

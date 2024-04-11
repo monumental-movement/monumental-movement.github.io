@@ -3,7 +3,7 @@ layout: post
 title:  "Air Frog – Bon Voyage"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Air Frog – Bon Voyage.jpg
 rating: 3.5
 v-rating: VG

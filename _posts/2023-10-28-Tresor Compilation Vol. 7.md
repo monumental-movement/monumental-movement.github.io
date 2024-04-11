@@ -3,7 +3,7 @@ layout: post
 title:  "Tresor Compilation Vol. 7"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, ジャーマンテクノ ]
+tags: [ Techno, German Techno ]
 image: ../assets/images/Tresor Compilation Vol. 7.jpg
 rating: 3.5
 v-rating: VG

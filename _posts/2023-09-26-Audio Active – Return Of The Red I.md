@@ -3,7 +3,7 @@ layout: post
 title:  "Audio Active – Return Of The Red I"
 author: mmr
 categories: [ CD ]
-tags: [ レゲエ, ダブ ]
+tags: [ Reggae, Dub ]
 image: ../assets/images/Audio Active – Return Of The Red I.jpg
 rating: 3.5
 v-rating: VG

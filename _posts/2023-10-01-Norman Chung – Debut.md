@@ -3,7 +3,7 @@ layout: post
 title:  "Norman Chung – Debut"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Norman Chung – Debut.jpg
 rating: 4.5
 v-rating: VG

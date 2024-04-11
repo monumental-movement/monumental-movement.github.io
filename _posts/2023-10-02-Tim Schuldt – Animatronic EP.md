@@ -3,7 +3,7 @@ layout: post
 title:  "Tim Schuldt – Animatronic EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ゴアトランス, サイケデリック ]
+tags: [ Trance, Goa Trance, Psychedelic ]
 image: ../assets/images/Tim Schuldt – Animatronic EP.jpg
 rating: 3.5
 v-rating: VG

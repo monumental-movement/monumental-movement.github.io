@@ -3,7 +3,7 @@ layout: post
 title:  "E-Rotic – Willy Use A Billy... Boy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ユーロハウス, ハイエナジー ]
+tags: [ House, Euro House, Hi NRG ]
 image: ../assets/images/E-Rotic – Willy Use A Billy... Boy.jpg
 rating: 3.5
 v-rating: VG

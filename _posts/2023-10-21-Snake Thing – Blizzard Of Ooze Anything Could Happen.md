@@ -3,7 +3,7 @@ layout: post
 title:  "Snake Thing – Blizzard Of Ooze Anything Could Happen"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, サイケデリック ]
+tags: [ Trance, Psychedelic ]
 image: ../assets/images/Snake Thing – Blizzard Of Ooze Anything Could Happen.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "DSK – Work My Body Over (Sweat)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, 90s ]
+tags: [ House, 90s ]
 image: ../assets/images/DSK – Work My Body Over (Sweat).jpg
 rating: 3.5
 v-rating: VG

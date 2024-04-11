@@ -3,7 +3,7 @@ layout: post
 title:  "Janet Jackson – Doesn't Really Matter"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ディープハウス, 7インチ ]
+tags: [ Hiphop, Deep House, 7inch ]
 image: ../assets/images/Janet Jackson – Doesn't Really Matter7inch.jpg
 rating: 4.5
 v-rating: VG

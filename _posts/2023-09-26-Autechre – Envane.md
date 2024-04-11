@@ -3,7 +3,7 @@ layout: post
 title:  "Autechre – Envane"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, エレクトロ ]
+tags: [ Techno, Electro ]
 image: ../assets/images/Autechre – Envane.jpg
 rating: 4.5
 v-rating: VG

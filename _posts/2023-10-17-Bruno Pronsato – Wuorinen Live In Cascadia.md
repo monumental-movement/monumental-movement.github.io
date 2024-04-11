@@ -3,7 +3,7 @@ layout: post
 title:  "Bruno Pronsato – Wuorinen Live In Cascadia"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Bruno Pronsato – Wuorinen Live In Cascadia.jpg
 rating: 4.5
 v-rating: VG

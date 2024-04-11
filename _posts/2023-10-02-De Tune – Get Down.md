@@ -3,7 +3,7 @@ layout: post
 title:  "De Tune – Get Down"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/De Tune – Get Down.jpg
 rating: 3.5
 v-rating: VG

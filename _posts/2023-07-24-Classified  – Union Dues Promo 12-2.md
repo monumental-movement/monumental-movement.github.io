@@ -3,7 +3,7 @@ layout: post
 title:  "Classified  – Union Dues Promo 12-2"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, レア ]
+tags: [ Hiphop, Rare ]
 image: ../assets/images/Classified  – Union Dues Promo 12-2.jpg
 rating: 4.5
 v-rating: VG

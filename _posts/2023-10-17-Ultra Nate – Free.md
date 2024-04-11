@@ -3,7 +3,7 @@ layout: post
 title:  "Ultra Naté – Free"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, スピードガラージ ]
+tags: [ House, Speed Garage ]
 image: ../assets/images/Ultra Nate – Free.jpg
 rating: 3.5
 v-rating: VG

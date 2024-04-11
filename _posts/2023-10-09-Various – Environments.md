@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Environments"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, アブストラクト ]
+tags: [ Jazz, Abstract ]
 image: ../assets/images/Various – Environments.jpg
 rating: 3.5
 v-rating: VG

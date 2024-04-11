@@ -3,7 +3,7 @@ layout: post
 title:  "Elastica  – Connection"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, インディーロック ]
+tags: [ Rock, Indie Rock ]
 image: ../assets/images/Elastica  – Connection.jpg
 rating: 4.5
 v-rating: VG

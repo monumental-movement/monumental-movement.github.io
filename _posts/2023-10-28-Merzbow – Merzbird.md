@@ -3,7 +3,7 @@ layout: post
 title:  "Merzbow – Merzbird"
 author: mmr
 categories: [ CD ]
-tags: [ ノイズ, エクスペリメンタル ]
+tags: [ Noise, Experimental ]
 image: ../assets/images/Merzbow – Merzbird.jpg
 rating: 3.5
 v-rating: VG

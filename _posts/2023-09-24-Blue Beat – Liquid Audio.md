@@ -3,7 +3,7 @@ layout: post
 title:  "Blue Beat – Liquid Audio"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Blue Beat – Liquid Audio.jpg
 rating: 4.5
 v-rating: VG

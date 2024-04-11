@@ -3,7 +3,7 @@ layout: post
 title:  "Kagami – Guardians Hammer"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Kagami – Guardians Hammer.jpg
 rating: 3.5
 v-rating: VG

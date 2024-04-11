@@ -3,7 +3,7 @@ layout: post
 title:  "Coo Coo – Happy Days"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ハイエナジー, レア ]
+tags: [ Italo, Hi NRG, Rare ]
 image: ../assets/images/Coo Coo – Happy Days.jpg
 rating: 4.5
 v-rating: VG

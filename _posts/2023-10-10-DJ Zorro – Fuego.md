@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Zorro – Fuego"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハイバーテクノ ]
+tags: [ Techno, Hyper Techno ]
 image: ../assets/images/DJ Zorro – Fuego.jpg
 rating: 4.5
 v-rating: VG

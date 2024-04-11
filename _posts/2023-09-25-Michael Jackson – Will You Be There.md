@@ -3,7 +3,7 @@ layout: post
 title:  "Michael Jackson – Will You Be There"
 author: mmr
 categories: [ Cassette ]
-tags: [ ポップス, ソウル ]
+tags: [ Pops, Soul ]
 image: ../assets/images/Michael Jackson – Will You Be There.jpg
 rating: 4.5
 v-rating: VG

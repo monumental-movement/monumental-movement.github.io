@@ -3,7 +3,7 @@ layout: post
 title:  "X-Ray – Human Dog"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヘヴィメタル, ハードロック ]
+tags: [ Heavy Metal, Hard Rock ]
 image: ../assets/images/X-Ray – Human Dog.jpg
 rating: 3.5
 v-rating: VG

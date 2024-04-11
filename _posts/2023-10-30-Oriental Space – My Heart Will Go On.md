@@ -3,7 +3,7 @@ layout: post
 title:  "Oriental Space – My Heart Will Go On"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, カバー ]
+tags: [ Trance ]
 image: ../assets/images/Oriental Space – My Heart Will Go On.jpg
 rating: 3.5
 v-rating: VG

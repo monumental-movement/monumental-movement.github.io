@@ -3,7 +3,7 @@ layout: post
 title:  "DK7 – Where's The Fun"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, アシッド, テクノ ]
+tags: [ House, Acid, Techno ]
 image: ../assets/images/DK7 – Where's The Fun.jpg
 rating: 4.5
 v-rating: VG

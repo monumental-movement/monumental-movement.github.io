@@ -3,7 +3,7 @@ layout: post
 title:  "Takehana and Golden Lotus - Samurai Step"
 author: mmr
 categories: [ Vinyl ]
-tags: [ アブストラクト, ジャズ ]
+tags: [ Abstract, Jazz ]
 image: ../assets/images/Takehana and Golden Lotus – Samurai Step.jpg
 rating: 4.5
 v-rating: VG

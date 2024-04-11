@@ -3,7 +3,7 @@ layout: post
 title:  "Gigolo – I Wanna Tell You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/Gigolo – I Wanna Tell You.jpg
 rating: 3.5
 v-rating: VG

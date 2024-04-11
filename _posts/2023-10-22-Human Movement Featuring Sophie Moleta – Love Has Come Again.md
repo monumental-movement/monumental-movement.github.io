@@ -3,7 +3,7 @@ layout: post
 title:  "Human Movement Featuring Sophie Moleta – Love Has Come Again"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come Again.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Di Lacuna – Teetering On The Edge Of Quiet"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ポストロック ]
+tags: [ Rock, Post Rock ]
 image: ../assets/images/Di Lacuna – Teetering On The Edge Of Quiet.jpg
 rating: 3.5
 v-rating: VG

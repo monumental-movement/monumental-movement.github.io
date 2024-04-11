@@ -3,7 +3,7 @@ layout: post
 title:  "Alphaville – Romeos"
 author: mmr
 categories: [ Vinyl ]
-tags: [ シンセポップ, ニューウェーブ ]
+tags: [ Synth-Pop, New-Wave ]
 image: ../assets/images/Alphaville – Romeos.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Hiroshima – Third Generation"
 author: mmr
 categories: [ Cassette ]
-tags: [ ジャズ, モダンジャズ ]
+tags: [ Jazz, Modern Jazz ]
 image: ../assets/images/Hiroshima – Third Generation.jpg
 rating: 4.5
 v-rating: VG

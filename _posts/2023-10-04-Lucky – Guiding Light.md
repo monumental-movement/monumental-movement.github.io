@@ -3,7 +3,7 @@ layout: post
 title:  "Lucky – Guiding Light"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ユーロビート ]
+tags: [ House, Euro Beat ]
 image: ../assets/images/Lucky – Guiding Light.jpg
 rating: 3.5
 v-rating: VG

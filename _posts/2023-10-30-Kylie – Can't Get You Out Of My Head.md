@@ -3,7 +3,7 @@ layout: post
 title:  "Kylie – Can't Get You Out Of My Head"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディスコ, リミックス ]
+tags: [ House, Disco, Remix ]
 image: ../assets/images/Kylie – Can't Get You Out Of My Head.jpg
 rating: 3.5
 v-rating: VG

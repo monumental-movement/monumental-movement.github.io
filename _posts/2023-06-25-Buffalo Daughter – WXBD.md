@@ -3,7 +3,7 @@ layout: post
 title:  "Buffalo Daughter – WXBD"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, ビッグビート ]
+tags: [ Break Beat, Big Beat ]
 image: ../assets/images/Buffalo Daughter – WXBD.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Fresh Lab – Afrodisiacs EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, トリップホップ ]
+tags: [ Hiphop, Triphop ]
 image: ../assets/images/Fresh Lab – Afrodisiacs EP.jpg
 rating: 4.5
 v-rating: VG

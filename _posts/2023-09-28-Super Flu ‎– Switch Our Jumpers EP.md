@@ -3,7 +3,7 @@ layout: post
 title:  "Super Flu – Switch Our Jumpers EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブ ]
+tags: [ House, Progressive ]
 image: ../assets/images/Super Flu – Switch Our Jumpers EP.jpg
 rating: 3.5
 v-rating: VG

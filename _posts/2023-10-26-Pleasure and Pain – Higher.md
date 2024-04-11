@@ -3,7 +3,7 @@ layout: post
 title:  "Pleasure & Pain – Higher"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, ハイエナジー ]
+tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Pleasure and Pain – Higher.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Armand Van Helden – I Want Your Soul"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, エレクトロ ]
+tags: [ House, Electro ]
 image: ../assets/images/Armand Van Helden – I Want Your Soul.jpg
 rating: 4.5
 v-rating: VG

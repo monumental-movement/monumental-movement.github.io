@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Go Head Now  Get Live"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, 90's ]
+tags: [ Hiphop, 90s ]
 image: ../assets/images/Various – Go Head Now  Get Live.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Brtsh Knights – If I Was To"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, UKガラージ ]
+tags: [ House, UK Garage ]
 image: ../assets/images/Brtsh Knights – If I Was To.jpg
 rating: 4.5
 v-rating: VG

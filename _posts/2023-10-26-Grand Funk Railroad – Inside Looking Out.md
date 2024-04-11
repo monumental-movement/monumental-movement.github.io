@@ -3,7 +3,7 @@ layout: post
 title:  "Grand Funk Railroad – Inside Looking Out"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック, 7インチ ]
+tags: [ Rock, Hard Rock, 7inch ]
 image: ../assets/images/Grand Funk Railroad – Inside Looking Out.jpg
 rating: 4.5
 v-rating: VG

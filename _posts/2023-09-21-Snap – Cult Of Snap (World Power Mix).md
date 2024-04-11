@@ -3,7 +3,7 @@ layout: post
 title:  "Snap! – Cult Of Snap (World Power Mix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ユーロビート ]
+tags: [ House, Euro Beat ]
 image: ../assets/images/Snap! – Cult Of Snap (World Power Mix).jpg
 rating: 4.5
 v-rating: VG

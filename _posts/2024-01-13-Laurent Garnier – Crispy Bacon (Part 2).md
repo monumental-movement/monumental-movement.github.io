@@ -3,7 +3,7 @@ layout: post
 title:  "Laurent Garnier – Crispy Bacon (Part 2)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, 90s, ドラムンベース ]
+tags: [ Techno, 90s, Drum n Bass ]
 image: ../assets/images/Laurent Garnier – Crispy Bacon (Part 2).jpg
 rating: 4.5
 v-rating: VG

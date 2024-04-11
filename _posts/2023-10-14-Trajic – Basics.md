@@ -3,7 +3,7 @@ layout: post
 title:  "Trajic – Basics"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス ]
+tags: [ House, Hard House ]
 image: ../assets/images/Trajic – Basics.jpg
 rating: 3.5
 v-rating: VG

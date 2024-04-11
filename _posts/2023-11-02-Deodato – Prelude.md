@@ -3,7 +3,7 @@ layout: post
 title:  "Deodato – Prelude"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, ファンク ]
+tags: [ Jazz, Funk ]
 image: ../assets/images/Deodato – Prelude.jpg
 rating: 3.5
 v-rating: VG

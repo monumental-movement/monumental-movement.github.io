@@ -3,7 +3,7 @@ layout: post
 title:  "Mauro Picotto – Lizard"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ハードトランス ]
+tags: [ Trance, Hard Trance ]
 image: ../assets/images/Mauro Picotto – Lizard.jpg
 rating: 3.5
 v-rating: VG

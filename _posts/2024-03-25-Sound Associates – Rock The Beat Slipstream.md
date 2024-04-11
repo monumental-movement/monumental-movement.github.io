@@ -3,7 +3,7 @@ layout: post
 title:  "Sound Associates – Rock The Beat Slipstream"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, 90s ]
+tags: [ Techno, 90s ]
 image: ../assets/images/Sound Associates – Rock The Beat Slipstream.jpg
 rating: 4.5
 v-rating: VG

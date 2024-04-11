@@ -3,7 +3,7 @@ layout: post
 title:  "Sven Vath – Fusion"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, アンビエント ]
+tags: [ Techno, Ambient ]
 image: ../assets/images/Sven Vath – Fusion.jpg
 rating: 4.5
 v-rating: VG

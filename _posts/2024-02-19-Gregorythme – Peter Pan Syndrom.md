@@ -3,7 +3,7 @@ layout: post
 title:  "Gregorythme – Peter Pan Syndrom"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル, 00s ]
+tags: [ Techno, Minimal, 00s ]
 image: ../assets/images/Gregorythme – Peter Pan Syndrom.jpg
 rating: 4.5
 v-rating: VG

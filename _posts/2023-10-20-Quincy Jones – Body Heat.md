@@ -3,7 +3,7 @@ layout: post
 title:  "Quincy Jones – Body Heat"
 author: mmr
 categories: [ CD ]
-tags: [ ファンク, ソウル ]
+tags: [ Funk, Soul ]
 image: ../assets/images/Quincy Jones – Body Heat.jpg
 rating: 3.5
 v-rating: VG

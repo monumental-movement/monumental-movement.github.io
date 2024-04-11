@@ -3,7 +3,7 @@ layout: post
 title:  "ACDC – Moneytalks"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/ACDC – Moneytalks.jpg
 rating: 4.5
 v-rating: VG

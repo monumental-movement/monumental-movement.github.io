@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Electro Swing"
 author: mmr
 categories: [ CD ]
-tags: [ エレクトロ, スイングジャズ ]
+tags: [ Electro, Swing-Jazz ]
 image: ../assets/images/Various – Electro Swing.jpg
 rating: 3.5
 v-rating: VG

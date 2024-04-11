@@ -3,7 +3,7 @@ layout: post
 title:  "Daniel Boone  –  Beautiful Sunday"
 author: mmr
 categories: [ Vinyl ]
-tags: [ 懐メロ, 7インチ, ポップス ]
+tags: [ Nostalgic, 7inch, Pops ]
 image: ../assets/images/Daniel Boone  –  Beautiful Sunday.jpg
 rating: 4.5
 v-rating: VG

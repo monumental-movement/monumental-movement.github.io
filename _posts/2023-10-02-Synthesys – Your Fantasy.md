@@ -3,7 +3,7 @@ layout: post
 title:  "Synthesys – Your Fantasy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ディスコ ]
+tags: [ Italo, Disco ]
 image: ../assets/images/Synthesys – Your Fantasy.jpg
 rating: 4.5
 v-rating: VG

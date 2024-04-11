@@ -3,7 +3,7 @@ layout: post
 title:  "The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes"
 author: mmr
 categories: [ CD ]
-tags: [ ヒップホップ, ジャジーヒップホップ ]
+tags: [ Hiphop, Jazzy Hiphop ]
 image: ../assets/images/The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes.jpg
 rating: 3.5
 v-rating: VG

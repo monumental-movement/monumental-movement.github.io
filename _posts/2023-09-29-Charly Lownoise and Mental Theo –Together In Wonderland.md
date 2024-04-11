@@ -3,7 +3,7 @@ layout: post
 title:  "Charly Lownoise & Mental Theo –Together In Wonderland"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハッピーハードコア ]
+tags: [ Techno, Happy Hardcore ]
 image: ../assets/images/Charly Lownoise & Mental Theo –Together In Wonderland.jpg
 rating: 4.5
 v-rating: VG

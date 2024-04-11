@@ -3,7 +3,7 @@ layout: post
 title:  "Fischerspooner – Emerge"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ミニマル, エレクトロ ]
+tags: [ Minimal, Electro ]
 image: ../assets/images/Fischerspooner – Emerge.jpg
 rating: 4.5
 v-rating: VG

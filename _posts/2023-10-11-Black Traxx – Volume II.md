@@ -3,7 +3,7 @@ layout: post
 title:  "Black Traxx – Volume II"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Black Traxx – Volume II.jpg
 rating: 3.5
 v-rating: VG

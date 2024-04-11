@@ -3,7 +3,7 @@ layout: post
 title:  "Carl Cox – Dr. Funk"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, UKハウス ]
+tags: [ House, UK House ]
 image: ../assets/images/Carl Cox – Dr. Funk.jpg
 rating: 4.5
 v-rating: VG

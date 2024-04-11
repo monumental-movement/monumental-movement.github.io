@@ -3,7 +3,7 @@ layout: post
 title:  "Realside – High Noon"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, フューチャージャズ ]
+tags: [ Jazz, Future Jazz ]
 image: ../assets/images/Realside – High Noon.jpg
 rating: 4.5
 v-rating: VG

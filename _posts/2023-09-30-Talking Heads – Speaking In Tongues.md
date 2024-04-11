@@ -3,7 +3,7 @@ layout: post
 title:  "Talking Heads – Speaking In Tongues"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, アートロック ]
+tags: [ Rock, Art Rock ]
 image: ../assets/images/Talking Heads – Speaking In Tongues.jpg
 rating: 4.5
 v-rating: VG

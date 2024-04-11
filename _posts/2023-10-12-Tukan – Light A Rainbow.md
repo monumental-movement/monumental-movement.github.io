@@ -3,7 +3,7 @@ layout: post
 title:  "Tukan – Light A Rainbow"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ジャーマントランス ]
+tags: [ Trance, German Trance ]
 image: ../assets/images/Tukan – Light A Rainbow.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Bullblast – Inch By Inch"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Bullblast – Inch By Inch.jpg
 rating: 4.5
 v-rating: VG

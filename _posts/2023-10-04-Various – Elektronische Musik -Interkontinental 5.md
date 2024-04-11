@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Elektronische Musik -Interkontinental 5"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ボサノヴァ, ラテン ]
+tags: [ Bossa Nova, Latin ]
 image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.jpg
 rating: 4.5
 v-rating: VG

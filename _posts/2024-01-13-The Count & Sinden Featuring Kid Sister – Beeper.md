@@ -3,7 +3,7 @@ layout: post
 title:  "The Count & Sinden Featuring Kid Sister – Beeper"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ガラージハウス, スピードガラージ ]
+tags: [ House, Garage House, Speed Garage ]
 image: ../assets/images/The Count & Sinden Featuring Kid Sister – Beeper.jpg
 rating: 4.5
 v-rating: VG

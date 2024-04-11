@@ -3,7 +3,7 @@ layout: post
 title:  "Pike's Peak – All Around My City"
 author: mmr
 categories: [ Vinyl ]
-tags: [ パンク, スカ ]
+tags: [ Punk, Ska ]
 image: ../assets/images/Pike's Peak – All Around My City.jpg
 rating: 3.5
 v-rating: VG

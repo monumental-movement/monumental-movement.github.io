@@ -3,7 +3,7 @@ layout: post
 title:  "Devilfish – Voodoo Authentica"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Devilfish – Voodoo Authentica.jpg
 rating: 3.5
 v-rating: VG

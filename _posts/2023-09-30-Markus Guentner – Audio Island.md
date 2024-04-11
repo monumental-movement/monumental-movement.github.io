@@ -3,7 +3,7 @@ layout: post
 title:  "Markus Guentner – Audio Island"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Markus Guentner – Audio Island.jpg
 rating: 4.5
 v-rating: VG

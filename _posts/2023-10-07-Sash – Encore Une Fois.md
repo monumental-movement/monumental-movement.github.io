@@ -3,7 +3,7 @@ layout: post
 title:  "Sash! – Encore Une Fois"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ハウス ]
+tags: [ Trance, House ]
 image: ../assets/images/Sash! – Encore Une Fois.jpg
 rating: 3.5
 v-rating: VG

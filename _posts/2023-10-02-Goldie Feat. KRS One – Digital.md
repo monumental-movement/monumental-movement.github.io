@@ -3,7 +3,7 @@ layout: post
 title:  "Goldie Feat. KRS One – Digital"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース, ヒップホップ ]
+tags: [ Drum n Bass, Hiphop ]
 image: ../assets/images/Goldie Feat. KRS One – Digital.jpg
 rating: 4.5
 v-rating: VG

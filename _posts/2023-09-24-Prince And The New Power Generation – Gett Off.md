@@ -3,7 +3,7 @@ layout: post
 title:  "Prince And The New Power Generation – Gett Off"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ポップス, ハウス, ソウル ]
+tags: [ Pops, House, Soul ]
 image: ../assets/images/Prince And The New Power Generation – Gett Off.jpg
 rating: 4.5
 v-rating: VG

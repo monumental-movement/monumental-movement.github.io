@@ -3,7 +3,7 @@ layout: post
 title:  "Dylan – Society Revolver"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Dylan – Society Revolver.jpg
 rating: 3.5
 v-rating: VG

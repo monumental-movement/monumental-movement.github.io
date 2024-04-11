@@ -3,7 +3,7 @@ layout: post
 title:  "LSG – Netherworld"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/LSG – Netherworld.jpg
 rating: 3.5
 v-rating: VG

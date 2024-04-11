@@ -3,7 +3,7 @@ layout: post
 title:  "Orchestral Manoeuvres In The Dark – Crush"
 author: mmr
 categories: [ Cassette ]
-tags: [ ニューウェーブ, ロック ]
+tags: [ New-Wave, Rock ]
 image: ../assets/images/Orchestral Manoeuvres In The Dark – Crush.jpg
 rating: 4.5
 v-rating: VG

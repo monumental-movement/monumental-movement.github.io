@@ -3,7 +3,7 @@ layout: post
 title:  "Friendship – Friendship"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, スムースジャズ, 70s ]
+tags: [ Jazz, Smooth Jazz, 70s ]
 image: ../assets/images/Friendship – Friendship.jpg
 rating: 3.5
 v-rating: VG

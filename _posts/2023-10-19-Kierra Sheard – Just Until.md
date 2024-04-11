@@ -3,7 +3,7 @@ layout: post
 title:  "Kierra Sheard – Just Until"
 author: mmr
 categories: [ Vinyl ]
-tags: [ R&B, ソウル, ゴスペル ]
+tags: [ R&B, Soul, Gospel ]
 image: ../assets/images/Kierra Sheard – Just Until.jpg
 rating: 3.5
 v-rating: VG

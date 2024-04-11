@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamik Bass System – Arabian Dreams"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロ ]
+tags: [ Electro ]
 image: ../assets/images/Dynamik Bass System – Arabian Dreams.jpg
 rating: 3.5
 v-rating: VG

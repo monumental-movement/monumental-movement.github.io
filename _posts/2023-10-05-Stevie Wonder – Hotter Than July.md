@@ -3,7 +3,7 @@ layout: post
 title:  "Stevie Wonder – Hotter Than July"
 author: mmr
 categories: [ Cassette ]
-tags: [ ファンク, ソウル ]
+tags: [ Funk, Soul ]
 image: ../assets/images/Stevie Wonder – Hotter Than July.jpg
 rating: 4.5
 v-rating: VG

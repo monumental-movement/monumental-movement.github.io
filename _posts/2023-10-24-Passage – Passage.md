@@ -3,7 +3,7 @@ layout: post
 title:  "Passage – Passage"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ディスコ ]
+tags: [ Soul, Disco ]
 image: ../assets/images/Passage – Passage.jpg
 rating: 3.5
 v-rating: VG

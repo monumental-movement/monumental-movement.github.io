@@ -3,7 +3,7 @@ layout: post
 title:  "Asian Dub Foundation – Tank"
 author: mmr
 categories: [ CD ]
-tags: [ エレクトロ二カ, ヒップホップ ]
+tags: [ Electronica, Hiphop ]
 image: ../assets/images/Asian Dub Foundation – Tank.jpg
 rating: 3.5
 v-rating: VG

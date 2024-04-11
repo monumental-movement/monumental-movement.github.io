@@ -3,7 +3,7 @@ layout: post
 title:  "Moloko – Sing It Back"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ガラージハウス ]
+tags: [ House, Garage House ]
 image: ../assets/images/Moloko – Sing It Back.jpg
 rating: 4.5
 v-rating: VG

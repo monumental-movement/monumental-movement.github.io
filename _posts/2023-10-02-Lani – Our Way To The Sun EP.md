@@ -3,7 +3,7 @@ layout: post
 title:  "Lani – Our Way To The Sun EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, サイケデリック ]
+tags: [ Trance, Psychedelic ]
 image: ../assets/images/Lani – Our Way To The Sun EP.jpg
 rating: 3.5
 v-rating: VG

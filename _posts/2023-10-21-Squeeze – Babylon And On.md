@@ -3,7 +3,7 @@ layout: post
 title:  "Squeeze – Babylon And On"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, ポップス ]
+tags: [ New-Wave, Pops ]
 image: ../assets/images/Squeeze – Babylon And On-r.jpg
 rating: 3.5
 v-rating: VG

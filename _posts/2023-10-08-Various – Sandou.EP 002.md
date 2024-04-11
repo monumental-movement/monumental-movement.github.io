@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Sandou.EP 002"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エクスペリメンタル, ブレイクビーツ ]
+tags: [ Experimental, Break Beat ]
 image: ../assets/images/Various – Sandou.EP 002.jpg
 rating: 4.5
 v-rating: VG

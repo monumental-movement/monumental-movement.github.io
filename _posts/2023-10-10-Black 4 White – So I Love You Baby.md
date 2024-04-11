@@ -3,7 +3,7 @@ layout: post
 title:  "Black 4 White – So I Love You Baby"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ユーロハウス ]
+tags: [ Italo, Euro House ]
 image: ../assets/images/Black 4 White – So I Love You Baby.jpg
 rating: 4.5
 v-rating: VG

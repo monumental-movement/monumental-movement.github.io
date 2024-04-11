@@ -3,7 +3,7 @@ layout: post
 title:  "Yellow Magic Orchestra – X∞Multiplies"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, テクノ ]
+tags: [ JPop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – X Multiplies US.jpg
 rating: 4.5
 v-rating: VG

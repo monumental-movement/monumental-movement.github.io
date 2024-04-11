@@ -3,7 +3,7 @@ layout: post
 title:  "Main Source – Think Atom"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, レア ]
+tags: [ Hiphop, Rare ]
 image: ../assets/images/Main Source – Think Atom.jpg
 rating: 4.5
 v-rating: VG

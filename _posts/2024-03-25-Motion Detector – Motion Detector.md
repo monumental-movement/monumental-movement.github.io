@@ -3,7 +3,7 @@ layout: post
 title:  "Motion Detector – Motion Detector"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, DUB, 00s ]
+tags: [ House, DUB, 00s ]
 image: ../assets/images/Motion Detector – Motion Detector.jpg
 rating: 4.5
 v-rating: VG

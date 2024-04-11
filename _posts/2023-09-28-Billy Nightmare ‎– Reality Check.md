@@ -3,7 +3,7 @@ layout: post
 title:  "Billy Nightmare – Reality Check"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド ]
+tags: [ Techno, Acid ]
 image: ../assets/images/Billy Nightmare – Reality Check.jpg
 rating: 4.5
 v-rating: VG

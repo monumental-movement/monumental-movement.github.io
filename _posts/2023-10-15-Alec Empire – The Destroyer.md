@@ -3,7 +3,7 @@ layout: post
 title:  "Alec Empire – The Destroyer"
 author: mmr
 categories: [ Vinyl ]
-tags: [ デジタルハードコア, ブレイクコア ]
+tags: [ Digital Hardcore, Breakcore ]
 image: ../assets/images/Alec Empire – The Destroyer.jpg
 rating: 3.5
 v-rating: VG

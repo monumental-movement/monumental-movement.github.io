@@ -3,7 +3,7 @@ layout: post
 title:  "Dandy – Casanova"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, ハイエナジー ]
+tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Dandy – Casanova.jpg
 rating: 3.5
 v-rating: VG

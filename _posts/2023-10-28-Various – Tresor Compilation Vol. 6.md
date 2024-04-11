@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Tresor Compilation Vol. 6"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, ジャーマンテクノ ]
+tags: [ Techno, German Techno ]
 image: ../assets/images/Various – Tresor Compilation Vol. 6.jpg
 rating: 3.5
 v-rating: VG

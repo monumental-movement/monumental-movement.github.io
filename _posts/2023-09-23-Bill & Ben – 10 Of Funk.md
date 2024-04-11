@@ -3,7 +3,7 @@ layout: post
 title:  "Bill & Ben – 10 Of Funk"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, テクノ ]
+tags: [ Break Beat, Techno ]
 image: ../assets/images/Bill & Ben – 10 Of Funk.jpg
 rating: 4.5
 v-rating: VG

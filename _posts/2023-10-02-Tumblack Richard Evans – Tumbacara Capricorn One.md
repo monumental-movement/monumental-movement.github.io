@@ -3,7 +3,7 @@ layout: post
 title:  "Tumblack Richard Evans – Tumbacara Capricorn One"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディスコ ]
+tags: [ House, Disco ]
 image: ../assets/images/Tumblack Richard Evans – Tumbacara Capricorn One.jpg
 rating: 4.5
 v-rating: VG

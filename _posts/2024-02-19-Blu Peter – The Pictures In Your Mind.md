@@ -3,7 +3,7 @@ layout: post
 title:  "Blu Peter – The Pictures In Your Mind"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, 90s ]
+tags: [ Trance, 90s ]
 image: ../assets/images/Blu Peter – The Pictures In Your Mind.jpg
 rating: 4.5
 v-rating: VG

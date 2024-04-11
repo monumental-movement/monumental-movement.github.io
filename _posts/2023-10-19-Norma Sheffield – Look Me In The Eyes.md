@@ -3,7 +3,7 @@ layout: post
 title:  "Norma Sheffield – Look Me In The Eyes"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, ハイエナジー ]
+tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Norma Sheffield – Look Me In The Eyes.jpg
 rating: 3.5
 v-rating: VG

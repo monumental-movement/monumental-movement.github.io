@@ -3,7 +3,7 @@ layout: post
 title:  "Yellowman & General Trees – A Reggae Calypso Encounter"
 author: mmr
 categories: [ Cassette ]
-tags: [ レゲエ, ダンスホール ]
+tags: [ Reggae, Dancehall ]
 image: ../assets/images/Yellowman and General Trees – A Reggae Calypso Encounter.jpg
 rating: 4.5
 v-rating: VG

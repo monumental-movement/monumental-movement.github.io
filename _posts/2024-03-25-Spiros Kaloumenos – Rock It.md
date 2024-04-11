@@ -3,7 +3,7 @@ layout: post
 title:  "Spiros Kaloumenos – Rock It"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, 00s ]
+tags: [ Techno, 00s ]
 image: ../assets/images/Spiros Kaloumenos – Rock It.jpg
 rating: 4.5
 v-rating: VG

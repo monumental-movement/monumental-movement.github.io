@@ -3,7 +3,7 @@ layout: post
 title:  "Resistance D – Dreams EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド, トランス ]
+tags: [ Techno, Acid, Trance ]
 image: ../assets/images/Resistance D – Dreams EP.jpg
 rating: 4.5
 v-rating: VG

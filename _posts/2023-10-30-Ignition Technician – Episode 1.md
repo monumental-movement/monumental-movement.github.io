@@ -3,7 +3,7 @@ layout: post
 title:  "Ignition Technician – Episode 1"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, 00s ]
+tags: [ Techno, 00s ]
 image: ../assets/images/Ignition Technician – Episode 1.jpg
 rating: 3.5
 v-rating: VG

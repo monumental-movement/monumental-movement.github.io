@@ -3,7 +3,7 @@ layout: post
 title:  "UNKLE – In A State"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブ, リミックス ]
+tags: [ House, Progressive, Remix ]
 image: ../assets/images/UNKLE – In A State.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Giles Brothers Band – Afro-Asian-Invasion"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, ファンク, 7インチ ]
+tags: [ Jazz, Funk, 7inch ]
 image: ../assets/images/Giles Brothers Band – Afro-Asian-Invasion.jpg
 rating: 4.5
 v-rating: VG

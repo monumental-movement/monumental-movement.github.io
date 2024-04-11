@@ -3,7 +3,7 @@ layout: post
 title:  "Sugababes – Soul Sound"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ディスコ, ガラージ, 00s ]
+tags: [ Disco, Garage, 00s ]
 image: ../assets/images/Sugababes – Soul Sound.jpg
 rating: 4.5
 v-rating: VG

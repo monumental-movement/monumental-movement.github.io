@@ -3,7 +3,7 @@ layout: post
 title:  "m-flo – Theme From The Black House (黒い家)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, サントラ ]
+tags: [ JPop, Soundtrack ]
 image: ../assets/images/m-flo – Theme From The Black House (黒い家).jpg
 rating: 3.5
 v-rating: VG

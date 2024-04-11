@@ -3,7 +3,7 @@ layout: post
 title:  "Enzyme & Malice – Close Encounters Thru The Wormhole"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビート, ハードコア, ブレイク ]
+tags: [ Breaks, Hardcore, Electronic ]
 image: ../assets/images/Enzyme & Malice – Close Encounters Thru The Wormhole.jpg
 rating: 4.5
 v-rating: VG

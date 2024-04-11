@@ -3,7 +3,7 @@ layout: post
 title:  "Max Duley – Canal"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Max Duley – Canal.jpg
 rating: 4.5
 v-rating: VG

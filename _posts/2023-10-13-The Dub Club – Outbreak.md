@@ -3,7 +3,7 @@ layout: post
 title:  "The Dub Club – Outbreak"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, トランス ]
+tags: [ Break Beat, Trance ]
 image: ../assets/images/The Dub Club – Outbreak.jpg
 rating: 4.5
 v-rating: VG

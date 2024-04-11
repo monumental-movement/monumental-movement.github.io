@@ -3,7 +3,7 @@ layout: post
 title:  "A Tribe Called Quest – Midnight Marauders"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ ]
+tags: [ Hiphop ]
 image: ../assets/images/A Tribe Called Quest – Midnight Marauders.jpg
 rating: 4.5
 v-rating: VG

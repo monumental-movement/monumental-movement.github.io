@@ -3,7 +3,7 @@ layout: post
 title:  "Quarks – Allein"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロ, テックハウス, ハウス ]
+tags: [ Electro, Tech House, House ]
 image: ../assets/images/quarks-allein.jpg
 rating: 4.5
 v-rating: VG

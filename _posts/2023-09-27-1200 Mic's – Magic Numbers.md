@@ -3,7 +3,7 @@ layout: post
 title:  "1200 Mic's – Magic Numbers"
 author: mmr
 categories: [ CD ]
-tags: [ トランス, サイケデリック ]
+tags: [ Trance, Psychedelic ]
 image: ../assets/images/1200 Mic's – Magic Numbers.jpg
 rating: 4.5
 v-rating: VG

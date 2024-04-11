@@ -3,7 +3,7 @@ layout: post
 title:  "Anthony Vieira – Merino EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, UKテクノ ]
+tags: [ Techno, UK Techno ]
 image: ../assets/images/Anthony Vieira – Merino EP.jpg
 rating: 3.5
 v-rating: VG

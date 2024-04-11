@@ -3,7 +3,7 @@ layout: post
 title:  "Özgür Can – Irony"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Ozgur Can – Irony.jpg
 rating: 3.5
 v-rating: VG

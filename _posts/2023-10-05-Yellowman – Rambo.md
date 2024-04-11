@@ -3,7 +3,7 @@ layout: post
 title:  "Yellowman – Rambo"
 author: mmr
 categories: [ Cassette ]
-tags: [ レゲエ, ダンスホール ]
+tags: [ Reggae, Dancehall ]
 image: ../assets/images/Yellowman – Rambo.jpg
 rating: 4.5
 v-rating: VG

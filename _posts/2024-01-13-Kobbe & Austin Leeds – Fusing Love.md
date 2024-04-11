@@ -3,7 +3,7 @@ layout: post
 title:  "Kobbe & Austin Leeds – Fusing Love"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブハウス, 00s ]
+tags: [ House, Progressive House, 00s ]
 image: ../assets/images/Kobbe & Austin Leeds – Fusing Love.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Harmonic 33 –Music For Film, Television & Radio Volume One"
 author: mmr
 categories: [ CD ]
-tags: [ レフトフィールド, ダウンテンポ ]
+tags: [ Leftfield, Downtempo ]
 image: ../assets/images/Harmonic 33 –Music For Film, Television & Radio Volume One.jpg
 rating: 4.5
 v-rating: VG

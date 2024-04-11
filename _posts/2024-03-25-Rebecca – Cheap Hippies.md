@@ -3,7 +3,7 @@ layout: post
 title:  "Rebecca – Cheap Hippies"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, ポップス, 80s ]
+tags: [ JPop, Pops, 80s ]
 image: ../assets/images/Rebecca – Cheap Hippies.jpg
 rating: 4.5
 v-rating: VG

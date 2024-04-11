@@ -3,7 +3,7 @@ layout: post
 title:  "Rexanthony – Live In Rome"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハードコア ]
+tags: [ Techno, Hardcore ]
 image: ../assets/images/Rexanthony – Live In Rome.jpg
 rating: 4.5
 v-rating: VG

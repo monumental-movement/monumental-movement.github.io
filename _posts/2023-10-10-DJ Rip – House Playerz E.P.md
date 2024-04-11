@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Rip – House Playerz E.P"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス ]
+tags: [ House, Hard House ]
 image: ../assets/images/DJ Rip – House Playerz E.P.jpg
 rating: 4.5
 v-rating: VG

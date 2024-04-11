@@ -3,7 +3,7 @@ layout: post
 title:  "Riow Arai – iBeat EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロニック, テクノ, ブレイクビーツ ]
+tags: [ Electronic, Techno, Break Beat ]
 image: ../assets/images/Riow Arai – iBeat EP.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "RJD2 – Here's What's Left"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ラップ ]
+tags: [ Hiphop, Rap ]
 image: ../assets/images/RJD2 – Here's What's Left.jpg
 rating: 3.5
 v-rating: VG

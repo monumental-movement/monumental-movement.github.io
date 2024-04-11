@@ -3,7 +3,7 @@ layout: post
 title:  "The Mack Feat. Kysia Bostic – I Want You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ガラージ ]
+tags: [ House, Garage ]
 image: ../assets/images/The Mack Feat. Kysia Bostic – I Want You.jpg
 rating: 4.5
 v-rating: VG

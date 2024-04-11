@@ -3,7 +3,7 @@ layout: post
 title:  "Cygnus X – The Orange Theme (The Remixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, トランス ]
+tags: [ Techno, Trance ]
 image: ../assets/images/Cygnus X – The Orange Theme (The Remixes).jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Simon & Garfunkel – Sounds Of Silence"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, フォーク ]
+tags: [ Rock, Folk ]
 image: ../assets/images/Simon & Garfunkel – Sounds Of Silence.jpg
 rating: 4.5
 v-rating: VG

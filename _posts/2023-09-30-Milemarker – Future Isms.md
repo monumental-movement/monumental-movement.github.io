@@ -3,7 +3,7 @@ layout: post
 title:  "Milemarker – Future Isms"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, エクスペリメンタル ]
+tags: [ New-Wave, Experimental ]
 image: ../assets/images/Milemarker – Future Isms.jpg
 rating: 4.5
 v-rating: VG

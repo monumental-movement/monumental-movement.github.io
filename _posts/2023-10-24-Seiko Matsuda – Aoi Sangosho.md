@@ -3,7 +3,7 @@ layout: post
 title:  "松田聖子 – 青い珊瑚礁"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, 懐メロ, 7インチ ]
+tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/松田聖子 – 青い珊瑚礁.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Black – More Than The Sun"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ニューウェーブ ]
+tags: [ Rock, New-Wave ]
 image: ../assets/images/Black – More Than The Sun.jpg
 rating: 3.5
 v-rating: VG

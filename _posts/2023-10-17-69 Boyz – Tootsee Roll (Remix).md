@@ -3,7 +3,7 @@ layout: post
 title:  "69 Boyz – Tootsee Roll (Remix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ ]
+tags: [ Hiphop ]
 image: ../assets/images/69 Boyz – Tootsee Roll (Remix).jpg
 rating: 3.5
 v-rating: VG

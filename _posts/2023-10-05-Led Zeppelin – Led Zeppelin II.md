@@ -3,7 +3,7 @@ layout: post
 title:  "Led Zeppelin – Led Zeppelin II"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/Led Zeppelin – Led Zeppelin II.jpg
 rating: 4.5
 v-rating: VG

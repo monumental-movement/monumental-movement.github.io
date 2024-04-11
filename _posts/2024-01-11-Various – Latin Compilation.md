@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Latin Compilation"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ラテン, レゲエ, レゲトン ]
+tags: [ Latin, Reggae, Reggaeton ]
 image: ../assets/images/Various – Latin Compilation.jpg
 rating: 3.5
 v-rating: VG

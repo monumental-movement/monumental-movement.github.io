@@ -3,7 +3,7 @@ layout: post
 title:  "Murphy Brown – Energizer 2002 Part II"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ハードトランス ]
+tags: [ Trance, Hard Trance ]
 image: ../assets/images/Murphy Brown – Energizer 2002 Part II.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "CCP – Hard Work"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, アシッド, 80s ]
+tags: [ House, Acid, 80s ]
 image: ../assets/images/CCP – Hard Work.jpg
 rating: 4.5
 v-rating: VG

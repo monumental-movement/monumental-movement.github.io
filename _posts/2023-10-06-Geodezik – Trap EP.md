@@ -3,7 +3,7 @@ layout: post
 title:  "Geodezik – Trap EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Geodezik – Trap EP.jpg
 rating: 3.5
 v-rating: VG

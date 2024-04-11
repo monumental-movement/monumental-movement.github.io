@@ -3,7 +3,7 @@ layout: post
 title:  "Ken Ishii – Innerelements"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, アンビエント ]
+tags: [ Techno, Ambient ]
 image: ../assets/images/Ken Ishii – Innerelements.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Michel Polnareff – Gift Pack Series"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ポップス, 70s ]
+tags: [ Rock, Pops, 70s ]
 image: ../assets/images/Michel Polnareff – Gift Pack Series.jpg
 rating: 3.5
 v-rating: VG

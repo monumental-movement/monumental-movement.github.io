@@ -3,7 +3,7 @@ layout: post
 title:  "Fun Fun – Gimme Some Loving (House Mix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ディスコ ]
+tags: [ Italo, Disco ]
 image: ../assets/images/Fun Fun – Gimme Some Loving (House Mix).jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Athlete – Westside"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, インディーロック ]
+tags: [ Rock, Indie Rock ]
 image: ../assets/images/Athlete – Westside.jpg
 rating: 3.5
 v-rating: VG

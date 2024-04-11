@@ -3,7 +3,7 @@ layout: post
 title:  "Cari Lekebusch – Universalsessions - Instrumentalicks"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, エレクトロ, 10インチ ]
+tags: [ Techno, Electro, 10inch ]
 image: ../assets/images/Cari Lekebusch – Universalsessions.jpg
 rating: 4.5
 v-rating: VG

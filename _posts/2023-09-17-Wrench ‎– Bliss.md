@@ -3,7 +3,7 @@ layout: post
 title:  "Wrench – Bliss"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ダブ, ミクスチャー ]
+tags: [ Rock, Dub, Mixture ]
 image: ../assets/images/Wrench – Bliss.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Dillinja – Fluid Hard Noize"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース ]
+tags: [ Drum n Bass ]
 image: ../assets/images/Dillinja – Fluid Hard Noize.jpg
 rating: 4.5
 v-rating: VG

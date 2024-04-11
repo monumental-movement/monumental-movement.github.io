@@ -3,7 +3,7 @@ layout: post
 title:  "The Nolans –  Every Home Should Have One"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ディスコ, 懐メロ, 7インチ ]
+tags: [ Disco, Nostalgic, 7inch ]
 image: ../assets/images/The Nolans –  Every Home Should Have One.jpg
 rating: 3.5
 v-rating: VG

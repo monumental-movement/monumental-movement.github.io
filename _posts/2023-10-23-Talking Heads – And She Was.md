@@ -3,7 +3,7 @@ layout: post
 title:  "Talking Heads – And She Was"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, オルタナティブ, 7インチ ]
+tags: [ Rock, Alternative Rock, 7inch ]
 image: ../assets/images/Talking Heads – And She Was.jpg
 rating: 4.5
 v-rating: VG

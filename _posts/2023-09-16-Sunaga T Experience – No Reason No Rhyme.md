@@ -3,7 +3,7 @@ layout: post
 title:  "Sunaga T Experience – No Reason No Rhyme"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, ラウンジ ]
+tags: [ Jazz, Lounge ]
 image: ../assets/images/Sunaga T Experience – No Reason No Rhyme.jpg
 rating: 4.5
 v-rating: VG

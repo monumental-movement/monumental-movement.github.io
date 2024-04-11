@@ -3,7 +3,7 @@ layout: post
 title:  "M – More Drama"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, デトロイトテクノ, トライバル ]
+tags: [ Techno, Detroit Techno, Tribal ]
 image: ../assets/images/M – More Drama.jpg
 rating: 4.5
 v-rating: VG

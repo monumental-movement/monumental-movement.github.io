@@ -3,7 +3,7 @@ layout: post
 title:  "Earth, Wind & Fire – Heritage"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ディスコ, ソウル ]
+tags: [ Disco, Soul ]
 image: ../assets/images/Earth, Wind & Fire – Heritage.jpg
 rating: 4.5
 v-rating: VG

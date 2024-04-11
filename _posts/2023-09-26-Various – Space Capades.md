@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Space Capades"
 author: mmr
 categories: [ CD ]
-tags: [ ラウンジ, コンピレーション ]
+tags: [ Lounge, Compilation ]
 image: ../assets/images/Various – Space Capades.jpg
 rating: 4.5
 v-rating: VG

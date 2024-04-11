@@ -3,7 +3,7 @@ layout: post
 title:  "Elevate – Virtual Dreams  All I Need"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハッピーハードコア ]
+tags: [ Happy Hardcore ]
 image: ../assets/images/Elevate – Virtual Dreams  All I Need.jpg
 rating: 4.5
 v-rating: VG

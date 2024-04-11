@@ -3,7 +3,7 @@ layout: post
 title:  "Rei Harakami – [lust]"
 author: mmr
 categories: [ CD ]
-tags: [ ブレイクビーツ, アンビエント ]
+tags: [ Break Beat, Ambient ]
 image: ../assets/images/Rei Harakami – [lust].jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Shofukutei Tsuruko - Uguisudani Music Hall"
 author: mmr
 categories: [ Vinyl ]
-tags: [ コミックソング, パロディ, 7インチ ]
+tags: [ Comic, Parody, 7inch ]
 image: ../assets/images/笑福亭鶴光 – うぐいすだにミュージックホール ももえちゃん.jpg
 rating: 3.5
 v-rating: VG

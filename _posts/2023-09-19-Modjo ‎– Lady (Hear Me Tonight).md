@@ -3,7 +3,7 @@ layout: post
 title:  "Modjo – Lady (Hear Me Tonight)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディスコ ]
+tags: [ House, Disco ]
 image: ../assets/images/Modjo – Lady (Hear Me Tonight).jpg
 rating: 4.5
 v-rating: VG

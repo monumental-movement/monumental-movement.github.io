@@ -3,7 +3,7 @@ layout: post
 title:  "Slam  Rejuvination – Eterna  I.B.O."
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Slam  Rejuvination – Eterna  I.B.O.jpg
 rating: 4.5
 v-rating: VG

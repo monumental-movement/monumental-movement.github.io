@@ -3,7 +3,7 @@ layout: post
 title:  "Stray Dog – Mirror"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス ]
+tags: [ Trance ]
 image: ../assets/images/Stray Dog – Mirror.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Workshop 04"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ディープハウス, ミニマル ]
+tags: [ Deep House, Minimal ]
 image: ../assets/images/Various – Workshop 04.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Atari Teenage Riot – Revolution Action E.P."
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハードコアテクノ ]
+tags: [ Techno, Hardcore Techno ]
 image: ../assets/images/Atari Teenage Riot – Revolution Action E.P.jpg
 rating: 4.5
 v-rating: VG

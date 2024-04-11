@@ -3,7 +3,7 @@ layout: post
 title:  "Jungle Brothers – Jungllenium Remixes"
 author: mmr
 categories: [ CD ]
-tags: [ ヒップホップ, ドラムンベース ]
+tags: [ Hiphop, Drum n Bass ]
 image: ../assets/images/Jungle Brothers – Jungllenium Remixes.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Junior Vasquez – Be Quiet"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス ]
+tags: [ House, Hard House ]
 image: ../assets/images/Junior Vasquez – Be Quiet.jpg
 rating: 4.5
 v-rating: VG

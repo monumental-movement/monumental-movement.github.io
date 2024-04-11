@@ -3,7 +3,7 @@ layout: post
 title:  "The Haines Gang –So Hot (The Razor's Edge Mix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ シンセポップ, 80's ]
+tags: [ Synth-Pop, 80s ]
 image: ../assets/images/The Haines Gang –So Hot (The Razor's Edge Mix).jpg
 rating: 3.5
 v-rating: VG

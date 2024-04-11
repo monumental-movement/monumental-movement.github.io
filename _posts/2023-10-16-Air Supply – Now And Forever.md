@@ -3,7 +3,7 @@ layout: post
 title:  "Air Supply – Now And Forever"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ソフトロック ]
+tags: [ Rock, Soft Rock ]
 image: ../assets/images/Air Supply – Now And Forever.jpg
 rating: 3.5
 v-rating: VG

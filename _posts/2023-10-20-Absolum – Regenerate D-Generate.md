@@ -3,7 +3,7 @@ layout: post
 title:  "Absolum – Regenerate D-Generate"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, サイケデリック ]
+tags: [ Trance, Psychedelic ]
 image: ../assets/images/Absolum – Regenerate D-Generate.jpg
 rating: 4.5
 v-rating: VG

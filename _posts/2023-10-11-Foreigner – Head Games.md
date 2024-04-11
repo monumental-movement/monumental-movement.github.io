@@ -3,7 +3,7 @@ layout: post
 title:  "Foreigner – Head Games"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/Foreigner – Head Games.jpg
 rating: 3.5
 v-rating: VG

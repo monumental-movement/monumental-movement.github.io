@@ -3,7 +3,7 @@ layout: post
 title:  "Andreas Saag – Jazz Lesson"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ラテン, ジャズ, テクノ ]
+tags: [ Latin, Jazz, Techno ]
 image: ../assets/images/Andreas Saag – Jazz Lesson.jpg
 rating: 4.5
 v-rating: VG

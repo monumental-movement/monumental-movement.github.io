@@ -3,7 +3,7 @@ layout: post
 title:  "The Expression – The Expression"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, ロック ]
+tags: [ New-Wave, Rock ]
 image: ../assets/images/The Expression – The Expression.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Queen – The Game"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ポップス ]
+tags: [ Rock, Pops ]
 image: ../assets/images/Queen – The Game.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Kiss – Destroyer"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック, 80s ]
+tags: [ Rock, Hard Rock, 80s ]
 image: ../assets/images/Kiss – Destroyer.jpg
 rating: 4.5
 v-rating: VG

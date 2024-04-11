@@ -3,7 +3,7 @@ layout: post
 title:  "Robert Plant – Little By Little (Remix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, リミックス, 7インチ ]
+tags: [ Rock, Remix, 7inch ]
 image: ../assets/images/Robert Plant – Little By Little (Remix).jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Super Dense Child – Bedroom Twiddling"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ブレイク, 10インチ ]
+tags: [ Hiphop, Breaks, 10inch ]
 image: ../assets/images/Super Dense Child – Bedroom Twiddling.jpg
 rating: 4.5
 v-rating: VG

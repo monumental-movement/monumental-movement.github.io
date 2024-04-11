@@ -3,7 +3,7 @@ layout: post
 title:  "Mark Tower & Co. – My Desire"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, ハイエナジー ]
+tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Mark Tower and Co. – My Desire.jpg
 rating: 3.5
 v-rating: VG

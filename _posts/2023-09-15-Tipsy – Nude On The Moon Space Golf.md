@@ -3,7 +3,7 @@ layout: post
 title:  "Tipsy – Nude On The Moon Space Golf"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トリップホップ, アシッドジャズ, ブレイクビーツ ]
+tags: [ Triphop, Acid Jazz, Break Beat ]
 image: ../assets/images/Tipsy – Nude On The Moon Space Golf.jpg
 rating: 4.5
 v-rating: VG

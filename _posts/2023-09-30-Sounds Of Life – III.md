@@ -3,7 +3,7 @@ layout: post
 title:  "Sounds Of Life – III"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース ]
+tags: [ Drum n Bass ]
 image: ../assets/images/Sounds Of Life – III.jpg
 rating: 4.5
 v-rating: VG

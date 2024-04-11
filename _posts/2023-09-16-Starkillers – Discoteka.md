@@ -3,7 +3,7 @@ layout: post
 title:  "Starkillers – Discoteka"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロニック, ハウス, エレクトロ ]
+tags: [ Electronic, House, Electro ]
 image: ../assets/images/Starkillers – Discoteka.jpg
 rating: 4.5
 v-rating: VG

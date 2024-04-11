@@ -3,7 +3,7 @@ layout: post
 title:  "二階堂北斗 – Inflame"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド, 90's ]
+tags: [ Techno, Acid, 90s ]
 image: ../assets/images/二階堂北斗 – Inflame.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "AC/DC – Flick Of The Switch"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/ACDC – Flick Of The Switch.jpg
 rating: 4.5
 v-rating: VG

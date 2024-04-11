@@ -3,7 +3,7 @@ layout: post
 title:  "Orange 9mm – Orange 9mm"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハードコア, ポストハードコア ]
+tags: [ Hardcore, Post Hardcore ]
 image: ../assets/images/Orange 9mm – Orange 9mm.jpg
 rating: 3.5
 v-rating: VG

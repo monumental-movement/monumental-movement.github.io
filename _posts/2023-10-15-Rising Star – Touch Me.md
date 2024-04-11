@@ -3,7 +3,7 @@ layout: post
 title:  "Rising Star – Touch Me"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス ]
+tags: [ Trance ]
 image: ../assets/images/Rising Star – Touch Me.jpg
 rating: 3.5
 v-rating: VG

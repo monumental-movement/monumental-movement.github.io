@@ -3,7 +3,7 @@ layout: post
 title:  "Dieselboy – The Director's Cut"
 author: mmr
 categories: [ Cassette ]
-tags: [ ドラムンベース, レア ]
+tags: [ Drum n Bass, Rare ]
 image: ../assets/images/Dieselboy – The Director's Cut.jpg
 rating: 4.5
 v-rating: VG

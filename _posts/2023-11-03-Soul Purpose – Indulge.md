@@ -3,7 +3,7 @@ layout: post
 title:  "Soul Purpose – Indulge"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/Soul Purpose – Indulge.jpg
 rating: 3.5
 v-rating: VG

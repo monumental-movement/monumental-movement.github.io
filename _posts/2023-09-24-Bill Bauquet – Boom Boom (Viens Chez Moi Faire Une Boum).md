@@ -3,7 +3,7 @@ layout: post
 title:  "Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ハイエナジー ]
+tags: [ Italo, Hi NRG ]
 image: ../assets/images/Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum).jpg
 rating: 4.5
 v-rating: VG

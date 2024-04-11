@@ -3,7 +3,7 @@ layout: post
 title:  "Daniel Steinberg – Joy & Happiness EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス, ミニマル ]
+tags: [ House, Deep House, Minimal ]
 image: ../assets/images/Daniel Steinberg – Joy & Happiness EP.jpg
 rating: 4.5
 v-rating: VG

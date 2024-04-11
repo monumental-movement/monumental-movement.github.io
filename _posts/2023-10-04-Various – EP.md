@@ -3,7 +3,7 @@ layout: post
 title:  "Various – EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド ]
+tags: [ Techno, Acid ]
 image: ../assets/images/Various – EP.jpg
 rating: 4.5
 v-rating: VG

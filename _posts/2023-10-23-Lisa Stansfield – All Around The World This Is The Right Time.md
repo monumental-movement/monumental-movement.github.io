@@ -3,7 +3,7 @@ layout: post
 title:  "Lisa Stansfield – All Around The World This Is The Right Time"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ファンク, 7インチ ]
+tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/Lisa Stansfield – All Around The World This Is The Right Time.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Mauro Picotto – Iguana"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ユーロ ]
+tags: [ Trance, Euro ]
 image: ../assets/images/Mauro Picotto – Iguana.jpg
 rating: 4.5
 v-rating: VG

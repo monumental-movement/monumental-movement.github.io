@@ -3,7 +3,7 @@ layout: post
 title:  "Friction – 軋轢"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, パンク ]
+tags: [ Rock, Punk ]
 image: ../assets/images/Friction – 軋轢.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Queen – Sheer Heart Attack"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック ]
+tags: [ Rock ]
 image: ../assets/images/Queen – Sheer Heart Attack.jpg
 rating: 4.5
 v-rating: VG

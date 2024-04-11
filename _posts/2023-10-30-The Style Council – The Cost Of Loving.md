@@ -3,7 +3,7 @@ layout: post
 title:  "The Style Council – The Cost Of Loving"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ポップス, ソウル, シンセポップ ]
+tags: [ Pops, Soul, Synth-Pop ]
 image: ../assets/images/The Style Council – The Cost Of Loving.jpg
 rating: 3.5
 v-rating: VG

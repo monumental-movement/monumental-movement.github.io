@@ -3,7 +3,7 @@ layout: post
 title:  "Stylus Trouble –That Acid Track"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, アシッド ]
+tags: [ House, Acid ]
 image: ../assets/images/Stylus Trouble –That Acid Track.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Ricky Martin – Livin' La Vida Loca"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ポップス ]
+tags: [ House, Pops ]
 image: ../assets/images/Ricky Martin – Livin' La Vida Loca.jpg
 rating: 3.5
 v-rating: VG

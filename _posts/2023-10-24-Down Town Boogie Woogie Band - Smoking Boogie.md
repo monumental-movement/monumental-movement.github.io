@@ -3,7 +3,7 @@ layout: post
 title:  "Down Town Boogie Woogie Band - Smoking Boogie"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, 懐メロ, 7インチ ]
+tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/Down Town Boogie Woogie Band - Smoking Boogie.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Björk – Hyperballad (LFO Mixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, 10インチ, エレクトロニック ]
+tags: [ Techno, 10inch, Electronic ]
 image: ../assets/images/Björk – Hyperballad (LFO Mixes).jpg
 rating: 4.5
 v-rating: VG

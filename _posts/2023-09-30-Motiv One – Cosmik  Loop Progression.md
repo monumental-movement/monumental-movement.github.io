@@ -3,7 +3,7 @@ layout: post
 title:  "Motiv One – Cosmik  Loop Progression"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ドラムンベース ]
+tags: [ Drum n Bass ]
 image: ../assets/images/Motiv One – Cosmik  Loop Progression.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Earth and Fire - Seasons"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, プログレッシブ, 7インチ ]
+tags: [ Rock, Progressive, 7inch ]
 image: ../assets/images/Earth and Fire - Seasons.jpg
 rating: 3.5
 v-rating: VG

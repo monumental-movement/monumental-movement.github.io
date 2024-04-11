@@ -3,7 +3,7 @@ layout: post
 title:  "Funkadelic – Standing On The Verge Of Getting It On"
 author: mmr
 categories: [ Cassette ]
-tags: [ ファンク, ソウル ]
+tags: [ Funk, Soul ]
 image: ../assets/images/Funkadelic – Standing On The Verge Of Getting It On.jpg
 rating: 4.5
 v-rating: VG

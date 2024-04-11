@@ -3,7 +3,7 @@ layout: post
 title:  "Lemare – Good Times"
 author: mmr
 categories: [ Vinyl ]
-tags: [ UKガラージ, ファンク ]
+tags: [ UK Garage, Funk ]
 image: ../assets/images/Lemare – Good Times.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Sambôa – Sambôa"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ボサノヴァ, ラテン ]
+tags: [ Bossa Nova, Latin ]
 image: ../assets/images/Samboa – Samboa.jpg
 rating: 3.5
 v-rating: VG

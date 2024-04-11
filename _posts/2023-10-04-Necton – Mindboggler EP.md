@@ -3,7 +3,7 @@ layout: post
 title:  "Necton – Mindboggler EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ゴアトランス ]
+tags: [ Trance, Goa Trance ]
 image: ../assets/images/Necton – Mindboggler EP.jpg
 rating: 4.5
 v-rating: VG

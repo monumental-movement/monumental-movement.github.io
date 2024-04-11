@@ -3,7 +3,7 @@ layout: post
 title:  "Mahavishnu Orchestra – Birds Of Fire"
 author: mmr
 categories: [ Vinyl ]
-tags: [ フュージョン, ジャズ, ロック ]
+tags: [ Fusion, Jazz, Rock ]
 image: ../assets/images/Mahavishnu Orchestra – Birds Of Fire.jpg
 rating: 3.5
 v-rating: VG

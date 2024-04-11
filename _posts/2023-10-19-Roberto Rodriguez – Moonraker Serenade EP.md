@@ -3,7 +3,7 @@ layout: post
 title:  "Roberto Rodriguez – Moonraker Serenade EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Roberto Rodriguez – Moonraker Serenade EP.jpg
 rating: 4.5
 v-rating: VG

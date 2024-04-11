@@ -3,7 +3,7 @@ layout: post
 title:  "Divine – Native Love (Step By Step)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テクノ ]
+tags: [ House, Techno ]
 image: ../assets/images/Divine – Native Love (Step By Step).jpg
 rating: 3.5
 v-rating: VG

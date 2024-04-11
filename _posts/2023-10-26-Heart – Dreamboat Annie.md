@@ -3,7 +3,7 @@ layout: post
 title:  "Heart – Dreamboat Annie"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/Heart – Dreamboat Annie.jpg
 rating: 3.5
 v-rating: VG

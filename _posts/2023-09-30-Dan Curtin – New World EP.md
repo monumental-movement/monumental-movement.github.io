@@ -3,7 +3,7 @@ layout: post
 title:  "Dan Curtin – New World EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハウス ]
+tags: [ Techno, House ]
 image: ../assets/images/Dan Curtin – New World EP.jpg
 rating: 4.5
 v-rating: VG

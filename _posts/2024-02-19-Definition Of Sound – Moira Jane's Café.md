@@ -3,7 +3,7 @@ layout: post
 title:  "Definition Of Sound – Moira Jane's Café"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, UKハウス, 90s ]
+tags: [ House, UK House, 90s ]
 image: ../assets/images/Definition Of Sound – Moira Jane's Café.jpg
 rating: 4.5
 v-rating: VG

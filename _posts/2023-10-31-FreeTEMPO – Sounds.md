@@ -3,7 +3,7 @@ layout: post
 title:  "FreeTEMPO – Sounds"
 author: mmr
 categories: [ CD ]
-tags: [ ハウス, エレクトロ, ダウンテンポ ]
+tags: [ House, Electro, Downtempo ]
 image: ../assets/images/FreeTEMPO – Sounds.jpg
 rating: 3.5
 v-rating: VG

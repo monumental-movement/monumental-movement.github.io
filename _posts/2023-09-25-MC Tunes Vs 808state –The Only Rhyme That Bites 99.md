@@ -3,7 +3,7 @@ layout: post
 title:  "MC Tunes Vs 808state –The Only Rhyme That Bites 99"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テクノ, トライバル ]
+tags: [ House, Techno, Tribal ]
 image: ../assets/images/MC Tunes Vs 808state –The Only Rhyme That Bites 99.jpg
 rating: 4.5
 v-rating: VG

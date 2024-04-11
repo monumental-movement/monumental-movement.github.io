@@ -3,7 +3,7 @@ layout: post
 title:  "Max Coo & Steve Coo – Boogie Dancer"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, イタロ, ハイエナジー ]
+tags: [ Euro Beat, Italo, Hi NRG ]
 image: ../assets/images/Max Coo & Steve Coo – Boogie Dancer.jpg
 rating: 4.5
 v-rating: VG

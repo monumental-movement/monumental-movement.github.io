@@ -3,7 +3,7 @@ layout: post
 title:  "Zeni Geva – 10000 Light Years"
 author: mmr
 categories: [ CD ]
-tags: [ ノイズ, プログレッシブ, ロック ]
+tags: [ Noise, Progressive, Rock ]
 image: ../assets/images/Zeni Geva – 10000 Light Years.jpg
 rating: 3.5
 v-rating: VG

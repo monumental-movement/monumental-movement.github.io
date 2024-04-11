@@ -3,7 +3,7 @@ layout: post
 title:  "New Order – Someone Like You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブ ]
+tags: [ House, Progressive ]
 image: ../assets/images/New Order – Someone Like You.jpg
 rating: 4.5
 v-rating: VG

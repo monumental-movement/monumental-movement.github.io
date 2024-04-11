@@ -3,7 +3,7 @@ layout: post
 title:  "Bio-Tonic – Rock Da People"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, サイケデリック ]
+tags: [ Trance, Psychedelic ]
 image: ../assets/images/Bio-Tonic – Rock Da People.jpg
 rating: 4.5
 v-rating: VG

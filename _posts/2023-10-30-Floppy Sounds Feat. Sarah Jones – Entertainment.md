@@ -3,7 +3,7 @@ layout: post
 title:  "Floppy Sounds Feat. Sarah Jones – Entertainment"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Floppy Sounds Feat. Sarah Jones – Entertainment.jpg
 rating: 3.5
 v-rating: VG

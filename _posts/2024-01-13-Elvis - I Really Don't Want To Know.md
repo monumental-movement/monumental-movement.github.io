@@ -3,7 +3,7 @@ layout: post
 title:  "Elvis - I Really Don't Want To Know"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, 懐メロ, 7インチ ]
+tags: [ Rock, Nostalgic, 7inch ]
 image: ../assets/images/Elvis - I Really Don't Want To Know.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Union Jack – Cactus Morning Glory"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Union Jack – Cactus Morning Glory.jpg
 rating: 4.5
 v-rating: VG

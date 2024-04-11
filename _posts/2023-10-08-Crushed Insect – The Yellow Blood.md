@@ -3,7 +3,7 @@ layout: post
 title:  "Crushed Insect – The Yellow Blood"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, エレクトロ ]
+tags: [ Techno, Electro ]
 image: ../assets/images/Crushed Insect – The Yellow Blood.jpg
 rating: 4.5
 v-rating: VG

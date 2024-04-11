@@ -3,7 +3,7 @@ layout: post
 title:  "Skinny Puppy – 12 Inch Anthology"
 author: mmr
 categories: [ Vinyl ]
-tags: [ EBM, 90s, デジタルロック ]
+tags: [ EBM, 90s, Digital Rock ]
 image: ../assets/images/Skinny Puppy – 12 Inch Anthology.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "James Brown -  It's A Man's Man's World"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ファンク, 7インチ ]
+tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown -  It's A Man's Man's World.jpg
 rating: 3.5
 v-rating: VG

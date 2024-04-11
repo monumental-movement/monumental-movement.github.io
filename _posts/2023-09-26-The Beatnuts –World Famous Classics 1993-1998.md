@@ -3,7 +3,7 @@ layout: post
 title:  "The Beatnuts –World Famous Classics 1993-1998"
 author: mmr
 categories: [ CD ]
-tags: [ ヒップホップ, コンピレーション ]
+tags: [ Hiphop, Compilation ]
 image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
 rating: 3.5
 v-rating: VG

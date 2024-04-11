@@ -3,7 +3,7 @@ layout: post
 title:  "Tomita – Cosmos"
 author: mmr
 categories: [ Vinyl ]
-tags: [ アンビエント, クラシック ]
+tags: [ Ambient, Classic ]
 image: ../assets/images/Tomita – Cosmos.jpg
 rating: 3.5
 v-rating: VG

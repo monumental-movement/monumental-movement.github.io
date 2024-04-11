@@ -3,7 +3,7 @@ layout: post
 title:  "South Central – Nothing Can Go Wrong"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロ, グリッチ, 00s ]
+tags: [ Electro, Glitch, 00s ]
 image: ../assets/images/South Central – Nothing Can Go Wrong.jpg
 rating: 4.5
 v-rating: VG

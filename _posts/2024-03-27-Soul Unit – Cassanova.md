@@ -3,7 +3,7 @@ layout: post
 title:  "Soul Unit – Cassanova"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ラテン, 00s ]
+tags: [ Hiphop, Latin, 00s ]
 image: ../assets/images/Soul Unit – Cassanova.jpg
 rating: 4.5
 v-rating: VG

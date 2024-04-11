@@ -3,7 +3,7 @@ layout: post
 title:  "Channel X – So High"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロハウス, ユーロビート ]
+tags: [ Euro House, Euro Beat ]
 image: ../assets/images/Channel X – So High.jpg
 rating: 3.5
 v-rating: VG

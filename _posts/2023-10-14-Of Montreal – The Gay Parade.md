@@ -3,7 +3,7 @@ layout: post
 title:  "Of Montreal – The Gay Parade"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, サイケデリック ]
+tags: [ Rock, Psychedelic ]
 image: ../assets/images/Of Montreal – The Gay Parade.jpg
 rating: 3.5
 v-rating: VG

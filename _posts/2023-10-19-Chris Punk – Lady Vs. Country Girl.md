@@ -3,7 +3,7 @@ layout: post
 title:  "Chris Punk – Lady Vs. Country Girl"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, リミックス ]
+tags: [ House, Remix ]
 image: ../assets/images/Chris Punk – Lady Vs. Country Girl.jpg
 rating: 3.5
 v-rating: VG

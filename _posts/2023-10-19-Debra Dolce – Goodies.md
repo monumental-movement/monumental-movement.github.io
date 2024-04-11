@@ -3,7 +3,7 @@ layout: post
 title:  "Debra Dolce – Goodies"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, エレクトロ ]
+tags: [ House, Electro ]
 image: ../assets/images/Debra Dolce – Goodies.jpg
 rating: 3.5
 v-rating: VG

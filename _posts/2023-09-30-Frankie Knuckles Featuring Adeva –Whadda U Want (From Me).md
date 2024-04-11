@@ -3,7 +3,7 @@ layout: post
 title:  "Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ガラージ ]
+tags: [ House, Garage ]
 image: ../assets/images/Frankie Knuckles Featuring Adeva –Whadda U Want (From Me).jpg
 rating: 4.5
 v-rating: VG

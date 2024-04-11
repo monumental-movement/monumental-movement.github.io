@@ -3,7 +3,7 @@ layout: post
 title:  "Momo – Make Me Happy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロ, ポップス, 00s ]
+tags: [ Electro, Pops, 00s ]
 image: ../assets/images/Momo – Make Me Happy.jpg
 rating: 4.5
 v-rating: VG

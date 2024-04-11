@@ -3,7 +3,7 @@ layout: post
 title:  "The Lassie Foundation – Pacifico"
 author: mmr
 categories: [ Vinyl ]
-tags: [ シューゲイザー, レア ]
+tags: [ Shoegaze, Rare ]
 image: ../assets/images/The Lassie Foundation – Pacifico.jpg
 rating: 4.5
 v-rating: VG

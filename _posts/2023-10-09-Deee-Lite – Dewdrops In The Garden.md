@@ -3,7 +3,7 @@ layout: post
 title:  "Deee-Lite – Dewdrops In The Garden"
 author: mmr
 categories: [ CD ]
-tags: [ ハウス, ヒップホップ ]
+tags: [ House, Hiphop ]
 image: ../assets/images/Deee-Lite – Dewdrops In The Garden.jpg
 rating: 3.5
 v-rating: VG

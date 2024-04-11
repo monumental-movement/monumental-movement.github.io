@@ -3,7 +3,7 @@ layout: post
 title:  "Spiritualized – Ladies And Gentlemen We Are Floating In Space"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, ポストロック ]
+tags: [ Rock, Post Rock ]
 image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating In Space.jpg
 rating: 3.5
 v-rating: VG

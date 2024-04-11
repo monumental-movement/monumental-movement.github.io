@@ -3,7 +3,7 @@ layout: post
 title:  "Tina – There Must Be An Angel"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, ソウル ]
+tags: [ JPop, Soul ]
 image: ../assets/images/Tina – There Must Be An Angel.jpg
 rating: 4.5
 v-rating: VG

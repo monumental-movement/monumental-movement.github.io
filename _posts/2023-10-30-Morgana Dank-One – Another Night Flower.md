@@ -3,7 +3,7 @@ layout: post
 title:  "Morgana Dank-One – Another Night Flower"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス ]
+tags: [ Trance ]
 image: ../assets/images/Morgana Dank-One – Another Night Flower.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハッピーハードコア, ユーロビート ]
+tags: [ Happy Hardcore, Euro Beat ]
 image: ../assets/images/DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx).jpg
 rating: 4.5
 v-rating: VG

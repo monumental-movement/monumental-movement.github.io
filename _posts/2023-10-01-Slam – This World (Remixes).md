@@ -3,7 +3,7 @@ layout: post
 title:  "Slam – This World (Remixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Slam – This World (Remixes).jpg
 rating: 4.5
 v-rating: VG

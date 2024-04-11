@@ -3,7 +3,7 @@ layout: post
 title:  "Vinylgroover – The World Of Vinylgroover (Part One)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハッピーハードコア, ハードコア ]
+tags: [ Happy Hardcore, Hardcore ]
 image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).jpg
 rating: 3.5
 v-rating: VG

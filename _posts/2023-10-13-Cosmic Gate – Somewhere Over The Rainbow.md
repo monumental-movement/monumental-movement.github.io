@@ -3,7 +3,7 @@ layout: post
 title:  "Cosmic Gate – Somewhere Over The Rainbow"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ハードトランス ]
+tags: [ Trance, Hard Trance ]
 image: ../assets/images/Cosmic Gate – Somewhere Over The Rainbow.jpg
 rating: 3.5
 v-rating: VG

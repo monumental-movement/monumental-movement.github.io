@@ -3,7 +3,7 @@ layout: post
 title:  "Saturnalia – Greenpeace Release"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハッピーハードコア, ハードコア ]
+tags: [ Happy Hardcore, Hardcore ]
 image: ../assets/images/Saturnalia – Greenpeace Release.jpg
 rating: 3.5
 v-rating: VG

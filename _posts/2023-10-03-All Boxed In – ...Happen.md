@@ -3,7 +3,7 @@ layout: post
 title:  "All Boxed In – ...Happen"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/All Boxed In – ...Happen.jpg
 rating: 3.5
 v-rating: VG

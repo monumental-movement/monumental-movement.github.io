@@ -3,7 +3,7 @@ layout: post
 title:  "Act Four - Carat Trax 1 – Carat Trax 1"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, 90s ]
+tags: [ Trance, 90s ]
 image: ../assets/images/Act Four - Carat Trax 1 – Carat Trax 1.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "The Beatnuts – Take It Or Squeeze It"
 author: mmr
 categories: [ CD ]
-tags: [ ヒップホップ, ラップ ]
+tags: [ Hiphop, Rap ]
 image: ../assets/images/The Beatnuts – Take It Or Squeeze It.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Mark De Clive-Lowe – Six Degrees"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ラテン ]
+tags: [ House, Latin ]
 image: ../assets/images/Mark De Clive-Lowe – Six Degrees.jpg
 rating: 3.5
 v-rating: VG

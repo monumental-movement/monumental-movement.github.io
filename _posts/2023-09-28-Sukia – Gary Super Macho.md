@@ -3,7 +3,7 @@ layout: post
 title:  "Sukia – Gary Super Macho"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, トリップホップ ]
+tags: [ Hiphop, Triphop ]
 image: ../assets/images/Sukia – Gary Super Macho.jpg
 rating: 4.5
 v-rating: VG

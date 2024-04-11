@@ -3,7 +3,7 @@ layout: post
 title:  "Public Enemy – Apocalypse 91... The Enemy Strikes Black"
 author: mmr
 categories: [ Cassette ]
-tags: [ ヒップホップ, クラシック ]
+tags: [ Hiphop, Classic ]
 image: ../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Black.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Giorgio Moroder – Evolution Get On Down"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディスコ ]
+tags: [ House, Disco ]
 image: ../assets/images/Giorgio Moroder – Evolution Get On Down.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "The Bee Gees – Massachusetts"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ポップス, ロック, 7インチ ]
+tags: [ Pops, Rock, 7inch ]
 image: ../assets/images/The Bee Gees – Massachusetts.jpg
 rating: 3.5
 v-rating: VG

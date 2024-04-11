@@ -3,7 +3,7 @@ layout: post
 title:  "Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of"
 author: mmr
 categories: [ Cassette ]
-tags: [ ヒップホップ, クラシック ]
+tags: [ Hiphop, Classic ]
 image: ../assets/images/Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of.jpg
 rating: 4.5
 v-rating: VG

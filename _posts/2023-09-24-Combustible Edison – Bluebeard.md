@@ -3,7 +3,7 @@ layout: post
 title:  "Combustible Edison – Bluebeard"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ダウンテンポ, ラテン ]
+tags: [ Downtempo, Latin ]
 image: ../assets/images/Combustible Edison – Bluebeard.jpg
 rating: 4.5
 v-rating: VG

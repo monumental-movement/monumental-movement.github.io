@@ -3,7 +3,7 @@ layout: post
 title:  "3rd Moon – Diving In The Sky"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/3rd Moon – Diving In The Sky.jpg
 rating: 4.5
 v-rating: VG

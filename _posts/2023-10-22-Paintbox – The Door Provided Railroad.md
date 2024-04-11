@@ -3,7 +3,7 @@ layout: post
 title:  "Paintbox – The Door  Provided Railroad"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハードコア, パンク, 7インチ ]
+tags: [ Hardcore, Punk, 7inch ]
 image: ../assets/images/Paintbox – The Door Provided Railroad.jpg
 rating: 3.5
 v-rating: VG

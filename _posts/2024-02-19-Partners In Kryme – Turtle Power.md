@@ -3,7 +3,7 @@ layout: post
 title:  "Partners In Kryme – Turtle Power"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ラップ, 90s ]
+tags: [ Hiphop, Rap, 90s ]
 image: ../assets/images/Partners In Kryme – Turtle Power.jpg
 rating: 4.5
 v-rating: VG

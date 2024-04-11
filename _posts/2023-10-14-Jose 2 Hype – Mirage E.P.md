@@ -3,7 +3,7 @@ layout: post
 title:  "Jose 2 Hype – Mirage E.P"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス ]
+tags: [ House, Hard House ]
 image: ../assets/images/Jose 2 Hype – Mirage E.P.jpg
 rating: 3.5
 v-rating: VG

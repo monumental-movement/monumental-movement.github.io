@@ -3,7 +3,7 @@ layout: post
 title:  "The Junkies & Nathan Barato – The Big Smoke"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/The Junkies & Nathan Barato – The Big Smoke.jpg
 rating: 3.5
 v-rating: VG

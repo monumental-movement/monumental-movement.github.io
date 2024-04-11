@@ -3,7 +3,7 @@ layout: post
 title:  "Scooter – Call Me Mañana"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハッピーハードコア, トランス ]
+tags: [ Happy Hardcore, Trance ]
 image: ../assets/images/Scooter – Call Me Manana.jpg
 rating: 3.5
 v-rating: VG

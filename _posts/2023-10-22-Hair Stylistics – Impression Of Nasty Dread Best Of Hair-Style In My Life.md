@@ -3,7 +3,7 @@ layout: post
 title:  "Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ノイズ, エクスペリメンタル, 7インチ ]
+tags: [ Noise, Experimental, 7inch ]
 image: ../assets/images/Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life.jpg
 rating: 3.5
 v-rating: VG

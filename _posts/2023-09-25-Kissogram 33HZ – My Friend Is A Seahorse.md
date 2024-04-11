@@ -3,7 +3,7 @@ layout: post
 title:  "Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Kissogram 33HZ – My Friend Is A Seahorse.jpg
 rating: 4.5
 v-rating: VG

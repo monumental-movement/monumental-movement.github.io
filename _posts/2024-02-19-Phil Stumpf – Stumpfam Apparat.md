@@ -3,7 +3,7 @@ layout: post
 title:  "Phil Stumpf – Stumpfam Apparat"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ミニマル, テクノ, 00s ]
+tags: [ Minimal, Techno, 00s ]
 image: ../assets/images/Phil Stumpf – Stumpfam Apparat.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Slyder – Neo (The One)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, レア ]
+tags: [ Trance, Rare ]
 image: ../assets/images/Slyder – Neo (The One).jpg
 rating: 4.5
 v-rating: VG

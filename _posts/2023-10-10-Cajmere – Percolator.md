@@ -3,7 +3,7 @@ layout: post
 title:  "Cajmere – Percolator"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テクノ ]
+tags: [ House, Techno ]
 image: ../assets/images/Cajmere – Percolator.jpg
 rating: 4.5
 v-rating: VG

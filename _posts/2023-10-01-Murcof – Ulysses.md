@@ -3,7 +3,7 @@ layout: post
 title:  "Murcof – Ulysses"
 author: mmr
 categories: [ Vinyl ]
-tags: [ アンビエント, ミニマル ]
+tags: [ Ambient, Minimal ]
 image: ../assets/images/Murcof – Ulysses.jpg
 rating: 4.5
 v-rating: VG

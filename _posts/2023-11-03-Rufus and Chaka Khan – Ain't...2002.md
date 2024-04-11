@@ -3,7 +3,7 @@ layout: post
 title:  "Rufus & Chaka Khan – Ain't...2002"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, 00s ]
+tags: [ House, 00s ]
 image: ../assets/images/Rufus and Chaka Khan – Ain't...2002.jpg
 rating: 3.5
 v-rating: VG

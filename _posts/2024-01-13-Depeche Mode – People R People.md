@@ -3,7 +3,7 @@ layout: post
 title:  "Depeche Mode – People R People"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, レア, ニューウェーブ ]
+tags: [ House, Rare, New-Wave ]
 image: ../assets/images/Depeche Mode – People R People.jpg
 rating: 4.5
 v-rating: VG

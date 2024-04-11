@@ -3,7 +3,7 @@ layout: post
 title:  "Atmosfear – Motivation (Dimitri From Paris Remixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス, 90s ]
+tags: [ House, Deep House, 90s ]
 image: ../assets/images/Atmosfear – Motivation (Dimitri From Paris Remixes).jpg
 rating: 4.5
 v-rating: VG

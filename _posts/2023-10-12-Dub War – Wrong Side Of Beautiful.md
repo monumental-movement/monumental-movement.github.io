@@ -3,7 +3,7 @@ layout: post
 title:  "Dub War – Wrong Side Of Beautiful"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ダブ, レゲエ ]
+tags: [ Dub, Reggae ]
 image: ../assets/images/Dub War – Wrong Side Of Beautiful.jpg
 rating: 3.5
 v-rating: VG

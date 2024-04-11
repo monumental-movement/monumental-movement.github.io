@@ -3,7 +3,7 @@ layout: post
 title:  "Basic Elements – T-E-C-H-N-O"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ハウス ]
+tags: [ Techno, House ]
 image: ../assets/images/Basic Elements – T-E-C-H-N-O.jpg
 rating: 3.5
 v-rating: VG

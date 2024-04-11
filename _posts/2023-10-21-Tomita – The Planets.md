@@ -3,7 +3,7 @@ layout: post
 title:  "Tomita – The Planets"
 author: mmr
 categories: [ Vinyl ]
-tags: [ アンビエント, クラシック ]
+tags: [ Ambient, Classic ]
 image: ../assets/images/Tomita – The Planets.jpg
 rating: 3.5
 v-rating: VG

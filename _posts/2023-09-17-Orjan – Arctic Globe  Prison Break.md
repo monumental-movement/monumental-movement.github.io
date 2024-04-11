@@ -3,7 +3,7 @@ layout: post
 title:  "Orjan – Arctic Globe  Prison Break"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, EDM ]
+tags: [ Trance, EDM ]
 image: ../assets/images/Orjan – Arctic Globe  Prison Break.jpg
 rating: 4.5
 v-rating: VG

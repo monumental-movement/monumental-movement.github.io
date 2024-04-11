@@ -3,7 +3,7 @@ layout: post
 title:  "Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ファンク, ディスコ ]
+tags: [ Funk, Disco ]
 image: ../assets/images/Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender.jpg
 rating: 3.5
 v-rating: VG

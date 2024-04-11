@@ -3,7 +3,7 @@ layout: post
 title:  "Fun Fun – Baila Bolero"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ディスコ ]
+tags: [ Italo, Disco ]
 image: ../assets/images/Fun Fun – Baila Bolero.jpg
 rating: 3.5
 v-rating: VG

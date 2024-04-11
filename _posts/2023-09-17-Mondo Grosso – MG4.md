@@ -3,7 +3,7 @@ layout: post
 title:  "Mondo Grosso – MG4"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, 大沢伸一, ラウンジ ]
+tags: [ House, Lounge ]
 image: ../assets/images/Mondo Grosso – MG4.jpg
 rating: 4.5
 v-rating: VG

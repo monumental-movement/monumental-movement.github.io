@@ -3,7 +3,7 @@ layout: post
 title:  "Depth Charge – Depth Charge"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ ]
+tags: [ Break Beat ]
 image: ../assets/images/Depth Charge – Depth Charge.jpg
 rating: 3.5
 v-rating: VG

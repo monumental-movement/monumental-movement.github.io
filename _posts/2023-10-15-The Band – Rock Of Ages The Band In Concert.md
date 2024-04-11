@@ -3,7 +3,7 @@ layout: post
 title:  "The Band – Rock Of Ages The Band In Concert"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, フォーク ]
+tags: [ Rock, Folk ]
 image: ../assets/images/The Band – Rock Of Ages The Band In Concert.jpg
 rating: 4.5
 v-rating: VG

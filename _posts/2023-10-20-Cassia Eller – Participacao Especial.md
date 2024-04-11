@@ -3,7 +3,7 @@ layout: post
 title:  "Cássia Eller – Participaçāo Especial"
 author: mmr
 categories: [ CD ]
-tags: [ ポップス, ロック ]
+tags: [ Pops, Rock ]
 image: ../assets/images/Cassia Eller – Participacao Especial.jpg
 rating: 3.5
 v-rating: VG

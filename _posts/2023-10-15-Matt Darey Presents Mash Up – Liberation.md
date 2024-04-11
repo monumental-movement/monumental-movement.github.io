@@ -3,7 +3,7 @@ layout: post
 title:  "Matt Darey Presents Mash Up – Liberation"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス ]
+tags: [ Trance ]
 image: ../assets/images/Matt Darey Presents Mash Up – Liberation.jpg
 rating: 3.5
 v-rating: VG

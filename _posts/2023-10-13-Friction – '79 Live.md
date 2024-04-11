@@ -3,7 +3,7 @@ layout: post
 title:  "Friction – '79 Live"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, パンク ]
+tags: [ Rock, Punk ]
 image: ../assets/images/Friction – '79 Live.jpg
 rating: 4.5
 v-rating: VG

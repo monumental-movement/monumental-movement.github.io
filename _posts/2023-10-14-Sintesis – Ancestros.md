@@ -3,7 +3,7 @@ layout: post
 title:  "Sintesis – Ancestros"
 author: mmr
 categories: [ CD ]
-tags: [ アフロキューバン, ジャズ, ラテン ]
+tags: [ Afro-Cuban, Jazz, Latin ]
 image: ../assets/images/Sintesis – Ancestros.jpg
 rating: 3.5
 v-rating: VG

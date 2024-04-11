@@ -3,7 +3,7 @@ layout: post
 title:  "Klangwerk – Die Kybernauten"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, テクノ ]
+tags: [ Trance, Techno ]
 image: ../assets/images/Klangwerk – Die Kybernauten.jpg
 rating: 3.5
 v-rating: VG

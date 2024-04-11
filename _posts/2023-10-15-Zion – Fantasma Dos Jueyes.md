@@ -3,7 +3,7 @@ layout: post
 title:  "Zion – Fantasma Dos Jueyes"
 author: mmr
 categories: [ Vinyl ]
-tags: [ スピードコア, ハードコア ]
+tags: [ Speedcore, Hardcore ]
 image: ../assets/images/Zion – Fantasma Dos Jueyes.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Samuel L – Day n' Night"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アンセム, 00s ]
+tags: [ Techno, Anthem, 00s ]
 image: ../assets/images/Samuel L – Day n' Night.jpg
 rating: 4.5
 v-rating: VG

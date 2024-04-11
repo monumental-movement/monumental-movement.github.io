@@ -3,7 +3,7 @@ layout: post
 title:  "Derreck Simons – Doctor And The Medic"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート ]
+tags: [ Euro Beat ]
 image: ../assets/images/Derreck Simons – Doctor And The Medic.jpg
 rating: 3.5
 v-rating: VG

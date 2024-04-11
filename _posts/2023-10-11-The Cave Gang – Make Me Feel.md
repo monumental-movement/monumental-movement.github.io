@@ -3,7 +3,7 @@ layout: post
 title:  "The Cave Gang – Make Me Feel"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ハイパーテクノ ]
+tags: [ Italo, Hyper Techno ]
 image: ../assets/images/The Cave Gang – Make Me Feel.jpg
 rating: 3.5
 v-rating: VG

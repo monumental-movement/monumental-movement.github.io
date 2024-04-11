@@ -3,7 +3,7 @@ layout: post
 title:  "RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner"
 author: mmr
 categories: [ Vinyl ]
-tags: [ スラッシュ, ハードコア, パンク ]
+tags: [ Thrash, Hardcore, Punk ]
 image: ../assets/images/RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner.jpg
 rating: 3.5
 v-rating: VG

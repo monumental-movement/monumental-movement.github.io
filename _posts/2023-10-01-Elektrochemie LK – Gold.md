@@ -3,7 +3,7 @@ layout: post
 title:  "Elektrochemie LK – Gold!"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ジャーマンテクノ ]
+tags: [ Techno, German Techno ]
 image: ../assets/images/Elektrochemie LK – Gold.jpg
 rating: 4.5
 v-rating: VG

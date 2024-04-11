@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Volume 1, Program 6"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, ハウス ]
+tags: [ New-Wave, House ]
 image: ../assets/images/Various – Volume 1, Program 6.jpg
 rating: 3.5
 v-rating: VG

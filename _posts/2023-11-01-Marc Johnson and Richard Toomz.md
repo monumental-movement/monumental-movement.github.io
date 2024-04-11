@@ -3,7 +3,7 @@ layout: post
 title:  "Marc Johnson & Richard Toomz"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス ]
+tags: [ House, Hard House ]
 image: ../assets/images/Marc Johnson and Richard Toomz.jpg
 rating: 3.5
 v-rating: VG

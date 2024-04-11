@@ -3,7 +3,7 @@ layout: post
 title:  "El Cubano – Samba Nueva"
 author: mmr
 categories: [ Vinyl ]
-tags: [ サンバ, ラテン, ユーロハウス ]
+tags: [ Samba, Latin, Euro House ]
 image: ../assets/images/El Cubano – Samba Nueva.jpg
 rating: 4.5
 v-rating: VG

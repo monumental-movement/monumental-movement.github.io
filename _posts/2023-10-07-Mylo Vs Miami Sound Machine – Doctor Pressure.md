@@ -3,7 +3,7 @@ layout: post
 title:  "Mylo Vs Miami Sound Machine – Doctor Pressure"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, エレクトロ ]
+tags: [ House, Electro ]
 image: ../assets/images/Mylo Vs Miami Sound Machine – Doctor Pressure.jpg
 rating: 3.5
 v-rating: VG

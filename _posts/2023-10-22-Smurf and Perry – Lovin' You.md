@@ -3,7 +3,7 @@ layout: post
 title:  "Smurf & Perry – Lovin' You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Smurf and Perry – Lovin' You.jpg
 rating: 3.5
 v-rating: VG

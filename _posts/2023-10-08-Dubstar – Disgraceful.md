@@ -3,7 +3,7 @@ layout: post
 title:  "Dubstar – Disgraceful"
 author: mmr
 categories: [ CD ]
-tags: [ シンセポップ ]
+tags: [ Synth-Pop ]
 image: ../assets/images/Dubstar – Disgraceful.jpg
 rating: 3.5
 v-rating: VG

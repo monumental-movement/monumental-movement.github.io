@@ -3,7 +3,7 @@ layout: post
 title:  "Calm – People From The Sun And The Earth"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, アンビエント, バレアリック ]
+tags: [ House, Ambient, Balearic ]
 image: ../assets/images/Calm – People From The Sun And The Earth.jpg
 rating: 3.5
 v-rating: VG

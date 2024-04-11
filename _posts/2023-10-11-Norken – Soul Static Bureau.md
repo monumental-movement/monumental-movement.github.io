@@ -3,7 +3,7 @@ layout: post
 title:  "Norken – Soul Static Bureau"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル, レア ]
+tags: [ Techno, Minimal, Rare ]
 image: ../assets/images/Norken – Soul Static Bureau.jpg
 rating: 4.5
 v-rating: VG

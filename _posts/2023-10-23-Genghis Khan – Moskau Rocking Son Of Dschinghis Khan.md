@@ -3,7 +3,7 @@ layout: post
 title:  "Genghis Khan – Moskau Rocking Son Of Dschinghis Khan"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ディスコ, 70s, 7インチ ]
+tags: [ Disco, 70s, 7inch ]
 image: ../assets/images/Genghis Khan – Moskau Rocking Son Of Dschinghis Khan.jpg
 rating: 3.5
 v-rating: VG

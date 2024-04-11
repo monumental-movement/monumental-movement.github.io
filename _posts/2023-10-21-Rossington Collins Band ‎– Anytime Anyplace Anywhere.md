@@ -3,7 +3,7 @@ layout: post
 title:  "Rossington Collins Band – Anytime Anyplace Anywhere"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ハードロック ]
+tags: [ Rock, Hard Rock ]
 image: ../assets/images/Rossington Collins Band – Anytime Anyplace Anywhere.jpg
 rating: 3.5
 v-rating: VG

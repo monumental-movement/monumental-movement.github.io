@@ -3,7 +3,7 @@ layout: post
 title:  "Cold Sensation – Belgian Musictrain"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニュービート ]
+tags: [ New Beat ]
 image: ../assets/images/Cold Sensation – Belgian Musictrain.jpg
 rating: 3.5
 v-rating: VG

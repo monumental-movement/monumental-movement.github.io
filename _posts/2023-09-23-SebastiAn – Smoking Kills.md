@@ -3,7 +3,7 @@ layout: post
 title:  "SebastiAn – Smoking Kills"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, エレクトロ ]
+tags: [ House, Electro ]
 image: ../assets/images/SebastiAn – Smoking Kills.jpg
 rating: 4.5
 v-rating: VG

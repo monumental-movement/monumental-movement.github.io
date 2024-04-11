@@ -3,7 +3,7 @@ layout: post
 title:  "Band Aid – Do They Know It's Christmas"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ポップス ]
+tags: [ Rock, Pops ]
 image: ../assets/images/Band Aid – Do They Know It's Christmas.jpg
 rating: 4.5
 v-rating: VG

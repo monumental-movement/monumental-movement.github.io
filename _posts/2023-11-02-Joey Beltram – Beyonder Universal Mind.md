@@ -3,7 +3,7 @@ layout: post
 title:  "Joey Beltram – Beyonder / Universal Mind"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, USテクノ, 00s ]
+tags: [ Techno, US Techno, 00s ]
 image: ../assets/images/Joey Beltram – Beyonder Universal Mind.jpg
 rating: 4.5
 v-rating: VG

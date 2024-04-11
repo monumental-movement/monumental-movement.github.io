@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Totally Wired Nine"
 author: mmr
 categories: [ Vinyl ]
-tags: [ アシッドジャズ, ジャズ, 90s ]
+tags: [ Acid Jazz, Jazz, 90s ]
 image: ../assets/images/Various – Totally Wired Nine.jpg
 rating: 4.5
 v-rating: VG

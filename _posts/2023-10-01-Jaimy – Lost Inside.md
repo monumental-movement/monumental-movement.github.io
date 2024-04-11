@@ -3,7 +3,7 @@ layout: post
 title:  "Jaimy – Lost Inside"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/Jaimy – Lost Inside.jpg
 rating: 4.5
 v-rating: VG

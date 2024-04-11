@@ -3,7 +3,7 @@ layout: post
 title:  "Sunseeker Feat. Crystal Waters – Nights In Egypt"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, エレクトロニック, 00s ]
+tags: [ House, Electronic, 00s ]
 image: ../assets/images/Sunseeker Feat. Crystal Waters – Nights In Egypt.jpg
 rating: 4.5
 v-rating: VG

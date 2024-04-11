@@ -3,7 +3,7 @@ layout: post
 title:  "Exdream – Fight Fire With Fire"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, イタロ ]
+tags: [ Euro Beat, Italo ]
 image: ../assets/images/Exdream – Fight Fire With Fire.jpg
 rating: 4.5
 v-rating: VG

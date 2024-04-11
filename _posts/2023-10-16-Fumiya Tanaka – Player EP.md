@@ -3,7 +3,7 @@ layout: post
 title:  "Fumiya Tanaka – Player EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, トライバル ]
+tags: [ Techno, Tribal ]
 image: ../assets/images/Fumiya Tanaka – Player EP.jpg
 rating: 3.5
 v-rating: VG

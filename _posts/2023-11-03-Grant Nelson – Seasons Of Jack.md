@@ -3,7 +3,7 @@ layout: post
 title:  "Grant Nelson – Seasons Of Jack"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/Grant Nelson – Seasons Of Jack.jpg
 rating: 3.5
 v-rating: VG

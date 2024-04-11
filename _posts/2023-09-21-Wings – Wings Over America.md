@@ -3,7 +3,7 @@ layout: post
 title:  "Wings – Wings Over America"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ビートルズ ]
+tags: [ Rock ]
 image: ../assets/images/Wings – Wings Over America.jpg
 rating: 4.5
 v-rating: VG

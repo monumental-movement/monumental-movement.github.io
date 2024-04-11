@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Isolated Audio Players EP2"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, IDM, レフトフィールド ]
+tags: [ Break Beat, IDM, Leftfield ]
 image: ../assets/images/Various – Isolated Audio Players EP2.jpg
 rating: 4.5
 v-rating: VG

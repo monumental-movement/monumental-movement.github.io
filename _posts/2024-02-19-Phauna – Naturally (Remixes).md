@@ -3,7 +3,7 @@ layout: post
 title:  "Phauna – Naturally (Remixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス, 00s ]
+tags: [ House, Deep House, 00s ]
 image: ../assets/images/Phauna – Naturally (Remixes).jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Scot Project – O"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, アンセム ]
+tags: [ Trance, Anthem ]
 image: ../assets/images/DJ Scot Project – O.jpg
 rating: 3.5
 v-rating: VG

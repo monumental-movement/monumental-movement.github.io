@@ -3,7 +3,7 @@ layout: post
 title:  "Shantel – EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, フューチャージャズ ]
+tags: [ House, Future Jazz ]
 image: ../assets/images/Shantel – EP.jpg
 rating: 3.5
 v-rating: VG

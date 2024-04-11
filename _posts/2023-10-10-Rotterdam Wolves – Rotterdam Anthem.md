@@ -3,7 +3,7 @@ layout: post
 title:  "Rotterdam Wolves – Rotterdam Anthem"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ガバ ]
+tags: [ Techno, Gabber ]
 image: ../assets/images/Rotterdam Wolves – Rotterdam Anthem.jpg
 rating: 4.5
 v-rating: VG

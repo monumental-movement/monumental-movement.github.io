@@ -3,7 +3,7 @@ layout: post
 title:  "Glow – I Am Gonna Be"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ユーロハウス ]
+tags: [ House, Euro House ]
 image: ../assets/images/Glow – I Am Gonna Be.jpg
 rating: 3.5
 v-rating: VG

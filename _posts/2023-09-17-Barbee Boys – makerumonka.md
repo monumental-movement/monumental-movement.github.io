@@ -3,7 +3,7 @@ layout: post
 title:  "Barbee Boys – 負けるもんか"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, 80's, ロック ]
+tags: [ JPop, 80s, Rock ]
 image: ../assets/images/Barbee Boys – 負けるもんか.jpg
 rating: 4.5
 v-rating: VG

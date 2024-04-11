@@ -3,7 +3,7 @@ layout: post
 title:  "STS9 – Artifact"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビート, ドラムンベース, ジャズ ]
+tags: [ Break Beat, Drum n Bass, Jazz ]
 image: ../assets/images/STS9 – Artifact.jpg
 rating: 4.5
 v-rating: VG

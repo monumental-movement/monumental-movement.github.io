@@ -3,7 +3,7 @@ layout: post
 title:  "Lou Reed – New York"
 author: mmr
 categories: [ Cassette ]
-tags: [ パンク, アートロック ]
+tags: [ Punk, Art Rock ]
 image: ../assets/images/Lou Reed – New York.jpg
 rating: 4.5
 v-rating: VG

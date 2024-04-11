@@ -3,7 +3,7 @@ layout: post
 title:  "Denki Groove – Dragon EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, Jポップ ]
+tags: [ Techno, JPop ]
 image: ../assets/images/Denki Groove – Dragon EP.jpg
 rating: 4.5
 v-rating: VG

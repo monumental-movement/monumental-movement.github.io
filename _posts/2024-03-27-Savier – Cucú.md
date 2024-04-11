@@ -3,7 +3,7 @@ layout: post
 title:  "Savier – Cucú"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ラテン, ユーロ ]
+tags: [ House, Latin, Euro ]
 image: ../assets/images/Savier – Cucú.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Bag Raiders – The Bag Raiders EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス, エレクトロニック ]
+tags: [ House, Tech House, Electronic ]
 image: ../assets/images/Bag Raiders – The Bag Raiders EP.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Bobby Moore and The Rhythm Aces – Searching For My Love"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ファンク, 7インチ ]
+tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/Bobby Moore and The Rhythm Aces – Searching For My Love.jpg
 rating: 4.5
 v-rating: VG

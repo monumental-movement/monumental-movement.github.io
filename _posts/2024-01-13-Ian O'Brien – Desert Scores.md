@@ -3,7 +3,7 @@ layout: post
 title:  "Ian O'Brien – Desert Scores"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テックジャズ, テクノ, ジャズ ]
+tags: [ Tech Jazz, Techno, Jazz ]
 image: ../assets/images/Ian O'Brien – Desert Scores.jpg
 rating: 4.5
 v-rating: VG

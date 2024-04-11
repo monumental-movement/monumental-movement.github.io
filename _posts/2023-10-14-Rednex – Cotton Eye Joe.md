@@ -3,7 +3,7 @@ layout: post
 title:  "Rednex – Cotton Eye Joe"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロハウス, シンセポップ ]
+tags: [ Euro House, Synth-Pop ]
 image: ../assets/images/Rednex – Cotton Eye Joe.jpg
 rating: 3.5
 v-rating: VG

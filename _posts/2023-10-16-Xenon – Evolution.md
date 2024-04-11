@@ -3,7 +3,7 @@ layout: post
 title:  "Xenon – Evolution"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ディスコ ]
+tags: [ Italo, Disco ]
 image: ../assets/images/Xenon – Evolution.jpg
 rating: 4.5
 v-rating: VG

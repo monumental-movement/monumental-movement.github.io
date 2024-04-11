@@ -3,7 +3,7 @@ layout: post
 title:  "Frank Stallone - Far From Over"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ポップス, 7インチ ]
+tags: [ Rock, Pops, 7inch ]
 image: ../assets/images/Frank Stallone - Far From Over.jpg
 rating: 3.5
 v-rating: VG

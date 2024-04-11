@@ -3,7 +3,7 @@ layout: post
 title:  "Junior Senior – Hey Hey My My Yo Yo"
 author: mmr
 categories: [ CD ]
-tags: [ シンセポップ, ディスコ ]
+tags: [ Synth-Pop, Disco ]
 image: ../assets/images/Junior Senior – Hey Hey My My Yo Yo.jpg
 rating: 3.5
 v-rating: VG

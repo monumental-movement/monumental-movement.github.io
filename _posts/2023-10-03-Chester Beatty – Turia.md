@@ -3,7 +3,7 @@ layout: post
 title:  "Chester Beatty – Turia"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Chester Beatty – Turia.jpg
 rating: 4.5
 v-rating: VG

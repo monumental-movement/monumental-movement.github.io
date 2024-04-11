@@ -3,7 +3,7 @@ layout: post
 title:  "Afrika Bambaataa And Westbam – Agharta"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, エレクトロ ]
+tags: [ Techno, Electro ]
 image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.jpg
 rating: 4.5
 v-rating: VG

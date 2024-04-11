@@ -3,7 +3,7 @@ layout: post
 title:  "Track Star -Sometimes, What's The Difference"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ノイズ, 10インチ ]
+tags: [ Rock, Noise, 10inch ]
 image: ../assets/images/Track Star -Sometimes, What's The Difference.jpg
 rating: 3.5
 v-rating: VG

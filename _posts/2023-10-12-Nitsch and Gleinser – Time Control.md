@@ -3,7 +3,7 @@ layout: post
 title:  "Nitsch and Gleinser – Time Control"
 author: mmr
 categories: [ Vinyl ]
-tags: [ エレクトロ, シンセポップ ]
+tags: [ Electro, Synth-Pop ]
 image: ../assets/images/Nitsch and Gleinser – Time Control.jpg
 rating: 3.5
 v-rating: VG

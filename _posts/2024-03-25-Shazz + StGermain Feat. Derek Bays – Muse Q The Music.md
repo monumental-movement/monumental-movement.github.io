@@ -3,7 +3,7 @@ layout: post
 title:  "Shazz + StGermain Feat. Derek Bays – Muse Q The Music"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ジャズ, ディープハウス ]
+tags: [ House, Jazz, Deep House ]
 image: ../assets/images/Shazz + StGermain Feat. Derek Bays – Muse Q The Music.jpg
 rating: 4.5
 v-rating: VG

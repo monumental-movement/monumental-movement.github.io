@@ -3,7 +3,7 @@ layout: post
 title:  "Joey Beltram – The Rising Sun（Tresor 214）"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, ミックス ]
+tags: [ Techno, Mix ]
 image: ../assets/images/Joey Beltram – The Rising Sun（Tresor 214）.jpg
 rating: 4.5
 v-rating: VG

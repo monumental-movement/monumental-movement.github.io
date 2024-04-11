@@ -3,7 +3,7 @@ layout: post
 title:  "Dusty Kid – Beyond That Hill"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Dusty Kid – Beyond That Hill.jpg
 rating: 4.5
 v-rating: VG

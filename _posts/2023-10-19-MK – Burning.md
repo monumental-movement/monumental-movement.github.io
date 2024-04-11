@@ -3,7 +3,7 @@ layout: post
 title:  "MK – Burning"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, アンセム ]
+tags: [ House, Anthem ]
 image: ../assets/images/MK – Burning.jpg
 rating: 3.5
 v-rating: VG

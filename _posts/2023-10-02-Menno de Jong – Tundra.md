@@ -3,7 +3,7 @@ layout: post
 title:  "Menno de Jong – Tundra"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Menno de Jong – Tundra.jpg
 rating: 3.5
 v-rating: VG

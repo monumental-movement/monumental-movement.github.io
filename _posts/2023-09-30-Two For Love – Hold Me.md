@@ -3,7 +3,7 @@ layout: post
 title:  "Two For Love – Hold Me"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, ユーロビート ]
+tags: [ Italo, Euro Beat ]
 image: ../assets/images/Two For Love – Hold Me.jpg
 rating: 4.5
 v-rating: VG

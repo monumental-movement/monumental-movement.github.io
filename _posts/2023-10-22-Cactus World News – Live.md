@@ -3,7 +3,7 @@ layout: post
 title:  "Cactus World News – Live"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, オルタナティブ ]
+tags: [ Rock, Alternative Rock ]
 image: ../assets/images/Cactus World News – Live.jpg
 rating: 3.5
 v-rating: VG

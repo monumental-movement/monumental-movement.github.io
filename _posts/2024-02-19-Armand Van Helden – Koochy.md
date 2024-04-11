@@ -3,7 +3,7 @@ layout: post
 title:  "Armand Van Helden – Koochy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス,ブレイクビート, 00s ]
+tags: [ House, Break Beat, 00s ]
 image: ../assets/images/Armand Van Helden – Koochy.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Kaori – In My phone Head (DJ Kawasaki Remix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Kaori – In My phone Head (DJ Kawasaki Remix).jpg
 rating: 4.5
 v-rating: VG

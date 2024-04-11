@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Viennatone"
 author: mmr
 categories: [ CD ]
-tags: [ ブレイク, ミニマル ]
+tags: [ Breaks, Minimal ]
 image: ../assets/images/Various – Viennatone.jpg
 rating: 4.5
 v-rating: VG

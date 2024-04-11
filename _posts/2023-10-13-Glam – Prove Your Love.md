@@ -3,7 +3,7 @@ layout: post
 title:  "Glam – Prove Your Love"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロビート, レア ]
+tags: [ Euro Beat, Rare ]
 image: ../assets/images/Glam – Prove Your Love.jpg
 rating: 4.5
 v-rating: VG

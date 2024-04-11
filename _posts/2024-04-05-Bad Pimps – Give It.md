@@ -3,7 +3,7 @@ layout: post
 title:  "Bad Pimps – Give It"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, テックハウス, ジャーマンテクノ ]
+tags: [ Techno, Tech House, German Techno ]
 image: ../assets/images/Bad Pimps – Give It.jpg
 rating: 4.5
 v-rating: VG

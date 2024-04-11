@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Mod.Cooperate.Two"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ミニマル, グリッチ ]
+tags: [ House, Minimal, Glitch ]
 image: ../assets/images/Various – Mod.Cooperate.Two.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Tommy Brown – Feelings"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ダウンテンポ, イタロ ]
+tags: [ Downtempo, Italo ]
 image: ../assets/images/Tommy Brown – Feelings.jpg
 rating: 3.5
 v-rating: VG

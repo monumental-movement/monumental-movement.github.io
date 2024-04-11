@@ -3,7 +3,7 @@ layout: post
 title:  "ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵"
 author: mmr
 categories: [ Vinyl ]
-tags: [ アニメ主題歌, Jポップ, 7インチ ]
+tags: [ Theme, JPop, 7inch ]
 image: ../assets/images/Isao Sasaki - Yamato.jpg
 rating: 3.5
 v-rating: VG

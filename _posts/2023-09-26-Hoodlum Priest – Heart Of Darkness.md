@@ -3,7 +3,7 @@ layout: post
 title:  "Hoodlum Priest – Heart Of Darkness"
 author: mmr
 categories: [ CD ]
-tags: [ ヒップホップ, レフトフィールド ]
+tags: [ Hiphop, Left-Filed ]
 image: ../assets/images/Hoodlum Priest – Heart Of Darkness.jpg
 rating: 4.5
 v-rating: VG

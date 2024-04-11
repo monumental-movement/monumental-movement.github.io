@@ -3,7 +3,7 @@ layout: post
 title:  "Quietman – Plastic Gourd Tranquil"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, テクノ, アシッド ]
+tags: [ Trance, Techno, Acid ]
 image: ../assets/images/Quietman – Plastic Gourd Tranquil.jpg
 rating: 3.5
 v-rating: VG

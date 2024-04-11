@@ -3,7 +3,7 @@ layout: post
 title:  "Empirion – Jesus Christ"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド, 10インチ ]
+tags: [ Techno, Acid, 10inch ]
 image: ../assets/images/Empirion – Jesus Christ.jpg
 rating: 4.5
 v-rating: VG

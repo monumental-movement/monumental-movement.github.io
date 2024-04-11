@@ -3,7 +3,7 @@ layout: post
 title:  "The Brothers Johnson – Kick It To The Curb"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ファンク, ソウル ]
+tags: [ Funk, Soul ]
 image: ../assets/images/The Brothers Johnson – Kick It To The Curb.jpg
 rating: 4.5
 v-rating: VG

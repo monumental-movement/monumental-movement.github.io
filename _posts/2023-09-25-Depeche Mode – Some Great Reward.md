@@ -3,7 +3,7 @@ layout: post
 title:  "Depeche Mode – Some Great Reward"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, ポストパンク ]
+tags: [ New-Wave, Post Punk ]
 image: ../assets/images/Depeche Mode – Some Great Reward.jpg
 rating: 4.5
 v-rating: VG

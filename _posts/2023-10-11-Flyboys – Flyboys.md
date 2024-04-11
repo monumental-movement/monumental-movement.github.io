@@ -3,7 +3,7 @@ layout: post
 title:  "Flyboys – Flyboys"
 author: mmr
 categories: [ Vinyl ]
-tags: [ パンク, ロック ]
+tags: [ Punk, Rock ]
 image: ../assets/images/Flyboys – Flyboys.jpg
 rating: 3.5
 v-rating: VG

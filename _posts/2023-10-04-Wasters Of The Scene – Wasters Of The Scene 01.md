@@ -3,7 +3,7 @@ layout: post
 title:  "Wasters Of The Scene – Wasters Of The Scene 01"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス ]
+tags: [ House, Hard House ]
 image: ../assets/images/Wasters Of The Scene – Wasters Of The Scene 01.jpg
 rating: 4.5
 v-rating: VG

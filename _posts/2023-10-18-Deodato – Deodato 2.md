@@ -3,7 +3,7 @@ layout: post
 title:  "Deodato – Deodato 2"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ファンク ]
+tags: [ Funk ]
 image: ../assets/images/Deodato – Deodato 2.jpg
 rating: 3.5
 v-rating: VG

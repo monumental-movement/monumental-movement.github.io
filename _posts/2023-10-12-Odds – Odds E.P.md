@@ -3,7 +3,7 @@ layout: post
 title:  "Odds – Odds E.P"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ゴアトランス ]
+tags: [ Trance, Goa Trance ]
 image: ../assets/images/Odds – Odds E.P.jpg
 rating: 3.5
 v-rating: VG

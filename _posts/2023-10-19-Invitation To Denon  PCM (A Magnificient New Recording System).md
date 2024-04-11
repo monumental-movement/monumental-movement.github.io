@@ -3,7 +3,7 @@ layout: post
 title:  "Invitation To Denon PCM (A Magnificient New Recording System)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ クラシック, コンピレーション ]
+tags: [ Classic, Compilation ]
 image: ../assets/images/Invitation To Denon PCM (A Magnificient New Recording System).jpg
 rating: 3.5
 v-rating: VG

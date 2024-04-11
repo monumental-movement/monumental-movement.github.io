@@ -3,7 +3,7 @@ layout: post
 title:  "Squeeze – Babylon And On"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ポストパンク ]
+tags: [ Rock, Post Punk ]
 image: ../assets/images/Squeeze – Babylon And On.jpg
 rating: 4.5
 v-rating: VG

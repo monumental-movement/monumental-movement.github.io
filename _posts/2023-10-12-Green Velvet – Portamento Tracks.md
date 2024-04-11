@@ -3,7 +3,7 @@ layout: post
 title:  "Green Velvet – Portamento Tracks"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テクノ ]
+tags: [ House, Techno ]
 image: ../assets/images/Green Velvet – Portamento Tracks.jpg
 rating: 3.5
 v-rating: VG

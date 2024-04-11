@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Nozawa + Capital – Ai Autumn Oak"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ ]
+tags: [ Hiphop ]
 image: ../assets/images/DJ Nozawa + Capital – Ai Autumn Oak.jpg
 rating: 3.5
 v-rating: VG

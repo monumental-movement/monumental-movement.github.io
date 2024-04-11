@@ -3,7 +3,7 @@ layout: post
 title:  "Suicidal Tendencies – Lights...Camera...Revolution"
 author: mmr
 categories: [ Cassette ]
-tags: [ ハードコア, パンク ]
+tags: [ Hardcore, Punk ]
 image: ../assets/images/Suicidal Tendencies – Lights...Camera...Revolution.jpg
 rating: 4.5
 v-rating: VG

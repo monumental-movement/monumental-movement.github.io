@@ -3,7 +3,7 @@ layout: post
 title:  "Santessa – Eyes On You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ダウンテンポ, フューチャージャズ, 00s ]
+tags: [ Downtempo, Future Jazz, 00s ]
 image: ../assets/images/Santessa – Eyes On You.jpg
 rating: 4.5
 v-rating: VG

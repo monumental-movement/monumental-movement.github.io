@@ -3,7 +3,7 @@ layout: post
 title:  "Synapsi feat Conny Lee – Are You Leaving Me"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, イタロ ]
+tags: [ Techno, Italo ]
 image: ../assets/images/Synapsi feat Conny Lee – Are You Leaving Me.jpg
 rating: 4.5
 v-rating: VG

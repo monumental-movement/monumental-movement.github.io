@@ -3,7 +3,7 @@ layout: post
 title:  "Mauro Picotto & Riccardo Ferri –Alchemist EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Mauro Picotto & Riccardo Ferri –Alchemist EP.jpg
 rating: 4.5
 v-rating: VG

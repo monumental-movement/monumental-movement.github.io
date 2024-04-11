@@ -3,7 +3,7 @@ layout: post
 title:  "Snuff – Flibbiddydibbiddydob"
 author: mmr
 categories: [ Vinyl ]
-tags: [ パンク, ロック ]
+tags: [ Punk, Rock ]
 image: ../assets/images/Snuff – Flibbiddydibbiddydob.jpg
 rating: 4.5
 v-rating: VG

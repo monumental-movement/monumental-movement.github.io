@@ -3,7 +3,7 @@ layout: post
 title:  "Girl Eats Boy – Thrilled By Velocity and Distortion"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, UKハウス ]
+tags: [ House, UK House ]
 image: ../assets/images/Girl Eats Boy – Thrilled By Velocity and Distortion.jpg
 rating: 3.5
 v-rating: VG

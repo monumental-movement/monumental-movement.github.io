@@ -3,7 +3,7 @@ layout: post
 title:  "Lo-Fidelity Allstars – Disco Machine Gun"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ビッグビート, トリップホップ ]
+tags: [ Big Beat, Triphop ]
 image: ../assets/images/Lo-Fidelity Allstars – Disco Machine Gun.jpg
 rating: 4.5
 v-rating: VG

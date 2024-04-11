@@ -3,7 +3,7 @@ layout: post
 title:  "Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine"
 author: mmr
 categories: [ CD ]
-tags: [ ボサノヴァ, ジャズ ]
+tags: [ Bossa Nova, Jazz ]
 image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine.jpg
 rating: 4.5
 v-rating: VG

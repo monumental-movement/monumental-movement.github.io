@@ -3,7 +3,7 @@ layout: post
 title:  "Spork – Freek Like Me"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブハウス, 00s ]
+tags: [ House, Progressive House, 00s ]
 image: ../assets/images/Spork – Freek Like Me.jpg
 rating: 4.5
 v-rating: VG

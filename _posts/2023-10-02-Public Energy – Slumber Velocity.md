@@ -3,7 +3,7 @@ layout: post
 title:  "Public Energy – Slumber Velocity"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド ]
+tags: [ Techno, Acid ]
 image: ../assets/images/Public Energy – Slumber Velocity.jpg
 rating: 4.5
 v-rating: VG

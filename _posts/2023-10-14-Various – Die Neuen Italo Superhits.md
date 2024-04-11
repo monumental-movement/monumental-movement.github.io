@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Die Neuen Italo Superhits"
 author: mmr
 categories: [ Vinyl ]
-tags: [ イタロ, コンピレーション ]
+tags: [ Italo, Compilation ]
 image: ../assets/images/Various – Die Neuen Italo Superhits.jpg
 rating: 3.5
 v-rating: VG

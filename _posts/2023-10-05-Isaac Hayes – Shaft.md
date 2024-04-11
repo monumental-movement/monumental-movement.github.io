@@ -3,7 +3,7 @@ layout: post
 title:  "Isaac Hayes – Shaft"
 author: mmr
 categories: [ Cassette ]
-tags: [ ソウル, ジャズ, ファンク ]
+tags: [ Soul, Jazz, Funk ]
 image: ../assets/images/Isaac Hayes – Shaft.jpg
 rating: 4.5
 v-rating: VG

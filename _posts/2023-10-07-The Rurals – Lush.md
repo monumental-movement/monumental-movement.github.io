@@ -3,7 +3,7 @@ layout: post
 title:  "The Rurals – Lush"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/The Rurals – Lush.jpg
 rating: 3.5
 v-rating: VG

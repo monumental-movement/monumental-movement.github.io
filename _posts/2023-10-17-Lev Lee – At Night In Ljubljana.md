@@ -3,7 +3,7 @@ layout: post
 title:  "Lev Lee – At Night In Ljubljana"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Lev Lee – At Night In Ljubljana.jpg
 rating: 3.5
 v-rating: VG

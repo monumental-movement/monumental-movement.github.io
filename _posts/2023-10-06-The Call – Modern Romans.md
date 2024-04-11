@@ -3,7 +3,7 @@ layout: post
 title:  "The Call – Modern Romans"
 author: mmr
 categories: [ Cassette ]
-tags: [ ロック, ニューウェーブ ]
+tags: [ Rock, New-Wave ]
 image: ../assets/images/The Call – Modern Romans.jpg
 rating: 4.5
 v-rating: VG

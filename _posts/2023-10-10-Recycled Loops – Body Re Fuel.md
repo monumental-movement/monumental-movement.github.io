@@ -3,7 +3,7 @@ layout: post
 title:  "Recycled Loops – Body Re Fuel"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, テックハウス ]
+tags: [ Techno, Tech House ]
 image: ../assets/images/Recycled Loops – Body Re Fuel.jpg
 rating: 4.5
 v-rating: VG

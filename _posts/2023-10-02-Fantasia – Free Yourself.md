@@ -3,7 +3,7 @@ layout: post
 title:  "Fantasia – Free Yourself"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Fantasia – Free Yourself.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Stellar Project Feat. Brandi Emma – Get Up Stand Up"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, トランス, 00s ]
+tags: [ House, Trance, 00s ]
 image: ../assets/images/Stellar Project Feat. Brandi Emma – Get Up Stand Up.jpg
 rating: 4.5
 v-rating: VG

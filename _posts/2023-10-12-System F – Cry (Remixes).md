@@ -3,7 +3,7 @@ layout: post
 title:  "System F – Cry (Remixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ダッチトランス ]
+tags: [ Trance, Dutch Trance ]
 image: ../assets/images/System F – Cry (Remixes).jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "The Communards – Red"
 author: mmr
 categories: [ Cassette ]
-tags: [ シンセポップ, ポップス ]
+tags: [ Synth-Pop, Pops ]
 image: ../assets/images/The Communards – Red.jpg
 rating: 4.5
 v-rating: VG

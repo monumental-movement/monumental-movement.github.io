@@ -3,7 +3,7 @@ layout: post
 title:  "Panjabi MC – Mundian To Bach Ke"
 author: mmr
 categories: [ Vinyl ]
-tags: [ バングラ, ヒップホップ ]
+tags: [ Bhangra, Hiphop ]
 image: ../assets/images/Panjabi MC – Mundian To Bach Ke.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Various – We Are Reasonable People"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, ダウンテンポ ]
+tags: [ Techno, Downtempo ]
 image: ../assets/images/Various – We Are Reasonable People.jpg
 rating: 3.5
 v-rating: VG

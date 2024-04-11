@@ -3,7 +3,7 @@ layout: post
 title:  "Nobukazu Takemura – Meteor"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Nobukazu Takemura – Meteor.jpg
 rating: 4.5
 v-rating: VG

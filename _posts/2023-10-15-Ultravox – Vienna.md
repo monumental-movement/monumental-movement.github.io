@@ -3,7 +3,7 @@ layout: post
 title:  "Ultravox – Vienna"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, シンセポップ ]
+tags: [ New-Wave, Synth-Pop ]
 image: ../assets/images/Ultravox – Vienna.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "C-Mos – 2 Million Ways"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス ]
+tags: [ House ]
 image: ../assets/images/C-Mos – 2 Million Ways.jpg
 rating: 3.5
 v-rating: VG

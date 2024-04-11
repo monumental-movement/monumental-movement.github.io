@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Total House Commitment EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ディープハウス ]
+tags: [ House, Deep House ]
 image: ../assets/images/Various – Total House Commitment EP.jpg
 rating: 4.5
 v-rating: VG

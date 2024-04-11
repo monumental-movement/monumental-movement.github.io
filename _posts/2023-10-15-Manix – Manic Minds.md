@@ -3,7 +3,7 @@ layout: post
 title:  "Manix – Manic Minds"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ブレイクビーツ ]
+tags: [ Techno, Break Beat ]
 image: ../assets/images/Manix – Manic Minds.jpg
 rating: 4.5
 v-rating: VG

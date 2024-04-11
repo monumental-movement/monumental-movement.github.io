@@ -3,7 +3,7 @@ layout: post
 title:  "Zoo Brazil – Selected"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Zoo Brazil – Selected.jpg
 rating: 3.5
 v-rating: VG

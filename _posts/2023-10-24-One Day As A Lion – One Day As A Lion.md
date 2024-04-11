@@ -3,7 +3,7 @@ layout: post
 title:  "One Day As A Lion – One Day As A Lion"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, ヒップホップ, オルタナティブ ]
+tags: [ Rock, Hiphop, Alternative Rock ]
 image: ../assets/images/One Day As A Lion – One Day As A Lion.jpg
 rating: 3.5
 v-rating: VG

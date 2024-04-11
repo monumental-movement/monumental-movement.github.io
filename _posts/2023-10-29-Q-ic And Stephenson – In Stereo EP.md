@@ -3,7 +3,7 @@ layout: post
 title:  "Q-ic And Stephenson – In Stereo EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アブストラクト ]
+tags: [ Techno, Abstract ]
 image: ../assets/images/Q-ic And Stephenson – In Stereo EP.jpg
 rating: 4.5
 v-rating: VG

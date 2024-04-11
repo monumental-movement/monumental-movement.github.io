@@ -3,7 +3,7 @@ layout: post
 title:  "Cheap Trick – In Color"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, ポップス ]
+tags: [ Rock, Pops ]
 image: ../assets/images/Cheap Trick – In Color.jpg
 rating: 3.5
 v-rating: VG

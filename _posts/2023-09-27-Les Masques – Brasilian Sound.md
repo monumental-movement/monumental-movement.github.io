@@ -3,7 +3,7 @@ layout: post
 title:  "Les Masques – Brasilian Sound"
 author: mmr
 categories: [ CD ]
-tags: [ ボサノヴァ, ジャズ ]
+tags: [ Bossa Nova, Jazz ]
 image: ../assets/images/Les Masques – Brasilian Sound.jpg
 rating: 3.5
 v-rating: VG

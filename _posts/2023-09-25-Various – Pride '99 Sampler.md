@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Pride '99 Sampler"
 author: mmr
 categories: [ Cassette ]
-tags: [ サンプル, レア ]
+tags: [ Sample, Rare ]
 image: ../assets/images/Various – Pride '99 Sampler.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Isotonik – The Isotonik E.P"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ブレイクビーツ, ハードコア ]
+tags: [ Break Beat, Hardcore ]
 image: ../assets/images/Isotonik – The Isotonik E.P.jpg
 rating: 3.5
 v-rating: VG

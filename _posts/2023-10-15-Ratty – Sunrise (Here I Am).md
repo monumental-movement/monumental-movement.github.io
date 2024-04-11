@@ -3,7 +3,7 @@ layout: post
 title:  "Ratty – Sunrise (Here I Am)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ハードトランス ]
+tags: [ Trance, Hard Trance ]
 image: ../assets/images/Ratty – Sunrise (Here I Am).jpg
 rating: 3.5
 v-rating: VG

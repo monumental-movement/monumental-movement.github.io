@@ -3,7 +3,7 @@ layout: post
 title:  "2CB, Subhead & Jamie Lidell – 8"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, UKテクノ ]
+tags: [ Techno, UK Techno ]
 image: ../assets/images/2CB, Subhead & Jamie Lidell – 8.jpg
 rating: 4.5
 v-rating: VG

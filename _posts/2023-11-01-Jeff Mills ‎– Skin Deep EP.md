@@ -3,7 +3,7 @@ layout: post
 title:  "Jeff Mills – Skin Deep EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, デトロイトテクノ ]
+tags: [ Techno, Detroit Techno ]
 image: ../assets/images/Jeff Mills – Skin Deep EP.jpg
 rating: 4.5
 v-rating: VG

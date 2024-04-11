@@ -3,7 +3,7 @@ layout: post
 title:  "Baby Blue – Too Loud"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, ハードハウス, UKハウス ]
+tags: [ House, Hard House, UK House ]
 image: ../assets/images/Baby Blue – Too Loud.jpg
 rating: 4.5
 v-rating: VG

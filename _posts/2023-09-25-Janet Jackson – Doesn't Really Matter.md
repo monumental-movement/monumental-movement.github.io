@@ -3,7 +3,7 @@ layout: post
 title:  "Janet Jackson – Doesn't Really Matter"
 author: mmr
 categories: [ Cassette ]
-tags: [ ハウス, ポップス ]
+tags: [ House, Pops ]
 image: ../assets/images/Janet Jackson – Doesn't Really Matter.jpg
 rating: 4.5
 v-rating: VG

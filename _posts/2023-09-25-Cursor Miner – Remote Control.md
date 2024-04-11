@@ -3,7 +3,7 @@ layout: post
 title:  "Cursor Miner – Remote Control"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, レフトフィールド ]
+tags: [ Techno, Leftfield ]
 image: ../assets/images/Cursor Miner – Remote Control.jpg
 rating: 4.5
 v-rating: VG

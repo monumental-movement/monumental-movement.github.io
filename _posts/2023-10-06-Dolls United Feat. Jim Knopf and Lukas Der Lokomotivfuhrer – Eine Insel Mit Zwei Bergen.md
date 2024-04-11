@@ -3,7 +3,7 @@ layout: post
 title:  "Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit Zwei Bergen"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ユーロハウス, ハウス ]
+tags: [ Euro House, House ]
 image: ../assets/images/Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit Zwei Bergen.jpg
 rating: 3.5
 v-rating: VG

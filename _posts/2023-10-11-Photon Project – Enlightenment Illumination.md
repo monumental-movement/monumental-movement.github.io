@@ -3,7 +3,7 @@ layout: post
 title:  "Photon Project – Enlightenment Illumination"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, プログレッシブ ]
+tags: [ Trance, Progressive ]
 image: ../assets/images/Photon Project – Enlightenment Illumination.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Elvis Costello And The Attractions – Let Them All Talk"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニューウェーブ, ロック, 80s ]
+tags: [ New-Wave, Rock, 80s ]
 image: ../assets/images/Elvis Costello And The Attractions – Let Them All Talk.jpg
 rating: 4.5
 v-rating: VG

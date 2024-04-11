@@ -3,7 +3,7 @@ layout: post
 title:  "Hiroki Esashika – Kazane"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, テックハウス ]
+tags: [ Techno, Tech House ]
 image: ../assets/images/Hiroki Esashika – Kazane.jpg
 rating: 3.5
 v-rating: VG

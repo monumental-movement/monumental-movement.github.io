@@ -3,7 +3,7 @@ layout: post
 title:  "Culture Beat – No Deeper Meaning"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ニュービート, ユーロビート ]
+tags: [ New Beat, Euro Beat ]
 image: ../assets/images/Culture Beat – No Deeper Meaning.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "サディスティック・ミカ・バンド – 黒船"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, サイケデリック ]
+tags: [ Rock, Psychedelic ]
 image: ../assets/images/サディスティック・ミカ・バンド – 黒船.jpg
 rating: 4.5
 v-rating: VG

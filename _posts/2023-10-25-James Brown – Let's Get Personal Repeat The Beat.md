@@ -3,7 +3,7 @@ layout: post
 title:  "James Brown – Let's Get Personal Repeat The Beat"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ファンク, 7インチ ]
+tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown – Let's Get Personal Repeat The Beat.jpg
 rating: 3.5
 v-rating: VG

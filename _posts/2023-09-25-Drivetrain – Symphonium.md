@@ -3,7 +3,7 @@ layout: post
 title:  "Drivetrain – Symphonium"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, デトロイト ]
+tags: [ Techno, Detroit ]
 image: ../assets/images/Drivetrain – Symphonium.jpg
 rating: 4.5
 v-rating: VG

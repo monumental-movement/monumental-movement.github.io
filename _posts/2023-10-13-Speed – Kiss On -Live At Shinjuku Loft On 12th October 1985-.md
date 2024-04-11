@@ -3,7 +3,7 @@ layout: post
 title:  "Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-"
 author: mmr
 categories: [ CD ]
-tags: [ ロック, パンク ]
+tags: [ Rock, Punk ]
 image: ../assets/images/Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-.jpg
 rating: 3.5
 v-rating: VG

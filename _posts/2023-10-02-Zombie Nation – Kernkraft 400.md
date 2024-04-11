@@ -3,7 +3,7 @@ layout: post
 title:  "Zombie Nation – Kernkraft 400"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, エレクトロ ]
+tags: [ Trance, Electro ]
 image: ../assets/images/Zombie Nation – Kernkraft 400.jpg
 rating: 4.5
 v-rating: VG

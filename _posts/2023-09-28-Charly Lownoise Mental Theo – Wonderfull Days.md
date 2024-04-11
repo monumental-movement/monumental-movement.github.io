@@ -3,7 +3,7 @@ layout: post
 title:  "Charly Lownoise Mental Theo – Wonderfull Days"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハッピーハードコア ]
+tags: [ Happy Hardcore ]
 image: ../assets/images/Charly Lownoise Mental Theo – Wonderfull Days.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Peter Murphy – Should The World Fail To Fall Apart"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ロック, オルタナティブ, レア ]
+tags: [ Rock, Alternative Rock, Rare ]
 image: ../assets/images/Peter Murphy – Should The World Fail To Fall Apart.jpg
 rating: 4.5
 v-rating: VG

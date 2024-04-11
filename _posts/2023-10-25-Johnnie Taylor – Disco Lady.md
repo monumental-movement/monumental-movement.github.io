@@ -3,7 +3,7 @@ layout: post
 title:  "Johnnie Taylor – Disco Lady"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ソウル, ディスコ, 7インチ ]
+tags: [ Soul, Disco, 7inch ]
 image: ../assets/images/Johnnie Taylor – Disco Lady.jpg
 rating: 3.5
 v-rating: VG

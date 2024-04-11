@@ -3,7 +3,7 @@ layout: post
 title:  "A Friend From Rio – Para Lennon And McCartney"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ジャズ, ラテン, フューチャージャズ ]
+tags: [ Jazz, Latin, Future Jazz ]
 image: ../assets/images/A Friend From Rio – Para Lennon And McCartney.jpg
 rating: 3.5
 v-rating: VG

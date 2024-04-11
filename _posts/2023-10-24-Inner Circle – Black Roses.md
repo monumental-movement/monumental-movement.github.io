@@ -3,7 +3,7 @@ layout: post
 title:  "Inner Circle – Black Roses"
 author: mmr
 categories: [ CD ]
-tags: [ レゲエ, ヒップホップ, 90s ]
+tags: [ Reggae, Hiphop, 90s ]
 image: ../assets/images/Inner Circle – Black Roses.jpg
 rating: 3.5
 v-rating: VG

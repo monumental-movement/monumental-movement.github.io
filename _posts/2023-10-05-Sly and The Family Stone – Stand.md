@@ -3,7 +3,7 @@ layout: post
 title:  "Sly & The Family Stone – Stand"
 author: mmr
 categories: [ Cassette ]
-tags: [ ファンク, ソウル ]
+tags: [ Funk, Soul ]
 image: ../assets/images/Sly & The Family Stone – Stand.jpg
 rating: 4.5
 v-rating: VG

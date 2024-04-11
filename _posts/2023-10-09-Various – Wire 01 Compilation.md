@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Wire 01 Compilation"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, ミックス ]
+tags: [ Techno, Mix ]
 image: ../assets/images/Various – Wire 01 Compilation.jpg
 rating: 3.5
 v-rating: VG

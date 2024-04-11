@@ -3,7 +3,7 @@ layout: post
 title:  "DMX Krew – Nu Romantix"
 author: mmr
 categories: [ CD ]
-tags: [ テクノ, アシッドハウス ]
+tags: [ Techno, Acid House ]
 image: ../assets/images/DMX Krew – Nu Romantix.jpg
 rating: 4.5
 v-rating: VG

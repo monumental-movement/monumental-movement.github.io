@@ -3,7 +3,7 @@ layout: post
 title:  "Rawcotiks – Nevertheless Real Heads"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, 90s ]
+tags: [ Hiphop, 90s ]
 image: ../assets/images/Rawcotiks – Nevertheless Real Heads.jpg
 rating: 3.5
 v-rating: VG

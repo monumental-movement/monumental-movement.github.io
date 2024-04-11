@@ -3,7 +3,7 @@ layout: post
 title:  "FLR - Easy Filters Part 1~2"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, テックハウス ]
+tags: [ Techno, Tech House ]
 image: ../assets/images/FLR - Easy Filters Part 1~2.jpg
 rating: 4.5
 v-rating: VG

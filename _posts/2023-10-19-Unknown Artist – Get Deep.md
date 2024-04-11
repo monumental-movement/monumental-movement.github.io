@@ -3,7 +3,7 @@ layout: post
 title:  "Unknown Artist – Get Deep"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, マッシュアップ ]
+tags: [ House, Mashup ]
 image: ../assets/images/Unknown Artist – Get Deep.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "さだ まさし – 長崎小夜曲"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, 懐メロ, 7インチ ]
+tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/さだ まさし – 長崎小夜曲.jpg
 rating: 3.5
 v-rating: VG

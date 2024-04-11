@@ -3,7 +3,7 @@ layout: post
 title:  "Repeater – The Serpents Knees E.P"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, アシッド ]
+tags: [ Techno, Acid ]
 image: ../assets/images/Repeater – The Serpents Knees E.P.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Outlines Feat. RZA –Now That I'm Free This World"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ウータン ]
+tags: [ Hiphop ]
 image: ../assets/images/Outlines Feat. RZA –Now That I'm Free This World.jpg
 rating: 4.5
 v-rating: VG

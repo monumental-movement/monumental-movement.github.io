@@ -3,7 +3,7 @@ layout: post
 title:  "Robag Wruhme Metaboman – Zwei Maenner Im Split"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Robag Wruhme Metaboman – Zwei Maenner Im Split.jpg
 rating: 3.5
 v-rating: VG

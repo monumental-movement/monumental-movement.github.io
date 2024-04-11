@@ -3,7 +3,7 @@ layout: post
 title:  "Slab – Freeky Speed"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ビッグビート, ブレイクビーツ ]
+tags: [ Big Beat, Break Beat ]
 image: ../assets/images/Slab – Freeky Speed.jpg
 rating: 3.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Danny Krivit – Nite Life 011 - Expansions"
 author: mmr
 categories: [ CD ]
-tags: [ ハウス, ミックス ]
+tags: [ House, Mix ]
 image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.jpg
 rating: 4.5
 v-rating: VG

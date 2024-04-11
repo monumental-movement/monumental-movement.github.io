@@ -3,7 +3,7 @@ layout: post
 title:  "Baruka – Play It Loud"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ ]
+tags: [ Techno ]
 image: ../assets/images/Baruka – Play It Loud.jpg
 rating: 3.5
 v-rating: VG

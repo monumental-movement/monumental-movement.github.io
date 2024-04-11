@@ -3,7 +3,7 @@ layout: post
 title:  "The Rascals – People Got To Be Free My World"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ファンク, ソウル, 7インチ ]
+tags: [ Funk, Soul, 7inch ]
 image: ../assets/images/The Rascals – People Got To Be Free My World.jpg
 rating: 3.5
 v-rating: VG

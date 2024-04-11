@@ -3,7 +3,7 @@ layout: post
 title:  "Fluke – Pulse"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, プログレッシブ ]
+tags: [ House, Progressive ]
 image: ../assets/images/Fluke – Pulse.jpg
 rating: 3.5
 v-rating: VG

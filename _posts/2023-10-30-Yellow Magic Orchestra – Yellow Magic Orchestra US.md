@@ -3,7 +3,7 @@ layout: post
 title:  "Yellow Magic Orchestra – Yellow Magic Orchestra US"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Jポップ, シンセポップ, テクノ ]
+tags: [ JPop, Synth-Pop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra US.jpg
 rating: 4.5
 v-rating: VG

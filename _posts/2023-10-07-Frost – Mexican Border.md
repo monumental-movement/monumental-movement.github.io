@@ -3,7 +3,7 @@ layout: post
 title:  "Frost – Mexican Border"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ヒップホップ, ギャングスタ ]
+tags: [ Hiphop, Gangsta ]
 image: ../assets/images/Frost – Mexican Border.jpg
 rating: 3.5
 v-rating: VG

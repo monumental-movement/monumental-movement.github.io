@@ -3,7 +3,7 @@ layout: post
 title:  "Winx – Don't Laugh (Remix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, リミックス ]
+tags: [ Techno, Remix ]
 image: ../assets/images/Winx – Don't Laugh (Remix).jpg
 rating: 4.5
 v-rating: VG

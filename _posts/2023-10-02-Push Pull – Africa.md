@@ -3,7 +3,7 @@ layout: post
 title:  "Push Pull – Africa"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, トライバル, ミニマル ]
+tags: [ House, Tribal, Minimal ]
 image: ../assets/images/Push Pull – Africa.jpg
 rating: 4.5
 v-rating: VG

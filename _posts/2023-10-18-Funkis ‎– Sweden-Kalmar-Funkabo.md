@@ -3,7 +3,7 @@ layout: post
 title:  "Funkis – Sweden-Kalmar-Funkabo"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, ミニマル ]
+tags: [ Techno, Minimal ]
 image: ../assets/images/Funkis – Sweden-Kalmar-Funkabo.jpg
 rating: 4.5
 v-rating: VG

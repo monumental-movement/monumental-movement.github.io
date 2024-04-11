@@ -3,7 +3,7 @@ layout: post
 title:  "Arti$try – The Worker"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, 90s ]
+tags: [ House, 90s ]
 image: ../assets/images/Arti$try – The Worker.jpg
 rating: 3.5
 v-rating: VG

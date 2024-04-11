@@ -3,7 +3,7 @@ layout: post
 title:  "Faithless – Why Go"
 author: mmr
 categories: [ Vinyl ]
-tags: [ トランス, ハウス ]
+tags: [ Trance, House ]
 image: ../assets/images/Faithless – Why Go.jpg
 rating: 4.5
 v-rating: VG

@@ -3,7 +3,7 @@ layout: post
 title:  "Mexico – Park Avenue EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, テックハウス ]
+tags: [ House, Tech House ]
 image: ../assets/images/Mexico – Park Avenue EP.jpg
 rating: 4.5
 v-rating: VG

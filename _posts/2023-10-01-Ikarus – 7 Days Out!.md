@@ -3,7 +3,7 @@ layout: post
 title:  "Ikarus – 7 Days Out!"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, トライバル ]
+tags: [ House, Tribal ]
 image: ../assets/images/Ikarus – 7 Days Out!.jpg
 rating: 4.5
 v-rating: VG

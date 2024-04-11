@@ -3,7 +3,7 @@ layout: post
 title:  "Rebus Tape – Drug Shaping EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ テクノ, 00s ]
+tags: [ Techno, 00s ]
 image: ../assets/images/Rebus Tape – Drug Shaping EP.jpg
 rating: 4.5
 v-rating: VG

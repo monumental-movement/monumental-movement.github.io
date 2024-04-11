@@ -3,7 +3,7 @@ layout: post
 title:  "Real Life – Send Me An Angel '89"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ハウス, シンセポップ ]
+tags: [ House, Synth-Pop ]
 image: ../assets/images/Real Life – Send Me An Angel '89.jpg
 rating: 4.5
 v-rating: VG
