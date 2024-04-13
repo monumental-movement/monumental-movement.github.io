@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Modjo - Chillin"
+title:  "Modjo - Chillin’"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, French House ]
-image: ../assets/images/Modjo - Chillin.jpg
+image: ../assets/images/Modjo – Chillin.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-#### Modjo - Chillin
+#### Modjo - Chillin’
 
 
 A1  Chillin' (Original Extended Mix)
