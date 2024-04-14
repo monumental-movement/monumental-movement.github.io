@@ -25,7 +25,9 @@ B2. The Wave Of The Future (Medium Mix)
 
 B3. The Wave Of The Future (Small Mix)
 
-Quadrophoniaは、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
+Quadrophoniaは、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
+
+「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
 
 A面2曲目はMark Ryder(DJ Ryder)によるremix。
 
