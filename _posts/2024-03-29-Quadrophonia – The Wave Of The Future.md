@@ -12,13 +12,17 @@ v-rating: VG
 #### Quadrophonia – The Wave Of The Future
 
 Quadrophonia – The Wave Of The Future
+
 クアドロフォニア
 
 A1. The Wave Of The Future (Large Mix)
+
 A2. The Wave Of The Future (Ryder Mix)
 
 B1. The Wave Of The Future (Xtra Large Mix)
+
 B2. The Wave Of The Future (Medium Mix)
+
 B3. The Wave Of The Future (Small Mix)
 
 Quadrophoniaは、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
