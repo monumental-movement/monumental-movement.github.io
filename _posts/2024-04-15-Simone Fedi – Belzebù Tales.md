@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Simone Fedi – Belzebù Tales"
+title:  "Simone Fedi – Belzebu Tales"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, House, 00s ]
-image: ../assets/images/Simone Fedi – Belzebù Tales.jpg
+image: ../assets/images/Simone Fedi – Belzebu Tales.jpg
 rating: 4.5
 v-rating: VG
 ---
