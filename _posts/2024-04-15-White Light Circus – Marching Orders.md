@@ -3,7 +3,7 @@ layout: post
 title:  "White Light Circus – Marching Orders"
 author: mmr
 categories: [ Vinyl ]
-tags: [ ELectro, Downtempo, Disco ]
+tags: [ Electro, Downtempo, Disco ]
 image: ../assets/images/White Light Circus – Marching Orders.jpg
 rating: 4.5
 v-rating: VG
