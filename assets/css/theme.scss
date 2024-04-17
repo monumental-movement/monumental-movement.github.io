@@ -633,7 +633,7 @@ body.active-side {
 }
 @media (max-width: 768px) {
     .posttitle {
-        font-size:35px;
+        font-size:25px;
     }
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
@@ -642,7 +642,7 @@ body.active-side {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 1;
-        grid-row-end: 3;
+        grid-row-end: 2;
     }
     .blog-grid-item .img-thumb, 
     .firstpage .blog-grid-item:nth-child(1) .img-thumb, 
