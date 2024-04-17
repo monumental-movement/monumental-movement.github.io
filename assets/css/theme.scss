@@ -636,11 +636,11 @@ body.active-side {
         font-size:25px;
     }
     .blog-grid-container {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 50% 50%;
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
-        grid-column-end: auto;
+        grid-column-end: 3;
         grid-row-start: 1;
         grid-row-end: auto;
     }
