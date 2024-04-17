@@ -640,9 +640,9 @@ body.active-side {
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
-        grid-column-end: span 3;
+        grid-column-end: auto;
         grid-row-start: 1;
-        grid-row-end: span 2;
+        grid-row-end: auto;
     }
     .blog-grid-item .img-thumb, 
     .firstpage .blog-grid-item:nth-child(1) .img-thumb, 
