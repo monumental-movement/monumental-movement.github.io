@@ -4,7 +4,7 @@ title:  "Lennie De Ice – We Are I.E. (Part 1 of 2)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2){: .button1}.jpg
+image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2).jpg
 rating: 3.5
 v-rating: VG
 ---

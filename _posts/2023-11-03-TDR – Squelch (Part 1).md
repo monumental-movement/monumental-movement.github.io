@@ -9,7 +9,7 @@ rating: 3.5
 v-rating: VG
 ---
 
-#### TDR – Squelch (Part 1){: .button1}
+#### TDR – Squelch (Part 1)
 
 Tom De Ridder トム・デ・リッダー
 

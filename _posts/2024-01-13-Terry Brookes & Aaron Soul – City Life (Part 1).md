@@ -4,7 +4,7 @@ title:  "Terry Brookes & Aaron Soul – City Life (Part 1)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1){: .button1}.jpg
+image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1).jpg
 rating: 4.5
 v-rating: VG
 ---
