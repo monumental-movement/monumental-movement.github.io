@@ -609,6 +609,12 @@ body.active-side {
     border: 4px sold #FF0000;
 }
 
+iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
+
 //footer
 .footer {
     margin-top:120px;
