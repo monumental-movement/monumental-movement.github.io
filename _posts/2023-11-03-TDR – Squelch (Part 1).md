@@ -4,7 +4,7 @@ title:  "TDR – Squelch (Part 1)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Tech House ]
-image: ../assets/images/TDR – Squelch (Part 1){: .button1}.jpg
+image: ../assets/images/TDR – Squelch (Part 1).jpg
 rating: 3.5
 v-rating: VG
 ---
