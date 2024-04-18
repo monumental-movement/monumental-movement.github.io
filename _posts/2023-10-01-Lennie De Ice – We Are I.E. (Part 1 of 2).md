@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lennie De Ice – We Are I.E. (Part 1 of 2){: .button1}"
+title:  "Lennie De Ice – We Are I.E. (Part 1 of 2)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]

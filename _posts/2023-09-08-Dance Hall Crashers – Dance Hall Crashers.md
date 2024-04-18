@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992){: .button1}"
+title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Ska Punk ]

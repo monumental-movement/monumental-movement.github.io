@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les Baxter His Chorus And Orchestra – Tamboo(Part 3){: .button1}"
+title:  "Les Baxter His Chorus And Orchestra – Tamboo(Part 3)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Space-Age, 7inch ]

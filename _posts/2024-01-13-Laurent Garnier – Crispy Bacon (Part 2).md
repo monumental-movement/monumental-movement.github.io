@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laurent Garnier – Crispy Bacon (Part 2){: .button1}"
+title:  "Laurent Garnier – Crispy Bacon (Part 2)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s, Drum n Bass ]

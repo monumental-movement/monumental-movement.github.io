@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TDR – Squelch (Part 1){: .button1}"
+title:  "TDR – Squelch (Part 1)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Tech House ]
