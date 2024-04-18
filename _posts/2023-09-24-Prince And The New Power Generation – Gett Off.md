@@ -27,7 +27,7 @@ B3  Clockin' The Jizz (Instrumental)
 
 > 「Gett Off」は、ファンキーなビートとグルーヴィなベースラインが特徴であり、プリンスのエネルギッシュなボーカルパフォーマンスが引き立っており、プリンスの音楽キャリアの一部を象徴する曲で、彼のファンや音楽愛好家にとって特別な意味を持つ楽曲となっています。
 
-[メルカリで購入](https://jp.mercari.com/item/m13388071866){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13388071866){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

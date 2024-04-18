@@ -17,7 +17,7 @@ B. Serenity (Dexters Mix)
 
 > ロンドンのThe Exchangeで伝説的なミキシングエンジニア、Mike Marsh氏によってマスタリングが行われたので、素晴らしいサウンドに仕上がっているEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m10738402892){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10738402892){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

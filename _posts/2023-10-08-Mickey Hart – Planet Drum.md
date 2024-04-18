@@ -45,5 +45,5 @@ B6. Mysterious Island
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30826670023){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30826670023){:.button1}
 

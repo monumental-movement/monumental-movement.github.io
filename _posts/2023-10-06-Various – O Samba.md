@@ -45,5 +45,5 @@ v-rating: VG
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m33683727041){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33683727041){:.button1}
 

@@ -26,7 +26,7 @@ B2  Chemical Beats (Dave Clarke Remix)
 > 「Get Up on It Like This」は、その後のアルバム「Dig Your Own Hole」で再構築された形で収録されました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m27759093508){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27759093508){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

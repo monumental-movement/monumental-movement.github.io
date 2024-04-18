@@ -21,7 +21,7 @@ B. Wax And Wane (Original Version)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m46491271418){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46491271418){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -31,7 +31,7 @@ A面はシンガーのHilary MwelwaとプロデューサーのVictor Redwood-Saw
 
 B面１曲目は、Marc Mac (aka Marc Clair) と Dego (aka Dennis McFarlane)によるUKエレクトロニックディオ4 Hero（４ヒーロー）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m78775841534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78775841534?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

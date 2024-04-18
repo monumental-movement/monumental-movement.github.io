@@ -27,7 +27,7 @@ B2		If I Told You That (Johnny Douglas Mix)
 
 > 「Could I Have This Kiss Forever」は、リリース後に国際的な成功を収めました。特に、ヨーロッパやラテンアメリカのチャートで高評価を得ました。この曲は、両アーティストの人気と才能を組み合わせた魅力的なコラボレーションとして注目されました。
 
-[メルカリで購入](https://jp.mercari.com/item/m47028864248){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47028864248){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

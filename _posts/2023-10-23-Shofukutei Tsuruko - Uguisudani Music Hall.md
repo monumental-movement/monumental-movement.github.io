@@ -19,7 +19,7 @@ B. ももえちゃん
 
 > 「うぐいすだにミュージックホール」は、笑福亭鶴光が1975年5月に発売したコミックソング。
 
-[メルカリで購入](https://jp.mercari.com/item/m92548718770){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92548718770){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

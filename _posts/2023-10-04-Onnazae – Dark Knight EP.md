@@ -20,7 +20,7 @@ B2. Take Easy (Edit)
 > レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84648505475){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84648505475){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

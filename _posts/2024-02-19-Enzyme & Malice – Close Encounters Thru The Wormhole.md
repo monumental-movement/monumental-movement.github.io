@@ -23,7 +23,7 @@ AA. Enzyme – Thru The Wormhole
 
 EnzymeとMaliceはPortal名義でも活動。
 
-[メルカリで購入](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20131022518?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

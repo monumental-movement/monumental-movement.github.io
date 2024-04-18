@@ -25,7 +25,7 @@ B3. Josef Chuchro, Jan Panenka, Josef Suk–Piano Trio In B-Flat Major, "Archduk
 
 B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Continuo Op.1-13 など
 
-[メルカリで購入](https://jp.mercari.com/item/m60328897430){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60328897430){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

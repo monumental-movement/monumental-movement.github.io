@@ -43,7 +43,7 @@ THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア�
 
 仙波清彦、兼崎順一、Yutaka Kanai、新井英治、三田治美、中西俊博アンサンブル
 
-[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

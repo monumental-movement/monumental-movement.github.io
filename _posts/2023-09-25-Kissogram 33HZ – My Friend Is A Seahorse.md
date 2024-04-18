@@ -24,7 +24,7 @@ B2. 33HZ–Crazy All The Time (Magik Johnson Remix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30516102342){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30516102342){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -25,7 +25,7 @@ B2. Filter Out
 
 > 「Look Back To See The Future EP」は、Umek と Valentino Kanzyaniが設立したRecycled Loopsより2004年にリリースされたテクノ・テックハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m68002048690){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68002048690){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

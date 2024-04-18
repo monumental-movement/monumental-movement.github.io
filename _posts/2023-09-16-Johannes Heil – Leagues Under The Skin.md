@@ -44,7 +44,7 @@ D2  20.000 Leagues Under The Skin Pt.01
 > 彼のトラックはテクノミュージックシーンやアンダーグラウンドシーンで高い評価を受けており、その独自のサウンドスタイルとエネルギーが魅力とされています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m88455250151){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88455250151){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

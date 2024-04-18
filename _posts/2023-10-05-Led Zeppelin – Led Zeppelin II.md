@@ -34,5 +34,5 @@ B5. Bring It On Home
 > アルバムには多くのヒット曲が含まれており、「Whole Lotta Love」や「Heartbreaker」、「Ramble On」などが特に知られています。これらの曲は、レッド・ツェッペリンのシグネチャーサウンドを象徴するものであり、パワフルなギターリフとプラントの圧倒的なヴォーカルパフォーマンスが特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m17507286292){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17507286292){:.button1}
 

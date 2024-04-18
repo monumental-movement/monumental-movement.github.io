@@ -21,7 +21,7 @@ B2. Untitled
 
 > Playerは、Jon Nuccle、Mark Turner、Pete Simpson、Richard Wilkinsonなど多彩なメンバーからなるテクノ集団。
 
-[メルカリで購入](https://jp.mercari.com/item/m79339293855){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79339293855){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

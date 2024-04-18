@@ -20,5 +20,5 @@ v-rating: VG
 5. White Peafowl
 6. Brown Pelican
 
-[メルカリで購入](https://jp.mercari.com/item/m86594770909){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909){:.button1}
 

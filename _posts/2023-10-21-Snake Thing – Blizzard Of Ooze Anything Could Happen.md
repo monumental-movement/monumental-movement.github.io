@@ -19,7 +19,7 @@ B. Anything Could Happen
 
 > 「Blizzard Of Ooze」は、Raja Ram（ラジャ・ラム）が運営するUKゴアトランスレーベルTIPより、1998年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m54118975071){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54118975071){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

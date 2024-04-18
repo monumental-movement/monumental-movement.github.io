@@ -22,7 +22,7 @@ B2. I Can Feel The Sound (Original Mix)
 
 > 「 I Can Feel The Sound」は、ベルギーのテクノレーベルMusic Man Recordsより2004年にリリース。A面は北アイルランド、ベルファスト出身のDJ/プロデューサーPhil Kieranのremix。B面１曲目はフランス出身のDJ Max Waldernのremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m43603620319){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43603620319){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

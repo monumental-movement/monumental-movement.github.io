@@ -21,7 +21,7 @@ B2. Trashy Whore (Lars-Christian Müller Remix)
 
 Feliks ThielemannとMathias Schwarzによるユニット「Super Flu」によるトラックになります。
 
-[メルカリで購入](https://jp.mercari.com/item/m85295773232){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85295773232){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

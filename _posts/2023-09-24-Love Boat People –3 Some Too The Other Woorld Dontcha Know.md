@@ -26,7 +26,7 @@ B2  Dontcha Know? (Sunday Night Mix)
 > さらに、2ヴァージョン収録の「Dontcha Know?」は、ダビーでダークななハウスでおすすめです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m66742679105){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66742679105){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

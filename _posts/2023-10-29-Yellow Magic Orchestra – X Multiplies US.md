@@ -31,7 +31,7 @@ B4. Solid State Survivor
 
 > 1980年7月にA&Mレコードよりアメリカで発売されたYMOのベストアルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m67524717160){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67524717160){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

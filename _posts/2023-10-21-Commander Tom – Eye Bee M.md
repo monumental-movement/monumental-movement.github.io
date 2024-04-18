@@ -17,7 +17,7 @@ B. Trip To Mars
 
 > Commander Tom（コマンダー・トム）は、ドイツ出身のテクノDJ・プロデューサー。「Eye Bee M」はCommander Tomの代表曲の一つ。B面は、サンフランシスコのサイバートランスのパイオニアMars & Mystreで知られるMarsが参加した一曲。
 
-[メルカリで購入](https://jp.mercari.com/item/m76767302335){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76767302335){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

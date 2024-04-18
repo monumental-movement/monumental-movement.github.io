@@ -25,7 +25,7 @@ B2. What U Need
 
 > Puppetmastazは、ハンドパペットを使ってショーをおこない、ラップ、ファンク、エレクトロニカなどの要素を取り入れた音楽スタイルが特徴です。
 
-[メルカリで購入](https://jp.mercari.com/item/m42662167380){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42662167380){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

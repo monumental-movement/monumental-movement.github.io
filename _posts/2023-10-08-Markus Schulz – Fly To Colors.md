@@ -22,7 +22,7 @@ B. Fly To Colors (Signalrunners Remix)
 > 「Fly To Colors」は、マーカス・シュルツのクラシックなトランススタイルを体現した楽曲であり、エネルギッシュなビートやエピックなサウンドスケープが耳に残ります。また、アーミン・ファン・ビューレン（Armin van Buuren）などのトランスDJによってプレイされ、クラブやフェスティバルのダンスフロアで人気を集めました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77384316515){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77384316515){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

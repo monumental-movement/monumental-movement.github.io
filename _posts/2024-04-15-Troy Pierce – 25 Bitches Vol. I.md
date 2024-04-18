@@ -30,7 +30,7 @@ Troy Pierceは、Gibby Millerとのミニマルテクノ・ハウスプロジェ
 「25 Bitches Vol. I」は、Richie Hawtin（リッチー・ホウティン）が設立したM_nusから2006年にリリースされたテクノ・ミニマルトラック。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30628826020?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30628826020?afid=6142608987){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

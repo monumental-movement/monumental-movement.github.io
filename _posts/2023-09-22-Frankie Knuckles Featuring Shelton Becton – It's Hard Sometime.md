@@ -24,7 +24,7 @@ B2  It's Hard Sometime (Factory Dub)
 > 「It's Hard Sometime」は、彼らの共同制作による一曲で、ソウルフルなメロディ、繊細なリズム、心に響く歌詞とエレガントなハウスサウンドが特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m27871104265){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27871104265){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

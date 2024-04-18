@@ -18,7 +18,7 @@ B. Angel Dust
 > 2001年にドイツのレーベル「M.A.S.H.」からリリースされたLothar HerrmannとOliver BalserによるプロジェクトPsychonautのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m57056542786){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57056542786){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

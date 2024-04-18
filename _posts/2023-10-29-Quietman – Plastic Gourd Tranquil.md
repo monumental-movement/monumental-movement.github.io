@@ -20,7 +20,7 @@ QuietmaはトランスプロデューサーLaurence Elliot-Potter （ローレ�
 
 > B面はSimon Berry（サイモン・ベリー）の別名義Art Of Trance（アート・オブ・トランス）によるREMIX。
 
-[メルカリで購入](https://jp.mercari.com/item/m37743845184){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37743845184){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -22,7 +22,7 @@ Y. Kauna
 > Acid、ジャングル、ドラムアンドベース、ブレイクビートを経て、現在ではあらゆるベースミュージックの形態を包括するキャリアを持つこのトリオによるこの時代のEPは必聴。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m94343829211){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

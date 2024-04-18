@@ -33,7 +33,7 @@ B5. I Wish You Were There
 
 > REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 
-[メルカリで購入](https://jp.mercari.com/item/m78682401500){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78682401500){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

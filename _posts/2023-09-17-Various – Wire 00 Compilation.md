@@ -47,7 +47,7 @@ D3  Beroshima–WWW. (Robot Mix)
 > 2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m45913963651){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45913963651){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

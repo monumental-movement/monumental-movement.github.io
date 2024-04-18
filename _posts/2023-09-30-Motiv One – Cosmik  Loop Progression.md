@@ -19,7 +19,7 @@ AA. Loop Progression
 
 > 「Loop Progression」も素晴らしいトラックで、タフでドライブ感のあるビートで始まり、その後、ソフトなキーがコードと組み合わさるように徐々に現れます。その後にブレイクが続き、巨大で、本当に巨大なアーメンキックとコズミックスタイルのサウンドが登場し、重低音も効果的にキックインします。素晴らしい部分はいくつかのブリッジとコードを経て、アウトロビートに重いアーメンビートが続きます。
 
-[メルカリで購入](https://jp.mercari.com/item/m37201781569){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -25,7 +25,7 @@ B2. Motivation (Elektro Phunks Revenge)
 
 1978年にイギリスで結成されたジャズファンク/ブリットファンクバンドAtmosfear (アトモスフィア )のMotivationをフレンチ・ハウスの第一人者Dimitri From Paris（ディミトリフロムパリ）がremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m66379112191?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66379112191?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

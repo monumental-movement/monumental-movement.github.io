@@ -45,7 +45,7 @@ B8. Outro
 
 > 1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
 
-[メルカリで購入](https://jp.mercari.com/item/m53644996451){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53644996451){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: M</strong>

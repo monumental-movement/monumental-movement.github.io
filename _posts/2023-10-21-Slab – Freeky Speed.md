@@ -36,7 +36,7 @@ D2. Monkey Prankster
 > D面2曲目は、Monkey Mafia（モンキー・マフィア）によるremix。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m96913326161){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96913326161){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

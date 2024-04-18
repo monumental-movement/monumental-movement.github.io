@@ -31,7 +31,7 @@ D2. Sing It Back (Herbert's Tasteful Dub)
 
 > この曲は最初に彼らの2枚目のアルバム「I Am Not a Doctor」（1998年）のオリジナルバージョンで登場し、1999年3月8日にシングルとしてリリースされ、イギリスのシングルチャートで45位にランクインしました。この曲は、DJ Boris Dlugoschによってリミックスされた後、1999年9月にイギリスで4位を記録し、チャートで成功を収めました。
 
-[メルカリで購入](https://jp.mercari.com/item/m50691823810){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50691823810){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

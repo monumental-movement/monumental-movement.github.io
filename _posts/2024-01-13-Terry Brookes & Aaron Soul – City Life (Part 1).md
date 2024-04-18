@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Terry Brookes & Aaron Soul – City Life (Part 1){: .button1}"
+title:  "Terry Brookes & Aaron Soul – City Life (Part 1){:.button1}"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1){: .button1}.jpg
+image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1){:.button1}.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-#### Terry Brookes & Aaron Soul – City Life (Part 1){: .button1}
+#### Terry Brookes & Aaron Soul – City Life (Part 1){:.button1}
 
 テリー・ブルックス&アーロン・ソウル
 
@@ -23,7 +23,7 @@ B2. City Life (Deepart Mix)
 
 A面は、Carl Craig（カール・クレイグ）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68163433604?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -23,7 +23,7 @@ B3. Run A Train
 
 > DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
 
-[メルカリで購入](https://jp.mercari.com/item/m31687388099){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31687388099){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -22,7 +22,7 @@ B  Heading In The Right Direction (Shelter Dub)
 > インディア・アリーの音楽は、自己愛や自己肯定感を大切にするメッセージが込められており、多くの人々に共感を呼び起こしています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m57334747937){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57334747937){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -37,7 +37,7 @@ B5. Satisfied Strangers
 
 > 「The Expression」は、鋭いギターリフとシンセサイザー、ユニークなボーカルスタイルが特徴で、「ニューウェーブ」ポップスタイルが前面に出たアルバムとなっている。
 
-[メルカリで購入](https://jp.mercari.com/item/m12510695910){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12510695910){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

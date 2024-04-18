@@ -35,7 +35,7 @@ B6. Jean Harlow's Return
 
 > Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
 
-[メルカリで購入](https://jp.mercari.com/item/m45544074163){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45544074163){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

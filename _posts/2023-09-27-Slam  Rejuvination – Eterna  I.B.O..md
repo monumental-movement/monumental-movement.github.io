@@ -19,7 +19,7 @@ AA. Rejuvination–I.B.O.
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m59399198904){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59399198904){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

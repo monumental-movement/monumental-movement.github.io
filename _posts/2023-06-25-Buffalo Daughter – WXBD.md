@@ -35,7 +35,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 > バッファロー・ドーターの音楽を堪能したい人にとっても興味深いアルバムです。彼らの独自のサウンドスタイルと音楽の実験性は、オルタナティブ音楽のファンや音楽探求者にとって魅力的な体験をもたらすことでしょう。
 
-[メルカリで購入](https://jp.mercari.com/item/m96206628423){: .button1}{: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96206628423){:.button1}{:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

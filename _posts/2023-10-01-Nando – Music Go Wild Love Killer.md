@@ -23,7 +23,7 @@ B2. Love Killer (Bonus Track)
 
 > 彼は1993年からVasco Rossi（ヴァスコ・ロッシ)のツアーメンバーであり、イタリアのさまざまなミュージシャンや歌手とコラボレーションしています。
 
-[メルカリで購入](https://jp.mercari.com/item/m85143464276){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85143464276){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

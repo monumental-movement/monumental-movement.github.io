@@ -30,7 +30,7 @@ B. Planet Rock (Instrumental)
 > 「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m43312143517){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

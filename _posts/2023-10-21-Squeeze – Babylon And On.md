@@ -39,7 +39,7 @@ B6. Some Americans
 
 > スクイーズは、ポップロックやニューウェイヴの要素を取り入れた楽曲で知られるバンドで、1980年代の音楽シーンで成功を収めました。「Babylon and On」アルバムも、その特徴的なポップサウンドと洗練された楽曲が注目されました。特に「Hourglass」などの楽曲は、スクイーズの代表曲として知られています。
 
-[メルカリで購入](https://jp.mercari.com/item/m85609686798){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85609686798){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

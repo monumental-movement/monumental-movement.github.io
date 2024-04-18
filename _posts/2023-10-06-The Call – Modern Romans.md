@@ -38,5 +38,5 @@ B4. All About You
 > 「Modern Romans」は、批評家から高い評価を受け一部のファンからも熱烈な支持を得ました。アルバムはリリース当初は商業的な成功には至りませんでしたが、後にカルト的な人気を築きました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m79709500241){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79709500241){:.button1}
 

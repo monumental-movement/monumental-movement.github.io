@@ -30,7 +30,7 @@ B3. No Deeper Meaning (LP Version)
 > この曲は、ナイトクラブに行って恋愛関係を始めたくない女性について歌っており、彼女は単に踊りたいだけです。サビ部分は、イギリスのロックグループTears for Fearsの1983年の曲「Change」をサンプリングしています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m46485719790){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46485719790){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

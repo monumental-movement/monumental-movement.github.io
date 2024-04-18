@@ -25,7 +25,7 @@ B2. Love Train (KFK's Dar-K Remix)
 > John Dahlbäckによるアシッド・リミックスも収録。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m87226223493){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87226223493){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

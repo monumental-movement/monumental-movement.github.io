@@ -25,7 +25,7 @@ B2. Blessed
 
 > A面「Disco Blood」はスウェーデンのテクノ・ハウスDJ Jesper Dahlbäckが参加、「Physical」はアイルランドのDJ Fish Go Deepのリミックス。
 
-[メルカリで購入](https://jp.mercari.com/item/m43649422760){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43649422760){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

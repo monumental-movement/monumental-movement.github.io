@@ -25,7 +25,7 @@ B2. Rhapsody In Blue
 
 > 1973年リリースのデオダート２作目のアルバム「ラプソディー・イン・ブルー」では、George Gershwin（ジョージ・ガーシュウィン）の「Rhapsody In Blue」、Maurice Ravel（モーリス・ラヴェル）の「亡き王女のためのパヴァーヌ」、The Moody Blues（ムーディー・ブルース）の「サテンの夜」などをデオダート流のアレンジを加えて収録。
 
-[メルカリで購入](https://jp.mercari.com/item/m92189547389){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92189547389){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

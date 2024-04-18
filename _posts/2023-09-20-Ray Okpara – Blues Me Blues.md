@@ -22,7 +22,7 @@ B2. Hideout
 > 「Blues Me Blues」は、タイトなリズムとハウスミュージックのエッセンスを組み合わせたダークで魅力的な雰囲気、グルーブ感溢れるビート、響き渡るベースライン、独特なサンプリングやエフェクトなど、Ray Okparaの特徴的なサウンドに加え、ブルースの要素も取り入れられており、感情的な表現やメロディが曲全体に広がっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m35541987030){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35541987030){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -22,7 +22,7 @@ b. In White Rooms (Shinedoe Fusion Remix)
 > 重厚なベースライン、シンセサイザーのメロディ、響きのあるリズムが組み合わさり、エレクトロニックミュージックの要素を取り入れたハウスミュージックであり、ダークでミステリアスな雰囲気が特徴な一曲となっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m26356505023){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26356505023){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

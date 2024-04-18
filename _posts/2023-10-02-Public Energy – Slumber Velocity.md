@@ -19,7 +19,7 @@ B. Velocity
 
 > 一方で、"Velocity" は、よりヨーロッパスタイルでドラムロールが特徴です。
 
-[メルカリで購入](https://jp.mercari.com/item/m21565192734){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21565192734){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

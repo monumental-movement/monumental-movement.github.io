@@ -24,7 +24,7 @@ B2. How To Be A Millionaire Accapella
 
 > ABCは1981年11月に最初のシングル「Tears Are Not Enough」をリリースし、英国のチャートで19位にランクインしました。
 
-[メルカリで購入](https://jp.mercari.com/item/m16492565227){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16492565227){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

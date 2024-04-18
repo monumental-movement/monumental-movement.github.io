@@ -30,7 +30,7 @@ B3  Shabaam Sahdeeq–Every Rhyme I Write (Instrumental)
 
 B4  Shabaam Sahdeeq–Every Rhyme I Write (Street A Cappella)
 
-[メルカリで購入](https://jp.mercari.com/item/m50321858391){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50321858391){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

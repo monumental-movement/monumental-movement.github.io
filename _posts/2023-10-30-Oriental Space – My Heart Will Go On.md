@@ -21,7 +21,7 @@ B2. Emperortime
 
 > タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
 
-[メルカリで購入](https://jp.mercari.com/item/m90932378296){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90932378296){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

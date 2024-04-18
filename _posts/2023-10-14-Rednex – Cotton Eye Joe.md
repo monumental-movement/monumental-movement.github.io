@@ -29,7 +29,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 > remixには、Armand Van Helden（アーマンド・ヴァン・ヘルデン）Jeremy Healy（ジェレミー・ヒーリー）が参加。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m37601005169){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37601005169){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

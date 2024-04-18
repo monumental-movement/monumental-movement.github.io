@@ -21,7 +21,7 @@ B2. Touch Me (12" Vocal Mix)
 
 > A面はトラック「Sandstorm」が有名なフィンランドのトランスDJ Darude（ダルード）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m98006616824){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98006616824){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

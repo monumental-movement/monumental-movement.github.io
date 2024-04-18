@@ -21,7 +21,7 @@ B. Higher State Of Consciousness (Marco V Remix)
 
 > A面のremixはDirty SouthとTV Rock。B面のremixはMarco V。
 
-[メルカリで購入](https://jp.mercari.com/item/m55147160081){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55147160081){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

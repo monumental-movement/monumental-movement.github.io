@@ -19,7 +19,7 @@ B. Paranoid = パラノイド
 
 > Grand Funk Railroad（グランド ファンク レイルロード/グランドファンク/GFR) は、1970 年代に活躍したアメリカのハードロックバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m85674055607){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85674055607){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

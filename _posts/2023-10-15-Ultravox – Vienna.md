@@ -34,7 +34,7 @@ B4. All Stood Still
 
 > 1980年にリリースした「Vienna（ヴィエナ）」は、シンセポップやニューウェイヴの要素を取り入れた4枚目のスタジオアルバム。このアルバムは、世界的なヒットとなり、Ultravoxのシグネチャーソング＆バンドの代表作。
 
-[メルカリで購入](https://jp.mercari.com/item/m80910250276){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80910250276){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

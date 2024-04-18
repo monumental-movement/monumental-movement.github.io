@@ -30,7 +30,7 @@ B2. Tragicomic (Beyond Real Mix Instrumental)
 > 「Tragicomic」は、DJ Krushのアルバムやシングルの一部としてリリースされ、トリップホップやエレクトロニカの愛好家によって楽しまれています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20863215408){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20863215408){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

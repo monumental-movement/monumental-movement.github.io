@@ -44,5 +44,5 @@ v-rating: VG
 > 「New York」には、政治、ドラッグ、犯罪、愛、人間関係など、様々なテーマが取り上げられています。アルバムの中でも特に知られている曲には、「Dirty Blvd.」「Halloween Parade」、「Romeo Had Juliette」などがあります。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m25569195923){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25569195923){:.button1}
 

@@ -22,7 +22,7 @@ B2. Rhythm Technologies – That Sound
 > 2006年にUKのレーベル「Kick The Drum Records」からリリースされたDistek & Zoid & Rhythm TechnologiesによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77926536893){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77926536893){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

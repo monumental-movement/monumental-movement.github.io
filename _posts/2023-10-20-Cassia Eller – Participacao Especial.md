@@ -23,4 +23,4 @@ v-rating: VG
 
 > カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
-[メルカリで購入](https://jp.mercari.com/item/m82208472060){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82208472060){:.button1}

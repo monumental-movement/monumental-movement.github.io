@@ -21,7 +21,7 @@ B. Carnaval De Paris (Tall Paul Mix)
 
 > A面２曲目はDarren PearceとJulian Napolitanoによるユニット、JDSによるremix。B面は、UKのDJ/プロデューサー/リミキサーTall Paul（Paul Newman/ポール・ニューマン　別名義：Camisra/カミスラ）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m16971968929){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16971968929){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

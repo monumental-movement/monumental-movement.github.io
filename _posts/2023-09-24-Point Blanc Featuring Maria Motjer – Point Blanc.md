@@ -29,7 +29,7 @@ B3  Dark
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m18334755783){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18334755783){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

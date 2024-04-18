@@ -21,7 +21,7 @@ B. You're The Best In The World
 
 > プロデューサーはDon Davis（ドン・デイヴィス）。この曲には、 Parliament-Funkadelic（パーラメント・ファンカデリック）のベーシストBootsy Collins（ブーツィ・コリンズ）、キーボード奏者のBernie Worrel（バーニー・ウォレル）、ギタリストのGlenn Goins（グレン・ゴーインズ）、ドラマーの Tiki Fulwood（ティキ・フルウッド）がゲスト参加している。
 
-[メルカリで購入](https://jp.mercari.com/item/m59655834321){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59655834321){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

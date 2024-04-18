@@ -23,7 +23,7 @@ Hardy Hardこと本名Kay Lippert（ケイ・リッパート）は、ドイツ�
 
 1993年から活動を開始し、元々はHardsequencerとして知られていましたが、1997年にレイヴミュージックを辞め、新しいサウンドを模索することを機にエイリアスを変更しました。
 
-[メルカリで購入](https://jp.mercari.com/item/m42148204397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42148204397?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

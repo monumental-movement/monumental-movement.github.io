@@ -21,7 +21,7 @@ B2. Archae & Grovskopa–Humors Part
 
 > Archae & Grovskopaは、Benny Liberg（Archae）とMika Hallbäck（Grovskopa）のスウェーデン・テクノデュオ。
 
-[メルカリで購入](https://jp.mercari.com/item/m35473528354){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35473528354){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

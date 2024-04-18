@@ -18,7 +18,7 @@ AA In My Head (DJ Kawasaki Remix Instrumental)
 > あのCrue-L Recordsから2007年にリリースされた本作は、KaoriのIN My HeadをDJ Kawasakiがリミックス。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77600179175){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77600179175){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

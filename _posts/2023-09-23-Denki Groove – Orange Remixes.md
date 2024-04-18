@@ -38,7 +38,7 @@ Music By – Takkyu Ishino
 
 > エレクトロニックミュージック、テクノ、ハウス、アンビエントなどのジャンルを網羅しており、多様な音楽スタイルとアプローチが楽しめます。リミキサーたちが独自のアイデアとサウンドを注入し、電気グルーヴのオリジナル楽曲をさらに進化させています。
 
-[メルカリで購入](https://jp.mercari.com/item/m24705693751){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24705693751){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

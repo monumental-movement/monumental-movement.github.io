@@ -21,7 +21,7 @@ B1. Like I Love You (Extended Club Mix I)
 
 B2. Like I Love You (Extended Club Mix II)
 
-[メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

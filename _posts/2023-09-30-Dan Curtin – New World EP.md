@@ -29,7 +29,7 @@ D2. Sword Of Orion (Dave Angel Mix)
 
 > 巨大なビルドアップ、素晴らしいブレイクダウン、そしてサルサのスウィングが豊富にあります。 また、非常に素晴らしいボーカルサンプルが散りばめられた「New World」と共に、このEPは必聴です。
 
-[メルカリで購入](https://jp.mercari.com/item/m11356801738){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11356801738){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

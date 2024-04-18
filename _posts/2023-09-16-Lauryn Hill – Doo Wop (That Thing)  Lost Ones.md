@@ -37,7 +37,7 @@ B4. Lost Ones (A Capella)
 
 > 「Lost Ones」は、力強いビートとアグレッシブなラップが特徴の楽曲です。この曲では、ローリン・ヒルが自身の経験や社会的な問題についてメッセージを伝えており、力強い表現力と情熱的なパフォーマンスが印象的です。
 
-[メルカリで購入](https://jp.mercari.com/item/m23227409943){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23227409943){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -55,4 +55,4 @@ v-rating: VG
 
 > "Marionette"のような短い楽曲でも、その存在感はしっかりと主張して、考え深くメランコリックな"Planet 54"で、このアルバムは締めくくられます。
 
-[メルカリで購入](https://jp.mercari.com/sell/edit/m74819615393){: .button1}
+[メルカリで購入](https://jp.mercari.com/sell/edit/m74819615393){:.button1}

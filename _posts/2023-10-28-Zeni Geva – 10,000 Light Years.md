@@ -24,5 +24,5 @@ v-rating: VG
 
 > 2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
 
-[メルカリで購入](https://jp.mercari.com/item/m23225529130){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23225529130){:.button1}
 

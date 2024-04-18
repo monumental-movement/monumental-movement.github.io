@@ -15,7 +15,7 @@ A1. Morandi - Ruggeri - Tozzi–Si Può Dare Più
 
 A2. Al Bano E Romino Power–Sempre Sempre
 
-A3. Alice (4){: .button1}–Nomadi
+A3. Alice (4){:.button1}–Nomadi
 
 A4. Toto Cutugno–Figli
 
@@ -42,7 +42,7 @@ B5. Tony Esposito–Papa Chicoなど
 > 1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23072694774){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23072694774){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

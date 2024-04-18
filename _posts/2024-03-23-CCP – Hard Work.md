@@ -19,7 +19,7 @@ A2. Hard Work (Additional Edit Mix)
 
 B. Hard Work (New York City Mix)　Remix – Clivillés & Cole
 
-[メルカリで購入](https://jp.mercari.com/item/m34295576737?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34295576737?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

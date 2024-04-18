@@ -57,4 +57,4 @@ DVD4. Buster Voodoo Tutorial
 
 > ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
 
-[メルカリで購入](https://jp.mercari.com/item/m95612334096){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95612334096){:.button1}

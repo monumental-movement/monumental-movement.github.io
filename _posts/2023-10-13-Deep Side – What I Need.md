@@ -23,7 +23,7 @@ B2. Lovely
 
 > B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
 
-[メルカリで購入](https://jp.mercari.com/item/m16482484195){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16482484195){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

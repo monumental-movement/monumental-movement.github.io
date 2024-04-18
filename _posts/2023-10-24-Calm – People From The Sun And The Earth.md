@@ -24,7 +24,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 > A1&B2は、3 Generations WalkingのMKL vs. Soy Sosによるremix。
 B2は、ベルリンを拠点とするドイツ人DJ兼プロデューサーのDixonのremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m88603722096){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88603722096){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

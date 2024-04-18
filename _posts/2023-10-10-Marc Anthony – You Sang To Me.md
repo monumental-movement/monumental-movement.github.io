@@ -25,7 +25,7 @@ B2. Muy Dentro De Mi (You Sang To Me) (Spanglish)
 
 > 音楽評論家たちは「You Sang to Me」をリリース時に好意的に評価し、アンソニーのボーカルと曲のアレンジを賞賛しました。アンソニーは2001年の第43回グラミー賞で最優秀男性ポップボーカル演奏賞にノミネートされるなど、多くの賞を受賞しました。
 
-[メルカリで購入](https://jp.mercari.com/item/m31951952620){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31951952620){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

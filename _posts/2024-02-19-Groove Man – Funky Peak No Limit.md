@@ -21,7 +21,7 @@ B2. Groove Bits
 
 コロンビア出身のDJ / プロデューサーGroove Manが2005年にフレンチハウスレーベルVector Recordsからリリースしたハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m13343014810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13343014810?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

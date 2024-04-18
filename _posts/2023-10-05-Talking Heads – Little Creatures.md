@@ -36,5 +36,5 @@ B4. Road To Nowhere
 > 「Little Creatures」は、トーキング・ヘッズのキャリアの中でも商業的にも成功したアルバムであり、批評家からも高い評価を受けました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m89766672710){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89766672710){:.button1}
 

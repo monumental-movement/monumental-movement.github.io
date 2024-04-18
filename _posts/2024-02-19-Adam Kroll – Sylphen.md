@@ -23,7 +23,7 @@ B2. Puk
 
 GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31773520944?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

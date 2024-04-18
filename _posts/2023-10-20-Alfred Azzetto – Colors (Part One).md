@@ -19,7 +19,7 @@ B. Colors (Alfred's Piano Mix)
 
 > 「Alfred Azzetto – Colors (Part One)」は、1978年リリースのWilbert Longmire「Black Is the Color」をサンプリング。スイスのガレージレーベルPurple Musicより2007年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m72277484543){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72277484543){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

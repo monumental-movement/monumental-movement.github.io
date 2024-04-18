@@ -40,5 +40,5 @@ B6. Love Is Blindness
 > 「Achtung Baby」には、多くのヒット曲が収録されています。例えば、「One」や「Mysterious Ways」、「Even Better Than the Real Thing」などがあります。これらの楽曲は、アルバムの実験的なアプローチと共に、独特なサウンドと強力なメロディが特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m41507075580){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41507075580){:.button1}
 

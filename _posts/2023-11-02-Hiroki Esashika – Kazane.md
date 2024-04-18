@@ -29,7 +29,7 @@ B1. Kazane (Superchumbo Remix)
 
 > B面は、Superchumboことニューヨーク出身のハウスDJ/プロデューサーTom Stephanによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m57660388383){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57660388383){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

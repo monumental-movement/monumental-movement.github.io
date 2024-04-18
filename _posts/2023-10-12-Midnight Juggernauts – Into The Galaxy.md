@@ -25,7 +25,7 @@ B2. Into The Galaxy (Danger Remix)
 
 > B面１曲目は、イギリスのエレクトロニック/オルタナティブバンドMetronomyによるremix。B面２曲目はフランスの電子ミュージシャン/プロデューサーDanger（Franck Rivoire）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m29871308706){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29871308706){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

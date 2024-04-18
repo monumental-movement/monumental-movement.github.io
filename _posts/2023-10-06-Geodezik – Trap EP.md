@@ -22,7 +22,7 @@ B2. Outstepper
 > 1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m86478584214){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86478584214){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

@@ -18,7 +18,7 @@ B. Easy Filter Part 8
 > 2000年にReel Musiqからリリースされたケンイシイによるフロアライクなトラックをリリースする別名義「FLR」による"Easy Filters"シリーズのパート7&8収録。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m41646790223){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41646790223){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

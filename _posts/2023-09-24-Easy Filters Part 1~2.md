@@ -20,7 +20,7 @@ B. Easy Filter Part 2
 > 2001年のアルバム『Easy Filters』にも収録されました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m66543107278){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66543107278){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -37,7 +37,7 @@ B6. Meg Hentges–This Kind Of Love
 
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
 
-[メルカリで購入](https://jp.mercari.com/item/m95283497608){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95283497608){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>

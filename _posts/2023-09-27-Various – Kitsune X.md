@@ -41,4 +41,4 @@ v-rating: VG
 
 > エレクトロ、ディスコ・パンクをベースに、フリーフォームで展開されるコンピレーションアルバムです。
 
-[メルカリで購入](https://jp.mercari.com/item/m55280452092){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55280452092){:.button1}

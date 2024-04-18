@@ -21,7 +21,7 @@ AA2. Breaking Out
 
 > スコットランド・グラスゴー出身のテクノ/テックハウスDJ・プロデューサーFunk D'Void（ファンク・ド・ヴォイド/Lars Sandberg）とDJ Percy X（パーシーX/Tony Scott/トニー・スコット）のプロジェクト、X-FunkがSomaレーベルからリリースしたアシッドテクノ。
 
-[メルカリで購入](https://jp.mercari.com/item/m26753507749){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26753507749){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -28,7 +28,7 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 
 
-[メルカリで購入](https://jp.mercari.com/item/m59353657032){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

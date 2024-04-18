@@ -22,7 +22,7 @@ Smurf & Perry（スマーフ&ペリー）は、ドイツ出身のDJ Big Smurf（
 
 「Smurf & Perry – Lovin' You」は、1978年リリースのDonald Byrd（ドナルド・バード）「 Loving You」をサンプリング。
 
-[メルカリで購入](https://jp.mercari.com/item/m74148247550){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74148247550){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

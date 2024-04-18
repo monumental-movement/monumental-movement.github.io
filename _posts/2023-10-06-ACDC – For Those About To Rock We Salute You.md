@@ -36,5 +36,5 @@ B5. Spellbound
 > アルバムには、ヒット曲「For Those About to Rock (We Salute You)」をはじめ、「Let's Get It Up」、「Inject the Venom」、「Evil Walks」などの楽曲が収録されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m57758926139){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57758926139){:.button1}
 

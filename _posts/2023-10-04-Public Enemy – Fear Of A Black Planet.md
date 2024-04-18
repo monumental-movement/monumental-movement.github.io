@@ -54,5 +54,5 @@ B10. Fight The Power
 > 「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m21123775840){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21123775840){:.button1}
 

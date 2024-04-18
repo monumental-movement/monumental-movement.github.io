@@ -41,7 +41,7 @@ B5. たとえあなたが去って行っても
 ・シンセサイザープログラミング：浦田恵司、Chuck Wild
 ・コーラス：松任谷由実、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、白鳥英美子、ハイ・ファイ・セット、つのだひろ、Mark I、Marvin Walker、Marvin Baker、Cindy
 
-[メルカリで購入](https://jp.mercari.com/item/m46295874765){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295874765){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

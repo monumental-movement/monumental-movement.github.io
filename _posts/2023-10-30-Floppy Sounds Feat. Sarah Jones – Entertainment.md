@@ -25,7 +25,7 @@ B1. Entertainment (Dub)
 
 A2の共同プロデューサーはVaughan Merrick。
 
-[メルカリで購入](https://jp.mercari.com/item/m43333910037){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43333910037){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

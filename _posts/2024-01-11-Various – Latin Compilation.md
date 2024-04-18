@@ -25,7 +25,7 @@ Trebol Clan（トレボルクラン）はプエルトリコ出身のレゲトン
 Nicky Jam（ニッキー・ジャム） は、ラテン音楽界でよく知られるアメリカのシンガー＆ソングライターで、レゲトンとラテントラップの発展に大きく貢献しました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

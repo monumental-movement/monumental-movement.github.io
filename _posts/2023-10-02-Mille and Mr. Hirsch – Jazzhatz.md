@@ -20,7 +20,7 @@ B2. One More
 > 2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m60762386842){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60762386842){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -26,7 +26,7 @@ B1. Lost Child (Dub Version)
 > 「Lost Child」は、エレクトロニックミュージックとポップの要素を融合させた楽曲で、ユニークなビート、魅力的なメロディ、そしてクリスタル・ケイの美しいボーカルが特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23583958254){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23583958254){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

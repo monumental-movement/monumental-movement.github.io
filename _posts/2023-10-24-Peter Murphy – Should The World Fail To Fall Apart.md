@@ -34,7 +34,7 @@ B5. Jemal
 > 「Should the World Fail to Fall Apart」は、かつてゴシックロックバンドBauhausのメンバーであったイギリスのソロアーティスト、ピーター・マーフィーのデビューアルバムです。このアルバムには、マーフィーによるMagazineの「The Light Pours Out of Me」やPere Ubuの「Final Solution」などのカバーが収められています。1986年にリリースされました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32847289290){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32847289290){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

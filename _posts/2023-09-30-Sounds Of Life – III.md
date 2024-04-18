@@ -21,7 +21,7 @@ b. A Spice Of Jazz
 
 > 「Spice of Jazz」も素晴らしいですが、ブレイクが多い点が特徴です。
 
-[メルカリで購入](https://jp.mercari.com/item/m91098858840?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91098858840?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

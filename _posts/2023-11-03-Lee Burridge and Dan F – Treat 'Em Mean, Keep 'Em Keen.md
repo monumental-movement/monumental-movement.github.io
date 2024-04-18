@@ -23,7 +23,7 @@ B. Skiiiirt
 
 > 「Treat 'Em Mean, Keep 'Em Keen」は、レーベルAlmost Anonymousから2006年にリリースされたエレクトロハウス・ミニマルトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m44311070291){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44311070291){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

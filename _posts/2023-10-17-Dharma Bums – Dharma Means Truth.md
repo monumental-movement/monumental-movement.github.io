@@ -23,7 +23,7 @@ B2. Dharma Means Dub
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m72375986642){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72375986642){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

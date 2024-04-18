@@ -18,7 +18,7 @@ B  Le Jeux Du "Boom Boom" (Instrumental)
 > 1987年にベルギー＆オランダのレーベル「Indisc」からリリースされた本作は、イタロディスコ／ハイエナジーとして当時人気を博しました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m88611274359){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88611274359){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

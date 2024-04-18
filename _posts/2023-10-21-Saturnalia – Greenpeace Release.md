@@ -20,7 +20,7 @@ AA. All Gone Soon
 > A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。 
 B面のセリフは、映画『スタートレックIV 故郷への長い道』から。
 
-[メルカリで購入](https://jp.mercari.com/item/m56917355639){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56917355639){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: G</strong>

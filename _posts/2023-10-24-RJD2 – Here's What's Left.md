@@ -27,7 +27,7 @@ B4. Bonus Beat
 
 > RJD2（Ramble Jon Krohn/ランブル・ジョン・クローン）は、USヒップホップ/エレクトロニックプロデューサー兼DJ。Soul Position、 MHz Legacy（MHz）、Icebird などのグループでも活躍。
 
-[メルカリで購入](https://jp.mercari.com/item/m71199037587){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71199037587){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

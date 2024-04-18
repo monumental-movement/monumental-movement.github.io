@@ -29,7 +29,7 @@ B3. The Real Thing
 
 Abraham Laboriel（エイブラハム・ラボリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作されたジャズファンクアルバム。1979年リリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43866436551?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

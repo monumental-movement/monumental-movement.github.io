@@ -29,7 +29,7 @@ A面１曲目はCisco Ferreira（シスコ・フェレイラ）のThe Advent （
 
 A面２曲目はスロヴェニア・テクノの代表Umek（ウメック）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89059917982?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

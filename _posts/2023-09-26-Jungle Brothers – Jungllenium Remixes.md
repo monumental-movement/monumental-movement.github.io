@@ -40,4 +40,4 @@ v-rating: VG
 > Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23288815689){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23288815689){:.button1}

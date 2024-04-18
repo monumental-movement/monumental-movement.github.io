@@ -28,7 +28,7 @@ B2. Para Lennon And McCartney (JD's Original Live Mix)
 > ジャジーなダンストラックに仕上げられたリミックスは必聴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m51770064122){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51770064122){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

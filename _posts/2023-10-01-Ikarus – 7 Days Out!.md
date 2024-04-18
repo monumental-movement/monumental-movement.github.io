@@ -24,7 +24,7 @@ D. A Window To The Future
 > 「Ikarus – 7 Days Out!」は、Danny Tenaglia（ダニー テナグリア）, Peter Rauhofer（ピーター ラウホーファー）, Cevin Fisher（セビン フィッシャー） やJunior Vasquez（ジュニア バスケス）など多くのDJがplayしたレコードです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m56727358548){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56727358548){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

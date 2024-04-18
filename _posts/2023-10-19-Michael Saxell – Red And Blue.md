@@ -34,7 +34,7 @@ B5. My Love Belongs To You
 > Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m62004854005){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62004854005){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

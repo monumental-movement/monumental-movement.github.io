@@ -22,7 +22,7 @@ B2  Bus Dis (Wooo) (LP Version)
 > 「U Know What Time It Is」は、エネルギッシュなヒップホップトラックで、グランドマスター・フラッシュのシグネチャースタイルが活かされています。ファンキーなビート、スクラッチング、サンプリング、ブレイクビートなど、ヒップホップの要素が組み合わさり、彼の独特なDJテクニックとクリエイティブなアイデアが、曲にリズムとダイナミズムを与えています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39048443857){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39048443857){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

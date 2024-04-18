@@ -17,7 +17,7 @@ B. Twisted (Svenson & Gielen Energy Mix)
 
 > 2002年にドイツのレーベル「Dos Or Die Recordings」からリリースされたSvenson and Johan GielenによるユニットSvenson & GielenのEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m85727936789){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85727936789){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

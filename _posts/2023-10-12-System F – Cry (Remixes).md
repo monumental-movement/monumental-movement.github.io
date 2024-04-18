@@ -23,7 +23,7 @@ B2. Cry (Ferry Corsten Club Mix)
 B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
 > B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
 
-[メルカリで購入](https://jp.mercari.com/item/m13662586330){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13662586330){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

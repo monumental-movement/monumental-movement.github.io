@@ -19,7 +19,7 @@ B. Doesn't Really Matter
 
 > 作詞作曲＆プロデュースは、Janet Jackson(ジャネット・ジャクソン)、US音楽プロデューサー＆ソングライター・デュオであるジャム&ルイス（Jam & Lewis/ジミー・ジャム (Jimmy Jam)とテリー・ルイス (Terry Lewis)の通称）。
 
-[メルカリで購入](https://jp.mercari.com/item/m80856899797){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80856899797){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

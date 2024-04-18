@@ -17,7 +17,7 @@ A. 卑弥呼 = Himiko
 
 B. 火星と金星の陰謀 = Venus And Mars
 
-[メルカリで購入](https://jp.mercari.com/item/m47826770015){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47826770015){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: G</strong>

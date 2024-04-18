@@ -23,7 +23,7 @@ Bad Pimpsは、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベ
 
 Monika Kruse（モニカクルス）のレーベルTerminal Mから2002年にリリースされたテクノ・テックハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

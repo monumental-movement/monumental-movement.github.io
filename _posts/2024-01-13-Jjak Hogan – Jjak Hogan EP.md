@@ -23,7 +23,7 @@ RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年に
 
 JJAK HOGANは、ジョージア州オーガスタ出身のSlim E. Neutron（Donte Oliver / ドンテ・オリバー）と Davey Koppa Feel (Wayne Brooks / ウェイン・ブルックス)によるプロジェクトで、Dr. Bass So-Low や Smoke Master I.C.E. 名義でも活動している。
 
-[メルカリで購入](https://jp.mercari.com/item/m92570158197?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92570158197?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

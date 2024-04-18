@@ -27,7 +27,7 @@ B3. Spring Wave (スプリング・ウェーブ)
 
 > 「Funky Caravan 」は、1970年代後半に活躍した日本のプログレ＆フュージョンバンドSpace Circus(スペース・サーカス)のデビューアルバム。ベースの岡野 ハジメは音楽プロデューサーとして、スターリン、POLYSICS、L'Arc〜en〜Ciel(ラルク アン シエル)など多数のバンドに関わっている。
 
-[メルカリで購入](https://jp.mercari.com/item/m38259723732){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38259723732){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

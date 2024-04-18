@@ -26,7 +26,7 @@ B2. Elektro Ride
 > 彼はこれまでに、Glenn Underground、Paul Johnson、DJ Rush、Lil Louis、Thomas Bangalter（Daft Punk）など、多くのアーティストと共演してきました。音楽の旅はフランス、スイス、ドイツなど、さまざまな国々に連れて行きました。また、彼は2012年に「Oblique Records Digital」を再び立ち上げました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m76924135596){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76924135596){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

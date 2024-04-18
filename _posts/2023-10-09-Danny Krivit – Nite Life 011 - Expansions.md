@@ -43,5 +43,5 @@ v-rating: VG
 
 > CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
 
-[メルカリで購入](https://jp.mercari.com/item/m68151858517){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68151858517){:.button1}
 

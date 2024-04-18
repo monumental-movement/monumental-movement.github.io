@@ -24,7 +24,7 @@ Mikael Nordgrenは、Tiger Stripes名義でも活動している。
 「 The Loup-Garou EP」はFrançois Kevorkian（フランソワK）が運営するレーベルWave Musicより2003年にリリースされました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m40447327696?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40447327696?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -28,7 +28,7 @@ B2. 翔んでみせろ(ライブ)
 > Barbee Boysは、1980年代から1990年代にかけて活動したバンドで、その個性的な音楽スタイルとパフォーマンスで人気を博しました。彼らの楽曲は、リスナーにエネルギーと勇気を与える力を持っており、ポジティブなメッセージを伝えることでファンの支持を集めました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m78740363521){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78740363521){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

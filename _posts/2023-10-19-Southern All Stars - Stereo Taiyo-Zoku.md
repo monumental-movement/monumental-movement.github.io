@@ -42,7 +42,7 @@ B7. 栞(しおり)のテーマ
 > 参加ミュージシャン
 桑田佳祐、大森隆志、原由子、関口和之、松田弘、野沢秀行、兼崎順一、妹尾隆一郎、EVE、Linda、ジェイク・コンセプションなど
 
-[メルカリで購入](https://jp.mercari.com/item/m44193861071){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44193861071){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -18,7 +18,7 @@ B. The Door (Mr. Sam At Nova Mix) Remix – Mr. Sam
 > 2001年にドイツのレーベルFleshからリリースされたJay Winborn & Mike Mucciによるユニット「Circuit Boy」によるテクノな１枚。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m44348501009){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44348501009){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

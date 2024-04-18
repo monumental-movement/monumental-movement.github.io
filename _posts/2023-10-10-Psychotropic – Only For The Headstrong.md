@@ -18,7 +18,7 @@ B. Only For The Headstrong (Out Of Your Head Mix)
 > 1991年にUKのレーベル「02 Records」からリリースされたPsychotropicのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m27760488621){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27760488621){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

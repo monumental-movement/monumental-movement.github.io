@@ -38,5 +38,5 @@ B5. C Minor
 > アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61578510071){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61578510071){:.button1}
 

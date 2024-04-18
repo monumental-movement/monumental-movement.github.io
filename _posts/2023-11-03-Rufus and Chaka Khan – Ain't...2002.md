@@ -22,7 +22,7 @@ B. Ain't...2002 (Drum Excursion)
 > 「Ain't...2002」は、Rufus & Chaka Khanのヒット曲「Ain't Nobody」をカナダ出身のハウスプロデューサーJulius Papp（ジュリアスパップ）がハウスリミックス。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m18858735619){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18858735619){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

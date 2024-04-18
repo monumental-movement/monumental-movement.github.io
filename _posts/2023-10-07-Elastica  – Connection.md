@@ -28,7 +28,7 @@ B3. Spastica
 > 「Connection」は、Elasticaのキャリアにおける重要な楽曲であり、彼らの音楽の特徴となっています。この曲は、オルタナティブロックやブリットポップのファンにとってのクラシックな作品となっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m72390925933){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72390925933){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

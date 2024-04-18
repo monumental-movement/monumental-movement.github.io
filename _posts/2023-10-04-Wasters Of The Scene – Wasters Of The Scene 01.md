@@ -19,7 +19,7 @@ B. Voulez-vous! Mix 2
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m51804569308){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51804569308){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

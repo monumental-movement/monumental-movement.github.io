@@ -17,7 +17,7 @@ B. Goodies (ZC's Dolce Remix)
 
 > 2008年にレーベル「Coco Machete Records」からリリースされたDebra DolceによるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m11056580710){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11056580710){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

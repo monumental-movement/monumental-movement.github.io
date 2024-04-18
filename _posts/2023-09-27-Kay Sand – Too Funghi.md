@@ -23,7 +23,7 @@ B2. Too Funghi (Lucretio Remix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m63658613527){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63658613527){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

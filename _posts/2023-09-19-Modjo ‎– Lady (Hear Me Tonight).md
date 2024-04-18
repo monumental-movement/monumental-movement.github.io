@@ -26,7 +26,7 @@ B2  Lady (Acoustic)
 > ダンスミュージックのファンや2000年代のポップミュージックを愛する多くの人々にとってクラシックとされています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m58855035943){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58855035943){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

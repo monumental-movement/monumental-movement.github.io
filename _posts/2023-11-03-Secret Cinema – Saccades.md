@@ -25,7 +25,7 @@ B2. Raw
 > 「Saccades」は、DJ Mac De Heyとして知られるオランダのテクノ＆プログレッシブDJ Michel De Hey と Jeroen Verheij によって1993年に設立されたプログレッシブハウス & テクノレーベルEC Recordsより2007年にリリースされたテクノトラック。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20960012767){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20960012767){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

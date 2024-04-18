@@ -29,7 +29,7 @@ B2. Ms. Cherry
 > 「Rotation」を含むNao Tokuiの楽曲は、エレクトロニック・ミュージックのファンにとって魅力的で、彼の音楽的な才能が認められています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61748434887){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61748434887){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

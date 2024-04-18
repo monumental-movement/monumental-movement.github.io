@@ -22,7 +22,7 @@ B2. Another Chance (Afterlife Mix)
 > 2001年にDefectedからリリースされた「Another Chanceアナザー チャンス」は、世界的にヒットとなったRoger Sanchezの代表曲。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m78518040318){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78518040318){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

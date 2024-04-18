@@ -32,7 +32,7 @@ B4. La Femme Chinoise
 B5. Back In Tokio
 
 
-[メルカリで購入](https://jp.mercari.com/item/m68419972040){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68419972040){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

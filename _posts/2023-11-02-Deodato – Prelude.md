@@ -29,7 +29,7 @@ B3. September 13
 
 > このアルバムは、クラシック作品をエレクトリック・ジャズにアレンジし、「ツァラトゥストラはかく語りき」は最も有名な初期クロスオーバー/フュージョンの一曲として知られている。
 
-[メルカリで購入](https://jp.mercari.com/item/m95926567501){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95926567501){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

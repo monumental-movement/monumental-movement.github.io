@@ -21,7 +21,7 @@ B  Culture Club (Glimmmix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m58333186087){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58333186087){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

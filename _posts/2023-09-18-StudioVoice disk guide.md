@@ -38,4 +38,4 @@ World
 Contemporary
 
 
-[メルカリで購入](https://jp.mercari.com/item/m49392573292){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49392573292){:.button1}

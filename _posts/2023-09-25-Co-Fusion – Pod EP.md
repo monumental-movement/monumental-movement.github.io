@@ -23,7 +23,7 @@ B2. Wild World (Full Version)
 
 > Pod EPは４曲入りでどのトラックも日本のテクノらしさを感じさせる楽曲です。
 
-[メルカリで購入](https://jp.mercari.com/item/m37514147918){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37514147918){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

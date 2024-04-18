@@ -18,7 +18,7 @@ A. マイナー・チューニング・バンド–ソウルこれっきりで�
 
 B. マリリン・モンロー・ハズバンド–ピーナッツ
 
-[メルカリで購入](https://jp.mercari.com/item/m64994772893){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64994772893){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -49,7 +49,7 @@ D6. Donna Summer– Last Dance (Reprise)
 
 E. Donna Summer - Je T'Aime (Moi Non Plus)
 
-[メルカリで購入](https://jp.mercari.com/item/m32254074664){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32254074664){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

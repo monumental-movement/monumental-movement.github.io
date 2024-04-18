@@ -30,7 +30,7 @@ A面１曲目は、Cirez D、Pryda名義でも活動するスウェーデンのD
 B面２曲目はRobin S「Show Me Love」や電気グルーヴ、Jark Prongo（ジャーク・ブロンコ）など様々なアーティストのリミックスを手がけるダッチ・テクノハウスDJ、Laidback Luke（レイドバック・ルーク）によるremix。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m98157842999?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98157842999?afid=6142608987){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -28,7 +28,7 @@ B0.02　Limbo Of Vanished Possibilities (Mr C Mix)
 > 次に、美しいオルガンとピアノのライン、小さなヒット、そしてフィルター処理された手拍子のパーカッション、そして、DCがキラーベースラインを提供し、これには「弾力」のあるテクスチャで豊かな音像を描いています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m14966528973){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14966528973){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

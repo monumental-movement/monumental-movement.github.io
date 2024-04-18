@@ -19,7 +19,7 @@ B. Pulsed
 
 > A面はイギリス出身のプログレッシブハウスDJ、Trisco（Harvey Dawson）によるリミックス。
 
-[メルカリで購入](https://jp.mercari.com/item/m13532909371){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13532909371){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

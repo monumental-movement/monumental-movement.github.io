@@ -27,7 +27,7 @@ B3. Groove Master (Instrumental Remix)
 
 > A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
 
-[メルカリで購入](https://jp.mercari.com/item/m10585219627){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10585219627){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -18,7 +18,7 @@ B. Untitled
 > 2001年にUKのレーベル「Disq」からリリースされたRobert Armani（ロバートアルマ二）のプロジェクトChester BeattyのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m92597172261){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92597172261){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

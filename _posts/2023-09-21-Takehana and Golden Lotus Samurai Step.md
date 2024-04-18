@@ -24,7 +24,7 @@ B2  Cut Up (Sampling Collage Art)
 > 「Samurai Step」は、エレクトロニックミュージックファンやアーティストにとって人気の作品です。彼らの音楽は、日本の文化や現代の音楽シーンの融合を通じて、新たな視点や音楽体験を提供しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m72626209254){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72626209254){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

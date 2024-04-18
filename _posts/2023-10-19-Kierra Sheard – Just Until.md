@@ -25,7 +25,7 @@ B3. Let Go (The Godson Concept)
 
 > Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 
-[メルカリで購入](https://jp.mercari.com/item/m74116877219){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74116877219){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

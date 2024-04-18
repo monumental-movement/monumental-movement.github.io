@@ -25,7 +25,7 @@ B3. No Trouble
 
 1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
 
-[メルカリで購入](https://jp.mercari.com/item/m74610746743){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74610746743){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

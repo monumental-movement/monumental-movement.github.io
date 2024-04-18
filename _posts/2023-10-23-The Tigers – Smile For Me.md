@@ -23,7 +23,7 @@ B. Rain Falls On The Lonely = 淋しい雨
 
 > 「Smile For Me 」は、Bee Gees(ビー・ジーズ)のBarry Gibb(バリー・ギブ)とMaurice Gibb(モーリス・ギブ)が作詞・作曲を手がけた曲。
 
-[メルカリで購入](https://jp.mercari.com/item/m46304938061){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46304938061){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

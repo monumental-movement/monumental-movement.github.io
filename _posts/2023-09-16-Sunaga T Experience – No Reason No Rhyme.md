@@ -29,7 +29,7 @@ B2. No Reason No Rhyme (Insoft Batucada Remix)
 > Sunaga T Experienceは、異なる音楽の影響を組み合わせ、魅力的な作品を生み出す能力で評価されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m16005291032){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16005291032){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

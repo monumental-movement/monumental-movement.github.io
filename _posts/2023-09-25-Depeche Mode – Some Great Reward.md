@@ -36,7 +36,7 @@ B4. Blasphemous Rumours
 > 「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84995545224){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84995545224){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

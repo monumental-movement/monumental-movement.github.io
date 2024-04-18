@@ -19,7 +19,7 @@ B1. Touch Me (The EM Soft Style)
 
 > 1999年にイタリアのレーベル「Hot Trax」からリリースされた本名Sandro Murru「S Moore」によるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m61650546749){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61650546749){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

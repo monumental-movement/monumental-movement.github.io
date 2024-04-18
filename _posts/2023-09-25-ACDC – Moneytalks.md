@@ -22,7 +22,7 @@ A2. Borrowed Time
 
 この曲は、AC/DCの代表曲の一つとして知られており、彼らのキャリアにおけるヒット曲の一つです。エアギターやヘッドバンギングなど、ロックファンにとっては盛り上がる曲として人気があります。また、そのキャッチーなメロディや力強い演奏は、広い層の音楽ファンにも楽しまれています。
 
-[メルカリで購入](https://jp.mercari.com/item/m95995601348){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95995601348){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

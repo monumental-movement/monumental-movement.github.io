@@ -21,7 +21,7 @@ B1. Fire Wire (Club Mix)
 
 > B面の「Fire Wire」はCosmic Gateの代表曲。「Fire Wire」はリリース以来、DJ Scott、Klubdoctorz、Rank 1、Wippenberg、Dimitri Vegas & Like Mike、DJ Deliciousなどさまざまなアーティストにremixされている。
 
-[メルカリで購入](https://jp.mercari.com/item/m73399445276){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73399445276){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

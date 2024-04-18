@@ -31,7 +31,7 @@ B3. Bridge Over Troubled Music
 
 B4. Mad Pierrot
 
-[メルカリで購入](https://jp.mercari.com/item/m43230673648){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43230673648){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: G</strong>

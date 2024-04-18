@@ -27,7 +27,7 @@ Noisiaは、2022年に解散したオランダのドラムンベーストリオ�
 
 「Yellow Brick / Raar」は、Noisia自身が運営するレーベルDivision Recordingsより2007年にリリースされたブレイク・ハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91335600538?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

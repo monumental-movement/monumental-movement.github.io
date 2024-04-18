@@ -27,7 +27,7 @@ B7. Wailing Words
 
 > Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m51458785746){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51458785746){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG+</strong>

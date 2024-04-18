@@ -19,7 +19,7 @@ B. Universal Mind
 
 > 「Beyonder / Universal Mind」は、2004年にTresor（トレゾア）からリリースされた、Joey Beltram（ジョイ・ベルトラム）のテクノ・テックハウス・トラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m32716237760){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32716237760){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

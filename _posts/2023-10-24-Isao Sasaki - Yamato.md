@@ -21,7 +21,7 @@ B. テレサよ永遠に
 
 > 1978年の映画『さらば宇宙戦艦ヤマト 愛の戦士たち』の挿入歌・イメージソング。
 
-[メルカリで購入](https://jp.mercari.com/item/m54170309035){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54170309035){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

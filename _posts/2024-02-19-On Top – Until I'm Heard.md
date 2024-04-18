@@ -25,7 +25,7 @@ On Top（オントップ）は、Darrell Ellerbe, Julius James, Sean Pennington�
 
 「Until I'm Heard」は、ニューヨークを拠点に置くアメリカのエレクトロニック・ダンス ミュージックのレコードレーベルBig Beatから1991年にリリースされたガラージハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58755691965?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

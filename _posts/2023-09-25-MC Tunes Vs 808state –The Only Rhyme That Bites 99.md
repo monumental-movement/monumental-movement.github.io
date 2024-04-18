@@ -24,7 +24,7 @@ B. 808state –Cubik (Victor Calderone's Not So Long Mix)
 > このリメイクは、オリジナルの魅力を保ちながら、新たなアレンジとプロダクションが加えられています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m96097722789){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96097722789){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

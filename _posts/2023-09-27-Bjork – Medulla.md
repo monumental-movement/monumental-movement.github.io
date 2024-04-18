@@ -48,4 +48,4 @@ v-rating: VG
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20361043307?afid=6142608987){:.button1}

@@ -26,7 +26,7 @@ B2  The Art Of Chillin'
 > 「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30941208338){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30941208338){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

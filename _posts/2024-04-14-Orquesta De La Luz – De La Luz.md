@@ -38,4 +38,4 @@ v-rating: VG
 1曲目のSalsa caliente del Japón（日本からの熱いサルサ）は、全米のビルボード誌ラテン・チャートで11週間にわたって1位を獲得した。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){:.button1}

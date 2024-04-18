@@ -22,7 +22,7 @@ B  Where's The Fun(Sweet Light - Patinoires Italiennes Remix)
 > また、エレクトロとテクノの両方の側面があり、DK7の以前の12インチ と同様に多くのバラエティが詰まっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m78003001703){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78003001703){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

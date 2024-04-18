@@ -19,7 +19,7 @@ B. I Am Gonna Be (Glow Remix)
 
 > 1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m91456308602){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91456308602){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

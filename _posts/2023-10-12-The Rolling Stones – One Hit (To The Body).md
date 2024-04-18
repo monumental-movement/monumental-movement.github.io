@@ -23,7 +23,7 @@ B2. Fight
 
 > A面のLondon Mix（ロンドン・ミックス）は、プロデュースを担当したスティーヴ・リリーホワイトによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m20361056204){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20361056204){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

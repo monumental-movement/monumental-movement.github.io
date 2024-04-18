@@ -35,7 +35,7 @@ B5. So Good To See You
 
 > 「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
 
-[メルカリで購入](https://jp.mercari.com/item/m96486417042){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96486417042){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

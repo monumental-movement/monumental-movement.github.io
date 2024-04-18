@@ -21,7 +21,7 @@ B2. Cold Heart Part II
 
 1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
 
-[メルカリで購入](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19224606586?afid=6142608987){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

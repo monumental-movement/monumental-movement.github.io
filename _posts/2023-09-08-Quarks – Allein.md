@@ -33,7 +33,7 @@ B2. Allein (Original)
 > 2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m18806136180){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18806136180){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -32,7 +32,7 @@ B5  Sucked Down
 
 > 1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
 
-[メルカリで購入](https://jp.mercari.com/item/m94673637553){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94673637553){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

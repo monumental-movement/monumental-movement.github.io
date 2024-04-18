@@ -26,7 +26,7 @@ B2. Equalizer
 ※200枚の限定版で、A3 と A4 はクレジットされていない間奏で、ロックされたグルーヴで終わります。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m64740020390){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64740020390){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -37,7 +37,7 @@ B5. Brain Shake
 
 > AC/DCのリードボーカルであるブライアン・ジョンソンが参加した3枚目のアルバムであり、また、ドラマーのフィル・ラッドが一時的に脱退する前の最後のアルバムとなります。
 
-[メルカリで購入](https://jp.mercari.com/item/m69281188370){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69281188370){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

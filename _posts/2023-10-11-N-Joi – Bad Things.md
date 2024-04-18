@@ -21,7 +21,7 @@ B1. Bad Things (Wink's Stabbed Filled Acid Dub)
 
 > A面２曲目とB面は、DJ WINKことJosh Wink（ジョッシュウィンク）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m91007841162){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91007841162){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

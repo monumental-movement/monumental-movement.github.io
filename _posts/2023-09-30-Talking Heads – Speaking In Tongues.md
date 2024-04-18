@@ -37,4 +37,4 @@ B4. This Must Be The Place (Naive Melody)
 
 このアルバムは、トーキング・ヘッズのファンにとっては必聴の作品であり、独特なサウンドとインテリジェントな歌詞が融合した「Speaking In Tongues」は、ロックミュージックの歴史においても一つのマイルストーンとなっています。
 
-[メルカリで購入](https://jp.mercari.com/item/m36336920613){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36336920613){:.button1}

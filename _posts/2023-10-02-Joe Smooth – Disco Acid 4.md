@@ -21,7 +21,7 @@ B2. Walking Into Sunshine
 
 > 2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m36121483921){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36121483921){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

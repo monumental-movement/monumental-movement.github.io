@@ -21,7 +21,7 @@ B2. Fade
 
 1997年にベルギーのレーベルElypsiaからClaude Youngが、自身のホームタウンであるデトロイトのプロデューサー作品をリリースするために発表した1枚です。
 
-[メルカリで購入](https://jp.mercari.com/item/m84836534062){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84836534062){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -27,7 +27,7 @@ B3. Pump It
 
 > シカゴのディープハウスレーベルNight Club Recordsより1991年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m90896178440){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90896178440){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

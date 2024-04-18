@@ -23,7 +23,7 @@ B. Hyperballad (The Stomp Mix)
 > エクスペリメンタルなサウンドで魅力的な2ミックスが収録されたエレクトロニック・クラシックの秀作です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m51141432858){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51141432858){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

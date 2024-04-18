@@ -29,4 +29,4 @@ v-rating: VG
 
 > 「Magic Numbers」は、1200 Microgramsの3枚目のスタジオアルバムであり、彼らのサイケデリックトランスやフルオンサウンドを特徴としています。彼らの音楽は、踊りやフェスティバルなどのエレクトロニックミュージックのシーンで人気を博しています。
 
-[メルカリで購入](https://jp.mercari.com/item/m59821579100){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59821579100){:.button1}

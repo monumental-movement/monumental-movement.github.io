@@ -25,7 +25,7 @@ B2  Bluebeard (Buddy Mikro Mix)
 
 > オリジナルのアルバムバージョンとPeter Thomas Sound Orchestra、Saint Etienneなどによるリミックスを収録。
 
-[メルカリで購入](https://jp.mercari.com/item/m92789980685){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92789980685){:.button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

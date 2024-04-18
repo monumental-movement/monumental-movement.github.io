@@ -19,7 +19,7 @@ B. The Magic Garden
 
 > 1969年に「Aquarius / Let The Sunshine In 」でグラミー賞最優秀レコード賞を受賞。
 
-[メルカリで購入](https://jp.mercari.com/item/m33529476012){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33529476012){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

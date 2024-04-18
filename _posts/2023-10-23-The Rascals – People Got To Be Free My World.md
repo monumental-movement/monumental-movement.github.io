@@ -19,7 +19,7 @@ B. My World
 
 > 浜田省吾や山下達郎など日本のミュージシャンにも影響を与えたバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m47977727974){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47977727974){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

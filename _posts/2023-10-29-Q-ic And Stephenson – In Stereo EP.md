@@ -21,7 +21,7 @@ B2. Anything Else
 
 > Q-ic (Luc Byltiauw) は、ベルギーのDJ兼音楽プロデューサーで、アントワープのテクノムーブメントを作ったCreation Tecnologiqの立役者としても知られています。「In Stereo EP」は、Q-ic And StephensonのファーストEP。
 
-[メルカリで購入](https://jp.mercari.com/item/m29101875086){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29101875086){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

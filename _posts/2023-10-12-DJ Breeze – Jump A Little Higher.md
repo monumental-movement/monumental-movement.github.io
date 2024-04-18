@@ -24,7 +24,7 @@ b. Jump A Little Higher
 > 「Jump A Little Higher」は、ヴォーカルを Poor Pocket Productions 「Kick Your Legs In The Air」から、サウンドエフェクトをPeech Boys 「Don't Make Me Wait (Special Version)」からサンプリング。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m45158763223){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45158763223){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

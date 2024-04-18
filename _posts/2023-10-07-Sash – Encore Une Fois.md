@@ -24,7 +24,7 @@ B2. Encore Une Fois (Powerplant "Toke On This" Mix)
 > イギリスでは、同年2月にリリースされ、UKシングルチャートで2位に浮上し、ゴールド認定を受けました。ベルギー、フィンランド、フランス、アイスランド、イタリア、ノルウェー、スペイン、スウェーデンなど、ヨーロッパ全体でトップ10のヒットとなりました。ギリシャとアイルランドでは、この曲はチャートのトップに達しました。アメリカではクラブで大ヒットし、Billboard Hot Dance Club Playチャートで1位を獲得し、14週間にわたってチャートにランクインしました。「Encore une fois」のミュージックビデオはOliver Sommerによって監督されました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m89838653459){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89838653459){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

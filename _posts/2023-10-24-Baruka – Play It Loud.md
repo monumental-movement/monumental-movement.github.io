@@ -27,7 +27,7 @@ D2. Play It Loud (Baruka Have A Break Mix)
 
 > A面はSamuel L Session（サミュエル・エル・セッション）のリミックス。
 
-[メルカリで購入](https://jp.mercari.com/item/m27275378332){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27275378332){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: G</strong>

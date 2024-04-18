@@ -23,7 +23,7 @@ B. When A Woman Loves A Man (Extended Dance Remix)
 
 remixは、1970年代後半からダンス・ミュージック・シーンで活躍するFrancois Kevorkian（フランソワ・ケヴォーキアン（Francois K / フランソワK））。
 
-[メルカリで購入](https://jp.mercari.com/item/m51108809980?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51108809980?afid=6142608987){:.button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>
