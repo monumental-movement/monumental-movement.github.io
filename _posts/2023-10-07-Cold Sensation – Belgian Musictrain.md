@@ -24,7 +24,7 @@ B. Belgian Musictrain (New York Detroit Mix)
 > 「Belgian Musictrain」は当時のダンスミュージックのトレンドやテクノロジーを取り入れたサウンドでダンスフロアを盛り上げることを意図しています。この曲はベルギーのダンスミュージックシーンにおいて一定の評価を得た作品として知られており、キャッチーなメロディとリズム、そしてベルギーの音楽シーンへのオマージュとして一部のダンスミュージックファンにとって特別な意味を持つ曲です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m13228715845)
+[メルカリで購入](https://jp.mercari.com/item/m13228715845){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

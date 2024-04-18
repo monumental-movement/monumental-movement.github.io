@@ -44,7 +44,7 @@ D2. Yazoo–Don't Go
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m66807575600)
+[メルカリで購入](https://jp.mercari.com/item/m66807575600){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

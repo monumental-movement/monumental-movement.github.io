@@ -26,7 +26,7 @@ B2. Roll In Life
 > 1990年代中盤、Groove KitchenとWiggleのプロモーターおよびレジデントDJでした。また、Freaky DiscoのレジデントDJでもありました。さらに、Energy 87.9 FMで番組をホストしていた経験もあります。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m15247506715)
+[メルカリで購入](https://jp.mercari.com/item/m15247506715){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

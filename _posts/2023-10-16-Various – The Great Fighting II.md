@@ -35,7 +35,7 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m28875138146)
+[メルカリで購入](https://jp.mercari.com/item/m28875138146){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

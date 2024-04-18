@@ -24,7 +24,7 @@ Rebus Tapeは、ブレイクビーツユニットPhab Com Mastersのメンバー
 「Drug Shaping EP」はサブライムレコーズのサブレーベルReel Musiqから2000年にリリースされたRebus Tapeのデビュー作。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m34318615204?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

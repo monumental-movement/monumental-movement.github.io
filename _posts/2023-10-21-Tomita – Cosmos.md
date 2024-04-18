@@ -31,7 +31,7 @@ B4. The Sea Named "Solaris"
 
 > 「宇宙幻想」は、宇宙の星々や銀河、惑星などにインスパイアを受けた音楽であり、冨田勲のシンセサイザーのテクニックとサウンドデザインが際立つアルバムです。
 
-[メルカリで購入](https://jp.mercari.com/item/m33587379551)
+[メルカリで購入](https://jp.mercari.com/item/m33587379551){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

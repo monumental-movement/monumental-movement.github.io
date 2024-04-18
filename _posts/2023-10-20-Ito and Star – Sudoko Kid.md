@@ -21,7 +21,7 @@ B1. Sudoko Kid (Nic Fanciulli Remix)
 
 > A面2曲目は、ミニマルテクノ/テックハウスプロデューサーデュオAlexi Delano & Xpansulによるremix。B面は、イギリス出身のDJ/プロデューサー＆Saved Recordsの創設者Nic Fanciulliによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m98508747711)
+[メルカリで購入](https://jp.mercari.com/item/m98508747711){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

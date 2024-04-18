@@ -21,7 +21,7 @@ B2. The 8th Of December
 
 > 2002年にTorema RecordsからリリースされたFumiya TanakaのEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m93872054056)
+[メルカリで購入](https://jp.mercari.com/item/m93872054056){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

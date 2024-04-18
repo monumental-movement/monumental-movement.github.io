@@ -21,7 +21,7 @@ Y. Cosmic Glue
 
 > まるで子守唄として完璧に使われることを想像できます。本当に素晴らしい一曲です。
 
-[メルカリで購入](https://jp.mercari.com/item/m84434801659)
+[メルカリで購入](https://jp.mercari.com/item/m84434801659){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

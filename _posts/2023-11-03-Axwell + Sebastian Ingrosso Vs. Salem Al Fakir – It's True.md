@@ -19,7 +19,7 @@ A. It's True (Original Mix)
 
 > 「It's True」は、2007年にAxtone Recordsからリリースされたプログレッシブハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m99195071709)
+[メルカリで購入](https://jp.mercari.com/item/m99195071709){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

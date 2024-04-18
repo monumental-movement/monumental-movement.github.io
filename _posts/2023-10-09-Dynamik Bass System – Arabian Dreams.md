@@ -22,7 +22,7 @@ B2. Frequencies
 > 1998年にドイツのレーベル「Gigolo Records」からリリースされたThomas WernerのプロジェクトであるDynamik Bass SystemによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m22979609212)
+[メルカリで購入](https://jp.mercari.com/item/m22979609212){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

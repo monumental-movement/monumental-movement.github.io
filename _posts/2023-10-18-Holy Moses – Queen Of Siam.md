@@ -33,7 +33,7 @@ B5. Torches Of Hire
 
 「Queen Of Siam」は、Holy Mosesのデビューアルバムで、 ドイツのヘヴィメタルレーベルAaarrg Recordsより1986年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m85692189468)
+[メルカリで購入](https://jp.mercari.com/item/m85692189468){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -28,7 +28,7 @@ B2. Te Ves Buena (Remix)
 > エル・ジェネラルの「Muévelo」は、その感染力のあるリズムと楽しいパーティーの雰囲気から、ラテン音楽のファンやレゲトン愛好家に広く受け入れられました。この曲は、彼のキャリアを代表する作品の一つとして、現在でも人々に愛され続けています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24319848302)
+[メルカリで購入](https://jp.mercari.com/item/m24319848302){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

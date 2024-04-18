@@ -45,4 +45,4 @@ C2.The Disco Four –Do It, Do It
 
 C3.Spanish Fly & The Terrible Two–Spanglish など
 
-[メルカリで購入](https://jp.mercari.com/item/m75930589194)
+[メルカリで購入](https://jp.mercari.com/item/m75930589194){: .button1}

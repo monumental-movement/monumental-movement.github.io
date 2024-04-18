@@ -39,7 +39,7 @@ B4. Resolution
 
 > この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
-[メルカリで購入](https://jp.mercari.com/item/m23380322375)
+[メルカリで購入](https://jp.mercari.com/item/m23380322375){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

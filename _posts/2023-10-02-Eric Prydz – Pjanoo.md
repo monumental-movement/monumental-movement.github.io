@@ -20,7 +20,7 @@ B1. Pjanoo (Afterlife Remix)
 > シングルはスウェーデンのシングルチャートで6位を記録しました。しかし、「Pjanoo」はスウェーデン以外でも成功を収め、特にイギリスではUKシングルチャートで2位を記録し、同国のダンスチャートで10週にわたり首位を獲得しました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m63849423983)
+[メルカリで購入](https://jp.mercari.com/item/m63849423983){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

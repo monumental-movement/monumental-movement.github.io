@@ -26,5 +26,5 @@ v-rating: VG
 
 > Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
 
-[メルカリで購入](https://jp.mercari.com/item/m38252270171)
+[メルカリで購入](https://jp.mercari.com/item/m38252270171){: .button1}
 

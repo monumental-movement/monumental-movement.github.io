@@ -18,7 +18,7 @@ B. Breakfast In Rio (Hey That's Our Rap)
 > 1988年にレーベル「Subway」からリリースされたPeter BonneとPick A NumberによるユニットChayellにようるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m59298889139)
+[メルカリで購入](https://jp.mercari.com/item/m59298889139){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

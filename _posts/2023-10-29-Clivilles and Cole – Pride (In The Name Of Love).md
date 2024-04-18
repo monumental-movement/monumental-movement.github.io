@@ -17,7 +17,7 @@ B. A Deeper Love (Underground Club Mix / Let's Go Chanting Mix)
 
 > A面は、U2のPride (In The Name Of Love) をテクノ/クラブアレンジでカバー。
 
-[メルカリで購入](https://jp.mercari.com/item/m53693730056)
+[メルカリで購入](https://jp.mercari.com/item/m53693730056){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

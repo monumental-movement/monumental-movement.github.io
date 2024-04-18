@@ -19,7 +19,7 @@ B. Und Weiter Geht's
 
 > 1990年にリリースされた「Die Kybernauten」は、クラブヒットとなりこの時代のアンセム＆クラシックとされている。
 
-[メルカリで購入](https://jp.mercari.com/item/m15180946021)
+[メルカリで購入](https://jp.mercari.com/item/m15180946021){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -20,7 +20,7 @@ B2. Together In Wonderland (DJ Demand Re-mix)
 > 1995年にオランダのレーベルMaste Maximum Recordsよりリリースされたチャーリー・ローノイズとメンタル・テオによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m65398480304)
+[メルカリで購入](https://jp.mercari.com/item/m65398480304){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

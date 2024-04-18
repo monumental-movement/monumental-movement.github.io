@@ -21,7 +21,7 @@ B. The Flirting Kind
 
 「Let Them All Talk」は、1984年にリリースされたエルヴィス・コステロの24枚目のシングル。
 
-[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

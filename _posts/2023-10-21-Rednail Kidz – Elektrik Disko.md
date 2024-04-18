@@ -19,7 +19,7 @@ B1. Electrik Disko
 
 > 別名義でRednail Kid、Anthony Pearson（アンソニー・ピアソン）をメンバーに迎えたRednail Kidz + 1 がある。
 
-[メルカリで購入](https://jp.mercari.com/item/m20845429230)
+[メルカリで購入](https://jp.mercari.com/item/m20845429230){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

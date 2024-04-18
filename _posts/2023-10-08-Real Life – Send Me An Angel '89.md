@@ -27,7 +27,7 @@ B2. Always
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m25923654306)
+[メルカリで購入](https://jp.mercari.com/item/m25923654306){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

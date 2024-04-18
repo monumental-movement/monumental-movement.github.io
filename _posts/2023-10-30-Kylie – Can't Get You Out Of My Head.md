@@ -27,7 +27,7 @@ D02. Can't Get You Out Of My Head (K & M Mindprint Mix)
 
 > A面、B面のremixはTim Deluxe(ティム・デラックス)。D面はSuperchumboことTom Stephan(トム・ステファン)のremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m93457157873)
+[メルカリで購入](https://jp.mercari.com/item/m93457157873){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

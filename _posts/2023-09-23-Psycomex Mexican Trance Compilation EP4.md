@@ -25,7 +25,7 @@ B2  Teen Sluts–Foust On Doust
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61208670759)
+[メルカリで購入](https://jp.mercari.com/item/m61208670759){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

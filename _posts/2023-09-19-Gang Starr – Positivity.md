@@ -24,7 +24,7 @@ B2  No More Mr. Nice Guy (Fed Up Mix)
 > 「Positivity」は、彼らの3枚目のスタジオアルバムである「Daily Operation」（1992年）に収録されています。この曲は、ポジティブなメッセージと前向きなエネルギーを伝えることをテーマにしています。Guruの独特なラップスタイルとPremierの特徴的なビートが組み合わさり、Gang Starrの代表作の一つとして、またヒップホップのクラシックとして高く評価されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m87981443033)
+[メルカリで購入](https://jp.mercari.com/item/m87981443033){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

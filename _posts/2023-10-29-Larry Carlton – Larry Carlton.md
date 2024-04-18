@@ -31,7 +31,7 @@ B4. (It Was) Only Yesterday
 
 > 「Mr.335」の愛称で知られるラリー・カールトンは、4度のグラミー賞に輝き、常にフュージョン界をリードしてきたレジェンド・ギタリストです。自身の名前を関したこのアルバムは、ラリー・カールトンのギターリストとしての地位を固めた一枚となりました。
 
-[メルカリで購入](https://jp.mercari.com/item/m14275784867)
+[メルカリで購入](https://jp.mercari.com/item/m14275784867){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: M</strong>

@@ -23,7 +23,7 @@ D. The Edge
 
 > C面は、イギリスの DJ /プロデューサーであり、Roni Size & Reprazent (と Breakbeat Eraのメンバーだった、DJ DieことDaniel Robert Kausman（ダニエル・ロバート・カウスマン）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m36282109210)
+[メルカリで購入](https://jp.mercari.com/item/m36282109210){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

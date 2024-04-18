@@ -22,7 +22,7 @@ B2. Doctor And The Medic (Playback)
 > プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m37328991093)
+[メルカリで購入](https://jp.mercari.com/item/m37328991093){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

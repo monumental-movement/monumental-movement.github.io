@@ -45,7 +45,7 @@ D4. Untitled
 
 > Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
 
-[メルカリで購入](https://jp.mercari.com/item/m94890989911)
+[メルカリで購入](https://jp.mercari.com/item/m94890989911){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

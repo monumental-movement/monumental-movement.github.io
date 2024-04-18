@@ -25,7 +25,7 @@ B3. Rotterdam Anthem (Accapella A/D Ijssel Mix)
 
 > 「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m81174559941)
+[メルカリで購入](https://jp.mercari.com/item/m81174559941){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: </strong>

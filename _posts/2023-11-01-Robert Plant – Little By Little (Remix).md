@@ -25,7 +25,7 @@ D. Robert Plant And The Honeydrippers–Rockin' At Midnight
 
 > C面とD面は、ダラスでのライブ録音（1985年6月24日）。
 
-[メルカリで購入](https://jp.mercari.com/item/m78201761711)
+[メルカリで購入](https://jp.mercari.com/item/m78201761711){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

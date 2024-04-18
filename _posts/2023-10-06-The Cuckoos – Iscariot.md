@@ -20,7 +20,7 @@ B2. Down To The River
 > 1992年にUKのレーベル「Imaginary Records」からリリースされたThe CuckoosによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24001796450)
+[メルカリで購入](https://jp.mercari.com/item/m24001796450){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

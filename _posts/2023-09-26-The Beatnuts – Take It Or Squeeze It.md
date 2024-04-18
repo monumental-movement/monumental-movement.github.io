@@ -43,4 +43,4 @@ v-rating: VG
 
 > 「Take It Or Squeeze It」は、アップビートでファンキーなトラックを中心に構成されており、さまざまな音楽要素やサンプルが取り入れられています。このアルバムでは、The Beatnutsがヒップホップ、ファンク、ラテン音楽の要素を巧みに取り入れながら、独自のサウンドを展開しています。
 
-[メルカリで購入](https://jp.mercari.com/item/m67307985366)
+[メルカリで購入](https://jp.mercari.com/item/m67307985366){: .button1}

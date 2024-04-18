@@ -21,7 +21,7 @@ B. Street Walkin' Girl (テクニカラーの女の子)
 
 「She'd Rather Be With Me 」は、1977年にLondon Recordsよりリリースされた。プロデューサーはNick Raymonde。
 
-[メルカリで購入](https://jp.mercari.com/item/m46039365171?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

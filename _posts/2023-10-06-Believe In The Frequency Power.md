@@ -32,7 +32,7 @@ B5. Kiyoshi Hazemoto–Dawn Of Rainland
 > 1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23425148863)
+[メルカリで購入](https://jp.mercari.com/item/m23425148863){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

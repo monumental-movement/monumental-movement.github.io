@@ -19,7 +19,7 @@ B2. Blue Screen
 
 A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
 
-[メルカリで購入]https://jp.mercari.com/item/m33622720673)
+[メルカリで購入]https://jp.mercari.com/item/m33622720673){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

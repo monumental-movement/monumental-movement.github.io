@@ -19,7 +19,7 @@ B. La Jument De Mishao (Club Mix)
 
 Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。
 
-[メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

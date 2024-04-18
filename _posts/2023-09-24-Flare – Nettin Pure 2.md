@@ -20,7 +20,7 @@ B2  N.P2.1
 > 1995年にReel MusiqからリリースされたKen IshiiによるFlare名義での3トラック収録されたテクノサウンド。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61505338916)
+[メルカリで購入](https://jp.mercari.com/item/m61505338916){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

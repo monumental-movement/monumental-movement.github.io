@@ -39,7 +39,7 @@ D3. El Dîa Perfecto (Reprise)
 
 > 「Six Degrees」は、Universal Jazzから2000年にリリースされたマーク・ド・クライヴ・ロウ3枚目のアルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m41280420155)
+[メルカリで購入](https://jp.mercari.com/item/m41280420155){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

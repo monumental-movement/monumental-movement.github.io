@@ -21,7 +21,7 @@ B2  There Must Be An Angel (A Cappella)
 
 > 軽やかでソウルフルに英語カバーした９０年代の人気作。
 
-[メルカリで購入](https://jp.mercari.com/item/m20772595630)
+[メルカリで購入](https://jp.mercari.com/item/m20772595630){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

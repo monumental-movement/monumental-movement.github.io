@@ -37,7 +37,7 @@ B2. Come Together
 ・戸高一生/Kazumi Totaka 
 ・Makoto Dochiなど
 
-[メルカリで購入](https://jp.mercari.com/item/m79986597916)
+[メルカリで購入](https://jp.mercari.com/item/m79986597916){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

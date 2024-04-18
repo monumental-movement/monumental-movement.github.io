@@ -20,7 +20,7 @@ AA. G-Netic –The New Odyssey
 > AA面は、G-NeticとVinylgroover & Trixxy（Scott Attril & Jim Sullivan）によるトラック。ヴォーカルはRun-DMC の Jam Master Jay（ジャムマスタージェイ）をサンプリング。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m60668009425)
+[メルカリで購入](https://jp.mercari.com/item/m60668009425){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

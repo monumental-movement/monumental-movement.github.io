@@ -19,7 +19,7 @@ B2. Sentiments
 
 > 1995年にフランスのレーベル「Yellow Productions」からリリースされたJeff Flambeau & Stéphane Dupoupによるユニット「Fresh Lab」のEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m38141489136)
+[メルカリで購入](https://jp.mercari.com/item/m38141489136){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

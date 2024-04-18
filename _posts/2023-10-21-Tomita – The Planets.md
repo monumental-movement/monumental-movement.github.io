@@ -31,7 +31,7 @@ B4. VII Neptune
 
 > ジャケットデザインはStanislaw Fernandes（スタニスワフ・フェルナンデス）。
 
-[メルカリで購入](https://jp.mercari.com/item/m40861423103)
+[メルカリで購入](https://jp.mercari.com/item/m40861423103){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

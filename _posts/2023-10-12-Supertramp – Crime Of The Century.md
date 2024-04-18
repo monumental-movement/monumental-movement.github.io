@@ -34,7 +34,7 @@ B4. Crime Of The Century
 
 > プログレッシブ・ロックやアート・ロックの要素を取り入れた「Crime Of The Century」は、音楽批評家やファンから高い評価を受け、スーパートランプの成功の礎となった重要なアルバムとされており、70年代のロックミュージックの傑作の一つとして名高い一枚。
 
-[メルカリで購入](https://jp.mercari.com/item/m94592991444)
+[メルカリで購入](https://jp.mercari.com/item/m94592991444){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -25,7 +25,7 @@ B2. Force (Voxless)
 
 > 裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
 
-[メルカリで購入](https://jp.mercari.com/item/m82234983144)
+[メルカリで購入](https://jp.mercari.com/item/m82234983144){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

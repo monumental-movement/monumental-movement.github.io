@@ -32,7 +32,7 @@ Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロ�
 
 > Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m49529230918)
+[メルカリで購入](https://jp.mercari.com/item/m49529230918){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

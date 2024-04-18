@@ -24,7 +24,7 @@ B面１曲目のヴォーカルは、ハウスミュージックシーンで活�
 
 > 「Elektro-Synthesis」は、USシカゴに拠点を置くハードハウス・テックハウスレーベルUnderground Constructionより、2000年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m85609686798)
+[メルカリで購入](https://jp.mercari.com/item/m85609686798){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

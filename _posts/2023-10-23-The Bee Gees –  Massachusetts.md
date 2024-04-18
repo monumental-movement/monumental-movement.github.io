@@ -17,7 +17,7 @@ B. Holiday（ホリディ）
 
 > 「Massachusetts」(マサチューセッツ) は、Bee Geesが1967年にリリースした楽曲で、世界的なヒットとなった。この曲のメインボーカルはRobin Gibb（ロビン・ギブ）。
 
-[メルカリで購入](https://jp.mercari.com/item/m78031442389)
+[メルカリで購入](https://jp.mercari.com/item/m78031442389){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

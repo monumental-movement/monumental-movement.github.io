@@ -25,7 +25,7 @@ Partners in Kryme (Partnerz in Kryme) は、ニューヨーク出身のJames Alp
 
 「Turtle Power」は、1990年の映画『ティーンエイジ・ミュータント・ニンジャタートルズ』のために作られ、世界的なヒットとなった。
 
-[メルカリで購入](https://jp.mercari.com/item/m18653257795?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

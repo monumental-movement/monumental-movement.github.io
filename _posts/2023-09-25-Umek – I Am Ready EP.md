@@ -23,7 +23,7 @@ B1. Music Ventilator
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m16340275000)
+[メルカリで購入](https://jp.mercari.com/item/m16340275000){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

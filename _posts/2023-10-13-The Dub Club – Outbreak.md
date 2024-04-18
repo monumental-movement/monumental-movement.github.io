@@ -19,7 +19,7 @@ B2. Groover
 
 > 1994年にオランダのレーベル「Urban Sound Of Amsterdam」からリリースされた本名Nathanael HeresによるプロジェクトThe Dub ClubによるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m98598756543)
+[メルカリで購入](https://jp.mercari.com/item/m98598756543){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

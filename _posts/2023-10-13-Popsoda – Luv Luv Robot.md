@@ -23,7 +23,7 @@ B2. Luv Luv Robot (Mijk Van Dijk Remix)
 
 > B面１曲目は電気グルーヴのTakkyu Ishino（石野卓球）によるremix。B面２曲目は、ジャーマンテクノのDJ/プロデューサーMijk Van Dijk（マイク・ヴァン・ダイク）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m46996717389)
+[メルカリで購入](https://jp.mercari.com/item/m46996717389){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

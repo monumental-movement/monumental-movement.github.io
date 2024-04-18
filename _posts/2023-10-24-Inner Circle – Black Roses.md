@@ -26,5 +26,5 @@ v-rating: VG
 
 > このCDに収録されている「Bad Boys(バッド・ボーイズ)」は世界的なヒットとなり、アメリカのテレビ番組COPS(全米警察24時 コップス)の主題歌としても有名。
 
-[メルカリで購入](https://jp.mercari.com/item/m27200283979)
+[メルカリで購入](https://jp.mercari.com/item/m27200283979){: .button1}
 

@@ -21,7 +21,7 @@ B2. Robag Wruhme –August Macke (Metaboman Remix)
 
 > ドイツ出身のベテランテクノDJ/プロデューサーRobag Wruhme（ロバッグ・ルーメ）と、Metaboman（WENDELIN WEISSBACH）によるミニマル・テクノ・クラシック。
 
-[メルカリで購入](https://jp.mercari.com/item/m74153006017)
+[メルカリで購入](https://jp.mercari.com/item/m74153006017){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

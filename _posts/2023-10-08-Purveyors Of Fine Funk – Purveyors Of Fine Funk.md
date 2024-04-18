@@ -36,7 +36,7 @@ D3. The After Midnight Call
 > ファンクミュージックの伝統と現代的な要素を融合させた作品として評価されています。彼らは、ファンクのルーツを尊重しつつも、独自のアーティスティックなアプローチで新たな魅力を生み出しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m97980278138)
+[メルカリで購入](https://jp.mercari.com/item/m97980278138){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

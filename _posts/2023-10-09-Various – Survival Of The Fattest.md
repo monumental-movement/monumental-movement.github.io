@@ -47,7 +47,7 @@ B8. Me First And The Gimme Gimmes–Country Roads
 
 > 1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 
-[メルカリで購入](https://jp.mercari.com/item/m86970828698)
+[メルカリで購入](https://jp.mercari.com/item/m86970828698){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

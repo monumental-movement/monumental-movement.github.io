@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992)"
+title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992){: .button1}"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Ska Punk ]
-image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).jpg
+image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992){: .button1}.jpg
 rating: 4.5
 v-rating: VG
 ---
 
-#### Dance Hall Crashers – THE OLD RECORD (1989-1992)
+#### Dance Hall Crashers – THE OLD RECORD (1989-1992){: .button1}
 
 
 A1. Pick Up Lines
@@ -55,10 +55,10 @@ B6. DHC
 
 > 1989年、ランシドの母体バンドであるオペレーション・アイヴィーのマット・フリーマンとティム・アームストロングがサイド・プロジェクトとしての結成がはじまり。
 
-> このアルバム『THE OLD RECORD (1989-1992)』は、1996年にリリースされました。
+> このアルバム『THE OLD RECORD (1989-1992){: .button1}』は、1996年にリリースされました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77868412341)
+[メルカリで購入](https://jp.mercari.com/item/m77868412341){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

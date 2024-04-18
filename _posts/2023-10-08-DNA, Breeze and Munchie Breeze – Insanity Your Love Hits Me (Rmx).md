@@ -20,7 +20,7 @@ B2. Squash I
 > 1996年にスウェーデンのれーべる「Audio Pollution」からリリースされた本名Kari Pekka LekebuschことCari LekebuschによるプロジェクトCrushed InsectのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m72913303126)
+[メルカリで購入](https://jp.mercari.com/item/m72913303126){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

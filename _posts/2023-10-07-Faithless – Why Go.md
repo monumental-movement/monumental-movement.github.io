@@ -24,7 +24,7 @@ B. Why Go? (Lange Remix)
 > Faithlessは、1990年代から2000年代にかけて多くのヒット曲を生み出し、世界中のクラブやフェスで活躍しました。彼らの音楽はダンサブルでありながらもメッセージ性を持ち、人々を魅了しました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84616274474)
+[メルカリで購入](https://jp.mercari.com/item/m84616274474){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG+</strong>

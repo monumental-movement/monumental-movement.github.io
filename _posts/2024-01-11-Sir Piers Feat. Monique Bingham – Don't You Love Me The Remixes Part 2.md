@@ -11,7 +11,7 @@ v-rating: VG
 
 #### Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
 
-Sir Piers Feat. Monique Bingham – Don't You Love Me (The Remixes Part 2)
+Sir Piers Feat. Monique Bingham – Don't You Love Me (The Remixes Part 2){: .button1}
 
 A. Don't You Love Me (Louis Benedetti's Main Mix)
 B1. Don't You Love Me (DJ Jorj Samba Dub)
@@ -24,7 +24,7 @@ A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedett
 B面は、オーストラリアのメルボルンを拠点に活動するDJ / プロデューサーDJ Jorj（Jorj Patsalides）によるremix。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m56984083624?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

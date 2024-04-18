@@ -23,7 +23,7 @@ B2. Atom (Instrumental)
 
 > 後にLarge Professorが脱退し、別のMCであるマイケル・デアリング（別名MC Mikey D）に交代しました。
 
-[メルカリで購入](https://jp.mercari.com/item/m60450715366)
+[メルカリで購入](https://jp.mercari.com/item/m60450715366){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

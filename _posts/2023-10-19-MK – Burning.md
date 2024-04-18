@@ -24,7 +24,7 @@ B2. Burning (Flexy & DJ Kryptonite Club Mix)
 > A面1曲目は、オランダ出身のダンスミュージックプロデューサー/DJ チームKlubbheads（クラブヘッズ）によるremix。
 B面1曲目は、ドイツ在住のイラン人DJ/プロデューサーSharam Jeyによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m33103665790)
+[メルカリで購入](https://jp.mercari.com/item/m33103665790){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

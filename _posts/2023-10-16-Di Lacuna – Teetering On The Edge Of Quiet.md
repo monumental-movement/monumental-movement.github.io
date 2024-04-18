@@ -23,7 +23,7 @@ B2. Scandal Of The Baby Farmers
 
 > 「Teetering On The Edge Of Quiet....」は、UKブライトンを拠点とするエレクトロニカ・ノイズ・ポストロックレーベルFatCat Recordsより1999年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m49813157624)
+[メルカリで購入](https://jp.mercari.com/item/m49813157624){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -20,7 +20,7 @@ B2. Carillon
 > 1993年にレーベル「Disc-O-Very Records」からリリースされたTommy BrownのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m69743649538)
+[メルカリで購入](https://jp.mercari.com/item/m69743649538){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

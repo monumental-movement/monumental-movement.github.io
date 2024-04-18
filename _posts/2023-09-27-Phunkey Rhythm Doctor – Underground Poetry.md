@@ -19,7 +19,7 @@ B2. Sugardaddy
 
 > Phunkey Rhythm DoctorはCari Lekebuschによるプロジェクトで、スウェーデンのHybridにより1997年にリリースされました。
 
-[メルカリで購入](https://jp.mercari.com/item/m44344612088)
+[メルカリで購入](https://jp.mercari.com/item/m44344612088){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

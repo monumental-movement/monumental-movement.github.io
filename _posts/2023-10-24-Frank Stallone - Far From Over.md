@@ -19,7 +19,7 @@ B. Waking Up (ウェイキング・アップ)
 
 > Frank Stalloneヒットシングル「Far From Over(ファー・フロム・オーバー)」は、1977年『 Saturday Night Fever(サタデー ナイト フィーバー)』の続編として作られた、1983 年のダンスミュージカル映画『Staying Alive(ステイイング・アライブ)』（監督：シルベスター・スタローン）のサウンドトラックに収録されました。
 
-[メルカリで購入](https://jp.mercari.com/item/m34024592015)
+[メルカリで購入](https://jp.mercari.com/item/m34024592015){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

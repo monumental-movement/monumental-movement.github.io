@@ -13,7 +13,7 @@ v-rating: VG
 
 A1. Tonight (Factory Team Edit)
 
-A2. Tonight (Original Edit '94)
+A2. Tonight (Original Edit '94){: .button1}
 
 B1. Tonight (Club Mix)
 B2. Me And You
@@ -24,7 +24,7 @@ B2. Me And You
 
 > 「Tonight」は、ダンサブルなビート、キャッチーなメロディ、エネルギッシュなボーカルが特徴のディスコ・ポップ曲で、洗練されたサウンドとキャッチーなリフレインは、当時のディスコシーンで人気を集めました。
 
-[メルカリで購入](https://jp.mercari.com/item/m16945300429)
+[メルカリで購入](https://jp.mercari.com/item/m16945300429){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

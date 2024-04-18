@@ -37,4 +37,4 @@ v-rating: VG
 > 1999年にドイツの!k7 recordsからリリースされた作品です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m83184827201)
+[メルカリで購入](https://jp.mercari.com/item/m83184827201){: .button1}

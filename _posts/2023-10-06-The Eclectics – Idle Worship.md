@@ -34,7 +34,7 @@ B5. It's Not About You, Kevin
 > 1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30039999033)
+[メルカリで購入](https://jp.mercari.com/item/m30039999033){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

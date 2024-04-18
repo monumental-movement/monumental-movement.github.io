@@ -21,7 +21,7 @@ B2. Westside (Elbow Remix)
 
 > B面2曲目は1990年から活動するイングランド、グレーター・マンチェスターのベリー出身のオルタナティブ・ロックバンドElbowによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m40673400916)
+[メルカリで購入](https://jp.mercari.com/item/m40673400916){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

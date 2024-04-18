@@ -22,7 +22,7 @@ B. Peak Bomb (Phonique Remix)
 
 > B面は、ドイツ出身でベルリンを拠点に活動するハウスDJ/プロデューサー Phonique(フォニック）ことMichael Vaterによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m35106793909)
+[メルカリで購入](https://jp.mercari.com/item/m35106793909){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

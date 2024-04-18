@@ -35,7 +35,7 @@ B1. I Can't Crack (Broken Mix)
 >Furnitureの音楽は、1980年代のイギリスのポップやオルタナティブミュージックのファンによって今も愛されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82619779908)
+[メルカリで購入](https://jp.mercari.com/item/m82619779908){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

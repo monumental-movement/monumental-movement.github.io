@@ -45,4 +45,4 @@ v-rating: VG
 
 > 「Jah Army」- ダブとエレクトロニックミュージックを融合させた楽曲で、重いベースとリズミカルなビートが印象的です。メッセージ性の強い歌詞も特徴です。
 
-[メルカリで購入](https://jp.mercari.com/item/m49892584045)
+[メルカリで購入](https://jp.mercari.com/item/m49892584045){: .button1}

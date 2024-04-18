@@ -38,4 +38,4 @@ v-rating: VG
 > 「Heart of Darkness」は、フドラム・プリーストの特異な音楽スタイルとアーティスティックな表現を正に体現したアルバムです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m35353871687)
+[メルカリで購入](https://jp.mercari.com/item/m35353871687){: .button1}

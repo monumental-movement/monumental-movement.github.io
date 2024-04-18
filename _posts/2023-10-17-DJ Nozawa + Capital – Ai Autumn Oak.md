@@ -25,7 +25,7 @@ B2. Autumn Oak (Instrumental)
 
 > 「Ai / Autumn Oak」は、2003年にリリースされたDJ NozawaとCapital（Jonathan Patterson）の共作。
 
-[メルカリで購入](https://jp.mercari.com/item/m46537782118)
+[メルカリで購入](https://jp.mercari.com/item/m46537782118){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

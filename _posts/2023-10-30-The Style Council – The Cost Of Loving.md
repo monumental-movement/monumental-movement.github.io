@@ -33,7 +33,7 @@ B5. Woman's Song
 
 > The Style Council（スタイル・カウンシル）は、ニュー・ウェイヴ/モッズ・リバイバル・バンド the Jam（ザ・ジャム）の元シンガー＆ギタリストPaul Weller（ポール・ウェラー）と、Dexys Midnight Runners（デキシーズ・ミッドナイト・ランナーズ）、 the Bureau（ビューロー）、the Merton Parkasのメンバーだったキーボード奏者のMick Talbot（ミック・タルボット）によって1982年後半に結成されたイギリスのバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m89427922011)
+[メルカリで購入](https://jp.mercari.com/item/m89427922011){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

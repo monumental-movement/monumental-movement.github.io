@@ -28,7 +28,7 @@ B3  5 Seconds (Album Version) Featuring – Black Attack
 > この曲には、Mos Def（またはYasiin Bey）、Beatnuts、Fat Joeなどの有名アーティストが参加しています。各アーティストが独自のスタイルとフローを曲にもたらし、ヒップホップのアンセムとなっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m19041732477)
+[メルカリで購入](https://jp.mercari.com/item/m19041732477){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

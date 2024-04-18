@@ -19,7 +19,7 @@ B. Hans Zimmer -  Las Vegas
 
 > B面の「Las Vegas」は、著名な映画音楽の作曲家Hans Zimmer(ハンス・ジマー)によるもので、この曲も映画「レインマン」のサウンドトラックに収録されている。
 
-[メルカリで購入](https://jp.mercari.com/item/m71875751743)
+[メルカリで購入](https://jp.mercari.com/item/m71875751743){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

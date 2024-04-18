@@ -29,7 +29,7 @@ B. Dream ドリーム
 > この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52385944787)
+[メルカリで購入](https://jp.mercari.com/item/m52385944787){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

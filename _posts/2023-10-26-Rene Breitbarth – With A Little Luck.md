@@ -29,7 +29,7 @@ D2. Grey Goose
 
 > René Breitbarth（ルネ・ブライトバルト）は、ドイツのDJ・プロデューサーであり、ドイツ・ケルンを拠点とするレーベルTreibstoffの創設者の1人。
 
-[メルカリで購入](https://jp.mercari.com/item/m72520874169)
+[メルカリで購入](https://jp.mercari.com/item/m72520874169){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

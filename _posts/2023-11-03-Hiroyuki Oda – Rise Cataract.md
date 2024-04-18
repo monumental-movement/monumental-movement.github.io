@@ -24,7 +24,7 @@ B. Cataract
 
 > イラストレーターとしては伏見つかさ著のライトノベル『俺の妹がこんなに可愛いわけがない』などの挿絵を手がけ、ミュージシャンとしては、Sevensenses recordingsやOtographic Musicからも作品を多数リリースしている。
 
-[メルカリで購入](https://jp.mercari.com/item/m40856782360)
+[メルカリで購入](https://jp.mercari.com/item/m40856782360){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

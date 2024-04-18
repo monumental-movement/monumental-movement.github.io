@@ -37,7 +37,7 @@ B6  Don't Fight It
 
 The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代にロサンゼルスで結成されたボーカルグループ。
 
-[メルカリで購入](https://jp.mercari.com/item/m34490368131)
+[メルカリで購入](https://jp.mercari.com/item/m34490368131){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

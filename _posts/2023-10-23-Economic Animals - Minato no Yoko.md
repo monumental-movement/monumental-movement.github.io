@@ -19,7 +19,7 @@ B. バイ•バイ•マイ•ラブ
 
 > エコノミック・アニマルズは、佐々木勉が中心となった覆面バンド。「帰ってきた港のヨーコ」は、「港のヨーコ・ヨコハマ・ヨコスカ」の後日譚＆パロディー、アンサーソングとして1975年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m44785182941)
+[メルカリで購入](https://jp.mercari.com/item/m44785182941){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

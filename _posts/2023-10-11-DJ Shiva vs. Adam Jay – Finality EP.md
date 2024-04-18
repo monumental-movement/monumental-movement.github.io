@@ -25,7 +25,7 @@ B2. The Last Word (Adam Jay's Remix)
 
 > 「Finality EP」は、Paul Birken（ポール・バーケン）, Woody McBride（ウディ・マクブライド）, Dustin Zahn（ダスティン・ザーン）, Adam Jay（アダム・ジェイ）などを含む多くの著名なアーティストの作品をリリースしているヴァイナルフォーマットのテクノレーベルInternal Error Recordsより、2005年にリリースされたテクノトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m44900983371)
+[メルカリで購入](https://jp.mercari.com/item/m44900983371){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

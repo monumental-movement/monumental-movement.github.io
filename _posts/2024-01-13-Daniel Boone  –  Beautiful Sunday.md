@@ -21,7 +21,7 @@ Daniel Boone(ダニエル　ブーン)は、イギリス出身のシンガーソ
 
 「Beautiful Sunday」は世界的な大ヒットとなった。日本では、おはよう720(TBS系列)のコーナー、キャラバンIIのテーマ曲として知られ、田中星児によるカヴァー曲もヒットした。
 
-[メルカリで購入](https://jp.mercari.com/item/m26206683397?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m26206683397?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

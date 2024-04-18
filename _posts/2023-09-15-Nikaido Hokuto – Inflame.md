@@ -36,7 +36,7 @@ B4. Subsonic Drum (Power Peak Mix)
 > 1996年に札幌のダブレックスからリリースされたテクノな一枚。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m93371201718)
+[メルカリで購入](https://jp.mercari.com/item/m93371201718){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

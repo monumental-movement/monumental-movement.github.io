@@ -26,7 +26,7 @@ B2. Talk Shows
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m44121616957)
+[メルカリで購入](https://jp.mercari.com/item/m44121616957){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

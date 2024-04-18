@@ -32,7 +32,7 @@ B4. Jigsaw Street
 > このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。 
 B面3曲目の「America」は、サイモン＆ガーファンクルの曲のカバー。
 
-[メルカリで購入](https://jp.mercari.com/item/m64383057975)
+[メルカリで購入](https://jp.mercari.com/item/m64383057975){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

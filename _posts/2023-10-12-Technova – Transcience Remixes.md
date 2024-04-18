@@ -21,7 +21,7 @@ B2. Firehorse One (Original Soundtrack Version)
 
 > TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。
 
-[メルカリで購入](https://jp.mercari.com/item/m92224497926)
+[メルカリで購入](https://jp.mercari.com/item/m92224497926){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

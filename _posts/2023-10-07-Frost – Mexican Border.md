@@ -18,7 +18,7 @@ B. Mexican Border
 > Ruthless Recordsからリリースされた本名Arturo Molina Jr.ことKid Frostによるシングルです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m68816286436)
+[メルカリで購入](https://jp.mercari.com/item/m68816286436){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

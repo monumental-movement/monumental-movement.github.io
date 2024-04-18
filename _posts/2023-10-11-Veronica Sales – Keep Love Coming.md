@@ -24,7 +24,7 @@ B2. Keep Love Coming (Instrumental)
 > プロデューサーは、イタリアのプロデューサーでユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ ロジャース）。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m18872108798)
+[メルカリで購入](https://jp.mercari.com/item/m18872108798){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

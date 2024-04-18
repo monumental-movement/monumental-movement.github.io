@@ -16,7 +16,7 @@ v-rating: VG
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
 3. Scan 7 –Triple Darkness
-4. Surgeon & James Ruskin –Sound Pressure (Part 2)
+4. Surgeon & James Ruskin –Sound Pressure (Part 2){: .button1}
 5. Chrislo –L'Eau (Surgeon Remix)
 6. Pacou –Encounter
 7. Cristian Vogel –They Bought You At The Party
@@ -27,5 +27,5 @@ v-rating: VG
 12. Basic Channel –Octaedre
 13. Substance –Plate Element 2
 
-[メルカリで購入](https://jp.mercari.com/item/m83834888135)
+[メルカリで購入](https://jp.mercari.com/item/m83834888135){: .button1}
 

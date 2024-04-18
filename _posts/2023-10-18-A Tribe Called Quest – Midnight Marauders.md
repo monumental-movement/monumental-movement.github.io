@@ -41,7 +41,7 @@ B7. God Lives Through
 
 > 1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m77760798156)
+[メルカリで購入](https://jp.mercari.com/item/m77760798156){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -77,5 +77,5 @@ B16. One Earth
 
 >1987年にChina RecordsからリリースされたArt Of Noiseによるアルバムのカセッテテープです。
 
-[メルカリで購入](https://jp.mercari.com/item/m27011020702)
+[メルカリで購入](https://jp.mercari.com/item/m27011020702){: .button1}
 

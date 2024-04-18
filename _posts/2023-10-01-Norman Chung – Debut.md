@@ -21,7 +21,7 @@ B2. Sense
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m16258519746)
+[メルカリで購入](https://jp.mercari.com/item/m16258519746){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

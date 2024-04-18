@@ -20,7 +20,7 @@ B2. Big Steel Balls
 > 2001年にドイツのレーベル「Spirit Zone Recordings」からリリースされたフランスはランスのサイケデリックトランス「Bio-Tonic」によるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24588285064)
+[メルカリで購入](https://jp.mercari.com/item/m24588285064){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

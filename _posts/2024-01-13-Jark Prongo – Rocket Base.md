@@ -28,7 +28,7 @@ Vocals – Afrika Islam
 
 Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
 
-[メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

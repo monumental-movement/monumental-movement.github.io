@@ -23,7 +23,7 @@ B2. Illusion
 
 > 「Time Control」は、Savas Pascalidis（サヴァス・パスカリディス）が主宰するドイツのレーベルLasergunより2003年にリリースされたエレクトロ、テックハウス、シンセポップの要素が詰まった”フューチャーポップ”トラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m53569289716)
+[メルカリで購入](https://jp.mercari.com/item/m53569289716){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

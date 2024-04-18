@@ -28,7 +28,7 @@ B3. I've Been Thinking About You (Trak Mix)
 
 > 「I've Been Thinking About You」は彼らの代表曲で、1991 年Billboard Hot 100 と Hot Dance Music/Club Play チャートで第1位を獲得。
 
-[メルカリで購入](https://jp.mercari.com/item/m47205730719)
+[メルカリで購入](https://jp.mercari.com/item/m47205730719){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

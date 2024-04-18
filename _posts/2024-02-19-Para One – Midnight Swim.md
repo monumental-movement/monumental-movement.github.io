@@ -29,7 +29,7 @@ A面２曲目はイギリスのエレクトロニックミュージックDJ/プ�
 
 B面２曲目は、Para One＆Bobmoと共にレーベルMarbleを運営するフランスのプロデューサーSurkinによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m39330438157?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m39330438157?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

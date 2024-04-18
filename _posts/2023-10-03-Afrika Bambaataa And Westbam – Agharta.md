@@ -21,7 +21,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 アフリカ・バンバータとウエストバムによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m28101658653)
+[メルカリで購入](https://jp.mercari.com/item/m28101658653){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

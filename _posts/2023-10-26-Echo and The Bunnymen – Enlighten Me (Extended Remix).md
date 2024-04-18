@@ -21,7 +21,7 @@ B2. Lady Don't Fall Backwards
 
 > Echo & The Bunnymen（エコー＆ザ・バニーメン）は、1978 年にリバプールで結成されたUKロックバンド。オリジナルメンバーは、Ian Stephen McCulloch（イアン・マカロック）、Will Sergeant（ウィル・サージェント）、Les Pattinson（レス・パティンソン）。 1980年までにPete De Freitas（ピート・デ・フレイタス）がドラマーとして加入。
 
-[メルカリで購入](https://jp.mercari.com/item/m55842232873)
+[メルカリで購入](https://jp.mercari.com/item/m55842232873){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

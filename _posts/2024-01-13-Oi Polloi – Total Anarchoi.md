@@ -53,7 +53,7 @@ Oi Polloiのメンバーは、人種差別、性差別、同性愛嫌悪、フ�
 
 「Total Anarchoi」は、UKのパンク専門レーベルStep-1 Musicから1992年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m83973371066?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

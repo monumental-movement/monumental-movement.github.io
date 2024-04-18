@@ -22,7 +22,7 @@ B2. Mundian Breaks
 > 2002年11月にシングルとしてリリースされた後、「Mundian To Bach Ke」はイタリアとウォロニアでシングルチャートのトップを獲得し、他の多くの国でも高い順位を獲得しました。2003年にリリースされた、アメリカのラッパーJay-Zをフィーチャーしたリミックスバージョンも北アメリカとオーストラリアで高い順位を記録しました。この曲は、世界中で約1000万枚以上売れるなど、史上最も売れたシングルの1つとなりました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23290513187)
+[メルカリで購入](https://jp.mercari.com/item/m23290513187){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -23,7 +23,7 @@ AA2  A Little Skin (+19 Mix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m29718603915)
+[メルカリで購入](https://jp.mercari.com/item/m29718603915){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

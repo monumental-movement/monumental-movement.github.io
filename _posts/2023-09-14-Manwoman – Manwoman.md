@@ -27,7 +27,7 @@ B2. Man And Woman
 > 95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m46814457892)
+[メルカリで購入](https://jp.mercari.com/item/m46814457892){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

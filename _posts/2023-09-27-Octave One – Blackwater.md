@@ -20,7 +20,7 @@ B. Blackwater (Alter Ego Dub)
 > ジャーマンテクノシーンの大ベテラン、 Jorn Elling WuttkeとRoman FlugelによるAlter Egoリミックスは秀逸。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73391781068)
+[メルカリで購入](https://jp.mercari.com/item/m73391781068){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

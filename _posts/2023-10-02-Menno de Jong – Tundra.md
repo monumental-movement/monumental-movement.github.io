@@ -19,7 +19,7 @@ AA. Tundra (Mark Otten's Energetic Mix)
 
 > Menno de Jongの音楽は、トランスミュージックのファンにとってはおなじみであり、エネルギッシュなサウンドと美しいメロディが特徴です。
 
-[メルカリで購入](https://jp.mercari.com/item/m64985374151)
+[メルカリで購入](https://jp.mercari.com/item/m64985374151){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

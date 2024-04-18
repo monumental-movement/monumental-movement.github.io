@@ -19,7 +19,7 @@ B. Pride (In The Name Of Love) (MLK 12'' Remix)
 
 > 「A Deeper Love (A Deeper Feeling Mix)」とU2「Pride」のハウスremixはどちらも世界的なヒット曲となった。
 
-[メルカリで購入](https://jp.mercari.com/item/m61317278445)
+[メルカリで購入](https://jp.mercari.com/item/m61317278445){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

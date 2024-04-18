@@ -42,4 +42,4 @@ v-rating: VG
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m57457067000)
+[メルカリで購入](https://jp.mercari.com/item/m57457067000){: .button1}

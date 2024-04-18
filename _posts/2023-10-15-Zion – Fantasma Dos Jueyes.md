@@ -23,7 +23,7 @@ B1. Dos Jueyes (Main)
 
 > B面は、プエルトリコのサルサシンガーDomingo Quiñones（ドミンゴ・キニョーネス）をフィーチャリング。
 
-[メルカリで購入](https://jp.mercari.com/item/m96423283068)
+[メルカリで購入](https://jp.mercari.com/item/m96423283068){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

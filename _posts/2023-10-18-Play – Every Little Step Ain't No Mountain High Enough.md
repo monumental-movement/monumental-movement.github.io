@@ -19,7 +19,7 @@ B. Ain’t No Mountain High Enough
 
 > Bobby Brown(ボビー・ブラウン)「EVERY LITTLE STEP」のカヴァーはAaron Carter (アーロン・カーター)をフィーチャリングに迎え2004年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m58251300006)
+[メルカリで購入](https://jp.mercari.com/item/m58251300006){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

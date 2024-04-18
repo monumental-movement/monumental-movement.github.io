@@ -23,7 +23,7 @@ B2  Lizard (Tea Mix)
 > A面はAndrea RemondiniとMauro PicottoによるユニットMegavoicesによるremix。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30685941528)
+[メルカリで購入](https://jp.mercari.com/item/m30685941528){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

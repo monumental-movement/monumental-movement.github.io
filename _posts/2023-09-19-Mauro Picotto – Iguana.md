@@ -26,7 +26,7 @@ B2  Iguana (On Air Mix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m14868392351)
+[メルカリで購入](https://jp.mercari.com/item/m14868392351){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

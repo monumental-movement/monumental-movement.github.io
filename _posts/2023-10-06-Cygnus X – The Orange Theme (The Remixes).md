@@ -29,7 +29,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39474275698)
+[メルカリで購入](https://jp.mercari.com/item/m39474275698){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

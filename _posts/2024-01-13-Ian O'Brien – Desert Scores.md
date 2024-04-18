@@ -39,7 +39,7 @@ D2. Dark Eye Tango
 
 1997年リリースの「Ian O'Brien - Desert Scores」は、代表作とされ、Galaxy 2 Galaxy EPで開拓されたようなテックジャズの一環として今でも見なされています。
 
-[メルカリで購入](https://jp.mercari.com/item/m70671741506?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -38,5 +38,5 @@ B4. Atmosphere
 > 「Get Off Your Ass and Jam」や「Stuffs and Things」は、ファンカデリックの音楽の多様性と創造性を示しており、彼らの実験的なサウンドと独自のスタイルを体現しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32390527306)
+[メルカリで購入](https://jp.mercari.com/item/m32390527306){: .button1}
 

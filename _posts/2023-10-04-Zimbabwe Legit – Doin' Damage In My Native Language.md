@@ -29,7 +29,7 @@ B4. Rhymin' Wit The African Symphony
 
 > DJ Shadow、Black SheepのMista Lawnge等がプロデュースした曲も収録されています。
 
-[メルカリで購入](https://jp.mercari.com/item/m74802997610)
+[メルカリで購入](https://jp.mercari.com/item/m74802997610){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

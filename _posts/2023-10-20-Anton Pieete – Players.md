@@ -21,7 +21,7 @@ B. I Don't Want
 > Anton Pieetehは、Bart Skils（バート・スキルズ）と共にDistrict One
 （ディストリクト・ワン）としても活動中。
 
-[メルカリで購入](https://jp.mercari.com/item/m45848161979)
+[メルカリで購入](https://jp.mercari.com/item/m45848161979){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

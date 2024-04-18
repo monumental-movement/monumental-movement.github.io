@@ -24,4 +24,4 @@ v-rating: VG
 > 「Envane」は、Autechre(オウテカ)が1997年にリリースしたCDで、電子音楽への独自のアプローチ、複雑なリズム、抽象的なサウンドスケープ、実験的なサウンドデザインが特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m70361302879)
+[メルカリで購入](https://jp.mercari.com/item/m70361302879){: .button1}

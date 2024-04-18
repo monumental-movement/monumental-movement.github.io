@@ -29,7 +29,7 @@ Arling & Cameronは、ピチカート・ファイヴやコーネリアスとコ�
 
 「We Love To Rock」のA面２曲目はCornelius（コーネリアス）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m48539410251?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m48539410251?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

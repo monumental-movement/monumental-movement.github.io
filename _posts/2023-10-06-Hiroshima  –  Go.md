@@ -32,5 +32,5 @@ B4. Why Can't I Love You
 > アルバムには、楽曲「One Wish」や「Island World」、「Another Place」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が融合し、心地よい雰囲気を醸し出しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m91171909677)
+[メルカリで購入](https://jp.mercari.com/item/m91171909677){: .button1}
 

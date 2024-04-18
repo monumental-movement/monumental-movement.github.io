@@ -41,5 +41,5 @@ At The Heart Of It All
 
 > Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、SurgeonのCD。
 
-[メルカリで購入](https://jp.mercari.com/item/m56790117457)
+[メルカリで購入](https://jp.mercari.com/item/m56790117457){: .button1}
 

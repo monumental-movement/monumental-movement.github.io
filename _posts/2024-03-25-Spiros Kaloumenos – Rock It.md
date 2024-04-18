@@ -21,7 +21,7 @@ B2. Synths Of Fire
 
 スペインのミニマルテクノシーンで活躍するMarco Bailey（マルコ・ベイリー）ファミリーの一員でもあり、テクノDJ Axel Karakasisと共にOmega Audio Recordingsを運営するギリシャ出身のテクノDJ Spiros Kaloumenosが2006年にMB Elektronicsからリリースしたテクノトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m53116919196?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -28,5 +28,5 @@ v-rating: VG
 
 > of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m71222444726)
+[メルカリで購入](https://jp.mercari.com/item/m71222444726){: .button1}
 

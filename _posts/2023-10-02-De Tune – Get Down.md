@@ -23,7 +23,7 @@ B3. Get Down (On It Mix)
 
 > 1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m80710711719)
+[メルカリで購入](https://jp.mercari.com/item/m80710711719){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

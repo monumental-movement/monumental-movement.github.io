@@ -25,7 +25,7 @@ v-rating: VG
 
 >  Haas（クリスロ・ハース/クリス・ハース)のCD。
 
-> Chrislo Haasは、ドイツ出身のミュージシャンで、Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses、Crime & the City Solution などのバンドとのシンセサイザー (Korg MS-20) の制作を通じて、1980 年代のドイツの音楽シーンに大きな影響を与え、テクノと現代のエレクトロニックダンスミュージックの創始者の一人とみなされています。
+> Chrislo Haasは、ドイツ出身のミュージシャンで、Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses、Crime & the City Solution などのバンドとのシンセサイザー (Korg MS-20){: .button1} の制作を通じて、1980 年代のドイツの音楽シーンに大きな影響を与え、テクノと現代のエレクトロニックダンスミュージックの創始者の一人とみなされています。
 
-[メルカリで購入](https://jp.mercari.com/item/m45327854456)
+[メルカリで購入](https://jp.mercari.com/item/m45327854456){: .button1}
 

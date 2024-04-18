@@ -26,7 +26,7 @@ B2. Never Enough (Dennis F's Aggravated Mix)
 「Never Enough」の作詞、プロデューサー、編曲は、「The Shelter」(92年) でNYのハウスシーンを賑わしたKerri Chandler(ケリー・チャンドラー)。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m90769743680)
+[メルカリで購入](https://jp.mercari.com/item/m90769743680){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -11,7 +11,7 @@ v-rating: VG
 
 #### Manix – Manic Minds
 
-Ai. Stupid Dope Mix (Pt. 1)
+Ai. Stupid Dope Mix (Pt. 1){: .button1}
 
 Aii. Special Request
 
@@ -38,7 +38,7 @@ AAii. Can't Tech No More
 ヴォーカル：Extortion Featuring Dihan Brooks - How Do You See Me Now.
 
 
-[メルカリで購入](https://jp.mercari.com/item/m19039475534)
+[メルカリで購入](https://jp.mercari.com/item/m19039475534){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

@@ -23,7 +23,7 @@ B. Darqwan–Megatection
 
 > Darqwanは、UKシェフィールド出身のダブステップDJ/プロデューサー/リミキサー Oris Jayの別名義。Darqwanは、ダブステップの幅広いサウンドを取り入れた作品で知られており、その独創性とクリエイティビティによって注目を集めている。
 
-[メルカリで購入](https://jp.mercari.com/item/m84498913064)
+[メルカリで購入](https://jp.mercari.com/item/m84498913064){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

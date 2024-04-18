@@ -23,7 +23,7 @@ B2. Sans Soliel
 
 Mellee FreshとDJ Spydabrownによって設立されたカナダのハウスレーベルPlay Recordsから2003年にリリースされたディープハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m89659371816?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m89659371816?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

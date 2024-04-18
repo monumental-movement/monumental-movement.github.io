@@ -24,7 +24,7 @@ B2. Neon
 「 Fast- Wide E.P.」は、1998年にUKのレーベル「Cloned Vinyl」からリリースされたEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

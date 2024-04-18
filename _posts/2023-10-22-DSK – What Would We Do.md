@@ -27,7 +27,7 @@ B3. Read My Lips
 
 > 「What Would We Do」は、ダンスフロアでの踊りやすさと、その持ち味あるサウンドが、多くのリスナーに支持された一曲として広く知られています。
 
-[メルカリで購入](https://jp.mercari.com/item/m86767760517)
+[メルカリで購入](https://jp.mercari.com/item/m86767760517){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -15,7 +15,7 @@ A. Outta Space (Profanation Likes To Cover)
 
 > 「Outta Space 6,4367」は、The Prodigy 「 Out Of Space 」をサンプリング。
 
-[メルカリで購入](https://jp.mercari.com/item/m59463185167)
+[メルカリで購入](https://jp.mercari.com/item/m59463185167){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

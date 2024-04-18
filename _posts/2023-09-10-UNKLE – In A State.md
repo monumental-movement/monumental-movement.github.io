@@ -24,7 +24,7 @@ B. In A State (Album Version)
 > UNKLEの楽曲は幅広い音楽ファンから支持を受けており、特にエレクトロニック・ミュージック愛好者にとっては人気のあるバンドの一つです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m76870494810)
+[メルカリで購入](https://jp.mercari.com/item/m76870494810){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -12,7 +12,7 @@ v-rating: VG
 #### Various – Isolated Audio Players EP2
 
 
-A1. Indopepsychics–D_P (Pt.2)
+A1. Indopepsychics–D_P (Pt.2){: .button1}
 
 
 A2. Takayuki Shiraishi–Flicker
@@ -35,7 +35,7 @@ B2. Dol-lop–Storm
 > このEPは、日本の音楽シーンにおいて重要な作品の一つとして、賞賛されています。当時のアンダーグラウンドな音楽のエッセンスを堪能できることでしょう。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m98362957361)
+[メルカリで購入](https://jp.mercari.com/item/m98362957361){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

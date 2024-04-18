@@ -19,7 +19,7 @@ B. Holding On (Junior's Ambient Mix)
 
 > 本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。
 
-[メルカリで購入](https://jp.mercari.com/item/m89744041671)
+[メルカリで購入](https://jp.mercari.com/item/m89744041671){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

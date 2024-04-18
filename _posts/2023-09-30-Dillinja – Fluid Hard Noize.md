@@ -23,7 +23,7 @@ AA. Fluid
 
 > このReeseサウンドがおそらくドラム＆ベースで作られた中で最もクールなサウンドであると言っても過言ではありません。そして1998年にはブリットポップがエアウェーブに溢れていた時期に、Dillinjaのような人物がアンダーグラウンドでレコードを売ることなどにまったく無頓着で、よりクールなものを制作していたと考えると、それは狂気に思えます。
 
-[メルカリで購入](https://jp.mercari.com/item/m77354316625)
+[メルカリで購入](https://jp.mercari.com/item/m77354316625){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

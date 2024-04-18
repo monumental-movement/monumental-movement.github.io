@@ -40,7 +40,7 @@ B7. In The Lap Of The Gods...Revisited
 > 『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
 プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
 
-[メルカリで購入](https://jp.mercari.com/item/m74402889880)
+[メルカリで購入](https://jp.mercari.com/item/m74402889880){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

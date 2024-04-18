@@ -24,7 +24,7 @@ B2. Subhead & Jamie Lidell–On A Boulder Pushing
 > 1998年にリリースされたJason LeachとPhil Wellsによるユニット2CB別名SubheadのテクノEP。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m75324900679)
+[メルカリで購入](https://jp.mercari.com/item/m75324900679){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

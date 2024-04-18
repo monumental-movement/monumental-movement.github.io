@@ -24,7 +24,7 @@ B2. So I Love You Baby (Fluid Radio)
 > 「So I Love You Baby」は、Black 4 Whiteの楽曲の中でも特に知名度が高く、彼らの音楽スタイルと魅力を体感することができる一曲です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99311765932)
+[メルカリで購入](https://jp.mercari.com/item/m99311765932){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

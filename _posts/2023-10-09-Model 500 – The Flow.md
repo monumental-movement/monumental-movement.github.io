@@ -25,7 +25,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 > Underworld MK. 2 Mixはシンプルでクラブ向けのトラックを追求し、暗くやや攻撃的な雰囲気を醸し出しています。しかし、Frank De Wulfはトライバルハウスの要素を取り入れたリミックスを提供しており、それでも「Original Mix」はその輝きを保っています。
 
-[メルカリで購入](https://jp.mercari.com/item/m38778885235)
+[メルカリで購入](https://jp.mercari.com/item/m38778885235){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

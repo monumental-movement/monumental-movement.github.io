@@ -25,7 +25,7 @@ AA2. Soundtrack
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23783674213)
+[メルカリで購入](https://jp.mercari.com/item/m23783674213){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

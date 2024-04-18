@@ -17,7 +17,7 @@ B. Best Of Hair-Style In My Life
 
 > ヘア・スタイリスティクス a.k.a.中原昌也の1999年リリースの7inch。
 
-[メルカリで購入](https://jp.mercari.com/item/m85609686798)
+[メルカリで購入](https://jp.mercari.com/item/m85609686798){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

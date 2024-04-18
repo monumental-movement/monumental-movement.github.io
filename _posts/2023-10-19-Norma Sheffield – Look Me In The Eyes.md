@@ -24,7 +24,7 @@ B2. Look Me In The Eyes (Instrumental)
 
 > 制作/プロデューサーは、イタリアのプロデューサー＆ユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ・ロジャース）。
 
-[メルカリで購入](https://jp.mercari.com/item/m83336143177)
+[メルカリで購入](https://jp.mercari.com/item/m83336143177){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

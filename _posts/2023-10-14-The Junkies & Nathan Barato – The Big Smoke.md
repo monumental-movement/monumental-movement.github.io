@@ -18,7 +18,7 @@ B. For You One Time
 > The Junkiesは、カナダのトロントを拠点に活動するDJ /プロデューサーValentino ColavecchiaとVincenzo Nicolazzoのデュオ。
 > Nathan Barato（ネイサン・バラト）は、カナダ出身のDJ。
 
-[メルカリで購入](https://jp.mercari.com/item/m25171037533)
+[メルカリで購入](https://jp.mercari.com/item/m25171037533){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -28,5 +28,5 @@ v-rating: VG
 > 2001年にリリースされたWire 01のコンピレーションCDです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m98255564275)
+[メルカリで購入](https://jp.mercari.com/item/m98255564275){: .button1}
 

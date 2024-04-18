@@ -40,5 +40,5 @@ Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" Thorngren�
 このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m67891670051)
+[メルカリで購入](https://jp.mercari.com/item/m67891670051){: .button1}
 

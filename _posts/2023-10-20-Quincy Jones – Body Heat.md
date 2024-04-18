@@ -23,4 +23,4 @@ v-rating: VG
 
 > ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m45216980435)
+[メルカリで購入](https://jp.mercari.com/item/m45216980435){: .button1}

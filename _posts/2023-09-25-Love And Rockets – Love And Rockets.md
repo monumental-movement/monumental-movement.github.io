@@ -39,7 +39,7 @@ B5. No Words No More
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m80234913290)
+[メルカリで購入](https://jp.mercari.com/item/m80234913290){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

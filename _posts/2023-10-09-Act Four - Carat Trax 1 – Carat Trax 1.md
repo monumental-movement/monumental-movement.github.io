@@ -22,7 +22,7 @@ B2. Blue (Piano Vocal Mix)
 > 1994年にベルギーのレーベル「Circus」からリリースされたとAndres RomeroとStefan WuytsによるユニットAct FourのEPです
 
 
-[メルカリで購入](https://jp.mercari.com/item/m76260753119)
+[メルカリで購入](https://jp.mercari.com/item/m76260753119){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

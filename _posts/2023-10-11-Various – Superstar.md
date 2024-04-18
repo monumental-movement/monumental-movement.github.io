@@ -38,7 +38,7 @@ B6. Devonte–Sweet Symphony
 > ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m12624594696)
+[メルカリで購入](https://jp.mercari.com/item/m12624594696){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -21,7 +21,7 @@ B2  Cult Of Snap (Album Version)
 
 > 「Cult Of Snap (World Power Mix)」は、Snap!の人気曲の一つでありダンスミュージックファンやポップミュージック愛好家にとってはお馴染みの曲です。ポップミュージックとダンスミュージックの要素を融合させ、聴く人を踊らせるだけでなく、楽しい音楽体験を提供します。曲のテキストやタイトルからもわかるように、Snap!は一種の「カルト」やファンのコミュニティを築くことをテーマにしており曲全体にその意味が反映されています。
 
-[メルカリで購入](https://jp.mercari.com/item/m38660958622)
+[メルカリで購入](https://jp.mercari.com/item/m38660958622){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

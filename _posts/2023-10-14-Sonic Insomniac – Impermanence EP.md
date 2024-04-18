@@ -23,7 +23,7 @@ B2. Untitled
 
 > カバーイラストは、デトロイト出身のアメリカ人 DJ/プロデューサー/イラストレーターで、現在はベルリンに拠点活動するAlan Oldham（アラン・オールダム）。
 
-[メルカリで購入](https://jp.mercari.com/item/m10467596131)
+[メルカリで購入](https://jp.mercari.com/item/m10467596131){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

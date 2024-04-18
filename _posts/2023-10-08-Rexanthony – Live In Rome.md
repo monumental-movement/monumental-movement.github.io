@@ -23,7 +23,7 @@ B1. Live In Rome
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m19682643460)
+[メルカリで購入](https://jp.mercari.com/item/m19682643460){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

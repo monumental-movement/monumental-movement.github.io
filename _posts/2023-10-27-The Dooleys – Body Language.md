@@ -17,7 +17,7 @@ A. ボディ・ランゲージ = Body Language
 
 B. フォーエバー = Forever
 
-[メルカリで購入](https://jp.mercari.com/item/m84917533040)
+[メルカリで購入](https://jp.mercari.com/item/m84917533040){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

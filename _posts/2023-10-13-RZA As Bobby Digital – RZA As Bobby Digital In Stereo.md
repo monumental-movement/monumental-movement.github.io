@@ -30,4 +30,4 @@ v-rating: VG
 
 > Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m93089462366)
+[メルカリで購入](https://jp.mercari.com/item/m93089462366){: .button1}

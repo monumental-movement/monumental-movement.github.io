@@ -29,5 +29,5 @@ v-rating: VG
 
 など、全20曲
 
-[メルカリで購入](https://jp.mercari.com/item/m97133346644)
+[メルカリで購入](https://jp.mercari.com/item/m97133346644){: .button1}
 

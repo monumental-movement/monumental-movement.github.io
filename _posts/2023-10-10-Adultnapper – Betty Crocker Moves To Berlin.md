@@ -18,7 +18,7 @@ AA. Kaitlin
 > 2007年にUKのレーベル「Superfreq Records」からリリースされたFrancis HarrisによるプロジェクトAdultnapperのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m30208553606)
+[メルカリで購入](https://jp.mercari.com/item/m30208553606){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

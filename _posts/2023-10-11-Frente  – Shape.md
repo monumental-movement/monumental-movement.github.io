@@ -42,7 +42,7 @@ Frenteは、1989 年に結成されたオーストラリアのフォークポッ
 「Shape 」は、1996年にリリースされたFrenteの 2 枚目のスタジオ アルバム。 このアルバムは1995年にスペインで録音され、キャメロン・マクベイとテッド・ナイスリーがプロデュースした。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m67218117772)
+[メルカリで購入](https://jp.mercari.com/item/m67218117772){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

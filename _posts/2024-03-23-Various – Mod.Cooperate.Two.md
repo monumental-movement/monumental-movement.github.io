@@ -23,7 +23,7 @@ B2. Dubnoodles–Clapcity
 
 Treplecが設立したドイツのテクノレーベルMilnor Modernから2004年にリリースされた、Nisios 、Trike、Metaboman、Dubnoodlesによるミニマルテクノ・グリッチ・エレクトロハウスコンピレーション。
 
-[メルカリで購入](https://jp.mercari.com/item/m19443364746?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

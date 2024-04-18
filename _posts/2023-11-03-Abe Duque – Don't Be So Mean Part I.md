@@ -28,7 +28,7 @@ B. Salute The Dawn Featuring – Tijana T
 
 > B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイするセルビア出身のDJ Tijana Tがヴォーカルで参加。
 
-[メルカリで購入](https://jp.mercari.com/item/m86540940729)
+[メルカリで購入](https://jp.mercari.com/item/m86540940729){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

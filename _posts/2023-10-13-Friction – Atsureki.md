@@ -29,5 +29,5 @@ v-rating: VG
 ・ツネマツマサトシ - ギター
 ・チコ・ヒゲ - ドラムス、サックス
 
-[メルカリで購入](https://jp.mercari.com/item/m28248906619)
+[メルカリで購入](https://jp.mercari.com/item/m28248906619){: .button1}
 

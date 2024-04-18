@@ -25,7 +25,7 @@ B2. Another Night (Armand's New School Mix)
 
 > B面はArmand Van Helden（アーマンド・ヴァン・ヘルデン）のremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m15854439320)
+[メルカリで購入](https://jp.mercari.com/item/m15854439320){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

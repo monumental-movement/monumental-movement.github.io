@@ -20,7 +20,7 @@ B2. Hold Me (Dub Version)
 > 1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m94017039523)
+[メルカリで購入](https://jp.mercari.com/item/m94017039523){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

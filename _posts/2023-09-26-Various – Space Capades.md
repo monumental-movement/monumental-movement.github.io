@@ -47,4 +47,4 @@ v-rating: VG
 
 18.Dean Elliott & His Big Band–Lonesome Road
 
-[メルカリで購入](https://jp.mercari.com/item/m53410507614)
+[メルカリで購入](https://jp.mercari.com/item/m53410507614){: .button1}

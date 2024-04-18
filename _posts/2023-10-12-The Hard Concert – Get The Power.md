@@ -23,7 +23,7 @@ B2. Get The Power (Overdrive Mix)
 
 > 「Get The Power」はThe Hard Concert の最高傑作といわれている。
 
-[メルカリで購入](https://jp.mercari.com/item/m57007567296)
+[メルカリで購入](https://jp.mercari.com/item/m57007567296){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

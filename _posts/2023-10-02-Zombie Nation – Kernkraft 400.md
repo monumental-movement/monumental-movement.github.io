@@ -19,7 +19,7 @@ B. Kernkraft 400 (Miss Kittin & The Hacker Remix)
 
 > この楽曲は、世界中のスポーツ競技場（野球、バスケットボール、アメリカンフットボール、アイスホッケーなど）で応援曲として広く使われており、2014年のスポーツ・イラストレイテッド誌による「スタジアム応援歌(Stadium Anthem)トップ10」では第8位に入った。 日本では、横浜DeNAベイスターズの山崎康晃投手がマウンドに上がる際の曲に採用されたことや、バスケットボール日本代表の八村塁選手が当時在籍していたゴンザガ大学の名物チーム応援などから、広く知られるようになった。
 
-[メルカリで購入](https://jp.mercari.com/item/m31325274795)
+[メルカリで購入](https://jp.mercari.com/item/m31325274795){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

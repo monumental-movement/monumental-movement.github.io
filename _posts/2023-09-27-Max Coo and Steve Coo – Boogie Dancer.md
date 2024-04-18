@@ -26,7 +26,7 @@ B3. Boogie Dancer (Verona Beat)
 > MAURO FARINAによるお約束のユーロビートです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m15855209847)
+[メルカリで購入](https://jp.mercari.com/item/m15855209847){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

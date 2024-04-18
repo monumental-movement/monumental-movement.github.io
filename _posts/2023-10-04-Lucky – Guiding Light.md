@@ -19,7 +19,7 @@ B. Guiding Light (Instrumental Mix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m34273921585)
+[メルカリで購入](https://jp.mercari.com/item/m34273921585){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

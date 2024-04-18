@@ -26,7 +26,7 @@ B. Nil By Mouth
 > Bag Raidersはエレクトロニックミュージックの分野で活動しており、彼らの音楽はダンスミュージックやポップ要素を組み合わせたサウンドで知られています。 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m29186897548)
+[メルカリで購入](https://jp.mercari.com/item/m29186897548){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

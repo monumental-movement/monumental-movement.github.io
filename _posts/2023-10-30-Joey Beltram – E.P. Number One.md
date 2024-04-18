@@ -19,7 +19,7 @@ B. Verbs
 
 > 「E.P. Number One」は、2000年にJoey Beltram自身のレーベルSTX Recordsよりリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m37928336678)
+[メルカリで購入](https://jp.mercari.com/item/m37928336678){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

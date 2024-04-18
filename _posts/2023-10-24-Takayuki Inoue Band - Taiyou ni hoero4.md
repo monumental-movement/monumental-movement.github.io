@@ -23,7 +23,7 @@ B1. 新「愛」のテーマ
 
 > テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラック
 
-[メルカリで購入](https://jp.mercari.com/item/m95573713723)
+[メルカリで購入](https://jp.mercari.com/item/m95573713723){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

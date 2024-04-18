@@ -38,6 +38,6 @@ Bonus Tracks
 > アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m21399720747)
+[メルカリで購入](https://jp.mercari.com/item/m21399720747){: .button1}
 
 

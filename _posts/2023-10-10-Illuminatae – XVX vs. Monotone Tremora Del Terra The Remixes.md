@@ -19,7 +19,7 @@ B2. Tremora Del Terra (Original Mix)
 
 > 1993年にドイツのレーベル「Mono Tone」からリリースされたDoug OsborneとGordon MatthewmanによるユニットIlluminataeのEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m31324593280)
+[メルカリで購入](https://jp.mercari.com/item/m31324593280){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

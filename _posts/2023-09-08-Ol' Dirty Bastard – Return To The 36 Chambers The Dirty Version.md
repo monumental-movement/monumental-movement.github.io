@@ -62,7 +62,7 @@ D15. Cuttin' Headz
 > ウータンのメンバーや他のゲストアーティストとのコラボレーションも含まれており、アルバム全体で彼の個性的な音楽スタイルが発揮され、批評家から高い評価を受け商業的にも成功しました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m90374147615)
+[メルカリで購入](https://jp.mercari.com/item/m90374147615){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

@@ -26,7 +26,7 @@ RYU（流）は、DJ Hide, DJ Sak, Hideaki Ishi（DJ Krush）からなるアブ�
 「Never Too Soon」は、ロンドンのレーベルExceptionalから2000年にリリースされたブレイクビーツ・ハウス・ダウンテンポ トラック。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m87367262889?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m87367262889?afid=6142608987){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

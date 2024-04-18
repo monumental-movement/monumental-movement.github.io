@@ -40,7 +40,7 @@ B4. Arrastão (Euromix)
 トラックA2：MC Binho
 トラックA4：MC Dandão
 
-[メルカリで購入](https://jp.mercari.com/item/m51413253146)
+[メルカリで購入](https://jp.mercari.com/item/m51413253146){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

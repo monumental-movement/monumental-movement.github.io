@@ -19,7 +19,7 @@ B2. We Are I.E. (Hybrid's Dark Mix)
 
 > 「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。ジャングル・クラシックをHybridがremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m42932508768)
+[メルカリで購入](https://jp.mercari.com/item/m42932508768){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

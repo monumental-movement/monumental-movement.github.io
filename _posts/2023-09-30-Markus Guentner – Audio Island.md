@@ -32,7 +32,7 @@ D2. Tears In Rain
 > この２枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m49257045375)
+[メルカリで購入](https://jp.mercari.com/item/m49257045375){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

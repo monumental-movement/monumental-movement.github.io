@@ -39,4 +39,4 @@ v-rating: VG
 
 > また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
 
-[メルカリで購入](https://jp.mercari.com/item/m25692223932)
+[メルカリで購入](https://jp.mercari.com/item/m25692223932){: .button1}

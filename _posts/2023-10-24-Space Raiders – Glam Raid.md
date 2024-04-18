@@ -19,7 +19,7 @@ B  Boy Power (Edit)
 
 > 「Glam Raid」は、Fatboy Slim(ファットボーイ スリム), Freq Nasty(フリーク ナスティ), Midfield General(ミッドフィールド ジェネラル), Lo-Fidelity Allstars(ローフィデリティ オールスターズ) など、初期のビッグビートシーンをリードしたレーベルSkintからの1998年リリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m38074901178)
+[メルカリで購入](https://jp.mercari.com/item/m38074901178){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

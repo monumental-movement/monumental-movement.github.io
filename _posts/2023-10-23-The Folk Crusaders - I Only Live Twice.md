@@ -26,7 +26,7 @@ B. ソーラン節
 
 > 『帰って来たヨッパライ』は、ザ・フォーク・クルセダーズのデビューシングルで、オリコンチャート史上初のミリオン・シングル。「アングラ・フォーク」のブームを生み出した曲でもあり、日本のコミックソングの代表的な作品。
 
-[メルカリで購入](https://jp.mercari.com/item/m17450596937)
+[メルカリで購入](https://jp.mercari.com/item/m17450596937){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

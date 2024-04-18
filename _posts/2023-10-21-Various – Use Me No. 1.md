@@ -23,7 +23,7 @@ B2. Beroshima – String Tanga
 
 > B面1曲目のRok 「High Menergy」は、1978年リリースのMacho「I'm a Man」をサンプリング。
 
-[メルカリで購入](https://jp.mercari.com/item/m48896354302)
+[メルカリで購入](https://jp.mercari.com/item/m48896354302){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

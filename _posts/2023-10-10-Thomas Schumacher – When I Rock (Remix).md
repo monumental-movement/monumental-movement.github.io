@@ -18,7 +18,7 @@ AA. When I Rock (Johannes Heil Remix)
 > 1998年にUKのレーベル「Bush」からリリースされたThomas SchumacherによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24258262929)
+[メルカリで購入](https://jp.mercari.com/item/m24258262929){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

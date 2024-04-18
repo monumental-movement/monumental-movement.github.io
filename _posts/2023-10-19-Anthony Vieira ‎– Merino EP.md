@@ -19,7 +19,7 @@ B2. Untitled
 
 > Anthony Vieiraは、Raoul DelgardoとTony Soares Vieiraによるユニット。「Anthony Vieira – Merino EP」は、UKのテクノレーベルSheep Recordsより1999年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m54645012438)
+[メルカリで購入](https://jp.mercari.com/item/m54645012438){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

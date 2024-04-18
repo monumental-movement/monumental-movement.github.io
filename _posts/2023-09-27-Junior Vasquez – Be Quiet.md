@@ -21,7 +21,7 @@ B2. Be Quiet (Royal Beats)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39743201804)
+[メルカリで購入](https://jp.mercari.com/item/m39743201804){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

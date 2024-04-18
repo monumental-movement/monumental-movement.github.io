@@ -30,7 +30,7 @@ B面１曲目はNightmovesことMatt Waitesによるremix。
 
 B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

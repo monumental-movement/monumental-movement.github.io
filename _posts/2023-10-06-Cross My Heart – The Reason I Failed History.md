@@ -21,7 +21,7 @@ B2. The Reason I Failed History
 
 > 1999年にレーベル「Dim Mak Records」からリリースされたポストハードコア／エモバンド「Cross My Heart」によるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m43367520761)
+[メルカリで購入](https://jp.mercari.com/item/m43367520761){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

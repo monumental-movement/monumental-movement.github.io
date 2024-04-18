@@ -29,7 +29,7 @@ The Dave Howard Singers （デイブハワードシンガーズ）は、カナ�
 
 プロデューサーは、The Stranglers（ストラングラーズ）のJJ・バーネル。
 
-[メルカリで購入](https://jp.mercari.com/item/m42900138683?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m42900138683?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

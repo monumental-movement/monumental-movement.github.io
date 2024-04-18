@@ -25,7 +25,7 @@ B2. Multicar
 > 「Joy & Happiness EP」は、Daniel Steinbergの音楽のファンやハウスミュージックの愛好家にとって魅力的な作品です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m70490989005)
+[メルカリで購入](https://jp.mercari.com/item/m70490989005){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

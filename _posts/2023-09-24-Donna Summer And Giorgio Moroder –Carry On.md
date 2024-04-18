@@ -24,7 +24,7 @@ AA2  Carry On (Untidy Dub)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74209222357)
+[メルカリで購入](https://jp.mercari.com/item/m74209222357){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

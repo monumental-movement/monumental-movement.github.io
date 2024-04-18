@@ -26,7 +26,7 @@ B. Baila Bolero (House Mix)
 > ファン・ファンの「Baila Bolero」は、その楽しさとダンス性の高さから、ディスコやユーロディスコの愛好家にとって特別な存在です。曲を聴くことで、80年代のダンスミュージックの魅力や当時のエネルギーを感じることができます。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20134677507)
+[メルカリで購入](https://jp.mercari.com/item/m20134677507){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

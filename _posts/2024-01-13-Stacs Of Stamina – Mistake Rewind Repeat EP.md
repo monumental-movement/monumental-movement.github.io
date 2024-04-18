@@ -25,7 +25,7 @@ B3. Mistake, Rewind, Repeat (Original Johan Instr)
 
 UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m30112362592?afid=6142608987)
+[メルカリで購入](https://jp.mercari.com/item/m30112362592?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

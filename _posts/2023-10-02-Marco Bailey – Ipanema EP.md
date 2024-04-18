@@ -21,7 +21,7 @@ B2. Shinjuku-ku
 
 2001年にスウェーデンのレーベル「Zync」からリリースされたMarco BaileyによるEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m36780837702)
+[メルカリで購入](https://jp.mercari.com/item/m36780837702){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

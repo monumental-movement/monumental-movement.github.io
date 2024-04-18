@@ -27,7 +27,7 @@ B. Don't Stop (Remix By Roland Casper)
 > マーク・エヌアールジーのレガシーは、今もなお世界中のエレクトロニックミュージックのファンに響き続けており、業界内の革新的なアーティストとしての地位を確立しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m68077728341)
+[メルカリで購入](https://jp.mercari.com/item/m68077728341){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

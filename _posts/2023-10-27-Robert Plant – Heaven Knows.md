@@ -19,7 +19,7 @@ B. Heaven Knows (Vocal/Edit)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77618413778)
+[メルカリで購入](https://jp.mercari.com/item/m77618413778){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

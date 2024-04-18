@@ -19,7 +19,7 @@ B2. Depth Charge (Bass It)
 
 > Depth Chargeは、イギリスのDJ/ミュージシャン J.Saul Kane（J・ソウル・ケイン）の別名義で、他にもThe Octagon Man、Alexander's Dark Ba​​nd、T.E.T、Grimm Deathなど様々な名義でリリースしている。J Saul Kaneは、DC Recordings と Electron Industries のオーナーでもある。
 
-[メルカリで購入](https://jp.mercari.com/item/m61709862692)
+[メルカリで購入](https://jp.mercari.com/item/m61709862692){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

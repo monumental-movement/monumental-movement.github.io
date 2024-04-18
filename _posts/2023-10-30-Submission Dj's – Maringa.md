@@ -21,7 +21,7 @@ AA1. Maringa (Tech Mix)
 
 > スペインのレーベルVendetta Records(Blanco Y Negro Music S.A.のハウス部門)のサブレーベルTribal Spain Recordingsからの2009年リリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m14084306247)
+[メルカリで購入](https://jp.mercari.com/item/m14084306247){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
