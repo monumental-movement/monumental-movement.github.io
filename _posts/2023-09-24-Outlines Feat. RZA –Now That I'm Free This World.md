@@ -26,7 +26,7 @@ B2  Now That I'm Free (A Cappella)
 > 「This World」は、同じくOutlinesとRZAのコラボレーション曲であり、この曲は世界の現状や社会的な問題に対してメッセージを発信しています。メロディアスなサウンドとリリックの力強さが組み合わさった一曲です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84642346836){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m84642346836){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

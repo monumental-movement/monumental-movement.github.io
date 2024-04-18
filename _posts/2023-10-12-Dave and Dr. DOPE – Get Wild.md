@@ -21,7 +21,7 @@ B2. Get Wild (Instrumental)
 
 > プロデューサーは、Alberto Contini（アルベルト・コンティニ）とDave Rodgers（デイヴロジャース）。
 
-[メルカリで購入](https://jp.mercari.com/item/m98858239692){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m98858239692){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -38,7 +38,7 @@ Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS
 
 松武秀樹による1981年のオリジナル盤。
 
-[メルカリで購入](https://jp.mercari.com/item/m66419316264){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m66419316264){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

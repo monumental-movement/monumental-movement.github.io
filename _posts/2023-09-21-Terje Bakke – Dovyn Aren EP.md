@@ -22,7 +22,7 @@ B2  Kokolores
 > 「Dovyn Aren EP」は彼の代表作の一つで、ダークで踊りやすいビート、進化するシンセサイザーのサウンドなど、その特徴的なスタイルと音楽的なビジョンが際立っています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m90063547919){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m90063547919){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

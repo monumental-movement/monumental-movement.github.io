@@ -20,7 +20,7 @@ B2. Whenever You See Fit (Sientific American Mix)
 > 1998年にSuicide SqueezeからリリースされたModest Mouse / 764-HEROによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99852743815){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m99852743815){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

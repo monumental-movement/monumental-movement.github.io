@@ -27,7 +27,7 @@ AA1. Dreamtech
 > このレコードは、まさにディガーの夢であり探し物の12インチレコードの中でこのようなものを見つけることは稀で滅多にありません。間違いなくもっと注目される価値のあるレコードと言えるでしょう。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m49518581240){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m49518581240){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

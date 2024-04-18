@@ -25,7 +25,7 @@ AAA2. You Got To Pray (Thane's Pray For Your Soul Mix) Remix – Mile High Produ
 
 AAA3. You Got To Pray (X Bonus Beats) Remix – Gomi
 
-[メルカリで購入](https://jp.mercari.com/item/m10462556478?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

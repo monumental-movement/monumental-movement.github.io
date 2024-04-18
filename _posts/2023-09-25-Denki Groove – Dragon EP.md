@@ -27,7 +27,7 @@ B2. Brazilian Cowboy
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m27644764690){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m27644764690){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

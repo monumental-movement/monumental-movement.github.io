@@ -25,7 +25,7 @@ B2. Live Your Life With Me (Narcotic Dub)Remix – S-Man
 
 > 「 Live Your Life With Me」のプロデューサー/作曲はFelix Buxton（フェリックス・バクストン）とSimon Ratcliffe（サイモン・ラトクリフ）からなるUKエレクトロニック・ダンス・ミュージック・デュオBasement Jaxx。
 
-[メルカリで購入](https://jp.mercari.com/item/m24022000803){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m24022000803){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

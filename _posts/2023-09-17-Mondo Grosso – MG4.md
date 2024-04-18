@@ -53,7 +53,7 @@ F2  1974-Way Home
 > birdをフィーチャリングし、当時ヒットした「Life」や「Butterfly」も収録。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82949922453){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m82949922453){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

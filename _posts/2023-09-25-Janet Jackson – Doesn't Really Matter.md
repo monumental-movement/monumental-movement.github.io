@@ -25,7 +25,7 @@ B2. Doesn't Really Matter (Spensane Get Up Extended Mix)
 
 > 「Doesn't Really Matter」はリリース後すぐに人気を博し、ビルボードHot 100チャートで1位を獲得。グラミー賞にもノミネートされジャネット・ジャクソンのキャリアにおいて重要な楽曲の一つとなりました。
 
-[メルカリで購入](https://jp.mercari.com/item/m40056303541){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m40056303541){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>

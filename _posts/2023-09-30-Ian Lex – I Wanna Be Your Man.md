@@ -19,7 +19,7 @@ B2. I Wanna Be Your Man (Progressive)
 
 > 1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 
-[メルカリで購入](https://jp.mercari.com/item/m68058078658){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m68058078658){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

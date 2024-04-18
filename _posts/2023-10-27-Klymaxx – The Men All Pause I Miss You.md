@@ -19,7 +19,7 @@ B. I Miss You
 
 > Klymaxx（クライマックス）は、Bernadette Cooper（バーナデット・クーパー）がつくった80年代のガールズファンクバンド。「I Miss You」は世界的ヒットとなった。
 
-[メルカリで購入](https://jp.mercari.com/item/m95900301247){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m95900301247){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

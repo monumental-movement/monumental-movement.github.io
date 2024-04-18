@@ -19,12 +19,12 @@ Mixed By – Dave Sardy
 
 B1. Your Uniform (Does Not Impress Me) (Digital Hardcore Edit)
 
-B2. Hunt Down The Nazis! (Live In Washington DC 1997){:.button1}
+B2. Hunt Down The Nazis! (Live In Washington DC 1997){: .button1}
 
 > 「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84164328964){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m84164328964){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

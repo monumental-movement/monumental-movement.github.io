@@ -26,7 +26,7 @@ B. Journey Beyond The Stars(A Moment In Space & Time Mix)
 > 「Journey Beyond」など、彼の楽曲は、リラックスしたり、集中したり、音楽の旅に出かけたりする際に楽しむのに最適です。砂原良徳の音楽は、日本国内外で多くのリスナーに愛されており、彼のキャリアにおける重要な作品の一つとなっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82161248157){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m82161248157){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

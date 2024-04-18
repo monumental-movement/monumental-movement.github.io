@@ -25,7 +25,7 @@ AA1  Dr. Funk (Ceasefire Remix)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m98495618584){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m98495618584){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

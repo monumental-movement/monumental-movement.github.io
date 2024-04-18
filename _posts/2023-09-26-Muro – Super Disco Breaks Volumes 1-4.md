@@ -20,5 +20,5 @@ Side C. Super Disco Breaks Lesson 3
 Side D. Super Disco Breaks Lesson 4
 
 
-[メルカリで購入](https://jp.mercari.com/item/m85258489919){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m85258489919){: .button1}
 

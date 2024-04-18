@@ -27,7 +27,7 @@ AA. Prison Break
 「Arctic Globe / Prison Break」は、Orjanの独自のトランスサウンドを楽しめる楽曲として知られています。彼の音楽は、洗練されたプロダクションと感情的な表現が特徴であり、多くのリスナーに魅力を与えてきました。これらの曲は、トランスミュージックのファンやエネルギッシュなサウンドを求める人にとって、魅力的な選択肢となるでしょう。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m86872541216){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m86872541216){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

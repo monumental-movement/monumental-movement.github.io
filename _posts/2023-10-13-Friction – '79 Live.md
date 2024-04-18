@@ -37,5 +37,5 @@ DVD-21979-80 8mm Film
 
 > 「'79 Live」1979年のライブを収録したライブ・アルバムの2005年再発盤（DVD付）。
 
-[メルカリで購入](https://jp.mercari.com/item/m87178504200){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m87178504200){: .button1}
 

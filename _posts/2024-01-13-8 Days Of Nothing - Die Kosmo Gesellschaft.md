@@ -39,7 +39,7 @@ Die Kosmo Gesselschaft は、1997年にドイツのベルリンで結成され�
 
 600枚限定のレアレコード。
 
-[メルカリで購入](https://jp.mercari.com/item/m58782538124?afid=61426089877){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

@@ -36,5 +36,5 @@ B4. Presence Of A Brain
 > 「Up for the Down Stroke」は、その創造性とファンクの要素を駆使したサウンドによって、ファンクミュージックの愛好家から広範な支持を得ました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m93399645304){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m93399645304){: .button1}
 

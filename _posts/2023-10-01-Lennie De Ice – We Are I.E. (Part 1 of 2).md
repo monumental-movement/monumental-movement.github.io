@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Lennie De Ice – We Are I.E. (Part 1 of 2){:.button1}"
+title:  "Lennie De Ice – We Are I.E. (Part 1 of 2){: .button1}"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2){:.button1}.jpg
+image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2){: .button1}.jpg
 rating: 3.5
 v-rating: VG
 ---
 
-#### Lennie De Ice – We Are I.E. (Part 1 of 2){:.button1}
+#### Lennie De Ice – We Are I.E. (Part 1 of 2){: .button1}
 
 A1. We Are I.E. (Johan S Toxic Mix)
 
@@ -21,7 +21,7 @@ B2. We Are I.E. (Original)
 
 > 「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。
 
-[メルカリで購入](https://jp.mercari.com/item/m70780419709){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70780419709){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

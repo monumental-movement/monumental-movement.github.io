@@ -28,7 +28,7 @@ B2. Seasons Of Jack (DJ Tool)
 
 > 「Seasons Of Jack」は、2007年にUKを拠点とするレーベルBoss Recordsよりリリースされたハウス・エレクトロトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m24953586497){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m24953586497){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

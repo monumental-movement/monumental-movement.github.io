@@ -61,7 +61,7 @@ D5. おかしなジョー
 
 D6. 天国への道
 
-[メルカリで購入](https://jp.mercari.com/item/m93242824687){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m93242824687){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

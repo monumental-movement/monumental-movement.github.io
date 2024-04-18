@@ -27,7 +27,7 @@ B2. Temporary Threshold Shift
 
 A面２曲目はGwen Maze （グウェンメイズ）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m96043491191?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG+</strong>

@@ -21,7 +21,7 @@ B2. Work It (Martin Accorsi Rmx)
 
 > B面１曲目は、セントルイスを拠点に活動するDJ Kobbeによるremix。B面２曲目はマイアミを拠点に活動するDJ/プロデューサーMartin Accorsiによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m40800419053){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m40800419053){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

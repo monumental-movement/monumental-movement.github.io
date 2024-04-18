@@ -20,7 +20,7 @@ A面・B面 歌詞＆ミュージック – さだまさし
 
 > B面は、フジテレビ系「北の国から」の主題歌。
 
-[メルカリで購入](https://jp.mercari.com/item/m45483880939){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m45483880939){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

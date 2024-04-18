@@ -20,7 +20,7 @@ AA1. Liberation (Temptation - Fly Like An Angel) (Matt Darey Remix)
 > Matt Darey（マット・ダレイ）は、イギリス出身のプロデューサー/DJ。
 A面１曲目はFerry Corsten（フェリー・コーステン/SystemF）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m44404211666){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m44404211666){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -41,4 +41,4 @@ B5. I Am A Rock
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m97532199707){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m97532199707){: .button1}

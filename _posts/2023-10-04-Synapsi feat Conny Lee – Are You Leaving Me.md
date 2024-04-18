@@ -22,7 +22,7 @@ B2. Are You Leaving Me? (Instrumental)
 > 1993年にイタリアのレーベル「Technology」からリリースされたSynapsiによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m48922675494){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m48922675494){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

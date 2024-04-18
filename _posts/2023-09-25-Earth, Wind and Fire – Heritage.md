@@ -27,7 +27,7 @@ B3. Heritage (Per Cus Apella)
 
 > アース・ウィンド・アンド・ファイアは、70年代から80年代にかけて多くのヒット曲を生み出し、ファンクやディスコミュージックのシーンで大きな成功を収めました。彼らの楽曲は、グルーヴ感やエネルギッシュなパフォーマンスで知られており、その音楽は広く愛されています。
 
-[メルカリで購入](https://jp.mercari.com/item/m24587506039){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m24587506039){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

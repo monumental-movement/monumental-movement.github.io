@@ -35,7 +35,7 @@ B5. Engine
 
 > Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
 
-[メルカリで購入](https://jp.mercari.com/item/m59516600898){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m59516600898){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

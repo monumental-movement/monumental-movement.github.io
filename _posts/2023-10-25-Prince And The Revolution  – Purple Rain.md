@@ -17,7 +17,7 @@ A. Purple Rain (Single Edit.)
 
 B. God 
 
-[メルカリで購入](https://jp.mercari.com/item/m50358308709){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m50358308709){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

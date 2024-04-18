@@ -19,7 +19,7 @@ B2. Somebody Save Me (Album Mix)
 
 > シカゴ出身のプロデューサー・DJ、Marshall Jeffersonによるアシッドリミックス。
 
-[メルカリで購入](https://jp.mercari.com/item/m41822459521){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m41822459521){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

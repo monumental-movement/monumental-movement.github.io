@@ -23,7 +23,7 @@ B2  I Pull My Gun Twice
 
 > Plavkaは、セルビア出身のボーカリストであり、彼女の力強いボーカルは「Kaleidoscope Skies」に深みと感情を与えています。彼女の歌声は、楽曲全体にドラマティックなエッセンスを与え、聴く人の心を捉えます。
 
-[メルカリで購入](https://jp.mercari.com/item/m66323929569){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m66323929569){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

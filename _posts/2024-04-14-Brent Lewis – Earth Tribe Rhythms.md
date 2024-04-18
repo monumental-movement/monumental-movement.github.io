@@ -38,4 +38,4 @@ Brent Lewis(ブレントルイス)は、長年にわたり多くの有名なア�
 2曲目Ode to Buckwheatはオリバー・ストーン監督の映画「JFK」のオリジナルサウンドトラックに収録されている。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m92233354047?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}

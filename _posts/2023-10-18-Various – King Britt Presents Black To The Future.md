@@ -27,7 +27,7 @@ B3. Yesterdays New Quintet – 18 And Untitled
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m69484096641){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m69484096641){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

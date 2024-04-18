@@ -24,7 +24,7 @@ B2. Big Pussy
 
 > DJ Guyは、ロンドンを拠点とする DJ 兼プロデューサーであり、Detroit booty（デトロイト・ブーティー）やChicago Ghetto House （シカゴゲットー ハウス）専門のGlobal Fireレーベルのオーナー。
 
-[メルカリで購入](https://jp.mercari.com/item/m63316031415){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m63316031415){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

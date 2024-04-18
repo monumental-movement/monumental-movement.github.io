@@ -25,7 +25,7 @@ B3. Cozmic Ray–Danger (Accapella)
 
 > 1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m18868269557){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m18868269557){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

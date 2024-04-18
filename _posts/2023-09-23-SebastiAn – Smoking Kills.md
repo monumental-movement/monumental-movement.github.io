@@ -22,7 +22,7 @@ B2  Shoot
 > ハウスミュージックファン、そしてミニマルな音楽が好きなら、特に「ドラミ」は必聴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m17778455704){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m17778455704){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

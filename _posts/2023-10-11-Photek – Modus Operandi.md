@@ -22,7 +22,7 @@ B. Yendi
 > 「Modus Operandi」は、90年代後半のVirginグループのエレクトロニック/ダンスサブレーベルScienceより1998年にリリースされたPhotekのフューチャージャズ・ダウンテンポ ・ジャングルトラック。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20766489483){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m20766489483){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

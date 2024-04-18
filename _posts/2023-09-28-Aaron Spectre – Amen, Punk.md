@@ -21,7 +21,7 @@ B2. You Don't Know
 
 > 「Amen, Punk」というタイトルからも分かるように、彼の音楽はアメンブレイク（Amen Break）と呼ばれるドラムンベースの基礎となるサンプルパターンを取り入れつつ、パンクやハードコアのエネルギーと荒々しさを表現しています。
 
-[メルカリで購入](https://jp.mercari.com/item/m37597646129){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m37597646129){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

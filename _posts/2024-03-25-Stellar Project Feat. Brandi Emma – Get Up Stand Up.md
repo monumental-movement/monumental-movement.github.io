@@ -27,7 +27,7 @@ B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren
 
 B面２曲目はUKのDJ Paul Jacksonによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

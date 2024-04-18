@@ -25,7 +25,7 @@ B2  Unknown Artist–Exclusive Excerpt From Keepintime: A Live Recording
 > そしてB2にはセッションのライヴ録音も収録されています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m29653192560){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m29653192560){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

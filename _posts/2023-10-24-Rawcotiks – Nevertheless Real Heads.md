@@ -25,7 +25,7 @@ B3. Real Heads (Instrumental Version)
 
 > Rawcotiksは、NYワシントン ハイツを拠点に活動していたドミニカ共和国のヒップホップ ミュージシャン、 Jeff Valentino（ジェフ ヴァレンティノ）と Bladmillo Castillo （ブラドミロ カスティージョ）のユニット。
 
-[メルカリで購入](https://jp.mercari.com/item/m53262349767){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m53262349767){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

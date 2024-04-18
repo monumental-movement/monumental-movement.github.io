@@ -27,7 +27,7 @@ B面１曲目は、Love Parade, Dance Planet, Tribal Gatheringなどのフェス
 
 B面２曲目は、コールドプレイ、ケイティ・ペリー、リアーナ、レディー・ガガ、ペット・ショップ・ボーイズ、ビヨンセなどのremixを手がけ、2016年にブルーノ・マーズをフィーチャーしたマーク・ロンソンの「Uptown Funk」のリミックスでグラミー賞の非クラシック部門最優秀リミックス・レコーディング賞を受賞したDave Aude（デイヴ・オード）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m70012906820?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70012906820?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

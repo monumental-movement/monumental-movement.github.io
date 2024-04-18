@@ -27,5 +27,5 @@ v-rating: VG
 12. Sounds
 
 
-[メルカリで購入](https://jp.mercari.com/item/m50405344803){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m50405344803){: .button1}
 

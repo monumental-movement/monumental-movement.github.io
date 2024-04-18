@@ -39,7 +39,7 @@ D12. Some Would Know Why
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m89173131309){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m89173131309){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

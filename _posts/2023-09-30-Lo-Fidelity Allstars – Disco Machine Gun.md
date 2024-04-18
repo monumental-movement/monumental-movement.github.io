@@ -20,7 +20,7 @@ AA2. Puppy Phat, Number One
 > 「Puppy Phat」は、ダウンテンポのテンポを持ちながらも太いビートとスリージーなベースラインで、トリップホップとビッグビートの境界を曖昧にします。B面として隠れているこの曲は、Lo-Fiの最高のトラックの1つです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m70205023826){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70205023826){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

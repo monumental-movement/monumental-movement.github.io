@@ -20,7 +20,7 @@ B. Neo (The One) (R.R.D.S. Chewable Mix)
 > Neo (The One)  は、2001 年のビデオ ゲーム Grand Theft Auto III （グランド・セフト・オートIII /GTA3）にフィーチャーされました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m76177887094){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m76177887094){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

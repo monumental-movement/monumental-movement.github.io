@@ -24,7 +24,7 @@ B2  I Want Your Soul (Fake Blood Remix)
 > 「I Want Your Soul」は、アーマンド・ヴァン・ヘルデンの得意とするビートメイキングとサンプリングの技術、キャッチーなリズム、フレンティックなビート、そして耳に残るボーカルサンプルが特徴です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m70846990224){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70846990224){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

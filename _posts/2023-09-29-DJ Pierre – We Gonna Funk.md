@@ -28,7 +28,7 @@ AA2. We Gonna Funk (Underground Mix) (DJ Master Gola Version)
 > Nightcrawlersの「Push the Feeling On」の要素を取り入れたこのトラックはオリジナルよりも優れていると言える最高のミックスです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m36364872632){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m36364872632){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -29,7 +29,7 @@ B2. Back In The Game (Acapella)
 > このトラックはグルーヴィなビートとクラシックなサンプル、力強いラップパフォーマンスが特徴です。Wu-Tang Clanのメンバーたちは、独自のスタイルとリリックで韻を踏み、ストリートのリアリティや彼らのヒップホップ文化への愛を表現しています。Ron Isleyのソウルフルなヴォーカルは、曲に感情的な要素をもたらし、聴く人々に響きます。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m94135707299){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m94135707299){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

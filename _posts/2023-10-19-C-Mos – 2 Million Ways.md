@@ -23,7 +23,7 @@ B2. 2 Million Ways (Original Mix)
 
 > B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m82094920141){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m82094920141){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

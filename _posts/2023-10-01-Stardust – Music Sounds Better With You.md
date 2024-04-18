@@ -21,7 +21,7 @@ A. Music Sounds Better With You
 
 > この楽曲は、ハウスミュージックやエレクトロニックダンスミュージックのファンにとってはクラシックとも言える作品です。
 
-[メルカリで購入](https://jp.mercari.com/item/m55707483061){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m55707483061){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

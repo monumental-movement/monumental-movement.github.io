@@ -42,7 +42,7 @@ B6. 花と蝶 – 森進一
 
 B7. 港町ブルース – 森進一
 
-[メルカリで購入](https://jp.mercari.com/item/m33119063874){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m33119063874){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: G</strong>

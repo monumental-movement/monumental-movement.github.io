@@ -25,7 +25,7 @@ B2. Happy Days (Playback Version)
 
 > 「Happy Days」は、1989年にFlea RecordsからリリースされたCoo Cooの代表曲。
 
-[メルカリで購入](https://jp.mercari.com/item/m52217858429){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m52217858429){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

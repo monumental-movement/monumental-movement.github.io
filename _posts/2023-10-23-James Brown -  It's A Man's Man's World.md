@@ -21,7 +21,7 @@ B. Papa's Got A Brand New Bag
 
 > この曲は、ブラウンの音楽キャリアで重要な位置を占め、ソウルとR&Bのクラシックとして広く賞賛されています。その深みのある歌唱と心に響くメッセージにより、今日でも多くのリスナーに愛され続けています。
 
-[メルカリで購入](https://jp.mercari.com/item/m26166401596){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m26166401596){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

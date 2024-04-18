@@ -39,7 +39,7 @@ DHS（Dimensional Holofonic Sound）はプロデューサーであるBenjamin St
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m59886802846?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

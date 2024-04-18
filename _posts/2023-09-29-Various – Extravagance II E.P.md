@@ -23,7 +23,7 @@ B2. Ray Vee–R.V. Theme
 
 > このEPのトラックはBasement PhilのHistory of Rave番組でも取り上げられていました。
 
-[メルカリで購入](https://jp.mercari.com/item/m30325030920){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m30325030920){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

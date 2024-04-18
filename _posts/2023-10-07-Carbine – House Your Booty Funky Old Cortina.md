@@ -26,7 +26,7 @@ AA. Funky Old Cortina
 > 「House Your Booty / Funky Old Cortina」は、Carbineの音楽の一部を体験することができる特別なリリースであり、ハウスミュージックファンにとって興味深い作品となっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99206766868){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m99206766868){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

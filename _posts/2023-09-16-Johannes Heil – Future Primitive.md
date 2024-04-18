@@ -44,7 +44,7 @@ D   Cherubim
 > ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m46295753268){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295753268){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

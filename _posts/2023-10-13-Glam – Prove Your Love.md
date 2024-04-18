@@ -25,7 +25,7 @@ B2. Prove Your Love (Radio Mix)
 
 > 1991年にリリースされた「Prove Your Love」は、当時のダンスミュージック・クラブシーンで頻繁にプレイされた90年代初頭のアンセムで、その後もクラシックとして評価されている。
 
-[メルカリで購入](https://jp.mercari.com/item/m92806880248){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m92806880248){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

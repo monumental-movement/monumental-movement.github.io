@@ -21,7 +21,7 @@ B2. Could Heaven Ever Be Like This (Malawi Rocks Mix Instrumental)
 
 > 2001年にSublime RecordsからリリースされたSusumu Yokotaの名作「Zero」からのリミックス・カットVol.2は、「Feel My Love」ではKyoto Jazz MassiveによるリミックスとHallelujahではSusumu Yokota自身のミックスを収録。
 
-[メルカリで購入](https://jp.mercari.com/item/m62284633728){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m62284633728){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -28,7 +28,7 @@ B2. Jellyhead (Oven Ready Remix)
 > その後、Hoyが脱退し、Luciana Caporasoが彼女の代わりに加入しました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m79239722498){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m79239722498){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG-</strong>

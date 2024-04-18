@@ -22,7 +22,7 @@ B. Rainbow Warrior
 > 2005年に、Martin Stääfはグループを離れ、独自のプロジェクトであるLiquid Strangerに焦点を当てることを決定しました。それ以来、NectonはPatrik Olsénのソロプロジェクトとなり、プログレッシブ/サイケデリックテックトランスを専門としています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20234244715){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m20234244715){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

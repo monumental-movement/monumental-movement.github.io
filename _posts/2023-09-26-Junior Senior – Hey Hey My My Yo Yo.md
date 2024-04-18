@@ -42,4 +42,4 @@ v-rating: VG
 > 「Hey Hey My My Yo Yo」はJunior Seniorの最も有名な曲の1つであり、世界的なヒットとなりました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m51276371738){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m51276371738){: .button1}

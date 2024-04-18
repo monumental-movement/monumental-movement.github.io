@@ -37,5 +37,5 @@ v-rating: VG
 
 > 2000年にアルケミーレコーズよりリリースされた山崎マゾと戸田房尾によるユニットChristine 23 Onnaによるアルバムです。
 
-[メルカリで購入](https://jp.mercari.com/item/m46495394353){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m46495394353){: .button1}
 

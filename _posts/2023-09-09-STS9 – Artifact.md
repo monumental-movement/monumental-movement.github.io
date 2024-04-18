@@ -40,7 +40,7 @@ B3. Better Day
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77083791286){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

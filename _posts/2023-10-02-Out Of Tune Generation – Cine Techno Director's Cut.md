@@ -24,7 +24,7 @@ B2. Modesty (Mode-Esty Dub)
 > A1はモンド映画、「Sweden: Heaven and Hell」の挿入曲「マナ・マナ」のハウスカバー。A2は、ギリシャ・イギリス映画「魚が出てきた日」のカバー。
 B1のLinus & Lucyは、ピーナッツ（特にスヌーピーのメリー・クリスマス）で頻繁に流れるビンス・ガラルディが1964年に発表した楽曲Linus & Lucy（ライナス・アンド・ルーシー）のカバー。B2はイギリス映画「唇からナイフ」のカバー。
 
-[メルカリで購入](https://jp.mercari.com/item/m61860876108){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m61860876108){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

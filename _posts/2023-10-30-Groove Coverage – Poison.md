@@ -27,7 +27,7 @@ B3. Only Love
 
 > 「Poison」は、Alice Cooper（アリス・クーパー）のカバー曲であり、Groove Coverageの代表曲の一つ。
 
-[メルカリで購入](https://jp.mercari.com/item/m23409895626){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m23409895626){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -23,7 +23,7 @@ B2. Eine Insel Mit Zwei Bergen (Frau Mahlzahn Mix)
 
 > 実際には、これらは本物の追加アーティストではありません。
 
-[メルカリで購入](https://jp.mercari.com/item/m19329516022){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m19329516022){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -22,7 +22,7 @@ B2. Wonderland
 > Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。
 「Brainkiller」は、Mike Hoppe (Roy Batty)によって設立されたドイツのレーベルF%@#ing Loud!より1994年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m87341186255){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m87341186255){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

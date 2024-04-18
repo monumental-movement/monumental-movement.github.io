@@ -25,7 +25,7 @@ B2. Soul Sound (Soulchild Remix)
 
 B面１曲目は、Jakatta、Doug Willis、Raven Maize、Sessomatto名義でも知られる、UKのDJ・ハウスミュージックプロデューサJoey NegroことDave Leeによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m76809877901?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m76809877901?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

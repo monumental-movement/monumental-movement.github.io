@@ -35,7 +35,7 @@ B5. Dreamboat Annie (Reprise)
 
 > 当時、バンドはブリティッシュコロンビア州バンクーバーに拠点を置いており、このアルバムはバンクーバーで録音され、最初にカナダで地元のレーベルであるマッシュルーム・レコードによって1975年9月にリリースされました。このアルバムは後にRPMのトップアルバムチャートで20位に達し、ダブルプラチナ認定を獲得しました。
 
-[メルカリで購入](https://jp.mercari.com/item/m52698714927){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m52698714927){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

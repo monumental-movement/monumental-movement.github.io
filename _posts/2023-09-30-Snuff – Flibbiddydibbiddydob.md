@@ -38,7 +38,7 @@ B6. In Sickness & In Health
 >このEPはもともと1990年にWorkers Playtime Recordsからイギリスでリリースされ、後に1996年8月にFat Wreck Chordsから再リリースされました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m21120251672){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m21120251672){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

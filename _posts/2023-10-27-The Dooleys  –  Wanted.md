@@ -18,7 +18,7 @@ A1. Wanted = ウォンテッド
 B1. Movie Stars (And Comic Book Heroes) = ムービー・スターズ
 
 
-[メルカリで購入](https://jp.mercari.com/item/m48275786483){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m48275786483){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

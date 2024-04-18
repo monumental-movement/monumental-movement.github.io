@@ -23,7 +23,7 @@ B2. Nothing Can Go Wrong (7" Mix)
 
 2007年にUKのインディペンデントレーベルA/G/Pからリリースされた、イギリス・ブライトン出身のDJデュオSouth Central（サウスセントラル）によるグリッチ・エレクトロトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m43490703083?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m43490703083?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

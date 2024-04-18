@@ -19,7 +19,7 @@ B. オリーブとブルートの競走曲
 
 > 1978年にリリースされた「ポパイ」がモチーフのディスコ・ソング。「3、2、1、0」というセリフから始まる有名曲。メインボーカルは西濱哲男（トランザムの元リードボーカル）、コーラスは織田哲郎と村田有美、妹尾隆一郎はハーモニカで参加。
 
-[メルカリで購入](https://jp.mercari.com/item/m15350069400){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m15350069400){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

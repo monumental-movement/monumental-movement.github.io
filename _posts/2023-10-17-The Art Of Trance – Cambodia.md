@@ -19,7 +19,7 @@ AA. Cambodia (Tunnel Vision Mix)
 
 > 「Cambodia」は、UKトランス・テクノレーベルPlatipusより1994年にリリースされた。A面はSimon BerryとPaul Brogden（ポール・ブログデン）のプロジェクトClangerによるremix。B面はTunnel Visionによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m14503926269){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m14503926269){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM<strong>

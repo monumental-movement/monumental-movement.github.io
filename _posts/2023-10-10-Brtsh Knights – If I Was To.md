@@ -19,7 +19,7 @@ AA1. Hazed
 
 > 「If I Was To」は、Ninja TuneのシングルレーベルTechnicolorより2013年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m72551982372){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m72551982372){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

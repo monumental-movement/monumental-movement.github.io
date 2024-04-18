@@ -29,7 +29,7 @@ B3. Can't Take My Eyes Off You (Reprise)
 
 > 1981年にリリースされた「Disc Charge」は、Boys Town Gang２枚目のアルバムで、彼らのヒット曲「Can't Take My Eyes Off You（君の瞳に恋してる/フランキー ヴァリ）」のカバーも収録されている。
 
-[メルカリで購入](https://jp.mercari.com/item/m70606757946){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70606757946){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

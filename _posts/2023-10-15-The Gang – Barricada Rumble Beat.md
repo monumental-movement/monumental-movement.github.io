@@ -41,7 +41,7 @@ B6. Not For Sale
 
 > A面３曲目とB面６曲目は、アメリカのハーモニカ奏者Andy J. Forest（アンディ・J・フォレスト）が参加。
 
-[メルカリで購入](https://jp.mercari.com/item/m64968588416){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m64968588416){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

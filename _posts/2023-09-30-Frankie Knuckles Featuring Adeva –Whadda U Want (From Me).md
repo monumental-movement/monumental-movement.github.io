@@ -20,7 +20,7 @@ B1. Whadda U Want (From Me) (K-Klass Mix)
 > 1995年にリリースされたフランキー・ナックルズの有名なトラックのリミックスも収録したEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m96883382943){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m96883382943){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

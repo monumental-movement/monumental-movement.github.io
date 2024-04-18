@@ -25,7 +25,7 @@ B2. Meu Sonho (So Pra Mim Remix)
 
 > B面はブラジルのDJ、Deeplickによるリミックスを収録。
 
-[メルカリで購入](https://jp.mercari.com/item/m53384235821){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m53384235821){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

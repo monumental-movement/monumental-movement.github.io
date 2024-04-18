@@ -17,7 +17,7 @@ B. Provided Railroad
 
 > 1999年にHG Factレーベルよりリリースされた、Paintbox（ペイントボックス）の2nd 7インチ。録音はスタジオOur House。
 
-[メルカリで購入](https://jp.mercari.com/item/m96596824271){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m96596824271){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

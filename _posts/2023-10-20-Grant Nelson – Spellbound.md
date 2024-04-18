@@ -17,7 +17,7 @@ A. Spellbound
 
 > 「Spellbound」は、レーベルNu grooveから1988年にリリースされたBas NoirMy「 Love Is Magic」のremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m49779856384){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m49779856384){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

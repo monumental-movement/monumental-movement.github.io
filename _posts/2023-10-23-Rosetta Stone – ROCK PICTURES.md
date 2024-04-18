@@ -35,7 +35,7 @@ B6. You Really Got Me
 
 > Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m83016536720){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m83016536720){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

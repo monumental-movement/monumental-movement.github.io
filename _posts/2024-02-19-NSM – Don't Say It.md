@@ -30,7 +30,7 @@ NSMは、Broken Beat（ブロークンビーツ） の初期のイノベータ�
 
 A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
 
-[メルカリで購入](https://jp.mercari.com/item/m72468872121?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

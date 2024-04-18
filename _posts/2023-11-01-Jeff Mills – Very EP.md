@@ -23,7 +23,7 @@ B2. Untitled
 
 B3. Untitled
 
-[メルカリで購入](https://jp.mercari.com/item/m40010323635){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m40010323635){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

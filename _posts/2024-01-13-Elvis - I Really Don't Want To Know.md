@@ -23,7 +23,7 @@ B. There Goes My Everything (淋しき足音)
 
 この、ElvisヴァージョンはRCAビクターより1971年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

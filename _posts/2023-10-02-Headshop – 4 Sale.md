@@ -20,7 +20,7 @@ B2. Xenomorph
 > Headshopは、90年代から活動しているエレクトロニック・ハードコア・ アシッド ・テクノ アーティストOlaf Pozsgay（The Viking/Dirty Dozen）のプロジェクト。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61217798776){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m61217798776){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

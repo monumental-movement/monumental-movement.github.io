@@ -23,7 +23,7 @@ B2. Wu All-Stars–Soul In The Hole (Instrumental)
 どちらの曲も、1990年代後半の東海岸ヒップホップシーンが色濃くでています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m22984434374){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m22984434374){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

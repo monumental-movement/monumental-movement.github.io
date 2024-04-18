@@ -21,7 +21,7 @@ B2. Secrets Of Meditation (Zoom Hallucinogenic Flange Dub Mix)
 
 > Trancesetters（トランスセッター）は、 Gaston SteenkistとAlex Dijksterhuisによるプロジェクト。Remixは、SHITAKE、レーベルZoom Recordsの主宰Billy NastyとDavid Wessonによるもの。
 
-[メルカリで購入](https://jp.mercari.com/item/m54094258963){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m54094258963){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

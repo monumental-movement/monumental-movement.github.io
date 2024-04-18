@@ -31,7 +31,7 @@ B4. Lexadelic & Zenith–Cruising
 
 > A4のDVL(Davy Van Laere)はDJ AMEとのプロジェクトAfter Hoursとしても有名。現在DVLは最も人気のスケートボード写真家として活動中。
 
-[メルカリで購入](https://jp.mercari.com/item/m56150431111){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m56150431111){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

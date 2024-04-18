@@ -28,7 +28,7 @@ B4. Tetsuo Yamazaki–Five Quarter
 > 1999年にリリースされたm-floのトラックが収録された映画「黒い家」の主題歌のシングルカットです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m16599032902){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m16599032902){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

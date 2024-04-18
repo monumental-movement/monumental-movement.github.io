@@ -21,7 +21,7 @@ Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生�
 
 彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。
 
-[メルカリで購入](https://jp.mercari.com/item/m99638933922?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

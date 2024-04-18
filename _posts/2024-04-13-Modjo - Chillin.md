@@ -29,7 +29,7 @@ Remix – Hervé Bordes
 ※UK盤とItaly盤がありますが、こちらはItaly盤となります。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m34688669419?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

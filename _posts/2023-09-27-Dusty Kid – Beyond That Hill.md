@@ -32,4 +32,4 @@ v-rating: VG
 > 「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m76599030054){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m76599030054){: .button1}

@@ -21,7 +21,7 @@ B2  P.Off
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m49758319217){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m49758319217){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

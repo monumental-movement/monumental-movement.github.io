@@ -17,7 +17,7 @@ B. Dekadent (Progressive)
 
 > WestBam（ウエストバム）、DJ Dick、William Röttger、Klaus Jankuhnなどによって設立されたLow Spirit RecordingsのサブレーベルNextfire Recordingsから2001年にリリースされたKlangkontakt（Dennis Shadow）によるプログレッシグハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m67842278990){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m67842278990){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

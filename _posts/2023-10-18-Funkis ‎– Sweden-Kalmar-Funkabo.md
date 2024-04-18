@@ -25,7 +25,7 @@ B3. 25-årig, Lång, Snygg
 
 > Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m20734209180){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m20734209180){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: M</strong>

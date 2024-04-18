@@ -25,7 +25,7 @@ B2  F.T., P-Dap & Hazu –Get Live (Instrumental)
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m86496222032){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m86496222032){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

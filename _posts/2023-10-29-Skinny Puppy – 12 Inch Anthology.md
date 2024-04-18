@@ -39,7 +39,7 @@ B5. Testure (12 Inch Mix)
 
 > このアルバムはバンド初期のシングル&B面が収録されたコンピレーションアルバムです。
 
-[メルカリで購入](https://jp.mercari.com/item/m35594422931){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m35594422931){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

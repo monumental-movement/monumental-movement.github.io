@@ -21,7 +21,7 @@ B2. Explorer
 
 > Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 別名義でCajmere、Geo Vogt、Half Pint、Curan Stone、Gino Vittori としても知られている。
 
-[メルカリで購入](https://jp.mercari.com/item/m55278073484){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m55278073484){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

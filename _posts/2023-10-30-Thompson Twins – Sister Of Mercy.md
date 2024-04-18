@@ -19,7 +19,7 @@ B. Out Of The Gap (Extended Version)
 
 > Thompson Twins(トンプソン・ツインズ)は、1977年に結成されたイギリスのポップバンド。結成当初は7人編成だったが、1982年からはトム・ベイリー、ジョー・リーウェイ、アラナ・カリーの3人編成となった。
 
-[メルカリで購入](https://jp.mercari.com/item/m97070864685){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m97070864685){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: G</strong>

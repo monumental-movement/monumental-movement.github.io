@@ -19,7 +19,7 @@ B. D-Generate
 
 > 「Absolum – Regenerate / D-Generate」は、TIP Records終了から約1年後の1999年にRaja Ram(ラジャ・ラム)によって設立されたイギリスのサイトランスレーベルTIP.Worldより、2000年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m55366208454){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m55366208454){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

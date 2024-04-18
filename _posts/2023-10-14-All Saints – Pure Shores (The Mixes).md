@@ -25,7 +25,7 @@ B2. Pure Shores (Instrumental)
 > B面はマシュメロ、U2、ビヨンセ、ビョーク、デペッシュ・モード、エコー＆ザ・バニーメン、グライムス、エド・シーランなど多くの国際的なアーティストをてがけてきたUKのレコードプロデューサー兼ミキシングエンジニアMark Stent（マーク・ステント）によるremix。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m60756646453){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m60756646453){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

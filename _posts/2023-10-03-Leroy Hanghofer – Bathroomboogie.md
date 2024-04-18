@@ -24,7 +24,7 @@ B2. Das Pi - Kurz!
 > しかし、太いベースラインとグシャグシャとしたシンセサイザーが、すべてをしっかりとグルーブさせ、楽しく進行します。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m31669126197){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m31669126197){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

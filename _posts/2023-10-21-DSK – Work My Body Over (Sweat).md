@@ -27,7 +27,7 @@ B3. Work My Body Over (Sweat) (Percapella)
 
 > 「Work My Body Over (Sweat)」は、エネルギッシュで踊りやすいビートとキャッチーなボーカルが特徴的で、90年代にダンスクラブやラジオで頻繁にプレイされた一曲。
 
-[メルカリで購入](https://jp.mercari.com/item/m42353720924){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m42353720924){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

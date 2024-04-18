@@ -24,7 +24,7 @@ B2. Wonderfull Days (Radio Mix)
 > 「Wonderfull Days」は、ハッピーハードコアシーンのクラシックとして今もなお人気を保っています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m75641849316){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m75641849316){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

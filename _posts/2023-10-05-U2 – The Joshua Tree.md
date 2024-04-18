@@ -38,5 +38,5 @@ B6. The Mothers Of The Disappeared
 > アルバムには大ヒットとなった楽曲「With or Without You」「I Still Haven't Found What I'm Looking For」「Where the Streets Have No Name」などが収録。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m90322062120){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m90322062120){: .button1}
 

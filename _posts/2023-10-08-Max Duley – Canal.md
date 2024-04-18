@@ -28,7 +28,7 @@ T2. Searching
 > マックス・デューリーの「Canal」は、テクノミュージックのファンやアンダーグラウンドシーンで高い評価を得ています。彼の音楽は、テクノの持つエネルギーとアンビエントな要素を組み合わせた独自のスタイルを追求しており、そのサウンドはリスナーに深いインパクトを与えるでしょう。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m53959898480){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m53959898480){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

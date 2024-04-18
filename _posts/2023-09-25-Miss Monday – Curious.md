@@ -28,7 +28,7 @@ B3. Curious (SoopaSta! Remix Acapella)
 > この楽曲は、洗練されたプロダクションと豊かな音楽的要素が組み合わさっており、ミス・マンディの個性的なアーティストリーと表現力が、楽曲に独自の魅力をもたらしています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m29143021851){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m29143021851){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

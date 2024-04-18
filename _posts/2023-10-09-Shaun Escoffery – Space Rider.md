@@ -18,7 +18,7 @@ B2. Space Rider (Original Mix)
 2002年にUKのレーベル「Oyster Music」からリリースされたShaun EscofferyによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m27456659002){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m27456659002){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

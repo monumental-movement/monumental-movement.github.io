@@ -29,7 +29,7 @@ B2  Butterfly (Main Instrumental)
 > 「Butterfly」はMondo Grossoの音楽スタイルを代表する曲の一つで、エレクトロニック、ハウス、ジャズ、R&Bなど、さまざまな音楽要素を組み合わせた独自のサウンドで知られています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m70429035417){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70429035417){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

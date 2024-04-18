@@ -26,7 +26,7 @@ B3. On The Grind (Acapella)
 > 2006年にスウェーデンのレーベル「Flyphonic Phonogram」からリリースされたSUPERSCIによるアルバム『Pinetrees On The Pavement』からのシングルカット。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m21772983956){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m21772983956){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

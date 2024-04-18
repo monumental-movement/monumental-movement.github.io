@@ -19,7 +19,7 @@ AA2. The Hourglass (Original Mix)
 
 > 「So-Low – The Hourglass / Pulse」は、エセックスを拠点とするプログレッシブハウスレーベルX-Gate Recordsから1992年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m80454443791){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m80454443791){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

@@ -60,7 +60,7 @@ B11. Spice-Song
 
 > Rytmifäärä は、1988年に結成されたヘルシンキ出身のデスコア/ハードコア/メタルバンド。Amenは、フィンランドのハードコアパンクバンド。
 
-[メルカリで購入](https://jp.mercari.com/item/m23657412972){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m23657412972){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

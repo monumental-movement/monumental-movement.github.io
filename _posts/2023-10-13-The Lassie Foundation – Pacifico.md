@@ -37,7 +37,7 @@ B6. You Are Infinity
 
 > メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
-[メルカリで購入](https://jp.mercari.com/item/m93678064417){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m93678064417){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

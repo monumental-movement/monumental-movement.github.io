@@ -24,7 +24,7 @@ B2. Blow Your Mind
 
 > 2004年、Jaimyは独立路線を選び、自身のレーベルFatal Musicを設立しました。1年後にはDrum Modeも設立しました。
 
-[メルカリで購入](https://jp.mercari.com/item/m47948860617){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m47948860617){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

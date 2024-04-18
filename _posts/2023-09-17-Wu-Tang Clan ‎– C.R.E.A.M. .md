@@ -33,7 +33,7 @@ B4. Da Mystery Of Chessboxin' (Instrumental)
 > The Charmelsの「As Long As I've Got You」をサンプリングした中毒性のあるプロダクションと内省的な歌詞で知られており、貧困地域での生活の苦境や経済的成功への願望を反映しています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m66730641557){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m66730641557){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

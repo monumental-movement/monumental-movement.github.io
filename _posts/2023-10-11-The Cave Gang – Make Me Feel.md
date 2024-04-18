@@ -19,7 +19,7 @@ B2. Make Me Feel (Radio Mix)
 
 > 1994年にイタリアのレーベル「Volume」からリリースされたElena Gobbi FrattiniとFausto GuioによるユニットThe Cave GangのEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m61676818588){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m61676818588){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

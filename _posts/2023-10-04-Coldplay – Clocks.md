@@ -18,7 +18,7 @@ A. Clocks (Jakob Carrison Electro Remix)
 > "Clocks"は、ピアノのリフと独特なリズムが特徴的な曲であり、瞑想的な雰囲気や壮大なサウンドが魅力です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m45212537179){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m45212537179){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -24,5 +24,5 @@ v-rating: VG
 
 2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m77173995141){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m77173995141){: .button1}
 

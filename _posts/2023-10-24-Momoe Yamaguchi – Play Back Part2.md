@@ -19,7 +19,7 @@ B. 賭け
 歌詞：阿木燿子
 作曲：宇崎竜童
 
-[メルカリで購入](https://jp.mercari.com/item/m52674329822){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m52674329822){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

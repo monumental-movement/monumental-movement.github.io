@@ -18,7 +18,7 @@ B. Slipstream
 
 UKテクノシーンで活躍すDJ Daz Saund（DJダズ・ソーンド）とBen Tisdall（ベン・ティスダル）によるユニットSound Associatesが1999年にベルギーのテクノレーベルMusic Man Recordsからリリースしたテクノトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m35823024589?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m35823024589?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

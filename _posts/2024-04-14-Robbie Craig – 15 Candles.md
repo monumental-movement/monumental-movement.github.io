@@ -27,7 +27,7 @@ AA. L.O.V.E. Feeling (Spread Luv Project Remix)
 A面はUKガラージアーティストLaurence BagnallとStanton Warriorsのメンバーであり、UKガラージ・ハウス・ベースミュージックのプロデューサーMark Yardleyによるremix。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

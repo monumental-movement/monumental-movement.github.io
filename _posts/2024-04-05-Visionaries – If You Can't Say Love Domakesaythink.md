@@ -33,7 +33,7 @@ A面１＆３曲目は、Funky Presidentの愛称で知られる世界的なDJ J
 
 B面１＆３曲目は、VisionariesのメンバーKikuo NishiことKey Koolがプロデュース。
 
-[メルカリで購入](https://jp.mercari.com/item/m13872107286?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m13872107286?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -27,7 +27,7 @@ B2. The Twenty
 
 > このレコードはデトロイト・サウンドで有名な名門レーベル「Delsin(デルシン)」から2006年にリリースされました。
 
-[メルカリで購入](https://jp.mercari.com/item/m48201041722){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m48201041722){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

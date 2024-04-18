@@ -26,5 +26,5 @@ v-rating: VG
 11. Daniel Bell –The Butterfly Effect
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 
-[メルカリで購入](https://jp.mercari.com/item/m32845023734){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m32845023734){: .button1}
 

@@ -21,7 +21,7 @@ B2. Rush
 
 > A面とB面一曲目のプロデューサー/作曲/mixは、UKのジャングル・ドラムンベースのプロデューサー/DJのDJ Hype（DJハイプ/Kevin Ford/ケビン・フォード) 。
 
-[メルカリで購入](https://jp.mercari.com/item/m84399793243){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m84399793243){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

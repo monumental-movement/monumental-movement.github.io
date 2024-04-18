@@ -22,7 +22,7 @@ B2  Dubpark
 > V.A.「U.S.B.-United Sounds Of Blue-」からのシングルカット。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m70725045281){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m70725045281){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

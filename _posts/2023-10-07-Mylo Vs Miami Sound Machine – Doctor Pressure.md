@@ -24,7 +24,7 @@ B2. Mylo–Drop The Pressure (Stanton Warriors Remix)
 > 「Doctor Pressure」は、Myloのヒット曲「Drop the Pressure」とMiami Sound Machineのヒット曲「Dr. Beat」を巧みに組み合わせたリミックスです。Myloは「Drop the Pressure」で知られるエレクトロニックミュージックのアーティストであり、Miami Sound Machineは1980年代に一連のポップヒットを生み出したグロリア・エステファン（Gloria Estefan）をフロントに持つバンド。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m34100476893){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m34100476893){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

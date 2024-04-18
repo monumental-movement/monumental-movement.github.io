@@ -39,7 +39,7 @@ B6. I Want U 2 Vant Me
 
 > AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。
 
-[メルカリで購入](https://jp.mercari.com/item/m65777823384){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m65777823384){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

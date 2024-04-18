@@ -33,7 +33,7 @@ B5.Raw – Dreams
 
 UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。
 
-[メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

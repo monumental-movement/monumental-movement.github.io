@@ -19,7 +19,7 @@ B2. Ha-Pi-Ness
 
 > Arti$tryは、Marco VerkuylenとBenjamin Kuytenによるユニット。「Arti$try – The Worker」は、オランダのハウスレーベルFresh Fruit Recordsより、1998年にリリースされた。
 
-[メルカリで購入](https://jp.mercari.com/item/m88863230519?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m88863230519?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

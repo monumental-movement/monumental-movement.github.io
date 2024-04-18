@@ -22,7 +22,7 @@ B2. Feed Da Kitty (Instrumental)
 > 1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m81262521689){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m81262521689){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

@@ -25,7 +25,7 @@ Gregorythme名義では、2006年よりBruchstuecke、Minibar、Sushitech、Mini
 
 「Peter Pan Syndrom」は2008年にSushitechのサブレーベルでディープなハウスベースのサウンドに特化したSushitech Purpleからリリースされたミニマルテクノトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m19636023289?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m19636023289?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

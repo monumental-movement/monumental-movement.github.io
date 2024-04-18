@@ -45,7 +45,7 @@ B2. Feed The World
 ・ビッグ・カントリー
 ・トレヴァー・ホーン
 
-[メルカリで購入](https://jp.mercari.com/item/m97976702543){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m97976702543){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

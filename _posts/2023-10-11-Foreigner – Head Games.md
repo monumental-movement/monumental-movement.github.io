@@ -36,7 +36,7 @@ B5. Rev On The Red Line
 > 「Head Games」は、Foreignerの３枚目のアルバムであり、バンドのシグネチャーサウンドとしても知られるアルバム。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m43110681533){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m43110681533){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

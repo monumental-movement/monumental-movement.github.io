@@ -27,7 +27,7 @@ B2. Free (M&S Epic Reprise Mix)
 > A面3曲目は、ドイツのハウス・グループTiefschwarz（ティーフシュヴァルツ）によるremix。
 > B面1曲目は、マイアミ出身のDJ/プロデューサーGeorge Acostaによるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m11492188360){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m11492188360){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>

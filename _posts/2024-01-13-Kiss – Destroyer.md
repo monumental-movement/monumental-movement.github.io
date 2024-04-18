@@ -35,7 +35,7 @@ B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
 
 プロデューサーは、アリス・クーパーなどを手がけたボブ・エズリン。
 
-[メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

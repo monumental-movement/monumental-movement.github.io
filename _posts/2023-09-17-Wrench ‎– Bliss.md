@@ -56,7 +56,7 @@ D2  Blood Type Mysterious
 > このアルバムは、2000年にリリースされた2枚組LPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m26534523251){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m26534523251){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

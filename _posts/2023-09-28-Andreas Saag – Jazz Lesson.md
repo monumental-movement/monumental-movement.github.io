@@ -22,7 +22,7 @@ Saxophone – Paul Lachenardière
 
 > SLSのトレードマークサウンドとは驚くほど異なり、Saagが美しく壮大なピアノを中心にした素晴らしいトラックを提供しているジャズです。
 
-[メルカリで購入](https://jp.mercari.com/item/m61195637285){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m61195637285){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

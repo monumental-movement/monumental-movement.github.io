@@ -19,7 +19,7 @@ B2. Rock'n'Roll Lover (Horror Mix)
 
 > ネオエレクトロとIDMサウンドを専門とするイタリアのレーベルNature Recordsより2004年にリリースされた「Esplanade 97」は、イタリアのDJ/プロデューサーFrancisco(Francesco de Bellis)と Adam Bourke（アダムバーク）によるテクノ・エレクトロトラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m23721600621){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721600621){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

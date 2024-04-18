@@ -23,7 +23,7 @@ B2. Cucu (Version Sabrosa)
 
 「Cucú」は、90年代イタリアのラテンハウスアクトSavierによるユーロハウストラック。
 
-[メルカリで購入](https://jp.mercari.com/item/m22577820880?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m22577820880?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

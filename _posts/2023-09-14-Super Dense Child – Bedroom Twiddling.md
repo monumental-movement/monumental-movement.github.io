@@ -23,7 +23,7 @@ B. Bedroom Twiddling (Part II)
 > 「Super Dense Child」は、Jimmy RandallとNic Horsburghによるプロジェクト。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m41293882699){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m41293882699){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

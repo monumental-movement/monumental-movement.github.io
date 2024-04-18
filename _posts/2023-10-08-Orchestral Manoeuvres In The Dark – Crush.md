@@ -38,5 +38,5 @@ B5. The Lights Are Going Out
 > レコーディング中、バンドは過去よりもオーガニックな楽器の使用を増やしました。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73878110877){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m73878110877){: .button1}
 

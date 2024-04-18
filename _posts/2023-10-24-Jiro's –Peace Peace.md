@@ -22,7 +22,7 @@ B. 愛とあなたのために = For The Love & You
 作曲： 杉田二郎
 歌： ジローズ
 
-[メルカリで購入](https://jp.mercari.com/item/m15281959770){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m15281959770){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

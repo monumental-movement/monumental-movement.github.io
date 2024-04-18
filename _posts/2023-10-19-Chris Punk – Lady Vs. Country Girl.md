@@ -17,7 +17,7 @@ B. Chris Punk–Lady
 
 > 数々のクラブヒット曲をremixしているChris Punk（クリス・パンク）による、 Primal Scream（プライマル・スクリーム） 「Country Girl」とModjo（モジョ）「Lady (Hear Me Tonight)」のハウスremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m16937403406){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m16937403406){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

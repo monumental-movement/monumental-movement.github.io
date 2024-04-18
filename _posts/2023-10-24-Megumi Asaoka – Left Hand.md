@@ -19,7 +19,7 @@ B. ひとりの私
 ミュージック＆アレンジ – 筒美京平
 レコーディングメンバー(ギター) – 高中正義
 
-[メルカリで購入](https://jp.mercari.com/item/m39210707763){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m39210707763){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

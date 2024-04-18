@@ -44,7 +44,7 @@ B4. Santa
 > この曲は、愛、旅、そしてモジョ・ハンド（ブルースの伝説では運を呼び寄せると信じられている魔法の護符）を求めるテーマを伝えており、伝統的なブルースの本質を捉えています。ライトニン・ホプキンスの情熱的な歌唱とギタープレイによって、「Mojo Hand」は時代を超えたブルースの名曲となっています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m49152824232){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m49152824232){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

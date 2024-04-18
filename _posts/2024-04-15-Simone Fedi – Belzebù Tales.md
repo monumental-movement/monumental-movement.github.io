@@ -28,7 +28,7 @@ Simone Fediは、イタリアのミュージシャン・プロデューサー。
 このレコードは、Tiga、Lindstrom、Aeroplane、Jason Eldredge、Low Motion Disco、Munk (Gomma)、Serge (Clone)、Zak Frost、Piccadilly Records、Phonica Records などからレビューされ、世界的にヒットしたSimone Fediの代表作。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m44593292428?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

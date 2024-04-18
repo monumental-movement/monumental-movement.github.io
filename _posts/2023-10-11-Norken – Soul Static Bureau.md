@@ -38,7 +38,7 @@ D3. Melissa Blend
 > 2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m49930985507){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m49930985507){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

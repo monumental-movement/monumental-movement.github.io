@@ -23,7 +23,7 @@ B  Sound Sweet
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m25112445531){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m25112445531){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

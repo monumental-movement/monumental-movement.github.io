@@ -59,7 +59,7 @@ Clan Grecoは、Neffa e Sud Sound SystemやDJ Rodriguez、Bossa Nostra、Gazzara
 共同プロデューサー：Brass Avengers 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

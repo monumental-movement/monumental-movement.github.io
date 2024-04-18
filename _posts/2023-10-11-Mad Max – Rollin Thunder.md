@@ -35,7 +35,7 @@ B4. Thoughts Of A Dying Man
 > 1984年にリリースされたアルバム「Rollin' Thunder」は、Mad Max２枚目のアルバム。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m90006098663){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m90006098663){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

@@ -19,7 +19,7 @@ B. The Ancestors (Ben Sims Remix)
 
 > B面は、UKロンドン出身のDJ/プロデューサーBen Sims（ベン・シムズ）によるremix。
 
-[メルカリで購入](https://jp.mercari.com/item/m18959940888){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m18959940888){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

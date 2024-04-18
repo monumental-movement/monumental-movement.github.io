@@ -35,7 +35,7 @@ B5. What Kind Of Girl
 
 > 特に「Even the Nights Are Better（さよならロンリー・ラブ）」と「Two Less Lonely People in the World」などのシングル曲は、アメリカ、日本をはじめ、世界的ヒットとなった。
 
-[メルカリで購入](https://jp.mercari.com/item/m66371881166){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m66371881166){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

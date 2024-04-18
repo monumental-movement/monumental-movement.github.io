@@ -21,7 +21,7 @@ B1. Will You Be There (Instrumental)
 
 > この曲は、映画『フリー・ウィリー』のサウンドトラックとしても知られており、映画のテーマ曲として多くの人々に愛されました。また、マイケル・ジャクソンのライブパフォーマンスでも頻繁に披露され、彼のキャリアにおける重要な楽曲の一つとなっています。
 
-[メルカリで購入](https://jp.mercari.com/item/m37751294912){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m37751294912){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG※裏面のバーコード部に丸いパンチ穴あり</strong>

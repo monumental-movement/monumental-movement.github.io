@@ -27,7 +27,7 @@ B2. Discoteka (Beat Freakz Remix)
 >「Discoteka」は、エレクトロハウスやプログレッシブハウスといったジャンルの要素を含んだダンスミュージックです。Starkillersの特徴的なサウンドスタイルが反映されており、エネルギッシュなビート、重厚なベースライン、疾走感のあるメロディが特徴です。クラブやパーティー、フェスティバルで人気のトラックです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m37053695161){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m37053695161){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

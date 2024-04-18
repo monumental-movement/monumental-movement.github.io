@@ -29,7 +29,7 @@ B4. Theme Song
 
 > 1975年結成当時のメンバーはJohn Curry/ジョン・カリー (別名Jon Boy/ジョン・ボーイ)、David Wilson/デヴィッド・ウィルソン (別名David Way/デヴィッド・ウェイ)、Dennis Walsh/デニス・ウォルシュ (別名Dennis Rackett / デニス・ラケット)。
 
-[メルカリで購入](https://jp.mercari.com/item/m86414218570){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m86414218570){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

@@ -21,7 +21,7 @@ B2. Feel So Fine (Radio Version)
 
 > アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
 
-[メルカリで購入](https://jp.mercari.com/item/m27934329690){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m27934329690){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

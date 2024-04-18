@@ -32,5 +32,5 @@ B3. Transcendastral Voyage
 > カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m83639772653){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m83639772653){: .button1}
 

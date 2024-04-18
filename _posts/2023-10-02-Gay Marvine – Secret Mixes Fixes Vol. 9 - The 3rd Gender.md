@@ -21,7 +21,7 @@ B2. Gay Marvine–Baby, Let's Trip Out
 
 > 2008年にレーベル「Secret Mixes Fixes」からリリースされた本名Chuck HamptonによるプロジェクトGay MarvineのEPです。
 
-[メルカリで購入](https://jp.mercari.com/item/m65896255728){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m65896255728){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

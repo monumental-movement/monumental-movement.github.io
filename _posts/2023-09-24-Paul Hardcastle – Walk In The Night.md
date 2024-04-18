@@ -25,7 +25,7 @@ B2. Just Passin' Thru'
 > 「Walk In The Night」は、ポール・ハードキャッスルのファンや電子音楽愛好家にとって楽しめる楽曲となっており、その独特なサウンドとクリエイティブなアプローチは、多くの人々に影響を与え続けています。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m96013184064){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m96013184064){: .button1}
 
 
 <div class="mt-4 mb-4 d-flex align-items-center">

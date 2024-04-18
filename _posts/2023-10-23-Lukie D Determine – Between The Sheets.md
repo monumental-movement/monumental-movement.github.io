@@ -19,7 +19,7 @@ B. Chevelle Franklyn –Got To Be Real (Version)
 
 > B面は、ジャマイカ出身のレゲエ＆ゴスペルシンガーChevelle Franklyn(シェベル・フランクリン)の「Got To Be Real」。Chevelle Franklynは、2010年グラミー賞最優秀現代ゴスペルアルバム賞を受賞。
 
-[メルカリで購入](https://jp.mercari.com/item/m56561423059){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m56561423059){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

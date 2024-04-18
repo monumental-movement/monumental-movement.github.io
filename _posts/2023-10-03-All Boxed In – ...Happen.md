@@ -20,7 +20,7 @@ AA2...Happen (Tolley's Geetarmarama Dub)
 > 1993年にUKのレーベル「Stress Records」からリリースされたAll Boxed InによるEPです。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m42506837214){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m42506837214){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

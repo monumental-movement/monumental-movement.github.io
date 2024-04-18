@@ -20,7 +20,7 @@ v-rating: VG
 > Alphavilleには、「Forever Young」、「Big in Japan」、「Sounds Like a Melody」、「The Jet Set」、「Dance with Me」などのヒット曲がある。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m19927021735){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m19927021735){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

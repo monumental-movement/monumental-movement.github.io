@@ -21,7 +21,7 @@ AA2. Surprise Surprise (Original)
 1994年にリリースされた「There Ain't Enough Love/ Surprise Surprise」は、アンダーグラウンドでミニマル、あるいはラフな雰囲気が特徴のUKストリートソウルトラック。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74448353771){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m74448353771){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

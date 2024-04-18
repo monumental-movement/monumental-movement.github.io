@@ -26,7 +26,7 @@ B2. The House Is Mine (Pete Smith Remix)
 > この曲は、90年代初頭のテクノシーンにおけるサウンドとエネルギーを象徴しています。そのダンサブルなリズムとユニークなサンプリングによって、聴く人々はヒプノティストの音楽の中で独自の世界に引き込まれるでしょう。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m41815735599){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

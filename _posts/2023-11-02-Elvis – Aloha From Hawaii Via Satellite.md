@@ -62,7 +62,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 
 
-[メルカリで購入](https://jp.mercari.com/item/m26998964951){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m26998964951){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

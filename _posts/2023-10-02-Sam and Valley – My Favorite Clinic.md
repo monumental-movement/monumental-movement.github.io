@@ -38,7 +38,7 @@ B6. Handkerchief
 > 1997年にAphex TwinことリチャードDジェイムスのレーベルRephlexからリリースされた日本人のユニット「Sam & Valley」の作品です。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m91264639069){:.button1}
+[メルカリで購入](https://jp.mercari.com/item/m91264639069){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
