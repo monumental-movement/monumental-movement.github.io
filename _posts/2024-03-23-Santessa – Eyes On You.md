@@ -39,3 +39,5 @@ B面１曲目は、Marc Mac (aka Marc Clair) と Dego (aka Dennis McFarlane)に�
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hxhf_ZO76QM?si=0o_AB63UvUpkYVAe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
