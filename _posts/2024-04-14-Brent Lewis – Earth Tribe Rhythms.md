@@ -39,3 +39,5 @@ Brent Lewis(ブレントルイス)は、長年にわたり多くの有名なア�
 
 
 [メルカリで購入](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tOmd8rX-ZyU?si=_JWAnqkuiKP3wCwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

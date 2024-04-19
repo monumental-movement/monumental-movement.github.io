@@ -39,3 +39,5 @@ v-rating: VG
 
 
 [メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
