@@ -21,6 +21,14 @@ B. The Flirting Kind
 
 「Let Them All Talk」は、1984年にリリースされたエルヴィス・コステロの24枚目のシングル。
 
+エルビス・コステロ & ザ・アトラクションズは、1977年後半にロンドンで結成されたイギリスのニューウェイヴ/ロックバンドです。
+
+エルビス・コステロによって結成され、当初はシングル「Watching The Detectives」のB面にのみクレジットされました。1986年までの活動を経て、1994年から1996年まで再結成されました。
+
+2002年には、ブルース・トーマスを除くメンバーで、エルビス・コステロ & ザ・インポスターズとして再結成されました。
+
+そして、2003年には、エルビス・コステロ & ザ・アトラクションズは、ロックの殿堂「ロックンロール・ホール・オブ・フェーム」に殿堂入りを果たしました。
+
 [メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
@@ -29,3 +37,5 @@ B. The Flirting Kind
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG ※帯なし</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

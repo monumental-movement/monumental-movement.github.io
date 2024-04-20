@@ -21,6 +21,9 @@ B1. Eo Eo Si Tu Quieres (Club Rumba Mix)
 
 B2. Eo Eo Si Tu Quieres (Original Album Vrs.)
 
+El CubanoによるTodos A La Fiesta/Eo Eo Si Tu Quieresは、イタリアのレーベル「Muzic Without Control Records」からリリースされたラテン・ユーロハウスのトラックです。
+
+
 [メルカリで購入](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
