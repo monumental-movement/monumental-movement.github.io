@@ -29,3 +29,5 @@ JamやTrancy Space（トランシースペーサー）名義でも知られる�
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gKQ3pW-R4b0?si=RfNsfqtKCIFbVutX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

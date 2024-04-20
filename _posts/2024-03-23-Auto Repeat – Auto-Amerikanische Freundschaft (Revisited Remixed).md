@@ -27,6 +27,8 @@ A面１曲目は、USハウスDJ Paul Johnsonによるremix。
 
 A面２曲目はシカゴハウスプロデューサーであり、90s後半のUSハウスプロデューサーの先駆者の一人として知られているDJ Sneakによるremix。
 
+Sneak Mixは非常にインパクトのあるトラックで、黄金の90年代中盤を代表する、時代を超えたハウス・ナンバーです。
+
 [メルカリで購入](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
@@ -35,3 +37,5 @@ A面２曲目はシカゴハウスプロデューサーであり、90s後半のU
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RoD2WO18jQU?si=iVBK0iN8LA_acqso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
