@@ -19,11 +19,13 @@ B1. Love Has Come Again (Angel Moraes Orgasmic Dub)
 
 B2. Love Has Come Again (Angel Moraes Wah Dub)
 
-> Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。
+Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。
 
-> 「Love Has Come Again」は、UKのプログレッシブ・ハウス・レーベルRenaissanceより2001年にリリース。RemixはPet Shop Boys(ペット・ショップ・ボーイズ)などのリミックスを手がけてた、ブルックリン出身の DJ Angel Moraes。
+「Love Has Come Again」は、UKのプログレッシブ・ハウス・レーベルRenaissanceより2001年にリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m81279883404){: .button1}
+RemixはPet Shop Boys(ペット・ショップ・ボーイズ)などのリミックスを手がけてた、ブルックリン出身の DJ Angel Moraes。
+
+[メルカリで購入](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

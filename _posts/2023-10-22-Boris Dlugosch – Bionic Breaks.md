@@ -29,11 +29,11 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 
 D3. Gary's Gang – Makin' Music
 
-> Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
+Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
 
->Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
+Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
 
-[メルカリで購入](https://jp.mercari.com/item/m89964094141){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>

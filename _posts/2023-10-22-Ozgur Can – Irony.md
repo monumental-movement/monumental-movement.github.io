@@ -15,10 +15,10 @@ A. Irony (Peter Dubs Mix)
 
 B. Irony (Original Mix)
 
-> Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
+Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m44499781183){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44499781183?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>

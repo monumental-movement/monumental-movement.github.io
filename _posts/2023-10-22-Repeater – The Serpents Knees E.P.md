@@ -17,9 +17,9 @@ AA1. Bulbous Phag
 
 AA2. Serpents Knees
 
-> Repeater（リピーター）は、Alan WoodburnとHarold Walkerによるアシッドテクノユニット。「The Serpents Knees E.P」は、UKのアシッドトランスレーベル Filterlessよりリリース。
+Repeater（リピーター）は、Alan WoodburnとHarold Walkerによるアシッドテクノユニット。「The Serpents Knees E.P」は、UKのアシッドトランスレーベル Filterlessよりリリース。
 
-[メルカリで購入](https://jp.mercari.com/item/m70161951038){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70161951038?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
