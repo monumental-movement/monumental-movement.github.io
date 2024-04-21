@@ -29,9 +29,11 @@ B3. Mist Of Time
 
 B4. 遠雷
 
-THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア）は、1976年に結成された日本のジャズフュージョンバンド。彼らは他の日本のフュージョンバンドと共に、1970年代後半から1980年代初頭にかけて活躍した。
+THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア）は、1976年に結成された日本のジャズフュージョンバンド。
 
-最も成功したラインナップには、ギタリストの安藤正容、ベーシストの須藤満、サックス奏者でフルートとEWIも演奏する伊東たけし、キーボーディストの和泉宏隆、そしてドラマーの則竹博之が含まれている。
+彼らは他の日本のフュージョンバンドと共に、1970年代後半から1980年代初頭にかけて活躍した。
+
+最も成功したラインナップには、ギタリストの安藤正容、ベーシストの須藤満、サックス奏者でフルートとEWIも演奏する伊東たけし、キーボーディストの和泉宏隆、そしてドラマーの則竹博之が含まれています。
 
 1984年にリリースされた「Stars and the Moon」は、THE SQUAREの9作目のアルバム。
 
@@ -51,3 +53,5 @@ THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア�
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: EX</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
