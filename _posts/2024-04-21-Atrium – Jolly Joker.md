@@ -23,7 +23,9 @@ B1. Jolly Joker (Radio Version)
 
 B2. Jolly Joker (Instrumental Version)
 
-Atriumは、イタロ・ディスコ/ユーロビート・プロジェクト。年代毎でヴォーカルが変わり、Jolly Joker（ジョリージョーカー）は、Giancarlo Pasquini （ジャンカルロ・パスクイーニ / Dave Rodgersデイヴ・ロジャース）がAtriumとして歌った唯一の曲。
+Atriumは、イタロ・ディスコ/ユーロビート・プロジェクト。
+
+年代毎でヴォーカルが変わり、Jolly Joker（ジョリージョーカー）は、Giancarlo Pasquini （ジャンカルロ・パスクイーニ / Dave Rodgersデイヴ・ロジャース）がAtriumとして歌った唯一の曲。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m57005157986?afid=6142608987){: .button1}
