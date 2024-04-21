@@ -25,11 +25,11 @@ B2. Disco Kicks (Remix)
 
 B3. Can't Take My Eyes Off You (Reprise)
 
-> Boys Town Gang（ボーイズ・タウン・ギャング）は、サンフランシスコのディスコDJ・プロデューサー Bill Motley（ビル・モトリー）によって 1980年に結成されたポストディスコ・ハイエナジーグループ。
+Boys Town Gang（ボーイズ・タウン・ギャング）は、サンフランシスコのディスコDJ・プロデューサー Bill Motley（ビル・モトリー）によって 1980年に結成されたポストディスコ・ハイエナジーグループ。
 
-> 1981年にリリースされた「Disc Charge」は、Boys Town Gang２枚目のアルバムで、彼らのヒット曲「Can't Take My Eyes Off You（君の瞳に恋してる/フランキー ヴァリ）」のカバーも収録されている。
+1981年にリリースされた「Disc Charge」は、Boys Town Gang２枚目のアルバムで、彼らのヒット曲「Can't Take My Eyes Off You（君の瞳に恋してる/フランキー ヴァリ）」のカバーも収録されている。
 
-[メルカリで購入](https://jp.mercari.com/item/m70606757946){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70606757946?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>
@@ -37,3 +37,5 @@ B3. Can't Take My Eyes Off You (Reprise)
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvNdWwsAMzI?si=yerdsgZaaZci1OpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -62,7 +62,13 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 
 
-[メルカリで購入](https://jp.mercari.com/item/m26998964951){: .button1}
+1973年ハワイ公演のライブアルバム - 日本独自編集盤です。
+
+録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
+
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
+
+[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
@@ -70,3 +76,5 @@ D5. Can't Help Falling In Love
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG 帯なし</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zLmsZC45-m8?si=xnSoGTdKOwBH-JLi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

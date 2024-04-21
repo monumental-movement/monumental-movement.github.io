@@ -23,13 +23,14 @@ A2. Sister Andrea シスター・アンドレア
 
 B. Dream ドリーム
 
-> 1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
+1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
+
 バンドは1973年12月に一旦解散したため、このアルバムがオリジナルメンバーによる最後のアルバムとなった。
 
-> この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
+この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52385944787){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>
@@ -37,3 +38,5 @@ B. Dream ドリーム
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG 帯なし</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

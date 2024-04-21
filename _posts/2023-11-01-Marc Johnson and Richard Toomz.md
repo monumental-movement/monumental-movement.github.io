@@ -9,17 +9,29 @@ rating: 3.5
 v-rating: VG
 ---
 
-#### Marc Johnson & Richard Toomz
+#### Marc Johnson & Richard Toomz/Dave Owens – Sour Cream & Chive
+
+Marc Johnson & Richard Toomz
 
 マークジョンソン
 
 Dave Owens – Sour Cream & Chive
 
+デーブオーウェンズ
+
 A. Marc Johnson & Richard Toomz–Escapology
 
 AA. Dave Owens–Sour Cream & Chive
 
-[メルカリで購入](https://jp.mercari.com/item/m80514183541){: .button1}
+Dave OwensのDJキャリアは、2000年代初頭に軌道に乗り、Insomniacz、Housework、Insekt、Byte、Ultim-8、Incisions、Hard Up North、Out of Order、Toast、Housewives Choice、Forbiddenなどのクラブシーンを代表する場所でDJを務めています。
+
+マンチェスターのPureFilthではレジデントDJも務めていました。
+
+デーブのプロデュース作品は、ダンスミュージックの中でもハード寄りなサウンドで知られ、シーンを代表するハードハウスやNRGレーベルから作品をリリースしています。
+
+また、ニック・デントンと緊密に協力し、Toolbox Musicの発展に貢献しているほか、サブレーベルであるToolbox Recordings、Hammerheads、Turtle Dog Digitalも率いています。
+
+[メルカリで購入](https://jp.mercari.com/item/m80514183541?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
@@ -27,3 +39,5 @@ AA. Dave Owens–Sour Cream & Chive
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tn2_jYHGWVg?si=YH72rJqO2kN9q7Ou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,7 +23,12 @@ B2. Untitled
 
 B3. Untitled
 
-[メルカリで購入](https://jp.mercari.com/item/m40010323635){: .button1}
+
+このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。
+
+暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
+
+[メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
@@ -31,3 +36,5 @@ B3. Untitled
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

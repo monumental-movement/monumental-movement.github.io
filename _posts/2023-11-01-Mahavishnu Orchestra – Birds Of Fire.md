@@ -33,13 +33,13 @@ B3. Open Country Joy
 
 B4. Resolution
 
-> Mahavishnu Orchestraは、1970年にイギリス人ギタリストJohn McLaughlin(ジョン・マクラフリン)によって結成されたフュージョン・ジャズ・ロックの草分け的バンド。
+Mahavishnu Orchestraは、1970年にイギリス人ギタリストJohn McLaughlin(ジョン・マクラフリン)によって結成されたフュージョン・ジャズ・ロックの草分け的バンド。
 
-> 1973年にリリースしたBirds Of Fire(火の鳥)は、Mahavishnu Orchestraの２作目で、ジャズロックとしては異例の世界的ヒットとなった。
+1973年にリリースしたBirds Of Fire(火の鳥)は、Mahavishnu Orchestraの２作目で、ジャズロックとしては異例の世界的ヒットとなった。
 
-> この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
+この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
-[メルカリで購入](https://jp.mercari.com/item/m23380322375){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: EX</strong>
@@ -47,3 +47,5 @@ B4. Resolution
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG-</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AulNvAR0u5c?si=dwJR6pVDbzzbcEyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

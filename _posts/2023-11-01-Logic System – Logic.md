@@ -33,12 +33,12 @@ B3. Person To Person
 
 B4. Logic
 
-> 使用機材
-Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, など
+
+使用機材は、Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, など
 
 松武秀樹による1981年のオリジナル盤。
 
-[メルカリで購入](https://jp.mercari.com/item/m66419316264){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: NM</strong>
@@ -46,3 +46,5 @@ Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG 帯なし</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dkOY5ekZD8?si=l5QXpP_feUCqc_hX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
