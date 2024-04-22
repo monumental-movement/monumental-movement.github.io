@@ -17,11 +17,13 @@ B1. Get Down
 
 B2. Sense
 
-> 有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。スイス出身のミニマルテクノ／デトロイトテクノシーンで注目されているDJ Deetron(ディートロン)とのコラボ曲は必聴。
+有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。
+
+スイス出身のミニマルテクノ／デトロイトテクノシーンで注目されているDJ Deetron(ディートロン)とのコラボ曲は必聴。
 
 
 
-[メルカリで購入](https://jp.mercari.com/item/m16258519746){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16258519746?afid=6142608987){: .button1}
 
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">盤質: VG</strong>
@@ -29,3 +31,5 @@ B2. Sense
 <div class="mt-4 mb-4 d-flex align-items-center">
 <strong class="mr-1">ジャケット: VG</strong>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNKQjITb7g8?si=8yk0AlhJqbCxiI_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
