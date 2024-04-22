@@ -229,7 +229,7 @@ img, img:hover {
 
 // blog grid
 .blog-grid-container {
-    width: auto;
+    width: 100%;
     margin: 50px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -655,18 +655,6 @@ iframe {
     }
     .blog-grid-container {
         grid-template-columns: 1fr;
-    }
-    .blog-grid-item:nth-child(1) {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        grid-row-start: 1;
-        grid-row-end: 3;
-    }
-    .blog-grid-item .img-thumb, 
-    .firstpage .blog-grid-item:nth-child(1) .img-thumb, 
-    .firstpage .blog-grid-item:nth-child(2) .img-thumb, 
-    .firstpage .blog-grid-item:nth-child(3) .img-thumb {
-        height:auto;
     }
     .newsletter {
         span.h4 {
