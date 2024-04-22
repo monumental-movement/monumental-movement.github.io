@@ -639,7 +639,7 @@ iframe {
     .container {
         width: 90%;
         max-width:90%;
-        padding-left:80px;
+        padding-left:60px;
     }
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
@@ -660,7 +660,7 @@ iframe {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 1;
-        grid-row-end: 2;
+        grid-row-end: 3;
     }
     .blog-grid-item .img-thumb, 
     .firstpage .blog-grid-item:nth-child(1) .img-thumb, 
