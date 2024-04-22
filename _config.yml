@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://monumental-movement.jp" # the base hostname & protocol for your site
 google_analytics: 'G-YYMSK3VLV2'
 disqus: 'mmr'
-mailchimp-list: 'monumental-movement'
+mailchimp-list: 'https://mailchi.mp/c6b6525e6ef1/subscribe'
 include: ["_pages"]
 permalink: /:title/
 email: monumental.movement.records@gmail.com
