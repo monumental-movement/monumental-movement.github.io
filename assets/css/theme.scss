@@ -300,7 +300,7 @@ img, img:hover {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 1;
-        grid-row-end: 3;
+        grid-row-end: 2;
         flex-direction: column;  
         align-items: flex-start;
         font-size: 1em;
@@ -651,7 +651,7 @@ iframe {
 }
 @media (max-width: 768px) {
     .posttitle {
-        font-size:20px;
+        font-size:18px;
     }
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
