@@ -229,7 +229,7 @@ img, img:hover {
 
 // blog grid
 .blog-grid-container {
-    width: 100%;
+    width: auto;
     margin: 50px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -311,7 +311,7 @@ img, img:hover {
         .img-thumb {
             object-fit:cover;
             height:400px;
-            width:100%;
+            width:auto;
             object-position:top;
         }
     }
@@ -671,7 +671,7 @@ iframe {
         .img-thumb {
             object-fit:cover;
             height:400px;
-            width:90%;
+            width:auto;
             object-position:top;
         }
     }
