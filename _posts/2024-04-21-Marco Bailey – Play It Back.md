@@ -5,9 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Marco Bailey – Play It Back.jpg
-rating: 4.5
-v-rating: VG
-beforetoc: Marco Bailey – Play It Back　マルコ・ベイリー
 ---
 
 Marco Bailey（マルコ・ベイリー）は、ベルギー出身のプロデューサー兼DJ。
