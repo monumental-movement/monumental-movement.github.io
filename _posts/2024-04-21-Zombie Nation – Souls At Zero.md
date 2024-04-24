@@ -11,8 +11,6 @@ toc: true
 beforetoc: Zombie Nation – Souls At Zero ゾンビネイション
 ---
 
-#### Zombie Nation – Souls At Zero
-
 99年リリースの「Kernkraft 400」で一躍有名になったZombie Nation。
 
 元々はドイツ人DJ 兼プロデューサーの Splank! (Florian Senfter）とDJ Mooner（Emanuel Günther）のテクノデュオだったが、現在は Splank! (Florian Senfter）一人で活動。
@@ -21,7 +19,7 @@ beforetoc: Zombie Nation – Souls At Zero ゾンビネイション
 
 B面はSven Väth（スヴェン・ヴァス）によるremix。
 
-#### Traacklist:
+#### Tracklist
 ```md
 A. Souls At Zero (Original Album Version)
 
