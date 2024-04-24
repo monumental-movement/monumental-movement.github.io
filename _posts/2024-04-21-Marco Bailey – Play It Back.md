@@ -7,7 +7,6 @@ tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Marco Bailey – Play It Back.jpg
 rating: 4.5
 v-rating: VG
-toc: true
 beforetoc: Marco Bailey – Play It Back　マルコ・ベイリー
 ---
 

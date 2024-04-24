@@ -11,8 +11,6 @@ toc: true
 beforetoc: Yellow Magic Orchestra  – Rydeen  イエロー・マジック・オーケストラ  – ライディーン
 ---
 
-#### YMO – Rydeen
-
 Yellow Magic Orchestra（YMO）が1980年にレーベルAlfaからリリースした7インチ。
 
 ジャケットデザインは、デヴィッド・ボウイ、ポリス、B-52's などのアーティストや音楽グループのアルバムカバーデザインで有名なMick Haggerty（ミック・ハガティー）。
