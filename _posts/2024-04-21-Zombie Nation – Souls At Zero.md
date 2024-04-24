@@ -8,9 +8,7 @@ image: ../assets/images/Zombie Nation – Souls At Zero.jpg
 rating: 4.5
 v-rating: VG
 toc: true
-beforetoc: Zombie Nation – Souls At Zero
-
-ゾンビネイション
+beforetoc: Zombie Nation – Souls At Zero ゾンビネイション
 ---
 
 #### Zombie Nation – Souls At Zero
