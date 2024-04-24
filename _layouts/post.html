@@ -28,25 +28,24 @@ post_class: post-template
 
 <!-- Featured Image -->
 {% include featured-image.html %}
-
-<!-- Content -->
-{% include article.html %}
-
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
     <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
 </div>
 {% endif %}
-
-<!-- Author Box if enabled from _config.yml -->
-{% include author-box.html %}
+<!-- Content -->
+{% include article.html %}
 
 {% include share.html %}
 
 <!-- Related Post -->
 {% include related-posts.html %}
+
+<!-- Author Box if enabled from _config.yml -->
+{% include author-box.html %}
 <br>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
      crossorigin="anonymous"></script>
 <!-- display-top-wide -->
