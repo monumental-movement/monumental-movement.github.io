@@ -41,14 +41,12 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 
-h4 {
-    :before{
+h4:before{
     color: #333;
     font-family:"Font Awesome 5 Free";
     content:"f8d9";
     font-weight:900;
     margin-right:10px;
-}
 }
 .site-content {
     padding-top:50px;
