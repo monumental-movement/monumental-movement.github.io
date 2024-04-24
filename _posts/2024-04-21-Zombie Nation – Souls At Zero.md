@@ -7,17 +7,13 @@ tags: [ Techno, 00s ]
 image: ../assets/images/Zombie Nation – Souls At Zero.jpg
 rating: 4.5
 v-rating: VG
+toc: true
+beforetoc: Zombie Nation – Souls At Zero
+
+ゾンビネイション
 ---
 
 #### Zombie Nation – Souls At Zero
-
-Zombie Nation – Souls At Zero
-
-ゾンビネイション
-
-A. Souls At Zero (Original Album Version)
-
-B. Souls At Zero (Sven Väth Remix)
 
 99年リリースの「Kernkraft 400」で一躍有名になったZombie Nation。
 
@@ -26,6 +22,13 @@ B. Souls At Zero (Sven Väth Remix)
 「Souls At Zero」は、2003年にFlorian SenfterとWolfram "Wolfen" Gottardt によって設立されたレーベルDekathlon Recordsよりリリースされたテクノ・エレクトロトラック。
 
 B面はSven Väth（スヴェン・ヴァス）によるremix。
+
+#### Traacklist:
+```md
+A. Souls At Zero (Original Album Version)
+
+B. Souls At Zero (Sven Väth Remix)
+```
 
 
 [メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
@@ -38,4 +41,5 @@ B面はSven Väth（スヴェン・ヴァス）によるremix。
 <strong class="mr-1">ジャケット: インナースリーブ</strong>
 </div>
 
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
