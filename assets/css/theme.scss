@@ -681,7 +681,7 @@ iframe {
         grid-row-end: 3;
         flex-direction: column;  
         align-items: flex-start;
-        font-size: 1em;
+        font-size: 0.8em;
         padding:0;
         .card-title {
             font-size:28px;
@@ -716,8 +716,8 @@ iframe {
     }
     .card-title {
         font-weight:700;
-        font-size:16px;
-        line-height:1.4;
+        font-size:15px;
+        line-height:1.2;
         a { 
             background-image: linear-gradient(180deg, transparent 89%, $primary 0);
             background-repeat: no-repeat;
