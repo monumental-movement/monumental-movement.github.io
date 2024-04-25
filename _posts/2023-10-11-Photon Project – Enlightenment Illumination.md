@@ -21,9 +21,3 @@ Geert HuininkとAlco Lammersは、Photon Project以外にも、2 Souls, Dawnseek
 
 [メルカリで購入](https://jp.mercari.com/item/m84306913921){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

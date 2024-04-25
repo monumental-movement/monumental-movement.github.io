@@ -31,9 +31,3 @@ B3. Read My Lips
 
 [メルカリで購入](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

@@ -25,9 +25,3 @@ B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Cont
 
 [メルカリで購入](https://jp.mercari.com/item/m60328897430){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

@@ -20,10 +20,3 @@ B. I'm Lonely = 男泣きのブルース
 この曲は、スクリーミン・ジェイ・ホーキンスのキャリアと個性を象徴するような作品の一つであり、彼の音楽が独自で不可思議なものであることを体現しています。
 
 [メルカリで購入](https://jp.mercari.com/item/m74185895481){: .button1}
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

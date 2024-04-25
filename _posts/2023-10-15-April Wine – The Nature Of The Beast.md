@@ -36,9 +36,3 @@ B5. One More Time
 
 [メルカリで購入](https://jp.mercari.com/item/m95537522288){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 帯なし</strong>
-</div>

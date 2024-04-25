@@ -21,9 +21,3 @@ Playerは、Jon Nuccle、Mark Turner、Pete Simpson、Richard Wilkinsonなど多
 
 [メルカリで購入](https://jp.mercari.com/item/m79339293855){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: Generic</strong>
-</div>

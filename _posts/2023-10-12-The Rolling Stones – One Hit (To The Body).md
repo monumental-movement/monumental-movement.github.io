@@ -23,9 +23,3 @@ A面のLondon Mix（ロンドン・ミックス）は、プロデュースを担
 
 [メルカリで購入](https://jp.mercari.com/item/m20361056204){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 帯なし</strong>
-</div>

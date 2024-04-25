@@ -21,9 +21,3 @@ B面１曲目は、ダッチトランスの創始者の一人でもあるFerry C
 
 [メルカリで購入](https://jp.mercari.com/item/m45749310257){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 底抜けあり</strong>
-</div>

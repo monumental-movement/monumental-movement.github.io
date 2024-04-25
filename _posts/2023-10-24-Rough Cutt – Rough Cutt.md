@@ -33,9 +33,3 @@ Rough Cutt（ラフ・カット）は、 Ozzy Osbourne（オジー・オズボ�
 
 [メルカリで購入](https://jp.mercari.com/item/m54711829584){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 帯なし</strong>
-</div>

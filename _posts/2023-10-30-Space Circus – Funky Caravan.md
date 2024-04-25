@@ -27,9 +27,3 @@ B3. Spring Wave (スプリング・ウェーブ)
 
 [メルカリで購入](https://jp.mercari.com/item/m38259723732){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX 帯なし</strong>
-</div>

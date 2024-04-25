@@ -17,9 +17,3 @@ Roland Clark（ローランド・クラーク）の『 I Get Deep（アイ・ゲ
 
 [メルカリで購入](https://jp.mercari.com/item/m62836204248){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: M</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: Generic</strong>
-</div>

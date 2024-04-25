@@ -25,9 +25,3 @@ Puppetmastazは、ハンドパペットを使ってショーをおこない、�
 
 [メルカリで購入](https://jp.mercari.com/item/m42662167380){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: Generic</strong>
-</div>

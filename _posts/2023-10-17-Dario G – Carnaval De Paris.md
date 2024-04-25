@@ -21,9 +21,3 @@ A面２曲目はDarren PearceとJulian Napolitanoによるユニット、JDSに�
 
 [メルカリで購入](https://jp.mercari.com/item/m16971968929){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: G</strong>
-</div>

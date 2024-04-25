@@ -21,9 +21,3 @@ Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Mal
 
 [メルカリで購入](https://jp.mercari.com/item/m11216499808?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

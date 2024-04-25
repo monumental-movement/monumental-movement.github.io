@@ -31,9 +31,3 @@ B4. The Sea Named "Solaris"
 
 [メルカリで購入](https://jp.mercari.com/item/m33587379551){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

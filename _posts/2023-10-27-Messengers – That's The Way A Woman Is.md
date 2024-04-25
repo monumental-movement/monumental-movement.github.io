@@ -17,9 +17,3 @@ Messengers (メッセンジャーズ)は1962年から1972年にかけて活動�
 
 [メルカリで購入](https://jp.mercari.com/item/m10066256629){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: NM</strong>
-</div>

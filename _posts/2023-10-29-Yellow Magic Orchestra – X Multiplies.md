@@ -31,10 +31,3 @@ B4  Solid State Survivor
 
 
 [メルカリで購入](https://jp.mercari.com/item/m64103001326){: .button1}
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX 帯あり</strong>
-</div>

@@ -40,9 +40,3 @@ B7. In The Lap Of The Gods...Revisited
 
 [メルカリで購入](https://jp.mercari.com/item/m74402889880){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 帯なし</strong>
-</div>

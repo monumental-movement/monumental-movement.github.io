@@ -24,9 +24,3 @@ Faithlessは、1990年代から2000年代にかけて多くのヒット曲を生
 
 [メルカリで購入](https://jp.mercari.com/item/m84616274474){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG+</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

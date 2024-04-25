@@ -31,9 +31,3 @@ B4. (It Was) Only Yesterday
 
 [メルカリで購入](https://jp.mercari.com/item/m14275784867){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: M</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 帯なし</strong>
-</div>

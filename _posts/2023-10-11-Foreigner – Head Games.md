@@ -36,9 +36,3 @@ Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick
 
 [メルカリで購入](https://jp.mercari.com/item/m43110681533){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

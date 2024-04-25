@@ -17,9 +17,3 @@ Grant Nelsonは、90年代半ばにレーベルNice 'N' Ripeから数多くの�
 
 [メルカリで購入](https://jp.mercari.com/item/m49779856384){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: Generic</strong>
-</div>

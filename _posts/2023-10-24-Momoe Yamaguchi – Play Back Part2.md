@@ -19,9 +19,3 @@ B. 賭け
 
 [メルカリで購入](https://jp.mercari.com/item/m52674329822){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG 中央に折れ線痕あり</strong>
-</div>

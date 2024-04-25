@@ -21,9 +21,3 @@ B2. Fro-Dian Gruv (House Gruv)
 
 [メルカリで購入](https://jp.mercari.com/item/m57566827619){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG+</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

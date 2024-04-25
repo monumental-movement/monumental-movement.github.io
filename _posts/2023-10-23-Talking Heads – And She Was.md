@@ -19,9 +19,3 @@ B. And She Was (E.T. Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m85439385386){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>

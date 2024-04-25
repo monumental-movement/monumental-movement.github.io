@@ -23,9 +23,3 @@ B3. Good Times (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m23326942990){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: Generic</strong>
-</div>

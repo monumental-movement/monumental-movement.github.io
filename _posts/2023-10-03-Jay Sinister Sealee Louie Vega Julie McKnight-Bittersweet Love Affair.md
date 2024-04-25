@@ -18,9 +18,3 @@ B. Bittersweet (Jay’s Main Event)
 
 [メルカリで購入](https://jp.mercari.com/item/m21567633655){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: なし｜インナースリーブのみ</strong>
-</div>

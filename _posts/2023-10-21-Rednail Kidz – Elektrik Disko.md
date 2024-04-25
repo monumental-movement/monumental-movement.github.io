@@ -19,9 +19,3 @@ Rednail Kidzは、80年代シカゴハウス初期から活動するDJ・プロ�
 
 [メルカリで購入](https://jp.mercari.com/item/m20845429230){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: Generic</strong>
-</div>

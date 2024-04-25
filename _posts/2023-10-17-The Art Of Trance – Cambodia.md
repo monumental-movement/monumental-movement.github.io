@@ -19,9 +19,3 @@ The Art Of Trance(アート・オブ・トランス)は、UKのトランスミ�
 
 [メルカリで購入](https://jp.mercari.com/item/m14503926269){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM<strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>
