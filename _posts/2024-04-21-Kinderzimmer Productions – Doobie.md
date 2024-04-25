@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Conscious, Rap ]
 image: ../assets/images/Kinderzimmer Productions – Doobie.jpg
-toc: true
-beforetoc: Kinderzimmer Productions – Doobie
 ---
 
 Kinderzimmer Productionsは、ドイツのウルム出身Quasi Modo (Sascha Klammt、DJ) と Textor (Henrik von Holtum、MC)により1990年代半ばに結成されたヒップホップバンド。

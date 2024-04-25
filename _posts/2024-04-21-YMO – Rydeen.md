@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno, 7inch ]
 image: ../assets/images/YMO – Rydeen.jpg
-toc: true
-beforetoc: Yellow Magic Orchestra  – Rydeen  イエロー・マジック・オーケストラ  – ライディーン
 ---
 
 Yellow Magic Orchestra（YMO）が1980年にレーベルAlfaからリリースした7インチ。
