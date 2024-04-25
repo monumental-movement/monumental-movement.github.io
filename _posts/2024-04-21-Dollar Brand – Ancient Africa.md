@@ -7,11 +7,16 @@ tags: [ Jazz, African, 70s ]
 image: ../assets/images/Dollar Brand – Ancient Africa.jpg
 ---
 
-#### Dollar Brand – Ancient Africa
-
-Dollar Brand – Ancient Africa
 ダラー・ブランド – 古代アフリカ
 
+南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
+
+このアルバムは、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
+
+Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
+
+#### Tracklist
+```md
 Aa. Bra Joe From Kilimanjaro
 
 Ab. Mamma
@@ -33,13 +38,7 @@ Bc. Xaba
 Bd. Peace - Salaam
 
 Be. Air
-
-南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
-
-このアルバムは、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
-
-Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 

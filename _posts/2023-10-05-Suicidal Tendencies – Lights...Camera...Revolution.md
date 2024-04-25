@@ -29,7 +29,7 @@ B4. Disco's Out, Murder's In
 
 B5. Go'n Breakdown
 
-「Lights...Camera...Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、マイク・マuir（Mike Muir）のパワフルなヴォーカルによって特徴づけられています。
+「Lights...Camera...Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、Mike Muirのパワフルなヴォーカルによって特徴づけられています。
 
 アルバムには、代表曲である「You Can't Bring Me Down」や「Send Me Your Money」などが収録されています。
 
