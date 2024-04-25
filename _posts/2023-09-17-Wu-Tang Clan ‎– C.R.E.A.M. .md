@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/Wu-Tang Clan – CREAM.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Wu-Tang Clan – C.R.E.A.M.
@@ -28,17 +26,10 @@ B3. Da Mystery Of Chessboxin' (A Cappella)
 B4. Da Mystery Of Chessboxin' (Instrumental)
 
 
-> この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
+この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
 
-> The Charmelsの「As Long As I've Got You」をサンプリングした中毒性のあるプロダクションと内省的な歌詞で知られており、貧困地域での生活の苦境や経済的成功への願望を反映しています。
+The Charmelsの「As Long As I've Got You」をサンプリングした中毒性のあるプロダクションと内省的な歌詞で知られており、貧困地域での生活の苦境や経済的成功への願望を反映しています。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m66730641557){: .button1}
 
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

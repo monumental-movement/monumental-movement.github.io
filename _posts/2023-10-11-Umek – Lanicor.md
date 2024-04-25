@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Rare ]
 image: ../assets/images/Umek – Lanicor.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Umek – Lanicor
@@ -23,9 +21,9 @@ B1. Mamomit
 
 B2. Meprobamat
 
-> Umekは、スロベニアのテクノ/テックハウスDJ、プロデューサー。
+Umekは、スロベニアのテクノ/テックハウスDJ、プロデューサー。
 
-> 「Lanicor」は、1999年にスロベニアのテクノDJ Valentino Kanzyani（ヴァレンティノ カンジャニ）と共に立ち上げたレーベルConsumer Recreationからリリースされたテクノトラックで、Umekの代表作の一つでもある。
+「Lanicor」は、1999年にスロベニアのテクノDJ Valentino Kanzyani（ヴァレンティノ カンジャニ）と共に立ち上げたレーベルConsumer Recreationからリリースされたテクノトラックで、Umekの代表作の一つでもある。
 
 
 

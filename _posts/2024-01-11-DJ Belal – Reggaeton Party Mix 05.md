@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Dancehall, Reggae, Reggaeton ]
 image: ../assets/images/DJ Belal – Reggaeton Party Mix 05.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### DJ Belal – Reggaeton Party Mix 05
@@ -25,9 +23,3 @@ A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy
 
 [メルカリで購入](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

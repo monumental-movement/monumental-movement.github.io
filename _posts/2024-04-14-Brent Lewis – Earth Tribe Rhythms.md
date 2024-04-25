@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Soundtrack ]
 image: ../assets/images/Brent Lewis – Earth Tribe Rhythms.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Brent Lewis – Earth Tribe Rhythms

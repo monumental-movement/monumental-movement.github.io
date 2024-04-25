@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno ]
 image: ../assets/images/Claude Young – The Dexit E.P.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Claude Young – The Dexit E.P.
@@ -23,9 +21,3 @@ B2. Fade
 
 [メルカリで購入](https://jp.mercari.com/item/m84836534062){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

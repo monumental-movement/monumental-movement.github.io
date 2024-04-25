@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, Collage, 10inch ]
 image: ../assets/images/Stock, Hausen & Walkman – Ventilating Deer.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Stock, Hausen & Walkman – Ventilating Deer
@@ -52,11 +50,5 @@ Stock, Hausen & Walkman (ストック、ハウゼン & ウォークマン)は、
 
 [メルカリで購入](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maYl0-KHSl0?si=ujk3exYDzMOCpngl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Classic, Compilation ]
 image: ../assets/images/Invitation To Denon PCM (A Magnificient New Recording System).jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Invitation To Denon PCM (A Magnificient New Recording System)

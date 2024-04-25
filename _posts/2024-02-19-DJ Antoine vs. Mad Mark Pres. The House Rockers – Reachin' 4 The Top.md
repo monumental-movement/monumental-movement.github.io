@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House ]
 image: ../assets/images/DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top
@@ -23,11 +21,5 @@ DJ Zki & Dobre により設立されたオランダのハウスレーベルFresh
 
 [メルカリで購入](https://jp.mercari.com/item/m75503570043?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L96jrumE-mA?si=4_GXCJ5r_meEeOdu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

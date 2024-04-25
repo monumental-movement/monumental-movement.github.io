@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 70s ]
 image: ../assets/images/VA – Thank God It's Friday.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### VA – Thank God It's Friday
@@ -51,9 +49,3 @@ E. Donna Summer - Je T'Aime (Moi Non Plus)
 
 [メルカリで購入](https://jp.mercari.com/item/m32254074664){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

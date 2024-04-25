@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Conscious, Rap ]
 image: ../assets/images/Kinderzimmer Productions – Doobie.jpg
-rating: 4.5
-v-rating: VG
 toc: true
 beforetoc: Kinderzimmer Productions – Doobie
 ---

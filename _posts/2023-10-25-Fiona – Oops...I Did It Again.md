@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Ragga, Reggae, 7inch ]
 image: ../assets/images/Fiona – Oops...I Did It Again.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Fiona – Oops...I Did It Again

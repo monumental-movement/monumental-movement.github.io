@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Rock, 80s ]
 image: ../assets/images/Elvis Costello And The Attractions – Let Them All Talk.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Elvis Costello And The Attractions – Let Them All Talk

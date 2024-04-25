@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Breaks, Minimal ]
 image: ../assets/images/Various – Viennatone.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Viennatone
@@ -34,7 +32,7 @@ v-rating: VG
 11. Puck Dannin–Family Affair
 
 
-> 1999年にドイツの!k7 recordsからリリースされた作品です。
+1999年にドイツの!k7 recordsからリリースされた作品です。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m83184827201){: .button1}

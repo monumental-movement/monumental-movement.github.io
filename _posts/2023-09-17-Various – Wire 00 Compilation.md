@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Compilation ]
 image: ../assets/images/Various – Wire 00 Compilation.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Wire 00 Compilation
@@ -42,17 +40,10 @@ D2  DJ Tasaka–Ganz Ganguro
 D3  Beroshima–WWW. (Robot Mix)
 
 
-> 2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
+2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
 
-> 2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
+2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m45913963651){: .button1}
 
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

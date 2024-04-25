@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Technical, Non-Music ]
 image: ../assets/images/No Artist – An Audio Obstacle Course - Shure Trackability Test Record.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### No Artist – An Audio Obstacle Course - Shure Trackability Test Record
@@ -44,9 +42,3 @@ B9. Right Ch. Harpsichord - 4 Levels
 
 [メルカリで購入](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

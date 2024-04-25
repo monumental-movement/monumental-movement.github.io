@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ UK Garage, Funk ]
 image: ../assets/images/Lemare – Good Times.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Lemare – Good Times
@@ -21,7 +19,7 @@ B2. Good Times (High Supply Mix)
 
 B3. Good Times (Original Mix)
 
-> 1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。
+1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。
 
 [メルカリで購入](https://jp.mercari.com/item/m23326942990){: .button1}
 

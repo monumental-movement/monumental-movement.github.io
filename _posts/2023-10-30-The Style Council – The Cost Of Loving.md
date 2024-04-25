@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Soul, Synth-Pop ]
 image: ../assets/images/The Style Council – The Cost Of Loving.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Style Council – The Cost Of Loving
@@ -31,13 +29,7 @@ B4. The Cost Of Loving
 
 B5. Woman's Song
 
-> The Style Council（スタイル・カウンシル）は、ニュー・ウェイヴ/モッズ・リバイバル・バンド the Jam（ザ・ジャム）の元シンガー＆ギタリストPaul Weller（ポール・ウェラー）と、Dexys Midnight Runners（デキシーズ・ミッドナイト・ランナーズ）、 the Bureau（ビューロー）、the Merton Parkasのメンバーだったキーボード奏者のMick Talbot（ミック・タルボット）によって1982年後半に結成されたイギリスのバンド。
+The Style Council（スタイル・カウンシル）は、ニュー・ウェイヴ/モッズ・リバイバル・バンド the Jam（ザ・ジャム）の元シンガー＆ギタリストPaul Weller（ポール・ウェラー）と、Dexys Midnight Runners（デキシーズ・ミッドナイト・ランナーズ）、 the Bureau（ビューロー）、the Merton Parkasのメンバーだったキーボード奏者のMick Talbot（ミック・タルボット）によって1982年後半に結成されたイギリスのバンド。
 
 [メルカリで購入](https://jp.mercari.com/item/m89427922011){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

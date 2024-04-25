@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, House ]
 image: ../assets/images/Ian Lex – I Wanna Be Your Man.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Ian Lex – I Wanna Be Your Man
@@ -17,7 +15,7 @@ B1. I Wanna Be Your Man (Dub Traxx)
 
 B2. I Wanna Be Your Man (Progressive)
 
-> 1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
+1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 
 [メルカリで購入](https://jp.mercari.com/item/m68058078658){: .button1}
 

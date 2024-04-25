@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, German Trance, 90s ]
 image: ../assets/images/Space Frog – X-Ray (Follow Me) - Remixes.jpg
-rating: 4.5
-v-rating: VG
 toc: true
 beforetoc: Space Frog – X-Ray (Follow Me) - Remixes スペースフロッグ
 ---

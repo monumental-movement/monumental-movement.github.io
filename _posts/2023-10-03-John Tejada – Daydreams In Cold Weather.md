@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Electro ]
 image: ../assets/images/John Tejada – Daydreams In Cold Weather.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### John Tejada – Daydreams In Cold Weather
@@ -35,15 +33,9 @@ D11. In Coach5:06
 
 D12. Some Would Know Why
 
-> 2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
+2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
 
 
 
 [メルカリで購入](https://jp.mercari.com/item/m89173131309){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Fusion Jazz, Jazz, 70s ]
 image: ../assets/images/Larry Carlton – Larry Carlton.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Larry Carlton – Larry Carlton
@@ -29,7 +27,7 @@ B3. Don´t Give It Up
 
 B4. (It Was) Only Yesterday
 
-> 「Mr.335」の愛称で知られるラリー・カールトンは、4度のグラミー賞に輝き、常にフュージョン界をリードしてきたレジェンド・ギタリストです。自身の名前を関したこのアルバムは、ラリー・カールトンのギターリストとしての地位を固めた一枚となりました。
+「Mr.335」の愛称で知られるラリー・カールトンは、4度のグラミー賞に輝き、常にフュージョン界をリードしてきたレジェンド・ギタリストです。自身の名前を関したこのアルバムは、ラリー・カールトンのギターリストとしての地位を固めた一枚となりました。
 
 [メルカリで購入](https://jp.mercari.com/item/m14275784867){: .button1}
 

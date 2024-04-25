@@ -5,8 +5,6 @@ author: mmr
 categories: [ レコード ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Rude Solo Craig Walsh – Voodoo 2.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Rude Solo / Craig Walsh – Voodoo 2
@@ -23,11 +21,5 @@ Rude Soloは、エレクトロニック・ミュージック・デュオTwo Lone
 
 [メルカリで購入](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WDjesrNG3j8?si=ND9j0g9Bf09OiXst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

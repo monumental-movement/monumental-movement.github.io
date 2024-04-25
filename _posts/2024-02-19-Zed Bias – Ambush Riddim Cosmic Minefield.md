@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Dubstep, Electronic, 00s ]
 image: ../assets/images/Zed Bias – Ambush Riddim Cosmic Minefield.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Zed Bias – Ambush Riddim Cosmic Minefield

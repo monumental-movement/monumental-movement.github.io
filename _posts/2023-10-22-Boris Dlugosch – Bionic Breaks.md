@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Hiphop ]
 image: ../assets/images/Boris Dlugosch – Bionic Breaks.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Boris Dlugosch – Bionic Breaks
@@ -35,9 +33,3 @@ Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロン�
 
 [メルカリで購入](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: G</strong>
-</div>

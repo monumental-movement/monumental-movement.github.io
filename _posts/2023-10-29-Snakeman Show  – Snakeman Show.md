@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno ]
 image: ../assets/images/Snakeman Show  – Snakeman Show.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Snakeman Show  – Snakeman Show

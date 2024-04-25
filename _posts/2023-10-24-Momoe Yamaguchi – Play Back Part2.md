@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/山口百恵 – プレイバックPart2.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### 山口百恵 – プレイバックPart2
@@ -15,7 +13,7 @@ A. プレイバックPart2
 
 B. 賭け 
 
-> アレンジ：萩田光雄
+アレンジ：萩田光雄
 歌詞：阿木燿子
 作曲：宇崎竜童
 

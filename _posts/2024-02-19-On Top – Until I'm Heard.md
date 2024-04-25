@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
 image: ../assets/images/On Top – Until I'm Heard.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### On Top – Until I'm Heard
@@ -27,11 +25,5 @@ On Top（オントップ）は、Darrell Ellerbe, Julius James, Sean Pennington�
 
 [メルカリで購入](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yXl3TUkW5B4?si=mVaxhMLq1i-Ngeka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, 00s ]
 image: ../assets/images/Slam Inc Hard Kor – Pig Pen vs Hard Trax.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Slam Inc Hard Kor – Pig Pen vs Hard Trax
@@ -20,9 +18,3 @@ Calvin Sheppard と William Kimberが設立したUKハードハウス/NRGレー�
 
 [メルカリで購入](https://jp.mercari.com/item/m12107636590?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

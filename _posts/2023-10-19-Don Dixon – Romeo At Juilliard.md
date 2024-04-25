@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Indie Rock ]
 image: ../assets/images/Don Dixon – Romeo At Juilliard.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Don Dixon – Romeo At Juilliard
@@ -33,13 +31,7 @@ B5. Cat Out Of The Bag
 
 B6. Jean Harlow's Return
 
-> Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
+Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
 
 [メルカリで購入](https://jp.mercari.com/item/m45544074163){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

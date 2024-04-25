@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco ]
 image: ../assets/images/Donna Summer And Giorgio Moroder –Carry On.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Donna Summer And Giorgio Moroder –Carry On
@@ -17,19 +15,12 @@ A2  Carry On (Fired Up Dub)
 AA1  Carry On (Eric Kupper's Hysteria Mix)
 AA2  Carry On (Untidy Dub)
 
-> 「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
+「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
 
-> ディスコミュージックの黄金期におけるヒット曲&重要な作品の一つとされており、現在でも音楽シーンにおいても多くの人々に愛され続けています。
+ディスコミュージックの黄金期におけるヒット曲&重要な作品の一つとされており、現在でも音楽シーンにおいても多くの人々に愛され続けています。
 
 
 
 
 [メルカリで購入](https://jp.mercari.com/item/m74209222357){: .button1}
 
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Pops, Rock ]
 image: ../assets/images/Cassia Eller – Participacao Especial.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Cássia Eller – Participaçāo Especial
@@ -21,6 +19,6 @@ v-rating: VG
 など
 
 
-> カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
+カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
 [メルカリで購入](https://jp.mercari.com/item/m82208472060){: .button1}

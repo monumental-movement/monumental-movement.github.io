@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, Electro ]
 image: ../assets/images/Various – Class X Two.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Class X Two
@@ -36,11 +34,11 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 
 
-> Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
+Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
 
-> オリジナル バージョンよりもさらに優れた素晴らしいものです。
+オリジナル バージョンよりもさらに優れた素晴らしいものです。
 
-> この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
+この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
 
 
 

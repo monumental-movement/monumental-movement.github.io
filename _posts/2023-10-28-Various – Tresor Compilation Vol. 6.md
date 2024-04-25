@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Techno, German Techno ]
 image: ../assets/images/Various – Tresor Compilation Vol. 6.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Tresor Compilation Vol. 6

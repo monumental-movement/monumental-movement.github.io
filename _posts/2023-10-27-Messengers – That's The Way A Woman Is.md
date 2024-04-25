@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 7inch ]
 image: ../assets/images/Messengers – That's The Way A Woman Is.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Messengers – That's The Way A Woman Is
@@ -15,7 +13,7 @@ A. That's The Way A Woman Is (気になる女の子)
 
 B. The Letter (あの娘のレター)
 
-> Messengers (メッセンジャーズ)は1962年から1972年にかけて活動したUSポップロックバンド。気になる女の子（That's The Way A Woman Is）は1971年にリリースされたMessengersの代表曲。
+Messengers (メッセンジャーズ)は1962年から1972年にかけて活動したUSポップロックバンド。気になる女の子（That's The Way A Woman Is）は1971年にリリースされたMessengersの代表曲。
 
 [メルカリで購入](https://jp.mercari.com/item/m10066256629){: .button1}
 

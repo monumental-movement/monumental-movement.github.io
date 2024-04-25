@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Nostalgic, 70s ]
 image: ../assets/images/Sam (The Man) Taylor – Hit Songs.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Sam (The Man) Taylor – Hit Songs
@@ -44,9 +42,3 @@ B7. 港町ブルース – 森進一
 
 [メルカリで購入](https://jp.mercari.com/item/m33119063874){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: G</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

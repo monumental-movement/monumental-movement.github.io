@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/A Hundred Birds – Black Water.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### A Hundred Birds – Black Water
@@ -17,11 +15,11 @@ B1. Black Water (Dub)
 
 B2. Come Together
 
-> A Hundred Birds （ア・ハンドレッド・バーズ）は、1996年DJ YOKUを中心として結成された、ハウスミュージックをオーケストラバンド編成で演奏する日本のオーケストラバンド。
+A Hundred Birds （ア・ハンドレッド・バーズ）は、1996年DJ YOKUを中心として結成された、ハウスミュージックをオーケストラバンド編成で演奏する日本のオーケストラバンド。
 
- > 「Black Water」は、François Kevorkian （フランソワ・K）が主宰するレーベル「WAVE MUSIC」より2006年にリリース。
+ 「Black Water」は、François Kevorkian （フランソワ・K）が主宰するレーベル「WAVE MUSIC」より2006年にリリース。
 
-> 参加メンバー
+参加メンバー
 ・大前チズル
 ・田村成紀/Shigeki Tamura
 ・吉田哲章/Noriaki Yoshida
@@ -39,9 +37,3 @@ B2. Come Together
 
 [メルカリで購入](https://jp.mercari.com/item/m79986597916){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

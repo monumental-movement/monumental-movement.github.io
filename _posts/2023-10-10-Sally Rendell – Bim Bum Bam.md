@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Sally Rendell – Bim Bum Bam.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Sally Rendell – Bim Bum Bam
@@ -21,7 +19,7 @@ B2. Bim Bum Bam (Instrumental)
 
 B3. Bim Bum Bam (Dub Version)
 
-> 1995年にイタリアのレーベル「Time Records」からリリースされたSally RendellのEPです。
+1995年にイタリアのレーベル「Time Records」からリリースされたSally RendellのEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m45550729356){: .button1}
 

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pops, 80s ]
 image: ../assets/images/Rebecca – Cheap Hippies.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Rebecca – Cheap Hippies

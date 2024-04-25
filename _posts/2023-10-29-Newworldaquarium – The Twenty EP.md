@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
 image: ../assets/images/Newworldaquarium – The Twenty EP.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Newworldaquarium – The Twenty EP
@@ -23,9 +21,9 @@ B1. Rox
 
 B2. The Twenty
 
-> 90年代にはROSS 154名義で活動していた、Jochem Peteri ことNewworldaquarium（NWAQ）(ニューワールドアクアリウム)はアムステルダムを拠点とするデトロイト・テクノ・エレクトロアーティストです。
+90年代にはROSS 154名義で活動していた、Jochem Peteri ことNewworldaquarium（NWAQ）(ニューワールドアクアリウム)はアムステルダムを拠点とするデトロイト・テクノ・エレクトロアーティストです。
 
-> このレコードはデトロイト・サウンドで有名な名門レーベル「Delsin(デルシン)」から2006年にリリースされました。
+このレコードはデトロイト・サウンドで有名な名門レーベル「Delsin(デルシン)」から2006年にリリースされました。
 
 [メルカリで購入](https://jp.mercari.com/item/m48201041722){: .button1}
 

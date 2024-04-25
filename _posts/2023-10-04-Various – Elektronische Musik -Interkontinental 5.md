@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Bossa Nova, Latin ]
 image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Elektronische Musik -Interkontinental 5
@@ -35,13 +33,7 @@ F1. Florian Meindl–Don't Flue The Birds
 
 F2. Process–Tendency To Synchronize
 
-> 2006年にドイツのレーベル「Traum Schallplatten」からリリースされた３枚組のコンピレーション・アルバムです。
+2006年にドイツのレーベル「Traum Schallplatten」からリリースされた３枚組のコンピレーション・アルバムです。
 
 [メルカリで購入](https://jp.mercari.com/item/m26372156759){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Band, 80s ]
 image: ../assets/images/The Square – Stars And The Moon.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### The Square – Stars And The Moon

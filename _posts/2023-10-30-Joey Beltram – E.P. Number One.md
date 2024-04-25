@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, US Techno ]
 image: ../assets/images/Joey Beltram – E.P. Number One.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Joey Beltram – E.P. Number One
@@ -17,7 +15,7 @@ A. The Money
 
 B. Verbs
 
-> 「E.P. Number One」は、2000年にJoey Beltram自身のレーベルSTX Recordsよりリリースされた。
+「E.P. Number One」は、2000年にJoey Beltram自身のレーベルSTX Recordsよりリリースされた。
 
 [メルカリで購入](https://jp.mercari.com/item/m37928336678){: .button1}
 

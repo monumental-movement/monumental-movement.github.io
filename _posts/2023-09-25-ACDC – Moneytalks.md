@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Hard Rock ]
 image: ../assets/images/ACDC – Moneytalks.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### AC/DC – Moneytalks

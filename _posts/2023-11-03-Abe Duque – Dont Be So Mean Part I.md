@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Downtempo, Rare ]
 image: ../assets/images/Abe Duque – Don't Be So Mean Part I.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Abe Duque – Don't Be So Mean Part I
@@ -36,9 +34,3 @@ B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイ�
 
 [メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

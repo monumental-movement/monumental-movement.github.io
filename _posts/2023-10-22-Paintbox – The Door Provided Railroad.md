@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Punk, 7inch ]
 image: ../assets/images/Paintbox – The Door Provided Railroad.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Paintbox – The Door  Provided Railroad

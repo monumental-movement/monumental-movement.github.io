@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Hiphop ]
 image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### RZA As Bobby Digital – RZA As Bobby Digital In Stereo
@@ -28,6 +26,6 @@ v-rating: VG
 15. Daily Routine
 16. Domestic Violence
 
-> Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
+Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
 
 [メルカリで購入](https://jp.mercari.com/item/m93089462366){: .button1}

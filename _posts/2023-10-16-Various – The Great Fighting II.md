@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient ]
 image: ../assets/images/Various – The Great Fighting II.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – The Great Fighting II
@@ -37,9 +35,3 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 
 [メルカリで購入](https://jp.mercari.com/item/m28875138146){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

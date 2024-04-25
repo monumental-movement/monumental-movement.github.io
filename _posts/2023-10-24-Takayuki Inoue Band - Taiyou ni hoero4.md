@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Theme, Nostalgic, 7inch ]
 image: ../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### 井上堯之バンド – 太陽にほえろ！4
@@ -17,11 +15,11 @@ A2. 冒険のテーマ・2
 
 B1. 新「愛」のテーマ
 
-> 演奏 – 井上堯之バンド
+演奏 – 井上堯之バンド
 作曲編曲 – 大野克夫
 プロデューサー – 石川浩二
 
-> テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラック
+テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラック
 
 [メルカリで購入](https://jp.mercari.com/item/m95573713723){: .button1}
 

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Latin, Reggae, Reggaeton ]
 image: ../assets/images/Various – Latin Compilation.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Latin Compilation
@@ -27,9 +25,3 @@ Nicky Jam（ニッキー・ジャム） は、ラテン音楽界でよく知ら�
 
 [メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

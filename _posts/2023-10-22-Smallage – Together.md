@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco, House ]
 image: ../assets/images/Smallage – Together.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Smallage – Together
@@ -21,9 +19,3 @@ Smallageは、イタリア出身のDJ Stefano Mango、DJ Lino Lodi、Denis Quari
 
 [メルカリで購入](https://jp.mercari.com/item/m23125187393?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

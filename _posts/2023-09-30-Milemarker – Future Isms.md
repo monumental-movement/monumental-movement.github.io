@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Experimental ]
 image: ../assets/images/Milemarker – Future Isms.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Milemarker – Future Isms
@@ -33,13 +31,7 @@ B4. Alchemy
 
 B5. Engine
 
-> Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
+Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
 
 [メルカリで購入](https://jp.mercari.com/item/m59516600898){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

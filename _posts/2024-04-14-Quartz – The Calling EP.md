@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech Trance ]
 image: ../assets/images/Quartz – The Calling EP.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Quartz – The Calling EP
@@ -28,11 +26,5 @@ Quartz (Adriano Filippucci)はイタリアのDJ・プロデューサー。The Ca
 [メルカリで購入](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
 
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YA-NLVIyWhc?si=cOTTIL5R1NwqZPsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

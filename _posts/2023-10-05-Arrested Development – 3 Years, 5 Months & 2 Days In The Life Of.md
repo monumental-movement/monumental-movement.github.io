@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
 image: ../assets/images/Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of
@@ -41,9 +39,9 @@ B6. Tennessee
 
 B7. Washed Away
 
-> 「3 Years, 5 Months & 2 Days in the Life Of...」は、アレステッド・ディベロプメントのデビューアルバムであり、大きな成功を収めました。アルバムは、バンドのメンバーが経験した実話や個人的なストーリーに基づいており、彼らの日常生活からのインスピレーションを反映しています。
+「3 Years, 5 Months & 2 Days in the Life Of...」は、アレステッド・ディベロプメントのデビューアルバムであり、大きな成功を収めました。アルバムは、バンドのメンバーが経験した実話や個人的なストーリーに基づいており、彼らの日常生活からのインスピレーションを反映しています。
 
-> アルバムには、グラミー賞受賞曲となった「Tennessee」や「People Everyday」、「Mr. Wendal」などのヒット曲が収録されています。これらの曲は、アレステッド・ディベロプメントの特徴的なリリックとメロディ、ソウルフルなヴォーカルが特徴でありリスナーにポジティブなメッセージや社会的な問題への関心を喚起しました。
+アルバムには、グラミー賞受賞曲となった「Tennessee」や「People Everyday」、「Mr. Wendal」などのヒット曲が収録されています。これらの曲は、アレステッド・ディベロプメントの特徴的なリリックとメロディ、ソウルフルなヴォーカルが特徴でありリスナーにポジティブなメッセージや社会的な問題への関心を喚起しました。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m19892920898){: .button1}

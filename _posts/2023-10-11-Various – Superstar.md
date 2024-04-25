@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Superstar.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Superstar
@@ -35,14 +33,8 @@ B5. Spragga, Lady Saw–Backshot
 
 B6. Devonte–Sweet Symphony
 
-> ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m12624594696){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

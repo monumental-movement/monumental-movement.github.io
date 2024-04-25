@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 60s ]
 image: ../assets/images/The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To Tell Me.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To Tell Me
@@ -39,9 +37,3 @@ The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代に
 
 [メルカリで購入](https://jp.mercari.com/item/m34490368131){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

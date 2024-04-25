@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rare ]
 image: ../assets/images/Classified  – Union Dues Promo 12-2.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Classified  – Union Dues Promo 12-2

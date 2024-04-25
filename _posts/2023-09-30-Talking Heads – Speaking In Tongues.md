@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Art Rock ]
 image: ../assets/images/Talking Heads – Speaking In Tongues.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Talking Heads – Speaking In Tongues

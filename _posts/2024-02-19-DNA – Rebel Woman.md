@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Euro House, UK Techno ]
 image: ../assets/images/DNA – Rebel Woman.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### DNA – Rebel Woman

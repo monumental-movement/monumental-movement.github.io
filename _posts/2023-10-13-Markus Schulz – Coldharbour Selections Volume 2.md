@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Markus Schulz – Coldharbour Selections Volume 2.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Markus Schulz – Coldharbour Selections Volume 2
@@ -17,7 +15,7 @@ B1. Filterheadz – Yimanya (Markus Schulz & Austin Leeds Remix)
 
 B2  Mind – Random Experience(Perry O'Neil, Robert Nickson)
 
-> フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
+フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
 
 
 

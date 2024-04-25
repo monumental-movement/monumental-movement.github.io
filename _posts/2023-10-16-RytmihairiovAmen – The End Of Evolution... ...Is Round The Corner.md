@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Thrash, Hardcore, Punk ]
 image: ../assets/images/RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner
@@ -58,13 +56,7 @@ B10. Money Rules The Fools
 B11. Spice-Song
 
 
-> Rytmifäärä は、1988年に結成されたヘルシンキ出身のデスコア/ハードコア/メタルバンド。Amenは、フィンランドのハードコアパンクバンド。
+Rytmifäärä は、1988年に結成されたヘルシンキ出身のデスコア/ハードコア/メタルバンド。Amenは、フィンランドのハードコアパンクバンド。
 
 [メルカリで購入](https://jp.mercari.com/item/m23657412972){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

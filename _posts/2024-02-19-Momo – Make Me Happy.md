@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Pops, 00s ]
 image: ../assets/images/Momo – Make Me Happy.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Momo – Make Me Happy
@@ -29,9 +27,3 @@ A面２曲目はCo-Fusion（コフュージョン）の谷丙午によるremix�
 
 [メルカリで購入](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ New-Age, Ambient ]
 image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Patrick Bernhardt – Atlantis Angelis
@@ -29,7 +27,7 @@ B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 
 B3. Transcendastral Voyage
 
-> カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
+カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m83639772653){: .button1}

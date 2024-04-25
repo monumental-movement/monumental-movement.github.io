@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Dub, Mixture ]
 image: ../assets/images/Wrench – Bliss.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Wrench – Bliss
@@ -51,9 +49,9 @@ D1  Passion
 D2  Blood Type Mysterious
 
 
-> Wrench（レンチ）は、1992年7月にシゲ、坂本梓、松田智宏、名越藤丸によって結成され、日本のラウドロックシーンにおいて重要な存在となってきました。
+Wrench（レンチ）は、1992年7月にシゲ、坂本梓、松田智宏、名越藤丸によって結成され、日本のラウドロックシーンにおいて重要な存在となってきました。
 
-> このアルバムは、2000年にリリースされた2枚組LPです。
+このアルバムは、2000年にリリースされた2枚組LPです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m26534523251){: .button1}

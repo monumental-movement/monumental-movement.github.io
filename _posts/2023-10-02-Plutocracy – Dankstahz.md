@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Grindcore, Rock ]
 image: ../assets/images/Plutocracy – Dankstahz.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Plutocracy – Dankstahz
@@ -43,7 +41,7 @@ B7. Erupt
 
 B8. Outro
 
-> 1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
+1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
 
 [メルカリで購入](https://jp.mercari.com/item/m53644996451){: .button1}
 

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, RnB, 7inch ]
 image: ../assets/images/Various – Golden RnB.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Golden R&B

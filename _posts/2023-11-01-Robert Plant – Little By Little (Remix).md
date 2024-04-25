@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Remix, 7inch ]
 image: ../assets/images/Robert Plant – Little By Little (Remix).jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Robert Plant – Little By Little (Remix)

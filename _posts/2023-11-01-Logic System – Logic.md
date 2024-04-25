@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Synth-Pop ]
 image: ../assets/images/Logic System – Logic.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Logic System – Logic

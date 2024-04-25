@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 70s ]
 image: ../assets/images/Michel Polnareff – Gift Pack Series.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Michel Polnareff – Gift Pack Series
@@ -63,9 +61,3 @@ D6. 天国への道
 
 [メルカリで購入](https://jp.mercari.com/item/m93242824687){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

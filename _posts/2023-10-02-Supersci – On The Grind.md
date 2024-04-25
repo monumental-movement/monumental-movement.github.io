@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/Supersci – On The Grind.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Supersci – On The Grind
@@ -23,14 +21,8 @@ B2. Our Block To Your Block (Instrumental)
 
 B3. On The Grind (Acapella)
 
-> 2006年にスウェーデンのレーベル「Flyphonic Phonogram」からリリースされたSUPERSCIによるアルバム『Pinetrees On The Pavement』からのシングルカット。
+2006年にスウェーデンのレーベル「Flyphonic Phonogram」からリリースされたSUPERSCIによるアルバム『Pinetrees On The Pavement』からのシングルカット。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m21772983956){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

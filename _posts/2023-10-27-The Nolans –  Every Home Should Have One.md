@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Nostalgic, 7inch ]
 image: ../assets/images/The Nolans –  Every Home Should Have One.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Nolans –  Every Home Should Have One
@@ -17,9 +15,3 @@ A. Every Home Should Have One (あこがれアイ・アイ・アイ)
 
 [メルカリで購入](https://jp.mercari.com/item/m72093615038){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

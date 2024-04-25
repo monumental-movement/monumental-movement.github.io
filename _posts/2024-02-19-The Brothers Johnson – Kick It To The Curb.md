@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Soul ]
 image: ../assets/images/The Brothers Johnson – Kick It To The Curb.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### The Brothers Johnson – Kick It To The Curb
@@ -29,11 +27,5 @@ The Brothers Johnsonは、アメリカのソウル/ファンク/ジャズ/ディ
 
 [メルカリで購入](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJE3sGnjzOY?si=KiswVie_eyEuw39l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

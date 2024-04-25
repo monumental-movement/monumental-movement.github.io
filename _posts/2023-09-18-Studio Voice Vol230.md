@@ -5,8 +5,6 @@ author: mmr
 categories: [ Magazine ]
 tags: [ Magazine, Disk Guide, Studio Voice ]
 image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディラン.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Studio Voice Vol230 (スタジオボイス)ボブディラン

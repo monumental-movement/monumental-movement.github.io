@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Electro, Swing-Jazz ]
 image: ../assets/images/Various – Electro Swing.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Electro Swing

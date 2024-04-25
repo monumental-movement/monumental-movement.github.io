@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pops ]
 image: ../assets/images/Yumi Matsutoya – Da・Di・Da.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Yumi Matsutoya – Da・Di・Da
@@ -29,9 +27,9 @@ B4. 青春のリグレット
 
 B5. たとえあなたが去って行っても
 
-> 「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
+「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
 
-> 参加ミュージシャン
+参加ミュージシャン
 ・ベース：高水健司
 ・ドラム：林立夫、Mike Baird
 ・ギター：松原正樹

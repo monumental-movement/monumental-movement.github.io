@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Exterminator Presents Turn On The Heat.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Exterminator Presents Turn On The Heat
@@ -31,15 +29,9 @@ B4. Quench Aid–Nah Fight Over Woman
 
 B5. Fire House Crew –Version
 
-> 1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
+1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
 です。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m95069371918){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Synth-Pop, Leftfield ]
 image: ../assets/images/The Art Of Noise – In No Sense Nonsense.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### The Art Of Noise – In No Sense Nonsense

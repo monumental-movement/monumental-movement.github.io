@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Ozgur Can – Irony.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Özgür Can – Irony
@@ -20,9 +18,3 @@ B. Irony (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m44499781183?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

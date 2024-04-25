@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Compilation ]
 image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Beatnuts –World Famous Classics 1993-1998
@@ -39,9 +37,9 @@ v-rating: VG
 
 14.Give Me Tha Ass
 
-> 「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
+「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
 
-> このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
+このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
 
 
 

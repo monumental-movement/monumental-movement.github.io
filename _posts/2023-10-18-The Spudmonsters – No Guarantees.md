@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Rock, Thrash Metal ]
 image: ../assets/images/The Spudmonsters – No Guarantees.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Spudmonsters – No Guarantees
@@ -42,9 +40,9 @@ B5. Broken
 B6. Untitled
 
 
-> The Spudmonsters（スパッドモンスターズ）は、オハイオ州クリーブランド出身のDon Foose、Scott Roberts、Steve Swanson、Eric Matthews、Chris Andrewsによって1987年に結成されたUSスラッシュメタル、ハードコア、クロスオーバー バンド。
+The Spudmonsters（スパッドモンスターズ）は、オハイオ州クリーブランド出身のDon Foose、Scott Roberts、Steve Swanson、Eric Matthews、Chris Andrewsによって1987年に結成されたUSスラッシュメタル、ハードコア、クロスオーバー バンド。
 
-> 「No Guarantees」は1995年にドイツのレーベルMassacre Recordsよりリリースされた。
+「No Guarantees」は1995年にドイツのレーベルMassacre Recordsよりリリースされた。
 
 [メルカリで購入](https://jp.mercari.com/item/m95943993364){: .button1}
 

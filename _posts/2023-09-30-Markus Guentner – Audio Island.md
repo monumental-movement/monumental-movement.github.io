@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Markus Guentner – Audio Island.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Markus Guentner – Audio Island
@@ -27,16 +25,10 @@ D1. Sunset
 
 D2. Tears In Rain
 
-> このレコードは素晴らしい2枚組LPです。
+このレコードは素晴らしい2枚組LPです。
 
-> この２枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
+この２枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m49257045375){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

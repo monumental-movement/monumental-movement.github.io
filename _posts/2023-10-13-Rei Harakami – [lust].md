@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Break Beat, Ambient ]
 image: ../assets/images/Rei Harakami – [lust].jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Rei Harakami – [lust]

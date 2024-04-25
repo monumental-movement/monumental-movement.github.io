@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK House, 00s ]
 image: ../assets/images/Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track).jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track)
@@ -27,11 +25,5 @@ B面１曲目はFreemasons（フリーメイソンズ）によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m44528246197?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG-</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZZa-xGIMuA?si=7gS7kDU_6dVFXVm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, 70s, 7inch ]
 image: ../assets/images/The Beatles – Let It Be.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### The Beatles – Let It Be

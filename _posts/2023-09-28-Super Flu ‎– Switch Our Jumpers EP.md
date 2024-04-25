@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
 image: ../assets/images/Super Flu – Switch Our Jumpers EP.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Super Flu – Switch Our Jumpers EP
@@ -23,9 +21,3 @@ Feliks ThielemannとMathias Schwarzによるユニット「Super Flu」による
 
 [メルカリで購入](https://jp.mercari.com/item/m85295773232){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Abstract ]
 image: ../assets/images/Various – Environments.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Environments
@@ -33,13 +31,7 @@ E2. Ming + FS – Dog Tag
 
 F.  Skylight – Primate Exhibit
 
-> 2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
+2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
 
 [メルカリで購入](https://jp.mercari.com/item/m51258354270){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

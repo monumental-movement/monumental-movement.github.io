@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ House, Mix ]
 image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Danny Krivit – Nite Life 011 - Expansions
@@ -39,9 +37,9 @@ v-rating: VG
 
 2-02. Pal Joey–Harmonyなど
 
-> ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
+ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
 
-> CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
+CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
 
 [メルカリで購入](https://jp.mercari.com/item/m68151858517){: .button1}
 

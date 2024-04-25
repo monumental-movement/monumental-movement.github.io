@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Folk ]
 image: ../assets/images/The Band – Rock Of Ages The Band In Concert.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### The Band – Rock Of Ages The Band In Concert
@@ -45,7 +43,7 @@ D2. Chest Fever
 
 D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 
-> The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。
+The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。
 
 1972年にリリースしたライブアルバム「Rock Of Ages: The Band In Concert」は、1971年12月にNYのアカデミー・オブ・ミュージックで行われたライブコンサートの音源。
 

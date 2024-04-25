@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
 image: ../assets/images/FLR – Easy Filter Part 9.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### FLR – Easy Filter Part 9
@@ -23,10 +21,3 @@ B2  P.Off
 
 [メルカリで購入](https://jp.mercari.com/item/m49758319217){: .button1}
 
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

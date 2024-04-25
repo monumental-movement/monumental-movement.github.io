@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
 image: ../assets/images/REO Speedwagon – Hi Infidelity.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### REO Speedwagon – Hi Infidelity
@@ -31,7 +29,7 @@ B4. Someone Tonight
 
 B5. I Wish You Were There
 
-> REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
+REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 
 [メルカリで購入](https://jp.mercari.com/item/m78682401500){: .button1}
 

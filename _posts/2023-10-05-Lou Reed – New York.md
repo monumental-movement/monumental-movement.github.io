@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Punk, Art Rock ]
 image: ../assets/images/Lou Reed – New York.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Lou Reed – New York
@@ -39,9 +37,9 @@ v-rating: VG
 
 14. Dime Store Mystery
 
-> 「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
+「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
 
-> 「New York」には、政治、ドラッグ、犯罪、愛、人間関係など、様々なテーマが取り上げられています。アルバムの中でも特に知られている曲には、「Dirty Blvd.」「Halloween Parade」、「Romeo Had Juliette」などがあります。
+「New York」には、政治、ドラッグ、犯罪、愛、人間関係など、様々なテーマが取り上げられています。アルバムの中でも特に知られている曲には、「Dirty Blvd.」「Halloween Parade」、「Romeo Had Juliette」などがあります。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m25569195923){: .button1}

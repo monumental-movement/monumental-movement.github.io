@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock, 80s ]
 image: ../assets/images/Kiss – Destroyer.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Kiss – Destroyer

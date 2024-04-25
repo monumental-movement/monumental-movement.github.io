@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Folk ]
 image: ../assets/images/Simon & Garfunkel – Sounds Of Silence.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Simon & Garfunkel – Sounds Of Silence
@@ -33,11 +31,11 @@ B4. We've Got A Groovey Thing Goin'
 
 B5. I Am A Rock
 
-> 「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
+「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
 
-> アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
+アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
 
-> このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
+このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
 
 
 

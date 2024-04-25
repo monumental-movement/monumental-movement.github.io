@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Remix ]
 image: ../assets/images/Winx – Don't Laugh (Remix).jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Winx – Don't Laugh (Remix)

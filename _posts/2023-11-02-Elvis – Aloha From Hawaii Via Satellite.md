@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, 70s ]
 image: ../assets/images/Elvis – Aloha From Hawaii Via Satellite.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Elvis – Aloha From Hawaii Via Satellite

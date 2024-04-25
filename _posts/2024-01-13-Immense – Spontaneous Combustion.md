@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, 90s ]
 image: ../assets/images/Immense – Spontaneous Combustion.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Immense – Spontaneous Combustion

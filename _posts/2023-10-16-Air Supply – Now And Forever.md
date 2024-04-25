@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Soft Rock ]
 image: ../assets/images/Air Supply – Now And Forever.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Air Supply – Now And Forever
@@ -31,9 +29,9 @@ B4. She Never Heard Me Call
 
 B5. What Kind Of Girl
 
-> 81年にリリースされたAir Supply（エア・サプライ）のアルバム「Now and Forever（ナウ・アンド・フォーエヴァー）」は、最もヒットした彼らの代表アルバム。
+81年にリリースされたAir Supply（エア・サプライ）のアルバム「Now and Forever（ナウ・アンド・フォーエヴァー）」は、最もヒットした彼らの代表アルバム。
 
-> 特に「Even the Nights Are Better（さよならロンリー・ラブ）」と「Two Less Lonely People in the World」などのシングル曲は、アメリカ、日本をはじめ、世界的ヒットとなった。
+特に「Even the Nights Are Better（さよならロンリー・ラブ）」と「Two Less Lonely People in the World」などのシングル曲は、アメリカ、日本をはじめ、世界的ヒットとなった。
 
 [メルカリで購入](https://jp.mercari.com/item/m66371881166){: .button1}
 

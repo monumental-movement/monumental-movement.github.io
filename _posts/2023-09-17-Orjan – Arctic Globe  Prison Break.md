@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, EDM ]
 image: ../assets/images/Orjan – Arctic Globe  Prison Break.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Orjan – Arctic Globe  Prison Break
@@ -18,7 +16,7 @@ A. Arctic Globe
 AA. Prison Break
 
 
-> 「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。
+「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。
 
 「Arctic Globe」は、美しいメロディと壮大なサウンドが特徴の楽曲です。冷たく輝く氷の世界を連想させるようなメロディとシンセサウンドが組み合わさり、聴く人を幻想的な旅に連れて行きます。この曲は、感情的なビルドアップとエネルギッシュなドロップが特徴であり、トランスミュージックの魅力を存分に味わえるでしょう。
 
@@ -29,10 +27,3 @@ AA. Prison Break
 
 [メルカリで購入](https://jp.mercari.com/item/m86872541216){: .button1}
 
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

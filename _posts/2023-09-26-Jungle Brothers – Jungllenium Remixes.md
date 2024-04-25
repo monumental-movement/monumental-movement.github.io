@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Drum n Bass ]
 image: ../assets/images/Jungle Brothers – Jungllenium Remixes.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Jungle Brothers – Jungllenium Remixes
@@ -37,7 +35,7 @@ v-rating: VG
 
 13. Straight Out The Jungle (Soul Shock Remix)
 
-> Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
+Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m23288815689){: .button1}

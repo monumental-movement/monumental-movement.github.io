@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Techno, Mix ]
 image: ../assets/images/Various – Wire 01 Compilation.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Wire 01 Compilation
@@ -25,7 +23,7 @@ v-rating: VG
 12. Hell–Like This (Wire Mix)
 13. Monika Kruse @ Voodooamt–Route 27
 
-> 2001年にリリースされたWire 01のコンピレーションCDです。
+2001年にリリースされたWire 01のコンピレーションCDです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m98255564275){: .button1}

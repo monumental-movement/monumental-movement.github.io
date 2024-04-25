@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Folk ]
 image: ../assets/images/Frente  – Shape.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Frente  – Shape
@@ -44,9 +42,3 @@ Frenteは、1989 年に結成されたオーストラリアのフォークポッ
 
 [メルカリで購入](https://jp.mercari.com/item/m67218117772){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

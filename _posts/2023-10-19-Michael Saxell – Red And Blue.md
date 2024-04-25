@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
 image: ../assets/images/Michael Saxell – Red And Blue.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Michael Saxell – Red And Blue
@@ -31,14 +29,8 @@ B4. Nothing But The Best
 
 B5. My Love Belongs To You
 
-> Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
+Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m62004854005){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

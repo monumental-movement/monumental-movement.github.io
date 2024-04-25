@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Heavy Metal, Noise ]
 image: ../assets/images/Zeni Geva – Desire For Agony.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Zeni Geva – Desire For Agony
@@ -31,13 +29,7 @@ B3. Autopsy Love = オートプシィラブ
 
 B4. The Body = ザ.ボデ
 
-> このアルバムは、アメリカ シカゴのThe Basementで1993年9月に録音&ミックス。
+このアルバムは、アメリカ シカゴのThe Basementで1993年9月に録音&ミックス。
 
 [メルカリで購入](https://jp.mercari.com/item/m93829720298){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

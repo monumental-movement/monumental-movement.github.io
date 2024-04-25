@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Bossa Nova, Jazz ]
 image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine
@@ -39,9 +37,9 @@ Bonus Tracks
 
 13.Polytechnical High
 
-> ブラジルのボサノヴァ歌手ジョアン・ジルベルト（João Gilberto）とアメリカのテナーサックス奏者スタンリー・タレンタイン（Stanley Turrentine）が共演したアルバムです。
+ブラジルのボサノヴァ歌手ジョアン・ジルベルト（João Gilberto）とアメリカのテナーサックス奏者スタンリー・タレンタイン（Stanley Turrentine）が共演したアルバムです。
 
-> 「Gilberto With Turrentine」では、ジョアン・ジルベルトの優れたボサノヴァの歌声とギタープレイに、スタンリー・タレンタインのソウルフルなテナーサックスが組み合わされています。デオダートのアレンジによって、ブラジル音楽とジャズの要素が融合し、ユニークで魅力的なサウンドが生まれました。
+「Gilberto With Turrentine」では、ジョアン・ジルベルトの優れたボサノヴァの歌声とギタープレイに、スタンリー・タレンタインのソウルフルなテナーサックスが組み合わされています。デオダートのアレンジによって、ブラジル音楽とジャズの要素が融合し、ユニークで魅力的なサウンドが生まれました。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m85811824288){: .button1}

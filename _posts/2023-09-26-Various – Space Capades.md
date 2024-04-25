@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Lounge, Compilation ]
 image: ../assets/images/Various – Space Capades.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Space Capades

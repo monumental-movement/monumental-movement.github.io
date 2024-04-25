@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House ]
 image: ../assets/images/Basic Elements – T-E-C-H-N-O.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Basic Elements – T-E-C-H-N-O
@@ -19,7 +17,7 @@ B1. Trippin' On The Elements (Trance Trip)
 
 B2. Fro-Dian Gruv (House Gruv)
 
-> レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
+レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m57566827619){: .button1}
 

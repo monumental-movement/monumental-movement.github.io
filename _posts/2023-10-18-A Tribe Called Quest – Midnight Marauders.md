@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/A Tribe Called Quest – Midnight Marauders.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### A Tribe Called Quest – Midnight Marauders
@@ -39,7 +37,7 @@ B6. Lyrics To Go
 
 B7. God Lives Through
 
-> 1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
+1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 
 [メルカリで購入](https://jp.mercari.com/item/m77760798156){: .button1}
 

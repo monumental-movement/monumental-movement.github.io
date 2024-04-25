@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Sample, Rare ]
 image: ../assets/images/Various – Pride '99 Sampler.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Pride '99 Sampler

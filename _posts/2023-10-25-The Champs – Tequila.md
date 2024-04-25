@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Latin, 7inch ]
 image: ../assets/images/The Champs – Tequila.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Champs – Tequila

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House ]
 image: ../assets/images/Glow – I Am Gonna Be.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Glow – I Am Gonna Be
@@ -17,13 +15,7 @@ A2. I Am Gonna Be (Original Mix)
 
 B. I Am Gonna Be (Glow Remix)
 
-> 1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
+1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m91456308602){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

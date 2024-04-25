@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
 image: ../assets/images/Band Aid – Do They Know It's Christmas.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Band Aid – Do They Know It's Christmas

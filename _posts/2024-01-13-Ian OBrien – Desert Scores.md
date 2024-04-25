@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Tech Jazz, Techno, Jazz ]
 image: ../assets/images/Ian O'Brien – Desert Scores.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Ian O'Brien – Desert Scores
@@ -41,9 +39,3 @@ D2. Dark Eye Tango
 
 [メルカリで購入](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

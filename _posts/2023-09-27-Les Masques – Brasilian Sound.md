@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Bossa Nova, Jazz ]
 image: ../assets/images/Les Masques – Brasilian Sound.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Les Masques – Brasilian Sound
@@ -33,9 +31,9 @@ v-rating: VG
 
 11. Les Filles Et Les Garçons
 
-> Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バンドであり、1960年代に活動していました。「Brasilian Sound」は、彼らの代表作品の一つです。
+Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バンドであり、1960年代に活動していました。「Brasilian Sound」は、彼らの代表作品の一つです。
 
-> このアルバムは、レ・マスクが1969年にブラジルのジャズトリオLE TRIO CAMARAとコラボしたアルバムの再発盤です。ブラジル音楽のリズムやメロディ、パーカッションを取り入た独特のリズム感と陽気な雰囲気が特徴で、ボサノバ名盤として知られています。
+このアルバムは、レ・マスクが1969年にブラジルのジャズトリオLE TRIO CAMARAとコラボしたアルバムの再発盤です。ブラジル音楽のリズムやメロディ、パーカッションを取り入た独特のリズム感と陽気な雰囲気が特徴で、ボサノバ名盤として知られています。
 
 
 

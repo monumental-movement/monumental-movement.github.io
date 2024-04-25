@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Soul, 7inch ]
 image: ../assets/images/マイナー・チューニング・バンド マリリン・モンロー・ハズバンド – 歌謡ヒット・イン・ディスコ '76 ソウルこれっきりですか ピーナッツ.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### マイナー・チューニング・バンド マリリン・モンロー・ハズバンド – ソウルこれっきりですか ピーナッツ
@@ -20,9 +18,3 @@ B. マリリン・モンロー・ハズバンド–ピーナッツ
 
 [メルカリで購入](https://jp.mercari.com/item/m64994772893){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

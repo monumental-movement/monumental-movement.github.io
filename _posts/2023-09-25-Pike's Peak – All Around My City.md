@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Ska ]
 image: ../assets/images/Pike's Peak – All Around My City.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Pike's Peak – All Around My City
@@ -27,10 +25,3 @@ B3. No Trouble
 
 [メルカリで購入](https://jp.mercari.com/item/m74610746743){: .button1}
 
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

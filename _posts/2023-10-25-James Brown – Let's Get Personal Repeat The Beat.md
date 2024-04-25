@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown – Let's Get Personal Repeat The Beat.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### James Brown – Let's Get Personal Repeat The Beat
@@ -17,7 +15,7 @@ A. Let's Get Personal
 
 B. Repeat The Beat (Faith)
 
-> 1986年にリリースされたジェイムスブランによる７インチレコードです。
+1986年にリリースされたジェイムスブランによる７インチレコードです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m12374882374){: .button1}

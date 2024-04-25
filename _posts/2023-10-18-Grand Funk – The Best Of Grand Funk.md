@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
 image: ../assets/images/Grand Funk – The Best Of Grand Funk.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Grand Funk – The Best Of Grand Funk
@@ -31,7 +29,7 @@ B5. Got This Thing On The Move
 
 B6. Inside Lookin' Out
 
-> グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。
+グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。
 
 
 

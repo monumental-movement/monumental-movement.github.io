@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Techno, German Techno ]
 image: ../assets/images/Tresor Compilation Vol. 7.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Tresor Compilation Vol. 7

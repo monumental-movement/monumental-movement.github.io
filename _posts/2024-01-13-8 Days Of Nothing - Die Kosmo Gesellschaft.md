@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Noise, Rare, 10inch ]
 image: ../assets/images/8 Days Of Nothing - Die Kosmo Gesellschaft.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### 8 Days Of Nothing - Die Kosmo Gesellschaft

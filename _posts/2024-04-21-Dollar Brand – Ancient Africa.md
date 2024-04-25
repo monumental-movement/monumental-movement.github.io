@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, African, 70s ]
 image: ../assets/images/Dollar Brand – Ancient Africa.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Dollar Brand – Ancient Africa

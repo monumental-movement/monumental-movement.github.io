@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Funk ]
 image: ../assets/images/Deodato – Prelude.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Deodato – Prelude

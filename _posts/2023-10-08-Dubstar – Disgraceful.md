@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Synth-Pop ]
 image: ../assets/images/Dubstar – Disgraceful.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Dubstar – Disgraceful
@@ -33,9 +31,9 @@ Bonus Tracks
 17. Stars (Way Out West Remix)
 18. Not So Manic Now (Way Out West Remix)
 
-> 1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
+1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
 
-> アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
+アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m21399720747){: .button1}

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin ]
 image: ../assets/images/Mark De Clive-Lowe – Six Degrees.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Mark De Clive-Lowe – Six Degrees
@@ -35,9 +33,9 @@ D2. Motherland
 
 D3. El Dîa Perfecto (Reprise)
 
-> Mark De Clive-Lowe（マーク・ド・クライヴ・ロウ）は、ニュージーランド出身のジャズキーボーディスト、音楽プロデューサー、作曲家、アーティスト、クラブDJ。
+Mark De Clive-Lowe（マーク・ド・クライヴ・ロウ）は、ニュージーランド出身のジャズキーボーディスト、音楽プロデューサー、作曲家、アーティスト、クラブDJ。
 
-> 「Six Degrees」は、Universal Jazzから2000年にリリースされたマーク・ド・クライヴ・ロウ3枚目のアルバム。
+「Six Degrees」は、Universal Jazzから2000年にリリースされたマーク・ド・クライヴ・ロウ3枚目のアルバム。
 
 [メルカリで購入](https://jp.mercari.com/item/m41280420155){: .button1}
 

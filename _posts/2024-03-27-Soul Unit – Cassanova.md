@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Latin, 00s ]
 image: ../assets/images/Soul Unit – Cassanova.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Soul Unit – Cassanova
@@ -33,9 +31,3 @@ The Pharcyde（ファーサイド）のトラックメイカーSpaceboy Boogie X
 
 [メルカリで購入](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

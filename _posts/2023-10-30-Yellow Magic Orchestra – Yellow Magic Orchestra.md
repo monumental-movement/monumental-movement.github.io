@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Synth-Pop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Yellow Magic Orchestra – Yellow Magic Orchestra

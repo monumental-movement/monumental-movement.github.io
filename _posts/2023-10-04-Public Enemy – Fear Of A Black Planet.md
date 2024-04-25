@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
 image: ../assets/images/Public Enemy – Fear Of A Black Planet.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Public Enemy – Fear Of A Black Planet
@@ -51,7 +49,7 @@ B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 
 B10. Fight The Power
 
-> 「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
+「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m21123775840){: .button1}

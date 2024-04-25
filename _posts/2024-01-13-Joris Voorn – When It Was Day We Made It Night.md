@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, 00s ]
 image: ../assets/images/Joris Voorn – When It Was Day We Made It Night.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Joris Voorn – When It Was Day We Made It Night
@@ -27,11 +25,5 @@ Joris Voorn（ヨリス・ヴォーン）はオランダのアムステルダム
 
 [メルカリで購入](https://jp.mercari.com/item/m54807852331?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62zBsPUaQF4?si=mUdki_KlAE-2yo9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

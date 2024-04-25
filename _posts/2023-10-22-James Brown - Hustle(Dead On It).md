@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown - Hustle(Dead On It).jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### James Brown - Hustle!!! (Dead On It)

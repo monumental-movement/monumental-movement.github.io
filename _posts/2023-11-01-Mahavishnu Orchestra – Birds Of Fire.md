@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Fusion, Jazz, Rock ]
 image: ../assets/images/Mahavishnu Orchestra – Birds Of Fire.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Mahavishnu Orchestra – Birds Of Fire

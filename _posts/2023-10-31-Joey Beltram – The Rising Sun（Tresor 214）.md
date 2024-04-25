@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Techno, Mix ]
 image: ../assets/images/Joey Beltram – The Rising Sun（Tresor 214）.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Joey Beltram – The Rising Sun（Tresor 214）
@@ -24,7 +22,7 @@ v-rating: VG
 9. Brreakz
 10. Tenth
 
-> Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
+Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
 
 [メルカリで購入](https://jp.mercari.com/item/m38252270171){: .button1}
 

@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Rock, Post Rock ]
 image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating In Space.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Spiritualized – Ladies And Gentlemen We Are Floating In Space
@@ -39,8 +37,8 @@ Bonus Track For Japan
 
 13.Broken Heart (Instrumental)
 
-> 「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。
+「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。
 
-> このアルバムは、スピリチュアライズドの代表作として知られ、実験的なサウンドや壮大なアレンジが特徴です。アルバムは、ロック、シューゲイザー、サイケデリックロックなどの要素を組み合わせた独自の音楽スタイルで知られています。
+このアルバムは、スピリチュアライズドの代表作として知られ、実験的なサウンドや壮大なアレンジが特徴です。アルバムは、ロック、シューゲイザー、サイケデリックロックなどの要素を組み合わせた独自の音楽スタイルで知られています。
 
 [メルカリで購入](https://jp.mercari.com/item/m13540642583){: .button1}

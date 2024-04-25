@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Jpop, Nostalgic, Theme, 7inch ]
 image: ../assets/images/Yoshimi Iwasaki - Touch.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### 岩崎良美 – タッチ
@@ -15,7 +13,7 @@ A. タッチ
 
 B. 君がいなければ
 
-> 歌詞 – 康珍化
+歌詞 – 康珍化
 ミュージック＆編曲 – 芹澤廣明
 
 

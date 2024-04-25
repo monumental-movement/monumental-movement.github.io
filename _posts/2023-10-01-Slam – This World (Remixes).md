@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Slam – This World (Remixes).jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Slam – This World (Remixes)
@@ -30,11 +28,5 @@ Soma Quality Recordings の共同設立者であり、グラスゴーで開催�
 
 [メルカリで購入](https://jp.mercari.com/item/m15078341618?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3m_lcEyJSY?si=eYJDdOpETL9_SqvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

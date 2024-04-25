@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Mille and Mr. Hirsch – Jazzhatz
@@ -17,7 +15,7 @@ B1. Jazzhatz (Original)
 
 B2. One More
 
-> 2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。
+2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m60762386842){: .button1}

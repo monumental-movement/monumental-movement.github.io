@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Alternative Rock ]
 image: ../assets/images/Cactus World News – Live.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Cactus World News – Live
@@ -35,9 +33,3 @@ B面3曲目の「America」は、サイモン＆ガーファンクルの曲の�
 
 [メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

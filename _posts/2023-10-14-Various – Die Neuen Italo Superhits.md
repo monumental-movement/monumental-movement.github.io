@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Compilation ]
 image: ../assets/images/Various – Die Neuen Italo Superhits.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Die Neuen Italo Superhits
@@ -39,7 +37,7 @@ B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 
 B5. Tony Esposito–Papa Chicoなど
 
-> 1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
+1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m23072694774){: .button1}

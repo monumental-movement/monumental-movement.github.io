@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Funk, Soul ]
 image: ../assets/images/Sly & The Family Stone – Stand.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Sly & The Family Stone – Stand

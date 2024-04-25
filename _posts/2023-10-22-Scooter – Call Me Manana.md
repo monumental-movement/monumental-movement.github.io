@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Trance ]
 image: ../assets/images/Scooter – Call Me Manana.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Scooter – Call Me Mañana
@@ -23,9 +21,3 @@ Scooter（スクーター）は、1993年にドイツ・ハンブルクで設立
 
 [メルカリで購入](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

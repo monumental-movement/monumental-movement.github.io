@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Funk, 7inch ]
 image: ../assets/images/Klymaxx – The Men All Pause I Miss You.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Klymaxx – The Men All Pause / I Miss You
@@ -17,7 +15,7 @@ A. The Men All Pause
 
 B. I Miss You
 
-> Klymaxx（クライマックス）は、Bernadette Cooper（バーナデット・クーパー）がつくった80年代のガールズファンクバンド。「I Miss You」は世界的ヒットとなった。
+Klymaxx（クライマックス）は、Bernadette Cooper（バーナデット・クーパー）がつくった80年代のガールズファンクバンド。「I Miss You」は世界的ヒットとなった。
 
 [メルカリで購入](https://jp.mercari.com/item/m95900301247){: .button1}
 

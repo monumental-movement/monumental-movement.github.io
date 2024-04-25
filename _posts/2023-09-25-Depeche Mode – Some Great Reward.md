@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Post Punk ]
 image: ../assets/images/Depeche Mode – Some Great Reward.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Depeche Mode – Some Great Reward
@@ -29,11 +27,11 @@ B3. If You Want
 
 B4. Blasphemous Rumours
 
-> 「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
+「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
 
-> アルバムには、シングルとしてリリースされた「People Are People」や「Master and Servant」などデペッシュ・モードの代表的な楽曲が収録されています。
+アルバムには、シングルとしてリリースされた「People Are People」や「Master and Servant」などデペッシュ・モードの代表的な楽曲が収録されています。
 
-> 「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
+「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m84995545224){: .button1}

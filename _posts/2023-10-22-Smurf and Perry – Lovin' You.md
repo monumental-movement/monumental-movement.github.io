@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Smurf and Perry – Lovin' You.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Smurf & Perry – Lovin' You
@@ -24,9 +22,3 @@ Smurf & Perry（スマーフ&ペリー）は、ドイツ出身のDJ Big Smurf（
 
 [メルカリで購入](https://jp.mercari.com/item/m74148247550?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

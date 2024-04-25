@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/The Beatnuts – Take It Or Squeeze It.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Beatnuts – Take It Or Squeeze It
@@ -39,8 +37,8 @@ v-rating: VG
 
 14.Se Acabo (Remix)
 
-> 「The Beatnuts – Take It Or Squeeze It」は、ヒップホップグループであるビートナッツの4番目のスタジオアルバムです。2001年にリリースされたこのアルバムは、The Beatnutsの特徴的なプロダクションスタイルとウィットに富んだ歌詞を披露しています。
+「The Beatnuts – Take It Or Squeeze It」は、ヒップホップグループであるビートナッツの4番目のスタジオアルバムです。2001年にリリースされたこのアルバムは、The Beatnutsの特徴的なプロダクションスタイルとウィットに富んだ歌詞を披露しています。
 
-> 「Take It Or Squeeze It」は、アップビートでファンキーなトラックを中心に構成されており、さまざまな音楽要素やサンプルが取り入れられています。このアルバムでは、The Beatnutsがヒップホップ、ファンク、ラテン音楽の要素を巧みに取り入れながら、独自のサウンドを展開しています。
+「Take It Or Squeeze It」は、アップビートでファンキーなトラックを中心に構成されており、さまざまな音楽要素やサンプルが取り入れられています。このアルバムでは、The Beatnutsがヒップホップ、ファンク、ラテン音楽の要素を巧みに取り入れながら、独自のサウンドを展開しています。
 
 [メルカリで購入](https://jp.mercari.com/item/m67307985366){: .button1}

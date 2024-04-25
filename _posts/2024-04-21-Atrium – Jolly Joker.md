@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Hi NRG, 90s ]
 image: ../assets/images/Atrium – Jolly Joker.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Atrium – Jolly Joker

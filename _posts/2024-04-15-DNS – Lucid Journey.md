@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive Trance ]
 image: ../assets/images/DNS – Lucid Journey.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### DNS – Lucid Journey

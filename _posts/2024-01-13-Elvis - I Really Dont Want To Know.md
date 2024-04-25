@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Nostalgic, 7inch ]
 image: ../assets/images/Elvis - I Really Don't Want To Know.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Elvis - I Really Don't Want To Know

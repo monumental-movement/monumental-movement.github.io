@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Psychedelic, Noise ]
 image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Christine 23 Onna – Shiny Crystal Planet
@@ -35,7 +33,7 @@ v-rating: VG
 
 12. New Dawn On Crystal Planet
 
-> 2000年にアルケミーレコーズよりリリースされた山崎マゾと戸田房尾によるユニットChristine 23 Onnaによるアルバムです。
+2000年にアルケミーレコーズよりリリースされた山崎マゾと戸田房尾によるユニットChristine 23 Onnaによるアルバムです。
 
 [メルカリで購入](https://jp.mercari.com/item/m46495394353){: .button1}
 

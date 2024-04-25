@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come Again.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Human Movement Featuring Sophie Moleta – Love Has Come Again
@@ -27,9 +25,3 @@ RemixはPet Shop Boys(ペット・ショップ・ボーイズ)などのリミッ
 
 [メルカリで購入](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno ]
 image: ../assets/images/Elektrochemie LK – Gold.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Elektrochemie LK – Gold!
@@ -31,14 +29,8 @@ F1. En Route To Narita
 
 F2. Ein Nenner
 
-> Elektrochemie LKは、Thomas Schumacher （トーマス・シューマッハ）のソロプロジェクトの一つです。
+Elektrochemie LKは、Thomas Schumacher （トーマス・シューマッハ）のソロプロジェクトの一つです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m11889088321){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

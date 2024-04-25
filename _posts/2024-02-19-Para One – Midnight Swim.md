@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, French Electro  ]
 image: ../assets/images/Para One – Midnight Swim.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Para One – Midnight Swim

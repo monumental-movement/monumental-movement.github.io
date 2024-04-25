@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Nostalgic, 7inch, Pops ]
 image: ../assets/images/Daniel Boone  –  Beautiful Sunday.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Daniel Boone  –  Beautiful Sunday

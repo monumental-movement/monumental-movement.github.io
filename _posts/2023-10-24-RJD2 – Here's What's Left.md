@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/RJD2 – Here's What's Left.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### RJD2 – Here's What's Left
@@ -25,13 +23,7 @@ B3. Two More Dead (Hundred Strong Remix)
 
 B4. Bonus Beat
 
-> RJD2（Ramble Jon Krohn/ランブル・ジョン・クローン）は、USヒップホップ/エレクトロニックプロデューサー兼DJ。Soul Position、 MHz Legacy（MHz）、Icebird などのグループでも活躍。
+RJD2（Ramble Jon Krohn/ランブル・ジョン・クローン）は、USヒップホップ/エレクトロニックプロデューサー兼DJ。Soul Position、 MHz Legacy（MHz）、Icebird などのグループでも活躍。
 
 [メルカリで購入](https://jp.mercari.com/item/m71199037587){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

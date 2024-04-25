@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Hardcore ]
 image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Vinylgroover – The World Of Vinylgroover (Part One)

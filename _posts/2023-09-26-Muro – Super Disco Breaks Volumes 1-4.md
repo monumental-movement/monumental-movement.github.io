@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Mix ]
 image: ../assets/images/Muro – Super Disco Breaks Volumes 1-4.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Muro – Super Disco Breaks Volumes 1-4

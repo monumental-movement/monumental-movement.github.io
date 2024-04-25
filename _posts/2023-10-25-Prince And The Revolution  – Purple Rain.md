@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Funk, 7inch ]
 image: ../assets/images/Prince And The Revolution  – Purple Rain.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Prince And The Revolution  – Purple Rain

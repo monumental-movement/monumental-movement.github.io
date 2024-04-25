@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Synth-Pop, Disco ]
 image: ../assets/images/Junior Senior – Hey Hey My My Yo Yo.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Junior Senior – Hey Hey My My Yo Yo
@@ -35,11 +33,11 @@ v-rating: VG
 
 12.Hey Hey My My Yo Yo Recording Diary
 
-> このアルバムは、デンマークの音楽デュオであるJunior Senior（ジュニア・シニア）の楽曲です。この曲は、2002年にリリースされた彼らのデビューアルバム「D-D-Don't Stop the Beat」に収録されています。
+このアルバムは、デンマークの音楽デュオであるJunior Senior（ジュニア・シニア）の楽曲です。この曲は、2002年にリリースされた彼らのデビューアルバム「D-D-Don't Stop the Beat」に収録されています。
 
-> 「Hey Hey My My Yo Yo」はアップテンポでキャッチーなポップソングで、明るいメロディ、踊りやすいビート、おふざけな歌詞が特徴です。Junior Seniorの音楽は、ダンスポップやディスコの要素を取り入れ、ポップな楽曲を提供することで知られています。
+「Hey Hey My My Yo Yo」はアップテンポでキャッチーなポップソングで、明るいメロディ、踊りやすいビート、おふざけな歌詞が特徴です。Junior Seniorの音楽は、ダンスポップやディスコの要素を取り入れ、ポップな楽曲を提供することで知られています。
 
-> 「Hey Hey My My Yo Yo」はJunior Seniorの最も有名な曲の1つであり、世界的なヒットとなりました。
+「Hey Hey My My Yo Yo」はJunior Seniorの最も有名な曲の1つであり、世界的なヒットとなりました。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m51276371738){: .button1}

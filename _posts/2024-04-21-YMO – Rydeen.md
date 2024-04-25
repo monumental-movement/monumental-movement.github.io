@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno, 7inch ]
 image: ../assets/images/YMO – Rydeen.jpg
-rating: 4.5
-v-rating: VG
 toc: true
 beforetoc: Yellow Magic Orchestra  – Rydeen  イエロー・マジック・オーケストラ  – ライディーン
 ---

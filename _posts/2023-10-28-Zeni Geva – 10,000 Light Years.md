@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Noise, Progressive, Rock ]
 image: ../assets/images/Zeni Geva – 10000 Light Years.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Zeni Geva – 10000 Light Years
@@ -22,7 +20,7 @@ v-rating: VG
 7. Hazchem
 8. Auto-Fuck
 
-> 2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
+2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
 
 [メルカリで購入](https://jp.mercari.com/item/m23225529130){: .button1}
 

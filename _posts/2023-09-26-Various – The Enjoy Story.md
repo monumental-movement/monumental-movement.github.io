@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
 image: ../assets/images/Various – The Enjoy! Story.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – The Enjoy! Story

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, House ]
 image: ../assets/images/Various – Urban Acid.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Urban Acid
@@ -27,13 +25,7 @@ B3. The Candy Man–The Candy Man
 
 B4. Charm–Walk On The Wild Side
 
-> 1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
+1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
 
 [メルカリで購入](https://jp.mercari.com/item/m11742134680){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

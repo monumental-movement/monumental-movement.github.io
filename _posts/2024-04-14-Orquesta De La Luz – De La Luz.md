@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Salsa, Latin ]
 image: ../assets/images/Orquesta De La Luz – De La Luz.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Orquesta De La Luz – De La Luz

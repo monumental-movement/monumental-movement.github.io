@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Noise, Experimental ]
 image: ../assets/images/Merzbow – Merzbird.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Merzbow – Merzbird

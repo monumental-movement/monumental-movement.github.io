@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Rare ]
 image: ../assets/images/Various – Dance Panic.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Various – Dance Panic!
@@ -21,11 +19,11 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 
 B2. Reverance–Sacrifice (Paul Woodgate)
 
-> UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
+UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
 
-> DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
+DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
 
-> Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
+Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
 
 [メルカリで購入](https://jp.mercari.com/item/m43301194560){: .button1}
 

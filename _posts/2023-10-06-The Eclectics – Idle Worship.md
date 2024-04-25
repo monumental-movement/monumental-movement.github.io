@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Punk ]
 image: ../assets/images/The Eclectics – Idle Worship.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### The Eclectics – Idle Worship
@@ -31,14 +29,8 @@ B4. Near And Far
 
 B5. It's Not About You, Kevin
 
-> 1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
+1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m30039999033){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

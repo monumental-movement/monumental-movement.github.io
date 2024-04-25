@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Folk, 7inch ]
 image: ../assets/images/The Folk Crusaders - I Only Live Twice.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### The Folk Crusaders - I Only Live Twice
@@ -24,13 +22,7 @@ B. ソーラン節
 北海道民謡
 編曲:加藤和彦
 
-> 『帰って来たヨッパライ』は、ザ・フォーク・クルセダーズのデビューシングルで、オリコンチャート史上初のミリオン・シングル。「アングラ・フォーク」のブームを生み出した曲でもあり、日本のコミックソングの代表的な作品。
+『帰って来たヨッパライ』は、ザ・フォーク・クルセダーズのデビューシングルで、オリコンチャート史上初のミリオン・シングル。「アングラ・フォーク」のブームを生み出した曲でもあり、日本のコミックソングの代表的な作品。
 
 [メルカリで購入](https://jp.mercari.com/item/m17450596937){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

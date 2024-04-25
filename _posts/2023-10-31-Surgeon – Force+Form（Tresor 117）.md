@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ Techno, DJ ]
 image: ../assets/images/Surgeon – Force+Form（Tresor 117）.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Surgeon – Force+Form（Tresor 117）
@@ -39,7 +37,7 @@ At The Heart Of It All
 
 4b. Part 2
 
-> Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、SurgeonのCD。
+Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、SurgeonのCD。
 
 [メルカリで購入](https://jp.mercari.com/item/m56790117457){: .button1}
 

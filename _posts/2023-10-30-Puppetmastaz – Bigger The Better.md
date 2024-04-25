@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/Puppetmastaz – Bigger The Better.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Puppetmastaz – Bigger The Better
@@ -21,9 +19,9 @@ B1. Mastaplan
 
 B2. What U Need
 
-> Puppetmastaz(パペットマスターズ)は、1996年にベルリンで結成されたドイツのヒップホップグループで、Max Turner(マックス ターナー)、 Chilly Gonzales(チリー ゴンザレス)、Paul PM(ポール PM/Mister Malokeミスター マローク)、Mocky(モッキー)、そして 2003 年にバンドを脱退したAlex Tiller(アレックス ティラー)といったドイツ、米国、カナダ出身のメンバーで構成されています。
+Puppetmastaz(パペットマスターズ)は、1996年にベルリンで結成されたドイツのヒップホップグループで、Max Turner(マックス ターナー)、 Chilly Gonzales(チリー ゴンザレス)、Paul PM(ポール PM/Mister Malokeミスター マローク)、Mocky(モッキー)、そして 2003 年にバンドを脱退したAlex Tiller(アレックス ティラー)といったドイツ、米国、カナダ出身のメンバーで構成されています。
 
-> Puppetmastazは、ハンドパペットを使ってショーをおこない、ラップ、ファンク、エレクトロニカなどの要素を取り入れた音楽スタイルが特徴です。
+Puppetmastazは、ハンドパペットを使ってショーをおこない、ラップ、ファンク、エレクトロニカなどの要素を取り入れた音楽スタイルが特徴です。
 
 [メルカリで購入](https://jp.mercari.com/item/m42662167380){: .button1}
 

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Post Punk ]
 image: ../assets/images/Squeeze – Babylon And On.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Squeeze – Babylon And On

@@ -5,8 +5,6 @@ author: mmr
 categories: [ CD ]
 tags: [ House, Electro ]
 image: ../assets/images/Various – Kitsuné X.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – Kitsuné X
@@ -37,8 +35,8 @@ v-rating: VG
 
 12b. Dieter Schmidt–Morse Code From The Cold War
 
-> フランスのKitsuneによる2005年にリリースされた待望の3作目です。
+フランスのKitsuneによる2005年にリリースされた待望の3作目です。
 
-> エレクトロ、ディスコ・パンクをベースに、フリーフォームで展開されるコンピレーションアルバムです。
+エレクトロ、ディスコ・パンクをベースに、フリーフォームで展開されるコンピレーションアルバムです。
 
 [メルカリで購入](https://jp.mercari.com/item/m55280452092){: .button1}

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Cassette ]
 tags: [ Samba, Latin ]
 image: ../assets/images/Various – O Samba.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Various – O Samba
@@ -41,7 +39,7 @@ v-rating: VG
 
 15. Paulinho Da Viola–Sarou Para Ramadés
 
-> 1991年にリリースされたDavid Byrneによってコンパイルされたコンピレーションのカセッテテープです。
+1991年にリリースされたDavid Byrneによってコンパイルされたコンピレーションのカセッテテープです。
 
 
 

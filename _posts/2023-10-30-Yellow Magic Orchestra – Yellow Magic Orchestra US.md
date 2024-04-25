@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Synth-Pop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra US.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Yellow Magic Orchestra – Yellow Magic Orchestra US
@@ -33,9 +31,3 @@ B4. Mad Pierrot
 
 [メルカリで購入](https://jp.mercari.com/item/m43230673648){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: G</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

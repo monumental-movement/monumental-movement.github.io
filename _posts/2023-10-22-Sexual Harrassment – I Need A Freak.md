@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Anthem ]
 image: ../assets/images/Sexual Harrassment – I Need A Freak.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Sexual Harrassment – I Need A Freak
@@ -23,9 +21,3 @@ Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン�
 
 [メルカリで購入](https://jp.mercari.com/item/m91285110747?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: EX</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

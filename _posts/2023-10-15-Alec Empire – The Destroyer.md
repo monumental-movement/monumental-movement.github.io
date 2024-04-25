@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Digital Hardcore, Breakcore ]
 image: ../assets/images/Alec Empire – The Destroyer.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Alec Empire – The Destroyer
@@ -43,13 +41,7 @@ D3. Pleasure Is Our Business (Live!)
 
 D4. Untitled
 
-> Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
+Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
 
 [メルカリで購入](https://jp.mercari.com/item/m94890989911){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG-</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

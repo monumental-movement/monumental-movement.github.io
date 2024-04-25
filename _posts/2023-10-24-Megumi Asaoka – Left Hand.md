@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/Megumi Asaoka – Left Hand.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### 麻丘めぐみ – わたしの彼は左きき
@@ -15,7 +13,7 @@ A. わたしの彼は左きき
 
 B. ひとりの私
 
-> 歌詞– 千家和也
+歌詞– 千家和也
 ミュージック＆アレンジ – 筒美京平
 レコーディングメンバー(ギター) – 高中正義
 

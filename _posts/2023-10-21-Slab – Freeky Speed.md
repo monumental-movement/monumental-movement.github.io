@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Big Beat, Break Beat ]
 image: ../assets/images/Slab – Freeky Speed.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Slab – Freeky Speed
@@ -29,18 +27,12 @@ D1. Atom Smasher
 
 D2. Monkey Prankster
 
-> Slabは、Lol HammondとNina Walshによるユニット。
+Slabは、Lol HammondとNina Walshによるユニット。
 
-> B面の1曲目はイギリスのDJ＆プロデューサーAndrew Weatherall（アンドリュー・ウェザオール）が、２曲目はUKテクノDJ＆プロデューサー Carl Cox（カール・コックス）によるremix。
+B面の1曲目はイギリスのDJ＆プロデューサーAndrew Weatherall（アンドリュー・ウェザオール）が、２曲目はUKテクノDJ＆プロデューサー Carl Cox（カール・コックス）によるremix。
 
-> D面2曲目は、Monkey Mafia（モンキー・マフィア）によるremix。
+D面2曲目は、Monkey Mafia（モンキー・マフィア）によるremix。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m96913326161){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

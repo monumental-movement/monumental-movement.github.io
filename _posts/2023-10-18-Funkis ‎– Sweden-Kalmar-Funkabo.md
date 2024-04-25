@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Funkis – Sweden-Kalmar-Funkabo.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Funkis – Sweden-Kalmar-Funkabo
@@ -23,7 +21,7 @@ B2. Snälla Jultomten
 
 B3. 25-årig, Lång, Snygg
 
-> Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。
+Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。
 
 [メルカリで購入](https://jp.mercari.com/item/m20734209180){: .button1}
 

@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s ]
 image: ../assets/images/Dolly Dots – American Dream.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Dolly Dots – American Dream
@@ -37,13 +35,7 @@ B5. Hollywood
 
 B6. My Boyfriend's Back
 
-> Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズ グループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
+Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズ グループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
 
 [メルカリで購入](https://jp.mercari.com/item/m95282929146){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: NM</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>

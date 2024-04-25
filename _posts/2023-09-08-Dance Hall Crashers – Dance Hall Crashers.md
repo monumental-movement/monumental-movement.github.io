@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Ska Punk ]
 image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Dance Hall Crashers – THE OLD RECORD (1989-1992){: .button1}
@@ -51,11 +49,11 @@ B5. Better Than Anything
 B6. DHC
 
 
-> ダンス・ホール・クラッシャーズ (DANCE HALL CRASHERS) は、1989年にアメリカのカリフォルニア州バークレーで結成されたスカコア・バンドです。
+ダンス・ホール・クラッシャーズ (DANCE HALL CRASHERS) は、1989年にアメリカのカリフォルニア州バークレーで結成されたスカコア・バンドです。
 
-> 1989年、ランシドの母体バンドであるオペレーション・アイヴィーのマット・フリーマンとティム・アームストロングがサイド・プロジェクトとしての結成がはじまり。
+1989年、ランシドの母体バンドであるオペレーション・アイヴィーのマット・フリーマンとティム・アームストロングがサイド・プロジェクトとしての結成がはじまり。
 
-> このアルバム『THE OLD RECORD (1989-1992){: .button1}』は、1996年にリリースされました。
+このアルバム『THE OLD RECORD (1989-1992){: .button1}』は、1996年にリリースされました。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m77868412341){: .button1}

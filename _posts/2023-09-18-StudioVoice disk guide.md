@@ -5,8 +5,6 @@ author: mmr
 categories: [ Magazine ]
 tags: [ Magazine, Disk Guide, Studio Voice ]
 image: ../assets/images/StudioVoice別冊 オールジャンルディスクガイド スタジオボイス.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス

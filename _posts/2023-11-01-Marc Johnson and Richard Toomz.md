@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
 image: ../assets/images/Marc Johnson and Richard Toomz.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Marc Johnson & Richard Toomz/Dave Owens – Sour Cream & Chive
@@ -33,11 +31,5 @@ Dave OwensのDJキャリアは、2000年代初頭に軌道に乗り、Insomniacz
 
 [メルカリで購入](https://jp.mercari.com/item/m80514183541?afid=6142608987){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tn2_jYHGWVg?si=YH72rJqO2kN9q7Ou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

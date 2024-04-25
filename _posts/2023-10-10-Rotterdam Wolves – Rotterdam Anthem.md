@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Gabber ]
 image: ../assets/images/Rotterdam Wolves – Rotterdam Anthem.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Rotterdam Wolves – Rotterdam Anthem
@@ -21,9 +19,9 @@ B2. Rotterdam Anthem (Instrumental)
 
 B3. Rotterdam Anthem (Accapella A/D Ijssel Mix)
 
-> Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
+Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
 
-> 「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。
+「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。
 
 [メルカリで購入](https://jp.mercari.com/item/m81174559941){: .button1}
 

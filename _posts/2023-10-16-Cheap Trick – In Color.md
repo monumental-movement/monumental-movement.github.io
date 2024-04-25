@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
 image: ../assets/images/Cheap Trick – In Color.jpg
-rating: 3.5
-v-rating: VG
 ---
 
 #### Cheap Trick – In Color
@@ -31,9 +29,9 @@ B4. Come On, Come On
 
 B5. So Good To See You
 
-> Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。
+Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。
 
-> 「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
+「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
 
 [メルカリで購入](https://jp.mercari.com/item/m96486417042){: .button1}
 

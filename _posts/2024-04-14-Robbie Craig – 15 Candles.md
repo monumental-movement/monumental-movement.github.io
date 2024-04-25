@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK Garage ]
 image: ../assets/images/Robbie Craig – 15 Candles.jpg
-rating: 4.5
-v-rating: VG
 ---
 
 #### Robbie Craig – 15 Candles
@@ -30,11 +28,5 @@ A面はUKガラージアーティストLaurence BagnallとStanton Warriorsのメ
 [メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
 
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yi3hc1Vu2ho?si=UCjKm2TW3dEUDNIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
