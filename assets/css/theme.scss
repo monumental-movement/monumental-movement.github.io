@@ -33,7 +33,7 @@ a {
     color: darken($primary, 24%);
 }
 img {
-    max-width:auto;
+    max-width:100%;
     height:auto;
 }
 
@@ -307,7 +307,7 @@ img, img:hover {
     .img-thumb {
         object-fit:cover;
         height:240px;
-        width:auto;
+        width:100%;
         object-position:top;
     }
 }
@@ -339,7 +339,7 @@ img, img:hover {
         .img-thumb {
             object-fit:cover;
             height:160px;
-            width:auto;
+            width:100%;
             object-position:top;
         }
         .card-title {
