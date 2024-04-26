@@ -28,7 +28,8 @@ post_class: post-template
 
 <!-- Featured Image -->
 {% include featured-image.html %}
-<div class="mt-4 mb-4 d-flex align-items-center">
+    <div class="d-flex justify-content-center align-items-center">
+    
 <!-- Tags -->  
     {% assign sortedTags = page.tags | sort %}
     {% for tag in sortedTags %}                
