@@ -28,7 +28,7 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
-    
+ <div class="d-flex align-items-center">   
     <!-- Categories -->
     {% assign sortedCategories = page.categories | sort %}
     {% for category in sortedCategories %}
@@ -40,6 +40,7 @@ post_class: post-template
     {% for tag in sortedTags %}                
     <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>               
     {% endfor %}
+</div>
 
 <!-- Rating -->
 {% if page.rating %}
