@@ -29,14 +29,22 @@ post_class: post-template
 <!-- Featured Image -->
 {% include featured-image.html %}
 
-<div class="d-flex align-items-center mt-4">    
-<!-- Tags -->  
+<div class="d-flex justify-content-center align-items-center">
+    
+    <!-- Categories -->
+    {% assign sortedCategories = page.categories | sort %}
+    {% for category in sortedCategories %}
+    <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
+    {% endfor %}
+
+    <!-- Tags -->  
     {% assign sortedTags = page.tags | sort %}
     {% for tag in sortedTags %}                
     <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>               
     {% endfor %}
 
-</div>
+    </div>
+    
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
