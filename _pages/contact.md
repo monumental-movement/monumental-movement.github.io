@@ -5,7 +5,7 @@ permalink: /contact
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/mayragvw" method="POST">    
 <p class="mb-4">何かご質問などがございましたら、 {{site.name}}までお気軽にお問い合わせください。</p>
 <div class="form-group row">
 <div class="col-md-6">
