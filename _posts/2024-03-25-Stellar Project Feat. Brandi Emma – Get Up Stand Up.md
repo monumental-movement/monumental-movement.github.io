@@ -7,16 +7,6 @@ tags: [ House, Trance, 00s ]
 image: ../assets/images/Stellar Project Feat. Brandi Emma – Get Up Stand Up.jpg
 ---
 
-#### Stellar Project Feat. Brandi Emma – Get Up Stand Up
-
-Stellar Project Feat. Brandi Emma – Get Up Stand Up
-
-A. Get Up Stand Up (Phunk Investigation Vocal Mix)
-
-B1. Get Up Stand Up (F&W Remix)
-
-B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
-
 Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
 
 A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。
@@ -24,6 +14,15 @@ A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによ�
 B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren WeileのトランスプロジェクトF&Wによるremix。
 
 B面２曲目はUKのDJ Paul Jacksonによるremix。
+
+#### Tracklist
+```md
+A. Get Up Stand Up (Phunk Investigation Vocal Mix)
+
+B1. Get Up Stand Up (F&W Remix)
+
+B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 

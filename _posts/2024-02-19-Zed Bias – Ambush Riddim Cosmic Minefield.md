@@ -7,19 +7,16 @@ tags: [ Dubstep, Electronic, 00s ]
 image: ../assets/images/Zed Bias – Ambush Riddim Cosmic Minefield.jpg
 ---
 
-#### Zed Bias – Ambush Riddim Cosmic Minefield
-
-Zed Bias – Ambush Riddim / Cosmic Minefield
-
-ゼッド・バイアス（Maddslinky /マッドスリンキー）
-
-A. Ambush Riddim
-
-B. Cosmic Minefield
-
 Zed Bias (ゼッドバイアス) ことDave Jones(デイヴ・ジョーンズ ) は、マンチェスターを拠点とするUKエレクトロニックミュージシャンであり、UKガラージ、2ステップ、ブロークンビーツ、UKファンキーのプロデューサー・DJ。
 
 別名義でMaddslinky (マッドスリンキー) としても活動しており、Phuturistix (フューチャリスティックス) のメンバー。
+
+#### Tracklist
+```md
+A. Ambush Riddim
+
+B. Cosmic Minefield
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 

@@ -7,20 +7,6 @@ tags: [ Minimal, Techno, 00s ]
 image: ../assets/images/Phil Stumpf – Stumpfam Apparat.jpg
 ---
 
-#### Phil Stumpf – Stumpfam Apparat
-
-Phil Stumpf – Stumpfam Apparat
-
-フィル・ストゥンプ
-
-A1. Stumpf Am Apparat
-
-A2. Maze Am Apparat (Gwen Maze Remix)
-
-B1. Bond In Action
-
-B2. Temporary Threshold Shift
-
 ジャーマンポストロックの「OH.」のメンバーでもあり、Sam Rouanetとのユニット「DUPLEX 100」としても活躍するPhil Stumpfのミニマルトラック。
 
 ドイツのハウスレーベルTom Bone Vibrating Music より2005年にリリース。
@@ -38,6 +24,17 @@ A面２曲目はGwen Maze （グウェンメイズ）によるremix。
 2001年にはパリに移り住み、サミュエル・ルアナートと共にヌーボーカジノで「Minimal Dancin」というクラブナイトを立ち上げました。
 
 現在はサミュエル・ルアナートとジェームス・シンダトリーと共にパリを拠点とするエレクトロニックジャズバンドCanvasにも参加しています。
+
+#### Tracklist
+```md
+A1. Stumpf Am Apparat
+
+A2. Maze Am Apparat (Gwen Maze Remix)
+
+B1. Bond In Action
+
+B2. Temporary Threshold Shift
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
 

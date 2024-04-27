@@ -7,15 +7,14 @@ tags: [ House, DUB, 00s ]
 image: ../assets/images/Motion Detector – Motion Detector.jpg
 ---
 
-#### Motion Detector – Motion Detector
+アメリカのレーベルLosonofono Recordsから2002年にリリースされたMotion Detector（モーションディテクター）のハウス・ダブトラック。
 
-モーションディテクター
-
+#### Tracklist
+```md
 A. Dubtrain
 
 B. Banaras Ghat
-
-アメリカのレーベルLosonofono Recordsから2002年にリリースされたMotion Detectorのハウス・ダブトラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m69381674857?afid=6142608987){: .button1}
 

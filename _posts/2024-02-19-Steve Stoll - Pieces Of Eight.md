@@ -7,16 +7,6 @@ tags: [ Techno, NY Techno, UK Techno ]
 image: ../assets/images/Steve Stoll - Pieces Of Eight.jpg
 ---
 
-#### Steve Stoll - Pieces Of Eight
-
-Steve Stoll Presents The Blunted Boy Wonder – Pieces Of Eight
-
-A.  Pieces Of Eight
-
-B1. Pieces Of Eight (Night Thoughts Remix)
-
-B2. Killin' It
-
 USテクノ＆アンビエントDJ・プロデューサーのSteve Stoll （スティーヴ・ストール）が2000年にリリースしたテクノトラック。
 
 B面２曲目はロンドンを拠点に活動するUKテクノDJ・プロデューサーJustin Berkovi（ジャスティン・ベルコヴィ）のremix。
@@ -24,6 +14,15 @@ B面２曲目はロンドンを拠点に活動するUKテクノDJ・プロデュ
 このレコードのB1は、心地よいながらも力強いベースライン、そして最高のタイミングでパッドが登場して、さらに際立ちます。
 
 B2の「Killin' it」は重低音炸裂のトラックで、テクノというよりかはトリップホップ寄りで、汚くて深い低音とファンキーなリズムが特徴的です。
+
+#### Tracklist
+```md
+A.  Pieces Of Eight
+
+B1. Pieces Of Eight (Night Thoughts Remix)
+
+B2. Killin' It
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
 

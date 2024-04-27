@@ -7,19 +7,16 @@ tags: [ Electro, Glitch, 00s ]
 image: ../assets/images/South Central – Nothing Can Go Wrong.jpg
 ---
 
-#### South Central – Nothing Can Go Wrong
+「Nothing Can Go Wrong」は、2007年にUKのインディペンデントレーベルA/G/Pからリリースされた、イギリス・ブライトン出身のDJデュオSouth Central（サウスセントラル）によるグリッチ・エレクトロトラック。
 
-South Central – Nothing Can Go Wrong
-
-サウスセントラル
-
+#### Tracklist
+```md
 A. Nothing Can Go Wrong (12" Mix)
 
 B1. Nothing Can Go Wrong (Dub Mix)
 
 B2. Nothing Can Go Wrong (7" Mix)
-
-2007年にUKのインディペンデントレーベルA/G/Pからリリースされた、イギリス・ブライトン出身のDJデュオSouth Central（サウスセントラル）によるグリッチ・エレクトロトラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m43490703083?afid=6142608987){: .button1}
 

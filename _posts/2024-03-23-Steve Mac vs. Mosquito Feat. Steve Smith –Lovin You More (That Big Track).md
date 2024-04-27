@@ -7,21 +7,18 @@ tags: [ House, UK House, 00s ]
 image: ../assets/images/Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track).jpg
 ---
 
-#### Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track)
+UKのハウスプロデューサーSteve Mac(スティーブ マック)とサイトランスシーンでも有名なUK出身のハウストリオMosquito（モスキート）、Dirty Vegas（ダーティベガス）やSqueeze（スクイーズ ）で活動するSteve Smith（スティーブスミス）によるハウストラック。
 
-Steve Mac vs. Mosquito Feat. Steve Smith – Lovin' You More (That Big Track)
+B面１曲目はFreemasons（フリーメイソンズ）によるremix。
 
-スティーブ・マック vs. モスキート Feat.  スティーブ・スミス
-
+#### Tracklist
+```md
 A. Lovin' You More (That Big Track) (Vocal Club Mix)
 
 B1. Lovin' You More (That Big Track) (Freemasons Remix)
 
 B2. Lovin' You More (That Big Track) (Instrumental Mix)
-
-UKのハウスプロデューサーSteve Mac(スティーブ マック)とサイトランスシーンでも有名なUK出身のハウストリオMosquito（モスキー）、Dirty Vegas（ダーティベガス）やSqueeze（スクイーズ ）で活動するSteve Smith（スティーブスミス）によるハウストラック。
-
-B面１曲目はFreemasons（フリーメイソンズ）によるremix。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m44528246197?afid=6142608987){: .button1}
 

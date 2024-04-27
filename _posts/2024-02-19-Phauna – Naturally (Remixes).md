@@ -7,10 +7,10 @@ tags: [ House, Deep House, 00s ]
 image: ../assets/images/Phauna – Naturally (Remixes).jpg
 ---
 
-#### Phauna – Naturally (Remixes)
+Mellee FreshとDJ Spydabrownによって設立されたカナダのハウスレーベルPlay Recordsから2003年にリリースされたディープハウストラック。
 
-Phauna – Naturally (Remixes)
-
+#### Tracklist
+```md
 A1. Naturally (Broken) Remix – Kemeticjust
 
 A2. Naturally (4/4dub) Remix – Kemeticjust
@@ -18,8 +18,7 @@ A2. Naturally (4/4dub) Remix – Kemeticjust
 B1. @ Remix – Augusta
 
 B2. Sans Soliel
-
-Mellee FreshとDJ Spydabrownによって設立されたカナダのハウスレーベルPlay Recordsから2003年にリリースされたディープハウストラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m89659371816?afid=6142608987){: .button1}
 

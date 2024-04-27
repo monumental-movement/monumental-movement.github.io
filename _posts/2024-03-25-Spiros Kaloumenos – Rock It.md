@@ -7,16 +7,6 @@ tags: [ Techno, 00s ]
 image: ../assets/images/Spiros Kaloumenos – Rock It.jpg
 ---
 
-#### Spiros Kaloumenos – Rock It
-
-Spiros Kaloumenos – Rock It
-
-A. Rock It
-
-B1. Your Speakers Are Dead
-
-B2. Synths Of Fire
-
 スペインのミニマルテクノシーンで活躍するMarco Bailey（マルコ・ベイリー）ファミリーの一員でもあり、テクノDJ Axel Karakasisと共にOmega Audio Recordingsを運営するギリシャ出身のテクノDJ Spiros Kaloumenosが2006年にMB Elektronicsからリリースしたテクノトラック。
 
 Spiros Kaloumenoは、ギリシャのピレウスで生まれ、13歳の時に音楽、特にエレクトロニックミュージックが自分にとって人生の最優先事項であると気づきました。
@@ -28,6 +18,15 @@ Spiros Kaloumenoは、ギリシャのピレウスで生まれ、13歳の時に�
 プロデューサーとしても、イギリスのHydrophonic Recordingsから楽曲リリースを開始し、そのプロダクションスキルはすぐに評価され、Marco Bailey ファミリーの一員となり、他のレーベルからも数多くの作品をリリース。
 
 2005年には、長年のパートナーである Axel Karakasis と共に自身のレーベル「Omega Audio Recordings」を設立しました。
+
+#### Tracklist
+```md
+A. Rock It
+
+B1. Your Speakers Are Dead
+
+B2. Synths Of Fire
+```
 
 
 [メルカリで購入](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}

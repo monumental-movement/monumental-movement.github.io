@@ -7,12 +7,14 @@ tags: [ EBM, 80s ]
 image: ../assets/images/The Dave Howard Singers – Rock On.jpg
 ---
 
-#### The Dave Howard Singers – Rock On
+The Dave Howard Singers （デイブハワードシンガーズ）は、カナダのトロントで結成されたカルト的存在のオルタナティブロックバンド/プロジェクト。
 
-The Dave Howard Singers – Rock On
+1986年にリリースされた「Rock On」は、David Essex（デヴィッド・エセックス）のヒット曲「Rock On/ロックオン」のカヴァー。
 
-デイブハワードシンガーズ
+プロデューサーは、The Stranglers（ストラングラーズ）のJJ・バーネル。
 
+#### Tracklist
+```md
 A. Rock On
 
 B1. Nothing To Say
@@ -20,12 +22,7 @@ B1. Nothing To Say
 B2. Kill The Fatted Whore Back In Labrador
 
 B3. Plastic Horse
-
-The Dave Howard Singers （デイブハワードシンガーズ）は、カナダのトロントで結成されたカルト的存在のオルタナティブロックバンド/プロジェクト。
-
-1986年にリリースされた「Rock On」は、David Essex（デヴィッド・エセックス）のヒット曲「Rock On/ロックオン」のカヴァー。
-
-プロデューサーは、The Stranglers（ストラングラーズ）のJJ・バーネル。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m42900138683?afid=6142608987){: .button1}
 

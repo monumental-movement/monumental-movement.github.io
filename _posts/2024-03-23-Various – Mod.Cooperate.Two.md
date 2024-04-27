@@ -7,10 +7,10 @@ tags: [ House, Minimal, Glitch ]
 image: ../assets/images/Various – Mod.Cooperate.Two.jpg
 ---
 
-#### Various – Mod.Cooperate.Two
+Treplecが設立したドイツのテクノレーベルMilnor Modernから2004年にリリースされた、Nisios 、Trike、Metaboman、Dubnoodlesによるミニマルテクノ・グリッチ・エレクトロハウスコンピレーション。
 
-Various – Mod.Cooperate.Two
-
+#### Tracklist
+```md
 A1. Nisios Feat. Mesa Divagadora – Divagadora
 
 A2. Trike – Hotline
@@ -18,8 +18,7 @@ A2. Trike – Hotline
 B1. Metaboman – Witwe Wu
 
 B2. Dubnoodles–Clapcity
-
-Treplecが設立したドイツのテクノレーベルMilnor Modernから2004年にリリースされた、Nisios 、Trike、Metaboman、Dubnoodlesによるミニマルテクノ・グリッチ・エレクトロハウスコンピレーション。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
 

@@ -7,24 +7,7 @@ tags: [ Techno, Anthem, 00s ]
 image: ../assets/images/Samuel L – Day n' Night.jpg
 ---
 
-#### Samuel L – Day n' Night
-
-Samuel L – Day n' Night
-
-Samuel L Session（サミュエルLセッション）
-
-
-A1.Outer Track. Merengue
-
-A2. Inner Track. Merengue (Faze)
-
-B1. Outer Track. Whithin
-
-B2. Inner Track. Black On Black
-
-Samuel Lは、スウェーデンのトライバルテクノDJ・プロデューサー。
-
-「Day n' Night」は自身が運営するSSLより2001年にリリースしたテクノトラック。
+Samuel Lは、スウェーデンのトライバルテクノDJ・プロデューサー。「Day n' Night」は自身が運営するSSLより2001年にリリースしたテクノトラック。
 
 収録曲「Merengue」は、2002年にSlamやOliver Hoによりリミックスされクラブヒットになりました。
 
@@ -37,6 +20,17 @@ Samuel Lは、スウェーデンのトライバルテクノDJ・プロデュー�
 2001年のテクノトラックの中で、まさにミレニアム直後のテクノサウンドで、まっすぐなビートにファンキーな要素が絡み合い、心地よいバスドラム、ブレイクもボーカルもなく、ただひたすら音楽が鳴っています。
 
 このレコードは、テクノ好きを間違いなく最高の一日にしてくれる最高のトラックです。
+
+#### Tracklist
+```md
+A1.Outer Track. Merengue
+
+A2. Inner Track. Merengue (Faze)
+
+B1. Outer Track. Whithin
+
+B2. Inner Track. Black On Black
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
