@@ -24,10 +24,8 @@
         
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
-        
-            {% for category in post.categories %}
+
             {% if post.url != page.url %}
-                {% if page.categories contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
                 {% capture tagmarkup %} {{ category }} {% endcapture %}
                 {% assign commonTags = commonTags | append: tagmarkup %}
