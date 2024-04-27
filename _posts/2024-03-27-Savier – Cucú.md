@@ -7,10 +7,10 @@ tags: [ House, Latin, Euro ]
 image: ../assets/images/Savier – Cucú.jpg
 ---
 
-#### Savier – Cucú
+「Cucú」は、90年代イタリアのラテンハウスアクトSavierによるユーロハウストラック。
 
-Savier – Cucú
-
+#### Tracklist
+```md
 A1. Cucu (Spanish Radio Version)
 
 A2. Cucu (Savier Version)
@@ -18,8 +18,7 @@ A2. Cucu (Savier Version)
 B1. Kuku (English Version)
 
 B2. Cucu (Version Sabrosa)
-
-「Cucú」は、90年代イタリアのラテンハウスアクトSavierによるユーロハウストラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m22577820880?afid=6142608987){: .button1}
 

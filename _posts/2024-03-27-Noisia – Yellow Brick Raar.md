@@ -7,20 +7,7 @@ tags: [ House, Breaks, Electro ]
 image: ../assets/images/Noisia – Yellow Brick Raar.jpg
 ---
 
-#### Noisia – Yellow Brick / Raar
-
-Noisia – Yellow Brick / Raar
-
-ノイジア
-
-a. Yellow Brick
-
-aa. Raar
-
-
-
-
-Noisiaは、2022年に解散したオランダのドラムンベーストリオ。ドラムンベース、ハウス、ブレイク、エレクトロニックサウンドなど幅広い音楽を制作しており、2014年にはももいろクローバーZの『猛烈宇宙交響曲・第七楽章「無限の愛」（Emperor Style）』に収録されているLOST CHILDのremixも手がけた。
+Noisia（ノイジア）は、2022年に解散したオランダのドラムンベーストリオ。ドラムンベース、ハウス、ブレイク、エレクトロニックサウンドなど幅広い音楽を制作しており、2014年にはももいろクローバーZの『猛烈宇宙交響曲・第七楽章「無限の愛」（Emperor Style）』に収録されているLOST CHILDのremixも手がけた。
 
 「Yellow Brick / Raar」は、Noisia自身が運営するレーベルDivision Recordingsより2007年にリリースされたブレイク・ハウストラック。
 
@@ -31,6 +18,13 @@ Noisiaは、2022年に解散したオランダのドラムンベーストリオ�
 「Yellow Brick」がシンプルなビートとテンポで抑えめだったのに対し、「Raar」は邪悪なベースと、意図的にずれているように感じる狂ったビートで頭を殴られるような感覚になります。
 
 たとえハウスミュージックが好きでなくても、全てのノイジアファン必聴のレコードです。
+
+#### Tracklist
+```md
+a. Yellow Brick
+
+aa. Raar
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
 

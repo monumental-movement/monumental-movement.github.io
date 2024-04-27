@@ -7,17 +7,14 @@ tags: [ Hard Trance, Trance, 00s ]
 image: ../assets/images/Weirdo – Normalisation.jpg
 ---
 
-#### Weirdo – Normalisation
+UK出身のハードトランスプロデューサーWeirdo（ウィアード）ことDominic Hardingが、イギリスのハードハウス・NRG・ハードトランスのプロデューサーJon Bellが運営するレーベルTinrib Recordingsから2002年にリリースしたハードトランス。
 
-Weirdo – Normalisation
-
-ウィアード
-
+#### Tracklist
+```md
 A. Afterworld
 
 AA. Discotek
-
-UK出身のハードトランスプロデューサーWeirdo（ウィアード）ことDominic Hardingが、イギリスのハードハウス・NRG・ハードトランスのプロデューサーJon Bellが運営するレーベルTinrib Recordingsから2002年にリリースしたハードトランス。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m78644439002?afid=6142608987){: .button1}
 
