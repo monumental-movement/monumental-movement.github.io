@@ -3,9 +3,9 @@ layout: page
 title: Monumental Movement Records
 permalink: /about
 comments: false
-image: ../assets/images/screenshot.jpg
-imageshadow: true
 ---
+
+中古レコード・CD・カセットテープなどをジャンル問わずに取り扱っています。
 
 [ **発送について** ]
 
