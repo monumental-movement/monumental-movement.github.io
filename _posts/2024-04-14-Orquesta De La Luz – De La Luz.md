@@ -7,10 +7,12 @@ tags: [ Salsa, Latin ]
 image: ../assets/images/Orquesta De La Luz – De La Luz.jpg
 ---
 
-#### Orquesta De La Luz – De La Luz
+1990年にリリースされたサルサバンド、オルケスタ・デ・ラ・ルスのデビューアルバム『デ・ラ・ルス』。
 
-オルケスタ・デ・ラ・ルス
+1曲目のSalsa caliente del Japón（日本からの熱いサルサ）は、全米のビルボード誌ラテン・チャートで11週間にわたって1位を獲得した。
 
+#### Tracklist
+```md
 1. Salsa Caliente Del Japon
 
 2. Solo Un Juego
@@ -30,11 +32,7 @@ image: ../assets/images/Orquesta De La Luz – De La Luz.jpg
 9. No Me Lleves Contigo
 
 10. There's Nothing Better Than Love
-
-1990年にリリースされたサルサバンド、オルケスタ・デ・ラ・ルスのデビューアルバム『デ・ラ・ルス』。
-
-1曲目のSalsa caliente del Japón（日本からの熱いサルサ）は、全米のビルボード誌ラテン・チャートで11週間にわたって1位を獲得した。
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
 

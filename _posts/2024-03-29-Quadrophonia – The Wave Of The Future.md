@@ -7,23 +7,7 @@ tags: [ Techno, Break Beat, Hard Techno ]
 image: ../assets/images/Quadrophonia – The Wave Of The Future.jpg
 ---
 
-#### Quadrophonia – The Wave Of The Future
-
-Quadrophonia – The Wave Of The Future
-
-クアドロフォニア
-
-A1. The Wave Of The Future (Large Mix)
-
-A2. The Wave Of The Future (Ryder Mix)
-
-B1. The Wave Of The Future (Xtra Large Mix)
-
-B2. The Wave Of The Future (Medium Mix)
-
-B3. The Wave Of The Future (Small Mix)
-
-Quadrophoniaは、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
+Quadrophonia（クアドロフォニア）は、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
 
 「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
 
@@ -45,6 +29,18 @@ Olivier Abbeloosは了承し、以降T99はデュオとして活動するよう�
 
 余談ですが、アブリーロスの義理の兄弟はOlivier Pietersであり、レコードショップ「ターゲット・レコーズ」の輸入部門でも働いていました。
 
+#### Tracklist
+```md
+A1. The Wave Of The Future (Large Mix)
+
+A2. The Wave Of The Future (Ryder Mix)
+
+B1. The Wave Of The Future (Xtra Large Mix)
+
+B2. The Wave Of The Future (Medium Mix)
+
+B3. The Wave Of The Future (Small Mix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 

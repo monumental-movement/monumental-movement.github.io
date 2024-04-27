@@ -7,10 +7,12 @@ tags: [ Tribal, Soundtrack ]
 image: ../assets/images/Brent Lewis – Earth Tribe Rhythms.jpg
 ---
 
-#### Brent Lewis – Earth Tribe Rhythms
+Brent Lewis(ブレントルイス)は、長年にわたり多くの有名なアーティストと共演しているパーカッショニスト&ドラマー。
 
-ブレント・ルイス
+2曲目Ode to Buckwheatはオリバー・ストーン監督の映画「JFK」のオリジナルサウンドトラックに収録されている。
 
+#### Tracklist
+```md
 1. Doom Tac A Doom
 
 2. Ode To Buckwheat
@@ -30,11 +32,7 @@ image: ../assets/images/Brent Lewis – Earth Tribe Rhythms.jpg
 9. Tribal Consciousness
 
 10. Voodoo You're Mine
-
-Brent Lewis(ブレントルイス)は、長年にわたり多くの有名なアーティストと共演しているパーカッショニスト&ドラマー。
-
-2曲目Ode to Buckwheatはオリバー・ストーン監督の映画「JFK」のオリジナルサウンドトラックに収録されている。
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
 
