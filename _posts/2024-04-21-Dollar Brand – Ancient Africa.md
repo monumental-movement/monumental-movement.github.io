@@ -7,11 +7,9 @@ tags: [ Jazz, African, 70s ]
 image: ../assets/images/Dollar Brand – Ancient Africa.jpg
 ---
 
-ダラー・ブランド – 古代アフリカ
-
 南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
 
-このアルバムは、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
+このアルバム 「ダラー・ブランド – 古代アフリカ」は、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
 
 Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
 
