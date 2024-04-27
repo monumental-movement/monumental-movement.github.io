@@ -388,7 +388,7 @@ img, img:hover {
     }
     .mc-field-group {
         border:1px solid;
-        border-radius:0px;
+        border-radius:2px;
         display:inline-block;
         input[type="email"] {
             padding:4px 10px;
@@ -716,6 +716,7 @@ iframe {
         }
         .mc-field-group input[type="submit"] {
             padding: 4px 10px;
+            border-radius:0px;
         }
     }
 
