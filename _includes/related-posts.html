@@ -7,6 +7,12 @@
     {% endunless %}
     
     <div class="d-flex justify-content-center align-items-center">
+    
+    <!-- Categories -->
+    {% assign sortedCategories = page.categories | sort %}
+    {% for category in sortedCategories %}
+    <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
+    {% endfor %}
 
     <!-- Tags -->  
     {% assign sortedTags = page.tags | sort %}
@@ -16,7 +22,7 @@
 
     </div>
 
-    {% assign maxRelated = 3 %}
+    {% assign maxRelated = 6 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
     <div class="blog-grid-container">
@@ -24,9 +30,12 @@
         
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
-
+        
+            {% for category in post.categories %}
             {% if post.url != page.url %}
+                {% if page.categories contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} {{ category }} {% endcapture %}
                 {% assign commonTags = commonTags | append: tagmarkup %}
                 {% endif %}
             {% endif %}
