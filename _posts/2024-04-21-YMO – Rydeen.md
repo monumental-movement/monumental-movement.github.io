@@ -12,7 +12,7 @@ Yellow Magic Orchestra（YMO）が1980年にレーベルAlfaからリリース�
 ジャケットデザインは、デヴィッド・ボウイ、ポリス、B-52's などのアーティストや音楽グループのアルバムカバーデザインで有名なMick Haggerty（ミック・ハガティー）。
 
 #### Tracklist
-```math
+```md
 A.  Rydeen（ライディーン）
 Arranged By – イエロー・マジック・オーケストラ
 Composed By – 高橋ユキヒロ
