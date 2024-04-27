@@ -7,21 +7,16 @@ tags: [ Techno, Tech Trance ]
 image: ../assets/images/Quartz – The Calling EP.jpg
 ---
 
-#### Quartz – The Calling EP
+Quartz[クオーツ] (Adriano Filippucci)はイタリアのDJ・プロデューサー。The Callingは2002年にモントリオールに拠点を置くテックトランスレーベルAscend Recordingsからリリースされたテクノトラック。
 
-クオーツ
-
+#### Tracklist
+```md
 A. Calling
 
 B1. Origin
 
 B2. Felix
-
-盤質〓 VG
-ジャケット〓 VG
-
-Quartz (Adriano Filippucci)はイタリアのDJ・プロデューサー。The Callingは2002年にモントリオールに拠点を置くテックトランスレーベルAscend Recordingsからリリースされたテクノトラック。
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m34400004897?afid=6142608987){: .button1}
 

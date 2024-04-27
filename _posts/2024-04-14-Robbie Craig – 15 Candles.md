@@ -7,23 +7,18 @@ tags: [ House, UK Garage ]
 image: ../assets/images/Robbie Craig – 15 Candles.jpg
 ---
 
-#### Robbie Craig – 15 Candles
-
-
-Robbie Craig – 15 Candles / L.O.V.E. Feeling
-
-ロビー・クレイグ
-
-A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
-
-AA. L.O.V.E. Feeling (Spread Luv Project Remix)
-
 「15 Candles / L.O.V.E. Feeling」は、East17のヴォーカル（2014年〜）Robbie Craig（ロビークレイグ）によるUKガラージトラック。
 
 700枚限定のプロモ盤。
 
 A面はUKガラージアーティストLaurence BagnallとStanton Warriorsのメンバーであり、UKガラージ・ハウス・ベースミュージックのプロデューサーMark Yardleyによるremix。
 
+#### Tracklist
+```md
+A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
+
+AA. L.O.V.E. Feeling (Spread Luv Project Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
 

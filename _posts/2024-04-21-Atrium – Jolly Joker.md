@@ -7,9 +7,7 @@ tags: [ Euro, Hi NRG, 90s ]
 image: ../assets/images/Atrium – Jolly Joker.jpg
 ---
 
-アトリウム – ジョリー・ジョーカー
-
-Atriumは、イタロ・ディスコ/ユーロビート・プロジェクト。
+Atrium(アトリウム)は、イタロ・ディスコ/ユーロビート・プロジェクト。
 
 年代毎でヴォーカルが変わり、Jolly Joker（ジョリージョーカー）は、Giancarlo Pasquini （ジャンカルロ・パスクイーニ / Dave Rodgersデイヴ・ロジャース）がAtriumとして歌った唯一の曲。
 
