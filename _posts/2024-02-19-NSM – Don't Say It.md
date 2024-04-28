@@ -7,12 +7,14 @@ tags: [ Down Tempo, Broken Beat, 00s ]
 image: ../assets/images/NSM – Don't Say It.jpg
 ---
 
-#### NSM – Don't Say It
+NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
 
-NSM – Don't Say It / Ian Grant
+A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
 
-（イアン・グラント/IG Culture）
+NSM（New Sector Movements/ニュー・セクター・ムーヴメンツ）は、準グループのような存在で、メンバーは西ロンドンのブロークンビート・コミュニティ出身者を中心に流動的で、これまでに参加したメンバーには、カイディ・タタム（エイジェントK名義）、ジュリー・デクスター、ベンベ・セゲ、エスカ・ムトゥングワジ、エリック・アッパポウレイ（ murky waters名義）、弦楽デュオのチックス・ウィズ・スティックス（イジー・ダン & ステラ・ペイジ）、そして元バックショット・レフォンケのメンバー、フランク・マッコムなどがいます。
 
+#### Tracklist
+```md
 A1. Don't Say It　
 Vocals – Eska
 
@@ -23,12 +25,7 @@ Vocals – Cécile
 
 B2. Soon Come
 Vocals – Eska
-
-NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
-
-A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
-
-NSM（New Sector Movements/ニュー・セクター・ムーヴメンツ）は、準グループのような存在で、メンバーは西ロンドンのブロークンビート・コミュニティ出身者を中心に流動的で、これまでに参加したメンバーには、カイディ・タタム（エイジェントK名義）、ジュリー・デクスター、ベンベ・セゲ、エスカ・ムトゥングワジ、エリック・アッパポウレイ（ murky waters名義）、弦楽デュオのチックス・ウィズ・スティックス（イジー・ダン & ステラ・ペイジ）、そして元バックショット・レフォンケのメンバー、フランク・マッコムなどがいます。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
 

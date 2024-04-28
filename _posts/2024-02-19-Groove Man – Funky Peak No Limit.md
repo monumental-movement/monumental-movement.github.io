@@ -7,17 +7,16 @@ tags: [ House, French House, 00s ]
 image: ../assets/images/Groove Man – Funky Peak No Limit.jpg
 ---
 
-#### Groove Man – Funky Peak No Limit
+コロンビア出身のDJ / プロデューサーGroove Manが2005年にフレンチハウスレーベルVector Recordsからリリースしたハウストラック。
 
-Groove Man – Funky Peak / No Limit
-
+#### Tracklist
+```md
 A. Funky Peak
 
 B1. No Limit
 
 B2. Groove Bits
-
-コロンビア出身のDJ / プロデューサーGroove Manが2005年にフレンチハウスレーベルVector Recordsからリリースしたハウストラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m13343014810?afid=6142608987){: .button1}
 
