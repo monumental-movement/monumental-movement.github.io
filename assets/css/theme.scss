@@ -672,55 +672,13 @@ iframe {
     .posttitle {
         font-size:18px;
     }
-
-.blog-grid-container {
+    .blog-grid-container {
     width: auto;
     margin: 50px auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-template-rows: 1fr;
-    grid-gap: 30px;
-}
-.blog-grid-item {  
-    color: #333;
-    padding: 0;
-    display: flex;
-    align-items:center;
-    .author-thumb {
-        width:40px;
-        border-radius:50%;
-        margin-right: 7px;
-    }
-    .card {
-        border:0;
-        &:hover {           
-           .card-title a { 
-                background-size: 100% 100%;
-            }
-        }
-    }
-
-
-    .firstpage {
-    .blog-grid-item:nth-child(1) {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        grid-row-start: 1;
-        grid-row-end: 3;
-        flex-direction: column;  
-        align-items: flex-start;
-        font-size: 0.8em;
-        padding:0;
-        .card-title {
-            font-size:18px;
-        }
-        .img-thumb {
-            object-fit:cover;
-            height:400px;
-            width:auto;
-            object-position:top;
-        }
-    }
+    font-size: 5px;
     }
     .newsletter {
         span.h4 {
