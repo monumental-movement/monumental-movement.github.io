@@ -672,36 +672,27 @@ iframe {
     .posttitle {
         font-size:18px;
     }
-
-    .firstpage {
-    .blog-grid-item:nth-child(1) {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        grid-row-start: 1;
-        grid-row-end: 3;
-        flex-direction: column;  
-        align-items: flex-start;
-        font-size: 0.8em;
-        padding:0;
-        .card-title {
-            font-size:18px;
-        }
-        .img-thumb {
-            object-fit:cover;
-            height:400px;
-            width:auto;
-            object-position:top;
-        }
-    }
-    }
+  }
     .blog-grid-container {
-    width: auto;
-    margin: 50px auto;
-    display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    font-size: 5px;
+
+
     }
+    .firstpage .blog-grid-item:nth-child(1) {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+    .blog-grid-item .img-thumb, 
+    .firstpage .blog-grid-item:nth-child(1) .img-thumb, 
+    .firstpage .blog-grid-item:nth-child(2) .img-thumb, 
+    .firstpage .blog-grid-item:nth-child(3) .img-thumb {
+        height:auto;
+    }
+    .newsletter {
+        span.h4 {
+            font-size: 20px;
     .newsletter {
         span.h4 {
             font-size: 16px;
