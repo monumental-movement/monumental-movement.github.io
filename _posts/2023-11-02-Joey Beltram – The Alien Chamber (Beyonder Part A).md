@@ -9,15 +9,14 @@ rating: 3.5
 v-rating: 3G
 ---
 
-#### Joey Beltram – The Alien Chamber (Beyonder Part A)
-
-ジョイ・ベルトラム
-
-A. The Alien Chamber (Beyonder Part A)
-
 2006年にレーベル「STX Records」からリリースされたJoey BeltramによるEPです。
 
 このトラックは、ジョイ・ベルトラムらしい典型的な作品で、重いベースライン、ナイスなオールドスクール・パーカッション、グルーヴ感がすべて詰まっています。
+
+#### Tracklist
+```md
+A. The Alien Chamber (Beyonder Part A)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m50569703435?afid=6142608987){: .button1}
 

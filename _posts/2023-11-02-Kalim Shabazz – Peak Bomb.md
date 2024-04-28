@@ -7,18 +7,17 @@ tags: [ House, Minimal ]
 image: ../assets/images/Kalim Shabazz – Peak Bomb.jpg
 ---
 
-#### Kalim Shabazz – Peak Bomb
-
-カリムシャバズ
-
-A. Peak Bomb (Original Mix)
-
-B. Peak Bomb (Phonique Remix)
-
 Kalim Shabazz（カリム・シャバズ）は、ニューヨークを拠点とするDJ兼プロデューサー。Nick Jones（ニック ジョーンズ）と共にSoul Movement
 （Moments Of Soul）としても活動。
 
 B面は、ドイツ出身でベルリンを拠点に活動するハウスDJ/プロデューサー Phonique(フォニック）ことMichael Vaterによるremix。
+
+#### Tracklist
+```md
+A. Peak Bomb (Original Mix)
+
+B. Peak Bomb (Phonique Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m35106793909?afid=6142608987){: .button1}
 

@@ -7,10 +7,10 @@ tags: [ Techno, Detroit Techno, Tribal ]
 image: ../assets/images/M – More Drama.jpg
 ---
 
-#### M – More Drama
+ 「"M" – More Drama」は、1992年にJeff Mills（ジェフ・ミルズ）が設立したテクノレーベルAxisから「M」名義でリリースしたJeff Millsのテクノトラック。
 
-ジェフ・ミルズ
-
+#### Tracklist
+```md
 A1. Scenario
 
 A2. Switchblade
@@ -18,8 +18,7 @@ A2. Switchblade
 B1. The Fuzz (Loophole Mix)
 
 B2. Getaway
-
- 「"M" – More Drama」は、1992年にJeff Mills（ジェフ・ミルズ）が設立したテクノレーベルAxisから「M」名義でリリースしたJeff Millsのテクノトラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 

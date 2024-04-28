@@ -7,10 +7,12 @@ tags: [ Techno, Detroit Techno, Tribal ]
 image: ../assets/images/Jeff Mills – Very EP.jpg
 ---
 
-#### Jeff Mills – Very EP
+このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。
 
-ジェフミルズ
+暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
 
+#### Tracklist
+```md
 A1. Cobolt
 
 A2. Untitled
@@ -20,11 +22,7 @@ B1. Cometh
 B2. Untitled
 
 B3. Untitled
-
-
-このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。
-
-暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 

@@ -7,20 +7,19 @@ tags: [ Trance, 00s ]
 image: ../assets/images/Hiroyuki Oda – Rise Cataract.jpg
 ---
 
-#### Hiroyuki Oda – Rise / Cataract
-
-ヒロユキ オダ
-
-A. Rise
-
-B. Cataract
-
 Hiroyuki Oda（ヒロユキ オダ）こと、かんざきひろ (Hiro Kanzaki)
 はクラブミュージッククリエイター兼アニメーター。
 
 「Rise / Cataract」は、2007年にオランダ出身のトランスDJ/プロデューサーArmin van Buuren（アーミン ヴァン ブーレン）が運営するArmada MusicのサブレーベルA State Of Tranceよりリリースされたトランストラック。
 
 イラストレーターとしては伏見つかさ著のライトノベル『俺の妹がこんなに可愛いわけがない』などの挿絵を手がけ、ミュージシャンとしては、Sevensenses recordingsやOtographic Musicからも作品を多数リリースしている。
+
+#### Tracklist
+```md
+A. Rise
+
+B. Cataract
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m40856782360?afid=6142608987){: .button1}
 

@@ -7,16 +7,6 @@ tags: [ Techno, Tech House ]
 image: ../assets/images/Hiroki Esashika – Kazane.jpg
 ---
 
-#### Hiroki Esashika – Kazane
-
-ヒロキエサシカ
-
-A1. Kazane (Kazane Original Mix)
-
-A2. Kazane (Sébastien Léger's Psyché Remix)
-
-B1. Kazane (Superchumbo Remix)
-
 Hiroki Esashika(ヒロキ・エサシカ)は、90年代から活動する日本のテクノミュージシャン・DJ。
 
 2000年から2007年までは、札幌のクラブPLASTIC THEATERでDJ TANAKAと共にTECHNO PARTY "ORANGE"を主催していた。
@@ -26,6 +16,15 @@ Hiroki Esashika(ヒロキ・エサシカ)は、90年代から活動する日本�
 A面２曲目は、フランス出身のエレクトロミュージックアーティストSebastien Leger（セバスチャン レジェ）によるremix。
 
 B面は、Superchumboことニューヨーク出身のハウスDJ/プロデューサーTom Stephanによるremix。
+
+#### Tracklist
+```md
+A1. Kazane (Kazane Original Mix)
+
+A2. Kazane (Sébastien Léger's Psyché Remix)
+
+B1. Kazane (Superchumbo Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m57660388383?afid=6142608987){: .button1}
 

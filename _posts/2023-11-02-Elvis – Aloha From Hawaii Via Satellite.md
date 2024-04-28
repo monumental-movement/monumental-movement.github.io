@@ -7,10 +7,14 @@ tags: [ Rock, 70s ]
 image: ../assets/images/Elvis – Aloha From Hawaii Via Satellite.jpg
 ---
 
-#### Elvis – Aloha From Hawaii Via Satellite
+Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
 
-エルヴィス・プレスリー
+録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
 
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
+
+#### Tracklist
+```md
 A1. Introduction: Also Sprach Zarathustra
 
 A2. See See Rider
@@ -58,13 +62,7 @@ D3. An American Triology
 D4. A Big Hunk O' Love
 
 D5. Can't Help Falling In Love
-
-
-1973年ハワイ公演のライブアルバム - 日本独自編集盤です。
-
-録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
-
-このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 

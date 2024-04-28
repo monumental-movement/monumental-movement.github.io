@@ -7,10 +7,14 @@ tags: [ Fusion, Jazz, Rock ]
 image: ../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.jpg
 ---
 
-#### Mahavishnu Orchestra – Between Nothingness & Eternity
+1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
 
-マハヴィシュヌ・オーケストラ –虚無からの飛翔
+バンドは1973年12月に一旦解散したため、このアルバムがオリジナルメンバーによる最後のアルバムとなった。
 
+この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
+
+#### Tracklist
+```md
 A1. Trilogy 悲の3部曲
 
 ・The Sunlit Path 輝ける径
@@ -20,13 +24,7 @@ A1. Trilogy 悲の3部曲
 A2. Sister Andrea シスター・アンドレア
 
 B. Dream ドリーム
-
-1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
-
-バンドは1973年12月に一旦解散したため、このアルバムがオリジナルメンバーによる最後のアルバムとなった。
-
-この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 

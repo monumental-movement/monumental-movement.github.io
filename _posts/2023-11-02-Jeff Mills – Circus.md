@@ -7,14 +7,6 @@ tags: [ Techno, Detroit Techno, Tribal ]
 image: ../assets/images/Jeff Mills – Circus.jpg
 ---
 
-#### Jeff Mills – Circus
-
-ジェフ・ミルズ
-
-A. Circus (The Greatest Show On Earth Mix)
-
-B. Circus (The Big Finale Mix)
-
 
 ジェフ・ミルズ (「ザ・ウィザード」としても知られる) は、アメリカを代表するテクノミュージックの先駆者の一人です。
 
@@ -23,6 +15,13 @@ B. Circus (The Big Finale Mix)
 デトロイトが生んだ才能あるアーティストの一員として、世界中のクラブやアートスペースで演奏を行い、国際的な評価を得ています。
 
 また、自身のレーベル「Axis」とそのサブレーベルを運営しています。
+
+#### Tracklist
+```md
+A. Circus (The Greatest Show On Earth Mix)
+
+B. Circus (The Big Finale Mix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 

@@ -7,16 +7,6 @@ tags: [ Techno, US Techno ]
 image: ../assets/images/Joey Beltram – Game Form.jpg
 ---
 
-#### Joey Beltram – Game Form
-
-ジョイ・ベルトラム
-
-A. Game Form
-
-B1. Game Form (Robert Armani Remix)
-
-B2. Game Form (Mike Dearborn Remix)
-
 B面１曲目は、USのDJ 兼プロデューサーRobert Armani（ロバート・アルマーニ）のremix。B面２曲目は、シカゴ出身でMajesty RecordingsのオーナーMike Dearborn（マイク・ディアボーン）のremix。
 
 
@@ -31,6 +21,15 @@ B面１曲目は、USのDJ 兼プロデューサーRobert Armani（ロバート�
 90年代を通して、彼は当時の最先端レーベルで、今も色褪せない音楽を作り続けてきました。
 
 そして、1999年には、現在JB³とJoey Beltramの両方でレコーディングを行っている自身のレーベル「STX Records」を設立しました。
+
+#### Tracklist
+```md
+A. Game Form
+
+B1. Game Form (Robert Armani Remix)
+
+B2. Game Form (Mike Dearborn Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 

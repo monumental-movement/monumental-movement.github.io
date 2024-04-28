@@ -7,19 +7,6 @@ tags: [ Techno, Detroit Techno ]
 image: ../assets/images/Jeff Mills – Lifelike E.P.jpg
 ---
 
-#### Jeff Mills – Lifelike E.P
-
-ジェフ・ミルズ
-
-A1. Condor To Mallorca
-
-A2. Time After Space
-
-B1. Detached
-
-B2. Black Avenger
-
-
 ジェフ・ミルズによる「Condor To Mallorca」は、まさにタイトルが示す通り、神秘的なトリップ感を感じるトラックで、最初はカリプソ調のリズムプログラムに後押しされたインスピレーション溢れる鍵盤の響きが、キックドラムへと収束していきます。
 
 そして、ストリングスの要素が入ると、トラックはより不穏な様相を帯びてきます。
@@ -32,6 +19,16 @@ B2. Black Avenger
 
 ジェフ・ミルズの作品における幅広いテーマの多くを網羅しつつ、個々の楽曲が持つユニークで強力な結果を損なうことなく表現している特別なレコードなのでジェフ・ミルズファン必携の一枚。
 
+#### Tracklist
+```md
+A1. Condor To Mallorca
+
+A2. Time After Space
+
+B1. Detached
+
+B2. Black Avenger
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 

@@ -7,10 +7,12 @@ tags: [ Jazz, Funk ]
 image: ../assets/images/Deodato – Prelude.jpg
 ---
 
-#### Deodato – Prelude
+デオダート名義として、1973年CTIレーベルからリリースしたアルバム『ツァラトゥストラはかく語りき』の1978年Reissue。
 
-デオダート – ツァラトゥストラはかく語りき
+このアルバムは、クラシック作品をエレクトリック・ジャズにアレンジし、「ツァラトゥストラはかく語りき」は最も有名な初期クロスオーバー/フュージョンの一曲として知られている。
 
+#### Tracklist
+```md
 A1. Also Sprach Zarathustra
 
 A2. Spirit Of Summer
@@ -22,10 +24,7 @@ B1. Baubles, Bangles And Beads
 B2. Prelude To Afternoon Of A Faun
 
 B3. September 13
-
-デオダート名義として、1973年CTIレーベルからリリースしたアルバム『ツァラトゥストラはかく語りき』の1978年Reissue。
-
-このアルバムは、クラシック作品をエレクトリック・ジャズにアレンジし、「ツァラトゥストラはかく語りき」は最も有名な初期クロスオーバー/フュージョンの一曲として知られている。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 
