@@ -712,7 +712,8 @@ iframe {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
     font-size: 5px;
-    overflow: hidden;
+    row-gap: 20px;
+column-gap: 20px;
     }
     .newsletter {
         span.h4 {
