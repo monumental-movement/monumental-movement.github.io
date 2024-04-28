@@ -9,6 +9,7 @@ image: ../assets/images/Fresh Lab – Afrodisiacs EP.jpg
 
 Afrodisiacs EPは、1995年にフランスのレーベル「Yellow Productions」からリリースされたJeff Flambeau & Stéphane Dupoupによるユニット「Fresh Lab」のEPです。
 
+#### Tracklist
 ```md
 A. L'Angoisse
 
