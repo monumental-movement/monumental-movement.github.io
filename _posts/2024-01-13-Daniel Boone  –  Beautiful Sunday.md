@@ -7,17 +7,16 @@ tags: [ Nostalgic, 7inch, Pops ]
 image: ../assets/images/Daniel Boone  –  Beautiful Sunday.jpg
 ---
 
-#### Daniel Boone  –  Beautiful Sunday
+Daniel Boone(ダニエル　ブーン)は、イギリス出身のシンガーソングライター。
 
-ダニエル・ブーン – ビューティフル・サンデー
+「Beautiful Sunday（ビューティフルサンデー）」は世界的な大ヒットとなった。日本では、おはよう720(TBS系列)のコーナー、キャラバンIIのテーマ曲として知られ、田中星児によるカヴァー曲もヒットした。
 
+#### Tracklist
+```md
 A. Beautiful Sunday (ビューティフルサンデー)
 
 B. Sleepy Head (スリーピー・ヘッド)
-
-Daniel Boone(ダニエル　ブーン)は、イギリス出身のシンガーソングライター。
-
-「Beautiful Sunday」は世界的な大ヒットとなった。日本では、おはよう720(TBS系列)のコーナー、キャラバンIIのテーマ曲として知られ、田中星児によるカヴァー曲もヒットした。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m26206683397?afid=6142608987){: .button1}
 

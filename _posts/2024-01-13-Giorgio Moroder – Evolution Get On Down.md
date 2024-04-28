@@ -7,20 +7,7 @@ tags: [ House, Disco ]
 image: ../assets/images/Giorgio Moroder – Evolution Get On Down.jpg
 ---
 
-#### Giorgio Moroder – Evolution Get On Down
-
-Jerome Isma-Ae & Woodbay 
-Giorgio Moroder – Evolution / Get On Down
-
-Best of Giorgio Moroder Tribute Project
-
-A. Jerome Isma-Ae & Woodbay – Get On Down (inyourfacemix)
-Written-By, Producer – Florian Holzinger, Jerome Isma-Ae
-
-AA. Giorgio Moroder – Evolution (Roger Sanchez Extraterrestrial Mix)
-Remix – Roger Sanchez
-Written-By, Producer [Original Production] – Giorgio Moroder
-
+Giorgio Moroderトリビュートプロジェクトのレコードです。
 
 Jerome Isma-Ae（ジェローム・イスマ・エー）は、ドイツのミュンヘン出身でトランス/テクノ/プログレッシブハウスのDJです。
 
@@ -34,6 +21,17 @@ Giorgio Moroder（本名: ジョヴァンニ・ジョルジオ・モロダー [G
 イタリア出身のミュージシャンとして作曲家、編曲家、プロデューサー、パフォーマー、DJ。エレクトロニックミュージックとディスコミュージックにおける最も革新的で影響力のある人物の一人として称えられています。
 
 オアシス・レーベルとミュージックランド・スタジオを設立し、1970年代には、ミュンヘンサウンド (しばしば、後に登場するイタロ・ディスコと混同されます)を生み出し、ドナ・サマーやロベルタ・ケリーとの象徴的な作品を世に送り出しました。
+
+
+#### Tracklist
+```md
+A. Jerome Isma-Ae & Woodbay – Get On Down (inyourfacemix)
+Written-By, Producer – Florian Holzinger, Jerome Isma-Ae
+
+AA. Giorgio Moroder – Evolution (Roger Sanchez Extraterrestrial Mix)
+Remix – Roger Sanchez
+Written-By, Producer [Original Production] – Giorgio Moroder
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
 

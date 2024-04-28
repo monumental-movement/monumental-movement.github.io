@@ -7,17 +7,7 @@ tags: [ Rock, Pops ]
 image: ../assets/images/Band Aid – Do They Know It's Christmas.jpg
 ---
 
-#### Band Aid – Do They Know It's Christmas
-
-バンドエイド – ドゥ・ゼイ・ノウ・イッツ・クリスマス?
-
-A. Do They Know It's Christmas? (12" Mix)
-
-B1. Do They Know It's Christmas? (Standard Mix)
-
-B2. Feed The World
-
-Band Aidは、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。
+Band Aid（バンドエイド）は、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。
 
  【参加アーティスト】は以下の通りです。
 
@@ -65,6 +55,14 @@ Band Aidは、エチオピアの飢餓撲滅活動への資金を集めるため
 
 ・トレヴァー・ホーン
 
+#### Tracklist
+```md
+A. Do They Know It's Christmas? (12" Mix)
+
+B1. Do They Know It's Christmas? (Standard Mix)
+
+B2. Feed The World
+```
 [メルカリで購入](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
 

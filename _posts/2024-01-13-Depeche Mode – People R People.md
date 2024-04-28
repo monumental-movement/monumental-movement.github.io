@@ -7,17 +7,14 @@ tags: [ House, Rare, New-Wave ]
 image: ../assets/images/Depeche Mode – People R People.jpg
 ---
 
-#### Depeche Mode – People R People
+Depeche Mode（デペッシュモード）「People Are People」をB&BことBastone & Burnz（フレディ・バストン＆ジェフリー・バーンスタイン）がハウスremix。1999年リリース。
 
-デペッシュモード
-
-remixe- Bastone & Burnz
-
+#### Tracklist
+```md
 A. People Are People
 
 B. People Are People (Dub)
-
-Depeche Mode（デペッシュモード）「People Are People」をB&BことBastone & Burnz（フレディ・バストン＆ジェフリー・バーンスタイン）がハウスremix。1999年リリース。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m76377444450?afid=6142608987){: .button1}
 

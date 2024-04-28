@@ -7,25 +7,9 @@ tags: [ Jazz, Smooth Jazz, 70s ]
 image: ../assets/images/Friendship – Friendship.jpg
 ---
 
-#### Friendship – Friendship
-
-フレンドシップ
-
-A1. Bullet Train
-
-A2. Tighten Up
-
-A3. The Situation
-
-A4. Let's Not Talk About It
-
-B1. Here Today Hear Tomorrow
-
-B2. Waterwings
-
-B3. The Real Thing
-
-Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペス・ラボーリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作されたジャズファンクアルバム。1979年リリース。
+Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペス・ラボーリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作された
+Friendship（フレンドシップ）
+によるジャズファンクアルバム。1979年リリース。
 
 Abraham Laborielは、メキシコ人ベーシストで1947年7月17日にメキシコシティで生まれました。
 
@@ -49,6 +33,22 @@ Abraham Laborielは、メキシコ人ベーシストで1947年7月17日にメキ
 
 ロサンゼルス支部グラミー賞主催団体 (NARAS) の会員による投票では、3年連続で「ベース部門の最優秀者 (Most Valuable Player)」に選ばれ、レイ・ブラウンやチャック・ドーマンニコに続く栄誉に輝きました。
 
+#### Tracklist
+```md
+A1. Bullet Train
+
+A2. Tighten Up
+
+A3. The Situation
+
+A4. Let's Not Talk About It
+
+B1. Here Today Hear Tomorrow
+
+B2. Waterwings
+
+B3. The Real Thing
+```
 [メルカリで購入](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
 
 

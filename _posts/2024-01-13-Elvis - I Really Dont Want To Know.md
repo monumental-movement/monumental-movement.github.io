@@ -7,19 +7,18 @@ tags: [ Rock, Nostalgic, 7inch ]
 image: ../assets/images/Elvis - I Really Don't Want To Know.jpg
 ---
 
-#### Elvis - I Really Don't Want To Know
-
-エルヴィス・プレスリー – 知りたくないの
-
-A. I Really Don't Want To Know (知りたくないの)
-
-B. There Goes My Everything (淋しき足音)
-
-「I Really Don't Want To Know」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。
+「I Really Don't Want To Know（知りたくないの）」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。
 
 これまでに、レス・ポール&メリー・フォード、アンディ・ウィリアムス、エディ・アーノルド、ジョニー・ロドリゲス、トミー・エドワーズ、ロニー・ドーヴ、ジェイソン&ザ・スコーチャーズ、アン・マレー、ジェリー・リー・ルイスなど多くのアーティストがカヴァーしている。
 
 この、ElvisヴァージョンはRCAビクターより1971年にリリースされた。
+
+#### Tracklist
+```md
+A. I Really Don't Want To Know (知りたくないの)
+
+B. There Goes My Everything (淋しき足音)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
