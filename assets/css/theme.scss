@@ -673,13 +673,13 @@ iframe {
         font-size:18px;
     }
 .blog-grid-container {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
-        grid-column-end: 2;
+        grid-column-end: 3;
         grid-row-start: 1;
-        grid-row-end: 2;
+        grid-row-end: 6;
     }
     .blog-grid-item .img-thumb, 
     .firstpage .blog-grid-item:nth-child(1) .img-thumb, 
