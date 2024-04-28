@@ -671,12 +671,9 @@ iframe {
 @media (max-width: 768px) {
     .posttitle {
         font-size:18px;
-    }
   }
     .blog-grid-container {
     grid-template-columns: 1fr;
-
-
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
