@@ -673,7 +673,7 @@ iframe {
 .firstpage {
     .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
-        grid-column-end: 2;
+        grid-column-end: 3;
         grid-row-start: 1;
         grid-row-end: 2;
         flex-direction: column;  
@@ -681,7 +681,7 @@ iframe {
         font-size: 1em;
         padding:0;
         .card-title {
-            font-size:28px;
+            font-size:18px;
         }
         .img-thumb {
             object-fit:cover;
@@ -712,6 +712,7 @@ iframe {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
     font-size: 5px;
+    overflow: hidden;
     }
     .newsletter {
         span.h4 {

@@ -7,8 +7,6 @@ tags: [ Hiphop, R&B, Remix ]
 image: ../assets/images/Sisqo – Thong Song (Remix).jpg
 ---
 
-#### Sisqo – Thong Song (Remix)
-
 Sisqo（シスコ）[ マーク・アンドリュース プロフィール ]は、東ボルチモアのメリーランド州出身R&B シンガー。
 
 幼少期から教会で歌い始め、音楽への情熱を育み、高校卒業後、メリーランド大学カレッジパーク校に進学し、音楽と心理学を専攻。
