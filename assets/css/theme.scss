@@ -671,9 +671,9 @@ iframe {
 @media (max-width: 768px) {
     .posttitle {
         font-size:18px;
-  }
-    .blog-grid-container {
-    grid-template-columns: 1fr;
+    }
+.blog-grid-container {
+        grid-template-columns: 1fr;
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
@@ -687,9 +687,6 @@ iframe {
     .firstpage .blog-grid-item:nth-child(3) .img-thumb {
         height:auto;
     }
-    .newsletter {
-        span.h4 {
-            font-size: 20px;
     .newsletter {
         span.h4 {
             font-size: 16px;
