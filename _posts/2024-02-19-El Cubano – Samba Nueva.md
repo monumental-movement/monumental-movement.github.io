@@ -7,12 +7,10 @@ tags: [ Samba, Latin, Euro House ]
 image: ../assets/images/El Cubano – Samba Nueva.jpg
 ---
 
-#### El Cubano – Samba Nueva
+El Cubano（エル・クバノ）によるSamba Nueva（サンバ・ヌエバ）は、イタリアのレーベル「Muzic Without Control Records」から1998年にリリースされたラテン・ユーロハウスのトラックです。
 
-El Cubano – Samba Nueva
-
-エル・クバノ – サンバ・ヌエバ
-
+#### Tracklist
+```md
 A1. Samba Nueva (Partido Alto Mix)
 
 A2. Samba Nueva (Running In The Wind)
@@ -20,8 +18,7 @@ A2. Samba Nueva (Running In The Wind)
 B1. Samba Nueva (Double S Mix)
 
 B2. Samba Nueva (Partido Alto Radio Edit)
-
-El CubanoによるSamba Nuevaは、イタリアのレーベル「Muzic Without Control Records」から1998年にリリースされたラテン・ユーロハウスのトラックです。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m33632714433?afid=6142608987){: .button1}
 

@@ -7,15 +7,18 @@ tags: [ Euro, Euro House, UK Techno ]
 image: ../assets/images/DNA – Rebel Woman.jpg
 ---
 
-#### DNA – Rebel Woman
+DNAは、UKダンスミュージックプロデューサーでありNick Batt（ニック・バット）とNeal Slateford（ニール・スレートフォード）のデュオ。
 
+2人は1990年にSuzanne Vega（スザンヌ・ヴェガ）の「Tom's Diner」のリミックスを発表したことでよく知られています。
+
+#### Tracklist
+```md
 A. Rebel Woman (PWL Remix)
 
 B1. La Serenissima (Extended Mix)
 
 B2. DNA Theme (Edit)
-
-DNAは、UKダンスミュージックプロデューサーでありNick Batt（ニック・バット）とNeal Slateford（ニール・スレートフォード）のデュオ。２人は1990年にSuzanne Vega（スザンヌ・ヴェガ）の「Tom's Diner」のリミックスを発表したことでよく知られています。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m61194350312?afid=6142608987){: .button1}
 

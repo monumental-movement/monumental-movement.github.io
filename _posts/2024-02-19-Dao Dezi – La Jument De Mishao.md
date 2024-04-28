@@ -7,17 +7,16 @@ tags: [ Euro, Euro House ]
 image: ../assets/images/Dao Dezi – La Jument De Mishao.jpg
 ---
 
-#### Dao Dezi – La Jument De Mishao
-
-エリックムーケ
-
-A. La Jument De Mishao (Extended Mix)
-
-B. La Jument De Mishao (Club Mix)
-
 Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。
 
 この「La Jument De Mishao」は、1994年にイタリアのレーベルGFB Recordsからリリースされました。
+
+#### Tracklist
+```md
+A. La Jument De Mishao (Extended Mix)
+
+B. La Jument De Mishao (Club Mix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 

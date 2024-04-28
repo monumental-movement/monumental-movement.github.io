@@ -7,10 +7,12 @@ tags: [ House, UK House, 90s ]
 image: ../assets/images/Definition Of Sound – Moira Jane's Café.jpg
 ---
 
-#### Definition Of Sound – Moira Jane's Café
+Definition Of Sound（デフィニションオブサウンド）はロンドンを拠点とするDonald WeekesとKevin Clarkによるダンスミュージックグループ。
 
-デフィニション・オブ・サウンド
+1992年にリリースされた４枚目のシングル「Moira Jane's Café」は、英国だけでなく世界中でヒットしたハウストラック。
 
+#### Tracklist
+```md
 A1.Moira Jane's Café (Live Version)
 
 A2.Moira Jane's Café (LP Version)
@@ -22,10 +24,7 @@ B1.Moira Jane's Café (E-Smoove's Groovy Mix)
 B2.Moira Jane's Café (Maurice's House Mix)
 
 B3.Moira Jane's Café (Aw Shucks Dub)
-
-Definition Of Sound（デフィニションオブサウンド）はロンドンを拠点とするDonald WeekesとKevin Clarkによるダンスミュージックグループ。
-
-1992年にリリースされた４枚目のシングル「Moira Jane's Café」は、英国だけでなく世界中でヒットしたハウストラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 

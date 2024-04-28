@@ -7,16 +7,6 @@ tags: [ House, Break Beat, 00s ]
 image: ../assets/images/Armand Van Helden – Koochy.jpg
 ---
 
-#### Armand Van Helden – Koochy
-
-Armand Van Helden – Koochy
-
-アーマンド・ヴァン・ヘルデン - クーチィー
-
-A. Koochy
-
-B. Phreeknik
-
 「Koochy クーチィー」はArmand Van Helden（アーマンドヴァンヘルデン）の4枚目のスタジオ・アルバム『Killing Puritans  キリング・ピューリタンズ』（2000年）からのリード・シングルとして2000年にリリースされた。
 
  Gary Numan（ゲイリーニューマン）の1979年のシングル「Cars カーズ」を多量にサンプリング。
@@ -32,6 +22,13 @@ B. Phreeknik
 彼は、30年以上にわたるキャリアを持ち、ハウスミュージック界の重鎮として知られています。
 
 ヴァン・ヘルデンが最も知られるシングルは、「You Don't Know Me」、「I Want Your Soul」、「My My My」(タラ・マクドナルド featuring)、そして「Bonkers」(ディジー・ラスカル featuring)です。いずれの曲もイギリスのダンスチャートで1位を獲得し、ビルボードのダンスチャートでも最高2位にランクインしました。
+
+#### Tracklist
+```md
+A. Koochy
+
+B. Phreeknik
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
 

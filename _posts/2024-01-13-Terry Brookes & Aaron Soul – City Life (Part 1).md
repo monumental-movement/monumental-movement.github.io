@@ -7,19 +7,18 @@ tags: [ House, 00s ]
 image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1).jpg
 ---
 
-#### Terry Brookes & Aaron Soul – City Life (Part 1){: .button1}
+Terry Brookes & Aaron Soul（テリー・ブルックス&アーロン・ソウル）によるこのEPは、City Life (Part 1)は1999年にChristiaan MacdonaldとAntal Heitlagerによって設立された、アムステルダムに拠点を置くオランダのレコードレーベルRush Hourから2005年にリリースされたハウストラック。
 
-テリー・ブルックス&アーロン・ソウル
+A面は、Carl Craig（カール・クレイグ）によるremix。
 
+#### Tracklist
+```md
 A. City Life (Carl Craig's Max Mix) 
 
 B1. City Life (Original Version)
 
 B2. City Life (Deepart Mix) 
-
-1999年にChristiaan MacdonaldとAntal Heitlagerによって設立された、アムステルダムに拠点を置くオランダのレコードレーベルRush Hourから2005年にリリースされたハウストラック。
-
-A面は、Carl Craig（カール・クレイグ）によるremix。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
 

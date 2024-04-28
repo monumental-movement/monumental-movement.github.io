@@ -7,12 +7,14 @@ tags: [ Techno, Tech House, 00s ]
 image: ../assets/images/Access 58 – Collaborations & Remixes Volume 2.jpg
 ---
 
-#### Access 58 – Collaborations & Remixes Volume 2
+Access58は、Paulo Nascimento（AKA Urban Ritual）とPhilippe Quenumによるテックハウスプロダクション。
 
-Access 58 – Collaborations & Remixes Volume 2.
+A面１曲目はCisco Ferreira（シスコ・フェレイラ）のThe Advent （ジ・アドヴェント）名義によるremix。
 
-アクセス58
+A面２曲目はスロヴェニア・テクノの代表Umek（ウメック）によるremix。
 
+#### Tracklist
+```md
 A1. The Story So Far... (The Advent "The Cut Ups" Remix)
 
 A2. Sweet Back (Umek Remix)
@@ -20,12 +22,7 @@ A2. Sweet Back (Umek Remix)
 AA1. Solid Deal (Collaboration With Trevor Rockcliffe)
 
 AA2. Restless (Featuring Etmo)
-
-Access58は、Paulo Nascimento（AKA Urban Ritual）とPhilippe Quenumによるテックハウスプロダクション。
-
-A面１曲目はCisco Ferreira（シスコ・フェレイラ）のThe Advent （ジ・アドヴェント）名義によるremix。
-
-A面２曲目はスロヴェニア・テクノの代表Umek（ウメック）によるremix。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
 

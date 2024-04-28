@@ -7,19 +7,16 @@ tags: [ Techno, Tech House, Electro ]
 image: ../assets/images/Adam Kroll – Sylphen.jpg
 ---
 
-#### Adam Kroll – Sylphen
+GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
 
-Adam Kroll – Sylphen
-
-アダム・クロール
-
+#### Tracklist
+```md
 A. Squonk
 
 B1. Yngoor
 
 B2. Puk
-
-GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
 

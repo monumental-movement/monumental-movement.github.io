@@ -7,10 +7,10 @@ tags: [ Acid Jazz, Jazz, 90s ]
 image: ../assets/images/Various – Totally Wired Nine.jpg
 ---
 
-#### Various – Totally Wired Nine
+UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。
 
-アシッドジャズコンピレーション
-
+#### Tracklist
+```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
 A2.Mother Earth(マザー・アース)– Warlocks Of Pendragon
@@ -28,8 +28,7 @@ B3.Corduroy(コーデュロイ) – Electric Soup
 B4.The Grass Snakes – That's It
 
 B5.Raw – Dreams
-
-UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
