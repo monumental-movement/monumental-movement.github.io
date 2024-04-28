@@ -7,16 +7,7 @@ tags: [ House, Techno ]
 image: ../assets/images/Jark Prongo – Rocket Base.jpg
 ---
 
-#### Jark Prongo – Rocket Base
-
-Jark Prongo（ジャーク・プロンゴ）
-
-A1. Rocket Base (Laidback Luke Mix) Remix – Laidback Luke
-
-A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
-Vocals – Afrika Islam
-
-オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongoは、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
+オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongo（ジャーク・プロンゴ）は、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
 
 また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
 
@@ -25,6 +16,14 @@ Vocals – Afrika Islam
 彼らの離脱後、Jark ProngoはPssst Musicを設立し、それ以前と同様にさまざまな別名でプロダクションをリリースし、1998年にJark Prongoの本当のサクセスストーリーが始まりました。
 
 Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
+
+#### Tracklist
+```md
+A1. Rocket Base (Laidback Luke Mix) Remix – Laidback Luke
+
+A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
+Vocals – Afrika Islam
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 

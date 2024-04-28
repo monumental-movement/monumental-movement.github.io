@@ -7,19 +7,6 @@ tags: [ Electro, Pops ]
 image: ../assets/images/Klaxons – Gravity's Rainbow.jpg
 ---
 
-#### Klaxons – Gravity's Rainbow
-
-クラクソンズ
-
-A1. Gravity's Rainbow
-
-A2. Gravity's Rainbow (Van She Remix)
-
-B1. Gravity's Rainbow (Nightmoves Remix)
-
-B2. Gravity's Rainbow (To My Boy Remix)
-
-
 Klaxons (クラクソンズ) は、UKニュークロスで2005年に結成されたエレクトロ・ロックバンド。「Gravity's Rainbow」は、Kitsune Musicより2006年にリリースされた。
 
 A面２曲目はオーストラリア出身のエレクトロポップ バンドVan She（ヴァンシー）によるremix。
@@ -27,6 +14,17 @@ A面２曲目はオーストラリア出身のエレクトロポップ バンド
 B面１曲目はNightmovesことMatt Waitesによるremix。
 
 B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
+
+#### Tracklist
+```md
+A1. Gravity's Rainbow
+
+A2. Gravity's Rainbow (Van She Remix)
+
+B1. Gravity's Rainbow (Nightmoves Remix)
+
+B2. Gravity's Rainbow (To My Boy Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 

@@ -7,18 +7,6 @@ tags: [ Pops, 00s ]
 image: ../assets/images/Justin Timberlake – Like I Love You.jpg
 ---
 
-#### Justin Timberlake – Like I Love You
-
-ジャスティン・ティンバーレイク
-
-A1. Like I Love You (Album Version)
-
-A2. Like I Love You (Instrumental)
-
-B1. Like I Love You (Extended Club Mix I)
-
-B2. Like I Love You (Extended Club Mix II)
-
 ジャスティン・ティンバーレイク (Justin Randall Timberlake)は、アメリカ合衆国出身のポップシンガー、R&Bシンガー、俳優。グラミー賞を複数回受賞しています。
 
 かつては、ボーイズグループ「インシンク」のフロントマンとして人気を博しました。
@@ -29,6 +17,16 @@ B2. Like I Love You (Extended Club Mix II)
 
 2013年、アルバム「The 20/20 Experience」で音楽活動を再開し、雑誌「タイム」の「世界で最も影響力のある100人」に2度目の選出を果たしました。
 
+#### Tracklist
+```md
+A1. Like I Love You (Album Version)
+
+A2. Like I Love You (Instrumental)
+
+B1. Like I Love You (Extended Club Mix I)
+
+B2. Like I Love You (Extended Club Mix II)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
 

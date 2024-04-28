@@ -7,16 +7,16 @@ tags: [ House, 90s ]
 image: ../assets/images/Indigo Featuring Joy Malcolm – Fly To The Moon.jpg
 ---
 
-#### Indigo Featuring Joy Malcolm – Fly To The Moon
-
-A. Fly To The Moon (The Mood II Swing Club Remix)
-
-B. Fly To The Moon (The Mood II Swing Sentinal Dub)
-
 1999年にUKのレーベル「Defender Music」からリリースされた本名Luke Purewalによるプロジェクト「Indigo」のEPです。
 
 FeaturingされているJoy Malcolmは、UKのシンガーでCool World Ensemble, Diva Singersにも在籍しており、かつてはIncognitoのメンバーでした。
 
+#### Tracklist
+```md
+A. Fly To The Moon (The Mood II Swing Club Remix)
+
+B. Fly To The Moon (The Mood II Swing Sentinal Dub)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m68578670923?afid=6142608987){: .button1}
 

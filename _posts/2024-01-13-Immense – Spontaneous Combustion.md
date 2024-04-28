@@ -7,15 +7,16 @@ tags: [ Rock, 90s ]
 image: ../assets/images/Immense – Spontaneous Combustion.jpg
 ---
 
-#### Immense – Spontaneous Combustion
+1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。
 
+#### Tracklist
+```md
 A1. Spontaneous Combustion
 
 B1. E Flat Sonic (Boom)
 
 B2. Perhaps You Should Talk To Someone
-
-1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m96454290820?afid=6142608987){: .button1}
 

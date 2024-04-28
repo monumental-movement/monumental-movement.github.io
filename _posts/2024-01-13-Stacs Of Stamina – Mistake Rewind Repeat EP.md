@@ -7,8 +7,10 @@ tags: [ Experimental, Glitch, Garage ]
 image: ../assets/images/Stacs Of Stamina – Mistake Rewind Repeat EP.jpg
 ---
 
-#### Stacs Of Stamina – Mistake Rewind Repeat EP
+UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。
 
+#### Tracklist
+```md
 A1. Mistake, Rewind, Repeat
 
 A2. Boy Go Get Your Gun Featuring – Yarah Bravo
@@ -20,8 +22,7 @@ B1. Mistake, Rewind, Repeat (dDamage Remix)
 B2. Mistake, Rewind, Repeat (Para One Remix) 
 
 B3. Mistake, Rewind, Repeat (Original Johan Instr)
-
-UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m30112362592?afid=6142608987){: .button1}
 

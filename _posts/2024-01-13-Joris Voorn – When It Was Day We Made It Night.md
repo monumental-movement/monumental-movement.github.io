@@ -7,10 +7,12 @@ tags: [ Techno, Tech House, 00s ]
 image: ../assets/images/Joris Voorn – When It Was Day We Made It Night.jpg
 ---
 
-#### Joris Voorn – When It Was Day We Made It Night
+Joris Voorn（ヨリス・ヴォーン）はオランダのアムステルダム出身DJ、プロデューサー、リミキサー。1997年以来、ハウスとテクノに専念している。
 
-ヨリス・ヴォーン
+レーベルGreenとRejectedの設立者の一人。
 
+#### Tracklist
+```md
 A1. Minor
 
 A2. When It Became Real
@@ -18,10 +20,7 @@ A2. When It Became Real
 B1. Decay
 
 B2. When It Was Day We Made It Night
-
-Joris Voorn（ヨリス・ヴォーン）はオランダのアムステルダム出身DJ、プロデューサー、リミキサー。1997年以来、ハウスとテクノに専念している。
-
-レーベルGreenとRejectedの設立者の一人。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m54807852331?afid=6142608987){: .button1}
 

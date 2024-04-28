@@ -7,15 +7,16 @@ tags: [ House, Progressive House, 00s ]
 image: ../assets/images/Kobbe & Austin Leeds – Fusing Love.jpg
 ---
 
-#### Kobbe & Austin Leeds – Fusing Love
-
-A. Fusing Love (Original)
-
-B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
-
 アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
 
 B面は、DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）によるremix。
+
+#### Tracklist
+```md
+A. Fusing Love (Original)
+
+B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
 
