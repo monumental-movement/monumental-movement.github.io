@@ -7,7 +7,10 @@ tags: [ Techno, German Techno, Downtempo ]
 image: ../assets/images/Johannes Heil – Future Primitive.jpg
 ---
 
-#### Johannes Heil – Future Primitive
+ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
+
+ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
+
 
 #### Tracklist
 ```md
@@ -30,10 +33,6 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
+[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
-ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m46295753268){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
