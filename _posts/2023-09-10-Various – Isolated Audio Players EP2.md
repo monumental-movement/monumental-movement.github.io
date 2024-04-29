@@ -7,21 +7,6 @@ tags: [ Break Beat, IDM, Leftfield ]
 image: ../assets/images/Various – Isolated Audio Players EP2.jpg
 ---
 
-#### Various – Isolated Audio Players EP2
-
-
-A1. Indopepsychics–D_P (Pt.2){: .button1}
-
-
-A2. Takayuki Shiraishi–Flicker
-
-
-B1. Jin Hiyama–Tennis
-
-
-B2. Dol-lop–Storm
-
-
 Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 
 ディープハウスの白石隆之によるFlickerがあります。このトラックは、DJ HIKARUもプレイしており、深いサウンドとリズムが特徴です。
@@ -32,13 +17,20 @@ Isolated Audio Players EP2は、2001年に日本の優れたレコードレー�
 
 このEPは、日本の音楽シーンにおいて重要な作品の一つとして、賞賛されています。当時のアンダーグラウンドな音楽のエッセンスを堪能できることでしょう。
 
+#### Tracklist
+```md
+A1. Indopepsychics–D_P (Pt.2)
 
-[メルカリで購入](https://jp.mercari.com/item/m98362957361){: .button1}
+
+A2. Takayuki Shiraishi–Flicker
 
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG+</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: EX</strong>
-</div>
+B1. Jin Hiyama–Tennis
+
+
+B2. Dol-lop–Storm
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-oDioCUZXeU?si=jOgBJmDUk1eHr7YH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

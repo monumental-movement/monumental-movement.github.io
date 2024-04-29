@@ -7,9 +7,14 @@ tags: [ Synth-Pop, Electro ]
 image: ../assets/images/Various – Class X Two.jpg
 ---
 
-#### Various – Class X Two
+Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
 
+オリジナル バージョンよりもさらに優れた素晴らしいものです。
 
+この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
+
+#### Tracklist
+```md
 A1. Simple Minds–New Gold Dream
 
 
@@ -32,22 +37,10 @@ D1. Heaven 17–Let Me Go
 
 
 D2. Yazoo–Don't Go
+```
 
+[メルカリで購入](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
-Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-オリジナル バージョンよりもさらに優れた素晴らしいものです。
-
-この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
-
-
-
-[メルカリで購入](https://jp.mercari.com/item/m66807575600){: .button1}
-
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG++</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DqpaYDvTXSY?si=SwnjyFGwYvk0-FXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

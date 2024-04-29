@@ -7,7 +7,11 @@ tags: [ Techno, Acid, 10inch ]
 image: ../assets/images/Empirion – Jesus Christ.jpg
 ---
 
-#### Empirion – Jesus Christ
+EmpirionはOz Morsley、Bobby Glennie、Jamie Smartの３人からなるユニットです。
+
+ブリティッシュインダストリアルテクノバンドとして1993年にエセックスでキャリアをスタートしました。
+
+90年代のテクノ・アシッド好きにはたまらない一品で、10インチの２枚組です。
 
 #### Tracklist
 ```md
@@ -23,12 +27,6 @@ C. Quark (Remix)
 D. New Religion
 ```
 
-EmpirionはOz Morsley、Bobby Glennie、Jamie Smartの３人からなるユニットです。
+[メルカリで購入](https://jp.mercari.com/item/m51146991051?afid=6142608987){: .button1}
 
-ブリティッシュインダストリアルテクノバンドとして1993年にエセックスでキャリアをスタートしました。
-
-90年代のテクノ・アシッド好きにはたまらない一品で、10インチの２枚組です。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m51146991051){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QfL99F3l_M?si=UtplTV3W34tXS8Y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

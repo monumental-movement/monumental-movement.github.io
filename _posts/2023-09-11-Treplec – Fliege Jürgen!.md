@@ -7,7 +7,7 @@ tags: [ House, Tech House, Minimal ]
 image: ../assets/images/Treplec – Fliege Jürgen!.jpg
 ---
 
-#### Treplec – Fliege Jürgen! EP
+2006年リリース作品で、MilnormodernのレーベルオーナーであるNils ScheibeのプロジェクトTreplecによる2枚組EPは心地良いパーカッシヴでミニマルなリズムに、図太く低く鳴るベースとミステリアスなメロディーやパッドが入ってくるグルーヴィーなトラックたちです。
 
 #### Tracklist
 ```md
@@ -23,8 +23,6 @@ C. Bernd, Bauch Und Birne
 D. Herr Jeminee
 ```
 
-2006年リリース作品で、MilnormodernのレーベルオーナーであるNils ScheibeのプロジェクトTreplecによる2枚組EPは心地良いパーカッシヴでミニマルなリズムに、図太く低く鳴るベースとミステリアスなメロディーやパッドが入ってくるグルーヴィーなトラックたちです。
+[メルカリで購入](https://jp.mercari.com/item/m10439786369?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m10439786369){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2oP_cfA2hBU?si=w3nfujYGXZWod-jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
