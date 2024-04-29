@@ -11,8 +11,12 @@ image: ../assets/images/ACDC – Moneytalks.jpg
 
 AC/DC – Moneytalks
 
+#### Tracklist
+```md
 A1. Moneytalks
+
 A2. Borrowed Time
+```
 
 「Moneytalks」は、AC/DCの1990年のアルバム『The Razors Edge』に収録されている一曲です。
 

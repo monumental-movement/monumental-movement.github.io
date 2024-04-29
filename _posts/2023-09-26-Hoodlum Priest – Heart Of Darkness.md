@@ -9,6 +9,8 @@ image: ../assets/images/Hoodlum Priest – Heart Of Darkness.jpg
 
 #### Hoodlum Priest – Heart Of Darkness
 
+#### Tracklist
+```md
 1. Introduction To The Heart Of Darkness
 
 2. Rock Drill
@@ -28,6 +30,7 @@ image: ../assets/images/Hoodlum Priest – Heart Of Darkness.jpg
 9. Deep Dance
 
 10. Rebel Angel
+```
 
 「Heart of Darkness」は、フドラム・プリーストの作品の中でも特筆される楽曲です。フドラム・プリーストは、UKのミュージシャンであるDerek Thompsonのプロジェクトで、彼の音楽は様々なジャンルの要素を取り入れたエクスペリメンタル的であり、ダークな雰囲気や実験的なサウンドスケープが特徴的です。
 

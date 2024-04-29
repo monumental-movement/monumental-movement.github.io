@@ -9,6 +9,8 @@ image: ../assets/images/Billy Nightmare – Reality Check.jpg
 
 #### Billy Nightmare – Reality Check
 
+#### Tracklist
+```md
 A1. I've Seen The World
 
 A2. Is This The Life For Me
@@ -16,6 +18,7 @@ A2. Is This The Life For Me
 B1. Dance,Shake,Swing
 
 B2. Dance... Version 2
+```
 
 シカゴのレイヴシーンから現れたBilly Nightmareこと“Mystic Bill” TorresのEPです。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Various – Kitsuné X.jpg
 
 #### Various – Kitsuné X
 
+#### Tracklist
+```md
 1. Popular Computer–Darling
 
 2. Joakim–Teenage Kiss
@@ -34,6 +36,7 @@ image: ../assets/images/Various – Kitsuné X.jpg
 12a. Hot Chip–No More Master
 
 12b. Dieter Schmidt–Morse Code From The Cold War
+```
 
 フランスのKitsuneによる2005年にリリースされた待望の3作目です。
 

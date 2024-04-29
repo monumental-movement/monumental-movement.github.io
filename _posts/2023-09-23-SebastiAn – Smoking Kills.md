@@ -9,11 +9,14 @@ image: ../assets/images/SebastiAn – Smoking Kills.jpg
 
 #### SebastiAn – Smoking Kills
 
+#### Tracklist
+```md
 A  Smoking Kills (?)
 
 B1  Dolami
 
 B2  Shoot
+```
 
 このレコードの収録曲は、非常にフューチャリスティックな音そのもので、セバスチャンとエド・ベンガーのクルーたちは、真のエレクトロのスクリームのようなノイズをもたらしています。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Aaron Spectre – Amen, Punk.jpg
 
 #### Aaron Spectre – Amen, Punk
 
+#### Tracklist
+```md
 A. 1600 Penn, FTW
 
 . Pay To Cum VIP
 
 B2. You Don't Know
+```
 
 Aaron Spectreは、アメリカのプロデューサー、DJ、アーティストであり、ドラムンベースやジャングルをベースにしたサウンドに独自のパンクやハードコアの要素を融合させた作品で知られています。
 

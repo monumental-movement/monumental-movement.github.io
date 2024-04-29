@@ -9,18 +9,16 @@ image: ../assets/images/Wu-Tang Clan Featuring Ron Isley – Back In The Game.jp
 
 #### Wu-Tang Clan Featuring Ron Isley – Back In The Game
 
-
+#### Tracklist
+```md
 A1. Back In The Game (Radio Version)
-
 
 A2. Back In The Game (TV Track)
 
-
 B1. Back In The Game (Main)
 
-
 B2. Back In The Game (Acapella)
-
+```
 
 「Back In The Game」は、Wu-Tang Clan(ウータン・クラン)とRon Isley（ロン・アイズリー）が共演した楽曲で、Wu-Tang Clanのアルバム「The W」（2000年）に収録されています。 Wu-Tang Clanはアメリカのヒップホップグループで、Ron IsleyはR&BグループThe Isley Brothersのメンバーであり、ソウルミュージックの伝説的なボーカリストです。
 

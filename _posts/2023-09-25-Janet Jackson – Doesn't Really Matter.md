@@ -9,6 +9,8 @@ image: ../assets/images/Janet Jackson – Doesn't Really Matter.jpg
 
 #### Janet Jackson – Doesn't Really Matter
 
+#### Tracklist
+```md
 A1. Doesn't Really Matter (Album Version)
 
 A2. Doesn't Really Matter (Dance All Day Extended Mix)
@@ -16,6 +18,7 @@ A2. Doesn't Really Matter (Dance All Day Extended Mix)
 B1. Doesn't Really Matter (Jonathan Peters Club Mix)
 
 B2. Doesn't Really Matter (Spensane Get Up Extended Mix)
+```
 
 「Doesn't Really Matter」は、映画『ナッティ・プロフェッサー2』のサウンドトラックとして制作された曲です。この曲は、アップテンポでポップなサウンドとキャッチーなメロディが特徴で、ジャネット・ジャクソンのダイナミックなヴォーカルが際立っています。
 

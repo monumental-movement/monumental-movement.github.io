@@ -9,6 +9,8 @@ image: ../assets/images/Armand Van Helden – I Want Your Soul.jpg
 
 #### Armand Van Helden – I Want Your Soul
 
+#### Tracklist
+```md
 A1  I Want Your Soul (Original)
 
 A2  I Want Your Soul (Crookers Remix)
@@ -16,6 +18,7 @@ A2  I Want Your Soul (Crookers Remix)
 B1  I Want Your Soul (Dusty Kid Suga Dub)
 
 B2  I Want Your Soul (Fake Blood Remix)
+```
 
 「I Want Your Soul」は、アーマンド・ヴァン・ヘルデンによって制作されたハウスミュージックの楽曲です。アーマンド・ヴァン・ヘルデンは、アメリカのDJ、プロデューサーであり、ハウスミュージックシーンで長年にわたり活躍しています。
 

@@ -9,10 +9,13 @@ image: ../assets/images/Big Punisher Wu All-Stars – Beware Soul In The Hole.jp
 
 #### Big Punisher / Wu All-Stars – Beware / Soul In The Hole
 
+#### Tracklist
+```md
 A1. Big Punisher–Beware (Original)
 
 B1. Wu All-Stars–Soul In The Hole (Original)
 B2. Wu All-Stars–Soul In The Hole (Instrumental)
+```
 
 「Beware」 言葉遊びや素早いラップスタイルで知られる実力派ラッパー Big Punishe(BigPun)による楽曲です。彼の特徴的なフローと巧みな言葉遊びが際立っています。
 

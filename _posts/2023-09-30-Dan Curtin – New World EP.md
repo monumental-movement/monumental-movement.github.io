@@ -9,6 +9,8 @@ image: ../assets/images/Dan Curtin – New World EP.jpg
 
 #### Dan Curtin – New World EP
 
+#### Tracklist
+```md
 A1. New World
 
 A2 Page Me
@@ -22,6 +24,7 @@ C. I'll Take You There (Latin Odyssey Mix)
 D1. Page Me (Orlando Voorn Mix)
 
 D2. Sword Of Orion (Dave Angel Mix)
+```
 
 「I'll Take You There」は、もともとDan Curtinの代表的なトラックでしたが、Latin Oddessy Mixではそれがさらにエピックなトラックに変貌を遂げています。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Polyester – Culture Club.jpg
 
 #### Polyester – Culture Club
 
+#### Tracklist
+```md
 A  Culture Club
 
 B  Culture Club (Glimmmix)
+```
 
 Polyesterは、ベルナール・ガルシアが、ブルーノ・クアルティエとエティエンヌ・ヴァンデヴィールによるプロジェクトです。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Terje Bakke – Dovyn Aren EP.jpg
 
 #### Terje Bakke – Dovyn Aren EP
 
+#### Tracklist
+```md
 A  Rabanne
 
 B1  Dovyn Aren
 
 B2  Kokolores
+```
 
 「Terje Bakke – Dovyn Aren EP」は、ノルウェー出身のテクノプロデューサー、テリエ・バッケ（Terje Bakke）によるEPです。
 

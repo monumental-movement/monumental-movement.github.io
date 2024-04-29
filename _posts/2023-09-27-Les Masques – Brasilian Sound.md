@@ -9,6 +9,8 @@ image: ../assets/images/Les Masques – Brasilian Sound.jpg
 
 #### Les Masques – Brasilian Sound
 
+#### Tracklist
+```md
 1. Echo
 
 2. Il Faut Tenir
@@ -30,6 +32,7 @@ image: ../assets/images/Les Masques – Brasilian Sound.jpg
 10. L'Oiseau
 
 11. Les Filles Et Les Garçons
+```
 
 Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バンドであり、1960年代に活動していました。「Brasilian Sound」は、彼らの代表作品の一つです。
 

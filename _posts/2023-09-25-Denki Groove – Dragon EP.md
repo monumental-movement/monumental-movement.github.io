@@ -9,6 +9,8 @@ image: ../assets/images/Denki Groove – Dragon EP.jpg
 
 #### Denki Groove – Dragon EP
 
+#### Tracklist
+```md
 A1. Dinosaur Tank
 
 A2. Baron Dance
@@ -16,6 +18,7 @@ A2. Baron Dance
 B1. The Marble Men
 
 B2. Brazilian Cowboy
+```
 
 タイトル曲「Dragon」は、エレクトロニックミュージックとテクノの要素を組み合わせたダンサブルな楽曲です。電気グルーヴ独自のサウンドとリズムが特徴であり、ユニークなメロディとビートが聴く人を魅了します。
 

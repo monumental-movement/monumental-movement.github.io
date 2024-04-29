@@ -9,11 +9,14 @@ image: ../assets/images/Mexico – Park Avenue EP.jpg
 
 #### Mexico – Park Avenue EP
 
+#### Tracklist
+```md
 A1  Park Avenue (Throughpass Remix)
 
 B1  Mr. Through (Original Mix)
 
 B2  Dubpark
+```
 
 Jun Yamabeによるプロジェクト「Mexico」は日本のレーベル United Sounds Of Blueから2003年にリリースされました。
 

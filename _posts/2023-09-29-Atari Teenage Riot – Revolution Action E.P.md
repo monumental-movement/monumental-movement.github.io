@@ -9,6 +9,8 @@ image: ../assets/images/Atari Teenage Riot – Revolution Action E.P.jpg
 
 #### Atari Teenage Riot – Revolution Action E.P.
 
+#### Tracklist
+```md
 A1. Revolution Action
 Mixed By – Andy Wallace
 
@@ -18,6 +20,7 @@ Mixed By – Dave Sardy
 B1. Your Uniform (Does Not Impress Me) (Digital Hardcore Edit)
 
 B2. Hunt Down The Nazis! (Live In Washington DC 1997){: .button1}
+```
 
 「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。
 

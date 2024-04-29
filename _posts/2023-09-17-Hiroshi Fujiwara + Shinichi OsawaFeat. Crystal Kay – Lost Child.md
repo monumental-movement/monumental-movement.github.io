@@ -9,15 +9,14 @@ image: ../assets/images/Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – L
 
 #### Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – Lost Child
 
-
+#### Tracklist
+```md
 A1. Lost Child (Original Version)
-
 
 A2. Lost Child (Instrumental Version)
 
-
 B1. Lost Child (Dub Version)
-
+```
 
 日本の音楽プロデューサーである藤原ヒロシ（Hiroshi Fujiwara）と大沢伸一（Shinichi Osawa）がCrystal Kayをフィーチャーした楽曲で、彼らのコラボレーション作品としてリリースされました。
 

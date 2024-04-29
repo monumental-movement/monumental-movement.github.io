@@ -9,6 +9,8 @@ image: ../assets/images/Dusty Kid – Beyond That Hill.jpg
 
 #### Dusty Kid – Beyond That Hill
 
+#### Tracklist
+```md
 1. Nora Nights
 
 2. Jknoussa
@@ -24,6 +26,7 @@ image: ../assets/images/Dusty Kid – Beyond That Hill.jpg
 7. Cheyenne
 
 8. That Hug
+```
 
 Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデューサー兼DJ、Paolo Alberto Lodde(パオロ・アル ベルト・ロッデ)の別名です。
 

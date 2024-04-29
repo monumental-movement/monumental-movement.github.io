@@ -9,6 +9,8 @@ image: ../assets/images/Claude Young – The Dexit E.P.jpg
 
 #### Claude Young – The Dexit E.P.
 
+#### Tracklist
+```md
 A1. Intro
 
 A2. Dexit
@@ -16,6 +18,7 @@ A2. Dexit
 B1. Prance
 
 B2. Fade
+```
 
 1997年にベルギーのレーベルElypsiaからClaude Youngが、自身のホームタウンであるデトロイトのプロデューサー作品をリリースするために発表した1枚です。
 

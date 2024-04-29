@@ -9,6 +9,8 @@ image: ../assets/images/Towa Tei – A Ring Congraturations EP.jpg
 
 #### Towa Tei – A Ring Congraturations EP
 
+#### Tracklist
+```md
 A1  A Ring
 
 A2  Old Gray Whistle Test
@@ -16,6 +18,7 @@ A2  Old Gray Whistle Test
 B1  Congratulations!
 
 B2  A Platinum Ring
+```
 
 Towa Tei(元Deee-Liteのメンバー)は、日本の音楽プロデューサー、DJ、アーティストで、ハウス、エレクトロニック、テクノなどのジャンルを組み合わせた独自の音楽スタイルで知られています。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Björk – Medúlla.jpg
 
 #### Björk – Medúlla
 
+#### Tracklist
+```md
 1.Pleasure Is All Mine
 
 2.Show Me Forgiveness
@@ -38,6 +40,7 @@ image: ../assets/images/Björk – Medúlla.jpg
 14.Triumph Of A Heart
 
 15.Komid
+```
 
 「Björk – Medúlla」は、アイスランドのシンガーソングライターであるビョーク（Björk）のアルバムです。このアルバムは、2004年にリリースされました。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Carl Cox – Dr. Funk.jpg
 
 #### Carl Cox – Dr. Funk
 
+#### Tracklist
+```md
 A1  Dr. Funk (Rhythm Masters Remix)
 
 A2  Dr. Funk (Original Album Version)
 
 AA1  Dr. Funk (Ceasefire Remix)
+```
 
 「Carl Cox – Dr. Funk」は、カール・コックス（Carl Cox）の代表曲の一つです。カール・コックスは、イギリス出身の世界的に有名なテクノDJおよび音楽プロデューサー/アーティストです。
 

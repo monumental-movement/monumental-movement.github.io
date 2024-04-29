@@ -9,19 +9,22 @@ image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.jpg
 
 #### Point Blanc Featuring Maria Motjér – Point Blanc
 
-A1  Ch'an
+#### Tracklist
+```md
+A1. Ch'an
 
-A2  Point Blanc
+A2. Point Blanc
 
-A3  Tu Sonrisa
-A4  Eliane
+A3. Tu Sonrisa
 
+A4. Eliane
 
-B1  Sing Me Your Lovesongs
+B1. Sing Me Your Lovesongs
 
-B2  Capricho
+B2. Capricho
 
-B3  Dark
+B3. Dark
+```
 
 1996年にドイツはケルンのGroove Attack Productions (GAP) からリリースされた10インチレコードです。
 

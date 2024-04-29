@@ -9,6 +9,8 @@ image: ../assets/images/Audio Active – Return Of The Red I.jpg
 
 #### Audio Active – Return Of The Red I
 
+#### Tracklist
+```md
 1.Return Of The Red I
 
 2.Too Much Formula
@@ -34,6 +36,7 @@ image: ../assets/images/Audio Active – Return Of The Red I.jpg
 11.2. (silence)
 
 11.3. Untitled
+```
 
 「Audio Active – Return Of The Red I」は、日本の音楽グループであるAudio Active（オーディオ・アクティブ）のアルバムです。このアルバムは、1999年にリリースされました。
 

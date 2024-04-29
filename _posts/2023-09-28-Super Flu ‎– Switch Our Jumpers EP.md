@@ -9,11 +9,14 @@ image: ../assets/images/Super Flu – Switch Our Jumpers EP.jpg
 
 #### Super Flu – Switch Our Jumpers EP
 
+#### Tracklist
+```md
 A. Hallo Zeit
 
 B1. Switch Our Jumpers
 
 B2. Trashy Whore (Lars-Christian Müller Remix)
+```
 
 2006年にドイツのレーベルKarateKlubからリリースされた作品です。
 

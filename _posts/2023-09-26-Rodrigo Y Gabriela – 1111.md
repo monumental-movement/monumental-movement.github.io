@@ -9,6 +9,8 @@ image: ../assets/images/Rodrigo Y Gabriela – 1111.jpg
 
 #### Rodrigo Y Gabriela – 1111
 
+#### Tracklist
+```md
 CD1. Hanuman
 
 CD2. Buster Voodoo
@@ -46,6 +48,7 @@ DVD2.5. 11:11
 DVD3. Lumbini
 
 DVD4. Buster Voodoo Tutorial
+```
 
 ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
 

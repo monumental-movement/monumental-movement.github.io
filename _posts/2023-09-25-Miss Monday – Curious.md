@@ -9,6 +9,8 @@ image: ../assets/images/Miss Monday – Curious.jpg
 
 #### Miss Monday – Curious
 
+#### Tracklist
+```md
 A1.  Curious
 
 A2. Curious (Inst)
@@ -20,6 +22,7 @@ B1. Curious (SoopaSta! Remix)
 B2. Curious (SoopaSta! Remix Inst)
 
 B3. Curious (SoopaSta! Remix Acapella)
+```
 
 「Curious」は、日本のシンガーソングライター、ミス・マンディの代表曲の一つです。彼女は、ジャズやソウルの要素を取り入れたポップミュージックを得意とし、その力強いボーカルと感情的な表現が特徴です。
 

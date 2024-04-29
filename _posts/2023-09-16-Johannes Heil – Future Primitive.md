@@ -9,33 +9,26 @@ image: ../assets/images/Johannes Heil – Future Primitive.jpg
 
 #### Johannes Heil – Future Primitive
 
-
+#### Tracklist
+```md
 A1  Future Primitive Intro
-
 
 A2  Children Of The Night
 
-
 A3  Play
-
 
 A4  Seven Stars
 
-
 B1  The Chains Of Babylon
-
 
 B2  Future Primitive
 
-
 C1  Born In The Light
-
 
 C2  Golden Dawn
 
-
 D   Cherubim
-
+```
 
 ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
 

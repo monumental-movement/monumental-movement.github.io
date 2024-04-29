@@ -9,9 +9,12 @@ image: ../assets/images/Dillinja – Fluid Hard Noize.jpg
 
 #### Dillinja – Fluid Hard Noize
 
+#### Tracklist
+```md
 A. Hard Noize
 
 AA. Fluid
+```
 
 すべてのドラム＆ベースのファンが大好きなトラックでしょう。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Jungle Brothers – Jungllenium Remixes.jpg
 
 #### Jungle Brothers – Jungllenium Remixes
 
+#### Tracklist
+```md
 1. Ultimatum Ultramix - The Mega Mix Of "Straight Out The Jungle"
 
 2. V.I.P. (Wiseguys Mix)
@@ -34,6 +36,7 @@ image: ../assets/images/Jungle Brothers – Jungllenium Remixes.jpg
 12. Brain (Da Beatminerz Mix)
 
 13. Straight Out The Jungle (Soul Shock Remix)
+```
 
 Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 

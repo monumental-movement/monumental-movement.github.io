@@ -9,11 +9,14 @@ image: ../assets/images/Flare – Nettin Pure 2.jpg
 
 #### Flare – Nettin Pure 2
 
+#### Tracklist
+```md
 A  N.P2.2
 
 B1  N.P2.3
 
 B2  N.P2.1
+```
 
 1995年にReel MusiqからリリースされたKen IshiiによるFlare名義での3トラック収録されたテクノサウンド。
 

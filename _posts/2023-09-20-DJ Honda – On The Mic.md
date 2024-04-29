@@ -9,6 +9,8 @@ image: ../assets/images/DJ Honda – On The Mic.jpg
 
 #### DJ Honda – On The Mic
 
+#### Tracklist
+```md
 A1  On The Mic (Clean Version) Featuring – A.L., Al' Tariq, Black Attack, Cuban Link, Juju, Problemz
 
 A2  On The Mic (Album Version)
@@ -20,6 +22,7 @@ B1  Trouble In The Water (Clean Version) Featuring – De La Soul
 B2  Trouble In The Water (Instrumental)
 
 B3  5 Seconds (Album Version) Featuring – Black Attack
+```
 
 1998年リリース。ダイナミックでエネルギッシュな曲で、DJ Hondaの独自のプロダクションスタイルとフィーチャリングアーティストたちのリリカルな才能が結集しています。
 

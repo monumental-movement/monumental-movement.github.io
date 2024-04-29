@@ -9,11 +9,14 @@ image: ../assets/images/Donna Summer And Giorgio Moroder –Carry On.jpg
 
 #### Donna Summer And Giorgio Moroder –Carry On
 
+#### Tracklist
+```md
 A1  Carry On (Fired Up Mix)
 A2  Carry On (Fired Up Dub)
 
 AA1  Carry On (Eric Kupper's Hysteria Mix)
 AA2  Carry On (Untidy Dub)
+```
 
 「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
 

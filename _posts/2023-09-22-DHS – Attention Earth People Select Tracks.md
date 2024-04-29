@@ -9,6 +9,8 @@ image: ../assets/images/DHS – Attention Earth People Select Tracks.jpg
 
 #### DHS – Attention Earth People Select Tracks
 
+#### Tracklist
+```md
 A1  Attention Earth People
 
 A2  Attention Earth People (Remix)
@@ -20,6 +22,7 @@ B1  Fascinating
 B2  Venus The Morning Star
 
 B3  As High As It Can Go
+```
 
 DHS（Dimensional Holofonic Sound）はプロデューサーであるBenjamin Stokesによるプロジェクトで、特異なサウンドと革新的なエレクトロニックミュージックのアプローチで知られています。
 

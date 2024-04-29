@@ -9,9 +9,12 @@ image: ../assets/images/Umek – I Am Ready EP.jpg
 
 #### Umek – I Am Ready EP
 
+#### Tracklist
+```md
 A1. I Am Ready
 
 B1. Music Ventilator
+```
 
 I Am Ready EP」は、スロベニア出身のテクノDJおよびプロデューサーであるUmekによるEPです。
 

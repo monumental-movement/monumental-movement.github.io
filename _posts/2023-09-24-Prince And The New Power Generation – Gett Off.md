@@ -9,6 +9,8 @@ image: ../assets/images/Prince And The New Power Generation – Gett Off.jpg
 
 #### Prince And The New Power Generation – Gett Off
 
+#### Tracklist
+```md
 A1  Gett Off (Extended Remix)
 
 A2  Gett Off (Houstyle)
@@ -20,6 +22,7 @@ B1  Gett Off (Flutestramental)
 B2  Gangster Glam
 
 B3  Clockin' The Jizz (Instrumental)
+```
 
 この曲は、アルバム「Diamonds and Pearls 」からのシングルカットで、ダンスフロアでのプリンスのパフォーマンスやライブショーでの人気曲として知られており、彼の音楽キャリアにおけるヒット曲の一つです。
 

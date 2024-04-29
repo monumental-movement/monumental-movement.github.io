@@ -9,15 +9,14 @@ image: ../assets/images/Bag Raiders – The Bag Raiders EP.jpg
 
 #### Bag Raiders – The Bag Raiders EP
 
-
+#### Tracklist
+```md
 A1. Fun Punch
-
 
 A2. Punch Reprise
 
-
 B. Nil By Mouth
-
+```
 
 Bag Raidersは、オーストラリア出身の音楽デュオで、このEPにはヒット曲である「Fun Punch」が収録されています。
 

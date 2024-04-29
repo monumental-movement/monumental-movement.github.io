@@ -9,12 +9,14 @@ image: ../assets/images/Obi, Charlie Hall – Dreamtech.jpg
 
 #### Obi, Charlie Hall – Dreamtech
 
+#### Tracklist
+```md
 A1. Labanba
 
 A2. House Pod
 
 AA1. Dreamtech
-
+```
 
 非常にレアなレコードです。
 

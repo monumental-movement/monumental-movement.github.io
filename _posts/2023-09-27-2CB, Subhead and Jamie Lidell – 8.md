@@ -9,6 +9,8 @@ image: ../assets/images/2CB, Subhead & Jamie Lidell – 8.jpg
 
 #### 2CB, Subhead & Jamie Lidell – 8
 
+#### Tracklist
+```md
 A1. 2CB–Oup Schtand Varker Vorden
 
 A2. 2CB–Flam Sandwich
@@ -18,6 +20,7 @@ A3. 2CB–Matbox
 B1. 2CB–Double Alien
 
 B2. Subhead & Jamie Lidell–On A Boulder Pushing
+```
 
 1998年にリリースされたJason LeachとPhil Wellsによるユニット2CB別名SubheadのテクノEP。
 

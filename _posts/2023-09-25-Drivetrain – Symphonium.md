@@ -9,6 +9,8 @@ image: ../assets/images/Drivetrain – Symphonium.jpg
 
 #### Drivetrain – Symphonium
 
+#### Tracklist
+```md
 A1. Electronic Seduction
 
 A2. Music
@@ -16,6 +18,7 @@ A2. Music
 AA1. In The Rhythm
 
 AA2. Soundtrack
+```
 
 「Symphonium」は、デトロイトテクノシーンで活躍するアーティス、ドライブトレインによって制作されたテクノトラックです。
 

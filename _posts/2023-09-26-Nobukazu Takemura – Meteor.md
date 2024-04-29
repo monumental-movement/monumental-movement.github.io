@@ -9,9 +9,12 @@ image: ../assets/images/Nobukazu Takemura – Meteor.jpg
 
 #### Nobukazu Takemura – Meteor
 
+#### Tracklist
+```md
 A. Meteor
 
 B. Wax And Wane (Original Version)
+```
 
 「Nobukazu Takemura – Meteor」は、日本の音楽アーティストである竹村延和（タケムラ　ノブカズ）によるレコードです。竹村延和はエレクトロニックミュージックやエクスペリメンタルな音楽で知られる音楽プロデューサー、作曲家です。
 

@@ -9,12 +9,12 @@ image: ../assets/images/Riow Arai – iBeat EP.jpg
 
 #### Riow Arai – iBeat EP
 
-
+#### Tracklist
+```md
 A. iBeat
 
-
 B. Non Fiction
-
+```
 
 「iBeat EP」は、エレクトロニックミュージックを中心に展開され、テクノやヒップホップの要素も組み込まれたリズミカルでノリの良いトラックです。
 

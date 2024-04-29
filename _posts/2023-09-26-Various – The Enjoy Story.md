@@ -9,6 +9,8 @@ image: ../assets/images/Various – The Enjoy! Story.jpg
 
 #### Various – The Enjoy! Story
 
+#### Tracklist
+```md
 A1.The Packman–I'm The Packman
 
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -42,5 +44,6 @@ C1.Kool Kyle –It's Rockin' Time
 C2.The Disco Four –Do It, Do It
 
 C3.Spanish Fly & The Terrible Two–Spanglish など
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m75930589194){: .button1}

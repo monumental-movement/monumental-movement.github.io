@@ -9,9 +9,12 @@ image: ../assets/images/India Arie – Heading In The Right Direction.jpg
 
 #### India Arie – Heading In The Right Direction
 
+#### Tracklist
+```md
 A  Heading In The Right Direction (Shelter Vocal)
 
 B  Heading In The Right Direction (Shelter Dub)
+```
 
 「Heading In The Right Direction」は、アメリカのシンガーソングライター、インディア・アリーの代表作の一つです。彼女はソウルやR&Bの要素を取り入れた音楽スタイルで知られており、その真摯な歌唱と心に響く歌詞が特徴です。
 

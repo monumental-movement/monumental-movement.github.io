@@ -9,7 +9,8 @@ image: ../assets/images/Various – Wire 00 Compilation.jpg
 
 #### Various – Wire 00 Compilation
 
-
+#### Tracklist
+```md
 A1  Denki Groove–Wire, Wireless (Arena)
 
 
@@ -38,7 +39,7 @@ D2  DJ Tasaka–Ganz Ganguro
 
 
 D3  Beroshima–WWW. (Robot Mix)
-
+```
 
 2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
 

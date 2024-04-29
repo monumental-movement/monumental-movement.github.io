@@ -9,10 +9,14 @@ image: ../assets/images/Kissogram 33HZ – My Friend Is A Seahorse.jpg
 
 #### Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes
 
+#### Tracklist
+```md
 A. Kissogram–My Friend Is A Seahorse (Radio Slave Remix)
 
 B1. 33HZ–Hot Flashes (Rob Mello Remix)
+
 B2. 33HZ–Crazy All The Time (Magik Johnson Remix)
+```
 
 「My Friend Is A Seahorse / Hot Flashes」は、キソグラムと33HZが共同制作した楽曲です。キソグラムはドイツのエレクトロニックミュージックデュオ、33HZはアメリカのエレクトロニックポップバンドです。
 

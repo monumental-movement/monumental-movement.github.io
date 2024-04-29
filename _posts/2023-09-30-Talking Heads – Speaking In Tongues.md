@@ -9,6 +9,8 @@ image: ../assets/images/Talking Heads – Speaking In Tongues.jpg
 
 #### Talking Heads – Speaking In Tongues
 
+#### Tracklist
+```md
 A1. Burning Down The House
 
 A2. Making Flippy Floppy
@@ -26,6 +28,7 @@ B2. Moon Rocks
 B3. Pull Up The Roots
 
 B4. This Must Be The Place (Naive Melody)
+```
 
 「Speaking In Tongues」は、1983年にリリースされました。このアルバムは、トーキング・ヘッズの中でも特に商業的に成功した作品の一つであり、彼らの音楽的な進化と革新を示すものとなりました。
 

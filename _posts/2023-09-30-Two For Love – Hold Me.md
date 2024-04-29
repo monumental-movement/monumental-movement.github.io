@@ -9,11 +9,14 @@ image: ../assets/images/Two For Love – Hold Me.jpg
 
 #### Two For Love – Hold Me
 
+#### Tracklist
+```md
 A. Hold Me (Extended Version)
 
 B1. Hold Me (Radio Version)
 
 B2. Hold Me (Dub Version)
+```
 
 1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。
 

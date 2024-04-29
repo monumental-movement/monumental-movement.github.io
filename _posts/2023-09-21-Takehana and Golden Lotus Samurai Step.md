@@ -9,11 +9,14 @@ image: ../assets/images/Takehana and Golden Lotus – Samurai Step.jpg
 
 #### Takehana & Golden Lotus - Samurai Step
 
+#### Tracklist
+```md
 A  Steppen Step
 
 B1  Cut Up
 
 B2  Cut Up (Sampling Collage Art)
+```
 
 「Samurai Step」は、日本のプロデューサー であるTakehana （タケハナ）とアメリカのプロデューサー/DJのGolden Lotus（ゴールデン・ロータス）が共同制作したトラックです。
 

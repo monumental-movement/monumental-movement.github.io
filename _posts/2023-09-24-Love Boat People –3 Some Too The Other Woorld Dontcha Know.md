@@ -9,6 +9,8 @@ image: ../assets/images/Love Boat People –3 Some Too The Other Woorld Dontcha 
 
 #### Love Boat People –3 Some / Too The Other Woorld /Dontcha Know?
 
+#### Tracklist
+```md
 A1  3 Some
 
 A2  Too The Other Woorld
@@ -16,6 +18,7 @@ A2  Too The Other Woorld
 B1  Dontcha Know? (Sunday Morning Mix)
 
 B2  Dontcha Know? (Sunday Night Mix)
+```
 
 1998年にアメリカのレーベル「Sosumi Recordings」からのリリース。
 

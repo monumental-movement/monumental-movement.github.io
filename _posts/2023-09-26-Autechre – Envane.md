@@ -9,6 +9,8 @@ image: ../assets/images/Autechre – Envane.jpg
 
 #### Autechre – Envane
 
+#### Tracklist
+```md
 1. Goz Quarter
 
 2. Latent Quarter
@@ -16,6 +18,7 @@ image: ../assets/images/Autechre – Envane.jpg
 3. Laughing Quarter
 
 4. Draun Quarter
+```
 
 「Autechre」は、ショーン・ブース（Sean Booth）とロブ・ブラウン（Rob Brown）からなるイギリスのテクノユニットです。
 

@@ -9,11 +9,16 @@ image: ../assets/images/Cursor Miner – Remote Control.jpg
 
 #### Cursor Miner – Remote Control
 
+#### Tracklist
+```md
 A1. Remote Control
+
 A2. One Step Removed
 
 B1. Snapped Capacitor
+
 B2. Thaw
+```
 
 Cursor Minerは、本名Rob Tubb（ロブ・タブ）によるプロジェクトです。
 

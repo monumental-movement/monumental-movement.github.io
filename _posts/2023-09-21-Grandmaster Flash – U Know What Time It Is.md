@@ -9,11 +9,14 @@ image: ../assets/images/Grandmaster Flash – U Know What Time It Is.jpg
 
 #### Grandmaster Flash – U Know What Time It Is
 
+#### Tracklist
+```md
 A1  U Know What Time It Is (Extended Scratch)
 
 B1  U Know What Time It Is (Instrumental)
 
 B2  Bus Dis (Wooo) (LP Version)
+```
 
 グランドマスター・フラッシュは、アメリカのヒップホップのパイオニアの一人であり、DJおよび音楽プロデューサーとして知られています。
 

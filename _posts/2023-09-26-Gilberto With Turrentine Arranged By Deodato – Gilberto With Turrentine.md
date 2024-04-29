@@ -9,6 +9,8 @@ image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilbert
 
 #### Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine
 
+#### Tracklist
+```md
 1.Wanting Things
 
 2.Braziliam Tapestry (Mulher Rendeira)
@@ -36,6 +38,7 @@ Bonus Tracks
 12.The Puppy Song
 
 13.Polytechnical High
+```
 
 ブラジルのボサノヴァ歌手ジョアン・ジルベルト（João Gilberto）とアメリカのテナーサックス奏者スタンリー・タレンタイン（Stanley Turrentine）が共演したアルバムです。
 

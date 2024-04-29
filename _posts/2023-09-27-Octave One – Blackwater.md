@@ -9,9 +9,12 @@ image: ../assets/images/Octave One – Blackwater.jpg
 
 #### Octave One – Blackwater
 
+#### Tracklist
+```md
 A. Blackwater (Alter Ego Vocal Mix)
 
 B. Blackwater (Alter Ego Dub)
+```
 
 Octave One代表作のBlackwaterのリミックスです。
 

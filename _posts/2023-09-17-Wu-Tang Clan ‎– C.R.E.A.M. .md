@@ -9,6 +9,8 @@ image: ../assets/images/Wu-Tang Clan – CREAM.jpg
 
 #### Wu-Tang Clan – C.R.E.A.M.
 
+#### Tracklist
+```md
 A1. C.R.E.A.M. (Radio Edit)
 
 A2. C.R.E.A.M. (Album Version)
@@ -24,7 +26,7 @@ B2. Da Mystery Of Chessboxin' (Album Version)
 B3. Da Mystery Of Chessboxin' (A Cappella)
 
 B4. Da Mystery Of Chessboxin' (Instrumental)
-
+```
 
 この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
 

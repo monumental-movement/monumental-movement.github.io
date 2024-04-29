@@ -9,6 +9,8 @@ image: ../assets/images/The Chemical Brothers–Loops Of Fury.jpg
 
 #### The Chemical Brothers–Loops Of Fury
 
+#### Tracklist
+```md
 A1  Loops Of Fury
 
 A2  (The Best Part Of) Breaking Up
@@ -16,6 +18,7 @@ A2  (The Best Part Of) Breaking Up
 B1  Get Up On It Like This
 
 B2  Chemical Beats (Dave Clarke Remix)
+```
 
 「Loops of Fury」は、1996年にリリースされたイギリスのビッグ・ビート・デュオ、ザ・ケミカル・ブラザーズによるEPです。このトラック全英シングルチャートで13位まで上昇しました。
 

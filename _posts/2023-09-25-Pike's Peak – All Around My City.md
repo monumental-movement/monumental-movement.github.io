@@ -9,6 +9,8 @@ image: ../assets/images/Pike's Peak – All Around My City.jpg
 
 #### Pike's Peak – All Around My City
 
+#### Tracklist
+```md
 A1. Usual Life
 
 A2. Family
@@ -20,6 +22,7 @@ B1. What You Gonna Do?
 B2. Someday
 
 B3. No Trouble
+```
 
 1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
 

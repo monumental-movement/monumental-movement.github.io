@@ -9,9 +9,12 @@ image: ../assets/images/Michael Jackson – Will You Be There.jpg
 
 #### Michael Jackson – Will You Be There
 
+#### Tracklist
+```md
 A1. Will You Be There (Radio Edit)
 
 B1. Will You Be There (Instrumental)
+```
 
 「Will You Be There」は、アメリカのポップミュージックのアイコン、マイケル・ジャクソンの1991年のアルバム『Dangerous』に収録されています。
 

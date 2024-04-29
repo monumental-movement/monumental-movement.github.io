@@ -9,9 +9,12 @@ image: ../assets/images/Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Bou
 
 #### Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)
 
+#### Tracklist
+```md
 A  Boom Boom (Viens Chez Moi Faire Une Boum)
 
 B  Le Jeux Du "Boom Boom" (Instrumental)
+```
 
 1987年にベルギー＆オランダのレーベル「Indisc」からリリースされた本作は、イタロディスコ／ハイエナジーとして当時人気を博しました。
 

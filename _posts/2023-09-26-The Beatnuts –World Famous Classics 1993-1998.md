@@ -9,6 +9,8 @@ image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
 
 #### The Beatnuts –World Famous Classics 1993-1998
 
+#### Tracklist
+```md
 1.World's Famous
 
 2.Bless The M.I.C.
@@ -36,6 +38,7 @@ image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
 13.Get Funky
 
 14.Give Me Tha Ass
+```
 
 「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
 

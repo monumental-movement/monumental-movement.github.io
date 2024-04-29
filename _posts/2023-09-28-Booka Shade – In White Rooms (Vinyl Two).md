@@ -9,9 +9,12 @@ image: ../assets/images/Booka Shade – In White Rooms (Vinyl Two).jpg
 
 #### Booka Shade – In White Rooms (Vinyl Two)
 
+#### Tracklist
+```md
 a. In White Rooms (Mexico Mix)
 
 b. In White Rooms (Shinedoe Fusion Remix)
+```
 
 「Booka Shade - In White Rooms (Vinyl Two)」は、ドイツのエレクトロニックデュオであるブッカ・シェード（Booka Shade）による楽曲です。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Anima Mundi – Hebula.jpg
 
 #### Anima Mundi – Hebula
 
+#### Tracklist
+```md
 A1. Hebula
 
 B1. Fujin
 
 B2. Spring
+```
 
 「Hebula」は、素晴らしいサイケデリックなトライバルテクノの楽曲です。なぜこのトラックが『Anima:Beat』アルバムに収録されていないのかはわかりませんが、この曲はアルバムに収録されている他の曲よりも際立っているように聴こえます。
 

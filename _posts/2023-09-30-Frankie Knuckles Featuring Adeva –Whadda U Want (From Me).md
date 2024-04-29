@@ -9,11 +9,14 @@ image: ../assets/images/Frankie Knuckles Featuring Adeva –Whadda U Want (From 
 
 #### Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)
 
+#### Tracklist
+```md
 A1. Whadda U Want (From Me) (Frankie's Classic Club)
 
 A2. Walkin' (Grant Nelson's Divine Gospel Remix)
 
 B1. Whadda U Want (From Me) (K-Klass Mix)
+```
 
 1995年にリリースされたフランキー・ナックルズの有名なトラックのリミックスも収録したEPです。
 

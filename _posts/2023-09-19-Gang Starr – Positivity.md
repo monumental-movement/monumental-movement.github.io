@@ -9,6 +9,8 @@ image: ../assets/images/Gang Starr – Positivity.jpg
 
 #### Gang Starr – Positivity
 
+#### Tracklist
+```md
 A1  Positivity (Whole World Mix)
 
 A2  Positivity (Club Version)
@@ -16,6 +18,7 @@ A2  Positivity (Club Version)
 B1  Gotch U (Hunter Mix)
 
 B2  No More Mr. Nice Guy (Fed Up Mix)
+```
 
 Gang Starrは、1980年代後半から1990年代にかけて活動したアメリカのヒップホップデュオ(Guru&DJ Premier)です。
 

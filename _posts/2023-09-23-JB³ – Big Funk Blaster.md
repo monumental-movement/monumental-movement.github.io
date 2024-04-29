@@ -9,9 +9,12 @@ image: ../assets/images/JB³ – Big Funk Blaster.jpg
 
 #### JB³ – Big Funk Blaster
 
+#### Tracklist
+```md
 A  Big Funk Blaster
 
 B  Sound Sweet
+```
 
 JB³は、Joey Beltram(ジョイ・ベルトラム)の別名義です。彼は90年代から活動し、テクノ、ハウス、エレクトロニックなジャンルで幅広い楽曲を制作しています。
 

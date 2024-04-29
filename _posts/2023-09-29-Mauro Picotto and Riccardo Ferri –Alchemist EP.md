@@ -9,6 +9,8 @@ image: ../assets/images/Mauro Picotto & Riccardo Ferri –Alchemist EP.jpg
 
 #### Mauro Picotto & Riccardo Ferri –Alchemist EP
 
+#### Tracklist
+```md
 A. New Time, New Place
 
 B. Codebreaker
@@ -16,6 +18,7 @@ B. Codebreaker
 C. Alchemist
 
 D. Pandoro
+```
 
 「New Time, New Place」はテクノとイギリスのハードダンスクラブの両方で大ヒットしました。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Simon & Garfunkel – Sounds Of Silence.jpg
 
 #### Simon & Garfunkel – Sounds Of Silence
 
+#### Tracklist
+```md
 A1. The Sounds Of Silence
 
 A2. Leaves That Are Green
@@ -30,6 +32,7 @@ B3. April Come She Will
 B4. We've Got A Groovey Thing Goin'
 
 B5. I Am A Rock
+```
 
 「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
 

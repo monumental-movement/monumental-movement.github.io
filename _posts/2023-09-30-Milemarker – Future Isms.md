@@ -9,6 +9,8 @@ image: ../assets/images/Milemarker – Future Isms.jpg
 
 #### Milemarker – Future Isms
 
+#### Tracklist
+```md
 A1. New Lexicon
 
 A2. Make Love To The Camera Obscura
@@ -30,6 +32,7 @@ B3. Somnambulism
 B4. Alchemy
 
 B5. Engine
+```
 
 Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
 

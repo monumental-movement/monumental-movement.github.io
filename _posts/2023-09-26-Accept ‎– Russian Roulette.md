@@ -9,6 +9,8 @@ image: ../assets/images/Accept – Russian Roulette.jpg
 
 #### Accept – Russian Roulette
 
+#### Tracklist
+```md
 A1. T.V. War
 
 A2. Monsterman
@@ -28,6 +30,7 @@ B3. Walking In The Shadow
 B4. Man Enough To Cry
 
 B5. Stand Tight
+```
 
 「Accep – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
 

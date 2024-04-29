@@ -9,6 +9,8 @@ image: ../assets/images/Track Star -Sometimes, What's The Difference.jpg
 
 #### Track Star -Sometimes, What's The Difference
 
+#### Tracklist
+```md
 A1  Bad Time
 
 A2  The View From Space
@@ -26,7 +28,7 @@ B3  From Where You Are
 B4  True Crime
 
 B5  Sucked Down
-
+```
 
 1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
 

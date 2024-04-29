@@ -9,11 +9,14 @@ image: ../assets/images/Charly Lownoise & Mental Theo –Together In Wonderland.
 
 #### Charly Lownoise & Mental Theo –Together In Wonderland
 
+#### Tracklist
+```md
 A. Together In Wonderland (Live At The Toilet Mix)
 
 B1. Together In Wonderland (Hühnersuppe Mix)
 
 B2. Together In Wonderland (DJ Demand Re-mix)
+```
 
 1995年にオランダのレーベルMaste Maximum Recordsよりリリースされたチャーリー・ローノイズとメンタル・テオによるEPです。
 

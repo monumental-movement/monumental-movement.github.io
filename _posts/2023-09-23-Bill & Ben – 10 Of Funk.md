@@ -9,7 +9,10 @@ image: ../assets/images/Bill & Ben – 10 Of Funk.jpg
 
 #### Bill & Ben – 10 Of Funk
 
+#### Tracklist
+```md
 A. 10" Of Funk
+```
 
 
 「10" Of Funk」は、リズミカルなビート、重いベースライン、シンコペーション、そして魂を揺さぶるホーンセクションなどファンクミュージックの要素が詰まった作品です。

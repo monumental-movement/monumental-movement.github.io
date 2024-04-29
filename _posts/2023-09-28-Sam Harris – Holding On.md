@@ -11,9 +11,12 @@ image: ../assets/images/Sam Harris – Holding On.jpg
 
 Remix – Junior Vasquez(ジュニア・ヴァスケス)
 
+#### Tracklist
+```md
 A. Holding On (Junior's Circuit Mix)
 
 B. Holding On (Junior's Ambient Mix)
+```
 
 本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Sven Vath – Fusion.jpg
 
 #### Sven Väth – Fusion
 
+#### Tracklist
+```md
 1. Fusion
 
 2. Discophon
@@ -28,6 +30,7 @@ image: ../assets/images/Sven Vath – Fusion.jpg
 9. Sounds Control Your Mind
 
 10. Blue Spliff
+```
 
 「Sven Väth - Fusion」は、ドイツのテクノDJおよびプロデューサー、スヴェン・ヴァス（Sven Väth）によるアルバムです。彼はテクノミュージックシーンで非常に重要な存在であり、そのキャリアは長く成功を収めています。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Mauro Picotto – Iguana.jpg
 
 #### Mauro Picotto – Iguana
 
+#### Tracklist
+```md
 A  Iguana (Megavoices Mix)
 
 B1  Iguana (Blank & Jones Mix)
 
 B2  Iguana (On Air Mix)
+```
 
 「Iguana」は、イタリアのテクノミュージシャン、マウロ・ピコット（Mauro Picotto）による楽曲です。マウロ・ピコットは、1990年代後半から2000年代初頭にかけて、テクノとトランスのジャンルで活躍しました。
 

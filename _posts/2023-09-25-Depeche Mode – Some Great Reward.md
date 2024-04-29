@@ -9,6 +9,8 @@ image: ../assets/images/Depeche Mode – Some Great Reward.jpg
 
 #### Depeche Mode – Some Great Reward
 
+#### Tracklist
+```md
 A1. Something To Do
 
 A2. Lie To Me
@@ -26,6 +28,7 @@ B2. Master And Servant
 B3. If You Want
 
 B4. Blasphemous Rumours
+```
 
 「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。
 

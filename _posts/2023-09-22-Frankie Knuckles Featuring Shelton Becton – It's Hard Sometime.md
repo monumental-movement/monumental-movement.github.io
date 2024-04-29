@@ -9,6 +9,8 @@ image: ../assets/images/Frankie Knuckles Featuring Shelton Becton – It's Hard 
 
 #### Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime
 
+#### Tracklist
+```md
 A1  It's Hard Sometime (FK Classic Club)
 
 A2  It's Hard Sometime (R&B 12")
@@ -16,6 +18,7 @@ A2  It's Hard Sometime (R&B 12")
 B1  It's Hard Sometime (Alternative 12")
 
 B2  It's Hard Sometime (Factory Dub)
+```
 
 フランキー・ナックルズはディスコとハウスミュージックのパイオニアであり、シェルトン・ベクトンはシンガーソングライター/ボーカリストです。
 

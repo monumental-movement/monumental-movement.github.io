@@ -9,9 +9,12 @@ image: ../assets/images/Giles Brothers Band – Afro-Asian-Invasion.jpg
 
 #### Giles Brothers Band – Afro-Asian-Invasion
 
+#### Tracklist
+```md
 A Feet Back On The Ground
 
 B We'll Give You Love (24 Hour Day)
+```
 
 「Giles Brothers Band - Afro-Asian-Invasion」は、ジャズ・フュージョンのバンドであるGiles Brothers Bandによってリリースされたアルバムです。このアルバムは、異文化の要素を取り入れた音楽を展開しており、アフリカとアジアの影響を感じることができます。
 

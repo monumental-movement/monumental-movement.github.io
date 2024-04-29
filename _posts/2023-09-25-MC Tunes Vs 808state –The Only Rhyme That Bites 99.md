@@ -9,11 +9,14 @@ image: ../assets/images/MC Tunes Vs 808state –The Only Rhyme That Bites 99.jpg
 
 #### MC Tunes Vs 808state –The Only Rhyme That Bites 99
 
+#### Tracklist
+```md
 A1. MC Tunes Vs 808state–The Only Rhyme That Bites
 
 A2. 808state –Bombadin (Fire Island Remix)
 
 B. 808state –Cubik (Victor Calderone's Not So Long Mix)
+```
 
 「The Only Rhyme That Bites 99」は、イギリスのヒップホップアーティストMCチューンズとエレクトロニックミュージックグループ808ステートが1990年にリリースした楽曲「The Only Rhyme That Bites」のリメイクバージョンです。
 

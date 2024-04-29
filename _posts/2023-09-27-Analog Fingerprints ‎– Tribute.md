@@ -9,11 +9,14 @@ image: ../assets/images/Analog Fingerprints – Tribute.jpg
 
 #### Analog Fingerprints – Tribute
 
+#### Tracklist
+```md
 A. Tribute
 
 B1. Accent
 
 B2. Blue Screen
+```
 
 A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
 

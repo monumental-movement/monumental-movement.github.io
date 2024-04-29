@@ -9,6 +9,8 @@ image: ../assets/images/DJ Pierre – We Gonna Funk.jpg
 
 #### DJ Pierre – We Gonna Funk
 
+#### Tracklist
+```md
 A1. We Gonna Funk (P&C's 9am Ultimate Mix)
 Remix – P&C
 Remix, Producer – Craig Daniel Michael Yefet, Paul Newman
@@ -20,6 +22,7 @@ Remix – P&C
 Remix, Producer – Craig Daniel Michael Yefet, Paul Newman
 
 AA2. We Gonna Funk (Underground Mix) (DJ Master Gola Version)
+```
 
 1993年にUKのレーベルSolid Pleasureよりリリースされたこのレコードは「We Gonna Funk（(Underground Mix）」を収録。
 

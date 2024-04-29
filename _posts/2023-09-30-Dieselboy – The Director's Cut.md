@@ -9,11 +9,12 @@ image: ../assets/images/Dieselboy – The Director's Cut.jpg
 
 #### Dieselboy – The Director's Cut
 
+#### Tracklist
+```md
 A. Side A
 
 B. Side B
-
-※カバー無し
+```
 
 USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼルボーイによるキラーテックモーディーなドラムンベースミックスのレアテープです。
 

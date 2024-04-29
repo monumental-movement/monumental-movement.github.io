@@ -9,11 +9,14 @@ image: ../assets/images/Snap! – Cult Of Snap (World Power Mix).jpg
 
 #### Snap! – Cult Of Snap (World Power Mix)
 
+#### Tracklist
+```md
 A  Cult Of Snap (World Power Mix)
 
 B1  Cult Of Snap (Ibiza '90 Mix)
 
 B2  Cult Of Snap (Album Version)
+```
 
 「Snap! – Cult Of Snap (World Power Mix)」は、Snap!による曲です。Snap!は1980年代と1990年代に活躍したドイツのユーロダンスグループであり、ヒット曲「The Power」や「Rhythm Is a Dancer」などで知られています。「Cult Of Snap (World Power Mix)」は、キャッチーなサウンドとポップなエネルギーが特徴です。
 

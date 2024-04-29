@@ -9,18 +9,16 @@ image: ../assets/images/Sunaga T Experience – No Reason No Rhyme.jpg
 
 #### Sunaga T Experience – No Reason No Rhyme
 
-
+#### Tracklist
+```md
 A1. No Reason No Rhyme (Nicola Conte 'Plays A Mode For Tatsuo')
-
 
 A2. No Reason No Rhyme (Readymade 'Jazz Defector' Mix)
 
-
 B1. No Reason No Rhyme (Jazztronik Mix)
 
-
 B2. No Reason No Rhyme (Insoft Batucada Remix)
-
+```
 
 Sunaga T Experienceの音楽は、ラウンジ、ジャズ、ボサノヴァなどの要素を取り入れ、幅広い音楽愛好家にアピールするユニークでエキレクティックなサウンドを生み出すことで知られています。
 

@@ -11,18 +11,16 @@ image: ../assets/images/Tipsy – Nude On The Moon Space Golf.jpg
 
 ティプシー　− ヌード　オン　ザ　ムーン　スペース　ゴルフ
 
-
+#### Tracklist
+```md
 A1. Nude On The Moon (Naked Volleyball Mix)
-
 
 A2. Nude On The Moon (DJ Friendly Mix)
 
-
 B1. Space Golf (Balloon Mix)
 
-
 B2. Space Golf (Venusian Swing Mix)
-
+```
 
 Tipsyは、サンフランシスコを拠点とするTim DigullaとDavid Gardnerによるラウンジコラージュデュオ。彼らの音楽はアブストラクト、アシッドジャズ、トリップホップ、実験音楽、ノイズの要素が詰まったワールドアングラローファイサウンドが特徴です。
 

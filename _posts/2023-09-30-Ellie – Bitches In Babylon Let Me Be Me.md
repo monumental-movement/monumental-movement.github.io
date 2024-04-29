@@ -9,6 +9,8 @@ image: ../assets/images/Ellie – Bitches In Babylon Let Me Be Me.jpg
 
 #### Ellie – Bitches In Babylon Let Me Be Me
 
+#### Tracklist
+```md
 A1. Bitches In Babylon (クボタタケシ Remix)
 
 A2. Bitches In Babylon (クボタタケシ Remix - Instrumental)
@@ -18,6 +20,7 @@ A3. Bitches In Babylon (クボタ Flying Killaahh Remix)
 B1. Let Me Be Me (ツッチー Rare Remix)
 
 B2. Let Me Be Me (ツッチー Midium Rare Remix)
+```
 
 1997年にCrue-LからリリースされたEllieのEPです。
 

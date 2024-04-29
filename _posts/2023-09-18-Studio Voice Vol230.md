@@ -11,8 +11,10 @@ image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディ
 
 表紙：ボブ・ディラン
 
-contents：
+ボブディラン　デイヴィッド・アムラム　佐野元春　ヴィム・ヴェンダース　大川ひとみ　メイヨ・トンプソン
 
+#### Contents
+```md
 □ 吠える Poetry Vibrations ビートニクからラッパーまで
 □ Beat Now
 □ 詩人としてのディラン
@@ -25,8 +27,6 @@ contents：
 □ ヴィム・ヴェンダース かつて、通り抜けた場所
 □ SPIRITS ON THE CROSSING
 □ リチャード・D・ジェームス来日公演
-
-ボブディラン　デイヴィッド・アムラム　佐野元春　ヴィム・ヴェンダース　大川ひとみ　メイヨ・トンプソン
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m83378534069){: .button1}

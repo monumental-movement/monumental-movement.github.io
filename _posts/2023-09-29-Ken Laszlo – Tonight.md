@@ -9,12 +9,16 @@ image: ../assets/images/Ken Laszlo – Tonight.jpg
 
 #### Ken Laszlo – Tonight
 
+#### Tracklist
+```md
 A1. Tonight (Factory Team Edit)
 
 A2. Tonight (Original Edit '94){: .button1}
 
 B1. Tonight (Club Mix)
+
 B2. Me And You
+```
 
 「Ken Laszlo - Tonight」は、イタリアのイタロディスコアーティスト、ケン・ラズロ（Ken Laszlo）の1985年リリースの楽曲です。
 

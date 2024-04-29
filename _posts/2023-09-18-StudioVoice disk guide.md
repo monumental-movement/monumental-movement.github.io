@@ -15,8 +15,8 @@ ULTIMATE CUT UP MUSIC ― 2000‐2005総集編
 
 全195ページ、およそ700枚掲載
 
-Contents：
-
+#### Contents
+```md
 
 Rock/Pop
 
@@ -34,6 +34,6 @@ World
 
 
 Contemporary
-
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m49392573292){: .button1}

@@ -9,6 +9,8 @@ image: ../assets/images/Various – We Are Reasonable People.jpg
 
 #### Various – We Are Reasonable People
 
+#### Tracklist
+```md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
 2. Boards Of Canada–Orange Romeda
@@ -32,6 +34,7 @@ image: ../assets/images/Various – We Are Reasonable People.jpg
 11. Two Lone Swordsmen–Circulation
 
 12. Mark Bell–A Salute To Those People Who Say Fuck You
+```
 
 『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
 

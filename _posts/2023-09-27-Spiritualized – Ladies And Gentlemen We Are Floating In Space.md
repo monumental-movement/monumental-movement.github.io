@@ -9,6 +9,8 @@ image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating I
 
 #### Spiritualized – Ladies And Gentlemen We Are Floating In Space
 
+#### Tracklist
+```md
 1.Ladies And Gentlemen We Are Floating In Space
 
 2.Come Together
@@ -36,6 +38,7 @@ image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating I
 Bonus Track For Japan
 
 13.Broken Heart (Instrumental)
+```
 
 「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Various – Pride '99 Sampler.jpg
 
 #### Various – Pride '99 Sampler
 
+#### Tracklist
+```md
 A1. Toni Basil–Mickey (Killa Klub Edit)
 
 A2. Beth Orton–Stolen Car
@@ -34,6 +36,7 @@ B5. Robb Boldt–Brown My Soul
 B6. Meg Hentges–This Kind Of Love
 
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m95283497608){: .button1}
 

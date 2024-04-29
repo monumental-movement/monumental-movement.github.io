@@ -9,18 +9,16 @@ image: ../assets/images/Mondo Grosso – Butterfly.jpg
 
 #### Mondo Grosso – Butterfly
 
-
+#### Tracklist
+```md
 A1  Butterfly (Main)
-
 
 A2  Butterfly (Sleepy Tongue Love Mix)
 
-
 B1  Butterfly (Francois K Jazzy Vibe Mix)
 
-
 B2  Butterfly (Main Instrumental)
-
+```
 
 「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。
 

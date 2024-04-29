@@ -9,6 +9,8 @@ image: ../assets/images/DMX Krew – Nu Romantix.jpg
 
 #### DMX Krew – Nu Romantix
 
+#### Tracklist
+```md
 1.Come To Me
 
 2.Can U Feel The Power?
@@ -40,6 +42,7 @@ image: ../assets/images/DMX Krew – Nu Romantix.jpg
 15.Place Called Love
 
 16.I'm All Alone (Cylob's Mix)
+```
 
 「DMX Krew」は、イギリスの電子音楽アーティスト、エドワード・アプトンのプロジェクトです。
 

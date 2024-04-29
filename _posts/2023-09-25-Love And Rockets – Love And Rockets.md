@@ -9,6 +9,8 @@ image: ../assets/images/Love And Rockets – Love And Rockets.jpg
 
 #### Love And Rockets – Love And Rockets
 
+#### Tracklist
+```md
 A1. **** (Jungle Law)
 
 A2. No Big Deal
@@ -28,6 +30,7 @@ B3. So Alive
 B4. Rock And Roll Babylon
 
 B5. No Words No More
+```
 
 「Love And Rockets - Love And Rockets」は、イギリスのオルタナティブロックバンドであるラヴ・アンド・ロケッツによるセルフタイトルのアルバムです。ラヴ・アンド・ロケッツは、元バウハウスのメンバーであるダニエル・アシュ、デヴィッド・ジェイ、およびケヴィン・ハスキンスによって結成されました。
 

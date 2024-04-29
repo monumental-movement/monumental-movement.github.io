@@ -9,11 +9,14 @@ image: ../assets/images/Jam&Spoon Feat. Plavka – Kaleidoscope Skies.jpg
 
 #### Jam&Spoon Feat. Plavka – Kaleidoscope Skies
 
+#### Tracklist
+```md
 A  Kaleidoscope Skies (Club Mix)
 
 B1  I Pull My Gun Once
 
 B2  I Pull My Gun Twice
+```
 
 Jam & Spoonは、ドイツのテクノ/トランスデュオであり、Rolf Ellmer（Jam）とMarkus Löffel（Spoon）によって結成されました。彼らは1990年代に多くの人気曲を生み出し、そのサウンドとプロダクションスキルで知られています。
 

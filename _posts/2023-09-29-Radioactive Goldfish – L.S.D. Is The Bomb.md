@@ -9,6 +9,8 @@ image: ../assets/images/Radioactive Goldfish – L.S.D. Is The Bomb.jpg
 
 #### Radioactive Goldfish – L.S.D. Is The Bomb
 
+#### Tracklist
+```md
 A1. L.S.D Is The Bomb
 
 A2. L.S.D Is The Bomb (Dub #1){: .button1}
@@ -16,6 +18,7 @@ A2. L.S.D Is The Bomb (Dub #1){: .button1}
 B1. Electrode
 
 B2. L.S.D Is The Bomb (Dub #2){: .button1}
+```
 
 「LSD Is The Bomb」は、は'91年のヨーロッパのテクノサウンドに対する素晴らしいアプローチで、ベルギーの攻撃的なリフと、より鋭く正確なドイツのリズムを組み合わせています。
 

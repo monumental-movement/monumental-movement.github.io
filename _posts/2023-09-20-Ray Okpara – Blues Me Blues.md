@@ -9,11 +9,14 @@ image: ../assets/images/Ray Okpara – Blues Me Blues.jpg
 
 #### Ray Okpara – Blues Me Blues
 
+#### Tracklist
+```md
 A1. Blues Me Blues
 
 B1. Bounce To This Featuring – Obi Jazz
 
 B2. Hideout
+```
 
 Ray Okparaはナイジェリアにルーツを持つハウス・テクノ DJ兼プロデューサーです。「Blues Me Blues」は、彼の代表作の一つで、彼の独自のスタイルと音楽的な表現力が際立っています。
 

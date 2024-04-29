@@ -9,11 +9,14 @@ image: ../assets/images/Phunkey Rhythm Doctor – Underground Poetry.jpg
 
 #### Phunkey Rhythm Doctor – Underground Poetry
 
+#### Tracklist
+```md
 A1. Jazz Maze
 
 B1. Mad Poet
 
 B2. Sugardaddy
+```
 
 Phunkey Rhythm DoctorはCari Lekebuschによるプロジェクトで、スウェーデンのHybridにより1997年にリリースされました。
 

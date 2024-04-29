@@ -9,6 +9,8 @@ image: ../assets/images/Daniel Steinberg – Joy & Happiness EP.jpg
 
 #### Daniel Steinberg – Joy & Happiness EP
 
+#### Tracklist
+```md
 A1. Tell Me What
 
 A2. Is This The Story
@@ -16,7 +18,7 @@ A2. Is This The Story
 B1. Joy & Happiness
 
 B2. Multicar
-
+```
 
 「Joy & Happiness」は、楽曲のタイトル通り、喜びと幸福感をテーマにした曲でグルーヴィで踊りやすいビート、キャッチーなメロディ、そしてポジティブな雰囲気が特徴です。Daniel Steinbergのユニークなサウンドセンスとクリエイティビティが曲全体に反映されています。
 

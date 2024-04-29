@@ -9,6 +9,8 @@ image: ../assets/images/Sukia – Gary Super Macho.jpg
 
 #### Sukia – Gary Super Macho
 
+#### Tracklist
+```md
 A1. Barry Super Macho (Dust Brothers Remix)
 
 A2. Gary Super Macho (The Dirty Sanchez Mix)Remix– DJ Me DJ You
@@ -16,6 +18,7 @@ A2. Gary Super Macho (The Dirty Sanchez Mix)Remix– DJ Me DJ You
 B1. Gary Super Macho (Major Force West Remix)
 
 B2. Gary Super Macho (Single Edit)
+```
 
 1997年にMo Waxからリリースされたトリップホップです。
 

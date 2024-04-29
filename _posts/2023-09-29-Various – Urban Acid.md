@@ -9,6 +9,8 @@ image: ../assets/images/Various – Urban Acid.jpg
 
 #### Various – Urban Acid
 
+#### Tracklist
+```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 
 A2. Charm–Housegirl (Club Mix)
@@ -24,6 +26,7 @@ B2. Funkacidic–S.O.L.T.
 B3. The Candy Man–The Candy Man
 
 B4. Charm–Walk On The Wild Side
+```
 
 1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
 

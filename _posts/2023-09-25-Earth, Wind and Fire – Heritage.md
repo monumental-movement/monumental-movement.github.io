@@ -9,6 +9,8 @@ image: ../assets/images/Earth, Wind & Fire – Heritage.jpg
 
 #### Earth, Wind & Fire – Heritage
 
+#### Tracklist
+```md
 A1. Heritage (Extended Version)
 
 A2. Heritage (Radio Edit)
@@ -18,6 +20,7 @@ B1. Heritage (Instrumental)
 B2. Heritage (LP Version)
 
 B3. Heritage (Per Cus Apella)
+```
 
 「Heritage」は、アース・ウィンド・アンド・ファイアの1980年のアルバム『Faces』に収録されています。この曲は、バンドの特徴的なファンク、ソウル、ディスコ、およびポップの要素を融合させたサウンドを持っています。
 

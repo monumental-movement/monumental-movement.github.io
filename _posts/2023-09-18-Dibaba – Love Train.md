@@ -9,6 +9,8 @@ image: ../assets/images/Dibaba – Love Train.jpg
 
 #### Dibaba – Love Train
 
+#### Tracklist
+```md
 A1. Love Train (Andreas Tilliander Remix)
 
 A2. Love Train (Original)
@@ -16,7 +18,7 @@ A2. Love Train (Original)
 B1. Love Train (John Dahlbäck Acid Train Mix)
 
 B2. Love Train (KFK's Dar-K Remix)
-
+```
 
 2005年リリースのスウェーデン人のOLLE CORNEERによるユニットDIBABAによるEPです。
 

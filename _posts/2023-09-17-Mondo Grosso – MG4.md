@@ -9,7 +9,8 @@ image: ../assets/images/Mondo Grosso – MG4.jpg
 
 #### Mondo Grosso – MG4
 
-
+#### Tracklist
+```md
 A1  MG2SS
 
 
@@ -44,7 +45,7 @@ F1  Star Suite IIII. North Star
 
 
 F2  1974-Way Home
-
+```
 
 大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。
 

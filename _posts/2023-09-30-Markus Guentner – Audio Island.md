@@ -9,6 +9,8 @@ image: ../assets/images/Markus Guentner – Audio Island.jpg
 
 #### Markus Guentner – Audio Island
 
+#### Tracklist
+```md
 A1. Droid Ships
 
 A2. Lost Paradise
@@ -24,6 +26,7 @@ C2. Separate Digits
 D1. Sunset
 
 D2. Tears In Rain
+```
 
 このレコードは素晴らしい2枚組LPです。
 

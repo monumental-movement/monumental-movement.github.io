@@ -9,6 +9,8 @@ image: ../assets/images/Co-Fusion – Pod EP.jpg
 
 #### Co-Fusion – Pod EP
 
+#### Tracklist
+```md
 A1. Pod
 
 A2. Break Beats (Wild World)
@@ -16,6 +18,7 @@ A2. Break Beats (Wild World)
 B1. I.T.
 
 B2. Wild World (Full Version)
+```
 
 2001年にUKのレーベルPro-JexからリリースされたCo-FusionによるEPです。
 

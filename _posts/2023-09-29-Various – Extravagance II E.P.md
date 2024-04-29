@@ -9,6 +9,8 @@ image: ../assets/images/Various – Extravagance II E.P.jpg
 
 #### Various – Extravagance II E.P
 
+#### Tracklist
+```md
 A1. Jargon–Adrenalin
 
 A2. Auto-Logic–I Think I Want Some More
@@ -16,6 +18,7 @@ A2. Auto-Logic–I Think I Want Some More
 B1. The Coma Kid–1000 Feet
 
 B2. Ray Vee–R.V. Theme
+```
 
 「Adrenalin」と「I Think I Want Some More」は、1992年からの楽曲で、タイムレスなトラックです。
 

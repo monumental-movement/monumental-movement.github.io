@@ -9,6 +9,8 @@ image: ../assets/images/Snuff – Flibbiddydibbiddydob.jpg
 
 #### Snuff – Flibbiddydibbiddydob
 
+#### Tracklist
+```md
 A1. Rods & Mockers
 
 A2. Do Nothing
@@ -30,6 +32,7 @@ B4. City Baby Attacked By Rats
 B5. Bran Flakes
 
 B6. In Sickness & In Health
+```
 
 「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
 

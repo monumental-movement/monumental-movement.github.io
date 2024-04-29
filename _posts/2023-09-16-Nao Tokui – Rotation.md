@@ -9,18 +9,16 @@ image: ../assets/images/Nao Tokui – Rotation.jpg
 
 #### Nao Tokui – Rotation
 
-
+#### Tracklist
+```md
 A1. Rotation
-
 
 A2. Pine Ave
 
-
 B1. On the Bank of Donau
 
-
 B2. Ms. Cherry
-
+```
 
 2004年のリリースでミニマルな４トラックを収録。
 

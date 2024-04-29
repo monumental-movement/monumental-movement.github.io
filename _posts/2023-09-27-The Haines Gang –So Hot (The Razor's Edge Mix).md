@@ -9,11 +9,14 @@ image: ../assets/images/The Haines Gang –So Hot (The Razor's Edge Mix).jpg
 
 #### The Haines Gang –So Hot (The Razor's Edge Mix)
 
+#### Tracklist
+```md
 A. So Hot (The Razor's Edge Mix)
 
 B1. So Hot
 
 B2. Close Shaves
+```
 
 1982年にLondon RecordsからリリースされたPerry Hainesのプロジェクトである「The Haines Gang」によるシンセポップです。
 

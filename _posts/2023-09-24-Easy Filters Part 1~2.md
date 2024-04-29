@@ -9,9 +9,12 @@ image: ../assets/images/FLR - Easy Filters Part 1~2.jpg
 
 #### FLR - Easy Filters Part 1-2
 
+#### Tracklist
+```md
 A. Easy Filter Part 1
 
 B. Easy Filter Part 2
+```
 
 1998年に日本のReel Musiqレーベルからリリースされたケンイシイの別名義「FLR」によるEPです。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Charly Lownoise Mental Theo – Wonderfull Days.jpg
 
 #### Charly Lownoise Mental Theo – Wonderfull Days
 
+#### Tracklist
+```md
 A1. Wonderfull Days (Rotterdam Mix)
 
 B1. Wonderfull Days (Trance Mix)
 
 B2. Wonderfull Days (Radio Mix)
+```
 
 この楽曲は、1994年にリリースされたオランダのハッピーハードコアのクラシックとして知られています。Charly LownoiseとMental Theoは、オランダのDJおよびプロデューサーデュオであり、1990年代のユーロダンスやハッピーハードコアシーンで大きな成功を収めました。
 

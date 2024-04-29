@@ -9,9 +9,12 @@ image: ../assets/images/Hyena Featuring Ricky Trauma –I've Got To Dance.jpg
 
 #### Hyena Featuring Ricky Trauma –I've Got To Dance
 
+#### Tracklist
+```md
 A. I've Got To Dance (Techno Mix)
 
 B. I've Got To Dance (Velvet Mix)
+```
 
 B面の「Velvet Mix」がおすすめ。
 

@@ -9,11 +9,14 @@ image: ../assets/images/The Mack Feat. Kysia Bostic – I Want You.jpg
 
 #### The Mack Feat. Kysia Bostic – I Want You
 
+#### Tracklist
+```md
 A1. I Want You (Club Mix)
 
 A2. I Want You (Radio Mix)
 
 B1. I Want You (Badly) (Sex Import Mix)
+```
 
 Mackの2ndシングルでシカゴハウスやデトロイトテクノの趣とNYガラージをミックスしたようなハウスクラシックです。
 

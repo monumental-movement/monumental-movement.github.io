@@ -9,6 +9,8 @@ image: ../assets/images/Various – Space Capades.jpg
 
 #### Various – Space Capades
 
+#### Tracklist
+```md
 1.David Rose & His Orchestra–Gay Spirits
 
 2.Richard Marino & His Orchestra–Lover
@@ -44,5 +46,6 @@ image: ../assets/images/Various – Space Capades.jpg
 17.Les Baxter & His Orchestra–Saturday Night On Saturn
 
 18.Dean Elliott & His Big Band–Lonesome Road
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m53410507614){: .button1}

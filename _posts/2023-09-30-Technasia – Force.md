@@ -9,6 +9,8 @@ image: ../assets/images/Technasia – Force.jpg
 
 #### Technasia – Force
 
+#### Tracklist
+```md
 A1. Force
 
 A2. Force (Reprise)
@@ -16,6 +18,7 @@ A2. Force (Reprise)
 B1. Resilience
 
 B2. Force (Voxless)
+```
 
 このForceはテクノのアンセムといってもよいでしょう。
 

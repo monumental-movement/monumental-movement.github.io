@@ -9,6 +9,8 @@ image: ../assets/images/Ken Ishii – Innerelements.jpg
 
 #### Ken Ishii – Innerelements
 
+#### Tracklist
+```md
 1. Encoding
 
 2. A.F.I.A.C.
@@ -32,6 +34,7 @@ image: ../assets/images/Ken Ishii – Innerelements.jpg
 11. Kala
 
 12. Decoding
+```
 
 ケンイシイ（Ken Ishii）は、日本のテクノミュージシャンで、国内外で高い評価を受けているアーティストです。R & S Recordsからリリースされたこのアルバムは、彼の代表作の一つです。
 

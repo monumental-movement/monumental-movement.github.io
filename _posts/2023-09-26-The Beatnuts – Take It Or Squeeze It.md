@@ -9,6 +9,8 @@ image: ../assets/images/The Beatnuts – Take It Or Squeeze It.jpg
 
 #### The Beatnuts – Take It Or Squeeze It
 
+#### Tracklist
+```md
 1.Intro
 
 2.It's Da Nuts
@@ -36,6 +38,7 @@ image: ../assets/images/The Beatnuts – Take It Or Squeeze It.jpg
 13.Mayonnaise
 
 14.Se Acabo (Remix)
+```
 
 「The Beatnuts – Take It Or Squeeze It」は、ヒップホップグループであるビートナッツの4番目のスタジオアルバムです。2001年にリリースされたこのアルバムは、The Beatnutsの特徴的なプロダクションスタイルとウィットに富んだ歌詞を披露しています。
 
