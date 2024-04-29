@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schubert – Don't Believe"
+title:  "Schubert – Don't Believe The Chord-Pop Hype"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, German Techno ]
