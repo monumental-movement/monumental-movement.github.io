@@ -10,7 +10,8 @@ image: ../assets/images/Real McCoy – Another Night.jpg
 #### Real McCoy – Another Night
 
 リアル・マッコイ – アナザー ナイト
-
+#### Tracklist
+```md
 A1. Another Night (Club Mix)
 
 A2. Another Night (House Mix)
@@ -18,6 +19,7 @@ A2. Another Night (House Mix)
 B1. Another Night (Armand's Nightmare Mix)
 
 B2. Another Night (Armand's New School Mix)
+```
 
 Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
 

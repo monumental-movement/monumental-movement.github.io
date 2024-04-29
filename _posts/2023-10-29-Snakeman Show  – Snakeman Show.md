@@ -7,9 +7,16 @@ tags: [ JPop, Techno ]
 image: ../assets/images/Snakeman Show  – Snakeman Show.jpg
 ---
 
-#### Snakeman Show  – Snakeman Show
+スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
+ポール・マッカートニー逮捕後の架空の警察尋問があります。
 
-スネークマン・ショー – 急いで口で吸え!
+ポール・マッカートニーが日本で逮捕された後の架空の警察尋問を題材にしており、彼は何度もサインを求められます。
+
+1980年1月、ポール・マッカートニーは来日公演のために日本を訪れました。しかし、成田空港に到着した際に、所持していた大麻の量が多すぎるとして逮捕されました。マッカートニーは数日間拘留された後、罰金刑を言い渡されて国外退去を余儀なくされました。
+
+この事件を題材にした架空の警察尋問を描いています。尋問官はマッカートニーに質問を浴びせますが、マッカートニーは質問に答える代わりに、サインを求め続けます。
+
+このトラックはユーモラスなタッチで描かれていますが、マッカートニーが逮捕された時の屈辱的な経験も反映されています。
 
 #### Tracklist
 ```md
@@ -51,5 +58,6 @@ B9. ユー・アンドーミー・オルガスムス・オーケストラ–ご�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52075146964){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
