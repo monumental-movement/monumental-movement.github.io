@@ -11,6 +11,8 @@ image: ../assets/images/Snakeman Show  – Snakeman Show.jpg
 
 スネークマン・ショー – 急いで口で吸え!
 
+#### Tracklist
+```md
 A1. Snakeman Show–盗聴エディー P-1
 
 A2. Y.M.O.–磁性紀－開け心－
@@ -46,7 +48,7 @@ B7. ユー・アンドーミー・オルガスムス・オーケストラ –咲
 B8. Snakeman Show–これなんですか
 
 B9. ユー・アンドーミー・オルガスムス・オーケストラ–ごきげんいかが　アゲイン
-
+```
 
 
 [メルカリで購入](https://jp.mercari.com/item/m52075146964){: .button1}

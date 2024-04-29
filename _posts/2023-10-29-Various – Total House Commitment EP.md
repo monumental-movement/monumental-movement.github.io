@@ -9,6 +9,8 @@ image: ../assets/images/Various – Total House Commitment EP.jpg
 
 #### Various – Total House Commitment EP
 
+#### Tracklist
+```md
 A1. Ted MG –Q-Dog Roams Free
 
 A2. Ovi – Take Forever
@@ -16,6 +18,7 @@ A2. Ovi – Take Forever
 B1  Lance DeSardi & Tasho – It Was Yesterday
 
 B2. Pluton – Ripped Off In B-Minor
+```
 
 サンフランシスコ・ハウス・レーベル、THC - Total House Commitmentからリリースされた、ディープハウス/テックハウスコンピレーション。
 

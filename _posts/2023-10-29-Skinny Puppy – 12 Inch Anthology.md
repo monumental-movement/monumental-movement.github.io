@@ -11,6 +11,8 @@ image: ../assets/images/Skinny Puppy – 12 Inch Anthology.jpg
 
 スキニーパピー　12インチ アンソロジー
 
+#### Tracklist
+```md
 A1. Dig It
 
 A2. The Choke (Re-Grip)
@@ -30,6 +32,7 @@ B3. Stairs And Flowers (Def Wish Mix)
 B4. Stairs And Flowers (Too Far Gone)
 
 B5. Testure (12 Inch Mix)
+```
 
 Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。
 

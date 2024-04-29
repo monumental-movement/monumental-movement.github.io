@@ -6,11 +6,12 @@ categories: [ Vinyl ]
 tags: [ JPop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – X Multiplies.jpg
 ---
+1980年9月にアルファレコードより日本で発売されたYMOのベストアルバム。
 
-#### Yellow Magic Orchestra – X∞Multiplies
+US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 
-イエローマジックオーケストラ – マルティプライズ
-
+#### Tracklist
+```md
 A1  Nice Age
 
 A2  Behind The Mask
@@ -26,8 +27,8 @@ B2  Multiplies
 B3  Citizens Of Science
 
 B4  Solid State Survivor
+```
 
-1980年9月にアルファレコードより日本で発売されたYMOのベストアルバム。
+[メルカリで購入](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m64103001326){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9n9W2dG_08?si=3ffuTZPvj0X07i5u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,11 +9,14 @@ image: ../assets/images/Tommy Brown – Feelings.jpg
 
 #### Tommy Brown – Feelings
 
+#### Tracklist
+```md
 A. Feelings (Mix Edit)
 
 B1. Feelings (Radio Edit)
 
 B2. Carillon
+```
 
 1993年にレーベル「Disc-O-Very Records」からリリースされたTommy BrownのEPです。
 
