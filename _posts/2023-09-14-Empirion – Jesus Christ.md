@@ -9,7 +9,8 @@ image: ../assets/images/Empirion – Jesus Christ.jpg
 
 #### Empirion – Jesus Christ
 
-
+#### Tracklist
+```md
 A. Jesus Christ
 
 
@@ -20,7 +21,7 @@ C. Quark (Remix)
 
 
 D. New Religion
-
+```
 
 EmpirionはOz Morsley、Bobby Glennie、Jamie Smartの３人からなるユニットです。
 

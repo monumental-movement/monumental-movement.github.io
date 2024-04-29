@@ -9,12 +9,13 @@ image: ../assets/images/Super Dense Child – Bedroom Twiddling.jpg
 
 #### Super Dense Child – Bedroom Twiddling
 
-
+#### Tracklist
+```md
 A. Bedroom Twiddling (Part I)
 
 
 B. Bedroom Twiddling (Part II)
-
+```
 
 1999年にリリースされたロンドンのエイプマンレコーズの10インチです。
 

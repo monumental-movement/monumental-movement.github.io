@@ -9,6 +9,8 @@ image: ../assets/images/Lauryn Hill – Doo Wop (That Thing) Lost Ones.jpg
 
 #### Lauryn Hill – Doo Wop (That Thing) / Lost Ones
 
+#### Tracklist
+```md
 A1. Doo Wop (That Thing) (Radio Edit)
 
 A2. Doo Wop (That Thing) (Instrumental)
@@ -22,7 +24,7 @@ B2. Lost Ones (Remix)
 B3. Lost Ones (Instrumental)
 
 B4. Lost Ones (A Capella)
-
+```
 
 「Lauryn Hill - Doo Wop (That Thing) / Lost Ones」は、アメリカのシンガーソングライターであるローリン・ヒル（Lauryn Hill）による楽曲です。この曲は、彼女のソロデビューアルバム『The Miseducation of Lauryn Hill』（1998年）からのシングルとしてリリースされました。
 

@@ -9,7 +9,8 @@ image: ../assets/images/Treplec – Fliege Jürgen!.jpg
 
 #### Treplec – Fliege Jürgen! EP
 
-
+#### Tracklist
+```md
 A. Banda Core
 
 
@@ -20,7 +21,7 @@ C. Bernd, Bauch Und Birne
 
 
 D. Herr Jeminee
-
+```
 
 2006年リリース作品で、MilnormodernのレーベルオーナーであるNils ScheibeのプロジェクトTreplecによる2枚組EPは心地良いパーカッシヴでミニマルなリズムに、図太く低く鳴るベースとミステリアスなメロディーやパッドが入ってくるグルーヴィーなトラックたちです。
 

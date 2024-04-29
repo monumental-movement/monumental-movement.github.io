@@ -9,7 +9,8 @@ image: ../assets/images/Manwoman – Manwoman.jpg
 
 #### Manwoman – Manwoman
 
-
+#### Tracklist
+```md
 A1. Blk(black)out
 
 
@@ -20,7 +21,7 @@ B1. Speedometer
 
 
 B2. Man And Woman
-
+```
 
 95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
 

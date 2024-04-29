@@ -9,7 +9,8 @@ image: ../assets/images/A Friend From Rio – Para Lennon And McCartney.jpg
 
 #### A Friend From Rio – Para Lennon And McCartney
 
-
+#### Tracklist
+```md
 A. Para Lennon And McCartney (Da Lata Remix)
 
 
@@ -17,7 +18,7 @@ B1. Para Lennon And McCartney (Lumen Soundsmiths Remix)
 
 
 B2. Para Lennon And McCartney (JD's Original Live Mix)
-
+```
 
 ブラジルはリオデジャネイロで活躍するバンドによるファーストEPです。
 
