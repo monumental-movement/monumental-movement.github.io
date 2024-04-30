@@ -671,18 +671,13 @@ iframe {
 @media (max-width: 768px) {
     .container {
         margin-right: 15px;
-        max-width: 760px;
     }
     .posttitle {
         font-size:18px;
     }
 .blog-grid-container {
-        width: 100%;
-        grid-template-columns: 1fr 1fr;
-        margin: 5px 15px;
-        grid-template-rows: 1fr;
-        font-size:5px;
-        }
+        grid-template-columns: 1fr;
+    }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
         grid-column-end: 2;
