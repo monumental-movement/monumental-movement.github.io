@@ -9,9 +9,12 @@ image: ../assets/images/V – Sub-Machine The Unheard.jpg
 
 #### V – Sub-Machine / The Unheard
 
+#### Tracklist
+```md
 A. Sub-Machine
 
 B. The Unheard
+```
 
 1995年にUKのレーベル「Gift Records」からリリースされた７インチのレコードです。
 

@@ -11,9 +11,12 @@ image: ../assets/images/Supertramp – Breakfast In America.jpg
 
 スーパートランプ – ブレックファスト・イン・アメリカ
 
+#### Tracklist
+```md
 A. Breakfast In America = ブレックファスト・イン・アメリカ
 
 B. Lord Is It Mine = すべては闇のなか
+```
 
 Supertramp（スーパートランプ）は、1970 年にロンドンで結成されたイギリスのロックバンド。「Breakfast In America」は1979 年の同名アルバムのタイトル曲で、世界的なヒットとなりました。
 

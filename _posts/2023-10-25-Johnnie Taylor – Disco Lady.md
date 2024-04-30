@@ -11,9 +11,12 @@ image: ../assets/images/Johnnie Taylor – Disco Lady.jpg
 
 ジョニー・テイラー  – ディスコ・レディー
 
+#### Tracklist
+```md
 A. Disco Lady
 
 B. You're The Best In The World
+```
 
 「Disco Lady」はJohnnie Taylor（ジョニー・テイラー  ）の最大のヒット曲。
 

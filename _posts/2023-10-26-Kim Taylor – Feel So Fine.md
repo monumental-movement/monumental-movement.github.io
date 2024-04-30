@@ -11,11 +11,14 @@ image: ../assets/images/Kim Taylor – Feel So Fine.jpg
 
 キム・テイラー – フィール　ソー　ファイン
 
+#### Tracklist
+```md
 A1. Feel So Fine
 
 B1. Feel So Fine (Instrumental)
 
 B2. Feel So Fine (Radio Version)
+```
 
 アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
 

@@ -11,11 +11,14 @@ image: ../assets/images/Funk D'Void and Percy X presents X-Funk – Voyager EP.j
 
 ファンク・ド・ヴォイド&パーシーX プレゼンツ　X-ファンク– ヴォヤジャー
 
+#### Tracklist
+```md
 A. Voyager
 
 AA1. Let's Go Back
 
 AA2. Breaking Out
+```
 
 スコットランド・グラスゴー出身のテクノ/テックハウスDJ・プロデューサーFunk D'Void（ファンク・ド・ヴォイド/Lars Sandberg）とDJ Percy X（パーシーX/Tony Scott/トニー・スコット）のプロジェクト、X-FunkがSomaレーベルからリリースしたアシッドテクノ。
 

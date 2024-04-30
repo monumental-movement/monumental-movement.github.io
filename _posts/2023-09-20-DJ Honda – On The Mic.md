@@ -7,7 +7,9 @@ tags: [ Hiphop, Rap ]
 image: ../assets/images/DJ Honda – On The Mic.jpg
 ---
 
-#### DJ Honda – On The Mic
+1998年リリース。ダイナミックでエネルギッシュな曲で、DJ Hondaの独自のプロダクションスタイルとフィーチャリングアーティストたちのリリカルな才能が結集しています。
+
+この曲には、Mos Def（またはYasiin Bey）、Beatnuts、Fat Joeなどの有名アーティストが参加しています。各アーティストが独自のスタイルとフローを曲にもたらし、ヒップホップのアンセムとなっています。
 
 #### Tracklist
 ```md
@@ -24,10 +26,6 @@ B2  Trouble In The Water (Instrumental)
 B3  5 Seconds (Album Version) Featuring – Black Attack
 ```
 
-1998年リリース。ダイナミックでエネルギッシュな曲で、DJ Hondaの独自のプロダクションスタイルとフィーチャリングアーティストたちのリリカルな才能が結集しています。
+[メルカリで購入](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
 
-この曲には、Mos Def（またはYasiin Bey）、Beatnuts、Fat Joeなどの有名アーティストが参加しています。各アーティストが独自のスタイルとフローを曲にもたらし、ヒップホップのアンセムとなっています。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m19041732477){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyejD5wwQEE?si=zfMMHESvi3W51L99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

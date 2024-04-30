@@ -11,9 +11,12 @@ image: ../assets/images/Prince And The Revolution  – Purple Rain.jpg
 
 プリンス – パープル・レイン
 
+#### Tracklist
+```md
 A. Purple Rain (Single Edit.) 
 
 B. God 
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m50358308709){: .button1}
 

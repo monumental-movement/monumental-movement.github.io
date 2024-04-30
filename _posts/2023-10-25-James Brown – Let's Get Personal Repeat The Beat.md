@@ -11,9 +11,12 @@ image: ../assets/images/James Brown – Let's Get Personal Repeat The Beat.jpg
 
 ジェームス・ブラウン – レッツ ゲット パーソナル
 
+#### Tracklist
+```md
 A. Let's Get Personal
 
 B. Repeat The Beat (Faith)
+```
 
 1986年にリリースされたジェイムスブランによる７インチレコードです。
 

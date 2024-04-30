@@ -11,11 +11,14 @@ image: ../assets/images/Echo and The Bunnymen – Enlighten Me (Extended Remix).
 
 エコー&ザ・バニーメン – エンラントン ミー
 
+#### Tracklist
+```md
 A. Enlighten Me (Extended Remix)
 
 B1. Enlighten Me
 
 B2. Lady Don't Fall Backwards
+```
 
 Echo & The Bunnymen（エコー＆ザ・バニーメン）は、1978 年にリバプールで結成されたUKロックバンド。オリジナルメンバーは、Ian Stephen McCulloch（イアン・マカロック）、Will Sergeant（ウィル・サージェント）、Les Pattinson（レス・パティンソン）。 1980年までにPete De Freitas（ピート・デ・フレイタス）がドラマーとして加入。
 

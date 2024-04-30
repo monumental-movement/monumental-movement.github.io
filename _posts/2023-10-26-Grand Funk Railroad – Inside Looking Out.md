@@ -11,9 +11,12 @@ image: ../assets/images/Grand Funk Railroad – Inside Looking Out.jpg
 
 グランド・ファンク・レイルロード – 孤独の叫び
 
+#### Tracklist
+```md
 A. Inside Looking Out = 孤独の叫び
 
 B. Paranoid = パラノイド
+```
 
 Grand Funk Railroad（グランド ファンク レイルロード/グランドファンク/GFR) は、1970 年代に活躍したアメリカのハードロックバンド。
 

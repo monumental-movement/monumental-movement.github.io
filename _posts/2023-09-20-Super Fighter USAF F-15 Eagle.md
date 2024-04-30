@@ -7,7 +7,7 @@ tags: [ Ambient ]
 image: ../assets/images/Super Fighter USAF F-15 Eagle.jpg
 ---
 
-#### Super Fighter USAF F-15 Eagle
+Super Fighter USAF F-15 Eagle
 
 #### Tracklist
 ```md
@@ -28,4 +28,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59353657032){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

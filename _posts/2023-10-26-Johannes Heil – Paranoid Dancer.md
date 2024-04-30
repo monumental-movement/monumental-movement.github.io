@@ -11,11 +11,14 @@ image: ../assets/images/Johannes Heil – Paranoid Dancer.jpg
 
 ヨハネス・ヘイル – パラノイド　ダンサー
 
+#### Tracklist
+```md
 a. Paranoid Dancer (Re-Mastered Original)
 
 b. Paranoid Dancer (DJ Hell Remix)
 
 Heiko Laux（ヘイコ・ラウ）のレーベルKanzleramtからリリースされた、Johannes Heil（ヨハネス・ヘイル）の名作Paranoid Danceのリマスター盤。
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m54249919762){: .button1}
 

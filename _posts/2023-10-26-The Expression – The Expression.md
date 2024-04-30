@@ -11,6 +11,8 @@ image: ../assets/images/The Expression – The Expression.jpg
 
 ザ・エクスプレッション
 
+#### Tracklist
+```md
 A1. Present Communication
 
 A2. With Closed Eyes
@@ -30,6 +32,7 @@ B3. You And Me
 B4. Nothing Changes
 
 B5. Satisfied Strangers
+```
 
 The Expression（ザ・エクスプレッション）1981年にオーストラリア・シドニーで結成されたシンセポップ・ロックバンド。
 

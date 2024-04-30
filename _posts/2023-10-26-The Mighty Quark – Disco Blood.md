@@ -11,6 +11,8 @@ image: ../assets/images/The Mighty Quark – Disco Blood.jpg
 
 ザ・マイティ・クォーク – ディスコ ブラッド
 
+#### Tracklist
+```md
 A1. Disco Blood
 
 A2. Physical (Fish Go Deep Remix)
@@ -18,6 +20,7 @@ A2. Physical (Fish Go Deep Remix)
 B1. Physical (Mark And John Remix)
 
 B2. Blessed
+```
 
 The Mighty Quarkは、DK7のMark O'SullivanとWalter Bäcklinのミニマルテクノユニット。
 

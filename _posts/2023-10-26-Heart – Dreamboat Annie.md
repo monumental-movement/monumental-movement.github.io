@@ -9,6 +9,8 @@ image: ../assets/images/Heart – Dreamboat Annie.jpg
 
 #### Heart – Dreamboat Annie
 
+#### Tracklist
+```md
 A1. Magic Man
 
 A2. Dreamboat Annie (Fantasy Child)
@@ -28,6 +30,7 @@ B3. Sing Child
 B4. How Deep It Goes
 
 B5. Dreamboat Annie (Reprise)
+```
 
 「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。
 

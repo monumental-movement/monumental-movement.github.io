@@ -15,9 +15,12 @@ Patsy Cline – Walkin' After Midnight
 
 パッツィー・クライン – ウォーキング アフター ミッドナイト
 
+#### Tracklist
+```md
 A. The Champs–Tequila
 
 B. Patsy Cline–Walkin' After Midnight
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m38758160167){: .button1}
 

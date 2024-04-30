@@ -9,6 +9,8 @@ image: ../assets/images/Various – Golden RnB.jpg
 
 #### Various – Golden R&B
 
+#### Tracklist
+```md
 A1. The Temptations –My Girl
 
 テンプテーションズ  –  マイガール
@@ -28,6 +30,7 @@ B2. Four Tops –Reach Out I'll Be There
 B3. Martha Reeves & The Vandellas –Dancing In The Street
 
 マルサリーヴス& ヴァンデラス –  ダンシング イン ザ ストリート
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m50700944227){: .button1}
 
