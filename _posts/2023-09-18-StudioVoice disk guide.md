@@ -20,20 +20,15 @@ ULTIMATE CUT UP MUSIC ― 2000‐2005総集編
 
 Rock/Pop
 
-
 Electro/Dance
-
 
 Jazz
 
-
 Reggae/Dub
 
-
 World
-
 
 Contemporary
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49392573292){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

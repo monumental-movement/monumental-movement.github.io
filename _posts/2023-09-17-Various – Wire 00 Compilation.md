@@ -7,7 +7,9 @@ tags: [ Techno, Compilation ]
 image: ../assets/images/Various – Wire 00 Compilation.jpg
 ---
 
-#### Various – Wire 00 Compilation
+2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
+
+2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
 
 #### Tracklist
 ```md
@@ -41,10 +43,6 @@ D2  DJ Tasaka–Ganz Ganguro
 D3  Beroshima–WWW. (Robot Mix)
 ```
 
-2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
+[メルカリで購入](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
-2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m45913963651){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

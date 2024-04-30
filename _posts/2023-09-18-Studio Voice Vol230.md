@@ -7,7 +7,7 @@ tags: [ Magazine, Disk Guide, Studio Voice ]
 image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディラン.jpg
 ---
 
-#### Studio Voice Vol230 (スタジオボイス)ボブディラン
+Studio Voice Vol230 (スタジオボイス)ボブディラン
 
 表紙：ボブ・ディラン
 
@@ -29,4 +29,4 @@ image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディ
 □ リチャード・D・ジェームス来日公演
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83378534069){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}
