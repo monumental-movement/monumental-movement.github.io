@@ -7,7 +7,11 @@ tags: [ Rock ]
 image: ../assets/images/Wings – Wings Over America.jpg
 ---
 
-#### Wings – Wings Over America
+「Wings - Wings Over America」は、1976年にリリースされたイギリスのロックバンド、ウイングス（Wings）のライブアルバム(LP3枚組)です。ウイングスは、元ビートルズのポール・マッカートニーが結成したバンドであり、その活動はビートルズの解散後に始まりました。
+
+ウイングスのアメリカツアー（1976年）のライブ音源を収録しており、バンドのパフォーマンスとエネルギーを生き生きと捉えています。アルバムには、ウイングスのヒット曲やポール・マッカートニーのソロ作品など、幅広い楽曲が含まれています。
+
+このアルバムは、ウイングスの人気と成功を象徴する作品で、ライブ演奏ならではの臨場感と、ウイングスの楽曲の魅力が詰まった作品として、ファンや音楽愛好家から高い評価を得ています。
 
 #### Tracklist
 ```md
@@ -68,11 +72,6 @@ F3. Hi, Hi, Hi
 F4. Soily
 ```
 
-「Wings - Wings Over America」は、1976年にリリースされたイギリスのロックバンド、ウイングス（Wings）のライブアルバム(LP3枚組)です。ウイングスは、元ビートルズのポール・マッカートニーが結成したバンドであり、その活動はビートルズの解散後に始まりました。
+[メルカリで購入](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
-ウイングスのアメリカツアー（1976年）のライブ音源を収録しており、バンドのパフォーマンスとエネルギーを生き生きと捉えています。アルバムには、ウイングスのヒット曲やポール・マッカートニーのソロ作品など、幅広い楽曲が含まれています。
-
-このアルバムは、ウイングスの人気と成功を象徴する作品で、ライブ演奏ならではの臨場感と、ウイングスの楽曲の魅力が詰まった作品として、ファンや音楽愛好家から高い評価を得ています。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m21622043805){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
