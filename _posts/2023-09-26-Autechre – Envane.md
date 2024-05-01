@@ -7,7 +7,9 @@ tags: [ Techno, Electro ]
 image: ../assets/images/Autechre – Envane.jpg
 ---
 
-#### Autechre – Envane
+「Autechre」は、ショーン・ブース（Sean Booth）とロブ・ブラウン（Rob Brown）からなるイギリスのテクノユニットです。
+
+「Envane」は、Autechre(オウテカ)が1997年にリリースしたCDで、電子音楽への独自のアプローチ、複雑なリズム、抽象的なサウンドスケープ、実験的なサウンドデザインが特徴です。
 
 #### Tracklist
 ```md
@@ -20,9 +22,6 @@ image: ../assets/images/Autechre – Envane.jpg
 4. Draun Quarter
 ```
 
-「Autechre」は、ショーン・ブース（Sean Booth）とロブ・ブラウン（Rob Brown）からなるイギリスのテクノユニットです。
+[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
-「Envane」は、Autechre(オウテカ)が1997年にリリースしたCDで、電子音楽への独自のアプローチ、複雑なリズム、抽象的なサウンドスケープ、実験的なサウンドデザインが特徴です。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m70361302879){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=je_nerpGDUxJULxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

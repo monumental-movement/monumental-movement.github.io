@@ -25,9 +25,5 @@ Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレー
 
 [メルカリで購入](https://jp.mercari.com/item/m81174559941){: .button1}
 
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: </strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: VG</strong>
-</div>
+
+

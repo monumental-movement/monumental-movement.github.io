@@ -7,7 +7,9 @@ tags: [ House, Electro ]
 image: ../assets/images/Polyester – Culture Club.jpg
 ---
 
-#### Polyester – Culture Club
+Polyesterは、ベルナール・ガルシアが、ブルーノ・クアルティエとエティエンヌ・ヴァンデヴィールによるプロジェクトです。
+
+数多くのヒットを生み出し、ベルギーのラジオ局でよく放送されてました。
 
 #### Tracklist
 ```md
@@ -16,11 +18,6 @@ A  Culture Club
 B  Culture Club (Glimmmix)
 ```
 
-Polyesterは、ベルナール・ガルシアが、ブルーノ・クアルティエとエティエンヌ・ヴァンデヴィールによるプロジェクトです。
+[メルカリで購入](https://jp.mercari.com/item/m58333186087?afid=6142608987){: .button1}
 
-数多くのヒットを生み出し、ベルギーのラジオ局でよく放送されてました。
-
-
-
-[メルカリで購入](https://jp.mercari.com/item/m58333186087){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HjsMnGBqhVo?si=EiOVJH04jlz4ysoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
