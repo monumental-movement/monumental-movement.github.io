@@ -7,7 +7,7 @@ tags: [ Jazz, Funk, 10inch ]
 image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.jpg
 ---
 
-#### Point Blanc Featuring Maria Motjér – Point Blanc
+1996年にドイツはケルンのGroove Attack Productions (GAP) からリリースされた10インチレコードです。
 
 #### Tracklist
 ```md
@@ -26,9 +26,6 @@ B2. Capricho
 B3. Dark
 ```
 
-1996年にドイツはケルンのGroove Attack Productions (GAP) からリリースされた10インチレコードです。
+[メルカリで購入](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
 
-
-
-[メルカリで購入](https://jp.mercari.com/item/m18334755783){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKkeDBm11K0?si=ZLp_8T-O366NVtkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,7 +7,9 @@ tags: [ Pops, House, Soul ]
 image: ../assets/images/Prince And The New Power Generation – Gett Off.jpg
 ---
 
-#### Prince And The New Power Generation – Gett Off
+この曲は、アルバム「Diamonds and Pearls 」からのシングルカットで、ダンスフロアでのプリンスのパフォーマンスやライブショーでの人気曲として知られており、彼の音楽キャリアにおけるヒット曲の一つです。
+
+「Gett Off」は、ファンキーなビートとグルーヴィなベースラインが特徴であり、プリンスのエネルギッシュなボーカルパフォーマンスが引き立っており、プリンスの音楽キャリアの一部を象徴する曲で、彼のファンや音楽愛好家にとって特別な意味を持つ楽曲となっています。
 
 #### Tracklist
 ```md
@@ -24,9 +26,6 @@ B2  Gangster Glam
 B3  Clockin' The Jizz (Instrumental)
 ```
 
-この曲は、アルバム「Diamonds and Pearls 」からのシングルカットで、ダンスフロアでのプリンスのパフォーマンスやライブショーでの人気曲として知られており、彼の音楽キャリアにおけるヒット曲の一つです。
+[メルカリで購入](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
-「Gett Off」は、ファンキーなビートとグルーヴィなベースラインが特徴であり、プリンスのエネルギッシュなボーカルパフォーマンスが引き立っており、プリンスの音楽キャリアの一部を象徴する曲で、彼のファンや音楽愛好家にとって特別な意味を持つ楽曲となっています。
-
-[メルカリで購入](https://jp.mercari.com/item/m13388071866){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
