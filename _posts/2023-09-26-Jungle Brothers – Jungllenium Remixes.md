@@ -7,7 +7,8 @@ tags: [ Hiphop, Drum n Bass ]
 image: ../assets/images/Jungle Brothers – Jungllenium Remixes.jpg
 ---
 
-#### Jungle Brothers – Jungllenium Remixes
+「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
+
 
 #### Tracklist
 ```md
@@ -38,7 +39,6 @@ image: ../assets/images/Jungle Brothers – Jungllenium Remixes.jpg
 13. Straight Out The Jungle (Soul Shock Remix)
 ```
 
-Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
+[メルカリで購入](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m23288815689){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
