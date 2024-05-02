@@ -7,7 +7,7 @@ tags: [ Techno, Minimal, German Techno ]
 image: ../assets/images/Carl Craig – Landcruising.jpg
 ---
 
-Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)発掘された、デトロイトテクノ第二世代のCarl Craig。
+Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)に発掘された、デトロイトテクノ第二世代のCarl Craig。
 
 革新的なアンビエント、テクノ、ブレイクビート、フューチャージャズなど様々な要素を盛り込んだサウンドを作っている。
 
