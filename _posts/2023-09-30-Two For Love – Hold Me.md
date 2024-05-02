@@ -7,7 +7,7 @@ tags: [ Italo, Euro Beat ]
 image: ../assets/images/Two For Love – Hold Me.jpg
 ---
 
-#### Two For Love – Hold Me
+「Hold Me」は、1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。
 
 #### Tracklist
 ```md
@@ -18,14 +18,6 @@ B1. Hold Me (Radio Version)
 B2. Hold Me (Dub Version)
 ```
 
-1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。
+[メルカリで購入](https://jp.mercari.com/item/m94017039523?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m94017039523){: .button1}
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: VG</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: 底抜けあり</strong>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oje-JF4gRKg?si=8EYefkDYUOFoeSce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

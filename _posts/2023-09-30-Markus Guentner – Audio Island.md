@@ -7,7 +7,10 @@ tags: [ Techno, Minimal ]
 image: ../assets/images/Markus Guentner – Audio Island.jpg
 ---
 
-#### Markus Guentner – Audio Island
+Markus Guentnerによる「Audio Island」は、素晴らしい2枚組LPです。
+
+この2枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
+
 
 #### Tracklist
 ```md
@@ -28,10 +31,6 @@ D1. Sunset
 D2. Tears In Rain
 ```
 
-このレコードは素晴らしい2枚組LPです。
+[メルカリで購入](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
 
-この２枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m49257045375){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWit_D5CxmQ?si=KlTnIZ3YgQlRoRo-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

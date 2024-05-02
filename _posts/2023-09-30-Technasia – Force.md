@@ -7,7 +7,11 @@ tags: [ Techno ]
 image: ../assets/images/Technasia – Force.jpg
 ---
 
-#### Technasia – Force
+このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。
+
+"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
+
+裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
 
 #### Tracklist
 ```md
@@ -20,11 +24,6 @@ B1. Resilience
 B2. Force (Voxless)
 ```
 
-このForceはテクノのアンセムといってもよいでしょう。
+[メルカリで購入](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
-"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
-
-裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
-
-[メルカリで購入](https://jp.mercari.com/item/m82234983144){: .button1}
-
+https://jp.mercari.com/item/m82234983144?afid=6142608987
