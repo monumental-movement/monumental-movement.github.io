@@ -9,6 +9,8 @@ image: ../assets/images/Norken – Soul Static Bureau.jpg
 
 #### Norken – Soul Static Bureau
 
+#### Tracklist
+```md
 A1. Gone
 
 A2. Painting
@@ -30,6 +32,7 @@ D1. The Visit
 D2. Motor Breeze
 
 D3. Melissa Blend
+```
 
 NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
 

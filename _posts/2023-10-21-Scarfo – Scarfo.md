@@ -9,6 +9,8 @@ image: ../assets/images/Scarfo – Scarfo.jpg
 
 #### Scarfo – Scarfo
 
+#### Tracklist
+```md
 A1. Eyesore
 
 A2. Coin Op
@@ -22,6 +24,7 @@ B5. Car Chase
 B6. Throw It All
 
 B7. Wailing Words
+```
 
 Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 

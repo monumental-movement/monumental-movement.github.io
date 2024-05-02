@@ -9,9 +9,12 @@ image: ../assets/images/Thomas Schumacher – When I Rock (Remix).jpg
 
 #### Thomas Schumacher – When I Rock (Remix)
 
+#### Tracklist
+```md
 A. When I Rock (Anthony Rother Remix)
 
 AA. When I Rock (Johannes Heil Remix)
+```
 
 1998年にUKのレーベル「Bush」からリリースされたThomas SchumacherによるEPです。
 

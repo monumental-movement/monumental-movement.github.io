@@ -9,9 +9,12 @@ image: ../assets/images/Genghis Khan – Moskau Rocking Son Of Dschinghis Khan.j
 
 #### Genghis Khan – Moskau / Rocking Son Of Dschinghis Khan
 
+#### Tracklist
+```md
 A. Moskau (めざせモスクワ)
 
 B. Rocking Son Of Dschinghis Khan (ロッキング・サン)
+```
 
 Genghis Khan(ジンギスカン)は、1979年から1985年にかけて世界的に活躍した西ドイツのグループ。「Moskau (めざせモスクワ)」は、 1979年リリースのアルバム「ジンギスカン」からのシングルカットで世界的なヒットとなった。
 

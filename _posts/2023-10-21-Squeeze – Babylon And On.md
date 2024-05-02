@@ -9,6 +9,8 @@ image: ../assets/images/Squeeze – Babylon And On-r.jpg
 
 #### Squeeze – Babylon And On
 
+#### Tracklist
+```md
 A1. Hourglass
 
 A2. Footprints
@@ -32,6 +34,7 @@ B4. Who Are You?
 B5. The Waiting Game
 
 B6. Some Americans
+```
 
 「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。
 

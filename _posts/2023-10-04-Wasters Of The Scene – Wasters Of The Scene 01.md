@@ -9,9 +9,12 @@ image: ../assets/images/Wasters Of The Scene – Wasters Of The Scene 01.jpg
 
 #### Wasters Of The Scene – Wasters Of The Scene 01
 
+#### Tracklist
+```md
 A. Voulez-vous! Mix 1
 
 B. Voulez-vous! Mix 2
+```
 
 2005年にベルギーからリリースされたWasters Of The SceneによるEPです。
 

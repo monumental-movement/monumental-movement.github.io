@@ -9,11 +9,14 @@ image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.jpg
 
 #### Afrika Bambaataa And Westbam – Agharta
 
+#### Tracklist
+```md
 A. Agharta - The City Of Shamballa (Subterranean World) (Original)
 
 B1. Agharta - The City Of Shamballa (Subterranean World) (Dr. Rhythm's Higher State Of Trommelwirbel)
 
 B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
+```
 
 1998年にドイツのレーベル「Low Spirit Recordings」からリリースされた
 アフリカ・バンバータとウエストバムによるEPです。

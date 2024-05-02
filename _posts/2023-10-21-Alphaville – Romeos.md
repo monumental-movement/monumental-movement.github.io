@@ -9,9 +9,12 @@ image: ../assets/images/Alphaville – Romeos.jpg
 
 #### Alphaville – Romeos
 
+#### Tracklist
+```md
 1. Romeos (Extended)
 2. Headlines
 3. Romeos
+```
 
 Alphaville（アルファヴィル）は、1982年に結成されたMarian Gold（マリアン・ゴールド）を中心とするドイツのシンセポップバンド。
 

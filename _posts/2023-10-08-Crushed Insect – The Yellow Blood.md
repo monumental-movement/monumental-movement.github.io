@@ -9,11 +9,14 @@ image: ../assets/images/Crushed Insect – The Yellow Blood.jpg
 
 #### Crushed Insect – The Yellow Blood
 
+#### Tracklist
+```md
 A. Dead Serious Insects
 
 B1. Beetle-Juice
 
 B2. Squash I
+```
 
 1996年にスウェーデンのれーべる「Audio Pollution」からリリースされた本名Kari Pekka LekebuschことCari LekebuschによるプロジェクトCrushed InsectのEPです。
 

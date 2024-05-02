@@ -9,6 +9,8 @@ image: ../assets/images/King Kobra – I Want Your Sex.jpg
 
 #### King Kobra – I Want Your Sex
 
+#### Tracklist
+```md
 A. I Want Your Sex (Dance Mix)
 
 B1. I Want Your Sex (Bonus Mix)
@@ -16,6 +18,7 @@ B1. I Want Your Sex (Bonus Mix)
 B2. I Want Your Sex (Radio Edit)
 
 B3. I Want Your Sex (Playback)
+```
 
 本名David Brian Srbのプロジェクトである「King Kobra」のシングルです。
 

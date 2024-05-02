@@ -9,6 +9,8 @@ image: ../assets/images/Max Duley – Canal.jpg
 
 #### Max Duley – Canal
 
+#### Tracklist
+```md
 S1. Eternal Bleeding
 
 S2. Perfect Skin
@@ -16,6 +18,7 @@ S2. Perfect Skin
 T1. Sidekick
 
 T2. Searching
+```
 
 「Canal」は、イギリスのテクノミュージシャン、マックス・デューリー（Max Duley）による楽曲です。この曲は、彼のEP「Canal」に収録されています。
 

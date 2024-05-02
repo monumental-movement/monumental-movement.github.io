@@ -9,6 +9,8 @@ image: ../assets/images/Hiroshima – Third Generation.jpg
 
 #### Hiroshima – Third Generation
 
+#### Tracklist
+```md
 A1. Heavenly Angel
 
 A2. We Are
@@ -28,6 +30,7 @@ B3. Long Walks
 B4. Fifths
 
 B5. Sukoshi Bit
+```
 
 「Third Generation」は、アメリカのジャズフュージョンバンドであるHiroshimaのアルバムです。このアルバムは1983年にリリースされました。Hiroshimaは、日本の伝統音楽とジャズ、R&B、ポップスなどの要素を融合させた独自の音楽スタイルで知られています。
 

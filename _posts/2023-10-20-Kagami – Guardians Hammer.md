@@ -9,9 +9,12 @@ image: ../assets/images/Kagami – Guardians Hammer.jpg
 
 #### Kagami – Guardians Hammer
 
+#### Tracklist
+```md
 A. Guardians Hammer
 
 B. Last Resorts Spartan
+```
 
 「Kagami – Guardians Hammer」は、テクノ/ディスコ/ハウスレーベルCarizmaより2008年にリリースされた。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Odds – Odds E.P.jpg
 
 #### Odds – Odds E.P
 
+#### Tracklist
+```md
 A. Flying + To The Sky
 
 AA. Umbellikilisis
+```
 
 Odds（オッズ）は、Kris Kylven（クリス・キルヴェン）とBen Silver（ベン・シルバー/B. El Metoui）によるサイケデリック・ゴアトランスミュージックプロジェクト。
 

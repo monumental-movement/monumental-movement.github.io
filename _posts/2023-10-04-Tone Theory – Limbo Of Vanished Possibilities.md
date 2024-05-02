@@ -9,6 +9,8 @@ image: ../assets/images/Tone Theory – Limbo Of Vanished Possibilities.jpg
 
 #### Tone Theory – Limbo Of Vanished Possibilities
 
+#### Tracklist
+```md
 A0.01　Limbo Of Vanished Possibilities
 Producer, Mixed By – Derrick Carter, The Innocent
 Written-By – Derrick Carter
@@ -18,6 +20,7 @@ Engineer – Mathew Bushwaka! B
 Remix – Bushwacka!
 
 B0.02　Limbo Of Vanished Possibilities (Mr C Mix)
+```
 
 デリック・カーターのこのトラックは、ビートと複雑に作られたパーカッション、そして力強いベースラインでダンスフロアでの演奏には完璧です。
 

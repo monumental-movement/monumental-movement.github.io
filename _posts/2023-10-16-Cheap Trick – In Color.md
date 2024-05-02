@@ -9,6 +9,8 @@ image: ../assets/images/Cheap Trick – In Color.jpg
 
 #### Cheap Trick – In Color
 
+#### Tracklist
+```md
 A1. Hello There
 
 A2. Big Eyes
@@ -28,6 +30,7 @@ B3. Southern Girls
 B4. Come On, Come On
 
 B5. So Good To See You
+```
 
 Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。
 

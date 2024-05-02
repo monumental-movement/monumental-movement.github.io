@@ -9,9 +9,12 @@ image: ../assets/images/The Rurals – Lush.jpg
 
 #### The Rurals – Lush
 
+#### Tracklist
+```md
 A. Grey Clouds
 
 B. Lush
+```
 
 2000年にUKのレーベル「Peng」からリリースされた本名Andy Compton
 によるプロジェクトThe RuralsのEPです。

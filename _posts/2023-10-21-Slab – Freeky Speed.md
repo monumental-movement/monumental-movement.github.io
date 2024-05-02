@@ -9,6 +9,8 @@ image: ../assets/images/Slab – Freeky Speed.jpg
 
 #### Slab – Freeky Speed
 
+#### Tracklist
+```md
 A1. Shiva You're A Shambles (Intro)
 
 A2. Rampant Prankster
@@ -26,6 +28,7 @@ C2. Roof Bubble Rumble
 D1. Atom Smasher
 
 D2. Monkey Prankster
+```
 
 Slabは、Lol HammondとNina Walshによるユニット。
 

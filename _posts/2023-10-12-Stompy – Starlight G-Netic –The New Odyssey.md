@@ -9,9 +9,12 @@ image: ../assets/images/Stompy – Starlight G-Netic – The New Odyssey.jpg
 
 #### Stompy – Starlight G-Netic – The New Odyssey
 
+#### Tracklist
+```md
 A. DJ Stompy–Starlight
 
 AA. G-Netic –The New Odyssey
+```
 
 A面は、イギリスのハッピーハードコアアーティスト DJ Stompy（DJストンピー）によるトラック。「Starlight 」は DJ Stompyの代表作の一つ。
 

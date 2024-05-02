@@ -11,6 +11,8 @@ image: ../assets/images/RytmihairiovAmen – The End Of Evolution... ...Is Round
 
 Rytmihäiriö
 
+#### Tracklist
+```md
 A1. They
 
 A2. How Much Longer
@@ -54,7 +56,7 @@ B9. Starving Dog Eats Master
 B10. Money Rules The Fools
 
 B11. Spice-Song
-
+```
 
 Rytmifäärä は、1988年に結成されたヘルシンキ出身のデスコア/ハードコア/メタルバンド。Amenは、フィンランドのハードコアパンクバンド。
 

@@ -9,8 +9,11 @@ image: ../assets/images/Ei Mori – Vetettem Violat.jpg
 
 #### Ei Mori – Vetettem Violat
 
+#### Tracklist
+```md
 A. Vetettem Violat
 B. Vetettem Violat (Instrumental)
+```
 
 Ei Moriは、Herman Gillis、Jo Casters、Roland Beelenからなるユニットです。
 

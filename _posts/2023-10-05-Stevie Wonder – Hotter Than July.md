@@ -9,6 +9,8 @@ image: ../assets/images/Stevie Wonder – Hotter Than July.jpg
 
 #### Stevie Wonder – Hotter Than July
 
+#### Tracklist
+```md
 A1. Did I Hear You Say You Love Me
 
 A2. All I Do
@@ -28,6 +30,7 @@ B3. Cash In Your Face
 B4. Lately
 
 B5. Happy Birthday
+```
 
 「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin')」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
 

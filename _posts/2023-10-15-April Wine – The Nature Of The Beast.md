@@ -9,6 +9,8 @@ image: ../assets/images/April Wine – The Nature Of The Beast.jpg
 
 #### April Wine – The Nature Of The Beast
 
+#### Tracklist
+```md
 A1. All Over Town
 
 A2. Tellin' Me Lies
@@ -30,6 +32,7 @@ B3. Crash And Burn
 B4. Bad Boys
 
 B5. One More Time
+```
 
 「The Nature Of The Beast」は、カナダのロックバンドApril Wineが1981年にリリースしたアルバム。このアルバムは、バンドの代表作の一つとして高く評価されており、特に「Just Between You and Me」と「Sign of the Gypsy Queen」は、商業的にも成功を収め今でもエイプリル・ワインの代表曲として有名。このアルバムの成功により、バンドは国際的な知名度を高め、カナダのロックシーンで重要な位置を占めることになった。
 

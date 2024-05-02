@@ -9,6 +9,8 @@ image: ../assets/images/Rednex – Cotton Eye Joe.jpg
 
 #### Rednex – Cotton Eye Joe
 
+#### Tracklist
+```md
 A1. Cotton Eye Joe (Madcow Mix)
 
 A2. Cotton Eye Joe (Radio Version)
@@ -20,6 +22,7 @@ A4. Cotton Eye Joe (Armand's Instrumental)
 B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 
 B2. Cotton Eye Joe (Overworked Mix)
+```
 
 Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
 「Cotton Eye Joe」は、アメリカの民謡「コットン・アイド・ジョー」をベースにバンジョーやフィドルを取り入れたユーロハウスで、世界的なヒットとなった。

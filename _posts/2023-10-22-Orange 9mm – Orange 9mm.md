@@ -9,6 +9,8 @@ image: ../assets/images/Orange 9mm – Orange 9mm.jpg
 
 #### Orange 9mm – Orange 9mm
 
+#### Tracklist
+```md
 A1. Driver
 
 A2. Cutting And Draining
@@ -16,6 +18,7 @@ A2. Cutting And Draining
 B3. Dry
 
 B4. Can't Decide
+```
 
 Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Malik（ チャカ・マリック）とChris Traynor （クリス・トレイナー）によって結成されたUSポストハードコアバンド。
 

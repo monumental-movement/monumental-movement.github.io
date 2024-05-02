@@ -9,11 +9,14 @@ image: ../assets/images/X-Ray – Human Dog.jpg
 
 #### X-Ray – Human Dog
 
+#### Tracklist
+```md
 A1. Human Dog
 
 A2. Fade Away
 
 B1. Burning Like the Fire (Long Version)
+```
 
 X-Ray（エックスレイ）は、1981年から1986年まで活動した日本のヘヴィメタルバンド。1985年12月にリリースされた「Human Dog」は、X-Ray最後のEP。
 

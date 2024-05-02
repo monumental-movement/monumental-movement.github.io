@@ -9,11 +9,14 @@ image: ../assets/images/Black Metal Featuring Lady Lust – Show No Mercy.jpg
 
 #### Black Metal Featuring Lady Lust – Show No Mercy
 
+#### Tracklist
+```md
 A. Show No Mercy (Extended No - Mercy Mix)
 
 B1. Show No Mercy (Extended V II Mix)
 
 B2. Show No Mercy (Playback)
+```
 
 1995年にイタリアのレーベル「Bulldozer Records」からリリースされたBlack MetalによるEPです。
 

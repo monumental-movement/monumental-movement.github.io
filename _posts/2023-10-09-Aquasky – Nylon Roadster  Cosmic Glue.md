@@ -9,9 +9,12 @@ image: ../assets/images/Aquasky – Nylon Roadster Cosmic Glue.jpg
 
 #### Aquasky – Nylon Roadster  Cosmic Glue
 
+#### Tracklist
+```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
+```
 
 1996年から1997年にかけての多くのMoving Shadowのリリースは、ジャジーな曲調に過度に傾倒していましたが、Aquaskyのこのリリースは、穏やかなドラム＆ベースがつまらないものである必要はないことを証明しました。
 

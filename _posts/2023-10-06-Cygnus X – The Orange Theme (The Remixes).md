@@ -9,6 +9,8 @@ image: ../assets/images/Cygnus X – The Orange Theme (The Remixes).jpg
 
 #### Cygnus X – The Orange Theme (The Remixes)
 
+#### Tracklist
+```md
 A1. The Orange Theme (Moonman's Orange Juice Mix)
 
 A2. The Orange Theme (Original Mix)6:29
@@ -16,6 +18,7 @@ A2. The Orange Theme (Original Mix)6:29
 B1. The Orange Theme (Bervoets & De Goeij Remix)
 
 B2. The Orange Theme (Mark Van Dale With Enrico Mix)
+```
 
 Cygnus Xは、ドイツのテクノユニットであり、1990年代に活動していました。彼らは、トランスミュージックやハードトランスのサウンドで知られています。
 

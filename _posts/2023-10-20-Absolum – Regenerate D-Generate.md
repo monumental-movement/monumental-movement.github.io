@@ -9,9 +9,12 @@ image: ../assets/images/Absolum – Regenerate D-Generate.jpg
 
 #### Absolum – Regenerate D-Generate
 
+#### Tracklist
+```md
 A. Regenerate
 
 B. D-Generate
+```
 
 Absolum（アブソラム）は、フランスのサイトランスアーティストChristof Drouillet（クリストフ・ドルイエ）の別名義。
 

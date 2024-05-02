@@ -9,11 +9,14 @@ image: ../assets/images/Panjabi MC – Mundian To Bach Ke.jpg
 
 #### Panjabi MC – Mundian To Bach Ke
 
+#### Tracklist
+```md
 A. Mundian To Bach Ke (Main Mix)
 
 B1. Mundian To Bach Ke (Switch Mix)
 
 B2. Mundian Breaks
+```
 
 「Mundian To Bach Ke」は、イギリスのミュージシャンPanjabi MCが制作し、パンジャブ地方のアーティストLabh Janjuaがボーカルと歌詞を提供したバングラ音楽の曲です。この曲は、Panjabi MCが1998年のアルバム「Legalised」のためにイギリスのバーミンガムで制作しました。
 

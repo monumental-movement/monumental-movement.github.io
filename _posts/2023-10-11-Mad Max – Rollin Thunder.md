@@ -9,6 +9,8 @@ image: ../assets/images/Mad Max – Rollin' Thunder.jpg
 
 #### Mad Max – Rollin' Thunder
 
+#### Tracklist
+```md
 A1. Fly, Fly Away
 
 A2. Evil Message
@@ -26,7 +28,7 @@ B2. Rollin' Thunder
 B3. Riding Through The Night
 
 B4. Thoughts Of A Dying Man
-
+```
 
 Mad Max（マッドマックス）は、ドイツのミュンスター出身のマイケル・ヴォス、ユルゲン・ブレフォース、ローランド・バーグマン、アクセル・クルーゼによって1981年に結成されたハードロックバンド。 
 

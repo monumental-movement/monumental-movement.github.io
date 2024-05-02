@@ -9,6 +9,8 @@ image: ../assets/images/The Communards – Red.jpg
 
 #### The Communards – Red
 
+#### Tracklist
+```md
 A1. Tomorrow
 
 A2. T.M.T.T.B.M.G.
@@ -28,6 +30,7 @@ B3. Hold On Tight
 B4I. f I Could Tell You
 
 B5. C Minor
+```
 
 「Red」は、イギリスの音楽デュオ、The Communardsのアルバムです。このアルバムは1987年にリリースされました。The Communardsは、Jimmy SomervilleとRichard Colesによって結成されたバンドで、ダンスポップやシンセポップの要素を取り入れた音楽で知られています。
 

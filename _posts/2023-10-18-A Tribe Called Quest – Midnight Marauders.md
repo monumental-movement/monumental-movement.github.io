@@ -9,6 +9,8 @@ image: ../assets/images/A Tribe Called Quest – Midnight Marauders.jpg
 
 #### A Tribe Called Quest – Midnight Marauders
 
+#### Tracklist
+```md
 A1. Midnight Marauders Tour Guide
 
 A2. Steve Biko (Stir It Up)
@@ -36,6 +38,7 @@ B5. The Chase, Part II
 B6. Lyrics To Go
 
 B7. God Lives Through
+```
 
 1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 

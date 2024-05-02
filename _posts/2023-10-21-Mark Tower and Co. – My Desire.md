@@ -9,6 +9,8 @@ image: ../assets/images/Mark Tower and Co. – My Desire.jpg
 
 #### Mark Tower & Co. – My Desire
 
+#### Tracklist
+```md
 A1. My Desire (Fireball Edit)
 
 A2. My Desire (Only For D.J.)
@@ -18,6 +20,7 @@ B1. My Desire (7" Remix)
 B2. My Desire (Dub Edit)
 
 B3. My Desire (Last Version)
+```
 
 作曲は、Giuliano Crivellente（ジュリアーノ・クリヴェレンテ）, Mauro Farina（マウロ・ファリーナ）。vocalは、Gianni Coraini（別名義：Ken Laszlo/ケン・ラズロ、DJ NRGなど多数）。
 

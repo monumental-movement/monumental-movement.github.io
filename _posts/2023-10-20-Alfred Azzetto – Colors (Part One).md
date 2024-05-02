@@ -9,9 +9,12 @@ image: ../assets/images/Alfred Azzetto – Colors (Part One).jpg
 
 #### Alfred Azzetto – Colors (Part One)
 
+#### Tracklist
+```md
 A. Colors (Walterino Main Mix)
 
 B. Colors (Alfred's Piano Mix)
+```
 
 Alfred Azzettoは、ハウスミュージックプロデューサー・DJ。2002年リリースの「Point of View」が世界的ヒットとなったDB Boulevardのプロデューサーとしても有名。
 

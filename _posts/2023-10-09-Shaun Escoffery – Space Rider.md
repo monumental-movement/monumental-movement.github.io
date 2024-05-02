@@ -9,9 +9,12 @@ image: ../assets/images/Shaun Escoffery – Space Rider.jpg
 
 #### Shaun Escoffery – Space Rider
 
+#### Tracklist
+```md
 A1. Space Rider (Spinna Club Mix)
 
 B2. Space Rider (Original Mix)
+```
 
 2002年にUKのレーベル「Oyster Music」からリリースされたShaun EscofferyによるEPです。
 

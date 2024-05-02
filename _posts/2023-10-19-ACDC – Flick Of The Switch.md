@@ -9,6 +9,8 @@ image: ../assets/images/ACDC – Flick Of The Switch.jpg
 
 #### AC/DC – Flick Of The Switch
 
+#### Tracklist
+```md
 A1. Rising Power
 
 A2. This House Is On Fire
@@ -28,6 +30,7 @@ B3. Bedlam In Belgium
 B4. Badlands
 
 B5. Brain Shake
+```
 
 『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。
 

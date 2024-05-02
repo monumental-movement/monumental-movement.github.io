@@ -9,6 +9,8 @@ image: ../assets/images/Midnight Juggernauts – Into The Galaxy.jpg
 
 #### Midnight Juggernauts – Into The Galaxy
 
+#### Tracklist
+```md
 A1. Into The Galaxy (Original Mix)
 
 A2. Into The Galaxy (Chateau Marmont Remix)
@@ -16,6 +18,7 @@ A2. Into The Galaxy (Chateau Marmont Remix)
 B1. Into The Galaxy (Metronomy Remix)
 
 B2. Into The Galaxy (Danger Remix)
+```
 
 Midnight Juggernauts（ミッドナイト・ジャガーノーツ）は、2004年から2014年まで活動したオーストラリアのエレクトロニック・ミュージックバンドで、エレクトロニック、インディー、シンセポップなどの要素を取り入れた独自のサウンドで人気を博した。「Into The Galaxy」は、彼らの代表曲の一つとして知られている。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Photek – Modus Operandi.jpg
 
 #### Photek – Modus Operandi
 
+#### Tracklist
+```md
 A. Modus Operandi
 
 B. Yendi
+```
 
 Photekとして知られているRupert Parkes （ルパート・パークス）は、ロサンゼルスを拠点とするイギリスの電子音楽 DJ/レコード プロデューサー、テレビおよび映画音楽の作曲家。
 

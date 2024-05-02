@@ -9,6 +9,8 @@ image: ../assets/images/Various – Survival Of The Fattest.jpg
 
 #### Various – Survival Of The Fattest
 
+#### Tracklist
+```md
 A1. Hi-Standard–California Dreaming
 
 A2. No Use For A Name–Justified Black Eye
@@ -42,6 +44,7 @@ B6. Bracket–Talk Show
 B7. Snuff –Walk
 
 B8. Me First And The Gimme Gimmes–Country Roads
+```
 
 1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 

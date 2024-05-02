@@ -9,9 +9,12 @@ image: ../assets/images/Paintbox – The Door Provided Railroad.jpg
 
 #### Paintbox – The Door  Provided Railroad
 
+#### Tracklist
+```md
 A. The Door
 
 B. Provided Railroad
+```
 
 1999年にHG Factレーベルよりリリースされた、Paintbox（ペイントボックス）の2nd 7インチ。録音はスタジオOur House。
 

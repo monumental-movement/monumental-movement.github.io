@@ -9,6 +9,8 @@ image: ../assets/images/Rei Harakami – [lust].jpg
 
 #### Rei Harakami – [lust]
 
+#### Tracklist
+```md
 1. Long Time
 2. Joy
 3. Lust
@@ -19,6 +21,7 @@ image: ../assets/images/Rei Harakami – [lust].jpg
 8. Last Night
 9. Approach
 10. First Period
+```
 
 2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Geodezik – Trap EP.jpg
 
 #### Geodezik – Trap EP
 
+#### Tracklist
+```md
 A1. Eye-Link
 
 A2. Trap Town
@@ -16,6 +18,7 @@ A2. Trap Town
 B1. Night Dive
 
 B2. Outstepper
+```
 
 1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
 

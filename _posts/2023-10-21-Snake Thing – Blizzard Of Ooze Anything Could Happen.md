@@ -9,9 +9,12 @@ image: ../assets/images/Snake Thing – Blizzard Of Ooze Anything Could Happen.j
 
 #### Snake Thing – Blizzard Of Ooze / Anything Could Happen
 
+#### Tracklist
+```md
 A. Blizzard Of Ooze
 
 B. Anything Could Happen
+```
 
 Snake Thingは、Nick Taylorのソロプロジェクト。
 

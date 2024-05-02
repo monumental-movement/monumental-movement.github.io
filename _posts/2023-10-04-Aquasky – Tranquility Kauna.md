@@ -9,9 +9,12 @@ image: ../assets/images/Aquasky – Tranquility Kauna.jpg
 
 #### Aquasky – Tranquility Kauna
 
+#### Tracklist
+```md
 X. Tranquility
 
 Y. Kauna
+```
 
 1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
 

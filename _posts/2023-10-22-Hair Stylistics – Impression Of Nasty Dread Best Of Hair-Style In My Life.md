@@ -9,9 +9,12 @@ image: ../assets/images/Hair Stylistics – Impression Of Nasty Dread Best Of Ha
 
 #### Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life
 
+#### Tracklist
+```md
 A. Impression Of Nasty Dread
 
 B. Best Of Hair-Style In My Life
+```
 
 ヘア・スタイリスティクス a.k.a.中原昌也の1999年リリースの7inch。
 

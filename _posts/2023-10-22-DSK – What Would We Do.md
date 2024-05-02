@@ -11,6 +11,8 @@ v-rating: VG
 
 #### DSK – What Would We Do
 
+#### Tracklist
+```md
 A1. What Would We Do (Hurley's House Mix)
 
 A2. What Would We Do (Hurley's Dub Mix)
@@ -22,6 +24,7 @@ B1. What Would We Do (Hurley's Extended Mix)
 B2. What Would We Do
 
 B3. Read My Lips
+```
 
 「What Would We Do」は、キャッチーなメロディとリズムが特徴的です。特に、ボーカルのループやエレクトロニックなサウンドが、楽曲のトーンを作り上げています。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Plutocracy – Dankstahz.jpg
 
 #### Plutocracy – Dankstahz
 
+#### Tracklist
+```md
 A1. Intro
 
 A2. Jailed
@@ -40,6 +42,7 @@ B6. Snitch
 B7. Erupt
 
 B8. Outro
+```
 
 1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
 

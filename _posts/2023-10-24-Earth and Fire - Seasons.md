@@ -9,9 +9,12 @@ image: ../assets/images/Earth and Fire - Seasons.jpg
 
 #### Earth and Fire - Seasons
 
+#### Tracklist
+```md
 A. Seasons = シーズン
 
 B. Hazy Paradise = 霧のパラダイス
+```
 
 Earth & Fire(アース・アンド・ファイアー)は、オランダ、フォールスホーテン/フォールブルグ出身のポップロックバンド。1969年リリースの「Seasons(シーズンズ)」はEarth & Fireの代表曲。
 

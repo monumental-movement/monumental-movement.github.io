@@ -9,11 +9,14 @@ image: ../assets/images/Repeater – The Serpents Knees E.P.jpg
 
 #### Repeater – The Serpents Knees E.P
 
+#### Tracklist
+```md
 A1. Fly Spawn
 
 AA1. Bulbous Phag
 
 AA2. Serpents Knees
+```
 
 Repeater（リピーター）は、Alan WoodburnとHarold Walkerによるアシッドテクノユニット。「The Serpents Knees E.P」は、UKのアシッドトランスレーベル Filterlessよりリリース。
 

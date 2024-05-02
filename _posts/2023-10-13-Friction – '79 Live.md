@@ -9,6 +9,8 @@ image: ../assets/images/Friction – '79 Live.jpg
 
 #### Friction – '79 Live
 
+#### Tracklist
+```md
 CD-1Automatic-Fru
 
 CD-2Pistol
@@ -30,6 +32,7 @@ CD-9Out
 DVD-1Friction
 
 DVD-21979-80 8mm Film
+```
 
 Friction（フリクション）は、1970年代後半の「東京ロッカーズ」ムーブメントの中心的存在だった日本のパンク・ロックバンド。
 

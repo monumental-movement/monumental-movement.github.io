@@ -9,6 +9,8 @@ image: ../assets/images/Various – Environments.jpg
 
 #### Various – Environments
 
+#### Tracklist
+```md
 A1. Landslide – Muted Voices
 
 A2. Afro Mystik – Ritual De Rua
@@ -30,6 +32,7 @@ E1. Voom Voom – Poppen
 E2. Ming + FS – Dog Tag
 
 F.  Skylight – Primate Exhibit
+```
 
 2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
 

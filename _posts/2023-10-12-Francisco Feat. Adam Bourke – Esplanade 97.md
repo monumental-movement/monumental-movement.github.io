@@ -9,11 +9,14 @@ image: ../assets/images/Francisco Feat. Adam Bourke – Esplanade 97.jpg
 
 #### Francisco Feat. Adam Bourke – Esplanade 97
 
+#### Tracklist
+```md
 A. Esplanade 97 (Vox Mix)
 
 B1. Esplanade 97 (Instrumental)
 
 B2. Rock'n'Roll Lover (Horror Mix)
+```
 
 ネオエレクトロとIDMサウンドを専門とするイタリアのレーベルNature Recordsより2004年にリリースされた「Esplanade 97」は、イタリアのDJ/プロデューサーFrancisco(Francesco de Bellis)と Adam Bourke（アダムバーク）によるテクノ・エレクトロトラック。
 

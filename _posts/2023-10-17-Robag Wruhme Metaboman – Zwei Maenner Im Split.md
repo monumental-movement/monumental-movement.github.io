@@ -9,6 +9,8 @@ image: ../assets/images/Robag Wruhme Metaboman – Zwei Maenner Im Split.jpg
 
 #### Robag Wruhme Metaboman – Zwei Maenner Im Split
 
+#### Tracklist
+```md
 A1. Metaboman –Easy Woman
 
 A2. Metaboman –Easy Woman (Robag Wruhme Remix)
@@ -16,6 +18,7 @@ A2. Metaboman –Easy Woman (Robag Wruhme Remix)
 B1. Robag Wruhme –August Macke
 
 B2. Robag Wruhme –August Macke (Metaboman Remix)
+```
 
 ドイツ出身のベテランテクノDJ/プロデューサーRobag Wruhme（ロバッグ・ルーメ）と、Metaboman（WENDELIN WEISSBACH）によるミニマル・テクノ・クラシック。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Moloko – Sing It Back.jpg
 
 #### Moloko – Sing It Back
 
+#### Tracklist
+```md
 A1. Sing It Back (Boris Musical Mix)
 
 A2. Sing It Back (Booker T Loco Mix)
@@ -24,6 +26,7 @@ C2. Sing It Back (House Of Lords Wig Out Mix)
 D1. Sing It Back (Chez Maurice Mix)
 
 D2. Sing It Back (Herbert's Tasteful Dub)
+```
 
 「Sing It Back」は、アイルランドとイギリスの電子音楽デュオ、Moloko（Róisín MurphyとMark Brydon）によって書かれた曲です。
 

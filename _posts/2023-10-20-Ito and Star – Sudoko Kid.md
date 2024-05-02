@@ -9,11 +9,14 @@ image: ../assets/images/Ito and Star – Sudoko Kid.jpg
 
 #### Ito & Star – Sudoko Kid
 
+#### Tracklist
+```md
 A1. Sudoko Kid (Original Mix)
 
 A2. Sudoko Kid (Alexi Delano & Xpansul Remix)
 
 B1. Sudoko Kid (Nic Fanciulli Remix)
+```
 
 「Ito & Star – Sudoko Kid」は、Cr2 Recordsより2007年にリリースされたIto（Itamar Levy）とStar（Ophir Star）によるミニマルテクノ。
 

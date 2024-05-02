@@ -9,6 +9,8 @@ image: ../assets/images/Czerkinsky – Variations Sur Natacha (Remixes).jpg
 
 #### Czerkinsky – Variations Sur Natacha (Remixes)
 
+#### Tracklist
+```md
 A1. Natacha (remix: Le Monocle)
 
 A2. Natacha (remix: Roudoudou)
@@ -22,6 +24,7 @@ B2. Natacha (remix: Czerkinsky)
 B3. Natacha (remix: Sporto Kantes)
 
 B4. Natacha (Version Originale)
+```
 
 「Variations Sur Natacha (Remixes)」は、フランスのエレクトロニックミュージックプロデューサーGregory Czerkinsky（グレゴリー・チェルキンスキィ）の代表作「Natachaナターシャ」のremix集。
 

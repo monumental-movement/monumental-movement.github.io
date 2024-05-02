@@ -9,11 +9,14 @@ image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.jpg
 
 #### Elektrik Haze vs. Beck – Elektro Loser
 
+#### Tracklist
+```md
 A1. Elektro Loser (Tek & Onex Mix)
 
 A2. Elektro Loser (Elektribal Mix)
 
 B. Elektro Loser (Unity Level Remix)
+```
 
 1994年にリリースされたBECK（ベック）のヒット曲「LOSER（ルーザー） 」をElektrik Hazeがエレクトロremix。
 

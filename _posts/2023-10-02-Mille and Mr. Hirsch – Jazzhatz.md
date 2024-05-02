@@ -9,11 +9,14 @@ image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.jpg
 
 #### Mille and Mr. Hirsch – Jazzhatz
 
+#### Tracklist
+```md
 A. Jazzhatz (Play It Loud)
 
 B1. Jazzhatz (Original)
 
 B2. One More
+```
 
 2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。
 

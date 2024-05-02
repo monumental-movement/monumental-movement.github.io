@@ -9,11 +9,14 @@ image: ../assets/images/Bruno Pronsato – Wuorinen Live In Cascadia.jpg
 
 #### Bruno Pronsato – Wuorinen Live In Cascadia
 
+#### Tracklist
+```md
 A1. Wuorinen
 
 A2. Wuorinen (Jackmate Remix)
 
 B1. Live In Cascadia
+```
 
 Bruno Pronsato（ブルーノ・プロンサト/Steven Ford）は、アメリカ出身、ベルリン在住のDJ/プロデューサー。
 「Wuorinen / Live In Cascadia」は、USシアトルを拠点にエクスペリメンタルからミニマルなダンスフロアテクノをリリースするレーベルOrac Recordsから2005年にリリースされた。

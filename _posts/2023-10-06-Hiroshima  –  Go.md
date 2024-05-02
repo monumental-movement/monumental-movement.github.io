@@ -9,6 +9,8 @@ image: ../assets/images/Hiroshima  –  Go.jpg
 
 #### Hiroshima  –  Go
 
+#### Tracklist
+```md
 A1. Go
 
 A2. I've Been Here Before
@@ -24,6 +26,7 @@ B2. Even Then
 B3. Hawaiian Electric
 
 B4. Why Can't I Love You
+```
 
 「Go」は、Hiroshimaのシックスアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、豊かなサウンドスケープと洗練された演奏によって特徴付けられています。
 

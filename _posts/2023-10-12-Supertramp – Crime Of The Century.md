@@ -9,6 +9,8 @@ image: ../assets/images/Supertramp – Crime Of The Century.jpg
 
 #### Supertramp – Crime Of The Century
 
+#### Tracklist
+```md
 A1. School
 
 A2. Bloody Well Right
@@ -24,7 +26,7 @@ B2. Rudy
 B3. If Everyone Was Listening
 
 B4. Crime Of The Century
-
+```
 
 Supertramp（スーパートランプ）は、イギリスのプログレッシブ・ロックバンド。
 

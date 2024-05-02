@@ -9,6 +9,8 @@ image: ../assets/images/Rosetta Stone – ROCK PICTURES.jpg
 
 #### Rosetta Stone – ROCK PICTURES
 
+#### Tracklist
+```md
 A1. (If Paradise Is) Half As Nice
 
 A2. Penny
@@ -30,6 +32,7 @@ B4. Steel Willie
 B5. Free As A Bird
 
 B6. You Really Got Me
+```
 
 Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 

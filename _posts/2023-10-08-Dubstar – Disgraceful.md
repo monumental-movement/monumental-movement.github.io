@@ -9,6 +9,8 @@ image: ../assets/images/Dubstar – Disgraceful.jpg
 
 #### Dubstar – Disgraceful
 
+#### Tracklist
+```md
 1. Stars
 2. Anywhere
 3. Just A Girl She Said
@@ -30,6 +32,7 @@ Bonus Tracks
 16. Elevator Song (Acoustic)
 17. Stars (Way Out West Remix)
 18. Not So Manic Now (Way Out West Remix)
+```
 
 1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
 

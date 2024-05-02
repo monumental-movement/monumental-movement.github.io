@@ -9,6 +9,8 @@ image: ../assets/images/Alec Empire – The Destroyer.jpg
 
 #### Alec Empire – The Destroyer
 
+#### Tracklist
+```md
 A1. Untitled
 
 A2. We All Die!
@@ -40,6 +42,7 @@ D2. My Face Would Crack
 D3. Pleasure Is Our Business (Live!)
 
 D4. Untitled
+```
 
 Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
 

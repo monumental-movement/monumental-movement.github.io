@@ -9,6 +9,8 @@ image: ../assets/images/Lou Reed – New York.jpg
 
 #### Lou Reed – New York
 
+#### Tracklist
+```md
 1. Romeo Had Juliette
 
 2. Halloween Parade
@@ -36,6 +38,7 @@ image: ../assets/images/Lou Reed – New York.jpg
 13. Strawman
 
 14. Dime Store Mystery
+```
 
 「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
 

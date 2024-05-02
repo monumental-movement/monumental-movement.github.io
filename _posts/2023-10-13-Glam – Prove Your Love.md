@@ -9,6 +9,8 @@ image: ../assets/images/Glam – Prove Your Love.jpg
 
 #### Glam – Prove Your Love
 
+#### Tracklist
+```md
 A1. Prove Your Love (Club Mix)
 
 A2. Prove Your Love (Acappella)
@@ -16,6 +18,7 @@ A2. Prove Your Love (Acappella)
 B1. Prove Your Love (Instrumental)
 
 B2. Prove Your Love (Radio Mix)
+```
 
 Glamは、Roberto Ferrante（ロベルト・フェランテ）プロデュースのイタロディスコ/ハウスプロジェクト。
 

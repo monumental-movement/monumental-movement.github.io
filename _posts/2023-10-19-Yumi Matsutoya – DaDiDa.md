@@ -9,6 +9,8 @@ image: ../assets/images/Yumi Matsutoya – Da・Di・Da.jpg
 
 #### Yumi Matsutoya – Da・Di・Da
 
+#### Tracklist
+```md
 A1. もう愛は始まらない
 
 A2. 人のストリート
@@ -26,6 +28,7 @@ B3. シンデレラ・エクスプレス
 B4. 青春のリグレット
 
 B5. たとえあなたが去って行っても
+```
 
 「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
 

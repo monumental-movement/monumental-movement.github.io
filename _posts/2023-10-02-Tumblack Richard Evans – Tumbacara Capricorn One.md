@@ -9,9 +9,12 @@ image: ../assets/images/Tumblack Richard Evans – Tumbacara Capricorn One.jpg
 
 #### Tumblack Richard Evans – Tumbacara Capricorn One
 
+#### Tracklist
+```md
 A. Tumblack–Tumbacara (Ashley Beedle's DiscoDub Pt2 Edit)
 
 AA. Richard Evans  –Capricorn One (Ashley Beedle's Space Flight Edit)
+```
 
 Ashley Beedle（アシュレー・ビードル/アシュレイ・ビードル）はイギリス人DJ兼プロデューサーで、X-Press 2のメンバーとして活躍しています。また、Black Sunshine Records、Afro Art、Out Hear Audio、Modern Artifacts などのレーベルのプロデューサーでもあります。
 

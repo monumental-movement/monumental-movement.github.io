@@ -9,6 +9,8 @@ image: ../assets/images/Various – Raging Thrash From Blind Vision.jpg
 
 #### Various – Raging Thrash From Blind Vision
 
+#### Tracklist
+```md
 A1. Purge –Ugly Smile
 
 A2. Purge –True Tendernes
@@ -32,6 +34,7 @@ B4. Sacrifice –Sacrifise
 B5. Reality Crisis–Open Your Eyes
 
 B6. Reality Crisis–Last Count Down
+```
 
 2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
 

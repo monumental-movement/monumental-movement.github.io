@@ -9,11 +9,14 @@ image: ../assets/images/Cajmere – Percolator.jpg
 
 #### Cajmere – Percolator
 
+#### Tracklist
+```md
 A. Percolator (Original Mix)
 
 B1. Percolator (Keep Movin' Mix)
 
 B2. Percolator (Green Velvet Mix)
+```
 
 1993年初頭までに、シカゴの多くのDJがこの曲をかけていました。当時、これはシカゴのダンスシーンを定義する曲で、トラックを特徴づけるバウンドするピンポンボールのようなサウンドは非常にキャッチーで、切り刻まれ、フリーキーです。
 

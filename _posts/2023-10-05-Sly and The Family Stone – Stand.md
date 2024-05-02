@@ -9,6 +9,8 @@ image: ../assets/images/Sly & The Family Stone – Stand.jpg
 
 #### Sly & The Family Stone – Stand
 
+#### Tracklist
+```md
 A1. Stand!
 
 A2. Don't Call Me Nigger, Whitey
@@ -24,7 +26,7 @@ B1. Everyday People
 B2. Sex Machine
 
 B3. You Can Make It If You Try
-
+```
 
 「Stand!」は、スライ＆ザ・ファミリー・ストーンの4枚目のスタジオアルバムであり、彼らの最も成功した作品の一つです。
 

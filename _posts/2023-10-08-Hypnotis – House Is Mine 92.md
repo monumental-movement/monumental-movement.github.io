@@ -9,6 +9,8 @@ image: ../assets/images/Hypnotist – House Is Mine 92.jpg
 
 #### Hypnotist – House Is Mine 92
 
+#### Tracklist
+```md
 A1. The House Is Mine (Dark Syndicut Remix)
 
 A2. The House Is Mine (Original Mix)
@@ -16,6 +18,7 @@ A2. The House Is Mine (Original Mix)
 B1. The House Is Mine (Interface Remix)
 
 B2. The House Is Mine (Pete Smith Remix)
+```
 
 ヒプノティストは、イギリスのテクノユニットであり、初期のテクノシーンにおいて活躍しました。彼らの音楽は、エネルギッシュでダンスフロア向けのトラックとして知られています。
 

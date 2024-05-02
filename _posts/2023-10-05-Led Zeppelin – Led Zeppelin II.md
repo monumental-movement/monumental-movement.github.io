@@ -9,6 +9,8 @@ image: ../assets/images/Led Zeppelin – Led Zeppelin II.jpg
 
 #### Led Zeppelin – Led Zeppelin II
 
+#### Tracklist
+```md
 A1. Whole Lotta Love
 
 A2. What Is And What Should Never Be
@@ -26,6 +28,7 @@ B3. Ramble On
 B4. Moby Dick
 
 B5. Bring It On Home
+```
 
 「Led Zeppelin II」は、バンドのサウンドをさらに進化させた作品であり、ハードでエネルギッシュな楽曲が収録されています。アルバムは、ジミー・ペイジ（Jimmy Page）のギターリフ、ロバート・プラント（Robert Plant）のヴォーカル、ジョン・ボーナム（John Bonham）のドラム、ジョン・ポール・ジョーンズ（John Paul Jones）のベースなど、メンバーそれぞれの才能が光る演奏で構成されています。
 

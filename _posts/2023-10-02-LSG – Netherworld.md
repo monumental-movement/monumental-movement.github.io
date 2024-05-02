@@ -9,9 +9,12 @@ image: ../assets/images/LSG – Netherworld.jpg
 
 #### LSG – Netherworld
 
+#### Tracklist
+```md
 A. Netherworld (Jules Verne Mix)
 
 B. Netherworld (DJ Randy's Smoke Free Mix)
+```
 
 1997年にUKのレーベル「Hooj Choons」よりリリースされたOliver Liebによるプロジェクト「LSG」のEPです。
 

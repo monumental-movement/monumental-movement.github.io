@@ -9,6 +9,8 @@ image: ../assets/images/The Eclectics – Idle Worship.jpg
 
 #### The Eclectics – Idle Worship
 
+#### Tracklist
+```md
 A1. Harry
 
 A2. Siddhartha
@@ -28,6 +30,7 @@ B3. New Found You
 B4. Near And Far
 
 B5. It's Not About You, Kevin
+```
 
 1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
 

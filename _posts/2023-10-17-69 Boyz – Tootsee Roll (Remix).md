@@ -9,6 +9,8 @@ image: ../assets/images/69 Boyz – Tootsee Roll (Remix).jpg
 
 #### 69 Boyz – Tootsee Roll (Remix)
 
+#### Tracklist
+```md
 A1. Tootsee Roll (Quiet Storm Club Mix)
 
 A2. Tootsee Roll (Quiet Storm Mix)
@@ -16,6 +18,7 @@ A2. Tootsee Roll (Quiet Storm Mix)
 B1. Tootsee Roll (Set It Off Club Mix)
 
 B2. Tootsee Roll (Set It Off Mix)
+```
 
 69 Boyz は、USマイアミベース＆ヒップホップデュオ。
 「Tootsee Roll」は、69 Boyzのデビュー アルバム「199Quad」からのシングルカット。プロデューサーは、フロリダ出身のUSヒップホップグループ95 South。

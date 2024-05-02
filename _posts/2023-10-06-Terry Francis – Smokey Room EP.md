@@ -9,11 +9,14 @@ image: ../assets/images/Terry Francis – Smokey Room EP.jpg
 
 #### Terry Francis – Smokey Room EP
 
+#### Tracklist
+```md
 A. Believe In Yourself
 
 B1. Love In
 
 B2. Roll In Life
+```
 
 Terry Francisは1966年7月28日にEpsomで生まれたイギリスのDJ兼プロデューサーです。
 

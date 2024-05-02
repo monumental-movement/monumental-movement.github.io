@@ -9,6 +9,8 @@ image: ../assets/images/Basic Elements – T-E-C-H-N-O.jpg
 
 #### Basic Elements – T-E-C-H-N-O
 
+#### Tracklist
+```md
 A1. T-E-C-H-N-O (Insane Vocals)
 
 A2. T-E-C-H-N-O (Rave)
@@ -16,6 +18,7 @@ A2. T-E-C-H-N-O (Rave)
 B1. Trippin' On The Elements (Trance Trip)
 
 B2. Fro-Dian Gruv (House Gruv)
+```
 
 レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
 

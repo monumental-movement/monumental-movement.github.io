@@ -9,11 +9,14 @@ image: ../assets/images/Sexual Harrassment – I Need A Freak.jpg
 
 #### Sexual Harrassment – I Need A Freak
 
+#### Tracklist
+```md
 A. I Need A Freak (Long Version)
 
 B1. I Need A Freak (Short Version)
 
 B2. I Need A Freak (Instrumental Version)
+```
 
 Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン・トリバー・ジュニア　別名：David Payto/デヴィッド・ペイトン）を中心とした米国発のプロジェクト。
 

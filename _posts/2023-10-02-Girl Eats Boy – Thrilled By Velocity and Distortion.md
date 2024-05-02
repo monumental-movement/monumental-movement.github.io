@@ -9,6 +9,8 @@ image: ../assets/images/Girl Eats Boy – Thrilled By Velocity and Distortion.jp
 
 #### Girl Eats Boy – Thrilled By Velocity and Distortion
 
+#### Tracklist
+```md
 A1. Napalm In Bohemia
 
 A2. Girl Eats Boy
@@ -24,6 +26,7 @@ C2. Moist Babe Hates The Government
 D1. Rude Girl Steppin'
 
 D2. Ram Raid
+```
 
 Girl Eats Boyは、イギリス出身のプロデューサー/DJ、Lol Hammond（ロル・ハモンド）のプロジェクト。「Girl Eats Boy – Thrilled By Velocity & Distortion」は1998年にHydrogen Dukeboxよりリリース。
 

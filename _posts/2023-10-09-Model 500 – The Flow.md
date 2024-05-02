@@ -9,11 +9,14 @@ image: ../assets/images/Model 500 – The Flow.jpg
 
 #### Model 500 – The Flow
 
+#### Tracklist
+```md
 S. The Flow M14 (G-Funk Mix)
 
 T1. The Flow M26 (Underworld MK. 2 Mix)
 
 T2. The Flow M38 (Alex Reece Mix)
+```
 
 Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
 

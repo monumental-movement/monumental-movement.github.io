@@ -9,11 +9,14 @@ image: ../assets/images/Wink – Higher State Of Consciousness.jpg
 
 #### Wink – Higher State Of Consciousness
 
+#### Tracklist
+```md
 A1. Higher State Of Consciousness (Dirty South & TV Rock Club Mix)
 
 A2. Higher State Of Consciousness (Original Tweekin Acid Funk Mix)
 
 B. Higher State Of Consciousness (Marco V Remix)
+```
 
 Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフィア出身のエレクトロニックダンスミュージックのDJ/プロデューサー/リミキサー。Winkは、1990 年代初頭のアメリカのレイヴシーンの先駆的DJで、「Higher State Of Consciousness」は彼の代表曲のひとつ。
 

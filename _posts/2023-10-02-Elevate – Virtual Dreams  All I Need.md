@@ -9,9 +9,12 @@ image: ../assets/images/Elevate – Virtual Dreams  All I Need.jpg
 
 #### Elevate – Virtual Dreams  All I Need
 
+#### Tracklist
+```md
 A. Virtual Dreams
 
 B. All I Need
+```
 
 Ａ面の「Virtual Dreams」は迫力のある909のドラムサウンドが聴け、次に印象的なシンセのリフがトランスのようなパッドが詰まったブレイクダウンに導きます。その後、シンセのリフが戻り、力強いコーラスに導きます。2回目のブレイクダウンはさらに緻密で、センスの良いピアノと、より洗練されたメロディを持つリードシンセが戻ってきます。
 

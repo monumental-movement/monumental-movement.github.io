@@ -9,6 +9,8 @@ image: ../assets/images/Kierra Sheard – Just Until.jpg
 
 #### Kierra Sheard – Just Until
 
+#### Tracklist
+```md
 A1. Let Go (Rock Soul Remix)
 
 A2. You Don't Know (Monsta's Mix)
@@ -20,6 +22,7 @@ B1. That Thing
 B2. Let Go (LP Version)
 
 B3. Let Go (The Godson Concept)
+```
 
 Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 

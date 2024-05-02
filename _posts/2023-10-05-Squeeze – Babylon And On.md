@@ -9,6 +9,8 @@ image: ../assets/images/Squeeze – Babylon And On.jpg
 
 #### Squeeze – Babylon And On
 
+#### Tracklist
+```md
 A1. Hourglass
 
 A2. Footprints
@@ -32,6 +34,7 @@ B4. Who Are You?
 B5. The Waiting Game
 
 B6. Some Americans
+```
 
 Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
 

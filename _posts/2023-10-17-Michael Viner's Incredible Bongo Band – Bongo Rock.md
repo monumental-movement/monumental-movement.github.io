@@ -9,6 +9,8 @@ image: ../assets/images/Michael Viner's Incredible Bongo Band – Bongo Rock.jpg
 
 #### Michael Viner's Incredible Bongo Band – Bongo Rock
 
+#### Tracklist
+```md
 A1. Let There Be Drums
 
 A2. Apache
@@ -24,6 +26,7 @@ B2. In-A-Gadda-Da-Vida
 B3. Raunchy '73
 
 B4. Bongo Rock '73
+```
 
 1973年にリリースされた、インストゥルメンタルファンクバンド「Michael Viner's Incredible Bongo Band」によるアルバム「Bongo Rock（ボンゴ・ロック）」は、ファンク、ソウル、ブレイクビーツの要素を取り入れた楽曲で、後にヒップホップ、ブレイクビーツシーンで数多くのアーティストがサンプリングした。
 

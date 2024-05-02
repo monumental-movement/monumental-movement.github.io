@@ -9,11 +9,14 @@ image: ../assets/images/Dario G – Carnaval De Paris.jpg
 
 #### Dario G – Carnaval De Paris
 
+#### Tracklist
+```md
 A1. Carnaval De Paris (SRS Mix)
 
 A2. Carnaval De Paris (JDS 6" Mix)
 
 B. Carnaval De Paris (Tall Paul Mix)
+```
 
 Dario G（ダリオG）は、UKのDJ/プロデューサーPaul Spencer（ポール・スペンサー）によるダンスミュージックプロジェクト。
 

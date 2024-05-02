@@ -9,9 +9,12 @@ image: ../assets/images/Eric Prydz – Pjanoo.jpg
 
 #### Eric Prydz – Pjanoo
 
+#### Tracklist
+```md
 A1. Pjanoo (High Contrast Remix)
 
 B1. Pjanoo (Afterlife Remix)
+```
 
 「Pjanoo」は、スウェーデンのDJ兼プロデューサー、エリック・プライズ（Eric Prydz）によるキーボードをベースとしたハウストラックです。この曲は、イギリスのラジオ局で中程度の放送が行われ、BBC Radio 1が「Radio 1 Big Weekend」と「Weekend in Ibiza」の広告で積極的に使用しました。
 

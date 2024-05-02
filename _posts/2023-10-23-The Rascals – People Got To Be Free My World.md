@@ -9,9 +9,12 @@ image: ../assets/images/The Rascals – People Got To Be Free My World.jpg
 
 #### The Rascals – People Got To Be Free / My World
 
+#### Tracklist
+```md
 A. People Got To Be Free
 
 B. My World
+```
 
 The Rascals（ラスカルズ）は、1964年にUSニューヨークで結成されたブルー・アイド・ソウル・バンド。1965年から1969年にかけヒット曲を次々と出し、 People Got To Be Free（自由への賛歌）もヒット曲・代表曲の一つ。 
 

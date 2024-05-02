@@ -9,6 +9,8 @@ image: ../assets/images/Deee-Lite – Dewdrops In The Garden.jpg
 
 #### Deee-Lite – Dewdrops In The Garden
 
+#### Tracklist
+```md
 1. Say Ahhh...
 
 2. Mind Melt
@@ -52,6 +54,7 @@ image: ../assets/images/Deee-Lite – Dewdrops In The Garden.jpg
 16.6. (silence)
 
 16.7. Bring Me Your Love (Johnny Vicious Cosmic Isness Remix 1){: .button1}
+```
 
 『Dewdrops in the Garden』は、アメリカのダンスミュージックバンドDeee-Liteによる3枚目かつ最後のスタジオアルバムで、1994年8月にElektra Recordsからリリースされました。このアルバムでは、前作の政治的な歌詞内容から離れ、ダンスと親密さのテーマに移行し、サイケデリック音楽への傾斜が強調されました。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Screamin Jay Hawkins – Constipation Blues.jpg
 
 #### Screamin' Jay Hawkins – Constipation Blues
 
+#### Tracklist
+```md
 A. Constipation Blues = べんぴのぶるーす
 
 B. I'm Lonely = 男泣きのブルース
+```
 
 スクリーミン・ジェイ・ホーキンスによるこの曲は、彼の特異で個性的なスタイルで知られるアメリカのブルース・シンガーであるスクリーミン・ジェイ・ホーキンスによって歌われ、演奏されました。彼は独自のステージ・パフォーマンスと、力強く、荒々しいヴォーカルで知られています。
 

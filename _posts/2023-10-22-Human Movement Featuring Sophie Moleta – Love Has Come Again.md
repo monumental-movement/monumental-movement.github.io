@@ -9,6 +9,8 @@ image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come
 
 #### Human Movement Featuring Sophie Moleta – Love Has Come Again
 
+#### Tracklist
+```md
 A1. Love Has Come Again (Angelstereomix)
 
 A2. Love Has Come Again (Angel Moraes Luvapella)
@@ -16,6 +18,7 @@ A2. Love Has Come Again (Angel Moraes Luvapella)
 B1. Love Has Come Again (Angel Moraes Orgasmic Dub)
 
 B2. Love Has Come Again (Angel Moraes Wah Dub)
+```
 
 Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。
 

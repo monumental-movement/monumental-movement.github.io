@@ -9,9 +9,12 @@ image: ../assets/images/Divine – Native Love (Step By Step).jpg
 
 #### Divine – Native Love (Step By Step)
 
+#### Tracklist
+```md
 A. Native Love (Step By Step) (Vocal Mix)
 
 B. Native Love (Step By Step) (Instrumental Version)
+```
 
 2002年にUKのレーベル「Burns」からリリースされたDivineによるEPです。
 

@@ -9,6 +9,8 @@ image: ../assets/images/The Foundation Featuring Jay Williams – Rejoice.jpg
 
 #### The Foundation Featuring Jay Williams – Rejoice
 
+#### Tracklist
+```md
 A1. Rejoice (Strobelight Mix)
 
 A2. Rejoice (Timbale Song Mix)
@@ -18,6 +20,7 @@ B1. Rejoice (Uplifting Mix)
 B2. Rejoice (Roger's Hard Dub)
 
 B3. Rejoice (Churchapella)
+```
 
 1993年にNYのハウスレーベルOne RecordsよりリリースされたThe Foundationこと、ドミニカ系アメリカ人のハウス DJ/リミキサー/プロデューサーRoger Sanchez(ロジャー・サンチェス)のハウストラック。
 

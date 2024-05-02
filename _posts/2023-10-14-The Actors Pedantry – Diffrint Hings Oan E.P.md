@@ -9,11 +9,14 @@ image: ../assets/images/The Actors Pedantry – Diffrint Hings Oan E.P.jpg
 
 #### The Actors Pedantry – Diffrint Hings Oan E.P
 
+#### Tracklist
+```md
 A. House
 
 B1. Feelings Engine
 
 B2. The Chocolate Factory
+```
 
 スコットランドのグラスゴーにあるレーベルAmpouleより1999年にリリースされた。A面のドラムはMitchell Bottler（ミッチェル・ボトラー）、Norma Helms（ノーマ・ヘルムズ）の「Saturday Night, Sunday Morning」をサンプリング。
 

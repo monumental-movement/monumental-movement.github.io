@@ -9,11 +9,14 @@ image: ../assets/images/Murphy Brown – Energizer 2002 Part II.jpg
 
 #### Murphy Brown – Energizer 2002 Part II
 
+#### Tracklist
+```md
 A1. Energizer (DJ Dean Remix)
 
 B1. Energizer (Original Mix)
 
 B2. Roots Of Darkness (DJ Genetic Remix)
+```
 
 2002年にドイツのレーベル「Soundwave Music」からリリースされた本名Michael Marc Ottによるプロジェクト「Murphy Brown」のEPです。
 

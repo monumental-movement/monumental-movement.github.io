@@ -9,6 +9,8 @@ image: ../assets/images/Orchestral Manoeuvres In The Dark – Crush.jpg
 
 #### Orchestral Manoeuvres In The Dark – Crush
 
+#### Tracklist
+```md
 A1. So In Love
 
 A2. Secret
@@ -28,6 +30,7 @@ B3. La Femme Accident
 B4. Hold You
 
 B5. The Lights Are Going Out
+```
 
 「Crush（クラッシュ）」は、イギリスのエレクトロニック・バンド、Orchestral Manoeuvres in the Dark（OMD）の6番目のスタジオアルバムで、1985年6月17日にVirgin Recordsからリリースされました。
 

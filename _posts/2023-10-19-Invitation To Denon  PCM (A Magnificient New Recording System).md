@@ -9,6 +9,8 @@ image: ../assets/images/Invitation To Denon PCM (A Magnificient New Recording Sy
 
 #### Invitation To Denon PCM (A Magnificient New Recording System)
 
+#### Tracklist
+```md
 A1. Helmuth Rilling–Toccata and Fugue In D Minor, BWV565
 
 A2. Jean-François Paillard , Conducting Orchestre De Chambre Jean-François Paillard–Musical Offering-Ricercare a3 voi, BWV1079
@@ -22,6 +24,7 @@ B2. Smetana Quartet–String Queartet No:19 In C Minor, K465
 B3. Josef Chuchro, Jan Panenka, Josef Suk–Piano Trio In B-Flat Major, "Archduke" Op.67
 
 B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Continuo Op.1-13 など
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m60328897430){: .button1}
 

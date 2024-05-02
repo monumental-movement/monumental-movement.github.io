@@ -9,11 +9,14 @@ image: ../assets/images/Anthony Vieira – Merino EP.jpg
 
 #### Anthony Vieira – Merino EP
 
+#### Tracklist
+```md
 A. Untitled
 
 B1. Untitled
 
 B2. Untitled
+```
 
 Anthony Vieiraは、Raoul DelgardoとTony Soares Vieiraによるユニット。「Anthony Vieira – Merino EP」は、UKのテクノレーベルSheep Recordsより1999年にリリース。
 

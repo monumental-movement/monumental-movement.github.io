@@ -9,6 +9,8 @@ image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.
 
 #### RZA As Bobby Digital – RZA As Bobby Digital In Stereo
 
+#### Tracklist
+```md
 1.  B.O.B.B.Y.
 2. Unspoken Word
 3. Airwaves
@@ -25,6 +27,7 @@ image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.
 14. Fuck What You Think
 15. Daily Routine
 16. Domestic Violence
+```
 
 Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
 

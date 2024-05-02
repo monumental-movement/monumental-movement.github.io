@@ -9,6 +9,8 @@ image: ../assets/images/DJ Shiva vs. Adam Jay – Finality EP.jpg
 
 #### DJ Shiva vs. Adam Jay – Finality EP
 
+#### Tracklist
+```md
 A1. Borderline Shift (DJ Shiva's Original Mix)
 
 A2. The Last Word (DJ Shiva's Original Mix)
@@ -16,6 +18,7 @@ A2. The Last Word (DJ Shiva's Original Mix)
 B1. Borderline Shift (Adam Jay's Remix)
 
 B2. The Last Word (Adam Jay's Remix)
+```
 
 DJ Shivaは、現在Noncompliant（ノンコンプライアンス）として知られているUSテクノDJ /プロデューサー。
 

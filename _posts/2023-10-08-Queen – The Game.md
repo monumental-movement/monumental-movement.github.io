@@ -9,6 +9,8 @@ image: ../assets/images/Queen – The Game.jpg
 
 #### Queen – The Game
 
+#### Tracklist
+```md
 A1. Play The Game
 
 A2. Dragon Attack
@@ -28,6 +30,7 @@ B3. Sail Away Sweet Sister
 B4. Coming Soon
 
 B5. Save Me
+```
 
 「The Game」は、クイーンの8枚目のスタジオアルバムであり、バンドの音楽スタイルの進化と多様性を示しています。このアルバムは、従来のロックサウンドに加えて、ディスコやファンクなどの要素を取り入れた楽曲も含まれています。
 

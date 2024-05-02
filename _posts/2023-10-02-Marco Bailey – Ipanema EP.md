@@ -9,6 +9,8 @@ image: ../assets/images/Marco Bailey – Ipanema EP.jpg
 
 #### Marco Bailey – Ipanema EP
 
+#### Tracklist
+```md
 A1. Ipanema (Original Mix)
 
 A2. Ipanema (Redhead Remix)
@@ -16,6 +18,7 @@ A2. Ipanema (Redhead Remix)
 B1. Edge Level
 
 B2. Shinjuku-ku
+```
 
 2001年にスウェーデンのレーベル「Zync」からリリースされたMarco BaileyによるEPです。
 

@@ -9,6 +9,8 @@ image: ../assets/images/The Art Of Noise – In No Sense Nonsense.jpg
 
 #### The Art Of Noise – In No Sense Nonsense
 
+#### Tracklist
+```md
 A1. Galleons Of Stone
 
 A2. Dragnet
@@ -72,8 +74,9 @@ B14. Nothing Was Going To Stop Them Then, Anyway
 B15. Crusoe
 
 B16. One Earth
+```
 
->1987年にChina RecordsからリリースされたArt Of Noiseによるアルバムのカセッテテープです。
+1987年にChina RecordsからリリースされたArt Of Noiseによるアルバムのカセッテテープです。
 
 [メルカリで購入](https://jp.mercari.com/item/m27011020702){: .button1}
 

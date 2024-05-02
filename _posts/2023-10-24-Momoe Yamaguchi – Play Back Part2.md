@@ -9,9 +9,12 @@ image: ../assets/images/山口百恵 – プレイバックPart2.jpg
 
 #### 山口百恵 – プレイバックPart2
 
+#### Tracklist
+```md
 A. プレイバックPart2
 
 B. 賭け 
+```
 
 アレンジ：萩田光雄
 歌詞：阿木燿子

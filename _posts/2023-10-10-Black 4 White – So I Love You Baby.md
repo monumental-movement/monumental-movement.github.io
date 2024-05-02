@@ -9,6 +9,8 @@ image: ../assets/images/Black 4 White – So I Love You Baby.jpg
 
 #### Black 4 White – So I Love You Baby
 
+#### Tracklist
+```md
 A1. So I Love You Baby (Dinamic House Mix)
 
 A2. So I Love You Baby (Dinamic House Radio)
@@ -16,6 +18,7 @@ A2. So I Love You Baby (Dinamic House Radio)
 B1. So I Love You Baby (Fluid Mix)
 
 B2. So I Love You Baby (Fluid Radio)
+```
 
 「So I Love You Baby」は、キャッチーなメロディとリズム、ポジティブな歌詞が特徴の楽曲で、ポップで踊りやすいサウンドが聴く人々を楽しませます。
 

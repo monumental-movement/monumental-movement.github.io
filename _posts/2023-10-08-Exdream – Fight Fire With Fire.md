@@ -9,11 +9,14 @@ image: ../assets/images/Exdream – Fight Fire With Fire.jpg
 
 #### Exdream – Fight Fire With Fire
 
+#### Tracklist
+```md
 A. Fight Fire With Fire (Extended Mix)
 
 B1. Fight Fire With Fire (Spitfire Mix)
 
 B2. Fight Fire With Fire (Instrumental)
+```
 
 1996年にイタリアのレーベル「Easy Beat」からリリースされたFausto GuioとRoberta GranàによるプロジェクトExdreamのEPです。
 

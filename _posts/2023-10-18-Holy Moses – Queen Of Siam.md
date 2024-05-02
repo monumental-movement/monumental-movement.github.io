@@ -9,6 +9,8 @@ image: ../assets/images/Holy Moses – Queen Of Siam.jpg
 
 #### Holy Moses – Queen Of Siam
 
+#### Tracklist
+```md
 A1. Necropolis
 
 A2. Don't Mess Around With The Bitch
@@ -26,6 +28,7 @@ B3. Bursting Rest
 B4. Dear Little Friend
 
 B5. Torches Of Hire
+```
 
 1980年から活動するHoly Moses（ホーリー・モーゼス） は、ドイツのスラッシュメタルバンド。フロントはSabina Classen（サビナ クラッセン）。デスヴォイスの女性ボーカリストの先駆的グループとして知られる。
 

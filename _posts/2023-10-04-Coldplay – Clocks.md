@@ -9,7 +9,10 @@ image: ../assets/images/Coldplay – Clocks.jpg
 
 #### Coldplay – Clocks
 
+#### Tracklist
+```md
 A. Clocks (Jakob Carrison Electro Remix)
+```
 
 このトラックの原曲は、2002年にリリースされたアルバム『A Rush of Blood to the Head』に収録されています。"Clocks"は、アルバムからのリードシングルとしてもリリースされ、世界的な成功を収めました。
 

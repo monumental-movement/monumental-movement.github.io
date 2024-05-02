@@ -9,11 +9,14 @@ image: ../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.jpg
 
 #### 井上堯之バンド – 太陽にほえろ！4
 
+#### Tracklist
+```md
 A1. 冒険のテーマ・1
 
 A2. 冒険のテーマ・2
 
 B1. 新「愛」のテーマ
+```
 
 演奏 – 井上堯之バンド
 作曲編曲 – 大野克夫

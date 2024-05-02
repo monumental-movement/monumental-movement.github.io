@@ -9,6 +9,8 @@ image: ../assets/images/Michael Saxell – Red And Blue.jpg
 
 #### Michael Saxell – Red And Blue
 
+#### Tracklist
+```md
 A1. Kelly
 
 A2. Bound For Love
@@ -28,6 +30,7 @@ B3. Designs
 B4. Nothing But The Best
 
 B5. My Love Belongs To You
+```
 
 Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
 

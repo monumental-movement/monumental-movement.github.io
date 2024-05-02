@@ -9,6 +9,8 @@ image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.jpg
 
 #### Various – Elektronische Musik -Interkontinental 5
 
+#### Tracklist
+```md
 A1. Adam Kroll–Stalker
 
 A2. Nathan Fake–Numb Chance
@@ -32,6 +34,7 @@ E2. Zentex–Löytötavara
 F1. Florian Meindl–Don't Flue The Birds
 
 F2. Process–Tendency To Synchronize
+```
 
 2006年にドイツのレーベル「Traum Schallplatten」からリリースされた３枚組のコンピレーション・アルバムです。
 

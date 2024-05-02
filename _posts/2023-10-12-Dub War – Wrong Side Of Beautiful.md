@@ -9,6 +9,8 @@ image: ../assets/images/Dub War – Wrong Side Of Beautiful.jpg
 
 #### Dub War – Wrong Side Of Beautiful
 
+#### Tracklist
+```md
 A1. Control
 
 A2. Armchair Thriller
@@ -36,6 +38,7 @@ B5. Love Is
 B6. Mission
 
 B7. Universal Jam
+```
 
 Dub War (ダブ・ウォー)は、1990年代に活動していたヘヴィメタル、レゲエ、パンク、ダブなど様々な音楽スタイルをミックスさせたミクスチャーバンド。パワフルなロックサウンドとキャッチーなメロディに、レゲエのリズムとパンクの要素を融合させた独自のスタイルとヴォーカルのBenji Webbeの特徴的な歌声と表現力が、バンドの音楽に強い印象を与えていた。
 

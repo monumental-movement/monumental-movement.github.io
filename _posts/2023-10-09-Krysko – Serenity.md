@@ -9,9 +9,12 @@ image: ../assets/images/Krysko – Serenity.jpg
 
 #### Krysko – Serenity
 
+#### Tracklist
+```md
 A. Serenity (Fruit Loop Mix)
 
 B. Serenity (Dexters Mix)
+```
 
 ロンドンのThe Exchangeで伝説的なミキシングエンジニア、Mike Marsh氏によってマスタリングが行われたので、素晴らしいサウンドに仕上がっているEPです。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Fischerspooner – Emerge.jpg
 
 #### Fischerspooner – Emerge
 
+#### Tracklist
+```md
 A. Emerge
 
 B. Emerge (Adult Remix)
+```
 
 「Emerge」は、アメリカのエレクトロニックデュオ、フィッシャースプーナー（Fischerspooner）による楽曲です。この曲は、彼らのデビューアルバム「# 1」（2001年）に収録されています。
 

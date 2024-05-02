@@ -9,6 +9,8 @@ image: ../assets/images/Quincy Jones – Body Heat.jpg
 
 #### Quincy Jones – Body Heat
 
+#### Tracklist
+```md
 1. Body Heat
 2. Soul Saga (Song Of The Buffalo Soldier)
 3. Everything Must Change
@@ -18,6 +20,7 @@ image: ../assets/images/Quincy Jones – Body Heat.jpg
 7. Just A Man
 8. Along Came Betty
 9. If I Ever Lose This Heaven
+```
 
 ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
 

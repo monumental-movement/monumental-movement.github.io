@@ -9,6 +9,8 @@ image: ../assets/images/Out Of Tune Generation – Cine Techno Director's Cut.jp
 
 #### Out Of Tune Generation – Cine Techno Director's Cut
 
+#### Tracklist
+```md
 A1. Mah-Na Mah-Na (Heaven And Hell In B#)
 
 A2. The Day The Fish Came Out (Electra Mix)
@@ -16,6 +18,7 @@ A2. The Day The Fish Came Out (Electra Mix)
 B1. Linus & Lucy (Listen To My Face Mix)
 
 B2. Modesty (Mode-Esty Dub)
+```
 
 Out Of Tune Generationは高浪敬太郎（ピチカート・ファイブ）のプロジェクト。
 

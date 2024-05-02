@@ -9,6 +9,8 @@ image: ../assets/images/Propagandhi – How To Clean Everything.jpg
 
 #### Propagandhi – How To Clean Everything
 
+#### Tracklist
+```md
 A1. Anti-Manifesto
 
 A2. Head? Chest? Or Foot?
@@ -32,6 +34,7 @@ B4. This Might Be Satire
 B5. Who Will Help Me Bake This Bread?
 
 B6. I Want U 2 Vant Me
+```
 
 「How to Clean Everything」は、1993年にFat Wreck ChordsからリリースされたパンクロックバンドPropagandhiのデビューアルバムです。
 

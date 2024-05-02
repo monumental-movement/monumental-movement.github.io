@@ -9,6 +9,8 @@ image: ../assets/images/Dreamlogicc – Podval EP.jpg
 
 #### Dreamlogicc – Podval EP
 
+#### Tracklist
+```md
 A1. Blanx
 
 A2. Elect Burns
@@ -20,6 +22,7 @@ A4. Untitled
 B1. Blanx (Accidental Freedom By Area)
 
 B2. Equalizer
+```
 
 ※200枚の限定版で、A3 と A4 はクレジットされていない間奏で、ロックされたグルーヴで終わります。
 

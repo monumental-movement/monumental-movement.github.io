@@ -9,6 +9,8 @@ image: ../assets/images/Various – Superstar.jpg
 
 #### Various – Superstar
 
+#### Tracklist
+```md
 A1. Unknown Artist–The Enigma
 
 A2. Spragga–Analogy
@@ -32,6 +34,7 @@ B4. Ali Cat –Di Island
 B5. Spragga, Lady Saw–Backshot
 
 B6. Devonte–Sweet Symphony
+```
 
 ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 

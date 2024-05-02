@@ -9,9 +9,12 @@ image: ../assets/images/Diephuis – Inside Me.jpg
 
 #### Diephuis – Inside Me
 
+#### Tracklist
+```md
 A. Inside Me
 
 B. Inside Me (Instrumental Dub)
+```
 
 Diephuis（Barend-Jan Beljaars）は、90年代から活躍するオランダのロッテルダム出身のDJ/プロデューサー。ディスコ、テクノ、ソウル、アフロ、ファンク、ジャズの影響を受けた、ディープ＆ソウルフルなハウスミュージックを得意としています。
 

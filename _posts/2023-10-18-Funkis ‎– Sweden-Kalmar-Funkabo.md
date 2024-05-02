@@ -9,6 +9,8 @@ image: ../assets/images/Funkis – Sweden-Kalmar-Funkabo.jpg
 
 #### Funkis – Sweden-Kalmar-Funkabo
 
+#### Tracklist
+```md
 A1. Jämnårig, Synfel
 
 A2. Naturliv
@@ -20,6 +22,7 @@ B1. 30-årig Man, Lång
 B2. Snälla Jultomten
 
 B3. 25-årig, Lång, Snygg
+```
 
 Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。
 

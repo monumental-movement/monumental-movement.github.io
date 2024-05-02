@@ -9,6 +9,8 @@ image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.jpg
 
 #### Patrick Bernhardt – Atlantis Angelis
 
+#### Tracklist
+```md
 A. Le Chant De L'universel/The Song Of The Universal Light
 
 A1. 1er Mouv./Part One
@@ -26,6 +28,7 @@ B1. Atlantis Angelis
 B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 
 B3. Transcendastral Voyage
+```
 
 カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
 

@@ -9,11 +9,14 @@ image: ../assets/images/2 The Core – The Final Destination.jpg
 
 #### 2 The Core – The Final Destination
 
+#### Tracklist
+```md
 A1. The Final Destination
 
 B1. The Final Destination (Jungle Mix)
 
 B2. The Final Destination (7'' Mix)
+```
 
 2 The Coreは、オランダのダンスミュージックレコードプロデューサーMichiel van der KuyとNick Nameによるユーロハウスユニット。
 

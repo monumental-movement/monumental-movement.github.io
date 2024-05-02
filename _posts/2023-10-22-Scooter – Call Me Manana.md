@@ -9,11 +9,14 @@ image: ../assets/images/Scooter – Call Me Manana.jpg
 
 #### Scooter – Call Me Mañana
 
+#### Tracklist
+```md
 A. Call Me Mañana (Heavy Horses Extended)
 
 B1. Bramfeld
 
 B2. Call Me Mañana (Heavy Horses Radio)
+```
 
 Scooter（スクーター）は、1993年にドイツ・ハンブルクで設立されたハッピーハードコア・レイブ・テクノ・ミュージックバンド。
 

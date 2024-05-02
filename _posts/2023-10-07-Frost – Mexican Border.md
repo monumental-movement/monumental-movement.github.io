@@ -9,9 +9,12 @@ image: ../assets/images/Frost – Mexican Border.jpg
 
 #### Frost – Mexican Border
 
+#### Tracklist
+```md
 A. Mexican Border
 
 B. Mexican Border
+```
 
 Ruthless Recordsからリリースされた本名Arturo Molina Jr.ことKid Frostによるシングルです。
 

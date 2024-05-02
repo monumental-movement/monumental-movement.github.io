@@ -9,6 +9,8 @@ image: ../assets/images/Queen – Sheer Heart Attack.jpg
 
 #### Queen – Sheer Heart Attack
 
+#### Tracklist
+```md
 A1. Brighton Rock
 
 A2. Killer Queen
@@ -34,6 +36,7 @@ B5. Bring Back That Leroy Brown
 B6. She Makes Me (Stormtrooper In Stilettoes)
 
 B7. In The Lap Of The Gods...Revisited
+```
 
 『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
 プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。

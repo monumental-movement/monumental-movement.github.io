@@ -9,6 +9,8 @@ image: ../assets/images/Southern All Stars - Stereo Taiyo-Zoku.jpg
 
 #### Southern All Stars - Stereo Taiyo-Zoku
 
+#### Tracklist
+```md
 A1. Hello My Love
 
 A2. My Foreplay Music
@@ -34,6 +36,7 @@ B5. 朝方ムーンライト
 B6. Big Star Blues (ビッグ・スターの悲劇)
 
 B7. 栞(しおり)のテーマ
+```
 
 「ステレオ太陽族」は、サザンオールスターズの4枚目のオリジナル・アルバム。 1981年のオリジナル盤。
 

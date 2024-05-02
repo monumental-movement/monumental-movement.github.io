@@ -9,9 +9,12 @@ image: ../assets/images/Selu Vibra – Stargazing.jpg
 
 #### Selu Vibra – Stargazing
 
+#### Tracklist
+```md
 A. Stargazing (Original)
 
 B. Stargazing (8 Wonders' Star Traveller Mix)
+```
 
 Selu Vibra（セルビブラ）は、スウェーデンのトランスDJ/プロデューサーSebastian Brandt、Niklas Gustavsson、Ludvig Holmによるプロジェクト。
 

@@ -9,6 +9,8 @@ image: ../assets/images/The Tigers – Smile For Me.jpg
 
 #### The Tigers – Smile For Me
 
+#### Tracklist
+```md
 A. Smile For Me = スマイル・フォー・ミー
 
 作詞・作曲:Barry Gibb,Maurice Gibb
@@ -18,6 +20,7 @@ B. Rain Falls On The Lonely = 淋しい雨
 
 作詞・作曲:Ronald F. Bond,Ronnie Sebastian
 編曲：John Fiddy
+```
 
 「Smile For Me 」は、Bee Gees(ビー・ジーズ)のBarry Gibb(バリー・ギブ)とMaurice Gibb(モーリス・ギブ)が作詞・作曲を手がけた曲。
 

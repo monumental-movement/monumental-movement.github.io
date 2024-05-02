@@ -9,6 +9,8 @@ image: ../assets/images/Zimbabwe Legit – Doin' Damage In My Native Language.jp
 
 #### Zimbabwe Legit – Doin' Damage In My Native Language
 
+#### Tracklist
+```md
 A1. Doin' Damage In My Native Language
 
 A2. Doin' Damage In My Native Language (Phase Instrumental)
@@ -22,6 +24,7 @@ B2. To Bead Or Not To Bead (Lawnge Instrumental)
 B3. Doin' Damage In My Native Language (808 Damage Acapella)
 
 B4. Rhymin' Wit The African Symphony
+```
 
 Zimbabwe Legitは、アメリカのヒップホップグループであり、彼らの音楽はポリティカルなメッセージやアフリカの文化を取り入れた歌詞が特徴です。
 

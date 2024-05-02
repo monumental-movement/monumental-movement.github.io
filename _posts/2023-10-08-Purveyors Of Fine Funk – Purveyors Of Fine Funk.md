@@ -9,6 +9,8 @@ image: ../assets/images/Purveyors Of Fine Funk – Purveyors Of Fine Funk.jpg
 
 #### Purveyors Of Fine Funk – Purveyors Of Fine Funk
 
+#### Tracklist
+```md
 A1. Suspended
 
 A2. Escándolo Electrónico
@@ -26,6 +28,7 @@ D1. Warm
 D2. Telepathos Communicator
 
 D3. The After Midnight Call
+```
 
 Purveyors Of Fine Funkは、ファンクミュージックの要素を取り入れた楽曲を制作するグループであり、その名の通り、彼らは質の高いファンクを提供しています。
 

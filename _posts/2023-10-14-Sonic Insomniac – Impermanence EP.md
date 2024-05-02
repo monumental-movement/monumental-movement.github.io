@@ -9,6 +9,8 @@ image: ../assets/images/Sonic Insomniac – Impermanence EP.jpg
 
 #### Sonic Insomniac – Impermanence EP
 
+#### Tracklist
+```md
 A1. Multi-Dimensional
 
 A2. Focus
@@ -16,6 +18,7 @@ A2. Focus
 B1. Emotivate
 
 B2. Untitled
+```
 
 Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。
 

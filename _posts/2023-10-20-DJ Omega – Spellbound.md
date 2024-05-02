@@ -9,6 +9,8 @@ image: ../assets/images/DJ Omega – Spellbound.jpg
 
 #### DJ Omega – Spellbound
 
+#### Tracklist
+```md
 A1. Spellbound
 
 A2. Tiity Bar 06
@@ -18,6 +20,7 @@ B1. 2 The Beat
 B2. Pop Dat
 
 B3. Run A Train
+```
 
 DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
 

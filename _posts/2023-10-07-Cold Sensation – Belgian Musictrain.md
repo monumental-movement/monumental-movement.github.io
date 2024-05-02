@@ -9,9 +9,12 @@ image: ../assets/images/Cold Sensation – Belgian Musictrain.jpg
 
 #### Cold Sensation – Belgian Musictrain
 
+#### Tracklist
+```md
 A. Belgian Musictrain (Brussels By Night Mix)
 
 B. Belgian Musictrain (New York Detroit Mix)
+```
 
 「Belgian Musictrain」はCold Sensation（コールド・センセーション）というベルギーの音楽グループによる楽曲です。この曲は1991年にリリースされました。
 

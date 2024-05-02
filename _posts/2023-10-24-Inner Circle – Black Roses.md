@@ -9,6 +9,8 @@ image: ../assets/images/Inner Circle – Black Roses.jpg
 
 #### Inner Circle – Black Roses
 
+#### Tracklist
+```md
 1. Man Standing On The Corner
 2. One Vibe
 3. Black Roses
@@ -19,6 +21,7 @@ image: ../assets/images/Inner Circle – Black Roses.jpg
 8. Fallin In Love
 9. Picture On The Wall
 10. Bad Boys
+```
 
 Inner Circle(インナー・サークル)は、The Inner Circle Bandまたは The Bad Boys of Reggae(バッド・ボーイズ・オブ・レゲエ)としても知られ、1968年にキングストンで結成されたジャマイカのレゲエバンド。
 

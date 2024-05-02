@@ -9,6 +9,8 @@ image: ../assets/images/Foreigner – Head Games.jpg
 
 #### Foreigner – Head Games
 
+#### Tracklist
+```md
 A1. Dirty White Boy
 
 A2. Love On The Telephone
@@ -28,6 +30,7 @@ B3. Blinded By Science
 B4. Do What You Like
 
 B5. Rev On The Red Line
+```
 
 Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick Jones（ミック ジョーンズ）とイアン マクドナルド（Ian McDonald）、アメリカ人のボーカリスト Lou Gramm（ルー グラム）によって 1976 年にニューヨーク市とロンドンで結成されたイギリス系アメリカ人のロックバンド。
 

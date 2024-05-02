@@ -9,6 +9,8 @@ image: ../assets/images/Public Enemy – Fear Of A Black Planet.jpg
 
 #### Public Enemy – Fear Of A Black Planet
 
+#### Tracklist
+```md
 A1. Contract On The World Love Jam (Instrumental)
 
 A2. Brothers Gonna Work It Out
@@ -48,6 +50,7 @@ B8. War At 33 1/3
 B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 
 B10. Fight The Power
+```
 
 「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
 

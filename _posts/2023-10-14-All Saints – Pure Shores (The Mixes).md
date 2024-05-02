@@ -9,6 +9,8 @@ image: ../assets/images/All Saints – Pure Shores (The Mixes).jpg
 
 #### All Saints – Pure Shores (The Mixes)
 
+#### Tracklist
+```md
 A1. Pure Shores (Cosmos Mix)
 
 A2. Pure Shores (2 Da Beach Don't Stop Remix)
@@ -16,6 +18,7 @@ A2. Pure Shores (2 Da Beach Don't Stop Remix)
 B1. Pure Shores (Original)
 
 B2. Pure Shores (Instrumental)
+```
 
 A面１曲目はUK出身のDJ/プロデューサー/サウンドデザイナーCosmosことTom Middleton（トム・ミドルトン）によるremix。
 A面２曲目はOutlaw Posse、Brothers Like Outlawの元メンバーK-GeeことKarl Clive Gordonによるremix。

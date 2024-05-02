@@ -9,6 +9,8 @@ image: ../assets/images/Various – Wire 01 Compilation.jpg
 
 #### Various – Wire 01 Compilation
 
+#### Tracklist
+```md
 1. Takkyu Ishino–Hyperspeed (Short)
 2. Jeff Mills–UFO
 3. WestBam–Psycholectro
@@ -22,6 +24,7 @@ image: ../assets/images/Various – Wire 01 Compilation.jpg
 11. Fumiya Tanaka–Voice Out
 12. Hell–Like This (Wire Mix)
 13. Monika Kruse @ Voodooamt–Route 27
+```
 
 2001年にリリースされたWire 01のコンピレーションCDです。
 

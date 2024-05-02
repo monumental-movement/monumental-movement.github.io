@@ -9,9 +9,13 @@ image: ../assets/images/Front 242 – Politics Of Pressure.jpg
 
 #### Front 242 – Politics Of Pressure
 
+#### Tracklist
+```md
 A1. Don't Crash
 A2. Funkahdafi
+
 B. Commando (Remix)
+```
 
 Front242(フロント242){: .button1}は、ベルギーで結成された電子音楽グループです。
 

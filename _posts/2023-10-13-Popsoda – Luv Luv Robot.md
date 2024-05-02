@@ -9,6 +9,8 @@ image: ../assets/images/Popsoda – Luv Luv Robot.jpg
 
 #### Popsoda – Luv Luv Robot
 
+#### Tracklist
+```md
 A1. Luv Luv Robot
 
 A2. Luv Luv Robot (Edit)
@@ -16,6 +18,7 @@ A2. Luv Luv Robot (Edit)
 B1. Luv Luv Robot (Takkyu Ishino Remix)
 
 B2. Luv Luv Robot (Mijk Van Dijk Remix)
+```
 
 Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジア）の別名義。
 

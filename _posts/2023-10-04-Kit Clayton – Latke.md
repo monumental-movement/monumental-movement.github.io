@@ -9,6 +9,8 @@ image: ../assets/images/Kit Clayton – Latke.jpg
 
 #### Kit Clayton – Latke
 
+#### Tracklist
+```md
 A1. Impetigo
 
 A2. Tongue Under Lip 
@@ -17,6 +19,7 @@ Saxophone – Matthew Lee
 B1. Jit's Blues
 
 B2. I Only Want Quiet
+```
 
 2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）のKit ClaytonによるEPです。
 

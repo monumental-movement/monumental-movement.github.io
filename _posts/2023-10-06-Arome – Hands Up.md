@@ -9,9 +9,12 @@ image: ../assets/images/Arome – Hands Up.jpg
 
 #### Arome – Hands Up
 
+#### Tracklist
+```md
 A. Hands Up! (DJ Scot Project Rmx)
 
 B. Hands Up!
+```
 
 2002年にドイツのレーベル「Overdose」からリリースされたFrank ZenkerによるプロジェクトAromeによるEPです。
 

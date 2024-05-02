@@ -9,6 +9,8 @@ image: ../assets/images/MC Gringo – Gringao.jpg
 
 #### MC Gringo – Gringão
 
+#### Tracklist
+```md
 A1. Abertura
 
 A2. 1 Real
@@ -24,6 +26,7 @@ B2. Dança Do Gringo
 B3. Perninha Depilada
 
 B4. Arrastão (Euromix)
+```
 
 MC Gringoは、ドイツ生まれのミュージシャン兼音楽プロデューサー。
 「Gringão」は、2007年にジャーマン・レーベルMan Recordingsよりリリース。

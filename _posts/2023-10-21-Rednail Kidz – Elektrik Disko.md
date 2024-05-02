@@ -9,9 +9,12 @@ image: ../assets/images/Rednail Kidz – Elektrik Disko.jpg
 
 #### Rednail Kidz – Elektrik Disko
 
+#### Tracklist
+```md
 A1. Go Deep
 
 B1. Electrik Disko
+```
 
 Rednail Kidzは、80年代シカゴハウス初期から活動するDJ・プロデューサーDerrick Carter（デリック・カーター）と、Chris Nazuka（クリス・ナヅカ）によるUSディープハウス・プロダクション・デュオ。
 

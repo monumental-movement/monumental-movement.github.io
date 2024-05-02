@@ -9,9 +9,12 @@ image: ../assets/images/Psychonaut – Voodoochild  Angel Dust.jpg
 
 #### Psychonaut – Voodoochild  Angel Dust
 
+#### Tracklist
+```md
 A. Voodoochild
 
 B. Angel Dust
+```
 
 2001年にドイツのレーベル「M.A.S.H.」からリリースされたLothar HerrmannとOliver BalserによるプロジェクトPsychonautのEPです。
 

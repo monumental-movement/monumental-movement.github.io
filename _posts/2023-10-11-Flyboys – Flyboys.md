@@ -9,6 +9,8 @@ image: ../assets/images/Flyboys – Flyboys.jpg
 
 #### Flyboys – Flyboys
 
+#### Tracklist
+```md
 A1. Picture Perfect
 
 A2. Dear John
@@ -22,6 +24,7 @@ B2. Butch
 B3. Different Kind Of Guy
 
 B4. Theme Song
+```
 
 Flyboys（フライボーイズ）は、1975年から1980年まで活動したUSパンクロックバンド。
 

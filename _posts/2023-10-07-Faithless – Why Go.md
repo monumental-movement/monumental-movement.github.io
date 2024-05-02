@@ -9,9 +9,12 @@ image: ../assets/images/Faithless – Why Go.jpg
 
 #### Faithless – Why Go
 
+#### Tracklist
+```md
 A. Why Go? (Ferry Corsten Remix)
 
 B. Why Go? (Lange Remix)
+```
 
 「Why Go?」は、イギリスのエレクトロニックミュージックグループであるFaithlessの楽曲です。この曲は、彼らのセカンドアルバム「Sunday 8PM」（1998年）に収録されています。Faithlessは、トランス、ハウス、ダンスミュージックの要素を組み合わせた独自のサウンドで知られています。
 

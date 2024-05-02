@@ -9,9 +9,12 @@ image: ../assets/images/Public Energy – Slumber Velocity.jpg
 
 #### Public Energy – Slumber Velocity
 
+#### Tracklist
+```md
 A. Slumber
 
 B. Velocity
+```
 
 "Slumber" は、強烈なグルーヴと、ほぼ消え去るかのような低音ベースが特徴で、ミニマリスティックなトランスのメロディに変わり、さらに激しいサウンドに戻ります。追加のアシッドドロップもトラック全体にわたって絡みつきます。
 

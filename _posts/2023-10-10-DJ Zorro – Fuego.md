@@ -9,11 +9,14 @@ image: ../assets/images/DJ Zorro – Fuego.jpg
 
 #### DJ Zorro – Fuego
 
+#### Tracklist
+```md
 A. Fuego (DJ Sick Mix)
 
 B1. Fuego (Hyper Mix)
 
 B2. Fuego (Instrumental)
+```
 
 「Fuego」は、スペイン語で「火」という意味を持つ単語であり、曲のタイトルからも想像できるように、情熱的でエネルギッシュな楽曲となっています。曲は、ラテンのリズムや要素を取り入れつつ、ダンスミュージックの要素と融合させています。
 

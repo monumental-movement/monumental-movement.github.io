@@ -9,11 +9,14 @@ image: ../assets/images/Mauro Picotto – Lizard.jpg
 
 #### Mauro Picotto – Lizard
 
+#### Tracklist
+```md
 A  Lizard (Megavoices Mix)
 
 B1  Lizard (Mondo Bongo Mix)
 
 B2  Lizard (Tea Mix)
+```
 
 Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
 「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。

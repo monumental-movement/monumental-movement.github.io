@@ -9,6 +9,8 @@ image: ../assets/images/Crush – Jellyhead.jpg
 
 #### Crush – Jellyhead
 
+#### Tracklist
+```md
 A1. Jellyhead (Radio Version)
 
 A2. Jellyhead (Motiv 8's Pumphouse 7'' Edit)
@@ -18,6 +20,7 @@ A3. Jellyhead (Motiv 8's Dubhouse Remix)
 B1. Jellyhead (Motiv 8's Pumphouse Remix)
 
 B2. Jellyhead (Oven Ready Remix)
+```
 
 Crushは、イギリスのポップデュオです。Donna AirとJayni Hoyはもともと、イギリスのティーン向けソープオペラ「Byker Grove」のスターでした。
 

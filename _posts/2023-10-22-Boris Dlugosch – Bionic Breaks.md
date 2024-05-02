@@ -9,6 +9,8 @@ image: ../assets/images/Boris Dlugosch – Bionic Breaks.jpg
 
 #### Boris Dlugosch – Bionic Breaks
 
+#### Tracklist
+```md
 A1. Man Parrish – Hip Hop, Be Bop (Don't Stop)
 
 A2. Hashim – Al-Naafiysh (The Soul)
@@ -26,6 +28,7 @@ D1. C.O.D. – In The Bottle
 D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 
 D3. Gary's Gang – Makin' Music
+```
 
 Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Lukie D Determine – Between The Sheets.jpg
 
 #### Lukie D Determine – Between The Sheets
 
+#### Tracklist
+```md
 A. Lukie D/ Determine – Between The Sheets
 
 B. Chevelle Franklyn –Got To Be Real (Version)
+```
 
 The Isley Brothers(アイズリー・ブラザーズ)の「Between the Sheets 」をジャマイカのダンスホール・シーンを代表するシンガー Lukie D(ルーキーD) ＆Determineがカバー。
 

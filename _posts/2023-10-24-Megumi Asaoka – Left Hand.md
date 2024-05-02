@@ -9,9 +9,12 @@ image: ../assets/images/Megumi Asaoka – Left Hand.jpg
 
 #### 麻丘めぐみ – わたしの彼は左きき
 
+#### Tracklist
+```md
 A. わたしの彼は左きき
 
 B. ひとりの私
+```
 
 歌詞– 千家和也
 ミュージック＆アレンジ – 筒美京平

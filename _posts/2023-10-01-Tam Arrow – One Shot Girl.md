@@ -9,6 +9,8 @@ image: ../assets/images/Tam Arrow – One Shot Girl.jpg
 
 #### Tam Arrow – One Shot Girl
 
+#### Tracklist
+```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
 A2. Tam Arrow–One Shot Girl (Extended Version)
@@ -16,6 +18,7 @@ A2. Tam Arrow–One Shot Girl (Extended Version)
 B1. Beat Man–Future Boy (Extended Version)
 
 B2. P. Stone–Kosmic Woofer (Extended Version)
+```
 
 2001年にイタリアのレーベル「Live Music」からリリースされたTam Arrow(本名Claudio Magnani)によるEPです。
 

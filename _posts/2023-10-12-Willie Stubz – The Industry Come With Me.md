@@ -9,6 +9,8 @@ image: ../assets/images/Willie Stubz – The Industry Come With Me.jpg
 
 #### Willie Stubz – The Industry Come With Me
 
+#### Tracklist
+```md
 A1. The Industry (Clean)
 
 A2. The Industry (Dirty)
@@ -20,6 +22,7 @@ B1. Come With Me (Clean)
 B2. Come With Me (Dirty)
 
 B3. Come With Me (Instrumental)
+```
 
 A面１、２曲目はMusalinyとN.O.R.E.をフィーチャリング。プロデューサーは全曲SPK（SPKilla）。アルバム「The Industry」のためにHydra Entertainment からリリースされたpromo盤。
 

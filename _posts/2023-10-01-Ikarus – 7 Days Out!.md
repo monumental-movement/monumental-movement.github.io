@@ -9,6 +9,8 @@ image: ../assets/images/Ikarus – 7 Days Out!.jpg
 
 #### Ikarus – 7 Days Out!
 
+#### Tracklist
+```md
 A. Awake From A Dream
 
 B. Baby Wants To Go
@@ -16,6 +18,7 @@ B. Baby Wants To Go
 C. Mo ! Wara Okamatique
 
 D. A Window To The Future
+```
 
 IkarusはToru Shimadaのプロジェクトで、彼のレーベルPhilosomatik Records より1998年にリリースされました。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Adam Marshall – Remote Culture.jpg
 
 #### Adam Marshall – Remote Culture
 
+#### Tracklist
+```md
 A. Magnum
 
 B1. Illuminator
 
 B2. Nature Gone
+```
 
 Adam Marshall（アダム・マーシャル）は、カナダ出身で現在はベルリンを拠点とするDJ／プロデューサー＆レーベルNew Kanadaのオーナー。Christian AndersenとのユニットGrazeとしても活動。
 

@@ -9,6 +9,8 @@ image: ../assets/images/The Beatles – Revolver.jpg
 
 #### The Beatles – Revolver
 
+#### Tracklist
+```md
 A1. Good Day Sunshine
 
 A2. And Your Bird Can Sing
@@ -37,6 +39,7 @@ Lead Vocals – George Harrison
 B6. She Said She Said
 
 B7. Tomorrow Never Knows
+```
 
 「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
 

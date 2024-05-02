@@ -9,6 +9,8 @@ image: ../assets/images/Mylo Vs Miami Sound Machine – Doctor Pressure.jpg
 
 #### Mylo Vs Miami Sound Machine – Doctor Pressure
 
+#### Tracklist
+```md
 A1. Mylo Vs Miami Sound Machine–Doctor Pressure (Dirty Club Mix)
 
 A2. Mylo–Drop The Pressure (Club Mix)
@@ -16,6 +18,7 @@ A2. Mylo–Drop The Pressure (Club Mix)
 B1. Mylo–Drop The Pressure (Rex The Dog Remix)
 
 B2. Mylo–Drop The Pressure (Stanton Warriors Remix)
+```
 
 「Doctor Pressure」はスコットランドのDJ・プロデューサーであるMylo（マイロ）とアメリカのポップバンド、Miami Sound Machine（マイアミ・サウンド・マシーン）とのコラボレーション楽曲です。この曲は、2005年にリリース。
 

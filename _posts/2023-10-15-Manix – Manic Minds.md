@@ -9,6 +9,8 @@ image: ../assets/images/Manix – Manic Minds.jpg
 
 #### Manix – Manic Minds
 
+#### Tracklist
+```md
 Ai. Stupid Dope Mix (Pt. 1){: .button1}
 
 Aii. Special Request
@@ -16,6 +18,7 @@ Aii. Special Request
 AAi. Feel Real Good
 
 AAii. Can't Tech No More
+```
 
 「Manix（マニックス）」は、4 HeroのMarc Clairのソロプロジェクト。Manixは、UKのオールドスクールブレイクビーツを中心とした当時のレイブシーンにおいて重要なアーティストの一人。
 

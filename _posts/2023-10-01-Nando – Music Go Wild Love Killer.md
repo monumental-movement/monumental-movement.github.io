@@ -9,6 +9,8 @@ image: ../assets/images/Nando – Music Go Wild Love Killer.jpg
 
 #### Nando – Music Go Wild Love Killer
 
+#### Tracklist
+```md
 A1. Music Go Wild (Extended Mix)
 
 A2. Music Go Wild (I Love Mini Mix)
@@ -16,6 +18,7 @@ A2. Music Go Wild (I Love Mini Mix)
 B1. Love Killer (Extended Mix)
 
 B2. Love Killer (Bonus Track)
+```
 
 Nando (ナンド・ボニーニ)こと、Fernando Bonini（フェルナンド・ボニーニ）はイタリアのギタリスト、シンガーソングライター、ボーカリストです。
 

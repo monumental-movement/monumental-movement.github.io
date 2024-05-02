@@ -9,6 +9,8 @@ image: ../assets/images/Tomita – Cosmos.jpg
 
 #### Tomita – Cosmos
 
+#### Tracklist
+```md
 A1. Space Fantasy
 
 A2. Pacific 231
@@ -24,6 +26,7 @@ B2. Solvejg's Song
 B3. Hora Staccato
 
 B4. The Sea Named "Solaris"
+```
 
 「宇宙幻想」（"Cosmos"）は、冨田勲による宇宙に関連する音楽作品の一つで、宇宙の神秘さや壮大さを科学と音楽を組み合わせ、宇宙のイメージを音楽的に表現するために電子音楽とシンセサイザーを駆使して作曲されました。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Slyder – Neo (The One).jpg
 
 #### Slyder – Neo (The One)
 
+#### Tracklist
+```md
 A. Neo (The One)
 
 B. Neo (The One) (R.R.D.S. Chewable Mix)
+```
 
 Slyder （スライダー）は、Chad Petree（チャド・ペトリー） と Jeremy Dawson（ジェレミー・ドーソン）によるUSダンスミュージックデュオです。
 

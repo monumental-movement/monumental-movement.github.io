@@ -9,11 +9,14 @@ image: ../assets/images/PNAU – Wild Strawberries EP.jpg
 
 #### PNAU – Wild Strawberries EP
 
+#### Tracklist
+```md
 A. Wild Strawberries [Extended Mix]
 
 B1. No More Violence [Extended Mix]
 
 B2. We Have Tomorrow [Extended Mix]
+```
 
 PNAU（プナウ）は、Nick Littlemore（ニック・リトルモア）、Peter Mayes（ピーター・メイズ）によるオーストラリアのエレクトロニックダンスミュージックグループ。
 

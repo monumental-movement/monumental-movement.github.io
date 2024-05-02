@@ -9,9 +9,12 @@ image: ../assets/images/Earthbound – Essence Of Life.jpg
 
 #### Earthbound – Essence Of Life
 
+#### Tracklist
+```md
 A. Essence Of Life (John "00" Fleming Remix)
 
 B. Essence Of Life (Skynet UK Remix)
+```
 
 Earthboundは、Anders ErikssonとFredrik Johanssonによるスウェーデンのユーロ・プログレッシブダンスアクト。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Blac
 
 #### Public Enemy – Apocalypse 91... The Enemy Strikes Black
 
+#### Tracklist
+```md
 A1. Lost At Birth
 
 A2. Rebirth
@@ -36,6 +38,7 @@ B5. A Letter To The New York Post
 B6. Get The F--- Outta Dodge
 
 B7. Bring Tha Noize
+```
 
 「Apocalypse 91... The Enemy Strikes Black」は、先行アルバム「Fear of a Black Planet」の成功を受けて制作された作品です。アルバムのタイトルは、「黒人の権利や社会的な不平等についての闘いを続ける」というメッセージを込めています。
 

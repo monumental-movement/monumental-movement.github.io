@@ -9,9 +9,12 @@ image: ../assets/images/Fantasia – Free Yourself.jpg
 
 #### Fantasia – Free Yourself
 
+#### Tracklist
+```md
 A. Free Yourself
 
 B. Free Yourself
+```
 
 Charles Spencer＆David HarnessによるFantasia – Free YourselfのハウスREMIX。
 

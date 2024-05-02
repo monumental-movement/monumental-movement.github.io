@@ -9,6 +9,8 @@ image: ../assets/images/Rossington Collins Band – Anytime Anyplace Anywhere.jp
 
 #### Rossington Collins Band – Anytime Anyplace Anywhere
 
+#### Tracklist
+```md
 A1. Prime Time
 
 A2. Three Times As Bad
@@ -26,6 +28,7 @@ B2. Winners And Losers
 B3. Misery Loves Company
 
 B4. Sometimes You Can Put It Out
+```
 
 『Anytime, Anyplace, Anywhere』は、1980年にリリースされたRossington Collins Band（ロッシントン・コリンズ・バンド）の最初のスタジオ・アルバムで、彼らの代表曲「Don't Misunderstand Me」が収録されている。
 

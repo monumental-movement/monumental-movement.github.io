@@ -9,11 +9,14 @@ image: ../assets/images/Lev Lee – At Night In Ljubljana.jpg
 
 #### Lev Lee – At Night In Ljubljana
 
+#### Tracklist
+```md
 A. Gadna Panoga
 
 B1. Synthaxis
 
 B2. At Night In Ljubljana
+```
 
 Lev Leeこと、Borut Bernik（ボルト・ベルニク）はスロベニアのテクノプロデューサー。Ales Cacovicと共に、スロベニアのテクノDJ&プロデューサーデュオとしてClox、Cloak Device、The Clockworx名義でも活動。
 

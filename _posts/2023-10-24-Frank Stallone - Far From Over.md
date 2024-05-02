@@ -9,9 +9,12 @@ image: ../assets/images/Frank Stallone - Far From Over.jpg
 
 #### Frank Stallone - Far From Over
 
+#### Tracklist
+```md
 A. Far From Over (ファー・フロム・オーヴァー)
 
 B. Waking Up (ウェイキング・アップ)
+```
 
 Frank Stallone(フランク・スタローン )は、USロックシンガーであり、俳優Sylvester Stallone(シルベスター・スタローン)の弟。
 

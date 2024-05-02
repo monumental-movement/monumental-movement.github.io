@@ -9,6 +9,8 @@ image: ../assets/images/Various – Dance Panic.jpg
 
 #### Various – Dance Panic!
 
+#### Tracklist
+```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 
 A2. Billie Godfrey–Number One
@@ -18,6 +20,7 @@ A3. DJ Visage–Rock That Sound! (Airplay Mix)
 B1. Airplay–The Music Is Moving (Original Vocal)
 
 B2. Reverance–Sacrifice (Paul Woodgate)
+```
 
 UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
 

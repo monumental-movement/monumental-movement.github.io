@@ -9,7 +9,10 @@ image: ../assets/images/Stardust – Music Sounds Better With You.jpg
 
 #### Stardust – Music Sounds Better With You
 
+#### Tracklist
+```md
 A. Music Sounds Better With You
+```
 
 Stardustは、トーマ・バンガルテル(ダフト・パンク)、DJのアラン・ブラックス(DJ Alan Braxe)、ベンジャミン・ダイアモンドによるユニットです。
 

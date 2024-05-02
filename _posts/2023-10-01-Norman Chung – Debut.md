@@ -9,11 +9,14 @@ image: ../assets/images/Norman Chung – Debut.jpg
 
 #### Norman Chung – Debut
 
+#### Tracklist
+```md
 A. F1 (Deetron Edit/ディートロン Edit)
 
 B1. Get Down
 
 B2. Sense
+```
 
 有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。
 

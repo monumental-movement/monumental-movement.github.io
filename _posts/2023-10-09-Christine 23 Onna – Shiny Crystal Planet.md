@@ -9,6 +9,8 @@ image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.jpg
 
 #### Christine 23 Onna – Shiny Crystal Planet
 
+#### Tracklist
+```md
 1. Drive To Crystal Planet
 
 2. Cosmic Jungle
@@ -32,6 +34,7 @@ image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.jpg
 11. Moon Over
 
 12. New Dawn On Crystal Planet
+```
 
 2000年にアルケミーレコーズよりリリースされた山崎マゾと戸田房尾によるユニットChristine 23 Onnaによるアルバムです。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Kimiko Kasai – This Is My Love.jpg
 
 #### Kimiko Kasai – This Is My Love
 
+#### Tracklist
+```md
 A1. Use Me
 
 A2. Come Rain Or Come Shine
@@ -28,6 +30,7 @@ B4. And Roses And Roses
 B5. I Wish I Could Walk Away
 
 B6. Little Things
+```
 
 「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。
 

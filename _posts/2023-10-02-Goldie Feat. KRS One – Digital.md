@@ -9,9 +9,12 @@ image: ../assets/images/Goldie Feat. KRS One – Digital.jpg
 
 #### Goldie Feat. KRS One – Digital
 
+#### Tracklist
+```md
 A. Digital (Original Mix) Featuring – KRS One
 
 B. Digital (Armand Van Helden's Speed Garage Mix) Remix, Co-producer [Additional Production] – Armand Van Helden
+```
 
 「Digital」は、イギリスのミュージシャンであるゴールディ（Goldie）がアメリカのラッパーKRS-Oneをフィーチャーした楽曲で、ゴールディの1998年のアルバム「Saturnz Return」からの最初のシングルとしてリリースされました。
 

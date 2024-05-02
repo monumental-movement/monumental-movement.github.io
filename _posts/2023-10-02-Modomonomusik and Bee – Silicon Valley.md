@@ -9,11 +9,14 @@ image: ../assets/images/Modomonomusik and Bee – Silicon Valley.jpg
 
 #### Modomonomusik and Bee – Silicon Valley
 
+#### Tracklist
+```md
 A. Devoice
 
 B1. Da Da
 
 B2. Ebird
+```
 
 2001年にドイツのレーベルからリリースされたKamue Flash BeeとLogic Sistersによるユニット「Modomonomusik & Bee」のEPです。
 

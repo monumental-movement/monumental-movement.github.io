@@ -9,6 +9,8 @@ image: ../assets/images/Tomita – The Planets.jpg
 
 #### Tomita – The Planets
 
+#### Tracklist
+```md
 A1. I Mars
 
 A2. II Venus
@@ -22,6 +24,7 @@ B2. V Saturn
 B3. VI Uranus
 
 B4. VII Neptune
+```
 
 冨田勲（Isao Tomita）は、日本の作曲家および電子音楽のパイオニア。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Sally Rendell – Bim Bum Bam.jpg
 
 #### Sally Rendell – Bim Bum Bam
 
+#### Tracklist
+```md
 A1. Bim Bum Bam (Extended Mix)
 
 A2. Bim Bum Bam (Acappella)
@@ -18,6 +20,7 @@ B1. Bim Bum Bam (Radio Edit)
 B2. Bim Bum Bam (Instrumental)
 
 B3. Bim Bum Bam (Dub Version)
+```
 
 1995年にイタリアのレーベル「Time Records」からリリースされたSally RendellのEPです。
 

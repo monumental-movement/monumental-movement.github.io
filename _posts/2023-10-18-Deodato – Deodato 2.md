@@ -9,6 +9,8 @@ image: ../assets/images/Deodato – Deodato 2.jpg
 
 #### Deodato – Deodato 2
 
+#### Tracklist
+```md
 A1. Nights In White Satin
 
 A2. Pavane For A Dead Princess
@@ -18,6 +20,7 @@ A3. Skyscrapers
 B1. Super Strut
 
 B2. Rhapsody In Blue
+```
 
 Deodatoこと、Eumir Deodato（エウミール・デオダート）は、ブラジルのミュージシャン/作曲家/アレンジャー/プロデューサー。
 

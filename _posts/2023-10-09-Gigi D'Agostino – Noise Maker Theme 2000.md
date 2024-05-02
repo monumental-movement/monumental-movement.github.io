@@ -9,9 +9,12 @@ image: ../assets/images/Gigi D'Agostino – Noise Maker Theme 2000.jpg
 
 #### Gigi D'Agostino – Noise Maker Theme 2000
 
+#### Tracklist
+```md
 A. Noise Maker Theme (2000 Remix)
 
 B. Noise Maker Theme (Original Mix)
+```
 
 素晴らしい'94年のオリジナルがB面に収録されています。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.jpg
 
 #### Danny Krivit – Nite Life 011 - Expansions
 
+#### Tracklist
+```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
 1-02. Fantastic Plastic Machine–Whistle Song (Original Mix)
@@ -36,6 +38,7 @@ image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.jpg
 2-01. Block 16 feat. Jhelisa–Find An Oasis
 
 2-02. Pal Joey–Harmonyなど
+```
 
 ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
 

@@ -9,11 +9,14 @@ image: ../assets/images/Dharma Bums – Dharma Means Truth.jpg
 
 #### Dharma Bums – Dharma Means Truth
 
+#### Tracklist
+```md
 A. Dharma Means Truth
 
 B1. Dharma Means Trance
 
 B2. Dharma Means Dub
+```
 
 Dharma Bumsは、Jason Hayward（DJ Phats）とMartin Tyrell（DJ Dharma 900）によるイギリス出身のエレクトロニック・ダンス・ミュージック・デュオ。
 

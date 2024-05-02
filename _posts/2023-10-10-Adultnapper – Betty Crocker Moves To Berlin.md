@@ -9,9 +9,12 @@ image: ../assets/images/Adultnapper – Betty Crocker Moves To Berlin.jpg
 
 #### Adultnapper – Betty Crocker Moves To Berlin
 
+#### Tracklist
+```md
 A. Betty Crocker Moves To Berlin
 
 AA. Kaitlin
+```
 
 2007年にUKのレーベル「Superfreq Records」からリリースされたFrancis HarrisによるプロジェクトAdultnapperのEPです。
 

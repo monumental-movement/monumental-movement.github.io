@@ -9,6 +9,8 @@ image: ../assets/images/DJ Rip – Digital Distortion.jpg
 
 #### DJ Rip – Digital Distortion
 
+#### Tracklist
+```md
 A1. New Generation
 
 A2. New Generation (Rave Mix)
@@ -16,6 +18,7 @@ A2. New Generation (Rave Mix)
 B1. Break It Down
 
 B2. Feel That Groove
+```
 
 1999年にUnderground Constructionからリリースされたハードハウスとテクノのパイオニアである本名	Xavier JacomeことDJ RipによるEPです。
 

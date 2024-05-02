@@ -9,11 +9,14 @@ image: ../assets/images/Arti$try – The Worker.jpg
 
 #### Arti$try – The Worker
 
+#### Tracklist
+```md
 A1. The Worker
 
 B1. Through The Nite
 
 B2. Ha-Pi-Ness
+```
 
 Arti$tryは、Marco VerkuylenとBenjamin Kuytenによるユニット。「Arti$try – The Worker」は、オランダのハウスレーベルFresh Fruit Recordsより、1998年にリリースされた。
 

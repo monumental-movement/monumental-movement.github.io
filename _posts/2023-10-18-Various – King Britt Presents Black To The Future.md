@@ -9,6 +9,8 @@ image: ../assets/images/Various – King Britt Presents Black To The Future.jpg
 
 #### Various – King Britt Presents Black To The Future
 
+#### Tracklist
+```md
 A1. The Society –How's Life
 
 A2. Charlie Dark –Drums Of Passion
@@ -18,6 +20,7 @@ B1. Face – Butter Angel
 B2. Capitol A – Da'Bring Back
 
 B3. Yesterdays New Quintet – 18 And Untitled
+```
 
 フィラデルフィアのハウスシーンのキーパーソンKing Britt（キング・ブリット）によるコンピレーション 。
 

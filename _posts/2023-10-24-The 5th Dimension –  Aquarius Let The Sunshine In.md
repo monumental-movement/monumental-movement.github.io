@@ -9,9 +9,12 @@ image: ../assets/images/The 5th Dimension –  Aquarius Let The Sunshine In.jpg
 
 #### The 5th Dimension –  Aquarius Let The Sunshine In
 
+#### Tracklist
+```md
 A. Aquarius/Let The Sunshine In (The Flesh Failures) 
 
 B. The Magic Garden 
+```
 
 The 5th Dimensio(フィフス ディメンション)は、サンシャインポップ、ポップソウル、サイケデリックソウルのスタイルで、1960年代後半から1970年代前半にかけて活躍したUSボーカルグループです。
 

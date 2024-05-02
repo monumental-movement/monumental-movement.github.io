@@ -9,6 +9,8 @@ image: ../assets/images/Real Life – Send Me An Angel '89.jpg
 
 #### Real Life – Send Me An Angel '89
 
+#### Tracklist
+```md
 A1. Send Me An Angel '89 (Edit)
 
 A2. Send Me An Angel '89 (Dance Mix)
@@ -16,6 +18,7 @@ A2. Send Me An Angel '89 (Dance Mix)
 B1. Send Me An Angel '89 (House Mix)
 
 B2. Always
+```
 
 「Send Me An Angel '89」は、オーストラリアのシンセポップバンド、リアル・ライフ（Real Life）による楽曲です。オリジナルの「Send Me An Angel」は、1983年にリリースされた彼らのシグネチャーソングでしたが、1989年にリリースされたリミックスバージョンとしても知られています。
 

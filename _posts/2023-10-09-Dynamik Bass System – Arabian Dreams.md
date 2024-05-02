@@ -9,6 +9,8 @@ image: ../assets/images/Dynamik Bass System – Arabian Dreams.jpg
 
 #### Dynamik Bass System – Arabian Dreams
 
+#### Tracklist
+```md
 A1. Arabian Dreams
 
 A2. Omega Platinum
@@ -16,6 +18,7 @@ A2. Omega Platinum
 B1. Electronic
 
 B2. Frequencies
+```
 
 1998年にドイツのレーベル「Gigolo Records」からリリースされたThomas WernerのプロジェクトであるDynamik Bass SystemによるEPです。
 

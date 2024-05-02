@@ -9,6 +9,8 @@ image: ../assets/images/Various – Exterminator Presents Turn On The Heat.jpg
 
 #### Various – Exterminator Presents Turn On The Heat
 
+#### Tracklist
+```md
 A1. Sanchez–Joy (Medley)
 
 A2. Flourgon–Nuff Niceness
@@ -28,6 +30,7 @@ B3. Daddy Freddy–Bad Boy A Street
 B4. Quench Aid–Nah Fight Over Woman
 
 B5. Fire House Crew –Version
+```
 
 1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
 です。

@@ -9,6 +9,8 @@ image: ../assets/images/Deep Side – What I Need.jpg
 
 #### Deep Side – What I Need
 
+#### Tracklist
+```md
 A1. What I Need (Main Version)
 
 A2. What I Need (Instrumental)
@@ -18,6 +20,7 @@ A3. What I Need (Acapella)
 B1. Hot Like An Oven
 
 B2. Lovely
+```
 
 B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
 

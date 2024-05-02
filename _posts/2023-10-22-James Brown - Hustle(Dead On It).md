@@ -9,9 +9,12 @@ image: ../assets/images/James Brown - Hustle(Dead On It).jpg
 
 #### James Brown - Hustle!!! (Dead On It)
 
+#### Tracklist
+```md
 A. Hustle!!! (Dead On It)
 
 B. Dead On It Part II
+```
 
 「Hustle!!! (Dead On It)」は、ジェームス・ブラウンのアルバム「Dead On The Heavy Funk 1975-1983」に収録されている曲です。
 

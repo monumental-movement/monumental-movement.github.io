@@ -9,6 +9,8 @@ image: ../assets/images/Shantel – EP.jpg
 
 #### Shantel – EP
 
+#### Tracklist
+```md
 A1. Tell Me Why Is It Oh So Hard To Be Oh So Lovely
 
 A2. Philosophy Di A. Palladio
@@ -16,6 +18,7 @@ A2. Philosophy Di A. Palladio
 B1. Really Good Photo
 
 B2. I'm Not Afraid Of You
+```
 
 ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
 

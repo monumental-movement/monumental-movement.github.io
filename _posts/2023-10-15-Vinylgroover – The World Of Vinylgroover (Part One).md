@@ -9,6 +9,8 @@ image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).jp
 
 #### Vinylgroover – The World Of Vinylgroover (Part One)
 
+#### Tracklist
+```md
 A1. Time (Vinylgroover Remix)
 
 A2. Children Of The Night
@@ -24,6 +26,7 @@ C2. Well Wicked
 D1. Can't Stop (Vinylgroover Remix)
 
 D2. Got To Have It
+```
 
 VinylgrooverことScott Attril（スコット・アトリル）は、UK拠点とする大ハッピーハードコア＆ハードハウス・プロデューサー/DJ。
 

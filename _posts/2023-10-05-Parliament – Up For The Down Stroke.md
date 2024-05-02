@@ -9,6 +9,8 @@ image: ../assets/images/Parliament – Up For The Down Stroke.jpg
 
 #### Parliament – Up For The Down Stroke
 
+#### Tracklist
+```md
 A1. Up For The Down Stroke
 
 A2. Testify
@@ -24,6 +26,7 @@ B2. All Your Goodies Are Gone
 B3. Whatever Makes Baby Feel Good
 
 B4. Presence Of A Brain
+```
 
 「Up for the Down Stroke」は、パーラメントの初のスタジオアルバムであり、そのサウンドはエネルギッシュで踊りやすいファンクビートが特徴です。アルバムには、ファンクの要素を取り入れたグルーヴィーな楽曲が詰まっています。
 

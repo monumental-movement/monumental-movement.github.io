@@ -9,6 +9,8 @@ image: ../assets/images/The Lassie Foundation – Pacifico.jpg
 
 #### The Lassie Foundation – Pacifico
 
+#### Tracklist
+```md
 A1. Scapa Flow
 
 A2. Dive Bomber
@@ -30,6 +32,7 @@ B4. I've Got The Rock And Roll For You
 B5. Bombers Moon
 
 B6. You Are Infinity
+```
 
 The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Synthesys – Your Fantasy.jpg
 
 #### Synthesys – Your Fantasy
 
+#### Tracklist
+```md
 A. Your Fantasy (Extended Mix)
 
 B. Your Fantasy (Club Mix)
+```
 
 1994年にイタリアのレーベル「In Out」からリリースされたSynthesysのEPです。
 

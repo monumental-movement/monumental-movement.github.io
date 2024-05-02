@@ -9,9 +9,12 @@ image: ../assets/images/Dylan – Society Revolver.jpg
 
 #### Dylan – Society / Revolver
 
+#### Tracklist
+```md
 A. Society (The System)
 
 B. Revolver
+```
 
 Dylanは、ブレイクビーツ・テクノ・エレクトロプロデューサーDylan Rhymes（ディラン・ライムス）の別名義。「Society / Revolver」は、Dylan Rhymes自身のレーベルBlue Blackより2000年にリリース。
 

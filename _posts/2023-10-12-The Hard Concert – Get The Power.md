@@ -9,6 +9,8 @@ image: ../assets/images/The Hard Concert – Get The Power.jpg
 
 #### The Hard Concert – Get The Power
 
+#### Tracklist
+```md
 A1. Get The Power (Vocal Hard Mix)
 
 A2. Get The Power (Move Mix)
@@ -16,6 +18,7 @@ A2. Get The Power (Move Mix)
 B1. Get The Power (Reverse Mix)
 
 B2. Get The Power (Overdrive Mix)
+```
 
 The Hard Concertは、イタリアのプロデューサーPaolo Armaroli、イタリアのダンスレーベルDJ Movementの創設者でありDJ/プロデューサーのPieradis Rossini、ダンスミュージックプロデューサー/DJのGraziano Fanelli、イタリアのプロデューサーMarco Rizziによるイタロ・ユーロダンスプロジェクト。
 

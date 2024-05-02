@@ -9,6 +9,8 @@ image: ../assets/images/Ricky Martin – Livin' La Vida Loca.jpg
 
 #### Ricky Martin – Livin' La Vida Loca
 
+#### Tracklist
+```md
 A1. Livin' La Vida Loca (Pablo Flores English Club Mix)
 
 A2. Livin' La Vida Loca (Pablo Flores English Dub-apella)
@@ -24,6 +26,7 @@ C2. Livin' La Vida Loca (Track Masters Remix)
 D1. Livin' La Vida Loca (Scissorhands Push & Pull Spanglish House Mix)
 
 D2. Livin' La Vida Loca (Scissorhands Push & Pull Spanish House Mix)
+```
 
 1999年にリリースされたリッキーマーティンの世界でヒットした有名なLivin' La Vida Locaのリミックスが収録された2枚組EPです。
 

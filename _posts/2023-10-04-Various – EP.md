@@ -9,6 +9,8 @@ image: ../assets/images/Various – EP.jpg
 
 #### Various – EP
 
+#### Tracklist
+```md
 A1. Just Master Rhythm–Mistura Deep
 Producer – Hitoshi "ME" Takasugi
 Written-By – Jun Sakurai, Ryuji Kashiwase
@@ -21,6 +23,7 @@ Written-By, Producer – Bamboo Sonics
 
 B2. Acid Funk Shun–Acid Funk Shun
 Written-By, Producer – Acid Funk Shun
+```
 
 1995年に日本のレーベル「D5 Records」からリリースされたEPです。
 

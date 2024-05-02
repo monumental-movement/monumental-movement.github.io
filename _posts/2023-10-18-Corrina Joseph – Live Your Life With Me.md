@@ -9,6 +9,8 @@ image: ../assets/images/Corrina Joseph – Live Your Life With Me.jpg
 
 #### Corrina Joseph – Live Your Life With Me
 
+#### Tracklist
+```md
 A1. Live Your Life With Me (Original Mix)
 
 A2. Live Your Life With Me (Slow 'N' Lo Mix)
@@ -18,6 +20,7 @@ A3. Live Your Life With Me (Life Beats)
 B1. Live Your Life With Me (Narcotic Vocal Mix)Remix – S-Man
 
 B2. Live Your Life With Me (Narcotic Dub)Remix – S-Man
+```
 
 Corrina Joseph（コリーナ・ジョセフ）はイギリスのシンガーで、Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabrielなどの様々なアーティストの作品に参加。
 

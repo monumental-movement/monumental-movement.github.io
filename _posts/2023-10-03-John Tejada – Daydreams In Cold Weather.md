@@ -9,6 +9,8 @@ image: ../assets/images/John Tejada – Daydreams In Cold Weather.jpg
 
 #### John Tejada – Daydreams In Cold Weather
 
+#### Tracklist
+```md
 A1. To The West
 
 A2. Stop The Mechanism
@@ -32,6 +34,7 @@ D10. The Silence Of Us
 D11. In Coach5:06
 
 D12. Some Would Know Why
+```
 
 2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
 

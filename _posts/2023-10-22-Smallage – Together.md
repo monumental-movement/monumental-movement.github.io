@@ -9,9 +9,12 @@ image: ../assets/images/Smallage – Together.jpg
 
 #### Smallage – Together
 
+#### Tracklist
+```md
 A. Together (Club Mix)
 
 B. Together (Dub Mix)
+```
 
 Smallageは、イタリア出身のDJ Stefano Mango、DJ Lino Lodi、Denis Quarinによるプロジェクト。
 

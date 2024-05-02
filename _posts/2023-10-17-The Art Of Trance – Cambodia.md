@@ -9,9 +9,12 @@ image: ../assets/images/The Art Of Trance – Cambodia.jpg
 
 #### The Art Of Trance – Cambodia
 
+#### Tracklist
+```md
 A. Cambodia (Clanger Remix)
 
 AA. Cambodia (Tunnel Vision Mix)
+```
 
 The Art Of Trance(アート・オブ・トランス)は、UKのトランスミュージックアーティストSimon Berry（サイモン・ベリー）の別名義。他にもPoltergeist（ポルターガイスト）、Vicious Circles（ヴィシャス・サークル）としても知られている。Simon Berryは、トランス・グループのClanger（クレンジャー）、Conscious（コンシャス）、Union Jack（ユニオン・ジャック）のメンバーでもある。
 

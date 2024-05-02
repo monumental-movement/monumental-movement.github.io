@@ -9,11 +9,14 @@ image: ../assets/images/DNA, Breeze and Munchie Breeze – Insanity Your Love Hi
 
 #### DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx)
 
+#### Tracklist
+```md
 A. Dead Serious Insects
 
 B1. Beetle-Juice
 
 B2. Squash I
+```
 
 1996年にスウェーデンのれーべる「Audio Pollution」からリリースされた本名Kari Pekka LekebuschことCari LekebuschによるプロジェクトCrushed InsectのEPです。
 

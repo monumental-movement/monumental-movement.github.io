@@ -9,6 +9,8 @@ image: ../assets/images/U2 – Achtung Baby.jpg
 
 #### U2 – Achtung Baby
 
+#### Tracklist
+```md
 A1. Zoo Station
 
 A2. Even Better Than The Real Thing
@@ -32,6 +34,7 @@ B4. Ultra Violet (Light My Way)
 B5. Acrobat
 
 B6. Love Is Blindness
+```
 
 「Achtung Baby」は、U2が新たな音楽的方向性を追求したアルバムであり、従来のサウンドに対する脱構築と再構築を試みています。アルバムは、エレクトロニックな要素やダンスミュージックの影響を取り入れながらも、U2独自のメロディと感情的な歌詞を保ちつつ、新たな表現を追求しています。
 

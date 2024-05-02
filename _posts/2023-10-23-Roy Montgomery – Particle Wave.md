@@ -9,9 +9,12 @@ image: ../assets/images/Roy Montgomery – Particle Wave.jpg
 
 #### Roy Montgomery – Particle / Wave
 
-A  Particle
+#### Tracklist
+```md
+A. Particle
 
-B  Wave
+B. Wave
+```
 
 Roy Montgomery(ロイ・モンゴメリー )は、ニュージーランドのクライストチャーチ出身の作曲家&ギタリストで、NZアンダーグラウンドのパイオニアとして知られています。Roy Montgomeryのインストゥルメンタルなソロ作品は、ポストロック、ローファイ、フォーク、前衛的実験音、エクスペリメンタルなどの要素が入り混じった音楽スタイルです。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Linoleum Lineage DJ Rylo and Omanjamari – Holes After 
 
 #### Linoleum Lineage DJ Rylo & Omanjamari – Holes After Dark EP
 
+#### Tracklist
+```md
 A1. Open Arms
 
 A2. One Of Those Jams
@@ -18,6 +20,7 @@ A3. Physics For Poets
 B1. Endless Paradigm
 
 B2. Rocketship Romance
+```
 
 リリック – Omanjamari
 マスター – Damon Tedesco

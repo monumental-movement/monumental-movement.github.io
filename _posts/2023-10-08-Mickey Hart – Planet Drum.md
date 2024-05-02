@@ -9,6 +9,8 @@ image: ../assets/images/Mickey Hart – Planet Drum.jpg
 
 #### Mickey Hart – Planet Drum
 
+#### Tracklist
+```md
 A1. Udu Chant
 
 A2. Island Groove
@@ -34,6 +36,7 @@ B4. Evening Samba
 B5. Iyanu
 
 B6. Mysterious Island
+```
 
 「プラネット・ドラム」は、ロックバンドであるグレイトフル・デッドのメンバーであった音楽家兼音楽学者、ミッキー・ハートによるワールドミュージックのアルバムです。
 

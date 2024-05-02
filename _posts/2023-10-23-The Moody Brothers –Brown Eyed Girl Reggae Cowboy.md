@@ -9,9 +9,12 @@ image: ../assets/images/The Moody Brothers –Brown Eyed Girl Reggae Cowboy.jpg
 
 #### The Moody Brothers –Brown Eyed Girl Reggae Cowboy
 
+#### Tracklist
+```md
 A. Brown Eyed Girl
 
 B. Reggae Cowboy
+```
 
 The Moody Brothers(ムーディー ブラザーズ)は、1980年代から1990年代にかけて活躍したアメリカーナ カントリー ミュージックトリオ。メンバーは、Carlton Moody(カールトン・ムーディ)、Dave Moody(デイブ・ムーディ)、Trent Moody(トレント・ムーディ)の３兄弟。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Trajic – Basics.jpg
 
 #### Trajic – Basics
 
+#### Tracklist
+```md
 A1. Wasted Time
 
 A2. TeKNeeKs
@@ -16,6 +18,7 @@ A2. TeKNeeKs
 B1. Got Off My Dik # 1 (Traj/JJ Flores)
 
 B2. Got Off My Dik # 2 (Original Mix)
+```
 
 DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパイオニア＆レジェンドとして知られるシカゴ拠点のDJ。
 

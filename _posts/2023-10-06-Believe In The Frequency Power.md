@@ -9,6 +9,8 @@ image: ../assets/images/Believe In The Frequency Power.jpg
 
 #### Believe In The Frequency Power
 
+#### Tracklist
+```md
 A1. Organization–Eternal
 
 A2. Gotham City –Animism
@@ -26,6 +28,7 @@ B3. Ken Inaoka–Deep Inside Of Me
 B4. Palomatic–Halo
 
 B5. Kiyoshi Hazemoto–Dawn Of Rainland
+```
 
 1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
 

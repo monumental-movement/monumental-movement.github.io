@@ -9,9 +9,12 @@ image: ../assets/images/Jay Sinister Sealee Louie Vega Julie McKnight-Bitterswee
 
 #### Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair
 
+#### Tracklist
+```md
 A. Bittersweet Love Affair (Dance Ritual Mix)
 
 B. Bittersweet (Jay’s Main Event)
+```
 
 2009年にUKのレーベル「Atal」からリリースされたJay "Sinister" Sealée  & Louie VegaによるEPです。
 

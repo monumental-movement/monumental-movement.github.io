@@ -9,9 +9,12 @@ image: ../assets/images/Klangkontakt – Dekadent.jpg
 
 #### Klangkontakt – Dekadent
 
+#### Tracklist
+```md
 A. Dekadent (Extended)
 
 B. Dekadent (Progressive)
+```
 
 WestBam（ウエストバム）、DJ Dick、William Röttger、Klaus Jankuhnなどによって設立されたLow Spirit RecordingsのサブレーベルNextfire Recordingsから2001年にリリースされたKlangkontakt（Dennis Shadow）によるプログレッシグハウストラック。
 

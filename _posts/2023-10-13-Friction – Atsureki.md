@@ -9,6 +9,8 @@ image: ../assets/images/Friction – 軋轢.jpg
 
 #### Friction – 軋轢
 
+#### Tracklist
+```md
 1. A-Gas
 2. オートマチック・フラ 
 3. I Can Tell
@@ -19,6 +21,7 @@ image: ../assets/images/Friction – 軋轢.jpg
 8. No Thrill
 9. Big-S
 10. Out
+```
 
 「軋轢」は、日本のパンク・ロックバンドFriction（フリクション ）の1980年リリースの初のフル・スタジオ・アルバム。プロデューサー・エンジニアは坂本龍一。このアルバムは2005年の再発盤
 

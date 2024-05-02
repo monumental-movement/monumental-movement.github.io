@@ -9,6 +9,8 @@ image: ../assets/images/DMX Krew – Showroom Dummies.jpg
 
 #### DMX Krew – Showroom Dummies
 
+#### Tracklist
+```md
 A. Showroom Dummies Part I & II
 Written-By – Schneider, Hütter
 
@@ -16,6 +18,7 @@ B1. マネキン (Manekin)
 Translated By [Japanese Translation] – Miyako Takagi
 
 B2. Cold Heart Part II
+```
 
 1998年にドイツのレーベル「International Deejay Gigolo Records」からリリースされたDMX KrewのEPです。
 

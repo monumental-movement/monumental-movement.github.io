@@ -9,6 +9,8 @@ image: ../assets/images/RJD2 – Here's What's Left.jpg
 
 #### RJD2 – Here's What's Left
 
+#### Tracklist
+```md
 A1. Here's What's Left
 
 A2. Here's What's Left (Instrumental)
@@ -22,6 +24,7 @@ B2. Two More Dead
 B3. Two More Dead (Hundred Strong Remix)
 
 B4. Bonus Beat
+```
 
 RJD2（Ramble Jon Krohn/ランブル・ジョン・クローン）は、USヒップホップ/エレクトロニックプロデューサー兼DJ。Soul Position、 MHz Legacy（MHz）、Icebird などのグループでも活躍。
 

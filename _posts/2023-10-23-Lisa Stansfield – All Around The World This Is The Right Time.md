@@ -9,9 +9,12 @@ image: ../assets/images/Lisa Stansfield – All Around The World This Is The Rig
 
 #### Lisa Stansfield – All Around The World This Is The Right Time
 
+#### Tracklist
+```md
 A. All Around The World
 
 B. This Is The Right Time
+```
 
 Lisa Stansfield(リサ・スタンスフィールド)の「All Around The World」は、世界的にヒットしたUK R&Bクラシック。
 B面のプロディーサーはNinja Tuneの創設者でもある、UKのDJ 兼プロダクション・アクトColdcut。

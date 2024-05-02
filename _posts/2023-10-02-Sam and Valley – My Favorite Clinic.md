@@ -9,6 +9,8 @@ image: ../assets/images/Sam and Valley – My Favorite Clinic.jpg
 
 #### Sam & Valley – My Favorite Clinic
 
+#### Tracklist
+```md
 A1. Horn Cattle
 
 A2. Platform Happy
@@ -32,6 +34,7 @@ B4. That's Me
 B5. To Be Continue
 
 B6. Handkerchief
+```
 
 1997年にAphex TwinことリチャードDジェイムスのレーベルRephlexからリリースされた日本人のユニット「Sam & Valley」の作品です。
 

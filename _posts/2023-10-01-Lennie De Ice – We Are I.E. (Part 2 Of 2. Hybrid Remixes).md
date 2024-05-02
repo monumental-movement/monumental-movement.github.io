@@ -9,11 +9,14 @@ image: ../assets/images/Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remix
 
 #### Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes)
 
+#### Tracklist
+```md
 A1. We Are I.E. (Hybrid's Pumping Mix)
 
 B1. We Are I.E. (Hybrid's Lite Mix)
 
 B2. We Are I.E. (Hybrid's Dark Mix)
+```
 
 「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。ジャングル・クラシックをHybridがremix。
 

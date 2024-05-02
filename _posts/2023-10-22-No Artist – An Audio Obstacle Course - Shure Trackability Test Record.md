@@ -9,6 +9,8 @@ image: ../assets/images/No Artist – An Audio Obstacle Course - Shure Trackabil
 
 #### No Artist – An Audio Obstacle Course - Shure Trackability Test Record
 
+#### Tracklist
+```md
 A1. Introduction
 
 A2. Orchestral Bells - 4 Levels
@@ -38,6 +40,7 @@ B7. Right Ch. Piano - 4 Levels
 B8. Right Ch. Accordion - 4 Levels
 
 B9. Right Ch. Harpsichord - 4 Levels
+```
 
 
 [メルカリで購入](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}

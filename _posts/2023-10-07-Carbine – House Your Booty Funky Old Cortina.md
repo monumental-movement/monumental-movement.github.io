@@ -9,9 +9,12 @@ image: ../assets/images/Carbine – House Your Booty Funky Old Cortina.jpg
 
 #### Carbine – House Your Booty Funky Old Cortina
 
+#### Tracklist
+```md
 A. House Your Booty
 
 AA. Funky Old Cortina
+```
 
 「House Your Booty / Funky Old Cortina」は、Carbineのシングルとしてリリースされた楽曲であり、2つのトラックが収録されています。
 

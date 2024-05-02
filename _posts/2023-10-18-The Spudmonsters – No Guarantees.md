@@ -9,6 +9,8 @@ image: ../assets/images/The Spudmonsters – No Guarantees.jpg
 
 #### The Spudmonsters – No Guarantees
 
+#### Tracklist
+```md
 A1. Upperhand
 
 A2. Bloodline
@@ -38,7 +40,7 @@ B4. Generation X
 B5. Broken
 
 B6. Untitled
-
+```
 
 The Spudmonsters（スパッドモンスターズ）は、オハイオ州クリーブランド出身のDon Foose、Scott Roberts、Steve Swanson、Eric Matthews、Chris Andrewsによって1987年に結成されたUSスラッシュメタル、ハードコア、クロスオーバー バンド。
 

@@ -9,6 +9,8 @@ image: ../assets/images/Elektrochemie LK – Gold.jpg
 
 #### Elektrochemie LK – Gold!
 
+#### Tracklist
+```md
 A1. Schall (Album Version)
 
 A2. Things Go Wrong II
@@ -28,6 +30,7 @@ E. Boodie Steil
 F1. En Route To Narita
 
 F2. Ein Nenner
+```
 
 Elektrochemie LKは、Thomas Schumacher （トーマス・シューマッハ）のソロプロジェクトの一つです。
 

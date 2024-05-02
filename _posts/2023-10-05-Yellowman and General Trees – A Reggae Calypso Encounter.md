@@ -9,6 +9,8 @@ image: ../assets/images/Yellowman and General Trees – A Reggae Calypso Encount
 
 #### Yellowman & General Trees – A Reggae Calypso Encounter
 
+#### Tracklist
+```md
 A1. Yellowman–Come Touch
 
 A2. Yellowman–Nuh Tied Me
@@ -24,6 +26,7 @@ B2. Yellowman & General Trees–Trees & Yellow In De Place
 B3. General Trees–Serious Thing
 
 B4. General Trees–Trees In The Place
+```
 
 イエローマンは、ジャマイカ音楽シーンで非常に人気のあるダンスホールレゲエのアーティストであり、ジェネラル・ツリーズも同様に知名度の高いダンスホールアーティストです。彼らの共演による「A Reggae Calypso Encounter」は、ジャマイカのレゲエとトリニダード・トバゴのカリプソの要素を融合させたユニークなサウンドを提供しています。
 

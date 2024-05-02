@@ -9,6 +9,8 @@ image: ../assets/images/Various – Electro Swing.jpg
 
 #### Various – Electro Swing
 
+#### Tracklist
+```md
 1. Caravan Palace –Jolie Coquine
 2. Mr. Scruf f–Get A Move On
 3. Chinese Man –Artichaut
@@ -26,6 +28,7 @@ image: ../assets/images/Various – Electro Swing.jpg
 15. Vono Box –Hello Joe
 
 など、全20曲
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m97133346644){: .button1}
 

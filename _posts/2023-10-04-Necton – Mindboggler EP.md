@@ -9,9 +9,12 @@ image: ../assets/images/Necton – Mindboggler EP.jpg
 
 #### Necton – Mindboggler EP
 
+#### Tracklist
+```md
 A. Mindboggler
 
 B. Rainbow Warrior
+```
 
 2000年にドイツのレーベル「Spirit Zone Recordings」からリリースされたNectonによるEPです。
 

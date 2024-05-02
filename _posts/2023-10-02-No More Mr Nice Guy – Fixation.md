@@ -9,9 +9,12 @@ image: ../assets/images/No More Mr Nice Guy – Fixation.jpg
 
 #### No More Mr Nice Guy – Fixation
 
+#### Tracklist
+```md
 A. Fixation
 
 B. Space Terrace
+```
 
 1995年にUKのレーベル「:Confusion Records」からリリースされたPete LazonbyとTim FieldingによるユニットNo More Mr Nice GuyのEPです。
 

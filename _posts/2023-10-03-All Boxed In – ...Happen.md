@@ -9,11 +9,14 @@ image: ../assets/images/All Boxed In – ...Happen.jpg
 
 #### All Boxed In – ...Happen
 
+#### Tracklist
+```md
 A...Happen (Tolley's Stressed Mix)
 
 AA1...Happen (Pop Voxter Mix)
 
 AA2...Happen (Tolley's Geetarmarama Dub)
+```
 
 1993年にUKのレーベル「Stress Records」からリリースされたAll Boxed InによるEPです。
 

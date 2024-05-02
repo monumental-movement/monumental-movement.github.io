@@ -9,6 +9,8 @@ image: ../assets/images/Brainkiller – Brainkiller.jpg
 
 #### Brainkiller – Brainkiller
 
+#### Tracklist
+```md
 A1. Pure Energy
 
 A2. Hotthar Huesthue
@@ -16,6 +18,7 @@ A2. Hotthar Huesthue
 B1. Cooler Heimattrack
 
 B2. Wonderland
+```
 
 Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。
 「Brainkiller」は、Mike Hoppe (Roy Batty)によって設立されたドイツのレーベルF%@#ing Loud!より1994年にリリースされた。

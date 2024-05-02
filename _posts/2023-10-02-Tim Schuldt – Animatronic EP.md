@@ -9,9 +9,12 @@ image: ../assets/images/Tim Schuldt – Animatronic EP.jpg
 
 #### Tim Schuldt – Animatronic EP
 
+#### Tracklist
+```md
 A. Animatronic
 
 AA. Inner Child
+```
 
 Tim Schuldtは、ドイツ出身のGoaおよびサイケデリック・トランスアーティスト。また、スタジオおよびマスタリングエンジニアであり、4CN Studiosのオーナーでもあります。
 

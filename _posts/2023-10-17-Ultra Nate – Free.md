@@ -9,6 +9,8 @@ image: ../assets/images/Ultra Nate – Free.jpg
 
 #### Ultra Naté – Free
 
+#### Tracklist
+```md
 A1. Free (M&S Philly Klub Mix)
 
 A2. Free (M&S Philly Dub)
@@ -18,6 +20,7 @@ A3. Free (Tiefschwarz A Capella)
 B1. Free (GA's Mix)
 
 B2. Free (M&S Epic Reprise Mix)
+```
 
 1997年レーベルStrictly Rhythmからリリースされた「Ultra Naté – Free」は、90年代のダンスアンセムの 1 つとされている。
 

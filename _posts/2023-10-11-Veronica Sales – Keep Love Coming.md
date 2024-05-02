@@ -9,6 +9,8 @@ image: ../assets/images/Veronica Sales – Keep Love Coming.jpg
 
 #### Veronica Sales – Keep Love Coming
 
+#### Tracklist
+```md
 A1. Keep Love Coming (Extended Mix)
 
 A2. Keep Love Coming (Acappella)
@@ -16,6 +18,7 @@ A2. Keep Love Coming (Acappella)
 B1. Keep Love Coming (Radio Version)
 
 B2. Keep Love Coming (Instrumental)
+```
 
 ユーロビートレーベルA.Beat-Cから1995年にリリースされたVeronica Sales（ベロニカ セールス）の「 Keep Love Coming」。Veronica Salesは、Alexandraの別名義でも活動。
 

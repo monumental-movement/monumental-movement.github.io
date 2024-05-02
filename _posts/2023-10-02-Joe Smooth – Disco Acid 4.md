@@ -9,6 +9,8 @@ image: ../assets/images/Joe Smooth – Disco Acid 4.jpg
 
 #### Joe Smooth – Disco Acid 4
 
+#### Tracklist
+```md
 A1. Alternative3
 
 A2. Forever My Love
@@ -16,6 +18,7 @@ A2. Forever My Love
 B1. Faster Than Light
 
 B2. Walking Into Sunshine
+```
 
 2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 

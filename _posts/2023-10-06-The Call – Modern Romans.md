@@ -9,6 +9,8 @@ image: ../assets/images/The Call – Modern Romans.jpg
 
 #### The Call – Modern Romans
 
+#### Tracklist
+```md
 A1. The Walls Came Down
 
 A2. Turn A Blind Eye
@@ -26,6 +28,7 @@ B2. Violent Times
 B3. Face To Face
 
 B4. All About You
+```
 
 「Modern Romans」は、アメリカのロックバンドThe Callのアルバムです。このアルバムは1983年にリリースされました。The Callは、マイケル・ビーン（Michael Been）をリードボーカルに迎えたバンドで、力強いロックサウンドと政治的なメッセージを特徴としています。
 

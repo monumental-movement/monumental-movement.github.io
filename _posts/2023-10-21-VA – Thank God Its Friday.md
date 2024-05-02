@@ -9,6 +9,8 @@ image: ../assets/images/VA – Thank God It's Friday.jpg
 
 #### VA – Thank God It's Friday
 
+#### Tracklist
+```md
 A1. Love And Kisses –Thank God It's Friday
 
 A2. Pattie Brooks–After Dark
@@ -46,6 +48,7 @@ D5. Thelma Houston– Love Masterpiece
 D6. Donna Summer– Last Dance (Reprise)
 
 E. Donna Summer - Je T'Aime (Moi Non Plus)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m32254074664){: .button1}
 

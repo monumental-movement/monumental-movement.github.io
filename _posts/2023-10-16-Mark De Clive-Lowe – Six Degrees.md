@@ -9,6 +9,8 @@ image: ../assets/images/Mark De Clive-Lowe – Six Degrees.jpg
 
 #### Mark De Clive-Lowe – Six Degrees
 
+#### Tracklist
+```md
 A1. Roundtrip
 
 A2. La Zorra
@@ -32,6 +34,7 @@ D1. Por La Mañana
 D2. Motherland
 
 D3. El Dîa Perfecto (Reprise)
+```
 
 Mark De Clive-Lowe（マーク・ド・クライヴ・ロウ）は、ニュージーランド出身のジャズキーボーディスト、音楽プロデューサー、作曲家、アーティスト、クラブDJ。
 

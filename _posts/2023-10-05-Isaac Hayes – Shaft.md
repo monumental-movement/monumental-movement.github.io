@@ -9,6 +9,8 @@ image: ../assets/images/Isaac Hayes – Shaft.jpg
 
 #### Isaac Hayes – Shaft
 
+#### Tracklist
+```md
 A1. Theme From Shaft (Vocal)
 
 A2. Bumpy's Lament
@@ -38,6 +40,7 @@ B6. No Name Bar
 B7. Bumpy's Blues
 
 B8. Shaft Strikes Again
+```
 
 映画『Shaft』のサウンドトラックとして制作され、ゴードン・パークス監督によるクラシックなブラックスプロイテーション犯罪映画の音楽を担当しています。このアルバムは非常に評価され、最も偉大なサウンドトラックの一つとされています。
 

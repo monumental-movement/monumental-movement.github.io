@@ -9,6 +9,8 @@ image: ../assets/images/Michel Polnareff – Gift Pack Series.jpg
 
 #### Michel Polnareff – Gift Pack Series
 
+#### Tracklist
+```md
 A1. 愛の休日
 
 A2. ロミオとジュリエットのように
@@ -58,6 +60,7 @@ D4. 悲しきマリー
 D5. おかしなジョー
 
 D6. 天国への道
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m93242824687){: .button1}
 

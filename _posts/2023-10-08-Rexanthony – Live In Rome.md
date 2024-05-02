@@ -9,9 +9,12 @@ image: ../assets/images/Rexanthony – Live In Rome.jpg
 
 #### Rexanthony – Live In Rome
 
+#### Tracklist
+```md
 A1. Live In Rome
 
 B1. Live In Rome
+```
 
 「Live In Rome」は、イタリアのDJ・プロデューサーであるレクサンソニー（Rexanthony）によるライブアルバムです。このアルバムは、彼のライブパフォーマンスを収めた作品としてリリースされました。
 

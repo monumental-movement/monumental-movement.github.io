@@ -9,6 +9,8 @@ image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Eart
 
 #### Knights Of The Occasional Table – Knees Up Mother Earth
 
+#### Tracklist
+```md
 1. Choose
 2. Amoeba
 3. Rainbows Of Gaia
@@ -21,6 +23,7 @@ image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Eart
 10. Trybes
 11. Knees Up Mother Earth
 12. Untitled
+```
 
 Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。
 

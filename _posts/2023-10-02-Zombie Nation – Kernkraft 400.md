@@ -9,9 +9,12 @@ image: ../assets/images/Zombie Nation – Kernkraft 400.jpg
 
 #### Zombie Nation – Kernkraft 400
 
+#### Tracklist
+```md
 A. Kernkraft 400 (DJ Gius Remix)
 
 B. Kernkraft 400 (Miss Kittin & The Hacker Remix)
+```
 
 「ケルンクラフト400」（独:Kernkraft 400）は、ゾンビ・ネイションというドイツのテクノグループによって発表された楽曲で、彼らのアルバム『Leichenschmaus』から出た最初のシングル曲。1999年にリリースされると、2000年2月にドイツで最高22位となった。ベルギーやオランダではトップ10入りしたほか、イギリスでは初登場2位となり、その後40万枚以上を売り上げて英国レコード産業協会からゴールドディスク認定を受けた。
 

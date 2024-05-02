@@ -9,9 +9,12 @@ image: ../assets/images/Yoshimi Iwasaki - Touch.jpg
 
 #### 岩崎良美 – タッチ
 
+#### Tracklist
+```md
 A. タッチ
 
 B. 君がいなければ
+```
 
 歌詞 – 康珍化
 ミュージック＆編曲 – 芹澤廣明

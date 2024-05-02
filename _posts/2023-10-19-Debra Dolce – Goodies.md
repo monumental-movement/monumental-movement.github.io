@@ -9,9 +9,12 @@ image: ../assets/images/Debra Dolce – Goodies.jpg
 
 #### Debra Dolce – Goodies
 
+#### Tracklist
+```md
 A. Goodies (Zero Cash Remix)
 
 B. Goodies (ZC's Dolce Remix)
+```
 
 2008年にレーベル「Coco Machete Records」からリリースされたDebra DolceによるEPです。
 

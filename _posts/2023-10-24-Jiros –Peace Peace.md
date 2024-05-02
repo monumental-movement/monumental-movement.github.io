@@ -11,9 +11,12 @@ image: ../assets/images/Jiro's –Peace Peace.jpg
 
 ジローズ– 戦争を知らない子供たち  
 
+#### Tracklist
+```md
 A. 戦争を知らない子供たち = Peace Peace
 
 B. 愛とあなたのために = For The Love & You
+```
 
 アレンジ： 馬飼野俊一
 歌詞： 北山修

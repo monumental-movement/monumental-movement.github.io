@@ -9,6 +9,8 @@ image: ../assets/images/Sash! – Encore Une Fois.jpg
 
 #### Sash! – Encore Une Fois
 
+#### Tracklist
+```md
 A1. Encore Une Fois (Future Breeze Mix)
 
 A2. Encore Une Fois (Dancing Divaz Club Mix)
@@ -16,6 +18,7 @@ A2. Encore Une Fois (Dancing Divaz Club Mix)
 B1. Encore Une Fois (La Casa Di Tokapi Mix)
 
 B2. Encore Une Fois (Powerplant "Toke On This" Mix)
+```
 
 「Encore une fois」（フランス語で「もう一度」の意）は、ドイツのDJグループSash!による曲で、グループのデビューアルバム「It's My Life – The Album」（1997年）からのセカンドシングルとして、1997年1月にPolygramからリリースされ、Sash!の最も大ヒットした曲の一つです。
 

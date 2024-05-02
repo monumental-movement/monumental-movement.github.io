@@ -9,6 +9,8 @@ image: ../assets/images/Quench – Dreams.jpg
 
 #### Quench – Dreams
 
+#### Tracklist
+```md
 A1. Dreams (Radio Edit)
 
 A2. Dreams (Extended Mix)
@@ -20,6 +22,7 @@ B1. Dreams (Crunched Up Mix)
 B2. Dreams (Crunched Down Mix)
 
 B3. Dreams (Global Harmony)
+```
 
 Quenchこと、Christopher J. Dolan（クリストファー・J・ドーラン/CJ Dolan）は、オーストラリア出身のダンスミュージックプロデューサー兼ミュージシャン。「Quench – Dreams」は、世界的なヒットとなった。共同プロデューサーは、Sean Quinn（ショーン・クイン）。
 

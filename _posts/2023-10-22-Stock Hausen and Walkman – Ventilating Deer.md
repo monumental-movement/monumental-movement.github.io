@@ -9,6 +9,8 @@ image: ../assets/images/Stock, Hausen & Walkman – Ventilating Deer.jpg
 
 #### Stock, Hausen & Walkman – Ventilating Deer
 
+#### Tracklist
+```md
 A1. Sleep
 
 A2. Upset
@@ -28,6 +30,7 @@ B3. Würstsaft
 B4. Skipper
 
 B5. Flagging
+```
 
 Stock, Hausen & Walkman (ストック、ハウゼン & ウォークマン)は、90年代を代表するUKサンプリング・コラージュ・ミュージックユニット。
 

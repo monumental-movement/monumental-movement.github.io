@@ -9,9 +9,12 @@ image: ../assets/images/Ozgur Can – Irony.jpg
 
 #### Özgür Can – Irony
 
+#### Tracklist
+```md
 A. Irony (Peter Dubs Mix)
 
 B. Irony (Original Mix)
+```
 
 Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
 

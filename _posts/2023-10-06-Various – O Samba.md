@@ -9,6 +9,8 @@ image: ../assets/images/Various – O Samba.jpg
 
 #### Various – O Samba
 
+#### Tracklist
+```md
 1. Clara Nunes–A Deusa Dos Orixás
 
 2. Clara Nunes–Ijexá (Filhos De Gandhy)
@@ -38,6 +40,7 @@ image: ../assets/images/Various – O Samba.jpg
 14. Martinho Da Vila–Batuca No Chão
 
 15. Paulinho Da Viola–Sarou Para Ramadés
+```
 
 1991年にリリースされたDavid Byrneによってコンパイルされたコンピレーションのカセッテテープです。
 

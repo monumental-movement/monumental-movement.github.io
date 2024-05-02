@@ -9,9 +9,12 @@ image: ../assets/images/Kagami – The Repaired Sequencer EP.jpg
 
 #### Kagami – The Repaired Sequencer EP
 
+#### Tracklist
+```md
 A1. 1.S.W. (109 Shopping Warriors)
 
 B1. BMX (Sound Associates Remix)
+```
 
 B2. Beat Bang (Thomas Schumacher Remix Pt.2){: .button1}
 

@@ -9,6 +9,8 @@ image: ../assets/images/Frente  – Shape.jpg
 
 #### Frente  – Shape
 
+#### Tracklist
+```md
 A1. Sit On My Hands
 
 A2. Horrible
@@ -34,6 +36,7 @@ B4. The Destroyer
 B5. What's Come Over Me
 
 B6. Calmly
+```
 
 Frenteは、1989 年に結成されたオーストラリアのフォークポップ・インディー ポップグループ。オリジナルのメンバーは、サイモン・オースティン、アンジー・ハート、ティム・オコナー。 
 

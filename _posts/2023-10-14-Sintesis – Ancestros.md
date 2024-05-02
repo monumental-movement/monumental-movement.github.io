@@ -9,6 +9,8 @@ image: ../assets/images/Sintesis – Ancestros.jpg
 
 #### Sintesis – Ancestros
 
+#### Tracklist
+```md
 1. Asoyin
 2. Eyeleo
 3. Oya
@@ -17,6 +19,7 @@ image: ../assets/images/Sintesis – Ancestros.jpg
 6. Mereguo
 7. Oduddua
 8. Titi-Laye
+```
 
 Sintesis（シンテシス）は、1976 年に結成されたキューバ初のプログレッシブロック/シンフォニックロック・バンド。エスニックな音楽スタイルを取り入れた実験的なサウンドで知られ、伝統的なキューバ音楽やアフリカの要素、ジャズ、ロック、エレクトロニックなど、様々なジャンルの影響を受けています。
 

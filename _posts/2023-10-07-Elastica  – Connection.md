@@ -9,6 +9,8 @@ image: ../assets/images/Elastica  – Connection.jpg
 
 #### Elastica  – Connection
 
+#### Tracklist
+```md
 A. Connection
 
 B1. See That Animal
@@ -16,6 +18,7 @@ B1. See That Animal
 B2. Blue (Donna's 4 Track Demo)
 
 B3. Spastica
+```
 
 「Connection」は、イギリスのオルタナティブロックバンドであるElasticaのシングルです。この曲は、彼らのセルフタイトルのデビューアルバム「Elastica」（1995年）からのリードシングルとしてリリースされました。Elasticaは、1990年代に活動したバンドで、パンクロックとポップの要素を融合させた独自のサウンドで知られています。
 

@@ -9,9 +9,12 @@ image: ../assets/images/Newton Family – Don Quijote.jpg
 
 #### Newton Family – Don Quijote
 
+#### Tracklist
+```md
 A. Don Quijote = ドン・キホーテ
 
 B. Marathon = マラソン
+```
 
 Newton Family(ニュートン・ファミリー )は、70年代半ばから80年代後半に活躍したハンガリーのディスコグループ。
 

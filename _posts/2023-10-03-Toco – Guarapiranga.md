@@ -9,11 +9,14 @@ image: ../assets/images/Toco – Guarapiranga.jpg
 
 #### Toco – Guarapiranga
 
+#### Tracklist
+```md
 A. Guarapiranga (Gerardo Frisina Dub)
 
 B1. Guarapiranga (Gerardo Frisina Remix)
 
 B2. Guarapiranga (Original Version)
+```
 
 Tocoは、ブラジルのミュージシャンであり、彼の音楽はブラジル音楽、特にボサノヴァやサンバに影響を受けています。
 

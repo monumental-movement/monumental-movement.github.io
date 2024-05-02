@@ -9,9 +9,12 @@ image: ../assets/images/Zoo Brazil – Selected.jpg
 
 #### Zoo Brazil – Selected
 
+#### Tracklist
+```md
 1. Selected (Original)
 
 2. Selected (D Ramirez Tekno Disko Remix)
+```
 
 2002年にドイツのレーベル「Great Stuff Recordings」からリリースされたZoo BrazilによるEPです。
 

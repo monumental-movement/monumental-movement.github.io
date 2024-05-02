@@ -9,6 +9,8 @@ image: ../assets/images/Trancesetters – Secrets Of Meditation Neurodisco.jpg
 
 #### Trancesetters – Secrets Of Meditation / Neurodisco
 
+#### Tracklist
+```md
 A1. Secrets Of Meditation (Shi-Take' Anti-Fromage Club Mix)
 
 A2. Neurodisco
@@ -16,6 +18,7 @@ A2. Neurodisco
 B1. Secrets Of Meditation (Original Remix)
 
 B2. Secrets Of Meditation (Zoom Hallucinogenic Flange Dub Mix)
+```
 
 Trancesetters（トランスセッター）は、 Gaston SteenkistとAlex Dijksterhuisによるプロジェクト。Remixは、SHITAKE、レーベルZoom Recordsの主宰Billy NastyとDavid Wessonによるもの。
 

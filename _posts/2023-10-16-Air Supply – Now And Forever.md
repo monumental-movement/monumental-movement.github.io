@@ -9,6 +9,8 @@ image: ../assets/images/Air Supply – Now And Forever.jpg
 
 #### Air Supply – Now And Forever
 
+#### Tracklist
+```md
 A1. Now And Forever
 
 A2. Even The Nights Are Better
@@ -28,6 +30,7 @@ B3. Don't Be Afraid
 B4. She Never Heard Me Call
 
 B5. What Kind Of Girl
+```
 
 81年にリリースされたAir Supply（エア・サプライ）のアルバム「Now and Forever（ナウ・アンド・フォーエヴァー）」は、最もヒットした彼らの代表アルバム。
 

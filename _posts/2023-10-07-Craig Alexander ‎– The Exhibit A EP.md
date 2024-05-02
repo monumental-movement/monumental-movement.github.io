@@ -9,11 +9,14 @@ image: ../assets/images/Craig Alexander - The Exhibit A EP.jpg
 
 #### Craig Alexander - The Exhibit A EP
 
+#### Tracklist
+```md
 A. Breath
 
 B1. Do Your Thang
 
 B2. Elektro Ride
+```
 
 クレイグ・アレキサンダーは、シカゴハウスミュージック界で30年以上のキャリアを築いてきた重要な存在です。
 

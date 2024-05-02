@@ -9,6 +9,8 @@ image: ../assets/images/Peter Murphy – Should The World Fail To Fall Apart.jpg
 
 #### Peter Murphy – Should The World Fail To Fall Apart
 
+#### Tracklist
+```md
 A1. Canvas Beauty (Romance Version)
 
 A2. The Light Pours Out Of Me
@@ -28,6 +30,7 @@ B3. The Answer Is Clear
 B4. Final Solution
 
 B5. Jemal
+```
 
 「Should the World Fail to Fall Apart」は、かつてゴシックロックバンドBauhausのメンバーであったイギリスのソロアーティスト、ピーター・マーフィーのデビューアルバムです。このアルバムには、マーフィーによるMagazineの「The Light Pours Out of Me」やPere Ubuの「Final Solution」などのカバーが収められています。1986年にリリースされました。
 

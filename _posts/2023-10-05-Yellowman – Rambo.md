@@ -9,6 +9,8 @@ image: ../assets/images/Yellowman – Rambo.jpg
 
 #### Yellowman – Rambo
 
+#### Tracklist
+```md
 A1. Tarzan
 
 A2. Rambo
@@ -24,6 +26,7 @@ B2. Computerize
 B3. Love
 
 B4. Long Rider
+```
 
 「Rambo」は、ジャマイカのレゲエミュージシャンであるイエローマン（Yellowman）の楽曲です。イエローマンは、1980年代にジャマイカ音楽界で非常に人気のあるアーティストでした。
 

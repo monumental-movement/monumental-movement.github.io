@@ -9,6 +9,8 @@ image: ../assets/images/Passage – Passage.jpg
 
 #### Passage – Passage
 
+#### Tracklist
+```md
 A1. Have You Heard The Word
 
 A2. You Can't Be Livin'
@@ -26,6 +28,7 @@ B2. Power
 B3. Love Eyes
 
 B4. The Son Will Come Again
+```
 
 Passage（パッセージ ）は、アメリカのソウル/ファンク/ジャズ/ディスコバンドBrothers Johnson（ブラザーズ・ジョンソン）のベーシスト、Louis Johnson（ルイス・ジョンソン）によるソロプロジェクト。ルイの元妻Valerie Johnson（ヴァレリー・ジョンソン）と元ブラザーズ・ジョンソンのパーカッショニスト兼シンガーのRichard Heath（リチャード・ヒース）を含むトリオ・グループ。
 

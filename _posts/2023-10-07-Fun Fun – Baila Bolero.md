@@ -9,11 +9,14 @@ image: ../assets/images/Fun Fun – Baila Bolero.jpg
 
 #### Fun Fun – Baila Bolero
 
+#### Tracklist
+```md
 A1. Baila Bolero (Bolero Dance Mix)
 
 A2. Baila Bolero (7" Radio Mix)
 
 B. Baila Bolero (House Mix)
+```
 
 「Baila Bolero」は、ファン・ファンの特徴的なダンスポップサウンドを展開しています。曲名の「Baila Bolero」はスペイン語で「ボレロを踊る」という意味であり、その名の通り、楽曲は陽気で踊りやすいリズムとエネルギーに溢れています。
 

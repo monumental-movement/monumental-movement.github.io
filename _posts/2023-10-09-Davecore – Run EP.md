@@ -9,6 +9,8 @@ image: ../assets/images/Davecore – Run! EP.jpg
 
 #### Davecore – Run! EP
 
+#### Tracklist
+```md
 A1. Run!
 
 A2. N'Blick
@@ -16,6 +18,7 @@ A2. N'Blick
 B1. K-Beat
 
 B2. Lab Test
+```
 
 2002年にスウェーデンのレーベル「Kône Records」からリリースされたDavecoreによるEPです。
 

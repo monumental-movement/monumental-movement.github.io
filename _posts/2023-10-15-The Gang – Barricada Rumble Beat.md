@@ -9,6 +9,8 @@ image: ../assets/images/The Gang – Barricada Rumble Beat.jpg
 
 #### The Gang – Barricada Rumble Beat
 
+#### Tracklist
+```md
 A1. Goin’ To The Crossroads
 
 A2. Blue Message
@@ -32,6 +34,7 @@ B4. Midnight Serenade
 B5. Bad News From Swing Street
 
 B6. Not For Sale
+```
 
 The Gangは、フィロットラーノ出身のイタリアンパンクバンド。
 

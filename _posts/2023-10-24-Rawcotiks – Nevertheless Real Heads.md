@@ -9,6 +9,8 @@ image: ../assets/images/Rawcotiks – Nevertheless Real Heads.jpg
 
 #### Rawcotiks – Nevertheless Real Heads
 
+#### Tracklist
+```md
 A1. Nevertheless (Radio Version)
 
 A2. Nevertheless (Street Version)
@@ -20,6 +22,7 @@ B1. Real Heads (Radio Version)
 B2. Real Heads (Street Version)
 
 B3. Real Heads (Instrumental Version)
+```
 
 Rawcotiksは、NYワシントン ハイツを拠点に活動していたドミニカ共和国のヒップホップ ミュージシャン、 Jeff Valentino（ジェフ ヴァレンティノ）と Bladmillo Castillo （ブラドミロ カスティージョ）のユニット。
 
