@@ -7,7 +7,8 @@ tags: [ Techno, Acid, House ]
 image: ../assets/images/Various – Urban Acid.jpg
 ---
 
-#### Various – Urban Acid
+「Various – Urban Acid」は、
+1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
 
 #### Tracklist
 ```md
@@ -28,7 +29,6 @@ B3. The Candy Man–The Candy Man
 B4. Charm–Walk On The Wild Side
 ```
 
-1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m11742134680){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

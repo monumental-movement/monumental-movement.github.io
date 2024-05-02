@@ -7,7 +7,7 @@ tags: [ JPop, Synth-Pop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra.jpg
 ---
 
-YMO（イエローマジックオーケストラ）のファーストLP日本盤になります。
+YMO（イエローマジックオーケストラ）のファーストLPの日本盤になります。
 
 US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)
 

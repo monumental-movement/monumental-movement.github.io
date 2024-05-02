@@ -7,7 +7,8 @@ tags: [ Techno, Acid, Trance ]
 image: ../assets/images/Resistance D – Dreams EP.jpg
 ---
 
-#### Resistance D – Dreams EP
+「Dreams EP」は、1992年にレーベルDirect DriveからリリースされたResistance DのEPです。
+ハードトランスとメロディアスさを組み合わせたスタイルです。
 
 #### Tracklist
 ```md
@@ -20,8 +21,6 @@ B1. Eclipse
 B2. Index
 ```
 
-1992年にレーベルDirect DriveからリリースされたResistance DのEPです。
-ハードトランスとメロディアスさを組み合わせたスタイルです。
+[メルカリで購入](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m57187510380){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IN30AapgaE4?si=j7gXOXphjEJ9r9Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,7 +7,11 @@ tags: [ Techno ]
 image: ../assets/images/Mauro Picotto & Riccardo Ferri –Alchemist EP.jpg
 ---
 
-#### Mauro Picotto & Riccardo Ferri –Alchemist EP
+「New Time, New Place」はテクノとイギリスのハードダンスクラブの両方で大ヒットしました。
+
+他の曲はかなりしっかりとしたテクノで、「Pandoro」はかなり楽しいトラックです。ハードなビートと同時にトラックが発展していくと、素敵で穏やかなサウンドが広がります。
+
+まるで古いスタイルと新しいスタイルのマウロ・ピコットのようです。
 
 #### Tracklist
 ```md
@@ -20,11 +24,6 @@ C. Alchemist
 D. Pandoro
 ```
 
-「New Time, New Place」はテクノとイギリスのハードダンスクラブの両方で大ヒットしました。
+[メルカリで購入](https://jp.mercari.com/item/m43683328945?afid=6142608987){: .button1}
 
-他の曲はかなりしっかりとしたテクノで、「Pandoro」はかなり楽しいトラックです。ハードなビートと同時にトラックが発展していくと、素敵で穏やかなサウンドが広がります。
-
-まるで古いスタイルと新しいスタイルのマウロ・ピコットのようです。
-
-[メルカリで購入](https://jp.mercari.com/item/m43683328945){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/44_Hc7ATM5s?si=te-QUqe216PZHbu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

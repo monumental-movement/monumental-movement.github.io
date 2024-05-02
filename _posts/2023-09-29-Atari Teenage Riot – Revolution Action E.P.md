@@ -7,7 +7,7 @@ tags: [ Techno, Hardcore Techno ]
 image: ../assets/images/Atari Teenage Riot – Revolution Action E.P.jpg
 ---
 
-#### Atari Teenage Riot – Revolution Action E.P.
+「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。
 
 #### Tracklist
 ```md
@@ -22,8 +22,6 @@ B1. Your Uniform (Does Not Impress Me) (Digital Hardcore Edit)
 B2. Hunt Down The Nazis! (Live In Washington DC 1997){: .button1}
 ```
 
-「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。
+[メルカリで購入](https://jp.mercari.com/item/m84164328964?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m84164328964){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6UX1J9CRoLQ?si=LZKeu3w0_s-LFlv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
