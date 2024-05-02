@@ -7,7 +7,9 @@ tags: [ Techno, Downtempo ]
 image: ../assets/images/Various – We Are Reasonable People.jpg
 ---
 
-#### Various – We Are Reasonable People
+『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
+
+また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
 
 #### Tracklist
 ```md
@@ -36,8 +38,8 @@ image: ../assets/images/Various – We Are Reasonable People.jpg
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
+[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
-また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[メルカリで購入](https://jp.mercari.com/item/m25692223932){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ctFfLxDwB4U?si=PU-bZ89mgZtefhZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
