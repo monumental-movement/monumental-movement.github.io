@@ -7,7 +7,12 @@ tags: [ Hiphop, Compilation ]
 image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
 ---
 
-#### The Beatnuts –World Famous Classics 1993-1998
+「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。
+
+The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
+
+このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
+
 
 #### Tracklist
 ```md
@@ -40,10 +45,6 @@ image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
 14.Give Me Tha Ass
 ```
 
-「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
+[メルカリで購入](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
 
-このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
-
-
-
-[メルカリで購入](https://jp.mercari.com/item/m55154639972){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CD-aPRFuHZQ?si=vpVqZ9N_nT3EQjP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

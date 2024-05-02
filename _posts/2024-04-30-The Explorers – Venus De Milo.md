@@ -3,7 +3,7 @@ layout: post
 title:  "The Explorers – Venus De Milo"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Synth Pops, Pops, 80s ]
+tags: [ Synth Pop, Pops, 80s ]
 image: ../assets/images/The Explorers – Venus De Milo.jpg
 ---
 

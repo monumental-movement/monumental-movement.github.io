@@ -7,7 +7,17 @@ tags: [ Leftfield, Downtempo ]
 image: ../assets/images/Harmonic 33 –Music For Film, Television & Radio Volume One.jpg
 ---
 
-#### Harmonic 33 –Music For Film, Television & Radio Volume One
+2005年にリリースされたこのアルバムは、Warpのリリースの中でもクラシックな内容です。
+
+"Optigan"のスイングするような外宇宙のグルーヴから、"Carousel"の回転する遊園地のような雰囲気まで、Harmonic 33は短い時間の中で最大限のムードを詰め込んでいます。
+
+"Bossa Nova Supernova"や"Departure Lounge"のように、イージーリスニングはスムーズに流れます。
+
+逆に徹底的な奇抜さを求めるなら、"Funky Duck"を聞いてみましょう。
+
+スパイドラマがお好みなら、"Paranoia"と"Long Shadow"が用意されています。
+
+"Marionette"のような短い楽曲でも、その存在感はしっかりと主張して、考え深くメランコリックな"Planet 54"で、このアルバムは締めくくられます。
 
 #### Tracklist
 ```md
@@ -44,16 +54,6 @@ image: ../assets/images/Harmonic 33 –Music For Film, Television & Radio Volume
 16. Pianet 54
 ```
 
-2005年にリリースされたこのアルバムは、Warpのリリースの中でもクラシックな内容です。
+[メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
-"Optigan"のスイングするような外宇宙のグルーヴから、"Carousel"の回転する遊園地のような雰囲気まで、Harmonic 33は短い時間の中で最大限のムードを詰め込んでいます。
-
-"Bossa Nova Supernova"や"Departure Lounge"のように、イージーリスニングはスムーズに流れます。
-
-逆に徹底的な奇抜さを求めるなら、"Funky Duck"を聞いてみましょう。
-
-スパイドラマがお好みなら、"Paranoia"と"Long Shadow"が用意されています。
-
-"Marionette"のような短い楽曲でも、その存在感はしっかりと主張して、考え深くメランコリックな"Planet 54"で、このアルバムは締めくくられます。
-
-[メルカリで購入](https://jp.mercari.com/sell/edit/m74819615393){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

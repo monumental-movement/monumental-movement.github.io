@@ -7,7 +7,9 @@ tags: [ Experimental ]
 image: ../assets/images/Björk – Medúlla.jpg
 ---
 
-#### Björk – Medúlla
+「Björk – Medúlla」は、アイスランドのシンガーソングライターであるビョーク（Björk）のアルバムです。このアルバムは、2004年にリリースされました。
+
+「Medúlla」は、ビョークによる極めて実験的で斬新な作品であり、人間の声を中心としたヴォーカルアルバムとして知られています。ビョークは、ほとんどの楽曲で人間の声や人間の体の音を使用し、従来の楽器に頼らずにサウンドを構築しました。
 
 #### Tracklist
 ```md
@@ -42,11 +44,6 @@ image: ../assets/images/Björk – Medúlla.jpg
 15.Komid
 ```
 
-「Björk – Medúlla」は、アイスランドのシンガーソングライターであるビョーク（Björk）のアルバムです。このアルバムは、2004年にリリースされました。
-
-「Medúlla」は、ビョークによる極めて実験的で斬新な作品であり、人間の声を中心としたヴォーカルアルバムとして知られています。ビョークは、ほとんどの楽曲で人間の声や人間の体の音を使用し、従来の楽器に頼らずにサウンドを構築しました。
-
-
-
-
 [メルカリで購入](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4RPvUuVdiE?si=LfqgjyWdJim9X_Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

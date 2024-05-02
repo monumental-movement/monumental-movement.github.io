@@ -7,7 +7,13 @@ tags: [ Latin, Folk, Rock ]
 image: ../assets/images/Rodrigo Y Gabriela – 1111.jpg
 ---
 
-#### Rodrigo Y Gabriela – 1111
+ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
+
+「11:11」は、ロドリーゴ・イ・ガブリエーラが2009年にリリースしたアルバムで、彼らのシグネチャーとも言えるアコースティックギターだけでリズム、メロディ、ハーモニーを表現します。
+
+彼らのオリジナル曲や他のアーティストのカバー曲が含まれ、ラテンアメリカのリズムやフラメンコの要素が見られる一方でロックやジャズの影響も感じられます。彼らの独自の演奏スタイルと情熱的な表現力は聴衆に強い印象を与えました。
+
+ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
 
 #### Tracklist
 ```md
@@ -50,12 +56,6 @@ DVD3. Lumbini
 DVD4. Buster Voodoo Tutorial
 ```
 
-ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
+[メルカリで購入](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
 
-「11:11」は、ロドリーゴ・イ・ガブリエーラが2009年にリリースしたアルバムで、彼らのシグネチャーとも言えるアコースティックギターだけでリズム、メロディ、ハーモニーを表現します。
-
-彼らのオリジナル曲や他のアーティストのカバー曲が含まれ、ラテンアメリカのリズムやフラメンコの要素が見られる一方でロックやジャズの影響も感じられます。彼らの独自の演奏スタイルと情熱的な表現力は聴衆に強い印象を与えました。
-
-ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
-
-[メルカリで購入](https://jp.mercari.com/item/m95612334096){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

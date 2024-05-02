@@ -7,7 +7,10 @@ tags: [ Techno, Ambient ]
 image: ../assets/images/Ken Ishii – Innerelements.jpg
 ---
 
-#### Ken Ishii – Innerelements
+ケンイシイ（Ken Ishii）は、日本のテクノミュージシャンで、国内外で高い評価を受けているアーティストです。R & S Recordsからリリースされたこのアルバムは、彼の代表作の一つです。
+
+「Innerelements」は、1994年にリリースされ、テクノミュージックの中でも特にトリップホップやエレクトロニカの要素を取り入れた作品として知られています。アンビエントなサウンドスケープやダウンテンポのリズムが特徴であり、その革新的なアプローチは多くのリスナーに強い印象を与えました。
+
 
 #### Tracklist
 ```md
@@ -36,11 +39,6 @@ image: ../assets/images/Ken Ishii – Innerelements.jpg
 12. Decoding
 ```
 
-ケンイシイ（Ken Ishii）は、日本のテクノミュージシャンで、国内外で高い評価を受けているアーティストです。R & S Recordsからリリースされたこのアルバムは、彼の代表作の一つです。
+[メルカリで購入](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
 
-「Innerelements」は、1994年にリリースされ、テクノミュージックの中でも特にトリップホップやエレクトロニカの要素を取り入れた作品として知られています。アンビエントなサウンドスケープやダウンテンポのリズムが特徴であり、その革新的なアプローチは多くのリスナーに強い印象を与えました。
-
-
-
-
-[メルカリで購入](https://jp.mercari.com/item/m57457067000){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

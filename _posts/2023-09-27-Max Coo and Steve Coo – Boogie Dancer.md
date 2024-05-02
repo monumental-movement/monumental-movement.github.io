@@ -7,7 +7,9 @@ tags: [ Euro Beat, Italo, Hi NRG ]
 image: ../assets/images/Max Coo & Steve Coo – Boogie Dancer.jpg
 ---
 
-#### Max Coo & Steve Coo – Boogie Dancer
+1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
+
+MAURO FARINAによるお約束のユーロビートです。
 
 #### Tracklist
 ```md
@@ -22,11 +24,6 @@ B2. Boogie Dancer (Milan Mix)
 B3. Boogie Dancer (Verona Beat)
 ```
 
-1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
+[メルカリで購入](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
-MAURO FARINAによるお約束のユーロビートです。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m15855209847){: .button1}
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
