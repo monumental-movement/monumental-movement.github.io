@@ -7,7 +7,9 @@ tags: [ Trance, 90s ]
 image: ../assets/images/Act Four - Carat Trax 1 – Carat Trax 1.jpg
 ---
 
-#### Act Four - Carat Trax 1 – Carat Trax 1
+「Carat Trax 1」は、
+1994年にベルギーのレーベル「Circus」からリリースされたとAndres RomeroとStefan WuytsによるユニットAct FourのEPです
+
 
 #### Tracklist
 ```md
@@ -20,8 +22,6 @@ B1. Blue (Deep Vocal Mix)
 B2. Blue (Piano Vocal Mix)
 ```
 
-1994年にベルギーのレーベル「Circus」からリリースされたとAndres RomeroとStefan WuytsによるユニットAct FourのEPです
+[メルカリで購入](https://jp.mercari.com/item/m76260753119?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m76260753119){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8Grfgp5b9E?si=jIPZbyknlBOtSuTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

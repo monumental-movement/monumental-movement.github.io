@@ -7,7 +7,9 @@ tags: [ Electro, Breaks ]
 image: ../assets/images/Davecore – Run! EP.jpg
 ---
 
-#### Davecore – Run! EP
+「Run! EP」は、
+2002年にスウェーデンのレーベル「Kône Records」からリリースされたDavecoreによるEPです。
+
 
 #### Tracklist
 ```md
@@ -20,8 +22,6 @@ B1. K-Beat
 B2. Lab Test
 ```
 
-2002年にスウェーデンのレーベル「Kône Records」からリリースされたDavecoreによるEPです。
+[メルカリで購入](https://jp.mercari.com/item/m24628076259?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m24628076259){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7id1FEalqLk?si=m4pcltIJ3kh2RNy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,7 +7,10 @@ tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Exterminator Presents Turn On The Heat.jpg
 ---
 
-#### Various – Exterminator Presents Turn On The Heat
+「Exterminator Presents Turn On The Heat」は、
+1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
+です。
+
 
 #### Tracklist
 ```md
@@ -32,9 +35,6 @@ B4. Quench Aid–Nah Fight Over Woman
 B5. Fire House Crew –Version
 ```
 
-1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
-です。
+[メルカリで購入](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m95069371918){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
