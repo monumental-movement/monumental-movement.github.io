@@ -7,9 +7,10 @@ tags: [ House, Euro, Garage ]
 image: ../assets/images/Real McCoy – Another Night.jpg
 ---
 
-#### Real McCoy – Another Night
+Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
 
-リアル・マッコイ – アナザー ナイト
+B面はArmand Van Helden（アーマンド・ヴァン・ヘルデン）のremix。
+
 #### Tracklist
 ```md
 A1. Another Night (Club Mix)
@@ -21,9 +22,6 @@ B1. Another Night (Armand's Nightmare Mix)
 B2. Another Night (Armand's New School Mix)
 ```
 
-Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
+[メルカリで購入](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
 
-B面はArmand Van Helden（アーマンド・ヴァン・ヘルデン）のremix。
-
-[メルカリで購入](https://jp.mercari.com/item/m15854439320){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kp8HFVPabmg?si=RyCsYbEl9pDyOBLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
