@@ -7,7 +7,11 @@ tags: [ Synth-Pop, Pops ]
 image: ../assets/images/The Communards – Red.jpg
 ---
 
-#### The Communards – Red
+「Red」は、イギリスの音楽デュオ、The Communardsのアルバムです。このアルバムは1987年にリリースされました。The Communardsは、Jimmy SomervilleとRichard Colesによって結成されたバンドで、ダンスポップやシンセポップの要素を取り入れた音楽で知られています。
+
+「Red」は、The Communardsのデビューアルバムであり、彼らの最も成功した作品の一つとして広く認知されています。アルバムには、感情的なヴォーカルとダンサブルなビートが特徴の楽曲が収録されています。
+
+アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
 
 #### Tracklist
 ```md
@@ -32,12 +36,6 @@ B4I. f I Could Tell You
 B5. C Minor
 ```
 
-「Red」は、イギリスの音楽デュオ、The Communardsのアルバムです。このアルバムは1987年にリリースされました。The Communardsは、Jimmy SomervilleとRichard Colesによって結成されたバンドで、ダンスポップやシンセポップの要素を取り入れた音楽で知られています。
+[メルカリで購入](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
 
-「Red」は、The Communardsのデビューアルバムであり、彼らの最も成功した作品の一つとして広く認知されています。アルバムには、感情的なヴォーカルとダンサブルなビートが特徴の楽曲が収録されています。
-
-アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m61578510071){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79nhyK2yiZw?si=4MpDc6b35bTgNX59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

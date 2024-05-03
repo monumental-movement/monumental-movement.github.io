@@ -7,7 +7,7 @@ tags: [ Techno, Acid ]
 image: ../assets/images/Believe In The Frequency Power.jpg
 ---
 
-#### Believe In The Frequency Power
+「Believe In The Frequency Power」は、1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md
@@ -30,8 +30,6 @@ B4. Palomatic–Halo
 B5. Kiyoshi Hazemoto–Dawn Of Rainland
 ```
 
-1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
+[メルカリで購入](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m23425148863){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

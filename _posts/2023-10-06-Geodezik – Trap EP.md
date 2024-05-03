@@ -7,7 +7,8 @@ tags: [ Techno ]
 image: ../assets/images/Geodezik – Trap EP.jpg
 ---
 
-#### Geodezik – Trap EP
+「Trap EP」は、
+1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
 
 #### Tracklist
 ```md
@@ -20,8 +21,5 @@ B1. Night Dive
 B2. Outstepper
 ```
 
-1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m86478584214){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
 

@@ -7,7 +7,10 @@ tags: [ Synth-Pop ]
 image: ../assets/images/Dubstar – Disgraceful.jpg
 ---
 
-#### Dubstar – Disgraceful
+1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
+
+アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
+
 
 #### Tracklist
 ```md
@@ -34,11 +37,6 @@ Bonus Tracks
 18. Not So Manic Now (Way Out West Remix)
 ```
 
-1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
+[メルカリで購入](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
 
-アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m21399720747){: .button1}
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-XA7p8NiAQ?si=7MX8Mdz5dBGtT6CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,7 +7,9 @@ tags: [ Rock, Post Punk ]
 image: ../assets/images/Squeeze – Babylon And On.jpg
 ---
 
-#### Squeeze – Babylon And On
+Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
+
+このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
 #### Tracklist
 ```md
@@ -36,10 +38,6 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
+[メルカリで購入](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 
-このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m67891670051){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

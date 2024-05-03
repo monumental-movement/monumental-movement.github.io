@@ -7,7 +7,11 @@ tags: [ Rock, Pops ]
 image: ../assets/images/XTC – Skylarking.jpg
 ---
 
-#### XTC – Skylarking
+「Skylarking」は、XTCのアルバムの中でも最も評価され、彼らの代表作として広く認知されています。アルバムはポップ、ロック、フォーク、プログレッシブ・ロックの要素を巧みに組み合わせた音楽スタイルであり、洗練されたメロディと深い歌詞が特徴です。
+
+アルバムにはヒット曲となった「Dear God」や「Grass」そして「The Meeting Place」などが収録されています。これらの曲は、XTCの独自のサウンドとリリックの鮮やかさが際立ち、聴衆に強い印象を与えました。
+
+アルバム全体としても統一感があり、コンセプトを持った作品となっています。宗教、自然、人間の関係など、さまざまなテーマが探求されており、その深い意味と思索を感じることができます。
 
 #### Tracklist
 ```md
@@ -40,12 +44,6 @@ B6. Dying
 B7. Sacrificial Bonfire
 ```
 
-「Skylarking」は、XTCのアルバムの中でも最も評価され、彼らの代表作として広く認知されています。アルバムはポップ、ロック、フォーク、プログレッシブ・ロックの要素を巧みに組み合わせた音楽スタイルであり、洗練されたメロディと深い歌詞が特徴です。
+[メルカリで購入](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
 
-アルバムにはヒット曲となった「Dear God」や「Grass」そして「The Meeting Place」などが収録されています。これらの曲は、XTCの独自のサウンドとリリックの鮮やかさが際立ち、聴衆に強い印象を与えました。
-
-アルバム全体としても統一感があり、コンセプトを持った作品となっています。宗教、自然、人間の関係など、さまざまなテーマが探求されており、その深い意味と思索を感じることができます。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m10764272984){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nErBEvTIvfo?si=gpz7OHADto7OjeWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

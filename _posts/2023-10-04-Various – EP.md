@@ -7,7 +7,9 @@ tags: [ Techno, Acid ]
 image: ../assets/images/Various – EP.jpg
 ---
 
-#### Various – EP
+「Various – EP」は、
+1995年に日本のレーベル「D5 Records」からリリースされたEPです。
+
 
 #### Tracklist
 ```md
@@ -25,8 +27,7 @@ B2. Acid Funk Shun–Acid Funk Shun
 Written-By, Producer – Acid Funk Shun
 ```
 
-1995年に日本のレーベル「D5 Records」からリリースされたEPです。
 
+[メルカリで購入](https://jp.mercari.com/item/m93431090288?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m93431090288){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8IL8cwH3eI?si=tvYzy-3ugAi7xDSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
