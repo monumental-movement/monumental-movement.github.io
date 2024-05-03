@@ -7,7 +7,7 @@ tags: [ Soul, RnB, 7inch ]
 image: ../assets/images/Various – Golden RnB.jpg
 ---
 
-#### Various – Golden R&B
+「Various – Golden R&B」は、モータウン（Tamla Motown）のゴールデンコンパクトシリーズの一つとしてリリースされました。
 
 #### Tracklist
 ```md
@@ -32,5 +32,5 @@ B3. Martha Reeves & The Vandellas –Dancing In The Street
 マルサリーヴス& ヴァンデラス –  ダンシング イン ザ ストリート
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50700944227){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50700944227?afid=6142608987){: .button1}
 
