@@ -7,7 +7,8 @@ tags: [ Punk, Hardcore ]
 image: ../assets/images/Various – Raging Thrash From Blind Vision.jpg
 ---
 
-#### Various – Raging Thrash From Blind Vision
+「Raging Thrash From Blind Vision」は、
+2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
 
 #### Tracklist
 ```md
@@ -36,7 +37,6 @@ B5. Reality Crisis–Open Your Eyes
 B6. Reality Crisis–Last Count Down
 ```
 
-2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
+[メルカリで購入](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m28557865371){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFgWVarRYNc?si=xFjedn0Jj96hQ-zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

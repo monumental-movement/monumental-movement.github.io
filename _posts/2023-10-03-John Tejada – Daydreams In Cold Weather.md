@@ -7,7 +7,8 @@ tags: [ IDM, Electro ]
 image: ../assets/images/John Tejada – Daydreams In Cold Weather.jpg
 ---
 
-#### John Tejada – Daydreams In Cold Weather
+「Daydreams In Cold Weather」は、
+2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
 
 #### Tracklist
 ```md
@@ -36,9 +37,6 @@ D11. In Coach5:06
 D12. Some Would Know Why
 ```
 
-2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
+[メルカリで購入](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
 
-
-
-[メルカリで購入](https://jp.mercari.com/item/m89173131309){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

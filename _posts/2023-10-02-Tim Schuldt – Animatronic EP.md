@@ -7,7 +7,7 @@ tags: [ Trance, Goa Trance, Psychedelic ]
 image: ../assets/images/Tim Schuldt – Animatronic EP.jpg
 ---
 
-#### Tim Schuldt – Animatronic EP
+Tim Schuldtは、ドイツ出身のGoaおよびサイケデリック・トランスアーティスト。また、スタジオおよびマスタリングエンジニアであり、4CN Studiosのオーナーでもあります。
 
 #### Tracklist
 ```md
@@ -16,9 +16,6 @@ A. Animatronic
 AA. Inner Child
 ```
 
-Tim Schuldtは、ドイツ出身のGoaおよびサイケデリック・トランスアーティスト。また、スタジオおよびマスタリングエンジニアであり、4CN Studiosのオーナーでもあります。
+[メルカリで購入](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
 
-
-
-[メルカリで購入](https://jp.mercari.com/item/m43029708397){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SFn9Ax2qXZk?si=UXyWLsEEYwa100Fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
