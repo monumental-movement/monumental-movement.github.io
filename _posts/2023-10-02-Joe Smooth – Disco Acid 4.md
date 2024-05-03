@@ -7,7 +7,7 @@ tags: [ House, Disco, Acid ]
 image: ../assets/images/Joe Smooth – Disco Acid 4.jpg
 ---
 
-#### Joe Smooth – Disco Acid 4
+「Disco Acid 4」は、2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 
 #### Tracklist
 ```md
@@ -20,7 +20,6 @@ B1. Faster Than Light
 B2. Walking Into Sunshine
 ```
 
-2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
+[メルカリで購入](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m36121483921){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/49AWQTaI14I?si=Kn9s85WRWB2Dev-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
