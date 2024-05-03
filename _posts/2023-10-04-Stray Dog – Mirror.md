@@ -7,7 +7,8 @@ tags: [ Trance ]
 image: ../assets/images/Stray Dog – Mirror.jpg
 ---
 
-#### Stray Dog – Mirror
+「Mirror」は、
+1999年にオランダのレーベル「Black Hole Recordings」からリリースされたStray Dog（DJ Tiesto）によるEPです。
 
 #### Tracklist
 ```md
@@ -18,8 +19,6 @@ B1. Mirror (HH's Convex Mix)
 B2. Mirror (Original Version)
 ```
 
-1999年にオランダのレーベル「Black Hole Recordings」からリリースされたStray Dog（DJ Tiesto）によるEPです。
+[メルカリで購入](https://jp.mercari.com/item/m89381854020?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m89381854020){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_NtwGEzTvY?si=dlHxrEuC54bysZFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

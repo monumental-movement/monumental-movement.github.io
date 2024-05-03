@@ -7,7 +7,8 @@ tags: [ Hiphop, Classic ]
 image: ../assets/images/Public Enemy – Fear Of A Black Planet.jpg
 ---
 
-#### Public Enemy – Fear Of A Black Planet
+Public Enemyの「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
+
 
 #### Tracklist
 ```md
@@ -52,8 +53,6 @@ B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 B10. Fight The Power
 ```
 
-「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
+[メルカリで購入](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m21123775840){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

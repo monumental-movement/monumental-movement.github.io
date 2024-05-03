@@ -7,7 +7,8 @@ tags: [ House, Euro Beat ]
 image: ../assets/images/Lucky – Guiding Light.jpg
 ---
 
-#### Lucky – Guiding Light
+「Guiding Light」は、
+ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
 
 #### Tracklist
 ```md
@@ -16,8 +17,5 @@ A. Guiding Light
 B. Guiding Light (Instrumental Mix)
 ```
 
-ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
-
-
-[メルカリで購入](https://jp.mercari.com/item/m34273921585){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34273921585?afid=6142608987){: .button1}
 

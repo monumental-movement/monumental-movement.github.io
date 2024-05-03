@@ -7,7 +7,7 @@ tags: [ Techno, Dub ]
 image: ../assets/images/Kit Clayton – Latke.jpg
 ---
 
-#### Kit Clayton – Latke
+「Latke」は、2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）によるEPです。
 
 #### Tracklist
 ```md
@@ -21,8 +21,6 @@ B1. Jit's Blues
 B2. I Only Want Quiet
 ```
 
-2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）のKit ClaytonによるEPです。
+[メルカリで購入](https://jp.mercari.com/item/m25214098204?afid=6142608987){: .button1}
 
-
-[メルカリで購入](https://jp.mercari.com/item/m25214098204){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_Bh0zJQgwc?si=FFRtvKh92IizMrjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
