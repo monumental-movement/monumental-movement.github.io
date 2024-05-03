@@ -7,7 +7,7 @@ tags: [ Techno, Italo ]
 image: ../assets/images/S Moore Featuring M.C. ROKK – Touch Me (II Time).jpg
 ---
 
-#### S Moore Featuring M.C. ROKK – Touch Me (II Time)
+「Touch Me (II Time)」は、1999年にイタリアのレーベル「Hot Trax」からリリースされた本名Sandro Murru「S Moore」によるEPです。
 
 #### Tracklist
 ```md
@@ -17,8 +17,6 @@ A2. Touch Me (ROKK "Shut Up")
 
 B1. Touch Me (The EM Soft Style)
 ```
-
-1999年にイタリアのレーベル「Hot Trax」からリリースされた本名Sandro Murru「S Moore」によるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m61650546749?afid=6142608987){: .button1}
 

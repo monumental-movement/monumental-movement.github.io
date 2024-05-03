@@ -7,7 +7,9 @@ tags: [ Techno ]
 image: ../assets/images/Norman Chung – Debut.jpg
 ---
 
-#### Norman Chung – Debut
+有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。
+
+スイス出身のミニマルテクノ／デトロイトテクノシーンで注目されているDJ Deetron(ディートロン)とのコラボ曲は必聴。
 
 #### Tracklist
 ```md
@@ -17,11 +19,6 @@ B1. Get Down
 
 B2. Sense
 ```
-
-有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。
-
-スイス出身のミニマルテクノ／デトロイトテクノシーンで注目されているDJ Deetron(ディートロン)とのコラボ曲は必聴。
-
 
 
 [メルカリで購入](https://jp.mercari.com/item/m16258519746?afid=6142608987){: .button1}

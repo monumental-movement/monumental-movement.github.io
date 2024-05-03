@@ -7,15 +7,6 @@ tags: [ Techno, Minimal ]
 image: ../assets/images/Slam – This World (Remixes).jpg
 ---
 
-#### Slam – This World (Remixes)
-
-#### Tracklist
-```md
-A. This World (Wighnomy Bros. And Robag Wruhme Bukkelfipps Remix)
-
-AA. This World (Hugg And Pepp Remix)
-```
-
 Wighnomy Brothersのリミックスは素晴らしく、オリジナルは典型的なイギリスの合成音楽で、わずかにトランス風のポップ/ハウスのボーカルが特徴で、音響的には十分に変形し、フィルター処理され、微妙に変更され、22世紀の非常にシャープで感情的なスタジアム・マイクロハウスのアンセムになっています。
 
 Wighnomy Brosはこの非常に考えられないことを成し遂げました。ヒップでスリリングなスタジアム音楽を生み出しました。
@@ -28,6 +19,12 @@ Soma Quality Recordings の共同設立者であり、グラスゴーで開催�
 
 グループ名は、Phuture の伝説的トラックにちなんで名付けられました。
 
+#### Tracklist
+```md
+A. This World (Wighnomy Bros. And Robag Wruhme Bukkelfipps Remix)
+
+AA. This World (Hugg And Pepp Remix)
+```
 
 [メルカリで購入](https://jp.mercari.com/item/m15078341618?afid=6142608987){: .button1}
 

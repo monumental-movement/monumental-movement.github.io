@@ -7,7 +7,9 @@ tags: [ House, Acid, Latin ]
 image: ../assets/images/Arrow – Groove Master.jpg
 ---
 
-#### Arrow – Groove Master
+Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
+
+A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
 
 #### Tracklist
 ```md
@@ -24,9 +26,6 @@ B2. Groove Master (LP Version)
 B3. Groove Master (Instrumental Remix)
 ```
 
-Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
+[メルカリで購入](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
-A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
-
-[メルカリで購入](https://jp.mercari.com/item/m10585219627){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
