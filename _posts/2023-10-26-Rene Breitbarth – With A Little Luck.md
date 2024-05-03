@@ -7,9 +7,10 @@ tags: [ House, Minimal, Tech House ]
 image: ../assets/images/Rene Breitbarth – With A Little Luck.jpg
 ---
 
-#### Rene Breitbarth – With A Little Luck
+Rene Breitbarth の「With A Little Luck」は、アイルランドのレーベル Ork Recordingsから2005年にリリースされました。
 
-ルネ・ブライトバルト – ウィズ ア リトル ラック
+René Breitbarth（ルネ・ブライトバルト）は、ドイツのDJ・プロデューサーであり、ドイツ・ケルンを拠点とするレーベルTreibstoffの創設者の1人。
+
 
 #### Tracklist
 ```md
@@ -28,7 +29,6 @@ D1. Let 'Em In
 D2. Grey Goose
 ```
 
-René Breitbarth（ルネ・ブライトバルト）は、ドイツのDJ・プロデューサーであり、ドイツ・ケルンを拠点とするレーベルTreibstoffの創設者の1人。
+[メルカリで購入](https://jp.mercari.com/item/m72520874169?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m72520874169){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eaeY1FhF_U?si=QD8K1LUZUEG1eDo9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
