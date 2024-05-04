@@ -23,5 +23,5 @@ B2. Bim Bum Bam (Instrumental)
 B3. Bim Bum Bam (Dub Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45550729356){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45550729356?afid=6142608987){: .button1}
 

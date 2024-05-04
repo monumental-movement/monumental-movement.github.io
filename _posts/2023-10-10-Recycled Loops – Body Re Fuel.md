@@ -18,5 +18,5 @@ A. Body Re:Fuel (Recycled By Umek)
 B. Body Re:Fuel (Recycled By Valentino Kanzyani)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73344669027){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73344669027?afid=6142608987){: .button1}
 

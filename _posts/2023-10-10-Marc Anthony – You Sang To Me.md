@@ -26,5 +26,6 @@ B1. Muy Dentro De Mi (You Sang To Me) (Spanish)
 B2. Muy Dentro De Mi (You Sang To Me) (Spanglish)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31951952620){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31951952620?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MY4YJxn-9Og?si=1SzwRyO_jApmwdyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

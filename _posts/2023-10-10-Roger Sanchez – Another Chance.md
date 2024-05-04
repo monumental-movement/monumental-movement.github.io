@@ -20,5 +20,5 @@ B1. Another Chance (S-Man's Dark Nite Mix)
 B2. Another Chance (Afterlife Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78518040318){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78518040318?afid=6142608987){: .button1}
 

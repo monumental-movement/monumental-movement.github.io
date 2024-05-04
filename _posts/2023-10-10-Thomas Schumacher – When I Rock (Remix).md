@@ -17,5 +17,5 @@ A. When I Rock (Anthony Rother Remix)
 AA. When I Rock (Johannes Heil Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24258262929){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24258262929?afid=6142608987){: .button1}
 

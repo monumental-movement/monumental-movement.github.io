@@ -24,7 +24,7 @@ B2. Rotterdam Anthem (Instrumental)
 B3. Rotterdam Anthem (Accapella A/D Ijssel Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m81174559941){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81174559941?afid=6142608987){: .button1}
 
 
 

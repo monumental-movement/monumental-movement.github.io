@@ -18,5 +18,5 @@ A. Only For The Headstrong
 B. Only For The Headstrong (Out Of Your Head Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27760488621){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27760488621?afid=6142608987){: .button1}
 
