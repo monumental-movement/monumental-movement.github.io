@@ -7,7 +7,7 @@ tags: [ Technical, Non-Music ]
 image: ../assets/images/No Artist – An Audio Obstacle Course - Shure Trackability Test Record.jpg
 ---
 
-#### No Artist – An Audio Obstacle Course - Shure Trackability Test Record
+「No Artist – An Audio Obstacle Course - Shure Trackability Test Record」は、1967年にShureからリリースされました。
 
 #### Tracklist
 ```md

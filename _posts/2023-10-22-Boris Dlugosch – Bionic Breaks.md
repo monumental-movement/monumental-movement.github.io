@@ -7,7 +7,9 @@ tags: [ Electro, Hiphop ]
 image: ../assets/images/Boris Dlugosch – Bionic Breaks.jpg
 ---
 
-#### Boris Dlugosch – Bionic Breaks
+Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
+
+Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
 
 #### Tracklist
 ```md
@@ -29,10 +31,6 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 
 D3. Gary's Gang – Makin' Music
 ```
-
-Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
-
-Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
 
 [メルカリで購入](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 

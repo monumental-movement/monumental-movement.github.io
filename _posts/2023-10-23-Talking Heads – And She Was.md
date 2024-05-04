@@ -7,7 +7,9 @@ tags: [ Rock, Alternative Rock, 7inch ]
 image: ../assets/images/Talking Heads – And She Was.jpg
 ---
 
-#### Talking Heads – And She Was
+「And She Was」は、USロックバンドTalking Heads（トーキング・ヘッズ）が1985年にリリースした6枚目のアルバム『リトル・クリーチャーズ』（Little Creatures）からのシングルカット。
+
+ジャケットは、アメリカの芸術家Howard Finster（ハワード・フィンスター）によるもの。
 
 #### Tracklist
 ```md
@@ -16,9 +18,6 @@ A. And She Was
 B. And She Was (E.T. Version)
 ```
 
-「And She Was」は、USロックバンドTalking Heads（トーキング・ヘッズ）が1985年にリリースした6枚目のアルバム『リトル・クリーチャーズ』（Little Creatures）からのシングルカット。
+[メルカリで購入](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
 
-ジャケットは、アメリカの芸術家Howard Finster（ハワード・フィンスター）によるもの。
-
-[メルカリで購入](https://jp.mercari.com/item/m85439385386){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=0nuOmXWtwd563rts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
