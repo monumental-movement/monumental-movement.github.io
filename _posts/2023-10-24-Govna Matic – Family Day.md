@@ -3,7 +3,7 @@ layout: post
 title:  "Govna Matic – Family Day"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Hiphop, Hardcore, Hiphop ]
+tags: [ Hiphop, Hardcore ]
 image: ../assets/images/Govna Matic – Family Day.jpg
 ---
 
