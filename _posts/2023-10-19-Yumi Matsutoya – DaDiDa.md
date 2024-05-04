@@ -7,7 +7,17 @@ tags: [ JPop, Pops ]
 image: ../assets/images/Yumi Matsutoya – Da・Di・Da.jpg
 ---
 
-#### Yumi Matsutoya – Da・Di・Da
+「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
+
+参加ミュージシャン
+・ベース：高水健司
+・ドラム：林立夫、Mike Baird
+・ギター：松原正樹
+・キーボード：松任谷正隆
+・パーカッション：斎藤ノブ、浜口茂外也
+・サックス：Jake H. Conception、Ernest J. Watts
+・シンセサイザープログラミング：浦田恵司、Chuck Wild
+・コーラス：松任谷由実、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、白鳥英美子、ハイ・ファイ・セット、つのだひろ、Mark I、Marvin Walker、Marvin Baker、Cindy
 
 #### Tracklist
 ```md
@@ -29,18 +39,6 @@ B4. 青春のリグレット
 
 B5. たとえあなたが去って行っても
 ```
-
-「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
-
-参加ミュージシャン
-・ベース：高水健司
-・ドラム：林立夫、Mike Baird
-・ギター：松原正樹
-・キーボード：松任谷正隆
-・パーカッション：斎藤ノブ、浜口茂外也
-・サックス：Jake H. Conception、Ernest J. Watts
-・シンセサイザープログラミング：浦田恵司、Chuck Wild
-・コーラス：松任谷由実、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、白鳥英美子、ハイ・ファイ・セット、つのだひろ、Mark I、Marvin Walker、Marvin Baker、Cindy
 
 [メルカリで購入](https://jp.mercari.com/item/m46295874765){: .button1}
 

@@ -7,9 +7,7 @@ tags: [ Ambient ]
 image: ../assets/images/Various – The Great Fighting II.jpg
 ---
 
-#### Various – The Great Fighting II
-
-V/A - 必殺のプロレス・テーマ集 - Various – The Great Fighting II
+「V/A - 必殺のプロレス・テーマ集 - Various – The Great Fighting II」は、1978年にOverseas Recordsからリリースされました。
 
 #### Tracklist
 ```md

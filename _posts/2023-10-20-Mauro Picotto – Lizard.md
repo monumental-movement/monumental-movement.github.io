@@ -7,7 +7,10 @@ tags: [ Trance, Hard Trance ]
 image: ../assets/images/Mauro Picotto – Lizard.jpg
 ---
 
-#### Mauro Picotto – Lizard
+Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
+「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。
+
+A面はAndrea RemondiniとMauro PicottoによるユニットMegavoicesによるremix。
 
 #### Tracklist
 ```md
@@ -17,12 +20,6 @@ B1  Lizard (Mondo Bongo Mix)
 
 B2  Lizard (Tea Mix)
 ```
-
-Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
-「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。
-
-A面はAndrea RemondiniとMauro PicottoによるユニットMegavoicesによるremix。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m30685941528){: .button1}
 

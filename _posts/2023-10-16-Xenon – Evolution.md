@@ -7,7 +7,7 @@ tags: [ Italo, Disco ]
 image: ../assets/images/Xenon – Evolution.jpg
 ---
 
-#### Xenon – Evolution
+Xenonは、フィレンツェのディスコ”Xenon”の DJだったMarzio Dance（Marzio Mugnaioni） がコーディネートしたミュージシャンとプロデューサーのグループ。
 
 #### Tracklist
 ```md
@@ -17,8 +17,6 @@ B1. Evolution (Dance Version)
 
 B2. Evolution (3RD Version)
 ```
-
-Xenonは、フィレンツェのディスコ”Xenon”の DJだったMarzio Dance（Marzio Mugnaioni） がコーディネートしたミュージシャンとプロデューサーのグループ。
 
 [メルカリで購入](https://jp.mercari.com/item/m66302757125){: .button1}
 

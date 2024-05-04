@@ -7,7 +7,7 @@ tags: [ Rock, Psychedelic ]
 image: ../assets/images/Of Montreal – The Gay Parade.jpg
 ---
 
-#### Of Montreal – The Gay Parade
+of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
 #### Tracklist
 ```md
@@ -26,8 +26,6 @@ image: ../assets/images/Of Montreal – The Gay Parade.jpg
 13. Advice From A Divorced Gentlemen To His Bachelor Friend Considering Marriage
 14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
 ```
-
-of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
 [メルカリで購入](https://jp.mercari.com/item/m71222444726){: .button1}
 

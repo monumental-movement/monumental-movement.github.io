@@ -7,7 +7,9 @@ tags: [ Synth-Pop, New-Wave ]
 image: ../assets/images/Alphaville – Romeos.jpg
 ---
 
-#### Alphaville – Romeos
+Alphaville（アルファヴィル）は、1982年に結成されたMarian Gold（マリアン・ゴールド）を中心とするドイツのシンセポップバンド。
+
+Alphavilleには、「Forever Young」、「Big in Japan」、「Sounds Like a Melody」、「The Jet Set」、「Dance with Me」などのヒット曲がある。
 
 #### Tracklist
 ```md
@@ -15,11 +17,6 @@ image: ../assets/images/Alphaville – Romeos.jpg
 2. Headlines
 3. Romeos
 ```
-
-Alphaville（アルファヴィル）は、1982年に結成されたMarian Gold（マリアン・ゴールド）を中心とするドイツのシンセポップバンド。
-
-Alphavilleには、「Forever Young」、「Big in Japan」、「Sounds Like a Melody」、「The Jet Set」、「Dance with Me」などのヒット曲がある。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m19927021735){: .button1}
 

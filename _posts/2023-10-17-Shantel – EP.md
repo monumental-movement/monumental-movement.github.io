@@ -7,7 +7,9 @@ tags: [ House, Future Jazz ]
 image: ../assets/images/Shantel – EP.jpg
 ---
 
-#### Shantel – EP
+ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
+
+「Shantel – EP」は、Stefan HantelとDaniel Haaksmanによって設立されたドイツのレーベルEssay Recordingsより1997年にリリース。
 
 #### Tracklist
 ```md
@@ -19,10 +21,6 @@ B1. Really Good Photo
 
 B2. I'm Not Afraid Of You
 ```
-
-ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
-
-「Shantel – EP」は、Stefan HantelとDaniel Haaksmanによって設立されたドイツのレーベルEssay Recordingsより1997年にリリース。
 
 [メルカリで購入](https://jp.mercari.com/item/m66346340732){: .button1}
 

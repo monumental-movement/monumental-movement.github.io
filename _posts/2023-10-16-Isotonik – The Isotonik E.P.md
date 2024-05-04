@@ -7,7 +7,8 @@ tags: [ Break Beat, Hardcore ]
 image: ../assets/images/Isotonik – The Isotonik E.P.jpg
 ---
 
-#### Isotonik – The Isotonik E.P
+「Isotonik – The Isotonik E.P」の
+A面とB面一曲目のプロデューサー/作曲/mixは、UKのジャングル・ドラムンベースのプロデューサー/DJのDJ Hype（DJハイプ/Kevin Ford/ケビン・フォード) 。
 
 #### Tracklist
 ```md
@@ -19,8 +20,6 @@ B1. Let's Get Down
 
 B2. Rush
 ```
-
-A面とB面一曲目のプロデューサー/作曲/mixは、UKのジャングル・ドラムンベースのプロデューサー/DJのDJ Hype（DJハイプ/Kevin Ford/ケビン・フォード) 。
 
 [メルカリで購入](https://jp.mercari.com/item/m84399793243){: .button1}
 

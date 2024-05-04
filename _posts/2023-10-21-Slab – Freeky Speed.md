@@ -7,7 +7,11 @@ tags: [ Big Beat, Break Beat ]
 image: ../assets/images/Slab – Freeky Speed.jpg
 ---
 
-#### Slab – Freeky Speed
+Slabは、Lol HammondとNina Walshによるユニット。
+
+B面の1曲目はイギリスのDJ＆プロデューサーAndrew Weatherall（アンドリュー・ウェザオール）が、２曲目はUKテクノDJ＆プロデューサー Carl Cox（カール・コックス）によるremix。
+
+D面2曲目は、Monkey Mafia（モンキー・マフィア）によるremix。
 
 #### Tracklist
 ```md
@@ -29,13 +33,6 @@ D1. Atom Smasher
 
 D2. Monkey Prankster
 ```
-
-Slabは、Lol HammondとNina Walshによるユニット。
-
-B面の1曲目はイギリスのDJ＆プロデューサーAndrew Weatherall（アンドリュー・ウェザオール）が、２曲目はUKテクノDJ＆プロデューサー Carl Cox（カール・コックス）によるremix。
-
-D面2曲目は、Monkey Mafia（モンキー・マフィア）によるremix。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m96913326161){: .button1}
 

@@ -7,9 +7,11 @@ tags: [ Break Beat, Downtempo ]
 image: ../assets/images/Various – Tribes Of Da Underground Vol4.jpg
 ---
 
-#### Various – Tribes Of Da Underground Vol4
+Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
 
-コンピレーション 編集Michael Rütten（マイケル・リュッテン）
+Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロニックミュージックデュオ。
+
+Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
 
 #### Tracklist
 ```md
@@ -27,11 +29,6 @@ C2. Max.Schneider – Inercia
 
 D. Pathless – Forecast
 ```
-
-Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
-Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロニックミュージックデュオ。
-
-Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
 
 [メルカリで購入](https://jp.mercari.com/item/m49529230918){: .button1}
 

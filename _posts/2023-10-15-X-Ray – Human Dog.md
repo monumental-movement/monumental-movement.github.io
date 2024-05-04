@@ -7,7 +7,14 @@ tags: [ Heavy Metal, Hard Rock ]
 image: ../assets/images/X-Ray – Human Dog.jpg
 ---
 
-#### X-Ray – Human Dog
+X-Ray（エックスレイ）は、1981年から1986年まで活動した日本のヘヴィメタルバンド。1985年12月にリリースされた「Human Dog」は、X-Ray最後のEP。
+
+メンバー：
+藤本朗（ボーカル）
+湯浅晋（ギター）
+臼井孝文（ベース）
+高橋和久（ドラム）
+藤山高浩（キーボード）
 
 #### Tracklist
 ```md
@@ -17,15 +24,6 @@ A2. Fade Away
 
 B1. Burning Like the Fire (Long Version)
 ```
-
-X-Ray（エックスレイ）は、1981年から1986年まで活動した日本のヘヴィメタルバンド。1985年12月にリリースされた「Human Dog」は、X-Ray最後のEP。
-
-メンバー
-藤本朗（ボーカル）
-湯浅晋（ギター）
-臼井孝文（ベース）
-高橋和久（ドラム）
-藤山高浩（キーボード）
 
 [メルカリで購入](https://jp.mercari.com/item/m16707818802){: .button1}
 

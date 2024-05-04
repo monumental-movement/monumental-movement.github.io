@@ -7,7 +7,9 @@ tags: [ Rock, Folk ]
 image: ../assets/images/The Band – Rock Of Ages The Band In Concert.jpg
 ---
 
-#### The Band – Rock Of Ages The Band In Concert
+The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。
+
+1972年にリリースしたライブアルバム「Rock Of Ages: The Band In Concert」は、1971年12月にNYのアカデミー・オブ・ミュージックで行われたライブコンサートの音源。
 
 #### Tracklist
 ```md
@@ -46,15 +48,4 @@ D2. Chest Fever
 D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 ```
 
-The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。
-
-1972年にリリースしたライブアルバム「Rock Of Ages: The Band In Concert」は、1971年12月にNYのアカデミー・オブ・ミュージックで行われたライブコンサートの音源。
-
 [メルカリで購入](https://jp.mercari.com/item/m74070924210){: .button1}
-
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">盤質: M</strong>
-</div>
-<div class="mt-4 mb-4 d-flex align-items-center">
-<strong class="mr-1">ジャケット: NM</strong>
-</div>

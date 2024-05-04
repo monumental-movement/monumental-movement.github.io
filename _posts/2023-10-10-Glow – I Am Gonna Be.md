@@ -7,7 +7,8 @@ tags: [ House, Euro House ]
 image: ../assets/images/Glow – I Am Gonna Be.jpg
 ---
 
-#### Glow – I Am Gonna Be
+「I Am Gonna Be」は、
+1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
 
 #### Tracklist
 ```md
@@ -18,7 +19,6 @@ A2. I Am Gonna Be (Original Mix)
 B. I Am Gonna Be (Glow Remix)
 ```
 
-1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m91456308602){: .button1}
 

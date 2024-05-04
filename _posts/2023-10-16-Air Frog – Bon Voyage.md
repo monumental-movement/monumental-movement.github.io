@@ -7,7 +7,9 @@ tags: [ Techno ]
 image: ../assets/images/Air Frog – Bon Voyage.jpg
 ---
 
-#### Air Frog – Bon Voyage
+Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。
+
+B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。
 
 #### Tracklist
 ```md
@@ -15,10 +17,6 @@ A. Bon Voyage (Original)
 
 B. Bon Voyage (Adam Beyer Mix)
 ```
-
-Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。
-
-B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m40912190756){: .button1}
 

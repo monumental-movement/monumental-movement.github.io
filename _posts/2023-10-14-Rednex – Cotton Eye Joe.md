@@ -7,7 +7,11 @@ tags: [ Euro House, Synth-Pop ]
 image: ../assets/images/Rednex – Cotton Eye Joe.jpg
 ---
 
-#### Rednex – Cotton Eye Joe
+Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
+
+「Cotton Eye Joe」は、アメリカの民謡「コットン・アイド・ジョー」をベースにバンジョーやフィドルを取り入れたユーロハウスで、世界的なヒットとなった。
+
+remixには、Armand Van Helden（アーマンド・ヴァン・ヘルデン）Jeremy Healy（ジェレミー・ヒーリー）が参加。
 
 #### Tracklist
 ```md
@@ -23,12 +27,6 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 
 B2. Cotton Eye Joe (Overworked Mix)
 ```
-
-Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
-「Cotton Eye Joe」は、アメリカの民謡「コットン・アイド・ジョー」をベースにバンジョーやフィドルを取り入れたユーロハウスで、世界的なヒットとなった。
-
-remixには、Armand Van Helden（アーマンド・ヴァン・ヘルデン）Jeremy Healy（ジェレミー・ヒーリー）が参加。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m37601005169){: .button1}
 

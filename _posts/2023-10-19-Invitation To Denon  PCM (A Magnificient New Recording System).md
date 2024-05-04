@@ -7,7 +7,7 @@ tags: [ Classic, Compilation ]
 image: ../assets/images/Invitation To Denon PCM (A Magnificient New Recording System).jpg
 ---
 
-#### Invitation To Denon PCM (A Magnificient New Recording System)
+「Invitation To Denon PCM (A Magnificient New Recording System)」は、1975年にDenonからリリースされました。
 
 #### Tracklist
 ```md

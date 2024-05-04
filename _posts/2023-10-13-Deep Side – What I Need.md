@@ -7,7 +7,9 @@ tags: [ Hiphop ]
 image: ../assets/images/Deep Side – What I Need.jpg
 ---
 
-#### Deep Side – What I Need
+「Deep Side – What I Need」の
+B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
+
 
 #### Tracklist
 ```md
@@ -21,8 +23,6 @@ B1. Hot Like An Oven
 
 B2. Lovely
 ```
-
-B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
 
 [メルカリで購入](https://jp.mercari.com/item/m16482484195){: .button1}
 

@@ -7,7 +7,7 @@ tags: [ Techno ]
 image: ../assets/images/Devilfish – Voodoo Authentica.jpg
 ---
 
-#### Devilfish – Voodoo Authentica
+Devilfishは、Frederik SoderstromとSina Morshed Soloukによるテクノユニット。
 
 #### Tracklist
 ```md
@@ -17,8 +17,6 @@ B1. Darksoul
 
 B2. Eq Beats
 ```
-
-Devilfishは、Frederik SoderstromとSina Morshed Soloukによるテクノユニット。
 
 [メルカリで購入](https://jp.mercari.com/item/m43307213572){: .button1}
 

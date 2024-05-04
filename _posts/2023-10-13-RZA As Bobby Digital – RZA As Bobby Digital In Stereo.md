@@ -7,7 +7,9 @@ tags: [ Hiphop ]
 image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.jpg
 ---
 
-#### RZA As Bobby Digital – RZA As Bobby Digital In Stereo
+「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」は、
+Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
+
 
 #### Tracklist
 ```md
@@ -28,7 +30,5 @@ image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.
 15. Daily Routine
 16. Domestic Violence
 ```
-
-Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
 
 [メルカリで購入](https://jp.mercari.com/item/m93089462366){: .button1}

@@ -7,7 +7,7 @@ tags: [ Techno, Rare ]
 image: ../assets/images/Technova – Transcience Remixes.jpg
 ---
 
-#### Technova – Transcience Remixes
+TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。
 
 #### Tracklist
 ```md
@@ -19,8 +19,6 @@ B1. Yeah Sista (303 Version)
 
 B2. Firehorse One (Original Soundtrack Version)
 ```
-
-TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。
 
 [メルカリで購入](https://jp.mercari.com/item/m92224497926){: .button1}
 

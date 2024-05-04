@@ -7,7 +7,8 @@ tags: [ House, Hard House ]
 image: ../assets/images/DJ Rip – House Playerz E.P.jpg
 ---
 
-#### DJ Rip – House Playerz E.P
+「House Playerz E.P」は、
+1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。
 
 #### Tracklist
 ```md
@@ -19,9 +20,6 @@ B1. Feed Da Kitty
 
 B2. Feed Da Kitty (Instrumental)
 ```
-
-1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m81262521689){: .button1}
 

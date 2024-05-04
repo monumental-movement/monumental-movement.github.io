@@ -7,7 +7,9 @@ tags: [ House, Techno ]
 image: ../assets/images/Green Velvet – Portamento Tracks.jpg
 ---
 
-#### Green Velvet – Portamento Tracks
+Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 
+
+別名義でCajmere、Geo Vogt、Half Pint、Curan Stone、Gino Vittori としても知られている。
 
 #### Tracklist
 ```md
@@ -19,8 +21,6 @@ B1. Flash
 
 B2. Explorer
 ```
-
-Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 別名義でCajmere、Geo Vogt、Half Pint、Curan Stone、Gino Vittori としても知られている。
 
 [メルカリで購入](https://jp.mercari.com/item/m55278073484){: .button1}
 

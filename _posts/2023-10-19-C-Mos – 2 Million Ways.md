@@ -7,7 +7,11 @@ tags: [ House ]
 image: ../assets/images/C-Mos – 2 Million Ways.jpg
 ---
 
-#### C-Mos – 2 Million Ways
+C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
+
+A面は、Swedish House Mafia（スウェディッシュ ハウス マフィア）のメンバーでもあるスウェーデンのDJ/プロデューサーAxwell（アクスウェル/Axel Hedfors）によるremix。
+
+B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
 
 #### Tracklist
 ```md
@@ -17,12 +21,6 @@ B1. 2 Million Ways (Jules Spinner Remix)
 
 B2. 2 Million Ways (Original Mix)
 ```
-s
-C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
-
-A面は、Swedish House Mafia（スウェディッシュ ハウス マフィア）のメンバーでもあるスウェーデンのDJ/プロデューサーAxwell（アクスウェル/Axel Hedfors）によるremix。
-
-B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m82094920141){: .button1}
 

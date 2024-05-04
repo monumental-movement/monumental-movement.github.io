@@ -7,7 +7,7 @@ tags: [ Rock, Pops ]
 image: ../assets/images/Michael Saxell – Red And Blue.jpg
 ---
 
-#### Michael Saxell – Red And Blue
+Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
 
 #### Tracklist
 ```md
@@ -31,9 +31,6 @@ B4. Nothing But The Best
 
 B5. My Love Belongs To You
 ```
-
-Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m62004854005){: .button1}
 

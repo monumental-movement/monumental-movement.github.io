@@ -7,7 +7,7 @@ tags: [ Pops, Rock ]
 image: ../assets/images/Cassia Eller – Participacao Especial.jpg
 ---
 
-#### Cássia Eller – Participaçāo Especial
+カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
 #### Tracklist
 ```md
@@ -20,8 +20,5 @@ image: ../assets/images/Cassia Eller – Participacao Especial.jpg
 7. Cássia Eller Com Xis E Integrantes Da Banda Nação Zumbi–De Esquina
 など
 ```
-
-
-カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
 [メルカリで購入](https://jp.mercari.com/item/m82208472060){: .button1}

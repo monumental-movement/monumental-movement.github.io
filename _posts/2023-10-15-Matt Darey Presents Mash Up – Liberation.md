@@ -7,7 +7,9 @@ tags: [ Trance ]
 image: ../assets/images/Matt Darey Presents Mash Up – Liberation.jpg
 ---
 
-#### Matt Darey Presents Mash Up – Liberation (Temptation - Fly Like An Angel)
+Matt Darey（マット・ダレイ）は、イギリス出身のプロデューサー/DJ。
+
+A面１曲目はFerry Corsten（フェリー・コーステン/SystemF）によるremix。
 
 #### Tracklist
 ```md
@@ -17,9 +19,6 @@ A2. Liberation (Temptation - Fly Like An Angel) (Original)
 
 AA1. Liberation (Temptation - Fly Like An Angel) (Matt Darey Remix)
 ```
-
-Matt Darey（マット・ダレイ）は、イギリス出身のプロデューサー/DJ。
-A面１曲目はFerry Corsten（フェリー・コーステン/SystemF）によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m44404211666){: .button1}
 

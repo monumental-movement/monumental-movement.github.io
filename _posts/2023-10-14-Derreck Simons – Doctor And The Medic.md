@@ -7,7 +7,8 @@ tags: [ Euro Beat ]
 image: ../assets/images/Derreck Simons – Doctor And The Medic.jpg
 ---
 
-#### Derreck Simons – Doctor And The Medic
+「Derreck Simons – Doctor And The Medic」の
+プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。
 
 #### Tracklist
 ```md
@@ -19,9 +20,6 @@ B1. Doctor And The Medic (Radio Edit Version)
 
 B2. Doctor And The Medic (Playback)
 ```
-
-プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m37328991093){: .button1}
 

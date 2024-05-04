@@ -7,7 +7,8 @@ tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Superstar.jpg
 ---
 
-#### Various – Superstar
+「Various – Superstar」は、
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
 #### Tracklist
 ```md
@@ -35,9 +36,6 @@ B5. Spragga, Lady Saw–Backshot
 
 B6. Devonte–Sweet Symphony
 ```
-
-ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m12624594696){: .button1}
 

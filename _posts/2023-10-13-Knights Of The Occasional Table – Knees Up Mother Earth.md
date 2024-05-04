@@ -7,7 +7,9 @@ tags: [ Downtempo, UK Band ]
 image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Earth.jpg
 ---
 
-#### Knights Of The Occasional Table – Knees Up Mother Earth
+Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。
+
+このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。
 
 #### Tracklist
 ```md
@@ -24,9 +26,5 @@ image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Eart
 11. Knees Up Mother Earth
 12. Untitled
 ```
-
-Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。
-
-
 
 [メルカリで購入](https://jp.mercari.com/item/m58886170453){: .button1}

@@ -7,7 +7,7 @@ tags: [ Rock, Punk ]
 image: ../assets/images/Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-.jpg
 ---
 
-#### Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-
+Speed（スピード）は、元村八分の青木眞一が1976年に結成し、1980年代後半まで活動した日本のロックバンド。
 
 #### Tracklist
 ```md
@@ -29,8 +29,6 @@ image: ../assets/images/Speed – Kiss On -Live At Shinjuku Loft On 12th October
 
 9. ひとつの氷
 ```
-
-Speed（スピード）は、元村八分の青木眞一が1976年に結成し、1980年代後半まで活動した日本のロックバンド。
 
 [メルカリで購入](https://jp.mercari.com/item/m43996896011){: .button1}
 

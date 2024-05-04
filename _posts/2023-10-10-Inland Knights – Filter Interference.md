@@ -7,7 +7,8 @@ tags: [ House, Deep House ]
 image: ../assets/images/Inland Knights – Filter Interference.jpg
 ---
 
-#### Inland Knights – Filter Interference
+「Filter Interference」は、
+1999年にUKのレーベル「Drop Music」からリリースされたAndy RileyとLaurence RitchieによるユニットInland KnightsによるEPです。
 
 #### Tracklist
 ```md
@@ -19,8 +20,6 @@ B1. Over You
 
 B2. Believe
 ```
-
-1999年にUKのレーベル「Drop Music」からリリースされたAndy RileyとLaurence RitchieによるユニットInland KnightsによるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m82392456293){: .button1}
 

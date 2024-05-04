@@ -7,7 +7,11 @@ tags: [ House, Rare ]
 image: ../assets/images/Various – Dance Panic.jpg
 ---
 
-#### Various – Dance Panic!
+UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
+
+DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
+
+Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
 
 #### Tracklist
 ```md
@@ -21,12 +25,6 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 
 B2. Reverance–Sacrifice (Paul Woodgate)
 ```
-
-UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
-
-DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
-
-Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
 
 [メルカリで購入](https://jp.mercari.com/item/m43301194560){: .button1}
 

@@ -7,7 +7,9 @@ tags: [ Techno, Minimal, Rare ]
 image: ../assets/images/Norken – Soul Static Bureau.jpg
 ---
 
-#### Norken – Soul Static Bureau
+NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
+
+2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
 
 #### Tracklist
 ```md
@@ -33,11 +35,6 @@ D2. Motor Breeze
 
 D3. Melissa Blend
 ```
-
-NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
-
-2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
-
 
 [メルカリで購入](https://jp.mercari.com/item/m49930985507){: .button1}
 

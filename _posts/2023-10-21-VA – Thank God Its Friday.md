@@ -7,7 +7,7 @@ tags: [ Disco, 70s ]
 image: ../assets/images/VA – Thank God It's Friday.jpg
 ---
 
-#### VA – Thank God It's Friday
+「VA – Thank God It's Friday」は、1978年にCasablancaからリリースされました。
 
 #### Tracklist
 ```md

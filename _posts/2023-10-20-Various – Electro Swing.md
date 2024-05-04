@@ -7,7 +7,7 @@ tags: [ Electro, Swing-Jazz ]
 image: ../assets/images/Various – Electro Swing.jpg
 ---
 
-#### Various – Electro Swing
+「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
 
 #### Tracklist
 ```md

@@ -7,7 +7,8 @@ tags: [ Techno, House ]
 image: ../assets/images/Basic Elements – T-E-C-H-N-O.jpg
 ---
 
-#### Basic Elements – T-E-C-H-N-O
+「T-E-C-H-N-O」は、
+レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
 
 #### Tracklist
 ```md
@@ -19,8 +20,6 @@ B1. Trippin' On The Elements (Trance Trip)
 
 B2. Fro-Dian Gruv (House Gruv)
 ```
-
-レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m57566827619){: .button1}
 

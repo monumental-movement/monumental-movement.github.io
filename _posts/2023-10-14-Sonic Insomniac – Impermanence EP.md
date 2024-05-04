@@ -7,7 +7,9 @@ tags: [ IDM, Techno ]
 image: ../assets/images/Sonic Insomniac – Impermanence EP.jpg
 ---
 
-#### Sonic Insomniac – Impermanence EP
+Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。
+
+カバーイラストは、デトロイト出身のアメリカ人 DJ/プロデューサー/イラストレーターで、現在はベルリンに拠点活動するAlan Oldham（アラン・オールダム）。
 
 #### Tracklist
 ```md
@@ -19,10 +21,6 @@ B1. Emotivate
 
 B2. Untitled
 ```
-
-Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。
-
-カバーイラストは、デトロイト出身のアメリカ人 DJ/プロデューサー/イラストレーターで、現在はベルリンに拠点活動するAlan Oldham（アラン・オールダム）。
 
 [メルカリで購入](https://jp.mercari.com/item/m10467596131){: .button1}
 

@@ -7,7 +7,7 @@ tags: [ R&B, Soul, Gospel ]
 image: ../assets/images/Kierra Sheard – Just Until.jpg
 ---
 
-#### Kierra Sheard – Just Until
+Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 
 #### Tracklist
 ```md
@@ -23,8 +23,6 @@ B2. Let Go (LP Version)
 
 B3. Let Go (The Godson Concept)
 ```
-
-Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 
 [メルカリで購入](https://jp.mercari.com/item/m74116877219){: .button1}
 

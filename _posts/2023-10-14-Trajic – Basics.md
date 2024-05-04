@@ -7,7 +7,11 @@ tags: [ House, Hard House ]
 image: ../assets/images/Trajic – Basics.jpg
 ---
 
-#### Trajic – Basics
+DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパイオニア＆レジェンドとして知られるシカゴ拠点のDJ。
+
+「Basics」は、シカゴを拠点とするUSハードハウス/テックハウスレーベルUnderground Constructionよる1997年にリリースされた。
+
+B面１曲目はシカゴ出身のUSハウスミュージックDJ/プロデューサー JJ Flores（Jonathan Flores）によるremix。
 
 #### Tracklist
 ```md
@@ -19,12 +23,6 @@ B1. Got Off My Dik # 1 (Traj/JJ Flores)
 
 B2. Got Off My Dik # 2 (Original Mix)
 ```
-
-DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパイオニア＆レジェンドとして知られるシカゴ拠点のDJ。
-
-「Basics」は、シカゴを拠点とするUSハードハウス/テックハウスレーベルUnderground Constructionよる1997年にリリースされた。
-
-B面１曲目はシカゴ出身のUSハウスミュージックDJ/プロデューサー JJ Flores（Jonathan Flores）によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m29973784379){: .button1}
 

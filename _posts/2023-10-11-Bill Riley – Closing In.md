@@ -7,7 +7,9 @@ tags: [ Drum n Bass ]
 image: ../assets/images/Bill Riley – Closing In.jpg
 ---
 
-#### Bill Riley – Closing In
+「Closing In」は、Roni Size、DJ Krust、Chris Lewis によって設立されたブリストルを拠点とするドラムンベースレーベルFull Cycle Recordsより　1998年にリリースされた２枚組のドラムンベーストラック。
+
+C面は、イギリスの DJ /プロデューサーであり、Roni Size & Reprazent (と Breakbeat Eraのメンバーだった、DJ DieことDaniel Robert Kausman（ダニエル・ロバート・カウスマン）によるremix。
 
 #### Tracklist
 ```md
@@ -19,10 +21,6 @@ C. The Phoenix
 
 D. The Edge
 ```
-
-「Closing In」は、Roni Size、DJ Krust、Chris Lewis によって設立されたブリストルを拠点とするドラムンベースレーベルFull Cycle Recordsより　1998年にリリースされた２枚組のドラムンベーストラック。
-
-C面は、イギリスの DJ /プロデューサーであり、Roni Size & Reprazent (と Breakbeat Eraのメンバーだった、DJ DieことDaniel Robert Kausman（ダニエル・ロバート・カウスマン）によるremix。
 
 [メルカリで購入](https://jp.mercari.com/item/m36282109210){: .button1}
 

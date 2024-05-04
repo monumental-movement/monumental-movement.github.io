@@ -7,7 +7,13 @@ tags: [ Trance, Dutch Trance ]
 image: ../assets/images/System F – Cry (Remixes).jpg
 ---
 
-#### System F – Cry (Remixes)
+「System F – Cry (Remixes)」の
+A面１曲目は、イタリアのプロジェクトCRWによるremix。
+
+B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
+
+B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
+
 
 #### Tracklist
 ```md
@@ -19,12 +25,6 @@ B1. Cry (Oliver Lieb Remix)
 
 B2. Cry (Ferry Corsten Club Mix)
 ```
-
-A面１曲目は、イタリアのプロジェクトCRWによるremix。
-
-B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
-
-B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
 
 [メルカリで購入](https://jp.mercari.com/item/m13662586330){: .button1}
 

@@ -7,7 +7,9 @@ tags: [ Trance, Hard Trance ]
 image: ../assets/images/Ratty – Sunrise (Here I Am).jpg
 ---
 
-#### Ratty – Sunrise (Here I Am)
+Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
+
+B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
 
 #### Tracklist
 ```md
@@ -17,10 +19,6 @@ B1. Sunrise (Here I Am) (Dub Mix)
 
 B2. Sunrise (Here I Am) (Instrumental)
 ```
-
-Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
-
-B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
 
 [メルカリで購入](https://jp.mercari.com/item/m87341186255){: .button1}
 

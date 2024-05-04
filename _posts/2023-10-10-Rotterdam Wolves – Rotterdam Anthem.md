@@ -7,7 +7,9 @@ tags: [ Techno, Gabber ]
 image: ../assets/images/Rotterdam Wolves – Rotterdam Anthem.jpg
 ---
 
-#### Rotterdam Wolves – Rotterdam Anthem
+Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
+
+「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。
 
 #### Tracklist
 ```md
@@ -21,10 +23,6 @@ B2. Rotterdam Anthem (Instrumental)
 
 B3. Rotterdam Anthem (Accapella A/D Ijssel Mix)
 ```
-
-Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
-
-「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。
 
 [メルカリで購入](https://jp.mercari.com/item/m81174559941){: .button1}
 

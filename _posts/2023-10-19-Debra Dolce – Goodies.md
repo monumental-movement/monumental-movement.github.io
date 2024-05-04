@@ -7,7 +7,9 @@ tags: [ House, Electro ]
 image: ../assets/images/Debra Dolce – Goodies.jpg
 ---
 
-#### Debra Dolce – Goodies
+「Goodies」は、
+2008年にレーベル「Coco Machete Records」からリリースされたDebra DolceによるEPです。
+
 
 #### Tracklist
 ```md
@@ -15,8 +17,6 @@ A. Goodies (Zero Cash Remix)
 
 B. Goodies (ZC's Dolce Remix)
 ```
-
-2008年にレーベル「Coco Machete Records」からリリースされたDebra DolceによるEPです。
 
 [メルカリで購入](https://jp.mercari.com/item/m11056580710){: .button1}
 

@@ -7,7 +7,7 @@ tags: [ Electro, Synth-Pop ]
 image: ../assets/images/Alek Stark – We Love You.jpg
 ---
 
-#### Alek Stark – We Love You
+「Alek Stark – We Love You」は、ミュンヘンを拠点とする電子音楽レーベルDisko Bombs(Disko B)から2002年にリリースされたスペイン出身のエレクトロプロデューサー/アーティストAlek Stark(Serafín Gallego)によるエレクトロ/シンセポップトラック。
 
 #### Tracklist
 ```md
@@ -19,8 +19,6 @@ B1. Lights & Sex
 
 B2. Lights & Sex (Robert Calvin Remix)
 ```
-
-「Alek Stark – We Love You」は、ミュンヘンを拠点とする電子音楽レーベルDisko Bombs(Disko B)から2002年にリリースされたスペイン出身のエレクトロプロデューサー/アーティストAlek Stark(Serafín Gallego)によるエレクトロ/シンセポップトラック。
 
 [メルカリで購入](https://jp.mercari.com/item/m44739620198){: .button1}
 

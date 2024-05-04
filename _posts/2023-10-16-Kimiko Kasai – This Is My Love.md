@@ -7,7 +7,7 @@ tags: [ Soul, Jazz ]
 image: ../assets/images/Kimiko Kasai – This Is My Love.jpg
 ---
 
-#### Kimiko Kasai – This Is My Love
+「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。
 
 #### Tracklist
 ```md
@@ -31,8 +31,6 @@ B5. I Wish I Could Walk Away
 
 B6. Little Things
 ```
-
-「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。
 
 [メルカリで購入](https://jp.mercari.com/item/m94581673647){: .button1}
 

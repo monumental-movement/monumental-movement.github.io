@@ -7,7 +7,7 @@ tags: [ Pops, Rock ]
 image: ../assets/images/Scarfo – Scarfo.jpg
 ---
 
-#### Scarfo – Scarfo
+Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
 #### Tracklist
 ```md
@@ -25,8 +25,6 @@ B6. Throw It All
 
 B7. Wailing Words
 ```
-
-Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
 [メルカリで購入](https://jp.mercari.com/item/m51458785746){: .button1}
 

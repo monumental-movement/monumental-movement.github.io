@@ -7,7 +7,7 @@ tags: [ Funk, Soul ]
 image: ../assets/images/Quincy Jones – Body Heat.jpg
 ---
 
-#### Quincy Jones – Body Heat
+ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
 
 #### Tracklist
 ```md
@@ -21,7 +21,5 @@ image: ../assets/images/Quincy Jones – Body Heat.jpg
 8. Along Came Betty
 9. If I Ever Lose This Heaven
 ```
-
-ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
 
 [メルカリで購入](https://jp.mercari.com/item/m45216980435){: .button1}

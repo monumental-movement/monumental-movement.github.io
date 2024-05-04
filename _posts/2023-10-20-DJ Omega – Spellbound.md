@@ -7,7 +7,7 @@ tags: [ House, Ghettotech ]
 image: ../assets/images/DJ Omega – Spellbound.jpg
 ---
 
-#### DJ Omega – Spellbound
+DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
 
 #### Tracklist
 ```md
@@ -21,8 +21,6 @@ B2. Pop Dat
 
 B3. Run A Train
 ```
-
-DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
 
 [メルカリで購入](https://jp.mercari.com/item/m31687388099){: .button1}
 

@@ -7,7 +7,11 @@ tags: [ Rock, Hard Rock ]
 image: ../assets/images/ACDC – Flick Of The Switch.jpg
 ---
 
-#### AC/DC – Flick Of The Switch
+『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。
+
+このアルバムは、バンドの1980年の『Back in Black』や1981年の『For Those About to Rock』といった前作と比較して売り上げが伸び悩み、バンドの商業的な衰退の始まりを示すものとされました。
+
+AC/DCのリードボーカルであるブライアン・ジョンソンが参加した3枚目のアルバムであり、また、ドラマーのフィル・ラッドが一時的に脱退する前の最後のアルバムとなります。
 
 #### Tracklist
 ```md
@@ -31,12 +35,6 @@ B4. Badlands
 
 B5. Brain Shake
 ```
-
-『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。
-
-このアルバムは、バンドの1980年の『Back in Black』や1981年の『For Those About to Rock』といった前作と比較して売り上げが伸び悩み、バンドの商業的な衰退の始まりを示すものとされました。
-
-AC/DCのリードボーカルであるブライアン・ジョンソンが参加した3枚目のアルバムであり、また、ドラマーのフィル・ラッドが一時的に脱退する前の最後のアルバムとなります。
 
 [メルカリで購入](https://jp.mercari.com/item/m69281188370){: .button1}
 

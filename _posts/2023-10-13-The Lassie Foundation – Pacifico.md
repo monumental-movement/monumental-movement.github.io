@@ -7,7 +7,9 @@ tags: [ Shoegaze, Rare ]
 image: ../assets/images/The Lassie Foundation – Pacifico.jpg
 ---
 
-#### The Lassie Foundation – Pacifico
+The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。
+
+メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
 #### Tracklist
 ```md
@@ -33,10 +35,6 @@ B5. Bombers Moon
 
 B6. You Are Infinity
 ```
-
-The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。
-
-メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
 [メルカリで購入](https://jp.mercari.com/item/m93678064417){: .button1}
 

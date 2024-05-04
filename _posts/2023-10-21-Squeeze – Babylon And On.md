@@ -7,7 +7,9 @@ tags: [ New-Wave, Pops ]
 image: ../assets/images/Squeeze – Babylon And On-r.jpg
 ---
 
-#### Squeeze – Babylon And On
+「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。
+
+スクイーズは、ポップロックやニューウェイヴの要素を取り入れた楽曲で知られるバンドで、1980年代の音楽シーンで成功を収めました。「Babylon and On」アルバムも、その特徴的なポップサウンドと洗練された楽曲が注目されました。特に「Hourglass」などの楽曲は、スクイーズの代表曲として知られています。
 
 #### Tracklist
 ```md
@@ -35,10 +37,6 @@ B5. The Waiting Game
 
 B6. Some Americans
 ```
-
-「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。
-
-スクイーズは、ポップロックやニューウェイヴの要素を取り入れた楽曲で知られるバンドで、1980年代の音楽シーンで成功を収めました。「Babylon and On」アルバムも、その特徴的なポップサウンドと洗練された楽曲が注目されました。特に「Hourglass」などの楽曲は、スクイーズの代表曲として知られています。
 
 [メルカリで購入](https://jp.mercari.com/item/m85609686798){: .button1}
 

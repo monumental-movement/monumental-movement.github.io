@@ -7,7 +7,7 @@ tags: [ House, Pops ]
 image: ../assets/images/Ricky Martin – Livin' La Vida Loca.jpg
 ---
 
-#### Ricky Martin – Livin' La Vida Loca
+1999年にリリースされたリッキーマーティンの世界でヒットした有名なLivin' La Vida Locaのリミックスが収録された2枚組EPです。
 
 #### Tracklist
 ```md
@@ -27,8 +27,6 @@ D1. Livin' La Vida Loca (Scissorhands Push & Pull Spanglish House Mix)
 
 D2. Livin' La Vida Loca (Scissorhands Push & Pull Spanish House Mix)
 ```
-
-1999年にリリースされたリッキーマーティンの世界でヒットした有名なLivin' La Vida Locaのリミックスが収録された2枚組EPです。
 
 
 [メルカリで購入](https://jp.mercari.com/item/m66378364645){: .button1}

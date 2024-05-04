@@ -7,7 +7,9 @@ tags: [ Break Beat, Ambient ]
 image: ../assets/images/Rei Harakami – [lust].jpg
 ---
 
-#### Rei Harakami – [lust]
+「Rei Harakami – [lust]」は、
+2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
+
 
 #### Tracklist
 ```md
@@ -22,8 +24,6 @@ image: ../assets/images/Rei Harakami – [lust].jpg
 9. Approach
 10. First Period
 ```
-
-2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
 
 [メルカリで購入](https://jp.mercari.com/item/m77173995141){: .button1}
 

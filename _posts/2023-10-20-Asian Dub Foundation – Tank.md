@@ -7,7 +7,7 @@ tags: [ Electronica, Hiphop ]
 image: ../assets/images/Asian Dub Foundation – Tank.jpg
 ---
 
-#### Asian Dub Foundation – Tank
+「Tank」は、AsianDubFoundation の５枚目のアルバム。このアルバムでは、ダブミュージック専門のプロデューサーAdrian Sherwood（エイドリアン・シャーウッド）の協力を得て、Ghetto Priest（ゲットー・プリースト）がボーカルとして参加した。
 
 #### Tracklist
 ```md
@@ -23,7 +23,5 @@ image: ../assets/images/Asian Dub Foundation – Tank.jpg
 10. Tomorrow Begins Today
 11. Melody 7
 ```
-
-「Tank」は、AsianDubFoundation の５枚目のアルバム。このアルバムでは、ダブミュージック専門のプロデューサーAdrian Sherwood（エイドリアン・シャーウッド）の協力を得て、Ghetto Priest（ゲットー・プリースト）がボーカルとして参加した。
 
 [メルカリで購入](https://jp.mercari.com/item/m14272970015){: .button1}

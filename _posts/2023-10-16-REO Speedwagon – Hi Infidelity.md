@@ -7,7 +7,7 @@ tags: [ Trance, Hard Trance ]
 image: ../assets/images/REO Speedwagon – Hi Infidelity.jpg
 ---
 
-#### REO Speedwagon – Hi Infidelity
+REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 
 #### Tracklist
 ```md
@@ -31,8 +31,6 @@ B4. Someone Tonight
 
 B5. I Wish You Were There
 ```
-
-REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 
 [メルカリで購入](https://jp.mercari.com/item/m78682401500){: .button1}
 
