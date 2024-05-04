@@ -30,5 +30,5 @@ image: ../assets/images/Various – Electro Swing.jpg
 など、全20曲
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97133346644){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

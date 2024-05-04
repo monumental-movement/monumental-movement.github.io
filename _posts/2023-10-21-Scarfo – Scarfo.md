@@ -26,5 +26,5 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51458785746){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
 

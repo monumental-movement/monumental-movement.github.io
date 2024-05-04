@@ -16,5 +16,5 @@ A. Guardians Hammer
 B. Last Resorts Spartan
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29138547443){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
 

@@ -20,5 +20,6 @@ A2. Higher State Of Consciousness (Original Tweekin Acid Funk Mix)
 B. Higher State Of Consciousness (Marco V Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55147160081){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55147160081?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1mm5AsEorg?si=E-1mOrRqeV6viN6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

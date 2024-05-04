@@ -24,5 +24,6 @@ B2. My Desire (Dub Edit)
 B3. My Desire (Last Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42307915967){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42307915967?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnBgJyKAabc?si=P0R5k6VNSkDr9CEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
