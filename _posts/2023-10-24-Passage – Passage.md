@@ -7,7 +7,9 @@ tags: [ Soul, Disco ]
 image: ../assets/images/Passage – Passage.jpg
 ---
 
-#### Passage – Passage
+Passage（パッセージ ）は、アメリカのソウル/ファンク/ジャズ/ディスコバンドBrothers Johnson（ブラザーズ・ジョンソン）のベーシスト、Louis Johnson（ルイス・ジョンソン）によるソロプロジェクト。
+
+ルイの元妻Valerie Johnson（ヴァレリー・ジョンソン）と元ブラザーズ・ジョンソンのパーカッショニスト兼シンガーのRichard Heath（リチャード・ヒース）を含むトリオ・グループ。
 
 #### Tracklist
 ```md
@@ -30,7 +32,6 @@ B3. Love Eyes
 B4. The Son Will Come Again
 ```
 
-Passage（パッセージ ）は、アメリカのソウル/ファンク/ジャズ/ディスコバンドBrothers Johnson（ブラザーズ・ジョンソン）のベーシスト、Louis Johnson（ルイス・ジョンソン）によるソロプロジェクト。ルイの元妻Valerie Johnson（ヴァレリー・ジョンソン）と元ブラザーズ・ジョンソンのパーカッショニスト兼シンガーのRichard Heath（リチャード・ヒース）を含むトリオ・グループ。
+[メルカリで購入](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m12303276773){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

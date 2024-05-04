@@ -7,7 +7,7 @@ tags: [ Rock, Pops, 60s ]
 image: ../assets/images/The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To Tell Me.jpg
 ---
 
-#### The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have To Tell Me
+The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代にロサンゼルスで結成されたボーカルグループ。
 
 #### Tracklist
 ```md
@@ -36,7 +36,6 @@ B5  Just For A Thrill
 B6  Don't Fight It
 ```
 
-The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代にロサンゼルスで結成されたボーカルグループ。
+[メルカリで購入](https://jp.mercari.com/item/m34490368131?afid=6142608987){: .button1}
 
-[メルカリで購入](https://jp.mercari.com/item/m34490368131){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H27FxxaeS9Q?si=3bCcsgMXOXdFagwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
