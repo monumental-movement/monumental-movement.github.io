@@ -7,7 +7,9 @@ tags: [ Rock, Hard Rock ]
 image: ../assets/images/Heart – Dreamboat Annie.jpg
 ---
 
-#### Heart – Dreamboat Annie
+「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。
+
+当時、バンドはブリティッシュコロンビア州バンクーバーに拠点を置いており、このアルバムはバンクーバーで録音され、最初にカナダで地元のレーベルであるマッシュルーム・レコードによって1975年9月にリリースされました。このアルバムは後にRPMのトップアルバムチャートで20位に達し、ダブルプラチナ認定を獲得しました。
 
 #### Tracklist
 ```md
@@ -32,9 +34,6 @@ B4. How Deep It Goes
 B5. Dreamboat Annie (Reprise)
 ```
 
-「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。
+[メルカリで購入](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
 
-当時、バンドはブリティッシュコロンビア州バンクーバーに拠点を置いており、このアルバムはバンクーバーで録音され、最初にカナダで地元のレーベルであるマッシュルーム・レコードによって1975年9月にリリースされました。このアルバムは後にRPMのトップアルバムチャートで20位に達し、ダブルプラチナ認定を獲得しました。
-
-[メルカリで購入](https://jp.mercari.com/item/m52698714927){: .button1}
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQDJ45qJHBQ?si=viLowrphTK19Wcpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
