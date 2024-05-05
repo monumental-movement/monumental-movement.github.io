@@ -25,13 +25,12 @@
                 </div>
                 {% endif %}
             </h2>
+            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}
             <!-- Tags -->  
     {% assign sortedTags = page.tags | sort %}
     {% for tag in sortedTags %}                
     <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>               
-    {% endfor %}
-            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}
-            </h4>
+    {% endfor %}</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
