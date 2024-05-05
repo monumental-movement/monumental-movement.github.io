@@ -22,5 +22,6 @@ A2. Wuorinen (Jackmate Remix)
 B1. Live In Cascadia
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76114508673){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76114508673?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mnl5KEvoAd8?si=0E97bT15eDmFp8bb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

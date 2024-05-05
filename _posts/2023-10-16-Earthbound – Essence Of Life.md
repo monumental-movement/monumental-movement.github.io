@@ -18,5 +18,5 @@ A. Essence Of Life (John "00" Fleming Remix)
 B. Essence Of Life (Skynet UK Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35665629445){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35665629445?afid=6142608987){: .button1}
 

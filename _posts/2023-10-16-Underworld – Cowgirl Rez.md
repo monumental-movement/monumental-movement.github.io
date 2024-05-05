@@ -18,5 +18,5 @@ A. Cowgirl
 B. Rez
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12368134512){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12368134512?afid=6142608987){: .button1}
 

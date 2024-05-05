@@ -22,5 +22,5 @@ B2. Rejoice (Roger's Hard Dub)
 B3. Rejoice (Churchapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34717697447){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
 

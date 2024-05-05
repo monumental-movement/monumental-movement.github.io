@@ -22,5 +22,5 @@ B1. Time Control
 B2. Illusion
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53569289716){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53569289716?afid=6142608987){: .button1}
 

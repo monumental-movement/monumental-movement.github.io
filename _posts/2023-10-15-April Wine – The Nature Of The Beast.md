@@ -36,5 +36,5 @@ B4. Bad Boys
 B5. One More Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95537522288){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
 

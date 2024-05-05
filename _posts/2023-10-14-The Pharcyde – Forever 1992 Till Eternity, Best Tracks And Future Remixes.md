@@ -29,5 +29,5 @@ The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサ
 14. DJ Missie 2001 Uptown Party Mix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25240411961){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
 

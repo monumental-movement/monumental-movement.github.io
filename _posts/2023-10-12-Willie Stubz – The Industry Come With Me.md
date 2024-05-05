@@ -25,5 +25,5 @@ B2. Come With Me (Dirty)
 B3. Come With Me (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69076614496){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69076614496?afid=6142608987){: .button1}
 

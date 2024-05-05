@@ -30,6 +30,6 @@ Speed（スピード）は、元村八分の青木眞一が1976年に結成し�
 9. ひとつの氷
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43996896011){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
 
 

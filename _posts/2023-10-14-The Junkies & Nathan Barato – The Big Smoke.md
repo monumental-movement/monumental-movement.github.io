@@ -18,5 +18,5 @@ A. Wow!
 B. For You One Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25171037533){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25171037533?afid=6142608987){: .button1}
 

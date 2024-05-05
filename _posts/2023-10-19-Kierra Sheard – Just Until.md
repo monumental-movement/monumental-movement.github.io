@@ -24,5 +24,4 @@ B2. Let Go (LP Version)
 B3. Let Go (The Godson Concept)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74116877219){: .button1}
-
+[メルカリで購入](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}

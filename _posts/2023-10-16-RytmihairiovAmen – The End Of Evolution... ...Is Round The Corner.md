@@ -35,5 +35,5 @@ B10. Money Rules The Fools
 B11. Spice-Song
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23657412972){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 

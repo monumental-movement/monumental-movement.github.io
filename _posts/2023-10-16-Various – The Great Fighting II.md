@@ -33,5 +33,5 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m28875138146){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
 

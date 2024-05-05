@@ -22,5 +22,5 @@ a. Jump A Little Higher (Brisk Remix)
 b. Jump A Little Higher
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45158763223){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 

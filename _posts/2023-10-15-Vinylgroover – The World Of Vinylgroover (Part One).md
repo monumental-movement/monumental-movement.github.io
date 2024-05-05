@@ -28,5 +28,5 @@ D1. Can't Stop (Vinylgroover Remix)
 D2. Got To Have It
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20525607321){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
 

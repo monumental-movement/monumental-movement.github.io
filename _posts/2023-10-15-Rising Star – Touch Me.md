@@ -20,5 +20,5 @@ B1. Touch Me (Wavestate Remix)
 B2. Touch Me (12" Vocal Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98006616824){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98006616824?afid=6142608987){: .button1}
 

@@ -32,5 +32,5 @@ B3. If Everyone Was Listening
 B4. Crime Of The Century
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94592991444){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94592991444?afid=6142608987){: .button1}
 

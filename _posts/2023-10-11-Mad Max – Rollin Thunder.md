@@ -32,5 +32,5 @@ B3. Riding Through The Night
 B4. Thoughts Of A Dying Man
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90006098663){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90006098663?afid=6142608987){: .button1}
 

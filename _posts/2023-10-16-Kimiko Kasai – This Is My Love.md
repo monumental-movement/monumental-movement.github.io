@@ -32,5 +32,5 @@ B5. I Wish I Could Walk Away
 B6. Little Things
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94581673647){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
 

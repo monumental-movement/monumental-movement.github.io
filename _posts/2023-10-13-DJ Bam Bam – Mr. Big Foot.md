@@ -22,4 +22,4 @@ B2. Pump Up The Bass
 B3. DJ Bam Bam Drops
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57199645919){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57199645919?afid=6142608987){: .button1}

@@ -39,5 +39,5 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19039475534){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 

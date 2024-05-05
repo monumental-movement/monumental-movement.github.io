@@ -19,5 +19,5 @@ A2. Elektro Loser (Elektribal Mix)
 B. Elektro Loser (Unity Level Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92554809496){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92554809496?afid=6142608987){: .button1}
 

@@ -18,5 +18,5 @@ B1. Feelings Engine
 B2. The Chocolate Factory
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43840042608){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43840042608?afid=6142608987){: .button1}
 

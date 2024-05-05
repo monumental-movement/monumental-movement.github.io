@@ -16,5 +16,5 @@ A. So High (Club Mix)
 B. So High (Single Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84866354258){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 

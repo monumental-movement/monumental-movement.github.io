@@ -30,5 +30,5 @@ D2. Motherland
 D3. El Dîa Perfecto (Reprise)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41280420155){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
 

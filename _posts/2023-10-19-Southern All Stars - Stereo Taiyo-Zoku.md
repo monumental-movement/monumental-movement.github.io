@@ -41,5 +41,6 @@ B6. Big Star Blues (ビッグ・スターの悲劇)
 B7. 栞(しおり)のテーマ
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44193861071){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8nxYn-3jRU?si=KuIbDWGya-WkpZyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

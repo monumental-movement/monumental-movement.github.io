@@ -40,5 +40,5 @@ B5. Bad News From Swing Street
 B6. Not For Sale
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64968588416){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 

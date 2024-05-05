@@ -22,5 +22,5 @@ B1. Get The Power (Reverse Mix)
 B2. Get The Power (Overdrive Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57007567296){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57007567296?afid=6142608987){: .button1}
 

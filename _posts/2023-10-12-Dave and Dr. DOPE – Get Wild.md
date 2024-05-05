@@ -20,5 +20,5 @@ B1. Get Wild (DJ Version)
 B2. Get Wild (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98858239692){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
 

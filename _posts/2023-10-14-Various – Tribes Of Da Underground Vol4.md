@@ -30,5 +30,5 @@ C2. Max.Schneider – Inercia
 D. Pathless – Forecast
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49529230918){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
 

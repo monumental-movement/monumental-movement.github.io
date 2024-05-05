@@ -26,5 +26,5 @@ B1. Cry (Oliver Lieb Remix)
 B2. Cry (Ferry Corsten Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13662586330){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
 

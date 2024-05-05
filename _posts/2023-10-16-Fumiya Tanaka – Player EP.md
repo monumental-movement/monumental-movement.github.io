@@ -22,5 +22,5 @@ B1. Polyrhythm
 B2. The 8th Of December
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93872054056){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93872054056?afid=6142608987){: .button1}
 

@@ -18,5 +18,5 @@ B1. Evolution (Dance Version)
 B2. Evolution (3RD Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66302757125){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66302757125?afid=6142608987){: .button1}
 

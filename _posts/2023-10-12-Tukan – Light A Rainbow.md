@@ -22,5 +22,5 @@ B1. Light A Rainbow (Tukan's Original Mix)
 B2. Light A Rainbow (DJ Worris Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77518561932){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
 

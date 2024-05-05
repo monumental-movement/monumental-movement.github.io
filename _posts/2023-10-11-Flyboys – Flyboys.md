@@ -28,5 +28,5 @@ B3. Different Kind Of Guy
 B4. Theme Song
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86414218570){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86414218570?afid=6142608987){: .button1}
 

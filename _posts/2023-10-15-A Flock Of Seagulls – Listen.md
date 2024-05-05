@@ -34,5 +34,5 @@ B5. The Fall
 B6. (It's Not Me) Talking
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43509959556){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 

@@ -20,5 +20,5 @@ B1. Lights & Sex
 B2. Lights & Sex (Robert Calvin Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44739620198){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44739620198?afid=6142608987){: .button1}
 

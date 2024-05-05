@@ -22,5 +22,5 @@ A2. Bad Things (Vocal-ish Version)
 B1. Bad Things (Wink's Stabbed Filled Acid Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91007841162){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91007841162?afid=6142608987){: .button1}
 

@@ -22,5 +22,5 @@ B1. Luv Luv Robot (Takkyu Ishino Remix)
 B2. Luv Luv Robot (Mijk Van Dijk Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46996717389){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46996717389?afid=6142608987){: .button1}
 

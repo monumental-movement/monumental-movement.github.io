@@ -24,5 +24,5 @@ B1. Into The Galaxy (Metronomy Remix)
 B2. Into The Galaxy (Danger Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29871308706){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
 

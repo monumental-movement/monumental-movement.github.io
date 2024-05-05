@@ -20,5 +20,5 @@ A2. Liberation (Temptation - Fly Like An Angel) (Original)
 AA1. Liberation (Temptation - Fly Like An Angel) (Matt Darey Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44404211666){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44404211666?afid=6142608987){: .button1}
 

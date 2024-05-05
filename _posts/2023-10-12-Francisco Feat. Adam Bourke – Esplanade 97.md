@@ -18,5 +18,5 @@ B1. Esplanade 97 (Instrumental)
 B2. Rock'n'Roll Lover (Horror Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23721600621){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721600621?afid=6142608987){: .button1}
 

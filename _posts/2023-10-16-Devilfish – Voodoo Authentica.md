@@ -18,5 +18,5 @@ B1. Darksoul
 B2. Eq Beats
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43307213572){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43307213572?afid=6142608987){: .button1}
 

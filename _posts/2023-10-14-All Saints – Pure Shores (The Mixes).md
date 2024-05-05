@@ -24,5 +24,5 @@ B1. Pure Shores (Original)
 B2. Pure Shores (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60756646453){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
 

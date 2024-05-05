@@ -22,5 +22,5 @@ A. Benga & Walsh–Addicts
 B. Darqwan–Megatection
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84498913064){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 

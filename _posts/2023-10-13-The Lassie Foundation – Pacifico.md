@@ -36,5 +36,5 @@ B5. Bombers Moon
 B6. You Are Infinity
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93678064417){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 

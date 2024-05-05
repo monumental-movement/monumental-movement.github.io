@@ -27,5 +27,5 @@ of Montrealは、1996年ジョージア州でケヴィン・バーンズを中�
 14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71222444726){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 

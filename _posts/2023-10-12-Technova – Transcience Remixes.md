@@ -20,5 +20,5 @@ B1. Yeah Sista (303 Version)
 B2. Firehorse One (Original Soundtrack Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92224497926){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92224497926?afid=6142608987){: .button1}
 

@@ -21,5 +21,5 @@ B1. Trippin' On The Elements (Trance Trip)
 B2. Fro-Dian Gruv (House Gruv)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57566827619){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57566827619?afid=6142608987){: .button1}
 

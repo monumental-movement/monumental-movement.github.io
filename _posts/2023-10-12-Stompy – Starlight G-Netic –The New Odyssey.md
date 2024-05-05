@@ -18,5 +18,5 @@ A. DJ Stompy–Starlight
 AA. G-Netic –The New Odyssey
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60668009425){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
 

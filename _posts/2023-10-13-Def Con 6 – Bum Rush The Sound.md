@@ -20,5 +20,5 @@ B1. Groovy Tweaks
 B2. Metal Atmoshphere (Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41245922481){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41245922481?afid=6142608987){: .button1}
 

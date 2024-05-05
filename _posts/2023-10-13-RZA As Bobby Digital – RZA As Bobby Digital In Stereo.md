@@ -31,4 +31,4 @@ Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビュー�
 16. Domestic Violence
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93089462366){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}

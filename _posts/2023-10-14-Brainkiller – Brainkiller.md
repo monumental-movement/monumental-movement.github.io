@@ -22,5 +22,5 @@ B1. Cooler Heimattrack
 B2. Wonderland
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87341186255){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 

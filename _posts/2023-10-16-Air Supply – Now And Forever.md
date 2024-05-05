@@ -34,5 +34,5 @@ B4. She Never Heard Me Call
 B5. What Kind Of Girl
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66371881166){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
 

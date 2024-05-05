@@ -37,5 +37,5 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12624594696){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
 

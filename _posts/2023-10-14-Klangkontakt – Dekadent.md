@@ -17,5 +17,5 @@ A. Dekadent (Extended)
 B. Dekadent (Progressive)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67842278990){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67842278990?afid=6142608987){: .button1}
 

@@ -20,5 +20,5 @@ B1. Threat
 B2. Groover
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98598756543){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98598756543?afid=6142608987){: .button1}
 

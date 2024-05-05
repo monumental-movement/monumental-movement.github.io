@@ -23,5 +23,5 @@ B1. Soundz
 B2. Soundz Like Bonus Beatz
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85609686798){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
 

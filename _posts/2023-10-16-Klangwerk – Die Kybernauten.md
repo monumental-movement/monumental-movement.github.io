@@ -18,5 +18,5 @@ A. Die Kybernauten
 B. Und Weiter Geht's
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15180946021){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15180946021?afid=6142608987){: .button1}
 

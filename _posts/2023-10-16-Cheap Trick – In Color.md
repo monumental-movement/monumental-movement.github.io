@@ -34,5 +34,5 @@ B4. Come On, Come On
 B5. So Good To See You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96486417042){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
 

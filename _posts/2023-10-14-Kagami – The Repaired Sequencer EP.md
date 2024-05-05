@@ -22,5 +22,5 @@ A1. 1.S.W. (109 Shopping Warriors)
 B1. BMX (Sound Associates Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77157414026){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77157414026?afid=6142608987){: .button1}
 

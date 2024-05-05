@@ -25,5 +25,5 @@ image: ../assets/images/Rei Harakami – [lust].jpg
 10. First Period
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77173995141){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
 

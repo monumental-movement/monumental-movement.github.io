@@ -22,5 +22,5 @@ B1. Flash
 B2. Explorer
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55278073484){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55278073484?afid=6142608987){: .button1}
 

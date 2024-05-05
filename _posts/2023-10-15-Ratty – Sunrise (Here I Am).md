@@ -20,5 +20,5 @@ B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87341186255){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 

@@ -34,5 +34,5 @@ B4. Do What You Like
 B5. Rev On The Red Line
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43110681533){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 

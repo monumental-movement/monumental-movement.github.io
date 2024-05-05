@@ -26,5 +26,5 @@ B1. Mamomit
 B2. Meprobamat
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82061331358){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82061331358?afid=6142608987){: .button1}
 

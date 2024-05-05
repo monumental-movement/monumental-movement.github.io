@@ -34,5 +34,5 @@ B3. Vienna
 B4. All Stood Still
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80910250276){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80910250276?afid=6142608987){: .button1}
 

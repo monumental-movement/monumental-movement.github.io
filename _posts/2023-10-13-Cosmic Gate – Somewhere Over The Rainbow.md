@@ -20,5 +20,5 @@ A2. Somewhere Over The Rainbow (Midnight Mix)
 B1. Fire Wire (Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73399445276){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73399445276?afid=6142608987){: .button1}
 

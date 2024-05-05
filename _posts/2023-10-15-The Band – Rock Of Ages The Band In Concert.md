@@ -14,38 +14,25 @@ The Band（ザ・バンド）は、1960年代後半から1970年代初頭にか�
 #### Tracklist
 ```md
 A1. Don't Do It
-
 A2. King Harvest (Has Surely Come)
-
 A3. Caledonia Mission
-
 A4. Get Up Jake
-
 A5. W.S. Walcott Medicine Show
 
 B1. Stage Fright
-
 B2. The Night They Drove Old Dixie Down
-
 B3. Across The Great Divide
-
 B4. Wheels On Fire
-
 B5. Rag Mama Rag
 
 C1. The Weight
-
 C2. The Shape I'm In
-
 C3. Unfaithful Servant
-
 C4. Life Is A Carnival
 
 D1. The Genetic Method
-
 D2. Chest Fever
-
 D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74070924210){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}

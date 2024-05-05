@@ -18,5 +18,5 @@ A. Stargazing (Original)
 B. Stargazing (8 Wonders' Star Traveller Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85964325673){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
 

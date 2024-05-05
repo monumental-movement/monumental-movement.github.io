@@ -18,5 +18,5 @@ AA1. Pulse
 AA2. The Hourglass (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80454443791){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80454443791?afid=6142608987){: .button1}
 

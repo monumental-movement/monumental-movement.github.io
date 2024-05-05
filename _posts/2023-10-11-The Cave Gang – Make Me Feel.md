@@ -19,5 +19,5 @@ B1. Make Me Feel (Instrumental
 B2. Make Me Feel (Radio Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61676818588){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61676818588?afid=6142608987){: .button1}
 

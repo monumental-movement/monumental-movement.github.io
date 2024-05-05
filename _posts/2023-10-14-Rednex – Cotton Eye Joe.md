@@ -28,5 +28,5 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37601005169){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
 

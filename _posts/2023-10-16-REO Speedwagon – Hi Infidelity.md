@@ -32,5 +32,5 @@ B4. Someone Tonight
 B5. I Wish You Were There
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78682401500){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78682401500?afid=6142608987){: .button1}
 

@@ -42,5 +42,5 @@ B6. Mission
 B7. Universal Jam
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m79906775059){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
 

@@ -20,5 +20,5 @@ A2. Jack Attack (Ghetto Hype Remix)
 B. A Bailar
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71182259236){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 

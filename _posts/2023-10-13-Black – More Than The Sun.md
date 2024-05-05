@@ -22,5 +22,5 @@ B2. Widemouth
 B3. Stephen
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36771334652){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 

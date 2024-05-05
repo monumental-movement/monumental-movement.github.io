@@ -22,5 +22,5 @@ B1. Emotivate
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10467596131){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10467596131?afid=6142608987){: .button1}
 

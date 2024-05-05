@@ -22,5 +22,5 @@ B1. Keep Love Coming (Radio Version)
 B2. Keep Love Coming (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18872108798){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18872108798?afid=6142608987){: .button1}
 

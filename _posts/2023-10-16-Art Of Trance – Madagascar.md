@@ -20,5 +20,5 @@ B1. Madagascar (Ferry Corsten Remix)
 B2. Madagascar (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64443542697){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64443542697?afid=6142608987){: .button1}
 

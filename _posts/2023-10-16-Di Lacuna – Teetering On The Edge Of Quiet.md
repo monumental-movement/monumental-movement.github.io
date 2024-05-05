@@ -22,5 +22,5 @@ B1. New Project 14
 B2. Scandal Of The Baby Farmers
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49813157624){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49813157624?afid=6142608987){: .button1}
 

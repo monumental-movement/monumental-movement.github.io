@@ -24,5 +24,5 @@ B1. Hot Like An Oven
 B2. Lovely
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16482484195){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16482484195?afid=6142608987){: .button1}
 

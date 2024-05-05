@@ -24,5 +24,5 @@ B1. Prove Your Love (Instrumental)
 B2. Prove Your Love (Radio Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92806880248){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92806880248?afid=6142608987){: .button1}
 

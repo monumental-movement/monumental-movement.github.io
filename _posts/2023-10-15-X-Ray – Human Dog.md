@@ -25,5 +25,5 @@ A2. Fade Away
 B1. Burning Like the Fire (Long Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16707818802){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16707818802?afid=6142608987){: .button1}
 

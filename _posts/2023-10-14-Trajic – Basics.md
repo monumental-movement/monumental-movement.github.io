@@ -24,5 +24,5 @@ B1. Got Off My Dik # 1 (Traj/JJ Flores)
 B2. Got Off My Dik # 2 (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29973784379){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29973784379?afid=6142608987){: .button1}
 

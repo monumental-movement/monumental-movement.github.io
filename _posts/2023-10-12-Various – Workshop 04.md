@@ -24,5 +24,5 @@ B1. Even Tuell –Untitled
 B2. Sascha Dive –Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23721694643){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 

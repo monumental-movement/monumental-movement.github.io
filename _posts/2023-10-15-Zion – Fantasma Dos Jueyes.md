@@ -24,5 +24,5 @@ A3. Fantasma (Acappella)
 B1. Dos Jueyes (Main)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96423283068){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
 

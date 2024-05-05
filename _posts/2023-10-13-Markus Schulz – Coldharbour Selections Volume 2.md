@@ -18,5 +18,5 @@ B1. Filterheadz – Yimanya (Markus Schulz & Austin Leeds Remix)
 B2  Mind – Random Experience(Perry O'Neil, Robert Nickson)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m54053728481){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54053728481?afid=6142608987){: .button1}
 

@@ -26,5 +26,5 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 B2. Reverance–Sacrifice (Paul Woodgate)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43301194560){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
 

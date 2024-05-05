@@ -26,5 +26,5 @@ B2. Lights Out
 B3. Pump It
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90896178440){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
 

@@ -21,5 +21,5 @@ B1. Let's Get Down
 B2. Rush
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84399793243){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84399793243?afid=6142608987){: .button1}
 

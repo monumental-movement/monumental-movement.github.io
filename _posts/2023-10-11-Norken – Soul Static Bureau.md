@@ -36,5 +36,5 @@ D2. Motor Breeze
 D3. Melissa Blend
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49930985507){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49930985507?afid=6142608987){: .button1}
 

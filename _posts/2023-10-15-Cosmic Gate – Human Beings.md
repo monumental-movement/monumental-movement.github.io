@@ -18,5 +18,5 @@ A1. Human Beings (Extended Mix)
 B1 Human Beings (G&M Project Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58263086044){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58263086044?afid=6142608987){: .button1}
 

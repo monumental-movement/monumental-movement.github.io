@@ -27,4 +27,4 @@ Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cow
 12. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58886170453){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}

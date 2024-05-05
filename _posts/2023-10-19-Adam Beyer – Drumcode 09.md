@@ -20,5 +20,6 @@ B1. Untitled
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m81557566471){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81557566471?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ourM6FiP-yc?si=4RGRzrD5kUqgi7ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

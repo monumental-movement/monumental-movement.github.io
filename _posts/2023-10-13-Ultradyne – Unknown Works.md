@@ -24,5 +24,5 @@ B1. Ultradyne–Society @ Work
 B2. Ultradyne–War Drum - Live
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73570341601){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 

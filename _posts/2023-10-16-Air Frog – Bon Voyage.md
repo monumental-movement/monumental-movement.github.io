@@ -18,5 +18,5 @@ A. Bon Voyage (Original)
 B. Bon Voyage (Adam Beyer Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40912190756){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40912190756?afid=6142608987){: .button1}
 

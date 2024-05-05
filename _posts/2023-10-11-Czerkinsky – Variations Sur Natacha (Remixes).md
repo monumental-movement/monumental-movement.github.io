@@ -28,5 +28,5 @@ B3. Natacha (remix: Sporto Kantes)
 B4. Natacha (Version Originale)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51971815655){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51971815655?afid=6142608987){: .button1}
 

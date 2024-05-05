@@ -22,5 +22,5 @@ C. The Phoenix
 D. The Edge
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36282109210){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
 

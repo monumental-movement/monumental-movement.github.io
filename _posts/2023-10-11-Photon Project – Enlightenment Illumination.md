@@ -18,5 +18,5 @@ A. Enlightenment
 B. Illumination
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84306913921){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
 
