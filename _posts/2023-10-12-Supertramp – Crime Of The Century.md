@@ -34,3 +34,4 @@ B4. Crime Of The Century
 
 [メルカリで購入](https://jp.mercari.com/item/m94592991444?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgJRM_8GWHg?si=GD6xeeTWGQLWl-gV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
