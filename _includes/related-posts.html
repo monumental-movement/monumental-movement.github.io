@@ -22,13 +22,13 @@
 
     </div>
 
-    {% assign maxRelated = 6 %}
+    {% assign maxRelated = 12 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
     <div class="blog-grid-container">
         {% for post in site.posts %}
         
-            {% assign sameTagCount = 2 %}
+            {% assign sameTagCount = 1 %}
             {% assign commonTags = '' %}
         
             {% for category in post.categories %}
