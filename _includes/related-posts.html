@@ -22,33 +22,35 @@
 
     </div>
 
-    {% assign maxRelated = 12 %}
-    {% assign minCommonTags =  1 %}
-    {% assign maxRelatedCounter = 0 %}
+{% assign maxRelated = 12 %}
+{% assign minCommonTags =  2 %}
+{% assign maxRelatedCounter = 0 %}
     <div class="blog-grid-container">
-        {% for post in site.posts %}
-        
-            {% assign sameTagCount = 2 %}
-            {% assign commonTags = '' %}
-        
+
+  {% for post in site.posts %}
+
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
             {% for category in post.categories %}
-            {% if post.url != page.url %}
-                {% if page.categories contains category %}
-                {% assign sameTagCount = sameTagCount | plus: 1 %}
-                {% capture tagmarkup %} {{ category }} {% endcapture %}
-                {% assign commonTags = commonTags | append: tagmarkup %}
-                {% endif %}
-            {% endif %}
-            {% endfor %}
-        
-            {% if sameTagCount >= minCommonTags %}
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} {{ category }} {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
             {% include postbox.html %}
-            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-            {% if maxRelatedCounter >= maxRelated %}
-                {% break %}
-            {% endif %}
-            {% endif %}
-        
-        {% endfor %}
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+
+  {% endfor %}
+
         </div>        
 </div>
