@@ -676,7 +676,7 @@ iframe {
         font-size:18px;
     }
 .blog-grid-container {
-        grid-template-columns: 1fr;
+        grid-template-columns: minmax(0, 1fr) 248px;
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
