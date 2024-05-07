@@ -670,7 +670,7 @@ iframe {
 }
 @media (max-width: 768px) {
     .container {
-        margin-right: 15px;
+        margin-right: 5px;
     }
     .posttitle {
         font-size:18px;
@@ -696,12 +696,12 @@ iframe {
         font-size: 18px;
         padding:0;
         .card-title {
-            font-size:18px;
+            font-size:15px;
         }
         .img-thumb {
             object-fit:cover;
-            height:400px;
-            width:80;
+            height:auto;
+            width:100%;
             object-position:top;
         }
     }
@@ -709,12 +709,12 @@ iframe {
     .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
         .img-thumb {
             object-fit:cover;
-            height:160px;
-            width:80%;
+            height:auto;
+            width:100%;
             object-position:top;
         }
         .card-title {
-            font-size:18px;
+            font-size:15px;
         }      
     }
 }
