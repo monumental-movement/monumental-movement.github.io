@@ -690,6 +690,35 @@ iframe {
     .firstpage .blog-grid-item:nth-child(3) .img-thumb {
         height:auto;
     }
+
+    .firstpage {
+    .blog-grid-item:nth-child(1) {
+        font-size: 18px;
+        padding:0;
+        .card-title {
+            font-size:18px;
+        }
+        .img-thumb {
+            object-fit:cover;
+            height:400px;
+            width:80;
+            object-position:top;
+        }
+    }
+
+    .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
+        .img-thumb {
+            object-fit:cover;
+            height:160px;
+            width:80%;
+            object-position:top;
+        }
+        .card-title {
+            font-size:18px;
+        }      
+    }
+}
+
     .newsletter {
         span.h4 {
             font-size: 16px;
