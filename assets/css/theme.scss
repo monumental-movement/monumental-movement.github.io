@@ -677,6 +677,10 @@ iframe {
     }
 .blog-grid-container {
         grid-template-columns: 1fr 1fr;
+        grid-gap: 10px;
+        .card-title {
+            font-size:15px;
+        }
     }
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
