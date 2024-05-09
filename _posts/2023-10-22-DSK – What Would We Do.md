@@ -5,8 +5,6 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
 image: ../assets/images/DSK – What Would We Do.jpg
-rating: .45
-v-rating: VG
 ---
 
 「What Would We Do」は、キャッチーなメロディとリズムが特徴的です。特に、ボーカルのループやエレクトロニックなサウンドが、楽曲のトーンを作り上げています。

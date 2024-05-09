@@ -42,7 +42,7 @@ B2. Love Bite = ラヴバイト
 
 B3. Autopsy Love = オートプシィラブ
 
-B4. The Body = ザ.ボデ
+B4. The Body = ザ ボディー
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
