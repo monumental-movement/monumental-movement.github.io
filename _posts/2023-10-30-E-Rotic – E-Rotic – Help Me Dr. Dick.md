@@ -3,7 +3,7 @@ layout: post
 title:  "E-Rotic – Help Me Dr. Dick"
 author: mmr
 categories: [ Vinyl ]
-tags: [ House, Euro House, Hi NRG ]
+tags: [ House, Euro House, Hi NRG, 90s ]
 image: ../assets/images/E-Rotic – Help Me Dr. Dick.jpg
 ---
 

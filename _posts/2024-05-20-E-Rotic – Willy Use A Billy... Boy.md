@@ -3,7 +3,7 @@ layout: post
 title:  "E-Rotic – Willy Use A Billy... Boy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Euro, Euro House, Euro Beat, 90s ]
+tags: [ Euro, Euro House, Hi NRG, 90s ]
 image: ../assets/images/E-Rotic – Willy Use A Billy... Boy.jpg
 ---
 
