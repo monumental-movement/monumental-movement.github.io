@@ -4,7 +4,7 @@ title:  "Koivun Kaiku – Keepers"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Finland, Folk, rare ]
-image: ../assets/images/Koivun Kaiku – Keepersd.jpg
+image: ../assets/images/Koivun Kaiku – Keepers.jpg
 ---
 
 1987年にリリースされた「Keepers」は、フィンランドの民族楽器で、ツィター属撥弦楽器の一種であるカンテレ(kantele)によるフォーク＆ワールドミュージック。
