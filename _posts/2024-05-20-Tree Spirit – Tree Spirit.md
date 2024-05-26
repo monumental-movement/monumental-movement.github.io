@@ -3,7 +3,7 @@ layout: post
 title:  "Tree Spirit – Tree Spirit"
 author: mmr
 categories: [ Cassette ]
-tags: [ Rock, Folk, Psychedelic, Spiritual, 80s ]
+tags: [ Rock, Folk, Psychedelic, Spiritual ]
 image: ../assets/images/Tree Spirit – Tree Spirit.jpg
 ---
 

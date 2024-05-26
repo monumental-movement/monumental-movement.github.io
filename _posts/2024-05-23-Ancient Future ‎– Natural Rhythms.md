@@ -3,7 +3,7 @@ layout: post
 title:  "Ancient Future – Natural Rhythms"
 author: mmr
 categories: [ Cassette ]
-tags: [ Fusion, Rock, Psychedelic, Ambient, 80s ]
+tags: [ Fusion, Rock, Psychedelic, Ambient ]
 image: ../assets/images/Ancient Future – Natural Rhythms.jpg
 ---
 
