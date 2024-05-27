@@ -3,7 +3,7 @@ layout: post
 title:  "Masterboy – Different Dreams"
 author: mmr
 categories: [ Cassette ]
-tags: [ Euro, Eurto Beat, Dance, 90s ]
+tags: [ Euro, Euro Beat, Dance, 90s ]
 image: ../assets/images/Masterboy – Different Dreams.jpg
 ---
 
