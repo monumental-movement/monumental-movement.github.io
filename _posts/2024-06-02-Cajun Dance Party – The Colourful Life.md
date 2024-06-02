@@ -4,7 +4,7 @@ title:  "Cajun Dance Party – The Colourful Life"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, UK Rock, Alternative, Indie Rock ]
-image: ../assets/images/Cajun Dance Party – The Colourful Life).jpg
+image: ../assets/images/Cajun Dance Party – The Colourful Life.jpg
 ---
 
 Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・ロンドン出身の5ピースロックバンド。
