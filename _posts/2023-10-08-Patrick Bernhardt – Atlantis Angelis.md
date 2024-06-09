@@ -3,7 +3,7 @@ layout: post
 title:  "Patrick Bernhardt – Atlantis Angelis"
 author: mmr
 categories: [ Cassette ]
-tags: [ New-Age, Ambient ]
+tags: [ New Age, Ambient ]
 image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.jpg
 ---
 
