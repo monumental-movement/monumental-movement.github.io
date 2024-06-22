@@ -3,7 +3,7 @@ layout: post
 title:  "Djaimin – Give You"
 author: mmr
 categories: [ Vinyl ]
-tags: [ :House, Deep House, 90s ]
+tags: [ House, Deep House, 90s ]
 image: ../assets/images/Djaimin – Give You.jpg
 ---
 
