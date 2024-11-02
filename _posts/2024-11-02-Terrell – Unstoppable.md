@@ -3,7 +3,7 @@ layout: post
 title:  "Terrell – Unstoppable"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Hip Hop, Rap, 00s ]
+tags: [ Hiphop, Rap, 00s ]
 image: ../assets/images/Terrell – Unstoppable.jpg
 ---
 
