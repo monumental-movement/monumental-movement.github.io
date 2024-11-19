@@ -2,7 +2,7 @@
 layout: post
 title:  "Various – Build & Destroy (The Best Of Mo Wax Recordings)"
 author: mmr
-categories: [ Cassette ]
+categories: [ CD ]
 tags: [ Hiphop, Triphop, Abstract, 90s ]
 image: ../assets/images/Various – Build and Destroy (The Best Of Mo Wax Recordings).jpg
 ---

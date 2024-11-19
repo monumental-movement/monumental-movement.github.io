@@ -2,7 +2,7 @@
 layout: post
 title:  "Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film)"
 author: mmr
-categories: [ Cassette ]
+categories: [ CD ]
 tags: [ Soundtrack, Italy, Movie, 90s ]
 image: ../assets/images/Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film).jpg
 ---

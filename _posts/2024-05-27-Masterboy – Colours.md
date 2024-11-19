@@ -2,7 +2,7 @@
 layout: post
 title:  "Masterboy – Colours"
 author: mmr
-categories: [ Cassette ]
+categories: [ CD ]
 tags: [ Euro, Euro House, Euro Beat, 90s ]
 image: ../assets/images/Masterboy – Colours.jpg
 ---
