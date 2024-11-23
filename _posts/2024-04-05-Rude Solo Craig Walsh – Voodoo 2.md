@@ -2,7 +2,7 @@
 layout: post
 title:  "Rude Solo Craig Walsh – Voodoo 2"
 author: mmr
-categories: [ レコード ]
+categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Rude Solo Craig Walsh – Voodoo 2.jpg
 ---
