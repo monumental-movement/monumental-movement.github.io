@@ -9,6 +9,8 @@ image: ../assets/images/Pianoheadz – It's Over (Distortion).jpg
 
 PianoheadzはUSハウスのプロデューサーJose NuñezとErick Morilloによるユニット。
 
+「 It's Over 」は、UKのレーベルINCredibledから1998年にリリースされたハウス・ハードハウストラック。
+
 A面2曲目は、「House Rocca / Turn That Fucking Music Up」や「Raise Your Hands」で有名なKnuckleheadzによるremix。
 
 
