@@ -15,13 +15,9 @@ image: ../assets/images/Hypnotist – House Is Mine 92.jpg
 
 #### Tracklist
 ```md
-A1. The House Is Mine (Dark Syndicut Remix)
+A. The House Is Mine '92 (Original)
 
-A2. The House Is Mine (Original Mix)
-
-B1. The House Is Mine (Interface Remix)
-
-B2. The House Is Mine (Pete Smith Remix)
+B. The House Is Mine '92 (Westbam Remix)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
