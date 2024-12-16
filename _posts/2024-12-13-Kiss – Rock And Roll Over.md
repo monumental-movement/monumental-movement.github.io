@@ -2,7 +2,7 @@
 layout: post
 title:  "Kiss – Rock And Roll Over"
 author: mmr
-categories: [ Vinyl ]
+categories: [ Cassette ]
 tags: [ Hard Rock, Rock, 70s ]
 image: ../assets/images/Kiss – Rock And Roll Over.jpg
 ---
