@@ -18,7 +18,10 @@ image: ../assets/images/Junior Vasquez – Twilo Volume 1.jpg
 1-05. Mind Trap – Hypnotism
 1-06. And-E & Mac Lane – Swallow It Down
 1-07. Kult Of Krameria – Egocentrik
-など全14曲
+1-08. The Colombian Drum Cartel – Paranoid
+1-09. Mike Macaluso – Shake
+1-10. Progression – Surrender Now (Tribal Dub)
+1-11. Dubtribe Sound System – Equitoreal
 
 2-01. Shannon – Let The Music Play (Junior Vasquez Remix)
 2-02. World Of Shoes – I Am Strong (Junior Vasquez Remix)
