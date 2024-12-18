@@ -3,7 +3,7 @@ layout: post
 title:  "VA – Long Live Tibet"
 author: mmr
 categories: [ CD ]
-tags: [  Alternative Rock, Britpop, Rock, 90s ]
+tags: [ Alternative Rock, Britpop, Rock, 90s ]
 image: ../assets/images/VA – Long Live Tibet.jpg
 ---
 
