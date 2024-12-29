@@ -7,7 +7,6 @@ tags: [ Hiphop ]
 image: ../assets/images/A Tribe Called Quest – Midnight Marauders.jpg
 ---
 
-「Midnight Marauders」は、
 1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 
 #### Tracklist
