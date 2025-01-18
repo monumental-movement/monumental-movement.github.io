@@ -3,7 +3,7 @@ layout: post
 title:  "Eric Prydz – Pjanoo"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Drum n Bass ]
+tags: [ House, Electro, Drum n Bass, 00s ]
 image: ../assets/images/Eric Prydz – Pjanoo.jpg
 ---
 
