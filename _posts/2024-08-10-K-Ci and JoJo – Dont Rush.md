@@ -9,7 +9,9 @@ image: ../assets/images/K-Ci and JoJo – Dont Rush.jpg
 
 ケイシー（ケー・シー）＆ジョジョ
 
-K-Ci & JoJo は、セドリック"K-Ci"ヘイリー と ジョエル"JoJo"ヘイリー 兄弟からなるUSの R&B デュオ。K-Ci & JoJo はじ、R&B グループ Jodeci のリードシンガーでもあり、1998 年のスマッシュヒット「All My Life」は複数のグラミー賞にノミネートされた。
+K-Ci & JoJo は、セドリック"K-Ci"ヘイリー と ジョエル"JoJo"ヘイリー 兄弟からなるUSの R&B デュオ。
+
+K-Ci & JoJo は、R&B グループ Jodeci のリードシンガーでもあり、1998 年のスマッシュヒット「All My Life」は複数のグラミー賞にノミネートされた。
 
 「Don't Rush 」は、K-Ci & JoJo のデビュー アルバム「Love Always」からのシングルカット。
 
