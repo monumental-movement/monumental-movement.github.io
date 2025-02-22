@@ -11,9 +11,9 @@ Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill�
 
 このCDは、1995年にUKのレーベルJunior Boy's Ownからリリースされた名作アルバムLondon Hooligan Soulからのシングルカット。
 
-A面2曲目はジャングル・ドラムンベースのDJ＆プロデューサーSimon TemplarことPaul Saundersによるremix。
+2曲目はジャングル・ドラムンベースのDJ＆プロデューサーSimon TemplarことPaul Saundersによるremix。
 
-B面はUKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるremix。
+3曲目はUKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるremix。
 
 #### Tracklist
 ```md
