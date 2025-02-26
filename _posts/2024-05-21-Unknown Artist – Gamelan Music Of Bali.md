@@ -3,7 +3,7 @@ layout: post
 title:  "Unknown Artist – Gamelan Music Of Bali"
 author: mmr
 categories: [ Cassette ]
-tags: [ Tribal, Folk, Filed Recording ]
+tags: [ Tribal, Folk, Field Recording ]
 image: ../assets/images/Unknown Artist – Gamelan Music Of Bali.jpg
 ---
 

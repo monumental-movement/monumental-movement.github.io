@@ -3,7 +3,7 @@ layout: post
 title:  "Robotman – Do Da Doo (Remixes)"
 author: mmr
 categories: [ CD ]
-tags: [ Techno, Minimal, Aicd, 90s ]
+tags: [ Techno, Minimal, Acid, 90s ]
 image: ../assets/images/Robotman – Do Da Doo (Remixes).jpg
 ---
 

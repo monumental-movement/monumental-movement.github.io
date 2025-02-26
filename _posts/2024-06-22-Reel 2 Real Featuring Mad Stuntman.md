@@ -3,7 +3,7 @@ layout: post
 title:  "Reel 2 Real Featuring Mad Stuntman – Go On Move / I'm The Mad Stuntman"
 author: mmr
 categories: [ Vinyl ]
-tags: [ House, Hip Hop, UK House, 90s ]
+tags: [ House, Hip-Hop, UK House, 90s ]
 image: ../assets/images/Reel 2 Real Featuring Mad Stuntman – Go On Move.jpg
 ---
 
