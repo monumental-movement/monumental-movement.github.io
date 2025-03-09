@@ -7,7 +7,7 @@ tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/Ben Sims – Theory Of Interpretation.jpg
 ---
 
-宮崎駿アニメでお馴染みの作曲家 久石譲 が手がけた、NHKスペシャル「驚異の小宇宙 人体2・脳と心」のサントラ。1993年リリースだが、ミクロコスモスを音で表現したこのアルバムは時代を超えて聴き継がれる一枚。
+Ben Sims – Theory Of Interpretation: A Mastermix By Ben Sims
 
 #### Tracklist
 ```md
