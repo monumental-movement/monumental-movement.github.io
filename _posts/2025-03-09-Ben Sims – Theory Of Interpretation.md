@@ -7,7 +7,10 @@ tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/Ben Sims – Theory Of Interpretation.jpg
 ---
 
-Ben Sims – Theory Of Interpretation: A Mastermix By Ben Sims
+Ben Sims(ベン・シムス)は、80年代のUKレイブシーン、90年代のUKダンスシーンと長年にわたり第一線で活躍するテクノ界の重鎮。
+
+2001年にリリースされたこのアルバムは、Ben Sims自身の音源を含め計33曲を収録したmix CD。
+
 
 #### Tracklist
 ```md
