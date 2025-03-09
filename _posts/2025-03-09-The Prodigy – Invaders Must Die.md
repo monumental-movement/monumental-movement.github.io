@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Prodigy –Invaders Must Die"
+title:  "The Prodigy – Invaders Must Die"
 author: mmr
 categories: [ CD ]
 tags: [ Breaks, Big Beat, 00s ]
-image: ../assets/images/The Prodigy –Invaders Must Die.jpg
+image: ../assets/images/The Prodigy – Invaders Must Die.jpg
 ---
 
 このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
