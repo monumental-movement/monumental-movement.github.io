@@ -3,7 +3,7 @@ layout: post
 title:  "Black Metal Featuring Lady Lust – Show No Mercy"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Euro Beat, Hyper Techno ]
+tags: [ Euro Beat, Hyper Techno, 90s ]
 image: ../assets/images/Black Metal Featuring Lady Lust – Show No Mercy.jpg
 ---
 
