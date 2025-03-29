@@ -9,6 +9,9 @@ image: ../assets/images/Surgeon – Force+Form（Tresor 117）.jpg
 
 Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、Surgeon（サージョン）のCD。
 
+Surgeonは、DJ セットでAbleton Live と Final Scratch を使用した最初の DJ の 1 人としても知られている。
+
+
 #### Tracklist
 ```md
 Remnants Of What Once Was
