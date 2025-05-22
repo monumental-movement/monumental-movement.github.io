@@ -3,7 +3,7 @@ layout: post
 title:  "Buggles – The Age Of Plastic"
 author: mmr
 categories: [ CD ]
-tags: [ Electronic, Pop, Synth-po, 80s ]
+tags: [ Electronic, Pop, Synth-pop, 80s ]
 image: ../assets/images/Buggles – The Age Of Plastic.jpg
 ---
 
