@@ -3,7 +3,7 @@ layout: post
 title:  "E-Rotic – Sexual Madness"
 author: mmr
 categories: [ CD ]
-tags: [ Euro, Hi ERG, Euro Beat, House, 90s ]
+tags: [ Euro, HiERG, Euro Beat, House, 90s ]
 image: ../assets/images/E-Rotic – Sexual Madness.jpg
 ---
 
