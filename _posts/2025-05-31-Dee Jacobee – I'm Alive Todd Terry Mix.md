@@ -4,7 +4,7 @@ title:  "Dee Jacobee – I'm Alive Todd Terry Mix"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, 90s ]
-image: ../assets/images/Dee Jacobee – I'm Alive.jpg
+image: ../assets/images/Dee Jacobee – I'm Alive Todd Terry Mix.jpg
 ---
 
 UKのR&BシンガーDee Jacobee の「I'm Alive」をアメリカのDJ・ハウスミュージックの
