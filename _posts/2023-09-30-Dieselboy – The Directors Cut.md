@@ -17,10 +17,6 @@ USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼ�
 ```md
 A. Side A
 
-B. Side B
-```
-
-Side 1
 1. ???? (Intro written by Dieselboy?)
 2. Ram Trilogy- Intercity
 3. Facs- Cazms
@@ -36,7 +32,8 @@ Side 1
 13. Ram Trilogy- Mind Overload
 14. Adam F- Brand New Funk
 
-Side 2
+B. Side B
+
 1. Grooverider - Cybernetic Jazz
 2. Ed Rush + Optical- Point Blank
 3. Grooverider- Imagination
@@ -50,6 +47,7 @@ Side 2
 11. Orgy- Blue Monday (Optical Dub mix)
 12. Ed Rush + Optical- Medicine (Matrix remix)
 13. Dillinja- Accurist
+```
 
 
 [メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
