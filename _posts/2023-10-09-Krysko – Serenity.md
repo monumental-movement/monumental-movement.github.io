@@ -7,8 +7,9 @@ tags: [ Drum n Bass, Rare ]
 image: ../assets/images/Krysko – Serenity.jpg
 ---
 
-「Krysko – Serenity」は、
-ロンドンのThe Exchangeで伝説的なミキシングエンジニア、Mike Marsh氏によってマスタリングが行われたので、素晴らしいサウンドに仕上がっているEPです。
+UKのThe RedlightやThe Warehouse Projectでレジデントを務め、多くダンスミュージックファンに支持され尊敬されているDJ、Krysko（クリスコ）。
+
+「Serenity」は、ロンドンのThe Exchangeで伝説的なミキシングエンジニアとして知られているMike Marsh氏によってマスタリングされ、1994年にUKレーベルWhatever からリリースされたジャングルトラック。
 
 #### Tracklist
 ```md
