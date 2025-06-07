@@ -17,12 +17,14 @@ B面は、House musicのDJ・プロデューサーTodd Terry(トッドテリー)
 
 #### Tracklist
 ```md
-A1. The Boy From Ipanema (Classic Club) Remix – Frankie Knuckles
+A1. The Boy From Ipanema (Classic Club) 
+Remix – Frankie Knuckles
 
 A2. The Boy From Ipanema (Ipadreama) 
 Remix – Frankie Knuckles
 
-B1. The Boy From Ipanema (Deepzone Club) Remix – Todd Terry
+B1. The Boy From Ipanema (Deepzone Club) 
+Remix – Todd Terry
 
 B2. The Boy From Ipanema (Frozen Sun) 
 Remix – Todd Terry
