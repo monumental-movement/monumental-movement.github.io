@@ -7,7 +7,6 @@ tags: [ Techno, Mashup ]
 image: ../assets/images/Pink Floyd vs. Underworld – Brown Acid.jpg
 ---
 
-「Brown Acid」は、
 「Brown Acid」は、NY出身のクウェート/アメリカ人のレコードプロデューサー兼リミキサーHani（ハニ）と、NY出身のDJ/プロデューサーJonathan Peters（ジョナサン・ピータース）による、Underworld の「Born Slippy ボーン・スリッピー」とPink Floydの「Is There Anybody Out There? イズ・ゼア・エニバディ・アウト・ゼア」のビッグ・ダーク・マッシュアップ。
 
 
