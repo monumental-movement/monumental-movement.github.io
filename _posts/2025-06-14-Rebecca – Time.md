@@ -3,7 +3,7 @@ layout: post
 title:  "Rebecca – Time"
 author: mmr
 categories: [ Vinyl ]
-tags: [ JPop Rock, Synth-pop, Rock, 80s ]
+tags: [ JPop, Pop Rock, Rock, Synth-pop, 80s ]
 image: ../assets/images/Rebecca – Time.jpg
 ---
 
