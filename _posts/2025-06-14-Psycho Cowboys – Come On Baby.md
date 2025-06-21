@@ -10,7 +10,7 @@ image: ../assets/images/Psycho Cowboys – Come On Baby.jpg
 Psycho Cowboys (別名Hedfu_k)は、UKを拠点に活動するプロデューサー・コンポーザーAaron Gilbert(アーロン・ギルバート)とロンドン出身のエレクトロニックDJ・プロデューサーStretch SilvesterことStuart Collinsによるプロジェクト。
 
 
-ここレコードは、ロンドンのインディペンデントレコードレーベルWall Of Sound (ウォール・オブ・サウンド)から1999年にリリースされたBreaks・Big Beatトラック。
+このレコードは、ロンドンのインディペンデントレコードレーベルWall Of Sound (ウォール・オブ・サウンド)から1999年にリリースされたBreaks・Big Beatトラック。
 
 レーベルWall Of Soundは、ブライトンを拠点とするSkint Records(スキントレコード) と並んで、1990年代半ば〜後半にかけてのビッグビートムーブメントの中心的存だった。また、Propellerheads、The Wiseguys、Les Rythmes Digitalesなどの国際的に有名なビッグビートアーティストを紹介した事でも知られている。
 
