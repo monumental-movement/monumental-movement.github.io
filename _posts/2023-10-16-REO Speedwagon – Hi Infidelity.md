@@ -3,7 +3,7 @@ layout: post
 title:  "REO Speedwagon – Hi Infidelity"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Trance, Hard Trance ]
+tags: [ Rock, AOR, 80s ]
 image: ../assets/images/REO Speedwagon – Hi Infidelity.jpg
 ---
 
