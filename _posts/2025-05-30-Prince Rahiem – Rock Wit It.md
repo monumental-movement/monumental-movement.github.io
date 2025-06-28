@@ -3,7 +3,7 @@ layout: post
 title:  "Prince Rahiem – Rock Wit' It"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Electronic, Hip Hop, Bass Music, 90s ]
+tags: [ Electronic, Hiphop, Bass Music, 90s ]
 image: ../assets/images/Prince Rahiem – Rock Wit It.jpg
 ---
 
