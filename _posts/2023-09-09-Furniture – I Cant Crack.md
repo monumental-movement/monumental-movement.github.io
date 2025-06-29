@@ -3,7 +3,7 @@ layout: post
 title:  "Furniture – I Can't Crack"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Blues, Country, Classic ]
+tags: [ New-Wave, Post Punk, 80s ]
 image: ../assets/images/Furniture – I Can't Crack.jpg
 ---
 

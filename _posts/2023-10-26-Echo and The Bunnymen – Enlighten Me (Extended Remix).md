@@ -3,7 +3,7 @@ layout: post
 title:  "Echo & The Bunnymen – Enlighten Me (Extended Remix)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Rock, Post-Punk, New-Wave ]
+tags: [ Rock, Post Punk, New-Wave ]
 image: ../assets/images/Echo and The Bunnymen – Enlighten Me (Extended Remix).jpg
 ---
 
