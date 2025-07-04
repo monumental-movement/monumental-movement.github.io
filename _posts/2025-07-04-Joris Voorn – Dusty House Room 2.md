@@ -9,7 +9,7 @@ image: ../assets/images/Joris Voorn – Dusty House Room 2.jpg
 
 Joris Voorn(ヨリス・ヴォーン)は、アムステルダム出身のダッチテクノ界を代表するDJ＆リミキサー。
 
-「Dusty House | Room 2」は、Joris Voorn とEdwin Oosterwalが運営するレーベルRejectedから2009年にリリースされたTech Houseトラック。
+「Dusty House Room 2」は、Joris Voorn とEdwin Oosterwalが運営するレーベルRejectedから2009年にリリースされたTech Houseトラック。
 
 A1「Chase The Mouse」は、1978年の映画『Midnight Express／ミッドナイト・エクスプレス』に使用されたGiorgio Moroder(ジョルジオ・モロダー)の『The Chase／チェイス』をサンプリングしている。
 
