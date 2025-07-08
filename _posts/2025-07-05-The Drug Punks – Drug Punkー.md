@@ -3,7 +3,7 @@ layout: post
 title:  "The Drug Punks – Drug Punk"
 author: mmr
 categories: [ Vinyl ]
-tags: [  Electroclash, Electro House, 00s ]
+tags: [ Electroclash, Electro House, 00s ]
 image: ../assets/images/The Drug Punks – Drug Punk.jpg
 ---
 
