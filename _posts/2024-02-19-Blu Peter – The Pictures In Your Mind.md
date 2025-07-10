@@ -7,11 +7,9 @@ tags: [ Trance, 90s ]
 image: ../assets/images/Blu Peter – The Pictures In Your Mind.jpg
 ---
 
-Blu PeterことPeter Harrisは、ウェールズ、ニース出身。
+Blu Peter こと Peter Harris(ピーター・ハリス)は、南ウェールズ出身のイギリスのエレクトロニックダンスミュージックプロデューサー&DJ。1990年代初頭は、ロンドンの有名なクラブHeaven and Turnmillsでレジデントを務め、1990年代後半にはnu-NRG/ Hard NRGシーンで活躍した。
 
-1988年からヘブンナイトクラブのバーテンダーとして働き、その間にチャンスをつかみ、90年代半ばにガレージのレジデントDJとなりました。
-
-この「The Pictures In Your Mind」は、UKのレーベルReactから1996年にリリースされました。
+「The Pictures In Your Mind」は、1996年にUKのレーベルReactからリリースされたTranceトラック。90年代中盤のUKトランスシーンを代表する一曲であり、特にB1のKadocによるremixは現在でもクラシックと評価されている。
 
 #### Tracklist
 ```md
