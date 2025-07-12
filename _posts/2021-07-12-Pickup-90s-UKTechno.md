@@ -4,15 +4,15 @@ title:  "90年代のUKテクノ作品をピックアップ"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pickup, UKTechno, 90s ]
-image: ../assets/images/The Cage Featuring Nona Hendryx – Do What Ya Wanna Do.jpg
+image: ../assets/images/pickup-90s-uktechno.webp
 ---
 
 当サイト内に掲載されている90年代のUKテクノ作品をピックアップしました👇
 
 #### 📀90s UK テクノ・クラシック一覧
 
-Justin - Berkovi – Fast - Wide E.P.
-<a href="https://monumental-movement.jp/Justin-Berkovi-Fast-Wide-E.P/" />
+##### Justin - Berkovi – Fast - Wide E.P.
+<img src="../assets/images/Justin-Berkovi-Fast-Wide-E.P.jpg">
 
 リリース年：1998年
 
@@ -24,19 +24,19 @@ UK・Cloned - Vinylよりリリースされた4トラックのEP。A面に「Bru
 
 [メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
-Autechre – Envane
+##### Autechre – Envane
 リリース年：1997年
 
 ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
 m.m.r
 
-Luke - Slater – Freek - Funk
+##### Luke - Slater – Freek - Funk
 リリース年：1997年
 
 UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
 m.m.r
 
-D.O.M. – Acid War (Liberator DJs RMX)
+##### D.O.M. – Acid War (Liberator DJs RMX)
 リリース年：1995年（オリジナル），リミックス盤は2006年
 
 UKのJon Nuccle／Mike Humphriesのデュオによるアシッド・テクノ・リミックス
@@ -47,7 +47,7 @@ m.m.r
 m.m.r
 +10
 
-Surgeon – “Communications” & “Dry”
+##### Surgeon – “Communications” & “Dry”
 
 Communications：1996年、Downwards（UK）からSurgeonの1stアルバム。レジス／Femaleのサポートでリリース
 
@@ -60,21 +60,10 @@ Dry：1999年、Surgeon名義の強烈なテクノ・トラック
 その他注目作品
 （UK原産とされるか、UK活動があるもの）
 
-Cubic - 22 – Night - In - Motion（1991年）– ベルギー出身ながら90年代UKレイブでもヒット
-m.m.r
-+9
-m.m.r
-+9
-m.m.r
-+9
+##### Cubic - 22 – Night - In - Motion（1991年）– ベルギー出身ながら90年代UKレイブでもヒット
 
-Hypnotist – House Is Mine ’92（1992年）– UKテクノユニットによるハードコア・テクノ
-m.m.r
-+8
-m.m.r
-+8
-m.m.r
-+8
+##### Hypnotist – House Is Mine ’92（1992年）– UKテクノユニットによるハードコア・テクノ
+
 
 ✅まとめ表
 アーティスト/タイトル	年代	形式	特徴
