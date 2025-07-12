@@ -113,3 +113,13 @@ Dry：1999年、Surgeon名義の強烈なテクノ・トラック
 
 
 
+| アーティスト/タイトル                       | 年代   | 形式       | 特徴                   |
+| --------------------------------- | ---- | -------- | -------------------- |
+| Justin Berkovi – *Fast Wide E.P.* | 1998 | EP (12") | UKクラブテクノ             |
+| Autechre – *Envane*               | 1997 | CD       | 実験的エレクトロ／テクノ         |
+| Luke Slater – *Freek Funk*        | 1997 | CD       | エレクトロニカとの境界を行くUKテクノ  |
+| D.O.M. – *Acid War (Remixes)*     | 1995 | 12"      | UKアシッド・テクノ           |
+| Surgeon – *Communications*        | 1996 | LP       | 荒々しいUKアンダーグラウンドテクノ   |
+| Surgeon – *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ |
+| Cubic 22 – *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット    |
+| Hypnotist – *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ   |
