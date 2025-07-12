@@ -35,6 +35,7 @@ B2. Neon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 
+<hr>
 
 ### Autechre – Envane
 
@@ -43,12 +44,19 @@ B2. Neon
 ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
 
 
+
+<hr>
+
+
 ### Luke - Slater – Freek - Funk
 
 リリース年：1997年
 
 UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
 
+
+
+<hr>
 
 ### D.O.M. – Acid War (Liberator DJs RMX)
 リリース年：1995年（オリジナル），リミックス盤は2006年
