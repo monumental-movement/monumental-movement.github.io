@@ -7,7 +7,7 @@ tags: [ Pickup, UK Techno, 90s ]
 image: ../assets/images/pickup-90s-uktechno.webp
 ---
 
-当サイト内に掲載されている90年代のUKテクノ作品をピックアップしました👇
+当サイト内に掲載されている90年代のUKテクノ作品をピックアップ👇
 
 ### Justin - Berkovi – Fast - Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.jpg"></a>
@@ -38,12 +38,26 @@ B2. Neon
 <hr>
 
 ### Autechre – Envane
+<a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.jpg"></a>
 
 リリース年：1997年
 
 ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
 
+#### Tracklist
+```md
+1. Goz Quarter
 
+2. Latent Quarter
+
+3. Laughing Quarter
+
+4. Draun Quarter
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
