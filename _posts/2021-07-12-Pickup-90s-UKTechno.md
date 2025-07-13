@@ -64,6 +64,7 @@ B2. Neon
 
 ### Luke Slater – Freek - Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.jpg"></a>
+
 リリース年：1997年
 
 UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
@@ -97,6 +98,7 @@ UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90�
 
 ### D.O.M. – Acid War (Liberator DJs RMX)
 <a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).jpg"></a>
+
 リリース年：1995年（オリジナル），リミックス盤は2006年
 
 UKのJon Nuccle／Mike Humphriesのデュオによるアシッド・テクノ・リミックス
@@ -114,7 +116,7 @@ A.  Acid War (Liberator DJs RMX)
 <hr>
 
 ### Surgeon – Communications
-<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).jpg"></a>
+<a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.jpg"></a>
 
 リリース年：1996年
 
@@ -122,84 +124,85 @@ Downwards（UK）からSurgeonの1stアルバム。レジス／Femaleのサポ�
 
 #### Tracklist
 ```md
-1. Goz Quarter
+A. Syllable
 
-2. Latent Quarter
+B1. Cable
+B2. Wire
 
-3. Laughing Quarter
+C. Wave
 
-4. Draun Quarter
+D1. Particle
+D2. Optic
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <hr>
 Surgeon – Dry
+<a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.jpg"></a>
 
 リリース年：1999年
 
 Surgeon名義の強烈なテクノ・トラック
 
-[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
-
-その他注目作品
-（UK原産とされるか、UK活動があるもの）
 
 #### Tracklist
 ```md
-1. Goz Quarter
+A1. Untitled
+A2. Untitled
 
-2. Latent Quarter
-
-3. Laughing Quarter
-
-4. Draun Quarter
+B1. Untitled
+B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
+#### その他注目作品
+（UK原産とされるか、UK活動があるもの）
+
 ### Cubic 22 – Night - In - Motion
+<a href="https://jp.mercari.com/item/m67423879835?afid=6142608987"><img src="../assets/images/Cubic%2022%20%E2%80%93%20Night%20In%20Motion.jpg"></a>
 
 リリース年：1991年 ベルギー出身ながら90年代UKレイブでもヒット
 
 #### Tracklist
 ```md
-1. Goz Quarter
+A1. Night In Motion (Original Mix)
+A2. Night In Motion (Nick's Relocated Remix)
 
-2. Latent Quarter
-
-3. Laughing Quarter
-
-4. Draun Quarter
+AA1. Night In Motion (Battle Plan Remix)
+AA2. Night In Motion (Drum And Bass Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
 
 <hr>
 
 ### Hypnotist – House Is Mine ’92
+<a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.jpg"></a>
 
 リリース年：1992年 UKテクノユニットによるハードコア・テクノ
 
 #### Tracklist
 ```md
-1. Goz Quarter
+A. The House Is Mine '92 (Original)
 
-2. Latent Quarter
-
-3. Laughing Quarter
-
-4. Draun Quarter
+B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
 
 ## まとめ表✅
 
-
+<div class="tb01">
+	
 | アーティスト/タイトル                       | 年代   | 形式       | 特徴                   |
 | --------------------------------- | ---- | -------- | -------------------- |
 | Justin Berkovi <br> *Fast Wide E.P.* | 1998 | EP (12") | UKクラブテクノ             |
@@ -210,3 +213,5 @@ Surgeon名義の強烈なテクノ・トラック
 | Surgeon <br> *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ |
 | Cubic 22 <br> *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット    |
 | Hypnotist <br> *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ   |
+
+</div>
