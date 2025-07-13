@@ -140,7 +140,8 @@ D2. Optic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
-Surgeon – Dry
+
+### Surgeon – Dry
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.jpg"></a>
 
 リリース年：1999年
@@ -201,17 +202,15 @@ B. The House Is Mine '92 (Westbam Remix)
 
 ## まとめ表✅
 
-<div class="tb01">
 
-アーティスト/タイトル                       | 年代   | 形式       | 特徴                  
---------------------------------- | ---- | -------- | --------------------
-Justin Berkovi <br> *Fast Wide E.P.* | 1998 | EP (12") | UKクラブテクノ          
-Autechre <br> *Envane*               | 1997 | CD       | 実験的エレクトロ／テクノ        
-Luke Slater <br> *Freek Funk*        | 1997 | CD       | エレクトロニカとの境界を行くUKテクノ
-D.O.M. <br> *Acid War (Remixes)*     | 1995 | 12"      | UKアシッド・テクノ         
-Surgeon <br> *Communications*        | 1996 | LP       | 荒々しいUKアンダーグラウンドテクノ  
-Surgeon <br> *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ
-Cubic 22 <br> *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット
-Hypnotist <br> *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ
+| アーティスト/タイトル                       | 年代   | 形式       | 特徴                   |
+| --------------------------------- | ---- | -------- | -------------------- |
+| Justin Berkovi <br> *Fast Wide E.P.* | 1998 | EP (12") | UKクラブテクノ             |
+| Autechre <br> *Envane*               | 1997 | CD       | 実験的エレクトロ／テクノ         |
+| Luke Slater <br> *Freek Funk*        | 1997 | CD       | エレクトロニカとの境界を行くUKテクノ  |
+| D.O.M. <br> *Acid War (Remixes)*     | 1995 | 12"      | UKアシッド・テクノ           |
+| Surgeon <br> *Communications*        | 1996 | LP       | 荒々しいUKアンダーグラウンドテクノ   |
+| Surgeon <br> *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ |
+| Cubic 22 <br> *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット    |
+| Hypnotist <br> *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ   |
 
-</div>
