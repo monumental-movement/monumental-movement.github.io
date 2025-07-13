@@ -7,7 +7,7 @@ tags: [ Pickup, UK Techno, 90s ]
 image: ../assets/images/pickup-90s-uktechno.webp
 ---
 
-注目すべき90年代のUKテクノ作品を
+注目すべき90年代のUKテクノ作品
 
 ### Justin Berkovi – Fast - Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.jpg"></a>
