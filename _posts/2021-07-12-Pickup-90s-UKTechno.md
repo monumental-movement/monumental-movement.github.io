@@ -203,7 +203,6 @@ B. The House Is Mine '92 (Westbam Remix)
 
 ## まとめリスト
 
-<div class="table">
 
 | アーティスト/タイトル                       | 年代   | 形式       | 特徴                   |
 | --------------------------------- | ---- | -------- | -------------------- |
@@ -215,5 +214,3 @@ B. The House Is Mine '92 (Westbam Remix)
 | 📀Surgeon <br>- *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ |
 | 📀Cubic 22 <br>- *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット    |
 | 📀Hypnotist <br>- *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ   |
-
-</div>
