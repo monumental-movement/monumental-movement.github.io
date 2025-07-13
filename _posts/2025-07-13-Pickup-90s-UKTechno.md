@@ -7,12 +7,12 @@ tags: [ Pickup, UK Techno, 90s ]
 image: ../assets/images/pickup-90s-uktechno.webp
 ---
 
-当サイト内に掲載されている90年代のUKテクノ作品をピックアップ👇
+注目すべき90年代のUKテクノ作品を
 
 ### Justin Berkovi – Fast - Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.jpg"></a>
 
-リリース年：1998年
+Released：1998年
 
 UK・Cloned - Vinylよりリリースされた4トラックのEP。A面に「Brutal - City」「Risk - Rumblin’」、B面に「Steadycam」「Neon」
 
@@ -40,7 +40,7 @@ B2. Neon
 ### Autechre – Envane
 <a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.jpg"></a>
 
-リリース年：1997年
+Released：1997年
 
 ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
 
@@ -65,7 +65,7 @@ B2. Neon
 ### Luke Slater – Freek - Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.jpg"></a>
 
-リリース年：1997年
+Released：1997年
 
 UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
 
@@ -99,7 +99,7 @@ UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90�
 ### D.O.M. – Acid War (Liberator DJs RMX)
 <a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).jpg"></a>
 
-リリース年：1995年（オリジナル），リミックス盤は2006年
+Released：1995年（オリジナル），リミックス盤は2006年
 
 UKのJon Nuccle／Mike Humphriesのデュオによるアシッド・テクノ・リミックス
 
@@ -118,7 +118,7 @@ A.  Acid War (Liberator DJs RMX)
 ### Surgeon – Communications
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.jpg"></a>
 
-リリース年：1996年
+Released：1996年
 
 Downwards（UK）からSurgeonの1stアルバム。レジス／Femaleのサポートでリリース
 
@@ -144,7 +144,7 @@ D2. Optic
 ### Surgeon – Dry
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.jpg"></a>
 
-リリース年：1999年
+Released：1999年
 
 Surgeon名義の強烈なテクノ・トラック
 
@@ -164,31 +164,10 @@ B2. Untitled
 
 <hr>
 
-#### その他注目作品
-（UK原産とされるか、UK活動があるもの）
-
-### Cubic 22 – Night - In - Motion
-<a href="https://jp.mercari.com/item/m67423879835?afid=6142608987"><img src="../assets/images/Cubic%2022%20%E2%80%93%20Night%20In%20Motion.jpg"></a>
-
-リリース年：1991年 ベルギー出身ながら90年代UKレイブでもヒット
-
-#### Tracklist
-```md
-A1. Night In Motion (Original Mix)
-A2. Night In Motion (Nick's Relocated Remix)
-
-AA1. Night In Motion (Battle Plan Remix)
-AA2. Night In Motion (Drum And Bass Dub)
-```
-
-[メルカリで購入](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
-
-<hr>
-
 ### Hypnotist – House Is Mine ’92
 <a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.jpg"></a>
 
-リリース年：1992年 UKテクノユニットによるハードコア・テクノ
+Released：1992年 UKテクノユニットによるハードコア・テクノ
 
 #### Tracklist
 ```md
@@ -201,7 +180,7 @@ B. The House Is Mine '92 (Westbam Remix)
 
 
 
-### まとめリスト
+### List
 
 <div class="table-border">
 <table>
@@ -215,49 +194,43 @@ B. The House Is Mine '92 (Westbam Remix)
   </thead>
   <tbody>
     <tr>
-      <td>📀Justin Berkovi <br />- <em>Fast Wide E.P.</em></td>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">📀Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
       <td>1998</td>
-      <td>EP (12”)</td>
+      <td>12”</td>
       <td>UKクラブテクノ</td>
     </tr>
     <tr>
-      <td>📀Autechre <br />- <em>Envane</em></td>
+      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">📀Autechre <br />- <em>Envane</em></a></td>
       <td>1997</td>
       <td>CD</td>
       <td>実験的エレクトロ／テクノ</td>
     </tr>
     <tr>
-      <td>📀Luke Slater <br />- <em>Freek Funk</em></td>
+      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">📀Luke Slater <br />- <em>Freek Funk</em></a></td>
       <td>1997</td>
       <td>CD</td>
       <td>エレクトロニカとの境界を行くUKテクノ</td>
     </tr>
     <tr>
-      <td>📀D.O.M. <br />- <em>Acid War (Remixes)</em></td>
+      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">📀D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
       <td>1995</td>
       <td>12”</td>
       <td>UKアシッド・テクノ</td>
     </tr>
     <tr>
-      <td>📀Surgeon <br />- <em>Communications</em></td>
+      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">📀Surgeon <br />- <em>Communications</em></a></td>
       <td>1996</td>
       <td>LP</td>
       <td>荒々しいUKアンダーグラウンドテクノ</td>
     </tr>
     <tr>
-      <td>📀Surgeon <br />- <em>Dry</em></td>
+      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">📀Surgeon <br />- <em>Dry</em></a></td>
       <td>1999</td>
       <td>12”</td>
       <td>ミニマル～アンダーグラウンドなUKテクノ</td>
     </tr>
     <tr>
-      <td>📀<a href="https://jp.mercari.com/item/m67423879835?afid=6142608987">Cubic 22 <br />- <em>Night In Motion</em></a></td>
-      <td>1991</td>
-      <td>12”</td>
-      <td>レイブ/ハードコア寄りのUKヒット</td>
-    </tr>
-    <tr>
-      <td>📀Hypnotist <br />- <em>House Is Mine ’92</em></td>
+      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">📀Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
       <td>1992</td>
       <td>12”</td>
       <td>UKダンスフロア向けハードコアテクノ</td>
