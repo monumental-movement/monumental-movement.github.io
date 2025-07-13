@@ -836,33 +836,24 @@ iframe {
     }
 }
 
-table{
-  border-collapse: collapse;
-  width: 100%;
-}
-.tr th,
-.tr td{
-  padding: 10px;
-  border: solid 1px #ccc;
-  text-align:center;
-  box-sizing:border-box;
-}
-.tr th {
-  background: #ff7bac;
-  color: #fff;
-  
-}
-@media screen and (max-width: 640px) {
-  .tr {
+.table {
     width: 100%;
-  }
-  table.tr th,
-  table.tr td {
-    display: block;
-    width: 100%;
-    border-bottom:none;
-  }
-  .tr:last-child{
-    border-bottom: solid 1px #ccc;
-  }
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 0;
+    color: #353535;
+}
+
+.table thead {
+    background: #d3e1e8;
+}
+
+.table th,
+.table td {
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+.table tr:nth-child(2n) td {
+    background-color: #efefef;
 }
