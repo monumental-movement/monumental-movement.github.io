@@ -203,6 +203,7 @@ B. The House Is Mine '92 (Westbam Remix)
 
 ### まとめリスト
 
+<div class="table-border">
 <table>
   <thead>
     <tr>
@@ -263,3 +264,4 @@ B. The House Is Mine '92 (Westbam Remix)
     </tr>
   </tbody>
 </table>
+</div>
