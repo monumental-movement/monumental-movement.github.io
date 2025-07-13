@@ -206,12 +206,12 @@ B. The House Is Mine '92 (Westbam Remix)
 
 | アーティスト/タイトル                       | 年代   | 形式       | 特徴                   |
 | --------------------------------- | ---- | -------- | -------------------- |
-| 📀Justin Berkovi <br> *Fast Wide E.P.* | 1998 | EP (12") | UKクラブテクノ             |
-| 📀Autechre <br> *Envane*               | 1997 | CD       | 実験的エレクトロ／テクノ         |
-| 📀Luke Slater <br> *Freek Funk*        | 1997 | CD       | エレクトロニカとの境界を行くUKテクノ  |
-| 📀D.O.M. <br> *Acid War (Remixes)*     | 1995 | 12"      | UKアシッド・テクノ           |
-| 📀Surgeon <br> *Communications*        | 1996 | LP       | 荒々しいUKアンダーグラウンドテクノ   |
-| 📀Surgeon <br> *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ |
-| 📀Cubic 22 <br> *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット    |
-| 📀Hypnotist <br> *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ   |
+| 📀Justin Berkovi <br>- *Fast Wide E.P.* | 1998 | EP (12") | UKクラブテクノ             |
+| 📀Autechre <br>- *Envane*               | 1997 | CD       | 実験的エレクトロ／テクノ         |
+| 📀Luke Slater <br>- *Freek Funk*        | 1997 | CD       | エレクトロニカとの境界を行くUKテクノ  |
+| 📀D.O.M. <br>- *Acid War (Remixes)*     | 1995 | 12"      | UKアシッド・テクノ           |
+| 📀Surgeon <br>- *Communications*        | 1996 | LP       | 荒々しいUKアンダーグラウンドテクノ   |
+| 📀Surgeon <br>- *Dry*                   | 1999 | 12"      | ミニマル～アンダーグラウンドなUKテクノ |
+| 📀Cubic 22 <br>- *Night In Motion*      | 1991 | 12"      | レイブ/ハードコア寄りのUKヒット    |
+| 📀Hypnotist <br>- *House Is Mine ’92*   | 1992 | 12"      | UKダンスフロア向けハードコアテクノ   |
 
