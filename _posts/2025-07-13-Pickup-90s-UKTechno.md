@@ -178,7 +178,9 @@ B. The House Is Mine '92 (Westbam Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<hr>
 
 ### List
 
@@ -194,43 +196,43 @@ B. The House Is Mine '92 (Westbam Remix)
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">📀Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
       <td>1998</td>
       <td>12”</td>
       <td>UKクラブテクノ</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">📀Autechre <br />- <em>Envane</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
       <td>1997</td>
       <td>CD</td>
       <td>実験的エレクトロ／テクノ</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">📀Luke Slater <br />- <em>Freek Funk</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
       <td>1997</td>
       <td>CD</td>
       <td>エレクトロニカとの境界を行くUKテクノ</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">📀D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
       <td>1995</td>
       <td>12”</td>
       <td>UKアシッド・テクノ</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">📀Surgeon <br />- <em>Communications</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
       <td>1996</td>
       <td>LP</td>
       <td>荒々しいUKアンダーグラウンドテクノ</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">📀Surgeon <br />- <em>Dry</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
       <td>1999</td>
       <td>12”</td>
       <td>ミニマル～アンダーグラウンドなUKテクノ</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">📀Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
       <td>1992</td>
       <td>12”</td>
       <td>UKダンスフロア向けハードコアテクノ</td>
