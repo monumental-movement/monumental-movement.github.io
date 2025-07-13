@@ -2,8 +2,8 @@
 layout: post
 title:  "90年代のUKテクノ作品をピックアップ"
 author: mmr
-categories: [ Vinyl, CD ]
-tags: [ Pickup, UK Techno, 90s ]
+categories: [ Pickup ]
+tags: [ UK Techno, 90s ]
 image: ../assets/images/pickup-90s-uktechno.webp
 ---
 
