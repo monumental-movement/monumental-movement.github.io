@@ -199,3 +199,67 @@ B. The House Is Mine '92 (Westbam Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
+
+
+### まとめリスト
+
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>形式</th>
+      <th>特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📀Justin Berkovi <br />- <em>Fast Wide E.P.</em></td>
+      <td>1998</td>
+      <td>EP (12”)</td>
+      <td>UKクラブテクノ</td>
+    </tr>
+    <tr>
+      <td>📀Autechre <br />- <em>Envane</em></td>
+      <td>1997</td>
+      <td>CD</td>
+      <td>実験的エレクトロ／テクノ</td>
+    </tr>
+    <tr>
+      <td>📀Luke Slater <br />- <em>Freek Funk</em></td>
+      <td>1997</td>
+      <td>CD</td>
+      <td>エレクトロニカとの境界を行くUKテクノ</td>
+    </tr>
+    <tr>
+      <td>📀D.O.M. <br />- <em>Acid War (Remixes)</em></td>
+      <td>1995</td>
+      <td>12”</td>
+      <td>UKアシッド・テクノ</td>
+    </tr>
+    <tr>
+      <td>📀Surgeon <br />- <em>Communications</em></td>
+      <td>1996</td>
+      <td>LP</td>
+      <td>荒々しいUKアンダーグラウンドテクノ</td>
+    </tr>
+    <tr>
+      <td>📀Surgeon <br />- <em>Dry</em></td>
+      <td>1999</td>
+      <td>12”</td>
+      <td>ミニマル～アンダーグラウンドなUKテクノ</td>
+    </tr>
+    <tr>
+      <td>📀<a href="https://jp.mercari.com/item/m67423879835?afid=6142608987">Cubic 22 <br />- <em>Night In Motion</em></a></td>
+      <td>1991</td>
+      <td>12”</td>
+      <td>レイブ/ハードコア寄りのUKヒット</td>
+    </tr>
+    <tr>
+      <td>📀Hypnotist <br />- <em>House Is Mine ’92</em></td>
+      <td>1992</td>
+      <td>12”</td>
+      <td>UKダンスフロア向けハードコアテクノ</td>
+    </tr>
+  </tbody>
+</table>
