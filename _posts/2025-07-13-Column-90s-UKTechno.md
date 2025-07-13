@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 UKテクノの黄金時代"
 author: mmr
 categories: [ Column ]
-tags: [ Column, UK Techno, 90s ]
+tags: [ UK Techno, 90s ]
 image: ../assets/images/column-90s-uktechno.webp
 ---
 
@@ -21,18 +21,23 @@ image: ../assets/images/column-90s-uktechno.webp
 
 ### ■ 主要アーティスト：革新者たちの系譜
 ● The Black Dog
+
 インテリジェント・テクノ（IDM）の先駆者。デトロイトの影響を受けつつも、よりダークで知的なサウンドを展開。Warp Recordsからリリースされた『Bytes』（1993年）は象徴的。
 
 ● Surgeon（アンソニー・チャイルド）
+
 バーミンガム・テクノの旗手。ハードでインダストリアル、そしてソリッド。TresorやDownwardsからのリリースで名を上げ、現在でもUKテクノの中核にいる。
 
 ● Luke Slater
+
 Planetary Assault Systems名義で知られる。ハードでありながらもファンキーなテクノを展開し、90年代後半にはNovaMuteなどからもリリース。
 
 ● Regis & British Murder Boys
+
 UKのインダストリアル・テクノの核心人物。RegisはDownwardsレーベルを設立し、バーミンガム独自のディストピア・サウンドを確立。
 
 ● Autechre
+
 純粋なテクノというよりIDMだが、Warp Recordsと共にUKテクノの知的側面を象徴。『Incunabula』『Amber』などは90年代を代表する作品。
 
 ### ■ 注目レーベル：UKテクノの母胎
