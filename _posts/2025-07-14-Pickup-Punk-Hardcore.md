@@ -3,11 +3,11 @@ layout: post
 title:  "パンク／ハードコア作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ UK Techno, 90s ]
+tags: [ Punk, Hardcore ]
 image: ../assets/images/pickup-punk-hardcore.webp
 ---
 
-注目すべきパンク／ハードコア作品作品
+注目すべきパンク／ハードコア作品
 
 ### Snuff – Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.jpg"></a>
@@ -39,7 +39,7 @@ B6. In Sickness & In Health
 
 <hr>
 
-### The Gang - Barricada Rumble Beat (Vinyl, Hardcore Punk)
+### The Gang - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.jpg"></a>
 
 
