@@ -9,7 +9,7 @@ image: ../assets/images/column-drum-and-bass.webp
 
 ## Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学
 
-文：mmr｜ジャンル：コラム｜テーマ：Drum & Bass・ジャングル・UKサウンド
+文：mmr｜テーマ：Drum & Bass・ジャングル・UKサウンド
 
 ### 都市が産んだハイブリッド・ビート
 
