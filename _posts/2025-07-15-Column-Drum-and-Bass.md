@@ -77,7 +77,7 @@ DJ Hype / Ganja Kru：ジャンプアップ系サウンドの代表格。
   </tbody>
 </table>
 </div>
-
+<br>
 
 ### サブジャンル：多彩な顔を持つD&Bの世界
 
