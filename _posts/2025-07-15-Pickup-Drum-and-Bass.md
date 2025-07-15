@@ -1,136 +1,168 @@
 ---
 layout: post
-title:  "パンク／ハードコア作品をピックアップ"
+title:  "ドラムンベース作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Punk, Hardcore ]
-image: ../assets/images/pickup-punk-hardcore.webp
+tags: [ Drum N Bass, Jungle ]
+image: ../assets/images/pickup-drum-and-bass.webp
 ---
 
-注目すべきパンク／ハードコア作品
+注目すべきドラムンベース作品
 
-### Snuff – Flibbiddydibbiddydob
-<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.jpg"></a>
 
-イギリスのパンクバンドによるカバーEP。もとは1990年、再リリースは1996年
+Aquasky – Nylon Roadster / Cosmic Glue
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.jp"></a>
+1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
 #### Tracklist
 ```md
-A1. Rods & Mockers
-A2. Do Nothing
-A3. Shake 'N' Black
-A4. Can't Explain
-A5. Ecstasy
+X. Nylon Roadster
 
-B1. Reach Out
-B2. Hazy Shade Of Winter
-B3. Do It Quick
-B4. City Baby Attacked By Rats
-B5. Bran Flakes
-B6. In Sickness & In Health
+Y. Cosmic Glue
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=mzzX-VZTSz4bUWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### The Gang - Barricada Rumble Beat
-<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.jpg"></a>
+Aquasky – Tranquility / Kauna
+<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.jpg"></a>
 
-
-イタリア出身パンクバンドの作品。UKのBilly Braggが一部参加した珍しい一枚
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
 #### Tracklist
 ```md
-A1. Goin’ To The Crossroads
-A2. Blue Message
-A3. Clyde Warrior & Jessy Colt
-A4. Don’t Turn Your Back
-A5. Warrior Poet
-A6. Junco Partner
+X. Nylon Roadster
 
-B1. Against Power - Dollar
-B2. Rumble Beat
-B3. Song Of The Prisoner
-B4. Midnight Serenade
-B5. Bad News From Swing Street
-B6. Not For Sale
+Y. Cosmic Glue
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner　
-<a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.jpg"></a>
 
-フィンランドのハードコア／スラッシュ系バンド作品
+Dillinja – Fluid / Hard Noize
+<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.jpg"></a>
+
+迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
 #### Tracklist
 ```md
-A1. They
-A2. How Much Longer
-A3. Friends Of The Past
-A4. Threat
-A5. Reality Of War
-A6. Disease Of Mankind
-A7. Too Tired To Preach
-A8. Tomorrow - Brings The Sorrow
-A9. Fear...
-A10. Selfish Pit
+A. Hard Noize
 
-B1. Don't Ask
-B2. No Warheroes
-B3. Against What
-B4. Lost Testament
-B5. Go Die
-B6. Grind The Bastards Down
-B7. 6655321
-B8. Goreality
-B9. Starving Dog Eats Master
-B10. Money Rules The Fools
-B11. Spice-Song
-
+AA. Fluid
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
-### Friction – 軋轢
-<a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.jpg"></a>
+Motiv One – Cosmik / Loop Progression
+<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.jpg"></a>
 
-日本の先駆的パンクバンドFrictionの1980年作（CD）
+軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
 
 #### Tracklist
 ```md
-1. A-Gas
-2. オートマチック・フラ 
-3. I Can Tell
-4. 100年 100 Nen
-5. Crazy Dream
-6. Cycle Dance
-7. Cool Fool
-8. No Thrill
-9. Big-S
-10. Out
+A. Cosmik
+
+AA. Loop Progression
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
+Drumagick – Cambraia / Brasil
+
+<a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.jpg"></a>
+
+ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
+
+#### Tracklist
+```md
+A. Cambraia
+
+B. Brasil
+```
+
+
+[メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+
+Aaron Spectre – Amen, Punk
+
+パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
+<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.jpg"></a>
+
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
+
+#### Tracklist
+```md
+A. 1600 Penn, FTW
+
+B1. Pay To Cum VIP
+B2. You Don't Know
+```
+
+
+[メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
+
+DJ Gilb‑R – Pressure (Vinyl, 90s Drum n Bass/Electronic Techno)
+1997年フランスリリース。Laurent Garnierリミックスも収録。
+<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.jpg"></a>
+
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
+
+#### Tracklist
+```md
+A. Pressure (Original Mix)
+
+AA. Pressure (Laurentlaboratoiral'ancienne Mix) 
+
+Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
+```
+
+
+[メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr>
 
 ### List
 
@@ -146,28 +178,39 @@ B11. Spice-Song
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Snuff  <br />– <em>Flibbiddydibbiddydob</em></a></td>
-      <td>1996</td>
+      <td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky  <br />– <em>Nylon Roadster / Cosmic Glue</em></a></td>
       <td>12”</td>
-      <td>英パンク</td>
+      <td>滑らかで感情的なピアノ系ドラムンベース（96–97）</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">The Gang <br />- <em>Barricada Rumble Beat</em></a></td>
-      <td>1987</td>
-      <td>LP</td>
-      <td>イタリアハードコアパンク</td>
+      <td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquility / Kauna</em></a></td>
+      <td>12”</td>
+      <td>アシッドブレイクと感触的ドラムンベース（96）</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amen <br />- <em>The End Of Evolution... Is Round The Corner</em></a></td>
-      <td>1997</td>
-      <td>LP</td>
-      <td>フィンランドハードコア／スラッシュ</td>
+      <td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Fluid / Hard Noize</em></a></td>
+      <td>12”</td>
+      <td>Reeseべース主体のアグレッシブD\&B</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>軋轢</em></a></td>
-      <td>1980</td>
-      <td>CD</td>
-      <td>日本パンク</td>
+      <td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Loop Progression</em></a></td>
+      <td>12”</td>
+      <td>ジャジーで未来的なアーメンビート中心のトラック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
+      <td>12”</td>
+      <td>ラテン／ジャズ色のあるブラジリアンD\&B（2000s）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amen, Punk</em></a></td>
+      <td>12”</td>
+      <td>パンク的エッジを持つジャングル／ドラムンベース（2023）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Pressure</em></a></td>
+      <td>12”</td>
+      <td>90年代フランス産ブレンドD\&B＋テクノ（97）</td>
     </tr>
   </tbody>
 </table>
