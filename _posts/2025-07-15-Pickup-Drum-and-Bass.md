@@ -11,7 +11,7 @@ image: ../assets/images/pickup-drum-and-bass.webp
 
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
-<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.jp"></a>
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.jpg"></a>
 1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
 #### Tracklist
