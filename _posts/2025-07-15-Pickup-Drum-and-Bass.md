@@ -139,7 +139,7 @@ B2. You Don't Know
 
 <hr>
 
-### DJ Gilb‑R – Pressure (Vinyl, 90s Drum n Bass/Electronic Techno)
+### DJ Gilb‑R – Pressure
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.jpg"></a>
 
 1997年フランスリリース。Laurent Garnierリミックスも収録。
