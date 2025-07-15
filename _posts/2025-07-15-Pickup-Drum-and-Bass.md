@@ -10,7 +10,7 @@ image: ../assets/images/pickup-drum-and-bass.webp
 注目すべきドラムンベース作品
 
 
-Aquasky – Nylon Roadster / Cosmic Glue
+### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.jp"></a>
 1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
@@ -30,7 +30,7 @@ Y. Cosmic Glue
 
 <hr>
 
-Aquasky – Tranquility / Kauna
+### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.jpg"></a>
 
 1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
@@ -52,7 +52,7 @@ Y. Cosmic Glue
 <hr>
 
 
-Dillinja – Fluid / Hard Noize
+### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.jpg"></a>
 
 迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
@@ -73,7 +73,7 @@ AA. Fluid
 
 <hr>
 
-Motiv One – Cosmik / Loop Progression
+### Motiv One – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.jpg"></a>
 
 軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
@@ -94,7 +94,7 @@ AA. Loop Progression
 
 <hr>
 
-Drumagick – Cambraia / Brasil
+### Drumagick – Cambraia / Brasil
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.jpg"></a>
 
@@ -116,12 +116,11 @@ B. Brasil
 
 <hr>
 
-Aaron Spectre – Amen, Punk
+### Aaron Spectre – Amen, Punk
 
-パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.jpg"></a>
 
-1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
+パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 
 #### Tracklist
 ```md
@@ -140,11 +139,10 @@ B2. You Don't Know
 
 <hr>
 
-DJ Gilb‑R – Pressure (Vinyl, 90s Drum n Bass/Electronic Techno)
-1997年フランスリリース。Laurent Garnierリミックスも収録。
+### DJ Gilb‑R – Pressure (Vinyl, 90s Drum n Bass/Electronic Techno)
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.jpg"></a>
 
-1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
+1997年フランスリリース。Laurent Garnierリミックスも収録。
 
 #### Tracklist
 ```md
@@ -171,7 +169,6 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
   <thead>
     <tr>
       <th>アーティスト/タイトル</th>
-      <th>年代</th>
       <th>形式</th>
       <th>特徴</th>
     </tr>
