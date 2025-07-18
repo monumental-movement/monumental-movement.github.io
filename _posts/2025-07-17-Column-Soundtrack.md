@@ -182,38 +182,38 @@ CDで聴くと新しい発見があるスコア（例：Thomas Newmanの音楽�
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Jerry Goldsmith</a></td>
-      <td>A　Patch　Of　Blue</td>
+      <td>Jerry Goldsmith</td>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">A Patch Of Blue</a></td>
       <td>1965年 映画スコア（78年再発）</td>
       <td>Cassette</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">VA</a></td>
-      <td>Tank　Girl</td>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Tank Girl</a></td>
       <td>1995年 映画サントラ</td>
       <td>CD</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">久石譲 (Joe Hisaishi)</a></td>
-      <td>BRAIN&MIND サウンドトラック Vol.1</td>
+      <td>久石譲 (Joe Hisaishi)</td>
+      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">BRAIN&MIND サウンドトラック Vol.1</a></td>
       <td>1993年 NHKスペシャル</td>
       <td>CD</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Thomas Newman</a></td>
-      <td>Scent　Of　A　Woman</td>
+      <td>Thomas Newman</td>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Scent Of A Woman</a></td>
       <td>1992年 映画サントラ</td>
       <td>Cassette</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Adam Clayton & Larry Mullen</a></td>
-      <td>Theme From Mission: Impossible</td>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Theme From Mission: Impossible</a></td>
       <td>1996年 映画テーマ</td>
       <td>Cassette</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">Ennio Morricone</a></td>
-      <td>Nuovo Cinema Paradiso</td>
+      <td>Ennio Morricone</td>
+      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">Nuovo Cinema Paradiso</a></td>
       <td>1989年 映画サウンドトラック</td>
       <td>CD</td>
     </tr>

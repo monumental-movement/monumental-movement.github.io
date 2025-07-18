@@ -224,13 +224,13 @@ Ennio Morricone – Nuovo　Cinema　Paradiso
   <tbody>
     <tr>
       <td>Jerry Goldsmith</td>
-      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">A　Patch　Of　Blue</a></td>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">A Patch Of Blue</a></td>
       <td>1965年 映画スコア（78年再発）</td>
       <td>Cassette</td>
     </tr>
     <tr>
       <td>VA</td>
-      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Tank　Girl</a></td>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Tank Girl</a></td>
       <td>1995年 映画サントラ</td>
       <td>CD</td>
     </tr>
@@ -242,7 +242,7 @@ Ennio Morricone – Nuovo　Cinema　Paradiso
     </tr>
     <tr>
       <td>Thomas Newman</td>
-      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Scent　Of　A　Woman</a></td>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Scent Of A Woman</a></td>
       <td>1992年 映画サントラ</td>
       <td>Cassette</td>
     </tr>
