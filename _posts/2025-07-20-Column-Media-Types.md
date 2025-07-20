@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【コラム】 音楽メディアの変遷と比較：レコード・カセット・CD・MDの売上、周波数特性、今後の動向、そしてDolby Atmosの登場"
+title:  "【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 -巻き戻しの時代から、無限スキップの時代へ
 author: mmr
 categories: [ Column ]
 tags: [ Euro ]
@@ -8,6 +8,7 @@ image: ../assets/images/column-media-types.webp
 ---
 
 ## 音楽メディアの変遷と比較：レコード・カセット・CD・MDの売上、周波数特性、今後の動向、そしてDolby Atmosの登場
+
 
 文：mmr｜テーマ：音楽メディアの歴史的比較と最新技術展望
 
