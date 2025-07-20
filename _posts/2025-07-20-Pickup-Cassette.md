@@ -9,7 +9,7 @@ image: ../assets/images/pickup-cassette-tape.webp
 
 注目すべきカセットテープ作品
 
-No Artist – Environments (Cassette Two) 
+### No Artist – Environments (Cassette Two) 
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.jpg"></a>
 
 1970年代  フィールド録音／ヒーリング 自然環境を捉えた癒し系サウンドスケープ。
@@ -29,7 +29,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-The Art of Noise – In No Sense Nonsense
+### The Art of Noise – In No Sense Nonsense
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.jpg"></a>
 
 1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
@@ -80,7 +80,7 @@ B16. One Earth
 <hr>
 
 
-Kiss – Rock And Roll Over
+### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.jpg"></a>
 
 1976年 70s ハードロック  日本初版カセット、クールなヴィンテージ。
@@ -109,7 +109,7 @@ B5. Makin' Love
 <hr>
 
 
-Amany & The Badawist – Come on, Bassem
+### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.jpg"></a>
 
 2024年 トライバル／世界音楽  中東・アフリカ系のトライバル音響。
@@ -148,7 +148,7 @@ Come on, Bassem
 <hr>
 
 
-Thomas Newman – Scent Of A Woman
+### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.jpg"></a>
 
 1992年 映画サウンドトラック  名作映画のオリジナルスコア・テープ。
@@ -183,7 +183,7 @@ B7. End Title
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-Adam Clayton & Larry Mullen – Theme From Mission: Impossible
+### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.jpg"></a>
 
 1996年 映画テーマ曲  映画『ミッション・インポッシブル』の公式テープ。
@@ -205,7 +205,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <hr>
 
 
-Dieselboy – The Director’s Cut
+### Dieselboy – The Director’s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.jpg"></a>
 
 2023年 Drum n Bass 米ドラムンベースDJによる強烈ミックス 
@@ -254,7 +254,7 @@ B. Side B
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-Various – The Enjoy! Story
+### Various – The Enjoy! Story
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.jpg"></a>
 
 1990年台？ クラシックヒップホップ Zulu Nation時代の黎明期コンピ 
@@ -305,7 +305,7 @@ D9. Higher Ground – Shake 'Em Up
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-Run‑D.M.C. – King Of Rock
+### Run‑D.M.C. – King Of Rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.jpg"></a>
 
 1985年？  ヒップホップ／ロック融合  ロックとラップの先駆的人気作 
@@ -332,7 +332,7 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-Dr. Dre – Let Me Ride
+### Dr. Dre – Let Me Ride
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.jpg"></a>
 
  1992年 クラシックヒップホップ／Gファンク 西海岸サウンドの代表曲 
