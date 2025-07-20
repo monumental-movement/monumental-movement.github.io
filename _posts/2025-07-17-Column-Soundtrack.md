@@ -183,7 +183,7 @@ CDで聴くと新しい発見があるスコア（例：Thomas Newmanの音楽�
   <tbody>
     <tr>
       <td>Jerry Goldsmith</td>
-      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">A Patch Of Blue</a></td>
+      <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
       <td>1965年 映画スコア（78年再発）</td>
       <td>Cassette</td>
     </tr>
@@ -194,26 +194,14 @@ CDで聴くと新しい発見があるスコア（例：Thomas Newmanの音楽�
       <td>CD</td>
     </tr>
     <tr>
-      <td>久石譲 (Joe Hisaishi)</td>
-      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">BRAIN&MIND サウンドトラック Vol.1</a></td>
-      <td>1993年 NHKスペシャル</td>
-      <td>CD</td>
-    </tr>
-    <tr>
-      <td>Thomas Newman</td>
-      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Scent Of A Woman</a></td>
-      <td>1992年 映画サントラ</td>
-      <td>Cassette</td>
-    </tr>
-    <tr>
       <td>Adam Clayton & Larry Mullen</td>
-      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
       <td>1996年 映画テーマ</td>
       <td>Cassette</td>
     </tr>
     <tr>
       <td>Ennio Morricone</td>
-      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">Nuovo Cinema Paradiso</a></td>
+      <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
       <td>1989年 映画サウンドトラック</td>
       <td>CD</td>
     </tr>
