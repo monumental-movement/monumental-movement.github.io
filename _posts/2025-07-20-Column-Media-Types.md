@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 -巻き戻しの時代から、無限スキップの時代へ
+title:  "【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 -巻き戻しの時代から、無限スキップの時代へ"
 author: mmr
 categories: [ Column ]
 tags: [ Vnyl, CD, Cassette ]
