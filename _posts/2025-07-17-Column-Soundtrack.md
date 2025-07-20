@@ -189,7 +189,7 @@ CDで聴くと新しい発見があるスコア（例：Thomas Newmanの音楽�
     </tr>
     <tr>
       <td>VA</td>
-      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Tank Girl</a></td>
+      <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
       <td>1995年 映画サントラ</td>
       <td>CD</td>
     </tr>
