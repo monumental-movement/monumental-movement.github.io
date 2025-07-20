@@ -368,7 +368,8 @@ Guest– George Clinton
 <table>
   <thead>
     <tr>
-      <th>アーティスト / タイトル</th>
+      <th>アーティスト</th>
+      <th>タイトル</th>
       <th>年代</th>
       <th>ジャンル</th>
       <th>コメント</th>
