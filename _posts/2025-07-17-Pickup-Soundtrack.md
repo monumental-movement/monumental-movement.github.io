@@ -10,10 +10,10 @@ image: ../assets/images/pickup-soundtrack.webp
 注目すべきサウンドトラック作品
 
 
-Jerry　Goldsmith – A　Patch　Of　Blue
+### Jerry　Goldsmith – A　Patch　Of　Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.jpg"></a>
 
-形式：Cassette
+形式：vinyl
 
 作品：1965年公開映画『いつか見た青い空』（A Patch of Blue）のサウンドトラック。1978年再発盤。
 
@@ -51,7 +51,7 @@ B9. Goodbye Selina
 
 
 
-VA – Tank　Girl
+### VA – Tank　Girl
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.jpg"></a>
 
 形式：CD
@@ -82,7 +82,7 @@ VA – Tank　Girl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-Adam　Clayton &　Larry　Mullen – Theme From Mission: Impossible
+### Adam　Clayton &　Larry　Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.jpg"></a>
 
 形式：Cassette
@@ -105,7 +105,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-Ennio Morricone – Nuovo　Cinema　Paradiso
+### Ennio Morricone – Nuovo　Cinema　Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).jpg"></a>
 
 形式：CD
