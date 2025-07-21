@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 音楽メディアとしてのカセットテープ：変遷・種類・周波数特性"
 author: mmr
 categories: [ Column ]
-tags: [ Euro ]
+tags: [ Cassette ]
 image: ../assets/images/column-cassette-tape.webp
 ---
 
