@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 頭文字Dとユーロビートの文化的関係"
 author: mmr
 categories: [ Column ]
-tags: [ Vnyl, CD, Cassette ]
+tags: [ Euro, Eurobeat, 80s, 90s]
 image: ../assets/images/column-initiald-eurobeat.webp
 ---
 
