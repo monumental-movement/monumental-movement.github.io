@@ -3,7 +3,7 @@ layout: post
 title:  "Joujouka – New Asians feat.浅野忠信"
 author: mmr
 categories: [ Vinyl ]
-tags: [ House, Beg Beat, Psychedelic ]
+tags: [ House, Big Beat, Psychedelic ]
 image: ../assets/images/Joujouka – New Asians.jpg
 ---
 
