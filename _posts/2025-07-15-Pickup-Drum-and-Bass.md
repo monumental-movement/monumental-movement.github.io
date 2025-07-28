@@ -3,7 +3,7 @@ layout: post
 title:  "ドラムンベース作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Drum N Bass, Jungle ]
+tags: [ Drum n Bass, Jungle ]
 image: ../assets/images/pickup-drum-and-bass.webp
 ---
 

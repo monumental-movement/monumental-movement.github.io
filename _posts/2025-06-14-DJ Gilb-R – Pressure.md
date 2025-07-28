@@ -3,7 +3,7 @@ layout: post
 title:  "DJ Gilb-R – Pressure"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Electronic, Techno, Drum N Bass, 90s ]
+tags: [ Electronic, Techno, Drum n Bass, 90s ]
 image: ../assets/images/DJ Gilb-R – Pressure.jpg
 ---
 

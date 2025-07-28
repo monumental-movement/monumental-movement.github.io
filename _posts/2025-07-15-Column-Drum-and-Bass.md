@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学"
 author: mmr
 categories: [ Column ]
-tags: [ Drum N Bass, Jungle ]
+tags: [ Drum n Bass, Jungle ]
 image: ../assets/images/column-drum-and-bass.webp
 ---
 
