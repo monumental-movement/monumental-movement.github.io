@@ -3,7 +3,7 @@ layout: post
 title:  "VA – That's Eurobeat Vol. 22"
 author: mmr
 categories: [ CD ]
-tags: [ Eurobeat, HiNRG, 90s ]
+tags: [ Eurobeat, Hi NRG, 90s ]
 image: ../assets/images/VA – That's Eurobeat Vol. 22.jpg
 ---
 

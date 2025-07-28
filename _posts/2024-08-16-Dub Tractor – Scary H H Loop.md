@@ -3,7 +3,7 @@ layout: post
 title:  "Dub Tractor – Scary H H Loop / 104 Dub"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Trip Hop, Experimental, Ambient, 90s ]
+tags: [ Triphop, Experimental, Ambient, 90s ]
 image: ../assets/images/Dub Tractor – Scary H H Loop.jpg
 ---
 

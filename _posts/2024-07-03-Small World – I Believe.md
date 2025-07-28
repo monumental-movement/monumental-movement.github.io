@@ -3,7 +3,7 @@ layout: post
 title:  "Small World – I Believe"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Trip Hop, Downtempo, 00s ]
+tags: [ Triphop, Downtempo, 00s ]
 image: ../assets/images/Small World – I Believe.jpg
 ---
 

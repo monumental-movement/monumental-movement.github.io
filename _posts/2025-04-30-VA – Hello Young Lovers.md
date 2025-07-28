@@ -3,7 +3,7 @@ layout: post
 title:  "VA – Hello Young Lovers"
 author: mmr
 categories: [ CD ]
-tags: [ Pop, J-pop, 90s ]
+tags: [ Pop, Jpop, 90s ]
 image: ../assets/images/VA – Hello Young Lovers.jpg
 ---
 

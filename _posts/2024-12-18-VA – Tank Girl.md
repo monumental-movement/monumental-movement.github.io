@@ -3,7 +3,7 @@ layout: post
 title:  "VA – Tank Girl"
 author: mmr
 categories: [ CD ]
-tags: [ Alternative Rock, Trip Hop, Gangsta, Punk, Soundtrack ]
+tags: [ Alternative Rock, Triphop, Gangsta, Punk, Soundtrack ]
 image: ../assets/images/VA – Tank Girl.jpg
 ---
 
