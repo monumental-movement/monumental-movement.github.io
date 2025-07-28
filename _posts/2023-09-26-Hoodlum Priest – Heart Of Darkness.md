@@ -3,7 +3,7 @@ layout: post
 title:  "Hoodlum Priest – Heart Of Darkness"
 author: mmr
 categories: [ CD ]
-tags: [ Hiphop, Left-Filed ]
+tags: [ Hiphop, Leftfiled ]
 image: ../assets/images/Hoodlum Priest – Heart Of Darkness.jpg
 ---
 
