@@ -3,7 +3,7 @@ layout: post
 title:  "Devo – New Traditionalists"
 author: mmr
 categories: [ Cassette ]
-tags: [ Techno, Synth Pop, New Wave, 80s ]
+tags: [ Techno, Synth Pop, New-Wave, 80s ]
 image: ../assets/images/Devo – New Traditionalists.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "The Rapture – In The Grace Of Your Love"
 author: mmr
 categories: [ CD ]
-tags: [ House, Indie Rock, New Wave, Rock ]
+tags: [ House, Indie Rock, New-Wave, Rock ]
 image: ../assets/images/The Rapture – In The Grace Of Your Love.jpg
 ---
 

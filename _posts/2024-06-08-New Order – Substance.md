@@ -3,7 +3,7 @@ layout: post
 title:  "New Order – Substance"
 author: mmr
 categories: [ Cassette ]
-tags: [ New Wave, Synth-Pop, Rock, 80s ]
+tags: [ New-Wave, Synth-Pop, Rock, 80s ]
 image: ../assets/images/New Order – Substance.jpg
 ---
 
