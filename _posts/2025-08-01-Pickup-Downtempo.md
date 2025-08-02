@@ -10,7 +10,7 @@ image: ../assets/images/pickup-downtempo.webp
 注目すべきダウンテンポ作品
 
 
-### Modest Mouse / 764‑HERO – Whenever You See Fit  Vinyl 1998／Indie Rock × Downtempo 
+### Modest Mouse / 764‑HERO – Whenever You See Fit
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.jpg"></a>
 
 静かなリズムが染みるドゥープなインディEP
@@ -31,6 +31,7 @@ B2. Whenever You See Fit (Sientific American Mix)
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+<br>
 
 ### B.E.F. Feat. Green Gartside – I Don’t Know Why I Love You
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.jpg"></a>
