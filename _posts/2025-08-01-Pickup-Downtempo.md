@@ -3,7 +3,7 @@ layout: post
 title:  "ダウンテンポ作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Downtempo ]
+tags: [ Downtempo, 90s ]
 image: ../assets/images/pickup-downtempo.webp
 ---
 
