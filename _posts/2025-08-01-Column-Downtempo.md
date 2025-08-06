@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ダウンテンポ（Downtempo）とは何か：チルアウトと深層のリズムの美学"
 author: mmr
 categories: [ Column ]
-tags: [ downtempo, 90s ]
+tags: [ Downtempo, 90s ]
 image: ../assets/images/column-downtempo.webp
 ---
 
