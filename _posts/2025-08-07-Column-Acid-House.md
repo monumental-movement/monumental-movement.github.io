@@ -3,11 +3,11 @@ layout: post
 title:  "【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容"
 author: mmr
 categories: [ Column ]
-tags: [ Acid, Acid House ]
+tags: [ Acid, Acid House, 80s, 90s ]
 image: ../assets/images/column-acid-house.webp
 ---
 
-## アシッド・ハウス：サウンドの化学反応と文化の変容
+## アシッド・ハウス
 
 
 文：mmr｜テーマ：サウンドの化学反応と文化の変容
@@ -111,6 +111,7 @@ Tシャツ、フライヤー、レコードジャケットに見られるDIYグ�
 </table>
 </div>
 		
+<hr>
 
 ### 現代における位置づけと再評価
 今日、アシッド・ハウスはレトロカルチャーやアナログ機材復権の流れの中で再評価されています。特に以下の点で存在感を放っています：
