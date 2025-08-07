@@ -7,7 +7,7 @@ tags: [ Acid, Acid House, 80s, 90s ]
 image: ../assets/images/column-acid-house.webp
 ---
 
-## アシッド・ハウス
+## ロウで、サイケで、ピュア | シカゴ発、銀河行き。
 
 
 文：mmr｜テーマ：サウンドの化学反応と文化の変容
