@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "アシッドジャズ作品をピックアップ"
+title:  "ディープハウス作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Acid Jazz, 80s, 90s ]
-image: ../assets/images/pickup-acid-jazz.webp
+tags: [ Deep House, 80s, 90s ]
+image: ../assets/images/pickup-deep-house.webp
 ---
 
-注目すべきアシッドジャズ作品
+注目すべきディープハウス作品
 
 
 ### Corduroy – High Havoc

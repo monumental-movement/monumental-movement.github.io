@@ -4,7 +4,7 @@ title:  "【コラム】 ディープ・ハウスとは？──ソウルとジ�
 author: mmr
 categories: [ Column ]
 tags: [ Acid Jazz, 80s, 90s ]
-image: ../assets/images/column-acid-jazz.webp
+image: ../assets/images/column-deep-house.webp
 ---
 
 ## そもそもディープ・ハウスとは？
