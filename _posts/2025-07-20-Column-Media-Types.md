@@ -13,6 +13,9 @@ image: ../assets/images/column-media-types.webp
 文：mmr｜テーマ：音楽メディアの歴史的比較と最新技術展望
 
 
+
+<hr>
+
 ### 音楽メディアの歴史的売上比較
 過去数十年にわたり、音楽メディアは急速な技術革新を遂げ、多様化した。ここでは主要な物理メディアであるレコード（アナログLP）・カセットテープ・CD・MDの世界的な売上推定を概観する。
 
@@ -57,7 +60,13 @@ image: ../assets/images/column-media-types.webp
 
 ※売上数字は複数ソースを参考にした概算で、地域差や年代差が存在します。
 
+
+<hr>
+
 ### 周波数特性と聴こえ方の違い
+
+
+<hr>
 
 #### レコード（アナログLP）
 
@@ -75,6 +84,9 @@ image: ../assets/images/column-media-types.webp
 
 聴こえ方：柔らかく、滑らかで温かみがあり、ノイズや歪みが「味」として受け入れられる傾向。
 
+
+
+<hr>
 
 #### カセットテープ
 
@@ -95,6 +107,9 @@ image: ../assets/images/column-media-types.webp
 聴こえ方：ややこもり気味で高音域は控えめ。柔らかく温かいが、ノイズも目立つ。
 
 
+
+<hr>
+
 #### CD（コンパクトディスク）
 
 周波数特性：20Hz〜20kHz（44.1kHzサンプリング）
@@ -111,6 +126,9 @@ image: ../assets/images/column-media-types.webp
 
 聴こえ方：クリアで解像度が高いが、アナログ的な暖かみは薄い場合が多い。
 
+
+
+<hr>
 
 #### MD（ミニディスク）
 
@@ -130,7 +148,13 @@ image: ../assets/images/column-media-types.webp
 
 
 
+
+<hr>
+
 ### 各メディアの現状と今後の動向
+
+
+<hr>
 
 #### レコード
 
@@ -138,11 +162,17 @@ image: ../assets/images/column-media-types.webp
 
 今後：アナログ音源の愛好者層の支持で小規模ながら持続的な市場が期待される。ハイブリッド製品（アナログ＋デジタル）も登場。
 
+
+<hr>
+
 #### カセットテープ
 
 現状：かつての主流メディアとしては衰退。マニアやインディーズシーンでは限定的に支持。
 
 今後：レトロ文化としてのニッチな人気。DIY音楽やコレクションの一環として存続。
+
+
+<hr>
 
 #### CD
 
@@ -150,13 +180,22 @@ image: ../assets/images/column-media-types.webp
 
 今後：パッケージメディアとして縮小傾向だが、物理的な所有欲や付加価値（豪華盤など）での差別化が鍵。
 
+
+<hr>
+
 #### MD
 
 現状：ほぼ市場から消滅。日本での一定支持も過去の話。
 
 今後：保存や趣味として限定的に残るのみ。
 
+
+<hr>
+
 ### Dolby Atmos（ドルビー・アトモス）とは何か？
+
+
+<hr>
 
 #### Dolby Atmosの概要
 
@@ -168,6 +207,9 @@ image: ../assets/images/column-media-types.webp
 
 ホームシアター、ヘッドフォン、スマホでも対応再生可能
 
+
+<hr>
+
 #### 音楽制作におけるDolby Atmos
 
 近年ではストリーミングサービス（Apple Music、Tidalなど）がDolby Atmos対応の楽曲配信を開始し、音楽業界でも注目が高まっている。
@@ -178,13 +220,22 @@ image: ../assets/images/column-media-types.webp
 
 高解像度音源と組み合わせて、より没入感のあるリスニング体験を実現
 
+
+<hr>
+
 ### 今後の音楽メディア動向とDolby Atmosの可能性
+
+
+<hr>
 
 #### メディアの変化
 
 物理メディアからストリーミング中心へ移行がほぼ完成
 
 高音質配信（ハイレゾ、MQA）や空間オーディオ（Dolby Atmos、Sony 360 Reality Audio）への対応が次代の焦点
+
+
+<hr>
 
 #### 体験の進化
 

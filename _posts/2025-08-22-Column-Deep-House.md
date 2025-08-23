@@ -14,6 +14,9 @@ image: ../assets/images/column-deep-house.webp
 
 ディープ・ハウスは1980年代後半のシカゴ～ニュージャージー周辺で芽生えたハウスの系統。ソウル／ジャズの和声感、滑らかな低音、抑制の効いたグルーヴが特徴で、ラッシュなピークではなく「深く、長く、身体を温める」タイプのダンスミュージックです。BPMは概ね118–124（遅め～中速）、7th/9th系のコード、エレピ（Rhodes）やオルガン（Korg M1系）、レイドバックしたボーカルが象徴的。フロアでもリスニングでも成り立つ“夜の温度”を持っています。
 
+
+<hr>
+
 ### 誕生の背景と展開
 
 **1985–90：原初期（Chicago/NJ）**
@@ -32,6 +35,9 @@ Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな�
 
 AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。南アではBlack Coffeeがアフロ・ディープを世界水準に。DIYの波でLo-fi Houseも勃興。
 
+
+<hr>
+
 ### 音楽的特徴（耳のチェックポイント）
 
 **和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
@@ -43,6 +49,9 @@ AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。�
 **鍵盤／質感**：Rhodes/M1オルガン/柔らかなストリングス、空間系（ディレイ/リバーブ）は長めでも密度は薄く。
 
 **ボーカル**：語りかける低～中域、福音（Gospel）～ソウルの系譜。必要十分な言葉数で“間”を活かす。
+
+
+<hr>
 
 ### 必聴アーティスト／レーベル（入口編）
 
@@ -68,6 +77,9 @@ Ron Trent – Altered States
 
 Kerri Chandler – Atmosphere
 
+
+<hr>
+
 ### サブジャンルと周辺系譜
 
 **シカゴ・ディープ**：骨太キック＋ソウルの残響。例：Mr. Fingers、Ron Trent。
@@ -84,6 +96,9 @@ Kerri Chandler – Atmosphere
 
 **Lo-fi House**：ウォームなサチュレーション、90s的サンプル感。
 
+
+<hr>
+
 ### ディープ・ハウスの“良いDJ”がやっていること
 
 長めのミックスでEQとフェーダーをじわじわ積層（16～32小節以上）。
@@ -93,6 +108,9 @@ Kerri Chandler – Atmosphere
 ダイナミクスの波：30～45分で“少しだけ熱を上げて、すぐ戻す”。
 
 早すぎないBPM設定：118–121で“歩幅”を作り、後半で122–124へ。
+
+
+<hr>
 
 ### 制作Tips（プロダクションの勘どころ）
 
@@ -108,6 +126,9 @@ Kerri Chandler – Atmosphere
 
 **ミックス**：キック40–60Hzは控えめに、80–120Hzで胴鳴りを作る。ボーカルは2–5kHzを出し過ぎない。
 
+
+<hr>
+
 ### シーンとカルチャー
 
 **場所**：小箱／サブフロア／アフターアワーズに強い。
@@ -115,6 +136,9 @@ Kerri Chandler – Atmosphere
 **聴取文脈**：深夜のドライブ、作業／学習BGM、カクテルタイム。
 
 **美学**：「機能性より情緒の滲み」。煌びやかさより陰影。
+
+
+<hr>
 
 ### これだけは聴きたいプレイリスト雛形（流れの例）
 
@@ -128,6 +152,9 @@ Kerri Chandler – Atmosphere
 
 **Late**：Black Coffeeのアフロ・ディープで温度を保ち、ラストにLarry Heardの余韻でクールダウン
 
+
+<hr>
+
 ### レコード収集・探し方のコツ
 
 **キーワード**：「Deep」「Atmospheric」「Dub」「Garage」「Jersey」「Prescription」
@@ -137,6 +164,9 @@ Kerri Chandler – Atmosphere
 **レーベル買い**：Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep。
 
 **B面も必聴**：ディープはB面ダブに名トラックが眠りがち。
+
+
+<hr>
 
 ### クイック・ディスコグラフィ（入門10曲）
 
@@ -159,6 +189,9 @@ Jimpster – “Dangly Panther”
 Âme – “Rej”（ディープ×ミニマルの交差点）
 
 Black Coffee – “Turn Me On (feat. Bucie)”
+
+
+<hr>
 
 ### 一瞬ではなく、時間で味わう音楽
 
