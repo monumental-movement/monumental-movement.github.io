@@ -2947,6 +2947,11 @@ lunr.QueryParser.parseBoost = function (parser) {
   }
 }
 
+document.querySelector("#search-btn").addEventListener("click", async () => {
+  const { default: lunr } = await import("https://unpkg.com/lunr/lunr.min.js");
+  // lunr 検索処理をここで実行
+});
+
   /**
    * export the module via AMD, CommonJS or as a browser global
    * Export code from https://github.com/umdjs/umd/blob/master/returnExports.js
