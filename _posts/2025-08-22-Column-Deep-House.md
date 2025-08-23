@@ -71,11 +71,11 @@ AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。�
 
 “まず3枚”
 
-Mr. Fingers – Amnesia
+・Mr. Fingers – Amnesia
 
-Ron Trent – Altered States
+・Ron Trent – Altered States
 
-Kerri Chandler – Atmosphere
+・Kerri Chandler – Atmosphere
 
 
 <hr>
@@ -170,25 +170,25 @@ Kerri Chandler – Atmosphere
 
 ### クイック・ディスコグラフィ（入門10曲）
 
-Mr. Fingers – “Can You Feel It”
+・Mr. Fingers – “Can You Feel It”
 
-Larry Heard Presents Mr. White – “The Sun Can’t Compare”
+・Larry Heard Presents Mr. White – “The Sun Can’t Compare”
 
-Kerri Chandler – “Atmosphere”
+・Kerri Chandler – “Atmosphere”
 
-Ron Trent – “Altered States”
+・Ron Trent – “Altered States”
 
-Chez Damier – “I Never Knew Love”
+・Chez Damier – “I Never Knew Love”
 
-Moodymann – “Shades of Jae”
+・Moodymann – “Shades of Jae”
 
-Masters At Work – “To Be In Love (MAW Dub)”
+・Masters At Work – “To Be In Love (MAW Dub)”
 
-Jimpster – “Dangly Panther”
+・Jimpster – “Dangly Panther”
 
-Âme – “Rej”（ディープ×ミニマルの交差点）
+・Âme – “Rej”
 
-Black Coffee – “Turn Me On (feat. Bucie)”
+・Black Coffee – “Turn Me On (feat. Bucie)”
 
 
 <hr>
