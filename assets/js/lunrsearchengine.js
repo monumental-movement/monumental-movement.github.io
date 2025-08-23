@@ -81,6 +81,13 @@ function lunr_search(term) {
     return false;
 }
     
+    window.addEventListener("load", () => {
+  const s = document.createElement("script");
+  s.src = "/js/lunrsearchengine.js";
+  document.body.appendChild(s);
+});
+
+
 $(function() {
     $("#lunrsearchresults").on('click', '#btnx', function () {
         $('#lunrsearchresults').hide( 5 );
