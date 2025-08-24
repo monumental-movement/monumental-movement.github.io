@@ -7,7 +7,9 @@ tags: [ Deep House, 80s, 90s ]
 image: ../assets/images/pickup-deep-house.webp
 ---
 
-「都会の夜を包み込むような洗練されたビートと深いグルーヴを刻む、ディープハウスを象徴する注目作」
+「都会の夜を包み込むような洗練されたビートと深いグルーヴを刻む、ディープハウスを象徴する注目すべき作品群」
+
+<hr>
 
 ### Various – Workshop 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.jpg"></a>

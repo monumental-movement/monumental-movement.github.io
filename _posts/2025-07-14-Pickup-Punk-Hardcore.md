@@ -9,6 +9,8 @@ image: ../assets/images/pickup-punk-hardcore.webp
 
 「混沌と激情を体現し、時代の空気を鋭く切り裂いた注目すべきパンク／ハードコア作品群」
 
+<hr>
+
 ### Snuff – Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.jpg"></a>
 

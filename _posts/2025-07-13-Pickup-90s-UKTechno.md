@@ -9,6 +9,8 @@ image: ../assets/images/pickup-90s-uktechno.webp
 
 「硬質なリズムと先鋭的サウンドデザインで、90年代UKテクノシーンを象徴する注目すべき作品群」
 
+<hr>
+
 ### Justin Berkovi – Fast - Wide E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.jpg"></a>
 

@@ -9,6 +9,8 @@ image: ../assets/images/pickup-soundtrack.webp
 
 「物語の情感を音で紡ぎ、映像体験を新たな次元へと引き上げる注目すべきサウンドトラック作品群」
 
+<hr>
+
 ### Jerry　Goldsmith – A　Patch　Of　Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.jpg"></a>
 

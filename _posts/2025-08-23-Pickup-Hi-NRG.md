@@ -9,6 +9,8 @@ image: ../assets/images/pickup-hi-nrg.webp
 
 「眩いシンセと突き抜けるビートでフロアを沸かせた、ハイエナジー黄金期を象徴する注目すべき作品群」
 
+<hr>
+
 ### E-Rotic – “Willy Use A Billy... Boy”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.jpg"></a>
 
