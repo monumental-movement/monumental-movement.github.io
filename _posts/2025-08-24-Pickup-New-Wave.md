@@ -4,7 +4,7 @@ title:  "ニューウェーブ(New-Wave)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ New-Wave, 80s ]
-image: ../assets/images/pickup-hi-nrg.webp
+image: ../assets/images/pickup-new-wave.webp
 ---
 
 「独特なシンセサイザーの響きと前衛的なリズムが印象的な、注目すべきニューウェーブ(New-Wave)作品群」
