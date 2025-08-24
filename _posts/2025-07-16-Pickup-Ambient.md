@@ -7,8 +7,7 @@ tags: [ Ambient ]
 image: ../assets/images/pickup-ambient.webp
 ---
 
-注目すべきアンビエント作品
-
+「静寂と音の境界を探り、深遠な没入体験をもたらす注目すべきアンビエント作品群」
 
 ### Dreamlogicc – Podval EP
 <a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.jpg"></a>

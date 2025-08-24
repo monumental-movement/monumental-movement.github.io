@@ -7,7 +7,7 @@ tags: [ Cassette ]
 image: ../assets/images/pickup-cassette-tape.webp
 ---
 
-注目すべきカセットテープ作品
+「アンダーグラウンドの息吹を生々しく刻み込み、独自の美学を放つ注目すべきカセットテープ作品群」
 
 ### No Artist – Environments (Cassette Two) 
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.jpg"></a>

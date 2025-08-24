@@ -7,7 +7,7 @@ tags: [ Euro ]
 image: ../assets/images/pickup-euro.webp
 ---
 
-注目すべきユーロ・ミュージック作品
+「洗練されたメロディとダンスフロアを熱狂させる躍動感に満ちた、注目すべきユーロ・ミュージック作品群」
 
 ### Rednex – Cotton Eye Joe
 <a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.jpg"></a>

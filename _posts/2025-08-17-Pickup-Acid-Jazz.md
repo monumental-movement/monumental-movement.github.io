@@ -7,8 +7,7 @@ tags: [ Acid Jazz, 80s, 90s ]
 image: ../assets/images/pickup-acid-jazz.webp
 ---
 
-注目すべきアシッドジャズ作品
-
+「ジャズの即興性とクラブ・グルーヴが融合し、洗練された都会的サウンドを響かせる注目すべきアシッドジャズ作品群」
 
 ### Corduroy – High Havoc
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.jpg"></a>
