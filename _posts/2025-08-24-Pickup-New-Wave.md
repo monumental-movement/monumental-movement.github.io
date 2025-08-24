@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ニューウェーブ(New-Wave)作品をピックアップ"
+title:  "ニューウェーブ(New Wave)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ New-Wave, 80s ]
