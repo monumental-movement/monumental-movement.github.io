@@ -3,7 +3,7 @@ layout: post
 title:  "Carl Craig – Landcruising"
 author: mmr
 categories: [ CD ]
-tags: [ Techno, Minimal, German Techno ]
+tags: [ Techno, Minimal, 90s ]
 image: ../assets/images/Carl Craig – Landcruising.jpg
 ---
 
