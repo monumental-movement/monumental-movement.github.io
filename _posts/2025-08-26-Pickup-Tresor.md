@@ -7,7 +7,7 @@ tags: [ Techno, 90s ]
 image: ../assets/images/pickup-tresor.webp
 ---
 
-「独特なシンセサイザーの響きと前衛的なリズムが印象的な、注目すべきニューウェーブ(New-Wave)作品群」
+「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
 
 <hr>
 
