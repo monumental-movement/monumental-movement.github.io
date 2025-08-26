@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地"
 author: mmr
 categories: [ Column ]
-tags: [ Techno, 90s ]
+tags: [ Techno, German Techno, 90s ]
 image: ../assets/images/column-tresor.webp
 ---
 

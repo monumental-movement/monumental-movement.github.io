@@ -3,7 +3,7 @@ layout: post
 title:  "Spiral Life – Freaks Of Go Go Spectators 2"
 author: mmr
 categories: [ CD ]
-tags: [ Techno, Minimal, German Techno ]
+tags: [ Pop Rock, Synth-pop ]
 image: ../assets/images/Spiral Life - Freaks Of Go Go.jpg
 ---
 

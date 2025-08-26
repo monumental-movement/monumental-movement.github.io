@@ -3,7 +3,7 @@ layout: post
 title:  "Tresor(トレゾア)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Techno, 90s ]
+tags: [ Techno, German Techno, 90s ]
 image: ../assets/images/pickup-tresor.webp
 ---
 
