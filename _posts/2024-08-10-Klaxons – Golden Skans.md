@@ -3,7 +3,7 @@ layout: post
 title:  "Klaxons – Golden Skans"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Electro, Tech House, Tech House, 00s ]
+tags: [ Electro, Tech House, 00s ]
 image: ../assets/images/Klaxons – Golden Skans.jpg
 ---
 
