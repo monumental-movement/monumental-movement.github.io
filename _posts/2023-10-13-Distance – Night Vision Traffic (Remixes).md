@@ -3,7 +3,7 @@ layout: post
 title:  "Distance – Night Vision Traffic (Remixes)"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Dubstep, Industrial ]
+tags: [ Dubstep, Industrial, 00s ]
 image: ../assets/images/Distance – Night Vision Traffic (Remixes).jpg
 ---
 

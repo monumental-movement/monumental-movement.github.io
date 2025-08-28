@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ ―"
 author: mmr
 categories: [ Column ]
-tags: [ Dubstep, 00s ]
+tags: [ Dubstep ]
 image: ../assets/images/column-dubstep.webp
 ---
 
