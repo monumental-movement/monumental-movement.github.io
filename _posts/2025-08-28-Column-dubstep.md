@@ -7,7 +7,7 @@ tags: [ Dubstep, 00s ]
 image: ../assets/images/column-dubstep.webp
 ---
 
-## ――自然との調和、内省、そして癒し――
+## 聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける
 
 
 文：mmr｜テーマ：ダブステップの誕生と文化的影響
