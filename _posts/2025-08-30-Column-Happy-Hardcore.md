@@ -4,7 +4,7 @@ title:  "【コラム】 ハッピーハードコアと日本文化――高速�
 author: mmr
 categories: [ Column ]
 tags: [ Happy Hardcore, 90s, 00s ]
-image: ../assets/images/column-happy-harecore.webp
+image: ../assets/images/column-happy-hardcore.webp
 ---
 
 ## 「音楽的特性と日本的感性」
