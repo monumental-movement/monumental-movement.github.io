@@ -3,7 +3,7 @@ layout: post
 title:  "Drivetrain – Symphonium"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Techno, Detroit ]
+tags: [ Techno, Detroit Techno, 90s ]
 image: ../assets/images/Drivetrain – Symphonium.jpg
 ---
 

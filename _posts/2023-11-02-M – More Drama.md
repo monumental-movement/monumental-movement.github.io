@@ -3,7 +3,7 @@ layout: post
 title:  "M – More Drama"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Techno, Detroit Techno, Tribal ]
+tags: [ Techno, Detroit Techno, Tribal, 90s ]
 image: ../assets/images/M – More Drama.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Jeff Mills – Lifelike E.P"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Techno, Detroit Techno ]
+tags: [ Techno, Detroit Techno, 90s ]
 image: ../assets/images/Jeff Mills – Lifelike E.P.jpg
 ---
 

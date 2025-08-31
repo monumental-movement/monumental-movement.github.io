@@ -3,7 +3,7 @@ layout: post
 title:  "Ultradyne – Unknown Works"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Techno, Detroit Techno ]
+tags: [ Techno, Detroit Techno, 00s ]
 image: ../assets/images/Ultradyne – Unknown Works.jpg
 ---
 

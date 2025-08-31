@@ -3,7 +3,7 @@ layout: post
 title:  "Jeff Mills – Very EP"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Techno, Detroit Techno, Tribal ]
+tags: [ Techno, Detroit Techno, Tribal, 90s ]
 image: ../assets/images/Jeff Mills – Very EP.jpg
 ---
 

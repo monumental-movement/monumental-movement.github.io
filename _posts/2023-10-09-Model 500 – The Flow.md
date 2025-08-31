@@ -3,7 +3,7 @@ layout: post
 title:  "Model 500 – The Flow"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Techno, Drum n Bass, Detroit Techno ]
+tags: [ Techno, Drum n Bass, Detroit Techno, 90s ]
 image: ../assets/images/Model 500 – The Flow.jpg
 ---
 
