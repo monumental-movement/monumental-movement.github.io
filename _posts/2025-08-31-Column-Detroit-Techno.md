@@ -105,7 +105,7 @@ Metroplex（Juan Atkins）やTransmat（Derrick May、※Transmat設立時期は
 
 **「Big Fun」 / 「Good Life」 — Inner City (Kevin Saunderson) — 1988** 
 
-**コンピ：『Techno! The New Dance Sound of Detroit』 — 1988（デトロイト・テクノの概念化に重要）**
+**コンピ：『Techno! The New Dance Sound of Detroit』 — 1988**
 
 
 <hr>
