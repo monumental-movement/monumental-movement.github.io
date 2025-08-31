@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響"
 author: mmr
 categories: [ Column ]
-tags: [ Eurorack Module, Techno ]
+tags: [ Eurorack Module, Techno, 00s ]
 image: ../assets/images/column-eurorack-module.webp
 ---
 
