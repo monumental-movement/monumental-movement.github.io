@@ -13,7 +13,7 @@ image: ../assets/images/pickup-detroit-techno.webp
 
 
 ### Claude Young – The Dexit E.P.
-<a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P..jpg"></a>
+<a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.jpg"></a>
 
 特徴：：1997年、ベルギーElypsiaレーベルから。デトロイトへの敬意と自らの探求心が融合した作品。
 
