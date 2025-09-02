@@ -7,6 +7,19 @@ tags: [ Euro, Euro Beat ]
 image: ../assets/images/column-euro-sound.webp
 ---
 
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
 ## “ユーロの音” なぜ国別で音が違うのか？
 
 文：mmr｜テーマ：ジャンル：音楽コラム｜テーマ：制作国別90年代ユーロ音楽の比較分析
@@ -128,6 +141,8 @@ image: ../assets/images/column-euro-sound.webp
 
 ### 比較表まとめ：制作国別「ユーロの個性」
 
+
+
 |   | イタリア | ドイツ | スウェーデン |
 |---|---|---|---|
 | **BPM** | 高速（140〜160） | 標準〜やや速め（128〜140） | ミドル（110〜130） |
@@ -135,6 +150,7 @@ image: ../assets/images/column-euro-sound.webp
 | **主戦場** | 日本市場・アニメ・パラパラ | クラブ／レイヴ | 国際ポップ市場 |
 | **メロディ傾向** | 明快・派手・リードシンセ | 繰り返し・暗め | 親しみやすく歌メロ中心 |
 | **文化的特徴** | Italo Discoの継承 | 精密工業的クラブ思考 | 北欧ポップの輸出志向 |
+
 
 ---
 
@@ -144,3 +160,6 @@ image: ../assets/images/column-euro-sound.webp
 
 グローバルとローカルの交差点に生まれた音楽。  
 それが、90年代ユーロの本質なのかもしれない。
+
+
+	{: class=”table”}
