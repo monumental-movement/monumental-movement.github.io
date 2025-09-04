@@ -3,7 +3,7 @@ layout: post
 title:  "ノイズミュージック(Noise Music)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Noise, Experimental,  ]
+tags: [ Noise ]
 image: ../assets/images/pickup-noise-music.webp
 ---
 
