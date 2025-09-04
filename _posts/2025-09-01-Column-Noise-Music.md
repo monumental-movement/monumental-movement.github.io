@@ -4,7 +4,7 @@ title:  "【コラム】 Noise Music（ノイズミュージック） — 発祥
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Industrial ]
-image: ../assets/images/column-noise-music2.webp
+image: ../assets/images/column-noise-music.webp
 ---
 
 ## ノイズ＝美学：耳障りとされる音を「快楽」や「芸術」に変換する。
