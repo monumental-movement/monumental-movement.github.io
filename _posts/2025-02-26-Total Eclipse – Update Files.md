@@ -3,7 +3,7 @@ layout: post
 title:  "Total Eclipse – Update Files"
 author: mmr
 categories: [ CD ]
-tags: [ Psy-Trance, Trance 00s ]
+tags: [ Psy-Trance, Trance, 00s ]
 image: ../assets/images/Total Eclipse – Update Files.jpg
 ---
 
