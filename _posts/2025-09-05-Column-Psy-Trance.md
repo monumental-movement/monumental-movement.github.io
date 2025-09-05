@@ -41,7 +41,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Tangerine Dream – *Exit* (1981)  
 - Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)  
 
-<hr>
+<br>
 
 ### おすすめトラック 10選（1970s〜80s）
 
@@ -70,7 +70,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - The Infinity Project – *Feeling Very Weird* (1994)  
 
 
-<hr>
+<br>
 
 ### おすすめトラック 10選（1990–94）
 
@@ -98,7 +98,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Infected Mushroom – *The Gathering* (1999)  
 - X-Dream – *Radio* (1998)  
 
-<hr>
+<br>
 
 ### おすすめトラック 10選（1995–99）
 
@@ -126,7 +126,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - GMS – *No Rules* (2002)  
 - Atmos – *Headcleaner* (2000)  
 
-<hr>
+<br>
 
 ### おすすめトラック 10選（2000s）
 
@@ -154,7 +154,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Liquid Soul – *Dreamcatcher* (2021)  
 - Outsiders – *Cosmic Awakenings* (2022)  
 
-<hr>
+<br>
 
 ### おすすめトラック 10選（2010s〜）
 
@@ -181,6 +181,8 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Vini Vici & Astrix – *Adhana* (2020)  
 - Liquid Soul – *Dreamcatcher* (2021)  
 - Outsiders – *Cosmic Awakenings* (2022)  
+
+<br>
 
 ### おすすめトラック 10選（2020年代）
 | # | アーティスト | トラック | 年 |
