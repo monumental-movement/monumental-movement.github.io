@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選"
 author: mmr
 categories: [ Column ]
-tags: [ Psy-Trance, Trance, Goa, electronic ]
+tags: [ Psy-Trance, Trance ]
 image: ../assets/images/column-psy-trance.webp
 ---
 
