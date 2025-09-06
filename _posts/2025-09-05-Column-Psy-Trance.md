@@ -41,7 +41,6 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Tangerine Dream – *Exit* (1981)  
 - Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)  
 
-<br>
 
 ### おすすめトラック 10選（1970s〜80s）
 
@@ -70,8 +69,6 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - The Infinity Project – *Feeling Very Weird* (1994)  
 
 
-<br>
-
 ### おすすめトラック 10選（1990–94）
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
@@ -87,6 +84,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 | 9  | Transwave – Hypnorhythm | 1994 | フランス代表格 |
 | 10 | Shakta – Lepton Head | 1994 | Goa傑作 |
 
+<br>
 ---
 
 ## 1990年代後半：Psy-Tranceの確立
@@ -97,8 +95,6 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Hallucinogen – *Twisted* (1995)  
 - Infected Mushroom – *The Gathering* (1999)  
 - X-Dream – *Radio* (1998)  
-
-<br>
 
 ### おすすめトラック 10選（1995–99）
 
@@ -115,6 +111,8 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 | 9  | Etnica – Alien Protein | 1996 | シーン定番 |
 | 10 | Blue Planet Corporation – Micromega | 1995 | 宇宙的サウンド |
 
+<br>
+
 ---
 
 ## 2000年代：世界規模のシーン拡大
@@ -125,8 +123,6 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Infected Mushroom – *Classical Mushroom* (2000)  
 - GMS – *No Rules* (2002)  
 - Atmos – *Headcleaner* (2000)  
-
-<br>
 
 ### おすすめトラック 10選（2000s）
 
@@ -143,6 +139,8 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 | 9  | Ott – Smoked Glass and Chrome | 2003 | ダウンテンポ |
 | 10 | Shpongle – Nothing Lasts... But Nothing is Lost | 2005 | Psybient名盤 |
 
+<br>
+
 ---
 
 ## 2010年代：デジタル時代とクロスオーバー
@@ -154,9 +152,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Liquid Soul – *Dreamcatcher* (2021)  
 - Outsiders – *Cosmic Awakenings* (2022)  
 
-<br>
-
-### おすすめトラック 10選（2010s〜）
+### おすすめトラック 10選（2010s）
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
@@ -182,9 +178,8 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - Liquid Soul – *Dreamcatcher* (2021)  
 - Outsiders – *Cosmic Awakenings* (2022)  
 
-<br>
+### おすすめトラック 10選（2020s）
 
-### おすすめトラック 10選（2020年代）
 | # | アーティスト | トラック | 年 |
 |---|-------------|----------|----|
 | 1 | Vini Vici & Astrix | Adhana | 2020 |
@@ -198,8 +193,11 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 | 9 | Outsiders | Cosmic Awakenings | 2022 |
 |10 | Vini Vici | In The Middle of Nowhere | 2023 |
 
+<br>
+
 ---
-## サイケデリックの未来へ
+
+### サイケデリックの未来へ
 Psy-Tranceはヒッピー文化とテクノロジーの交錯から生まれ、90年代の黄金期を経て多彩に分岐し、現在も世界のフェスを席巻しています。音響デザインの進化と機材の変遷を追うと、そのサウンドのダイナミズムと文化の深みが浮かび上がります。
 
 アナログ機材から始まり、デジタル化を経て、現在はジャンルを超えた融合の段階にあります。**1990年代のゴア的スピリチュアル感覚**、**2000年代のハイテク・フルオンの爆発力**、**2010年代のデジタル・クロスオーバー**、そして**2020年代のジャンル横断的な進化**。それぞれの時代が独自の美学を生み出しました。  
