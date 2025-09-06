@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選"
 author: mmr
 categories: [ Column ]
-tags: [ Psy-Trance, 90s, 00s ]
+tags: [ Psy-Trance, Trance, 90s ]
 image: ../assets/images/column-psy-trance.webp
 ---
 
@@ -57,6 +57,8 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 | 9  | 808 State – Pacific State | 1989 | バレアリック影響 |
 | 10 | Goa Gil – DAT tape mixes | 1980s後期 | Goaサウンドの原型 |
 
+<br>
+
 ---
 
 ##  Goa Tranceの成立 — 1990〜1994
@@ -85,6 +87,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 | 10 | Shakta – Lepton Head | 1994 | Goa傑作 |
 
 <br>
+
 ---
 
 ## 1990年代後半：Psy-Tranceの確立
