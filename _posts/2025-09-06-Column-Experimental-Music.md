@@ -9,7 +9,7 @@ image: ../assets/images/column-experimental-music.webp
 
 
 ## Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤  
-──
+
 
 文：mmr｜テーマ：実験音楽に関する前衛からポスト・デジタル時代までの変遷
 
