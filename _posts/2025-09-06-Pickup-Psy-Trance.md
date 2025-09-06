@@ -7,23 +7,8 @@ tags: [ Psy-Trance, Goa, Trance ]
 image: ../assets/images/pickup-psy-trance.webp
 ---
 
-<style type="text/css">
-
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
-}
-th {
-background-color: #111;
-color: #fff;
-}
-</style>
-
 
 「未来と神話が交錯する音のシャーマニズム、Psy-Trance（サイケデリックトランス）作品群」
-
-<hr>
 
 ---
 

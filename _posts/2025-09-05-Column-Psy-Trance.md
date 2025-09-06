@@ -7,18 +7,6 @@ tags: [ Psy-Trance, Trance, 90s ]
 image: ../assets/images/column-psy-trance.webp
 ---
 
-<style type="text/css">
-
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
-}
-th {
-background-color: #111;
-color: #fff;
-}
-</style>
 
 ## サイケデリック・トランス（Psy-Trance） — 発祥から現在までの年代別クロニクルと機材の変遷
 
@@ -43,6 +31,20 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 
 
 ### おすすめトラック 10選（1970s〜80s）
+
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|

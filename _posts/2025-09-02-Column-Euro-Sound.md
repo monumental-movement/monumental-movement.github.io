@@ -7,18 +7,6 @@ tags: [ Euro, Euro Beat ]
 image: ../assets/images/column-euro-sound.webp
 ---
 
-<style type="text/css">
-
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
-}
-th {
-background-color: #111;
-color: #fff;
-}
-</style>
 
 ## “ユーロの音” なぜ国別で音が違うのか？
 
@@ -56,6 +44,20 @@ color: #fff;
 - 国内需要は限定的、国外（特に日本）向け輸出志向  
 
 **代表ディスコグラフィ**  
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
 
 | アーティスト | アルバム/シングル | 特徴・ヒット曲 |
 |---|---|---|
