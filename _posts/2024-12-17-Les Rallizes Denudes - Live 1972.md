@@ -3,7 +3,7 @@ layout: post
 title:  "裸のラリーズ Les Rallizes Dénudés – Live 1972"
 author: mmr
 categories: [ CD ]
-tags: [ Psychedelic Rock, Avant-Garde, Rock, 70s ]
+tags: [ Psychedelic Rock, Avant-garde, Rock, 70s ]
 image: ../assets/images/裸のラリーズ – Live 1972.jpg
 ---
 

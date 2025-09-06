@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷"
 author: mmr
 categories: [ Column ]
-tags: [ NY House, House Music, Garage, Deep House, House ]
+tags: [ NY House, Garage, Deep House, House ]
 image: ../assets/images/column-ny-house.webp
 ---
 
