@@ -15,10 +15,15 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
+/* @font-face でローカルフォントを優先 */
+  @font-face {
+    font-family: "Local Noto Sans JP";
+    src: local("Noto Sans JP");
+  }
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:"Noto Sans JP",
+    font-family:"Local Noto Sans JP", "Noto Sans JP",
     "Hiragino Kaku Gothic ProN",
     "Hiragino Sans",
     Meiryo,
@@ -67,7 +72,7 @@ h4::before{
     min-width: 180px;
 }
 blockquote {
-    font-family:"Noto Sans JP",
+    font-family:"Local Noto Sans JP", "Noto Sans JP",
     "Hiragino Kaku Gothic ProN",
     "Hiragino Sans",
     Meiryo,
