@@ -3,7 +3,7 @@ layout: post
 title:  "Alex Coke – New Visions"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Afro-Cuban Jazz, Free Improvisation, Experimental, 80s ]
+tags: [ Afro-Cuban Jazz, Experimental, 80s ]
 image: ../assets/images/Alex Coke – New Visions.jpg
 ---
 
