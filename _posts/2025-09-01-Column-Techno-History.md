@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史"
 author: mmr
 categories: [ Column ]
-tags: [ Techno, Detroit Techno, Minimal, Industrial, EDM ]
+tags: [ Techno, Detroit Techno, Minimal ]
 image: ../assets/images/column-techno-history.webp
 ---
 
@@ -85,7 +85,7 @@ image: ../assets/images/column-techno-history.webp
 **名盤**  
 - Ricardo Villalobos – *Alcachofa*（2003）  
 - Monolake – *Gravity*（2008）  
-- Kompakt – *Total* シリーズ（2000–）  
+- Kompakt – *Total* シリーズ（2000–）
 - Richie Hawtin – *DE9 | Closer to the Edit*（2001）  
 
 **機材**  
