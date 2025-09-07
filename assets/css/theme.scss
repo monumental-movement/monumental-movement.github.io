@@ -18,7 +18,11 @@ $enable-rounded: false;
 
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:"Noto Sans JP", sans-serif;
+    font-family:"Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 body {
     line-height:1.7;
@@ -63,7 +67,11 @@ h4::before{
     min-width: 180px;
 }
 blockquote {
-    font-family:"Noto Sans JP", sans-serif;
+    font-family:"Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
     font-style: italic;
     font-size: 20px;
     position:relative;
@@ -224,7 +232,7 @@ img, img:hover {
                 line-height: 15px;
                 text-decoration: none;
                 color: #8E9AA7;
-                font-weight: 900;
+                font-weight: 600;
                 font-size: 15px;
                 position: relative;
             }
