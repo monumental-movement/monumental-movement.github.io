@@ -7,7 +7,9 @@ tags: [ House, Deep House, 10s ]
 image: ../assets/images/Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation).jpg
 ---
 
-Kenji Takimi(瀧見憲司)とTomoki Kanda(神田朋樹)によるCrue-L Grand Orchestra「(You Are) More Than Paradise」のremix。Crue-L Classics 12インチシリーズとして2010年にリリースされた。
+Kenji Takimi(瀧見憲司)とTomoki Kanda(神田朋樹)によるCrue-L Grand Orchestra「(You Are) More Than Paradise」のremix。
+
+Crue-L Classics 12インチシリーズとして2010年にリリースされた。
 
 A1 & AAは、デトロイトを拠点に活動するDJ／レコードプロデューサーTheo Parrish (テオ・パリッシュ)によるremix。
 

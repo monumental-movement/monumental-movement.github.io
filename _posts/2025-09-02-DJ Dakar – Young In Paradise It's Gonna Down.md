@@ -7,7 +7,9 @@ tags: [ Deep House, Tech House, 00s ]
 image: ../assets/images/DJ Dakar – Young In Paradise Its Gonna Down.jpg
 ---
 
-DJ Dakar こと Christian Kreuz は、ユニットDakar & Grinserとして、1990年代後半からドイツ・ミュンヘンを拠点に活動し、クラブ「Ultraschall」のレジデントDJを務めた。2001年にDakar & Grinserが一時解散するとソロに転向。2003年にソロ・アルバム『Diktatur Des Kapitals』でメジャー・デビューし、2006年には自身のレーベルShotgun Recordings を設立した。
+DJ Dakar こと Christian Kreuz は、ユニットDakar & Grinserとして、1990年代後半からドイツ・ミュンヘンを拠点に活動し、クラブ「Ultraschall」のレジデントDJを務めた。2001年にDakar & Grinserが一時解散するとソロに転向。
+
+2003年にソロ・アルバム『Diktatur Des Kapitals』でメジャー・デビューし、2006年には自身のレーベルShotgun Recordings を設立した。
 
 2007年にリリースした「Young In Paradise / It's Gonna Down」は、高い評価を得たHouse／Deep House／Tech Houseトラック。「Young In Paradise」はDJ Linus によるコンピレーションにも収録されている。
 
