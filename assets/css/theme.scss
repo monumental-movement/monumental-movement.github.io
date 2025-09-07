@@ -19,7 +19,6 @@ $enable-rounded: false;
 // general
 body, input, button, select, optgroup, textarea {   
     font-family:"Noto Sans Japanese",
-    Arial,
     "Hiragino Kaku Gothic ProN",
     "Hiragino Sans",
     Meiryo,
@@ -69,7 +68,6 @@ h4::before{
 }
 blockquote {
     font-family:"Noto Sans Japanese",
-    Arial,
     "Hiragino Kaku Gothic ProN",
     "Hiragino Sans",
     Meiryo,
@@ -504,7 +502,11 @@ img, img:hover {
         line-height: 1;
         padding: 2px 3px;
         width: 150px;
-        font-family: Arial;
+        font-family: font-family:"Noto Sans Japanese",
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
         text-align: center;
         border-radius: 3px;
         transition: all .4s;
