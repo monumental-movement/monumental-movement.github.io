@@ -7,9 +7,11 @@ tags: [ IDM, Electro, 00s ]
 image: ../assets/images/Depeche Mode – A Pain That I'm Used To.jpg
 ---
 
-A. A Pain That I'm Used To (Bitstream Threshold Mix)
+Depeche Mode(デペッシュモード )の11枚目のアルバム「Playing the Angel (プレイング・ジ・エンジェル)」からのシングルカット。プロデューサーはBen Hillier。
 
-AA. A Pain That I'm Used To (Bitstream Spansule Mix)
+Remix は、90年代後半からIDM／テクノ／エレクトロ系のサウンドを、Warp RecordsやElectrix Records などからリリースしている、UK出身の兄弟ユニットBitstream (Dave Conner & Steve Conner)が担当。
+
+2005年にUKレーベルMuteからリリースされたIDM／Electro。
 
 
 #### Tracklist
