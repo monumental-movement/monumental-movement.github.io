@@ -250,12 +250,9 @@ AA. Umbellikilisis
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pmprLHuXa4E?si=2xEb8hjoM1pqWipJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
-
-
----
 
 ###  **Psy-Tranceの魅力**  
 幻想的でスピリチュアル、時に実験的。90年代から現代まで脈々と続くサイケデリック・トランスの世界を、ぜひ体感してみてください。
