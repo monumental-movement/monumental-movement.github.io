@@ -4,7 +4,7 @@ title:  "【コラム】 ディスコと日本文化の交差から現在まで 
 author: mmr
 categories: [ Column ]
 tags: [ Disco, 70s, 80s, 90s, 00s, 10s, 20s ]
-image: ../assets/images/column-70s-disco-japan.webp
+image: ../assets/images/column-disco-japan.webp
 ---
 
 
