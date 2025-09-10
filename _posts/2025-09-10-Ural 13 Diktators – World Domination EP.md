@@ -4,7 +4,7 @@ title:  "Ural 13 Diktators – World Domination EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno, Hi NRG, 00s ]
-image: ../assets/Ural 13 Diktators – World Domination EP.jpg
+image: ../assets/images/Ural 13 Diktators – World Domination EP.jpg
 ---
 
 Ural 13 Diktatorsは、1997年にLauri Kasti と Lupu Pitkänenによって結成されたヘルシンキを拠点とするデュオ。Ural 13 Diktatorsのスタイルは、80年代の音楽（Hi NRG、Disco、Electro、Synth Pop）、90年代のサウンド（Techno、House）、ビデオゲーム音楽のクロスオーバーが特徴。
