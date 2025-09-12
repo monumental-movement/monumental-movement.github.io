@@ -3,7 +3,7 @@ layout: post
 title:  "Ursula 1000 – Here Comes Tomorrow"
 author: mmr
 categories: [ Vinyl ]
-tags: [Bossa Nova, Lounge, Shibuya-kei, 00s ]
+tags: [Bossa Nova, Lounge, Shibuya-kei, 90s, 00s ]
 image: ../assets/images/Ursula 1000 – Here Comes Tomorrow.jpg
 ---
 
