@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ハードロックとゲーム文化の交差史"
 author: mmr
 categories: [ Column ]
-tags: [ Shibuya-kei ]
+tags: [ Hard Rock, Game ]
 image: ../assets/images/column-hard-rock-game.webp
 ---
 

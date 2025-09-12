@@ -3,7 +3,7 @@ layout: post
 title:  "8bit Project – Familiar Computing World"
 author: mmr
 categories: [ CD ]
-tags: [ Electronic, Chiptune, Techno, 00s ]
+tags: [ Electronic, Chiptune, Techno, Game, 00s ]
 image: ../assets/images/8bit Project – Familiar Computing World.jpg
 ---
 
