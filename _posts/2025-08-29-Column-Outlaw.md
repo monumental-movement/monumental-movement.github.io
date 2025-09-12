@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 年代別・音楽カルチャーと“アウトロー”の相互作用史"
 author: mmr
 categories: [ Column ]
-tags: [ 50s, 60s, 70s, 80s, 90s, 00s ]
+tags: [ Outlaw, 50s, 60s, 70s, 80s, 90s, 00s ]
 image: ../assets/images/column-outlaw.webp
 ---
 
