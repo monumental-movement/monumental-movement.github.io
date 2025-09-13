@@ -29,6 +29,37 @@ body, input, button, select, optgroup, textarea {
     Meiryo,
     sans-serif;
 }
+
+.goog-te-banner-frame {
+  display: none !important;
+}
+.goog-tooltip {
+  display: none !important;
+}
+.goog-te-combo {
+  margin: 0 !important;
+}
+.goog-tooltip:hover {
+  display: none !important;
+}
+.goog-text-highlight {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+.goog-logo-link{
+  display: none !important;
+}
+.goog-te-gadget{
+  height: 30px !important;  
+  overflow: hidden;
+  font-size: unset !important;
+}
+body{ 
+  top: 0 !important;
+}
+
+
 body {
     line-height:1.7;
     background: #f4f4f4;
