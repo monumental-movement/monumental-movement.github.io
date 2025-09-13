@@ -38,7 +38,7 @@ body, input, button, select, optgroup, textarea {
 /* 翻訳メニューを右上固定 */
 #google_translate_element {
   position: fixed;
-  top:30px;
+  top:60px;
   right: 110px;
   z-index: 9999;
   background: rgba(0,0,0,0.6);
@@ -55,7 +55,7 @@ body, input, button, select, optgroup, textarea {
 }
 
 @media (max-width: 768px) {
-    #google_translate_element {
+#google_translate_element {
   position: fixed;
   top:130px;
   right: 110px;
@@ -72,7 +72,7 @@ body, input, button, select, optgroup, textarea {
   font-size: 14px;
   border-radius: 4px;
 }
-    }
+}
 
 
 
