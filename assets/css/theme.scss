@@ -39,7 +39,7 @@ body, input, button, select, optgroup, textarea {
 #google_translate_element {
   position: fixed;
   top:60px;
-  right: 110px;
+  right: 30px;
   z-index: 9999;
   background: rgba(0,0,0,0.6);
   padding: 5px 8px;
@@ -57,8 +57,8 @@ body, input, button, select, optgroup, textarea {
 @media (max-width: 768px) {
 #google_translate_element {
   position: fixed;
-  top:130px;
-  right: 110px;
+  top:60px;
+  right: 20px;
   z-index: 1;
   background: rgba(0,0,0,0.6);
   padding: 5px 8px;
