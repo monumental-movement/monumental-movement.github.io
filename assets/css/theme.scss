@@ -54,6 +54,29 @@ body, input, button, select, optgroup, textarea {
   border-radius: 4px;
 }
 
+@media (max-width: 768px) {
+    #google_translate_element {
+  position: fixed;
+  top:30px;
+  right: 110px;
+  z-index: 9999;
+  background: rgba(0,0,0,0.6);
+  padding: 5px 8px;
+  border-radius: 6px;
+}
+
+#google_translate_element select {
+  background: #fff;
+  border: none;
+  padding: 34px 8px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+    }
+
+
+    
+
 body {
     line-height:1.7;
     background: #f4f4f4;
