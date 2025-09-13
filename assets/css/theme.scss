@@ -30,6 +30,31 @@ body, input, button, select, optgroup, textarea {
     sans-serif;
 }
 
+#google-te-banner-frame {
+  display: none !important;
+}
+#google-tooltip {
+  display: none !important;
+}
+#google-te-combo {
+  margin: 0 !important;
+}
+#google-tooltip:hover {
+  display: none !important;
+}
+#google-text-highlight {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+#google-logo-link{
+  display: none !important;
+}
+#google-te-gadget{
+  height: 30px !important;  
+  overflow: hidden;
+  font-size: unset !important;
+}
 
 /* 翻訳メニューを右上固定 */
 #google_translate_element {
