@@ -30,21 +30,6 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
-<div id="google_translate_element"></div>
-<script type="text/javascript">
-function googleTranslateElementInit()
-{
-    new google.translate.TranslateElement(
-    {
-        pageLanguage: 'ja',               // Webサイトの言語
-        includedLanguages: 'ar,de,en,es,fr,zh-TW,zh-CN,ja,ko', // 翻訳する言語
-        layout: google.translate.TranslateElement.InlineLayout.SIMPLE, // 表示モード
-        multilanguagePage: true, // コンテンツに複数の言語が含まれているか
-        gaTrack: true,  // Google Analyticsにより、トラフィックを追跡するか
-        gaId: 'G-YYMSK3VLV2' // Google AnalyticsのID
-    }, 'google_translate_element' );
-}
-</script>
 </head>
 {% include twitter-card.html %}
 {% if jekyll.environment == 'production' %}
@@ -118,7 +103,20 @@ function googleTranslateElementInit()
     <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>  
-   
+   <div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit()
+{
+    new google.translate.TranslateElement(
+    {
+        pageLanguage: 'ja',               // Webサイトの言語
+        includedLanguages: 'ar,de,en,es,fr,zh-TW,zh-CN,ja,ko', // 翻訳する言語
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE, // 表示モード
+        gaTrack: true,  // Google Analyticsにより、トラフィックを追跡するか
+        gaId: 'G-YYMSK3VLV2' // Google AnalyticsのID
+    }, 'google_translate_element' );
+}
+</script>
 
 <script type="text/javascript"
   src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
