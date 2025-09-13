@@ -226,7 +226,7 @@ color: #fff;
 
 ---
 
-# 音楽ゲームに収録されたハードロック楽曲一覧
+## 音楽ゲームに収録されたハードロック楽曲一覧
 
 2000年代以降、**Guitar Hero** や **Rock Band** といった音楽ゲームは、過去のハードロック名曲を新世代に届ける重要な役割を果たしました。さらに日本のアーケード音楽ゲームでも、独自のハードロック解釈が多数登場しました。以下は代表的な収録例です。
 
@@ -317,12 +317,16 @@ color: #fff;
 | Cytus II (2018) | Freedom Dive | xi | メタルコア的要素を持つ高速曲 |
 | Cytus II (2018) | Chaos | Sta | デジタルとHRギターの融合 |
 
+---
+
 ### Rayark: Deemo
 
 | タイトル | 収録曲 | アーティスト | 備考 |
 |----------|---------|--------------|------|
 | Deemo (2013) | Utopiosphere | M2U | ピアノ主体だがギターアレンジ有 |
 | Deemo II (2022) | ANiMA | xi | ギター主体でメタル色強め |
+
+---
 
 ### lowiro: Arcaea
 
@@ -344,6 +348,8 @@ color: #fff;
 | Rock Mixtape DLC (2022) | The Pretender | Foo Fighters | HR要素強めの2000年代代表曲 |
 | Linkin Park Pack (2020) | In the End | Linkin Park | Nu-Metal寄りながらHR要素あり |
 | Linkin Park Pack (2020) | Numb | Linkin Park | VRで再評価 |
+
+---
 
 ### その他VR音楽ゲーム
 
