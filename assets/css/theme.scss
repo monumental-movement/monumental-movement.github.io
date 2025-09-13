@@ -30,30 +30,24 @@ body, input, button, select, optgroup, textarea {
     sans-serif;
 }
 
-.goog-te-banner-frame {
-  display: none !important;
+
+/* 翻訳メニューを右上固定 */
+#google_translate_element {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 9999;
+  background: rgba(0,0,0,0.6);
+  padding: 5px 8px;
+  border-radius: 6px;
 }
-.goog-tooltip {
-  display: none !important;
-}
-.goog-te-combo {
-  margin: 0 !important;
-}
-.goog-tooltip:hover {
-  display: none !important;
-}
-.goog-text-highlight {
-  background-color: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-.goog-logo-link{
-  display: none !important;
-}
-.goog-te-gadget{
-  height: 30px !important;  
-  overflow: hidden;
-  font-size: unset !important;
+
+#google_translate_element select {
+  background: #fff;
+  border: none;
+  padding: 4px 8px;
+  font-size: 14px;
+  border-radius: 4px;
 }
 
 body {
