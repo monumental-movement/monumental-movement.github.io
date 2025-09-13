@@ -30,6 +30,10 @@ body, input, button, select, optgroup, textarea {
     sans-serif;
 }
 
+.VIpgJd-ZVi9od-ORHb-OEVmcd {
+    display: none; // add !important if required 
+  }
+  
 #google-te-banner-frame {
   display: none !important;
 }
@@ -59,8 +63,8 @@ body, input, button, select, optgroup, textarea {
 /* 翻訳メニューを右上固定 */
 #google_translate_element {
   position: fixed;
-  top: 10px;
-  right: 10px;
+  top:30px;
+  right: 110px;
   z-index: 9999;
   background: rgba(0,0,0,0.6);
   padding: 5px 8px;
