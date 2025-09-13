@@ -55,31 +55,34 @@ body, input, button, select, optgroup, textarea {
 }
 
 
-.goog-te-banner-frame {
+
+
+#goog-te-banner-frame {
   display: none !important;
 }
-.goog-tooltip {
+#goog-tooltip {
   display: none !important;
 }
-.goog-te-combo {
+#goog-te-combo {
   margin: 0 !important;
 }
-.goog-tooltip:hover {
+#goog-tooltip:hover {
   display: none !important;
 }
-.goog-text-highlight {
+#goog-text-highlight {
   background-color: transparent !important;
   border: none !important;
   box-shadow: none !important;
 }
-.goog-logo-link{
+#goog-logo-link{
   display: none !important;
 }
-.goog-te-gadget{
+#goog-te-gadget{
   height: 30px !important;  
   overflow: hidden;
   font-size: unset !important;
 }
+
 
 
 @media (max-width: 768px) {
