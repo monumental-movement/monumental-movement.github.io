@@ -115,7 +115,7 @@ function googleTranslateElementInit()
         expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
         document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
       };
-      setCookie('googtrans', '/auto/en', 1); //この部分でデフォルトをenに指定
+      setCookie('googtrans', '/auto/ja', 1); //この部分でデフォルトをenに指定
     };
     /* ここまで */
     new google.translate.TranslateElement(
