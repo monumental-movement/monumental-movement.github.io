@@ -37,6 +37,11 @@ body, input, button, select, optgroup, textarea {
 
 /* 翻訳メニューを右上固定 */
 #google_translate_element {
+    font-family:"Local Noto Sans JP", "Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
   position: fixed;
   top:60px;
   right: 110px;
