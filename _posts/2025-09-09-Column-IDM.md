@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で"
 author: mmr
 categories: [ Column ]
-tags: [ IDM, electronic ]
+tags: [ IDM, 90s, 00s ]
 image: ../assets/images/column-idm.webp
 ---
 
