@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="google-translate-customization" content="xx"></meta>
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -103,6 +104,34 @@
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>  
    
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit()
+{
+    /* この部分追加 */
+    if (document.cookie.match("googtrans") == null) {
+      function setCookie(key, value, expiry) {
+        var expires = new Date();
+        expires.setTime(expires.getTime() + (expiry * 24 * 60 * 60 * 1000));
+        document.cookie = key + '=' + value + ';expires=' + expires.toUTCString();
+      };
+      setCookie('googtrans', '/auto/en', 1); //この部分でデフォルトをenに指定
+    };
+    /* ここまで */
+    new google.translate.TranslateElement(
+    {
+        pageLanguage: 'ja',               // Webサイトの言語
+        includedLanguages: 'de,en,zh-CN', // 翻訳する言語
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE, // 表示モード
+        autoDisplay: true,       // 翻訳バナーを自動的に表示するか
+        multilanguagePage: true, // コンテンツに複数の言語が含まれているか
+        gaTrack: true,  // Google Analyticsにより、トラフィックを追跡するか
+        gaId: 'UA-xx-1' // Google AnalyticsのID
+    }, 'google_translate_element' );
+}
+</script>
+<script type="text/javascript"
+  src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <!-- Site Tag
     ================================================== -->
