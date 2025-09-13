@@ -33,32 +33,7 @@ body, input, button, select, optgroup, textarea {
 .VIpgJd-ZVi9od-ORHb-OEVmcd {
     display: none; // add !important if required 
   }
-  
-#google-te-banner-frame {
-  display: none !important;
-}
-#google-tooltip {
-  display: none !important;
-}
-#google-te-combo {
-  margin: 0 !important;
-}
-#google-tooltip:hover {
-  display: none !important;
-}
-#google-text-highlight {
-  background-color: transparent !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-#google-logo-link{
-  display: none !important;
-}
-#google-te-gadget{
-  height: 30px !important;  
-  overflow: hidden;
-  font-size: unset !important;
-}
+
 
 /* 翻訳メニューを右上固定 */
 #google_translate_element {
@@ -74,7 +49,7 @@ body, input, button, select, optgroup, textarea {
 #google_translate_element select {
   background: #fff;
   border: none;
-  padding: 4px 8px;
+  padding: 34px 8px;
   font-size: 14px;
   border-radius: 4px;
 }
