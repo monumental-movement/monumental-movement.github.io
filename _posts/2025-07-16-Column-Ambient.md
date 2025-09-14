@@ -252,3 +252,10 @@ NFTアートやジェネレーティブ・ミュージックとの融合も進�
   </tbody>
 </table>
 </div>
+
+
+---
+
+### 関連コラム
+
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
