@@ -154,6 +154,7 @@ color: #fff;
 
 
 ### 1970年代
+
 | 曲名 | アーティスト | 年 |
 |------|--------------|----|
 | Discreet Music | Brian Eno | 1975 |
@@ -168,6 +169,7 @@ color: #fff;
 | Timewind | Klaus Schulze | 1975 |
 
 ### 1980年代
+
 | 曲名 | アーティスト | 年 |
 |------|--------------|----|
 | The Plateaux of Mirror | Harold Budd & Brian Eno | 1980 |
@@ -182,6 +184,7 @@ color: #fff;
 | Music for Nine Post Cards | Hiroshi Yoshimura | 1982 |
 
 ### 1990年代
+
 | 曲名 | アーティスト | 年 |
 |------|--------------|----|
 | Adventures Beyond the Ultraworld | The Orb | 1991 |
@@ -196,6 +199,7 @@ color: #fff;
 | Polygon Window | Aphex Twin | 1993 |
 
 ### 2000年代
+
 | 曲名 | アーティスト | 年 |
 |------|--------------|----|
 | Endless Summer | Fennesz | 2001 |
@@ -210,6 +214,7 @@ color: #fff;
 | Spellewauerynsherde | Akira Rabelais | 2004 |
 
 ### 2010年代〜
+
 | 曲名 | アーティスト | 年 |
 |------|--------------|----|
 | Replica | Oneohtrix Point Never | 2011 |
