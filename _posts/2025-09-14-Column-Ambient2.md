@@ -306,20 +306,25 @@ color: #fff;
 
 ## 日本のアンビエント作家特集  
 
-### 吉村弘 (Hiroshi Yoshimura)
+**吉村弘 (Hiroshi Yoshimura)**
+
 - 代表作『Music for Nine Post Cards』（1982）、『Green』（1986）  
 - シンプルな旋律と透き通るサウンドで、近年海外再評価が進む。  
 
-### 高橋悠治 (Yuji Takahashi)
+**高橋悠治 (Yuji Takahashi)**
+
 - ジョン・ケージら前衛作曲家と交流し、日本に実験音楽を根付かせた。  
 
-### 坂本龍一 (Ryuichi Sakamoto)
+**坂本龍一 (Ryuichi Sakamoto)**
+
 - 『async』（2017）で環境音と音響芸術を融合。アンビエント的要素をキャリア全体で展開。  
 
-### 川井憲次 (Kenji Kawai)
+**川井憲次 (Kenji Kawai)**
+
 - 『攻殻機動隊』などアニメ音楽でアンビエント的空間を表現。  
 
-### その他
+**その他**
+
 - 芳垣安洋、ACO、CHIhei Hatakeyama など。  
 - 日本特有の「間（ま）」や「侘び寂び」が、海外のアンビエントと異なる質感を形成。  
 
