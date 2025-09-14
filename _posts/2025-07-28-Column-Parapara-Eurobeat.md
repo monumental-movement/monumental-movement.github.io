@@ -116,3 +116,11 @@ Time、A-Beat C、Deltaなど、イタリアのレーベルがavexと専属契�
 **「反復性」「明確な構造」「集団性」「ドラマティックな演出」**など、共通する文化的コードによって強く結びついていた。
 
 それはまさに、“音楽が身体を通して文化となる”現象のひとつの典型だった。
+
+--
+
+### 関連コラム👇
+
+ [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+
+[【コラム】 アニメと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

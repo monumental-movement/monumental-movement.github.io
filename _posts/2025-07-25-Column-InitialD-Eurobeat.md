@@ -104,3 +104,12 @@ TikTokやMAD動画などでユーロビートは新たな形で再解釈され�
 
 それは、私たち自身の“若さ”や“衝動”の追体験でもある。
 あの音が鳴れば、今でも心がカーブを切るのだ。
+
+--
+
+
+### 関連コラム👇
+
+[【コラム】 アニメと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+
+[【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
