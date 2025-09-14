@@ -107,8 +107,7 @@ TikTokやMAD動画などでユーロビートは新たな形で再解釈され�
 
 ---
 
-
-### 関連コラム👇
+### 関連コラム
 
 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
