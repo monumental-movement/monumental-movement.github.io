@@ -58,9 +58,9 @@ body, input, button, select, optgroup, textarea {
 @media (max-width: 768px) {
 #google_translate_element {
   position: fixed;
-  top:60px;
-  right: 20px;
-  z-index: 1;
+  top:40px;
+  right: 30px;
+  z-index: 9999;
   background: #fff;
   padding: 5px 8px;
   border-radius: 6px;
