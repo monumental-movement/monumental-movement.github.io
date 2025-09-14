@@ -54,18 +54,20 @@ color: #fff;
 </style>
 
 
-| 曲名 | アーティスト | 特徴・備考 | Spotify 試聴リンク | YouTube 試聴リンク |
-|------|--------------|-------------|------------------------|------------------------|
-| Deja Vu | Dave Rodgers | 頭文字Dとミーム文化を象徴する代表曲 | [Deja Vu – Dave Rodgers](https://open.spotify.com/track/6CRtIYDga4VKW5sV5rfAL3) | [YouTube: Deja Vu](https://www.youtube.com/watch?v=3ynqLYogVqbCFO02I6664z) |
-| Running in the 90s | Max Coveri | ネットミームで再爆発した90年代感 | [Running in the 90s – Max Coveri](https://open.spotify.com/track/2u7Vt5Jn8VPjYp7fEmiMxl) *（Spotify上の類似トラック）* | [YouTube: Running in the 90s](https://www.youtube.com/watch?v=_Yq4xXEf6dw) |
-| Night of Fire | Niko / Maurizio De Jorio | パラパラ世代とアニメ世代をつなぐ定番 | [Night of Fire – Maurizio De Jorio](https://open.spotify.com/track/6Yg1jyRZy0ZxWdBwOowEwj) | [YouTube: Night of Fire](https://www.youtube.com/watch?v=FNM7DHh5l_g) |
-| Space Boy | Dave Rodgers | 疾走感とメロディの強さで人気 | [Space Boy – Dave Rodgers](https://open.spotify.com/track/63kHJGtpvLVKvkGkPtnhL0) | [YouTube: Space Boy](https://www.youtube.com/watch?v=HFjI1NWyT8w) |
-| Dancing | Vicky Vale | 序盤のレースシーンで印象的に使用 | [Dancing – Vicky Vale](https://open.spotify.com/track/0j1lIXKuxaTlFYu9arZJns) | [YouTube: Dancing](https://www.youtube.com/watch?v=o0tQUPdlX60) |
-| Beat of the Rising Sun | Dave Rodgers | 高揚感とドラマチックな展開 | [Beat of the Rising Sun – Dave Rodgers](https://open.spotify.com/track/0x3OapxqK8tWg1xeixcxkj) | [YouTube: Beat of the Rising Sun](https://www.youtube.com/watch?v=5A4CrAXVWSA) |
-| No One Sleep in Tokyo | Edo Boys | 東京的なサウンドイメージと疾走感 | [No One Sleep in Tokyo – Edo Boys](https://open.spotify.com/track/1bTQ4PK6nkbV5vKeovgkO2) | [YouTube: No One Sleep in Tokyo](https://www.youtube.com/watch?v=D0FGOO7gYgk) |
-| Speedy Speed Boy | Marko Polo | スピード感を体現するタイトルとリズム | [Speedy Speed Boy – Marko Polo](https://open.spotify.com/track/2kDqmTkpnfzZSlUx04iDHc) | [YouTube: Speedy Speed Boy](https://www.youtube.com/watch?v=Nt-L8I3TQGk) |
-| Remember Me | Leslie Parrish | メロディックで情緒的、人気の高い1曲 | [Remember Me – Leslie Parrish](https://open.spotify.com/track/1jZkPxBoBXwG6eUtLNoXqc) | [YouTube: Remember Me](https://www.youtube.com/watch?v=ZwhnyVWIfFU) |
-| Back on the Rocks | Mega NRG Man | レースシーンを盛り上げる定番アンセム | [Back on the Rocks – Mega NRG Man](https://open.spotify.com/track/1zZcBtUyQmTryqjk655H7L) | [YouTube: Back on the Rocks](https://www.youtube.com/watch?v=ffB5tqrrLfk) |
+| 曲名 | アーティスト | 特徴・備考 |
+|------|--------------|-------------| 
+| Deja Vu | Dave Rodgers | 頭文字Dとミーム文化を象徴する代表曲 | 
+| Running in the 90s | Max Coveri | ネットミームで再爆発した90年代感 | 
+| Night of Fire | Niko | パラパラ世代とアニメ世代をつなぐ定番 | 
+| Space Boy | Dave Rodgers | 疾走感とメロディの強さで人気 | 
+| Dancing | Vicky Vale | 序盤のレースシーンで印象的に使用 | 
+| Beat of the Rising Sun | Dave Rodgers | 高揚感とドラマチックな展開 | 
+| No One Sleep in Tokyo | Edo Boys | 東京的なサウンドイメージと疾走感 | 
+| Speedy Speed Boy | Marko Polo | スピード感を体現するタイトルとリズム | 
+| Remember Me | Leslie Parrish | メロディックで情緒的、人気の高い1曲 | 
+| Back on the Rocks | Mega NRG Man | レースシーンを盛り上げる定番アンセム |
+
+---
 
 ### 結論 —— 走り続ける音楽
 『頭文字D』が終わって20年近く経つ今も、ユーロビートは止まらない。  
@@ -77,7 +79,7 @@ color: #fff;
 
 再生ボタンを押すたびに、あのカーブが待っている。  
 
---
+---
 
 ### 関連コラム👇
 
