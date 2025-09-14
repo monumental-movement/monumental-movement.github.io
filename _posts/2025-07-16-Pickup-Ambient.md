@@ -3,7 +3,7 @@ layout: post
 title:  "アンビエント作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
-tags: [ Ambient ]
+tags: [ Ambient, 90s, 80s, 70s ]
 image: ../assets/images/pickup-ambient.webp
 ---
 

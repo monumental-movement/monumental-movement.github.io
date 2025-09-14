@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII"
 author: mmr
 categories: [ Column ]
-tags: [ Ambient ]
+tags: [ Ambient, 90s, 80s, 70s ]
 image: ../assets/images/column-ambient2.webp
 ---
 
