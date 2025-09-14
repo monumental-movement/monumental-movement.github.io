@@ -153,6 +153,8 @@ color: #fff;
 </style>
 
 
+<br>
+
 ### 1970年代
 
 | 曲名 | アーティスト | 年 |
@@ -167,6 +169,8 @@ color: #fff;
 | Music for Films | Brian Eno | 1978 |
 | Phaedra | Tangerine Dream | 1974 |
 | Timewind | Klaus Schulze | 1975 |
+
+<br>
 
 ### 1980年代
 
@@ -183,6 +187,8 @@ color: #fff;
 | Landscape | Hiroshi Yoshimura | 1986 |
 | Music for Nine Post Cards | Hiroshi Yoshimura | 1982 |
 
+<br>
+
 ### 1990年代
 
 | 曲名 | アーティスト | 年 |
@@ -198,6 +204,8 @@ color: #fff;
 | The Fires of Ork | Pete Namlook & Geir Jenssen | 1993 |
 | Polygon Window | Aphex Twin | 1993 |
 
+<br>
+
 ### 2000年代
 
 | 曲名 | アーティスト | 年 |
@@ -212,6 +220,8 @@ color: #fff;
 | Far Away Trains Passing By | Ulrich Schnauss | 2001 |
 | Eno Box I/II (Reissues) | Brian Eno | 2000s |
 | Spellewauerynsherde | Akira Rabelais | 2004 |
+
+<br>
 
 ### 2010年代〜
 
@@ -250,6 +260,8 @@ color: #fff;
 ---
 
 ## ■ 映画・美術館でのアンビエント活用事例  
+
+<br>
 
 ### 映画  
 - **『2001年宇宙の旅』（1968, Stanley Kubrick）**  
