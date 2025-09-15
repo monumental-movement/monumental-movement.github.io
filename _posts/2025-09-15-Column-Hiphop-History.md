@@ -228,7 +228,7 @@ Migos『Culture』(2017)
 
 ## 可視化図解
 
-### 主要アーティストの系譜図（家系図風）
+### 主要アーティストの系譜図
 
 <div class="mermaid">
 graph TD
