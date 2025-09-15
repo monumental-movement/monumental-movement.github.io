@@ -268,7 +268,7 @@ Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwest�
 ### 代表的ビートの波形比較
 
 <div class="mermaid">
-%% 擬似的な波形イメージ
+
 graph LR
     subgraph BoomBap["Boom Bap (90s East)"]
         B1[Kick ---] --> B2[Snare ^^^]
@@ -302,7 +302,8 @@ graph LR
 
 ### 年代別勢力図の移り変わり
 
-```mermaid
+<div class="mermaid">
+
 flowchart TB
     subgraph 1980s
         E[East Coast Dominance]
@@ -321,7 +322,9 @@ flowchart TB
     end
 
     E --> W --> S --> M --> P
-```
+
+</div>
+
 
 ---
 
@@ -332,65 +335,138 @@ flowchart TB
 
 ---
 
-### Boom Bap（90s East Coast）
+## 1980s（黎明期：ドラムマシンとサンプラー）
 
-Kick: ███ ███
-
-Snare: █████
-
-HiHat: - - - - - - - - - -
-
-波形イメージ: ┐ ┌ ┐ ┌
-│ │ │ │
-└───┘ └───┘
-
-
-□太いキックと重いスネアが2拍4拍に強調される。ジャズ／ソウルサンプルのループが背景。
-
----
-
-### 808（80s-2000s West & South）
-Kick (808 sub): ██████████▒▒▒▒▒▒
-Clap: ▒▒▒▒
-HiHat: - - - - -
-
-波形イメージ: ▂▄▆█▇▅▄▂
-
-
-□長いサイン波状の低音が支配。車のサブウーファーで響くよう設計されている。
+<table class="table-wave">
+<tr>
+<th>代表機材</th>
+<th>波形イメージ</th>
+</tr>
+<tr>
+<td>
+- Roland TR-808  
+- Oberheim DMX  
+- E-mu SP-12  
+</td>
+<td>
+<div class="oscilloscope">
+Kick : ▂▄▆█▇▅▄▂  
+Snare: ▃▃▅▅██▅▃  
+HiHat: - - - - - - - -  
+Clap : ░░██░░  
+Bass : ▂▄▅▄▂  
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### Trap Hi-Hat Roll（2010s South）
+## 1990s（黄金期：サンプリングとBoom Bap / G-Funk）
 
-HiHat: tttttttttttttttttt
-Snare: █ █
-Kick 808: ███▒▒▒ ███▒▒▒
-
-**波形イメージ**
-
-┌┐┌┐┌┐┌┐┌┐┌┐┌┐┌┐ （高速矩形波っぽいHiHat）
-
-█ █ █ █ （808 + Snare）
-
-
-超高速ハイハットのロールが「矩形波」的なビジュアル。 
-
-ローランドTR-808の低音と組み合わさり、空間を埋め尽くす。
+<table class="table-wave">
+<tr>
+<th>代表機材</th>
+<th>波形イメージ</th>
+</tr>
+<tr>
+<td>
+- Akai MPC60 / MPC3000  
+- E-mu SP-1200  
+- Roland TR-909  
+</td>
+<td>
+<div class="oscilloscope">
+Kick : █▄█▄█▄█  
+Snare: ▄▄▄██▄▄▄  
+HiHat: -x-x-x-x-  
+Clap : ░█░░█░  
+Bass : ▂▄▆█▇▆▄▂  
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 図解の意味
-- **Boom Bap** → パーカッシブで矩形的なリズム  
-- **808 Bass** → サイン波に近い持続的な低音  
-- **Trap Hi-Hat** → 矩形波の細分化（16分音符～32分音符の連打）
+## 2000s（デジタル化・クラブ重視）
+
+<table class="table-wave">
+<tr>
+<th>代表機材</th>
+<th>波形イメージ</th>
+</tr>
+<tr>
+<td>
+- Akai MPC2000XL  
+- Pro Tools  
+- Korg Triton  
+</td>
+<td>
+<div class="oscilloscope">
+Kick : ███▄████  
+Snare: ▄▄▄▄████▄▄  
+HiHat: - - x - - x -  
+Clap : ░██░░██░  
+Bass : ▂▂▄▆██▆▄▂  
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 補足
-実際のオシロスコープでは、808は**滑らかなサイン波**、Boom Bapのキックは**矩形＋ノイズ成分**、Trap Hi-Hatは**細かい矩形波パルス**に近い表示となる。  
-この擬似可視化は、読者に「耳で聴いたリズムの視覚的イメージ」を想起させる狙いがある。
+## 2010s（Trap時代・サブベースと高速HiHat）
 
+<table class="table-wave">
+<tr>
+<th>代表機材</th>
+<th>波形イメージ</th>
+</tr>
+<tr>
+<td>
+- FL Studio  
+- Roland TR-808（ソフト音源）  
+- Ableton Live  
+</td>
+<td>
+<div class="oscilloscope">
+Kick : ██████▄██████  
+Snare: ▄▄██▄▄  
+HiHat: -x-x-x-x-x-x-x-  
+Clap : ░░██░░██░░  
+Bass : ▂▄▆█▇▇█▆▄▂  
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 2020s（多様化・ジャンル横断）
+
+<table class="table-wave">
+<tr>
+<th>代表機材</th>
+<th>波形イメージ</th>
+</tr>
+<tr>
+<td>
+- Ableton Live 11  
+- Logic Pro X  
+- Soft-synth（Serum, Massive, Omnisphere）  
+</td>
+<td>
+<div class="oscilloscope">
+Kick : ████████▄▄████████  
+Snare: ▄▄██▄▄██▄▄  
+HiHat: -x-xx-xx-x-x-  
+Clap : ░██░██░██░  
+Bass : ▂▄▇█▇█▇█▄▂  
+</div>
+</td>
+</tr>
+</table>
 
 **補足的考察**
 

@@ -898,3 +898,29 @@ background-color: #111;
 color: #fff;
 }
 }
+
+.oscilloscope {
+  font-family: monospace;
+  background: #000;        /* 黒背景 */
+  color: #0f0;             /* 緑文字 */
+  padding: 1em;
+  border-radius: 8px;
+  white-space: pre;        /* 改行・スペースを保持 */
+  line-height: 1.4;
+  font-size: 14px;
+}
+
+.table-wave {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+.table-wave th, .table-wave td {
+  border: 1px solid #ddd;
+  padding: 0.8em;
+  vertical-align: top;
+}
+.table-wave th {
+  background: #f0f0f0;
+  text-align: left;
+}
