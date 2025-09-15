@@ -181,13 +181,13 @@ Migos『Culture』(2017)
 
 ## 年代別代表表（East, West, South, Midwest）
 
-| 年代 | 地域 | 代表アーティスト | 名盤 | サンプリング傾向 | 代表クラブ | 代表ラジオ | 代表機材 |
-|------|------|----------------|------|----------------|------------|------------|------------|
-| 1980s | East (NYC) | Run-D.M.C., Rakim, Public Enemy | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul サンプリング濫用期 | Danceteria, Paradise Garage | WBLS, KISS FM | SP-1200, Technics SL-1200 |
-| 1990s | West (LA) | Dr. Dre, Snoop Dogg, Tupac | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk系 | The Good Life Cafe, Club Unity | KKBT (The Beat) | Akai MPC60/3000, Roland TR-808 |
-| 2000s | South (ATL, Houston) | Outkast, UGK, Lil Wayne | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | Magic City (ATL), Screw Tapes文化 | Hot 107.9, SwishaHouse Radio | Roland TR-808/909, Korg Triton |
-| 2010s | Trap & Midwest | Future, Chief Keef, Kanye West | *DS2*, *My Beautiful Dark Twisted Fantasy* | サンプリング縮小・自作ビート＋Auto-Tune | The Mid (Chicago), Detroit underground | WGCI (Chicago), Shade 45 | FL Studio, Ableton Live, Auto-Tune |
-| 2020s | 多極化 (East/West/South/Midwest均衡) | Kendrick Lamar, J. Cole, Megan Thee Stallion | *Mr. Morale & The Big Steppers*, *The Off-Season* | サンプル回帰＋AI生成ビート実験 | Echoplex (LA), Brooklyn Mirage | Apple Music Radio, YouTube Live | Maschine, Serato, Ableton Push |
+| 年代 | 地域 | アーティスト | 名盤 | サンプリング傾向 | 
+|------|------|----------------|------|----------------|
+| 1980s | East (NYC) | Run-D.M.C., Rakim, Public Enemy | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul サンプリング濫用期 | 
+| 1990s | West (LA) | Dr. Dre, Snoop Dogg, Tupac | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk系 |
+| 2000s | South (ATL, Houston) | Outkast, UGK, Lil Wayne | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | 
+| 2010s | Trap & Midwest | Future, Chief Keef, Kanye West | *DS2*, *My Beautiful Dark Twisted Fantasy* | サンプリング縮小・自作ビート＋Auto-Tune | 
+| 2020s | 多極化 (East/West/South/Midwest均衡) | Kendrick Lamar, J. Cole, Megan Thee Stallion | *Mr. Morale & The Big Steppers*, *The Off-Season* | サンプル回帰＋AI生成ビート実験 | 
 
 ---
 
