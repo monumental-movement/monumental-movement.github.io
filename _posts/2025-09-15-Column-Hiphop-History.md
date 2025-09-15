@@ -270,7 +270,7 @@ Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwest�
 
 <div class="mermaid">
 
-flowchart TB
+flowchart LR
     subgraph 1980s
         E[East Coast<br/>Dominance]
     end
@@ -295,7 +295,7 @@ flowchart TB
 
 ---
 
-# ヒップホップ代表的ビートの波形比較（オシロスコープ風）
+# ヒップホップ代表的ビートの波形比較
 
 テキストベースではあるが、サイン波や矩形波を意識した擬似的な波形で表現する。  
 ヒップホップにおけるリズムの進化を「視覚的に」理解できる。
