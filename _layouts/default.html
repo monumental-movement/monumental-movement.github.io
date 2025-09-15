@@ -14,7 +14,7 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8/dist/mermaid.min.js"></script>
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -186,6 +186,8 @@ function googleTranslateElementInit()
 {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
-
+<script>
+    mermaid.initialize({startOnLoad:true});
+</script>
 </body>
 </html>
