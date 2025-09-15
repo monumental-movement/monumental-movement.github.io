@@ -263,40 +263,6 @@ graph TD
 系譜図はNYCの起源からWest、South、Midwestまで枝分かれする「血統」を示す。
 Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwestの二大系譜が伸びる。
 
----
-
-### 代表的ビートの波形比較
-
-<div class="mermaid">
-
-graph LR
-    subgraph BoomBap["Boom Bap (90s East)"]
-        B1[Kick ---] --> B2[Snare ^^^]
-        B2 --> B3[Kick --]
-        B3 --> B4[Snare ^^^]
-    end
-    
-    subgraph 808["808 (80s-2000s West/South)"]
-        E1[808 Kick ████] --> E2[Bass Boom ▓▓▓]
-        E2 --> E3[Clap ~]
-    end
-
-    subgraph Trap["Trap Hi-Hat Roll (2010s South)"]
-        T1[Hi-Hat t-t-t-t-t] --> T2[Snare ^]
-        T2 --> T3[808 Kick ███]
-        T3 --> T4[Hi-Hat tttttttt]
-    end
-
-</div>
-
----
-
-
-**Boom Bap**：2拍4拍のスネアが重く、ジャズ／ソウルサンプルのループが基盤。
-
-**808**：低音が支配的、G-FunkやDirty Southにおける「車載サウンド」の象徴。
-
-**Trap**：高速ハイハットと808サブベース、デジタル化されたループ構造が特徴。
 
 ---
 
@@ -306,22 +272,23 @@ graph LR
 
 flowchart TB
     subgraph 1980s
-        E[East Coast Dominance]
+        E[East Coast<br/>Dominance]
     end
     subgraph 1990s
-        W[West Coast G-Funk全盛]
+        W[West Coast<br/>G-Funk 全盛]
     end
     subgraph 2000s
-        S[South Crunk/Trap前夜]
+        S[South<br/>Crunk / Trap 前夜]
     end
     subgraph 2010s
-        M[Trap + Midwest Drill台頭]
+        M[Trap<br/>+ Midwest Drill 台頭]
     end
     subgraph 2020s
-        P[多極化: East + West + South + Midwest]
+        P[多極化:<br/>East + West + South + Midwest]
     end
 
     E --> W --> S --> M --> P
+
 
 </div>
 
