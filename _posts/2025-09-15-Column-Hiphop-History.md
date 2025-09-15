@@ -179,15 +179,15 @@ Migos『Culture』(2017)
 
 ---
 
-## 年代別代表表（East, West, South, Midwest）
+## 年代別名盤とサンプリング傾向
 
-| 年代 | 地域 | アーティスト | 名盤 | サンプリング傾向 | 
+| 年代 | 名盤 | サンプリング傾向 | 
 |------|------|----------------|------|----------------|
-| 1980s | East (NYC) | Run-D.M.C., Rakim, Public Enemy | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul サンプリング濫用期 | 
-| 1990s | West (LA) | Dr. Dre, Snoop Dogg, Tupac | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk系 |
-| 2000s | South (ATL, Houston) | Outkast, UGK, Lil Wayne | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | 
-| 2010s | Trap & Midwest | Future, Chief Keef, Kanye West | *DS2*, *My Beautiful Dark Twisted Fantasy* | サンプリング縮小・自作ビート＋Auto-Tune | 
-| 2020s | 多極化 (East/West/South/Midwest均衡) | Kendrick Lamar, J. Cole, Megan Thee Stallion | *Mr. Morale & The Big Steppers*, *The Off-Season* | サンプル回帰＋AI生成ビート実験 | 
+| 1980s | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul サンプリング濫用期 | 
+| 1990s | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk系 |
+| 2000s | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | 
+| 2010s | *DS2*, *My Beautiful Dark Twisted Fantasy* | サンプリング縮小・自作ビート＋Auto-Tune | 
+| 2020s | *Mr. Morale & The Big Steppers*, *The Off-Season* | サンプル回帰＋AI生成ビート実験 | 
 
 ---
 
@@ -270,21 +270,21 @@ Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwest�
 
 <div class="mermaid">
 
-flowchart LR
+flowchart TB
     subgraph 1980s
-        E[East Coast<br/>Dominance]
+        E["East Coast<br/>Dominance"]
     end
     subgraph 1990s
-        W[West Coast<br/>G-Funk 全盛]
+        W["West Coast<br/>G-Funk 全盛"]
     end
     subgraph 2000s
-        S[South<br/>Crunk / Trap 前夜]
+        S["South<br/>Crunk / Trap 前夜"]
     end
     subgraph 2010s
-        M[Trap<br/>+ Midwest Drill 台頭]
+        M["Trap<br/>+ Midwest Drill 台頭"]
     end
     subgraph 2020s
-        P[多極化:<br/>East + West + South + Midwest]
+        P["多極化:<br/>East + West + South + Midwest"]
     end
 
     E --> W --> S --> M --> P
