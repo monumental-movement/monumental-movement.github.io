@@ -140,6 +140,8 @@ Kendrick Lamar『good kid, m.A.A.d city』(2012)
 
 Migos『Culture』(2017)
 
+---
+
 ### 地域・クラブ・メディア・制作手法の総合的影響
 
 **東海岸**：ブレイクビーツ、社会派ラップ、レコード・サンプリング文化
@@ -176,6 +178,7 @@ Migos『Culture』(2017)
 - 2000年代にはMixtapeが「SoundCloud」「DatPiff」へ移行し、インターネット時代のプロモーション手段へ進化。  
 
 ---
+
 ## 年代別代表表（East, West, South, Midwest）
 
 | 年代 | 地域 | 代表アーティスト | 名盤 | サンプリング傾向 | 代表クラブ | 代表ラジオ | 代表機材 |
@@ -227,7 +230,7 @@ Migos『Culture』(2017)
 
 ### 主要アーティストの系譜図（家系図風）
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[DJ Kool Herc] --> B[Grandmaster Flash]
     A --> C[Afrika Bambaataa]
@@ -254,7 +257,8 @@ graph TD
     V --> W[Lil Baby]
     W --> X[21 Savage]
 
-```
+</div>
+
 
 系譜図はNYCの起源からWest、South、Midwestまで枝分かれする「血統」を示す。
 Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwestの二大系譜が伸びる。
@@ -263,7 +267,7 @@ Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwest�
 
 ### 代表的ビートの波形比較
 
-```mermaid
+<div class="mermaid">
 %% 擬似的な波形イメージ
 graph LR
     subgraph BoomBap["Boom Bap (90s East)"]
@@ -283,7 +287,8 @@ graph LR
         T3 --> T4[Hi-Hat tttttttt]
     end
 
-```
+</div>
+
 ---
 
 
