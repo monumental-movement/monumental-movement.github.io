@@ -69,6 +69,91 @@ color: #fff;
 
 ---
 
+### ユーロビート × 走り屋文化の系譜図
+
+<div class="mermaid">
+graph TD
+    A[1970s Disco<br/>Giorgio Moroder] --> B[1980s Italo Disco<br/>Den Harrow / Fancy]
+    B --> C[1980s Eurobeat誕生<br/>Hi-NRG + Italo]
+    C --> D[1990s Avex Eurobeat<br/>Super Eurobeat シリーズ]
+    D --> E[頭文字D サントラ<br/>Dave Rodgers, Max Coveri, Niko]
+    E --> F[2000s以降 ネット文化<br/>「Deja Vu」「Running in the 90s」ミーム]
+    F --> G[現代 EDM / シンセウェーブに継承]
+
+    subgraph 車文化
+        X[1980s-90s<br/>峠走り屋文化<br/>藤原豆腐店 AE86]
+        Y[パラパラ・クラブ文化<br/>六本木 / 渋谷 Velfarre]
+        Z[現代 Driftシーン<br/>D1グランプリ・ゲーム文化]
+    end
+
+    C -.-> X
+    D --> Y
+    E --> X
+    E --> Z
+    F --> Z
+</div>
+
+---
+
+
+### ユーロビート基本パターン（BPM 150前後）
+
+<div class="oscilloscope"> 
+Kick : █▄█▄█▄█▄█▄█▄ 
+Snare : ▄▄▄▄██▄▄▄▄ 
+HiHat : -x-x-x-x-x- 
+Bass : ▂▄▆█▇▆▄▂ 
+Synth : ░░██░░██░░██░░ </div>
+
+
+### 頭文字D の象徴的トラック「Deja Vu」風
+
+<div class="oscilloscope"> 
+Kick : █▄█▄█▄█▄█▄█▄█▄█ 
+Snare : ▄▄▄▄██▄▄▄▄██▄▄ 
+HiHat : -x-xx-x-xx-x-xx- 
+Bass : ▂▄▆█▇█▇█▆▄▂ 
+Synth : ░█░░█░░██░░█░ 
+Vocal : ♪～～～ "Deja Vu" ♪～～～ </div>
+
+---
+
+| 年代    | 音楽的特徴               | 関連アーティスト                 | 頭文字Dとの関係     |
+| ----- | ------------------- | ------------------------ | ------------ |
+| 1970s | Disco, シンセベース黎明期    | Giorgio Moroder          | 高速ビートの原型     |
+| 1980s | Italo Disco, Hi-NRG | Den Harrow, Fancy        | ユーロビートの源流    |
+| 1990s | Avex Eurobeat黄金期    | Dave Rodgers, Max Coveri | 頭文字Dサントラ直結   |
+| 2000s | ネット拡散、パラパラ文化        | Niko, Domino             | ゲーム・アニメ文化と結合 |
+| 2010s | ミーム化、リバイバル          | Internet memes (Deja Vu) | 世界的再注目       |
+| 2020s | EDM / Synthwave融合   | 現行DJ, Producers          | 新しい走りのサウンドへ  |
+
+---
+
+### 波形イメージ（走りとのシンクロ）
+
+**AE86 ドリフト × ユーロビート**
+
+<div class="oscilloscope"> 
+Engine : ▂▄▆█▇▆▄▂▄▆█▇▆▄▂ 
+Kick : █▄█▄█▄█▄█▄█▄█▄█ 
+Snare : ▄▄▄▄██▄▄▄▄██▄▄ 
+HiHat : -x-x-x-x-x-x-x- 
+Synth : ░█░░██░░█░░██░░ 
+Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (タイヤスリップ音) </div>
+
+---
+### 文化的接点まとめ表
+
+| 領域      | 代表要素                                 | ユーロビートとの接点           |
+| ------- | ------------------------------------ | -------------------- |
+| 峠走り屋文化  | AE86, RX-7, GT-R                     | 「頭文字D」劇中走行シーンとシンクロ   |
+| クラブ文化   | パラパラ, Velfarre                       | Avex Eurobeatと直結     |
+| ネット文化   | Deja Vu ミーム                          | YouTube / TikTokで再爆発 |
+| ゲーム文化   | Initial D Arcade Stage, Gran Turismo | ユーロビートが標準BGM化        |
+| Drift競技 | D1グランプリ, Formula Drift               | 走り屋文化が国際化、BGMにEDMと共存 |
+
+---
+
 ### 結論 —— 走り続ける音楽
 『頭文字D』が終わって20年近く経つ今も、ユーロビートは止まらない。  
 それは峠を走る音楽であると同時に、ネットを駆ける音楽であり、記憶と身体を加速させる音楽でもある。  
