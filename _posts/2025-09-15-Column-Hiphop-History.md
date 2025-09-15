@@ -271,20 +271,20 @@ Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwest�
 <div class="mermaid">
 
 flowchart TB
-    subgraph 1980s
-        E["East Coast<br/>Dominance"]
+    subgraph 
+        E["1980s<br/>East Coast<br/>Dominance"]
     end
-    subgraph 1990s
-        W["West Coast<br/>G-Funk 全盛"]
+    subgraph 
+        W["1990s<br/>West Coast<br/>G-Funk 全盛"]
     end
-    subgraph 2000s
-        S["South<br/>Crunk / Trap 前夜"]
+    subgraph 
+        S["2000s<br/>South<br/>Crunk / Trap 前夜"]
     end
-    subgraph 2010s
-        M["Trap<br/>+ Midwest Drill 台頭"]
+    subgraph 
+        M["2010s<br/>Trap<br/>+ Midwest Drill 台頭"]
     end
-    subgraph 2020s
-        P["多極化:<br/>East + West + South + Midwest"]
+    subgraph
+        P["2020s<br/>多極化:<br/>East + West + South + Midwest"]
     end
 
     E --> W --> S --> M --> P
