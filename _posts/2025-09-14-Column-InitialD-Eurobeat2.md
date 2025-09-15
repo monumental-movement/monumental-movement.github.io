@@ -72,18 +72,20 @@ color: #fff;
 ### ユーロビート × 走り屋文化の系譜図
 
 <div class="mermaid">
-graph TD
-    A[1970s Disco<br/>Giorgio Moroder] --> B[1980s Italo Disco<br/>Den Harrow / Fancy]
-    B --> C[1980s Eurobeat誕生<br/>Hi-NRG + Italo]
-    C --> D[1990s Avex Eurobeat<br/>Super Eurobeat シリーズ]
-    D --> E[頭文字D サントラ<br/>Dave Rodgers, Max Coveri, Niko]
-    E --> F[2000s以降 ネット文化<br/>「Deja Vu」「Running in the 90s」ミーム]
-    F --> G[現代 EDM / シンセウェーブに継承]
 
+graph TD
+    A["1970s Disco\nGiorgio Moroder"] --> B["1980s Italo Disco\nDen Harrow / Fancy"]
+    B --> C["1980s後半 Eurobeat誕生\nHi-NRG + Italo"]
+    C --> D["1990s Avex Eurobeat\nSuper Eurobeat シリーズ"]
+    D --> E["1998 頭文字D サントラ\nDave Rodgers, Marko Polo, Max Coveri"]
+    E --> F["2000s以降 ネット文化\n「Deja Vu」「Running in the 90s」ミーム"]
+    F --> G["現代 EDM / シンセウェーブに継承"]
+
+    %% 走り屋文化ノード
     subgraph 車文化
-        X[1980s-90s<br/>峠走り屋文化<br/>藤原豆腐店 AE86]
-        Y[パラパラ・クラブ文化<br/>六本木 / 渋谷 Velfarre]
-        Z[現代 Driftシーン<br/>D1グランプリ・ゲーム文化]
+        X["峠走り屋文化\nAE86, RX-7, GT-R"] 
+        Y["パラパラ・クラブ文化\nVelfarre, 六本木"]
+        Z["現代 Driftシーン\nD1グランプリ, ゲーム文化"]
     end
 
     C -.-> X
@@ -91,6 +93,12 @@ graph TD
     E --> X
     E --> Z
     F --> Z
+
+    %% 主要曲ノード
+    X --> H["Deja Vu\nDave Rodgers"]
+    X --> I["Running in the 90s\nMax Coveri"]
+    Z --> J["Night of Fire\nNiko"]
+
 </div>
 
 ---
@@ -116,7 +124,55 @@ Bass : ▂▄▆█▇█▇█▆▄▂
 Synth : ░█░░█░░██░░█░ 
 Vocal : ♪～～～ "Deja Vu" ♪～～～ </div>
 
+### Deja Vu (Dave Rodgers)
+
+<div class="oscilloscope"> 
+Kick : ▮---▮---▮---▮--- 
+Snare : ----▭-------▭--- 
+HiHat : ˑˑˑˑˑˑˑˑˑˑˑˑˑ 
+Bass : █▁█▁██▁█▁█▁██▁ 
+Synth : ░█░░██░░█░░██░░ 
+車音 : ▒▒▒▒▒▒→ AE86 ギアチェンジ </div>
+
+### Running in the 90s (Max Coveri)
+
+<div class="oscilloscope"> 
+Kick : ▮---▮---▮---▮--- 
+Snare : ----▭-------▭--- 
+HiHat : ˑˑˑˑˑˑˑˑˑˑˑˑˑ 
+Bass : ███▁███▁███▁███ 
+Synth : ░█░░██░░█░░██░░ 
+車音 : ▒▒▒▒▒▒→ RX-7 ドリフト音 </div>
+
+### Night of Fire (Niko)
+
+<div class="oscilloscope"> 
+Kick : ▮---▮---▮---▮--- 
+Snare : ----▭-------▭--- 
+HiHat : ˑˑˑˑˑˑˑˑˑˑˑˑˑ 
+Bass : █▁█▁█▁███▁█▁█▁█ 
+Synth : ░█░░██░░█░░██░░ 
+車音 : ▒▒▒▒▒▒→ GT-R 加速音 </div>
+
+
 ---
+
+### 機材年表（ユーロビート制作）
+
+| 年代    | 機材                          | 役割                 |
+| ----- | --------------------------- | ------------------ |
+| 1980s | Roland TR-808 / TR-909      | Kick, Snare, HiHat |
+| 1980s | Yamaha DX7, Roland JX-3P    | シンセリフ・メロディ         |
+| 1980s | E-mu SP-12 / SP-1200        | サンプリング、リズムパターン     |
+| 1990s | Akai MPC60/3000             | ドラムプログラミング         |
+| 1990s | Roland TR-909               | 打ち込み補助             |
+| 2000s | DAW (Cubase, Pro Tools)     | デジタル編集・ミックス        |
+| 2010s | FL Studio, Ableton Live     | Trap/EDMアプローチ      |
+| 2020s | Soft-synth (Serum, Massive) | 現代リード・ベース          |
+
+---
+
+### 時代背景まとめ表
 
 | 年代    | 音楽的特徴               | 関連アーティスト                 | 頭文字Dとの関係     |
 | ----- | ------------------- | ------------------------ | ------------ |
@@ -142,6 +198,7 @@ Synth : ░█░░██░░█░░██░░
 Drift : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (タイヤスリップ音) </div>
 
 ---
+
 ### 文化的接点まとめ表
 
 | 領域      | 代表要素                                 | ユーロビートとの接点           |
