@@ -228,8 +228,7 @@ Migos『Culture』(2017)
 
 ## 可視化図解
 
-### 主要アーティストの系譜図
-
+### 主要アーティスト系譜図
 <div class="mermaid">
 graph TD
     A[DJ Kool Herc] --> B[Grandmaster Flash]
@@ -256,13 +255,10 @@ graph TD
     Q --> V[Migos]
     V --> W[Lil Baby]
     W --> X[21 Savage]
-
 </div>
-
 
 系譜図はNYCの起源からWest、South、Midwestまで枝分かれする「血統」を示す。
 Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwestの二大系譜が伸びる。
-
 
 ---
 
@@ -328,7 +324,8 @@ Bass : ▂▄▅▄▂
 </tr>
 <tr>
 <td>
-- Akai MPC60 / MPC3000  
+- Akai MPC60
+- Akai MPC3000  
 - E-mu SP-1200  
 - Roland TR-909  
 </td>
@@ -409,9 +406,10 @@ Bass : ▂▄▆█▇▇█▆▄▂
 </tr>
 <tr>
 <td>
-- Ableton Live 11  
-- Logic Pro X  
-- Soft-synth（Serum, Massive, Omnisphere）  
+- Ableton Live 11
+- Logic Pro X
+- Soft-synth
+（Serum, Massive, Omnisphere）  
 </td>
 <td>
 <div class="oscilloscope">
