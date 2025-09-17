@@ -84,14 +84,14 @@ flowchart TD
 
 ### ■ アニメファンにおすすめのジャズ／フュージョン作品
 
-| 年代    | アーティスト/アルバム                    | おすすめトラック                     |
-| ----- | ------------------------- | ------------------------------------ |
-| 1970s | Miles Davis *Bitches Brew*           | 「Pharaoh's Dance」：混沌とした宇宙戦闘シーンに      |
-| 1980s | Miles Davis *Tutu*                   | 「Tutu」：都会の夜を歩くキャラクターに                |
-| 1990s | 渡辺香津美 *Tokyo Ensemble Lab*      || 「Manhattan Flu Dance」：ビバップ的疾走感       |
-| 2000s | Pat Metheny & Charlie Haden *Beyond the Missouri Sky* | 「Our Spanish Love Song」：静謐な心理描写に     |
-| 2010s | Robert Glasper Experiment *Black Radio*             | 「Afro Blue」：都市的で現代的な日常シーン            |
-| 2020s | Kamasi Washington *Heaven and Earth*        | 「Street Fighter Mas」：アクションとSF世界観にマッチ |
+| 年代    | アーティスト/アルバム          | おすすめトラック                     |
+| ----- | ------------------------- | ------------------------------- |
+| 1970s | **Miles Davis** *Bitches Brew*  | 「Pharaoh's Dance」：混沌とした宇宙戦闘シーンに |
+| 1980s | **Miles Davis** *Tutu*  | 「Tutu」：都会の夜を歩くキャラクターに |
+| 1990s | **渡辺香津美** *Tokyo Ensemble Lab* | 「Manhattan Flu Dance」：ビバップ的疾走感 |
+| 2000s | **Pat Metheny & Charlie Haden** *Beyond the Missouri Sky* | 「Our Spanish Love Song」：静謐な心理描写に |
+| 2010s | **Robert Glasper Experiment** *Black Radio* | 「Afro Blue」：都市的で現代的な日常シーン |
+| 2020s | **Kamasi Washington** *Heaven and Earth* | 「Street Fighter Mas」：アクションとSF世界観にマッチ |
 
 
 ---

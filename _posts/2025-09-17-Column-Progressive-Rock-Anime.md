@@ -97,18 +97,18 @@ flowchart TD
 
 ### ■ プログレ年代別代表アルバムとアニメファンにおすすめトラック
 
-| 年代    | アルバム                                | おすすめトラック     | 解説                             |
+| 年代    | アルバム / おすすめトラック                  | 解説                             |
 | ----- | -------------------------------------- | ------------------- | ------------------------------ |
-| 1970s | Pink Floyd『The Dark Side of the Moon』  | "Time"              | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
-| 1970s | Yes『Close to the Edge』                 | "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
-| 1980s | Marillion『Misplaced Childhood』         | "Kayleigh"          | 物語的アルバム構成はOVA文化との親和性が高い        |
-| 1980s | King Crimson『Discipline』               | "Frame by Frame"    | 複雑なリズム構造は『AKIRA』的カオスを連想        |
-| 1990s | Dream Theater『Images and Words』        | "Metropolis—Part I" | エヴァ世代に刺さるテクニカル＆叙情性             |
-| 1990s | Porcupine Tree『The Sky Moves Sideways』 | "Stars Die"         | 哲学的で内省的、エヴァ的な空気感               |
-| 2000s | Tool『Lateralus』                        | "Lateralus"         | フィボナッチ数列を用いた構成は『攻殻機動隊』的サイバネ感覚  |
-| 2000s | Sigur Rós『()』                          | "Untitled #8"       | ポストロック的展開は『Ergo Proxy』と共鳴      |
-| 2010s | Steven Wilson『Hand. Cannot. Erase.』    | "Perfect Life"      | 記憶と存在をテーマにしたコンセプト性は『メイドインアビス』的 |
-| 2020s | Haken『Virus』                           | "Prosthetic"        | デジタル時代のプログレメタルは、現代アニメのスピード感に適応 |
+| 1970s | **Pink Floyd** 『The Dark Side of the Moon』 / "Time"            | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
+| 1970s | **Yes** 『Close to the Edge』  /  "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
+| 1980s | **Marillion** 『Misplaced Childhood』 / "Kayleigh"          | 物語的アルバム構成はOVA文化との親和性が高い        |
+| 1980s | **King Crimson** 『Discipline』 / "Frame by Frame"    | 複雑なリズム構造は『AKIRA』的カオスを連想        |
+| 1990s | **Dream Theater** 『Images and Words』 / "Metropolis—Part I" | エヴァ世代に刺さるテクニカル＆叙情性             |
+| 1990s | **Porcupine Tree** 『The Sky Moves Sideways』 / "Stars Die"         | 哲学的で内省的、エヴァ的な空気感               |
+| 2000s | **Tool** 『Lateralus』 / "Lateralus"         | フィボナッチ数列を用いた構成は『攻殻機動隊』的サイバネ感覚  |
+| 2000s | **Sigur Rós** 『()』 / "Untitled #8"       | ポストロック的展開は『Ergo Proxy』と共鳴      |
+| 2010s | **Steven Wilson** 『Hand. Cannot. Erase.』 / "Perfect Life"      | 記憶と存在をテーマにしたコンセプト性は『メイドインアビス』的 |
+| 2020s | **Haken** 『Virus』 / "Prosthetic"        | デジタル時代のプログレメタルは、現代アニメのスピード感に適応 |
 
 ---
 
