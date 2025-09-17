@@ -35,7 +35,8 @@ color: #fff;
 ### ■ プログレとアニメの相関関係を年代別に俯瞰する
 
 <div class="mermaid">
-timeline
+
+flowchart TB
     title プログレとアニメの親和性（年代別）
     1970年代 : プログレ黄金期（Pink Floyd, Yes） :: 日本アニメはスペースオペラ勃興（ヤマト, ガンダム）
     1980年代 : プログレ衰退と分岐（Neo Prog, Prog Metal） :: アニメはOVA文化とSF深化（クラッシャージョウ, AKIRA）

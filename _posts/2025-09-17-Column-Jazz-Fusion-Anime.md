@@ -66,7 +66,7 @@ color: #fff;
 
 <div class="mermaid">
 
-timeline
+flowchart TB
     title アニメとジャズ／フュージョンの相関関係
     1970年代 : 「ルパン三世」大野雄二のジャズ・サウンド
     1980年代 : シティポップ的要素＋ジャズ・フュージョンが劇伴に浸透
