@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性"
 author: mmr
 categories: [ Column ]
-tags: [ Progressive Rock, Soundtrack, Anime ]
+tags: [ Progressive Rock, Rock, Anime ]
 image: ../assets/images/column-progressive-rock-anime.webp
 ---
 
