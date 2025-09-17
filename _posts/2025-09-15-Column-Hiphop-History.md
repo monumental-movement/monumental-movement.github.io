@@ -413,7 +413,7 @@ Bass : ▂▄▆█▇▇█▆▄▂
 </td>
 <td>
 <div class="oscilloscope">
-Kick : ████████▄▄████████  
+Kick : ████████▄▄███
 Snare: ▄▄██▄▄██▄▄  
 HiHat: -x-xx-xx-x-x-  
 Clap : ░██░██░██░  
