@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性"
 author: mmr
 categories: [ Column ]
-tags: [ Progressive Rock, Rock, Soundtrack, Anime ]
+tags: [ Progressive Rock, Soundtrack, Anime ]
 image: ../assets/images/column-progressive-rock-anime.webp
 ---
 
@@ -109,7 +109,7 @@ gantt
 
 ### ■ プログレ年代別代表アルバムとアニメファンにおすすめトラック
 
-| 年代    | 代表的アルバム                                | アニメファンにおすすめトラック     | 解説                             |
+| 年代    | アルバム                                | アニメファンにおすすめトラック     | 解説                             |
 | ----- | -------------------------------------- | ------------------- | ------------------------------ |
 | 1970s | Pink Floyd『The Dark Side of the Moon』  | "Time"              | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
 | 1970s | Yes『Close to the Edge』                 | "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
