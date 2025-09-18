@@ -119,10 +119,10 @@ David Toopの軌跡は「音楽をどう聴くか」をめぐる半世紀にわ�
 # 参考作品リスト
 
 - **著作**
-  - *Rap Attack* (1984 / 1991 / 2000 改訂版)
-  - *Ocean of Sound* (1995)
-  - *Haunted Weather* (2004)
-  - *Sinister Resonance* (2010)
+  - [*Rap Attack* (1984 / 1991 / 2000 改訂版)](https://amzn.to/3Ij9XIc)
+  - [*Ocean of Sound* (1995)](https://amzn.to/3VnLh44)
+  - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
+  - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
 - **音楽作品**
   - *New and Rediscovered Musical Instruments* (with Max Eastley, 1975)
