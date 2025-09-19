@@ -67,19 +67,19 @@ color: #fff;
 
 ### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
 
-### アンビエント
+#### アンビエント
 
 - Brian Eno ― *Ambient 1: Music for Airports*
 - Harold Budd ― *The Pearl*
 - Stars of the Lid ― *And Their Refinement of the Decline*
 
-### フィールド録音
+#### フィールド録音
 
 - Chris Watson ― *Weather Report*
 - Jana Winderen ― *Energy Field*
 - Hildegard Westerkamp ― *Into the Labyrinth*
 
-### ミニマル
+#### ミニマル
 
 - Steve Reich ― *Music for 18 Musicians*
 - Terry Riley ― *In C*
@@ -89,25 +89,25 @@ color: #fff;
 
 ###  「時間の流れ」に沿った構成プレイリスト
 
-### 朝
+#### 朝
 
 - Brian Eno ― *Ambient 1: Music for Airports*
 - Chris Watson ― *Morning at the River*
-- Steve Reich ― *Music for 18 Musicians*（冒頭）
+- Steve Reich ― *Music for 18 Musicians*
 
-### 昼
+#### 昼
 
 - Terry Riley ― *In C*
 - Jana Winderen ― *Energy Field*
 - Philip Glass ― *Glassworks*
 
-### 夕方
+#### 夕方
 
 - Harold Budd & Brian Eno ― *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
 - Stars of the Lid ― *Requiem for Dying Mothers*
 
-### 夜
+#### 夜
 
 - William Basinski ― *The Disintegration Loops*
 - Eliane Radigue ― *Trilogie de la Mort*
