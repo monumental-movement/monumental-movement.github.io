@@ -81,6 +81,8 @@ flowchart LR
     Film --> Architecture
     Architecture --> Film
 
+</div>
+
 Music → Film: 音楽が心理空間・時間感覚を操作
 
 Music → Architecture: 音楽が空間体験を設計
