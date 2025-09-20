@@ -175,7 +175,7 @@ flowchart TD
 
 ### 関連コラム
 
- [【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
  [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
