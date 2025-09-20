@@ -30,26 +30,6 @@ color: #fff;
 </style>
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "SF映画と音楽の関係性：未来を奏でるサウンドの歴史と手法",
-  "author": {
-    "@type": "Person",
-    "name": "mmr"
-  },
-  "datePublished": "2025-09-20",
-  "publisher": {
-    "@type": "Organization",
-    "name": "SF音楽研究",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/assets/logo.png"
-    }
-}
-</script>
-
 # SF映画と音楽の関係性
 
 SF映画における音楽は、物語を支える「背景」以上の存在です。未来感、異世界感、テクノロジーや人間性の狭間を表現するうえで欠かせない要素となってきました。本記事では、**歴史的背景／音楽的手法／代表的な作品と作曲家／現代への影響**という4つの視点から詳細に解説します。
