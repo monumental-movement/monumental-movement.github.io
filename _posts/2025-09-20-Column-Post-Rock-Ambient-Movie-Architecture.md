@@ -89,7 +89,6 @@ Music → Architecture: 音楽が空間体験を設計
 
 Film ↔ Architecture: 映像美術と空間デザインが相互作用
 
-</div>
 
 ---
 
