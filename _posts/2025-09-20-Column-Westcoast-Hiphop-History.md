@@ -103,7 +103,7 @@ color: #fff;
 
 ---
 
-## 映画リスト（Amazonリンク付き）
+## 映画リスト
 
 
 | 映画タイトル | 年 | Amazonリンク |
@@ -116,11 +116,11 @@ color: #fff;
 
 ---
 
-## 参考文献・さらなる読み物
+## 参考文献・さらなる読み物（Amazonリンク付き）
 
-* Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip‑Hop Generation』
-* Eithne Quinn『Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap』
-* Cheryl Keyes『Rap Music and Street Consciousness』
+* [Jeff Chang『Can’t Stop Won’t Stop: A History of the Hip‑Hop Generation』](https://amzn.to/4gCxTmv)
+* [Eithne Quinn『Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap』](https://amzn.to/4pxcP4X)
+* [Cheryl Keyes『Rap Music and Street Consciousness』](https://amzn.to/3IuNrMj)
 * 『The Source』『XXL』『OG Magazine』アーカイブ記事（選定）
 
 ---
