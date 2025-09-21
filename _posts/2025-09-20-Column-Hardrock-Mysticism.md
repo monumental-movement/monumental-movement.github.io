@@ -30,26 +30,6 @@ color: #fff;
 </style>
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "ハードロックと東洋思想・神秘主義の交差点",
-  "author": {
-    "@type": "Person",
-    "name": "mmr"
-  },
-  "datePublished": "2025-09-20",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Monumental-Movement-Records",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/assets/logo.png"
-    }
-}
-</script>
-
 
 ## ハードロックに潜む「西洋」と「東洋」
 

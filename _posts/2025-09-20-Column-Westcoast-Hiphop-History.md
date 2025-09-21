@@ -30,25 +30,6 @@ color: #fff;
 </style>
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで",
-  "author": {
-    "@type": "Person",
-    "name": "mmr"
-  },
-  "datePublished": "2025-09-21",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Monumental-Movement-Records",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/assets/logo.png"
-    }
-}
-</script>
 
 
 ## 1970年代〜1980年代：起源と初期革新
