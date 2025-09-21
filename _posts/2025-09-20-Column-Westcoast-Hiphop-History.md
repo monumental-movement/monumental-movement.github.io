@@ -44,9 +44,9 @@ color: #fff;
 
 | アルバム | アーティスト | Amazonリンク | おすすめポイント |
 |----------|-------------|--------------|----------------|
-| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://www.amazon.com/Rhyme-Pays-Explicit-Ice-T/dp/B001A83H6K?tag=affiaffiyeah-22) | ギャングスタ・ラップの基礎を築いた重要作 |
-| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://www.amazon.com/Straight-Outta-Compton-N-W/dp/B00G5YNSWM?tag=affiaffiyeah-22) | 社会を揺るがした問題作。西海岸の象徴 |
-| *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://www.amazon.com/Nile-Egyptian-Lover/dp/B00000175R?tag=affiaffiyeah-22) | エレクトロとラップの融合が際立つ一枚 |
+| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | ギャングスタ・ラップの基礎を築いた重要作 |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | 社会を揺るがした問題作。西海岸の象徴 |
+| *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | エレクトロとラップの融合が際立つ一枚 |
 
 ---
 
@@ -62,9 +62,9 @@ color: #fff;
 
 | アルバム | アーティスト | Amazonリンク | おすすめポイント |
 |----------|-------------|--------------|----------------|
-| *The Chronic* (1992) | Dr. Dre | [Amazon](https://www.amazon.com/Chronic-Dr-Dre/dp/B000003AEQ?tag=affiaffiyeah-22) | G-Funkを確立した金字塔 |
-| *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://www.amazon.com/Doggystyle-Explicit-Version-Snoop-Doggy/dp/B00005AQF7?tag=affiaffiyeah-22) | スムースなフロウで西海岸を世界に広めた傑作 |
-| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://www.amazon.com/All-Eyez-Me-2Pac/dp/B000002H8Y?tag=affiaffiyeah-22) | ダブルアルバムの大作。2Pacの代表作 |
+| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | G-Funkを確立した金字塔 |
+| *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | スムースなフロウで西海岸を世界に広めた傑作 |
+| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | ダブルアルバムの大作。2Pacの代表作 |
 
 
 ---
@@ -80,8 +80,8 @@ color: #fff;
 
 | アルバム | アーティスト | Amazonリンク | おすすめポイント |
 |----------|-------------|--------------|----------------|
-| *Madvillainy* (2004) | Madvillain | [Amazon](https://www.amazon.com/Madvillainy-Madvillain/dp/B000EGDD7M?tag=affiaffiyeah-22) | 実験性と完成度を兼ね備えた地下名盤 |
-| *The Documentary* (2005) | The Game | [Amazon](https://www.amazon.com/Documentary-Game/dp/B0006ZQ9BS?tag=affiaffiyeah-22) | Dr. Dreの後継を感じさせる復権作 |
+| *Madvillainy* (2004) | Madvillain | [Amazon](https://amzn.to/3Kbp4ny) | 実験性と完成度を兼ね備えた地下名盤 |
+| *The Documentary* (2005) | The Game | [Amazon](https://amzn.to/4guXSMq) | Dr. Dreの後継を感じさせる復権作 |
 
 
 ---
@@ -97,8 +97,8 @@ color: #fff;
 
 | アルバム | アーティスト | Amazonリンク | おすすめポイント |
 |----------|-------------|--------------|----------------|
-| *good kid, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://www.amazon.com/good-kid-m-A-d-city-Kendrick/dp/B009A9S4ZS?tag=affiaffiyeah-22) | 映画的叙事詩のような構成と物語性 |
-| *To Pimp a Butterfly* (2015) | Kendrick Lamar | [Amazon](https://www.amazon.com/To-Pimp-Butterfly-Kendrick-Lamar/dp/B00T5J6F0A?tag=affiaffiyeah-22) | ジャズ／ファンクと社会批評の融合 |
+| *good kid, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | 映画的叙事詩のような構成と物語性 |
+| *To Pimp a Butterfly* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | ジャズ／ファンクと社会批評の融合 |
 
 
 ---
@@ -108,11 +108,11 @@ color: #fff;
 
 | 映画タイトル | 年 | Amazonリンク |
 |--------------|----|--------------|
-| *Boyz n the Hood* | 1991 | [Amazon](https://www.amazon.com/dp/B003UESJ9Q?tag=affiaffiyeah-22) |
-| *Menace II Society* | 1993 | [Amazon](https://www.amazon.com/dp/B002UM5O1C?tag=affiaffiyeah-22) |
-| *Above the Rim* | 1994 | [Amazon](https://www.amazon.com/dp/B004V0VCYW?tag=affiaffiyeah-22) |
-| *Straight Outta Compton* | 2015 | [Amazon](https://www.amazon.com/dp/B0162YTT2K?tag=affiaffiyeah-22) |
-| *All Eyez on Me* | 2017 | [Amazon](https://www.amazon.com/dp/B073QF2Z5L?tag=affiaffiyeah-22) |
+| *Boyz n the Hood* | 1991 | [Amazon](https://amzn.to/3Ke8a7J) |
+| *Menace II Society* | 1993 | [Amazon](https://amzn.to/46dujM2) |
+| *Above the Rim* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
+| *Straight Outta Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
+| *All Eyez on Me* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
 
 ---
 
@@ -131,22 +131,22 @@ color: #fff;
 
 | アルバム | Amazonリンク |
 |----------|--------------|
-| *Straight Outta Compton* (1988) | [Amazon](https://www.amazon.com/dp/B000002H7C?tag=affiaffiyeah-22) |
-| *Efil4zaggin* (1991) | [Amazon](https://www.amazon.com/dp/B000000OPC?tag=affiaffiyeah-22) |
+| *Straight Outta Compton* (1988) | [Amazon](https://amzn.to/4neTnsc) |
+| *Efil4zaggin* (1991) | [Amazon](https://amzn.to/48qgXgM) |
 
 ### Dr. Dre
 
 | アルバム | Amazonリンク |
 |----------|--------------|
-| *The Chronic* (1992) | [Amazon](https://www.amazon.com/dp/B000002G7G?tag=affiaffiyeah-22) |
-| *2001* (1999) | [Amazon](https://www.amazon.com/dp/B00002DE7E?tag=affiaffiyeah-22) |
+| *The Chronic* (1992) | [Amazon](https://amzn.to/42IAyVR) |
+| *2001* (1999) | [Amazon](https://amzn.to/46xisHJ) |
 
 ### 2Pac
 
 | アルバム | Amazonリンク |
 |----------|--------------|
-| *Me Against the World* (1995) | [Amazon](https://www.amazon.com/dp/B000002N2C?tag=affiaffiyeah-22) |
-| *All Eyez on Me* (1996) | [Amazon](https://www.amazon.com/dp/B000002LDX?tag=affiaffiyeah-22) |
+| *Me Against the World* (1995) | [Amazon](https://amzn.to/46rHIPl) |
+| *All Eyez on Me* (1996) | [Amazon](https://amzn.to/47T8DGd) |
 
 ---
 
