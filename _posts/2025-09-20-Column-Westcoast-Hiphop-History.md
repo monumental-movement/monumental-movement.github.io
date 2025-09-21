@@ -155,7 +155,7 @@ color: #fff;
 以下はJekyll記事内に埋め込めるMermaid形式の横長年表です。ブログに貼ると視覚的に年代ごとのファッション変遷が確認できます。
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
   A["1970s–1980s\nカンゴール、アディダス、ローカルスニーカー"] --> B["1990s\nDickies、Chuck Taylor、バンダナ、ローライダー文化"]
   B --> C["2000s\nSupreme、Stüssy、BAPE、スケート・ストリートブランド"]
