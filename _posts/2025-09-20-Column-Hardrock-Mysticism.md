@@ -64,7 +64,7 @@ flowchart LR
   C --> E["AI音楽生成"]
   D --> F["映画音楽への応用"]
   E --> G["次世代音楽体験"]
-  
+
 </div>
 
 この図のように、ハードロックは西洋的なロックの力強さと、東洋思想やオカルティズムからの影響を融合。結果として、映画の**サウンドトラック制作**や、最新の**AI音楽生成**にも応用可能な「豊かな音楽的土壌」を築きました。
@@ -130,6 +130,6 @@ A4: はい。特に戦闘シーンやクライマックスにおいて、力強�
 ### 関連コラム
 
 
-* 🔗 [【コラム】 ハードロックとゲーム文化の交差史](https://monumental-movement.jp/Column-Hard-Rock-Game)
+🔗 [【コラム】 ハードロックとゲーム文化の交差史](https://monumental-movement.jp/Column-Hard-Rock-Game)
 
-* 🔗 [【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)
+🔗 [【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)
