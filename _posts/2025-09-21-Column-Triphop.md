@@ -161,6 +161,8 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 ターンテーブルを“楽器”と捉え、和楽器や環境音との融合を試みるスタイル。スクラッチだけでなく空間演出に特化。
 
 #### 映像作品
+
+[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 [「History Of DJ Krush」](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
 
 ---
