@@ -101,7 +101,7 @@ flowchart LR
 
 #### 映像作品
 
-Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像はYouTube公式[YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
+Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
 
 ---
 
