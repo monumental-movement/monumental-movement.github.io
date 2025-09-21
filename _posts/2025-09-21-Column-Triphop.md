@@ -43,10 +43,10 @@ Massive Attack、Portishead、Tricky といったアーティストが牽引し�
 
 <div class="mermaid">
 flowchart TD
-    A["1990s: ブリストル誕生<br>Massive Attack"] --> B["Portishead: Noirなサウンド""]
-    B --> C["Tricky: ヒップホップとの融合""]
-    C --> D["2000s: DJ ShadowやUNKLE<br>サウンドトラック制作へ拡張""]
-    D --> E["2020s: AI音楽生成との接続""]
+    A["1990s: ブリストル誕生\nMassive Attack"] --> B["Portishead: Noirなサウンド"]
+    B --> C["Tricky: ヒップホップとの融合"]
+    C --> D["2000s: DJ ShadowやUNKLE\nサウンドトラック制作へ拡張"]
+    D --> E["2020s: AI音楽生成との接続"]
 </div>
 
 ---
@@ -55,16 +55,20 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    MA90[Massive Attack: 1990s<br>Blue Lines / Protection / Mezzanine]
-    MA00[2000s<br>100th Window / Live works]
-    MA10[2010s<br>Heligoland / サウンドトラック活動]
-    SH90[DJ Shadow: 1990s<br>Endtroducing.....]
-    SH00[2000s<br>The Private Press]
-    SH10[2010s〜2020s<br>The Less You Know... / Our Pathetic Age]
-    PK90[Portishead: 1990s<br>Dummy / Portishead]
-    PK10[2008 Third<br>実験性の深化]
-    KR90[DJ Krush: 1990s<br>Strictly Turntablized / Meiso]
-    KR00[2000s〜現在<br>Jaku / Saisei - 日本的要素の統合]
+    MA90["Massive Attack: 1990s\nBlue Lines / Protection / Mezzanine"]
+    MA00["2000s\n100th Window / Live works"]
+    MA10["2010s\nHeligoland / サウンドトラック活動"]
+
+    SH90["DJ Shadow: 1990s\nEndtroducing....."]
+    SH00["2000s\nThe Private Press"]
+    SH10["2010s〜2020s\nThe Less You Know... / Our Pathetic Age"]
+
+    PK90["Portishead: 1990s\nDummy / Portishead"]
+    PK10["2008 Third\n実験性の深化"]
+
+    KR90["DJ Krush: 1990s\nStrictly Turntablized / Meiso"]
+    KR00["2000s〜現在\nJaku / Saisei - 日本的要素の統合"]
+
     MA90 --> MA00 --> MA10
     SH90 --> SH00 --> SH10
     PK90 --> PK10
@@ -76,16 +80,16 @@ flowchart LR
 
 
 ## 代表的なアーティストと作品
-
+<br>
 ### Massive Attack（マッシヴ・アタック）
 
 #### 代表作
 
-**1990s**: Blue Lines（1991）[Amazon](https://amzn.to/4gxB8eR)、Protection（1994）[Amazon](https://amzn.to/4pyVUPi)、Mezzanine（1998）[Amazon](https://amzn.to/48o9H55)
+**1990s**: Blue Lines（1991）[[Amazon]](https://amzn.to/4gxB8eR)、Protection（1994）[[Amazon]](https://amzn.to/4pyVUPi)、Mezzanine（1998）[[Amazon]](https://amzn.to/48o9H55)
 
-**2000s**: 100th Window（2003）[Amazon](https://amzn.to/46fHFrh)
+**2000s**: 100th Window（2003）[[Amazon]](https://amzn.to/46fHFrh)
 
-**2010s〜**: Heligoland（2010）[Amazon](https://amzn.to/4gw79Ux)、映画サントラへの楽曲提供
+**2010s〜**: Heligoland（2010）[[Amazon]](https://amzn.to/4gw79Ux)、映画サントラへの楽曲提供
 
 #### 逸話
 
@@ -105,9 +109,9 @@ Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが�
 
 #### 代表作
 
-**1990s**: Dummy（1994）[Amazon](https://amzn.to/3KxIx1J)、Portishead（1997）[Amazon](https://amzn.to/3Vsl5FC)
+**1990s**: Dummy（1994）[[Amazon]](https://amzn.to/3KxIx1J)、Portishead（1997）[[Amazon]](https://amzn.to/3Vsl5FC)
 
-**2008**: Third（実験色の強い復活作）[Amazon](https://amzn.to/3VZXagN)
+**2008**: Third（実験色の強い復活作）[[Amazon]](https://amzn.to/3VZXagN)
 
 #### 逸話
 Beth Gibbons のアンニュイなボーカルは、ステージ上での緊張感や孤独感がそのまま音に投影されていると語られる。
@@ -125,11 +129,11 @@ Beth Gibbons のアンニュイなボーカルは、ステージ上での緊張�
 
 #### 代表作
 
-**1990s**: Endtroducing.....（1996）[Amazon](https://amzn.to/4nKOaIw)
+**1990s**: Endtroducing.....（1996）[[Amazon]](https://amzn.to/4nKOaIw)
 
-**2000s**: The Private Press（2002）[Amazon](https://amzn.to/4gEWFTa)
+**2000s**: The Private Press（2002）[[Amazon]](https://amzn.to/4gEWFTa)
 
-**2010s〜**: The Less You Know, The Better（2011）[Amazon](https://amzn.to/4nggcM5)、Our Pathetic Age（2019）[Amazon](https://amzn.to/3KchrgC)
+**2010s〜**: The Less You Know, The Better（2011）[[Amazon]](https://amzn.to/4nggcM5)、Our Pathetic Age（2019）[[Amazon]](https://amzn.to/3KchrgC)
 
 #### 逸話
 Endtroducing..... は「サンプルだけで構築された初のアルバム」としてギネス記録に。MPCとターンテーブルを駆使して完成。
@@ -138,7 +142,7 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 ブレイクビーツ再構築、ビートジャグリング、タイムストレッチを駆使。ターンテーブルを“コラージュツール”として扱う。
 
 #### 映像作品
-DJ文化ドキュメンタリー『Scratch』（2001）[Amazon](https://amzn.to/4pzrtso)に出演。
+DJ文化ドキュメンタリー『Scratch』（2001）[[Amazon]](https://amzn.to/4pzrtso)に出演。
 
 ---
 
@@ -146,9 +150,9 @@ DJ文化ドキュメンタリー『Scratch』（2001）[Amazon](https://amzn.to/
 
 #### 代表作
 
-**1990s**: Strictly Turntablized（1994）[Amazon](https://amzn.to/46uh8oZ)、Meiso（1995）[Amazon](https://amzn.to/4ndVUCN)
+**1990s**: Strictly Turntablized（1994）[[Amazon]](https://amzn.to/46uh8oZ)、Meiso（1995）[[Amazon]](https://amzn.to/4ndVUCN)
 
-**2000s〜**: Jaku（2004）[Amazon](https://amzn.to/4gv4hHs)、近年は和楽器や日本的サウンドとの融合
+**2000s〜**: Jaku（2004）[[Amazon]](https://amzn.to/4gv4hHs)、近年は和楽器や日本的サウンドとの融合
 
 #### 逸話
 世界ツアーを通じて「日本的静謐さ」をグローバルに提示。欧米ヒップホップシーンからもリスペクトされる存在。
@@ -157,11 +161,15 @@ DJ文化ドキュメンタリー『Scratch』（2001）[Amazon](https://amzn.to/
 ターンテーブルを“楽器”と捉え、和楽器や環境音との融合を試みるスタイル。スクラッチだけでなく空間演出に特化。
 
 #### 映像作品
-「History Of DJ Krush」[Amazon](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
+「History Of DJ Krush」[[Amazon]](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
+
+---
 
 ### サウンドトラック制作 × AI音楽生成
 
 トリップ・ホップの映画的な質感はサウンドトラック制作に最適。近年はAI音楽生成ツールが、トリップ・ホップ風の「ダークな浮遊感」を短時間で再現できるようになりました。映像制作者にとって、AIと人間の共同作業は新しいクリエイションの可能性を広げています。
+
+---
 
 ### FAQ
 
