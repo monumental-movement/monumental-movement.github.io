@@ -24,9 +24,9 @@ image: ../assets/images/column-shibuya-kei.webp
 - 輸入レコード店「CISCO」「HMV渋谷」などで欧米の最新サウンドが集まり、若者の音楽的素養を養った。  
 
 ### 代表的な名盤
-- 大滝詠一 — *A LONG VACATION* (1981)  
-- 山下達郎 — *FOR YOU* (1982)  
-- Pizzicato Five初期作（インディー期, Late 1980s）  
+- [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
+- [山下達郎 — *FOR YOU* (1982)](https://amzn.to/4neQyHk)  
+- [Pizzicato Five初期作（インディー期, Late 1980s）](https://amzn.to/3W6W1UE)  
 
 ### 使用機材
 - Roland Juno-60、Yamaha DX7などのシンセサイザー  
@@ -71,9 +71,9 @@ color: #fff;
 - 海外のクラブシーンともリンク。  
 
 ### 代表的な名盤
-- Pizzicato Five — *Made in USA* (1994)  
-- Flipper’s Guitar — *Camera Talk* (1990)  
-- Cornelius — *Fantasma* (1997)  
+- [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
+- [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)  
+- [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)  
 
 ### 使用機材
 - サンプラー（Akai MPC, Roland S-760）  
@@ -103,9 +103,9 @@ color: #fff;
 - ネオ渋谷系とも呼ばれるクラブミュージック的展開が増える。  
 
 ### 代表的な名盤
-- Capsule — *More! More! More!* (2008)  
-- Fantastic Plastic Machine — *beautiful.* (2001)  
-- 小沢健二 — *Eclectic* (2002)  
+- [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
+- [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)  
+- [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
 
 ### 使用機材
 - DAW普及（Logic, Cubase SX）  
@@ -135,9 +135,9 @@ color: #fff;
 - シティポップ再評価とも並行してリバイバル。  
 
 ### 代表的な名盤
-- Cornelius — *Mellow Waves* (2017)  
-- Towa Tei — *EMO* (2017)  
-- cero — *Obscure Ride* (2015)  
+- [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
+- [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)  
+- [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
 
 ### 使用機材
 - Ableton Liveやソフトサンプラー  
@@ -167,9 +167,9 @@ color: #fff;
 - YouTube、Spotify、TikTokなどの拡散で海外リスナー層拡大。  
 
 ### 代表的な名盤
-- Cornelius — *Dream in Dream* (2023)  
-- cero — *e o* (2021)  
-- Various Artists — ネオ渋谷系コンピレーション (2020s)  
+- [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)  
+- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
+- [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
 
 ### 使用機材
 - ストリーミング配信を前提とした宅録・DTM環境  
@@ -193,5 +193,6 @@ color: #fff;
 
 ---
 
-# 世界的なカルチャーアイコン
+## 世界的なカルチャーアイコン
+
 渋谷系サウンドは、1990年代に誕生して世界的なカルチャーアイコンとなり、その後も形を変えながら日本の音楽シーンに影響を与え続けています。現在はネット世代を通じて再評価され、シティポップやK-POPとも交差しつつ新たな局面を迎えています。
