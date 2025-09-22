@@ -146,8 +146,7 @@ color: #fff;
 
 ## 西海岸編と東海岸編を横断的に比較する相関図
 
-{% raw %}
-<div class="mermaid">
+```mermaid
 graph LR
   %% --- コアノード ---
   EC[東海岸 (Bronx / NYC)]
@@ -210,8 +209,7 @@ graph LR
   classDef theme fill:#0b1221,color:#fff,stroke:#9fb0c9;
   class ORIG,ORIGW,SAMP,GFUNK,LYRICS,GANG,UNDER,DIFF,MODERN theme;
   class LABELS,PRODS,FASHION,FILMS,CONFLICT theme;
-</div>
-{% endraw %}
+```
 
 ---
 
