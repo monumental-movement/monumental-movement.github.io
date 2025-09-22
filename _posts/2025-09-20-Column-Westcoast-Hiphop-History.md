@@ -181,5 +181,6 @@ flowchart TD
 
 ### 関連コラム
 
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
