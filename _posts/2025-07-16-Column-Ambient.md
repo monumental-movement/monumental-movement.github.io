@@ -120,7 +120,7 @@ Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
 
 テクノのリズムにアンビエントの空間処理を融合。
 
-アーティスト：[The Orb](https://amzn.to/48qQQ9x), [Global Communication]https://amzn.to/3K8GJMK(), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
+アーティスト：[The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
 **● アンビエント・ドローン**
 
