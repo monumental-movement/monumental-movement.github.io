@@ -20,7 +20,7 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 
 ### ブライアン・イーノの言葉から
 
-アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作『Ambient 1: Music for Airports』において、以下のように述べている：
+アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作[『Ambient 1: Music for Airports』](https://amzn.to/48shEpU)において、以下のように述べている：
 
 “Ambient music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting.”
 「アンビエント音楽は、聴かれることを強制せず、同時に無視されることも許容するものでなければならない。」
@@ -34,9 +34,9 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 
 **● 先史時代：環境音楽の萌芽**
 
-エリック・サティ（Eric Satie）：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
+[エリック・サティ（Eric Satie）](https://amzn.to/3Iqa4li)：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
 
-ジョン・ケージ（John Cage）：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
+[ジョン・ケージ（John Cage）](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
 
 **● 1970年代：アンビエントの確立**
 
@@ -44,15 +44,15 @@ Brian Eno：アンビエントという言葉を初めて明示的に使用。
 
 代表作：
 
-Discreet Music（1975）
+[Discreet Music（1975）](https://amzn.to/4nafH64)
 
-Ambient 1: Music for Airports（1978）
+[Ambient 1: Music for Airports（1978）](https://amzn.to/48shEpU)
 
 **● 1980〜1990年代：電子音楽との融合**
 
-Klaus Schulze, Tangerine Dream：ジャーマン・エレクトロニクスとの融合。
+[Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：ジャーマン・エレクトロニクスとの融合。
 
-The Orb, Aphex Twin：テクノ〜IDMの視点からアンビエントを再構築。
+[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
 
 Ambient House / Ambient Technoの隆盛。
 
@@ -114,31 +114,31 @@ Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
 
 不穏なドローン、インダストリアルな質感。
 
-アーティスト：Lustmord, Raison d’être
+アーティスト：[Lustmord](https://amzn.to/3IAUS4H), [Raison d’être](https://amzn.to/4nJFtOu)
 
 **● アンビエント・テクノ（Ambient Techno）**
 
 テクノのリズムにアンビエントの空間処理を融合。
 
-アーティスト：The Orb, Global Communication, Biosphere
+アーティスト：[The Orb](https://amzn.to/48qQQ9x), [Global Communication]https://amzn.to/3K8GJMK(), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
 **● アンビエント・ドローン**
 
 音の揺らぎ、微細な変化による深い没入。
 
-アーティスト：Stars of the Lid, William Basinski, Eliane Radigue
+アーティスト：[Stars of the Lid](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
 **● アンビエント・インダストリアル**
 
 工場音、機械ノイズを音楽化。
 
-アーティスト：Nurse With Wound, Coil
+アーティスト：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
 **● ニューエイジ／チルアウト系**
 
 リラクゼーションや瞑想を目的にしたアンビエント。
 
-Enya、Steve Roach、Laraaji など。
+[Enya](https://amzn.to/46vL0Bg)、[Steve Roach](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB) など。
 
 
 
@@ -152,13 +152,13 @@ Enya、Steve Roach、Laraaji など。
 
 アンビエントは「静けさ」「余白」「持続」を重視する。
 
-建築、現代美術（マーク・ロスコ、ドナルド・ジャッド）との親和性。
+建築、現代美術（[マーク・ロスコ](https://amzn.to/48uPz1g)、[ドナルド・ジャッド](https://amzn.to/3W0xzEv)）との親和性。
 
 **● サイバーパンクと未来都市**
 
 近未来都市、無機質な空間に馴染む音。
 
-映画『ブレードランナー』『攻殻機動隊』などのサウンドスケープ。
+映画[『ブレードランナー』](https://amzn.to/4gzcASG)[『攻殻機動隊』](https://amzn.to/4gy1ZaG)などのサウンドスケープ。
 
 **● 自然回帰と瞑想文化**
 
@@ -171,7 +171,7 @@ Enya、Steve Roach、Laraaji など。
 
 ### 現代におけるアンビエントの役割
 
-**ゲーム音楽**： Silent Hill, Journey, No Man's Sky などで使用。
+**ゲーム音楽**： [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P) などで使用。
 
 **ASMR / 瞑想 / ストレス緩和**： 精神医療やウェルネス業界でも活用。
 
