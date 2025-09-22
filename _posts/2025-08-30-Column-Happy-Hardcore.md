@@ -43,17 +43,17 @@ image: ../assets/images/column-happy-hardcore.webp
 
 ハッピーハードコアをベースに、オタク文化（アニメ・同人・秋葉原クラブカルチャー）と融合。
 
-DJ Sharpnel、m1dyなどが国際的に知られる。
+[DJ Sharpnel](https://amzn.to/4pIBKCL)、[m1dy](https://amzn.to/4pCFQfA)などが国際的に知られる。
 
 海外ファンは「ハッピーハードコア＋アニメ」というフォーミュラを“日本的”と認識し、逆輸入的に支持。
 
 #### ダンスゲーム文化（BEMANI・DDR）
 
-Konamiの Dance Dance Revolution (DDR) や beatmania IIDX シリーズに、ハッピーハードコア系楽曲が多数収録。
+Konamiの [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) や [beatmania IIDX シリーズ](https://amzn.to/46ic1ta)に、ハッピーハードコア系楽曲が多数収録。
 
 これにより日本のクラブ以外のゲーセン文化から若者へ浸透。
 
-例：Naoki、Ryu☆、DJ ShimamuraらによるDDR楽曲は海外のハッピーハードコアファンにも影響大。
+例：[Naoki](https://amzn.to/42BJOuW)、[Ryu☆](https://amzn.to/46xoN5F)、[DJ Shimamura](https://amzn.to/46OsTHX)らによるDDR楽曲は海外のハッピーハードコアファンにも影響大。
 
 #### フェスと同人即売会
 
@@ -77,13 +77,13 @@ Konamiの Dance Dance Revolution (DDR) や beatmania IIDX シリーズに、ハ�
 
 ### 代表的な日本のハッピーハードコア／J-Core系アーティスト
 
-**DJ Shimamura** – 日本ハッピーハードコアの代表格。
+**[DJ Shimamura](https://amzn.to/46OsTHX)** – 日本ハッピーハードコアの代表格。
 
-**DJ Sharpnel** – 海外で“J-Core”として高く評価。
+**[DJ Sharpnel](https://amzn.to/4pIBKCL)** – 海外で“J-Core”として高く評価。
 
-**Ryu☆ / kors k** – BEMANIシーンの主要クリエイター。
+**[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – BEMANIシーンの主要クリエイター。
 
-**P＊Light / REDALiCE** – 秋葉原系クラブ文化の人気プロデューサー。
+**[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – 秋葉原系クラブ文化の人気プロデューサー。
 
 <hr>
 
