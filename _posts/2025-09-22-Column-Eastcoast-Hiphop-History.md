@@ -146,6 +146,7 @@ color: #fff;
 
 ## 西海岸編と東海岸編を横断的に比較する相関図
 
+{% raw %}
 <div class="mermaid">
 graph LR
   %% --- コアノード ---
@@ -210,6 +211,7 @@ graph LR
   class ORIG,ORIGW,SAMP,GFUNK,LYRICS,GANG,UNDER,DIFF,MODERN theme;
   class LABELS,PRODS,FASHION,FILMS,CONFLICT theme;
 </div>
+{% endraw %}
 
 ---
 
