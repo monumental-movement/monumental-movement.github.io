@@ -43,9 +43,9 @@ DJクール・ハークやAfrika Bambaataaは、自らのミックステープ�
 
 ### 代表的な名盤
 
-The Sugarhill Gang『Rapper's Delight』(1979)
+[The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
-Grandmaster Flash and the Furious Five『The Message』(1982)
+[Grandmaster Flash and the Furious Five『The Message』(1982)](https://amzn.to/4nhcotO)
 
 ### 機材・サンプリング文化
 Technics SL-1200ターンテーブル、MPC初期型、ドラムマシン（Roland TR-808）が登場。レコードからのサンプリングが音楽制作の中心となり、DJはレコードの「ブレイク」部分を繰り返す手法を確立。
@@ -66,11 +66,11 @@ Public EnemyやEric B. & Rakimが登場し、政治的・社会的メッセー�
 
 ### 代表的な名盤
 
-Run-D.M.C.『Raising Hell』(1986)
+[Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
-Public Enemy『It Takes a Nation of Millions to Hold Us Back』(1988)
+[Public Enemy『It Takes a Nation of Millions to Hold Us Back』(1988)](https://amzn.to/46Oz3YB)
 
-N.W.A.『Straight Outta Compton』(1988)
+[N.W.A.『Straight Outta Compton』(1988)](https://amzn.to/46OFZoF)
 
 ### サンプリング文化
 
@@ -94,11 +94,11 @@ Dr. Dre『The Chronic』(1992)はサンプリングを巧みに使用しつつ�
 
 ### 代表的な名盤
 
-**East Coast**: The Notorious B.I.G.『Ready to Die』(1994)
+**East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
-**West Coast**: 2Pac『All Eyez on Me』(1996)
+**West Coast**: [2Pac『All Eyez on Me』(1996)](https://amzn.to/4261oak)
 
-**South**: OutKast『ATLiens』(1996)
+**South**: [OutKast『ATLiens』(1996)](https://amzn.to/4n9Fv2e)
 
 ---
 
@@ -114,9 +114,9 @@ DAW（Pro Tools, Ableton Live）の普及により、サンプリングに依存
 
 ### 代表的な名盤
 
-Jay-Z『The Blueprint』(2001)
+[Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
-OutKast『Speakerboxxx/The Love Below』(2003)
+[OutKast『Speakerboxxx/The Love Below』(2003)](https://amzn.to/4gybkPM)
 
 ---
 
@@ -136,9 +136,9 @@ DAW（Ableton Live, FL Studio）
 
 ### 代表的な名盤
 
-Kendrick Lamar『good kid, m.A.A.d city』(2012)
+[Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
-Migos『Culture』(2017)
+[Migos『Culture』(2017)](https://amzn.to/3KAHUED)
 
 ---
 
@@ -443,3 +443,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 
 🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+
+
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+
