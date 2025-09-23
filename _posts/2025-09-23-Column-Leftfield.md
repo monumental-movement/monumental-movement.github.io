@@ -95,6 +95,8 @@ flowchart TD
 
 **English**: Leftfield genre, UK electronica, relation to trip hop, soundtrack production, AI music generation
 
+---
+
 ### FAQ（日本語）
 
 Q1. Leftfieldはジャンルですか？アーティスト名ですか？
@@ -122,6 +124,8 @@ A. Trip hop is based on downtempo and hip hop, while Leftfield is rooted in hous
 Q3. Where should beginners start?
 
 A. Leftism is the essential starting point.
+
+---
 
 ### まとめ / Conclusion
 
