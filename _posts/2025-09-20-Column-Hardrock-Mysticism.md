@@ -85,7 +85,7 @@ flowchart LR
 
 ## 関連リンク
 
-* 🎸 [Amazonでハードロック名盤を探す](https://amzn.to/46vyWQi)
+* 🎸 [Amazonでハードロック名盤を探す](https://amzn.to/4gzcD0N)
 * 🎶 [Spotifyでハードロックプレイリストを聴く](https://open.spotify.com/)
 * 📺 [YouTubeでレッド・ツェッペリンのライブ映像を見る](https://www.youtube.com/results?search_query=led+zeppelin+live)
 
