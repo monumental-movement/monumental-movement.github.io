@@ -63,14 +63,14 @@ flowchart TD
 
 1970年代プログレはピンク・フロイドやイエスが「宇宙」「時間」「存在」をテーマにしたアルバムを制作。
 
-同時期のアニメは『宇宙戦艦ヤマト』『機動戦士ガンダム』など「スペースオペラ」的作品が登場。
+同時期のアニメは[『宇宙戦艦ヤマト』](https://amzn.to/4pxqmcR)[『機動戦士ガンダム』](https://amzn.to/3IpgXmS)など「スペースオペラ」的作品が登場。
 
 両者は直接的な接点は少ないものの、「宇宙的視野で物語を描こうとする姿勢」で並行的に発展していたのは興味深い。
 
 ---
 
 ### ■ 事例：エヴァンゲリオンとプログレ的感覚
-実際にアニメでプログレが直接的に導入された例は多くない。しかし、プログレ的な要素を指摘される作品は存在する。その代表例が**『新世紀エヴァンゲリオン』**だ。  
+実際にアニメでプログレが直接的に導入された例は多くない。しかし、プログレ的な要素を指摘される作品は存在する。その代表例が**[『新世紀エヴァンゲリオン』](https://amzn.to/46uRu3i)**だ。  
 
 鷺巣詩郎によるサウンドトラックには、キング・クリムゾンやイエスを想起させる重厚かつ不協和な展開が随所に散りばめられている。特に「決戦」や「Thanatos」などの楽曲は、変拍子や転調を多用し、聴き手に安易な快楽を与えるのではなく、不安と緊張を喚起する。これはまさにプログレが得意とする表現手法であり、作品全体の「難解さ」「哲学性」と響き合っている。
 
@@ -99,16 +99,16 @@ flowchart TD
 
 | 年代    | アルバム / おすすめトラック                  | 解説                             |
 | ----- | -------------------------------------- | ------------------- | ------------------------------ |
-| 1970s | **Pink Floyd** 『The Dark Side of the Moon』 / "Time"            | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
-| 1970s | **Yes** 『Close to the Edge』  /  "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
-| 1980s | **Marillion** 『Misplaced Childhood』 / "Kayleigh"          | 物語的アルバム構成はOVA文化との親和性が高い        |
-| 1980s | **King Crimson** 『Discipline』 / "Frame by Frame"    | 複雑なリズム構造は『AKIRA』的カオスを連想        |
-| 1990s | **Dream Theater** 『Images and Words』 / "Metropolis—Part I" | エヴァ世代に刺さるテクニカル＆叙情性             |
-| 1990s | **Porcupine Tree** 『The Sky Moves Sideways』 / "Stars Die"         | 哲学的で内省的、エヴァ的な空気感               |
-| 2000s | **Tool** 『Lateralus』 / "Lateralus"         | フィボナッチ数列を用いた構成は『攻殻機動隊』的サイバネ感覚  |
-| 2000s | **Sigur Rós** 『()』 / "Untitled #8"       | ポストロック的展開は『Ergo Proxy』と共鳴      |
-| 2010s | **Steven Wilson** 『Hand. Cannot. Erase.』 / "Perfect Life"      | 記憶と存在をテーマにしたコンセプト性は『メイドインアビス』的 |
-| 2020s | **Haken** 『Virus』 / "Prosthetic"        | デジタル時代のプログレメタルは、現代アニメのスピード感に適応 |
+| 1970s | [**Pink Floyd** 『The Dark Side of the Moon』](https://amzn.to/4mv7iJl) / "Time"            | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
+| 1970s | [**Yes** 『Close to the Edge』](https://amzn.to/46ACyRk)  /  "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
+| 1980s | [**Marillion** 『Misplaced Childhood』](https://amzn.to/46HkXHA) / "Kayleigh"          | 物語的アルバム構成はOVA文化との親和性が高い        |
+| 1980s | [**King Crimson** 『Discipline』](https://amzn.to/48vibYe) / "Frame by Frame"    | 複雑なリズム構造は『AKIRA』的カオスを連想        |
+| 1990s | [**Dream Theater** 『Images and Words』](https://amzn.to/4nFCWVn) / "Metropolis—Part I" | エヴァ世代に刺さるテクニカル＆叙情性             |
+| 1990s | [**Porcupine Tree** 『The Sky Moves Sideways』](https://amzn.to/3W7hI72) / "Stars Die"         | 哲学的で内省的、エヴァ的な空気感               |
+| 2000s | [**Tool** 『Lateralus』](https://amzn.to/47XvAbw) / "Lateralus"         | フィボナッチ数列を用いた構成は『攻殻機動隊』的サイバネ感覚  |
+| 2000s | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Untitled #8"       | ポストロック的展開は『Ergo Proxy』と共鳴      |
+| 2010s | [**Steven Wilson** 『Hand. Cannot. Erase.』](https://amzn.to/3W3D05C) / "Perfect Life"      | 記憶と存在をテーマにしたコンセプト性は『メイドインアビス』的 |
+| 2020s | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prosthetic"        | デジタル時代のプログレメタルは、現代アニメのスピード感に適応 |
 
 ---
 
@@ -117,14 +117,14 @@ flowchart TD
 
 | アニメ作品               | シーン              | 妄想で流れるプログレ曲                      | コメント                     |
 | ------------------- | ---------------- | -------------------------------- | ------------------------ |
-| 宇宙戦艦ヤマト (1974)      | ヤマトが波動砲を放つ瞬間     | Yes「Close to the Edge」序盤の混沌パート   | 宇宙的スケールと音の奔流が一致          |
-| 機動戦士ガンダム (1979)     | アムロとシャアの最終決戦     | Pink Floyd「Dogs」                 | 長尺の展開が宿命的な戦いを強調          |
-| AKIRA (1988)        | 鉄雄の暴走と崩壊         | King Crimson「Red」                | 凄絶なギターリフが世界崩壊と同化         |
-| 新世紀エヴァンゲリオン (1995)  | 人類補完計画のクライマックス   | Dream Theater「Metropolis—Part I」 | 哲学的かつテクニカルな構成が物語の複雑さとリンク |
-| 攻殻機動隊 S.A.C. (2002) | 草薙素子がネットにダイブする場面 | Tool「Lateralus」                  | 数列的構造の楽曲が電脳世界の構築感と重なる    |
-| Ergo Proxy (2006)   | レルが都市の外に出るシーン    | Porcupine Tree「Stars Die」        | 退廃と哲学が重なる陰鬱な美しさ          |
-| メイドインアビス (2017)     | 深界六層へ到達する瞬間      | Steven Wilson「Perfect Life」      | 哀しみと崇高さを併せ持つ楽曲が響く        |
-| 宇宙よりも遠い場所 (2018)    | 南極到達の感動の場面       | Sigur Rós「Untitled #8」           | ポストロックの爆発が青春の到達感を彩る      |
+| [宇宙戦艦ヤマト (1974)](https://amzn.to/3KgYE3F)      | ヤマトが波動砲を放つ瞬間     | Yes「Close to the Edge」序盤の混沌パート   | 宇宙的スケールと音の奔流が一致          |
+| [機動戦士ガンダム (1979)](https://amzn.to/4nfbz4G)     | アムロとシャアの最終決戦     | Pink Floyd「Dogs」                 | 長尺の展開が宿命的な戦いを強調          |
+| [AKIRA (1988)](https://amzn.to/42JuTie)        | 鉄雄の暴走と崩壊         | King Crimson「Red」                | 凄絶なギターリフが世界崩壊と同化         |
+| [新世紀エヴァンゲリオン (1995)](https://amzn.to/42KUZ4t)  | 人類補完計画のクライマックス   | Dream Theater「Metropolis—Part I」 | 哲学的かつテクニカルな構成が物語の複雑さとリンク |
+| [攻殻機動隊 S.A.C. (2002)](https://amzn.to/4gyCJkA) | 草薙素子がネットにダイブする場面 | Tool「Lateralus」                  | 数列的構造の楽曲が電脳世界の構築感と重なる    |
+| [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC)   | レルが都市の外に出るシーン    | Porcupine Tree「Stars Die」        | 退廃と哲学が重なる陰鬱な美しさ          |
+| [メイドインアビス (2017)](https://amzn.to/4gzijI9)     | 深界六層へ到達する瞬間      | Steven Wilson「Perfect Life」      | 哀しみと崇高さを併せ持つ楽曲が響く        |
+| [宇宙よりも遠い場所 (2018)](https://amzn.to/4nNuZxz)    | 南極到達の感動の場面       | Sigur Rós「Untitled #8」           | ポストロックの爆発が青春の到達感を彩る      |
 
 ---
 
