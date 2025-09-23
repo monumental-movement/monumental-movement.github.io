@@ -25,9 +25,9 @@ Shoegaze（シューゲイザー）は、1980年代後半からイギリスを�
 - Creation Recordsなどインディーレーベルがシーンを牽引。  
 
 ### 代表的な名盤  
-- My Bloody Valentine – *Isn't Anything* (1988)  
-- Cocteau Twins – *Blue Bell Knoll* (1988)  
-- The Jesus and Mary Chain – *Psychocandy* (1985)  
+- [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
+- [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
+- [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
 
 ### 使用機材  
 - **ギター**: Fender Jazzmaster, Jaguar  
@@ -72,9 +72,9 @@ color: #fff;
 - ブリットポップの隆盛とともに一時衰退するも、後世の評価が高まる。  
 
 ### 代表的な名盤  
-- My Bloody Valentine – *Loveless* (1991)  
-- Slowdive – *Souvlaki* (1993)  
-- Ride – *Nowhere* (1990)  
+- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
+- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
+- [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
 
 ### 使用機材  
 - **ギター**: Fender Jazzmaster, Gibson Les Paul  
@@ -105,9 +105,9 @@ color: #fff;
 - ネット文化の広がりで、再評価が加速。  
 
 ### 代表的な名盤  
-- M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)  
-- Deerhunter – *Microcastle* (2008)  
-- Asobi Seksu – *Citrus* (2006)  
+- [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
+- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
+- [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
 
 ### 使用機材  
 - **デジタル・リバーブ／ディレイ**（Line6 DL4）  
@@ -138,9 +138,9 @@ color: #fff;
 - DreampopやChillwaveとの融合。  
 
 ### 代表的な名盤  
-- DIIV – *Oshin* (2012)  
-- Nothing – *Guilty of Everything* (2014)  
-- Ringo Deathstarr – *Colour Trip* (2011)  
+- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
+- [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
+- [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
 
 ### 使用機材  
 - **エフェクターの多様化**（Strymon, EarthQuaker Devices）  
@@ -171,9 +171,9 @@ color: #fff;
 - シューゲイズ的手法はK-POPや日本のシティポップ再評価ともリンク。  
 
 ### 代表的な名盤  
-- Nothing – *The Great Dismal* (2020)  
-- Slowdive – *Everything Is Alive* (2023)  
-- Tamaryn – *Dreaming The Dark* (2019, 遺産的再評価)  
+- [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
+- [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
+- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  
 
 ### 使用機材  
 - **ソフトウェア・エフェクト**（プラグイン化が進む）  
