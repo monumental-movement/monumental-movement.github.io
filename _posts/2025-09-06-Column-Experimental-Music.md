@@ -23,9 +23,9 @@ image: ../assets/images/column-experimental-music.webp
 - **機材:** テープレコーダー、プリペアド・ピアノ、初期オシレーター。  
 
 ### 名盤
-- Pierre Schaeffer – *Cinq études de bruits* (1948)  
-- John Cage – *Sonatas and Interludes* (1948)  
-- Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)  
+- [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
+- [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
+- [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
 
 ---
 
@@ -65,9 +65,9 @@ color: #fff;
 - **機材:** Moog Modular, Buchla, EMS VCS3, テープループ。  
 
 ### 名盤
-- La Monte Young – *The Well-Tuned Piano* (1964)  
-- Terry Riley – *In C* (1968)  
-- Silver Apples – *Silver Apples* (1968)  
+- [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
+- [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
+- [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
 
 ---
 
@@ -93,9 +93,9 @@ color: #fff;
 - **機材:** EMS Synthi A, ARP 2600, Roland System 100, 自作ノイズジェネレーター。  
 
 ### 名盤
-- Throbbing Gristle – *The Second Annual Report* (1977)  
-- Brian Eno – *Discreet Music* (1975)  
-- Faust – *Faust IV* (1973)  
+- [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
+- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
+- [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
 
 ---
 
@@ -122,9 +122,9 @@ color: #fff;
 - **機材:** Tascam Portastudio, Roland TR-808, Yamaha DX7, ショートウェーブラジオ。  
 
 ### 名盤
-- Nurse With Wound – *Homotopy to Marie* (1982)  
-- Merzbow – *Metal Acoustic Music* (1981)  
-- Glenn Branca – *The Ascension* (1981)  
+- [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
+- [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
+- [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
 
 ---
 
@@ -151,9 +151,9 @@ color: #fff;
 - **機材:** Akai S3000, Max/MSP, Cubase, Pro Tools。  
 
 ### 名盤
-- Oval – *94diskont* (1995)  
-- Aphex Twin – *Selected Ambient Works Volume II* (1994)  
-- Autechre – *Tri Repetae* (1995)  
+- [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
+- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
+- [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
 
 ---
 
@@ -180,9 +180,9 @@ color: #fff;
 - **機材:** Ableton Live, SuperCollider, Kontakt, ノートPC。  
 
 ### 名盤
-- Fennesz – *Endless Summer* (2001)  
-- Wolf Eyes – *Burned Mind* (2004)  
-- Ryoji Ikeda – *Dataplex* (2005)  
+- [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
+- [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
+- [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
 
 ---
 
@@ -209,9 +209,9 @@ color: #fff;
 - **機材:** Eurorackモジュール, Max for Live, Pure Data, DIY楽器。  
 
 ### 名盤
-- Oneohtrix Point Never – *Replica* (2011)  
-- Tim Hecker – *Virgins* (2013)  
-- Holly Herndon – *Platform* (2015)  
+- [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
+- [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
+- [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
 
 ---
 
@@ -237,9 +237,9 @@ color: #fff;
 - **機材:** AI生成ツール（RAVE, Magenta Studio）、Eurorack、モジュラーシンセ＋機械学習アルゴリズム。  
 
 ### 名盤
-- Holly Herndon – *PROTO* (2019, AIボーカル合唱)  
-- Kali Malone – *Living Torch* (2022)  
-- Caterina Barbieri – *Spirit Exit* (2022)  
+- [Holly Herndon – *PROTO* (2019, AIボーカル合唱)](https://amzn.to/4nhKdv3)  
+- [Kali Malone – *Living Torch* (2022)](https://amzn.to/4nJoBYc)
+- [Caterina Barbieri – *Spirit Exit* (2022)](https://amzn.to/3W4Hg4M)  
 
 ---
 ## おすすめ10選
