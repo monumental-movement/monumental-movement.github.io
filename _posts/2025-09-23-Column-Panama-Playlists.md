@@ -12,7 +12,7 @@ image: ../assets/images/column-panama-playlists.webp
 
 文：mmr｜政治家・公人たちのSpotifyアカウントから“何を聴いているか”をスクレイピング調査
 
-2025年7月、Euronewsが報じた「Panama Playlists」は、JD Vance（米国上院議員・元大統領予備選候補）やPam Bondi、Karoline Leavittといった政治家・公人たちのSpotifyアカウントから“何を聴いているか”をスクレイピング調査で暴露したというもの。公にされていたプレイリスト情報—どの曲をどのくらい聞いたか、ライブ視聴履歴、よく聴く曲—が、大きな話題を呼んだ。:contentReference[oaicite:0]{index=0}
+2025年7月、Euronewsが報じた「Panama Playlists」は、JD Vance（米国上院議員・元大統領予備選候補）やPam Bondi、Karoline Leavittといった政治家・公人たちのSpotifyアカウントから“何を聴いているか”をスクレイピング調査で暴露したというもの。公にされていたプレイリスト情報—どの曲をどのくらい聞いたか、ライブ視聴履歴、よく聴く曲—が、大きな話題を呼んだ。
 
 この“音楽の習慣（listening habits）”は、一見些細なことのようでいて、私たちが著名人を理解するうえで意外に強い手がかりを提供する。今回のコラムでは、Panama Playlistsをきっかけに、JD Vanceらが選ぶ音楽とその背景、生い立ち、音楽的嗜好が示す「パーソナルと公共」の交錯について考えてみたい。
 
