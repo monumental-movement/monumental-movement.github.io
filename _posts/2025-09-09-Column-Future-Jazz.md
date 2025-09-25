@@ -22,9 +22,9 @@ Future Jazz（フューチャー・ジャズ）は、**ジャズの即興性と�
   Acid JazzがUKを中心に盛り上がり、ジャズ・ファンクやソウルをクラブ向けに再構築。DJやプロデューサーがターンテーブルやサンプラーを駆使して新しいジャズ解釈を試みる時代。
 
 - **代表的アーティスト／名盤**  
-  - Galliano — *In Pursuit of the 13th Note* (1991)  
-  - Brand New Heavies — *Heavy Rhyme Experience* (1992)  
-  - US3 — *Hand on the Torch* (1993)  
+  - [Galliano — *In Pursuit of the 13th Note* (1991)](https://amzn.to/4mzKCaW)  
+  - [Brand New Heavies — *Heavy Rhyme Experience* (1992)](https://amzn.to/4nfUp7b)  
+  - [US3 — *Hand on the Torch* (1993)](https://amzn.to/4pHi81M)  
 
 - **機材の特徴**  
   - Akai MPC60 / S1000  
@@ -66,9 +66,9 @@ color: #fff;
   ドイツのCompost Recordsを中心に「Future Jazz」という言葉が定着。クラブカルチャーとジャズの融合がリスニングシーンでも台頭。
 
 - **代表的アーティスト／名盤**  
-  - Kruder & Dorfmeister — *The K&D Sessions* (1998)  
-  - Jazzanova — *Compilation Vol.1* (1997)  
-  - Rainer Trüby Trio — *DJ-Kicks* (1998)  
+  - [Kruder & Dorfmeister — *The K&D Sessions* (1998)](https://amzn.to/47VWvV1)  
+  - [Jazzanova — *Compilation Vol.1* (1997)](https://amzn.to/3KrPhOJ)  
+  - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)  
 
 - **機材の特徴**  
   - Akai MPC3000  
@@ -98,9 +98,9 @@ color: #fff;
   West LondonのBroken BeatシーンがFuture Jazzを進化。リズムの複雑化と即興性が融合。
 
 - **代表的アーティスト／名盤**  
-  - Bugge Wesseltoft — *New Conception of Jazz* (2001)  
-  - 4hero — *Creating Patterns* (2001)  
-  - Nicola Conte — *Jet Sounds* (2000)  
+  - [Bugge Wesseltoft — *New Conception of Jazz* (2001)](https://amzn.to/4nIAsFS)  
+  - [4hero — *Creating Patterns* (2001)](https://amzn.to/4gCTTgY)  
+  - [Nicola Conte — *Jet Sounds* (2000)](https://amzn.to/4h0427T)  
 
 - **機材の特徴**  
   - Cubase / Logic Audio  
@@ -129,9 +129,9 @@ color: #fff;
   Nu-Jazzはエレクトロニカと融合し、リスニング色を強めた。
 
 - **代表的アーティスト／名盤**  
-  - Nils Petter Molvær — *ER* (2005)  
-  - Cinematic Orchestra — *Ma Fleur* (2007)  
-  - Jaga Jazzist — *What We Must* (2005)  
+  - [Nils Petter Molvær — *ER* (2005)](https://amzn.to/47WwMfb)  
+  - [Cinematic Orchestra — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)  
+  - [Jaga Jazzist — *What We Must* (2005)](https://amzn.to/4my5wqM)  
 
 - **機材の特徴**  
   - Ableton Live  
@@ -160,9 +160,9 @@ color: #fff;
   Future Jazzはヒップホップや現代ジャズと融合し、クロスオーバー的に進化。
 
 - **代表的アーティスト／名盤**  
-  - Robert Glasper Experiment — *Black Radio* (2012)  
-  - Flying Lotus — *Cosmogramma* (2010)  
-  - BADBADNOTGOOD — *III* (2014)  
+  - [Robert Glasper Experiment — *Black Radio* (2012)](https://amzn.to/4nmsNNV)  
+  - [Flying Lotus — *Cosmogramma* (2010)](https://amzn.to/4pGC6cW)  
+  - [BADBADNOTGOOD — *III* (2014)](https://amzn.to/4pGUoe8)  
 
 - **機材の特徴**  
   - Ableton Live + Push  
@@ -191,9 +191,9 @@ color: #fff;
   ストリーミングとAI時代に入り、Future Jazzは再評価され、モジュラーやAI音楽と交差。
 
 - **代表的アーティスト／名盤**  
-  - Alfa Mist — *Bring Backs* (2021)  
-  - Kamaal Williams — *Wu Hen* (2020)  
-  - Shabaka Hutchings & Sons of Kemet — *Black to the Future* (2021)  
+  - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)  
+  - [Kamaal Williams — *Wu Hen* (2020)](https://amzn.to/4gGebq3)  
+  - [Shabaka Hutchings & Sons of Kemet — *Black to the Future* (2021)](https://amzn.to/46B1doL)  
 
 - **機材の特徴**  
   - Eurorack Modular  
