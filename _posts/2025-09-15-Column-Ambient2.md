@@ -24,9 +24,9 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 第二次世界大戦後、都市化と産業化の加速により、人々の生活環境は「騒音」と「沈黙」の対比を強く意識させるものとなった。芸術家や作曲家は、音楽を“娯楽”ではなく“環境”として捉え直す試みを開始。  
 
 ### 代表的潮流
-- **エリック・サティ**：「家具の音楽」(Musique d’ameublement) により、音楽を積極的に聴くものではなく空間を構成する“機能”と位置付けた。  
-- **ジョン・ケージ**《4’33”》（1952年）：演奏者が音を出さず、会場に漂う環境音そのものを音楽とするラディカルな実験。  
-- **具体音楽 (Musique Concrète)**：ピエール・シェフェールらが録音・編集技術を駆使し、音の再構築を試みた。  
+- [**エリック・サティ**：「家具の音楽」(Musique d’ameublement)](https://amzn.to/42JssfB) により、音楽を積極的に聴くものではなく空間を構成する“機能”と位置付けた。  
+- [**ジョン・ケージ**《4’33”》（1952年）](https://amzn.to/4pOfrLZ)：演奏者が音を出さず、会場に漂う環境音そのものを音楽とするラディカルな実験。  
+- [**具体音楽 (Musique Concrète)**：](https://a.r10.to/hgipOu)ピエール・シェフェールらが録音・編集技術を駆使し、音の再構築を試みた。  
 
 ### 機材・技術
 - テープレコーダーによる編集（カットアップ、逆回転、スピード変化）  
@@ -41,9 +41,9 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 ベトナム戦争後の虚無感、石油危機、70年代的なニューエイジ思想の浸透。商業音楽のポップ化が進む一方で、「静寂」「瞑想」「内面」への志向が高まった。  
 
 ### 代表作
-- Brian Eno 『Discreet Music』（1975）  
-- Brian Eno 『Ambient 1: Music for Airports』（1978）  
-- Cluster & Eno 『Cluster & Eno』（1977）  
+- [Brian Eno 『Discreet Music』（1975）](https://amzn.to/3VBpgPl)  
+- [Brian Eno 『Ambient 1: Music for Airports』（1978）](https://amzn.to/3IFlmSB)  
+- [Cluster & Eno 『Cluster & Eno』（1977）](https://amzn.to/3KkyRYu)  
 
 ### 機材・技術
 - EMS VCS3、ARP 2600などモジュラーシンセ  
@@ -61,13 +61,13 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 冷戦構造の緊張感と同時に、テクノロジーへの楽観主義が音楽を駆動。家庭用シンセサイザーの普及により、アンビエントは「聴く少数派の音楽」から「日常に寄り添う音楽」へ。  
 
 ### 代表作
-- Harold Budd & Brian Eno 『The Plateaux of Mirror』（1980）  
-- Tangerine Dream 『Exit』（1981）  
-- Brian Eno 『Thursday Afternoon』（1985）  
+- [Harold Budd & Brian Eno 『The Plateaux of Mirror』（1980）](https://amzn.to/4nmHFvq)  
+- [Tangerine Dream 『Exit』（1981）](https://amzn.to/42HetqK)  
+- [Brian Eno 『Thursday Afternoon』（1985）](https://amzn.to/4nfUyaE)  
 
 ### 機材・技術
-- Yamaha DX7（FM音源の澄んだトーン）  
-- Roland Juno-60（豊かなパッドサウンド）  
+- [Yamaha DX7](https://amzn.to/46EXVRB)（FM音源の澄んだトーン）  
+- [Roland Juno-60](https://a.r10.to/hPUHle)（豊かなパッドサウンド）  
 - Fairlight CMIなど初期サンプラーによる環境音加工  
 
 ### 特徴
@@ -81,14 +81,14 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 冷戦終結後のグローバル化、テクノ／レイヴ文化の爆発。大量消費される四つ打ちの合間に「チルアウト空間」が必要とされた。  
 
 ### 代表作
-- The Orb 『Adventures Beyond the Ultraworld』（1991）  
-- Aphex Twin 『Selected Ambient Works 85-92』（1992）  
-- Biosphere 『Substrata』（1997）  
-- Global Communication 『76:14』（1994）  
+- [The Orb 『Adventures Beyond the Ultraworld』（1991）](https://amzn.to/4pxxQMK)  
+- [Aphex Twin 『Selected Ambient Works 85-92』（1992）](https://amzn.to/4nTlc9p)  
+- [Biosphere 『Substrata』（1997）](https://amzn.to/4mylwZO)  
+- [Global Communication 『76:14』（1994）](https://amzn.to/4myYa6o)  
 
 ### 機材・技術
 - Akai S1000などのサンプラー  
-- Roland TB-303、TR-808のアンビエント的応用  
+- [Roland TB-303](https://a.r10.to/h5SLY8)、[TR-808](https://a.r10.to/hRF5ke)のアンビエント的応用  
 - DATテープによるライブ録音  
 
 ### 特徴
@@ -102,12 +102,12 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 9.11以降の不安定な世界情勢。都市化のストレスの中で「瞑想」「癒し」といったテーマが求められる。デジタル化が音響表現を飛躍的に拡張。  
 
 ### 代表作
-- Fennesz 『Endless Summer』（2001）  
-- William Basinski 『The Disintegration Loops』（2002）  
-- Stars of the Lid 『And Their Refinement of the Decline』（2007）  
+- [Fennesz 『Endless Summer』（2001）](https://amzn.to/3VBOsp4)  
+- [William Basinski 『The Disintegration Loops』（2002）](https://amzn.to/42aRJze)  
+- [Stars of the Lid 『And Their Refinement of the Decline』（2007）](https://amzn.to/3IGEMqg)  
 
 ### 機材・技術
-- DAW（Ableton Live, Pro Tools）の普及  
+- DAW（[Ableton Live](https://a.r10.to/h5IrNm), [Pro Tools](https://a.r10.to/hPWYEw)）の普及  
 - Max/MSPによるリアルタイム処理  
 - エレキギター＋エフェクトペダルでのドローン  
 
@@ -122,13 +122,13 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 ストリーミング文化の定着、Lo-fi HipHopやChill系BGMの爆発的普及。瞑想、ヨガ、マインドフルネスと直結し、アンビエントは「生活の音楽」として再定義される。  
 
 ### 代表作
-- Tim Hecker 『Virgins』（2013）  
-- Oneohtrix Point Never 『Replica』（2011）  
-- Hiroshi Yoshimura 『Green』（1986 → 再発で国際的再注目）  
+- [Tim Hecker 『Virgins』](https://amzn.to/4nNKwgP)（2013）  
+- [Oneohtrix Point Never 『Replica』](https://amzn.to/4nnCpI8)（2011）  
+- [Hiroshi Yoshimura 『Green』](https://amzn.to/42J5iWN)（1986 → 再発で国際的再注目）  
 
 ### 機材・技術
-- ソフトシンセ（Omnisphere, Kontakt）  
-- 高性能フィールドレコーダー（Zoom, Tascam）  
+- ソフトシンセ（[Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y)）  
+- 高性能フィールドレコーダー（[Zoom](https://amzn.to/46B3TCP), [Tascam](https://amzn.to/3VxbOw3)）  
 - VR/ARとの音響統合  
 
 ### 特徴
@@ -157,86 +157,86 @@ color: #fff;
 
 ### 1970年代
 
-| 曲名 | アーティスト | 年 |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
-| Discreet Music | Brian Eno | 1975 |
-| Ambient 1: Music for Airports | Brian Eno | 1978 |
-| Cluster & Eno | Cluster & Eno | 1977 |
-| Mirage | Klaus Schulze | 1977 |
-| Rubycon | Tangerine Dream | 1975 |
-| Another Green World | Brian Eno | 1975 |
-| Evening Star | Fripp & Eno | 1975 |
-| Music for Films | Brian Eno | 1978 |
-| Phaedra | Tangerine Dream | 1974 |
-| Timewind | Klaus Schulze | 1975 |
+| [Discreet Music](https://amzn.to/46Ua7Px) | Brian Eno | 1975 |
+| [Ambient 1: Music for Airports](https://amzn.to/4nMtyPM) | Brian Eno | 1978 |
+| [Cluster & Eno](https://amzn.to/42aa6Es) | Cluster & Eno | 1977 |
+| [Mirage](https://amzn.to/3WbTdFO) | Klaus Schulze | 1977 |
+| [Rubycon](https://amzn.to/4mTiXSF) | Tangerine Dream | 1975 |
+| [Another Green World](https://amzn.to/481XdA2) | Brian Eno | 1975 |
+| [Evening Star](https://amzn.to/46EmnCm) | Fripp & Eno | 1975 |
+| [Music for Films](https://amzn.to/46tMKLa) | Brian Eno | 1978 |
+| [Phaedra](https://amzn.to/4niadpT) | Tangerine Dream | 1974 |
+| [Timewind](https://amzn.to/4ntSo7G) | Klaus Schulze | 1975 |
 
 <br>
 
 ### 1980年代
 
-| 曲名 | アーティスト | 年 |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
-| The Plateaux of Mirror | Harold Budd & Brian Eno | 1980 |
-| Thursday Afternoon | Brian Eno | 1985 |
-| Structures from Silence | Steve Roach | 1984 |
-| Apollo: Atmospheres and Soundtracks | Brian Eno | 1983 |
-| Exit | Tangerine Dream | 1981 |
-| Quiet Music | Steve Roach | 1986 |
-| Ambient 4: On Land | Brian Eno | 1982 |
-| Dreamtime Return | Steve Roach | 1988 |
-| Landscape | Hiroshi Yoshimura | 1986 |
-| Music for Nine Post Cards | Hiroshi Yoshimura | 1982 |
+| [The Plateaux of Mirror](https://amzn.to/3IutyFm) | Harold Budd & Brian Eno | 1980 |
+| [Thursday Afternoon](https://amzn.to/3VAghxS) | Brian Eno | 1985 |
+| [Structures from Silence](https://amzn.to/3IFTvSj) | Steve Roach | 1984 |
+| [Apollo: Atmospheres and Soundtracks](https://amzn.to/3W8FGPo) | Brian Eno | 1983 |
+| [Exit](https://amzn.to/4pBSSKp) | Tangerine Dream | 1981 |
+| [Quiet Music](https://amzn.to/4nKaqSx) | Steve Roach | 1986 |
+| [Ambient 4: On Land](https://amzn.to/46o3g0K) | Brian Eno | 1982 |
+| [Dreamtime Return](https://amzn.to/3IFUmT2) | Steve Roach | 1988 |
+| [Soundscape](https://amzn.to/4gCFSQi) | Hiroshi Yoshimura | 1986 |
+| [Music for Nine Post Cards](https://amzn.to/3Izvg8q) | Hiroshi Yoshimura | 1982 |
 
 <br>
 
 ### 1990年代
 
-| 曲名 | アーティスト | 年 |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
-| Adventures Beyond the Ultraworld | The Orb | 1991 |
-| Selected Ambient Works 85-92 | Aphex Twin | 1992 |
-| 76:14 | Global Communication | 1994 |
-| Substrata | Biosphere | 1997 |
-| Music Has the Right to Children | Boards of Canada | 1998 |
-| Lifeforms | The Future Sound of London | 1994 |
-| Selected Ambient Works Vol. II | Aphex Twin | 1994 |
-| Chill Out | The KLF | 1990 |
-| The Fires of Ork | Pete Namlook & Geir Jenssen | 1993 |
-| Polygon Window | Aphex Twin | 1993 |
+| [Adventures Beyond the Ultraworld](https://amzn.to/46B8HYT) | The Orb | 1991 |
+| [Selected Ambient Works 85-92](https://amzn.to/4nnUy8J) | Aphex Twin | 1992 |
+| [76:14](https://amzn.to/3Vwx8BN) | Global Communication | 1994 |
+| [Substrata](https://amzn.to/4gE0YOi) | Biosphere | 1997 |
+| [Music Has the Right to Children](https://amzn.to/46pj3w8) | Boards of Canada | 1998 |
+| [Lifeforms](https://amzn.to/3VAgXU4) | The Future Sound of London | 1994 |
+| [Selected Ambient Works Vol. II](https://amzn.to/46l7Yw6) | Aphex Twin | 1994 |
+| [Chill Out](https://amzn.to/3IiP4wN) | The KLF | 1990 |
+| [The Fires of Ork](https://amzn.to/4pDYYcT) | Pete Namlook & Geir Jenssen | 1993 |
+| [Polygon Window](https://amzn.to/4nKGF43) | Aphex Twin | 1993 |
 
 <br>
 
 ### 2000年代
 
-| 曲名 | アーティスト | 年 |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
-| Endless Summer | Fennesz | 2001 |
-| The Disintegration Loops | William Basinski | 2002 |
-| And Their Refinement of the Decline | Stars of the Lid | 2007 |
+| [Endless Summer](https://amzn.to/428hBMi) | Fennesz | 2001 |
+| [The Disintegration Loops](https://amzn.to/3KjewCV) | William Basinski | 2002 |
+| [And Their Refinement of the Decline](https://amzn.to/46DA0Se) | Stars of the Lid | 2007 |
 | Pop | Gas | 2000 |
-| Harmony in Ultraviolet | Tim Hecker | 2006 |
-| The Tired Sounds of Stars of the Lid | Stars of the Lid | 2001 |
-| Venegance | Eluvium | 2003 |
-| Far Away Trains Passing By | Ulrich Schnauss | 2001 |
-| Eno Box I/II (Reissues) | Brian Eno | 2000s |
-| Spellewauerynsherde | Akira Rabelais | 2004 |
+| [Harmony in Ultraviolet](https://amzn.to/42a7TJ8) | Tim Hecker | 2006 |
+| [The Tired Sounds of Stars of the Lid](https://amzn.to/4pXRu51) | Stars of the Lid | 2001 |
+| [Venegance](https://amzn.to/4gFcSaJ) | Eluvium | 2003 |
+| [Far Away Trains Passing By](https://amzn.to/3KhOaRP) | Ulrich Schnauss | 2001 |
+| [Eno Box I/II (Reissues)](https://amzn.to/4nl37Rw) | Brian Eno | 2000s |
+| [Spellewauerynsherde](https://amzn.to/3Vxga6n) | Akira Rabelais | 2004 |
 
 <br>
 
 ### 2010年代〜
 
-| 曲名 | アーティスト | 年 |
+| アルバム | アーティスト | 年 |
 |------|--------------|----|
-| Replica | Oneohtrix Point Never | 2011 |
-| Virgins | Tim Hecker | 2013 |
-| Green (Reissue) | Hiroshi Yoshimura | 2017 |
-| Atomos | A Winged Victory for the Sullen | 2014 |
+| [Replica](https://amzn.to/4nnCpI8) | Oneohtrix Point Never | 2011 |
+| [Virgins](https://amzn.to/482fkpG) | Tim Hecker | 2013 |
+| [Green (Reissue)](https://amzn.to/42J5iWN) | Hiroshi Yoshimura | 2017 |
+| [Atomos](https://amzn.to/4nQ1ewe) | A Winged Victory for the Sullen | 2014 |
 | Ruins | Grouper | 2014 |
-| Reflection | Brian Eno | 2017 |
-| A I A: Alien Observer | Grouper | 2011 |
+| [Reflection](https://amzn.to/3ICuCXB) | Brian Eno | 2017 |
+| [A I A: Alien Observer](https://amzn.to/4mCvN7z) | Grouper | 2011 |
 | Birth of a New Day | 2814 | 2015 |
-| Epoch | Tycho | 2016 |
-| For Those of You Who Have Never (And Also Those Who Have) | Huerco S. | 2016 |
+| [Epoch](https://amzn.to/3Kl1ogD) | Tycho | 2016 |
+| [For Those of You Who Have Never (And Also Those Who Have)](https://amzn.to/3Kjef2R) | Huerco S. | 2016 |
 
 ---
 
@@ -264,13 +264,13 @@ color: #fff;
 <br>
 
 ### 映画  
-- **『2001年宇宙の旅』（1968, Stanley Kubrick）**  
+- **[『2001年宇宙の旅』](https://amzn.to/4mDbiYv)（1968, Stanley Kubrick）**  
   - リゲティやペンデレツキの無調音楽が、事実上のアンビエント的役割を果たした。  
-- **『ブレードランナー』（1982, Vangelis）**  
+- **[『ブレードランナー』](https://amzn.to/46I7grO)（1982, Vangelis）**  
   - シンセによる持続音と未来都市の音響がアンビエントの原型的な映画音楽に。  
-- **『ソラリス』（1972, Tarkovsky / 音楽: Eduard Artemyev）**  
+- **[『ソラリス』](https://amzn.to/46z8KV6)（1972, Tarkovsky / 音楽: Eduard Artemyev）**  
   - 電子音響による宇宙的アンビエンス。静寂の心理効果を最大化。  
-- **『ロスト・イン・トランスレーション』（2003, Sofia Coppola / 音楽: Kevin Shields, Air）**  
+- **[『ロスト・イン・トランスレーション』（](https://amzn.to/3Iurayo)2003, Sofia Coppola / 音楽: Kevin Shields, Air）**  
   - 都市の孤独をアンビエント的サウンドで包み込む。  
 
 ### 美術館・インスタレーション  
@@ -308,7 +308,7 @@ color: #fff;
 
 **吉村弘 (Hiroshi Yoshimura)**
 
-- 代表作『Music for Nine Post Cards』（1982）、『Green』（1986）  
+- 代表作[『Music for Nine Post Cards』](https://amzn.to/429uNQV)（1982）、[『Green』](https://amzn.to/4nN36pp)（1986）  
 - シンプルな旋律と透き通るサウンドで、近年海外再評価が進む。  
 
 **高橋悠治 (Yuji Takahashi)**
@@ -317,11 +317,11 @@ color: #fff;
 
 **坂本龍一 (Ryuichi Sakamoto)**
 
-- 『async』（2017）で環境音と音響芸術を融合。アンビエント的要素をキャリア全体で展開。  
+- [『async』](https://amzn.to/4pGHDAe)（2017）で環境音と音響芸術を融合。アンビエント的要素をキャリア全体で展開。  
 
 **川井憲次 (Kenji Kawai)**
 
-- 『攻殻機動隊』などアニメ音楽でアンビエント的空間を表現。  
+- [『攻殻機動隊』](https://amzn.to/3VwvujB)などアニメ音楽でアンビエント的空間を表現。  
 
 **その他**
 
