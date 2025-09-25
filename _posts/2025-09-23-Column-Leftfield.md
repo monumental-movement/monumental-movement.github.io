@@ -138,6 +138,8 @@ Leftfieldは、UKエレクトロニカの象徴であると同時に、「音楽
 Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diverging from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
 
 
+---
+
 ### 関連コラム
 
 🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
