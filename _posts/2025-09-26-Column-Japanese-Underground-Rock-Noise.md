@@ -1,0 +1,174 @@
+---
+layout: post
+title:  "【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡"
+author: mmr
+categories: [ Column ]
+tags: [ Noise, Rock, Experimental, 90s, 00s ]
+image: ../assets/images/column-japanese-underground-rock-noise.webp
+---
+
+## 90年代〜2000年代の日本アンダーグラウンド・ロックとノイズの交差点
+
+文：mmr｜テーマ：1990年代から2000年代の日本のアンダーグラウンド音楽シーンの世界的な注目
+
+1990年代から2000年代は、**ノイズ・ミュージック**の最盛期であると同時に、オルタナティブ・ロックやアヴァンギャルド・パンクとの交差点としても機能しました。  
+特に**灰野敬二、メルツバウ（Merzbow）、非常階段、Melt-Banana、Boredoms、暴力温泉芸者**といったアーティストは、既存の音楽ジャンルを破壊し、新たな表現領域を切り開きました。
+
+---
+
+
+
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
+
+### 日本アンダーグラウンドの熱狂
+
+灰野敬二率いる **Fushitsusha**、秋田昌美の **Merzbow**、山塚アイと山本精一のBOREDOMS、インキャパシタンツや暴力温泉芸者といったグループは、従来のロックやパンクの枠を破壊し、ノイズと実験精神を融合させた音世界を築きました。
+
+またこの時期は、インディーレーベルの台頭、国際的なフェス出演、アメリカやヨーロッパのアンダーグラウンドとの交流も加速。さらには映画やサウンドトラック制作、後年の **AI音楽生成** にまで影響を及ぼす先鋭的な活動が展開されました。
+
+---
+
+## シーンの特徴
+
+- **灰野敬二**: フィードバックと即興演奏による「音の儀式」。  
+- **メルツバウ**: アナログ機材からラップトップ・ノイズへと移行しつつも、アニマルライツや菜食主義思想を反映。  
+- **非常階段**: 「ノイズ・バンド」と「パフォーマンス・アート」の境界を曖昧にした存在。  
+- **Boredoms**: サイケデリックとノイズを融合させ、米国オルタナシーンにも影響。  
+- **Melt-Banana**: ハードコアの速度感とノイズ的質感を組み合わせた「ナノ・コア」。  
+
+---
+
+## 各バンドの特徴・変遷・逸話
+
+### 灰野敬二
+- **特徴**: ギター、ヴォーカル、フィードバックを駆使した「音の儀式」。即興演奏を軸に、宗教的・呪術的とも形容される音世界。  
+- **変遷**: 1970年代のソロ作品から、90年代以降はFushitsushaなどバンド形態でも活動。即興演奏の枠組みを超えた持続的探求を続ける。  
+- **逸話**: ライブ前にギターの弦を全て張り替え、儀式のように音を放つことから「サウンドシャーマン」と呼ばれる。  
+
+| アルバム | 特徴 | Amazonリンク |
+|----------|------|--------------|
+| *Watashi Dake?* (1981/再発1998) | 初期代表作。孤高の歌声とギターのノイズ的表現 | [Amazon](https://www.amazon.co.jp/s?k=灰野敬二+Watashi+Dake) |
+| *Fushitsusha – A Death Never To Be Complete* (1997) | 圧倒的即興演奏とフィードバックの海 | [Amazon](https://www.amazon.co.jp/s?k=Fushitsusha+A+Death+Never+To+Be+Complete) |
+
+---
+
+### Merzbow（メルツバウ）
+
+- **特徴**: 「ノイズ・ミュージック」の代名詞。アナログ機材のカオティックな轟音から、90年代後半以降はラップトップへ移行。  
+- **変遷**: 80年代はカセットテープ作品、90年代にCDリリースで国際的評価。2000年代には「環境保護」「アニマルライツ」を音に込める。  
+- **逸話**: アルバム『Pulse Demon』は海外で「最も聴き続けられないアルバム」と呼ばれつつ、ノイズの金字塔とされる。  
+
+| アルバム | 特徴 | Amazonリンク |
+|----------|------|--------------|
+| *Venereology* (1994) | ノイズ＋デスメタル的要素。エクストリームの極み | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Venereology) |
+| *Pulse Demon* (1996) | ハーシュノイズの決定盤。金属的轟音が持続する圧倒的作 | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Pulse+Demon) |
+| *Merzbeat* (2002) | 4/4ビートとノイズを融合。クラブ的感覚を持つ異色作 | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Merzbeat) |
+
+---
+
+### 非常階段
+
+- **特徴**: 世界初の「ノイズ・バンド」。ノイズ演奏に加えて過激なパフォーマンス（食品投げ、火花、裸の乱舞）で伝説化。  
+- **変遷**: 80年代に活動開始、90年代にはライブ・アルバム中心で記録される。2000年代以降はアイドルとの共演など実験的活動を展開。  
+- **逸話**: ライブで「鶏を解体する」といった行為が海外メディアで大きな議論を呼び、社会的スキャンダルとして扱われた。  
+
+| アルバム | 特徴 | Amazonリンク |
+|----------|------|--------------|
+| *Live 1980* (1980) | 初期の暴力的ノイズの記録 | [Amazon](https://www.amazon.co.jp/s?k=非常階段+Live+1980) |
+| *Noisy Animal* (2000) | 動物モチーフとノイズの融合。パフォーマンス色が強い | [Amazon](https://www.amazon.co.jp/s?k=非常階段+Noisy+Animal) |
+
+---
+
+### Boredoms（ボアダムス）
+
+- **特徴**: ノイズとサイケデリック、ハードコアを融合。アート性とカオスを同居させたバンド。  
+- **変遷**: 初期はノイズ・パンク的、90年代に『Super æ』『Vision Creation Newsun』でポリリズムとサイケ志向へ。2000年代は100台以上のドラムでイベントを主催。  
+- **逸話**: 2007年7月7日にNYブルックリンで「77 Boadrum」を開催。77人のドラマーを指揮する伝説的イベント。  
+
+| アルバム | 特徴 | Amazonリンク |
+|----------|------|--------------|
+| *Pop Tatari* (1991) | ノイズとハードコアの狂気的融合 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Pop+Tatari) |
+| *Super æ* (1998) | サイケ・ポリリズム的な中期代表作 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Super+ae) |
+| *Vision Creation Newsun* (1999) | スピリチュアルでサイケな音像 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Vision+Creation+Newsun) |
+
+---
+
+### Melt-Banana
+
+- **特徴**: 超高速ハードコア＋ノイズ。ヴォーカルYasuko O.のキュートで切り裂くような声が特徴。  
+- **変遷**: 90年代初期に結成、Steve Albiniのサポートで海外進出。2000年代はより電子的で構造的なサウンドに変化。  
+- **逸話**: 海外ツアーでジョン・ゾーンに絶賛され、アメリカのオルタナシーンで「日本の最速バンド」としてカルト人気を獲得。  
+
+| アルバム | 特徴 | Amazonリンク |
+|----------|------|--------------|
+| *Speak Squeak Creak* (1994) | 初期代表作。爆発的スピードのナノコア | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Speak+Squeak+Creak) |
+| *Charlie* (1998) | 構成が整い、楽曲性が増した中期の名盤 | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Charlie) |
+| *Cell-Scape* (2003) | エレクトロ要素を導入した新境地 | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Cell-Scape) |
+
+---
+
+## 年代別おすすめアルバム
+
+| 年代 | アーティスト / アルバム | 特徴 | リンク |
+|------|--------------------------|------|--------|
+| 1991 | Boredoms – *Pop Tatari* | アヴァンギャルド・ノイズとロックの狂気的融合 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Pop+Tatari) / [YouTube](https://www.youtube.com/results?search_query=Boredoms+Pop+Tatari) |
+| 1994 | Melt-Banana – *Speak Squeak Creak* | 初期代表作。爆発的スピードのナノ・コア | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Speak+Squeak+Creak) / [Spotify](https://open.spotify.com/) |
+| 1996 | Merzbow – *Pulse Demon* | ハーシュノイズの頂点。ラップトップ以前の最重要作 | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Pulse+Demon) / [YouTube](https://www.youtube.com/results?search_query=Merzbow+Pulse+Demon) |
+| 1998 | 灰野敬二 – *Watashi Dake?* (再発) | 70年代録音だが90年代以降に再評価 | [Amazon](https://www.amazon.co.jp/s?k=灰野敬二+Watashi+Dake) |
+| 2000 | 非常階段 – *Noisy Animal* | パフォーマンス的ノイズの集大成 | [Amazon](https://www.amazon.co.jp/s?k=非常階段+Noisy+Animal) |
+
+---
+
+### シーンの相関図
+
+<div class="mermaid">
+flowchart TD
+    A[灰野敬二] --> B[即興 / フィードバック]
+    C[Merzbow] --> D[ハーシュノイズ]
+    E[非常階段] --> F[ノイズ×パフォーマンス]
+    G[Boredoms] --> H[サイケ×ノイズ]
+    I[Melt-Banana] --> J[ハードコア×ノイズ]
+    B --> Z[90s-2000s 日本アンダーグラウンド]
+    D --> Z
+    F --> Z
+    H --> Z
+    J --> Z
+</div>
+
+## FAQ — 日本アンダーグラウンド・ノイズシーンについて
+
+Q1: 90年代と2000年代でシーンはどう変わった？
+
+A1: 90年代は革新的な実験が爆発した時期、2000年代は海外からの再評価とリイシューが進んだ時期です。
+
+Q2: 初心者が聴くならどの作品がおすすめ？
+
+A2: Boredoms『Super æ』やMerzbow『Merzbeat』は比較的入りやすい入門盤です。
+
+Q3: ノイズとロックはどう結びついた？
+
+A3: サイケデリックやパンクの影響を背景に、轟音と即興を融合させた新しい表現が生まれました。
+
+Q4: サウンドトラック制作やAI音楽生成とどう関係する？
+
+A4: 実験的サウンドは映像作品に独自の緊張感を与え、AIの生成音楽研究にも応用可能な構造を提示しています。
+
+### まとめ
+
+90年代〜2000年代の日本アンダーグラウンド・ロックとノイズは、単なる音楽ジャンルではなく、文化的実験場でした。灰野敬二の儀式的演奏、Merzbowの機材的進化、非常階段の破壊的パフォーマンス、Melt-Bananaの疾走感、Boredomsのサイケ・ノイズ融合は、世界の音楽史に残る唯一無二の表現です。
+---
+
+### 関連コラム
+
+🔗 [【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点](https://monumental-movement.jp/Column-Japanese-Mainstream-Underground-Rock)
