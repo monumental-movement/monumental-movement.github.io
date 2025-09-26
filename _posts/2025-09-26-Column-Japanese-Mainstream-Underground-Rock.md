@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点"
 author: mmr
 categories: [ Column ]
-tags: [ Rock, Noise, 90s, 00s ]
+tags: [ Rock, Noise, Psychedelic Rock ]
 image: ../assets/images/column-japanese-mainstream-underground-rock.webp
 ---
 
@@ -91,9 +91,9 @@ flowchart TD
 
 ### 年代別おすすめ名盤リスト（アンダーグラウンドを含む）
 
-| アーティスト | 年代 | 名盤 | 特徴 | Amazonリンク |
+| アーティスト | 年代 | 名盤 | 特徴 | リンク |
 |--------------|------|------|------|---------------|
-| 裸のラリーズ | 1960s-70s | 『’67-’69 Studio et Live』 | サイケデリックでノイジーな伝説的ブート盤的作品 | [Amazon](https://amzn.to/3IEPI7T) |
+| 裸のラリーズ | 1960s-70s | 『Live 1972』 | サイケデリックでノイジーな伝説的ブート盤的作品 | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
 | 灰野敬二 | 1970s | 『Watashi Dake?』 (1973) | 静寂と爆音を行き来する孤高のソロアルバム | [Amazon](https://amzn.to/4pJ0OJw) |
 | 少年ナイフ | 1980s | 『Burning Farm』 (1983) | ポップ・パンクの幕開け、海外インディシーンでも評価 | [Amazon](https://amzn.to/3Vycp0t) |
 | BOØWY | 1980s | 『JUST A HERO』 (1986) | 日本バンドブームの頂点、ストリート的な勢い | [Amazon](https://amzn.to/3IBpnrk) |
