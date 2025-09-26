@@ -33,7 +33,7 @@ color: #fff;
 
 ### 日本アンダーグラウンドの熱狂
 
-灰野敬二率いる **Fushitsusha**、秋田昌美の **Merzbow**、山塚アイと山本精一のBOREDOMS、インキャパシタンツや暴力温泉芸者といったグループは、従来のロックやパンクの枠を破壊し、ノイズと実験精神を融合させた音世界を築きました。
+灰野敬二率いる [**Fushitsusha**](https://amzn.to/4mBoM6K)、秋田昌美の [**Merzbow**](https://amzn.to/46qEmxw)、山塚アイと山本精一の[BOREDOMS](https://amzn.to/4nKFfGO)、[インキャパシタンツ](https://amzn.to/3IsJjwx)や[暴力温泉芸者](https://amzn.to/4gJWXbk)といったグループは、従来のロックやパンクの枠を破壊し、ノイズと実験精神を融合させた音世界を築きました。
 
 またこの時期は、インディーレーベルの台頭、国際的なフェス出演、アメリカやヨーロッパのアンダーグラウンドとの交流も加速。さらには映画やサウンドトラック制作、後年の **AI音楽生成** にまで影響を及ぼす先鋭的な活動が展開されました。
 
@@ -71,9 +71,9 @@ color: #fff;
 
 | アルバム | 特徴 | Amazonリンク |
 |----------|------|--------------|
-| *Venereology* (1994) | ノイズ＋デスメタル的要素。エクストリームの極み | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Venereology) |
-| *Pulse Demon* (1996) | ハーシュノイズの決定盤。金属的轟音が持続する圧倒的作 | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Pulse+Demon) |
-| *Merzbeat* (2002) | 4/4ビートとノイズを融合。クラブ的感覚を持つ異色作 | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Merzbeat) |
+| *Venereology* (1994) | ノイズ＋デスメタル的要素。エクストリームの極み | [Amazon](https://amzn.to/47YCwoH) |
+| *Pulse Demon* (1996) | ハーシュノイズの決定盤。金属的轟音が持続する圧倒的作 | [Amazon](https://amzn.to/4gIXnyH) |
+| *Merzbeat* (2002) | 4/4ビートとノイズを融合。クラブ的感覚を持つ異色作 | [Amazon](https://amzn.to/3W8fwMH) |
 
 ---
 
@@ -85,8 +85,8 @@ color: #fff;
 
 | アルバム | 特徴 | Amazonリンク |
 |----------|------|--------------|
-| *Live 1980* (1980) | 初期の暴力的ノイズの記録 | [Amazon](https://www.amazon.co.jp/s?k=非常階段+Live+1980) |
-| *Noisy Animal* (2000) | 動物モチーフとノイズの融合。パフォーマンス色が強い | [Amazon](https://www.amazon.co.jp/s?k=非常階段+Noisy+Animal) |
+| *蔵六の奇病* (1980) | 初期の暴力的ノイズの記録 | [Amazon](https://amzn.to/3ItXW2H) |
+| *雑音伝説* (2014) | メルツバウ、インキャパシタンツのメンバーが全て参加し、非常階段とのセッション音源 | [Amazon](https://amzn.to/3WbpsVI) |
 
 ---
 
@@ -98,9 +98,9 @@ color: #fff;
 
 | アルバム | 特徴 | Amazonリンク |
 |----------|------|--------------|
-| *Pop Tatari* (1991) | ノイズとハードコアの狂気的融合 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Pop+Tatari) |
-| *Super æ* (1998) | サイケ・ポリリズム的な中期代表作 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Super+ae) |
-| *Vision Creation Newsun* (1999) | スピリチュアルでサイケな音像 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Vision+Creation+Newsun) |
+| *Pop Tatari* (1991) | ノイズとハードコアの狂気的融合 | [Amazon](https://amzn.to/3VCBLKA) |
+| *Super æ* (1998) | サイケ・ポリリズム的な中期代表作 | [Amazon](https://amzn.to/3KotaZw) |
+| *Vision Creation Newsun* (1999) | スピリチュアルでサイケな音像 | [Amazon](https://amzn.to/46GYn1u) |
 
 ---
 
@@ -112,9 +112,9 @@ color: #fff;
 
 | アルバム | 特徴 | Amazonリンク |
 |----------|------|--------------|
-| *Speak Squeak Creak* (1994) | 初期代表作。爆発的スピードのナノコア | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Speak+Squeak+Creak) |
-| *Charlie* (1998) | 構成が整い、楽曲性が増した中期の名盤 | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Charlie) |
-| *Cell-Scape* (2003) | エレクトロ要素を導入した新境地 | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Cell-Scape) |
+| *Speak Squeak Creak* (1994) | 初期代表作。爆発的スピードのナノコア | [Amazon](https://amzn.to/4pEjYR3) |
+| *Charlie* (1998) | 構成が整い、楽曲性が増した中期の名盤 | [Amazon](https://amzn.to/4mBpEIy) |
+| *Cell-Scape* (2003) | エレクトロ要素を導入した新境地 | [Amazon](https://amzn.to/4niEzbX) |
 
 ---
 
@@ -122,11 +122,11 @@ color: #fff;
 
 | 年代 | アーティスト / アルバム | 特徴 | リンク |
 |------|--------------------------|------|--------|
-| 1991 | Boredoms – *Pop Tatari* | アヴァンギャルド・ノイズとロックの狂気的融合 | [Amazon](https://www.amazon.co.jp/s?k=Boredoms+Pop+Tatari) / [YouTube](https://www.youtube.com/results?search_query=Boredoms+Pop+Tatari) |
-| 1994 | Melt-Banana – *Speak Squeak Creak* | 初期代表作。爆発的スピードのナノ・コア | [Amazon](https://www.amazon.co.jp/s?k=Melt-Banana+Speak+Squeak+Creak) / [Spotify](https://open.spotify.com/) |
-| 1996 | Merzbow – *Pulse Demon* | ハーシュノイズの頂点。ラップトップ以前の最重要作 | [Amazon](https://www.amazon.co.jp/s?k=Merzbow+Pulse+Demon) / [YouTube](https://www.youtube.com/results?search_query=Merzbow+Pulse+Demon) |
-| 1998 | 灰野敬二 – *Watashi Dake?* (再発) | 70年代録音だが90年代以降に再評価 | [Amazon](https://www.amazon.co.jp/s?k=灰野敬二+Watashi+Dake) |
-| 2000 | 非常階段 – *Noisy Animal* | パフォーマンス的ノイズの集大成 | [Amazon](https://www.amazon.co.jp/s?k=非常階段+Noisy+Animal) |
+| 1991 | Boredoms – *Pop Tatari* | アヴァンギャルド・ノイズとロックの狂気的融合 | [Amazon](https://amzn.to/3VCBLKA) |
+| 1994 | Melt-Banana – *Speak Squeak Creak* | 初期代表作。爆発的スピードのナノ・コア | [Amazon](https://amzn.to/4pEjYR3) |
+| 1996 | Merzbow – *Pulse Demon* | ハーシュノイズの頂点。ラップトップ以前の最重要作 | [Amazon](https://amzn.to/4mxWPgd)  |
+| 1998 | 灰野敬二 – *Watashi Dake?* (再発) | 70年代録音だが90年代以降に再評価 | [Amazon](https://amzn.to/3KlCLjU) |
+| 2017 | 非常階段 – *Destroy Noise Symphony* | パフォーマンス的ノイズの集大成 | [Amazon](https://amzn.to/484Ulm8) |
 
 ---
 
@@ -134,12 +134,12 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-    A[灰野敬二] --> B[即興 / フィードバック]
-    C[Merzbow] --> D[ハーシュノイズ]
-    E[非常階段] --> F[ノイズ×パフォーマンス]
-    G[Boredoms] --> H[サイケ×ノイズ]
-    I[Melt-Banana] --> J[ハードコア×ノイズ]
-    B --> Z[90s-2000s 日本アンダーグラウンド]
+    A["灰野敬二"] --> B["即興 / フィードバック"]
+    C["Merzbow"] --> D["ハーシュノイズ"]
+    E["非常階段"] --> F["ノイズ×パフォーマンス"]
+    G["Boredoms"] --> H["サイケ×ノイズ"]
+    I["Melt-Banana"] --> J["ハードコア×ノイズ"]
+    B --> Z["90s-2000s 日本アンダーグラウンド"]
     D --> Z
     F --> Z
     H --> Z
@@ -172,3 +172,9 @@ A4: 実験的サウンドは映像作品に独自の緊張感を与え、AIの�
 ### 関連コラム
 
 🔗 [【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点](https://monumental-movement.jp/Column-Japanese-Mainstream-Underground-Rock)
+
+
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
+
+
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
