@@ -15,8 +15,6 @@ image: ../assets/images/column-japanese-mainstream-underground-rock.webp
 
 ---
 
-
-
 <style type="text/css">
 table, td, th {
 border: 2px #111 solid;
@@ -29,13 +27,9 @@ color: #fff;
 }
 </style>
 
-
----
-
 ### 1960年代：裸のラリーズの衝撃
 
 裸のラリーズ — アシッドでノイズに満ちたサイケデリック・ロックは、日本の「地下音楽」の始祖。ブートレグ音源すら神話化されている。
-→ YouTubeで聴く
 
 ---
 
@@ -114,6 +108,9 @@ flowchart TD
 | YOASOBI | 2020s | 『THE BOOK』 (2021) | AI的アプローチを含むデジタル時代のポップロック | [Amazon](https://amzn.to/4gHaMXT) |
 
 
+---
+
+
 
 ### FAQ：アンダーグラウンド日本ロックについて
 
@@ -143,6 +140,3 @@ A5: 想い出波止場『スカンク』やROVOのライブ、ソロ作品『Cro
 日本のロック史は、表の「メインストリーム」と裏の「アンダーグラウンド」が並行して進化してきた。裸のラリーズからギターウルフまでの系譜は、現在のAI音楽生成やサウンドトラック制作の文脈にも繋がっている。日本のロックは今後も、世界の音楽シーンに「実験と衝動」を与え続けるだろう。
 
 
-### 関連コラム
-
-🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
