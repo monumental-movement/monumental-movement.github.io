@@ -123,7 +123,7 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 [Surgeon – Tresor.117: Force + Form (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
-Joey Beltram – Close Grind (2001)
+[Joey Beltram – Close Grind (2001)](https://www.discogs.com/master/61198-JB³-Close-Grind)
 
 [Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
