@@ -225,8 +225,9 @@ color: #fff;
 
 
 ### ブランド別ショー映像リンクと注目ポイント
+
 | ブランド                  | 映像タイトル                                              | 演出・音響ポイント                          | YouTubeリンク                                             |
-| --------------------- | --------------------------------------------------- | ---------------------------------- | ------------------------------------------------------ |
+| --------------------- | -------------------------------------------------- | --------------------------------- | ----------------------------------------------------- |
 | **COMME des GARÇONS** | COMME des GARÇONS FW25 “Small Is Stronger”          | ショー全体の空気感、暗めの照明と音楽の重なりを読み解くのに適している | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
 | **COMME des GARÇONS** | Spring Summer 2024                                  | レイ・カワクボ期の実験性が現れるサウンド選定や展開に注目       | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
 | **COMME des GARÇONS** | Men’s SS2026                                        | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
@@ -308,13 +309,13 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior（各映像＋関係アーティスト）
 
-| ブランド                                      | 代表映像（YouTube 等）                                                                                                                                                                                 | 起用・関係アーティスト（報道/クレジット）                                                                      | 
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------- |
-| [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | サウンドデザイン：**BFRND**（ショー専用スコア）／インダストリアル系サウンドの採用事例                                            |
-| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）                                                                                                  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能                                                          |                   |
-| **Alexander McQueen**                     | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)                                                                                                                       | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）                      |                   |
-| **Louis Vuitton**                         | 各種ショー & Afterparty 記録（例のアーカイブ） — Daft Punk / Virgil Abloh のDJ関係など（複数）                                                                                                                           | かつて **Daft Punk** が LV に楽曲編集提供、また **Dev Hynes (Blood Orange)** をスコア起用した事例あり（Virgil Abloh期） |                   |
-| **Dior**                                  | Dior（キャンペーン／ショー映像各種）                                                                                                                                                                            | Frédéric Sanchez 等のサウンドデザイナーが関与する事例が多く、アンビエント／ドローン系の演出との接点あり                               |                   |
+| ブランド   | 代表映像（YouTube 等）     | 起用・関係アーティスト（報道/クレジット）  | 
+| ------------------- | -------------------- |----------------------------- | 
+| [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | サウンドデザイン：**BFRND**（ショー専用スコア）／インダストリアル系サウンドの採用事例   |
+| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |
+| **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
+| **Louis Vuitton**      | 各種ショー & Afterparty 記録（例のアーカイブ） — Daft Punk / Virgil Abloh のDJ関係など（複数） | かつて **Daft Punk** が LV に楽曲編集提供、また **Dev Hynes (Blood Orange)** をスコア起用した事例あり（Virgil Abloh期） |  
+| **Dior**                                  | Dior（キャンペーン／ショー映像各種）   | Frédéric Sanchez 等のサウンドデザイナーが関与する事例が多く、アンビエント／ドローン系の演出との接点あり  |  
 
 ---
 
