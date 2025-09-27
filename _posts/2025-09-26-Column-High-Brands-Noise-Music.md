@@ -57,9 +57,9 @@ color: #fff;
 
 ### 逸話と具体的エピソード
 
-**非常階段（Hijokaidan）**の映像は、ヨーロッパのファッションブランドのビジュアル演出素材として使用され、「カオスと洗練の共存」を強調した。
+[**非常階段（Hijokaidan）**](https://amzn.to/3IlDq4h)の映像は、ヨーロッパのファッションブランドのビジュアル演出素材として使用され、「カオスと洗練の共存」を強調した。
 
-GUCCI はキャンペーン映像にインダストリアルなノイズを混在させ、クラシックとの衝突を意図的に演出した。
+[GUCCI](https://amzn.to/4gIXl9X) はキャンペーン映像にインダストリアルなノイズを混在させ、クラシックとの衝突を意図的に演出した。
 
 [Rick Owens](https://amzn.to/3KGkWMm) は2010年代のショーでドローン的なノイズを導入し、観客を「不快な没入」へと誘導した。
 
@@ -126,7 +126,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：Deathprod、Sunn O))), Nurse With Wound。
 
-✦ Gucci
+✦ [Gucci](https://amzn.to/4gIXl9X) 
 
 クラシックとノイズを衝突させ、豪奢さを逆照射。
 
@@ -134,7 +134,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：Alessandro Cortini、Fennesz。
 
-✦ Vivienne Westwood
+✦ [Vivienne Westwood](https://amzn.to/46DRqyf)
 
 パンクをブランド化し、ノイズ的精神を先駆的に導入。
 
@@ -142,7 +142,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：Sex Pistols（ジョニー・ロットン）、初期インダストリアル勢。
 
-✦ Prada
+✦ [Prada](https://amzn.to/4nonZY9)
 
 2000年代から環境音・ホワイトノイズを導入。
 
@@ -150,7 +150,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：Ryoji Ikeda、Oval。
 
-✦ Alexander McQueen
+✦ [Alexander McQueen](https://amzn.to/46wxWLO)
 
 美と死、秩序と崩壊をテーマに、クラシック＋ノイズを多用。
 
@@ -158,7 +158,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：Aphex Twin（ノイズ／アンビエント側面）、Chris Watson。
 
-✦ Louis Vuitton
+✦ [Louis Vuitton](https://amzn.to/3KgB7jB)
 
 ニコラ・ジェスキエール期、ショーに実験音楽を導入。
 
@@ -166,7 +166,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：Oneohtrix Point Never、Ben Frost。
 
-✦ Dior
+✦ [Dior](https://amzn.to/4mBaLWU)
 
 キム・ジョーンズ期にドローン的音楽を起用。
 
@@ -174,7 +174,7 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 
 関係アーティスト：William Basinski、Tim Hecker。
 
-✦ Saint Laurent
+✦ [Saint Laurent](https://amzn.to/3KlN6we)
 
 インダストリアルロックやノイズ要素を強調。
 
@@ -192,13 +192,13 @@ GUCCI はキャンペーン映像にインダストリアルなノイズを混�
 | [**Yohji Yamamoto**](https://amzn.to/42cl0JT)    | 灰野敬二、即興演奏家                             | 静と轟音の対比         |
 | [**Balenciaga**](https://amzn.to/3KItfr1)        | Throbbing Gristle、Whitehouse、Puce Mary | 廃墟的空間と暴力的音響     |
 | [**Rick Owens**](https://amzn.to/3KGkWMm)        | Sunn O)))、Deathprod、NWW                | 儀式的没入体験         |
-| **Gucci**             | Fennesz、Alessandro Cortini             | 豪奢と異物感の衝突       |
-| **Vivienne Westwood** | Sex Pistols、初期インダストリアル勢                | 反体制と反美学の導入      |
-| **Prada**             | Ryoji Ikeda、Oval                       | 都市雑音をエレガンスに変換   |
-| **Alexander McQueen** | Aphex Twin、Chris Watson                | 美と死の崩壊的演出       |
-| **Louis Vuitton**     | Oneohtrix Point Never、Ben Frost        | 未来的・都市的な実験音     |
-| **Dior**              | William Basinski、Tim Hecker            | ドローンとラグジュアリーの融合 |
-| **Saint Laurent**     | Swans、Shellac                          | 黒革と轟音の親和性       |
+| [**Gucci**](https://amzn.to/4gIXl9X)              | Fennesz、Alessandro Cortini             | 豪奢と異物感の衝突       |
+| [**Vivienne Westwood**](https://amzn.to/46DRqyf) | Sex Pistols、初期インダストリアル勢                | 反体制と反美学の導入      |
+| [**Prada**](https://amzn.to/4nonZY9)             | Ryoji Ikeda、Oval                       | 都市雑音をエレガンスに変換   |
+| [**Alexander McQueen**](https://amzn.to/46wxWLO) | Aphex Twin、Chris Watson                | 美と死の崩壊的演出       |
+| [**Louis Vuitton**](https://amzn.to/3KgB7jB)     | Oneohtrix Point Never、Ben Frost        | 未来的・都市的な実験音     |
+| [**Dior**](https://amzn.to/4mBaLWU)              | William Basinski、Tim Hecker            | ドローンとラグジュアリーの融合 |
+| [**Saint Laurent**](https://amzn.to/3KlN6we)     | Swans、Shellac                          | 黒革と轟音の親和性       |
 
 
 
@@ -234,7 +234,7 @@ Sunn O)))…ドローンの儀式性がRick Owensの世界観にフィット。
 | **COMME des GARÇONS** | *FW2025/26*                                                    | [YouTube](https://www.youtube.com/watch?v=2m9G1duJjxQ) ([YouTube][4])                          | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       |                                                                       |                              |
 | **Prada**             | *Prada Fall Winter 2025/26*                                    | [YouTube](https://www.youtube.com/watch?v=d3dTdbNBOWI) ([YouTube][5])                          | ミラノ・ファッションウィークでの演出、照明と音響の同期性を観察可能  |                                                                       |                              |
 | **その他（ファッションミックス映像）** | *Experience the Glamour – ブランドミックスのファッションショー映像（PRADA／GUCCI 等）* | [YouTube](https://www.youtube.com/watch?v=hrIOOlCo0ag) ([YouTube][6])                          | 複数ブランドを横断する演出比較、音楽選曲の傾向を俯瞰するのに有用   |                                                                       |                              |
-| **GUCCI**             | *Glamorous Catwalk Music & Elegant Fashion Show*               | [YouTube](https://www.youtube.com/watch?v=nGoR6-mEkGQ) ([YouTube][7])                          | GUCCI ブランドの“音楽感”を確認する参考映像として使える    |                                                                       |                              |
+| [**GUCCI**](https://amzn.to/4gIXl9X)              | *Glamorous Catwalk Music & Elegant Fashion Show*               | [YouTube](https://www.youtube.com/watch?v=nGoR6-mEkGQ) ([YouTube][7])                          | GUCCI ブランドの“音楽感”を確認する参考映像として使える    |                                                                       |                              |
 | **GUCCI**             | *Glamorous Catwalk Music & Elegant Fashion Show (別映像)*         | [YouTube](https://www.youtube.com/watch?v=p8RQ-6P5OrA) ([YouTube][8])                          | 同テーマで別編集、音楽・時間構成を見る比較素材になる         |                                                                       |                              |
 
 [1]: https://www.youtube.com/watch?v=YW0q4spnnj8&utm_source=chatgpt.com "COMME des GARÇONS Fall/Winter 2025 Show"
@@ -276,7 +276,7 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 | ショー / 素材                        |                                       起用・使用された音楽／アーティスト | 補足（注目点）                                                                                                                                   | 参照              |
 | ------------------------------- | ------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Gucci（Sabato De Sarno デビューショー等） |                       **[Mark Ronson](https://amzn.to/46nSdEG)（ショー音楽プロデュース／ミックス）** | Mark Ronson がGucciのショー音楽をプロデュース。クラシック〜現代ポップ／リミックスを混ぜ、ショーの物語性を作り上げた事例（記事で詳細インタビューあり）。 ([Vogue][1])                                         | ([Vogue][1])    |
+| [Gucci](https://amzn.to/4gIXl9X) （Sabato De Sarno デビューショー等） |                       **[Mark Ronson](https://amzn.to/46nSdEG)（ショー音楽プロデュース／ミックス）** | Mark Ronson がGucciのショー音楽をプロデュース。クラシック〜現代ポップ／リミックスを混ぜ、ショーの物語性を作り上げた事例（記事で詳細インタビューあり）。 ([Vogue][1])                                         | ([Vogue][1])    |
 | Gucci キャンペーン／スペシャル映像（地域限定の音素材）  | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2)（例：一部プロジェクトでの楽曲提供）** | [Cortini](https://amzn.to/3WaGPWF)（Nine Inch Nails 関連）や同世代のエレクトロニック系がブランド映像に起用される事例が報じられている（中国向け企画などでの楽曲提供例あり）。※ブランドの全ショーがノイズ寄り、というわけではなく“演出の局所的選択”。 ([Facebook][2]) | ([Facebook][2]) |
 
 [1]: https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com "Mark Ronson on Crafting the Emotionally-Charged Soundtrack for Sabato De Sarno's Gucci Debut"
