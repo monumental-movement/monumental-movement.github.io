@@ -94,6 +94,7 @@ color: #fff;
 ### 各ブランドのノイズへのアプローチ
 
 主要ブランドとノイズの深掘り事例
+
 ✦ [COMME des GARÇONS](https://amzn.to/42fzNDE)
 
 川久保玲が追求する「美の解体」とノイズの親和性。
@@ -208,43 +209,32 @@ color: #fff;
 
 ノイズ／実験音楽の側からも、ハイブランドとの接点は重要だった。
 
-Merzbow（日本のノイズ巨匠）…環境問題や反消費をテーマにしつつ、逆説的にラグジュアリーに取り込まれる。
+[Merzbow](https://amzn.to/4mG80nl)（日本のノイズ巨匠）…環境問題や反消費をテーマにしつつ、逆説的にラグジュアリーに取り込まれる。
 
-灰野敬二…衣服同様「形式を解体する」即興演奏がデザイナーに響く。
+[灰野敬二](https://amzn.to/4ntvDR6)…衣服同様「形式を解体する」即興演奏がデザイナーに響く。
 
-Throbbing Gristle…インダストリアルの祖として、BalenciagaやRick Owensの美学に直結。
+[Throbbing Gristle](https://amzn.to/46nkrzq)…インダストリアルの祖として、BalenciagaやRick Owensの美学に直結。
 
-Ryoji Ikeda…データ音楽とミニマルがPradaのモダン性と共鳴。
+[Ryoji Ikeda](https://amzn.to/4nqNCYt)…データ音楽とミニマルがPradaのモダン性と共鳴。
 
-Fennesz、Tim Hecker…美と崩壊の狭間にあるサウンドが、DiorやGucciに選ばれる。
+[Fennesz](https://amzn.to/4mvo7DT)、[Tim Hecker](https://amzn.to/46EZO0j)…美と崩壊の狭間にあるサウンドが、DiorやGucciに選ばれる。
 
-Sunn O)))…ドローンの儀式性がRick Owensの世界観にフィット。
+[Sunn O)))](https://amzn.to/4mE03yK)…ドローンの儀式性がRick Owensの世界観にフィット。
 
 ---
 
 
 ### ブランド別ショー映像リンクと注目ポイント
-
-
-| ブランド                  | 映像リンク                                                          | 注目すべき演出・音響ポイント                                                                                 |                                    |                                                                       |                              |
-| --------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------- | ---------------------------- |
-| **COMME des GARÇONS** | *COMME des GARÇONS FW25 “Small Is Stronger”*                   | [YouTube — COMME des GARÇONS FW25](https://www.youtube.com/watch?v=YW0q4spnnj8) ([YouTube][1]) | ショー全体の空気感、暗めの照明と音楽の重なりを読み解くのに適している |                                                                       |                              |
-| **COMME des GARÇONS** | \*Comme des Garçons                                            | Spring Summer 2024                                                                             | Full Show\*                        | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) ([YouTube][2]) | レイ・カワクボ期の実験性が現れるサウンド選定や展開に注目 |
-| **COMME des GARÇONS** | *Men’s SS2026*                                                 | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) ([YouTube][3])                          | 男性ラインでの音響空間、衣服との音的な対話を見る手がかりになる    |                                                                       |                              |
-| **COMME des GARÇONS** | *FW2025/26*                                                    | [YouTube](https://www.youtube.com/watch?v=2m9G1duJjxQ) ([YouTube][4])                          | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       |                                                                       |                              |
-| **Prada**             | *Prada Fall Winter 2025/26*                                    | [YouTube](https://www.youtube.com/watch?v=d3dTdbNBOWI) ([YouTube][5])                          | ミラノ・ファッションウィークでの演出、照明と音響の同期性を観察可能  |                                                                       |                              |
-| **その他（ファッションミックス映像）** | *Experience the Glamour – ブランドミックスのファッションショー映像（PRADA／GUCCI 等）* | [YouTube](https://www.youtube.com/watch?v=hrIOOlCo0ag) ([YouTube][6])                          | 複数ブランドを横断する演出比較、音楽選曲の傾向を俯瞰するのに有用   |                                                                       |                              |
-| [**GUCCI**](https://amzn.to/4gIXl9X)              | *Glamorous Catwalk Music & Elegant Fashion Show*               | [YouTube](https://www.youtube.com/watch?v=nGoR6-mEkGQ) ([YouTube][7])                          | GUCCI ブランドの“音楽感”を確認する参考映像として使える    |                                                                       |                              |
-| **GUCCI**             | *Glamorous Catwalk Music & Elegant Fashion Show (別映像)*         | [YouTube](https://www.youtube.com/watch?v=p8RQ-6P5OrA) ([YouTube][8])                          | 同テーマで別編集、音楽・時間構成を見る比較素材になる         |                                                                       |                              |
-
-[1]: https://www.youtube.com/watch?v=YW0q4spnnj8&utm_source=chatgpt.com "COMME des GARÇONS Fall/Winter 2025 Show"
-[2]: https://www.youtube.com/watch?v=QBmd_Z90GbY&utm_source=chatgpt.com "Comme Des Garçons | Spring Summer 2024 | Full Show"
-[3]: https://www.youtube.com/watch?v=14r7GrH1HPM&utm_source=chatgpt.com "Comme des Garçons Menswear | Spring/Summer 2026 | Paris ..."
-[4]: https://www.youtube.com/watch?v=2m9G1duJjxQ&utm_source=chatgpt.com "Comme des Garcons | Fall/Winter 2025/26 | Paris Fashion ..."
-[5]: https://www.youtube.com/watch?v=d3dTdbNBOWI&utm_source=chatgpt.com "Prada | Fall Winter 2025/26 | Milan Fashion Week"
-[6]: https://www.youtube.com/watch?v=hrIOOlCo0ag&utm_source=chatgpt.com "Experience the Glamour - Fashion Show & Model Walk with ..."
-[7]: https://www.youtube.com/watch?v=nGoR6-mEkGQ&utm_source=chatgpt.com "Fashion Vibes Unlocked - High Fashion Show, Golden Hues ..."
-[8]: https://www.youtube.com/watch?v=p8RQ-6P5OrA&utm_source=chatgpt.com "Glamorous Catwalk Music & Elegant Fashion Show | Model ..."
+| ブランド                  | 映像タイトル                                              | 演出・音響ポイント                          | YouTubeリンク                                             |
+| --------------------- | --------------------------------------------------- | ---------------------------------- | ------------------------------------------------------ |
+| **COMME des GARÇONS** | COMME des GARÇONS FW25 “Small Is Stronger”          | ショー全体の空気感、暗めの照明と音楽の重なりを読み解くのに適している | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
+| **COMME des GARÇONS** | Spring Summer 2024                                  | レイ・カワクボ期の実験性が現れるサウンド選定や展開に注目       | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
+| **COMME des GARÇONS** | Men’s SS2026                                        | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       | [YouTube](https://www.youtube.com/watch?v=14r7GrH1HPM) |
+| **COMME des GARÇONS** | FW2025/26                                           | 最新コレクションでの演出・空間音響化の傾向を把握しやすい       | [YouTube](https://www.youtube.com/watch?v=2m9G1duJjxQ) |
+| **Prada**             | Fall Winter 2025/26                                 | ミラノ・ファッションウィークでの演出、照明と音響の同期性を観察可能  | [YouTube](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
+| **その他（ブランドミックス）**     | Experience the Glamour – PRADA／GUCCI等               | 複数ブランドを横断する演出比較、音楽選曲の傾向を俯瞰するのに有用   | [YouTube](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
+| **GUCCI**             | Glamorous Catwalk Music & Elegant Fashion Show      | GUCCI ブランドの“音楽感”を確認する参考映像          | [YouTube](https://www.youtube.com/watch?v=nGoR6-mEkGQ) |
+| **GUCCI**             | Glamorous Catwalk Music & Elegant Fashion Show（別映像） | 同テーマで別編集、音楽・時間構成を見る比較素材になる         | [YouTube](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
 
 ---
 
@@ -263,6 +253,7 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 [2]: https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com "Florian Hecker & Comme des Garçons"
 [3]: https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com "Comme des Garcons SS14 Soundtrack"
 
+---
 
 #### COMME des GARÇONS — FW25: "Smaller Is Stronger"（映像）  
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YW0q4spnnj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -281,6 +272,8 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 [1]: https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com "Mark Ronson on Crafting the Emotionally-Charged Soundtrack for Sabato De Sarno's Gucci Debut"
 [2]: https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com "“How We Met” by @gucci for Chinese Valentine’s Day Music ..."
+
+---
 
 #### GUCCI — Sabato De Sarno（サウンド：Mark Ronson）  
 <iframe width="800" height="450" src="https://www.youtube.com/embed/[該当映像ID]" frameborder="0" allowfullscreen></iframe>
@@ -302,6 +295,8 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 [1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada and Raf Simons's Musical Collaborator Plastikman Weighs In on Soundtracking Their First Shows"
 [2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "Meet Frédéric Sanchez, Prada's Music Man-And Hear His Fantastical Playlist for Vogue"
 
+---
+
 #### Prada — Plastikman（Richie Hawtin）によるショー音源（例）  
 
 **音源（ストリーミング）**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro"（Prada 2021 Runway Soundtracks） — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)   
@@ -313,16 +308,13 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior（各映像＋関係アーティスト）
 
-| ブランド                  | 代表映像（YouTube 等）                                                                                                                                                                                                                                                                                  | 起用・関係アーティスト（報道/クレジット）                                                                       | 出典                |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ----------------- |
-| [**Balenciaga**](https://amzn.to/3KItfr1)        | Balenciaga Winter 2019（YouTube）[https://www.youtube.com/watch?v=qprAGHIocu4](https://www.youtube.com/watch?v=qprAGHIocu4) ; Shows playlist [https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q\_zePw7E5OU6eLF3a](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | サウンドデザイン：**BFRND**（ショー専用スコア）／インダストリアル系サウンドの採用事例。                                            | ([SoundCloud][1]) |
-| [**Rick Owens**](https://amzn.to/3KGkWMm)        | Rick Owens SS26 “TEMPLE”（YouTube）[https://www.youtube.com/watch?v=lKkqCI64m9o](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）                                                                                                                                                         | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能（映像参照）。                                                    |                   |
-| **Alexander McQueen** | AW 2020 Campaign（YouTube）[https://www.youtube.com/watch?v=ncsjPl-CK4M](https://www.youtube.com/watch?v=ncsjPl-CK4M)                                                                                                                                                                              | Campaign 音楽に **Daniel Avery & Alessandro Cortini** 起用（キャンペーン曲 "At First Sight"）。            |                   |
-| **Louis Vuitton**     | 各種ショー & Afterparty 記録（例のアーカイブ） — Daft Punk / Virgil Abloh のDJ関係など（複数）                                                                                                                                                                                                                            | かつて **Daft Punk** が LV に楽曲編集提供、また **Dev Hynes (Blood Orange)** をスコア起用した事例あり（Virgil Abloh期）。 |                   |
-| **Dior**              | Dior（キャンペーン／ショー映像各種）                                                                                                                                                                                                                                                                             | Dior 等でも Frédéric Sanchez 等のサウンドデザイナーが関与する事例が多く、アンビエント／ドローン系の演出との接点あり（サウンド・ディレクター関連記事）。     |                   |
-
-[1]: https://soundcloud.com/vvvirgilabloh/lv51?in=qt4to6uamrot%2Fsets%2Fhouse-lofi&utm_source=chatgpt.com "Listen to Louis Vuitton 5.1 Afterparty - Virgil Abloh DJ Set"
-
+| ブランド                                      | 代表映像（YouTube 等）                                                                                                                                                                                 | 起用・関係アーティスト（報道/クレジット）                                                                      | 
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------- |
+| [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | サウンドデザイン：**BFRND**（ショー専用スコア）／インダストリアル系サウンドの採用事例                                            |
+| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）                                                                                                  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能                                                          |                   |
+| **Alexander McQueen**                     | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)                                                                                                                       | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）                      |                   |
+| **Louis Vuitton**                         | 各種ショー & Afterparty 記録（例のアーカイブ） — Daft Punk / Virgil Abloh のDJ関係など（複数）                                                                                                                           | かつて **Daft Punk** が LV に楽曲編集提供、また **Dev Hynes (Blood Orange)** をスコア起用した事例あり（Virgil Abloh期） |                   |
+| **Dior**                                  | Dior（キャンペーン／ショー映像各種）                                                                                                                                                                            | Frédéric Sanchez 等のサウンドデザイナーが関与する事例が多く、アンビエント／ドローン系の演出との接点あり                               |                   |
 
 ---
 
