@@ -246,13 +246,9 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 | ショー / 素材                              |                            起用・使用された音楽／アーティスト | 補足（注目点）                                                                                              | 参照                |
 | ------------------------------------- | -------------------------------------------: | ---------------------------------------------------------------------------------------------------- | ----------------- |
-| Comme des Garçons SS15（「赤」などのコレクション回） | **Sunn O)))、Earth（ドローン／ドローン・メタル）を含むドローン系音響** | Dazed の特集で「SS15のサウンドトラックにドローン系バンド（Sunn O))), Earth）が使われた」と報告。ショーの暗い美学と音が強く結びつく事例。 ([Dazed][1])       | ([Dazed][1])      |
-| Comme des Garçons（ファッションショー用に制作された音源） |  **Florian Hecker**（ファッション用に楽曲を制作／12"リリースあり） | Hecker が Comme des Garçons のために数曲制作し、限定盤が Editions Mego から出ている旨の報道あり。ショー専用の“現代音響”作品。 ([The Wire][2]) | ([The Wire][2])   |
-| SS14／アーカイヴ・プレイリスト等                    |                   ショー用プレイリスト（実験音〜環境音〜ノイズの混成） | Dazed のSoundCloud/プレイリスト等にショー用のサウンドコラージュがアップされている例。ショー音源の“検証”に便利。 ([SoundCloud][3])                  | ([SoundCloud][3]) |
-
-[1]: https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com "Listen to the haunting sounds of Comme des Garçons SS15"
-[2]: https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com "Florian Hecker & Comme des Garçons"
-[3]: https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com "Comme des Garcons SS14 Soundtrack"
+| Comme des Garçons SS15（「赤」などのコレクション回） | **Sunn O)))、Earth（ドローン／ドローン・メタル）を含むドローン系音響** | Dazed の特集で「SS15のサウンドトラックにドローン系バンド（Sunn O))), Earth）が使われた」と報告。ショーの暗い美学と音が強く結びつく事例。 ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com))       | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)      |
+| Comme des Garçons（ファッションショー用に制作された音源） |  **Florian Hecker**（ファッション用に楽曲を制作／12"リリースあり） | Hecker が Comme des Garçons のために数曲制作し、限定盤が Editions Mego から出ている旨の報道あり。ショー専用の“現代音響”作品。 ([The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)) | ([The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)   |
+| SS14／アーカイヴ・プレイリスト等                    |                   ショー用プレイリスト（実験音〜環境音〜ノイズの混成） | Dazed のSoundCloud/プレイリスト等にショー用のサウンドコラージュがアップされている例。ショー音源の“検証”に便利。 ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com))                  | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
 ---
 
@@ -268,11 +264,8 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 | ショー / 素材                        |                                       起用・使用された音楽／アーティスト | 補足（注目点）                                                                                                                                   | 参照              |
 | ------------------------------- | ------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [Gucci](https://amzn.to/4gIXl9X) （Sabato De Sarno デビューショー等） |                       **[Mark Ronson](https://amzn.to/46nSdEG)（ショー音楽プロデュース／ミックス）** | Mark Ronson がGucciのショー音楽をプロデュース。クラシック〜現代ポップ／リミックスを混ぜ、ショーの物語性を作り上げた事例（記事で詳細インタビューあり）。 ([Vogue][1])                                         | ([Vogue][1])    |
-| Gucci キャンペーン／スペシャル映像（地域限定の音素材）  | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2)（例：一部プロジェクトでの楽曲提供）** | [Cortini](https://amzn.to/3WaGPWF)（Nine Inch Nails 関連）や同世代のエレクトロニック系がブランド映像に起用される事例が報じられている（中国向け企画などでの楽曲提供例あり）。※ブランドの全ショーがノイズ寄り、というわけではなく“演出の局所的選択”。 ([Facebook][2]) | ([Facebook][2]) |
-
-[1]: https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com "Mark Ronson on Crafting the Emotionally-Charged Soundtrack for Sabato De Sarno's Gucci Debut"
-[2]: https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com "“How We Met” by @gucci for Chinese Valentine’s Day Music ..."
+| [Gucci](https://amzn.to/4gIXl9X) （Sabato De Sarno デビューショー等） |                       **[Mark Ronson](https://amzn.to/46nSdEG)（ショー音楽プロデュース／ミックス）** | Mark Ronson がGucciのショー音楽をプロデュース。クラシック〜現代ポップ／リミックスを混ぜ、ショーの物語性を作り上げた事例（記事で詳細インタビューあり）。 ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com))                                         | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)    |
+| Gucci キャンペーン／スペシャル映像（地域限定の音素材）  | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2)（例：一部プロジェクトでの楽曲提供）** | [Cortini](https://amzn.to/3WaGPWF)（Nine Inch Nails 関連）や同世代のエレクトロニック系がブランド映像に起用される事例が報じられている（中国向け企画などでの楽曲提供例あり）。※ブランドの全ショーがノイズ寄り、というわけではなく“演出の局所的選択”。 ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 
 ---
 
