@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "庄野真代 – ルフラン M・A・Y・O – Refrain "
+title:  "庄野真代 – ルフラン M・A・Y・O – Refrain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Kayōkyoku, Disco, City Pop, 70s ]
