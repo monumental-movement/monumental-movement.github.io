@@ -85,9 +85,9 @@ flowchart LR
 
 ## 関連リンク
 
-* 🎸 [Amazonでハードロック名盤を探す](https://amzn.to/4gzcD0N)
-* 🎶 [Spotifyでハードロックプレイリストを聴く](https://open.spotify.com/)
-* 📺 [YouTubeでレッド・ツェッペリンのライブ映像を見る](https://www.youtube.com/results?search_query=led+zeppelin+live)
+*  [Amazonでハードロック名盤を探す](https://amzn.to/4gzcD0N)
+*  [Spotifyでハードロックプレイリストを聴く](https://open.spotify.com/)
+*  [YouTubeでレッド・ツェッペリンのライブ映像を見る](https://www.youtube.com/results?search_query=led+zeppelin+live)
 
 
 ---
@@ -104,7 +104,7 @@ flowchart LR
 
 ---
 
-## FAQ（よくある質問）
+## FAQ
 
 **Q1: ハードロックとヘヴィメタルの違いは？**
 A1: ハードロックはブルースロックの延長線上にあり、グルーヴ感やロックンロール要素を強く残しています。一方、ヘヴィメタルはより攻撃的で、リフやスピード感を重視する傾向があります。
