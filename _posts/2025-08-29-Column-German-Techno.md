@@ -157,3 +157,14 @@ BPMは速め、インダストリアル寄りの無機質な響き
 
 結論として、German Techno は過去の文化的産物であると同時に、未来のサウンドデザインを切り拓く実験場でもある。
 その歴史を辿りながら作品を聴くことは、都市と人間、機械と感情が交錯する音楽のダイナミズムを理解することに他なりません。
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+

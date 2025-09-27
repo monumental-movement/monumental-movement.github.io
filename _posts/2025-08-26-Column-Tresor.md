@@ -35,9 +35,9 @@ Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベル�
 
 Tresorは特にデトロイト・テクノのヨーロッパ進出の足場として機能した。
 
-Juan Atkins, Derrick May, Kevin Saundersonら「Belleville Three」と呼ばれるデトロイトの創始者たち。
+[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
-Jeff Mills, Blake Baxter, Underground Resistanceなどがベルリンで活動し、Tresorでプレイ。
+[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
 これにより、アメリカで生まれた未来的かつ政治性を帯びたテクノが、ヨーロッパのクラブ文化と結びつき、「グローバルなテクノ・ネットワーク」の基盤を築いた。
 
 <hr>
@@ -46,11 +46,12 @@ Jeff Mills, Blake Baxter, Underground Resistanceなどがベルリンで活動�
 
 クラブに併設する形で1991年に設立されたTresor Recordsは、テクノの重要レーベルとして機能。
 
-Jeff Mills – Waveform Transmissionシリーズ
+[Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
-Robert Hood – Internal Empire
+[Robert Hood – Internal Empire](https://amzn.to/42hCSmK)
 
-Drexciya – Neptune’s Lair
+[Drexciya – Neptune’s Lair](https://amzn.to/4nAnhqI)
+
 など、デトロイト勢とベルリンの融合を象徴する作品を数多くリリース。
 特にミニマルかつ硬質なサウンドは、90年代の「ヨーロッパ・テクノの骨格」を形成した。
 
@@ -59,12 +60,15 @@ Drexciya – Neptune’s Lair
 ### Tresorの象徴性と文化的影響
 
 **産業廃墟と音楽の融合**
+
 Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラブシーン全体に受け継がれる美学の原点となった。
 
 **24時間クラブカルチャー**
+
 規制が緩かったベルリンでは、朝も昼も夜も踊り続けられる空間が誕生。そのスタイルは今も世界的に羨望の対象。
 
 **テクノ＝都市アイデンティティ**
+
 ベルリン市が公式に「クラブカルチャーを都市ブランド」と認識する背景にはTresorの影響がある。
 
 <hr>
@@ -81,9 +85,10 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 ### Tresorと他クラブとの比較
 
-Berghain：同じく廃墟文化を継承、2000年代以降のアイコン。
+**Berghain**：同じく廃墟文化を継承、2000年代以降のアイコン。
 
-E-Werk, WMF：90年代に並び称されたが、長期的にはTresorが最も持続的な影響力を保った。
+**E-Werk, WMF**：90年代に並び称されたが、長期的にはTresorが最も持続的な影響力を保った。
+
 → Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
 
 <hr>
@@ -104,25 +109,25 @@ E-Werk, WMF：90年代に並び称されたが、長期的にはTresorが最も�
 
 ### Tresorを体感するための必聴盤（おすすめ10選）
 
-Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)
+[Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
-Robert Hood – Internal Empire (1994, Tresor)
+[Robert Hood – Internal Empire (1994, Tresor)](https://amzn.to/4pF5ArL)
 
-Underground Resistance – X-102: Discovers the Rings of Saturn (1992, Tresor)
+[Underground Resistance – X-102: Discovers the Rings of Saturn (1992, Tresor)](https://a.r10.to/hPv0yA)
 
-Blake Baxter – Dream Sequence (1994, Tresor)
+[Blake Baxter – Dream Sequence (1994, Tresor)](https://amzn.to/4mBJgfG)
 
-Juan Atkins – Skynet (1998, Tresor)
+[Juan Atkins – Skynet (1998, Tresor)](https://amzn.to/4mCc5bQ)
 
-Drexciya – Neptune’s Lair (1999, Tresor)
+[Drexciya – Neptune’s Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
 
-Surgeon – Tresor.27: Force + Form (1999)
+[Surgeon – Tresor.117: Force + Form (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
-Joey Beltram – Tresor.109: Close Grind (2001)
+Joey Beltram – Close Grind (2001)
 
-Pacou – Symbolic Language (1998, Tresor)
+[Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
-Tresor Compilationシリーズ（特にVol.1～Vol.3）
+[Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
 <hr>
 
@@ -130,4 +135,14 @@ Tresor Compilationシリーズ（特にVol.1～Vol.3）
 
 Tresorは単なるクラブやレーベルではなく、ベルリンの歴史・冷戦後の都市空間・デトロイトの黒人音楽の未来像を結びつけた「文化的交差点」である。
 その金庫室から解き放たれた音は、今なお世界中のクラブカルチャーに鳴り響き、テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華させたのだ。
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 

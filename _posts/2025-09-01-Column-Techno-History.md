@@ -162,3 +162,15 @@ image: ../assets/images/column-techno-history.webp
 ### まとめ
 テクノの核は「反復」と「音響設計」。  
 x0x直系のリズム、サンプラーの音像設計、PC時代の編集美学、モジュラーの偶発性、AI補助まで――時代が変わっても**機械と都市のリズム**は進化し続けています。  
+
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
+

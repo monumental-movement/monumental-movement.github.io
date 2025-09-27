@@ -123,3 +123,14 @@ Metroplex（Juan Atkins）やTransmat（Derrick May、※Transmat設立時期は
 ### デトロイトから世界へ ― 永遠に鳴り響く電子機器の詩
 
 デトロイト・テクノは単なるダンス音楽ではなく、都市の歴史、テクノロジー、ブラック・アメリカンの創造性が合わさった文化的産物です。機械的なリズムの反復は、むしろ人間の感情や共同体を呼び起こす――それがデトロイト流の“温度のある機械音”です。過去の名曲群を聴き、現場（のDJセットやフェス）でその精神を体感することで、この音楽の深さがより実感できるでしょう。
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
+
