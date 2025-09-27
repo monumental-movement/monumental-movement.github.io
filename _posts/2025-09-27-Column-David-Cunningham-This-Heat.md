@@ -46,10 +46,10 @@ color: #fff;
 
 |   年代 | アルバム                          | アーティスト             | 説明                   | リンク                                                                      |
 | ---: | ------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------------ |
-| 1976 | *Grey Scale*                                | David Cunningham   | 初ソロ。システム的な作曲手法の実験作。  | [Amazon検索](https://www.amazon.co.jp/s?k=David+Cunningham+Grey+Scale)           |
-| 1979 | *The Flying Lizards*                        | The Flying Lizards | 「Money」収録。実験ポップの金字塔。 | [Amazon検索](https://www.amazon.co.jp/s?k=The+Flying+Lizards+The+Flying+Lizards) |
-| 1981 | *Fourth Wall*                               | The Flying Lizards | 実験性が深化。音響的処理とユーモア。   | [Amazon検索](https://www.amazon.co.jp/s?k=The+Flying+Lizards+Fourth+Wall)        |
-| 1995 | *The Secret Dub Life of the Flying Lizards* | Flying Lizards     | 後年の編集盤。ダブ的処理の再評価作。   | [Amazon検索](https://www.amazon.co.jp/s?k=Secret+Dub+Life+Flying+Lizards)        |
+| 1976 | *Grey Scale*                                | David Cunningham   | 初ソロ。システム的な作曲手法の実験作。  | [Amazon検索](https://amzn.to/4pGO4TS)           |
+| 1979 | *The Flying Lizards*                        | The Flying Lizards | 「Money」収録。実験ポップの金字塔。 | [Amazon検索](https://amzn.to/46HITuf) |
+| 1981 | *Fourth Wall*                               | The Flying Lizards | 実験性が深化。音響的処理とユーモア。   | [Amazon検索](https://amzn.to/474jonh)        |
+| 1995 | *The Secret Dub Life of the Flying Lizards* | Flying Lizards     | 後年の編集盤。ダブ的処理の再評価作。   | [Amazon検索](https://amzn.to/4gPuJfo)        |
 
 
 
@@ -147,10 +147,10 @@ CunninghamとThis Heatは単なる音響実験ではなく、**録音を通じ�
 
 | 年代 | アルバム | アーティスト | Amazonリンク |
 |---:|---|---|---|
-| 1979 | *This Heat* | This Heat | [Amazon検索](https://www.amazon.co.jp/s?k=This+Heat+This+Heat) |
-| 1980 | *Health and Efficiency* | This Heat | [Amazon検索](https://www.amazon.co.jp/s?k=This+Heat+Health+and+Efficiency) |
-| 1981 | *Deceit* | This Heat | [Amazon検索](https://www.amazon.co.jp/s?k=This+Heat+Deceit) |
-| 1983 | *Made Available* | This Heat | [Amazon検索](https://www.amazon.co.jp/s?k=This+Heat+Made+Available) |
+| 1979 | *This Heat* | This Heat | [Amazon検索](https://amzn.to/3W8QiOf) |
+| 1980 | *Health and Efficiency* | This Heat | [Amazon検索](https://amzn.to/3IM1vBj) |
+| 1981 | *Deceit* | This Heat | [Amazon検索](https://amzn.to/4mEnkAC) |
+| 1983 | *Made Available* | This Heat | [Amazon検索](https://amzn.to/489zfmF) |
 
 ---
 
@@ -182,5 +182,7 @@ flowchart TD
 
 ### 関連コラム
 
+🔗 [【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究](https://monumental-movement.jp/Column-David-Toop)
 
 🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
+
