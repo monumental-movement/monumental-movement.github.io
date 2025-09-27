@@ -277,7 +277,7 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 ---
 
 #### GUCCI — Sabato De Sarno（サウンド：Mark Ronson）  
-<iframe width="800" height="450" src="https://www.youtube.com/embed/[該当映像ID]" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/RThDNP1UewY" frameborder="0" allowfullscreen></iframe>
 
 **注目ポイント**  
 - Mark Ronson による“物語化された”サウンドデザイン。伝統曲のリミックスと現代声の使い分けで“時間軸”を作っている。参照：Vogueインタビュー（Mark Ronson × Gucci）。 
