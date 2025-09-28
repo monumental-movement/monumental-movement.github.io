@@ -33,26 +33,77 @@ color: #fff;
 1986年、Larry Harvey と Jerry James がサンフランシスコのベーカー・ビーチで木の人形（The Man）を焚くことから始まったのがBurning Manの起源だ。そこから参加者が増え、1990年に初めてブラックロック砂漠へ移転して以降、イベントは砂漠での一時都市づくりへと変容していった。
 Burning Man
 
+---
+
 
 ### 2004年の「10の原則」とその影響
 
 組織的な発展の中で、2004年にLarry Harvey が提唱した「10の原則（Radical Inclusion、Gifting、Decommodification 等）」がコミュニティの価値観を整理し、イベントの文化的枠組みを与えた。これがBurning Man の「理念的核」として世界中のリージョナル・バーンに波及している。
-ウィキペディア
+
+---
+
 
 ### ベイエリア／テックとの関係性
 
 Burning Man とシリコンバレーの関係は長い。90年代後半には、Google の創業者らが参加した逸話や、ベイエリアのクリエイティブ産業がBurning Man を文化的インフラとして利用してきたことが研究でも指摘されている。スタンフォード等の研究は、Burning Man が“新しいメディア産業”の文化的土壌になったと論じる。
-SFGATE
-+1
+
+---
+
 
 ### 著名人・セレブの参加と論争
 
 Burning Man は長年にわたり著名人を引き寄せてきた — 起業家やアーティスト、時には政治家までもが顔を見せる（Mark Zuckerberg、Elon Musk、Jeff Bezos といった名前がメディアで言及されることがある）。これにより「脱商品化（decommodification）」という原則と、富や影響力を持つ参加者の実際の振る舞いの間で摩擦が生まれることもある。
 
+---
+
 
 ### 年ごとのテーマ（概要）
 
 1996年以降、イベントは毎年「アートテーマ」を掲げる（例：2000年『The Body』など）。テーマはアーティストやキャンプの表現に方向性を与え、公共空間での対話を引き出すトリガーとなる。公式アーカイブには年別テーマや設置アートの記録が残されている。
+
+---
+
+
+### 年別テーマ一覧
+
+以下、1995年以降を中心に、近年までのテーマと代表的なアート構成例を年順で記載します。
+
+<div class="mermaid">
+flowchart TD
+    A1995["1995 : Inferno"] --> A1996["1996 : Decommodification"]
+    A1996 --> A1997["1997 : Fertility"]
+    A1997 --> A1998["1998 : Nebulous Entity"]
+    A1998 --> A1999["1999 : The Wheel of Time"]
+    A1999 --> A2000["2000 : The Body"]
+    A2000 --> A2001["2001 : Seven Ages"]
+    A2001 --> A2002["2002 : The Floating World"]
+    A2002 --> A2003["2003 : Beyond Belief"]
+    A2003 --> A2004["2004 : The Vault of Heaven"]
+    A2004 --> A2005["2005 : Psyche"]
+    A2005 --> A2006["2006 : Hope & Fear"]
+    A2006 --> A2007["2007 : The Green Man"]
+    A2007 --> A2008["2008 : American Dream"]
+    A2008 --> A2009["2009 : Evolution – A Tangled Bank"]
+    A2009 --> A2010["2010 : Metropolis – The Life of Cities"]
+    A2010 --> A2011["2011 : Rites of Passage"]
+    A2011 --> A2012["2012 : Fertility 2.0"]
+    A2012 --> A2013["2013 : Cargo Cult"]
+    A2013 --> A2014["2014 : Caravansary"]
+    A2014 --> A2015["2015 : Carnival of Mirrors"]
+    A2015 --> A2016["2016 : Da Vinci’s Workshop"]
+    A2016 --> A2017["2017 : Radical Ritual"]
+    A2017 --> A2018["2018 : I, Robot"]
+    A2018 --> A2019["2019 : Metamorphoses"]
+    A2019 --> A2020["2020 : The Multiverse (イベント中止年)"]
+    A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
+    A2021 --> A2022["2022 : Waking Dreams"]
+    A2022 --> A2023["2023 : Animalia"]
+    A2023 --> A2024["2024 : The Great Unknown"]
+    A2024 --> A2025["2025 : Tomorrow Today"]
+
+</div>
+
+---
 
 ### 逸話・伝説
 
@@ -62,6 +113,8 @@ Burning Man
 「Google Doodle」のルーツにBurning Man での創業者の休暇告知が関係しているという面白い話（企業文化と祭りの交差）。
 
 2000年代以降、巨大な「アート自動車（mutant vehicles）」や火を使った彫刻が注目を浴び、世界中のメディアで紹介されるようになる。
+
+---
 
 
 ### 関連マガジン／音楽メディア（年代別）
@@ -73,52 +126,16 @@ Burning Man
 |    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
 |    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
 
+---
+
 
 ### 現代的な意味と課題
 
 Burning Man は創造性のハブとしての側面を保ちつつ、商業化や安全・環境問題、そして「誰のためのバーンか？」という問いに直面している。コミュニティは持続可能性の取り組み（Leave No Trace やアート・グラント）を強化し、リージョナル・ネットワークでの知識共有を進めている。
 
-
-### 年別テーマ一覧と代表アート例（抜粋／要選択）
-
-以下、1995年以降を中心に、近年までのテーマと代表的なアート構成例を年順で記載します。
-
-<div class="mermaid">
-timeline
-    1995 : Inferno
-    1996 : Decommodification
-    1997 : Fertility
-    1998 : Nebulous Entity
-    1999 : The Wheel of Time
-    2000 : The Body
-    2001 : Seven Ages
-    2002 : The Floating World
-    2003 : Beyond Belief
-    2004 : The Vault of Heaven
-    2005 : Psyche
-    2006 : Hope & Fear
-    2007 : The Green Man
-    2008 : American Dream
-    2009 : Evolution – A Tangled Bank
-    2010 : Metropolis – The Life of Cities
-    2011 : Rites of Passage
-    2012 : Fertility 2.0
-    2013 : Cargo Cult
-    2014 : Caravansary
-    2015 : Carnival of Mirrors
-    2016 : Da Vinci’s Workshop
-    2017 : Radical Ritual
-    2018 : I, Robot
-    2019 : Metamorphoses
-    2020 : The Multiverse (イベント中止年)
-    2021 : Reflective (virtual/hybrid)
-    2022 : Waking Dreams
-    2023 : Animalia
-    2024 : The Great Unknown
-    2025 : Tomorrow Today
-</div>
-
 ---
+
+
 
 ### 1995年：Inferno
 
