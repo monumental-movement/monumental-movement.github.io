@@ -46,7 +46,7 @@ color: #fff;
 
 |   年代 | アルバム                          | アーティスト             | 説明                   | リンク                                                                      |
 | ---: | ------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------------ |
-| 1976 | *Grey Scale*                                | David Cunningham   | 初ソロ。システム的な作曲手法の実験作。  | [Amazon検索](https://amzn.to/4pGO4TS)           |
+| 1976 | *Grey Scale*                                | David Cunningham   | 初ソロ。システム的な作曲手法の実験作。  | [Amazon検索](https://amzn.to/4nLNfqY)           |
 | 1979 | *The Flying Lizards*                        | The Flying Lizards | 「Money」収録。実験ポップの金字塔。 | [Amazon検索](https://amzn.to/4noPd0N) |
 | 1981 | *Fourth Wall*                               | The Flying Lizards | 実験性が深化。音響的処理とユーモア。   | [Amazon検索](https://amzn.to/474jonh)        |
 | 1995 | *The Secret Dub Life of the Flying Lizards* | Flying Lizards     | 後年の編集盤。ダブ的処理の再評価作。   | [Amazon検索](https://amzn.to/4gPuJfo)        |
