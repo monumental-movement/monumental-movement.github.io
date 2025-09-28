@@ -226,7 +226,7 @@ color: #fff;
 
 ### ブランド別ショー映像リンクと注目ポイント
 
-| ブランド                  | 映像タイトル                                              | 演出・音響ポイント                          | YouTubeリンク                                             |
+| ブランド                  | 映像タイトル                                              | 演出・音響ポイント                          | リンク                                             |
 | --------------------- | -------------------------------------------------- | --------------------------------- | ----------------------------------------------------- |
 | **COMME des GARÇONS** | COMME des GARÇONS FW25 “Small Is Stronger”          | ショー全体の空気感、暗めの照明と音楽の重なりを読み解くのに適している | [YouTube](https://www.youtube.com/watch?v=YW0q4spnnj8) |
 | **COMME des GARÇONS** | Spring Summer 2024                                  | レイ・カワクボ期の実験性が現れるサウンド選定や展開に注目       | [YouTube](https://www.youtube.com/watch?v=QBmd_Z90GbY) |
@@ -240,14 +240,16 @@ color: #fff;
 ---
 
 
-### COMME des GARÇONS / Gucci / Prada 「ショー／キャンペーンで実際に使われた（あるいは明確に関係が報じられた）ノイズ／実験系アーティスト／音響関係」の資料アーカイブ
+### COMME des GARÇONS / Gucci / Prada 
+
+「ショー／キャンペーンで実際に使われた（あるいは明確に関係が報じられた）ノイズ／実験系アーティスト／音響関係」の資料アーカイブ
 
 COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取り込む伝統
 
-| ショー / 素材                              |                            起用・使用された音楽／アーティスト | 補足（注目点）                                                                                              | 参照                |
+| ショー / 素材                              |                            起用されたアーティスト | 補足（注目点）                                                                                              | 参照                |
 | ------------------------------------- | -------------------------------------------: | ---------------------------------------------------------------------------------------------------- | ----------------- |
 | Comme des Garçons SS15（「赤」などのコレクション回） | **Sunn O)))、Earth（ドローン／ドローン・メタル）を含むドローン系音響** | Dazed の特集で「SS15のサウンドトラックにドローン系バンド（Sunn O))), Earth）が使われた」と報告。ショーの暗い美学と音が強く結びつく事例。 ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com))       | [Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)      |
-| Comme des Garçons（ファッションショー用に制作された音源） |  **Florian Hecker**（ファッション用に楽曲を制作／12"リリースあり） | Hecker が Comme des Garçons のために数曲制作し、限定盤が Editions Mego から出ている旨の報道あり。ショー専用の“現代音響”作品。 ([The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)) | ([The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)   |
+| Comme des Garçons（ファッションショー用に制作された音源） |  **Florian Hecker**（ファッション用に楽曲を制作／12"リリースあり） | Hecker が Comme des Garçons のために数曲制作し、限定盤が Editions Mego から出ている旨の報道あり。ショー専用の“現代音響”作品。 ([The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)) | [The Wire](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)   |
 | SS14／アーカイヴ・プレイリスト等                    |                   ショー用プレイリスト（実験音〜環境音〜ノイズの混成） | Dazed のSoundCloud/プレイリスト等にショー用のサウンドコラージュがアップされている例。ショー音源の“検証”に便利。 ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com))                  | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
 ---
@@ -262,7 +264,7 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 ### Gucci — 大物プロデューサーと“混成”するサウンド演出（古典×現代）
 
-| ショー / 素材                        |                                       起用・使用された音楽／アーティスト | 補足（注目点）                                                                                                                                   | 参照              |
+| ショー / 素材                        |                                       起用されたアーティスト | 補足                                                                                                                                   | 参照              |
 | ------------------------------- | ------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [Gucci](https://amzn.to/4gIXl9X) （Sabato De Sarno デビューショー等） |                       **[Mark Ronson](https://amzn.to/46nSdEG)（ショー音楽プロデュース／ミックス）** | Mark Ronson がGucciのショー音楽をプロデュース。クラシック〜現代ポップ／リミックスを混ぜ、ショーの物語性を作り上げた事例（記事で詳細インタビューあり）。 ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com))                                         | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)    |
 | Gucci キャンペーン／スペシャル映像（地域限定の音素材）  | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2)（例：一部プロジェクトでの楽曲提供）** | [Cortini](https://amzn.to/3WaGPWF)（Nine Inch Nails 関連）や同世代のエレクトロニック系がブランド映像に起用される事例が報じられている（中国向け企画などでの楽曲提供例あり）。※ブランドの全ショーがノイズ寄り、というわけではなく“演出の局所的選択”。 ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
@@ -281,10 +283,10 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 ### Prada — 音響ディレクターとテクノ／ミニマルの接続点
 
 
-| ショー / 素材                              |             起用・使用された音楽／アーティスト | 補足（注目点）                                                                                                                | 参照           |
+| ショー / 素材                              |             起用されたアーティスト | 補足                                                                                                               | 参照           |
 | ------------------------------------- | ----------------------------: | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Prada（Raf Simons × Miuccia / Raf 期など） | [**Richie Hawtin（Plastikman）**](https://amzn.to/3VCMmVS) | Raf Simons 就任期にRichie Hawtin がショー音楽を手掛けた事例。ミニマル／テクノがPradaの空気感に重ねられた重要なケース。 ([Vogue][1])                                | ([Vogue][1]) |
-| Prada（サウンド・ディレクターの例）                  |   [**Frédéric Sanchez（音響演出家）**](https://amzn.to/42PkrG0) | Sanchez は長年にわたり Prada（および Dior、Comme des Garçons 等）と協働しており、ショーの“音像”を構築してきた。彼のインタビュー記事は、ブランドと音の密な協働を示す良資料。 ([Vogue][2]) | ([Vogue][2]) |
+| Prada（Raf Simons × Miuccia / Raf 期など） | [**Richie Hawtin（Plastikman）**](https://amzn.to/3VCMmVS) | Raf Simons 就任期にRichie Hawtin がショー音楽を手掛けた事例。ミニマル／テクノがPradaの空気感に重ねられた重要なケース。 ([Vogue][1])                                | [Vogue][1] |
+| Prada（サウンド・ディレクターの例）                  |   [**Frédéric Sanchez（音響演出家）**](https://amzn.to/42PkrG0) | Sanchez は長年にわたり Prada（および Dior、Comme des Garçons 等）と協働しており、ショーの“音像”を構築してきた。彼のインタビュー記事は、ブランドと音の密な協働を示す良資料。 ([Vogue][2]) | [Vogue][2] |
 
 [1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada and Raf Simons's Musical Collaborator Plastikman Weighs In on Soundtracking Their First Shows"
 [2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "Meet Frédéric Sanchez, Prada's Music Man-And Hear His Fantastical Playlist for Vogue"
@@ -302,7 +304,7 @@ COMME des GARÇONS — 実験音／ノイズを“ショー音楽”として取
 
 ### Balenciaga / Rick Owens / Alexander McQueen / Louis Vuitton / Dior（各映像＋関係アーティスト）
 
-| ブランド   | 代表映像（YouTube 等）     | 起用・関係アーティスト（報道/クレジット）  | 
+| ブランド   | 代表映像     | 起用アーティスト（報道/クレジット）  | 
 | ------------------- | -------------------- |----------------------------- | 
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4) ; Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | サウンドデザイン：**BFRND**（ショー専用スコア）／インダストリアル系サウンドの採用事例   |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |

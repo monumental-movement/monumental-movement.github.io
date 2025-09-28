@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡"
 author: mmr
 categories: [ Column ]
-tags: [ Noise, Rock, Experimental, 90s, 00s ]
+tags: [ Noise, Experimental, 90s, 00s ]
 image: ../assets/images/column-japanese-underground-rock-noise.webp
 ---
 
