@@ -214,28 +214,6 @@ flowchart TD
 
 ---
 
-### タイムライン図
-
-<div class="mermaid">
-gantt
-    title Zine制作タイムライン比較（相対スケジュール）
-    dateFormat  X
-    axisFormat  %d日目
-
-    section 1日簡易版
-    テーマ決定・素材集め     :done, des1, 0, 1d
-    手作業レイアウト・印刷   :done, des2, after des1, 0.5d
-    即日配布                 :done, des3, after des2, 0.5d
-
-    section 1ヶ月本格版
-    Week1: テーマ設定・リサーチ :active, w1, 0, 7d
-    Week2: 素材整理・執筆       :w2, after w1, 7d
-    Week3: デザイン・レイアウト :w3, after w2, 7d
-    Week4: 校正・印刷・配布     :w4, after w3, 7d
-</div>
-
----
-
 ### Zine制作の予算・コストシミュレーション表
 
 | フォーマット             | 部数   | 主なコスト要素             | 1冊あたりコスト | 合計コストの目安 | コメント              |
