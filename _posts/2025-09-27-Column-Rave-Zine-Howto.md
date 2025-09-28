@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "【コラム】 デイヴィッド・カニンガム（David Cunningham） — ポストパンク／実験音楽の仕掛人とフライング・リザーズの系譜"
+title:  "【コラム】 Zineの作り方：レイヴZineを自分で始めるためのガイド -記憶を紙に焼きつける技術と思想"
 author: mmr
 categories: [ Column ]
-tags: [ Experimental, Post Punk ]
-image: ../assets/images/column-david-Cunningham-this-heat.webp
+tags: [ Zine, Rave ]
+image: ../assets/images/column-rave-zine-howto.webp
 ---
 
-## ポップを解体し再構築するサウンド・システム
+## Zineは記録、Zineは表現、Zineはレイヴの延長
 
-文：mmr｜テーマ：David Cunningham の歩みを総覧。ソロ作、プロデュース仕事、関わったバンド（Flying Lizards, This Heat 等）を年代別に整理
+文：mmr｜テーマ：「自分のレイヴZineを作る方法」を、実用的・思想的両面から紹介
 
-カニンガムの手法は「ポップソングの解体（deconstruction）」と「スタジオを作曲の一部として利用する」ことにあります。シンプルなリフやキャッチーなメロディを、人為的にぎこちない演奏や機械的処理、テープ・コラージュで違和感を作り出す——それが彼の“ユーモアを含んだ実験”の肝です。結果として、ポストパンク／ニューウェーブの斜め上の文脈に位置する独特の音像を生みました。
+
+Zine（ジン）とは、自分で自由に作る小さなメディア。90年代パンクシーンやフェミニズム運動、スケーター文化と同じように、レイヴシーンでもZineは存在してきた。レイヴは瞬間の祝祭であるが、それを記憶し、他者と共有する手段としてZineはとても有効だ。 
 
 ---
 
@@ -29,22 +30,6 @@ color: #fff;
 }
 </style>
 
-
-### ---
-layout: post
-title:  "Zineの作り方：レイヴZineを自分で始めるためのガイド"
-author: mmr
-categories: [ DIYメディア, レイヴ文化 ]
-tags: [ Zine, Rave, ClubCulture, DIY ]
-subtitle: "記憶を紙に焼きつける技術と思想"
----
-
-### はじめに：Zineは記録、Zineは表現、Zineはレイヴの延長
-Zine（ジン）とは、自分で自由に作る小さなメディア。90年代パンクシーンやフェミニズム運動、スケーター文化と同じように、レイヴシーンでもZineは存在してきた。レイヴは瞬間の祝祭であるが、それを記憶し、他者と共有する手段としてZineはとても有効だ。  
-
-このコラムでは、**「自分のレイヴZineを作る方法」**を、実用的・思想的両面からステップ・バイ・ステップで紹介する。
-
----
 
 ### 何を残したい？――テーマを決める
 Zineにルールはない。が、「何を記録・発信したいか」を明確にすると制作がスムーズになる。  
@@ -204,7 +189,7 @@ flowchart TD
 ### Zineページ構成パターン
 
 <div class="mermaid">
-graph LR
+flowchart TD
     A["表紙"] --> B["序文／自己紹介"]
     B --> C["イベント記録"]
     C --> D["DJ・曲紹介"]
@@ -232,22 +217,21 @@ graph LR
 ### タイムライン図
 
 <div class="mermaid">
-
 gantt
-    title Zine制作タイムライン比較
-    dateFormat  WW
-    axisFormat  %W
+    title Zine制作タイムライン比較（相対スケジュール）
+    dateFormat  X
+    axisFormat  %d日目
 
     section 1日簡易版
-    テーマ決定・素材集め     :done, des1, 01, 1d
+    テーマ決定・素材集め     :done, des1, 0, 1d
     手作業レイアウト・印刷   :done, des2, after des1, 0.5d
     即日配布                 :done, des3, after des2, 0.5d
 
     section 1ヶ月本格版
-    Week1: テーマ設定・リサーチ :active, w1, 01, 1w
-    Week2: 素材整理・執筆       :w2, after w1, 1w
-    Week3: デザイン・レイアウト :w3, after w2, 1w
-    Week4: 校正・印刷・配布     :w4, after w3, 1w
+    Week1: テーマ設定・リサーチ :active, w1, 0, 7d
+    Week2: 素材整理・執筆       :w2, after w1, 7d
+    Week3: デザイン・レイアウト :w3, after w2, 7d
+    Week4: 校正・印刷・配布     :w4, after w3, 7d
 </div>
 
 ---
@@ -268,7 +252,7 @@ gantt
 ### コストとスケールの関係
 
 <div class="mermaid">
-graph LR
+flowchart TD
     A["コピー機（白黒, 〜20部, 4千円）"] --> B["カラーコピー（30部, 1万円〜）"]
     B --> C["家庭用プリンタ（少部数, 3千円）"]
     C --> D["オンデマンド印刷（50部, 2.5万円）"]
