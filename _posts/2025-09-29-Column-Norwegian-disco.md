@@ -130,7 +130,7 @@ Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルや
 
 ---
 
-## 年代別おすすめアルバム（テーブル）
+### 年代別おすすめアルバム
 
 |   年代 | アルバム                             | アーティスト            | リンク                          |
 | ---: | -------------------------------- | ----------------- | ---------------------------------- |
@@ -142,10 +142,15 @@ Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルや
 | 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
 | 2017 | It's Alright Between Us As It Is | Lindstrøm         | [Amazon](https://amzn.to/42e521T) |
 
+---
+
+### ドキュメンタリー映画（予告）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxY9SMN9Yl4?si=Xrq7OF5z6NY_fmmx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 分析：なぜノルウェーのディスコは国際的に評価されるのか
+### 分析：なぜノルウェーのディスコは国際的に評価されるのか
 
 1. **テクスチャの美学**：北欧らしい“空間”の作り方（リバーブや広がり）と、暖かいアナログ感の併存。
 2. **長尺トラック文化**：クラブではなく、アルバムを通しての“旅”を重視する作風。
@@ -154,7 +159,7 @@ Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルや
 
 ---
 
-## 結び
+### 最後に
 
 Prins Thomas、Lindstrøm、Mungolian Jet Set はノルウェーの地から世界に向けて“温度のあるディスコ”を発信し続けている。音楽的背景やプロデュースワークを押さえれば、彼らのトラックは単なるダンス音楽を超え、北欧的な時間感／風景を帯びたリスニング体験を与えてくれるはずだ。
 
