@@ -146,6 +146,8 @@ Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルや
 
 ### ドキュメンタリー映画（予告）
 
+ノルウェーのダンス・ミュージックシーンの歴史と発展を描いたドキュメンタリー映画。北部の都市トロムソを中心に、プリンス・トーマス、リンドストローム、トッド・テリエらコズミック／ニュー・ディスコ系アーティストの活動を追い、クラブやレーベルの台頭、若手DJやパーティ文化の拡大を紹介。シーンの形成過程や音楽的背景、国際的評価までを映像とインタビューで深く掘り下げる。
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxY9SMN9Yl4?si=Xrq7OF5z6NY_fmmx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
