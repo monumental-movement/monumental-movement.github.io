@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Zineはレイヴを救えるか？：DIYメディアの記憶装置としての可能性"
 author: mmr
 categories: [ Column ]
-tags: [ Zine, Rave ]
+tags: [ Zine, Rave, History ]
 image: ../assets/images/column-rave-zine-save.webp
 ---
 
@@ -91,14 +91,9 @@ Zineは、記録されなかったレイヴの**「体験を後から再構築�
 flowchart TD
 
     A["レイヴZine"] --> B["海外"]
-    A --> C["日本"]
     
     B --> B1["Datacide<br>(ドイツ)"]
     B --> B2["Rave Flyer Archives<br>(UK)"]
-    B --> B3["Acid Brass Zine<br>(US)"]
-
-    C --> C1["Rave Archive Tokyo<br>(仮称)"]
-    C --> C2["Mix CD＋Zineセット"]
 </div>
 
 ---
