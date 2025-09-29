@@ -63,6 +63,8 @@ flowchart LR
 * モジュラー／アナログ機材を駆使した長尺トラック
 * 小規模フェスやクラブでのライブセットでのキュレーション
 
+---
+
 ### Lindstrøm（リンドストローム）
 
 本名はHans-Peter Lindstrøm。彼のサウンドは“cosmic disco”の旗手と称され、シンセレイヤーと重厚なドラムワーク、そしてアンビエントのエッセンスを併せ持つ。代表作『Where You Go I Go Too』や『It's A Feedelity Affair』などは、エレガントかつダンサブルな長編構成で高評価を受けている。
@@ -72,17 +74,19 @@ flowchart LR
 * 他アーティスト（女性シンガーやインディーバンド）のリミックス
 * 映像作品やモード系イベントの音楽制作
 
+---
+
 ### Mungolian Jet Set（ムングリアン・ジェット・セット）
 
 主にDJユニット／プロデューサーとして活動。膨大なレコード知識とトライバルなリズム感を織り交ぜたミックスで知られる。彼らの『Jet Set Trax』的なミックスシリーズは、ノルウェーのクラブシーンに新しいエディトリアルな視点を持ち込んだ。
 
-**メンバー構成**
+#### メンバー構成
 
-1. Paul “Strangefruit” Nyhus（ポール・“ストレンジフルーツ”・ニーハス）
+**Paul “Strangefruit” Nyhus（ポール・“ストレンジフルーツ”・ニーハス）**
 
-**役割**：DJ／ターンテーブリスト／セレクター
+役割：DJ／ターンテーブリスト／セレクター
 
-**特徴**：
+特徴：
 
 ノルウェーのアンダーグラウンドDJカルチャーにおいて重要な存在。
 
@@ -90,29 +94,31 @@ flowchart LR
 
 「ジャンルの壁を壊すDJ」として知られ、Mungolian Jet Setの作品にエキレクティックな要素を持ち込む。
 
-2. Pål “Paul” Nyhus（ポール・ニーハス）
+---
 
-※Strangefruitと同一人物表記の場合もありますが、Mungolian Jet Setとしてはプロデューサー面でのクレジットが強調されることも多い。
+**Knut Sævik（クヌート・セーヴィク）**
 
-3. Knut Sævik（クヌート・セーヴィク）
+役割：プロデューサー／ミュージシャン
 
-**役割**：プロデューサー／ミュージシャン
-
-**特徴**：
+特徴：
 
 スタジオワークを支えるエンジニア的存在。
 
 シンセサイザー、サンプラー、プログラミングなどを駆使し、厚みのあるサウンドデザインを担当。
 
-ジャズやクラシックの素養を持ち込み、アレンジに奥行きを加える。
+ジャズや
+クラシックの素養を持ち込み、アレンジに奥行きを加える。
 
-4. ゲストコラボレーター
+---
+
+**ゲストコラボレーター**
 
 Randy Barracuda（フィンランドのSkweeeシーンで活躍）や、ノルウェー国内外のシンガー／ミュージシャンが参加することもある。
 
 Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルやインストゥルメンタリストを大胆にフィーチャーするのも特徴。
 
-**サウンドの特徴**
+
+#### サウンドの特徴
 
 ジャンル横断性：ディスコ、コズミック、ハウス、ジャズ、アフロ、さらにはロックやプログレ的要素までを混在。
 
@@ -127,11 +133,11 @@ Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルや
 ## 年代別おすすめアルバム（テーブル）
 
 |   年代 | アルバム                             | アーティスト            | リンク                                                                                                                                                 |
-| ---: | -------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---: | -------------------------------- | ----------------- | ---------------------------------- |
 | 2006 | It's A Feedelity Affair          | Lindstrøm         | [Amazon](https://amzn.to/4mApIIz)  |
 | 2006 | Schlungs                | Mungolian Jet Set | [Amazon](https://amzn.to/4nq9YJB)    | 
 | 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten]https://a.r10.to/h5LRGZ)          |
-| 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set     | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND)                                   |
+| 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND) |
 | 2010 | PRINS THOMAS                         | Prins Thomas      | [Amazon](https://amzn.to/4gKEeMJ) |
 | 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
 | 2017 | It's Alright Between Us As It Is | Lindstrøm         | [Amazon](https://amzn.to/42e521T) |
