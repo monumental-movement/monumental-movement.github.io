@@ -9,7 +9,7 @@ image: ../assets/images/column-norwegian-disco.webp
 
 ## ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
 
-文：mmr｜テーマ：ノルウェーが生んだモダン・ディスコ／スペースディスコの歴史、ソロ作品・コラボ・プロデュースワークを年表とともに解説。
+文：mmr｜テーマ：ノルウェーが生んだモダン・ディスコ／スペースディスコの歴史、ソロ作品・コラボ・プロデュースワーク
 
 ノルウェーは、寒冷な気候や北欧特有の静謐さを背景にしながらも、温度感あるディスコ／スペースディスコの重要な潮流を生み出してきた。Prins Thomas（プリンス・トーマス）、Lindstrøm（リンドストローム）、そしてMungolian Jet Set（ムングリアン・ジェット・セット）らは、70〜80年代のディスコ、イタロ、フレンチタッチをノルウェー的な視点で再解釈し、21世紀のダンスミュージックに独自の色を与えた。この記事では各アーティストのソロワーク、コラボレーション、プロデュース活動を網羅的に紹介し、年代別の推薦アルバム表を掲載する。
 
@@ -35,7 +35,7 @@ color: #fff;
 ---
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
   PT[Prins Thomas]
   LS[Lindstrøm]
   MJ[Mungolian Jet Set]
@@ -55,7 +55,7 @@ flowchart LR
 
 ### Prins Thomas（プリンス・トーマス）
 
-本名はThomas Moen Hermansen。デトロイト〜イタロや70sディスコの精神を受け継ぎつつ、長尺のサイケデリックなビルドアップを得意とする。DJ-Kicksシリーズ参加（一部地域表記では『DJ-Kicks: Prins Thomas』）や、ソロアルバム『Prins Thomas』や『II』などで知られる。また、Lindstrømらと共にリリースしたコラボレーションやリミックスワークはシーン形成に寄与した。
+本名はThomas Moen Hermansen。デトロイト〜イタロや70sディスコの精神を受け継ぎつつ、長尺のサイケデリックなビルドアップを得意とする。ソロアルバム『Prins Thomas』や『II』などで知られる。また、Lindstrømらと共にリリースしたコラボレーションやリミックスワークはシーン形成に寄与した。
 
 **プロデュース／関与した主な活動**：
 
@@ -132,11 +132,11 @@ Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルや
 
 ## 年代別おすすめアルバム（テーブル）
 
-|   年代 | アルバム                             | アーティスト            | リンク                                                                                                                                                 |
+|   年代 | アルバム                             | アーティスト            | リンク                          |
 | ---: | -------------------------------- | ----------------- | ---------------------------------- |
 | 2006 | It's A Feedelity Affair          | Lindstrøm         | [Amazon](https://amzn.to/4mApIIz)  |
 | 2006 | Schlungs                | Mungolian Jet Set | [Amazon](https://amzn.to/4nq9YJB)    | 
-| 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten]https://a.r10.to/h5LRGZ)          |
+| 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten](https://a.r10.to/h5LRGZ)          |
 | 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND) |
 | 2010 | PRINS THOMAS                         | Prins Thomas      | [Amazon](https://amzn.to/4gKEeMJ) |
 | 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
