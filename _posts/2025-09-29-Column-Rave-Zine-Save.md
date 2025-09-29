@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "【コラム】 Zineの作り方：レイヴZineを自分で始めるためのガイド -記憶を紙に焼きつける技術と思想"
+title:  "【コラム】 Zineはレイヴを救えるか？：DIYメディアの記憶装置としての可能性"
 author: mmr
 categories: [ Column ]
 tags: [ Zine, Rave ]
-image: ../assets/images/column-rave-zine-howto.webp
+image: ../assets/images/column-rave-zine-save.webp
 ---
 
 ## Zineは記録、Zineは表現、Zineはレイヴの延長
 
-文：mmr｜テーマ：「自分のレイヴZineを作る方法」を、実用的・思想的両面から紹介
+文：mmr｜ジャンル：メディア文化・音楽アーカイブ｜テーマ：記録されなかったカルチャーの保存装置としてのZine  
 
 
 Zine（ジン）とは、自分で自由に作る小さなメディア。90年代パンクシーンやフェミニズム運動、スケーター文化と同じように、レイヴシーンでもZineは存在してきた。レイヴは瞬間の祝祭であるが、それを記憶し、他者と共有する手段としてZineはとても有効だ。 
@@ -30,11 +30,6 @@ color: #fff;
 }
 </style>
 
-
-### # Zineはレイヴを救えるか？：DIYメディアの記憶装置としての可能性
-文：mmr｜ジャンル：メディア文化・音楽アーカイブ｜テーマ：記録されなかったカルチャーの保存装置としてのZine  
-
----
 
 ### はじめに：紙に焼きつく熱狂
 
