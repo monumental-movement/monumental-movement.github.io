@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 レイヴとメディア：記録されない音楽文化のアーカイブ化"
 author: mmr
 categories: [ Column ]
-tags: [ Rave, Psy-Trance, Euro, History, 90s ]
+tags: [ Rave, Psy-Trance, Euro, History, Zine, 90s ]
 image: ../assets/images/column-rave-media.webp
 ---
 
