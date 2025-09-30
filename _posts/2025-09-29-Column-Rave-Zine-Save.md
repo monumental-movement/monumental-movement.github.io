@@ -119,6 +119,27 @@ flowchart TD
 
 ---
 
+### レイヴアーカイブ
+
+2007年設立のRave Archiveは、90年代レイヴ文化の記憶を保存・共有するアーカイブ。レイヴァーでありアーキビストの視点から、消えやすい文化を後世へ伝える。
+
+[Rave Archive](https://ravearchive.com)
+
+
+---
+
+
+アメリカとカナダ各地の1989〜2000年のオールドスクール・レイヴ・フライヤー・アーカイブ
+
+Oldschool Rave Flyer archive 1989-2000+ from all over the US & Canada
+
+By Ernie Villalobos
+
+[Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)
+
+
+---
+
 ### 結論：Zineは記録できなかった文化を継ぐ鍵
 
 Zineは商業でも公的記録でもない。だが、それゆえに、“誰も記録しなかったはずの瞬間”を残すことができる。それは日記であり、報告書であり、証言であり、ラブレターでもある。

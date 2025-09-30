@@ -111,6 +111,9 @@ DJセット（当時は録音禁止が基本）
 2007年設立の「[**Rave Archive**](https://ravearchive.com)」は、90年代レイヴ文化の記憶を保存・共有するアーカイブ。レイヴァーでありアーキビストの視点から、消えやすい文化を後世へ伝える。
 
 
+アメリカとカナダ各地の1989〜2000年のオールドスクール・レイヴ・フライヤー・アーカイブ（[Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)）も必見です。
+
+
 
 ---
 
