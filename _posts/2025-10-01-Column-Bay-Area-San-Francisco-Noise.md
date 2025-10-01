@@ -39,10 +39,10 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-    A["1978: SRL（Mark Pauline）""] --> B["1980s: Negativland — テープコラージュ／ラジオ実験""]
-    B --> C["1990s: インディ／Bandcamp系台頭・実験エコシステム拡大""]
-    C --> D["2000s: Matmos — サンプル／コンセプト重視で国際評価""]
-    D --> E["2010s-2020s: 地域コンピ／即興ネットワーク成熟""]
+    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — テープコラージュ／ラジオ実験"]
+    B --> C["1990s: インディ／Bandcamp系台頭・実験エコシステム拡大"]
+    C --> D["2000s: Matmos — サンプル／コンセプト重視で国際評価"]
+    D --> E["2010s-2020s: 地域コンピ／即興ネットワーク成熟"]
 </div>
 
 ---
