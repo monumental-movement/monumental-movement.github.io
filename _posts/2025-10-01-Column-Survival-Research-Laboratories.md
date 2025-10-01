@@ -152,11 +152,9 @@ SRLは、引き続き機械やロボットを用いたパフォーマンスを�
 
 ### SRLの最新情報とリソース
 
-[公式ウェブサイト](https://www.srl.org/)
-
-[Instagram](https://www.instagram.com/survivalresearchlabs/)
-
-[YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
+- [公式ウェブサイト](https://www.srl.org/)
+- [Instagram](https://www.instagram.com/survivalresearchlabs/)
+- [YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
 
 
 ---
