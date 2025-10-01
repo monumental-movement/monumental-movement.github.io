@@ -43,6 +43,76 @@ SRLのパフォーマンスは、機械、ロボット、特殊効果装置を�
 
 ---
 
+### SRLの主要人物
+
+
+#### Mark Pauline（マーク・ポーリーン）
+
+役割：創設者（1978年〜現在）／芸術監督
+
+背景：カリフォルニア美術大学（SFAI）出身。若い頃に爆薬事故で右手を失い義手を装着、その経験から「危険と機械」をテーマにした表現を深めた。
+
+特徴：産業機械・軍事技術を転用し、社会風刺的なロボットパフォーマンスを演出。
+
+現在：ペタルマ（Petaluma, California）の拠点でSRLを率いる。
+
+---
+
+#### Matt Heckert（マット・ヘッカート）
+
+役割：サウンドデザイン、機械音楽担当（1980〜1990年代中心）
+
+功績：ロボットを楽器化し、機械による作曲・演奏を実現。後に独立して「Mechanical Sound Orchestra（MSO）」を結成。
+
+影響：SRLの「騒音と音楽の中間」に位置するサウンド面を確立。
+
+---
+
+#### Eric Werner（エリック・ヴェルナー）
+
+役割：ロボット工学エンジニア
+
+功績：機械制御システム、電気設計を担当。大型のロボットアームや移動機械を開発。
+
+---
+
+#### Joe Grand（ジョー・グランド）
+
+役割：エンジニア／電子設計
+
+背景：ハードウェアハッカーとしても知られる人物。
+
+功績：SRLの機械制御基盤や特殊インターフェースの開発に参加。
+
+
+---
+
+#### Other Key Collaborators
+
+Amy Critchett：プロデューサー／マネジメント面でサポート。
+
+Karen Marcelo：ハッカー文化との橋渡し役、「dorkbot SF」主宰。
+
+Alan Rath：初期メンバー。後に独自の電子彫刻で評価を得る。
+
+Gilles Larrain：映像・写真記録でコラボ。
+
+---
+
+### 人物相関図
+
+<div class="mermaid">
+flowchart TD
+    A[Mark Pauline<br>創設者/芸術監督] --> B[Matt Heckert<br>サウンド/機械音楽]
+    A --> C[Eric Werner<br>ロボットエンジニア]
+    A --> D[Joe Grand<br>電子設計/制御]
+    A --> E[Amy Critchett<br>プロデュース]
+    A --> F[Karen Marcelo<br>ハッカー文化連携]
+    A --> G[Alan Rath<br>電子彫刻家]
+</div>
+
+---
+
 ### SRLの代表的なDVD・アルバム
 
 
@@ -82,11 +152,11 @@ SRLは、引き続き機械やロボットを用いたパフォーマンスを�
 
 ### SRLの最新情報とリソース
 
-公式ウェブサイト：https://www.srl.org/
+[公式ウェブサイト](https://www.srl.org/)
 
-Instagram：https://www.instagram.com/survivalresearchlabs/
+[Instagram](https://www.instagram.com/survivalresearchlabs/)
 
-YouTubeチャンネル：https://www.youtube.com/user/survivalresearchlabs
+[YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
 
 
 ---
