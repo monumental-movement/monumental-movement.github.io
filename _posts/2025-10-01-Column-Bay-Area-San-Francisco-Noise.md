@@ -90,13 +90,13 @@ Matmos は1990年代にサンフランシスコで結成され、サンプリン
 
 以下は、本文で挙げた主要作品
 
-| 年代 | アーティスト / 作品  |  年 | 備考   | リンク |
-| ----------: | ------ | ----: | ----------------------------- | ----------------: | ---------------------- |
-|       1980s | Negativland — *Escape From Noise*      |  1987 | テープコラージュと短い楽曲の混在、代表作  | [Amazon](https://amzn.to/47akMEX) |
-| 1990s/2000s | Matmos — *A Chance To Cut Is A Chance To Cure* |  2001 | 医療音を素材にしたコンセプト作  |  [Amazon](https://amzn.to/48IJtKN) | 
-|       2000s | Matmos — *The Civil War*          |  2003 | コンセプトとサンプリング実験の継続    |  [Amazon](https://amzn.to/4gKSuoA) | 
-|       2010s | Bay Area コンピ（地域編集盤）      | 2010s | ローカル流通が主。Bandcampや地元レーベルで入手推奨 |　[Bay Improviser](https://www.bayimproviser.com/cds.aspx)　|
-|       2020s | Bill Orcutt — *Jump On It*   |  2023 | 実験的アコースティック。ベイエリア系ギターワークの代表例  |[Amazon](https://amzn.to/4o2jF0Q) |
+| アーティスト / 作品  |  年 | 備考   | リンク |
+| ------ | ---- | ----------------------------- | --------------- | ---------------------- |
+| Negativland — *Escape From Noise*      |  1987 | テープコラージュと短い楽曲の混在、代表作  | [Amazon](https://amzn.to/47akMEX) |
+| Matmos — *A Chance To Cut Is A Chance To Cure* |  2001 | 医療音を素材にしたコンセプト作  |  [Amazon](https://amzn.to/48IJtKN) | 
+| Matmos — *The Civil War*          |  2003 | コンセプトとサンプリング実験の継続    |  [Amazon](https://amzn.to/4gKSuoA) | 
+| Bay Area コンピ（地域編集盤）      | 2010s | ローカル流通が主。Bandcampや地元レーベルで入手推奨 |　[Bay Improviser](https://www.bayimproviser.com/cds.aspx)　|
+| Bill Orcutt — *Jump On It*   |  2023 | 実験的アコースティック。ベイエリア系ギターワークの代表例  |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 
