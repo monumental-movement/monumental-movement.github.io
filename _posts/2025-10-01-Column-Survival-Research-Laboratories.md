@@ -4,7 +4,7 @@ title:  "【コラム】 Survival Research Laboratories（SRL）: 機械芸術�
 author: mmr
 categories: [ Column ]
 tags: [ Art, Experimental ]
-image: ../assets/images/column-survival-research-laboratory.webp
+image: ../assets/images/column-survival-research-laboratories.webp
 ---
 
 ## SRLとは？
