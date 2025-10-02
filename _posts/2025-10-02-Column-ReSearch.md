@@ -145,7 +145,7 @@ flowchart TD
 
 ---
 
-## RE/Searchの逸話と裏話
+### RE/Searchの逸話と裏話
 
 RE/Searchの出版活動には数々の逸話が存在する。以下に代表的なものを挙げる。
 
