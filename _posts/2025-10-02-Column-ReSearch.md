@@ -95,52 +95,63 @@ RE/Searchは、単なる出版物にとどまらず、サブカルチャーの�
 
 ---
 
-## 年代別関係図（Mermaid）
+## 年代別関係図
 
+{% raw %}
 <div class="mermaid">
-
 flowchart TD
-    A[1980: Industrial Culture Handbook]
-    A1[Album: Throbbing Gristle - 20 Jazz Funk Greats]
-    A2[Event: Industrial Music Night]
+    A["1980: Industrial Culture Handbook"]
+    A1["Album: Throbbing Gristle - 20 Jazz Funk Greats"]
+    A2["Event: Industrial Music Night"]
 
-    B[1981: Modern Primitives]
-    B1[Album: Cabaret Voltaire - Red Mecca]
-    B2[Movie: Pink Flamingos]
+    B["1981: Modern Primitives"]
+    B1["Album: Cabaret Voltaire - Red Mecca"]
+    B2["Movie: Pink Flamingos"]
 
-    C[1983: Incredibly Strange Films]
-    C1[Album: Coil - Scatology]
-    C2[Movie: Liquid Sky]
+    C["1983: Incredibly Strange Films"]
+    C1["Album: Coil - Scatology"]
+    C2["Movie: Liquid Sky"]
 
-    D[1987: Industrial Culture Handbook (Revised)]
-    D1[Album: SPK - Leichenschrei]
-    D2[Movie: Begotten]
+    D["1987: Industrial Culture Handbook (Revised)"]
+    D1["Album: SPK - Leichenschrei"]
+    D2["Movie: Begotten"]
 
-    E[1988: J.G. Ballard]
-    E1[Album: Nurse With Wound - Homotopy to Marie]
-    E2[Movie: Videodrome]
+    E["1988: J.G. Ballard"]
+    E1["Album: Nurse With Wound - Homotopy to Marie"]
+    E2["Movie: Videodrome"]
 
-    F[1991: Primitives & Underground]
-    F1[Album: Lydia Lunch - Queen of Siam]
-    F2[Movie: Tetsuo: The Iron Man]
+    F["1991: Primitives & Underground"]
+    F1["Album: Lydia Lunch - Queen of Siam"]
+    F2["Movie: Tetsuo: The Iron Man"]
 
-    G[1996: Cyberpunk]
-    G1[Album: Jello Biafra - The Audacity of Hype]
-    G2[Movie: Tetsuo II]
+    G["1996: Cyberpunk"]
+    G1["Album: Jello Biafra - The Audacity of Hype"]
+    G2["Movie: Tetsuo II"]
 
-    H[2000: Industrial Culture Handbook 2000 Edition]
-    H1[Album: Merzbow - Pulse Demon]
-    H2[Movie: Ghost in the Shell]
+    H["2000: Industrial Culture Handbook 2000 Edition"]
+    H1["Album: Merzbow - Pulse Demon"]
+    H2["Movie: Ghost in the Shell"]
 
-    A --> A1 --> A2
-    B --> B1 --> B2
-    C --> C1 --> C2
-    D --> D1 --> D2
-    E --> E1 --> E2
-    F --> F1 --> F2
-    G --> G1 --> G2
-    H --> H1 --> H2
+    %% timeline
+    A --> B --> C --> D --> E --> F --> G --> H
 
+    %% branches (年代から作品へ)
+    A --> A1
+    A --> A2
+    B --> B1
+    B --> B2
+    C --> C1
+    C --> C2
+    D --> D1
+    D --> D2
+    E --> E1
+    E --> E2
+    F --> F1
+    F --> F2
+    G --> G1
+    G --> G2
+    H --> H1
+    H --> H2
 </div>
 
 ---
