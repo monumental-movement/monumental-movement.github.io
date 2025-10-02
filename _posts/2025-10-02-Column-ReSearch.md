@@ -97,7 +97,6 @@ RE/Searchは、単なる出版物にとどまらず、サブカルチャーの�
 
 ## 年代別関係図
 
-{% raw %}
 <div class="mermaid">
 flowchart TD
     A["1980: Industrial Culture Handbook"]
@@ -132,10 +131,9 @@ flowchart TD
     H1["Album: Merzbow - Pulse Demon"]
     H2["Movie: Ghost in the Shell"]
 
-    %% timeline
     A --> B --> C --> D --> E --> F --> G --> H
 
-    %% branches (年代から作品へ)
+
     A --> A1
     A --> A2
     B --> B1
