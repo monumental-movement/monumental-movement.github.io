@@ -3,7 +3,7 @@ layout: post
 title:  "Various – Elektronische Musik -Interkontinental 5"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Bossa Nova, Latin ]
+tags: [ Techno, Tech House, Minimal, Ambient ]
 image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.jpg
 ---
 
