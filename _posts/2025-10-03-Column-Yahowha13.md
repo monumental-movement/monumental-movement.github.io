@@ -76,7 +76,7 @@ color: #fff;
 
 ---
 
-## メンバーと証言による解釈
+### メンバーと証言による解釈
 
 - **Djin Aquarian (Sunflower)**: 「我々の演奏は楽曲ではなく祈りだった」  
 - **Octavius**: 「Father Yodの目線や息遣いで即興演奏の方向が決まった」  
@@ -398,7 +398,7 @@ Source Family ドキュメンタリー（The Source Family, 2012） — 映像�
 
 ---
 
-### 『Penetration: An Aquarian Symphony』(1974) の歌詞と解釈
+#### 『Penetration: An Aquarian Symphony』(1974) の歌詞と解釈
 
 **特徴**: 長尺の即興演奏の上で Father Yod が祈祷のように「愛」「宇宙」「真理」を繰り返し呼びかける。
 
@@ -408,7 +408,7 @@ Source Family ドキュメンタリー（The Source Family, 2012） — 映像�
 
 ---
 
-### 『Ya Ho Wha 13』名義でのトラック
+#### 『Ya Ho Wha 13』名義でのトラック
 
 歌詞というより「呪文的な発声」が中心。単語が明確に歌われるより、シャウトやチャントとして響く。
 
@@ -416,7 +416,7 @@ Source Family ドキュメンタリー（The Source Family, 2012） — 映像�
 
 ---
 
-### 『Man the Messiah』
+#### 『Man the Messiah』
 
 **内容**: 人類（Man）が「メシア的存在」として目覚めることを促す。
 
