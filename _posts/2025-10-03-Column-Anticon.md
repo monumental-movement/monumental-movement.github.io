@@ -56,15 +56,13 @@ Anticonは1998年、**Sole（Tim Holland）** や **Doseone（Adam Drucker）**�
 <div class="mermaid">
 
 flowchart LR
-  subgraph Founders
-    Doseone((Doseone))
-    Sole((Sole))
-    Jel((Jel))
-    OddNosdam((Odd Nosdam))
-    Yoni((Yoni Wolf / Why?))
-    Ped((Pedestrian))
-    Alias((Alias))
-  end
+  Doseone((Doseone))
+  Sole((Sole))
+  Jel((Jel))
+  OddNosdam((Odd Nosdam))
+  Yoni((Yoni Wolf / Why?))
+  Ped((Pedestrian))
+  Alias((Alias))
 
   Doseone --> cLOUDDEAD[cLOUDDEAD<br/>(with Why? & Odd Nosdam)]
   Yoni --> cLOUDDEAD
@@ -76,7 +74,6 @@ flowchart LR
   Doseone --> Subtle[Subtle<br/>(Doseone + others)]
   Alias --> SoloProjects[Alias (solo/productions)]
   Sole --> SoloSole[Sole (solo, Skyrider Band)]
-
 </div>
 
 ---
@@ -100,22 +97,21 @@ flowchart LR
 
 <div class="mermaid">
 
-timeline
-    title Anticon主要アーティスト・年表
-    1998 : Deep Puddle Dynamics — "The Taste of Rain... Why Kneel?"
-    1999 : Sole — "Bottle of Humans"
-    2000 : Alias — "The Other Side of the Looking Glass"
-    2001 : cLOUDDEAD — "cLOUDDEAD"
-    2002 : Themselves — "The No Music"
-    2003 : Alias — "Muted"
-    2004 : Subtle — "A New White"
-    2005 : Why? — "Elephant Eyelash"
-    2006 : Odd Nosdam — "Level Live Wires"
-    2009 : Why? — "Eskimo Snow"
-    2012 : Themselves — "CrownsDown & Company"
-    2014 : Sole — "Death Drive" (Sole & DJ Pain 1)
-    2016 : Doseone — "G is for Deep"
-    2018 : Alias — *逝去、レーベル解散期へ*
+flowchart LR
+    "1998\nDeep Puddle Dynamics\n'The Taste of Rain... Why Kneel?'" --> "1999\nSole\n'Bottle of Humans'"
+    "1999\nSole\n'Bottle of Humans'" --> "2000\nAlias\n'The Other Side of the Looking Glass'"
+    "2000\nAlias\n'The Other Side of the Looking Glass'" --> "2001\ncLOUDDEAD\n'cLOUDDEAD'"
+    "2001\ncLOUDDEAD\n'cLOUDDEAD'" --> "2002\nThemselves\n'The No Music'"
+    "2002\nThemselves\n'The No Music'" --> "2003\nAlias\n'Muted'"
+    "2003\nAlias\n'Muted'" --> "2004\nSubtle\n'A New White'"
+    "2004\nSubtle\n'A New White'" --> "2005\nWhy?\n'Elephant Eyelash'"
+    "2005\nWhy?\n'Elephant Eyelash'" --> "2006\nOdd Nosdam\n'Level Live Wires'"
+    "2006\nOdd Nosdam\n'Level Live Wires'" --> "2009\nWhy?\n'Eskimo Snow'"
+    "2009\nWhy?\n'Eskimo Snow'" --> "2012\nThemselves\n'CrownsDown & Company'"
+    "2012\nThemselves\n'CrownsDown & Company'" --> "2014\nSole\n'Death Drive' (Sole & DJ Pain 1)"
+    "2014\nSole\n'Death Drive' (Sole & DJ Pain 1)" --> "2016\nDoseone\n'G is for Deep'"
+    "2016\nDoseone\n'G is for Deep'" --> "2018\nAlias\n*逝去、レーベル解散期へ*"
+
 
 </div>
 
@@ -139,6 +135,8 @@ timeline
 | 2010 | *Plastique*          | Skyrider Bandと共作 | [Amazon](https://amzn.to/4nHW0Da)                          |
 | 2014 | *Death Drive*        | DJ Pain 1と共作     | [Amazon](https://amzn.to/3KyRJmL)                                                               |
 
+--- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qGYlXAfM1WM?si=38s57uhVHZ8vlwUd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -153,6 +151,8 @@ timeline
 | 2016 | *G Is For Deep* | ビート／歌声の実験  | [Amazon](https://amzn.to/48eN2Z6) |
 
 
+--- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xvu4g-lHl8?si=iQiBtUf6-Yyeo_8P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -165,6 +165,8 @@ timeline
 | 2002 | *10 Seconds* | MPCの妙技 | [Amazon](https://amzn.to/42pzaYl) |
 | 2006 | *Soft Money* | ゲスト多数  | [Amazon](https://amzn.to/3KAS5sY) |
 
+
+--- 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/upKMyOh8Ch4?si=r48rputTNzWUEihz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -180,6 +182,8 @@ timeline
 | 2007 | *Level Live Wires*            | Boards of Canada的世界観 | [Amazon](https://amzn.to/42kl7TS) |
 
 
+--- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JQNDXnAecZU?si=uiV3n7B9591Gya65" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -194,6 +198,8 @@ timeline
 | 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
 | 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |
 | 2014 | *Pitch Black Prism*                   | 最終作      | [Amazon](https://amzn.to/3KDPhv3)        |
+
+--- 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nOiK6YwyY44?si=fDqrC6GTYts1-Urg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -211,6 +217,8 @@ timeline
 | 2012 | *Mumps, etc.*      | ユーモア溢れる歌詞 | [Amazon](https://amzn.to/46Q7L33)        |
 | 2017 | *Moh Lhean*        | 近年の代表作    | [Amazon](https://amzn.to/4gXck0f)        |
 
+--- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mr-N4AH_TIw?si=hGtN5Do-fZcDpf36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -221,6 +229,8 @@ timeline
 | 年    | タイトル        | 備考   | リンク                                                      |
 | ---- | ----------- | ---- | -------------------------------------------------------- |
 | 2001 | *cLOUDDEAD* | 幻の名盤 | [Amazon](https://amzn.to/4mPWdmu) |
+
+--- 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UwGnpIX1I0M?si=QDK4QjYQcnN_MaDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -236,6 +246,8 @@ timeline
 | 2002 | *The No Music* | 代表作    | [Amazon](https://amzn.to/48k36sF)   |
 | 2009 | *CrownsDown*   | 緊張感溢れる | [Amazon](https://amzn.to/3Wj15We) |
 
+--- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZeotHL1lWUQ?si=_uZ_OVffImeHcnPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -250,6 +262,8 @@ timeline
 | 2006 | *For Hero: For Fool* | 高評価作             | [Amazon](https://amzn.to/4o4wvf0) |
 
 
+--- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BiLrxxRBHT4?si=eERBiAv-hw1u2OnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -262,6 +276,8 @@ timeline
 | 年    | タイトル                            | 備考                         | リンク                                                                 |
 | ---- | ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
 | 1998 | *The Taste of Rain… Why Kneel?* | Slug, Sole, Aliasらによる伝説的作品 | [Amazon](https://amzn.to/46PKVIV) |
+
+--- 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEHIldAAd6c?si=93_0YB3wTD-N9ivU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
