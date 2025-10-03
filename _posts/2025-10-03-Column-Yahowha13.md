@@ -104,12 +104,16 @@ color: #fff;
 
 Yahowha13 の音楽活動は、大きく以下のように段階化できます：
 
+---
+
 - **1973 年–1974 年**：Spirit of ’76 名義期
 
 Kohoutek（1973）、Contraction（1974）、Expansion（1974）、All or Nothing at All（1974）など。最初期の実験音楽期。
 
 
 この時期、音響実験とチャント・セッションの融合を模索。Father Yod 自身がカン、チャント、パーカッションで関与する録音も多い。
+
+---
 
 
 - **1974 年中盤〜1975 年**：YaHoWa13 名義期／技巧深化期
@@ -122,6 +126,7 @@ Ya Ho Wa 13（1974）、Savage Sons of Ya Ho Wa（1974）、Penetration: An Aqua
 
 特に Penetration: An Aquarian Symphony はバンド史上もっとも人気・再評価が高い作品とされ、多くの再発がなされている。
 
+---
 
 - **1975 年以降**：Father Yod 死亡後／断続的活動期
 
@@ -145,13 +150,13 @@ Ya Ho Wa 13（1974）、Savage Sons of Ya Ho Wa（1974）、Penetration: An Aqua
 | ---------- | ------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
 | 1973       | *Kohoutek*                           | Spirit of ’76 名義の最初期録音、実験性と荒さを特徴とする | [Amazon](https://amzn.to/4ny1yQf)                   |
 | 1974       | *Contraction*                        | 音響実験深化、初期 YaHoWa 期の過渡期              | [Amazon](https://amzn.to/4nW1868)                |
-| 1974       | *Expansion*                          | コンセプト的な即興的断片を多く含む                   |                   |
+| 1974       | *Expansion*                          | コンセプト的な即興的断片を多く含む                   | - |
 | 1974       | *Ya Ho Wa 13*                        | バンド名義での初期公式作、チャントとギターの融合が鮮明         | [Discogs](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)                |
 | 1974       | *Penetration: An Aquarian Symphony*  | 最も広く評価される代表作、構造・演奏ともに完成度高め          | [Amazon](https://amzn.to/4hdcYa5)                |
 | 1974       | *I’m Gonna Take You Home*            | ダーク・ロマンティシズムを帯びた曲構造もある意欲作           | [Amazon](https://amzn.to/3Wm92Ke)    |
 | 1975       | *To the Principles for the Children* | Yod の最後期参加作、教義的要素の強い詩性が目立つ          | [Amazon](https://amzn.to/46PceCT)          |
 | 1975（後年発表） | *The Operetta*                       | 1975年録音の未発表音源を後年リリースした作品            | [Amazon](https://amzn.to/42ktDCf)               |
-| 1977       | *Golden Sunrise*                     | Fire, Water, Air 名義、Sky Saxon 参加作品  |   |
+| 1977       | *Golden Sunrise*                     | Fire, Water, Air 名義、Sky Saxon 参加作品  | - |
 | 1977       | *Yodship Suite*                      | プライベート・プレス、伝説的なプレス数極小               | [Amazon](https://amzn.to/3VJKnPE)              |
 | 2008       | *Sonic Portation*                    | Djin・Sunflower・Octavius による再結成作品    | [Amazon](https://amzn.to/4pRJ9zF)            |
 | 2009       | *Magnificence in the Memory*         | アーカイブ未発表曲集、再評価を促す編集盤                | [Amazon](https://amzn.to/4nZE5aq) |
@@ -165,7 +170,7 @@ Ya Ho Wa 13（1974）、Savage Sons of Ya Ho Wa（1974）、Penetration: An Aqua
 
 <div class="mermaid">
 
-flowchart TD
+flowchart LR
   FY["Father Yod / James Baker"] --> SF["Source Family Commune"]
   SF --> TY1["Spirit of ’76 (初期名義)"]
   SF --> YHW["Yahowha13 / Ya Ho Wa 13"]
@@ -237,10 +242,14 @@ Yahowha13 は、「音楽＝教義・儀式の延長線上にあるチャネリ�
 ※LP群は1973〜1975年に集中しており、初期は Father Yod & The Spirit of '76 名義、のち Ya Ho Wa / Ya Ho Wha 13 名義で録音・販売されました。ディスク情報は小規模プレス／アーカイブのため版ごとに差が大きいです。
 
 
+---
+
 [Kohoutek（1973／Father Yod & The Spirit of '76）](https://amzn.to/4ny1yQf)
 
 
 ポイント：最初期の即興実験集。粗さとエネルギーが同居する“儀式の予兆”が聴ける。Father Yod のチャントが強く出る初期記録としてコレクター人気がある。
+
+---
 
 
 [Contraction（1974）](https://amzn.to/4nW1868) / Expansion（1974）
@@ -249,26 +258,36 @@ Yahowha13 は、「音楽＝教義・儀式の延長線上にあるチャネリ�
 ポイント：一連の“宇宙的”シリーズ。音響的な実験（パーカッション、ゴング、長尺のコール＆レスポンス）が目立つ。初期の“声と音の実験”に興味があるなら必携。
 
 
+---
+
 [Ya Ho Wa 13（1974）](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)
 
 
 ポイント：セルフ・レコーディングの中核。Garage録音ながら、バンドの即興的まとまりが出てきた段階。Djin（ギター）／Sunflower（ベース）／Octavius（ドラム）らのプレイが要。
 
 
+---
+
 [Penetration: An Aquarian Symphony（1974）](https://amzn.to/4hdcYa5)
 
 楽曲と聴きどころ：「Yod He Vau He」「Ho」「Journey Thru An Elemental Kingdom」「Ya Ho Wha」など長尺トラックが続く。“儀式性”と“サイケデリック・ジャム”の結晶であり、再発も多く最も入手しやすい代表盤。サウンドスケープ的なダイナミクスが大きく、初めて聴く人にはここから入ることを推奨。
 
+
+---
 
 [I'm Gonna Take You Home（1974）](https://amzn.to/3Wm92Ke)
 
 ポイント：やや曲構造が出る曲もあり、荒削りだがメロディ的断片も感じられる。歌・チャントが強く出る作品。
 
 
+---
+
 [Savage Sons of Ya Ho Wa](https://amzn.to/48S3oa6) / [To the Principles for the Children](https://amzn.to/4nAKucB) / [The Operetta](https://amzn.to/42ktDCf)（1974–1975）
 
 ポイント：実験と“祈り（教義）性”が混在。The Operetta は1975年録音だが長らく未発表→後年リリースという経緯。未発表／断片的な素材が多いのもこのプロジェクトの特徴。
 
+
+---
 
 [再編集／コンピ：Magnificence in the Memory（2009, Drag City）](https://amzn.to/48cPyPB)
 
@@ -531,4 +550,10 @@ Father Yod は演奏家ではなく「精神的な指揮者」。
 
 ### 締めくくりに
 
-Yahowha13／Father Yod は、単なる “カルト・バンド” を超え、音楽・宗教・コミューン実践を融合させた異形のプロジェクトとして、後の世代に強烈な印象を残しました。即興性、儀式性、狂気と神秘の狭間を往くサウンドは、現代においても聞き手を挑発します。本稿が、あなたの探究に何らかの手がかりを提供できれば幸いです。
+Yahowha13／Father Yod は、単なる “カルト・バンド” を超え、音楽・宗教・コミューン実践を融合させた異形のプロジェクトとして、後の世代に強烈な印象を残しました。即興性、儀式性、狂気と神秘の狭間を往くサウンドは、現代においても聞き手を挑発します。
+
+Yahowha 13 と Father Yod の音楽は、単なるサイケデリック・ロックの枠を超え、1970年代のヒッピー文化と共同体精神を体現した「音の儀式」でした。Father Yod の導きのもと、Source Family の信徒たちは即興演奏を通じて精神的エネルギーを音に変換し、歌詞やチャントは文学的意味よりもマントラ的な波動として機能しました。
+
+アルバム『Penetration: An Aquarian Symphony』や『I’m Gonna Take You Home』に代表される音源は、宗教的儀式とサイケデリック即興の融合を記録したものであり、現代のリスナーにとっても未だに刺激的です。アメリカではカルト史の資料として、ドイツでは音響実験として、日本では秘教サイケとして再評価され、それぞれの文化圏で独自の解釈が生まれています。
+
+今日ではストリーミング配信や再発盤を通じて、Yahowha 13 の音楽は広くアクセス可能となり、過去のカルト的活動が現代音楽シーンへの影響として結実しています。Father Yod の精神と Source Family の実験精神は、単なる音楽の枠を超え、今なお新しい世代に「共同体・即興・スピリチュアルの可能性」を問いかけ続けているのです。
