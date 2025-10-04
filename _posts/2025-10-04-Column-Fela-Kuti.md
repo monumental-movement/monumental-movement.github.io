@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【コラム】 Fela Kuti(フェラ・クティ)完全ガイド：アフロビートの創造者とその遺産"
+title:  "【コラム】 Fela Kuti（フェラ・クティ）完全ガイド：アフロビートの創造者とその遺産"
 author: mmr
 categories: [ Column ]
 tags: [ Afrobeat, History ]
