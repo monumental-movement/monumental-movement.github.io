@@ -111,11 +111,11 @@ Burning Man は創造性のハブとしての側面を保ちつつ、商業化�
 
 ### 年別テーマ一覧
 
-以下、1995年以降を中心に、近年までのテーマと代表的なアート構成例を年順で記載します。
+以下、1995年以降を中心に、近年までのテーマを年順で記載します。
 
 <div class="mermaid">
 flowchart TD
-    A1995["1995 : Inferno"] --> A1996["1996 : Decommodification"]
+    A1995[["1995 : Inferno"](#1995)] --> A1996["1996 : Decommodification"]
     A1996 --> A1997["1997 : Fertility"]
     A1997 --> A1998["1998 : Nebulous Entity"]
     A1998 --> A1999["1999 : The Wheel of Time"]
@@ -150,7 +150,7 @@ flowchart TD
 
 ---
 
-#### 1995年：Inferno
+#### <a id="1995"></a>1995年：Inferno
 
 1995年のInfernoは、「Burning Manは単なる野外フェスではなく、燃焼儀礼・精神的再生の場」 という認識を参加者間に浸透させた重要な年です。
 
