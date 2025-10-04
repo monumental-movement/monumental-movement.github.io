@@ -37,6 +37,24 @@ Luke Slaterは父親の影響で音楽と親しみ、12歳の頃にはドラマ�
 
 ---
 
+
+### 活動マップ
+
+<div class="mermaid">
+
+flowchart TD
+    A["Luke Slater"] --> B["Planetary Assault Systems"]
+    A --> C["The 7th Plain"]
+    A --> D["LSD (w/ Steve Bicknell & Function)"]
+    B --> E["Hard Techno / Ostgut Ton"]
+    C --> F["Ambient Techno / Warp"]
+    D --> G["Experimental Collaboration"]
+
+
+</div>
+
+---
+
 ### プロジェクトごとの特色
 
 - **Planetary Assault Systems（PAS）**
@@ -143,23 +161,6 @@ Luke Slaterは父親の影響で音楽と親しみ、12歳の頃にはドラマ�
 
 ---
 
-
-### 活動マップ
-
-<div class="mermaid">
-
-flowchart TD
-    A["Luke Slater"] --> B["Planetary Assault Systems"]
-    A --> C["The 7th Plain"]
-    A --> D["LSD (w/ Steve Bicknell & Function)""]
-    B --> E["Hard Techno / Ostgut Ton"]
-    C --> F["Ambient Techno / Warp"]
-    D --> G["Experimental Collaboration"]
-
-
-</div>
-
----
 
 ### 現在の活動
 
