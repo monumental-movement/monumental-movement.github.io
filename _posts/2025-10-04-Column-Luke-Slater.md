@@ -57,7 +57,9 @@ flowchart TD
 
 ### プロジェクトごとの特色
 
-- **Planetary Assault Systems（PAS）**
+---
+
+#### Planetary Assault Systems（PAS）
 
 Luke Slaterが1990年代初頭から展開している代表的なプロジェクトのひとつです。
 ハードかつミニマルなテクノ・サウンドを特徴とし、世界中のクラブでプレイされる“ピークタイム・テクノ”の象徴的存在として知られています。
@@ -82,11 +84,26 @@ PAS = Luke Slaterによる“クラブ向けハードテクノの最前線プロ
 
 ---
 
+**ディスコグラフィー**
+
+| 年    | アルバム名                  | 特徴                | リンク                                     |
+| ---- | ---------------------- | ----------------- | --------------------------------------------- |
+| 1997 | *The Drone Sector*     | インダストリアル色の濃い初期傑作  | [Amazon](https://amzn.to/477xvJn) |
+| 1999 | *Atomic Funkster*      | ハードミニマルへの進化       | [Amazon](https://amzn.to/4o7j2TJ) |
+| 2009 | *Temporary Suspension* | Ostgut Tonからのリリース | [Amazon](https://amzn.to/4nzQeTV) |
+| 2011 | *The Messenger*        | ミニマルと未来志向の融合      | [Amazon](https://amzn.to/3KA1vov) |
+| 2016 | *Arc Angel*            | 宇宙的な広がりと硬質ビート     | [Amazon](https://amzn.to/435hqS7) |
+| 2022 | *Devotion*             | 最新のPAS作品、モダンテクノの粋 | [Amazon](https://amzn.to/4gWRD4j) |
+
+---
+
+**おすすめ動画**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uy6A3hX-2dQ?si=Vj3gs0SbhBtaAHd-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **The 7th Plain**
+#### The 7th Plain
 
 The 7th Plain（セヴンス・プレイン）は、Luke Slaterが1990年代半ばに始動したアンビエント／テクノ・プロジェクトです。
 フロア向けの硬質なサウンドが特徴のPlanetary Assault Systemsに対し、7th Plainは 内省的で浮遊感のあるアンビエント・テクノ を追求しています。
@@ -107,21 +124,25 @@ The 7th Plain = Luke Slaterによる“アンビエント・テクノの深淵�
 
 ---
 
+**ディスコグラフィー**
+
+| 年    | アルバム名                 | 特徴                    | リンク                                     |
+| ---- | --------------------- | --------------------- | --------------------------------------------- |
+| 1994 | *The 4 Cornered Room* | アンビエント・テクノの傑作         | [Amazon](https://amzn.to/4nttGUI) |
+| 1994 | *My Yellow Wise Rug*  | 空間性の高い実験作             | [Amazon](https://amzn.to/3VOULWo) |
+| 2016 | *Chronicles I*        | アーカイブ集（Warp Records期） | [Amazon](https://amzn.to/4mK8uJ7) |
+| 2016 | *Chronicles II*       | アーカイブ集第二弾             | [Amazon](https://amzn.to/4gYSJN4) |
+| 2018 | *Chronicles III*      | 未発表音源含む集大成            | [Amazon](https://amzn.to/4mPG9AW) |
+
+---
+
+**おすすめ動画**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FjFt9ZFo4Gc?si=ARNHLD0Qeu9-hCYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **LSD（Luke Slater + Steve Bicknell + Function）**
-
-2017年から始動したスーパー・ユニット。硬質なドライヴ感と実験性で高評価。
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3TOuWGtD3k?si=7CpfXP9LFtQI37gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-- **ソロ名義 Luke Slater**
+#### LSD（Luke Slater + Steve Bicknell + Function）
 
 LSDは、Luke Slater / Steve Bicknell / Function（Dave Sumner） の3人によって2017年に結成されたテクノ・プロジェクトです。
 それぞれが90年代から活動してきたベテランであり、コラボレーションにより 硬質で催眠的なサウンド を追求しています。
@@ -141,67 +162,10 @@ Berghainや国際的フェスティバルでのライブは特に高い評価を
 
 LSD = 3人の巨匠が集結した“ハードミニマルの集大成” であり、テクノだけでなく、エレクトロ、ファンク、ヴォーカル曲も取り入れ、幅広い表現を展開。
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EhZm8MJcTc8?si=8o2TgcfOexJbn354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 年代別おすすめアルバム
-
-| 年代   | アルバム名              | エイリアス       | 特徴・代表曲            | リンク                                     |
-| ---- | ------------------ | ----------- | ----------------- | --------------------------------------------- |
-| 1997 | *Freek Funk*       | Luke Slater | ファンクとテクノの融合       | [Amazon](https://amzn.to/4pVNHoG) |
-| 1999 | *Wireless*         | Luke Slater | ボーカル導入の意欲作        | [Amazon](https://amzn.to/4pRPAT8) |
-| 2002 | *Alright on Top*   | Luke Slater | ポップ／エレクトロ志向       | [Amazon](https://amzn.to/46B4ntV) |
-| 2016 | *Chronicles I-III* | 7th Plain   | Warp期を含むアンビエント集大成 | [Amazon](https://amzn.to/4gYSJN4) |
-| 2022 | *Devotion*         | PAS         | 最新テクノの頂点          | [Amazon](https://amzn.to/4gWRD4j) |
-
-
-
----
-
-### Luke Slater & Projects ディスコグラフィー
-
-#### Luke Slater (ソロ名義)
-
-| 年    | アルバム名            | 特徴             | リンク                                     |
-| ---- | ---------------- | -------------- | --------------------------------------------- |
-| 1997 | *Freek Funk*     | ファンクとテクノの融合、名盤 | [Amazon](https://amzn.to/4pVNHoG) |
-| 1999 | *Wireless*       | ボーカル色を強めた異色作   | [Amazon](https://amzn.to/4pRPAT8) |
-| 2002 | *Alright on Top* | ポップ／エレクトロ寄り    | [Amazon](https://amzn.to/46B4ntV) |
-
-
----
-
-#### Planetary Assault Systems (PAS)
-
-| 年    | アルバム名                  | 特徴                | リンク                                     |
-| ---- | ---------------------- | ----------------- | --------------------------------------------- |
-| 1997 | *The Drone Sector*     | インダストリアル色の濃い初期傑作  | [Amazon](https://amzn.to/477xvJn) |
-| 1999 | *Atomic Funkster*      | ハードミニマルへの進化       | [Amazon](https://amzn.to/4o7j2TJ) |
-| 2009 | *Temporary Suspension* | Ostgut Tonからのリリース | [Amazon](https://amzn.to/4nzQeTV) |
-| 2011 | *The Messenger*        | ミニマルと未来志向の融合      | [Amazon](https://amzn.to/3KA1vov) |
-| 2016 | *Arc Angel*            | 宇宙的な広がりと硬質ビート     | [Amazon](https://amzn.to/435hqS7) |
-| 2022 | *Devotion*             | 最新のPAS作品、モダンテクノの粋 | [Amazon](https://amzn.to/4gWRD4j) |
-
-
----
-
-### The 7th Plain
-
-| 年    | アルバム名                 | 特徴                    | リンク                                     |
-| ---- | --------------------- | --------------------- | --------------------------------------------- |
-| 1994 | *The 4 Cornered Room* | アンビエント・テクノの傑作         | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *My Yellow Wise Rug*  | 空間性の高い実験作             | [Amazon](https://amzn.to/3VOULWo) |
-| 2016 | *Chronicles I*        | アーカイブ集（Warp Records期） | [Amazon](https://amzn.to/4mK8uJ7) |
-| 2016 | *Chronicles II*       | アーカイブ集第二弾             | [Amazon](https://amzn.to/4gYSJN4) |
-| 2018 | *Chronicles III*      | 未発表音源含む集大成            | [Amazon](https://amzn.to/4mPG9AW) |
-
-
----
-
-### LSD (Luke Slater + Steve Bicknell + Function)
+**ディスコグラフィー**
 
 | 年    | アルバム名            | 特徴         | リンク                                     |
 | ---- | ---------------- | ---------- | --------------------------------------------- |
@@ -209,8 +173,50 @@ LSD = 3人の巨匠が集結した“ハードミニマルの集大成” であ
 | 2019 | *Second Process* | ミニマルで鋭利な展開 | [Amazon](https://amzn.to/46PIaHj) |
 | 2020 | *Third Process*  | 宇宙的な音響処理   | [Amazon](https://amzn.to/42sbkuR) |
 
+
 ---
 
+**おすすめ動画**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3TOuWGtD3k?si=7CpfXP9LFtQI37gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### ソロ名義 Luke Slater
+
+自身のソロ名義では、テクノ、エレクトロ、ブレイクビートを横断する幅広い作品で知られています。
+
+**特徴**
+
+- ハードでインダストリアルなテクノから、メロディックで実験的な作品まで多様
+
+- 4つ打ちだけでなく、ブレイクビーツやアンビエントも展開
+
+- 常にクラブシーンとアート性を両立
+
+**位置づけ**
+
+Slaterは、シーンを横断する柔軟なクリエイターとして評価され、テクノのハードさとポップな感覚を両立。
+後のPlanetary Assault SystemsやThe 7th Plainなどの別名義活動へとつながる基盤を築きました。
+
+---
+
+**ディスコグラフィー**
+
+
+| 年    | アルバム名            | 特徴             | リンク                                     |
+| ---- | ---------------- | -------------- | --------------------------------------------- |
+| 1997 | *Freek Funk*     | ファンクとテクノの融合、名盤 | [Amazon](https://amzn.to/4pVNHoG) |
+| 1999 | *Wireless*       | ボーカル色を強めた異色作   | [Amazon](https://amzn.to/4pRPAT8) |
+| 2002 | *Alright on Top* | ポップ／エレクトロ寄り    | [Amazon](https://amzn.to/46B4ntV) |
+
+---
+
+**おすすめ動画**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhZm8MJcTc8?si=8o2TgcfOexJbn354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 現在の活動
 
