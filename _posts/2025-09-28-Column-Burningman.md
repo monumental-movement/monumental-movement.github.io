@@ -224,8 +224,6 @@ flowchart TD
 
 水中感覚、浮遊感、幻想性を備えた構造体が出現。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gv9e1Yr9ix8?si=1cvhnJ616UBN-4Fr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 2003年：Beyond Belief
@@ -233,8 +231,6 @@ flowchart TD
 宗教性、信仰、神秘、錯覚・超越の探求。テーマ・アート共に、儀式性・祈り・儀礼空間を意識した構成が多くなった。
 
 この年、テーマアート登録プロジェクト数が急増した。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMRjy6fyq3M?si=tlQKqDmEQ7kkSY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -259,8 +255,6 @@ flowchart TD
 #### 2006年：Hope & Fear
 
 希望と恐怖という対立軸を探索するテーマ。人類文明の脆弱さや未来志向を仄めかす構造体・メディアアートが見られた。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZHkZPGotKE?si=f9gcwoPrptdlQawy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
