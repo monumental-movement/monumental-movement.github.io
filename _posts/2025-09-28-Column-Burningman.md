@@ -15,6 +15,12 @@ Burning Man は単なるフェスティバルではなく、「一時的都市�
 
 ---
 
+#### BURNING MAN 2025 - All ART
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fo-kN2uXVik?si=Sczv6RIgofMcguM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 <style type="text/css">
 table, td, th {
 border: 2px #111 solid;
@@ -115,6 +121,12 @@ Burning Man
 
 ---
 
+#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 関連書籍
 
@@ -133,7 +145,11 @@ Burning Man は創造性のハブとしての側面を保ちつつ、商業化�
 
 ---
 
+#### Burning Man 2025: The Man Burns
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 1995年：Inferno
 
