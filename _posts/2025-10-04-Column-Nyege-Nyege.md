@@ -277,9 +277,9 @@ flowchart TD
 <div class="mermaid">
 
 flowchart LR
-    Music[マロヤ + 電子音楽] --> Dance[即興ダンス]
-    Dance --> Community[文化・コミュニティ形成]
-    Community --> Festivals[クラブ・フェスでの表現]
+    Music["マロヤ + 電子音楽"] --> Dance["即興ダンス"]
+    Dance --> Community["文化・コミュニティ形成"]
+    Community --> Festivals["クラブ・フェスでの表現"]
 </div>
 
 ---
