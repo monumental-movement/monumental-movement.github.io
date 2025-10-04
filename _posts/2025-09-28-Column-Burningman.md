@@ -62,12 +62,52 @@ Burning Man は長年にわたり著名人を引き寄せてきた — 起業家
 ---
 
 
+### 逸話・伝説
+
+1990年の移転時、警察によるビーチでの燃焼禁止が転機となり、砂漠への移動が決まった。
+Burning Man
+
+「Google Doodle」のルーツにBurning Man での創業者の休暇告知が関係しているという面白い話（企業文化と祭りの交差）。
+
+2000年代以降、巨大な「アート自動車（mutant vehicles）」や火を使った彫刻が注目を浴び、世界中のメディアで紹介されるようになる。
+
+---
+
+#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
+### 関連書籍
+
+
+|    年代 | 雑誌／メディア                 | 備考・関係性               | リンク        |
+| ----: | --------------------------- | ------------------------- | ----------------- |
+|    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
+|    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
+
+---
+
+
+### 現代的な意味と課題
+
+Burning Man は創造性のハブとしての側面を保ちつつ、商業化や安全・環境問題、そして「誰のためのバーンか？」という問いに直面している。コミュニティは持続可能性の取り組み（Leave No Trace やアート・グラント）を強化し、リージョナル・ネットワークでの知識共有を進めている。
+
+---
+
+#### Burning Man 2025: The Man Burns
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 年ごとのテーマ（概要）
 
 1996年以降、イベントは毎年「アートテーマ」を掲げる（例：2000年『The Body』など）。テーマはアーティストやキャンプの表現に方向性を与え、公共空間での対話を引き出すトリガーとなる。公式アーカイブには年別テーマや設置アートの記録が残されている。
 
 ---
-
 
 ### 年別テーマ一覧
 
@@ -107,47 +147,6 @@ flowchart TD
     A2024 --> A2025["2025 : Tomorrow Today"]
 
 </div>
-
----
-
-### 逸話・伝説
-
-1990年の移転時、警察によるビーチでの燃焼禁止が転機となり、砂漠への移動が決まった。
-Burning Man
-
-「Google Doodle」のルーツにBurning Man での創業者の休暇告知が関係しているという面白い話（企業文化と祭りの交差）。
-
-2000年代以降、巨大な「アート自動車（mutant vehicles）」や火を使った彫刻が注目を浴び、世界中のメディアで紹介されるようになる。
-
----
-
-#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-
-### 関連書籍
-
-
-|    年代 | 雑誌／メディア                 | 備考・関係性               | リンク        |
-| ----: | --------------------------- | ------------------------- | ----------------- |
-|    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
-|    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
-
----
-
-
-### 現代的な意味と課題
-
-Burning Man は創造性のハブとしての側面を保ちつつ、商業化や安全・環境問題、そして「誰のためのバーンか？」という問いに直面している。コミュニティは持続可能性の取り組み（Leave No Trace やアート・グラント）を強化し、リージョナル・ネットワークでの知識共有を進めている。
-
----
-
-#### Burning Man 2025: The Man Burns
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
