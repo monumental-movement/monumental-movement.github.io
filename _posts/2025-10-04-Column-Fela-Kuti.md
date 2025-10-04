@@ -39,6 +39,10 @@ Felaの音楽は、長尺（10分〜30分）の反復的グルーヴ、力強い
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kr8oRpA2SpE?si=dvGPCJzJmMchpXmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 政治・カルチャーとしての活動
 
 フェラは自身の邸宅を「Kalakuta Republic（カラクトゥ共和国）」と宣言し、共同体、スタジオ、劇場的空間として運営。軍政への痛烈な批判が繰り返され、警察や軍による襲撃や拘束、拷問エピソードも多く残る（有名な事件の一つが“Expensive Shit”の逸話）。これらの闘争的な姿勢が彼をナイジェリアの「声なき者の声（voice of the voiceless）」にした一方、肉体的代償も伴った。
@@ -67,8 +71,17 @@ flowchart TD
 
 **Koola Lobitos（初期）**→ Africa ’70（最も象徴的な編成）→ Egypt 80（80年以降の編成）。各期でメンバーが入れ替わりつつも、ホーン隊・コーラス・リズム隊の大所帯編成が特徴。
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfpRVjkPHpY?si=Bfqk4EXzfqjqgBXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **トニー・アレン（Tony Allen）**：共同でアフロビートのリズムを構築したドラマー。彼の死（2020年）はジャンルにとって大きな損失だったが、アフロビートの核は残る。
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzlrorBkYok?si=wrcO-z79XZlElKht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -157,6 +170,9 @@ flowchart TD
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUqIR_DpPkA?si=uyVW6Ufb82FZYtvS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 #### スーン・クティ（Seun Kuti）
 
@@ -167,6 +183,11 @@ Egypt 80を率いて父のスタイルを直接継承。
 『Black Times』（2018）ではヒップホップやロックとも交差。
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hADxHPEekqg?si=-EkF6aQ8HjBzkohj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 
 ### 現在の遺産と評価
 
