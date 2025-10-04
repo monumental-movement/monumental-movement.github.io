@@ -51,32 +51,6 @@ Anticonは1998年、**Sole（Tim Holland）** や **Doseone（Adam Drucker）**�
 
 ---
 
-### Anticonの相関図
-
-<div class="mermaid">
-
-flowchart LR
-  Doseone((Doseone))
-  Sole((Sole))
-  Jel((Jel))
-  OddNosdam((Odd Nosdam))
-  Yoni((Yoni Wolf / Why?))
-  Ped((Pedestrian))
-  Alias((Alias))
-
-  Doseone --> cLOUDDEAD[cLOUDDEAD<br/>(with Why? & Odd Nosdam)]
-  Yoni --> cLOUDDEAD
-  OddNosdam --> cLOUDDEAD
-
-  Doseone --> Themselves[Themselves<br/>(Doseone & Jel)]
-  Jel --> Themselves
-
-  Doseone --> Subtle[Subtle<br/>(Doseone + others)]
-  Alias --> SoloProjects[Alias (solo/productions)]
-  Sole --> SoloSole[Sole (solo, Skyrider Band)]
-</div>
-
----
 
 ### 年代別おすすめアルバム
 
@@ -92,30 +66,6 @@ flowchart LR
 
 ---
 
-
-### Anticon主要アーティスト別ディスコグラフィ（年表付）
-
-<div class="mermaid">
-
-flowchart LR
-    "1998\nDeep Puddle Dynamics\n'The Taste of Rain... Why Kneel?'" --> "1999\nSole\n'Bottle of Humans'"
-    "1999\nSole\n'Bottle of Humans'" --> "2000\nAlias\n'The Other Side of the Looking Glass'"
-    "2000\nAlias\n'The Other Side of the Looking Glass'" --> "2001\ncLOUDDEAD\n'cLOUDDEAD'"
-    "2001\ncLOUDDEAD\n'cLOUDDEAD'" --> "2002\nThemselves\n'The No Music'"
-    "2002\nThemselves\n'The No Music'" --> "2003\nAlias\n'Muted'"
-    "2003\nAlias\n'Muted'" --> "2004\nSubtle\n'A New White'"
-    "2004\nSubtle\n'A New White'" --> "2005\nWhy?\n'Elephant Eyelash'"
-    "2005\nWhy?\n'Elephant Eyelash'" --> "2006\nOdd Nosdam\n'Level Live Wires'"
-    "2006\nOdd Nosdam\n'Level Live Wires'" --> "2009\nWhy?\n'Eskimo Snow'"
-    "2009\nWhy?\n'Eskimo Snow'" --> "2012\nThemselves\n'CrownsDown & Company'"
-    "2012\nThemselves\n'CrownsDown & Company'" --> "2014\nSole\n'Death Drive' (Sole & DJ Pain 1)"
-    "2014\nSole\n'Death Drive' (Sole & DJ Pain 1)" --> "2016\nDoseone\n'G is for Deep'"
-    "2016\nDoseone\n'G is for Deep'" --> "2018\nAlias\n*逝去、レーベル解散期へ*"
-
-
-</div>
-
----
 
 
 ### アーティスト別ディスコグラフィ
