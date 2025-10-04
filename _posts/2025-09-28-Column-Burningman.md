@@ -157,6 +157,11 @@ flowchart TD
 この頃から、火とアートを組み合わせた参加型体験が恒例化し、現代のバーニングマンアート文化の基盤を形成しました。
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 1996年：Decommodification
 
 1996年は、バーニングマンが「フェスティバル」からコミュニティ実験都市への変革を加速させた年。
@@ -165,11 +170,19 @@ flowchart TD
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 1997年：Fertility
 
 1997年は、Burning Manの 自然・生命・再生という象徴性 が初めてテーマの中心に据えられた年。
 
 以降のテーマ（2004 Vault of Heaven、2012 Fertility 2.0など）に受け継がれる「生命・創造力の祝祭」の原型。
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztfr8tCtgKU?si=FvHFqF32tTShOAF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -203,11 +216,19 @@ flowchart TD
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9z7hI9TFw0?si=1Z23mcql7HzZWVrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 2002年：The Floating World
 
 「浮世（うきよ）」をモチーフに、仮設世界・非日常の拡張という観点でアートが構築。
 
 水中感覚、浮遊感、幻想性を備えた構造体が出現。
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gv9e1Yr9ix8?si=1cvhnJ616UBN-4Fr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -312,6 +333,10 @@ flowchart TD
 ### 2018年：I, Robot
 
 ロボット・機械・人工知能・自律性をテーマに。サイバーパンク風、機械構造、インタラクティブ・ロボティクス寄与作品が多く登場。
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16UszjoW4sg?si=-3uyjTAsUmvMS6Mx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
