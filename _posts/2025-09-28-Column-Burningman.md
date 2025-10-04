@@ -192,6 +192,8 @@ flowchart TD
 
 例えば、「30フィートの浮遊体 (luminous float) “Nebulous Entity”」という作品が報じられている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SIseIo_dwM?si=-dxRV0AUEZB4f8lN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### 1999年：The Wheel of Time
