@@ -186,15 +186,11 @@ flowchart TD
 
 例えば、「30フィートの浮遊体 (luminous float) “Nebulous Entity”」という作品が報じられている。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SIseIo_dwM?si=-dxRV0AUEZB4f8lN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 1999年：The Wheel of Time
 
 時の輪／循環性というテーマ。街区や通りの表示に惑星をモチーフとした改装がなされた。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxVdmdOUmMI?si=5_b4K-hr_IdLmvqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -272,8 +268,6 @@ flowchart TD
 
 アメリカ的夢／消費社会への問い。消費主義・神話・社会構造をテーマ化したアートが多く登場。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L20hC7K8NjY?si=RIHBYybjLAFEcNoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 2009年：Evolution – A Tangled Bank
@@ -287,8 +281,6 @@ flowchart TD
 #### 2010年：Metropolis – The Life of Cities
 
 都市論・都市の生命性を探るテーマ。建築的要素、都市構造の縮図とアレンジ、都市と人間の相互関係性を問うアートが展開された。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x0PSSpPXjQY?si=2x7du0pmja-VHz4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -318,8 +310,6 @@ flowchart TD
 
 キャラバンサライ（隊商宿／交易宿場）をモチーフ。人や物の移動、交易、旅路と停泊、文化交流を主題に据えたアートが構成された。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Ze1duv8iqE?si=6VaXD2hGp5XXcD-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 2015年：Carnival of Mirrors
@@ -341,8 +331,6 @@ flowchart TD
 #### 2017年：Radical Ritual
 
 儀礼性・儀式性の再構築をテーマに、参加者による儀礼パフォーマンス、インタラクティブな祭礼空間構築が重視。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uq60IH6hzHY?si=DDtiA-hxQI5HLi-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
