@@ -57,16 +57,16 @@ Stereo 35/MM のライナーノーツやプロモーションは「初めて聴�
 
 <div class="mermaid">
 
-timeline
-    title Enoch Light と Command Records の主な年表
-    1940s : Enoch Light — ビッグバンド／ラジオで活動
-    1955 : Grand Award Records 設立（Light が主導）
-    1959 : Command Records 創設 → Persuasive / Provocative シリーズ開始
-    1959 (10月) : Grand Award と Command を ABC-Paramount に売却
-    1961 : Stereo 35/MM（Carnegie Hall録音）が大ヒット
-    1970s : Command の活動縮小・終息（事実上の終焉）
-    2000s〜 : コレクターズアイテムとして再評価
+flowchart TD
+    A["1940s: Enoch Light — ビッグバンド／ラジオで活動"]
+    B["1955: Grand Award Records 設立（Light が主導）"]
+    C["1959: Command Records 創設 → Persuasive / Provocative シリーズ開始"]
+    D["1959 (10月): Grand Award と Command を ABC-Paramount に売却"]
+    E["1961: Stereo 35/MM（Carnegie Hall録音）が大ヒット"]
+    F["1970s: Command の活動縮小・終息（事実上の終焉）"]
+    G["2000s〜: コレクターズアイテムとして再評価"]
 
+    A --> B --> C --> D --> E --> F --> G
 </div>
 
 ---
@@ -74,11 +74,11 @@ timeline
 
 ### 代表的なシリーズとアルバム
 
-Persuasive Percussion（パースウェイシヴ・パーカッション）シリーズ（初出1959）
+Persuasive Percussion シリーズ（初出1959）
 打楽器を前面に出した“ステレオの見せ場”を意図したシリーズ。門外漢にもインパクトの強い選曲とレイアウトで人気を博した。ジャケットのグラフィックやゲートフォールドの解説も当時としては斬新。
 
 
-Provocative Percussion（プロヴォカティヴ・パーカッション）シリーズ
+Provocative Percussion シリーズ
 Persuasive の姉妹シリーズ。コンセプトは似ているが編曲やソロの見せ方に工夫が施され、Billboardチャートで高い順位を獲得した作品もある。
 
 
