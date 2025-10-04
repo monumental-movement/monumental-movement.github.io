@@ -134,3 +134,4 @@ Metroplex（Juan Atkins）やTransmat（Derrick May、※Transmat設立時期は
 
 🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
