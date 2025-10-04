@@ -31,29 +31,29 @@ color: #fff;
 </style>
 
 
-## 主なアーティストとそのソロワーク・コラボレーション
+### 主なアーティストとそのソロワーク・コラボレーション
 
-### ジョアン・ジルベルト（João Gilberto）
+#### ジョアン・ジルベルト（João Gilberto）
 
 - **ソロアルバム**: [『Chega de Saudade』（1959年）](https://amzn.to/3W7J1yt)、[『O Amor, o Sorriso e a Flor』（1960年）](https://amzn.to/4mXnymQ)
 - **コラボレーション**: スタン・ゲッツとの共演アルバム[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 ---
 
-### アントニオ・カルロス・ジョビン（Antônio Carlos Jobim）
+#### アントニオ・カルロス・ジョビン（Antônio Carlos Jobim）
 
 - **ソロアルバム**: 『The Composer of Desafinado Plays』（1963年）、『The Wonderful World of Antônio Carlos Jobim』（1965年）
 - **コラボレーション**: フランク・シナトラとの共演アルバム[『Francis Albert Sinatra & Antônio Carlos Jobim』（1967年）](https://amzn.to/42jb1Te)
 
 ---
 
-### スタン・ゲッツ（Stan Getz）
+#### スタン・ゲッツ（Stan Getz）
 
 - **ソロアルバム**: [『Jazz Samba』（1962年）](https://amzn.to/4q0kjh9)、『Big Band Bossa Nova』（1962年）
 - **コラボレーション**:[『Getz/Gilberto』（1964年）](https://amzn.to/4nAx9Ry) 
 
 ---
 
-### セルジオ・メンデス（Sérgio Mendes）
+#### セルジオ・メンデス（Sérgio Mendes）
 
 - **ソロアルバム**: 『Sérgio Mendes & Brasil '66』（1966年）
 - **コラボレーション**: 『Mas Que Nada』（1966年）
