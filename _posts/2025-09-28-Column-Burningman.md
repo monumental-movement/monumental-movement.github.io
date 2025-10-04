@@ -41,7 +41,7 @@ color: #fff;
 ---
 
 
-### 2004年の「10の原則」とその影響
+#### 2004年の「10の原則」とその影響
 
 組織的な発展の中で、2004年にLarry Harvey が提唱した「10の原則（Radical Inclusion、Gifting、Decommodification 等）」がコミュニティの価値観を整理し、イベントの文化的枠組みを与えた。これがBurning Man の「理念的核」として世界中のリージョナル・バーンに波及している。
 
@@ -150,43 +150,37 @@ flowchart TD
 
 ---
 
-### 1995年：Inferno
+#### 1995年：Inferno
 
 1995年のInfernoは、「Burning Manは単なる野外フェスではなく、燃焼儀礼・精神的再生の場」 という認識を参加者間に浸透させた重要な年です。
 
 この頃から、火とアートを組み合わせた参加型体験が恒例化し、現代のバーニングマンアート文化の基盤を形成しました。
 
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1996年：Decommodification
+#### 1996年：Decommodification
 
 1996年は、バーニングマンが「フェスティバル」からコミュニティ実験都市への変革を加速させた年。
 
 参加者が「体験そのものに価値を見出す」という価値観が浸透し、後の巨大アート作品やテーマ型都市の形成を支えました。
 
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1997年：Fertility
+#### 1997年：Fertility
 
 1997年は、Burning Manの 自然・生命・再生という象徴性 が初めてテーマの中心に据えられた年。
 
 以降のテーマ（2004 Vault of Heaven、2012 Fertility 2.0など）に受け継がれる「生命・創造力の祝祭」の原型。
 
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ztfr8tCtgKU?si=FvHFqF32tTShOAF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1998年：Nebulous Entity
+#### 1998年：Nebulous Entity
 
 謎めいた存在、宇宙や意識の曖昧さを探るテーマ。参加型の浮遊あるいは光を使ったインタラクティブ作品が目立った。
 
@@ -196,191 +190,233 @@ flowchart TD
 
 ---
 
-### 1999年：The Wheel of Time
+#### 1999年：The Wheel of Time
 
 時の輪／循環性というテーマ。街区や通りの表示に惑星をモチーフとした改装がなされた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxVdmdOUmMI?si=5_b4K-hr_IdLmvqX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2000年：The Body
+#### 2000年：The Body
 
 人体・肉体の表現・象徴が主題。身体性と美学、肉体の限界を試すインスタレーションが数多く。
 
 またこの年から Temple の設置が定着し始め、「Temple of the Mind」（あるいは類似コンセプト）など、精神性と構造性を併せ持つ設置が現れた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2001年：Seven Ages
+#### 2001年：Seven Ages
 
 人生の七段階、成長と変化、世代間関係を扱うテーマ。
 
 複数のアートやパフォーマンスで、人生の移ろいを象徴する構造物が設置された例あり。
 
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q9z7hI9TFw0?si=1Z23mcql7HzZWVrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2002年：The Floating World
+#### 2002年：The Floating World
 
 「浮世（うきよ）」をモチーフに、仮設世界・非日常の拡張という観点でアートが構築。
 
 水中感覚、浮遊感、幻想性を備えた構造体が出現。
 
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gv9e1Yr9ix8?si=1cvhnJ616UBN-4Fr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2003年：Beyond Belief
+#### 2003年：Beyond Belief
 
 宗教性、信仰、神秘、錯覚・超越の探求。テーマ・アート共に、儀式性・祈り・儀礼空間を意識した構成が多くなった。
 
 この年、テーマアート登録プロジェクト数が急増した。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMRjy6fyq3M?si=tlQKqDmEQ7kkSY5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2004年：The Vault of Heaven
+#### 2004年：The Vault of Heaven
 
 2004年は、“宇宙的視野” と “共同体の祈り” が結びついた年であり、その後の「Cargo Cult（2013）」や「I, Robot（2018）」といった科学／宇宙テーマの先駆けになったと評価されています。
 
 ベイエリアのNASAエンジニアやMITメディアラボ関係者も参加し、「サイエンス × アート × スピリチュアル」という三位一体の象徴的事例となりました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2005年：Psyche
+#### 2005年：Psyche
 
 心性／精神世界をテーマに、夢・無意識・内省を題材にした作品群が多く出現。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2006年：Hope & Fear
+#### 2006年：Hope & Fear
 
 希望と恐怖という対立軸を探索するテーマ。人類文明の脆弱さや未来志向を仄めかす構造体・メディアアートが見られた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZHkZPGotKE?si=f9gcwoPrptdlQawy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2007年：The Green Man
+#### 2007年：The Green Man
 
 自然と文明の関係を問い直すテーマ。「グリーンマン（植物・自然生起性の擬人像）」をモチーフにした構成。
 
 ただし、この年には巨大な石油掘削塔を模した燃焼アート “Crude Awakening” が論争を呼び批判された。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2008年：American Dream
+#### 2008年：American Dream
 
 アメリカ的夢／消費社会への問い。消費主義・神話・社会構造をテーマ化したアートが多く登場。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L20hC7K8NjY?si=RIHBYybjLAFEcNoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2009年：Evolution – A Tangled Bank
+#### 2009年：Evolution – A Tangled Bank
 
 進化・生態系・混交・相互関係性をテーマに。複雑系的な構造配置や生命ネットワークを模したアートが中心。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ArO22tMA7gg?si=6tD01mSyq0hg0BLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2010年：Metropolis – The Life of Cities
+#### 2010年：Metropolis – The Life of Cities
 
 都市論・都市の生命性を探るテーマ。建築的要素、都市構造の縮図とアレンジ、都市と人間の相互関係性を問うアートが展開された。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x0PSSpPXjQY?si=2x7du0pmja-VHz4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2011年：Rites of Passage
+#### 2011年：Rites of Passage
 
 通過儀礼、変遷、変容を主題に。個人の人生変化や集団儀礼空間としての構成要素を持つ祭礼的インスタレーションが目立った。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kFeTTvDE_FE?si=AU0Eg9q64h89l33Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2012年：Fertility 2.0
+#### 2012年：Fertility 2.0
 
 1997年の「Fertility」の再論・アップデート。創造性・再生・未来への萌芽をテーマ化。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2013年：Cargo Cult
+#### 2013年：Cargo Cult
 
 カーゴ・カルト（物質文化と信仰のズレ）をモチーフに、現代消費社会・貨物流通・儀礼化を問い直す。
 
 多くのキャンプや構造物が「信仰される物質」「贈与経済」のズレを表現。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZzNIBLctic?si=e0-U7reOmS08goVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2014年：Caravansary
+#### 2014年：Caravansary
 
 キャラバンサライ（隊商宿／交易宿場）をモチーフ。人や物の移動、交易、旅路と停泊、文化交流を主題に据えたアートが構成された。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Ze1duv8iqE?si=6VaXD2hGp5XXcD-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2015年：Carnival of Mirrors
+#### 2015年：Carnival of Mirrors
 
 鏡のカーニバルという装置性・反射・幻影のテーマ。鏡面構造、視覚トリック、フェスティバリズム的仕掛けが特徴。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FBAIXeXkQoA?si=fo8hXTolO3l_-ya1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2016年：Da Vinci’s Workshop
+#### 2016年：Da Vinci’s Workshop
 
 イタリア・ルネサンスを参照し、芸術・工学・発明・融合性を探るテーマ。創造と技術が交錯する構成要素が強化された。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2017年：Radical Ritual
+#### 2017年：Radical Ritual
 
 儀礼性・儀式性の再構築をテーマに、参加者による儀礼パフォーマンス、インタラクティブな祭礼空間構築が重視。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uq60IH6hzHY?si=DDtiA-hxQI5HLi-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2018年：I, Robot
+#### 2018年：I, Robot
 
 ロボット・機械・人工知能・自律性をテーマに。サイバーパンク風、機械構造、インタラクティブ・ロボティクス寄与作品が多く登場。
-
----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16UszjoW4sg?si=-3uyjTAsUmvMS6Mx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2019年：Metamorphoses
+#### 2019年：Metamorphoses
 
 変容・変態・トランスフォーメーションを軸に、動的変化や物質変換、鋳型破りのアート表現が目立つ。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3JNHYL9BvU?si=KwU509fqVsLra6mQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2020年：The Multiverse
+#### 2020年：The Multiverse
 
 本来は多宇宙（マルチバース）構想をテーマに。しかし COVID-19 の影響で現地フェスティバルは中止。仮想空間／オンライン空間での展開を模索。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bs4ZODVvHsQ?si=V5hiI7_OGObawTnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2021年：Reflective
+#### 2021年：Reflective
 
 現地開催が制限される中で、「反射・省察」をテーマとしたハイブリッド／仮想・物理融合型のアプローチ。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEbaZmcBOVU?si=NwUa9jui19bGIC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2022年：Waking Dreams
+#### 2022年：Waking Dreams
 
 夢醒め・起醒性をテーマに、夢と現実の揺らぎや、覚醒的視点を意識した構成が行われた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDy7FrYbCrE?si=cKVF2eoOdnBnm-2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2023年：Animalia
+#### 2023年：Animalia
 
 動物性・野生性・動物世界との共鳴をテーマ。生態系への問い、身体性、種間関係をモチーフに。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u_NrdzfDphE?si=NzNXASwS51ostH_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2024年：The Great Unknown
+#### 2024年：The Great Unknown
 
 未知性・予測不能性を主題とし、不確実性をアートで可視化する挑戦的構成が展開。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LwBJgkNxzI?si=z-IjIT3gFNfnNj4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
-### 2025年：Tomorrow Today
+#### 2025年：Tomorrow Today
 
 近未来・未来発明・社会構想を主軸に。「明日を今日に」具現化するアート、プロトタイピング、未来的対話空間を誘発する設計。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
