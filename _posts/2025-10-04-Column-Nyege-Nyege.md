@@ -94,11 +94,11 @@ Nyege Nyege Tapesの音楽は、アフリカ各地の伝統音楽と現代の電
 <div class="mermaid">
 
 flowchart TD
-    A[2000年代初頭: ダルエスサラームのスラム] --> B[女性MC中心の即興パフォーマンス]
-    B --> C[ストリートパーティで拡散]
-    C --> D[都市文化象徴化・ジェンダー平等表現]
-    D --> E[Nyege Nyege Tapesで国際的注目]
-    E --> F[世界のクラブ・フェスで演奏]
+    A["2000年代初頭: ダルエスサラームのスラム"] --> B["女性MC中心の即興パフォーマンス"]
+    B --> C["ストリートパーティで拡散"]
+        C --> D["都市文化象徴化・ジェンダー平等表現"]
+    D --> E["Nyege Nyege Tapesで国際的注目"]
+    E --> F["世界のクラブ・フェスで演奏"]
 
 </div>
 
@@ -128,10 +128,12 @@ flowchart TD
 ---
 
 <div class="mermaid">
+
 flowchart LR
-    Music[高速ビート + ラップ] --> Dance[ダンス・パフォーマンス]
-    Dance --> Community[若者文化・連帯形成]
-    Community --> Festivals[Nyege Nyege Festival等]
+    Music["高速ビート + ラップ"] --> Dance["ダンス・パフォーマンス"]
+    Dance --> Community["若者文化・連帯形成"]
+    Community --> Festivals["Nyege Nyege Festival等"]
+
 </div>
 
 ---
@@ -170,11 +172,11 @@ flowchart LR
 <div class="mermaid">
 
 flowchart TD
-    A[伝統: ララカラカの祭礼音楽] --> B[村祭り・結婚式で演奏]
-    B --> C[都市部で電子音楽融合]
-    C --> D[Nyege Nyege Tapesで紹介]
-    D --> E[クラブ・フェスで即興パフォーマンス]
-    E --> F[国際的注目とコラボレーション]
+    A["伝統: ララカラカの祭礼音楽"] --> B["村祭り・結婚式で演奏"]
+    B --> C["都市部で電子音楽融合"]
+    C --> D["Nyege Nyege Tapesで紹介"]
+    D --> E["クラブ・フェスで即興パフォーマンス"]
+    E --> F["国際的注目とコラボレーション"]
 
 </div>
 
@@ -200,10 +202,12 @@ flowchart TD
 ---
 
 <div class="mermaid">
+
 flowchart LR
-    Music[ララカラカ + 電子音楽] --> Dance[即興ダンス]
-    Dance --> Community[文化・コミュニティ形成]
-    Community --> Festivals[Nyege Nyege Festival等]
+    Music["ララカラカ + 電子音楽"] --> Dance["即興ダンス"]
+    Dance --> Community["文化・コミュニティ形成"]
+    Community --> Festivals["Nyege Nyege Festival等"]
+
 </div>
 
 ---
@@ -239,11 +243,11 @@ Nyege Nyege Tapesを通じて世界に紹介され、アフリカ北部文化の
 <div class="mermaid">
 
 flowchart TD
-    A[伝統: マロヤ音楽] --> B[奴隷・移民文化による生活・労働表現]
-    B --> C[20世紀: 制限下で伝承]
-    C --> D[2000年代: 電子音楽融合開始]
-    D --> E[クラブ・フェスで演奏・国際的注目]
-    E --> F[現代: グローバル電子音楽コミュニティに拡散]
+    A["伝統: マロヤ音楽"] --> B["奴隷・移民文化による生活・労働表現"]
+    B --> C["20世紀: 制限下で伝承"]
+    C --> D["2000年代: 電子音楽融合開始"]
+    D --> E["クラブ・フェスで演奏・国際的注目"]
+    E --> F["現代: グローバル電子音楽コミュニティに拡散"]
 
 </div>
 
