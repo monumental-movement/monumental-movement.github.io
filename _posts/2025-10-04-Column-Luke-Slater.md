@@ -7,7 +7,7 @@ tags: [ Techno, Acid, UK Techno ]
 image: ../assets/images/column-luke-slater.webp
 ---
 
-##  Luke Slater: UKテクノの革新者と多彩なプロジェクトの全貌
+## UKテクノの革新者と多彩なプロジェクトの全貌
 
 文：mmr｜テーマ：Luke Slater＝英国テクノの先駆者とその音楽世界を考察
 
