@@ -296,8 +296,6 @@ flowchart TD
 
 通過儀礼、変遷、変容を主題に。個人の人生変化や集団儀礼空間としての構成要素を持つ祭礼的インスタレーションが目立った。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kFeTTvDE_FE?si=AU0Eg9q64h89l33Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 2012年：Fertility 2.0
@@ -313,8 +311,6 @@ flowchart TD
 カーゴ・カルト（物質文化と信仰のズレ）をモチーフに、現代消費社会・貨物流通・儀礼化を問い直す。
 
 多くのキャンプや構造物が「信仰される物質」「贈与経済」のズレを表現。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VZzNIBLctic?si=e0-U7reOmS08goVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -354,8 +350,6 @@ flowchart TD
 
 ロボット・機械・人工知能・自律性をテーマに。サイバーパンク風、機械構造、インタラクティブ・ロボティクス寄与作品が多く登場。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/16UszjoW4sg?si=-3uyjTAsUmvMS6Mx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 2019年：Metamorphoses
@@ -370,8 +364,6 @@ flowchart TD
 
 本来は多宇宙（マルチバース）構想をテーマに。しかし COVID-19 の影響で現地フェスティバルは中止。仮想空間／オンライン空間での展開を模索。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bs4ZODVvHsQ?si=V5hiI7_OGObawTnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 #### 2021年：Reflective
@@ -385,8 +377,6 @@ flowchart TD
 #### 2022年：Waking Dreams
 
 夢醒め・起醒性をテーマに、夢と現実の揺らぎや、覚醒的視点を意識した構成が行われた。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DDy7FrYbCrE?si=cKVF2eoOdnBnm-2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
