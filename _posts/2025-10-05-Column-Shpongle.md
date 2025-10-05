@@ -225,6 +225,7 @@ Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW
 | **Younger Brother** | 内的精神探求   | 感情・叙情性  | 有機的／ポップ寄り |
 | **Shpongle**        | 意識と宇宙の融合 | 哲学・霊性   | 超構築的・多層音響 |
 
+---
 
 #### Hallucinogen (Simon Posford) @ Ozora Festival 2015
 
@@ -277,6 +278,8 @@ Shpongleは音だけでなく、視覚芸術との共鳴によって完成する
 | ----------------- | ----------------- | ---------- |
 | **Android Jones** | Shpongletronビジュアル | 視覚的マンダラ生成  |
 | **Alex Grey**     | 「音＝光＝意識」テーマ共有     | 人体と宇宙の融合表現 |
+
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_YJToyOp_4?si=xSThr0iCbMTQs76U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
