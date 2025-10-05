@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Shpongle：音の輪廻と意識の旅"
 author: mmr
 categories: [ Column ]
-tags: [ Psy-Trance, Goa, Trance, Psychedelic ]
+tags: [ Psy-Trance, Goa, Psychedelic ]
 image: ../assets/images/column-shpongle.webp
 ---
 
@@ -73,14 +73,14 @@ Shpongleはその哲学的象徴だった。
 
 ## 第二章：アルバムで辿るShpongleの音響進化
 
-| 年    | アルバム名          | コンセプト       | 代表曲       | リンク                  |
-| ---- | ----------- | ----------- | ------------- | -------------- |
-| 1998 | *Are You Shpongled?*             | 音の旅の出発点     | “Divine Moments of Truth”                 | [Amazon](https://amzn.to/4pQRXpz) |
-| 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | “My Head Feels Like a Frisbee”            | [Amazon](https://amzn.to/46U26sT) |
-| 2005 | *Nothing Lasts... But Nothing Is Lost*  | 音の無常と再生     | “Once Upon the Sea of Blissful Awareness” | [Amazon](https://amzn.to/3Wk98SG) |
-| 2009 | *Ineffable Mysteries from Shpongleland* | 神秘体験の音響化    | “Nothing Is Something Worth Doing”        | [Amazon](https://amzn.to/4mKX73D) |
-| 2013 | *Museum of Consciousness*               | 意識の博物館      | “The Epiphany of Mrs. Kugla”              | [Amazon](https://amzn.to/3VPumaU) |
-| 2017 | *Codex VI*                              | 意識の書物＝輪廻の完成 | “The Magumba State”                       | [Amazon](https://amzn.to/46DNy1D) |
+| 年    | アルバム名          | コンセプト       | リンク                  |
+| ---- | ----------- | ----------- | -------------- |
+| 1998 | *Are You Shpongled?*          | 音の旅の出発点     | [Amazon](https://amzn.to/4pQRXpz) |
+| 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | [Amazon](https://amzn.to/46U26sT) |
+| 2005 | *Nothing Lasts... But Nothing Is Lost*  | 音の無常と再生     | [Amazon](https://amzn.to/3Wk98SG) |
+| 2009 | *Ineffable Mysteries from Shpongleland* | 神秘体験の音響化    | [Amazon](https://amzn.to/4mKX73D) |
+| 2013 | *Museum of Consciousness*               | 意識の博物館      | [Amazon](https://amzn.to/3VPumaU) |
+| 2017 | *Codex VI*                              | 意識の書物＝輪廻の完成 | [Amazon](https://amzn.to/46DNy1D) |
 
 
 ---
