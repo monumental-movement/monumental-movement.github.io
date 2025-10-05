@@ -288,7 +288,7 @@ AIやストリーミングの時代にあって、細野は“静けさ”を再
 
 ---
 
-#### 📚 参考文献・リンク
+#### 参考文献・リンク
 
 - [細野晴臣 Official Site](https://hosonoharuomi.jp/)  
 - [YMO Official](https://ymo.org/)  
