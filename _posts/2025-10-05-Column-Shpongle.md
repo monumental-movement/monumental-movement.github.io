@@ -3,8 +3,8 @@ layout: post
 title:  "【コラム】 Shpongle：音と意識の輪廻 "
 author: mmr
 categories: [ Column ]
-tags: [ African, Tribal, History ]
-image: ../assets/images/column-nyege-nyege.webp
+tags: [ Psy-Trance, Goa, Trance, Psychedelic ]
+image: ../assets/images/column-shpongle.webp
 ---
 
 ## Shpongle徹底分析
