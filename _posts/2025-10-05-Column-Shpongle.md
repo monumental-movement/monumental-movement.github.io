@@ -281,7 +281,15 @@ Shpongleは音だけでなく、視覚芸術との共鳴によって完成する
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_YJToyOp_4?si=xSThr0iCbMTQs76U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### SHPONGLEDROID
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Alex Grey & Shpongle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
