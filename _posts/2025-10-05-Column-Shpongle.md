@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Shpongle：音の輪廻と意識の旅"
 author: mmr
 categories: [ Column ]
-tags: [ Psy-Trance, Goa, Psychedelic ]
+tags: [ Psy-Trance, Trance, Psychedelic ]
 image: ../assets/images/column-shpongle.webp
 ---
 
