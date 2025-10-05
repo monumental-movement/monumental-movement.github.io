@@ -142,6 +142,8 @@ Android Jonesのヴィジュアルが音と同期。
 Raja Ramは「儀式の導師」、Posfordは「音の錬金術師」として舞台に立つ。
 ライブそのものが瞑想体験の延長となっている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 第五章：Raja Ramの思想史とヒンドゥー哲学
@@ -150,6 +152,10 @@ Raja Ramは「儀式の導師」、Posfordは「音の錬金術師」として�
 
 1960年代末、Raja RamはQuintessenceを率い、ヒンドゥー哲学をロックに導入。
 「音＝悟り」「音＝神（Nāda Brahma）」という思想を音楽的に実践した。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 <div class="mermaid">
 
@@ -178,6 +184,8 @@ flowchart TD
 
 Raja Ramにとって音は祈りであり、Shpongleはそのマントラである。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 第六章：Simon Posford - 音響魔術師の制作哲学
@@ -186,6 +194,7 @@ Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW
 音の層を何十にも重ね、「脳波との共鳴」を意図的に設計する。
 彼の作品では、低音域＝身体、倍音＝意識、残響＝霊性という三層構造が一貫している。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -204,6 +213,8 @@ Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW
 > 「音を作るというより、“現れる音”を導く感覚なんだ。」
 > — Simon Posford
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 第七章：Younger Brother / Hallucinogenとの比較分析
@@ -213,6 +224,16 @@ Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW
 | **Hallucinogen**    | 外的幻覚     | 化学的トランス | BPM速・鋭い   |
 | **Younger Brother** | 内的精神探求   | 感情・叙情性  | 有機的／ポップ寄り |
 | **Shpongle**        | 意識と宇宙の融合 | 哲学・霊性   | 超構築的・多層音響 |
+
+
+#### Hallucinogen (Simon Posford) @ Ozora Festival 2015
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Younger Brother "Spinning Into Place"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -241,6 +262,8 @@ Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW
 科学的には、α波・θ波が優位化し、深い瞑想状態に導かれる。
 Shpongleの音は脳内寺院の鐘のようなものだ。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 第九章：サイケデリック・ヴィジュアルとの共振
@@ -254,6 +277,8 @@ Shpongleは音だけでなく、視覚芸術との共鳴によって完成する
 | ----------------- | ----------------- | ---------- |
 | **Android Jones** | Shpongletronビジュアル | 視覚的マンダラ生成  |
 | **Alex Grey**     | 「音＝光＝意識」テーマ共有     | 人体と宇宙の融合表現 |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_YJToyOp_4?si=xSThr0iCbMTQs76U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
