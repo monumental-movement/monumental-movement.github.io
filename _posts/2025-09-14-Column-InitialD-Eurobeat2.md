@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 頭文字Dと音楽が交差したスピードの記憶"
 author: mmr
 categories: [ Column ]
-tags: [ Euro, Eurobeat, 80s, 90s]
+tags: [ Euro, Eurobeat, Car, 80s, 90s]
 image: ../assets/images/column-initiald-eurobeat2.webp
 ---
 
