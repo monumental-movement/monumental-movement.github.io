@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Krautrock（クラウトロック）通史 ― 無限運動としてのドイツ実験音楽"
 author: mmr
 categories: [ Column ]
-tags: [ Krautrock, History, Techno, Post Rock ]
+tags: [ Krautrock, History, Techno ]
 image: ../assets/images/column-krautrock.webp
 ---
 
@@ -276,7 +276,7 @@ flowchart TD
 
 - **ベルリン**：Tangerine Dream, Klaus Schulze
 
-- **Forst（ニーダーザクセン）**：Cluster, Harmonia
+- **ニーダーザクセン**：Cluster, Harmonia
 
 > 各都市の距離は近いが、音の思想は驚くほど異なっていた。
 > クラウトロックとは、都市ごとの「音の哲学地図」である。
