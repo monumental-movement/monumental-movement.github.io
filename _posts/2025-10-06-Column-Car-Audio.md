@@ -228,13 +228,13 @@ color: #fff;
 ---
 
 
-| ブランド | モデル | システム | スピーカー数 | 出力 | 特徴 |
-|-----------|-------|----------|---------------|-------|------|
-| Jaguar | F-Pace | Meridian | 14 | 825W | Trifield 3D |
-| Land Rover | Evoque | Meridian | 19 | 825W | 3Dサラウンド |
-| Aston Martin | Vantage | B&W | 15 | 1,170W | Nautilusツイーター |
-| Bentley | Bentayga | Naim | 20 | 1,960W | 自動音質補正 |
-| Rolls-Royce | Phantom | Bespoke | 18 | 1,300W | スタジオ品質 |
+| ブランド/モデル | システム | スピーカー数/出力 | 特徴 |
+|-----------|----------|-------|------|
+| Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
+| Land Rover/Evoque | Meridian | 19/825W | 3Dサラウンド |
+| Aston Martin/Vantage | B&W | 15/1,170W | Nautilusツイーター |
+| Bentley/Bentayga | Naim | 20/1,960W | 自動音質補正 |
+| Rolls-Royce/Phantom | Bespoke | 18/1,300W | スタジオ品質 |
 
 ---
 
