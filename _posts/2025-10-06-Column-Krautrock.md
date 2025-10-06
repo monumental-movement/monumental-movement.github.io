@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "【コラム】 クラウトロック通史 ― 無限運動としてのドイツ実験音楽"
+title:  "【コラム】 Krautrock（クラウトロック）通史 ― 無限運動としてのドイツ実験音楽"
 author: mmr
 categories: [ Column ]
-tags: [ Krautrock, History, German Rock ]
+tags: [ Krautrock, History, Techno, Post Rock ]
 image: ../assets/images/column-krautrock.webp
 ---
 
