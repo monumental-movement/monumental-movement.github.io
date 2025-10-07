@@ -14,7 +14,6 @@ image: ../assets/images/column-ween.webp
 
 > アメリカの郊外にひっそりと佇むガレージ。  
 > その暗がりから、ひとつの神が生まれた——Boognish。
-
 > ——それは、ジャンルを笑いながら飛び越える音楽そのもの。
 > Boognishの微笑みの中に、世界中の音楽の断片が詰まっている。
 
@@ -60,7 +59,7 @@ GeneとDean。
 Geneは感情とカオスの化身、Deanは構築と技巧の職人。  
 ふたりがぶつかる瞬間、Ween特有の混沌と魔法が生まれる。
 
-[The Pod](https://amzn.to/3IWmqBO)（1991）では、安物マイクと古びた4トラックが生み出す  
+[『The Pod』](https://amzn.to/3IWmqBO)（1991）では、安物マイクと古びた4トラックが生み出す  
 **“汚れた美”**が支配している。歪んだボーカル、くぐもったドラム、  
 それでも全体は完璧にWeenであった。  
 まるでBoognishが機材の中に宿っていたかのようだ。
@@ -95,7 +94,7 @@ HomesteadやShimmy Discといったインディ・レーベルが、Weenの狂�
 > 「ジャンルなんて関係ない。好きな音楽を全部ぶち込むだけさ。」  
 > — *Dean Ween, 1994 Interview*
 
-1994年の[Chocolate and Cheese](https://amzn.to/3KCBkh0)は、  
+1994年の[『Chocolate and Cheese』](https://amzn.to/3KCBkh0)は、  
 Weenがローファイの洞窟からスタジオへ飛び出した最初の傑作だ。  
 ポップ、ファンク、カントリー、プログレ、ソウル……すべてが衝突し、  
 下品と高尚が奇跡的に共存する。
@@ -120,7 +119,7 @@ Weenはその両方だったのだから。
 > 「カントリーをバカにしてるんじゃない。本気で好きすぎるんだ。」  
 > — *Dean Ween, 1996 Interview*
 
-[12 Golden Country Greats](https://amzn.to/4h0yO0c)は、  
+[『12 Golden Country Greats』](https://amzn.to/4h0yO0c)は、  
 わずか12曲で構成された“偽カントリー”アルバム。  
 しかし演奏しているのは本物のナッシュビル・セッション・ミュージシャンたちだった。  
 Weenは彼らと共に、カントリーの形式を崩壊させ、  
@@ -134,7 +133,7 @@ Weenは彼らと共に、カントリーの形式を崩壊させ、
 > 「海は無限だ。私たちの音楽もそうでありたい。」  
 > — *Gene Ween, 1997 Interview*
 
-[The Mollusk](https://amzn.to/48hvb3D)は、  
+[『The Mollusk』](https://amzn.to/48hvb3D)は、  
 Weenの音楽的宇宙が最も豊かに広がった瞬間だ。  
 “**Ocean Man**”を筆頭に、海洋神話を題材としたサイケデリック・ポップの金字塔。  
 Brian WilsonのロマンとCaptain Beefheartの狂気を、  
@@ -166,12 +165,12 @@ Deanは**The Dean Ween Group**を結成し、別の形でWeenの魂を繋いだ�
 
 ## 『Quebec』〜『La Cucaracha』：黄昏の実験室
 
-[Quebec](https://amzn.to/46TMe9M)（2003）は、  
+[『Quebec』](https://amzn.to/46TMe9M)（2003）は、  
 内省とサイケデリアの融合点にある作品だ。  
 笑いよりも、孤独と静けさが前面に出た。  
 Weenが初めて“成熟”という言葉と向き合った瞬間だった。
 
-そして2007年の[La Cucaracha](https://amzn.to/48d1z7y)。  
+そして2007年の[『La Cucaracha』](https://amzn.to/48d1z7y)。  
 タイトルは“ゴキブリ”。  
 その名の通り、どんなに叩かれても死なない生命力を象徴する。  
 この作品には、Weenという存在そのものの皮肉と美が凝縮されている。
