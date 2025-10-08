@@ -57,7 +57,7 @@ KraftwerkやNeu!といったクラウトロック、Velvet Undergroundの冷た�
 **「ライブ・パフォーマンスの魔力」**  
 Joy Divisionの初期ライブは、暗い照明とカーティスの独特の舞踏を伴い、観客を圧倒。限られた観客の間で伝説化したステージは、後のニューウェーブ／ポストパンク世代に大きな影響を与えた。
 
-Amazonで購入 → [Unknown Pleasures](https://amzn.to/4nB2T91)
+Amazonで購入 → [Unknown Pleasures](https://amzn.to/4h2l8BW)
 
 ---
 
@@ -72,7 +72,7 @@ Amazonで購入 → [Unknown Pleasures](https://amzn.to/4nB2T91)
 **「最後の夜」**  
 1979年5月18日、イアン・カーティスはマンチェスターの自宅で亡くなる。悲劇はバンドメンバーとファンに衝撃を与え、音楽史に深い影を落とした。
 
-Amazonで購入 → [Closer](https://amzn.to/48iwP5a)
+Amazonで購入 → [Closer](https://amzn.to/48mYLF8)
 
 ---
 
@@ -87,7 +87,7 @@ Amazonで購入 → [Closer](https://amzn.to/48iwP5a)
 **「最初のヒット」**  
 1983年、12インチシングル『Blue Monday』が発売され、全世界でヒット。クラブカルチャーと商業音楽を橋渡しした象徴的作品となる。
 
-Amazonで購入 → [Power Corruption & Lies](https://amzn.to/4q57XV1)
+Amazonで購入 → [Power Corruption & Lies](https://amzn.to/46WqNET)
 
 ---
 
@@ -102,7 +102,7 @@ HaçiendaはNew Orderの楽曲がDJセットで鳴る舞台となり、バンド
 **「地域性が生む音楽的個性」**  
 マンチェスターの灰色の工業都市環境は、冷たくも叙情的な音楽スタイルを生む土壌となった。都市と音楽の関係性は、後世のアーティストに多大な影響を与えた。
 
-Amazonで購入 → [Movement](https://amzn.to/42tBUDV)
+Amazonで購入 → [Movement](https://amzn.to/4mXprzN)
 
 ---
 
@@ -117,7 +117,7 @@ Peter Savilleによるアートワークは、音楽と視覚を結びつけ、N
 **「メンバー間の協働と摩擦」**  
 Sumner、Hook、Morris、Gillian Gilbertの4人の役割分担と意見の衝突は、音楽の進化と同時にバンド内の緊張感を生む。摩擦は創造性の原動力にもなった。
 
-Amazonで購入 → [Technique](https://amzn.to/4gZ2TNM)
+Amazonで購入 → [Technique](https://amzn.to/4mREPgX)
 
 ---
 
@@ -132,7 +132,7 @@ Amazonで購入 → [Technique](https://amzn.to/4gZ2TNM)
 **「終わらない旅」**  
 解散と再結成を経て、Joy Divisionの遺産はNew Orderの活動を通じて生き続ける。音楽と人間の物語は、都市の陰影と希望を映す鏡となる。
 
-Amazonで購入 → [Still](https://amzn.to/4gWjgux)
+Amazonで購入 → [Still](https://amzn.to/4mXpD1Z)
 
 ---
 
@@ -147,7 +147,7 @@ BBCセッションやデモ音源には、後にアルバム化されなかっ�
 **「機材・録音技術の変遷」**  
 Martin Hannettのプロダクション技術から、シンセサイザーやドラムマシンの導入まで、機材選択は音楽性の変化と密接に関わった。
 
-Amazonで購入 → [Retro](https://amzn.to/48jqZjU)
+Amazonで購入 → [Retro](https://amzn.to/4obe2NR)
 
 ---
 

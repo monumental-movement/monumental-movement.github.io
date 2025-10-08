@@ -54,7 +54,8 @@ color: #fff;
 それは「逆さまの世界」への違和感であり、同時に「上昇しながらも迷走する心」の寓話でもある。  
 
 音響的には、Enoが得意とする滑らかなアンビエンスに、Caleの旋律的な意志が注入されている。  
-たとえば「Spinning Away」は、浮遊感と郷愁が絶妙に交錯する。シンセの粒子が海面の反射のようにきらめき、Caleの声が“遠ざかる陸地”を思わせる。  
+たとえば「Spinning Away」は、浮遊感と郷愁が絶妙に交錯する。シンセの粒子が海面の反射のようにきらめき、Caleの声が“遠ざかる陸地”を思わせる。 
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=YJjvrtUwKrDRz2mZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -100,6 +101,8 @@ Enoが90年代以降展開する「環境的ポップ」の先駆として、こ
 ## 第4章：音と映像の交差点——ユートピアの幻影としてのサウンド
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CPOz5-rcIeA?si=stzEH_FNmCqwBNin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Eno & Caleの音楽と『The Beach』の映像には、共通する感触がある。  
 それは「透明な焦燥」だ。  
@@ -152,8 +155,8 @@ EnoとCaleのコラボレーションは、一瞬の化学反応にすぎなか�
 
 | アーティスト／作品 | 年 | 備考 | リンク |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | コラボアルバム。人間的旋律と電子的透明さの融合。 | [Amazon]](https://amzn.to/3Ws7XRb) |
-| The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithlessなどが参加。海と孤独の音楽。 | [Amazon]](https://amzn.to/46WpS7z) 
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | コラボアルバム。人間的旋律と電子的透明さの融合。 | [Amazon]](https://amzn.to/48mDETk) |
+| The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithlessなどが参加。海と孤独の音楽。 | [Amazon]](https://amzn.to/47mrub1) 
 
 ---
 

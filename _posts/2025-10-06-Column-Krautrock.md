@@ -300,15 +300,15 @@ flowchart TD
 
 | アーティスト          | 代表作               | 年    | リンク                                        |
 | --------------- | ----------------- | ---- | ------------------------------------------------ |
-| CAN             | *Tago Mago*       | 1971 | [Amazon](https://amzn.to/4pWlyO5) |
-| Kraftwerk       | *Autobahn*        | 1974 | [Amazon](https://amzn.to/3VRTuOm) |
-| Neu!            | *Neu!*            | 1972 | [Amazon](https://amzn.to/4pVn9DV) |
-| Faust           | *The Faust Tapes* | 1973 | [Amazon](https://amzn.to/4gWK8KT) |
-| Tangerine Dream | *Phaedra*         | 1974 | [Amazon](https://amzn.to/3KCld31) |
-| Cluster         | *Zuckerzeit*      | 1974 | [Amazon](https://amzn.to/4778NsJ) |
-| Harmonia        | *Deluxe*          | 1975 | [Amazon](https://amzn.to/4gUlSc6) |
-| Popol Vuh       | *Aguirre*         | 1975 | [Amazon](https://amzn.to/47cqnLW) |
-| Klaus Schulze   | *Timewind*        | 1975 | [Amazon](https://amzn.to/46SNz0f) |
+| CAN             | *Tago Mago*       | 1971 | [Amazon](https://amzn.to/4oacFPq) |
+| Kraftwerk       | *Autobahn*        | 1974 | [Amazon](https://amzn.to/43abJlQ) |
+| Neu!            | *Neu!*            | 1972 | [Amazon](https://amzn.to/434MIbJ) |
+| Faust           | *The Faust Tapes* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
+| Tangerine Dream | *Phaedra*         | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
+| Cluster         | *Zuckerzeit*      | 1974 | [Amazon](https://amzn.to/47dKp8O) |
+| Harmonia        | *Deluxe*          | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
+| Popol Vuh       | *Aguirre*         | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
+| Klaus Schulze   | *Timewind*        | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
 
 
 ---
