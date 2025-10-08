@@ -82,7 +82,7 @@ Enoが90年代以降展開する「環境的ポップ」の先駆として、こ
 だが、その先に待っているのは幸福ではなく、共同体の狂気と個人の崩壊だった。
 
 ボイル監督は、トロピカルな風景を“眩しすぎる現実”として描いた。  
-『The Beach』の音楽も印象的だ。[**All Saints「Pure Shores」**](https://amzn.to/3J2C7r4)の透明なコーラス、[**Moby「Porcelain」**](https://amzn.to/3KEwOP8)の静謐な電子音。  
+『The Beach』の音楽も印象的だ。[**All Saints「Pure Shores」**](https://amzn.to/432zg8k)の透明なコーラス、[**Moby「Porcelain」**](https://amzn.to/46KLDZ2)の静謐な電子音。  
 それらは『Wrong Way Up』の延長線上にある、“電子的ユートピア”の残響だった。  
 
 ---
