@@ -124,6 +124,10 @@ flowchart TD
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6admmN7nAY?si=uV3XlfVm1xo5O6hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## 終章：未来への幻視 — サイケデリアは続く
 
 トロピカリアの精神は、半世紀を経た今も形を変え続けている。デジタル録音、AI生成音楽、そして映像芸術との融合を経て、ブラジルのアーティストたちは**「新しい幻覚」**を創造している。  
