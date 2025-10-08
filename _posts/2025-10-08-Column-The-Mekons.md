@@ -161,7 +161,7 @@ Mekonsの音楽は完璧ではない。だがその不完全さが、世界の�
 
 ---
 
-## 📚 The Mekons 主要ディスコグラフィー
+## The Mekons 主要ディスコグラフィー
 
 | 発売年 | タイトル | 備考 | リンク |
 |:--:|:--|:--|:--|
@@ -181,7 +181,7 @@ Mekonsの音楽は完璧ではない。だがその不完全さが、世界の�
 
 flowchart TD
     A1977["1977：Leeds Universityにて結成（Jon Langford, Tom Greenhalghら）"]
-    A1978 ["1978:シングル『Where Were You / I'll Have To Dance Then (On My Own)』 リリース
+    A1978 ["1978:シングル『Where Were You / I'll Have To Dance Then (On My Own)』 リリース"]
     A1978["1978：シングル『Never Been in a Riot』リリース"]
     A1979["1979：アルバム『The Quality of Mercy Is Not Strnen』"]
     A1985["1985：『Fear and Whiskey』発表 → カントリー路線へ転換"]
