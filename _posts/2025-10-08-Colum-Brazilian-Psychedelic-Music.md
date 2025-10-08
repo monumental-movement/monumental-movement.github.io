@@ -9,7 +9,7 @@ image: ../assets/images/column-Brazilian-Psychedelic-Music.webp
 
 ## 序章：ブラジル・サイケデリックの夜明け
 
-文：mmr｜テーマ：トロピカリア運動から現代リバイバルまで、ブラジルが生んだサイケデリック音楽の系譜を辿る長
+文：mmr｜テーマ：トロピカリア運動から現代リバイバルまで、ブラジルが生んだサイケデリック音楽の系譜を辿る
 
 1960年代後半、リオデジャネイロとサンパウロでは、政治的緊張と文化的実験が奇妙に共存していた。軍事政権下で言論統制が進む一方、若者たちは英米のロックに刺激を受け、新しい音の自由を求めた。その最前線に立ったのが**トロピカリア運動（Tropicália）**である。
 
@@ -122,11 +122,6 @@ flowchart TD
 | Boogarins | Manual | 2015 | [Amazon](https://www.amazon.co.jp/dp/B0000029DQ) |
 | Glue Trip | Glue Trip | 2016 | [Amazon](https://www.amazon.co.jp/dp/B0000029DQ) |
 
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t6admmN7nAY?si=uV3XlfVm1xo5O6hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
 
 ## 終章：未来への幻視 — サイケデリアは続く
 
