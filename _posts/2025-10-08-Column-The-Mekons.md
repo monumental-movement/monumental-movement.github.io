@@ -175,14 +175,14 @@ Mekonsの音楽は完璧ではない。だがその不完全さが、世界の�
 
 ---
 
-## 📊 Mermaid年表 — The Mekonsの歩み
+## 年表 — The Mekonsの歩み
 
 <div class="mermaid">
 
 flowchart TD
     A1977["1977：Leeds Universityにて結成（Jon Langford, Tom Greenhalghら）"]
-    A1978 ["1978:シングル『Where Were You / I'll Have To Dance Then (On My Own)』 リリース"]
-    A1978["1978：シングル『Never Been in a Riot』リリース"]
+    A1978a["1978：シングル『Where Were You / I'll Have To Dance Then (On My Own)』リリース"]
+    A1978b["1978：シングル『Never Been in a Riot』リリース"]
     A1979["1979：アルバム『The Quality of Mercy Is Not Strnen』"]
     A1985["1985：『Fear and Whiskey』発表 → カントリー路線へ転換"]
     A1989["1989：『The Mekons Rock ’n’ Roll』発表"]
@@ -191,5 +191,7 @@ flowchart TD
     A2013["2013：ドキュメンタリー映画『Revenge of the Mekons』公開"]
     A2019["2019：『Deserted』発表"]
     A2025["2025：活動継続中 — 音楽とアートの融合へ"]
+
+    A1977 --> A1978a --> A1978b --> A1979 --> A1985 --> A1989 --> A1993 --> A2000 --> A2013 --> A2019 --> A2025
 
 </div>
