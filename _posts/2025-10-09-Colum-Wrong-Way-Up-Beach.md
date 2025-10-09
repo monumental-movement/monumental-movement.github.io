@@ -163,15 +163,15 @@ EnoとCaleのコラボレーションは、一瞬の化学反応にすぎなか�
 <div class="mermaid">
 
 flowchart TD
-    title Brian Eno & John Cale と『The Beach』関連年表
+    A1989["1989: EnoとCale、ロンドンでコラボレーション開始"]
+    A1990["1990: アルバム『Wrong Way Up』リリース"]
+    A1991["1991: 収録曲『Spinning Away』が評価される"]
+    A1993["1993: Eno、U2『Zooropa』でプロデュースワークを拡大"]
+    A1995["1995: Cale、再びソロとして実験的作品を発表"]
+    A1999["1999: 映画『The Beach』撮影（タイ・ピピ島）"]
+    A2000["2000: 『The Beach』公開。MobyやAll Saintsの楽曲が話題に"]
 
-    A1989["1989：EnoとCale、ロンドンでコラボレーション開始"]
-    A1990["1990：アルバム『Wrong Way Up』リリース"]
-    A1991["1991：収録曲『Spinning Away』が評価される"]
-    A1993["1993：Eno、U2『Zooropa』でプロデュースワークを拡大"]
-    A1995["1995：Cale、再びソロとして実験的作品を発表"]
-    A1999["1999：映画『The Beach』撮影（タイ・ピピ島）"]
-    A2000["2000：『The Beach』公開。MobyやAll Saintsの楽曲が話題に"]
+    A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
 
 
 </div>
