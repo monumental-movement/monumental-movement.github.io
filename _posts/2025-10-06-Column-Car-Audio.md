@@ -46,8 +46,8 @@ color: #fff;
 
 | 製品名 | リンク | 
 |--------|--------------|
-| Mark Levinsonアンプ | [Amazon](https://a.r10.to/h5pi79) |
-| Mark Levinsonスピーカー | [Amazon](https://amzn.to/3KCnfjF) |
+| Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
+| Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
 
 ---
 
