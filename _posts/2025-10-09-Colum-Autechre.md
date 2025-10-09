@@ -18,6 +18,8 @@ Autechre（オウテカ）は、単なる“電子音楽デュオ”ではない
 
 > “僕らにとってのテクノは感情を排除するものじゃなく、感情を構造で表現するものなんだ。”
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 <style type="text/css">
@@ -42,6 +44,8 @@ Sean BoothとRob Brownはともに1970年代生まれ。少年時代、Amigaコ�
 
 > “僕らはダンスフロアを忘れたわけじゃない。ただ、身体が動く理由を再構築したかった。”
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 第2章：音響解体の時代 — 『Tri Repetae』とミニマリズムの崩壊
@@ -54,6 +58,8 @@ The Designers Republicによる無機質なジャケットデザインも、Aute
 
 『Tri Repetae』のリリースは、電子音楽における“感覚の再教育”を象徴する。  
 「何がリズムで、何が音楽か？」という問いが、ここで初めて露わになる。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -68,6 +74,8 @@ The Designers Republicによる無機質なジャケットデザインも、Aute
 
 > “感情は排除できない。僕らが人間である限りね。”
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 第4章：アルゴリズムの中の生 — 『Confield』と『Draft 7.30』
@@ -78,6 +86,8 @@ Sean Boothは「作曲というより“発生の調整”だ」と語ってい�
 
 『Confield』は多くのリスナーを困惑させた。もはやリズムもメロディも従来の意味では存在しない。しかし聴き込むほどに、そこには奇妙な生態系のような秩序が浮かび上がる。  
 『Draft 7.30』（2003）では、プログラム的精度がさらに高まり、電子音楽の“知性”が極限まで研ぎ澄まされた。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYH1fOEUC64?si=1eAEgLLuojv-kE4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -154,15 +164,16 @@ flowchart TD
 
 | 年    | タイトル             | リリース         | リンク                                              |
 | ---- | ---------------- | ------------ | ------------------------------------------------ |
-| 1993 | Incunabula       | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B000002N7V) |
-| 1994 | Amber            | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B000002N7W) |
-| 1995 | Tri Repetae      | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B000002N7X) |
-| 1997 | Chiastic Slide   | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B000002N7Y) |
-| 2001 | Confield         | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B00005B15D) |
-| 2003 | Draft 7.30       | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B00008CWLN) |
-| 2010 | Oversteps        | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B0037Y8DQI) |
-| 2018 | NTS Sessions 1–4 | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B07CNF4KTR) |
-| 2020 | SIGN / PLUS      | Warp Records | [Amazon](https://www.amazon.co.jp/dp/B08KHTNWW8) |
+| 1993 | Incunabula       | Warp Records | [Amazon](https://amzn.to/48RINTp) |
+| 1994 | Amber            | Warp Records | [Amazon](https://amzn.to/48olvVe) |
+| 1995 | Tri Repetae      | Warp Records | [Amazon](https://amzn.to/4h6lwiP) |
+| 1997 | Chiastic Slide   | Warp Records | [Amazon](https://amzn.to/48Ud8Re) |
+| 2001 | Confield         | Warp Records | [Amazon](https://amzn.to/471jWds) |
+| 2003 | Draft 7.30       | Warp Records | [Amazon](https://amzn.to/46Vvte7) |
+| 2010 | Oversteps        | Warp Records | [Amazon](https://amzn.to/46JqFtG) |
+| 2018 | NTS Sessions 1–4 | Warp Records | [Amazon](https://amzn.to/4n78OBW) |
+| 2020 | SIGN             | Warp Records | [Amazon](https://amzn.to/4mTZOQg) |
+| 2020 | PLUS             | Warp Records | [Amazon](https://amzn.to/4mZfD8t) |
 
 
 ---
@@ -177,18 +188,6 @@ flowchart TD
 | ドラムマシン  | Roland R8, Elektron Machinedrum             | 複雑な拍構造を実現                   |
 | 制作哲学    | 自動生成＋人間的介入                           | “Control through Chaos” の実践 |
 
-
----
-
-## 参考文献・引用
-
-- Sean Booth, Interview with Warp.net (2001)
-
-- Rob Brown, The Wire Interview (2018)
-
-- Mark Fisher, “The Weird and the Eerie” (2016)
-
-- David Stubbs, Future Sounds: The Story of Electronic Music (2018)
 
 ---
 
