@@ -4,7 +4,7 @@ title:  "【コラム】 Autechre：構造の彼方へ — テクノ以後の音
 author: mmr
 categories: [ Column ]
 tags: [ IDM, Ambient, Techno ]
-image: ../assets/images/column-wrong-way-up-beach.webp
+image: ../assets/images/column-autechre.webp
 ---
 
 ## 序章：無機の中の有機
@@ -144,17 +144,17 @@ Autechreは、いまもなお**構造の彼方**で、音の可能性を探っ�
 <div class="mermaid">
 
 flowchart TD
-    A1991["1991：Autechre結成（Sean Booth & Rob Brown）"]
-    A1993["1993：『Incunabula』でWarpよりデビュー"]
-    A1994["1994：『Amber』リリース"]
-    A1995["1995：『Tri Repetae』発表 — IDMの象徴作に"]
-    A1997["1997：『Chiastic Slide』で音響構造を深化"]
-    A2001["2001：『Confield』— Max/MSPによる生成的転換点"]
-    A2003["2003：『Draft 7.30』"]
-    A2010["2010：『Oversteps』— 有機的な回帰"]
-    A2018["2018：『NTS Sessions 1–4』— 8時間超の大作群"]
-    A2020["2020：『SIGN』『PLUS』リリース"]
-    A2024["2024：AE_LIVEシリーズ継続"]
+    A1991["1991: Autechre結成（Sean Booth & Rob Brown）"]
+    A1993["1993: 『Incunabula』でWarpよりデビュー"]
+    A1994["1994: 『Amber』リリース"]
+    A1995["1995: 『Tri Repetae』発表 — IDMの象徴作に"]
+    A1997["1997: 『Chiastic Slide』で音響構造を深化"]
+    A2001["2001: 『Confield』— Max/MSPによる生成的転換点"]
+    A2003["2003: 『Draft 7.30』"]
+    A2010["2010: 『Oversteps』— 有機的な回帰"]
+    A2018["2018: 『NTS Sessions 1–4』— 8時間超の大作群"]
+    A2020["2020: 『SIGN』『PLUS』リリース"]
+    A2024["2024: AE_LIVEシリーズ継続"]
 
 </div>
 
