@@ -155,8 +155,8 @@ EnoとCaleのコラボレーションは、一瞬の化学反応にすぎなか�
 
 | アーティスト／作品 | 年 | 備考 | リンク |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | コラボアルバム。人間的旋律と電子的透明さの融合。 | [Amazon]](https://amzn.to/48mDETk) |
-| The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithlessなどが参加。海と孤独の音楽。 | [Amazon]](https://amzn.to/47mrub1) 
+| Brian Eno & John Cale – *Wrong Way Up* | 1990 | コラボアルバム。人間的旋律と電子的透明さの融合。 | [Amazon](https://amzn.to/48mDETk) |
+| The Beach (Soundtrack) | 2000 | Moby, All Saints, Faithlessなどが参加。海と孤独の音楽。 | [Amazon](https://amzn.to/47mrub1) 
 
 ---
 
@@ -173,7 +173,6 @@ flowchart TD
     A1999["1999：映画『The Beach』撮影（タイ・ピピ島）"]
     A2000["2000：『The Beach』公開。MobyやAll Saintsの楽曲が話題に"]
 
-    A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
 
 </div>
 
