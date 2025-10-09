@@ -226,11 +226,11 @@ Tracy Chapman の歌は、いつも「静かな怒り」と「寄り添う眼差
 
 | 年    | タイトル                   | 備考・特徴              | リンク                                        |
 | ---- | ---------------------- | ------------------ | ------------------------------------------------ |
-| 1988 | *Tracy Chapman*        | デビュー作。“Fast Car”収録 | [Amazon](https://amzn.to/46InG4K) |
-| 1989 | *Crossroads*           | 政治性を深めた2作目         | [Amazon](https://amzn.to/3VV73fS) |
-| 1992 | *Matters of the Heart* | 内省的で温かな音世界         | [Amazon](https://amzn.to/4nHh5gY) |
-| 1995 | *New Beginning*        | ブルース色が強い代表作        | [Amazon](https://amzn.to/3J16Epd) |
-| 2000 | *Telling Stories*      | 語りの芸術としての円熟        | [Amazon](https://amzn.to/4gW6SKM) |
-| 2002 | *Let It Rain*          | 静謐なトーンの傑作          | [Amazon](https://amzn.to/4o81N4z) |
-| 2005 | *Where You Live*       | 個人的で親密な作品          | [Amazon](https://amzn.to/4nHd643) |
-| 2008 | *Our Bright Future*    | 希望と諦念を織り交ぜた集大成     | [Amazon](https://amzn.to/435OaL5) |
+| 1988 | *Tracy Chapman*        | デビュー作。“Fast Car”収録 | [Amazon](https://amzn.to/3J02TQW) |
+| 1989 | *Crossroads*           | 政治性を深めた2作目         | [Amazon](https://amzn.to/3J1RqjS) |
+| 1992 | *Matters of the Heart* | 内省的で温かな音世界         | [Amazon](https://amzn.to/3Wux7yx) |
+| 1995 | *New Beginning*        | ブルース色が強い代表作        | [Amazon](https://amzn.to/3KHZGGf) |
+| 2000 | *Telling Stories*      | 語りの芸術としての円熟        | [Amazon](https://amzn.to/4q2Rkcg) |
+| 2002 | *Let It Rain*          | 静謐なトーンの傑作          | [Amazon](https://amzn.to/4nAUK4u) |
+| 2005 | *Where You Live*       | 個人的で親密な作品          | [Amazon](https://amzn.to/4pZL4C6) |
+| 2008 | *Our Bright Future*    | 希望と諦念を織り交ぜた集大成     | [Amazon](https://amzn.to/42TBdEj) |

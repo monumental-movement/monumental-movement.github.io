@@ -59,7 +59,7 @@ GeneとDean。
 Geneは感情とカオスの化身、Deanは構築と技巧の職人。  
 ふたりがぶつかる瞬間、Ween特有の混沌と魔法が生まれる。
 
-[『The Pod』](https://amzn.to/3IWmqBO)（1991）では、安物マイクと古びた4トラックが生み出す  
+[『The Pod』](https://amzn.to/46LSWjm)（1991）では、安物マイクと古びた4トラックが生み出す  
 **“汚れた美”**が支配している。歪んだボーカル、くぐもったドラム、  
 それでも全体は完璧にWeenであった。  
 まるでBoognishが機材の中に宿っていたかのようだ。
@@ -94,7 +94,7 @@ HomesteadやShimmy Discといったインディ・レーベルが、Weenの狂�
 > 「ジャンルなんて関係ない。好きな音楽を全部ぶち込むだけさ。」  
 > — *Dean Ween, 1994 Interview*
 
-1994年の[『Chocolate and Cheese』](https://amzn.to/3KCBkh0)は、  
+1994年の[『Chocolate and Cheese』](https://amzn.to/46LSWQo)は、  
 Weenがローファイの洞窟からスタジオへ飛び出した最初の傑作だ。  
 ポップ、ファンク、カントリー、プログレ、ソウル……すべてが衝突し、  
 下品と高尚が奇跡的に共存する。
@@ -119,7 +119,7 @@ Weenはその両方だったのだから。
 > 「カントリーをバカにしてるんじゃない。本気で好きすぎるんだ。」  
 > — *Dean Ween, 1996 Interview*
 
-[『12 Golden Country Greats』](https://amzn.to/4h0yO0c)は、  
+[『12 Golden Country Greats』](https://amzn.to/470mzMs)は、  
 わずか12曲で構成された“偽カントリー”アルバム。  
 しかし演奏しているのは本物のナッシュビル・セッション・ミュージシャンたちだった。  
 Weenは彼らと共に、カントリーの形式を崩壊させ、  
@@ -133,7 +133,7 @@ Weenは彼らと共に、カントリーの形式を崩壊させ、
 > 「海は無限だ。私たちの音楽もそうでありたい。」  
 > — *Gene Ween, 1997 Interview*
 
-[『The Mollusk』](https://amzn.to/48hvb3D)は、  
+[『The Mollusk』](https://amzn.to/48VBtpT)は、  
 Weenの音楽的宇宙が最も豊かに広がった瞬間だ。  
 “**Ocean Man**”を筆頭に、海洋神話を題材としたサイケデリック・ポップの金字塔。  
 Brian WilsonのロマンとCaptain Beefheartの狂気を、  
@@ -165,12 +165,12 @@ Deanは**The Dean Ween Group**を結成し、別の形でWeenの魂を繋いだ�
 
 ## 『Quebec』〜『La Cucaracha』：黄昏の実験室
 
-[『Quebec』](https://amzn.to/46TMe9M)（2003）は、  
+[『Quebec』](https://amzn.to/4gZ8SlA)（2003）は、  
 内省とサイケデリアの融合点にある作品だ。  
 笑いよりも、孤独と静けさが前面に出た。  
 Weenが初めて“成熟”という言葉と向き合った瞬間だった。
 
-そして2007年の[『La Cucaracha』](https://amzn.to/48d1z7y)。  
+そして2007年の[『La Cucaracha』](https://amzn.to/46STLa9)。  
 タイトルは“ゴキブリ”。  
 その名の通り、どんなに叩かれても死なない生命力を象徴する。  
 この作品には、Weenという存在そのものの皮肉と美が凝縮されている。
@@ -222,15 +222,15 @@ flowchart TD
 
 | 年    | アルバム                                                                | 備考                          |
 | ---- | ------------------------------------------------------------------- | --------------------------- |
-| 1990 | [GodWeenSatan: The Oneness](https://amzn.to/3KCB5m6) | 初期宅録集大成                     |
-| 1991 | [The Pod](https://amzn.to/3IWmqBO)                   | 奇形ローファイ美学                   |
-| 1992 | [Pure Guava](https://amzn.to/3VTnBF3)                | “Push th’ Little Daisies”収録 |
-| 1994 | [Chocolate and Cheese](https://amzn.to/3KCBkh0)      | スタジオ制作への転換点                 |
-| 1996 | [12 Golden Country Greats](https://amzn.to/4h0yO0c)  | 偽カントリー×本物ナッシュビル             |
-| 1997 | [The Mollusk](https://amzn.to/48hvb3D)               | サイケ・ポップの金字塔                 |
-| 2000 | [White Pepper](https://amzn.to/46T3awP)              | “ビートルズ的Ween”                |
-| 2003 | [Quebec](https://amzn.to/46TMe9M)                    | 内省と実験の融合                    |
-| 2007 | [La Cucaracha](https://amzn.to/48d1z7y)              | 一度の終焉を示すラスト作                |
+| 1990 | [GodWeenSatan: The Oneness](https://amzn.to/48mbnMH) | 初期宅録集大成                     |
+| 1991 | [The Pod](https://amzn.to/46LSWjm)                   | 奇形ローファイ美学                   |
+| 1992 | [Pure Guava](https://amzn.to/48ihoda)                | “Push th’ Little Daisies”収録 |
+| 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo)      | スタジオ制作への転換点                 |
+| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs)  | 偽カントリー×本物ナッシュビル             |
+| 1997 | [The Mollusk](https://amzn.to/48VBtpT)               | サイケ・ポップの金字塔                 |
+| 2000 | [White Pepper](https://amzn.to/4o6RI7P)              | “ビートルズ的Ween”                |
+| 2003 | [Quebec](https://amzn.to/4gZ8SlA)                    | 内省と実験の融合                    |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9)              | 一度の終焉を示すラスト作                |
 
 ---
 
