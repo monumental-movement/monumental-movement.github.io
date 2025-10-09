@@ -195,3 +195,18 @@ flowchart TD
 
 “音楽とは何か？　構造は感情を超え得るのか？”
 その答えを探す旅は、まだ終わらない。
+
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で](https://monumental-movement.jp/Column-IDM)
+
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+
+🔗 [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+
+🔗 [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
