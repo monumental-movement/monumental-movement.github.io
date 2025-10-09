@@ -115,12 +115,12 @@ flowchart TD
 
 | アーティスト | タイトル | 年 | リンク |
 |----------------|-----------|-----|----------------|
-| Os Mutantes | Tropicália: ou Panis et Circencis | 1968 | [Amazon](https://amzn.to/4gXtniy) |
-| Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3KMO3xH) |
-| Gilberto Gil | Expresso 2222 | 1972 | [Amazon](https://www.amazon.co.jp/dp/B0000029DQ) |
-| Milton Nascimento & Lô Borges | Clube da Esquina | 1972 | [Amazon](https://www.amazon.co.jp/dp/B0000029DQ) |
-| Boogarins | Manual | 2015 | [Amazon](https://www.amazon.co.jp/dp/B0000029DQ) |
-| Glue Trip | Glue Trip | 2016 | [Amazon](https://www.amazon.co.jp/dp/B0000029DQ) |
+| Os Mutantes | Tropicália: ou Panis et Circencis | 1968 | [Amazon](https://amzn.to/46LWn9K) |
+| Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3IAc2Qc) |
+| Gilberto Gil | Expresso 2222 | 1972 | [Amazon](https://amzn.to/3WuzFg5) |
+| Milton Nascimento & Lô Borges | Clube da Esquina | 1972 | [Amazon]https://amzn.to/4n2waIJ) |
+| Boogarins | Manual | 2015 | [Amazon](https://amzn.to/3KIiftN) |
+| Glue Trip | Glue Trip | 2016 | [Amazon](https://amzn.to/4h8CzAY) |
 
 
 ## 終章：未来への幻視 — サイケデリアは続く
