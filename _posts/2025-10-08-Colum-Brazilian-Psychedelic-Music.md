@@ -122,6 +122,7 @@ flowchart TD
 | Boogarins | Manual | 2015 | [Amazon](https://amzn.to/3KIiftN) |
 | Glue Trip | Glue Trip | 2016 | [Amazon](https://amzn.to/4h8CzAY) |
 
+---
 
 ## 終章：未来への幻視 — サイケデリアは続く
 
