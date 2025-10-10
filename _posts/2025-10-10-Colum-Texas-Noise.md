@@ -4,7 +4,7 @@ title:  "【コラム】 ノイズの砂漠地帯：2000年代テキサス・シ
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Experimental, 00s ]
-image: ../assets/images/column-roland-tr-1000.webp
+image: ../assets/images/column-texas-noise.webp
 ---
 
 ## 序章：静寂と轟音の狭間で — 南部におけるノイズの文法
