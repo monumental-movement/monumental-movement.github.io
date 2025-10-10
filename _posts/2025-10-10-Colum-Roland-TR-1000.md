@@ -158,14 +158,20 @@ flowchart TD
 
 ### ▷ 関連製品・参考リンク
 
-| モデル         | 発売年  | 特徴                    | 代表的アーティスト              | リンク                                                       |
+| モデル  | 発売年  | 特徴      | 代表アーティスト   | リンク           |
 | ----------- | ---- | --------------------- | ---------------------- | --------------------------------------------------------- |
-| **TR-808**  | 1980 | アナログ・ドラムの金字塔          | Afrika Bambaataa / YMO | [Rakuten](https://a.r10.to/hR1rR6)   |
-| **TR-909**  | 1983 | アナログ＋デジタル融合           | Daft Punk / Jeff Mills | [Rakuten](https://a.r10.to/hkyb7y)   |
-| **TR-8S**   | 2018 | モダンACB＋サンプリング         | ー                      | [Rakuten](https://a.r10.to/hkyhNJ)    |
-| **TR-1000** | 2025 | AI×アナログ・ハイブリッド・リズムマシン | 新世代アーティスト多数            | [Rakuten](https://a.r10.to/hY661z) |
+| **TR-808**  | 1980 | アナログ・ドラムの金字塔    | Afrika Bambaataa / YMO | [Rakuten](https://a.r10.to/hR1rR6)   |
+| **TR-909**  | 1983 | アナログ＋デジタル融合   | Daft Punk / Jeff Mills | [Rakuten](https://a.r10.to/hkyb7y)   |
+| **TR-8S**   | 2018 | モダンACB＋サンプリング     | ー                      | [Rakuten](https://a.r10.to/hkyhNJ)    |
+| **TR-1000** | 2025 | AI×アナログ・ハイブリッド・リズムマシン | 新世代アーティスト多数  | [Rakuten](https://a.r10.to/hY661z) |
 
 ---
 
 “リズムは進化する。だが、その中心には、常に人間の鼓動がある。”
 — Roland TR-1000 開発ノートより
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 DTM（DAW）の歴史と変遷 — 家庭からプロへ、音の制作環境がどう変わったか](https://monumental-movement.jp/Column-Daw)
