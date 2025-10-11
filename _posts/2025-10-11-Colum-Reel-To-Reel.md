@@ -153,6 +153,8 @@ flowchart TD
 
 ### 付録B：オープンリール復刻ラインナップ
 
+[Rhinoの販売先リンク-RHINO HIGH FIDELITY](https://store.rhino.com/en/rhino-store/special-edition-shops/rhino-high-fidelity)
+
 | アーティスト | タイトル             |   年  | リンク                                           |
 | :----- | :--------------- | :--: | :-------------------------------------------------- |
 | T. Rex | Electric Warrior | 1971 | [Amazon](https://amzn.to/4nMX4Wg) |
