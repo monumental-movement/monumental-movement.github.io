@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る"
 author: mmr
 categories: [ Column ]
-tags: [ Acid Jazz, 80s, 90s ]
+tags: [ Deep House, Acid Jazz, 80s, 90s ]
 image: ../assets/images/column-deep-house.webp
 ---
 
