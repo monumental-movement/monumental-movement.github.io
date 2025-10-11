@@ -21,6 +21,21 @@ image: ../assets/images/column-initiald-eurobeat3.webp
 それでも、ユーロビートの「速度の記憶」は消えていない。  
 むしろ今、**デジタル空間・AI生成・リアルタイム音響**の文脈で、新たな“走る音楽”へと姿を変えようとしている。
 
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
+
 ---
 
 ## 1. “峠”から“軌道”へ：ユーロビートがたどった音楽空間のグラデーション
@@ -170,11 +185,10 @@ flowchart TD
 
 | 年    | タイトル                  | アーティスト          | リンク                                           |
 | ---- | --------------------- | --------------- | --------------------------------------------------- |
-| 1994 | Super Eurobeat Vol.50 | V.A.            | [Amazon JP](https://www.amazon.co.jp/dp/B00005HOP5) |
-| 1998 | Running in the 90s    | Max Coveri      | [Amazon JP](https://www.amazon.co.jp/dp/B000001YWP) |
-| 2000 | Deja Vu               | Dave Rodgers    | [Amazon JP](https://www.amazon.co.jp/dp/B0000506E5) |
-| 2015 | Nightcore Reality     | Various Artists | [Amazon JP](https://www.amazon.co.jp/dp/B00W5TTRKQ) |
-| 2023 | Synthwave Drive       | Futurecop!      | [Amazon JP](https://www.amazon.co.jp/dp/B0C7YYN2L8) |
+| 1994 | Super Eurobeat Vol.50 | V.A.            | [Amazon JP](https://amzn.to/46K1kzK) |
+| 1998 | Running in the 90s    | Max Coveri      | [Amazon JP](https://amzn.to/46OQ98U) |
+| 2000 | Deja Vu               | Dave Rodgers    | [Amazon JP](https://amzn.to/4q6JDSA) |
+| 2015 | Nightcore Reality     | Various Artists | [Amazon JP](https://amzn.to/47iXlu1) |
 
 ---
 
@@ -191,5 +205,7 @@ flowchart TD
 ### 関連コラム
 
 🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
 🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)

@@ -231,11 +231,12 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ## おまけ：ヴィーガン料理と音楽を結びつけたエシカルなレシピ５選
 
-![Image](../assets/images/column-record-collector-vegan-ethical-01.webp)
-
 *— 味覚と聴覚が交差する、カルチャーとしての食卓 —*
 
 ### 1. 「Blue in Green」トマトとバジルの冷製パスタ
+
+
+![Image](../assets/images/column-record-collector-vegan-ethical-01.webp)
 
 **曲:** Miles Davis — *Blue in Green*  
 **コンセプト:** ジャズの余韻と、夏の透明感。
