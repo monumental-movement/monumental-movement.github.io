@@ -198,3 +198,15 @@ WarehouseやThe Power Plantで繰り広げられた夜ごとの創造は、黒�
 Frankie KnucklesやLarry Heardらパイオニアたちが築いたグルーヴとテクノロジーの融合は、単なる音楽を超えた文化的運動となった。
 
 その影響は英国アシッドハウス、デトロイト・テクノ、現代のEDMやディープハウスにまで及び、今日も世界中のクラブでシカゴのビートは生き続けている。シカゴ・ハウスは過去の遺産であると同時に、未来の音楽文化を照らす灯火である。
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容](https://monumental-movement.jp/Column-Acid-House)
+
+🔗 [【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る](https://monumental-movement.jp/Column-Deep-House)
+
+🔗 [【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷](https://monumental-movement.jp/Column-NY-House)
+
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
