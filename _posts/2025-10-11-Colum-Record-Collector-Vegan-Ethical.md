@@ -312,6 +312,8 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ### 4. 「Velvet Underground」黒ごまとバナナのスムージー
 
+![Image](../images/column-record-collector-vegan-ethical-04.webp)
+
 **曲:** The Velvet Underground — *Pale Blue Eyes*  
 **コンセプト:** 静かな憂いとミルキーな甘さの二重奏。
 
@@ -335,7 +337,7 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ### 5. 「Talking Heads Bowl」アボカドとキヌアのボウルサラダ
 
-![Image](/images/column-record-collector-vegan-ethical-05.webp)
+![Image](../images/column-record-collector-vegan-ethical-05.webp)
 
 **曲:** Talking Heads — *This Must Be the Place (Naive Melody)*  
 **コンセプト:** 日常の幸福、リズムの中の自由。
