@@ -10,7 +10,7 @@ image: ../assets/images/column-reel-to-reel.webp
 ## オープンリール復活の予兆 — 物質としての音が再接続される
 
 
-文：mmr｜テーマ：レコード、カセットに続き、今オープンリールが帰ってくる。磁気というアナログ技術が、デジタル以後の時代に何を語りうるのか——Rhino High Fidelityの復刻から見える“Reel to Real”の未来
+文：mmr｜テーマ：磁気というアナログ技術が、デジタル以後の時代に何を語りうるのか——Rhino High Fidelityの復刻から見える“Reel to Real”の未来
 
 
 2025年。Rhino High Fidelityがアナログ復刻シリーズの一環として発表したニュースが、オーディオ・カルチャー界隈をざわつかせた。  
