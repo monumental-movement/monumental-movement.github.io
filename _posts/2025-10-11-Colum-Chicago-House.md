@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化"
 author: mmr
 categories: [ Column ]
-tags: [ House, Deep House, Acid House, History ]
+tags: [ House, Deep House, Acid House ]
 image: ../assets/images/column-chicago-house.webp
 ---
 
