@@ -231,6 +231,8 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ## おまけ：ヴィーガン料理と音楽を結びつけたエシカルなレシピ５選
 
+![Image](../assets/images/column-record-collector-vegan-ethical-01.webp)
+
 *— 味覚と聴覚が交差する、カルチャーとしての食卓 —*
 
 ### 1. 「Blue in Green」トマトとバジルの冷製パスタ
@@ -261,6 +263,8 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ### 2. 「Raw Power」テンペと根菜のグリル・プレート
 
+![Image](../assets/images/column-record-collector-vegan-ethical-02.webp)
+
 **曲:** Iggy & The Stooges — *Raw Power*  
 **コンセプト:** プラントベースの“肉体性”を爆音で。
 
@@ -285,6 +289,8 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 ---
 
 ### 3. 「Ambient Curry」ココナッツとレンズ豆の優しいカレー
+
+![Image](../assets/images/column-record-collector-vegan-ethical-03.webp)
 
 **曲:** Brian Eno — *Music for Airports*  
 **コンセプト:** 無時間のうちに煮込む、静かなサウンドスケープ。
@@ -312,7 +318,7 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ### 4. 「Velvet Underground」黒ごまとバナナのスムージー
 
-![Image](../images/column-record-collector-vegan-ethical-04.webp)
+![Image](../assets/images/column-record-collector-vegan-ethical-04.webp)
 
 **曲:** The Velvet Underground — *Pale Blue Eyes*  
 **コンセプト:** 静かな憂いとミルキーな甘さの二重奏。
@@ -337,7 +343,7 @@ SNS、ストリーミング、通知──光とノイズが絶え間なく流�
 
 ### 5. 「Talking Heads Bowl」アボカドとキヌアのボウルサラダ
 
-![Image](../images/column-record-collector-vegan-ethical-05.webp)
+![Image](../assets/images/column-record-collector-vegan-ethical-05.webp)
 
 **曲:** Talking Heads — *This Must Be the Place (Naive Melody)*  
 **コンセプト:** 日常の幸福、リズムの中の自由。
