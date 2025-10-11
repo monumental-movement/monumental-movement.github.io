@@ -206,7 +206,7 @@ flowchart TB
 
 <div class="mermaid">
 
-flowchart LR
+flowchart TD
     O["外周 (Outer rim)：高い線速度 → 高域再現良好"]
     M["中間域：線速度低下 → 高域減衰開始"]
     I["内周 (Inner rim)：低い線速度 → 内周歪増大・高域減衰"]
