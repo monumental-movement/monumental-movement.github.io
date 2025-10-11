@@ -183,6 +183,13 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 ### 関連コラム
 
 
+🔗 [【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽](https://monumental-movement.jp/Column-Anticon)
+
 🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
 
 🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+
+
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+
+🔗 [【コラム】 ダウンテンポ（Downtempo）とは何か：チルアウトと深層のリズムの美学](https://monumental-movement.jp/Column-Downtempo)
