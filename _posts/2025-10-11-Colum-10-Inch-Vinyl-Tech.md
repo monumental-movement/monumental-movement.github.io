@@ -185,18 +185,18 @@ flowchart TD
 <div class="mermaid">
 
 flowchart TB
-  subgraph Vinyl_Surface["ビニル表面"]
-    direction TB
-    S[Stylus tip\n（針先）] -->|追従| G[溝（V字断面）]
-    G --> L[横変調 (Lateral modulation)\n→ ステレオ L/R 情報]
-    G --> V[縦変調 (Vertical modulation)\n→ 低域・位相情報]
-    G --> D[溝深さ (Depth)\n(振幅に依存)]
-    G --> W[溝幅 (Width)\n(高振幅で広くなる)]
-  end
+    S["針先（Stylus tip）"]
+    G["溝（V字断面 Groove）"]
+    L["横変調（Lateral modulation）\n→ ステレオL/R情報"]
+    V["縦変調（Vertical modulation）\n→ 低域・位相情報"]
+    D["溝の深さ（Depth）\n→ 振幅に依存"]
+    W["溝の幅（Width）\n→ 音圧に比例"]
 
-  style Vinyl_Surface stroke:#333,stroke-width:2px,fill:#fff0
-  classDef label fill:#f8f8f8,stroke:#ddd;
-  class S,G,L,V,D,W label;
+    S -->|追従| G
+    G --> L
+    G --> V
+    G --> D
+    G --> W
 
 </div>
 
@@ -207,26 +207,20 @@ flowchart TB
 <div class="mermaid">
 
 flowchart LR
-  O[外周 (Outer rim)\n高い線速度\n＝ 高域再現良好]
-  M[中間域（外周→内周移行）\n線速度低下→高域減衰開始]
-  I[内周 (Inner rim)\n低い線速度\n＝ 内周歪増大／高域減衰]
+    O["外周 (Outer rim)：高い線速度 → 高域再現良好"]
+    M["中間域：線速度低下 → 高域減衰開始"]
+    I["内周 (Inner rim)：低い線速度 → 内周歪増大・高域減衰"]
 
-  O -->|外周: 高域がクリア\n高S/N、低内周歪| M
-  M -->|中域: 密度が高く\n定位が安定| I
-  style O fill:#eef6ff,stroke:#88b
-  style M fill:#fff7e6,stroke:#f5a623
-  style I fill:#ffeef0,stroke:#e04b5a
+    O --> M --> I
 
-  subgraph Legend["概念注記"]
-    direction TB
-    A[線速度 (linear velocity)\n外周>内周 で高域特性が有利]
-    B[内周歪 (inner groove distortion)\n内周で増加 → 高域が丸くなる]
-    C[音圧 (Amplitude)\n溝幅に比例 → 時間短縮のトレードオフ]
-  end
+    %% 注釈をノードで追加
+    A["線速度 (linear velocity)：外周>内周 → 高域特性が有利"]
+    B["内周歪 (inner groove distortion)：内周で増加 → 高域が丸くなる"]
+    C["音圧 (Amplitude)：溝幅に比例 → 再生時間とトレードオフ"]
 
-  Legend -.-> O
-  Legend -.-> M
-  Legend -.-> I
+    A -.-> O
+    B -.-> I
+    C -.-> M
 
 </div>
 
