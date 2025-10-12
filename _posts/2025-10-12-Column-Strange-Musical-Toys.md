@@ -45,15 +45,6 @@ color: #fff;
 インドのRadel社が1970年代末に開発した電子タブラは、伝統的なラーガ演奏における持続音をポータブル化した装置である。複雑な弦楽器を家庭で簡単に再現できることから、子どもから大人まで幅広く親しまれた。  
 電子音の単純化は、むしろ新しい即興の扉を開いた。家庭の机上に置かれた電子タンプーラは、学習と遊びの境界で鳴り響く“家庭的な儀式”となった。
 
-#### Radel Electronic Tanpuraを使用したアルバム
-
-**Ravi Shankar – Concerto for Sitar & Orchestra (1971 reissueでRadel使用例)**
-
-ラーガ演奏における持続音の補助として。電子タンプーラが背景を彩る。
-
-**Various Artists – Radel Tanpura Loops (インド伝統/電子音コラボ集)**
-
-伝統楽器の電子化による現代的ループ音源集。
 
 ### 電子楽器のポータブル進化
 インドだけでなく、アジア各地では伝統楽器の電子化が進んだ。小型シタールやポケットサイズのガムラン、電子琴など、子どもでも操作可能な楽器が登場した。電子化による音の安定性と手軽さは、演奏者の創造性を刺激する。
@@ -114,10 +105,6 @@ Circuit Bendingは、既存の電子玩具やシンセを改造して新しい�
 DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ、アメリカのガレージカルチャーや前衛音楽に深く根付いた。
 
 #### Circuit Bending / 改造玩具使用
-
-**Reed Ghazala – Circuit-Bent Explorations (2005)**
-
-Circuit Bendingの創始者による実験的アルバム。偶然性とノイズの芸術化。
 
 **Merzbow – Pulse Demon (1996)**
 
@@ -209,20 +196,18 @@ flowchart TD
 
 
 
-### Strange Musical Toys おすすめアルバム・ディスコグラフィー
+### Strange Musical Toys おすすめアルバム・本
 
-| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | Amazonリンク |
+| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
 |------------|--------------|--------|--------------------|--------------|
-| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [リンク](https://www.amazon.co.jp/s?k=Cornelius+Fantasma) |
-| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [リンク](https://www.amazon.co.jp/s?k=Bjork+Vespertine) |
-| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [リンク](https://www.amazon.co.jp/s?k=David+Bowie+Space+Oddity) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [リンク](https://www.amazon.co.jp/s?k=Aphex+Twin+Selected+Ambient+Works+85-92) |
-| Concerto for Sitar & Orchestra | Ravi Shankar | 1971 | Radel Electronic Tanpuraで持続音補助 | [リンク](https://www.amazon.co.jp/s?k=Ravi+Shankar+Concerto+for+Sitar) |
-| Radel Tanpura Loops | Various Artists | - | Radel Tanpura電子ループ集 | [リンク](https://www.amazon.co.jp/s?k=Radel+Tanpura+Loops) |
-| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [リンク](https://www.amazon.co.jp/s?k=Four+Tet+Rounds) |
-| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [リンク](https://www.amazon.co.jp/s?k=Flying+Lotus+Cosmogramma) |
-| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bending作品集、偶然性とノイズ | [リンク](https://www.amazon.co.jp/s?k=Reed+Ghazala+Circuit+Bent+Explorations) |
-| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [リンク](https://www.amazon.co.jp/s?k=Merzbow+Pulse+Demon) |
-| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [リンク](https://www.amazon.co.jp/s?k=Omar+Rodríguez-López+Solar+Gambling) |
-| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [リンク](https://www.amazon.co.jp/s?k=Laurie+Anderson+Big+Science) |
+| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon]https://amzn.to/4h7f2QM) |
+| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
+| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
+| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
+| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
+| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
+| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
+| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
+| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
 
