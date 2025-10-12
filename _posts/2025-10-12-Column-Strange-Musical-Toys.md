@@ -68,6 +68,10 @@ Omnichordは、テクノポップやインディーズのアーティストに�
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBE4HK-Q5sk?si=c9RjHorylbIM-d4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 #### Omnichordを使用したアルバム
 
 **Cornelius – Fantasma (1997)**
