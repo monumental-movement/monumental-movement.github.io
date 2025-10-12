@@ -4,7 +4,7 @@ title:  "【コラム】 Strange Musical Toys — 世界の奇妙な音の玩具
 author: mmr
 categories: [ Column ]
 tags: [ Synth, History, 90s, 00s ]
-image: ../assets/images/column-edm.webp
+image: ../assets/images/column-strange-musical-toys.webp
 ---
 
 ## 世界の“音の玩具”
