@@ -4,7 +4,7 @@ title:  "【コラム】 聴くという奇跡──Hearing Health Foundationが
 author: mmr
 categories: [ Column ]
 tags: [ Synth-Pop, History ]
-image: ../assets/images/column-synth-pop.webp
+image: ../assets/images/column-hearing-health.webp
 ---
 
 ## 序章：耳という感覚の詩学
