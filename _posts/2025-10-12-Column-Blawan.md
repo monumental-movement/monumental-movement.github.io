@@ -287,7 +287,7 @@ Blawanは、冷たい世界に血を通わせるアーティストである。
 
 <div class="mermaid">
 
-flowchart LR
+flowchart TD
     subgraph "🎚️ Control Section（操作系）"
       MATHS["Make Noise MATHS\n(Envelope / Modulator)"]
       PAM["Pamela's New Workout\n(Clock / Sync Generator)"]
