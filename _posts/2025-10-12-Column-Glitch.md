@@ -30,6 +30,10 @@ Glitchとは、テクノロジーが自らの限界を露呈する瞬間に生�
 その不規則なクリック音、データの欠損による断続的なリズム。  
 それは“エラーの音”でありながら、異様に有機的で、どこか温かかった。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3UouDs3UE?si=0kEkfUArZ1LG8lSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 同時期、**Ryoji Ikeda**や**Alva Noto**はDSP処理を通じて、サイン波やノイズの粒子を極限まで磨き上げた。  
 Max/MSPやSuperColliderといったプログラム環境は、偶発的なバグやランダム性を積極的に音楽に取り込む。  
 この潮流は**Clicks & Cuts**ムーブメントとして2000年代初頭に花開き、電子音楽の美学を刷新した。
@@ -37,6 +41,8 @@ Max/MSPやSuperColliderといったプログラム環境は、偶発的なバグ
 Glitchは、デジタル機器が生む「偶然のゆらぎ」を、詩的なリズムへと変換する術だった。  
 音が“壊れる”ということは、もはや失敗ではない。  
 それは、**新しい秩序の出現**なのだ。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6E6_fzGfBfU?si=I0HTJWmH8-krFaEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
