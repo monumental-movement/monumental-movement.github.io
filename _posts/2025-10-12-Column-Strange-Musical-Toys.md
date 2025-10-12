@@ -45,6 +45,9 @@ color: #fff;
 インドのRadel社が1970年代末に開発した電子タブラは、伝統的なラーガ演奏における持続音をポータブル化した装置である。複雑な弦楽器を家庭で簡単に再現できることから、子どもから大人まで幅広く親しまれた。  
 電子音の単純化は、むしろ新しい即興の扉を開いた。家庭の机上に置かれた電子タンプーラは、学習と遊びの境界で鳴り響く“家庭的な儀式”となった。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 電子楽器のポータブル進化
 インドだけでなく、アジア各地では伝統楽器の電子化が進んだ。小型シタールやポケットサイズのガムラン、電子琴など、子どもでも操作可能な楽器が登場した。電子化による音の安定性と手軽さは、演奏者の創造性を刺激する。
@@ -60,6 +63,10 @@ color: #fff;
 - ローファイかつ宇宙的な音色  
 
 Omnichordは、テクノポップやインディーズのアーティストにとって、ライブパフォーマンスやレコーディングにおける小道具以上の存在となった。そのサウンドは、偶然性と即興性を歓迎するデザイン哲学の体現である。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pAIar0O-yvg?si=gI40JwCWCleSOUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 #### Omnichordを使用したアルバム
 
@@ -78,6 +85,10 @@ Omnichordは、テクノポップやインディーズのアーティストに�
 ### StylophoneとOptigan
 イギリスのStylophoneは、1970年代のテレビ広告でおなじみの“机上のシンセ”である。指先で金属接点をなぞると、独特のビープ音が鳴る。その手軽さとノイズ感は、初期テクノポップやアヴァンギャルド音楽に取り込まれた。  
 Optiganは光学式ディスクで音を再生するオルガン玩具で、パターンやリズムが予測不能な形で再生されることが特徴だ。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 #### Stylophoneを使用したアルバム
 
@@ -104,6 +115,10 @@ Circuit Bendingは、既存の電子玩具やシンセを改造して新しい�
 
 DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ、アメリカのガレージカルチャーや前衛音楽に深く根付いた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6dbHxbN2oJw?si=P4PrpbvKkwmv8tOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 #### Circuit Bending / 改造玩具使用
 
 **Merzbow – Pulse Demon (1996)**
@@ -123,6 +138,16 @@ DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ�
 
 電子音は、家庭や学校の机上で手軽に体験できるものであり、子どもたちは“音を遊ぶ”文化に親しんだ。現代ではオタマトーンのようなデジタル玩具がYouTube文化と結びつき、新たな“かわいい音”の世界を作っている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYGVcXgiqyw?si=4ttjpQeLswDDOef7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yk2AOW3ExwU?si=Fg8NOnu-BJVxfnmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Ⅶ. 北欧の変則美学
@@ -133,6 +158,14 @@ DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ�
 - Pocket Operatorシリーズ  
 
 シンプルで直感的な操作性と、カートゥーン的な音色は、北欧らしいユーモアと洗練を兼ね備える。“トイ”としての性格を残しつつ、プロのアーティストにも採用される点が特徴だ。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zd6d6fsKiA8?si=yhMlbLcKJQE3HZr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 #### Pocket Operator / Teenage Engineering系
 
