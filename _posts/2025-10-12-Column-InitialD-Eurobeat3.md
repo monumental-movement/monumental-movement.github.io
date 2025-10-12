@@ -185,10 +185,10 @@ flowchart TD
 
 | 年    | タイトル                  | アーティスト          | リンク                                           |
 | ---- | --------------------- | --------------- | --------------------------------------------------- |
-| 1994 | Super Eurobeat Vol.50 | V.A.            | [Amazon JP](https://amzn.to/46K1kzK) |
-| 1998 | Running in the 90s    | Max Coveri      | [Amazon JP](https://amzn.to/46OQ98U) |
-| 2000 | Deja Vu               | Dave Rodgers    | [Amazon JP](https://amzn.to/4q6JDSA) |
-| 2015 | Nightcore Reality     | Various Artists | [Amazon JP](https://amzn.to/47iXlu1) |
+| 1994 | Super Eurobeat Vol.50 | V.A.            | [Amazon](https://amzn.to/46K1kzK) |
+| 1998 | Running in the 90s    | Max Coveri      | [Amazon](https://amzn.to/46OQ98U) |
+| 2000 | Deja Vu               | Dave Rodgers    | [Amazon](https://amzn.to/4q6JDSA) |
+| 2015 | Nightcore Reality     | Various Artists | [Amazon](https://amzn.to/47iXlu1) |
 
 ---
 

@@ -288,29 +288,29 @@ Blawanは、冷たい世界に血を通わせるアーティストである。
 <div class="mermaid">
 
 flowchart LR
-    subgraph Control["🎚️ Control Section（操作系）"]
-      MATHS["Make Noise MATHS\n（Envelope / Modulator）"]
-      PAM["Pamela's New Workout\n（Clock / Sync Generator）"]
-      METROP["Intellijel Metropolis\n（Sequencer）"]
+    subgraph "🎚️ Control Section（操作系）"
+      MATHS["Make Noise MATHS\n(Envelope / Modulator)"]
+      PAM["Pamela's New Workout\n(Clock / Sync Generator)"]
+      METROP["Intellijel Metropolis\n(Sequencer)"]
     end
 
-    subgraph Sound["🎛️ Sound Generation（発振・変調）"]
-      OSC["Mutable Instruments Plaits\n（Multi-oscillator）"]
-      VCO["Verbos Complex VCO\n（Analog Oscillator）"]
-      DFAM["Moog DFAM\n（Drum Synth）"]
-      BASS["Erica Synths Bassline\n（Acid / Low-end）」]
+    subgraph "🎛️ Sound Generation（発振・変調）"
+      OSC["Mutable Instruments Plaits\n(Multi-oscillator)"]
+      VCO["Verbos Complex VCO\n(Analog Oscillator)"]
+      DFAM["Moog DFAM\n(Drum Synth)"]
+      BASS["Erica Synths Bassline\n(Acid / Low-end)"]
     end
 
-    subgraph Process["🔧 Processing / Effects"]
-      FILTER["XAOC Belgrad\n（Dual Filter）"]
-      DIST["Elektron Analog Heat\n（Distortion / Saturator）"]
-      REVERB["Strymon BigSky\n（Reverb）」]
-      DELAY["Make Noise Mimeophon\n（Delay / Texture）」]
+    subgraph "🔧 Processing / Effects"
+      FILTER["XAOC Belgrad\n(Dual Filter)"]
+      DIST["Elektron Analog Heat\n(Distortion / Saturator)"]
+      REVERB["Strymon BigSky\n(Reverb)"]
+      DELAY["Make Noise Mimeophon\n(Delay / Texture)"]
     end
 
-    subgraph Output["🔊 Output & Mixing"]
+    subgraph "🔊 Output & Mixing"
       MIX["WMD Performance Mixer"]
-      OUT["Audio Interface\n（RME Fireface / Ableton Integration）"]
+      OUT["Audio Interface\n(RME Fireface / Ableton Integration)"]
       REC["Recording / Master Chain"]
     end
 
@@ -326,6 +326,7 @@ flowchart LR
     DIST --> MIX
     MIX --> OUT
     OUT --> REC
+
 
 </div>
 

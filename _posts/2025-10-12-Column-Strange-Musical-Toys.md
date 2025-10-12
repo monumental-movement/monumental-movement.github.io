@@ -167,6 +167,7 @@ AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新し
 <div class="mermaid">
 
 flowchart TD
+
     A1970["1970：Stylophone発売（英国）"]
     B1978["1978：Omnichord発売（日本）"]
     C1979["1979：Radel Electronic Tanpura登場（インド）"]
@@ -176,7 +177,7 @@ flowchart TD
     G2010["2010：Pocket Operatorシリーズ（スウェーデン）"]
     H2020["2020：AI玩具音楽デバイス登場"]
     
-    A --> B --> C --> D --> E --> F --> G --> H
+    A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 </div>
 
@@ -200,7 +201,7 @@ flowchart TD
 
 | アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
 |------------|--------------|--------|--------------------|--------------|
-| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon]https://amzn.to/4h7f2QM) |
+| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
 | Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
 | Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
 | Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
