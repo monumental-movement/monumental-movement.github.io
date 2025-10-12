@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "【コラム】 シンセポップ──電子の夢が鳴り響いた時代"
+date: 2025-10-13 00:00:00
 author: mmr
 categories: [ Column ]
 tags: [ Synth-Pop, History ]
