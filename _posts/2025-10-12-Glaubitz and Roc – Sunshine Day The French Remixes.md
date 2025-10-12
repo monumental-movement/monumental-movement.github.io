@@ -7,7 +7,9 @@ tags: [ House, French House, 90s ]
 image: ../assets/images/Glaubitz & Roc – Sunshine Day The French Remixes.jpg
 ---
 
-ドイツ出身のElectro/Tech-House/Minimal DJ &プロデューサーCarsten GlaubitzとElectro/Tech-House/Minimal プロデューサーOliver Rockstedt(Chris Powell )による「Sunshine Day 」のフレンチリミックス。1999年にフレンチ&フィルターハウスレーベルFull Houseからリリースされた。
+ドイツ出身のElectro/Tech-House/Minimal DJ &プロデューサーCarsten GlaubitzとElectro/Tech-House/Minimal プロデューサーOliver Rockstedt(Chris Powell )による「Sunshine Day 」のフレンチリミックス。
+
+1999年にフレンチ&フィルターハウスレーベルFull Houseからリリースされた。
 
 A1は、Robert Collado とStéphane Bonanによるremix。
 
