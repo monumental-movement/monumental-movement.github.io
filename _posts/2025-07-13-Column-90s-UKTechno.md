@@ -164,3 +164,14 @@ Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierな�
   </tbody>
 </table>
 </div>
+
+
+
+---
+
+
+### 関連コラム
+
+🔗 [【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界](https://monumental-movement.jp/Column-Luke-Slater)
+
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
