@@ -167,9 +167,25 @@ flowchart TD
 
 ---
 
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
+}
+th {
+background-color: #111;
+color: #fff;
+}
+</style>
+
+
+
 #### Glitch必聴ディスコグラフィー
 
-| 年    | アーティスト      | 作品名                 | 備考              |
+| 年    | アーティスト      | 作品名（Amazonリンク）                 | 備考              |
 | ---- | -------------- | ------------------------------------------------------------- | --------------- |
 | 1995 | Oval       | [94diskont](https://amzn.to/47k6D9b)           | “CD傷音”の金字塔      |
 | 1996 | Ryoji Ikeda                  | [+/-](https://amzn.to/46NnTU7)                 | ミニマル音響の頂点       |
