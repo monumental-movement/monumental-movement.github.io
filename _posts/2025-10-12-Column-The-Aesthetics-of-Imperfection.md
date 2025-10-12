@@ -7,7 +7,7 @@ tags: [ History, Punk, Rave ]
 image: ../assets/images/column-the-aesthetics-of-imperfection.webp
 ---
 
-## Indie Sleaze”が呼び戻した、汚れた快楽の時代
+## Indie Sleazeが呼び戻した、汚れた快楽の時代
 
 
 文：mmr｜テーマ：「完璧なポップ」への倦怠。その反動として、いま再び“不完全さの美学”が世界を席巻している事象について
