@@ -85,24 +85,37 @@ image: ../assets/images/column-euro.webp
 
 ### メインストリームにおける成功例（1990〜1999）
 
-● 2 Unlimited – “Get Ready For This” (1991)
+● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
 
 オランダ発。スポーツ会場やCMにも多用される“Eurodanceアンセム”。
 
-● Ace of Base – “The Sign” (1993)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+● [Ace of Base – “The Sign” (1993)](https://amzn.to/4mXEhGp)
 
 スウェーデンのポップグループ。Billboard Hot 100年間1位に輝く。
 
-● Corona – “Rhythm of the Night” (1994)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+● [Corona – “Rhythm of the Night” (1994)](https://amzn.to/3KFlcLU)
 
 イタリア産。中南米市場でもヒットし、Eurodanceの汎用性を示す。
 
-● Eiffel 65 – “Blue (Da Ba Dee)” (1999)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
 Italo Danceの代表作。デジタルボイスとメロディの融合。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+---
 
 ### 90年代的な音の流通
 
