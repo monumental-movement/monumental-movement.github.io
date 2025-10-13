@@ -17,14 +17,15 @@ image: ../assets/images/column-cassette-tape.webp
 ### アナログ時代のポータブル音楽革命
 カセットテープ（Compact Cassette）は1963年にフィリップス社が開発し、1970年代から1990年代にかけて音楽メディアの主役の一つとして世界中で普及した。
 
-ポータブルプレイヤー（ウォークマン）の登場
+- ポータブルプレイヤー（ウォークマン）の登場
 
-自宅録音の手軽さ
+- 自宅録音の手軽さ
 
-音楽の個人所有・交換文化の形成
+- 音楽の個人所有・交換文化の形成
 
 こうした文化的背景のもと、カセットテープはアナログ音楽の一大プラットフォームとなった。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4IuLJFEzxY?si=82FNj06TPse2I3Gz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -42,23 +43,25 @@ image: ../assets/images/column-cassette-tape.webp
 
 #### 1970年代：ステレオ録音と高音質化の始まり
 
-ステレオ対応ヘッドの普及
+- ステレオ対応ヘッドの普及
 
-ノーマル（Type I）テープの標準化
+- ノーマル（Type I）テープの標準化
 
-ポータブルデッキの普及で「ウォークマン」文化の胎動
+- ポータブルデッキの普及で「ウォークマン」文化の胎動
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 #### 1980年代：ハイポジション（Type II）、メタル（Type IV）の登場
 
-音質改善を目指したテープ素材の改良
+- 音質改善を目指したテープ素材の改良
 
-高音域特性の向上とダイナミックレンジ拡大
+- 高音域特性の向上とダイナミックレンジ拡大
 
-高級オーディオ機器での採用増加
+- 高級オーディオ機器での採用増加
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -128,33 +131,33 @@ image: ../assets/images/column-cassette-tape.webp
 
 #### 基本的な周波数特性
 
-ノーマルテープの周波数帯域は約30Hz〜12kHz
+**ノーマルテープ**の周波数帯域は約30Hz〜12kHz
 
-クロムテープで約20Hz〜15kHz
+**クロムテープ**で約20Hz〜15kHz
 
-メタルテープでは約20Hz〜18kHzまで拡張可能
+**メタルテープ**では約20Hz〜18kHzまで拡張可能
 
 
 <hr>
 
 #### 録音ヘッドとイコライジング
 
-IEC規格による録音・再生イコライゼーションがテープタイプごとに異なる
+- IEC規格による録音・再生イコライゼーションがテープタイプごとに異なる
 
-高周波増幅回路（フェライトヘッドなど）で高音域の伸びを実現
+- 高周波増幅回路（フェライトヘッドなど）で高音域の伸びを実現
 
-バイアス信号（高周波の磁気振動）を最適化し、歪みやノイズを低減
+- バイアス信号（高周波の磁気振動）を最適化し、歪みやノイズを低減
 
 
 <hr>
 
 #### ダイナミックレンジとS/N比
 
-ノーマルタイプ：約50〜55dBのS/N比
+**ノーマルタイプ**：約50〜55dBのS/N比
 
-クロムタイプ：約60dB程度
+**クロムタイプ**：約60dB程度
 
-メタルタイプ：約70dBに迫る性能
+**メタルタイプ**：約70dBに迫る性能
 
 
 <hr>
@@ -166,26 +169,26 @@ IEC規格による録音・再生イコライゼーションがテープタイ�
 
 #### 利点
 
-ポータブルで扱いやすい
+- ポータブルで扱いやすい
 
-自己録音・編集が可能
+- 自己録音・編集が可能
 
-カセットプレイヤーの普及による手軽な音楽体験
+- カセットプレイヤーの普及による手軽な音楽体験
 
-アナログ独特の暖かみある音質
+- アナログ独特の暖かみある音質
 
 
 <hr>
 
 #### 欠点
 
-テープ摩耗による音質劣化・消耗品であること
+- テープ摩耗による音質劣化・消耗品であること
 
-ヘッドの汚れや機器の調整で音質が変動
+- ヘッドの汚れや機器の調整で音質が変動
 
-テープの巻き戻しや早送りの手間
+- テープの巻き戻しや早送りの手間
 
-CDやデジタル音源と比較すると周波数帯域・S/N比で劣る
+- CDやデジタル音源と比較すると周波数帯域・S/N比で劣る
 
 
 <hr>
