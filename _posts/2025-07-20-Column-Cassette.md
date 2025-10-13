@@ -25,7 +25,6 @@ image: ../assets/images/column-cassette-tape.webp
 
 こうした文化的背景のもと、カセットテープはアナログ音楽の一大プラットフォームとなった。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V4IuLJFEzxY?si=82FNj06TPse2I3Gz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -49,7 +48,7 @@ image: ../assets/images/column-cassette-tape.webp
 
 - ポータブルデッキの普及で「ウォークマン」文化の胎動
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -61,7 +60,8 @@ image: ../assets/images/column-cassette-tape.webp
 
 - 高級オーディオ機器での採用増加
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
