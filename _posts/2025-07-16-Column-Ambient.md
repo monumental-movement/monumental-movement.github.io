@@ -15,6 +15,7 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 
 このジャンルは音楽とアート、音響と空間、知覚と意識の境界に立つ、極めて哲学的な音楽である。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -34,19 +35,29 @@ Ambient（アンビエント）とは、リスナーに“積極的に聴かれ�
 
 **● 先史時代：環境音楽の萌芽**
 
-[エリック・サティ（Eric Satie）](https://amzn.to/3Iqa4li)：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
+[**エリック・サティ（Eric Satie）**](https://amzn.to/3Iqa4li)：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
 
-[ジョン・ケージ（John Cage）](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+[**ジョン・ケージ（John Cage）**](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **● 1970年代：アンビエントの確立**
 
-Brian Eno：アンビエントという言葉を初めて明示的に使用。
+[**ブライアン・イーノ（Brian Eno）**](https://amzn.to/4h5oST4)：アンビエントという言葉を初めて明示的に使用。
 
 代表作：
 
-[Discreet Music（1975）](https://amzn.to/4nafH64)
+- [**Discreet Music（1975）**](https://amzn.to/4nafH64)
 
-[Ambient 1: Music for Airports（1978）](https://amzn.to/48shEpU)
+- [**Ambient 1: Music for Airports（1978）**](https://amzn.to/48shEpU)
+
+---
 
 **● 1980〜1990年代：電子音楽との融合**
 
@@ -55,6 +66,8 @@ Brian Eno：アンビエントという言葉を初めて明示的に使用。
 [The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
 
 Ambient House / Ambient Technoの隆盛。
+
+---
 
 **● 2000年以降：ジャンルを越えた浸透**
 
@@ -120,7 +133,7 @@ Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
 
 テクノのリズムにアンビエントの空間処理を融合。
 
-アーティスト：[The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
+**アーティスト**：[The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
 **● アンビエント・ドローン**
 
@@ -132,7 +145,7 @@ Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
 
 工場音、機械ノイズを音楽化。
 
-アーティスト：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
+**アーティスト**：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
 **● ニューエイジ／チルアウト系**
 
