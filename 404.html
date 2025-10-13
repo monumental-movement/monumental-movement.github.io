@@ -11,16 +11,34 @@ permalink: /404.html
 <script>
     (function() {
       // 現在のURLを取得
-      var current = window.location.href;
-      var lower = current.toLowerCase();
+      var currentUrl = window.location.href;
 
-      // もし大文字を含んでいるなら小文字URLにリダイレクト
-      if (current !== lower) {
-        // GitHub Pagesでのループ防止対策
-        // URLパラメータに ?lc=true を追加して1回だけリダイレクト
-        if (!current.includes("?lc=true")) {
-          window.location.href = lower + (lower.includes("?") ? "&" : "?") + "lc=true";
+      // すでに?tc=true（title case済み）なら処理を止める（無限ループ防止）
+      if (currentUrl.includes("?tc=true")) return;
+
+      try {
+        // URL部分を分解
+        var url = new URL(currentUrl);
+        var path = url.pathname;
+
+        // 各セグメント（スラッシュで分割）を処理
+        var newPath = path.split('/').map(segment => {
+          if (segment === "" || segment.startsWith(".")) return segment; // 空や拡張子は無視
+          return segment
+            .split('-') // ハイフンで分割
+            .map(word => word.charAt(0).toUpperCase() + word.slice(1)) // 頭文字大文字
+            .join('-');
+        }).join('/');
+
+        // 新しいURLを組み立て
+        var newUrl = url.origin + newPath + (url.search ? url.search + "&tc=true" : "?tc=true");
+
+        // 変換後のURLが異なればリダイレクト
+        if (newUrl !== currentUrl) {
+          window.location.replace(newUrl);
         }
+      } catch (e) {
+        console.error("URL変換中にエラー:", e);
       }
     })();
   </script>
