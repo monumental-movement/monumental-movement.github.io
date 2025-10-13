@@ -8,6 +8,27 @@ permalink: /404.html
         display:none;
     }
 </style>
+<script>
+    var allposts = [];  
+function redirectToCorrectPage() {  
+    {% for post in site.posts %}  
+        allposts.push("{{ site.url }}{{ post.url }}");  
+    {% endfor %}  
+    var url = window.location.toString();  
+    if (url.slice(-1) === "/") {  
+         url = url.slice(0, -1);  
+    }  
+    var allpostsUpperCase = allposts.map(function(value) {  
+        return value.toUpperCase();  
+    });  
+    var i = allpostsUpperCase.indexOf(url.toUpperCase());  
+    if (i != -1) {  
+        console.log(allposts[i]);  
+        window.location = allposts[i];  
+    }  
+}  
+window.onload = redirectToCorrectPage;  
+    </script>
 <div class="text-center">
 <h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
 <h1 class="display-1 mt-4 mb-4"> Page not found!</h1>
