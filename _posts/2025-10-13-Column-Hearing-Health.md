@@ -52,28 +52,28 @@ HHFのサイトには、この精妙なシステムの破綻によって引き�
 <div class="mermaid">
 
 flowchart TB
-  subgraph 外耳
-    A1[耳介（Pinna）]
-    A2[外耳道（Ear canal）]
+  subgraph OuterEar["外耳"]
+    A1[耳介 (Pinna)]
+    A2[外耳道 (Ear canal)]
   end
 
-  subgraph 中耳
-    B1[鼓膜（Tympanic membrane）]
-    B2[耳小骨\n（Malleus・Incus・Stapes）]
-    B3[耳管（Eustachian tube）]
+  subgraph MiddleEar["中耳"]
+    B1[鼓膜 (Tympanic membrane)]
+    B2[耳小骨<br>(Malleus・Incus・Stapes)]
+    B3[耳管 (Eustachian tube)]
   end
 
-  subgraph 内耳
-    C1[蝸牛（Cochlea）]
-    C2[前庭（Vestibule）]
-    C3[半規管（Semicircular canals）]
+  subgraph InnerEar["内耳"]
+    C1[蝸牛 (Cochlea)]
+    C2[前庭 (Vestibule)]
+    C3[半規管 (Semicircular canals)]
   end
 
-  subgraph 神経系
-    D1[有毛細胞（Hair cells）]
-    D2[蝸牛神経（Cochlear nerve）]
-    D3[脳幹・聴覚路（Auditory pathway）]
-    D4[聴覚野（Auditory cortex）]
+  subgraph NeuralPath["神経系"]
+    D1[有毛細胞 (Hair cells)]
+    D2[蝸牛神経 (Cochlear nerve)]
+    D3[脳幹・聴覚路 (Auditory pathway)]
+    D4[聴覚野 (Auditory cortex)]
   end
 
   A1 --> A2
@@ -88,11 +88,10 @@ flowchart TB
   C2 -->|平衡情報| D3
   C3 -->|回転情報| D3
 
-  style 外耳 fill:#f9f,stroke:#333,stroke-width:1px
-  style 中耳 fill:#fffbcc,stroke:#333,stroke-width:1px
-  style 内耳 fill:#ccf,stroke:#333,stroke-width:1px
-  style 神経系 fill:#e6ffe6,stroke:#333,stroke-width:1px
-
+  style OuterEar fill:#f9f,stroke:#333,stroke-width:1px
+  style MiddleEar fill:#fffbcc,stroke:#333,stroke-width:1px
+  style InnerEar fill:#ccf,stroke:#333,stroke-width:1px
+  style NeuralPath fill:#e6ffe6,stroke:#333,stroke-width:1px
 
  </div>
 
