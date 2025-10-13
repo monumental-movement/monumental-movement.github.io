@@ -7,14 +7,10 @@ tags: [ Drum n Bass, Jungle ]
 image: ../assets/images/column-drum-and-bass.webp
 ---
 
-## Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学
+## 都市が産んだハイブリッド・ビート
 
-文：mmr｜テーマ：Drum & Bass・ジャングル・UKサウンド
+文：mmr｜テーマ：Drum & Bass・ジャングル・UKサウンドに関する考察
 
-
-<hr>
-
-### 都市が産んだハイブリッド・ビート
 
 Drum & Bass（以下D&B）は、1990年代初頭のロンドンの地下クラブシーンで生まれた音楽ジャンルであり、同時に多文化的都市生活のリズムそのものである。高速ブレイクビート、唸るようなベースライン、レゲエ／ダブ／ヒップホップ／テクノなどを融合し、UKの音楽史に革新をもたらした。
 
@@ -25,29 +21,33 @@ Drum & Bass（以下D&B）は、1990年代初頭のロンドンの地下クラ�
 
 ### ジャングルからD&Bへ
 
-● 1990〜1993：ジャングルの胎動
+**● 1990〜1993：ジャングルの胎動**
 
 D&Bのルーツはジャングルというジャンルにある。これは、アシッド・ハウス、レイヴ、ヒップホップ、レゲエなどが混ざり合って生まれたカオス的ビート音楽であり、特にアーメン・ブレイク（Amen Break）のサンプリングが中核を成していた。
 
-主要人物：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Rebel MC / Congo Natty：レゲエ的ルーツを色濃く残す。
+---
 
-Shut Up and Dance：ジャングルとヒップホップの橋渡し。
+#### 主要人物：
 
-LTJ Bukem：後のインテリジェントD&Bへとつながる。
+**Rebel MC / Congo Natty**：レゲエ的ルーツを色濃く残す。
 
-● 1994〜1997：Drum & Bassの確立期
+**Shut Up and Dance**：ジャングルとヒップホップの橋渡し。
+
+**LTJ Bukem**：後のインテリジェントD&Bへとつながる。
+
+**● 1994〜1997：Drum & Bassの確立期**
 
 この時期からジャングルという呼称が次第にD&Bへと移行していく。これは、サウンドがより洗練され、サブベースやプロダクション技術が向上したことを意味する。クラブミュージックとしての機能性が高まり、シーンが成熟する。
 
-代表的アーティスト：
+#### 代表的アーティスト：
 
-Goldie（Metalheadz）：名作『Timeless』でD&Bを芸術に昇華。
+**Goldie（Metalheadz）**：名作[『Timeless』](https://amzn.to/4nMAsF9)でD&Bを芸術に昇華。
 
-Roni Size / Reprazent：ライブ演奏とジャズの融合を果たした『New Forms』でマーキュリー賞を受賞。
+**Roni Size / Reprazent**：ライブ演奏とジャズの融合を果たした[『New Forms』](https://amzn.to/3J3I7zN)でマーキュリー賞を受賞。
 
-DJ Hype / Ganja Kru：ジャンプアップ系サウンドの代表格。
+**DJ Hype / Ganja Kru**：ジャンプアップ系サウンドの代表格。
 
 
 <hr>
@@ -93,27 +93,27 @@ DJ Hype / Ganja Kru：ジャンプアップ系サウンドの代表格。
 
 ### サブジャンル：多彩な顔を持つD&Bの世界
 
-● ジャングル（Jungle）
+**● ジャングル（Jungle）**
 
 D&Bの原点。ラガ・ボーカルやレゲエ・ベース、荒削りなブレイクが特徴。
 
-● テックステップ（Techstep）
+**● テックステップ（Techstep）**
 
 ダークでインダストリアル、無機質なサウンド。Ed Rush & Optical、Dom & Rolandなどが代表。
 
-● ニューロファンク（Neurofunk）
+**● ニューロファンク（Neurofunk）**
 
 テックステップの進化形。神経質で歪んだベースラインが中心。Noisia、Phace、Mefjusなど。
 
-● リキッドファンク（Liquid Funk）
+**● リキッドファンク（Liquid Funk）**
 
 ジャズ、ソウル、R&Bの要素を取り入れたメロウなスタイル。Calibre、High Contrast、Netsky。
 
-● ジャンプアップ（Jump-Up）
+**● ジャンプアップ（Jump-Up）**
 
 キャッチーなベースとシンプルな構造でダンスフロア直結型。DJ Hazard、Sub Zeroなど。
 
-● ドラムステップ（Drumstep）
+**● ドラムステップ（Drumstep）**
 
 ハーフタイムとダブステップの影響を受けたサブジャンル。Excision、Downlinkなど。
 
@@ -122,15 +122,15 @@ D&Bの原点。ラガ・ボーカルやレゲエ・ベース、荒削りなブ�
 
 ### D&Bを支えた拠点
 
-Metalheadz（Goldie）：深みと知性を併せ持つ。
+**Metalheadz（Goldie）**：深みと知性を併せ持つ。
 
-Hospital Records（Tony Colman aka London Elektricity）：リキッドファンクの拠点。
+**Hospital Records（Tony Colman aka London Elektricity）**：リキッドファンクの拠点。
 
-Ram Records（Andy C）：メインストリームを牽引。
+**Ram Records（Andy C）**：メインストリームを牽引。
 
-Shogun Audio（Friction）：幅広いスタイルをサポート。
+**Shogun Audio（Friction）**：幅広いスタイルをサポート。
 
-Exit Records（dBridge）：実験的かつ洗練された音を展開。
+**Exit Records（dBridge）**：実験的かつ洗練された音を展開。
 
 また、Pirate Radio（海賊ラジオ）やRinse FMといった非公式メディアがD&Bの普及に果たした役割も大きい。
 
@@ -141,22 +141,22 @@ Exit Records（dBridge）：実験的かつ洗練された音を展開。
 
 D&Bはロンドンやブリストルといった多民族都市で生まれ、移民文化、ストリートカルチャー、レイヴ文化が交錯する場所で育った。
 
-ブラック・ブリティッシュの影響： サウンドシステム文化、レゲエ／ダブの手法。
+**ブラック・ブリティッシュの影響**： サウンドシステム文化、レゲエ／ダブの手法。
 
-白人労働者階級のDIY精神： 海賊ラジオ、インディペンデントレーベル。
+**白人労働者階級のDIY精神**： 海賊ラジオ、インディペンデントレーベル。
 
-テクノ／IDMとの交差： Squarepusher、AutechreなどがD&B的リズムを展開。
+**テクノ／IDMとの交差**： Squarepusher、AutechreなどがD&B的リズムを展開。
 
 
 <hr>
 
 ### ファッション・ライフスタイル
 
-クラブウェア： スポーツウェア、ナイロン、キャップ、ジャージ。
+**クラブウェア**： スポーツウェア、ナイロン、キャップ、ジャージ。
 
-ストリート文化： グラフィティ、スケート、ジャングリストの思想。
+**ストリート文化**： グラフィティ、スケート、ジャングリストの思想。
 
-ヴィジュアル： フューチャリスティックでサイバーパンク的。アートワークも重要。
+**ヴィジュアル**： フューチャリスティックでサイバーパンク的。アートワークも重要。
 
 
 <hr>
@@ -165,12 +165,13 @@ D&Bはロンドンやブリストルといった多民族都市で生まれ、�
 
 現在、D&Bは世界中のベース・ミュージックの基盤として君臨している。特にヨーロッパ（オーストリア、オランダ）、北米、日本、オーストラリアなどでシーンが確立。
 
-● 注目の現代アーティスト
-Noisia（解散済）：神レベルのプロダクション技術。
+**● 注目の現代アーティスト**
 
-Alix Perez：ダブ〜ハーフステップまでこなす音の錬金術師。
+**Noisia（解散済）**：神レベルのプロダクション技術。
 
-Sub Focus / Wilkinson：メインストリームとアンダーグラウンドを繋ぐ存在。
+**Alix Perez**：ダブ〜ハーフステップまでこなす音の錬金術師。
+
+**Sub Focus / Wilkinson**：メインストリームとアンダーグラウンドを繋ぐ存在。
 
 
 <hr>

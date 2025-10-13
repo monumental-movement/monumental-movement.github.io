@@ -23,6 +23,7 @@ image: ../assets/images/column-acid-house.webp
 
 1987年にPhutureがリリースしたシングル「Acid Tracks」が、その音の特徴と名称の両方において、この新しいスタイルの原型となりました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eWpA_xwT1to?si=GLz0gzYpdlJr5a0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -34,27 +35,30 @@ image: ../assets/images/column-acid-house.webp
 
 #### TB-303によるベースライン
 
-独特の「ピュルピュル」「グニャグニャ」した音
+- 独特の「ピュルピュル」「グニャグニャ」した音
 
-フィルターのレゾナンスとスライドによって発生する不思議な音響変化
+- フィルターのレゾナンスとスライドによって発生する不思議な音響変化
 
-アナログのランダム性と手動操作による有機性
+- アナログのランダム性と手動操作による有機性
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omHUR3R0Qqw?si=boX8O6bMt_O796rS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 #### 4つ打ちキック
-BPMは120〜130前後の安定したテンポ
 
-TR-808またはTR-909によるドラムパターンとの組み合わせが定番
+- BPMは120〜130前後の安定したテンポ
+
+- TR-808またはTR-909によるドラムパターンとの組み合わせが定番
 
 
 <hr>
 
 #### ミニマルな構造
-繰り返しのループによるトリップ感
 
-長時間のビルドアップと細かい変化で恍惚感を生み出す
+- 繰り返しのループによるトリップ感
+
+- 長時間のビルドアップと細かい変化で恍惚感を生み出す
 
 このサウンドは、クラブの暗がりやストロボの中で、ダンサーをトランス状態へ導く「ケミカル・サウンド」として絶大な効果を持ちました。
 
@@ -62,41 +66,45 @@ TR-808またはTR-909によるドラムパターンとの組み合わせが定�
 <hr>
 
 ### イギリスへの伝播：サマー・オブ・ラヴとセカンドウェーブ
+
 アシッド・ハウスは1987年末から1988年にかけて、イギリスへと急速に波及します。クラブDJたちがシカゴのホワイトラベルをUKに持ち帰り、ロンドンやマンチェスターのクラブシーンで急激に広まりました。
 
 
 <hr>
 
 ####  「セカンド・サマー・オブ・ラヴ（Second Summer of Love）」：1988年
-アシッド・ハウスとエクスタシー（MDMA）の結びつき
 
-インナーシティ・クラブから野外レイヴへ拡大
+- アシッド・ハウスとエクスタシー（MDMA）の結びつき
 
-ロンドンのShoomやマンチェスターのHaçiendaが中心地
+- インナーシティ・クラブから野外レイヴへ拡大
+
+- ロンドンのShoomやマンチェスターのHaçiendaが中心地
 
 
 <hr>
 
 #### 影響を受けたUKアーティスト
-A Guy Called Gerald「Voodoo Ray」
 
-808 State「Pacific State」
+- [A Guy Called Gerald 「Voodoo Ray」](https://amzn.to/4q8RJtT)
 
-The KLF、Orbital など、アシッド的要素を取り込んだレイヴ系
+- [808 State 「Pacific State」](https://amzn.to/3J8mz5a)
+
+- The KLF、Orbital など、アシッド的要素を取り込んだレイヴ系
 
 
 <hr>
 
 ### ファッションとシンボル：スマイリーフェイスとDIY文化
+
 アシッド・ハウスは音楽だけでなく、視覚文化や若者文化にも影響を与えました。
 
-スマイリーフェイス（☻）：アシッド・ハウスの象徴として世界中に拡散
+**スマイリーフェイス（☻）**：アシッド・ハウスの象徴として世界中に拡散
 
-イエローカラー、ネオン、サイケデリックなヴィジュアル
+- イエローカラー、ネオン、サイケデリックなヴィジュアル
 
-Tシャツ、フライヤー、レコードジャケットに見られるDIYグラフィック
+- Tシャツ、フライヤー、レコードジャケットに見られるDIYグラフィック
 
-当時のZine文化やフリーペーパーとも親和性が高い
+- 当時のZine文化やフリーペーパーとも親和性が高い
 
 このファッションは、レイヴ文化、トランス、テクノ、ブレイクビートなど90年代以降のシーンにも受け継がれていきました。
 
@@ -146,15 +154,16 @@ Tシャツ、フライヤー、レコードジャケットに見られるDIYグ�
 <hr>
 
 ### 現代における位置づけと再評価
+
 今日、アシッド・ハウスはレトロカルチャーやアナログ機材復権の流れの中で再評価されています。特に以下の点で存在感を放っています：
 
-フェスやレイヴにおけるクラシック回帰
+- フェスやレイヴにおけるクラシック回帰
 
-Zine、アーカイブ、アート展示での文化的再評価
+- Zine、アーカイブ、アート展示での文化的再評価
 
-YouTubeやBandcamp上でのアシッド系セット人気
+- YouTubeやBandcamp上でのアシッド系セット人気
 
-TB-303クローン機の爆発的な普及（アナログ機材の再現）
+- TB-303クローン機の爆発的な普及（アナログ機材の再現）
 
 アシッド・ハウスは、単なる音楽ジャンル以上の存在として、電子音楽とカウンターカルチャーの結節点にあり続けているのです。
 
@@ -162,6 +171,15 @@ TB-303クローン機の爆発的な普及（アナログ機材の再現）
 <hr>
 
 ### アシッドは死なず
+
 アシッド・ハウスは、偶発的な技術革新と時代の精神が交錯して生まれた、稀有な音楽文化です。30年以上が経過してもなお、TB-303のうねりはクラブフロアやデジタル空間に響き続け、未来の音楽家たちを刺激し続けています。
 
 アシッドは、過去の残響ではなく、今もなお進化し続ける音のミュータントなのです。
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
+
+🔗 [【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動](https://monumental-movement.jp/Column-Roland-TR-1000)
