@@ -213,9 +213,6 @@ CDやデジタル音源と比較すると周波数帯域・S/N比で劣る
 
 <hr>
 
-
-<hr>
-
 ### List
 
 <div class="table-border">
