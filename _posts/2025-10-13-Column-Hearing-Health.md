@@ -88,11 +88,6 @@ flowchart TB
   C2 -->|平衡情報| D3
   C3 -->|回転情報| D3
 
-  style OuterEar fill:#f9f,stroke:#333,stroke-width:1px
-  style MiddleEar fill:#fffbcc,stroke:#333,stroke-width:1px
-  style InnerEar fill:#ccf,stroke:#333,stroke-width:1px
-  style NeuralPath fill:#e6ffe6,stroke:#333,stroke-width:1px
-
  </div>
 
 ---
