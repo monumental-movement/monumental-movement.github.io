@@ -47,55 +47,6 @@ color: #fff;
 内耳の有毛細胞がその振動を電気信号に変え、脳が“音”として認識する。  
 HHFのサイトには、この精妙なシステムの破綻によって引き起こされる**感音性難聴**や**メニエール病**、**過敏聴覚**のメカニズムがわかりやすく解説されている。
 
-### ▶︎ 図：耳の構造（外耳〜内耳・聴覚路）
-
-<div class="mermaid">
-
-flowchart TB
-  subgraph OuterEar["外耳"]
-    A1[耳介 (Pinna)]
-    A2[外耳道 (Ear canal)]
-  end
-
-  subgraph MiddleEar["中耳"]
-    B1[鼓膜 (Tympanic membrane)]
-    B2[耳小骨<br>(Malleus・Incus・Stapes)]
-    B3[耳管 (Eustachian tube)]
-  end
-
-  subgraph InnerEar["内耳"]
-    C1[蝸牛 (Cochlea)]
-    C2[前庭 (Vestibule)]
-    C3[半規管 (Semicircular canals)]
-  end
-
-  subgraph NeuralPath["神経系"]
-    D1[有毛細胞 (Hair cells)]
-    D2[蝸牛神経 (Cochlear nerve)]
-    D3[脳幹・聴覚路 (Auditory pathway)]
-    D4[聴覚野 (Auditory cortex)]
-  end
-
-  A1 --> A2
-  A2 --> B1
-  B1 --> B2
-  B2 --> C1
-  C1 --> D1
-  D1 --> D2
-  D2 --> D3
-  D3 --> D4
-
-  C2 -->|平衡情報| D3
-  C3 -->|回転情報| D3
-
- </div>
-
----
-
-<caption>外耳で集めた音は外耳道→鼓膜→耳小骨を経て蝸牛へ伝わり、蝸牛内の有毛細胞が振動を電気信号に変換して蝸牛神経を通じて脳へ送られる。前庭・半規管は平衡（バランス）情報を脳に伝える。</caption>
-
----
-
 外耳で集められた音は、鼓膜を経て中耳の耳小骨に伝わり、内耳の蝸牛へ。
 そこから電気信号へ変換され、聴覚神経を通じて脳幹・聴覚野に届く。
 音を聴くことは、物理的現象から神経的・認知的プロセスまでが連なる、まさに“生命の音楽”である。
