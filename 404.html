@@ -9,26 +9,21 @@ permalink: /404.html
     }
 </style>
 <script>
-    var allposts = [];  
-function redirectToCorrectPage() {  
-    {% for post in site.posts %}  
-        allposts.push("{{ site.url }}{{ post.url }}");  
-    {% endfor %}  
-    var url = window.location.toString();  
-    if (url.slice(-1) === "/") {  
-         url = url.slice(0, -1);  
-    }  
-    var allpostsUpperCase = allposts.map(function(value) {  
-        return value.toUpperCase();  
-    });  
-    var i = allpostsUpperCase.indexOf(url.toUpperCase());  
-    if (i != -1) {  
-        console.log(allposts[i]);  
-        window.location = allposts[i];  
-    }  
-}  
-window.onload = redirectToCorrectPage;  
-    </script>
+    (function() {
+      // 現在のURLを取得
+      var current = window.location.href;
+      var lower = current.toLowerCase();
+
+      // もし大文字を含んでいるなら小文字URLにリダイレクト
+      if (current !== lower) {
+        // GitHub Pagesでのループ防止対策
+        // URLパラメータに ?lc=true を追加して1回だけリダイレクト
+        if (!current.includes("?lc=true")) {
+          window.location.href = lower + (lower.includes("?") ? "&" : "?") + "lc=true";
+        }
+      }
+    })();
+  </script>
 <div class="text-center">
 <h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
 <h1 class="display-1 mt-4 mb-4"> Page not found!</h1>
