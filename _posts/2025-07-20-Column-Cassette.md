@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 音楽メディアとしてのカセットテープ：変遷・種類・周波数特性"
 author: mmr
 categories: [ Column ]
-tags: [ Cassette ]
+tags: [ Cassette, 70s, 80s, 90s ]
 image: ../assets/images/column-cassette-tape.webp
 ---
 
@@ -197,11 +197,11 @@ image: ../assets/images/column-cassette-tape.webp
 
 近年、アナログ回帰やレトロ文化の再燃でカセットテープが再評価されている。
 
-インディーズやヒップホップのリリースフォーマットとしての需要
+- インディーズやヒップホップのリリースフォーマットとしての需要
 
-オリジナルの録音体験と物理メディアの魅力
+- オリジナルの録音体験と物理メディアの魅力
 
-録音機材のDIY的利用やオーディオマニアのコレクション対象
+- 録音機材のDIY的利用やオーディオマニアのコレクション対象
 
 
 <hr>
