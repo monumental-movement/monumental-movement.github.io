@@ -23,9 +23,9 @@ EBMは1980年代初頭、ヨーロッパ（主にベルギーとドイツ）で�
 
 特に以下の2組がその先駆けとして知られています：
 
-Front 242（ベルギー）
+- [**Front 242**](https://amzn.to/4oiO6zQ)（ベルギー）
 
-DAF（Deutsch Amerikanische Freundschaft、ドイツ）
+- [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
 彼らは冷たく鋭いエレクトロニクス、暴力的とも言えるミニマルビート、ミリタントなボーカルを駆使し、従来のポップスやロックとは異なる、新たな「肉体的電子音楽」を構築しました。
 
@@ -36,46 +36,48 @@ DAF（Deutsch Amerikanische Freundschaft、ドイツ）
 EBMのサウンドは、一言で言えば「無機質で肉体的」。以下の要素が特徴です：
 
 
-<hr>
-
 #### ハードでミニマルなビート
-主に4/4拍子、BPMは120〜140程度
 
-工業機械のようなメカニカルなリズム
+- 主に4/4拍子、BPMは120〜140程度
 
-ドラムマシン（Roland TR-808, TR-909など）を多用
+- 工業機械のようなメカニカルなリズム
+
+- ドラムマシン（Roland TR-808, TR-909など）を多用
 
 
 <hr>
 
 #### シンセサイザーとシーケンサー
-モノクロームで暗く、重厚なシンセ音
 
-アナログ／デジタルのシーケンサーで動くループ構成
+- モノクロームで暗く、重厚なシンセ音
 
-繰り返しが生むトランス状態と身体性の両立
+- アナログ／デジタルのシーケンサーで動くループ構成
+
+- 繰り返しが生むトランス状態と身体性の両立
 
 
 <hr>
 
 #### ボーカル
-多くは男性による低音の無機質なボイス
 
-歌うというよりは命令口調、スローガン的に語る
+- 多くは男性による低音の無機質なボイス
 
-しばしばドイツ語や英語、仏語が混ざる
+- 歌うというよりは命令口調、スローガン的に語る
 
-ディストーション処理された声も多い
+- しばしばドイツ語や英語、仏語が混ざる
+
+- ディストーション処理された声も多い
 
 
 <hr>
 
 #### テーマと美学
-戦争、監視、機械化、人間疎外、政治的アイロニー
 
-冷戦下のヨーロッパの不安や社会構造批評
+- 戦争、監視、機械化、人間疎外、政治的アイロニー
 
-工場、都市、軍服、フェティシズム、レザー文化
+- 冷戦下のヨーロッパの不安や社会構造批評
+
+- 工場、都市、軍服、フェティシズム、レザー文化
 
 
 <hr>
@@ -129,22 +131,18 @@ EBMのサウンドは、一言で言えば「無機質で肉体的」。以下�
     
 <hr>
 
-
-
-<hr>
-
 ### シーンの広がりと影響
 EBMは1980年代後半〜1990年代初頭にかけて、クラブシーンやアンダーグラウンドで急速に広がります。特にドイツ、スウェーデン、オーストリア、フランスなど、ヨーロッパ各地のエレクトロニック・ミュージックシーンに強い影響を与えました。
 
 また、EBMは以下のジャンルにも多大な影響を与えました：
 
-インダストリアル・ロック／メタル（例：Ministry、Nine Inch Nails、Rammstein）
+- インダストリアル・ロック／メタル（例：[Ministry](https://amzn.to/47pfJBC)、[Nine Inch Nails](https://amzn.to/4nPTgDL)、[Rammstein](https://amzn.to/46ReLxY)）
 
-テクノ、アシッドテクノ
+- テクノ、アシッドテクノ
 
-エレクトロクラッシュ、ダークエレクトロ、アグロテック
+- エレクトロクラッシュ、ダークエレクトロ、アグロテック
 
-ゴス／インダストリアル・クラブカルチャー（サイバーゴス）
+- ゴス／インダストリアル・クラブカルチャー（サイバーゴス）
 
 
 <hr>
@@ -154,11 +152,11 @@ EBMは決して家庭内で聴かれるためだけの音楽ではなく、「�
 
 90年代に入ると、**“Old School EBM”**として回顧される一方で、シーンは以下のような形で枝分かれします：
 
-Futurepop（VNV Nation、Covenantなど）
+- Futurepop（[VNV Nation](https://amzn.to/4942pDT)、[Covenant](https://amzn.to/4n5mRYq)など）
 
-Dark Electro / Harsh EBM（Suicide Commando、Hocicoなど）
+- Dark Electro / Harsh EBM（[Suicide Commando](https://amzn.to/3W1sPPd)、[Hocico](https://amzn.to/4oiOwWW)など）
 
-Techno Body Music (TBM)：テクノDJによるEBMリバイバル（Helena Hauff、Ancient Methods）
+- Techno Body Music (TBM)：テクノDJによるEBMリバイバル（[Helena Hauff](https://amzn.to/46RgP9c)、[Ancient Methods](https://amzn.to/47ucub9)）
 
 
 <hr>
@@ -170,15 +168,16 @@ Techno Body Music (TBM)：テクノDJによるEBMリバイバル（Helena Hauff�
 <hr>
 
 #### 現代アーティスト
-Phase Fatale
 
-Kris Baha
+- [Phase Fatale](https://amzn.to/4qaNDkT)
 
-Boy Harsher
+- [Kris Baha](https://amzn.to/474K3Qx)
 
-Linea Aspera
+- [Boy Harsher](https://amzn.to/4n9b5MT)
 
-Years of Denial
+- [Linea Aspera](https://amzn.to/4nMw7lj)
+
+- [Years of Denial](https://amzn.to/46OccN4)
 
 これらのアーティストはEBMの影響を受けながらも、コールドウェーブやシンセウェーブ、ポストパンクなどの要素と組み合わせ、新しい形のEBMを創出しています。
 
@@ -186,13 +185,14 @@ Years of Denial
 <hr>
 
 #### 特徴的なトレンド
-アナログ機材やハードウェア・ライブの再注目
 
-インディペンデントなカセット／ヴァイナルのリリース
+- アナログ機材やハードウェア・ライブの再注目
 
-ファッション面でのサイバー・パンク／DIY再興
+- インディペンデントなカセット／ヴァイナルのリリース
 
-クラブ／レイヴでの「肉体的」なDJセットへの回帰
+- ファッション面でのサイバー・パンク／DIY再興
+
+- クラブ／レイヴでの「肉体的」なDJセットへの回帰
 
 
 <hr>
