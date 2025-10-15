@@ -53,12 +53,15 @@ flowchart TD
 
 機械による破壊的パフォーマンスで知られるSRLは、1978年にマーク・ポーリンによって発足。巨大な装置と火・粉塵・金属音を用いたショーは、ノイズの“視覚性”と“危険性”を明確に提示し、ベイエリアを「音と機械の実験場」として確立しました。SRLの活動は音響的なノイズ表現のみならず、産業技術への眼差しとしても評価されています。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 #### Negativland
 
 サンフランシスコ周辺で活動し、サンプリング／コラージュを用いたメディア批評的作品で知られる集団。1980年代後半の『Escape From Noise』などは、ノイズとポップカルチャーの接合点を示した重要作で、DIYラジオやフェイク広告的手法を通じて論争と注目を集めました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -66,11 +69,15 @@ flowchart TD
 
 Matmos は1990年代にサンフランシスコで結成され、サンプリングを用いたコンセプチュアルな作品で国際的に評価されました。2000年代以降も実験音楽の“コンセプチュアル側”を牽引し、アート機関や現代音楽系フェスとの接続を強めています。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### コミュニティと現場（Noise Pop・Bay Improviser ほか）
 
 ベイエリアにはNoise Popのようなインディフェスや、Bay Improviser のような即興／実験音楽コミュニティが存在し、若い世代の表現と場の継承を担っています。これらは“ライブ”という場を通じてシーンを循環させ、新旧が交差するプラットフォームを提供します。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -80,7 +87,7 @@ Matmos は1990年代にサンフランシスコで結成され、サンプリン
 
 * [**Negativland**](https://negativland.com) — サンフランシスコ発のサウンドコラージュ集団。90年代のメディア批評的アプローチで知られる。
 
-* **Matmos** — サンプリング／コンセプチュアルな作品で国際的評価を受けたデュオ。現代音楽や美術館とも接続する。
+* [**Matmos**](https://amzn.to/43iSp60) — サンプリング／コンセプチュアルな作品で国際的評価を受けたデュオ。現代音楽や美術館とも接続する。
 
 * **ローカル即興／ノイズ・ネットワーク** — Bay Improviser のようなコミュニティが現場を維持・更新している。
 
@@ -105,6 +112,8 @@ Matmos は1990年代にサンフランシスコで結成され、サンプリン
 ### まとめ（今／未来）
 
 ベイエリアのノイズ／実験音楽は、「破壊する」だけでなく「再編集し、批評する」行為として常に更新を続けています。SRLの機械劇場、Negativlandのメディア批評、Matmosのサウンド・リサーチ──いずれも音楽を越えた実践を提示してきました。現在はデジタル配信とローカルDIYのハイブリッドが進み、Bandcampやローカルフェスが若手を支えています。現場で聴き・参加することが、このシーンを理解する最良の方法です。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
