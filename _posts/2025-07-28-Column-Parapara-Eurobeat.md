@@ -16,6 +16,7 @@ image: ../assets/images/column-parapara-eurobeat.webp
 ヨーロッパで生まれ、アジアで独自の進化を遂げたユーロビートが、なぜ日本でパラパラというスタイルと深く結びついたのか？
 そこには音楽的特徴だけでなく、クラブ文化、メディア戦略、消費者心理といった多面的な要因が交錯していた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -24,13 +25,13 @@ image: ../assets/images/column-parapara-eurobeat.webp
 
 ● 主な音楽的特徴
 
-BPM：140〜160と非常に速い
+- **BPM**：140〜160と非常に速い
 
-構造：明快なサビ、リフレインの多用
+- **構造**：明快なサビ、リフレインの多用
 
-リズム：4つ打ちのドラム＋ハンドクラップ
+- **リズム**：4つ打ちのドラム＋ハンドクラップ
 
-メロディ：明るくドラマティック、かつ哀愁あり
+- **メロディ**：明るくドラマティック、かつ哀愁あり
 
 この構造が、同じパターンを繰り返すパラパラダンスに非常にマッチしていた。
 
@@ -40,31 +41,36 @@ BPM：140〜160と非常に速い
 ### パラパラとは何か？──均一な反復の快楽
 ● パラパラの起源
 
-1980年代末、東京・六本木や渋谷のディスコ（マハラジャ、ジュリアナ東京など）で発生
+- 1980年代末、東京・六本木や渋谷のディスコ（マハラジャ、ジュリアナ東京など）で発生
 
-上下左右の手の振りを細かくそろえた集団ダンス
+- 上下左右の手の振りを細かくそろえた集団ダンス
 
-動きは個人より「統一性」を重視：ソーシャル・ダンスよりも“チーム”に近い
+- **動きは個人より「統一性」を重視**：ソーシャル・ダンスよりも“チーム”に近い
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ● なぜユーロと合ったのか？
 
-高速テンポ → 手振りとリズムがシンクロしやすい
+- 高速テンポ → 手振りとリズムがシンクロしやすい
 
-明確なAメロ・サビ構成 → ダンスの“振り付け”が作りやすい
+- 明確なAメロ・サビ構成 → ダンスの“振り付け”が作りやすい
 
-ドラマティックな曲展開 → 振りの盛り上げ所と合致
+- ドラマティックな曲展開 → 振りの盛り上げ所と合致
 
 
 <hr>
 
 ### avexの戦略：ユーロビート＝日本専用フォーマットへ
+
 ● 「SUPER EUROBEAT」シリーズの誕生（1990年〜）
 
-イタリア制作、日本市場専用のコンピレーションシリーズ
+- イタリア制作、日本市場専用のコンピレーションシリーズ
 
-パラパラフロアとCDショップを結ぶ“連動商品”
+- パラパラフロアとCDショップを結ぶ“連動商品”
 
-ジャケットやブックレットに振り付け解説が掲載されるようになる
+ジ- ャケットやブックレットに振り付け解説が掲載されるようになる
 
 ● ユーロビート専用レーベルと契約
 
@@ -78,35 +84,36 @@ Time、A-Beat C、Deltaなど、イタリアのレーベルがavexと専属契�
 ### ギャル文化とカリスマ：消費されるダンス
 ● 「パラパラ＝ギャル文化の象徴」へ
 
-渋谷109系のファッションと密接に連動
+- 渋谷109系のファッションと密接に連動
 
-振り付けビデオ（VHS、のちDVD）の流通
+- 振り付けビデオ（VHS、のちDVD）の流通
 
-『パラパラパラダイス』『パラパラ教典』などのシリーズも登場
+- 『パラパラパラダイス』『パラパラ教典』などのシリーズも登場
 
 ● メディアの演出
 
-テレビ番組や雑誌で“ギャルカリスマ”が振り付けを紹介
+- テレビ番組や雑誌で“ギャルカリスマ”が振り付けを紹介
 
-実質的に、ユーロビートがティーンのトレンドとしてメインストリームに
+- 実質的に、ユーロビートがティーンのトレンドとしてメインストリームに
 
-「振り覚えること＝参加の儀式」となり、同調圧力と一体感の文化を形成
+- 「振り覚えること＝参加の儀式」となり、同調圧力と一体感の文化を形成
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 ###  パラパラの再興とネット文化
 ● 2000年代中盤以降：ブームの終焉と地下化
 
-ギャル文化の変化、携帯・ネットへの移行
+- ギャル文化の変化、携帯・ネットへの移行
 
-しかし一部クラブでは「リバイバル・イベント」が継続
+- 一部クラブでは「リバイバル・イベント」が継続
 
 ● YouTube世代の“振り起こし”
 
-過去の振り付け動画や曲がネットで共有されることで第2次パラパラブームが局地的に発生
+- 過去の振り付け動画や曲がネットで共有されることで第2次パラパラブームが局地的に発生
 
-海外ファンが再発見、逆輸入的に評価される現象も
+- 海外ファンが再発見、逆輸入的に評価される現象も
 
 
 <hr>
