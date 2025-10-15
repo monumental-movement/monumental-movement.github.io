@@ -17,25 +17,34 @@ image: ../assets/images/column-detroit-techno.webp
 
 ### 起源と定義 — いつ、誰が「テクノ」と呼んだのか
 
-1980年代初頭のデトロイトで、シンセとリズムマシンを駆使した電子ダンス音楽が育ちました。ジャン・アトキンス（Juan Atkins）、デリック・メイ（Derrick May）、ケヴィン・ソーンサーンド（Kevin Saunderson）の3人（いわゆる“ベルリンの3人組”ではなく「デトロイト3人組」）が中心となり、既存の「エレクトロ」「ハウス」とは異なる音の美学を提示し、それが「テクノ」と命名され定着していきます。1988年のコンピレーション『Techno! The New Dance Sound of Detroit』の発表が、ジャンル名の広がりに決定的な役割を果たしました。 
+1980年代初頭のデトロイトで、シンセとリズムマシンを駆使した電子ダンス音楽が育ちました。
+
+ジャン・アトキンス（Juan Atkins）、デリック・メイ（Derrick May）、ケヴィン・ソーンサーンド（Kevin Saunderson）の3人（いわゆる“ベルリンの3人組”ではなく「デトロイト3人組」）が中心となり、既存の「エレクトロ」「ハウス」とは異なる音の美学を提示し、それが「テクノ」と命名され定着していきます。
+
+1988年のコンピレーション[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF)の発表が、ジャンル名の広がりに決定的な役割を果たしました。 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 
 ### 文化的・社会的背景 — 工業都市デトロイトの影
 
-デトロイトは自動車工業で知られる都市。工場の機械音、撤退と失業、都市の荒廃と再生の物語は、そこで育った音楽のテクスチャと感情に深く影響しました。一方でアフリカン・アメリカンのラジオDJ文化（例：Electrifying Mojoのようなキュレーター）やクラブ文化が、欧州の電子音楽（特にKraftwerkなど）と混ざり合って独自の方向性を生みます（Kraftwerkらの影響はしばしば指摘されます）。 
+デトロイトは自動車工業で知られる都市。工場の機械音、撤退と失業、都市の荒廃と再生の物語は、そこで育った音楽のテクスチャと感情に深く影響しました。
 
+一方でアフリカン・アメリカンのラジオDJ文化（例：Electrifying Mojoのようなキュレーター）やクラブ文化が、欧州の電子音楽（特にKraftwerkなど）と混ざり合って独自の方向性を生みます（Kraftwerkらの影響はしばしば指摘されます）。 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/beLEIJfDXfg?si=9IXh5-YNKAgO0MAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 ### サウンドの特徴 — 機械的だが暖かい
 
-ドラムマシン（TR-808/909）、シンセ（ローランド系、アナログ）を中心に構築。
+- ドラムマシン（TR-808/909）、シンセ（ローランド系、アナログ）を中心に構築。
 
-シンプルな反復リズムに、メロディック／テクスチャ的なシンセワークを重ねる。
+- シンプルな反復リズムに、メロディック／テクスチャ的なシンセワークを重ねる。
 
-ハウスよりも冷たく機械的、しかし「メロディや感情性」を持つのがデトロイト流。
+- ハウスよりも冷たく機械的、しかし「メロディや感情性」を持つのがデトロイト流。
 
 DJとプロデューサーの境界が曖昧で、クラブでのプレイ実践（ミックス／反応）から曲が磨かれていった。
 
@@ -43,24 +52,37 @@ DJとプロデューサーの境界が曖昧で、クラブでのプレイ実践
 
 ### 主要人物と「代表曲」
 
-**Juan Atkins / Cybotron / Model 500**
+#### **Juan Atkins / Cybotron / Model 500**
 
 Cybotron名義の「Clear」（1983）は初期のエレクトロ〜テクノの重要曲の一つで、機械的なグルーヴとシンセの空間感が特徴です。 
 
 Model 500名義の「No UFOs」（1985）は、Metroplexレーベルから発表され、テクノ・クラシックとして名高い。 
 
-**Derrick May / Rhythim Is Rhythim**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EarSRa19sZc?si=8RNavw7qdllV1mOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### **Derrick May / Rhythim Is Rhythim**
 
 「Strings of Life」（1987）はエモーショナルなピアノ・フレーズ風シンセと疾走するリズムで、クラブを震わせたアンセム。テクノとハウスの双方で影響力を持つ一曲です。 
 
-**Kevin Saunderson / Inner City**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### **Kevin Saunderson / Inner City**
 
 ケヴィンはクラブ向けのテクノをポップ寄りに展開し、Inner Cityの「Big Fun」や「Good Life」（1988）は世界的ヒットとなり、デトロイト音楽の商業的成功例になりました。 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr-zG-IXDyo?si=4WxnonAAN-XCcRet" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**その他（シーンの拡張）**
+---
+
+#### **その他（シーンの拡張）**
 
 Jeff Mills、Carl Craig、Richie Hawtin（後の活動でデトロイトと国際シーンの橋渡しをした第二世代）など、多様な世代が続きます。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VWlcVRmfUXo?si=pVUaP_odmRB244Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -97,15 +119,15 @@ Metroplex（Juan Atkins）やTransmat（Derrick May、※Transmat設立時期は
 
 以下はデトロイト・テクノを理解するための“核”となる曲です。
 
-**「Clear」 — Cybotron — 1983**
+- **[「Clear」 — Cybotron](https://amzn.to/4omRRnX) — 1983**
 
-**「No UFOs」 — Model 500 (Juan Atkins) — 1985**
+- **[「No UFOs」 — Model 500 (Juan Atkins)](https://amzn.to/475SU4C) — 1985**
 
-**「Strings of Life」 — Rhythim Is Rhythim (Derrick May) — 1987**
+- **[「Strings of Life」 — Rhythim Is Rhythim (Derrick May)](https://amzn.to/3WInaO0) — 1987**
 
-**「Big Fun」 / 「Good Life」 — Inner City (Kevin Saunderson) — 1988** 
+- **[「Big Fun」 「Good Life」 — Inner City (Kevin Saunderson)](https://amzn.to/47a5os8) — 1988** 
 
-**コンピ：『Techno! The New Dance Sound of Detroit』 — 1988**
+- **コンピ：[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF) — 1988**
 
 
 <hr>
