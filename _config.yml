@@ -32,7 +32,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-minifier
     
 # Archives
 jekyll-archives:
@@ -72,13 +71,3 @@ sass:
   style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-
-# Minify output HTML
-jekyll-minifier:
-  exclude: ['robots.txt']
-  remove_comments: true
-  remove_intertag_spaces: true
-  remove_quotes: true
-  compress_css: true
-  compress_javascript: true
