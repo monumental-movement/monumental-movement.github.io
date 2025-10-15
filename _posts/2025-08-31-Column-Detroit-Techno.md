@@ -78,11 +78,19 @@ Model 500名義の「No UFOs」（1985）は、Metroplexレーベルから発表
 
 ---
 
-#### **その他（シーンの拡張）**
+#### **Jeff Mills / The Bells**
 
-Jeff Mills、Carl Craig、Richie Hawtin（後の活動でデトロイトと国際シーンの橋渡しをした第二世代）など、多様な世代が続きます。
+ジェフ・ミルズの代表作のひとつ「The Bells」は、アナログ盤としてリリースされたにもかかわらず、世界累計で50万枚を超える売上を記録し、テクノ史に刻まれる象徴的なトラックとなっている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VWlcVRmfUXo?si=pVUaP_odmRB244Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### **その他（シーンの拡張）**
+
+Richie Hawtin（後の活動でデトロイトと国際シーンの橋渡しをした第二世代）など、多様な世代が続きます。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
