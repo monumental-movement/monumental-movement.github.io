@@ -35,43 +35,6 @@ body, input, button, select, optgroup, textarea {
   }
 
 
-/* 翻訳メニューを右上固定 */
-#google_translate_element {
-  position: fixed;
-  top:60px;
-  right: 30px;
-  z-index: 9999;
-  background: #fff;
-  border-radius: 6px;
-}
-
-#google_translate_element select {
-  background: #fff;
-  border: none;
-  padding: 34px 8px;
-  font-size: 14px;
-  border-radius: 4px;
-}
-
-
-
-@media (max-width: 768px) {
-#google_translate_element {
-  position: fixed;
-  top:20px;
-  right: 30px;
-}
-
-#google_translate_element select {
-  background: #fff;
-  border: none;
-  font-size: 14px;
-  border-radius: 4px;
-}
-}
-
-
-
 
 body {
     line-height:1.7;
