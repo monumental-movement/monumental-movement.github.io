@@ -21,15 +21,15 @@ image: ../assets/images/column-deep-house.webp
 
 **1985–90：原初期（Chicago/NJ）**
 
-Larry Heard (Mr. Fingers) が「Can You Feel It」「Mystery of Love」で原型を提示。Frankie Knuckles、Marshall Jeffersonの流れを受け、Jersey Garageの甘いソウル感（Blaze、Kerri Chandler）が融合。
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) が「Can You Feel It」「Mystery of Love」で原型を提示。[Frankie Knuckles](https://amzn.to/4nUwWJ4)、[Marshall Jefferson](https://amzn.to/3KOf4AV)の流れを受け、Jersey Garageの甘いソウル感（[Blaze](https://amzn.to/4ooZuuc)、[Kerri Chandler](https://amzn.to/4qbd4CR)）が融合。
 
 **1990年代：深化と多様化**
 
-シカゴのRon Trent & Chez Damier（Prescription）、NYのMasters At Work（MAW）、デトロイトのMoodymannが“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
+シカゴの[Ron Trent & Chez Damier（Prescription）](https://amzn.to/4nOApsp)、NYの[Masters At Work（MAW）](https://amzn.to/3KTsg7y)、デトロイトの[Moodymann](https://amzn.to/4h9ZZWB)が“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
 
 **2000年代：リスニング志向と洗練**
 
-Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏ではHenrik Schwarz、Âme、Dixon（後のInnervisions）がミニマル～モダンな構築美で人気に。
+Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
 
 **2010年代以降：分岐とグローバル化**
 
