@@ -21,6 +21,7 @@ image: ../assets/images/column-hi-nrg.webp
 
 Hi-NRGが特に強く支持されたのは、ゲイクラブ でした。70年代のストーンウォール暴動以降、LGBTQコミュニティは自らの表現とアイデンティティの場をクラブシーンに求め、Hi-NRGはその 「解放の音楽」 として機能したのです。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -29,15 +30,24 @@ Hi-NRGが特に強く支持されたのは、ゲイクラブ でした。70年�
 
 同性愛が依然として差別や偏見の対象であった時代、Hi-NRGは「誰にも縛られずに踊り、愛し合える空間」を提供しました。クラブのダンスフロアは社会の抑圧から逃れられる セーフスペース であり、Hi-NRGはそのBGMとして不可欠でした。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRnBNo9TWNY?si=OW8j9TwpoJe9s09l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 🌈 アイデンティティの表現
 
 Hi-NRGのリリックはしばしば 愛・欲望・自己解放 をテーマにしており、ストレートな恋愛だけでなく、LGBTQが抱える切実な感情を代弁するかのように響きました。
 例えば Evelyn Thomas「High Energy」や Hazell Dean「Searchin’」は、ゲイアンセムとしてクラブシーンに深く刻まれました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 🌈 ドラッグカルチャーとの融合
 
 Bobby Orlandoが手掛けた Divine の楽曲群（例: “You Think You’re a Man”）は、Hi-NRGとドラッグクイーン文化を直結させた象徴的存在です。彼女のパフォーマンスは過激で挑発的であり、音楽とジェンダー表現の境界を破壊しました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -46,6 +56,10 @@ Bobby Orlandoが手掛けた Divine の楽曲群（例: “You Think You’re a 
 **Sylvester**
 
 オープンリー・ゲイであったシンガー。代表曲 “You Make Me Feel (Mighty Real)” はHi-NRGの原点であり、ゲイ・アンセムとして不朽の名作。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gD6cPE2BHic?si=nh821ZQkoN4wIcvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **Hazell Dean**
 
@@ -78,6 +92,7 @@ Hi-NRGはやがて シカゴ・ハウス や ユーロビート へと発展し�
 
 現代のDrag Race文化やハイパーポップのアーティスト（SOPHIE、Kim Petrasなど）にも、Hi-NRGの 誇張されたエネルギー感とジェンダー表現 のDNAが受け継がれています。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUJ9Oc7WW3g?si=aoUWMeK4ZTl9cNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
