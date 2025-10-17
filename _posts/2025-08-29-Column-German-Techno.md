@@ -24,23 +24,23 @@ image: ../assets/images/column-german-techno.webp
 
 1989年のベルリンの壁崩壊は、ドイツにおけるテクノ発展の転機でした。東西の文化が融合する中で、廃墟や倉庫を活用したパーティが急増し、ベルリンは「自由の音」を象徴するテクノの聖地となりました。
 
-**Tresor（トレゾア）**：1991年に設立されたクラブ兼レーベル。デトロイト・テクノとベルリン独自の硬質なサウンドを橋渡しした存在。
+- **Tresor（トレゾア）**：1991年に設立されたクラブ兼レーベル。デトロイト・テクノとベルリン独自の硬質なサウンドを橋渡しした存在。
 
-**Harthouse / Eye Q（フランクフルト）**：Sven Väth が関わったレーベル群。トランスやテクノの進化を牽引。
+- **Harthouse / Eye Q（フランクフルト）**：Sven Väth が関わったレーベル群。トランスやテクノの進化を牽引。
 
 <hr>
 
 ### ジャーマン・テクノの特徴
 
-**ミニマリズムと反復性**
+- **ミニマリズムと反復性**
 
 ドイツのテクノは、デトロイト・テクノのソウルフルな要素に比べ、より機械的で直線的なリズムが強調されました。
 
-**インダストリアルの影響**
+- **インダストリアルの影響**
 
 Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的な無機質さや冷徹さをサウンドに反映。
 
-**クラブカルチャーとの一体化**
+- **クラブカルチャーとの一体化**
 
 ベルリンの「Berghain」「Tresor」に象徴されるように、クラブ空間とサウンドが不可分。音楽は単なる聴覚体験ではなく、都市文化やライフスタイルの一部として機能しました。
 
@@ -48,15 +48,15 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 ### 代表的アーティスト・レーベル
 
-**Sven Väth（フランクフルト）**：ドイツ・テクノの象徴的存在。レーベル Cocoon を通じてシーンを国際化。
+- **Sven Väth（フランクフルト）**：ドイツ・テクノの象徴的存在。レーベル Cocoon を通じてシーンを国際化。
 
-**Ellen Allien（ベルリン）**：BPitch Control 創設者。アンダーグラウンドと実験性を融合。
+- **Ellen Allien（ベルリン）**：BPitch Control 創設者。アンダーグラウンドと実験性を融合。
 
-**Paul Kalkbrenner**：映画『Berlin Calling』で広く知られる。メロディックかつ叙情的なテクノ。
+- **Paul Kalkbrenner**：映画『Berlin Calling』で広く知られる。メロディックかつ叙情的なテクノ。
 
-**Johannes Heil**：硬質でダークなドイツ・テクノを追求するプロデューサー。
+- **Johannes Heil**：硬質でダークなドイツ・テクノを追求するプロデューサー。
 
-**Len Faki, Ben Klock, Marcel Dettmann**：Berghain のレジデントとして世界的評価を獲得。
+- **Len Faki, Ben Klock, Marcel Dettmann**：Berghain のレジデントとして世界的評価を獲得。
 
 <hr>
 
@@ -76,6 +76,10 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 **代表的動き**：フランクフルトのクラブ「Dorian Gray」、ベルリンのアンダーグラウンドパーティがシーンを支える。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 #### 1990年代前半（拡大期）
 
 **背景**：ベルリンの壁崩壊後、空き倉庫や工場跡地でのレイヴ文化が爆発。クラブ「Tresor」オープン（1991）。
@@ -89,6 +93,10 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 - 初期トランスやハードテクノが混在
 
 **代表的アーティスト**：Sven Väth、Hardfloor、Westbam、Maurizio（Basic Channel）。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsN_-o3ZLvA?si=pEpXzVSISzPFxIpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 #### 1990年代後半（洗練と細分化）
 
@@ -104,6 +112,10 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 **代表的アーティスト**：Chris Liebing、Johannes Heil、Heiko Laux。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 #### 2000年代（国際化と多様化）
 
 **背景**：ベルリンが世界的クラブ都市に。クラブ「Berghain」オープン（2004）。
@@ -118,6 +130,10 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 **代表的アーティスト**：Len Faki、Monika Kruse、Ellen Allien、Zombie Nation。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQRI3b2SX8c?si=06ngyujErrkR6Kfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 #### 2010年代（グローバルシーンの中心へ）
 
 **背景**：EDMブームの裏で、テクノはアンダーグラウンドの象徴として逆に存在感を増す。
@@ -131,6 +147,10 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 - メロディック・テクノやディープ・テクノが世界的に支持を獲得
 
 **代表的アーティスト**：Ben Klock、Marcel Dettmann、Nina Kraviz（ベルリンで活動）、Stephan Bodzin。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 #### 2020年代（現在進行形）
 
@@ -148,6 +168,7 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 年代ごとに聴き比べると、**「インダストリアルで冷徹 → ミニマル化 → ハード化 → メロディック化 → 再インダストリアル化」**という循環が見えてきます。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -161,6 +182,8 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 ---
 
 ### 関連コラム
+
+🔗 [【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学](https://monumental-movement.jp/column-german-techno-areas)
 
 🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

@@ -333,3 +333,17 @@ flowchart TD
 それが、この国が世界のどこよりも「音に誠実」であり続ける理由だ。
 
 
+---
+
+### 関連コラム
+
+🔗 [【コラム】 ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
+
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+
