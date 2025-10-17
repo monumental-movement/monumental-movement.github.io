@@ -26,15 +26,15 @@ image: ../assets/images/column-dubstep.webp
 
 ### サウンドの特徴
 
-ダブステップは「体で聴く音楽」と言われるほど、物理的な低音の圧力に支えられている。
+ダブステップは**「体で聴く音楽」**と言われるほど、物理的な低音の圧力に支えられている。
 
-**テンポ**：BPMはおおよそ138～142。
+- **テンポ**：BPMはおおよそ138～142。
 
-**リズム**：2ステップ由来のブロークンなビート構造。キックは4つ打ちではなく、スネアが3拍目に強調される。
+- **リズム**：2ステップ由来のブロークンなビート構造。キックは4つ打ちではなく、スネアが3拍目に強調される。
 
-**ベース**：深いサブベース、歪んだベースライン、いわゆる「ワブル・ベース（Wobble Bass）」が特徴的。
+- **ベース**：深いサブベース、歪んだベースライン、いわゆる「ワブル・ベース（Wobble Bass）」が特徴的。
 
-**ムード**：ダークでミニマル、あるいは実験的なサウンドデザイン。
+- **ムード**：ダークでミニマル、あるいは実験的なサウンドデザイン。
 
 代表的な初期アーティストには Skream, Benga, Digital Mystikz (Mala & Coki), Loefah らが挙げられる。彼らの活動は、伝説的なロンドンのクラブ 「Plastic People」 を中心に展開された。
 
@@ -42,11 +42,11 @@ image: ../assets/images/column-dubstep.webp
 
 ### シーンを支えたメディアとイベント
 
-**DMZ**：Digital Mystikzが主宰したクラブ・イベントであり、ダブステップの象徴的存在。
+- **DMZ**：Digital Mystikzが主宰したクラブ・イベントであり、ダブステップの象徴的存在。
 
-**Rinse FM**：パイレート・ラジオ局として、まだ無名だったアーティストの実験的サウンドを広める場となった。
+- **Rinse FM**：パイレート・ラジオ局として、まだ無名だったアーティストの実験的サウンドを広める場となった。
 
-HatchaのDJセット：初期のダブステップを定義づけた重要な要素。
+- **HatchaのDJセット**：初期のダブステップを定義づけた重要な要素。
 
 <hr>
 
@@ -54,11 +54,16 @@ HatchaのDJセット：初期のダブステップを定義づけた重要な要
 
 2008年頃から、ダブステップはUKの地下を超えて世界に広がった。
 
-**アメリカでのブレイク**：Skrillexを筆頭に、より攻撃的で派手な「ブロステップ（Brostep）」が登場。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**リミックス文化**：ポップスやロック、ヒップホップにダブステップの要素が持ち込まれ、幅広いリスナーを獲得した。
+---
 
-**多様化**：ダークで重厚な路線から、メロディアスでドラマティックな展開を持つサウンドへと進化。
+- **アメリカでのブレイク**：Skrillexを筆頭に、より攻撃的で派手な「ブロステップ（Brostep）」が登場。
+
+
+- **リミックス文化**：ポップスやロック、ヒップホップにダブステップの要素が持ち込まれ、幅広いリスナーを獲得した。
+
+- **多様化**：ダークで重厚な路線から、メロディアスでドラマティックな展開を持つサウンドへと進化。
 
 <hr>
 
@@ -71,29 +76,29 @@ HatchaのDJセット：初期のダブステップを定義づけた重要な要
 
 ### ダブステップの文化的影響
 
-**EDMシーンへの浸透**：フェス文化と結びつき、メインステージで鳴り響く存在へ。
+- **EDMシーンへの浸透**：フェス文化と結びつき、メインステージで鳴り響く存在へ。
 
-**ベース・ミュージックの再評価**：トラップやフューチャーベースなど、後続ジャンルの発展にも大きく影響。
+- **ベース・ミュージックの再評価**：トラップやフューチャーベースなど、後続ジャンルの発展にも大きく影響。
 
-**サウンドデザインの革新**：ソフトシンセやサンプラーを駆使した制作手法が標準化され、現代エレクトロニック・ミュージック全般に波及。
+- **サウンドデザインの革新**：ソフトシンセやサンプラーを駆使した制作手法が標準化され、現代エレクトロニック・ミュージック全般に波及。
 
 <hr>
 
-### 代表的な作品（例：Monumental Movement掲載）
+### 代表的な作品（Monumental Movement掲載）
 
-**Skrillex – Scary Monsters And Nice Sprites**
+- [**Skrillex – Scary Monsters And Nice Sprites**](https://monumental-movement.jp/Skrillex-Scary-Monsters-And-Nice-Sprites)
 
 → 世界的にダブステップを拡散させた金字塔的作品。
 
-**Zed Bias – Ambush Riddim / Cosmic Minefield**
+- [**Zed Bias – Ambush Riddim / Cosmic Minefield**](https://monumental-movement.jp/Zed-Bias-Ambush-Riddim-Cosmic-Minefield)
 
 → ガラージからダブステップへの橋渡しとなった一枚。
 
-**Benga & Walsh vs Darqwan – Addicts / Megatection**
+- [**Benga & Walsh vs Darqwan – Addicts / Megatection**](https://monumental-movement.jp/Benga-and-Walsh-Vs-Darqwan-Addicts-Megatection)
 
 → UKシーンの重鎮が揃ったクラシック。
 
-**Distance – Night Vision Traffic (Remixes)**
+- [**Distance – Night Vision Traffic (Remixes)**](https://monumental-movement.jp/Distance-Night-Vision-Traffic-(Remixes))
 
 → Skream、Goth-Tradらが参加した濃厚リミックス盤。
 

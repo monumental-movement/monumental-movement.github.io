@@ -99,8 +99,11 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
 
 → Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
