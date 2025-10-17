@@ -25,9 +25,17 @@ image: ../assets/images/column-new-age.webp
 
 ### 成り立ちと歴史的背景
 
-1970年代：ニューエイジ思想や東洋哲学への関心の高まりとともに、瞑想や自然回帰を志向する人々の間で広がった。クラウトロック（Tangerine Dream, Popol Vuh など）やブライアン・イーノのアンビエント作品が土壌となる。
+**1970年代**：ニューエイジ思想や東洋哲学への関心の高まりとともに、瞑想や自然回帰を志向する人々の間で広がった。クラウトロック（[Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh) など）や[ブライアン・イーノ](https://amzn.to/4ooImVa)のアンビエント作品が土壌となる。
 
-**1980年代**：Windham Hill Records や Private Music といったレーベルが設立され、ジョージ・ウィンストンやキタロウ（喜多郎）などが世界的に人気を獲得。「ニューエイジ」という言葉が音楽マーケットのカテゴリーとして定着する。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**1980年代**：Windham Hill Records や Private Music といったレーベルが設立され、[ジョージ・ウィンストン](https://amzn.to/3W7NEZl)や[キタロウ（喜多郎）](https://amzn.to/42I1xBc)などが世界的に人気を獲得。「ニューエイジ」という言葉が音楽マーケットのカテゴリーとして定着する。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **1990年代**：CD時代の「癒し」ブームに乗り、環境音や自然音を組み合わせたコンピレーションが量産され、日本でも「ヒーリング・ミュージック」として浸透。グラミー賞でも「Best New Age Album」部門が設立される。
 
@@ -37,17 +45,17 @@ image: ../assets/images/column-new-age.webp
 
 ### 代表的アーティストと作品
 
-**ブライアン・イーノ（Brian Eno）**：「Ambient 1: Music for Airports」― ニューエイジとアンビエントの源流をつなぐ。
+- **ブライアン・イーノ（Brian Eno）**：「Ambient 1: Music for Airports」― ニューエイジとアンビエントの源流をつなぐ。
 
-**喜多郎（Kitaro）**：シンセサイザーを駆使した壮大なサウンドスケープ。NHK『シルクロード』で世界的に知られる。
+- **喜多郎（Kitaro）**：シンセサイザーを駆使した壮大なサウンドスケープ。NHK『シルクロード』で世界的に知られる。
 
-**ジョージ・ウィンストン（George Winston）**：ピアノ独奏による静謐な音世界。「December」など季節感にあふれる作品。
+- **ジョージ・ウィンストン（George Winston）**：ピアノ独奏による静謐な音世界。「December」など季節感にあふれる作品。
 
-**アンドレアス・フォーレンヴァイダー（Andreas Vollenweider）**：エレクトリック・ハープを用いた幻想的な演奏で人気。
+- **アンドレアス・フォーレンヴァイダー（Andreas Vollenweider）**：エレクトリック・ハープを用いた幻想的な演奏で人気。
 
-**エニグマ（Enigma）**：グレゴリオ聖歌とシンセを融合させた「Sadeness (Part I)」で世界的ヒット。
+- **エニグマ（Enigma）**：グレゴリオ聖歌とシンセを融合させた「Sadeness (Part I)」で世界的ヒット。
 
-**ヤニ（Yanni）**：シンフォニックなスケールを持つステージパフォーマンスで90年代に人気を博す。
+- **ヤニ（Yanni）**：シンフォニックなスケールを持つステージパフォーマンスで90年代に人気を博す。
 
 <hr>
 
@@ -67,13 +75,13 @@ image: ../assets/images/column-new-age.webp
 
 現在のニューエイジ音楽は、単なる“癒しの音楽”から脱却し、以下の文脈で新たに評価されている。
 
-**ローファイやチルアウト文化**：ストリーミング時代の“聴き流し音楽”として再注目。
+- **ローファイやチルアウト文化**：ストリーミング時代の“聴き流し音楽”として再注目。
 
-**アナログ回帰**：レコード再発やカセット文化の中で80〜90年代の作品が掘り起こされる。
+- **アナログ回帰**：レコード再発やカセット文化の中で80〜90年代の作品が掘り起こされる。
 
-**アンビエントの再興**：現代作曲家（Laraaji, Kaitlyn Aurelia Smith など）がニューエイジ的要素を現代的に再構築。
+- **アンビエントの再興**：現代作曲家（Laraaji, Kaitlyn Aurelia Smith など）がニューエイジ的要素を現代的に再構築。
 
-**ウェルネス産業**：マインドフルネス、ヨガ、瞑想アプリなどでニューエイジ音楽的なサウンドが標準装備に。
+- **ウェルネス産業**：マインドフルネス、ヨガ、瞑想アプリなどでニューエイジ音楽的なサウンドが標準装備に。
 
 <hr>
 
