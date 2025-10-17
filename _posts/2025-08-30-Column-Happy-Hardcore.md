@@ -65,25 +65,25 @@ Konamiの [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) や [beatmania
 
 ### 文化的キーワード
 
-**可愛さ（Kawaii）**：高速でポップな旋律に日本的“カワイイ文化”が反映。
+- **可愛さ（Kawaii）**：高速でポップな旋律に日本的“カワイイ文化”が反映。
 
-**オタク文化**：アニメ・同人誌・秋葉原クラブカルチャーと直結。
+- **オタク文化**：アニメ・同人誌・秋葉原クラブカルチャーと直結。
 
-**ゲーム文化**：DDRや音ゲーがハッピーハードコアを身近にした。
+- **ゲーム文化**：DDRや音ゲーがハッピーハードコアを身近にした。
 
-**逆輸入現象**：UK発祥のジャンルが、日本で独自に発展し、再び世界に影響を与える。
+- **逆輸入現象**：UK発祥のジャンルが、日本で独自に発展し、再び世界に影響を与える。
 
 <hr>
 
 ### 代表的な日本のハッピーハードコア／J-Core系アーティスト
 
-**[DJ Shimamura](https://amzn.to/46OsTHX)** – 日本ハッピーハードコアの代表格。
+- **[DJ Shimamura](https://amzn.to/46OsTHX)** – 日本ハッピーハードコアの代表格。
 
-**[DJ Sharpnel](https://amzn.to/4pIBKCL)** – 海外で“J-Core”として高く評価。
+- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – 海外で“J-Core”として高く評価。
 
-**[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – BEMANIシーンの主要クリエイター。
+- **[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – BEMANIシーンの主要クリエイター。
 
-**[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – 秋葉原系クラブ文化の人気プロデューサー。
+- **[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – 秋葉原系クラブ文化の人気プロデューサー。
 
 <hr>
 
