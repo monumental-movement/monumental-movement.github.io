@@ -22,6 +22,8 @@ image: ../assets/images/column-acid-jazz.webp
 
 1980年代のクラブシーンでは、アシッドハウスやヒップホップの熱気に呼応しつつ、ブラックミュージックを再評価する動きが強まっていた。その中で「踊れるジャズ」「クラブ対応のソウルフルな音楽」としてアシッドジャズは登場したのである。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <hr>
 
@@ -68,11 +70,25 @@ Acid Jazz の広がりは、欧州・米国・アジアの地政学とも密接�
 
 - [**Incognito**](https://amzn.to/470j5Lr)：ブルーイ（Jean-Paul "Bluey" Maunick）が率いる、最重要バンド。ファンクとソウルを融合し、流麗なホーンと女性ボーカルをフィーチャー。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X0tPaeW5lQk?si=12RvPGrxPjLLgBX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - [**Brand New Heavies**](https://amzn.to/3KPmqEe)：グルーヴィーでソウルフルなバンドサウンド。90年代には全米R&Bチャートにも進出。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Om_l8SP9VE?si=wOWf_0s0oCEuRh2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 - [**Jamiroquai**](https://amzn.to/4haQsP0)：ジェイ・ケイ率いるバンド。ファンクとアシッドジャズを基盤に、エコロジー的メッセージとカリスマ性で国際的ブレイク。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3yv3MluHg?si=ZqIbpLdUkqBLAjY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - [**Galliano**](https://amzn.to/48uBEIK)：ギレス・ピーターソンがプロデュース。ラップとジャズの融合で、よりストリート色を強めた。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <hr>
@@ -89,6 +105,7 @@ Acid Jazz は「逆輸入」として受け止められました。米国では7
 そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
 一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <hr>
@@ -103,6 +120,7 @@ Acid Jazz は「逆輸入」として受け止められました。米国では7
 
 日本では、特にUnited Future Organization (UFO) がワールドワイドに評価され、東京クラブシーンのアシッドジャズの顔となった。[野崎良太（Jazztronik）](https://amzn.to/4nP9mxl)らの後続もこの潮流を継ぐ。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -149,7 +167,7 @@ Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の�
 
 また、クラブミュージックとジャズの架け橋として果たした役割は大きく、現代のジャズ・リヴァイヴァル（ロンドンの[Shabaka Hutchings](https://amzn.to/3W0xMYx)らによる新世代ジャズ）にも影響を与えている。
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 

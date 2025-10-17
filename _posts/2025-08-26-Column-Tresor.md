@@ -99,7 +99,6 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
 
 → Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
 
@@ -107,39 +106,39 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 ### Tresorが残したもの
 
-デトロイトとベルリンを結んだ国際的ネットワーク
+- デトロイトとベルリンを結んだ国際的ネットワーク
 
-「テクノ＝都市の未来像」という文化的価値観
+- 「テクノ＝都市の未来像」という文化的価値観
 
-レーベルを通じた歴史的名盤群
+- レーベルを通じた歴史的名盤群
 
-廃墟を再利用する「場所性」の美学
+- 廃墟を再利用する「場所性」の美学
 
-ベルリンが「世界のテクノ首都」と呼ばれる基盤
+- ベルリンが「世界のテクノ首都」と呼ばれる基盤
 
 <hr>
 
 ### Tresorを体感するための必聴盤（おすすめ10選）
 
-[Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
+- [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
-[Robert Hood – Internal Empire (1994, Tresor)](https://amzn.to/4pF5ArL)
+- [Robert Hood – Internal Empire (1994, Tresor)](https://amzn.to/4pF5ArL)
 
-[Underground Resistance – X-102: Discovers the Rings of Saturn (1992, Tresor)](https://a.r10.to/hPv0yA)
+- [Underground Resistance – X-102: Discovers the Rings of Saturn (1992, Tresor)](https://a.r10.to/hPv0yA)
 
-[Blake Baxter – Dream Sequence (1994, Tresor)](https://amzn.to/4mBJgfG)
+- [Blake Baxter – Dream Sequence (1994, Tresor)](https://amzn.to/4mBJgfG)
 
-[Juan Atkins – Skynet (1998, Tresor)](https://amzn.to/4mCc5bQ)
+- [Juan Atkins – Skynet (1998, Tresor)](https://amzn.to/4mCc5bQ)
 
-[Drexciya – Neptune’s Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
+- [Drexciya – Neptune’s Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
 
-[Surgeon – Tresor.117: Force + Form (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
+- [Surgeon – Tresor.117: Force + Form (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
-[Joey Beltram – Close Grind (2001)](https://www.discogs.com/master/61198-JB³-Close-Grind)
+- [Joey Beltram – Close Grind (2001)](https://www.discogs.com/master/61198-JB³-Close-Grind)
 
-[Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
+- [Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
-[Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
+- [Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
 <hr>
 
