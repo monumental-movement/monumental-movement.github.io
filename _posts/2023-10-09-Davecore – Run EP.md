@@ -4,7 +4,7 @@ title:  "Davecore – Run! EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Breaks ]
-image: ../assets/images/Davecore – Run! EP.jpg
+image: ../assets/images/Davecore – Run! EP.webp
 ---
 
 「Run! EP」は、

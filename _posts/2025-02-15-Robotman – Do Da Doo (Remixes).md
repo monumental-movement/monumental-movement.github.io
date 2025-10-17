@@ -4,7 +4,7 @@ title:  "Robotman – Do Da Doo (Remixes)"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Minimal, Acid, 90s ]
-image: ../assets/images/Robotman – Do Da Doo (Remixes).jpg
+image: ../assets/images/Robotman – Do Da Doo (Remixes).webp
 ---
 
 「Robotman – Do Da Doo (Remixes)」は、1994年にリリースされたリッチー・ホーティン（Richie Hawtin）によるプロジェクト「Robotman」のリミックスアルバムです。このアルバムにはいくつかの異なるリミックスが含まれています。

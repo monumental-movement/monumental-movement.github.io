@@ -4,7 +4,7 @@ title:  "Krafty Kuts – Uptight / Where's The Noise"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbet, 00s ]
-image: ../assets/images/Krafty Kuts – Uptight.jpg
+image: ../assets/images/Krafty Kuts – Uptight.webp
 ---
 
 Krafty Kuts（クラフティー カッツ）こと Martin Reeves（マーティン・リーヴス）はブライトン出身のブレイクDJ＆プロデューサー。2006年にはブレイクス界最高賞ともいわれるBreakspoll AwardsでベストDJを受賞。

@@ -4,7 +4,7 @@ title:  "V – Sub-Machine The Unheard"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Indie Rock, 7inch ]
-image: ../assets/images/V – Sub-Machine The Unheard.jpg
+image: ../assets/images/V – Sub-Machine The Unheard.webp
 ---
 
 「Sub-Machine / The Unheard」は、

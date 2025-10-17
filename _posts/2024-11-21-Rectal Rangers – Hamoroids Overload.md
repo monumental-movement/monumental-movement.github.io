@@ -4,7 +4,7 @@ title:  "Rectal Rangers – Hamoroids / Overload"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard Trance, Trance, 00s ]
-image: ../assets/images/Rectal Rangers – Hamoroids Overload.jpg
+image: ../assets/images/Rectal Rangers – Hamoroids Overload.webp
 ---
 
 Rectal Rangers は、Gorden Flintrop, Kevin Sieja, Oliver Catsによるプロジェクト。別名義でStormcatchersがある。

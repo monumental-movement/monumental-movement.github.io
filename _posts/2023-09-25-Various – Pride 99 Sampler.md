@@ -4,7 +4,7 @@ title:  "Various – Pride '99 Sampler"
 author: mmr
 categories: [ Cassette ]
 tags: [ Sample, Rare ]
-image: ../assets/images/Various – Pride '99 Sampler.jpg
+image: ../assets/images/Various – Pride '99 Sampler.webp
 ---
 
 「Various – Pride '99 Sampler」は、1999年にUSレーベルのWherehouse Musicからリリースされたレアなプロモ・テープです。

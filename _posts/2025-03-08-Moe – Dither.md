@@ -4,7 +4,7 @@ title:  "Moe. – Dither"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Psychedelic Rock, Rock, 00s ]
-image: ../assets/images/Moe – Dither.jpg
+image: ../assets/images/Moe – Dither.webp
 ---
 
 Moe は、1989年にバッファロー大学で結成されたアメリカのジャムロックバンド。

@@ -4,7 +4,7 @@ title:  "Abe Duque – Don't Be So Mean Part I"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Downtempo, Rare ]
-image: ../assets/images/Abe Duque – Don't Be So Mean Part I.jpg
+image: ../assets/images/Abe Duque – Don't Be So Mean Part I.webp
 ---
 
 NYアンダーグラウンドアシッド・シーンで活躍するAbe Duque（アベ・デューク）。

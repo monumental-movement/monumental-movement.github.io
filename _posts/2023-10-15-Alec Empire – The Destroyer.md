@@ -4,7 +4,7 @@ title:  "Alec Empire – The Destroyer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Digital Hardcore, Breakcore ]
-image: ../assets/images/Alec Empire – The Destroyer.jpg
+image: ../assets/images/Alec Empire – The Destroyer.webp
 ---
 
 Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。

@@ -4,7 +4,7 @@ title:  "Yellow Magic Orchestra – X∞Multiplies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno ]
-image: ../assets/images/Yellow Magic Orchestra – X Multiplies US.jpg
+image: ../assets/images/Yellow Magic Orchestra – X Multiplies US.webp
 ---
 
 1980年7月にA&Mレコードよりアメリカで発売されたYMOのベストアルバム「

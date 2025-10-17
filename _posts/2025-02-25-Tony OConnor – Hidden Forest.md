@@ -4,7 +4,7 @@ title:  "Tony O'Connor – Hidden Forest"
 author: mmr
 categories: [ CD ]
 tags: [ New Age, Ambient, 90s ]
-image: ../assets/images/Tony OConnor – Hidden Forest.jpg
+image: ../assets/images/Tony OConnor – Hidden Forest.webp
 ---
 
 Tony O'Connorは、オーストラリア・クイーンズランド州を拠点に活動していた、アンビエント/リラックスミュージッククリエーター。

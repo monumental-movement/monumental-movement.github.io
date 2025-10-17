@@ -4,7 +4,7 @@ title:  "Resistance D – Dreams EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, Trance ]
-image: ../assets/images/Resistance D – Dreams EP.jpg
+image: ../assets/images/Resistance D – Dreams EP.webp
 ---
 
 「Dreams EP」は、1992年にレーベルDirect DriveからリリースされたResistance DのEPです。

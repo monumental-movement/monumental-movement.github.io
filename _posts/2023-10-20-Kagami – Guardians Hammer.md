@@ -4,7 +4,7 @@ title:  "Kagami – Guardians Hammer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Kagami – Guardians Hammer.jpg
+image: ../assets/images/Kagami – Guardians Hammer.webp
 ---
 
 「Kagami – Guardians Hammer」は、テクノ/ディスコ/ハウスレーベルCarizmaより2008年にリリースされた。

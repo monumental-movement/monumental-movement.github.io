@@ -12,7 +12,7 @@ image: ../assets/images/pickup-deep-house.webp
 <hr>
 
 ### Various – Workshop 04
-<a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.jpg"></a>
+<a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
 概要：「Workshop 04」は、Vinylでリリースされたミニマルさとディープハウスの要素が合わさった作品です。A面にはドイツのミュージシャン Move D（David Moufang）と Fragment によるディープハウストラック、B1には Even Tuell のディープ・ミニマル・ハウス、B2には Sascha Dive によるダウンテンポ・トラックが収録されています。
 
@@ -37,7 +37,7 @@ B2. Sascha Dive –Untitled
 <br>
 
 ### Peej – Becoming Cosmic
-<a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.jpg"></a>
+<a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
 概要：UKハウスミュージックレーベル Strictly 4 Groovers の後継 DiY Discs から2005年にリリースされた、Paul Johnston（Peej）によるディープハウス作品です。A面には「Cosmic Love (Interstellar Overdrive Mix)」など複数のミックスを収録。
 
@@ -63,7 +63,7 @@ B2. Cosmic Love (FS Cosmic Regroove)
 
 
 ### Danny Clark & Jay Benham Featuring Carla Prather – Into You
-<a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.jpg"></a>
+<a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.webp"></a>
 
 概要："Into You" は、UKハウスミュージックプロデューサー Danny Clark & Jay Benham による、Carla Prather フィーチャリングのディープハウス／ガラージハウスのトラックです。
 

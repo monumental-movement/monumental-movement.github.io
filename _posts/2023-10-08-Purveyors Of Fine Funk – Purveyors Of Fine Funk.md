@@ -4,7 +4,7 @@ title:  "Purveyors Of Fine Funk – Purveyors Of Fine Funk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House ]
-image: ../assets/images/Purveyors Of Fine Funk – Purveyors Of Fine Funk.jpg
+image: ../assets/images/Purveyors Of Fine Funk – Purveyors Of Fine Funk.webp
 ---
 
 Purveyors Of Fine Funkは、ファンクミュージックの要素を取り入れた楽曲を制作するグループであり、その名の通り、彼らは質の高いファンクを提供しています。

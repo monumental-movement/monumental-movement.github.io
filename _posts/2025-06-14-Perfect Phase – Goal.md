@@ -4,7 +4,7 @@ title:  "Perfect Phase – Goal!!!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, Hard House, 00s ]
-image: ../assets/images/Perfect Phase – Goal.jpg
+image: ../assets/images/Perfect Phase – Goal.webp
 ---
 
 Perfect Phase は、1980年代から活動するオランダのテクノ、トランス、ハードハウスのDJ、プロデューサー、Freek Fontein(The Freak)とWillem Faber(Mac Zimms)によるプロジェクト。

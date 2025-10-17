@@ -4,7 +4,7 @@ title:  "Tonga – Welcome To Sambatown"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin, 00s ]
-image: ../assets/images/Tonga – Welcome To Sambatown.jpg
+image: ../assets/images/Tonga – Welcome To Sambatown.webp
 ---
 
 DJ Corradino, Gianluca Lul, Mauro Gazzottiによるプロジェクト、TONGAが往年のサンバクラシックWelcome To Sambatownをラテンハウス・リメイク。EMMAなど多くのDJがプレイした名盤。

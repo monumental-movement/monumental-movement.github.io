@@ -4,7 +4,7 @@ title:  "Escape AKA Transa – Nothing To Fear Solar Silence"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
-image: ../assets/images/Escape AKA Transa – Nothing To Fear Solar Silence.jpg
+image: ../assets/images/Escape AKA Transa – Nothing To Fear Solar Silence.webp
 ---
 
 EscapeことTransaは、Brendan Webster &とDavid Clifford John Websterの兄弟デュオ。

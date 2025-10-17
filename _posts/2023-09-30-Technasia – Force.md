@@ -4,7 +4,7 @@ title:  "Technasia – Force"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Technasia – Force.jpg
+image: ../assets/images/Technasia – Force.webp
 ---
 
 このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。

@@ -4,7 +4,7 @@ title:  "The Bee Gees – Massachusetts"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Rock, 7inch ]
-image: ../assets/images/The Bee Gees – Massachusetts.jpg
+image: ../assets/images/The Bee Gees – Massachusetts.webp
 ---
 
 「Massachusetts」(マサチューセッツ) は、Bee Geesが1967年にリリースした楽曲で、世界的なヒットとなった。この曲のメインボーカルはRobin Gibb（ロビン・ギブ）。

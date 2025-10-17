@@ -4,7 +4,7 @@ title:  "Chris Punk – Lady Vs. Country Girl"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix ]
-image: ../assets/images/Chris Punk – Lady Vs. Country Girl.jpg
+image: ../assets/images/Chris Punk – Lady Vs. Country Girl.webp
 ---
 
 数々のクラブヒット曲をremixしているChris Punk（クリス・パンク）による、 Primal Scream（プライマル・スクリーム） 「Country Girl」とModjo（モジョ）「Lady (Hear Me Tonight)」のハウスremix。

@@ -4,7 +4,7 @@ title:  "Dao Dezi – La Jument De Mishao"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Euro House ]
-image: ../assets/images/Dao Dezi – La Jument De Mishao.jpg
+image: ../assets/images/Dao Dezi – La Jument De Mishao.webp
 ---
 
 Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。

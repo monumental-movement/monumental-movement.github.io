@@ -4,7 +4,7 @@ title:  "Access 58 – Collaborations & Remixes Volume 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, 00s ]
-image: ../assets/images/Access 58 – Collaborations & Remixes Volume 2.jpg
+image: ../assets/images/Access 58 – Collaborations & Remixes Volume 2.webp
 ---
 
 Access58は、Paulo Nascimento（AKA Urban Ritual）とPhilippe Quenumによるテックハウスプロダクション。

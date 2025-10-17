@@ -4,7 +4,7 @@ title:  "Stardust – Music Sounds Better With You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, French House ]
-image: ../assets/images/Stardust – Music Sounds Better With You.jpg
+image: ../assets/images/Stardust – Music Sounds Better With You.webp
 ---
 
 Stardustは、トーマ・バンガルテル(ダフト・パンク)、DJのアラン・ブラックス(DJ Alan Braxe)、ベンジャミン・ダイアモンドによるユニットです。

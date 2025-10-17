@@ -4,7 +4,7 @@ title:  "Carl Cox – Dr. Funk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK House ]
-image: ../assets/images/Carl Cox – Dr. Funk.jpg
+image: ../assets/images/Carl Cox – Dr. Funk.webp
 ---
 
 「Carl Cox – Dr. Funk」は、カール・コックス（Carl Cox）の代表曲の一つです。カール・コックスは、イギリス出身の世界的に有名なテクノDJおよび音楽プロデューサー/アーティストです。

@@ -4,7 +4,7 @@ title:  "Technova – Transcience Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Rare ]
-image: ../assets/images/Technova – Transcience Remixes.jpg
+image: ../assets/images/Technova – Transcience Remixes.webp
 ---
 
 TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。

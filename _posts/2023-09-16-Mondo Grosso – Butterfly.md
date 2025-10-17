@@ -4,7 +4,7 @@ title:  "Mondo Grosso – Butterfly"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/Mondo Grosso – Butterfly.jpg
+image: ../assets/images/Mondo Grosso – Butterfly.webp
 ---
 
 「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。

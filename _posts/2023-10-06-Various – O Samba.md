@@ -4,7 +4,7 @@ title:  "Various – O Samba"
 author: mmr
 categories: [ Cassette ]
 tags: [ Samba, Latin ]
-image: ../assets/images/Various – O Samba.jpg
+image: ../assets/images/Various – O Samba.webp
 ---
 
 「Various – O Samba」は、

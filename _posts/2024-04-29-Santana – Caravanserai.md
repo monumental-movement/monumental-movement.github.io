@@ -4,7 +4,7 @@ title:  "Santana – Caravanserai"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Psychedelic, 70s ]
-image: ../assets/images/Santana – Caravanserai.jpg
+image: ../assets/images/Santana – Caravanserai.webp
 ---
 
 サンタナは、ギタリストのカルロス・サンタナが率いる1960年代後半に結成されたアメリカのラテンロックグループ。

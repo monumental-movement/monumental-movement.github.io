@@ -4,7 +4,7 @@ title:  "Scarfo – Scarfo"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Rock ]
-image: ../assets/images/Scarfo – Scarfo.jpg
+image: ../assets/images/Scarfo – Scarfo.webp
 ---
 
 Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。

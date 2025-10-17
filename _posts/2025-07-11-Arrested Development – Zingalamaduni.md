@@ -4,7 +4,7 @@ title:  "Arrested Development – Zingalamaduni"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, 90s ]
-image: ../assets/images/Arrested Development – Zingalamaduni.jpg
+image: ../assets/images/Arrested Development – Zingalamaduni.webp
 ---
 
 Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。

@@ -4,7 +4,7 @@ title:  "Rozalla – Everybody's Free (To Feel Good)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, Euro House, 90s ]
-image: ../assets/images/Rozalla – Everybodys Free.jpg
+image: ../assets/images/Rozalla – Everybodys Free.webp
 ---
 
 Rozalla(ロザラ)ことRozalla Millerは、現在のザンビア出身のジンバブエのエレクトロニックミュージックパフォーマー。「Queen of Rave(レイヴの女王)」の異名を持つ、世界的に成功したダンスアーティスト。

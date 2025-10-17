@@ -4,7 +4,7 @@ title:  "VA – That's Eurobeat Vol. 22"
 author: mmr
 categories: [ CD ]
 tags: [ Eurobeat, Hi NRG, 90s ]
-image: ../assets/images/VA – That's Eurobeat Vol. 22.jpg
+image: ../assets/images/VA – That's Eurobeat Vol. 22.webp
 ---
 
 1990年にレーベルAlfaリリースされた、Italo-Disco/Hi-NRG/Eurobeatコンピレーションシリーズ第22弾。イラストは大西重成。

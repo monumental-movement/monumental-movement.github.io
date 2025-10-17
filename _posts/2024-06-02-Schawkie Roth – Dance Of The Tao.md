@@ -4,7 +4,7 @@ title:  "Schawkie Roth – Dance Of The Tao"
 author: mmr
 categories: [ Cassette ]
 tags: [ New Age, Healing, Free Jazz, 70s ]
-image: ../assets/images/Schawkie Roth – Dance Of The Tao.jpg
+image: ../assets/images/Schawkie Roth – Dance Of The Tao.webp
 ---
 
 ニューエイジ・スピリチュアル音楽の先駆者の一人とみなされているSchawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家。

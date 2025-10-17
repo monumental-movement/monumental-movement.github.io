@@ -4,7 +4,7 @@ title:  "Ito & Star – Sudoko Kid"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Ito and Star – Sudoko Kid.jpg
+image: ../assets/images/Ito and Star – Sudoko Kid.webp
 ---
 
 「Ito & Star – Sudoko Kid」は、Cr2 Recordsより2007年にリリースされたIto（Itamar Levy）とStar（Ophir Star）によるミニマルテクノ。

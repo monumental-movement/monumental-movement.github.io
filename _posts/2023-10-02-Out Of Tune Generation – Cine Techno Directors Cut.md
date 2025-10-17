@@ -4,7 +4,7 @@ title:  "Out Of Tune Generation – Cine Techno Director's Cut"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House ]
-image: ../assets/images/Out Of Tune Generation – Cine Techno Director's Cut.jpg
+image: ../assets/images/Out Of Tune Generation – Cine Techno Director's Cut.webp
 ---
 
 Out Of Tune Generationは高浪敬太郎（ピチカート・ファイブ）のプロジェクト。A1はモンド映画、「Sweden: Heaven and Hell」の挿入曲「マナ・マナ」のハウスカバー。

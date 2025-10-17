@@ -4,7 +4,7 @@ title:  "Etienne Brénche – You Don't Notice Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
-image: ../assets/images/Etienne Brenche – You Dont Notice Me.jpg
+image: ../assets/images/Etienne Brenche – You Dont Notice Me.webp
 ---
 
 1999〜2002年にロンドンを拠点としたHouseレーベルTouchdown Recordings (Defender Musicのサブレーベル)から1999年にリリースされたHouse／Deep House。プロデューサーは、初期のハウス・アシッドハウスの先駆者的存在として知られるDominic Moir。

@@ -4,7 +4,7 @@ title:  "Various – Space Capades"
 author: mmr
 categories: [ CD ]
 tags: [ Lounge, Compilation ]
-image: ../assets/images/Various – Space Capades.jpg
+image: ../assets/images/Various – Space Capades.webp
 ---
 
 Track 1 recorded April 12, 1967 · From the album "Holiday For Strings"

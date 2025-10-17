@@ -4,7 +4,7 @@ title:  "AC/DC – Flick Of The Switch"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
-image: ../assets/images/ACDC – Flick Of The Switch.jpg
+image: ../assets/images/ACDC – Flick Of The Switch.webp
 ---
 
 『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。

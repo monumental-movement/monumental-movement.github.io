@@ -4,7 +4,7 @@ title:  "Hoodlum Priest – Heart Of Darkness"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Leftfiled ]
-image: ../assets/images/Hoodlum Priest – Heart Of Darkness.jpg
+image: ../assets/images/Hoodlum Priest – Heart Of Darkness.webp
 ---
 
 「Heart of Darkness」は、フドラム・プリーストの作品の中でも特筆される楽曲です。フドラム・プリーストは、UKのミュージシャンであるDerek Thompsonのプロジェクトで、彼の音楽は様々なジャンルの要素を取り入れたエクスペリメンタル的であり、ダークな雰囲気や実験的なサウンドスケープが特徴的です。

@@ -4,7 +4,7 @@ title:  "Plutocracy – Dankstahz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Grindcore, Rock ]
-image: ../assets/images/Plutocracy – Dankstahz.jpg
+image: ../assets/images/Plutocracy – Dankstahz.webp
 ---
 
 「Dankstahz」は、

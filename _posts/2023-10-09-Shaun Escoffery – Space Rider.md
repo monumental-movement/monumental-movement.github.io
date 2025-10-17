@@ -4,7 +4,7 @@ title:  "Shaun Escoffery – Space Rider"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House ]
-image: ../assets/images/Shaun Escoffery – Space Rider.jpg
+image: ../assets/images/Shaun Escoffery – Space Rider.webp
 ---
 
 「Space Rider」は、

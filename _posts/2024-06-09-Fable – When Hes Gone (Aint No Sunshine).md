@@ -4,7 +4,7 @@ title:  "Fable – When He's Gone (Ain't No Sunshine)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
-image: ../assets/images/Fable – When He's Gone (Ain't No Sunshine).jpg
+image: ../assets/images/Fable – When He's Gone (Ain't No Sunshine).webp
 ---
 
 Fable ことGez Dewarは、イギリス出身の音楽/TVプロデューサー。Nick HaleとのユニットHeliotropicとしても知られている。

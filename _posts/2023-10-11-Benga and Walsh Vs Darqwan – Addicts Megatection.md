@@ -4,7 +4,7 @@ title:  "Benga and Walsh Vs Darqwan – Addicts Megatection"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Dubstep, UK Dubstep ]
-image: ../assets/images/Benga and Walsh Vs Darqwan – Addicts Megatection.jpg
+image: ../assets/images/Benga and Walsh Vs Darqwan – Addicts Megatection.webp
 ---
 
 「Benga & Walsh Vs Darqwan – Addicts / Megatection」は、3人の著名なダブステップアーティスト、Benga、Walsh、DarqwanによるDubstepトラック。

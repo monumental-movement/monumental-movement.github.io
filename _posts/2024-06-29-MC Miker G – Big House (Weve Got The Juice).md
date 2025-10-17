@@ -4,7 +4,7 @@ title:  "MC Miker G – Big House (We've Got The Juice)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hiphop, 90s ]
-image: ../assets/images/MC Miker G – Big House.jpg
+image: ../assets/images/MC Miker G – Big House.webp
 ---
 
 MC Miker G として知られるオランダのラッパー Lucien Witteveen は、1984年から活動するオランダのラッパーの第一世代の 1 人。MC Miker Gは、1986 年にはMC Miker G. & DJ Sven として「Holiday Rap」をリリースし世界的な大ヒットとなった。

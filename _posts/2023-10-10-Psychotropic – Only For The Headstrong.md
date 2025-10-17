@@ -4,7 +4,7 @@ title:  "Psychotropic – Only For The Headstrong"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, House ]
-image: ../assets/images/Psychotropic – Only For The Headstrong.jpg
+image: ../assets/images/Psychotropic – Only For The Headstrong.webp
 ---
 
 「Only For The Headstrong」は、

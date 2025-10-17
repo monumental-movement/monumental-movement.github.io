@@ -4,7 +4,7 @@ title:  "Neztic – Kickin' Down"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, Breaks, 00s ]
-image: ../assets/images/Neztic – Kickin' Down.jpg
+image: ../assets/images/Neztic – Kickin' Down.webp
 ---
 
 NezticことManuel Nezticは、1998年からメキシコのエレクトロニックミュージックシーンで活動するDJ。

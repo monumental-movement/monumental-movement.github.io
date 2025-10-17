@@ -4,7 +4,7 @@ title:  "Jeff Mills – Very EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, Tribal, 90s ]
-image: ../assets/images/Jeff Mills – Very EP.jpg
+image: ../assets/images/Jeff Mills – Very EP.webp
 ---
 
 このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。

@@ -4,7 +4,7 @@ title:  "London Dodgers – Down Down Biznizz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ UK Garage, 00s ]
-image: ../assets/images/London Dodgers – Down Down Biznizz.jpg
+image: ../assets/images/London Dodgers – Down Down Biznizz.webp
 ---
 
 London Dodgers(Ras Kwame)は、ロンドンを拠点とするDJ・プロデューサー。BBCラジオ1と1Xtraの元DJで、現在はCapital XtraでDancehall & Reggae DJをしている。

@@ -4,7 +4,7 @@ title:  "The Band – Rock Of Ages The Band In Concert"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Folk ]
-image: ../assets/images/The Band – Rock Of Ages The Band In Concert.jpg
+image: ../assets/images/The Band – Rock Of Ages The Band In Concert.webp
 ---
 
 The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。

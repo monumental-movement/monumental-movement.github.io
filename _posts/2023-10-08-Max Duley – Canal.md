@@ -4,7 +4,7 @@ title:  "Max Duley – Canal"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Max Duley – Canal.jpg
+image: ../assets/images/Max Duley – Canal.webp
 ---
 
 「Canal」は、イギリスのテクノミュージシャン、マックス・デューリー（Max Duley）による楽曲です。この曲は、彼のEP「Canal」に収録されています。

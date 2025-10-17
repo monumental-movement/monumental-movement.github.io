@@ -4,7 +4,7 @@ title:  "Sash! – La Primavera"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Trance, 90s ]
-image: ../assets/images/Sash – La Primavera.jpg
+image: ../assets/images/Sash – La Primavera.webp
 ---
 
 Sash！(サッシュ!)は、Ralf Kappmeier、Karl Xander、Thomas "Alisson" Lüdke、Sascha LappessenによるドイツのDJ・プロダクションチーム。

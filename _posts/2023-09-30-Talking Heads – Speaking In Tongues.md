@@ -4,7 +4,7 @@ title:  "Talking Heads – Speaking In Tongues"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Art Rock ]
-image: ../assets/images/Talking Heads – Speaking In Tongues.jpg
+image: ../assets/images/Talking Heads – Speaking In Tongues.webp
 ---
 
 Talking Headsの「Speaking In Tongues」は、1983年にリリースされました。このアルバムは、トーキング・ヘッズの中でも特に商業的に成功した作品の一つであり、彼らの音楽的な進化と革新を示すものとなりました。

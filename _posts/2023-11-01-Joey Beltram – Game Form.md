@@ -4,7 +4,7 @@ title:  "Joey Beltram – Game Form"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, US Techno ]
-image: ../assets/images/Joey Beltram – Game Form.jpg
+image: ../assets/images/Joey Beltram – Game Form.webp
 ---
 
 B面１曲目は、USのDJ 兼プロデューサーRobert Armani（ロバート・アルマーニ）のremix。B面２曲目は、シカゴ出身でMajesty RecordingsのオーナーMike Dearborn（マイク・ディアボーン）のremix。

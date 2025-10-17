@@ -4,7 +4,7 @@ title:  "Depeche Mode – Some Great Reward"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Post Punk ]
-image: ../assets/images/Depeche Mode – Some Great Reward.jpg
+image: ../assets/images/Depeche Mode – Some Great Reward.webp
 ---
 
 「Some Great Reward」は、デペッシュ・モードの1984年のアルバムであり、彼らの4枚目のスタジオアルバムです。このアルバムはバンドのキャリアにおいて重要な位置を占める作品の一つであり、彼らのサウンドの進化と成熟を示しています。

@@ -4,7 +4,7 @@ title:  "Ween – Pure Guava"
 author: mmr
 categories: [ Cassette ]
 tags: [ Alternative Rock, Abstract, Lo-Fi, Noise, Rare ]
-image: ../assets/images/Ween – Pure Guava.jpg
+image: ../assets/images/Ween – Pure Guava.webp
 ---
 
 1992年にリリースされた「Pure Guava」は、Weenの3枚目のスタジオアルバムであり、メジャーレーベルデビュー作。Weenの代表作「Push th' Little Daisies」が収録されている。

@@ -4,7 +4,7 @@ title:  "Various – Exterminator Presents Turn On The Heat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall ]
-image: ../assets/images/Various – Exterminator Presents Turn On The Heat.jpg
+image: ../assets/images/Various – Exterminator Presents Turn On The Heat.webp
 ---
 
 「Exterminator Presents Turn On The Heat」は、

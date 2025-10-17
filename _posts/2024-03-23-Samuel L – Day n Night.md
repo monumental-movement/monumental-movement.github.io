@@ -4,7 +4,7 @@ title:  "Samuel L – Day n' Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Anthem, 00s ]
-image: ../assets/images/Samuel L – Day n' Night.jpg
+image: ../assets/images/Samuel L – Day n' Night.webp
 ---
 
 Samuel Lは、スウェーデンのトライバルテクノDJ・プロデューサー。「Day n' Night」は自身が運営するSSLより2001年にリリースしたテクノトラック。

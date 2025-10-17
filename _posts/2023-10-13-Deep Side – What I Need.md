@@ -4,7 +4,7 @@ title:  "Deep Side – What I Need"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
-image: ../assets/images/Deep Side – What I Need.jpg
+image: ../assets/images/Deep Side – What I Need.webp
 ---
 
 「Deep Side – What I Need」の

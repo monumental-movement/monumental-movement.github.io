@@ -4,7 +4,7 @@ title:  "Lynch – I Found Out"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Soul, 80s ]
-image: ../assets/images/Lynch – I Found Out.jpg
+image: ../assets/images/Lynch – I Found Out.webp
 ---
 
 Lynch(リンチ)ことRoger Lynch(本名Roger Troutman II)は、伝説的なUSのファンクミュージシャンRoger Troutman(ロジャー・トラウトマン)の息子。

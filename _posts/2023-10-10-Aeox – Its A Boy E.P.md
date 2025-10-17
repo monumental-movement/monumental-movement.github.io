@@ -4,7 +4,7 @@ title:  "Aeox – It's A Boy E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Aeox – It's A Boy E.P.jpg
+image: ../assets/images/Aeox – It's A Boy E.P.webp
 ---
 
 AeoX は、ベルリン出身のAl.X.E（Alexander Koepke,＆tafkatafta）とHanno Hinkelbeinによるテクノパンクバンド。Null recordsやMental Industriesから多数リリースしている。

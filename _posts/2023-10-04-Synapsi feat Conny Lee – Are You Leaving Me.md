@@ -4,7 +4,7 @@ title:  "Synapsi feat Conny Lee – Are You Leaving Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Italo ]
-image: ../assets/images/Synapsi feat Conny Lee – Are You Leaving Me.jpg
+image: ../assets/images/Synapsi feat Conny Lee – Are You Leaving Me.webp
 ---
 
 「Are You Leaving Me」は、

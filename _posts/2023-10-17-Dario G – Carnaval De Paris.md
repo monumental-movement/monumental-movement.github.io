@@ -4,7 +4,7 @@ title:  "Dario G – Carnaval De Paris"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin ]
-image: ../assets/images/Dario G – Carnaval De Paris.jpg
+image: ../assets/images/Dario G – Carnaval De Paris.webp
 ---
 
 Dario G（ダリオG）は、UKのDJ/プロデューサーPaul Spencer（ポール・スペンサー）によるダンスミュージックプロジェクト。

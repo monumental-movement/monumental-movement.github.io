@@ -4,7 +4,7 @@ title:  "Nobukazu Takemura – Meteor"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Nobukazu Takemura – Meteor.jpg
+image: ../assets/images/Nobukazu Takemura – Meteor.webp
 ---
 
 「Nobukazu Takemura – Meteor」は、日本の音楽アーティストである竹村延和（タケムラ　ノブカズ）によるレコードです。竹村延和はエレクトロニックミュージックやエクスペリメンタルな音楽で知られる音楽プロデューサー、作曲家です。

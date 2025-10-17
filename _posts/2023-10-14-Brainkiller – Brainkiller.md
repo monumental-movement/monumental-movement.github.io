@@ -4,7 +4,7 @@ title:  "Brainkiller – Brainkiller"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Speedcore, Hardcore ]
-image: ../assets/images/Brainkiller – Brainkiller.jpg
+image: ../assets/images/Brainkiller – Brainkiller.webp
 ---
 
 Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。

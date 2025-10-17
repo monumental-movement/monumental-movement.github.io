@@ -4,7 +4,7 @@ title:  "PNAU – Wild Strawberries EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
-image: ../assets/images/PNAU – Wild Strawberries EP.jpg
+image: ../assets/images/PNAU – Wild Strawberries EP.webp
 ---
 
 PNAU（プナウ）は、Nick Littlemore（ニック・リトルモア）、Peter Mayes（ピーター・メイズ）によるオーストラリアのエレクトロニックダンスミュージックグループ。

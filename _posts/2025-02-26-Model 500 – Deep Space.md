@@ -4,7 +4,7 @@ title:  "Model 500 – Deep Space"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, 90s ]
-image: ../assets/images/Model 500 – Deep Space.jpg
+image: ../assets/images/Model 500 – Deep Space.webp
 ---
 
 Model 500は、デトロイトテクノの先駆者の1人として知られるDJ・プロデューサーJuan Atkins(ホアン・アトキンス)が2008年まで使用した別名義。2008年以降、Model 500はJuan Atkins、Underground ResistanceのMilton Baldwin(DJ Skurge)& Mark Taylorで活動している。

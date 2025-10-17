@@ -4,7 +4,7 @@ title:  "Mondo Grosso – MG4"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Lounge ]
-image: ../assets/images/Mondo Grosso – MG4.jpg
+image: ../assets/images/Mondo Grosso – MG4.webp
 ---
 
 大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。

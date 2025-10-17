@@ -4,7 +4,7 @@ title:  "The Brothers Johnson – Kick It To The Curb"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Soul ]
-image: ../assets/images/The Brothers Johnson – Kick It To The Curb.jpg
+image: ../assets/images/The Brothers Johnson – Kick It To The Curb.webp
 ---
 
 The Brothers Johnsonは、アメリカのソウル/ファンク/ジャズ/ディスコバンドです。1975年、カリフォルニア州ロサンゼルスで結成され、リーダーは兄弟のジョージ・ジョンソンとルイ・ジョンソンです。初期メンバーには、いとこのアレックス・ウェアも含まれていました。

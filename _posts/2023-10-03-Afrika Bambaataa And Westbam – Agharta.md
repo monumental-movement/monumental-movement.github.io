@@ -4,7 +4,7 @@ title:  "Afrika Bambaataa And Westbam – Agharta"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.jpg
+image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.webp
 ---
 
 「Agharta」は、

@@ -4,7 +4,7 @@ title:  "Tina – There Must Be An Angel"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Soul ]
-image: ../assets/images/Tina – There Must Be An Angel.jpg
+image: ../assets/images/Tina – There Must Be An Angel.webp
 ---
 
 NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。

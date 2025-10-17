@@ -4,7 +4,7 @@ title:  "Radioactive Goldfish – L.S.D. Is The Bomb"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
-image: ../assets/images/Radioactive Goldfish – L.S.D. Is The Bomb.jpg
+image: ../assets/images/Radioactive Goldfish – L.S.D. Is The Bomb.webp
 ---
 
 「LSD Is The Bomb」は、は'91年のヨーロッパのテクノサウンドに対する素晴らしいアプローチで、ベルギーの攻撃的なリフと、より鋭く正確なドイツのリズムを組み合わせています。

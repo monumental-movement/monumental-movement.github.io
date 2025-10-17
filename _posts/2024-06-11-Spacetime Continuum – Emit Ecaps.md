@@ -4,7 +4,7 @@ title:  "Spacetime Continuum – Emit Ecaps"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Ambient, IDM, 90s, Rare ]
-image: ../assets/images/Spacetime Continuum – Emit Ecaps.jpg
+image: ../assets/images/Spacetime Continuum – Emit Ecaps.webp
 ---
 
 90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。

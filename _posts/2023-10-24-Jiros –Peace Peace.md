@@ -4,7 +4,7 @@ title:  "Jiro's –Peace Peace"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Folk, Nostalgic, 7inch ]
-image: ../assets/images/Jiro's –Peace Peace.jpg
+image: ../assets/images/Jiro's –Peace Peace.webp
 ---
 
 「ジローズ（Jiro's） –Peace Peace – 戦争を知らない子供たち」は、1971年にリリースされました。

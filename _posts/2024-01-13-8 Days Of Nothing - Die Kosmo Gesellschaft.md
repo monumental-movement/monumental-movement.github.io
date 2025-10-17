@@ -4,7 +4,7 @@ title:  "8 Days Of Nothing - Die Kosmo Gesellschaft"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Noise, Rare, 10inch ]
-image: ../assets/images/8 Days Of Nothing - Die Kosmo Gesellschaft.jpg
+image: ../assets/images/8 Days Of Nothing - Die Kosmo Gesellschaft.webp
 ---
 
 8 Days Of Nothing(8デイズオブナッシング) は、1997年に結成されたスウェーデンの伝説的なパンクバンド。

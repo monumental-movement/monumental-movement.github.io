@@ -4,7 +4,7 @@ title:  "Di Lacuna – Teetering On The Edge Of Quiet"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Post Rock ]
-image: ../assets/images/Di Lacuna – Teetering On The Edge Of Quiet.jpg
+image: ../assets/images/Di Lacuna – Teetering On The Edge Of Quiet.webp
 ---
 
 Di Lacunaは、John Sephton、Lee Newell,、Paul Hemmingfieldによって1998年に結成されたポストロックバンド。メンバーのLee Newellは、2007年からFields of the Nephilim（フィールズ・オブ・ザ・ネフィリム）でドラムを担当している。

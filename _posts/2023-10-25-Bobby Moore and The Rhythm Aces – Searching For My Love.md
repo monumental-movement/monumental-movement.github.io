@@ -4,7 +4,7 @@ title:  "Bobby Moore and The Rhythm Aces – Searching For My Love"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
-image: ../assets/images/Bobby Moore and The Rhythm Aces – Searching For My Love.jpg
+image: ../assets/images/Bobby Moore and The Rhythm Aces – Searching For My Love.webp
 ---
 
 Bobby Moore and The Rhythm Aces（ボビー・ムーア&ザ・リズムエースズ）は、Searching For My Loveは、1967年にリリースされました。

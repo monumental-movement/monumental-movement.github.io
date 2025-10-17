@@ -4,7 +4,7 @@ title:  "Audio Active – Return Of The Red I"
 author: mmr
 categories: [ CD ]
 tags: [ Reggae, Dub ]
-image: ../assets/images/Audio Active – Return Of The Red I.jpg
+image: ../assets/images/Audio Active – Return Of The Red I.webp
 ---
 
 「Audio Active – Return Of The Red I」は、日本の音楽グループであるAudio Active（オーディオ・アクティブ）のアルバムです。このアルバムは、1999年にリリースされました。

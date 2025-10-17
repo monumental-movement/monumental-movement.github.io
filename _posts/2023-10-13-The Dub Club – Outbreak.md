@@ -4,7 +4,7 @@ title:  "The Dub Club – Outbreak"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Trance ]
-image: ../assets/images/The Dub Club – Outbreak.jpg
+image: ../assets/images/The Dub Club – Outbreak.webp
 ---
 
 「Outbreak」は、

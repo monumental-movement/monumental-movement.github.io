@@ -4,7 +4,7 @@ title:  "Sha'dasious – U Kant Play Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap, 90s ]
-image: ../assets/images/Sha'dasious – U Kant Play Me.jpg
+image: ../assets/images/Sha'dasious – U Kant Play Me.webp
 ---
 
 Sha'dasious – U Kant Play Me / Phunk Wucha Heard

@@ -4,7 +4,7 @@ title:  "Solid Sessions Feat. Pronti & Kalmani – Janeiro (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Trance, Ambient, 00s ]
-image: ../assets/images/Solid Sessions – Janeiro Remixes.jpg
+image: ../assets/images/Solid Sessions – Janeiro Remixes.webp
 ---
 
 オランダのプロデューサーグループSolid SessionsがPronti & Kalmaniをフィーチャーしたヴォーカルトランストラック「Janeiro」は、2000年のリリース以降数々の有名DJにremixされている。

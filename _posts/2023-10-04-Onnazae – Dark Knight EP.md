@@ -4,7 +4,7 @@ title:  "Onnazae – Dark Knight EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Triphop ]
-image: ../assets/images/Onnazae – Dark Knight EP.jpg
+image: ../assets/images/Onnazae – Dark Knight EP.webp
 ---
 
 「Dark Knight EP」は、

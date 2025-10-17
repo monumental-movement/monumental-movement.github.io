@@ -4,7 +4,7 @@ title:  "Delon & Dalcan – Fascination / In The Sound"
 author: mmr
 categories: [ Vinyl ]
 tags: [Electro House, 00s ]
-image: ../assets/images/Delon and Dalcan – Fascination.jpg
+image: ../assets/images/Delon and Dalcan – Fascination.webp
 ---
 
 Delon & Dalcanは、フランス出身のアーティスト＆ミュージシャンAndre Dalcanと、モンペリエの有名なクラブ Barlive やフランス＆スペインの有名クラブでDJを務めるGreg Delonによるプロジェクト。Delon & Dalcanとして、Confused、Great Stuff Recordings、Boxer、Propperproud などの有名レーベルのプロデュースも手掛けている。

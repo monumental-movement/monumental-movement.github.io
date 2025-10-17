@@ -4,7 +4,7 @@ title:  "Umek – Lanicor"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Rare ]
-image: ../assets/images/Umek – Lanicor.jpg
+image: ../assets/images/Umek – Lanicor.webp
 ---
 
 Umekは、スロベニアのテクノ/テックハウスDJ、プロデューサー。

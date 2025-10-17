@@ -4,7 +4,7 @@ title:  "Blues Explosion – Extra Width"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Blues, Garage Rock, Alternative, 90s ]
-image: ../assets/images/Blues Explosion – Extra Width.jpg
+image: ../assets/images/Blues Explosion – Extra Width.webp
 ---
 
 The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・エクスプロージョン）は、1991年〜2016年まで活動したNY出身の3人組ロックバンド。ロックをベースにパンク、ブルース、ガレージ、ロカビリー、ソウル、ノイズロック、リズムアンドブルース、ヒップホップの要素が融合したスタイルが特徴。

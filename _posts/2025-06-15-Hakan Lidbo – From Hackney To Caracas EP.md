@@ -4,7 +4,7 @@ title:  "Håkan Lidbo – From Hackney To Caracas EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, 00s ]
-image: ../assets/images/Hakan Lidbo – From Hackney To Caracas EP.jpg
+image: ../assets/images/Hakan Lidbo – From Hackney To Caracas EP.webp
 ---
 
 Hakan Lidboは、スウェーデン出身のpop/ danceミュージックのプロデューサーで、Fatboy Slim、Yello、Depeche Mode、Kool Keithなどのアーティストとremix&共同制作を行なっている。また、スウェーデンのダンスレーベルMNW Dance、Left < > Right Recordingsをマネージメント、そしてJohn Andersson と共にContainer Recordingsを運営している。

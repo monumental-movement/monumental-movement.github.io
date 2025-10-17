@@ -4,7 +4,7 @@ title:  "Justin Berkovi – Fast- Wide E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
-image: ../assets/images/Justin Berkovi – Fast- Wide E.P.jpg
+image: ../assets/images/Justin Berkovi – Fast- Wide E.P.webp
 ---
 
 ロンドンを拠点とするイギリスのテクノDJおよびプロデューサーであるJustin BerkoviはPredicamentsの創設者です。

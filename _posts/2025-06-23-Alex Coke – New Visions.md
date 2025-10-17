@@ -4,7 +4,7 @@ title:  "Alex Coke – New Visions"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Afro-Cuban Jazz, Experimental, 80s ]
-image: ../assets/images/Alex Coke – New Visions.jpg
+image: ../assets/images/Alex Coke – New Visions.webp
 ---
 
 Alex Coke (アレックス・コーク)ことAlexander Seton Cokeは、ダラス出身のアメリカのジャズサックス奏者&フルート奏者。

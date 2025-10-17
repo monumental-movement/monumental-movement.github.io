@@ -4,7 +4,7 @@ title:  "Orquesta De La Luz – De La Luz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Salsa, Latin ]
-image: ../assets/images/Orquesta De La Luz – De La Luz.jpg
+image: ../assets/images/Orquesta De La Luz – De La Luz.webp
 ---
 
 1990年にリリースされたサルサバンド、オルケスタ・デ・ラ・ルスのデビューアルバム『デ・ラ・ルス』。

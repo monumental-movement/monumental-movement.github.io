@@ -4,7 +4,7 @@ title:  "Janet Jackson – Doesn't Really Matter"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Deep House, 7inch ]
-image: ../assets/images/Janet Jackson – Doesn't Really Matter7inch.jpg
+image: ../assets/images/Janet Jackson – Doesn't Really Matter7inch.webp
 ---
 
 「Doesn't Really Matter」は、2000年の映画『ナッティ・プロフェッサー2 クランプ家の面々』の主題歌。

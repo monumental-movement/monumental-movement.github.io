@@ -4,7 +4,7 @@ title:  "Analog Fingerprints – Tribute"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Analog Fingerprints – Tribute.jpg
+image: ../assets/images/Analog Fingerprints – Tribute.webp
 ---
 
 Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。

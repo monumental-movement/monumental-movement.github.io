@@ -4,7 +4,7 @@ title:  "Brtsh Knights – If I Was To"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK Garage ]
-image: ../assets/images/Brtsh Knights – If I Was To.jpg
+image: ../assets/images/Brtsh Knights – If I Was To.webp
 ---
 
 Brtsh KnightsことSweyn Jupiter（David Barseghian）は、ロンドンを拠点に活動するコンポーザー／キーボード奏者。

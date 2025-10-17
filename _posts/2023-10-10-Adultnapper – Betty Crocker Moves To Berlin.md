@@ -4,7 +4,7 @@ title:  "Adultnapper – Betty Crocker Moves To Berlin"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, Electro ]
-image: ../assets/images/Adultnapper – Betty Crocker Moves To Berlin.jpg
+image: ../assets/images/Adultnapper – Betty Crocker Moves To Berlin.webp
 ---
 
 「Betty Crocker Moves To Berlin」は、

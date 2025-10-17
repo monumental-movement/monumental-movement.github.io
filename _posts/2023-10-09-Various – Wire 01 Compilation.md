@@ -4,7 +4,7 @@ title:  "Various – Wire 01 Compilation"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Mix ]
-image: ../assets/images/Various – Wire 01 Compilation.jpg
+image: ../assets/images/Various – Wire 01 Compilation.webp
 ---
 
 「Wire 01 Compilation」は、

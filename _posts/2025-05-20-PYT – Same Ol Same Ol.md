@@ -4,7 +4,7 @@ title:  "PYT – Same Ol' Same Ol'"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Soul, Contemporary R&B, 00s ]
-image: ../assets/images/PYT – Same Ol Same Ol.jpg
+image: ../assets/images/PYT – Same Ol Same Ol.webp
 ---
 
 P.Y.T.は、1998年から2002年に活動したフロリダ出身のUSガールズグループ。

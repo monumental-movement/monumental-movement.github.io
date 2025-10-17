@@ -4,7 +4,7 @@ title:  "Biosphere – Cirque"
 author: mmr
 categories: [ CD ]
 tags: [ Downtempo, Ambient, House, 00s ]
-image: ../assets/images/Biosphere – Cirque.jpg
+image: ../assets/images/Biosphere – Cirque.webp
 ---
 
 BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出身のエレクトロニック・アンビエントミュージシャン。北極圏内のトロムソに住んでいるため、北極圏の自然や山々にインスピレーションを得たアンビエントやアンビエントハウススタイルが特徴。

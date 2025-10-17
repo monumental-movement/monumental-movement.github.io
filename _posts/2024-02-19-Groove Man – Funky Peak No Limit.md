@@ -4,7 +4,7 @@ title:  "Groove Man – Funky Peak No Limit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, French House, 00s ]
-image: ../assets/images/Groove Man – Funky Peak No Limit.jpg
+image: ../assets/images/Groove Man – Funky Peak No Limit.webp
 ---
 
 コロンビア出身のDJ / プロデューサーGroove Manが2005年にフレンチハウスレーベルVector Recordsからリリースしたハウストラック。

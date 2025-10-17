@@ -4,7 +4,7 @@ title:  "DMX Krew – Nu Romantix"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Acid House ]
-image: ../assets/images/DMX Krew – Nu Romantix.jpg
+image: ../assets/images/DMX Krew – Nu Romantix.webp
 ---
 
 「DMX Krew」は、イギリスの電子音楽アーティスト、エドワード・アプトンのプロジェクトです。

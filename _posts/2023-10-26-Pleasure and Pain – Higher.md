@@ -4,7 +4,7 @@ title:  "Pleasure & Pain – Higher"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
-image: ../assets/images/Pleasure and Pain – Higher.jpg
+image: ../assets/images/Pleasure and Pain – Higher.webp
 ---
 
 Pleasure & Pain（プレジャー&ペイン）は、80年代から活躍するイタロの有名プロデューサーFRED VENTURA（フレッド・ベンチュラ）のプロジェクト（1990-1992）。

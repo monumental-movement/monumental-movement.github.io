@@ -4,7 +4,7 @@ title:  "Alphaville – Romeos"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, New-Wave ]
-image: ../assets/images/Alphaville – Romeos.jpg
+image: ../assets/images/Alphaville – Romeos.webp
 ---
 
 Alphaville（アルファヴィル）は、1982年に結成されたMarian Gold（マリアン・ゴールド）を中心とするドイツのシンセポップバンド。

@@ -4,7 +4,7 @@ title:  "Propagandhi – How To Clean Everything"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Hardcore ]
-image: ../assets/images/Propagandhi – How To Clean Everything.jpg
+image: ../assets/images/Propagandhi – How To Clean Everything.webp
 ---
 
 「How to Clean Everything」は、1993年にFat Wreck ChordsからリリースされたパンクロックバンドPropagandhiのデビューアルバムです。

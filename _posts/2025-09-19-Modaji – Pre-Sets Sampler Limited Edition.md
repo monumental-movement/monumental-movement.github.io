@@ -4,7 +4,7 @@ title:  "Modaji – Pre-Sets Sampler Limited Edition"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Future Jazz, 00s ]
-image: ../assets/images/Modaji – Pre-Sets Sampler Limited Edition.jpg
+image: ../assets/images/Modaji – Pre-Sets Sampler Limited Edition.webp
 ---
 
 ModajiことDominic Hugo Jacobsonは、イギリスのエレクトロニックDJ／プロデューサー／リミキサー。

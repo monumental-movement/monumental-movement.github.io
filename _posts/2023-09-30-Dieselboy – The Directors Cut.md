@@ -4,7 +4,7 @@ title:  "Dieselboy – The Director's Cut"
 author: mmr
 categories: [ Cassette ]
 tags: [ Drum n Bass, Rare ]
-image: ../assets/images/Dieselboy – The Director's Cut.jpg
+image: ../assets/images/Dieselboy – The Director's Cut.webp
 ---
 
 USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼルボーイによるキラーテックモーディーなドラムンベースミックスのレアテープです。

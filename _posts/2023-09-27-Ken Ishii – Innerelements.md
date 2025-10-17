@@ -4,7 +4,7 @@ title:  "Ken Ishii – Innerelements"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Ambient ]
-image: ../assets/images/Ken Ishii – Innerelements.jpg
+image: ../assets/images/Ken Ishii – Innerelements.webp
 ---
 
 ケンイシイ（Ken Ishii）は、日本のテクノミュージシャンで、国内外で高い評価を受けているアーティストです。R & S Recordsからリリースされたこのアルバムは、彼の代表作の一つです。

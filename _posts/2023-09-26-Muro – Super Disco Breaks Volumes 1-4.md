@@ -4,7 +4,7 @@ title:  "Muro – Super Disco Breaks Volumes 1-4"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Mix ]
-image: ../assets/images/Muro – Super Disco Breaks Volumes 1-4.jpg
+image: ../assets/images/Muro – Super Disco Breaks Volumes 1-4.webp
 ---
 
 Muroによるミックステープ「Super Disco Breaks Volumes 1-4」です。

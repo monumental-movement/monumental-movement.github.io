@@ -4,7 +4,7 @@ title:  "Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Punk ]
-image: ../assets/images/Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-.jpg
+image: ../assets/images/Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-.webp
 ---
 
 Speed（スピード）は、元村八分の青木眞一が1976年に結成し、1980年代後半まで活動した日本のロックバンド。

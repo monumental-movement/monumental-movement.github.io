@@ -4,7 +4,7 @@ title:  "Dangerzone Pres. Patrick Marsh – Killing Fire"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
-image: ../assets/images/Dangerzone Pres. Patrick Marsh – Killing Fire.jpg
+image: ../assets/images/Dangerzone Pres. Patrick Marsh – Killing Fire.webp
 ---
 
 トランス、ハードトランス、プログレッシブトランスを専門とするドイツのレーベルReality Bites Recordsから2002年リリースされたトランストラック。

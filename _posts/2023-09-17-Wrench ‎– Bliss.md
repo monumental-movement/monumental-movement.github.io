@@ -4,7 +4,7 @@ title:  "Wrench – Bliss"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Dub, Mixture ]
-image: ../assets/images/Wrench – Bliss.jpg
+image: ../assets/images/Wrench – Bliss.webp
 ---
 
 Wrench（レンチ）は、1992年7月にシゲ、坂本梓、松田智宏、名越藤丸によって結成され、日本のラウドロックシーンにおいて重要な存在となってきました。

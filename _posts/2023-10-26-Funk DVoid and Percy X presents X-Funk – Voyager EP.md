@@ -4,7 +4,7 @@ title:  "Funk D'Void & Percy X presents X-Funk – Voyager EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
-image: ../assets/images/Funk D'Void and Percy X presents X-Funk – Voyager EP.jpg
+image: ../assets/images/Funk D'Void and Percy X presents X-Funk – Voyager EP.webp
 ---
 
 スコットランド・グラスゴー出身のテクノ/テックハウスDJ・プロデューサーFunk D'Void（ファンク・ド・ヴォイド/Lars Sandberg）とDJ Percy X（パーシーX/Tony Scott/トニー・スコット）のプロジェクト、X-FunkがSomaレーベルからリリースしたアシッドテクノ。

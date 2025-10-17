@@ -4,7 +4,7 @@ title:  "郷ひろみ  – 男の子女の子"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
-image: ../assets/images/郷ひろみ  – 男の子女の子.jpg
+image: ../assets/images/郷ひろみ  – 男の子女の子.webp
 ---
 
 「郷ひろみ（Hiromi Go）– 男の子女の子」は、

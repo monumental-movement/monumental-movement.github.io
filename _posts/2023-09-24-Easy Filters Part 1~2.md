@@ -4,7 +4,7 @@ title:  "FLR - Easy Filters Part 1~2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
-image: ../assets/images/FLR - Easy Filters Part 1~2.jpg
+image: ../assets/images/FLR - Easy Filters Part 1~2.webp
 ---
 
 1998年に日本のReel Musiqレーベルからリリースされたケンイシイの別名義「FLR」によるEPです。

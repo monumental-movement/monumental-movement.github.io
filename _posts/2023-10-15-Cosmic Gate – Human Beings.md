@@ -4,7 +4,7 @@ title:  "Cosmic Gate – Human Beings"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
-image: ../assets/images/Cosmic Gate – Human Beings.jpg
+image: ../assets/images/Cosmic Gate – Human Beings.webp
 ---
 
 「Cosmic Gate – Human Beings」の

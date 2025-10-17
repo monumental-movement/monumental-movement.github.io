@@ -4,7 +4,7 @@ title:  "Slyder – Neo (The One)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Rare ]
-image: ../assets/images/Slyder – Neo (The One).jpg
+image: ../assets/images/Slyder – Neo (The One).webp
 ---
 
 Slyder （スライダー）は、Chad Petree（チャド・ペトリー） と Jeremy Dawson（ジェレミー・ドーソン）によるUSダンスミュージックデュオです。

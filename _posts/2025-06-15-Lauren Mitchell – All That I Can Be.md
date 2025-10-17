@@ -4,7 +4,7 @@ title:  "Lauren Mitchell – All That I Can Be"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Pop, Europop, 80s ]
-image: ../assets/images/Lauren Mitchell – All That I Can Be.jpg
+image: ../assets/images/Lauren Mitchell – All That I Can Be.webp
 ---
 
 

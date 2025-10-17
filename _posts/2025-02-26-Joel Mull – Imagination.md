@@ -4,7 +4,7 @@ title:  "Joel Mull – Imagination"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Joel Mull – Imagination.jpg
+image: ../assets/images/Joel Mull – Imagination.webp
 ---
 
 Joel Mullのデビューアルバム『Imagination』（2000年）は、スウェーデン出身のこのテクノアーティストがシーンに鮮烈な印象を残した作品として、今なお多くのリスナーにとって特別な存在です。

@@ -4,7 +4,7 @@ title:  "Clivilles and Cole – Pride (In The Name Of Love)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/Clivilles and Cole – Pride (In The Name Of Love).jpg
+image: ../assets/images/Clivilles and Cole – Pride (In The Name Of Love).webp
 ---
 
 A面は、U2のPride (In The Name Of Love) をテクノ/クラブアレンジでカバー。

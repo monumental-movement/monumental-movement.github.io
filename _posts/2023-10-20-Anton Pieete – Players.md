@@ -4,7 +4,7 @@ title:  "Anton Pieete – Players"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Anton Pieete – Players.jpg
+image: ../assets/images/Anton Pieete – Players.webp
 ---
 
 Anton Pieete（アントン・ピエット）は、アムステルダム出身のDJ/プロデューサー。

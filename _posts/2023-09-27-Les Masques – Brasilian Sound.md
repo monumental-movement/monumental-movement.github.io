@@ -4,7 +4,7 @@ title:  "Les Masques – Brasilian Sound"
 author: mmr
 categories: [ CD ]
 tags: [ Bossa Nova, Jazz ]
-image: ../assets/images/Les Masques – Brasilian Sound.jpg
+image: ../assets/images/Les Masques – Brasilian Sound.webp
 ---
 
 Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バンドであり、1960年代に活動していました。「Brasilian Sound」は、彼らの代表作品の一つです。

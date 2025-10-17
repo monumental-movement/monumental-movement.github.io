@@ -4,7 +4,7 @@ title:  "Coo Coo – Happy Days"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Hi NRG, Rare ]
-image: ../assets/images/Coo Coo – Happy Days.jpg
+image: ../assets/images/Coo Coo – Happy Days.webp
 ---
 
 Coo Coo（クー・クー）は、Mauro Farina（マウロファリーナ）、Giuliano Crivellente（ジュリアーノクリヴェレンテ）、Florian Fadinger（フロリアンファディンガー）＝F.C.Fがプロデュースした1980年代ユーロビート・ハイエナジーシーンを代表するイタロディスコ・ポップグループ。

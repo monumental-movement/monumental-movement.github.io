@@ -4,7 +4,7 @@ title:  "Crush – Jellyhead"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House ]
-image: ../assets/images/Crush – Jellyhead.jpg
+image: ../assets/images/Crush – Jellyhead.webp
 ---
 
 Crushは、イギリスのポップデュオです。Donna AirとJayni Hoyはもともと、イギリスのティーン向けソープオペラ「Byker Grove」のスターでした。

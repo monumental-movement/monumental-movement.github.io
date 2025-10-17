@@ -4,7 +4,7 @@ title:  "Holy Moses – Queen Of Siam"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Thrash ]
-image: ../assets/images/Holy Moses – Queen Of Siam.jpg
+image: ../assets/images/Holy Moses – Queen Of Siam.webp
 ---
 
 1980年から活動するHoly Moses（ホーリー・モーゼス） は、ドイツのスラッシュメタルバンド。フロントはSabina Classen（サビナ クラッセン）。デスヴォイスの女性ボーカリストの先駆的グループとして知られる。

@@ -4,7 +4,7 @@ title:  "Cajmere – Percolator"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
-image: ../assets/images/Cajmere – Percolator.jpg
+image: ../assets/images/Cajmere – Percolator.webp
 ---
 
 1993年初頭までに、シカゴの多くのDJがこの曲をかけていました。当時、これはシカゴのダンスシーンを定義する曲で、トラックを特徴づけるバウンドするピンポンボールのようなサウンドは非常にキャッチーで、切り刻まれ、フリーキーです。

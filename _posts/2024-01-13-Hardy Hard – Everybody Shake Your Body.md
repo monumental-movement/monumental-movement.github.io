@@ -4,7 +4,7 @@ title:  "Hardy Hard – Everybody Shake Your Body"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Hardy Hard – Everybody Shake Your Body.jpg
+image: ../assets/images/Hardy Hard – Everybody Shake Your Body.webp
 ---
 
 Hardy Hardこと本名Kay Lippert（ケイ・リッパート）は、ドイツのテクノ／エレクトロのミュージシャンおよびDJ。

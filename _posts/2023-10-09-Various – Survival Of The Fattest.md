@@ -4,7 +4,7 @@ title:  "Various – Survival Of The Fattest"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Hardcore ]
-image: ../assets/images/Various – Survival Of The Fattest.jpg
+image: ../assets/images/Various – Survival Of The Fattest.webp
 ---
 
 「Survival Of The Fattest」は、

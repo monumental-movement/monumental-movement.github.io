@@ -4,7 +4,7 @@ title:  "2CB, Subhead & Jamie Lidell – 8"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno ]
-image: ../assets/images/2CB, Subhead & Jamie Lidell – 8.jpg
+image: ../assets/images/2CB, Subhead & Jamie Lidell – 8.webp
 ---
 
 1998年にリリースされたJason LeachとPhil Wellsによるユニット2CB別名SubheadのテクノEP。

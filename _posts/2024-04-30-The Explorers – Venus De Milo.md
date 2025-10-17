@@ -4,7 +4,7 @@ title:  "The Explorers – Venus De Milo"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth Pop, Pops, 80s ]
-image: ../assets/images/The Explorers – Venus De Milo.jpg
+image: ../assets/images/The Explorers – Venus De Milo.webp
 ---
 
 The ExplorersはプログレッシブロックバンドRoxy Music(ロキシーミュージック)の元メンバー Phil ManzaneraとAndy MacKayがJames Wraithをvocal迎え結成したグループ。

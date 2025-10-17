@@ -4,7 +4,7 @@ title:  "Brent Lewis – Earth Tribe Rhythms"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Soundtrack ]
-image: ../assets/images/Brent Lewis – Earth Tribe Rhythms.jpg
+image: ../assets/images/Brent Lewis – Earth Tribe Rhythms.webp
 ---
 
 Brent Lewis(ブレントルイス)は、長年にわたり多くの有名なアーティストと共演しているパーカッショニスト&ドラマー。

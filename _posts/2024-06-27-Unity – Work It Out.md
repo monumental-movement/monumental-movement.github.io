@@ -4,7 +4,7 @@ title:  "Unity – Work It Out"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
-image: ../assets/images/Unity – Work It Out.jpg
+image: ../assets/images/Unity – Work It Out.webp
 ---
 
 Unityは、Gary Stormと Lionel Hermanによるプロジェクト。別名義で、Power Movement, Rugged All-Stars, S.N.H. Foundation, Storm & Hermanとしても活動している。

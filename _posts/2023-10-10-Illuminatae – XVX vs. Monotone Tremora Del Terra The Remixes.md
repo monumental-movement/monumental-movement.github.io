@@ -4,7 +4,7 @@ title:  "Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hard Trance ]
-image: ../assets/images/Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes.jpg
+image: ../assets/images/Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes.webp
 ---
 
 「XVX vs. Monotone Tremora Del Terra The Remixes」は、

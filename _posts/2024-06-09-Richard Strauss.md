@@ -4,7 +4,7 @@ title:  "Richard Strauss"
 author: mmr
 categories: [ Cassette ]
 tags: [ Classical, Romantic, Opera ]
-image: ../assets/images/Richard Strauss.jpg
+image: ../assets/images/Richard Strauss.webp
 ---
 
 ・指揮者 ：Otto Ackermann オットー・アッカーマン

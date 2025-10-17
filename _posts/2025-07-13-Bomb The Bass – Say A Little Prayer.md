@@ -4,7 +4,7 @@ title:  "Bomb The Bass – Say A Little Prayer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Acid House, Dub, Downtempo, 80s ]
-image: ../assets/images/Bomb The Bass – Say A Little Prayer.jpg
+image: ../assets/images/Bomb The Bass – Say A Little Prayer.webp
 ---
 
 Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。

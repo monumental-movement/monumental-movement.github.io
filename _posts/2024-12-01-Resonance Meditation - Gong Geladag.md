@@ -4,7 +4,7 @@ title:  "Resonance Meditation - Gong Geladag"
 author: mmr
 categories: [ CD ]
 tags: [ Deep House, House, Techno ]
-image: ../assets/images/Resonance Meditation - Gong Geladag.jpg
+image: ../assets/images/Resonance Meditation - Gong Geladag.webp
 ---
 
 細野晴臣が監修したLost & Foundシリーズの第一弾アルバム。2000年4月17日バリ島で24bit 192KHz sonic system による現地録音音源。

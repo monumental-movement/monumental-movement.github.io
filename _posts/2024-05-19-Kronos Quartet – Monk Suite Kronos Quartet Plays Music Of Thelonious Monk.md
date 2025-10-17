@@ -4,7 +4,7 @@ title:  "Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious 
 author: mmr
 categories: [ Cassette ]
 tags: [ Jazz, Minimal, Experimental, 80s ]
-image: ../assets/images/Kronos Quartet – Monk Suite.jpg
+image: ../assets/images/Kronos Quartet – Monk Suite.webp
 ---
 
 クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。 

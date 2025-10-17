@@ -4,7 +4,7 @@ title:  "Leroy Hanghofer – Bathroomboogie"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Leftfield ]
-image: ../assets/images/Leroy Hanghofer – Bathroomboogie.jpg
+image: ../assets/images/Leroy Hanghofer – Bathroomboogie.webp
 ---
 
 このEPは、非常にファンキー＆素晴らしくクリエイティブで奇抜な雰囲気があり、微妙なユーモアも感じられます。

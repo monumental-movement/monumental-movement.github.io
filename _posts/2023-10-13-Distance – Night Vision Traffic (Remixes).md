@@ -4,7 +4,7 @@ title:  "Distance – Night Vision Traffic (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Dubstep, Industrial, 00s ]
-image: ../assets/images/Distance – Night Vision Traffic (Remixes).jpg
+image: ../assets/images/Distance – Night Vision Traffic (Remixes).webp
 ---
 
 レーベルPlanet Muから2009年にリリースされた、ダブステップのオリジネーターDJ Distance(Greg Sanders)によるDubstepトラックのremix。

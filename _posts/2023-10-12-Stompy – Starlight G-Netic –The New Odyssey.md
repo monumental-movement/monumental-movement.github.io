@@ -4,7 +4,7 @@ title:  "Stompy – Starlight G-Netic – The New Odyssey"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Techno ]
-image: ../assets/images/Stompy – Starlight G-Netic – The New Odyssey.jpg
+image: ../assets/images/Stompy – Starlight G-Netic – The New Odyssey.webp
 ---
 
 A面は、イギリスのハッピーハードコアアーティスト DJ Stompy（DJストンピー）によるトラック。「Starlight 」は DJ Stompyの代表作の一つ。

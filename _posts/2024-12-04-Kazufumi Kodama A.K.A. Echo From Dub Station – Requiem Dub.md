@@ -4,7 +4,7 @@ title:  "Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub"
 author: mmr
 categories: [ CD ]
 tags: [ Reggae, Dub, 90s ]
-image: ../assets/images/Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub.jpg
+image: ../assets/images/Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub.webp
 ---
 
 こだま和文は、ダブバンドMUTE BEATやKODAMA AND THE DUB STATION BANDなどで活躍するトランペット奏者。フィッシュマンズの1stアルバムやCHIEKO BEAUTYなど多数のアーティストのプロデュースも手掛けている。

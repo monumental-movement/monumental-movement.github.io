@@ -4,7 +4,7 @@ title:  "Denki Groove – Dragon EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, JPop ]
-image: ../assets/images/Denki Groove – Dragon EP.jpg
+image: ../assets/images/Denki Groove – Dragon EP.webp
 ---
 
 タイトル曲「Dragon」は、エレクトロニックミュージックとテクノの要素を組み合わせたダンサブルな楽曲です。電気グルーヴ独自のサウンドとリズムが特徴であり、ユニークなメロディとビートが聴く人を魅了します。

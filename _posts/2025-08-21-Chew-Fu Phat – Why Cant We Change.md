@@ -4,7 +4,7 @@ title:  "Chew-Fu Phat – Why Can't We Change"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Chew-Fu Phat – Why Cant We Change.jpg
+image: ../assets/images/Chew-Fu Phat – Why Cant We Change.webp
 ---
 
 Chew-Fu Phat ことChew Fuは、オランダ出身、NYを拠点に活動するプロデューサー／リミキサー／DJ。レディー・ガガ、リアーナ、ティンバランド、ファー・イースト・ムーブメント、ロビンなどPopアーティストのオフィシャルremixも手掛けている。

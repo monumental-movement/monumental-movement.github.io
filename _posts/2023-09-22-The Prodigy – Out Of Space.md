@@ -4,7 +4,7 @@ title:  "The Prodigy – Out Of Space"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Hardcore ]
-image: ../assets/images/The Prodigy – Out Of Space.jpg
+image: ../assets/images/The Prodigy – Out Of Space.webp
 ---
 
 プロディジー - アウトオブスペース

@@ -4,7 +4,7 @@ title:  "Eagles – Hotel California"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Nostalgic, 7inch ]
-image: ../assets/images/Eagles – Hotel California.jpg
+image: ../assets/images/Eagles – Hotel California.webp
 ---
 
 Eagles（イーグルス）のアルバム「ホテル・カリフォルニア」のタイトル曲。作詞・作曲は、Don Felder（ドン・フェルダー）、Don Henley（ドン・ヘンリー）。

@@ -4,7 +4,7 @@ title:  "Love And Rockets – Love And Rockets"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Goth ]
-image: ../assets/images/Love And Rockets – Love And Rockets.jpg
+image: ../assets/images/Love And Rockets – Love And Rockets.webp
 ---
 
 「Love And Rockets - Love And Rockets」は、イギリスのオルタナティブロックバンドであるラヴ・アンド・ロケッツによるセルフタイトルのアルバムです。ラヴ・アンド・ロケッツは、元バウハウスのメンバーであるダニエル・アシュ、デヴィッド・ジェイ、およびケヴィン・ハスキンスによって結成されました。

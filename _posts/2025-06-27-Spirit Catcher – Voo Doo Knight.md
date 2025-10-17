@@ -4,7 +4,7 @@ title:  "Spirit Catcher – Voo Doo Knight"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech House, House, 00s ]
-image: ../assets/images/Spirit Catcher – Voo Doo Knight.jpg
+image: ../assets/images/Spirit Catcher – Voo Doo Knight.webp
 ---
 
 Spirit Catcher (スピリットキャッチャー)は、ベルギーのプロデューサーJean VanesseとThomas Sohetによるデュオ。Only Freak(オンリーフリーク)名義でも活動している。

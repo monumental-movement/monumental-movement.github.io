@@ -4,7 +4,7 @@ title:  "Crushed Insect – The Yellow Blood"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Crushed Insect – The Yellow Blood.jpg
+image: ../assets/images/Crushed Insect – The Yellow Blood.webp
 ---
 
 「The Yellow Blood」は、

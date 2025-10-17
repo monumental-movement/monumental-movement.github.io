@@ -4,7 +4,7 @@ title:  "The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Rem
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Jazzy Hiphop ]
-image: ../assets/images/The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes.jpg
+image: ../assets/images/The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes.webp
 ---
 
 The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサウスセントラル出身のUSオルタナティブ・ヒップホップグループ。

@@ -4,7 +4,7 @@ title:  "Luke Slater – Freek Funk"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Electro, 90s ]
-image: ../assets/images/Luke Slater – Freek Funk.jpg
+image: ../assets/images/Luke Slater – Freek Funk.webp
 ---
 
 Luke Slater (ルーク・スレーター)は、1990年代初頭からテクノシーンの第一線で活躍するイギリスのエレクトロニック・ミュージシャン、DJ、レコード・プロデューサー。別名義でPlanetary Assault SystemsやLSDなどがある。

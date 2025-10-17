@@ -4,7 +4,7 @@ title:  "Tone Theory – Limbo Of Vanished Possibilities"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Deep House ]
-image: ../assets/images/Tone Theory – Limbo Of Vanished Possibilities.jpg
+image: ../assets/images/Tone Theory – Limbo Of Vanished Possibilities.webp
 ---
 
 Tone Theory（デリック・カーター）による「Limbo Of Vanished Possibilities」は、ビートと複雑に作られたパーカッション、そして力強いベースラインでダンスフロアでの演奏には完璧です。

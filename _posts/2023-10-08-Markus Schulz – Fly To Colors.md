@@ -4,7 +4,7 @@ title:  "Markus Schulz – Fly To Colors"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
-image: ../assets/images/Markus Schulz – Fly To Colors.jpg
+image: ../assets/images/Markus Schulz – Fly To Colors.webp
 ---
 
 「Fly To Colors」は、ドイツのトランスDJ・プロデューサー、マーカス・シュルツ（Markus Schulz）による楽曲です。この曲は、彼のアルバム「Progression」（2007年）に収録されています。

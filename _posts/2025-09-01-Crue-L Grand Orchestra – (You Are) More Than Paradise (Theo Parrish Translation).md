@@ -4,7 +4,7 @@ title:  "Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish T
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 10s ]
-image: ../assets/images/Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation).jpg
+image: ../assets/images/Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation).webp
 ---
 
 Kenji Takimi(瀧見憲司)とTomoki Kanda(神田朋樹)によるCrue-L Grand Orchestra「(You Are) More Than Paradise」のremix。

@@ -4,7 +4,7 @@ title:  "Furniture – I Can't Crack"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Post Punk, 80s ]
-image: ../assets/images/Furniture – I Can't Crack.jpg
+image: ../assets/images/Furniture – I Can't Crack.webp
 ---
 
 Furnitureは、1979年から1991年まで活動していたイギリスのポップバンドです。バンドのメンバーは、ジム・アーヴィン（ボーカルとパーカッション）、ティム・ウィーラン（ギター）、ハミルトン・リー（ドラムス）、サリー・スティル（ベース）、マヤ・ギルダー（キーボード）、ラリー・ナゾーン（サックス）でした。

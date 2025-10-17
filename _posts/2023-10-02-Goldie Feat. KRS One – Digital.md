@@ -4,7 +4,7 @@ title:  "Goldie Feat. KRS One – Digital"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Hiphop ]
-image: ../assets/images/Goldie Feat. KRS One – Digital.jpg
+image: ../assets/images/Goldie Feat. KRS One – Digital.webp
 ---
 
 「Digital」は、イギリスのミュージシャンであるゴールディ（Goldie）がアメリカのラッパーKRS-Oneをフィーチャーした楽曲で、ゴールディの1998年のアルバム「Saturnz Return」からの最初のシングルとしてリリースされました。

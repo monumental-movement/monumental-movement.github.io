@@ -4,7 +4,7 @@ title:  "The Style Council – The Cost Of Loving"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Soul, Synth-Pop ]
-image: ../assets/images/The Style Council – The Cost Of Loving.jpg
+image: ../assets/images/The Style Council – The Cost Of Loving.webp
 ---
 
 The Style Council（スタイル・カウンシル）は、ニュー・ウェイヴ/モッズ・リバイバル・バンド the Jam（ザ・ジャム）の元シンガー＆ギタリストPaul Weller（ポール・ウェラー）と、Dexys Midnight Runners（デキシーズ・ミッドナイト・ランナーズ）、 the Bureau（ビューロー）、the Merton Parkasのメンバーだったキーボード奏者のMick Talbot（ミック・タルボット）によって1982年後半に結成されたイギリスのバンド。

@@ -4,7 +4,7 @@ title:  "Heart – Dreamboat Annie"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
-image: ../assets/images/Heart – Dreamboat Annie.jpg
+image: ../assets/images/Heart – Dreamboat Annie.webp
 ---
 
 「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。

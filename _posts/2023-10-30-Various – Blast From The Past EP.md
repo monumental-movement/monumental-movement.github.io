@@ -4,7 +4,7 @@ title:  "Various – Blast From The Past EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Jazz ]
-image: ../assets/images/Various – Blast From The Past EP.jpg
+image: ../assets/images/Various – Blast From The Past EP.webp
 ---
 
 B面は、カナダのテックハウス/ディープハウスのDJ兼プロデューサーJay Tripwire(ジェイ・トリップワイヤー)が、Herbie Hancock(ハービー・ハンコック)「Rockitt」をBootleg remix。

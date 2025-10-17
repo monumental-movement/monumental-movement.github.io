@@ -4,7 +4,7 @@ title:  "DJ Belal – Reggaeton Party Mix 05"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Dancehall, Reggae, Reggaeton ]
-image: ../assets/images/DJ Belal – Reggaeton Party Mix 05.jpg
+image: ../assets/images/DJ Belal – Reggaeton Party Mix 05.webp
 ---
 
 A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy Shop」のremixヴァージョン。

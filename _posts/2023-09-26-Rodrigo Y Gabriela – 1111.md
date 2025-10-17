@@ -4,7 +4,7 @@ title:  "Rodrigo Y Gabriela – 1111"
 author: mmr
 categories: [ CD ]
 tags: [ Latin, Folk, Rock ]
-image: ../assets/images/Rodrigo Y Gabriela – 1111.jpg
+image: ../assets/images/Rodrigo Y Gabriela – 1111.webp
 ---
 
 ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。

@@ -4,7 +4,7 @@ title:  "Nando – Music Go Wild Love Killer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
-image: ../assets/images/Nando – Music Go Wild Love Killer.jpg
+image: ../assets/images/Nando – Music Go Wild Love Killer.webp
 ---
 
 Nando (ナンド・ボニーニ)こと、Fernando Bonini（フェルナンド・ボニーニ）はイタリアのギタリスト、シンガーソングライター、ボーカリストです。

@@ -4,7 +4,7 @@ title:  "Exdream – Fight Fire With Fire"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Italo ]
-image: ../assets/images/Exdream – Fight Fire With Fire.jpg
+image: ../assets/images/Exdream – Fight Fire With Fire.webp
 ---
 
 「Fight Fire With Fire」は、

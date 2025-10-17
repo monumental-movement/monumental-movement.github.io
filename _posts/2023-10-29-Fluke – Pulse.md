@@ -4,7 +4,7 @@ title:  "Fluke – Pulse"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
-image: ../assets/images/Fluke – Pulse.jpg
+image: ../assets/images/Fluke – Pulse.webp
 ---
 
 Fluke（フルーク）はロンドン出身のMike Bryant, Jon Fugler, Mike Tournier により1980 年代後半に結成。

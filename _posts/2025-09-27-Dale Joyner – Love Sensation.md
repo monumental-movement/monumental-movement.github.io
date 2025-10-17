@@ -4,7 +4,7 @@ title:  "Dale Joyner – Love Sensation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 80s ]
-image: ../assets/images/Dale Joyner – Love Sensation.jpg
+image: ../assets/images/Dale Joyner – Love Sensation.webp
 ---
 
 1989年にレーベルUnigramからリリースされたこのレコードは、当時のダンスフロアで人気を博したハウス・ミュージックのクラシック。

@@ -4,7 +4,7 @@ title:  "Taffy – Step By Step (Moore Heavenly Mix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italodance, Disco, 80s ]
-image: ../assets/images/Taffy – Step By Step Moore Heavenly Mix.jpg
+image: ../assets/images/Taffy – Step By Step Moore Heavenly Mix.webp
 ---
 
 Taffy (Katherine Quaye)は、ヒット曲「I Love My Radio 」で知られるUKのイタロ／ハイエナジーシンガー。

@@ -4,7 +4,7 @@ title:  "Svenson & Gielen – Twisted"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
-image: ../assets/images/Svenson & Gielen – Twisted.jpg
+image: ../assets/images/Svenson & Gielen – Twisted.webp
 ---
 
 「Twisted」は、

@@ -4,7 +4,7 @@ title:  "Parliament – Up For The Down Stroke"
 author: mmr
 categories: [ Cassette ]
 tags: [ Funk, Soul ]
-image: ../assets/images/Parliament – Up For The Down Stroke.jpg
+image: ../assets/images/Parliament – Up For The Down Stroke.webp
 ---
 
 「Up for the Down Stroke」は、パーラメントの初のスタジオアルバムであり、そのサウンドはエネルギッシュで踊りやすいファンクビートが特徴です。アルバムには、ファンクの要素を取り入れたグルーヴィーな楽曲が詰まっています。

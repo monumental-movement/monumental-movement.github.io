@@ -4,7 +4,7 @@ title:  "DJ Zank – Back Stretch EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
-image: ../assets/images/DJ Zank – Back Stretch EP.jpg
+image: ../assets/images/DJ Zank – Back Stretch EP.webp
 ---
 
 「Back Stretch EP」は、DJ Zank (佐久間 英夫 / Subvoice / Hideo Sakuma)がレーベルSubvoice Electronic Musicから1999年にリリースしたTechno。

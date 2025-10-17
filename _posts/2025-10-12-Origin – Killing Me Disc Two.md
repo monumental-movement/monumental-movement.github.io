@@ -4,7 +4,7 @@ title:  "Origin – Killing Me (Disc Two)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive House, 00s ]
-image: ../assets/images/Origin – Killing Me (Disc Two).jpg
+image: ../assets/images/Origin – Killing Me (Disc Two).webp
 ---
 
 Originは、Anthony MeinとDave Woodによるプロジェクト。Knights Groove名義でも活動している。

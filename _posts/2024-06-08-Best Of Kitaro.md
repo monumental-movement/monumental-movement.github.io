@@ -4,7 +4,7 @@ title:  "Best Of Kitaro"
 author: mmr
 categories: [ Cassette ]
 tags: [ New Age, Relaxation, Healing, 80s ]
-image: ../assets/images/Best Of Kitaro.jpg
+image: ../assets/images/Best Of Kitaro.webp
 ---
 
 日本のキーボーディスト＆シンセサイザー奏者である喜多郎（きたろう）は、1994年にオリバー・ストーン監督の映画「天と地 (Heaven & Earth)」でゴールデングローブ賞作曲賞受賞。2001年には第43回グラミー賞最優秀ニューエイジ・アルバム賞を受賞している。

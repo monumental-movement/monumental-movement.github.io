@@ -4,7 +4,7 @@ title:  "Dry & Heavy – From Creation"
 author: mmr
 categories: [ CD ]
 tags: [ Dub, Reggae, 00s ]
-image: ../assets/images/Dry & Heavy – From Creation.jpg
+image: ../assets/images/Dry & Heavy – From Creation.webp
 ---
 
 Dry&Heavyは、ドラマーの七尾茂基（Dry）とベーシストの秋元武志（Heavy）によって1991年に結成された日本のレゲエ・ダブバンド。

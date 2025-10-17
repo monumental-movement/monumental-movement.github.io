@@ -4,7 +4,7 @@ title:  "Black Traxx – Volume II"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/Black Traxx – Volume II.jpg
+image: ../assets/images/Black Traxx – Volume II.webp
 ---
 
 Black Traxxは、LNR「Work It To The Bone」やThompson and Lenoir (トンプソン&レノア)「Can't Stop The House」など初期のシカゴ・ハウス・ミュージックの先駆的として活躍したDJ/プロデューサーRick Lenoir（リック・レノア）が、4 on the Floor production（フォー オン ザ フロア プロダクション）のメンバーとして共同プロデュースしたハウスシリーズ。

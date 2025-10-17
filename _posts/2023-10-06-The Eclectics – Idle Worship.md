@@ -4,7 +4,7 @@ title:  "The Eclectics – Idle Worship"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Punk ]
-image: ../assets/images/The Eclectics – Idle Worship.jpg
+image: ../assets/images/The Eclectics – Idle Worship.webp
 ---
 
 「Idle Worship」は、

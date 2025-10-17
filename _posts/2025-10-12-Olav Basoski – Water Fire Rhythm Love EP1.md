@@ -4,7 +4,7 @@ title:  "Olav Basoski – Water Fire Rhythm Love EP1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, 00s ]
-image: ../assets/images/Olav Basoski – Water Fire Rhythm Love EP1.jpg
+image: ../assets/images/Olav Basoski – Water Fire Rhythm Love EP1.webp
 ---
 
 Olav Basoskiは、1990年代後半から活動するオランダ・ハウスの重鎮。

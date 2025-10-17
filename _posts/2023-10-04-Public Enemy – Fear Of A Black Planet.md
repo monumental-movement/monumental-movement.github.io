@@ -4,7 +4,7 @@ title:  "Public Enemy – Fear Of A Black Planet"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
-image: ../assets/images/Public Enemy – Fear Of A Black Planet.jpg
+image: ../assets/images/Public Enemy – Fear Of A Black Planet.webp
 ---
 
 Public Enemyの「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。

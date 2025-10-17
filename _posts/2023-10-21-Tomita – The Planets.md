@@ -4,7 +4,7 @@ title:  "Tomita – The Planets"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient, Classic ]
-image: ../assets/images/Tomita – The Planets.jpg
+image: ../assets/images/Tomita – The Planets.webp
 ---
 
 冨田勲（Isao Tomita）は、日本の作曲家および電子音楽のパイオニア。

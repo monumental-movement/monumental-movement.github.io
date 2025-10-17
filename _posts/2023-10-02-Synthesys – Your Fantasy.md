@@ -4,7 +4,7 @@ title:  "Synthesys – Your Fantasy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
-image: ../assets/images/Synthesys – Your Fantasy.jpg
+image: ../assets/images/Synthesys – Your Fantasy.webp
 ---
 
 「Your Fantasy」は、

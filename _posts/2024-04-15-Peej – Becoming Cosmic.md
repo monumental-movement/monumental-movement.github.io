@@ -4,7 +4,7 @@ title:  "Peej – Becoming Cosmic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Rare ]
-image: ../assets/images/Peej – Becoming Cosmic.jpg
+image: ../assets/images/Peej – Becoming Cosmic.webp
 ---
 
 PeejことPaul Johnstonによるハウス・ディープハウストラック。

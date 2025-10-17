@@ -4,7 +4,7 @@ title:  "Murcof – Ulysses"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient, Minimal ]
-image: ../assets/images/Murcof – Ulysses.jpg
+image: ../assets/images/Murcof – Ulysses.webp
 ---
 
 Murcof(マーコフ)は、Mutek, Sonar, Atonalなどにも出演するメキシコを代表するエレクトロニック・ミュージシャン＆プロデューサーFernando Corona のプロジェクトです。

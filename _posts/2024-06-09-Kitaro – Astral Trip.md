@@ -4,7 +4,7 @@ title:  "Kitaro – Astral Trip"
 author: mmr
 categories: [ Cassette ]
 tags: [ New Age, Healing, Relaxation, 80s ]
-image: ../assets/images/Kitaro – Astral Trip.jpg
+image: ../assets/images/Kitaro – Astral Trip.webp
 ---
 
 喜多郎は、1970年代初頭日本のプログレッシブ・ロックバンド「ファー・イースト・ファミリー・バンド」のメンバーとしてキーボードを担当。バンドのレコーディングに訪れたヨーロッパで、ドイツのシンセサイザー奏者クラウス・シュルツェに出会い、シンセサイザーに傾倒していく。

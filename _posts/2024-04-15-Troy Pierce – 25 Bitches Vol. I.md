@@ -4,7 +4,7 @@ title:  "Troy Pierce – 25 Bitches Vol. I"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Troy Pierce – 25 Bitches Vol. I.jpg
+image: ../assets/images/Troy Pierce – 25 Bitches Vol. I.webp
 ---
 
 Troy Pierce（トロイピアース）は、ベルリンを拠点に活動するアメリカのエレクトロニック・ミュージックDJ・プロデューサー。 

@@ -4,7 +4,7 @@ title:  "Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remi
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Hiphop ]
-image: ../assets/images/Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remix).jpg
+image: ../assets/images/Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remix).webp
 ---
 
  「Rough and Rugged (Remix) Travellin' Man (Remix)」は、

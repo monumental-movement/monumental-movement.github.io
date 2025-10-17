@@ -4,7 +4,7 @@ title:  "Various – Metal For Muthas"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Metal, Heavy Metal, Hard Rock, 80s ]
-image: ../assets/images/Various – Metal For Muthas.jpg
+image: ../assets/images/Various – Metal For Muthas.webp
 ---
 
 【収録アーティスト】

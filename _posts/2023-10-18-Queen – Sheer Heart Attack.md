@@ -4,7 +4,7 @@ title:  "Queen – Sheer Heart Attack"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock ]
-image: ../assets/images/Queen – Sheer Heart Attack.jpg
+image: ../assets/images/Queen – Sheer Heart Attack.webp
 ---
 
 『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。

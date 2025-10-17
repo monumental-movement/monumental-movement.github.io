@@ -4,7 +4,7 @@ title:  "FreeTEMPO – Sounds"
 author: mmr
 categories: [ CD ]
 tags: [ House, Electro, Downtempo ]
-image: ../assets/images/FreeTEMPO – Sounds.jpg
+image: ../assets/images/FreeTEMPO – Sounds.webp
 ---
 
 FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト。2000年にFreeTEMPO名義で活動開始。

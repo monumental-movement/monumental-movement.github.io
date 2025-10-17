@@ -4,7 +4,7 @@ title:  "Roberto Rodriguez – Moonraker Serenade EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Roberto Rodriguez – Moonraker Serenade EP.jpg
+image: ../assets/images/Roberto Rodriguez – Moonraker Serenade EP.webp
 ---
 
 Roberto Rodriguez（ロバード・ロドリゲス）は、フィンランド出身のDJ/プロデューサーであり、レーベルSerenadesの創始者。Roberto Rodriguezは、DJ Harvey セットの常連曲「Mustat Varjot」など、ハウスクラシックといえる数々のトラックをリリースしている。

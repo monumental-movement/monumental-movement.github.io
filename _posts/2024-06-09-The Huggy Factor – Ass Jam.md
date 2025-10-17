@@ -4,7 +4,7 @@ title:  "The Huggy Factor – Ass Jam"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, Electro, 00s ]
-image: ../assets/images/The Huggy Factor – Ass Jam.jpg
+image: ../assets/images/The Huggy Factor – Ass Jam.webp
 ---
 
 The Huggy Factorは、Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro、Scarletron名義でも活動し、2020 Visionの共同設立者でもあるCarl FinlowとPaul Huggettのユニット。

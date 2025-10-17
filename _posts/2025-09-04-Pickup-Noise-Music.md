@@ -12,7 +12,7 @@ image: ../assets/images/pickup-noise-music.webp
 <hr>
 
 ### Merzbow – Merzbird
-<a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.jpg"></a>
+<a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 - **背景**：日本ノイズの最重要人物Merzbow。2004年、Important Recordsからの作品で、鳥類タイトルの曲群が並ぶ時期の一枚。  
 - **聴きどころ**：高密度の帯域が入れ替わる“音の洪水”。ノイズの「彫刻性」を体感できる決定打。
@@ -39,7 +39,7 @@ image: ../assets/images/pickup-noise-music.webp
 
 
 ### Zeni Geva – Desire For Agony
-<a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.jpg"></a>
+<a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
 - **背景**：1987年東京結成。KK.Nullと吉田達也を要に、プログレ／HC／メタル／ノイズロックを横断。1993年にシカゴで録音。  
 - **聴きどころ**：骨太リフから即興的爆裂まで、アグレッシブな音像の振れ幅。ノイズとロックの交差点の代表格。
@@ -71,7 +71,7 @@ B4. The Body = ザ ボディー
 
 
 ### 裸のラリーズ（Les Rallizes Dénudés）– Live 1972
-<a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.jpg"></a>
+<a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
 - **背景**：1967年、京都で結成。1960–90年代に活動し国内外のノイズロックに多大な影響を与えた伝説的バンド。カルト的人気を維持。  
 - **聴きどころ**：荒涼とした持続音と轟音のドローン、ミニマルに反復するグルーヴ。日本ノイズ・サイケの原体験的質感が直撃。
@@ -99,7 +99,7 @@ B4. The Body = ザ ボディー
 
 
 ### Hair Stylistics – Impression Of Nasty Dread / Best Of Hair-Style In My Life (7")
-<a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.jpg"></a>
+<a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
 - **背景**：中原昌也によるHair Stylistics名義。1999年リリースの7インチで、実験～ノイズ文脈を現在まで牽引。  
@@ -121,7 +121,7 @@ B. Best Of Hair-Style In My Life
 
 
 ### SebastiAn – Smoking Kills
-<a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.jpg"></a>
+<a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
 - **背景**：Ed Banger周辺のフレンチ・エレクトロ旗手。未来派エレクトロに“叫ぶようなノイズ”を注入したシングル。  
 - **聴きどころ**：「Dolami」の鋭角ブレイクスと飽和。クラブ・フォーマットでノイズの質感を楽しむ好例。
@@ -147,7 +147,7 @@ B2  Shoot
 
 
 ### Tipsy – Nude On The Moon / Space Golf
-<a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.jpg"></a>
+<a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
 - **背景**：サンフランシスコのラウンジ・コラージュ・デュオ。アブストラクト／トリップホップ／実験／ノイズ要素が混交。  
 - **聴きどころ**：ローファイ質感×モンドなカットアップ。“耳に優しいノイズ”の入り口としても心地よい。
@@ -174,7 +174,7 @@ B2. Space Golf (Venusian Swing Mix)
 
 
 ### Buffalo Daughter – WXBD
-<a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.jpg"></a>
+<a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
 - **背景**：日本の実験ロック・トリオ。多彩なリミキサー参加でエレクトロニカ～ノイズの側面が強化された企画盤。  
 - **聴きどころ**：ビッグ・ビート～ブレイクビーツ文脈での音響コラージュ。Corneliusらの手つきも含めて編集の快楽を堪能。

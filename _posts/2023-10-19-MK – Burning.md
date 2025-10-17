@@ -4,7 +4,7 @@ title:  "MK – Burning"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Anthem ]
-image: ../assets/images/MK – Burning.jpg
+image: ../assets/images/MK – Burning.webp
 ---
 
 MK（Marc Kinchen/マーク・キンチェン）は、デトロイト出身の音楽プロデューサー/DJ/リミキサー。「Burning」は、MKの代表作の一つ。

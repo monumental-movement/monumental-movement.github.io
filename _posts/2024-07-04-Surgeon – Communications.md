@@ -4,7 +4,7 @@ title:  "Surgeon – Communications"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno, 90s ]
-image: ../assets/images/Surgeon – Communications.jpg
+image: ../assets/images/Surgeon – Communications.webp
 ---
 
 RegisとFemaleによって設立されたイギリスのレーベルDownwardsから1996年にリリースされたSurgeon（サージョン）の1st アルバム。このアルバムは、JEFF MILLS（ジェフミルズ）がサポートし、Surgeonの名を世に知らしめた出世作＆名作と言われている。

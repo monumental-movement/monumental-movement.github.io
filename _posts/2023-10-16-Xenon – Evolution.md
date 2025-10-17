@@ -4,7 +4,7 @@ title:  "Xenon – Evolution"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
-image: ../assets/images/Xenon – Evolution.jpg
+image: ../assets/images/Xenon – Evolution.webp
 ---
 
 Xenonは、フィレンツェのディスコ”Xenon”の DJだったMarzio Dance（Marzio Mugnaioni） がコーディネートしたミュージシャンとプロデューサーのグループ。

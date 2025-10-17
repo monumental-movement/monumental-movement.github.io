@@ -4,7 +4,7 @@ title:  "Kaleidoscópio – Meu Sonho"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Drum n Bass ]
-image: ../assets/images/Kaleidoscopio – Meu Sonho.jpg
+image: ../assets/images/Kaleidoscopio – Meu Sonho.webp
 ---
 
 Kaleidoscópio （カレイドスコピオ /カレイド） は、ブラジルのサンパウロ出身のRamilson Maia（DJ ラミルソン・マイア）とJanaina Lima（ジャナイナ・リマ）によるドラムンベース＆ボサノバのデュオ。2000年代前半からブラジルとイタリアで人気を博し、その後世界的な人気となりました。

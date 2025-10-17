@@ -4,7 +4,7 @@ title:  "VA – Disco Sound Special Vol. 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Soul, Funk, 70s ]
-image: ../assets/images/VA – Disco Sound Special Vol. 1.jpg
+image: ../assets/images/VA – Disco Sound Special Vol. 1.webp
 ---
 
 VA – Disco Sound Special Vol. 1 - ディスコサウンドスペシャル　2枚組レコード

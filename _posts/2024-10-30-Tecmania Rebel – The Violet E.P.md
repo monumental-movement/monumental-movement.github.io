@@ -4,7 +4,7 @@ title:  "Tecmania Rebel – The Violet E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive House, Hard House, Techno ]
-image: ../assets/images/Tecmania Rebel – The Violet E.P.jpg
+image: ../assets/images/Tecmania Rebel – The Violet E.P.webp
 ---
 
 Tecmania Rebel はDJ PatrickことPatrick Van Der Hart別名義。彼は、かつてオランダのロッテルダムにあった有名クラブHollywood Music Hallのレジデントとして活躍した。

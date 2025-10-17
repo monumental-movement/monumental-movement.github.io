@@ -4,7 +4,7 @@ title:  "Winx – Don't Laugh (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Remix ]
-image: ../assets/images/Winx – Don't Laugh (Remix).jpg
+image: ../assets/images/Winx – Don't Laugh (Remix).webp
 ---
 
 B面はRichie Hawtin(リッチーホゥティン/リッチーホウティン)によるremix。

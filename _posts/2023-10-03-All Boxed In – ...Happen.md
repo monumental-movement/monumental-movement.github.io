@@ -4,7 +4,7 @@ title:  "All Boxed In – ...Happen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
-image: ../assets/images/All Boxed In – ...Happen.jpg
+image: ../assets/images/All Boxed In – ...Happen.webp
 ---
 
 「...Happen」は、1993年にUKのレーベル「Stress Records」からリリースされたAll Boxed InによるEPです。

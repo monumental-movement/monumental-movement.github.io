@@ -4,7 +4,7 @@ title:  "Bros – Too Much"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, Pops, 80s ]
-image: ../assets/images/Bros – Too Much.jpg
+image: ../assets/images/Bros – Too Much.webp
 ---
 
 Brosは、1987年〜1992年まで活動したイギリスのポップバンド。結成時は、双子の兄弟 Matt &Luke Goss(マット・ゴス&ルーク・ゴス)

@@ -4,7 +4,7 @@ title:  "Steve Reid – Bamboo Forest"
 author: mmr
 categories: [ Cassette ]
 tags: [ New Age, Healing, Spiritual, 80s ]
-image: ../assets/images/Steve Reid – Bamboo Forest.jpg
+image: ../assets/images/Steve Reid – Bamboo Forest.webp
 ---
 
 Steve Reid （スティーヴンリード ）は、アメリカのジャズパーカッショニスト＆プロデューサー。The Rippingtons（ザ・リッピントンズ）の共同創設者であり、Supertramp（スーパートランプ）のメンバーとしても活躍した。

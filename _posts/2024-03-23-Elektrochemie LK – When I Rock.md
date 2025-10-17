@@ -4,7 +4,7 @@ title:  "Elektrochemie LK – When I Rock"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno, 00s ]
-image: ../assets/images/Elektrochemie LK – When I Rock.jpg
+image: ../assets/images/Elektrochemie LK – When I Rock.webp
 ---
 
 ジャーマンテクノの重鎮Thomas Schumacher（トーマスシューマッハ）がElektrochemie LK名義で、2001年にリリースしたテクノトラック。

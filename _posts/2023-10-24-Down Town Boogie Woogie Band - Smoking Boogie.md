@@ -4,7 +4,7 @@ title:  "Down Town Boogie Woogie Band - Smoking Boogie"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
-image: ../assets/images/Down Town Boogie Woogie Band - Smoking Boogie.jpg
+image: ../assets/images/Down Town Boogie Woogie Band - Smoking Boogie.webp
 ---
 
 「Smoking Boogie（スモーキン・ブギ）」は、

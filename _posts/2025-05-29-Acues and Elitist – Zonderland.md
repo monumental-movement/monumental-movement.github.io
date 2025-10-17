@@ -4,7 +4,7 @@ title:  "Acues & Elitist – Zonderland"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Trance, 00s ]
-image: ../assets/images/Acues and Elitist – Zonderland.jpg
+image: ../assets/images/Acues and Elitist – Zonderland.webp
 ---
 
 Acues & Elitist は、Fernando Moreno MenarguesとSergio Sala Garciaによるデュオ。「Zonderland」は、2005年にオランダのレーベルprofuseからリリースされたトランストラック。

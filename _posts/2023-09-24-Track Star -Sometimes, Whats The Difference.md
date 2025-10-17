@@ -4,7 +4,7 @@ title:  "Track Star -Sometimes, What's The Difference"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Noise, 10inch ]
-image: ../assets/images/Track Star -Sometimes, What's The Difference.jpg
+image: ../assets/images/Track Star -Sometimes, What's The Difference.webp
 ---
 
 1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。

@@ -4,7 +4,7 @@ title:  "Todh Teri – Live at Indernet 2020 / Cologne"
 author: mmr
 categories: [ CD ]
 tags: [ Deep House, House, Techno ]
-image: ../assets/images/Todh Teri – Live at Indernet 2020.jpg
+image: ../assets/images/Todh Teri – Live at Indernet 2020.webp
 ---
 
 バレアリックの新星でありボリウッド・ディスコ・エディットの手練、Deep in India など名作をリリースし続けるミステリアスプロデューサーTodh TeriがMasala Movement主宰のイベント「INDERNET 2020」で披露したDJ音源。

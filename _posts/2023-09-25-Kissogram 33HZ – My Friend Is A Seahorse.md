@@ -4,7 +4,7 @@ title:  "Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Kissogram 33HZ – My Friend Is A Seahorse.jpg
+image: ../assets/images/Kissogram 33HZ – My Friend Is A Seahorse.webp
 ---
 
 「My Friend Is A Seahorse / Hot Flashes」は、キソグラムと33HZが共同制作した楽曲です。キソグラムはドイツのエレクトロニックミュージックデュオ、33HZはアメリカのエレクトロニックポップバンドです。

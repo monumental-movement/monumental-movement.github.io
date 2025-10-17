@@ -4,7 +4,7 @@ title:  "Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big T
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK House, 00s ]
-image: ../assets/images/Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track).jpg
+image: ../assets/images/Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You More (That Big Track).webp
 ---
 
 UKのハウスプロデューサーSteve Mac(スティーブ マック)とサイトランスシーンでも有名なUK出身のハウストリオMosquito（モスキート）、Dirty Vegas（ダーティベガス）やSqueeze（スクイーズ ）で活動するSteve Smith（スティーブスミス）によるハウストラック。

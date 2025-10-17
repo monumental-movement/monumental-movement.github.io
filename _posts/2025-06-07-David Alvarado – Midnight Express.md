@@ -4,7 +4,7 @@ title:  "David Alvarado – Midnight Express"
 author: mmr
 categories: [ CD ]
 tags: [ House, Deep House, 90s ]
-image: ../assets/images/David Alvarado – Midnight Express.jpg
+image: ../assets/images/David Alvarado – Midnight Express.webp
 ---
 
 Ovum、Peacefrog、NRK、Plastic City、Ultraなどのレーベルで作品を制作しているUSのDJ・プロデューサーDavid Alvaradoがセレクトしたハウス・ディープハウスコンピレーションミックスCD。

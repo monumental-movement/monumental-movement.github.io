@@ -14,7 +14,7 @@ image: ../assets/images/pickup-new-wave.webp
 
 
 ### Elvis Costello And The Attractions – Let Them All Talk
-<a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.jpg"></a>
+<a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
 リリース：1984年リリースの24枚目のシングル。80年代ニューウェーブ／ロックを代表するアーティスト、エルヴィス・コステロ＆ザ・アトラクションズによる楽曲。
@@ -42,7 +42,7 @@ B. The Flirting Kind
 
 
 ### Buggles – The Age of Plastic
-<a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.jpg"></a>
+<a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
 
 リリース：2025年5月1日掲載。バグルス（Trevor Horn と Geoff Downes によるUKニューウェーブユニット）のデビューアルバム。
 
@@ -73,7 +73,7 @@ B. The Flirting Kind
 
 
 ### The Expression – The Expression
-<a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.jpg"></a>
+<a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
 
 リリース：2023年10月26日掲載。オーストラリアのシンセポップ・ニューウェーブバンドによるセルフタイトルアルバム。
 
@@ -105,7 +105,7 @@ B5. Satisfied Strangers
 
 
 ### A Flock Of Seagulls – Listen
-<a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.jpg"></a>
+<a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
 
 リリース：2023年10月15日掲載。リバプール出身のニューウェーブ／シンセポップ／ニューロマンティックバンド、フロック・オブ・シーガルズによる1983年リリースの2ndアルバム。
 
@@ -137,7 +137,7 @@ B6. (It's Not Me) Talking
 
 
 ### Furniture – I Can't Crack
-<a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.jpg"></a>
+<a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
 
 リリース：2023年9月9日掲載。英国のポップ／ニューウェーブ／ポストパンク要素を持つバンドによる1985年のEP。
 
@@ -164,7 +164,7 @@ B1. I Can't Crack (Broken Mix)
 
 
 ### Devo – New Traditionalists
-<a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.jpg"></a>
+<a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
 リリース：2024年5月18日掲載。USニューウェーブの代表、Devo（ディーヴォ）による4作目のセルフプロデュース・アルバム（1981年）。
 
@@ -199,7 +199,7 @@ B6. Working In The Coal Mine
 
 
 ### Black – More Than The Sun
-<a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.jpg"></a>
+<a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
 リリース：2023年10月13日掲載。UKのシンガーソングライター Colín Vearncombe のソロ名義 Black による作品。
 
@@ -226,7 +226,7 @@ B3. Stephen
 
 
 ### The Rapture – In The Grace Of Your Love
-<a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.jpg"></a>
+<a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
 リリース：2024年12月18日掲載。NY出身ポストパンク／ダンスパンク／ニューウェーブ色を持つバンドによる3rdアルバム（2011年作品）。
 m.m.r

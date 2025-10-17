@@ -4,7 +4,7 @@ title:  "ACDC – Moneytalks"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Hard Rock ]
-image: ../assets/images/ACDC – Moneytalks.jpg
+image: ../assets/images/ACDC – Moneytalks.webp
 ---
 
 「Moneytalks」は、AC/DCの1990年のアルバム『The Razors Edge』に収録されている一曲です。

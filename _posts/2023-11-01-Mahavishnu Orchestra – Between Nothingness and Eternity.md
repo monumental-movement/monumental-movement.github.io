@@ -4,7 +4,7 @@ title:  "Mahavishnu Orchestra – Between Nothingness & Eternity"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Fusion, Jazz, Rock ]
-image: ../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.jpg
+image: ../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.webp
 ---
 
 1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。

@@ -4,7 +4,7 @@ title:  "DJ Tandu Presents Ayla – Singularity Brainchild II"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Trance, 00s ]
-image: ../assets/images/DJ Tandu Presents Ayla – Singularity.jpg
+image: ../assets/images/DJ Tandu Presents Ayla – Singularity.webp
 ---
 
 DJ TanduとAylaは、ドイツのDJ・プロデューサーIngo Kunziのトランスプロジェクト名義。

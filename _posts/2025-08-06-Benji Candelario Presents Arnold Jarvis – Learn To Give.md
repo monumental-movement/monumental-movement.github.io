@@ -4,7 +4,7 @@ title:  "Benji Candelario Presents Arnold Jarvis – Learn To Give"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, House, 00s ]
-image: ../assets/images/Benji Candelario Presents Arnold Jarvis – Learn To Give.jpg
+image: ../assets/images/Benji Candelario Presents Arnold Jarvis – Learn To Give.webp
 ---
 
 Benji Candelarioは、1990年代～2000年代初頭、ソウルフルなDeepHouseサウンドで評価され、アンダーグラウンドハウスシーンで人気を博したニューヨーク出身のHouse DJ／プロデューサー。

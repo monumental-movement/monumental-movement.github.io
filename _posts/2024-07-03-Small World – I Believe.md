@@ -4,7 +4,7 @@ title:  "Small World – I Believe"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Triphop, Downtempo, 00s ]
-image: ../assets/images/Small World – I Believe.jpg
+image: ../assets/images/Small World – I Believe.webp
 ---
 
 Small WorldことPaul Hunter（ポール・ハンター）はスコットランド・グラスゴー出身のプロデューサーであり、グランドセフトオートシリーズのGrand Theft Auto IV やSan Andreas（サンアンドレス）の音楽を手がけたMichael Hunter（マイケル・ハンター）の兄弟。Paul Hunterは、Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade, The Stic名義でも活動している。

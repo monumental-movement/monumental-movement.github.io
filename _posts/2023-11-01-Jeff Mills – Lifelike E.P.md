@@ -4,7 +4,7 @@ title:  "Jeff Mills – Lifelike E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, 90s ]
-image: ../assets/images/Jeff Mills – Lifelike E.P.jpg
+image: ../assets/images/Jeff Mills – Lifelike E.P.webp
 ---
 
 ジェフ・ミルズによる「Condor To Mallorca」は、まさにタイトルが示す通り、神秘的なトリップ感を感じるトラックで、最初はカリプソ調のリズムプログラムに後押しされたインスピレーション溢れる鍵盤の響きが、キックドラムへと収束していきます。

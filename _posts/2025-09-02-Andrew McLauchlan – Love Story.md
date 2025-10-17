@@ -4,7 +4,7 @@ title:  "Andrew McLauchlan – Love Story"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Latin, 00s ]
-image: ../assets/images/Andrew McLauchlan – Love Story.jpg
+image: ../assets/images/Andrew McLauchlan – Love Story.webp
 ---
 
 Andrew McLauchlanは、スコットランド出身のプロデューサー 。1998年にDan MarchとレーベルFigment(フィグメント)を設立。

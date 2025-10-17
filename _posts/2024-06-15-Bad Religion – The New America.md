@@ -4,7 +4,7 @@ title:  "Bad Religion – The New America"
 author: mmr
 categories: [ CD ]
 tags: [ Punk, Rock, US Punk, 00s ]
-image: ../assets/images/Bad Religion – The New America.jpg
+image: ../assets/images/Bad Religion – The New America.webp
 ---
 
 Bad Religion（バッドレリジョン）は、ロサンゼルスで結成されたパンクロックバンドで、メロディック・ハードコアのスタイルを生み出したグループの一つとして知られる現代パンク・ロックの重鎮。

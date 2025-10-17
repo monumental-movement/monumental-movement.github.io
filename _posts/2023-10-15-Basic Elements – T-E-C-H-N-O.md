@@ -4,7 +4,7 @@ title:  "Basic Elements – T-E-C-H-N-O"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House ]
-image: ../assets/images/Basic Elements – T-E-C-H-N-O.jpg
+image: ../assets/images/Basic Elements – T-E-C-H-N-O.webp
 ---
 
 「T-E-C-H-N-O」は、

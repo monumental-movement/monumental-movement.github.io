@@ -4,7 +4,7 @@ title:  "E-Rotic – Willy Use A Billy... Boy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Euro House, Hi NRG, 90s ]
-image: ../assets/images/E-Rotic – Willy Use A Billy Boy.jpg
+image: ../assets/images/E-Rotic – Willy Use A Billy Boy.webp
 ---
 
 E-Rotic（エロティック）は、1994年から活動するドイツのテクノポップダンスユニット。結成時のメンバーはドイツ生まれのヴォーカリストLyane LeighとRaz-Ma-Tazとして知られるアメリカ人ラッパーRichard Michael Smith。

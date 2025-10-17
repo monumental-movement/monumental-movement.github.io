@@ -4,7 +4,7 @@ title:  "Geodezik – Trap EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Geodezik – Trap EP.jpg
+image: ../assets/images/Geodezik – Trap EP.webp
 ---
 
 「Trap EP」は、

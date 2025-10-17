@@ -4,7 +4,7 @@ title:  "Casper & Karim – U Have Control / Passion5"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, House, 00s ]
-image: ../assets/images/Casper & Karim – U Have Control Passion5.jpg
+image: ../assets/images/Casper & Karim – U Have Control Passion5.webp
 ---
 
 UK出身のハードハウスDJ／プロデューサーChris Payne（Casper）と、ハードハウスやテクノのシーンで活躍するUK出身のDJ／プロデューサーKarim Lamouri（Karim）によるHardHouse。

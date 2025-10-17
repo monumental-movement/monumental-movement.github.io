@@ -4,7 +4,7 @@ title:  "Gigi D'Agostino – Noise Maker Theme 2000"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
-image: ../assets/images/Gigi D'Agostino – Noise Maker Theme 2000.jpg
+image: ../assets/images/Gigi D'Agostino – Noise Maker Theme 2000.webp
 ---
 
 「Gigi D'Agostino – Noise Maker Theme 2000」は、

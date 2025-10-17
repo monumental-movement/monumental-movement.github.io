@@ -4,7 +4,7 @@ title:  "Jaimy – Lost Inside"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
-image: ../assets/images/Jaimy – Lost Inside.jpg
+image: ../assets/images/Jaimy – Lost Inside.webp
 ---
 
 1990年、Jaimyはオランダのプロデューサーの中で、ハウスミュージックで生計を立てることに成功した最初の人の1人でした。19歳で初めてのレコード契約を締結し、アムステルダムのOutland Recordsに迎えられ、Outland Studiosからリリースされた音楽の多くに貢献しました。

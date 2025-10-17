@@ -4,7 +4,7 @@ title:  "Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version"
 author: sal
 categories: [ Vinyl ]
 tags: [ Hiphop ]
-image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.jpg
+image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.webp
 ---
 
 このアルバム「Return To The 36 Chambers The Dirty Version」はOl' Dirty Bastardがソロキャリアの中でも最も成功した作品の一つです。

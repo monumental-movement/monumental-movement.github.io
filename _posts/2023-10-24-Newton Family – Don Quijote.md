@@ -4,7 +4,7 @@ title:  "Newton Family – Don Quijote"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s, 7inch ]
-image: ../assets/images/Newton Family – Don Quijote.jpg
+image: ../assets/images/Newton Family – Don Quijote.webp
 ---
 
 「Newton Family – Don Quijote」は、

@@ -4,7 +4,7 @@ title:  "Tomas Andersson – Washing Up"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, 00s ]
-image: ../assets/images/Tomas Andersson – Washing Up.jpg
+image: ../assets/images/Tomas Andersson – Washing Up.webp
 ---
 
 Tomas Anderssonは、スウェーデン出身のエレクトロ/ テクノ/ Synthwaveプロデューサー。Jacques C とのElectronica / Techno デュオ Vaerelsenとしても活動し、DJ Hell、Ellen Allien、Dexter、DJ Assault、Hakan Lidbo、F CommunicationsアーティストLandskyなどのリミックスも担当している。

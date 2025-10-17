@@ -4,7 +4,7 @@ title:  "Buggles – The Age Of Plastic"
 author: mmr
 categories: [ CD ]
 tags: [ Electronic, Pop, Synth-pop, 80s ]
-image: ../assets/images/Buggles – The Age Of Plastic.jpg
+image: ../assets/images/Buggles – The Age Of Plastic.webp
 ---
 
 Buggles(バグルス)は、1977年にTrevor Horn(トレヴァー・ホーン)とGeoff Downes(ジェフ・ダウンズ)によって結成されたUKのニューウェーブバンド。1979年のデビューシングル「Video Killed the Radio Star」は、世界的なヒットとなった。

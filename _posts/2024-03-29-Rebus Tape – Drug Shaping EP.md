@@ -4,7 +4,7 @@ title:  "Rebus Tape – Drug Shaping EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Rebus Tape – Drug Shaping EP.jpg
+image: ../assets/images/Rebus Tape – Drug Shaping EP.webp
 ---
 
 Rebus Tape（リーバス・テープ）は、ブレイクビーツユニットPhab Com MastersのメンバーShiro Nakajimaのソロ・ユニット。

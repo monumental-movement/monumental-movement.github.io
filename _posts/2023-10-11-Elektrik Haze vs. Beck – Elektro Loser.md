@@ -4,7 +4,7 @@ title:  "Elektrik Haze vs. Beck – Elektro Loser"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Remix ]
-image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.jpg
+image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.webp
 ---
 
 「Elektro Loser」は、

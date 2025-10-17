@@ -4,7 +4,7 @@ title:  "Dub Tractor – Scary H H Loop / 104 Dub"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Triphop, Experimental, Ambient, 90s ]
-image: ../assets/images/Dub Tractor – Scary H H Loop.jpg
+image: ../assets/images/Dub Tractor – Scary H H Loop.webp
 ---
 
 デンマーク・コペンハーゲンのエレクトロニックコミュニティの重鎮Dub TractorことAnders Remmer は、エレクトロニックミュージシャン・プロデューサー＆映画音楽作曲家。Thomas Knak（別名Opiate）とJesper Skaaning （別名Acustic）と共に「Future 3」「System」名義でも活動している。

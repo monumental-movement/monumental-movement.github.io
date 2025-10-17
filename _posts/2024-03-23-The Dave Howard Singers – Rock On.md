@@ -4,7 +4,7 @@ title:  "The Dave Howard Singers – Rock On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ EBM, 80s ]
-image: ../assets/images/The Dave Howard Singers – Rock On.jpg
+image: ../assets/images/The Dave Howard Singers – Rock On.webp
 ---
 
 The Dave Howard Singers （デイブハワードシンガーズ）は、カナダのトロントで結成されたカルト的存在のオルタナティブロックバンド/プロジェクト。

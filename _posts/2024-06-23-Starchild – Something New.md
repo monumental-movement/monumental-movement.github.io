@@ -4,7 +4,7 @@ title:  "Starchild – Something New"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, UK Trance, 00s ]
-image: ../assets/images/Starchild – Something New.jpg
+image: ../assets/images/Starchild – Something New.webp
 ---
 
 Starchild は、 AliciやDJ Alici名義でも知られるトランスのDJ・プロデューサー。

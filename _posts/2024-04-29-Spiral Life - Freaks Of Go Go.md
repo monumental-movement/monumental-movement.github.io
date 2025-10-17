@@ -4,7 +4,7 @@ title:  "Spiral Life – Freaks Of Go Go Spectators 2"
 author: mmr
 categories: [ CD ]
 tags: [ Pop Rock, Synth-pop ]
-image: ../assets/images/Spiral Life - Freaks Of Go Go.jpg
+image: ../assets/images/Spiral Life - Freaks Of Go Go.webp
 ---
 
 Spiral Life(スパイラルライフ)は、車谷浩司と石田ショーキチによる音楽ユニット。活動期間は1993年〜1996年。

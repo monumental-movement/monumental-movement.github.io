@@ -4,7 +4,7 @@ title:  "Arome – Hands Up"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
-image: ../assets/images/Arome – Hands Up.jpg
+image: ../assets/images/Arome – Hands Up.webp
 ---
 
 「Hands Up」は、

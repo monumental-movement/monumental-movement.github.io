@@ -4,7 +4,7 @@ title:  "Black – More Than The Sun"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, New-Wave ]
-image: ../assets/images/Black – More Than The Sun.jpg
+image: ../assets/images/Black – More Than The Sun.webp
 ---
 
 Blackは、UKのシンガソングライターColinVearncombe（コリン・ヴァーンコム）の別名義であり、彼自身のバンド名。

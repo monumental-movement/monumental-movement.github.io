@@ -12,7 +12,7 @@ image: ../assets/images/pickup-euro.webp
 <hr>
 
 ### Rednex – Cotton Eye Joe
-<a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.jpg"></a>
+<a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.webp"></a>
 
 フォーマット：Vinyl
 
@@ -43,7 +43,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 
 ### Masterboy – Different Dreams
-<a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.jpg"></a>
+<a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
 
 フォーマット：CD
 
@@ -79,7 +79,7 @@ Bonus Track For Japan
 
 
 ### VA – Maharaja Top 20 Vol. III
-<a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.jpg"></a>
+<a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.webp"></a>
 
 フォーマット：CD（非売品）
 
@@ -120,7 +120,7 @@ Bonus Track For Japan
 <hr>
 
 ### Various – Overnight Remixes II
-<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.jpg"></a>
+<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
 
 フォーマット：Vinyl
 
@@ -153,7 +153,7 @@ B5. LNR – Work It To The Bone
 
 
 ### MDC‑X‑Static – You And Me
-<a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.jpg"></a>
+<a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
 
 フォーマット：Vinyl
 
@@ -178,7 +178,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 <hr>
 
 ### Ziggy – No Police (Aztec Remix)
-<a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20Remix).jpg"></a>
+<a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20Remix).webp"></a>
 
 フォーマット：Vinyl
 
@@ -202,7 +202,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 <hr>
 
 ### Dr. Baker – Kaos
-<a href="https://jp.mercari.com/item/m83196886792?afid=6142608987"><img src="../assets/images/Dr.%20Baker%20%E2%80%93%20Kaos.jpg"></a>
+<a href="https://jp.mercari.com/item/m83196886792?afid=6142608987"><img src="../assets/images/Dr.%20Baker%20%E2%80%93%20Kaos.webp"></a>
 
 フォーマット：Vinyl
 
@@ -228,7 +228,7 @@ B2. Kaos (Original German Sausage Mix)
 <hr>
 
 ### Channel X – So High
-<a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.jpg"></a>
+<a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
 
 フォーマット：Vinyl
 
@@ -253,7 +253,7 @@ B. So High (Single Mix)
 
 
 ### East 17 – Around The World
-<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.jpg"></a>
+<a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
 
 フォーマット：Vinyl
 
@@ -279,7 +279,7 @@ B #2. Around The World (Global House Mix)
 <hr>
 
 ### Tam Arrow – One Shot Girl
-<a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.jpg"></a>
+<a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
 
 フォーマット：Vinyl
 
@@ -308,7 +308,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 
 ### Dao Dezi – La Jument De Mishao
-<a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.jpg"></a>
+<a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
 
 フォーマット：Vinyl
 
@@ -333,7 +333,7 @@ B. La Jument De Mishao (Club Mix)
 
 
 ### E‑Rotic – Sexual Madness
-<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.jpg"></a>
+<a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
 
 フォーマット：CD
 
@@ -367,7 +367,7 @@ B. La Jument De Mishao (Club Mix)
 
 
 ### E‑Rotic – Willy Use A Billy... Boy
-<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.jpg"></a>
+<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
 フォーマット：CD
 

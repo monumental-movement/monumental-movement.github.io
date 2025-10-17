@@ -4,7 +4,7 @@ title:  "Corrina Joseph – Live Your Life With Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Downtempo ]
-image: ../assets/images/Corrina Joseph – Live Your Life With Me.jpg
+image: ../assets/images/Corrina Joseph – Live Your Life With Me.webp
 ---
 
 Corrina Joseph（コリーナ・ジョセフ）はイギリスのシンガーで、Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabrielなどの様々なアーティストの作品に参加。

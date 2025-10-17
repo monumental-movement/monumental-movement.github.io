@@ -4,7 +4,7 @@ title:  "Flare – Nettin Pure 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
-image: ../assets/images/Flare – Nettin Pure 2.jpg
+image: ../assets/images/Flare – Nettin Pure 2.webp
 ---
 
 Flareの「Nettin Pure 2」は、1995年にReel MusiqからリリースされたKen IshiiによるFlare名義での3トラック収録されたテクノサウンド。

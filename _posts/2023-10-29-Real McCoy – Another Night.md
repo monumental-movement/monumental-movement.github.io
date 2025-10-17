@@ -4,7 +4,7 @@ title:  "Real McCoy – Another Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro, Garage ]
-image: ../assets/images/Real McCoy – Another Night.jpg
+image: ../assets/images/Real McCoy – Another Night.webp
 ---
 
 Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。

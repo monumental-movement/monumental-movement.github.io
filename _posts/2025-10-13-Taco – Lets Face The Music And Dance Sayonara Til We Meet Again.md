@@ -4,7 +4,7 @@ title:  "Taco – Let's Face The Music (And Dance) Sayonara ('Til We Meet Again)
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, Disco, 80s ]
-image: ../assets/images/Taco – Let's Face The Music.jpg
+image: ../assets/images/Taco – Let's Face The Music.webp
 ---
 
 Taco(タコ)は、「Puttin’ on the Ritz(踊るリッツの夜)」のヒットで知られるインドネシア系オランダ人シンガー。

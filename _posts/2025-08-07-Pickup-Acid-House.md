@@ -12,7 +12,7 @@ image: ../assets/images/pickup-acid-house.webp
 <hr>
 
 ### Stylus Trouble – That Acid Track
-<a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.jpg"></a>
+<a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
 TR-303が唸る、王道アシッドラインを持つクラブクラシック。Pete Hellerの隠れた名義作。
 
@@ -34,7 +34,7 @@ B.  That Acid Track (Dub Version)
 <br>
 
 ### Various – Urban Acid
-<a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.jpg"></a>
+<a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
 1988年の本物。アシッド・ハウスの発火点を捉えた重要コンピ。シカゴ影響強し。
 
@@ -61,7 +61,7 @@ B4. Charm–Walk On The Wild Side
 
 
 ### Petter – Untitled Acid EP
-<a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.jpg"></a>
+<a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
 モダンな音作りでアシッドを再構築。ミニマル～プログレの間に漂う。
 
@@ -83,7 +83,7 @@ B2. Everyday Balloon
 
 
 ### Bomb The Bass – Say A Little Prayer
-<a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.jpg"></a>
+<a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
 アシッド×ダブ×ポップ。ジャンルを越境した'88年産アートピース。
 
@@ -103,7 +103,7 @@ B. 10 Seconds To Terminate
 
 
 ### DMX Krew – Nu Romantix
-<a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.jpg"></a>
+<a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.webp"></a>
 
 アシッドと80'sエレクトロのロマンチックな融合。TB-303が柔らかく鳴る。
 
@@ -151,7 +151,7 @@ B. 10 Seconds To Terminate
 <hr>
 
 ### Brennan Green – 900lb Man
-<a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.jpg"></a>
+<a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
 ディスコ感覚で繰り出されるアシッド・トラック。温かみあるロウ・グルーヴ。
 
@@ -169,7 +169,7 @@ B2. 900lb Man (Original Mix)
 <hr>
 
 #### Aquasky – Tranquility / Kauna
-<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.jpg"></a>
+<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 ドラムンベースにアシッドの要素を注入した異色作。疾走感とトリップ感が同居。
 
@@ -189,7 +189,7 @@ Y. Kauna
 <hr>
 
 #### Pergon – #2
-<a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.jpg"></a>
+<a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
 90年代初頭のジャーマン・アシッド・テクノ。硬派で機械的な鳴りが魅力。
 

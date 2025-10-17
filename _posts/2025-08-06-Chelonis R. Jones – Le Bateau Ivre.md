@@ -4,7 +4,7 @@ title:  "Chelonis R. Jones – Le Bateau Ivre"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Tech House, 00s ]
-image: ../assets/images/Chelonis R. Jones – Le Bateau Ivre.jpg
+image: ../assets/images/Chelonis R. Jones – Le Bateau Ivre.webp
 ---
 
 Chelonis R. Jonesは、2000年代からヨーロッパのエレクトロ／テックハウス・シーンで活躍したUS出身のミュージシャン、シンガーソングライター、ビジュアルアーティスト。

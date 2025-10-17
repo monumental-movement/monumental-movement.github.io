@@ -4,7 +4,7 @@ title:  "Robert Drewek – Acidition"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Acid House, Minimal, Tech House ]
-image: ../assets/images/Robert Drewek – Acidition.jpg
+image: ../assets/images/Robert Drewek – Acidition.webp
 ---
 
 Robert Drewek は、ドイツのフランクフルトに拠点を置くエレクトロニックミュージックディストリビューターDBH Musicのゼネラルマネージャー。Robin ScholzとのデュオRDRSとしても活動している。

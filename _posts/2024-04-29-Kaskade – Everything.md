@@ -4,7 +4,7 @@ title:  "Kaskade – Everything"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 00s ]
-image: ../assets/images/Kaskade – Everything.jpg
+image: ../assets/images/Kaskade – Everything.webp
 ---
 
 KaskadeことRyan Gary Raddon(ライアン・ゲイリー・ラドン)は、USのDJ・プロデューサー・リミキサー。Kaskadeは、2011年と2013年にDJ TimesのAmerica's Best DJに、DJ Magでは2009年Top100のDJリストで51位に選ばれている。

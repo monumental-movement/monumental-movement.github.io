@@ -4,7 +4,7 @@ title:  "G. Love & Special Sauce – G. Love & Special Sauce"
 author: mmr
 categories: [ CD ]
 tags: [ Blues Rock, Acoustic, Hip Hop, Jazz, 90s ]
-image: ../assets/images/G Love and Special Sauce – G Love and Special Sauce.jpg
+image: ../assets/images/G Love and Special Sauce – G Love and Special Sauce.webp
 ---
 
 G. Love & Special Sauceは、フィラデルフィア出身のロックバンド。ブルース、ヒップホップ、ロック、ソウルの要素を混ぜ合わせたオーガニックでユニークなスタイルが特徴。

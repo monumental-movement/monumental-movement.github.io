@@ -4,7 +4,7 @@ title:  "Bag Raiders – The Bag Raiders EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, Electronic ]
-image: ../assets/images/Bag Raiders – The Bag Raiders EP.jpg
+image: ../assets/images/Bag Raiders – The Bag Raiders EP.webp
 ---
 
 Bag Raidersは、オーストラリア出身の音楽デュオで、このEPにはヒット曲である「Fun Punch」が収録されています。

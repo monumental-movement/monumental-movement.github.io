@@ -4,7 +4,7 @@ title:  "Various – Wire 00 Compilation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Compilation ]
-image: ../assets/images/Various – Wire 00 Compilation.jpg
+image: ../assets/images/Various – Wire 00 Compilation.webp
 ---
 
 2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。

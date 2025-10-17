@@ -4,7 +4,7 @@ title:  "Deaz D Featuring DJ Fish – Dark En'Trance"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore, Gabber, 90s ]
-image: ../assets/images/Deaz D Featuring DJ Fish – Dark En'Trance.jpg
+image: ../assets/images/Deaz D Featuring DJ Fish – Dark En'Trance.webp
 ---
 
 Deaz D（Dennis Harinck）は、オランダのクラブLocomotionのレジデントDJ(-2002)、Bitte-Ein-Beatのクルーとして有名なハードコアプロデューサー。DJ Gizmoと共にハードコアシーンで活躍しているDJ Normanは実の兄弟。

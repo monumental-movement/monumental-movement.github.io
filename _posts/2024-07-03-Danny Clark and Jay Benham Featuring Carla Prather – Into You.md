@@ -4,7 +4,7 @@ title:  "Danny Clark & Jay Benham Featuring Carla Prather – Into You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, Garage House, UK House, House ]
-image: ../assets/images/Danny Clark & Jay Benham Featuring Carla Prather – Into You.jpg
+image: ../assets/images/Danny Clark & Jay Benham Featuring Carla Prather – Into You.webp
 ---
 
 MR. ALIやQUENTIN HARRIS、VICK LAVENDER、LOFTSOUL、DJ SPENなど数多くのアーティストとコラボしているヴォーカルプロデューサーCarla Pratherをフィーチャーした、UKハウスミュージックプロデューサーDanny Clark & Jay Benhamによるディープハウス・ガラージハウストラック。

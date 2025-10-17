@@ -4,7 +4,7 @@ title:  "MAW Featuring Liliana Chachian – Brazilian Beat (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin, 00s ]
-image: ../assets/images/MAW Featuring Liliana Chachian – Brazilian Beat (Remixes).jpg
+image: ../assets/images/MAW Featuring Liliana Chachian – Brazilian Beat (Remixes).webp
 ---
 
 MAW(Masters At Work)は、 "Little" Louie Vega とKenny "Dope" Gonzalezによるハウスプロダクション&リミックスチーム。別名義でKenLou、Sole Fusion、Nuyorican Soulなどがある。

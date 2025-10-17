@@ -4,7 +4,7 @@ title:  "Prodigy – The Fat Of The Land"
 author: mmr
 categories: [ CD ]
 tags: [ Breakbeat, Big Beat, 90s ]
-image: ../assets/images/Prodigy – The Fat Of The Land.jpg
+image: ../assets/images/Prodigy – The Fat Of The Land.webp
 ---
 
 Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettによって結成されたイギリスのエレクトロニック・パンクロックバンド。

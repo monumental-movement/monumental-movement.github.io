@@ -4,7 +4,7 @@ title:  "Various – EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
-image: ../assets/images/Various – EP.jpg
+image: ../assets/images/Various – EP.webp
 ---
 
 「Various – EP」は、

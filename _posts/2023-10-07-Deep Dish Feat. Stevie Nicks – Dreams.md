@@ -4,7 +4,7 @@ title:  "Deep Dish Feat. Stevie Nicks – Dreams"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
-image: ../assets/images/Deep Dish Feat. Stevie Nicks – Dreams.jpg
+image: ../assets/images/Deep Dish Feat. Stevie Nicks – Dreams.webp
 ---
 
 「Dreams」は、

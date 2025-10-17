@@ -4,7 +4,7 @@ title:  "Squeeze – Babylon And On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Pops ]
-image: ../assets/images/Squeeze – Babylon And On-r.jpg
+image: ../assets/images/Squeeze – Babylon And On-r.webp
 ---
 
 「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。

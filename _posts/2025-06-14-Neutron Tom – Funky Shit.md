@@ -4,7 +4,7 @@ title:  "Neutron Tom – Funky Shit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hard House, House, 00s ]
-image: ../assets/images/Neutron Tom – Funky Shit.jpg
+image: ../assets/images/Neutron Tom – Funky Shit.webp
 ---
 
 Neutron Tom は、UKのハードダンスプロデューサー、リミキサー&DJ 、Thomas Ingamellsの別名義。Ingo(インゴ)名義でよく知られている。

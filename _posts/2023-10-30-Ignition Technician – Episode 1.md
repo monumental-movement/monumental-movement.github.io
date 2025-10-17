@@ -4,7 +4,7 @@ title:  "Ignition Technician – Episode 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Ignition Technician – Episode 1.jpg
+image: ../assets/images/Ignition Technician – Episode 1.webp
 ---
 
 Ignition Technician（イグニッション テクニシャン）は、Cracker Jack, DJ Special Needs, Slut Peddlersからなるグループです。

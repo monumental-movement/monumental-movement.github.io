@@ -4,7 +4,7 @@ title:  "Bill & Ben – 10 Of Funk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Techno ]
-image: ../assets/images/Bill & Ben – 10 Of Funk.jpg
+image: ../assets/images/Bill & Ben – 10 Of Funk.webp
 ---
 
 Bill & Benの「10" Of Funk」は、リズミカルなビート、重いベースライン、シンコペーション、そして魂を揺さぶるホーンセクションなどファンクミュージックの要素が詰まった作品です。

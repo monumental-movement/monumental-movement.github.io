@@ -4,7 +4,7 @@ title:  "Deepswing – In The Music"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
-image: ../assets/images/Deepswing – In The Music.jpg
+image: ../assets/images/Deepswing – In The Music.webp
 ---
 
 Deep Swingは、ロサンゼルス出身のハウスプロデューサー、 Eric Wikman (エリック ウィクマン)と James Donaldson(ジェームス ドナルドソン)のデュオ。

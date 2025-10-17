@@ -4,7 +4,7 @@ title:  "Akasha Project – Always"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Psy-Trance, Techno, 00s ]
-image: ../assets/images/Akasha Project – Always.jpg
+image: ../assets/images/Akasha Project – Always.webp
 ---
 
 Akasha Project こと Barnim A. Schultze は、1980年代中頃から活動するドイツのエレクトロニックミュージシャン。

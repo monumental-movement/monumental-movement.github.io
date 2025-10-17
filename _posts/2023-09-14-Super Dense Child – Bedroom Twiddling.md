@@ -4,7 +4,7 @@ title:  "Super Dense Child – Bedroom Twiddling"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Breaks, 10inch ]
-image: ../assets/images/Super Dense Child – Bedroom Twiddling.jpg
+image: ../assets/images/Super Dense Child – Bedroom Twiddling.webp
 ---
 
 1999年にリリースされたロンドンのエイプマンレコーズの10インチです。

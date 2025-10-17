@@ -4,7 +4,7 @@ title:  "Various – Golden R&B"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, RnB, 7inch ]
-image: ../assets/images/Various – Golden RnB.jpg
+image: ../assets/images/Various – Golden RnB.webp
 ---
 
 「Various – Golden R&B」は、モータウン（Tamla Motown）のゴールデンコンパクトシリーズの一つとしてリリースされました。

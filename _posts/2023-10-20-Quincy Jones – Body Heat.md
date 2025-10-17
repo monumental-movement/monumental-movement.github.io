@@ -4,7 +4,7 @@ title:  "Quincy Jones – Body Heat"
 author: mmr
 categories: [ CD ]
 tags: [ Funk, Soul ]
-image: ../assets/images/Quincy Jones – Body Heat.jpg
+image: ../assets/images/Quincy Jones – Body Heat.webp
 ---
 
 ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。

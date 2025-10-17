@@ -4,7 +4,7 @@ title:  "Weirdo – Normalisation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard Trance, Trance, 00s ]
-image: ../assets/images/Weirdo – Normalisation.jpg
+image: ../assets/images/Weirdo – Normalisation.webp
 ---
 
 UK出身のハードトランスプロデューサーWeirdo（ウィアード）ことDominic Hardingが、イギリスのハードハウス・NRG・ハードトランスのプロデューサーJon Bellが運営するレーベルTinrib Recordingsから2002年にリリースしたハードトランス。

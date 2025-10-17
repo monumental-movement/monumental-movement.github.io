@@ -4,7 +4,7 @@ title:  "Various – The Enjoy! Story"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
-image: ../assets/images/Various – The Enjoy! Story.jpg
+image: ../assets/images/Various – The Enjoy! Story.webp
 ---
 
 「Various – The Enjoy! Story」は、ラップの最高傑作 Zulu Nation誕生期のヒッツとして、コンパイルされたアルバムです。

@@ -4,7 +4,7 @@ title:  "Del Costa & Pedro Goya – Freaky Mike"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Tech House, 00s ]
-image: ../assets/images/Del Costa & Pedro Goya – Freaky Mike.jpg
+image: ../assets/images/Del Costa & Pedro Goya – Freaky Mike.webp
 ---
 
 Yoyaku、Ubiyu、Different Heads、Classic Music Company など有名レーベルから多数の作品をリリースしているポルトガルのエレクトロニックミュージック界の重鎮 Pedro GoyaとDel Costa の名コンビ によるエレクトロ・テックハウストラック。

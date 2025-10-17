@@ -4,7 +4,7 @@ title:  "Robert Plant – Little By Little (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Remix, 7inch ]
-image: ../assets/images/Robert Plant – Little By Little (Remix).jpg
+image: ../assets/images/Robert Plant – Little By Little (Remix).webp
 ---
 
 A面は、Rob Dickins（ロブ・ディキンス）によるリミックス。

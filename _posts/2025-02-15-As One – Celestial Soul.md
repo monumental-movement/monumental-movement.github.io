@@ -4,7 +4,7 @@ title:  "As One – Celestial Soul"
 author: mmr
 categories: [ CD ]
 tags: [ IDM, Techno, Downtempo, Future Jazz, 90s ]
-image: ../assets/images/As One – Celestial Soul.jpg
+image: ../assets/images/As One – Celestial Soul.webp
 ---
 
 AS ONEは、イギリスのDJ・テクノプロデューサー Kirk Degiorgio(カーク・ディジョージオ)のソロプロジェクト名義。デトロイトテクノとファンク、ソウル、ジャズがミックスしたスタイルが特徴。

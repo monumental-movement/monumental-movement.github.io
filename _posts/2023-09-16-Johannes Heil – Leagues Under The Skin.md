@@ -4,7 +4,7 @@ title:  "Johannes Heil – Leagues Under The Skin"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno ]
-image: ../assets/images/Johannes Heil – Leagues Under The Skin.jpg
+image: ../assets/images/Johannes Heil – Leagues Under The Skin.webp
 ---
 
 ヨハネス・ハイルの音楽は、ダークでエモーショナルな雰囲気&力強いビートと独特なサウンドデザインが特徴です。

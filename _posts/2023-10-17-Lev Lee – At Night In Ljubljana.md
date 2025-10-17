@@ -4,7 +4,7 @@ title:  "Lev Lee – At Night In Ljubljana"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Lev Lee – At Night In Ljubljana.jpg
+image: ../assets/images/Lev Lee – At Night In Ljubljana.webp
 ---
 
 Lev Leeこと、Borut Bernik（ボルト・ベルニク）はスロベニアのテクノプロデューサー。Ales Cacovicと共に、スロベニアのテクノDJ&プロデューサーデュオとしてClox、Cloak Device、The Clockworx名義でも活動。

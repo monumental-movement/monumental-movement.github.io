@@ -4,7 +4,7 @@ title:  "Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own)
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
-image: ../assets/images/Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own).jpg
+image: ../assets/images/Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own).webp
 ---
 
 1987年にリリースされたDerrick May「Strings Of Life」のSoul Centralがremake。Soul Centralは、Andy WardとPaul TimothyによるUKミュージックデュオ。サウスカロライナ州出身のハウスボーカリストKathy Brownをフィーチャリング。

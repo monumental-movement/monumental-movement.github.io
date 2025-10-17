@@ -4,7 +4,7 @@ title:  "Ugra & Albrecht – Retouched EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, Rare ]
-image: ../assets/images/Ugra & Albrecht – Retouched EP.jpg
+image: ../assets/images/Ugra & Albrecht – Retouched EP.webp
 ---
 
 Ugra & Albrechtは、ドイツのテクノDJ＆プロデューサーのSertac UgraとSören Albrechtによるプロジェクト。

@@ -4,7 +4,7 @@ title:  "Public Enemy – Apocalypse 91... The Enemy Strikes Black"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
-image: ../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Black.jpg
+image: ../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Black.webp
 ---
 
 「Apocalypse 91... The Enemy Strikes Black」は、先行アルバム「Fear of a Black Planet」の成功を受けて制作された作品です。アルバムのタイトルは、「黒人の権利や社会的な不平等についての闘いを続ける」というメッセージを込めています。

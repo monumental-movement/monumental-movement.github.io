@@ -4,7 +4,7 @@ title:  "DJ Scot Project – O"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Anthem ]
-image: ../assets/images/DJ Scot Project – O.jpg
+image: ../assets/images/DJ Scot Project – O.webp
 ---
 
 DJ Scot Project（Frank Zenker）は、90年代からハードトランスシーンで成功を収めたドイツ人 DJ/プロデューサーです。

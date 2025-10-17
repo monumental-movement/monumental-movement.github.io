@@ -4,7 +4,7 @@ title:  "Black Metal Featuring Lady Lust – Show No Mercy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hyper Techno, 90s ]
-image: ../assets/images/Black Metal Featuring Lady Lust – Show No Mercy.jpg
+image: ../assets/images/Black Metal Featuring Lady Lust – Show No Mercy.webp
 ---
 
 「Show No Mercy」は、1995年にイタリアのレーベル「Bulldozer Records」からリリースされたBlack MetalによるEPです。

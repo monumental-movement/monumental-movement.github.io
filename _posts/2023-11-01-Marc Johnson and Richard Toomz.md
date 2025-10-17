@@ -4,7 +4,7 @@ title:  "Marc Johnson & Richard Toomz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Marc Johnson and Richard Toomz.jpg
+image: ../assets/images/Marc Johnson and Richard Toomz.webp
 ---
 
 

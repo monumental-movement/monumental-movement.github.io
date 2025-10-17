@@ -4,7 +4,7 @@ title:  "Aly-Us – Time Passes On Go On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
-image: ../assets/images/Aly-Us – Time Passes On Go On.jpg
+image: ../assets/images/Aly-Us – Time Passes On Go On.webp
 ---
 
 Aly-Us（アライアス） は、1990 年代初頭に活躍したニュージャージー出身のハウスミュージックグループ。メンバーは、Supaこと Eddie L. Lewis、DJ Kyle “Small” Smith、William Brian Jennings の 3 人組。

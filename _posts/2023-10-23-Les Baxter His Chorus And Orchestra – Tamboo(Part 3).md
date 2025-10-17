@@ -4,7 +4,7 @@ title:  "Les Baxter His Chorus And Orchestra – Tamboo(Part 3)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Space-Age, 7inch ]
-image: ../assets/images/Les Baxter, His Chorus And Orchestra – Tamboo(Part 3).jpg
+image: ../assets/images/Les Baxter, His Chorus And Orchestra – Tamboo(Part 3).webp
 ---
 
 レス・バクスターと彼の合唱団、オーケストラによるこの曲は、1956年にリリースされたアルバム「Tamboo!」に収録されています。レス・バクスターは、独自のエキゾチックで官能的な音楽スタイルで知られ、その作品はエキゾチカやスペースエイジ・ポップといったジャンルの先駆的なものとなりました。

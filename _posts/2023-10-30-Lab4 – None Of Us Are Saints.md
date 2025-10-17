@@ -4,7 +4,7 @@ title:  "Lab4 – None Of Us Are Saints"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
-image: ../assets/images/Lab4 – None Of Us Are Saints.jpg
+image: ../assets/images/Lab4 – None Of Us Are Saints.webp
 ---
 
 Lab4は、Adam Newman(アダム・ニューマン)& Les Elston(レス・エルストン)によるUKのハードダンスアクト。

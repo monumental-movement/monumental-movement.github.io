@@ -4,7 +4,7 @@ title:  "East 17 – Around The World"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Euro House, House, 90s ]
-image: ../assets/images/East 17 – Around The World.jpg
+image: ../assets/images/East 17 – Around The World.webp
 ---
 
 East 17 (イースト17)は、ヒットシングル「Stay Another Day」で知られるUKのポップ・ボーイズバンド。

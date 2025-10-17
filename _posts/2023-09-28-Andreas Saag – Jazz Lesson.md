@@ -4,7 +4,7 @@ title:  "Andreas Saag – Jazz Lesson"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Latin, Jazz, Techno ]
-image: ../assets/images/Andreas Saag – Jazz Lesson.jpg
+image: ../assets/images/Andreas Saag – Jazz Lesson.webp
 ---
 
 2002年にスウェーデンのレーベル「SLS」からリリースされました。

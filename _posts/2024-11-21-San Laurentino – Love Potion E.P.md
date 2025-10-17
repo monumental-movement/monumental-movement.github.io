@@ -4,7 +4,7 @@ title:  "San Laurentino – Love Potion E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, Disco ]
-image: ../assets/images/San Laurentino – Love Potion E.P.jpg
+image: ../assets/images/San Laurentino – Love Potion E.P.webp
 ---
 
 ARTHUR RUSSELL (アーサー・ラッセル)のリミックスなどをリリースする、ロンドンのイーストエンドにあるレーベルElectric Mindsから2010年に250枚限定でリリースされたディープハウス・アンビエントハウストラック。限定盤。

@@ -4,7 +4,7 @@ title:  "Necton – Mindboggler EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Goa Trance ]
-image: ../assets/images/Necton – Mindboggler EP.jpg
+image: ../assets/images/Necton – Mindboggler EP.webp
 ---
 
 2000年にドイツのレーベル「Spirit Zone Recordings」からリリースされたNectonによるEPです。

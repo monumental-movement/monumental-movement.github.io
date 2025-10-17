@@ -4,7 +4,7 @@ title:  "The Folk Crusaders - I Only Live Twice"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Folk, 7inch ]
-image: ../assets/images/The Folk Crusaders - I Only Live Twice.jpg
+image: ../assets/images/The Folk Crusaders - I Only Live Twice.webp
 ---
 
 『帰って来たヨッパライ』は、ザ・フォーク・クルセダーズのデビューシングルで、オリコンチャート史上初のミリオン・シングル。「アングラ・フォーク」のブームを生み出した曲でもあり、日本のコミックソングの代表的な作品。

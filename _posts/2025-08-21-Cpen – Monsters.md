@@ -4,7 +4,7 @@ title:  "Cpen – Monsters"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, Tech House, 00s ]
-image: ../assets/images/Cpen – Monsters.jpg
+image: ../assets/images/Cpen – Monsters.webp
 ---
 
 CPENことChris Penny は、WestCoast House の代表的アーティストの一人として、Seasons Recordings, Naked Music, Icon Recordings, Transfusion などのレーベルで多くの作品をリリースする、エレクトロニック／ハウス プロデューサー。J.T. DonaldsonとのユニットUntitled Orchestraや、Lance DeSardiとのユニットCurb Feelersとしても活動している。

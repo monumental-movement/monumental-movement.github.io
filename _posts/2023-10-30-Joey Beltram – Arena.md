@@ -4,7 +4,7 @@ title:  "Joey Beltram – Arena"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, US Techno ]
-image: ../assets/images/Joey Beltram – Arena.jpg
+image: ../assets/images/Joey Beltram – Arena.webp
 ---
 
 「Arena」は、1999年にJoey Beltram（ジョイ・ベルトラム）自身のレーベルSTX Recordsよりリリースされた。90年代に活躍したテクノDJ Dave Clarke(デイヴ・クラーク)のmixにも収録されている。

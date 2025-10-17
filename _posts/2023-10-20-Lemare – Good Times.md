@@ -4,7 +4,7 @@ title:  "Lemare – Good Times"
 author: mmr
 categories: [ Vinyl ]
 tags: [ UK Garage, Funk ]
-image: ../assets/images/Lemare – Good Times.jpg
+image: ../assets/images/Lemare – Good Times.webp
 ---
 
 「Good Times」は、

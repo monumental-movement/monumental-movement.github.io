@@ -4,7 +4,7 @@ title:  "Stock, Hausen & Walkman – Organ Transplants Vol. 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, 00s ]
-image: ../assets/images/Stock, Hausen & Walkman – Organ Transplants Vol. 2.jpg
+image: ../assets/images/Stock, Hausen & Walkman – Organ Transplants Vol. 2.webp
 ---
 
 Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)は、1991年〜2001年に活動したイギリスのエクスペリメンタル・エレクトロニック・ユニット。カットアップ、サンプリング、ミュージック・コンクレート、ジャンク・ポップ的要素をミックスしたサウンドが特徴。

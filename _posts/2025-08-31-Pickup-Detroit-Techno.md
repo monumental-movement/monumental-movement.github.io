@@ -13,7 +13,7 @@ image: ../assets/images/pickup-detroit-techno.webp
 
 
 ### Claude Young – The Dexit E.P.
-<a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.jpg"></a>
+<a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
 特徴：：1997年、ベルギーElypsiaレーベルから。デトロイトへの敬意と自らの探求心が融合した作品。
 
@@ -41,7 +41,7 @@ B2. Fade
 
 
 ### Model 500 – Deep Space
-<a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.jpg"></a>
+<a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
 特徴：「Milky Way」「Orbit」「The Flow」など、深宇宙を旅するような浮遊感のあるシンセワークと、スペーシーで硬質なリズムが特徴。
@@ -74,7 +74,7 @@ B2. Fade
 
 
 ### Model 500 – Flow
-<a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.jpg"></a>
+<a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
 特徴：シンプルなシンセリフとリズムが織りなすミニマルなトラック構造。空間的で浮遊感のあるシンセワークと、クールで機械的なリズム感が特徴的。
 
@@ -101,7 +101,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 ### Carl Craig – Landcruising
-<a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.jpg"></a>
+<a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
 特徴：ミニマルを基盤にアンビエント、ブレイクビート、フューチャージャズなどを融合したドラマティックな音像。
@@ -133,7 +133,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 ### Ultradyne – Unknown Works
-<a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.jpg"></a>
+<a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
 特徴：ダンサブルなグルーヴと抽象的な実験性を両立。トラック例：「Tangible–Theory Proliferation (Ultradyne Remix)」「Fantasy Era」。
@@ -161,7 +161,7 @@ B2. Ultradyne–War Drum - Live
 
 
 ### Drivetrain – Symphonium
-<a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.jpg"></a>
+<a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.webp"></a>
 
 
 特徴：ダークでメロディアス、エネルギッシュでダンサブルなリズムが特徴。
@@ -191,7 +191,7 @@ AA2. Soundtrack
 
 
 ### Jeff Mills – Very EP
-<a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.jpg"></a>
+<a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
 特徴：クラブのウォームアップに最適とされる、ミニマルで緊張感のある作品。
 
@@ -219,7 +219,7 @@ B3. Untitled
 
 
 ### Jeff Mills – Lifelike E.P.
-<a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.jpg"></a>
+<a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
 特徴：「Condor To Mallorca」が象徴的で、カリプソ的なリズムと鍵盤の響きが独特の浮遊感を演出。
 
@@ -246,7 +246,7 @@ B2. Black Avenger
 
 
 ### Jeff Mills – Skin Deep EP
-<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.jpg"></a>
+<a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
 特徴：収録曲「Call Of The Wild」でマイケル・ジャクソン『Off The Wall』からのパーカッションを引用。
 
@@ -273,7 +273,7 @@ B2. Scout
 
 
 ### Jeff Mills – Circus
-<a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.jpg"></a>
+<a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.webp"></a>
 
 特徴：2トラックを収録し、ハードでインダストリアルな雰囲気を醸し出すEP。
 
@@ -298,7 +298,7 @@ B. Circus (The Big Finale Mix)
 
 
 ###  “M” – More Drama（Axis 名義）
-<a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.jpg"></a>
+<a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
 特徴：1992年、Axisからリリースされた“M”名義のトラック。初期デトロイト・ミニマルを代表する一曲。
 

@@ -4,7 +4,7 @@ title:  "VA – Long Live Tibet"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Britpop, Rock, 90s ]
-image: ../assets/images/VA – Long Live Tibet.jpg
+image: ../assets/images/VA – Long Live Tibet.webp
 ---
 
 1997年にリリースされたチャリティCD。このCDの売り上げは、チベット解放＆チベット難民をサポートするTibet House Trust(チベットハウストラスト)慈善団体へ寄付された。

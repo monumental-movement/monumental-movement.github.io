@@ -4,7 +4,7 @@ title:  "Amany & The Badawist – Come on, Bassem"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Egypt, African, Lebanon ]
-image: ../assets/images/Amany and The Badawist – Come on Bassem.jpg
+image: ../assets/images/Amany and The Badawist – Come on Bassem.webp
 ---
 
 「Come on, Bassem」は、レバノンのレーベルBadawist Phoneからリリースされたカセットテープ。

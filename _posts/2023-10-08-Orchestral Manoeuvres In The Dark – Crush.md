@@ -4,7 +4,7 @@ title:  "Orchestral Manoeuvres In The Dark – Crush"
 author: mmr
 categories: [ Cassette ]
 tags: [ New-Wave, Rock ]
-image: ../assets/images/Orchestral Manoeuvres In The Dark – Crush.jpg
+image: ../assets/images/Orchestral Manoeuvres In The Dark – Crush.webp
 ---
 
 「Crush（クラッシュ）」は、イギリスのエレクトロニック・バンド、Orchestral Manoeuvres in the Dark（OMD）の6番目のスタジオアルバムで、1985年6月17日にVirgin Recordsからリリースされました。

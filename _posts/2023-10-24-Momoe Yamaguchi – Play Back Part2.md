@@ -4,7 +4,7 @@ title:  "山口百恵 – プレイバックPart2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
-image: ../assets/images/山口百恵 – プレイバックPart2.jpg
+image: ../assets/images/山口百恵 – プレイバックPart2.webp
 ---
 
 「山口百恵 – プレイバックPart2」は、1978年にリリースされました。

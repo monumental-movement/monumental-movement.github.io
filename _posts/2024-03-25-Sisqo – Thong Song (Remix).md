@@ -4,7 +4,7 @@ title:  "Sisqo – Thong Song (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, R&B, Remix ]
-image: ../assets/images/Sisqo – Thong Song (Remix).jpg
+image: ../assets/images/Sisqo – Thong Song (Remix).webp
 ---
 
 Sisqo（シスコ）[ マーク・アンドリュース プロフィール ]は、東ボルチモアのメリーランド州出身R&B シンガー。

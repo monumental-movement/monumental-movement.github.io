@@ -4,7 +4,7 @@ title:  "Atmosfear – Motivation (Dimitri From Paris Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
-image: ../assets/images/Atmosfear – Motivation (Dimitri From Paris Remixes).jpg
+image: ../assets/images/Atmosfear – Motivation (Dimitri From Paris Remixes).webp
 ---
 
 1978年にイギリスで結成されたジャズファンク/ブリットファンクバンドAtmosfear (アトモスフィア )のMotivationをフレンチ・ハウスの第一人者Dimitri From Paris（ディミトリフロムパリ）がremix。

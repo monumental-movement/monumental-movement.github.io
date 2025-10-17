@@ -4,7 +4,7 @@ title:  "RZA As Bobby Digital – RZA As Bobby Digital In Stereo"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop ]
-image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.jpg
+image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.webp
 ---
 
 「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」は、

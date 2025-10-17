@@ -4,7 +4,7 @@ title:  "Overrocket – Weather Forecast"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Synth-Pop ]
-image: ../assets/images/Overrocket – Weather Forecast.jpg
+image: ../assets/images/Overrocket – Weather Forecast.webp
 ---
 
 OVERROCKETは、電気グルーヴのエンジニア渡部高士、本田みちよ、鈴木光人のエレクトロポップ・ユニット。B面「Weather Forecast (Rain Hat Mix)」は、DJ TasakaによるRemix。

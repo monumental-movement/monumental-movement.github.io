@@ -4,7 +4,7 @@ title:  "Mercedes – Living For The Moment"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, UK House, 90s ]
-image: ../assets/images/Mercedes – Living For The Moment.jpg
+image: ../assets/images/Mercedes – Living For The Moment.webp
 ---
 
 トリニダード出身でイギリスを拠点に活動するシンガーMercedes(メルセデス)が、Depth Charge、 Eon、Bizarre Inc、Andrew Meechamを輩出したことで有名なUKのレーベルVinyl Solutionから1994年にリリースしたハウス・ガラージハウストラック。

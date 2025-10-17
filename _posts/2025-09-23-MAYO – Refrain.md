@@ -4,7 +4,7 @@ title:  "庄野真代 – ルフラン M・A・Y・O – Refrain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Kayōkyoku, Disco, City Pop, 70s ]
-image: ../assets/images/MAYO – Refrain.jpg
+image: ../assets/images/MAYO – Refrain.webp
 ---
 
 「ルフラン」は、代表曲『飛んでイスタンブール』(作曲：筒美京平)が収録された、庄野真代の4枚目のオリジナルアルバム。日本コロムビアのサブレーベル日本コロムビアから1978年にリリースされたCity Pop。

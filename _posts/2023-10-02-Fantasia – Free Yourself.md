@@ -4,7 +4,7 @@ title:  "Fantasia – Free Yourself"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/Fantasia – Free Yourself.jpg
+image: ../assets/images/Fantasia – Free Yourself.webp
 ---
 
 Charles Spencer＆David HarnessによるFantasia – Free YourselfのハウスREMIX。

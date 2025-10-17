@@ -4,7 +4,7 @@ title:  "裸のラリーズ Les Rallizes Dénudés – Live 1972"
 author: mmr
 categories: [ CD ]
 tags: [ Psychedelic Rock, Avant-garde, Rock, 70s ]
-image: ../assets/images/裸のラリーズ – Live 1972.jpg
+image: ../assets/images/裸のラリーズ – Live 1972.webp
 ---
 
 裸のラリーズ (Les Rallizes Dénudés/Hadaka no rariizu）は、1967年に水谷孝を中心に京都で結成されたエクスペリメンタルノイズロック・サイケデリックロックバンド。1960年代から1990年代に活動した裸のラリーズは、国内外のノイズロックシーンに多大なる影響を与え、現在もカルト的人気を誇る。結成当時のメンバーは水谷孝、中村武志、若林盛亮。その他、山口冨士夫（元村八分、後にティアドロップス）、久保田麻琴などが一時在籍するなどメンバーは流動的。1996年を最後に活動を休止している。

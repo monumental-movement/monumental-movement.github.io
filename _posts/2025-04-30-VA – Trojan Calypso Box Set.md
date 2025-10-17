@@ -4,7 +4,7 @@ title:  "VA – Trojan Calypso Box Set"
 author: mmr
 categories: [ CD ]
 tags: [ Reggae, Calypso, Mento ]
-image: ../assets/images/VA – Trojan Calypso Box Set.jpg
+image: ../assets/images/VA – Trojan Calypso Box Set.webp
 ---
 
 トロージャン　カリプソコンピレーション

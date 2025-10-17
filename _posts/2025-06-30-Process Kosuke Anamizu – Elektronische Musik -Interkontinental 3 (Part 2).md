@@ -4,7 +4,7 @@ title:  "Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Par
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech House, House, 00s ]
-image: ../assets/images/Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2).jpg
+image: ../assets/images/Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2).webp
 ---
 
 ProcessことSteve Barnesはイギリス出身のDJ。

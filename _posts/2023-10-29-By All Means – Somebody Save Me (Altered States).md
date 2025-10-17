@@ -4,7 +4,7 @@ title:  "By All Means – Somebody Save Me (Altered States)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid, Garage ]
-image: ../assets/images/By All Means – Somebody Save Me (Altered States).jpg
+image: ../assets/images/By All Means – Somebody Save Me (Altered States).webp
 ---
 
 「By All Means - Somebody Save Me (Altered States)」は、

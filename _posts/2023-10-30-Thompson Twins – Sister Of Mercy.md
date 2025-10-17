@@ -4,7 +4,7 @@ title:  "Thompson Twins – Sister Of Mercy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Synth-Pop ]
-image: ../assets/images/Thompson Twins – Sister Of Mercy.jpg
+image: ../assets/images/Thompson Twins – Sister Of Mercy.webp
 ---
 
 Thompson Twins(トンプソン・ツインズ)は、1977年に結成されたイギリスのポップバンド。結成当初は7人編成だったが、1982年からはトム・ベイリー、ジョー・リーウェイ、アラナ・カリーの3人編成となった。

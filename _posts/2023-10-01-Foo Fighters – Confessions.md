@@ -4,7 +4,7 @@ title:  "Foo Fighters – Confessions"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Remix, Rare ]
-image: ../assets/images/Foo Fighters – Confessions.jpg
+image: ../assets/images/Foo Fighters – Confessions.webp
 ---
 
 フー・ファイターズ(foo fighters)、2005年リリースのアルバムIn Your Honorからのシングルカット、BEST OF YOUのハウスリミックス。片面プレスです。

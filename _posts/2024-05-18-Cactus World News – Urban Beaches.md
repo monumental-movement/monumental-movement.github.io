@@ -4,7 +4,7 @@ title:  "Cactus World News – Urban Beaches"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Alternative Rock, 80s ]
-image: ../assets/images/Cactus World News – Urban Beaches.jpg
+image: ../assets/images/Cactus World News – Urban Beaches.webp
 ---
 
 カクタスワールドニュースは、1984年4月にダブリンで結成されたアイルランドのロックバンド。1985年にUKのハードロックバンドThe Cult（ザ・カルト）と英国ツアーを行い、MCAレコードと契約。

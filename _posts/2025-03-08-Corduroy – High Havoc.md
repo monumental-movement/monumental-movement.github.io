@@ -4,7 +4,7 @@ title:  "Corduroy – High Havoc"
 author: mmr
 categories: [ CD ]
 tags: [ Acid Jazz, 90s ]
-image: ../assets/images/Corduroy – High Havoc.jpg
+image: ../assets/images/Corduroy – High Havoc.webp
 ---
 
 Corduroy(コーデュロイ)は、ロンドンを拠点に活動する4人組のアシッドジャズバンド。

@@ -4,7 +4,7 @@ title:  "Brennan Green – 900lb Man"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, Acid House, 00s ]
-image: ../assets/images/Brennan Green – 900lb Man.jpg
+image: ../assets/images/Brennan Green – 900lb Man.webp
 ---
 
 Brennan Greenは、NYアンダーグラウンド・ディスコ〜エレクトロのベテランDJ、プロデューサー、エンジニア。Metro Area やレーベルDFA に影響を与えた人物としても知られ、Kid Creole & The CoconutsのremixやARTHUR RUSSELLのトリビュート・バンドARTHUR'S LANDING(アーサーズ・ランディング)のプロデュースでも有名。

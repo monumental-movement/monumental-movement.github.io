@@ -4,7 +4,7 @@ title:  "Tam Arrow – One Shot Girl"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
-image: ../assets/images/Tam Arrow – One Shot Girl.jpg
+image: ../assets/images/Tam Arrow – One Shot Girl.webp
 ---
 
 「One Shot Girl」は、

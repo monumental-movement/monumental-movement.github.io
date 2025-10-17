@@ -4,7 +4,7 @@ title:  "Unknown Artist – Get Deep"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Mashup ]
-image: ../assets/images/Unknown Artist – Get Deep.jpg
+image: ../assets/images/Unknown Artist – Get Deep.webp
 ---
 
 Roland Clark（ローランド・クラーク）の『 I Get Deep（アイ・ゲット・ディープ）』、Carl Craig（カール・クレイグ）の『Just Another Day（ジャスト・アナザー・デイ）』、Manuel Göttsching『E2-E4』をサンプリングしたCarl Craigの別名義Paperclip Peopleの『remake』のマッシュアップ。 EditはTimmy Regisford（ティミー・レジスフォード）。

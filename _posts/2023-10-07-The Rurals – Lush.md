@@ -4,7 +4,7 @@ title:  "The Rurals – Lush"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/The Rurals – Lush.jpg
+image: ../assets/images/The Rurals – Lush.webp
 ---
 
 「Lush」は、

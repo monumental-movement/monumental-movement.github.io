@@ -4,7 +4,7 @@ title:  "Bryan Zentz – Joplin"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Bryan Zentz – Joplin.jpg
+image: ../assets/images/Bryan Zentz – Joplin.webp
 ---
 
 Bryan Zentz(ブライアン・ゼンツ)は、80年代にパンクバンドDisarmのボーカリストとして活動して、90年代初期にはRichie Hawtin や John Aquaviva の Definitive レーベルから、Barada 名義でテクノ作品をリリース。その後Intec Recordsから作品をリリースし、特に「D-Clash」は Carl Cox によるリミックスでも知られるBryan Zentzの代表曲。別名義でFaculty X, Bryan Never, Stareなどがある。

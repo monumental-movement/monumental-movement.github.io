@@ -4,7 +4,7 @@ title:  "Wildlife  – Hooked On Dope E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, House, UK House, 90s ]
-image: ../assets/images/Wildlife  – Hooked On Dope E.P.jpg
+image: ../assets/images/Wildlife  – Hooked On Dope E.P.webp
 ---
 
 WildlifeことSeb Fontaineは、UK出身のDJ・プロデューサー。The Fridgeや CreamなどでレジデントDJを務め、ミックスアルバムを多数リリースしている。

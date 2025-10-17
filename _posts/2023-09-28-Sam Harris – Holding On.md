@@ -4,7 +4,7 @@ title:  "Sam Harris – Holding On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix ]
-image: ../assets/images/Sam Harris – Holding On.jpg
+image: ../assets/images/Sam Harris – Holding On.webp
 ---
 
 「Sam Harris – Holding On」は、本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。

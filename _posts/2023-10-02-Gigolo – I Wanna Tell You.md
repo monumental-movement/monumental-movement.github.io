@@ -4,7 +4,7 @@ title:  "Gigolo – I Wanna Tell You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
-image: ../assets/images/Gigolo – I Wanna Tell You.jpg
+image: ../assets/images/Gigolo – I Wanna Tell You.webp
 ---
 
 Gigoloは、Mo' Hop Recordsのオーナーであるエレクトロニック・ダンス・プロデューサー、 Edwin Maduro(エドウィン・マドゥロ)の別名義。Edwin Maduroが使用する別名義には、Breadth Of View、Eddie Maduro、Eddie Satin、Gigolo、Monolith、The Visionなどがある。

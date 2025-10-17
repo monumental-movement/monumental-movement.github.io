@@ -4,7 +4,7 @@ title:  "Dino – King Kong Five"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, 00s ]
-image: ../assets/images/Dino – King Kong Five.jpg
+image: ../assets/images/Dino – King Kong Five.webp
 ---
 
 DinoことDino Lennyは、ダンスミュージックシーンで30年以上活躍するイタリアのDJ／プロデューサー。

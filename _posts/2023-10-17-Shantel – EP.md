@@ -4,7 +4,7 @@ title:  "Shantel – EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Future Jazz ]
-image: ../assets/images/Shantel – EP.jpg
+image: ../assets/images/Shantel – EP.webp
 ---
 
 ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。

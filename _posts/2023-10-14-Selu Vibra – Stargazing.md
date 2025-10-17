@@ -4,7 +4,7 @@ title:  "Selu Vibra – Stargazing"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
-image: ../assets/images/Selu Vibra – Stargazing.jpg
+image: ../assets/images/Selu Vibra – Stargazing.webp
 ---
 
 Selu Vibra（セルビブラ）は、スウェーデンのトランスDJ/プロデューサーSebastian Brandt、Niklas Gustavsson、Ludvig Holmによるプロジェクト。

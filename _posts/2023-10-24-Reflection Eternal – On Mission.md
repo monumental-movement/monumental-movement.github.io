@@ -4,7 +4,7 @@ title:  "Reflection Eternal – On Mission"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap, 90s ]
-image: ../assets/images/Reflection Eternal – On Mission.jpg
+image: ../assets/images/Reflection Eternal – On Mission.webp
 ---
 
 「Reflection Eternal / Shabaam Sahdeeq Featuring The Cocoa Brovaz – On Mission / Every Rhyme I Write」は、Rawkusから1999年にリリースされました。

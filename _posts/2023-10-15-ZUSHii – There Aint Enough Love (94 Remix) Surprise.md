@@ -4,7 +4,7 @@ title:  "ZUSHii – There Ain't Enough Love ('94 Remix) Surprise"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, UK Urban Soul ]
-image: ../assets/images/ZUSHii – There Ain't Enough Love ('94 Remix) Surprise.jpg
+image: ../assets/images/ZUSHii – There Ain't Enough Love ('94 Remix) Surprise.webp
 ---
 
 ZUSHii（ジューシー）は、Carol McLeod, Gary Bent, Jason Halliday, Sharon Bensonによるプロジェクト。

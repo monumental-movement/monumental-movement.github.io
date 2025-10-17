@@ -4,7 +4,7 @@ title:  "Shofukutei Tsuruko - Uguisudani Music Hall"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Comic, Parody, 7inch ]
-image: ../assets/images/笑福亭鶴光 – うぐいすだにミュージックホール ももえちゃん.jpg
+image: ../assets/images/笑福亭鶴光 – うぐいすだにミュージックホール ももえちゃん.webp
 ---
 
 「うぐいすだにミュージックホール」は、笑福亭鶴光が1975年5月に発売したコミックソング。

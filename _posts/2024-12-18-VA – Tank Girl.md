@@ -4,7 +4,7 @@ title:  "VA – Tank Girl"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Triphop, Gangsta, Punk, Soundtrack ]
-image: ../assets/images/VA – Tank Girl.jpg
+image: ../assets/images/VA – Tank Girl.webp
 ---
 
 1995年に劇場公開されたレイチェル・タラレイ監督による終末ものSF映画「Tank Girl」のサウンドトラック。タンクガールは、UKでカルト的人気を誇るコミックの実写映像化。サウンドトラックはCourtney Love(コートニー・ラブ)によって組み立てられ、SPKのGraeme Revell(グレーム・レヴェル)はオリジナル音楽を提供した。Devoは、コミックの大ファンだったため、映画のために「Girl U Want」の新しいバージョンを録音した。

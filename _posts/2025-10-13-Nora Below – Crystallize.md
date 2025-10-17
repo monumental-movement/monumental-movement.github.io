@@ -4,7 +4,7 @@ title:  "Nora Below – Crystallize..."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Abstract, Experimental, Tech House, 00s ]
-image: ../assets/images/Nora Below – Crystallize.jpg
+image: ../assets/images/Nora Below – Crystallize.webp
 ---
 
 Nora Below は、エレクトロニック／エレクトロ／インダストリアル／ニューウェイヴをベースにボーカル中心のエレクトロ系作品をリリースする、ベルリンを拠点に活動するアーティスト。

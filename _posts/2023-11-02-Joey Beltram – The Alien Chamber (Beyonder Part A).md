@@ -4,7 +4,7 @@ title:  "Joey Beltram – The Alien Chamber (Beyonder Part A)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Joey Beltram – The Alien Chamber (Beyonder Part A).jpg
+image: ../assets/images/Joey Beltram – The Alien Chamber (Beyonder Part A).webp
 rating: 3.5
 v-rating: 3G
 ---

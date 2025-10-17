@@ -4,7 +4,7 @@ title:  "Phauna – Naturally (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 00s ]
-image: ../assets/images/Phauna – Naturally (Remixes).jpg
+image: ../assets/images/Phauna – Naturally (Remixes).webp
 ---
 
 Mellee FreshとDJ Spydabrownによって設立されたカナダのハウスレーベルPlay Recordsから2003年にリリースされたディープハウストラック。

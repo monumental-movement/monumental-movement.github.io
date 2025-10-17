@@ -4,7 +4,7 @@ title:  "Mickey Hart – Planet Drum"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Ambient ]
-image: ../assets/images/Mickey Hart – Planet Drum.jpg
+image: ../assets/images/Mickey Hart – Planet Drum.webp
 ---
 
 「プラネット・ドラム」は、ロックバンドであるグレイトフル・デッドのメンバーであった音楽家兼音楽学者、ミッキー・ハートによるワールドミュージックのアルバムです。

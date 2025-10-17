@@ -4,7 +4,7 @@ title:  "Lennie De Ice – We Are I.E. (Part 1 of 2)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2).jpg
+image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2).webp
 ---
 
 「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。

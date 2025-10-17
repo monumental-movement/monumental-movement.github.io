@@ -4,7 +4,7 @@ title:  "ACDC – For Those About To Rock We Salute You"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Hard Rock ]
-image: ../assets/images/ACDC – For Those About To Rock We Salute You.jpg
+image: ../assets/images/ACDC – For Those About To Rock We Salute You.webp
 ---
 
 「For Those About to Rock We Salute You」は、AC/DCのアルバムとしては8枚目に当たる作品です。アルバムは、バンドのトレードマークとも言えるヘヴィなギターリフ、爆発的なドラムビート、そしてブライアン・ジョンソン（Brian Johnson）の力強いヴォーカルが特徴です。

@@ -4,7 +4,7 @@ title:  "Inland Knights – Filter Interference"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/Inland Knights – Filter Interference.jpg
+image: ../assets/images/Inland Knights – Filter Interference.webp
 ---
 
 「Filter Interference」は、

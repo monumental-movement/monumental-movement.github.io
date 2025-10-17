@@ -4,7 +4,7 @@ title:  "Oregano – Oregano"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
-image: ../assets/images/Oregano – Oregano.jpg
+image: ../assets/images/Oregano – Oregano.webp
 ---
 
 「Oregano by Oregano 」は、ミックスタイトルは記載されていませんが、1994年にFreeze RecordsからリリースされたTodd Terry（トッド・テリー）によるディープハウストラック。

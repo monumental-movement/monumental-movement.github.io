@@ -4,7 +4,7 @@ title:  "Rednail Kidz – Elektrik Disko"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/Rednail Kidz – Elektrik Disko.jpg
+image: ../assets/images/Rednail Kidz – Elektrik Disko.webp
 ---
 
 Rednail Kidzは、80年代シカゴハウス初期から活動するDJ・プロデューサーDerrick Carter（デリック・カーター）と、Chris Nazuka（クリス・ナヅカ）によるUSディープハウス・プロダクション・デュオ。

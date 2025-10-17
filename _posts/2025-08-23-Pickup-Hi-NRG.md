@@ -12,7 +12,7 @@ image: ../assets/images/pickup-hi-nrg.webp
 <hr>
 
 ### E-Rotic – “Willy Use A Billy... Boy”
-<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.jpg"></a>
+<a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
 ドイツ発のセクシーなキャッチー・ユーロ・ポップ。90年代以降のHi-NRGの解釈として、思わず口ずさみたくなる中毒性の高いトラックです。
 
@@ -34,7 +34,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 
 
 ### Norma Sheffield – “Look Me In The Eyes”
-<a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.jpg"></a>
+<a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.webp"></a>
 
 Italo／Hi-NRG系プロジェクトの美麗な歌唱が際立つ1枚。叙情的で切ないコード進行に注目。
 
@@ -59,7 +59,7 @@ B2. Look Me In The Eyes (Instrumental)
 
 
 ### Pleasure & Pain – Higher
-<a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Higher.jpg"></a>
+<a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Higher.webp"></a>
 
 80年代から活躍するイタロの有名プロデューサーFRED VENTURA（フレッド・ベンチュラ）のプロジェクト（1990-1992）。
 
@@ -84,7 +84,7 @@ B2. Higher (Instrumental)
 
 
 ### Max Coo & Steve Coo – “Boogie Dancer”
-<a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.jpg"></a>
+<a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.webp"></a>
 
 Ken Laszloによるヴォーカルがスパイス。Italoのオーソドックスかつグルーヴィーな魅力を感じさせる好ナンバー。
 
@@ -109,7 +109,7 @@ B3. Boogie Dancer (Verona Beat)
 
 
 ### Dave Hammond – “Africa”
-<a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.jpg"></a>
+<a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
 欧州展開型イタロ・ディスコのユーロビート寄りなスタイル。ダンサブルに場を温めたい時に。
 
@@ -134,7 +134,7 @@ B3. Africa (Dub Mix)
 
 
 ### Pseudonym – “You Have The Right To Remain Silent”
-<a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.jpg"></a>
+<a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
 
 Hi-NRGの伝道師Ian Levineが絡む重要作品。当時のクラブシーンの空気感そのものを録音したような一枚。
 

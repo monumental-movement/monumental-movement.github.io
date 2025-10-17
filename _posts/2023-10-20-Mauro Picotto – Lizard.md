@@ -4,7 +4,7 @@ title:  "Mauro Picotto – Lizard"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
-image: ../assets/images/Mauro Picotto – Lizard.jpg
+image: ../assets/images/Mauro Picotto – Lizard.webp
 ---
 
 Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。

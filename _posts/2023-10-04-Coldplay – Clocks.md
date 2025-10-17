@@ -4,7 +4,7 @@ title:  "Coldplay – Clocks"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
-image: ../assets/images/Coldplay – Clocks.jpg
+image: ../assets/images/Coldplay – Clocks.webp
 ---
 
 このトラックの原曲は、2002年にリリースされたアルバム『A Rush of Blood to the Head』に収録されています。"Clocks"は、アルバムからのリードシングルとしてもリリースされ、世界的な成功を収めました。

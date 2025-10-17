@@ -4,7 +4,7 @@ title:  "Raoul Zerna – Inside The Grooves"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, 00s ]
-image: ../assets/images/Raoul Zerna – Inside The Grooves.jpg
+image: ../assets/images/Raoul Zerna – Inside The Grooves.webp
 ---
 
 Raoul Zernaは、テクノ、テックハウス、ラテンの影響を受けたハウスビートスタイルが特徴のDJ・プロデューサー。エクアドルにルーツをもち、ロサンゼルスを拠点に活動している。DJとしては、Carl Cox, DJ Sneak, Bad Boy Bill, DJ Dan, and DJ Keoki等と共演し、世界中のフェスやライブでプレイしている。

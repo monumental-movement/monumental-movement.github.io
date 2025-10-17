@@ -4,7 +4,7 @@ title:  "Tukan – Light A Rainbow"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, German Trance ]
-image: ../assets/images/Tukan – Light A Rainbow.jpg
+image: ../assets/images/Tukan – Light A Rainbow.webp
 ---
 
 Tukan（トゥカン）は、デンマーク出身のプロデューサー、Lars Frederiksen（ラース・フレデリクセン）とSøren Weile（ソーレン・ヴァイレ）からなるトランスプロジェクト。Zekt、ATNなどの別名義でも活動。

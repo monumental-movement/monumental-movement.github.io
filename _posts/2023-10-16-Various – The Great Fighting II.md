@@ -4,7 +4,7 @@ title:  "Various – The Great Fighting II"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient ]
-image: ../assets/images/Various – The Great Fighting II.jpg
+image: ../assets/images/Various – The Great Fighting II.webp
 ---
 
 「V/A - 必殺のプロレス・テーマ集 - Various – The Great Fighting II」は、1978年にOverseas Recordsからリリースされました。

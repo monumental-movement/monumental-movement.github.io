@@ -4,7 +4,7 @@ title:  "Various – Build & Destroy (The Best Of Mo Wax Recordings)"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Triphop, Abstract, 90s ]
-image: ../assets/images/Various – Build and Destroy (The Best Of Mo Wax Recordings).jpg
+image: ../assets/images/Various – Build and Destroy (The Best Of Mo Wax Recordings).webp
 ---
 
 90年代を代表する伝説のレーベルMO WAXから1996年リリースされた2枚組のコンピレーションアルバム。

@@ -4,7 +4,7 @@ title:  "DJ Dero – The Horn 2000"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive House, House, 00s ]
-image: ../assets/images/DJ Dero – The Horn 2000.jpg
+image: ../assets/images/DJ Dero – The Horn 2000.webp
 ---
 
 DJ Dero（DJデロ）は、アルゼンチン出身のプロデューサー＆DJ。

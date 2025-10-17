@@ -4,7 +4,7 @@ title:  "Puppetmastaz – Bigger The Better"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
-image: ../assets/images/Puppetmastaz – Bigger The Better.jpg
+image: ../assets/images/Puppetmastaz – Bigger The Better.webp
 ---
 
 Puppetmastaz(パペットマスターズ)は、1996年にベルリンで結成されたドイツのヒップホップグループで、Max Turner(マックス ターナー)、 Chilly Gonzales(チリー ゴンザレス)、Paul PM(ポール PM/Mister Malokeミスター マローク)、Mocky(モッキー)、そして 2003 年にバンドを脱退したAlex Tiller(アレックス ティラー)といったドイツ、米国、カナダ出身のメンバーで構成されています。

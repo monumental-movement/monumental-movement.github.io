@@ -4,7 +4,7 @@ title:  "Earthbound– Reggie's Escape"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Downtempo, 90s ]
-image: ../assets/images/Earthbound– Reggie's Escape.jpg
+image: ../assets/images/Earthbound– Reggie's Escape.webp
 ---
 
 Earthbound(アースバウンド)は、Alex DallasとAlex Gustafsonによるデュオ。

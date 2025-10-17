@@ -4,7 +4,7 @@ title:  "Sven Vath – Fusion"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Ambient ]
-image: ../assets/images/Sven Vath – Fusion.jpg
+image: ../assets/images/Sven Vath – Fusion.webp
 ---
 
 「Sven Väth - Fusion」は、ドイツのテクノDJおよびプロデューサー、スヴェン・ヴァス（Sven Väth）によるアルバムです。彼はテクノミュージックシーンで非常に重要な存在であり、そのキャリアは長く成功を収めています。

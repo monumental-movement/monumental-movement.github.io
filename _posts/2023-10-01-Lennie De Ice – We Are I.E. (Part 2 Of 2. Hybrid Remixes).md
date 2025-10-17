@@ -4,7 +4,7 @@ title:  "Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Remix ]
-image: ../assets/images/Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes).jpg
+image: ../assets/images/Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes).webp
 ---
 
 #### Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes)

@@ -4,7 +4,7 @@ title:  "Groove Coverage – Poison"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Euro, 00s ]
-image: ../assets/images/Groove Coverage – Poison.jpg
+image: ../assets/images/Groove Coverage – Poison.webp
 ---
 
 Groove Coverage（グルーヴ・カヴァレージ）は、Axel Konrad（アクセル・コンラート）、 DJ Novus（DJノーバス）、 Melanie Munch（ラニー・ムンク/メル）、Verena Rehm（ヴェレーナ・レーム）からなるドイツのユーロトランスバンド。

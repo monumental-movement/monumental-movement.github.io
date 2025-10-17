@@ -4,7 +4,7 @@ title:  "Umek – I Am Ready EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Umek – I Am Ready EP.jpg
+image: ../assets/images/Umek – I Am Ready EP.webp
 ---
 
 I Am Ready EP」は、スロベニア出身のテクノDJおよびプロデューサーであるUmekによるEPです。

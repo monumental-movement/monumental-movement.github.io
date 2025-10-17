@@ -4,7 +4,7 @@ title:  "The Soft Machine – The Soft Machine"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Jazz, Psychedelic, Experimental, Rare ]
-image: ../assets/images/The Soft Machine – The Soft Machine.jpg
+image: ../assets/images/The Soft Machine – The Soft Machine.webp
 ---
 
 The Soft Machine（ソフト・マシーン）は、1966年半ばにマイク・ラトレッジ、ロバート・ワイアット、ケビン・エアーズ、デイヴィッド・アレン、ラリー・ナウリンによって結成されたカンタベリー出身のUKプログレッシヴジャズロックバンド。バンド名は、ウィリアム S. バロウズの小説「ソフトマシーン」にちなんで名付けられた。

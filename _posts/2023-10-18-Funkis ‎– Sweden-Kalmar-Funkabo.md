@@ -4,7 +4,7 @@ title:  "Funkis – Sweden-Kalmar-Funkabo"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Funkis – Sweden-Kalmar-Funkabo.jpg
+image: ../assets/images/Funkis – Sweden-Kalmar-Funkabo.webp
 ---
 
 Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。

@@ -4,7 +4,7 @@ title:  "Tipsy – Nude On The Moon Space Golf"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Triphop, Acid Jazz, Break Beat ]
-image: ../assets/images/Tipsy – Nude On The Moon Space Golf.jpg
+image: ../assets/images/Tipsy – Nude On The Moon Space Golf.webp
 ---
 
 Tipsyは、サンフランシスコを拠点とするTim DigullaとDavid Gardnerによるラウンジコラージュデュオ。

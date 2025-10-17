@@ -4,7 +4,7 @@ title:  "Mouse On The Keys – An Anxious Object"
 author: mmr
 categories: [ CD ]
 tags: [ Contemporary, Jazz, Fusion, Post Rock ]
-image: ../assets/images/Mouse On The Keys – An Anxious Object.jpg
+image: ../assets/images/Mouse On The Keys – An Anxious Object.webp
 ---
 
 2006年ポストハードコア/ポストロックバンドnine days wonderの元メンバー川﨑昭（ドラム、ピアノ）と清田敦（ピアノ、キーボード）により結成され、2007年に新留大介（ピアノ、キーボード）が加入してトリオ編成となったMouse On The Keysは、ジャズ、ファンク、ポストロック、エレクトロニックミュージックが融合した独自のスタイルが特徴。

@@ -4,7 +4,7 @@ title:  "The Proov – Nebula"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 00s ]
-image: ../assets/images/The Proov – Nebula.jpg
+image: ../assets/images/The Proov – Nebula.webp
 ---
 
 The Proov は、1996年に結成したオランダ出身のMC Gumshoe（Sven Willemsen）とMC CeeMajor（Cor Giesing）によるヒップホップデュオ。Proovはジャジーでダスティなファンクのスタイルから、エレクトロ的な響きまでをヒップホップとして表現する独自のスタイルが特徴。

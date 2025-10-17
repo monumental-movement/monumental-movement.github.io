@@ -12,7 +12,7 @@ image: ../assets/images/pickup-downtempo.webp
 <hr>
 
 ### Modest Mouse / 764‑HERO – Whenever You See Fit
-<a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.jpg"></a>
+<a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
 静かなリズムが染みるドゥープなインディEP
 
@@ -35,7 +35,7 @@ B2. Whenever You See Fit (Sientific American Mix)
 <br>
 
 ### B.E.F. Feat. Green Gartside – I Don’t Know Why I Love You
-<a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.jpg"></a>
+<a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
 Foundation の洗練された英国サウンド
 
@@ -57,7 +57,7 @@ B2. Family Affair (Plati Party Mix)
 
 
 ### Swing Out Sister – Shapes And Patterns
-<a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.jpg"></a>
+<a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
 日本でも人気、柔らかな電子ジャズ＆ソウル 
 
@@ -88,7 +88,7 @@ B2. Family Affair (Plati Party Mix)
 
 
 ### White Light Circus – Marching Orders
-<a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.jpg"></a>
+<a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
 UKエレクトロ感漂うディスコ調チルトラック
 
@@ -109,7 +109,7 @@ B. The Shot! (Dub Copy)
 
 
 ### Tommy Brown – Feelings (EP)
-<a href="https://jp.mercari.com/item/m69743649538?afid=6142608987"><img src="../assets/images/Tommy%20Brown%20%E2%80%93%20Feelings.jpg"></a>
+<a href="https://jp.mercari.com/item/m69743649538?afid=6142608987"><img src="../assets/images/Tommy%20Brown%20%E2%80%93%20Feelings.webp"></a>
 
 イタロ風味の昼下がり系チルビート 
 

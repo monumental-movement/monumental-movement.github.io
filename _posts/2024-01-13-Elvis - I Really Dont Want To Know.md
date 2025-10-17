@@ -4,7 +4,7 @@ title:  "Elvis - I Really Don't Want To Know"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Nostalgic, 7inch ]
-image: ../assets/images/Elvis - I Really Don't Want To Know.jpg
+image: ../assets/images/Elvis - I Really Don't Want To Know.webp
 ---
 
 「I Really Don't Want To Know（知りたくないの）」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。

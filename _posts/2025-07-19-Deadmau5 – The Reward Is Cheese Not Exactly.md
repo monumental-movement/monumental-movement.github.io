@@ -4,7 +4,7 @@ title:  "Deadmau5 – The Reward Is Cheese Not Exactly"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech House, Electro, Progressive House, 00s ]
-image: ../assets/images/Deadmau5 – The Reward Is Cheese Not Exactly.jpg
+image: ../assets/images/Deadmau5 – The Reward Is Cheese Not Exactly.webp
 ---
 
 Deadmau5(デッドマウス)ことJoel Thomas Zimmermanはカナダ出身のDJ・プロデューサー。Deadmau5 名義での作品はProgressive HouseとElectro Houseをミックスさせたスタイルが特徴。これまでにグラミー賞に6回ノミネートされている。

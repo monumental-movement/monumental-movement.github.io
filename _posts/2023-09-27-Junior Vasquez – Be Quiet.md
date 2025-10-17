@@ -4,7 +4,7 @@ title:  "Junior Vasquez – Be Quiet"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Junior Vasquez – Be Quiet.jpg
+image: ../assets/images/Junior Vasquez – Be Quiet.webp
 ---
 
 「Be Quiet」は、

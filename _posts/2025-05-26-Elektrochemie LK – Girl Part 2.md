@@ -4,7 +4,7 @@ title:  "Elektrochemie LK – Girl! Part 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, Electro, 00s ]
-image: ../assets/images/Elektrochemie LK – Girl.jpg
+image: ../assets/images/Elektrochemie LK – Girl.webp
 ---
 
 Elektrochemie LKは、90年代から活躍するドイツ出身のテクノミュージシャン・DJ Thomas Schumacher(トーマス・シューマッハ)の別名義。

@@ -4,7 +4,7 @@ title:  "Queen – The Game"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Pops ]
-image: ../assets/images/Queen – The Game.jpg
+image: ../assets/images/Queen – The Game.webp
 ---
 
 「The Game」は、クイーンの8枚目のスタジオアルバムであり、バンドの音楽スタイルの進化と多様性を示しています。このアルバムは、従来のロックサウンドに加えて、ディスコやファンクなどの要素を取り入れた楽曲も含まれています。

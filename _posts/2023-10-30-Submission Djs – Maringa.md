@@ -4,7 +4,7 @@ title:  "Submission Dj's – Maringa"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal ]
-image: ../assets/images/Submission Dj's – Maringa.jpg
+image: ../assets/images/Submission Dj's – Maringa.webp
 ---
 
 Submission Dj's（サブミッションDj's）は、スペインのDJ、Juan Maria Diaz Fernandez(SubmissionDJ/Submission)とDaniel David Fernández(DJ Farrukeit)のユニット。

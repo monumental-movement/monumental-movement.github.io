@@ -4,7 +4,7 @@ title:  "Codec & Flexor – Crazy Girls"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, Electroclash, 00s ]
-image: ../assets/images/Codec & Flexor – Crazy Girls.jpg
+image: ../assets/images/Codec & Flexor – Crazy Girls.webp
 ---
 
 Codec & Flexorは、ドイツを拠点とするDJ、プロデューサー、作曲家、マルチインストゥルメンタリストSven Zalac（Codec）とドイツの作曲家・プロデューサーMathias Freund（Flexor）によるデュオ。

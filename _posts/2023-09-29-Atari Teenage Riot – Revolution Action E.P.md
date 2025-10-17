@@ -4,7 +4,7 @@ title:  "Atari Teenage Riot – Revolution Action E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore Techno ]
-image: ../assets/images/Atari Teenage Riot – Revolution Action E.P.jpg
+image: ../assets/images/Atari Teenage Riot – Revolution Action E.P.webp
 ---
 
 「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。

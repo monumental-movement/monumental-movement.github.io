@@ -4,7 +4,7 @@ title:  "Stray Dog – Mirror"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
-image: ../assets/images/Stray Dog – Mirror.jpg
+image: ../assets/images/Stray Dog – Mirror.webp
 ---
 
 「Mirror」は、

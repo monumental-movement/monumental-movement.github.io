@@ -4,7 +4,7 @@ title:  "Thom Yorke – The Eraser"
 author: mmr
 categories: [ CD ]
 tags: [ Art Rock, Electro, Indie Rock, Experimental, Rock ]
-image: ../assets/images/Thom Yorke – The Eraser.jpg
+image: ../assets/images/Thom Yorke – The Eraser.webp
 ---
 
 「The Eraser」は、2006年にXL RecordingsからリリースされたUKのミュージシャンThom Yorke(トムヨーク)のデビューソロアルバム。プロデューサーは、Thom YorkeのバンドRadioheadの長年のプロデューサーであるNigel Godrich。

@@ -4,7 +4,7 @@ title:  "Trajic – Basics"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Trajic – Basics.jpg
+image: ../assets/images/Trajic – Basics.webp
 ---
 
 DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパイオニア＆レジェンドとして知られるシカゴ拠点のDJ。

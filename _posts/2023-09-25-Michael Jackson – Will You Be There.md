@@ -4,7 +4,7 @@ title:  "Michael Jackson – Will You Be There"
 author: mmr
 categories: [ Cassette ]
 tags: [ Pops, Soul ]
-image: ../assets/images/Michael Jackson – Will You Be There.jpg
+image: ../assets/images/Michael Jackson – Will You Be There.webp
 ---
 
 「Will You Be There」は、アメリカのポップミュージックのアイコン、マイケル・ジャクソンの1991年のアルバム『Dangerous』に収録されています。

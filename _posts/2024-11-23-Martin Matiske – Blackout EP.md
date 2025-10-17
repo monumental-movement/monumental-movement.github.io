@@ -4,7 +4,7 @@ title:  "Martin Matiske – Blackout EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, 00s ]
-image: ../assets/images/Martin Matiske – Blackout EP.jpg
+image: ../assets/images/Martin Matiske – Blackout EP.webp
 ---
 
 Martin Matiskeは、ドイツのDJ・プロデューサー・コンポーザー。Blackploid名義でも活動している。

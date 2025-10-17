@@ -4,7 +4,7 @@ title:  "Boris Godunov – El Baile"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Latin, House, 00s ]
-image: ../assets/images/Boris Godunov – El Baile.jpg
+image: ../assets/images/Boris Godunov – El Baile.webp
 ---
 
 Boris Godunov(ボリス・ゴドゥノフ)は、Cornelius De HaasとSascha Mockによりユニット。Corn & MoccaやCornelius De Haas & Mokka名義でも活動している。

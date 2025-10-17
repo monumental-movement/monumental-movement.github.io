@@ -4,7 +4,7 @@ title:  "Londonbeat – I've Been Thinking About You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, EDM ]
-image: ../assets/images/Londonbeat – I've Been Thinking About You.jpg
+image: ../assets/images/Londonbeat – I've Been Thinking About You.webp
 ---
 
 

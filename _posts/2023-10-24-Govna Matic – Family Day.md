@@ -4,7 +4,7 @@ title:  "Govna Matic – Family Day"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Hardcore ]
-image: ../assets/images/Govna Matic – Family Day.jpg
+image: ../assets/images/Govna Matic – Family Day.webp
 ---
 
 Govna Maticは、Diezzle Don & Tha GovernerのGov Mattic（Tha Governer）の別名義。このレコードでは、Redman、Pacewon、Roz、Runt Dog、Tame One、Young Zee、Commander Jesseなどが参加。

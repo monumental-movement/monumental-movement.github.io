@@ -4,7 +4,7 @@ title:  "Union Jack – Cactus Morning Glory"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
-image: ../assets/images/Union Jack – Cactus Morning Glory.jpg
+image: ../assets/images/Union Jack – Cactus Morning Glory.webp
 ---
 
 ユニオン・ジャックは、1990年代から活動しているトランスミュージックのプロジェクトであり、その独自のサウンドとメロディックな要素で知られています。彼らの楽曲は、緻密なプロダクションと壮大なサウンドスケープが特徴であり、トランスミュージックの愛好家から支持を受けています。

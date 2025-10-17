@@ -4,7 +4,7 @@ title:  "Eve Gallagher – Love Is A Master Of Disguise"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Garage House, 90s ]
-image: ../assets/images/Eve Gallagher – Love Is A Master Of Disguise.jpg
+image: ../assets/images/Eve Gallagher – Love Is A Master Of Disguise.webp
 ---
 
 Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。

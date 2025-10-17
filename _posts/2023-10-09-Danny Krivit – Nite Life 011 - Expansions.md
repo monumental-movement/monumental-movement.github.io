@@ -4,7 +4,7 @@ title:  "Danny Krivit – Nite Life 011 - Expansions"
 author: mmr
 categories: [ CD ]
 tags: [ House, Mix ]
-image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.jpg
+image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.webp
 ---
 
 ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。

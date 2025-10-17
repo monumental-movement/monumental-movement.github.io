@@ -4,7 +4,7 @@ title:  "2 The Core – The Final Destination"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro House, Euro Beat ]
-image: ../assets/images/2 The Core – The Final Destination.jpg
+image: ../assets/images/2 The Core – The Final Destination.webp
 ---
 
 2 The Coreは、オランダのダンスミュージックレコードプロデューサーMichiel van der KuyとNick Nameによるユーロハウスユニット。

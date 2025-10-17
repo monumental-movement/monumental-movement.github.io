@@ -4,7 +4,7 @@ title:  "Robert Plant – Heaven Knows"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, UK-Rock, 7inch ]
-image: ../assets/images/Robert Plant – Heaven Knows.jpg
+image: ../assets/images/Robert Plant – Heaven Knows.webp
 ---
 
 Robert Plant（ロバート・プラント）は、イングランド出身のロックミュージシャン。ハードロックバンドLed Zeppelin（レッド・ツェッペリン）のフロントマンとして知られるロバート・プラントは、ロック史上最も偉大なボーカリストの一人とみなされています。

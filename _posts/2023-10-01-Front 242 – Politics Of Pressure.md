@@ -4,7 +4,7 @@ title:  "Front 242 – Politics Of Pressure"
 author: mmr
 categories: [ Vinyl ]
 tags: [ EBM, Noise ]
-image: ../assets/images/Front 242 – Politics Of Pressure.jpg
+image: ../assets/images/Front 242 – Politics Of Pressure.webp
 ---
 
 Front242(フロント242)は、ベルギーで結成された電子音楽グループです。

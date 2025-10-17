@@ -4,7 +4,7 @@ title:  "Various – Class X Two"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, Electro ]
-image: ../assets/images/Various – Class X Two.jpg
+image: ../assets/images/Various – Class X Two.webp
 ---
 
 Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。

@@ -4,7 +4,7 @@ title:  "Ziggy – No Police (Aztec Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hi NRG, Euro, Euro Beat, 90s, Rare ]
-image: ../assets/images/Ziggy – No Police (Aztec Remix).jpg
+image: ../assets/images/Ziggy – No Police (Aztec Remix).webp
 ---
 
 「 No Police 」は、ベルギーのニュービートプロジェクトJ.C.ProjectやThe Beast、War Peopleのメンバーとして知られるChristoff WybouwことSerge Gobinが作曲・プロデュースしたハイエナジートラック。 Christoff Wybouwは、別名義のBingo!でリリースした「Arabeat」が有名。

@@ -4,7 +4,7 @@ title:  "DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Euro Beat ]
-image: ../assets/images/DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx).jpg
+image: ../assets/images/DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx).webp
 ---
 
 DJ Breeze（DJ ブリーズ）ことMark Bradyは、ロンドン出身のハードコアDJ/プロデューサー。DNAはDougal & HixxyのレーベルEssential Platinumのスタジオエンジニアで、Kiro名義でドラムンベーストラックも制作している。

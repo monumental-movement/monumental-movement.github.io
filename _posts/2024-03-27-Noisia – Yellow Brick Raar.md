@@ -4,7 +4,7 @@ title:  "Noisia – Yellow Brick Raar"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Breaks, Electro ]
-image: ../assets/images/Noisia – Yellow Brick Raar.jpg
+image: ../assets/images/Noisia – Yellow Brick Raar.webp
 ---
 
 Noisia（ノイジア）は、2022年に解散したオランダのドラムンベーストリオ。ドラムンベース、ハウス、ブレイク、エレクトロニックサウンドなど幅広い音楽を制作しており、2014年にはももいろクローバーZの『猛烈宇宙交響曲・第七楽章「無限の愛」（Emperor Style）』に収録されているLOST CHILDのremixも手がけた。

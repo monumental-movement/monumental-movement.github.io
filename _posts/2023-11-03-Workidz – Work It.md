@@ -4,7 +4,7 @@ title:  "Workidz – Work It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
-image: ../assets/images/Workidz – Work It.jpg
+image: ../assets/images/Workidz – Work It.webp
 ---
 
 WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。

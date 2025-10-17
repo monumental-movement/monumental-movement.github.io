@@ -4,7 +4,7 @@ title:  "Oriental Space – Magical Express"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
-image: ../assets/images/Oriental Space – Magical Express.jpg
+image: ../assets/images/Oriental Space – Magical Express.webp
 ---
 
 「Magical Express」は、2003年にレーベルFarm Recordsからリリースされた日本ダンスシーンのパイオニア、トランスDJ/プロジューサーORIENTAL SPACEのトランストラック。プロモ盤。

@@ -4,7 +4,7 @@ title:  "Loop Da Loop – Hazel"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Breaks, UK Garage, 90s ]
-image: ../assets/images/Loop Da Loop – Hazel.jpg
+image: ../assets/images/Loop Da Loop – Hazel.webp
 ---
 
 Loop Da LoopことNicolas Jean-Pierre Drestiは、イギリスのDJ ／プロデューサー Space Cowboy（スペースカウボーイ)が使っていた別名義のひとつ。他にもDJ Supreme、DJ Chromeなどの名義でも活動している。

@@ -4,7 +4,7 @@ title:  "Inkfish – Acting Out"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Swedish Techno, Tribal, House, 00s ]
-image: ../assets/images/Inkfish – Acting Out.jpg
+image: ../assets/images/Inkfish – Acting Out.webp
 ---
 
 アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。

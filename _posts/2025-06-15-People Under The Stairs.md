@@ -4,7 +4,7 @@ title:  "People Under The Stairs"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hiphop, 00s ]
-image: ../assets/images/People Under The Stairs.jpg
+image: ../assets/images/People Under The Stairs.webp
 ---
 
 NYを拠点に活動するDJ bossy boots (Elinah)によるリエディット。非公式リリースのプロモ盤。

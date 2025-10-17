@@ -4,7 +4,7 @@ title:  "El Cantor – Toma '96 Remixes!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal House, 90s ]
-image: ../assets/images/El Cantor – Toma 96 Remixes.jpg
+image: ../assets/images/El Cantor – Toma 96 Remixes.webp
 ---
 
 El Cantor ことDavidson OspinaはNY出身のハウスDJ。自身のレーベルOspina Digital recordsを運営している。また、Christina Aguilera(クリスティーナ・アギレラ)「Ain't No Other Man」、Beyonce(ビヨンセ)「Broken Hearted Girl」等、多数の有名アーティストのremix を手掛けるリミキサーでもある。

@@ -4,7 +4,7 @@ title:  "Gloria Gaynor – Never Can Say Goodbye '97"
 author: mmr
 categories: [ Vinyl ]
 tags: [  House, Disco, 90s ]
-image: ../assets/images/Gloria Gaynor – Never Can Say Goodbye 97.jpg
+image: ../assets/images/Gloria Gaynor – Never Can Say Goodbye 97.webp
 ---
 
 1974年にGloria Gaynor(グロリアゲイナー)がカバーした名曲「Never Can Say Goodbye」をイタリアのレーベルNicolosi Productionsがremixし、イタリアのハウスレーベルJust Music からリリースされたHouse・Discoトラック。

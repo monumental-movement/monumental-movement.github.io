@@ -4,7 +4,7 @@ title:  "Metal Blade – Cannonball Metal Funk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Metal Blade – Cannonball Metal Funk.jpg
+image: ../assets/images/Metal Blade – Cannonball Metal Funk.webp
 ---
 
 Metal Bladeは、日本出身のテクノDJ・プロデューサーFumiaki KobayashiとDJ・ギタリストMasayuki Ozakiによるプロジェクト。

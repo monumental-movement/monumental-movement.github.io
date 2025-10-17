@@ -4,7 +4,7 @@ title:  "Cecil Parker – Dance Everybody"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Funk, Soul, 90s ]
-image: ../assets/images/Cecil Parker – Dance Everybody.jpg
+image: ../assets/images/Cecil Parker – Dance Everybody.webp
 ---
 
 Cecil Parker(セシル・パーカー)は、フィラデルフィア出身の4オクターブを自在に操るボーカリスト&ソングライター。

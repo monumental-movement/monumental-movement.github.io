@@ -4,7 +4,7 @@ title:  "Marc Anthony – You Sang To Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops ]
-image: ../assets/images/Marc Anthony – You Sang To Me.jpg
+image: ../assets/images/Marc Anthony – You Sang To Me.webp
 ---
 
 「You Sang to Me」は、アメリカの歌手マーク・アンソニーが自身の4枚目のスタジオ・アルバム（1999年）に収録した曲です。この曲の制作はコリー・ルーニーが行い、アンソニーと共に曲を共作しました。この曲は中テンポのポップでロマンチックなバラードで、ラテン、R&B、アダルトコンテンポラリーの要素を含んでおり、歌詞は別の人との関係があるにもかかわらず、彼のパートナーを去らせてしまう男性の物語です。

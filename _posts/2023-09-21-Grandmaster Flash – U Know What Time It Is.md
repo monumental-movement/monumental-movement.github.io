@@ -4,7 +4,7 @@ title:  "Grandmaster Flash – U Know What Time It Is"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Break Beat ]
-image: ../assets/images/Grandmaster Flash – U Know What Time It Is.jpg
+image: ../assets/images/Grandmaster Flash – U Know What Time It Is.webp
 ---
 
 グランドマスター・フラッシュは、アメリカのヒップホップのパイオニアの一人であり、DJおよび音楽プロデューサーとして知られています。

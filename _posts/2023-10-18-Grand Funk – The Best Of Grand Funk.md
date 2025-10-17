@@ -4,7 +4,7 @@ title:  "Grand Funk – The Best Of Grand Funk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
-image: ../assets/images/Grand Funk – The Best Of Grand Funk.jpg
+image: ../assets/images/Grand Funk – The Best Of Grand Funk.webp
 ---
 
 グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。

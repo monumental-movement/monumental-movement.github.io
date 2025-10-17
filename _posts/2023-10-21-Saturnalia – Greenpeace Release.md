@@ -4,7 +4,7 @@ title:  "Saturnalia – Greenpeace Release"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Hardcore ]
-image: ../assets/images/Saturnalia – Greenpeace Release.jpg
+image: ../assets/images/Saturnalia – Greenpeace Release.webp
 ---
 
 Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。

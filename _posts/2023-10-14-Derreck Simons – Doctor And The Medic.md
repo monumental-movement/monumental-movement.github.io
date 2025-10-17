@@ -4,7 +4,7 @@ title:  "Derreck Simons – Doctor And The Medic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat ]
-image: ../assets/images/Derreck Simons – Doctor And The Medic.jpg
+image: ../assets/images/Derreck Simons – Doctor And The Medic.webp
 ---
 
 「Derreck Simons – Doctor And The Medic」の

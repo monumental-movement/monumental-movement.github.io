@@ -4,7 +4,7 @@ title:  "Tom Hades – Conception"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Tom Hades – Conception.jpg
+image: ../assets/images/Tom Hades – Conception.webp
 ---
 
 Tom HadesことWim Vanoeverenは、ベルギーを拠点に活躍するテクノ・テックハウスDJ＆プロデューサー。ベルギーテクノシーンの重鎮であり、レーベルRhythm Convert(現在はRhythm Converted名義)を運営している。

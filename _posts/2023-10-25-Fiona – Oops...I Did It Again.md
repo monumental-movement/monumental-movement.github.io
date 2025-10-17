@@ -4,7 +4,7 @@ title:  "Fiona – Oops...I Did It Again"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ragga, Reggae, 7inch ]
-image: ../assets/images/Fiona – Oops...I Did It Again.jpg
+image: ../assets/images/Fiona – Oops...I Did It Again.webp
 ---
 
 「Fiona（フィオナ） – Oops...I Did It Again」は、ブリトニースピアーズの同有名曲のカバーです。

@@ -4,7 +4,7 @@ title:  "Rednex – Cotton Eye Joe"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House, Synth-pop ]
-image: ../assets/images/Rednex – Cotton Eye Joe.jpg
+image: ../assets/images/Rednex – Cotton Eye Joe.webp
 ---
 
 Rednex – Cotton Eye Joe

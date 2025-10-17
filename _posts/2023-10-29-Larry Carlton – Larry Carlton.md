@@ -4,7 +4,7 @@ title:  "Larry Carlton – Larry Carlton"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Fusion Jazz, Jazz, 70s ]
-image: ../assets/images/Larry Carlton – Larry Carlton.jpg
+image: ../assets/images/Larry Carlton – Larry Carlton.webp
 ---
 
 「Mr.335」の愛称で知られるラリー・カールトンは、4度のグラミー賞に輝き、常にフュージョン界をリードしてきたレジェンド・ギタリストです。自身の名前を関したこのアルバムは、ラリー・カールトンのギターリストとしての地位を固めた一枚となりました。

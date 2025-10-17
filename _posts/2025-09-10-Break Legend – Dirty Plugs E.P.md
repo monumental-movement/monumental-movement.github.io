@@ -4,7 +4,7 @@ title:  "Break Legend – Dirty Plugs E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive Breaks, Breakbeat, Breaks, 00s ]
-image: ../assets/images/Break Legend – Dirty Plugs E.P.jpg
+image: ../assets/images/Break Legend – Dirty Plugs E.P.webp
 ---
 
 Break Legendは、BSJの名でも知られるイタリアのDJ／プロデューサーEnrico Ferrari(エンリコ・フェラーリ)のプロジェクトの一つ。

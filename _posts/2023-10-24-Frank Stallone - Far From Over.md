@@ -4,7 +4,7 @@ title:  "Frank Stallone - Far From Over"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 7inch ]
-image: ../assets/images/Frank Stallone - Far From Over.jpg
+image: ../assets/images/Frank Stallone - Far From Over.webp
 ---
 
 Frank Stallone(フランク・スタローン )は、USロックシンガーであり、俳優Sylvester Stallone(シルベスター・スタローン)の弟。

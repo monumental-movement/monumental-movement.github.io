@@ -4,7 +4,7 @@ title:  "Surgeon – Force+Form（Tresor 117）"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, DJ ]
-image: ../assets/images/Surgeon – Force+Form（Tresor 117）.jpg
+image: ../assets/images/Surgeon – Force+Form（Tresor 117）.webp
 ---
 
 Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、Surgeon（サージョン）のCD。

@@ -4,7 +4,7 @@ title:  "Quietman – Plastic Gourd Tranquil"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno, Acid ]
-image: ../assets/images/Quietman – Plastic Gourd Tranquil.jpg
+image: ../assets/images/Quietman – Plastic Gourd Tranquil.webp
 ---
 
 「Quietman – Plastic Gourd / Tranquil」は、UKトランス・テクノの老舗レーベルPlatipusより94年にリリースされたアシッド・トランス。

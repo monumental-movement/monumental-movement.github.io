@@ -4,7 +4,7 @@ title:  "Sum 41 – Does This Look Infected?"
 author: mmr
 categories: [ CD ]
 tags: [ Punk, Pop Punk, Alternative Rock, Hardcore, Horror Rock ]
-image: ../assets/images/Sum 41 – Does This Look Infected.jpg
+image: ../assets/images/Sum 41 – Does This Look Infected.webp
 ---
 
 2002年にリリースされた「Does This Look Infected?」は、Sum41の2枚目のスタジオアルバム。

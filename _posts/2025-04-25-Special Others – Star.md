@@ -4,7 +4,7 @@ title:  "Special Others – Star"
 author: mmr
 categories: [ CD ]
 tags: [ Jazz, Rock, 00s ]
-image: ../assets/images/Special Others – Star.jpg
+image: ../assets/images/Special Others – Star.webp
 ---
 
 Special Others (スペシャルアザーズ)は、即興jazzとポストロックをミックスさせたスタイルが特徴の日本のジャムバンド。各メンバーには、アフロビートの創始者にして伝説のドラマーTony Allen(トニー・アレン)が付けたというミドルネームがある。

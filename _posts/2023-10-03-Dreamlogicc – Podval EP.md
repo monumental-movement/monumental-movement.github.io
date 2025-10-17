@@ -4,7 +4,7 @@ title:  "Dreamlogicc – Podval EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient, Techno ]
-image: ../assets/images/Dreamlogicc – Podval EP.jpg
+image: ../assets/images/Dreamlogicc – Podval EP.webp
 ---
 
 「Dreamlogicc – Podval EP」は、アメリカのレーベル	Kimochiから2012年にリリースされました。

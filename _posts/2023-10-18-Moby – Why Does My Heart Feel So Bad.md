@@ -4,7 +4,7 @@ title:  "Moby – Why Does My Heart Feel So Bad"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix ]
-image: ../assets/images/Moby – Why Does My Heart Feel So Bad.jpg
+image: ../assets/images/Moby – Why Does My Heart Feel So Bad.webp
 ---
 
 UKレーベルMuteから1999年にリリースされた「Moby – Why Does My Heart Feel So Bad?」のリミックス。A面は、ドイツ出身のDJ/プロデューサーATB（アンドレ・タンネバーガー ）によるremix。

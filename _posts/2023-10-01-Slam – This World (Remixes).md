@@ -4,7 +4,7 @@ title:  "Slam – This World (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Slam – This World (Remixes).jpg
+image: ../assets/images/Slam – This World (Remixes).webp
 ---
 
 Wighnomy Brothersのリミックスは素晴らしく、オリジナルは典型的なイギリスの合成音楽で、わずかにトランス風のポップ/ハウスのボーカルが特徴で、音響的には十分に変形し、フィルター処理され、微妙に変更され、22世紀の非常にシャープで感情的なスタジアム・マイクロハウスのアンセムになっています。

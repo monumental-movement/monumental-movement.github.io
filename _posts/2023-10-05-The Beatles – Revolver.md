@@ -4,7 +4,7 @@ title:  "The Beatles – Revolver"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Psychedelic ]
-image: ../assets/images/The Beatles – Revolver.jpg
+image: ../assets/images/The Beatles – Revolver.webp
 ---
 
 「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。

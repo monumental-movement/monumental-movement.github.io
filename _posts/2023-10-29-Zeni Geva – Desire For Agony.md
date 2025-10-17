@@ -4,7 +4,7 @@ title:  "Zeni Geva – Desire For Agony"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Heavy Metal, Noise ]
-image: ../assets/images/Zeni Geva – Desire For Agony.jpg
+image: ../assets/images/Zeni Geva – Desire For Agony.webp
 ---
 
 ゼニゲバのアルバム「苦痛志向」は、アメリカ シカゴのThe Basementで1993年9月に録音&ミックス。

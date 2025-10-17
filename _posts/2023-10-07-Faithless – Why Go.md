@@ -4,7 +4,7 @@ title:  "Faithless – Why Go"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, House ]
-image: ../assets/images/Faithless – Why Go.jpg
+image: ../assets/images/Faithless – Why Go.webp
 ---
 
 「Why Go?」は、イギリスのエレクトロニックミュージックグループであるFaithlessの楽曲です。この曲は、彼らのセカンドアルバム「Sunday 8PM」（1998年）に収録されています。Faithlessは、トランス、ハウス、ダンスミュージックの要素を組み合わせた独自のサウンドで知られています。

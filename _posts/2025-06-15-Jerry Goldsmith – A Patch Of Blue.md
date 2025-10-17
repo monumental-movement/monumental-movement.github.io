@@ -4,7 +4,7 @@ title:  "Jerry Goldsmith – A Patch Of Blue"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soundtrack, Score, 70s ]
-image: ../assets/images/Jerry Goldsmith – A Patch Of Blue.jpg
+image: ../assets/images/Jerry Goldsmith – A Patch Of Blue.webp
 ---
 
 1965年に公開されたアメリカ映画『いつか見た青い空/A Patch of Blue』のサウンドトラック。1978年にリリースされた再発盤。

@@ -12,7 +12,7 @@ image: ../assets/images/pickup-drum-and-bass.webp
 <hr>
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
-<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.jpg"></a>
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
 #### Tracklist
@@ -32,7 +32,7 @@ Y. Cosmic Glue
 <hr>
 
 ### Aquasky – Tranquility / Kauna
-<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.jpg"></a>
+<a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
@@ -54,7 +54,7 @@ Y. Cosmic Glue
 
 
 ### Dillinja – Fluid / Hard Noize
-<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.jpg"></a>
+<a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
 迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
@@ -75,7 +75,7 @@ AA. Fluid
 <hr>
 
 ### Motiv One – Cosmik / Loop Progression
-<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.jpg"></a>
+<a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
 軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
 
@@ -97,7 +97,7 @@ AA. Loop Progression
 
 ### Drumagick – Cambraia / Brasil
 
-<a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.jpg"></a>
+<a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
 ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
 
@@ -119,7 +119,7 @@ B. Brasil
 
 ### Aaron Spectre – Amen, Punk
 
-<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.jpg"></a>
+<a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
 パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 
@@ -141,7 +141,7 @@ B2. You Don't Know
 <hr>
 
 ### DJ Gilb‑R – Pressure
-<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.jpg"></a>
+<a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
 1997年フランスリリース。Laurent Garnierリミックスも収録。
 

@@ -12,7 +12,7 @@ image: ../assets/images/pickup-new-age.webp
 <hr>
 
 ### Schawkie Roth – Dance Of The Tao
-<a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.jpg"></a>
+<a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
 特徴：Schawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家で、ニューエイジ・スピリチュアル音楽の先駆者の一人とされています。
 
@@ -41,7 +41,7 @@ B3. Dance of Bamboo
 
 
 ### Fumio Miyashita – Meisou
-<a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.jpg"></a>
+<a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
 
 特徴：長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者である宮下富実夫による作品です。
@@ -65,7 +65,7 @@ B3. Dance of Bamboo
 <br>
 
 ### Kitaro – Astral Trip
-<a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.jpg"></a>
+<a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
 
 
 特徴：喜多郎は、1970年代初頭日本のプログレッシブ・ロックバンド「ファー・イースト・ファミリー・バンド」のメンバーとしてキーボードを担当し、後にソロ活動を展開しました。
@@ -99,7 +99,7 @@ B5. Astral Trip
 
 
 ### Patrick Bernhardt – Atlantis Angelis
-<a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.jpg"></a>
+<a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
 特徴：カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムです。アンビエントとニューエイジの要素を融合させた幻想的な音世界が広がります。
 
@@ -130,7 +130,7 @@ B3. Transcendastral Voyage
 
 
 ### Steve Reid – Bamboo Forest
-<a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.jpg"></a>
+<a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
 特徴：アメリカのジャズパーカッショニスト＆プロデューサーであるスティーヴン・リードによる作品です。
@@ -164,7 +164,7 @@ B3. Transcendastral Voyage
 
 
 ### Tony O'Connor – Hidden Forest
-<a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.jpg"></a>
+<a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
 
 特徴：オーストラリアのアンビエント／リラクゼーションミュージッククリエーター、Tony O'Connorによる1996年リリースの2枚組LPです。
 
@@ -191,7 +191,7 @@ B3. Transcendastral Voyage
 <br>
 
 ### Deep Forest – Deep Forest
-<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.jpg"></a>
+<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
 特徴：フランスのデュオDeep Forestによる1992年リリースのアルバムです。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスしたワールド・ミュージックのスタイルが特徴です。
 

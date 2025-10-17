@@ -4,7 +4,7 @@ title:  "Stereo Action Unlimited – Lovelight"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, French,00s ]
-image: ../assets/images/Stereo Action Unlimited – Lovelight.jpg
+image: ../assets/images/Stereo Action Unlimited – Lovelight.webp
 ---
 
 Stereo Action UnlimitedはChristoph H. MüllerとPhilippe Cohenによるデュオ。

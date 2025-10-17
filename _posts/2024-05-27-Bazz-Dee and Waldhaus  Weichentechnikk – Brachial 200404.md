@@ -4,7 +4,7 @@ title:  "Bazz-Dee & Waldhaus  Weichentechnikk – Brachial 200404"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno, Industrial, 00s ]
-image: ../assets/images/Bazz-Dee and Waldhaus Weichentechnikk – Brachial 2004 04.jpg
+image: ../assets/images/Bazz-Dee and Waldhaus Weichentechnikk – Brachial 2004 04.webp
 ---
 
 A面１曲目は、ハードテクノとインダストリアルハードコアを大胆に組み合わせたスタイルで、ハードテクノサウンドのイノベーターの1 人とされるWaldhaus（ヴァルトハウス）とBazz-Dee（Bastian Schubert）による、KISS の「I Was Made For Loving You」をサンプルリングしたテクノトラック。

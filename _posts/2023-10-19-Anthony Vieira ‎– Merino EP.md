@@ -4,7 +4,7 @@ title:  "Anthony Vieira – Merino EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno ]
-image: ../assets/images/Anthony Vieira – Merino EP.jpg
+image: ../assets/images/Anthony Vieira – Merino EP.webp
 ---
 
 Anthony Vieiraは、Raoul DelgardoとTony Soares Vieiraによるユニット。「Anthony Vieira – Merino EP」は、UKのテクノレーベルSheep Recordsより1999年にリリース。

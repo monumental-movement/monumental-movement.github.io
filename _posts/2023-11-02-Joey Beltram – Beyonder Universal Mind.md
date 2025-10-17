@@ -4,7 +4,7 @@ title:  "Joey Beltram – Beyonder / Universal Mind"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, US Techno, 00s ]
-image: ../assets/images/Joey Beltram – Beyonder Universal Mind.jpg
+image: ../assets/images/Joey Beltram – Beyonder Universal Mind.webp
 ---
 
  「Beyonder / Universal Mind」は、2004年にTresor（トレゾア）からリリースされた、Joey Beltram（ジョイ・ベルトラム）のテクノ・テックハウス・トラック。

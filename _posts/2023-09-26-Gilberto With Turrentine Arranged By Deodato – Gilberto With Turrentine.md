@@ -4,7 +4,7 @@ title:  "Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrenti
 author: mmr
 categories: [ CD ]
 tags: [ Bossa Nova, Jazz ]
-image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine.jpg
+image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine.webp
 ---
 
 ブラジルのボサノヴァ歌手ジョアン・ジルベルト（João Gilberto）とアメリカのテナーサックス奏者スタンリー・タレンタイン（Stanley Turrentine）が共演したアルバムです。

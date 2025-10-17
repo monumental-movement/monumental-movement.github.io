@@ -4,7 +4,7 @@ title:  "TDR – Squelch (Part 1)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Tech House ]
-image: ../assets/images/TDR – Squelch (Part 1).jpg
+image: ../assets/images/TDR – Squelch (Part 1).webp
 ---
 
 Tom De Ridder トム・デ・リッダーによる「Squelch (Part 1)」は、オランダのテック・プログレッシブハウス・トランスレーベルOxygen Recordingsから2005年にリリースされたトランス・テックハウストラック。

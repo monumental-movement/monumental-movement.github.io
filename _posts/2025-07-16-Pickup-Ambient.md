@@ -12,7 +12,7 @@ image: ../assets/images/pickup-ambient.webp
 <hr>
 
 ### Dreamlogicc – Podval EP
-<a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.jpg"></a>
+<a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.webp"></a>
 
 ジャンル：Ambient Techno
 
@@ -47,7 +47,7 @@ B2. Equalizer
 
 
 ### Spacetime Continuum – Emit Ecaps
-<a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.jpg"></a>
+<a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
 ジャンル：Ambient / IDM / Techno
 
@@ -84,7 +84,7 @@ D3. String Of Pearls
 <hr>
 
 ### Sanjiva – Secret Rooms Over Flowing Delight
-<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.jpg"></a>
+<a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 ジャンル：Ambient Electronic Techno
 
@@ -111,7 +111,7 @@ B. Over Flowing Delight
 <hr>
 
 ### Dub Tractor – Scary H H Loop / 104 Dub
-<a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.jpg"></a>
+<a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
 ジャンル：Ambient / Experimental / Trip Hop
 
@@ -146,7 +146,7 @@ B2. A C Tractor
 <hr>
 
 ### Calm – People From The Sun And The Earth
-<a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.jpg"></a>
+<a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
 ジャンル：Ambient / Balearic House
 
@@ -175,7 +175,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 <hr>
 
 ### David Donohoe – Nature Morte!
-<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.jpg"></a>
+<a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
 ジャンル：Ambient / Minimal
 
@@ -203,7 +203,7 @@ B. Our Ghosts
 <hr>
 
 ### Mr. Blank – On The Ground
-<a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.jpg"></a>
+<a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
 ジャンル：Ambient / Dub / Future Jazz / Hip‑House
 
@@ -245,7 +245,7 @@ D4. The End Game
 <hr>
 
 ### Deep Forest – Deep Forest
-<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.jpg"></a>
+<a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 ジャンル：Ambient/Downtempo/New Age
 
 リリース：1992年

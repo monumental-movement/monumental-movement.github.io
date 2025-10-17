@@ -4,7 +4,7 @@ title:  "Gloria Gaynor – Last Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Euro House, House, 00s ]
-image: ../assets/images/Gloria Gaynor – Last Night.jpg
+image: ../assets/images/Gloria Gaynor – Last Night.webp
 ---
 
 A面1、2曲目は、イタリアのHOUSE DJ・プロデューサーAndrea T. Mendoza とMauro Ferrucci & Frankie TamburoによるプロダクションデュオT&Fによるremix。

@@ -4,7 +4,7 @@ title:  "Various – Urban Acid"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, House ]
-image: ../assets/images/Various – Urban Acid.jpg
+image: ../assets/images/Various – Urban Acid.webp
 ---
 
 「Various – Urban Acid」は、

@@ -4,7 +4,7 @@ title:  "Money Bazz Cozmic Ray – New York, New York Danger"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
-image: ../assets/images/Money Bazz Cozmic Ray – New York, New York Danger.jpg
+image: ../assets/images/Money Bazz Cozmic Ray – New York, New York Danger.webp
 ---
 
 1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。

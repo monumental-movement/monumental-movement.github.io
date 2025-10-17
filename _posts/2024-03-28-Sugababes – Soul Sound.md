@@ -4,7 +4,7 @@ title:  "Sugababes – Soul Sound"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Garage, 00s ]
-image: ../assets/images/Sugababes – Soul Sound.jpg
+image: ../assets/images/Sugababes – Soul Sound.webp
 ---
 
 シュガーベイブスによるEP 「ソウルサウンド」のB面１曲目は、Jakatta、Doug Willis、Raven Maize、Sessomatto名義でも知られる、UKのDJ・ハウスミュージックプロデューサJoey NegroことDave Leeによるremix。

@@ -4,7 +4,7 @@ title:  "Robbie Craig – 15 Candles"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK Garage ]
-image: ../assets/images/Robbie Craig – 15 Candles.jpg
+image: ../assets/images/Robbie Craig – 15 Candles.webp
 ---
 
 「15 Candles / L.O.V.E. Feeling」は、East17のヴォーカル（2014年〜）Robbie Craig（ロビークレイグ）によるUKガラージトラック。

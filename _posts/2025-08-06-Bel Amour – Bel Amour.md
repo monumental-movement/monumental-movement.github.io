@@ -4,7 +4,7 @@ title:  "Bel Amour – Bel Amour"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Bel Amour – Bel Amour.jpg
+image: ../assets/images/Bel Amour – Bel Amour.webp
 ---
 
 Bel Amour(ベルアムール)は、Édouard de Tricasse &Jean‑Claude Sindress によるフランス発のエレクトロ／ハウス・デュオ。

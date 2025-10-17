@@ -4,7 +4,7 @@ title:  "Jark Prongo – Rocket Base"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
-image: ../assets/images/Jark Prongo – Rocket Base.jpg
+image: ../assets/images/Jark Prongo – Rocket Base.webp
 ---
 
 オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongo（ジャーク・プロンゴ）は、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。

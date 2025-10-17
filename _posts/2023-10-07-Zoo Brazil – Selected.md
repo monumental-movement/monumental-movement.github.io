@@ -4,7 +4,7 @@ title:  "Zoo Brazil – Selected"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Zoo Brazil – Selected.jpg
+image: ../assets/images/Zoo Brazil – Selected.webp
 ---
 
 「Selected」は、

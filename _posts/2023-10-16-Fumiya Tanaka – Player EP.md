@@ -4,7 +4,7 @@ title:  "Fumiya Tanaka – Player EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tribal ]
-image: ../assets/images/Fumiya Tanaka – Player EP.jpg
+image: ../assets/images/Fumiya Tanaka – Player EP.webp
 ---
 
 「Player EP」は、

@@ -4,7 +4,7 @@ title:  "Def Con 6 – Bum Rush The Sound"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Acid ]
-image: ../assets/images/Def Con 6 – Bum Rush The Sound.jpg
+image: ../assets/images/Def Con 6 – Bum Rush The Sound.webp
 ---
 
 Def Con 6 はBrandon SmithとJohn Sextonによるユニット。

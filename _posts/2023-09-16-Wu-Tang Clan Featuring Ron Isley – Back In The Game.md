@@ -4,7 +4,7 @@ title:  "Wu-Tang Clan Featuring Ron Isley – Back In The Game"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, R&B ]
-image: ../assets/images/Wu-Tang Clan Featuring Ron Isley – Back In The Game.jpg
+image: ../assets/images/Wu-Tang Clan Featuring Ron Isley – Back In The Game.webp
 ---
 
 「Back In The Game」は、Wu-Tang Clan(ウータン・クラン)とRon Isley（ロン・アイズリー）が共演した楽曲で、Wu-Tang Clanのアルバム「The W」（2000年）に収録されています。 Wu-Tang Clanはアメリカのヒップホップグループで、Ron IsleyはR&BグループThe Isley Brothersのメンバーであり、ソウルミュージックの伝説的なボーカリストです。

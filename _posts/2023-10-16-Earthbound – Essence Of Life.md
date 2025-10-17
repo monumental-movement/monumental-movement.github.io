@@ -4,7 +4,7 @@ title:  "Earthbound – Essence Of Life"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
-image: ../assets/images/Earthbound – Essence Of Life.jpg
+image: ../assets/images/Earthbound – Essence Of Life.webp
 ---
 
 Earthboundは、Anders ErikssonとFredrik Johanssonによるスウェーデンのユーロ・プログレッシブダンスアクト。

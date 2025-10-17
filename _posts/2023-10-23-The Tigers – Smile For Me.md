@@ -4,7 +4,7 @@ title:  "The Tigers – Smile For Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Group Sounds, 7inch ]
-image: ../assets/images/The Tigers – Smile For Me.jpg
+image: ../assets/images/The Tigers – Smile For Me.webp
 ---
 
 「Smile For Me 」は、Bee Gees(ビー・ジーズ)のBarry Gibb(バリー・ギブ)とMaurice Gibb(モーリス・ギブ)が作詞・作曲を手がけた曲。

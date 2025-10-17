@@ -4,7 +4,7 @@ title:  "Smallage – Together"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco, House ]
-image: ../assets/images/Smallage – Together.jpg
+image: ../assets/images/Smallage – Together.webp
 ---
 
 Smallageは、イタリア出身のDJ Stefano Mango、DJ Lino Lodi、Denis Quarinによるプロジェクト。

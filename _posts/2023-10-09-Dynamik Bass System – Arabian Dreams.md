@@ -4,7 +4,7 @@ title:  "Dynamik Bass System – Arabian Dreams"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro ]
-image: ../assets/images/Dynamik Bass System – Arabian Dreams.jpg
+image: ../assets/images/Dynamik Bass System – Arabian Dreams.webp
 ---
 
 「Arabian Dreams」は、

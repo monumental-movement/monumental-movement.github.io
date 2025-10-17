@@ -4,7 +4,7 @@ title:  "DJ Breeze – Jump A Little Higher"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Hardcore ]
-image: ../assets/images/DJ Breeze – Jump A Little Higher.jpg
+image: ../assets/images/DJ Breeze – Jump A Little Higher.webp
 ---
 
 DJ Breeze（Mark Breeze/マーク・ブリーズ）は、1990年代から2000年代にかけて、イギリスのダンス・ミュージックシーンで人気を博したDJとプロデューサー。ハッピーハードコアやハードコアブレイクビーツのスタイルを得意とし、多くのクラブヒットを生み出した。

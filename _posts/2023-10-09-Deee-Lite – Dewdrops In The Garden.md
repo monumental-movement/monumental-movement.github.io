@@ -4,7 +4,7 @@ title:  "Deee-Lite – Dewdrops In The Garden"
 author: mmr
 categories: [ CD ]
 tags: [ House, Hiphop ]
-image: ../assets/images/Deee-Lite – Dewdrops In The Garden.jpg
+image: ../assets/images/Deee-Lite – Dewdrops In The Garden.webp
 ---
 
 『Dewdrops in the Garden』は、アメリカのダンスミュージックバンドDeee-Liteによる3枚目かつ最後のスタジオアルバムで、1994年8月にElektra Recordsからリリースされました。

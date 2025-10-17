@@ -4,7 +4,7 @@ title:  "Sexual Harrassment – I Need A Freak"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Anthem ]
-image: ../assets/images/Sexual Harrassment – I Need A Freak.jpg
+image: ../assets/images/Sexual Harrassment – I Need A Freak.webp
 ---
 
 Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン・トリバー・ジュニア　別名：David Payto/デヴィッド・ペイトン）を中心とした米国発のプロジェクト。

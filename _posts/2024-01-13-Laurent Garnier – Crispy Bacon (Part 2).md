@@ -4,7 +4,7 @@ title:  "Laurent Garnier – Crispy Bacon (Part 2)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s, Drum n Bass ]
-image: ../assets/images/Laurent Garnier – Crispy Bacon (Part 2).jpg
+image: ../assets/images/Laurent Garnier – Crispy Bacon (Part 2).webp
 ---
 
 Laurent Garnier(ローラン・ガルニエ）は、Choice（チョイス）としても知られるフランスの電子音楽プロデューサー兼 DJ。

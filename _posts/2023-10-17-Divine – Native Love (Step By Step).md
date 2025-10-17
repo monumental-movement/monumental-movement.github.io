@@ -4,7 +4,7 @@ title:  "Divine – Native Love (Step By Step)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
-image: ../assets/images/Divine – Native Love (Step By Step).jpg
+image: ../assets/images/Divine – Native Love (Step By Step).webp
 ---
 
 「Native Love (Step By Step)」は、

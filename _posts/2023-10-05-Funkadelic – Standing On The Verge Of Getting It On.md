@@ -4,7 +4,7 @@ title:  "Funkadelic – Standing On The Verge Of Getting It On"
 author: mmr
 categories: [ Cassette ]
 tags: [ Funk, Soul ]
-image: ../assets/images/Funkadelic – Standing On The Verge Of Getting It On.jpg
+image: ../assets/images/Funkadelic – Standing On The Verge Of Getting It On.webp
 ---
 
 「Standing on the Verge of Getting It On」は、アメリカのファンクバンド、ファンカデリック（Funkadelic）のアルバムです。このアルバムは、1974年にリリースされました。ファンカデリックは、ジョージ・クリントン（George Clinton）が率いるグループであり、彼らの音楽はサイケデリックなファンクサウンドと実験的なアプローチで知られています。

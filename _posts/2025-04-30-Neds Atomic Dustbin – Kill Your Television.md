@@ -4,7 +4,7 @@ title:  "Ned's Atomic Dustbin – Kill Your Television"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Indie Rock, 90s ]
-image: ../assets/images/Neds Atomic Dustbin – Kill Your Television.jpg
+image: ../assets/images/Neds Atomic Dustbin – Kill Your Television.webp
 ---
 
 Ned's Atomic Dustbin(ネッズアトミックダストビン)は、1987年11月にウェストミッドランズのストゥールブリッジで結成されたイギリスのロックバンド。

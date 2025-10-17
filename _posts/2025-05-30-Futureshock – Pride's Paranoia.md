@@ -4,7 +4,7 @@ title:  "Futureshock – Pride's Paranoia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Progressive House, House, 00s ]
-image: ../assets/images/Futureshock – Prides Paranoia.jpg
+image: ../assets/images/Futureshock – Prides Paranoia.webp
 ---
 
 Futureshock(フューチャーショック)は、UKのDJ・プロデューサーAlex TepperとPhil Dockerty

@@ -4,7 +4,7 @@ title:  "Real Life – Send Me An Angel '89"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Synth-Pop ]
-image: ../assets/images/Real Life – Send Me An Angel '89.jpg
+image: ../assets/images/Real Life – Send Me An Angel '89.webp
 ---
 
 「Send Me An Angel '89」は、オーストラリアのシンセポップバンド、リアル・ライフ（Real Life）による楽曲です。オリジナルの「Send Me An Angel」は、1983年にリリースされた彼らのシグネチャーソングでしたが、1989年にリリースされたリミックスバージョンとしても知られています。

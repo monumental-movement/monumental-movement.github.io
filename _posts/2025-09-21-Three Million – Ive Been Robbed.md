@@ -4,7 +4,7 @@ title:  "Three Million – I've Been Robbed"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Funk, Boogie, 80s ]
-image: ../assets/images/Three Million – I've Been Robbed.jpg
+image: ../assets/images/Three Million – I've Been Robbed.webp
 ---
 
 Three Million は、Larry Butler, Mark King, Wanda Butlerによるユニット。LarryとWanda はJim Grant と共にOdds And Ends としてToday Recordsで活動していたが、70年代後半にUnited Artistsに移籍した際Jim Grant に変わりMark Kingが加入した。レーベルCotillionに移籍後は名前をThree Millionに変更した。

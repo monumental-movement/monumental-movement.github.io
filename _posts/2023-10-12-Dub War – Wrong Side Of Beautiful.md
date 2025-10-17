@@ -4,7 +4,7 @@ title:  "Dub War – Wrong Side Of Beautiful"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Dub, Reggae ]
-image: ../assets/images/Dub War – Wrong Side Of Beautiful.jpg
+image: ../assets/images/Dub War – Wrong Side Of Beautiful.webp
 ---
 
 Dub War (ダブ・ウォー)は、1990年代に活動していたヘヴィメタル、レゲエ、パンク、ダブなど様々な音楽スタイルをミックスさせたミクスチャーバンド。パワフルなロックサウンドとキャッチーなメロディに、レゲエのリズムとパンクの要素を融合させた独自のスタイルとヴォーカルのBenji Webbeの特徴的な歌声と表現力が、バンドの音楽に強い印象を与えていた。

@@ -4,7 +4,7 @@ title:  "Lo-Fidelity Allstars – Disco Machine Gun"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Big Beat, Triphop ]
-image: ../assets/images/Lo-Fidelity Allstars – Disco Machine Gun.jpg
+image: ../assets/images/Lo-Fidelity Allstars – Disco Machine Gun.webp
 ---
 
 「Lo-Fidelity Allstars - Disco Machine Gun」の「Puppy Phat」は、ダウンテンポのテンポを持ちながらも太いビートとスリージーなベースラインで、トリップホップとビッグビートの境界を曖昧にします。B面として隠れているこの曲は、Lo-Fiの最高のトラックの1つです。

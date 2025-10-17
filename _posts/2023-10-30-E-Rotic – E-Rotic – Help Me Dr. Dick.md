@@ -4,7 +4,7 @@ title:  "E-Rotic – Help Me Dr. Dick"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House, Hi NRG, 90s ]
-image: ../assets/images/E-Rotic – Help Me Dr. Dick.jpg
+image: ../assets/images/E-Rotic – Help Me Dr. Dick.webp
 ---
 
 1994年に結成されたE-Rotic（エロティック）はドイツのユーロダンスアクト。初期のメンバーはヴォーカリストLyane LeighとラッパーRichard Michael Smith（別名Raz-Ma-Taz）。プロデューサーは、David Brandes。

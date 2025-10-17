@@ -4,7 +4,7 @@ title:  "El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, House ]
-image: ../assets/images/El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres.jpg
+image: ../assets/images/El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres.webp
 ---
 
 El CubanoによるTodos A La Fiesta/Eo Eo Si Tu Quieresは、イタリアのレーベル「Muzic Without Control Records」からリリースされたラテン・ユーロハウスのトラックです。

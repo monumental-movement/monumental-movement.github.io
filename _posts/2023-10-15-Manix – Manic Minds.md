@@ -4,7 +4,7 @@ title:  "Manix – Manic Minds"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Break Beat ]
-image: ../assets/images/Manix – Manic Minds.jpg
+image: ../assets/images/Manix – Manic Minds.webp
 ---
 
 「Manix（マニックス）」は、4 HeroのMarc Clairのソロプロジェクト。Manixは、UKのオールドスクールブレイクビーツを中心とした当時のレイブシーンにおいて重要なアーティストの一人。

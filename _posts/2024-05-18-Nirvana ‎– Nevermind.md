@@ -4,7 +4,7 @@ title:  "Nirvana – Nevermind"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Grunge, Alternative Rock, 90s ]
-image: ../assets/images/Nirvana – Nevermind.jpg
+image: ../assets/images/Nirvana – Nevermind.webp
 ---
 Nirvanaは、オルタナティブロック＆グランジの先駆者として知られているUSロックバンド。「Nevermind」はNirvana2枚目のアルバムで、ビルボード1位に輝く大ヒットとなった。このアルバムのヒットにより、アメリカでグランジ/オルタナティヴ・ロックムーブメントが起こった。
 

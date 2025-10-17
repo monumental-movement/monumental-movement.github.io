@@ -4,7 +4,7 @@ title:  "Rossington Collins Band – Anytime Anyplace Anywhere"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
-image: ../assets/images/Rossington Collins Band – Anytime Anyplace Anywhere.jpg
+image: ../assets/images/Rossington Collins Band – Anytime Anyplace Anywhere.webp
 ---
 
 『Anytime, Anyplace, Anywhere』は、1980年にリリースされたRossington Collins Band（ロッシントン・コリンズ・バンド）の最初のスタジオ・アルバムで、彼らの代表曲「Don't Misunderstand Me」が収録されている。

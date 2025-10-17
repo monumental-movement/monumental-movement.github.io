@@ -4,7 +4,7 @@ title:  "Swod – Sekunden"
 author: mmr
 categories: [ CD ]
 tags: [ Modern Classical, Experimental, Minimal ]
-image: ../assets/images/Swod – Sekunden.jpg
+image: ../assets/images/Swod – Sekunden.webp
 ---
 
 Swod(スウォッド)は、ミュージシャンOliver DoerellとStephan Wöhrmannによるレコーディングプロジェクト。

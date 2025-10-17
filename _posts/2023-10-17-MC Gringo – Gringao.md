@@ -4,7 +4,7 @@ title:  "MC Gringo – Gringão"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Favela Funk ]
-image: ../assets/images/MC Gringo – Gringao.jpg
+image: ../assets/images/MC Gringo – Gringao.webp
 ---
 
 MC Gringoは、ドイツ生まれのミュージシャン兼音楽プロデューサー。

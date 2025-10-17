@@ -4,7 +4,7 @@ title:  "Engenheiros Do Hawaii – Surfando Karmas & DNA"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Pop Rock, Latin, 00s ]
-image: ../assets/images/Engenheiros Do Hawaii – Surfando Karmas & DNA.jpg
+image: ../assets/images/Engenheiros Do Hawaii – Surfando Karmas & DNA.webp
 ---
 
 Engenheiros do Hawaii（英語で「Engineers from Hawaii」）は、1983年にポルトアレグレで結成され2008年まで活動したブラジルのロックバンド。言葉遊びや皮肉で批判的な曲で大きな人気を博した。ボーカル兼ベーシストのHumberto Gessinger(ウンベルト・ゲッシンジャー)は、唯一のオリジナルメンバー。

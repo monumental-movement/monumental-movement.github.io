@@ -4,7 +4,7 @@ title:  "Various – Latin Compilation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Latin, Reggae, Reggaeton ]
-image: ../assets/images/Various – Latin Compilation.jpg
+image: ../assets/images/Various – Latin Compilation.webp
 ---
 
 Trebol Clan（トレボルクラン）はプエルトリコ出身のレゲトン・グループ。

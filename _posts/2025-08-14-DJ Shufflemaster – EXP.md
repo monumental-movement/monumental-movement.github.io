@@ -4,7 +4,7 @@ title:  "DJ Shufflemaster – EXP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/DJ Shufflemaster – EXP.jpg
+image: ../assets/images/DJ Shufflemaster – EXP.webp
 ---
 
 DJ Shufflemaster (金森 達也 / Tatsuya Kanamori）は、1990年代後半から活動する日本のハードテクノプロデューサー／DJ。Adam Beyer、Joel Mull、Ben Sims、Cari Lekebuschなどと共にプレイし、世界的に評価されているテクノアーティストの一人。

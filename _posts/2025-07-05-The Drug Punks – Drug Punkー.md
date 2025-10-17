@@ -4,7 +4,7 @@ title:  "The Drug Punks – Drug Punk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electroclash, Electro House, 00s ]
-image: ../assets/images/The Drug Punks – Drug Punk.jpg
+image: ../assets/images/The Drug Punks – Drug Punk.webp
 ---
 
 「Drug / Punk」は、UKのレーベルCity Rockersから2002年にリリースされたElectroclash, Electro Houseトラック。プロデューサーは、JJ Clam, The Wurlitzer。

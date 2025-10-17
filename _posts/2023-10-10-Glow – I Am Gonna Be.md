@@ -4,7 +4,7 @@ title:  "Glow – I Am Gonna Be"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House ]
-image: ../assets/images/Glow – I Am Gonna Be.jpg
+image: ../assets/images/Glow – I Am Gonna Be.webp
 ---
 
 「I Am Gonna Be」は、

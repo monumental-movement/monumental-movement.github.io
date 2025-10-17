@@ -4,7 +4,7 @@ title:  "Combustible Edison – Bluebeard"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Latin ]
-image: ../assets/images/Combustible Edison – Bluebeard.jpg
+image: ../assets/images/Combustible Edison – Bluebeard.webp
 ---
 
 Combustible Edisonはアメリカン・ラウンジ/ジャズ/イージーリスニングバンドで、1990年代初頭にロードアイランド州プロビデンスで結成されました。

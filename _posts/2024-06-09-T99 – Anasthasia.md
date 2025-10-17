@@ -4,7 +4,7 @@ title:  "T99 – Anasthasia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Breakbeat, Hardcore, 90s ]
-image: ../assets/images/T99 – Anasthasia.jpg
+image: ../assets/images/T99 – Anasthasia.webp
 ---
 
 T99は、80年代後半から90年代前半に活動したベルギーのデュオ。

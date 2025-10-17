@@ -4,7 +4,7 @@ title:  "Ian McCulloch – September Song"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Rock, 80s ]
-image: ../assets/images/Ian McCulloch – September Song.jpg
+image: ../assets/images/Ian McCulloch – September Song.webp
 ---
 
 Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。

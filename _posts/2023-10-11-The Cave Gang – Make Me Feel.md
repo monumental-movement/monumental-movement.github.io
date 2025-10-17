@@ -4,7 +4,7 @@ title:  "The Cave Gang – Make Me Feel"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Hyper Techno ]
-image: ../assets/images/The Cave Gang – Make Me Feel.jpg
+image: ../assets/images/The Cave Gang – Make Me Feel.webp
 ---
 
 「Make Me Feel」は、

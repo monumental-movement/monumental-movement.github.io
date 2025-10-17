@@ -4,7 +4,7 @@ title:  "Groove Twins – Action"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Eurobeat, Hi NRG, 90s ]
-image: ../assets/images/Groove Twins – Action.jpg
+image: ../assets/images/Groove Twins – Action.webp
 ---
 
 Groove Twins (グルーヴツインズ)は、Go Go GirlsやKing & Queen等と同じくインターンチェンジングボーカルによるA.Beat-Cプロジェクト。

@@ -4,7 +4,7 @@ title:  "DJ Guy – Incendiary EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Ghetto House ]
-image: ../assets/images/DJ Guy – Incendiary EP.jpg
+image: ../assets/images/DJ Guy – Incendiary EP.webp
 ---
 
 DJ Guyは、ロンドンを拠点とする DJ 兼プロデューサーであり、Detroit booty（デトロイト・ブーティー）やChicago Ghetto House （シカゴゲットー ハウス）専門のGlobal Fireレーベルのオーナー。

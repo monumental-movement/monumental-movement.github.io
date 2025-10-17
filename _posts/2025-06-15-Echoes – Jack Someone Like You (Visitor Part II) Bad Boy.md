@@ -4,7 +4,7 @@ title:  "Echoes – Jack Someone Like You (Visitor Part II) Bad Boy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pop Rock, Synth-pop, Rock, 80s ]
-image: ../assets/images/Echoes – Jack.jpg
+image: ../assets/images/Echoes – Jack.webp
 ---
 
 A. Jack -Welcome To The Lost Child Club〜Jack-

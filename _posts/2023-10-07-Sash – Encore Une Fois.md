@@ -4,7 +4,7 @@ title:  "Sash! – Encore Une Fois"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, House ]
-image: ../assets/images/Sash! – Encore Une Fois.jpg
+image: ../assets/images/Sash! – Encore Une Fois.webp
 ---
 
 「Encore une fois」（フランス語で「もう一度」の意）は、ドイツのDJグループSash!による曲で、グループのデビューアルバム「It's My Life – The Album」（1997年）からのセカンドシングルとして、1997年1月にPolygramからリリースされ、Sash!の最も大ヒットした曲の一つです。

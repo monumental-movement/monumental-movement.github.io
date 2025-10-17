@@ -4,7 +4,7 @@ title:  "Mille and Mr. Hirsch – Jazzhatz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.jpg
+image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.webp
 ---
 
 「Jazzhatz」は、

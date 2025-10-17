@@ -4,7 +4,7 @@ title:  "Cristian Vogel – Whipaspank"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno ]
-image: ../assets/images/Cristian Vogel – Whipaspank.jpg
+image: ../assets/images/Cristian Vogel – Whipaspank.webp
 ---
 
 クリスチャン・ヴォーゲル（1972年生まれ、チリ・サンティアゴ出身）は、1980年代後半にCabbage Head Collectiveと共に電子音楽の作曲を始めた実験的な電子音楽家です。

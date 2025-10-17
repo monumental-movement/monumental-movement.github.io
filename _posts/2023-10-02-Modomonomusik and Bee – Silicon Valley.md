@@ -4,7 +4,7 @@ title:  "Modomonomusik and Bee – Silicon Valley"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Modomonomusik and Bee – Silicon Valley.jpg
+image: ../assets/images/Modomonomusik and Bee – Silicon Valley.webp
 ---
 
 「Silicon Valley」は、

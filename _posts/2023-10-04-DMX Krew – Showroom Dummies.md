@@ -4,7 +4,7 @@ title:  "DMX Krew – Showroom Dummies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Techno ]
-image: ../assets/images/DMX Krew – Showroom Dummies.jpg
+image: ../assets/images/DMX Krew – Showroom Dummies.webp
 ---
 
 「Showroom Dummies」は、

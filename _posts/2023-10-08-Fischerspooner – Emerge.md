@@ -4,7 +4,7 @@ title:  "Fischerspooner – Emerge"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Minimal, Electro ]
-image: ../assets/images/Fischerspooner – Emerge.jpg
+image: ../assets/images/Fischerspooner – Emerge.webp
 ---
 
 「Emerge」は、アメリカのエレクトロニックデュオ、フィッシャースプーナー（Fischerspooner）による楽曲です。この曲は、彼らのデビューアルバム「# 1」（2001年）に収録されています。

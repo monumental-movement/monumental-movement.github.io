@@ -4,7 +4,7 @@ title:  "DJ Bam Bam – Elektro-Synthesis"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/DJ Bam Bam – Elektro-Synthesis.jpg
+image: ../assets/images/DJ Bam Bam – Elektro-Synthesis.webp
 ---
 
 DJ Bam Bamは、シカゴスタイル・ハードハウスのDJ兼プロデューサー。

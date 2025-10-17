@@ -4,7 +4,7 @@ title:  "Ladybug Mecca – Dogg Starr (The House Mixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 00s ]
-image: ../assets/images/Ladybug Mecca – Dogg Starr The House Mixes.jpg
+image: ../assets/images/Ladybug Mecca – Dogg Starr The House Mixes.webp
 ---
 
 ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。

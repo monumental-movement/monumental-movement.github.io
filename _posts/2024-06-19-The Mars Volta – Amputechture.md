@@ -4,7 +4,7 @@ title:  "The Mars Volta – Amputechture"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Psychedelic Rock, Prog Rock, 00s ]
-image: ../assets/images/The Mars Volta – Amputechture.jpg
+image: ../assets/images/The Mars Volta – Amputechture.webp
 ---
 
 The Mars Volta（マーズ・ヴォルタ）は、元ATDIのCedric Bixler(セドリック・ビクスラー)とOmar Rodriguez(オマー・ロドリゲス)によるUSプログレッシブロックバンド。2001年から2013年まで活動した。エモ、クルリーモ、ダブ、テクノからラテン、サルサ、インプビゼーションなど様々なジャンルをミックスさせたスタイルが特徴。

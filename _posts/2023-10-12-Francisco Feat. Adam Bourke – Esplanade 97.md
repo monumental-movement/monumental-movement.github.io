@@ -4,7 +4,7 @@ title:  "Francisco Feat. Adam Bourke – Esplanade 97"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Francisco Feat. Adam Bourke – Esplanade 97.jpg
+image: ../assets/images/Francisco Feat. Adam Bourke – Esplanade 97.webp
 ---
 
 ネオエレクトロとIDMサウンドを専門とするイタリアのレーベルNature Recordsより2004年にリリースされた「Esplanade 97」は、イタリアのDJ/プロデューサーFrancisco(Francesco de Bellis)と Adam Bourke（アダムバーク）によるテクノ・エレクトロトラック。

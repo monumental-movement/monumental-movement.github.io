@@ -4,7 +4,7 @@ title:  "Euphone – The Lakewood"
 author: mmr
 categories: [ CD ]
 tags: [ Acid Jazz, Future Jazz, 00s ]
-image: ../assets/images/Euphone – The Lakewood.jpg
+image: ../assets/images/Euphone – The Lakewood.webp
 ---
 
 Euphone(ユーフォン)は、シカゴを拠点に活動するポストロックバンド。

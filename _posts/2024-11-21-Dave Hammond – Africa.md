@@ -4,7 +4,7 @@ title:  "Dave Hammond – Africa"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Eurobeat, Euro, 90s ]
-image: ../assets/images/Dave Hammond – Africa.jpg
+image: ../assets/images/Dave Hammond – Africa.webp
 ---
 
 Dave Hammondはイタロディスコの名門レーベルTime Records のユーロビートプロジェクト。

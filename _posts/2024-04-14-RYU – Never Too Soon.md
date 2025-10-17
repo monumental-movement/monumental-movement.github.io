@@ -4,7 +4,7 @@ title:  "RYU – Never Too Soon"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Hiphop, House ]
-image: ../assets/images/RYU – Never Too Soon.jpg
+image: ../assets/images/RYU – Never Too Soon.webp
 ---
 
 RYU（流）は、DJ Hide, DJ Sak, Hideaki Ishi（DJ Krush）からなるアブストラクトヒップホップ/トリップホップグループ。

@@ -4,7 +4,7 @@ title:  "Thomas Newman – Scent Of A Woman"
 author: mmr
 categories: [ Cassette ]
 tags: [ Soundtrack, Movie, Film, 90s ]
-image: ../assets/images/Thomas Newman – Scent Of A Woman.jpg
+image: ../assets/images/Thomas Newman – Scent Of A Woman.webp
 ---
 
 トラックA1〜A6、A8〜A10、B1〜B2、B4〜B7は、アメリカ出身の作曲家Thomas Newman（トーマス・ニューマン）が手がけた。 トーマス・ニューマンは、『ショーシャンクの空に』、『アメリカン・ビューティー』、『グリーンマイル』、『ファインディングニモ』、『ウォーリー』、『007 スカイフォール』、『007 スペクター』、など、数々の映画音楽を製作している。

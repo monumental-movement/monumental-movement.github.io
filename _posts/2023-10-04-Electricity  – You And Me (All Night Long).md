@@ -4,7 +4,7 @@ title:  "Electricity  – You And Me (All Night Long)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
-image: ../assets/images/Electricity  – You And Me (All Night Long).jpg
+image: ../assets/images/Electricity  – You And Me (All Night Long).webp
 ---
 
 「You And Me (All Night Long)』は、

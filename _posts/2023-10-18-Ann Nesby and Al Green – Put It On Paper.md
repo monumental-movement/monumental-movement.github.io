@@ -4,7 +4,7 @@ title:  "Ann Nesby & Al Green – Put It On Paper"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, Soul ]
-image: ../assets/images/Ann Nesby and Al Green – Put It On Paper.jpg
+image: ../assets/images/Ann Nesby and Al Green – Put It On Paper.webp
 ---
 
 Ann Nesby （アン・ネスビー）のアルバム「Put It On Paper（プット・イット・オン・ペーパー）をDJ Spen & Karizmaがmix。

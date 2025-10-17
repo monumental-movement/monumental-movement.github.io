@@ -4,7 +4,7 @@ title:  "Grant Nelson – Seasons Of Jack"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
-image: ../assets/images/Grant Nelson – Seasons Of Jack.jpg
+image: ../assets/images/Grant Nelson – Seasons Of Jack.webp
 ---
 
 Grant Nelson（グラント ネルソン

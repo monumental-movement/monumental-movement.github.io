@@ -4,7 +4,7 @@ title:  "DJ Flex And Sandy W – Love For You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Swedish, 00s ]
-image: ../assets/images/DJ Flex And Sandy W – Love For You.jpg
+image: ../assets/images/DJ Flex And Sandy W – Love For You.webp
 ---
 
 DJ FlexことDavid Terzianは、パリ出身のハウス/テックハウスDJ＆プロデューサー。Sandy WことSandy Wilhelmは、パリを拠点に活動するエレクトロ/ハウスDJ＆プロデューサー。

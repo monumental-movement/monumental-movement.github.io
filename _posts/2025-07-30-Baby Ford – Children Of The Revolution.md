@@ -4,7 +4,7 @@ title:  "Baby Ford – Children Of The Revolution"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 80s ]
-image: ../assets/images/Baby Ford – Children Of The Revolution.jpg
+image: ../assets/images/Baby Ford – Children Of The Revolution.webp
 ---
 
 Baby FordことPeter Frank Adsheadは、アシッド・ハウスの誕生に貢献したことで知られているイギリスのエレクトロニックミュージックプロデューサー。1988年にリリースされたクラブトラック『Oochy Koochy (F.U. Baby Yeah Yeah)』は、UKシングルチャートでヒットしたUK初のアシッドハウスレコードとみなされている。

@@ -4,7 +4,7 @@ title:  "Norma Sheffield – Look Me In The Eyes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
-image: ../assets/images/Norma Sheffield – Look Me In The Eyes.jpg
+image: ../assets/images/Norma Sheffield – Look Me In The Eyes.webp
 ---
 
 Norma Sheffield（ノーマ・シェフィールド）は、イタリアのユーロビートプロジェクト。公の人格は、作曲家としても活動したFrancesca Contini

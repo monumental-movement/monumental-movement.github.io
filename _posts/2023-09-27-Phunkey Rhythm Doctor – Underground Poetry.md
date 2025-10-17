@@ -4,7 +4,7 @@ title:  "Phunkey Rhythm Doctor – Underground Poetry"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
-image: ../assets/images/Phunkey Rhythm Doctor – Underground Poetry.jpg
+image: ../assets/images/Phunkey Rhythm Doctor – Underground Poetry.webp
 ---
 
 Phunkey Rhythm DoctorはCari Lekebuschによるプロジェクトで、スウェーデンのHybridにより1997年にリリースされました。

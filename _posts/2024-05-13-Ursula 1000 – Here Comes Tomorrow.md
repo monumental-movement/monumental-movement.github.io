@@ -4,7 +4,7 @@ title:  "Ursula 1000 – Here Comes Tomorrow"
 author: mmr
 categories: [ Vinyl ]
 tags: [Bossa Nova, Lounge, Shibuya-kei, 90s, 00s ]
-image: ../assets/images/Ursula 1000 – Here Comes Tomorrow.jpg
+image: ../assets/images/Ursula 1000 – Here Comes Tomorrow.webp
 ---
 
 ニューヨークのプロデューサー&ラウンジ系DJウルスラ1000ことAlex Gimenoは、60年代のサウンドトラック、90年代のラウンジリバイバル、渋谷系、イギリスのビッグビート、ファンク、ディスコなど、多様なサウンドを融合させ、レトロ/フューチャーサウンドと呼ぶ独自のスタイルを確立。

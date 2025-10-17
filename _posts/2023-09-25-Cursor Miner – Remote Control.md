@@ -4,7 +4,7 @@ title:  "Cursor Miner – Remote Control"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Leftfield ]
-image: ../assets/images/Cursor Miner – Remote Control.jpg
+image: ../assets/images/Cursor Miner – Remote Control.webp
 ---
 
 Cursor Minerは、本名Rob Tubb（ロブ・タブ）によるプロジェクトです。

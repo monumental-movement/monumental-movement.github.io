@@ -4,7 +4,7 @@ title:  "Lauryn Hill – Doo Wop (That Thing) / Lost Ones"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap, 90s ]
-image: ../assets/images/Lauryn Hill – Doo Wop (That Thing) Lost Ones.jpg
+image: ../assets/images/Lauryn Hill – Doo Wop (That Thing) Lost Ones.webp
 ---
 
 「Lauryn Hill - Doo Wop (That Thing) / Lost Ones」は、アメリカのシンガーソングライターであるローリン・ヒル（Lauryn Hill）による楽曲です。この曲は、彼女のソロデビューアルバム『The Miseducation of Lauryn Hill』（1998年）からのシングルとしてリリースされました。

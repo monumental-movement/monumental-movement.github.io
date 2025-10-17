@@ -4,7 +4,7 @@ title:  "Various – Daybreak"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Downtempo ]
-image: ../assets/images/Various – Daybreak.jpg
+image: ../assets/images/Various – Daybreak.webp
 ---
 
 「Daybreak」は、Break It Or Leave It (1997年にDJ Koenieにより設立されたWally's Groove Worldのブレイクビート部門)からのリリース。

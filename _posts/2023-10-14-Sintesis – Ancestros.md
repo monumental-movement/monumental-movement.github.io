@@ -4,7 +4,7 @@ title:  "Sintesis – Ancestros"
 author: mmr
 categories: [ CD ]
 tags: [ Afro-Cuban, Jazz, Latin ]
-image: ../assets/images/Sintesis – Ancestros.jpg
+image: ../assets/images/Sintesis – Ancestros.webp
 ---
 
 Sintesis（シンテシス）は、1976 年に結成されたキューバ初のプログレッシブロック/シンフォニックロック・バンド。エスニックな音楽スタイルを取り入れた実験的なサウンドで知られ、伝統的なキューバ音楽やアフリカの要素、ジャズ、ロック、エレクトロニックなど、様々なジャンルの影響を受けています。

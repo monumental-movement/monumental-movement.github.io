@@ -4,7 +4,7 @@ title:  "Super Fighter USAF F-15 Eagle"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient ]
-image: ../assets/images/Super Fighter USAF F-15 Eagle.jpg
+image: ../assets/images/Super Fighter USAF F-15 Eagle.webp
 ---
 
 Super Fighter USAF F-15 Eagle

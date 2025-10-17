@@ -4,7 +4,7 @@ title:  "Alexia – Uh La La La"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Euro House, Euro, House, 90s ]
-image: ../assets/images/Alexia – Uh La La La.jpg
+image: ../assets/images/Alexia – Uh La La La.webp
 ---
 
 Alexia(アレクシア)は、イタリア出身のシンガー。本名のAlessia AquilaniやAlexia Cooper名義でも活動している。

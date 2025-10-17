@@ -4,7 +4,7 @@ title:  "Dan Curtin – New World EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House, Tribal, Latin, 90s ]
-image: ../assets/images/Dan Curtin – New World EP.jpg
+image: ../assets/images/Dan Curtin – New World EP.webp
 ---
 
 Dan Curtinは、アメリカ出身のプロデューサー・DJ。テクノ／ハウスを基軸に、ヒップホップやエレクトロニックミュージックなど幅広いスタイルを取り入れている。

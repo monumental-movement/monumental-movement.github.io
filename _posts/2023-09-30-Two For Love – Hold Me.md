@@ -4,7 +4,7 @@ title:  "Two For Love – Hold Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Euro Beat ]
-image: ../assets/images/Two For Love – Hold Me.jpg
+image: ../assets/images/Two For Love – Hold Me.webp
 ---
 
 「Hold Me」は、1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。

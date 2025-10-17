@@ -4,7 +4,7 @@ title:  "Aquasky – Nylon Roadster  Cosmic Glue"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Dubstep ]
-image: ../assets/images/Aquasky – Nylon Roadster Cosmic Glue.jpg
+image: ../assets/images/Aquasky – Nylon Roadster Cosmic Glue.webp
 ---
 
 1996年から1997年にかけての多くのMoving Shadowのリリースは、ジャジーな曲調に過度に傾倒していましたが、Aquaskyのこのリリースは、穏やかなドラム＆ベースがつまらないものである必要はないことを証明しました。

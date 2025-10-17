@@ -12,7 +12,7 @@ image: ../assets/images/pickup-punk-hardcore.webp
 <hr>
 
 ### Snuff – Flibbiddydibbiddydob
-<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.jpg"></a>
+<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 
 イギリスのパンクバンドによるカバーEP。もとは1990年、再リリースは1996年
 
@@ -42,7 +42,7 @@ B6. In Sickness & In Health
 <hr>
 
 ### The Gang - Barricada Rumble Beat
-<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.jpg"></a>
+<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
 イタリア出身パンクバンドの作品。UKのBilly Braggが一部参加した珍しい一枚
@@ -71,7 +71,7 @@ B6. Not For Sale
 <hr>
 
 ### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner　
-<a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.jpg"></a>
+<a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
 フィンランドのハードコア／スラッシュ系バンド作品
 
@@ -109,7 +109,7 @@ B11. Spice-Song
 <hr>
 
 ### Friction – 軋轢
-<a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.jpg"></a>
+<a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 
 日本の先駆的パンクバンドFrictionの1980年作（CD）
 

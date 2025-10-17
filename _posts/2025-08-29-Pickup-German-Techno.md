@@ -12,7 +12,7 @@ image: ../assets/images/pickup-german-techno.webp
 <hr>
 
 ### Tresor Compilation Vol. 7
-<a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.jpg"></a>
+<a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
 魅力ポイント：ドイツ発の名門レーベルT­resor によるコンピで、Sven Väth や Maurizio、Ben Sims、James Ruskin、Pacou など、テクノ界を代表する重鎮たちのトラックが並ぶ贅沢なセレクション。Berlin—Germany を象徴する硬質でミニマルかつ革新的なテクノの魅力を余すことなく体感できる一枚です。
@@ -46,7 +46,7 @@ image: ../assets/images/pickup-german-techno.webp
 
 
 ### Zombie Nation – Souls At Zero
-<a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.jpg"></a>
+<a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.webp"></a>
 
 
 
@@ -72,7 +72,7 @@ B. Souls At Zero (Sven Väth Remix)
 
 
 ### Cygnus X – The Orange Theme (The Remixes)
-<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).jpg"></a>
+<a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
 魅力ポイント：ドイツのユニット Cygnus X による、エネルギッシュかつ高揚感あふれるトランステクノの代表作「The Orange Theme」のリミックス盤。Moonman、Bervoets & De Goeij、Mark Van Dale with Enrico などによるバリエーション豊かなリミックスが収録されており、原曲のエッセンスを生かしながらクラブ映えするアレンジが楽しめます
@@ -100,7 +100,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 ### Elektrochemie LK – Gold!
-<a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.jpg"></a>
+<a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.webp"></a>
 
 
 
@@ -139,7 +139,7 @@ F2. Ein Nenner
 
 
 ### Elektrochemie LK – When I Rock
-<a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.jpg"></a>
+<a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
 魅力ポイント：「When I Rock」は同じくThomas Schumacherによる代表トラックのひとつ。オリジナルミックスに加え、DJ Rush や Santos によるリミックスが収録されており、リズムのぶつかり合いと異なる解釈の豊かさが楽しめる作品です。
@@ -166,7 +166,7 @@ B1. When I Rock (Santos Remix)
 
 
 ### Bad Pimps – Give It
-<a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.jpg"></a>
+<a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 
 
@@ -194,7 +194,7 @@ B2. Get On Up!
 
 
 ### Bazz-Dee & Waldhaus Weichentechnikk – Brachial 200404
-<a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.jpg"></a>
+<a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
 魅力ポイント：WaldhausとBazz-Deeによるインダストリアル色の強いハードテクノで、KISS の「I Was Made For Loving You」を大胆にサンプリングしたトラックも収録。タイトル通り“ブラキアル”（過激で粗野な）スタイルがファンにはたまらない内容です。
@@ -220,7 +220,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 ### Johannes Heil – Future Primitive
-<a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.jpg"></a>
+<a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
 
 
 

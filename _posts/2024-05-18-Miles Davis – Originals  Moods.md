@@ -4,7 +4,7 @@ title:  "Miles Davis – Originals / Moods"
 author: mmr
 categories: [ Cassette ]
 tags: [ Jazz, Jazz Funk, Rare ]
-image: ../assets/images/Miles Davis – Originals Moods.jpg
+image: ../assets/images/Miles Davis – Originals Moods.webp
 ---
 
 1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。

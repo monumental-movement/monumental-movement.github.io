@@ -4,7 +4,7 @@ title:  "Glaubitz & Roc – Sunshine Day The French Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, French House, 90s ]
-image: ../assets/images/Glaubitz & Roc – Sunshine Day The French Remixes.jpg
+image: ../assets/images/Glaubitz & Roc – Sunshine Day The French Remixes.webp
 ---
 
 ドイツ出身のElectro/Tech-House/Minimal DJ &プロデューサーCarsten GlaubitzとElectro/Tech-House/Minimal プロデューサーOliver Rockstedt(Chris Powell )による「Sunshine Day 」のフレンチリミックス。

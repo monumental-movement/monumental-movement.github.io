@@ -4,7 +4,7 @@ title:  "The Original Caste – Mr. Monday / Sweet Chicago"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Folk, Nostalgic, 7inch ]
-image: ../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.jpg
+image: ../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.webp
 ---
 
 The Original Casteは、カナダのフォーク・グループ。 1966年にアルバータ州カルガリーで結成され、当時は「ザ・ノース・カントリー・シンガーズ」という名前で活動していました。

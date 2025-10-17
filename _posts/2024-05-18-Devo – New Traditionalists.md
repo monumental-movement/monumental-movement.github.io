@@ -4,7 +4,7 @@ title:  "Devo – New Traditionalists"
 author: mmr
 categories: [ Cassette ]
 tags: [ Techno, Synth Pop, New-Wave, 80s ]
-image: ../assets/images/Devo – New Traditionalists.jpg
+image: ../assets/images/Devo – New Traditionalists.webp
 ---
 
 「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。

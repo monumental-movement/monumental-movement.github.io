@@ -4,7 +4,7 @@ title:  "Buffalo Daughter – WXBD"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Big Beat ]
-image: ../assets/images/Buffalo Daughter – WXBD.jpg
+image: ../assets/images/Buffalo Daughter – WXBD.webp
 ---
 
 「Buffalo Daughter - WXBD」は、日本のエクスペリメンタルロックバンドであるバッファロー・ドーターによるアルバムです。

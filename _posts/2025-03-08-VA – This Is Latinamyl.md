@@ -4,7 +4,7 @@ title:  "VA – This Is Latinamyl"
 author: mmr
 categories: [ CD ]
 tags: [ Breakbeat, Bossanova, Experimental, Big Beat, 90s ]
-image: ../assets/images/VA – This Is Latinamyl.jpg
+image: ../assets/images/VA – This Is Latinamyl.webp
 ---
 
 映画マトリックスの音楽なども手掛けるマルチジャンル・エレクトロニックミュージックプロデューサー&DJ Elite ForceことSimon Shackletonが設立したブレイクビーツレーベルFused & Bruised から1997年にリリースされたコンピレーションアルバム。

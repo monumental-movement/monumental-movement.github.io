@@ -4,7 +4,7 @@ title:  "Mijk Van Dijk – Glow"
 author: mmr
 categories: [ CD ]
 tags: [ Trance, 90s ]
-image: ../assets/images/Mijk Van Dijk – Glow.jpg
+image: ../assets/images/Mijk Van Dijk – Glow.webp
 ---
 
 Mijk Van Dijk(マイク・ヴァン・ダイク)は1990年代から活躍するドイツ出身テクノ プロデューサー・DJ。

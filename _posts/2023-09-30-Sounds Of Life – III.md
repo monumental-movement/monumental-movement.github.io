@@ -4,7 +4,7 @@ title:  "Sounds Of Life – III"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass ]
-image: ../assets/images/Sounds Of Life – III.jpg
+image: ../assets/images/Sounds Of Life – III.webp
 ---
 
 「Hidden Rooms」は、Source Directの最高のアーメンチューンの1つです。このトラックは、数々の優れたプロデューサーによって見事に制作され、最初のドロップによってダンスフロアで完全に機能するでしょう。

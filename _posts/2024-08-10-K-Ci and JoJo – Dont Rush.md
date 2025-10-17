@@ -4,7 +4,7 @@ title:  "K-Ci & JoJo – Don't Rush"
 author: mmr
 categories: [ Vinyl ]
 tags: [ RnB, Swing, Garage House ]
-image: ../assets/images/K-Ci and JoJo – Dont Rush.jpg
+image: ../assets/images/K-Ci and JoJo – Dont Rush.webp
 ---
 
 ケイシー（ケー・シー）＆ジョジョ

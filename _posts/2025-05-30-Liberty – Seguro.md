@@ -4,7 +4,7 @@ title:  "Liberty – Seguro"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hard Trance, 00s ]
-image: ../assets/images/Liberty – Seguro.jpg
+image: ../assets/images/Liberty – Seguro.webp
 ---
 
 Libertyは、ベルギーのDJ・プロデューサー Johan Goyvaerts(DJ Liberty)とMaurits Engelen(Maurizzio)によるデュオ。Maurizzioの叔父は、ベルギー発祥のニュービート/アシッドハウス/テクノエレクトロニックダンスミュージックシーンのパイオニアの一人とみなされているPraga Khan(プラガ・カーン)。

@@ -4,7 +4,7 @@ title:  "Point Blanc Featuring Maria Motjér – Point Blanc"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Funk, 10inch ]
-image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.jpg
+image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.webp
 ---
 
 1996年にドイツはケルンのGroove Attack Productions (GAP) からリリースされた10インチレコードです。

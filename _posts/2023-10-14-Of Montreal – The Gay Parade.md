@@ -4,7 +4,7 @@ title:  "Of Montreal – The Gay Parade"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Psychedelic ]
-image: ../assets/images/Of Montreal – The Gay Parade.jpg
+image: ../assets/images/Of Montreal – The Gay Parade.webp
 ---
 
 of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。

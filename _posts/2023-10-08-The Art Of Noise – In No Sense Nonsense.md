@@ -4,7 +4,7 @@ title:  "The Art Of Noise – In No Sense Nonsense"
 author: mmr
 categories: [ Cassette ]
 tags: [ Synth-Pop, Leftfield ]
-image: ../assets/images/The Art Of Noise – In No Sense Nonsense.jpg
+image: ../assets/images/The Art Of Noise – In No Sense Nonsense.webp
 ---
 
 「In No Sense Nonsense」は、1987年にChina RecordsからリリースされたArt Of Noiseによるアルバムのカセッテテープです。

@@ -4,7 +4,7 @@ title:  "Crystal Waters – The Boy From Ipanema"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, 90s ]
-image: ../assets/images/Crystal Waters – The Boy From Ipanema.jpg
+image: ../assets/images/Crystal Waters – The Boy From Ipanema.webp
 ---
 
 Crystal Watersは、1990年代のヒット曲「Gypsy Woman(ジプシー・ウーマン)」、「100% Pure Love(100% ピュア・ラブ)」で知られるUSのハウス&ダンスミュージックシンガーソングライター。

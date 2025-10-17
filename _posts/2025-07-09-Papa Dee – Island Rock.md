@@ -4,7 +4,7 @@ title:  "Papa Dee – Island Rock"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Pops, 90s ]
-image: ../assets/images/Papa Dee – Island Rock.jpg
+image: ../assets/images/Papa Dee – Island Rock.webp
 ---
 
 Papa Dee ことDavid Christopher Daniel Wahlgrenは、スウェーデン出身のラッパー。ragga(ラガ)、Dub(ダヴ)、dancehall(ダンスホール)、Reggae(レゲエ)、Hiphop(ヒップホップ)の要素をmixしたスタイルが特徴。

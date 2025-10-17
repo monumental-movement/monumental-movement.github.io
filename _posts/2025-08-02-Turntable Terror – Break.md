@@ -4,7 +4,7 @@ title:  "Turntable Terror – Break"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, Techno, Swingbeat, 90s ]
-image: ../assets/images/Turntable Terror – Break.jpg
+image: ../assets/images/Turntable Terror – Break.webp
 ---
 
 Turntable Terror ことMichel de Hey（ミシェル・デ・ヘイ）は、オランダ・ロッテルダム出身のベテランDJ／プロデューサー。Michel de Heyがインタビューで、“よりハードなサウンドを追求するため“に用いた名義がTurntable Terror だと答えている。

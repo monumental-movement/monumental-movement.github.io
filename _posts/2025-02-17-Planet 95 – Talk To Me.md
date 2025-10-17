@@ -4,7 +4,7 @@ title:  "Planet '95 – Talk To Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/Planet 95 – Talk To Me.jpg
+image: ../assets/images/Planet 95 – Talk To Me.webp
 ---
 
 Planet 95 は、Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato De Crescenzoによるユニット。

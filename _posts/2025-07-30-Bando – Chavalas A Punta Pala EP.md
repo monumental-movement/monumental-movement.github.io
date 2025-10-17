@@ -4,7 +4,7 @@ title:  "Bando – Chavalas A Punta Pala EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, 00s ]
-image: ../assets/images/Bando – Chavalas A Punta Pala EP.jpg
+image: ../assets/images/Bando – Chavalas A Punta Pala EP.webp
 ---
 
 BandoことManuel Rioは、1990年代初頭から活動するスペイン出身のDJ・プロデューサー。テクノを基調としつつパーカッション&グルーヴに富んだトライブ感溢れるエネルギッシュなスタイルが特徴で、Ben Sims、Marco Bailey、DJ Misjah、Cristian Varelaなどのremixを手掛ける。 DJとしては、Best Techno DJを受賞するなど世界的に活躍するCristian Varela(クリスチャン・バレラ)と共にレジデントをつとめ、ヨーロッパだけでなくUS＆アジアでツアーを行うなど各国でプレイしている。

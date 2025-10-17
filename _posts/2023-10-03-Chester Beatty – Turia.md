@@ -4,7 +4,7 @@ title:  "Chester Beatty – Turia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Chester Beatty – Turia.jpg
+image: ../assets/images/Chester Beatty – Turia.webp
 ---
 
 「Turia」は、

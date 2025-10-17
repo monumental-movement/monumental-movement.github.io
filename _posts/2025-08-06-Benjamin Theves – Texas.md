@@ -4,7 +4,7 @@ title:  "Benjamin Theves – Texas"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, Disco, 00s ]
-image: ../assets/images/Benjamin Theves – Texas.jpg
+image: ../assets/images/Benjamin Theves – Texas.webp
 ---
 
 Benjamin Thevesは、フランス出身のエレクトロニック・アーティスト／プロデューサー。

@@ -4,7 +4,7 @@ title:  "Diego Ray – Superhero"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Diego Ray – Superhero.jpg
+image: ../assets/images/Diego Ray – Superhero.webp
 ---
 
 Diego Rayは、イタリア系アメリカ人のDJ・プロデューサー。

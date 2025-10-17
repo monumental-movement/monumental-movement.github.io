@@ -4,7 +4,7 @@ title:  "Lucky – Guiding Light"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro Beat ]
-image: ../assets/images/Lucky – Guiding Light.jpg
+image: ../assets/images/Lucky – Guiding Light.webp
 ---
 
 「Guiding Light」は、

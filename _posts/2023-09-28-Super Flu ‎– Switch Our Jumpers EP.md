@@ -4,7 +4,7 @@ title:  "Super Flu – Switch Our Jumpers EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
-image: ../assets/images/Super Flu – Switch Our Jumpers EP.jpg
+image: ../assets/images/Super Flu – Switch Our Jumpers EP.webp
 ---
 
 2006年にドイツのレーベルKarateKlubからリリースされた作品です。

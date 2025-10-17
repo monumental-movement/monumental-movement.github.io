@@ -4,7 +4,7 @@ title:  "Captain Jack – Together And Forever!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Eurodance, Euro House, Euro, 90s ]
-image: ../assets/images/Captain Jack – Together And Forever.jpg
+image: ../assets/images/Captain Jack – Together And Forever.webp
 ---
 
 Captain Jack(キャプテン・ジャック)は、90年代のユーロダンスシーンを代表するドイツ・ケルンのダンスプロジェクト。初期メンバーは、プロデューサーUdo NiebergallとRichard Witte。90年代の全ての有名なフェスティバルのヘッドライナーを務め盛り上げたパーティーメーカー。

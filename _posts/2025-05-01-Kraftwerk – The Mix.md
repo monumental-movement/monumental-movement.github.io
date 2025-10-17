@@ -4,7 +4,7 @@ title:  "Kraftwerk – The Mix"
 author: mmr
 categories: [ CD ]
 tags: [ Electronic, Electro, Synth-pop ]
-image: ../assets/images/Kraftwerk – The Mix.jpg
+image: ../assets/images/Kraftwerk – The Mix.webp
 ---
 
 Kraftwerk(クラフトワーク)は、1970年にラルフ・ヒュッターとフロリアン・シュナイダーによって

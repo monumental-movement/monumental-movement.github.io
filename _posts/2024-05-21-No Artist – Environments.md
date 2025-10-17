@@ -4,7 +4,7 @@ title:  "No Artist – Environments (New Concepts In Stereo Sound) (Cassette Two
 author: mmr
 categories: [ Cassette ]
 tags: [ Field Recording , Therapy, Healing, Meditation ]
-image: ../assets/images/No Artist – Environments.jpg
+image: ../assets/images/No Artist – Environments.webp
 ---
 
 アメリカのレーベルAtlanticが、1970年代にSyntonic Research Seriesとしてリリースした一つ。タイトル「Environments」（＝「環境」）の通り、フィールドレコーディングをベースとした心地の良いリラクゼーションミュージック。

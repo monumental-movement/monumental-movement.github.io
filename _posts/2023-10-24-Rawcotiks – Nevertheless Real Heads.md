@@ -4,7 +4,7 @@ title:  "Rawcotiks – Nevertheless Real Heads"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 90s ]
-image: ../assets/images/Rawcotiks – Nevertheless Real Heads.jpg
+image: ../assets/images/Rawcotiks – Nevertheless Real Heads.webp
 ---
 
 「Rawcotiks – Nevertheless Real Heads」は、Opposition Recordsから1997年にリリースされました。

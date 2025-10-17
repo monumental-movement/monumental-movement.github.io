@@ -12,7 +12,7 @@ image: ../assets/images/pickup-happy-hardcore.webp
 <hr>
 
 ### Charly Lownoise & Mental Theo – Wonderfull Days
-<a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.jpg"></a>
+<a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.webp"></a>
 
 リリース：1994年／オランダのハッピーハードコア代表作
 
@@ -38,7 +38,7 @@ B2. Wonderfull Days (Radio Mix)
 
 
 ### Scooter – Call Me Mañana
-<a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.jpg"></a>
+<a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
 リリース：1998年、『No Time to Chill』収録シングル
 
@@ -63,7 +63,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 
 
 ### Ratty – Sunrise (Here I Am)
-<a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(Here%20I%20Am).jpg"></a>
+<a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(Here%20I%20Am).webp"></a>
 
 概要：Scooter のトランス派生プロジェクト Ratty による曲
 
@@ -89,7 +89,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 
 
 ### Phase vs. DJ Sniper Feat. Karen – Forevermore / Ignition Sequence
-<a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.jpg"></a>
+<a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 リリース元：UK レーベル Sonic Boom
 
@@ -114,7 +114,7 @@ B2. Forevermore (Original)
 
 
 ### DJ Breeze – Jump A Little Higher
-<a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.jpg"></a>
+<a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
 
 アーティスト：イギリスの人気 DJ／プロデューサー Mark Breeze
 

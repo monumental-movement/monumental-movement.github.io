@@ -4,7 +4,7 @@ title:  "Laetitia Backwell – Can't Get Enough"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Soul ]
-image: ../assets/images/Laetitia Backwell – Can't Get Enough.jpg
+image: ../assets/images/Laetitia Backwell – Can't Get Enough.webp
 ---
 
 Laetitia Backwellによる「Can't Get Enough」は、

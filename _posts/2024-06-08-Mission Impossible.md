@@ -4,7 +4,7 @@ title:  "Adam Clayton & Larry Mullen – Theme From Mission: Impossible"
 author: mmr
 categories: [ Cassette ]
 tags: [ Soundtrack, Movie, Film, 90s ]
-image: ../assets/images/Adam Clayton & Larry Mullen – Theme From Mission Impossible.jpg
+image: ../assets/images/Adam Clayton & Larry Mullen – Theme From Mission Impossible.webp
 ---
 
 1996年にリリースされた、U2のメンバーAdam Clayton（アダム クレイトン）とLarry Mullen（ラリー マレン ）による映画「ミッション: インポッシブル」の テーマ曲カセットテープ。

@@ -4,7 +4,7 @@ title:  "Willie Stubz – The Industry Come With Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Gangsta ]
-image: ../assets/images/Willie Stubz – The Industry Come With Me.jpg
+image: ../assets/images/Willie Stubz – The Industry Come With Me.webp
 ---
 
 「Willie Stubz – The Industry Come With Me」の

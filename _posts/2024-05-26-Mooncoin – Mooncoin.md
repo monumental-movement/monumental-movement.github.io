@@ -4,7 +4,7 @@ title:  "Mooncoin – Mooncoin"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Ireland, British, Folk, 80s ]
-image: ../assets/images/Mooncoin – Mooncoin.jpg
+image: ../assets/images/Mooncoin – Mooncoin.webp
 ---
 
 Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。

@@ -4,7 +4,7 @@ title:  "Spiritualized – Ladies And Gentlemen We Are Floating In Space"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Post Rock ]
-image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating In Space.jpg
+image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating In Space.webp
 ---
 
 「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。

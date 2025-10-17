@@ -4,7 +4,7 @@ title:  "Human Movement Featuring Sophie Moleta – Love Has Come Again"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come Again.jpg
+image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come Again.webp
 ---
 
 Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。

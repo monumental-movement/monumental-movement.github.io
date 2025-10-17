@@ -4,7 +4,7 @@ title:  "Shaun Escoffery – Space Rider"
 author: mmr
 categories: [ Vinyl ]
 tags: [ UK Garage, Soul, 00s ]
-image: ../assets/images/Shaun Escoffery – Space Rider.jpg
+image: ../assets/images/Shaun Escoffery – Space Rider.webp
 ---
 
 「Space Rider 」UKのソウル／R&BシンガーShaun Escofferyのメジャーデビューシングル。2001年にレーベルOyster Musicからリリースされ、BBC Radio 1 のDJ Trevor Nelson やDreem Teemにヘヴィープレイされたヒット曲。

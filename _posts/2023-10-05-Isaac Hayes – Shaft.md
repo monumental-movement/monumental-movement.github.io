@@ -4,7 +4,7 @@ title:  "Isaac Hayes – Shaft"
 author: mmr
 categories: [ Cassette ]
 tags: [ Soul, Jazz, Funk ]
-image: ../assets/images/Isaac Hayes – Shaft.jpg
+image: ../assets/images/Isaac Hayes – Shaft.webp
 ---
 
 映画『Shaft』のサウンドトラックとして制作され、ゴードン・パークス監督によるクラシックなブラックスプロイテーション犯罪映画の音楽を担当しています。このアルバムは非常に評価され、最も偉大なサウンドトラックの一つとされています。

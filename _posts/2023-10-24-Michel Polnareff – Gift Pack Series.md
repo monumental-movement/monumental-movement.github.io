@@ -4,7 +4,7 @@ title:  "Michel Polnareff – Gift Pack Series"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 70s ]
-image: ../assets/images/Michel Polnareff – Gift Pack Series.jpg
+image: ../assets/images/Michel Polnareff – Gift Pack Series.webp
 ---
 
 「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。

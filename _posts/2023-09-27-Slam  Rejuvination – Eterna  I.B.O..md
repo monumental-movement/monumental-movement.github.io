@@ -4,7 +4,7 @@ title:  "Slam  Rejuvination – Eterna  I.B.O."
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Slam  Rejuvination – Eterna  I.B.O.jpg
+image: ../assets/images/Slam  Rejuvination – Eterna  I.B.O.webp
 ---
 
 Slam  Rejuvinationによる

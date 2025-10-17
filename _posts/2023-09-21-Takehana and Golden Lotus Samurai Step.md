@@ -4,7 +4,7 @@ title:  "Takehana and Golden Lotus - Samurai Step"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Abstract, Jazz ]
-image: ../assets/images/Takehana and Golden Lotus – Samurai Step.jpg
+image: ../assets/images/Takehana and Golden Lotus – Samurai Step.webp
 ---
 
 「Samurai Step」は、日本のプロデューサー であるTakehana （タケハナ）とアメリカのプロデューサー/DJのGolden Lotus（ゴールデン・ロータス）が共同制作したトラックです。

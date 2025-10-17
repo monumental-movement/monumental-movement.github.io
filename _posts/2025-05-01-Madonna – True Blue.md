@@ -4,7 +4,7 @@ title:  "Madonna – True Blue"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Pop, Synth-pop, 80s ]
-image: ../assets/images/Madonna – True Blue.jpg
+image: ../assets/images/Madonna – True Blue.webp
 ---
 
 1986年にリリースされた「True Blue」は、マドンナ3枚目のスタジオアルバム。モータウンサウンド、ガールズグループ、ラテンポップの影響を受けたダンスポップアルバムで、世界的な大ヒットとなった。

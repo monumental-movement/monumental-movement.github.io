@@ -4,7 +4,7 @@ title:  "DJ Rip – Digital Distortion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, Techno ]
-image: ../assets/images/DJ Rip – Digital Distortion.jpg
+image: ../assets/images/DJ Rip – Digital Distortion.webp
 ---
 
 「Digital Distortion」は、

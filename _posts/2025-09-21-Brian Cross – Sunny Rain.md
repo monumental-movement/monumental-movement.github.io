@@ -4,7 +4,7 @@ title:  "Brian Cross – Sunny Rain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, 00s ]
-image: ../assets/images/Brian Cross – Sunny Rain.jpg
+image: ../assets/images/Brian Cross – Sunny Rain.webp
 ---
 
 Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。

@@ -4,7 +4,7 @@ title:  "The Call – Modern Romans"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, New-Wave ]
-image: ../assets/images/The Call – Modern Romans.jpg
+image: ../assets/images/The Call – Modern Romans.webp
 ---
 
 The Callは、1980年にカリフォルニア州サンタクルーズで結成されたアメリカのロックバンド。2000年に解散するまで、20年間で9枚のスタジオアルバムをリリースした。代表曲に、アル・ゴアの2000年の大統領選挙のキャンペーンのテーマソングとして使用された「Let the Day Begin」などがある。

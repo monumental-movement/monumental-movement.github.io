@@ -4,7 +4,7 @@ title:  "Michael Viner's Incredible Bongo Band – Bongo Rock"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Funk ]
-image: ../assets/images/Michael Viner's Incredible Bongo Band – Bongo Rock.jpg
+image: ../assets/images/Michael Viner's Incredible Bongo Band – Bongo Rock.webp
 ---
 
 1973年にリリースされた、インストゥルメンタルファンクバンド「Michael Viner's Incredible Bongo Band」によるアルバム「Bongo Rock（ボンゴ・ロック）」は、ファンク、ソウル、ブレイクビーツの要素を取り入れた楽曲で、後にヒップホップ、ブレイクビーツシーンで数多くのアーティストがサンプリングした。

@@ -4,7 +4,7 @@ title:  "Flyboys – Flyboys"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Rock ]
-image: ../assets/images/Flyboys – Flyboys.jpg
+image: ../assets/images/Flyboys – Flyboys.webp
 ---
 
 Flyboys（フライボーイズ）は、1975年から1980年まで活動したUSパンクロックバンド。

@@ -4,7 +4,7 @@ title:  "Underworld – Cowgirl Rez"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Progressive ]
-image: ../assets/images/Underworld – Cowgirl Rez.jpg
+image: ../assets/images/Underworld – Cowgirl Rez.webp
 ---
 
 1994年にリリースされた「Cowgirl」と1993年にリリースされた「Rez」は、Underworldの90年代の代表曲。

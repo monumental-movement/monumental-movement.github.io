@@ -4,7 +4,7 @@ title:  "The Nolans –  Every Home Should Have One"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Nostalgic, 7inch ]
-image: ../assets/images/The Nolans –  Every Home Should Have One.jpg
+image: ../assets/images/The Nolans –  Every Home Should Have One.webp
 ---
 
 「The Nolans –  Every Home Should Have One」は、1981年に日本で開催されたコカ・コーラの懸賞の景品として配布されたシリーズのひとつです。

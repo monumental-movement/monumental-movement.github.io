@@ -4,7 +4,7 @@ title:  "Various – Environments"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Abstract ]
-image: ../assets/images/Various – Environments.jpg
+image: ../assets/images/Various – Environments.webp
 ---
 
 「Environments」は、

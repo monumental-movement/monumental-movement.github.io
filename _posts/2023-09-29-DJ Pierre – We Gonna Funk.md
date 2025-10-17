@@ -4,7 +4,7 @@ title:  "DJ Pierre – We Gonna Funk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid ]
-image: ../assets/images/DJ Pierre – We Gonna Funk.jpg
+image: ../assets/images/DJ Pierre – We Gonna Funk.webp
 ---
 
 1993年にUKのレーベルSolid Pleasureよりリリースされたこのレコードは「We Gonna Funk（(Underground Mix）」を収録。

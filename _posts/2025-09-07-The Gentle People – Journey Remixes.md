@@ -4,7 +4,7 @@ title:  "The Gentle People – Journey Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Future Jazz, Experimental, Ambient, 90s ]
-image: ../assets/images/The Gentle People – Journey Remixes.jpg
+image: ../assets/images/The Gentle People – Journey Remixes.webp
 ---
 
 The Gentle People(ジェントル・ピープル)は、1995年にUSで結成されたバンド。彼らのサウンドは、1990年代のクラブ文化において「キッチュ」と定義された1950年代のラウンジ&イージーリスニング テイストが特徴。

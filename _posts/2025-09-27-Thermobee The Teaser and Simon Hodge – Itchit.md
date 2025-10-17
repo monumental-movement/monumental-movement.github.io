@@ -4,7 +4,7 @@ title:  "Thermobee, The Teaser & Simon Hodge – Itchit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, Techno, 00s ]
-image: ../assets/images/Thermobee The Teaser & Simon Hodge – Itchit.jpg
+image: ../assets/images/Thermobee The Teaser & Simon Hodge – Itchit.webp
 ---
 
 Thermobee、The Teaser、Simon Hodgeによる

@@ -4,7 +4,7 @@ title:  "Klangkontakt – Dekadent"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
-image: ../assets/images/Klangkontakt – Dekadent.jpg
+image: ../assets/images/Klangkontakt – Dekadent.webp
 ---
 
 「Dekadent」は、

@@ -4,7 +4,7 @@ title:  "Commander Tom – Eye Bee M"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno ]
-image: ../assets/images/Commander Tom – Eye Bee M.jpg
+image: ../assets/images/Commander Tom – Eye Bee M.webp
 ---
 
 Commander Tom（コマンダー・トム）は、ドイツ出身のテクノDJ・プロデューサー。「Eye Bee M」はCommander Tomの代表曲の一つ。B面は、サンフランシスコのサイバートランスのパイオニアMars & Mystreで知られるMarsが参加した一曲。

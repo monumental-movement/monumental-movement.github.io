@@ -4,7 +4,7 @@ title:  "DJ Arne L II Presents Divino – Proper To Men"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hard House, Hard Trance, 00s ]
-image: ../assets/images/DJ Arne L II Presents Divino – Proper To Men.jpg
+image: ../assets/images/DJ Arne L II Presents Divino – Proper To Men.webp
 ---
 
 DJ Arne L IIことArne Leistikowは、ドイツ出身のDJ・プロデューサー。

@@ -4,7 +4,7 @@ title:  "Frost – Mexican Border"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Gangsta ]
-image: ../assets/images/Frost – Mexican Border.jpg
+image: ../assets/images/Frost – Mexican Border.webp
 ---
 
 「Mexican Border」は、

@@ -4,7 +4,7 @@ title:  "Yoshinori Sunahara – Journey Beyond"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Downtempo ]
-image: ../assets/images/Yoshinori Sunahara – Journey Beyond.jpg
+image: ../assets/images/Yoshinori Sunahara – Journey Beyond.webp
 ---
 
 「Journey Beyond」は、砂原良徳の作品の一部で、彼の独自のサウンドスタイルを堪能できる楽曲の一つです。彼の音楽は、しばしば独創的で実験的でありながら、心地よいリラックス感も備えています。この曲は、アンビエント音楽の要素を取り入れつつも、砂原良徳自身の音楽的なビジョンを反映しています。

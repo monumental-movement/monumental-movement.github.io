@@ -4,7 +4,7 @@ title:  "Archae and Grovskopa – Emergent Properties"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Industrial ]
-image: ../assets/images/Archae and Grovskopa – Emergent Properties.jpg
+image: ../assets/images/Archae and Grovskopa – Emergent Properties.webp
 ---
 
 Archae & Grovskopaは、Benny Liberg（Archae）とMika Hallbäck（Grovskopa）のスウェーデン・テクノデュオ。

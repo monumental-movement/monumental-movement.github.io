@@ -4,7 +4,7 @@ title:  "Randy Travis – Storms Of Life"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Folk, World, Country, 80s ]
-image: ../assets/images/Randy Travis – Storms Of Life.jpg
+image: ../assets/images/Randy Travis – Storms Of Life.webp
 ---
 
 Randy Travis(ランディ・トラヴィス)は、1979年から活動するアメリカのカントリー歌手、俳優。

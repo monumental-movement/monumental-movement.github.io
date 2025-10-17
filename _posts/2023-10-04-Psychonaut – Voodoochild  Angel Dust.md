@@ -4,7 +4,7 @@ title:  "Psychonaut – Voodoochild  Angel Dust"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
-image: ../assets/images/Psychonaut – Voodoochild  Angel Dust.jpg
+image: ../assets/images/Psychonaut – Voodoochild  Angel Dust.webp
 ---
 
 「Voodoochild  Angel Dust」は、

@@ -4,7 +4,7 @@ title:  "Unknown Artist – Just An Incident / Head, Booty & Beats"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, 00s ]
-image: ../assets/images/Unknown Artist – Just An Incident.jpg
+image: ../assets/images/Unknown Artist – Just An Incident.webp
 ---
 
 オランダのレーベルP Seriesは、有名なポップス&ダンストラックのBootleg(海賊)版remixをリリースしている非公式マッシュアップレーベル。

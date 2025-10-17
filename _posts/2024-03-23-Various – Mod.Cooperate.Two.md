@@ -4,7 +4,7 @@ title:  "Various – Mod.Cooperate.Two"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal, Glitch ]
-image: ../assets/images/Various – Mod.Cooperate.Two.jpg
+image: ../assets/images/Various – Mod.Cooperate.Two.webp
 ---
 
 Treplecが設立したドイツのテクノレーベルMilnor Modernから2004年にリリースされた、Nisios 、Trike、Metaboman、Dubnoodlesによるミニマルテクノ・グリッチ・エレクトロハウスコンピレーション。

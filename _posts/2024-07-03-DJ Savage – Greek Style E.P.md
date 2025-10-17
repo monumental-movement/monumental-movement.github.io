@@ -4,7 +4,7 @@ title:  "DJ Savage – Greek Style E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/DJ Savage – Greek Style E.P.jpg
+image: ../assets/images/DJ Savage – Greek Style E.P.webp
 ---
 
 DJ Savageはギリシャ出身のベテランDJ・プロデューサー。

@@ -4,7 +4,7 @@ title:  "XTC – Nonsuch"
 author: mmr
 categories: [ CD ]
 tags: [ Pop Rock, Rock, 90s ]
-image: ../assets/images/XTC – Nonsuch.jpg
+image: ../assets/images/XTC – Nonsuch.webp
 ---
 
 「Nonsuch 」は、1992年にVirginからリリースされたUKのロックバンドXTCの12枚目のスタイルアルバム。プロデューサーにはエルトン・ジョンの作品などを手がけるGus Dudgeon(ガス・ダッジョン)。愛、人間性から湾岸戦争、P•T•バーナムまで多岐にわたるトピックに言及したXTCの中では最も政治的なアルバムとなっており、アメリカとイギリスでヒットとなった。

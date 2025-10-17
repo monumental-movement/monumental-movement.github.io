@@ -4,7 +4,7 @@ title:  "Ben Westbeech – Welcome To The Best Years Of Your Life"
 author: mmr
 categories: [ CD ]
 tags: [ Broken Beat, Future Jazz, Downtempo, Neo Soul ]
-image: ../assets/images/Ben Westbeech – Welcome To The Best Years Of Your Life.jpg
+image: ../assets/images/Ben Westbeech – Welcome To The Best Years Of Your Life.webp
 ---
 
 Ben WestbeechはUK出身のDJ・プロデューサー。Breach名義やKON(Christian Taylo)とのコラボThe Visionとしても知られている。

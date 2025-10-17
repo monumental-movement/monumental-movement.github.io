@@ -4,7 +4,7 @@ title:  "Billy Nightmare – Reality Check"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
-image: ../assets/images/Billy Nightmare – Reality Check.jpg
+image: ../assets/images/Billy Nightmare – Reality Check.webp
 ---
 
 シカゴのレイヴシーンから現れたBilly Nightmareこと“Mystic Bill” TorresのEPです。

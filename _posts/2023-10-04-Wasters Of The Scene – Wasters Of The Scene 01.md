@@ -4,7 +4,7 @@ title:  "Wasters Of The Scene – Wasters Of The Scene 01"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Wasters Of The Scene – Wasters Of The Scene 01.jpg
+image: ../assets/images/Wasters Of The Scene – Wasters Of The Scene 01.webp
 ---
 
 「Wasters Of The Scene 01」は、

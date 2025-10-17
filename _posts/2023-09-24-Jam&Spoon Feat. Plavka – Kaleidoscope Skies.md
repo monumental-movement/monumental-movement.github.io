@@ -4,7 +4,7 @@ title:  "Jam&Spoon Feat. Plavka – Kaleidoscope Skies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Trance, Downtempo ]
-image: ../assets/images/Jam&Spoon Feat. Plavka – Kaleidoscope Skies.jpg
+image: ../assets/images/Jam&Spoon Feat. Plavka – Kaleidoscope Skies.webp
 ---
 
 Jam & Spoonは、ドイツのテクノ/トランスデュオであり、Rolf Ellmer（Jam）とMarkus Löffel（Spoon）によって結成されました。彼らは1990年代に多くの人気曲を生み出し、そのサウンドとプロダクションスキルで知られています。

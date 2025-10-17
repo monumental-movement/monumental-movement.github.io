@@ -4,7 +4,7 @@ title:  "Pearl Jam – Yield"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Grunge, Alternative Rock, 90s ]
-image: ../assets/images/Pearl Jam – Yield.jpg
+image: ../assets/images/Pearl Jam – Yield.webp
 ---
 
 Pearl Jam(パール・ジャム)は、1990年にシアトルで結成されたアメリカのロックバンド。サウンドガーデンやニルヴァーナ等と共に90年代初頭のグランジ運動の主要なバンドとして知られており、「90年代で最も人気のあるアメリカのロックンロールバンド」と言われている。

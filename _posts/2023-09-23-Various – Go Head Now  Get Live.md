@@ -4,7 +4,7 @@ title:  "Various – Go Head Now  Get Live"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 90s ]
-image: ../assets/images/Various – Go Head Now  Get Live.jpg
+image: ../assets/images/Various – Go Head Now  Get Live.webp
 ---
 
 1999年にリリースされた本作は、Future Shockからリリースされた日本とアメリカのラッパーが、レーベルや国籍の枠を超えて集ったコンピレーションアルバム「SYNCHRONICITY」からのシングルです。

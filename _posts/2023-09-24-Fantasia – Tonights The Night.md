@@ -4,7 +4,7 @@ title:  "Fantasia – Tonight's The Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Fantasia – Tonight's The Night.jpg
+image: ../assets/images/Fantasia – Tonight's The Night.webp
 ---
 
 Fantasiaは、1988年にリリースされたHelen SheppardとTim Gordineによるプロジェクトです。

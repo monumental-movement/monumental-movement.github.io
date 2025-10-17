@@ -4,7 +4,7 @@ title:  "Supertramp – Breakfast In America"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Progressive, 7inch ]
-image: ../assets/images/Supertramp – Breakfast In America.jpg
+image: ../assets/images/Supertramp – Breakfast In America.webp
 ---
 
 Supertramp（スーパートランプ）は、1970 年にロンドンで結成されたイギリスのロックバンド。「Breakfast In America」は1979 年の同名アルバムのタイトル曲で、世界的なヒットとなりました。

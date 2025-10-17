@@ -4,7 +4,7 @@ title:  "DJ Rip – House Playerz E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/DJ Rip – House Playerz E.P.jpg
+image: ../assets/images/DJ Rip – House Playerz E.P.webp
 ---
 
 「House Playerz E.P」は、

@@ -4,7 +4,7 @@ title:  "Ray Okpara – Blues Me Blues"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal ]
-image: ../assets/images/Ray Okpara – Blues Me Blues.jpg
+image: ../assets/images/Ray Okpara – Blues Me Blues.webp
 ---
 
 Ray Okparaはナイジェリアにルーツを持つハウス・テクノ DJ兼プロデューサーです。「Blues Me Blues」は、彼の代表作の一つで、彼の独自のスタイルと音楽的な表現力が際立っています。

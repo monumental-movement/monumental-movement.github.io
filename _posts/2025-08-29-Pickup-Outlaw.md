@@ -12,7 +12,7 @@ image: ../assets/images/pickup-outlaw.webp
 <hr>
 
 ### Merzbow – Merzbird
-<a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.jpg"></a>
+<a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 形式：CD
 
@@ -43,7 +43,7 @@ image: ../assets/images/pickup-outlaw.webp
 
 
 ### Joey Beltram – The Rising Sun (CD, Mix Techno)
-<a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.jpg"></a>
+<a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
 形式：CD
 
@@ -79,7 +79,7 @@ image: ../assets/images/pickup-outlaw.webp
 
 
 ### Various – Tresor Compilation Vol. 6
-<a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.jpg"></a>
+<a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 形式：CD
 
@@ -117,7 +117,7 @@ image: ../assets/images/pickup-outlaw.webp
 <br>
 
 ### Tresor Compilation Vol. 7
-<a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.jpg"></a>
+<a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 形式：CD
 
@@ -154,7 +154,7 @@ image: ../assets/images/pickup-outlaw.webp
 
 
 ### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
-<a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.jpg"></a>
+<a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 形式：Vinyl
 
@@ -191,7 +191,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 
 ### Benga & Walsh vs Darqwan – Addicts / Megatection
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.jpg"></a>
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
 形式：Vinyl / CD
 
@@ -220,7 +220,7 @@ B. Darqwan–Megatection
 
 
 ### Zed Bias – Ambush Riddim / Cosmic Minefield
-<a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.jpg"></a>
+<a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 形式：Vinyl
 
@@ -249,7 +249,7 @@ B. Cosmic Minefield
 
 
 ### Skrillex – Scary Monsters And Nice Sprites
-<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.jpg"></a>
+<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 形式：CD
 
@@ -283,7 +283,7 @@ B. Cosmic Minefield
 <br>
 
 ### T.Raumschmiere – Rabaukendisko
-<a href="https://jp.mercari.com/item/m93928773468?afid=6142608987"><img src="../assets/images/T.Raumschmiere%20%E2%80%93%20Rabaukendisko.jpg"></a>
+<a href="https://jp.mercari.com/item/m93928773468?afid=6142608987"><img src="../assets/images/T.Raumschmiere%20%E2%80%93%20Rabaukendisko.webp"></a>
 
 形式：Vinyl
 

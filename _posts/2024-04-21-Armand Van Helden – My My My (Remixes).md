@@ -4,7 +4,7 @@ title:  "Armand Van Helden – My My My (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s, Disco ]
-image: ../assets/images/Armand Van Helden – My My My (Remixes).jpg
+image: ../assets/images/Armand Van Helden – My My My (Remixes).webp
 ---
 
 Armand Van Helden（アーマンドヴァンヘルデン）のアルバム「New York: A Mix Odyssey」に収録されている「My My My」のremix集。

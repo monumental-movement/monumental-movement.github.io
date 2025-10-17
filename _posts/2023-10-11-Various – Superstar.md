@@ -4,7 +4,7 @@ title:  "Various – Superstar"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall ]
-image: ../assets/images/Various – Superstar.jpg
+image: ../assets/images/Various – Superstar.webp
 ---
 
 「Various – Superstar」は、

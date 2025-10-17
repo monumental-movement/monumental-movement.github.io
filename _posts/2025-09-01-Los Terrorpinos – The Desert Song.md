@@ -4,7 +4,7 @@ title:  "Los Terrorpinos – The Desert Song"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Dub, Drum n Bass, 90s ]
-image: ../assets/images/Los Terrorpinos – The Desert Song.jpg
+image: ../assets/images/Los Terrorpinos – The Desert Song.webp
 ---
 
 Los Terrorpinosは、スコットランドのロックバンドPrimal Scream(プライマルスクリーム)のギタリストとしてよく知られているAndrew Innes 、UKのプロデューサー／DJ Kris Needs, 80sのネオアコースティックブームを牽引したUKオルタナティヴロックバンド Felt (フェルト)やPrimal Scream のキーボードリストとして知られるMartin Duffyによるプロジェクト。

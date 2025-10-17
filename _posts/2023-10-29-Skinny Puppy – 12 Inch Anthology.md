@@ -4,7 +4,7 @@ title:  "Skinny Puppy – 12 Inch Anthology"
 author: mmr
 categories: [ Vinyl ]
 tags: [ EBM, 90s, Digital Rock ]
-image: ../assets/images/Skinny Puppy – 12 Inch Anthology.jpg
+image: ../assets/images/Skinny Puppy – 12 Inch Anthology.webp
 ---
 
 Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。

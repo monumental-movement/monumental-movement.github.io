@@ -12,7 +12,7 @@ image: ../assets/images/pickup-acid-jazz.webp
 <hr>
 
 ### Corduroy – High Havoc
-<a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.jpg"></a>
+<a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
 概要：ロンドン拠点の4人組アシッドジャズバンド・Corduroyによる、1993年リリースのコンセプトアルバムの2作目。Acid Jazz Recordsから発表されました。
 
@@ -46,7 +46,7 @@ image: ../assets/images/pickup-acid-jazz.webp
 
 
 ### Raw Stylus – Use Me
-<a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.jpg"></a>
+<a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
 概要：1990年代に活動した英国のアシッドジャズバンド・Raw Stylusが、Bill Withersの1972年のソウル／R&B楽曲「Use Me」をカヴァーしたシングル。Acid Jazzレーベルからリリースされました。
 
@@ -71,7 +71,7 @@ B2. Boom
 
 
 ### Toledo – Joe
-<a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.jpg"></a>
+<a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
 概要：Toledo (Toledo Diamond) によるハウス × アシッドジャズトラック。元Black GrapeメンバーDanny Saberがプロデューサーとして関与しています。
 
@@ -94,7 +94,7 @@ B2. Joe (Extended Dub)
 
 
 ### Akimbo Featuring Marcina Arnold – Everybody Knows
-<a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.jpg"></a>
+<a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
 概要：Brand New HeaviesのギタリストSimon Bartholomewらが参加する、ファンク・ソウル・ロックバンドAkimboによるFuture Jazzトラック。1999年にUKレーベルAcid Jazzからリリースされました 。
 
@@ -120,7 +120,7 @@ B2. Flight To Havana
 
 
 ### Various – Totally Wired Nine
-<a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.jpg"></a>
+<a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
 概要：1992年、UKのAcid Jazzレーベルからリリースされたアシッドジャズのオールスター・コンピレーション・アルバムです。ダンスフロアで人気を博した多彩なアーティストの代表的トラックを収録。
 m.m.r

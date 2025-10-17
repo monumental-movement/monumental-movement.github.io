@@ -4,7 +4,7 @@ title:  "Janet Jackson – Doesn't Really Matter"
 author: mmr
 categories: [ Cassette ]
 tags: [ House, Pops ]
-image: ../assets/images/Janet Jackson – Doesn't Really Matter.jpg
+image: ../assets/images/Janet Jackson – Doesn't Really Matter.webp
 ---
 
 「Doesn't Really Matter」は、映画『ナッティ・プロフェッサー2』のサウンドトラックとして制作された曲です。この曲は、アップテンポでポップなサウンドとキャッチーなメロディが特徴で、ジャネット・ジャクソンのダイナミックなヴォーカルが際立っています。

@@ -4,7 +4,7 @@ title:  "Studio Voice Vol230 (スタジオボイス) ボブディラン"
 author: mmr
 categories: [ Magazine ]
 tags: [ Disk Guide, Studio Voice ]
-image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディラン.jpg
+image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディラン.webp
 ---
 
 Studio Voice Vol230 (スタジオボイス)ボブディラン

@@ -4,7 +4,7 @@ title:  "Martian 044 – Prayer Stick"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 90s ]
-image: ../assets/images/Martian 044 – Prayer Stick.jpg
+image: ../assets/images/Martian 044 – Prayer Stick.webp
 ---
 
 Martian 044 は、デトロイトテクノ・ハウスシーンの重鎮Gerald Foster Mitchellのプロジェクト名。この名義はUnderground Resistance(UR)のリリース番号044 = 「Hardlife」に由来している。

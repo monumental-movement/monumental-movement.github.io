@@ -4,7 +4,7 @@ title:  "DJ Chus And David Penn Feat. Caterina – Baila"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal House, Deep House, House, 00s ]
-image: ../assets/images/DJ Chus And David Penn Feat. Caterina – Baila.jpg
+image: ../assets/images/DJ Chus And David Penn Feat. Caterina – Baila.webp
 ---
 
 DJ Chus&David Pennの名曲「Baila」を「Hey Hey」で有名なUSハウスDJ＆プロデューサーDennis Ferrer(デニス・フェラー)がremix。

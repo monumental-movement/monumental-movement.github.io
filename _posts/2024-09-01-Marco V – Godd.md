@@ -4,7 +4,7 @@ title:  "Marco V – Godd"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard Trance, Tech Trance, 00s ]
-image: ../assets/images/Marco V – Godd.jpg
+image: ../assets/images/Marco V – Godd.webp
 ---
 
 Marco V ことMarinus Verkuijlenは、オランダのエレクトロニックミュージックDJ。Tech-Trance(テックトランス）の先駆者であり、最も重要なトランスアーティストの1人と評されている。別名義でVISION20/20などでも活動している。

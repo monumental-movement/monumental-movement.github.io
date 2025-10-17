@@ -4,7 +4,7 @@ title:  "DJ Honda – On The Mic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
-image: ../assets/images/DJ Honda – On The Mic.jpg
+image: ../assets/images/DJ Honda – On The Mic.webp
 ---
 
 1998年リリース。ダイナミックでエネルギッシュな曲で、DJ Hondaの独自のプロダクションスタイルとフィーチャリングアーティストたちのリリカルな才能が結集しています。

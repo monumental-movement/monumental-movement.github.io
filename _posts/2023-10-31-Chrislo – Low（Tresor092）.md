@@ -4,7 +4,7 @@ title:  "Chrislo – Low（Tresor092）"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Mix ]
-image: ../assets/images/Chrislo – Low（Tresor092）.jpg
+image: ../assets/images/Chrislo – Low（Tresor092）.webp
 ---
 
 Chrislo Haas（クリスロ・ハース/クリス・ハースは、ドイツ出身のミュージシャンで、Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses、Crime & the City Solution などのバンドとのシンセサイザー (Korg MS-20)の制作を通じて、1980 年代のドイツの音楽シーンに大きな影響を与え、テクノと現代のエレクトロニックダンスミュージックの創始者の一人とみなされています。

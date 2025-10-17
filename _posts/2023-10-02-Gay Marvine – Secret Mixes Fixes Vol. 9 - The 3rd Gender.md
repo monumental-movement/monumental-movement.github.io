@@ -4,7 +4,7 @@ title:  "Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Disco ]
-image: ../assets/images/Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender.jpg
+image: ../assets/images/Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender.webp
 ---
 
 「Secret Mixes Fixes Vol. 9 - The 3rd Gender」は、2008年にレーベル「Secret Mixes Fixes」からリリースされた本名Chuck HamptonによるプロジェクトGay MarvineのEPです。

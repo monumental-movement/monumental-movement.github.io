@@ -4,7 +4,7 @@ title:  "Various – Die Neuen Italo Superhits"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Compilation ]
-image: ../assets/images/Various – Die Neuen Italo Superhits.jpg
+image: ../assets/images/Various – Die Neuen Italo Superhits.webp
 ---
 
 「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。

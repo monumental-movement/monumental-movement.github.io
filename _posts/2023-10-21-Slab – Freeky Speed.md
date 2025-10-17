@@ -4,7 +4,7 @@ title:  "Slab – Freeky Speed"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Big Beat, Break Beat ]
-image: ../assets/images/Slab – Freeky Speed.jpg
+image: ../assets/images/Slab – Freeky Speed.webp
 ---
 
 Slabは、Lol HammondとNina Walshによるユニット。

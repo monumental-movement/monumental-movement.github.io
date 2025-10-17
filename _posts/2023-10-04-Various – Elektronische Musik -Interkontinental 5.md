@@ -4,7 +4,7 @@ title:  "Various – Elektronische Musik -Interkontinental 5"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, Minimal, Ambient ]
-image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.jpg
+image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.webp
 ---
 
 「Various – Elektronische Musik -Interkontinental 5」は、

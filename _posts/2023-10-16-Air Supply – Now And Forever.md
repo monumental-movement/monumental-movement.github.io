@@ -4,7 +4,7 @@ title:  "Air Supply – Now And Forever"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Soft Rock ]
-image: ../assets/images/Air Supply – Now And Forever.jpg
+image: ../assets/images/Air Supply – Now And Forever.webp
 ---
 
 81年にリリースされたAir Supply（エア・サプライ）のアルバム「Now and Forever（ナウ・アンド・フォーエヴァー）」は、最もヒットした彼らの代表アルバム。

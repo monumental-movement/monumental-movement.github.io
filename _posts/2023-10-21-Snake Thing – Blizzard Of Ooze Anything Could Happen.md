@@ -4,7 +4,7 @@ title:  "Snake Thing – Blizzard Of Ooze Anything Could Happen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
-image: ../assets/images/Snake Thing – Blizzard Of Ooze Anything Could Happen.jpg
+image: ../assets/images/Snake Thing – Blizzard Of Ooze Anything Could Happen.webp
 ---
 
 Snake Thingは、Nick Taylorのソロプロジェクト。

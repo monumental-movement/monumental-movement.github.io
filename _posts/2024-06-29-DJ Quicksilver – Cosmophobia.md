@@ -4,7 +4,7 @@ title:  "DJ Quicksilver – Cosmophobia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Anthem, 90s ]
-image: ../assets/images/DJ Quicksilver – Cosmophobia.jpg
+image: ../assets/images/DJ Quicksilver – Cosmophobia.webp
 ---
 
 DJ Quicksilver（DJクイックシルバー）は、ドイツ系トルコ人のプロデューサー・DJ。代表曲に「Bellissima」や「Ameno」などがある。Ian van Dahl, Faithless（フェイスレス）,  The Verve（ザ・ヴァーヴ）のリミキサーとしても活動している。

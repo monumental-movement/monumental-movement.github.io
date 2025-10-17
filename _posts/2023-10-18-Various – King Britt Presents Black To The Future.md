@@ -4,7 +4,7 @@ title:  "Various – King Britt Presents Black To The Future"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Deep House ]
-image: ../assets/images/Various – King Britt Presents Black To The Future.jpg
+image: ../assets/images/Various – King Britt Presents Black To The Future.webp
 ---
 
 フィラデルフィアのハウスシーンのキーパーソンKing Britt（キング・ブリット）によるコンピレーション 。

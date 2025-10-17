@@ -4,7 +4,7 @@ title:  "Arti$try – The Worker"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/Arti$try – The Worker.jpg
+image: ../assets/images/Arti$try – The Worker.webp
 ---
 
 Arti$tryは、Marco VerkuylenとBenjamin Kuytenによるユニット。「Arti$try – The Worker」は、オランダのハウスレーベルFresh Fruit Recordsより、1998年にリリースされた。

@@ -4,7 +4,7 @@ title:  "Band Aid – Do They Know It's Christmas"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
-image: ../assets/images/Band Aid – Do They Know It's Christmas.jpg
+image: ../assets/images/Band Aid – Do They Know It's Christmas.webp
 ---
 
 Band Aid（バンドエイド）は、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。

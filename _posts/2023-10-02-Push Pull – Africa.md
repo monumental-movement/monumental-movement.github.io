@@ -4,7 +4,7 @@ title:  "Push Pull – Africa"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal, Minimal ]
-image: ../assets/images/Push Pull – Africa.jpg
+image: ../assets/images/Push Pull – Africa.webp
 ---
 
 「Push/Pull– Africa」は、エレクトロレジェンドNEWCLEUSの中心人物BEN CENAC（COZMO D/Maurice Cenac）の別名義で、1990年にDeep Endレーベルよリーリスされたトライバルハウスレコード。

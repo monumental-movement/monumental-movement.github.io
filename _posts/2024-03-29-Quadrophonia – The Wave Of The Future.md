@@ -4,7 +4,7 @@ title:  "Quadrophonia – The Wave Of The Future"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Break Beat, Hard Techno ]
-image: ../assets/images/Quadrophonia – The Wave Of The Future.jpg
+image: ../assets/images/Quadrophonia – The Wave Of The Future.webp
 ---
 
 Quadrophonia（クアドロフォニア）は、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。

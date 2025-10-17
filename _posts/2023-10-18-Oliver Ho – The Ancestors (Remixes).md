@@ -4,7 +4,7 @@ title:  "Oliver Ho – The Ancestors (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Oliver Ho – The Ancestors (Remixes).jpg
+image: ../assets/images/Oliver Ho – The Ancestors (Remixes).webp
 ---
 
 Oliver Ho（オリヴァー・ホー）は、ロンドンを拠点とするDJ/プロデューサー。「The Ancestors (Remixes)」　は、ハード・ミニマル・テクノを専門とするドイツのテクノレーベルFine Audio Recordingsから2002年にリリースされた。

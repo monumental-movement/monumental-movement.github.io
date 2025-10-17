@@ -4,7 +4,7 @@ title:  "Orbital – Impact - The Remix"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
-image: ../assets/images/Orbital – Impact - The Remix.jpg
+image: ../assets/images/Orbital – Impact - The Remix.webp
 ---
 
 The Chemical Brothers(ケミカル・ブラザーズ)、Underworld(アンダーワールド)、 The Prodigy(プロディジー)などと並び90年代のテクノシーンを代表するUKエレクトロ／テクノ ミュージックの大御所Orbital(オービタル)の最も称賛されたアルバム『Orbital 2(Brown Album)』(1993)からピックアップしたシングルをremixした作品。

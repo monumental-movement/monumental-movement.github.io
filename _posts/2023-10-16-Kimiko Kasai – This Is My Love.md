@@ -4,7 +4,7 @@ title:  "Kimiko Kasai – This Is My Love"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Jazz ]
-image: ../assets/images/Kimiko Kasai – This Is My Love.jpg
+image: ../assets/images/Kimiko Kasai – This Is My Love.webp
 ---
 
 「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。

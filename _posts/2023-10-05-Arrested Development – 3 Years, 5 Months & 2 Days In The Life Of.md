@@ -4,7 +4,7 @@ title:  "Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hiphop, Classic ]
-image: ../assets/images/Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of.jpg
+image: ../assets/images/Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of.webp
 ---
 
 「3 Years, 5 Months & 2 Days in the Life Of...」は、アレステッド・ディベロプメントのデビューアルバムであり、大きな成功を収めました。アルバムは、バンドのメンバーが経験した実話や個人的なストーリーに基づいており、彼らの日常生活からのインスピレーションを反映しています。

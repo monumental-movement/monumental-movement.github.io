@@ -4,7 +4,7 @@ title:  "Elvis Costello And The Attractions – Let Them All Talk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Rock, 80s ]
-image: ../assets/images/Elvis Costello And The Attractions – Let Them All Talk.jpg
+image: ../assets/images/Elvis Costello And The Attractions – Let Them All Talk.webp
 ---
 
 エルヴィス・コステロは、ローリング・ストーンの選ぶ歴史上最も偉大な100組のアーティストにも選ばれ、2003年にはエルヴィス・コステロ&ジ・アトラクションズとしてロックの殿堂入りを果たしている。

@@ -4,7 +4,7 @@ title:  "Debra Dolce – Goodies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
-image: ../assets/images/Debra Dolce – Goodies.jpg
+image: ../assets/images/Debra Dolce – Goodies.webp
 ---
 
 「Goodies」は、

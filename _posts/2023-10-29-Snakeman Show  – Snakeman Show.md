@@ -4,7 +4,7 @@ title:  "Snakeman Show  – Snakeman Show"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno ]
-image: ../assets/images/Snakeman Show  – Snakeman Show.jpg
+image: ../assets/images/Snakeman Show  – Snakeman Show.webp
 ---
 
 スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、

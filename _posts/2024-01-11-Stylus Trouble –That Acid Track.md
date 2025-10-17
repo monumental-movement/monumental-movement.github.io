@@ -4,7 +4,7 @@ title:  "Stylus Trouble –That Acid Track"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid ]
-image: ../assets/images/Stylus Trouble –That Acid Track.jpg
+image: ../assets/images/Stylus Trouble –That Acid Track.webp
 ---
 
 Stylus Trouble（Peter Kenneth Heller）はUK出身のDJ / プロデューサー。Pete Heller（ピートヘラー）名義でも活動。

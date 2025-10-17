@@ -4,7 +4,7 @@ title:  "Proxy – Decoy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
-image: ../assets/images/Proxy – Decoy.jpg
+image: ../assets/images/Proxy – Decoy.webp
 ---
 
 ProxyことEvgeny Pozharnovは、ロシアのエレクトロニックプロデューサー・DJ。Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer, Electric Zooなどの世界的なフェスでプレイし成功を収めている。 

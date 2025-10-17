@@ -4,7 +4,7 @@ title:  "VA – Mellow Beats, Spirits & Wisdom"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Tech House, 00s ]
-image: ../assets/images/Various – Mellow Beats.jpg
+image: ../assets/images/Various – Mellow Beats.webp
 ---
 
 2008年にP-Vine Recordsからリリースされた

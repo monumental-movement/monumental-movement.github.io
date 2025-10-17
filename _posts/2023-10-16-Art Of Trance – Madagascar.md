@@ -4,7 +4,7 @@ title:  "Art Of Trance – Madagascar"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
-image: ../assets/images/Art Of Trance – Madagascar.jpg
+image: ../assets/images/Art Of Trance – Madagascar.webp
 ---
 
 A面はMatthias HoffmannとRalf HildenbeutelのジャーマントランスプロジェクトCygnus Xによるremix。

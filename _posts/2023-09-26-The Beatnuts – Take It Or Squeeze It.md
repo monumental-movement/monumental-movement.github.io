@@ -4,7 +4,7 @@ title:  "The Beatnuts – Take It Or Squeeze It"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Rap ]
-image: ../assets/images/The Beatnuts – Take It Or Squeeze It.jpg
+image: ../assets/images/The Beatnuts – Take It Or Squeeze It.webp
 ---
 
 「The Beatnuts – Take It Or Squeeze It」は、ヒップホップグループであるビートナッツの4番目のスタジオアルバムです。2001年にリリースされたこのアルバムは、The Beatnutsの特徴的なプロダクションスタイルとウィットに富んだ歌詞を披露しています。

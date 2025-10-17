@@ -4,7 +4,7 @@ title:  "StudioVoice別冊 オールジャンルディスクガイド スタジ�
 author: mmr
 categories: [ Magazine ]
 tags: [ Disk Guide, Studio Voice ]
-image: ../assets/images/StudioVoice別冊 オールジャンルディスクガイド スタジオボイス.jpg
+image: ../assets/images/StudioVoice別冊 オールジャンルディスクガイド スタジオボイス.webp
 ---
 
 #### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス

@@ -4,7 +4,7 @@ title:  "Norman Chung – Debut"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Norman Chung – Debut.jpg
+image: ../assets/images/Norman Chung – Debut.webp
 ---
 
 有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。

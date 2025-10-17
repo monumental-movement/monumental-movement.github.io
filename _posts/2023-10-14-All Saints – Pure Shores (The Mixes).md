@@ -4,7 +4,7 @@ title:  "All Saints – Pure Shores (The Mixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Pops ]
-image: ../assets/images/All Saints – Pure Shores (The Mixes).jpg
+image: ../assets/images/All Saints – Pure Shores (The Mixes).webp
 ---
 
 A面１曲目はUK出身のDJ/プロデューサー/サウンドデザイナーCosmosことTom Middleton（トム・ミドルトン）によるremix。

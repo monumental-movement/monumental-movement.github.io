@@ -4,7 +4,7 @@ title:  "Indigo Featuring Joy Malcolm – Fly To The Moon"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/Indigo Featuring Joy Malcolm – Fly To The Moon.jpg
+image: ../assets/images/Indigo Featuring Joy Malcolm – Fly To The Moon.webp
 ---
 
 1999年にUKのレーベル「Defender Music」からリリースされた本名Luke Purewalによるプロジェクト「Indigo」のEPです。

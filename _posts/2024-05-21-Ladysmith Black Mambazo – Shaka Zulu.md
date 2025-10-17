@@ -4,7 +4,7 @@ title:  "Ladysmith Black Mambazo – Shaka Zulu"
 author: mmr
 categories: [ Cassette ]
 tags: [ Chorus, African, 80s ]
-image: ../assets/images/Ladysmith Black Mambazo – Shaka Zulu.jpg
+image: ../assets/images/Ladysmith Black Mambazo – Shaka Zulu.webp
 ---
 
 Joseph Shabalala（ジョセフ・シャバララ）が1964年に結成Ladysmith Black Mambazoは、イシカタミア(ズールー人の伝統的な音楽)やムブーベスタイルで歌う南アフリカの男性コーラスグループ。

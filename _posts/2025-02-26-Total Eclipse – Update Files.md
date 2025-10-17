@@ -4,7 +4,7 @@ title:  "Total Eclipse – Update Files"
 author: mmr
 categories: [ CD ]
 tags: [ Psy-Trance, Trance, 00s ]
-image: ../assets/images/Total Eclipse – Update Files.jpg
+image: ../assets/images/Total Eclipse – Update Files.webp
 ---
 
 Total Eclipseは、1992年に3人のフランス人プロデューサーによって始まったプロジェクト。1995年＆1996年にリリースしたゴアトランスアルバムで有名になった。

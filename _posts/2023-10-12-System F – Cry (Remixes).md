@@ -4,7 +4,7 @@ title:  "System F – Cry (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Dutch Trance ]
-image: ../assets/images/System F – Cry (Remixes).jpg
+image: ../assets/images/System F – Cry (Remixes).webp
 ---
 
 「System F – Cry (Remixes)」の

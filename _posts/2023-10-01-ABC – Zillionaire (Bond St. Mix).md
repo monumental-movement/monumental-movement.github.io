@@ -4,7 +4,7 @@ title:  "ABC – Zillionaire (Bond St. Mix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, Synth-Pop ]
-image: ../assets/images/ABC – Zillionaire (Bond St. Mix).jpg
+image: ../assets/images/ABC – Zillionaire (Bond St. Mix).webp
 ---
 
 ABCは、1980年にイギリスのシェフィールドで結成されたポップバンドで、1980年代の「The Look of Love」や「When Smokey Sings」などの曲で最も知られています。1997年以降、ABCはシンガーで創設者のマーティン・フライによるソロプロジェクトとなり、さまざまなミュージシャンと共同制作を行っています。

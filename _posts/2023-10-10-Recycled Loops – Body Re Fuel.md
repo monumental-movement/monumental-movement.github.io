@@ -4,7 +4,7 @@ title:  "Recycled Loops – Body Re Fuel"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
-image: ../assets/images/Recycled Loops – Body Re Fuel.jpg
+image: ../assets/images/Recycled Loops – Body Re Fuel.webp
 ---
 
 Recycled Loopsは、Umek（ウメック）とValentino Kanzyani（ヴァレンチノ・カンジャニ）によるスロベニア発のテクノプロジェクト。

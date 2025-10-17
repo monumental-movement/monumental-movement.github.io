@@ -4,7 +4,7 @@ title:  "So-Low – The Hourglass Pulse"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive, Rare ]
-image: ../assets/images/So-Low – The Hourglass Pulse.jpg
+image: ../assets/images/So-Low – The Hourglass Pulse.webp
 ---
 
 「So-Low – The Hourglass / Pulse」は、エセックスを拠点とするプログレッシブハウスレーベルX-Gate Recordsから1992年にリリースされた。

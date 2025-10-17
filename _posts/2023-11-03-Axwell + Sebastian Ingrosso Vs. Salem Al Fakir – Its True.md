@@ -4,7 +4,7 @@ title:  "Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
-image: ../assets/images/Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True.jpg
+image: ../assets/images/Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True.webp
 ---
 
 Axwell（アクスウェル）ことAxel Christofer Hedforsは、スウェーデンの DJ、レコード プロデューサー、リミキサー、そして Axtone Records のオーナー。

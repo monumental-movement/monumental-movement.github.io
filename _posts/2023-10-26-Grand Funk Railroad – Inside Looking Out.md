@@ -4,7 +4,7 @@ title:  "Grand Funk Railroad – Inside Looking Out"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock, 7inch ]
-image: ../assets/images/Grand Funk Railroad – Inside Looking Out.jpg
+image: ../assets/images/Grand Funk Railroad – Inside Looking Out.webp
 ---
 
 Grand Funk Railroad（グランド ファンク レイルロード/グランドファンク/GFR) は、1970 年代に活躍したアメリカのハードロックバンドです。

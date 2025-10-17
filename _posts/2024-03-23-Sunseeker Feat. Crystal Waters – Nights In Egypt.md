@@ -4,7 +4,7 @@ title:  "Sunseeker Feat. Crystal Waters – Nights In Egypt"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electronic, 00s ]
-image: ../assets/images/Sunseeker Feat. Crystal Waters – Nights In Egypt.jpg
+image: ../assets/images/Sunseeker Feat. Crystal Waters – Nights In Egypt.webp
 ---
 
 フィーチャリングされているCrystal Waters（クリスタル・ウォーターズ）はハウス・ボーカリストで1961年にニュージャージー州デプトフォード・タウンシップ生まれました。

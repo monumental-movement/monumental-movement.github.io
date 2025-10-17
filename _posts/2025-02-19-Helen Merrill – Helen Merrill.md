@@ -4,7 +4,7 @@ title:  "Helen Merrill – Helen Merrill"
 author: mmr
 categories: [ CD ]
 tags: [ Bop, Cool Jazz, Vocal, 50s ]
-image: ../assets/images/Helen Merrill – Helen Merrill.jpg
+image: ../assets/images/Helen Merrill – Helen Merrill.webp
 ---
 
 Helen Merrill(ヘレン・メリル)は、1950年代〜60年代に活躍したアメリカのジャズヴォーカリスト。

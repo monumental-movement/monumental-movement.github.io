@@ -4,7 +4,7 @@ title:  "Various – Raging Thrash From Blind Vision"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Hardcore ]
-image: ../assets/images/Various – Raging Thrash From Blind Vision.jpg
+image: ../assets/images/Various – Raging Thrash From Blind Vision.webp
 ---
 
 「Raging Thrash From Blind Vision」は、

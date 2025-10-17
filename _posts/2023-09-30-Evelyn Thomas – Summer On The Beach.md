@@ -4,7 +4,7 @@ title:  "Evelyn Thomas – Summer On The Beach"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, Hi NRG ]
-image: ../assets/images/Evelyn Thomas – Summer On The Beach.jpg
+image: ../assets/images/Evelyn Thomas – Summer On The Beach.webp
 ---
 
 1987年にUKのレーベル「Nightmare Gold Records」からリリースされた本名Ellen Lucille Thomasによるシングル「Evelyn Thomas」です。

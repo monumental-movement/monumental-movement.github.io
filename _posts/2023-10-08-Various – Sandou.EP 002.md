@@ -4,7 +4,7 @@ title:  "Various – Sandou.EP 002"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, Break Beat ]
-image: ../assets/images/Various – Sandou.EP 002.jpg
+image: ../assets/images/Various – Sandou.EP 002.webp
 ---
 
 「Sandou.EP 002」は、

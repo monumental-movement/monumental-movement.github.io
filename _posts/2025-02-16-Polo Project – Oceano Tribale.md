@@ -4,7 +4,7 @@ title:  "Polo Project – Oceano Tribale"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal House, 00s ]
-image: ../assets/images/Polo Project – Oceano Tribale.jpg
+image: ../assets/images/Polo Project – Oceano Tribale.webp
 ---
 
 Polo Projectは、イタリアのDJ・プロデューサーMarco Cecereの別名義。Cecè, Marco Polo, Zen 名義でも活動している。

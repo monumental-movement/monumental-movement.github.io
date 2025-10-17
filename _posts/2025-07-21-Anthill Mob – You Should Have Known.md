@@ -4,7 +4,7 @@ title:  "Anthill Mob – You Should Have Known"
 author: mmr
 categories: [ Vinyl ]
 tags: [ UK Garage, House, 00s ]
-image: ../assets/images/Anthill Mob – You Should Have Known.jpg
+image: ../assets/images/Anthill Mob – You Should Have Known.webp
 ---
 
 Anthill Mob(アントヒルモブ)は、ロンドン東部を代表するUKガレージグループ。

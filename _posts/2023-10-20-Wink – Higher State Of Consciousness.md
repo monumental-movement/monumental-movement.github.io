@@ -4,7 +4,7 @@ title:  "Wink – Higher State Of Consciousness"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid ]
-image: ../assets/images/Wink – Higher State Of Consciousness.jpg
+image: ../assets/images/Wink – Higher State Of Consciousness.webp
 ---
 
 Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフィア出身のエレクトロニックダンスミュージックのDJ/プロデューサー/リミキサー。Winkは、1990 年代初頭のアメリカのレイヴシーンの先駆的DJで、「Higher State Of Consciousness」は彼の代表曲のひとつ。

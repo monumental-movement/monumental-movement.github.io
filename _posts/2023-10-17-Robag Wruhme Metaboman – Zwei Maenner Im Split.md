@@ -4,7 +4,7 @@ title:  "Robag Wruhme Metaboman – Zwei Maenner Im Split"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Robag Wruhme Metaboman – Zwei Maenner Im Split.jpg
+image: ../assets/images/Robag Wruhme Metaboman – Zwei Maenner Im Split.webp
 ---
 
 「Zwei Maenner Im Split」は、

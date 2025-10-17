@@ -4,7 +4,7 @@ title:  "Dibaba – Love Train"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid, Electro ]
-image: ../assets/images/Dibaba – Love Train.jpg
+image: ../assets/images/Dibaba – Love Train.webp
 ---
 
 2005年リリースのスウェーデン人のOLLE CORNEERによるユニットDIBABAによるEPです。

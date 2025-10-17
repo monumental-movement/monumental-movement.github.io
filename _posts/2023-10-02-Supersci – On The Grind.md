@@ -4,7 +4,7 @@ title:  "Supersci – On The Grind"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
-image: ../assets/images/Supersci – On The Grind.jpg
+image: ../assets/images/Supersci – On The Grind.webp
 ---
 
 「On The Grind」は、

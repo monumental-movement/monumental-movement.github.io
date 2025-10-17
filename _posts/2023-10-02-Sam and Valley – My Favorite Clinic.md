@@ -4,7 +4,7 @@ title:  "Sam & Valley – My Favorite Clinic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Techno ]
-image: ../assets/images/Sam and Valley – My Favorite Clinic.jpg
+image: ../assets/images/Sam and Valley – My Favorite Clinic.webp
 ---
 
 「My Favorite Clinic」は、

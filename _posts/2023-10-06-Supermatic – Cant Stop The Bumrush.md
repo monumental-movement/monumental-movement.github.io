@@ -4,7 +4,7 @@ title:  "Supermatic – Can't Stop The Bumrush"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Break Beat ]
-image: ../assets/images/Supermatic – Can't Stop The Bumrush.jpg
+image: ../assets/images/Supermatic – Can't Stop The Bumrush.webp
 ---
 
 「Can't Stop The Bumrush」は、

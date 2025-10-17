@@ -4,7 +4,7 @@ title:  "The Junkies & Nathan Barato – The Big Smoke"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/The Junkies & Nathan Barato – The Big Smoke.jpg
+image: ../assets/images/The Junkies & Nathan Barato – The Big Smoke.webp
 ---
 
 The Junkiesは、カナダのトロントを拠点に活動するDJ /プロデューサーValentino ColavecchiaとVincenzo Nicolazzoのデュオ。

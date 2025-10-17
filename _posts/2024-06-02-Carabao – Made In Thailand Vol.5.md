@@ -4,7 +4,7 @@ title:  "Carabao – Made In Thailand Vol.5"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Thai Rock, Folk, 80s ]
-image: ../assets/images/Carabao – Made In Thailand Vol.5.jpg
+image: ../assets/images/Carabao – Made In Thailand Vol.5.webp
 ---
 
 Yuanyong Opakul(ユンヨン・オーパークン/ 別名エート・カラバオ(Aed)) と Kirati Promsaka Na Sakon Nakhon (キラティ・プロムサカ・ナ・サコン・ナコーン)  により1982年にフィリピンで結成されたCarabao (カラバオ) は、タイやアジア諸国で非常に人気のあるタイのロックバンド。

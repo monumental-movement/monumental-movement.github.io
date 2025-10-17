@@ -4,7 +4,7 @@ title:  "Zeni Geva – 10000 Light Years"
 author: mmr
 categories: [ CD ]
 tags: [ Noise, Progressive, Rock ]
-image: ../assets/images/Zeni Geva – 10000 Light Years.jpg
+image: ../assets/images/Zeni Geva – 10000 Light Years.webp
 ---
 
 「Zeni Geva – 10000 Light Years」は、

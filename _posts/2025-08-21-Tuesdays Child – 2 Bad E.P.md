@@ -4,7 +4,7 @@ title:  "Tuesdays Child – 2 Bad E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Tuesdays Child – 2 Bad E.P.jpg
+image: ../assets/images/Tuesdays Child – 2 Bad E.P.webp
 ---
 
 Tuesdays Childは、Robert Chetcuti がエレクトロニック／ハウス系のプロジェクトで使用する別名義。Robert Chetcuti は、Steve Mac とのハウスデュオRhythm Masters(リズムマスターズ)としての活動がよく知られており、1990年代～2000年代前半にかけてヨーロッパのクラブ・シーンで人気を博した。

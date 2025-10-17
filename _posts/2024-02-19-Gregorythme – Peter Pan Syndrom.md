@@ -4,7 +4,7 @@ title:  "Gregorythme – Peter Pan Syndrom"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, 00s ]
-image: ../assets/images/Gregorythme – Peter Pan Syndrom.jpg
+image: ../assets/images/Gregorythme – Peter Pan Syndrom.webp
 ---
 
 Gregorythme（

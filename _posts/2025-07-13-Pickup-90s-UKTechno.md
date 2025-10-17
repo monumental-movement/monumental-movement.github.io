@@ -12,7 +12,7 @@ image: ../assets/images/pickup-90s-uktechno.webp
 <hr>
 
 ### Justin Berkovi – Fast - Wide E.P.
-<a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.jpg"></a>
+<a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
 Released：1998年
 
@@ -40,7 +40,7 @@ B2. Neon
 <hr>
 
 ### Autechre – Envane
-<a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.jpg"></a>
+<a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.webp"></a>
 
 Released：1997年
 
@@ -65,7 +65,7 @@ Released：1997年
 
 
 ### Luke Slater – Freek - Funk
-<a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.jpg"></a>
+<a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
 Released：1997年
 
@@ -99,7 +99,7 @@ UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90�
 <hr>
 
 ### D.O.M. – Acid War (Liberator DJs RMX)
-<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).jpg"></a>
+<a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
 
 Released：1995年（オリジナル），リミックス盤は2006年
 
@@ -118,7 +118,7 @@ A.  Acid War (Liberator DJs RMX)
 <hr>
 
 ### Surgeon – Communications
-<a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.jpg"></a>
+<a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
 
 Released：1996年
 
@@ -144,7 +144,7 @@ D2. Optic
 <hr>
 
 ### Surgeon – Dry
-<a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.jpg"></a>
+<a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
 Released：1999年
 
@@ -167,7 +167,7 @@ B2. Untitled
 <hr>
 
 ### Hypnotist – House Is Mine ’92
-<a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.jpg"></a>
+<a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
 
 Released：1992年 UKテクノユニットによるハードコア・テクノ
 

@@ -4,7 +4,7 @@ title:  "Dusty Kid – Beyond That Hill"
 author: mmr
 categories: [ CD ]
 tags: [ Techno ]
-image: ../assets/images/Dusty Kid – Beyond That Hill.jpg
+image: ../assets/images/Dusty Kid – Beyond That Hill.webp
 ---
 
 Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデューサー兼DJ、Paolo Alberto Lodde(パオロ・アル ベルト・ロッデ)の別名です。

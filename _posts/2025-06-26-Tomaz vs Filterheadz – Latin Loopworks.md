@@ -4,7 +4,7 @@ title:  "Tomaz vs Filterheadz – Latin Loopworks"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, 00s ]
-image: ../assets/images/Tomaz vs Filterheadz – Latin Loopworks.jpg
+image: ../assets/images/Tomaz vs Filterheadz – Latin Loopworks.webp
 ---
 
 Tomaz vs Filterheadzは、ベルギーのテクノDJ&プロデューサーTomaz（別名Thomas Janssens）とデュオFilterheadz（Bert Filip Wilmaers & Maarten Jan Wilmaers）のコラボレーション。

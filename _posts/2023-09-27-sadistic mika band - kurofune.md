@@ -4,7 +4,7 @@ title:  "Sadistic Mika Band – Kurofune"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Psychedelic ]
-image: ../assets/images/サディスティック・ミカ・バンド – 黒船.jpg
+image: ../assets/images/サディスティック・ミカ・バンド – 黒船.webp
 ---
 
 「サディスティック・ミカ・バンド」は、1970年代に活躍した日本のロックバンドであり、「黒船」は、1974年にリリースされたサディスティック・ミカ・バンドの2ndアルバムです。

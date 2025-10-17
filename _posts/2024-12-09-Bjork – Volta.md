@@ -4,7 +4,7 @@ title:  "Björk – Volta"
 author: mmr
 categories: [ CD ]
 tags: [ Leftfield, Tribal, Electro, Abstract, Ballad ]
-image: ../assets/images/Bjork – Volta.jpg
+image: ../assets/images/Bjork – Volta.webp
 ---
 
 Voltaは、2007年にリリースされたBjörkの6枚目のスタジオアルバム。Mark Bell、Timbaland、Danja、Antony & the JohnsonsのAntony Hegarty(Anohni Hegarty)など、複数のアーティストが参加している。

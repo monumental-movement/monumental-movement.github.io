@@ -4,7 +4,7 @@ title:  "Partners In Kryme – Turtle Power"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap, 90s ]
-image: ../assets/images/Partners In Kryme – Turtle Power.jpg
+image: ../assets/images/Partners In Kryme – Turtle Power.webp
 ---
 
 Partners in Kryme (Partnerz in Kryme) は、ニューヨーク出身のJames Alpern（ジェームス・アルパーン）とRichard Usher（リチャード・アッシャー）によるヒップホップデュオ。

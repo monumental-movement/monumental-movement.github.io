@@ -4,7 +4,7 @@ title:  "Formologic – Symphonic Language"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Dutch Trance, 00s ]
-image: ../assets/images/Formologic – Symphonic Language.jpg
+image: ../assets/images/Formologic – Symphonic Language.webp
 ---
 
 Formologic ことRonald Van Gelderen（ロナルド ファン スペンドンク）は、オランダ出身のトランスDJ・プロデューサー。Kid Vicious（キッドヴィシャス）としても知られ、N-Fluence、Electrobics、Masai名義でもリリースしている。

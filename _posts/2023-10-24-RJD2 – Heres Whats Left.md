@@ -4,7 +4,7 @@ title:  "RJD2 – Here's What's Left"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
-image: ../assets/images/RJD2 – Here's What's Left.jpg
+image: ../assets/images/RJD2 – Here's What's Left.webp
 ---
 
 RJD2（Ramble Jon Krohn/ランブル・ジョン・クローン）は、USヒップホップ/エレクトロニックプロデューサー兼DJ。Soul Position、 MHz Legacy（MHz）、Icebird などのグループでも活躍。

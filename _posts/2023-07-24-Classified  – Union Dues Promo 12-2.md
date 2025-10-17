@@ -4,7 +4,7 @@ title:  "Classified  – Union Dues Promo 12-2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rare ]
-image: ../assets/images/Classified  – Union Dues Promo 12-2.jpg
+image: ../assets/images/Classified  – Union Dues Promo 12-2.webp
 ---
 
 Classified Classified（本名：Luke Donald Boyd）のUnion Dues Promo 12-2は、2002年に	レーベルHalfLife Recordsからリリースされました。

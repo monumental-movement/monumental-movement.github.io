@@ -4,7 +4,7 @@ title:  "Craig Alexander - The Exhibit A EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
-image: ../assets/images/Craig Alexander - The Exhibit A EP.jpg
+image: ../assets/images/Craig Alexander - The Exhibit A EP.webp
 ---
 
 クレイグ・アレキサンダーは、シカゴハウスミュージック界で30年以上のキャリアを築いてきた重要な存在です。

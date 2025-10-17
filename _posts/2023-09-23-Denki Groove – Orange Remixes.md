@@ -4,7 +4,7 @@ title:  "Denki Groove – Orange Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno ]
-image: ../assets/images/Denki Groove – Orange Remixes.jpg
+image: ../assets/images/Denki Groove – Orange Remixes.webp
 ---
 
 「ORANGE REMIXES」は電気グルーヴのアルバム「ORANGE」（1998年）の楽曲を他のアーティストやプロデューサーがリミックスしたバージョンを収録しています。リミキサーには、国内外の有名なアーティストやクリエイターが参加しており、電気グルーヴの音楽に新たな解釈やアレンジを加えた楽曲が収められています。

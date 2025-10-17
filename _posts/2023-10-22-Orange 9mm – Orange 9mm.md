@@ -4,7 +4,7 @@ title:  "Orange 9mm – Orange 9mm"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Post Hardcore ]
-image: ../assets/images/Orange 9mm – Orange 9mm.jpg
+image: ../assets/images/Orange 9mm – Orange 9mm.webp
 ---
 
 Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Malik（ チャカ・マリック）とChris Traynor （クリス・トレイナー）によって結成されたUSポストハードコアバンド。

@@ -4,7 +4,7 @@ title:  "UNKLE – In A State"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive, Remix ]
-image: ../assets/images/UNKLE – In A State.jpg
+image: ../assets/images/UNKLE – In A State.webp
 ---
 
 「In a State」は、イギリスのエレクトロニック・ミュージック・グループであるUNKLE（アンクル）による楽曲です。この曲は、彼らのアルバム「Psyence Fiction」に収録されており、その中でも特に注目されたトラックの一つです。

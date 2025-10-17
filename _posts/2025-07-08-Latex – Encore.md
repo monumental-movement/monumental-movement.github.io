@@ -4,7 +4,7 @@ title:  "Latex – Encore"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Tech House, 00s ]
-image: ../assets/images/Latex – Encore.jpg
+image: ../assets/images/Latex – Encore.webp
 ---
 
 Latex ことMichael Borrmannはドイツ出身のプロデューサー。Steril名義でも活動しており、DJ Hell のレーベルInternational Deejay Gigolo RecordsやLasergunなど様々なレーベルからリリースしている。

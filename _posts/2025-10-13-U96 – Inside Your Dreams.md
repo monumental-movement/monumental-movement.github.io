@@ -4,7 +4,7 @@ title:  "U96 – Inside Your Dreams"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive House, Trance, Euro House, Techno, 90s ]
-image: ../assets/images/U96 – Inside Your Dreams.jpg
+image: ../assets/images/U96 – Inside Your Dreams.webp
 ---
 
 U96は、DJ/プロデューサーのAlex Christensenとプロデューサーチーム Matizによって結成されたドイツの音楽プロジェクト。

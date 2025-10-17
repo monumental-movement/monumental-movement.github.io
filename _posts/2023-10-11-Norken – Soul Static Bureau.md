@@ -4,7 +4,7 @@ title:  "Norken – Soul Static Bureau"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, Rare ]
-image: ../assets/images/Norken – Soul Static Bureau.jpg
+image: ../assets/images/Norken – Soul Static Bureau.webp
 ---
 
 NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。

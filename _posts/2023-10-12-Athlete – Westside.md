@@ -4,7 +4,7 @@ title:  "Athlete – Westside"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Indie Rock ]
-image: ../assets/images/Athlete – Westside.jpg
+image: ../assets/images/Athlete – Westside.webp
 ---
 
 アスリートは、ロンドンで結成されたUKインディーロックバンド。メンバーは、ジョエル・ポット、キャリー・ウィレッツ、スティーブン・ロバーツ、ティム・ワンストールの4人。「Westside」は彼らの代表曲。

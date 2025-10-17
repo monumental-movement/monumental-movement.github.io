@@ -4,7 +4,7 @@ title:  "Sly & The Family Stone – Stand"
 author: mmr
 categories: [ Cassette ]
 tags: [ Funk, Soul ]
-image: ../assets/images/Sly & The Family Stone – Stand.jpg
+image: ../assets/images/Sly & The Family Stone – Stand.webp
 ---
 
 「Stand!」は、スライ＆ザ・ファミリー・ストーンの4枚目のスタジオアルバムであり、彼らの最も成功した作品の一つです。

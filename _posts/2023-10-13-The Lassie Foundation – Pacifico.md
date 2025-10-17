@@ -4,7 +4,7 @@ title:  "The Lassie Foundation – Pacifico"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Shoegaze, Rare ]
-image: ../assets/images/The Lassie Foundation – Pacifico.jpg
+image: ../assets/images/The Lassie Foundation – Pacifico.webp
 ---
 
 The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。

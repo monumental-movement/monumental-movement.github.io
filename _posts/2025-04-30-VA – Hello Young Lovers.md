@@ -4,7 +4,7 @@ title:  "VA – Hello Young Lovers"
 author: mmr
 categories: [ CD ]
 tags: [ Pop, Jpop, Shibuya-kei, 90s ]
-image: ../assets/images/VA – Hello Young Lovers.jpg
+image: ../assets/images/VA – Hello Young Lovers.webp
 ---
 
 1993年にリリースされた瀧見憲司主宰のインディーレーベルCrue-L Recordsのコンピレーションアルバム。

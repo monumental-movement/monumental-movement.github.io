@@ -4,7 +4,7 @@ title:  "Pianoheadz – It's Over (Distortion)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, 90s ]
-image: ../assets/images/Pianoheadz – It's Over (Distortion).jpg
+image: ../assets/images/Pianoheadz – It's Over (Distortion).webp
 ---
 
 PianoheadzはUSハウスのプロデューサーJose NuñezとErick Morilloによるユニット。

@@ -4,7 +4,7 @@ title:  "Trax-X – Phunky"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
-image: ../assets/images/Trax-X – Phunky.jpg
+image: ../assets/images/Trax-X – Phunky.webp
 ---
 
 Trax-X ことDanny Casseauは、ベルギー出身のテクノ／アシッド・プロデューサー／DJ。1990年代〜2000年代初期のベルギー・テクノ／アシッドシーンを代表する作品を多数リリースしている。Danny CasseauはTrax-X名義だけでなく、Atom-X、Molecule 66、DJ Argonic など様々な名義を使用している。

@@ -4,7 +4,7 @@ title:  "Gunne – Erfurt EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno, 00s ]
-image: ../assets/images/Gunne – Erfurt EP.jpg
+image: ../assets/images/Gunne – Erfurt EP.webp
 ---
 
 Gunne (Gunnar Lenke )は、ベルリンを拠点に活動するDJ／プロデューサーであり、Minimal & Tech HouseレーベルLebensfreude Recordsを運営している。

@@ -4,7 +4,7 @@ title:  "Raw Stylus – Use Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Funk, Soul, Acid Jazz, 90s ]
-image: ../assets/images/Raw Stylus – Use Me.jpg
+image: ../assets/images/Raw Stylus – Use Me.webp
 ---
 
 1990年代に活動したUKのアシッドジャズバンドRaw Stylus(ロウ・スタイラス)がBill Withers(ビル・ウィザーズ)の1972年のsoul・R&B名曲「Use Me」をカヴァー。

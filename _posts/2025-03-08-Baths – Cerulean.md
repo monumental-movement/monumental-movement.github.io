@@ -4,7 +4,7 @@ title:  "Baths – Cerulean"
 author: mmr
 categories: [ CD ]
 tags: [ Experimental, Hiphop ]
-image: ../assets/images/Baths – Cerulean.jpg
+image: ../assets/images/Baths – Cerulean.webp
 ---
 
 天才ビートメーカー として知られるBaths(バス)ことWill WiesenfeldはLAを拠点に活動するエレクトロニックミュージシャン。

@@ -4,7 +4,7 @@ title:  "Devilfish – Voodoo Authentica"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Devilfish – Voodoo Authentica.jpg
+image: ../assets/images/Devilfish – Voodoo Authentica.webp
 ---
 
 Devilfishは、Frederik SoderstromとSina Morshed Soloukによるテクノユニット。

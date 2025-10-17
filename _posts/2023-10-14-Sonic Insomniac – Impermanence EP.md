@@ -4,7 +4,7 @@ title:  "Sonic Insomniac – Impermanence EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Techno ]
-image: ../assets/images/Sonic Insomniac – Impermanence EP.jpg
+image: ../assets/images/Sonic Insomniac – Impermanence EP.webp
 ---
 
 Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。

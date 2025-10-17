@@ -4,7 +4,7 @@ title:  "Cygnus X – The Orange Theme (The Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Trance ]
-image: ../assets/images/Cygnus X – The Orange Theme (The Remixes).jpg
+image: ../assets/images/Cygnus X – The Orange Theme (The Remixes).webp
 ---
 
 Cygnus Xは、ドイツのテクノユニットであり、1990年代に活動していました。彼らは、トランスミュージックやハードトランスのサウンドで知られています。

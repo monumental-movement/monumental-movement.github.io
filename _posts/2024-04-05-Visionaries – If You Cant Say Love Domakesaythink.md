@@ -4,7 +4,7 @@ title:  "Visionaries – If You Can't Say Love Domakesaythink"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap, 00s ]
-image: ../assets/images/Visionaries – If You Can't Say Love Domakesaythink.jpg
+image: ../assets/images/Visionaries – If You Can't Say Love Domakesaythink.webp
 ---
 
 Visionaries（ヴィジョナリーズ/ビジョナリーズ）は、 1995年に結成されたロサンゼルスを拠点とする6人組コンシャス・ヒップホップ・グループ。

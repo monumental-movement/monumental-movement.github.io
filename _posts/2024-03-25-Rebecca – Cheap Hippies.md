@@ -4,7 +4,7 @@ title:  "Rebecca – Cheap Hippies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pops, 80s ]
-image: ../assets/images/Rebecca – Cheap Hippies.jpg
+image: ../assets/images/Rebecca – Cheap Hippies.webp
 ---
 
 「CHEAP HIPPIES（チープ ヒッピーズ）」は、1987年にリリースされたレベッカの３枚目の12インチ・シングル。

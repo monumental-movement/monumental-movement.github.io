@@ -4,7 +4,7 @@ title:  "Atrium – Jolly Joker"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Hi NRG, 90s ]
-image: ../assets/images/Atrium – Jolly Joker.jpg
+image: ../assets/images/Atrium – Jolly Joker.webp
 ---
 
 Atrium(アトリウム)は、イタロ・ディスコ/ユーロビート・プロジェクト。

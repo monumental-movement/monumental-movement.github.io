@@ -4,7 +4,7 @@ title:  "Various – Viennatone"
 author: mmr
 categories: [ CD ]
 tags: [ Breaks, Minimal ]
-image: ../assets/images/Various – Viennatone.jpg
+image: ../assets/images/Various – Viennatone.webp
 ---
 
 「Various – Viennatone」は、

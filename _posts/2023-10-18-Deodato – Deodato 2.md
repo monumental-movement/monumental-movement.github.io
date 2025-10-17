@@ -4,7 +4,7 @@ title:  "Deodato – Deodato 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk ]
-image: ../assets/images/Deodato – Deodato 2.jpg
+image: ../assets/images/Deodato – Deodato 2.webp
 ---
 
 Deodatoこと、Eumir Deodato（エウミール・デオダート）は、ブラジルのミュージシャン/作曲家/アレンジャー/プロデューサー。

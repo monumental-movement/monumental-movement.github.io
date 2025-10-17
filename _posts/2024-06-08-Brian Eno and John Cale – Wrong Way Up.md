@@ -4,7 +4,7 @@ title:  "Brian Eno & John Cale – Wrong Way Up"
 author: mmr
 categories: [ Cassette ]
 tags: [ Ambient, Relaxation, Healing, 90s, Rare ]
-image: ../assets/images/Brian Eno & John Cale – Wrong Way Up.jpg
+image: ../assets/images/Brian Eno & John Cale – Wrong Way Up.webp
 ---
 
 1990年にリリースされたBrian Eno（ブライアンイーノ） と John Cale（ジョンケイル）のスタジオ・アルバムアルバム「Wrong Way Up」のプロモ用カセットテープ。

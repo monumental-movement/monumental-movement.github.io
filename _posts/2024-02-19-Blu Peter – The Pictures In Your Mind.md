@@ -4,7 +4,7 @@ title:  "Blu Peter – The Pictures In Your Mind"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 90s ]
-image: ../assets/images/Blu Peter – The Pictures In Your Mind.jpg
+image: ../assets/images/Blu Peter – The Pictures In Your Mind.webp
 ---
 
 Blu Peter こと Peter Harris(ピーター・ハリス)は、南ウェールズ出身のイギリスのエレクトロニックダンスミュージックプロデューサー&DJ。1990年代初頭は、ロンドンの有名なクラブHeaven and Turnmillsでレジデントを務め、1990年代後半にはnu-NRG/ Hard NRGシーンで活躍した。

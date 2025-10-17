@@ -4,7 +4,7 @@ title:  "Hiroyuki Oda – Rise Cataract"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
-image: ../assets/images/Hiroyuki Oda – Rise Cataract.jpg
+image: ../assets/images/Hiroyuki Oda – Rise Cataract.webp
 ---
 
 Hiroyuki Oda（ヒロユキ オダ）こと、かんざきひろ (Hiro Kanzaki)

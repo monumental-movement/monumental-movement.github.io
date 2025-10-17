@@ -4,7 +4,7 @@ title:  "Timo Maas – Music For The Maases"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Timo Maas – Music For The Maases.jpg
+image: ../assets/images/Timo Maas – Music For The Maases.webp
 ---
 
 Timo Maas(ティモ・マース）は、1990年代から活躍するドイツのレジェンドDJ・プロデューサー・リミキサー。イビザのDC10、ベルリンのTresorをはじめ国内外の有名クラブ＆フェスでプレイし、2008年には自身のレーベルRockets & Poniesを立ち上げ、Wolfgang Haffner、Ricardo Villalobos、Maetrik、Nightmares on Wax、Addison Grooveなどのアーティストの作品をリリースしている。

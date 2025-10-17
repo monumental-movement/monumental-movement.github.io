@@ -4,7 +4,7 @@ title:  "Christiane F. Christiana – Wunderbar Health Dub"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Synth-pop, Leftfield, 00s ]
-image: ../assets/images/Christiane F. Christiana – Wunderbar Health Dub.jpg
+image: ../assets/images/Christiane F. Christiana – Wunderbar Health Dub.webp
 ---
 
 自伝的書籍「Christiane F. 」原題 『Wir Kinder vom Bahnhof Zoo』や映画などで知られるChristiane Vera FelscherinowによるChristiane F. ／Christiana名義でのElectro／Synth-pop／Leftfieldトラック。ドイツのレーベルPlayhouseから2003年にリリースされた。

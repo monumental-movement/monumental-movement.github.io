@@ -4,7 +4,7 @@ title:  "Rino Cerrone – Exact Moment EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, 00s ]
-image: ../assets/images/Rino Cerrone – Exact Moment EP.jpg
+image: ../assets/images/Rino Cerrone – Exact Moment EP.webp
 ---
 
 Rino Cerroneは、1990年からナポリを拠点に活動したイタリアのテクノ/テックハウスDJ・プロデューサー。(2024年没)

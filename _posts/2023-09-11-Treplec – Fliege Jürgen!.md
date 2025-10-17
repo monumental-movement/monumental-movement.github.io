@@ -4,7 +4,7 @@ title:  "Treplec – Fliege Jürgen! EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, Minimal ]
-image: ../assets/images/Treplec – Fliege Jürgen!.jpg
+image: ../assets/images/Treplec – Fliege Jürgen!.webp
 ---
 
 2006年リリース作品で、MilnormodernのレーベルオーナーであるNils ScheibeのプロジェクトTreplecによる2枚組EPは心地良いパーカッシヴでミニマルなリズムに、図太く低く鳴るベースとミステリアスなメロディーやパッドが入ってくるグルーヴィーなトラックたちです。

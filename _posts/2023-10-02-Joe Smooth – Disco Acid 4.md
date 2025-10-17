@@ -4,7 +4,7 @@ title:  "Joe Smooth – Disco Acid 4"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco, Acid ]
-image: ../assets/images/Joe Smooth – Disco Acid 4.jpg
+image: ../assets/images/Joe Smooth – Disco Acid 4.webp
 ---
 
 「Disco Acid 4」は、2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。

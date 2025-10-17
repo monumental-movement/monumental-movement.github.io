@@ -4,7 +4,7 @@ title:  "Joey Beltram – The Rising Sun（Tresor 214）"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Mix ]
-image: ../assets/images/Joey Beltram – The Rising Sun（Tresor 214）.jpg
+image: ../assets/images/Joey Beltram – The Rising Sun（Tresor 214）.webp
 ---
 
 Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。

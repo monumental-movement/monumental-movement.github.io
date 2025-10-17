@@ -4,7 +4,7 @@ title:  "The Boo Radleys – Barney (...And Me)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Indie Rock, Rock, 90s ]
-image: ../assets/images/The Boo Radleys – Barney.jpg
+image: ../assets/images/The Boo Radleys – Barney.webp
 ---
 
 1988年〜1999年まで活動し、2021年に再結成したシューゲイザーとブリットポップに関連したUKのオルタナティヴ・ロック・バンド。

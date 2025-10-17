@@ -4,7 +4,7 @@ title:  "Dave Aju – The Unorthodoctor EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
-image: ../assets/images/Dave Aju – The Unorthodoctor EP.jpg
+image: ../assets/images/Dave Aju – The Unorthodoctor EP.webp
 ---
 
 Dave AjuことMarc Barriteは、サンフランシスコに拠点活動するアメリカのDJ/プロデューサー。

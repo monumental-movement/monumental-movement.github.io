@@ -4,7 +4,7 @@ title:  "Jose 2 Hype – Mirage E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
-image: ../assets/images/Jose 2 Hype – Mirage E.P.jpg
+image: ../assets/images/Jose 2 Hype – Mirage E.P.webp
 ---
 
 Jose Gutierrez（ホセ・グティエレス）、別名 Jose 2 Hype は1992年以来、テクノシーン、レイヴカルチャーの先駆者の一人とされています。

@@ -4,7 +4,7 @@ title:  "M – More Drama"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, Tribal, 90s ]
-image: ../assets/images/M – More Drama.jpg
+image: ../assets/images/M – More Drama.webp
 ---
 
  「"M" – More Drama」は、1992年にJeff Mills（ジェフ・ミルズ）が設立したテクノレーベルAxisから「M」名義でリリースしたJeff Millsのテクノトラック。

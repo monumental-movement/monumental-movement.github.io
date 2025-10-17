@@ -4,7 +4,7 @@ title:  "Genecom – Quaternary EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno, Acid, 90s ]
-image: ../assets/images/Genecom – Quaternary EP.jpg
+image: ../assets/images/Genecom – Quaternary EP.webp
 ---
 
 Genecomは、スウェーデンのテクノDJ／プロデューサーAdam Beyer(アダム・ベイヤー)とコンポーザーPeter Benischによるプロジェクト。Audicom, Mental Glue, Rubber Duck, The Syncapator名義でも活動している。

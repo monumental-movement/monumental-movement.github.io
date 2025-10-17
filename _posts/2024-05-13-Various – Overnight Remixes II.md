@@ -4,7 +4,7 @@ title:  "Various – Overnight Remixes II"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Compilation, 90s ]
-image: ../assets/images/Various – Overnight Remixes II.jpg
+image: ../assets/images/Various – Overnight Remixes II.webp
 ---
 
 80年代後半から90年代のユーロハウス・テクノ・ニュービート・ガラージハウス系コンピレーションアルバム。

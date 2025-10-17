@@ -4,7 +4,7 @@ title:  "Frente  – Shape"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Folk ]
-image: ../assets/images/Frente  – Shape.jpg
+image: ../assets/images/Frente  – Shape.webp
 ---
 
 Frenteは、1989 年に結成されたオーストラリアのフォークポップ・インディー ポップグループ。オリジナルのメンバーは、サイモン・オースティン、アンジー・ハート、ティム・オコナー。 

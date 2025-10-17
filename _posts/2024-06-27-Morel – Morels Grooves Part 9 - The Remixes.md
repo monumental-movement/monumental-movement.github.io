@@ -4,7 +4,7 @@ title:  "Morel – Morel's Grooves Part 9 - The Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, NY House, 90s ]
-image: ../assets/images/Morel – Morel's Grooves Part 9 - The Remixes.jpg
+image: ../assets/images/Morel – Morel's Grooves Part 9 - The Remixes.webp
 ---
 
 Morel こと George Morel（ジョージ モレル）は、90年代初期のニューヨークのガレージ・ハウスシーンの中心人物の一人と言われるNYのDJ・レコードプロデューサー。

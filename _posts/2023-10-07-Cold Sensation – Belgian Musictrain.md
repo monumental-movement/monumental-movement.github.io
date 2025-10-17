@@ -4,7 +4,7 @@ title:  "Cold Sensation – Belgian Musictrain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New Beat ]
-image: ../assets/images/Cold Sensation – Belgian Musictrain.jpg
+image: ../assets/images/Cold Sensation – Belgian Musictrain.webp
 ---
 
 「Belgian Musictrain」はCold Sensation（コールド・センセーション）というベルギーの音楽グループによる楽曲です。この曲は1991年にリリースされました。

@@ -4,7 +4,7 @@ title:  "Charly Lownoise & Mental Theo –Together In Wonderland"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Happy Hardcore ]
-image: ../assets/images/Charly Lownoise & Mental Theo –Together In Wonderland.jpg
+image: ../assets/images/Charly Lownoise & Mental Theo –Together In Wonderland.webp
 ---
 
 1995年にオランダのレーベルMaste Maximum Recordsよりリリースされたチャーリー・ローノイズとメンタル・テオによるEPです。

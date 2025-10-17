@@ -4,7 +4,7 @@ title:  "Regurgitator – ...Art"
 author: mmr
 categories: [ CD ]
 tags: [  Alternative Rock, Rock, 90s ]
-image: ../assets/images/Regurgitator – Art.jpg
+image: ../assets/images/Regurgitator – Art.webp
 ---
 
 Regurgitator(リガージテーター)は、オーストラリア出身のオルタナティヴロックバンド。1993年後半にリードボーカル、ギター、キーボードのQuan Yeomans、ベースギター、キーボード、ボーカルのBen Ely、ドラムのMartin Leeによって結成された。

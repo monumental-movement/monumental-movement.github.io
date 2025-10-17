@@ -4,7 +4,7 @@ title:  "Ancient Future – Natural Rhythms"
 author: mmr
 categories: [ Cassette ]
 tags: [ Fusion, Rock, Psychedelic, Ambient ]
-image: ../assets/images/Ancient Future – Natural Rhythms.jpg
+image: ../assets/images/Ancient Future – Natural Rhythms.webp
 ---
 
 Ancient Futureは、世界で最も偉大なアコースティックギタリスト100人の1人として評されるMatthew Montfortにより1978年に結成されたワールドフュージョンミュージックグループ。

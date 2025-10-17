@@ -4,7 +4,7 @@ title:  "Snap! – Ooops Up"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro, 90s ]
-image: ../assets/images/Snap – Ooops Up.jpg
+image: ../assets/images/Snap – Ooops Up.webp
 ---
 
 Snap!(スナップ！)はドイツのユーロダンスグループ。

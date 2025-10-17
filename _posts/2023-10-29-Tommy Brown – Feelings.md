@@ -4,7 +4,7 @@ title:  "Tommy Brown – Feelings"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Italo ]
-image: ../assets/images/Tommy Brown – Feelings.jpg
+image: ../assets/images/Tommy Brown – Feelings.webp
 ---
 
 1993年にレーベル「Disc-O-Very Records」からリリースされたTommy BrownのEPです。

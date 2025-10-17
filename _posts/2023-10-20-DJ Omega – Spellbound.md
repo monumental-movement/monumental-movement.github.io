@@ -4,7 +4,7 @@ title:  "DJ Omega – Spellbound"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Ghettotech ]
-image: ../assets/images/DJ Omega – Spellbound.jpg
+image: ../assets/images/DJ Omega – Spellbound.webp
 ---
 
 DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。

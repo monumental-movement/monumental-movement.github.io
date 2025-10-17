@@ -4,7 +4,7 @@ title:  "New Life – Got 2 B Free"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro House, House, 90s ]
-image: ../assets/images/New Life – Got 2 B Free.jpg
+image: ../assets/images/New Life – Got 2 B Free.webp
 ---
 
 New Life は、Italian house / Eurodanceアクト49ersのヴォーカルとして知られているAnn-Marie Smithが参加するプロジェクト。

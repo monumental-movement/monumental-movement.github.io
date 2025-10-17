@@ -4,7 +4,7 @@ title:  "Circle Children – Indonesia  Mamba Mama"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal House, 90s ]
-image: ../assets/images/Circle Children – Indonesia Mamba Mama.jpg
+image: ../assets/images/Circle Children – Indonesia Mamba Mama.webp
 ---
 
 Circle Childrenは、USのDJ・プロデューサーArmand Van Helden（アーマンド・ヴァン・ヘルデン）の別名義の一つ。

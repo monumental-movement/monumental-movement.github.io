@@ -20,7 +20,7 @@ Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリ�
 ---
 
 ### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
-<a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.jpg"></a>
+<a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
 - **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
 
@@ -45,7 +45,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ---
 
 ### S.U.N. Project – *Zwork*
-<a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.jpg"></a>
+<a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
 - **リリース掲載日**：2025-09-05  
 
@@ -86,7 +86,7 @@ F2. Deeper And Deeper
 ---
 
 ### Psycomex – *Mexican Trance Compilation EP4*
-<a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.jpg"></a>
+<a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
 - **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
@@ -113,7 +113,7 @@ B2  Teen Sluts–Foust On Doust
 ---
 
 ### Akasha Project – *Always*
-<a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.jpg"></a>
+<a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
 - **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
@@ -141,7 +141,7 @@ B2. Whales 'n' Wave (Edit)
 ---
 
 ### Total Eclipse – *Update Files*
-<a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.jpg"></a>
+<a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
 - **解説**：フランス発の伝説的ユニット。重厚なレイヤーと荘厳な構成で、ゴアトランス世代には必携のアルバム。
@@ -174,7 +174,7 @@ B2. Whales 'n' Wave (Edit)
 ---
 
 ### Tim Schuldt – *Animatronic EP*
-<a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.jpg"></a>
+<a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
 - **解説**：ドイツ出身のアーティスト。クラフト感あるサウンドデザインで、現代的なPsy-Tranceを示す意欲作。
@@ -200,7 +200,7 @@ AA. Inner Child
 ---
 
 ### Various – *Resonance Mood*
-<a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.jpg"></a>
+<a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
 - **リリース掲載日**：2024-05-13  
 
@@ -233,7 +233,7 @@ F. Sandman – Target Eye
 ---
 
 ### Odds – *Odds E.P*
-<a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.jpg"></a>
+<a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
 - **解説**：Flying Rhino Recordsから1995年にリリース。ゴアトランス黄金期を代表するクラシックな一枚。

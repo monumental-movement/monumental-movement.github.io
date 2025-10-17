@@ -12,7 +12,7 @@ image: ../assets/images/pickup-dubstep.webp
 <hr>
 
 ### Benga & Walsh Vs Darqwan – Addicts / Megatection
-<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.jpg"></a>
+<a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
 特徴：異なるアプローチを持つ3名が各々の面を担当する、両極ともに魅力ある構成の1枚です。
 
@@ -37,7 +37,7 @@ B. Darqwan–Megatection
 
 
 ### Zed Bias – Ambush Riddim Cosmic Minefield
-<a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.jpg"></a>
+<a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 
 特徴：00年代ダブステップ黎明期を象徴するスタイルが色濃く反映されており、ビートの強靭さとベースの深みが聴きどころ。
@@ -63,7 +63,7 @@ B. Cosmic Minefield
 
 
 ### Distance – Night Vision Traffic (Remixes)
-<a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).jpg"></a>
+<a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).webp"></a>
 
 
 特徴：ダブステップの誕生期からシーンを牽引してきた Distance、Skream、そして日本を代表する Goth-Trad の組み合わせはまさに夢の共演。
@@ -89,7 +89,7 @@ B. Traffic (Goth-Trad Remix)
 
 
 ### Skrillex – Scary Monsters And Nice Sprites
-<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.jpg"></a>
+<a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 特徴：本作はSkrillexの名を世界的に確立したEPで、特に「Scary Monsters And Nice Sprites」はDubstepをメインストリームに押し上げた金字塔とも呼ばれています。
 
@@ -119,7 +119,7 @@ B. Traffic (Goth-Trad Remix)
 
 
 ### Aquasky – Nylon Roadster Cosmic Glue
-<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.jpg"></a>
+<a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 
 
 特徴：1996–97年にMoving Shadowレーベルからリリースされた本作は、ジャジーすぎる音から脱却し、穏やかで感情的なピアノセクションを特徴とした“滑らか”なブレイクビートを提供。まるで子守唄のように心地よく、Dubstepに通じる重厚なベースの質感も感じられます。

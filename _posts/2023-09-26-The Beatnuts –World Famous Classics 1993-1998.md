@@ -4,7 +4,7 @@ title:  "The Beatnuts –World Famous Classics 1993-1998"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Compilation ]
-image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.jpg
+image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.webp
 ---
 
 「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。

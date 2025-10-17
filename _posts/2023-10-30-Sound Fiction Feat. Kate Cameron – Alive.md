@@ -4,7 +4,7 @@ title:  "Sound Fiction Feat. Kate Cameron – Alive"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive, 00s ]
-image: ../assets/images/Sound Fiction Feat. Kate Cameron – Alive.jpg
+image: ../assets/images/Sound Fiction Feat. Kate Cameron – Alive.webp
 ---
 
 Sound Fiction(サウンド・フィクション)は、2002年ロシアのプロデューサー兼DJのVadim Soloviev & Dmitry Filatov(ワディム・ソロヴィエフ & ドミトリー・フィラトフ)によってモスクワで結成された。

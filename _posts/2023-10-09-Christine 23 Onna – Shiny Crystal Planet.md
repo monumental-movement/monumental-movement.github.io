@@ -4,7 +4,7 @@ title:  "Christine 23 Onna – Shiny Crystal Planet"
 author: mmr
 categories: [ CD ]
 tags: [ Psychedelic, Noise ]
-image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.jpg
+image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.webp
 ---
 
 「Shiny Crystal Planet」は、2000年にアルケミーレコーズよりリリースされた山崎マゾと戸田房尾によるユニットChristine 23 Onnaによるアルバムです。

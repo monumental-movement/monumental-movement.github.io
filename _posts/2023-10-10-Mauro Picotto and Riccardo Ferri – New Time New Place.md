@@ -4,7 +4,7 @@ title:  "Mauro Picotto & Riccardo Ferri – New Time New Place"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Mauro Picotto & Riccardo Ferri – New Time New Place.jpg
+image: ../assets/images/Mauro Picotto & Riccardo Ferri – New Time New Place.webp
 ---
 
 「New Time New Place」は、

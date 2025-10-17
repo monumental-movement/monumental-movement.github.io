@@ -4,7 +4,7 @@ title:  "Dave and Dr. DOPE – Get Wild"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hyper Techno ]
-image: ../assets/images/Dave and Dr. DOPE – Get Wild.jpg
+image: ../assets/images/Dave and Dr. DOPE – Get Wild.webp
 ---
 
 イタリアのプロデューサーDave Rodgers（デイヴロジャース）とDr. D.O.P.E.（ドクター・ドープ）によるTM NETWORK（TMネットワーク）の「Get Wild（ゲットワイルド）」のハイパーテクノ・アレンジミックス。

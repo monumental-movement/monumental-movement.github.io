@@ -4,7 +4,7 @@ title:  "Economic Animals - Minato no Yoko"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Parody, 7inch ]
-image: ../assets/images/エコノミック・アニマルズ – 帰ってきた港のヨーコ.jpg
+image: ../assets/images/エコノミック・アニマルズ – 帰ってきた港のヨーコ.webp
 ---
 
 エコノミック・アニマルズは、佐々木勉が中心となった覆面バンド。「帰ってきた港のヨーコ」は、「港のヨーコ・ヨコハマ・ヨコスカ」の後日譚＆パロディー、アンサーソングとして1975年にリリースされた。

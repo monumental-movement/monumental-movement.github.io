@@ -4,7 +4,7 @@ title:  "Tim Schuldt – Animatronic EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Goa Trance, Psychedelic ]
-image: ../assets/images/Tim Schuldt – Animatronic EP.jpg
+image: ../assets/images/Tim Schuldt – Animatronic EP.webp
 ---
 
 Tim Schuldtは、ドイツ出身のGoaおよびサイケデリック・トランスアーティスト。また、スタジオおよびマスタリングエンジニアであり、4CN Studiosのオーナーでもあります。

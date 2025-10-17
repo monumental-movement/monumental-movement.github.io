@@ -4,7 +4,7 @@ title:  "Motiv One – Cosmik  Loop Progression"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass ]
-image: ../assets/images/Motiv One – Cosmik  Loop Progression.jpg
+image: ../assets/images/Motiv One – Cosmik  Loop Progression.webp
 ---
 
 「Cosmik」は軽快なリズムで、素敵なキーブレイクと少しジャジーで未来的なサウンドです。あまり重たくなく、ここではアーメンブレイクは使用されていませんが、全体としてしっかりとしたトラックです。ブケムによる最初のProgression Sessions CDにも収録されました。

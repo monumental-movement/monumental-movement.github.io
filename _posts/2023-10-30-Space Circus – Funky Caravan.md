@@ -4,7 +4,7 @@ title:  "Space Circus – Funky Caravan"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Progressive, Fusion ]
-image: ../assets/images/Space Circus – Funky Caravan.jpg
+image: ../assets/images/Space Circus – Funky Caravan.webp
 ---
 
 「Funky Caravan（ファンキー・キャラバン）」は、1970年代後半に活躍した日本のプログレ＆フュージョンバンドSpace Circus(スペース・サーカス)のデビューアルバム。ベースの岡野 ハジメは音楽プロデューサーとして、スターリン、POLYSICS、L'Arc〜en〜Ciel(ラルク アン シエル)など多数のバンドに関わっている。

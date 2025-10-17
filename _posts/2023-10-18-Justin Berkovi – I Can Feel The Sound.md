@@ -4,7 +4,7 @@ title:  "Justin Berkovi – I Can Feel The Sound"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno ]
-image: ../assets/images/Justin Berkovi – I Can Feel The Sound.jpg
+image: ../assets/images/Justin Berkovi – I Can Feel The Sound.webp
 ---
 
 Justin Berkovi（ジャスティン・ベルコヴィ）は、ロンドンを拠点とするテクノDJ/プロデューサーであり、Predicamentsの創設者。

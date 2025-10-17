@@ -4,7 +4,7 @@ title:  "Markus Guentner – Audio Island"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
-image: ../assets/images/Markus Guentner – Audio Island.jpg
+image: ../assets/images/Markus Guentner – Audio Island.webp
 ---
 
 Markus Guentnerによる「Audio Island」は、素晴らしい2枚組LPです。

@@ -4,7 +4,7 @@ title:  "The Cuckoos – Iscariot"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Indie Rock ]
-image: ../assets/images/The Cuckoos – Iscariot.jpg
+image: ../assets/images/The Cuckoos – Iscariot.webp
 ---
 
 「Iscariot」は、

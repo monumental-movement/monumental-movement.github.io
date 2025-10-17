@@ -4,7 +4,7 @@ title:  "Tim Hutton – Been A Fool"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Future Jazz, 00s ]
-image: ../assets/images/Tim Hutton – Been A Fool.jpg
+image: ../assets/images/Tim Hutton – Been A Fool.webp
 ---
 
 Tim Hutton(ティム・ハットン)は、UKのプロデューサー、ソングライター、マルチインストゥルメンタリスト。Thomas Melchiorとの実験的なテクノデュオVulva、Yoniなどでも活動している。

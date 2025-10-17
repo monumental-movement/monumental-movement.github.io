@@ -4,7 +4,7 @@ title:  "Joey Beltram – E.P. Number One"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, US Techno ]
-image: ../assets/images/Joey Beltram – E.P. Number One.jpg
+image: ../assets/images/Joey Beltram – E.P. Number One.webp
 ---
 
 「E.P. Number One」は、2000年にJoey Beltram（ジョイ・ベルトラム）自身のレーベルSTX Recordsよりリリースされた。

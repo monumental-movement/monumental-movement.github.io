@@ -4,7 +4,7 @@ title:  "Tim Schuldt – Traced Back / Secrets"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Industrial, Psy-Trance, 00s ]
-image: ../assets/images/Tim Schuldt – Traced Back Secrets.jpg
+image: ../assets/images/Tim Schuldt – Traced Back Secrets.webp
 ---
 
 Tim Schuldtは、1990年代中期から活動しているドイツ出身のGoa(ゴア) & psychedelic trance(サイケデリックトランス)プロデューサー/ギタリスト/エンジニア。元々はロックやメタル系のバンドで活動しており、その後ゴアトランス&サイケデリックトランスを経てヘヴィでインダストリアル寄りのサウンドへとスタイルを進化させている。

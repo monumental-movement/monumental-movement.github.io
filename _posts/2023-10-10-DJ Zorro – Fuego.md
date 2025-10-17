@@ -4,7 +4,7 @@ title:  "DJ Zorro – Fuego"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hyper Techno ]
-image: ../assets/images/DJ Zorro – Fuego.jpg
+image: ../assets/images/DJ Zorro – Fuego.webp
 ---
 
 「Fuego」は、スペイン語で「火」という意味を持つ単語であり、曲のタイトルからも想像できるように、情熱的でエネルギッシュな楽曲となっています。曲は、ラテンのリズムや要素を取り入れつつ、ダンスミュージックの要素と融合させています。

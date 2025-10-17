@@ -4,7 +4,7 @@ title:  "Lexy / Autotune – Shibuya Love"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro House, Tech House, 00s ]
-image: ../assets/images/Lexy Autotune – Shibuya Love.jpg
+image: ../assets/images/Lexy Autotune – Shibuya Love.webp
 ---
 
 ベルリンを拠点に活動するDJ／プロデューサーLexy(Alexander Gerlach)と、ドイツのエレクトロ/テクノ/ハウス プロデューサーデュオAutotuneの共同制作。

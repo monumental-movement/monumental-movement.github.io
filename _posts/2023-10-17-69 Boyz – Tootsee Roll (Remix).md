@@ -4,7 +4,7 @@ title:  "69 Boyz – Tootsee Roll (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
-image: ../assets/images/69 Boyz – Tootsee Roll (Remix).jpg
+image: ../assets/images/69 Boyz – Tootsee Roll (Remix).webp
 ---
 
 69 Boyz は、USマイアミベース＆ヒップホップデュオ。

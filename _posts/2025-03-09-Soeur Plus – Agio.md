@@ -4,7 +4,7 @@ title:  "Soeur Plus! – Agio"
 author: mmr
 categories: [ CD ]
 tags: [ Euro House, House, Euro, 90s ]
-image: ../assets/images/Soeur Plus – Agio.jpg
+image: ../assets/images/Soeur Plus – Agio.webp
 ---
 
 1996年にリリースされたオランダ出身の男女デュオ Soeur Plus! (スール・プリュ!)のデビューアルバム。

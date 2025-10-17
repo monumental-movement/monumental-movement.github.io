@@ -4,7 +4,7 @@ title:  "Umek – Oranazol"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Umek – Oranazol.jpg
+image: ../assets/images/Umek – Oranazol.webp
 ---
 
 Umek(ユーメック)は、ベルリンのアンダーグランドクラブからEDCラスベガスまで、年間100ヵ所以上世界中でプレイするスロベニア・テクノ界のレジェンド的DJ。

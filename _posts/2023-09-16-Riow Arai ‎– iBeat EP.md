@@ -4,7 +4,7 @@ title:  "Riow Arai – iBeat EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, Break Beat ]
-image: ../assets/images/Riow Arai – iBeat EP.jpg
+image: ../assets/images/Riow Arai – iBeat EP.webp
 ---
 
 「iBeat EP」は、エレクトロニックミュージックを中心に展開され、テクノやヒップホップの要素も組み込まれたリズミカルでノリの良いトラックです。

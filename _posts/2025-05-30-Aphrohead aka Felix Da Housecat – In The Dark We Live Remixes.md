@@ -4,7 +4,7 @@ title:  "Aphrohead aka Felix Da Housecat – In The Dark We Live (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, Acid, 90s ]
-image: ../assets/images/Aphrohead aka Felix Da Housecat – In The Dark We Live Remixes.jpg
+image: ../assets/images/Aphrohead aka Felix Da Housecat – In The Dark We Live Remixes.webp
 ---
 
 Aphroheadは、シカゴハウスの第2世代・ハウスレジェンドFelix Da Housecat の別名義。

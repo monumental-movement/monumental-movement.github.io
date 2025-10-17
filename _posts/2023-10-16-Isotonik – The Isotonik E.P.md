@@ -4,7 +4,7 @@ title:  "Isotonik – The Isotonik E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Hardcore ]
-image: ../assets/images/Isotonik – The Isotonik E.P.jpg
+image: ../assets/images/Isotonik – The Isotonik E.P.webp
 ---
 
 「Isotonik – The Isotonik E.P」の

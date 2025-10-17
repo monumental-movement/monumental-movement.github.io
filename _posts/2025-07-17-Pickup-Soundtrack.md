@@ -12,7 +12,7 @@ image: ../assets/images/pickup-soundtrack.webp
 <hr>
 
 ### Jerry　Goldsmith – A　Patch　Of　Blue
-<a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.jpg"></a>
+<a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
 形式：vinyl
 
@@ -53,7 +53,7 @@ B9. Goodbye Selina
 
 
 ### VA – Tank　Girl
-<a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.jpg"></a>
+<a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
 形式：CD
 
@@ -84,7 +84,7 @@ B9. Goodbye Selina
 <hr>
 
 ### Adam　Clayton &　Larry　Mullen – Theme From Mission: Impossible
-<a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.jpg"></a>
+<a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 形式：Cassette
 
@@ -107,7 +107,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <hr>
 
 ### Ennio Morricone – Nuovo　Cinema　Paradiso
-<a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).jpg"></a>
+<a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
 形式：CD
 

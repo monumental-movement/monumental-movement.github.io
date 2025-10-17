@@ -4,7 +4,7 @@ title:  "Staxx Of Joy Featuring Carol Leeming – You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/Staxx Of Joy Featuring Carol Leeming – You.jpg
+image: ../assets/images/Staxx Of Joy Featuring Carol Leeming – You.webp
 ---
 
 Staxx Of Joyは、ハウス・ガラージプロデューサーのSimon ThorneとTom Jonesによるユニット。

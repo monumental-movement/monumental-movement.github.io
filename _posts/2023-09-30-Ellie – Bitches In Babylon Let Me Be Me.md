@@ -4,7 +4,7 @@ title:  "Ellie – Bitches In Babylon Let Me Be Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Abstract, Downtempo ]
-image: ../assets/images/Ellie – Bitches In Babylon Let Me Be Me.jpg
+image: ../assets/images/Ellie – Bitches In Babylon Let Me Be Me.webp
 ---
 
 「Bitches In Babylon Let Me Be Me」は、

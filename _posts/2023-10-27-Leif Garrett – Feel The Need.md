@@ -4,7 +4,7 @@ title:  "Leif Garrett – Feel The Need"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 70s, 7inch ]
-image: ../assets/images/Leif Garrett – Feel The Need.jpg
+image: ../assets/images/Leif Garrett – Feel The Need.webp
 ---
 
 Leif Garrett （レイフ・ギャレット）は、アメリカの歌手、俳優、テレビタレントです。「Feel The Need」は、1979年にリリースされました。

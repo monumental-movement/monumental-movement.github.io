@@ -4,7 +4,7 @@ title:  "Radiohead – Airbag / How Am I Driving?"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Indie Rock, 90s ]
-image: ../assets/images/Radiohead – Airbag How Am I Driving.jpg
+image: ../assets/images/Radiohead – Airbag How Am I Driving.webp
 ---
 
 1998年に北米でリリースされたUKロックバンドRadioheadの5枚目のEP。Radioheadの3枚目のスタジオアルバムであり、世界的な出世作となった「OK Computer」からリリースされたシングルのB面(「Lull」と「How I Made My Millions」を除く)、と「Airbag」を収録。

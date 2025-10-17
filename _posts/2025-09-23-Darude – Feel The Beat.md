@@ -4,7 +4,7 @@ title:  "Darude – Feel The Beat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
-image: ../assets/images/Darude – Feel The Beat.jpg
+image: ../assets/images/Darude – Feel The Beat.webp
 ---
 
 DarudeことToni-Ville Henrik Virtanenは、1999年にリリースした『Sandstorm』でよく知られるフィンランド出身のEDMプロデューサー／DJ。2019年のユーロビジョン・ソング・コンテストでフィンランド代表として参加していた。

@@ -4,7 +4,7 @@ title:  "Riot – Inishmore"
 author: mmr
 categories: [ CD ]
 tags: [ Heavy Metal, Rock, 90s ]
-image: ../assets/images/Riot – Inishmore.jpg
+image: ../assets/images/Riot – Inishmore.webp
 ---
 
 「Inishmore」は、1997年に日本で先行発売されたアメリカのハードロック/ヘヴィメタルバンドRiot(ライオット)の10枚目のスタジオアルバム。このアルバムは、ケルト神話とアイルランド神話のサガをコンセプトとしている。12曲目は日本盤のみのボーナストラック。リリース当時のメンバーはMike DiMeo、Mark Reale、Mike Flyntz、Pete Perez、Bobby Jarzombek。

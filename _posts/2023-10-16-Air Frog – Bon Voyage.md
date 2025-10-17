@@ -4,7 +4,7 @@ title:  "Air Frog – Bon Voyage"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
-image: ../assets/images/Air Frog – Bon Voyage.jpg
+image: ../assets/images/Air Frog – Bon Voyage.webp
 ---
 
 Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。

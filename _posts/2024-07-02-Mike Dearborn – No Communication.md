@@ -4,7 +4,7 @@ title:  "Mike Dearborn – No Communication"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, 00s ]
-image: ../assets/images/Mike Dearborn – No Communication.jpg
+image: ../assets/images/Mike Dearborn – No Communication.webp
 ---
 
 Mike Dearborn（マイク ディアボーン）は、Majesty Recordingsを運営するシカゴ出身のDJ。

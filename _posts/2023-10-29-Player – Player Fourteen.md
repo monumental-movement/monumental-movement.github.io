@@ -4,7 +4,7 @@ title:  "Player – Player Fourteen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno ]
-image: ../assets/images/Player – Player Fourteen.jpg
+image: ../assets/images/Player – Player Fourteen.webp
 ---
 
 Playerは、Jon Nuccle、Mark Turner、Pete Simpson、Richard Wilkinsonなど多彩なメンバーからなるテクノ集団。

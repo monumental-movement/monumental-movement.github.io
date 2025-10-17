@@ -4,7 +4,7 @@ title:  "The Expression – The Expression"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Rock ]
-image: ../assets/images/The Expression – The Expression.jpg
+image: ../assets/images/The Expression – The Expression.webp
 ---
 
 The Expression（ザ・エクスプレッション）1981年にオーストラリア・シドニーで結成されたシンセポップ・ロックバンド。

@@ -4,7 +4,7 @@ title:  "Le Tone – Joli Dragon"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Downtempo, 90s ]
-image: ../assets/images/Le Tone – Joli Dragon.jpg
+image: ../assets/images/Le Tone – Joli Dragon.webp
 ---
 
 Le ToneことYann Larret-Menezoは、フランス出身のエレクトロニックミュージックアーティスト、ジャーナリス&イラストレーター。

@@ -4,7 +4,7 @@ title:  "Modest Mouse 764-HERO – Whenever You See Fit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Indie Rock ]
-image: ../assets/images/Modest Mouse 764-HERO – Whenever You See Fit.jpg
+image: ../assets/images/Modest Mouse 764-HERO – Whenever You See Fit.webp
 ---
 
 「Whenever You See Fit」は、

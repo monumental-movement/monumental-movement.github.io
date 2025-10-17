@@ -4,7 +4,7 @@ title:  "Various – Volume 1, Program 6"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, House ]
-image: ../assets/images/Various – Volume 1, Program 6.jpg
+image: ../assets/images/Various – Volume 1, Program 6.webp
 ---
 
 「Various – Volume 1, Program 6」は、

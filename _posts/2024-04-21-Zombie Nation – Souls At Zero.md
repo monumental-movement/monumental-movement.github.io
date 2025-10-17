@@ -4,7 +4,7 @@ title:  "Zombie Nation – Souls At Zero"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
-image: ../assets/images/Zombie Nation – Souls At Zero.jpg
+image: ../assets/images/Zombie Nation – Souls At Zero.webp
 ---
 
 99年リリースの「Kernkraft 400」で一躍有名になったZombie Nation。

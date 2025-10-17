@@ -4,7 +4,7 @@ title:  "Gang Starr – Positivity"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 90s, Gangsta ]
-image: ../assets/images/Gang Starr – Positivity.jpg
+image: ../assets/images/Gang Starr – Positivity.webp
 ---
 
 Gang Starrは、1980年代後半から1990年代にかけて活動したアメリカのヒップホップデュオ(Guru&DJ Premier)です。「Positivity」は、彼らの3枚目のスタジオアルバムである「Daily Operation」（1992年）に収録されています。

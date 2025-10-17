@@ -4,7 +4,7 @@ title:  "Superfly – B With U"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hard Trance, 00s ]
-image: ../assets/images/Superfly – B With U.jpg
+image: ../assets/images/Superfly – B With U.webp
 ---
 
 UKのR&BシンガーDee Jacobee の「I'm Alive」をアメリカのDJ・ハウスミュージックの

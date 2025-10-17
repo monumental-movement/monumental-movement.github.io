@@ -4,7 +4,7 @@ title:  "Kujay Dada – Let It Play"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK House, 00s ]
-image: ../assets/images/Kujay Dada – Let It Play.jpg
+image: ../assets/images/Kujay Dada – Let It Play.webp
 ---
 
 Kujay Dadaは、UKのトランスDJ＆プロデューサーDanny Graham, Dave Cowen, Jon Constantine, Kurt Howesによるプロジェクト。

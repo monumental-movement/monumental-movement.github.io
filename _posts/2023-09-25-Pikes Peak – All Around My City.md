@@ -4,7 +4,7 @@ title:  "Pike's Peak – All Around My City"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Ska ]
-image: ../assets/images/Pike's Peak – All Around My City.jpg
+image: ../assets/images/Pike's Peak – All Around My City.webp
 ---
 
 「All Around My City」は、

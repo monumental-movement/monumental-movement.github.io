@@ -4,7 +4,7 @@ title:  "DNA – Rebel Woman"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, Euro House, UK Techno ]
-image: ../assets/images/DNA – Rebel Woman.jpg
+image: ../assets/images/DNA – Rebel Woman.webp
 ---
 
 DNAは、UKダンスミュージックプロデューサーでありNick Batt（ニック・バット）とNeal Slateford（ニール・スレートフォード）のデュオ。

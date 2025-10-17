@@ -4,7 +4,7 @@ title:  "Cheap Trick – In Color"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
-image: ../assets/images/Cheap Trick – In Color.jpg
+image: ../assets/images/Cheap Trick – In Color.webp
 ---
 
 Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。

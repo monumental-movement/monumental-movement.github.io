@@ -4,7 +4,7 @@ title:  "Bryan Cox – Freaks On Tha Floor"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno, 00s ]
-image: ../assets/images/Bryan Cox – Freaks On Tha Floor.jpg
+image: ../assets/images/Bryan Cox – Freaks On Tha Floor.webp
 ---
 
 Bryan Cox (ブライアン・コックス)は、ニューヨーク出身のDJ／プロデューサー。ディスコ、エレクトロ、ハウス、テクノの様々なスタイルをミックスさせたスタイルが特徴。Spinnin, Toolroom, 100%pure, Detected, Great Stuff, Sublimeなど名門レーベルからリリースしている。

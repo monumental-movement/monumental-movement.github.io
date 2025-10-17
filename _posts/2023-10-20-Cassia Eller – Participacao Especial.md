@@ -4,7 +4,7 @@ title:  "Cássia Eller – Participaçāo Especial"
 author: mmr
 categories: [ CD ]
 tags: [ Pops, Rock ]
-image: ../assets/images/Cassia Eller – Participacao Especial.jpg
+image: ../assets/images/Cassia Eller – Participacao Especial.webp
 ---
 
 カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。

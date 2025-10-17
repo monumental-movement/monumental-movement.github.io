@@ -4,7 +4,7 @@ title:  "DSK – Work My Body Over (Sweat)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
-image: ../assets/images/DSK – Work My Body Over (Sweat).jpg
+image: ../assets/images/DSK – Work My Body Over (Sweat).webp
 ---
 
 DSKは、Davis-Stone-Klein ( Larry Davisラリー・デイヴィス、Joe Stone ジョー・ストーン、Paul Kleinポール・クライン) の Hot Productionsチームによって制作されたハウス ・ ダンスミュージックプロジェクト。
