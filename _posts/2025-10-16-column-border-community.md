@@ -7,7 +7,7 @@ tags: [ Electronic, Techno, UK Techno, 00s ]
 image: ../assets/images/column-border-community.webp
 ---
 
-## I.序章：境界線から始まる物語
+## I. 序章：境界線から始まる物語
 
 
 文：mmr｜テーマ：ジェイムズ・ホールデンが築いた〈Border Community〉という音楽思想と、その“境界”を越えるレーベルの軌跡を辿る
