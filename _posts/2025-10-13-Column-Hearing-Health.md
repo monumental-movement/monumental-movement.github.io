@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 聴くという奇跡──Hearing Health Foundationが描く“音”の未来"
 author: mmr
 categories: [ Column ]
-tags: [ Synth-Pop, History ]
+tags: [ History, Ambient ]
 image: ../assets/images/column-hearing-health.webp
 ---
 
