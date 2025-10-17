@@ -26,23 +26,37 @@ image: ../assets/images/column-new-wave.webp
 
 ニューウェーブの音楽的特徴は、以下の要素に整理できる：
 
-**シンセサイザーの台頭**
+- **シンセサイザーの台頭**
 
 アナログ・シンセ、ドラムマシンの普及により、機械的かつ未来的なサウンドが生み出された。Gary NumanやUltravoxはその代表例である。
 
-**ジャンル横断性**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIdbeJzjKSs?si=7t-Vdyzk7BsEzK9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+- **ジャンル横断性**
 
 ファンクのリズム（Talking Heads）、レゲエのグルーヴ（The Police）、ディスコ的なダンス感（Blondie）などを自在に取り込み、ジャンルの境界を越えた。
 
-**ポップと実験の共存**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPwMdZOlPo8?si=P34k6oSAFvO22UK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+- **ポップと実験の共存**
 
 Joy DivisionやThe Cureのようにダークで実験的なサウンドを追求する一方、Duran DuranやSpandau Balletは華やかでキャッチーなポップ性を志向した。
 
-**社会批評とアイロニー**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5ebkj9x5Ko?si=2KxYbmIbWGFdD58L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+- **社会批評とアイロニー**
 
 歌詞には都市生活の疎外感、冷戦下の不安、テクノロジー社会への風刺などが反映された。Devoの皮肉的パフォーマンスはその象徴だ。
 
 音楽学的に見れば、ニューウェーブはパンクの三和音的シンプルさを基盤に、電子音響の拡張とアートロック的知性を付与した運動と位置づけられる。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -50,17 +64,23 @@ Joy DivisionやThe Cureのようにダークで実験的なサウンドを追求
 
 ニューウェーブは音楽だけでなく、視覚文化の運動でもあった。
 
-**MTVの登場（1981年）**
+- **MTVの登場（1981年）**
 
 音楽ビデオがプロモーションの中心となり、Duran DuranやA Flock of Seagullsのようなバンドは映像美学と音楽を一体化させ、ニューウェーブを「視覚と音の融合ジャンル」とした。
 
-**ファッション**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=4mHQUF8UG1Z67hOz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **ファッション**
 
 パンクのDIY精神を継承しつつ、ネオ・ロマンティック派は華美で中性的なファッションを提示。シルクのシャツ、アイライナー、鮮烈な色彩が象徴的だった。一方、シンセポップ系はモノクロームな近未来的衣装で「冷たい都会性」を演出した。
 
-**アートとの関係**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shbVBQgf_MQ?si=-qp1Acua0FF7vnUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **アートとの関係**
 
 NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアートやコンセプチュアルアートの影響を取り入れた。英国ではVivienne Westwoodのファッションや、ポップアート以降のデザイン感覚が直結している。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -68,11 +88,13 @@ NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアー
 
 ニューウェーブの多様性は、その誕生した社会背景と深く結びついている。
 
-**イギリス**：70年代後半の経済危機、サッチャー政権下の失業率上昇。若者は「明日なき閉塞感」を抱え、それを音楽とファッションに投影した。
+- **イギリス**：70年代後半の経済危機、サッチャー政権下の失業率上昇。若者は「明日なき閉塞感」を抱え、それを音楽とファッションに投影した。
 
-**アメリカ**：ニューヨークのアートシーン（CBGB、Mudd Club）と連動し、パンク後の知的実験音楽として広がった。
+- **アメリカ**：ニューヨークのアートシーン（CBGB、Mudd Club）と連動し、パンク後の知的実験音楽として広がった。
 
-**日本**：高度経済成長の余韻とテクノロジーの進展を背景に、YMOやプラスチックスといった「テクノ・ニューウェーブ」が国際的に認知された。
+- **日本**：高度経済成長の余韻とテクノロジーの進展を背景に、YMOやプラスチックスといった「テクノ・ニューウェーブ」が国際的に認知された。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRmS8sO1fYw?si=dk81ZKx-l_K1P-aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 こうした背景から、ニューウェーブは単なる音楽ジャンルではなく、冷戦下の都市文化と世代意識の反映と捉えられる。
 
@@ -84,11 +106,11 @@ NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアー
 
 しかしその精神は次世代へと受け継がれた：
 
-・オルタナティブ・ロック（R.E.M.、The Smiths、後のNirvana）
+- **オルタナティブ・ロック**（R.E.M.、The Smiths、後のNirvana）
 
-・シンセポップ／エレクトロポップ（Depeche Mode以降、現代のCHVRCHES、Grimes）
+- **シンセポップ／エレクトロポップ**（Depeche Mode以降、現代のCHVRCHES、Grimes）
 
-・ポストパンク・リバイバル（2000年代のInterpol、Franz Ferdinand、The Strokes）
+- **ポストパンク・リバイバル**（2000年代のInterpol、Franz Ferdinand、The Strokes）
 
 ニューウェーブは「ジャンルの壁を越え、音楽を文化的運動に昇華させた」点で、音楽史上の大きな分岐点である。
 

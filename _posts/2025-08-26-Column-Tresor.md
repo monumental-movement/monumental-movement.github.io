@@ -18,6 +18,8 @@ image: ../assets/images/column-tresor.webp
 
 Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベルリンで誕生したクラブであり、同名のレーベルをも擁するテクノ・カルチャーの中心地。冷戦終結後の混沌の中で、デトロイト・テクノとベルリンの地下文化を結びつけた最重要拠点として、今日まで国際的に影響力を保ち続けている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <hr>
 
 ### 誕生の背景：ベルリンと冷戦後の空白
@@ -55,6 +57,8 @@ Tresorは特にデトロイト・テクノのヨーロッパ進出の足場と�
 など、デトロイト勢とベルリンの融合を象徴する作品を数多くリリース。
 特にミニマルかつ硬質なサウンドは、90年代の「ヨーロッパ・テクノの骨格」を形成した。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <hr>
 
 ### Tresorの象徴性と文化的影響
@@ -87,7 +91,15 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 **Berghain**：同じく廃墟文化を継承、2000年代以降のアイコン。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 **E-Werk, WMF**：90年代に並び称されたが、長期的にはTresorが最も持続的な影響力を保った。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 → Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
 

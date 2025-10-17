@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学"
 author: mmr
 categories: [ Column ]
-tags: [ Techno, German Techno, Minimal, Rave ]
+tags: [ Techno, German Techno, Rave ]
 image: ../assets/images/column-german-techno-areas.webp
 ---
 
@@ -226,7 +226,7 @@ flowchart TD
 ### 各都市別ディスコグラフィー
 
 
-| 地域           | 代表アーティスト         | 名盤                     | 年    | リンク                                              |
+| 地域           | アーティスト         | 名盤                     | 年    | リンク                                              |
 | ------------ | ---------------- | ---------------------- | ---- | ------------------------------------------------ |
 | ベルリン         | Basic Channel    | *Quadrant Dub*         | 1994 | [Amazon](https://amzn.to/42HRXhy) |
 | デュッセルドルフ〜ケルン | Kraftwerk        | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
