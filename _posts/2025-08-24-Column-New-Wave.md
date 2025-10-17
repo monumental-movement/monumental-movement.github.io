@@ -74,7 +74,7 @@ Joy DivisionやThe Cureのようにダークで実験的なサウンドを追求
 
 パンクのDIY精神を継承しつつ、ネオ・ロマンティック派は華美で中性的なファッションを提示。シルクのシャツ、アイライナー、鮮烈な色彩が象徴的だった。一方、シンセポップ系はモノクロームな近未来的衣装で「冷たい都会性」を演出した。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shbVBQgf_MQ?si=-qp1Acua0FF7vnUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGlsCT4lAM0?si=lzHIXxRuSrfdPoiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **アートとの関係**
 
