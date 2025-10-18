@@ -226,66 +226,16 @@ Moog、Roland、Novation──機械が感情を持つようになり、
 
 <div class="mermaid">
 
-flowchart TD
-%% Timeline: 1950s -> 2020s
-direction LR
-%% Decade nodes
-A1950["1950s\nUpright bass：ジャズの歩くベース（Ray Brown, Charles Mingus）"]
-A1960["1960s\nRock bassの台頭：メロディを弾くベーシスト（McCartney, Entwistle）"]
-A1970["1970s\nファンク／フュージョンの拡張：スラップ、フレットレス、実験（Larry Graham, Jaco）"]
-A1980["1980s\nシンセベースとAOR／シティポップ：日本の台頭（細野晴臣、CASIOPEA）"]
-A1990["1990s\nオルタナ／ポストロック／ブリストル：低音の多様化（Les Claypool, Massive Attack）"]
-A2000["2000s\nクラブ／エレクトロニカの低音：打ち込みと生演奏の融合（Daft Punk以降）"]
-A2010["2010s\nポストジャズ／新世代：Thundercat、ベースのソロ表現再評価"]
-A2020["2020s\nハイブリッド時代：AI・サンプル技術・グローバル・アンダーグラウンドの融合"]
-
-
-%% Arrows
-A1950 --> A1960 --> A1970 --> A1980 --> A1990 --> A2000 --> A2010 --> A2020
-
-
-%% Annotations / Side branches: World vs Japan vs Underground
-subgraph World
-W1["JAZZ: Mingus / Ray Brown"]
-W2["ROCK: McCartney / Entwistle / JPJ"]
-W3["FUNK: Larry Graham / Bootsy Collins"]
-W4["EXPERIMENTAL: Jaco / Tony Levin"]
-W5["ELECTRONIC: Burial / Kode9 / Moritz von Oswald"]
-end
-
-
-subgraph Japan
-J1["1950s–60s: ジャズ喫茶文化（鈴木良雄 等）"]
-J2["1970s–80s: 細野晴臣、YMO とシティポップの萌芽"]
-J3["1980s: CASIOPEA、櫻井哲夫（フュージョン）"]
-J4["1990s: NUMBER GIRL, ZAZEN BOYS（地下ロック）」]
-J5["2000s–: ハマ・オカモト、現代のリバイバルとクラブ融合"]
-end
-
-
-%% connect
-A1950 --> W1
-A1960 --> W2
-A1970 --> W3
-A1970 --> W4
-A2000 --> W5
-
-
-A1950 --> J1
-A1980 --> J2
-A1980 --> J3
-A1990 --> J4
-A2010 --> J5
-
-
-%% Underground emphasis
-U1["ポストパンク／地下：Peter Hook, Jah Wobble, Bristol Scene"]
-A1990 --> U1
-U1 --> A2000
-
-
-style A1950 fill:#f9f,stroke:#333,stroke-width:1px
-style A2020 fill:#9ff,stroke:#333,stroke-width:1px
+timeline
+  title ベース進化史（1950–2025）
+  1950 : ジャズの歩くベース（Ray Brown, Mingus）
+  1960 : ロックベースの台頭（McCartney, Entwistle）
+  1970 : ファンク／フュージョン（Larry Graham, Jaco）
+  1980 : シンセベースとシティポップ（細野晴臣, 櫻井哲夫）
+  1990 : ポストロックとブリストル（Massive Attack, Peter Hook）
+  2000 : クラブミュージックの低音再定義（Daft Punk, Squarepusher）
+  2010 : ポストジャズ／Thundercat
+  2020 : ハイブリッド低音時代（AI, グローバル・ベース文化）
 
 
 </div>
