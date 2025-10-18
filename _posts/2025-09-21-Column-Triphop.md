@@ -37,15 +37,17 @@ Massive Attack、Portishead、Tricky といったアーティストが牽引し�
 
 トリップ・ホップは単なる音楽ジャンルを超え、**サウンドトラック制作**やファッション、現代アートの世界にまで広がり、やがてAI音楽生成の時代にも新たな可能性を秘めています。  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### トリップ・ホップの系譜
 
 <div class="mermaid">
 flowchart TD
-    A["1990s: ブリストル誕生\nMassive Attack"] --> B["Portishead: Noirなサウンド"]
+    A["1990s: ブリストル誕生 Massive Attack"] --> B["Portishead: Noirなサウンド"]
     B --> C["Tricky: ヒップホップとの融合"]
-    C --> D["2000s: DJ ShadowやUNKLE\nサウンドトラック制作へ拡張"]
+    C --> D["2000s: DJ ShadowやUNKLE サウンドトラック制作へ拡張"]
     D --> E["2020s: AI音楽生成との接続"]
 </div>
 
@@ -55,19 +57,19 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    MA90["Massive Attack: 1990s\nBlue Lines / Protection / Mezzanine"]
-    MA00["2000s\n100th Window / Live works"]
-    MA10["2010s\nHeligoland / サウンドトラック活動"]
+    MA90["Massive Attack: 1990s Blue Lines / Protection / Mezzanine"]
+    MA00["2000s 100th Window / Live works"]
+    MA10["2010s Heligoland / サウンドトラック活動"]
 
-    SH90["DJ Shadow: 1990s\nEndtroducing....."]
-    SH00["2000s\nThe Private Press"]
-    SH10["2010s〜2020s\nThe Less You Know... / Our Pathetic Age"]
+    SH90["DJ Shadow: 1990s Endtroducing....."]
+    SH00["2000s The Private Press"]
+    SH10["2010s〜2020s The Less You Know... / Our Pathetic Age"]
 
-    PK90["Portishead: 1990s\nDummy / Portishead"]
-    PK10["2008 Third\n実験性の深化"]
+    PK90["Portishead: 1990s Dummy / Portishead"]
+    PK10["2008 Third 実験性の深化"]
 
-    KR90["DJ Krush: 1990s\nStrictly Turntablized / Meiso"]
-    KR00["2000s〜現在\nJaku / Saisei - 日本的要素の統合"]
+    KR90["DJ Krush: 1990s Strictly Turntablized / Meiso"]
+    KR00["2000s〜現在 Jaku / Saisei - 日本的要素の統合"]
 
     MA90 --> MA00 --> MA10
     SH90 --> SH00 --> SH10
@@ -81,6 +83,7 @@ flowchart LR
 
 ## 代表的なアーティストと作品
 <br>
+
 ### Massive Attack（マッシヴ・アタック）
 
 #### 代表作
@@ -103,6 +106,8 @@ flowchart LR
 
 Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### Portishead（ポーティスヘッド）
@@ -122,6 +127,7 @@ Beth Gibbons のアンニュイなボーカルは、ステージ上での緊張�
 #### 映像作品
 「Welcome to Portishead」など90年代ツアーのドキュメンタリーあり。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dDgqS03s1Hw?si=2Z4KjXBNwBwgBDE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -144,6 +150,8 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 #### 映像作品
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ### DJ Krush（DJクラッシュ）
@@ -164,6 +172,8 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 [「History Of DJ Krush」](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
