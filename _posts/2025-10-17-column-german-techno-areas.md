@@ -192,7 +192,6 @@ Dial Records、Pantha du Prince、Lawrence。
 <div class="mermaid">
 
 flowchart TD
-  direction TB
   classDef year fill:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
 
   title["ドイツ・テクノの主要年表（1970–2020）"]:::year
