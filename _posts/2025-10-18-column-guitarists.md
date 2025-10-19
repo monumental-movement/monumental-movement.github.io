@@ -38,9 +38,20 @@ color: #fff;
 
 **Chuck Berry**は、リズムギターとフレーズの融合によりロックンロールの骨格を築いた。彼の右手によるカッティングはダンスビートの基盤を作り、左手のフレーズはブルース由来ながら独自の旋律を描く。Berryの音楽は、エレキギターが若者の反抗や自由を象徴する手段になることを示した。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 **Jimi Hendrix**は、エレクトリックギターの可能性を爆発させた。フィードバック、ワウペダル、フェイザーなどのエフェクトを駆使し、ギターを「声」として鳴らした。ライブパフォーマンスでは即興と破壊的表現を組み合わせ、ギターを単なる伴奏楽器から**表現の中心装置**に変えた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+
 **Lou Reed（The Velvet Underground）**は、単純なコード進行や不協和音を用いて、音楽にアート的破壊性を持ち込んだ。ポップでありながら挑発的で、アンダーグラウンドの精神を内包していた。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -65,6 +76,8 @@ color: #fff;
 **Jim O’Rourke**は、実験音響とメロディを融合させ、ジャンル横断的なギターワークを展開。音響と歌心の両立を可能にした。
 
 **Godspeed You! Black Emperor**は、ギターを叙事詩の道具として扱い、長大な楽曲で都市や社会の風景を描く。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgkyX1-8ERo?si=OBAmir7F_da7KuMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -94,12 +107,20 @@ color: #fff;
 
 ## 2. アンダーグラウンドの胎動（1970〜80年代）
 
-**宅Shoji（Les Rallizes Dénudés）**は退廃的なギターノイズとサイケデリックな演奏で、日本のノイズ／アンダーグラウンドシーンに多大な影響を与えた。
+**水谷孝（Les Rallizes Dénudés）**は退廃的なギターノイズとサイケデリックな演奏で、日本のノイズ／アンダーグラウンドシーンに多大な影響を与えた。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XUkzRWei34?si=q2N0itqSX4Kgd3AZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **山本精一（Boredoms / Omoide Hatoba）**：
 - **Boredoms期**：リズムと破壊の儀式的演奏。ノイズ・即興・サイケを融合。
 - **ソロ〜Omoide Hatoba期**：内省的旋律とサイケデリック表現。歌心とノイズの共存を実現。
 - 日本語ロックに潜む無意識的表現を体現し、後続ギタリストへの影響は計り知れない。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abitotmLo18?si=FQfZaRVCWwtFEldI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **灰野敬二**：
 - **身体派ギタリストの極致**：ギター、声、身体を同時に操作し、即興演奏で極限の音世界を生む。
@@ -115,7 +136,13 @@ color: #fff;
   - 聴覚だけでなく、空間感覚や身体感覚に訴える体験型パフォーマンス
 - **影響**：日本のアンダーグラウンドシーン全体に大きな足跡を残し、後続ギタリストや実験音楽家の精神的指標となる。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 **MERZBOW（秋田昌美）**はノイズの純粋形態を追求。ギターや電子機器を用い、極限表現を展開。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NP1UQ3hZXuA?si=CmyJyjfLF3ybGcQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -154,6 +181,8 @@ color: #fff;
 - **山本精一×Jim O’Rourke**：京都アンダーグラウンドから世界へ橋渡し。国内外の即興・実験音楽に影響。
 
 灰野敬二は、ギターを身体と精神の延長として扱い、音の極限で聴き手の感覚を揺さぶる存在である。即興・破壊・表現の三位一体が、日本アンダーグラウンド・ギター史における重要な座標となる。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/07GwA7u-gWU?si=Bip28Nm3b6Zw-aQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -203,15 +232,13 @@ flowchart TD
 | 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
 | BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |
 | MONO | 『Hymn to the Immortal Wind』 | [ Amazon ](https://amzn.to/47gIxv1) |
-| Ichika Nito | 『light novel』 | [ Amazon ](https://www.amazon.co.jp/s?k=Ichika+Nito+light+novel) |
-| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://www.amazon.co.jp/s?k=My+Bloody+Valentine+Loveless) |
-| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://www.amazon.co.jp/s?k=Sonic+Youth+Daydream+Nation) |
-| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://www.amazon.co.jp/s?k=Chuck+Berry+The+Great+Twenty-Eight) |
+| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://amzn.to/4n8w2HD) |
+| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://amzn.to/4hhJV4Z) |
+| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://amzn.to/3Wdxmhy) |
 | Char（竹中尚人） | 『Smoke』 | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
-| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://www.amazon.co.jp/s?k=寺内タケシ+エレキ+ギター+の+すべて) |
-| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://www.amazon.co.jp/s?k=青葉市子+0) |
-| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://www.amazon.co.jp/s?k=toe+the+book+about+my+idle+plot) |
-| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://www.amazon.co.jp/s?k=Covet+technicolor) |
-| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://www.amazon.co.jp/s?k=Fred+Frith+Guitar+Solos) |
-| Keiji Haino × Merzbow | 『Collapse 12 Floors』 | [ Amazon ](https://www.amazon.co.jp/s?k=Keiji+Haino+Merzbow+Collapse+12+Floors) |
+| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://amzn.to/499jFro) |
+| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://amzn.to/4os2Yfk) |
+| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://amzn.to/4nVdaNt) |
+| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://amzn.to/3L2AbPX) |
+| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://amzn.to/3Jc5o2K) |
 
