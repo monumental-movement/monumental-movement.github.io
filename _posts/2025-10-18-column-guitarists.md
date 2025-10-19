@@ -197,22 +197,21 @@ flowchart TD
 ### ディスコグラフィー
 
 
-| アーティスト | 代表作 | Amazonリンク |
+| アーティスト | 代表作 | リンク |
 |---------------|---------|---------------|
-| 山本精一（Seiichi Yamamoto） | 『パレード』 | [Amazonで見る](https://www.amazon.co.jp/s?k=山本精一+パレード) |
-| 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [Amazonで見る](https://www.amazon.co.jp/s?k=灰野敬二+Watashi+Dake) |
-| 山本精一 × 灰野敬二 | 『Live at Bears 2004』 | [Amazonで見る](https://www.amazon.co.jp/s?k=山本精一+灰野敬二+Live+at+Bears) |
-| BORIS | 『Gensho（with Merzbow）』 | [Amazonで見る](https://www.amazon.co.jp/s?k=BORIS+Gensho) |
-| MONO | 『Hymn to the Immortal Wind』 | [Amazonで見る](https://www.amazon.co.jp/s?k=MONO+Hymn+to+the+Immortal+Wind) |
-| Ichika Nito | 『light novel』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Ichika+Nito+light+novel) |
-| Kevin Shields / My Bloody Valentine | 『Loveless』 | [Amazonで見る](https://www.amazon.co.jp/s?k=My+Bloody+Valentine+Loveless) |
-| Sonic Youth | 『Daydream Nation』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Sonic+Youth+Daydream+Nation) |
-| Chuck Berry | 『The Great Twenty-Eight』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Chuck+Berry+The+Great+Twenty-Eight) |
-| Char（竹中尚人） | 『Smoke』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Char+Smoke) |
-| 寺内タケシ | 『エレキ・ギターのすべて』 | [Amazonで見る](https://www.amazon.co.jp/s?k=寺内タケシ+エレキ+ギター+の+すべて) |
-| 青葉市子 | 『0（ゼロ）』 | [Amazonで見る](https://www.amazon.co.jp/s?k=青葉市子+0) |
-| toe | 『the book about my idle plot on a vague anxiety』 | [Amazonで見る](https://www.amazon.co.jp/s?k=toe+the+book+about+my+idle+plot) |
-| Yvette Young / Covet | 『technicolor』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Covet+technicolor) |
-| Fred Frith | 『Guitar Solos』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Fred+Frith+Guitar+Solos) |
-| Keiji Haino × Merzbow | 『Collapse 12 Floors』 | [Amazonで見る](https://www.amazon.co.jp/s?k=Keiji+Haino+Merzbow+Collapse+12+Floors) |
+| 山本精一（Seiichi Yamamoto） | 『カフェ・ブレイン』 | [ Amazon ](https://amzn.to/46ZnvSH) |
+| 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
+| BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |
+| MONO | 『Hymn to the Immortal Wind』 | [ Amazon ](https://amzn.to/47gIxv1) |
+| Ichika Nito | 『light novel』 | [ Amazon ](https://www.amazon.co.jp/s?k=Ichika+Nito+light+novel) |
+| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://www.amazon.co.jp/s?k=My+Bloody+Valentine+Loveless) |
+| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://www.amazon.co.jp/s?k=Sonic+Youth+Daydream+Nation) |
+| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://www.amazon.co.jp/s?k=Chuck+Berry+The+Great+Twenty-Eight) |
+| Char（竹中尚人） | 『Smoke』 | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
+| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://www.amazon.co.jp/s?k=寺内タケシ+エレキ+ギター+の+すべて) |
+| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://www.amazon.co.jp/s?k=青葉市子+0) |
+| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://www.amazon.co.jp/s?k=toe+the+book+about+my+idle+plot) |
+| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://www.amazon.co.jp/s?k=Covet+technicolor) |
+| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://www.amazon.co.jp/s?k=Fred+Frith+Guitar+Solos) |
+| Keiji Haino × Merzbow | 『Collapse 12 Floors』 | [ Amazon ](https://www.amazon.co.jp/s?k=Keiji+Haino+Merzbow+Collapse+12+Floors) |
 
