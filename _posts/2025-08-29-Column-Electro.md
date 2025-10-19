@@ -24,9 +24,27 @@ image: ../assets/images/column-electro.webp
 
 エレクトロの誕生は、ニューヨーク・ブロンクスのブレイクダンス・カルチャーと密接に結びついている。
 
-**Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)**
+#### **Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)**
 
 クラフトワークの「Trans-Europe Express」と「Numbers」をサンプリングし、TR-808のリズムに融合した歴史的名曲。これにより、エレクトロは「未来的なヒップホップ」として登場した。
+
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
+
+#### Tracklist
+```md
+A1. Planet Rock (Vocal)
+
+A2. Bonus Beats I
+
+B. Planet Rock (Instrumental)
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **Egyptian Lover – Egypt, Egypt**
 
@@ -34,17 +52,25 @@ image: ../assets/images/column-electro.webp
 
 エレクトロは単なる音楽ジャンルではなく、ブレイクダンスやストリート・ファッションと不可分のカルチャーであった。シルバーの衣装やサイバー風ビジュアルは「マシンと人間の融合」という時代感覚を体現していた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <hr>
 
 ### テクノとエレクトロの交錯
 
 1980年代後半から1990年代にかけて、デトロイト・テクノとエレクトロは再び結びつく。
 
-Drexciya（デトロイトの伝説的デュオ）は、海底文明をテーマにしたコンセプト作品で、硬質なエレクトロ・ビートに神話性を付与した。
+**Drexciya（デトロイトの伝説的デュオ）**は、海底文明をテーマにしたコンセプト作品で、硬質なエレクトロ・ビートに神話性を付与した。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **Juan Atkins（Model 500）**は、テクノのパイオニアであると同時に、エレクトロ的なトラックを数多く制作し、両者の境界を自由に行き来した。
 
 この流れは、のちのIDMやグリッチ・エレクトロニカにもつながっていく。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -52,9 +78,36 @@ Drexciya（デトロイトの伝説的デュオ）は、海底文明をテーマ
 
 2000年代初頭、エレクトロは再び脚光を浴びる。
 
-Electroclash（エレクトロクラッシュ）：Miss Kittin & The Hacker、Fischerspooner、Adult. などが牽引。退廃的でアート志向のサウンドは、ファッション業界とも密接に結びついた。
+**Electroclash（エレクトロクラッシュ）**：Miss Kittin & The Hacker、Fischerspooner、Adult. などが牽引。退廃的でアート志向のサウンドは、ファッション業界とも密接に結びついた。
 
-Electro Houseとの接続：JusticeやDigitalismといったフランス／ドイツのアーティストが、エレクトロ的なシンセ・リフをハウスの4つ打ちに融合し、クラブシーンを席巻。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**Electro Houseとの接続**：JusticeやDigitalismといったフランス／ドイツのアーティストが、エレクトロ的なシンセ・リフをハウスの4つ打ちに融合し、クラブシーンを席巻。
+
+2003年から活動するフランスのエレクトロニックダンスバンドJusticeのデビューアルバムは、フランスのレーベルEd Banger Records(エドバンガーレコード)から2007年にリリースされ、グラミー賞のベスト・エレクトロニック/ダンス・アルバム部門にノミネートされるなど世界的な成功を収めた。
+
+#### Tracklist
+```md
+1. Genesis
+2. Let There Be Light
+3. D.A.N.C.E.
+4. Newjack
+5. Phantom
+6. Phantom Pt II
+7. Valentine
+8. Tthhee Ppaarrttyy
+9. DVNO
+10. Stress
+11. Waters Of Nazareth
+12. One Minute To Midnight
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -72,17 +125,17 @@ Electro Houseとの接続：JusticeやDigitalismといったフランス／ド�
 
 ### 注目すべき代表作
 
-Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)
+[Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)](https://monumental-movement.jp/Afrika-Bambaataa-&-The-Soulsonic-Force-Planet-Rock)
 
-Egyptian Lover – On the Nile (1984)
+[Egyptian Lover – On the Nile (1984)](https://amzn.to/49dLrmB)
 
-Cybotron – Clear (1983)
+[Cybotron – Clear (1983)](https://amzn.to/3WRX6QB)
 
-Drexciya – Neptune’s Lair (1999)
+[Drexciya – Neptune’s Lair (1999)](https://amzn.to/42Q2l70)
 
-Miss Kittin & The Hacker – First Album (2001)
+[Miss Kittin & The Hacker – First Album (2001)](https://amzn.to/4or6aI1)
 
-Justice – Cross (2007)
+[Justice – Cross (2007](https://monumental-movement.jp/Justice-+)
 
 <hr>
 
