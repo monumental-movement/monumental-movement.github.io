@@ -7,7 +7,7 @@ tags: [ Techno, Berlin, Food, Travel, Kreuzberg ]
 image: ../assets/images/column-berlin-kreuzberg.webp
 ---
 
-## 序章：ギターという“身体の記録装置”
+## ベルリン・Kreuzberg：音と匂いの交差点で
 
 
 文：mmr｜テーマ：西ベルリン Kreuzberg 36と61──サブカルチャーの座標
@@ -15,7 +15,7 @@ image: ../assets/images/column-berlin-kreuzberg.webp
 壁が崩れても、この街のリズムは止まらなかった。  
 テクノ、ジャズ、ヒップホップ、ノイズ、トルコ料理、カフェのスプーンの音。  
 ベルリン・クロイツベルクは、音楽が「生活」に変わる場所だ。  
-この街で過ごした数日の記録をたどると、耳が、舌が、街の呼吸と共鳴していた。
+この街の記録をたどると、耳が、舌が、街の呼吸と共鳴していた。
 
 ---
 
@@ -57,19 +57,19 @@ U1の車窓を流れる壁のグラフィティ、路上の演奏者のビート
 ### “耳で旅する”ためのクロイツベルク・ルートマップ
 
 - Kottbusser Tor → Oranienstraße → Markthalle Neun → Landwehrkanal  
-- 夜は：City Chicken → ://about blank → Berghain  
+- 夜は：City Chicken → Berghain  
 - 朝は：Tempelhofer Feld → Bonanza Coffee → 街の小さなギャラリー
 
 ---
 
 ## 第2章　夜のベルリン、鼓動の方へ──クラブカルチャーの磁場
 
-### Berghain、://about blank、Ohm──音響建築としてのクラブ
+### Berghain、Ohm──音響建築としてのクラブ
 
 クロイツベルクの夜を語るには、クラブ文化を避けて通れない。  
 Berghainはその象徴であり、建築と音響が完全に調和した“音の聖堂”だ。  
 壁の厚み、天井の高さ、スピーカーの配置──全てが身体にビートを直接伝える。  
-Ohmや://about blankも同様に、DJセットと観客の距離感が絶妙に計算されている。
+Ohmも同様に、DJセットと観客の距離感が絶妙に計算されている。
 
 ### Ostgut Ton、Innervisions、Monkeytown──街を支えるレーベル群
 
