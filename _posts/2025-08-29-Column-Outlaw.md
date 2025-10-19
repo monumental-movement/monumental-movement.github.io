@@ -19,9 +19,17 @@ image: ../assets/images/column-outlaw.webp
 
 ジャズの後期モダン化（ビバップ〜ハードバップ）は、深夜クラブ、ドラッグ、ブラック・ボヘミアンのライフスタイルと結びつき、「労働と規律」中心の戦後規範から逸脱する知的アウトロー像を形成。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CX-Y-6kw8HU?si=ozurQgmBGI0_T1C-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ロックンロール／ロカビリーは、白人労働者階級の若者文化と黒人音楽の越境接合。革ジャン、ポンパドール、ホットロッドは“反権威”のコスチュームとなり、グリーサー、バイカーのアイコンが確立される。
 
-**メカニズム**：人種・階級の境界をまたぐ音楽混淆＋夜間娯楽＝「道徳パニック」を誘発（スタンレー・コーエン）。警察・学校・宗教団体の規制が、かえってシーンの結束を強める。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9KJzeOmHgc4?si=AJx_tAvARl4oGOBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**メカニズム**：人種・階級の境界をまたぐ音楽混淆＋夜間娯楽＝「道徳パニック」を誘発（Folk devils and moral panics:スタンレー・コーエン）。警察・学校・宗教団体の規制が、かえってシーンの結束を強める。
 
 
 <hr>
@@ -30,9 +38,21 @@ image: ../assets/images/column-outlaw.webp
 
 英国モッズはテーラードのスーツ、スクーター、ソウル／R&B嗜好。ロッカーズは革ジャンとカフェレーサー。海辺のリゾートでの集団衝突は「若者不良化」の象徴に。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OgtQj8O92eI?si=jxs01UU_-swQuxDX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 サイケデリック／ヒッピーは争議や徴兵制への抵抗、ドラッグの意識拡張とコミューン生活。音楽フェス（モンタレー、ウッドストック）は自治的空間の実験場となる。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdCZR9M5EKY?si=X6LGSZL9V6faqler" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ガレージ／プロトパンクはDIY精神と反商業主義。学校体育館や倉庫がライブハウス化。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7uC5m-IRns?si=v7XltqaKD_0YpY9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **メカニズム**：ファッションの差異化—ヘブディッジの言う「スタイルの盗用」—をめぐる攻防。メディアは暴力性を誇張し、モラル・パニックを増幅。
 
@@ -43,9 +63,21 @@ image: ../assets/images/column-outlaw.webp
 
 パンク（NY/UK）は失業・荒廃・人種摩擦を背景に、反体制のスローガンと極小資本のインフラ（インディーレーベル、ジン、スクウォット会場）を構築。ピットやスパイク、DIY安全ピンは“違法スレスレ”の視覚記号。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwsVWZ-c8Eo?si=6qD5twRzmr6LVRzf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 レゲエ／ダブはサウンドシステム文化と結びつき、移民コミュニティの自衛と誇りを担う。警察との緊張は頻発し、歌詞は制度的人種差別への抵抗を語る。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ディスコはナイトクラブのセキュリティや入場差別といった“闇”も抱えつつ、LGBTQ＋／黒人・ラテンコミュニティの避難所＝合法と非合法の境界で踊る権利の獲得。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **メカニズム**：都市の空洞化と公共空間の管理強化→周縁の人びとは夜間・地下へ退避。音圧と身体接触が連帯を形成。
 
@@ -56,11 +88,27 @@ image: ../assets/images/column-outlaw.webp
 
 ハードコア・パンクは速度と短尺、一瞬の“合意”で生まれるフロアの自治（サークルピット、ステージダイブ）。一方で暴力化や排外主義とのせめぎ合いも。
 
-**スキンヘッド／Oi!**は労働者階級の誇りと音楽の接続だが、政治的左右への分岐が生じる。反人種差別運動（例：SHARPなど）も並走。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5NAPYIMMbWQ?si=STcmncZQCWAsDeLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+スキンヘッド／Oi!は労働者階級の誇りと音楽の接続だが、政治的左右への分岐が生じる。反人種差別運動（例：SHARPなど）も並走。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlbUVlutS5Y?si=1inTVSVnv7B9WY6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ヒップホップはブロック・パーティ、グラフィティ、ブレイキング、DJ/MCの“四本柱”。ギャング暴力が周辺にある地区も多く、ラップは街の現実と自己語りの合法的“武器”として機能。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KNb9sq-jMNI?si=PcwZilJPYaKNKsqR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 メタルは“悪魔化”のイメージを纏いPMRCなどの自主規制論争を喚起。サブジャンルによっては暴力事件や差別的言説をめぐる社会的対立も生む。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **メカニズム**：サブカルの「部族化」（マフェゾリ）。小さな規範が強力に働き、外部からは“アウトロー”に見える。
 
@@ -71,9 +119,21 @@ image: ../assets/images/column-outlaw.webp
 
 レイヴ／アシッドハウスは倉庫・野外の違法パーティやドラッグ問題で当局と対立。携帯電話とネット掲示板の黎明が“移動するパーティ”を加速。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=hCI-xBjaToWttwBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 グランジ／オルタナは反商業の姿勢を掲げるも、一気にメインストリーム化し、反権威の記号が消費に回収されるという古典的パターンを露呈。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ywsBvp4PyXY?si=Y-szzMIkuUtNlbFT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ギャングスタ・ラップは警察暴力、社会的不平等、ストリート規範を露骨に描き、メディアの標的に。現実の暴力と表現の模倣可能性をめぐる議論が社会問題化。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VMYAEHE2GrM?si=Xy2ZiHUL6lCAMwk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **メカニズム**：法規制（騒音・集合・風営関連）と創意的回避（シークレットロケーション、フリーパーティ）のイタチごっこ。
 
@@ -86,7 +146,11 @@ image: ../assets/images/column-outlaw.webp
 
 EMO／スクリーモ、ニューメタルは自己暴露と怒りの表現が家庭・学校規範と緊張。
 
-メカニズム：ハードウェアの低価格化とソフトの民主化→制作・配布の分権化。プラットフォームの規約が新たな“治安”になる。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJkqb57SArE?si=fLITVUPRJQLqWyFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+**メカニズム**：ハードウェアの低価格化とソフトの民主化→制作・配布の分権化。プラットフォームの規約が新たな“治安”になる。
 
 <hr>
 
@@ -94,11 +158,15 @@ EMO／スクリーモ、ニューメタルは自己暴露と怒りの表現が�
 
 トラップは経済的周縁の現実（薬物経済・監視社会）と結びつく表象を、808の重低音と反復で美学化。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/He7kMCAdi1c?si=xm_InrhaTIwanafp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 サウンドクラウドラップは薬物依存や精神的脆弱さをも美学化し、自己破壊衝動とポップ感覚が同居。
 
 レフトフィールド／クィア・クラブは安全な夜の居場所を再構築し、差別への対抗としての“ルール”を内部に設ける（ハラスメントゼロ、撮影禁止など）。
 
-メカニズム：SNSが評判資本を可視化。可視性の獲得が“アウトローな記号”の乱用を誘発する一方、コミュニティ規範が自律的に強化。
+**メカニズム**：SNSが評判資本を可視化。可視性の獲得が“アウトローな記号”の乱用を誘発する一方、コミュニティ規範が自律的に強化。
 
 
 <hr>
@@ -155,15 +223,15 @@ EMO／スクリーモ、ニューメタルは自己暴露と怒りの表現が�
 
 ### 参考
 
-ディック・ヘブディッジ「サブカルチャー：スタイルの意味」
+- [**ディック・ヘブディッジ**「サブカルチャー：スタイルの意味」](https://amzn.to/4o0Se7W)
 
-スタンレー・コーエン「道徳パニックと民衆の悪魔」
+- [**スタンレー・コーエン**「Folk Devils and Moral Panics」](https://amzn.to/43hNrGM)
 
-ハワード・ベッカー「アウトサイダーズ」—逸脱は相互作用の産物
+- [**ハワード・ベッカー**「アウトサイダーズ」—ラベリング理論とはなにか](https://amzn.to/4qeMnNT)
 
-ピエール・ボードリュー「ディスタンクシオン」—趣味と社会階層
+- [**ピエール・ブルデュー**「ディスタンクシオン」—社会的判断力批判](https://amzn.to/4nxBlkl)
 
-ミシェル・マフェゾリ「ネオ・トライブ」—部族的連帯の美学
+- [**ミシェル・マフェゾリ**「政治的なものの変貌」—部族化/小集団化する世界](https://amzn.to/49aZ5a4)
 
 
 <hr>
