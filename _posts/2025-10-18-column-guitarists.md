@@ -63,7 +63,13 @@ color: #fff;
 
 **Glenn Branca**はギターオーケストラを編成し、都市的な音響の表現を可能にした。多人数ギターによるハーモニーとノイズの重層構造は、後のシューゲイザーやノイズロックに大きな影響を与えた。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDBsyra0FIA?si=CzvTcQbIrbnyQE46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 **Fred Frith**は即興演奏で偶発性を重視し、ギターの物理的可能性を最大化。ピック、弦、ボディを多様に操作し、従来の技法を超えた表現を行った。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2WSeZZV6iQ?si=6HCr9hcptnQiKByT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -182,7 +188,7 @@ color: #fff;
 
 灰野敬二は、ギターを身体と精神の延長として扱い、音の極限で聴き手の感覚を揺さぶる存在である。即興・破壊・表現の三位一体が、日本アンダーグラウンド・ギター史における重要な座標となる。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/07GwA7u-gWU?si=Bip28Nm3b6Zw-aQ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
