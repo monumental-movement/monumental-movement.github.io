@@ -163,7 +163,6 @@ flowchart TD
 ---
 
 > 「Reel to Reelは、Reel to Real（現実）である。」
-> — 無名のエンジニア、1971年の録音メモより
 
 ---
 
