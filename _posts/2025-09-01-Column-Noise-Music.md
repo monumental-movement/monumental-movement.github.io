@@ -22,8 +22,16 @@ image: ../assets/images/column-noise-music.webp
 ### 重要な出来事・人物
 - 1913年、イタリアの前衛芸術家ルイージ・ルッソロが『The Art of Noises（ノイズの芸術）』を発表。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 代表的な作品
 - ルッソロの「ノイズ・マシン」による実演記録。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ### 機材・技術
 - 機械音や環境音を使った実演。
@@ -43,6 +51,8 @@ image: ../assets/images/column-noise-music.webp
 ### 機材・技術
 - テープ編集（逆回転、ループ、切断・継接）。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 3) ロックからの逸脱とプロト・ノイズ（1960s–1970s）
@@ -50,7 +60,7 @@ image: ../assets/images/column-noise-music.webp
 ロックの実験性が高まり、ノイズがロックの文脈に組み込まれる。
 
 ### 代表的作品
-- Lou Reed『Metal Machine Music』（1975）。
+- [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
 
 ### 機材・技術
 - ギターのフィードバック、エフェクター、簡易録音機。
@@ -65,7 +75,7 @@ image: ../assets/images/column-noise-music.webp
 - Throbbing Gristle が「インダストリアル」概念を確立。
 
 ### 代表的作品
-- 『Kollaps』（Einstürzende Neubauten）、Throbbing Gristleの初期盤。
+- [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
 
 ### 機材・技術
 - 工業打楽器、金属音、簡易シンセサイザー。
@@ -77,7 +87,7 @@ image: ../assets/images/column-noise-music.webp
 カセット文化とDIY精神により、国際的なノイズ・ネットワークが形成。
 
 ### 重要な出来事・人物
-- Whitehouse（UK）、Merzbow（日本）。
+- [Whitehouse（UK）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
 
 ### 代表的作品
 - Merzbow『Pulse Demon』周辺作品、Whitehouseの初期盤。
@@ -92,7 +102,7 @@ image: ../assets/images/column-noise-music.webp
 ノイズはロック、メタル、ポストロック、エレクトロニカと交差。
 
 ### 代表的作品／潮流
-- Boredoms、Lightning Bolt、Sonic Youthなど。
+- [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
 
 ### 機材・技術
 - DAW、デジタルエフェクト、サンプラー、グラニュラー合成。
@@ -108,6 +118,8 @@ image: ../assets/images/column-noise-music.webp
 
 ### 機材・技術
 - モジュラー（Eurorack）、Max/MSP、SuperCollider、回路曲げ。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
