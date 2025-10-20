@@ -21,11 +21,19 @@ image: ../assets/images/column-eurorack-module.webp
 
 #### Make Noise（メイクノイズ）
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 **代表モジュール**: MATHS、Erbe-Verb、Phonogene
 
 **特徴**: 直感的な操作性と独創的な機能を持つモジュールを提供。MATHSはアナログコンピュータとして、複雑なモジュレーションを可能にします。
 
 #### Intellijel（インテリジェル）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **代表モジュール**: Plonk、Metropolis、Tetrapad
 
@@ -39,11 +47,19 @@ image: ../assets/images/column-eurorack-module.webp
 
 #### Doepfer（ドイプファー）
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 **代表モジュール**: A-110（VCO）、A-120（SVF）、A-140（EG）
 
 **特徴**: ユーロラック規格の提唱者として、基本的なモジュールを多くラインナップ。初心者にも扱いやすい設計が特徴です。
 
 #### Noise Engineering（ノイズ・エンジニアリング）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 **代表モジュール**: Basimilus Iteritas、Loquelic Iteritas
 
