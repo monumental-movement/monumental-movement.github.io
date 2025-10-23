@@ -42,7 +42,7 @@ jekyll-archives:
     category: '../category/:name/'
     
 # Pagination 
-paginate: 24
+paginate: 48
 paginate_path: /page:num/
     
 # Other
