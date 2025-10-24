@@ -266,10 +266,9 @@ flowchart TD
 
 <div class="mermaid">
 
-{% mermaid %}
 flowchart TD
 
-  %% === ノード定義 ===
+
   A["1980s - 1990s<br>(初期)"]
   B["1996–2005<br>(転換期)"]
   C["2014–2025<br>(現在)"]
@@ -286,17 +285,16 @@ flowchart TD
   C --> C2["Max/MSP, Reaktor, ソフト・モジュール"]
   C --> C3["ハイブリッド：物理制御＋アルゴリズム"]
 
-  %% === 時代間リンク ===
+
   A1 --- B1
   A2 --- B2
   B3 --- C2
   B2 --- C2
   C1 --- C2
 
-  %% === スタイル設定 ===
+
   classDef era fill:#eef,stroke:#88a,stroke-width:1px;
   class A,B,C era;
-{% endmermaid %}
 
 
 </div>
