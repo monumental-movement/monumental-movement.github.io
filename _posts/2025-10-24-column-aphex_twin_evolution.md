@@ -195,17 +195,17 @@ Aphex Twinの音楽は、単なる電子音の集積ではない。
 
 ## 参照資料・推奨ディスコグラフィー
 
-Selected Ambient Works 85–92 (1992, R&S)
+- [Selected Ambient Works 85–92 (1992, R&S)](https://amzn.to/3WmBWds)
 
-Richard D. James Album (1996, Warp)
+- [Richard D. James Album (1996, Warp)](https://amzn.to/3JutxSd)
 
-Drukqs (2001, Warp)
+- [Drukqs (2001, Warp)](https://amzn.to/3WRtiUj)
 
-Syro (2014, Warp)
+- [Syro (2014, Warp)](https://amzn.to/3WGcWy1)
 
-Collapse EP (2018, Warp)
+- [Collapse EP (2018, Warp)](https://amzn.to/43hPtXF)
 
-Blackbox Life Recorder 21f (2023, Warp)
+- [Blackbox Life Recorder 21f (2023, Warp)](https://amzn.to/4qrUqHc)
 
 
 ---
@@ -221,39 +221,40 @@ Blackbox Life Recorder 21f (2023, Warp)
 
 <div class="mermaid">
 
-flowchart LR
+flowchart TD
   A[初期（1990–1995）]
   B[現在（2014–2025）]
 
-  A --> A1[低域優勢\n(60–400Hz)]
-  A --> A2[狭いダイナミックレンジ]
-  A --> A3[テープ/アナログ歪み・偶発ノイズ]
-  A --> A4[比較的単純なキック/ビート]
+  A --> A1["低域優勢<br>(60–400Hz)"]
+  A --> A2["狭いダイナミックレンジ"]
+  A --> A3["テープ/アナログ歪み・偶発ノイズ"]
+  A --> A4["比較的単純なキック/ビート"]
 
-  B --> B1[周波数が広く分散\n(ロー〜ハイの均衡)]
-  B --> B2[広いダイナミックレンジ\nトランジェント精度↑]
-  B --> B3[モジュラー＋デジタル複合テクスチャ]
-  B --> B4[ポリリズム・タイミングズレ]
+  B --> B1["周波数が広く分散<br>(ロー〜ハイの均衡)"]
+  B --> B2["広いダイナミックレンジ<br>トランジェント精度↑"]
+  B --> B3["モジュラー＋デジタル複合テクスチャ"]
+  B --> B4["ポリリズム・タイミングズレ"]
 
-  subgraph VIS_LEFT [波形（概念） - 初期]
+  subgraph VIS_LEFT ["波形（概念） - 初期"]
     direction TB
-    WL1((短い反復フレーズ))
-    WL2((ハイパスの弱いサブベース))
+    WL1(("短い反復フレーズ"))
+    WL2(("ハイパスの弱いサブベース"))
   end
 
-  subgraph VIS_RIGHT [波形（概念） - 現在]
+  subgraph VIS_RIGHT ["波形（概念） - 現在"]
     direction TB
-    WR1((複合トランジェント))
-    WR2((密な高域ディテール))
+    WR1(("複合トランジェント"))
+    WR2(("密な高域ディテール"))
   end
 
-  A1 --> VIS_LEFT
-  A2 --> VIS_LEFT
-  B1 --> VIS_RIGHT
-  B2 --> VIS_RIGHT
+  A1 --> WL1
+  A2 --> WL2
+  B1 --> WR1
+  B2 --> WR2
 
   style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
   style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
+
 
 </div>
 
@@ -265,32 +266,38 @@ flowchart LR
 
 <div class="mermaid">
 
-flowchart LR
-  style A fill:#fff,stroke:#000
-  A[1980s - 1990s\n(初期)]
-  B[1996–2005\n(転換期)]
-  C[2014–2025\n(現在)]
+{% mermaid %}
+flowchart TD
 
-  A --> A1[TΒ-303 / TB-808 / SH-101\nアナログ・リズム/ベース]
-  A --> A2[Akai S900 / S950\nサンプラー（切り貼り）]
-  A --> A3[Atari ST + Cubase（初期）]
+  %% === ノード定義 ===
+  A["1980s - 1990s<br>(初期)"]
+  B["1996–2005<br>(転換期)"]
+  C["2014–2025<br>(現在)"]
 
-  B --> B1[より高性能サンプラー\nハードウェアシンセの拡充]
-  B --> B2[DAW導入（Pro Tools 等）\n精密編集]
-  B --> B3[外部エフェクト／ハード処理]
+  A --> A1["TB-303 / TB-808 / SH-101<br>アナログ・リズム / ベース"]
+  A --> A2["Akai S900 / S950<br>サンプラー（切り貼り）"]
+  A --> A3["Atari ST + Cubase（初期）"]
 
-  C --> C1[Eurorackモジュラー\n(モジュラーパッチ文化)]
-  C --> C2[Max/MSP, Reaktor, ソフト・モジュール]
-  C --> C3[ハイブリッド：物理制御＋アルゴリズム]
+  B --> B1["より高性能サンプラー<br>ハードウェアシンセの拡充"]
+  B --> B2["DAW導入（Pro Tools 等）<br>精密編集"]
+  B --> B3["外部エフェクト／ハード処理"]
 
+  C --> C1["Eurorackモジュラー<br>(モジュラーパッチ文化)"]
+  C --> C2["Max/MSP, Reaktor, ソフト・モジュール"]
+  C --> C3["ハイブリッド：物理制御＋アルゴリズム"]
+
+  %% === 時代間リンク ===
   A1 --- B1
   A2 --- B2
   B3 --- C2
   B2 --- C2
   C1 --- C2
 
+  %% === スタイル設定 ===
   classDef era fill:#eef,stroke:#88a,stroke-width:1px;
-  class A,B,C era
+  class A,B,C era;
+{% endmermaid %}
+
 
 </div>
 
