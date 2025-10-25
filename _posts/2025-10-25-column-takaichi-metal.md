@@ -160,16 +160,16 @@ flowchart LR
 
 ## ブラック・サバス（Black Sabbath）、ディープ・パープル（Deep Purple）、ジューダス・プリースト（Judas Priest） の初期におけるおすすめアルバム
 
-| バンド名              | 推薦アルバム                         | 発売年  | 特徴・聴きどころ                                            | 代表曲                                      |
-| ----------------- | ------------------------------ | ---- | --------------------------------------------------- | ---------------------------------------- |
-| **Black Sabbath** | **Black Sabbath（黒い安息日）**       | 1970 | 世界初のヘヴィメタル誕生とされる作品。ブルースの暗黒化、教会の鐘のSEが象徴的。            | “Black Sabbath” / “N.I.B.”               |
-|                   | **Paranoid（パラノイド）**            | 1970 | メタルの原型を確立した名盤。スピード、社会性、重厚さが共存。                      | “War Pigs” / “Iron Man” / “Paranoid”     |
-|                   | **Master of Reality**          | 1971 | ドロップDチューニングによる重低音の進化。ドゥームメタルの祖。                     | “Sweet Leaf” / “Children of the Grave”   |
-| **Deep Purple**   | **Deep Purple in Rock**        | 1970 | ハードロックの礎を築いた名作。クラシック的構成美と爆発力の融合。                    | “Speed King” / “Child in Time”           |
-|                   | **Fireball**                   | 1971 | より攻撃的で実験的。テンポ変化やブルース感が強い。                           | “Fireball” / “The Mule”                  |
-|                   | **Machine Head**               | 1972 | ロック史に残る完成度。リフとグルーヴの黄金比。                             | “Smoke on the Water” / “Highway Star”    |
-| **Judas Priest**  | **Sad Wings of Destiny（運命の翼）** | 1976 | 哀愁と叙情のメタル美学が確立。ツインリードの原型。                           | “Victim of Changes” / “The Ripper”       |
-|                   | **Sin After Sin**              | 1977 | メジャーデビュー作。ロジャー・グローヴァー（Deep Purple）プロデュース。ドラマチックな展開。 | “Sinner” / “Diamonds and Rust”           |
-|                   | **Stained Class**              | 1978 | スピードメタルの萌芽。精密で冷たい音像。                                | “Exciter” / “Beyond the Realms of Death” |
+| バンド              | アルバム       | 発売年  | 特徴・聴きどころ             | 
+| ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
+| **Black Sabbath** | **Black Sabbath（黒い安息日）** | 1970 | 世界初のヘヴィメタル誕生とされる作品。ブルースの暗黒化、教会の鐘のSEが象徴的。            |
+|                   | **Paranoid（パラノイド）** | 1970 | メタルの原型を確立した名盤。スピード、社会性、重厚さが共存。    |
+|                   | **Master of Reality**  | 1971 | ドロップDチューニングによる重低音の進化。ドゥームメタルの祖。      |
+| **Deep Purple**   | **Deep Purple in Rock**  | 1970 | ハードロックの礎を築いた名作。クラシック的構成美と爆発力の融合。                    |
+|                   | **Fireball**     | 1971 | より攻撃的で実験的。テンポ変化やブルース感が強い。                  |
+|                   | **Machine Head**               | 1972 | ロック史に残る完成度。リフとグルーヴの黄金比。          |
+| **Judas Priest**  | **Sad Wings of Destiny（運命の翼）** | 1976 | 哀愁と叙情のメタル美学が確立。ツインリードの原型。                           |
+|                   | **Sin After Sin** | 1977 | メジャーデビュー作。ロジャー・グローヴァー（Deep Purple）プロデュース。ドラマチックな展開。 |
+|                   | **Stained Class**      | 1978 | スピードメタルの萌芽。精密で冷たい音像。          |
 
 ---
