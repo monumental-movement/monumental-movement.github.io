@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【コラム】 高市早苗首相とメタル：鉄の意志と音の政治学"
+title:  "【コラム】 高市早苗総理とメタル：鉄の意志と音の政治学"
 author: mmr
 categories: [ Column ]
 tags: [ Metal, Heavy Metal, Noise, History ]
