@@ -7,7 +7,7 @@ tags: [ Sound, History ]
 image: ../assets/images/column-sound-memory-10sec.webp
 ---
 
-## 序章：音が「生」を変えるとき
+## 序章：音が「人生」を変えるとき
 
 
 文：mmr｜テーマ：記憶の中で鳴り続ける“10秒”の断片
@@ -68,6 +68,7 @@ flowchart TD
     C["海馬での長期記憶化"]
     D["文脈化（その音が流れた“状況”の記憶）"]
     E["再生時に感情が再構築される"]
+    
     A --> B --> C --> D --> E
 
 </div>
