@@ -122,15 +122,16 @@ graph LR
 
 <div class="mermaid">
 
-title 小池桂一 年表（1976–2005）
-1976 : 第12回手塚賞「ウラシマ」入選、デビュー
-1981 : 渡米、Richard Williams Animation Inc.でCM制作参加
-1983 : 『Epic Illustrated』に『LANDED』掲載
-1986 : 初単行本『SPINOZA』刊行
-1988 : 『かたじけない』『G（GATE 1）』刊行
-2002 : 『ULTRA HEAVEN』刊行
-2003 : 『HEAVEN'S DOOR』刊行、既刊『G』復刻
-2005 : 『ULTRA HEAVEN』第2巻刊行
+timeline
+    title 小池桂一 年表（1976–2005）
+    1976 : 第12回手塚賞「ウラシマ」入選、デビュー
+    1981 : 渡米、Richard Williams Animation Inc.でCM制作参加
+    1983 : 『Epic Illustrated』に『LANDED』掲載
+    1986 : 初単行本『SPINOZA』刊行
+    1988 : 『かたじけない』『G（GATE 1）』刊行
+    2002 : 『ULTRA HEAVEN』刊行
+    2003 : 『HEAVEN'S DOOR』刊行、既刊『G』復刻
+    2005 : 『ULTRA HEAVEN』第2巻刊行
 
 </div>
 
