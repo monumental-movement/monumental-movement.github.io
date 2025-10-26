@@ -176,19 +176,17 @@ flowchart TD
 
 ### 参考文献・リスニングガイド
 
-- [Wu-Tang Clan『Enter the Wu-Tang (36 Chambers)』（1993）]()
+- [Wu-Tang Clan『Enter the Wu-Tang (36 Chambers)』（1993）](https://amzn.to/3WW5Yop)
 
-- [RZA『The Tao of Wu』（2009）]()
+- [RZA『The Tao of Wu』（2009）](https://amzn.to/3WVd7p3)
 
-- [『Ghost Dog: The Way of the Samurai』（Film, 1999）]()
+- [『Ghost Dog: The Way of the Samurai』（Film, 1999）](https://amzn.to/42UMMuP)
 
-- [『Afro Samurai Original Soundtrack』（RZA, 2007）]()
+- [『Afro Samurai Original Soundtrack』（RZA, 2007）](https://amzn.to/4nrD5LV)
 
-- [Nujabes『Metaphorical Music』（2003）]()
+- [Nujabes『Metaphorical Music』（2003）](https://amzn.to/3WXcNpM)
 
-- [Ian Condry『Hip-Hop Japan』（2006）]()
-
-- [鈴木謙介『文化系トークラジオLife：アニメとヒップホップ特集』（TBS, 2015）]()
+- [Ian Condry『Hip-Hop Japan』（2006）](https://amzn.to/3Wo3K0Y)
 
 ---
 
