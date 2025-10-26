@@ -4,7 +4,7 @@ title:  "VA – Trance Lovers 2"
 author: mmr
 categories: [ CD ]
 tags: [ Trance, 00s ]
-image: ../assets/images/VA – Trance Lovers 2.webp
+image: ../assets/images/Various – Trance Lovers 2.webp
 ---
 
 トランスコンピレーション
