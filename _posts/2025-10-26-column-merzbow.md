@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 MERZBOW ── ノイズという解放の音響学"
 author: mmr
 categories: [ Column ]
-tags: [ Experimental, Noise ]
+tags: [ Experimental, Noise, Ambient ]
 image: ../assets/images/column-merzbow.webp
 ---
 
