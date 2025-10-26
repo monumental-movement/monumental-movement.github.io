@@ -3,7 +3,7 @@ layout: post
 title:  "Wu-Tang Clan – C.R.E.A.M."
 author: mmr
 categories: [ Vinyl ]
-tags: [ Hiphop ]
+tags: [ Hiphop, Wu-Tang ]
 image: ../assets/images/Wu-Tang Clan – CREAM.webp
 ---
 

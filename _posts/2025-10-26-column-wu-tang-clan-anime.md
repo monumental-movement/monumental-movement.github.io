@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Wu-Tang Clanと日本のアニメカルチャー：東洋思想とストリートの共鳴"
 author: mmr
 categories: [ Column ]
-tags: [ Hiphop, Anime ]
+tags: [ Hiphop, Anime, Wu-Tang ]
 image: ../assets/images/column-wu-tang-clan-anime.webp
 ---
 

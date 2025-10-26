@@ -3,7 +3,7 @@ layout: post
 title:  "RZA As Bobby Digital – RZA As Bobby Digital In Stereo"
 author: mmr
 categories: [ CD ]
-tags: [ Hiphop ]
+tags: [ Hiphop, Wu-Tang ]
 image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.webp
 ---
 
