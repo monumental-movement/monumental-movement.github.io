@@ -187,13 +187,13 @@ timeline
 
 - [Annals of Improbable Research. “The 29th First Annual Ig Nobel Prize Ceremony”, Harvard University, 2019.](https://vimeo.com/improbable)
 
-John Cage, 4′33″ (1952)
+- [John Cage, 4′33″ (1952)](https://amzn.to/4qtfo8o)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gN2zcLBr_VM?si=uqDWXduAYip2QPLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Brian Eno, Generative Music Manifesto (1996)
+- [Brian Eno, Generative Music Manifesto (1996)](https://amzn.to/49hXIqb)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R5E-CJcCZ3I?si=_7SSuTjBfkb6W2NV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
