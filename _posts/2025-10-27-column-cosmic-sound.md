@@ -162,7 +162,7 @@ timeline
 ---
 
 
-## 図版：Cosmic Soundの構造モデル
+## 9.図版：Cosmic Soundの構造モデル
 
 <div class="mermaid">
 
