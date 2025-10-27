@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ"
 author: mmr
 categories: [ Column ]
-tags: [ Experimental, Noise, Ambient ]
+tags: [ House, Rock, Italo, Vinyl ]
 image: ../assets/images/column-harvey-vinyl.webp
 ---
 
