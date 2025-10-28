@@ -7,7 +7,7 @@ tags: [ Hiphop, Vinyl ]
 image: ../assets/images/column-sample-origins.webp
 ---
 
-#### 序章：音のDNAをたどる
+### 序章：音のDNAをたどる
 
 
 文：mmr｜テーマ：**WhoSampled**などのデータをもとに「最もサンプリングされた音源20選」を取り上げ、それぞれがどのように音楽史に刻まれてきたのかを探る
@@ -186,7 +186,7 @@ The Roots、Eric B. & Rakim、Arrested Developmentなどが使用。ドラムブ
 
 ---
 
-#### 年表：サンプリングの進化史
+### 年表：サンプリングの進化史
 
 | 年代 | 出来事 |
 |------|---------|
@@ -200,7 +200,7 @@ The Roots、Eric B. & Rakim、Arrested Developmentなどが使用。ドラムブ
 
 ---
 
-#### 図：サンプリングの連鎖
+### 図：サンプリングの連鎖
 
 <div class="mermaid">
 
@@ -216,7 +216,7 @@ E --> F["2020s AI Sampling Era"]
 ---
 
 
-#### 結語：リズムは永遠に循環する
+### 結語：リズムは永遠に循環する
 
 サンプリングとは、他者の時間を借りて新たな時代を語る行為だ。
 その背後には、名もなきミュージシャンたちの呼吸、機材のノイズ、そして文化の継承がある。
@@ -224,7 +224,7 @@ E --> F["2020s AI Sampling Era"]
 
 ---
 
-#### 参考
+### 参考
 
 - [WhoSampled.com](WhoSampled.com) 
 - [The Breakbeat Bible](https://amzn.to/3J9CXma) 
