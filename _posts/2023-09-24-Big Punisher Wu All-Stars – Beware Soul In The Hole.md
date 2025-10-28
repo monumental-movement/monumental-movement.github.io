@@ -3,7 +3,7 @@ layout: post
 title:  "Big Punisher Wu All-Stars – Beware Soul In The Hole"
 author: mmr
 categories: [ Vinyl ]
-tags: [ Hiphop ]
+tags: [ Hiphop, Wu-Tang, 90s ]
 image: ../assets/images/Big Punisher Wu All-Stars – Beware Soul In The Hole.webp
 ---
 
