@@ -175,10 +175,10 @@ Koitéの後続世代には、**Rokia Traoré**, **Fatoumata Diawara**, **Vieux 
 <div class="mermaid">
 
 graph TD
-    A[マリ伝統音楽<br>Griot文化] --> B[Ali Farka Touré<br>(砂漠ブルース)]
-    B --> C[Habib Koité & Bamada<br>(都市的アコースティック融合)]
-    C --> D[Rokia Traoré / Fatoumata Diawara<br>(個人表現の深化)]
-    D --> E[Global Stage<br>ワールドミュージックの新地平]
+    A["マリ伝統音楽<br>Griot文化"] --> B["Ali Farka Touré<br>(砂漠ブルース)"]
+    B --> C["Habib Koité & Bamada<br>(都市的アコースティック融合)"]
+    C --> D["Rokia Traoré / Fatoumata Diawara<br>(個人表現の深化)"]
+    D --> E["Global Stage<br>ワールドミュージックの新地平"]
 
 </div>
 

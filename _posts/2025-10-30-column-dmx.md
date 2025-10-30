@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 DMX：吠える魂 ― 暴力と祈りのはざまで"
 author: mmr
 categories: [ Column ]
-tags: [ Ambient, Ambient jazz, Spiritual ]
+tags: [ Hiphop, Eastcoast Hihop, Rap ]
 image: ../assets/images/column-dmx.webp
 ---
 

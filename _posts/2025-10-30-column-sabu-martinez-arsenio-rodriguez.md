@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 アフロ・キューバンの骨格 ― Sabu MartinezとArsenio Rodríguezが刻んだ鼓動の系譜"
 author: mmr
 categories: [ Column ]
-tags: [ Ambient, Ambient jazz, Spiritual ]
+tags: [ Cuban, African, Tribal ]
 image: ../assets/images/column-sabu-martinez-arsenio-rodríguez.webp
 ---
 
@@ -59,10 +59,10 @@ color: #fff;
 
 ### 彼の革新点：
 
-1. **トランペットとトレスの掛け合わせ**による拡張ソン。
-2. **モントゥーノ（反復パート）**をリズムの基盤として前面化。
-3. **コール＆レスポンス**をジャズ的インタープレイに転換。
-4. **ベースラインの強化**による“tumbao”概念の明確化。
+- 1. **トランペットとトレスの掛け合わせ**による拡張ソン。
+- 2. **モントゥーノ（反復パート）**をリズムの基盤として前面化。
+- 3. **コール＆レスポンス**をジャズ的インタープレイに転換。
+- 4. **ベースラインの強化**による“tumbao”概念の明確化。
 
 これにより、彼のバンドは「アフロ・キューバン・アンサンブル」としての先駆けとなり、
 後のティト・プエンテ、マチート、セロニアス・モンクにも影響を与える。
@@ -126,7 +126,7 @@ Arsenioはそれを**旋律構造に埋め込み**、Sabuは**即興構造の軸
 
 <div class="mermaid">
 
-flowchart LR
+flowchart TD
     A["クラーベ（2–3 / 3–2）"] --> B["Arsenioのモントゥーノ構造"]
     A --> C["Sabuのポリリズム即興"]
     B --> D["ハーモニー内リズム化"]
