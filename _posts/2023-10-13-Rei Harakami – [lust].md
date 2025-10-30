@@ -3,7 +3,7 @@ layout: post
 title:  "Rei Harakami – [lust]"
 author: mmr
 categories: [ CD ]
-tags: [ Break Beat, Ambient ]
+tags: [ Break Beat, Ambient, Electronica ]
 image: ../assets/images/Rei Harakami – [lust].webp
 ---
 
