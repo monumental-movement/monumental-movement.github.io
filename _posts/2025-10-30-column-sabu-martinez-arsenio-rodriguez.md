@@ -7,7 +7,7 @@ tags: [ Cuban, African, Tribal ]
 image: ../assets/images/column-sabu-martinez-arsenio-rodríguez.webp
 ---
 
-## イントロダクション：太鼓が語る、もうひとつのアメリカ音楽史*
+## イントロダクション：太鼓が語る、もうひとつのアメリカ音楽史
 
 
 文：mmr｜テーマ：Sabu MartinezとArsenio Rodríguezを軸に
