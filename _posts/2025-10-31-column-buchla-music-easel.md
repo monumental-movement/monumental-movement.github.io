@@ -70,8 +70,8 @@ D -->|Control Voltage| B
 
 Music Easelは次の二つの主要ブロックから成る。
 
-- 1. **Buchla 208 Stored Program Sound Source（音源モジュール）**
-- 2. **Buchla 218 Touch Keyboard Controller**
+-  **Buchla 208 Stored Program Sound Source（音源モジュール）**
+-  **Buchla 218 Touch Keyboard Controller**
 
 ### シグナル・フロー図（Mermaid）
 
@@ -105,7 +105,7 @@ G --> H[Main Out]
 
 ## 第3章：ライブ・インストゥルメントとしてのEasel
 
-### 🎙️ 事例1：Suzanne Ciani “Easel Sessions” (2016–)
+### 事例1：Suzanne Ciani “Easel Sessions” (2016–)
 
 伝説的女性電子音楽家 **Suzanne Ciani** は、2010年代にEaselでのソロライブシリーズ “Easel Sessions” を開始した。
 彼女は一切のラップトップを排し、Easel単体で演奏する。
