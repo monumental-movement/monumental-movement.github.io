@@ -42,10 +42,35 @@ color: #fff;
 ## 第2章：Plastikman誕生 ― Acidの残滓とテクノの内省
 1993年、『_Sheet One_』がリリースされる。アシッド・ハウスの伝統的TB-303サウンドを極限まで脱色し、まるで**心拍と神経の信号**のような音響空間を構築。音と音の「間」に漂う沈黙が、むしろ主役として聴こえる。
 
+そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
+
 > “Plastikmanは僕自身の内部を音で可視化するプロジェクトだ”  
 > — Richie Hawtin
 
 この頃のライブは、ほぼ真っ暗な会場に赤いストロボが一瞬だけ閃くような演出で、**音の物質化**を象徴していた。観客は踊るというよりも、音の中に「沈む」感覚を味わった。
+
+#### Plastikman – Musik
+
+Richie Hawtin (リッチー・ホゥティン)の別名義Plastikman(プラスティックマン)として1994年にレーベルNovaMuteからリリースしたアルバム。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
+
+#### Tracklist
+```md
+1. Konception
+2. Plastique
+3. Kriket
+4. Fuk
+5. Outbak
+6. Ethnik
+7. Plasmatik
+8. Goo
+9. Marbles
+10. Lasttrak
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -261,6 +286,7 @@ Plastikmanとは、テクノが「外」ではなく「内」へ向かうため�
 
 | 年    | アーティスト        | リリース名                       | コメント                    |
 | ---- | ------------- | --------------------------- | ----------------------- |
+| 1994 | Plastikman    | **Musik** EP                | Plastikman名義でAcid Technoの頂点。 |
 | 1998 | Plastikman    | **Minus** EP                | Minus設立第1弾。極限のミニマルサウンド。 |
 | 1999 | Magda         | **Track 1**                 | 暗黒ミニマルの試験作。             |
 | 2000 | Richie Hawtin | **EX/EP**                   | DE9以前のライブリミックス。         |

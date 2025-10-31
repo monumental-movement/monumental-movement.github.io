@@ -3,7 +3,7 @@ layout: post
 title:  "Plastikman – Musik"
 author: mmr
 categories: [ CD ]
-tags: [ Techno, Acid, Experimental, Minimal, Ambient ]
+tags: [ Techno, Acid, Experimental, Minimal, Ambient, Plastikman ]
 image: ../assets/images/Plastikman – Musik.webp
 ---
 
