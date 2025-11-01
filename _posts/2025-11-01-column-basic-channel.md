@@ -187,6 +187,8 @@ graph TD
 | **2010**  | Moritz von Oswald Trio始動（Max Loderbauer、Tony Allen参加） |
 | **2020s** | 再評価の波、Dub Technoリバイバル、Bandcampを中心に拡散                  |
 
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nLrRUbf2cXw?si=U5-OZ9vbu0Zom-DL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
