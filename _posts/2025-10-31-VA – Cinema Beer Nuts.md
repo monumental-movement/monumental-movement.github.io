@@ -7,11 +7,9 @@ tags: [ Rock, Hardcore, Punk, 90s ]
 image: ../assets/images/VA – Cinema Beer Nuts.webp
 ---
 
+ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
+
 VA – Cinema Beer Nuts
-
-ハードコア・パンク コンピレーション
-
-Hopeless RecordsのCinema Beerシリーズ
 
 #### Tracklist
 ```md
