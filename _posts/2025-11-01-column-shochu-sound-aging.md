@@ -229,6 +229,7 @@ graph TD
     style D fill:#fc9,stroke:#333,stroke-width:1px
     style E fill:#bfb,stroke:#333,stroke-width:1px
     style F fill:#ccc,stroke:#333,stroke-width:1px
+    
 </div>
 
 > ※スコアは複数蔵の平均値を元にした試験結果（2023年時点）
