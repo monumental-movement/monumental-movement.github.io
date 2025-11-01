@@ -138,11 +138,11 @@ timeline
 
 | 年    | アーティスト             | アルバム                     | リンク |
 | ---- | --------------------- | ------------------------- | ---- |
-| 1973 | MFSB                  | Love Is The Message | []()  |
-| 1975 | The Salsoul Orchestra | The Salsoul Orchestra | []() |
-| 1976 | The Salsoul Orchestra | Nice ‘n Naasty   | []()    |
-| 1977 | The Salsoul Orchestra | Magic Journey    | []()    |
-| 1980 | The Salsoul Orchestra | Street Sense     | []()    |
+| 1973 | MFSB                  | Love Is The Message | [Amazon](https://amzn.to/48XNk6X)  |
+| 1975 | The Salsoul Orchestra | The Salsoul Orchestra | [Amazon](https://amzn.to/3X3V4Nt) |
+| 1976 | The Salsoul Orchestra | Nice ‘n Naasty   | [Amazon](https://amzn.to/4omnu1p)    |
+| 1977 | The Salsoul Orchestra | Magic Journey    | [Amazon](https://amzn.to/47txqQN)    |
+| 1980 | The Salsoul Orchestra | Street Sense     | [Amazon](https://amzn.to/4nBROE7)    |
 
 
 ---
