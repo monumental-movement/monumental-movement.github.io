@@ -4,7 +4,7 @@ title:  "【コラム】 ダブ（DUB）音楽の誕生と拡張宇宙 ― 音�
 author: mmr
 categories: [ Column ]
 tags: [ SoundSystem, UK Dub, Ambient, Techno, Dub ]
-image: ../assets/images/column-shochu-sound-aging.webp
+image: ../assets/images/column-dub-universe.webp
 ---
 
 ## 序章：音の「残響」から生まれた革命
@@ -196,15 +196,13 @@ graph TD
 
 ### 参考ディスコグラフィー
 
-| アーティスト                       | 代表作                                                          |   年  |                        リンク                       |
-| :--------------------------- | :----------------------------------------------------------- | :--: | :----------------------------------------------: |
-| King Tubby                   | *Dub from the Roots*                                         | 1974 | [Amazon](https://www.amazon.co.jp/dp/B000001F3L) |
-| Lee "Scratch" Perry          | *Super Ape*                                                  | 1976 | [Amazon](https://www.amazon.co.jp/dp/B00005J7X6) |
-| Scientist                    | *Scientist Rids the World of the Evil Curse of the Vampires* | 1981 | [Amazon](https://www.amazon.co.jp/dp/B00005N8ZL) |
-| Adrian Sherwood / On-U Sound | *Pay It All Back Vol.1*                                      | 1984 | [Amazon](https://www.amazon.co.jp/dp/B000005R3H) |
-| Mad Professor                | *Dub Me Crazy Pt.2*                                          | 1982 | [Amazon](https://www.amazon.co.jp/dp/B00000DR3F) |
-| Basic Channel                | *BCD*                                                        | 1993 | [Amazon](https://www.amazon.co.jp/dp/B00005V7UV) |
-| Burial                       | *Untrue*                                                     | 2007 | [Amazon](https://www.amazon.co.jp/dp/B000X1PE16) |
+| アーティスト                       | 代表作                |   年  |  リンク               |
+| :--------------------------- | :--------------------- | :--: | :----------------: |
+| King Tubby                   | *Dub from the Roots*     | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
+| Lee "Scratch" Perry          | *Super Ape*              | 1976 | [Amazon](https://amzn.to/4oFE24a) |
+| Scientist                    | *Scientist Rids the World of the Evil Curse of the Vampires* | 1981 | [Amazon](https://amzn.to/43775p1) |
+| Basic Channel                | *BCD*                                                        | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
+| Burial                       | *Untrue*                                                     | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
 
 
 
