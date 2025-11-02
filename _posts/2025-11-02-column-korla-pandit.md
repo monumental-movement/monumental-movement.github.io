@@ -18,7 +18,6 @@ image: ../assets/images/column-korla-pandit.webp
 ---
 
 1950年代のアメリカ。
-
 テレビが家庭に普及し、冷戦と繁栄が同居する時代、**エキゾチカ（Exotica）**と呼ばれる音楽が登場した。  
 それは、南太平洋・アジア・アフリカなど「異国」を想像上の楽園として描き出す、**オリエンタリズムの音響的表現**だった。
 
@@ -55,13 +54,6 @@ color: #fff;
 8. [年表：Korla Panditとエキゾチカ音楽史（1940–2020）](#年表)
 9. [図表と分析](#図表)
 10. [結論：虚構と真実のあいだで](#結論)
-
----
-
-
-![Exotica album art](https://en.wikipedia.org/wiki/File:Exoticamartindenny.jpg)
-*Martin Denny『Exotica』(1957)。ジャングルの音を取り入れた「異国情緒」音楽の象徴。*  
-出典：[Wikipedia - Exotica (Martin Denny album)](https://en.wikipedia.org/wiki/Exotica_(Martin_Denny_album))
 
 
 ---
