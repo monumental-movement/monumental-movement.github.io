@@ -12,8 +12,7 @@ image: ../assets/images/column-korla-pandit.webp
 
 文：mmr｜テーマ：エキゾチカの創世期におけるコルラ・パンディットの役割と、戦後アメリカ文化におけるオリエンタリズムの美学を探る
 
-![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/commons/7/7e/Korla_Pandit_at_organ_1951.jpg)
-*コルラ・パンディット（1951年、テレビ番組『Adventures in Music』より）*  
+![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg) 
 出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
 
 ---
@@ -24,6 +23,8 @@ image: ../assets/images/column-korla-pandit.webp
 
 ティキ文化、ハワイアン・バー、ルンバのリズム、そして異国風のメロディ。  
 その中心には、**ミステリアスな鍵盤奏者「コルラ・パンディット」**の姿があった。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uChjf1Zmqkw?si=2mU2mDJa1V1Esw63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -57,8 +58,7 @@ color: #fff;
 ---
 
 
-
-![Exotica album art](https://upload.wikimedia.org/wikipedia/en/3/3d/Martin_Denny_-_Exotica_album_cover.jpg)
+![Exotica album art](https://en.wikipedia.org/wiki/File:Exoticamartindenny.jpg)
 *Martin Denny『Exotica』(1957)。ジャングルの音を取り入れた「異国情緒」音楽の象徴。*  
 出典：[Wikipedia - Exotica (Martin Denny album)](https://en.wikipedia.org/wiki/Exotica_(Martin_Denny_album))
 
@@ -67,9 +67,6 @@ color: #fff;
 
 ## 第1章：コルラ・パンディットという謎の男 {#第1章}
 
-![Korla Pandit publicity photo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Korla_Pandit_1950s_publicity_photo.jpg)
-*ターバン姿でオルガンを奏でるコルラ・パンディット（1950年代）*  
-出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
 
 1948年、ロサンゼルスのテレビ局KTLAに現れた「インドの王子」、それが**コルラ・パンディット（Korla Pandit）**だった。  
 ターバンを巻き、深い瞳でカメラを見つめ、ハモンドオルガンを弾く。彼の指は滑らかに鍵盤を踊り、言葉を一切発さなかった。
@@ -122,9 +119,9 @@ Les Baxterが1952年に発表したアルバム『Ritual of the Savage』は、
 
 ## 第4章：テレビ時代の偶像 ― 「Korla Pandit Show」の衝撃 {#第4章}
 
-![Korla Pandit Show](https://upload.wikimedia.org/wikipedia/commons/d/d3/Korla_Pandit_TV_show_KTLA.jpg)
-*KTLA放送「Korla Pandit Show」（1951–1956）*  
-出典：[Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ul_glviDp2M?si=duNBy74VCRrDdxPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 1951年から放映された「Korla Pandit Show」は、アメリカ初期の音楽テレビ番組の一つだった。  
 言葉を発さず、視線と音だけで構築されるその演出は、当時の白人視聴者にとって“安全な異国”を提供した。
@@ -213,9 +210,6 @@ graph TD
 - [Wikipedia - Exotica (music)](https://en.wikipedia.org/wiki/Exotica_(music))  
 - [Wikipedia - Les Baxter](https://en.wikipedia.org/wiki/Les_Baxter)  
 - [Wikipedia - Martin Denny](https://en.wikipedia.org/wiki/Martin_Denny)  
-- [Film - *Korla* (2014)](https://www.imdb.com/title/tt3799182/)  
-- Los Angeles Magazine, “The Real Korla Pandit” (1998)
-
 
 ---
 

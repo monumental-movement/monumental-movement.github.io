@@ -18,9 +18,6 @@ image: ../assets/images/column-dance-raja-dance.webp
 
 ---
 
-![Dance Raja Dance (1987) Poster](https://upload.wikimedia.org/wikipedia/en/9/94/Dance_Raja_Dance.jpg)
-*映画『Dance Raja Dance』（1987）公式ポスター*
-
 
 <style type="text/css">
 
