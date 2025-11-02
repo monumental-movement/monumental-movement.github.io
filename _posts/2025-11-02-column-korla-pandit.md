@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 コルラ・パンディットとエキゾチカの幻影：ポスト戦後アメリカの夢と仮面"
 author: mmr
 categories: [ Column ]
-tags: [ Exotica, History, 70s ]
+tags: [ Exotica, History, Lounge, 70s ]
 image: ../assets/images/column-korla-pandit.webp
 ---
 
