@@ -8,54 +8,48 @@ permalink: /404.html
         display:none;
     }
 </style>
-<!--<script>
-    (function() {
-      const currentUrl = window.location.href;
+<script>
+(function() {
+  const currentUrl = window.location.href;
+  if (currentUrl.includes("?tc=true")) return;
 
-      // 無限リダイレクト防止
-      if (currentUrl.includes("?tc=true")) return;
+  try {
+    const url = new URL(currentUrl);
+    const path = url.pathname;
 
-      try {
-        const url = new URL(currentUrl);
-        const path = url.pathname;
+    const segments = path.split('/').filter(s => s.length > 0);
+    if (segments.length === 0) return;
 
-        // / で区切り、空要素を除外
-        const segments = path.split('/').filter(s => s.length > 0);
-        if (segments.length === 0) return;
+    // ✅ /en/ の場合は何もしない
+    if (segments.length === 1 && segments[0].toLowerCase() === "en") return;
 
-        // 最後のセグメント（記事タイトル）を取得
-        const lastIndex = segments.length - 1;
-        const lastSegment = segments[lastIndex];
+    const lastIndex = segments.length - 1;
+    const lastSegment = segments[lastIndex];
 
-        // 単語単位で頭文字大文字化、ただし "ep" は "EP" に
-        const titleCased = lastSegment
-          .split('-')
-          .map(word => {
-            if (word.toLowerCase() === "ep") return "EP";
-            return word.charAt(0).toUpperCase() + word.slice(1);
-          })
-          .join('-');
+    const titleCased = lastSegment
+      .split('-')
+      .map(word => {
+        if (word.toLowerCase() === "ep") return "EP";
+        return word.charAt(0).toUpperCase() + word.slice(1);
+      })
+      .join('-');
 
-        // 最後のセグメントを置き換え
-        segments[lastIndex] = titleCased;
+    segments[lastIndex] = titleCased;
 
-        // カテゴリ部分は小文字化（最後以外）
-        const newPath = '/' + segments
-          .map((seg, i) => i === lastIndex ? seg : seg.toLowerCase())
-          .join('/') + '/';
+    const newPath = '/' + segments
+      .map((seg, i) => i === lastIndex ? seg : seg.toLowerCase())
+      .join('/') + '/';
 
-        // 新しいURL構築
-        const newUrl = url.origin + newPath + (url.search ? url.search + "&tc=true" : "?tc=true");
+    const newUrl = url.origin + newPath + (url.search ? url.search + "&tc=true" : "?tc=true");
+    if (newUrl !== currentUrl) {
+      window.location.replace(newUrl);
+    }
+  } catch (e) {
+    console.error("URL変換中にエラー:", e);
+  }
+})();
+</script>
 
-        // 変換結果が異なればリダイレクト
-        if (newUrl !== currentUrl) {
-          window.location.replace(newUrl);
-        }
-      } catch (e) {
-        console.error("URL変換中にエラー:", e);
-      }
-    })();
-  </script>-->
 <div class="text-center">
 <h1 class="mt-5"><span class="badge badge-dark font-weight-normal">404</span></h1>
 <h1 class="display-1 mt-4 mb-4"> Page not found!</h1>
