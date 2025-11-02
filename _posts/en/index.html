@@ -1,0 +1,20 @@
+---
+layout: default
+title: Home
+lang: en
+---
+
+<h1>Monumental Movement</h1>
+<p>Exploring the culture of vinyl, cassettes, and music archives from Japan to the world.</p>
+
+<div class="blog-grid-container">
+  {% for post in site.categories.en %}
+    {% include postbox.html %}
+  {% endfor %}
+</div>
+
+<hr>
+<p><a href="/">日本語サイトへ戻る</a></p>
+
+<link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
+<link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />

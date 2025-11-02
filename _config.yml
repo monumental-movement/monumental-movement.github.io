@@ -6,6 +6,8 @@ logo: '../assets/images/logo.png'
 favicon: '../assets/images/logo.png'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://monumental-movement.jp" # the base hostname & protocol for your site
+languages: ["ja", "en"]
+default_lang: "ja"
 google_analytics: 'G-YYMSK3VLV2'
 disqus: 'mmr'
 mailchimp-list: 'https://gmail.us22.list-manage.com/subscribe/post?u=4b66f07c74b33b5132ea18c2c&amp;id=cc67e38784&amp;f_id=00fcc4e1f0" method="post" id="mc-embedded-subscribe-form'
