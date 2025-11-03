@@ -1,26 +1,26 @@
 import os
-import re
 import yaml
-from deep_translator import GoogleTranslator
+from googletrans import Translator
 
+# 翻訳元・翻訳先ディレクトリ
 SRC_DIR = "_posts"
-DEST_DIR = "en/_posts"
+DEST_DIR = os.path.join("en", "_posts")
 
-translator = GoogleTranslator(source="ja", target="en")
+# 出力ディレクトリが無ければ作成
 os.makedirs(DEST_DIR, exist_ok=True)
 
-print("🌐 Starting translation with YAML safety check...")
+translator = Translator()
 
-def sanitize_text(text):
-    """Jekyll/YAMLを壊さないように危険文字を整形"""
-    text = text.replace("\r", "")
-    # YAML境界を回避
-    text = re.sub(r"^-{3,}$", "--- ", text, flags=re.MULTILINE)
-    # コロン後にスペースを確保
-    text = re.sub(r":(?!\s)", ": ", text)
-    # クォートの暴走防止
-    text = text.replace('"', "'")
-    return text
+def translate_text(text):
+    """空行や短文を考慮して安全に翻訳"""
+    if not text.strip():
+        return text
+    try:
+        result = translator.translate(text, src='ja', dest='en').text
+        return result
+    except Exception as e:
+        print(f"⚠️ 翻訳失敗: {e}")
+        return text  # 失敗時は元の日本語を残す
 
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
@@ -32,54 +32,42 @@ for filename in os.listdir(SRC_DIR):
     with open(src_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # --- YAMLフロントマター分離 ---
+    # YAMLフロントマターを分離
     if content.startswith("---"):
-        parts = re.split(r"^---\s*$", content, flags=re.MULTILINE)
-        if len(parts) >= 3:
-            front_matter = parts[1].strip()
-            body = parts[2].strip()
-        else:
-            front_matter = ""
-            body = content
+        try:
+            _, fm, body = content.split('---', 2)
+        except ValueError:
+            print(f"⚠️ {filename} の front matter 分割に失敗しました。スキップします。")
+            continue
     else:
-        front_matter = ""
-        body = content
+        fm, body = "", content
 
-    # --- YAMLを安全に読み込めるか確認 ---
     try:
-        yaml.safe_load(front_matter)
+        front_matter = yaml.safe_load(fm) or {}
     except yaml.YAMLError as e:
-        print(f"⚠️ YAML broken in {filename}: {e}")
+        print(f"⚠️ YAML構文エラー: {filename} ({e})")
         continue
 
-    # --- 英訳ファイルが存在すればスキップ ---
-    if os.path.exists(dest_path):
-        print(f"⏩ Skipping (exists): {filename}")
-        continue
+    # タイトル翻訳（英語タイトルを追加）
+    title_ja = front_matter.get("title", "")
+    if title_ja:
+        title_en = translate_text(title_ja)
+        front_matter["title_en"] = title_en
 
-    print(f"🌍 Translating: {filename}")
+    # 言語指定
+    front_matter["lang"] = "en"
 
-    try:
-        translated_body = translator.translate(body)
-    except Exception as e:
-        print(f"⚠️ Translation failed for {filename}: {e}")
-        continue
+    # 本文を翻訳
+    translated_body = ""
+    for paragraph in body.split("\n\n"):
+        translated_body += translate_text(paragraph) + "\n\n"
 
-    # --- テキスト整形 ---
-    translated_body = sanitize_text(translated_body)
-
-    translated_content = f"---\n{front_matter}\nlang: en\n---\n\n{translated_body}\n"
-
-    # --- YAMLとして最終検証 ---
-    try:
-        _ = yaml.safe_load(re.split(r"^---\s*$", translated_content, flags=re.MULTILINE)[1])
-    except Exception as e:
-        print(f"❌ YAML validation failed for {filename}: {e}")
-        continue
+    # 出力ファイル構築
+    output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
 
     with open(dest_path, "w", encoding="utf-8") as f:
-        f.write(translated_content)
+        f.write(output_content)
 
-    print(f"✅ Saved: {dest_path}")
+    print(f"✅ Translated: {filename} → {dest_path}")
 
-print("\n🎉 All translations completed safely (validated YAML)")
+print("\n🎉 Translation completed successfully! English posts saved in 'en/_posts/'")
