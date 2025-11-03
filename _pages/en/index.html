@@ -5,18 +5,18 @@ lang: en
 permalink: /en/
 ---
 
+
 <h1>Monumental Movement (English)</h1>
 <p>Exploring the culture of vinyl, cassettes, and music archives from Japan to the world.</p>
 
 <div class="blog-grid-container">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% if post.lang == "en" %}
       {% include postbox.html %}
     {% endif %}
   {% endfor %}
 </div>
 
-<!-- Pagination -->
 <div class="bottompagination">
   <span class="navigation" role="navigation">
     {% include pagination.html %}
@@ -28,7 +28,6 @@ permalink: /en/
 
 <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
-
 <!-- Adsense (bottom only) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
      crossorigin="anonymous"></script>
