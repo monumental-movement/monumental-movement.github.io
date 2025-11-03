@@ -1,13 +1,11 @@
 name: Auto Translate JA → EN
 
 on:
+  workflow_dispatch:
   push:
-    branches:
-      - main
     paths:
       - "_posts/**"
       - "scripts/translate.py"
-      - ".github/workflows/translate.yml"
 
 jobs:
   translate:
@@ -24,16 +22,16 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install deep-translator
 
       - name: Run translation script
-        run: |
-          mkdir -p en/_posts
-          python scripts/translate.py
+        run: python scripts/translate.py
 
-      - name: Commit and push translated files
+      - name: Commit translated files
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add en/_posts
-          git diff --quiet && echo "No changes to commit" || (git commit -m "Auto-translate new posts to EN" && git push)
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add en/_posts/
+          git commit -m "auto: add or update English translations" || echo "No new translations"
+          git push
