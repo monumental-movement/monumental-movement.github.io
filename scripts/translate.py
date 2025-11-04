@@ -1,6 +1,7 @@
 import os
 import yaml
-import re  # ★追加：正規表現を使うため
+import re
+import time
 from googletrans import Translator
 
 # 翻訳元・翻訳先ディレクトリ
@@ -12,42 +13,45 @@ os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = Translator()
 
-# ★追加：引用符統一関数
+# === 引用符統一 ===
 def normalize_quotes(text):
-    """
-    全角・特殊引用符をすべて半角の " に統一
-    """
     if not text:
         return text
-    # 各種引用符を " に統一
     text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
-    # Markdownの ``text`` → "text"
     text = re.sub(r'``(.*?)``', r'"\1"', text)
-    # ''text'' → "text"
     text = re.sub(r"''(.*?)''", r'"\1"', text)
-    # 'text' → "text"（I'mなどの英単語中は除外）
     text = re.sub(r"\b'(.*?)'\b", r'"\1"', text)
     return text
 
-
-def translate_text(text):
-    """空行や短文を考慮して安全に翻訳"""
+# === 翻訳処理（リトライ付き） ===
+def translate_text(text, retries=3):
     if not text.strip():
         return text
-
-    # iframeタグをスキップ
     if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
         return text
 
-    try:
-        result = translator.translate(text, src='ja', dest='en').text
-        # ★追加：翻訳後の引用符を統一
-        result = normalize_quotes(result)
-        return result
-    except Exception as e:
-        print(f"⚠️ 翻訳失敗: {e}")
-        return text  # 失敗時は元の日本語を残す
+    for attempt in range(retries):
+        try:
+            result = translator.translate(text, src='ja', dest='en').text
+            result = normalize_quotes(result)
+            return result
+        except Exception as e:
+            print(f"⚠️ 翻訳失敗（試行 {attempt+1}/{retries}）: {e}")
+            time.sleep(2)
+    return text
 
+# === 差分チェック ===
+def needs_translation(src_path, dest_path):
+    """出力ファイルが存在しないか、元より古い場合のみ True"""
+    if not os.path.exists(dest_path):
+        return True
+    src_mtime = os.path.getmtime(src_path)
+    dest_mtime = os.path.getmtime(dest_path)
+    return src_mtime > dest_mtime
+
+# === メイン処理 ===
+translated_count = 0
+skipped_count = 0
 
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
@@ -56,15 +60,21 @@ for filename in os.listdir(SRC_DIR):
     src_path = os.path.join(SRC_DIR, filename)
     dest_path = os.path.join(DEST_DIR, filename)
 
+    # 差分チェック
+    if not needs_translation(src_path, dest_path):
+        print(f"⏩ Skipped (no changes): {filename}")
+        skipped_count += 1
+        continue
+
     with open(src_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # YAMLフロントマターを分離
+    # YAMLフロントマター分離
     if content.startswith("---"):
         try:
             _, fm, body = content.split('---', 2)
         except ValueError:
-            print(f"⚠️ {filename} の front matter 分割に失敗しました。スキップします。")
+            print(f"⚠️ {filename} の front matter 分割に失敗。スキップします。")
             continue
     else:
         fm, body = "", content
@@ -75,7 +85,7 @@ for filename in os.listdir(SRC_DIR):
         print(f"⚠️ YAML構文エラー: {filename} ({e})")
         continue
 
-    # タイトル翻訳（英語タイトルを追加）
+    # タイトル翻訳
     title_ja = front_matter.get("title", "")
     if title_ja:
         title_en = translate_text(title_ja)
@@ -84,17 +94,19 @@ for filename in os.listdir(SRC_DIR):
     # 言語指定
     front_matter["lang"] = "en"
 
-    # 本文を翻訳
+    # 本文翻訳
     translated_body = ""
     for paragraph in body.split("\n\n"):
         translated_body += translate_text(paragraph) + "\n\n"
 
-    # 出力ファイル構築
     output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
 
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output_content)
 
-    print(f"✅ Translated: {filename} → {dest_path}")
+    print(f"✅ Translated: {filename}")
+    translated_count += 1
 
-print("\n🎉 English posts generated successfully in 'en/_posts/' (titles translated to English)")
+print(f"\n🎉 English posts updated in '{DEST_DIR}'")
+print(f"✅ 新規・更新翻訳: {translated_count} 件")
+print(f"⏩ スキップ済み: {skipped_count} 件")
