@@ -1,7 +1,7 @@
 import os
 import yaml
-import re  # ★追加：正規表現を使うため
-from googletrans import Translator
+import re
+from deep_translator import GoogleTranslator
 
 # 翻訳元・翻訳先ディレクトリ
 SRC_DIR = "_posts"
@@ -10,28 +10,22 @@ DEST_DIR = os.path.join("en", "_posts")
 # 出力ディレクトリが無ければ作成
 os.makedirs(DEST_DIR, exist_ok=True)
 
-translator = Translator()
+translator = GoogleTranslator(source='ja', target='en')
 
-# ★追加：引用符統一関数
+
 def normalize_quotes(text):
-    """
-    全角・特殊引用符をすべて半角の " に統一
-    """
+    """全角・特殊引用符をすべて半角の " に統一"""
     if not text:
         return text
-    # 各種引用符を " に統一
     text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
-    # Markdownの ``text`` → "text"
     text = re.sub(r'``(.*?)``', r'"\1"', text)
-    # ''text'' → "text"
     text = re.sub(r"''(.*?)''", r'"\1"', text)
-    # 'text' → "text"（I'mなどの英単語中は除外）
     text = re.sub(r"\b'(.*?)'\b", r'"\1"', text)
     return text
 
 
 def translate_text(text):
-    """空行や短文を考慮して安全に翻訳"""
+    """空行・iframe・短文・コードブロックを考慮して安全に翻訳"""
     if not text.strip():
         return text
 
@@ -39,9 +33,12 @@ def translate_text(text):
     if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
         return text
 
+    # コードブロック（```〜```）をスキップ
+    if re.match(r"^```", text.strip()):
+        return text
+
     try:
-        result = translator.translate(text, src='ja', dest='en').text
-        # ★追加：翻訳後の引用符を統一
+        result = translator.translate(text)
         result = normalize_quotes(result)
         return result
     except Exception as e:
@@ -55,6 +52,12 @@ for filename in os.listdir(SRC_DIR):
 
     src_path = os.path.join(SRC_DIR, filename)
     dest_path = os.path.join(DEST_DIR, filename)
+
+    # 差分翻訳（既に翻訳済で更新がない場合はスキップ）
+    if os.path.exists(dest_path):
+        if os.path.getmtime(dest_path) > os.path.getmtime(src_path):
+            print(f"⏭️ Skip (no update): {filename}")
+            continue
 
     with open(src_path, "r", encoding="utf-8") as f:
         content = f.read()
@@ -75,7 +78,7 @@ for filename in os.listdir(SRC_DIR):
         print(f"⚠️ YAML構文エラー: {filename} ({e})")
         continue
 
-    # タイトル翻訳（英語タイトルを追加）
+    # タイトル翻訳
     title_ja = front_matter.get("title", "")
     if title_ja:
         title_en = translate_text(title_ja)
@@ -84,10 +87,22 @@ for filename in os.listdir(SRC_DIR):
     # 言語指定
     front_matter["lang"] = "en"
 
-    # 本文を翻訳
+    # 本文を翻訳（コードブロックをスキップ）
     translated_body = ""
-    for paragraph in body.split("\n\n"):
-        translated_body += translate_text(paragraph) + "\n\n"
+    in_code_block = False
+
+    for line in body.splitlines():
+        # コードブロックの開始・終了判定
+        if line.strip().startswith("```"):
+            in_code_block = not in_code_block
+            translated_body += line + "\n"
+            continue
+
+        if in_code_block:
+            # コードブロック内は翻訳しない
+            translated_body += line + "\n"
+        else:
+            translated_body += translate_text(line) + "\n"
 
     # 出力ファイル構築
     output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
@@ -97,4 +112,4 @@ for filename in os.listdir(SRC_DIR):
 
     print(f"✅ Translated: {filename} → {dest_path}")
 
-print("\n🎉 English posts generated successfully in 'en/_posts/' (titles translated to English)")
+print("\n🎉 English posts generated successfully in 'en/_posts/' (code blocks skipped & titles translated)")
