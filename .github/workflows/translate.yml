@@ -25,7 +25,7 @@ jobs:
       
       - name: Install dependencies
         run: |
-        pip install pyyaml deep-translator googletrans==4.0.0-rc1
+          pip install pyyaml deep-translator googletrans==4.0.0-rc1
 
       - name: Run translation script
         run: python scripts/translate.py
