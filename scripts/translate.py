@@ -1,5 +1,6 @@
 import os
 import yaml
+import re  # ★追加：正規表現を使うため
 from googletrans import Translator
 
 # 翻訳元・翻訳先ディレクトリ
@@ -11,16 +12,42 @@ os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = Translator()
 
+# ★追加：引用符統一関数
+def normalize_quotes(text):
+    """
+    全角・特殊引用符をすべて半角の " に統一
+    """
+    if not text:
+        return text
+    # 各種引用符を " に統一
+    text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
+    # Markdownの ``text`` → "text"
+    text = re.sub(r'``(.*?)``', r'"\1"', text)
+    # ''text'' → "text"
+    text = re.sub(r"''(.*?)''", r'"\1"', text)
+    # 'text' → "text"（I'mなどの英単語中は除外）
+    text = re.sub(r"\b'(.*?)'\b", r'"\1"', text)
+    return text
+
+
 def translate_text(text):
     """空行や短文を考慮して安全に翻訳"""
     if not text.strip():
         return text
+
+    # iframeタグをスキップ
+    if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
+        return text
+
     try:
         result = translator.translate(text, src='ja', dest='en').text
+        # ★追加：翻訳後の引用符を統一
+        result = normalize_quotes(result)
         return result
     except Exception as e:
         print(f"⚠️ 翻訳失敗: {e}")
         return text  # 失敗時は元の日本語を残す
+
 
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
