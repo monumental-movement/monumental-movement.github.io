@@ -70,4 +70,4 @@ for filename in os.listdir(SRC_DIR):
 
     print(f"✅ Translated: {filename} → {dest_path}")
 
-print("\n🎉 Translation completed successfully! English posts saved in 'en/_posts/'")
+print("\n🎉 English posts generated successfully in 'en/_posts/' (titles translated to English)")
