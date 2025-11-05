@@ -32,10 +32,15 @@ def translate_text(text):
         return text
     try:
         result = translator.translate(text)
-        return normalize_quotes(result)
+        # deep_translator が None を返した場合も安全に扱う
+        if result is None:
+            print(f"⚠️ None returned from translator for: {text[:30]}...")
+            return text
+        return normalize_quotes(str(result))
     except Exception as e:
-        print(f"⚠️ 翻訳失敗: {e}")
+        print(f"⚠️ 翻訳失敗: {e}（スキップ）")
         return text
+
 
 
 def split_front_matter(content):
