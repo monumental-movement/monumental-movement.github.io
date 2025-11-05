@@ -45,8 +45,6 @@ In the early 1970s, urban areas in Japan were dotted with clubs opened by young 
 Discotheques such as ""Mugen", ""Cleopatra", and ""Space Capsule'' are not just dance floors;
 **It was a comprehensive experience space where music, scents, lighting, cigarettes, and fashion intermingled**.
 
-![1970s Tokyo Disco](https://upload.wikimedia.org/wikipedia/commons/e/e3/Tokyo_disco_1970s.jpg)
-*▲ Disco floor in Roppongi, Tokyo. Neon and smoke intersect, and red larks shine on the hands of the dancing people. *
 
 At the time, the musical focus was soul-disco with bands such as **The Trammps, KC and the Sunshine Band, and Donna Summer**.
 However, Japanese DJs don't just play imported records;
@@ -80,8 +78,6 @@ Around 1975, disco culture rapidly expanded.
 Young people at the time wore lame shirts, flared pants, and platform shoes.
 They danced with the smell of cigarettes and perfume in the air.
 
-![Disco Fashion 1970s Japan](https://upload.wikimedia.org/wikipedia/commons/b/b3/1970s_fashion_tokyo.jpg)
-*▲ 1970s disco fashion. It became popular to use the same red as the Red Lark package as an accent color. *
 
 The advertising strategy at the time was based on the image of ""Red Lark = an urbane, free man.''
 The poster features a man and a woman holding cigarettes in their mouths under the lights of a jazz club.
@@ -109,8 +105,6 @@ It cannot be overlooked that the disco space of the 1970s was the starting point
 Aka Lark's advertisements are influenced by graphic designers Masayoshi Nakajo and Mitsuo Katsui.
 Neon, motion blur, photo collage, and "glossy red."
 
-![Red Lark Ad 1978](https://upload.wikimedia.org/wikipedia/commons/6/68/Lark_cigarette_ad_1978_japan.jpg)
-*▲ 1978 Lark advertisement (reproduced image). The red gradation and the night view of the city are integrated. *
 
 This design philosophy would later lead to City Pop record jackets (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).
 In other words, Red Lark's ""visual musicality" anticipated the later ""musical visual design."

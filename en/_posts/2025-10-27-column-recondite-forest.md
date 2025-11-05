@@ -174,7 +174,7 @@ It's like **aural forest bathing**.
 
 The philosopher Maurice Merleau-Ponty
 ""The body is part of the world, and sensations are phenomena of interaction with the world.''
-Reconditeの音楽は、この現象学的視点を電子的に実装している。
+Recondite's music electronically implements this phenomenological perspective.
 In other words, it presents a new physicality called **Music = Forest of Sensory**.
 
 ---
