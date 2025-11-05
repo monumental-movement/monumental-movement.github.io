@@ -2,20 +2,19 @@ import os
 import yaml
 import re
 from deep_translator import GoogleTranslator
+from difflib import unified_diff
 
-# 翻訳元・翻訳先ディレクトリ
 SRC_DIR = "_posts"
 DEST_DIR = os.path.join("en", "_posts")
-
-# 出力ディレクトリが無ければ作成
 os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='en')
 
 
 def normalize_quotes(text):
-    """全角・特殊引用符をすべて半角の " に統一"""
-    text = "" if text is None else str(text)
+    """全角・特殊引用符を半角 " に統一"""
+    if not text:
+        return text
     text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
     text = re.sub(r'``(.*?)``', r'"\1"', text)
     text = re.sub(r"''(.*?)''", r'"\1"', text)
@@ -24,32 +23,39 @@ def normalize_quotes(text):
 
 
 def translate_text(text):
-    """空行・iframe・短文・コードブロックを考慮して安全に翻訳（常に str を返す）"""
-    if text is None:
-        return ""
-    if not isinstance(text, str):
-        text = str(text)
+    """iframe・コード・空行をスキップして安全翻訳"""
     if not text.strip():
         return text
-
-    # iframeタグ・コードブロックをスキップ
     if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
         return text
     if re.match(r"^```", text.strip()):
         return text
-
     try:
         result = translator.translate(text)
-        if not result:
-            return text
-        result = normalize_quotes(result)
-        return str(result) if result is not None else text
+        return normalize_quotes(result)
     except Exception as e:
         print(f"⚠️ 翻訳失敗: {e}")
         return text
 
 
-# --- 全記事を強制翻訳 ---
+def split_front_matter(content):
+    """YAML front matter を分離"""
+    if content.startswith("---"):
+        try:
+            _, fm, body = content.split('---', 2)
+            return fm, body
+        except ValueError:
+            return "", content
+    return "", content
+
+
+def load_yaml_safe(fm):
+    try:
+        return yaml.safe_load(fm) or {}
+    except yaml.YAMLError:
+        return {}
+
+
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -58,58 +64,52 @@ for filename in os.listdir(SRC_DIR):
     dest_path = os.path.join(DEST_DIR, filename)
 
     with open(src_path, "r", encoding="utf-8") as f:
-        content = f.read()
+        src_content = f.read()
 
-    # YAMLフロントマターを分離
-    if content.startswith("---"):
-        try:
-            _, fm, body = content.split('---', 2)
-        except ValueError:
-            print(f"⚠️ {filename} の front matter 分割に失敗しました。スキップします。")
-            continue
-    else:
-        fm, body = "", content
+    fm, body = split_front_matter(src_content)
+    front_matter = load_yaml_safe(fm)
 
-    try:
-        front_matter = yaml.safe_load(fm) or {}
-    except yaml.YAMLError as e:
-        print(f"⚠️ YAML構文エラー: {filename} ({e})")
-        continue
+    # 既存英語ファイルがある場合、差分を確認
+    old_body = ""
+    if os.path.exists(dest_path):
+        with open(dest_path, "r", encoding="utf-8") as f:
+            dest_content = f.read()
+        _, _, old_body = split_front_matter(dest_content)
 
-    # タイトル翻訳（日本語タイトル削除 → 英語タイトルに上書き）
-    title_ja = front_matter.get("title", "")
-    if title_ja:
-        title_en = translate_text(title_ja)
-        front_matter["title"] = title_en
+    # 差分検出
+    if old_body.strip():
+        diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
+        if not diff:
+            print(f"⏭️ No changes: {filename}")
+            continue  # 変更なしならスキップ
+        else:
+            print(f"🔁 Diff detected: {filename} — 更新箇所を翻訳")
 
-    # 言語指定
+    # タイトル翻訳
+    if front_matter.get("title"):
+        front_matter["title"] = translate_text(front_matter["title"])
+
     front_matter["lang"] = "en"
 
-    # 本文を翻訳（コードブロックをスキップ）
+    # 本文翻訳（コードブロックスキップ）
     translated_body = ""
     in_code_block = False
-
     for line in body.splitlines():
-        # コードブロックの開始・終了判定
         if line.strip().startswith("```"):
             in_code_block = not in_code_block
             translated_body += line + "\n"
             continue
-
         if in_code_block:
             translated_body += line + "\n"
         else:
-            line_translated = translate_text(line)
-            if line_translated is None:
-                line_translated = line
-            translated_body += str(line_translated) + "\n"
+            translated_body += translate_text(line) + "\n"
 
-    # 出力ファイル構築
+    # 英語ファイル出力
     output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
 
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output_content)
 
-    print(f"✅ Translated (title replaced): {filename} → {dest_path}")
+    print(f"✅ Translated/Updated: {filename}")
 
-print("\n🎉 English posts generated successfully (titles in English only, all retranslated, no NoneType errors)")
+print("\n🎉 English posts updated successfully (only changed parts retranslated)")
