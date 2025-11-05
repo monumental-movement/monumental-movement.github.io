@@ -46,18 +46,13 @@ def translate_text(text):
         return text  # 失敗時は元の日本語を残す
 
 
+# --- 全記事を強制翻訳 ---
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
 
     src_path = os.path.join(SRC_DIR, filename)
     dest_path = os.path.join(DEST_DIR, filename)
-
-    # 差分翻訳（既に翻訳済で更新がない場合はスキップ）
-    if os.path.exists(dest_path):
-        if os.path.getmtime(dest_path) > os.path.getmtime(src_path):
-            print(f"⏭️ Skip (no update): {filename}")
-            continue
 
     with open(src_path, "r", encoding="utf-8") as f:
         content = f.read()
@@ -78,11 +73,11 @@ for filename in os.listdir(SRC_DIR):
         print(f"⚠️ YAML構文エラー: {filename} ({e})")
         continue
 
-    # タイトル翻訳
+    # タイトル翻訳（日本語タイトル削除）
     title_ja = front_matter.get("title", "")
     if title_ja:
         title_en = translate_text(title_ja)
-        front_matter["title_en"] = title_en
+        front_matter["title"] = title_en  # 英語タイトルで上書き
 
     # 言語指定
     front_matter["lang"] = "en"
@@ -99,7 +94,6 @@ for filename in os.listdir(SRC_DIR):
             continue
 
         if in_code_block:
-            # コードブロック内は翻訳しない
             translated_body += line + "\n"
         else:
             translated_body += translate_text(line) + "\n"
@@ -110,6 +104,6 @@ for filename in os.listdir(SRC_DIR):
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output_content)
 
-    print(f"✅ Translated: {filename} → {dest_path}")
+    print(f"✅ Translated (title replaced): {filename} → {dest_path}")
 
-print("\n🎉 English posts generated successfully in 'en/_posts/' (code blocks skipped & titles translated)")
+print("\n🎉 English posts generated successfully (titles in English only, all retranslated)")
