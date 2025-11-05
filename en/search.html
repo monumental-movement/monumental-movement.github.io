@@ -1,0 +1,19 @@
+---
+layout: null
+sitemap: false
+---
+
+{% assign counter = 0 %}
+var documents = [
+{% for post in site.posts %}
+  {% if post.lang == "en" %}
+  {
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+    "title": {{ post.title | jsonify }},
+    "body": {{ post.content | markdownify | replace: '.', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% assign counter = counter | plus: 1 %}
+  {% endif %}
+{% endfor %}
+];
