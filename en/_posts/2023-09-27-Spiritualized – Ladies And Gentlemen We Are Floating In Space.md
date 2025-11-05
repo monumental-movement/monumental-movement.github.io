@@ -9,13 +9,12 @@ tags:
 - Rock
 - Post Rock
 title: Spiritualized – Ladies And Gentlemen We Are Floating In Space
-title_en: Spiritualized – Ladies And Gentlemen We Are Floating In Space
 ---
 
 
 "Spiritualized – Ladies And Gentlemen We Are Floating In Space" is an album by the British rock band Spiritualized.
 
-This album is known as Spiritualized's masterpiece, and is characterized by its experimental sound and magnificent arrangements.The album is known for its unique musical style, combining elements of rock, shoegaze, and psychedelic rock.
+This album is known as Spiritualized's masterpiece, and is characterized by its experimental sound and magnificent arrangements. The album is known for its unique musical style, combining elements of rock, shoegaze, and psychedelic rock.
 
 Spiritualized was formed in Rugby, Warwickshire, England in 1990, and aside from core member Jason Pearce, the group has always had a fluid supporting cast.
 
@@ -52,10 +51,9 @@ The band's name comes from the fictional spaceship "Spiritualized" that appears 
 Bonus Track For Japan
 
 13.Broken Heart (Instrumental)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWOdSeDzyy4?si=rcVxEw6vHed4noNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWOdSeDzyy4?si=rcVxEw6vHed4noNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

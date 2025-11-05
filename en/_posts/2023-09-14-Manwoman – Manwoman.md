@@ -10,7 +10,6 @@ tags:
 - Japanese Punk
 - 10inch
 title: Manwoman – Manwoman
-title_en: Manwoman – Manwoman
 ---
 
 
@@ -18,16 +17,17 @@ This is the first single by Japanese hardcore/punk band Man Woman, released in 1
 
 #### Tracklist
 ```md
-A1.Blk(black)out
+A1. Blk(black)out
 
-A2.Intangible - Notch
 
-B1.Speedometer
+A2. Mukei-no-chi
+
+
+B1. Speedometer
+
 
 B2. Man And Woman
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
-
-
 

@@ -9,7 +9,6 @@ tags:
 - Deep House
 - Minimal
 title: Various – Workshop 04
-title_en: Various – Workshop 04
 ---
 
 
@@ -28,10 +27,9 @@ A. Move D Featuring Fragment –Untitled
 B1. Even Tuell –Untitled
 
 B2. Sascha Dive –Untitled
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

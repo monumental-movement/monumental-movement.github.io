@@ -9,12 +9,11 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: Miles Davis – Blues / Standards
-title_en: Miles Davis – Blues/Standards
+title: Miles Davis – Blues/Standards
 ---
 
 
-One of Miles Davis' four-cassette compilations released in 1988.The tape is chrome tape.
+One of Miles Davis' four-cassette compilations released in 1988. The tape is chrome tape.
 
 The piano for G-1 and G-5 is Keith Jarrett.
 
@@ -37,10 +36,9 @@ G-5. Honky Tonk
 H-1. Star On Cicely
 H-2. Thinkin' One Thing And Doin' Another
 H-3. Miles Runs The Voodoo Down
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19052626222?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbZ-bvbwz18?si=YsDclY54GYIPT8qC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dbZ-bvbwz18?si=YsDclY54GYIPT8qC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

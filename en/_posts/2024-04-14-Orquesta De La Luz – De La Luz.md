@@ -9,11 +9,10 @@ tags:
 - Salsa
 - Latin
 title: Orquesta De La Luz – De La Luz
-title_en: Orquesta De La Luz – De La Luz
 ---
 
 
-``De La Luz'' is the debut album by the salsa band Orquesta de la Luz, released in 1990.
+""De La Luz'' is the debut album by the salsa band Orquesta de la Luz, released in 1990.
 
 The first song, Salsa caliente del Japón (Hot Salsa from Japan), spent 11 weeks at number one on Billboard's Latin chart.
 
@@ -35,13 +34,12 @@ The first song, Salsa caliente del Japón (Hot Salsa from Japan), spent 11 weeks
 
 8. Cuero Sono
 
-9. No Me Leveres Contigo
+9. No Me Lleves Contigo
 
 10. There's Nothing Better Than Love
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

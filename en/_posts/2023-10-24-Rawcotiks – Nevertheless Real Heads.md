@@ -8,8 +8,7 @@ layout: post
 tags:
 - Hiphop
 - 90s
-title: Rawcotiks – Nevertheless Real Heads
-title_en: Rawcotiks – nevertheless Real Heads
+title: Rawcotiks – nevertheless Real Heads
 ---
 
 
@@ -30,10 +29,9 @@ B1. Real Heads (Radio Version)
 B2. Real Heads (Street Version)
 
 B3. Real Heads (Instrumental Version)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

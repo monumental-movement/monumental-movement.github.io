@@ -9,24 +9,25 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: 【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い
-title_en: '[Column] “Euro sounds” change depending on national borders: Italy, Germany,
+title: '[Column] "Euro sounds" change depending on national borders: Italy, Germany,
   and Sweden: Differences in Euro music produced by the three major producing countries'
 ---
 
 
-## “The sound of the euro” Why do the sounds differ depending on the country?
+
+## "The sound of the euro" Why do the sounds differ depending on the country?
 
 Text: mmr | Theme: Genre: Music column | Theme: Comparative analysis of 90's Euro music by country of production
 
-Although it is often referred to as ``Euro music,'' in reality, the ``sound texture'' and ``aesthetic sense'' differ depending on the country in which it was produced.
+
+Although it is often referred to as ""Euro music," in reality, the ""sound texture" and ""aesthetic sense'' differ depending on the country in which it was produced.
 In the 1990s, the main battlegrounds for this genre were **Italy, Germany, and Sweden**.
-Based on their respective cultural, industrial, and technological backgrounds, they were exporting their own ``sound of the euro'' to the world.
+Based on their respective cultural, industrial, and technological backgrounds, they were exporting their own ""sound of the euro'' to the world.
 
 ---
 
-### Italian Euro: “Speed” and “Synth Shine”
-**Summary**
+### Italian Euro: "Speed" and "Synth Shine"
+**overview**
 - **Locations**: Milan, Verona, Parma, etc.
 - **Main labels**: Time Records, A-Beat-C, Discomagic
 - **Features**: Fast BPM, fancy synth, thick unison melody, emotional vocals
@@ -64,18 +65,19 @@ color: #fff;
 }
 </style>
 
+
 | Artist | Album/Single | Characteristics/Hit Songs |
 |---|---|---|
-| Dave Rodgers | *Eurobeat Compilation Vol.1* (1991) | A masterpiece of high-speed Eurobeat.Representative song “Deja Vu” etc. |
+| Dave Rodgers | *Eurobeat Compilation Vol.1* (1991) | A masterpiece of high-speed Eurobeat. Representative song "Deja Vu" etc. |
 | Domino | *S.A.X.* (1992) | Features catchy and flashy synth lines |
-| Alexia | *Fan Club* (1997) | Melodic Eurodance with emphasis on vocals.Hit song “Uh La La La” |
-| Corona | *The Rhythm of the Night* (1995) | A masterpiece of Euro dance.“The Rhythm of the Night” becomes a global hit |
-| Eiffel 65 | *Europop* (1999) | Late Italo Dance.Hit song “Blue (Da Ba Dee)” |
+| Alexia | *Fan Club* (1997) | Melodic Eurodance with emphasis on vocals. Hit song "Uh La La La" |
+| Corona | *The Rhythm of the Night* (1995) | A masterpiece of Euro dance. "The Rhythm of the Night" becomes a global hit |
+| Eiffel 65 | *Europop* (1999) | Late Italo Dance. Hit song "Blue (Da Ba Dee)" |
 
 ---
 
-### German Euro: “Power” and “Structural Beauty”
-**Summary**
+### German Euro: "Power" and "Structural Beauty"
+**overview**
 - **Locations**: Frankfurt, Munich, Berlin, etc.
 - **Main labels**: Dance Pool (Sony Germany), Zyx, Low Spirit
 - **Characteristics**: Heavy beat, mechanical bass line, minimal composition, club-oriented
@@ -103,15 +105,15 @@ color: #fff;
 | Artist | Album/Single | Characteristics/Hit Songs |
 |---|---|---|
 | Snap! | *World Power* (1990) | Includes global hits "The Power" and "Rhythm Is a Dancer" |
-| Culture Beat | *Serenity* (1993) | Club-oriented Euro dance.“Mr. Vain” is the representative song |
-| Real McCoy | *Another Night* (1995) | American-German hybrid unit.Hit songs “Another Night” and “Run Away” |
-| U96 | *Das Boot* (1992) | Techno-trance-oriented.Title song is a club hit |
-| Scooter | *Our Happy Hardcore* (1996) | Hard dance euro.Representative song “Hyper Hyper” |
+| Culture Beat | *Serenity* (1993) | Club-oriented Euro dance. "Mr. Vain" is the representative song |
+| Real McCoy | *Another Night* (1995) | American-German hybrid unit. Hit songs "Another Night" and "Run Away" |
+| U96 | *Das Boot* (1992) | Techno-trance-oriented. Title song is a club hit |
+| Scooter | *Our Happy Hardcore* (1996) | Hard dance euro. Representative song "Hyper Hyper" |
 
 ---
 
-### Swedish Euro: “Sophisticated pop sensation”
-**Summary**
+### Swedish Euro: "Sophisticated pop sensation"
+**overview**
 - **Location**: Stockholm, Malmö, etc.
 - **Main labels**: Stockholm Records, Mega Records
 - **Characteristics**: Cool sound, pop-oriented English lyrics, soft mix
@@ -139,14 +141,14 @@ color: #fff;
 | Artist | Album/Single | Characteristics/Hit Songs |
 |---|---|---|
 | Ace of Base | *Happy Nation / The Sign* (1993/1994) | US hits such as "All That She Wants" and "The Sign" |
-| Roxette | *Joyride* (1991) | Pop-rock fusion.“Joyride” and “Fading Like a Flower” included |
-| Dr. Alban | *One Love* (1992) | Euro-reggae fusion.“Sing Hallelujah!” hit |
-| Rednex | *Sex & Violins* (1995) | Country x techno fusion.“Cotton Eye Joe” global hit |
-| Army of Lovers | *Massive Luxury Overdose* (1991) | Camp & Aesthetic Europop.“Crucified” is the representative song |
+| Roxette | *Joyride* (1991) | Pop-rock fusion. "Joyride" and "Fading Like a Flower" included |
+| Dr. Alban | *One Love* (1992) | Euro-reggae fusion. "Sing Hallelujah!" hit |
+| Rednex | *Sex & Violins* (1995) | Country x techno fusion. "Cotton Eye Joe" global hit |
+| Army of Lovers | *Massive Luxury Overdose* (1991) | Camp & Aesthetic Europop. "Crucified" is the representative song |
 
 ---
 
-### Comparison table summary: “Euro personality” by country of production
+### Comparison table summary: "Euro personality" by country of production
 
 
 
@@ -158,11 +160,11 @@ color: #fff;
 | **Melody tendency** | Clear, flashy, lead synth | Repetitive, dark | Friendly, mostly melodies |
 | **Cultural characteristics** | Inheritance of Italo Disco | Precision industrial club thinking | Nordic pop export orientation |
 
+
 ---
 
-### Euro music was not “national music” but “national sound”
-The greatest appeal of 1990s Euro music is that, while it functions as a ``universal language,'' it is actually deeply embedded with the cultures and aesthetics of each country.
+### Euro music was not "national music" but "national sound"
+The greatest appeal of 1990s Euro music is that, while it functions as a ""universal language,'' it is actually deeply embedded with the cultures and aesthetics of each country.
 Even though they are all similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
 
-Music born at the intersection of global and local.That may be the essence of the 1990s euro.
-
+Music born at the intersection of global and local. That may be the essence of the 1990s euro.

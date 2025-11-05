@@ -9,7 +9,6 @@ tags:
 - House
 - Tech House
 title: Mexico – Park Avenue EP
-title_en: Mexico – Park Avenue EP
 ---
 
 
@@ -19,14 +18,12 @@ Single cut from V.A. "U.S.B. -United Sounds Of Blue-".
 
 #### Tracklist
 ```md
-A1 Park Avenue (Throughpass Remix)
+A1  Park Avenue (Throughpass Remix)
 
-B1 Mr. Through (Original Mix)
+B1  Mr. Through (Original Mix)
 
-B2 Dubpark
-````
+B2  Dubpark
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
-
-
 

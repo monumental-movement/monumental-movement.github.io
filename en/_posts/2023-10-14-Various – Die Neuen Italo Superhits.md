@@ -9,7 +9,6 @@ tags:
 - Italo
 - Compilation
 title: Various – Die Neuen Italo Superhits
-title_en: Various – Die Neuen Italo Superhits
 ---
 
 
@@ -25,7 +24,7 @@ A3. Alice (4){: .button1}–Nomadi
 
 A4. Toto Cutugno–Figli
 
-A5. Eros Ramazzotti–Emozione Dopo Emozione
+A5. Eros Ramazzotti–Emozione Dopo Empzione
 
 A6. Rondò Veneziano–Fantasia Venezia (In La Maggiore)
 
@@ -43,11 +42,10 @@ B3. Matia Bazar–Ti Sento
 
 B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 
-B5. Tony Esposito–Papa Chico, etc.
-````
+B5. Tony Esposito–Papa Chicoなど
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

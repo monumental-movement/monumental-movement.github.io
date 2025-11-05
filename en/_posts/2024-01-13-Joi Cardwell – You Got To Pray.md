@@ -10,7 +10,6 @@ tags:
 - Remix
 - 90s
 title: Joi Cardwell – You Got To Pray
-title_en: Joi Cardwell – You Got To Pray
 ---
 
 
@@ -35,10 +34,9 @@ AAA1. You Got To Pray (Gomi's Lair X Beat Dub Dub) Remix – Gomi
 AAA2. You Got To Pray (Thane's Pray For Your Soul Mix) Remix – Mile High Productions
 
 AAA3. You Got To Pray (X Bonus Beats) Remix – Gomi
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oajKE2SLIjE?si=5SwtUH-xzm1MJhp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oajKE2SLIjE?si=5SwtUH-xzm1MJhp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

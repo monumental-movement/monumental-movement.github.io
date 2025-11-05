@@ -10,7 +10,6 @@ tags:
 - Rock
 - 80s
 title: Ian McCulloch – September Song
-title_en: Ian McCulloch – September Song
 ---
 
 
@@ -24,15 +23,14 @@ He describes Cohen's 1968 song "Susan" as "a song with perfect lyrics and a perf
 
 #### Tracklist
 ```md
-A.September Song (Long Version)
+A. September Song (Long Version)
 
 B1. September Song (Short Version)
 
 B2. Cockles And Mussels
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5CoAIAfK50?si=pRc5zO63wNDD3uZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5CoAIAfK50?si=pRc5zO63wNDD3uZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

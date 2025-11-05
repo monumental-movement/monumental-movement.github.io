@@ -10,7 +10,6 @@ tags:
 - Ambient
 - 00s
 title: David Donohoe – Nature Morte!
-title_en: David Donohoe – Nature Morte!
 ---
 
 
@@ -24,10 +23,9 @@ A1. Nature Morte!
 A2. Still Life Is Alive
 
 B. Our Ghosts
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

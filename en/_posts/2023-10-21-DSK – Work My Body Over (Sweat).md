@@ -9,7 +9,6 @@ tags:
 - House
 - 90s
 title: DSK – Work My Body Over (Sweat)
-title_en: DSK – Work My Body Over (Sweat)
 ---
 
 
@@ -30,10 +29,9 @@ B1. Work My Body Over (Sweat) (Freestyle Mix)
 B2. Work My Body Over (Sweat) (Instrumental Freestyle)
 
 B3. Work My Body Over (Sweat) (Percapella)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U2krr7aNaKc?si=IKxtpC25OFBJU6Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2krr7aNaKc?si=IKxtpC25OFBJU6Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,6 @@ tags:
 - Shoegaze
 - Rare
 title: The Lassie Foundation – Pacifico
-title_en: The Lassie Foundation – Pacifico
 ---
 
 
@@ -40,10 +39,9 @@ B4. I've Got The Rock And Roll For You
 B5. Bombers Moon
 
 B6. You Are Infinity
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

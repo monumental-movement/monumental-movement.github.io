@@ -7,13 +7,12 @@ lang: en
 layout: post
 tags:
 - Soundtrack
-title: 【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？
-title_en: '[Column] Media history of film music: How did sound get from the screen
-  to the speakers?'
+title: '[Column] Media history of film music: How did sound get from the screen to
+  the speakers?'
 ---
 
 
-## From “music to listen to” to “music to feel”
+## From "music to listen to" to "music to feel"
 
 Text: mmr｜Theme: Recording, playback, and experience of film music
 
@@ -21,11 +20,12 @@ Text: mmr｜Theme: Recording, playback, and experience of film music
 
 <hr>
 
-### Film music is “a movie that you watch with your ears”
+### Film music is "a movie that you watch with your ears"
 Film music consists of musical accompaniment (background score) and
-It is ``another script'' that is used to guide human emotions along with visual images such as insert songs.
+It is ""another script'' that is used to guide human emotions along with visual images such as insert songs.
 
-While film music is part of the film itself, it is also an independent work of art that can be experienced on its own.In this article, we will unravel over time how this film music was recorded, distributed, recorded, and preserved.
+While film music is part of the film itself, it is also an independent work of art that can be experienced on its own. In this article, we will unravel over time how this film music was recorded, distributed, recorded, and preserved.
+
 
 <hr>
 
@@ -33,13 +33,13 @@ While film music is part of the film itself, it is also an independent work of a
 
 **● Silent film period (~1920s)**
 
-A pianist and an orchestra provided live music at the movie theater.Therefore, ``recorded film music media'' did not exist in this era.Film music scores have been in circulation, but there are no records of them being used as media.
+A pianist and an orchestra provided live music at the movie theater. Therefore, ""recorded film music media'' did not exist in this era. Film music scores have been in circulation, but there are no records of them being used as media.
 
 **● The advent of talkie films and sound recordings (1927~)**
 
-Starting with [``The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
+Starting with [""The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
 
-Around this time, the meaning of ``soundtrack = movie audio material'' became clear.
+Around this time, the meaning of ""soundtrack = audio material of a movie'' became clear.
 
 **●Major media for film music: technological changes in recording and playback**
 
@@ -53,13 +53,13 @@ Sound is recorded as a "waveform image" on the side of the screen and played bac
 
 - Magnetic Soundtrack
 
-Appeared in the 1950s and 1960s.Enables stereo recording and improved dynamic range.
+Appeared in the 1950s and 1960s. Enables stereo recording and improved dynamic range.
 
 ■Record (Vinyl LP/EP)
 
 It flourished from the 1950s to the 1980s as a medium for general distribution of film music.
 
-Contains only movie highlights and representative songs.Due to physical constraints, there are many excerpts.
+Contains only movie highlights and representative songs. Due to physical constraints, there are many excerpts.
 
 ■Cassette tape / 8 track
 
@@ -73,11 +73,11 @@ Since the 1980s, it has become popular as a format with high sound quality, long
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
-Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
+Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) have also appeared.
 
 ■DVD/Blu-ray: Video + Music
 
-A medium for ``re-experiencing'' soundtracks in video works.
+A medium for ""re-experiencing'' soundtracks in video works.
 
 The spatial expression of music has greatly evolved with stereophonic technology such as 5.1ch/DTS.
 
@@ -87,13 +87,13 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
+Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
 **We are now in an era where we listen to soundtracks**.
 
-Create playlists for ``movie mood'' and ``BGM'' instead of albums.
+Create playlists for ""movie mood" and ""BGM" instead of albums.
 
 The boundary between "functionality" and "artistic" in film music is once again being questioned.
 
@@ -116,7 +116,7 @@ A --> B --> C --> D --> E --> F --> G
 
 <hr>
 
-### Difference between movie music “soundtrack” and “score”
+### Difference between movie music "soundtrack" and "score"
 
 <div class="table-border">
 <table>
@@ -148,6 +148,7 @@ A --> B --> C --> D --> E --> F --> G
 </div>
 <br>
 
+
 <hr>
 
 ### Collectors culture and limited edition market
@@ -165,6 +166,7 @@ Death Waltz and Waxwork Records release horror movie music like works of art.
 - Film score publishing
 
 Scores are published for the purpose of film music performance and research.
+
 
 <hr>
 
@@ -186,25 +188,28 @@ Compatible with YouTube, games, and streaming movies (Netflix).
 
 Mixes based on Dolby Atmos and spatial audio are also on the rise.
 
+
 <hr>
 
-### “Separation” and “reunification” of music and images
+### "Separation" and "reunification" of music and images
 
 The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to enable re-experience.
 
 Scores that give you new discoveries when you listen to them on CD (e.g. Thomas Newman's music)
 
-A soundtrack that “evokes memories” by being separated from the images
+A soundtrack that "evokes memories" by being separated from the images
 
 The emergence of next-generation media that is reintegrated with images, such as game music and VR
+
 
 <hr>
 
 ### How are sound memories stored?
 
-Movie music remains in our hearts as "time" in a way that is different from stories and images.And those memories are preserved through the ``media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
+Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
 
-The sound that flows on the screen returns to us through the speakers.The medium is a vessel for memory and another device for reproducing the story.
+The sound that flows on the screen returns to us through the speakers. The medium is a vessel for memory and another device for reproducing the story.
+
 
 <hr>
 
@@ -248,4 +253,3 @@ The sound that flows on the screen returns to us through the speakers.The medium
 </tbody>
 </table>
 </div>
-

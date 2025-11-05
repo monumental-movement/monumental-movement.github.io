@@ -9,7 +9,6 @@ tags:
 - Pops
 - Rock
 title: Scarfo – Scarfo
-title_en: Scarfo – Scarfo
 ---
 
 
@@ -21,18 +20,16 @@ A1. Eyesore
 
 A2. Coin Op
 
-A3.Skinny
+A3. Skinny
 
-A4.Backwater
+A4. Backwater
 
 B5. Car Chase
 
 B6. Throw It All
 
 B7. Wailing Words
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
-
-
 

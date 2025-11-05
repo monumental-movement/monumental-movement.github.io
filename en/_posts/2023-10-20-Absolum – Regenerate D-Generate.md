@@ -9,7 +9,6 @@ tags:
 - Trance
 - Psychedelic
 title: Absolum – Regenerate D-Generate
-title_en: Absolum – Regenerate D-Generate
 ---
 
 
@@ -19,13 +18,12 @@ Absolum is the alias of French psytrance artist Christof Drouillet.
 
 #### Tracklist
 ```md
-A.Regenerate
+A. Regenerate
 
-B.D-Generate
-````
+B. D-Generate
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55366208454?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EZU5CG_ewMg?si=8RWjSlKMZTe0BcxV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZU5CG_ewMg?si=8RWjSlKMZTe0BcxV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

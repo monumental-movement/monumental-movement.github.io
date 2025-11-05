@@ -10,7 +10,6 @@ tags:
 - Tech House
 - 00s
 title: Scanty – Get Next To The Opposite Sex
-title_en: Scanty – Get Next To The Opposite Sex
 ---
 
 
@@ -23,10 +22,9 @@ Richard Marshall, also known as Scanty, is a London-based DJ and producer who ha
 A. Get Next To The Opposite Sex
 
 AA. Crazy Life
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79633518114?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A_uM_rmY7ug?si=sNsdteD8Q2lMZDTp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_uM_rmY7ug?si=sNsdteD8Q2lMZDTp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

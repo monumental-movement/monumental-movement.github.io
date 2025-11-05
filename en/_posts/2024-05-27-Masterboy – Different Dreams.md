@@ -11,7 +11,6 @@ tags:
 - Dance
 - 90s
 title: Masterboy – Different Dreams
-title_en: Masterboy – Different Dreams
 ---
 
 
@@ -21,7 +20,7 @@ Masterboy, active since 1990, is a German Eurodance project that is best known i
 
 #### Tracklist
 ```md
-1.Waterfall (Intro)
+1. Waterfall (Intro)
 2. Different Dreams
 3. I Got To Give It Up
 4. Everybody Needs Somebody
@@ -35,10 +34,9 @@ Masterboy, active since 1990, is a German Eurodance project that is best known i
 12. Feel The Heat Of The Night (Shark Mix)
 Bonus Track For Japan
 13. Generation Of Love
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

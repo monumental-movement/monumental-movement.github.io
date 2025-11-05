@@ -8,9 +8,8 @@ layout: post
 tags:
 - Post Rock
 - Ambient
-title: 【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】
-title_en: '[Column] History of post-rock/ambient and changes in equipment [Analysis
-  by era]'
+title: '[Column] History of post-rock/ambient and changes in equipment [Analysis by
+  era]'
 ---
 
 
@@ -22,6 +21,7 @@ Post-rock and ambient music have their origins in the experimental spirit of the
 Here, we will provide a comprehensive list of masterpieces, equipment, and cultural backgrounds so that you can get a panoramic view of the period **from the 1970s to the 2020s**.
 
 ---
+
 
 <style type="text/css">
 
@@ -36,10 +36,12 @@ color: #fff;
 }
 </style>
 
+
 ### 1970s: The embryonic period - experimentation and the emergence of ambient music
 
-- **Background**: Rock's heyday.Synthesizers and tape editing technology evolved.Brian Eno advocated "ambient".
-- **Characteristics**: Anti-rock, non-popular approach.Arranging sound on an extension of space and time.
+
+- **Background**: Rock's heyday. Synthesizers and tape editing technology evolved. Brian Eno advocated "ambient".
+- **Characteristics**: Anti-rock, non-popular approach. Arranging sound on an extension of space and time.
 
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
@@ -57,8 +59,10 @@ color: #fff;
 
 ### 1980s: The deepening of electronics and the aftermath of post-punk
 
-- **Background**: Instability and urbanization during the Cold War.Influenced by new wave and post-punk.
+
+- **Background**: Instability and urbanization during the Cold War. Influenced by new wave and post-punk.
 - **Features**: Drones, rhythmless structures, industrial influences.
+
 
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
@@ -76,8 +80,8 @@ color: #fff;
 
 ### 1990s: Birth and expansion of post-rock
 
-- **Background**: Diversification of alternative rock after grunge.On the eve of the Internet, an experimental indie scene exploded.
-- **Characteristics**: Non-rock development even though it uses guitar.Long length, dynamic/static contrast.
+- **Background**: Diversification of alternative rock after grunge. On the eve of the Internet, an experimental indie scene exploded.
+- **Characteristics**: Non-rock development even though it uses guitar. Long length, dynamic/static contrast.
 
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
@@ -95,7 +99,7 @@ color: #fff;
 
 ### 2000s: Cinematic Expansion
 
-- **Background**: Post-rock pervades movie soundtracks and advertising.Generalization of digital production environments.
+- **Background**: Post-rock pervades movie soundtracks and advertising. Generalization of digital production environments.
 - **Characteristics**: Large-scale dynamics, intersection with post-classical.
 
 | Work | Artist | Year | Features |
@@ -114,7 +118,8 @@ color: #fff;
 
 ### 2010s: Deepening of ambient and drone culture
 
-- **Background**: Expansion of distribution platforms such as Spotify.The rise of Lo-Fi ambient and drones.
+
+- **Background**: Expansion of distribution platforms such as Spotify. The rise of Lo-Fi ambient and drones.
 
 - **Features**: Immersive experience, field recording, fusion with club culture.
 
@@ -123,7 +128,7 @@ color: #fff;
 | *Virgins* | Tim Hecker | 2013 | Digital Collapse and Aesthetics |
 | *Replica* | Oneohtrix Point Never | 2011 | Sampling Deconstruction Aesthetics |
 | *Ravedeath, 1972* | Tim Hecker | 2011 | Church organ x noise |
-| *Tomorrow’s Harvest* | Boards of Canada | 2013 | Dystopian Ambient |
+| *Tomorrow"s Harvest* | Boards of Canada | 2013 | Dystopian Ambient |
 
 **Main equipment**
 - Eurorack Modular
@@ -134,13 +139,13 @@ color: #fff;
 
 ### 2020s: AI and immersive media
 
-- **Background**: Expansion of home production due to pandemic.Automatic composition by AI, music experience linked with VR/AR.
+- **Background**: Expansion of home production due to pandemic. Automatic composition by AI, music experience linked with VR/AR.
 - **Characteristics**: Growing demand for generative music, installations, and wellness (BGM for meditation).
 
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
 | *Promises* | Floating Points, Pharoah Sanders & LSO | 2021 | Jazz x Classical x Ambient |
-| *Lamentations* | William Basinski | 2020 | Collapsed Aesthetics in the Digital Age |
+| *Lamentations* | William Basinski | 2020 | Collapse Aesthetics in the Digital Age |
 | AI Ambient Projects | Various | 2020s | Infinitely generative music |
 | *Everything* | Slow Meadow | 2022 | Meditative Postclassical |
 
@@ -169,8 +174,8 @@ A1970 --> A1980 --> A1990 --> A2000 --> A2010 --> A2020
 
 ### Summary
 
-The history of post-rock/ambient music has been a series of challenges: ``How to depict space and time with sound beyond the framework of rock.''From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
-The future will be further updated with ``immersive sound architecture'' that connects generative AI and physical sensations.
+The history of post-rock/ambient music has been a series of challenges: ""How to depict space and time with sound beyond the framework of rock.'' From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
+The future will be further updated with ""immersive sound architecture'' that connects generative AI and physical sensations.
 
 ---
 
@@ -178,7 +183,6 @@ The future will be further updated with ``immersive sound architecture'' that co
 
 [[Column] Post-Rock/Ambient interaction with movies and architecture](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
-[[Column] What is ambient music? A philosophy of “sounds that exist” rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+[[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
-[[Column] Ambient: From “listening music” to “feeling music” II](https://monumental-movement.jp/Column-Ambient2)
-
+[[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

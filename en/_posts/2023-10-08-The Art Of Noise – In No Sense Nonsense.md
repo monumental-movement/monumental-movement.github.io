@@ -9,7 +9,6 @@ tags:
 - Synth-Pop
 - Leftfield
 title: The Art Of Noise – In No Sense Nonsense
-title_en: The Art Of Noise – In No Sense Nonsense
 ---
 
 
@@ -29,7 +28,7 @@ A5. Opus For Four
 
 A6. Debut
 
-A7.E.F.L.
+A7. E.F.L.
 
 A8. Ode To Don Jose
 
@@ -45,7 +44,7 @@ A13. Roller 1
 
 A14. Nothing Was Going To Stop Them Then, Anyway
 
-A15.
+A15. Crusoe
 
 A16. One Earth
 
@@ -61,7 +60,7 @@ B5. Opus For Four
 
 B6. Debut
 
-B7.E.F.L.
+B7. E.F.L.
 
 B8. Ode To Don Jose
 
@@ -77,13 +76,12 @@ B13. Roller 1
 
 B14. Nothing Was Going To Stop Them Then, Anyway
 
-B15.
+B15. Crusoe
 
 B16. One Earth
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

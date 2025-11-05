@@ -9,11 +9,10 @@ tags:
 - House
 - Speed Garage
 title: Ultra Naté – Free
-title_en: Ultra Naté – Free
 ---
 
 
-Released in 1997 on the Strictly Rhythm label, ``Ultra Naté – Free'' is considered one of the dance anthems of the 90s.
+Released in 1997 on the Strictly Rhythm label, ""Ultra Naté – Free'' is considered one of the dance anthems of the 90s.
 
 The first and second songs on Side A are remixes by M&S, a project by UK garage DJ Ricky Morrison and Fran Sidoli.
 The third track on Side A is a remix by German house group Tiefschwarz.
@@ -30,10 +29,9 @@ A3. Free (Tiefschwarz A Capella)
 B1. Free (GA's Mix)
 
 B2. Free (M&S Epic Reprise Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m11492188360?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JgRBkjgXHro?si=c26ChI7vGaIQqXFJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgRBkjgXHro?si=c26ChI7vGaIQqXFJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

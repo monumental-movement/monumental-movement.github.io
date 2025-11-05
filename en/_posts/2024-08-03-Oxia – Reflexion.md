@@ -12,7 +12,6 @@ tags:
 - Tribal
 - 00s
 title: Oxia – Reflexion
-title_en: Oxia – Reflexion
 ---
 
 
@@ -30,10 +29,9 @@ A2. Reflexion (Original Rework)
 
 B1. Reflexion (Kiko & S.Deschezeaux Remix)
 B2. TNN (The Hacker (Night Version))
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31595514609?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G1XVcvBGj88?si=Rvmd7pX56uMJd_lG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G1XVcvBGj88?si=Rvmd7pX56uMJd_lG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

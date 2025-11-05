@@ -8,8 +8,7 @@ layout: post
 tags:
 - Speedcore
 - Hardcore
-title: Zion – Fantasma Dos Jueyes
-title_en: Zion – Fantasma Dos Jews
+title: Zion – Fantasma Dos Jews
 ---
 
 
@@ -27,10 +26,8 @@ A2. Fantasma (Instrumental)
 
 A3. Fantasma (Acappella)
 
-B1. Dos Jews (Main)
-````
+B1. Dos Jueyes (Main)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
-
-
 

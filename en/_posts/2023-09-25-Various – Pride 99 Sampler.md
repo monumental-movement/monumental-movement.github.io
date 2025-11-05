@@ -9,7 +9,6 @@ tags:
 - Sample
 - Rare
 title: Various – Pride '99 Sampler
-title_en: Various – Pride '99 Sampler
 ---
 
 
@@ -42,9 +41,7 @@ B5. Robb Boldt–Brown My Soul
 B6. Meg Hentges–This Kind Of Love
 
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
-
-
 

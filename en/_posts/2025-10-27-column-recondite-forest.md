@@ -9,22 +9,22 @@ tags:
 - Techno
 - Ambient
 - Ecology
-title: 【コラム】 Reconditeと森林浴 ― テクノが森に帰るとき
-title_en: '[Column] Recondite and forest bathing - When techno returns to the forest'
+title: '[Column] Recondite and forest bathing - When techno returns to the forest'
 ---
 
 
 ## Prologue: A beat sinking into the forest
 
-Text: mmr | Theme: German minimal techno artist Recondite.In the music, you can hear the breathing of the forest in its artificial sequences.Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
+
+Text: mmr | Theme: German minimal techno artist Recondite. In the music, you can hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
 
 Recondite――real name Lorenz Brunner.
-When many people hear his music for the first time, they feel a sense of ``loneliness'' and ``tranquility.''
+When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."
 However, deep down, there is a tension between nature and technology.
 For Brunner, who grew up in the Bavarian forests of southern Germany, sound is not a product of the city;
 **It was an organic thing born out of fog and humidity, wind and shadow**.
 
-In recent years, the term ``forest bathing'' (Shinrin-yoku) has been attracting worldwide attention, even in Japan.
+In recent years, the term ""forest bathing'' (Shinrin-yoku) has been attracting worldwide attention, even in Japan.
 It is not just healing, but the act of reconnecting human senses to the natural environment.
 This concept and Recondite's sonic world are strangely intimate.
 His minimal tracks are like walking through a digital forest.
@@ -44,6 +44,7 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: The phenomenon called Recondite
 
 Since their debut in 2011, Recondite has carved out a unique position in the progressive techno scene.
@@ -52,9 +53,9 @@ While distancing himself from Berlin's club culture, he combined solitude and na
 Representative works:
 
 - [**"On Acid" (2012)**](https://amzn.to/4oCl2TY) — Reconstructing the acid sound of Roland TB-303 in humid air.
-- [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — An album with the motif of the scenery of my hometown.A melody that traces the ridgeline of a mountain.
+- [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — An album with the motif of the scenery of my hometown. A melody that traces the ridgeline of a mountain.
 - [**"Iffy" (2014)**](https://amzn.to/4oJaMcR) — An introspective beat and a tone that feels like a fleeting moment of light in a forest.
-- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — A work born during a time of isolation.The theme is a return to nature.
+- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — A work born during a time of isolation. The theme is a return to nature.
 
 ---
 
@@ -67,7 +68,7 @@ This structure corresponds to the mechanism by which forest bathing stimulates t
 > Forest bathing uses multiple stimuli such as natural sounds, light, smells, and humidity.
 > It is said to reduce stress hormones in humans (Forestry Agency survey, 2004).
 
-At Recondite's live performances, it feels as if a ``**electronic leaf rub**'' envelopes the venue.
+At Recondite's live performances, it feels as if a ""**electronic leaf rub**'' envelopes the venue.
 Although it is **artificial nature** reproduced with digital equipment,
 For some reason, the listener feels the illusion of being closer to the forest.
 
@@ -76,7 +77,7 @@ For some reason, the listener feels the illusion of being closer to the forest.
 ## Chapter 3: The intersection of techno and ecology
 
 Techno music is often described as urban, mechanical, and inorganic.
-But Recondite's approach is the opposite.He treats synths as "an extension of the landscape."
+But Recondite's approach is the opposite. He treats synths as "an extension of the landscape."
 
 Environmental philosopher Timothy Morton proposed the concept of "**dark ecology**."
 It is impossible for humans to completely separate from nature, and we should rather accept an **uncomfortable mixed state**.
@@ -88,13 +89,13 @@ It is a sound ecology that depicts the ambiguous coexistence of nature and man-m
 
 ## Chapter 4: Forest Bathing Rhythm and Meditation
 
-In forest bathing, it is recommended to ``**walk slowly**'' and ``**focus on breathing**.''
+In forest bathing, it is recommended to ""**walk slowly**" and ""**focus on breathing**."
 Recondite's tracks similarly follow a moderately fast tempo (approximately 110-118 BPM).
 His beats are meditative and designed to sync with the listener's heartbeat.
 
 From musical psychology, it is known that a certain tempo promotes a state in which the parasympathetic nervous system is dominant.
 Therefore, the Recondite live experience is more than just a club event;
-It can be said that it functions as "**forest bathing in the city**".
+It can be said that it functions as "**Forest Bathing in the City**."
 
 ---
 
@@ -113,14 +114,14 @@ It is a **reproduction of a digital forest** that leads human senses to natural 
 ## Chapter 6: Recondite and Japan - the intersection of forest culture
 
 What is interesting is that when Recondite visited Japan,
-``I was deeply influenced by the tranquility of Japan's forests,'' he said (from a 2018 interview).
-Unlike Western forests, Japan's ``forest signs'' have a **mythical introspection**.
+""I was deeply influenced by the tranquility of Japan's forests,'' he said (from a 2018 interview).
+Unlike Western forests, Japan's ""forest signs'' have a **mythical introspection**.
 This influence is evident in the minimalism of his later works.
 
-> “Silence in Japan is not empty. It has presence.”
+> "Silence in Japan is not empty. It has presence."
 > — Recondite, Tokyo Interview, 2018
 
-This ``silence as existence'' is the very essence of forest bathing.
+This ""silence as existence'' is the very essence of forest bathing.
 **Silence makes sound stand out**.
 His music is an electronic translation of that philosophy.
 
@@ -164,15 +165,16 @@ It imitates the process by which natural sounds stabilize the human psyche.
 
 ---
 
+
 ## Chapter 9: Philosophical Considerations - The Self as a Forest
 
 The act of listening to Recondite's works is
-It is an experience of not only ``feeling nature'' but also ``assimilating with nature.''
+It is an experience of not only ""feeling nature" but also ""assimilating with nature."
 It's like **aural forest bathing**.
 
 The philosopher Maurice Merleau-Ponty
-``The body is part of the world, and sensations are phenomena of interaction with the world.''
-Recondite's music electronically implements this phenomenological perspective.
+""The body is part of the world, and sensations are phenomena of interaction with the world.''
+Reconditeの音楽は、この現象学的視点を電子的に実装している。
 In other words, it presents a new physicality called **Music = Forest of Sensory**.
 
 ---
@@ -180,12 +182,12 @@ In other words, it presents a new physicality called **Music = Forest of Sensory
 ## Chapter 10: Conclusion - Techno returns to the forest
 
 Recondite's music is not mechanical nature, but
-**It maintains a balance that feels like a machine breathing in nature**.
+**It maintains a balance like a machine breathing in nature**.
 
-If forest bathing is an act of ``returning humans to nature,''
+If forest bathing is an act of ""returning humans to nature,''
 Recondite's music is an act of "returning techno to nature."
 Artificial and organic, city and forest, beat and silence - all of them melt together in him.
-It resonates as a new ``**poetics of digital nature**.''
+It resonates as a new ""**poetics of digital nature**.''
 
 > Listen to Recondite as if you were taking a forest bath.
 > That's the moment when we remember that techno is "alive" again.
@@ -201,4 +203,3 @@ It resonates as a new ``**poetics of digital nature**.''
 - [Recondite Interview, XLR8R (2018)](https://xlr8r.com/features/ask-the-experts-recondite)
 
 ---
-

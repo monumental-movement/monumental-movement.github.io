@@ -9,7 +9,6 @@ tags:
 - Hiphop
 - 00s
 title: VA – Synchronicity 2nd Session
-title_en: VA – Synchronicity 2nd Session
 ---
 
 
@@ -26,16 +25,15 @@ B1. DJ Celory – Listen
 B2. Asop, DJ Tomo – Strange Game
 B3. Smooth Bee, Storm Norm, G-Soul, Inovader – We've Got Enough
 
-C1. Scaramanga, DJ Jin – Flushing 50’s
-C2. Word Swingaz, Eligh – Labyrinth of Darkness
+C1. Scaramanga, DJ Jin – Flushing 50's
+C2. Word Swingaz, Eligh – 暗闇のラビリンス
 
 D1. Wise Intelligent, ALG – Incredibly
 D2. T.A.K The Rhhhyme, 25 To Life – Nari-A-Gari
 D3. DJ Celory – Outro
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m84885288691?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yvs1qp-5cBc?si=xGLd_Fr0msxtsYkr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yvs1qp-5cBc?si=xGLd_Fr0msxtsYkr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

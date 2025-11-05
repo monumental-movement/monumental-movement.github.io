@@ -10,7 +10,6 @@ tags:
 - Nostalgic
 - 7inch
 title: Elvis - I Really Don't Want To Know
-title_en: Elvis - I Really Don't Want To Know
 ---
 
 
@@ -22,13 +21,12 @@ This Elvis version was released by RCA Victor in 1971.
 
 #### Tracklist
 ```md
-A. I Really Don't Want To Know
+A. I Really Don't Want To Know (知りたくないの)
 
-B. There Goes My Everything
-````
+B. There Goes My Everything (淋しき足音)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yguQLGVl7Ms?si=f1GOud__gA2Jkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yguQLGVl7Ms?si=f1GOud__gA2Jkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

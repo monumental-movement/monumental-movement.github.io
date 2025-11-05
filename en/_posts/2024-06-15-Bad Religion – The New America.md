@@ -11,7 +11,6 @@ tags:
 - US Punk
 - 00s
 title: Bad Religion – The New America
-title_en: Bad Religion – The New America
 ---
 
 
@@ -34,12 +33,11 @@ Bad Religion is a punk rock band formed in Los Angeles, and is a leading figure 
 11. There Will Be A Way
 12. Let It Burn
 13. Don't Sell Me Short
-14.The Fast Life
+14. The Fast Life
 15. Queen Of The 21st Century
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

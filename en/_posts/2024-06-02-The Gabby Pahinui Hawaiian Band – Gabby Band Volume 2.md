@@ -11,7 +11,6 @@ tags:
 - 70s
 - Rare
 title: The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2
-title_en: The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2
 ---
 
 
@@ -31,10 +30,9 @@ B1. Makapu'u Beach
 B2. Pua Kukui
 B3. Kilakila'o Moanalua
 B4. No Ke Ano Ahiahi
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jP85P5gCXlE?si=0x8zozCk6iTQ7Ts9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jP85P5gCXlE?si=0x8zozCk6iTQ7Ts9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

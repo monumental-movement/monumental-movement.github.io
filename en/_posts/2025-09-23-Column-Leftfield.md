@@ -10,8 +10,7 @@ tags:
 - Triphop
 - 90s
 - 00s
-title: 【コラム】 Leftfieldとは何か？— ジャンルとアーティストの交差点
-title_en: '[Column] What is Leftfield?— The intersection of genre and artist'
+title: '[Column] What is Leftfield? — The intersection of genre and artist'
 ---
 
 
@@ -38,7 +37,7 @@ color: #fff;
 }
 </style>
 
-### What is Leftfield?/ What is Leftfield?
+### What is Leftfield? / What is Leftfield?
 
 **Japanese**
 
@@ -67,7 +66,7 @@ Leftfield has a double meaning:
 
 - Early 1990s: Emerged within UK rave culture.
 - 1995: Debut album *Leftism* gained critical acclaim beyond the club scene.
-- 2000s onward: “Leftfield” became synonymous with music outside the mainstream.
+- 2000s onward: "Leftfield" became synonymous with music outside the mainstream.
 - Today: Re-evaluated in the contexts of AI music generation and soundtrack production.
 
 ---
@@ -77,7 +76,7 @@ Leftfield has a double meaning:
 | Year | Artist | Feature | Links |
 |-------------|-----------------------|----------------|----------------|
 | 1995 | Leftfield – *Leftism* | Landmark in electronic music | [Amazon](https://amzn.to/4gEiHVR) |
-| 1999 | Underworld – *Beaucoup Fish* | Continues Leftfield’s experimental spirit | [Amazon](https://amzn.to/4ndPTG9) |
+| 1999 | Underworld – *Beaucoup Fish* | Continues Leftfield"s experimental spirit | [Amazon](https://amzn.to/4ndPTG9) |
 | 2001 | Four Tet – *Pause* | Opened a new horizon of Leftfield sound | [Amazon](https://amzn.to/48tSRSk) |
 
 ---
@@ -107,9 +106,9 @@ B --> H["Underworld"]
 
 ### FAQ (Japanese)
 
-Q1. Is Leftfield a genre?Is it the artist name?
+Q1. Is Leftfield a genre? Is it the artist name?
 
-A. Both.It is the name of a UK duo and is synonymous with experimental music.
+A. Both. It is the name of a UK duo and is synonymous with experimental music.
 
 Q2. What is the difference between Leftfield and Trip Hop?
 
@@ -139,15 +138,15 @@ A. Leftism is the essential starting point.
 
 **Japanese**
 
-Leftfield is an icon of UK electronica and synonymous with musical adventure.Although deviating from club culture, its intellectual and artistic spirit of experimentation continues to influence modern AI music and soundtrack production.
+Leftfield is an icon of UK electronica and synonymous with musical adventure. Although deviating from club culture, its intellectual and artistic spirit of experimentation continues to influence modern AI music and soundtrack production.
 
 **English**
 
 Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diving from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
+
 
 ---
 
 ### Related columns
 
 🔗 [[Column] Deep dive into trip hop: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
-

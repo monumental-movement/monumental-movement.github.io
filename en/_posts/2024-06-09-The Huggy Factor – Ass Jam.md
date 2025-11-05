@@ -11,7 +11,6 @@ tags:
 - Electro
 - 00s
 title: The Huggy Factor – Ass Jam
-title_en: The Huggy Factor – Ass Jam
 ---
 
 
@@ -21,13 +20,12 @@ The Huggy Factor is a unit of Carl Finlow and Paul Huggett, who also work under 
 
 #### Tracklist
 ```md
-A.Ass Jam
+A. Ass Jam
 
 B. Tight Ass Jam
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85454332161?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ie3VndTzXM?si=p2I-jvsPT3rdV624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ie3VndTzXM?si=p2I-jvsPT3rdV624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

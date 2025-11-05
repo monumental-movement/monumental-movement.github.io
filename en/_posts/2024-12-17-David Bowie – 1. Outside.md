@@ -11,11 +11,10 @@ tags:
 - Drum n Bass
 - 90s
 title: David Bowie – 1. Outside
-title_en: David Bowie – 1. Outside
 ---
 
 
-David Bowie's 18th album was released in 1995 with producer Brian Eno.The 20th song is a bonus track exclusive to the first edition + Japan edition.
+David Bowie's 18th album was released in 1995 with producer Brian Eno. The 20th song is a bonus track exclusive to the first edition + Japan edition.
 
 #### Tracklist
 ```md
@@ -27,7 +26,7 @@ David Bowie's 18th album was released in 1995 with producer Brian Eno.The 20th s
 6. Hallo Spaceboy
 7. The Motel
 8. I Have Not Been To Oxford Town
-9.No Control
+9. No Control
 10. Segue - Algeria Touchshriek
 11. The Voyeur Of Utter Destruction (As Beauty)
 12. Segue - Ramona A. Stone / I Am With Name
@@ -39,10 +38,9 @@ David Bowie's 18th album was released in 1995 with producer Brian Eno.The 20th s
 18. Segue - Nathan Adler
 19. Strangers When We Meet
 20. Get Real
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

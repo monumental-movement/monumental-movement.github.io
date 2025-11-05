@@ -9,7 +9,6 @@ tags:
 - Rock
 - Punk
 title: Friction – '79 Live
-title_en: Friction – '79 Live
 ---
 
 
@@ -25,7 +24,7 @@ CD-2Pistol
 
 CD-3Big-S
 
-CD-4 shine
+CD-4Kagayaki
 
 CD-5A-Gas
 
@@ -40,10 +39,9 @@ CD-9Out
 DVD-1Friction
 
 DVD-21979-80 8mm Film
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87178504200?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UKkdvU-E2gg?si=vpbwVaeR3T7vMEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UKkdvU-E2gg?si=vpbwVaeR3T7vMEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

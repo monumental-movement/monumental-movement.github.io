@@ -10,7 +10,6 @@ tags:
 - Tech House
 - Minimal
 title: Treplec – Fliege Jürgen! EP
-title_en: Treplec – Fliege Jürgen! EP
 ---
 
 
@@ -20,15 +19,17 @@ Released in 2006, this two-disc EP from Milnormodern label owner Nils Scheibe's 
 ```md
 A. Banda Core
 
+
 B. Tiotacco
 
-C. Bernd, Bauch und Birne
+
+C. Bernd, Bauch Und Birne
+
 
 D. Herr Jeminee
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10439786369?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2oP_cfA2hBU?si=w3nfujYGXZWod-jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2oP_cfA2hBU?si=w3nfujYGXZWod-jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

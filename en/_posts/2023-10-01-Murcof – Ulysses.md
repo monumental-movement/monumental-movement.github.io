@@ -9,7 +9,6 @@ tags:
 - Ambient
 - Minimal
 title: Murcof – Ulysses
-title_en: Murcof – Ulysses
 ---
 
 
@@ -17,15 +16,15 @@ Murcof is a project by Fernando Corona, one of Mexico's leading electronic music
 
 "Ulysses" was released by Leaf, a long-established electronic music label.
 
+
 #### Tracklist
 ```md
 A. Ulysses
 
-B.Behind the scenes
-````
+B. Urano
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64922500191?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lHmpEitRYqw?si=0JOOVlahPKIxjGXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHmpEitRYqw?si=0JOOVlahPKIxjGXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

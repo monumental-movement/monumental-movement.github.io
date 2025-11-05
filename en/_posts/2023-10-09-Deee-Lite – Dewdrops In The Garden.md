@@ -9,7 +9,6 @@ tags:
 - House
 - Hiphop
 title: Deee-Lite – Dewdrops In The Garden
-title_en: Deee-Lite – Dewdrops In The Garden
 ---
 
 
@@ -19,7 +18,7 @@ The album moved away from the political lyrical content of its predecessor, movi
 
 #### Tracklist
 ```md
-1.Say Ahhh...
+1. Say Ahhh...
 
 2. Mind Melt
 
@@ -27,7 +26,7 @@ The album moved away from the political lyrical content of its predecessor, movi
 
 4. River Of Freedom
 
-5.Somebody
+5. Somebody
 
 6. When You Told Me You Loved Me
 
@@ -37,7 +36,7 @@ The album moved away from the political lyrical content of its predecessor, movi
 
 9. Music Selector Is The Soul Reflector
 
-10.Sampladelic
+10. Sampladelic
 
 11. Bring Me Your Love
 
@@ -62,10 +61,9 @@ The album moved away from the political lyrical content of its predecessor, movi
 16.6. (silence)
 
 16.7. Bring Me Your Love (Johnny Vicious Cosmic Isness Remix 1)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

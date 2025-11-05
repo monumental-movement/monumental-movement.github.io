@@ -9,13 +9,12 @@ tags:
 - Happy Hardcore
 - 90s
 - 00s
-title: 【コラム】 ハッピーハードコアと日本文化――高速ビートと「カワイイ」の邂逅
-title_en: '[Column] Happy Hardcore and Japanese Culture: The Encounter of High-Speed
-  ​​Beat and “Kawaii”'
+title: '[Column] Happy Hardcore and Japanese Culture: The Encounter of High-Speed
+  ​​Beat and "Kawaii"'
 ---
 
 
-## “Musical characteristics and Japanese sensibilities”
+## "Musical characteristics and Japanese sensibilities"
 
 Text: mmr｜Theme: The relationship between Happy Hardcore and Japanese culture
 
@@ -87,7 +86,7 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 - **[DJ Shimamura](https://amzn.to/46OsTHX)** – Representative of Japanese happy hardcore.
 
-- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – Highly praised as “J-Core” overseas.
+- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – Highly praised as "J-Core" overseas.
 
 - **[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – Main creator of BEMANI scene.
 
@@ -99,4 +98,3 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 Happy Hardcore originally came from British rave, but it merged with Japanese culture (anime, games, doujins, music games) to form a unique "J-Core" culture.
 Today, it is recognized as being associated with "Happy Hardcore = anime-like cuteness," and Japan has become an important base internationally.
-

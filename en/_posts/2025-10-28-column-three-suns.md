@@ -9,21 +9,21 @@ tags:
 - Exotica
 - 40s
 - Lounge
-title: 【コラム】 Three Sunsとアコーディオンの魔法 ― 戦後アメリカが生んだ音響の寓話
-title_en: '[Column] Three Suns and the magic of the accordion - an acoustic fable
-  born in postwar America'
+title: '[Column] Three Suns and the magic of the accordion - an acoustic fable born
+  in postwar America'
 ---
 
 
 ## Prologue: Three suns echoing in the living room at dusk
 
+
 Text: mmr｜Theme: Exploring the soundscape of postwar America drawn by a trio of accordion, guitar, and organ
 
-A soft melody plays from the radio.What was ringing there was **Three Suns**――
+A soft melody plays from the radio. What was ringing there was **Three Suns**――
 It was a symbol of American home music in the 1940s, consisting of an accordion, guitar, and electric organ.
 
 This was a time when the war was over and television was not yet widespread.
-The music that played in people's living rooms was neither jazz nor classical music, but the sound that symbolized ``relaxation'' itself.
+The music that played in people's living rooms was neither jazz nor classical music, but the sound that symbolized ""relaxation'' itself.
 At the center of that sound was the **accordion**.
 
 Three Suns' music quietly influenced generations to come, pioneering lounge, exotica, and space-age pop.
@@ -43,15 +43,16 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: The Three Suns Phenomenon - Music for the Home
 
 Three Suns was formed in 1940 by Pennsylvania brothers **Al Nevins (guitar)**, **Morty Nevins (accordion)**, and their cousin **Artie Dunn (organ)**.
 
-At first, they mainly performed in nightclubs and hotel lounges, but in 1944, ``Twilight Time'' became a hit.
+At first, they mainly performed in nightclubs and hotel lounges, but in 1944, ""Twilight Time'' became a hit.
 It can be said that this one song gave birth to the concept of "home music" in postwar America.
 
-> 🎵 *“Heavenly shades of night are falling…”*
-> As symbolized by this phrase, their music created an atmosphere of ``night.''
+> 🎵 *"Heavenly shades of night are falling…"*
+> As symbolized by this phrase, their music created an atmosphere of ""night.''
 
 The sound of the accordion is connected to the nostalgia of soldiers returning from the battlefield.
 The guitar and organ gently envelop it.
@@ -61,13 +62,13 @@ That sound was a "light of sound" that warmed the microcosm of the home.
 
 ## Chapter 2: The Role of the Accordion – A Pretty, Experimental Heart
 
-Morty Nevins' accordion wasn't just an accompaniment, it was a designer of melody and space.
+Morty Nevins" accordion wasn"t just an accompaniment, it was a designer of melody and space.
 The lead moves like a slide, the bellows moves like a breath, and the tempo fluctuates slightly.
 These create Three Suns' unique **feeling of floating and happiness**.
 
 In the 1950s, they signed a contract with RCA and released a series of experimental works that incorporated magnetic recording and stereo technology.
-"Movin' 'n' Groovin'" (1956), "Midnight for Two" (1957), etc.
-It had sonic sophistication that it could be called **``living room electronic music''**.
+"Movin" "n' Groovin'" (1956), "Midnight for Two" (1957), etc.
+It had sonic sophistication that it could be called **""living room electronic music''**.
 
 > Accordion = not nostalgia,
 > It functioned as a "breathing synthesizer" responsible for the future of sound design.
@@ -100,7 +101,7 @@ In the 1960s, with the rise of rock and roll, the accordion rapidly came to be c
 Three Suns gradually disappeared, and Al Nevins turned to producing.
 
 However, in the 21st century, their recordings have regained attention with the reappraisal of Exotica and Lounge.
-In particular, the sound of the accordion has come to be redefined as an ``organic electronic sound'' that predates analog synthesizers.
+In particular, the sound of the accordion has come to be redefined as an ""organic electronic sound'' that predates analog synthesizers.
 
 > The accordion is a symbol of nostalgia,
 > Reincarnated into "lo-fi, psychedelic future sound".
@@ -110,7 +111,7 @@ In particular, the sound of the accordion has come to be redefined as an ``organ
 ## Chapter 5: Modern Reinterpretations - From Three Suns to Lo-fi Chill
 
 Listening to Three Suns on YouTube or Spotify, their warm sound seems like the origin of modern-day **Lo-fi Chill Hop** and **Bedroom Pop**.
-The ``ma'', where the density of sound is thin and exists like air, was the forerunner of digital music.
+The ""ma'', where the density of sound is thin and exists like air, was the forerunner of digital music.
 
 ### Modern Successors
 
@@ -130,17 +131,19 @@ The ``ma'', where the density of sound is thin and exists like air, was the fore
 timeline
 title Three Suns Chronology (1940–2000)
 1940: Formed in Pennsylvania (Al & Morty Nevins + Artie Dunn)
-1944 : “Twilight Time” a big hit
+1944 : "Twilight Time" a big hit
 1950: Signed with RCA, entering the modern pop era
-1956 : "Movin' 'n' Groovin'" released
-1957: “Midnight for Two” – A masterpiece of the Hi-Fi era
+1956 : "Movin" "n' Groovin'" released
+1957: "Midnight for Two" – A masterpiece of the Hi-Fi era
 1962 : Activity curtailed, Nevins turned to production work.
 1990: Reissued and reevaluated due to Lounge boom
-2000: Reborn as the “retro future of sound” in the internet era
+2000: Reborn as the "retro future of sound" in the internet era
 
 </div>
 
+
 ---
+
 
 ## Conclusion: The accordion is still alive
 
@@ -152,7 +155,7 @@ Somewhere in there, I can hear the breathing of an accordion.
 > That was the core of Three Suns' music.
 
 Accordions are not outdated;
-It is beginning to sound once again for the sake of an ``analog future.''
+It is beginning to sound once again for the sake of an ""analog future.''
 
 ---
 
@@ -162,9 +165,10 @@ It is beginning to sound once again for the sake of an ``analog future.''
 | ---- | ------------------- | ---- | ------------------ |
 | 1944 | Twilight Time | RCA | Signature song, later covered by Platters |
 | 1953 | On a Magic Carpet | RCA | The germ of exotica sound |
-| 1956 | Movin' 'n' Groovin' | RCA | A masterpiece from the early days of stereo |
+| 1956 | Movin" "n' Groovin' | RCA | A masterpiece from the early days of stereo |
 | 1957 | Midnight for Two | RCA | Complete Hi-Fi recording |
 | 1960 | Fever & Smoke | RCA | Strengthening jazz elements |
+
 
 ---
 
@@ -187,7 +191,6 @@ D -->|"Enveloping universe of sound"| E["Relaxation/Happiness/Nostalgia"]
 
 ---
 
-> “The sound of Three Suns was breathing in the microcosm of postwar America.”
+> "The sound of Three Suns was breathing in the microcosm of postwar America."
 
 ---
-

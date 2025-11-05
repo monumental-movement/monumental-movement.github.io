@@ -9,8 +9,7 @@ tags:
 - Progressive Rock
 - Rock
 - Anime
-title: 【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性
-title_en: '[Column] Progressive rock and anime: An epic intersecting story'
+title: '[Column] Progressive rock and anime: An epic intersecting story'
 ---
 
 
@@ -18,9 +17,10 @@ title_en: '[Column] Progressive rock and anime: An epic intersecting story'
 
 Text: mmr｜Theme: Progressive rock that has a high affinity with anime
 
-When we talk about the relationship between anime and music, genres that are directly connected come to mind, such as J-Pop, idol songs, Eurobeat, and electronica.However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**.On the surface, it may seem distant from "anime songs," but its long structure, difficult rhythms, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
+When we talk about the relationship between anime and music, genres that are directly connected come to mind, such as J-Pop, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from "anime songs," but its long structure, difficult rhythms, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
 
 ---
+
 
 <style type="text/css">
 
@@ -34,6 +34,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### ■ Overview of the correlation between progressive rock and anime by age group
 
@@ -54,39 +55,39 @@ P1970 --> P1980 --> P1990 --> P2000 --> P2010 --> P2020
 ---
 
 ### ■ Characteristics of progressive rock and narrative nature of anime
-Progressive rock (hereinafter referred to as progressive rock) is known as an ``evolutionary form of rock'' that was born in the 1960s and 1970s.Typical features are as follows.
+Progressive rock (hereinafter referred to as progressive rock) is known as an ""evolutionary form of rock'' that was born in the 1960s and 1970s. Typical features are as follows.
 
 - **Long composition**: It is not uncommon for one song to last over 10 minutes, and the entire song unfolds like an epic poem.
 - **Difficult rhythms and odd time signatures**: A complex rhythm structure that challenges the listener brings intellectual stimulation that is different from the "comfort" of regular pop music.
 - **Conceptuality**: In many cases, the entire album tells a single story or theme, often accompanied by a science fiction/fantasy worldview.
 
-These elements naturally overlap with anime's ``long-term storytelling'' and ``complex human relationships and worldview construction.''Particularly in genres such as science fiction and fantasy, the ``taiga epic'' structure of prog rock can work effectively as a musical device that complements the visual and narrative breadth.
+These elements naturally overlap with anime's ""long-term storytelling" and ""complex human relationships and worldview construction." Particularly in genres such as science fiction and fantasy, the ""taiga epic'' structure of prog rock can work effectively as a musical device that complements the visual and narrative breadth.
 
 ---
 
 ### ■ Comparison between the golden age of progressive rock and Japanese anime
 
-In the 1970s, progressive rock bands such as Pink Floyd and Yes produced albums with themes of ``space,'' ``time,'' and ``existence.''
+In the 1970s, progressive rock bands such as Pink Floyd and Yes produced albums with themes of ""space," ""time," and ""existence.''
 
-Anime from the same period included ``Space Opera''-like works such as ``Space Battleship Yamato'' (https://amzn.to/4pxqmcR) and ``Mobile Suit Gundam'' (https://amzn.to/3IpgXmS).
+Anime from the same period included ""Space Opera"-like works such as ""Space Battleship Yamato" (https://amzn.to/4pxqmcR) and ""Mobile Suit Gundam'' (https://amzn.to/3IpgXmS).
 
-Although there is little direct contact between the two, it is interesting that they developed in parallel with their ``attitude to write stories from a cosmic perspective.''
+Although there is little direct contact between the two, it is interesting that they developed in parallel with their ""attitude to write stories from a cosmic perspective.''
 
 ---
 
 ### ■ Case study: Evangelion and progressive rock feel
-In fact, there are not many examples of progressive rock being directly introduced into anime.However, there are works that have been pointed out to have progressive rock elements.A typical example is **[``Neon Genesis Evangelion''](https://amzn.to/46uRu3i)**.
+In fact, there are not many examples of progressive rock being directly introduced into anime. However, there are works that have been pointed out to have progressive rock elements. A typical example is **[""Neon Genesis Evangelion''](https://amzn.to/46uRu3i)**.
 
-The soundtrack by Shiro Sagisu is peppered with profound and dissonant developments reminiscent of King Crimson and Yes.In particular, songs such as ``Decisive Battle'' and ``Thanatos'' make frequent use of odd time signatures and key changes, and instead of giving the listener easy pleasure, they arouse anxiety and tension.This is exactly the expressive method that prog rock is good at, and it resonates with the ``difficulty'' and ``philosophy'' of the work as a whole.
+The soundtrack by Shiro Sagisu is peppered with profound and dissonant developments reminiscent of King Crimson and Yes. In particular, songs such as ""Decisive Battle" and ""Thanatos" make frequent use of odd time signatures and key changes, and instead of giving the listener easy pleasure, they arouse anxiety and tension. This is exactly the expressive method that prog rock is good at, and it resonates with the ""difficulty" and ""philosophy" of the work as a whole.
 
-Additionally, the Western ideas and religious motifs that Eva pays homage to are also elements that frequently appear in progressive rock concept albums.As a result, it can be said that Evangelion embodies a progressive rock worldview not only visually and narratively, but also musically.
+Additionally, the Western ideas and religious motifs that Eva pays homage to are also elements that frequently appear in progressive rock concept albums. As a result, it can be said that Evangelion embodies a progressive rock worldview not only visually and narratively, but also musically.
 
 ---
 
 ### ■ Why didn't progressive rock become mainstream in anime?
-However, the mainstream of anime music is J-POP, rock, electro, etc., and there are few examples of progressive rock being pushed to the forefront.One of the reasons for this may be the **difference from commerciality**.Progressive rock songs are often difficult to understand, long, and don't have catchy hooks.It doesn't go well with the ``short, impactful hook'' required for openings and endings.
+However, the mainstream of anime music is J-POP, rock, electro, etc., and there are few examples of progressive rock being pushed to the forefront. One of the reasons for this may be the **difference from commerciality**. Progressive rock songs are often difficult to understand, long, and don"t have catchy hooks. It doesn"t go well with the ""short, impactful hook'' required for openings and endings.
 
-However, on the other hand, there is still room for progressive rock techniques to continue to exist in ``places with a high degree of freedom'' such as soundtracks, OVAs, and movie versions.Considering the rise of post-rock and progressive metal in recent years, the possibilities are even wider.
+However, on the other hand, there is still room for progressive rock techniques to continue to exist in ""places with a high degree of freedom'' such as soundtracks, OVAs, and movie versions. Considering the rise of post-rock and progressive metal in recent years, the possibilities are even wider.
 
 ---
 
@@ -111,13 +112,14 @@ The affinity between anime and progressive rock is not just a combination of mus
 | 1990s | [**Dream Theater** "Images and Words"](https://amzn.to/4nFCWVn) / "Metropolis—Part I" | Technical and lyrical style that touches the Eva generation |
 | 1990s | [**Porcupine Tree** "The Sky Moves Sideways"](https://amzn.to/3W7hI72) / "Stars Die" | Philosophical, introspective, Eva-like atmosphere |
 | 2000s | [**Tool** "Lateralus"](https://amzn.to/47XvAbw) / "Lateralus" | The structure using the Fibonacci sequence has a "Ghost in the Shell" cybernetic feel |
-| 2000s | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Untitled #8" | Post-rock development resonates with "Ergo Proxy" |
+| 2000s | [**Sigur Rós** "()"](https://amzn.to/42zRldK) / "Untitled #8" | Post-rock development resonates with "Ergo Proxy" |
 | 2010s | [**Steven Wilson** "Hand. Cannot. Erase."](https://amzn.to/3W3D05C) / "Perfect Life" | The conceptual theme of memory and existence is similar to "Made in Abyss" |
-| 2020s | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prosthetic" | Progressive metal in the digital age adapts to the sense of speed of modern anime |
+| 2020s | [**Haken** "Virus"](https://amzn.to/4nJDuJW) / "Prosthetic" | Progressive metal in the digital age adapts to the sense of speed of modern anime |
 
 ---
 
 ### ■ Delusional crossover table: Specific scenes from anime x specific progressive rock songs
+
 
 | Anime work | Scene | Progressive rock song that plays in delusions | Comments |
 | ------------------- | ---------------- | -------------------------------- | ------------------------ |
@@ -126,20 +128,21 @@ The affinity between anime and progressive rock is not just a combination of mus
 | [AKIRA (1988)](https://amzn.to/42JuTie) | Tetsuo's rampage and collapse | King Crimson "Red" | A terrifying guitar riff is assimilated with the collapse of the world |
 | [Neon Genesis Evangelion (1995)](https://amzn.to/42KUZ4t) | The climax of the human complementation plan | Dream Theater "Metropolis—Part I" | Philosophical and technical structure links to the complexity of the story |
 | [Ghost in the Shell S.A.C. (2002)](https://amzn.to/4gyCJkA) | Scene where Motoko Kusanagi dives into the internet | Tool "Lateralus" | Music with a number sequence structure overlaps with the sense of building a cyber world |
-| [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC) | The scene where Rel leaves the city | Porcupine Tree “Stars Die” | A gloomy beauty where decadence and philosophy overlap |
-| [Made in Abyss (2017)](https://amzn.to/4gzijI9) | The moment when you reach the 6th layer of the deep world | Steven Wilson “Perfect Life” | A song that combines sadness and sublimity resonates |
-| [A Place Further than the Universe (2018)](https://amzn.to/4nNuZxz) | The emotional scene of reaching Antarctica | Sigur Rós “Untitled #8” | Post-rock explosion colors the sense of arrival in youth |
+| [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC) | The scene where Rel leaves the city | Porcupine Tree "Stars Die" | A gloomy beauty where decadence and philosophy overlap |
+| [Made in Abyss (2017)](https://amzn.to/4gzijI9) | The moment when you reach the 6th layer of the deep world | Steven Wilson "Perfect Life" | A song that combines sadness and sublimity resonates |
+| [A Place Further than the Universe (2018)](https://amzn.to/4nNuZxz) | The emotional scene of reaching Antarctica | Sigur Rós "Untitled #8" | Post-rock explosion colors the sense of arrival in youth |
 
 ---
 
-### ■ Conclusion
-Progressive rock never became ``mainstream'' in commercial anime.However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
 
-Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg.In the future, the delusion of ``what if anime was told through progressive rock'' will continue to show new intersections between music and video.
+### ■ Conclusion
+Progressive rock never became ""mainstream'' in commercial anime. However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
+
+Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg. In the future, the delusion of ""what if anime was told through progressive rock'' will continue to show new intersections between music and video.
+
 
 ---
 
 ### Related columns
 
 [[Column] Affinity between anime and jazz/fusion: A story of city nights and music](https://monumental-movement.jp/Column-Jazz-Fusion-Anime)
-

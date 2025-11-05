@@ -8,12 +8,11 @@ layout: post
 tags:
 - House
 - French House
-title: Modjo - Chillin’
-title_en: Modjo - Chillin’
+title: Modjo - Chillin"
 ---
 
 
-"Modjo - Chillin'" is a song released in 2001 by the French duo Modjo.This song is included on their self-titled debut album Modjo.
+"Modjo - Chillin'" is a song released in 2001 by the French duo Modjo. This song is included on their self-titled debut album Modjo.
 
 "Chillin'" is a song that combines elements of disco and house music, with a light and groovy beat, funky bassline, and captivating vocals.
 
@@ -23,18 +22,17 @@ This song is known as pop dance music that resonates with a relaxed atmosphere a
 
 #### Tracklist
 ```md
-A1 Chillin' (Original Extended Mix)
+A1  Chillin' (Original Extended Mix)
 
-B1 Chillin' Con Carne
-(Por Favor Mix by We In Music vs. The Buffalo Bunch)
+B1  Chillin' Con Carne
+ (Por Favor Mix by We In Music vs. The Buffalo Bunch)
 
-B2 The Art Of Chillin'
+B2  The Art Of Chillin'  
 Remix – Hervé Bordes
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=Z53-jrv0TmKW6CMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=Z53-jrv0TmKW6CMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

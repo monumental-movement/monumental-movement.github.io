@@ -10,7 +10,6 @@ tags:
 - Progressive House
 - 00s
 title: Spork – Freek Like Me
-title_en: Spork – Freek Like Me
 ---
 
 
@@ -23,9 +22,7 @@ The B-side is a remix by Dutch DJ Sander Kleinenberg.
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 
 B. Freek Like Me (Sander Kleinenberg Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31370737487?afid=6142608987){: .button1}
-
-
 

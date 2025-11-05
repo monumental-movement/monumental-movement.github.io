@@ -10,7 +10,6 @@ tags:
 - Drum n Bass
 - 90s
 title: Los Terrorpinos – The Desert Song
-title_en: Los Terrorpinos – The Desert Song
 ---
 
 
@@ -21,7 +20,6 @@ Dub/Drum n Bass (promo and limited edition, single side) released in 1997 by Eru
 #### Tracklist
 ```md
 A. The Desert Song (The Magnificent Seven)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}
-

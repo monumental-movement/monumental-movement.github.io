@@ -10,20 +10,21 @@ tags:
 - Rock
 - Italo
 - Vinyl
-title: 【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ
-title_en: '[Column] DJ Harvey and record collection: DJ as a body that lives “sound”'
+title: '[Column] DJ Harvey and record collection: DJ as a body that lives "sound"'
 ---
 
 
 ## Prologue: The Mythos of DJ Harvey
 
-Text: mmr｜Theme: Not just a DJ, but a consideration of the last “shaman” of the analog era
+
+Text: mmr｜Theme: Not just a DJ, but a consideration of the last "shaman" of the analog era
+
 
 DJ Harvey - Just hearing that name makes many club freaks' faces go slack.
 Co-founder of the legendary London club **Tonka Sound System**, he rose to fame in the 90s as a resident at **Ministry of Sound**, moved to **Ibiza** in the 2000s, and is now based in **Los Angeles**.
 
-Harvey says."Records are fragments of my soul. When the needle drops, God dwells there."
-These words tell us everything about his view of DJing.In the 21st century, where digitalization has progressed, he still believes in ``music as a substance''.That faith is what makes DJ Harvey a legend.
+Harvey says. "Records are fragments of my soul. When the needle drops, God dwells there."
+These words tell us everything about his view of DJing. In the 21st century, where digitalization has progressed, he still believes in ""music as a substance''. That faith is what makes DJ Harvey a legend.
 
 ---
 
@@ -40,12 +41,13 @@ color: #fff;
 }
 </style>
 
-## Chapter 1: The era when records are “alive”
 
-London in the 1980s.Harvey was immersed in street culture through skateboarding and punk.However, he eventually started frequenting record stores and became obsessed with the charm of 12-inch singles.
-At that time, records were not just a sound source, but a culture that could be accessed.The texture of the jacket, the smell of the liner notes, the depth of the cut.All of that was part of the "musical experience."
+## Chapter 1: The era when records are "alive"
 
-The first album he bought was **Grace Jones' ``Pull Up to the Bumper''**.
+London in the 1980s. Harvey was immersed in street culture through skateboarding and punk. However, he eventually started frequenting record stores and became obsessed with the charm of 12-inch singles.
+At that time, records were not just a sound source, but a culture that could be accessed. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
+
+The first album he bought was **Grace Jones' ""Pull Up to the Bumper''**.
 The moment his body moved to that bassline, Harvey realized his destiny as a DJ.
 
 > "For me, records are like breathing. I breathe in sound and let it out. That's it."
@@ -57,14 +59,14 @@ This sense of "breathing" later gave rise to his mixing philosophy: "Connecting 
 ## Chapter 2: The essence of Harvey's dig culture
 
 DJ Harvey's record collection is more than just a collection.
-For him, a record is ``the act of keeping a record of someone else's life.''
-Wandering around markets and flea markets, digging up dusty records.There are not only sounds but also **traces of time** engraved there.
+For him, a record is ""the act of keeping a record of someone else's life.''
+Wandering around markets and flea markets, digging up dusty records. There are not only sounds but also **traces of time** engraved there.
 
 Harvey says, "The more a record has human fingerprints on it, the more alive the sound is."
-His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and even Hawaiian AOR.
-The selection of songs is not random, but based on an intuition of reading the ``airflow of sound''.
+His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and Hawaiian AOR.
+The selection of songs is not random, but based on an intuition of reading the ""airflow of sound''.
 
-His DJ bag is like a travel journal.Each record contains memories of some night.
+His DJ bag is like a travel journal. Each record contains memories of some night.
 
 ---
 
@@ -72,14 +74,14 @@ His DJ bag is like a travel journal.Each record contains memories of some night.
 
 Harvey's records have always been on the move.
 From underground clubs in London to **Pikes Hotel** in Ibiza to warehouse events in LA.
-As cities change, so do the sounds.He reconfigures the set to suit the mood.
+As cities change, so do the sounds. He reconfigures the set to suit the mood.
 
 During his time in Ibiza, Harvey redefined the word 'Balearic'.
-It wasn't a genre, it was a ``feeling that melts boundaries''**.Rock, house, and funk all blend together under the same sun.
+It wasn't a genre, it was a ""feeling that melts boundaries''**. Rock, house, and funk all blend together under the same sun.
 This freedom became the style that would later become the symbol of Harvey's Set.
 
-> ``In Ibiza, the weight of the record boxes felt comfortable.
-> That weight was proof that music existed in reality.”
+> ""In Ibiza, the weight of the record boxes felt comfortable.
+> That weight was proof that music existed in reality. "
 
 ---
 
@@ -89,11 +91,11 @@ Harvey's DJing is more physical than technical.
 Place the needle, twist the EQ, move the fader smoothly.
 The series of movements is like a dance.
 
-He places emphasis on ``grooves in which humans can shift, rather than grooves calculated by computers.''
-That's why his play is always **raw**.At the same time, this is the same root of his record collecting philosophy.
-Distortion, noise, and scratch sounds on the disc.Accept everything as **“physicality of music”**.
+He places emphasis on ""grooves in which humans can shift, rather than grooves calculated by computers.''
+That's why his play is always **raw**. At the same time, this is the same root of his record collecting philosophy.
+Distortion, noise, and scratch sounds on the disc. Accept everything as **"physicality of music"**.
 
-> “The scars of the sound are beautiful.”
+> "The scars of the sound are beautiful."
 
 These words lie at the heart of Harvey's aesthetic.
 
@@ -106,26 +108,26 @@ But Harvey still goes on tour with a box of records.
 For him, it is a ritual to "reconnect with sound through inconvenience."
 
 On the other hand, he does not deny digital.
-His label **“Locussolus”** combines analog recording and digital editing.
-In other words, what is important to him is the continuation of the ``physical touch'', and the medium in which it resides is secondary.
+His label **"Locussolus"** combines analog recording and digital editing.
+In other words, what is important to him is the continuation of the ""physical touch'', and the medium in which it resides is secondary.
 
-In a digitally abstracted world, his records continue to shine as ``tactile records.''
+In a digitally abstracted world, his records continue to shine as ""tactile records.''
 
 ---
 
 ## Final chapter: From collection to liberation - coexistence with music
 
 DJ Harvey recently said in an interview:
-> "I'm not a 'collector' anymore. I just live with music."
+> "I"m not a "collector' anymore. I just live with music."
 
 In these words, there is the **freedom** that I have reached at the end of my DJ career of over 40 years.
 Collecting records was not an act of "owning" music, but rather a way of living time together.
 
-The walls of his house are lined with analog records.However, they are by no means static archives.
+The walls of his house are lined with analog records. However, they are by no means static archives.
 Every time Harvey drops the needle, the time on the board comes to life again.
 At that moment, the boundaries between past and present, analog and digital, body and sound disappear.
 
-**DJ Harvey and record collecting--this is the philosophy of ``living with sound'' itself.**
+**DJ Harvey and record collecting--this is the philosophy of ""living with sound'' itself. **
 
 ---
 
@@ -143,8 +145,9 @@ title DJ Harvey Chronology (1980–2025)
 2005: Moved to America and started activities based in LA
 2010: Project Locussolus started, returning to analog production
 2017 : Boiler Room appearance, re-evaluation boom
-2020: “DJ Harvey is the Sound” exhibition held (London)
+2020: "DJ Harvey is the Sound" exhibition held (London)
 2025: Continue to work as an ambassador of analog culture around the world
+
 
 </div>
 
@@ -180,12 +183,13 @@ end
 
 ---
 
+
 ## Conclusion
 
 DJ Harvey plays the records of the past as the sounds of the future.
 Among these techniques is the magic of manipulating the **time device** called music.
 His existence is not a revival of analog in the digital age;
-**This is a redefinition of ``living music'' itself**.
+**This is a redefinition of ""living music'' itself**.
 
 ---
 
@@ -207,8 +211,8 @@ pie title DJ Harvey's Vinyl Box Composition
 **Explanation**:
 Harvey's record box is an organic archive premised on the mixing of genres.
 What is noteworthy is that "Rock" and "House" are placed equally.
-This symbolizes the fact that he is a DJ who always connects with vibes, not genres.
-The "Oddities" slot is Harvey's secret weapon.Activates during after hours and sunrise settings.
+This symbolizes the fact that he is a DJ who always connects by vibe, not by genre.
+The "Oddities" slot is Harvey's secret weapon. Activates during after hours and sunrise settings.
 
 ---
 
@@ -223,10 +227,11 @@ C["Preview & Jacket Intuition Judgment"]
 D["Selected based on the "air" of the sound<br>(feeling rather than genre)"]
 E["Trade with local DJ<br>(exchange each other's records)"]
 F["Reorganized after returning to Japan<br>(classified by climate and time zone)"]
-G["Introducing the club set into practice<br>(Verifying the "field" adaptation of the board)"]
+G["Practical use with club set<br>(Verifying board's "field" adaptation")"]
 H["Archive / Re-recording / Edit production"]
 
 A --> B --> C --> D --> E --> F --> G --> H
+
 
 </div>
 
@@ -239,7 +244,7 @@ That is the essence of Harvey's Balearic philosophy.
 
 ---
 
-## “Sound circulation” model in Harvey’s play environment
+## "Sound circulation" model in Harvey"s play environment
 
 <div class="mermaid">
 
@@ -271,4 +276,3 @@ The record box is his world view,
 Each disc is alive as a "fragment of memory and experience."
 
 ---
-

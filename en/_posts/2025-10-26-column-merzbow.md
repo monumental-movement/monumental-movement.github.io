@@ -9,20 +9,20 @@ tags:
 - Experimental
 - Noise
 - Ambient
-title: 【コラム】 MERZBOW ── ノイズという解放の音響学
-title_en: '[Column] MERZBOW ── Noise, the liberating acoustics'
+title: '[Column] MERZBOW ── Noise, the liberating acoustics'
 ---
 
 
 ## Prologue: Noise as the inversion of silence
 
+
 Text: mmr｜Theme: Exploring the philosophy and cultural historical significance of noise music pioneered by Masami Akita/Merzbow
 
-Since the 1980s, the ``noise music'' that originated in Japan has followed a unique trajectory in the history of world music.The person who has continued to stand at the center of this is **Masami Akita (Merzbow)**.His sound is violent yet meditative, destructive yet organic.
-It goes beyond the framework of ``music'' and should instead be seen as **an ``aural philosophical experiment.''**
+Since the 1980s, the ""noise music'' that originated in Japan has followed a unique trajectory in the history of world music. The person who has continued to stand at the center of this is **Masami Akita (Merzbow)**. His sound is violent yet meditative, destructive yet organic.
+It goes beyond the framework of ""music" and should instead be seen as **an ""aural philosophical experiment."**
 
-The name Merzbow comes from Schulz's Dada-like collage work ``Merzbau''.In other words, the very act of dismantling existing structures and reconstructing the fragments is his creative principle.
-Akita has been active for over 40 years, but his philosophy has always been ``the politics of listening''.Noise is not just "noisy sound", but a counterattack of sounds that have been excluded from the social order.
+The name Merzbow comes from Schulz's Dada-like collage work ""Merzbau''. In other words, the very act of dismantling existing structures and reconstructing the fragments is his creative principle.
+Akita has been active for over 40 years, but his philosophy has always been ""the politics of listening''. Noise is not just "noisy sound", but a counterattack of sounds that have been excluded from the social order.
 
 ---
 
@@ -39,33 +39,34 @@ color: #fff;
 }
 </style>
 
+
 ## Background: Japan's avant-garde soil and DIY culture
-At the end of the 1970s, Tokyo's underground was filled with a diverse spirit of experimentation.The context of contemporary music by Yuji Takahashi and Toru Takemitsu, the impulses of punk/free jazz, and the happening practices of the art world intersect.
+At the end of the 1970s, Tokyo's underground was filled with a diverse spirit of experimentation. The context of contemporary music by Yuji Takahashi and Toru Takemitsu, the impulses of punk/free jazz, and the happening practices of the art world intersect.
 During this time, Akita studied the history of art at an art university and explored the relationship between the body and sound.
 
-Early Merzbow was developed as an ``action art'' that involved the audience and the space through live noise, similar to action painting.
-Also, the cassette culture (cassette underground) supported his expression.The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
+Early Merzbow was developed as an ""action art'' that involved the audience and the space through live noise, similar to action painting.
+Also, the cassette culture (cassette underground) supported his expression. The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
 
 ---
 
 ## Aesthetics: Noise = pleasure of demolition
-Merzbow's aesthetic lies in ``regeneration, not destruction''.
+Merzbow's aesthetic lies in ""regeneration, not destruction''.
 His noise shatters all genres, structures, harmony, and emotions, but then a new order emerges.
 The infinite folding of sound particles pushes the listener's hearing to new sensory horizons.
 
-> “Noise is the sound of freedom. No one can control it.”
+> "Noise is the sound of freedom. No one can control it."
 > ─ Masami Akita (Interview, 1994)
 
 Merzbow's creative process is often compared to the structure of an ecosystem.
 Analog noise (feedback, tape loops, effects running wild) and post-digital glitchy precision intertwine like biological mutations.
-There exists a ``resonance between inorganic and organic''.
+There exists a ""resonance between inorganic and organic''.
 
 ---
 
-## Equipment and production process: acoustic “ecosystem”
-In the early days, the focus was on ``physical noise'' directly connected to metal junk, amplifiers, microphones, magnetic tape, effectors, etc.
+## Equipment and production process: acoustic "ecosystem"
+In the early days, the focus was on ""physical noise'' directly connected to metal junk, amplifiers, microphones, magnetic tape, effectors, etc.
 In the mid-1990s, with the introduction of Macs and digital devices, the granularity and controllability of sound suddenly changed.
-However, Akita does not aim at control, but instead shifts to experiments to find the ``point of collapse of control.''
+However, Akita does not aim at control, but instead shifts to experiments to find the ""point of collapse of control.''
 
 His studio is an organism of its own, with its myriad analog devices and patch cables intertwined.
 Merzbow's "sound" is a record of the mutual interference process between humans and machines.
@@ -74,7 +75,7 @@ Merzbow's "sound" is a record of the mutual interference process between humans 
 
 ## Social context: animal welfare and anti-capitalism
 Since the 2000s, Akita has openly advocated animal rights movements and veganism, and has begun to incorporate these ideas into his music.
-In his representative works ``Animal Liberation'' and ``Ecoid'' series, he redefined noise as a critique of anthropocentrism.
+In his representative works ""Animal Liberation" and ""Ecoid" series, he redefined noise as a critique of anthropocentrism.
 In other words, noise is not just a sound, but takes on the meaning of an ecological resistance movement.
 
 Merzbow's music is also the antithesis of the capitalist commodity form.
@@ -85,26 +86,26 @@ Despite being the opposite of "music that sells," the paradox of receiving high 
 ## International influence: making noise a global language
 Since the 1990s, Merzbow has been mythologised through underground networks around the world.
 Its influence extended to many artists such as **Wolf Eyes (US), Prurient (US), and Alva Noto (Germany)**.
-His ``Japanese noise'' became an important reference point for Western critics as well, as it represents the coexistence of Oriental tranquility and violence.
+His ""Japanese noise'' became an important reference point for Western critics as well, as it represents the coexistence of Oriental tranquility and violence.
 
 In the 2000s, the noise scene spread to Indonesia, Russia, and South America.
-At the root of this is the philosophy established by Merzbow: ``Anyone can dismantle the world with sound.''
+At the root of this is the philosophy established by Merzbow: ""Anyone can dismantle the world with sound.''
 
 ---
 
 ## Current: Noise after AI
 In the 2020s, as music generation by AI becomes commonplace, Merzbow's presence is once again gaining traction.
-His noise became a symbol of ``the non-algorithmic chaos of human consciousness.''
+His noise became a symbol of ""the non-algorithmic chaos of human consciousness.''
 The more orderly and beautiful the generative music becomes, the more Merzbow's "chaos" stands up as traces of real life.
 
 The "distortion of consciousness" that cannot be reproduced with AI noise is the human reality that his sound emits.
-It is the last wild thing against the ``music without body'' of the 21st century.
+It is the last wild thing against the ""music without body'' of the 21st century.
 
 ---
 
 ## Conclusion: Noise is proof of life
 Merzbow's sound is no longer a genre.
-It is an extension of the fundamental impulse of ``living = listening.''
+It is an extension of the fundamental impulse of ""living = listening.''
 Incorporating even silence into noise, he has recorded the **vibration of existence itself** at the extreme of sound.
 
 > "Noise is the voice of life that has not yet been named."
@@ -117,12 +118,12 @@ Incorporating even silence into noise, he has recorded the **vibration of existe
 
 timeline
 title Merzbow activity timeline (1979–2025)
-1979: Formed Merzbow.Independently produces cassette works.
-1981: Release of "Metal Acoustic Music", connecting with domestic and international cassette culture.
-1985: "Remblandt Assemblage" announced.Established the basis of harsh noise.
+1979: Formed Merzbow. Independently produces cassette works.
+1981: "Metal Acoustic Music" released, connecting with domestic and international cassette culture.
+1985: "Remblandt Assemblage" announced. Established the basis of harsh noise.
 1994: Entered the world with "Venereology" from Relapse Records.
 2000: "Merzbox" (50-disc BOX) released, legendary archive.
-2002: Announced animal welfare and veganism.This has been reflected in subsequent works.
+2002: Announced animal welfare and veganism. This has been reflected in subsequent works.
 2010: Completed the "13 Japanese Birds" series.
 2019: Reevaluated as the antithesis of the AI ​​music era.
 2025: Development of the "Ecological Noise" series, exploring the boundary between sound and life.
@@ -136,7 +137,7 @@ title Merzbow activity timeline (1979–2025)
 <div class="mermaid">
 
 flowchart TD
-A["Input: Analog signal (mic/metal/tape)"]
+A["Input: Analog signal (microphone/metal/tape)"]
 B["Amplification/Feedback"]
 C["Distortion/Saturation"]
 D["Control collapse point (self-generation of noise)"]
@@ -176,9 +177,11 @@ B["Digital era (signal collapse)"]
 C["AI era (noise of consciousness)"]
 A --> B --> C
 
+
 </div>
 
 ---
+
 
 ## Recommended disc
 
@@ -192,14 +195,14 @@ Merzbow's "Merzbird" was released in 2004 by the American label Important Record
 2. Mandarin Duck
 3. Emu
 4. Victoria Crowned Pigeon
-5.White Peafowl
+5. White Peafowl
 6. Brown Pelican
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -207,15 +210,15 @@ Merzbow's "Merzbird" was released in 2004 by the American label Important Record
 
 ## References/Materials
 
-- [Masami Akita “Noise/War” (Charnel Music, 1998)](https://amzn.to/4hsDrjG)
+- [Masami Akita "Noise/War" (Charnel Music, 1998)](https://amzn.to/4hsDrjG)
 
-- [Paul Hegarty “Noise/Music: A History” (Continuum, 2007)](https://amzn.to/4qq1ioi)
+- [Paul Hegarty "Noise/Music: A History" (Continuum, 2007)](https://amzn.to/4qq1ioi)
 
-- [David Novak “Japanoise: Music at the Edge of Circulation” (Duke University Press, 2013)](https://amzn.to/4hsDvzW)
-
----
-
-> “Noise is not the grave of music, but the rebirth of music.”
+- [David Novak "Japanoise: Music at the Edge of Circulation" (Duke University Press, 2013)](https://amzn.to/4hsDvzW)
 
 ---
 
+
+> "Noise is not the grave of music, but the rebirth of music."
+
+---

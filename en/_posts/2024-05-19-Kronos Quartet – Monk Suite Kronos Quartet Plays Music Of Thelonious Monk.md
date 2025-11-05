@@ -11,7 +11,6 @@ tags:
 - Experimental
 - 80s
 title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
-title_en: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
 ---
 
 
@@ -31,14 +30,13 @@ Monk Suite：
 5. 'Round Midnight
 6. Misterioso
 
-Monk Plays Ellington:
+Monk Plays Ellington：
 7. It Don't Mean A Thing (If It Ain't Got That Swing)
 8. Black And Tan Fantasy
 9. Brilliant Corners
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

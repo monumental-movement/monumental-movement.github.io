@@ -10,13 +10,12 @@ tags:
 - Jazz
 - Funk
 title: Isaac Hayes – Shaft
-title_en: Isaac Hayes – Shaft
 ---
 
 
-It was created as the soundtrack for the movie Shaft, and is responsible for the music for the classic blaxploitation crime film directed by Gordon Parks.This album was critically acclaimed and considered one of the greatest soundtracks of all time.
+It was created as the soundtrack for the movie Shaft, and is responsible for the music for the classic blaxploitation crime film directed by Gordon Parks. This album was critically acclaimed and considered one of the greatest soundtracks of all time.
 
-Isaac Hayes composed and performed the music for "Shaft."This album features his signature soul, funk, and orchestral arrangements.The album included the iconic theme song, "Theme from Shaft," which was a huge hit and earned Hayes an Academy Award for Best Original Song.The song's infectious groove, memorable guitar riff, and Hayes' smooth, soulful vocals made it an instant classic.
+Isaac Hayes composed and performed the music for "Shaft." This album features his signature soul, funk, and orchestral arrangements. The album included the iconic theme song, "Theme from Shaft," which was a huge hit and earned Hayes an Academy Award for Best Original Song. The song's infectious groove, memorable guitar riff, and Hayes' smooth, soulful vocals made it an instant classic.
 
 #### Tracklist
 ```md
@@ -32,7 +31,7 @@ A5. Shaft's Cab Ride
 
 A6. Do Your Thing
 
-A7.The End Theme
+A7. The End Theme
 
 B1. Cafe Regio's
 
@@ -49,10 +48,9 @@ B6. No Name Bar
 B7. Bumpy's Blues
 
 B8. Shaft Strikes Again
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61703287444?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lvIML3brZPA?si=is_xT6WtKMVrun2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvIML3brZPA?si=is_xT6WtKMVrun2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

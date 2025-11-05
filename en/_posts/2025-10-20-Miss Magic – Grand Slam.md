@@ -11,7 +11,6 @@ tags:
 - Hard House
 - 00s
 title: Miss Magic – Grand Slam
-title_en: Miss Magic – Grand Slam
 ---
 
 
@@ -24,7 +23,6 @@ The composer and producer is The Full SP, a unit composed of UK drum n bass arti
 A. Grand Slam (Tuff Mix)
 
 B. Grand Slam (Unreal Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}
-

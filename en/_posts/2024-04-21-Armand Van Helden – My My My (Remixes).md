@@ -10,7 +10,6 @@ tags:
 - 00s
 - Disco
 title: Armand Van Helden – My My My (Remixes)
-title_en: Armand Van Helden – My My My (Remixes)
 ---
 
 
@@ -29,10 +28,9 @@ A1. My My My (We Deliver 001 Remix)
 A2. My My My (Cagedbaby Pace Remix)
 
 B1. My My My (Deekline & Wizard Vocal Featuring Yolanda)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51538430865?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b7BKUJZ2rjI?si=Jqd6uLcvkDcxc7xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b7BKUJZ2rjI?si=Jqd6uLcvkDcxc7xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

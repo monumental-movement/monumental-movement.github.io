@@ -10,7 +10,6 @@ tags:
 - Hiphop
 - Jazzy Hiphop
 title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes
-title_en: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes
 ---
 
 
@@ -21,9 +20,9 @@ This album is a collection of Pharcyde's best tracks and remixes.
 #### Tracklist
 ```md
 1. Soul Flower
-2.Keep On
+2. Keep On
 3. Passing Me By
-4.Return Of The B-Boy
+4. Return Of The B-Boy
 5. Oh Shit
 6. Technical Difficulties (Space Boogie X Remix)
 7. Runnin'
@@ -34,9 +33,7 @@ This album is a collection of Pharcyde's best tracks and remixes.
 12. Ya Mama
 13. Heart & Soul
 14. DJ Missie 2001 Uptown Party Mix
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
-
-
 

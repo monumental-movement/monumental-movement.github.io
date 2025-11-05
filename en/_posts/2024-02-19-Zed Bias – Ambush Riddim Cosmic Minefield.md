@@ -10,7 +10,6 @@ tags:
 - Electronic
 - 00s
 title: Zed Bias – Ambush Riddim Cosmic Minefield
-title_en: Zed Bias – Ambush Riddim Cosmic Minefield
 ---
 
 
@@ -23,10 +22,9 @@ He also works under the alias Maddslinky and is a member of Phuturistix.
 A. Ambush Riddim
 
 B. Cosmic Minefield
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

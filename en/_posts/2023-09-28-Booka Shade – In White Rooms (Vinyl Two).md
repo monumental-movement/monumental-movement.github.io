@@ -9,7 +9,6 @@ tags:
 - House
 - Electro
 title: Booka Shade – In White Rooms (Vinyl Two)
-title_en: Booka Shade – In White Rooms (Vinyl Two)
 ---
 
 
@@ -24,10 +23,9 @@ A heavy bass line, synthesizer melody, and resonant rhythm combine to create a h
 a. In White Rooms (Mexico Mix)
 
 b. In White Rooms (Shinedoe Fusion Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26356505023?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeRCiX0T_ws?si=JHSqf19FtgWTF_xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeRCiX0T_ws?si=JHSqf19FtgWTF_xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

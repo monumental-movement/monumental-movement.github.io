@@ -9,23 +9,24 @@ tags:
 - Culture
 - Spirits
 - Alchohol
-title: 【コラム】 音が育てる焼酎：奄美大島に響く発酵のハーモニー
-title_en: '[Column] Shochu grown by sound: The harmony of fermentation that resonates
+title: '[Column] Shochu grown by sound: The harmony of fermentation that resonates
   in Amami Oshima'
 ---
 
 
 ## Prologue: On the island of the sound of waves and shochu
 
-Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music.Exploring its scientific basis and cultural background
+
+Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Exploring its scientific basis and cultural background
+
 
 Amami Oshima, the farthest point of the Nansei Islands.
-On this island, brown sugar shochu is surrounded by the sun and sea breeze, and people are quietly ``listening'' to music.
+On this island, brown sugar shochu is surrounded by the sun and sea breeze, and people are quietly ""listening'' to music.
 At night, the faint sounds of classical music, jazz, and island songs flow from the depths of the storage room, and alcohol molecules tremble inside the stainless steel tank.
 They say that the sound makes the shochu softer.
 
-This is not just a romantic metaphor.The phenomenon that physical vibrations caused by sound waves aids in ripening and brings out the flavor is currently attracting attention.
-In this article, we will take a look at the whole picture of the ``acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
+This is not just a romantic metaphor. The phenomenon that physical vibrations caused by sound waves aids in ripening and brings out the flavor is currently attracting attention.
+In this article, we will take a look at the whole picture of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
 
 ---
 
@@ -42,12 +43,13 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: The origin of Amami brown sugar shochu
 
 Amami Oshima's shochu culture dates back to the late Edo period.
 On this island, where sugar cane cultivation was popular, a unique distilled spirit made from molasses from pomace was born - **brown sugar shochu**.
 
-In 1949 (Showa 24), when the Amami Islands were returned to Japan, a special exemption was granted for ``brown sugar shochu'' as defined by the National Tax Agency.
+In 1949 (Showa 24), when the Amami Islands were returned to Japan, a special exemption was granted for ""brown sugar shochu'' as defined by the National Tax Agency.
 This is the only shochu standard that allows the combination of brown sugar and rice malt, and has become a cultural heritage exclusive to the Amami Islands.
 
 > "Brown sugar shochu is made from Amami's soil, water, and wind."
@@ -61,12 +63,12 @@ It wasn't until the beginning of the 21st century that the idea of ​​using s
 ## Chapter 2: Birth of alcohol that listens to sound
 
 ### ● Origin of idea
-The impetus was the ``acoustic aging'' of wine that a wine brewer saw in Tokyo.
+The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
 I learned about an attempt to speed up maturation by playing classical music,
-He returned to Amami thinking, ``Maybe it could be done with shochu.''
+He returned to Amami thinking, ""Maybe it could be done with shochu.''
 
 In 2005, a certain warehouse on Amami Oshima installed acoustic speakers in its storage room for the first time.
-The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ``Asahabushi'').
+The subjects tested were classical music (Bach, Mozart) and island songs (such as Satokuni Taka's ""Asahabushi'').
 Six months later, the people involved who tasted it were surprised.
 "Even though it's the same raw sake, it was more mellow when I listened to it."
 
@@ -75,8 +77,8 @@ Sound waves cause minute vibrations inside the liquid.
 Changing the frequency increases molecular collisions and accelerates the esterification reaction.
 This is said to increase the aromatic components and reduce the irritation of alcohol.
 
-> ``Bass waves move the liquid as deep bass waves, and high frequencies cause the surface layer to vibrate minutely.
-> It's like receiving a sonic massage.”
+> ""Bass waves move the liquid as deep bass waves, and high frequencies cause the surface layer to vibrate minutely.
+> It's like receiving a sonic massage. "
 > —— Researcher, Faculty of Agriculture, Department of Food Science, Kagoshima University
 
 ---
@@ -92,13 +94,13 @@ Each brewery in Amami Oshima has a different "style of sound."
 | Amami Oshima Sake Brewery | Classic (Mozart, Bach) | Gorgeous aroma | Ultrasonic vibration plate |
 | Sato no Akebono (Machida Sake Brewery) | Natural sounds (waves, wind, birds) | Soft texture | Constant temperature storage + built-in speaker |
 
-Each brewery has its own unique ``listening time.''
+Each brewery has its own unique ""listening time.''
 Most breweries play the sound at night, but some breweries play the sound throughout the fermentation process.
-In particular, ``taiko and sanshin'' are rich in low frequencies and have high transmission efficiency to liquids.
+In particular, ""taiko and sanshin'' are rich in low frequencies and have high transmission efficiency to liquids.
 
 ---
 
-## Chapter 4: “Taste of sound” seen through scientific eyes
+## Chapter 4: "Taste of sound" seen through scientific eyes
 
 Experimental data is also being accumulated.
 According to a joint study by Kagoshima University,
@@ -106,7 +108,7 @@ Shochu that has undergone classical acoustic aging has a higher
 **Average 8% reduction in aldehyde content**,
 **Ester ratio increased by 12%**.
 
-In addition, in sensory tests, the products were highly rated as ``rich in aroma'' and ``not irritating.''
+In addition, in sensory tests, the products were highly rated as ""rich in aroma" and ""not irritating."
 The increase in molecular movement caused by sound wave stimulation is exactly what creates "taste tuning."
 
 > "Shochu is alive. When you give it sound, it reacts as if it were breathing."
@@ -116,7 +118,7 @@ The increase in molecular movement caused by sound wave stimulation is exactly w
 
 ## Chapter 5: Fusion of acoustic maturity and Shimauta culture
 
-For Amami, “sound” is not just background music.
+For Amami, "sound" is not just background music.
 Shimauta is the prayer of ancestors, a dialogue with nature, and the memory of a community.
 
 The song that plays in the storage room is
@@ -144,7 +146,7 @@ That day is approaching.
 | Years | Events |
 |------|---------|
 | 1600s | Sugarcane cultivation begins in Amami |
-| 1800s | Production of local shochu using brown sugar as raw material begins |
+| 1800s | Start of production of local shochu using brown sugar |
 | 1949 | Return of the Amami Islands to Japan, special approval for "brown sugar shochu" |
 | 2005 | Amami Oshima's first acoustically aged shochu test begins |
 | 2008 | Kagoshima University begins scientific research on acoustic maturation |
@@ -159,11 +161,12 @@ That day is approaching.
 <div class="mermaid">
 
 graph TD
-A[Sound wave generation from speaker] --> B[Microvibration in liquid]
+A[Sound generation from speaker] --> B[Microvibration in liquid]
 B --> C [Molecular kinetic activation]
 C --> D [Esterification reaction promotion]
 D --> E [Increase in aroma components]
 E --> F [Taste becomes mellower]
+
 
 </div>
 
@@ -176,12 +179,13 @@ For example, it is known that bitterness is perceived to be weaker in a space wh
 In other words, sound and taste are connected in the brain.
 
 The act of listening to the sound of Amami shochu is
-It's not just science, it's also the reunification of humans and nature.
+It"s not just science, it"s also the reunification of humans and nature.
 The sound of the wind, the sound of waves, the sound of singing, and the sound of fermentation.
 They become one harmony,
 A small universe is playing inside the glass.
 
 ---
+
 
 ## Chapter 8: Comparison of acoustic experimental data
 
@@ -232,7 +236,7 @@ style C fill:#9cf,stroke:#333,stroke-width:1px
 style D fill:#fc9,stroke:#333,stroke-width:1px
 style E fill:#bfb,stroke:#333,stroke-width:1px
 style F fill:#ccc,stroke:#333,stroke-width:1px
-
+    
 </div>
 
 > *Scores are test results based on the average value of multiple breweries (as of 2023)
@@ -270,7 +274,7 @@ E --> E2[Minanokaze Sake Brewery<br>🎧 AI sound test introduced from 2024]
 
 ### Geographic features
 
-* **Amami Oshima**: Largest concentration of warehouses.The birthplace of acoustic maturity.
+* **Amami Oshima**: Largest concentration of warehouses. The birthplace of acoustic maturity.
 * **Kikaijima**: Features a unique mineral feel made using hard water.
 * **Tokunoshima/Okinerabujima**: Research into sea breeze aging and low-temperature fermentation is progressing.
 * **Yoronjima**: Culturally, it exists somewhere between Okinawa's awamori.
@@ -283,14 +287,15 @@ Amami's topography stretches 160km from north to south, and the humidity, wind d
 For example, a storehouse facing Tatsugo Bay takes advantage of the sound of waves.
 Warehouses located in mountainous areas create a maturing environment that takes advantage of natural reverberations.
 
-Acoustic maturation is not just a “device”;
-**This is the “resonance of the island” where the topography itself becomes an instrument**.
+Acoustic maturation is not just a "device";
+**This is the "resonance of the island" where the topography itself becomes an instrument**.
 
-> “Amami is an island like one giant speaker.
->The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch.”
+> "Amami is an island like one giant speaker.
+>The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
 > —— Machida Sake Brewery・Torji talk
 
 ---
+
 
 ## Conclusion: Poetry of sound and fermentation
 
@@ -300,7 +305,7 @@ Inside, brown sugar shochu is sleeping quietly.
 I'm listening to that melody.
 
 Time and sound slowly refine the taste.
-“Maturity of sound” created by Amami’s climate and human wisdom——
+"Maturity of sound" created by Amami"s climate and human wisdom——
 It is another kind of music played by the island.
 
 ---
@@ -309,10 +314,9 @@ It is another kind of music played by the island.
 
 | Brewery name | Product name | Capacity/Frequency | Link |
 | -------- | ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Amami Oshima Kaiun Sake Brewery | Brown sugar shochu “Rent” | 1800ml/25 degrees | [Amazon](https://amzn.to/3JaQ5aI) |
-| Amami Oshima Kaiun Sake Brewery | Brown sugar shochu “Beni Sango” | 720ml/40 degrees | [Amazon](https://amzn.to/4qwVYj3) |
-| Machida Sake Brewery | Brown sugar shochu “Sato no Akebono (3 years long storage)” | 1800ml/25 degrees | [Amazon](https://amzn.to/4nzD0pp) |
-| Amami Oshima Sake Brewery | Brown sugar shochu “Funnel” | 1800ml/25 degrees | [Amazon](https://amzn.to/49vtOik) |
+| Amami Oshima Kaiun Sake Brewery | Brown sugar shochu "Rent" | 1800ml/25 degrees | [Amazon](https://amzn.to/3JaQ5aI) |
+| Amami Oshima Kaiun Sake Brewery | Brown sugar shochu "Beni Sango" | 720ml/40 degrees | [Amazon](https://amzn.to/4qwVYj3) |
+| Machida Sake Brewery | Brown sugar shochu "Sato no Akebono (3 years long storage)" | 1800ml/25 degrees | [Amazon](https://amzn.to/4nzD0pp) |
+| Amami Oshima Sake Brewery | Brown sugar shochu "Funnel" | 1800ml/25 degrees | [Amazon](https://amzn.to/49vtOik) |
 
 ---
-

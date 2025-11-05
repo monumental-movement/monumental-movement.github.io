@@ -10,7 +10,6 @@ tags:
 - Trance
 - 00s
 title: Darren Tate & Jono Grant – Shine
-title_en: Darren Tate & Jono Grant – Shine
 ---
 
 
@@ -25,10 +24,9 @@ Jono Grant is a member of the UK electronic music group Above & Beyond, and a pr
 A. Let The Light Shine In (Shine)
 
 B. Let The Light Shine In
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

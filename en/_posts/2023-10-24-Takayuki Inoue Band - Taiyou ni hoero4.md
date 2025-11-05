@@ -10,7 +10,6 @@ tags:
 - Nostalgic
 - 7inch
 title: Takayuki Inoue Band - Taiyou ni hoero4
-title_en: Takayuki Inoue version d - Taiyo ni Hoero 4
 ---
 
 
@@ -26,14 +25,13 @@ Producer – Koji Ishikawa
 
 #### Tracklist
 ```md
-A1. Adventure theme 1
+A1. 冒険のテーマ・1
 
-A2. Adventure theme 2
+A2. 冒険のテーマ・2
 
-B1. New “love” theme
-````
+B1. 新「愛」のテーマ
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
-
-
 

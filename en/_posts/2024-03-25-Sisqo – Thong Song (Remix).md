@@ -10,7 +10,6 @@ tags:
 - R&B
 - Remix
 title: Sisqo – Thong Song (Remix)
-title_en: Sisqo – Thong Song (Remix)
 ---
 
 
@@ -28,16 +27,14 @@ A1. Thong Song (Remix)　Featuring – Foxy Brown
 
 A2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
 
-A3. Thong Song (Jonathan Peters Bust Down Mix)
+A3. Thong Song (Johnathan Peters Bust Down Mix)
 
 B1. Thong Song (Remix) (Instrumental)
 
-B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
+B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix) 
 
 B3. Thong Song (Johnathan Peters Bust Down Mix) (Instrumental)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
-
-
 

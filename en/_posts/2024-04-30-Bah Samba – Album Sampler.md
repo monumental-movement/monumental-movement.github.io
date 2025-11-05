@@ -10,7 +10,6 @@ tags:
 - Deep House
 - Garage House
 title: Bah Samba – Album Sampler
-title_en: Bah Samba – Album Sampler
 ---
 
 
@@ -24,10 +23,9 @@ A1. Drifting (Album Version)
 A2. Reach Inside (Restless Soul Remix)
 
 AA1. Sugar Beet (The Last Pineapple). (Album Version)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m63425093590?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aqxw2YFtiOI?si=aiZoc398GglbwCLp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aqxw2YFtiOI?si=aiZoc398GglbwCLp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

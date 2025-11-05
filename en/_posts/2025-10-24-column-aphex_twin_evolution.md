@@ -9,17 +9,17 @@ tags:
 - UK Techno
 - IDM
 - Techno
-title: 【コラム】 Aphex Twinの初期と現在──電子音楽の臨界点を越えて
-title_en: '[Column] Aphex Twin''s early days and present day -- beyond the critical
-  point of electronic music'
+title: '[Column] Aphex Twin''s early days and present day -- beyond the critical point
+  of electronic music'
 ---
 
 
 ## "When music stopped imitating emotions, Aphex Twin appeared."
 
+
 Text: mmr｜Theme: Comparing Aphex Twin's early works with their current achievements, and critically interpreting the changes in their acoustic structure, philosophy, and technology.
 
-In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head.His early works are sound experiments in which mechanical dreams and human illusions intertwine, and his current sound lies between an artificial intelligence structure and a return to nostalgia.
+In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are sound experiments in which mechanical dreams and human illusions intertwine, and his current sound lies between an artificial intelligence structure and a return to nostalgia.
 
 Below, we will compare and examine these "changes" and "unchanges" from the four axes of work, technology, aesthetics, and ideology.
 
@@ -38,21 +38,22 @@ color: #fff;
 }
 </style>
 
+
 ## I. The world of early Aphex Twin: electronic poetics and analog violence
 
 ### 1.1 "Selected Ambient Works" - Introspective electronic dreams
 
 1992's Selected Ambient Works 85–92 was a turning point in the history of electronic music.
 The monotonous rhythm of a sequencer and the soft fluctuations of an analog synth.
-What you can hear inside is ``human breathing'' on the other side of the electrons.
+What you can hear inside is ""human breathing'' on the other side of the electrons.
 
-Rather than ``composing'' sounds, Richard composed ``environments.''
+Rather than ""composing" sounds, Richard composed ""environments."
 A strange sound image that is ambient yet has the intensity of a club.
 It was an extension of Brian Eno, but with a more personal and destructive emotion.
 
 > "For me, ambient is 'memories that reverberate in the air.'" (Aphex Twin, 1993)
 
-### 1.2 The era of “Classics” and “Analogue Bubblebath”
+### 1.2 The era of "Classics" and "Analogue Bubblebath"
 
 In the early EPs, the physical constraints of the hardware shaped the very character of the sound.
 **Manual errors** such as the Roland TB-303, SH-101, and Akai S950 defined his aesthetic.
@@ -72,7 +73,7 @@ It is pre-digital "analog violence" and an attempt to transform error into the a
 
 ## II. Mid-term transformation: Rhythm as sound sculpture
 
-### 2.1 “Richard D. James Album” – Reincarnation under a personal name
+### 2.1 "Richard D. James Album" – Reincarnation under a personal name
 
 With 1996's "Richard D. James Album," Aphex Twin clearly defined his "authorship."
 What you hear here is a sonic sculpture that fragments and reconstructs breakbeats to the extreme.
@@ -81,7 +82,7 @@ In "The World of a Quarter Beat," the drums bounce, the strings are cut, and the
 The sophistication is as if they were composing music at the DNA level.
 It's amazing that they created this complexity in a pre-DAW environment.
 
-### 2.2 “Come to Daddy” “Windowlicker” ─ Media and Nightmare
+### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
 
 From 1997 to 1999, Aphex Twin combined music with "visual horror."
 The PV group created in collaboration with Chris Cunningham **converted the instability of electronic sound into the amorphousness of images**.
@@ -95,22 +96,22 @@ He was already sensing that his music was in danger of becoming incorporated int
 
 Aphex Twin's activities since the middle of their career have always been a meta-critique of the music industry.
 His smiling face (logo) is a satire on the "artist myth",
-The puzzling nature of song titles asserts the ``right of sound to defy meaning.''
+The puzzling nature of song titles asserts the ""right of sound to defy meaning.''
 
 ---
 
-## III. Silence and Resurrection—Digital maturity after “Syro”
+## III. Silence and Resurrection—Digital maturity after "Syro"
 
-### 3.1 “Syro” (2014): Completion of the acoustic archive
+### 3.1 "Syro" (2014): Completion of the acoustic archive
 
 His first album in 13 years, "Syro," is a fusion of analog return and digital editing.
 All songs have detailed credits for the equipment used,
 Aphex Twin suggests that "every sound has a technical history."
 
-What is important here is that the focus is on the ``feel of the data'' rather than ``emotions.''
+What is important here is that the focus is on the ""feel of the data" rather than ""emotions."
 In other words, music is transforming into "the body as information."
 
-### 3.2 “Collapse EP” (2018): Emergence of AI composition structure
+### 3.2 "Collapse EP" (2018): Emergence of AI composition structure
 
 Collapse EP is Aphex Twin's experiment in embedding emotion into algorithmic structures.
 Complex time signatures, intermittent rhythms, and three-dimensional spatial processing.
@@ -139,9 +140,9 @@ In other words, his music is a testing ground for post-AI humanism.
 
 ---
 
-### Supplementary chapter: Unchanging “feeling of foreign body”
+### Supplementary chapter: Unchanging "feeling of foreign body"
 
-The core of Aphex Twin lies in ``remaining foreign'' even as times change.
+The core of Aphex Twin lies in ""remaining foreign'' even as times change.
 Even when music becomes trendy, his sound always leaves a "margin".
 It is in that blank space that there is room for listeners to project their own emotions.
 
@@ -153,7 +154,7 @@ After Aphex Twin, electronic music is no longer just a "genre."
 Artists influenced by him include Burial, Oneohtrix Point Never, Autechre, Arca, etc.
 All of these questions reconsider the "meaning generation" of sound itself.
 
-> “In an era where music is converted into data, Aphex Twin has become a ``sculptor of perception.''
+> "In an era where music is converted into data, Aphex Twin has become a ""sculptor of perception.''
 
 ---
 
@@ -161,7 +162,7 @@ All of these questions reconsider the "meaning generation" of sound itself.
 
 We live in an era where AI creates music and Spotify categorizes your mood.
 In such a situation, the sound of Aphex Twin is trying to recover the human noise hidden in the data.
-His current music is no longer an act of ``listening,'' but rather a ``philosophy of sound that exists.''
+His current music is no longer an act of ""listening," but rather a ""philosophy of sound that exists."
 
 ---
 
@@ -173,28 +174,28 @@ timeline
 title Aphex Twin Chronology of acoustic evolution (1985–2025)
 1985: Started experimenting with cassettes (Cornwall)
 1991 : Established Rephlex and announced the Analogue Bubblebath series
-1992 : “Selected Ambient Works 85–92” released
-1995: Abstracting ambient with “...Volume II”
-1996: Cellularization of rhythm in “Richard D. James Album”
-1999: “Windowlicker” clashes with the media
-2001: Silence with “Drukqs”
-2014: Regression and technology integration with “Syro”
-2018: Introducing AI-like structure in “Collapse EP”
-2023: New EP “Blackbox Life Recorder 21f” announced
+1992 : "Selected Ambient Works 85–92" released
+1995: Abstracting ambient with "...Volume II"
+1996: Cellularization of rhythm in "Richard D. James Album"
+1999: "Windowlicker" clashes with the media
+2001: Silence with "Drukqs"
+2014: Regression and technology integration with "Syro"
+2018: Introducing AI-like structure in "Collapse EP"
+2023: New EP "Blackbox Life Recorder 21f" announced
 2025: Modular AI performance experiment continues
 
 </div>
 
 ---
 
-## VII. Conclusion: Aphex Twin, a “sound conscious body”
+## VII. Conclusion: Aphex Twin, a "sound conscious body"
 
 Aphex Twin's music is not just a collection of electronic sounds.
 It is an experiment to visualize the "**metastructure of listening**".
 It is also a **philosophical event** where human emotions and machine perception meet.
 
-In his early works, “electronization of emotions” was carried out,
-Nowadays, the trend has reversed to the ``emotionalization of electronics''.
+In his early works, "electronization of emotions" was carried out,
+Nowadays, the trend has reversed to the ""emotionalization of electronics''.
 His journey may foretell a future in which music itself becomes conscious.
 
 ---
@@ -212,6 +213,7 @@ His journey may foretell a future in which music itself becomes conscious.
 - [Collapse EP (2018, Warp)](https://amzn.to/43hPtXF)
 
 - [Blackbox Life Recorder 21f (2023, Warp)](https://amzn.to/4qrUqHc)
+
 
 ---
 
@@ -260,6 +262,7 @@ B2 --> WR2
 style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
 style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
 
+
 </div>
 
 ---
@@ -271,6 +274,7 @@ style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
 <div class="mermaid">
 
 flowchart TD
+
 
 A["1980s - 1990s<br>(early)"]
 B["1996–2005<br>(Turning period)"]
@@ -288,18 +292,21 @@ C --> C1["Eurorack modular<br>(modular patch culture)"]
 C --> C2["Max/MSP, Reaktor, soft module"]
 C --> C3["Hybrid: Physical control + algorithm"]
 
+
 A1 --- B1
 A2 --- B2
 B3 --- C2
 B2 --- C2
 C1 --- C2
 
+
 classDef era fill:#eef,stroke:#88a,stroke-width:1px;
 class A,B,C era;
 
+
 </div>
 
----
+  ---
 
 ## Emotion vs. Data (Abstract Diagram)
 
@@ -333,7 +340,7 @@ class AT center;
 
 ## Spectrogram measurement comparison
 
-#### (“Xtal” (1992) vs “minipops 67” (2014))
+#### ("Xtal" (1992) vs "minipops 67" (2014))
 
 Visually capture the sonic differences between Aphex Twin's early days and today.
 Schematic representation of changes in frequency distribution, sound pressure, and stereo width.
@@ -341,14 +348,14 @@ Schematic representation of changes in frequency distribution, sound pressure, a
 <div class="mermaid">
 
 flowchart TB
-subgraph LEFT["1992『Xtal』"]
+subgraph LEFT["1992"Xtal""]
 direction TB
 L1["Low frequency: 60–300Hz dominant (analog bass)"]
 L2["Middle range: vocal fragments/reverb dense"]
 L3["High frequency: less noise component"]
 end
 
-subgraph RIGHT["2014『minipops 67』"]
+subgraph RIGHT["2014"minipops 67""]
 direction TB
 R1["Low frequency: compression balance"]
 R2["Middle range: subdivided pulse group"]
@@ -364,7 +371,7 @@ style RIGHT fill:#f9f9f9,stroke:#666,stroke-width:1px
 
 </div>
 
-**Caption**:
+**caption**:
 A comparison of the spectrogram structures of "Xtal" (1992) and "minipops 67" (2014).
 Initially, it was characterized by a soft sound pressure concentrated in the mid-low range, but in recent years it has become more granular across the entire range, and spatial information has become more precise.
 
@@ -415,7 +422,7 @@ style RESULT fill:#fff9e6,stroke:#cc9933,stroke-width:1.5px
 
 **caption**:
 
-Polyrhythm structure diagram.In Aphex Twin's works, a ``beat shift'' is created by overlaying a 5-beat cycle on a 4-beat grid, creating an aural sense of floating and instability.
+Polyrhythm structure diagram. In Aphex Twin's works, a ""beat shift'' is created by overlaying a 5-beat cycle on a 4-beat grid, creating an aural sense of floating and instability.
 
 ---
 
@@ -439,9 +446,7 @@ title Aphex Twin Evolution of the acoustic range (1990–2025)
 **caption**:
 
 Aphex Twin acoustic range transition (1990–2025).
-Thanks to advances in recording environments, equipment, and mixing methods, the range of all bands has expanded.In particular, the amount of information in the ultra-low and high frequencies has increased significantly.
+Thanks to advances in recording environments, equipment, and mixing methods, the range of all bands has expanded. In particular, the amount of information in the ultra-low and high frequencies has increased significantly.
 
 ---
-
-
 

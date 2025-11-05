@@ -11,7 +11,6 @@ tags:
 - Punk
 - 90s
 title: VA – Cinema Beer Nuts
-title_en: VA – Cinema Beer Nuts
 ---
 
 
@@ -21,13 +20,13 @@ VA – Cinema Beer Nuts
 
 #### Tracklist
 ```md
-1. The Vandals – It’s A Fact
+1. The Vandals – It's A Fact
 2. MxPx – Doing Time
 3. Mustard Plug – You
 4. Less Than Jake – Automatic (Live)
 5. Ignite – Embrace
-6. Lunachicks – Don’t Want You
-7. The Queers – Don’t Back Down
+6. Lunachicks – Don't Want You
+7. The Queers – Don't Back Down
 8. Nobodys – A Girl Like You
 9. Hi-Standard – Fighting Fists
 10. Voodoo Glow Skulls – Bulletproof
@@ -40,7 +39,6 @@ VA – Cinema Beer Nuts
 17. Horace Pinker – Pop Can Park
 18. Link 80 – Verbal Kint
 19. Millencolin – Lozin' Must
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
-

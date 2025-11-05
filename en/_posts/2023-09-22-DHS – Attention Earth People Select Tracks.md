@@ -9,7 +9,6 @@ tags:
 - Break Beat
 - Minimal
 title: DHS – Attention Earth People Select Tracks
-title_en: DHS – Attention Earth People Select Tracks
 ---
 
 
@@ -29,21 +28,20 @@ This EP, or mini-album, is top-notch from start to finish, with no wasted songs 
 
 #### Tracklist
 ```md
-A1 Attention Earth People
+A1  Attention Earth People
 
-A2 Attention Earth People (Remix)
+A2  Attention Earth People (Remix)
 
-A3 Watch The Sky
+A3  Watch The Sky
 
-B1 Fascinating
+B1  Fascinating
 
-B2 Venus The Morning Star
+B2  Venus The Morning Star
 
-B3 As High As It Can Go
-````
+B3  As High As It Can Go
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

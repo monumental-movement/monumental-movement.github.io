@@ -10,7 +10,6 @@ tags:
 - Electronic
 - 00s
 title: Sunseeker Feat. Crystal Waters – Nights In Egypt
-title_en: Sunseeker Feat. Crystal Waters – Nights In Egypt
 ---
 
 
@@ -33,10 +32,9 @@ A2. Nights In Egypt (Nerio's Extraordinary Dub Remix)
 B1. Nights In Egypt (Swen G Remix)
 
 B2. Nights In Egypt (Lenny Fontana Vocal Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

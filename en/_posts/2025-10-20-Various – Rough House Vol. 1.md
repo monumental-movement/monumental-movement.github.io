@@ -10,7 +10,6 @@ tags:
 - Acid House
 - 80s
 title: Various – Rough House Vol. 1
-title_en: Various – Rough House Vol. 1
 ---
 
 
@@ -27,12 +26,11 @@ B1. Jumar & The Juju Beads – Work The House
 B2. Werk – You Can't Stop Me (From Loving You)
 B3. R.T. & The Rockmen – Acid Chicago Style
 B4. Brooklyn Funk Essentials – We Got To Come Together
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40425615377?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XNsahqlCzqU?si=7fi2ABV9rNv1TY-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XNsahqlCzqU?si=7fi2ABV9rNv1TY-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12pLNzGK-3I?si=J4NtiZL_VEdrmjf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/12pLNzGK-3I?si=J4NtiZL_VEdrmjf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

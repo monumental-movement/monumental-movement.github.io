@@ -12,7 +12,6 @@ tags:
 - Hiphop
 - 90s
 title: Kele Le Roc – Let Me Know
-title_en: Kele Le Roc – Let Me Know
 ---
 
 
@@ -29,10 +28,9 @@ A2. Let Me Know (Gee's Summer Time)
 
 B1. Let Me Know (Dee B S Popular)
 B2. No. 1
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17487420097?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lwGNwNCQnrs?si=HXj9uMohG6dKXUvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lwGNwNCQnrs?si=HXj9uMohG6dKXUvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

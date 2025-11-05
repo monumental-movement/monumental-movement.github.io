@@ -9,7 +9,6 @@ tags:
 - Techno
 - Tech House
 title: Hiroki Esashika – Kazane
-title_en: Hiroki bait – Kazane
 ---
 
 
@@ -30,10 +29,9 @@ A1. Kazane (Kazane Original Mix)
 A2. Kazane (Sébastien Léger's Psyché Remix)
 
 B1. Kazane (Superchumbo Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57660388383?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oyGI_ptZ1Dg?si=KarcXD70sSHPDugF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyGI_ptZ1Dg?si=KarcXD70sSHPDugF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,6 @@ tags:
 - French House
 - 90s
 title: Glaubitz & Roc – Sunshine Day The French Remixes
-title_en: Glaubitz & Roc – Sunshine Day The French Remixes
 ---
 
 
@@ -27,9 +26,8 @@ B is a remix by DJ Richard Gray, who contributed to the worldwide success of the
 A1. Sunshine Day (Funky Stuff Ft. Stephane B & Robert Collado Mix)
 A2. Sunshine Day (Radio Edit)
 
-B1. Sunshine Day (Richard Gray Dub Mix)
-B2. Sunshine Day (Richard Gray Classic Mix)
-````
+B1. Sunshine Day (Richard Grey Dub Mix)
+B2. Sunshine Day (Richard Grey Classic Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m56961334854?afid=6142608987){: .button1}
-

@@ -10,11 +10,10 @@ tags:
 - Minimal
 - Tech House
 title: Robert Drewek – Acidition
-title_en: Robert Drewek – Acidition
 ---
 
 
-Robert Drewek is the general manager of DBH Music, an electronic music distributor based in Frankfurt, Germany.He is also active as a duo RDRS with Robin Scholz.
+Robert Drewek is the general manager of DBH Music, an electronic music distributor based in Frankfurt, Germany. He is also active as a duo RDRS with Robin Scholz.
 
 "Acidition" is an acid house minimal tech house track released in 2005 by the German label i220.
 
@@ -28,10 +27,9 @@ A1. Acidition (David Keno Remix)
 A2. Acidition (Original Mix)
 
 B. Acidition (Chris Delay Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m62525588521?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZR5rNCPiPro?si=SNjUpN77KtwBaHoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZR5rNCPiPro?si=SNjUpN77KtwBaHoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

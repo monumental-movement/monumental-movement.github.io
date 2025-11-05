@@ -8,7 +8,6 @@ layout: post
 tags:
 - Blues
 title: Robert Johnson – The Legendary Blues Singer
-title_en: Robert Johnson – The Legendary Blues Singer
 ---
 
 
@@ -32,10 +31,11 @@ The sound sources he left behind in two recordings from 1936 to 1937 had a great
 10. Me And The Devil Blues
 11. Stop Breakin' Down Blues
 12. Love In Vain
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,6 @@ tags:
 - Techno
 - Abstract
 title: Q-ic And Stephenson – In Stereo EP
-title_en: Q-ic And Stephenson – In Stereo EP
 ---
 
 
@@ -23,12 +22,10 @@ A1. The Sound
 
 A2. Honesty Lights Life
 
-B1.Japanese Tours
+B1. Japanese Tours
 
 B2. Anything Else
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
-
-
 

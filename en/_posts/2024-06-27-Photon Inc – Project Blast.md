@@ -10,7 +10,6 @@ tags:
 - Deep House
 - 90s
 title: Photon, Inc. – Project Blast
-title_en: Photon, Inc. – Project Blast
 ---
 
 
@@ -25,10 +24,9 @@ A2. Project: Blast (Wild Style Mix)
 
 B1. Project: Blast (Whistle Blast Mix)
 B2. Project: Blast (Whistle Beats)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68166166565?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMtgzfUqmXg?si=X2DJQ_6lEqzYUbBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMtgzfUqmXg?si=X2DJQ_6lEqzYUbBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

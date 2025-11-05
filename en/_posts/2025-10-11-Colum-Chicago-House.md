@@ -9,23 +9,25 @@ tags:
 - House
 - Deep House
 - Acid House
-title: 【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化
-title_en: '[Column] From Chicago to the world: The birth and evolution of house music'
+title: '[Column] From Chicago to the world: The birth and evolution of house music'
 ---
 
 
 ## A revolution that started in an underground warehouse
 
-Text: mmr | Theme: “Chicago House” was not just a place for entertainment, but a place for self-expression and a sense of community.
+
+Text: mmr | Theme: "Chicago House" was not just a place for entertainment, but a place for self-expression and a sense of community.
+
 
 In the early 1980s, Chicago's club scene was experiencing a lull due to the decline of disco.
-As disco grew commercially and disappeared from radio and the mainstream, young people were looking for a new outlet for musical expression.One of the answers was the music that later became known as ``Chicago House.''
+As disco grew commercially and disappeared from radio and the mainstream, young people were looking for a new outlet for musical expression. One of the answers was the music that later became known as ""Chicago House.''
 
-The Warehouse club was a musical testing ground during this period.In a vast warehouse-like space, members of the black community, LGBTQ+ community, and urban youth gathered to immerse themselves in music.This place was not just a place for entertainment, but also a place for self-expression and a sense of community.
+The Warehouse club was a musical testing ground during this period. In a vast warehouse-like space, members of the black community, LGBTQ+ community, and urban youth gathered to immerse themselves in music. This place was not just a place for entertainment, but also a place for self-expression and a sense of community.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KtTcR3KRY3E?si=mpzJt4l4ZTQ7KmQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtTcR3KRY3E?si=mpzJt4l4ZTQ7KmQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
 
 <style type="text/css">
 table, td, th {
@@ -39,14 +41,15 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: Genesis — Chicago's Club Culture and 1980s Urban Background
 
 ### Chicago Club — Warehouse and its spaces
 
-Chicago house developed around the ``Warehouse club.''
+Chicago house developed around the ""Warehouse club.''
 Opened in 1977, the Warehouse was an abandoned urban factory converted into a warehouse club that became legendary when Frankie Knuckles played there as DJ.
 
-The vast space of the warehouse, the height of the ceiling, and the echo of the concrete gave the music a unique depth and dynamism.The sounds on the floor resonated with the bodies of the audience, creating a communal experience that went beyond a mere musical experience.
+The vast space of the warehouse, the height of the ceiling, and the echo of the concrete gave the music a unique depth and dynamism. The sounds on the floor resonated with the bodies of the audience, creating a communal experience that went beyond a mere musical experience.
 
 ### Social background of Chicago in the 1980s
 
@@ -56,14 +59,14 @@ The early 1980s were tough economic times for Chicago.
 - Community division due to urban redevelopment
 - Racial disparities and social inequality
 
-Filling this urban void, club culture functioned as a new venue for social and cultural expression.Disillusioned with the commercialization of disco, young people flocked to clubs such as the Warehouse, The Power Plant, and Music Box to enjoy freedom through music.
+Filling this urban void, club culture functioned as a new venue for social and cultural expression. Disillusioned with the commercialization of disco, young people flocked to clubs such as the Warehouse, The Power Plant, and Music Box to enjoy freedom through music.
 
 ### Club management and community
 
 The club kept admission fees to a minimum and provided an environment where local DJs and artists could play freely.
 This free space has given Chicago House a DIY spirit and a community culture.
 
-As an anecdote, Frankie Knuckles read the cheers from the crowd late at night and subtly changed the rhythm, creating a moment when everyone's bodies swayed in unison.The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
+As an anecdote, Frankie Knuckles read the cheers from the crowd late at night and subtly changed the rhythm, creating a moment when everyone's bodies swayed in unison. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
 
 ---
 
@@ -82,7 +85,7 @@ The technique of eliciting a physical reaction from the audience through subtle 
 
 ### Larry Heard — the spiritual expression of deep house
 
-Larry Heard created ``Can You Feel It'' at home using simple equipment.
+Larry Heard created ""Can You Feel It'' at home using simple equipment.
 With its deep meditative groove, the track not only contributed to the clubbing experience, but also to the listener's individual spiritual journey.
 
 ---
@@ -93,16 +96,16 @@ With its deep meditative groove, the track not only contributed to the clubbing 
 - **Deep House**: Meditative and soulful, represented by Larry Heard
 - **Vocal House**: Emphasis on lyrics and emotional expression, reflecting the voices of the community
 
-Early house music was characterized by simple, repetitive rhythms and was created using Roland TR-808/TR-909 rhythm machines and analog synths.A small sound ingenuity had the power to change the atmosphere of the entire club.
+Early house music was characterized by simple, repetitive rhythms and was created using Roland TR-808/TR-909 rhythm machines and analog synths. A small sound ingenuity had the power to change the atmosphere of the entire club.
 
 ---
 
 ## Chapter 4: The intersection of society and culture
 
 Chicago House has grown with the support of the black and LGBTQ+ communities.
-The club was a safe haven, a place free from discrimination and prejudice.Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
+The club was a safe haven, a place free from discrimination and prejudice. Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
 
-Anecdotally, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor.The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
+Anecdotally, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
 
 ---
 
@@ -163,7 +166,7 @@ Chicago House, thus born, spread throughout the world as a cultural phenomenon t
 
 flowchart TD
 A1977["1977: Warehouse opened"] --> B1983["1983: Frankie Knuckles DJ started playing"]
-B1983 --> C1984["1984：The Power Plant開店、若手DJ台頭"]
+B1983 --> C1984["1984: The Power Plant opens, young DJs emerge"]
 C1984 --> D1985["1985: Music Box opens, deep house penetration"]
 D1985 --> E1986["1986: Trax Records established, Chicago house distribution started"]
 E1986 --> F1987["1987: British acid house boom begins"]
@@ -189,7 +192,7 @@ Chicago house rhythms are deeply engraved in urban culture and people's bodies, 
 ### Outlook for the future
 
 Chicago house is more than just a musical genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
-A new generation of artists samples classic songs from the past and reinterprets them into modern rhythms.Due to urban redevelopment and advances in digital technology, the physical and virtual experiences of club spaces will become more diverse.The ideals of social inclusion and diversity are rooted in Chicago House's concept of a "free and safe space of expression."
+A new generation of artists samples classic songs from the past and reinterprets them into modern rhythms. Due to urban redevelopment and advances in digital technology, the physical and virtual experiences of club spaces will become more diverse. The ideals of social inclusion and diversity are rooted in Chicago House's concept of a "free and safe space of expression."
 
 ---
 
@@ -200,7 +203,7 @@ Chicago House is the story of a small musical laboratory born out of an abandone
 The nightly creations that took place at the Warehouse and The Power Plant were spaces of self-expression for black and LGBTQ+ communities, and symbols of urban community-building.
 The fusion of groove and technology forged by pioneers like Frankie Knuckles and Larry Heard became more than just music, it became a cultural movement.
 
-Its influence extends to British acid house, Detroit techno, modern EDM and deep house, and Chicago beats continue to live on in clubs around the world today.Chicago house is both a legacy of the past and a beacon for the musical culture of the future.
+Its influence extends to British acid house, Detroit techno, modern EDM and deep house, and Chicago beats continue to live on in clubs around the world today. Chicago house is both a legacy of the past and a beacon for the musical culture of the future.
 
 ---
 
@@ -208,9 +211,8 @@ Its influence extends to British acid house, Detroit techno, modern EDM and deep
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Column] What is deep house?─ Exploring the depth of sound that blends the temperature of soul and jazz into house] (https://monumental-movement.jp/Column-Deep-House)
+🔗 [[Column] What is deep house? ─ Exploring the depth of sound that blends the temperature of soul and jazz into house] (https://monumental-movement.jp/Column-Deep-House)
 
 🔗 [[Column] From the origins of NY House to the present - History, masterpieces, and changes in equipment](https://monumental-movement.jp/Column-NY-House)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
-

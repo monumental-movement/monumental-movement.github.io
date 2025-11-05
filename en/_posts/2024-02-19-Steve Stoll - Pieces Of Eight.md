@@ -10,7 +10,6 @@ tags:
 - NY Techno
 - UK Techno
 title: Steve Stoll - Pieces Of Eight
-title_en: Steve Stoll - Pieces Of Eight
 ---
 
 
@@ -24,15 +23,14 @@ B2's "Killin' it" is a bass-heavy track that leans more toward trip-hop than tec
 
 #### Tracklist
 ```md
-A. Pieces Of Eight
+A.  Pieces Of Eight
 
 B1. Pieces Of Eight (Night Thoughts Remix)
 
 B2. Killin' It
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YyFoxNhzR7s?si=_wjCc0Gx6etXGatv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyFoxNhzR7s?si=_wjCc0Gx6etXGatv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

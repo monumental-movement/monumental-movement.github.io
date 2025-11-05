@@ -9,7 +9,6 @@ tags:
 - Techno
 - Compilation
 title: Various – Wire 00 Compilation
-title_en: Various – Wire 00 Compilation
 ---
 
 
@@ -19,29 +18,37 @@ The 2-LP set also includes tracks from Sven Väth, DJ Hell and WestBam.
 
 #### Tracklist
 ```md
-A1 Denki Groove–Wire, Wireless (Arena)
+A1  Denki Groove–Wire, Wireless (Arena)
 
-A2 Sven Väth–Pathfinder
 
-B1 Fumiya Tanaka–Hi Hat Sorted One
+A2  Sven Väth–Pathfinder
 
-B2 DJ Hell vs. Richard Bartz–1,2,3,4 (Bonus Beats)
 
-B3 Thomas Schumacher–Listen Up
+B1  Fumiya Tanaka–Hi Hat Sorted One
 
-C1 WestBam–Love Bass (Love Dub Mix)
 
-C2 Table Tennis Stone – Sck Mejisako (Table Tennis Doctor. Remi x) Remi x – Table Tennis Stone
+B2  DJ Hell vs. Richard Bartz–1,2,3,4 (Bonus Beats)
 
-D1 Zombie Nation–Kernkraft 400
 
-D2 DJ Tasaka–Ganz Ganguro
+B3  Thomas Schumacher–Listen Up
 
-D3 Beroshima–WWW. (Robot Mix)
-````
+
+C1  WestBam–Love Bass (Love Dub Mix)
+
+
+C2  Takkyu Ishino–Suck Me Disco (Takkyu I. Remix) Remix – Takkyu Ishino
+
+
+D1  Zombie Nation–Kernkraft 400
+
+
+D2  DJ Tasaka–Ganz Ganguro
+
+
+D3  Beroshima–WWW. (Robot Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

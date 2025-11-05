@@ -9,7 +9,6 @@ tags:
 - New-Wave
 - Synth-Pop
 title: A Flock Of Seagulls – Listen
-title_en: A Flock Of Seagulls – Listen
 ---
 
 
@@ -29,19 +28,18 @@ A4. What Am I Supposed To Do
 
 B1. Electrics
 
-B2.The Traveler
+B2. The Traveller
 
 B3. 2:30
 
 B4. Over The Border
 
-B5.The Fall
+B5. The Fall
 
 B6. (It's Not Me) Talking
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

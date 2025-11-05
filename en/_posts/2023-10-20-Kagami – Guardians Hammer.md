@@ -8,7 +8,6 @@ layout: post
 tags:
 - Techno
 title: Kagami – Guardians Hammer
-title_en: Kagami – Guardians Hammer
 ---
 
 
@@ -19,9 +18,7 @@ title_en: Kagami – Guardians Hammer
 A. Guardians Hammer
 
 B. Last Resorts Spartan
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
-
-
 

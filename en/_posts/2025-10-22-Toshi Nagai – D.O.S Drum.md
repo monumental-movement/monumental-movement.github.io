@@ -10,7 +10,6 @@ tags:
 - Pops
 - 90s
 title: Toshi Nagai – D.O.S Drum
-title_en: City Long – D.oh.S Drum
 ---
 
 
@@ -21,13 +20,12 @@ Toshi Nagai, also known as Toshimitsu Nagai, is a Japanese drummer who works as 
 #### Tracklist
 ```md
 1. Laissez-moi Tranquille! (SPT Version)
-2.Moi
-3.VEGLIA
+2. Moi
+3. VEGLIA
 4. I Love You, I Need You.
 5. Où Sommes-nous Ici?
 6. D.O.S. Drum
 7. À (Tes/Vos) Amours!
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}
-

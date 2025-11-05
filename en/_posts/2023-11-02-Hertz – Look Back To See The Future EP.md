@@ -9,7 +9,6 @@ tags:
 - Techno
 - Tech House
 title: Hertz – Look Back To See The Future EP
-title_en: Hertz – Look Back To See The Future EP
 ---
 
 
@@ -21,17 +20,16 @@ Hertz, who was a duo with Petter B from 2009 to 2012, has released on numerous l
 
 #### Tracklist
 ```md
-A1.Recreate
+A1. Recreate
 
 A2. Predatohm
 
 B1. Look Back
 
 B2. Filter Out
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43260356150?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fa5dW6r9m6I?si=mz-cdiO0bPcNGjhb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fa5dW6r9m6I?si=mz-cdiO0bPcNGjhb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

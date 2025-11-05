@@ -9,7 +9,6 @@ tags:
 - JPop
 - Pops
 title: Yumi Matsutoya – Da・Di・Da
-title_en: Yumi Matsutoya – Da・Di・Da
 ---
 
 
@@ -27,27 +26,26 @@ Participating musicians
 
 #### Tracklist
 ```md
-A1. Love will never begin again.
+A1. もう愛は始まらない
 
-A2. People's street
+A2. 人のストリート
 
 A3. Babylon
 
-A4. Sugar Town is a town of goodbye.
+A4. Sugar Townはさよならの町
 
-B1. In a corner of Metropolis
+B1. メトロポリスの片隅で
 
-B2. Rocket fireworks on a moonlit night
+B2. 月夜のロケット花火
 
-B3. Cinderella Express
+B3. シンデレラ・エクスプレス
 
-B4. Regrets of Youth
+B4. 青春のリグレット
 
-B5. Even if you leave
-````
+B5. たとえあなたが去って行っても
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,6 @@ tags:
 - Trance
 - 00s
 title: Tiësto & Junkie XL – Obsession
-title_en: Tiësto & Junkie XL – Obsession
 ---
 
 
@@ -24,10 +23,9 @@ The B-side is a remix by NuBreed, a project by Jase (Jason Catherine), Mykel (Mi
 A01. Obsession (Filterheadz Remix)
 
 B01. Obsession (NuBreed Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76454545800?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M2Y1TOVkcsI?si=qdQAoiuR0TVOdtUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2Y1TOVkcsI?si=qdQAoiuR0TVOdtUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

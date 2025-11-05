@@ -10,7 +10,6 @@ tags:
 - Industrial
 - 00s
 title: Distance – Night Vision Traffic (Remixes)
-title_en: Distance – Night Vision Traffic (Remixes)
 ---
 
 
@@ -25,10 +24,9 @@ The B-side is a remix by Japanese dubstep musician/DJ/producer Takeaki Maruyama,
 A. Night Vision (Skream's 'So Nasty' Version)
 
 B. Traffic (Goth-Trad Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

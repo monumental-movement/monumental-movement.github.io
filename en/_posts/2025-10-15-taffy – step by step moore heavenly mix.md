@@ -10,7 +10,6 @@ tags:
 - Disco
 - 80s
 title: Taffy – Step By Step (Moore Heavenly Mix)
-title_en: Taffy – Step By Step (Moore Heavenly Mix)
 ---
 
 
@@ -23,10 +22,9 @@ This record is an Italodance Mix by Moore Heavenly, released in 1987 on Rhythm K
 A. Step By Step (Moore Heavenly Mix)
 
 B. Whose?
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w4hIgfJ2DLo?si=XnKcM8Sks95AUr6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4hIgfJ2DLo?si=XnKcM8Sks95AUr6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

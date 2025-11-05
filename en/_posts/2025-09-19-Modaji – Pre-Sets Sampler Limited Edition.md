@@ -10,7 +10,6 @@ tags:
 - Future Jazz
 - 00s
 title: Modaji – Pre-Sets Sampler Limited Edition
-title_en: Modaji – Pre-Sets Sampler Limited Edition
 ---
 
 
@@ -23,14 +22,13 @@ Under the name Modaji, he is active in the breakbeat scene as a member of Phil A
 #### Tracklist
 ```md
 A1. Outside From The Inside (Radio Edit)
-A2.The Riot Act
+A2. The Riot Act
 
 B1. Midnight Plains
 B2. Latin Protocol (Version)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LZY_gyLxKss?si=GduY4VfXKIWVVRsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZY_gyLxKss?si=GduY4VfXKIWVVRsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

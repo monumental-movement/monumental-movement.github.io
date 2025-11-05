@@ -9,8 +9,7 @@ tags:
 - Hiphop
 - Anime
 - Wu-Tang
-title: 【コラム】 Wu-Tang Clanと日本のアニメカルチャー：東洋思想とストリートの共鳴
-title_en: '[Column] Wu-Tang Clan and Japanese anime culture: Resonance between oriental
+title: '[Column] Wu-Tang Clan and Japanese anime culture: Resonance between oriental
   thought and the street'
 ---
 
@@ -23,8 +22,8 @@ Text: mmr｜Theme: Hip-hop and Japanese anime--Exploring the intersection of "Or
 From there, a group called "Xiaolin" emerged that shocked the history of hip-hop.
 **Wu-Tang Clan** - The chain of combative and philosophical words woven by nine MCs was a strange form of art that combined street violence with Buddhist tranquility.
 
-At the core of their worldview, **kung fu movies, oriental philosophy, and ``anime imagination''** coexisted.
-For black American youth in the 1990s, Asian culture was an ``exotic spiritual weapon'' and a means of escape from social oppression.
+At the core of their worldview, **kung fu movies, oriental philosophy, and ""anime imagination''** coexisted.
+For black American youth in the 1990s, Asian culture was an ""exotic spiritual weapon'' and a means of escape from social oppression.
 Wu-Tang Clan sampled Bruce Lee, Sun Tzu, and Lao Tzu, and later resonated strongly with the aesthetics of Japanese anime.
 
 ---
@@ -42,32 +41,33 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: Shaolin Thought and Anime Combat Aesthetics
 
 The word "Shaolin" appears repeatedly in Wu-Tang Clan's early works.
 This is not just an Asian hobby.
 For them, "Shaolin" was a metaphor for inner training, training oneself in the midst of poverty and violence.
 
-This structure is similar to Japanese anime, especially ``Dragon Ball,'' ``Fist of the North Star,'' and ``Naruto.''
+This structure is similar to Japanese anime, especially ""Dragon Ball," ""Fist of the North Star," and ""Naruto.''
 Both Son Goku and Kenshiro transcend themselves through combat with external enemies.
 RZA (Wu-Tang's spiritual leader) later said:
 
-> “Anime warriors were our life.
-> They trained themselves in solitude and fought against the world.”
+> "Anime warriors were our life.
+> They trained themselves in solitude and fought against the world. "
 
-This ``spiritual shaolin = story of training'' has a structure similar to the street struggle.
-The ``samurai self-image'' held by Wu-Tang Clan members became the prototype for the ``anime-like stoicism'' that later spread throughout hip-hop.
+This ""spiritual shaolin = story of training'' has a structure similar to the street struggle.
+The ""samurai self-image" held by Wu-Tang Clan members became the prototype for the ""anime-like stoicism" that later spread throughout hip-hop.
 
 ---
 
 ## Chapter 2: Asia as Sampling - From Kung Fu to Anime
 
 In his 1993 debut album, Enter the Wu-Tang (36 Chambers),
-The audio from the kung fu movie ``Shaolin Thirty-Six Chambers'' is sampled.
+The audio from the kung fu movie ""Shaolin Thirty-Six Chambers'' is sampled.
 Since then, Asian sound motifs have frequently appeared in Wu-Tang's music.
 Mokugyo, the koto, the shakuhachi, the sound of temple bells -- these were symbols of the "Orient" as sounds.
 
-However, in the 2000s, his interest expanded to ``Japanese anime.''
+However, in the 2000s, his interest expanded to ""Japanese anime.''
 RZA showed strong respect for **Nujabes**, who was the music supervisor for "Samurai Champloo".
 Ghostface Killah expanded his alias from "Tony Starks" to "Iron Man".
 He later became involved in producing the soundtrack for Afro Samurai.
@@ -75,31 +75,31 @@ At this point, Asian culture moves from mere quotation to the realm of co-produc
 
 ---
 
-## Chapter 3: “Afro Samurai” and the chain of reimports
+## Chapter 3: "Afro Samurai" and the chain of reimports
 
-In 2007, the Japanese anime ``Afro Samurai'' was broadcast nationwide.
+In 2007, the Japanese anime ""Afro Samurai'' was broadcast nationwide.
 The voice actor is Samuel L. Jackson.
 RZA was in charge of the music.
 
-This work was a true ``mutual remix'' of Japanese and American culture, created by a Japanese studio and told by a black American artist.
-“Samurai” is no longer a foreign warrior, but has been redefined as an embodiment of hip-hop ethics.
+This work was a true ""mutual remix'' of Japanese and American culture, created by a Japanese studio and told by a black American artist.
+"Samurai" is no longer a foreign warrior, but has been redefined as an embodiment of hip-hop ethics.
 
-> “Sword = Mike” “War = Rap Battle”
+> "Sword = Mike" "War = Rap Battle"
 > This symbolic transformation is at the heart of post-Wu-Tang Clan hip-hop aesthetics.
 
-For RZA, ``Afro Samurai'' is the work that most concretely embodies his ``Oriental orientation.''
-At the same time, it became a pioneer of ``fusion with hip-hop'' for the Japanese anime industry.
+For RZA, ""Afro Samurai" is the work that most concretely embodies his ""Oriental orientation."
+At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanese anime industry.
 
 ---
 
 ## Chapter 4: A new horizon for hip-hop opened up by an anime-like worldview
 
-After Wu-Tang Clan, hip-hop acquired the ``language to talk about anime.''
+After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
 Kanye West depicts an anime-like world in the MV for "Strong Feeling",
 Lil Uzi Vert and Megan Thee Stallion proudly incorporate "otaku culture" into their identities.
 
-All of these phenomena are an extension of the ``window to Oriental fantasy'' opened by Wu-Tang.
+All of these phenomena are an extension of the ""window to Oriental fantasy'' opened by Wu-Tang.
 In recent years, RZA has continued to cite Japanese spirituality as a "metaphor for how to live" in works such as "Bong of the Dead."
 
 In other words, Wu-Tang Clan's "Asian orientation" is not just cultural appropriation;
@@ -115,10 +115,10 @@ It emphasized the "Zen" aspect of hip-hop and resonated with RZA's spiritual wor
 In particular, Nujabes' music combines sampling and the aesthetics of ma.
 He was spiritually connected to the Wu-Tang Clan, the "Samurai of Sound."
 
-In the 2020s, clear references appear in Japanese anime works as well.
+In the 2020s, clear references appear in Japanese anime works.
 The influence of lo-fi hip-hop can be seen in the BGM of "Jujutsu Kaisen".
 Multiple hip-hop artists will participate in the ending of "Chainsaw Man."
-Here, anime once again reconnects with the language of the “street.”
+Here, anime once again reconnects with the language of the "street."
 
 ---
 
@@ -126,15 +126,15 @@ Here, anime once again reconnects with the language of the “street.”
 
 The "East" seen by the Wu-Tang Clan is not a figment of imagination;
 It was a structural diversion to introduce philosophical elements such as **self-discipline, serenity, and spiritual unity** into a world of violence.
-At the same time, it is in line with the ``stories of battle and growth'' that Japanese anime has depicted.
+At the same time, it is in line with the ""stories of battle and growth'' that Japanese anime has depicted.
 
 Street MCs sharpen their rap skills like a sword,
-Anime characters transcend themselves through “training.”
+Anime characters transcend themselves through "training."
 These two stories transcend cultural barriers and converge into one spiritual archetype: the poetics of the warrior.
 
 Today, hip-hop and anime share the same global myth.
 It's no coincidence that the Wu-Tang Clan got its start.
-Their “microphone path” is
+Their "microphone path" is
 It was truly a modern-day translation of "Samurai Spirit."
 
 ---
@@ -145,13 +145,13 @@ It was truly a modern-day translation of "Samurai Spirit."
 
 timeline
 title Wu-Tang Clan × Japanese Culture Timeline (1993–2025)
-1993: "Enter the Wu-Tang (36 Chambers)" released.A large number of samples of Kung Fu movie audio.
-1999: RZA composes the music for Ghost Dog: The Way of the Samurai.Demonstrates samurai philosophy.
-2004: Nujabes "Samurai Champloo" soundtrack released.RZA talks about his influences.
-2007: "Afro Samurai" begins broadcasting.RZA is in charge of all the music.
-2013 : Ghostface Killah releases "Twelve Reasons to Die".Influence of Japanese supernatural art.
+1993: "Enter the Wu-Tang (36 Chambers)" released. A large number of samples of Kung Fu movie audio.
+1999: RZA composes the music for Ghost Dog: The Way of the Samurai. Demonstrates samurai philosophy.
+2004: Nujabes "Samurai Champloo" soundtrack released. RZA talks about his influences.
+2007: "Afro Samurai" begins broadcasting. RZA is in charge of all the music.
+2013 : Ghostface Killah releases "Twelve Reasons to Die". Influence of Japanese supernatural art.
 2019: RZA came to Japan and gave a lecture on the theme of "Zen and Hip Hop".
-2025: Young Japanese hip-hop artists inherit the philosophy of the “Wu-Tang style.”
+2025: Young Japanese hip-hop artists inherit the philosophy of the "Wu-Tang style."
 
 </div>
 
@@ -176,23 +176,24 @@ D --> E
 A --> E
 E --> F
 
+
 </div>
 
 ---
 
 ### References/Listening Guide
 
-- [Wu-Tang Clan『Enter the Wu-Tang (36 Chambers)』(1993)](https://amzn.to/3WW5Yop)
+- [Wu-Tang Clan"Enter the Wu-Tang (36 Chambers)"(1993)](https://amzn.to/3WW5Yop)
 
-- [RZA “The Tao of Wu” (2009)](https://amzn.to/3WVd7p3)
+- [RZA "The Tao of Wu" (2009)](https://amzn.to/3WVd7p3)
 
-- [``Ghost Dog: The Way of the Samurai'' (Film, 1999)](https://amzn.to/42UMMuP)
+- [""Ghost Dog: The Way of the Samurai'' (Film, 1999)](https://amzn.to/42UMMuP)
 
-- [“Afro Samurai Original Soundtrack” (RZA, 2007)](https://amzn.to/4nrD5LV)
+- ["Afro Samurai Original Soundtrack" (RZA, 2007)](https://amzn.to/4nrD5LV)
 
-- [Nujabes “Metaphorical Music” (2003)](https://amzn.to/3WXcNpM)
+- [Nujabes "Metaphorical Music" (2003)](https://amzn.to/3WXcNpM)
 
-- [Ian Condry “Hip-Hop Japan” (2006)](https://amzn.to/3Wo3K0Y)
+- [Ian Condry "Hip-Hop Japan" (2006)](https://amzn.to/3Wo3K0Y)
 
 ---
 
@@ -205,9 +206,8 @@ They too have continued to train their souls through "sound and poetry."
 
 This attitude is still alive in contemporary artists.
 Anime characters and rappers are all facing the same question.
-**“How to train yourself and how to fight against the world”**
+**"How to train yourself and how to fight against the world"**
 
 That is the greatest legacy left by the Wu-Tang Clan.
 
 ---
-

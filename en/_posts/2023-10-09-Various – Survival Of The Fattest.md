@@ -9,11 +9,10 @@ tags:
 - Punk
 - Hardcore
 title: Various – Survival Of The Fattest
-title_en: Various – Survival Of The Fattest
 ---
 
 
-“Survival Of The Fattest” is
+"Survival Of The Fattest" is
 This is a compilation album released by the label "Fat Wreck Chords" in 1996.
 
 #### Tracklist
@@ -44,17 +43,16 @@ B3. Frenzal Rhomb–Run
 
 B4. Hi-Standard–Wait For The Sun
 
-B5. Lag Wagon –Layman’s Terms
+B5. Lag Wagon –Lamens Terms
 
 B6. Bracket–Talk Show
 
 B7. Snuff –Walk
 
 B8. Me First And The Gimme Gimmes–Country Roads
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

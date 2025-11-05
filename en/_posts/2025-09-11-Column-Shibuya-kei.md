@@ -9,24 +9,26 @@ tags:
 - Shibuya-kei
 - 90s
 - 00s
-title: 【コラム】 渋谷系サウンドの発祥から現在まで — 名盤・機材・おすすめ10選
-title_en: '[Column] Shibuya-kei sound from its origins to the present — 10 masterpieces,
+title: '[Column] Shibuya-kei sound from its origins to the present — 10 masterpieces,
   equipment, and recommendations'
 ---
 
 
+
 ## From the origins of Shibuya-kei sound to the present
+
 
 Text: mmr｜Theme: Historical background of Shibuya-kei sound, famous records, and changes in equipment
 
-Shibuya-kei sound is a Japanese music movement that spread around record shops and clubs in Shibuya, Tokyo in the early 1990s.It is characterized by a hybrid musicality that reinterprets Western music sensibilities in a Japanese style and incorporates various elements such as pop, jazz, bossa nova, soul, French pop, and electronica.
+
+Shibuya-kei sound is a Japanese music movement that spread around record shops and clubs in Shibuya, Tokyo in the early 1990s. It is characterized by a hybrid musicality that reinterprets Western music sensibilities in a Japanese style and incorporates various elements such as pop, jazz, bossa nova, soul, French pop, and electronica.
 
 ---
 
 ## 1980s — Eve (Shibuya style germination)
 ### Historical background
 - In the 1980s, Japanese city pop and new wave began to receive acclaim both domestically and internationally.
-- Imported record stores such as ``CISCO'' and ``HMV Shibuya'' brought together the latest sounds from Europe and the United States, and cultivated the musical skills of young people.
+- Imported record stores such as ""CISCO" and ""HMV Shibuya" brought together the latest sounds from Europe and the United States, and cultivated the musical skills of young people.
 
 ### Representative masterpiece
 - [Eiichi Otaki — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)
@@ -53,6 +55,7 @@ color: #fff;
 }
 </style>
 
+
 | Song title | Artist | Comments |
 |------|--------------|----------|
 | You are natural color | Eiichi Otaki | City pop monument |
@@ -76,7 +79,7 @@ color: #fff;
 
 ### Representative masterpiece
 - [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
-- [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)
+- [Flipper"s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)
 - [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)
 
 ### Equipment used
@@ -90,8 +93,8 @@ color: #fff;
 |------|--------------|----------|
 | Sweet Soul Revue | Pizzicato Five | A gorgeous number representing Shibuya Kei |
 | Baby Love Child | Pizzicato Five | Famous songs that are popular overseas |
-| Camera Talk | Flipper’s Guitar | Fusion of pop and indie |
-| Young, Alive, in Love | Flipper’s Guitar | Youthful and Western music-oriented |
+| Camera Talk | Flipper"s Guitar | Fusion of pop and indie |
+| Young, Alive, in Love | Flipper"s Guitar | Youthful and Western music-oriented |
 | Perfect Ray | Cornelius | Experimentality and pop feel |
 | If You're Here | Cornelius | Futuristic sound image |
 | Strong feelings, strong love | Kenji Ozawa | The perfect form of Shibuya-kei pop |
@@ -199,5 +202,4 @@ color: #fff;
 
 ## Global cultural icon
 
-Shibuya-kei sound was born in the 1990s and became a global cultural icon, and has continued to influence the Japanese music scene in various forms ever since.Currently, it is being reevaluated through the internet generation, and is entering a new phase as it intersects with city pop and K-POP.
-
+Shibuya-kei sound was born in the 1990s and became a global cultural icon, and has continued to influence the Japanese music scene in various forms ever since. Currently, it is being reevaluated through the internet generation, and is entering a new phase as it intersects with city pop and K-POP.

@@ -9,22 +9,24 @@ tags:
 - Experimental
 - Avant-garde
 - Noise
-title: 【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで
-title_en: '[Column] History and masterpieces of Experimental Music: From its origins
+title: '[Column] History and masterpieces of Experimental Music: From its origins
   to the present'
 ---
 
 
+
 ## History and masterpieces of Experimental Music
+
 
 Text: mmr｜Theme: Changes in experimental music from the avant-garde to the post-digital era
 
-"Experimental music" was born as an attempt to deviate from traditional harmonies and forms and explore the possibilities of sound itself.It began with the avant-garde movement of the early 20th century, which transcended the framework of classical music, and continues to expand to include electronic acoustics, industrial, noise, and modern digital music.Here, we will organize the historical background, famous records, and changes in equipment by decade, and trace the trajectory of experimental music.
+
+"Experimental music" was born as an attempt to deviate from traditional harmonies and forms and explore the possibilities of sound itself. It began with the avant-garde movement of the early 20th century, which transcended the framework of classical music, and continues to expand to include electronic acoustics, industrial, noise, and modern digital music. Here, we will organize the historical background, famous records, and changes in equipment by decade, and trace the trajectory of experimental music.
 
 ---
 
 ## 1940s-1950s: The birth of experimental music
-- **Background:** Post-war Europe and America seek to reconstruct music.``Music of Chance'' by John Cage and musique concrète by Schaeffer appear.
+- **Background:** Post-war Europe and America seek to reconstruct music. ""Music of Chance'' by John Cage and musique concrète by Schaeffer appear.
 - **Equipment:** Tape recorder, prepared piano, early oscillator.
 
 ### Masterpiece
@@ -35,6 +37,7 @@ Text: mmr｜Theme: Changes in experimental music from the avant-garde to the pos
 ---
 
 ## Recommended 10 selections
+
 
 <style type="text/css">
 
@@ -52,7 +55,7 @@ color: #fff;
 | Artist | Track | Year |
 |--------------|----------|----|
 | Pierre Schaeffer | Étude aux chemins de fer | 1948 |
-| John Cage | 4’33’’ | 1952 |
+| John Cage | 4"33"" | 1952 |
 | John Cage | Williams Mix | 1952 |
 | Pierre Henry | Symphonie pour un homme seul | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
@@ -65,7 +68,7 @@ color: #fff;
 ---
 
 ## 1960s: The flowering of the avant-garde and electronic music
-- **Background:** Resonates with minimalism, avant-garde art movements, and psychedelic culture.The birth of the modular synth.
+- **Background:** Resonates with minimalism, avant-garde art movements, and psychedelic culture. The birth of the modular synth.
 - **Equipment:** Moog Modular, Buchla, EMS VCS3, tape loop.
 
 ### Masterpiece
@@ -93,7 +96,7 @@ color: #fff;
 ---
 
 ## 1970s: Noise, the emergence of industrial
-- **Background:** Incorporating "noise" into music while intersecting with punk and avant-garde art.The birth of industrial culture.
+- **Background:** Incorporating "noise" into music while intersecting with punk and avant-garde art. The birth of industrial culture.
 - **Equipment:** EMS Synthi A, ARP 2600, Roland System 100, homemade noise generator.
 
 ### Masterpiece
@@ -120,8 +123,9 @@ color: #fff;
 
 ---
 
+
 ## 1980s: DIY spirit and cassette culture
-- **Background:** With the spread of cassette MTR, the underground experimental music scene expanded.In Japan, a "noise" scene has been established.
+- **Background:** With the spread of cassette MTR, the underground experimental music scene expanded. In Japan, a "noise" scene has been established.
 - **Equipment:** Tascam Portastudio, Roland TR-808, Yamaha DX7, shortwave radio.
 
 ### Masterpiece
@@ -148,8 +152,9 @@ color: #fff;
 
 ---
 
+
 ## 1990s: Digital Experiments and Glitches
-- **Background:** With the spread of PCs and samplers, acoustic deconstruction and reconstruction progressed.Also connects to IDM and ambient music.
+- **Background:** With the spread of PCs and samplers, acoustic deconstruction and reconstruction progressed. Also connects to IDM and ambient music.
 - **Equipment:** Akai S3000, Max/MSP, Cubase, Pro Tools.
 
 ### Masterpiece
@@ -176,8 +181,9 @@ color: #fff;
 
 ---
 
+
 ## 2000s: Laptops and globalization
-- **Background:** Noise, electronica, and field recording spread internationally.``Laptop performance'' at live performances has become commonplace.
+- **Background:** Noise, electronica, and field recordings spread internationally. ""Laptop performance'' at live performances has become commonplace.
 - **Equipment:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Masterpiece
@@ -204,8 +210,9 @@ color: #fff;
 
 ---
 
+
 ## 2010s: Multimedia and Installation
-- **Background:** Fused with sound art and installation.ASMR, drones, and ambient music are being reevaluated.
+- **Background:** Fused with sound art and installation. ASMR, drones, and ambient music are being reevaluated.
 - **Equipment:** Eurorack module, Max for Live, Pure Data, DIY instruments.
 
 ### Masterpiece
@@ -233,7 +240,7 @@ color: #fff;
 ---
 
 ## 2020s: AI and post-digital era
-- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are underway.Noise and experimental music once again intersect with the club scene.
+- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are underway. Noise and experimental music once again intersect with the club scene.
 - **Equipment:** AI generation tools (RAVE, Magenta Studio), Eurorack, modular synth + machine learning algorithm.
 
 ### Masterpiece
@@ -260,10 +267,9 @@ color: #fff;
 ---
 
 ## The future of experimental music
-Experimental music has always continued to expand the boundaries of music.Starting from prepared piano and tape experiments in the 1940s, to noise and industrial in the 70s, to digital glitch in the 90s, to AI-generated music in the 2020s, it's constantly changing.
+Experimental music has always continued to expand the boundaries of music. Starting from prepared piano and tape experiments in the 1940s, to noise and industrial in the 70s, to digital glitch in the 90s, to AI-generated music in the 2020s, it's constantly changing.
 
-The essence of experimental music is unpredictability and a spirit of exploration.Even outside of commercial music, its influence pervades rock, club music, contemporary music, and pop, making it a force to be reckoned with.
+The essence of experimental music is unpredictability and a spirit of exploration. Even outside of commercial music, its influence pervades rock, club music, contemporary music, and pop, making it a force to be reckoned with.
 
 In the future, even the concept of "music" may change due to the fusion of AI, brain wave interfaces, and VR/AR.
-**Experimental music is a mirror that predicts the future, and will continue to present "new horizons of sound" to both listeners and creators.**
-
+**Experimental music is a mirror that predicts the future, and will continue to present "new horizons of sound" to both listeners and creators. **

@@ -7,12 +7,11 @@ lang: en
 layout: post
 tags:
 - Euro
-title: ユーロ・ミュージック作品をピックアップ
-title_en: Pick up euro music works
+title: Pick up euro music works
 ---
 
 
-``A remarkable group of Euro music pieces filled with sophisticated melodies and a sense of dynamism that excites the dance floor.''
+""A remarkable group of Euro music pieces filled with sophisticated melodies and a sense of dynamism that excites the dance floor.''
 
 <hr>
 
@@ -36,13 +35,16 @@ A4. Cotton Eye Joe (Armand's Instrumental)
 McCoy Side
 B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Masterboy – Different Dreams
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
@@ -51,11 +53,11 @@ Format: CD
 
 Genre: '90s Euro / Euro Beat
 
-Included songs: "Feel the Heat of the Night", "I Got to Give It Up", etc.German Eurodance masterpiece released in 1994
+Included songs: "Feel the Heat of the Night", "I Got to Give It Up", etc. German Eurodance masterpiece released in 1994
 
 #### Tracklist
 ```md
-1.Waterfall (Intro)
+1. Waterfall (Intro)
 2. Different Dreams
 3. I Got To Give It Up
 4. Everybody Needs Somebody
@@ -69,13 +71,16 @@ Included songs: "Feel the Heat of the Night", "I Got to Give It Up", etc.German 
 12. Feel The Heat Of The Night (Shark Mix)
 Bonus Track For Japan
 13. Generation Of Love
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### VA – Maharaja Top 20 Vol. III
 <a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.webp"></a>
@@ -108,12 +113,14 @@ Contains representative songs from the 90s scene in compilation format
 18. A Beat Power Featuring Edo, Dave &amp; Domino – Wanted
 19. Sandy Bee – Ready For My Loving
 20. King &amp; Queen – He - Hey Dancin'
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Various – Overnight Remixes II
@@ -123,7 +130,7 @@ Format: Vinyl
 
 Genre: 80s-90s Euro House
 
-Euro house, techno, new beat, garage house compilation from the late 80's to the 90's
+Euro house, techno, new beat, garage house compilation from the late 80"s to the 90"s
 
 #### Tracklist
 ```md
@@ -138,13 +145,16 @@ B2. Bizz Nizz – Don't Miss The Party Line
 B3. Noel – Silent Morning
 B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### MDC‑X‑Static – You And Me
 <a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
@@ -153,7 +163,7 @@ Format: Vinyl
 
 Genre: 90s Euro / Euro House
 
-12″ EP with mix of 1990s club hit “In Ecstasy”
+12″ EP with mix of 1990s club hit "In Ecstasy"
 
 #### Tracklist
 ```md
@@ -161,12 +171,14 @@ A. You And Me (In Ecstasy) (Extended Ecstasy Mix)
 
 B1. You And Me (In Ecstasy) (Get Wet Adventure Mix)
 B2. You And Me (In Ecstasy) (Save The Whales Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Ziggy – No Police (Aztec Remix)
@@ -176,19 +188,21 @@ Format: Vinyl
 
 Genre: 90s Euro / Euro House
 
-12″ EP with mix of 1990s club hit “In Ecstasy”
+12″ EP with mix of 1990s club hit "In Ecstasy"
 
 #### Tracklist
 ```md
 A. No Police = No Llamen A La Policia (Aztec Remix)
 
 B. No Police = No Llamen A La Policia (Original Version)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Dr. Baker – Kaos
@@ -198,7 +212,7 @@ Format: Vinyl
 
 Genre: 90s Euro / Euro House
 
-12″ EP with mix of 1990s club hit “In Ecstasy”
+12″ EP with mix of 1990s club hit "In Ecstasy"
 
 #### Tracklist
 ```md
@@ -207,12 +221,14 @@ A2. Kaos (Radio Mix)
 
 B1. Kaos (2 Danes On Acid Mix)
 B2. Kaos (Original German Sausage Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Channel X – So High
@@ -229,13 +245,16 @@ Belgian-produced Euro truck, published in October 2023
 A. So High (Club Mix)
 
 B. So High (Single Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### East 17 – Around The World
 <a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
@@ -253,12 +272,14 @@ A #2. Around The World (Overworld Dub)
 
 B #1. Around The World (N.E.W.S. Mix)
 B #2. Around The World (Global House Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Tam Arrow – One Shot Girl
@@ -279,13 +300,16 @@ A2. Tam Arrow–One Shot Girl (Extended Version)
 B1. Beat Man–Future Boy (Extended Version)
 
 B2. P. Stone–Kosmic Woofer (Extended Version)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Dao Dezi – La Jument De Mishao
 <a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
@@ -301,13 +325,16 @@ Released in Italy in 1994 by Deep Forest members ◆
 A. La Jument De Mishao (Extended Mix)
 
 B. La Jument De Mishao (Club Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### E‑Rotic – Sexual Madness
 <a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
@@ -326,19 +353,22 @@ The hit song "Turn Me On" was included on the album released in 1997.
 4. Give Me Delight
 5. Don't Say We're Through
 6. All I Desire
-7.I Want You
+7. I Want You
 8. Gotta Get It Groovin'
 9. Shenandoah
 10. Send Me A Message Of Love
 11. Is It You
 12. When I Cry For You
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### E‑Rotic – Willy Use A Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
@@ -353,12 +383,14 @@ Genre: 90s Euro / Euro Beat / Hi‑ERG House
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### List
@@ -418,7 +450,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 </tr>
 <tr>
 <td>Tam Arrow</td>
-<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
+<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
 <td>Made in Italy 2001 Euro Beat EP</td>
 </tr>
@@ -426,13 +458,13 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Dao Dezi</td>
 <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
 <td>12″</td>
-<td>’94 deep Euro house release</td>
+<td>"94 deep Euro house release</td>
 </tr>
 <tr>
 <td>E-Rotic</td>
 <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
 <td>CD</td>
-<td>1997 hit “Turn Me On” included</td>
+<td>1997 hit "Turn Me On" included</td>
 </tr>
 <tr>
 <td>E-Rotic</td>
@@ -443,4 +475,3 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 </tbody>
 </table>
 </div>
-

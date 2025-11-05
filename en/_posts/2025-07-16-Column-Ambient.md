@@ -10,32 +10,32 @@ tags:
 - 90s
 - 80s
 - 70s
-title: 【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学
-title_en: '[Column] What is ambient music? Philosophy of “sounds that exist” rather
-  than sounds that are heard'
+title: '[Column] What is ambient music? Philosophy of "sounds that exist" rather than
+  sounds that are heard'
 ---
 
 
-## From “music to listen to” to “music to feel”
+## From "music to listen to" to "music to feel"
 
 Text: mmr｜Theme: Ambient, environmental music, electronic music culture theory
 
-Ambient is a genre of music that is not intended to be "actively listened to" by listeners, but rather to "exist in a space."He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
+Ambient is a genre of music that is not intended to be "actively listened to" by listeners, but rather to "exist in a space." He eliminates clear melodies and rhythms and instead uses sustained sounds (drones), environmental sounds (field recordings), and acoustic processing to construct auditory landscapes.
 
 This genre is extremely philosophical music that stands on the border between music and art, sound and space, perception and consciousness.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 ### From the words of Brian Eno
 
-It was British musician Brian Eno who defined the term ambient as a musical genre.In 1978, he wrote the following in his masterpiece [Ambient 1: Music for Airports] (https://amzn.to/48shEpU):
+It was British musician Brian Eno who defined the term ambient as a musical genre. In 1978, he wrote the following in his masterpiece [Ambient 1: Music for Airports] (https://amzn.to/48shEpU):
 
-“Ambient music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting.”
-``Ambient music must not force itself to be heard, but at the same time allow itself to be ignored.''
+"Ambient music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting."
+""Ambient music must not force itself to be heard, but at the same time allow itself to be ignored.''
 
-In other words, ambient music is not background music, but it functions like background music.**It is “spatial art” that flows in the background of consciousness**.
+In other words, ambient music is not background music, but it functions like background music. **It is "spatial art" that flows in the background of consciousness**.
+
 
 <hr>
 
@@ -43,15 +43,15 @@ In other words, ambient music is not background music, but it functions like bac
 
 **● Prehistory: The germ of environmental music**
 
-[**Eric Satie**](https://amzn.to/3Iqa4li): Composer of the end of the 19th century.Presenting the concept of "Musique d'ameublement" (furniture music), music that functions like furniture.
+[**Eric Satie**](https://amzn.to/3Iqa4li): Composer of the end of the 19th century. Presenting the concept of "Musique d'ameublement" (furniture music), music that functions like furniture.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 [**John Cage**](https://amzn.to/3Vrlzf8): Proposes the avant-garde idea that "the environment itself is music" with silent music "4'33".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -83,6 +83,7 @@ Expanding into video works, contemporary art, yoga, meditation, game music, and 
 
 Spotify's "chill" and "lo-fi" playlists are also affected.
 
+
 <hr>
 
 ### Architecture of sound without contours
@@ -98,32 +99,33 @@ Spotify's "chill" and "lo-fi" playlists are also affected.
 <tbody>
 <tr>
 <td>Melody</td>
-<td>Minimal.Often has a drone-like, floating feel.</td>
+<td>Minimal. Often has a drone-like, floating feel. </td>
 </tr>
 <tr>
 <td>Rhythm</td>
-<td>Basically absent.Even if it is, it is minimal and hard to notice.</td>
+<td>Basically absent. Even if it is, it is minimal and hard to notice. </td>
 </tr>
 <tr>
 <td>Acoustic processing</td>
-<td>Reverb, delay, loop, filter, etc.Spatialization of sound.</td>
+<td>Reverb, delay, loop, filter, etc. Spatialization of sound. </td>
 </tr>
 <tr>
 <td>Structure</td>
-<td>There is no clear beginning, development, development, conclusion, and the timeline is ambiguous.</td>
+<td>There is no clear beginning, development, development, conclusion, and the timeline is ambiguous. </td>
 </tr>
 <tr>
 <td>Sound source</td>
-<td>Synths, field recordings, instrument sampling, noise, etc.</td>
+<td>Synths, field recordings, instrument sampling, noise, etc. </td>
 </tr>
 <tr>
 <td>Listening attitude</td>
-<td>Both active concentration and passive absorption are allowed.</td>
+<td>Both active concentration and passive absorption are allowed. </td>
 </tr>
 </tbody>
 </table>
 </div>
 <br>
+
 
 <hr>
 
@@ -133,7 +135,7 @@ Spotify's "chill" and "lo-fi" playlists are also affected.
 
 A disturbing drone, industrial texture.
 
-Artist: [Lustmord](https://amzn.to/3IAUS4H), [Raison d’être](https://amzn.to/4nJFtOu)
+Artist: [Lustmord](https://amzn.to/3IAUS4H), [Raison d"être](https://amzn.to/4nJFtOu)
 
 **● Ambient Techno**
 
@@ -165,7 +167,7 @@ Ambient music for relaxation and meditation.
 
 ### Ambient is spatial art
 
-Ambient music is not just background music, it is also deeply connected to the following ideas and artistic concepts.
+Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -185,6 +187,7 @@ Using field recordings and natural sounds, he aims to fuse man-made and natural.
 
 Strongly connected to modern mental health/meditation/slow tech.
 
+
 <hr>
 
 ### The role of ambient in modern times
@@ -195,13 +198,14 @@ Strongly connected to modern mental health/meditation/slow tech.
 
 Fusion with NFT art and generative music is also underway.
 
+
 <hr>
 
-### Ambient is the intersection of “music” and “space”
+### Ambient is the intersection of "music" and "space"
 
-Ambient is music that is not at the center of the music, but at the periphery.It is an art that deals not with melody or rhythm, but with the transformation of atmosphere, time, sensation, and consciousness.
+Ambient is music that is not at the center of the music, but at the periphery. It is an art that deals not with melody or rhythm, but with the transformation of atmosphere, time, sensation, and consciousness.
 
-It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories.Rather than hearing it with your ears, it's a sound that you can feel in a space.
+It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in the space.
 
 <hr>
 
@@ -239,7 +243,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <tr>
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
 <td>1997</td>
-<td>12”</td>
+<td>12"</td>
 <td>Experimental trip hop/ambient</td>
 </tr>
 <tr>
@@ -270,9 +274,9 @@ It is a sound that transcends the framework of music and enters the silence amid
 </table>
 </div>
 
+
 ---
 
 ### Related columns
 
 🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
-

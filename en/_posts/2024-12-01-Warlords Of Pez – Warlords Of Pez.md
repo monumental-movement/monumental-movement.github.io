@@ -9,13 +9,13 @@ tags:
 - Rock
 - 00s
 title: Warlords Of Pez – Warlords Of Pez
-title_en: Warlords Of Pez – Warlords Of Pez
 ---
 
 
-Warlords Of Pez is an Irish rock band that seems to have come from a galaxy far, far away.Members include Chris Judge, a former member of the Irish indie pop band The Chalets.
+Warlords Of Pez is an Irish rock band that seems to have come from a galaxy far, far away. Members include Chris Judge, a former member of the Irish indie pop band The Chalets.
 
 A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A Thief.
+
 
 #### Tracklist
 ```md
@@ -29,19 +29,18 @@ A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A 
 8. Why, Mommy Why?
 9. Polka Seizure Sausage Relapse
 10. Total Sex
-11.O Dracula
-12.Snowman Made Of Shit
+11. O Dracula
+12. Snowman Made Of Shit
 13. Barney Schwarzenegger
 14. Ham & Cheese Music Manifesto
 15. 3 Week Homosexual Architect's Instructional Video Needlework Course To Success
 16. Old Women With Broadband
 17.1. World Control
 17.2. (silence)
-17.3.Untitled
-````
+17.3. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

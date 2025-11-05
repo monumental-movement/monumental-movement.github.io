@@ -10,7 +10,6 @@ tags:
 - Remix
 - 7inch
 title: Robert Plant – Little By Little (Remix)
-title_en: Robert Plant – Little By Little (Remix)
 ---
 
 
@@ -31,10 +30,9 @@ B. Robert Plant–Doo Doo A Do Do
 C. Robert Plant–Easily Lead
 
 D. Robert Plant And The Honeydrippers–Rockin' At Midnight
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78201761711?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EaL_3bdbbeQ?si=A2EoymHdOoSVdDSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EaL_3bdbbeQ?si=A2EoymHdOoSVdDSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

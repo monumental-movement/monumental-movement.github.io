@@ -8,7 +8,6 @@ layout: post
 tags:
 - Techno
 title: Technasia – Force
-title_en: Technasia – Force
 ---
 
 
@@ -27,9 +26,8 @@ A2. Force (Reprise)
 B1. Resilience
 
 B2. Force (Voxless)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
 https://jp.mercari.com/item/m82234983144?afid=6142608987
-

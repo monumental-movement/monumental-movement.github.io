@@ -11,11 +11,10 @@ tags:
 - Deep House
 - Techno
 title: Kenny Larkin – The Narcissist
-title_en: Kenny Larkin – The Narcissist
 ---
 
 
-Kenny Larkin is a techno house producer and DJ from Detroit.He began his career under the influence of Juan Atkins and Derrick May, and has released on numerous labels including Richie Hawtin and John Acquaviva's labels Plus 8, Buzz, and Warp.
+Kenny Larkin is a techno house producer and DJ from Detroit. He began his career under the influence of Juan Atkins and Derrick May, and has released on numerous labels including Richie Hawtin and John Acquaviva's labels Plus 8, Buzz, and Warp.
 
 "The Narcissist" is a house techno downtempo album released in 2004 by the British independent label Peacefrog Records.
 
@@ -32,10 +31,9 @@ Kenny Larkin is a techno house producer and DJ from Detroit.He began his career 
 9. Breathe
 10. Nitefall
 11. In The Meantime
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+#### Youtbue
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,8 +8,7 @@ layout: post
 tags:
 - Noise
 - Industrial
-title: 【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷
-title_en: '[Column] Noise Music — From its origins to the present: Historical background,
+title: '[Column] Noise Music — From its origins to the present: Historical background,
   famous records, and changes in equipment'
 ---
 
@@ -18,25 +17,25 @@ title_en: '[Column] Noise Music — From its origins to the present: Historical 
 
 Text: mmr | Theme: Rebellion and destruction - a challenge to existing music and social order.
 
-"Noise" is not simply "noise," but refers to a field of expression that deviates from established musical idioms (melody, harmony, rhythm) and emphasizes the sound itself, texture, physical impact, and auditory stimulation.Born from a combination of artistic, technological, and social backgrounds, it has continued to change shape for over 100 years.
+"Noise" is not simply "noise," but refers to a field of expression that deviates from established musical idioms (melody, harmony, rhythm) and emphasizes the sound itself, texture, physical impact, and auditory stimulation. Born from a combination of artistic, technological, and social backgrounds, it has continued to change shape for over 100 years.
 
 ---
 
-## 1) Pioneer (1910s–1940s): Futurism and tape experiments — conceptualization of “noise”
+## 1) Pioneer (1910s–1940s): Futurism and tape experiments — conceptualization of "noise"
 ### Historical background
-A time when industrialization and urbanization made the noise of the city crowds and machinery commonplace.The ``aesthetic sense'' of sound expanded, and sounds other than traditional musical instruments began to be incorporated into art.
+A time when industrialization and urbanization made the noise of the city crowds and machinery commonplace. The ""aesthetic sense'' of sound expanded, and sounds other than traditional musical instruments began to be incorporated into art.
 
 ### Important events/people
-- In 1913, Italian avant-garde artist Luigi Russolo published ``The Art of Noises''.
+- In 1913, Italian avant-garde artist Luigi Russolo published ""The Art of Noises''.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### Representative works
 - Live recording of Russolo's "Noise Machine".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -58,7 +57,7 @@ After World War II, the development of magnetic tape and electroacoustic equipme
 ### Equipment/Technology
 - Tape editing (reverse rotation, looping, cutting/splicing).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -67,7 +66,7 @@ After World War II, the development of magnetic tape and electroacoustic equipme
 Rock becomes more experimental and noise is incorporated into the rock context.
 
 ### Representative works
-- [Lou Reed “Metal Machine Music” (1975)](https://amzn.to/3WNSdYQ)
+- [Lou Reed "Metal Machine Music" (1975)](https://amzn.to/3WNSdYQ)
 
 ### Equipment/Technology
 - Guitar feedback, effectors, and simple recorders.
@@ -97,7 +96,7 @@ Cassette culture and the DIY spirit formed an international noise network.
 - [Whitehouse (UK)](https://amzn.to/4hnbz0z), [Merzbow (Japan)](https://amzn.to/3L64TI1)
 
 ### Representative works
-- Merzbow's "Pulse Demon" related works, Whitehouse's early edition.
+- Merzbow"s "Pulse Demon" related works, Whitehouse"s early edition.
 
 ### Equipment/Technology
 - Destructive amplifiers, radio noise, distortion pedals, and cassette recordings.
@@ -126,7 +125,7 @@ Diversification through modular synth revival and laptop acoustics.
 ### Equipment/Technology
 - Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -154,5 +153,4 @@ Diversification through modular synth revival and laptop acoustics.
 ---
 
 ## At the end
-Noise music is always a challenge to existing aesthetics and an attempt to expand the boundaries of music.From Russolo's mechanical sounds to modular synths, even after more than 100 years of history, the essence of all instruments is to "listen to the sound itself."
-
+Noise music is always a challenge to existing aesthetics and an attempt to expand the boundaries of music. From Russolo's mechanical sounds to modular synths, even after more than 100 years of history, the essence of all instruments is to "listen to the sound itself."

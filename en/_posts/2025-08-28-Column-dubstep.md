@@ -9,13 +9,13 @@ tags:
 - Dubstep
 - 90s
 - 00s
-title: 【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ
-title_en: '[Column] The trajectory of Dubstep - an urban soundscape created by heavy
+title: '[Column] The trajectory of Dubstep - an urban soundscape created by heavy
   bass'
 ---
 
 
 ## Go beyond the sense of hearing to shake the body and space and connect listeners with each other
+
 
 Text: mmr｜Theme: The birth and cultural influence of dubstep
 
@@ -23,7 +23,7 @@ Text: mmr｜Theme: The birth and cultural influence of dubstep
 
 ### The birth of dubstep - from the basements of South London
 
-Dubstep was born in the underground scene of south London in the late 1990s and early 2000s.It is characterized by an aesthetic that can be described as ``bass supremacy'' while drawing on the trends of UK garage, 2-step, jungle, and drum'n'bass.
+Dubstep was born in the underground scene of south London in the late 1990s and early 2000s. It is characterized by an aesthetic that can be described as ""bass supremacy"' while drawing on the trends of UK garage, 2-step, jungle, and drum"n'bass.
 
 London at the time was a melting pot of immigrant cultures, with deep roots in reggae, dub, and Jamaican sound system culture.
 
@@ -33,17 +33,17 @@ Dubstep, which was born from this soil, has undergone a unique evolution centere
 
 ### Sound characteristics
 
-Dubstep is supported by the physical pressure of bass sounds, so much so that it is said to be ``music that you listen to with your body.''
+Dubstep is supported by the physical pressure of bass sounds, so much so that it is said to be ""music that you listen to with your body.''
 
 - **Tempo**: BPM approximately 138-142.
 
-- **リズム**：2ステップ由来のブロークンなビート構造。The kick is not a four-beat beat, but the snare is emphasized on the third beat.
+- **Rhythm**: Broken beat structure derived from 2-step. The kick is not a four-beat beat, but the snare is emphasized on the third beat.
 
 - **Bass**: Characterized by deep sub-bass, distorted bass line, and so-called "Wobble Bass".
 
 - **Mood**: Dark, minimal or experimental sound design.
 
-Representative early artists include Skream, Benga, Digital Mystikz (Mala & Coki), and Loefah.Their activities revolved around the legendary London club Plastic People.
+Representative early artists include Skream, Benga, Digital Mystikz (Mala & Coki), and Loefah. Their activities revolved around the legendary London club Plastic People.
 
 <hr>
 
@@ -61,11 +61,12 @@ Representative early artists include Skream, Benga, Digital Mystikz (Mala & Coki
 
 From around 2008, dubstep spread beyond the UK underground and spread around the world.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- **Break in America**: A more aggressive and flashy ``Brostep'' has appeared, led by Skrillex.
+- **Break in America**: A more aggressive and flashy ""Brostep'' has appeared, led by Skrillex.
+
 
 - **Remix culture**: Dubstep elements were brought into pop, rock, and hip-hop, gaining a wide range of listeners.
 
@@ -75,7 +76,7 @@ From around 2008, dubstep spread beyond the UK underground and spread around the
 
 ### Dubstep in Japan
 
-It gradually became popular in Japan in the late 2000s, and Goth-Trad attracted worldwide attention.His sound has undergone a unique evolution, incorporating the context of noise/experimental music while also linking to the London scene.
+It gradually became popular in Japan in the late 2000s, and Goth-Trad attracted worldwide attention. His sound has undergone a unique evolution, incorporating the context of noise/experimental music while also linking to the London scene.
 A uniquely Japanese dubstep culture was formed through events held at clubs in Shibuya and releases from domestic labels.
 
 <hr>
@@ -114,5 +115,4 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 More than just a genre, dubstep has become an iconic soundscape of 21st century urban culture.
 
-The bass vibrations experienced through a club's sound system go beyond the sense of hearing, shaking the body and space, and connecting listeners with each other.Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.
-
+The bass vibrations experienced through a club's sound system go beyond the sense of hearing, shaking the body and space, and connecting listeners with each other. Dubstep continues to evolve and will continue to be an exciting musical exploration ground for new generations.

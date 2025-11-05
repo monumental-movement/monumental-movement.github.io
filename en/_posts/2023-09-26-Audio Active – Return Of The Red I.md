@@ -9,17 +9,16 @@ tags:
 - Reggae
 - Dub
 title: Audio Active – Return Of The Red I
-title_en: Audio Active – Return Of The Red I
 ---
 
 
-"Audio Active – Return Of The Red I" is an album by the Japanese music group Audio Active.This album was released in 1999.
+"Audio Active – Return Of The Red I" is an album by the Japanese music group Audio Active. This album was released in 1999.
 
-"Return Of The Red I" is a work by Audio Active, whose music incorporates elements of dub, reggae, and electronic music.Their music takes an experimental and radical approach, pursuing a unique sound.
+"Return Of The Red I" is a work by Audio Active, whose music incorporates elements of dub, reggae, and electronic music. Their music takes an experimental and radical approach, pursuing a unique sound.
 
-"Free The Marijuana" - A reggae track with a relaxed atmosphere and psychedelic sounds.It invites the listener into a calm mood.
+"Free The Marijuana" - A reggae track with a relaxed atmosphere and psychedelic sounds. It invites the listener into a calm mood.
 
-"Jah Army" - A song that combines dub and electronic music, with a heavy bass and rhythmic beat.It also features lyrics with a strong message.
+"Jah Army" - A song that combines dub and electronic music, with a heavy bass and rhythmic beat. It also features lyrics with a strong message.
 
 #### Tracklist
 ```md
@@ -29,7 +28,7 @@ title_en: Audio Active – Return Of The Red I
 
 3.Psycho Buds
 
-4.Stone Troopers
+4.Stoned Troopers
 
 5.Idle Dragon
 
@@ -37,9 +36,9 @@ title_en: Audio Active – Return Of The Red I
 
 7.Gaar
 
-8.Visitors?!
+8.Visitors ?!
 
-9.Emergency HosPITal
+9.Emergency HosPOTal
 
 10.THC-O
 
@@ -47,11 +46,10 @@ title_en: Audio Active – Return Of The Red I
 
 11.2. (silence)
 
-11.3.Untitled
-````
+11.3. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9i5YtgsvHE0?si=TEF29L0Km600uZqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9i5YtgsvHE0?si=TEF29L0Km600uZqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
