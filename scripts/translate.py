@@ -39,12 +39,14 @@ def translate_text(text):
 
 
 def split_front_matter(content):
-    """YAML front matter を分離"""
+    """YAML front matter を分離して安全に返す"""
     if content.startswith("---"):
-        try:
-            _, fm, body = content.split('---', 2)
+        parts = content.split('---', 2)
+        if len(parts) >= 3:
+            fm, body = parts[1], parts[2]
             return fm, body
-        except ValueError:
+        else:
+            # 不完全な場合でも空のfront matterを返す
             return "", content
     return "", content
 
@@ -74,7 +76,7 @@ for filename in os.listdir(SRC_DIR):
     if os.path.exists(dest_path):
         with open(dest_path, "r", encoding="utf-8") as f:
             dest_content = f.read()
-        _, _, old_body = split_front_matter(dest_content)
+        fm2, old_body = split_front_matter(dest_content)
 
     # 差分検出
     if old_body.strip():
@@ -91,7 +93,7 @@ for filename in os.listdir(SRC_DIR):
 
     front_matter["lang"] = "en"
 
-    # 本文翻訳（コードブロックスキップ）
+    # 本文翻訳（コードブロックはスキップ）
     translated_body = ""
     in_code_block = False
     for line in body.splitlines():
