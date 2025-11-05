@@ -9,7 +9,6 @@ tags:
 - Happy Hardcore
 - Trance
 title: Scooter – Call Me Mañana
-title_en: Scooter – Call Me Mañana
 ---
 
 
@@ -24,10 +23,9 @@ A. Call Me Mañana (Heavy Horses Extended)
 B1. Bramfeld
 
 B2. Call Me Mañana (Heavy Horses Radio)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

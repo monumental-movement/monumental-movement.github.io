@@ -9,7 +9,6 @@ tags:
 - House
 - 90s
 title: Rednail Kidz – Elektrik Disko
-title_en: Rednail Kidz – Elektrik Disko
 ---
 
 
@@ -22,10 +21,9 @@ Also known as Rednail Kid, there is Rednail Kidz + 1, which includes Anthony Pea
 A1. Go Deep
 
 B1. Electrik Disko
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20845429230?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1LwmVqmBWp8?si=c3Z0o8ewZDbcfAN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1LwmVqmBWp8?si=c3Z0o8ewZDbcfAN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

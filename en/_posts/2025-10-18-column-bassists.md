@@ -10,15 +10,15 @@ tags:
 - Rock
 - Citypop
 - Fusion
-title: 【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音
-title_en: '[Column] Planet of Bass: Cultural History of Bassists in the World and
-  Japan ---Sounds Under the Earth''s Surface'
+title: '[Column] Planet of Bass: Cultural History of Bassists in the World and Japan
+  ---Sounds Under the Earth''s Surface'
 ---
 
 
-## “The soul of music is in the bass.”
+## "The soul of music is in the bass."
 
-Text: mmr｜Theme: “Bass philosophy” that permeates the world and Japanese bassist culture
+
+Text: mmr｜Theme: "Bass philosophy" that permeates the world and Japanese bassist culture
 
 We are often captivated by melodies.
 However, the moment when we "feel" music is always in the bass tones resonating deep within our bodies.
@@ -40,6 +40,7 @@ color: #fff;
 }
 </style>
 
+
 ## I. Listening to music with your body, not your ears
 
 Bass is a sound that your body reacts to before you hear it.
@@ -58,9 +59,9 @@ Every time techno or hip-hop etched the urban atmosphere, bass presented a "new 
 
 Listening to Charles Mingus play
 It sounds more than just a bass line, it sounds like a statement to society.
-Anger and intelligence, improvisation and construction.There is poetry in that bass tone.
+Anger and intelligence, improvisation and construction. There is poetry in that bass tone.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -68,7 +69,7 @@ Players like Ray Brown and Ron Carter
 He brought philosophy to the "walking baseline."
 Rhythm that speaks between sounds - this is what has elevated jazz to an art form.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -91,9 +92,9 @@ After that, rock music no longer lacked the "singing spirit" of the bass.
 The advent of punk unleashed the harshness of the bass.
 Sid Vicious (Sex Pistols) rejected artifice and sounded rebellion with his very existence.
 And the sad melody played by Joy Division's Peter Hook,
-It has been proven that the bass can be the ``subject of emotion.''
+It has been proven that the bass can be the ""subject of emotion.''
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -108,7 +109,7 @@ The bass is no longer an "accompaniment", but has evolved into a "narrator".
 Mick Carn and Tony Levin treat the sound itself as if it were a sculpture,
 He pushed bass into the realm of abstract art.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -116,11 +117,11 @@ He pushed bass into the realm of abstract art.
 
 ### 1. Haruomi Hosono and translators of Japanese rhythm
 
-Before YMO, Haruomi Hosono had already changed the ``center of gravity'' of Japanese pop music.
+Before YMO, Haruomi Hosono had already changed the ""center of gravity'' of Japanese pop music.
 A low tone that follows the rhythm of the words rather than the rhythm of English.
-What he established was the aesthetic of ``grooving in Japanese.''
+What he established was the aesthetic of ""grooving in Japanese.''
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -140,27 +141,27 @@ The bassists of ROVO and Shibusa Shirazu,
 Freely moving between jazz and rock, improvisation and construction,
 It blurred the line between club culture and live music.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ``breathing stillness.''
+There is not a scream, but a ""breathing stillness.''
 
 ---
 
 ### 3. Bass philosophy after club culture
 
 In the 2000s, the bass changed its appearance once again.
-Shinichi Osawa brings “human bass” to club tracks,
+Shinichi Osawa brings "human bass" to club tracks,
 STUTS and yahyel combined typing and live music.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 Current bands like King Gnu and millennium parade,
-The bass controls the ``narrative'' of the song.
+The bass controls the ""narrative'' of the song.
 Hama Okamoto is a nexus of tradition and modernity.
 It offers "musical civility" beyond playability.
 
@@ -168,7 +169,7 @@ It offers "musical civility" beyond playability.
 
 ## IV. Underground of the world: Counterculture connected by bass sounds
 
-Joy Division's Peter Hook, PIL's Jah Wobble,
+Joy Division"s Peter Hook, PIL"s Jah Wobble,
 and Tina Weymouth from Talking Heads.
 What they showed was that the bass was a symbol of "intellectual rebellion."
 
@@ -177,12 +178,12 @@ In London, Burial and Kode9 redefined the bass as an "unconscious urban sound."
 In Berlin, Moritz von Oswald and Electric Indigo,
 He elevated the bass sound of techno to the level of "architectural art."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 The bass is no longer a musical instrument,
-It has become a “common language of culture.”
+It has become a "common language of culture."
 
 ---
 
@@ -200,7 +201,7 @@ It has been passed down as a "sound sculpture" that makes the space itself reson
 
 ---
 
-## VI. Conclusion: Bass is “society’s subconscious”
+## VI. Conclusion: Bass is "society"s subconscious"
 
 The bass is not the center of music.
 However, it continues to be the "ground" upon which all sounds stand.
@@ -244,6 +245,7 @@ title Base evolution history (1950–2025)
 2010 : Post-Jazz/Thundercat
 2020: Hybrid bass era (AI, global bass culture)
 
+
 </div>
 
 ---
@@ -256,13 +258,15 @@ flowchart LR
 %% Center: Bass
 Bass["BASS\n(bass)\n— center of gravity, groove, and harmony"]
 
+
 %%Primary roles
 Rhythm["Rhythm Foundation\n(Timekeeping)"]
 Harmony["Basics of chords\n(root/progression)"]
 Groove["Creating a groove\n(feel/nuance)"]
 Texture["Tone/Texture\n(Tone/Effect)"]
-Lead["Melody/Solo"]
+Lead["Melody/Solo\n(Turn to the front)"]
 Design["Sound design\n(synth bass/programming)"]
+
 
 %% Techniques / Instruments
 Upright["Upright / Upright\n(Walking/Jazz)"]
@@ -273,6 +277,7 @@ Synth["Synth bass\n(Bass design/sub bass) "]
 Slap["Slap/Tapping\n(Funk/Aggressive) "]
 Effects["Effects: Compressor\nOverdrive, chorus, etc."]
 
+
 %% Connections
 Bass --> Rhythm
 Bass --> Harmony
@@ -280,6 +285,7 @@ Bass --> Groove
 Bass --> Texture
 Bass --> Lead
 Bass --> Design
+
 
 Groove --> Slap
 Texture --> Effects
@@ -289,9 +295,11 @@ Harmony --> P_Bass
 Harmony --> J_Bass
 Lead --> Fretless
 
+
 %%Context labels
 Scene1["Scene: Jazz / Rock / Funk / Club / Postrock"]
 Bass --> Scene1
+
 
 style Bass fill:#222,stroke:#fff,color:#fff,stroke-width:2px
 style Rhythm fill:#fff,stroke:#333
@@ -302,6 +310,4 @@ style Lead fill:#fff,stroke:#333
 style Design fill:#fff,stroke:#333
 
 </div>
-
-
 

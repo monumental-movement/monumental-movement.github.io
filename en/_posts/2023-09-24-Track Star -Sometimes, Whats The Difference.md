@@ -10,35 +10,33 @@ tags:
 - Noise
 - 10inch
 title: Track Star -Sometimes, What's The Difference
-title_en: Track Star -Sometimes, What's The Difference
 ---
 
 
-This is a 10-inch record by Brian Girgus, Matthew Troy, and Wyatt Cusick's band Track Star, released in 1995 by San Diego's Silver Girl Records.
+This is a 10-inch record by Brian Girgus, Matthew Troy, and Wyatt Cusick"s band Track Star, released in 1995 by San Diego"s Silver Girl Records.
 
 #### Tracklist
 ```md
-A1 Bad Time
+A1  Bad Time
 
-A2 The View From Space
+A2  The View From Space
 
-A3 The Worst Of It
+A3  The Worst Of It
 
-A4 Burn Down The Bed
+A4  Burn Down The Bed
 
-B1 Narrow Escape
+B1  Narrow Escape
 
-B2 Number One
+B2  Number One
 
-B3 From Where You Are
+B3  From Where You Are
 
-B4 True Crime
+B4  True Crime
 
-B5 Sucked Down
-````
+B5  Sucked Down
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

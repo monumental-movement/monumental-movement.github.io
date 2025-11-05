@@ -11,7 +11,6 @@ tags:
 - Latin
 - 00s
 title: Bebop Dawg – Rumble In Rio
-title_en: Bebop Dawg – Rumble In Rio
 ---
 
 
@@ -26,12 +25,11 @@ This record is a future jazz/Latin track released in 2002 from the underground D
 A1. Rumble In Rio
 
 B1. Um Dia Sobre La Praia
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vrT7tRyS4Ic?si=zoHijMsjtWmsnxcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vrT7tRyS4Ic?si=zoHijMsjtWmsnxcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

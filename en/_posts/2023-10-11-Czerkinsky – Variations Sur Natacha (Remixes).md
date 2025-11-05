@@ -9,7 +9,6 @@ tags:
 - Acid Jazz
 - Remix
 title: Czerkinsky – Variations Sur Natacha (Remixes)
-title_en: Czerkinsky – Variations Sur Natacha (Remixes)
 ---
 
 
@@ -21,7 +20,7 @@ Czerkinsky is also known for writing and composing the song "DO ME DO ME" from K
 ```md
 A1. Natacha (remix: Le Monocle)
 
-A2.Natacha (Remi x: Roudoudou)
+A2. Natacha (remix: Roudoudou)
 
 A3. Natacha (remix: Avia)
 
@@ -32,10 +31,9 @@ B2. Natacha (remix: Czerkinsky)
 B3. Natacha (remix: Sporto Kantes)
 
 B4. Natacha (Version Originale)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51971815655?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Y92q8rh5kk?si=ATdRyW9emSDdnHJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Y92q8rh5kk?si=ATdRyW9emSDdnHJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,11 +10,10 @@ tags:
 - Compilation
 - 90s
 title: Various – Overnight Remixes II
-title_en: Various – Overnight Remixes II
 ---
 
 
-Euro house, techno, new beat, garage house compilation album from the late 80's to the 90's.
+Euro house, techno, new beat, garage house compilation album from the late 80"s to the 90"s.
 
 Included are hardcore techno giants 2 Unlimited, Belgian Eurodance and new beat band Bizz Nizz, and UK music unit Soft Cell, one of the leading new wave groups.
 
@@ -31,10 +30,9 @@ B2. Bizz Nizz – Don't Miss The Party Line
 B3. Noel – Silent Morning
 B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

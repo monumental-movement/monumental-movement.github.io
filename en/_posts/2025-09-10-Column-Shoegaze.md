@@ -7,17 +7,18 @@ lang: en
 layout: post
 tags:
 - Shoegaze
-title: 【コラム】 Shoegazeの発祥から現在まで — 名盤・機材・おすすめ10選
-title_en: '[Column] From the origins of Shoegaze to the present — 10 masterpieces,
-  equipment, and recommendations'
+title: '[Column] From the origins of Shoegaze to the present — 10 masterpieces, equipment,
+  and recommendations'
 ---
+
 
 
 ## Shoegaze - historical background, famous records, changes in equipment, and 10 recommended tracks -
 
+
 Text: mmr｜Theme: From the origins of Shoegaze to the present
 
-Shoegaze is a music genre that developed in the late 1980s, mainly in the United Kingdom, and is characterized by thunderous guitars, deep reverb and delay effects, and an introspective vocal style.The name comes from the word ``gaze,'' which means to gaze at one's shoes, and is said to come from the way the player plays with his head down while concentrating on operating the effects.
+Shoegaze is a music genre that developed in the late 1980s, mainly in the United Kingdom, and is characterized by thunderous guitars, deep reverb and delay effects, and an introspective vocal style. The name comes from the word ""gaze,'' which means to gaze at one's shoes, and is said to come from the way the player plays with his head down while concentrating on operating the effects.
 
 Below, we will look back at the history of Shoegaze by decade, and introduce the changes in representative masterpieces and equipment used.
 
@@ -52,6 +53,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
@@ -191,15 +193,14 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 | Catch The Breeze (Rework) | Slowdive | Symbol of the new Slowdive |
 | Kisses | Slowdive | Transparent melodic beauty |
 | Say Less | Nothing | Dark and overwhelming wall of sound |
-| Don’t Fade | Ringo Deathstarr | Refreshed Roaring Beauty |
+| Don"t Fade | Ringo Deathstarr | Refreshed Roaring Beauty |
 | Dreaming the Dark | Tamaryn | Modern Dream Gaze |
 | For the Guilty | Blankenberge | New generation from Russia |
 | Aphasia | Holy Fawn | Blackgaze Expansion |
-| Desires | DIIV | Deepening of Neo-Gaze |
+| Desires | DIIV | Deepening of Neo-Gaze ​​|
 | Shimmer | Whirr | Heavy and deep sound |
 
 ---
 
 # Swaying between a roaring sound and a beautiful melody
-Shoegaze sprouted in the late 1980s, reached its golden age in the 1990s, and although it once declined, it has been revived since the 2000s.From the 2010s to the present, its musicality has continued to be loved all over the world, even as it has diversified and subdivided.This genre, which oscillates between roaring sounds and beautiful melodies, continues to have a strong influence on today's digital generation.
-
+Shoegaze sprouted in the late 1980s, reached its golden age in the 1990s, and although it once declined, it has been revived since the 2000s. From the 2010s to the present, its musicality has continued to be loved all over the world, even as it has diversified and subdivided. This genre, which oscillates between roaring sounds and beautiful melodies, continues to have a strong influence on today's digital generation.

@@ -10,8 +10,7 @@ tags:
 - Deep House
 - Garage House
 - 90s
-title: Nicole Lamons – I Think You're Gonna Like It
-title_en: Nicole Lamons – I Think You’re Gonna Like It
+title: Nicole Lamons – I Think You"re Gonna Like It
 ---
 
 
@@ -29,10 +28,9 @@ I Like Side
 B1. I Think You're Gonna Like It (Burrell's Original Dope Mix)
 B2. I Think You're Gonna Like It (Rhano's Funky Underground Mix)
 B3. I Think You're Gonna Like It (The Fat Dub Extension Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45411604478?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4J7M5h0Te-g?si=5ylHGznX74je43Ij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4J7M5h0Te-g?si=5ylHGznX74je43Ij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,6 @@ tags:
 - JPop
 - Soul
 title: Tina – There Must Be An Angel
-title_en: Tina – There Must Be An Angel
 ---
 
 
@@ -19,14 +18,12 @@ A popular work from the 90's that covers English in a light and soulful way.
 
 #### Tracklist
 ```md
-A1 There Must Be An Angel (Original Version)
+A1  There Must Be An Angel (Original Version)
 
-B1 There Must Be An Angel (Instrumental)
+B1  There Must Be An Angel (Instrumental)
 
-B2 There Must Be An Angel (A Cappella)
-````
+B2  There Must Be An Angel (A Cappella)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
-
-
 

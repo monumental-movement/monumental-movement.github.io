@@ -10,7 +10,6 @@ tags:
 - Dub
 - Mixture
 title: Wrench – Bliss
-title_en: Wrench – Bliss
 ---
 
 
@@ -20,35 +19,46 @@ This album is a double LP set released in 2000.
 
 #### Tracklist
 ```md
-A1 Sound Wave
+A1  Sound Wave
 
-A2 Give It A Shot
 
-A3 To Water
+A2  Give It A Shot
 
-A4 Go A Way!
 
-A5 Black Box
+A3  To Water
 
-B1 Cloud - Dub
 
-B2 Sky, Liquid, Men
+A4  Go A Way !
 
-B3 Eyes On The Boiling Point
 
-B4 Send The Wave
+A5  Black Box
 
-C1 Proof Of A Human Being
 
-C2 It’s Illusion
+B1  Cloud - Dub
 
-D1 Passion
 
-D2 Blood Type Mysterious
-````
+B2  Sky, Liquid, Men
+
+
+B3  Eyes On The Boiling Point
+
+
+B4  Send The Wave
+
+
+C1  Proof Of A Human Being
+
+
+C2  It’s Illusion
+
+
+D1  Passion
+
+
+D2  Blood Type Mysterious
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

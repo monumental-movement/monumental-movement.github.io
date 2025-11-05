@@ -9,7 +9,6 @@ tags:
 - Techno
 - 90s
 title: Sound Associates – Rock The Beat Slipstream
-title_en: Sound Associates – Rock The Beat Slipstream
 ---
 
 
@@ -19,12 +18,11 @@ Sound Associates is also known as Daz Saund & Ben Tisdall and Housewerk.
 
 #### Tracklist
 ```md
-A.Rock The Beat
+A. Rock The Beat
 B. Slipstream
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35823024589?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BiLUgliSHUs?si=dn2U6MUQIdSNJ1HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BiLUgliSHUs?si=dn2U6MUQIdSNJ1HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

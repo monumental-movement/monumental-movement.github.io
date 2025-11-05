@@ -9,7 +9,6 @@ tags:
 - House
 - Deep House
 title: Anthony Flanagan – Never Enough
-title_en: Anthony Flanagan – Never Enough
 ---
 
 
@@ -26,10 +25,9 @@ A2. Never Enough (6:23 Dub)
 B1. Never Enough (Dennis F.'s Satisfied Mix)
 
 B2. Never Enough (Dennis F's Aggravated Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90769743680?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9R1sZdr-3KQ?si=cm5gk5lMVtvbqNNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9R1sZdr-3KQ?si=cm5gk5lMVtvbqNNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

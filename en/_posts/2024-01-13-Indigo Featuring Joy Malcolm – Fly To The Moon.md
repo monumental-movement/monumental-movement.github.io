@@ -9,7 +9,6 @@ tags:
 - House
 - 90s
 title: Indigo Featuring Joy Malcolm – Fly To The Moon
-title_en: Indigo Featuring Joy Malcolm – Fly To The Moon
 ---
 
 
@@ -22,10 +21,9 @@ Featuring Joy Malcolm, a UK singer who is also a member of Cool World Ensemble, 
 A. Fly To The Moon (The Mood II Swing Club Remix)
 
 B. Fly To The Moon (The Mood II Swing Sentinal Dub)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68578670923?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sDR3tV41-yk?si=GcFTvQGXrS9bX1ff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDR3tV41-yk?si=GcFTvQGXrS9bX1ff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

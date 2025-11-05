@@ -7,12 +7,11 @@ lang: en
 layout: post
 tags:
 - Cassette
-title: カセットテープ作品をピックアップ
-title_en: Pick up cassette tape works
+title: Pick up cassette tape works
 ---
 
 
-“A remarkable group of cassette tape works that vividly capture the breath of the underground and emit a unique aesthetic.”
+"A remarkable group of cassette tape works that vividly capture the breath of the underground and emit a unique aesthetic."
 
 <hr>
 
@@ -26,12 +25,14 @@ title_en: Pick up cassette tape works
 A. Tintinnabulation (Contemplative Sound)
 
 B. Dawn At New Hope Pennsylvania (June, 1969)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### The Art of Noise – In No Sense Nonsense
@@ -47,7 +48,7 @@ A3. Fin Du Temps
 A4. How Rapid?
 A5. Opus For Four
 A6. Debut
-A7.E.F.L.
+A7. E.F.L.
 A8. Ode To Don Jose
 A9. A Day At The Races
 A10. Counterpoint
@@ -55,7 +56,7 @@ A11. Roundabout 727
 A12. Ransom On The Sand
 A13. Roller 1
 A14. Nothing Was Going To Stop Them Then, Anyway
-A15.
+A15. Crusoe
 A16. One Earth
 
 B1. Galleons Of Stone
@@ -64,7 +65,7 @@ B3. Fin Du Temps
 B4. How Rapid?
 B5. Opus For Four
 B6. Debut
-B7.E.F.L.
+B7. E.F.L.
 B8. Ode To Don Jose
 B9. A Day At The Races
 B10. Counterpoint
@@ -72,15 +73,18 @@ B11. Roundabout 727
 B12. Ransom On The Sand
 B13. Roller 1
 B14. Nothing Was Going To Stop Them Then, Anyway
-B15.
+B15. Crusoe
 B16. One Earth
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
@@ -98,15 +102,18 @@ A5. Baby Driver
 B1. Love 'Em And Leave 'Em
 B2. Mr. Speed
 B3. See You In Your Dreams
-B4.Hard Luck Woman
+B4. Hard Luck Woman
 B5. Makin' Love
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
@@ -115,34 +122,37 @@ B5. Makin' Love
 
 #### Tracklist
 ```md
-A1.
+A1.  بدويست 
 
 Budweit
 
-A2.
+A2. سلامتها أم حسن 
 
 Her safety is Umm Hassan
 
-A3.
+A3. الحب كله
 
 All love
 
-B1.
+B1. أمونة في السودان
 
 Ammouna in Sudan
 
-B2.
+B2. القمر والنجوم
 
 The moon and stars
 
-B3.
+B3. يللا يا باسم
 
 Come on, Bassem
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
+
 <hr>
+
 
 ### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
@@ -151,34 +161,36 @@ Come on, Bassem
 
 #### Tracklist
 ```md
-A1. Main Title
-A2. A Tour Of Pleasures
+A1.  Main Title
+A2.  A Tour Of Pleasures
 A3. Tract House Ginch
-A4. 45 In 25
+A4.  45 In 25
 A5. Balloons
 A6. Cigars Part Two
-A7.
+A7. Por Una Cabeza
 A8. Long Gray Line
-A9.The Oakroom
+A9. The Oakroom
 A10. Park Ave.
 
 B1. Witnesses
 B2. Beyond Danger
 B3. La Violetera
-B4.Other Plans
-B5.Assembly
+B4. Other Plans
+B5. Assembly
 B6. Fleurs De Rocaille
 B7. End Title
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
-<a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><imgsrc="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
+<a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 1996 movie theme song Official tape of the movie "Mission Impossible".
 
@@ -188,26 +200,29 @@ A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
 
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Dieselboy – The Director’s Cut
+
+### Dieselboy – The Director"s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
 2023 Drum n Bass Intense mix by American drum and bass DJ
 
 #### Tracklist
 ```md
-A.Side A
+A. Side A
 
 1. ???? (Intro written by Dieselboy?)
 2. Ram Trilogy- Intercity
-3. Facs-Cazms
+3. Facs- Cazms
 4. Known:Unknown- Chaos Edit
 5. Ram Trilogy- No Reality remix
 6. Ed Rush + Optical- Lifecrisis (Origin Unknown remix)
@@ -215,12 +230,12 @@ A.Side A
 8. Dylan- Blackout
 9. Facs- Dekweef
 10. Ed Rush + Optical- Wormhole
-11. A Sides- Caliber (Ed Rush remix)
+11. A Sides- Calibre (Ed Rush remix)
 12. ????
 13. Ram Trilogy- Mind Overload
 14. Adam F- Brand New Funk
 
-B.Side B
+B. Side B
 
 1. Grooverider - Cybernetic Jazz
 2. Ed Rush + Optical- Point Blank
@@ -235,18 +250,20 @@ B.Side B
 11. Orgy- Blue Monday (Optical Dub mix)
 12. Ed Rush + Optical- Medicine (Matrix remix)
 13. Dillinja- Accurist
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Various – The Enjoy! Story
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990s?Classic hip-hop Zulu Nation era early compilation
+1990s? Classic hip-hop Zulu Nation era early compilation
 
 #### Tracklist
 ```md
@@ -277,25 +294,27 @@ C8. Midnight Blue – Coolin' Out
 
 D1. The Masterdon Committee – Musicgram
 D2. The Deuce II – Are You Ready
-D3. DLB – It’s Magic
+D3. DLB – It's Magic
 D4. New York City Trooper – Here We Go
 D5. The Source – Ghetto Life
 D6. Doctor Ice – Calling Dr Ice
 D7. The Masterdon Committee – Gonna Get You Hot
 D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Run‑D.M.C. – King Of Rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985?Hip-hop/rock fusion, a pioneering and popular work of rock and rap
+1985?  Hip-hop/rock fusion, a pioneering and popular work of rock and rap
 
 #### Tracklist
 ```md
@@ -309,12 +328,14 @@ B1. Can You Rock It Like This
 B2. You're Blind
 B3. It's Not Funny
 B4. Daryll And Joe (Krush-Groove 3){: .button1}
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### Dr. Dre – Let Me Ride
@@ -328,21 +349,23 @@ A1. Let Me Ride (Radio Mix)
 
 A2. Let Me Ride (Extended Club Version)
 
-Featuring – Daz, Snoop Doggy Dogg
-Guest – George Clinton
+Featuring – Daz, Snoop Doggy Dogg 
+Guest– George Clinton
 
 B1. Let Me Ride (Radio Mix)
 
 B2. Let Me Ride (Extended Club Version)
 
-Featuring –Daz, Snoop Doggy Dogg
-Guest – George Clinton
-````
+Featuring –Daz, Snoop Doggy Dogg 
+Guest– George Clinton
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 ### List
@@ -403,7 +426,7 @@ Guest – George Clinton
 </tr>
 <tr>
 <td>Dieselboy</td>
-<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director’s Cut</a></td>
+<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director"s Cut</a></td>
 <td>1998</td>
 <td>Drum n Bass</td>
 <td>Intense mix by American drum and bass DJ</td>
@@ -432,4 +455,3 @@ Guest – George Clinton
 </tbody>
 </table>
 </div>
-

@@ -9,8 +9,7 @@ tags:
 - EBM
 - 80s
 - 90s
-title: 【コラム】 EBM：鋼鉄のビートが駆動する電子の肉体性
-title_en: '[Column] EBM: Electronic physicality driven by steel beats'
+title: '[Column] EBM: Electronic physicality driven by steel beats'
 ---
 
 
@@ -22,10 +21,11 @@ Text: mmr｜Theme: What is electronic body music?
 
 
 
+
 <hr>
 
 ### Origin: Industrial reverberations and mechanical rhythms
-EBM is a genre of electronic music that originated in Europe (mainly Belgium and Germany) in the early 1980s.The name comes from the fact that the music is composed of a physical dance groove and electronics.This can be described as a fusion of industrial music and electronic dance music.
+EBM is a genre of electronic music that originated in Europe (mainly Belgium and Germany) in the early 1980s. The name comes from the fact that the music is composed of a physical dance groove and electronics. This can be described as a fusion of industrial music and electronic dance music.
 
 In particular, the following two groups are known as pioneers:
 
@@ -35,10 +35,12 @@ In particular, the following two groups are known as pioneers:
 
 By making full use of cold, sharp electronics, violent minimal beats, and militaristic vocals, they created a new kind of "physical electronic music" that differs from conventional pop and rock.
 
+
 <hr>
 
 ### Sound characteristics
-To put it simply, EBM's sound is "inorganic and physical."It features the following elements:
+To put it simply, EBM's sound is "inorganic and physical." It features the following elements:
+
 
 #### Hard and minimal beat
 
@@ -47,6 +49,7 @@ To put it simply, EBM's sound is "inorganic and physical."It features the follow
 - Mechanical rhythm like industrial machinery
 
 - Heavy use of drum machines (Roland TR-808, TR-909, etc.)
+
 
 <hr>
 
@@ -57,6 +60,7 @@ To put it simply, EBM's sound is "inorganic and physical."It features the follow
 - Loop configuration driven by analog/digital sequencer
 
 - Balancing the trance state and physicality created by repetition
+
 
 <hr>
 
@@ -70,6 +74,7 @@ To put it simply, EBM's sound is "inorganic and physical."It features the follow
 
 - Many voices are distorted
 
+
 <hr>
 
 #### Theme and aesthetics
@@ -80,9 +85,11 @@ To put it simply, EBM's sound is "inorganic and physical."It features the follow
 
 - Factories, cities, military uniforms, fetishism, leather culture
 
+
 <hr>
 
 ### Main artists and works
+
 
 <div class="table-border">
 <table>
@@ -97,27 +104,27 @@ To put it simply, EBM's sound is "inorganic and physical."It features the follow
 <tr>
 <td>Front 242</td>
 <td>Belgium</td>
-<td>“Headhunter”, Geography (1982)</td>
+<td>"Headhunter", Geography (1982)</td>
 </tr>
 <tr>
 <td>DAF</td>
 <td>Germany</td>
-<td>“Der Mussolini”, Alles ist gut (1981)</td>
+<td>"Der Mussolini", Alles ist gut (1981)</td>
 </tr>
 <tr>
 <td>Nitzer Ebb</td>
 <td>United Kingdom</td>
-<td>“Join in the Chant”, That Total Age (1987)</td>
+<td>"Join in the Chant", That Total Age (1987)</td>
 </tr>
 <tr>
 <td>Klinik</td>
 <td>Belgium</td>
-<td>“Moving Hands”</td>
+<td>"Moving Hands"</td>
 </tr>
 <tr>
 <td>Skinny Puppy</td>
 <td>Canada</td>
-<td>“Assimilate”</td>
+<td>"Assimilate"</td>
 </tr>
 <tr>
 <td>Die Krupps</td>
@@ -127,11 +134,11 @@ To put it simply, EBM's sound is "inorganic and physical."It features the follow
 </tbody>
 </table>
 </div>
-
+    
 <hr>
 
 ### Scene spread and influence
-EBM rapidly spread in the club scene and underground from the late 1980s to the early 1990s.It had a strong influence on the electronic music scene in various parts of Europe, especially in Germany, Sweden, Austria, and France.
+EBM rapidly spread in the club scene and underground from the late 1980s to the early 1990s. It had a strong influence on the electronic music scene in various parts of Europe, especially in Germany, Sweden, Austria, and France.
 
 EBM has also had a huge influence on the following genres:
 
@@ -143,12 +150,13 @@ EBM has also had a huge influence on the following genres:
 
 - Goth/Industrial Club Culture (Cybergoth)
 
+
 <hr>
 
 ### Connection with club culture: EBM as body music
-EBM is not just music to be listened to at home, but has a very strong aspect as ``music for dancing.''Since the late 1980s, EBM has become an established culture, centered around specific nightclubs and festivals (e.g. Wave-Gotik-Treffen, Amphi Festival), accompanied by dark clothing, leather, and cyber costumes.
+EBM is not just music to be listened to at home, but has a very strong aspect as ""music for dancing.'' Since the late 1980s, EBM has become an established culture, centered around specific nightclubs and festivals (e.g. Wave-Gotik-Treffen, Amphi Festival), accompanied by dark clothing, leather, and cyber costumes.
 
-In the 1990s, while being looked back on as **“Old School EBM”**, the scene branched out into the following:
+In the 1990s, while being looked back on as **"Old School EBM"**, the scene branched out into the following:
 
 - Futurepop ([VNV Nation](https://amzn.to/4942pDT), [Covenant](https://amzn.to/4n5mRYq), etc.)
 
@@ -156,10 +164,12 @@ In the 1990s, while being looked back on as **“Old School EBM”**, the scene 
 
 - Techno Body Music (TBM): EBM revival by techno DJs ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
 
+
 <hr>
 
 ### Recent revival and current EBM
 Since the 2010s, along with the techno-industrial revival, EBM has been reevaluated.
+
 
 <hr>
 
@@ -177,6 +187,7 @@ Since the 2010s, along with the techno-industrial revival, EBM has been reevalua
 
 These artists are influenced by EBM, but combine it with elements such as coldwave, synthwave, and post-punk to create new forms of EBM.
 
+
 <hr>
 
 #### Distinctive trends
@@ -189,14 +200,14 @@ These artists are influenced by EBM, but combine it with elements such as coldwa
 
 - Return to "physical" DJ sets at clubs/raves
 
+
 <hr>
 
 ### Aesthetics that fuses physical body and electronics
-As the name suggests, EBM is "electronic body music."It was more than just dance music, it was a total form of expression that was political, mechanical, physical, and rebellious.
+As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression: political, mechanical, physical, and rebellious.
 
 Currently, the influence of EBM is spreading across many fields, from club culture and festivals to the DIY scene, art, and fashion.
 
 And above all——
-The “heat” that resides in that inorganic rhythm moves the body.
+The "heat" that resides in that inorganic rhythm moves the body.
 That is the essential appeal of EBM.
-

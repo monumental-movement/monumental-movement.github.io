@@ -9,7 +9,6 @@ tags:
 - Techno
 - US Techno
 title: Joey Beltram – E.P. Number One
-title_en: Joey Beltram – E.P. Number One
 ---
 
 
@@ -17,15 +16,13 @@ title_en: Joey Beltram – E.P. Number One
 
 #### Tracklist
 ```md
-A.The Money
+A. The Money
 
-B.Verbs
-````
+B. Verbs
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37928336678?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Isp5ThC1je8?si=BrYNinVNhX2m74YN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Isp5ThC1je8?si=BrYNinVNhX2m74YN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

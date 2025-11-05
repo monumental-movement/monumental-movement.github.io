@@ -10,14 +10,14 @@ tags:
 - 70s
 - 80s
 - 90s
-title: 【コラム】 音楽メディアとしてのカセットテープ：変遷・種類・周波数特性
-title_en: '[Column] Cassette tape as a music medium: history, types, frequency characteristics'
+title: '[Column] Cassette tape as a music medium: history, types, frequency characteristics'
 ---
 
 
 ## Media that preserves memories, not records
 
 Text: mmr｜Theme: Cassette tape, a supporting role in analog music recording
+
 
 <hr>
 
@@ -32,15 +32,18 @@ The cassette tape (Compact Cassette) was developed by Philips in 1963 and became
 
 Based on this cultural background, cassette tapes became a major platform for analog music.
 
+
 <hr>
 
 ### Historical history of cassette tapes
+
 
 <hr>
 
 #### 1963: Invention by Phillips
 
 The first compact cassette was introduced for monaural recording.
+
 
 <hr>
 
@@ -50,9 +53,9 @@ The first compact cassette was introduced for monaural recording.
 
 - Standardization of normal (Type I) tape
 
-- With the spread of portable decks, the ``Walkman'' culture was born.
+- With the spread of portable decks, the ""Walkman'' culture was born.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -64,7 +67,8 @@ The first compact cassette was introduced for monaural recording.
 
 - Increased adoption in high-end audio equipment
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -72,11 +76,13 @@ The first compact cassette was introduced for monaural recording.
 
 However, it continued to be used deeply by some audiophiles, DIY recording culture, hip-hop and indie scenes.
 
+
 <hr>
 
 ### Types of cassette tapes and their characteristics
 
 Cassette tapes are mainly classified into four types:
+
 
 <hr>
 
@@ -96,13 +102,13 @@ Cassette tapes are mainly classified into four types:
 <tr>
 <td>Type I (normal)</td>
 <td>Iron oxide (Fe2O3)</td>
-<td>Well-balanced sound quality, but slightly inferior treble range</td>
+<td>Well-balanced sound quality, but slightly inferior in treble range</td>
 <td>General music recording, voice recording</td>
 </tr>
 <tr>
 <td>Type II (Chrome)</td>
 <td>Chromium oxide (CrO2)</td>
-<td>Excellent treble characteristics and good noise reduction</td>
+<td>Excellent high-frequency characteristics and good noise reduction</td>
 <td>High quality recording for music playback</td>
 </tr>
 <tr>
@@ -122,9 +128,11 @@ Cassette tapes are mainly classified into four types:
 </div>
 <hr>
 
+
 <hr>
 
 ### Frequency characteristics and sound quality of cassette tapes
+
 
 <hr>
 
@@ -136,6 +144,7 @@ Approximately 20Hz to 15kHz with **chrome tape**
 
 **Metal tape** can be expanded to approximately 20Hz to 18kHz
 
+
 <hr>
 
 #### Recording head and equalizing
@@ -145,6 +154,7 @@ Approximately 20Hz to 15kHz with **chrome tape**
 - Realizes high frequency extension with high frequency amplification circuit (ferrite head, etc.)
 
 - Optimize bias signal (high frequency magnetic vibration) to reduce distortion and noise
+
 
 <hr>
 
@@ -156,9 +166,11 @@ Approximately 20Hz to 15kHz with **chrome tape**
 
 **Metal type**: Performance approaching approximately 70dB
 
+
 <hr>
 
 ### Advantages and disadvantages of cassette tapes
+
 
 <hr>
 
@@ -172,6 +184,7 @@ Approximately 20Hz to 15kHz with **chrome tape**
 
 - Warm sound quality unique to analog
 
+
 <hr>
 
 #### Disadvantages
@@ -184,6 +197,7 @@ Approximately 20Hz to 15kHz with **chrome tape**
 
 - Inferior in frequency band and S/N ratio compared to CDs and digital sound sources
 
+
 <hr>
 
 ### Contemporary significance of cassette tape culture
@@ -195,6 +209,7 @@ In recent years, cassette tapes have been reevaluated due to the return to analo
 - Original recording experience and the charm of physical media
 
 - For DIY use of recording equipment and audiophile collection.
+
 
 <hr>
 
@@ -266,7 +281,7 @@ Although it is not as good as digital in terms of frequency band and S/N ratio, 
 </tr>
 <tr>
 <td>Dieselboy</td>
-<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director’s Cut</a></td>
+<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director"s Cut</a></td>
 <td>1998</td>
 <td>Drum n Bass</td>
 <td>Intense mix by American drum and bass DJ</td>
@@ -295,4 +310,3 @@ Although it is not as good as digital in terms of frequency band and S/N ratio, 
 </tbody>
 </table>
 </div>
-

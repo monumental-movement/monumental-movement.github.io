@@ -9,12 +9,11 @@ tags:
 - JPop
 - 80s
 - Rock
-title: Barbee Boys – 負けるもんか
-title_en: Barbee Boys – I’m not going to lose.
+title: Barbee Boys – I"m not going to lose.
 ---
 
 
-"Barbee Boys - Loser Monka" is a song by the Japanese rock band Barbee Boys.“Yeru Monka” is a song featuring an exhilarating guitar riff, powerful vocals, a catchy melody, and a powerful and energetic rock sound.
+"Barbee Boys - Loser Monka" is a song by the Japanese rock band Barbee Boys. "Yeru Monka" is a song featuring an exhilarating guitar riff, powerful vocals, a catchy melody, and a powerful and energetic rock sound.
 
 The lyrics are about the strength to stick to one's beliefs and the courage to face difficulties, and contain a positive message.
 
@@ -24,15 +23,14 @@ Their songs have the power to give energy and courage to listeners, and they hav
 
 #### Tracklist
 ```md
-A. I'm going to lose.
+A. 負けるもんか
 
 B1. C'm'on Let's Go!
 
-B2. Let's fly (live)
-````
+B2. 翔んでみせろ(ライブ)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

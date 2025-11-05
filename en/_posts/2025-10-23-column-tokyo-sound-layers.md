@@ -11,15 +11,15 @@ tags:
 - Jazz
 - Indies
 - Rock
-title: 【コラム】 東京サウンドの多層構造 ― 新宿・渋谷・下北沢・秋葉原、それぞれの音文化
-title_en: '[Column] The multilayered structure of Tokyo sound - the sound culture
-  of Shinjuku, Shibuya, Shimokitazawa, and Akihabara'
+title: '[Column] The multilayered structure of Tokyo sound - the sound culture of
+  Shinjuku, Shibuya, Shimokitazawa, and Akihabara'
 ---
 
 
 ## Prologue: Strata of sounds made by cities
 
-Text: mmr｜Theme: Jazz in Shinjuku, club culture in Shibuya, indie music in Shimokitazawa, electronic music in Akihabara.Tracing the history and present of the multi-layered sounds produced in Tokyo.
+
+Text: mmr｜Theme: Jazz in Shinjuku, club culture in Shibuya, indie music in Shimokitazawa, electronic music in Akihabara. Tracing the history and present of the multi-layered sounds produced in Tokyo.
 
 The city of Tokyo has continued to change its contours through sound.
 The sounds of trains, crowds, the hum of neon signs, street guitars, and underground beats.
@@ -43,6 +43,7 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: Shinjuku - Jazz City of Chaos and Freedom
 
 ### 1. Shinjuku Pit In and Postwar Jazz Night
@@ -53,15 +54,15 @@ The night when the saxophone rang out was also the political season, and jazz so
 ### 2. Intersection of rock and underground
 Around the time when Shuji Terayama and Juro Kara were opening up the underground of Shinjuku through theater,
 Brain Police and RC Succession responded with rock.
-The live house ``LOFT'' opened in 1976, establishing Shinjuku as a free zone for music.
+The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for music.
 
 ---
 
 ## Chapter 2: Shibuya - Between the club and the street
 
 ### 1. The illusion of Shibuya-kei
-In the 1990s, Shibuya was in the spotlight as a ``music city connected to the world.''
-A network of sounds spreading from the 7th floor of Tower Records.Pizzicato Five, Cornelius, Kenji Ozawa.
+In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
+A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
 The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 
 ### 2. The rise of club culture
@@ -74,9 +75,9 @@ A city where house, techno, and hip-hop intersect, melting the boundaries betwee
 
 ### 1. Democratization of music starts in the studio
 In the late 1980s, young people gathered with guitars in Shimokitazawa, a neighborhood dotted with small studios and live music venues.
-“Shimokita” became a symbol of indie music, and was the birthplace of Number Girl, ASIAN KUNG-FU GENERATION, Kururi, and others.
+"Shimokita" became a symbol of indie music, and was the birthplace of Number Girl, ASIAN KUNG-FU GENERATION, Kururi, and others.
 
-### 2. “Create your own music culture”
+### 2. "Create your own music culture"
 Independent production, ZINE, and SNS without going through a record company.
 Inheriting the DIY spirit of music, Shimokitazawa still pulsates with live houses such as BASEMENT BAR and SHELTER.
 
@@ -89,9 +90,9 @@ The lineage of electronic sounds built by YMO in the 1980s evolved once again in
 Game music, vocaloids, chip tunes, anime song remixes.
 Although it is a melting pot of subculture, it has formed a new context that connects to the world's electronic scene.
 
-### 2. The sound of Akihabara is “augmented reality”
-A city where "music" and "technology" are fused.Live streaming, VTuber, AI music.
-Akihabara is a ``futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
+### 2. The sound of Akihabara is "augmented reality"
+A city where "music" and "technology" are fused. Live streaming, VTuber, AI music.
+Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
 
 ---
 
@@ -100,7 +101,7 @@ Akihabara is a ``futuristic pop testing ground,'' and is evolving on a different
 Improvisation at night in Shinjuku, beats in Shibuya, band sounds in Shimokitazawa, electronic sounds in Akihabara.
 Although these have independent contexts, they are now intertwined with each other.
 A Shibuya-raised truck maker incorporates Akihabara aesthetics, and a Shimokitazawa singer references Shinjuku jazz rhythms.
-**Tokyo's sound exists as a "multilayered remix."**
+**Tokyo's sound exists as a "multilayered remix." **
 
 ---
 
@@ -117,7 +118,7 @@ All of them make up the huge sound archive that is Tokyo.
 
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
-Although the form may change, the structure of ``a city that speaks with sound'' remains the same.
+Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
 The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
@@ -141,6 +142,7 @@ A1990 --> A2000
 A2000 --> A2010
 A2010 --> A2020
 
+
 </div>
 
 ---
@@ -159,9 +161,9 @@ Shinjuku["Shinjuku: Jazz Underground"]
 Akiba["Akihabara: electronic sound/subculture"]
 end
 
-Shibuya -> Akiba
-Shimokita -> Shinjuku
-Shinjuku -> Shibuya
+Shibuya --> Akiba
+Shimokita --> Shinjuku
+Shinjuku --> Shibuya
 
 </div>
 
@@ -169,17 +171,15 @@ Shinjuku -> Shibuya
 
 ## References/Discography
 
-- [Pizzicato Five “Made in USA” (1995)](https://amzn.to/4hs1K1x)
+- [Pizzicato Five "Made in USA" (1995)](https://amzn.to/4hs1K1x)
 
-- [YMO “Solid State Survivor” (1979)](https://amzn.to/4hooSOd)
+- [YMO "Solid State Survivor" (1979)](https://amzn.to/4hooSOd)
 
 - [RC Succession "Single Man" (1976)](https://amzn.to/4qkwxkV)
 
-- [Cornelius “Fantasma” (1997)](https://amzn.to/47Ehs64)
+- [Cornelius "Fantasma" (1997)](https://amzn.to/47Ehs64)
 
-- [Perfume “GAME” (2008)](https://amzn.to/4nhP8ek)
+- [Perfume "GAME" (2008)](https://amzn.to/4nhP8ek)
 
 - [Number Girl "SAPPUKEI" (2000)](https://amzn.to/3J1qroJ)
-
-
 

@@ -9,7 +9,6 @@ tags:
 - Lounge
 - Compilation
 title: Various – Space Capades
-title_en: Various – Space Capades
 ---
 
 
@@ -57,11 +56,11 @@ Track 18 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
 
 11.Les Baxter & His Orchestra–Sabre Dance
 
-12.Billy May & His Orchestra–This Room Is My Castle Of Quiet Theremin
+12.Billy May & His Orchestra–This Room Is My Castle Of Quiet Theremin 
 
 13.Felix Slatkin–I Get A Kick Out Of You
 
-14.Jack Malmsten – Satan Takes A Holiday
+14.Jack Malmsten –Satan Takes A Holiday
 
 15.Terry Snyder–Puttin' On The Ritz
 
@@ -70,10 +69,9 @@ Track 18 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
 17.Les Baxter & His Orchestra–Saturday Night On Saturn
 
 18.Dean Elliott & His Big Band–Lonesome Road
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwQ6A7eWvpU?si=676P6Bidu6gbdIzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nwQ6A7eWvpU?si=676P6Bidu6gbdIzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,6 @@ tags:
 - Tech House
 - 00s
 title: Mike Dearborn – No Communication
-title_en: Mike Dearborn – No Communication
 ---
 
 
@@ -25,10 +24,9 @@ A2. Pink
 
 B1. No Communication
 B2. Messy Miss
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m67887411446?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8d4DqNWv9Qg?si=Af1KYNUnEd3WgwQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8d4DqNWv9Qg?si=Af1KYNUnEd3WgwQr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

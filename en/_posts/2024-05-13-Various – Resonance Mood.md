@@ -10,7 +10,6 @@ tags:
 - Trance
 - 90s
 title: Various – Resonance Mood
-title_en: Various – Resonance Mood
 ---
 
 
@@ -29,12 +28,11 @@ D1. Growling Mad Scientists – Jaws
 D2. Manmademan – Athalon
 E. Nervasystem – Decoder
 F. Sandman – Target Eye
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BqjgK3jULMU?si=i4gThYvM0UZAZ46i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqjgK3jULMU?si=i4gThYvM0UZAZ46i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,8 +11,6 @@ tags:
 - 90s
 title: Bobby D'Ambrosio Presents With Kelli Sae / The Todd Terry Project – Here I
   Am / For You
-title_en: Bobby D'Ambrosio Presents With Kelli Sae / The Todd Terry Project – Here
-  I Am / For You
 ---
 
 
@@ -25,7 +23,6 @@ B is by Todd Terry, a major house music DJ/producer.
 A. Bobby D'ambrosio Presents with Kelli Sae – Here I Am (David Morales Club Mix) Remix – David Morales
 
 B. Todd Terry – For You (Todd Terry Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}
-

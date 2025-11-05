@@ -9,7 +9,6 @@ tags:
 - House
 - Pops
 title: All Saints – Pure Shores (The Mixes)
-title_en: All Saints – Pure Shores (The Mixes)
 ---
 
 
@@ -28,10 +27,9 @@ A2. Pure Shores (2 Da Beach Don't Stop Remix)
 B1. Pure Shores (Original)
 
 B2. Pure Shores (Instrumental)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CGA8020eU38?si=1Y_-tUR94CS1TCOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGA8020eU38?si=1Y_-tUR94CS1TCOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

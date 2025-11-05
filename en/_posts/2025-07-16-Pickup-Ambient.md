@@ -10,8 +10,7 @@ tags:
 - 90s
 - 80s
 - 70s
-title: アンビエント作品をピックアップ
-title_en: Pick up ambient works
+title: Pick up ambient works
 ---
 
 
@@ -32,19 +31,21 @@ Features: Works that combine deep grooves and spatial soundscapes
 
 #### Tracklist
 ```md
-A1.Blanx
+A1. Blanx
 A2. Elect Burns
-A3.Untitled
-A4.Untitled
+A3. Untitled
+A4. Untitled
 
 B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -65,25 +66,27 @@ Feature: Jonah Sharp's 90s underground ambient masterpiece
 
 #### Tracklist
 ```md
-A1.Iform
-A2.Kario
+A1. Iform
+A2. Kario
 
 B1. Simm City
 B2. Funkyar
 B3. Swing Fantasy
 
 C1. Movement # 2
-C2.Vertigo
+C2. Vertigo
 
 D1. Twister
-D2.Pod
+D2. Pod
 D3. String Of Pearls
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -100,15 +103,17 @@ Features: Deep trance track by Charles Reix
 
 #### Tracklist
 ```md
-A.Secret Rooms
+A. Secret Rooms
 
 B. Over Flowing Delight
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -121,12 +126,12 @@ Release: 1997
 
 Format: 12″
 
-Features: Experimental ambient trip-hop music from Denmark.Includes Luke Vibert (Wagon Christ) remix
+Features: Experimental ambient trip-hop music from Denmark. Includes Luke Vibert (Wagon Christ) remix
 
 #### Tracklist
 ```md
 A1. Scary H H Loop
-A2. 104 Dubs
+A2. 104 Dub
 
 B1. 104 Dub (Wagon Christ Mix)
 
@@ -136,12 +141,14 @@ Remix – Wagon Christ
 
 B2. A C Tractor
 
-｀｀
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -154,7 +161,7 @@ Release: October 2023
 
 Format: Vinyl
 
-Features: A masterpiece of Japanese chillout ambient music.4 track EP including Dixon remix
+Features: A masterpiece of Japanese chillout ambient music. 4 track EP including Dixon remix
 
 #### Tracklist
 ```md
@@ -163,12 +170,14 @@ A2. People From The Sun And The Earth (Original Mix)
 
 B1. People From The Sun And The Earth (Dixon Remix)
 B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eYPbR5uboE?si=kQnmAhxcLgIqHse3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8eYPbR5uboE?si=kQnmAhxcLgIqHse3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -189,12 +198,14 @@ A1. Nature Morte!
 A2. Still Life Is Alive
 
 B. Our Ghosts
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -207,21 +218,21 @@ Release: 1994
 
 Format: 2-disc Vinyl
 
-Features: Steve Miller's work under another name.Deep chill-out sound that mixes various genres
+Features: Steve Miller's work under another name. Deep chill-out sound that mixes various genres
 
 #### Tracklist
 ```md
-A1. Out of Order
+A1. Out Of Order
 A2. No Sweat
-A3.What`s Real
+A3. What`s Real
 A4. Tell The Truth
 
 B1. Automatic
-B2. Pourquoi? Parce Que
+B2. Pourquoi ? Parce Que
 B3. Real World
 
 C1. Green Eyes
-C2.Overboard
+C2. Overboard
 C3. Central Park West
 C4. Taste Of God
 
@@ -229,12 +240,14 @@ D1. Move On Up
 D2. Man/Woman
 D3. Jump Over Here
 D4. The End Game
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -252,20 +265,22 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 ```md
 1. Deep Forest
 2. Sweet Lullaby
-3.Hunting
+3. Hunting
 4. Night Bird
 5. The First Twilight
 6. Savana Dance
 7. Desert Walk
-8.White Whisper
+8. White Whisper
 9. The Second Twilight
 10. Sweet Lullaby (Ambient Mix)
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
+
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -303,7 +318,7 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 <tr>
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
 <td>1997</td>
-<td>12”</td>
+<td>12"</td>
 <td>Experimental trip hop/ambient</td>
 </tr>
 <tr>
@@ -333,4 +348,3 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 </tbody>
 </table>
 </div>
-

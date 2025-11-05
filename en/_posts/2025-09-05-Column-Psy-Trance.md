@@ -9,23 +9,25 @@ tags:
 - Psy-Trance
 - Trance
 - 90s
-title: 【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選
-title_en: '[Column] Psy-Trance history, masterpieces, and 10 recommended tracks'
+title: '[Column] Psy-Trance history, masterpieces, and 10 recommended tracks'
 ---
+
 
 
 ## Psychedelic trance (Psy-Trance) — A historical chronicle of psychedelic trance from its origins to the present and changes in equipment
 
 Text: mmr｜Theme: History of Psy-Trance from its origins to the present
 
-Goa trance, which originated from the hippie/rave culture in Goa, spread around the world in the mid-1990s as "psychedelic trance."Since then, various derivative genres (Full-on, Darkpsy, Progressive, Psybient, etc.) have been created through the refinement of sound images and the digitization of equipment, and it has become global through festival culture and online distribution.
+
+Goa trance, which originated from the hippie/rave culture in Goa, spread around the world in the mid-1990s as "psychedelic trance." Since then, various derivative genres (Full-on, Darkpsy, Progressive, Psybient, etc.) have been created through the refinement of sound images and the digitization of equipment, and it has become global through festival culture and online distribution.
 
 Below, we will summarize the trends by generation, representative masterpieces, changes in equipment, and **10 recommended tracks from each era**.
+
 
 ---
 
 ## Origin — 1970s-1980s
-- **Background:** Hippie culture and the influx of electronic musical instruments.Used synths and rhythm machines are brought to Goa.
+- **Background:** Hippie culture and the influx of electronic musical instruments. Used synths and rhythm machines are brought to Goa.
 - **Equipment:** Roland TB-303, TR-808, TR-909, etc.
 
 ### Masterpiece
@@ -33,7 +35,9 @@ Below, we will summarize the trends by generation, representative masterpieces, 
 - Tangerine Dream – *Exit* (1981)
 - Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)
 
+
 ### 10 Recommended Tracks (1970s-80s)
+
 
 <style type="text/css">
 
@@ -56,7 +60,7 @@ color: #fff;
 | 4 | Klaus Schulze – Trance 4 | 1983 | European Electroacoustics |
 | 5 | Psychic TV – Tune In | 1982 | Inheritance of Psychic Culture |
 | 6 | Jean-Michel Jarre – Ethnicolor | 1984 | Ethno+Electronic Sound |
-| 7 | Front 242 – Headhunter | 1988 | EBM’s signature song |
+| 7 | Front 242 – Headhunter | 1988 | EBM"s signature song |
 | 8 | The KLF – What Time Is Love? | 1988 | The early days of rave |
 | 9 | 808 State – Pacific State | 1989 | Balearic influence |
 | 10 | Goa Gil – DAT tape mixes | Late 1980s | Original Goa sound |
@@ -66,13 +70,14 @@ color: #fff;
 ---
 
 ## Establishment of Goa Trance — 1990-1994
-- **Background:** Full Moon Party in Goa, India.Trance sounds played on DAT tapes spread throughout the world.
+- **Background:** Full Moon Party in Goa, India. Trance sounds played on DAT tapes spread throughout the world.
 - **Equipment:** DAT, Roland synth, early sampler.
 
 ### Masterpiece
 - Juno Reactor – *Transmissions* (1993)
 - Man With No Name – *Moment of Truth* (1994)
 - The Infinity Project – *Feeling Very Weird* (1994)
+
 
 ### 10 Recommended Tracks (1990–94)
 
@@ -94,7 +99,7 @@ color: #fff;
 ---
 
 ## Late 1990s: Establishment of Psy-Trance
-- **Historical background**: Gore trance spread to Europe, creating a harder and more high-tech sound.The Israeli scene is making great strides.
+- **Historical background**: Gore trance spread to Europe, creating a harder and more high-tech sound. The Israeli scene is making great strides.
 - **Typical equipment**: Access Virus, Clavia Nord Lead, Roland JP-8000
 
 ### Masterpiece
@@ -122,7 +127,7 @@ color: #fff;
 ---
 
 ## 2000s: Expanding the global scene
-- **Background:** The rise of festival culture (Boom Festival, Ozora).Sub-genres (full-on, dark Psy, progressive Psy) are progressing.
+- **Background:** The rise of festival culture (Boom Festival, Ozora). Sub-genres (full-on, dark Psy, progressive Psy) are progressing.
 - **Equipment:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q
 
 ### Masterpiece
@@ -150,7 +155,7 @@ color: #fff;
 ---
 
 ## 2010s: Digital age and crossover
-- **Background:** Production using DAW and plug-ins has become mainstream.Interaction with EDM and bass music.It has become established worldwide, led by festivals.
+- **Background:** Production using DAW and plug-ins has become mainstream. Interaction with EDM and bass music. It has become established worldwide, led by festivals.
 - **Equipment:** Ableton Live, Serum, Massive, UAD Plugins
 
 ### Masterpiece
@@ -176,7 +181,7 @@ color: #fff;
 ---
 
 ## 2020s: New generation fusion and expansion
-- **Background**: The fusion of Psy-Trance, techno, bass music, and psychedelic ambient continues.Due to its spread on YouTube and distribution platforms, the number of young listeners is rapidly increasing.
+- **Background**: The fusion of Psy-Trance, techno, bass music, and psychedelic ambient continues. Due to its spread on YouTube and distribution platforms, the number of young listeners is rapidly increasing.
 - **Equipment**: Ableton Live 11, Arturia V Collection, Moog Subsequent 37, Eurorack module
 
 ### Masterpiece
@@ -204,14 +209,13 @@ color: #fff;
 ---
 
 ### Towards the future of psychedelics
-Psy-Trance was born from the intersection of hippie culture and technology, branched out into many different forms after its golden age in the 90s, and continues to dominate festivals around the world.Tracking the evolution of sound design and changes in equipment reveals the dynamism of its sound and the depth of its culture.
+Psy-Trance was born from the intersection of hippie culture and technology, branched out into many different forms after its golden age in the 90s, and continues to dominate festivals around the world. Tracking the evolution of sound design and changes in equipment reveals the dynamism of its sound and the depth of its culture.
 
-We started with analog equipment, went through digitalization, and are now in the stage of fusion that transcends genres.**1990s gore spirituality**, **2000s high-tech full-on explosiveness**, **2010s digital crossover**, and **2020s cross-genre evolution**.Each era created its own aesthetic.
+We started with analog equipment, went through digitalization, and are now in the stage of fusion that transcends genres. **1990s gore spirituality**, **2000s high-tech full-on explosiveness**, **2010s digital crossover**, and **2020s cross-genre evolution**. Each era created its own aesthetic.
 
-What is common in this flow is "expansion of consciousness" and "joint experience."Although the stage has changed from beach parties to huge festivals to online streaming, the desire for psychedelic experiences remains the same.
+What is common in this flow is "expansion of consciousness" and "joint experience." Although the stage has changed from beach parties to huge festivals to online streaming, the desire for psychedelic experiences remains the same.
 
 In the future, we can expect further developments that will transcend dimensions, such as sound design using AI, psychedelic experiences linked to VR and AR, and live performances that combine Eurorack modular and digital.
 
-**Psy-Trance will continue to be a "cultural and spiritual movement," not just a musical genre.**
-Tracing this history is not just a record of sound, but a shared part of humanity's ``journey of consciousness expansion''.
-
+**Psy-Trance will continue to be a "cultural and spiritual movement," not just a musical genre. **
+Tracing this history is not just a record of sound, but a shared part of humanity's ""journey of consciousness expansion''.

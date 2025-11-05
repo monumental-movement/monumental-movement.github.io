@@ -10,7 +10,6 @@ tags:
 - Tech House
 - 00s
 title: Del Costa & Pedro Goya – Freaky Mike
-title_en: Del Costa & Pedro Goya – Freaky Mike
 ---
 
 
@@ -25,10 +24,9 @@ The B-side is a remix by DJ All Star (Alexander Maier) and Don Disco.
 A. Freaky Mike (Original Cut)
 
 B. Freaky Mike (DJ All Star & Don Disco Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

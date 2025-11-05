@@ -12,7 +12,6 @@ tags:
 - Downtempo
 - 00s
 title: Cari Lekebusch – The Architect
-title_en: Cari Lekebusch – The Architect
 ---
 
 
@@ -31,10 +30,9 @@ A2. Electro Magnetic Featuring – Aaron
 
 B1. Babylon
 B2. For Her Featuring – Krister
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

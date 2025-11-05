@@ -10,7 +10,6 @@ tags:
 - Acid
 - 10inch
 title: Empirion – Jesus Christ
-title_en: Empirion – Jesus Christ
 ---
 
 
@@ -24,15 +23,17 @@ A must-have for fans of 90's techno acid, this is a 10-inch two-disc set.
 ```md
 A. Jesus Christ
 
+
 B. Jesus Christ
+
 
 C. Quark (Remix)
 
-D.New Religion
-````
+
+D. New Religion
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51146991051?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7QfL99F3l_M?si=UtplTV3W34tXS8Y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QfL99F3l_M?si=UtplTV3W34tXS8Y9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

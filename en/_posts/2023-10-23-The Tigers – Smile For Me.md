@@ -10,7 +10,6 @@ tags:
 - Group Sounds
 - 7inch
 title: The Tigers – Smile For Me
-title_en: The Tigers – Smile For Me
 ---
 
 
@@ -18,19 +17,18 @@ title_en: The Tigers – Smile For Me
 
 #### Tracklist
 ```md
-A. Smile For Me
+A. Smile For Me = スマイル・フォー・ミー
 
-Lyrics and music: Barry Gibb, Maurice Gibb
-Arrangement: John Fiddy
+作詞・作曲:Barry Gibb,Maurice Gibb
+編曲：John Fiddy
 
-B. Rain Falls On The Lonely
+B. Rain Falls On The Lonely = 淋しい雨
 
-Lyrics and music: Ronald F. Bond, Ronnie Sebastian
-Arrangement: John Fiddy
-````
+作詞・作曲:Ronald F. Bond,Ronnie Sebastian
+編曲：John Fiddy
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IGVQlBBYdG0?si=5YsPxWJ_FgF9HDTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IGVQlBBYdG0?si=5YsPxWJ_FgF9HDTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

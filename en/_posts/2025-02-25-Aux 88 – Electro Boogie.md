@@ -10,11 +10,10 @@ tags:
 - Techno
 - 90s
 title: Aux 88 – Electro Boogie
-title_en: Aux 88 – Electro Boogie
 ---
 
 
-Studio K7's third electro boogie released in 1999.Detroit techno/electro mixCD by Aux88.
+Studio K7's third electro boogie released in 1999. Detroit techno/electro mixCD by Aux88.
 
 #### Tracklist
 ```md
@@ -29,17 +28,16 @@ Studio K7's third electro boogie released in 1999.Detroit techno/electro mixCD b
 9. DJ Good Groove – Rock It
 10. Aaron Carl – Down (The Original Version)
 11. Unknown DJ – Basstronic
-12.UR – Base Camp Alpha 808
+12. UR – Base Camp Alpha 808
 13. DJ Assault – Shake It Baby
 14. Chaos – Afrogermanic
 15. Sole Tech – Chuck
 16. Drexciya – Bubble Metropolis
 17. Aux 88 – Technology
 18. Aux 88 – Xeo-Genetic Remix
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+#### Youtbue
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

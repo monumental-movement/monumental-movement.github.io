@@ -10,7 +10,6 @@ tags:
 - Hard House
 - 00s
 title: Slam Inc Hard Kor – Pig Pen vs Hard Trax
-title_en: Slam Inc Hard Kor – Pig Pen vs Hard Trax
 ---
 
 
@@ -18,12 +17,10 @@ Slam Inc Hard Kor's EP "Pig Pen vs Hard" is a hard house track released in 2000 
 
 #### Tracklist
 ```md
-A. Slam Inc – Take Me Away
+A.  Slam Inc – Take Me Away
 
-AA. Hard Kor – Check This Out
-````
+AA.  Hard Kor – Check This Out
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12107636590?afid=6142608987){: .button1}
-
-
 

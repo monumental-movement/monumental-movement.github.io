@@ -8,20 +8,20 @@ layout: post
 tags:
 - Neuroscience
 - Emotion
-title: 【コラム】 なぜ人は悲しいときに音楽を聴くのか — 共感・記憶・神経の調律としての音
-title_en: '[Column] Why do people listen to music when they are sad? Sound as empathy,
+title: '[Column] Why do people listen to music when they are sad? Sound as empathy,
   memory, and neural tuning'
 ---
 
 
 ## Prologue: Melody in Tears
 
+
 Text: mmr｜Theme: Exploring the relationship between sadness and music from the perspectives of psychology, neuroscience, and cultural history
 
 Why do people turn to music when they are sad?
 The silence is often broken by a single note on the piano or a haunting singing voice.
 This act is both intuitive and deeply scientific.
-Music is a ``resonator'' of emotions and the only experience that can be shared in solitude.
+Music is a ""resonator'' of emotions and the only experience that can be shared in solitude.
 
 In this paper, while crossing the fields of psychology, neuroscience, and cultural history,
 We will explore the question, "Why do people listen to music when they are sad?"
@@ -41,16 +41,17 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: Sadness and the Brain - Neural Resonance Structure
 
 According to modern neuroscience, sadness is strongly associated with activity in the amygdala and prefrontal cortex in the brain.
 By listening to music, these areas undergo "emotional restructuring" and
 Encourages the process of objectively viewing one's own emotions.
 
-Music is not just an external stimulus, but a ``mirror of nerves.''
+Music is not just an external stimulus, but a ""mirror of nerves.''
 When you listen to a sad melody, "sad neurons" resonate in your brain,
 The feel-good chemical **dopamine** is secreted there.
-This contradictory reaction—“pleasure in sadness”—is what
+This contradictory reaction—"pleasure in sadness"—is what
 This is one of the biggest reasons why people seek out sad music.
 
 ---
@@ -58,7 +59,7 @@ This is one of the biggest reasons why people seek out sad music.
 ## Chapter 2: Music as a device of empathy
 
 According to psychologist Catherine Mercier,
-``Music is a mimicking device for empathy.''
+""Music is a mimicking device for empathy.''
 When listeners listen to sad music, they "identify" with the emotions of the composer and singer, and
 Feeling the presence of others in loneliness.
 
@@ -75,7 +76,7 @@ Psychologically, this is a phenomenon called "musical recall."
 A certain melody evokes past scenes, smells, and the feel of a season.
 
 People organize their memories during times of sadness.
-Music is an “editing tool” for that purpose.
+Music is an "editing tool" for that purpose.
 It functions as a **temporal medium** that connects memories and emotions.
 
 > "Music is the only art that visualizes time"
@@ -83,7 +84,7 @@ It functions as a **temporal medium** that connects memories and emotions.
 
 ---
 
-## Chapter 4: “Sounds of sadness” from a cultural historical perspective
+## Chapter 4: "Sounds of sadness" from a cultural historical perspective
 
 Music of sadness has existed in different forms with each era.
 The chronology below shows the typical flow.
@@ -92,13 +93,14 @@ The chronology below shows the typical flow.
 
 timeline
 title Cultural history of sadness and music (B.C. to modern times)
-500 BC: Ancient Greek “Threnos”—a ritual of collective mourning.
-1600: Baroque opera — “Lamento”, a style that turns sadness into art
+500 BC: Ancient Greek "Threnos"—a ritual of collective mourning.
+1600: Baroque opera — "Lamento", a style that turns sadness into art
 1820: Romantic music — inner expression symbolized by Chopin's "Funeral March"
 1940 : Blues/Gospel — turning social pain into sound
 1970: Singer-songwriter culture — personal grief becomes poetry
 1990: Grunge/Alternative — an aesthetic that screams loneliness
 2020 : Lo-fi hiphop/emo rap — a new requiem for the age of digital loneliness
+
 
 </div>
 
@@ -107,11 +109,11 @@ The pain of an individual is transformed into the voice of the times.
 
 ---
 
-## Chapter 5: “Aesthetics of Sadness” in Japanese Culture
+## Chapter 5: "Aesthetics of Sadness" in Japanese Culture
 
-In Japan, there has been a concept called ``mono aware'' since ancient times.
-This is an idea that does not deny sadness, but rather affirms it as a ``beautiful emotion.''
-From gagaku's ``Ettenraku'' to the narration of biwa priests, and even enka,
+In Japan, there has been a concept called ""mono aware'' since ancient times.
+This is an idea that does not deny sadness, but rather affirms it as a ""beautiful emotion.''
+From gagaku's ""Ettenraku'' to the narration of biwa priests, and even enka,
 Music in Japanese culture consistently contains a sense of sadness.
 
 Listening to sad music has functioned as an emotional cleansing ritual.
@@ -119,15 +121,16 @@ Crying is not a sign of weakness, but an act of emotional social reconnection.
 
 ---
 
-## Chapter 6: “Sharing Grief” in the Digital Age
+
+## Chapter 6: "Sharing Grief" in the Digital Age
 
 In Spotify and YouTube playlists,
 It is flooded with tags such as "Sad Songs," "Rainy Mood," and "Breakup Song."
 The algorithm even learns your tendency to feel sad,
-We propose the optimal “tears BGM”.
+We propose the optimal "tears BGM".
 
 This phenomenon can also be called **Platformization of personal feelings**.
-In an anonymous space, people exchange ``quiet empathy'' through sound.
+In an anonymous space, people exchange ""quiet empathy'' through sound.
 
 <div class="mermaid">
 
@@ -155,8 +158,8 @@ Music has been scientifically proven to have an impact on emotional recovery dur
 
 - Externalization of emotions that are difficult to verbalize
 
-Music is a “reset button for the mind” and at the same time,
-It is also a “translator” of emotions.
+Music is a "reset button for the mind" and at the same time,
+It is also a "translator" of emotions.
 
 ## Final chapter: Kindness in the sound
 
@@ -179,6 +182,7 @@ Music is a medium that turns sadness into love.
 
 - [Yujiro Nakamura (2000). "Common Sensation Theory"](https://amzn.to/4nZ7zpv)
 
+
 ---
 
 ## Diagram: Neural mapping of emotion and music
@@ -190,8 +194,9 @@ Music is a medium that turns sadness into love.
 | Empathy | Medial prefrontal cortex | Vocal-centered structure | Oxytocin secretion |
 | Regeneration | Cingulate Cortex | Crescendo Structure | Dopamine Rise |
 
->“When you are sad, you listen to music not because you are afraid of silence.
->To listen to the sound of your own heart in the depths of that silence.”
+
+>"When you are sad, you listen to music not because you are afraid of silence.
+>To listen to the sound of your own heart in the depths of that silence. "
 
 ---
 
@@ -199,12 +204,13 @@ Music is a medium that turns sadness into love.
 
 | # | Title/Artist | Format/Features |Link |
 | - | ---------- | ---------- | ------------- |
-| 1 | *Sleep – Max Richter (2015) | Long, gentle ambient/chamber music.Perfect before bed or when relaxing.| [Amazon](https://amzn.to/3L4CW3k) |
-| 2 | *The Disintegration Loops – William Basinski (2002) | A meditative and purifying sound using the disintegration sound of tape loops.For situations of grief and emotional management.| [Amazon](https://amzn.to/4qojJcZ) |
-| 3 | *Celestial Vibration – Laraaji (1978) | New Age sound using open string jitter/kalimba.Also used for meditation/yoga purposes.| [Amazon](https://amzn.to/3KWbWDh) |
-| 4 | *Therapy – Zoe Wees (2023) | A pop/R&B album with the theme of one's own anxiety and recovery.It is also noteworthy for its music therapy perspective, which involves sublimation of emotions and empathy.| [Amazon](https://amzn.to/4owOvi9) |
+| 1 | *Sleep – Max Richter (2015) | Long, gentle ambient/chamber music. Perfect before bed or when relaxing. | [Amazon](https://amzn.to/3L4CW3k) |
+| 2 | *The Disintegration Loops – William Basinski (2002) | A meditative and purifying sound using the disintegration sound of tape loops. For situations of grief and emotional management.  | [Amazon](https://amzn.to/4qojJcZ) |
+| 3 | *Celestial Vibration – Laraaji (1978) | New Age sound using open string jitter/kalimba. Also used for meditation/yoga purposes. | [Amazon](https://amzn.to/3KWbWDh) |
+| 4 | *Therapy – Zoe Wees (2023) | A pop/R&B album with the theme of one's own anxiety and recovery. It is also noteworthy for its music therapy perspective, which involves sublimation of emotions and empathy.  | [Amazon](https://amzn.to/4owOvi9) |
 
 ---
+
 
 ## Brain neural map (brain activity when listening to music)
 
@@ -234,6 +240,7 @@ style F fill:#80b1d3,stroke:#1f78b4
 
 ## Sensory structure diagram (resonance of sadness and music)
 
+
 <div class="mermaid">
 
 flowchart TD
@@ -256,4 +263,3 @@ style F fill:#ffffcc,stroke:#636363
 style G fill:#ccebc5,stroke:#31a354,stroke-width:2px
 
 </div>
-

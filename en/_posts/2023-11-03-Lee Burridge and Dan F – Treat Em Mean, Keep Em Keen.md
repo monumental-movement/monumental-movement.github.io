@@ -10,11 +10,10 @@ tags:
 - Minimal
 - Electro
 title: Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen
-title_en: Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen
 ---
 
 
-Lee Burridge is a British DJ and producer.In the early 1990s, he helped launch Hong Kong's underground club scene.
+Lee Burridge is a British DJ and producer. In the early 1990s, he helped launch Hong Kong's underground club scene.
 
 He is also active as Tyrant Soundsystem with DJ Craig Richards and Sasha.
 
@@ -31,10 +30,9 @@ Dan F also works under other names: Red Buddha, Random Source, and Sinosine.
 A. Treat 'Em Mean, Keep 'Em Keen
 
 B. Skiiiirt
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44311070291?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mbQ_xSiFWgM?si=-m-SyPJ7XcKTeQ14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbQ_xSiFWgM?si=-m-SyPJ7XcKTeQ14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,19 +10,19 @@ tags:
 - Art
 - Culture
 - Anime
-title: 【コラム】 音楽のような漫画家・小池桂一 ― 線が奏でる視覚のリズム
-title_en: '[Column] Music-like manga artist Keiichi Koike - Visual rhythm played by
-  lines'
+title: '[Column] Music-like manga artist Keiichi Koike - Visual rhythm played by lines'
 ---
 
 
-## Prologue: The Line Rings - Keiichi Koike, a “musical manga artist”
+## Prologue: The Line Rings - Keiichi Koike, a "musical manga artist"
+
 
 Text: mmr｜Theme: Thoughts on the fact that Keiichi Koike's manga is "comics that are like music"
 
+
 Keiichi Koike's manga is more like a listening experience than reading it.
 The quivering lines, the contrast between black and white, and the gaps in the page structure convey both silence and noise at the same time.
-In that sense, his manga can be called ``comics that are like music.''
+In that sense, his manga can be called ""comics that are like music.''
 
 ---
 
@@ -41,11 +41,11 @@ color: #fff;
 
 ## Chapter 1: Debut and early activities (1976–1983)
 
-- **1976**: Won the 12th Tezuka Prize for ``Urashima'' and debuted as a manga artist.
+- **1976**: Won the 12th Tezuka Prize for ""Urashima'' and debuted as a manga artist.
 He is attracting attention as the youngest person to be selected.
 - **1981**: Moved to the United States and participated in commercial production at Richard Williams Animation Inc.
 Learn the importance of movement and rhythm through animation techniques.
-- **1983**: ``LANDED'' published in Marvel's ``Epic Illustrated.''
+- **1983**: ""LANDED" published in Marvel's ""Epic Illustrated."
 Expand the range of visual expression by presenting your work internationally.
 
 During this period, the foundations of **temporal/rhythmic expression** in line and screen composition were established.
@@ -57,21 +57,21 @@ During this period, the foundations of **temporal/rhythmic expression** in line 
 - **1986**: First book "SPINOZA" published (Sakushasha).
 Characterized by philosophical themes and abstract visuals.
 **Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
-
-- **1988**: Published ``Katajikenai'' (Hakusensha) and ``G (GATE 1)'' (Schola).
+  
+- **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
 The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
 
 ---
 
-## Chapter 3: “ULTRA HEAVEN” – Music of hallucinations and consciousness (2002–)
+## Chapter 3: "ULTRA HEAVEN" – Music of hallucinations and consciousness (2002–)
 
 - **2002**: "ULTRA HEAVEN" published (Enterbrain).
 The theme is hallucinatory experiences, splitting of consciousness, and altered sense of time.
 The page structure and panel layout function as a musical structure (repetition, variation, wave).
-
-- **2003**: Publication of short story collection ``HEAVEN'S DOOR'', reprint of previously published ``G''.
+  
+- **2003**: Publication of short story collection ""HEAVEN'S DOOR", reprint of previously published ""G".
 Precise lines and visual rhythms give the reader a musical experience.
-
+  
 - **2005**: Volume 2 of "ULTRA HEAVEN" published.
 Long-term serialization deepens the spiritual world and refines the composition and lines.
 
@@ -122,9 +122,11 @@ classDef a fill:#1a1a1a,color:#fff;
 classDef b fill:#2a2a2a,color:#fff;
 classDef c fill:#3a3a3a,color:#fff;
 
+
 </div>
 
 ---
+
 
 ## Chapter 7: Chronology - Keiichi Koike's trajectory
 
@@ -134,13 +136,13 @@ timeline
 title Keiichi Koike Chronology (1976–2005)
 1976: Selected for the 12th Tezuka Prize "Urashima", debuted
 1981: Moved to the United States and participated in commercial production at Richard Williams Animation Inc.
-1983: “LANDED” published in “Epic Illustrated”
-1986: First book “SPINOZA” published
-1988: “Katajikenai” and “G (GATE 1)” published
-2002: “ULTRA HEAVEN” published
+1983: "LANDED" published in "Epic Illustrated"
+1986: First book "SPINOZA" published
+1988: "Katajikenai" and "G (GATE 1)" published
+2002: "ULTRA HEAVEN" published
 2003: "HEAVEN'S DOOR" published, previously published "G" reprinted
-2005: “ULTRA HEAVEN” Volume 2 published
-2009: “ULTRA HEAVEN” Volume 3 published
+2005: "ULTRA HEAVEN" Volume 2 published
+2009: "ULTRA HEAVEN" Volume 3 published
 
 </div>
 
@@ -152,19 +154,18 @@ Keiichi Koike's manga is a musical experience of lines and spaces.
 With each turn of the page, the reader's consciousness ripples and silence rings.
 It is not text or sound effects, but purely visual music.
 
-> “Lines are sound. White and black alternately play silence and noise.” - Keiichi Koike
+> "Lines are sound. White and black alternately play silence and noise." - Keiichi Koike
 
 ---
 
 ## References/Materials
 
-- [Keiichi Koike “SPINOZA” (Sakusha, 1986)](https://amzn.to/4o3cRAl)
+- [Keiichi Koike "SPINOZA" (Sakusha, 1986)](https://amzn.to/4o3cRAl)
 
-- [Keiichi Koike “G” (Schola, 1988)](https://amzn.to/49lDEmS)
+- [Keiichi Koike "G" (Schola, 1988)](https://amzn.to/49lDEmS)
 
-- [Keiichi Koike “ULTRA HEAVEN” (Enterbrain, 2002–)](https://amzn.to/4qrGr49)
+- [Keiichi Koike "ULTRA HEAVEN" (Enterbrain, 2002–)](https://amzn.to/4qrGr49)
 
 - [Keiichi Koike "HEAVEN'S DOOR" (2003)](https://amzn.to/3L6u8dk)
 
 ---
-

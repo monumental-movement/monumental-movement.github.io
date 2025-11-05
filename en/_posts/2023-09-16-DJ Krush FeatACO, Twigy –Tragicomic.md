@@ -9,7 +9,6 @@ tags:
 - Hiphop
 - Triphop
 title: DJ Krush FeatACO, Twigy –Tragicomic
-title_en: DJ Krush FeatACO, Twigy –Tragicomic
 ---
 
 
@@ -24,14 +23,13 @@ ACO is one of the singers who has received high praise both in Japan and abroad 
 A1. Tragicomic Featuring ACO, Twigy
 
 A2. Tragicomic (Instrumental)
-
+ 
 B1. Tragicomic (Beyond Real Mix)
 
 B2. Tragicomic (Beyond Real Mix Instrumental)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20863215408?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kr3VgFLPN18?si=RFniddTgjdd7mg4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kr3VgFLPN18?si=RFniddTgjdd7mg4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

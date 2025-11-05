@@ -9,7 +9,6 @@ tags:
 - House
 - Hard House
 title: Jose 2 Hype – Mirage E.P
-title_en: Jose 2 Hype – Mirage E.P
 ---
 
 
@@ -23,11 +22,10 @@ A1. Jack Attack
 
 A2. Jack Attack (Ghetto Hype Remix)
 
-B.A Bailar
-````
+B. A Bailar
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ff97zRPQPAM?si=lON_HVWZ4sk9qML_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ff97zRPQPAM?si=lON_HVWZ4sk9qML_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

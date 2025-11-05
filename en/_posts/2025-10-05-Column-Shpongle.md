@@ -9,8 +9,7 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: 【コラム】 Shpongle：音の輪廻と意識の旅
-title_en: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
+title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
 ---
 
 
@@ -18,7 +17,8 @@ title_en: '[Column] Shpongle: Reincarnation of sound and journey of consciousnes
 
 Text: mmr｜Theme: Philosophy of the acoustic universe drawn by Raja Ram and Simon Posford
 
-Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram.Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production.Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
+
+Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
 
 ---
 
@@ -34,6 +34,7 @@ color: #fff;
 }
 </style>
 
+
 ## Prologue: Sound is the door to enlightenment
 
 Shpongle is more than just an electronic music unit.
@@ -43,7 +44,7 @@ The members are psychedelic sage Raja Ram (formerly of Quintessence) and sound m
 The band was born in 1996 from a chance session at Twisted Records studios outside London.
 Their sound is a unique "mandala of sound" that combines consciousness, meditation, vision, philosophy, and technology.
 
-> “Shpongle is the experience of enlightenment through hearing.”
+> "Shpongle is the experience of enlightenment through hearing."
 > — Simon Posford
 
 ---
@@ -87,6 +88,7 @@ Shpongle was its philosophical symbol.
 | 2013 | *Museum of Consciousness* | Museum of Consciousness | [Amazon](https://amzn.to/3VPumaU) |
 | 2017 | *Codex VI* | Book of Consciousness = Completion of Reincarnation | [Amazon](https://amzn.to/46DNy1D) |
 
+
 ---
 
 Each album is part of the cycle of life - illusion - enlightenment - rebirth.
@@ -94,15 +96,16 @@ Musical evolution directly corresponds to spiritual evolution.
 
 ---
 
+
 ### Chapter 3: Structural analysis of each song - Reincarnation of sound
 
 | Stage | Song title | Highlights | Philosophical meaning |
 | -- | ---------------------------------- | -------------- | ----------- |
-| Generation | “Divine Moments of Truth” | DMT Sample, Spiral Rhythm | Brahman (Creation) |
-| Expansion | “A New Way to Say Hooray!” | Multilayered Percussion | Lila (Game of the Gods) |
-| Illusion | “Nothing Is Something Worth Doing” | Regeneration from rhythm collapse | Maya (Illusion) |
-| Liberation | “Ineffable Mysteries” | Disappearance of Sound | Moksha (Liberation) |
-| Playback | “The Magumba State” | Return of the Flute | Saṃsāra |
+| Generation | "Divine Moments of Truth" | DMT Sample, Spiral Rhythm | Brahman (Creation) |
+| Expansion | "A New Way to Say Hooray!" | Multilayered Percussion | Lila (Game of the Gods) |
+| Illusion | "Nothing Is Something Worth Doing" | Regeneration from rhythm collapse | Maya (Illusion) |
+| Liberation | "Ineffable Mysteries" | Disappearance of Sound | Moksha (Liberation) |
+| Playback | "The Magumba State" | Return of the Flute | Saṃsāra |
 
 ---
 
@@ -142,10 +145,10 @@ L2017 --> L2020["2020: Shpongle Live at Ozora (video archive)"]
 
 During the live performance, a huge video device called Shpongletron is used.
 Android Jones' visuals are synchronized with the sound.
-Raja Ram will be on stage as a ``ceremonial guru'' and Posford will be a ``sound alchemist.''
+Raja Ram will be on stage as a ""ceremonial guru" and Posford will be a ""sound alchemist."
 The live performance itself becomes an extension of the meditative experience.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -154,9 +157,9 @@ The live performance itself becomes an extension of the meditative experience.
 #### From hippie culture to sonic yoga
 
 In the late 1960s, Raja Ram led Quintessence, introducing Hindu philosophy to rock music.
-He musically put into practice the ideas that ``sound = enlightenment'' and ``sound = god (Nāda Brahma).''
+He musically put into practice the ideas that ""sound = enlightenment" and ""sound = god (Nāda Brahma)."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -184,9 +187,10 @@ class A1965,A1969,A1980,A1994,A1996,A2020 node;
 | **Lila (play)** | Humor and transformation in the song |
 | **Nāda (sound)** | Vibration of the universe = sound itself |
 
+
 For Raja Ram, sound is prayer and Shpongle is his mantra.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -196,7 +200,7 @@ Posford combines classic synths (Virus, Nord Lead, Roland SH-101) with modern DA
 Dozens of layers of sound are layered to intentionally design "resonance with brain waves."
 His works have a consistent three-layered structure: low range = body, overtones = consciousness, and reverberation = spirituality.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -212,10 +216,10 @@ His works have a consistent three-layered structure: low range = body, overtones
 
 - Reconstruction in 3D space (Ambisonics)
 
-> “Rather than creating sounds, I feel like guiding the sounds that appear.”
+> "Rather than creating sounds, I feel like guiding the sounds that appear."
 > — Simon Posford
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -231,12 +235,12 @@ His works have a consistent three-layered structure: low range = body, overtones
 
 #### Hallucinogen (Simon Posford) @ Ozora Festival 2015
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Younger Brother "Spinning Into Place"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -256,7 +260,7 @@ That is reincarnation itself.
 
 - Play Divine Moments of Truth
 
-- Focus on the moment when the sound is “born”
+- Focus on the moment when the sound is "born"
 
 - The layers of sound expand and boundaries disappear.
 
@@ -265,7 +269,7 @@ That is reincarnation itself.
 Scientifically, alpha and theta waves become dominant, leading to a deep meditative state.
 The sound of Shpongle is like a temple bell in the brain.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -279,19 +283,19 @@ He is especially famous for his collaborations with Android Jones (digital visio
 | Artist | Works/Relationship | Features |
 | ----------------- | ----------------- | ---------- |
 | **Android Jones** | Shpongletron Visual | Visual Mandala Generation |
-| **Alex Grey** | Sharing the theme of “sound = light = consciousness” | Fusion expression of the human body and the universe |
+| **Alex Grey** | Sharing the theme of "sound = light = consciousness" | Fusion expression of the human body and the universe |
 
 ---
 
 #### SHPONGLEDROID
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Alex Gray & Shpongle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -310,7 +314,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
 | Polyrhythm | Cognitive delay | Dreamy floating feeling |
 
-Scientifically, Shpongle is a project to ``restructure the brain with sound.''
+Scientifically, Shpongle is a project to ""rebuild the brain with sound.''
 
 ---
 
@@ -324,12 +328,12 @@ Shpongle is a 21st century scripture born at the intersection of technology and 
 Electronic sounds become mantras, beats become meditation, and listening becomes prayer.
 
 Sound is born, changes, returns to silence, and is revived again.
-This endless cycle is the ``Saṃsāra of Sound,'' and it is the very world that Shpongle depicts.
+This endless cycle is the ""Saṃsāra of Sound,'' and it is the very world that Shpongle depicts.
 
-> “Nothing Lasts... But Nothing Is Lost.”
+> "Nothing Lasts... But Nothing Is Lost."
 > - Everything disappears, but nothing is lost.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Irz9PNHqt-Y?si=uVuPKwcOluvrnRII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Irz9PNHqt-Y?si=uVuPKwcOluvrnRII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -340,10 +344,8 @@ The sound transcends science, philosophy, religion, and technology.
 He is reconstructing human consciousness itself as sound.
 
 It's not just music.
-It is an evolution of the act of "listening" itself,
+It is the evolution of the act of "listening" itself,
 It is the mandala of consciousness left to humanity by Raja Ram and Simon Posford.
 
 > "Sound is born, disappears, and returns again. That's what Shpongle is."
-
-
 

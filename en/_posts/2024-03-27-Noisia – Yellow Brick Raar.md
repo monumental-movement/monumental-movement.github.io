@@ -10,11 +10,10 @@ tags:
 - Breaks
 - Electro
 title: Noisia – Yellow Brick Raar
-title_en: Noisia – Yellow Brick Raar
 ---
 
 
-Noisia is a Dutch drum and bass trio that disbanded in 2022.He produces a wide range of music including drum'n'bass, house, breaks, and electronic sounds, and in 2014 he also worked on the remix of LOST CHILD, which was included in Momoiro Clover Z's "Furious Space Symphony - 7th Movement 'Infinite Love' (Emperor Style)".
+Noisia is a Dutch drum and bass trio that disbanded in 2022. He produces a wide range of music including drum"n"bass, house, breaks, and electronic sounds, and in 2014 he also worked on the remix of LOST CHILD, which was included in Momoiro Clover Z"s "Furious Space Symphony - 7th Movement "Infinite Love' (Emperor Style)".
 
 "Yellow Brick / Raar" is a breakout house track released in 2007 by Noisia's own label, Division Recordings.
 
@@ -30,11 +29,10 @@ This is a must-hear record for all noise fans, even if you don't like house musi
 ```md
 a. Yellow Brick
 
-aa.Raar
-````
+aa. Raar
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LPYrnOWLEC4?si=uAQ6gHXQBGEBH8RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPYrnOWLEC4?si=uAQ6gHXQBGEBH8RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

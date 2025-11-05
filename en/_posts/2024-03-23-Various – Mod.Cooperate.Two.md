@@ -10,7 +10,6 @@ tags:
 - Minimal
 - Glitch
 title: Various – Mod.Cooperate.Two
-title_en: Various – Mod.Cooperate.Two
 ---
 
 
@@ -25,10 +24,9 @@ A2. Trike – Hotline
 B1. Metaboman – Witwe Wu
 
 B2. Dubnoodles–Clapcity
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p3Cop_yEm8E?si=2Vvs_J9HSmmCKQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p3Cop_yEm8E?si=2Vvs_J9HSmmCKQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

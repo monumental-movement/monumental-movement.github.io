@@ -10,13 +10,12 @@ tags:
 - Progressive House
 - House
 - 00s
-title: Futureshock – Pride's Paranoia
-title_en: Futureshock – Pride’s Paranoia
+title: Futureshock – Pride"s Paranoia
 ---
 
 
-Futureshock is a band made up of UK DJs and producers Alex Tepper and Phil Dockerty.
-electronic duo by.Mainly active from 1998 to 2003.
+Futureshock are UK DJ/producers Alex Tepper and Phil Dockerty.
+electronic duo by. Mainly active from 1998 to 2003.
 
 "Pride's Paranoia" is a progressive house track released on the label Parlophone in 2003.
 
@@ -30,10 +29,9 @@ A1. Pride's Paranoia (Full Length Version)
 A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
 
 B. Pride's Paranoia (Eric Prydz Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Jq8AvFnL4g?si=L28NA8Ik2M2kFkEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Jq8AvFnL4g?si=L28NA8Ik2M2kFkEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,6 @@ tags:
 - Techno
 - Rare
 title: Technova – Transcience Remixes
-title_en: Technova – Transcience Remixes
 ---
 
 
@@ -24,10 +23,9 @@ A2. Transcience (Slow Down Mix)
 B1. Yeah Sista (303 Version)
 
 B2. Firehorse One (Original Soundtrack Version)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92224497926?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jM29XqSiUIs?si=T2xpKEMZNkU8sD4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jM29XqSiUIs?si=T2xpKEMZNkU8sD4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

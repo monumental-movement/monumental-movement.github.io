@@ -9,7 +9,6 @@ tags:
 - Soul
 - Disco
 title: Passage – Passage
-title_en: Passage – Passage
 ---
 
 
@@ -36,10 +35,9 @@ B2. Power
 B3. Love Eyes
 
 B4. The Son Will Come Again
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

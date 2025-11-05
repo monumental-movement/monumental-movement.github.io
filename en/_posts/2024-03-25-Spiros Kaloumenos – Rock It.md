@@ -9,7 +9,6 @@ tags:
 - Techno
 - 00s
 title: Spiros Kaloumenos – Rock It
-title_en: Spiros Kaloumenos – Rock It
 ---
 
 
@@ -27,15 +26,15 @@ In 2005, he founded his own label, Omega Audio Recordings, with long-time partne
 
 #### Tracklist
 ```md
-A.Rock It
+A. Rock It
 
 B1. Your Speakers Are Dead
 
 B2. Synths Of Fire
-````
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i0WLXs_tMIc?si=F3lGnJB9e08V4mqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i0WLXs_tMIc?si=F3lGnJB9e08V4mqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

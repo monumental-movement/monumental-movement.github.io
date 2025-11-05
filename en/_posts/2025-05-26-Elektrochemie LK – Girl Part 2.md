@@ -11,7 +11,6 @@ tags:
 - Electro
 - 00s
 title: Elektrochemie LK – Girl! Part 2
-title_en: Elektrochemie LK – Girl! Part 2
 ---
 
 
@@ -32,10 +31,9 @@ A2. Girl! (Video Edit)
 
 B1. Let's Roll (Alexander Kowalski Remix)
 B2. Let's Roll (Original Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

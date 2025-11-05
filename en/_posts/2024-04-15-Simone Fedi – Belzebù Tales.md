@@ -10,7 +10,6 @@ tags:
 - House
 - 00s
 title: Simone Fedi – Belzebu Tales
-title_en: Simone Fedi – Belzebu Tales
 ---
 
 
@@ -29,10 +28,9 @@ A. Belzebù Tales
 B1. Judas!
 
 B2. 2m/6ft
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XngQEonoK-E?si=UoALFHyv3mxe3SFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XngQEonoK-E?si=UoALFHyv3mxe3SFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

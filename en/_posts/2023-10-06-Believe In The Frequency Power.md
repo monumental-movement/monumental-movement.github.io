@@ -9,7 +9,6 @@ tags:
 - Techno
 - Acid
 title: Believe In The Frequency Power
-title_en: Believe In The Frequency Power
 ---
 
 
@@ -19,7 +18,7 @@ title_en: Believe In The Frequency Power
 ```md
 A1. Organization–Eternal
 
-A2. Gotham City – Animism
+A2. Gotham City –Animism
 
 A3. Mind Design–Phonetic
 
@@ -33,11 +32,10 @@ B3. Ken Inaoka–Deep Inside Of Me
 
 B4. Palomatic–Halo
 
-B5.Kiyoshi Hazemoto–dawn Of Linen d
-````
+B5. Kiyoshi Hazemoto–Dawn Of Rainland
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,8 +8,7 @@ layout: post
 tags:
 - Art
 - Experimental
-title: '【コラム】 Survival Research Laboratories（SRL）: 機械芸術の先駆者'
-title_en: '[Column] Survival Research Laboratories (SRL): Pioneer of mechanical art'
+title: '[Column] Survival Research Laboratories (SRL): Pioneer of mechanical art'
 ---
 
 
@@ -17,7 +16,8 @@ title_en: '[Column] Survival Research Laboratories (SRL): Pioneer of mechanical 
 
 Text: mmr｜Theme: About an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos.
 
-Survival Research Laboratories (SRL) is an American performance art collective founded in San Francisco in 1978 by Mark Pauline.SRL is known for large-scale performances using machines and robots, aiming to repurpose industrial, scientific, and military technology into artistic and sociopolitical satire.Their work is associated with the art of Dada and Jean Tinguely, and has been praised for questioning the state and direction of technological society.
+
+Survival Research Laboratories (SRL) is an American performance art collective founded in San Francisco in 1978 by Mark Pauline. SRL is known for large-scale performances using machines and robots, aiming to repurpose industrial, scientific, and military technology into artistic and sociopolitical satire. Their work is associated with the art of Dada and Jean Tinguely, and has been praised for questioning the state and direction of technological society.
 
 ---
 
@@ -35,9 +35,10 @@ color: #fff;
 }
 </style>
 
+
 ### Main activities and performances
 
-SRL performances consist of ritualized interactions with machines, robots, and special effects equipment, with only the audience and operators participating as humans.Typical performances include:
+SRL performances consist of ritualized interactions with machines, robots, and special effects equipment, with only the audience and operators participating as humans. Typical performances include:
 
 - **Machine Sex (1979)**: SRL's first performance, which involved using The Demanufacturing Machine to smash objects and throw them at the audience.
 
@@ -49,11 +50,12 @@ SRL performances consist of ritualized interactions with machines, robots, and s
 
 ### Key figures of SRL
 
+
 #### Mark Pauline
 
 Role: Founder (1978-present)/Artistic Director
 
-Background: Graduated from California Institute of the Arts (SFAI).When he was young, he lost his right hand in an explosives accident and was fitted with a prosthetic arm. From this experience, he deepened his expression on the theme of "danger and machinery."
+Background: Graduated from California Institute of the Arts (SFAI). When he was young, he lost his right hand in an explosives accident and was fitted with a prosthetic arm. From this experience, he deepened his expression on the theme of "danger and machinery."
 
 Features: Repurposes industrial machinery and military technology to create socially satirical robot performances.
 
@@ -65,7 +67,7 @@ Currently: Leads SRL from its base in Petaluma, California.
 
 Role: Sound design, mechanical music (mainly from 1980s to 1990s)
 
-Achievements: Converting robots into musical instruments, making it possible to compose and perform music by machines.Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
+Achievements: Converting robots into musical instruments, making it possible to compose and perform music by machines. Later, he became independent and formed "Mechanical Sound Orchestra (MSO)".
 
 Influence: Established SRL's sound that lies between "noise and music".
 
@@ -75,7 +77,7 @@ Influence: Established SRL's sound that lies between "noise and music".
 
 Role: Robotics Engineer
 
-Achievements: Responsible for mechanical control system and electrical design.Developed large robot arms and mobile machines.
+Achievements: Responsible for mechanical control system and electrical design. Developed large robot arms and mobile machines.
 
 ---
 
@@ -87,6 +89,7 @@ Background: A person also known as a hardware hacker.
 
 Achievements: Participated in the development of SRL's machine control infrastructure and special interfaces.
 
+
 ---
 
 #### Other Key Collaborators
@@ -95,7 +98,7 @@ Amy Critchett: Producer/management support.
 
 Karen Marcelo: Serves as a bridge between hacker culture and organizes "dorkbot SF."
 
-Alan Rath: Early member.He later gained acclaim for his unique electronic sculptures.
+Alan Rath: Early member. He later gained acclaim for his unique electronic sculptures.
 
 Gilles Larrain: Collaboration on video and photo records.
 
@@ -117,18 +120,21 @@ A --> G[Alan Rath<br>Electronic Sculptor]
 
 ### SRL's representative DVD/album
 
-SRL also releases DVDs and albums containing acoustic experiences of performances.Below are some representative albums:
+
+SRL also releases DVDs and albums containing acoustic experiences of performances. Below are some representative albums:
 
 | Title | Description | Link |
 | --------------------------- | ------------ | ----------- |
 | Survival Research Laboratories | DVD Premium BOX Iron Case Specifications | [Amazon](https://amzn.to/3KyG0o2) |
-| Survival Research Laboratories | Contains live recordings from 1992 to 1998.| [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
+| Survival Research Laboratories | Contains live recordings from 1992 to 1998.                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
+
 
 ---
 
 ### SRL influence and cultural significance
 
-SRL is a pioneering fusion of robotics, performance art, and sociopolitical satire.Their works blur the boundaries between technology and art, leaving a strong impression on the audience.SRL's activities influenced events such as Burning Man and Battlebots, and had a huge impact on modern maker culture and kinetic art.
+SRL is a pioneering fusion of robotics, performance art, and sociopolitical satire. Their works blur the boundaries between technology and art, leaving a strong impression on the audience. SRL's activities influenced events such as Burning Man and Battlebots, and had a huge impact on modern maker culture and kinetic art.
+
 
 ---
 
@@ -136,15 +142,16 @@ SRL is a pioneering fusion of robotics, performance art, and sociopolitical sati
 
 #### Founding and early activities (1978-1980s)
 
-Survival Research Laboratories (SRL) was founded in San Francisco in 1978 by Mark Pauline.SRL is known for its artistic reinterpretation of industrial, military, and science and technology, and its performances using machines and robots.Early performances included ``Machine Sex'' (1979) and ``Illusions of Shameless Abundance'' (1989), which made a strong impression on audiences.
+Survival Research Laboratories (SRL) was founded in San Francisco in 1978 by Mark Pauline. SRL is known for its artistic reinterpretation of industrial, military, and science and technology, and its performances using machines and robots. Early performances included ""Machine Sex" (1979) and ""Illusions of Shameless Abundance" (1989), which made a strong impression on audiences.
 
 #### Relocation and new base (2007-present)
 
-In 2007, SRL moved to Petaluma, about an hour north of San Francisco.This move was made with 180 tons of equipment being moved due to rising rents for the San Francisco warehouse.Today, SRL is located at 839 N. Petaluma Blvd in Petaluma, where they build machines and prepare for performances in a large garage.
+In 2007, SRL moved to Petaluma, about an hour north of San Francisco. This move was made with 180 tons of equipment being moved due to rising rents for the San Francisco warehouse. Today, SRL is located at 839 N. Petaluma Blvd in Petaluma, where they build machines and prepare for performances in a large garage.
 
 #### Current activities and prospects
 
-SRL continues to perform using machines and robots, and in recent years has participated in events such as Burning Man.We are also pursuing the fusion of technology and art, such as developing machines that can be controlled remotely via the Internet.
+SRL continues to perform using machines and robots, and in recent years has participated in events such as Burning Man. We are also pursuing the fusion of technology and art, such as developing machines that can be controlled remotely via the Internet.
+
 
 ---
 
@@ -154,9 +161,10 @@ SRL continues to perform using machines and robots, and in recent years has part
 - [Instagram](https://www.instagram.com/survivalresearchlabs/)
 - [YouTube Channel](https://www.youtube.com/user/survivalresearchlabs)
 
+
 ---
+
 
 ### Conclusion
 
-Survival Research Laboratories is an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos.Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks.SRL's activities will continue to provide inspiration to many artists and engineers.
-
+Survival Research Laboratories is an innovative group that questions the relationship between machines and humans, technology and art, and order and chaos. Their work offers a sharp critique of the role and influence of technology in modern society through visual and auditory shocks. SRL's activities will continue to provide inspiration to many artists and engineers.

@@ -10,7 +10,6 @@ tags:
 - Tech House
 - German Techno
 title: Bad Pimps – Give It
-title_en: Bad Pimps – Give It
 ---
 
 
@@ -25,10 +24,9 @@ A. Give.It.!
 B1. Move It In A Dirty Way But Maybe That's To Long Monika?
 
 B2. Get On Up!
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

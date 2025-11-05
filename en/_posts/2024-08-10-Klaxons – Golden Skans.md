@@ -10,11 +10,10 @@ tags:
 - Tech House
 - 00s
 title: Klaxons – Golden Skans
-title_en: Klaxons – Golden Skans
 ---
 
 
-A remix of ``Golden Skans'' by the rock band Klaxons, formed in New Cross, UK in 2005.
+A remix of ""Golden Skans'' by the rock band Klaxons, formed in New Cross, UK in 2005.
 
 The first track on side A is a remix by SebastiAn, an electronic musician and DJ affiliated with Ed Banger Records/Ed Rec.
 
@@ -28,10 +27,9 @@ A1. Golden Skans (SebastiAn Remix)
 A2. Golden Skans (Surkin Remix)
 
 B. Golden Skans (Erol Ekstra Special Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20825247646?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q-SJjFcnsGs?si=vm9-1aS8md_fZL2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-SJjFcnsGs?si=vm9-1aS8md_fZL2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

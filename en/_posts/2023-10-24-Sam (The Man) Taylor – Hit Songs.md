@@ -10,7 +10,6 @@ tags:
 - Nostalgic
 - 70s
 title: Sam (The Man) Taylor – Hit Songs
-title_en: Sam (The Man) Taylor – Hit Songs
 ---
 
 
@@ -18,38 +17,36 @@ title_en: Sam (The Man) Taylor – Hit Songs
 
 #### Tracklist
 ```md
-A1. Koi Hitosuji – Shinichi Mori
+A1. 恋ひとすじ – 森進一
 
-A2. Love without meeting – Hiroshi Uchiyamada and Cool Five
+A2. 逢わずに愛して – 内山田洋とクールファイブ
 
-A3. International Waiting Room – Mina Aoe
+A3. 国際線待合室 – 青江三奈
 
-A4. It’s okay if you’re happy – Naomi Sara
+A4. いいじゃないの幸せなら – 佐良直美
 
-A5. Yanagase at night – Casanova 7
+A5. 夜の柳ヶ瀬 – カサノヴァ７
 
-A6. Lullaby for sleeping alone – Tokiko Kato
+A6. ひとり寝の子守唄 – 加藤登紀子
 
-A7. It was raining in Nagasaki today too – Hiroshi Uchiyamada and Cool Five
+A7. 長崎は今日も雨だった – 内山田洋とクール・ファイブ
 
-B1. Shinjuku Woman – Keiko Fuji
+B1. 新宿の女 – 藤圭子
 
-B2. Between Night and Morning – Peter
+B2. 夜と朝のあいだに – ピーター
 
-B3. Flowers and Tears – Shinichi Mori
+B3. 花と涙 – 森進一
 
-B4. Older woman – Older woman
+B4. 年上の女 – 年上の女
 
-B5. Shianbashi Blues – Akira Nakai, Masaru Takahashi and Coloratino
+B5. 思案橋ブルース – 中井昭・高橋勝とコロラティーノ
 
-B6. Flowers and Butterflies – Shinichi Mori
+B6. 花と蝶 – 森進一
 
-B7. Port Town Blues – Shinichi Mori
-````
+B7. 港町ブルース – 森進一
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
-
-
 
 
 

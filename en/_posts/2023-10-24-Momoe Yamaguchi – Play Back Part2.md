@@ -9,12 +9,11 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 山口百恵 – プレイバックPart2
-title_en: Momoe Yamaguchi – Playback Part 2
+title: Momoe Yamaguchi – Playback Part 2
 ---
 
 
-“Momoe Yamaguchi – Playback Part 2” was released in 1978.
+"Momoe Yamaguchi – Playback Part 2" was released in 1978.
 
 Arrangement: Mitsuo Hagita
 
@@ -24,13 +23,12 @@ Composer: Ryudo Uzaki
 
 #### Tracklist
 ```md
-A. Playback Part 2
+A. プレイバックPart2
 
-B. Betting
-````
+B. 賭け 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

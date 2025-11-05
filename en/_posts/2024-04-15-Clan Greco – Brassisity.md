@@ -10,7 +10,6 @@ tags:
 - Deep House
 - Future Jazz
 title: Clan Greco – Brassisity
-title_en: Clan Greco – Brassisity
 ---
 
 
@@ -42,27 +41,26 @@ A2. Broken
 
 A3. Transaction
 
-B1.Avenida
+B1. Avenida
 
-B2.Astrao
+B2. Astrao
 
-B3. Country Dancing Cowboy
+B3. Country Dansing Cowboy
 
-C1. My Favorite Step
+C1. My Favourite Step
 
 C2. Jazzy Balls
 
 C3. Fat Mirror
 
-D1.Brassisity
+D1. Brassisity
 
 D2. Free Bossa
 
 D3. Full Funk
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

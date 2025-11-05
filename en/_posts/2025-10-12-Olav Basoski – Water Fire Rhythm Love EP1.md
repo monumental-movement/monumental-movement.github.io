@@ -10,7 +10,6 @@ tags:
 - Electro
 - 00s
 title: Olav Basoski – Water Fire Rhythm Love EP1
-title_en: Olav Basoski – Water Fire Rhythm Love EP1
 ---
 
 
@@ -24,10 +23,9 @@ A. Back Of Da Bus
 
 B1. Da Whole Town
 B2. No-1 Rocks
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50607428218?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Q4eFfBaZwk?si=SWnq_Ga-KR_3LVOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Q4eFfBaZwk?si=SWnq_Ga-KR_3LVOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

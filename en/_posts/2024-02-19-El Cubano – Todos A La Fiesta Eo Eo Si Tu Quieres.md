@@ -9,7 +9,6 @@ tags:
 - Euro
 - House
 title: El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres
-title_en: El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres
 ---
 
 
@@ -24,9 +23,7 @@ A2. Eo Eo Si Tu Quieres (Boyz 'N' Da Noize Mix)
 B1. Eo Eo Si Tu Quieres (Club Rumba Mix)
 
 B2. Eo Eo Si Tu Quieres (Original Album Vrs.)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
-
-
 

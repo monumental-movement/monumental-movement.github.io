@@ -12,23 +12,25 @@ tags:
 - 90s
 - 00s
 - History
-title: 【コラム】 ディスコと日本文化の交差から現在まで — 歴史・名盤・機材・クラブ文化
-title_en: '[Column] From the intersection of disco and Japanese culture to the present
+title: '[Column] From the intersection of disco and Japanese culture to the present
   — history, masterpieces, equipment, club culture'
 ---
 
 
+
 ## Consideration from the intersection of 70s disco and Japanese culture to the present
+
 
 Text: mmr｜Theme: Japan's unique reception and development of disco, which developed mainly in the United States in the 1970s
 
-Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology.Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza.In this article, we will trace the relationship between disco and Japanese culture by decade, and organize the most famous records, equipment, club history, and recommended tracks.
+
+Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we will trace the relationship between disco and Japanese culture by decade, and organize the most famous records, equipment, club history, and recommended tracks.
 
 ---
 
 ## 1970s — Birth of disco and its introduction in Japan
 - **Background**
-Established in the United States as a crossroads of gay, Latin, and Afro-American cultures.After the Osaka Expo (1970), ``discotique'' spread with the rapid introduction of Western culture, with Roppongi ``Chianti'' and Akasaka ``Mugen'' becoming symbolic.
+Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread with the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
 
 - **Representative masterpieces (overseas)**
 - Donna Summer — *Love to Love You Baby* (1975)
@@ -41,7 +43,7 @@ Established in the United States as a crossroads of gay, Latin, and Afro-America
 - Jun Inoue — *Thank you for your help (disco style arrangement)*
 
 - **Relationship with Japanese culture**
-It is associated with youth fashion (bell bottoms, psychedelic patterns) and the nightlife culture of Ginza and Roppongi.The movie "Saturday Night Fever" (1977) became a social phenomenon in Japan as well.
+It is associated with youth fashion (bell bottoms, psychedelic patterns) and the nightlife culture of Ginza and Roppongi. The movie "Saturday Night Fever" (1977) became a social phenomenon in Japan as well.
 
 - **Main equipment**
 - Technics SL-1200 (turntable/released in 1972)
@@ -54,6 +56,7 @@ It is associated with youth fashion (bell bottoms, psychedelic patterns) and the
 - Ginza "Now"
 
 ### 10 Recommended Tracks (1970s)
+
 
 <style type="text/css">
 
@@ -70,22 +73,22 @@ color: #fff;
 
 | Track | Artist | Comments |
 |----------|--------------|----------|
-| Love to Love You Baby | Donna Summer | A masterpiece that laid the foundation for sensual vocals and 4/4 beats.|
-| I Feel Love | Donna Summer & Giorgio Moroder | Revolutionary synth-disco track.|
-| Stayin’ Alive | Bee Gees | Global disco anthem.|
-| Le Freak | Chic | A symbol of groove and sophistication.|
-| UFO | Pink Lady | A song that symbolizes Japanese popular disco.|
-| Old Diary | Akiko Wada | A masterpiece that incorporates a soulful singing voice into disco.|
-| Disco Inferno | The Trammps | A timeless classic that set dance floors on fire.|
-| From Here to Eternity | Giorgio Moroder | Predicting the future through mechanical repetition.|
-| Don’t Leave Me This Way | Thelma Houston | A bridge between soul and disco.|
-| YMCA | Village People | World-famous pop disco.|
+| Love to Love You Baby | Donna Summer | A masterpiece that laid the foundation for sensual vocals and 4/4 beats. |
+| I Feel Love | Donna Summer & Giorgio Moroder | Revolutionary synth-disco track. |
+| Stayin" Alive | Bee Gees | Global disco anthem. |
+| Le Freak | Chic | A symbol of groove and sophistication. |
+| UFO | Pink Lady | A song that symbolizes Japanese popular disco. |
+| Old Diary | Akiko Wada | A masterpiece that incorporates a soulful singing voice into disco. |
+| Disco Inferno | The Trammps | A timeless classic that set dance floors on fire. |
+| From Here to Eternity | Giorgio Moroder | Predicting the future through mechanical repetition. |
+| Don"t Leave Me This Way | Thelma Houston | A bridge between soul and disco. |
+| YMCA | Village People | World-famous pop disco. |
 
 ---
 
 ## 1980s — Bubble period and popularization of disco
 - **Background**
-Japan entered a bubble economy period, and large discotheques such as ``Maharaja'' and ``Juliana Tokyo'' were born.The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
+Japan entered a bubble economy period, and large discotheques such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
 
 - **Representative masterpieces (overseas)**
 - Michael Jackson — *Thriller* (1982)
@@ -98,7 +101,7 @@ Japan entered a bubble economy period, and large discotheques such as ``Maharaja
 - Motoharu Sano — *Young Bloods* (1985)
 
 - **Relationship with Japanese culture**
-Formation of the foundation of the "fan dance culture" that continued with Bodycon and Juliana Tokyo.Disco remixes of Western and Japanese music became popular on radio and television.
+Formation of the foundation of the "fan dance culture" that continued with Bodycon and Juliana Tokyo. Disco remixes of Western and Japanese music became popular on radio and television.
 
 - **Main equipment**
 - Roland TR-808 (released in 1980)
@@ -114,22 +117,22 @@ Formation of the foundation of the "fan dance culture" that continued with Bodyc
 
 | Track | Artist | Comments |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | A textbook piece of bassline and groove.|
-| Thriller | Michael Jackson | The world's biggest hit and visual innovation.|
-| Like a Virgin | Madonna | Symbolizes the birth of a female pop icon.|
-| I Feel for You | Chaka Khan | A fusion of hip-hop and disco.|
-| Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco.|
-| DESIRE -Passion- | Akina Nakamori | A fusion of disco beats and pop songs.|
-| Let’s Groove | Earth, Wind & Fire | A bridge from funk to disco.|
-| Word Up! | Cameo | Funk-based disco classic.|
-| Celebration | Kool & The Gang | A classic festival song.|
-| Holiday | Madonna | A masterpiece that set dance floors all over the world ablaze.|
+| Billie Jean | Michael Jackson | A textbook piece of bassline and groove. |
+| Thriller | Michael Jackson | The world's biggest hit and visual innovation. |
+| Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
+| I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
+| Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
+| DESIRE -Passion- | Akina Nakamori | A fusion of disco beat and pop songs. |
+| Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
+| Word Up! | Cameo | Funk-based disco classic. |
+| Celebration | Kool & The Gang | A classic festival song. |
+| Holiday | Madonna | A masterpiece that set dance floors all over the world ablaze. |
 
 ---
 
 ## 1990s — Club culture and revival
 - **Background**
-Even after Japan's bubble burst, disco turned into a "club" culture.Eurobeat and parapara culture emerged mainly in Shibuya.
+Even after Japan's bubble burst, disco turned into a "club" culture. Eurobeat and parapara culture emerged mainly in Shibuya.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Homework* (1997)
@@ -142,7 +145,7 @@ Even after Japan's bubble burst, disco turned into a "club" culture.Eurobeat and
 - globe — *DEPARTURES* (1996)
 
 - **Relationship with Japanese culture**
-Moved from "Juliana Tokyo" to Shibuya Club Culture.The disco generation evolved into the club generation.
+Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved into the club generation.
 
 - **Main equipment**
 - Akai MPC series
@@ -158,22 +161,22 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture.The disco generation evolved 
 
 | Track | Artist | Comments |
 |----------|--------------|----------|
-| Groove Is in the Heart | Deee-Lite | A fusion of psychedelic and dance.|
-| Gonna Make You Sweat | C+C Music Factory | Floor-exploding vocal house.|
-| Music Sounds Better with You | Stardust | The pinnacle of filter house.|
-| Around the World | Daft Punk | Robotic House Revolution.|
-| EZ DO DANCE | TRF | A song that symbolizes Japanese club culture.|
-| Body Feels EXIT | Namie Amuro | A dance number that represents the heyday of TK sound.|
-| Rhythm Is a Dancer | Snap! | A milestone in Eurodance.|
-| What Is Love | Haddaway | A club anthem loved all over the world.|
-| Free | Ultra Naté | A fusion of house and disco spirit.|
-| DEPARTURES | globe | A hit that colored Japan's 90s club scene.|
+| Groove Is in the Heart | Deee-Lite | A fusion of psychedelic and dance. |
+| Gonna Make You Sweat | C+C Music Factory | Floor-exploding vocal house. |
+| Music Sounds Better with You | Stardust | The pinnacle of filter house. |
+| Around the World | Daft Punk | Robotic House Revolution. |
+| EZ DO DANCE | TRF | A song that symbolizes Japanese club culture. |
+| Body Feels EXIT | Namie Amuro | A dance number that represents the heyday of TK sound. |
+| Rhythm Is a Dancer | Snap! | A milestone in Eurodance. |
+| What Is Love | Haddaway | A club anthem loved all over the world. |
+| Free | Ultra Naté | A fusion of house and disco spirit. |
+| DEPARTURES | globe | A hit that colored Japan's 90s club scene. |
 
 ---
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide.The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)
@@ -186,7 +189,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture.The disco generation evolved 
 - CAPSULE — *L.D.K Lounge Designers Killer* (2005)
 
 - **Relationship with Japanese culture**
-Reinterpretations of Nu-Disco and house are popular in Shibuya and Daikanyama.There is also a noticeable revival of 70's fashion in fashion.
+Reinterpretations of Nu-Disco and house are popular in Shibuya and Daikanyama. There is also a noticeable revival of 70's fashion in fashion.
 
 - **Main equipment**
 - Ableton Live (released in 2001)
@@ -197,6 +200,7 @@ Reinterpretations of Nu-Disco and house are popular in Shibuya and Daikanyama.Th
 - Roppongi: Velfarre (~2007), AgeHa (Shinkiba)
 - Shibuya: WOMB, Club Asia
 - Osaka Minami: Underlounge, MOTHER HALL
+
 
 ### 10 Recommended Tracks (2000s)
 
@@ -217,10 +221,10 @@ Reinterpretations of Nu-Disco and house are popular in Shibuya and Daikanyama.Th
 
 ## 2010s — Revival and City Pop Reappraisal
 - **Background**
-Nu-Disco expanded worldwide, and artists such as Caribou and Todd Terje gained popularity.In Japan, city pop was reevaluated worldwide, and Gen Hoshino and CAPSULE inherited the disco context.
+Nu-Disco expanded worldwide, and artists such as Caribou and Todd Terje gained popularity. In Japan, city pop was reevaluated worldwide, and Gen Hoshino and CAPSULE inherited the disco context.
 
 - **Representative masterpieces (overseas)**
-- Todd Terje — *It’s Album Time* (2014)
+- Todd Terje — *It"s Album Time* (2014)
 - Daft Punk — *Random Access Memories* (2013)
 - Hercules & Love Affair — *Blue Songs* (2011)
 
@@ -254,18 +258,19 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electropop-oriented |
+| I Feel Better | Hot Chip | Electro-pop |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
+
 
 ---
 
 ## 2020s — Post-pandemic and house/disco reinterpretation
 - **Background**
-Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention.In Japan, with the ``city pop export boom,'' music with disco grooves spread to the world.
+Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, with the ""city pop export boom,'' music with disco grooves spread to the world.
 
 - **Representative masterpieces (overseas)**
 - Dua Lipa — *Future Nostalgia* (2020)
-- Jessie Ware — *What’s Your Pleasure?* (2020)
+- Jessie Ware — *What"s Your Pleasure?* (2020)
 - Kylie Minogue — *Disco* (2020)
 
 - **Representative masterpiece (Japan)**
@@ -274,7 +279,8 @@ Since the coronavirus pandemic, the value of streaming culture and real parties 
 - iri — *Sparkle* (2020)
 
 - **Relationship with Japanese culture**
-City pop/disco is spreading on TikTok and YouTube.Analog disco events are once again on the rise at clubs in Shibuya and Shinjuku.
+City pop/disco is spreading on TikTok and YouTube. Analog disco events are once again on the rise at clubs in Shibuya and Shinjuku.
+
 
 - **Equipment**
 - Eurorack modular synth
@@ -285,6 +291,7 @@ City pop/disco is spreading on TikTok and YouTube.Analog disco events are once a
 - Roppongi: 1 OAK Tokyo, SEL OCTAGON
 - Shibuya: Vent, DJ Bar Bridge
 - Osaka Minami: Compufunk, Club Ammona
+
 
 ### 10 recommended tracks (2020s)
 
@@ -301,8 +308,9 @@ City pop/disco is spreading on TikTok and YouTube.Analog disco events are once a
 | Cold Heart (Pnau Remix) | Elton John & Dua Lipa | Revival feeling |
 | About Damn Time | Lizzo | Symbol of 70s disco return |
 
+
 ---
 
-# Disco is not a “legacy of the past” but a living rhythm that supports the foundations of modern club and pop culture.
-Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture.In the 1980s, it gave birth to ``Juliana Tokyo'' and ``Maharaja'' along with the bubble, and in the 90s it became integrated into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop.Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.
 
+# Disco is not a "legacy of the past" but a living rhythm that supports the foundations of modern club and pop culture.
+Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture. In the 1980s, it gave birth to ""Juliana Tokyo" and ""Maharaja" along with the bubble, and in the 90s it became integrated into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop. Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.

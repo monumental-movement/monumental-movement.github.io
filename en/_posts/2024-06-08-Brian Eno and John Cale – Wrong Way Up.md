@@ -12,7 +12,6 @@ tags:
 - 90s
 - Rare
 title: Brian Eno & John Cale – Wrong Way Up
-title_en: Brian Eno & John Cale – Wrong Way Up
 ---
 
 
@@ -25,20 +24,19 @@ The song "Spinning Away" is famous for being a cover version by the American roc
 #### Tracklist
 ```md
 A1. Lay My Love
-A2.One Word
+A2. One Word
 A3. In The Backroom
-A4.Empty Frame
+A4. Empty Frame
 A5. Cordoba
 
 B1. Spinning Away
 B2. Footsteps
 B3. Been There Done That
 B4. Crime In The Desert
-B5.The River
-````
+B5. The River
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

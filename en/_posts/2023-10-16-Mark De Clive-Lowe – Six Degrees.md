@@ -9,7 +9,6 @@ tags:
 - House
 - Latin
 title: Mark De Clive-Lowe – Six Degrees
-title_en: Mark De Clive-Lowe – Six Degrees
 ---
 
 
@@ -29,15 +28,14 @@ B3. Day By Day
 
 C1. Restless
 C2. Mindscape
-C3.Control
+C3. Control
 
 D1. Por La Mañana
-D2.Motherland
+D2. Motherland
 D3. El Dîa Perfecto (Reprise)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,7 +8,6 @@ layout: post
 tags:
 - Euro Beat
 title: King Kobra – I Want Your Sex
-title_en: King Kobra – I Want Your Sex
 ---
 
 
@@ -28,10 +27,9 @@ B1. I Want Your Sex (Bonus Mix)
 B2. I Want Your Sex (Radio Edit)
 
 B3. I Want Your Sex (Playback)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54349709741?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UTleGxk8lxA?si=dy1Bt1juayABVet0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTleGxk8lxA?si=dy1Bt1juayABVet0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

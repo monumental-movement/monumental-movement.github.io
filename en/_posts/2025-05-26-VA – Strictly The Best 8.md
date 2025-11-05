@@ -11,7 +11,6 @@ tags:
 - Lovers Rock
 - 90s
 title: VA – Strictly The Best 8
-title_en: VA – Strictly The Best 8
 ---
 
 
@@ -34,10 +33,9 @@ B4. Beres Hammond - Full Attention
 B5. Singing Sweet - When I See You Smile
 B6. Garnet Silk - Place In Your Heart
 B7. Igina & Junior Rodigan - Get Here (If You Can)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6S9dJbPCp4k?si=LZWbphgYK0TsoHtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6S9dJbPCp4k?si=LZWbphgYK0TsoHtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

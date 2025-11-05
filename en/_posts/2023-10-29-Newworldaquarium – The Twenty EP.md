@@ -9,7 +9,6 @@ tags:
 - House
 - Techno
 title: Newworldaquarium – The Twenty EP
-title_en: Newworldaquarium – The Twenty EP
 ---
 
 
@@ -27,11 +26,10 @@ A3. Curse Of The Bloody Puppets
 
 B1. Rox
 
-B2.The Twenty
-````
+B2. The Twenty
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48201041722?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X8jJzS380Pg?si=VOsfle2pxHsl5AnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X8jJzS380Pg?si=VOsfle2pxHsl5AnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

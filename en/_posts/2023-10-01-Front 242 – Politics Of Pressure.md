@@ -9,7 +9,6 @@ tags:
 - EBM
 - Noise
 title: Front 242 – Politics Of Pressure
-title_en: Front 242 – Politics Of Pressure
 ---
 
 
@@ -23,10 +22,9 @@ A1. Don't Crash
 A2. Funkahdafi
 
 B. Commando (Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15772512003?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5bB8aGUB6LQ?si=IrLQl4IKqmpWdIn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5bB8aGUB6LQ?si=IrLQl4IKqmpWdIn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

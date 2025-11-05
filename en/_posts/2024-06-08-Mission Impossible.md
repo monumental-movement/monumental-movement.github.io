@@ -11,7 +11,6 @@ tags:
 - Film
 - 90s
 title: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
-title_en: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
 ---
 
 
@@ -25,10 +24,9 @@ A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
 
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

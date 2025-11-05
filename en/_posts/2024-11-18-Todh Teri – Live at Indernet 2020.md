@@ -10,7 +10,6 @@ tags:
 - House
 - Techno
 title: Todh Teri – Live at Indernet 2020 / Cologne
-title_en: Todh Teri – Live at Indernet 2020 / Cologne
 ---
 
 
@@ -18,11 +17,10 @@ A DJ sound source performed by Todh Teri, a rising star of the Balearics and a m
 
 #### Tracklist
 ```md
-1.Various(60 minutes)
-````
+1. Various(60分)
+```
 DJ Mix – Todh Teri
 
 Jet Set Novelty CD 2020 Summer
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}
-

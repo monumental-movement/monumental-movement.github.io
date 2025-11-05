@@ -9,7 +9,6 @@ tags:
 - Techno
 - Minimal
 title: Troy Pierce – 25 Bitches Vol. I
-title_en: Troy Pierce – 25 Bitches Vol. I
 ---
 
 
@@ -28,10 +27,9 @@ A2. 25 Bitches (Berg Nixon Edit)
 B1. 25 Bitches (Matt John's 25 Pitches Remix)
 
 B2. 25 Bitches (Berg Nixon's Zigzag Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30628826020?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VEiKtFVxo?si=YA0-_11PejkdOymq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VEiKtFVxo?si=YA0-_11PejkdOymq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,6 @@ tags:
 - House
 - Deep House
 title: The Foundation Featuring Jay Williams – Rejoice
-title_en: The Foundation Featuring Jay Williams – Rejoice
 ---
 
 
@@ -26,10 +25,9 @@ B1. Rejoice (Uplifting Mix)
 B2. Rejoice (Roger's Hard Dub)
 
 B3. Rejoice (Churchapella)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fDpEJH7gTXA?si=oArfX-EnGStsPrtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDpEJH7gTXA?si=oArfX-EnGStsPrtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,6 @@ tags:
 - Italo
 - Euro House
 title: Black 4 White – So I Love You Baby
-title_en: Black 4 White – So I Love You Baby
 ---
 
 
@@ -19,17 +18,16 @@ title_en: Black 4 White – So I Love You Baby
 
 #### Tracklist
 ```md
-A1. So I Love You Baby (Dynamic House Mix)
+A1. So I Love You Baby (Dinamic House Mix)
 
-A2. So I Love You Baby (Dynamic House Radio)
+A2. So I Love You Baby (Dinamic House Radio)
 
 B1. So I Love You Baby (Fluid Mix)
 
 B2. So I Love You Baby (Fluid Radio)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99311765932?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yrTgrgm95vw?si=Vj5wTdjIutqpxs9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yrTgrgm95vw?si=Vj5wTdjIutqpxs9l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

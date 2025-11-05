@@ -9,11 +9,10 @@ tags:
 - House
 - UK House
 title: Carl Cox – Dr. Funk
-title_en: Carl Cox – Dr. Funk
 ---
 
 
-"Carl Cox – Dr. Funk" is one of Carl Cox's signature songs.Carl Cox is a world-renowned techno DJ and music producer/artist from the United Kingdom.
+"Carl Cox – Dr. Funk" is one of Carl Cox's signature songs. Carl Cox is a world-renowned techno DJ and music producer/artist from the United Kingdom.
 
 "Dr. Funk" is an energetic and danceable techno track, with a powerful beat, powerful bassline, rhythmic synthesizer melody, and sampling. Carl Cox's DJ skills and producer talent give the song its own personality and charm.
 
@@ -21,15 +20,14 @@ title_en: Carl Cox – Dr. Funk
 
 #### Tracklist
 ```md
-A1 Dr. Funk (Rhythm Masters Remix)
+A1  Dr. Funk (Rhythm Masters Remix)
 
-A2 Dr. Funk (Original Album Version)
+A2  Dr. Funk (Original Album Version)
 
-AA1 Dr. Funk (Ceasefire Remix)
-````
+AA1  Dr. Funk (Ceasefire Remix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98495618584?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4PMhPSwTbyU?si=VlImGB5c5O-Zpy6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4PMhPSwTbyU?si=VlImGB5c5O-Zpy6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

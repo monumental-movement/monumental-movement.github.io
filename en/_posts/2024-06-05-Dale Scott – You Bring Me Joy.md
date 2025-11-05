@@ -12,7 +12,6 @@ tags:
 - Remix
 - 90s
 title: Dale Scott – You Bring Me Joy
-title_en: Dale Scott – You Bring Me Joy
 ---
 
 
@@ -26,11 +25,10 @@ A1. You Bring Me Joy (Original)
 A2. You Bring Me Joy (Joy Again)
 
 B1. You Bring Me Joy (Dale's Joy)
-B2. You Bring Me Joy (6:23 Joy Revival) Remix – Kerri Chandler
-````
+B2. You Bring Me Joy (6:23 Joy Revival)   Remix – Kerri Chandler
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m56965537662?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zoD39QiQqBM?si=frcEAXySczNMz3HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zoD39QiQqBM?si=frcEAXySczNMz3HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,22 +11,21 @@ tags:
 - Techno
 - DAW
 - 00s
-title: 【コラム】 EDMという幻想：デジタル時代の祝祭と再構築
-title_en: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital
-  age'
+title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital age'
 ---
 
 
 ## There is a moment when sound becomes architecture
 
-Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology.How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
+
+Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
 
 A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
 The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
-In the 2010s, cities around the world were reshaped by the sound.The desert of Las Vegas, the forests of Belgium, the bay of Tokyo.
+In the 2010s, cities around the world were reshaped by the sound. The desert of Las Vegas, the forests of Belgium, the bay of Tokyo.
 In this column, we will take a look at EDM's birth, transformation, and "beyond" from the intersection of sound, light, the body, and technology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -43,11 +42,12 @@ color: #fff;
 }
 </style>
 
+
 ### Ⅰ. EDM as a building of light and sound
 
 It was not an extension of the club, but a redesign of the city itself.
-Hundreds of thousands of people jump at the same time.The stage is like the gate of a futuristic city.
-EDM was the ``festival architecture'' of the 21st century.
+Hundreds of thousands of people jump at the same time. The stage is like the gate of a futuristic city.
+EDM was the ""festival architecture'' of the 21st century.
 
 Originally, the word EDM was more of a marketing term than a genre name.
 However, that ambiguity was a symbol of the times.
@@ -58,28 +58,28 @@ Everyone has at least once believed in the illusion that one sound can shake the
 
 ### Ⅱ. Origin: From Chicago to Las Vegas
 
-The origin of the story is in Chicago's ``Warehouse'' in the 1970s.
+The origin of the story is in Chicago's ""Warehouse'' in the 1970s.
 Frankie Knuckles' play turned the club into a community.
 In the 1980s, techno was born in Detroit, and electronic sounds began to tell the story of the future.
 
 Eventually, in the late 2000s, European club culture was "re-imported" to America.
-“Levels” by Avicii, “Don’t You Worry Child” by Swedish House Mafia, “Titanium” by David Guetta.
+"Levels" by Avicii, "Don"t You Worry Child" by Swedish House Mafia, "Titanium" by David Guetta.
 They weren't just songs, they were a "language of light."
-In the 2010s, EDM rose to the center of pop.Underground dreams turned into arena cheers.
+In the 2010s, EDM rose to the center of pop. Underground dreams turned into arena cheers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oAHg2zHfCsk?si=hJI5ruJGYGumfgW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oAHg2zHfCsk?si=hJI5ruJGYGumfgW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### Ⅲ. Evolution of sound design
 
 Behind the sound is a **DAW and synth revolution**.
-Ableton Live, FL Studio, Logic Pro.We live in an era where you can compose music with just a laptop.
+Ableton Live, FL Studio, Logic Pro. We live in an era where you can compose music with just a laptop.
 "Massive" by Native Instruments, "Serum" by Xfer, "Sylenth1" by Lennar Digital.
-What these developments resulted in was the ``weaponization of sound.''
+What these developments resulted in was the ""weaponization of sound.''
 
 Especially side chain compression.
-That unique “pumping” that makes the whole body breathe in time with the kick.
+That unique "pumping" that makes the whole body breathe in time with the kick.
 That's the heartbeat of EDM.
 It was the moment when the techniques of club music were extended to the masses.
 
@@ -96,10 +96,10 @@ The audience becomes "particles of light" and the sound and images are synchroni
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.
-“Democratization of the trance state”——
+"Democratization of the trance state"——
 We live in an era of pseudo-religious experiences where everyone shares the same heartbeat at the same moment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TT32mIg4oqg?si=VpULWMwV7C5zWKj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TT32mIg4oqg?si=VpULWMwV7C5zWKj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -111,9 +111,9 @@ DJs from all over the world exchanged sounds with a single click.
 
 In the late 2010s, EDM became a meme.
 The drop is cut on TikTok and the rhythm goes viral like a GIF.
-The Chainsmokers' ``Closer'' is a symbol of this.
+The Chainsmokers' ""Closer'' is a symbol of this.
 A DJ is both a producer and a **brand**.
-Logos, perfumes, NFTs, headphones—all have become “industries surrounding sound.”
+Logos, perfumes, NFTs, headphones—all have become "industries surrounding sound."
 
 ---
 
@@ -122,7 +122,7 @@ Logos, perfumes, NFTs, headphones—all have become “industries surrounding so
 Eventually, the celebrations start to wear out.
 People tired of the glare of the main stage began to return to dark clubs.
 
-“Introspective EDM” demonstrated by Porter Robinson and Madeon——
+"Introspective EDM" demonstrated by Porter Robinson and Madeon——
 It wasn't a festival, it was a sound dealing with individual emotions.
 Future Bass, Trap, Tech House, Drumstep.
 Genres are branching out, and the term "EDM" no longer has any meaning.
@@ -130,7 +130,7 @@ Genres are branching out, and the term "EDM" no longer has any meaning.
 However, at the heart of it all was always a **admiration for technology**.
 The resonance between humans and machines, that pleasure, was the essence of EDM.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQnC1UHBvWA?si=khowiakWOxE7IUvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQnC1UHBvWA?si=khowiakWOxE7IUvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -141,7 +141,7 @@ When ULTRA JAPAN landed and ZEDD and Hardwell came to Japan,
 The sky over the bay was filled with light.
 
 In Japan, it was first introduced as a "festival" rather than a club.
-This may have been an expression of their ``desire for community.''
+This may have been an expression of their ""desire for community.''
 
 Yasutaka Nakata, Perfume, Ado——
 J-POP absorbed the structure of EDM and evolved into a more dramatic and visual sound.
@@ -154,7 +154,7 @@ Japanese EDM has taken on a new form: an introverted celebration.
 ### VIII. Technology and Spirit: Utopia drawn by machines
 
 We have now entered an era where AI generates music in real time.
-Still, people still seek ``drops.''
+Still, people still seek ""drops.''
 This is because there are moments when your body senses time.
 
 DJs are no longer just "music selectors."
@@ -179,7 +179,7 @@ The crowd becomes an avatar, and the light flows as a code.
 
 EDM isn't over.
 It's just changing form.
-**The digital celebration isn't over yet.**
+**The digital celebration isn't over yet. **
 
 ---
 
@@ -233,7 +233,5 @@ A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 | Plug-in | Waves L2/FabFilter Pro-L | Mastering standard that supported the loudness wars |
 | DJ equipment | Pioneer CDJ series | Global standard DJ play equipment |
 | Monitor | KRK Rokit/Yamaha HS5 | A must-have monitor for bedroom producers |
-
-
 
 

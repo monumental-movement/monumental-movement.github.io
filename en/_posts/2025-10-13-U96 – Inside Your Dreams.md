@@ -12,7 +12,6 @@ tags:
 - Techno
 - 90s
 title: U96 – Inside Your Dreams
-title_en: U96 – Inside Your Dreams
 ---
 
 
@@ -25,10 +24,9 @@ The non-album song "Inside Your Dreams" released in 1994 was a Progressive House
 A. Inside Your Dreams (Phase 1)
 
 B. Inside Your Dreams (Phase 2)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87927697829?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb-RVfdwbAU?si=u2CFoka5csqKenp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb-RVfdwbAU?si=u2CFoka5csqKenp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,6 @@ tags:
 - UK House
 - 00s
 title: Kujay Dada – Let It Play
-title_en: Kujay Dada – Let It Play
 ---
 
 
@@ -24,10 +23,9 @@ A. Let It Play (Lovedance Club Mix)
 
 B1. Let It Play (Deep South Mix)
 B2. Let It Play (Lovegrooves Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37046875866?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aDif4FM9A3c?si=xt2WguDLFNyAOA-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDif4FM9A3c?si=xt2WguDLFNyAOA-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

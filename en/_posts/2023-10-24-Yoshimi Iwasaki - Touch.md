@@ -10,12 +10,11 @@ tags:
 - Nostalgic
 - Theme
 - 7inch
-title: 岩崎良美 – タッチ
-title_en: Yoshimi Iwasaki – Touch
+title: Yoshimi Iwasaki – Touch
 ---
 
 
-“Yoshimi Iwasaki – Touch” was released in 1985.
+"Yoshimi Iwasaki – Touch" was released in 1985.
 
 Lyrics – Kangjinhua
 
@@ -23,13 +22,12 @@ Music & Arrangement – ​​Hiroaki Serizawa
 
 #### Tracklist
 ```md
-A. Touch
+A. タッチ
 
-B. Without you
-````
+B. 君がいなければ
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fQznd-eltAQ?si=P-oIwdUC2uAGJFqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQznd-eltAQ?si=P-oIwdUC2uAGJFqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

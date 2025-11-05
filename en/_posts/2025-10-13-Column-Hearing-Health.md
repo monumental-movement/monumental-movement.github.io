@@ -8,15 +8,16 @@ layout: post
 tags:
 - History
 - Ambient
-title: 【コラム】 聴くという奇跡──Hearing Health Foundationが描く“音”の未来
-title_en: '[Column] The miracle of listening: the future of “sound” envisioned by
-  the Hearing Health Foundation'
+title: '[Column] The miracle of listening: the future of "sound" envisioned by the
+  Hearing Health Foundation'
 ---
 
 
 ## Introduction: Poetics of the sense of hearing
 
-Text: mmr | Theme: The ear is a small universe.Explore the mysteries and future of the act of "listening" through HHF's activities that support hearing research, prevention, and regeneration.
+
+Text: mmr | Theme: The ear is a small universe. Explore the mysteries and future of the act of "listening" through HHF's activities that support hearing research, prevention, and regeneration.
+
 
 > "Silence is the most important part of music"
 > — Miles Davis
@@ -41,6 +42,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. The science of listening: the universe inside your ears
 
@@ -78,7 +80,7 @@ Research on cell therapy and gene therapy to regenerate lost hair cells is progr
 This is an experiment in the future that will make the recovery of "listening" a reality.
 
 Technological innovations in cochlear implants and new hearing aids are also remarkable.
-From “amplifying sound” to “delivering it directly to the brain”.
+From "amplifying sound" to "delivering it directly to the brain".
 In the field of sound design, research on "auditory UI" using brain waves is accelerating.
 
 ### ▶︎ Diagram: Auditory signal pathway (from sound waves to auditory cortex)
@@ -127,11 +129,11 @@ Brain -->|Cognition| Auditory experience
 
 ---
 
-<caption>A diagram that follows the time series of sound waves from when they enter the ear until they are given meaning in the cerebral cortex.The brainstem, inferior colliculus, and thalamus (MGN) perform relay and preprocessing, and the information is finally recognized and interpreted in the auditory cortex.Attention, memory, and emotional circuits influence this process.</caption>
+<caption>A diagram that follows the time series of sound waves from when they enter the ear until they are given meaning in the cerebral cortex. The brainstem, inferior colliculus, and thalamus (MGN) perform relay and preprocessing, and the information is finally recognized and interpreted in the auditory cortex. Attention, memory, and emotional circuits influence this process. </caption>
 
 ---
 
-This route is an “auditory journey.”
+This route is an "auditory journey."
 The physical tremors in the air eventually sublimate into "music" connected to emotions and memories.
 Research on the complex hierarchical structure is also applied to the design of speech recognition models for artificial intelligence.
 
@@ -149,7 +151,7 @@ Protecting your hearing is also a form of "artistic self-care" that allows you t
 
 ---
 
-## 5. The fate of musicians and the ear: “Cultural history of hearing” interpreted through anecdotes
+## 5. The fate of musicians and the ear: "Cultural history of hearing" interpreted through anecdotes
 
 - **Beethoven**: Completed the Ninth in the despair of hearing loss.
 - **Pete Townshend (The Who)**: Lost his hearing due to the loud noise of a live performance and started campaigning to raise awareness of hearing protection.
@@ -174,19 +176,19 @@ It features actual experiences and columns from experts, and proposes ear health
 
 ## 7. Conclusion: The future of listening
 
-“Music is the art of listening, and listening is living.”
+"Music is the art of listening, and listening is living."
 — John Cage
 
 The science of hearing is also the science of our sensibilities.
-The reproduction of sound may be the ``reproduction of human existence.''
+The reproduction of sound may be the ""reproduction of human existence.''
 The Hearing Health Foundation's activities transcend the boundaries between medicine and art.
-It quietly illuminates the future of the culture surrounding “listening.”
+It quietly illuminates the future of the culture surrounding "listening."
 
 ---
+
 
 ## Reference links
 
 - [Hearing Health Foundation Official Website](https://hearinghealthfoundation.org)
 - [Hearing Health Magazine](https://hearinghealthfoundation.org/magazine)
 - [#KeepListening Campaign](https://hearinghealthfoundation.org/keeplistening)
-

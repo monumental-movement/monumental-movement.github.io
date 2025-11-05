@@ -10,11 +10,10 @@ tags:
 - Progressive
 - Rock
 title: Zeni Geva – 10000 Light Years
-title_en: Zeni Geva – 10000 Light Years
 ---
 
 
-“Zeni Geva – 10000 Light Years” is
+"Zeni Geva – 10000 Light Years" is
 Album promo recorded at Chicago Electrical Audio in October 2000.
 
 #### Tracklist
@@ -27,10 +26,9 @@ Album promo recorded at Chicago Electrical Audio in October 2000.
 6. Last Nanosecond
 7. Hazchem
 8. Auto-Fuck
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

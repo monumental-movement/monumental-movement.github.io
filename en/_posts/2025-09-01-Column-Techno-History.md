@@ -9,8 +9,7 @@ tags:
 - Techno
 - Detroit Techno
 - Minimal
-title: 【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史
-title_en: '[Column] From the origins of techno to the present - A chronological history
+title: '[Column] From the origins of techno to the present - A chronological history
   traced through famous records and equipment'
 ---
 
@@ -19,7 +18,8 @@ title_en: '[Column] From the origins of techno to the present - A chronological 
 
 Text: mmr｜Theme: Historical background of techno by decade, representative masterpieces, and changes in equipment
 
-The history of techno was born and evolved from the relationship between "cities" and "machines."Below, we will summarize the historical background, representative masterpieces, and changes in equipment by decade.
+
+The history of techno was born and evolved from the relationship between "cities" and "machines." Below, we will summarize the historical background, representative masterpieces, and changes in equipment by decade.
 
 ---
 
@@ -30,10 +30,10 @@ The history of techno was born and evolved from the relationship between "cities
 
 **Masterpiece**
 - Kraftwerk – *Trans-Europe Express* (1977)
-- Donna Summer – “I Feel Love” (1977, prod. Giorgio Moroder)
+- Donna Summer – "I Feel Love" (1977, prod. Giorgio Moroder)
 - Yellow Magic Orchestra – *Solid State Survivor* (1979)
 
-**Equipment**
+**equipment**
 - Moog/ARP/EMS Modular
 -Roland CR-78
 - Maestro Rhythm King
@@ -46,12 +46,12 @@ The history of techno was born and evolved from the relationship between "cities
 - The advent of MIDI (1983) and the spread of digital equipment
 
 **Famous album/track**
-- Cybotron – “Clear” (1983)
-- Model 500 – “No UFOs” (1985)
-- Rhythim Is Rhythim – “Strings of Life” (1987)
-- Inner City – “Big Fun” (1988)
+- Cybotron – "Clear" (1983)
+- Model 500 – "No UFOs" (1985)
+- Rhythim Is Rhythim – "Strings of Life" (1987)
+- Inner City – "Big Fun" (1988)
 
-**Equipment**
+**equipment**
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
@@ -71,9 +71,9 @@ The history of techno was born and evolved from the relationship between "cities
 - Basic Channel – *BCD* (1994)
 - Robert Hood – *Minimal Nation* (1994)
 - Plastikman – *Sheet One* (1993)
-- Jeff Mills – “The Bells” (1997)
+- Jeff Mills – "The Bells" (1997)
 
-**Equipment**
+**equipment**
 - Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
@@ -84,7 +84,7 @@ The history of techno was born and evolved from the relationship between "cities
 
 ---
 
-### 2000s: Minimalism - the dawn of micro-house and “in the box”
+### 2000s: Minimalism - the dawn of micro-house and "in the box"
 **Background of the times**
 - PC production becomes popular, VST becomes commonplace
 - Cologne, Berlin and Chilean artists lead the way
@@ -95,7 +95,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Kompakt – *Total* Series (2000–)
 - Richie Hawtin – *DE9 | Closer to the Edit* (2001)
 
-**Equipment**
+**equipment**
 - Ableton Live (2001–)
 - Reason (2000–)
 - Native Instruments Reaktor / Absynth
@@ -117,7 +117,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Surgeon – *From Farthest Known Objects* (2016)
 - Skee Mask – *Compro* (2018)
 
-**Equipment**
+**equipment**
 - Eurorack (Mutable Instruments, Make Noise, Intellijel)
 - Elektron Octatrack / Analog Rytm
 - Roland AIRA TR-8
@@ -137,7 +137,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Hard techno ~ Schranz comeback
 - Recontextualization of trans motifs
 
-**Equipment**
+**equipment**
 - Elektron Digitakt / Digitone
 - Roland TR-8S / MC-707
 - ASM Hydrasynth
@@ -147,7 +147,7 @@ The history of techno was born and evolved from the relationship between "cities
 
 ---
 
-### Summary of “major changes” in equipment
+### Summary of "major changes" in equipment
 1. **1980s: x0x lineage** – 808/909/303 + analog monosynth
 2. **1990s: Sampler era** – Akai/E-mu + mixer + outboard
 3. **2000s: In the Box** – DAW+VST
@@ -158,7 +158,7 @@ The history of techno was born and evolved from the relationship between "cities
 
 ### Listening list for every 10 years
 - **1970s**: Kraftwerk – *Trans-Europe Express*
-- **1980s**: Model 500 – “No UFOs”/Rhythim Is Rhythim – “Strings of Life”
+- **1980s**: Model 500 – "No UFOs"/Rhythim Is Rhythim – "Strings of Life"
 - **1990s**: Basic Channel – *BCD*／Plastikman – *Sheet One*
 - **2000s**: Villalobos – *Alcachofa*／Monolake – *Gravity*
 - **2010s**: Objekt – *Flatland*／Skee Mask – *Compro*
@@ -166,9 +166,10 @@ The history of techno was born and evolved from the relationship between "cities
 
 ---
 
-### Summary
+### summary
 The core of techno is "repetition" and "sound design."
-Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics of the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
+Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics from the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
+
 
 ---
 
@@ -181,4 +182,3 @@ Rhythms directly descended from x0x, sound image design of samplers, editing aes
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
-

@@ -10,11 +10,10 @@ tags:
 - Anthem
 - 00s
 title: Samuel L – Day n' Night
-title_en: Samuel L – Day n' Night
 ---
 
 
-Samuel L is a Swedish tribal techno DJ and producer."Day n' Night" is a techno track released in 2001 from SSL, which he runs.
+Samuel L is a Swedish tribal techno DJ and producer. "Day n' Night" is a techno track released in 2001 from SSL, which he runs.
 
 The song "Merengue" was remixed by Slam and Oliver Ho in 2002 and became a club hit.
 
@@ -22,7 +21,7 @@ This track represents the changes in the techno scene since the release of the D
 
 Needless to say, the success of "Knights Of The Jaguar" had a huge impact on the techno scene, and many artists began pursuing harder and more aggressive sounds, leading techno to evolve into more experimental and avant-garde music.
 
-Samuel L's ``Day n' Night'' is a representative work of techno sound after the groundbreaking ``Knights Of The Jaguar'', which was a turning point in the techno scene, and was also a major influence.
+Samuel L's ""Day n' Night" is a representative work of techno sound after the groundbreaking ""Knights Of The Jaguar", which was a turning point in the techno scene, and also had a great influence.
 
 Among the techno tracks from 2001, it's a techno sound right after the millennium, with funky elements intertwined with a straight beat, a pleasant bass drum, no breaks or vocals, just music playing.
 
@@ -34,13 +33,12 @@ A1.Outer Track. Merengue
 
 A2. Inner Track. Merengue (Faze)
 
-B1. Outer Track. Within
+B1. Outer Track. Whithin
 
 B2. Inner Track. Black On Black
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

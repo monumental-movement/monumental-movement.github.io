@@ -10,7 +10,6 @@ tags:
 - Jazz
 - Deep House
 title: Shazz + StGermain Feat. Derek Bays – Muse Q The Music
-title_en: Shazz + StGermain Feat. Derek Bays – Muse Q The Music
 ---
 
 
@@ -27,10 +26,9 @@ A1. Muse Q The Music
 A2. Muse Q The Music (Rhythm Appella)
 
 B. Muse Q The Music (Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75396316896?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1NxtT_EK-Qc?si=Oq4wlud-ftc4c61J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NxtT_EK-Qc?si=Oq4wlud-ftc4c61J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,6 @@ tags:
 - Tech House
 - 00s
 title: VA – Mellow Beats, Spirits & Wisdom
-title_en: VA – Mellow Beats, Spirits & Wisdom
 ---
 
 
@@ -34,14 +33,13 @@ A jazzy & mellow HIPHOP compilation album selected and supervised by Toru Hashim
 13. Platinum Pied Pipers – 50 Ways To Leave Your Lover
 14. Jazzanova – L.O.V.E. And You And I
 15. Superscientifiku – Recall Math
-16. Kev Brown – Can’t Stay Away
+16. Kev Brown – Can't Stay Away
 17. Melomaniac – Front To Back
 18. Unison – Sound Networks
 19. Noel Zancanella – Lovely
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+#### Youtbue
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

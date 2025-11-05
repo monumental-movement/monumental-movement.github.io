@@ -10,7 +10,6 @@ tags:
 - Downtempo
 - Rare
 title: Abe Duque – Don't Be So Mean Part I
-title_en: Abe Duque – Don't Be So Mean Part I
 ---
 
 
@@ -35,9 +34,7 @@ A1. Don't Be So Mean (Part I)
 A2. Vinyl Is Dead
 
 B. Salute The Dawn Featuring – Tijana T
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
-
-
 

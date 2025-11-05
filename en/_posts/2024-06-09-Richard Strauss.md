@@ -10,7 +10,6 @@ tags:
 - Romantic
 - Opera
 title: Richard Strauss
-title_en: Richard Strauss
 ---
 
 
@@ -22,16 +21,15 @@ title_en: Richard Strauss
 #### Tracklist
 ```md
 Four Last Songs
-"Four final songs"
+「4つの最後の歌」
 A1. Frühling
-A2.September
+A2. September
 A3. Beim Schlafengehen
 A4. Im Abendrot
 
 Capriccio, Op. 85
-"Capriccio (opera)"
+「カプリッチョ (オペラ)」
 B1. Morgen Mittag Um Elf (Closing Scene)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
-

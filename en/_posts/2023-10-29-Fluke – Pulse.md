@@ -9,7 +9,6 @@ tags:
 - House
 - Progressive
 title: Fluke – Pulse
-title_en: Fluke – Pulse
 ---
 
 
@@ -21,11 +20,10 @@ Side A is a remix by British progressive house DJ Trisco (Harvey Dawson).
 ```md
 A. Pulse (Trisco Remix)
 
-B.Pulsed
-````
+B. Pulsed
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13532909371?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pwOhqN5IywA?si=o1Svna_R6qkr_DoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwOhqN5IywA?si=o1Svna_R6qkr_DoO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

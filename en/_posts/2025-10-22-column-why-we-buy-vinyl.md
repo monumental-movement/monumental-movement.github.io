@@ -8,15 +8,15 @@ layout: post
 tags:
 - Vinyl
 - Psychology
-title: 【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学
-title_en: '[Column] Why do we buy records when we are tired of digital: Psychology
-  of returning to records'
+title: '[Column] Why do we buy records when we are tired of digital: Psychology of
+  returning to records'
 ---
 
 
 ## Prologue: Escape from the perfect sound
 
-Text: mmr | Theme: Why do people abandon digital perfection and return to analog imperfection?Exploring the psychology and culture of returning to records
+
+Text: mmr | Theme: Why do people abandon digital perfection and return to analog imperfection? Exploring the psychology and culture of returning to records
 
 Spotify, Apple Music, YouTube Music.
 We are now in an era where sounds from all over the world are available with just a tap.
@@ -30,7 +30,7 @@ The action of dropping the needle, the feel of opening the jacket, the fluctuati
 It's more like a ritual than "listening."
 
 Why do people return to inconvenient media?
-The psychological ``desire for contact'' and ``memory circuits'' are deeply involved.
+The psychological ""desire for contact" and ""memory circuits" are deeply involved.
 
 ---
 
@@ -47,37 +47,38 @@ color: #fff;
 }
 </style>
 
-## Chapter 1: Memories of “touch” taken away by digital
+
+## Chapter 1: Memories of "touch" taken away by digital
 
 When the CD was introduced in 1982, the world rejoiced.
-Noiseless, long-lasting, and highly durable.Music has become data, and media has become transparent.
+Noiseless, long-lasting, and highly durable. Music has become data, and media has become transparent.
 
-However, **that transparency was the “problem”**.
+However, **that transparency was the "problem"**.
 
 Digital sound is so perfect that it lacks a sense of presence.
 Sounds you can't touch, playlists you can replace.
 What psychologist Winnicott calls a "transitional object"
-In other words, the presence of a ``stuffed toy'' that makes children feel safe has been lost in music.
+In other words, the presence of a ""stuffed toy'' that makes children feel safe has been lost in music.
 
 Records are the exact opposite.
 The discs are heavy, absorb dust, are sensitive to temperature, and even spin out of order.
-It is like a ``living thing'' and will not make a sound unless you touch it.
+It is like a ""living thing'' and will not make a sound unless you touch it.
 This **troublesomeness actually creates attachment**.
 
 ---
 
 ## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-The moment the needle drops, there's a ``sah'' noise.
+The moment the needle drops, there's a ""sah'' noise.
 For some reason, many people feel nostalgic just by listening to it.
 
 This phenomenon is psychologically called the "Proust effect."
 This is a phenomenon in which stimulation of the five senses, such as smells and sounds, evokes memories.
 The noise of the record makes the passage of time itself audible.
-In other words, the act of listening to a record is also ``an act of reuniting with the past.''
+In other words, the act of listening to a record is also ""an act of reuniting with the past.''
 
-If digital sound is “currently ongoing” sound,
-Analog sound is the “reverberation of memory.”
+If digital sound is "currently ongoing" sound,
+Analog sound is the "reverberation of memory."
 
 ---
 
@@ -99,9 +100,9 @@ Unconsciously, we seek a sound that is not too formal.
 
 Records are also **sound sculptures**.
 The act of carving out sound is to confine time into matter.
-Friedrich Kittler stated this in ``Media Archeology.''
+Friedrich Kittler stated this in ""Media Archeology.''
 
-> “Media determine our situation.”
+> "Media determine our situation."
 (The media determines our situation)
 
 As sound evolves from "recording" to "playback",
@@ -116,9 +117,9 @@ Within this simple mechanism, there is a **dialogue between time and the body**.
 
 Generation Z record buyers
 Actually, I don't know about the "analog era".
-Still, they “buy” records and “display them” on their shelves.
+Still, they "buy" records and "display them" on their shelves.
 
-For them, records are not ``archives'' or ``collections.''
+For them, records are not ""archives" or ""collections."
 Rather, it functions as "evidence of experience."
 
 The artistry of the jacket, the act of turning the disc over,
@@ -130,15 +131,15 @@ This is also an expression of **anti-transparency culture** in the digital age.
 ## Chapter 6: Future Nostalgia ─ Analog Emotions in the AI ​​Era
 
 Music can now be generated infinitely thanks to generation AI.
-Fluid ``generative music'' where you can never play the same song twice.
+Fluid ""generative music'' where you can never play the same song twice.
 As a reaction to this, people are starting to seek fixed substances.
 
-“Analog regression” is no longer a nostalgic thing.
-That is **rediscovering ``humanity'' in the age of AI**.
+"Analog regression" is no longer a nostalgic thing.
+That is **rediscovering ""humanity'' in the age of AI**.
 
 ---
 
-## Final Chapter: Records teach us “happiness of imperfection”
+## Final Chapter: Records teach us "happiness of imperfection"
 
 The sound of records is not perfect.
 Distortion, dust, and deterioration of the disc -- all of that is etched into the sound.
@@ -175,7 +176,7 @@ A2010 --> A2020["2020s: Signs of AI music and analog recombination"]
 The analog ghost is more than just a retro hobby.
 It is a symbol of the question of how humans interact with memory, touch, and time.
 
-The ``soul of sound'' that resides at the tip of the needle continues to rotate quietly.
+The ""soul of sound'' that resides at the tip of the needle continues to rotate quietly.
 
 ---
 
@@ -185,7 +186,6 @@ The ``soul of sound'' that resides at the tip of the needle continues to rotate 
 | ---------------------------------------------------- | --------------------------------- | -------------------------- | ------------------------------------------------- |
 | *Musicophilia: Tales of Music and the Brain* | Oliver Sacks | Vintage Books | [Amazon](https://amzn.to/48AVBxw) |
 | *Noise: The Political Economy of Music* | Jacques Attali | University of Minnesota Press | [Amazon](https://amzn.to/3WifuSz) |
-| *Retromania: Pop Culture’s Addiction to Its Own Past* | Simon Reynolds | Faber & Faber | [Amazon](https://amzn.to/42RokKQ) |
+| *Retromania: Pop Culture"s Addiction to Its Own Past* | Simon Reynolds | Faber & Faber | [Amazon](https://amzn.to/42RokKQ) |
 | *How Music Works* | David Byrne | Crown Archetype | [Amazon](https://amzn.to/42UI0xs) |
 | *Vinyl: The Analogue Record in the Digital Age* | Dominik Bartmanski & Ian Woodward | Bloomsbury | [Amazon](https://amzn.to/47ANEY7) |
-

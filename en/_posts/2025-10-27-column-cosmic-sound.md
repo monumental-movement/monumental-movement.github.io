@@ -10,22 +10,21 @@ tags:
 - Ambient
 - House
 - Italo
-title: 【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る
-title_en: '[Column] Cosmic Sound and Daniele Baldelli - dancing between space and
-  speed'
+title: '[Column] Cosmic Sound and Daniele Baldelli - dancing between space and speed'
 ---
 
 
 ## 1. Prologue: Where space disco was born
+
 
 Text: mmr｜Theme: Tracing the unique sound philosophy created by a different-dimensional mix, speed manipulation, and the fusion of folk music and electronic sounds.
 
 Late 1970s, on the shores of Lake Garda in northern Italy.
 Little did anyone know that this place, which was just a resort for tourists, would later become the center of an acoustic phenomenon called **Cosmic Sound**.
 The central figure is **Daniele Baldelli**.
-He is not just a DJ, but has become known as an ``architect who reconstructs the speed of sound and space.''
+He is not just a DJ, but has become known as an ""architect who reconstructs the speed of sound and space.''
 
-The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
+The disco scene at the time was dominated by 4/4 rhythm, which was represented by American soul and house music.
 However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
 **We presented the concept of "cosmic tempo"**, which allows you to freely change the BPM.
 
@@ -47,6 +46,7 @@ color: #fff;
 }
 </style>
 
+
 ## 2. What is Cosmic Sound? - An indefinable acoustic experience
 
 Cosmic Sound is often translated as "cosmic disco."
@@ -65,7 +65,7 @@ It's like an extraterrestrial jukebox.
 
 - **Ritual**:
 At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
-Rather than dancing, the audience had an experience of being ``immersed'' in the sound.
+Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
 ---
 
@@ -74,11 +74,11 @@ Rather than dancing, the audience had an experience of being ``immersed'' in the
 Daniele Baldelli's real innovation was in treating speed (tempo) as a musical element.
 he speaks.
 
-> ``It's easy to mix music genres.
-> However, ``cosmizing'' them at one speed is a matter of sensibility, not technology.”
+> ""It's easy to mix music genres.
+> However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
 His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
-**Transfers smoothly**.You can't even feel the boundaries between songs.
+**Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 
 ---
@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-There was a strong sense of ``composing'' the recorded sounds again on the turntable.
+There was a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|
@@ -102,18 +102,18 @@ This multicultural mix was the precursor to later **Balearic Sound**, **Leftfiel
 
 ## 5. Internal structure of Cosmic Club - Sound field as architecture
 
-### Location:
-``**Discoteca Cosmic**'' on the shores of Lake Garda, Northern Italy (1979–1984)
+### place:
+""**Discoteca Cosmic**'' on the shores of Lake Garda, Northern Italy (1979–1984)
 
 ### Features:
 - Low ceilings and unique echoes
 - **Smoke + laser irradiation** on the floor
 - Baldelli's DJ booth is installed on a hill and has a structure that showers sound from above the audience.
-- A space dominated by “darkness” rather than light
+- A space dominated by "darkness" rather than light
 
-At this club, ``drifting'' was more important than ``dancing.''
+At this club, ""drifting" was more important than ""dancing."
 Visitors are transported by the sound and lose their sense of time.
-Cosmic was ``meditation in the night''**.
+Cosmic was ""meditation in the night''**.
 
 ---
 
@@ -126,7 +126,7 @@ The equipment he uses has distinct features that set him apart from other disco 
 - Eko Multitone EQ
 - Sample loop with Reel-to-Reel tape
 
-Using these, he created a live performance **“rhythmic breath”**.
+Using these, he created a live performance **"rhythmic breath"**.
 Using tape repeat, the same sound is rearranged with a slight shift.
 It can be said that this was the prehistory of later sampler music.
 
@@ -134,8 +134,8 @@ It can be said that this was the prehistory of later sampler music.
 
 ## 7. Inheritance and variation – from Cosmic to Balearic
 
-In the late 1980s, Ibiza's DJ Alfredo and José Padilla inherited Baldelli's Cosmic philosophy.
-This developed into a trend called ``Balearic Beat,'' which later fundamentally changed **UK club culture**.
+In the late 1980s, Ibiza"s DJ Alfredo and José Padilla inherited Baldelli"s Cosmic philosophy.
+This developed into a trend called ""Balearic Beat,'' which later fundamentally changed **UK club culture**.
 
 | Genealogy | Representative people |
 |:--|:--|
@@ -143,8 +143,8 @@ This developed into a trend called ``Balearic Beat,'' which later fundamentally 
 | Balearic (Ibiza) | DJ Alfredo, José Padilla |
 | UK Chillout/Nu Disco | Andrew Weatherall, The Orb, Prins Thomas |
 
-This trend is not just a “music genre”;
-**It was the international spread of the ``sensation of flowing sound over time****.
+This trend is not just a "music genre";
+**It was the international spread of the ""sensation of flowing sound over time****.
 
 ---
 
@@ -160,7 +160,7 @@ title Chronology of Cosmic Sound and Daniele Baldelli (1977–2025)
 1984 : Cosmic closed, became a legend
 1990 : "Cosmic: The Original" mixtape reevaluated
 2000 : Rediscovered by Nu-Disco generation
-2013 : “Cosmic Disco? Cosmic Rock!” compilation released
+2013 : "Cosmic Disco? Cosmic Rock!" compilation released
 2020 : Baldelli, 45th anniversary tour as DJ
 2025: Cosmic Sound research established as a field of club culture history
 
@@ -168,12 +168,13 @@ title Chronology of Cosmic Sound and Daniele Baldelli (1977–2025)
 
 ---
 
+
 ## 9. Illustration: Cosmic Sound structural model
 
 <div class="mermaid">
 
 flowchart TD
-A["Afro/ethnic rhythm (body)"] --> C["Speed conversion (BPM operation)"]
+A["Afro/ethnic rhythm (body)"] --> C["Speed ​​conversion (BPM operation)"]
 B["Electronic sound/krautrock (intelligence)"] --> C
 C --> D["Reconstruction of acoustic space (reverb/echo)"]
 D --> E["Cosmic Sound (fusion of body and intellect)"]
@@ -203,4 +204,3 @@ That DNA is certainly alive and well.
 - [Cosmic Disco? Cosmic Rock! (Compilation, Eskimo Recordings, 2013)](https://amzn.to/4o6MIR5)
 
 ---
-

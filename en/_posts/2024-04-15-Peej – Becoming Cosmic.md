@@ -10,7 +10,6 @@ tags:
 - Deep House
 - Rare
 title: Peej – Becoming Cosmic
-title_en: Peej – Becoming Cosmic
 ---
 
 
@@ -27,10 +26,9 @@ A2. So Soft So Sweet
 B1. Cosmic Love (Sirius Boogie Mix)
 
 B2. Cosmic Love (FS Cosmic Regroove)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jNICn-7P5X4?si=DhSN8Z4qbXKrOcUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNICn-7P5X4?si=DhSN8Z4qbXKrOcUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

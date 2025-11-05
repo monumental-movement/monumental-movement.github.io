@@ -9,7 +9,6 @@ tags:
 - House
 - Hard House
 title: Trajic – Basics
-title_en: Trajic – Basics
 ---
 
 
@@ -28,10 +27,9 @@ A2. TeKNeeKs
 B1. Got Off My Dik # 1 (Traj/JJ Flores)
 
 B2. Got Off My Dik # 2 (Original Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29973784379?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nigwvYXU3Y?si=5TPB6tveP_pvqQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nigwvYXU3Y?si=5TPB6tveP_pvqQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

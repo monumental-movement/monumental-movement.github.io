@@ -9,7 +9,6 @@ tags:
 - Punk
 - 90s
 title: Oi Polloi – Total Anarchoi
-title_en: Oi Polloi – Total Anarchoi
 ---
 
 
@@ -29,7 +28,7 @@ A2. Boot Down The Door
 
 A3. Pigs For Slaughter
 
-A4.Scum
+A4. Scum
 
 A5. Thrown On The Scrapheap
 
@@ -45,7 +44,7 @@ B2. Americans Out
 
 B3. Pigs For Slaughter
 
-B4.Thugs In Uniform
+B4. Thugs In Uniform
 
 B5. Nazi Scum
 
@@ -54,10 +53,9 @@ B6. Nuclear Waste
 B7. Free The Henge
 
 B8. Punx Picnic
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aFqW2tAwJt4?si=uaey06jEekMb1FwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aFqW2tAwJt4?si=uaey06jEekMb1FwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

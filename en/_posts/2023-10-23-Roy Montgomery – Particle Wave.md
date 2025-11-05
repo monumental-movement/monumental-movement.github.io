@@ -9,7 +9,6 @@ tags:
 - Rock
 - Space Rock
 title: Roy Montgomery – Particle Wave
-title_en: Roy Montgomery – Particle Wave
 ---
 
 
@@ -19,13 +18,12 @@ Roy Montgomery's solo instrumental music style is a mix of post-rock, lo-fi, fol
 
 #### Tracklist
 ```md
-A.Particle
+A. Particle
 
-B.Wave
-````
+B. Wave
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96965847534?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bsg2DJpZ7Jw?si=rqFyoungrIdpmF3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bsg2DJpZ7Jw?si=rqFyoungrIdpmF3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

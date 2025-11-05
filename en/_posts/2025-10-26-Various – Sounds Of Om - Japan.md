@@ -9,11 +9,10 @@ tags:
 - House
 - 00s
 title: Various – Sounds Of Om - Japan
-title_en: Various – Sounds Of Om - Japan
 ---
 
 
-Best album from house label OM RECORDS.A special compilation CD for Japan only.
+Best album from house label OM RECORDS. A special compilation CD for Japan only.
 
 #### Tracklist
 ```md
@@ -27,8 +26,7 @@ Best album from house label OM RECORDS.A special compilation CD for Japan only.
 8. Soulstice - Lovely (Julius Papp's Sweet itiz Mix)
 9. Tarantulaz feat. Monique Bingham - They Forgot It (Al Velilla's Re-Edit)
 10. DJ Fluid pres. Omega - Keep On (Chuck Love's Top Coast Mix)
-11. Naked Music NYC - It's Love (Naked on Lovely Extended Vocal)
-````
+11. Naked Music NYC - It's Love (Naked ond Lovely Extended Vocal)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}
-

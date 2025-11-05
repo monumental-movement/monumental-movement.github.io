@@ -10,7 +10,6 @@ tags:
 - Trance
 - 00s
 title: DJ Tandu Presents Ayla – Singularity Brainchild II
-title_en: DJ Tandu Presents Ayla – Singularity Brainchild II
 ---
 
 
@@ -28,11 +27,10 @@ A1. Singularity / Brainchild II (Ayla Mix)
 A2. Singularity / Brainchild II (Miss Thunderpussy Remix)
 
 B1. Singularity / Brainchild II (Pulsedriver Remix)
-B2.Outburst
-````
+B2. Outburst
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49532731303?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tA7DfREDSdU?si=n-wiUa41xw9-UQIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tA7DfREDSdU?si=n-wiUa41xw9-UQIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

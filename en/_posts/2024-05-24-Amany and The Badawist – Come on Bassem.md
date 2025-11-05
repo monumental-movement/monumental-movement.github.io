@@ -11,7 +11,6 @@ tags:
 - African
 - Lebanon
 title: Amany & The Badawist – Come on, Bassem
-title_en: Amany & The Badawist – Come on, Bassem
 ---
 
 
@@ -26,24 +25,23 @@ Arrangement - Bassem Yazbek
 
 #### Tracklist
 ```md
-A1.
+A1.  بدويست 
 Budweit
 
-A2.
+A2. سلامتها أم حسن 
 Her safety is Umm Hassan
 
-A3.
+A3. الحب كله
 All love
 
-B1.
+B1. أمونة في السودان
 Ammouna in Sudan
 
-B2.
+B2. القمر والنجوم
 The moon and stars
 
-B3.
+B3. يللا يا باسم
 Come on, Bassem
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
-

@@ -9,7 +9,6 @@ tags:
 - Ambient
 - Classic
 title: Tomita – Cosmos
-title_en: Tomita – Cosmos
 ---
 
 
@@ -21,7 +20,7 @@ title_en: Tomita – Cosmos
 ```md
 A1. Space Fantasy
 
-A2.Pacific 231
+A2. Pacific 231
 
 A3. Unanswered Question
 
@@ -34,10 +33,9 @@ B2. Solvejg's Song
 B3. Hora Staccato
 
 B4. The Sea Named "Solaris"
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33587379551?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Phi1YRxzjLo?si=orOw5yE-BpSx2VJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Phi1YRxzjLo?si=orOw5yE-BpSx2VJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

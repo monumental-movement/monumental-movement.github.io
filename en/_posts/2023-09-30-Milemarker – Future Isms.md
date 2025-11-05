@@ -9,11 +9,10 @@ tags:
 - New-Wave
 - Experimental
 title: Milemarker – Future Isms
-title_en: Milemarker – Future Isms
 ---
 
 
-Milemarker is a post-hardcore band from North Carolina, USA.Their sound is a mix of styles including experimental electronic, new wave, and alternative rock.
+Milemarker is a post-hardcore band from North Carolina, USA. Their sound is a mix of styles including experimental electronic, new wave, and alternative rock.
 
 #### Tracklist
 ```md
@@ -23,13 +22,13 @@ A2. Make Love To The Camera Obscura
 
 A3. Me, Sweatshirt; You, Jacket
 
-A4. Home Theater Made Easy
+A4. Home Theatre Made Easy
 
 A5. Infant Technology
 
-A6.
+A6. Xanax
 
-B1.Address
+B1. Address
 
 B2. Occupational Hazards
 
@@ -37,11 +36,10 @@ B3. Somnambulism
 
 B4. Alchemy
 
-B5.Engine
-````
+B5. Engine
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59516600898?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQW5B-o49Y4?si=I7nDqDOFRAP5ZAI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OQW5B-o49Y4?si=I7nDqDOFRAP5ZAI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

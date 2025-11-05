@@ -9,11 +9,10 @@ tags:
 - Hiphop
 - Classic
 title: Various – The Enjoy! Story
-title_en: Various – The Enjoy! Story
 ---
 
 
-“Various – The Enjoy! Story” is an album compiled of hits from the birth of Zulu Nation, a masterpiece of rap.
+"Various – The Enjoy! Story" is an album compiled of hits from the birth of Zulu Nation, a masterpiece of rap.
 
 Track A2 typo: Artist is misspelled as "Grandmaster Flash" instead of the original "Grandmaster Flash & The Furious Five."
 
@@ -57,19 +56,18 @@ C8. Midnight Blue – Coolin' Out
 
 D1. The Masterdon Committee – Musicgram
 D2. The Deuce II – Are You Ready
-D3. DLB – It’s Magic
+D3. DLB – It's Magic
 D4. New York City Trooper – Here We Go
 D5. The Source – Ghetto Life
 D6. Doctor Ice – Calling Dr Ice
 D7. The Masterdon Committee – Gonna Get You Hot
 D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

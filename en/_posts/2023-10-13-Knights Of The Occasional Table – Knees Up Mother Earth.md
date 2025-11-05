@@ -9,7 +9,6 @@ tags:
 - Downtempo
 - UK Band
 title: Knights Of The Occasional Table – Knees Up Mother Earth
-title_en: Knights Of The Occasional Table – Knees Up Mother Earth
 ---
 
 
@@ -19,22 +18,21 @@ When this album was released in 1993, it was featured on John Peel's Peel Sessio
 
 #### Tracklist
 ```md
-1.Choose
+1. Choose
 2. Amoeba
-3.Rainbows Of Gaia
+3. Rainbows Of Gaia
 4. Breathe
 5. Chislehurst Caves
 6. Um, Baby!
 7. Isn't It Terrific
 8. Angels Watching
-9.Star
+9. Star
 10. Trybes
 11. Knees Up Mother Earth
-12.Untitled
-````
+12. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

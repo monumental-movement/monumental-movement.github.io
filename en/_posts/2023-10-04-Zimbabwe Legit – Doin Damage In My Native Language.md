@@ -8,7 +8,6 @@ layout: post
 tags:
 - Hiphop
 title: Zimbabwe Legit – Doin' Damage In My Native Language
-title_en: Zimbabwe Legit – Doin' Damage In My Native Language
 ---
 
 
@@ -31,10 +30,9 @@ B2. To Bead Or Not To Bead (Lawnge Instrumental)
 B3. Doin' Damage In My Native Language (808 Damage Acapella)
 
 B4. Rhymin' Wit The African Symphony
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74802997610?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tGTZ2gXMzXc?si=jEBWI1fmuS9tDqqm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGTZ2gXMzXc?si=jEBWI1fmuS9tDqqm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

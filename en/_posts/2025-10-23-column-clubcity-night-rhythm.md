@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - Sociology
-title: 【コラム】 都市の夜が生んだリズム：クラブカルチャーの社会学
-title_en: '[Column] Rhythm created by the city night: Sociology of club culture'
+title: '[Column] Rhythm created by the city night: Sociology of club culture'
 ---
 
 
 ## The moment the city night begins to ring
 
+
 Text: mmr｜Theme: Unraveling the club culture that has evolved along with changes in the social structure of cities from the perspectives of sociology, cultural history, and technology.
 
 The city is both a place for work during the day and a device for regaining freedom at night.
-Club culture is just another face of modern society created by this ``night city.''
+Club culture is just another face of modern society created by this ""night city.''
 After the Industrial Revolution, when the boundaries between work and leisure, day and night, and order and deviation were clearly delineated, people escaped into the night streets and created new communities through music and their bodies.
 
 ---
@@ -40,11 +40,11 @@ color: #fff;
 
 ## Chapter 1: The rhythmic device of the city — industrialization and the liberation of the night
 
-Industrial cities at the end of the 19th century realized a ``24-hour society'' with night lighting.
+Industrial cities at the end of the 19th century realized a ""24-hour society'' with night lighting.
 When the lights come on, the city at night transforms into a place not only for work but also for entertainment and desire.
 What emerged was a space that became the prototype for dance halls, cabaret, and disco.
 
-As urban sociologist Lewis Wirth points out, ``cities are lifestyles predicated on anonymity and diversity.''
+As urban sociologist Lewis Wirth points out, ""cities are lifestyles predicated on anonymity and diversity.''
 The darkness of the club is the ultimate in anonymity.
 As everyone surrenders to the sound as a nobody, boundaries of class, gender, and race temporarily disappear.
 
@@ -64,8 +64,8 @@ Music is both protest and celebration.
 ## Chapter 3: Berlin, Tokyo, London — Comparison of club culture by city
 
 ### Berlin
-After the wall fell, the ruined city became a testing ground for freedom.Clubs like Tresor, Berghain, and Watergate were born out of the chaotic blending of Eastern and Western cultures.
-Clubs are not just entertainment; they function as a ``new public sphere of society.''
+After the wall fell, the ruined city became a testing ground for freedom. Clubs like Tresor, Berghain, and Watergate were born out of the chaotic blending of Eastern and Western cultures.
+Clubs are not just entertainment; they function as a ""new public sphere of society.''
 
 ### Tokyo
 Tokyo's clubs were a "secret escape device" in a city of regulation and control.
@@ -74,19 +74,19 @@ However, Japan's club law (Entertainment Business Law) has long restricted the f
 It is this tension that forms the uniqueness of Tokyo's night culture.
 
 ### London
-In London, the epicenter of rave culture, there were repeated ``wars of sound'' between police and young people.
+In London, the epicenter of rave culture, there were repeated ""wars of sound'' between police and young people.
 But at the same time, music became a means of social inclusion.
-``Fabric'' and ``Ministry of Sound'' are symbols of the ``nighttime economy,'' where sound and economy are linked.
+""Fabric" and ""Ministry of Sound" are symbols of the ""nighttime economy,'' where sound and economy are linked.
 
 ---
 
 ## Chapter 4: Interface between sound and urban space — architecture, technology, and physicality
 
-The club's architecture reconfigures the city's soundscape.
+The club"s architecture reconfigures the city"s soundscape.
 Bass sounds, laser beams, and smoke echo in the inorganic concrete space.
 They are both architectural devices and **interfaces that connect the body and technology**.
 
-The DJ booth is the ``conductor of the city,'' and the sound system is the ``nervous system of society.''
+The DJ booth is the ""conductor of the city," and the sound system is the ""nervous system of society."
 As technology advances, the form of clubs changes and so do the politics of sound.
 
 ---
@@ -94,7 +94,7 @@ As technology advances, the form of clubs changes and so do the politics of soun
 ## Chapter 5: Gender and the public sphere of the night — the intersection of security and desire
 
 While clubs are places of freedom, they are also places of danger for women and sexual minorities.
-In night culture research, the concept of ``safe night'' has been attracting attention.
+In night culture research, the concept of ""safe night'' has been attracting attention.
 The emergence of female DJs and feminist parties is an attempt to redefine the nighttime public sphere.
 
 Who is the freedom of the night for?
@@ -102,7 +102,7 @@ This question is also the key to predicting the future of club culture.
 
 ---
 
-## Chapter 6: “Night” after the pandemic — digital clubs and new communities
+## Chapter 6: "Night" after the pandemic — digital clubs and new communities
 
 When the coronavirus pandemic closed the doors of clubs, sound moved to the internet.
 New club communities have been born in the digital space, such as "Boiler Room," "Club Quarantine," and "Twitch DJ distribution."
@@ -113,7 +113,7 @@ Digital clubs may be the germ of a new kind of "public nature" in 21st century u
 
 ---
 
-## Conclusion: Where is the urban rhythm heading?
+## Conclusion: Where is the urban rhythm headed?
 
 The city night has always been a mirror that reflects the shadows and desires of society.
 In its mirror, club culture has given form to the fundamental human desire for resonance.
@@ -149,7 +149,5 @@ A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
 | Book title | Author | Publication year | Link |
 | -------------- | ---------- | ---- | ------------------------------------------------ |
 | "Club Culture Theory" | Sarah Thornton | 1995 | [Amazon](https://amzn.to/3JpD6lk) |
-
-
 
 

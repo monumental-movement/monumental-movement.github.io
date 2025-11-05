@@ -9,17 +9,17 @@ tags:
 - 70s
 - Disco
 - Citypop
-title: 【コラム】 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学
-title_en: '[Column] Japan''s 70''s Disco and Red Lark - Aesthetics of the night depicted
+title: '[Column] Japan"s 70"s Disco and Red Lark - Aesthetics of the night depicted
   by music and cigarettes'
 ---
 
 
-## Japan's 70's Disco and Red Lark - A nighttime aesthetic drawn by music and cigarettes
+## Japan"s 70"s Disco and Red Lark - A nighttime aesthetic drawn by music and cigarettes
 
-Text: mmr | Theme: A record of Japan's 1970s era, when disco and Red Lark advertisements intertwined.Reminiscing about the night when music, fashion, and the smell of cigarettes intersected
 
-Japan in the 1970s.Shinjuku, Akasaka, Roppongi.
+Text: mmr | Theme: A record of Japan's 1970s era, when disco and Red Lark advertisements intertwined. Reminiscing about the night when music, fashion, and the smell of cigarettes intersected
+
+Japan in the 1970s. Shinjuku, Akasaka, Roppongi.
 The night city was trying to gain unknown freedom through the word "disco."
 The atmosphere was filled with glowing mirror balls, Soul Train-like grooves, and Red Lark's red packaging.
 
@@ -38,32 +38,33 @@ color: #fff;
 }
 </style>
 
-## 1. A cross-cultural device called “disco” that was born at night in the city
+
+## 1. A cross-cultural device called "disco" that was born at night in the city
 
 In the early 1970s, urban areas in Japan were dotted with clubs opened by young men returning from the United States.
-Discotheques such as ``Mugen'', ``Cleopatra'', and ``Space Capsule'' are not just dance floors;
+Discotheques such as ""Mugen", ""Cleopatra", and ""Space Capsule'' are not just dance floors;
 **It was a comprehensive experience space where music, scents, lighting, cigarettes, and fashion intermingled**.
 
 ![1970s Tokyo Disco](https://upload.wikimedia.org/wikipedia/commons/e/e3/Tokyo_disco_1970s.jpg)
-*▲ Disco floor in Roppongi, Tokyo.Neon and smoke intersect, and red larks shine on the hands of the dancing people.*
+*▲ Disco floor in Roppongi, Tokyo. Neon and smoke intersect, and red larks shine on the hands of the dancing people. *
 
 At the time, the musical focus was soul-disco with bands such as **The Trammps, KC and the Sunshine Band, and Donna Summer**.
 However, Japanese DJs don't just play imported records;
-**I honed my pre-YMO ``urban acoustic sense''**.
+**I honed my pre-YMO ""urban acoustic sense''**.
 BPM sense, bass handling, and lighting synchronization.
 At night, "sound" and "light" became a breathing organism.
 
 ---
 
-## 2. Red lark, a “symbol of the city”
+## 2. Red lark, a "symbol of the city"
 
-In 1972, Japan Monopoly Corporation (predecessor of JT) released the ``LARK'' series.
-``Red Lark'' was particularly popular among young people.
-The design, with white letters on a red background, was a symbol of ``freedom,'' ``the city,'' and ``cool,'' a precursor to the American spirit.
+In 1972, Japan Monopoly Corporation (predecessor of JT) released the ""LARK'' series.
+""Red Lark'' was particularly popular among young people.
+The design, with white letters on a red background, was a symbol of ""freedom," ""the city," and ""cool,'' a precursor to the American spirit.
 
 Red Lark is more than just a cigarette.
-In magazines such as ``Heibon Punch'', ``POPEYE'', and ``non-no'' at the time,
-**It has appeared as an ``urban accessory'' that can be seen in discos, jazz cafes, nightclubs, and fashion snaps**.
+In magazines such as ""Heibon Punch", ""POPEYE", and ""non-no'' at the time,
+**It has appeared as an ""urban accessory'' that can be seen in discos, jazz cafes, nightclubs, and fashion snaps**.
 
 > "I felt like the night was starting if I lit the red lark before dancing."
 
@@ -75,29 +76,29 @@ A contrasting color palette of red and silver was carved into the night of the c
 ## 3. Fusion of fashion and night culture
 
 Around 1975, disco culture rapidly expanded.
-``MUGEN'' in Akasaka, ``Space Capsule'' in Shibuya, and ``Suntory Bar Moon'' in Shinjuku.
+""MUGEN" in Akasaka, ""Space Capsule" in Shibuya, and ""Suntory Bar Moon'' in Shinjuku.
 Young people at the time wore lame shirts, flared pants, and platform shoes.
 They danced with the smell of cigarettes and perfume in the air.
 
 ![Disco Fashion 1970s Japan](https://upload.wikimedia.org/wikipedia/commons/b/b3/1970s_fashion_tokyo.jpg)
-*▲ 1970s disco fashion.It became popular to use the same red as the Red Lark package as an accent color.*
+*▲ 1970s disco fashion. It became popular to use the same red as the Red Lark package as an accent color. *
 
-The advertising strategy at the time was based on the image of ``Red Lark = an urbane, free man.''
+The advertising strategy at the time was based on the image of ""Red Lark = an urbane, free man.''
 The poster features a man and a woman holding cigarettes in their mouths under the lights of a jazz club.
 In the background are Fender Rhodes keys and the sound of ice melting in a glass.
-Everything was designed as a ``musical visual expression''.
+Everything was designed as a ""musical visual expression''.
 
 ---
 
-## 4. Japanese reception of disco music - From “enka rhythm” to “soul breathing”
+## 4. Japanese reception of disco music - From "enka rhythm" to "soul breathing"
 
 In the mid-1970s, there was a strong image of **disco=Western music entertainment** in Japan, but
 In fact, the Japanese music industry also absorbed its influence.
 
-For example:
-- **Hiromi Go's ``240 Million Eyes'' (1984)** has its roots in the exhilaration of 70's disco.
+for example:
+- **Hiromi Go"s ""240 Million Eyes'' (1984)** has its roots in the exhilaration of 70"s disco.
 - **Pink Lady "UFO" (1977)** is a successful example of domestic production of Donna Summer-style synth disco.
-- **Hiroshi Sato's ``Awakening'' (1982)** sublimated the memories of Akasaka's night scene into city pop.
+- **Hiroshi Sato"s ""Awakening'' (1982)** sublimated the memories of Akasaka"s night scene into city pop.
 
 It cannot be overlooked that the disco space of the 1970s was the starting point for this trend.
 
@@ -109,10 +110,10 @@ Aka Lark's advertisements are influenced by graphic designers Masayoshi Nakajo a
 Neon, motion blur, photo collage, and "glossy red."
 
 ![Red Lark Ad 1978](https://upload.wikimedia.org/wikipedia/commons/6/68/Lark_cigarette_ad_1978_japan.jpg)
-*▲ 1978 Lark advertisement (reproduced image).The red gradation and the night view of the city are integrated.*
+*▲ 1978 Lark advertisement (reproduced image). The red gradation and the night view of the city are integrated. *
 
 This design philosophy would later lead to City Pop record jackets (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).
-In other words, Red Lark's ``visual musicality'' anticipated the later ``musical visual design.''
+In other words, Red Lark's ""visual musicality" anticipated the later ""musical visual design."
 
 ---
 
@@ -121,17 +122,18 @@ In other words, Red Lark's ``visual musicality'' anticipated the later ``musical
 <div class="mermaid">
 
 timeline
-title Chronology of Japan's 70's Disco and Red Lark
-1970: Club “MUGEN” is established in Akasaka, Tokyo
+title Chronology of Japan"s 70"s Disco and Red Lark
+1970: Club "MUGEN" is established in Akasaka, Tokyo
 1972: Red Lark is released and becomes popular among young people.
 1973: The movie "Saturday Night Fever" became a hot topic in Japan.
-1975: Prototype disco “Maharaja” opens in Roppongi
-1977 : Pink Lady “UFO” hit
+1975: Prototype disco "Maharaja" opens in Roppongi
+1977 : Pink Lady "UFO" hit
 1978: DJ culture is incorporated into Red Lark advertisements
 1979: Shibuya "Navana" opened, laser lighting introduced
 1980: Disco culture inherited by city pop
 
 </div>
+
 
 ---
 
@@ -141,7 +143,7 @@ Nights in Japan in the late 1970s are remembered for the density of sound and sm
 Perfume, alcohol, and the sweet smoke of red lark.
 They diffuse in the space and mix with the bass of the speakers.
 
-DJs sometimes say they can ``read BPM by the flow of smoke.''
+DJs sometimes say they can ""read BPM by the flow of smoke.''
 A time when the air itself was the media.
 Vinyl records and cigarettes were burning in the same rhythm.
 
@@ -149,9 +151,9 @@ Vinyl records and cigarettes were burning in the same rhythm.
 
 ## 8. Post-disco generation and the reverberations of Red Lark
 
-In the early 1980s, large discos such as ``Maharaja'' and ``Kisanadu'' were born,
+In the early 1980s, large discos such as ""Maharaja" and ""Kisanadu" were born,
 Over time, the music evolved from city pop to eurobeat.
-However, the ``smell of urban decadence and freedom'' at its origin was engraved in the red color of Red Lark.
+However, the ""smell of urban decadence and freedom'' at its origin was engraved in the red color of Red Lark.
 
 Even today, there are vintage magazines and coffee shop walls.
 The "LARK" logo remains quietly.
@@ -172,6 +174,7 @@ When you light up the Red Lark, the Tokyo nights of the 1970s come back to you f
 
 ## Appendix: List of reference disco songs
 
+
 | Song title | Artist | Year | Notes |
 | ----------------- | ------------------ | ---- | ------------------ |
 | Stayin' Alive | Bee Gees | 1977 | "Saturday Night Fever" signature song |
@@ -181,4 +184,3 @@ When you light up the Red Lark, the Tokyo nights of the 1970s come back to you f
 | Corrida of Love | Quincy Jones | 1981 | An extension of the Japanese disco feel |
 
 ---
-

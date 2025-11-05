@@ -9,17 +9,17 @@ tags:
 - African
 - Tribal
 - History
-title: '【コラム】 Nyege Nyege: アフリカの音楽革命を牽引するウガンダ発の音楽集団'
-title_en: '[Column] Nyege Nyege: A music group from Uganda that is leading Africa''s
+title: '[Column] Nyege Nyege: A music group from Uganda that is leading Africa''s
   musical revolution'
 ---
 
 
 ## What is "Nyege Nyege"?
 
-Text: mmr｜Theme: About an important music group that disseminates “outsider music” that fuses traditional African music and modern electronic music to the world
+Text: mmr｜Theme: About an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world
 
-"Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world.Its name means "an irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
+
+"Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world. Its name means "an irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
 
 ---
 
@@ -50,15 +50,17 @@ color: #fff;
 
 ---
 
+
 ## <a id="beginning"></a>Foundation and background
 
-Nyege Nyege was founded in Kampala in 2013 by American Arlen Dirsigian and Belgian Derek Debre.They revitalized the music scene with local DJs and percussionists through an event called "Boutiq Electroniq."After that, in 2016, he launched a record label called "Nyege Nyege Tapes" and continues to disseminate a new music style that fuses traditional African music and electronic music.
+Nyege Nyege was founded in Kampala in 2013 by American Arlen Dirsigian and Belgian Derek Debre. They revitalized the music scene with local DJs and percussionists through an event called "Boutiq Electroniq." After that, in 2016, he launched a record label called "Nyege Nyege Tapes" and continues to disseminate a new music style that fuses traditional African music and electronic music.
 
 ---
 
 ## <a id="album"></a>Introducing albums and projects
 
 Below, we will introduce representative albums and projects released by Nyege Nyege Tapes by year.
+
 
 | Year | Artist/Album | Features | Links |
 |------|------------|------|---------|
@@ -72,7 +74,7 @@ Below, we will introduce representative albums and projects released by Nyege Ny
 
 ## Music styles and influences
 
-Nyege Nyege Tapes' music has been hailed as "outsider music" that combines traditional music from various parts of Africa with modern electronic music.Of particular note are the following musical styles:
+Nyege Nyege Tapes' music has been hailed as "outsider music" that combines traditional music from various parts of Africa with modern electronic music. Of particular note are the following musical styles:
 
 ---
 
@@ -117,6 +119,7 @@ E --> F["Performed at clubs and festivals around the world"]
 
 - Bringing African music to the forefront through international dissemination
 
+
 ---
 
 #### Connection with dance
@@ -152,6 +155,7 @@ More than just a music genre, it is at the forefront of the African music scene,
 
 Akolitronics is a style that recreates Rarakaraka, the traditional music of the Akori people in northern Uganda, using electronic music.
 
+
 ---
 
 #### Musical features
@@ -165,9 +169,11 @@ Akolitronics is a style that recreates Rarakaraka, the traditional music of the 
 | Song structure | Maintaining improvisation, intro/build/break for clubs |
 | Sound | Extend texture with analog synth effects |
 
+
 ---
 
 #### History/Development
+
 
 <div class="mermaid">
 
@@ -189,6 +195,7 @@ E --> F["International attention and collaboration"]
 - Bridging urban and local culture
 
 - Promoting African music on the international stage
+
 
 ---
 
@@ -300,17 +307,19 @@ It is attracting worldwide attention as a music style that simultaneously carrie
 
 - Attention to African music worldwide through international dissemination
 
+
 ---
+
 
 ### <a id="story"></a>Anecdotes and legends
 
-Nyege Nyege Festival is Africa's largest electronic music festival, held every year in Jinja, Uganda, and has been held since 2015.The festival is attracting attention as a place to introduce Africa's underground music scene to the world and to show support for the LGBTQ+ community.However, it faced criticism from conservative religious groups, and in 2018 the Minister of Ethics attempted to cancel the event, but it was continued with the support of the Minister of the Interior.Today, it has become a major event that attracts over 60,000 visitors.
+Nyege Nyege Festival is Africa"s largest electronic music festival, held every year in Jinja, Uganda, and has been held since 2015. The festival is attracting attention as a place to introduce Africa"s underground music scene to the world and to show support for the LGBTQ+ community. However, it faced criticism from conservative religious groups, and in 2018 the Minister of Ethics attempted to cancel the event, but it was continued with the support of the Minister of the Interior. Today, it has become a major event that attracts over 60,000 visitors.
 
 ---
 
 ### <a id="now"></a>Current activities and prospects
 
-Nyege Nyege continues to lead the African music scene through his record label Nyege Nyege Tapes and sub-label Hakuna Kulala.In particular, "Hakuna Kulala" revolves around abstract and experimental club music, and is attracting attention from music fans around the world.We are also building a global music network through artist residencies and international collaborations.
+Nyege Nyege continues to lead the African music scene through his record label Nyege Nyege Tapes and sub-label Hakuna Kulala. In particular, "Hakuna Kulala" revolves around abstract and experimental club music, and is attracting attention from music fans around the world. We are also building a global music network through artist residencies and international collaborations.
 
 ---
 
@@ -320,26 +329,24 @@ Below are some recommended YouTube links related to Nyege Nyege:
 
 #### Nyege Nyege Festival 2024 Highlights
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Otim Alpha - Gulu City Anthems
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Bamba Pana & Makaveli | Boiler Room x Nyege Nyege Festival
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### <a id="conclusion"></a>Summary
 
-Nyege Nyege is an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world.The label Nyege Nyege Tapes is at the forefront of promoting the fusion of traditional African music and electronic music, including Shingeli, Akolitronics, Electro Maloya, etc.
-We have established a unique position in the world music scene by simultaneously preserving local culture, expressing urban and youth culture, and disseminating it internationally.Their activities remind us of the importance of not only music, but also cultural diversity and social inclusion.We will continue to keep an eye on their music and activities.
-
-
+Nyege Nyege is an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world. The label Nyege Nyege Tapes is at the forefront of promoting the fusion of traditional African music and electronic music, including Shingeli, Akolitronics, Electro Maloya, etc.
+We have established a unique position in the world music scene by simultaneously preserving local culture, expressing urban and youth culture, and disseminating it internationally. Their activities remind us of the importance of not only music, but also cultural diversity and social inclusion. We will continue to keep an eye on their music and activities.
 

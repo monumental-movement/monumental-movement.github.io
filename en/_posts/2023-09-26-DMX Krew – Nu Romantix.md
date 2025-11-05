@@ -9,7 +9,6 @@ tags:
 - Techno
 - Acid House
 title: DMX Krew – Nu Romantix
-title_en: DMX Krew – Nu Romantix
 ---
 
 
@@ -52,10 +51,9 @@ The album uses vintage synthesizers and drum machines, paying homage to the elec
 15.Place Called Love
 
 16.I'm All Alone (Cylob's Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

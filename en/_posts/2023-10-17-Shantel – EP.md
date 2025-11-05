@@ -9,7 +9,6 @@ tags:
 - House
 - Future Jazz
 title: Shantel – EP
-title_en: Shantel – EP
 ---
 
 
@@ -26,10 +25,9 @@ A2. Philosophy Di A. Palladio
 B1. Really Good Photo
 
 B2. I'm Not Afraid Of You
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66346340732?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k88QMtIU9cY?si=bbbgdaeyH2NkZbeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k88QMtIU9cY?si=bbbgdaeyH2NkZbeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

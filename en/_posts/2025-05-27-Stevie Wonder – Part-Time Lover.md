@@ -10,7 +10,6 @@ tags:
 - Soul
 - 80s
 title: Stevie Wonder – Part-Time Lover
-title_en: Stevie Wonder – Part-Time Lover
 ---
 
 
@@ -25,10 +24,9 @@ The song features ad-libs and backing vocals by R&B singer Luther Vandross, and 
 A. Part-Time Lover
 
 B. Part-Time Lover (Instrumental)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

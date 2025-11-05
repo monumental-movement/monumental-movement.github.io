@@ -9,7 +9,6 @@ tags:
 - Hiphop
 - Triphop
 title: Sukia – Gary Super Macho
-title_en: Sukia – Gary Super Macho
 ---
 
 
@@ -28,10 +27,9 @@ A2. Gary Super Macho (The Dirty Sanchez Mix)Remix– DJ Me DJ You
 B1. Gary Super Macho (Major Force West Remix)
 
 B2. Gary Super Macho (Single Edit)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBV0yuzlwVI?si=DgXqVVaYjALMlUeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBV0yuzlwVI?si=DgXqVVaYjALMlUeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

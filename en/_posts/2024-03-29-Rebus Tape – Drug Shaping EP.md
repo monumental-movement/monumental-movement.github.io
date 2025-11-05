@@ -9,7 +9,6 @@ tags:
 - Techno
 - 00s
 title: Rebus Tape – Drug Shaping EP
-title_en: Rebus Tape – Drug Shaping EP
 ---
 
 
@@ -23,9 +22,7 @@ A1. Element Of The Ape
 
 AA1. Drug Shaping
 AA2. Order Into Chaos
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
-
-
 

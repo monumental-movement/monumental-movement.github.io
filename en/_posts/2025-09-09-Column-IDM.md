@@ -9,23 +9,24 @@ tags:
 - IDM
 - 90s
 - 00s
-title: 【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で
-title_en: '[Column] From the origins of IDM to the present - Between intellectual
-  exploration and the dance floor'
+title: '[Column] From the origins of IDM to the present - Between intellectual exploration
+  and the dance floor'
 ---
+
 
 
 ## What is IDM?
 
+
 Text: mmr｜Theme: From the birth of IDM to the present
 
-A labyrinth of sounds that tickles intellectual curiosity - IDM (Intelligent Dance Music) is a genre that was born out of the experimental spirit of techno and ambient music in the early 1990s, going beyond the boundaries of club music and opening up a new realm of ``electronic music for listening.''Emphasizing complex rhythms, precise acoustic processing, and original sound design over functionality on the dance floor, it embodies the fusion of technology and artistry.This trend continues from pioneers such as Aphex Twin and Autechre to the modern experimental electronic music scene.
+A labyrinth of sounds that tickles intellectual curiosity - IDM (Intelligent Dance Music) is a genre that was born out of the experimental spirit of techno and ambient music in the early 1990s, going beyond the boundaries of club music and opening up a new realm of ""electronic music for listening.'' Emphasizing complex rhythms, precise acoustic processing, and original sound design over functionality on the dance floor, it embodies the fusion of technology and artistry. This trend continues from pioneers such as Aphex Twin and Autechre to the modern experimental electronic music scene.
 
 ---
 
-## Early 1990s: Birth - The germ of “dance music for listening”
-At the end of the 1980s, in the midst of the UK rave culture and techno craze, underground labels and artists began to explore ``electronic music for home listening'' rather than just a club tool.
-The ``Artificial Intelligence'' series released by Warp Records in 1992 was a decisive turning point, and the name ``IDM'' became widespread.
+## Early 1990s: Birth - The germ of "dance music for listening"
+At the end of the 1980s, in the midst of the UK rave culture and techno craze, underground labels and artists began to explore ""electronic music for home listening'' rather than just a club tool.
+The ""Artificial Intelligence" series released by Warp Records in 1992 was a decisive turning point, and the name ""IDM" became widespread.
 
 - **Representative masterpiece**
 - Aphex Twin – *Selected Ambient Works 85-92* (1992)
@@ -67,7 +68,7 @@ color: #fff;
 ---
 
 ## Late 1990s: Deepening and complexity
-After interacting with jungle and drum and bass, IDM moved on to rhythmic subdivision and sonic experimentation.Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
+After interacting with jungle and drum and bass, IDM moved on to rhythmic subdivision and sonic experimentation. Artistic acclaim outside the clubs grew, and it began to be talked about in the context of art schools and galleries.
 
 - **Representative masterpiece**
 - Aphex Twin – *Richard D. James Album* (1996)
@@ -97,7 +98,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 ---
 
 ## 2000s: Post-IDM and Crossover
-Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners.With the spread of the Internet and P2P, the nature of releases has changed.
+Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the nature of releases has changed.
 
 - **Representative masterpiece**
 - Boards of Canada – *Geogaddi* (2002)
@@ -127,7 +128,7 @@ Soft synths such as **Reaktor and FM7** have become standard.
 ---
 
 ## 2010s: Reconnecting with the club
-Mixed with bass music, grime, and ambient techno.IDM became more of an aesthetic than a genre, permeating the sound design of underground clubs and festivals.
+Mixed with bass music, grime, and ambient techno. IDM became more of an aesthetic than a genre, permeating the sound design of underground clubs and festivals.
 
 - **Representative masterpiece**
 - Oneohtrix Point Never – *Replica* (2011)
@@ -157,7 +158,7 @@ Original instrument development using **Max for Live**.
 ---
 
 ## 2020s-present: Dispersing IDM genes
-In the streaming era, the boundaries between genres are becoming increasingly blurred.Elements of IDM are present in scenes as diverse as ambient, hyperpop, techno, and lo-fi beats.
+In the streaming era, the boundaries between genres are becoming increasingly blurred. Elements of IDM are present in scenes as diverse as ambient, hyperpop, techno, and lo-fi beats.
 
 - **Representative masterpiece**
 - Autechre – *SIGN* / *PLUS* (2020)
@@ -187,6 +188,5 @@ Hybrid production that combines modular and software.
 ---
 
 ## The spirit of acoustic experimentation itself
-IDM has gone beyond the framework of ``dance music for intellectual listening'' and has evolved into the very spirit of sonic experimentation.
+IDM has gone beyond the framework of ""dance music for intellectual listening'' and has evolved into the very spirit of sonic experimentation.
 Although it started outside clubs, it has now found its way back into club and pop music, and its aesthetic is sprinkled throughout contemporary electronic music.
-

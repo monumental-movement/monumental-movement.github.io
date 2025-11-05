@@ -9,7 +9,6 @@ tags:
 - Hiphop
 - Mix
 title: Muro – Super Disco Breaks Volumes 1-4
-title_en: Muro – Super Disco Breaks Volumes 1-4
 ---
 
 
@@ -24,9 +23,7 @@ Side B. Super Disco Breaks Lesson 2
 Side C. Super Disco Breaks Lesson 3
 
 Side D. Super Disco Breaks Lesson 4
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
-
-
 

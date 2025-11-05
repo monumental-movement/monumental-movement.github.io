@@ -8,16 +8,18 @@ layout: post
 tags:
 - Hard Rock
 - Game
-title: 【コラム】 ハードロックとゲーム文化の交差史
-title_en: '[Column] History of the intersection of hard rock and gaming culture'
+title: '[Column] History of the intersection of hard rock and gaming culture'
 ---
+
 
 
 ## Considering the relationship between major hard rock records and gaming culture
 
+
 Text: mmr｜Theme: Relationship between hard rock and gaming culture
 
-Hard rock was born from blues rock and psychedelic rock in the late 1960s and exploded in popularity in the 1970s.On the other hand, video game culture began to emerge in the late 1970s and became established as popular culture in the 1980s.Although both have developed independently, they have shared the impact of sound, visual aesthetics, and youth culture, creating unexpected intersections in each era.Here, we will organize the relationships by era and look back at the connections between representative masterpieces and gaming culture.
+
+Hard rock was born from blues rock and psychedelic rock in the late 1960s and exploded in popularity in the 1970s. On the other hand, video game culture began to emerge in the late 1970s and became established as popular culture in the 1980s. Although both have developed independently, they have shared the impact of sound, visual aesthetics, and youth culture, creating unexpected intersections in each era. Here, we will organize the relationships by era and look back at the connections between representative masterpieces and gaming culture.
 
 ---
 
@@ -34,10 +36,11 @@ color: #fff;
 }
 </style>
 
+
 ## 1960s-1970s: Birth of hard rock and the eve of arcades
 
-- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appeared in London and Los Angeles.Presenting a new musical experience with explosive sounds and profound riffs.
-- **Point of contact with games**: This era was still in the early days of arcades (the eve of ``Pong'' and ``Space Invaders'').Although the direct link is weak, the psychedelic artwork and experiments with electronic sounds create seeds that resonate with the game's electronic music aesthetic.
+- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appear in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
+- **Point of contact with games**: This era was still in the early days of arcades (the eve of ""Pong" and ""Space Invaders"). Although the direct link is weak, the psychedelic artwork and experiments with electronic sounds create seeds that resonate with the game's electronic music aesthetic.
 
 **Representative masterpiece**
 
@@ -72,9 +75,9 @@ color: #fff;
 
 ## 1980s: The golden age of hard rock and the rise of arcade games
 
-- **Time background**: American hard rock such as Mötley Crüe and Van Halen were on the rise worldwide.With the advent of MTV, it was directly connected to visual culture.
-- **Point of contact with games**: The golden age of arcades ("Space Invaders", "Pacman", "Outrun").In particular, Sega and Namco reproduce the fast-paced feel of rock music with sound chips.
-- Van Halen's guitar solo sound and the game's 8bit shred feel are audibly linked.
+- **Time background**: American hard rock such as Mötley Crüe and Van Halen were on the rise worldwide. With the advent of MTV, it was directly connected to visual culture.
+- **Point of contact with games**: The golden age of arcades ("Space Invaders", "Pacman", "Outrun"). In particular, Sega and Namco reproduce the fast-paced feel of rock music with sound chips.
+- Van Halen"s guitar solo sound and the game"s 8bit shred feel are audibly linked.
 
 **Representative masterpiece**
 
@@ -94,7 +97,7 @@ color: #fff;
 | Pour Some Sugar on Me | Def Leppard |
 | Crazy Train | Ozzy Osbourne |
 | Bark at the Moon | Ozzy Osbourne |
-| Livin’ on a Prayer | Bon Jovi |
+| Livin" on a Prayer | Bon Jovi |
 | Wanted Dead or Alive | Bon Jovi |
 
 **Representative game titles**
@@ -103,7 +106,7 @@ color: #fff;
 |------|------------|------|
 | 1980 | Pac-Man | Pop Culture Icon |
 | 1981 | Donkey Kong | Symbol of Nintendo's breakthrough |
-| 1983 | Dragon’s Lair | Innovative animation and music production |
+| 1983 | Dragon"s Lair | Innovative animation and music production |
 | 1986 | OutRun | BGM with a rock driving feel |
 | 1987 | Contra | Explosive gaming experience and hard rock affinity |
 | 1989 | Final Fight | Battle and hard rock sound |
@@ -112,13 +115,13 @@ color: #fff;
 
 ## 1990s: The rise of alternatives and home consoles
 
-- **Time background**: With the rise of grunge and alternative music, classic hard rock was in a bit of a decline.However, it is strongly supported by metal bands such as Metallica.
-- **Point of contact with games**: With the advent of PlayStation and Nintendo 64, CD sound sources were created.The use of ``actual rock songs'' in games is also increasing.
-- The “Gran Turismo” series and “Tony Hawk’s Pro Skater” are symbols of the direct connection between rock and games.
+- **Time background**: With the rise of grunge and alternative music, classic hard rock was in a bit of a decline. However, it is strongly supported by metal bands such as Metallica.
+- **Point of contact with games**: With the advent of PlayStation and Nintendo 64, CD sound sources were created. The use of ""actual rock songs'' in games is also increasing.
+- The "Gran Turismo" series and "Tony Hawk"s Pro Skater" are symbols of the direct connection between rock and games.
 
 **Representative masterpiece**
 
-- Guns N’ Roses – *Use Your Illusion I & II* (1991)
+- Guns N" Roses – *Use Your Illusion I & II* (1991)
 - Metallica – *Metallica (Black Album)* (1991)
 - Aerosmith – *Get a Grip* (1993)
 
@@ -128,10 +131,10 @@ color: #fff;
 |------|--------------|
 | Enter Sandman | Metallica |
 | Nothing Else Matters | Metallica |
-| November Rain | Guns N’ Roses |
-| Don’t Cry | Guns N’ Roses |
+| November Rain | Guns N" Roses |
+| Don"t Cry | Guns N" Roses |
 | Get a Grip | Aerosmith |
-| Cryin’ | Aerosmith |
+| Cryin" | Aerosmith |
 | Smells Like Teen Spirit | Nirvana |
 | Come As You Are | Nirvana |
 | Alive | Pearl Jam |
@@ -141,18 +144,18 @@ color: #fff;
 
 | Year | Title | Notes |
 |------|------------|------|
-| 1991 | Sonic the Hedgehog | Speed and rock energy |
+| 1991 | Sonic the Hedgehog | Speed ​​and rock energy |
 | 1994 | Doom II | Heavy guitar riff BGM |
 | 1997 | Final Fantasy VII | Symphonic and rock fusion |
 | 1997 | Gran Turismo | Featuring actual rock/techno songs |
-| 1999 | Tony Hawk’s Pro Skater | A typical example of the direct connection between rock music and games |
+| 1999 | Tony Hawk"s Pro Skater | A typical example of the direct connection between rock music and games |
 
 ---
 
-## 2000s: Digital age and “music game” boom
+## 2000s: Digital age and "music game" boom
 
-- **Background**: Nu-Metal and Post-Grunge were hits.Although the tradition of hard rock is fragmented, it is still alive and well.
-- **Connection with games**: The "Guitar Hero" and "Rock Band" series have become social phenomena.Classic hard rock songs from the past are being rediscovered by a new generation.
+- **Background**: Nu-Metal and Post-Grunge were hits. Although the tradition of hard rock is fragmented, it is still alive and well.
+- **Connection with games**: The "Guitar Hero" and "Rock Band" series have become social phenomena. Classic hard rock songs from the past are being rediscovered by a new generation.
 - Music games became a "re-education device" for hard rock, introducing Led Zeppelin and Metallica to teens.
 
 **Representative masterpiece**
@@ -175,6 +178,7 @@ color: #fff;
 | Bring Me to Life | Evanescence |
 | My Immortal | Evanescence |
 
+
 **Representative game titles**
 
 | Year | Title | Notes |
@@ -190,7 +194,7 @@ color: #fff;
 ## 2010s~Present: Streaming Era and Reappraisal
 
 - **Background**: Classic hard rock is being rediscovered through Spotify and YouTube.
-- **Point of contact with games**: In e-sports and distribution culture, hard rock will take on a new role as ``game live BGM'' and ``arranged music for rhythm games.''
+- **Point of contact with games**: In e-sports and distribution culture, hard rock will take on a new role as ""game live BGM" and ""arranged music for rhythm games."
 - Games such as *Doom (2016)* that boldly incorporate hard rock/metal sounds have also appeared, once again emphasizing the relationship between "explosive music and adrenaline."
 
 **Representative masterpiece**
@@ -214,6 +218,7 @@ color: #fff;
 | Rats | Ghost |
 | Broken Bells | Greta Van Fleet |
 
+
 **Representative game titles**
 
 | Year | Title | Notes |
@@ -228,7 +233,7 @@ color: #fff;
 
 ## List of hard rock songs included in the music game
 
-Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation.In addition, many unique interpretations of hard rock have appeared in Japanese arcade music games.The following is a typical recording example.
+Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. In addition, many unique interpretations of hard rock have appeared in Japanese arcade music games. The following is a typical recording example.
 
 ---
 
@@ -237,9 +242,9 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
 | Guitar Hero (2005) | Smoke on the Water | Deep Purple | Famous songs that appeared in the first generation |
-| Guitar Hero II (2006) | Sweet Child O’ Mine | Guns N’ Roses | Impressive guitar solo |
+| Guitar Hero II (2006) | Sweet Child O" Mine | Guns N" Roses | Impressive guitar solo |
 | Guitar Hero II (2006) | Carry on Wayward Son | Kansas | Hard rock anthem |
-| Guitar Hero III (2007) | Welcome to the Jungle | Guns N’ Roses | One of the most popular songs in the series |
+| Guitar Hero III (2007) | Welcome to the Jungle | Guns N" Roses | One of the most popular songs in the series |
 | Guitar Hero III (2007) | One | Metallica | Famous as a highly difficult song |
 | Guitar Hero III (2007) | Through the Fire and Flames | DragonForce | Legendary intense song |
 | Guitar Hero: Aerosmith (2008) | Dream On | Aerosmith | Band-specific spin-off |
@@ -252,7 +257,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
 | Rock Band (2007) | Paranoid | Black Sabbath | Representative songs from the original recording |
-| Rock Band (2007) | Won’t Get Fooled Again | The Who | Long Rock |
+| Rock Band (2007) | Won"t Get Fooled Again | The Who | Long Rock |
 | Rock Band 2 (2008) | Chop Suey! | System of a Down | Representative Nu-Metal |
 | Rock Band 2 (2008) | Everlong | Foo Fighters | Representative songs from the 90s |
 | Rock Band 3 (2010) | Bohemian Rhapsody | Queen | Piano and guitar fusion |
@@ -289,7 +294,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
-| Taiko no Tatsujin 6 (2004) | DON’T CUT | Jimmy Weckl | Hard fusion drums |
+| Taiko no Tatsujin 6 (2004) | DON"T CUT | Jimmy Weckl | Hard fusion drums |
 | Taiko no Tatsujin 11 (2007) | Rumble Ranunculus | Seiya Murai | Guitar-based rock |
 | Taiko no Tatsujin 14 (2010) | Xa | Tatsh | Metal high-speed song |
 | Taiko no Tatsujin Green Ver. (2018) | MEGALOVANIA | Toby Fox | Guitar riff-based, game music origin |
@@ -301,7 +306,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
 | SOUND VOLTEX BOOTH (2012) | Black Emperor | RoughSketch | Metalcore + Electro |
-| SOUND VOLTEX II (2013) | XROSS INFECTION | BlackY vs. siromaru | Hard Rock x Speed Core |
+| SOUND VOLTEX II (2013) | XROSS INFECTION | BlackY vs. siromaru | Hard Rock x Speed ​​Core |
 | SOUND VOLTEX III (2014) | Growth Memories | akhuta | Band sound |
 | SOUND VOLTEX VIVID WAVE (2019) | I | nora2r | Digital hard rock style |
 
@@ -344,7 +349,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
-| Rock Mixtape DLC (2022) | Sweet Child O’ Mine | Guns N’ Roses | Experience guitar masterpieces in VR |
+| Rock Mixtape DLC (2022) | Sweet Child O" Mine | Guns N" Roses | Experience guitar masterpieces in VR |
 | Rock Mixtape DLC (2022) | The Pretender | Foo Fighters | Representative songs from the 2000s with strong HR elements |
 | Linkin Park Pack (2020) | In the End | Linkin Park | Close to Nu-Metal with HR elements |
 | Linkin Park Pack (2020) | Numb | Linkin Park | Re-evaluated with VR |
@@ -362,13 +367,12 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 ## Impact and Significance
 
-- Overseas, the **``Guitar Hero'' → Start playing the guitar** movement was actually born.
-- In Japan, **GuitarFreaks/DrumMania** pioneered the idea of ​​``real performance feeling'' and laid the foundation for music game culture.
+- Overseas, the **""Guitar Hero'' → Start playing the guitar** movement was actually born.
+- In Japan, **GuitarFreaks/DrumMania** pioneered the idea of ​​""real performance feeling'' and laid the foundation for music game culture.
 - **Taiko no Tatsujin** focuses on pop music, but with their hard rock/metal style original songs, they imprinted a guitar-like sound on young people.
 - **SOUND VOLTEX** has a strong electro tone, but actively incorporates hard rock and metal elements to express the "rock-like impact" of a new generation.
 
 ---
 
 # Conclusion
-Hard rock is more than just a music genre; it has been closely connected to the growth of video game culture, from arcades to music games to e-sports.By sharing the "sound impact" of each era, both games and hard rock continue to evolve across generations.
-
+Hard rock is more than just a music genre; it has been closely connected to the growth of video game culture, from arcades to music games to e-sports. By sharing the "sound impact" of each era, both games and hard rock continue to evolve across generations.

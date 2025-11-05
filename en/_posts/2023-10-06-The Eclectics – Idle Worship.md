@@ -9,12 +9,12 @@ tags:
 - Ska
 - Punk
 title: The Eclectics – Idle Worship
-title_en: The Eclectics – Idle Worship
 ---
 
 
-“Idle Worship” is
+"Idle Worship" is
 This is an album by the American ska-punk band The Eclectics, released in 1997 by the label Jump Up! Records.
+
 
 #### Tracklist
 ```md
@@ -37,10 +37,9 @@ B3. New Found You
 B4. Near And Far
 
 B5. It's Not About You, Kevin
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30039999033?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WmUk00-yjyA?si=21WltiWT7Vp6VxFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmUk00-yjyA?si=21WltiWT7Vp6VxFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

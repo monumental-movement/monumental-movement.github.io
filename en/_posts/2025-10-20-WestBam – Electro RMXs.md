@@ -10,7 +10,6 @@ tags:
 - Ghettotech
 - 00s
 title: WestBam – Electro RMXs
-title_en: WestBam – Electro RMXs
 ---
 
 
@@ -20,7 +19,7 @@ WestBam (Maximilian Lenz) is a German DJ/producer and co-founder of the label Lo
 
 A is a remix by US Breaks/Breakbeat producer DJ Icey.
 
-AA1 is a remix by Ghettotech pioneer DJ Assault.AA2 is a remix by DJ Godfather from Detroit.
+AA1 is a remix by Ghettotech pioneer DJ Assault. AA2 is a remix by DJ Godfather from Detroit.
 
 #### Tracklist
 ```md
@@ -28,10 +27,9 @@ A. Dr. Motte & WestBam – Love Parade 2000 (One World One Love Parade) (DJ Icey
 
 AA1. WestBam – Hard Times (DJ Assault Remix)
 AA2. WestBam – Love Bass (DJ Godfather Detroit Ghetto Mix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47627276518?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIgW3I8_K8I?si=f_RbYW_MkTSfx2xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIgW3I8_K8I?si=f_RbYW_MkTSfx2xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

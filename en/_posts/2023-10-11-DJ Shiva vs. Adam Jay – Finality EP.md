@@ -8,7 +8,6 @@ layout: post
 tags:
 - Techno
 title: DJ Shiva vs. Adam Jay – Finality EP
-title_en: DJ Shiva vs. Adam Jay – Finality EP
 ---
 
 
@@ -27,9 +26,7 @@ A2. The Last Word (DJ Shiva's Original Mix)
 B1. Borderline Shift (Adam Jay's Remix)
 
 B2. The Last Word (Adam Jay's Remix)
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
-
-
 

@@ -11,7 +11,6 @@ tags:
 - Hard House
 - 00s
 title: Perfect Phase – Goal!!!
-title_en: Perfect Phase – Goal!!!
 ---
 
 
@@ -28,10 +27,9 @@ The jacket design was by Dennis Harinck, also known as Deaz D., who was a reside
 A. Goal!!!
 
 B. Chicky Chicky
-````
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MUPvmCzzj54?si=wUBgAlZ5lNTllQrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MUPvmCzzj54?si=wUBgAlZ5lNTllQrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

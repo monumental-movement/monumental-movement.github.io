@@ -8,23 +8,26 @@ layout: post
 tags:
 - Tribal House
 - 90s
-title: 【コラム】 Tribal House — ビートの“原始”から現代の融合まで
-title_en: '[Column] Tribal House — From the “primitive” beat to modern fusion'
+title: '[Column] Tribal House — From the "primitive" beat to modern fusion'
 ---
+
 
 
 ## What is Tribal House?
 
+
 Text: mmr｜Theme: Tribal house that incorporates multi-layered percussion instruments such as African/Latin music (congas, bongos, etc.) to house four-on-the-floor.
 
-Tribal House is a subgenre that combines the four-on-the-floor of house with multi-layered percussion instruments such as African/Latin music (congas, bongos, etc.).It is characterized by an experiential structure that emphasizes percussion, and it developed with deep ties to club floor formats and DJ culture.
+
+Tribal House is a subgenre that combines the four-on-the-floor of house with multi-layered percussion instruments such as African/Latin music (congas, bongos, etc.). It is characterized by an experiential structure that emphasizes percussion, and it developed with deep ties to club floor formats and DJ culture.
+
 
 ---
 
 ## Origin (1988-1994)
 
 **Background of the times**
-In the late 1980s and early 1990s, Chicago/New York club culture began to diverge and diversify from its disco-based house roots.One of its origins is when DJs dug up ethnic and Latin records from around the world and layered a "live percussion feel" on house music through record editing and sampling (this was the era when the long mix culture of clubs grew).
+In the late 1980s and early 1990s, Chicago/New York club culture began to diverge and diversify from its disco-based house roots. One of its origins is when DJs dug up ethnic and Latin records from around the world and layered a "live percussion feel" on house music through record editing and sampling (this was the era when the long mix culture of clubs grew).
 
 **Points of interest/site**
 - In clubs in New York and Chicago in the early 1990s, DJ sets themselves were central to genre expression.
@@ -39,7 +42,7 @@ In the late 1980s and early 1990s, Chicago/New York club culture began to diverg
 ## Maturity and boom (1994-2000)
 
 **Background of the times**
-In the mid-90s, labels and compilations that pushed the boundaries of the genre appeared.In particular, <strong>TRIBAL America</strong> from the United States greatly contributed to the formation of the scene (Label information: <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
+In the mid-90s, labels and compilations that pushed the boundaries of the genre appeared. In particular, <strong>TRIBAL America</strong> from the United States greatly contributed to the formation of the scene (Label information: <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
 
 **Representative works/people**
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>: An important album of club-oriented tribal expression.
@@ -56,18 +59,18 @@ In the mid-90s, labels and compilations that pushed the boundaries of the genre 
 ## Transformation and commercialization (2000s)
 
 **Background of the times**
-In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased.The production environment has shifted from being hardware-based to DAW-based, making it possible to create more sophisticated sound designs.
+In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased. The production environment has shifted from being hardware-based to DAW-based, making it possible to create more sophisticated sound designs.
 
 **Change in production method**
 - Processing of percussion instruments with extensive use of effect processing (filter/reverb/delay).
-- Popularization of “tribal feel that can be easily reproduced” using soft sample packs and plug-ins.
+- Popularization of "tribal feel that can be easily reproduced" using soft sample packs and plug-ins.
 
 ---
 
 ## Revival and Fusion (2010s-present)
 
 **Background of the times**
-Globalization and the rise of streaming have accelerated the fusion with Afro house and Latin rhythms."Hybrid" production, which captures live percussion instruments in high resolution and processes them electronically, has become mainstream.
+Globalization and the rise of streaming have accelerated the fusion with Afro house and Latin rhythms. "Hybrid" production, which captures live percussion instruments in high resolution and processes them electronically, has become mainstream.
 
 **Standard equipment on site (currently)**
 - Software: Ableton Live, Logic Pro, Native Instruments (Maschine/Kontakt), etc.
@@ -84,14 +87,14 @@ Globalization and the rise of streaming have accelerated the fusion with Afro ho
 ---
 
 ## Equipment chronology (simplified)
-- **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers.References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
+- **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers. References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s-2000s**: Heavy use of Akai MPC series and hardware samplers (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>).
 - **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), software samples such as Kontakt and Maschine, and MPC.
 
 ---
 
 ## Ethical considerations
-Tribal elements may intersect with discussions of cultural appropriation.When creating/playing, we encourage you to clearly state your origins and show respect for your roots.
+Tribal elements may intersect with discussions of cultural appropriation. When creating/playing, we encourage you to clearly state your origins and show respect for your roots.
 
 ---
 
@@ -128,7 +131,8 @@ color: #fff;
 ---
 
 ## Rhythm Journey
-Tribal House is not just club music, but a ``rhythmic journey'' that has spread globally, changing with each era.It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
+Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
+
 
 ## Reference links (main sources)
 - <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — Tribal house</a>
@@ -139,8 +143,6 @@ Tribal House is not just club music, but a ``rhythmic journey'' that has spread 
 - <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Wikipedia — Technics SL-1200</a>
 - <a href="https://en.wikipedia.org/wiki/Akai_MPC">Wikipedia — Akai MPC</a>
 - <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — Tourism (Danny Tenaglia)</a>
-
-
 
 
 
