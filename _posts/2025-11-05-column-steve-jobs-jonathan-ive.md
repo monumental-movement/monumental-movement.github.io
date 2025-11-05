@@ -74,8 +74,6 @@ color: #fff;
 
 2001年、Appleはデジタル音楽の時代を決定づける製品を発表した。
 
-![初代 iPod](https://upload.wikimedia.org/wikipedia/commons/3/3a/IPod_Nano_3rd_gen.jpg)
-*出典: [Wikipedia](https://ja.wikipedia.org/wiki/IPod)（CC BY-SA 3.0）*
 
 **iPod**は、ジョブズとアイブの両者の美学が融合した象徴である。  
 ジョブズは「1000曲をポケットに」と語り、  
@@ -97,8 +95,6 @@ iTunes Store の登場（2003年）は、レコード時代以来の音楽消費
 
 ### Power Macintoshのシルエット
 
-![Power Macintosh G4 Cube](https://upload.wikimedia.org/wikipedia/commons/a/a8/Apple_Power_Mac_G4_Cube.jpg)
-*出典: [Wikipedia](https://ja.wikipedia.org/wiki/Power_Mac_G4_Cube)（CC BY-SA 3.0）*
 
 アイブが設計した Power Mac G4 Cube（2000年）は、まるで無音のスピーカーのような佇まいを持っていた。  
 ファンレス構造、透明なアクリル外装、内部の光の設計──  
@@ -111,8 +107,6 @@ iTunes Store の登場（2003年）は、レコード時代以来の音楽消費
 アップルのマシンは単なるデジタル機器ではなく、音楽制作の道具として進化していった。  
 GarageBand（2004年）の登場は、音楽を誰もが作る時代を切り開いた。
 
-![GarageBand](https://upload.wikimedia.org/wikipedia/en/4/4c/GarageBand_Icon.png)
-*出典: [Wikipedia](https://en.wikipedia.org/wiki/GarageBand)（CC BY-SA 3.0）*
 
 さらにMacBook Pro（2006年〜）では、音響再生にアルミニウム筐体を活かした共鳴設計が採用された。  
 アイブは「筐体そのものが音を整える」と語っている（『FastCompany』インタビュー, 2015）。
@@ -180,8 +174,7 @@ LoveFromの公式声明にはこうある。
 ---
 
 ### 参考文献・出典
-- Isaacson, Walter. *Steve Jobs*. Simon & Schuster, 2011.  
-- SF Standard: [Life in Seven Songs — Jony Ive, 2024](https://sfstandard.com/life-in-seven-songs-podcast-jony-ive/)  
+- Isaacson, Walter. *Steve Jobs*. Simon & Schuster, 2011.   
 - FastCompany: [Jony Ive’s first hardware project post-Apple, 2023](https://www.fastcompany.com/90919569/jony-ive-first-hardware-project-post-apple)  
 - Wikipedia: [iPod](https://ja.wikipedia.org/wiki/IPod), [Power Mac G4 Cube](https://ja.wikipedia.org/wiki/Power_Mac_G4_Cube), [GarageBand](https://en.wikipedia.org/wiki/GarageBand)  
 - Far Out Magazine: [Steve Jobs’ favourite songs](https://faroutmagazine.co.uk/steve-jobs-favourite-songs/)  

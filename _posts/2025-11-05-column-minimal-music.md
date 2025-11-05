@@ -57,15 +57,13 @@ color: #fff;
 
 ## 第1章：ミニマル・ミュージックの起点 ― Terry RileyとSteve Reich
 
-![Terry Riley - In C](https://upload.wikimedia.org/wikipedia/en/8/88/Terry_Riley_In_C_cover.jpg)
-*出典：[Wikipedia - In C](https://en.wikipedia.org/wiki/In_C)*
-
 1964年、テリー・ライリーの《In C》が初演された。  
 この作品は、53の短い音型を演奏者が自由に繰り返すという、前例のない構造を持っていた。  
 各フレーズが少しずつずれながら重なり、無限に続くような音響を生む。  
 この「自由な反復」は、後の電子音楽やDJ文化に通じる発想である。
 
-**構造分析（例）**
+**構造分析**
+
 | 要素 | 内容 |
 |------|------|
 | 基本素材 | 53のフレーズ（1～2小節単位） |
@@ -82,8 +80,6 @@ color: #fff;
 
 ## 第2章：Philip Glassと“構築の美” ― 機械と人間の間で
 
-![Philip Glass - Einstein on the Beach](https://upload.wikimedia.org/wikipedia/en/7/7a/Einstein_on_the_Beach_Cover.jpg)
-*出典：[Wikipedia - Einstein on the Beach](https://en.wikipedia.org/wiki/Einstein_on_the_Beach)*
 
 フィリップ・グラスは、反復を「構造の秩序」として昇華した。  
 オペラ《Einstein on the Beach》(1976)は、5時間に及ぶ音響の建築物である。  
@@ -102,8 +98,6 @@ color: #fff;
 
 ## 第3章：テクノとハウスの中のミニマリズム ― DetroitからBerlinへ
 
-![Jeff Mills performing live](https://upload.wikimedia.org/wikipedia/commons/5/59/Jeff_Mills_2011.jpg)
-*出典：[Wikipedia - Jeff Mills](https://en.wikipedia.org/wiki/Jeff_Mills)*
 
 ### デトロイトの幾何学的ミニマル
 デリック・メイ、ジェフ・ミルズ、ロバート・フッドらが築いた**ミニマル・テクノ**は、  
@@ -112,6 +106,7 @@ color: #fff;
 最小限のパターンから極限の緊張を生み出す。
 
 **トラック構成分析（Robert Hood - "Rhythm of Vision"）**
+
 | 要素 | 内容 |
 |------|------|
 | 拍子 | 4/4 |
@@ -123,9 +118,6 @@ color: #fff;
 1990年代後半、ベルリンではBasic ChannelやMaurizio（Moritz von Oswald, Mark Ernestus）が  
 ダブ・エコーを伴う**「Dub Techno」**を確立。  
 低域の反復と残響が、時間の感覚を拡張する音響体験を作り出した。
-
-![Basic Channel Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Basic_Channel_logo.svg)
-*出典：[Wikipedia - Basic Channel](https://en.wikipedia.org/wiki/Basic_Channel)*
 
 ---
 
@@ -139,6 +131,7 @@ color: #fff;
 シンセとボーカルループの反復が、ライヒ的な位相感覚をポップスに持ち込んでいる。
 
 **比較表：EnoとRadioheadにおける反復構造**
+
 | 作品 | 技術的特徴 | 効果 |
 |------|-------------|------|
 | Brian Eno - *Music for Airports* | テープループの非同期再生 | 偶発的倍音の生成 |
@@ -149,22 +142,19 @@ color: #fff;
 ## 第5章：日本のミニマル ― 電子と環境の交差点
 
 ### 冨田勲：電子の中のシンフォニー
-![Isao Tomita](https://upload.wikimedia.org/wikipedia/commons/b/bf/Isao_Tomita_1979.jpg)
-*出典：[Wikipedia - Isao Tomita](https://en.wikipedia.org/wiki/Isao_Tomita)*
 
 冨田勲はシンセサイザーを用いて、クラシック音楽を「電子的反復」の中で再構成した。  
 《月の光》(1974)では、微細なモジュレーションの揺らぎが音の空間を形づくる。  
 この“電子的持続”の感覚は後のテクノ・アンビエントにも通じる。
 
 ### 池田亮司：データと周波数のミニマル
-![Ryoji Ikeda](https://upload.wikimedia.org/wikipedia/commons/9/9f/Ryoji_Ikeda.jpg)
-*出典：[Wikipedia - Ryoji Ikeda](https://en.wikipedia.org/wiki/Ryoji_Ikeda)*
 
 池田亮司の作品は、純粋な周波数・数値・データを音楽化する。  
 《dataplex》(2005)では、人間の知覚限界を試す超高周波サウンドを反復・分割し、  
 音響空間を“デジタル的ミニマル”として提示した。
 
 ### 日本のミニマル系アーティスト一覧
+
 | アーティスト | 主な作品 | 特徴 |
 |---------------|-----------|------|
 | 冨田勲 | 《月の光》《惑星》 | 電子クラシック／音響の緻密化 |
