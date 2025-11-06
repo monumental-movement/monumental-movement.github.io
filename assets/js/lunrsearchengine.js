@@ -1,6 +1,5 @@
 /* ===========================================================
-   Lunr Search Engine – Multi-language Version (ja/en)
-   Compatible with monumental-movement.jp structure
+   Lunr Search Engine – Full Japanese/English Compatible
    =========================================================== */
 
 var idx;
@@ -9,25 +8,21 @@ var currentLang = window.location.pathname.startsWith('/en/') ? 'en' : 'ja';
 var searchPath = currentLang === 'en' ? '/en/search.html' : '/search.html';
 
 /* -----------------------------------------------------------
-   Load the search index dynamically (embedded Liquid data)
+   Load index data
 ----------------------------------------------------------- */
 function loadDocuments() {
   return fetch(searchPath)
-    .then((response) => {
-      if (!response.ok) throw new Error("search.html not found");
-      return response.text();
-    })
-    .then((html) => {
-      // Extract the embedded JS variable "var documents = [...]"
+    .then(res => res.text())
+    .then(html => {
       const match = html.match(/var documents = (\[.*\]);/s);
       if (match && match[1]) {
         documents = JSON.parse(match[1]);
       } else {
-        console.error("No documents found in search file");
         documents = [];
+        console.error("No documents found in " + searchPath);
       }
     })
-    .catch((err) => {
+    .catch(err => {
       console.error("Failed to load search index:", err);
       documents = [];
     });
@@ -39,6 +34,7 @@ function loadDocuments() {
 function initLunr() {
   try {
     if (currentLang === 'ja' && typeof lunr.multiLanguage !== "undefined") {
+      // ✅ Japanese + English tokenizer enabled
       idx = lunr(function () {
         this.use(lunr.multiLanguage('ja', 'en'));
         this.ref('id');
@@ -48,7 +44,9 @@ function initLunr() {
           this.add(doc);
         }, this);
       });
+      console.log("Lunr initialized in Japanese mode");
     } else {
+      // English only
       idx = lunr(function () {
         this.ref('id');
         this.field('title', { boost: 10 });
@@ -57,21 +55,18 @@ function initLunr() {
           this.add(doc);
         }, this);
       });
+      console.log("Lunr initialized in English mode");
     }
-    console.log("Lunr initialized for:", currentLang);
   } catch (e) {
     console.error("Error initializing Lunr:", e);
   }
 }
 
 /* -----------------------------------------------------------
-   Search function with modal result display
+   Search execution + modal display
 ----------------------------------------------------------- */
 function lunr_search(term) {
-  if (!idx) {
-    console.error("Lunr index not ready yet.");
-    return false;
-  }
+  if (!idx || !term) return false;
 
   $('#lunrsearchresults').show(400);
   $("body").addClass("modal-open");
@@ -87,40 +82,34 @@ function lunr_search(term) {
     '<div class="modal-footer"><button id="btnx" type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Close</button></div>' +
     '</div></div></div>';
 
-  if (term) {
-    document.getElementById('modtit').innerHTML =
-      `<h5 class='modal-title'>Search results for '${term}'</h5>` + document.getElementById('modtit').innerHTML;
+  document.getElementById('modtit').innerHTML =
+    `<h5 class='modal-title'>Search results for '${term}'</h5>` + document.getElementById('modtit').innerHTML;
 
-    var results = idx.search(term);
-    var resultsList = document.querySelector('#lunrsearchresults ul');
+  var results = idx.search(term);
+  var resultsList = document.querySelector('#lunrsearchresults ul');
 
-    if (results.length > 0) {
-      for (var i = 0; i < results.length; i++) {
-        var ref = results[i].ref;
-        var doc = documents[ref];
-        if (!doc) continue;
-
-        var url = doc.url;
-        var title = doc.title;
-        var body = doc.body.substring(0, 160) + '...';
-
-        resultsList.innerHTML +=
-          `<li class='lunrsearchresult'>
-             <a href='${url}'>
-               <span class='title'>${title}</span>
-               <small><span class='body'>${body}</span></small>
-             </a>
-           </li>`;
-      }
-    } else {
-      resultsList.innerHTML = `<li class='lunrsearchresult'>No results found. Try another keyword.</li>`;
+  if (results.length > 0) {
+    for (var i = 0; i < results.length; i++) {
+      var ref = results[i].ref;
+      var doc = documents[ref];
+      if (!doc) continue;
+      resultsList.innerHTML +=
+        `<li class='lunrsearchresult'>
+           <a href='${doc.url}'>
+             <span class='title'>${doc.title}</span>
+             <small><span class='body'>${doc.body.substring(0,160)}...</span></small>
+           </a>
+         </li>`;
     }
+  } else {
+    resultsList.innerHTML = `<li class='lunrsearchresult'>No results found. Try another keyword.</li>`;
   }
+
   return false;
 }
 
 /* -----------------------------------------------------------
-   Modal Close Handler
+   Modal close event
 ----------------------------------------------------------- */
 $(function () {
   $("#lunrsearchresults").on('click', '#btnx', function () {
@@ -130,7 +119,7 @@ $(function () {
 });
 
 /* -----------------------------------------------------------
-   Boot sequence: load documents and build index
+   Boot sequence
 ----------------------------------------------------------- */
 document.addEventListener("DOMContentLoaded", function () {
   loadDocuments().then(initLunr);
