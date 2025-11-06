@@ -72,6 +72,8 @@ defaults:
 include:
   - _pages
   - en/_posts
+  - search.html
+  - en/search.html
 
 # Exclude unnecessary files from build
 exclude:
