@@ -100,7 +100,7 @@ color: #fff;
 
 ---
 
-## 第6章：作品モチーフ・技法比較（Mermaid）
+## 第6章：作品モチーフ・技法比較
 
 <div class="mermaid">
 
