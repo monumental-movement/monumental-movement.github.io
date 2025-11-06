@@ -10,8 +10,20 @@ var documents = [
   {
     "id": {{ counter }},
     "url": "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
-    "title": {{ post.title | jsonify }},
-    "body": {{ post.content | markdownify | replace: '.', '. ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | jsonify }}
+    "title": {{ post.title | strip_html | strip_newlines | jsonify }},
+    "body": {{ post.content 
+        | markdownify
+        | strip_html
+        | replace: '.', '. '
+        | replace: '。', '。 '
+        | replace: '、', '、 '
+        | replace: '！', '！ '
+        | replace: '？', '？ '
+        | replace: '　', ' '
+        | strip_newlines
+        | replace: '  ', ' '
+        | truncatewords: 200
+        | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% assign counter = counter | plus: 1 %}
   {% endif %}
