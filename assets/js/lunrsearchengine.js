@@ -21,6 +21,56 @@ function waitForLunrReady(callback) {
   }
 }
 
+
+/* ------------------------------------------------------------
+   modal
+------------------------------------------------------------ */
+
+function lunr_search(term) {
+  try {
+    $('#lunrsearchresults').show(400);
+    $("body").addClass("modal-open");
+
+    document.getElementById('lunrsearchresults').innerHTML =
+      '<div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">' +
+      '<div class="modal-dialog shadow" role="document">' +
+      '<div class="modal-content">' +
+      '<div class="modal-header" id="modtit">' +
+      '<button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close">&times;</button>' +
+      '</div>' +
+      '<div class="modal-body"><ul class="mb-0"></ul></div>' +
+      '<div class="modal-footer"><button id="btnx" type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Close</button></div>' +
+      '</div></div></div>';
+
+    if (term) {
+      document.getElementById('modtit').innerHTML =
+        "<h5 class='modal-title'>Search results for '" + term + "'</h5>" +
+        document.getElementById('modtit').innerHTML;
+
+      var results = idx.search(term);
+      var ul = document.querySelector('#lunrsearchresults ul');
+      if (results.length > 0) {
+        results.forEach(function (r) {
+          var ref = r.ref;
+          var d = documents[ref];
+          var body = (d.body || '').substring(0, 160) + '...';
+          ul.innerHTML +=
+            "<li class='lunrsearchresult'><a href='" + d.url + "'>" +
+            "<span class='title'>" + d.title + "</span>" +
+            "<small><span class='body'>" + body + "</span><span class='url'>" + d.url + "</span></small></a></li>";
+        });
+      } else {
+        ul.innerHTML = "<li class='lunrsearchresult'>Sorry, no results found. Close & try a different search!</li>";
+      }
+    }
+  } catch (e) {
+    console.error("Lunr modal error:", e);
+  }
+
+  return false;
+}
+
+
 /* ------------------------------------------------------------
    Load the index data
 ------------------------------------------------------------ */
