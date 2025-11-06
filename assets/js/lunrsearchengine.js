@@ -1,12 +1,55 @@
+/*!
+ * lunrsearchengine.js (Japanese + English, modal style)
+ * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
+ */
+
+var documents = [];
+var idx = null;
+
+// --- JSON 読み込み ---
+async function loadDocuments() {
+  try {
+    const res = await fetch("/search.html");
+    documents = await res.json();
+    console.log("✅ Loaded", documents.length, "documents from /search.html");
+  } catch (e) {
+    console.error("❌ Failed to load search index:", e);
+  }
+}
+
+// --- Lunr 初期化 ---
+async function initLunr() {
+  if (!documents.length) await loadDocuments();
+
+  try {
+    idx = lunr(function () {
+      this.use(lunr.multiLanguage("en", "ja"));
+      this.ref("id");
+      this.field("title");
+      this.field("body");
+
+      documents.forEach((doc) => this.add(doc));
+    });
+    console.log("✅ Lunr index built with multiLanguage (en, ja)");
+  } catch (e) {
+    console.error("❌ Lunr index build failed:", e);
+  }
+}
+
+// --- 検索関数（モーダル付き） ---
 function lunr_search(term) {
   console.log("🔍 Searching:", term);
+  if (!idx) {
+    console.warn("⚠️ Lunr not ready yet...");
+    return false;
+  }
 
   try {
     const resultBox = document.getElementById("lunrsearchresults");
     resultBox.style.display = "block";
     document.body.classList.add("modal-open");
 
-    // モーダルHTML
+    // モーダルHTML構築
     resultBox.innerHTML = `
       <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
         <div class="modal-dialog shadow" role="document">
@@ -33,9 +76,11 @@ function lunr_search(term) {
 
     if (results.length > 0) {
       results.forEach(function (r) {
-        const ref = r.ref;
-        const d = documents.find(doc => String(doc.id) === String(ref));
+        console.log("📄 Hit ref:", r.ref);
+        const d = documents.find((doc) => String(doc.id) === String(r.ref));
+        console.log("📄 Matched doc:", d);
         if (!d) return;
+
         const body = (d.body || "").substring(0, 160) + "...";
         ul.innerHTML += `
           <li class="lunrsearchresult">
@@ -55,8 +100,14 @@ function lunr_search(term) {
   return false;
 }
 
-// --- モーダルのクローズ処理（再生成対応） ---
+// --- モーダルのクローズ処理 ---
 $(document).on("click", "#btnx, #btnclose", function () {
   $("#lunrsearchresults").hide(200);
   $("body").removeClass("modal-open");
+});
+
+// --- 起動時処理 ---
+document.addEventListener("DOMContentLoaded", async () => {
+  await loadDocuments();
+  await initLunr();
 });
