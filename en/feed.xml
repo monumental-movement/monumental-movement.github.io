@@ -2,14 +2,14 @@
 layout: none
 ---
 
-{% assign posts = site.posts | where: "lang", "ja" %}
+{% assign posts = site.posts | where: "lang", "en" %}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>{{ site.title }} - 日本語版</title>
-    <link>{{ site.url }}/</link>
+    <title>{{ site.title }} - English Edition</title>
+    <link>{{ site.url }}/en/</link>
     <description>{{ site.description }}</description>
-    <language>ja</language>
+    <language>en</language>
 
     {% for post in posts %}
     <item>

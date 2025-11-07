@@ -4,19 +4,43 @@ layout: default
 permalink: "/categories.html"
 ---
 
+{% comment %}
+言語判定：URLまたはfront matterに基づき「ja」「en」を決定
+- /en/ 配下なら英語
+- それ以外は日本語
+{% endcomment %}
+{% if page.lang == "en" or page.url contains '/en/' %}
+  {% assign lang = "en" %}
+{% else %}
+  {% assign lang = "ja" %}
+{% endif %}
 
+{% comment %}
+カテゴリごとに投稿を抽出。ただし lang が一致する記事のみを対象
+{% endcomment %}
 {% for category in site.categories %}
-<h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h4>
-<div class="blog-grid-container">
-{% assign pages_list = category[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox.html %}
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
-</div>
+  {% assign filtered_posts = "" | split: "" %}
+  {% for post in category[1] %}
+    {% if post.lang == lang %}
+      {% assign filtered_posts = filtered_posts | push: post %}
+    {% endif %}
+  {% endfor %}
+
+  {% if filtered_posts != empty %}
+    <h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}">
+      <span class="text-capitalize badge badge-primary text-small">
+        {{ category[0] }}
+      </span>
+    </h4>
+    <div class="blog-grid-container">
+      {% for post in filtered_posts %}
+        {% if post.title %}
+          {% if group == null or group == post.group %}
+            {% include postbox.html %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% assign group = nil %}
+    </div>
+  {% endif %}
 {% endfor %}

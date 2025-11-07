@@ -32,6 +32,24 @@ plugins:
   - jekyll-archives
   - jekyll-figure
 
+
+# ==============================
+# 多言語別サイトマップ
+# ==============================
+
+# 日本語サイト用
+sitemap:
+  exclude:
+    - "/en/*"
+
+# 英語サイト用 (独自生成)
+defaults:
+  - scope:
+      path: "en/"
+    values:
+      sitemap: true
+
+
 # Archives
 jekyll-archives:
   enabled:
@@ -87,6 +105,18 @@ exclude:
   - scripts
   - en/_site
   - _drafts
+
+# Japanese English
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      lang: "ja"
+  - scope:
+      path: "en/_posts"
+    values:
+      lang: "en"
+
 
 # Adsense / Author Box
 adsense: "unabled"

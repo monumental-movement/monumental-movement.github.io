@@ -8,7 +8,22 @@
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
-    
+
+{% comment %}
+多言語対応 <link rel="alternate" hreflang="…"> 自動生成
+{% endcomment %}
+{% if page.lang == "ja" %}
+  <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url }}" />
+  {% assign en_path = "/en" | append: page.url %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ en_path }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />
+{% elsif page.lang == "en" %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url }}" />
+  {% assign ja_path = page.url | remove_first: "/en" %}
+  <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ ja_path }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/" />
+{% endif %}
+
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
