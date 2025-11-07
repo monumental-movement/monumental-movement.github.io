@@ -52,15 +52,7 @@ jekyll-archives:
 # ==============================
 # 日本語版ページネーション（ルート配下）
 pagination:
-  enabled: true
-  per_page: 48
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  sort_field: 'date'
-  sort_reverse: true
-  trail:
-    before: 2
-    after: 2
+  enabled: false
 
 # 英語版ページネーション（/en/ 配下）
 pagination_en:
