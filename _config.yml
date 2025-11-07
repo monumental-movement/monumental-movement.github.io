@@ -1,29 +1,34 @@
-# Site
+# ==============================
+# Site 基本情報
+# ==============================
 name: "MMR"
 title: "m.m.r"
 description: "Monumental Movement"
-logo: '../assets/images/logo.png'
-favicon: '../assets/images/logo.png'
+logo: "../assets/images/logo.png"
+favicon: "../assets/images/logo.png"
 baseurl: "" 
 url: "https://monumental-movement.jp"
-google_analytics: 'G-YYMSK3VLV2'
-disqus: 'mmr'
-mailchimp-list: 'https://gmail.us22.list-manage.com/subscribe/post?u=4b66f07c74b33b5132ea18c2c&amp;id=cc67e38784&amp;f_id=00fcc4e1f0"'
-permalink: /:title/
+google_analytics: "G-YYMSK3VLV2"
+disqus: "mmr"
+mailchimp-list: "https://gmail.us22.list-manage.com/subscribe/post?u=4b66f07c74b33b5132ea18c2c&amp;id=cc67e38784&amp;f_id=00fcc4e1f0"
 email: monumental.movement.records@gmail.com
 
+# ==============================
 # Authors
+# ==============================
 authors:
   mmr:
     name: MMR
     display_name: Monumental Movement Records
-    avatar: '../assets/images/avatar-mm.png'
+    avatar: "../assets/images/avatar-mm.png"
     email: monumental.movement.records@gmail.com
     web: https://jp.mercari.com/user/profile/937430248
     twitter: https://x.com/mmrecords_japan
     description: "中古レコード・CD・カセットテープ・書籍など"
 
+# ==============================
 # Plugins
+# ==============================
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -32,25 +37,9 @@ plugins:
   - jekyll-archives
   - jekyll-figure
 
-
 # ==============================
-# 多言語別サイトマップ
-# ==============================
-
-# 日本語サイト用
-sitemap:
-  exclude:
-    - "/en/*"
-
-# 英語サイト用 (独自生成)
-defaults:
-  - scope:
-      path: "en/"
-    values:
-      sitemap: true
-
-
 # Archives
+# ==============================
 jekyll-archives:
   enabled:
     - categories
@@ -58,42 +47,61 @@ jekyll-archives:
   permalinks:
     category: /category/:name/
 
+# ==============================
 # Pagination 
+# ==============================
 paginate: 48
 paginate_path: /page:num/
 
+# ==============================
 # Markdown / Sass
+# ==============================
 highlighter: none
 markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
-    disable : true
+    disable: true
 sass:
   sass_dir: _sass
   style: compressed
 
+# ==============================
 # Collections
+# ==============================
 collections:
   posts:
     output: true
     permalink: /:title/
 
-# Multi-language defaults
+# ==============================
+# 多言語設定（最重要）
+# ==============================
 defaults:
+  # 日本語版（ルート配下）
+  - scope:
+      path: "_posts"
+    values:
+      lang: "ja"
+      permalink: /:title/
+      sitemap: true
+
+  # 英語版（/en/配下）
   - scope:
       path: "en/_posts"
     values:
       lang: "en"
       permalink: /en/:title/
+      sitemap: true
 
-# Include only once
+# ==============================
+# Include / Exclude
+# ==============================
 include:
   - _pages
   - en/_posts
   - search.html
   - en/search.html
 
-# Exclude unnecessary files from build
 exclude:
   - changelog.md
   - LICENSE.txt
@@ -106,19 +114,16 @@ exclude:
   - en/_site
   - _drafts
 
-# Japanese English
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      lang: "ja"
-  - scope:
-      path: "en/_posts"
-    values:
-      lang: "en"
+# ==============================
+# Sitemap 設定
+# ==============================
+sitemap:
+  exclude:
+    - "/en/*"
 
-
+# ==============================
 # Adsense / Author Box
+# ==============================
 adsense: "unabled"
 adsense-data-ad-client: "ca-pub-4160577106615811"
 adsense-data-ad-slot: "5391680422"
