@@ -55,7 +55,7 @@ jekyll-archives:
 paginate: 48
 paginate_path: /page:num/
 enabled: true
-  debug: false
+debug: false
 
 # ==============================
 # Markdown / Sass
