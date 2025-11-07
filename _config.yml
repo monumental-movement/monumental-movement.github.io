@@ -36,6 +36,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jekyll-paginate-v2
+
 
 # ==============================
 # Archives
@@ -52,6 +54,8 @@ jekyll-archives:
 # ==============================
 paginate: 48
 paginate_path: /page:num/
+enabled: true
+  debug: false
 
 # ==============================
 # Markdown / Sass
