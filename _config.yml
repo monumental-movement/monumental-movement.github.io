@@ -30,14 +30,12 @@ authors:
 # Plugins
 # ==============================
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-paginate-v2
-
 
 # ==============================
 # Archives
@@ -52,26 +50,33 @@ jekyll-archives:
 # ==============================
 # Pagination
 # ==============================
-# 日本語版（従来の jekyll-paginate 用）
-paginate: 48
-paginate_path: /page:num/
-
-# 英語版（jekyll-paginate-v2 用）
+# 日本語版ページネーション（ルート配下）
 pagination:
+  enabled: true
+  per_page: 48
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+  scope:
+    path: "_posts"
+
+# 英語版ページネーション（/en/ 配下）
+pagination_en:
   enabled: true
   per_page: 48
   permalink: '/en/page/:num/'
   title: ':title - page :num'
   sort_field: 'date'
   sort_reverse: true
-  debug: false
   trail:
     before: 2
     after: 2
-  # 記事の対象を /en/_posts に限定
   scope:
     path: "en/_posts"
-
 
 # ==============================
 # Markdown / Sass
@@ -94,7 +99,7 @@ collections:
     permalink: /:title/
 
 # ==============================
-# 多言語設定（最重要）
+# 多言語設定
 # ==============================
 defaults:
   # 日本語版（ルート配下）
