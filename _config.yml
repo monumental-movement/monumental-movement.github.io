@@ -50,12 +50,28 @@ jekyll-archives:
     category: /category/:name/
 
 # ==============================
-# Pagination 
+# Pagination
 # ==============================
+# 日本語版（従来の jekyll-paginate 用）
 paginate: 48
 paginate_path: /page:num/
-enabled: true
-debug: false
+
+# 英語版（jekyll-paginate-v2 用）
+pagination:
+  enabled: true
+  per_page: 48
+  permalink: '/en/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
+  debug: false
+  trail:
+    before: 2
+    after: 2
+  # 記事の対象を /en/_posts に限定
+  scope:
+    path: "en/_posts"
+
 
 # ==============================
 # Markdown / Sass
