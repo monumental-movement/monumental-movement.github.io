@@ -1,20 +1,22 @@
 ---
 layout: default
 title: Home
-lang: ja
+lang: en
+permalink: /en/
 ---
 
-<p>中古レコード、CD、カセットテープ、書籍など</p>
-<p><a href="/en/">🌐 View in English</a></p>
+<p>Used vinyl records, CDs, cassette tapes, books, and more</p>
+<p><a href="/">🇯🇵 日本語で表示</a></p>
+
 <div class="blog-grid-container">
   {% for post in paginator.posts %}
-    {% if post.lang == "ja" or post.lang == nil %}
+    {% if post.lang == "en" %}
       {% include postbox.html %}
     {% endif %}
   {% endfor %}
 </div>
 
-<!-- ページネーション -->
+<!-- Pagination -->
 <div class="bottompagination">
   <span class="navigation" role="navigation">
     {% include pagination.html %}
@@ -26,7 +28,7 @@ lang: ja
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
 <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 
-<!-- Adsense (ページ下に1回だけ読み込み) -->
+<!-- Adsense (load once per page bottom) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"

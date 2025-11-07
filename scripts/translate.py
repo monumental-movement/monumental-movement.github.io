@@ -24,15 +24,10 @@ def normalize_quotes(text):
 
 def translate_text(text):
     """iframe・コード・空行をスキップして安全翻訳"""
-    if not text.strip():
-        return text
-    if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
-        return text
-    if re.match(r"^```", text.strip()):
+    if not text.strip() or re.match(r"^```", text.strip()) or re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
         return text
     try:
         result = translator.translate(text)
-        # deep_translator が None を返した場合も安全に扱う
         if result is None:
             print(f"⚠️ None returned from translator for: {text[:30]}...")
             return text
@@ -42,17 +37,12 @@ def translate_text(text):
         return text
 
 
-
 def split_front_matter(content):
-    """YAML front matter を分離して安全に返す"""
+    """YAML front matter を分離"""
     if content.startswith("---"):
         parts = content.split('---', 2)
         if len(parts) >= 3:
-            fm, body = parts[1], parts[2]
-            return fm, body
-        else:
-            # 不完全な場合でも空のfront matterを返す
-            return "", content
+            return parts[1], parts[2]
     return "", content
 
 
@@ -76,7 +66,6 @@ for filename in os.listdir(SRC_DIR):
     fm, body = split_front_matter(src_content)
     front_matter = load_yaml_safe(fm)
 
-    # 既存英語ファイルがある場合、差分を確認
     old_body = ""
     if os.path.exists(dest_path):
         with open(dest_path, "r", encoding="utf-8") as f:
@@ -88,35 +77,45 @@ for filename in os.listdir(SRC_DIR):
         diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
         if not diff:
             print(f"⏭️ No changes: {filename}")
-            continue  # 変更なしならスキップ
+            continue
         else:
-            print(f"🔁 Diff detected: {filename} — 更新箇所を翻訳")
+            print(f"🔁 Diff detected: {filename} — 差分部分のみ翻訳")
+
+        # 行単位で差分反映
+        new_lines = old_body.splitlines()
+        body_lines = body.splitlines()
+        for i, (old_line, new_line) in enumerate(zip(old_body.splitlines(), body_lines)):
+            if old_line != new_line:
+                new_lines[i] = translate_text(new_line)
+        # 長さ違いのケースも補完
+        if len(body_lines) > len(new_lines):
+            new_lines.extend(translate_text(l) for l in body_lines[len(new_lines):])
+        translated_body = "\n".join(new_lines)
+
+    else:
+        # 新規ファイルは全文翻訳
+        print(f"🆕 New file: {filename} — 全文翻訳")
+        translated_body = ""
+        in_code_block = False
+        for line in body.splitlines():
+            if line.strip().startswith("```"):
+                in_code_block = not in_code_block
+                translated_body += line + "\n"
+            elif in_code_block:
+                translated_body += line + "\n"
+            else:
+                translated_body += translate_text(line) + "\n"
 
     # タイトル翻訳
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
-
     front_matter["lang"] = "en"
 
-    # 本文翻訳（コードブロックはスキップ）
-    translated_body = ""
-    in_code_block = False
-    for line in body.splitlines():
-        if line.strip().startswith("```"):
-            in_code_block = not in_code_block
-            translated_body += line + "\n"
-            continue
-        if in_code_block:
-            translated_body += line + "\n"
-        else:
-            translated_body += translate_text(line) + "\n"
-
-    # 英語ファイル出力
-    output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
-
+    # 出力
+    output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}\n"
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output_content)
 
     print(f"✅ Translated/Updated: {filename}")
 
-print("\n🎉 English posts updated successfully (only changed parts retranslated)")
+print("\n🎉 English posts updated successfully (diff-based partial translation)")
