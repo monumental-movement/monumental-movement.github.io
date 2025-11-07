@@ -1,9 +1,10 @@
 <div class="tag-slider">
-  {% if page.url contains '/en/' %}
-    {% assign posts = site.posts | where_exp: "p", "p.path contains 'en/_posts'" %}
+  {% if page.lang == 'en' %}
+    {% assign posts = site.en_posts %}
   {% else %}
-    {% assign posts = site.posts | where_exp: "p", "p.path contains '_posts' and p.path contains '/en/' == false" %}
-  {% endif %}
+  {% assign posts = site.posts %}
+    {% endif %}
+
 
   {% assign tags = "" | split: "" %}
   {% for post in posts %}
