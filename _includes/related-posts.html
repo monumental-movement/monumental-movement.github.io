@@ -30,7 +30,7 @@
   <div class="blog-grid-container">
 
   {% for post in site.posts %}
-    {% if post.url != page.url and post.lang == current_lang %}  {# ★ 言語を一致させる #}
+    {% if post.url != page.url and post.lang == current_lang %}  {% comment %} ★ 言語を一致させる {% endcomment %}
 
       {% assign sameTagCount = 0 %}
       {% assign commonTags = '' %}
