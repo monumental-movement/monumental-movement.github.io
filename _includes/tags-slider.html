@@ -1,9 +1,9 @@
 <div class="tag-slider">
   {% if page.lang == 'en' %}
-    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" %}
+    {% assign posts = site.en_posts.docs %}
   {% else %}
-  {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false %}
-    {% endif %}
+    {% assign posts = site.posts %}
+  {% endif %}
 
   {% assign tags = "" | split: "" %}
   {% for post in posts %}
@@ -17,18 +17,27 @@
     {% endif %}
   {% endfor %}
 
-  {% assign tags = tags | sort %}
+  {% assign tags = tags | uniq %}
 
   {% if tags.size > 0 %}
     {% for row in (1..3) %}
+      {% assign shuffled = tags | shuffle %}
       <div class="scroll-row row{{ row }}">
-        {% for tag in tags %}
-          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag row{{ row }}">
+        {% for tag in shuffled %}
+          <a href="{% if page.lang == 'en' %}
+            {{ site.baseurl }}/en/tags#{{ tag | uri_escape }}
+          {% else %}
+            {{ site.baseurl }}/tags#{{ tag | uri_escape }}
+          {% endif %}" class="tag row{{ row }}">
             #{{ tag }}
           </a>
         {% endfor %}
-        {% for tag in tags %}
-          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag clone row{{ row }}">
+        {% for tag in shuffled %}
+          <a href="{% if page.lang == 'en' %}
+            {{ site.baseurl }}/en/tags#{{ tag | uri_escape }}
+          {% else %}
+            {{ site.baseurl }}/tags#{{ tag | uri_escape }}
+          {% endif %}" class="tag clone row{{ row }}">
             #{{ tag }}
           </a>
         {% endfor %}
@@ -44,42 +53,51 @@
 .tag-slider {
   overflow: hidden;
   position: relative;
-  padding: 6px 0;
+  padding: 10px 0;
+  background: transparent;
 }
 
-/* === 横スクロールラッパー === */
+/* === 横スクロール各行 === */
 .scroll-row {
   display: inline-block;
   white-space: nowrap;
-  margin: 3px 0;
-  animation: scroll-loop linear infinite;
+  margin: 5px 0;
+  animation: scroll-loop 160s linear infinite;
   will-change: transform;
 }
 
-/* ホバーで停止 */
+/* --- 段ごとの速度差 --- */
+.scroll-row.row1 { animation-duration: 200s; }
+.scroll-row.row2 { animation-duration: 160s; animation-direction: reverse; }
+.scroll-row.row3 { animation-duration: 240s; }
+
+/* ホバーで全体停止 */
 .tag-slider:hover .scroll-row {
   animation-play-state: paused;
 }
 
-/* === タグ共通スタイル === */
+/* === タグ基本 === */
 .tag {
   display: inline-block;
-  margin: 0 5px;
-  padding: 3px 8px;
-  border-radius: 16px;
+  margin: 0 6px;
+  padding: 4px 10px;
+  border-radius: 20px;
   font-size: 0.85rem;
   text-decoration: none;
   white-space: nowrap;
-  transition: transform 0.3s, box-shadow 0.3s, background 0.5s;
+  transition: all 0.3s ease;
 }
 
-/* --- 1段目：グラデーション背景 --- */
+/* --- 1段目：グラデ背景 --- */
 .tag.row1 {
   background: linear-gradient(135deg, #ff7a00, #ffb347);
   border: 1px solid #ff7a00;
   color: #fff;
 }
-.tag.row1:hover { transform: scale(1.08); box-shadow: 0 0 10px rgba(255,136,0,0.7); }
+.tag.row1:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(255,136,0,0.7);
+}
 
 /* --- 2段目：枠線のみ --- */
 .tag.row2 {
@@ -88,24 +106,24 @@
   color: #ff7a00;
 }
 .tag.row2:hover {
-  transform: scale(1.08);
   background: rgba(255,122,0,0.15);
-  box-shadow: 0 0 8px rgba(255,136,0,0.5);
+  transform: scale(1.1);
+  box-shadow: 0 0 8px rgba(255,136,0,0.6);
 }
 
-/* --- 3段目：半透明背景 --- */
+/* --- 3段目：半透明 --- */
 .tag.row3 {
-  background: rgba(255,122,0,0.3);
+  background: rgba(255,122,0,0.25);
   border: 1px solid #ff7a00;
   color: #fff;
 }
 .tag.row3:hover {
-  transform: scale(1.08);
-  background: rgba(255,122,0,0.5);
-  box-shadow: 0 0 8px rgba(255,136,0,0.6);
+  background: rgba(255,122,0,0.45);
+  transform: scale(1.1);
+  box-shadow: 0 0 8px rgba(255,136,0,0.5);
 }
 
-/* クローン（無限ループ用） */
+/* 無限ループ用クローン */
 .clone { opacity: 0.85; }
 
 /* === 横スクロールアニメーション === */
@@ -114,24 +132,14 @@
   to { transform: translateX(-50%); }
 }
 
-/* === 各段のスクロール速度（遅く調整） === */
-.scroll-row.row1 { animation-duration: 280s; }
-.scroll-row.row2 { animation-duration: 300s; }
-.scroll-row.row3 { animation-duration: 260s; }
-
-/* === レスポンシブ対応 === */
+/* === レスポンシブ === */
 @media (max-width: 1024px) {
-  .tag { font-size: 0.8rem; padding: 3px 7px; }
-  .scroll-row { margin: 2px 0; }
+  .tag { font-size: 0.8rem; padding: 3px 8px; }
 }
-
 @media (max-width: 768px) {
   .tag { font-size: 0.75rem; padding: 2px 6px; }
-  .scroll-row { margin: 1px 0; }
 }
-
 @media (max-width: 480px) {
   .tag { font-size: 0.7rem; padding: 2px 5px; border-radius: 14px; }
-  .scroll-row { margin: 1px 0; }
 }
 </style>
