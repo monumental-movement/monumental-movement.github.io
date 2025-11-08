@@ -25,6 +25,8 @@
       </a>
     {% endfor %}
   {% else %}
+  <p>Total EN posts: {{ site.en_posts | size }}</p>
+<p>Total EN tags: {{ tags | size }}</p>
     <p style="color:#777;">(No tags found)</p>
   {% endif %}
 </div>
