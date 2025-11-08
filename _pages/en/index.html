@@ -9,6 +9,9 @@ permalink: /en/
 <h1>Monumental Movement</h1>
 <p>Exploring the culture of vinyl, cassettes, and music archives from Japan to the world.</p>
 <p><a href="/">🇯🇵 日本語で表示</a></p>
+
+{% include tags-slider.html %}
+
 <div class="blog-grid-container">
   {% for post in site.posts %}
     {% if post.lang == "en" %}
