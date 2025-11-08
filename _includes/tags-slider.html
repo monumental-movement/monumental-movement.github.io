@@ -1,6 +1,6 @@
 <div class="tag-slider">
   {% comment %}
-  言語切り替え（日本語版／英語版）
+  言語ごとに投稿を切り替え（日本語版: site.posts / 英語版: site.en_posts）
   {% endcomment %}
   {% if page.lang == 'en' %}
     {% assign posts = site.en_posts %}
@@ -25,13 +25,13 @@
   {% if tags.size > 0 %}
     <div class="scroll-row">
       {% for tag in tags %}
-        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag">
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag">
           #{{ tag }}
         </a>
       {% endfor %}
       <!-- 無限ループ用に複製 -->
       {% for tag in tags %}
-        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag clone">
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag clone">
           #{{ tag }}
         </a>
       {% endfor %}
@@ -42,52 +42,56 @@
 </div>
 
 <style>
+/* === スライダー全体 === */
 .tag-slider {
   overflow: hidden;
   position: relative;
-  padding: 8px 0;
+  padding: 6px 0;
   background: none;
 }
 
-/* 横並び・無限スクロール領域 */
+/* === 横スクロール用のラッパー === */
 .scroll-row {
   display: inline-block;
   white-space: nowrap;
   animation: scroll-loop 60s linear infinite;
+  will-change: transform;
 }
 
-/* ホバーで停止 */
+/* ホバーでスクロール停止 */
 .tag-slider:hover .scroll-row {
   animation-play-state: paused;
 }
 
-/* タグの見た目（オレンジ基調・サイトカラー対応） */
+/* === タグ === */
 .tag {
   display: inline-block;
-  margin: 0 8px;
-  padding: 4px 12px;
-  border-radius: 20px;
-  font-size: 0.9rem;
+  margin: 0 6px;
+  padding: 4px 10px;
+  border-radius: 18px;
+  font-size: 0.85rem;
   color: #fff;
   background: linear-gradient(135deg, #ff7a00, #ffb347);
   text-decoration: none;
   white-space: nowrap;
-  transition: transform 0.3s, box-shadow 0.3s;
+  transition: transform 0.3s, box-shadow 0.3s, background 0.5s;
 }
 
+/* === ホバー時 === */
 .tag:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 12px rgba(255, 136, 0, 0.6);
+  transform: scale(1.08);
+  box-shadow: 0 0 10px rgba(255, 136, 0, 0.7);
+  background: linear-gradient(135deg, #ffa200, #ffce6d);
 }
 
-/* 横スクロールアニメーション */
+/* === 横スクロールアニメーション === */
 @keyframes scroll-loop {
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }
 }
 
-/* クローンが繋がって自然な無限ループに見えるように */
+/* クローンタグ（自然な無限ループ用） */
 .clone {
-  opacity: 0.8;
+  opacity: 0.85;
 }
 </style>
