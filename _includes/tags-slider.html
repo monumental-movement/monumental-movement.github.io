@@ -1,4 +1,9 @@
 <div class="tag-slider">
+  {% comment %}
+  言語に応じてコレクションを切り替える
+  - lang: en → 英語投稿（site.en_posts）
+  - lang 未指定 → 日本語投稿（site.posts）
+  {% endcomment %}
   {% if page.lang == 'en' %}
     {% assign posts = site.en_posts %}
   {% else %}
@@ -25,23 +30,23 @@
       </a>
     {% endfor %}
   {% else %}
-  <p>Total EN posts: {{ site.en_posts | size }}</p>
-<p>Total EN tags: {{ tags | size }}</p>
-    <p style="color:#777;">(No tags found)</p>
+    <p style="color:#777; text-align:center;">(No tags found)</p>
   {% endif %}
 </div>
 
 <style>
+/* --- タグスライダー全体 --- */
 .tag-slider {
   display: grid;
   grid-template-rows: repeat(3, auto);
   overflow: hidden;
   height: 6em;
   position: relative;
-  padding: 5px 0;
+  padding: 10px 0;
+  text-align: center;
 }
 
-/* タグの基本スタイル（サイト配色に沿ったグラデーション） */
+/* --- タグスタイル（グラデーション＋発光） --- */
 .tag {
   display: inline-block;
   padding: 6px 14px;
@@ -49,7 +54,7 @@
   border-radius: 25px;
   font-size: 0.9rem;
   color: #fff;
-  background: linear-gradient(135deg, #0ff, #7b2ff7);
+  background: linear-gradient(135deg, #00e0ff, #8b00ff);
   white-space: nowrap;
   text-decoration: none;
   box-shadow: 0 0 12px rgba(0, 255, 255, 0.3);
@@ -57,12 +62,12 @@
   transition: transform 0.3s, box-shadow 0.3s, background 0.6s, color 0.3s;
 }
 
-/* 各段の速度・方向 */
+/* --- 各段の速度・方向を変える --- */
 .tag:nth-child(3n+1) { animation-duration: 25s; animation-direction: normal; }
 .tag:nth-child(3n+2) { animation-duration: 22s; animation-direction: reverse; }
 .tag:nth-child(3n+3) { animation-duration: 28s; animation-direction: normal; }
 
-/* ホバー時：発光＆拡大 */
+/* --- ホバー時：停止＋発光 --- */
 .tag:hover {
   transform: scale(1.1);
   background: linear-gradient(135deg, #ff00e6, #00f5ff);
@@ -70,12 +75,11 @@
   text-shadow: 0 0 6px #fff;
 }
 
-/* 親ホバーでスライド停止 */
 .tag-slider:hover .tag {
   animation-play-state: paused;
 }
 
-/* 横スクロールアニメーション */
+/* --- 横スクロールアニメーション --- */
 @keyframes scroll-left {
   from { transform: translateX(100%); }
   to { transform: translateX(-100%); }
