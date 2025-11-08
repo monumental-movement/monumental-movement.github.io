@@ -1,39 +1,67 @@
-name: Translate Posts
+name: Auto Translate (6h-safe cached diff)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # 手動実行
+  push:
+    paths:
+      - "_posts/**"
+      - "scripts/translate.py"
+      - "translation_cache.yaml"
 
 jobs:
   translate:
     runs-on: ubuntu-latest
+    timeout-minutes: 355  # 約5時間55分で安全停止
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: 🧱 Checkout repository
+        uses: actions/checkout@v4
         with:
-          python-version: '3.11'  # 固定で安定バージョンを指定
+          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Install dependencies
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install googletrans==4.0.0-rc1
-          pip install PyYAML
-          pip show PyYAML
-      
-      - name: Install dependencies
-        run: |
-          pip install pyyaml deep-translator googletrans==4.0.0-rc1
+          pip install PyYAML deep-translator googletrans==4.0.0-rc1
 
-      - name: Run translation script
+      - name: 💾 Restore translation cache
+        run: |
+          if [ ! -f translation_cache.yaml ]; then
+            echo "{}" > translation_cache.yaml
+          else
+            echo "✅ Existing cache loaded"
+          fi
+
+      - name: 🌍 Run translation script
         run: python scripts/translate.py
 
-      - name: Commit and push translated files
+      - name: 🧩 Git configuration
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add en/_posts/*
-          git commit -m "Add translated English posts" || echo "No changes to commit"
-          git push
+
+      - name: 💬 Commit translated files
+        run: |
+          git fetch origin main
+          git pull origin main --rebase
+          git add en/_posts/* translation_cache.yaml || echo "Nothing to add"
+          git commit -m "Auto-translated English posts (cached diff)" || echo "No changes to commit"
+
+      - name: 🚀 Push changes with retry
+        run: |
+          set +e
+          for i in 1 2 3
+          do
+            git push origin main && break
+            echo "⚠️ Push failed, retrying ($i/3)..."
+            git fetch origin main
+            git pull origin main --rebase
+            sleep 30
+          done
+          set -e
