@@ -1,8 +1,8 @@
 <div class="tag-slider">
   {% if page.lang == 'en' %}
-    {% assign posts = site.en_posts.docs %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false %}
   {% endif %}
 
   {% assign tags = "" | split: "" %}
