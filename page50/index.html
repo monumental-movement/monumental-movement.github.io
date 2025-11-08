@@ -10334,7 +10334,7 @@ B面１曲目のヴォーカルは、ハウスミュージックシーンで活�
   display: inline-block;
   white-space: nowrap;
   margin: 3px 0;
-  animation: scroll-loop 120s linear infinite;
+  animation: scroll-loop linear infinite;
   will-change: transform;
 }
 
@@ -10396,10 +10396,10 @@ B面１曲目のヴォーカルは、ハウスミュージックシーンで活�
   to { transform: translateX(-50%); }
 }
 
-/* === 各段のスクロール速度調整 === */
-.scroll-row.row1 { animation-duration: 120s; }
-.scroll-row.row2 { animation-duration: 100s; }
-.scroll-row.row3 { animation-duration: 140s; }
+/* === 各段のスクロール速度（遅く調整） === */
+.scroll-row.row1 { animation-duration: 240s; }
+.scroll-row.row2 { animation-duration: 200s; }
+.scroll-row.row3 { animation-duration: 280s; }
 
 /* === レスポンシブ対応 === */
 @media (max-width: 1024px) {
