@@ -16,37 +16,30 @@
       {% endfor %}
     {% endif %}
   {% endfor %}
+  
+{% assign tags = tags | sort %}
+{% assign total = tags | size %}
 
-  {% assign tags = tags | sort %}
-
-  {% if tags.size > 0 %}
-    {% for row in (1..3) %}
-      <div class="scroll-row row{{ row }}">
-        {% for tag in tags %}
-          <a href="{% if page.lang == 'en' %}
-                      {{ site.baseurl }}/en/tags#{{ tag | replace: ' ', '-' | downcase }}
-                    {% else %}
-                      {{ site.baseurl }}/tags#{{ tag | replace: ' ', '-' | downcase }}
-                    {% endif %}" 
-             class="tag row{{ row }}">
-            #{{ tag }}
-          </a>
-        {% endfor %}
-        {% for tag in tags %}
-          <a href="{% if page.lang == 'en' %}
-                      {{ site.baseurl }}/en/tags#{{ tag | replace: ' ', '-' | downcase }}
-                    {% else %}
-                      {{ site.baseurl }}/tags#{{ tag | replace: ' ', '-' | downcase }}
-                    {% endif %}" 
-             class="tag clone row{{ row }}">
-            #{{ tag }}
-          </a>
-        {% endfor %}
-      </div>
-    {% endfor %}
-  {% else %}
-    <p style="color:#999; text-align:center;">(No tags found)</p>
-  {% endif %}
+{% if tags.size > 0 %}
+  {% for row in (1..3) %}
+    {% assign offset = row | times: total | divided_by: 4 | round %}
+    {% assign rotated = tags | slice: offset, total | concat: tags | slice: 0, offset %}
+    <div class="scroll-row row{{ row }}">
+      {% for tag in rotated %}
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag row{{ row }}">
+          #{{ tag }}
+        </a>
+      {% endfor %}
+      {% for tag in rotated %}
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag clone row{{ row }}">
+          #{{ tag }}
+        </a>
+      {% endfor %}
+    </div>
+  {% endfor %}
+{% else %}
+  <p style="color:#999; text-align:center;">(No tags found)</p>
+{% endif %}
 </div>
 
 <style>
