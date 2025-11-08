@@ -6,6 +6,9 @@ lang: ja
 
 <p>中古レコード、CD、カセットテープ、書籍など</p>
 <p><a href="/en/">🌐 View in English</a></p>
+
+{% include tags-slider.html %}
+
 <div class="blog-grid-container">
   {% for post in paginator.posts %}
     {% if post.lang == "ja" or post.lang == nil %}
@@ -22,8 +25,6 @@ lang: ja
 </div>
 
 <hr>
-
-{% include tags-slider.html %}
 
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
 <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
