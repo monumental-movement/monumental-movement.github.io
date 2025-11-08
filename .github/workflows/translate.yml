@@ -1,4 +1,4 @@
-name: Auto Translate (6h-safe cached diff)
+name: Auto Translate (6h-safe cached diff, pages/en)
 
 on:
   workflow_dispatch:
@@ -34,6 +34,7 @@ jobs:
         run: |
           if [ ! -f translation_cache.yaml ]; then
             echo "{}" > translation_cache.yaml
+            echo "✅ Empty cache created"
           else
             echo "✅ Existing cache loaded"
           fi
@@ -53,13 +54,13 @@ jobs:
 
           # 最新の main を pull
           git fetch origin main
-          git pull origin main --rebase
+          git pull origin main --rebase || echo "⚠️ Pull failed, continuing"
 
           # 退避した変更を戻す
           git stash pop || echo "No stashed changes"
 
           # ステージングしてコミット
-          git add en/_posts/* translation_cache.yaml || echo "Nothing to add"
+          git add pages/en/_posts/* translation_cache.yaml || echo "Nothing to add"
           git commit -m "Auto-translated English posts (cached diff)" || echo "No changes to commit"
 
           # Push with retry
