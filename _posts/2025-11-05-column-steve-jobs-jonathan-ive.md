@@ -7,7 +7,7 @@ tags: [ Apple, iPod, Mac, Design ]
 image: ../assets/images/column-steve-jobs-jonathan-ive.webp
 ---
 
-## 序章：揺らぐビート、跳ねるベース——UKガレージとは何か
+## 序章：音楽とテクノロジーの融合という新しい文化
 
 
 文：mmr｜テーマ：二人の音楽観・デザイン哲学・そして製品群の変遷を、一次資料と確かな証言をもとにたどっていく

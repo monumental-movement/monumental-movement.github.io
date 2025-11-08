@@ -14,7 +14,7 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 ---
 
 
-## Prologue: Shaking beats, bouncing bass—what is UK garage?
+## Prologue: A new culture that combines music and technology
 
 
 Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
