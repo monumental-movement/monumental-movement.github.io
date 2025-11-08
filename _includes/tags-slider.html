@@ -1,7 +1,4 @@
 <div class="tag-slider">
-  {% comment %}
-  言語ごとに投稿を切り替え（日本語版: site.posts / 英語版: site.en_posts）
-  {% endcomment %}
   {% if page.lang == 'en' %}
     {% assign posts = site.en_posts %}
   {% else %}
@@ -23,19 +20,20 @@
   {% assign tags = tags | sort %}
 
   {% if tags.size > 0 %}
-    <div class="scroll-row">
-      {% for tag in tags %}
-        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag">
-          #{{ tag }}
-        </a>
-      {% endfor %}
-      <!-- 無限ループ用に複製 -->
-      {% for tag in tags %}
-        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag clone">
-          #{{ tag }}
-        </a>
-      {% endfor %}
-    </div>
+    {% for row in (1..3) %}
+      <div class="scroll-row row{{ row }}">
+        {% for tag in tags %}
+          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag row{{ row }}">
+            #{{ tag }}
+          </a>
+        {% endfor %}
+        {% for tag in tags %}
+          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag | uri_escape }}{% else %}{{ site.baseurl }}/tags#{{ tag | uri_escape }}{% endif %}" class="tag clone row{{ row }}">
+            #{{ tag }}
+          </a>
+        {% endfor %}
+      </div>
+    {% endfor %}
   {% else %}
     <p style="color:#999; text-align:center;">(No tags found)</p>
   {% endif %}
@@ -47,42 +45,68 @@
   overflow: hidden;
   position: relative;
   padding: 6px 0;
-  background: none;
 }
 
-/* === 横スクロール用のラッパー === */
+/* === 横スクロールラッパー === */
 .scroll-row {
   display: inline-block;
   white-space: nowrap;
-  animation: scroll-loop 60s linear infinite;
+  margin: 3px 0;
+  animation: scroll-loop 120s linear infinite;
   will-change: transform;
 }
 
-/* ホバーでスクロール停止 */
+/* ホバーで停止 */
 .tag-slider:hover .scroll-row {
   animation-play-state: paused;
 }
 
-/* === タグ === */
+/* === タグ共通スタイル === */
 .tag {
   display: inline-block;
-  margin: 0 6px;
-  padding: 4px 10px;
-  border-radius: 18px;
+  margin: 0 5px;
+  padding: 3px 8px;
+  border-radius: 16px;
   font-size: 0.85rem;
-  color: #fff;
-  background: linear-gradient(135deg, #ff7a00, #ffb347);
   text-decoration: none;
   white-space: nowrap;
   transition: transform 0.3s, box-shadow 0.3s, background 0.5s;
 }
 
-/* === ホバー時 === */
-.tag:hover {
-  transform: scale(1.08);
-  box-shadow: 0 0 10px rgba(255, 136, 0, 0.7);
-  background: linear-gradient(135deg, #ffa200, #ffce6d);
+/* --- 1段目：グラデーション背景 --- */
+.tag.row1 {
+  background: linear-gradient(135deg, #ff7a00, #ffb347);
+  border: 1px solid #ff7a00;
+  color: #fff;
 }
+.tag.row1:hover { transform: scale(1.08); box-shadow: 0 0 10px rgba(255,136,0,0.7); }
+
+/* --- 2段目：枠線のみ --- */
+.tag.row2 {
+  background: transparent;
+  border: 1.5px solid #ff7a00;
+  color: #ff7a00;
+}
+.tag.row2:hover {
+  transform: scale(1.08);
+  background: rgba(255,122,0,0.15);
+  box-shadow: 0 0 8px rgba(255,136,0,0.5);
+}
+
+/* --- 3段目：半透明背景 --- */
+.tag.row3 {
+  background: rgba(255,122,0,0.3);
+  border: 1px solid #ff7a00;
+  color: #fff;
+}
+.tag.row3:hover {
+  transform: scale(1.08);
+  background: rgba(255,122,0,0.5);
+  box-shadow: 0 0 8px rgba(255,136,0,0.6);
+}
+
+/* クローン（無限ループ用） */
+.clone { opacity: 0.85; }
 
 /* === 横スクロールアニメーション === */
 @keyframes scroll-loop {
@@ -90,8 +114,24 @@
   to { transform: translateX(-50%); }
 }
 
-/* クローンタグ（自然な無限ループ用） */
-.clone {
-  opacity: 0.85;
+/* === 各段のスクロール速度調整 === */
+.scroll-row.row1 { animation-duration: 120s; }
+.scroll-row.row2 { animation-duration: 100s; }
+.scroll-row.row3 { animation-duration: 140s; }
+
+/* === レスポンシブ対応 === */
+@media (max-width: 1024px) {
+  .tag { font-size: 0.8rem; padding: 3px 7px; }
+  .scroll-row { margin: 2px 0; }
+}
+
+@media (max-width: 768px) {
+  .tag { font-size: 0.75rem; padding: 2px 6px; }
+  .scroll-row { margin: 1px 0; }
+}
+
+@media (max-width: 480px) {
+  .tag { font-size: 0.7rem; padding: 2px 5px; border-radius: 14px; }
+  .scroll-row { margin: 1px 0; }
 }
 </style>
