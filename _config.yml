@@ -6,7 +6,7 @@ title: "m.m.r"
 description: "Monumental Movement"
 logo: "../assets/images/logo.png"
 favicon: "../assets/images/logo.png"
-baseurl: ""
+baseurl: "" 
 url: "https://monumental-movement.jp"
 google_analytics: "G-YYMSK3VLV2"
 disqus: "mmr"
@@ -30,15 +30,12 @@ authors:
 # Plugins
 # ==============================
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - jekyll-paginate-v2
-
-# 古い jekyll-paginate 設定は削除
-# paginate: off
 
 # ==============================
 # Archives
@@ -49,6 +46,12 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: /category/:name/
+
+# ==============================
+# Pagination 
+# ==============================
+paginate: 48
+paginate_path: /page:num/
 
 # ==============================
 # Markdown / Sass
@@ -71,7 +74,7 @@ collections:
     permalink: /:title/
 
 # ==============================
-# 多言語設定
+# 多言語設定（最重要）
 # ==============================
 defaults:
   # 日本語版（ルート配下）

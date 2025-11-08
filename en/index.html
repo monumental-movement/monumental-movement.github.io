@@ -1,16 +1,18 @@
 ---
-layout: home
-title: English Home
+layout: default
+title: Home
+lang: en
+permalink: /en/
 pagination:
   enabled: true
   per_page: 48
-  permalink: /en/page/:num/
+  permalink: '/en/page:num/'
+  title: 'Home - page :num'
   sort_field: 'date'
   sort_reverse: true
-  scope:
-    path: "en/_posts"
+  collection: 'posts'
+  locale: 'en'
 ---
-
 
 <p>Used vinyl records, CDs, cassette tapes, books, and more</p>
 <p><a href="/">🇯🇵 日本語で表示</a></p>
