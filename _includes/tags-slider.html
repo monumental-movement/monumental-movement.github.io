@@ -2,25 +2,31 @@
   {% if page.lang == 'en' %}
     {% assign posts = site.en_posts %}
   {% else %}
-  {% assign posts = site.posts %}
-    {% endif %}
-
+    {% assign posts = site.posts %}
+  {% endif %}
 
   {% assign tags = "" | split: "" %}
   {% for post in posts %}
-    {% for tag in post.tags %}
-      {% unless tags contains tag %}
-        {% assign tags = tags | push: tag %}
-      {% endunless %}
-    {% endfor %}
+    {% if post.tags %}
+      {% for tag in post.tags %}
+        {% unless tags contains tag %}
+          {% assign tags = tags | push: tag %}
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 
   {% assign tags = tags | sort %}
-  {% for tag in tags %}
-    <a href="{% if page.url contains '/en/' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag">
-      {{ tag }}
-    </a>
-  {% endfor %}
+
+  {% if tags.size > 0 %}
+    {% for tag in tags %}
+      <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag">
+        {{ tag }}
+      </a>
+    {% endfor %}
+  {% else %}
+    <p style="color:#777;">(No tags found)</p>
+  {% endif %}
 </div>
 
 <style>
@@ -33,7 +39,7 @@
   padding: 5px 0;
 }
 
-/* 🌈 Monumental Movement トーンに合わせたタグ */
+/* タグの基本スタイル（サイト配色に沿ったグラデーション） */
 .tag {
   display: inline-block;
   padding: 6px 14px;
@@ -49,21 +55,12 @@
   transition: transform 0.3s, box-shadow 0.3s, background 0.6s, color 0.3s;
 }
 
-/* 各段の速度・方向をずらして立体感 */
-.tag:nth-child(3n+1) {
-  animation-duration: 25s;
-  animation-direction: normal;
-}
-.tag:nth-child(3n+2) {
-  animation-duration: 22s;
-  animation-direction: reverse;
-}
-.tag:nth-child(3n+3) {
-  animation-duration: 28s;
-  animation-direction: normal;
-}
+/* 各段の速度・方向 */
+.tag:nth-child(3n+1) { animation-duration: 25s; animation-direction: normal; }
+.tag:nth-child(3n+2) { animation-duration: 22s; animation-direction: reverse; }
+.tag:nth-child(3n+3) { animation-duration: 28s; animation-direction: normal; }
 
-/* 💫 ホバー時：発光＆グリッチ感 */
+/* ホバー時：発光＆拡大 */
 .tag:hover {
   transform: scale(1.1);
   background: linear-gradient(135deg, #ff00e6, #00f5ff);
@@ -71,7 +68,7 @@
   text-shadow: 0 0 6px #fff;
 }
 
-/* 💡 親ホバーでスライド停止 */
+/* 親ホバーでスライド停止 */
 .tag-slider:hover .tag {
   animation-play-state: paused;
 }
@@ -80,10 +77,5 @@
 @keyframes scroll-left {
   from { transform: translateX(100%); }
   to { transform: translateX(-100%); }
-}
-
-/* 背景が黒の時でも視認性UP */
-body, .tag-slider {
-  background-color: transparent;
 }
 </style>
