@@ -209,6 +209,72 @@
         <h1>Monumental Movement</h1>
 <p>Exploring the culture of vinyl, cassettes, and music archives from Japan to the world.</p>
 <p><a href="/">🇯🇵 日本語で表示</a></p>
+
+<div class="tag-slider">
+  
+
+  
+  
+
+  
+
+  
+    <p style="color:#777;">(No tags found)</p>
+  
+</div>
+
+<style>
+.tag-slider {
+  display: grid;
+  grid-template-rows: repeat(3, auto);
+  overflow: hidden;
+  height: 6em;
+  position: relative;
+  padding: 5px 0;
+}
+
+/* タグの基本スタイル（サイト配色に沿ったグラデーション） */
+.tag {
+  display: inline-block;
+  padding: 6px 14px;
+  margin: 5px;
+  border-radius: 25px;
+  font-size: 0.9rem;
+  color: #fff;
+  background: linear-gradient(135deg, #0ff, #7b2ff7);
+  white-space: nowrap;
+  text-decoration: none;
+  box-shadow: 0 0 12px rgba(0, 255, 255, 0.3);
+  animation: scroll-left 25s linear infinite;
+  transition: transform 0.3s, box-shadow 0.3s, background 0.6s, color 0.3s;
+}
+
+/* 各段の速度・方向 */
+.tag:nth-child(3n+1) { animation-duration: 25s; animation-direction: normal; }
+.tag:nth-child(3n+2) { animation-duration: 22s; animation-direction: reverse; }
+.tag:nth-child(3n+3) { animation-duration: 28s; animation-direction: normal; }
+
+/* ホバー時：発光＆拡大 */
+.tag:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #ff00e6, #00f5ff);
+  box-shadow: 0 0 20px rgba(255, 0, 230, 0.8), 0 0 30px rgba(0, 245, 255, 0.6);
+  text-shadow: 0 0 6px #fff;
+}
+
+/* 親ホバーでスライド停止 */
+.tag-slider:hover .tag {
+  animation-play-state: paused;
+}
+
+/* 横スクロールアニメーション */
+@keyframes scroll-left {
+  from { transform: translateX(100%); }
+  to { transform: translateX(-100%); }
+}
+</style>
+
+
 <div class="blog-grid-container">
   
     
