@@ -1,12 +1,12 @@
-name: GitHub Pages Deploy
+name: Build & Deploy Jekyll Site
 
 on:
   push:
     branches:
-      - main  # デフォルトブランチを指定（例: main）
+      - main  # デフォルトブランチを指定
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,21 +18,19 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2
-
-      # Bundler のインストール
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+          bundler-cache: true
 
       # Jekyll のビルド
       - name: Build site with Jekyll
         run: |
+          gem install bundler
+          bundle install
+          # 日本語サイトと英語サイトをビルド
           JEKYLL_ENV=production bundle exec jekyll build
 
       # GitHub Pages にデプロイ
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v6
+        uses: peaceiris/actions-gh-pages@v6.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
