@@ -1,8 +1,6 @@
 <div class="tag-slider">
   {% comment %}
-  言語に応じてコレクションを切り替える
-  - lang: en → 英語投稿（site.en_posts）
-  - lang 未指定 → 日本語投稿（site.posts）
+  言語切り替え（日本語版／英語版）
   {% endcomment %}
   {% if page.lang == 'en' %}
     {% assign posts = site.en_posts %}
@@ -14,8 +12,9 @@
   {% for post in posts %}
     {% if post.tags %}
       {% for tag in post.tags %}
-        {% unless tags contains tag %}
-          {% assign tags = tags | push: tag %}
+        {% assign tag_normalized = tag | strip %}
+        {% unless tags contains tag_normalized %}
+          {% assign tags = tags | push: tag_normalized %}
         {% endunless %}
       {% endfor %}
     {% endif %}
@@ -24,64 +23,71 @@
   {% assign tags = tags | sort %}
 
   {% if tags.size > 0 %}
-    {% for tag in tags %}
-      <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag">
-        {{ tag }}
-      </a>
-    {% endfor %}
+    <div class="scroll-row">
+      {% for tag in tags %}
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag">
+          #{{ tag }}
+        </a>
+      {% endfor %}
+      <!-- 無限ループ用に複製 -->
+      {% for tag in tags %}
+        <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tag/{{ tag | slugify }}/{% else %}{{ site.baseurl }}/tag/{{ tag | slugify }}/{% endif %}" class="tag clone">
+          #{{ tag }}
+        </a>
+      {% endfor %}
+    </div>
   {% else %}
-    <p style="color:#777; text-align:center;">(No tags found)</p>
+    <p style="color:#999; text-align:center;">(No tags found)</p>
   {% endif %}
 </div>
 
 <style>
-/* --- タグスライダー全体 --- */
 .tag-slider {
-  display: grid;
-  grid-template-rows: repeat(3, auto);
   overflow: hidden;
-  height: 6em;
   position: relative;
-  padding: 10px 0;
-  text-align: center;
+  padding: 8px 0;
+  background: none;
 }
 
-/* --- タグスタイル（グラデーション＋発光） --- */
-.tag {
+/* 横並び・無限スクロール領域 */
+.scroll-row {
   display: inline-block;
-  padding: 6px 14px;
-  margin: 5px;
-  border-radius: 25px;
-  font-size: 0.9rem;
-  color: #fff;
-  background: linear-gradient(135deg, #00e0ff, #8b00ff);
   white-space: nowrap;
-  text-decoration: none;
-  box-shadow: 0 0 12px rgba(0, 255, 255, 0.3);
-  animation: scroll-left 25s linear infinite;
-  transition: transform 0.3s, box-shadow 0.3s, background 0.6s, color 0.3s;
+  animation: scroll-loop 60s linear infinite;
 }
 
-/* --- 各段の速度・方向を変える --- */
-.tag:nth-child(3n+1) { animation-duration: 25s; animation-direction: normal; }
-.tag:nth-child(3n+2) { animation-duration: 22s; animation-direction: reverse; }
-.tag:nth-child(3n+3) { animation-duration: 28s; animation-direction: normal; }
-
-/* --- ホバー時：停止＋発光 --- */
-.tag:hover {
-  transform: scale(1.1);
-  background: linear-gradient(135deg, #ff00e6, #00f5ff);
-  box-shadow: 0 0 20px rgba(255, 0, 230, 0.8), 0 0 30px rgba(0, 245, 255, 0.6);
-  text-shadow: 0 0 6px #fff;
-}
-
-.tag-slider:hover .tag {
+/* ホバーで停止 */
+.tag-slider:hover .scroll-row {
   animation-play-state: paused;
 }
 
-/* --- 横スクロールアニメーション --- */
-@keyframes scroll-left {
-  from { transform: translateX(100%); }
-  to { transform: translateX(-100%); }
+/* タグの見た目（オレンジ基調・サイトカラー対応） */
+.tag {
+  display: inline-block;
+  margin: 0 8px;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  color: #fff;
+  background: linear-gradient(135deg, #ff7a00, #ffb347);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.tag:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 12px rgba(255, 136, 0, 0.6);
+}
+
+/* 横スクロールアニメーション */
+@keyframes scroll-loop {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* クローンが繋がって自然な無限ループに見えるように */
+.clone {
+  opacity: 0.8;
 }
 </style>
