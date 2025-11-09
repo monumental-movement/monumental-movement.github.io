@@ -7,7 +7,7 @@ permalink: /en/search.html
 [
 {% assign counter = 0 %}
 {% for post in site.posts %}
-  {% if post.lang == nil or post.lang == "en" %}
+  {% if post.lang == "en" %}
   {
     "id": {{ counter }},
     "url": "{{ post.url | absolute_url }}",
