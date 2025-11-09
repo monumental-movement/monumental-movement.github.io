@@ -9,13 +9,9 @@ var idx = null;
 // --- JSON 読み込み ---
 async function loadDocuments() {
   try {
-    // ページの言語属性に応じて JSON を切り替え
-    const lang = document.documentElement.lang || "ja";
-    const searchUrl = lang === "en" ? "/en/search.html" : "/search.html";
-
-    const res = await fetch(searchUrl);
+    const res = await fetch("/search.html");
     documents = await res.json();
-    console.log(`✅ Loaded ${documents.length} documents from ${searchUrl}`);
+    console.log("✅ Loaded", documents.length, "documents from /search.html");
   } catch (e) {
     console.error("❌ Failed to load search index:", e);
   }
@@ -26,28 +22,15 @@ async function initLunr() {
   if (!documents.length) await loadDocuments();
 
   try {
-    const lang = document.documentElement.lang || "ja";
-    if (lang === "en") {
-      // 英語のみ
-      idx = lunr(function () {
-        this.use(lunr.multiLanguage("en"));
-        this.ref("id");
-        this.field("title");
-        this.field("body");
-        documents.forEach((doc) => this.add(doc));
-      });
-    } else {
-      // 日本語 + 英語（必要に応じて）
-      idx = lunr(function () {
-        this.use(lunr.multiLanguage("ja"));
-        this.ref("id");
-        this.field("title");
-        this.field("body");
-        documents.forEach((doc) => this.add(doc));
-      });
-    }
+    idx = lunr(function () {
+      this.use(lunr.multiLanguage("en", "ja"));
+      this.ref("id");
+      this.field("title");
+      this.field("body");
 
-    console.log(`✅ Lunr index built for language: ${lang}`);
+      documents.forEach((doc) => this.add(doc));
+    });
+    console.log("✅ Lunr index built with multiLanguage (en, ja)");
   } catch (e) {
     console.error("❌ Lunr index build failed:", e);
   }
@@ -66,6 +49,7 @@ function lunr_search(term) {
     resultBox.style.display = "block";
     document.body.classList.add("modal-open");
 
+    // モーダルHTML構築
     resultBox.innerHTML = `
       <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
         <div class="modal-dialog shadow" role="document">
@@ -92,7 +76,9 @@ function lunr_search(term) {
 
     if (results.length > 0) {
       results.forEach(function (r) {
+        console.log("📄 Hit ref:", r.ref);
         const d = documents.find((doc) => String(doc.id) === String(r.ref));
+        console.log("📄 Matched doc:", d);
         if (!d) return;
 
         const body = (d.body || "").substring(0, 160) + "...";
