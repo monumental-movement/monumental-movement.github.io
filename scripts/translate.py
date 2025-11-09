@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 
 # ==== 基本設定 ====
 SRC_DIR = "_posts"                     # 日本語記事
-DEST_DIR = os.path.join("pages", "en", "_posts")  # ✅ 出力先
+DEST_DIR = os.path.join("en", "_posts")  # ✅ 出力先を修正（pages/を削除）
 CACHE_FILE = "translation_cache.yaml"
 MAX_RUNTIME = 6 * 60 * 60        # 6時間（秒）
 SAFE_EXIT_MARGIN = 10 * 60       # 終了10分前に安全終了
@@ -165,4 +165,4 @@ try:
 finally:
     save_cache(cache)
     print("\n💾 Final cache saved. All progress preserved safely.")
-    print("🎉 English posts updated successfully (→ pages/en/_posts, 6h-safe, cached, diff-based).")
+    print("🎉 English posts updated successfully (→ en/_posts, 6h-safe, cached, diff-based).")
