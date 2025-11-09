@@ -47,27 +47,39 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: 💬 Commit and push safely
+      - name: 💬 Commit and push only changed files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 作業ツリーの変更を一時退避
-          git stash -u
-
           # 最新の main を pull
           git fetch origin main
           git pull origin main --rebase || echo "⚠️ Pull failed, continuing"
 
-          # 退避した変更を戻す
-          git stash pop || echo "No stashed changes"
+          # 差分のあるファイルを確認
+          CHANGED_FILES=$(git diff --name-only)
 
-          # ステージングしてコミット
-          git add pages/en/_posts/* translation_cache.yaml || echo "Nothing to add"
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No changes detected. Skipping commit."
+            exit 0
+          fi
+
+          echo "Changed files detected:"
+          echo "$CHANGED_FILES"
+
+          # 差分のある翻訳済みファイルとキャッシュをステージング
+          for file in $CHANGED_FILES; do
+            if [[ "$file" == pages/en/_posts/* ]] || [[ "$file" == translation_cache.yaml ]]; then
+              git add "$file"
+            fi
+          done
+
+          # コミット
           git commit -m "Auto-translated English posts (cached diff)" || echo "No changes to commit"
 
-          # Push with retry
+          # Push with retries using GITHUB_TOKEN
           set +e
-          for i in 1 2 3
-          do
-            git push origin main && break
+          for i in 1 2 3; do
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main && break
             echo "⚠️ Push failed, retrying ($i/3)..."
             git fetch origin main
             git pull origin main --rebase
