@@ -13,8 +13,10 @@ permalink: /en/
 {% include tags-slider.html %}
 
 <div class="blog-grid-container">
-  {% for post in site.en_posts %}
+  {% for post in site.posts %}
+    {% if post.lang == "en" %}
       {% include postbox.html %}
+    {% endif %}
   {% endfor %}
 </div>
 
