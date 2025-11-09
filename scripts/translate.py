@@ -5,13 +5,14 @@ import time
 from deep_translator import GoogleTranslator
 
 # ==== 基本設定 ====
-SRC_DIR = "_posts"
-DEST_DIR = os.path.join("pages", "en", "_posts")
+SRC_DIR = "_posts"                     # 日本語記事
+DEST_DIR = os.path.join("en", "_posts")  # ✅ 出力先を修正（pages/を削除）
 CACHE_FILE = "translation_cache.yaml"
 MAX_RUNTIME = 6 * 60 * 60        # 6時間（秒）
 SAFE_EXIT_MARGIN = 10 * 60       # 終了10分前に安全終了
 AUTO_SAVE_INTERVAL = 50          # 翻訳50件ごとにキャッシュ保存
 BATCH_SIZE = 50                  # バッチ翻訳単位
+
 os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='en')
@@ -46,10 +47,8 @@ def translate_batch(paragraphs):
     keys = []
     translated = []
 
-    # 翻訳対象を抽出
     for p in paragraphs:
         key = p.strip()
-        # スキップ条件
         if not key or key.startswith("```") or re.search(r'<iframe.*?</iframe>', key, re.DOTALL) or key.startswith("<!--"):
             translated.append(p)
             continue
@@ -58,12 +57,11 @@ def translate_batch(paragraphs):
             continue
         to_translate.append(key)
         keys.append(key)
-        translated.append(None)  # 後で埋める
+        translated.append(None)
 
     if not to_translate:
         return translated
 
-    # タイムアウトチェック
     elapsed = time.time() - start_time
     if elapsed > (MAX_RUNTIME - SAFE_EXIT_MARGIN):
         print("⏳ Runtime approaching 6 hours — safe exit triggered.")
@@ -75,7 +73,6 @@ def translate_batch(paragraphs):
         result_block = translator.translate(text_block)
         result_paragraphs = [normalize_quotes(t.strip()) for t in result_block.split("\n\n")]
 
-        # キャッシュ保存
         for k, r in zip(keys, result_paragraphs):
             cache[k] = r
             translate_count += 1
@@ -83,7 +80,6 @@ def translate_batch(paragraphs):
                 save_cache(cache)
                 print(f"💾 Cache auto-saved ({translate_count} translations)")
 
-        # 結果を元の配列に埋め込む
         idx = 0
         for i, val in enumerate(translated):
             if val is None:
@@ -92,7 +88,6 @@ def translate_batch(paragraphs):
 
     except Exception as e:
         print("⚠️ Batch translation failed:", e)
-        # 失敗時は元テキストのまま返す
         for i, val in enumerate(translated):
             if val is None:
                 translated[i] = paragraphs[i]
@@ -100,12 +95,11 @@ def translate_batch(paragraphs):
     return translated
 
 def translate_paragraphs(paragraphs):
-    """段落リストをバッチ翻訳"""
     result = []
     for i in range(0, len(paragraphs), BATCH_SIZE):
         batch = paragraphs[i:i+BATCH_SIZE]
         result.extend(translate_batch(batch))
-        time.sleep(0.05)  # 軽い遅延でAPI負荷軽減
+        time.sleep(0.05)
     return result
 
 # ==== Front Matter ====
@@ -137,7 +131,6 @@ try:
         fm, body = split_front_matter(src_content)
         front_matter = load_yaml_safe(fm)
 
-        # 段落単位で差分確認
         old_body = ""
         if os.path.exists(dest_path):
             with open(dest_path, "r", encoding="utf-8") as f:
@@ -155,17 +148,14 @@ try:
         else:
             print(f"🆕 New file: {filename} — 全文翻訳")
 
-        # 段落翻訳
         translated_paragraphs = translate_paragraphs(new_paragraphs)
         translated_body = "\n\n".join(translated_paragraphs)
 
-        # タイトル翻訳
         if front_matter.get("title"):
             front_matter["title"] = translate_paragraphs([front_matter["title"]])[0]
 
         front_matter["lang"] = "en"
 
-        # 出力書き込み
         output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}\n"
         with open(dest_path, "w", encoding="utf-8") as f:
             f.write(output_content)
@@ -175,4 +165,4 @@ try:
 finally:
     save_cache(cache)
     print("\n💾 Final cache saved. All progress preserved safely.")
-    print("🎉 English posts updated successfully (6h-safe, cached, diff-based, batch-fast).")
+    print("🎉 English posts updated successfully (→ en/_posts, 6h-safe, cached, diff-based).")
