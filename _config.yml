@@ -90,7 +90,7 @@ defaults:
 
   # 英語版（/en/配下）
   - scope:
-      path: "pages/en/_posts"
+      path: "en/_posts"
     values:
       lang: "en"
       permalink: /en/:title/
