@@ -18,11 +18,11 @@ title: Johnnie Taylor – Disco Lady
 The song features guest appearances from Parliament-Funkadelic bassist Bootsy Collins, keyboardist Bernie Worrel, guitarist Glenn Goins, and drummer Tiki Fulwood.
 
 #### Tracklist
-```md
-A. Disco Lady
+"""md
+A.Disco Lady
 
 B. You're The Best In The World
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
 

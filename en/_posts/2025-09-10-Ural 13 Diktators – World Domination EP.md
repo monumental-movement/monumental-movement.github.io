@@ -14,21 +14,20 @@ title: Ural 13 Diktators – World Domination EP
 ---
 
 
-Ural 13 Diktators are a Helsinki-based duo formed in 1997 by Lauri Kasti and Lupu Pitkänen. Ural 13 Diktators" style features a crossover between 80"s music (Hi NRG, Disco, Electro, Synth Pop), 90's sounds (Techno, House), and video game music.
+Ural 13 Diktators are a Helsinki-based duo formed in 1997 by Lauri Kasti and Lupu Pitkänen. Ural 13 Diktators' style features a crossover between 80's music (Hi NRG, Disco, Electro, Synth Pop), 90's sounds (Techno, House), and video game music.
 
 "World Domination EP" is Trance/Techno/Hi NRG released on his own label Ural 13 Records in 2001. Limited edition of 1300 copies.
 
 B2 is a remix by Finnish techno project Kosmonaut.
 
-
 #### Tracklist
-```md
+"""md
 A1. World Domination
 A2. Join The Party
 
 B1. Moscow Nights (Original)
 B2. Moscow Nights (Kosmonaut Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59814015874?afid=6142608987){: .button1}
 

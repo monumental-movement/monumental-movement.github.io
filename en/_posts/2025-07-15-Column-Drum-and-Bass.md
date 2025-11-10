@@ -16,11 +16,9 @@ title: '[Column] The impact of Drum & Bass: Urban poetics woven by speed and bas
 
 Text: mmr｜Theme: Thoughts on Drum & Bass/Jungle/UK sound
 
-
 Drum & Bass (D&B) is a music genre born in London's underground club scene in the early 1990s, and at the same time is the very rhythm of multicultural city life. Combining fast breakbeats, roaring bass lines, and reggae/dub/hip-hop/techno, they revolutionized UK music history.
 
 Its evolution has been incredible, with many branches ranging from jungle, liquid funk, and techstep to neurofunk, jump-up, and drumstep.
-
 
 <hr>
 
@@ -56,45 +54,43 @@ From this time on, the name "jungle" gradually changed to "D&B". This means a mo
 
 **DJ Hype / Ganja Kru**: Representative of jump-up sound.
 
-
 <hr>
 
 ### Aesthetics of speed, deep bass, and decomposition
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>element</th>
-<th>Contents</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tempo (BPM)</td>
-<td>About 160-180. The fastest in club music. </td>
-</tr>
-<tr>
-<td>Breakbeat</td>
-<td>Uses a lot of sampling of Amen, Funky Drummer, Apache, etc.</td>
-</tr>
-<tr>
-<td>Subbase</td>
-<td>Super bass that resonates with your body is the core of music</td>
-</tr>
-<tr>
-<td>Rhythm structure</td>
-<td>Characterized by syncopation, irregularity, and fragmentation</td>
-</tr>
-<tr>
-<td>Sound Design</td>
-<td>Effect processing such as filters, reverb, and distortion is very important</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>element</th>
+      <th>Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tempo (BPM)</td>
+      <td>About 160-180. The fastest in club music. </td>
+    </tr>
+    <tr>
+      <td>Breakbeat</td>
+      <td>Uses a lot of sampling of Amen, Funky Drummer, Apache, etc.</td>
+    </tr>
+    <tr>
+      <td>Subbase</td>
+      <td>Super bass that resonates with your body is the core of music</td>
+    </tr>
+    <tr>
+      <td>Rhythm structure</td>
+      <td>Characterized by syncopation, irregularity, and fragmentation</td>
+    </tr>
+    <tr>
+      <td>Sound Design</td>
+      <td>Effect processing such as filters, reverb, and distortion is very important</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 <br>
-
 
 <hr>
 
@@ -124,7 +120,6 @@ With a catchy bass and simple structure, it connects directly to the dance floor
 
 A subgenre influenced by halftime and dubstep. Excision, Downlink etc.
 
-
 <hr>
 
 ### The base that supported D&B
@@ -141,7 +136,6 @@ A subgenre influenced by halftime and dubstep. Excision, Downlink etc.
 
 In addition, unofficial media such as Pirate Radio and Rinse FM played a large role in popularizing D&B.
 
-
 <hr>
 
 ### Music from UK multicultural cities
@@ -154,7 +148,6 @@ Born in multi-ethnic cities like London and Bristol, D&B grew up at the intersec
 
 **Intersection with techno/IDM**: Squarepusher, Autechre, etc. develop D&B rhythms.
 
-
 <hr>
 
 ### Fashion/Lifestyle
@@ -164,7 +157,6 @@ Born in multi-ethnic cities like London and Bristol, D&B grew up at the intersec
 **Street Culture**: Graffiti, skating, and junglist ideology.
 
 **Visual**: Futuristic and cyberpunk. Artwork is also important.
-
 
 <hr>
 
@@ -179,7 +171,6 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 **Alix Perez**: A sonic alchemist who can do everything from dub to half step.
 
 **Sub Focus / Wilkinson**: A link between the mainstream and the underground.
-
 
 <hr>
 

@@ -20,11 +20,11 @@ It has been covered by many artists including Les Paul & Mary Ford, Andy William
 This Elvis version was released by RCA Victor in 1971.
 
 #### Tracklist
-```md
-A. I Really Don't Want To Know (知りたくないの)
+"""md
+A. I Really Don't Want To Know
 
-B. There Goes My Everything (淋しき足音)
-```
+B. There Goes My Everything
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 

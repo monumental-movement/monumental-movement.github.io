@@ -16,7 +16,6 @@ title: '[Column] Strange Musical Toys — Toys with strange sounds from around t
 
 ## "Sound toys" around the world
 
-
 Text: mmr | Theme: From children's toys to artists' instruments - Toward the era of AI toys, tactile instruments, and social toys
 
 There are places where the line between music and play becomes blurred. We live in a world where the electronic sounds of toys held in children's hands are eventually recognized as creative tools for professional stages and artists. Weird sound sources like Radel, Omnichord, Stylophone, and Circuit Bending, which modified homemade circuits, became more than toys and became cultural experimental devices.
@@ -38,10 +37,9 @@ color: #fff;
 }
 </style>
 
-
 ## Ⅰ. The pleasure of hands playing with sound
 
-We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.
+We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.  
 In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has been designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
 
 ---
@@ -49,7 +47,7 @@ In the 21st century, electronic sounds have been extended to children's toys and
 ## Ⅱ. Sound toy culture in Asia
 
 ### Radel Electronic Tanpura
-The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It has become popular among a wide range of people, from children to adults, because it allows complex stringed instruments to be easily reproduced at home.
+The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It has become popular among a wide range of people, from children to adults, because it allows complex stringed instruments to be easily reproduced at home.  
 The simplification of electronic sounds actually opened the door to new improvisations. The electronic tanpura placed on the desk at home has become a ""homely ritual'' that resonates at the boundary between learning and play.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -94,7 +92,7 @@ A fusion of subtle electronic sounds and analog feel. Omnichord's delicate chord
 ## Ⅳ. European strange sound devices
 
 ### Stylophone and Optigan
-The British Stylophone is a desk synth familiar from 1970s TV ads. When you trace the metal contacts with your fingertips, a distinctive beep sounds. Its ease and noisy feel were incorporated into early techno-pop and avant-garde music.
+The British Stylophone is a desk synth familiar from 1970s TV ads. When you trace the metal contacts with your fingertips, a distinctive beep sounds. Its ease and noisy feel were incorporated into early techno-pop and avant-garde music.  
 The Optigan is an organ toy that plays sounds using optical discs, and is characterized by unpredictable patterns and rhythms.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -136,7 +134,6 @@ DIY electronic instruments have become deeply ingrained in American garage cultu
 
 A noise experimental piece that makes full use of modified electronic equipment and noise toys.
 
-
 ---
 
 ## Ⅵ. Japan's golden age of electronic toys
@@ -147,7 +144,7 @@ In the 1970s and 1980s, portable synths and electronic musical toys became popul
 - CASIO VL-TONE
 - Educational synths such as Gakken's SX-150
 
-Electronic sounds can be easily experienced on desks at home or at school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
+Electronic sounds can be easily experienced on desks at home or school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -192,35 +189,35 @@ A complex texture that combines electronic toys and small synth-like sounds.
 
 ## Ⅷ. Contemporary Artists and Toy Sound
 
-Many contemporary artists, including Björk, Cornelius, Bon Iver, and Laurie Anderson, have incorporated toy instruments into their live performances and recordings.
+Many contemporary artists, including Björk, Cornelius, Bon Iver, and Laurie Anderson, have incorporated toy instruments into their live performances and recordings.  
 Low-resolution sounds and accidental noises become tools for creating a sense of intimacy and improvisation, and are praised for daring to maintain a ""handmade'' feel in the age of digital.
 
 ---
 
 ## Ⅸ. Future toy music
 
-Musical toys, such as AI toys, tactile instruments, and social toys, continue to evolve as a testing ground for new interfaces.
+Musical toys, such as AI toys, tactile instruments, and social toys, continue to evolve as a testing ground for new interfaces.  
 The concept of "play" is once again returning to the center of music creation and is playing an important cultural role in the future of electronic sound.
 
 ---
 
 ## Appendix
 
-### Evolution history of Strange Musical Toys around the world (simple chronology)
+### Evolutionary history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 
 flowchart TD
 
 A1970["1970: Stylophone released (UK)"]
-B1978["1978: Omnichord released (Japan)"]
-C1979["1979: Radel Electronic Tanpura introduced (India)"]
-D1980["1980: CASIO VL-TONE released (Japan)"]
-E1990["1990: Establishment of Circuit Bending concept (USA)"]
-F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
-G2010["2010: Pocket Operator Series (Sweden)"]
-H2020["2020: AI toy music device introduced"]
-    
+    B1978["1978: Omnichord released (Japan)"]
+    C1979["1979: Radel Electronic Tanpura introduced (India)"]
+    D1980["1980: CASIO VL-TONE released (Japan)"]
+    E1990["1990: Establishment of Circuit Bending concept (USA)"]
+    F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
+    G2010["2010: Pocket Operator Series (Sweden)"]
+    H2020["2020: AI toy music device introduced"]
+
 A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 </div>
@@ -239,8 +236,6 @@ A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 ---
 
-
-
 ### Strange Musical Toys Recommended Albums/Books
 
 | Album name | Artist | Release year | Device used/Features | Link |
@@ -255,4 +250,5 @@ A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 | Pulse Demon | Merzbow | 1996 | Experimental music centered around modified electronic toys and noise | [Amazon](https://amzn.to/46TWAGo) |
 | Solar Gambling | Omar Rodríguez-López | 2010 | Mini synth, avant-garde guitar with toy-like electronic sounds | [Amazon](https://amzn.to/4ofMWoK) |
 | Big Science | Laurie Anderson | 1982 | Music/performance experiments using Stylophone and simple synths | [Amazon](https://amzn.to/3WF0yhn) |
+
 

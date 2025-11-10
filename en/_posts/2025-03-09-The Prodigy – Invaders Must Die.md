@@ -17,13 +17,12 @@ This album is the fifth studio album by UK electronic dance music group The Prod
 
 Contains hits such as "Invaders Must Die," "Omen," "Warrior's Dance," and "Take Me to the Hospital."
 
-
 #### Tracklist
-```md
+"""md
 CD-1. Invaders Must Die
-CD-2. Omen
+CD-2.Omen
 CD-3. Thunder
-CD-4. Colours
+CD-4. Colors
 CD-5. Take Me To The Hospital
 CD-6. Warrior's Dance
 CD-7. Run With The Wolves
@@ -36,12 +35,11 @@ Bonus Tracks
 CD-12. Black Smoke
 CD-13. Fighter Beat
 
-
-DVD-1. Invaders Must Die(PV)
+DVD-1. Invaders Must Die (PV)
 DVD-2. Omen(PV)
 DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 

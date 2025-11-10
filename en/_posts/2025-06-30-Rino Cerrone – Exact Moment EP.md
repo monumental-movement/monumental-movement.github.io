@@ -19,13 +19,13 @@ Rino Cerrone is an Italian techno/tech house DJ and producer based in Naples sin
 The end of A2 & B1 is a locked groove.
 
 #### Tracklist
-```md
+"""md
 A1. Samba Diversion
-A2. Touch The Source
+A2.Touch The Source
 
 B1. Pushing Properly
-B2. Talkabout!
-```
+B2. Talk about!
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32845972145?afid=6142608987){: .button1}
 

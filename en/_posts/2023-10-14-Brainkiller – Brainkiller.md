@@ -17,7 +17,7 @@ Brainkiller is a hard techno act from Michael Bogdanski, Frank Behrens, and MiBo
 "Brainkiller" was released in 1994 on the German label F%@#ing Loud!, founded by Mike Hoppe (Roy Batty).
 
 #### Tracklist
-```md
+"""md
 A1. Pure Energy
 
 A2. Hotthar Huesthue
@@ -25,7 +25,7 @@ A2. Hotthar Huesthue
 B1. Cooler Heimattrack
 
 B2. Wonderland
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 

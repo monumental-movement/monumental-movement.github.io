@@ -24,24 +24,24 @@ Vocals – Maan Al-Amir
 Arrangement - Bassem Yazbek
 
 #### Tracklist
-```md
-A1.  بدويست 
+"""md
+A1.
 Budweit
 
-A2. سلامتها أم حسن 
+A2.
 Her safety is Umm Hassan
 
-A3. الحب كله
+A3.
 All love
 
-B1. أمونة في السودان
+B1.
 Ammouna in Sudan
 
-B2. القمر والنجوم
+B2.
 The moon and stars
 
-B3. يللا يا باسم
+B3.
 Come on, Bassem
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}

@@ -15,11 +15,11 @@ title: Clivilles and Cole – Pride (In The Name Of Love)
 Side A is a techno/club arrangement cover of U2's Pride (In The Name Of Love).
 
 #### Tracklist
-```md
+"""md
 A. Pride (In The Name Of Love) (Techno Remake Club Mix)
 
 B. A Deeper Love (Underground Club Mix / Let's Go Chanting Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53693730056?afid=6142608987){: .button1}
 

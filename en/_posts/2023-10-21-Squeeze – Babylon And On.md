@@ -17,7 +17,7 @@ title: Squeeze – Babylon And On
 Squeeze was a successful band in the 1980s, known for their songs that incorporated elements of pop rock and new wave. The "Babylon and On" album also attracted attention for its distinctive pop sound and sophisticated songs. In particular, songs such as "Hourglass" are known as Squeeze's signature songs.
 
 #### Tracklist
-```md
+"""md
 A1. Hourglass
 
 A2. Footprints
@@ -38,10 +38,10 @@ B3. Cigarette Of A Single Man
 
 B4. Who Are You?
 
-B5. The Waiting Game
+B5.The Waiting Game
 
 B6. Some Americans
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
 

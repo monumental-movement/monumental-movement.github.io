@@ -19,13 +19,12 @@ Side A is a re-edit of "Tuxedo Rap" by People Under The Stairs, a hip-hop duo fr
 
 The B-side is a re-edit of the masterpiece ""Garden Of Delights'' released in 1977 by The Last Poets, a group of poets and musicians born out of the African-American civil rights movement of the late 1960s.
 
-
 #### Tracklist
-```md
+"""md
 A. People Under The Stairs – Tuxedo Rap (Soul Sister Re-Edit
 
 B. The Last Poets – Garden Of Delights (Re-Edit)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
 

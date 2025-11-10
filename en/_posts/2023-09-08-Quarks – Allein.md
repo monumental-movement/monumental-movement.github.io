@@ -22,20 +22,18 @@ Their songs featured catchy melodies, electronic beats, and Gudrun Gut's distinc
 Even after their disbandment in 2004, they remained a major influence on the German electropop scene, and their music is still loved by fans of electronic and pop music.
 
 #### Tracklist
-```md
-A. Allein (Augen Zu Und Durch)
+"""md
+A. Allein (Augen Zu und Durch)
 
-  Remix, Producer – Sascha Funke
-
+Remix, Producer – Sascha Funke
 
 B1. Allein (Rolling Luggage)
 
 Remix, Producer – Swayzak
 Vocals [Additional Vox] – Darkfarmer
 
-
 B2. Allein (Original)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 

@@ -19,13 +19,13 @@ title: Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes
 "Hot Flashes" has a danceable beat, catchy melody, and electronic pop elements, making it a song that reflects 33HZ's musical style.
 
 #### Tracklist
-```md
+"""md
 A. Kissogram–My Friend Is A Seahorse (Radio Slave Remix)
 
 B1. 33HZ–Hot Flashes (Rob Mello Remix)
 
 B2. 33HZ–Crazy All The Time (Magik Johnson Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30516102342?afid=6142608987){: .button1}
 

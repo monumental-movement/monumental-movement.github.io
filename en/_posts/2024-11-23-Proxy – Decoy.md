@@ -20,11 +20,11 @@ A representative Russian DJ who collaborates with many artists such as Prodigy, 
 "Decoy" is a techno/electro track released in 2007 by Tiga Sontag's Canadian techno/electro/house label Turbo.
 
 #### Tracklist
-```md
+"""md
 A. Decoy
 
-B. Ready To Watching
-```
+B. Ready to Watch
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80589713600?afid=6142608987){: .button1}
 

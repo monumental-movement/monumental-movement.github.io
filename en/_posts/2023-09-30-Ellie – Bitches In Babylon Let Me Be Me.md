@@ -17,19 +17,18 @@ This is Ellie's EP released by Crue-L in 1997.
 
 The A-side includes a remix by Takeshi Kubota, and the B-side is a remix by Shaka Zombie's Tucchi.
 
-
 #### Tracklist
-```md
-A1. Bitches In Babylon (クボタタケシ Remix)
+"""md
+A1. Bitches In Babylon (Takeshi Kubota Remix)
 
-A2. Bitches In Babylon (クボタタケシ Remix - Instrumental)
+A2. Bitches In Babylon (Takeshi Kubota Remix - Instrumental)
 
-A3. Bitches In Babylon (クボタ Flying Killaahh Remix)
+A3. Bitches In Babylon (Kubota Flying Killaahh Remix)
 
-B1. Let Me Be Me (ツッチー Rare Remix)
+B1. Let Me Be Me (Tucchi Rare Remix)
 
-B2. Let Me Be Me (ツッチー Midium Rare Remix)
-```
+B2. Let Me Be Me (Tucchi Midium Rare Remix)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77169403786?afid=6142608987){: .button1}
 

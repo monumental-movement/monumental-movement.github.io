@@ -20,10 +20,10 @@ It Must Be Magic, released in 1981, was Teena Marie's fourth studio album and he
 This record was released on Motown's sub-label Gordy.
 
 #### Tracklist
-```md
+"""md
 A1. It Must Be Magic
 A2. Revolution
-A3. Where's California
+A3. Where's California?
 A4. 365
 A5. Opus III (Does Anybody Care)
 
@@ -31,7 +31,7 @@ B1. Square Biz
 B2. The Ballad Of Cradle Rob And Me
 B3. Portuguese Love
 B4. Yes Indeed
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75939972774?afid=6142608987){: .button1}
 

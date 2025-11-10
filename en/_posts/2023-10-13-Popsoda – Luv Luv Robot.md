@@ -17,7 +17,7 @@ Popsoda is another name for Amil Khan & Charles Siegling's unit Technasia.
 The first song on side B is a remix by Takkyu Ishino of Denki Groove. The second track on the B-side is a remix by German techno DJ/producer Mijk Van Dijk.
 
 #### Tracklist
-```md
+"""md
 A1. Luv Luv Robot
 
 A2. Luv Luv Robot (Edit)
@@ -25,7 +25,7 @@ A2. Luv Luv Robot (Edit)
 B1. Luv Luv Robot (Takkyu Ishino Remix)
 
 B2. Luv Luv Robot (Mijk Van Dijk Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46996717389?afid=6142608987){: .button1}
 

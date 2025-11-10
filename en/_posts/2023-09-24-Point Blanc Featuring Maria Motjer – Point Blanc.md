@@ -16,12 +16,12 @@ title: Point Blanc Featuring Maria Motjér – Point Blanc
 This is a 10-inch record released in 1996 by Groove Attack Productions (GAP) in Cologne, Germany.
 
 #### Tracklist
-```md
+"""md
 A1. Ch'an
 
 A2. Point Blanc
 
-A3. Tu Sonrisa
+A3.
 
 A4. Eliane
 
@@ -29,8 +29,8 @@ B1. Sing Me Your Lovesongs
 
 B2. Capricho
 
-B3. Dark
-```
+B3.Dark
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
 

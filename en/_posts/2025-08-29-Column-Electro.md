@@ -14,8 +14,7 @@ title: '[Column] Electro: The rhythm of the future city carved by machines'
 ---
 
 
-## Cyber ​​funk that sounds decadent and sophisticated at the same time
-
+## Cyber funk that sounds decadent and sophisticated at the same time
 
 Text: mmr｜Theme: Electronic heartbeat born with breakdance
 
@@ -38,13 +37,13 @@ A historical masterpiece that samples Kraftwerk's "Trans-Europe Express" and "Nu
 'Planet Rock' is widely acclaimed as the signature work of Afrika Bambaataa and The Soulsonic Force, whose innovative sound and pioneering approach hold a significant place in the history of hip-hop and dance music.
 
 #### Tracklist
-```md
+"""md
 A1. Planet Rock (Vocal)
 
 A2. Bonus Beats I
 
 B. Planet Rock (Instrumental)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
@@ -96,20 +95,20 @@ In the early 2000s, electro came back into the limelight.
 The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
 
 #### Tracklist
-```md
-1. Genesis
+"""md
+1.Genesis
 2. Let There Be Light
 3. D.A.N.C.E.
-4. Newjack
-5. Phantom
+4.Newjack
+5.Phantom
 6. Phantom Pt II
-7. Valentine
+7.Valentine
 8. Tthhee Ppaarrttyy
-9. DVNO
+9.DVNO
 10. Stress
 11. Waters Of Nazareth
-12. One Minute To Midnight
-```
+12.One Minute To Midnight
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 

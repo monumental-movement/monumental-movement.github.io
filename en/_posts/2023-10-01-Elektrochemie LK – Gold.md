@@ -17,7 +17,7 @@ title: Elektrochemie LK – Gold!
 Elektrochemie LK is one of Thomas Schumacher's solo projects.
 
 #### Tracklist
-```md
+"""md
 A1. Schall (Album Version)
 
 A2. Things Go Wrong II
@@ -37,7 +37,7 @@ E. Boodie Steil
 F1. En Route To Narita
 
 F2. Ein Nenner
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 

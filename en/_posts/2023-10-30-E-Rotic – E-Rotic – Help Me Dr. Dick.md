@@ -19,11 +19,11 @@ E-Rotic is a German Eurodance act formed in 1994. Early members were vocalist Ly
 "Help Me Dr. Dick" is a Eurohouse/Eurodance track released in 1996 by the dance-pop label Blow Up in Stuttgart, Germany.
 
 #### Tracklist
-```md
+"""md
 A. Help Me Dr. Dick (Club Version)
 
 B. Help Me Dr. Dick (Extended Version)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95670817955?afid=6142608987){: .button1}
 

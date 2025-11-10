@@ -17,7 +17,7 @@ The Hard Concert is an Italo-Eurodance project by Italian producer Paolo Armarol
 "Get The Power" is said to be The Hard Concert's masterpiece.
 
 #### Tracklist
-```md
+"""md
 A1. Get The Power (Vocal Hard Mix)
 
 A2. Get The Power (Move Mix)
@@ -25,7 +25,7 @@ A2. Get The Power (Move Mix)
 B1. Get The Power (Reverse Mix)
 
 B2. Get The Power (Overdrive Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57007567296?afid=6142608987){: .button1}
 

@@ -17,16 +17,15 @@ Special Others is a Japanese jam band whose style is a mix of improvisational ja
 
 This mini-album was released by Victor in 2007.
 
-
 #### Tracklist
-```md
-1. Star
+"""md
+1.Star
 2. Surdo
 3. When You Wish Upon A Star
 4. All Things - Part 1
 5. All Things - Part 2
 6. Aului 80 - Self Remix
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 

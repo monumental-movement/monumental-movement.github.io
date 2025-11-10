@@ -16,20 +16,19 @@ Eric B. & Rakim are an American hip-hop duo formed in Long Island, New York in 1
 
 Released in 1987, "Paid in Full" was their debut album and included many hit singles in the United States, including "Eric B. Is President," "I Ain't No Joke," "I Know You Got Soul," "Move the Crowd," and "Paid in Full." It is also known as the benchmark album of golden age hip hop. This CD is a reissue.
 
-
 #### Tracklist
-```md
+"""md
 1. I Ain't No Joke
 2. Eric B Is On The Cut
-3. My Melody  Remix – Marley Marl
+3. My Melody Remix – Marley Marl
 4. I Know You Got Soul
 5. Move The Crowd
 6. Paid In Full
 7. As The Rhyme Goes On
 8. Chinese Arithmetic
 9. Eric B Is President Remix – Marley Marl
-10. Extended Beat
-```
+10.Extended Beat
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 

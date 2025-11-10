@@ -16,17 +16,17 @@ title: The Communards – Red
 
 "Red" is The Communards' debut album and is widely regarded as one of their most successful works. The album features songs with emotional vocals and danceable beats.
 
-The album includes hit singles such as "Don't Leave Me This Way" and "Never Can Say Goodbye." These songs were commercially successful due to The Communards' distinctive sound and dancefloor popularity.
+The album includes hit singles such as "Don't Leave Me This Way" and "Never Can Say Goodbye." These songs were commercially successful due to The Communards' distinctive sound and dance floor popularity.
 
 #### Tracklist
-```md
+"""md
 A1. Tomorrow
 
 A2. T.M.T.T.B.M.G.
 
 A3. Matter Of Opinion
 
-A4. Victims
+A4.Victims
 
 A5. For A Friend
 
@@ -39,7 +39,7 @@ B3. Hold On Tight
 B4I. f I Could Tell You
 
 B5. C Minor
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
 

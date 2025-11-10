@@ -15,15 +15,14 @@ title: RZA As Bobby Digital – RZA As Bobby Digital In Stereo
 "RZA As Bobby Digital – RZA As Bobby Digital In Stereo" is
 RZA's solo debut album from Wu-Tang Clan.
 
-
 #### Tracklist
-```md
-1.  B.O.B.B.Y.
-2. Unspoken Word
+"""md
+1. B.O.B.B.Y.
+2.Unspoken Word
 3. Airwaves
 4. Love Jones
 5. N.Y.C. Everything
-6. Mantis
+6.Mantis
 7. Holocaust (Silkworm)
 8. Terrorist
 9. Bobby Did It (Spanish Fly)
@@ -32,9 +31,9 @@ RZA's solo debut album from Wu-Tang Clan.
 12. Project Talk
 13. Lab Drunk
 14. Fuck What You Think
-15. Daily Routine
+15.Daily Routine
 16. Domestic Violence
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
 

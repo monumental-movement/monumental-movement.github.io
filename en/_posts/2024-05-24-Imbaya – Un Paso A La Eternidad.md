@@ -20,10 +20,10 @@ Imbaya is a Bolivian trio that plays traditional South American music based on f
 "Un Paso A La Eternidad" is an album based on native music made by the Quechua people of Peru, and is a cassette tape released in 1993.
 
 #### Tracklist
-```md
+"""md
 1. Puro Runas
-2. Encuentros
-3. Malku
+2.Encuentros
+3.Malku
 4. Korti Poncho
 5. Colito
 6. Tempestad
@@ -36,6 +36,6 @@ Imbaya is a Bolivian trio that plays traditional South American music based on f
 13. Llorando
 14. Carnaval De Valle
 15. Guajira Cafe
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}

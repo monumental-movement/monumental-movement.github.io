@@ -20,15 +20,15 @@ A powerful and funky track that is a classic techno track.
 It's a great record to listen to at high volumes in a warehouse or underground club environment.
 
 #### Tracklist
-```md
+"""md
 A1. Call Of The Wild
 
-A2. Skin Deep
+A2.Skin Deep
 
-B1. L8
+B1.L8
 
-B2. Scout
-```
+B2.Scout
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 

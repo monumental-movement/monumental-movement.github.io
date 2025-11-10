@@ -16,13 +16,13 @@ title: Elektrik Haze vs. Beck – Elektro Loser
 This is an electro remix record by Elektrik Haze of BECK's hit song "LOSER" released in 1994.
 
 #### Tracklist
-```md
+"""md
 A1. Elektro Loser (Tek & Onex Mix)
 
 A2. Elektro Loser (Elektribal Mix)
 
 B. Elektro Loser (Unity Level Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92554809496?afid=6142608987){: .button1}
 

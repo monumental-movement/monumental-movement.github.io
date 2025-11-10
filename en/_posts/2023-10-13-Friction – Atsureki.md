@@ -15,23 +15,23 @@ title: Friction – friction
 "Friction" is the first full studio album by Japanese punk rock band Friction, released in 1980. The producer and engineer is Ryuichi Sakamoto. This album is a reissue from 2005.
 
 [Participating members]
-・Rec - vocals, bass, guitar
+・Rec – vocals, bass, guitar
 ・Satoshi Tsunematsu - Guitar
 ・Chico Hige – drums, saxophone
 
 #### Tracklist
-```md
-1. A-Gas
-2. オートマチック・フラ 
-3. I Can Tell
-4. 100年 100 Nen
+"""md
+1.A-Gas
+2. Automatic hula
+3.I Can Tell
+4. 100 years 100 years
 5. Crazy Dream
 6. Cycle Dance
 7. Cool Fool
 8. No Thrill
 9. Big-S
-10. Out
-```
+10.Out
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 

@@ -18,11 +18,11 @@ Originally from Scotland, Pat McGlynn worked as a guitarist for the Bay City Rol
 "She'd Rather Be With Me" was released by London Records in 1977. The producer is Nick Raymonde.
 
 #### Tracklist
-```md
-A. She'd Rather Be With Me (あの娘はアイドル)
+"""md
+A. She'd Rather Be With Me (That girl is an idol)
 
-B. Street Walkin' Girl (テクニカラーの女の子)
-```
+B. Street Walkin' Girl (Technicolor Girl)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
 

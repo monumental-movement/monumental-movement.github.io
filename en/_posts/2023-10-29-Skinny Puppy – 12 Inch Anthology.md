@@ -13,14 +13,14 @@ title: Skinny Puppy – 12 Inch Anthology
 ---
 
 
-Skinny Puppy is an electro-industrial band formed in 1982 by Canadian-born Kelvin Key and Kevin Ogilvie.
+Skinny Puppy is an electro-industrial band formed in 1982 by Canadian-born Kelvin Key and Kevin Ogilvy.
 
 Skinny Puppy is known as one of the founders of the industrial rock and electro-industrial genres.
 
 This album is a compilation album containing the band's early singles and B-sides.
 
 #### Tracklist
-```md
+"""md
 A1. Dig It
 
 A2. The Choke (Re-Grip)
@@ -40,7 +40,7 @@ B3. Stairs And Flowers (Def Wish Mix)
 B4. Stairs And Flowers (Too Far Gone)
 
 B5. Testure (12 Inch Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
 

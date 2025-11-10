@@ -14,13 +14,12 @@ title: Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)
 
 Released in 1987 on the Belgian and Dutch label Indisc, this album gained popularity at the time as an Italo disco/high energy album.
 
-
 #### Tracklist
-```md
-A  Boom Boom (Viens Chez Moi Faire Une Boum)
+"""md
+A Boom Boom (Viens Chez Moi Faire Une Boum)
 
-B  Le Jeux Du "Boom Boom" (Instrumental)
-```
+B Le Jeux Du "Boom Boom" (Instrumental)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88611274359?afid=6142608987){: .button1}
 

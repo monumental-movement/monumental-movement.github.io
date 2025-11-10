@@ -16,20 +16,20 @@ title: Helen Merrill – Helen Merrill
 
 Helen Merrill was an American jazz vocalist who was active in the 1950s and 1960s.
 
-The album ""Helen Merrill"' is Helen Merrill"s debut studio album, released on the jazz record label EmArcy in 1955.It featured arrangements by Quincy Jones, trumpet player Clifford Brown, cello and double bass player Oscar Pettiford, and others.
+The album ""Helen Merrill'' is Helen Merrill's debut studio album, released on the jazz record label EmArcy in 1955.It featured arrangements by Quincy Jones, trumpet player Clifford Brown, cello and double bass player Oscar Pettiford, and others.
 
 This CD is a Japanese version that was reissued and remastered in 1997.
 
 #### Tracklist
-```md
-1. Don't Explain
+"""md
+1. Don't explain
 2. You'd Be So Nice To Come Home To
 3. What's New
 4. Falling In Love With Love
 5. Yesterdays
 6. Born To Be Blue
-7. 'S Wonderful
-```
+7.'S Wonderful
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
 

@@ -14,18 +14,17 @@ title: '[Column] Aesthetics of imperfection ─ A new aesthetic of pop living in
 ---
 
 
-## Indie Sleaze brings back the era of dirty pleasure
+## Indie Sleazeが呼び戻した、汚れた快楽の時代
 
+文：mmr｜テーマ：「完璧なポップ」への倦怠。その反動として、いま再び“不完全さの美学”が世界を席巻している事象について
 
-Text: mmr｜Theme: Tiredness towards "perfect pop". As a reaction to this, the "aesthetics of imperfection" is once again sweeping the world.
+スマートフォン時代が作り出した「完璧なポップ」への倦怠。その反動として、いま再び“不完全さの美学”が世界を席巻している。Charli XCX『brat』が象徴したのは、ただの流行ではなく、文化的な「再野生化」だった。
 
-Weary of the "perfect pop" created by the smartphone era. As a reaction to this, the ""aesthetics of imperfection"' is once again sweeping the world. Charli XCX"s brat symbolized not just a trend, but a cultural rewilding.
-
-Pop culture has finally tired of the "too clean aesthetic".
-Charli XCX's album "brat" dominates the summer charts.
-When we breathed new life into clubs around the world,
-We were made aware again...
-I think music should be rougher, more improvised, and more "imperfect."
+ポップカルチャーはついに“清潔すぎる美学”に飽きた。  
+チャーリーXCXのアルバム『brat』が夏のチャートを席巻し、  
+世界中のクラブに新しい風を吹き込んだとき、  
+私たちは再び気づかされたのだ——  
+音楽はもっとラフで、もっと即興的で、もっと“不完全”でいいのだと。
 
 ---
 
@@ -42,141 +41,140 @@ color: #fff;
 }
 </style>
 
-## 1. The rekindling of Indie Sleaze and the pleasure of "roughness"
+## 1. Indie Sleazeの再燃と「粗さ」の快感
 
-### 1-1. What lies behind Y2K nostalgia
-In the mid-2020s, the Y2K revival spread from fashion to music to internet culture.
-Among them, the term "Indie Sleaze" is once again in the spotlight.
-In the early 2000s, a party lit by digital camera flashes,
-Muses whose make-up is still ruined,
-An ambiguous romanticism that dwells in the image quality of MySpace.
-What was there was the truth because it was not in place.
+### 1-1. Y2Kノスタルジアの奥に潜むもの
+2020年代半ば、Y2Kリバイバルはファッションから音楽、インターネット文化にまで波及した。  
+その中で“Indie Sleaze”という言葉が再び脚光を浴びる。  
+2000年代前半、デジカメのフラッシュに照らされたパーティ、  
+メイクが崩れたままのミューズたち、  
+MySpaceの画質に宿る曖昧なロマンティシズム。  
+そこにあったのは、整っていないからこその真実だった。  
 
-And in 2024, that "roughness" once again destroyed modern boredom.
-This attitude of rejecting perfect filters has become a new aesthetic.
+そして2024年、再びその“粗さ”が現代の退屈を破壊した。  
+完璧なフィルターを拒む態度こそが、新しい美学となったのだ。
 
-### 1-2. Signs shown by fashion
-Launched by Saint Laurent and Heaven by Marc Jacobs
-The "roughness of the night" and "worn out shine" are
-Eventually, it infected the world of music as well.
-In the eerie decadence of the Balenciaga show,
-The "beauty of not being perfect" was stirring.
-Charli XCX's ""brat'' sublimated that feeling into pop music.
-
+### 1-2. ファッションが示した兆し
+Saint LaurentやHeaven by Marc Jacobsが打ち出した  
+「夜のざらつき」や「使い古された輝き」は、  
+やがて音楽の世界にも感染していった。  
+Balenciagaのショーが放つ不気味な退廃の中に、  
+“完璧ではないことの美”がうごめいていた。  
+その感覚をポップに昇華したのが、チャーリーXCXの『brat』だった。
 
 ---
 
-## 2. "Brat" talks about the power of "imperfection"
-
+## 2. 『brat』が語った“不完全さ”の力
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2-1. Casual reality
-When you listen to "brat", the first thing you feel is the comfort of being "unfinished."
-The vocals are rough, the mix is ​​staticy, and the lyrics are spit out impulsively.
-However, there is a "raw" feel to it that is not found in other pop music.
-It is a ""human touch'' that is the opposite of the era of perfection.
+### 2-1. 無造作のリアリティ
+『brat』を聴くと、最初に感じるのは“未完成”の心地よさだ。  
+ボーカルは粗く、ミックスにはノイズが残り、リリックは衝動的に吐き出される。  
+だが、そこには他のポップスにはない「生」の質感がある。  
+それは、完璧さを重ねてきた時代の対極にある“人間の手触り”だ。  
 
-### 2-2. The antithesis of a perfect world
-Smartphones and social networking sites have created an obsession with always being right.
-Images are cleaned up, voices are corrected, and mistakes are instantly removed.
-However, Charli XCX seems to laugh off the pressure.
-He dared to throw out an uneven sound to the world.
-The success of ""brat'' is a milestone in pop history.
-It symbolizes a "departure from the belief in perfection."
+### 2-2. 完璧な世界へのアンチテーゼ
+スマートフォンとSNSが作り出したのは、「常に正解であること」への強迫観念だった。  
+画像は整えられ、声は補正され、失敗は即座に削除される。  
+だが、チャーリーXCXはその圧力を笑い飛ばすように、  
+あえて不揃いなサウンドを世界に投げつけた。  
+『brat』の成功は、ポップの歴史における  
+“完璧信仰からの離脱”を象徴している。
 
 ---
 
-## 3. Ripples of imperfection ─ From Trashy to Organic
+## 3. 不完全の波紋 ─ TrashyからOrganicへ
 
-### 3-1. Kesha and the "Joyride" parable
-Kesha's "Joyride" is a nod to 2000s Euro dance.
-I dared to revive it cheaply.
-Behind the sparkling synths, a rawness shines through, like a mix of sweat and makeup.
-It was a carnivalesque rebellion against the world of overly controlled beauty.
-Charli XCX and Kesha's movements showed that
-It was the dawn of an era of ""openness'' rather than perfection.
+### 3-1. Keshaと「Joyride」の寓話
+Keshaの「Joyride」は、2000年代のユーロダンスを  
+あえてチープに蘇らせた。  
+キラキラとしたシンセの奥で、汗と化粧が混じるような生々しさが光る。  
+それは“過剰に管理された美”の世界に対するカーニバル的反逆だった。  
+チャーリーXCXとケシャ、このふたりの動きが示したのは、  
+完璧よりも「開放」の時代の到来だった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2Dh2B_M98U?si=BTkOhCPEdgVVxvrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 3-2. Lo-fi Renaissance
-At the bottom of club culture,
-DIY-style expressions using cheap microphones and used equipment are once again gaining popularity.
-In clubs in Berlin and London,
-Taking the beat off, distorting it, and destroying it is becoming the "style."
-What lies here is the immediacy of emotion rather than the purity of sound.
-The fact that it's not perfect resonates as "sincerity."
+### 3-2. ローファイ・ルネサンス
+クラブカルチャーの底では、  
+安価なマイクや中古機材を使ったDIY的表現が再び熱を帯びている。  
+BerlinやLondonのクラブでは、  
+ビートを外し、歪ませ、壊すことが“流儀”になりつつある。  
+そこにあるのは、音の純度よりも感情の即発性。  
+完璧ではないことが、むしろ“誠実さ”として響く。
 
 ---
 
-## 4. The end of the SNS era and the return of "fluctuation"
+## 4. SNS時代の終わりと“揺らぎ”の復権
 
-### 4-1. Freedom of not being visible
-The era of "well-formed self-expression" dominated by Instagram and TikTok has changed.
-It's slowly coming to an end.
-Nowadays, the younger generation wants things to "sway" rather than "stand out."
-Poorly focused photos, noisy recordings, and unedited videos.
-It is in them that I find evidence of my real self.
+### 4-1. 映えないことの自由
+InstagramやTikTokが支配した「整った自己表現」の時代が、  
+ゆっくりと終わりを迎えている。  
+今、若い世代は“映える”より“揺らぐ”ことを望んでいる。  
+ピントの甘い写真、ノイズの多い録音、未編集の動画。  
+それらの中にこそ、リアルな自分の証拠を見いだしているのだ。
 
-### 4-2. Escape from online to offline
-"The Aesthetics of Imperfection" is
-It"s not just about aesthetics, it"s also about resetting your way of life.
-People who are tired of building their personalities on SNS and return to their "body" again.
-The humidity of the club, the roar of the live house,
-There is an imperfect but certain feeling within it.
-Music is once again returning to the "human scene" rather than the digital world.
-
----
-
-## 5. Turning point in beauty ─ From "adjusting" to "collapsing"
-
-### 5-1. Courage to affirm imperfection
-The last ten years have been dominated by ideas of minimalism and tidying up.
-We have been afraid of what we are missing.
-But now, what is missing is the blank space for creation.
-Noisy sounds, blurred images, and stuck words.
-Instead of removing them, accept them as part of the work.
-Therein lies the sensibility of a new era.
-
-### 5-2. "Rewilding" of pop
-After "brat," artists let go of their microphones.
-Impromptu recording with smartphone,
-I started uploading songs unfinished.
-What they all have in common is the attitude of ""leaving things as they are.''
-Pop is becoming wild again.
-It is the complete opposite of the inorganic perfection created by AI.
-It is also an attempt to return to the ""human rhythm.''
+### 4-2. オンラインからオフラインへの脱出
+「The Aesthetics of Imperfection」は、  
+単なる美学ではなく、生き方のリセットでもある。  
+SNS上の人格構築に疲れ、再び“身体”へと回帰する人々。  
+クラブの湿気、ライブハウスの轟音、  
+その中にある不完全でありながら確かな実感。  
+音楽は再び、デジタルではなく“人間の現場”に戻ろうとしている。
 
 ---
 
-## 6. The future of imperfection ─ Toward a new reality
+## 5. 美の転換点 ─ 「整う」から「崩れる」へ
 
-We are finally on the verge of being freed from the shackles of "perfection."
-Outside the world arranged by algorithms,
-Errors, distortions, and obscurities shine once again.
+### 5-1. 不完全を肯定する勇気
+ミニマリズムや整頓の思想が支配したここ10年、  
+私たちは「欠けているもの」を恐れてきた。  
+だが今、欠けていることこそが創造の余白になっている。  
+音のノイズ、画像のブレ、言葉の詰まり。  
+それらを削除するのではなく、作品の一部として受け入れる。  
+そこに新しい時代の感性が宿る。
 
-It's evolution, not regression.
-The improvisational nature of music, the accidental nature of art,
-And evolution that affirms the instability that humans have.
-
-What is "The Aesthetics of Imperfection"?
-In short, it is the aesthetics of "living itself."
-It"s okay if it breaks. It"s okay to waver.
-The sound is not perfect, we are not perfect,
-The time has come to make this world sing again.
+### 5-2. ポップの“再野生化”
+『brat』以降、アーティストたちはマイクを手放し、  
+スマートフォンで即興的に録音し、  
+未完成のまま曲をアップロードするようになった。  
+そこに共通しているのは、“衝動のままに残す”という態度だ。  
+ポップが再び野性を取り戻しつつある。  
+それは、AIが生み出す無機的な完璧さとは正反対の、  
+「人間のリズム」に戻る試みでもある。
 
 ---
 
-## Appendix: The Aesthetics of Imperfection 2025 Playlist
-### - Four artists who express the aesthetics of imperfection -
+## 6. 不完全の未来 ─ 新しいリアリティへ
 
-| Artist/Album / Track | Year | Description | Link |
+私たちは、ようやく“完璧であること”の呪縛から解き放たれようとしている。  
+アルゴリズムが整えた世界の外で、  
+エラーや歪み、曖昧さが再び輝きを取り戻す。  
+
+それは退行ではなく進化だ。  
+音楽が持つ即興性や、アートが持つ偶発性、  
+そして人間が持つ不安定さを肯定するという進化。  
+
+「The Aesthetics of Imperfection」とは、  
+要するに“生きることそのもの”の美学である。  
+壊れてもいい。揺らいでもいい。  
+完璧ではない音、完璧ではない私たちが、  
+もう一度この世界を鳴らし直す時が来た。
+
+---
+
+## 付録：The Aesthetics of Imperfection 2025 Playlist  
+### ― 不完全の美学を鳴らす4人のアーティスト ―
+
+| Artist/Album / Track | Year | Description | リンク |
 |:--|:--|:--:|:--|:--|
-| **Charli XCX**/*brat* | 2024 | 21st century rebellion against "perfection" with gritty club beats and impromptu vocals. | [Amazon](https://amzn.to/437JNPC) |
-| **Kesha**/*Joyride* | 2024 | Trashy A comeback work that recreates Eurodance and celebrates "dirty pleasure." | [Amazon](https://amzn.to/3KMtt0q) |
-| **Yaeji**/*With A Hammer* | 2023 | A post-club masterpiece that turns introspection and anger into beats while switching back and forth between Korean and English. | [Amazon](https://amzn.to/471ZFEp) |
-| **Ethel Cain**/*Preacher"s Daughter* | 2022 | The pinnacle of modern gothic pop, depicting the collapse of Americana and self-salvation. | [Amazon](https://amzn.to/3Ja7LmB) |
+| **Charli XCX**/*brat* | 2024 | ざらついたクラブ・ビートと即興的なヴォーカルで、“完璧”を拒む21世紀の反抗。 | [Amazon](https://amzn.to/437JNPC) |
+| **Kesha**/*Joyride* | 2024 | Trashy Eurodanceを再生産し、“汚れた快楽”を祝福するカムバック作。 | [Amazon](https://amzn.to/3KMtt0q) |
+| **Yaeji**/*With A Hammer* | 2023 | 韓国語と英語を往復しながら、内省と怒りをビートに変えるポストクラブの傑作。 | [Amazon](https://amzn.to/471ZFEp) |
+| **Ethel Cain**/*Preacher’s Daughter* | 2022 | アメリカーナの崩壊と自己救済を描く、現代ゴシック・ポップの最高峰。 | [Amazon](https://amzn.to/3Ja7LmB) |
+

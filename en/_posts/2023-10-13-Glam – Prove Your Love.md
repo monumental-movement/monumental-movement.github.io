@@ -19,7 +19,7 @@ Glam released only two songs, "Prove Your Love" and "More Than Ever," with "Prov
 Released in 1991, ""Prove Your Love'' is an early 90s anthem that was frequently played in the dance music club scene at the time, and has since become a classic.
 
 #### Tracklist
-```md
+"""md
 A1. Prove Your Love (Club Mix)
 
 A2. Prove Your Love (Acappella)
@@ -27,7 +27,7 @@ A2. Prove Your Love (Acappella)
 B1. Prove Your Love (Instrumental)
 
 B2. Prove Your Love (Radio Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92806880248?afid=6142608987){: .button1}
 

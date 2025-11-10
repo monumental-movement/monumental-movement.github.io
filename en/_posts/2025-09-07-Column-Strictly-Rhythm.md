@@ -14,14 +14,11 @@ title: '[Column] Strictly Rhythm — From its origins to the present: Historical
 ---
 
 
+## なぜStrictly Rhythmは特別だったのか
 
-## Why Strictly Rhythm was special
+文：mmr｜テーマ：ニューヨーク発の伝説的ハウス・レーベル **Strictly Rhythm** の成立から現在までを、時代背景・代表的名盤・当時の制作機材トレンドの観点で年代別に整理
 
-
-Text: mmr｜Theme: From the establishment of the legendary New York house label **Strictly Rhythm** to the present, organized by era from the perspective of historical background, representative masterpieces, and trends in production equipment at the time.
-
-
-Strictly Rhythm (commonly known as Strictly) is a house specialty label founded in New York in 1989. With their A&R sense honed on the street and their club-oriented song selection, they led the 90's house scene in New York and around the world. The label excelled at discovering and nurturing DJs/producers while striking a balance between underground "sounds" and commercial hits.
+Strictly Rhythm（通称：ストリクトリー）は、1989年にニューヨークで誕生したハウス専門レーベル。ロウ（ストリート）で鍛えられたA&R感覚とクラブ指向の選曲で、90年代のニューヨーク〜世界のハウス・シーンをけん引しました。レーベルはアンダーグラウンドの“サウンド”と商業ヒットのバランスを取りながら、DJ／プロデューサーの発掘と育成に卓越していました。
 
 ---
 
@@ -38,179 +35,178 @@ color: #fff;
 }
 </style>
 
+## 1989〜1992：誕生と「NYローカルの実験場」期
 
-## 1989-1992: Birth and "NY Local Experiment Station" period
+**時代背景**：シカゴやデトロイトで芽吹いたハウス／テクノが90年代初頭にニューヨークのクラブへ流入。クラブ文化が商業化する直前、アンダーグラウンドな実験心が残っていた時代です。
 
-**Historical background**: House/techno, which had sprouted in Chicago and Detroit, entered New York clubs in the early 1990s. It was a time when club culture was about to become commercialized, and an underground spirit of experimentation remained.
+**出来事**：1989年、Mark Finkelstein と Gladys Pizarro によって設立。創業当初からDJ寄りの12インチ中心で、地元クラブでウケる“ダンスフロア直結型”の音を次々送り出しました。
 
-**What happened**: Founded in 1989 by Mark Finkelstein and Gladys Pizarro. Since our founding, we have focused on DJ-oriented 12-inch music, producing sound that connects directly to the dance floor and is popular at local clubs.
+**代表的名盤（初期）**
+- Roger Sanchez — *Luv Dancin'*（1990, Underground Solution名義）
 
-**Representative masterpiece (early)**
-- Roger Sanchez — *Luv Dancin'* (1990, under the name Underground Solution)
-
-**Equipment trends**
-Many of the productions used turntables and samplers (early SP series and Akai) to take advantage of the "loop feeling" of records.
+**機材トレンド**  
+ターンテーブル＋サンプラー（初期SPシリーズやAkai）を使い、レコードの「ループ感」を生かした制作が多かった。
 
 ---
 
-| No | Artist | Track | Comments |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
-| 1 | Underground Solution | Luv Dancin (1990) | Early house anthem for clubs. Characterized by a dynamic sense of rhythm. |
-| 2 | Barbara Tucker | I Get Lifted | House with powerful vocals and gospel elements. |
-| 3 | Harddrive | Deep Inside | A classic deep house song with a soulful melody. |
-| 4 | George Morel | Let"s Groove | Early NY house with minimalist yet outstanding groove. |
-| 5 | Masters At Work | The Ha Dance | A work that emphasizes the percussive elements of house. |
-| 6 | Kenny Dope | The Bucketheads EP | Impressive use of innovative samples and rhythm. |
-| 7 | The Underground Network | It"s Alright | A club hit with a perfect balance of melody and beat. |
-| 8 | Groove Armada | House Music Will Never Die | Homage to house, influencing later releases. |
-| 9 | Logic | The Warning (Juan Atkins Remix) | A refreshing fusion of techno approach and house. |
-| 10 | Victor Simonelli | Do You Feel Me | Melodic deep house, a popular club song. |
+| 1 | Underground Solution | Luv Dancin (1990) | クラブ向けの初期ハウスアンセム。リズムの躍動感が特徴。 |
+| 2 | Barbara Tucker | I Get Lifted | パワフルなボーカルとゴスペル要素が融合したハウス。 |
+| 3 | Hardrive | Deep Inside | ディープハウスの定番、ソウルフルなメロディが魅力。 |
+| 4 | George Morel | Let’s Groove | ミニマルながらグルーヴ感抜群の初期NYハウス。 |
+| 5 | Masters At Work | The Ha Dance | ハウスのパーカッシブな要素を前面に押し出した作品。 |
+| 6 | Kenny Dope | The Bucketheads EP | 斬新なサンプル使いとリズムが印象的。 |
+| 7 | The Underground Network | It’s Alright | メロディとビートのバランスが絶妙なクラブヒット。 |
+| 8 | Groove Armada | House Music Will Never Die | ハウスへのオマージュ的作品、後のリリースに影響。 |
+| 9 | Logic | The Warning (Juan Atkins Remix) | テクノ的アプローチとハウスの融合が新鮮。 |
+| 10 | Victor Simonelli | Do You Feel Me | メロディアスなディープハウス、クラブでの人気曲。 |
 
 ---
 
-## 1993-1997: The golden era — from the clubs to the charts
+## 1993〜1997：黄金期 — クラブからチャートまで
 
-**Time background**: In the mid-90s, house music quickly crossed over between Europe and America. Club anthems spread to radio and charts, and remix culture matured.
+**時代背景**：90年代中盤、ハウスはヨーロッパとアメリカで一気にクロスオーバー。クラブアンセムがラジオ／チャートにも波及し、リミックス文化が成熟しました。
 
-**Key moments/representative works**
-- Reel 2 Real feat. The Mad Stuntman — *I Like To Move It* (1993)
-- Armand Van Helden — *Witch Doktor* (1994)
-- Josh Wink — *Higher State Of Consciousness* (1995)
-- Ultra Naté — *Free* (1997)
+**キーモーメント／代表作**
+- Reel 2 Real feat. The Mad Stuntman — *I Like To Move It*（1993）
+- Armand Van Helden — *Witch Doktor*（1994）
+- Josh Wink — *Higher State Of Consciousness*（1995）
+- Ultra Naté — *Free*（1997）
 
-**Equipment trends**
-- **E-MU SP-12 / SP-1200** (Rough and warm sample texture)
-- **Akai MPC series** (MPC60~MPC2000 series)
-- **Roland TR-909 / TR-808** (kick/hi-hat)
-- Technique to create "thickness" with outboard/tape processing
+**機材トレンド**  
+- **E-MU SP-12 / SP-1200**（ラフで温かみのあるサンプル質感）  
+- **Akai MPCシリーズ**（MPC60〜MPC2000系）  
+- **Roland TR-909 / TR-808**（キック／ハイハット）  
+- アウトボード／テープ処理で「厚み」を作る技法  
 
 ---
 
-| No | Artist | Track | Comments |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
-| 1 | Reel 2 Real ft. The Mad Stuntman | I Like To Move It (1993) | A worldwide hit dance anthem, featuring a Caribbean rhythm. |
-| 2 | Armand Van Helden | Witch Doktor | Unique sampling and heavy beats are impressive. |
-| 3 | Barbara Tucker | I Found A Place | Soulful and warm vocal house. |
-| 4 | George Morel | Morel"s Groove | A simple loop that looks great on the floor. |
-| 5 | India | To Be In Love | A work that shines with melodious and smooth vocals. |
-| 6 | Josh Wink | Higher State Of Consciousness | A club anthem with psychedelic elements. |
-| 7 | Harddrive | Just Believe | A classic deep house song with an emotional chord progression. |
-| 8 | Barbara Tucker | Stay Together | Classic vocal house, emotional singing. |
-| 9 | Masters At Work | The Nervous Track | A track that is an excellent combination of typing and live performance. |
-| 10 | Ultra Naté | Free | One of the most memorable vocal anthems in house history, with positive lyrics. |
+| 1 | Reel 2 Real ft. The Mad Stuntman | I Like To Move It (1993) | 世界的にヒットしたダンスアンセム、カリビアン風リズムが特徴。 |
+| 2 | Armand Van Helden | Witch Doktor | 独特なサンプリングとヘビーなビートが印象的。 |
+| 3 | Barbara Tucker | I Found A Place | ソウルフルで温かみのあるボーカルハウス。 |
+| 4 | George Morel | Morel’s Groove | シンプルなループながらフロア映えするトラック。 |
+| 5 | India | To Be In Love | メロディアスで滑らかなボーカルが光る作品。 |
+| 6 | Josh Wink | Higher State Of Consciousness | サイケデリックな要素を持つクラブアンセム。 |
+| 7 | Hardrive | Just Believe | ディープハウスの名曲、情感豊かなコード進行。 |
+| 8 | Barbara Tucker | Stay Together | クラシックなボーカルハウス、感情的な歌唱が魅力。 |
+| 9 | Masters At Work | The Nervous Track | 打ち込みと生演奏の融合が秀逸なトラック。 |
+| 10 | Ultra Naté | Free | ハウス史上に残るボーカルアンセム、ポジティブな歌詞。 |
 
 ---
 
-## 1998-2002: Expansion, confusion, and closure
+## 1998〜2002：拡大と迷走、そして閉鎖
 
-**Background**: The peak of the boom and intensifying market competition. While the label is searching for a global strategy, its capital ties with major companies are causing a stir.
+**時代背景**：ブームのピークと市場の競争激化。レーベルは世界戦略を模索する一方、メジャー企業との資本関係が波紋を呼ぶ。
 
-**Event**: After partnering with Warner, the business was temporarily suspended in 2002.
+**出来事**：Warner系との提携を経て、2002年に一時事業停止。
 
-**Representative masterpiece**
-- Wamdue Project — *King of My Castle* (1997/1999 hit)
+**代表的名盤**
+- Wamdue Project — *King of My Castle*（1997/1999 ヒット）
 
-**Equipment trends**
-DAWs and software plug-ins have begun to enter the production workflow, and the movement to reproduce and integrate the sounds of hardware equipment with DAWs has accelerated.
+**機材トレンド**  
+DAWとソフトウェア・プラグインが制作ワークフローに入り始め、ハード機材のサウンドをDAWで再現／統合する動きが加速。
 
 ---
 
-| No | Artist | Track | Comments |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
-| 1 | Wamdue Project | King Of My Castle | A worldwide hit, an exquisite fusion of melody and rhythm. |
-| 2 | Barbara Tucker | Stop Playing With My Mind | Groove deep house with vocals as the main character. | 2 | Barbara Tucker | Stop Playing With My Mind | |
-| 3 | George Morel | Let"s Groove 98 | Released in 1998, featuring a modern arrangement. |
-| 4 | Reel People | The Rain | A work that combines jazzy elements and house beats. |
-| 5 | Groove Armada | Superstylin" | Funky and energetic club tune. |
-| 6 | Armand Van Helden | You Don"t Know Me | Melodic house, a club staple. |
-| 7 | India | Love & Happiness | Deep house where the expressiveness of the vocals shines. |
-| 8 | Barbara Tucker | Everybody Dance (The Horn Song) | A dance floor song with an impressive horn effect. |
-| 9 | Mousse T. | Horny (Strictly Edits) | A classic with humor and groove. |
-| 10 | Celeda | Music Is The Answer | A fusion of positive messages and dance beats. |
+| 1 | Wamdue Project | King Of My Castle | 世界的ヒット、メロディとリズムの融合が絶妙。 |
+| 2 | Barbara Tucker | Stop Playing With My Mind | グルーヴ感あるディープハウス、ボーカルが主役。 |
+| 3 | George Morel | Let’s Groove 98 | 98年リリース版、現代的なアレンジが特徴。 |
+| 4 | Reel People | The Rain | ジャジーな要素とハウスビートが調和した作品。 |
+| 5 | Groove Armada | Superstylin’ | ファンキーでエネルギッシュなクラブチューン。 |
+| 6 | Armand Van Helden | You Don’t Know Me | メロディックなハウス、クラブでの定番。 |
+| 7 | India | Love & Happiness | ボーカルの表現力が光るディープハウス。 |
+| 8 | Barbara Tucker | Everybody Dance (The Horn Song) | ホーンの華やかさが印象的なフロア向け曲。 |
+| 9 | Mousse T. | Horny (Strictly Edits) | ユーモアとグルーヴ感を兼ね備えたクラシック。 |
+| 10 | Celeda | Music Is The Answer | 前向きなメッセージとダンスビートの融合。 |
 
 ---
 
-## 2007-2010: Restart and international expansion
+## 2007〜2010：再始動と国際展開
 
-**Background**: Digital distribution and globalization of dance music.
+**時代背景**：デジタル配信とダンスミュージックのグローバル化。
 
-**Event**: Restarted as an independent organization in 2007. While reprinting past catalogs through digital distribution, we have resumed releases with new artists.
+**出来事**：2007年に独立体制で再始動。デジタル配信で過去カタログを復刻しつつ、新アーティストを迎えてリリース再開。
 
-**Representative release**
-- Quentin Harris, Osunlade, Dennis Ferrer, Bob Sinclar, etc.
+**代表的リリース**
+- Quentin Harris、Osunlade、Dennis Ferrer、Bob Sinclar など
 
-**Equipment trends**
-DAW-centricity, plug-in sound sources, and software/analog modeling became mainstream.
+**機材トレンド**  
+DAW中心化、プラグイン音源、ソフトウェア・アナログモデリングが主流に。
 
 ---
 
-| No | Artist | Track | Comments |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
-| 1 | Quentin Harris | Let"s Be Young | Modern deep house, smooth groove. |
-| 2 | Dennis Ferrer | Hey Hey | House track for energetic floors. |
-| 3 | Osunlade | Envision (Strictly Remix) | Jazzy and deep remix, sophisticated sound. |
-| 4 | Barbara Tucker | I Am | The royal road to vocal house, her powerful singing voice is impressive. |
-| 5 | Bob Sinclar | World Hold On (Strictly Rework) | A melodic and positive floor anthem. |
-| 6 | Groove Armada | Song 4 Mutya (Strictly Club Mix) | A fusion of electro and house, a remix for clubs. |
-| 7 | DJ Gregory | Elle | A track with a deep and calm groove. |
-| 8 | The Shapeshifters | Chime | A piece with a classic house revival feel. |
-| 9 | Barbara Tucker | One | Powerful vocals and club-friendly arrangement. |
-| 10 | Copyright | He Is | Typical of deep house, characterized by a calm atmosphere. |
+| 1 | Quentin Harris | Let’s Be Young | モダンディープハウス、滑らかなグルーヴ。 |
+| 2 | Dennis Ferrer | Hey Hey | エネルギッシュなフロア向けハウストラック。 |
+| 3 | Osunlade | Envision (Strictly Remix) | ジャジーでディープなリミックス、洗練されたサウンド。 |
+| 4 | Barbara Tucker | I Am | ボーカルハウスの王道、力強い歌声が印象的。 |
+| 5 | Bob Sinclar | World Hold On (Strictly Rework) | メロディックでポジティブなフロアアンセム。 |
+| 6 | Groove Armada | Song 4 Mutya (Strictly Club Mix) | エレクトロとハウスの融合、クラブ向けリミックス。 |
+| 7 | DJ Gregory | Elle | ディープで落ち着いたグルーヴ感のトラック。 |
+| 8 | The Shapeshifters | Chime | クラシックハウスのリバイバル感ある作品。 |
+| 9 | Barbara Tucker | One | 力強いボーカルとクラブフレンドリーなアレンジ。 |
+| 10 | Copyright | He Is | ディープハウスの典型、落ち着いた雰囲気が特徴。 |
 
 ---
 
-## 2013~Present: Catalog valorization and rights transfer
+## 2013〜現在：カタログの価値化と権利移転
 
-**Background of the times**: The investment value of music catalogs is expanding. The 90s dance catalog is re-evaluated with sampled material, re-releases and licenses.
+**時代背景**：音楽カタログの投資価値が拡大。90年代ダンスカタログはサンプリング素材、再リリース、ライセンスで再評価。
 
-**What happened**: In 2013, BMG acquired the Strictly Rhythm master catalog. Publishing rights were subsequently transferred.
+**出来事**：2013年、BMGがStrictly Rhythmのマスター・カタログを取得。その後パブリッシング権も移転。
 
-**Current position**
-The brand/catalog is still active and is used as an "asset" for reissues, compilations, licensing, etc.
+**現在の立ち位置**  
+ブランド／カタログは現役で、再発・コンピレーション／ライセンス提供など“資産”として活用。
 
 ---
 
-| No | Artist | Track | Comments |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
-| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | Traditional deep house remastered with smooth sound quality. |
-| 2 | Dennis Ferrer | Maniac 3000 | Features a modern and sophisticated house beat. |
-| 3 | Quentin Harris | My Joy (Re-edit) | Deep house re-edited for clubs. |
-| 4 | Barbara Tucker | Think (About It) 2015 Mix | A reinterpretation of vocal house, full of emotion. |
-| 5 | Honey Dijon | Houze Muzik (Strictly Release) | At the forefront of modern house, with an emphasis on groove. |
-| 6 | Louie Vega | Dance Ritual (2016) | Deep house with a Latin flavor. |
-| 7 | DJ Spen | The Spirit of House | A modern take on the essence of traditional house. |
-| 8 | David Penn | Con Son | A club tune featuring a smooth groove and melody. |
-| 9 | Riva Starr | House Nation 2020 | Energetic house, beats that shine on the floor. |
-| 10 | Barbara Tucker | I Get Lifted (Remix 2021) | A remix of a famous song with a modern arrangement, where the vocals shine. |
+| 1 | Kings Of Tomorrow | Finally (2014 Remaster) | 伝統的ディープハウスのリマスター、滑らかな音質。 |
+| 2 | Dennis Ferrer | Maniac 3000 | モダンで洗練されたハウスビートが特徴。 |
+| 3 | Quentin Harris | My Joy (Re-edit) | クラブ向けに再編集されたディープハウス。 |
+| 4 | Barbara Tucker | Think (About It) 2015 Mix | ボーカルハウスの再解釈、情感豊か。 |
+| 5 | Honey Dijon | Houze Muzik (Strictly Release) | 現代ハウスの最前線、グルーヴ重視。 |
+| 6 | Louie Vega | Dance Ritual (2016) | ラテン風味を取り入れたディープハウス。 |
+| 7 | DJ Spen | The Spirit of House | 伝統ハウスのエッセンスを現代風にアレンジ。 |
+| 8 | David Penn | Con Son | 滑らかなグルーヴとメロディが特徴のクラブチューン。 |
+| 9 | Riva Starr | House Nation 2020 | エネルギッシュなハウス、フロア映えするビート。 |
+| 10 | Barbara Tucker | I Get Lifted (Remix 2021) | 現代的アレンジの名曲リミックス、ボーカルが光る。 |
 
 ---
 
-## Summary of changes in equipment (production tools)
+## 機材（制作ツール）の変遷まとめ
 
-| Timing | Main equipment |
+| 時期 | 主な機材 |
 |---|---|
-| 1989~Early 90s | Roland TR-909 / TR-808, TB-303, turntable + mixer |
-| Mid 90s | E-MU SP-12 / SP-1200, Akai MPC series, outboard/tape |
-| 2000s to present | DAW (Pro Tools, Ableton, Logic), plug-ins/software synths |
+| 1989〜初期90s | Roland TR-909 / TR-808, TB-303, ターンテーブル＋ミキサー |
+| 90s中盤 | E-MU SP-12 / SP-1200, Akai MPCシリーズ, アウトボード／テープ |
+| 2000s〜現在 | DAW (Pro Tools, Ableton, Logic), プラグイン／ソフトウェアシンセ |
 
 ---
 
-## Representative masterpieces by generation (simple list)
+## 年代別・代表的名盤（簡易一覧）
 
-| Year | Year | Artist | Work | Importance |
+| 年代 | 年 | アーティスト | 作品 | 重要性 |
 |---|---|---|---|---|
-| Early | 1990 | Roger Sanchez | *Luv Dancin'* | Early masterpieces directly connected to NY clubs |
-| Golden Age | 1993 | Reel 2 Real | *I Like To Move It* | Global Hit |
-| Golden Age | 1994 | Armand Van Helden | *Witch Doktor* | New York House Icon |
-| Golden Age | 1995 | Josh Wink | *Higher State Of Consciousness* | Acid-leaning anthem |
-| Golden period to late period | 1997 | Ultra Naté | *Free* | Club → chart crossover |
-| Late period | 1999 | Wamdue Project | *King of My Castle* | World hit with remix |
+| 初期 | 1990 | Roger Sanchez | *Luv Dancin'* | NYクラブ直結の初期代表作 |
+| 黄金期 | 1993 | Reel 2 Real | *I Like To Move It* | 世界的ヒット |
+| 黄金期 | 1994 | Armand Van Helden | *Witch Doktor* | ニューヨーク・ハウス象徴曲 |
+| 黄金期 | 1995 | Josh Wink | *Higher State Of Consciousness* | アシッド寄りアンセム |
+| 黄金期〜後期 | 1997 | Ultra Naté | *Free* | クラブ→チャートのクロスオーバー |
+| 後期 | 1999 | Wamdue Project | *King of My Castle* | リミックスで世界ヒット |
 
 ---
 
 ## A treasure trove of classic house
 
-Strictly Rhythm provides A&R with a thorough understanding of ""what works in a club = good" and provides a ""testing ground" for producers. Although it was once closed due to capital issues, it was restarted and the company's catalog was evaluated, and today it has been reevaluated as a ""treasure trove of classic house music.''
+Strictly Rhythm provides A&R with a thorough understanding of ""what works in a club = good'' and provides a ""testing ground'' for producers. Although it was once closed due to capital issues, it was restarted and the company's catalog was evaluated, and today it has been reevaluated as a ""treasure trove of classic house music.''
 
 ---
 

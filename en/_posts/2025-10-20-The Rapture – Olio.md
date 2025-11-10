@@ -18,9 +18,9 @@ The Rapture is a band from New York formed in 1998. Characterized by a style tha
 Limited edition of only 1000 copies (one side)
 
 #### Tracklist
-```md
-A. Olio
-```
+"""md
+A.Olio
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
 

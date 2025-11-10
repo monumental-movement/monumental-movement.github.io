@@ -17,11 +17,11 @@ Side A is a track by British happy hardcore artist DJ Stompy. "Starlight" is one
 Side AA is a track by G-Netic and Vinylgroover & Trixxy (Scott Attril & Jim Sullivan). The vocals sampled Run-DMC's Jam Master Jay.
 
 #### Tracklist
-```md
+"""md
 A. DJ Stompy–Starlight
 
 AA. G-Netic –The New Odyssey
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
 

@@ -17,11 +17,11 @@ The Junkies are a duo of DJ/producers Valentino Colavecchia and Vincenzo Nicolaz
 Nathan Barato is a DJ from Canada.
 
 #### Tracklist
-```md
-A. Wow!
+"""md
+A.Wow!
 
-B. For You One Time
-```
+B.For You One Time
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25171037533?afid=6142608987){: .button1}
 

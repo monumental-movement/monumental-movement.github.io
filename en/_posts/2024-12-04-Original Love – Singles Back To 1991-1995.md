@@ -16,23 +16,22 @@ title: Original Love – Singles Back To 1991-1995
 Original Love's best album released in 1996. All singles released from 1991 to 1995 are included in the order of release.
 
 #### Tracklist
-```md
+"""md
 1. Deep French Kiss
 2. Blue Talk
-3. 月の裏で会いましょう
+3. Let's meet on the dark side of the moon
 4. Sweat And Sugar Night
-5. ヴィーナス
-6. スクランブル
-7. サンシャイン ロマンス
-8. ティアドロップ
-9. 接吻
-10. 微笑みについて
-11. 朝日のあたる道
-12. 心
-13. 夜をぶっとばせ
-14. Body Fresher
-```
-
+5. Venus
+6. Scramble
+7. Sunshine Romance
+8. Teardrop
+9. Kiss
+10. About smiles
+11. Path of the morning sun
+12. Heart
+13. Blow up the night
+14.Body Fresher
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 

@@ -18,9 +18,8 @@ title: '[Column] Buchla Music Easel and the philosophy of "solitary performance"
 
 Text: mmr｜Theme: Music Easel, which even in modern times is praised by many live artists as the "smallest orchestra that can be played alone"
 
-
-The **Buchla Music Easel**, which appeared in 1973, is a portable version of the famous analog modular **Buchla 200 series**.
-Designer **Don Buchla** called the instrument a "portable composition environment."
+The **Buchla Music Easel**, which appeared in 1973, is a portable version of the famous analog modular **Buchla 200 series**.  
+Designer **Don Buchla** called the instrument a "portable composition environment."  
 It was not just a small modular, but was conceived as a ""personal improvised device.''
 
 > "Easel is a sonic canvas. You can't save the lines the player draws at the moment."
@@ -41,22 +40,21 @@ color: #fff;
 }
 </style>
 
-
 ---
 
 ## Chapter 1: Don Buchla and the "Anti-Moog" Philosophy
 
-In the early 1960s, two major trends in the development of electronic musical instruments arose in East and West America.
-Moog in the east and Buchla in the west.
-Buchla aimed to "generate" sound rather than "control" it.
+In the early 1960s, two major trends in the development of electronic musical instruments arose in East and West America.  
+Moog in the east and Buchla in the west.  
+Buchla aimed to "generate" sound rather than "control" it.  
 A touch plate was used instead of a keyboard, and the focus of performance was on **rate of change and contingency** rather than pitch.
 
-His philosophy was carried over into the later Music Easel.
-Easel is an instrument for humans to perform with electronic circuits, and what exists there is the attitude of a ""co-author" rather than a ""performer = controller."
+His philosophy was carried over into the later Music Easel.  
+Easel is an instrument for humans to perform with electronic circuits, and what exists there is the attitude of a ""co-author'' rather than a ""performer = controller.''
 
 ### Technical analysis: Relationship between waveform and tactile sensation
 
-Buchla thought that "waveform manipulation = tactile experience."
+Buchla thought that "waveform manipulation = tactile experience."  
 The figure below is a simplified model of the relationship between FM (frequency modulation) and waveform output in Complex Oscillator.
 
 <div class="mermaid">
@@ -221,17 +219,17 @@ It holds the future of improvisation hidden within the smallest unit of circuitr
 <div class="mermaid">
 
 timeline
-title Buchla Music Easel Chronology
-1963: Don Buchla begins development of the Buchla 100 series (same time as Moog)
-1966 : Collaborative research with experimental musicians at San Francisco Tape Music Center
-1973 : Music Easel (Model 208/218) introduced
-1975 : First live performance by Suzanne Ciani and Buchla
-1980: Charles Cohen starts improvised live performances using Easel
-1990 : Easel re-evaluates in the underground experimental music scene
-2013 : Easel reprint edition (BEMI) released
-2014 : Charles Cohen "Live at the Rotunda" announced
-2018 : Easel Command (208c) released
-2022: Expansion of Buchla live movement by new generation artists
+    title Buchla Music Easel Chronology
+    1963: Don Buchla begins development of the Buchla 100 series (same time as Moog)
+    1966 : Collaborative research with experimental musicians at San Francisco Tape Music Center
+    1973 : Music Easel (Model 208/218) introduced
+    1975 : First live performance by Suzanne Ciani and Buchla
+    1980: Charles Cohen starts improvised live performances using Easel
+    1990 : Easel re-evaluates in the underground experimental music scene
+    2013 : Easel reprint edition (BEMI) released
+    2014 : Charles Cohen "Live at the Rotunda" announced
+    2018 : Easel Command (208c) released
+    2022: Expansion of Buchla live movement by new generation artists
 
 </div>
 

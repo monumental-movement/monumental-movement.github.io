@@ -24,18 +24,15 @@ Furniture's music received critical acclaim for its unique sound and sophisticat
 Furniture's music is still loved by fans of 1980s British pop and alternative music.
 
 #### Tracklist
-```md
+"""md
 A1. I Can't Crack
-
 
 A2. Switch Off
 
-
-A3. Pause
-
+A3.Pause
 
 B1. I Can't Crack (Broken Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 

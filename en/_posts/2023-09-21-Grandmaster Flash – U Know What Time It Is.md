@@ -17,13 +17,13 @@ Grandmaster Flash is one of the pioneers of American hip-hop, known as a DJ and 
 "U Know What Time It Is" is an energetic hip-hop track that showcases Grandmaster Flash's signature style. Combining hip-hop elements such as funky beats, scratching, sampling, and breakbeats, his unique DJ techniques and creative ideas give the songs rhythm and dynamism.
 
 #### Tracklist
-```md
-A1  U Know What Time It Is (Extended Scratch)
+"""md
+A1 U Know What Time It Is (Extended Scratch)
 
-B1  U Know What Time It Is (Instrumental)
+B1 U Know What Time It Is (Instrumental)
 
-B2  Bus Dis (Wooo) (LP Version)
-```
+B2 Bus Dis (Wooo) (LP Version)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39048443857?afid=6142608987){: .button1}
 

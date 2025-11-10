@@ -22,14 +22,13 @@ A1 & AA is a remix by Detroit-based DJ/record producer Theo Parrish.
 
 A2 is a remix by Freaks (Justin Harris & Luke Solomon), an electronic band from London.
 
-
 #### Tracklist
-```md
+"""md
 A1. (You Are) More Than Paradise (Theo Parrish Translation)
 A2. (You Are) More Than Paradise (Freaks Switching Channels 12inch Mix)
 
 AA. (You Are) More Than Paradise (Theo Parrish Translation Long Version 1)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26337945792?afid=6142608987){: .button1}
 

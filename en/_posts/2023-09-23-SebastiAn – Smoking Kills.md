@@ -17,13 +17,13 @@ The songs on this record have a very futuristic sound to them, with Sebastian an
 If you are a house music fan and like minimal music, "Dorami" is a must-listen.
 
 #### Tracklist
-```md
-A  Smoking Kills (?)
+"""md
+A Smoking Kills (?)
 
-B1  Dolami
+B1 Dolami
 
-B2  Shoot
-```
+B2 Shoot
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 

@@ -21,7 +21,7 @@ Wolfgang Voigt, also known as Mike Ink, is an electronic music DJ and producer f
 "Paroles" is a two-disc set released by Warp Records in 1996. C is a remix by Auteka.
 
 #### Tracklist
-```md
+"""md
 A. Paroles (Original)
 
 B. Paroles (Mike Ink Remix96)
@@ -29,7 +29,7 @@ B. Paroles (Mike Ink Remix96)
 C. Paroles (Autechre Repoles)
 
 D. Paroles (T-Power Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88490100026?afid=6142608987){: .button1}
 

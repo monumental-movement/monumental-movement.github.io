@@ -16,13 +16,13 @@ title: Fun Fun – Gimme Some Loving (House Mix)
 This is an EP by Fun Fun released in 1988.
 
 #### Tracklist
-```md
+"""md
 A. Gimme Some Loving (House Mix)
 
 B1. Gimme Some Loving (Dub House Mix)
 
 B2. Gimme Some Loving (Single Version)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57954081770?afid=6142608987){: .button1}
 

@@ -16,18 +16,17 @@ title: Snuff – Flibbiddydibbiddydob
 
 This EP was originally released in the UK on Workers Playtime Records in 1990 and was later re-released on Fat Wreck Chords in August 1996.
 
-
 #### Tracklist
-```md
+"""md
 A1. Rods & Mockers
 
-A2. Do Nothing
+A2.Do Nothing
 
 A3. Shake 'N' Black
 
-A4. Can't Explain
+A4.Can't explain
 
-A5. Ecstasy
+A5.Ecstasy
 
 B1. Reach Out
 
@@ -40,7 +39,7 @@ B4. City Baby Attacked By Rats
 B5. Bran Flakes
 
 B6. In Sickness & In Health
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 

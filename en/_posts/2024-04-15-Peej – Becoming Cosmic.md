@@ -18,7 +18,7 @@ A house/deep house track by Paul Johnston, also known as Peej.
 Released in 2005 on DiY Discs, the successor to UK house music label Strictly 4 Groovers.
 
 #### Tracklist
-```md
+"""md
 A1. Cosmic Love (Interstellar Overdrive Mix)
 
 A2. So Soft So Sweet
@@ -26,7 +26,7 @@ A2. So Soft So Sweet
 B1. Cosmic Love (Sirius Boogie Mix)
 
 B2. Cosmic Love (FS Cosmic Regroove)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
 

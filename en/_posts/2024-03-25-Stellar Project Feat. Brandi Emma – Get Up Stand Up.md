@@ -22,13 +22,13 @@ The first track on the B-side is a remix by Danish producer Lars Frederiksen and
 The second song on side B is a remix by UK DJ Paul Jackson.
 
 #### Tracklist
-```md
+"""md
 A. Get Up Stand Up (Phunk Investigation Vocal Mix)
 
 B1. Get Up Stand Up (F&W Remix)
 
 B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 

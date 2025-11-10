@@ -16,14 +16,14 @@ Rufus & Chaka Khan were one of the most popular and influential American funk ba
 
 It is best known for launching the career of lead singer Chaka Khan.
 
-"Ain"t...2002" is a house remix of Rufus & Chaka Khan"s hit song "Ain't Nobody" by Canadian house producer Julius Papp.
+"Ain't...2002" is a house remix of Rufus & Chaka Khan's hit song "Ain't Nobody" by Canadian house producer Julius Papp.
 
 #### Tracklist
-```md
+"""md
 A. Ain't...2002 (Full Excursion)
 
 B. Ain't...2002 (Drum Excursion)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18858735619?afid=6142608987){: .button1}
 

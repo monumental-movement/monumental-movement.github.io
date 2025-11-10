@@ -8,14 +8,14 @@ layout: post
 tags:
 - Rockabilly
 - Rock
-title: VA – Rock"N"Roll & Rock-A-Billy Inferno
+title: VA – Rock'N'Roll & Rock-A-Billy Inferno
 ---
 
 
-Rock"n"Roll & Rockabilly is a rockabilly compilation album released by Stardust Records in 2001.
+Rock'n'Roll & Rockabilly is a rockabilly compilation album released by Stardust Records in 2001.
 
 #### Tracklist
-```md
+"""md
 1. Alan Freed – Intro - Hosting The Moondog Show, 1958
 2. The Nighthawks Featuring Buddy Holly – When Sin Stops
 3. Tommy La Beef - Tore Up
@@ -23,17 +23,17 @@ Rock"n"Roll & Rockabilly is a rockabilly compilation album released by Stardust 
 5. Billy And Mickey – Rock And Roll Baby
 6. Little Richard – Lucille
 7. No Artist – Nuclear Survival Course Record Album (1954)
-8. Ray Ellsworth -	Rock And Roll Show
+8. Ray Ellsworth - Rock And Roll Show
 9. Gene Vincent – Say Mama
 10. Don Duncan - omething Special
 11. Bill Haley & The Comets - Shake, Rattle & Roll
-12. No Artist–	Satellite, Explorer 1 Launch (1958)
+12. No Artist– Satellite, Explorer 1 Launch (1958)
 13. Warner Mack – Roc-A-Chica
 14. Jimmy Apostle – I Love Ya Honey
 15. No Artist – '57 Chevy Commercial
 16. Freddie Montell – Stop And Rock
 17. Tommy Palm – Black Knee Socks
-18. Johnny Fuller –	No More, No More
+18. Johnny Fuller – No More, No More
 19. Kenny & The Be-Bops - Linda Lou
 20. Bob Neal, Elvis Presley – DJ Bob Neal Talks To Elvis (May 6th, 1955)
 21. Carl Perkins – Dixie Fried
@@ -48,7 +48,7 @@ Rock"n"Roll & Rockabilly is a rockabilly compilation album released by Stardust 
 30. Eddie Cochran – Eddie Cochran Radio Jingle (1957)
 31. Lafayette Yarborough – Cool Cool Baby
 32. Terry Daly And The Nu-Tones – You Don't Bug Me
-33. Alan Freed–	Outro - Farewell To Fans (November 12, 1959)
+33. Alan Freed– Outro - Farewell To Fans (November 12, 1959)
 
 ```
 

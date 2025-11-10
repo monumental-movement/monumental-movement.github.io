@@ -23,13 +23,13 @@ The co-producer of B1 and B2 is Grand Marnier.
 B2 is a remix by French producer datA, also known as David Guillon.
 
 #### Tracklist
-```md
+"""md
 A1. En Direct De La Côte
 A2. En Direct De La Côte (Alavi Rerox)
 
 B1. Minuit Jacuzzi
 B2. Minuit Jacuzzi (DatA Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
 

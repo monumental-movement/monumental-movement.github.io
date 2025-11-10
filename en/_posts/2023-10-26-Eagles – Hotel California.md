@@ -13,14 +13,14 @@ title: Eagles – Hotel California
 ---
 
 
-Title song from the Eagles' album ""Hotel California.'' Lyrics and music by Don Felder and Don Henley.
+The title song of the Eagles' album ""Hotel California.'' Lyrics and music by Don Felder and Don Henley.
 
 #### Tracklist
-```md
-A. Hotel California = ホテル・カリフォルニア
+"""md
+A. Hotel California = Hotel California
 
-B. Pretty Maids All In A Row = お前を夢みて
-```
+B. Pretty Maids All In A Row = Dreaming of you
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73819642439?afid=6142608987){: .button1}
 

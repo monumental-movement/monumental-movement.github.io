@@ -18,11 +18,11 @@ The 5th Dimensio is a US vocal group active from the late 1960s to the early 197
 In 1969, he won the Grammy Award for Best Record of the Year for "Aquarius/Let The Sunshine In."
 
 #### Tracklist
-```md
-A. Aquarius/Let The Sunshine In (The Flesh Failures) 
+"""md
+A. Aquarius/Let The Sunshine In (The Flesh Failures)
 
-B. The Magic Garden 
-```
+B.The Magic Garden
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33529476012?afid=6142608987){: .button1}
 

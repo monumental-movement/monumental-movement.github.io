@@ -16,7 +16,7 @@ title: Various – Sandou.EP 002
 This is an EP released by the Japanese label "Sandou Records" in 1997.
 
 #### Tracklist
-```md
+"""md
 A1. Wambanca–Ca1
 
 A2. Park Avenue –Screw
@@ -26,7 +26,7 @@ A3. Loft Vs SY75–Umeda
 B1. Powder –Lost Moodies
 
 B2. Takashi Uno–Machinary Funk2
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
 

@@ -52,7 +52,7 @@ After World War II, the development of magnetic tape and electroacoustic equipme
 - musique concrète (1948-) by Pierre Schaeffer.
 
 ### Representative works
-- Works by Pierre Henry and Tod Dockstader.
+- Works by Pierre Henri and Tod Dockstader.
 
 ### Equipment/Technology
 - Tape editing (reverse rotation, looping, cutting/splicing).
@@ -96,7 +96,7 @@ Cassette culture and the DIY spirit formed an international noise network.
 - [Whitehouse (UK)](https://amzn.to/4hnbz0z), [Merzbow (Japan)](https://amzn.to/3L64TI1)
 
 ### Representative works
-- Merzbow"s "Pulse Demon" related works, Whitehouse"s early edition.
+- Merzbow's "Pulse Demon" related works, Whitehouse's early edition.
 
 ### Equipment/Technology
 - Destructive amplifiers, radio noise, distortion pedals, and cassette recordings.

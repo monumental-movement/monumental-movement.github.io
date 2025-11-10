@@ -19,11 +19,11 @@ Fumiaki Kobayashi runs the techno label gatearray recordings and is active mainl
 "Cannonball / Metal Funk" is a techno track released in 2003 by Giant Wheel, a label founded by Clemens Neufeld, who is known as a pioneer of Austrian house techno and founded Vienna's first techno club "Space Jungle".
 
 #### Tracklist
-```md
-A. Cannonball
+"""md
+A.Cannonball
 
 B. Metal Funk
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m81336697590?afid=6142608987){: .button1}
 

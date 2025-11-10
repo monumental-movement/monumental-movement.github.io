@@ -19,15 +19,15 @@ Considered one of the pioneers of New Age spiritual music, Schawkie Roth is a co
 "Dance Of The Tao" is a new age album released in 1978.
 
 #### Tracklist
-```md
+"""md
 A1. Heaven On Earth (excerpt)
-A2. Waves Follows Wave
+A2. Waves Follows Waves
 A3. Inside Hollow Bamboo / Conversations by a Stream, Part I (excerpt)
 
 B1. Music for "Five Elements Form"
 B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
 

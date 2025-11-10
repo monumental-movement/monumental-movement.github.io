@@ -15,18 +15,18 @@ title: Masashi Sada – Nagasaki Yoyoku
 
 "Masashi Sada – Nagasaki Sayokyoku" was released in 1982.
 
-A-side arrangement – ​​Toshiyuki Watanabe B-side arrangement – ​​Masashi Sada
+A-side arrangement – Toshiyuki Watanabe B-side arrangement – Masashi Sada
 
 Side A/B Lyrics & Music – Masashi Sada
 
 The B-side is the theme song for Fuji TV's "Kita no Kuni Kara".
 
 #### Tracklist
-```md
-A. 長崎小夜曲 
+"""md
+A. Nagasaki Yoyoku
 
-B. 北の国から ー 遥かなる大地より〜蛍のテーマ
-```
+B. From the North Country - From the Distant Earth - Firefly's Theme
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
 

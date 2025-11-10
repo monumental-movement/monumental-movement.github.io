@@ -19,7 +19,7 @@ DJ Trajic (Carlos Gomez/Kool Kutt) is a Chicago-based DJ known as a pioneer and 
 The first track on side B is a remix by JJ Flores (Jonathan Flores), a US house music DJ/producer from Chicago.
 
 #### Tracklist
-```md
+"""md
 A1. Wasted Time
 
 A2. TeKNeeKs
@@ -27,7 +27,7 @@ A2. TeKNeeKs
 B1. Got Off My Dik # 1 (Traj/JJ Flores)
 
 B2. Got Off My Dik # 2 (Original Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29973784379?afid=6142608987){: .button1}
 

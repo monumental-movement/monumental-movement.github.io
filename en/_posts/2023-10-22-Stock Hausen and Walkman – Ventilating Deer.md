@@ -15,7 +15,7 @@ title: Stock, Hausen & Walkman – Ventilating Deer
 
 Stock, Hausen & Walkman (Stock, Hausen & Walkman) is a UK sampling collage music unit representing the 90s.
 
-The band"s name, Stock, Hausen & Walkman (1991-2001), is a play on electronic music pioneer Karlheinz Stockhausen, "80s mass-produced pop artist Stock Aitken Waterman, and Sony's Walkman.
+The band's name, Stock, Hausen & Walkman (1991-2001), is a play on electronic music pioneer Karlheinz Stockhausen, '80s mass-produced pop artist Stock Aitken Waterman, and Sony's Walkman.
 
 When they first formed in the late 1980s, they were an experimental improvisational duo consisting of Matt Wand (the band's godfather and founder) and guitarist Rex Caswell.
 
@@ -32,27 +32,27 @@ Currently, he continues to operate the label and plans, designs, and produces al
 Although the project ended in 2001, Wand continues to release "interesting" S, H&W archival material on Hot Air.
 
 #### Tracklist
-```md
-A1. Sleep
+"""md
+A1.Sleep
 
-A2. Upset
+A2.Upset
 
-A3. Ordeal
+A3.Ordeal
 
 A4. Broccoli
 
 A5. Spot
 
-B1. Feather
+B1.Feather
 
 B2. Gruel
 
 B3. Würstsaft
 
-B4. Skipper
+B4.Skipper
 
 B5. Flagging
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
 

@@ -23,15 +23,15 @@ The most successful lineup includes guitarist Masayoshi Ando, ​​bassist Mits
 
 ≡ THE SQUARE
 
-Masahiro Ando, ​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
+Masahiro Ando, Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
 
 ≡ Participating musicians
 
 Kiyohiko Senba, Junichi Kanezaki, Yutaka Kanai, Eiji Arai, Harumi Mita, Toshihiro Nakanishi Ensemble
 
 #### Tracklist
-```md
-A1. いとしのうなじ
+"""md
+A1. The nape of the neck
 
 A2. Maybe I'm Wrong
 
@@ -39,14 +39,14 @@ A3. Cry For The Moon
 
 A4. Mistral
 
-B1. Destination
+B1.Destination
 
 B2. Overnight Sensation
 
 B3. Mist Of Time
 
-B4. 遠雷
-```
+B4. Distant thunder
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
 

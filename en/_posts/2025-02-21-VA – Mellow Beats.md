@@ -17,7 +17,7 @@ Released in 2008 by P-Vine Records
 A jazzy & mellow HIPHOP compilation album selected and supervised by Toru Hashimoto.
 
 #### Tracklist
-```md
+"""md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
 3. Lone Catalysts – Renaissance
@@ -33,11 +33,11 @@ A jazzy & mellow HIPHOP compilation album selected and supervised by Toru Hashim
 13. Platinum Pied Pipers – 50 Ways To Leave Your Lover
 14. Jazzanova – L.O.V.E. And You And I
 15. Superscientifiku – Recall Math
-16. Kev Brown – Can't Stay Away
+16. Kev Brown – Can"t Stay Away
 17. Melomaniac – Front To Back
 18. Unison – Sound Networks
 19. Noel Zancanella – Lovely
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 

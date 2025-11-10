@@ -18,13 +18,12 @@ He has also created many remixes for Armand Van Helden, Junior Jack, Michael Jac
 
 "2 Bad E.P.", released in 2002, is a house track known as Tuesdays Child's masterpiece.
 
-
 #### Tracklist
-```md
-A. Turn It Up
+"""md
+A.Turn It Up
 
 B. So Bad
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m97388455599?afid=6142608987){: .button1}
 

@@ -17,18 +17,18 @@ Brent Lewis is a percussionist and drummer who has played with many famous artis
 The second song, Ode to Buckwheat, was included in the original soundtrack of Oliver Stone's film JFK.
 
 #### Tracklist
-```md
+"""md
 1. Doom Tac A Doom
 
 2. Ode To Buckwheat
 
 3. Ikauma Jungle Jam
 
-4. Quicksand
+4.Quicksand
 
 5. Bone To Bone
 
-6. Caribbean Sea
+6.Caribbean Sea
 
 7. Scratch My Hide
 
@@ -37,7 +37,7 @@ The second song, Ode to Buckwheat, was included in the original soundtrack of Ol
 9. Tribal Consciousness
 
 10. Voodoo You're Mine
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
 

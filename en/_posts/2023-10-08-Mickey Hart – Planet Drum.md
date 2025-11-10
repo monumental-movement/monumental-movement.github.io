@@ -19,16 +19,16 @@ The concept was to play drum music with percussionists from around the world and
 It won the Best World Music Album award at the 1991 Grammy Awards.
 
 #### Tracklist
-```md
+"""md
 A1. Udu Chant
 
 A2. Island Groove
 
-A3. Light Over Shadow
+A3.Light Over Shadow
 
 A4. Dance Of The Hunter's Fire
 
-A5. Jewe
+A5.
 
 A6. The Hunt
 
@@ -36,16 +36,16 @@ A7. Temple Caves
 
 B1. The Dancing Sorcerer
 
-B2. Bones
+B2.Bones
 
-B3. Lost River
+B3.Lost River
 
 B4. Evening Samba
 
 B5. Iyanu
 
 B6. Mysterious Island
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30826670023?afid=6142608987){: .button1}
 

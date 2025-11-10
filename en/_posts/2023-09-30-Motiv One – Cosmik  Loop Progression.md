@@ -11,16 +11,16 @@ title: Motiv One – Cosmik Loop Progression
 ---
 
 
-"Cosmik" has a light rhythm with a nice key break and a slightly jazzy, futuristic sound. It"s not too heavy, and there"s no amen break used here, but it"s a solid track overall. It was also included on Bukem"s first Progression Sessions CD.
+"Cosmik" has a light rhythm with a nice key break and a slightly jazzy, futuristic sound. It's not too heavy, and there's no amen break used here, but it's a solid track overall. It was also included on Bukem's first Progression Sessions CD.
 
 "Loop Progression" is another great track, starting with a tough, driving beat before gradually emerging as softer keys combine with the chords. A break follows, followed by a huge, truly huge Amen kick and a cosmic style sound, with the bass kicking in for good measure as well. The great part goes through some bridges and chords, followed by an outro beat followed by a heavy amen beat.
 
 #### Tracklist
-```md
-A. Cosmik
+"""md
+A.Cosmik
 
 AA. Loop Progression
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 

@@ -17,7 +17,7 @@ Air Supply's album "Now and Forever", released in 1981, was their most successfu
 In particular, singles such as "Even the Nights Are Better (Goodbye Lonely Love)" and "Two Less Lonely People in the World" became hits worldwide, including in the United States and Japan.
 
 #### Tracklist
-```md
+"""md
 A1. Now And Forever
 
 A2. Even The Nights Are Better
@@ -37,7 +37,7 @@ B3. Don't Be Afraid
 B4. She Never Heard Me Call
 
 B5. What Kind Of Girl
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
 

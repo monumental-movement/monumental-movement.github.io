@@ -15,13 +15,13 @@ title: Fresh Lab – Afrodisiacs EP
 Afrodisiacs EP is an EP by the unit "Fresh Lab" by Jeff Flambeau & Stéphane Dupoup, released in 1995 on the French label "Yellow Productions".
 
 #### Tracklist
-```md
+"""md
 A. L'Angoisse
 
 B1. Ombre
 
-B2. Sentiments
-```
+B2.Sentiments
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38141489136){: .button1}
 

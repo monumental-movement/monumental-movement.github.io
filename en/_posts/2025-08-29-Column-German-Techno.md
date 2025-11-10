@@ -17,7 +17,6 @@ title: '[Column] Genealogy and present of German Techno - Aesthetics of sound sp
 
 ## An inorganic heartbeat that shakes the world from Berlin.
 
-
 Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and silence.
 
 <hr>
@@ -200,4 +199,5 @@ Listening to his works while tracing their history is nothing but understanding 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 
 🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
+
 

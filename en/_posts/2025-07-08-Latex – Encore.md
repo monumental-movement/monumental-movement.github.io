@@ -20,13 +20,13 @@ Michael Borrmann, also known as Latex, is a producer from Germany. He also works
 Mastering was done by engineer Christoph Grote-Beverborg of Dubplates & Mastering, aka CGB.
 
 #### Tracklist
-```md
+"""md
 A1. Electro Dancing
 A2. La Musique
 
-B1. Encore
+B1.Encore
 B2. Rain In The Night
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37449680311?afid=6142608987){: .button1}
 

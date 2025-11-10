@@ -9,14 +9,13 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
+title: '[Column] Shpongle: The cycle of sound and the journey of consciousness'
 ---
 
 
 ## Raja Ram × Simon Posford: Encounter and chemical reaction
 
 Text: mmr｜Theme: Philosophy of the acoustic universe drawn by Raja Ram and Simon Posford
-
 
 Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
 
@@ -33,7 +32,6 @@ background-color: #111;
 color: #fff;
 }
 </style>
-
 
 ## Prologue: Sound is the door to enlightenment
 
@@ -63,11 +61,11 @@ Shpongle was born with the theme of "journey into the inner universe" at its cor
 <div class="mermaid">
 
 flowchart TD
-A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered on Simon Posford"]
-B --> C["1998: Shpongle formed"]
-C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
-D --> E["2000s: UK psych culture revival"]
-E --> F["2010s~: Fusion with world festival culture"]
+  A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered on Simon Posford"]
+  B --> C["1998: Shpongle formed"]
+  C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
+  D --> E["2000s: UK psych culture revival"]
+  E --> F["2010s~: Fusion with world festival culture"]
 
 </div>
 
@@ -88,14 +86,12 @@ Shpongle was its philosophical symbol.
 | 2013 | *Museum of Consciousness* | Museum of Consciousness | [Amazon](https://amzn.to/3VPumaU) |
 | 2017 | *Codex VI* | Book of Consciousness = Completion of Reincarnation | [Amazon](https://amzn.to/46DNy1D) |
 
-
 ---
 
 Each album is part of the cycle of life - illusion - enlightenment - rebirth.
 Musical evolution directly corresponds to spiritual evolution.
 
 ---
-
 
 ### Chapter 3: Structural analysis of each song - Reincarnation of sound
 
@@ -112,10 +108,10 @@ Musical evolution directly corresponds to spiritual evolution.
 <div class="mermaid">
 
 flowchart TD
-A["Generation<br>(Brahman)"] --> B["Extension<br>(Lila)"]
-B --> C["Illusion<br>(Maya)"]
-C --> D["Liberation<br>(Moksha)"]
-D --> A["Play<br>(Saṃsāra)"]
+  A["Generation<br>(Brahman)"] --> B["Extension<br>(Lila)"]
+  B --> C["Illusion<br>(Maya)"]
+  C --> D["Liberation<br>(Moksha)"]
+  D --> A["Play<br>(Saṃsāra)"]
 
 </div>
 
@@ -131,11 +127,11 @@ Listening itself is a philosophical act.
 <div class="mermaid">
 
 flowchart TD
-L2001["2001: First live "Twisted Launch Party""] --> L2005["2005: Fuji Rock Festival (first performance in Japan)"]
-L2005 --> L2009["2009: Red Rocks Amphitheater, USA"]
-L2009 --> L2014["2014: Shpongletron 3.0 Tour"]
-L2014 --> L2017["2017: Boom Festival (Portugal)"]
-L2017 --> L2020["2020: Shpongle Live at Ozora (video archive)"]
+  L2001["2001: First live "Twisted Launch Party""] --> L2005["2005: Fuji Rock Festival (first performance in Japan)"]
+  L2005 --> L2009["2009: Red Rocks Amphitheater, USA"]
+  L2009 --> L2014["2014: Shpongletron 3.0 Tour"]
+  L2014 --> L2017["2017: Boom Festival (Portugal)"]
+  L2017 --> L2020["2020: Shpongle Live at Ozora (video archive)"]
 
 </div>
 
@@ -145,7 +141,7 @@ L2017 --> L2020["2020: Shpongle Live at Ozora (video archive)"]
 
 During the live performance, a huge video device called Shpongletron is used.
 Android Jones' visuals are synchronized with the sound.
-Raja Ram will be on stage as a ""ceremonial guru" and Posford will be a ""sound alchemist."
+Raja Ram will be on stage as a ""ceremonial guru'' and Posford will be a ""sound alchemist.''
 The live performance itself becomes an extension of the meditative experience.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -157,7 +153,7 @@ The live performance itself becomes an extension of the meditative experience.
 #### From hippie culture to sonic yoga
 
 In the late 1960s, Raja Ram led Quintessence, introducing Hindu philosophy to rock music.
-He musically put into practice the ideas that ""sound = enlightenment" and ""sound = god (Nāda Brahma)."
+He musically put into practice the ideas that ""sound = enlightenment'' and ""sound = god (Nāda Brahma).''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -166,14 +162,14 @@ He musically put into practice the ideas that ""sound = enlightenment" and ""sou
 <div class="mermaid">
 
 flowchart TD
-A1965["1965: Stay in India and study classical music"] --> A1969["1969: Formation of Quintessence (Oriental Thought Rock)"]
-A1969 --> A1980["1980: Meditation period/exploration of consciousness"]
-A1980 --> A1994["1994: TIP Records established"]
-A1994 --> A1996["1996: Shpongle formed"]
-A1996 --> A2020["2020s: Continuing to perform at world festivals"]
+  A1965["1965: Stay in India and study classical music"] --> A1969["1969: Formation of Quintessence (Oriental Thought Rock)"]
+  A1969 --> A1980["1980: Meditation period/exploration of consciousness"]
+  A1980 --> A1994["1994: TIP Records established"]
+  A1994 --> A1996["1996: Shpongle formed"]
+  A1996 --> A2020["2020s: Continuing to perform at world festivals"]
 
 classDef node fill:#fdf6e3,stroke:#555,stroke-width:1px,color:#111,font-size:14px;
-class A1965,A1969,A1980,A1994,A1996,A2020 node;
+  class A1965,A1969,A1980,A1994,A1996,A2020 node;
 
 </div>
 
@@ -186,7 +182,6 @@ class A1965,A1969,A1980,A1994,A1996,A2020 node;
 | **Atman (I)** | Inner consciousness of the listener |
 | **Lila (play)** | Humor and transformation in the song |
 | **Nāda (sound)** | Vibration of the universe = sound itself |
-
 
 For Raja Ram, sound is prayer and Shpongle is his mantra.
 
@@ -208,7 +203,7 @@ His works have a consistent three-layered structure: low range = body, overtones
 
 - Sampling of natural and ethnic sounds
 
-- Microtonal processing (Detuning) on ​​synths
+- Microtonal processing (Detuning) on synths
 
 - Phase inversion and reverse reverb
 
@@ -314,7 +309,7 @@ This structure causes a psychological phenomenon called an "acoustic trip."
 | Reverb reverberation | Expansion of spatial localization | Dissolution of ego |
 | Polyrhythm | Cognitive delay | Dreamy floating feeling |
 
-Scientifically, Shpongle is a project to ""rebuild the brain with sound.''
+Scientifically, Shpongle is a project to ""restructure the brain with sound.''
 
 ---
 
@@ -348,4 +343,5 @@ It is the evolution of the act of "listening" itself,
 It is the mandala of consciousness left to humanity by Raja Ram and Simon Posford.
 
 > "Sound is born, disappears, and returns again. That's what Shpongle is."
+
 

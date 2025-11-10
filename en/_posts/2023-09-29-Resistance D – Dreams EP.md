@@ -17,15 +17,15 @@ title: Resistance D – Dreams EP
 A style that combines hard trance and melodiousness.
 
 #### Tracklist
-```md
+"""md
 A1. Cosmic Love
 
 A2. Emphasis
 
-B1. Eclipse
+B1.Eclipse
 
 B2. Index
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
 

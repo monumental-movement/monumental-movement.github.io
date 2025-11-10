@@ -21,14 +21,14 @@ title: Audio Active – Return Of The Red I
 "Jah Army" - A song that combines dub and electronic music, with a heavy bass and rhythmic beat. It also features lyrics with a strong message.
 
 #### Tracklist
-```md
+"""md
 1.Return Of The Red I
 
 2.Too Much Formula
 
 3.Psycho Buds
 
-4.Stoned Troopers
+4.Stone Troopers
 
 5.Idle Dragon
 
@@ -36,7 +36,7 @@ title: Audio Active – Return Of The Red I
 
 7.Gaar
 
-8.Visitors ?!
+8.Visitors?!
 
 9.Emergency HosPOTal
 
@@ -46,8 +46,8 @@ title: Audio Active – Return Of The Red I
 
 11.2. (silence)
 
-11.3. Untitled
-```
+11.3.Untitled
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
 

@@ -14,21 +14,20 @@ title: '[Column] Dancehall and sound systems—Bass moves the world'
 ---
 
 
-## Prologue: Revolution starting with bass
+## 序章：低音から始まる革命
 
+文：mmr｜テーマ：ダンスホールとは、単なる音楽ジャンルではなく、 「誰もが自分の音を持つことができる」という希望の哲学について
 
-Text: mmr | Theme: Dancehall is more than just a music genre, it's about the philosophy of hope that "everyone can have their own sound."
+真夜中のキングストン。  
+トラックの荷台に積まれたスピーカーから、地鳴りのようなベースが放たれる。  
+それは貧困の街角に響く「もう一つのラジオ」だった。  
+新聞もテレビも届かない人々が、音によって情報を共有し、メッセージを交わす。  
+**サウンドシステムとは、音楽と政治と共同体が一体化した表現装置**であり、  
+やがてその波は海を越え、ロンドンやニューヨーク、東京までも震わせることになる。
 
-Kingston at midnight.
-A rumbling bass is emitted from a speaker mounted on the bed of a truck.
-It was ""another radio'' that echoed on the streets of poverty.
-People without newspapers or television can share information and exchange messages through sound.
-**A sound system is an expression device that integrates music, politics, and community**.
-Eventually, the waves would cross the ocean and shake London, New York, and even Tokyo.
-
-This column introduces the sound system culture that was born on the streets of Jamaica.
-How did dancehall evolve into a worldwide musical phenomenon?
-We will follow it from the perspectives of history, ideology, technology, and society.
+このコラムでは、ジャマイカのストリートで生まれたサウンドシステム文化が、  
+どのようにして**ダンスホール**という世界的音楽現象へ進化したのかを、  
+歴史・思想・技術・社会の観点からたどっていく。
 
 ---
 
@@ -45,118 +44,117 @@ color: #fff;
 }
 </style>
 
+## 第1章　サウンドシステムの誕生（1940〜1960年代）
 
-## Chapter 1 Birth of the sound system (1940s-1960s)
+### ▪ ストリートのパーティが「文化」になる瞬間
 
-### ▪ The moment street parties become "culture"
+戦後のジャマイカでは、レコード店主や音楽好きの若者たちがトラックを積み、スピーカーを並べ、夜通し音楽を流すようになった。これが「サウンドシステム」の起源である。
 
-In post-war Jamaica, record store owners and young music lovers loaded up trucks, set up speakers, and started playing music all night. This is the origin of the "sound system".
+代表的な初期システムは：
 
-A typical initial system is:
+| オペレーター | 名称 | 活動時期 | 特徴 |
+|---------------|------|-----------|------|
+| トム・ザ・グレート・セバスチャン | Tom the Great Sebastian | 1950s | ジャズやR&B中心。最初期の「移動式」システム |
+| デューク・リード | Duke Reid the Trojan | 1950s〜60s | 銃を持つ警察上がりの名オペレーター。後にTreasure Isle設立 |
+| クレメント・“コックスソン”・ドッド | Sir Coxsone Downbeat | 1950s〜 | Studio Oneの前身。スカ時代を牽引 |
 
-| Operator | Name | Activity period | Characteristics |
-|------|------|------------|------|
-| Tom the Great Sebastian | 1950s | Mainly jazz and R&B. The earliest "mobile" systems |
-| Duke Reid | Duke Reid the Trojan | 1950s-60s | A famous gun-wielding operator who graduated from the police force. Later founded Treasure Isle |
-| Clement "Coxsone" Dodd | Sir Coxsone Downbeat | 1950s~ | Former Studio One. Leading the ska era |
+### ▪ ローカル経済と共同体
 
-### ▪ Local economy and community
-
-For the poor, dance is not just entertainment, but a place of expression and survival.
-This space, where music, alcohol, and food circulated, later became the prototype of the reggae industry.
-
----
-
-## Chapter 2 Roots Rock and Dub Era (1970s)
-
-### ▪ Sound engineers become "composers"
-
-King Tubby, Lee Perry, Errol Thompson and others used the mixing table like a musical instrument and invented a new sonic expression called ""dub.''
-**Erasing the vocals and reconstructing the rhythm with echoes**—This idea became the starting point for later remix culture.
-
-> "Dub is the space where the spirit speaks." — Lee Perry
-
-### ▪ Speaker bass philosophy
-
-The "bass" of the sound system had a religious sound.
-Connected with the Rastafarian spirit, they express their view of the universe as ""low tone = earth" and ""treble tone = heaven".
-This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soundclash culture**.
+貧しい人々にとって、ダンスは単なる娯楽ではなく「表現と生存の場」。  
+音楽・酒・食事が循環するこの空間が、のちの**レゲエ産業の原型**となった。
 
 ---
 
-## Chapter 3 Digital revolution and the emergence of dancehall (1980s-90s)
+## 第2章　ルーツ・ロックとダブの時代（1970年代）
 
-### ▪ Slackness and slang explosion
+### ▪ サウンドエンジニアが「作曲家」になる
 
-In 1985, **Wayne Smith's ""Under Mi Sleng Teng''** changed everything.
-This song, which uses Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
+キング・タビー、リー・ペリー、エロル・トンプソンらがミキシング卓を楽器のように操り、「ダブ（Dub）」という新たな音響表現を発明した。  
+**ボーカルを消し、リズムを反響で再構築する**——この発想が、後のリミックス文化の出発点となる。
 
-| Year | Representative song | Artist | Notes |
+> “Dub is the space where the spirit speaks.” — Lee Perry
+
+### ▪ スピーカーの低音哲学
+
+サウンドシステムの「ベース」は宗教的な響きを持っていた。  
+ラスタファリアンの精神と結びつき、「低音＝地球」「高音＝天」として宇宙観を表現する。  
+この思想は後に**UKダブ**（Jah Shaka、Aba Shanti-I）や**サウンドクラッシュ文化**に継承されていく。
+
+---
+
+## 第3章　デジタル革命とダンスホールの登場（1980〜90年代）
+
+### ▪ スラックネスとスラングの爆発
+
+1985年、**Wayne Smith『Under Mi Sleng Teng』**が全てを変えた。  
+Casio MT-40のリズムプリセットを使ったこの曲は、**史上初の完全デジタル・レゲエ**とされ、以後「デジタル・ダンスホール」が主流となる。
+
+| 年 | 代表曲 | アーティスト | 備考 |
 |----|--------|---------------|------|
-| 1985 | Under Mi Sleng Teng | Wayne Smith | World's first digital riddim |
-| 1986 | Punanny | Admiral Bailey | Symbol of "Slackness" |
-| 1990 | Dem Bow | Shabba Ranks | Later to become the basic rhythm of reggaeton |
+| 1985 | Under Mi Sleng Teng | Wayne Smith | 世界初のデジタルリディム |
+| 1986 | Punanny | Admiral Bailey | “Slackness”の象徴 |
+| 1990 | Dem Bow | Shabba Ranks | 後にレゲトンの基礎リズムとなる |
 
-### ▪ MC (Deejay) takes center stage
+### ▪ MC（Deejay）の主役化
 
-Toasting culture approached DJ rap and influenced the birth of hip-hop.
-It is a well-known story that Jamaican Kool Herc brought a sound system to New York's Bronx and started the breakbeat culture.
-
----
-
-## Chapter 4 Sound Clash and the Deepening of Deejay Culture
-
-### ▪ Clash = Battle of Sound
-
-Sound Clash is an event where multiple sound systems compete against each other.
-The difference between winning and losing is how many **Original Dub Plate** (special recordings) you have and how much you can excite the audience.
-
-Representative sounds:
-- **Stone Love Movement** (Kingston)
-- **Bass Odyssey** (St. Ann)
-- **Killamanjaro** (90s golden era)
-- **Mighty Crown** (Japan)
-
-### ▪ Japan"s feat: Mighty Crown"s world domination
-
-**Mighty Crown** from Yokohama defeated a Jamaican team to win the 2002 World Clash.
-It was the moment when the ""foreigner sound'' reached its peak for the first time.
-Since then, local sounds have been born all over Japan, and a cultural area called ""Reggae Village'' has been formed.
+トースティング（語り）文化がDJラップに接近し、ヒップホップの誕生にも影響。  
+ジャマイカ出身の**クール・ハーク**がNYブロンクスでサウンドシステムを持ち込み、ブレイクビーツ文化を開いたのは有名な話だ。
 
 ---
 
-## Chapter 5 Globalizing Dancehall (2000s-2020s)
+## 第4章　サウンドクラッシュとディージェイ文化の深化
 
-### ▪ Impact on global pop
+### ▪ Clash＝音の戦い
 
-Sean Paul, Vybz Kartel, Popcaan and others took the mainstream by storm.
-In the 2010s, **Drake"s ""One Dance"** and **Major Lazer"s ""Lean On"** made dancehall pop.
-The rhythm pattern "Dem Bow" has been extended to reggaeton, Afrobeats, and K-Pop.
+サウンドクラッシュとは、複数のサウンドシステムが競い合うイベント。  
+どれだけ**オリジナルDub Plate**（特別録音）を持っているか、どれだけ観客を沸かせるかが勝敗を分ける。
 
-### ▪ Bass as Diaspora
+代表的なサウンド：
+- **Stone Love Movement**（Kingston）  
+- **Bass Odyssey**（St. Ann）  
+- **Killamanjaro**（90s黄金期）  
+- **Mighty Crown**（日本）  
 
-Dancehall is also a symbol of immigrant culture.
-London, Toronto, Tokyo—Black communities in cities around the world have been expressing their roots in low notes.
+### ▪ 日本の快挙：Mighty Crownの世界制覇
+
+横浜出身の**Mighty Crown**は、2002年の「World Clash」でジャマイカ勢を破り優勝。  
+「外国人サウンド」が初めて頂点を取った瞬間だった。  
+以来、日本各地にローカルサウンドが誕生し、**「レゲエ村」**の文化圏が形成されていった。
 
 ---
 
-## Chapter 6 Sound system culture in Japan and Asia
+## 第5章　世界化するダンスホール（2000〜2020年代）
 
-### ▪ Reggae goes local
+### ▪ グローバルポップへの影響
 
-Since the 1990s, sound culture has taken root in Japan, mainly in Yokohama, Osaka, and Nagoya.
-Homemade sound systems equipped with giant woofers are appearing one after another at club events and outdoor festivals.
+Sean Paul、Vybz Kartel、Popcaanらがメインストリームを席巻。  
+2010年代には**Drake「One Dance」**や**Major Lazer「Lean On」**がダンスホールをポップ化。  
+リズムパターン“Dem Bow”はレゲトン、アフロビーツ、K-POPにまで拡張された。
 
-Main Japanese players:
-- **Mighty Crown** (Yokohama)
-- **Sound Platinum**, **Infinity 16**, **King Ryukyu**, **Scorpion**
-- Outdoor festivals "**Yokohama Reggae Sai**", "**Japan Splash**", etc.
+### ▪ ディアスポラとしての低音
 
-### ▪ DIY spirit and modern inheritance
+ダンスホールは移民文化の象徴でもある。  
+ロンドン、トロント、東京——世界各都市の黒人コミュニティが、自らのルーツを低音で表現してきた。
 
-In recent years, it has intersected with dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** are currently active.
-At the root of this is the sound system philosophy of ""producing our own sounds with our own hands.''
+---
+
+## 第6章　日本・アジアのサウンドシステム文化
+
+### ▪ ローカル化するレゲエ
+
+1990年代以降、日本では横浜・大阪・名古屋を中心にサウンド文化が根付く。  
+クラブイベントや野外フェスで、巨大ウーハーを積んだ**自作サウンドシステム**が次々登場。
+
+主な日本勢：
+- **Mighty Crown**（横浜）  
+- **Sound Platinum**, **Infinity 16**, **King Ryukyu**, **Scorpion**  
+- 野外フェス「**Yokohama Reggae Sai**」「**Japan Splash**」など  
+
+### ▪ DIY精神と現代的継承
+
+近年では、ダブステップ／テクノと交わる形で、  
+**東京Dub Attack**, **Zettai-Mu（大阪）**, **Mura Masa System（沖縄）**などが活動中。  
+その根底には「自分たちの音を、自分たちの手で鳴らす」というサウンドシステム哲学が息づいている。
 
 ---
 
@@ -192,21 +190,19 @@ D --> G[Japanese Sound System culture<br>(1990s~)]
 
 ---
 
-## Conclusion: Where is the bass heading?
+## Conclusion: Where is the bass going?
 
-A sound system is more than just audio equipment.
-It is an infrastructure of self-expression and a symbol of resistance and solidarity.
-On street corners with no electricity or studios, people amplify their voices, dance and celebrate.
+A sound system is more than just audio equipment.  
+It is an infrastructure of self-expression and a symbol of resistance and solidarity.  
+On street corners with no electricity or studios, people amplify their voices, dance and celebrate.  
 That energy is what gave birth to hip-hop, gave birth to reggaeton,
 And it has been passed down to today's EDM and Afrobeats.
 
 If you trace the origin of the bass that roars at festival venues around the world,
-You will definitely end up at night in Kingston.
+You will definitely end up at night in Kingston.  
 Music is a ""body memory'' that is shared across borders.
 
 > **"Sound system is not just sound — it"s survival."**
-
-
 
 ---
 
@@ -215,112 +211,106 @@ Music is a ""body memory'' that is shared across borders.
 <div class="mermaid">
 
 graph TD
-A["Japanese Sound System culture<br/>(1990s~)"] --> B["Kanto area"]
-A --> C["Kansai area"]
-A --> D["Chubu/Tokai area"]
-A --> E["Kyushu/Okinawa area"]
-A --> F["Hokkaido/Tohoku area"]
+    A["Japanese Sound System culture<br/>(1990s~)"] --> B["Kanto area"]
+    A --> C["Kansai area"]
+    A --> D["Chubu/Tokai area"]
+    A --> E["Kyushu/Okinawa area"]
+    A --> F["Hokkaido/Tohoku area"]
 
 %% Kanto
-B --> B1["Mighty Crown<br/>(Yokohama, 1991~)"]
-B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
-B --> B3["Rub-A-Dub Market / Bass Camp"]
-B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
+    B --> B1["Mighty Crown<br/>(Yokohama, 1991~)"]
+    B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
+    B --> B3["Rub-A-Dub Market / Bass Camp"]
+    B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
 
 %% Kansai
-C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
-C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
-C --> C3["Rudeboy Face / Ninja Man Japan"]
+    C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
+    C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
+    C --> C3["Rudeboy Face / Ninja Man Japan"]
 
 %% Chubu/Tokai
-D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
-D --> D2["Scorpion Int'l / Nagoya King Bass"]
+    D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
+    D --> D2["Scorpion Int'l / Nagoya King Bass"]
 
 %% Kyushu/Okinawa
-E --> E1["Mura Masa System<br/>(Okinawa, 2000s~)"]
-E --> E2["King Ryukyu / Tropixx"]
+    E --> E1["Mura Masa System<br/>(Okinawa, 2000s~)"]
+    E --> E2["King Ryukyu / Tropixx"]
 
 %% Hokkaido/Tohoku
-F --> F1["North Island Sound<br/>(Sapporo)"]
-F --> F2["Sendai Sound Bash / Local Link"]
+    F --> F1["North Island Sound<br/>(Sapporo)"]
+    F --> F2["Sendai Sound Bash / Local Link"]
 
 style A fill:#ffccff,stroke:#333,stroke-width:2px
-style B fill:#ffe6b3
-style C fill:#ffd9b3
-style D fill:#c2f0c2
-style E fill:#b3e0ff
-style F fill:#e0ccff
-
+    style B fill:#ffe6b3
+    style C fill:#ffd9b3
+    style D fill:#c2f0c2
+    style E fill:#b3e0ff
+    style F fill:#e0ccff
 
 </div>
 
-This diagram shows the network of independent sound system cultures formed by region.
-The following characteristics are clear: ""Yokohama = internationally competitive oriented", ""Osaka = direct connection to the streets", and ""Okinawa = the connection point between the Caribbean and Asia''.
+This diagram shows the network of independent sound system cultures formed by region.  
+The following characteristics are clear: ""Yokohama = internationally competitive oriented'', ""Osaka = direct connection to the streets'', and ""Okinawa = the connection point between the Caribbean and Asia''.
 
 ---
-
 
 ## Audio technology evolution diagram (speaker/mixer/equipment system)
 
 <div class="mermaid">
 
 graph LR
-A["1950s<br/>Handmade speaker box<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
-B --> C["1970s<br/>4-Way Stack System"]
-C --> D["1980s<br/>Digital Mixer + Preamp"]
-D --> E["1990s<br/>Processor + Active Amp"]
-E --> F["2000s<br/>PC-based Crossover / Soundcard Setup"]
-F --> G["2020s<br/>DIY DSP + Class-D Power"]
+    A["1950s<br/>Handmade speaker box<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
+    B --> C["1970s<br/>4-Way Stack System"]
+    C --> D["1980s<br/>Digital Mixer + Preamp"]
+    D --> E["1990s<br/>Processor + Active Amp"]
+    E --> F["2000s<br/>PC-based Crossover / Soundcard Setup"]
+    F --> G["2020s<br/>DIY DSP + Class-D Power"]
 
 A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
-B --> AB["King Tubby<br/>Homemade Amp Technology"]
-C --> AC["Channel One Sound System<br/>4-Way Revolution"]
-D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
-F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]
+    B --> AB["King Tubby<br/>Homemade Amp Technology"]
+    C --> AC["Channel One Sound System<br/>4-Way Revolution"]
+    D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
+    F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]
 
 style A fill:#ffcc00,stroke:#333,stroke-width:2px
-style G fill:#a3f0a3,stroke:#333,stroke-width:2px
+    style G fill:#a3f0a3,stroke:#333,stroke-width:2px
 
 </div>
 
-This diagram shows the "DIY evolution history of audio equipment."
+This diagram shows the "DIY evolution history of audio equipment."  
 From analog vacuum tubes to DSP control, the spirit of ""creating your own sound'' is consistent.
 
 ---
-
-
-
 
 ## Cultural expansion map (intersection with hip-hop, techno, and afrobeats)
 
 <div class="mermaid">
 
 graph TD
-A["Sound System Culture<br/>(Jamaica 1940s~)"] --> B["Dub / Reggae<br/>(1970s)"]
-B --> C["Dancehall<br/>(1980s)"]
-B --> D["Hip-Hop<br/>(NY 1970s~)"]
-C --> E["Reggaeton<br/>(Puerto Rico 1990s〜)"]
-C --> F["Afrobeats<br/>(Nigeria 2000s~)"]
-B --> G["Dub Techno / Ambient<br/>(Berlin 1990s~)"]
-F --> H["K-POP Dancehall Hybrid<br/>(2020s)"]
-C --> I["Japanese Reggae Scene<br/>(1990s~)"]
-G --> J["Electronic Festivals / Sound Art<br/>(Europe / Japan 2000s〜)"]
+    A["Sound System Culture<br/>(Jamaica 1940s~)"] --> B["Dub / Reggae<br/>(1970s)"]
+    B --> C["Dancehall<br/>(1980s)"]
+    B --> D["Hip-Hop<br/>(NY 1970s~)"]
+    C --> E["Reggaeton<br/>(Puerto Rico 1990s〜)"]
+    C --> F["Afrobeats<br/>(Nigeria 2000s~)"]
+    B --> G["Dub Techno / Ambient<br/>(Berlin 1990s~)"]
+    F --> H["K-POP Dancehall Hybrid<br/>(2020s)"]
+    C --> I["Japanese Reggae Scene<br/>(1990s~)"]
+    G --> J["Electronic Festivals / Sound Art<br/>(Europe / Japan 2000s〜)"]
 
 D --> C
-E --> F
-I --> J
-G --> I
+    E --> F
+    I --> J
+    G --> I
 
 style A fill:#ffd966,stroke:#333,stroke-width:2px
-style C fill:#ffccff,stroke:#333,stroke-width:2px
-style I fill:#f6baff,stroke:#333,stroke-width:2px
-style G fill:#ccf2ff,stroke:#333,stroke-width:1.5px
-style F fill:#d9f2c2,stroke:#333,stroke-width:1.5px
-
+    style C fill:#ffccff,stroke:#333,stroke-width:2px
+    style I fill:#f6baff,stroke:#333,stroke-width:2px
+    style G fill:#ccf2ff,stroke:#333,stroke-width:1.5px
+    style F fill:#d9f2c2,stroke:#333,stroke-width:1.5px
 
 </div>
 
-This diagram depicts the evolution of sound system culture as it intersects with music genres around the world.
+This diagram depicts the evolution of sound system culture as it intersects with music genres around the world.  
 Hip-hop (NY), techno (Berlin), Afrobeats (Lagos), and Japanese club culture.
 All of us share a "bass culture = bass community."
 

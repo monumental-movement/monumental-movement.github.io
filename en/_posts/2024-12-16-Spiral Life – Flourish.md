@@ -21,19 +21,19 @@ Spiral Life is a unit composed of Koji Kurumatani and Shokichi Ishida who were a
 The song "GARDEN" was used as the opening theme for "Asakusabashi Young Clothing Store."
 
 #### Tracklist
-```md
-1. Garden
+"""md
+1.Garden
 2. Flower Child (0113)
 3. Maybe True (Ron Saint Germain Remix)
 4. I Saw The Light (Kaleidoscope World)
 5. Step To Far
 6. Trust Me
 7. Dance To God
-8. Cheeky
+8.Cheeky
 9. Let Me Be
 10. Heresee's Chocolate (Brassed Remix)
 11. Nero
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
 

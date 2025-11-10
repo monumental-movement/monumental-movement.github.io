@@ -21,18 +21,18 @@ Steve Reid is an American jazz percussionist and producer. He was a co-founder o
 The members participating in this album are Jeff Kashiwa, a saxophonist from the US who is active in the jazz fusion world, and bassist Kim Stone, who was active in The Rippingtons.
 
 #### Tracklist
-```md
+"""md
 1. Amazon Mist
-2. Catch The Wind
+2.Catch The Wind
 3. Serengeti Sunset
 4. Bamboo Forest
 5. Lost Caverns
 6. Earth Prayer
 7. Dancing In The Surf
 8. Children Of The Forest
-9. The Watering Place
+9.The Watering Place
 10. Balloon Safari
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 

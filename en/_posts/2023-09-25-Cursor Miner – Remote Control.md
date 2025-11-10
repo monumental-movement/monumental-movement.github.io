@@ -19,15 +19,15 @@ Cursor Miner is a mix of pure dancefloor anthems, twisted breakbeats, insane exp
 He's been described as Beck and David Bowie fused with Kraftwerk and Oetaker, what would happen in the middle of an illegal early 90s rave.
 
 #### Tracklist
-```md
-A1. Remote Control
+"""md
+A1.Remote Control
 
-A2. One Step Removed
+A2.One Step Removed
 
 B1. Snapped Capacitor
 
 B2. Thaw
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98630555148?afid=6142608987){: .button1}
 

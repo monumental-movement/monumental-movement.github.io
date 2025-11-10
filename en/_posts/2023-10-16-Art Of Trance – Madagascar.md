@@ -16,13 +16,13 @@ Side A is a remix by Matthias Hoffmann and Ralf Hildenbeutel's German trance pro
 The first track on side B is a remix by Dutch DJ/producer Ferry Corsten (System F).
 
 #### Tracklist
-```md
+"""md
 A. Madagascar (Cygnus X Remix)
 
 B1. Madagascar (Ferry Corsten Remix)
 
 B2. Madagascar (Original Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64443542697?afid=6142608987){: .button1}
 

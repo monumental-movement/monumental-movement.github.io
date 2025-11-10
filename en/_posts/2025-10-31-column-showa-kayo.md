@@ -15,19 +15,17 @@ title: '[Column] The "Showa retro songs" boom spread overseas: When nostalgia cr
 ---
 
 
-## Prologue: When did "Showa" become cool?
+## 序章：いつから「昭和」がクールになったのか
 
+文：mmr｜テーマ：昭和歌謡と昭和ポップが、21世紀のインターネット文化と融合し、海外でどのように再評価されているのか。YouTube、TikTok、Vaporwave、そしてレトロ・ジャパンの象徴として広がる『昭和レトロ』現象を探る
 
-Text: mmr｜Theme: Showa songs and pop are fused with 21st century internet culture, and how are they being reevaluated overseas? Exploring the "Showa Retro" phenomenon that is spreading as a symbol of YouTube, TikTok, Vaporwave, and Retro Japan
+2020年代に入り、世界中のSNSやストリーミング・サービスで「昭和レトロ」「Showa Kayo」「Japanese 80s Pop」といったタグが爆発的に拡散している。  
+松原みき「真夜中のドア～Stay With Me」や山下達郎「Ride on Time」がSpotifyのグローバルチャートに突如として浮上したのは象徴的な出来事だった。  
 
+だが、その“昭和ポップの復権”は、単なる懐古趣味ではない。むしろそれは、**デジタル時代におけるアナログ感覚の再発見**であり、**グローバルな「エモーションの共有」**という新しい文化的現象である。  
 
-In the 2020s, tags such as ""Showa Retro," ""Showa Kayo," and ""Japanese 80s Pop'' are spreading explosively on SNS and streaming services around the world.
-It was a symbolic event that Miki Matsubara"s ""Midnight Door~Stay With Me" and Tatsuro Yamashita"s ""Ride on Time" suddenly appeared on Spotify's global charts.
-
-However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotional sharing"**.
-
-In this article, we will explore how Showa songs resonate overseas and how they are being received and reconstructed.
-We will explore it from multiple angles, including (1) historical background, (2) media environment, (3) overseas reception structure, and (4) the perspective of musical translation.
+本稿では、昭和歌謡がどのようにして海外に響き、どのように受容・再構築されているのかを、  
+①歴史的背景、②メディア環境、③海外の受容構造、④音楽的翻訳の視点、から多角的に探っていく。
 
 ---
 
@@ -44,115 +42,114 @@ color: #fff;
 }
 </style>
 
+## 第一章：昭和歌謡の「記憶」としての構造
 
-## Chapter 1: Structure of Showa songs as "memory"
+昭和歌謡とは、1950年代から80年代までの日本大衆音楽を指す広義のカテゴリーだ。  
+美空ひばりの演歌的情緒から、山口百恵・中森明菜らのアイドル歌謡、さらには大滝詠一・松任谷由実のポップスまで、その範囲はきわめて広い。  
 
-Showa Kayo is a broad category that refers to Japanese popular music from the 1950s to the 1980s.
-The range is extremely wide, from the enka-like sentiments of Hibari Misora, to the idol songs of Momoe Yamaguchi and Akina Nakamori, and even the pop songs of Eiichi Otaki and Yumi Matsutoya.
+だが共通しているのは、「メロディーへの信仰」と「時代の影のロマンチシズム」だ。  
+戦後の経済成長とともに育った昭和歌謡は、人々の生活の中に“感情の座標軸”を築いていた。  
+たとえば、**三木たかしの旋律には郷愁があり、筒美京平の編曲には都市の夢がある。**
 
-However, what they have in common is ""belief in melody" and ""romanticism in the shadow of the times."
-Showa songs, which grew along with post-war economic growth, established an ""emotional coordinate axis"' in people"s lives.
-For example, Takashi Miki"s melodies have a sense of nostalgia, and Kyohei Tsutsumi"s arrangements have a dream of the city. **
-
-This "reverberation of dreams" will later become the driving force that attracts young people from overseas.
-
----
-
-## Chapter 2: Starting point of rediscovery - YouTube algorithm and "Japanese City Pop"
-
-The starting point for the international reappraisal of Showa songs was YouTube in the late 2010s.
-Overseas users left comments on songs from the 1980s that were suddenly recommended by the algorithm, added English subtitles, and created remixes.
-
-Miki Matsubara's ""Midnight Door'' is a typical example.
-The surge in playbacks spread to Spotify's automatic playlists, and spawned a trend on TikTok called "Japanese 80s aesthetic."
-
-This was driven by the redefined genre of **City Pop**.
-Music that was originally called "urban pop" in Japan,
-Overseas, it has been translated as "retrofuturistic pop" and "aesthetic nostalgia," and has been reconnected as the source of **Vaporwave culture**.
+この“夢の残響”こそが、のちに海外の若者たちを惹きつける原動力になる。
 
 ---
 
-## Chapter 3: Vaporwave and the illusion of the Showa era
+## 第二章：再発見の起点 ― YouTubeアルゴリズムと“Japanese City Pop”
 
-Vaporwave is an art movement that grew out of American internet bulletin board culture in the early 2010s.
-Old Japanese advertisements, digital graphics from the 1980s, and the distorted sound images of cassettes have been reconstructed as the "reverberations" of consumer society.
+昭和歌謡の国際的再評価の起点は、2010年代後半のYouTubeだった。  
+アルゴリズムによって突如おすすめされた1980年代の楽曲に、海外ユーザーがコメントを残し、英語字幕を付け、リミックスを生み出していった。  
 
-It is no coincidence that the melodies and sounds of Showa songs were naturally fused here.
-**Soft reverb, urban mellowness, and excessive romanticism. **
-These perfectly matched the ""artificial nostalgia'' that Vaporwave was seeking.
+松原みき「真夜中のドア」はその代表例だ。  
+再生数の急増は、Spotifyの自動プレイリストにまで波及し、TikTokで“Japanese 80s aesthetic”というトレンドを生んだ。  
 
-The result was a cultural upheaval, with songs by Yumi Matsutoya and Mariya Takeuchi appearing on the "chill playlists" of young people in America and Europe.
-
----
-
-## Chapter 4: Overseas Reception Structure - Translated "Emotions"
-
-Why do listeners who don't understand Japanese cry when listening to Showa songs?
-Many overseas listeners say, ""This music feels like a dream.''
-This is because I sympathize with the **acoustic texture** and **emotional atmosphere** rather than the linguistic meaning.
-
-Vocals in Showa songs often seem to be speaking, and the melody lines have a human-like intonation.
-This ""voice expression'' creates an emotional delicacy that is not found in English lyrics.
-
-Furthermore, the "temperature" unique to analog recording sounds fresh to the ears of the digital generation.
-In other words, Showa songs export ""emotion as texture''.
+これを牽引したのが**City Pop**という再定義されたジャンルである。  
+もともと日本国内では“都会派ポップス”と呼ばれていた音楽が、  
+海外では“retrofuturistic pop”“aesthetic nostalgia”として翻訳され、**Vaporwave文化**の源流として再接続された。
 
 ---
 
-## Chapter 5: The intersection of digital archives and Japanese cultural policy
+## 第三章：Vaporwaveと昭和の幻影
 
-What is interesting is that this boom was spread by private listeners.
-It wasn't that the Japanese government or music industry intentionally exported it; rather, fan activity on YouTube and Spotify took the lead.
+Vaporwaveは2010年代初頭、アメリカのインターネット掲示板文化から派生したアートムーブメントだ。  
+古い日本語広告、80年代のデジタルグラフィックス、そしてカセットの歪んだ音像が、消費社会の“残響”として再構築された。  
 
-However, in the 2020s, "Showa retro" content has rapidly increased at overseas festivals and exhibitions.
-NHK and record companies have also opened official channels with English subtitles.
-In the "Cool Japan" strategy, ""archiving Showa music'' is attracting attention as a cultural export axis second only to anime and games.
+ここに昭和歌謡のメロディーやサウンドが自然に融合したのは偶然ではない。  
+**柔らかなリバーブ、都会的なメロウネス、過剰なロマンティシズム。**  
+これらは、Vaporwaveが求める「人工的ノスタルジア」と完璧に一致していた。  
 
----
-
-## Chapter 6: Listener-generated culture - overseas remix and cover phenomenon
-
-In Europe, America, and Asia, tracks that sample Showa songs are appearing one after another.
-Korean producers Night Tempo and American Macross 82-99 are pioneers.
-They play Showa songs as "Future Funk" and have recorded millions of views on YouTube.
-
-Furthermore, there is a growing trend for Western bands and artists to produce "City Pop-style" songs.
-Examples include France"s Vendredi Sur Mer, America"s Eyedress, and Thailand's Phum Viphurit.
-
-In this way, Showa songs have acquired ""universality as material'' and are repeatedly reproduced culturally.
+その結果、松任谷由実や竹内まりやの曲が、アメリカやヨーロッパの若者たちの“チルプレイリスト”に並ぶという文化的転倒が生まれたのである。
 
 ---
 
-## Chapter 7: Reimport phenomenon in Japan - Rekindling of the "Showa boom"
+## 第四章：海外の受容構造 ― 翻訳される「感情」
 
-What is interesting is that the overseas boom is also flowing back into Japan.
-Behind the phenomenon that younger generations are attracted to second-hand clothes, pure cafes, and Showa-era interiors,
-There is an external evaluation that says **Showa is attracting attention from overseas.**
+日本語がわからないリスナーが、なぜ昭和歌謡に涙するのか？  
+多くの海外リスナーは、「この音楽はまるで夢を見ているようだ」と語る。  
+それは言語的意味よりも、**音響の質感**と**感情の空気**に共感しているからだ。  
 
-"Showa Retro Kayo Playlist" has become popular on Spotify Japan,
-A video of a teenage singer covering Akina Nakamori is going viral on YouTube.
-In other words, Showa songs have once again regained their brilliance in Japan through an ""external perspective.''
+昭和歌謡のヴォーカルは、往々にして語りかけるようであり、メロディーラインが人間的な抑揚をもつ。  
+この「声の表情」が、英語の歌詞にはない感情の繊細さを生む。  
 
----
-
-## Chapter 8: The Future of Nostalgia - Virtual Showa and AI Reconstruction
-
-In the late 2020s, ""imaginary Showa songs'' are being created one after another due to advances in AI voice and generated music.
-"Showa-style original song" by Lo-Fi AI singer, video of virtual singer singing Showa-style melody...
-It is a cultural experiment that can be called ""reconstruction of memory.''
-
-Showa songs are no longer about the past, but are evolving into a platform for re-experiencing the past in a futuristic way.
-Nostalgia is no longer about retrospection, but has become an energy for re-creation.
+さらに、アナログ録音特有の“温度”が、デジタル世代の耳にとって新鮮に響く。  
+つまり、昭和歌謡は**「テクスチャとしてのエモーション」**を輸出しているのだ。
 
 ---
 
-## Conclusion: "Music of the heart" called Showa
+## 第五章：デジタル・アーカイブと日本文化政策の交差点
 
-Showa songs are becoming etched into the world"s emotional map, transcending Japan"s historical context.
-This echo is also a return to the ""individual memory'' that was being lost due to globalization.
-The songs of the Showa era have become an ""emotional refuge'' not only for the Japanese of the past, but for all lonely young people of the 21st century.
+興味深いのは、このブームが民間のリスナー主導で広まった点である。  
+日本政府や音楽産業が意図的に輸出したわけではなく、むしろYouTubeやSpotify上のファン活動が先行した。  
 
-Even though the Showa era has become far away, it continues to be replayed in someone's mind somewhere in the ocean of the Internet.
+しかし2020年代に入り、海外フェスや展覧会で「昭和レトロ」コンテンツが急増。  
+NHKやレコード会社も英語字幕つきの公式チャンネルを開設し、  
+“Cool Japan”戦略においても、アニメ・ゲームに次ぐ文化輸出軸として**「昭和音楽のアーカイブ化」**が注目されている。
+
+---
+
+## 第六章：リスナー生成文化 ― 海外リミックスとカバー現象
+
+欧米やアジア圏では、昭和歌謡をサンプリングしたトラックが次々と登場している。  
+韓国のプロデューサーNight Tempoや米国のMacross 82-99はその先駆者だ。  
+彼らは昭和歌謡を「Future Funk」として再生し、YouTube上で数百万再生を記録している。  
+
+さらに、欧米のバンドやアーティストが“City Pop風”楽曲を制作する流れも広がっている。  
+フランスのVendredi Sur Mer、アメリカのEyedress、タイのPhum Viphuritなどがその例だ。  
+
+このように、昭和歌謡は**「素材としての普遍性」**を獲得し、文化的再生産を繰り返している。
+
+---
+
+## 第七章：日本における逆輸入現象 ― 「昭和ブーム」再燃
+
+興味深いのは、海外ブームが日本国内にも“逆流”していることだ。  
+若い世代が古着・純喫茶・昭和インテリアに惹かれる現象の裏には、  
+**「海外が注目している昭和」**という外部評価が存在している。  
+
+Spotify Japanでも「昭和レトロ歌謡プレイリスト」が人気を博し、  
+YouTubeでは10代の歌い手が中森明菜をカバーする動画がバズっている。  
+つまり昭和歌謡は、**“外部のまなざし”によって再び国内で輝きを取り戻した**のである。
+
+---
+
+## 第八章：ノスタルジアの未来 ― 仮想昭和とAI再構築
+
+2020年代後半、AI音声や生成音楽の進化によって「架空の昭和歌謡」が次々と生まれている。  
+Lo-Fi AI歌手による「昭和風オリジナル曲」、バーチャル歌手が昭和風メロディを歌う動画……  
+それは「記憶の再構築」とも言える文化実験だ。  
+
+昭和歌謡は過去ではなく、**「過去を未来的に再体験するプラットフォーム」**へと進化している。  
+ノスタルジアはもはや回顧ではなく、**再創造のエネルギー**となったのだ。
+
+---
+
+## 結語：昭和という「心の音楽」
+
+昭和歌謡は、日本の歴史的文脈を超えて、世界の感情地図に刻まれつつある。  
+その響きは、グローバル化によって失われつつあった「個人の記憶」への回帰でもある。  
+昭和の歌は、かつての日本人だけでなく、21世紀のすべての孤独な若者たちにとっての**“エモーショナルな避難所”**となった。  
+
+昭和は遠くなりつつも、インターネットの海のどこかで、今も誰かの心に再生され続けている。
 
 ---
 
@@ -160,7 +157,7 @@ Even though the Showa era has become far away, it continues to be replayed in so
 
 | Year | Events | Notes |
 |----|--------|------|
-| 1950s | Formation of postwar pop songs, appearance of Hibari Misora ​​and Chiemi Eri | Foundation for sharing emotions among the masses |
+| 1950s | Formation of postwar pop songs, appearance of Hibari Misora and Chiemi Eri | Foundation for sharing emotions among the masses |
 | 1970s | New music and the golden age of idols | Yumi Matsutoya, Momoe Yamaguchi, Candies |
 | 1980s | City pop maturity | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
 | 2010s | Discover overseas with YouTube and connect with vaporwave culture | Miki Matsubara re-evaluating |
@@ -171,15 +168,16 @@ Even though the Showa era has become far away, it continues to be replayed in so
 <div class="mermaid">
 
 timeline
-title Overseas spread process of Showa songs
-1950: "Formation of post-war pop songs, Hibari Misora ​​appears"
-1970 : "New Music Idol Kayo"
-1980 : "Maturity of City Pop and Urban Pop"
-2010 : "Start of overseas re-evaluation on YouTube"
-2020 : "Showa boom in the TikTok era"
-2025 : "Reconstruction of the virtual Showa era using AI"
+    title Overseas spread process of Showa songs
+    1950: "Formation of post-war pop songs, Hibari Misora appears"
+    1970 : "New Music Idol Kayo"
+    1980 : "Maturity of City Pop and Urban Pop"
+    2010 : "Start of overseas re-evaluation on YouTube"
+    2020 : "Showa boom in the TikTok era"
+    2025 : "Reconstruction of the virtual Showa era using AI"
 
 </div>
 
 ---
+
 

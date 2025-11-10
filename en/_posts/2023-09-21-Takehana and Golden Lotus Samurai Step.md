@@ -19,13 +19,14 @@ Based on bass music, a genre of electronic music, the track combines energetic a
 "Samurai Step" is a favorite among electronic music fans and artists. Their music offers new perspectives and musical experiences through the fusion of Japanese culture and the contemporary music scene.
 
 #### Tracklist
-```md
-A  Steppen Step
+"""md
+A Steppen Step
 
-B1  Cut Up
+B1 Cut Up
 
-B2  Cut Up (Sampling Collage Art)
-```
+B2 Cut Up (Sampling Collage Art)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
+
 

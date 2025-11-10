@@ -21,16 +21,15 @@ The B-side is a remix by Jesse F. Keeler, aka JFK of MSTRKRFT.
 
 The jacket is by James Sutton, who has created jackets for will.i.am, Natalia Kills, Steve Aoki, Keri Hilson, NERD, and more.
 
-
 #### Tracklist
-```md
+"""md
 A1. Running Away (Original)
 A2. Running Away (Accapella)
 A3. Talking In Your Sleep (Remix)
 
 B1. Running Away (MSTRKRFT (JFK) Remix)
 B2. Running Away (MSTRKRFT (JFK) Dub)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18722694725?afid=6142608987){: .button1}
 

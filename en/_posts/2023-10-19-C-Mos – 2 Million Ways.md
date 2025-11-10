@@ -18,13 +18,13 @@ The A-side is a remix by Swedish DJ/producer Axwell (Axel Hedfors), who is also 
 The B-side is a remix by Bhangra Knights member Jules Spinner.
 
 #### Tracklist
-```md
+"""md
 A. 2 Million Ways (Axwell Remix)
 
 B1. 2 Million Ways (Jules Spinner Remix)
 
 B2. 2 Million Ways (Original Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82094920141?afid=6142608987){: .button1}
 

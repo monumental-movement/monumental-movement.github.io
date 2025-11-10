@@ -17,22 +17,21 @@ title: Arrested Development – ​​3 Years, 5 Months & 2 Days In The Life Of
 
 The album includes hits such as the Grammy-winning songs "Tennessee," "People Everyday," and "Mr. Wendal." These songs featured Arrested Development's signature lyrics, melodies, and soulful vocals, and brought positive messages and awareness to social issues to listeners.
 
-
 #### Tracklist
-```md
+"""md
 A1. Man's Final Frontier
 
 A2. Mama's Always On Stage
 
-A3. People Everyday
+A3.People Everyday
 
-A4. Blues Happy
+A4.Blues Happy
 
 A5. Mr. Wendal
 
 A6. Children Play With Earth
 
-A7. Raining Revolution
+A7.Raining Revolution
 
 A8. Fishin' 4 Religion
 
@@ -42,14 +41,14 @@ B2. U
 
 B3. Eve Of Reality
 
-B4. Natural
+B4.Natural
 
 B5. Dawn Of The Dreads
 
-B6. Tennessee
+B6.Tennessee
 
 B7. Washed Away
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19892920898?afid=6142608987){: .button1}
 

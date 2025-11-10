@@ -20,7 +20,7 @@ title: Swing Out Sister – Shapes And Patterns
 The song "Now You're Not Here" was written as the theme song for the drama "Midday Moon" and became a big hit in Japan. This album features Gota Yashiki as the drummer.
 
 #### Tracklist
-```md
+"""md
 1. Somewhere In The World
 2. Here And Now
 3. We Could Make It Happen
@@ -30,11 +30,11 @@ The song "Now You're Not Here" was written as the theme song for the drama "Midd
 7. Joe Meek's Cat
 8. Stoned Soul Picnic
 9. You Already Know
-10. Always
+10.Always
 11. Now You're Not Here
 12. Icy Cold As Winter
 13. Shapes And Patterns (Reprise)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 

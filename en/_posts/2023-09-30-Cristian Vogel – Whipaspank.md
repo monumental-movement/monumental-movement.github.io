@@ -17,13 +17,13 @@ Christian Vogel (born 1972 in Santiago, Chile) is an experimental electronic mus
 He attended the University of Sussex, studying with Martin Butler (composer) and Jonathan Harvey (composer), where he gained a degree in 20th century music. A founding member of the No Future Collective, active in Brighton in the mid-1990s.
 
 #### Tracklist
-```md
+"""md
 A1. Whipaspank
 
 A2. Whipaspank (Cylob Mix)
 
 B. Whipaspank (Tube Jerk Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66139600515?afid=6142608987){: .button1}
 

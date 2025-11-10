@@ -16,7 +16,6 @@ title: '[Column] High energy and LGBTQ: dance music that symbolizes liberation a
 
 ## Dance music that symbolizes liberation and identity
 
-
 Text: mmr｜Theme: Symbolic music of "liberation and solidarity" that overlaps with American gay culture and the era of the HIV/AIDS crisis
 
 <hr>
@@ -44,7 +43,7 @@ At a time when homosexuality was still subject to discrimination and prejudice, 
 🌈 Expression of identity
 
 Hi-NRG's lyrics often have themes of love, desire, and self-liberation, and they resonate not only with straight love, but also with the earnest feelings of LGBTQ people.
-For example, Evelyn Thomas"s ""High Energy" and Hazell Dean"s ""Searchin"' became deeply engraved in the club scene as gay anthems.
+For example, Evelyn Thomas's ""High Energy'' and Hazell Dean's ""Searchin''' became deeply engraved in the club scene as gay anthems.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,11 +73,10 @@ A UK Hi-NRG singer who was so supported in the club scene that she was called th
 
 **Divine**
 
-While active as a drag queen, she gained worldwide attention with Hi-NRG. Boldly displaying sexual expression, they integrated music and gender politics.
+While active as a drag queen, she gained worldwide attention with Hi-NRG. They boldly displayed sexual expression and integrated music and gender politics.
 
 **Evelyn Thomas**
 A diva who defined the genre with her signature song "High Energy." It was explosively popular in gay clubs and spread Hi-NRG worldwide.
-
 
 <hr>
 
@@ -88,7 +86,6 @@ In the 1980s, HIV/AIDS struck the LGBTQ community and claimed many lives.
 During this period, Hi-NRG became both an escape to forget one's sorrows and a soundtrack of life and death in memory of fallen comrades.
 
 Sylvester himself died of AIDS, but his music continues to be played in clubs today.
-
 
 <hr>
 

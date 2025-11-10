@@ -17,16 +17,16 @@ Dino Lenny, also known as Dino, is an Italian DJ/producer who has been active in
 
 "King Kong Five" was originally an original song by the French band Mano Negra, which was included on their 1989 album Puta's Fever and released as a single.
 
-Dino"s version is a reinterpretation of this song, House/Electro, released in 2004 on Ilario Drago"s dance music label Ego Music.
+Dino's version is a reinterpretation of this song, House/Electro, released in 2004 on Ilario Drago's dance music label Ego Music.
 
 B is a remix by Andrea Doria, known for ""Bucci Bag'' (produced by Dino Lenny).
 
 #### Tracklist
-```md
+"""md
 A1. King Kong Five (Extended Club Mix)
 
 B1. King Kong Five (Andrea Doria Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44912772102?afid=6142608987){: .button1}
 

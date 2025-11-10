@@ -17,15 +17,14 @@ Mark Brady, also known as DJ Breeze, is a hardcore DJ/producer from London. DNA 
 
 The B-side is a remix of Breeze's "Your Love Hits Me" by DNA.
 
-
 #### Tracklist
-```md
+"""md
 A. Dead Serious Insects
 
 B1. Beetle-Juice
 
 B2. Squash I
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m72913303126?afid=6142608987){: .button1}
 

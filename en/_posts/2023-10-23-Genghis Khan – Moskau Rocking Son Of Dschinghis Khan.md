@@ -18,11 +18,11 @@ Genghis Khan was a West German group that was active worldwide from 1979 to 1985
 "Moskau" was a worldwide hit from the album "Genghis Khan" released in 1979.
 
 #### Tracklist
-```md
-A. Moskau (めざせモスクワ)
+"""md
+A. Moskau (Aim for Moscow)
 
-B. Rocking Son Of Dschinghis Khan (ロッキング・サン)
-```
+B. Rocking Son Of Dschinghis Khan
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
 

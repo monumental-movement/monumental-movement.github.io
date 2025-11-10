@@ -34,31 +34,31 @@ Producer Massimo Greco, Ohm Guru
 Co-producer: Brass Avengers
 
 #### Tracklist
-```md
+"""md
 A1. Fast Salsa
 
 A2. Broken
 
 A3. Transaction
 
-B1. Avenida
+B1.Avenida
 
-B2. Astrao
+B2.Astrao
 
-B3. Country Dansing Cowboy
+B3. Country Dancing Cowboy
 
-C1. My Favourite Step
+C1. My Favorite Step
 
 C2. Jazzy Balls
 
 C3. Fat Mirror
 
-D1. Brassisity
+D1.Brassisity
 
 D2. Free Bossa
 
 D3. Full Funk
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 

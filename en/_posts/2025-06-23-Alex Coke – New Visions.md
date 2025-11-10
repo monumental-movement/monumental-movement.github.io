@@ -20,19 +20,18 @@ Alex Coke has performed with many artists including Gerald Wilson, Charles Tolli
 "New Visions" is his first solo LP, recorded at Lone Star Studio in Texas in 1981 and released on the label Re Records in 1982.
 A4 and B3 are improvisations.
 
-
 #### Tracklist
-```md
+"""md
 A1. By The River (Thinking Of 0)
 A2. Flexible Sunset
-A3. REM - 136
-A4. Djinn
-A5. Lenny
+A3. REM-136
+A4.
+A5.Lenny
 
 B1. The Prank
-B2. Radio Eyes (e.d.)
+B2. Radio Eyes (ed.)
 B3. Casey Jones
-B4. Sayonara
-```
+B4.Sayonara
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}

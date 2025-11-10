@@ -15,15 +15,15 @@ title: The Go Find – Over The Edge Vs. What I Want
 The Go Find is a Belgian indie pop band led by Dieter Sermeus. Their music has a unique charm due to its fusion of pop elements and house & electronic arrangements.
 
 #### Tracklist
-```md
-A1  Over The Edge
+"""md
+A1 Over The Edge
 
-A2  Over The Edge (Late Night Remix)
+A2 Over The Edge (Late Night Remix)
 
-B1  What I Want
+B1 What I Want
 
-B2  What I Want (Styrofoam's Perfect Time Remix)
-```
+B2 What I Want (Styrofoam's Perfect Time Remix)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17995961723?afid=6142608987){: .button1}
 

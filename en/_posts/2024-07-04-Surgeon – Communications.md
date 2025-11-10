@@ -13,20 +13,20 @@ title: Surgeon – Communications
 ---
 
 
-Surgeon"s first album was released in 1996 on the British label Downwards, founded by Regis and Female. This album was supported by JEFF MILLS and is said to be the breakthrough and masterpiece that made Surgeon"s name known to the world.
+Surgeon's first album was released in 1996 on the British label Downwards, founded by Regis and Female. This album was supported by JEFF MILLS and is said to be the breakthrough and masterpiece that made Surgeon's name known to the world.
 
 #### Tracklist
-```md
+"""md
 A. Syllable
 
-B1. Cable
-B2. Wire
+B1.Cable
+B2.Wire
 
-C. Wave
+C.Wave
 
-D1. Particle
+D1.Particle
 D2. Optic
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54311623393?afid=6142608987){: .button1}
 

@@ -19,17 +19,17 @@ title: Richard Strauss
 ・Soprano vocal: Elisabeth Schwarzkopf
 
 #### Tracklist
-```md
+"""md
 Four Last Songs
-「4つの最後の歌」
+"Four final songs"
 A1. Frühling
-A2. September
+A2.September
 A3. Beim Schlafengehen
 A4. Im Abendrot
 
 Capriccio, Op. 85
-「カプリッチョ (オペラ)」
+"Capriccio (opera)"
 B1. Morgen Mittag Um Elf (Closing Scene)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

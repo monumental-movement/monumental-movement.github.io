@@ -21,11 +21,11 @@ Neutron Tom is the alias of UK hard dance producer, remixer & DJ, Thomas Ingamel
 The B-side is a remix by Jon Langford and Steve Hill's project Mr. Bishi.
 
 #### Tracklist
-```md
+"""md
 A. Funky Shit (Original Mix)
 
 AA. Funky Shit (Mr Bishi's Cheeky Little Monkey Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83828733332?afid=6142608987){: .button1}
 

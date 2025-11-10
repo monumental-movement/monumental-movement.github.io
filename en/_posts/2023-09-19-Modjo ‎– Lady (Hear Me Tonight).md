@@ -18,17 +18,16 @@ title: Modjo – Lady (Hear Me Tonight)
 
 It is considered a classic for dance music fans and many people who love 2000s pop music.
 
-
 #### Tracklist
-```md
-A1  Lady (Hear Me Tonight)
+"""md
+A1 Lady (Hear Me Tonight)
 
-A2  Lady (Hear Me Tonight) (Radio Edit)
+A2 Lady (Hear Me Tonight) (Radio Edit)
 
-B1  Lady (Roy's Universal Soldiers Mix)
+B1 Lady (Roy's Universal Soldiers Mix)
 
-B2  Lady (Acoustic)
-```
+B2 Lady (Acoustic)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58855035943?afid=6142608987){: .button1}
 

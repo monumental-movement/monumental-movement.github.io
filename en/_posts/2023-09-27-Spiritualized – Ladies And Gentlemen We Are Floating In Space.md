@@ -23,7 +23,7 @@ They are also recognized as one of the bands that had a major influence on alter
 The band's name comes from the fictional spaceship "Spiritualized" that appears in the movie 2001: A Space Odyssey, and Jason Pearce is also known as the former vocalist of Spacemen 3.
 
 #### Tracklist
-```md
+"""md
 1.Ladies And Gentlemen We Are Floating In Space
 
 2.Come Together
@@ -51,7 +51,7 @@ The band's name comes from the fictional spaceship "Spiritualized" that appears 
 Bonus Track For Japan
 
 13.Broken Heart (Instrumental)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
 

@@ -21,13 +21,13 @@ The first song on side B is a remix by St. Louis-based DJ Kobbe.
 The second song on side B is a remix by Miami-based DJ/producer Martin Accorsi.
 
 #### Tracklist
-```md
+"""md
 A. Work It (Original Mix)
 
-B1. Work It (Kobbe Rmx) 
+B1. Work It (Kobbe Rmx)
 
-B2. Work It (Martin Accorsi Rmx) 
-```
+B2. Work It (Martin Accorsi Rmx)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40800419053?afid=6142608987){: .button1}
 

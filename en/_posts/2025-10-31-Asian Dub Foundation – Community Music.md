@@ -18,22 +18,22 @@ Asian Dub Foundation is an electronica dance band from the UK. Their style is a 
 Released in 2000, two years after the hit album "Rafi's Revenge," "Community Music" is the third album by Asian Dub Foundation, which received high praise from all quarters. This was the last album in which Deeder Zaman participated, as vocalist/MC Deeder Zaman left the group at the end of that year.
 
 #### Tracklist
-```md
+"""md
 1. Real Great Britain
-2. Memory War
-3. Officer XX
+2.Memory War
+3.OfficerXX
 4. New Way, New Life
 5. Riddim I Like
-6. Collective Mode
-7. Crash
-8. Colour Line
+6.Collective Mode
+7.Crash
+8.Color Line
 9. Taa Deem
-10. The Judgement
+10.The Judgment
 11. Truth Hides
 12. Rebel Warrior
-13. Committed To Life
+13.Committed To Life
 14. Scaling New Heights
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
 

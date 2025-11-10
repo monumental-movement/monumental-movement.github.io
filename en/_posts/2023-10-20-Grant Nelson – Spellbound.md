@@ -12,14 +12,14 @@ title: Grant Nelson – Spellbound
 ---
 
 
-Grant Nelson is a producer, remixer, and DJ from London who released numerous club hits on the label Nice 'N" Ripe in the mid-90s and influenced the UK garage scene. In the late 1990s, he was active in the "2-Step" Garage scene, releasing songs such as a remix of James Brown"s "Funk On Ah Roll."
+Grant Nelson is a producer, remixer, and DJ from London who released numerous club hits on the label Nice 'N' Ripe in the mid-90s and influenced the UK garage scene. In the late 1990s, he was active in the "2-Step" Garage scene, releasing songs such as a remix of James Brown's "Funk On Ah Roll."
 
 "Spellbound" is a remix of Bas NoirMy's "Love Is Magic" released in 1988 on the label Nu groove.
 
 #### Tracklist
-```md
+"""md
 A. Spellbound
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49779856384?afid=6142608987){: .button1}
 

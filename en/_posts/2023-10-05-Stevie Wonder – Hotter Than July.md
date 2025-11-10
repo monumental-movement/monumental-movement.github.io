@@ -12,14 +12,14 @@ title: Stevie Wonder – Hotter Than July
 ---
 
 
-"Hotter Than July" includes many hit songs, most notably "Master Blaster (Jammin")" and "Happy Birthday." In particular, "Happy Birthday" was created as a song to celebrate Martin Luther King Jr."s birthday, and became a symbol of the American civil rights movement.
+"Hotter Than July" includes many hit songs, most notably "Master Blaster (Jammin')" and "Happy Birthday." In particular, "Happy Birthday" was created as a song to celebrate Martin Luther King Jr.'s birthday, and became a symbol of the American civil rights movement.
 
-Other notable songs include "I Ain"t Gonna Stand for It" and "Lately." These songs demonstrate Stevie Wonder"s rich musicality and emotional expressiveness.
+Other notable songs include "I Ain't Gonna Stand for It" and "Lately." These songs demonstrate Stevie Wonder's rich musicality and emotional expressiveness.
 
-"Hotter Than July" is a seminal work in Stevie Wonder"s career, embodying his musical talent and social message. The album was also a commercial success and received critical acclaim from a wide audience. Stevie Wonder"s music continues to captivate people throughout the ages.
+"Hotter Than July" is a seminal work in Stevie Wonder's career, embodying his musical talent and social message. The album was also a commercial success and received critical acclaim from a wide audience. Stevie Wonder's music continues to captivate people throughout the ages.
 
 #### Tracklist
-```md
+"""md
 A1. Did I Hear You Say You Love Me
 
 A2. All I Do
@@ -39,7 +39,7 @@ B3. Cash In Your Face
 B4. Lately
 
 B5. Happy Birthday
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
 

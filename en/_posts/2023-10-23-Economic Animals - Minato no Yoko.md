@@ -18,11 +18,11 @@ Economic Animals is a masked band led by Tsutomu Sasaki. "The Return of Minato n
 Lyrics/composition/song: Economic Animals
 
 #### Tracklist
-```md
-A. 帰ってきた港のヨーコ
+"""md
+A. Yoko from the port returns
 
-B. バイ•バイ•マイ•ラブ
-```
+B. Bye Bye My Love
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44785182941?afid=6142608987){: .button1}
 

@@ -61,13 +61,13 @@ Band Aid is a charity project group formed by Bob Geldof and Midge Ure in 1984 t
 ・Trevor Horn
 
 #### Tracklist
-```md
+"""md
 A. Do They Know It's Christmas? (12" Mix)
 
 B1. Do They Know It's Christmas? (Standard Mix)
 
-B2. Feed The World
-```
+B2.Feed The World
+""""
 [Purchase on Mercari](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
 #### Youtube

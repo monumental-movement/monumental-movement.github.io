@@ -14,30 +14,26 @@ title: '[Column] History and masterpieces of Experimental Music: From its origin
 ---
 
 
+## Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤  
 
-## History and masterpieces of Experimental Music
+文：mmr｜テーマ：実験音楽に関する前衛からポスト・デジタル時代までの変遷
 
-
-Text: mmr｜Theme: Changes in experimental music from the avant-garde to the post-digital era
-
-
-"Experimental music" was born as an attempt to deviate from traditional harmonies and forms and explore the possibilities of sound itself. It began with the avant-garde movement of the early 20th century, which transcended the framework of classical music, and continues to expand to include electronic acoustics, industrial, noise, and modern digital music. Here, we will organize the historical background, famous records, and changes in equipment by decade, and trace the trajectory of experimental music.
+「エクスペリメンタル・ミュージック（実験音楽）」は、伝統的な和声や形式から逸脱し、**音そのものの可能性を探求する試み**として誕生しました。クラシックの枠組みを超えた20世紀初頭の前衛運動から始まり、電子音響、インダストリアル、ノイズ、現代のデジタル音楽まで広がり続けています。ここでは、**年代ごとの時代背景、名盤、機材の変遷**を整理し、エクスペリメンタルの軌跡をたどります。
 
 ---
 
-## 1940s-1950s: The birth of experimental music
-- **Background:** Post-war Europe and America seek to reconstruct music. ""Music of Chance'' by John Cage and musique concrète by Schaeffer appear.
-- **Equipment:** Tape recorder, prepared piano, early oscillator.
+## 1940s〜1950s：実験音楽の胎動
+- **背景:** 戦後ヨーロッパとアメリカで、音楽の再構築が模索される。ジョン・ケージによる「偶然性の音楽」、シェーフェールによるミュージック・コンクレートが登場。  
+- **機材:** テープレコーダー、プリペアド・ピアノ、初期オシレーター。  
 
-### Masterpiece
-- [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)
-- [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)
-- [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)
+### 名盤
+- [Pierre Schaeffer – *Cinq études de bruits* (1948)](https://amzn.to/3KBB0yU)  
+- [John Cage – *Sonatas and Interludes* (1948)](https://amzn.to/425qJRN)  
+- [Karlheinz Stockhausen – *Gesang der Jünglinge* (1956)](https://amzn.to/46p9j3C)  
 
 ---
 
-## Recommended 10 selections
-
+## おすすめ10選
 
 <style type="text/css">
 
@@ -52,35 +48,35 @@ color: #fff;
 }
 </style>
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Pierre Schaeffer | Étude aux chemins de fer | 1948 |
-| John Cage | 4"33"" | 1952 |
+| John Cage | 4’33’’ | 1952 |
 | John Cage | Williams Mix | 1952 |
 | Pierre Henry | Symphonie pour un homme seul | 1950 |
 | Karlheinz Stockhausen | Studie II | 1954 |
 | Edgard Varèse | Poème électronique | 1958 |
 | John Cage | Imaginary Landscape No.4 | 1951 |
-| Luigi Russolo (re-recording) | Intonarumori Demo | 1940s reproduction |
+| Luigi Russolo（再録音作品） | Intonarumori Demo | 1940s再現 |
 | Morton Feldman | Projection I | 1950 |
 | Earle Brown | December 1952 | 1952 |
 
 ---
 
-## 1960s: The flowering of the avant-garde and electronic music
-- **Background:** Resonates with minimalism, avant-garde art movements, and psychedelic culture. The birth of the modular synth.
-- **Equipment:** Moog Modular, Buchla, EMS VCS3, tape loop.
+## 1960s：アヴァンギャルドと電子音楽の開花
+- **背景:** ミニマリズム、アヴァンギャルド芸術運動、サイケデリック文化と共振。モジュラーシンセの誕生。  
+- **機材:** Moog Modular, Buchla, EMS VCS3, テープループ。  
 
-### Masterpiece
-- [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)
-- [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)
-- [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)
+### 名盤
+- [La Monte Young – *The Well-Tuned Piano* (1964)](https://amzn.to/4msIjGA)  
+- [Terry Riley – *In C* (1968)](https://amzn.to/46p9sEc)  
+- [Silver Apples – *Silver Apples* (1968)](https://amzn.to/3ImPkLd)  
 
 ---
 
-## Recommended 10 selections
+## おすすめ10選
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | La Monte Young | The Second Dream of the High-Tension Line Stepdown Transformer | 1962 |
 | Terry Riley | In C | 1968 |
@@ -95,26 +91,26 @@ color: #fff;
 
 ---
 
-## 1970s: Noise, the emergence of industrial
-- **Background:** Incorporating "noise" into music while intersecting with punk and avant-garde art. The birth of industrial culture.
-- **Equipment:** EMS Synthi A, ARP 2600, Roland System 100, homemade noise generator.
+## 1970s：ノイズ、インダストリアルの萌芽
+- **背景:** パンクや前衛芸術と交差しながら「騒音」を音楽に取り込む。インダストリアル・カルチャーの誕生。  
+- **機材:** EMS Synthi A, ARP 2600, Roland System 100, 自作ノイズジェネレーター。  
 
-### Masterpiece
-- [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)
-- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)
-- [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)
+### 名盤
+- [Throbbing Gristle – *The Second Annual Report* (1977)](https://amzn.to/42E1K87)  
+- [Brian Eno – *Discreet Music* (1975)](https://amzn.to/3KAP0sL)  
+- [Faust – *Faust IV* (1973)](https://amzn.to/4mwh9hY)  
 
 ---
 
-## Recommended 10 selections
+## おすすめ10選
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Throbbing Gristle | Hamburger Lady | 1978 |
 | Brian Eno | Discreet Music | 1975 |
 | Faust | Krautrock | 1973 |
 | Philip Glass | Music in Twelve Parts (Part 1) | 1974 |
-| Laurie Anderson | O Superman (live original) | 1979 |
+| Laurie Anderson | O Superman (ライブ原曲) | 1979 |
 | Tangerine Dream | Phaedra | 1974 |
 | Kraftwerk | Autobahn | 1974 |
 | Suicide | Ghost Rider | 1977 |
@@ -123,21 +119,20 @@ color: #fff;
 
 ---
 
+## 1980s：DIY精神とカセット・カルチャー
+- **背景:** カセットMTRの普及により、地下からの実験音楽シーンが拡大。日本では「ノイズ」シーンが確立。  
+- **機材:** Tascam Portastudio, Roland TR-808, Yamaha DX7, ショートウェーブラジオ。  
 
-## 1980s: DIY spirit and cassette culture
-- **Background:** With the spread of cassette MTR, the underground experimental music scene expanded. In Japan, a "noise" scene has been established.
-- **Equipment:** Tascam Portastudio, Roland TR-808, Yamaha DX7, shortwave radio.
-
-### Masterpiece
-- [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)
-- [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)
-- [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)
+### 名盤
+- [Nurse With Wound – *Homotopy to Marie* (1982)](https://amzn.to/3W3pNK4)  
+- [Merzbow – *Metal Acoustic Music* (1981)](https://amzn.to/3IxXFvp)  
+- [Glenn Branca – *The Ascension* (1981)](https://amzn.to/42sW29p)  
 
 ---
 
-## Recommended 10 selections
+## おすすめ10選
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Merzbow | Metal Acoustic Music | 1981 |
 | Nurse With Wound | Yagga Blues | 1982 |
@@ -152,21 +147,20 @@ color: #fff;
 
 ---
 
+## 1990s：デジタル実験とグリッチ
+- **背景:** PCとサンプラーが普及し、音響解体・再構築が進む。IDMやアンビエントとも接続。  
+- **機材:** Akai S3000, Max/MSP, Cubase, Pro Tools。  
 
-## 1990s: Digital Experiments and Glitches
-- **Background:** With the spread of PCs and samplers, acoustic deconstruction and reconstruction progressed. Also connects to IDM and ambient music.
-- **Equipment:** Akai S3000, Max/MSP, Cubase, Pro Tools.
-
-### Masterpiece
-- [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)
-- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)
-- [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)
+### 名盤
+- [Oval – *94diskont* (1995)](https://amzn.to/4pIOKbx)  
+- [Aphex Twin – *Selected Ambient Works Volume II* (1994)](https://amzn.to/47XIhmE)  
+- [Autechre – *Tri Repetae* (1995)](https://amzn.to/4gI0iru)  
 
 ---
 
-## Recommended 10 selections
+## おすすめ10選
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Oval | Do While | 1995 |
 | Aphex Twin | Rhubarb | 1994 |
@@ -181,21 +175,20 @@ color: #fff;
 
 ---
 
+## 2000s：ラップトップとグローバル化
+- **背景:** ノイズ、エレクトロニカ、フィールドレコーディングが国際的に広がる。ライブでの「ラップトップ演奏」が一般化。  
+- **機材:** Ableton Live, SuperCollider, Kontakt, ノートPC。  
 
-## 2000s: Laptops and globalization
-- **Background:** Noise, electronica, and field recordings spread internationally. ""Laptop performance'' at live performances has become commonplace.
-- **Equipment:** Ableton Live, SuperCollider, Kontakt, laptop.
-
-### Masterpiece
-- [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)
-- [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)
-- [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)
+### 名盤
+- [Fennesz – *Endless Summer* (2001)](https://amzn.to/3K9awVB)  
+- [Wolf Eyes – *Burned Mind* (2004)](https://amzn.to/4nCm8P2)  
+- [Ryoji Ikeda – *Dataplex* (2005)](https://amzn.to/4nLgwSW)  
 
 ---
 
-## Recommended 10 selections
+## おすすめ10選
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Fennesz | Endless Summer | 2001 |
 | Wolf Eyes | Stabbed in the Face | 2004 |
@@ -204,27 +197,26 @@ color: #fff;
 | Alva Noto | Xerrox Vol.1 (Xerrox Monophaser) | 2007 |
 | Tim Hecker | Radio Spiricom | 2003 |
 | Oren Ambarchi | Grapes from the Estate | 2004 |
-| Burial | Gutted (ambient) | 2005 |
+| Burial | Gutted (アンビエント寄り) | 2005 |
 | KTL | Forest Floor | 2007 |
 | Matmos | Supreme Balloon | 2008 |
 
 ---
 
+## 2010s：マルチメディアとインスタレーション
+- **背景:** サウンドアートやインスタレーションと融合。ASMRやドローン、アンビエントが再評価。  
+- **機材:** Eurorackモジュール, Max for Live, Pure Data, DIY楽器。  
 
-## 2010s: Multimedia and Installation
-- **Background:** Fused with sound art and installation. ASMR, drones, and ambient music are being reevaluated.
-- **Equipment:** Eurorack module, Max for Live, Pure Data, DIY instruments.
-
-### Masterpiece
-- [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)
-- [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)
-- [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)
+### 名盤
+- [Oneohtrix Point Never – *Replica* (2011)](https://amzn.to/3W29tJz)  
+- [Tim Hecker – *Virgins* (2013)](https://amzn.to/3VrREDB)  
+- [Holly Herndon – *Platform* (2015)](https://amzn.to/3W1lCyj)  
 
 ---
 
-## Recommended 10 selections
+## おすすめ10選
 
-| Artist | Track | Year |
+| アーティスト | トラック | 年 |
 |--------------|----------|----|
 | Oneohtrix Point Never | Replica | 2011 |
 | Tim Hecker | Virgins | 2013 |
@@ -239,9 +231,9 @@ color: #fff;
 
 ---
 
-## 2020s: AI and post-digital era
-- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are underway. Noise and experimental music once again intersect with the club scene.
-- **Equipment:** AI generation tools (RAVE, Magenta Studio), Eurorack, modular synth + machine learning algorithm.
+## 2020s：AIとポスト・デジタルの時代
+- **背景:** AI作曲、アルゴリズミック音楽、VR/AR空間での没入型体験が進行中。ノイズや実験音楽が再びクラブシーンと交錯。  
+- **機材:** AI生成ツール（RAVE, Magenta Studio）、Eurorack、モジュラーシンセ＋機械学習アルゴリズム。  
 
 ### Masterpiece
 - [Holly Herndon – *PROTO* (2019, AI vocal chorus)](https://amzn.to/4nhKdv3)
@@ -271,5 +263,5 @@ Experimental music has always continued to expand the boundaries of music. Start
 
 The essence of experimental music is unpredictability and a spirit of exploration. Even outside of commercial music, its influence pervades rock, club music, contemporary music, and pop, making it a force to be reckoned with.
 
-In the future, even the concept of "music" may change due to the fusion of AI, brain wave interfaces, and VR/AR.
+In the future, even the concept of "music" may change due to the fusion of AI, brain wave interfaces, and VR/AR.  
 **Experimental music is a mirror that predicts the future, and will continue to present "new horizons of sound" to both listeners and creators. **

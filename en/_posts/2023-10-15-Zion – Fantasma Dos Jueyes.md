@@ -19,15 +19,16 @@ Zion & Lennox was a group that emerged during the golden age of reggaeton, along
 The B-side features Puerto Rican salsa singer Domingo Quiñones.
 
 #### Tracklist
-```md
+"""md
 A1. Fantasma (Main)
 
 A2. Fantasma (Instrumental)
 
 A3. Fantasma (Acappella)
 
-B1. Dos Jueyes (Main)
-```
+B1. Dos Jews (Main)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
+
 

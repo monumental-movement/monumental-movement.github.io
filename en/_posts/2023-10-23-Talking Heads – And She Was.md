@@ -18,11 +18,11 @@ title: Talking Heads – And She Was
 The jacket is by American artist Howard Finster.
 
 #### Tracklist
-```md
-A. And She Was
+"""md
+A.And She Was
 
 B. And She Was (E.T. Version)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
 

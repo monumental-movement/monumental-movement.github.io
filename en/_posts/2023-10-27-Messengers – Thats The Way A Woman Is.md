@@ -15,13 +15,12 @@ title: Messengers – That's The Way A Woman Is
 
 Messengers was an American pop rock band that was active from 1962 to 1972. That's The Way A Woman Is is a representative song by Messengers released in 1971.
 
-
 #### Tracklist
-```md
-A. That's The Way A Woman Is (気になる女の子)
+"""md
+A. That's The Way A Woman Is
 
-B. The Letter (あの娘のレター)
-```
+B. The Letter
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
 

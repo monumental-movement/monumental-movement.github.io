@@ -18,18 +18,18 @@ title: Plastikman – Musik
 An album released by Richie Hawtin under the alias Plastikman on the NovaMute label in 1994. This is Richie Hawtin's third studio album and second under his Plastikman name.
 
 #### Tracklist
-```md
-1. Konception
-2. Plastique
-3. Kriket
-4. Fuk
-5. Outbak
-6. Ethnik
+"""md
+1.Conception
+2.Plastique
+3.Kriket
+4.Fuk
+5.Outback
+6.Ethnik
 7. Plasmatik
 8. Goo
-9. Marbles
+9.Marbles
 10. Lasttrak
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
 

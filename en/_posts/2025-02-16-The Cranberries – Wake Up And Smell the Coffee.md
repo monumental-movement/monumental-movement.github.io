@@ -18,17 +18,17 @@ The Cranberries are an Irish alternative rock band formed in 1989. Their style i
 "Wake Up and Smell the Coffee" is The Cranberries' fifth studio album, released in 2001, and their last album before a six-year hiatus. It became a huge hit all over the world.
 
 #### Tracklist
-```md
+"""md
 1. Never Grow Old
-2. Analyse
+2. Analyze
 3. Time Is Ticking Out
 4. Dying Inside
 5. This Is The Day
-6. The Concept
+6.The Concept
 7. Wake Up And Smell The Coffee
 8. Pretty Eyes
 9. I Really Hope
-10. Every Morning
+10.Every Morning
 11. Do You Know
 12. Carry On
 13. Chocolate Brown
@@ -36,7 +36,7 @@ The Cranberries are an Irish alternative rock band formed in 1989. Their style i
 Bonus Tracks
 14. Salvation (Live In Paris)
 15. In The Ghetto
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 

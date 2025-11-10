@@ -23,7 +23,7 @@ The core members are KK.Null, who is also known for his solo activities, and Mit
 
 After a long hiatus, they reunited in 2007 and resumed their activities in 2009.
 
-Tatsuya Yoshida, who was one of the original members, joined on drums. Since Mitsuru Tabata left the group in 2012, they are currently active as a duo.
+Tatsuya Yoshida, who was one of the original members, joined as a drummer. Mitsuru Tabata left the group in 2012, so they are currently active as a duo.
 
 current members
 
@@ -31,28 +31,29 @@ KK.Null – vocals, guitar
 Tatsuya Yoshida – drums, vocals
 
 #### Tracklist
-```md
-A1. Stigma = スティグマ
+"""md
+A1. Stigma = stigma
 
-A2. Dead Sun Rising = デッドサンライジング
+A2. Dead Sun Rising = Dead Sun Rising
 
-A3. Desire For Agony = 苦痛志向
+A3. Desire For Agony = Pain Orientation
 
-A4. Heathern Blood = ヒーズンブラッド
+A4. Heathern Blood
 
-A5. Disgraceland = ディスグレイスランド
+A5. Disgraceland = Disgraceland
 
-B1. Whiteout = ホワイトアウト
+B1. Whiteout = Whiteout
 
-B2. Love Bite = ラヴバイト
+B2. Love Bite
 
-B3. Autopsy Love = オートプシィラブ
+B3. Autopsy Love = Autopsy Love
 
-B4. The Body = ザ ボディー
-```
+B4. The Body = The Body
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 

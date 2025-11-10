@@ -17,9 +17,9 @@ title: Snap! – World Power
 The debut album by German Eurodance project Snap!, released by Logic Records in 1990. Snap!'s masterpiece, which includes the hit songs "The Power," "Ooops Up," and "Mary Had A Little Boy."
 
 #### Tracklist
-```md
-1. The Power
-2. Ooops Up
+"""md
+1.The Power
+2.Ooops Up
 3. Cult Of Sna
 4. Believe The Hype
 5. I'm Gonna Get You (To Whom It May Concern)
@@ -28,7 +28,7 @@ The debut album by German Eurodance project Snap!, released by Logic Records in 
 8. Blasé Blasé
 9. Only Human
 10. The Power (Jungle Fever Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30191324819?afid=6142608987){: .button1}
 

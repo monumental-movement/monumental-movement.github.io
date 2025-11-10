@@ -21,7 +21,7 @@ Both the A and B sides include remixes by Spanish musician and DJ Jesse Garcia.
 "Seasons Of Jack" is a house electro track released by UK-based label Boss Records in 2007.
 
 #### Tracklist
-```md
+"""md
 A1. Seasons Of Jack (Original Mix)
 
 A2. Seasons Of Jack (Jesse Garcia Piano Mix)
@@ -29,7 +29,7 @@ A2. Seasons Of Jack (Jesse Garcia Piano Mix)
 B1. Seasons Of Jack (Jesse Garcia Electro Mix)
 
 B2. Seasons Of Jack (DJ Tool)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24953586497?afid=6142608987){: .button1}
 

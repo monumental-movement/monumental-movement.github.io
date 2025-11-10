@@ -19,25 +19,25 @@ The album includes Depeche Mode's most famous songs, including "People Are Peopl
 Some Great Reward was an important milestone in Depeche Mode's career, marking the evolution of their musical style and themes. It features a sound that incorporates elements of post-punk, new wave, and electronic music, and lyrics that address social issues at the time of its release.
 
 #### Tracklist
-```md
+"""md
 A1. Something To Do
 
-A2. Lie To Me
+A2. Lie to Me
 
-A3. People Are People
+A3.People Are People
 
 A4. It Doesn't Matter
 
-A5. Stories Of Old
+A5.Stories Of Old
 
-B1. Somebody
+B1.Somebody
 
 B2. Master And Servant
 
-B3. If You Want
+B3.If You Want
 
-B4. Blasphemous Rumours
-```
+B4. Blasphemous Rumors
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
 

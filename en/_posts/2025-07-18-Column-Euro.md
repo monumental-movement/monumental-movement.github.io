@@ -16,17 +16,14 @@ title: '[Column] What was 90s Euro music? ──A feast of dance floors and melo
 
 Text: mmr｜Theme: The whole picture of Euro music culture in the 90s
 
-
-
 <hr>
 
 ### What is the true identity of the music called Euro?
 
 The ""Euro Music'' of the 1990s was not a specific genre, but rather a general term for popular dance-pop music that developed mainly in continental Europe.
-The most iconic of these were ""Eurobeat" and ""Eurodance," but other genres such as Eurotrance, high energy, and synth pop were also running at the same time.
+The most iconic of these were ""Eurobeat'' and ""Eurodance,'' but other genres such as Eurotrance, high energy, and synth pop were also running at the same time.
 
 In other words, the Euro of the 1990s was the ""pop image of modern Europe'' that fused party culture, dance music, catchy melodies, and technology.
-
 
 <hr>
 
@@ -34,48 +31,47 @@ In other words, the Euro of the 1990s was the ""pop image of modern Europe'' tha
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Genre</th>
-<th>Features</th>
-<th>Representative artist</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Euro dance</td>
-<td>Four beat, rap + female vocals, flashy melody</td>
-<td>2 Unlimited / La Bouche</td>
-</tr>
-<tr>
-<td>Eurobeat</td>
-<td>High-speed BPM, mainly synthesizer, mainly produced in Italy, popular in Japan</td>
-<td>Dave Rodgers / Domino</td>
-</tr>
-<tr>
-<td>Eurotrans</td>
-<td>Simplified version of trance, melodious, pop-oriented</td>
-<td>DJ Quicksilver / Sash!</td>
-</tr>
-<tr>
-<td>High energy</td>
-<td>Gay club origins, flashy beats, continued from the late 1980s</td>
-<td>Patrick Cowley / Hazell Dean</td>
-</tr>
-<tr>
-<td>Italo Dance</td>
-<td>Dance pop from Italy, fusion with Eurodance</td>
-<td>Eiffel 65 / Prezioso</td>
-</tr>
-<tr>
-<td>Europop</td>
-<td>Mainly pop music, with R&B and Latin elements introduced</td>
-<td>Ace of Base / Roxette</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Genre</th>
+      <th>Features</th>
+      <th>Representative artist</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Euro dance</td>
+      <td>Four beat, rap + female vocals, flashy melody</td>
+      <td>2 Unlimited / La Bouche</td>
+    </tr>
+    <tr>
+      <td>Eurobeat</td>
+      <td>High-speed BPM, mainly synthesizer, mainly produced in Italy, popular in Japan</td>
+      <td>Dave Rodgers / Domino</td>
+    </tr>
+    <tr>
+      <td>Eurotrans</td>
+      <td>Simplified version of trance, melodious, pop-oriented</td>
+      <td>DJ Quicksilver / Sash!</td>
+    </tr>
+    <tr>
+      <td>High energy</td>
+      <td>Gay club origins, flashy beats, continued from the late 1980s</td>
+      <td>Patrick Cowley / Hazell Dean</td>
+    </tr>
+    <tr>
+      <td>Italo Dance</td>
+      <td>Dance pop from Italy, fusion with Eurodance</td>
+      <td>Eiffel 65 / Prezioso</td>
+    </tr>
+    <tr>
+      <td>Europop</td>
+      <td>Mainly pop music, with R&B and Latin elements introduced</td>
+      <td>Ace of Base / Roxette</td>
+    </tr>
+  </tbody>
 </table>
 </div>
-
 
 <hr>
 
@@ -84,7 +80,6 @@ In other words, the Euro of the 1990s was the ""pop image of modern Europe'' tha
 After the fall of the Berlin Wall in 1989, Europe rapidly transformed into a cross-border entertainment market. "Euro-pop sung in English" began to enter the international market even from non-English-speaking countries (such as Germany, the Netherlands, Italy, and Sweden).
 
 This means that Euromusic is a musical culture that prioritizes sensory pleasure over political boundaries. Rhythm, synths, and a simple, repeatable chorus. These have become a "common language" that transcends languages ​​and borders.
-
 
 <hr>
 
@@ -140,7 +135,6 @@ A series developed independently in Japan by Avex. Also linked to Initial D cult
 
 Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGHT)
 
-
 <hr>
 
 ### Acceptance of the 90's Euro in Japan
@@ -159,7 +153,6 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 - It was also incorporated into anime OPs and game BGM, creating a "non-Western Euro culture."
 
-
 <hr>
 
 ### Why did the critics ignore it? ──"Lightness" and "Anti-art"
@@ -174,7 +167,6 @@ Euro music was not well received by critics for a long time. The reason is as fo
 
 However, on the other hand, it also proves that music can reach anyone.
 
-
 <hr>
 
 ### Reappraisal and Revival: The Situation in the 2020s and Beyond
@@ -187,9 +179,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-In addition, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
-
-
+Additionally, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
 
 <hr>
 
@@ -204,88 +194,87 @@ Is it nostalgia or newness for you?
 
 <hr>
 
-
 <hr>
 
 ### List
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist</th>
-<th>Title</th>
-<th>Format</th>
-<th>Age/Characteristics</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Rednex</td>
-<td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
-<td>12″</td>
-<td>Swedish euro house/synth pop</td>
-</tr>
-<tr>
-<td>Masterboy</td>
-<td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
-<td>CD</td>
-<td>1994 German Eurodance Masterpiece</td>
-</tr>
-<tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
-<td>CD</td>
-<td>90s not for sale compilation</td>
-</tr>
-<tr>
-<td>Various</td>
-<td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
-<td>Vinyl</td>
-<td>90s famous track compilation</td>
-</tr>
-<tr>
-<td>MDC‑X‑Static</td>
-<td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
-<td>Vinyl</td>
-<td>90s Club Hit EP</td>
-</tr>
-<tr>
-<td>Ziggy</td>
-<td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
-<td>Vinyl</td>
-<td>90s Eurobeat/Hi-NRG Rare Edition</td>
-</tr>
-<tr>
-<td>Dr. Baker</td>
-<td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
-<td>Vinyl</td>
-<td>1990 UK release/Euro House</td>
-</tr>
-<tr>
-<td>Tam Arrow</td>
-<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
-<td>Vinyl</td>
-<td>Made in Italy 2001 Euro Beat EP</td>
-</tr>
-<tr>
-<td>Dao Dezi</td>
-<td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
-<td>12″</td>
-<td>"94 deep Euro house release</td>
-</tr>
-<tr>
-<td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
-<td>CD</td>
-<td>1997 hit "Turn Me On" included</td>
-</tr>
-<tr>
-<td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
-<td>Vinyl</td>
-<td>90s classic single</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Artist</th>
+      <th>Title</th>
+      <th>Format</th>
+      <th>Age/Characteristics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rednex</td>
+      <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
+      <td>12″</td>
+      <td>Swedish euro house/synth pop</td>
+    </tr>
+    <tr>
+      <td>Masterboy</td>
+      <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
+      <td>CD</td>
+      <td>1994 German Eurodance Masterpiece</td>
+    </tr>
+    <tr>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
+      <td>CD</td>
+      <td>90s not for sale compilation</td>
+    </tr>
+    <tr>
+      <td>Various</td>
+      <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
+      <td>Vinyl</td>
+      <td>90s famous track compilation</td>
+    </tr>
+    <tr>
+      <td>MDC‑X‑Static</td>
+      <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
+      <td>Vinyl</td>
+      <td>90s Club Hit EP</td>
+    </tr>
+    <tr>
+      <td>Ziggy</td>
+      <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
+      <td>Vinyl</td>
+      <td>90s Eurobeat/Hi-NRG Rare Edition</td>
+    </tr>
+    <tr>
+      <td>Dr. Baker</td>
+      <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
+      <td>Vinyl</td>
+      <td>1990 UK release/Euro House</td>
+    </tr>
+    <tr>
+      <td>Tam Arrow</td>
+      <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
+      <td>Vinyl</td>
+      <td>Made in Italy 2001 Euro Beat EP</td>
+    </tr>
+    <tr>
+      <td>Dao Dezi</td>
+      <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
+      <td>12″</td>
+      <td>"94 deep Euro house release</td>
+    </tr>
+    <tr>
+      <td>E-Rotic</td>
+      <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
+      <td>CD</td>
+      <td>1997 hit "Turn Me On" included</td>
+    </tr>
+    <tr>
+      <td>E-Rotic</td>
+      <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
+      <td>Vinyl</td>
+      <td>90s classic single</td>
+    </tr>
+  </tbody>
 </table>
 </div>

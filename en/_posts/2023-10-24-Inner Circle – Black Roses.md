@@ -18,18 +18,18 @@ Inner Circle, also known as The Inner Circle Band or The Bad Boys of Reggae, is 
 "Bad Boys", included on this CD, became a worldwide hit and is also famous as the theme song for the American TV program COPS.
 
 #### Tracklist
-```md
+"""md
 1. Man Standing On The Corner
 2. One Vibe
-3. Black Roses
+3.Black Roses
 4. No Stopping Us Now
 5. Freedom Street
 6. Goodbye Baby
-7. Bass Line
+7.Bass Line
 8. Fallin In Love
 9. Picture On The Wall
 10. Bad Boys
-```
+""""
 [Purchase on Mercari](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
 
 #### Youtube

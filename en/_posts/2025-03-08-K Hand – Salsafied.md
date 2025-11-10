@@ -19,9 +19,8 @@ In 2016, he received the Spirit of Detroit Award along with other electronic mus
 
 "Salsafied" is a tech house album released in 2000 by the German label Ausfahrt.
 
-
 #### Tracklist
-```md
+"""md
 1. Be Right There (Orig)
 2. So Special
 3. I Don't Know Why
@@ -31,10 +30,10 @@ In 2016, he received the Spirit of Detroit Award along with other electronic mus
 7. Rock U (12" Mix)
 8. Been Set Free
 9. Sunday Morning
-10. The Message
+10.The Message
 11. The Whistle
 12. You Don't Know Me
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 

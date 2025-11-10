@@ -21,13 +21,13 @@ Blending elements of pop music and dance music, it not only makes listeners danc
 As you can see from the song text and title, Snap! is about building a kind of "cult" or community of fans, and this meaning is reflected throughout the song.
 
 #### Tracklist
-```md
-A  Cult Of Snap (World Power Mix)
+"""md
+A Cult Of Snap (World Power Mix)
 
-B1  Cult Of Snap (Ibiza '90 Mix)
+B1 Cult Of Snap (Ibiza '90 Mix)
 
-B2  Cult Of Snap (Album Version)
-```
+B2 Cult Of Snap (Album Version)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38660958622?afid=6142608987){: .button1}
 

@@ -16,14 +16,14 @@ title: John Tejada – Daydreams In Cold Weather
 This is a double LP by John Tejada released in 2002 by the UK label "Plug Research".
 
 #### Tracklist
-```md
+"""md
 A1. To The West
 
 A2. Stop The Mechanism
 
-A3. Creat Fixate
+A3.Create Fixate
 
-B4. Shifted
+B4.Shifted
 
 B5. Young
 
@@ -40,7 +40,7 @@ D10. The Silence Of Us
 D11. In Coach5:06
 
 D12. Some Would Know Why
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
 

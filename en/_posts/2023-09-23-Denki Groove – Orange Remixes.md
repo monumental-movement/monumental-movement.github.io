@@ -12,12 +12,12 @@ title: Denki Groove – Orange Remixes
 ---
 
 
-"ORANGE REMIXES" contains remixed versions of songs from Denki Groove"s album "ORANGE" (1998) by other artists and producers. The remixer includes the participation of famous domestic and international artists and creators, and contains songs that add new interpretations and arrangements to Denki Groove"s music.
+"ORANGE REMIXES" contains remixed versions of songs from Denki Groove's album "ORANGE" (1998) by other artists and producers. The remixer includes the participation of famous domestic and international artists and creators, and contains songs that add new interpretations and arrangements to Denki Groove's music.
 
 Covering genres such as electronic music, techno, house, and ambient, you can enjoy a variety of musical styles and approaches. Remixers take Denki Groove's original songs even further by injecting their own ideas and sounds.
 
 #### Tracklist
-```md
+"""md
 A1. Scorpion (Omoide Hatoba Remix)
 
 Music By – Yoshinori Sunahara
@@ -37,7 +37,7 @@ Remix – Green Velvet
 B2. Repetition Side Step (Original Mix)
 
 Music By – Takkyu Ishino
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
 

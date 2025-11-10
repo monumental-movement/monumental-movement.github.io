@@ -13,7 +13,7 @@ title: Jiro's –Peace Peace
 ---
 
 
-"Jiro"s - Peace Peace - Children Who Don"t Know About War" was released in 1971.
+"Jiro's - Peace Peace - Children Who Don't Know About War" was released in 1971.
 
 Arrangement: Shunichi Makaino
 
@@ -24,11 +24,11 @@ Composer: Jiro Sugita
 Song: Jirose
 
 #### Tracklist
-```md
-A. 戦争を知らない子供たち = Peace Peace
+"""md
+A. Children who don't know about war = Peace Peace
 
-B. 愛とあなたのために = For The Love & You
-```
+B. For The Love & You
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15281959770?afid=6142608987){: .button1}
 

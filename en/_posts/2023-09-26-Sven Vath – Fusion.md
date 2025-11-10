@@ -19,8 +19,8 @@ title: Sven Vath – Fusion
 The album features original tracks and remixes that reflect their unique style and talent. His DJ skills and production abilities combine to create a unique and dynamic world of techno music.
 
 #### Tracklist
-```md
-1. Fusion
+"""md
+1.Fusion
 
 2. Discophon
 
@@ -39,7 +39,7 @@ The album features original tracks and remixes that reflect their unique style a
 9. Sounds Control Your Mind
 
 10. Blue Spliff
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
 

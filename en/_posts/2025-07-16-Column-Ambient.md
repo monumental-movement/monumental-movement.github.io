@@ -36,7 +36,6 @@ It was British musician Brian Eno who defined the term ambient as a musical genr
 
 In other words, ambient music is not background music, but it functions like background music. **It is "spatial art" that flows in the background of consciousness**.
 
-
 <hr>
 
 ### Genealogy and origins of ambient
@@ -83,49 +82,47 @@ Expanding into video works, contemporary art, yoga, meditation, game music, and 
 
 Spotify's "chill" and "lo-fi" playlists are also affected.
 
-
 <hr>
 
 ### Architecture of sound without contours
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>element</th>
-<th>Contents</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Melody</td>
-<td>Minimal. Often has a drone-like, floating feel. </td>
-</tr>
-<tr>
-<td>Rhythm</td>
-<td>Basically absent. Even if it is, it is minimal and hard to notice. </td>
-</tr>
-<tr>
-<td>Acoustic processing</td>
-<td>Reverb, delay, loop, filter, etc. Spatialization of sound. </td>
-</tr>
-<tr>
-<td>Structure</td>
-<td>There is no clear beginning, development, development, conclusion, and the timeline is ambiguous. </td>
-</tr>
-<tr>
-<td>Sound source</td>
-<td>Synths, field recordings, instrument sampling, noise, etc. </td>
-</tr>
-<tr>
-<td>Listening attitude</td>
-<td>Both active concentration and passive absorption are allowed. </td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>element</th>
+      <th>Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Melody</td>
+      <td>Minimal. Often has a drone-like, floating feel. </td>
+    </tr>
+    <tr>
+      <td>Rhythm</td>
+      <td>Basically absent. Even if it is, it is minimal and hard to notice. </td>
+    </tr>
+    <tr>
+      <td>Acoustic processing</td>
+      <td>Reverb, delay, loop, filter, etc. Spatialization of sound. </td>
+    </tr>
+    <tr>
+      <td>Structure</td>
+      <td>There is no clear beginning, development, development, conclusion, and the timeline is ambiguous. </td>
+    </tr>
+    <tr>
+      <td>Sound source</td>
+      <td>Synths, field recordings, instrument sampling, noise, etc. </td>
+    </tr>
+    <tr>
+      <td>Listening attitude</td>
+      <td>Both active concentration and passive absorption are allowed. </td>
+    </tr>
+  </tbody>
 </table>
 </div>
 <br>
-
 
 <hr>
 
@@ -161,13 +158,11 @@ Ambient music for relaxation and meditation.
 
 [Enya](https://amzn.to/46vL0Bg), [Steve Roach](https://amzn.to/3VrnzEa), [Laraaji](https://amzn.to/42KqUSB), etc.
 
-
-
 <hr>
 
 ### Ambient is spatial art
 
-Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
+Ambient music is not just background music, it is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -187,7 +182,6 @@ Using field recordings and natural sounds, he aims to fuse man-made and natural.
 
 Strongly connected to modern mental health/meditation/slow tech.
 
-
 <hr>
 
 ### The role of ambient in modern times
@@ -197,7 +191,6 @@ Strongly connected to modern mental health/meditation/slow tech.
 **ASMR/Meditation/Stress Relief**: Also used in the mental health and wellness industries.
 
 Fusion with NFT art and generative music is also underway.
-
 
 <hr>
 
@@ -213,67 +206,66 @@ It is a sound that transcends the framework of music and enters the silence amid
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist/Title</th>
-<th>era</th>
-<th>Format</th>
-<th>Genre/Features</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
-<td>2012</td>
-<td>Limited Vinyl</td>
-<td>Ambient Techno, dope soundscape</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
-<td>1996</td>
-<td>2LP Vinyl</td>
-<td>90s ambient masterpiece with IDM/techno leaning</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
-<td>1996</td>
-<td>12″</td>
-<td>Trance ambient</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
-<td>1997</td>
-<td>12"</td>
-<td>Experimental trip hop/ambient</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
-<td>2023</td>
-<td>Vinyl EP</td>
-<td>Chillout Balearic</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
-<td>2004</td>
-<td>Vinyl</td>
-<td>Minimal Ambient</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
-<td>1994</td>
-<td>2LP Vinyl</td>
-<td>Fusion sound of ambient x dub x jazz etc.</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
-<td>1992</td>
-<td>CD</td>
-<td>World Ambient/Downtempo</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Artist/Title</th>
+      <th>era</th>
+      <th>Format</th>
+      <th>Genre/Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
+      <td>2012</td>
+      <td>Limited Vinyl</td>
+      <td>Ambient Techno, dope soundscape</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
+      <td>1996</td>
+      <td>2LP Vinyl</td>
+      <td>90s ambient masterpiece with IDM/techno leaning</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
+      <td>1996</td>
+      <td>12″</td>
+      <td>Trance ambient</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
+      <td>1997</td>
+      <td>12"</td>
+      <td>Experimental trip hop/ambient</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
+      <td>2023</td>
+      <td>Vinyl EP</td>
+      <td>Chillout Balearic</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
+      <td>2004</td>
+      <td>Vinyl</td>
+      <td>Minimal Ambient</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
+      <td>1994</td>
+      <td>2LP Vinyl</td>
+      <td>Fusion sound of ambient x dub x jazz etc.</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
+      <td>1992</td>
+      <td>CD</td>
+      <td>World Ambient/Downtempo</td>
+    </tr>
+  </tbody>
 </table>
 </div>
-
 
 ---
 

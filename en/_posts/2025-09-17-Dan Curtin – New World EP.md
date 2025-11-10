@@ -24,7 +24,7 @@ D1 is a remix by Dutch legend Orlando Voorn.
 D2 is a remix by British techno musician Dave Angel.
 
 #### Tracklist
-```md
+"""md
 A1. New World
 A2 Page Me
 
@@ -35,7 +35,7 @@ C. I'll Take You There (Latin Odyssey Mix)
 
 D1. Page Me (Orlando Voorn Mix)
 D2. Sword Of Orion (Dave Angel Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
 

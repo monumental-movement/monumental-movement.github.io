@@ -12,12 +12,12 @@ title: Wu-Tang Clan – C.R.E.A.M.
 ---
 
 
-This song appears on Wu-Tang Clan"s debut studio album, Enter the Wu-Tang (36 Chambers), released in 1993. "C.R.E.A.M." is one of Wu-Tang Clan"s most iconic and influential songs.
+This song appears on Wu-Tang Clan's debut studio album, Enter the Wu-Tang (36 Chambers), released in 1993. "C.R.E.A.M." is one of Wu-Tang Clan's most iconic and influential songs.
 
-Known for its addictive production and introspective lyrics, which sample The Charmels" "As Long As I"ve Got You," they reflect on the hardships of living in impoverished neighborhoods and aspirations for financial success.
+Known for its addictive production and introspective lyrics, which sample The Charmels' "As Long As I've Got You," they reflect on the hardships of living in impoverished neighborhoods and aspirations for financial success.
 
 #### Tracklist
-```md
+"""md
 A1. C.R.E.A.M. (Radio Edit)
 
 A2. C.R.E.A.M. (Album Version)
@@ -33,7 +33,7 @@ B2. Da Mystery Of Chessboxin' (Album Version)
 B3. Da Mystery Of Chessboxin' (A Cappella)
 
 B4. Da Mystery Of Chessboxin' (Instrumental)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
 

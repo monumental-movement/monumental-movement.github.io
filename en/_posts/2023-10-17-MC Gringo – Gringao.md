@@ -26,23 +26,23 @@ Track A2: MC Binho
 Track A4: MC Dandão
 
 #### Tracklist
-```md
-A1. Abertura
+"""md
+A1.Abertura
 
 A2. 1 Real
 
-A3. Alemão
+A3.
 
 A4. Pula Com Os Cuecas
 
-B1. Berimbal
+B1.
 
 B2. Dança Do Gringo
 
 B3. Perninha Depilada
 
 B4. Arrastão (Euromix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51413253146?afid=6142608987){: .button1}
 

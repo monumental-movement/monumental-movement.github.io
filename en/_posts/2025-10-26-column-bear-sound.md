@@ -14,7 +14,6 @@ title: '[Column] Expansion of bear damage and impact of sound'
 
 ## 1. Introduction: Current status of bear damage and the importance of sound
 
-
 Text: mmr | Theme: An analysis of the damage caused by bears, which has been increasing in recent years, from the perspective of the impact of noise and behavior control. Examining the role of sound design in the coexistence of humans and bears
 
 In recent years, damage caused by bears has been rapidly increasing in Japan. There are approximately 1,000 cases of crop damage per year, and human damage has approximately doubled in the past 10 years (Ministry of the Environment's ""Wild Animal Damage Statistics 2024''). The physical measures taken so far are not sufficient, and sustainable damage control methods are required.
@@ -36,12 +35,11 @@ color: #fff;
 }
 </style>
 
-
 ## 2. Ecology and behavioral characteristics of bears
 
 ### 2.1 Main bear species and distribution
 
-- **Asia black bear (Ursus thibetanus)**: Found in Honshu, Shikoku, and Kyushu, body length 120–150 cm, good at arboreal behavior, omnivorous.
+- **Asia black bear (Ursus thibetanus)**: Found in Honshu, Shikoku, and Kyushu, body length 120–150 cm, good at arboreal behavior, omnivorous.  
 - **Brown bear (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm long, large, also consumes fish and small animals.
 
 Both species are nocturnal, but daytime activity can also be seen during the spring and fall hunting seasons.
@@ -62,9 +60,7 @@ A["Frequency Band"] --> B["Human Voice: 250–4000Hz"]
 A --> C["Warning tone: 1000–8000Hz"]
 A --> D["Natural sounds: low to high frequencies"]
 
-
 </div>
-
 
 ---
 
@@ -155,7 +151,7 @@ Sound generation according to behavioral patterns using AI analysis. Cover a wid
 
 ### 6.2 International cases
 
-- **California, USA**: Intrusion prevention using electronic sounds and human voices
+- **California, USA**: Intrusion prevention using electronic sounds and human voice
 
 - **BC, Canada**: Non-lethal acoustic management reduces crop damage
 
@@ -175,7 +171,7 @@ Sound countermeasures are non-lethal and effective
 
 The increasing damage caused by bears is not just a problem for wild animals, but also a mirror of structural changes in human society. Distortions in the environment that we ourselves have created, such as depopulation, climate change, and unbalanced forest use, are driving bears out of the mountains and into villages. In this reality, damage control through sound is extremely suggestive as ""a medium for redesigning the relationship between humans and animals.'' Sound is non-lethal and can adjust behavior through fear and learning. In other words, it is control through "resonance" rather than violence, and it can be an ethically sustainable option.
 
-The challenge for the future is to evolve it into an ""acoustic landscape design" that incorporates local environmental sounds and the sounds of human life, rather than just a threatening sound. When the behavioral patterns of bears learned by AI are combined with the local sound culture and seasonal rhythms, sound will go beyond a warning and become an ""interface for coexistence." Sound policy that combines scientific knowledge and cultural sensitivity is the key to shaping the future of humans and the wild. Communicating with sound, maintaining distance, and restoring harmony to the entire biosphere—this can be called the next era's "environmental ethics of sound."
+The challenge for the future is to evolve it into an ""acoustic landscape design'' that incorporates local environmental sounds and the sounds of human life, rather than just a threatening sound. When the behavioral patterns of bears learned by AI are combined with the local sound culture and seasonal rhythms, sound will go beyond a warning and become an ""interface for coexistence.'' Sound policy that combines scientific knowledge and cultural sensitivity is the key to shaping the future of humans and the wild. Communicating with sound, maintaining distance, and restoring harmony to the entire biosphere—this can be called the next era's "environmental ethics of sound."
 
 ---
 
@@ -184,12 +180,12 @@ The challenge for the future is to evolve it into an ""acoustic landscape design
 <div class="mermaid">
 
 timeline
-title Sound usage examples
-2002: Hokkaido farmers test whistles and firecrackers
-2010: Introduction of AI speaker test (Tohoku)
-2015 : High frequency electronic sound trial (Kyushu)
-2020: Drone acoustic patrol system introduced (Hokkaido)
-2025: Expand demonstration experiments in local governments nationwide
+    title Sound usage examples
+    2002: Hokkaido farmers test whistles and firecrackers
+    2010: Introduction of AI speaker test (Tohoku)
+    2015 : High frequency electronic sound trial (Kyushu)
+    2020: Drone acoustic patrol system introduced (Hokkaido)
+    2025: Expand demonstration experiments in local governments nationwide
 
 </div>
 

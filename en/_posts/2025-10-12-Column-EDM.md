@@ -15,15 +15,14 @@ title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital 
 ---
 
 
-## There is a moment when sound becomes architecture
+## 音が建築になる瞬間がある
 
+文：mmr｜テーマ：フェスと都市、音と光、群衆とテクノロジー。EDMという現象は、21世紀の祝祭の形をどう変えたのか。
 
-Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
-
-A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
-The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
-In the 2010s, cities around the world were reshaped by the sound. The desert of Las Vegas, the forests of Belgium, the bay of Tokyo.
-In this column, we will take a look at EDM's birth, transformation, and "beyond" from the intersection of sound, light, the body, and technology.
+レーザーの閃光が夜空を裂き、ベースが身体の奥を震わせ、無数の腕が一斉に上がる。  
+「EDM」と呼ばれたその現象は、単なる音楽ジャンルではなく、**デジタル時代の祝祭の形**だった。  
+2010年代、世界中の都市がその音で再構築された。ラスベガスの砂漠も、ベルギーの森も、東京の湾岸も。  
+このコラムでは、EDMの誕生から変容、そして“その先”を、**音・光・身体・テクノロジー**の交点から見つめ直す。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -42,143 +41,142 @@ color: #fff;
 }
 </style>
 
+### Ⅰ. 光と音の建築物としてのEDM
 
-### Ⅰ. EDM as a building of light and sound
+それはクラブの延長ではなく、**都市そのものの再設計**だった。  
+数十万人が同時にジャンプする。ステージはまるで未来都市のゲート。  
+EDMは、21世紀の「祝祭建築」だったのだ。  
 
-It was not an extension of the club, but a redesign of the city itself.
-Hundreds of thousands of people jump at the same time. The stage is like the gate of a futuristic city.
-EDM was the ""festival architecture'' of the 21st century.
-
-Originally, the word EDM was more of a marketing term than a genre name.
-However, that ambiguity was a symbol of the times.
-It didn't matter if it was house, techno, or trance—what was important was the experience.
-Everyone has at least once believed in the illusion that one sound can shake the world.
+もともとEDMという言葉は、ジャンル名というよりマーケティング用語だった。  
+しかし、その曖昧さこそが時代を象徴していた。  
+ハウスでもテクノでもトランスでもいい——重要なのは「体験」だった。  
+一音が世界を揺らす、そんな錯覚を誰もが一度は信じた。
 
 ---
 
-### Ⅱ. Origin: From Chicago to Las Vegas
+### Ⅱ. 起源：シカゴからラスベガスへ
 
-The origin of the story is in Chicago's ""Warehouse'' in the 1970s.
-Frankie Knuckles' play turned the club into a community.
-In the 1980s, techno was born in Detroit, and electronic sounds began to tell the story of the future.
+物語の原点は1970年代のシカゴ「Warehouse」にある。  
+フランキー・ナックルズのプレイが、クラブという空間を共同体へと変えた。  
+80年代、デトロイトではテクノが生まれ、電子音が未来を語り始める。  
 
-Eventually, in the late 2000s, European club culture was "re-imported" to America.
-"Levels" by Avicii, "Don"t You Worry Child" by Swedish House Mafia, "Titanium" by David Guetta.
-They weren't just songs, they were a "language of light."
-In the 2010s, EDM rose to the center of pop. Underground dreams turned into arena cheers.
+やがて2000年代後半、ヨーロッパのクラブ・カルチャーがアメリカに“逆輸入”される。  
+Aviciiの《Levels》、Swedish House Mafiaの《Don’t You Worry Child》、David Guettaの《Titanium》。  
+それらは単なる曲ではなく、「光の言語」だった。  
+2010年代、EDMは**ポップの中心**に躍り出る。アンダーグラウンドの夢は、アリーナの歓声に変わった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oAHg2zHfCsk?si=hJI5ruJGYGumfgW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Ⅲ. Evolution of sound design
+### Ⅲ. サウンド・デザインの進化
 
-Behind the sound is a **DAW and synth revolution**.
-Ableton Live, FL Studio, Logic Pro. We live in an era where you can compose music with just a laptop.
-"Massive" by Native Instruments, "Serum" by Xfer, "Sylenth1" by Lennar Digital.
-What these developments resulted in was the ""weaponization of sound.''
+音の背後には、**DAWとシンセの革命**がある。  
+Ableton Live、FL Studio、Logic Pro。ノートPCひとつで作曲ができる時代。  
+Native Instrumentsの「Massive」、Xferの「Serum」、LennarDigitalの「Sylenth1」。  
+それらが生んだのは「音の武装化」だ。  
 
-Especially side chain compression.
-That unique "pumping" that makes the whole body breathe in time with the kick.
-That's the heartbeat of EDM.
-It was the moment when the techniques of club music were extended to the masses.
+特にサイドチェイン・コンプレッション——  
+キックに合わせて全体が呼吸するような、あの独特の“ポンピング”——  
+あれこそEDMの心拍だ。  
+クラブミュージックの技法が、マスへと拡張された瞬間だった。
 
 ---
 
-### Ⅳ. Birth of festival culture
+### Ⅳ. フェスティバル・カルチャーの誕生
 
-Tomorrowland, Ultra, EDC.
-Everyone now knows these three initials.
+Tomorrowland、Ultra、EDC。  
+この3つの頭文字を、いまや誰もが知っている。  
 
-The stage is not just a set, but an **architectural installation**.
-A screen envelops the forest and fireworks weave the sky.
-The audience becomes "particles of light" and the sound and images are synchronized.
-EDM festivals were a new communal ritual created by technology.
+ステージは単なるセットではなく、**建築的インスタレーション**。  
+スクリーンが森を包み込み、花火が空を編み上げる。  
+観客が「光の粒」と化し、音と映像がシンクロする。  
+EDMフェスは、テクノロジーが作り出した新しい**共同体の儀式**だった。  
 
-A sociologist would say this.
-"Democratization of the trance state"——
-We live in an era of pseudo-religious experiences where everyone shares the same heartbeat at the same moment.
+社会学者ならこう言うだろう。  
+「トランス状態の民主化」——  
+誰もが同じ瞬間に心拍を共有する、擬似的な宗教体験の時代。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TT32mIg4oqg?si=VpULWMwV7C5zWKj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Ⅴ. The era of global capital and SNS
+### Ⅴ. グローバル資本とSNSの時代
 
-EDM was accompanied by a "revolution in distribution."
-SoundCloud, YouTube, Beatport.
-DJs from all over the world exchanged sounds with a single click.
+EDMは“流通の革命”とともにあった。  
+SoundCloud、YouTube、Beatport。  
+クリックひとつで世界中のDJが音を交換した。  
 
-In the late 2010s, EDM became a meme.
-The drop is cut on TikTok and the rhythm goes viral like a GIF.
-The Chainsmokers' ""Closer'' is a symbol of this.
-A DJ is both a producer and a **brand**.
-Logos, perfumes, NFTs, headphones—all have become "industries surrounding sound."
+2010年代後半、EDMはミーム化する。  
+ドロップがTikTokで切り取られ、リズムがGIFのように拡散する。  
+The Chainsmokersの《Closer》はその象徴だ。  
+DJはプロデューサーであり、**ブランド**でもある。  
+ロゴ、香水、NFT、ヘッドフォン——すべてが“音の周辺産業”に変わっていった。
 
 ---
 
-### Ⅵ. Branching and mutation: Post-EDM horizon
+### Ⅵ. 分岐と変異：ポストEDMの地平
 
-Eventually, the celebrations start to wear out.
-People tired of the glare of the main stage began to return to dark clubs.
+やがて、祝祭は疲れを見せる。  
+メインステージの眩しさに飽いた人々は、再び暗いクラブへ戻り始めた。  
 
-"Introspective EDM" demonstrated by Porter Robinson and Madeon——
-It wasn't a festival, it was a sound dealing with individual emotions.
-Future Bass, Trap, Tech House, Drumstep.
-Genres are branching out, and the term "EDM" no longer has any meaning.
+Porter RobinsonとMadeonが示した「内省的EDM」——  
+それはフェスではなく、**個の感情を扱う音**だった。  
+Future Bass、Trap、Tech House、Drumstep。  
+ジャンルは枝分かれし、もはや“EDM”という括りは意味を失う。  
 
-However, at the heart of it all was always a **admiration for technology**.
-The resonance between humans and machines, that pleasure, was the essence of EDM.
+しかし、その中心にはいつも**テクノロジーへの憧れ**があった。  
+人間と機械の共鳴、その快楽こそがEDMの本質だった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HQnC1UHBvWA?si=khowiakWOxE7IUvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### VII. EDM acceptance in Japan
+### Ⅶ. 日本におけるEDM受容
 
-EDM took root in Japan in earnest around 2013.
-When ULTRA JAPAN landed and ZEDD and Hardwell came to Japan,
-The sky over the bay was filled with light.
+日本でEDMが本格的に定着したのは2013年前後。  
+ULTRA JAPANが上陸し、ZEDDやHardwellが来日したとき、  
+湾岸の空が光に包まれた。  
 
-In Japan, it was first introduced as a "festival" rather than a club.
-This may have been an expression of their ""desire for community.''
+日本ではクラブよりも「フェス」としての導入が先だった。  
+それはまさに、“共同体への願望”の表れだったのかもしれない。  
 
-Yasutaka Nakata, Perfume, Ado——
-J-POP absorbed the structure of EDM and evolved into a more dramatic and visual sound.
-For the TikTok generation, being able to dance may not be about the body but the movement of the fingertips.
-Light bouncing around digitally, crowds behind smartphones.
-Japanese EDM has taken on a new form: an introverted celebration.
-
----
-
-### VIII. Technology and Spirit: Utopia drawn by machines
-
-We have now entered an era where AI generates music in real time.
-Still, people still seek ""drops.''
-This is because there are moments when your body senses time.
-
-DJs are no longer just "music selectors."
-He is a **manipulating composer** who reads the breathing of the crowd in real time.
-Lighting, VJ, sound, stage configuration—all synchronize as one comprehensive piece of art.
-
-EDM is at the same time a celebration of technology.
-**It was the act of humans using technology to expand their humanity**.
+中田ヤスタカ、Perfume、Ado——  
+J-POPはEDMの構造を吸収し、より劇的で視覚的な音へと進化した。  
+TikTok世代にとって、“踊れる”とは身体ではなく**指先の動作**なのかもしれない。  
+デジタルの中で跳ねる光、スマートフォンの向こうの群衆。  
+日本のEDMは、**内向的な祝祭**という新しい形に辿り着いた。
 
 ---
 
-### Ⅸ. Final chapter: Towards a post-EDM music experience
+### Ⅷ. 技術と精神：マシンが描くユートピア
 
-The term "EDM" may now seem like a relic of the past.
-But its legacy already permeates all genres.
-Pop, hip hop, game music...
-Inherits the aesthetics of drop structure and sound pressure.
+いま、AIがリアルタイムで音楽を生成する時代に入った。  
+それでも人は、依然として「ドロップ」を求める。  
+なぜなら、そこには**身体が時間を感じる瞬間**があるからだ。  
 
-Celebrations from now on will no longer be limited to physical stages.
-Metaverse, AR, virtual DJ.
-The crowd becomes an avatar, and the light flows as a code.
+DJは、もはや“選曲家”ではない。  
+リアルタイムで群衆の呼吸を読む、**操作する作曲家**だ。  
+照明、VJ、音響、ステージ構成——すべてが一つの総合芸術として同期する。  
 
-EDM isn't over.
-It's just changing form.
+EDMはテクノロジーの祝祭であると同時に、  
+**人間がテクノロジーを使って人間性を拡張する行為**だった。
+
+---
+
+### Ⅸ. 終章：EDM以後の音楽体験へ
+
+“EDM”という言葉は、いまや過去の遺物に見えるかもしれない。  
+だがその遺産は、すでにすべてのジャンルに浸透している。  
+ポップも、ヒップホップも、ゲーム音楽も——  
+ドロップ構造と音圧の美学を引き継いでいる。  
+
+これからの祝祭は、もはや物理的なステージに限られない。  
+メタバース、AR、バーチャルDJ。  
+群衆はアバターとなり、光はコードとして流れる。  
+
+EDM isn't over.  
+It's just changing form.  
 **The digital celebration isn't over yet. **
 
 ---
@@ -188,17 +186,15 @@ It's just changing form.
 <div class="mermaid">
 
 flowchart TD
-A1990["1990: Rise of Techno/Trance (expansion of European club scene)"]
-A2000["2000: The budding of Progressive House and Electro House"]
-A2010["2010: EDM boom in full swing (Avicii, Guetta, SHM)"]
-A2013["2013: Ultra Japan, Tomorrowland becomes a symbol"]
-A2016["2016: Introspective EDM by Porter Robinson and others"]
-A2020["2020: The rise of virtual festivals during the pandemic"]
-A2025["2025: AI-generated music and Metaverse DJ fusion"]
+    A1990["1990: Rise of Techno/Trance (expansion of European club scene)"]
+    A2000["2000: The budding of Progressive House and Electro House"]
+    A2010["2010: EDM boom in full swing (Avicii, Guetta, SHM)"]
+    A2013["2013: Ultra Japan, Tomorrowland becomes a symbol"]
+    A2016["2016: Introspective EDM by Porter Robinson and others"]
+    A2020["2020: The rise of virtual festivals during the pandemic"]
+    A2025["2025: AI-generated music and Metaverse DJ fusion"]
 
 A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
-
-
 
 </div>
 
@@ -215,8 +211,6 @@ A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 | Porter Robinson | *Worlds* | 2014 | [Amazon](https://amzn.to/48lgE77) |
 | The Chainsmokers | *Memories...Do Not Open* | 2017 | [Amazon](https://amzn.to/439Jh3x) |
 | Madeon | *Adventure* | 2015 | [Amazon](https://amzn.to/3J7dF7Z) |
-
-
 
 ---
 

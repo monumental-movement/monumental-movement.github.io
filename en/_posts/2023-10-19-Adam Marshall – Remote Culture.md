@@ -17,13 +17,13 @@ Adam Marshall is a Canadian-born DJ/producer and owner of the label New Kanada, 
 "Remote Culture" was released in 2005 on Mike Shannon's Canadian minimal dub deep techno/house label Cynosure.
 
 #### Tracklist
-```md
+"""md
 A. Magnum
 
 B1. Illuminator
 
 B2. Nature Gone
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22710623242?afid=6142608987){: .button1}
 

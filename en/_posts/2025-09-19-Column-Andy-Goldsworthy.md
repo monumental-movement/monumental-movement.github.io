@@ -22,7 +22,6 @@ Andy Goldsworthy (1956-) is a British artist known for his installations and lan
 
 ---
 
-
 <style type="text/css">
 
 table, td, th {
@@ -35,7 +34,6 @@ background-color: #111;
 color: #fff;
 }
 </style>
-
 
 ### Commonalities between Goldsworthy's work and music
 
@@ -94,27 +92,27 @@ color: #fff;
 
 ---
 
-### Structured playlist according to the "flow of time"
+### Playlist organized according to the "flow of time"
 
-#### morning
+#### Morning
 
 - Brian Eno ― *Ambient 1: Music for Airports*
 - Chris Watson ― *Morning at the River*
 - Steve Reich ― *Music for 18 Musicians*
 
-#### noon
+#### Daytime
 
 - Terry Riley ― *In C*
 - Jana Winderen ― *Energy Field*
 - Philip Glass - *Glassworks*
 
-#### evening
+#### Evening
 
 - Harold Budd & Brian Eno - *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
 - Stars of the Lid - *Requiem for Dying Mothers*
 
-#### night
+#### Night
 
 - William Basinski - *The Disintegration Loops*
 - Eliane Radigue - *Trilogie de la Mort*
@@ -131,7 +129,7 @@ color: #fff;
 
 ### Conclusion
 
-Andy Goldsworthy's works have a ""once-in-time" quality that changes and disappears with time and nature. His aesthetic resonates strongly with the ""ambience," ""repetition," and ""silence" of ambient, field recording, and minimal music. By experiencing the two in combination, a ""dialogue with nature'' that crosses the visual and auditory senses is born.
+Andy Goldsworthy's works have a ""once-in-time'' quality that changes and disappears with time and nature. His aesthetic resonates strongly with the ""ambience,'' ""repetition,'' and ""silence'' of ambient, field recording, and minimal music. By experiencing the two in combination, a ""dialogue with nature'' that crosses the visual and auditory senses is born.
 
 ---
 

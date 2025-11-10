@@ -18,19 +18,18 @@ In addition, the electronic "whistle" main hook, the delicate and beautiful litt
 
 Next, there are beautiful organ and piano lines, small hits, and filtered handclap percussion, and then DC provides a killer bassline that paints a rich sonic picture with a "bouncy" texture.
 
-
 #### Tracklist
-```md
+"""md
 A0.01　Limbo Of Vanished Possibilities
 Producer, Mixed By – Derrick Carter, The Innocent
 Written-By – Derrick Carter
 
-B0.01　Limbo Of Vanished Possibilities (Bushwacka! Mix)
+B0.01 Limbo Of Vanished Possibilities (Bushwacka! Mix)
 Engineer – Mathew Bushwaka! B
 Remix – Bushwacka!
 
 B0.02　Limbo Of Vanished Possibilities (Mr C Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
 

@@ -17,15 +17,15 @@ David Ball (D Ball), also known as Sonic Insomniac, is an electronic musician fr
 The cover illustration is by Alan Oldham, an American DJ/producer/illustrator from Detroit who is currently based in Berlin.
 
 #### Tracklist
-```md
-A1. Multi-Dimensional
+"""md
+A1. Multi-dimensional
 
-A2. Focus
+A2.Focus
 
 B1. Emotivate
 
-B2. Untitled
-```
+B2.Untitled
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10467596131?afid=6142608987){: .button1}
 

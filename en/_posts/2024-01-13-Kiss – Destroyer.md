@@ -13,31 +13,30 @@ title: Kiss – Destroyer
 ---
 
 
-Kiss"s Army of Hell is Kiss"s fourth studio album, which includes their signature songs ""Detroit Rock City", ""Scream of Madness", ""Raijin", and ""Beth".
+Kiss's Army of Hell is Kiss's fourth studio album, which includes their signature songs ""Detroit Rock City'', ""Scream of Madness'', ""Raijin'', and ""Beth''.
 
 The producer is Bob Ezrin, who has worked with Alice Cooper and others.
 
-
 #### Tracklist
-```md
-A1. Detroit Rock City（デトロイト・ロック・シティ ）
+"""md
+A1. Detroit Rock City
 
-A2. King Of The Night Time World（暗黒の帝王）
+A2. King Of The Night Time World
 
-A3. God Of Thunder（雷神）
+A3. God Of Thunder
 
-A4. Great Expectations（地獄の遺産）
+A4. Great Expectations
 
-B1. Flaming Youth（燃えたぎる血気 ）
+B1. Flaming Youth
 
-B2. Sweet Pain（スウィート・ペイン）
+B2. Sweet Pain
 
-B3. Shout It Out Loud（狂気の叫び）
+B3. Shout It Out Loud
 
-B4. Beth（ベス）
+B4. Beth
 
-B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
-```
+B5. Do You Love Me
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 

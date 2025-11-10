@@ -18,15 +18,15 @@ The vocalist for the first song on side B is Ron Carroll (R.O.N.N), who was acti
 "Elektro-Synthesis" was released in 2000 by Underground Construction, a hard house/tech house label based in Chicago, US.
 
 #### Tracklist
-```md
+"""md
 A1. Go!
 
 A2. Dirtee Bumpin' It
 
-B1. Soundz
+B1.Soundz
 
 B2. Soundz Like Bonus Beatz
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
 

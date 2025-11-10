@@ -15,7 +15,7 @@ title: Dandy – Casanova
 Dandy's "Casanova" was released in 1989 on the Italian label Flea Records.
 
 #### Tracklist
-```md
+"""md
 A1. Casanova (Extended Version)
 
 A2. Casanova (M.Y.O.M.)
@@ -23,7 +23,7 @@ A2. Casanova (M.Y.O.M.)
 B1. Casanova (Radio Version)
 
 B2. Casanova (Instrumental Version)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70187574707?afid=6142608987){: .button1}
 

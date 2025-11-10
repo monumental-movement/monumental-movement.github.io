@@ -18,14 +18,14 @@ Dave Hammond is a Eurobeat project from the prestigious Italo disco label Time R
 "Africa" ​​is a Eurobeat track that was released in 1993 and became a huge hit. Produced by Giacomo Maiolini & Laurent Newfield.
 
 #### Tracklist
-```md
+"""md
 A1. Africa (Extended Mix)
 A2. Africa (Acappella)
 
 B1. Africa (Radio Edit)
 B2. Africa (Instrumental)
 B3. Africa (Dub Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
 

@@ -16,13 +16,12 @@ title: The Rurals – Lush
 Released in 2000 on the UK label "Peng", real name Andy Compton.
 This is an EP from the project The Rurals.
 
-
 #### Tracklist
-```md
-A. Grey Clouds
+"""md
+A. Gray Clouds
 
-B. Lush
-```
+B.Lush
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41046223978?afid=6142608987){: .button1}
 

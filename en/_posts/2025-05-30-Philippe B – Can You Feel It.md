@@ -19,11 +19,11 @@ title: Philippe B – Can You Feel It
 This record is a remix version by Dutch DJ/producer Armin van Buuren and Paul Hutsch, released on the Alpha+ label in 2002.
 
 #### Tracklist
-```md
+"""md
 A. Can You Feel It
 
-(※シングルサイド)
-```
+(*Single side)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
 

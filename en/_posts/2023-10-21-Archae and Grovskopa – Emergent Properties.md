@@ -15,7 +15,7 @@ title: Archae and Grovskopa – Emergent Properties
 Archae & Grovskopa are the Swedish techno duo of Benny Liberg (Archae) and Mika Hallbäck (Grovskopa).
 
 #### Tracklist
-```md
+"""md
 A1. Grovskopa–Grow Lighter (Archae Remake)
 
 A2. Archae & Grovskopa–Choleric
@@ -23,7 +23,7 @@ A2. Archae & Grovskopa–Choleric
 B1. Grovskopa–Grow Lighter
 
 B2. Archae & Grovskopa–Humors Part
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35473528354?afid=6142608987){: .button1}
 

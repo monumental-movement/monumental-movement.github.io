@@ -19,7 +19,7 @@ Troy Pierce is also active as Louderbach, a minimal techno house project with Gi
 "25 Bitches Vol. I" is a techno minimal track released in 2006 by M_nus, which was founded by Richie Hawtin.
 
 #### Tracklist
-```md
+"""md
 A1. 25 Bitches
 
 A2. 25 Bitches (Berg Nixon Edit)
@@ -27,7 +27,7 @@ A2. 25 Bitches (Berg Nixon Edit)
 B1. 25 Bitches (Matt John's 25 Pitches Remix)
 
 B2. 25 Bitches (Berg Nixon's Zigzag Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30628826020?afid=6142608987){: .button1}
 

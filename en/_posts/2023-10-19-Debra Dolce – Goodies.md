@@ -15,13 +15,12 @@ title: Debra Dolce – Goodies
 "Goodies" is
 This is an EP by Debra Dolce released in 2008 by the label "Coco Machete Records".
 
-
 #### Tracklist
-```md
+"""md
 A. Goodies (Zero Cash Remix)
 
 B. Goodies (ZC's Dolce Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m11056580710?afid=6142608987){: .button1}
 

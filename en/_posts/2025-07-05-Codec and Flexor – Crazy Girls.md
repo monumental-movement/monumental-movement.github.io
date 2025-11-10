@@ -18,14 +18,13 @@ Codec & Flexor is a duo consisting of German-based DJ, producer, composer, and m
 
 House, Tech House and Electroclash tracks released in 2001 on Forte Records, a label founded by Christian Morgenstern.
 
-
 #### Tracklist
-```md
+"""md
 A1. Crazy Girls
 
 B1. Getting Bigger
 B2. Breakout
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
 

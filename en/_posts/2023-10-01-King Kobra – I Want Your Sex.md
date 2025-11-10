@@ -19,7 +19,7 @@ Based in Italy from the 1980s to 1998, he sang many Eurobeat songs under various
 He currently works as the Technical Director and Auditorium Manager at Christian Heritage Academy in Northfield, Illinois.
 
 #### Tracklist
-```md
+"""md
 A. I Want Your Sex (Dance Mix)
 
 B1. I Want Your Sex (Bonus Mix)
@@ -27,7 +27,7 @@ B1. I Want Your Sex (Bonus Mix)
 B2. I Want Your Sex (Radio Edit)
 
 B3. I Want Your Sex (Playback)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54349709741?afid=6142608987){: .button1}
 

@@ -22,13 +22,13 @@ He is also a member of the Italian electro-disco funk project Out Of City.
 This record is Simone Fedi's signature work, which was a worldwide hit and reviewed by Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk (Gomma), Serge (Clone), Zak Frost, Piccadilly Records, Phonica Records, etc.
 
 #### Tracklist
-```md
+"""md
 A. Belzebù Tales
 
 B1. Judas!
 
 B2. 2m/6ft
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 

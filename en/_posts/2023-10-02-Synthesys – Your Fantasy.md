@@ -15,13 +15,12 @@ title: Synthesys – Your Fantasy
 "Your Fantasy" is
 This is a Synthesys EP released in 1994 by the Italian label "In Out".
 
-
 #### Tracklist
-```md
+"""md
 A. Your Fantasy (Extended Mix)
 
 B. Your Fantasy (Club Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47169289475?afid=6142608987){: .button1}
 

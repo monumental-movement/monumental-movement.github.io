@@ -17,46 +17,42 @@ title: '[Column] From the intersection of disco and Japanese culture to the pres
 ---
 
 
+## 70年代ディスコと日本文化の交差から現在までの考察
 
-## Consideration from the intersection of 70s disco and Japanese culture to the present
+文：mmr｜テーマ：1970年代のアメリカを中心に発展したディスコの日本における独自の形で受容・発展
 
-
-Text: mmr｜Theme: Japan's unique reception and development of disco, which developed mainly in the United States in the 1970s
-
-
-Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we will trace the relationship between disco and Japanese culture by decade, and organize the most famous records, equipment, club history, and recommended tracks.
+ディスコは1970年代にアメリカで誕生し、都市文化、黒人・ラテンコミュニティの解放感、そしてテクノロジーの進化とともに爆発的に広がりました。日本でも同時代に「ニューヨークの熱狂」が輸入され、六本木・赤坂・銀座といったナイトライフの中心地に広まりました。本記事では、ディスコと日本文化の関係性を年代別にたどりながら、代表的な名盤、機材、クラブの歴史、さらにおすすめトラックを整理します。
 
 ---
 
-## 1970s — Birth of disco and its introduction in Japan
-- **Background**
-Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread with the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
+## 1970s — ディスコの誕生と日本での導入
+- **時代背景**  
+  アメリカでゲイ・ラテン・アフロアメリカン文化の交差点として成立。日本では大阪万博（1970年）以降、西洋文化の急速な導入が進む中で「ディスコティーク」が広がり、六本木「キャンティ」や赤坂「ムゲン」が象徴的な存在となる。  
 
-- **Representative masterpieces (overseas)**
-- Donna Summer — *Love to Love You Baby* (1975)
-- Bee Gees — *Saturday Night Fever Soundtrack* (1977)
-- Giorgio Moroder — *From Here to Eternity* (1977)
+- **代表的な名盤（海外）**  
+  - Donna Summer — *Love to Love You Baby* (1975)  
+  - Bee Gees — *Saturday Night Fever Soundtrack* (1977)  
+  - Giorgio Moroder — *From Here to Eternity* (1977)  
 
-- **Representative masterpiece (Japan)**
-- Pink Lady — *UFO* (1977)
-- Akiko Wada — *Old Diary (Disco Arranged Version)* (1974)
-- Jun Inoue — *Thank you for your help (disco style arrangement)*
+- **代表的な名盤（日本）**  
+  - ピンク・レディー — *UFO* (1977)  
+  - 和田アキ子 — *古い日記（ディスコ・アレンジ版）* (1974)  
+  - 井上順 — *お世話になりました（ディスコ風アレンジ）*  
 
-- **Relationship with Japanese culture**
-It is associated with youth fashion (bell bottoms, psychedelic patterns) and the nightlife culture of Ginza and Roppongi. The movie "Saturday Night Fever" (1977) became a social phenomenon in Japan as well.
+- **日本文化との関係**  
+  若者のファッション（ベルボトム、サイケ柄）、銀座や六本木のナイトライフ文化と結びつく。映画「サタデー・ナイト・フィーバー」（1977）は日本でも社会現象に。
 
-- **Main equipment**
-- Technics SL-1200 (turntable/released in 1972)
-- Urei 1620 (club mixer)
-- JBL 4350 Speaker
+- **主な機材**  
+  - Technics SL-1200（ターンテーブル／1972年登場）  
+  - Urei 1620（クラブ用ミキサー）  
+  - JBL 4350 スピーカー  
 
-- **Japan's representative club/disco**
-- Roppongi "Chianti"
-- Akasaka "Mugen"
-- Ginza "Now"
+- **日本の代表的クラブ／ディスコ**  
+  - 六本木「キャンティ」  
+  - 赤坂「ムゲン」  
+  - 銀座「ナウ」  
 
-### 10 Recommended Tracks (1970s)
-
+### おすすめトラック10選（1970s）
 
 <style type="text/css">
 
@@ -71,182 +67,181 @@ color: #fff;
 }
 </style>
 
-| Track | Artist | Comments |
+| トラック | アーティスト | コメント |
 |----------|--------------|----------|
-| Love to Love You Baby | Donna Summer | A masterpiece that laid the foundation for sensual vocals and 4/4 beats. |
-| I Feel Love | Donna Summer & Giorgio Moroder | Revolutionary synth-disco track. |
-| Stayin" Alive | Bee Gees | Global disco anthem. |
-| Le Freak | Chic | A symbol of groove and sophistication. |
-| UFO | Pink Lady | A song that symbolizes Japanese popular disco. |
-| Old Diary | Akiko Wada | A masterpiece that incorporates a soulful singing voice into disco. |
-| Disco Inferno | The Trammps | A timeless classic that set dance floors on fire. |
-| From Here to Eternity | Giorgio Moroder | Predicting the future through mechanical repetition. |
-| Don"t Leave Me This Way | Thelma Houston | A bridge between soul and disco. |
-| YMCA | Village People | World-famous pop disco. |
+| Love to Love You Baby | Donna Summer | 官能的なヴォーカルと4つ打ちの基礎を築いた名曲。 |
+| I Feel Love | Donna Summer & Giorgio Moroder | シンセ・ディスコの革命的トラック。 |
+| Stayin’ Alive | Bee Gees | 世界的ディスコ・アンセム。 |
+| Le Freak | Chic | グルーヴと洗練の象徴。 |
+| UFO | ピンク・レディー | 日本の歌謡ディスコを象徴する一曲。 |
+| 古い日記 | 和田アキ子 | ソウルフルな歌声をディスコに落とし込んだ傑作。 |
+| Disco Inferno | The Trammps | ダンスフロアを熱狂させた不滅の定番。 |
+| From Here to Eternity | Giorgio Moroder | 機械的な反復で未来を予見。 |
+| Don’t Leave Me This Way | Thelma Houston | ソウルとディスコの架け橋。 |
+| YMCA | Village People | 世界的に知られるポップ・ディスコ。 |
 
 ---
 
-## 1980s — Bubble period and popularization of disco
-- **Background**
-Japan entered a bubble economy period, and large discotheques such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
+## 1980s — バブル期とディスコの大衆化
+- **時代背景**  
+  日本はバブル経済期に突入し、「マハラジャ」「ジュリアナ東京」といった大型ディスコが誕生。西新宿や六本木で「ジュリ扇」文化が拡大。  
 
-- **Representative masterpieces (overseas)**
-- Michael Jackson — *Thriller* (1982)
-- Madonna — *Like a Virgin* (1984)
-- Chaka Khan — *I Feel for You* (1984)
+- **代表的な名盤（海外）**  
+  - Michael Jackson — *Thriller* (1982)  
+  - Madonna — *Like a Virgin* (1984)  
+  - Chaka Khan — *I Feel for You* (1984)  
 
-- **Representative masterpiece (Japan)**
-- Yoko Oginome — *Dancing Hero* (1985)
-- Akina Nakamori — *DESIRE -Passion-* (1986)
-- Motoharu Sano — *Young Bloods* (1985)
+- **代表的な名盤（日本）**  
+  - 荻野目洋子 — *ダンシング・ヒーロー* (1985)  
+  - 中森明菜 — *DESIRE -情熱-* (1986)  
+  - 佐野元春 — *Young Bloods* (1985)  
 
-- **Relationship with Japanese culture**
-Formation of the foundation of the "fan dance culture" that continued with Bodycon and Juliana Tokyo. Disco remixes of Western and Japanese music became popular on radio and television.
+- **日本文化との関係**  
+  ボディコン、ジュリアナ東京へと続く「扇子ダンス文化」の基盤形成。洋楽・邦楽のディスコリミックスがラジオやテレビで流行。
 
-- **Main equipment**
-- Roland TR-808 (released in 1980)
-- LinnDrum
-- Fairlight CMI (Sampler)
+- **主な機材**  
+  - Roland TR-808（1980年発売）  
+  - LinnDrum  
+  - Fairlight CMI（サンプラー）  
 
-- **Japan's representative club/disco**
-- Roppongi "Maharaja"
-- Roppongi "King & Queen"
-- Osaka "Exotic Maharaja"
+- **日本の代表的クラブ／ディスコ**  
+  - 六本木「マハラジャ」  
+  - 六本木「キング&クイーン」  
+  - 大阪「エキゾチックマハラジャ」  
 
-### 10 Recommended Tracks (1980s)
+### おすすめトラック10選（1980s）
 
-| Track | Artist | Comments |
+| トラック | アーティスト | コメント |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | A textbook piece of bassline and groove. |
-| Thriller | Michael Jackson | The world's biggest hit and visual innovation. |
-| Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
-| I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
-| Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
-| DESIRE -Passion- | Akina Nakamori | A fusion of disco beat and pop songs. |
-| Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
-| Word Up! | Cameo | Funk-based disco classic. |
-| Celebration | Kool & The Gang | A classic festival song. |
-| Holiday | Madonna | A masterpiece that set dance floors all over the world ablaze. |
+| Billie Jean | Michael Jackson | ベースラインとグルーヴの教科書的作品。 |
+| Thriller | Michael Jackson | 世界最大のヒットと映像革新。 |
+| Like a Virgin | Madonna | 女性ポップアイコンの誕生を象徴。 |
+| I Feel for You | Chaka Khan | ヒップホップとディスコの融合。 |
+| ダンシング・ヒーロー | 荻野目洋子 | 日本ディスコの代名詞的ヒット。 |
+| DESIRE -情熱- | 中森明菜 | ディスコビートと歌謡の融合。 |
+| Let’s Groove | Earth, Wind & Fire | ファンクからディスコへの架け橋。 |
+| Word Up! | Cameo | ファンクベースのディスコ・クラシック。 |
+| Celebration | Kool & The Gang | お祭り定番ソング。 |
+| Holiday | Madonna | 世界中のダンスフロアを熱狂させた名曲。 |
 
 ---
 
-## 1990s — Club culture and revival
-- **Background**
-Even after Japan's bubble burst, disco turned into a "club" culture. Eurobeat and parapara culture emerged mainly in Shibuya.
+## 1990s — クラブカルチャーとリバイバル
+- **時代背景**  
+  日本のバブル崩壊後もディスコは「クラブ」文化に転化。ユーロビート、パラパラ文化が渋谷を中心に台頭。  
 
-- **Representative masterpieces (overseas)**
-- Daft Punk — *Homework* (1997)
-- Deee-Lite — *World Clique* (1990)
-- C+C Music Factory — *Gonna Make You Sweat* (1990)
+- **代表的な名盤（海外）**  
+  - Daft Punk — *Homework* (1997)  
+  - Deee-Lite — *World Clique* (1990)  
+  - C+C Music Factory — *Gonna Make You Sweat* (1990)  
 
-- **Representative masterpiece (Japan)**
-- TRF — *EZ DO DANCE* (1993)
-- Namie Amuro — *Body Feels EXIT* (1995)
-- globe — *DEPARTURES* (1996)
+- **代表的な名盤（日本）**  
+  - TRF — *EZ DO DANCE* (1993)  
+  - 安室奈美恵 — *Body Feels EXIT* (1995)  
+  - globe — *DEPARTURES* (1996)  
 
-- **Relationship with Japanese culture**
-Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved into the club generation.
+- **日本文化との関係**  
+  「ジュリアナ東京」から渋谷クラブカルチャーへ移行。ディスコ世代がクラブ世代へと進化。
 
-- **Main equipment**
-- Akai MPC series
-- Pioneer CDJ-500 (1992)
--Roland JP-8000
+- **主な機材**  
+  - Akai MPCシリーズ  
+  - Pioneer CDJ-500（1992年）  
+  - Roland JP-8000  
 
-- **Japan's representative club/disco**
-- Shibuya "Club Camelot"
-- Shibuya "HARLEM"
-- Osaka "Juliana Osaka"
+- **日本の代表的クラブ／ディスコ**  
+  - 渋谷「クラブキャメロット」  
+  - 渋谷「HARLEM」  
+  - 大阪「ジュリアナ大阪」  
 
-### 10 Recommended Tracks (1990s)
+### おすすめトラック10選（1990s）
 
-| Track | Artist | Comments |
+| トラック | アーティスト | コメント |
 |----------|--------------|----------|
-| Groove Is in the Heart | Deee-Lite | A fusion of psychedelic and dance. |
-| Gonna Make You Sweat | C+C Music Factory | Floor-exploding vocal house. |
-| Music Sounds Better with You | Stardust | The pinnacle of filter house. |
-| Around the World | Daft Punk | Robotic House Revolution. |
-| EZ DO DANCE | TRF | A song that symbolizes Japanese club culture. |
-| Body Feels EXIT | Namie Amuro | A dance number that represents the heyday of TK sound. |
-| Rhythm Is a Dancer | Snap! | A milestone in Eurodance. |
-| What Is Love | Haddaway | A club anthem loved all over the world. |
-| Free | Ultra Naté | A fusion of house and disco spirit. |
-| DEPARTURES | globe | A hit that colored Japan's 90s club scene. |
+| Groove Is in the Heart | Deee-Lite | サイケデリックとダンスの融合。 |
+| Gonna Make You Sweat | C+C Music Factory | フロア爆発型のヴォーカル・ハウス。 |
+| Music Sounds Better with You | Stardust | フィルターハウスの頂点。 |
+| Around the World | Daft Punk | ロボティック・ハウス革命。 |
+| EZ DO DANCE | TRF | 日本のクラブカルチャーを象徴する一曲。 |
+| Body Feels EXIT | 安室奈美恵 | TKサウンド全盛を代表するダンスナンバー。 |
+| Rhythm Is a Dancer | Snap! | ユーロダンスの金字塔。 |
+| What Is Love | Haddaway | 世界的に愛されるクラブ・アンセム。 |
+| Free | Ultra Naté | ハウスとディスコスピリットの融合。 |
+| DEPARTURES | globe | 日本の90sクラブシーンを彩ったヒット。 |
 
 ---
 
-## 2000s — The rise of Nu-Disco and club restructuring
-- **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
+## 2000s — Nu-Discoの台頭とクラブ再編
+- **時代背景**  
+  世界的に「Nu-Disco」やエレクトロクラッシュが流行。日本でもディスコリバイバルが進み、再びクラブシーンで脚光を浴びる。 
 
-- **Representative masterpieces (overseas)**
-- Daft Punk — *Discovery* (2001)
-- Metro Area — *Metro Area* (2002)
-- LCD Soundsystem — *Sound of Silver* (2007)
+- **代表的な名盤（海外）**  
+  - Daft Punk — *Discovery* (2001)  
+  - Metro Area — *Metro Area* (2002)  
+  - LCD Soundsystem — *Sound of Silver* (2007)  
 
-- **Representative masterpiece (Japan)**
-- Perfume — *GAME* (2008)
-- Fantastic Plastic Machine — *beautiful.* (2001)
-- CAPSULE — *L.D.K Lounge Designers Killer* (2005)
+- **代表的な名盤（日本）**  
+  - Perfume — *GAME* (2008)  
+  - Fantastic Plastic Machine — *beautiful.* (2001)  
+  - CAPSULE — *L.D.K Lounge Designers Killer* (2005)  
 
-- **Relationship with Japanese culture**
-Reinterpretations of Nu-Disco and house are popular in Shibuya and Daikanyama. There is also a noticeable revival of 70's fashion in fashion.
+- **日本文化との関係**  
+  渋谷や代官山でNu-Discoやハウスの再解釈が盛んに。ファッションも70年代風のリバイバルが目立つ。
 
-- **Main equipment**
-- Ableton Live (released in 2001)
-- Native Instruments Maschine
-- Pioneer CDJ-2000
+- **主な機材**  
+  - Ableton Live（2001年登場）  
+  - Native Instruments Maschine  
+  - Pioneer CDJ-2000  
 
-- **Japan's representative club/disco**
-- Roppongi: Velfarre (~2007), AgeHa (Shinkiba)
-- Shibuya: WOMB, Club Asia
-- Osaka Minami: Underlounge, MOTHER HALL
+- **日本の代表的クラブ／ディスコ**  
+  - 六本木：Velfarre（〜2007）、AgeHa（新木場）
+  - 渋谷：WOMB、Club Asia
+  - 大阪ミナミ：Underlounge、MOTHER HALL
 
+### おすすめトラック10選（2000s）
 
-### 10 Recommended Tracks (2000s)
-
-| Track | Artist | Comments |
+| トラック | アーティスト | コメント |
 |----------|-------------|----------|
-| Music | Madonna | Nu-Disco sound |
-| Lazy | X-Press 2 ft. David Byrne | House and disco fusion |
-| Crazy | Gnarls Barkley | Soulful Crossover |
-| House of Jealous Lovers | The Rapture | Representative of Electroclash |
-| Lady (Hear Me Tonight) Reissue | Modjo | Wave of reappraisal |
-| Never Can Say Goodbye (Rework) | Gloria Gaynor | Nu-Disco Remix |
-| Do It Again | Röyksopp | Scandinavian electro sensation |
-| Eple | Röyksopp | Post-disco elements |
-| Music Sounds Better (Re-edit) | Stardust | Rediscovery |
-| Too | Fantastic Plastic Machine | Nu-Disco sensation from Japan |
+| Music | Madonna | Nu-Disco的サウンド |
+| Lazy | X-Press 2 ft. David Byrne | ハウスとディスコの融合 |
+| Crazy | Gnarls Barkley | ソウルフルなクロスオーバー |
+| House of Jealous Lovers | The Rapture | エレクトロクラッシュ代表 |
+| Lady (Hear Me Tonight) Reissue | Modjo | 再評価の波 |
+| Never Can Say Goodbye (Rework) | Gloria Gaynor | Nu-Discoリミックス |
+| Do It Again | Röyksopp | 北欧エレクトロ感覚 |
+| Eple | Röyksopp | ポストディスコ的要素 |
+| Music Sounds Better (Re-edit) | Stardust | 再発見 |
+| Too | Fantastic Plastic Machine | 日本発Nu-Disco感覚 |
 
 ---
 
-## 2010s — Revival and City Pop Reappraisal
-- **Background**
-Nu-Disco expanded worldwide, and artists such as Caribou and Todd Terje gained popularity. In Japan, city pop was reevaluated worldwide, and Gen Hoshino and CAPSULE inherited the disco context.
+## 2010s — リバイバルとシティポップ再評価
+- **時代背景**  
+  世界的にNu-Discoが拡大し、CaribouやTodd Terjeらが人気を獲得。日本ではシティポップが世界的に再評価され、星野源やCAPSULEがディスコ文脈を継承。  
 
-- **Representative masterpieces (overseas)**
-- Todd Terje — *It"s Album Time* (2014)
-- Daft Punk — *Random Access Memories* (2013)
-- Hercules & Love Affair — *Blue Songs* (2011)
+- **代表的な名盤（海外）**  
+  - Todd Terje — *It’s Album Time* (2014)  
+  - Daft Punk — *Random Access Memories* (2013)  
+  - Hercules & Love Affair — *Blue Songs* (2011)  
 
-- **Representative masterpiece (Japan)**
-- Gen Hoshino — *YELLOW DANCER* (2015)
-- CAPSULE — *CAPS LOCK* (2013)
-- tofubeats — *Positive* (2015)
+- **代表的な名盤（日本）**  
+  - 星野源 — *YELLOW DANCER* (2015)  
+  - CAPSULE — *CAPS LOCK* (2013)  
+  - tofubeats — *Positive* (2015)  
 
-- **Relationship with Japanese culture**
-Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, and the genealogy of disco and city pop spread to a new generation.
+- **日本文化との関係**  
+  山下達郎、大貫妙子、竹内まりやなどが再発見され、ディスコ～シティポップの系譜が新世代に広まる。
 
-- **Equipment**
-- Mainly DAW (Ableton, Logic Pro X)
-- Prophet-6, Moog Sub 37
-- Digital controller for DJ
+- **機材**  
+  - DAW主体（Ableton, Logic Pro X）  
+  - Prophet-6, Moog Sub 37  
+  - DJ用デジタルコントローラー  
 
-- **Japan's representative club/disco**
-- Roppongi: Jumanji 55, ESPRIT TOKYO
-- Shibuya: Contact, Sound Museum Vision
-- Osaka Minami: Club Joule, Circus Osaka
+- **日本の代表的クラブ／ディスコ**  
+  - 六本木：Jumanji 55、ESPRIT TOKYO
+  - 渋谷：Contact、Sound Museum Vision
+  - 大阪ミナミ：Club Joule、Circus Osaka
 
-### 10 Recommended Tracks (2010s)
+### おすすめトラック10選（2010s）
 
 | Track | Artist | Comments |
 |----------|-------------|----------|
@@ -258,40 +253,37 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electro-pop |
+| I Feel Better | Hot Chip | Electropop-oriented |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
-
 
 ---
 
 ## 2020s — Post-pandemic and house/disco reinterpretation
 - **Background**
-Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, with the ""city pop export boom,'' music with disco grooves spread to the world.
+  Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, with the ""city pop export boom,'' music with disco grooves spread to the world.
 
 - **Representative masterpieces (overseas)**
-- Dua Lipa — *Future Nostalgia* (2020)
-- Jessie Ware — *What"s Your Pleasure?* (2020)
-- Kylie Minogue — *Disco* (2020)
+  - Dua Lipa — *Future Nostalgia* (2020)
+  - Jessie Ware — *What"s Your Pleasure?* (2020)
+  - Kylie Minogue — *Disco* (2020)
 
 - **Representative masterpiece (Japan)**
-- Night Tempo — *Ladies In The City* (2021)
-- Nulbarich — *New Gravity* (2021)
-- iri — *Sparkle* (2020)
+  - Night Tempo — *Ladies In The City* (2021)
+  - Nulbarich — *New Gravity* (2021)
+  - iri — *Sparkle* (2020)
 
 - **Relationship with Japanese culture**
-City pop/disco is spreading on TikTok and YouTube. Analog disco events are once again on the rise at clubs in Shibuya and Shinjuku.
-
+  City pop/disco is spreading on TikTok and YouTube. Analog disco events are once again on the rise at clubs in Shibuya and Shinjuku.
 
 - **Equipment**
-- Eurorack modular synth
-- Elektron Digitakt / Octatrack
-- AI-based mix tool
+  - Eurorack modular synth
+  - Elektron Digitakt / Octatrack
+  - AI-based mix tool
 
 - **Japan's representative club/disco**
-- Roppongi: 1 OAK Tokyo, SEL OCTAGON
-- Shibuya: Vent, DJ Bar Bridge
-- Osaka Minami: Compufunk, Club Ammona
-
+  - Roppongi: 1 OAK Tokyo, SEL OCTAGON
+  - Shibuya: Vent, DJ Bar Bridge
+  - Osaka Minami: Compufunk, Club Ammona
 
 ### 10 recommended tracks (2020s)
 
@@ -308,9 +300,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Cold Heart (Pnau Remix) | Elton John & Dua Lipa | Revival feeling |
 | About Damn Time | Lizzo | Symbol of 70s disco return |
 
-
 ---
 
-
 # Disco is not a "legacy of the past" but a living rhythm that supports the foundations of modern club and pop culture.
-Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture. In the 1980s, it gave birth to ""Juliana Tokyo" and ""Maharaja" along with the bubble, and in the 90s it became integrated into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop. Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.
+Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture. In the 1980s, it gave birth to ""Juliana Tokyo'' and ""Maharaja'' along with the bubble, and in the 90s it became integrated into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop. Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.

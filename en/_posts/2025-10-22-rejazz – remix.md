@@ -19,7 +19,7 @@ title: '[re:jazz] – (re:mix)'
 (re:mix) is Downtempo/Future Jazz/Deep House released by Japanese jazz label Nebula in 2003.
 
 #### Tracklist
-```md
+"""md
 1. Quiet Nights (Nicola Conte "Out Of The Cool Version")
 2. My Love Is Higher (Russ Gabriel Rmx)
 3. Mental Strength (Akufen Interpretation)
@@ -32,7 +32,7 @@ title: '[re:jazz] – (re:mix)'
 10. La Mouche Lumière (The Society Remix)
 11. Arena (Bugge Wesseltoft Version)
 12. People Come Running (Les Gammas Sprinter Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
 

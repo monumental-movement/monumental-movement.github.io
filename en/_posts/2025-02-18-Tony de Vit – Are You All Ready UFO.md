@@ -17,13 +17,12 @@ Anthony de Vit, also known as Tony de Vit, is a UK DJ and producer. He is credit
 
 "Are You All Ready / UFO" is a hard house track released in 1996 on Jump Wax Records, a label run by Tony De Vit & Simon Parkes.
 
-
 #### Tracklist
-```md
-A. Are You All Ready
+"""md
+A. Are You All Ready?
 
-AA. UFO
-```
+AA.UFO
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40136771393?afid=6142608987){: .button1}
 

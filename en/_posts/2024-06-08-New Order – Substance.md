@@ -19,11 +19,11 @@ New Order is a UK rock band whose predecessor was Joy Division, one of the most 
 This cassette is a compilation of New Order singles released in 1987, and includes hits such as "Ceremony," "Blue Monday," and "Confusion."
 
 #### Tracklist
-```md
-A1. Ceremony
+"""md
+A1.Ceremony
 A2. Everything's Gone Green
 A3. Temptation
-A4. Blue Monday
+A4.Blue Monday
 A5. Confusion
 A6. Thieves Like Us
 
@@ -33,7 +33,7 @@ B3. Shellshock
 B4. State Of The Nation
 B5. Bizarre Love Triangle
 B6. True Faith
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87845826707?afid=6142608987){: .button1}
 

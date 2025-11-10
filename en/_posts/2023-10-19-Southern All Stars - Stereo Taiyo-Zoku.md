@@ -18,33 +18,33 @@ Participating musicians
 Keisuke Kuwata, Takashi Omori, Yuko Hara, Kazuyuki Sekiguchi, Hiroshi Matsuda, Hideyuki Nozawa, Junichi Kanezaki, Ryuichiro Senoo, EVE, Linda, Jake Concepcion, etc.
 
 #### Tracklist
-```md
+"""md
 A1. Hello My Love
 
 A2. My Foreplay Music
 
-A3. 素顔で踊らせて
+A3. Let me dance with my real face
 
-A4. 夜風のオン・ザ・ビーチ
+A4. Night breeze on the beach
 
-A5. 恋の女のストーリー
+A5. Story of a woman in love
 
-A6. 我らパープー仲間
+A6. We are Purpu friends.
 
-B1. ラッパとおじさん (Dear M.Y's Boogie)
+B1. Trumpet and Uncle (Dear M.Y's Boogie)
 
 B2. Let's Take A Chance
 
-B3. ステレオ太陽族
+B3. Stereo solar group
 
-B4. ムクが泣く
+B4. Muku cries
 
-B5. 朝方ムーンライト
+B5. Morning moonlight
 
-B6. Big Star Blues (ビッグ・スターの悲劇)
+B6. Big Star Blues
 
-B7. 栞(しおり)のテーマ
-```
+B7. Bookmark theme
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
 

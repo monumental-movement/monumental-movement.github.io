@@ -20,13 +20,13 @@ B1 is a remix by famous UK DJ Dave Lee (Joey Negro).
 B2 is a remix by House DJ & Radio DJ Paul Anderson, who influenced early UK house.
 
 #### Tracklist
-```md
+"""md
 A1. (I Wanna Give You) Devotion (Original Mix)
 A2. (I Wanna Give You) Devotion (Soul Mix)
 
 B1. (I Wanna Give You) Devotion (The Joey Negro Mix)
 B2. (I Wanna Give You) Devotion (Trouble's Underground Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
 

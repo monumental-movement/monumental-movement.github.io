@@ -18,11 +18,11 @@ The Moody Brothers were an Americana country music trio active in the 1980s and 
 The lyrics for side A were written by Van Morrison, and the lyrics for side B were written by David Bellamy of the Bellamy Brothers.
 
 #### Tracklist
-```md
+"""md
 A. Brown Eyed Girl
 
 B. Reggae Cowboy
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
 

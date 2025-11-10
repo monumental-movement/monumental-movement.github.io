@@ -17,7 +17,7 @@ Justin Berkovi, a British techno DJ and producer based in London, is the founder
 "Fast-Wide E.P." is an EP released by the UK label "Cloned Vinyl" in 1998.
 
 #### Tracklist
-```md
+"""md
 A1. Brutal City
 
 A2. Risk Rumblin'
@@ -25,7 +25,7 @@ A2. Risk Rumblin'
 B1. Steadycam
 
 B2. Neon
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 

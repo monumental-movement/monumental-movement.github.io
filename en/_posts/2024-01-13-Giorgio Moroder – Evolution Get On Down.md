@@ -18,7 +18,6 @@ Jerome Isma-Ae is a trance/techno/progressive house DJ from Munich, Germany.
 
 Currently residing in Houston, Texas, USA.
 
-
 Florian Holzinger, also known as Woodbay, is a music producer and sound designer specializing in electronic, house, and funk.
 
 Giorgio Moroder (real name: Giovanni Giorgio Moroder) was born on April 26, 1940 in Ortisei, Bolzano, Italy.
@@ -27,16 +26,15 @@ A musician from Italy who is a composer, arranger, producer, performer, and DJ. 
 
 Founding the Oasis label and Musicland Studios, he created the Munich sound (often confused with later Italo disco) in the 1970s, producing iconic work with Donna Summer and Roberta Kelly.
 
-
 #### Tracklist
-```md
+"""md
 A. Jerome Isma-Ae & Woodbay – Get On Down (inyourfacemix)
 Written-By, Producer – Florian Holzinger, Jerome Isma-Ae
 
 AA. Giorgio Moroder – Evolution (Roger Sanchez Extraterrestrial Mix)
 Remix – Roger Sanchez
 Written-By, Producer [Original Production] – Giorgio Moroder
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
 

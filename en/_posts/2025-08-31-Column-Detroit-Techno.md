@@ -32,7 +32,6 @@ The release of the 1988 compilation "Techno! The New Dance Sound of Detroit" (ht
 
 <hr>
 
-
 ### Cultural and social background — the shadow of the industrial city of Detroit
 
 Detroit is a city known for its automobile industry. The sounds of factory machinery, stories of retreat and unemployment, and urban devastation and rebirth deeply influenced the texture and emotion of the music that grew there.
@@ -107,10 +106,9 @@ Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, *T
 
 ### Worldwide transmission — to and from Berlin/Europe
 
-Detroit techno combined with Berlin rave and club culture in the 1990s to create new expressions, and conversely, clubs from Europe (particularly Germany) invited Detroit artists, leading to mutual development. The 1988 compilation ""Techno!" became the catalyst that established the term ""techno" in the European market.
+Detroit techno combined with Berlin rave and club culture in the 1990s to create new expressions, and conversely, clubs from Europe (particularly Germany) invited Detroit artists, leading to mutual development. The 1988 compilation ""Techno!'' became the catalyst that established the term ""techno'' in the European market.
 
 <hr>
-
 
 ### Impact — Beyond Music
 
@@ -142,7 +140,6 @@ The following are the "core" songs for understanding Detroit techno.
 
 - **Compilation: ["Techno! The New Dance Sound of Detroit"](https://amzn.to/4q9NMVF) — 1988**
 
-
 <hr>
 
 ### Production technical notes
@@ -157,7 +154,7 @@ The following are the "core" songs for understanding Detroit techno.
 
 ### From Detroit to the World - The Eternal Poetry of Electronics
 
-Detroit techno is more than just dance music; it"s a cultural product that combines the city"s history, technology, and Black American creativity. Rather, the repetition of mechanical rhythms evokes human emotions and community - this is Detroit's "warm mechanical sound." By listening to famous songs from the past and experiencing the spirit at the venue (DJ set or festival), you will be able to appreciate the depth of this music even more.
+Detroit techno is more than just dance music; it's a cultural product that combines the city's history, technology, and Black American creativity. Rather, the repetition of mechanical rhythms evokes human emotions and community - this is Detroit's "warm mechanical sound." By listening to famous songs from the past and experiencing the spirit at the venue (DJ set or festival), you will be able to appreciate the depth of this music even more.
 
 ---
 

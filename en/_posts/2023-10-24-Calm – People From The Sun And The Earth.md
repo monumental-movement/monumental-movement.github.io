@@ -18,7 +18,7 @@ Calm (Kiyotaka Fukagawa) is considered one of the pioneers of chill-out Balearic
 A1&B2 is a remix by MKL vs. Soy Sos of 3 Generations Walking.
 B2 is a remix by Dixon, a German DJ and producer based in Berlin.
 #### Tracklist
-```md
+"""md
 A1. People From The Sun And The Earth (MKL vs. Soy Sos Dark Sun Mix)
 
 A2. People From The Sun And The Earth (Original Mix)
@@ -26,7 +26,7 @@ A2. People From The Sun And The Earth (Original Mix)
 B1. People From The Sun And The Earth (Dixon Remix)
 
 B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 

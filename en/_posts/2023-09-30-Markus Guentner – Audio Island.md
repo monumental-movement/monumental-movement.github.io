@@ -16,25 +16,24 @@ title: Markus Guentner – Audio Island
 
 All of the tracks on this two-disc set are slow and deep songs, making it a must-listen.
 
-
 #### Tracklist
-```md
-A1. Droid Ships
+"""md
+A1.Droid Ships
 
 A2. Lost Paradise
 
 B1. So Well
 
-B2. Sleep Well
+B2.Sleep Well
 
 C1. Hooked On Monket Phonics
 
 C2. Separate Digits
 
-D1. Sunset
+D1.Sunset
 
 D2. Tears In Rain
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
 

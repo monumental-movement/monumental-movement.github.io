@@ -14,11 +14,10 @@ title: Mylo Vs Miami Sound Machine – Doctor Pressure
 
 "Doctor Pressure" is a collaborative song between Scottish DJ and producer Mylo and American pop band Miami Sound Machine. This song was released in 2005.
 
-"Doctor Pressure" is a clever remix of Mylo"s hit "Drop the Pressure" and Miami Sound Machine"s hit "Dr. Beat." Mylo is an electronic music artist known for "Drop the Pressure," and Miami Sound Machine is a band fronted by Gloria Estefan, who had a string of pop hits in the 1980s.
-
+"Doctor Pressure" is a clever remix of Mylo's hit "Drop the Pressure" and Miami Sound Machine's hit "Dr. Beat." Mylo is an electronic music artist known for "Drop the Pressure," and Miami Sound Machine is a band fronted by Gloria Estefan, who had a string of pop hits in the 1980s.
 
 #### Tracklist
-```md
+"""md
 A1. Mylo Vs Miami Sound Machine–Doctor Pressure (Dirty Club Mix)
 
 A2. Mylo–Drop The Pressure (Club Mix)
@@ -26,7 +25,7 @@ A2. Mylo–Drop The Pressure (Club Mix)
 B1. Mylo–Drop The Pressure (Rex The Dog Remix)
 
 B2. Mylo–Drop The Pressure (Stanton Warriors Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34100476893?afid=6142608987){: .button1}
 

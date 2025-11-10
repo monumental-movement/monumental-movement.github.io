@@ -19,19 +19,19 @@ Cover: Bob Dylan
 Bob Dylan, David Amram, Motoharu Sano, Wim Wenders, Hitomi Okawa, Mayo Thompson
 
 #### Contents
-```md
-□ 吠える Poetry Vibrations ビートニクからラッパーまで
+"""md
+□ Roaring Poetry Vibrations From beatniks to rappers
 □ Beat Now
-□ 詩人としてのディラン
-□ ディランと息子たち
-□ ニューヨークのロック詩人たち
-□ ポエトリー・リーディング復活の音楽的背景
-□ 主要レコード・ガイド
-□ Voice From Heartbeat City 佐野元春インタビュー
-□ 私はこの歌詞が好きだ
-□ ヴィム・ヴェンダース かつて、通り抜けた場所
+□ Dylan as a poet
+□ Dylan and his sons
+□ New York rock poets
+□ Musical background for the revival of poetry reading
+□ Key record guide
+□ Voice From Heartbeat City Motoharu Sano Interview
+□ I like this lyrics
+□ Wim Wenders Places I once passed through
 □ SPIRITS ON THE CROSSING
-□ リチャード・D・ジェームス来日公演
-```
+□ Richard D. James performance in Japan
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}

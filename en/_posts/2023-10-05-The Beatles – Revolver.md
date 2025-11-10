@@ -17,7 +17,7 @@ A notable song on "Revolver" is "Eleanor Rigby." This heartwarming song features
 There is another song on the album called "Taxman". This song was written by George Harrison and contains criticism of the high tax system in Britain at the time. "Yellow Submarine" is another popular track.
 
 #### Tracklist
-```md
+"""md
 A1. Good Day Sunshine
 
 A2. And Your Bird Can Sing
@@ -36,7 +36,7 @@ B1. Eleanor Rigby
 
 B2. Here, There And Everywhere
 
-B3. For No One
+B3.For No One
 
 B4. Got To Get You Into My Life
 
@@ -46,7 +46,7 @@ Lead Vocals – George Harrison
 B6. She Said She Said
 
 B7. Tomorrow Never Knows
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 

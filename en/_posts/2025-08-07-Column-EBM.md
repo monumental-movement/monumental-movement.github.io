@@ -15,12 +15,7 @@ title: '[Column] EBM: Electronic physicality driven by steel beats'
 
 ## What is Electronic Body Music?
 
-
-
 Text: mmr｜Theme: What is electronic body music?
-
-
-
 
 <hr>
 
@@ -35,12 +30,10 @@ In particular, the following two groups are known as pioneers:
 
 By making full use of cold, sharp electronics, violent minimal beats, and militaristic vocals, they created a new kind of "physical electronic music" that differs from conventional pop and rock.
 
-
 <hr>
 
 ### Sound characteristics
 To put it simply, EBM's sound is "inorganic and physical." It features the following elements:
-
 
 #### Hard and minimal beat
 
@@ -49,7 +42,6 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 - Mechanical rhythm like industrial machinery
 
 - Heavy use of drum machines (Roland TR-808, TR-909, etc.)
-
 
 <hr>
 
@@ -60,7 +52,6 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 - Loop configuration driven by analog/digital sequencer
 
 - Balancing the trance state and physicality created by repetition
-
 
 <hr>
 
@@ -74,7 +65,6 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 
 - Many voices are distorted
 
-
 <hr>
 
 #### Theme and aesthetics
@@ -85,56 +75,54 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 
 - Factories, cities, military uniforms, fetishism, leather culture
 
-
 <hr>
 
 ### Main artists and works
 
-
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist</th>
-<th>Country</th>
-<th>Representative song/album</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Front 242</td>
-<td>Belgium</td>
-<td>"Headhunter", Geography (1982)</td>
-</tr>
-<tr>
-<td>DAF</td>
-<td>Germany</td>
-<td>"Der Mussolini", Alles ist gut (1981)</td>
-</tr>
-<tr>
-<td>Nitzer Ebb</td>
-<td>United Kingdom</td>
-<td>"Join in the Chant", That Total Age (1987)</td>
-</tr>
-<tr>
-<td>Klinik</td>
-<td>Belgium</td>
-<td>"Moving Hands"</td>
-</tr>
-<tr>
-<td>Skinny Puppy</td>
-<td>Canada</td>
-<td>"Assimilate"</td>
-</tr>
-<tr>
-<td>Die Krupps</td>
-<td>Germany</td>
-<td>Evolution from EBM to metal fusion</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Artist</th>
+      <th>Country</th>
+      <th>Representative song/album</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Front 242</td>
+      <td>Belgium</td>
+      <td>"Headhunter", Geography (1982)</td>
+    </tr>
+    <tr>
+      <td>DAF</td>
+      <td>Germany</td>
+      <td>"Der Mussolini", Alles ist gut (1981)</td>
+    </tr>
+    <tr>
+      <td>Nitzer Ebb</td>
+      <td>United Kingdom</td>
+      <td>"Join in the Chant", That Total Age (1987)</td>
+    </tr>
+    <tr>
+      <td>Klinik</td>
+      <td>Belgium</td>
+      <td>"Moving Hands"</td>
+    </tr>
+    <tr>
+      <td>Skinny Puppy</td>
+      <td>Canada</td>
+      <td>"Assimilate"</td>
+    </tr>
+    <tr>
+      <td>Die Krupps</td>
+      <td>Germany</td>
+      <td>Evolution from EBM to metal fusion</td>
+    </tr>
+  </tbody>
 </table>
 </div>
-    
+
 <hr>
 
 ### Scene spread and influence
@@ -150,7 +138,6 @@ EBM has also had a huge influence on the following genres:
 
 - Goth/Industrial Club Culture (Cybergoth)
 
-
 <hr>
 
 ### Connection with club culture: EBM as body music
@@ -164,12 +151,10 @@ In the 1990s, while being looked back on as **"Old School EBM"**, the scene bran
 
 - Techno Body Music (TBM): EBM revival by techno DJs ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
 
-
 <hr>
 
 ### Recent revival and current EBM
 Since the 2010s, along with the techno-industrial revival, EBM has been reevaluated.
-
 
 <hr>
 
@@ -187,7 +172,6 @@ Since the 2010s, along with the techno-industrial revival, EBM has been reevalua
 
 These artists are influenced by EBM, but combine it with elements such as coldwave, synthwave, and post-punk to create new forms of EBM.
 
-
 <hr>
 
 #### Distinctive trends
@@ -199,7 +183,6 @@ These artists are influenced by EBM, but combine it with elements such as coldwa
 - Cyberpunk/DIY revival in terms of fashion
 
 - Return to "physical" DJ sets at clubs/raves
-
 
 <hr>
 
