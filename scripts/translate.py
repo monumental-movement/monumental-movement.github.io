@@ -176,10 +176,10 @@ try:
         #if old_paragraphs == new_paragraphs and old_body.strip():
         #    print(f"⏭️ No changes: {filename}")
         #    continue
-        elif old_body.strip():
-            print(f"🔁 Diff detected: {filename}")
-        else:
-            print(f"🆕 New file: {filename}")
+        #elif old_body.strip():
+        #    print(f"🔁 Diff detected: {filename}")
+        #else:
+        #    print(f"🆕 New file: {filename}")
 
         # 翻訳
         translated_paragraphs = translate_paragraphs(new_paragraphs)
