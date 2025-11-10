@@ -18,12 +18,12 @@ Drum n Bass/Hip Hop released by Shaolin Soldiers' Adrian Angevin (King Just) on 
 A2 is a remix by DJ Jam. B is a remix by Foul Play & Rob Playford.
 
 #### Tracklist
-"""md
+```md
 A1. Warriors Drum (Original Mix)
 A2. Warriors Drum (Westside Remix)
 
 B. Warriors Drum (Moving Shadow Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15405235359?afid=6142608987){: .button1}
 

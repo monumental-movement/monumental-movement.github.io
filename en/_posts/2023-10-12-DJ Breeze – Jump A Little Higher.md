@@ -18,14 +18,14 @@ DJ Breeze (Mark Breeze) was a DJ and producer who was popular in the British dan
 
 Side A is a remix by British DJ Brisk.
 
-"Jump A Little Higher" samples the vocals from Poor Pocket Productions' "Kick Your Legs In The Air" and the sound effects from Peech Boys' "Don't Make Me Wait (Special Version)."
+"Jump A Little Higher" samples the vocals from Poor Pocket Productions" "Kick Your Legs In The Air" and the sound effects from Peech Boys' "Don"t Make Me Wait (Special Version)."
 
 #### Tracklist
-"""md
+```md
 a. Jump A Little Higher (Brisk Remix)
 
 b. Jump A Little Higher
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 

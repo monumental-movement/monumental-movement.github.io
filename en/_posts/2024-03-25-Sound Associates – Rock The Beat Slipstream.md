@@ -17,10 +17,10 @@ A techno track released by Sound Associates, a unit consisting of DJ Daz Saund a
 Sound Associates is also known as Daz Saund & Ben Tisdall and Housewerk.
 
 #### Tracklist
-"""md
-A.Rock The Beat
+```md
+A. Rock The Beat
 B. Slipstream
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35823024589?afid=6142608987){: .button1}
 

@@ -17,19 +17,18 @@ Puppetmastaz is a German hip-hop group formed in Berlin in 1996, consisting of m
 Puppetmastaz performs shows using hand puppets and is characterized by a musical style that incorporates elements of rap, funk, and electronica.
 
 #### Tracklist
-"""md
+```md
 A1. Bigger The Better
 
 A2. Quick To
 
-B1. Masterplan
+B1. Mastaplan
 
 B2. What U Need
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42662167380?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yZoEGcTtR-Q?si=DGPwvCcUvMhps1LS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 

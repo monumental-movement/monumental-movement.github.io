@@ -16,23 +16,23 @@ title: Larry Carlton – Larry Carlton
 Larry Carlton, nicknamed "Mr. 335," is a legendary guitarist who has won four Grammy Awards and has always been a leader in the fusion world. This album, which bears his name, solidified Larry Carlton's status as a guitarist.
 
 #### Tracklist
-"""md
-A1.Room 335
+```md
+A1. Room 335
 
 A2. Where Did You Come From
 
-A3.Nite Crawler
+A3. Nite Crawler
 
 A4. Point It Up
 
 B1. Rio Samba
 
-B2.I Apologize
+B2. I Apologize
 
-B3. Don"t Give It Up
+B3. Don´t Give It Up
 
 B4. (It Was) Only Yesterday
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14275784867?afid=6142608987){: .button1}
 

@@ -12,14 +12,14 @@ title: Queen – The Game
 ---
 
 
-"The Game" is Queen's eighth studio album and shows the evolution and diversity of the band's musical style. In addition to traditional rock sounds, this album also includes songs that incorporate elements such as disco and funk.
+"The Game" is Queen"s eighth studio album and shows the evolution and diversity of the band"s musical style. In addition to traditional rock sounds, this album also includes songs that incorporate elements such as disco and funk.
 
 The album includes many hit songs, including Queen's signature songs "Another One Bites the Dust" and "Crazy Little Thing Called Love." These songs featured pop melodies and catchy refrains, and were loved by a wide range of listeners.
 
-The album embodies the diversity and creativity of Queen's music and occupies an important place in the band's career. "The Game" is highly regarded by Queen fans and rock music lovers as one of their masterpieces.
+The album embodies the diversity and creativity of Queen"s music and occupies an important place in the band"s career. "The Game" is highly regarded by Queen fans and rock music lovers as one of their masterpieces.
 
 #### Tracklist
-"""md
+```md
 A1. Play The Game
 
 A2. Dragon Attack
@@ -36,10 +36,10 @@ B2. Don't Try Suicide
 
 B3. Sail Away Sweet Sister
 
-B4.Coming Soon
+B4. Coming Soon
 
 B5. Save Me
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
 

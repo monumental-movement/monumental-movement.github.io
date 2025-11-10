@@ -21,7 +21,7 @@ Seb Fontaine, also known as Wildlife, is a DJ and producer from the UK. He has b
 The first track on Side A, "Dope Jazz" and the second track, "Smells Like Dope", were included on DJ Dan's classic break mixtape "San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass" released in 1993.
 
 #### Tracklist
-"""md
+```md
 Dope Side
 A1. Dope Jazz
 A2. Smells Like Dope
@@ -30,9 +30,9 @@ A3. Dope Producing
 Hooked Side
 B1. Hooked On You
 B2. Youre My Drug
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75896436535?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtTgzCMkfeU?si=bxzOASsR1FhRaJPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

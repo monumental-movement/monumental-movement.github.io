@@ -23,11 +23,11 @@ A is a co-production with Canadian DJ and producer Jelo.
 B is included in the band's third studio album, ""Random Album Title.''
 
 #### Tracklist
-"""md
+```md
 A. Deadmau5 vs Jelo – The Reward Is Cheese
 
 B. Deadmau5 – Not Exactly
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58724791682?afid=6142608987){: .button1}
 

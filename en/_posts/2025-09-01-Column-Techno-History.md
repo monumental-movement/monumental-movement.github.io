@@ -18,6 +18,7 @@ title: '[Column] From the origins of techno to the present - A chronological his
 
 Text: mmr｜Theme: Historical background of techno by decade, representative masterpieces, and changes in equipment
 
+
 The history of techno was born and evolved from the relationship between "cities" and "machines." Below, we will summarize the historical background, representative masterpieces, and changes in equipment by decade.
 
 ---
@@ -32,7 +33,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Donna Summer – "I Feel Love" (1977, prod. Giorgio Moroder)
 - Yellow Magic Orchestra – *Solid State Survivor* (1979)
 
-**Equipment**
+**equipment**
 - Moog/ARP/EMS Modular
 -Roland CR-78
 - Maestro Rhythm King
@@ -50,11 +51,11 @@ The history of techno was born and evolved from the relationship between "cities
 - Rhythim Is Rhythim – "Strings of Life" (1987)
 - Inner City – "Big Fun" (1988)
 
-**Equipment**
+**equipment**
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
-- Akai S900/S950
+-Akai S900/S950
 - Atari ST + Cubase/Notator
 
 ---
@@ -72,8 +73,8 @@ The history of techno was born and evolved from the relationship between "cities
 - Plastikman – *Sheet One* (1993)
 - Jeff Mills – "The Bells" (1997)
 
-**Equipment**
-- Akai S3000/S3200
+**equipment**
+-Akai S3000/S3200
 - E-mu ESI/E4
 - Ensoniq ASR-10
 - Mackie 1604/8-Bus
@@ -94,7 +95,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Kompakt – *Total* Series (2000–)
 - Richie Hawtin – *DE9 | Closer to the Edit* (2001)
 
-**Equipment**
+**equipment**
 - Ableton Live (2001–)
 - Reason (2000–)
 - Native Instruments Reaktor / Absynth
@@ -116,7 +117,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Surgeon – *From Farthest Known Objects* (2016)
 - Skee Mask – *Compro* (2018)
 
-**Equipment**
+**equipment**
 - Eurorack (Mutable Instruments, Make Noise, Intellijel)
 - Elektron Octatrack / Analog Rytm
 - Roland AIRA TR-8
@@ -136,7 +137,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Hard techno ~ Schranz comeback
 - Recontextualization of trans motifs
 
-**Equipment**
+**equipment**
 - Elektron Digitakt / Digitone
 - Roland TR-8S / MC-707
 - ASM Hydrasynth
@@ -165,9 +166,10 @@ The history of techno was born and evolved from the relationship between "cities
 
 ---
 
-### Summary
-The core of techno is "repetition" and "sound design."  
+### summary
+The core of techno is "repetition" and "sound design."
 Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics from the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
+
 
 ---
 

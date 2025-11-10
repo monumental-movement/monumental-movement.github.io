@@ -16,20 +16,20 @@ title: Riot – Inishmore
 "Inishmore" is the 10th studio album by the American hard rock/heavy metal band Riot, which was released in Japan in 1997. This album is based on the sagas of Celtic and Irish mythology. The 12th track is a bonus track only available on the Japanese version. The members at the time of release were Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, and Bobby Jarzombek.
 
 #### Tracklist
-"""md
-1.Black Water
-2.Angel Eyes
-3.Liberty
+```md
+1. Black Water
+2. Angel Eyes
+3. Liberty
 4. Kings Are Falling
-5.The Man
-6. Watching the Signs
+5. The Man
+6. Watching The Signs
 7. Should I Run
 8. Cry For The Dying
 9. Gypsy
 10. Inishmore (Forsaken Heart)
 11. Inishmore
 12. Danny Boy
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
 

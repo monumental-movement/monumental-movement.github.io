@@ -18,12 +18,12 @@ McCarthy was a British indie rock band that was active from 1985 to 1990. The me
 'Should The Bible Be Banned?' was released on the UK label September in 1998.
 
 #### Tracklist
-"""md
+```md
 A. Should The Bible Be Banned?
 
 B1. We Are All Bourgeois Now
 B2. Saint Francis Amongst The Mortals
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42183766686?afid=6142608987){: .button1}
 

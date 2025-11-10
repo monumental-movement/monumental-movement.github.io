@@ -17,20 +17,20 @@ Knights Of The Occasional Table are an electronic band from South East London co
 When this album was released in 1993, it was featured on John Peel's Peel Sessions.
 
 #### Tracklist
-"""md
-1.Choose
+```md
+1. Choose
 2. Amoeba
-3.Rainbows Of Gaia
+3. Rainbows Of Gaia
 4. Breathe
 5. Chislehurst Caves
 6. Um, Baby!
 7. Isn't It Terrific
 8. Angels Watching
-9.Star
+9. Star
 10. Trybes
 11. Knees Up Mother Earth
-12.Untitled
-""""
+12. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
 

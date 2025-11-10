@@ -20,7 +20,7 @@ Arling & Cameron have collaborated with Pizzicato Five and Cornelius, and have i
 The second song on side A of "We Love To Rock" is a remix by Cornelius.
 
 #### Tracklist
-"""md
+```md
 A1. We Love To Rock (Tofu Mix)
 
 A2. We Love To Rock (Cornelius Remix)
@@ -28,7 +28,7 @@ A2. We Love To Rock (Cornelius Remix)
 B1. We Love To Rock (Radio Mix)
 
 B2. We Love To Rock (Album Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48539410251?afid=6142608987){: .button1}
 

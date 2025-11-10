@@ -17,12 +17,12 @@ Cheap Trick is an American rock band formed in Rockford, Illinois in 1974 by Rob
 "In Color" is Cheap Trick's second album. The producer is Tom Werman, who is known as the producer of Ted Nugent.
 
 #### Tracklist
-"""md
-A1.Hello There
+```md
+A1. Hello There
 
 A2. Big Eyes
 
-A3.Downed
+A3. Downed
 
 A4. I Want You To Want Me
 
@@ -37,7 +37,7 @@ B3. Southern Girls
 B4. Come On, Come On
 
 B5. So Good To See You
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
 

@@ -14,10 +14,10 @@ title: Dee Jacobee – I"m Alive Jazz-N-Groove Mix
 ---
 
 
-A garage house track remixed by UK R&B singer Dee Jacobee's "I'm Alive" by Jazz-N-Groove, a US house production team active in the 90's NY house scene.
+A garage house track remixed by UK R&B singer Dee Jacobee"s "I"m Alive" by Jazz-N-Groove, a US house production team active in the 90's NY house scene.
 
 #### Tracklist
-"""md
+```md
 A. I'm Alive (Jazz 'N' Groove Vocal)
 
 B. I'm Alive (Soulfuric Dub Mix)

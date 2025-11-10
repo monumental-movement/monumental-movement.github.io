@@ -24,15 +24,18 @@ And finally, "Storm" by DOL-LOP, a central figure of SOUND-CHANNEL, an important
 This EP has been hailed as one of the important works in the Japanese music scene. You will be able to enjoy the essence of the underground music of the time.
 
 #### Tracklist
-"""md
+```md
 A1. Indopepsychics–D_P (Pt.2)
+
 
 A2. Takayuki Shiraishi–Flicker
 
+
 B1. Jin Hiyama–Tennis
 
+
 B2. Dol-lop–Storm
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
 

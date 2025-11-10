@@ -14,10 +14,10 @@ title: Various – Use Me No. 1
 
 A compilation released in 1998 on Müller Records, a techno and electro label run by German DJ and producer Frank Müller. Featuring DJ Rok, DJ Disko, Jonzon, and Beroshima.
 
-The first song on the B-side, Rok's "High Menergy," samples Macho's "I'm a Man," released in 1978.
+The first song on the B-side, Rok"s "High Menergy," samples Macho"s "I'm a Man," released in 1978.
 
 #### Tracklist
-"""md
+```md
 A1. Rok & Disko – Dual
 
 A2. Rok & Jonzon – Aqua Regia
@@ -25,7 +25,7 @@ A2. Rok & Jonzon – Aqua Regia
 B1. Rok – High Menergy
 
 B2. Beroshima – String Tanga
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48896354302?afid=6142608987){: .button1}
 

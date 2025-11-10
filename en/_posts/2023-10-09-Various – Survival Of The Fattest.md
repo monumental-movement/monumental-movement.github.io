@@ -16,7 +16,7 @@ title: Various – Survival Of The Fattest
 This is a compilation album released by the label "Fat Wreck Chords" in 1996.
 
 #### Tracklist
-"""md
+```md
 A1. Hi-Standard–California Dreaming
 
 A2. No Use For A Name–Justified Black Eye
@@ -50,7 +50,7 @@ B6. Bracket–Talk Show
 B7. Snuff –Walk
 
 B8. Me First And The Gimme Gimmes–Country Roads
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 

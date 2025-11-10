@@ -14,14 +14,16 @@ title: '[Column] Susumu Yokota — A universe in silence: A landscape of the sou
 ---
 
 
-## 第1章：電子音楽と日本 — 横田進の位置づけ
+## Chapter 1: Electronic music and Japan — Susumu Yokota's position
 
-文：mmr｜テーマ：ススム・ヨコタ（Susumu Yokota）。クラブ・カルチャーとアンビエントの境界で、音の魂を探った孤高のアーティスト。その静けさと宇宙性をたどる
 
-1990年代初頭、日本の電子音楽シーンはまだ黎明期にあった。テクノやハウスが輸入文化として浸透する中で、「環境音」や「静寂」を中心に据えたアンビエント音楽は、まだ少数派の実験的ジャンルだった。  
-ススム・ヨコタ（Susumu Yokota）は、まさにこの静寂の空間に息づく詩人であった。彼の音楽は、クラブカルチャーの延長線上にありながら、どこか「外」にいる。自然の呼吸、風の間合い、そして記憶の残響を電子の粒で描く——そんな稀有な作家性を持っていた。
+Text: mmr｜Theme: Susumu Yokota. A solitary artist who explores the soul of sound at the border between club culture and ambient. Tracing its tranquility and cosmic nature
 
-ヨコタは東京のクラブ・シーンから出発しながら、すぐにその文脈を超越した。彼の音楽は、ダンスミュージックの“リズム”よりも“間”を重視し、電子音楽における静謐と有機性を追求する方向へ進んだ。それは日本的な「侘び寂び」の感覚にも通じる。
+
+In the early 1990s, Japan's electronic music scene was still in its infancy. While techno and house were becoming popular as imported culture, ambient music, which focused on "environmental sounds" and "silence," was still a minority experimental genre.
+Susumu Yokota was a poet who lived in this quiet space. His music is an extension of club culture, yet somehow ""outside'' it. He was a rare artist who used electronic particles to depict the breath of nature, the distance of the wind, and the reverberations of memories.
+
+Although Yokota started out in Tokyo's club scene, he quickly transcended that context. His music focused more on "pause" than the "rhythm" of dance music, and moved toward pursuing the tranquility and organicity of electronic music. This is similar to the Japanese sense of ""wabi-sabi''.
 
 ---
 
@@ -38,59 +40,61 @@ color: #fff;
 }
 </style>
 
-## 第2章：作家としての横田進 — サウンドスケープの詩
 
-初期の横田作品には、アシッド・ハウスの影響が色濃く見られる。  
-『Acid Mt. Fuji』（1994）は、自然音とアシッド・シンセを融合させた画期的な作品だった。電子音楽が「自然」を描くという逆説的な構造。そこにはすでに、後年のアンビエント的思想の萌芽があった。
+## Chapter 2: Susumu Yokota as a writer — Poetry of soundscape
 
-彼の手法は、単なるトラックメイクではなく「音響詩」である。サンプリング素材を再構成し、微細なループを空気のように漂わせる。音が時間とともに変質し、やがて記憶の奥に沈んでいくような感覚。それは彼自身の音楽観そのものだった。
+Yokota's early works are heavily influenced by acid house.
+Acid Mt. Fuji (1994) was a groundbreaking work that fused natural sounds and acid synth. A paradoxical structure in which electronic music depicts "nature." There were already the seeds of later ambient ideas.
 
-そして注目すべきは、彼が複数の名義で作品を発表していたことだ。中でも「**Anima Mundi**」は重要な別名義であり、より内省的かつ瞑想的なサウンドを展開した。この名義では、リズムのない純粋な音響体験を通じて“世界の魂”＝Anima Mundiという形而上のテーマを探っている。
+His method is not just track making, but ""acoustic poetry.'' Reconstructing the sampled material and making minute loops float like air. It feels like the sound changes over time and eventually sinks into the depths of memory. That was his own view of music.
 
----
-
-## 第3章：アルバム解体 — 名盤の深層
-
-### 『Sakura』（1999）
-横田進の代表作であり、アンビエント音楽史に残る金字塔。  
-淡くにじむメロディと環境音が幾重にも重なり、聴く者の意識を静かに内側へと導く。桜の散る一瞬を音に閉じ込めたような儚さがあり、日本的叙情と普遍的美が融合している。
-
-アルバムは構成的にも秀逸で、全体が一つの「呼吸」のように流れる。静かに始まり、かすかなリズムが生まれ、やがて消えていく。まるで人生や季節の循環そのものだ。  
-『Sakura』が世界のアンビエントファンに愛され続けるのは、この「時間の感覚」を音で描き切っているからだろう。
-
-### 『Symbol』（2001）
-クラシック音楽のサンプリングを駆使しながら、独自の音像を構築。  
-バロックや印象派の旋律が、ヨコタの手によって電子の海に溶けていく。作品全体は“再構成された記憶”のようであり、まさにタイトル通り「象徴」の音楽だ。
-
-### 『Grinning Cat』（2000）
-幻想的な音響が心地よく、童話的な世界観を持つアルバム。  
-そこには単なるアンビエントの枠を超えた遊び心がある。音の形を変えながら、聴き手に物語を想像させる力を持っている。
-
-### 『The Boy and the Tree』（2003）
-森の中で録音されたような空気感と、生命の鼓動を思わせるリズム。  
-自然と電子のあいだに漂う、ヨコタ独自の「生命の音楽」。後期の代表作として完成度が高い。
+What is noteworthy is that he published his works under multiple names. Among them, "**Anima Mundi**" was an important alias, and developed a more introspective and meditative sound. Under this name, he explores the metaphysical theme of "Anima Mundi" (the soul of the world) through a pure acoustic experience without rhythm.
 
 ---
 
-## 第4章：Anima Mundi名義のプロジェクト
+## Chapter 3: Album Deconstruction — The Depths of a Great Album
 
-「Anima Mundi（アニマ・ムンディ）」とはラテン語で“世界の魂”を意味する。  
-横田進がこの名義で展開した作品群は、まさにその名にふさわしい内容だった。  
-ドローン、環境音、そして倍音構造に重点を置いた楽曲群は、聴く者の内的空間を拡張する。そこに拍子も旋律もない。ただ「存在する音」だけがある。
+### "Sakura" (1999)
+Susumu Yokota's masterpiece and a monumental work in the history of ambient music.
+The faint melody and environmental sounds are layered, gently guiding the listener's consciousness inward. It has a transience that captures the moment of falling cherry blossoms in the sound, and it is a fusion of Japanese lyricism and universal beauty.
 
-この名義は、ヨコタにとって「無意識と宇宙をつなぐチャンネル」だったとも言える。  
-ススム・ヨコタ名義での音楽が“地上の詩”なら、Anima Mundiは“天上の祈り”である。
+The album has an excellent structure, and the whole album flows like a single "breath". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
+The reason "Sakura" continues to be loved by ambient music fans around the world is probably because it perfectly depicts this "sense of time" through sound.
 
-12インチの「Hebula」は、幻想的でトリップ感溢れるサウンドと、トライバルなリズムや要素が融合したテクノの楽曲です。この曲は、複雑な音響効果や重層的なサウンドテクスチャが特徴であり、聴く人を異世界へと誘います。
+### "Symbol" (2001)
+Build your own sound image while making full use of classical music sampling.
+Baroque and Impressionist melodies dissolve into a sea of ​​electronics in Yokota's hands. The entire work is like a ""reconstructed memory," and as the title suggests, it is ""symbolic" music.
+
+### "Grinning Cat" (2000)
+An album with a fairy-tale-like worldview, with comfortable, fantastic acoustics.
+There is a sense of playfulness that goes beyond the framework of mere ambient music. It has the power to make the listener imagine a story while changing the shape of the sound.
+
+### "The Boy and the Tree" (2003)
+It has an atmosphere that feels like it was recorded in a forest, and a rhythm that makes you think of the heartbeat of life.
+Yokota's unique "music of life" floating between nature and electronics. It has a high degree of perfection as a masterpiece of his later period.
+
+---
+
+## Chapter 4: Project under the name of Anima Mundi
+
+"Anima Mundi" means "soul of the world" in Latin.
+The series of works that Susumu Yokota developed under this name were truly worthy of that name.
+The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists''.
+
+For Yokota, this name could be said to be a ""channel that connects the unconscious and the universe.''
+If the music under the name Susumu Yokota is "earthly poetry," Anima Mundi is "heavenly prayer."
+
+The 12-inch "Hebula" is a techno song that combines a dreamy, trippy sound with tribal rhythms and elements. This song features complex acoustic effects and multi-layered sound textures, transporting listeners to another world.
 
 #### Tracklist
-"""md
+```md
 A1. Hebula
 
-B1.
+B1. Fujin
 
 B2. Spring
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
@@ -99,70 +103,70 @@ B2. Spring
 
 ---
 
-## 第5章：国際的評価と影響
+## Chapter 5: International reputation and impact
 
-2000年代初頭、Susumu Yokotaは欧米のアンビエント／エレクトロニカ・シーンで高く評価された。  
-特に『Sakura』は、Boards of CanadaやFennesz、Biosphereと並び称されるほどの完成度を誇った。  
-その美しさはジャンルの境界を越え、ポストクラシカルや瞑想音楽にも影響を与えた。
+In the early 2000s, Susumu Yokota was highly acclaimed in the European and American ambient/electronica scenes.
+In particular, ""Sakura'' boasted such a level of perfection that it was ranked alongside Boards of Canada, Fennesz, and Biosphere.
+Its beauty transcended genre boundaries and influenced post-classical and meditative music.
 
-また、Aphex TwinやFour Tetらが彼の作品を支持していたことも知られている。  
-海外では「日本が生んだブライアン・イーノ」と評されたが、実際のヨコタの音楽は、より感情的で詩的であった。
-
----
-
-## 第6章：ライブと身体性
-
-ヨコタのライブは、単なる再現ではなく「空間そのものを奏でる」試みだった。  
-彼は照明や映像を極力排し、音が持つ“空気の密度”で空間を変容させた。  
-観客は音の粒に包まれ、時の感覚を失う。まるで一人一人が音の中に溶けていくような体験だった。
-
-その姿勢は、テクノのダンス的身体性と、アンビエントの瞑想性を同時に成立させる稀有な例だった。
+It is also known that Aphex Twin and Four Tet supported his work.
+Overseas, he was described as ""Japan"s Brian Eno,'' but Yokota"s music was actually more emotional and poetic.
 
 ---
 
-## 第7章：横田進の音楽哲学
+## Chapter 6: Live and physicality
 
-横田の音楽哲学は、簡潔に言えば「音の中に生命を見出す」ことだ。  
-彼にとって音は素材ではなく、生きている存在だった。  
-だからこそ、彼の作品には人工的な冷たさがない。電子音であっても、どこか草木のように温かい。
+Yokota's live performance was not just a reenactment, but an attempt to "play out the space itself."
+He eliminated lighting and images as much as possible, transforming the space with the "density of air" that sound has.
+The audience is enveloped in particles of sound and loses their sense of time. It was an experience that felt like each person was melting into the sound.
 
-彼の音楽はまた、時間に対する詩的な探求でもある。  
-時間が“流れる”のではなく、“たゆたう”ように感じられる。  
-その流れの中で、聴き手は自己を忘れ、音と一体化していく。
+His stance was a rare example of combining the dance-like physicality of techno with the meditative nature of ambient.
 
 ---
 
-## 第8章：遺産と現代への継承
+## Chapter 7: Susumu Yokota's music philosophy
 
-2015年に彼がこの世を去ったとき、多くのファンやミュージシャンがその喪失を嘆いた。  
-だが、彼の音楽は今も静かに息づいている。Bandcampや再発盤を通じて、新たな世代が彼の音に触れ続けている。  
-Ambient, Drone, Minimalといったジャンルを越え、彼の音楽は“聴く瞑想”として再発見されている。
+Yokota's musical philosophy, simply put, is ""finding life in sound.''
+For him, sound was not just a material, but a living entity.
+That"s why his works have no artificial coldness. Even though it"s an electronic sound, it has a warm, plant-like feel to it.
 
-また、現代のアンビエント作家たち——例えばChihei HatakeyamaやHiroshi Ebinaらにも、ヨコタの精神は確実に受け継がれている。
-
----
-
-## ディスコグラフィー（主要作品）
-
-| 年 | タイトル | 名義 | 解説 | リンク |
-|----|------------|--------|------|---------------|
-| 1993 | **Acid Mt. Fuji** | Susumu Yokota | クラブカルチャー黎明期のアンビエント・トランス傑作。自然音とアシッドの融合。 | [[Amazon]](https://amzn.to/4owRLua) |
-| 1997 | **Cat, Mouse and Me** | Susumu Yokota | ジャズ／ハウス／アンビエントを自在に行き来する多彩な音響。 | [[Amazon]](https://amzn.to/3KVaVLz) |
-| 1998 | **Image 1983–1998** | Susumu Yokota | 自作音源の総集編的コンピレーション。初期から円熟期への軌跡。 | [[Amazon]](https://amzn.to/4o9AFSY) |
-| 1999 | **Sakura** | Susumu Yokota | 代表作。環境音とメランコリックな旋律が溶け合う、永遠のアンビエント名盤。 | [[Amazon]](https://amzn.to/43o2dMb) |
-| 2000 | **Grinning Cat** | Susumu Yokota | 不思議な浮遊感と童話的世界観。坂本龍一にも通じる構成美。 | [[Amazon]](https://amzn.to/4qfXg1I) |
-| 2001 | **Symbol** | Susumu Yokota | クラシック音源のサンプリングを駆使した美学的到達点。 | [[Amazon]](https://amzn.to/47vZGBY) |
-| 2003 | **The Boy and the Tree** | Susumu Yokota | 森の中で聴くような、静けさと生命力を感じさせる音響詩。 | [[Amazon]](https://amzn.to/4qjzYIs) |
-| 2005 | **Wonder Waltz** | Susumu Yokota | ビートと幻想を融合した後期代表作。柔らかな夢幻世界を描く。 | [[Amazon]](https://amzn.to/3IV6Vu1) |
-| 1997–2002 | **Anima Mundi作品群** | Anima Mundi | 別名義による実験的アンビエント・プロジェクト。電子と自然の境界を曖昧にする音世界。 | [[Amazon]](https://amzn.to/497CTh5) |
+His music is also a poetic exploration of time.
+Time does not feel like it is "flowing", but rather "swaying".
+In this flow, the listener forgets himself and becomes one with the sound.
 
 ---
 
-## 第9章：結語 — 無音の中に宿る音楽
+## Chapter 8: Heritage and its continuation to the present day
 
-Susumu Yokota's music is told not through flashy melodies and beats, but through silence and blank spaces.  
-In that silence dwell the noise of the city, the breath of nature, and human memory.  
+When he passed away in 2015, many fans and musicians mourned his loss.
+However, his music still lives on quietly. New generations continue to be exposed to his sound through Bandcamp and reissues.
+His music transcends genres such as Ambient, Drone, and Minimal, and is being rediscovered as "listening meditation."
+
+Furthermore, Yokota's spirit has certainly been inherited by contemporary ambient artists such as Chihei Hatakeyama and Hiroshi Ebina.
+
+---
+
+## Discography (main works)
+
+| Year | Title | Name | Explanation | Link |
+|----|------------|---------|------|---------------|
+| 1993 | **Acid Mt. Fuji** | Susumu Yokota | An ambient trance masterpiece from the early days of club culture. A fusion of nature sounds and acid. | [[Amazon]](https://amzn.to/4owRLua) |
+| 1997 | **Cat, Mouse and Me** | Susumu Yokota | A variety of sounds that freely move between jazz/house/ambient. | [[Amazon]](https://amzn.to/3KVaVLz) |
+| 1998 | **Image 1983–1998** | Susumu Yokota | A comprehensive compilation of self-produced sound sources. Trajectory from early childhood to maturity. | [[Amazon]](https://amzn.to/4o9AFSY) |
+| 1999 | **Sakura** | Susumu Yokota | Masterpiece. A timeless ambient masterpiece that blends environmental sounds and melancholic melodies. | [[Amazon]](https://amzn.to/43o2dMb) |
+| 2000 | **Grinning Cat** | Susumu Yokota | A mysterious floating feeling and a fairy-tale worldview. The beauty of composition is similar to that of Ryuichi Sakamoto. | [[Amazon]](https://amzn.to/4qfXg1I) |
+| 2001 | **Symbol** | Susumu Yokota | An aesthetic achievement that makes full use of sampling of classical sound sources. | [[Amazon]](https://amzn.to/47vZGBY) |
+| 2003 | **The Boy and the Tree** | Susumu Yokota | An acoustic poem that gives you a sense of tranquility and vitality, as if you were listening to it in the forest. | [[Amazon]](https://amzn.to/4qjzYIs) |
+| 2005 | **Wonder Waltz** | Susumu Yokota | A late masterpiece that combines beats and fantasy. Depicts a soft dream world. | [[Amazon]](https://amzn.to/3IV6Vu1) |
+| 1997–2002 | **Anima Mundi works** | Anima Mundi | Experimental ambient project under another name. A world of sound that blurs the boundaries between electronic and nature. | [[Amazon]](https://amzn.to/497CTh5) |
+
+---
+
+## Chapter 9: Conclusion — Music in silence
+
+Susumu Yokota's music is told not through flashy melodies and beats, but through silence and blank spaces.
+In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in your heart.  
+Even after the sound disappears, something remains in my heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

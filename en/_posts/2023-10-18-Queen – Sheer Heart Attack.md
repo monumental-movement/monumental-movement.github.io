@@ -15,7 +15,7 @@ title: Queen – Sheer Heart Attack
 Produced by Queen and Roy Thomas Baker. It was also from this album that songs written by John Deacon began to be included.
 
 #### Tracklist
-"""md
+```md
 A1. Brighton Rock
 A2. Killer Queen
 A3. Tenement Funster
@@ -30,7 +30,7 @@ B4. Misfire
 B5. Bring Back That Leroy Brown
 B6. She Makes Me (Stormtrooper In Stilettoes)
 B7. In The Lap Of The Gods...Revisited
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 

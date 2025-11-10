@@ -17,10 +17,12 @@ title: Earth, Wind & Fire – All 'N All
 
 All 'n All is the eighth studio album by the American band Earth, Wind & Fire, released by Columbia Records in 1977. This album is Earth, Wind & Fire's masterpiece, reaching number 1 on the US Billboard Top R&B/Hip-Hop Albums chart.
 
+
+
 #### Tracklist
-"""md
+```md
 A1. Serpentine Fire
-A2.Fantasy
+A2. Fantasy
 In The Market Place (Interlude) / Jupiter
 A3a. In The Market Place (Interlude)
 A3b. Jupiter
@@ -34,7 +36,7 @@ Runnin' / Brazilian Rhyme (Interlude)(6:45)
 B3a. Runnin'
 B3b. Brazilian Rhyme (Interlude)
 B4. Be Ever Wonderful
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76644904752?afid=6142608987){: .button1}
 

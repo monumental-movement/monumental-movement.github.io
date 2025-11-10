@@ -18,11 +18,11 @@ Smallage is a project by Italian DJ Stefano Mango, DJ Lino Lodi, and Denis Quari
 The vocals for "Together" are sampled from Fonda Rae's "Touch Me (All Night Long)."
 
 #### Tracklist
-"""md
-A.Together (Club Mix)
+```md
+A. Together (Club Mix)
 
-B.Together (Dub Mix)
-""""
+B. Together (Dub Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23125187393?afid=6142608987){: .button1}
 

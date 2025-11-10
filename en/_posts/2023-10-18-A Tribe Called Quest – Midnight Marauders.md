@@ -14,13 +14,13 @@ title: A Tribe Called Quest – Midnight Marauders
 Midnight Marauders, released in 1993, is ATCQ's third album.
 
 #### Tracklist
-"""md
+```md
 A1. Midnight Marauders Tour Guide
 A2. Steve Biko (Stir It Up)
-A3.Award Tour
+A3. Award Tour
 A4. 8 Million Stories
 A5. Sucka Nigga
-A6.Midnight
+A6. Midnight
 A7. We Can Get Down
 
 B1. Electric Relaxation
@@ -30,7 +30,7 @@ B4. Keep It Rollin'
 B5. The Chase, Part II
 B6. Lyrics To Go
 B7. God Lives Through
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
 

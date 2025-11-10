@@ -16,17 +16,20 @@ title: '[Column] Beyond Drift: Eurobeat/EDM and the future form of "memory of sp
 ---
 
 
-## イントロダクション：峠の向こう側へ
+## Introduction: To the other side of the mountain pass
 
-文：mmr｜テーマ：頭文字Dとユーロビート、そしてその後に続く“音の加速度”の行方"
 
-『頭文字D』とユーロビート。その結びつきが一つの文化装置として機能していた時代は、もはや「懐かしさ」だけでは語りきれない。  
-90年代末から2000年代初頭にかけて、峠を走る車の映像とハイテンポなサウンドの共振は、ひとつの無意識的共通体験を生み出した。  
-それは、スピード＝音楽であり、音楽＝感情の加速度だった。
+Text: mmr｜Theme: Initial D, Eurobeat, and the fate of the "acceleration of sound" that follows."
 
-だが時代は進み、車は静音化し、音楽はストリーミングに溶け込んだ。  
-それでも、ユーロビートの「速度の記憶」は消えていない。  
-むしろ今、**デジタル空間・AI生成・リアルタイム音響**の文脈で、新たな“走る音楽”へと姿を変えようとしている。
+
+"Initial D" and Eurobeat. The era when these connections functioned as a cultural device can no longer be talked about solely through ""nostalgia.''
+From the late 1990s to the early 2000s, the resonance of images of cars driving through mountain passes and high-tempo sounds created an unconscious, shared experience.
+Speed ​​= music, and music = acceleration of emotions.
+
+But times have moved on, cars have become quieter, and music has become streaming.
+Still, Eurobeat's ""memory of speed'' remains.
+Rather, it is now transforming into a new kind of "running music" in the context of **digital space, AI generation, and real-time sound**.
+
 
 <style type="text/css">
 
@@ -41,130 +44,131 @@ color: #fff;
 }
 </style>
 
----
-
-## 1. “峠”から“軌道”へ：ユーロビートがたどった音楽空間のグラデーション
-
-前二作で語られた通り、『頭文字D』におけるユーロビートは、峠の物語と不可分だった。  
-だがそれは単に地形や映像演出の補助ではなく、**時間の歪みを音として翻訳する装置**だった。
-
-いま振り返れば、ユーロビートとは「走行する身体の内部時間」を音響的に可視化するジャンルだったとも言える。  
-疾走するビート、過剰なメロディ、そしてリピートするサビ——それらはすべて、物理的な速度を感情の速度へと変換していた。
-
-21世紀に入り、EDMやTrance、Synthwave、さらにはHyperpopまでがその血脈を継ぐ。  
-それはジャンルの継承ではなく、**加速度という感覚の継承**だ。
-
-- テンポ150を超えるリズム
-- シンセリードの極端な明るさ
-- 空間のリバーブとクラップの過剰な反復
-
-こうした特徴は、まさにユーロビートの残響である。  
-そして今、その残響はネット空間の中で再び脈打ち始めている。
 
 ---
 
-## 2. EDM、シンセウェーブ、Hyperpop —— 血脈としてのユーロビート
+## 1. From "pass" to "trajectory": the gradation of the musical space traced by Eurobeat
 
-2020年代において、ユーロビート的な“加速感”を意識的に引用する若手アーティストは少なくない。  
-たとえば、YouTube上の**「Eurobeat Remake」「Nightcore Revival」**タグを辿れば、  
-EDMとアニメ文化、あるいはゲーム音楽の交差点で、無数のトラックが生成されているのが分かる。
+As mentioned in the previous two works, the Eurobeat in Initial D was inseparable from Toge's story.
+However, it was not just an aid to the terrain and visual production, but a **device that translated the distortion of time into sound**.
 
-EDMのビルドアップ、Hyperpopのボーカルチョップ、Tranceのメロディリフト。  
-それらを貫くのは、**「高揚を設計する音」**という思想だ。  
-そして、その思想の原点こそが、90年代のユーロビートに他ならない。
+Looking back now, we can say that Eurobeat was a genre that acoustically visualized the ""internal time of a running body.''
+Rushing beats, overflowing melodies, and repeating choruses all translated physical speed into emotional speed.
 
-> 「速さは、時代の言語だ。」  
->  — anonymous Eurobeat producer, 1998 interview
+In the 21st century, EDM, Trance, Synthwave, and even Hyperpop have inherited this lineage.
+It's not the inheritance of a genre, but the inheritance of a sense of acceleration.
 
-この言葉は今、生成音楽の時代に新たな意味を帯びる。  
-速さは単なるテンポではなく、**感情の演算速度**として存在するのだ。
+- Rhythms with over 150 tempos
+- extreme brightness of synth leads
+- Excessive repetition of spatial reverb and claps
 
----
-
-## 3. オートモーティブ × 音楽テクノロジー：自動運転、VR/AR、サウンドスケープ
-
-ユーロビートが「峠」で生まれたなら、次に向かうのは「軌道」だろう。  
-それは衛星軌道でも、VRの走行空間でもいい。  
-音楽と速度が再び交差するための新しい座標が、いま広がっている。
-
-### ● 自動運転車 × 音楽パラメータ連動
-
-車速、ハンドル角、傾斜センサー、GPS座標などをリアルタイムで解析し、  
-テンポ・リバーブ・EQを自動調整する「リアクティブBGMエンジン」が試験段階にある。  
-つまり、**車の挙動が音楽を奏でる時代**が到来しているのだ。
-
-ユーロビートの“ドリフト感”を、音響パラメータで再現する。  
-これはかつて『頭文字D』が映像と音楽でやっていたことの、テクノロジーによる再演である。
-
-### ● VR／ARドライビング空間
-
-仮想走行環境では、サウンドスケープが重要な役割を果たす。  
-風切り音、タイヤの摩擦、トンネルの反響、エンジンの揺らぎ——  
-その全てをユーロビート的なテンポに同期させることで、没入感は劇的に増す。
-
-いまや“峠”はVRヘッドセットの中にある。  
-そしてその中で鳴る音は、過去の再現ではなく、**未来の走行記憶**として再構築されている。
+These characteristics are exactly the echoes of Eurobeat.
+And now, its reverberations are once again beginning to pulsate in the internet space.
 
 ---
 
-## 4. サウンドと空間の融合：走る音楽としてのインスタレーション、ライブ体験
+## 2. EDM, Synthwave, Hyperpop —— Eurobeat as a bloodline
 
-「走り」を聴覚的に再現するアートの動きも、世界各地で始まっている。
+In the 2020s, there are many young artists who consciously quote Eurobeat-like "sense of acceleration".
+For example, if you follow the ""Eurobeat Remake" and ""Nightcore Revival" tags on YouTube,
+You can see that countless tracks are being created at the intersection of EDM, anime culture, and game music.
 
-- **モービル・サウンド・ライブ**  
-  特殊車両にサウンドシステムを搭載し、走行中の加速度データで音を変化させるライブ。  
-  ドリフト時にハイハットが増幅し、コーナーでベースが歪む。
+The build-up of EDM, the vocal chop of Hyperpop, the melody lift of Trance.
+What runs through them is the idea of ​​""sound that designs upliftment''.
+And the origin of that philosophy is none other than the Eurobeat of the 90s.
 
-- **サウンド・トンネル・インスタレーション**  
-  聴衆が歩くことで音のピッチやテンポが変わる空間。  
-  まるで“歩行ドリフト”のように、自分の動きがサウンドを生成する。
+> "Speed ​​is the language of the times."
+> — anonymous Eurobeat producer, 1998 interview
 
-- **クラブ空間での再演**  
-  DJブース背後に峠映像を投影し、ユーロビート×EDMセットで構築される「仮想峠ナイト」。  
-  フロアはカーブ、観客はエンジンだ。
-
-こうした試みが示すのは、ユーロビートが「リスニング音楽」から「体験音楽」へと移行しているという事実だ。
+This word now takes on new meaning in the age of generative music.
+Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
 
-## 5. 「速度の記憶」を共有するメディア：AIリミックス、ジェネレーティブ音楽、参加型表現
+## 3. Automotive × Music Technology: Autonomous Driving, VR/AR, Soundscape
 
-AI音楽生成が一般化した現在、ユーロビートは“再現可能なジャンル”を超えて、  
-“ユーザーが走らせるジャンル”へと変わりつつある。
+If Eurobeat was born on the ""pass", the next step would be ""orbit".
+It could be a satellite orbit or a VR driving space.
+New coordinates are now unfolding for music and speed to intersect again.
 
-### ● AIドリフト・リミックス
+### ● Self-driving car × music parameter linkage
 
-走行ログ（速度・ルート・カーブ情報）をAIに入力すると、  
-その走りに対応するユーロビート風トラックを自動生成。  
-「あなたの走りが曲になる」時代が、すでにテストベンチ上で実現し始めている。
+Analyzes vehicle speed, steering wheel angle, tilt sensor, GPS coordinates, etc. in real time,
+A "reactive BGM engine" that automatically adjusts tempo, reverb, and EQ is in the testing stage.
+In other words, the era in which the behavior of a car plays music has arrived.
 
-### ● SNS発ユーロビート・リバイバル
+Reproduce the "drift feeling" of Eurobeat with acoustic parameters.
+This is a technological reenactment of what Initial D used to do with video and music.
 
-TikTokやYouTubeでは、“Eurobeat × 自分のドライブ映像”を組み合わせる投稿が爆発的に増加。  
-それらは単なる懐古ではなく、「走行感覚を共有する新たなフォーマット」として機能している。  
-いわば**“速度の共有メディア”**である。
+### ● VR/AR driving space
 
-### ● NFT／ブロックチェーンと音楽所有の再定義
+Soundscapes play an important role in virtual driving environments.
+Wind noise, tire friction, tunnel echoes, engine fluctuations...
+By synchronizing all of this to a Eurobeat-like tempo, the sense of immersion increases dramatically.
 
-走行データとサウンド生成結果をNFT化し、  
-「このカーブ、この速度、この音」という一回限りの体験を所有する。  
-ユーロビートはこうして、**保存される加速度**へと変わっていく。
+"Touge" is now inside a VR headset.
+The sounds made inside are not a reenactment of the past, but are reconstructed as **future driving memories**.
 
 ---
 
-## 6. 結論：ユーロビートは“保存される加速度”へ変容しうるか
+## 4. Fusion of sound and space: installation as running music, live experience
 
-『頭文字D』が提示したのは、車と音楽が一体化する“感覚の速度論”だった。  
-その精神は、デジタル時代に形を変えながら生き続けている。  
-ユーロビートは、ノスタルジーではなく、**速度を記録・再生・生成するメディア**として蘇りつつあるのだ。
+An art movement that audibly reproduces the feeling of running has begun in various parts of the world.
 
-AIによって再構築される加速度。  
-VRで再演される峠。  
-データとして残るスピードの痕跡。  
-それらすべてを束ねるコードが、「Eurobeat」という三文字の中に脈打っている。
+- **Mobile Sound Live**
+A live performance in which a special vehicle is equipped with a sound system, and the sound changes based on acceleration data while driving.
+The hi-hat is amplified when drifting, and the bass becomes distorted in corners.
 
-> 再生ボタンを押すたびに、あのカーブが待っている。  
-> だが今度は、そのカーブを“自分の音”として描けるだろう。
+- **Sound tunnel installation**
+A space where the pitch and tempo of the sound changes as the audience walks.
+Just like "walking drift," your movements generate sound.
+
+- **Replay in club space**
+"Virtual Toge Night" is a Eurobeat x EDM set that projects images of Toge behind the DJ booth.
+The floor is a curve, and the audience is an engine.
+
+What these efforts demonstrate is the fact that Eurobeat is moving from ""listening music" to ""experiential music."
+
+---
+
+## 5. Media that shares "memory of speed": AI remix, generative music, participatory expression
+
+Now that AI music generation has become commonplace, Eurobeat has gone beyond a "reproducible genre".
+It is becoming a genre that is driven by users.
+
+### ● AI Drift Remix
+
+When you input the driving log (speed, route, curve information) into the AI,
+Automatically generates a Eurobeat-style track that corresponds to that driving style.
+The era of ""your driving becoming the song'' is already beginning to become a reality on the test bench.
+
+### ● Eurobeat revival from SNS
+
+On TikTok and YouTube, the number of posts that combine "Eurobeat x own driving video" has increased explosively.
+These are not just nostalgia, but function as a ""new format for sharing the feeling of driving.''
+It is, so to speak, a ""speed sharing medium''.
+
+### ● NFT/Blockchain and redefining music ownership
+
+Convert driving data and sound generation results into NFT,
+Owning the one-time experience of ""this curve, this speed, this sound.''
+Eurobeat thus turns into **Saved Acceleration**.
+
+---
+
+## 6. Conclusion: Can Eurobeat transform into "saved acceleration"?
+
+What ""Initial D" presented was a ""sensory speed theory" in which cars and music became one.
+That spirit continues to live on, albeit in a different form in the digital age.
+Eurobeat is being revived not as a nostalgia thing, but as a medium that records, plays, and generates speed.
+
+Acceleration reconstructed by AI.
+A mountain pass reenacted in VR.
+Traces of speed that remain as data.
+The code that binds them all is pulsating within the three letters "Eurobeat."
+
+> Every time you press the play button, that curve is waiting for you.
+> But this time, you will be able to draw that curve as "your own sound."
 
 ---
 
@@ -173,12 +177,12 @@ VRで再演される峠。
 <div class="mermaid">
 
 flowchart TD
-    A1990["1990: The turning point from Italo Disco to Eurobeat"]
-    A1995["1995: ""Initial D'' animated, combined with runner culture"]
-    A2000["2000: The SEB series enters its golden age"]
-    A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
-    A2020["2020: AI-generated music/inherited to VR driving experience"]
-    A2025["2025: Eurobeat as Interactive Sound Media concept"]
+A1990["1990: The turning point from Italo Disco to Eurobeat"]
+A1995["1995: ""Initial D'' animated, combined with runner culture"]
+A2000["2000: The SEB series enters its golden age"]
+A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
+A2020["2020: AI-generated music/inherited to VR driving experience"]
+A2025["2025: Eurobeat as Interactive Sound Media concept"]
 
 A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
 

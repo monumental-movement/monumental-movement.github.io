@@ -9,7 +9,7 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown - It's A Man's Man's World
+title: James Brown - It"s A Man"s Man's World
 ---
 
 
@@ -20,11 +20,11 @@ The lyrics of this song are about a world dominated by men, but at the same time
 The song occupies an important place in Brown's musical career and is widely praised as a soul and R&B classic. Due to her deep singing and heart-touching messages, she continues to be loved by many listeners today.
 
 #### Tracklist
-"""md
+```md
 A. It's A Man's Man's World
 
 B. Papa's Got A Brand New Bag
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26166401596?afid=6142608987){: .button1}
 

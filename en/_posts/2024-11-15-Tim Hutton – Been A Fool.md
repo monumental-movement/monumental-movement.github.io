@@ -17,15 +17,15 @@ Tim Hutton is a UK producer, songwriter, and multi-instrumentalist. He is also a
 
 "Been A Fool" is a house future jazz track released in 2000.
 
-The first track on the B-side is a remix by the UK hip-hop group The Nextmen, who have created remixes for Public Enemy, the Pharcyde, Blackalicious, and more.
+The first song on the B-side is a remix by the UK hip-hop group The Nextmen, who have remixed songs such as Public Enemy, the Pharcyde, and Blackalicious.
 
 #### Tracklist
-"""md
-A1.Been A Fool
+```md
+A1. Been A Fool
 A2. Been A Fool (The Next Men Mix) Remix – The Nextmen
 
-B1. Colors (Freeform Five Mix) Remix – Freeform Five
-""""
+B1. Colours (Freeform Five Mix) Remix – Freeform Five
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19134030738?afid=6142608987){: .button1}
 

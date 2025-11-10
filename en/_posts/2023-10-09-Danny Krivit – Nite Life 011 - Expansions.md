@@ -12,12 +12,12 @@ title: Danny Krivit – Nite Life 011 - Expansions
 ---
 
 
-Slammin' and jammin' jazzy house from one of New York's most experienced disc jockeys. Danny Krivit has been active in the New York disco scene from Paradise Garage to Danceteria to Save the Robots to Limelight to today. He plays his "Body & Soul" residency every Sunday.
+Slammin" and jammin' jazzy house from one of New York"s most experienced disc jockeys. Danny Krivit has been active in the New York disco scene from Paradise Garage to Danceteria to Save the Robots to Limelight to today. He plays his "Body & Soul" residency every Sunday.
 
 CD1 has a slightly eclectic feel, and CD2 is full of high quality sounds. Especially when Klubfilter, Funk Against Jazz, Dennis Ferrer, and Nigel Hayes are all mixed together, it creates a live instrument-heavy concert atmosphere. Things like Celebrate and especially Octave One's "Blackwater" and Peckham Royalty with their amazing keyboards make this special.
 
 #### Tracklist
-"""md
+```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
 1-02. Fantastic Plastic Machine–Whistle Song (Original Mix)
@@ -44,8 +44,8 @@ CD1 has a slightly eclectic feel, and CD2 is full of high quality sounds. Especi
 
 2-01. Block 16 feat. Jhelisa–Find An Oasis
 
-2-02. Pal Joey–Harmony etc.
-""""
+2-02. Pal Joey–Harmonyなど
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 

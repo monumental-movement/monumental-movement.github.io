@@ -22,11 +22,11 @@ Lyrics: Yoko Aki
 Composer: Ryudo Uzaki
 
 #### Tracklist
-"""md
-A. Playback Part 2
+```md
+A. プレイバックPart2
 
-B. Betting
-""""
+B. 賭け 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
 

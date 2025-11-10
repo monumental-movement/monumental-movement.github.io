@@ -16,23 +16,23 @@ title: VA – That's Eurobeat Vol. 22
 The 22nd installment of the Italo-Disco/Hi-NRG/Eurobeat compilation series, released in 1990 on the Alfa label. Illustration by Shigenari Onishi.
 
 #### Tracklist
-"""md
-1. Radiorama – Why Baby Why (Megatron Dance)
+```md
+1. Radiorama –Why Baby Why (Megatron Dance)
 2. Mister Black –Brown (High Energy Edit)
 3. Laurie –Somebody (The Groove In The Mix)
-4. Tasha –Not Feelin Blue (Extended Version)
-5. Alan Barcklay –Girl (Euro Mix)
-6. Jenny Kee –Take My Heart (Explosive Mix)
+4. Tasha  –Not Feelin Blue (Extended Version)
+5. Alan Barcklay  –Girl (Euro Mix)
+6. Jenny Kee  –Take My Heart (Explosive Mix)
 7. Aleph –Doctor (Extended Version)
 8. Sweet 'N' Sour –I Wanna Love You (Extended Version)
 9. VA –Italo Mix
-9.1. Chris – Lucky Boy
+9.1. Chris –Lucky Boy
 9.2. Mike Hazzard –You
-9.3. Alan Barcklay – Color Of Love
+9.3. Alan Barcklay –Color Of Love
 9.4. Jenny Kee –Give Me All Your Love
 9.5. Alphatown –Hot Stuff
 9.6.. F.C.F. –Black Mother
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 

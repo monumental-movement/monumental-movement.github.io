@@ -15,14 +15,14 @@ title: Merzbow – Merzbird
 Merzbow's "Merzbird" was released in 2004 by the American label Important Records.
 
 #### Tracklist
-"""md
+```md
 1. Black Swan
 2. Mandarin Duck
 3. Emu
 4. Victoria Crowned Pigeon
-5.White Peafowl
+5. White Peafowl
 6. Brown Pelican
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 

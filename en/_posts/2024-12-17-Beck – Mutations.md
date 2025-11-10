@@ -18,22 +18,22 @@ title: Beck – Mutations
 The 12th track is a bonus track only available on the Japanese version. The 14th track is an international bonus track.
 
 #### Tracklist
-"""md
+```md
 1. Cold Brains
 2. Nobody's Fault But My Own
 3. Lazy Flies
-4.Canceled Check
+4. Canceled Check
 5. We Live Again
 6. Tropicalia
 7. Dead Melodies
 8. Bottle Of Blues
 9. O Maria
 10. Sing It Again
-11.Static
+11. Static
 12. Electric Music And The Summer People
 13. Diamond Bollocks
 14. Runners Dial Zero
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
 

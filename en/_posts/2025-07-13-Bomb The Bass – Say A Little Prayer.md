@@ -20,12 +20,13 @@ Timothy Simenon (Tim Simenon), also known as Bomb The Bass, is a major figure in
 
 The Bomb The Bass version is an acid house and downtempo remix released in 1988 by Rhythm King, a label specializing in house and acid house.
 
+
 #### Tracklist
-"""md
+```md
 A. Say A Little Prayer
 
 B. 10 Seconds To Terminate
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 

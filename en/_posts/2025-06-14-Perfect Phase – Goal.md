@@ -20,12 +20,14 @@ This record is a House/HardHouse track released by Dutch dance label 2-Play in 2
 
 The jacket design was by Dennis Harinck, also known as Deaz D., who was a resident of Dutch club Locomotion.
 
+
+
 #### Tracklist
-"""md
+```md
 A. Goal!!!
 
 B. Chicky Chicky
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
 

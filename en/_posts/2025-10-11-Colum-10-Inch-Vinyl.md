@@ -15,19 +15,22 @@ title: '[Column] 10-inch temptation: The aesthetics of sound told by the format'
 ---
 
 
-## 10インチという「中間のフォーマット」
+## "Intermediate format" of 10 inches
 
-文：mmr｜テーマ：7インチでも12インチでもない。10インチという中間フォーマットが語る、音の美学と時代の記憶
 
-10インチレコード。  
-その言葉には、ある種の曖昧さが宿っている。7インチシングルの即効性とも、12インチLPの充足感とも異なる、中途半端でありながらも独特の存在感。レコードの歴史をひもとくと、この“中間のフォーマット”がいかに時代の転換点を彩ってきたかが見えてくる。
+Text: mmr｜Theme: Neither 7 inches nor 12 inches. The aesthetics of sound and memories of the times told by the 10-inch medium format
 
-10インチは、単なるサイズの問題ではない。それは「時間の長さ」や「音の密度」を再定義する、もうひとつの哲学でもあった。片面10分前後という制約は、アーティストやエンジニアに「凝縮する」という選択を迫り、その結果として、驚くほど粒立ちの良い音と、集中力を要する聴取体験を生んだ。
 
-“聴き終わるまでにちょうど一服できる長さ”。  
-そんな時間感覚の中にこそ、10インチの美学は宿っている。
+10 inch record.
+There is a certain ambiguity in that word. It has a unique yet half-finished presence that is different from the immediate effect of a 7-inch single or the satisfying feeling of a 12-inch LP. If we look at the history of records, we can see how this "intermediate format" marked a turning point in the times.
+
+10 inches is not just a matter of size. It was also another philosophy that redefined ""length of time" and ""density of sound." The restriction of around 10 minutes per side forced artists and engineers to choose ""condensation,'' and the result was a surprisingly well-defined sound and a listening experience that required concentration.
+
+"Just long enough to take a drink by the time you finish listening."
+The aesthetics of 10 inches resides in this sense of time.
 
 ---
+
 
 <style type="text/css">
 table, td, th {
@@ -41,106 +44,108 @@ color: #fff;
 }
 </style>
 
-### 技術史としての10インチ：回転数・溝幅・音質のバランス
 
-10インチの魅力は、単なる「サイズの中間」では語り尽くせない。  
-それは物理的にも、音響的にも絶妙なバランスの上に成り立っている。
+### 10-inch as a history of technology: Balance of rotation speed, groove width, and sound quality
 
-1950年代初頭、33⅓回転LPと78回転SPの狭間に生まれた10インチ盤は、片面約10〜12分という収録時間を持っていた。この長さは、当時のジャズやクラシックのセッションにおいて、最も自然な“演奏単位”と一致していた。フルセットの演奏を無理なく収められる時間。これが、12インチへの移行前に多くのレーベルが10インチを採用した理由のひとつである。
+The appeal of the 10-inch cannot be explained simply by being "in between the sizes."
+It is built on an exquisite balance both physically and acoustically.
 
-さらに、盤面が小さいことで内周歪みが軽減され、音の立ち上がりが鮮明になる。カッティング・エンジニアの間では「10インチの音は芯がある」と評されることも多い。低域の伸びよりも、ミッドレンジの鮮度を重視する音楽において、この特性はとりわけ効果的だった。
+Born in the early 1950s between 33⅓ rpm LP and 78 rpm SP, the 10-inch record had a recording time of about 10 to 12 minutes per side. This length corresponded to the most natural "performance unit" in jazz and classical sessions at the time. A time that can easily accommodate a full set performance. This is one of the reasons why many labels adopted 10-inch before moving to 12-inch.
 
----
-
-### 1950年代の10インチ黄金期：ジャズとクラシックの実験場
-
-10インチが最も輝いたのは、1950年代前半のジャズ黎明期である。  
-Blue Note、Prestige、Clefといったレーベルは、アーティストたちの試行錯誤を10インチというフォーマットに閉じ込めた。
-
-マイルス・デイヴィス[『Young Man with a Horn』](https://amzn.to/4qkdGGC)（1952）、セロニアス・モンク[『Thelonious Monk Trio』](https://amzn.to/4ol2uI1)（1954）、チャーリー・パーカー[『Now’s the Time』](https://amzn.to/4qkfrUe)（1953）。これらはいずれも、10インチという制約の中で最高の構成を求めた“短編映画”のような作品だった。
-
-12インチLPの登場以前、10インチは“LP”という新しい概念の試験場だった。長尺作品のフォーマットが定まらないなかで、10インチはアーティストに「まとまり」を与え、同時に「切り取られた瞬間」の濃密さを残した。
-
-そして見逃せないのが、ジャケットデザインの進化である。Reid Miles登場以前のBlue Noteは、タイポグラフィと写真の余白を活かした簡潔な構成で知られるが、その黄金比が最も美しく現れたのも10インチ時代だった。
+Furthermore, the small board surface reduces internal distortion, making the rise of the sound clearer. Among cutting engineers, it is often said that the 10-inch sound has a core. This characteristic was especially effective for music that emphasizes the freshness of the midrange rather than the extension of the low range.
 
 ---
 
-### 忘れられたサイズの復活：パンク、オルタナ、インディの文脈で
+### 1950s 10-inch Golden Age: The Experimental Ground for Jazz and Classical Music
 
-やがて12インチLPが市場を支配し、10インチは歴史の片隅に追いやられる。  
-だが1980年代、パンクとインディの流れが再びこのフォーマットを呼び戻す。
+The 10-inch was at its peak during the dawn of jazz in the early 1950s.
+Labels like Blue Note, Prestige, and Clef confined artists' experimentation to the 10-inch format.
 
-理由は単純だった。  
-「7インチより多く、LPより軽い」。  
-制作費が抑えられ、流通も容易。さらに、奇妙なサイズ感が“DIY感”や“限定感”を演出した。Sonic Youthの[『Death Valley ’69』](https://amzn.to/3KIwEX6)や、Pavementの[『Watery, Domestic』](https://amzn.to/48q3eqp)。どれも10インチという形で登場し、アートワークを含めた“モノとしての美学”を提示した。
+Miles Davis ["Young Man with a Horn"](https://amzn.to/4qkdGGC) (1952), Thelonious Monk ["Thelonious Monk Trio"](https://amzn.to/4ol2uI1) (1954), Charlie Parker ["Now"s the Time"](https://amzn.to/4qkfrUe) (1953). All of these works were like ""short films'' that sought the best composition within the constraints of 10 inches.
 
-Radioheadが[『Com Lag (2plus2isfive)』](https://amzn.to/4nEgRXM)を10インチで発表したとき、そこには明確な意図があった。フルアルバムでもなく、シングルでもない。バンドが自らの実験的側面をリスナーと共有するための最適な媒体として、10インチは再び意味を取り戻したのだ。
+Before the advent of the 12-inch LP, the 10-inch was the testing ground for the new concept of "LP." At a time when the format for long-length works had not yet been determined, the 10-inch format gave the artist a sense of ""cohesion" and at the same time left behind the density of a ""cut out moment".
 
----
-
-### 日本における10インチ文化：ミニマリズムと職人気質
-
-日本では、10インチ盤は“珍盤”として扱われることが多い。  
-だが、その少なさゆえに、特別な愛着を生む。
-
-東洋化成をはじめとする国内プレス工場の精密な技術は、10インチのような微妙なフォーマットにこそ真価を発揮する。盤面の静寂、針の滑らかさ、印刷の発色。その一つひとつが、職人的感性の賜物だ。
-
-近年では、細野晴臣の[10インチ再発盤](https://amzn.to/4nMnl7a)や、七尾旅人[『リトルメロディ』](https://amzn.to/46SV7QE)、坂本慎太郎[『ディスコの神様』](https://amzn.to/4oaCpen)など、10インチをあえて選ぶアーティストも増えている。それは単にノスタルジーではなく、“聴く時間”を再設計する行為なのだ。
-
-「短いけれど、濃い」。  
-日本的な“間”の美学が、10インチというフォーマットに自然と溶け込んでいる。
+What cannot be overlooked is the evolution of jacket design. Blue Note, which preceded the appearance of Reid Miles, was known for its simple compositions that made use of typography and photo margins, but the golden ratio was most beautifully expressed in the 10-inch era.
 
 ---
 
-### 物理メディアの再定義：10インチが示す未来のフォーマット哲学
+### The return of the forgotten size: in the context of punk, alternative and indie
 
-ストリーミング全盛の今、フォーマットの差異は本来、音に関係ないはずだ。  
-だが、10インチの存在はその前提を揺るがす。
+Eventually, 12-inch LPs dominated the market, and 10-inches were relegated to the margins of history.
+However, in the 1980s, the punk and indie trends brought the format back.
 
-再生時間が短いことは、集中を促す。  
-サイズが小さいことは、親密さを生む。  
-物理的な制約が、逆に「聴く」という行為の輪郭を際立たせる。
+The reason was simple.
+"More than a 7-inch and lighter than an LP."
+Production costs are kept low and distribution is easy. Furthermore, the strange size created a ""DIY" feel and a ""limited edition" feel. Sonic Youth"s ["Death Valley "69"](https://amzn.to/3KIwEX6) and Pavement's ["Watery, Domestic"](https://amzn.to/48q3eqp). All of them appeared in 10-inch format, presenting an "aesthetics as a product" including artwork.
 
-10インチを手に取るとき、私たちは“時間”をも手に取っているのだ。  
-それはアルゴリズムによって無限に流れるプレイリストとは異なる、終わりを意識した音楽体験。針を落とし、盤を裏返す。その一連の動作こそ、10インチが現代に語りかける「非効率の美学」なのである。
-
----
-
-### 終章：手のひらに乗る時間、10インチが語る「音の密度」
-
-10インチは、不完全でありながら完結している。  
-それは長編でも短編でもない、“短い物語”のようなフォーマット。  
-手のひらに乗る音楽。だが、その密度は12インチにも劣らない。
-
-フォーマットとは、単なる容器ではなく、思想である。  
-10インチの再評価は、音楽の“聴かれ方”そのものを問い直す行為だ。
-
-いつの時代も、技術の境目には「中間」が存在する。  
-その曖昧さの中にこそ、表現の自由と実験精神が宿る。  
-10インチというサイズは、そのことを私たちに静かに語りかけている。
+When Radiohead released [Com Lag (2plus2isfive)](https://amzn.to/4nEgRXM) on a 10-inch, they had a clear intention. It"s not a full album, it"s not a single. The 10-inch has regained meaning as the perfect medium for bands to share their experimental side with listeners.
 
 ---
 
-### 年表：10インチレコードの主要トピック
+### 10-inch culture in Japan: minimalism and craftsmanship
+
+In Japan, 10-inch discs are often treated as "rare discs."
+However, because of its scarcity, it creates a special attachment to it.
+
+The precision technology of Toyo Kasei and other domestic press plants shows its true value in delicate formats like 10 inches. The silence of the board, the smoothness of the hands, and the color of the print. Each one is the result of a craftsman's sensitivity.
+
+In recent years, an increasing number of artists have chosen 10-inch discs, such as Haruomi Hosono"s [10-inch reissue] (https://amzn.to/4nMnl7a), Tabito Nanao [""Little Melody"] (https://amzn.to/46SV7QE), and Shintaro Sakamoto [""God of Disco"] (https://amzn.to/4oaCpen). It"s not just nostalgia, but an act of redesigning "listening time."
+
+"It's short, but intense."
+The Japanese aesthetic of "ma" naturally blends into the 10-inch format.
+
+---
+
+### Redefining physical media: 10-inch future format philosophy
+
+In these days of streaming, the differences in format should have nothing to do with the sound.
+However, the existence of a 10-inch camera shakes that assumption.
+
+Short playback time encourages concentration.
+Small size creates intimacy.
+Physical constraints, on the other hand, highlight the contours of the act of "listening."
+
+When we pick up a 10-inch camera, we are also picking up "time."
+It is a music experience that is conscious of the end, unlike a playlist that flows endlessly due to an algorithm. Drop the needle and turn the board over. This series of actions is the ""aesthetics of inefficiency'' that the 10-inch speaks to today.
+
+---
+
+### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
+
+10 inches is incomplete yet complete.
+It's not a long story or a short story, but a "short story" format.
+Music in the palm of your hand. However, its density is not inferior to 12 inches.
+
+A format is not just a container, but an idea.
+Re-evaluating the 10-inch is an act of reconsidering the way music is listened to.
+
+There is always a ""middle'' between technologies.
+It is in this ambiguity that the freedom of expression and spirit of experimentation resides.
+The 10-inch size quietly tells us this.
+
+---
+
+### Chronology: Main topics of 10-inch records
 
 <div class="mermaid">
 
 flowchart TD
-A1950["1950年代初頭：10インチLPの登場（Columbia, Blue Noteなど）"]
-A1955["1955年頃：12インチLPに主流移行"]
-A1980["1980年代：パンク／インディで10インチ再評価（Sonic Youthなど）"]
-A2000["2000年代：Record Store Day限定盤として人気復活"]
-A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再浮上"]
+A1950["Early 1950s: The advent of 10-inch LPs (Columbia, Blue Note, etc.)"]
+A1955["Around 1955: Mainstream transition to 12-inch LP"]
+A1980["1980s: Punk/Indie 10-inch reappraisal (Sonic Youth, etc.)"]
+A2000["2000s: Return to popularity as Record Store Day limited edition"]
+A2020["2020s: 10-inch reissue in Japan, object value re-emerges"]
 
-    A1950 --> A1955 --> A1980 --> A2000 --> A2020
+A1950 --> A1955 --> A1980 --> A2000 --> A2020
+
 
 </div>
 
 ---
 
+
 ### Related columns
 
-🔗 [【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実](https://monumental-movement.jp/Column-10-Inch-Vinyl-Tech)
+🔗 [[Column] 10-inch record technology supplement: The truth about groove width, rotation speed, and mastering](https://monumental-movement.jp/Column-10-Inch-Vinyl-Tech)
 
-🔗 [【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ](https://monumental-movement.jp/Column-Media-Types)
-
+🔗 [[Column] "From the sound of a needle to streaming, sound continues to live on through time." From the era of rewind to the era of infinite skip](https://monumental-movement.jp/Column-Media-Types)

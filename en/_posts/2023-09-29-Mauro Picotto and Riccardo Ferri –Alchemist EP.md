@@ -18,15 +18,15 @@ The other songs are pretty solid techno, and "Pandoro" is a pretty fun track. As
 It's like Mauro Picot, old style and new style.
 
 #### Tracklist
-"""md
+```md
 A. New Time, New Place
 
-B.Codebreaker
+B. Codebreaker
 
-C.Alchemist
+C. Alchemist
 
-D.Pandoro
-""""
+D. Pandoro
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43683328945?afid=6142608987){: .button1}
 

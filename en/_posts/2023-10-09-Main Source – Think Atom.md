@@ -17,15 +17,15 @@ Main Source is a joint American-Canadian hip-hop group originally consisting of 
 Large Professor later left and was replaced by another MC, Michael Dearing (aka MC Mikey D).
 
 #### Tracklist
-"""md
-A1.Think
+```md
+A1. Think
 
 A2. Think (Instrumental)
 
-B1.Atom
+B1. Atom
 
 B2. Atom (Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m60450715366?afid=6142608987){: .button1}
 

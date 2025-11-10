@@ -18,13 +18,13 @@ The vocal front is Saffron. NJOI's songs had a huge influence on the UK rave sce
 The second track on side A and side B are remixes by Josh Wink, also known as DJ WINK.
 
 #### Tracklist
-"""md
+```md
 A1. Bad Things (Original Mix)
 
 A2. Bad Things (Vocal-ish Version)
 
 B1. Bad Things (Wink's Stabbed Filled Acid Dub)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91007841162?afid=6142608987){: .button1}
 

@@ -17,12 +17,12 @@ Front242 is an electronic music group formed in Belgium.
 Front242 pioneered a style of electronic music called electronic body music (EBM), which combines elements of industrial music, synth punk, and dance music, and has had a major influence on various genres such as electronic music and industrial.
 
 #### Tracklist
-"""md
+```md
 A1. Don't Crash
 A2. Funkahdafi
 
 B. Commando (Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15772512003?afid=6142608987){: .button1}
 

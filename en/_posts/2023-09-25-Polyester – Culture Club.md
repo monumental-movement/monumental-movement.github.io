@@ -17,11 +17,11 @@ Polyester is a project by Bernard Garcia with Bruno Quartier and Etienne Vandeve
 It produced many hits and was often aired on Belgian radio stations.
 
 #### Tracklist
-"""md
-A Culture Club
+```md
+A  Culture Club
 
-B Culture Club (Glimmmix)
-""""
+B  Culture Club (Glimmmix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58333186087?afid=6142608987){: .button1}
 

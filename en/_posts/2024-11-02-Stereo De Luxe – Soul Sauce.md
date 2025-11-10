@@ -15,14 +15,14 @@ title: Stereo De Luxe – Soul Sauce
 
 Stereo de Luxe is a DJ/producer duo from Berlin.
 
-Originally founded in 1994 by Karsten "Kassi" Wolf, a solo DJ under the stage name Stereo de Luxe, the band was active in Berlin's lounge, easy listening and club pop scenes.
+Originally founded in 1994 by Karsten "Kassi" Wolf, a solo DJ under the stage name Stereo de Luxe, the band was active in Berlin's lounge, easy listening and club pop scene.
 
 Formed a duo with Thomas Mävers in 1998. Musical styles shifted to breakbeat, house, and electro-funk. Their first EP as a duo, ""Aerocyclette 1999'', was released on the label Bungalow Records.
 
 "Soul Sauce" is a breakbeat downtempo big beat track released in 2000 by Bungalow Records.
 
 #### Tracklist
-"""md
+```md
 A. Soul Sauce
 
 B1. Soul Sauce (Battle Of Britain Mix)
@@ -30,7 +30,7 @@ Remix – Captain Spec X Ray
 
 B2. Riddle Me This
 Featuring – MC Olli Goolightly As The Riddler
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 

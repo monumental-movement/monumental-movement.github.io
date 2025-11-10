@@ -17,13 +17,13 @@ Athlete is a UK indie rock band formed in London. The members are Joel Potts, Ca
 The second song on the B-side is a remix by Elbow, an alternative rock band from Bury, Greater Manchester, England that has been active since 1990.
 
 #### Tracklist
-"""md
-A.Westside
+```md
+A. Westside
 
 B1. Count Me In
 
 B2. Westside (Elbow Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40673400916?afid=6142608987){: .button1}
 

@@ -18,21 +18,21 @@ Regurgitator is an alternative rock band from Australia. Formed in late 1993 by 
 "...Art" is Regurgitator's third studio album, released in 1999.
 
 #### Tracklist
-"""md
+```md
 1. Happiness
-2.Ghost
+2. Ghost
 3. Freshmint!
 4. Strange Human Being
 5. I Wanna Be A Nudist
 6. I Like Repetitive Music
-7.Art
+7. Art
 8. Feels Alright!
 9. I Love Tommy Mottola
 10. Are U Being Served?
 11. Obtusian
 12. The Lonely Guy
-13.Virtual Life
-""""
+13. Virtual Life
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 

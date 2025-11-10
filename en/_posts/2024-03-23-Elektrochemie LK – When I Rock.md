@@ -18,13 +18,13 @@ A techno track released in 2001 by German techno heavyweight Thomas Schumacher u
 "When I Rock" is one of Thomas Schumacher's masterpieces, along with "Schall!"
 
 #### Tracklist
-"""md
+```md
 A1. When I Rock (Original Mix)
 
-A2. When I Rock (DJ Rush's Rock Da Beat Remix)
+A2. When I Rock (DJ Rush's Rock Da Beat Remix) 
 
-B1. When I Rock (Santos Remix)
-""""
+B1. When I Rock (Santos Remix) 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 

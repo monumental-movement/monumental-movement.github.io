@@ -17,7 +17,7 @@ title: Heart – Dreamboat Annie
 At the time, the band was based in Vancouver, British Columbia, and the album was recorded there and first released in Canada by local label Mushroom Records in September 1975. The album later reached number 20 on RPM's Top Albums chart and was certified double platinum.
 
 #### Tracklist
-"""md
+```md
 A1. Magic Man
 
 A2. Dreamboat Annie (Fantasy Child)
@@ -37,7 +37,7 @@ B3. Sing Child
 B4. How Deep It Goes
 
 B5. Dreamboat Annie (Reprise)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
 

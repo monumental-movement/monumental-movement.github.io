@@ -17,27 +17,36 @@ This is a compilation album by the performers of "WIRE 00", the largest indoor r
 The 2-LP set also includes tracks from Sven Väth, DJ Hell and WestBam.
 
 #### Tracklist
-"""md
-A1 Denki Groove–Wire, Wireless (Arena)
+```md
+A1  Denki Groove–Wire, Wireless (Arena)
 
-A2 Sven Väth–Pathfinder
 
-B1 Fumiya Tanaka–Hi Hat Sorted One
+A2  Sven Väth–Pathfinder
 
-B2 DJ Hell vs. Richard Bartz–1,2,3,4 (Bonus Beats)
 
-B3 Thomas Schumacher–Listen Up
+B1  Fumiya Tanaka–Hi Hat Sorted One
 
-C1 WestBam–Love Bass (Love Dub Mix)
 
-C2 Takkyu Ishino–Suck Me Disco (Takkyu I. Remix) Remix – Takkyu Ishino
+B2  DJ Hell vs. Richard Bartz–1,2,3,4 (Bonus Beats)
 
-D1 Zombie Nation–Kernkraft 400
 
-D2 DJ Tasaka–Ganz Ganguro
+B3  Thomas Schumacher–Listen Up
 
-D3 Beroshima–WWW. (Robot Mix)
-""""
+
+C1  WestBam–Love Bass (Love Dub Mix)
+
+
+C2  Takkyu Ishino–Suck Me Disco (Takkyu I. Remix) Remix – Takkyu Ishino
+
+
+D1  Zombie Nation–Kernkraft 400
+
+
+D2  DJ Tasaka–Ganz Ganguro
+
+
+D3  Beroshima–WWW. (Robot Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 

@@ -16,13 +16,13 @@ title: Crushed Insect – The Yellow Blood
 This is an EP from Crushed Insect, a project by Cari Lekebusch, whose real name is Kari Pekka Lekebusch, released on the Swedish label "Audio Pollution" in 1996.
 
 #### Tracklist
-"""md
+```md
 A. Dead Serious Insects
 
 B1. Beetle-Juice
 
 B2. Squash I
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17439664895?afid=6142608987){: .button1}
 

@@ -16,15 +16,15 @@ title: DJ Rip – House Playerz E.P
 This is an EP by DJ Rip, whose real name is Xavier Jacome, released in 1998 on the label "Underground Construction."
 
 #### Tracklist
-"""md
+```md
 A1. Man On Da Wax
 
-A2.People Of The Party
+A2. People Of The Party
 
 B1. Feed Da Kitty
 
 B2. Feed Da Kitty (Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m81262521689?afid=6142608987){: .button1}
 

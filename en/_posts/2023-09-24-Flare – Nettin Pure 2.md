@@ -14,14 +14,15 @@ title: Flare – Nettin Pure 2
 
 Flare's "Nettin Pure 2" is a 3-track techno sound by Ken Ishii released on Reel Musiq in 1995 under the name Flare.
 
+
 #### Tracklist
-"""md
-A N.P2.2
+```md
+A  N.P2.2
 
-B1 N.P2.3
+B1  N.P2.3
 
-B2 N.P2.1
-""""
+B2  N.P2.1
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61505338916?afid=6142608987){: .button1}
 

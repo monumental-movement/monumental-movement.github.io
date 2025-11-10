@@ -20,21 +20,22 @@ This album, released by RCA in 1990, is the debut album by American pop singer A
 
 The song Whole Wide World, released in 1990, became a huge hit on the US dance charts and was featured on the soundtrack for the movie True Love.
 
+
 #### Tracklist
-"""md
+```md
 1. Time You Take
 2. Letter 'C' Card
 3. Heaven Above
 4. Change To
-5.Whole Wide World
-6.Gray 19
+5. Whole Wide World
+6. Grey 19
 7. Bit By Bit
 8. Time & Time Again
 9. Unique Blue Tube
 10. Follow My Heartbeat
 11.TheGreatBigHillEpicDownSyndromeStoryHeartPart1
-12.Reprise
-""""
+12. Reprise
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 

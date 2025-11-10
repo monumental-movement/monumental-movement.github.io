@@ -19,13 +19,13 @@ EP4 includes original tracks by Mexican trance artists. Each track has the hallm
 "Psycomex - Mexican Trance Compilation - EP4" will appeal to fans of trance music and those interested in the Mexican music scene.
 
 #### Tracklist
-"""md
-A Shove Vs. Barak–Super Marihuano Bross (Teen Sluts Remix)
+```md
+A  Shove Vs. Barak–Super Marihuano Bross (Teen Sluts Remix)
 
-B1 Trailex–Head Phones
+B1  Trailex–Head Phones
 
-B2 Teen Sluts–Foust On Doust
-""""
+B2  Teen Sluts–Foust On Doust
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 

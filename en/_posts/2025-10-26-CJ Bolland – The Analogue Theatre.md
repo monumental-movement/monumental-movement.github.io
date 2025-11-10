@@ -14,22 +14,22 @@ title: CJ Bolland – The Analogue Theater
 ---
 
 
-The first studio album "The Analogue Theater" released by Belgian electronic music producer CJ Bolland in 1996 is CJ Bolland's masterpiece, which includes the worldwide hit "Sugar Is Sweeter". This CD includes a special bonus track only available on the Japanese version, Ken Ishii's remix of "Sugar Is Sweeter".
+The first studio album "The Analogue Theater" released by Belgian electronic music producer CJ Bolland in 1996 is CJ Bolland"s masterpiece, which includes the worldwide hit "Sugar Is Sweeter". This CD includes a special bonus track only available on the Japanese version, Ken Ishii"s remix of "Sugar Is Sweeter".
 
 #### Tracklist
-"""md
+```md
 1. Obsidion
 2. Pesticide
-3. The Analogue Theater
-4.On Line
-5.The Prophet
+3. The Analogue Theatre
+4. On Line
+5. The Prophet
 6. People Of The Universe
 7. There Can Be Only One
 8. Kung Kung Ka
 9. Counterpoint
 10. Sugar Is Sweeter
 11. Sugar Is Sweeter (Ken Ishii Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34186759667?afid=6142608987){: .button1}
 

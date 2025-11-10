@@ -15,12 +15,13 @@ title: '[Column] Synthpop: The era of electronic dreams'
 ---
 
 
-## 電子音は、いつから「人間の声」になったのだろうか
+## When did electronic sounds become "human voices"?
 
-文：mmr｜テーマ：YMOからCharli XCXまで、シンセポップという“未来の郷愁”をたどる長編文化論
 
-シンセサイザーが単なる機械の音を超え、感情を奏でるようになったとき、ポップ・ミュージックはまるで新しい生命を得たかのようだった。  
-70年代後半、テクノロジーの進化とともに誕生したシンセポップは、冷たくも美しい“未来の郷愁”を私たちに与え続けている。
+Text: mmr｜Theme: A full-length cultural theory that traces the "future nostalgia" of synth pop, from YMO to Charli XCX
+  
+Pop music seemed to take on a new lease of life when synthesizers became more than mechanical sounds and began to play with emotion.
+Synthpop, which was born in the late 1970s as technology evolved, continues to give us a cold yet beautiful feeling of "nostalgia for the future."
 
 ---
 
@@ -37,238 +38,240 @@ color: #fff;
 }
 </style>
 
-## 第1章　電子音楽が「ポップ」になった瞬間
 
-1970年代、MoogやARP、そしてRolandやYamahaといった日本メーカーのシンセサイザーが音楽制作を民主化した。  
-それまで巨大なスタジオ機材だった電子音は、次第に家庭やライブハウスへと降りてきた。  
-Kraftwerkの「The Robots」は、まるで人間と機械の境界を問いかけるように無機質でありながら、奇妙なユーモアをもって響いた。  
-彼らが提示した「人間＝機械」というビジョンは、その後のすべてのポップ音楽を下支えする概念となる。
+## Chapter 1 The moment electronic music became "pop"
+
+In the 1970s, synthesizers from Moog, ARP, and Japanese manufacturers like Roland and Yamaha democratized music production.
+Electronic sound, which until then had been the preserve of gigantic studio equipment, gradually found its way into homes and live music venues.
+Kraftwerk's "The Robots" is inorganic, as if questioning the boundaries between humans and machines, yet resonates with a strange sense of humor.
+The vision they presented of ""man = machine'' became the concept that underpinned all subsequent pop music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/og9MIfeDR3w?si=CbK10wexfZZ09ot6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-そしてその精神を継承したのが、Gary Numan、Human League、そしてDepeche Modeだった。  
-彼らはロックの情熱をシンセに置き換え、冷たい都市の憂鬱をビートに変えた。  
-それは“未来”という言葉がまだ希望と恐れを併せ持っていた時代——アナログ回路の中で鳴る、デジタル以前の夢だった。
+
+Gary Numan, Human League, and Depeche Mode carried on that spirit.
+They replaced rock's passion with synths and turned cold urban melancholy into beats.
+This was a time when the word "future" still contained both hope and fear; it was a pre-digital dream that sounded inside analog circuits.
 
 ---
 
-## 第2章　UK編：ニュー・ロマンティックの夜明け
+## Chapter 2 UK edition: Dawn of the New Romantic
 
-1980年代初頭、ロンドンのクラブ「Blitz」には奇抜なメイクとファッションに身を包んだ若者たちが集った。  
-彼らは“Blitz Kids”と呼ばれ、VisageやSpandau Ballet、Duran Duranといった新しいアイコンを生み出した。  
-ここで鳴っていたのが、電子のきらめきをまとった“ニュー・ロマンティック”の音だった。
+In the early 1980s, young people dressed in eccentric makeup and fashion gathered at London's Blitz club.
+They were dubbed the "Blitz Kids" and created new icons like Visage, Spandau Ballet, and Duran Duran.
+What was playing here was the sound of ""New Romantic'' wrapped in electronic sparkle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Im3JzxlatUs?si=9L5V4yfDnF78Y_MT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Gary Numanの『Cars』は都市的孤独のアンセムとなり、Depeche Modeは工業地帯の無機的サウンドで若者の焦燥を描いた。  
-一方、New OrderはJoy Divisionの悲劇を越えてダンスフロアへ向かい、「Blue Monday」で電子と肉体の融合を果たす。  
-Pet Shop BoysのNeil Tennantは「シンセは、感情を隠すための仮面だ」と語った。  
-まさにシンセポップは、80年代の“孤独の美学”そのものだった。
+Gary Numan's Cars became an anthem of urban loneliness, and Depeche Mode portrayed the frustrations of youth with the inorganic sounds of industrial areas.
+Meanwhile, New Order transcends Joy Division's tragedy and heads to the dance floor, fusing the electronic and the physical with "Blue Monday."
+Neil Tennant of Pet Shop Boys said, ""Synths are masks to hide your emotions.''
+Synthpop was truly the ""aesthetics of loneliness'' of the 1980s.
 
 ---
 
-## 第3章　US編：エレクトロ・ポップとMTVの眩暈
+## Chapter 3 US edition: Electro-pop and MTV dizziness
 
-アメリカでは、Donna SummerとプロデューサーGiorgio Moroderが1977年に放った「I Feel Love」が決定的な転換点となる。  
-ディスコのリズムに完全な電子ビートを導入したこの曲は、ダンスフロアを未来に連れ去った。  
-Princeはその流れを継ぎ、ミネアポリス・サウンドと呼ばれるファンク×シンセの融合を作り上げる。  
-彼の音楽はセクシュアルでありながら、電子音の中に血の通ったグルーヴを見出した。
+In America, Donna Summer and producer Giorgio Moroder's 1977 hit ""I Feel Love'' was a decisive turning point.
+Introducing a full electronic beat to the disco rhythm, the song transported the dance floor into the future.
+Prince continued this trend and created a fusion of funk and synth called the Minneapolis sound.
+Although his music is sexual, he finds a real groove in the electronic sounds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZqqvrWCs3Q?si=y-zm367WFHsR2Pdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-MTVの登場もまた、シンセポップの拡散に拍車をかけた。  
-Madonna、Cyndi Lauper、Michael Jackson——ビジュアルと音の一体化が進み、電子音は“スタイル”として消費され始めた。  
-Kraftwerkの思想が、アメリカ的ポップカルチャーの豪華な鏡面の中で反射した瞬間である。
+The arrival of MTV also spurred the spread of synthpop.
+Madonna, Cyndi Lauper, Michael Jackson—visuals and sounds became increasingly integrated, and electronic sounds began to be consumed as a "style."
+This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror of American pop culture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4s7Vjp4Qkc?si=GiI4LjuHuA20G8BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第4章　日本編：テクノ・ポップの誕生と成熟
+## Chapter 4 Japan: Birth and maturity of techno-pop
 
-その頃、東京でも静かな革命が始まっていた。  
-YMO（Yellow Magic Orchestra）が1978年に放った音は、単なる模倣ではなく、電子音楽を“アジアの文脈”へと再構築した。  
-坂本龍一の音楽理論、細野晴臣のポップ感覚、高橋幸宏のリズム感覚——三者が交差したYMOの音は、グローバル化初期の日本が世界に放った最初の「電子的発声」だった。
+At that time, a quiet revolution was beginning in Tokyo.
+The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
-坂本龍一は後にこう語っている。  
-> 「テクノロジーは、音楽をより人間的にするための手段だ。」
+Ryuichi Sakamoto later said:
+> "Technology is a way to make music more human."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=zAwo20Jx5rTQE9kV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Perfumeと中田ヤスタカが2000年代に登場したとき、その理念は新しい形で蘇った。  
-オートチューンとシーケンスによる人工的な声、だがそこには“デジタル時代の感情”が確かに宿っていた。  
-彼女たちは「機械的であること」が「可愛い」になる時代を象徴したのだ。  
+When Perfume and Yasutaka Nakata arrived on the scene in the 2000s, that philosophy was revived in a new form.
+The voice was artificial due to auto-tune and sequencing, but it certainly had the ""feelings of the digital age'' in it.
+They symbolized an era when ""being mechanical" became ""cute."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QF_bLVsJLlY?si=yL5vXkVtGfxIWUi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Corneliusや電気グルーヴ、tofubeatsらもまた、テクノ・ポップを多様化させ、ローカルな情緒とグローバルなビートを結びつけた。  
-日本のシンセポップは、単なる模倣ではなく“翻訳”として成熟したのである。
+Cornelius, Denki Groove, and tofubeats also diversified techno-pop, combining local sentiment with global beats.
+Japanese synth pop has matured as a "translation" rather than a mere imitation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fK2q8WKp91A?si=fU9HTDZOL09vuyM-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第5章　世界の共鳴：日本の電子音が渡った先で
+## Chapter 5 Resonance of the world: Where Japanese electronic sounds have crossed over
 
-YMOの衝撃は、海を越えて多くのアーティストに伝播していった。  
-Daft Punkはインタビューで坂本龍一の音響設計を賞賛し、彼らのメロディ・センスには明確に日本的ミニマリズムの影響が見て取れる。  
-Radioheadの『Kid A』は、YMOが提示した「電子音で感情を描く」という発想をさらに内省的に発展させた作品だ。  
-「Everything in Its Right Place」は、まるで『BGM』や『Technodelic』の亡霊が蘇ったかのように冷たく美しい。
+YMO's impact spread across the ocean to many artists.
+Daft Punk praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
+Radiohead"s ""Kid A" is an introspective development of YMO"s idea of ​​""depicting emotions with electronic sounds."
+"Everything in Its Right Place" is cold and beautiful, as if the ghosts of "BGM" and "Technodelic" have come back to life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-GrimesやCharli XCX、SOPHIEらの“ネオ・シンセポップ”世代もまた、日本的なポップ感覚に強く影響を受けている。  
-彼女たちの音は、アニメ、ゲーム、ボーカロイドの世界観を吸収しながら、21世紀的な電子身体を表現する。  
-「Kawaii」は、もはや日本語ではなく世界語となった。  
-その背後には、YMOからPerfumeまでの連続するテクノロジー美学がある。
+The "neo-synthpop" generation, including Grimes, Charli XCX, and SOPHIE, was also strongly influenced by Japanese pop sensibilities.
+Their sounds express a 21st century electronic body while absorbing the worldview of anime, games, and vocaloids.
+"Kawaii" is no longer a Japanese word, but a global word.
+Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4bkUp048yB4?si=9M5N5Ss96OtYFICn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第6章　テクノロジーと感情：機械が人間を描くとき
+## Chapter 6 Technology and emotions: When machines draw humans
 
-シーケンサー、サンプラー、オートチューン。  
-これらは「正確にするため」の道具ではなく、「人間の曖昧さ」を際立たせるための筆だった。  
-機械的であることが感情的でありうる——それがシンセポップの逆説的魅力だ。
+Sequencer, sampler, autotune.
+These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
+Something mechanical can be emotional—that's the paradoxical charm of synthpop.
 
-21世紀に入り、「The aesthetics of imperfection（不完全性の美学）」が再評価されている。  
-Grimesの声の揺れ、Charli XCXのAI的ヴォーカル処理、Yaejiの母語の混交。  
-それらはすべて、「完璧でない音」こそが人間らしさを伝えることを証明している。  
-AI作曲が進化する今、シンセポップの“人間的な人工性”は、音楽における最後のロマンティシズムなのかもしれない。
+In the 21st century, ""the aesthetics of imperfection'' is being reevaluated.
+Grimes" voice wavering, Charli XCX"s AI vocal processing, and Yaeji's blend of native languages.
+All of these prove that ""imperfect sounds'' convey humanity.
+As AI composition advances, the "human artificiality" of synthpop may be the last romanticism in music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第7章　おすすめプレイリスト（年代別ガイド）
+## Chapter 7 Recommended playlist (age group guide)
 
-### 1970s：黎明と実験
-- Kraftwerk「The Robots」  
-- YMO「Rydeen」  
-- Gary Numan「Cars」
+### 1970s: Dawn and Experiment
+- Kraftwerk "The Robots"
+- YMO "Rydeen"
+- Gary Numan "Cars"
 
-### 1980s：黄金期と映像文化
-- Depeche Mode「Enjoy the Silence」  
-- Pet Shop Boys「West End Girls」  
-- Madonna「Lucky Star」
+### 1980s: Golden Age and Visual Culture
+- Depeche Mode "Enjoy the Silence"
+-Pet Shop Boys "West End Girls"
+- Madonna "Lucky Star"
 
-### 1990s：再構築とエレクトロの夜明け
-- Björk「Hyperballad」  
-- Cornelius「Point」  
-- Daft Punk「Digital Love」
+### 1990s: Reconstruction and the dawn of electro
+- Björk "Hyperballad"
+- Cornelius "Point"
+- Daft Punk "Digital Love"
 
-### 2000s〜2010s：ネオ・シンセポップの夜明け
-- Perfume「Polyrhythm」  
-- CHVRCHES「The Mother We Share」  
-- Grimes「Oblivion」  
-- Charli XCX「Vroom Vroom」
+### 2000s-2010s: Dawn of neo-synthpop
+- Perfume "Polyrhythm"
+- CHVRCHES "The Mother We Share"
+- Grimes "Oblivion"
+- Charli XCX "Vroom Vroom"
 
-### 2020s：ポストAIポップの時代
-- Caroline Polachek「Bunny Is a Rider」  
-- Yaeji「For Granted」  
-- A.G. Cook「Beautiful」
-
----
-
-## 第8章　結論：電子音が語る「未来の郷愁」
-
-シンセポップとは、“未来の音”であると同時に、“過去を懐かしむ音”でもある。  
-80年代の冷たい電子音に私たちがなぜ心を揺さぶられるのか——それは、そこに「未来を信じていた時代の温度」があるからだ。  
-デジタルが進化し、AIが作曲を始めた今もなお、人間は機械の音の中に“自分”を探し続けている。
-
-坂本龍一が最後まで問い続けた「テクノロジーと感情の関係」は、いま再び最前線のテーマになっている。  
-そしてその系譜のどこかに、YMOの電子の笑み、Perfumeのポリリズム、Charli XCXのピクセル化された涙が連なっている。  
-
-未来はいつだって、電子の夢の中で鳴り響いている。
+### 2020s: Post-AI pop era
+- Caroline Polachek "Bunny Is a Rider"
+- Yaeji "For Granted"
+- A.G. Cook "Beautiful"
 
 ---
-## シンセポップ進化の年表（1970〜2020）
+
+## Chapter 8 Conclusion: Electronic sounds speak of "future nostalgia"
+
+Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
+Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
+Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' in the sounds of machines.
+
+The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
+And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
+
+The future is always ringing in electronic dreams.
+
+---
+## Chronology of synthpop evolution (1970-2020)
 
 <div class="mermaid">
 
 flowchart TD
-    A1970["1970：Kraftwerkがデュッセルドルフで結成<br>電子音楽の原型を確立"]
-    A1977["1977：Donna Summer『I Feel Love』<br>完全電子ビートがポップスに登場"]
-    A1978["1978：YMO結成『Yellow Magic Orchestra』<br>日本のテクノポップ誕生"]
-    A1979["1979：Gary Numan『Cars』<br>シンセサウンドがメインストリームへ"]
-    A1981["1981：Depeche Modeデビュー<br>若者文化の象徴へ"]
-    A1983["1983：New Order『Blue Monday』<br>12インチシングルの革命"]
-    A1985["1985：Pet Shop Boys『West End Girls』<br>UKシンセポップ黄金期"]
-    A1993["1993：Björk『Debut』<br>電子音とボーカルの新融合"]
-    A1997["1997：Daft Punk『Homework』<br>フレンチ・シンセ再興"]
-    A2003["2003：Cornelius『Point』<br>“環境音的シンセポップ”を提示"]
-    A2008["2008：Perfume『GAME』<br>日本でミリオンヒット、世界に波及"]
-    A2012["2012：Grimes『Visions』<br>DIYシンセポップの時代へ"]
-    A2016["2016：Charli XCX『Vroom Vroom EP』<br>ハイパーポップの幕開け"]
-    A2020["2020：Yaeji『What We Drew』<br>アジア発ネオ・シンセ世代の台頭"]
-    A2023["2023：Caroline Polachek『Desire, I Want To Turn Into You』<br>成熟の極北へ"]
+A1970["1970: Kraftwerk formed in Düsseldorf<br>Established the prototype of electronic music"]
+A1977["1977: Donna Summer's "I Feel Love"<br>Completely electronic beats arrive in pop music"]
+A1978["1978: YMO formed "Yellow Magic Orchestra"<br>Birth of Japanese techno pop"]
+A1979["1979: Gary Numan's Cars"<br>Synth sound goes mainstream"]
+A1981["1981: Depeche Mode debut<br>Becoming a symbol of youth culture"]
+A1983["1983: New Order"Blue Monday"<br>12-inch single revolution"]
+A1985["1985: Pet Shop Boys "West End Girls"<br>Golden Age of UK Synth Pop"]
+A1993["1993: Björk's Debut"<br>New fusion of electronic sounds and vocals"]
+A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
+A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
+A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
+A2012["2012: Grimes' Visions"<br>Into the era of DIY synth pop"]
+A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
+A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
+A2023["2023: Caroline Polachek"Desire, I Want To Turn Into You"<br>Toward the Far North of Maturity"]
 
-    A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023
+A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023
 
 </div>
 
 ---
 
-### 年代別ディスコグラフィー
+### Discography by era
 
-| 年代    | アーティスト                           | 代表作（アルバム）                         | 解説                                | Amazonリンク                                        |
+
+| Year | Artist | Representative works (albums) | Commentary | Amazon link |
 | ----- | -------------------------------- | --------------------------------- | --------------------------------- | ------------------------------------------------ |
-| 1970s | **Kraftwerk**                    | *The Man-Machine* (1978)          | 無機質な都市サウンドで電子音楽の礎を築いたドイツの巨人。      | [Amazon](https://amzn.to/4q8Fiy7) |
-| 1970s | **Yellow Magic Orchestra (YMO)** | *Solid State Survivor* (1979)     | アジア発のテクノ革命。世界のエレクトロに衝撃を与えた歴史的名盤。  | [Amazon](https://amzn.to/3WwDvFA) |
-| 1980s | **Depeche Mode**                 | *Violator* (1990)                 | 暗く官能的な電子の祈り。シンセポップを超えた叙情詩。        | [Amazon](https://amzn.to/46M1RRM) |
-| 1980s | **New Order**                    | *Power, Corruption & Lies* (1983) | ポストパンクの哀しみをシンセに昇華。現代クラブカルチャーの原点。  | [Amazon](https://amzn.to/4hdmoSW) |
-| 1980s | **Pet Shop Boys**                | *Actually* (1987)                 | 都市の冷たさとユーモアを兼ね備えた“知的ポップ”の頂点。      | [Amazon](https://amzn.to/3ISMMon) |
-| 1990s | **Björk**                        | *Homogenic* (1997)                | 人間と機械の感情が融合する“電子オーガニック”の傑作。       | [Amazon](https://amzn.to/4nR1xHw) |
-| 1990s | **Daft Punk**                    | *Discovery* (2001)                | YMOの影響を受けた“デジタル・ロマンス”。人間とロボットの共鳴。 | [Amazon](https://amzn.to/490IBBn) |
-| 2000s | **Cornelius**                    | *Point* (2002)                    | 音響芸術としてのポップ。環境音とリズムの再定義。          | [Amazon](https://amzn.to/3KKeAMe) |
-| 2000s | **Perfume**                      | *GAME* (2008)                     | 日本発ハイテクポップの金字塔。中田ヤスタカの完璧主義美学。     | [Amazon](https://amzn.to/4n5WHoC) |
-| 2010s | **Grimes**                       | *Art Angels* (2015)               | オタク文化×DIYポップの融合。AI時代の感情を先取り。      | [Amazon](https://amzn.to/4q6159R) |
-| 2010s | **Charli XCX**                   | *Crash* (2022)                    | ハイパーポップの完成形。シンセポップの未来形を体現。        | [Amazon](https://amzn.to/3JaMwRD) |
-| 2020s | **Yaeji**                        | *With a Hammer* (2023)            | 韓国語・英語を交錯させる次世代シンセポップの旗手。         | [Amazon](https://amzn.to/48rkjAr) |
+| 1970s | **Kraftwerk** | *The Man-Machine* (1978) | A German giant who laid the foundation for electronic music with their inorganic urban sounds.      | [Amazon](https://amzn.to/4q8Fiy7) |
+| 1970s | **Yellow Magic Orchestra (YMO)** | *Solid State Survivor* (1979) | Techno revolution originating in Asia. A historical masterpiece that shocked the world of electro.  | [Amazon](https://amzn.to/3WwDvFA) |
+| 1980s | **Depeche Mode** | *Violator* (1990) | A dark and sensual electronic prayer. Lyrical poetry that goes beyond synth pop.        | [Amazon](https://amzn.to/46M1RRM) |
+| 1980s | **New Order** | *Power, Corruption & Lies* (1983) | Post-punk sadness sublimated to synth. The origin of modern club culture.  | [Amazon](https://amzn.to/4hdmoSW) |
+| 1980s | **Pet Shop Boys** | *Actually* (1987) | The pinnacle of "intellectual pop" that combines urban coldness and humor.      | [Amazon](https://amzn.to/3ISMMon) |
+| 1990s | **Björk** | *Homogenic* (1997) | An "electronic organic" masterpiece that fuses human and machine emotions.       | [Amazon](https://amzn.to/4nR1xHw) |
+| 1990s | **Daft Punk** | *Discovery* (2001) | "Digital romance" influenced by YMO. Resonance between humans and robots. | [Amazon](https://amzn.to/490IBBn) |
+| 2000s | **Cornelius** | *Point* (2002) | Pop as sound art. Redefining environmental sounds and rhythms.          | [Amazon](https://amzn.to/3KKeAMe) |
+| 2000s | **Perfume** | *GAME* (2008) | A monumental piece of high-tech pop from Japan. Yasutaka Nakata's perfectionist aesthetic.     | [Amazon](https://amzn.to/4n5WHoC) |
+| 2010s | **Grimes** | *Art Angels* (2015) | A fusion of otaku culture and DIY pop. Anticipating emotions in the AI ​​era.      | [Amazon](https://amzn.to/4q6159R) |
+| 2010s | **Charli XCX** | *Crash* (2022) | The complete form of hyper pop. Embodying the future form of synth pop.        | [Amazon](https://amzn.to/3JaMwRD) |
+| 2020s | **Yaeji** | *With a Hammer* (2023) | A standard bearer of next-generation synth pop that mixes Korean and English.         | [Amazon](https://amzn.to/48rkjAr) |
 
 ---
 
 ### FAQ
 
-- **Q1. シンセポップとテクノポップの違いは？**
+- **Q1. What is the difference between synth pop and techno pop? **
 
-A1. シンセポップは“ポップ・ソングに電子音を取り入れたジャンル”で、テクノポップはその日本的解釈。YMOが代表例です。
+A1. Synthpop is a genre that incorporates electronic sounds into pop songs, and technopop is a Japanese interpretation of it. YMO is a typical example.
 
-- **Q2. 80年代の代表的なシンセポップ・アーティストは？**
+- **Q2. Who are the representative synth pop artists of the 80's? **
 
-A2. Depeche Mode、New Order、Pet Shop Boys、Human Leagueなどが挙げられます。
+A2. Examples include Depeche Mode, New Order, Pet Shop Boys, and Human League.
 
-- **Q3. 日本のシンセポップは海外にどう影響した？**
+- **Q3. How has Japanese synth pop influenced overseas? **
 
-A3. YMOや坂本龍一の実験精神がDaft PunkやRadioheadに影響を与え、AI時代の“電子的人間性”の原点になりました。
+A3. The experimental spirit of YMO and Ryuichi Sakamoto influenced Daft Punk and Radiohead, and became the origin of "electronic humanity" in the AI ​​era.
 
-- **Q4. 近年のネオ・シンセポップの特徴は？**
+- **Q4. What are the characteristics of neo-synthpop in recent years? **
 
-A4. ハイパーポップやAI音楽など、“デジタルの歪み”を積極的に取り入れる点です。Charli XCXやGrimesがその象徴です。
+A4. The point is that we actively incorporate "digital distortion" such as hyper pop and AI music. Charli XCX and Grimes are examples of this.
 
-- **Q5. 初心者におすすめの入門アルバムは？**
+- **Q5. What introductory album would you recommend for beginners? **
 
-A5. 『Solid State Survivor』（YMO）と『Violator』（Depeche Mode）は時代と国を超えて必聴です。
+A5. "Solid State Survivor" (YMO) and "Violator" (Depeche Mode) are must-listens regardless of time and country.
 
 ---
 
-### 最後に
+### lastly
 
-電子音の歴史をたどることは、人間の感情の記録をたどることでもある。
-それはYMOの初期実験からCharli XCXのデジタルな悲しみまで、連綿と続く“テクノロジーの詩”である。
-シンセポップは終わらない。むしろAI時代こそ、その本質が再び問われているのだ。
-
+Tracing the history of electronic sound is also tracing the record of human emotions.
+It"s a continuous "poetry of technology," from YMO"s early experiments to Charli XCX's digital sadness.
+Synthpop never ends. In fact, in the age of AI, the essence of this is being questioned once again.
 

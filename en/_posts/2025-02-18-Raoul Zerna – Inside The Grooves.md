@@ -21,14 +21,15 @@ The first track on side B is a remix by house DJ Felipe Avelar, Filter Freq.
 
 The second track on the B-side is a remix by San Francisco-based house DJ and producer DJ Denise.
 
+
 #### Tracklist
-"""md
+```md
 A1. Inside The Grooves
 A2. Groove-apella
 
 B1. Inside The Grooves (Filter Freq & Felipe Avelar's Funked Up Remix)
 B2. Inside The Grooves (DJ Denise's Boogie Down Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m36234005752?afid=6142608987){: .button1}
 

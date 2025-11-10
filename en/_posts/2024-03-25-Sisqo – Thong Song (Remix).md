@@ -22,7 +22,7 @@ While attending university, he began performing at local clubs and events, gradu
 Since then, he has released several albums and established himself in the R&B scene, and continues to actively collaborate with other artists and create songs in addition to his solo career.
 
 #### Tracklist
-"""md
+```md
 A1. Thong Song (Remix)　Featuring – Foxy Brown
 
 A2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
@@ -31,11 +31,10 @@ A3. Thong Song (Johnathan Peters Bust Down Mix)
 
 B1. Thong Song (Remix) (Instrumental)
 
-B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
+B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix) 
 
 B3. Thong Song (Johnathan Peters Bust Down Mix) (Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
-
 

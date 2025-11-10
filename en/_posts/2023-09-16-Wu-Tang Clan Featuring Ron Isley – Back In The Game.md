@@ -22,7 +22,7 @@ The members of Wu-Tang Clan rhyme with their own style and lyrics, expressing th
 Ron Isley's soulful vocals bring an emotional element to the songs that resonate with the listener.
 
 #### Tracklist
-"""md
+```md
 A1. Back In The Game (Radio Version)
 
 A2. Back In The Game (TV Track)
@@ -30,7 +30,7 @@ A2. Back In The Game (TV Track)
 B1. Back In The Game (Main)
 
 B2. Back In The Game (Acapella)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94135707299?afid=6142608987){: .button1}
 

@@ -18,11 +18,11 @@ title: Shofukutei Tsuruko - Uguisudani Music Hall
 Lyrics, composition, arrangement - Masayuki Yamamoto
 
 #### Tracklist
-"""md
-A. Uguisudani Music Hall
+```md
+A. うぐいすだにミュージックホール
 
-B. Momoe-chan
-""""
+B. ももえちゃん
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
 

@@ -17,15 +17,15 @@ This is an EP by Co-Fusion released on the UK label Pro-Jex in 2001.
 The Pod EP contains four songs, and each track has a Japanese techno feel to it.
 
 #### Tracklist
-"""md
-A1.Pod
+```md
+A1. Pod
 
 A2. Break Beats (Wild World)
 
-B1.I.T.
+B1. I.T.
 
 B2. Wild World (Full Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37514147918?afid=6142608987){: .button1}
 

@@ -20,13 +20,13 @@ The original is known as a party anthem that combines elements of hip-hop and te
 This remake maintains the charm of the original with new arrangements and production.
 
 #### Tracklist
-"""md
+```md
 A1. MC Tunes Vs 808state–The Only Rhyme That Bites
 
 A2. 808state –Bombadin (Fire Island Remix)
 
 B. 808state –Cubik (Victor Calderone's Not So Long Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96097722789?afid=6142608987){: .button1}
 

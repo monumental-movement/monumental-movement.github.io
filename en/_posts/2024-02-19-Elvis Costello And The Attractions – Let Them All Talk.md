@@ -26,11 +26,11 @@ In 2002, the band reformed as Elvis Costello & the Imposters, excluding Bruce Th
 In 2003, Elvis Costello and the Attractions were inducted into the Rock and Roll Hall of Fame.
 
 #### Tracklist
-"""md
+```md
 A. Let Them All Talk
 
 B. The Flirting Kind
-""""
+```
 [Purchase on Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 #### Youtube

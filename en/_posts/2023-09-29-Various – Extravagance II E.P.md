@@ -17,7 +17,7 @@ title: Various – Extravagance II E.P
 Tracks from this EP were also featured on Basement Phil's History of Rave show.
 
 #### Tracklist
-"""md
+```md
 A1. Jargon–Adrenalin
 
 A2. Auto-Logic–I Think I Want Some More
@@ -25,7 +25,7 @@ A2. Auto-Logic–I Think I Want Some More
 B1. The Coma Kid–1000 Feet
 
 B2. Ray Vee–R.V. Theme
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30325030920?afid=6142608987){: .button1}
 

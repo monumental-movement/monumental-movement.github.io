@@ -21,13 +21,13 @@ Other names include staxx, Katch, So Damn Tuff, Tuff Boys, and Tuff Productions.
 The first song on side B is a remix by house DJ and producer Junior Vasquez.
 
 #### Tracklist
-"""md
+```md
 A1. You (Man City Vocal)
 A2. You (Staxx Original Mix)
 
 B1. You (Sound Factory Vocal Mix)
 B2. You (Overworld Vocal)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77630892150?afid=6142608987){: .button1}
 

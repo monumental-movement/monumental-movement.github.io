@@ -16,11 +16,11 @@ title: The Champs – Tequila
 "The Champs - Tequila / Patsy Cline - Walkin' After Midnight" is a release from the label Collectables.
 
 #### Tracklist
-"""md
+```md
 A. The Champs–Tequila
 
 B. Patsy Cline–Walkin' After Midnight
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38758160167?afid=6142608987){: .button1}
 

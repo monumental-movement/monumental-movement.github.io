@@ -15,13 +15,13 @@ title: Headshop – 4 Sale!
 Headshop is a project by Olaf Pozsgay (The Viking/Dirty Dozen), an electronic hardcore acid techno artist who has been active since the 90s.
 
 #### Tracklist
-"""md
+```md
 A. Universe
 
-B1.Floorlifter
+B1. Floorlifter
 
 B2. Xenomorph
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61217798776?afid=6142608987){: .button1}
 

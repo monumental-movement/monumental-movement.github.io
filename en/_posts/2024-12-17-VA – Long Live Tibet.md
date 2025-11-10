@@ -17,12 +17,12 @@ title: VA – Long Live Tibet
 Charity CD released in 1997. Proceeds from the sale of this CD were donated to the Tibet House Trust charity which supports the liberation of Tibet and Tibetan refugees.
 
 #### Tracklist
-"""md
+```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
-3. Ocean Color Scene Featuring Paul Weller – Lining Your Pockets
+3. Ocean Colour Scene Featuring Paul Weller – Lining Your Pockets
 4. David Bowie & Gail Ann Dorsey – Planet Of Dreams
-5. Blur – She"s So High
+5. Blur – She's So High
 6. Pulp – Live Bedshow
 7. Cast – Four Walls
 8. Babybird – Too Handsome To Be Homeless
@@ -34,7 +34,7 @@ Charity CD released in 1997. Proceeds from the sale of this CD were donated to t
 14. Radiohead – The Bends
 15. Terrorvision – Moonage Daydream
 16. Supergrass – Wait For The Sun
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 

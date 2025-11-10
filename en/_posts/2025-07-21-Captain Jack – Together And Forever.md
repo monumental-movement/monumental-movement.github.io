@@ -19,12 +19,12 @@ Captain Jack is a dance project from Cologne, Germany that represents the Euroda
 "Together And Forever!" is a Eurodance, Euro House track released in 1997 on EMI Germany's dance sublabel - Cologne Dance Label (CDL).
 
 #### Tracklist
-"""md
+```md
 A. Together And Forever (Captains Maxi-Mix)
 
 B1. Together And Forever (Captains Club-Mix)
 B2. Together And Forever (Captains Sneo-Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44905677266?afid=6142608987){: .button1}
 

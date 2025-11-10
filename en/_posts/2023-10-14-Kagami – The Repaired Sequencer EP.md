@@ -19,12 +19,12 @@ The first track on the B side is a remix by Ben Tisdall and Daz Saund's unit Sou
 The second track on the B-side is a remix by German DJ and producer Thomas Schumacher.
 
 #### Tracklist
-"""md
+```md
 A1. 1.S.W. (109 Shopping Warriors)
 
 B1. BMX (Sound Associates Remix)
 B2. Beat Bang (Thomas Schumacher Remix Pt.2)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77157414026?afid=6142608987){: .button1}
 

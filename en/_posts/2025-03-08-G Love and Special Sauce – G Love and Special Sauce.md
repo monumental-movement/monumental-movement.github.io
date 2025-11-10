@@ -19,22 +19,23 @@ G. Love & Special Sauce is a rock band from Philadelphia. Characterized by an or
 
 Their debut album, ""G. Love & Special Sauce,'' released by Okeh Records in 1994, became a huge hit, with the seventh song on the album, Cold Beverage, becoming a hit.
 
+
 #### Tracklist
-"""md
+```md
 1. The Things That I Used To Do
-2.Blues Music
+2. Blues Music
 3. Garbage Man
 4. Eyes Have Miles
 5. Baby's Got Sauce
 6. Rhyme For The Summertime
 7. Cold Beverage
-8.Fatman
+8. Fatman
 9. This Ain't Living
-10.Walk To Slide
+10. Walk To Slide
 11. Shooting Hoops
-12. Some People Like That
+12. Some Peoples Like That
 13. Town To Town
-14.I Love You
+14. I Love You
 
 ```
 

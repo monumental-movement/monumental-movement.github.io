@@ -17,17 +17,17 @@ Combustible Edison is an American lounge/jazz/easy listening band formed in Prov
 Contains the original album version and remixes by Peter Thomas Sound Orchestra, Saint Etienne, and more.
 
 #### Tracklist
-"""md
-A1 Bluebeard (Album Version)
+```md
+A1  Bluebeard (Album Version)
 
-A2 Bluebeard (Space Patrol 2000 Mix)
+A2  Bluebeard (Space Patrol 2000 Mix)
 
-A3 Bluebeard (Instrumental Space Patrol 2000 Mix)
+A3  Bluebeard (Instrumental Space Patrol 2000 Mix)
 
-B1 Bluebeard (F.P.M. Old Fashioned Mix)
+B1  Bluebeard (F.P.M. Old Fashioned Mix)
 
-B2 Bluebeard (Buddy Mikro Mix)
-""""
+B2  Bluebeard (Buddy Mikro Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92789980685?afid=6142608987){: .button1}
 

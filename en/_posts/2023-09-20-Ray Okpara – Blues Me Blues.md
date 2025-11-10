@@ -17,13 +17,13 @@ Ray Okpara is a house techno DJ and producer with Nigerian roots. "Blues Me Blue
 "Blues Me Blues" incorporates Ray Okpara's signature sound, such as a dark and enchanting atmosphere that combines tight rhythms with the essence of house music, a groovy beat, a resonating bass line, and unique sampling and effects, as well as elements of the blues, and the emotional expression and melody spread throughout the song.
 
 #### Tracklist
-"""md
+```md
 A1. Blues Me Blues
 
 B1. Bounce To This Featuring – Obi Jazz
 
 B2. Hideout
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35541987030?afid=6142608987){: .button1}
 

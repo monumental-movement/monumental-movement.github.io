@@ -16,11 +16,11 @@ title: Bobby Moore and The Rhythm Aces – Searching For My Love
 Bobby Moore and The Rhythm Aces Searching For My Love was released in 1967.
 
 #### Tracklist
-"""md
-A.Searching For My Love
+```md
+A. Searching For My Love
 
 B. I Won't Cry
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32317600071?afid=6142608987){: .button1}
 

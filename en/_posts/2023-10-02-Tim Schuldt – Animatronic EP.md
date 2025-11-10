@@ -16,11 +16,11 @@ title: Tim Schuldt – Animatronic EP
 Tim Schuldt is a Goan and psychedelic trance artist from Germany. He is also a studio and mastering engineer and owner of 4CN Studios.
 
 #### Tracklist
-"""md
+```md
 A. Animatronic
 
 AA. Inner Child
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
 

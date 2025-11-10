@@ -15,12 +15,13 @@ title: Cosmic Gate – Human Beings
 "Cosmic Gate – Human Beings"
 The B-side is a remix by G&M (Robert Gitelman & Jaron Martinez), a well-known trance act in the European dance scene of the early 2000s.
 
+
 #### Tracklist
-"""md
+```md
 A1. Human Beings (Extended Mix)
 
 B1 Human Beings (G&M Project Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58263086044?afid=6142608987){: .button1}
 

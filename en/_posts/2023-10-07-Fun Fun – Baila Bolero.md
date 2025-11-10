@@ -18,16 +18,16 @@ This song is a dance floor song that combines elements of bolero and disco, and 
 
 "Baila Bolero" is one of the songs that became popular during the disco and Eurodisco boom of the time, and is known as a masterpiece among fans. Its upbeat sound and danceable rhythm make it a popular song at dance parties and clubs.
 
-Fan Fan's "Baila Bolero" is a special treat for lovers of disco and Eurodisco because of its fun and dance quality. By listening to the song, you can feel the charm of 80's dance music and the energy of that time.
+Fan Fan"s "Baila Bolero" is a special treat for lovers of disco and Eurodisco because of its fun and dance quality. By listening to the song, you can feel the charm of 80"s dance music and the energy of that time.
 
 #### Tracklist
-"""md
+```md
 A1. Baila Bolero (Bolero Dance Mix)
 
 A2. Baila Bolero (7" Radio Mix)
 
 B. Baila Bolero (House Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
 

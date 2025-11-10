@@ -19,11 +19,11 @@ As a producer, he has been involved in a wide range of activities, including par
 "Oranazol" is a techno track released by the label Jericho in 2001.
 
 #### Tracklist
-"""md
+```md
 A. Kenox
 
 AA. Katol
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21241493715?afid=6142608987){: .button1}
 

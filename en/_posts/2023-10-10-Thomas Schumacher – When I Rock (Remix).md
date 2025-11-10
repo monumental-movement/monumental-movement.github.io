@@ -16,11 +16,11 @@ title: Thomas Schumacher – When I Rock (Remix)
 This is an EP by Thomas Schumacher released in 1998 on the UK label "Bush".
 
 #### Tracklist
-"""md
+```md
 A. When I Rock (Anthony Rother Remix)
 
 AA. When I Rock (Johannes Heil Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24258262929?afid=6142608987){: .button1}
 

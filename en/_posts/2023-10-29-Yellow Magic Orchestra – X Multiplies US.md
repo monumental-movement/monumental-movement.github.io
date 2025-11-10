@@ -17,8 +17,9 @@ Yellow Magic Orchestra – Multiprise".
 
 The Japanese version is [here](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
 
+
 #### Tracklist
-"""md
+```md
 A1. Nice Age
 
 A2. Behind The Mask
@@ -34,7 +35,7 @@ B2. Multiplies
 B3. Citizens Of Science
 
 B4. Solid State Survivor
-""""
+```
 [Purchase on Mercari](https://jp.mercari.com/item/m67524717160?afid=6142608987){: .button1}
 
 #### Youtube

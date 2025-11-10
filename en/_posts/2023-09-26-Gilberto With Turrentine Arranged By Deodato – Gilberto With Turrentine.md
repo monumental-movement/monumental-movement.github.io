@@ -15,10 +15,11 @@ title: Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine
 
 This album is a collaboration between Brazilian bossa nova singer João Gilberto and American tenor saxophonist Stanley Turrentine.
 
-"Gilberto With Turrentine" combines João Gilberto's masterful bossa nova singing and guitar playing with Stanley Turrentine's soulful tenor saxophone. Deodato's arrangements fuse elements of Brazilian music and jazz to create a unique and appealing sound.
+"Gilberto With Turrentine" combines João Gilberto"s masterful bossa nova singing and guitar playing with Stanley Turrentine"s soulful tenor saxophone. Deodato's arrangements fuse elements of Brazilian music and jazz to create a unique and appealing sound.
+
 
 #### Tracklist
-"""md
+```md
 1.Wanting Things
 
 2.Braziliam Tapestry (Mulher Rendeira)
@@ -46,7 +47,7 @@ Bonus Tracks
 12.The Puppy Song
 
 13.Polytechnical High
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
 

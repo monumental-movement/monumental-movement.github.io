@@ -14,110 +14,110 @@ title: '[Column] History and evolution of DTM (DAW) — How the sound production
 ---
 
 
-## 「誰もが世界に音を届けられる環境」
+## "An environment where everyone can deliver sound to the world"
 
-文：mmr｜テーマ：「音楽制作の民主化」を象徴する文化的装置
+Text: mmr｜Theme: A cultural device symbolizing the "democratization of music production"
 
-DTM（DeskTop Music／デスクトップミュージック）──日本語では「DTM」と呼ばれ、英語圏では主にDAW（Digital Audio Workstation）と呼ばれるワークフローは、録音・編集・ミックス・制作をコンピュータとソフトウェア中心に完結させる文化を指します。本稿では「技術的な転換点」と「文化的なインパクト」を軸に、発生から現在に至るまでの流れを年表と合わせて整理します。
-
-<hr>
-
-### 時代ごとの流れ
-
-**1940–1960年代**：テープとマルチトラック録音の時代
-テープ編集、テープループ、ミュージック・コンクレートなど、音を「切って貼る」技術が発展。スタジオでの多重録音が普及。
-
-**1970年代**：シンセサイザーと初期コンピュータ音楽
-アナログシンセ、ミニムーグなどの楽器が広がり、電子音楽の制作手法が多様化。
-
-**1983頃**：MIDI規格の登場（楽器間データ通信が標準化）→ 制作ワークフローに革命。
-
-**1980s後半–1990s前半**：初期のデジタル編集/シーケンサー＋ハードウェアの時代
-サンプラー、ハードウェアシーケンサー、初期のコンピュータベース音楽ソフトが登場。プロ用デジタル録音システムの出現。
-
-**1990s中盤–後半**：Pro Toolsとデジタル録音のプロフェッショナル化
-ハードウェア依存の高性能録音システムが普及し、ポストプロダクションやレコーディングでデジタル化が急速に進む。VSTなどのプラグイン規格も確立。
-
-**2000年代**：パソコンベースのDAWが主流に、ホームスタジオの爆発
-価格低下とプラグイン品質向上により、個人でもプロ級の制作が可能に。ループ文化、オンライン配信の拡大と相まる。
-
-**2010年代**：DAWの多様化とライブ／即興志向（Abletonなど）
-ノンリニア編集やクリップベースの生演奏統合、クラウドやコラボレーションツールが登場。
-
-**2020年代**：AI支援制作、クラウド協働、更なる民主化
-自動ミックス／マスタリング、生成系AI、クラウドプロジェクト共有などが制作フローに影響。
+DTM (DeskTop Music) - Called ""DTM'' in Japanese and DAW (Digital Audio Workstation) in English-speaking countries, the workflow refers to a culture in which recording, editing, mixing, and production are completed using computers and software. In this article, we will organize the flow from its emergence to the present, along with a chronology, with a focus on "technological turning points" and "cultural impact."
 
 <hr>
 
-### 起源と初期（テープ〜アナログの時代）
+### Trend by era
 
-DTMの源流は「音を記録・編集して作品を作る」行為そのものです。テープ編集（切断・貼り付け）、テープループ（反復音の作成）、テープ逆回しやスピード操作など、物理的なメディアを使った実験が20世紀中盤の電子音楽を形作りました。スタジオの大型機材と熟練エンジニアが中心の時代です。
+**1940–1960s**: Era of tape and multitrack recording
+Techniques for "cutting and pasting" sound developed, such as tape editing, tape looping, and musique concrète. Overdub recording in studios became popular.
 
-<hr>
+**1970s**: Synthesizers and early computer music
+Instruments such as analog synths and the Minimoog spread, and electronic music production methods diversify.
 
-### MIDIの登場がもたらした革命（1983年頃）
+**Around 1983**: The appearance of the MIDI standard (standardized data communication between musical instruments) → revolutionized the production workflow.
 
-MIDI（Musical Instrument Digital Interface）は、鍵盤やシーケンサー、コンピュータ間で「ノート情報」「コントロール情報」をやり取りする規格です。これによりシンセサイザーや外部モジュールを統合した制作が格段に簡単になり、ソフトウェアによるシーケンス制御（後のDAWの核）を現実にしました。MIDIは「演奏情報」の標準化で、楽曲制作の柔軟性を飛躍的に高めました。
+**Late 1980s – Early 1990s**: Early digital editing/sequencer + hardware era
+Introducing samplers, hardware sequencers, and early computer-based music software. The advent of professional digital recording systems.
 
-<hr>
+**Mid-Late 1990s**: Professionalization of Pro Tools and digital recording
+High-performance recording systems that rely on hardware have become widespread, and post-production and recording are rapidly becoming digital. Plug-in standards such as VST have also been established.
 
-### コンピュータとソフトウェアの台頭（1990年代）
+**2000s**: Computer-based DAWs became mainstream and home studios exploded.
+Lower prices and improved plug-in quality have made it possible for individuals to create professional-quality products. Loop culture, combined with the expansion of online distribution.
 
-コンピュータの性能向上とハードディスク録音の実用化により、音声波形の編集がデジタルで可能となりました。AvidのPro Tools（当時はDigidesign）はプロの録音・編集ワークフローをデジタルで実現し、映画・放送・音楽制作で業界標準へ。並行してSteinbergのCubaseやEmagicのLogic（後にAppleが買収）など、ソフトシーケンサー／総合DAWが普及。さらに、Steinbergが提唱したVST（Virtual Studio Technology）プラグインは、ソフト音源やエフェクトを第三者が開発できる仕組みを提供し、エコシステムを拡大しました。
+**2010s**: DAW diversification and live/improvisation-oriented (Ableton, etc.)
+Introducing non-linear editing, clip-based live music integration, cloud and collaboration tools.
 
-<hr>
-
-### ホームスタジオと「個人プロダクション」の誕生（2000年代）
-
-パーソナルPCの性能向上、オーディオインターフェースの普及、プラグイン品質の向上で、レコーディングはスタジオだけのものではなくなりました。FL StudioやAbleton Liveなど、ループやパターンを軸にした制作環境は、電子音楽やヒップホップの制作スタイルを変え、個人がアルバムやサウンドトラックを自宅で完結することが一般化しました。インターネット配信や販売プラットフォーム（Bandcamp、SoundCloud等）が重なり、制作から公開までの敷居は劇的に下がりました。
-
-<hr>
-
-### 2010年代以降：多様化・即興性・クラウド化
-
-DAWは単に「録る・並べる・ミックスする」ツールから、ライブパフォーマンス（Ableton Live）、リアルタイムコラボレーション、映像連携、モジュラー統合など多機能化しました。モバイルアプリ／iPad用DAW、クラウドでのプロジェクト同期、サブスクリプションモデルの導入など、利用形態はさらに拡張しています。
+**2020s**: AI-assisted production, cloud collaboration, further democratization
+Automatic mixing/mastering, generation AI, cloud project sharing, etc. are affecting the production flow.
 
 <hr>
 
-### 技術的なキー要素（何がDAWを支えているか）
+### Origin and early days (tape to analog era)
 
-**オーディオ・インターフェース**：AD/DA変換の品質、レイテンシ（遅延）の低さが制作の快適さを左右。
-
-**MIDI**：演奏情報の記録／編集。MIDI CCやMIDI 2.0（徐々に普及）など規格の進化も注視。
-
-**プラグイン（VST/AU/AAX等）**：ソフト音源やエフェクトを追加することで機能を拡張。
-
-**サンプリングとサンプラー**：サウンドデザインの重要手段。サンプラー文化はヒップホップやエレクトロニカの基盤。
-
-**タイムストレッチ／ピッチ補正**：音の長さ・高さを自在に操作（例：オーディオのクオンタイズ、ピッチ補正ツール）。
-
-**自動化とモジュレーション**：時間軸でパラメータを変化させることでダイナミズムを実現。
-
-**非破壊編集**：元データを変更せず編集が可能。DAWの基本機能。
+The origin of DTM is the act itself of ""creating a work by recording and editing sound.'' Experiments with physical media, such as tape editing (cutting and pasting), tape looping (creating repeated sounds), tape reversing, and speed manipulation, shaped electronic music in the mid-20th century. This was an era where large studio equipment and skilled engineers were the focus.
 
 <hr>
 
-### 主要DAWの特色
+### Revolution brought about by the advent of MIDI (around 1983)
 
-[**Pro Tools（Avid）**](https://amzn.to/4n48V0L)：プロ録音・ポストプロダクションの業界標準。編集・ミキシングの堅牢さが強み。AAXプラグイン。
-
-[**Cubase（Steinberg）**](https://amzn.to/3J9udfx)：MIDIシーケンスや作曲ワークフローに強み。VST規格の生みの親。
-
-[**Logic Pro（Apple）**](https://amzn.to/3W5tqzp)：総合的でコストパフォーマンス良好。Macユーザーに人気。豊富な内蔵音源。
-
-[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
-
-[**FL Studio**](https://amzn.to/43ocpnQ)：ループ／パターン作成に最適、ビートメイクで人気。使いやすいピアノロール。
-
-[**REAPER**](https://amzn.to/4ognVtw)：軽量でカスタマイズ性高い。コストが低く、コミュニティでの拡張が豊富。
+MIDI (Musical Instrument Digital Interface) is a standard for exchanging note information and control information between keyboards, sequencers, and computers. This made production by integrating synthesizers and external modules much easier, and made software sequence control (later the core of DAWs) a reality. MIDI standardizes "performance information" and dramatically increases the flexibility of music production.
 
 <hr>
 
-### 文化的側面と産業構造の変化
+### The Rise of Computers and Software (1990s)
 
-**民主化**：制作コストの低下は、多様な表現者の参入を可能にしました。インディーズ／自宅制作が当たり前に。
+Improvements in computer performance and the practical use of hard disk recording have made it possible to edit audio waveforms digitally. Avid"s Pro Tools (then Digidesign) digitally enabled professional recording and editing workflows and became the industry standard for film, broadcast, and music production. At the same time, software sequencers/comprehensive DAWs such as Steinberg"s Cubase and Emagic's Logic (later acquired by Apple) became popular. Furthermore, the VST (Virtual Studio Technology) plug-in proposed by Steinberg expanded the ecosystem by providing a mechanism for third parties to develop software sound sources and effects.
 
-**コラボレーション**：ネットを介した国際的な共同制作やファイル交換が拡大。バウンダリーが解ける。
+<hr>
+
+### Birth of home studios and "individual production" (2000s)
+
+With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered around loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
+
+<hr>
+
+### 2010s and beyond: Diversification, improvisation, and cloud computing
+
+DAWs have evolved from tools for simply "recording, arranging, and mixing" to multifunctional features such as live performance (Ableton Live), real-time collaboration, video linkage, and modular integration. Usage options are further expanding, including mobile apps/DAWs for iPad, cloud project synchronization, and the introduction of subscription models.
+
+<hr>
+
+### Technical key elements (what supports the DAW)
+
+**Audio interface**: The quality of AD/DA conversion and low latency (delay) determine the comfort of production.
+
+**MIDI**: Recording/editing performance information. We will also keep an eye on the evolution of standards such as MIDI CC and MIDI 2.0 (which is gradually becoming popular).
+
+**Plug-ins (VST/AU/AAX, etc.)**: Expand functionality by adding soft sound sources and effects.
+
+**Sampling and Samplers**: An important tool in sound design. Sampler culture is the foundation of hip-hop and electronica.
+
+**Time stretch/pitch correction**: Freely manipulate the length and pitch of sounds (e.g. audio quantization, pitch correction tools).
+
+**Automation and Modulation**: Achieve dynamism by changing parameters over time.
+
+**Non-destructive editing**: Can be edited without changing the original data. Basic functions of DAW.
+
+<hr>
+
+### Features of major DAWs
+
+[**Pro Tools (Avid)**](https://amzn.to/4n48V0L): Industry standard for professional recording and post-production. Its strength is its robust editing and mixing. AAX plugin.
+
+[**Cubase (Steinberg)**](https://amzn.to/3J9udfx): Strengths in MIDI sequences and composition workflow. The creator of the VST standard.
+
+[**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Comprehensive and cost-effective. Popular with Mac users. Abundant built-in sound sources.
+
+[**Ableton Live**](https://amzn.to/3IN6QbN): Specialized in clip-based improvisation and live use. Widely used in electronic systems.
+
+[**FL Studio**](https://amzn.to/43ocpnQ): Ideal for creating loops/patterns, popular for beat making. Easy to use piano roll.
+
+[**REAPER**](https://amzn.to/4ognVtw): Lightweight and highly customizable. Low cost and plenty of community expansion.
+
+<hr>
+
+### Changes in cultural aspects and industrial structure
+
+**Democratization**: Lower production costs have made it possible for a variety of artists to participate. Indie/home production has become the norm.
+
+**Collaboration**: International collaboration and file exchange via the internet is expanding. Boundaries are solved.
 
 **Changes in commercial models**: Direct sales through self-produced products, software usage through subscriptions, and expansion of the plug-in market.
 

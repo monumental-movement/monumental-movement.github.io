@@ -17,11 +17,11 @@ title: Public Energy – Slumber Velocity
 "Velocity", on the other hand, has a more European style and features drum rolls.
 
 #### Tracklist
-"""md
-A.Slumber
+```md
+A. Slumber
 
 B. Velocity
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21565192734?afid=6142608987){: .button1}
 

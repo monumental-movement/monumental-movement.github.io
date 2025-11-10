@@ -17,11 +17,11 @@ Ashley Beedle is a British DJ and producer who is a member of X-Press 2. He is a
 Side A is a re-edit of Tumblack - Caraïba, and side B is a re-edit of Richard Evans' "Capricorn Rising" from his album "Richard Evans".
 
 #### Tracklist
-"""md
+```md
 A. Tumblack–Tumbacara (Ashley Beedle's DiscoDub Pt2 Edit)
 
-AA. Richard Evans –Capricorn One (Ashley Beedle's Space Flight Edit)
-""""
+AA. Richard Evans  –Capricorn One (Ashley Beedle's Space Flight Edit)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64097665134?afid=6142608987){: .button1}
 

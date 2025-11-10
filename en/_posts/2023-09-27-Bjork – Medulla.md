@@ -16,7 +16,7 @@ title: Björk – Medulla
 "Medúlla" is a highly experimental and innovative work by Björk, and is known as a vocal album centered on the human voice. Björk uses the human voice and the sounds of the human body in most of her songs, building her sound without relying on traditional instruments.
 
 #### Tracklist
-"""md
+```md
 1.Pleasure Is All Mine
 
 2.Show Me Forgiveness
@@ -25,17 +25,17 @@ title: Björk – Medulla
 
 4.Vökuró
 
-5.Oll Birtan
+5.Öll Birtan
 
 6.Who Is It (Carry My Joy On The Left, Carry My Pain On The Right)
 
 7.Submarine
 
-8. Desired Constellation
+8.Desired Constellation
 
 9.Oceania
 
-10. Sonnets / Unrealities XI
+10.Sonnets / Unrealities XI
 
 11.Ancestors
 
@@ -45,8 +45,8 @@ title: Björk – Medulla
 
 14.Triumph Of A Heart
 
-15. Komid
-""""
+15.Komid
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
 

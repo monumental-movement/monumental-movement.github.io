@@ -17,12 +17,12 @@ Transa, also known as Escape, is a brother duo of Brendan Webster & David Cliffo
 "Nothing To Fear / Solar Silence" was released by Trance on his own label Exciter in 2003.
 
 #### Tracklist
-"""md
-A.Untitled
+```md
+A. Untitled
 
-B1.Untitled
-B2.Untitled
-""""
+B1. Untitled
+B2. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38913802157?afid=6142608987){: .button1}
 

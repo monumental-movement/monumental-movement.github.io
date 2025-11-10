@@ -22,12 +22,12 @@ The second track on Side A is a remix by Surkin, a French producer who runs the 
 The B-side is a remix by British DJ and producer Erol Alkan.
 
 #### Tracklist
-"""md
+```md
 A1. Golden Skans (SebastiAn Remix)
 A2. Golden Skans (Surkin Remix)
 
 B. Golden Skans (Erol Ekstra Special Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20825247646?afid=6142608987){: .button1}
 

@@ -21,13 +21,15 @@ title: Pick up cassette tape works
 1970s Field Recording/Healing A healing soundscape that captures the natural environment.
 
 #### Tracklist
-"""md
+```md
 A. Tintinnabulation (Contemplative Sound)
 
 B. Dawn At New Hope Pennsylvania (June, 1969)
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -39,14 +41,14 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 1987 Leftfield Synth Pop Art pop x experimental, unique synth work.
 
 #### Tracklist
-"""md
+```md
 A1. Galleons Of Stone
-A2.Dragnet
+A2. Dragnet
 A3. Fin Du Temps
 A4. How Rapid?
 A5. Opus For Four
 A6. Debut
-A7.E.F.L.
+A7. E.F.L.
 A8. Ode To Don Jose
 A9. A Day At The Races
 A10. Counterpoint
@@ -54,7 +56,7 @@ A11. Roundabout 727
 A12. Ransom On The Sand
 A13. Roller 1
 A14. Nothing Was Going To Stop Them Then, Anyway
-A15.
+A15. Crusoe
 A16. One Earth
 
 B1. Galleons Of Stone
@@ -63,7 +65,7 @@ B3. Fin Du Temps
 B4. How Rapid?
 B5. Opus For Four
 B6. Debut
-B7.E.F.L.
+B7. E.F.L.
 B8. Ode To Don Jose
 B9. A Day At The Races
 B10. Counterpoint
@@ -71,15 +73,18 @@ B11. Roundabout 727
 B12. Ransom On The Sand
 B13. Roller 1
 B14. Nothing Was Going To Stop Them Then, Anyway
-B15.
+B15. Crusoe
 B16. One Earth
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
@@ -87,7 +92,7 @@ B16. One Earth
 1976 70s Hard Rock Japan first edition cassette, cool vintage.
 
 #### Tracklist
-"""md
+```md
 A1. I Want You
 A2. Take Me
 A3. Calling Dr. Love
@@ -97,15 +102,18 @@ A5. Baby Driver
 B1. Love 'Em And Leave 'Em
 B2. Mr. Speed
 B3. See You In Your Dreams
-B4.Hard Luck Woman
+B4. Hard Luck Woman
 B5. Makin' Love
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
@@ -113,35 +121,38 @@ B5. Makin' Love
 2024 Tribal/World Music Tribal sound from the Middle East and Africa.
 
 #### Tracklist
-"""md
-A1.
+```md
+A1.  بدويست 
 
 Budweit
 
-A2.
+A2. سلامتها أم حسن 
 
 Her safety is Umm Hassan
 
-A3.
+A3. الحب كله
 
 All love
 
-B1.
+B1. أمونة في السودان
 
 Ammouna in Sudan
 
-B2.
+B2. القمر والنجوم
 
 The moon and stars
 
-B3.
+B3. يللا يا باسم
 
 Come on, Bassem
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
+
 <hr>
+
 
 ### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
@@ -149,28 +160,30 @@ Come on, Bassem
 1992 Movie Soundtrack Original score tape for a classic movie.
 
 #### Tracklist
-"""md
-A1. Main Title
-A2. A Tour Of Pleasures
+```md
+A1.  Main Title
+A2.  A Tour Of Pleasures
 A3. Tract House Ginch
-A4. 45 In 25
+A4.  45 In 25
 A5. Balloons
 A6. Cigars Part Two
-A7.
+A7. Por Una Cabeza
 A8. Long Gray Line
-A9.The Oakroom
+A9. The Oakroom
 A10. Park Ave.
 
 B1. Witnesses
 B2. Beyond Danger
 B3. La Violetera
-B4.Other Plans
-B5.Assembly
+B4. Other Plans
+B5. Assembly
 B6. Fleurs De Rocaille
 B7. End Title
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -182,18 +195,21 @@ B7. End Title
 1996 movie theme song Official tape of the movie "Mission Impossible".
 
 #### Tracklist
-"""md
+```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
 
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+
 
 ### Dieselboy – The Director"s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
@@ -201,12 +217,12 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 2023 Drum n Bass Intense mix by American drum and bass DJ
 
 #### Tracklist
-"""md
-A.Side A
+```md
+A. Side A
 
 1. ???? (Intro written by Dieselboy?)
 2. Ram Trilogy- Intercity
-3. Facs-Cazms
+3. Facs- Cazms
 4. Known:Unknown- Chaos Edit
 5. Ram Trilogy- No Reality remix
 6. Ed Rush + Optical- Lifecrisis (Origin Unknown remix)
@@ -214,12 +230,12 @@ A.Side A
 8. Dylan- Blackout
 9. Facs- Dekweef
 10. Ed Rush + Optical- Wormhole
-11. A Sides- Caliber (Ed Rush remix)
+11. A Sides- Calibre (Ed Rush remix)
 12. ????
 13. Ram Trilogy- Mind Overload
 14. Adam F- Brand New Funk
 
-B.Side B
+B. Side B
 
 1. Grooverider - Cybernetic Jazz
 2. Ed Rush + Optical- Point Blank
@@ -234,9 +250,11 @@ B.Side B
 11. Orgy- Blue Monday (Optical Dub mix)
 12. Ed Rush + Optical- Medicine (Matrix remix)
 13. Dillinja- Accurist
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -248,7 +266,7 @@ B.Side B
 1990s? Classic hip-hop Zulu Nation era early compilation
 
 #### Tracklist
-"""md
+```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
 A3.Spoonie Gee And Treacherous Three–Love Rap
@@ -276,16 +294,18 @@ C8. Midnight Blue – Coolin' Out
 
 D1. The Masterdon Committee – Musicgram
 D2. The Deuce II – Are You Ready
-D3. DLB – It"s Magic
+D3. DLB – It's Magic
 D4. New York City Trooper – Here We Go
 D5. The Source – Ghetto Life
 D6. Doctor Ice – Calling Dr Ice
 D7. The Masterdon Committee – Gonna Get You Hot
 D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -297,7 +317,7 @@ D9. Higher Ground – Shake 'Em Up
 1985?  Hip-hop/rock fusion, a pioneering and popular work of rock and rap
 
 #### Tracklist
-"""md
+```md
 A1. Rock The House
 A2. King Of Rock
 A3. You Talk Too Much
@@ -308,9 +328,11 @@ B1. Can You Rock It Like This
 B2. You're Blind
 B3. It's Not Funny
 B4. Daryll And Joe (Krush-Groove 3){: .button1}
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -322,23 +344,25 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 1992 Classic hip-hop/G-funk representative song of the West Coast sound
 
 #### Tracklist
-"""md
+```md
 A1. Let Me Ride (Radio Mix)
 
 A2. Let Me Ride (Extended Club Version)
 
-Featuring – Daz, Snoop Doggy Dogg
-Guest – George Clinton
+Featuring – Daz, Snoop Doggy Dogg 
+Guest– George Clinton
 
 B1. Let Me Ride (Radio Mix)
 
 B2. Let Me Ride (Extended Club Version)
 
-Featuring –Daz, Snoop Doggy Dogg
-Guest – George Clinton
-""""
+Featuring –Daz, Snoop Doggy Dogg 
+Guest– George Clinton
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -348,86 +372,86 @@ Guest – George Clinton
 
 <div class="table-border">
 <table>
-  <thead>
-    <tr>
-      <th>Artist</th>
-      <th>Title</th>
-      <th>era</th>
-      <th>Genre</th>
-      <th>Comments</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>No Artist</td>
-      <td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Environments</a></td>
-      <td>1970s</td>
-      <td>Field recording/healing</td>
-      <td>Healing soundscape that captures the natural environment</td>
-    </tr>
-    <tr>
-      <td>The Art of Noise</td>
-      <td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">In No Sense Nonsense </a></td>
-      <td>1987</td>
-      <td>Leftfield synth pop</td>
-      <td>Art pop x experimental, unique synth creation</td>
-    </tr>
-    <tr>
-      <td>Kiss</td>
-      <td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Rock And Roll Over</a></td>
-      <td>1976</td>
-      <td>70s hard rock</td>
-      <td>Japan's first edition cassette, cool vintage</td>
-    </tr>
-    <tr>
-      <td>Amany & The Badawist</td>
-      <td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Come on, Bassem</a></td>
-      <td>1996</td>
-      <td>Tribal/World Music</td>
-      <td>Middle Eastern/African tribal sounds</td>
-    </tr>
-    <tr>
-      <td>Thomas Newman</td>
-      <td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Scent Of A Woman</a></td>
-      <td>1992</td>
-      <td>Movie soundtrack</td>
-      <td>Original score tape for classic movies</td>
-    </tr>
-    <tr>
-      <td>Adam Clayton & Larry Mullen</td>
-      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
-      <td>1996</td>
-      <td>Movie theme song</td>
-      <td>Official tape of the movie "Mission Impossible"</td>
-    </tr>
-    <tr>
-      <td>Dieselboy</td>
-      <td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director"s Cut</a></td>
-      <td>1998</td>
-      <td>Drum n Bass</td>
-      <td>Intense mix by American drum and bass DJ</td>
-    </tr>
-    <tr>
-      <td>Various</td>
-      <td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">The Enjoy! Story</a></td>
-      <td>1988</td>
-      <td>Classic hip hop</td>
-      <td>Compilation from the early days of the Zulu Nation era</td>
-    </tr>
-    <tr>
-      <td>Run‑D.M.C.</td>
-      <td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">King Of Rock</a></td>
-      <td>1985</td>
-      <td>Hip-hop/rock fusion</td>
-      <td>Pioneering popular rock and rap work</td>
-    </tr>
-    <tr>
-      <td>Dr. Dre</td>
-      <td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Let Me Ride</a></td>
-      <td>1992</td>
-      <td>Classic hip-hop/G-funk</td>
-      <td>Representative songs of the West Coast sound</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Artist</th>
+<th>Title</th>
+<th>era</th>
+<th>Genre</th>
+<th>Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No Artist</td>
+<td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Environments</a></td>
+<td>1970s</td>
+<td>Field recording/healing</td>
+<td>Healing soundscape that captures the natural environment</td>
+</tr>
+<tr>
+<td>The Art of Noise</td>
+<td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">In No Sense Nonsense </a></td>
+<td>1987</td>
+<td>Leftfield synth pop</td>
+<td>Art pop x experimental, unique synth creation</td>
+</tr>
+<tr>
+<td>Kiss</td>
+<td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Rock And Roll Over</a></td>
+<td>1976</td>
+<td>70s hard rock</td>
+<td>Japan's first edition cassette, cool vintage</td>
+</tr>
+<tr>
+<td>Amany & The Badawist</td>
+<td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Come on, Bassem</a></td>
+<td>1996</td>
+<td>Tribal/World Music</td>
+<td>Middle Eastern/African tribal sounds</td>
+</tr>
+<tr>
+<td>Thomas Newman</td>
+<td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Scent Of A Woman</a></td>
+<td>1992</td>
+<td>Movie soundtrack</td>
+<td>Original score tape for classic movies</td>
+</tr>
+<tr>
+<td>Adam Clayton & Larry Mullen</td>
+<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+<td>1996</td>
+<td>Movie theme song</td>
+<td>Official tape of the movie "Mission Impossible"</td>
+</tr>
+<tr>
+<td>Dieselboy</td>
+<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director"s Cut</a></td>
+<td>1998</td>
+<td>Drum n Bass</td>
+<td>Intense mix by American drum and bass DJ</td>
+</tr>
+<tr>
+<td>Various</td>
+<td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">The Enjoy! Story</a></td>
+<td>1988</td>
+<td>Classic hip hop</td>
+<td>Compilation from the early days of the Zulu Nation era</td>
+</tr>
+<tr>
+<td>Run‑D.M.C.</td>
+<td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">King Of Rock</a></td>
+<td>1985</td>
+<td>Hip-hop/rock fusion</td>
+<td>Pioneering popular rock and rap work</td>
+</tr>
+<tr>
+<td>Dr. Dre</td>
+<td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Let Me Ride</a></td>
+<td>1992</td>
+<td>Classic hip-hop/G-funk</td>
+<td>Representative songs of the West Coast sound</td>
+</tr>
+</tbody>
 </table>
 </div>

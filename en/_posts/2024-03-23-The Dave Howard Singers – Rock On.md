@@ -19,15 +19,15 @@ The Dave Howard Singers are a cult alternative rock band/project formed in Toron
 The producer is JJ Burnell of The Stranglers.
 
 #### Tracklist
-"""md
-A.Rock On
+```md
+A. Rock On
 
 B1. Nothing To Say
 
 B2. Kill The Fatted Whore Back In Labrador
 
 B3. Plastic Horse
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42900138683?afid=6142608987){: .button1}
 

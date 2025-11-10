@@ -15,20 +15,20 @@ title: Milemarker – Future Isms
 Milemarker is a post-hardcore band from North Carolina, USA. Their sound is a mix of styles including experimental electronic, new wave, and alternative rock.
 
 #### Tracklist
-"""md
+```md
 A1. New Lexicon
 
 A2. Make Love To The Camera Obscura
 
 A3. Me, Sweatshirt; You, Jacket
 
-A4. Home Theater Made Easy
+A4. Home Theatre Made Easy
 
 A5. Infant Technology
 
-A6.
+A6. Xanax
 
-B1.Address
+B1. Address
 
 B2. Occupational Hazards
 
@@ -36,8 +36,8 @@ B3. Somnambulism
 
 B4. Alchemy
 
-B5.Engine
-""""
+B5. Engine
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59516600898?afid=6142608987){: .button1}
 

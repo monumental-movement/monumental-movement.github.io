@@ -21,15 +21,15 @@ The first track on side A is a remix by Swedish DJ and producer Eric Prydz, who 
 The second song on side B is a remix by Laidback Luke, a Dutch techno house DJ who has remixed various artists such as Robin S's ""Show Me Love'', Denki Groove, and Jark Prongo.
 
 #### Tracklist
-"""md
+```md
 A1. Voices (Eric Prydz Remix)
 
-A2.Voices (Original Mix)
+A2. Voices (Original Mix)
 
 B1. Voices (Palmieri Electro Remix)
 
 B2. Voices (Laidback Luke's Ready To Pop Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98157842999?afid=6142608987){: .button1}
 

@@ -18,11 +18,11 @@ Gamma Loop is the name used by German producer and sound designer Jürgen Driess
 This record is a house track released by Ugly Bug Records, a label founded in 1993 by Pete Bones (The Shaker) that specializes in a style that blends funky pumping house and progressive trance. Ugly Bug Records is known as the favorite label of many DJs, including Tony De Vit.
 
 #### Tracklist
-"""md
+```md
 A. X-Ray Eyes (Club Radiation Mix)
 
 B. X-Ray Eyes (House Radiation Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21998589846?afid=6142608987){: .button1}
 

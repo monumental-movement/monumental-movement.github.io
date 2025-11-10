@@ -17,16 +17,16 @@ title: Megumi Asaoka – My boyfriend is left-handed
 
 Lyrics – Kazuya Senke
 
-Music & Arrangement – Kyohei Tsutsumi
+Music & Arrangement – ​​Kyohei Tsutsumi
 
 Recording member (guitar) – Masayoshi Takanaka
 
 #### Tracklist
-"""md
-A. My boyfriend is left-handed.
+```md
+A. わたしの彼は左きき
 
-B. Me alone
-""""
+B. ひとりの私
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39210707763?afid=6142608987){: .button1}
 

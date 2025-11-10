@@ -15,12 +15,13 @@ title: Shaun Escoffery – Space Rider
 "Space Rider" is
 This is an EP by Shaun Escoffery released in 2002 by the UK label "Oyster Music".
 
+
 #### Tracklist
-"""md
+```md
 A1. Space Rider (Spinna Club Mix)
 
 B2. Space Rider (Original Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27456659002?afid=6142608987){: .button1}
 

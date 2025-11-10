@@ -18,15 +18,15 @@ Tony O'Connor is an ambient/relaxation music creator based in Queensland, Austra
 The album was released in 1993 on Australian photographer Steve Parish's label.
 
 #### Tracklist
-"""md
+```md
 1. Hidden Forest
 2. I Wonder
 3. Inside Outside
 4. Silently
-5.New Directions
+5. New Directions
 6. Sharing Secrets
 7. Remember
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 

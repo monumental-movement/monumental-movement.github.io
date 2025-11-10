@@ -15,11 +15,11 @@ title: Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair
 "Bittersweet Love Affair" is an EP by Jay "Sinister" Sealée & Louie Vega released on the UK label "Atal" in 2009.
 
 #### Tracklist
-"""md
+```md
 A. Bittersweet Love Affair (Dance Ritual Mix)
 
-B. Bittersweet (Jay"s Main Event)
-""""
+B. Bittersweet (Jay’s Main Event)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21567633655?afid=6142608987){: .button1}
 

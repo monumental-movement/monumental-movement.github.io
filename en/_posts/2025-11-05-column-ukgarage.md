@@ -15,14 +15,15 @@ title: '[Column] The embryonic movement of UK garage: the fluctuating groove bor
 ---
 
 
-## 序章：揺らぐビート、跳ねるベース——UKガラージとは何か
+## Prologue: Shaking beats, bouncing bass—what is UK garage?
 
-文：mmr｜テーマ：90年代ロンドンのアンダーグラウンドで育まれたUKガラージ。その誕生と変容、そしてクラブ文化の交錯をたどる
 
-1990年代半ば、ロンドンの地下クラブで静かに進行していた音の革命があった。  
-その名は「UK Garage（ユーケー・ガラージ）」。アメリカの**ガラージ・ハウス（Garage House）**を下敷きにしながら、**ジャングルのリズム感、R&Bのヴォーカル感覚、ジャマイカ由来のサウンドシステム文化**が交錯し、独自の「跳ねるビート（shuffling rhythm）」を確立した。
+Text: mmr｜Theme: UK garage nurtured in the underground of London in the 90s. Tracing its birth, transformation, and the intersection of club culture
 
-この新しいサウンドは、単なるクラブミュージックの一ジャンルを超え、**都市の多文化性**と**移民コミュニティの表現**としての機能を持った。UKガラージはやがて**2-Step、Speed Garage、Grime、Dubstep**へと枝分かれし、現在のUKベース・カルチャーの礎となった。
+In the mid-1990s, there was a sonic revolution quietly underway in London's underground clubs.
+Its name is "UK Garage". Based on American Garage House, they have established a unique "shuffling rhythm" by combining jungle rhythms, R&B vocals, and Jamaican sound system culture.
+
+This new sound was more than just a genre of club music, it served as an expression of urban multiculturalism and immigrant communities. UK garage eventually branched out into **2-Step, Speed ​​Garage, Grime, and Dubstep**, becoming the cornerstone of current UK bass culture.
 
 ---
 
@@ -39,135 +40,136 @@ color: #fff;
 }
 </style>
 
-## 第1章：ルーツ——アメリカのガラージとUKの再解釈
 
-UKガラージの源流は、1980年代末に隆盛した**US Garage House**、すなわち**Larry Levan**や**Todd Terry**が手がけたNYのディープハウスに遡る。  
-その音はUKに渡り、特にロンドンのクラブDJたちが、より速く、よりスウィング感のある形に変化させていった。
+## Chapter 1: Roots—American Garage and UK Reinterpretation
 
-1988年の「Second Summer of Love」以降、レイヴカルチャーが広がり、ハウス、ジャングル、ブレイクビーツが混在する環境の中で、**「ハードすぎず、ソウルフルな音楽」**を求める層が出現。これがのちのUKガラージの温床となる。
+The origins of UK garage can be traced back to the **US Garage House** that flourished in the late 1980s, namely the New York deep house produced by **Larry Levan** and **Todd Terry**.
+The sound made its way to the UK, where club DJs, particularly in London, transformed it into a faster, more swinging sound.
 
----
-
-## 第2章：Speed Garageと2-Stepの誕生
-
-### Speed Garageの出現（1996〜1998）
-初期のUKガラージは**Speed Garage**として知られる。これはアメリカのハウスに**ジャングル的ベースライン**を加えたスタイルで、代表的なトラックに：
-
-- **Double 99 – “RipGroove” (1997)**  
-- **Tuff Jam – “Need Good Love” (1997)**  
-- **Armand Van Helden – “Sugar is Sweeter (Remix)” (1996)**  
-
-がある。Speed Garageはサブベースのうねりとヴォーカル・チョップのバランスで、クラブのフロアを揺らした。
-
-### 2-Stepへの移行（1998〜2000）
-次第に4つ打ちのキックが省略され、スウィングするビートが支配的となる。  
-これが**2-Step Garage**であり、**Artful Dodger**や**MJ Cole**、**Craig David**らが牽引した。
-
-- **Artful Dodger feat. Craig David – “Re-Rewind” (1999)**  
-- **MJ Cole – “Sincere” (2000)**  
-
-これらの曲はR&B的メロディとUK的リズムの交差点に立ち、ラジオとチャートをも席巻した。
+After ""Second Summer of Love" in 1988, rave culture spread, and in an environment that mixed house, jungle, and breakbeats, a demographic emerged that sought ""music that was soulful but not too hard." This later became the breeding ground for UK garage.
 
 ---
 
-## 第3章：クラブとパイレートラジオ——UKG文化のインフラ
+## Chapter 2: Birth of Speed ​​Garage and 2-Step
 
-UKガラージは単なる音楽ではなく、**メディアとクラブ文化のネットワーク**によって支えられていた。
+### Emergence of Speed ​​Garage (1996-1998)
+Early UK garages were known as **Speed ​​Garage**. This is a style of American house with a **jungle bassline**, and some typical tracks include:
 
-### 主なクラブ
-- **Twice As Nice（ロンドン）**：黒人・白人・アジア系が交わる象徴的クラブ。  
-- **La Cosa Nostra（Soho）**：初期2-StepのDJが多くプレイ。  
-- **Sidewinder（全国ツアー形式）**：MC文化とともに拡大。
+- **Double 99 – "RipGroove" (1997)**
+- **Tuff Jam – "Need Good Love" (1997)**
+- **Armand Van Helden – "Sugar is Sweeter (Remix)" (1996)**
 
-### パイレートラジオ局
-- **Rinse FM**, **Deja Vu FM**, **Flex FM**  
-これらは合法的放送権を持たない海賊局でありながら、UKGの拡散に決定的役割を果たした。ここから**So Solid Crew**や**Heartless Crew**などが頭角を現す。
+There is. Speed ​​Garage rocked the club floor with its balance of sub-bass swells and vocal chops.
+
+### Transition to 2-Step (1998-2000)
+Gradually, the four-on-one kick was omitted, and the swinging beat became dominant.
+This was the **2-Step Garage**, led by **Artful Dodger**, **MJ Cole**, **Craig David** and others.
+
+- **Artful Dodger feat. Craig David – "Re-Rewind" (1999)**
+- **MJ Cole – "Sincere" (2000)**
+
+These songs, at the intersection of R&B melodies and UK rhythms, dominated the radio and charts.
 
 ---
 
-## 第4章：MCとヴォーカル文化の融合
+## Chapter 3: Clubs and pirate radio—the infrastructure of UKG culture
 
-UKガラージの重要な特徴の一つが、**MCとヴォーカリストの共存**である。  
-ジャマイカのサウンドシステム文化から受け継がれた**“toasting”**の伝統が、ロンドンのMCスタイルに変換された。
+UK garage wasn't just music, it was supported by a network of media and club culture.
 
-代表的MC／クルー：
+### Main clubs
+- **Twice As Nice (London)**: A symbolic club where blacks, whites, and Asians meet.
+- **La Cosa Nostra (Soho)**: Played by many early 2-Step DJs.
+- **Sidewinder (national tour format)**: Expanded with MC culture.
+
+### Pirate Radio Station
+- **Rinse FM**, **Deja Vu FM**, **Flex FM**
+Although these were pirate stations without legal broadcasting rights, they played a decisive role in the spread of UKG. From here, **So Solid Crew** and **Heartless Crew** emerged.
+
+---
+
+## Chapter 4: Fusion of MC and vocal culture
+
+One of the important characteristics of UK garage is the coexistence of MC and vocalist.
+The tradition of ""toasting"' inherited from Jamaican sound system culture was translated into London"s MC style.
+
+Representative MC/crew:
 - **MC Neat & DJ Luck**
 - **So Solid Crew**
 - **Ms Dynamite**
 - **Heartless Crew**
 
-この時期のライブ録音では、MCが即興で観客を煽り、ラップやスラングを交えて、クラブの一体感を生み出していた。  
-「音と声が一体化する」この現象が、後のGrime誕生への布石となる。
+In live recordings from this period, MCs would improvise to stir up the crowd, mixing in rap and slang to create a sense of unity in the club.
+This phenomenon of ""sound and voice becoming one'' became the foundation for the later birth of Grime.
 
 ---
 
-## 第5章：2000年代初頭——メインストリーム化と分裂
+## Chapter 5: Early 2000s—Mainstreaming and fragmentation
 
-2000年前後、UKガラージはチャート上で黄金期を迎える。  
-**Craig David**の『Born To Do It』（2000）は全英1位を獲得し、2-Stepがポップに浸透。だが、同時に「商業化」への反発も生まれた。
+Around 2000, UK garage entered its golden age on the charts.
+**Craig David**'s ""Born To Do It" (2000) reached number 1 in the UK, and 2-Step became popular in pop music. However, at the same time, a backlash against ""commercialization" arose.
 
-2001〜2003年にかけて、クラブではより**攻撃的でダークなサウンド**が台頭する。これがのちの**Grime**や**Dubstep**の起点となる。
+From 2001 to 2003, a more aggressive and dark sound emerged in clubs. This became the starting point for later **Grime** and **Dubstep**.
 
-| 分岐 | 特徴 | 代表アーティスト |
+| Branch | Features | Representative Artist |
 |------|------|-------------------|
-| **Grime** | BPM140前後、MC主体の硬質サウンド | Wiley, Dizzee Rascal |
-| **Dubstep** | 低音重視、暗い空間性 | Skream, Benga, Digital Mystikz |
-| **Bassline** | 4つ打ち回帰、ポップなヴォーカル | T2, DJ Q |
+| **Grime** | Around BPM140, MC-based hard sound | Wiley, Dizzee Rascal |
+| **Dubstep** | Emphasis on bass, dark space | Skream, Benga, Digital Mystikz |
+| **Bassline** | 4/4 return, pop vocals | T2, DJ Q |
 
 ---
 
-## 第6章：社会的背景——移民都市ロンドンの多層文化
+## Chapter 6: Social Background——Multi-layered culture of London, a city of immigrants
 
-UKガラージは**黒人系・カリブ系・アジア系の若者**が中心となって育てた音楽であり、  
-その多様性こそがリズムの「揺らぎ」を生み出した。
+UK Garage is music developed mainly by young people of black, Caribbean, and Asian descent.
+It is this diversity that creates the ""fluctuation'' of the rhythm.
 
-- **アフロ・カリビアンのリズム感**（ジャングルやレゲエ由来）  
-- **アメリカR&Bのメロディ**  
-- **イギリス都市部のDIYスピリット**  
+- **Afro-Caribbean rhythm** (derived from jungle and reggae)
+- **American R&B melody**
+- **The DIY spirit of British cities**
 
-この交差が、UK独自のサウンドアイデンティティを形成した。  
-また、UKGパーティは**階級・人種を超えた共通空間**でもあり、当時の社会不安（暴動・失業・ブレア政権下の政策）に対する若者の**ポジティブな表現手段**として機能した。
-
----
-
-## 第7章：継承とリバイバル——UKG以降の20年
-
-2010年代後半から2020年代にかけて、UKガラージは再評価の波を迎える。  
-Disclosure、Burial、Jamie xxなどが現代的に再構築し、**UKGの精神をLo-fiやFuture Garageに再投影**している。
-
-- **Burial – “Archangel” (2007)**  
-- **Disclosure – “Latch” (2012)**  
-- **Joy Orbison – “Hyph Mngo” (2009)**  
-
-さらに、**Eliza Rose – “B.O.T.A.” (2022)**のヒットで、2-Stepのリズムが再びチャートを席巻。  
-クラブだけでなくTikTokなどSNS経由で若年層にも届くようになった。
+This intersection formed the UK's unique sonic identity.
+The UKG party was also a common space that transcended class and race, and served as a positive means of expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
 
 ---
 
-## 第8章：揺らぎの未来——UKGが遺したもの
+## Chapter 7: Succession and Revival—20 Years Since UKG
 
-UKガラージは、ジャンルの枠を超えて**「都市のリズム言語」**として根付いた。  
-その特徴である「跳ねるビート」「人間的なズレ」「声の断片」は、いまもUKベース・カルチャー全体に脈打っている。
+From the late 2010s to the 2020s, UK garage will undergo a wave of reappraisal.
+Disclosure, Burial, Jamie xx and others are reimagining it in a modern way, re-projecting the spirit of UKG into lo-fi and Future Garage.
 
-アンダーグラウンドからメインストリーム、そして再び地下へ——  
-UKガラージの歴史は、都市音楽の循環そのものである。
+- **Burial – "Archangel" (2007)**
+- **Disclosure – "Latch" (2012)**
+- **Joy Orbison – "Hyph Mngo" (2009)**
+
+Furthermore, with the hit **Eliza Rose – "B.O.T.A." ​​(2022)**, 2-Step rhythms once again dominated the charts.
+It has begun to reach young people not only in clubs but also through social networking sites such as TikTok.
 
 ---
 
-## 年表：UKガラージ主要トピック（1988〜2025）
+## Chapter 8: A volatile future—What UKG has left behind
+
+UK garage transcends genre boundaries and has taken root as the ""urban rhythmic language.''
+Its characteristics of ""bouncing beats," ""human deviations," and ""fragments of voices'' still pulsate throughout UK bass culture.
+
+From underground to mainstream and back to underground——
+The history of UK garage is a cycle of urban music itself.
+
+---
+
+## Chronology: UK Garage Main Topics (1988-2025)
 
 | Year | Events |
 |----|--------|
 | 1988 | Acid House movement, rave culture expansion |
 | 1992 | US Garage House becomes popular in London |
-| 1995 | Tuff Jam formation, Speed Garage formation period |
+| 1995 | Tuff Jam formation, Speed ​​Garage formation period |
 | 1997 | Double 99 "RipGroove" released |
 | 1999 | Artful Dodger "Re-Rewind" hit |
 | 2000 | MJ Cole "Sincere" released, UKG golden era |
 | 2002 | Grime is born, Dizzee Rascal is here |
 | 2004 | Dubstep rises, DMZ event starts |
 | 2010 | Burial re-evaluation, Future Garage derivative |
-| 2022 | Eliza Rose "B.O.T.A." tops the chart |
+| 2022 | Eliza Rose "B.O.T.A." ​​tops the chart |
 | 2025 | UKG revival and AI-based reinterpretation underway |
 
 ---
@@ -177,7 +179,7 @@ UKガラージの歴史は、都市音楽の循環そのものである。
 <div class="mermaid">
 
 graph TD
-A[US Garage House] --> B[Speed Garage]
+A[US Garage House] --> B[Speed ​​Garage]
 B --> C[2-Step Garage]
 C --> D[Grime]
 C --> E[Dubstep]

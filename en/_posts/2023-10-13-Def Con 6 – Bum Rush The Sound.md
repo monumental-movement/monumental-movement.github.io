@@ -17,13 +17,13 @@ Def Con 6 is a unit made up of Brandon Smith and John Sexton.
 "Bum Rush The Sound" is an acid breakbeat break track by Def Con 6 released on Tweak! Records in 1998.
 
 #### Tracklist
-"""md
+```md
 A. Bum Rush The Sound
 
 B1. Groovy Tweaks
 
 B2. Metal Atmoshphere (Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41245922481?afid=6142608987){: .button1}
 

@@ -19,12 +19,12 @@ A house/garage house track released in 1994 by Trinidad-born, UK-based singer Me
 The first track on side A and side B are remixes by London-based DJ/producers Booker T and Mark Frank. The second track on side A is a remix by UK multi-instrumentalist, producer, and mixing/mastering engineer Alan Scott (Al Scott).
 
 #### Tracklist
-"""md
+```md
 A1. Living For The Moment (Booker's Club Mix)
 A2. Living For The Moment (Radio Mix)
 
 B. Living For The Moment (Booker's Dub Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57130413631?afid=6142608987){: .button1}
 

@@ -16,14 +16,14 @@ title: Various – Raging Thrash From Blind Vision
 This record, released by Answer Records in 2000, is a compilation album by Nagoya's local HARDCORE.
 
 #### Tracklist
-"""md
+```md
 A1. Purge –Ugly Smile
 
 A2. Purge –True Tendernes
 
 A3. The Victims –Suicide
 
-A4. The Victims – Boring Bastards
+A4. The Victims –Boring Bastards
 
 A5. Resident Of Chaos–Hypocrisy
 
@@ -35,12 +35,12 @@ B2. Exterminate–Relation Ship
 
 B3. Sacrifice –Fuck Pnani
 
-B4. Sacrifice –Sacrifice
+B4. Sacrifice –Sacrifise
 
 B5. Reality Crisis–Open Your Eyes
 
 B6. Reality Crisis–Last Count Down
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
 

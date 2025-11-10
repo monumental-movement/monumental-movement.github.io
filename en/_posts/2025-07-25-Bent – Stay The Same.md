@@ -21,12 +21,12 @@ A is Acid Remix by Italian electronic band Planet Funk.
 B1 is a Dub Remix by Ashley Beedle, a UK DJ and producer who has been active since the late 1980s.
 
 #### Tracklist
-"""md
+```md
 A. Stay The Same (Planet Funk Acid Remix)
 
 B1. Magic Love (Ashley Beedle's Trickbag Dub Mix)
 B2. Stay The Same (Themroc Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86928683076?afid=6142608987){: .button1}
 

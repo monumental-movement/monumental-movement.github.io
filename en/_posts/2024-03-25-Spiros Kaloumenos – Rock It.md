@@ -25,13 +25,14 @@ As a producer, he began releasing music on Hydrophonic Recordings in the UK, and
 In 2005, he founded his own label, Omega Audio Recordings, with long-time partner Axel Karakasis.
 
 #### Tracklist
-"""md
-A.Rock It
+```md
+A. Rock It
 
 B1. Your Speakers Are Dead
 
 B2. Synths Of Fire
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
 

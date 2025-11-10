@@ -19,12 +19,13 @@ GMS is a psychedelic trance duo consisting of Riktam (Shajahan Matkin) and Bansi
 
 This record is a psychedelic trance record released in 2001 by Raja Ram's UK Psy-Trance label TIP.World.
 
+
 #### Tracklist
-"""md
+```md
 A. Shpongle – The Sixth Revelation
 
 B. GMS & 1300 Mics – The Fourth Revelation
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 

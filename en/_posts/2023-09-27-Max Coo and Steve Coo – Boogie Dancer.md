@@ -18,7 +18,7 @@ This work, released by Asia Records in 1990, is by the unit "Max Coo & Steve Coo
 The promised Eurobeat by MAURO FARINA.
 
 #### Tracklist
-"""md
+```md
 A1. Boogie Dancer (Woogie Version)
 
 A2. Boogie Dancer (D.D.J. Version)
@@ -28,7 +28,7 @@ B1. Boogie Dancer (Rome Mix)
 B2. Boogie Dancer (Milan Mix)
 
 B3. Boogie Dancer (Verona Beat)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 

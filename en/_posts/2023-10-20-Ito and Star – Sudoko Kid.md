@@ -17,13 +17,13 @@ title: Ito & Star – Sudoko Kid
 The second track on Side A is a remix by minimal techno/tech house producer duo Alexi Delano & Xpansul. The B-side is a remix by British DJ/producer and Saved Records founder Nic Fanciulli.
 
 #### Tracklist
-"""md
+```md
 A1. Sudoko Kid (Original Mix)
 
 A2. Sudoko Kid (Alexi Delano & Xpansul Remix)
 
 B1. Sudoko Kid (Nic Fanciulli Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98508747711?afid=6142608987){: .button1}
 

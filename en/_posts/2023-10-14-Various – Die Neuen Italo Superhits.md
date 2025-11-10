@@ -15,7 +15,7 @@ title: Various – Die Neuen Italo Superhits
 "Various – Die Neuen Italo Superhits" is a compilation album released by the German label "Ariola" in 1987.
 
 #### Tracklist
-"""md
+```md
 A1. Morandi - Ruggeri - Tozzi–Si Può Dare Più
 
 A2. Al Bano E Romino Power–Sempre Sempre
@@ -42,8 +42,8 @@ B3. Matia Bazar–Ti Sento
 
 B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 
-B5. Tony Esposito–Papa Chico, etc.
-""""
+B5. Tony Esposito–Papa Chicoなど
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 

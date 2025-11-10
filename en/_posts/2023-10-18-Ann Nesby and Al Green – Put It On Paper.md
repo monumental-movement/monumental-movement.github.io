@@ -20,9 +20,9 @@ Karizma is a DJ/producer from Baltimore and former member of The Basement Boys. 
 DJ Spen is a DJ/producer from Baltimore and former member of The Basement Boys. Formed DJ Spen & The MuthaFunkaz in the early 2000s.
 
 #### Tracklist
-"""md
+```md
 A. Put It On Paper
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41512724315?afid=6142608987){: .button1}
 

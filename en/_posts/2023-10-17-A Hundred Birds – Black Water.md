@@ -32,13 +32,13 @@ Participating members
 ・Makoto Dochi etc.
 
 #### Tracklist
-"""md
-A.Black Water
+```md
+A. Black Water
 
 B1. Black Water (Dub)
 
 B2. Come Together
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79986597916?afid=6142608987){: .button1}
 

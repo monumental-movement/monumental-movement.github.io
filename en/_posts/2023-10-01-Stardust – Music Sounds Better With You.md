@@ -14,16 +14,16 @@ title: Stardust – Music Sounds Better With You
 
 Stardust is a unit consisting of Thomas Bangalter (Daft Punk), DJ Alan Braxe, and Benjamin Diamond.
 
-"Music Sounds Better With You", released in 1998, samples Chaka Khan's "Fate" and is Stardust's only song.
+"Music Sounds Better With You", released in 1998, samples Chaka Khan"s "Fate" and is Stardust"s only song.
 
 "Music Sounds Better With You" is highly acclaimed as a masterpiece of house music that pursues fun on the dance floor, with catchy melodies, funky rhythms, and vocal sampling.
 
 This song is a classic for fans of house music and electronic dance music.
 
 #### Tracklist
-"""md
+```md
 A. Music Sounds Better With You
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55707483061?afid=6142608987){: .button1}
 

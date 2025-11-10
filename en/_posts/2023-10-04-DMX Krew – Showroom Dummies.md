@@ -15,16 +15,17 @@ title: DMX Krew – Showroom Dummies
 "Showroom Dummies" is
 This is DMX Krew's EP released in 1998 by the German label "International Deejay Gigolo Records."
 
+
 #### Tracklist
-"""md
+```md
 A. Showroom Dummies Part I & II
 Written-By – Schneider, Hütter
 
-B1. Mannekin
+B1. マネキン (Manekin)
 Translated By [Japanese Translation] – Miyako Takagi
 
 B2. Cold Heart Part II
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39073656951?afid=6142608987){: .button1}
 

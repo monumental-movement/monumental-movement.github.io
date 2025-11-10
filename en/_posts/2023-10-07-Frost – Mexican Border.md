@@ -16,11 +16,11 @@ title: Frost – Mexican Border
 This is a single by Kid Frost, whose real name is Arturo Molina Jr., released by Ruthless Records.
 
 #### Tracklist
-"""md
+```md
 A. Mexican Border
 
 B. Mexican Border
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68816286436?afid=6142608987){: .button1}
 

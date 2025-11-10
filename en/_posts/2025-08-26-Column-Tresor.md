@@ -16,13 +16,14 @@ title: '[Column] Tresor - The techno mecca that changed the world from undergrou
 
 ## An indispensable presence when talking about Berlin's club culture and the European techno scene -- **Tresor**
 
+
 Text: mmr｜Theme: Berlin club culture and the European techno scene
 
 <hr>
 
 ### What is Tresor?
 
-Tresor (meaning ""safe'' in German) is a club that was founded in Berlin, Germany in 1991, and is a center of techno culture that also hosts a label of the same name. Amidst the chaos that followed the end of the Cold War, it served as the most important center for connecting Detroit techno and Berlin's underground culture, and continues to maintain its international influence to this day.
+Tresor (meaning ""safe"' in German) is a club that was founded in Berlin, Germany in 1991, and is a center of techno culture that also hosts a label of the same name. Amidst the chaos that followed the end of the Cold War, it served as the most important center for connecting Detroit techno and Berlin"s underground culture, and continues to maintain its international influence to this day.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -153,8 +154,8 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 ### Elevating the music of techno from a "temporary fad" to a "universal culture"
 
-More than just a club or a label, Tresor is a ""cultural crossroads'' that connects Berlin's history, post-Cold War urban space, and the future of black music in Detroit.
-The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""transient fad'' to ""universal culture.''
+More than just a club or a label, Tresor is a ""cultural crossroads"' that connects Berlin"s history, post-Cold War urban space, and the future of black music in Detroit.
+The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""transient fad" to ""universal culture."
 
 ---
 
@@ -165,5 +166,4 @@ The sounds released from that vault still reverberate in club culture around the
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
-
 

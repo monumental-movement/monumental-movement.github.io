@@ -15,18 +15,19 @@ title: Earthbound– Reggie"s Escape
 
 Earthbound is a duo consisting of Alex Dallas and Alex Gustafson.
 
-Drum n Bass/Downtempo remix (1999) of Earthbound's ""Reggie's Escape'' released in 1998 by Straight Ahead, a label based in Zurich, Switzerland.
+Drum n Bass/Downtempo remix (1999) of Earthbound"s ""Reggie"s Escape'' released in 1998 by Straight Ahead, a label based in Zurich, Switzerland.
 
 A is a remix by UK jungle DJ Charlie Dark (Charlie Williams/Attica Blues).
 
 B is a remix by Mark Goodings, also known as Marx, who was also active in the Drum and Bass project Hidden Agenda. Mark Goodings has also created mixes for Switch, Phonique, Trevor Loveys, and more.
 
+
 #### Tracklist
-"""md
+```md
 A. Reggie's Escape (Attica Blues Remix)
 
 B. Reggie's Escape (Marx Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90786572080?afid=6142608987){: .button1}
 

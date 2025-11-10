@@ -16,12 +16,13 @@ Bryan Zentz was the vocalist for the punk band Disarm in the 80s, and released t
 
 "Joplin" is a Techno song released by Intec Records in 2002. Single cut from Bryan Zentz's debut album "Seven Breaths".
 
+
 #### Tracklist
-"""md
-A.Joplin
+```md
+A. Joplin
 
 B. Bushido
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34179111324?afid=6142608987){: .button1}
 

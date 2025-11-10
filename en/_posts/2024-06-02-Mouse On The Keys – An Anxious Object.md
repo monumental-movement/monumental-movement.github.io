@@ -19,19 +19,19 @@ Mouse On The Keys was formed in 2006 by former members of the post-hardcore/post
 "An anxious object", released in 2009 by the label Machupicchu Industrias, is Mouse On The Keys' first full-length album.
 
 #### Tracklist
-"""md
+```md
 1. Completed Nihilism
-2. Specters De Mouse
-3.Seiren
+2. Spectres De Mouse
+3. Seiren
 4. Dirty Realism
-5.Forgotten Children
-6.Unflex
-7.Double Bind
-8.Soil
+5. Forgotten Children
+6. Unflex
+7. Double Bind
+8. Soil
 9. Ouroboros
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18654186487?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdXJUUhce-o?si=L5TAiTUMviBkoYlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

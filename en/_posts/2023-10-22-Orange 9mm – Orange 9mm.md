@@ -15,15 +15,15 @@ title: Orange 9mm – Orange 9mm
 Orange 9mm is a US post-hardcore band formed by Chaka Malik and Chris Traynor in 1994 after the disbandment of New York hardcore band BURN.
 
 #### Tracklist
-"""md
+```md
 A1. Driver
 
-A2.Cutting And Draining
+A2. Cutting And Draining
 
-B3.Dry
+B3. Dry
 
 B4. Can't Decide
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m11216499808?afid=6142608987){: .button1}
 

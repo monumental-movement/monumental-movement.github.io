@@ -16,13 +16,13 @@ title: Adam Kroll – Sylphen
 An electro-tech house minimal track released in 2004 by Adam Kroll, known for his GODZILLA stuff, on the Cologne, Germany-based label Traum Schallplatten.
 
 #### Tracklist
-"""md
-A.Squonk
+```md
+A. Squonk
 
 B1. Yngoor
 
-B2.Puk
-""""
+B2. Puk
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
 

@@ -20,7 +20,7 @@ A French label founded by Philippe Cohen in 1995. A downtempo track released in 
 The first track on Side A is a remix by label producer Paolo Scotti of Mo'Smog Records, Dejavu, and Synthonic.
 
 #### Tracklist
-"""md
+```md
 A1. Lovelight (Paolo & Edda Love Bossa Mix)
 A2. Lovelight (Original Version)
 

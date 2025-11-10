@@ -19,12 +19,12 @@ title: Solid Sessions Feat. Pronti & Kalmani – Janeiro (Remixes)
 This record is a remix version by Dutch DJ/producer Armin van Buuren and Paul Hutsch, released on the Alpha+ label in 2002.
 
 #### Tracklist
-"""md
+```md
 A1. Janeiro (Marc Et Claude With Paul Hutsch Remix)
 
 B1. Janeiro (Armin Van Buuren Remix)
 B2. Janeiro (Armin Van Buuren Dub)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70514415387?afid=6142608987){: .button1}
 

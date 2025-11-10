@@ -16,11 +16,11 @@ title: The Beatles – Let It Be
 The Beatles' "Let It Be" was released in March 1970 and was the last single released by the Beatles during their active career, as they disbanded the following month.
 
 #### Tracklist
-"""md
-A Let It Be = Let It Be
+```md
+A  Let It Be = レット・イット・ビー
 
-B You Know My Name (Look Up The Number)
-""""
+B  You Know My Name (Look Up The Number) = ユー・ノー・マイ・ネーム
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22922935119?afid=6142608987){: .button1}
 

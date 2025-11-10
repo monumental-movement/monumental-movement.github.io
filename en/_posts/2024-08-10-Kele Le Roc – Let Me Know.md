@@ -22,13 +22,13 @@ Released in 1995, "Let Me Know" became an underground and club hit, and the song
 The second song on the B side, "No.1", is a duet with UK singer Lemar.
 
 #### Tracklist
-"""md
+```md
 A1. Let Me Know (Original Mix)
 A2. Let Me Know (Gee's Summer Time)
 
 B1. Let Me Know (Dee B S Popular)
 B2. No. 1
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17487420097?afid=6142608987){: .button1}
 

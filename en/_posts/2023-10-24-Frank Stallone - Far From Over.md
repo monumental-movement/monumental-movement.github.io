@@ -18,11 +18,11 @@ Frank Stallone is an American rock singer and younger brother of actor Sylvester
 Frank Stallone's hit single "Far From Over" was included on the soundtrack for the 1983 dance musical film Staying Alive, directed by Sylvester Stallone and a sequel to the 1977 film Saturday Night Fever.
 
 #### Tracklist
-"""md
-A. Far From Over
+```md
+A. Far From Over (ファー・フロム・オーヴァー)
 
-B. Waking Up
-""""
+B. Waking Up (ウェイキング・アップ)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34024592015?afid=6142608987){: .button1}
 

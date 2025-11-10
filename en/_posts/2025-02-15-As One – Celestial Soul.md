@@ -20,19 +20,19 @@ AS ONE is the name of the solo project of British DJ and techno producer Kirk De
 "Celestial Soul" is a CD released by the label New Electronica in 1995.
 
 #### Tracklist
-"""md
-1.Celestial Soul
+```md
+1. Celestial Soul
 2. Ikiru
 3. Interstellar
-4.Dhyana
+4. Dhyana
 5. Laetoli
-6.Hybrid
+6. Hybrid
 7. We No Longer Understand
-8.Renaissance
-9.Ariois
+8. Renaissance
+9. Ariois
 10. Return To Taklimakan
 11. What Might Have Been
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
 

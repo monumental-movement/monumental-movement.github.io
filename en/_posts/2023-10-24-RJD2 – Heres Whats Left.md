@@ -8,28 +8,28 @@ layout: post
 tags:
 - Hiphop
 - Rap
-title: RJD2 – Here's What's Left
+title: RJD2 – Here"s What"s Left
 ---
 
 
 RJD2 (Ramble Jon Krohn) is a US hip-hop/electronic producer and DJ. He is also active in groups such as Soul Position, MHz Legacy (MHz), and Icebird.
 
 #### Tracklist
-"""md
+```md
 A1. Here's What's Left
 
 A2. Here's What's Left (Instrumental)
 
-A3.Bonus Treat
+A3. Bonus Treat
 
-B1.Intro
+B1. Intro
 
 B2. Two More Dead
 
 B3. Two More Dead (Hundred Strong Remix)
 
-B4.Bonus Beat
-""""
+B4. Bonus Beat
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71199037587?afid=6142608987){: .button1}
 

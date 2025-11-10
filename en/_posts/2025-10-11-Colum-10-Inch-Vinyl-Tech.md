@@ -16,18 +16,21 @@ title: '[Column] 10-inch record technology supplement: The truth about groove wi
 ---
 
 
-## 10インチという設計思想：フォーマットの中庸に宿る精度
+## 10-inch design concept: precision in the medium of format
 
-文：mmr｜テーマ：10インチレコードの構造・回転数・マスタリングなどの技術的背景を掘り下げ、フォーマットが生む音の個性を再考する
 
-レコードの物理的構造は、音楽フォーマットの哲学を最も純粋な形で体現している。  
-10インチ盤はその中でも特に「設計的中庸」に位置するフォーマットだ。  
-直径25cmという盤面は、溝の線速度・溝幅・回転数のすべてにおいて、**7インチと12インチの中間特性**を示す。
+Text: mmr｜Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
 
-これが意味するのは、**再生時間と音質のトレードオフの最適解**がここにあるということ。  
-10インチは、設計上の制約が少ない“美しいバランス点”に存在している。
+
+The physical structure of a record embodies the philosophy of the musical format in its purest form.
+The 10-inch disc is a format that is particularly ""designally middle-of-the-road.''
+A board with a diameter of 25 cm exhibits intermediate characteristics between 7 inches and 12 inches in terms of linear groove speed, groove width, and rotational speed.
+
+What this means is that here is the optimal solution for the trade-off between playback time and sound quality.
+The 10-inch size exists at a "beautiful balance point" with few design constraints.
 
 ---
+
 
 <style type="text/css">
 table, td, th {
@@ -41,142 +44,146 @@ color: #fff;
 }
 </style>
 
-### 回転数と線速度：音の「勢い」を決める物理法則
 
-レコードの音質を決める要素のひとつが、**回転数（RPM）と線速度（linear velocity）**である。
+### Rotation speed and linear velocity: physical laws that determine the "momentum" of sound
 
-- **7インチシングル：45RPM**  
-  外周では音の勢いがあり、高域の再現に優れる。だが内周では歪みが増える。
+One of the factors that determines the sound quality of a record is the number of revolutions (RPM) and linear velocity.
 
-- **12インチLP：33⅓RPM**  
-  長時間再生に適し、安定した音質を確保するが、高域はやや落ち着く。
+- **7 inch single: 45RPM**
+There is a lot of force in the sound at the outer periphery, and excellent reproduction of high frequencies. However, distortion increases at the inner circumference.
 
-- **10インチLP：33⅓RPMまたは45RPM**  
-  33⅓では片面約12分、45RPMでは約8〜9分が限界。  
-  つまり、**時間よりも音質を優先した設計が可能**なのが10インチの強みである。
+- **12 inch LP: 33⅓RPM**
+It is suitable for long-term playback and ensures stable sound quality, but the high frequencies are somewhat subdued.
 
-線速度の平均値は、12インチに比べて約15％高く、内周歪みが少ない。  
-特にジャズやインディ・ロックのようにアタックの強い音楽では、この速度特性が明瞭なリズム感と空間の分離を生む。
+- **10 inch LP: 33⅓RPM or 45RPM**
+The limit is about 12 minutes per side at 33⅓, and about 8 to 9 minutes at 45 RPM.
+In other words, the strength of the 10-inch is that it is possible to design a system that prioritizes sound quality over time.
 
----
-
-### 溝幅とカッティングレベル：音圧と再生時間の綱引き
-
-アナログ盤の溝幅は、音の振幅（ダイナミクス）に比例する。  
-つまり、**ラウドな音を刻むほど、再生時間は短くなる**。
-
-12インチ盤では1インチあたり約250〜300本の溝が刻まれるが、10インチ盤では音圧を優先する場合、溝本数を200本程度に抑えることが多い。  
-結果として音溝が太く、音の“エッジ”が強調される。
-
-この構造的特徴により、10インチ盤は以下のような音響傾向を示す：
-- 音圧感があり、低域のアタックが明確  
-- 中域の定位がタイト  
-- 高域はわずかに荒いが、勢いがある  
-
-まさに「ライブ盤やラフミックスに向く」特性であり、10インチを選ぶアーティストが実験性を重視する理由がここにある。
+The average linear velocity is approximately 15% higher than that of 12 inches, and there is less distortion on the inner periphery.
+Especially in music with a strong attack, such as jazz or indie rock, this speed characteristic creates a clear sense of rhythm and spatial separation.
 
 ---
 
-### マスタリング工程：ラッカーからスタンパーへ
+### Groove width and cutting level: Tug of war between sound pressure and playback time
 
-レコード制作における10インチ特有の工程上のポイントは、**ラッカー・カッティング**段階にある。  
-10インチ盤は直径が小さいため、**カッティングヘッドのトラッキングエラーが少ない**。  
-これにより、音溝の精度が上がり、ステレオ定位がより安定する。
+The groove width on an analog record is proportional to the amplitude (dynamics) of the sound.
+In other words, **the louder the sound, the shorter the playing time**.
 
-### 主な工程概要
+On a 12-inch disc, there are approximately 250 to 300 grooves per inch, but on a 10-inch disc, when sound pressure is a priority, the number of grooves is often kept to around 200.
+As a result, the sound groove is thicker and the "edge" of the sound is emphasized.
 
-1. **Premastering**  
-   デジタルまたはアナログソースを、ラッカー用に最適化。  
-   音圧、ステレオ幅、位相を調整。
+Due to this structural feature, 10-inch discs exhibit the following acoustic trends:
+- Good sound pressure and clear low-frequency attack
+- Tight midrange localization
+- High range is slightly rough, but has momentum
 
-2. **Lacquer Cutting**  
-   10インチ専用ラッカー盤に溝を刻む。  
-   溝幅とピッチ制御（groove pitch control）が重要で、  
-   “33⅓RPMで12分以内”が一つの設計基準。
-
-3. **Electroforming（電鋳）**  
-   ニッケルでマスター → マザー → スタンパーの順に複製。  
-   10インチは12インチよりも変形率が低く、プレスの歩留まりが良い。
-
-4. **Pressing**  
-   東洋化成などの国内プレスでは、盤面温度・圧力をミリ単位で制御。  
-   成型の安定性が音質に直結するため、特に10インチではこの工程が要。
+This characteristic makes it suitable for live recordings and rough mixes, and this is why artists who choose 10-inch discs emphasize experimentation.
 
 ---
 
-### プレス素材と重量：180g神話の裏側
+### Mastering process: from lacquer to stamper
 
-10インチ盤では、**盤厚が1.8〜2.0mm前後、重量は約120〜150g**が一般的。  
-12インチの180g重量盤ブームの影響を受けて「重いほど高音質」と思われがちだが、実際には**素材の密度とフラットネス（平面精度）**の方が重要である。
+The key point in the 10-inch record production process is the **lacquer cutting** stage.
+Due to the smaller diameter of the 10-inch disc, there is less cutting head tracking error.
+This improves the accuracy of the sound groove and makes stereo localization more stable.
 
-10インチ盤の小ささは、盤全体の剛性を自然に高め、**反りにくく、共振が少ない**。  
-つまり、薄くても“響きが締まる”。このため、軽量10インチ盤でも音質面での不利はほとんどない。
+### Main process overview
+
+1. **Premastering**
+Optimize your digital or analog sources for lacquer.
+Adjust sound pressure, stereo width, and phase.
+
+2. **Lacquer Cutting**
+Carve grooves on a 10-inch lacquer board.
+Groove width and pitch control are important.
+"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
+
+3. **Electroforming**
+Copy with nickel in the order of master → mother → stamper.
+10 inch has a lower deformation rate than 12 inch and has a better press yield.
+
+4. **Pressing**
+Domestic presses such as Toyo Kasei control plate surface temperature and pressure in millimeter units.
+This process is especially important for 10-inch models because the stability of the molding is directly linked to the sound quality.
 
 ---
 
-### 音響測定の観点から見た10インチの「密度」
+### Press material and weight: 180g Behind the myth
 
-音響測定的に見ると、10インチ盤の再生周波数特性は以下のような傾向を示す。
+For 10-inch discs, the thickness is generally around 1.8 to 2.0 mm, and the weight is approximately 120 to 150 g.
+Influenced by the boom in 12-inch 180g heavy discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
 
-| 帯域 | 平均S/N比 | 備考 |
+The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and cause less resonance.
+In other words, even if it is thin, the sound is tight. For this reason, there is almost no disadvantage in terms of sound quality even with a lightweight 10-inch disc.
+
+---
+
+### 10-inch "density" from an acoustic measurement perspective
+
+From an acoustic measurement perspective, the playback frequency characteristics of 10-inch discs show the following trends.
+
+| Bandwidth | Average S/N ratio | Notes |
 |------|-------------|------|
-| 40Hz〜100Hz | +2dB | 低域のピーク強め、タイト |
-| 1kHz〜4kHz | ±0dB | フラット、明瞭 |
-| 8kHz以上 | −1〜2dB | 高域の減衰やや早い（物理的制約） |
+| 40Hz to 100Hz | +2dB | Stronger low frequency peak, tighter |
+| 1kHz to 4kHz | ±0dB | Flat, clear |
+| 8kHz or higher | −1 to 2 dB | High frequency attenuation is rather fast (physical constraints) |
 
-この特性は、結果として**ミッドレンジ中心の「近接感」ある音像**を生む。  
-10インチ盤が「生音っぽい」と言われる所以は、この中域密度の高さにある。
-
----
-
-### 33⅓か45か：フォーマット選択の哲学
-
-10インチ盤では、制作段階で33⅓RPMと45RPMのどちらを採用するかが大きな分岐となる。  
-選択基準は以下の通り：
-
-- **33⅓RPM**：収録時間を重視。EP・小規模アルバムに最適。  
-- **45RPM**：音質・ダイナミクス重視。マキシシングル、オーディオファイル向け。
-
-興味深いのは、**45RPMの10インチ盤は12インチ45RPMよりも“音像が凝縮する”**ことだ。  
-これは溝の巻き取り速度が速いため、低域が前面に出るという物理的現象による。  
-結果として、クラブ系やノイズ・アーティストが10インチ45RPMを選ぶケースが多い。
+This characteristic results in a sound image with a "close feeling" centered around the midrange.
+The reason why 10-inch discs are said to have a ""live sound'' is because of the high density of the midrange.
 
 ---
 
-### マスタリング哲学：限られた時間に“作品を刻む”技術
+### 33⅓ or 45: Philosophy of format selection
 
-10インチのカッティングは、単なる技術ではなく“編集の美学”でもある。  
-時間が限られているからこそ、**どの音を残し、どの音を削るか**が問われる。  
-この感覚は、映画の編集や写真のトリミングに近い。
+For 10-inch discs, the big decision at the production stage is whether to use 33⅓RPM or 45RPM.
+The selection criteria are as follows:
 
-現代のマスタリングエンジニアの間では、「10インチで最適化された音像」を求める動きもある。  
-それはもはや過去のフォーマットではなく、**新しい時間設計の装置**としての10インチである。
+- **33⅓RPM**: Focus on recording time. Ideal for EPs and small albums.
+- **45RPM**: Focus on sound quality and dynamics. For maxi singles and audiophiles.
+
+What's interesting is that the 10-inch 45RPM disc has a more "condensed sound image" than the 12-inch 45RPM disc.
+This is due to the physical phenomenon that the winding speed of the groove is fast, so the low range comes to the front.
+As a result, club and noise artists often choose the 10-inch 45RPM.
 
 ---
 
-### 結語：円盤の物理に宿る音楽の思想
+### Mastering Philosophy: Technique to "carve a work" in a limited time
 
-10インチ盤の魅力を技術的に語ると、その背後に浮かび上がるのは「制約が生む自由」だ。  
-設計上の限界、時間の短さ、サイズの狭間。  
-そのすべてが、音楽を“凝縮”させ、“手触り”を取り戻させる。
+10-inch cutting is not just a technique, but also an ""editing aesthetic.''
+Because time is limited, it is important to decide which sounds to keep and which to cut out.
+This feeling is similar to editing a movie or cropping a photo.
 
-フォーマットは哲学であり、工学であり、詩でもある。  
-10インチは、その三者がもっとも緻密に交差する点に位置している。  
-針先が溝をなぞるその一瞬、私たちは物理の中に音楽の精神を見るのだ。
+There is also a movement among modern mastering engineers to seek a "10-inch optimized sound image."
+It is no longer a format of the past, but a 10-inch **device of new time design**.
 
-### 付録：図解 — レコード技術進化小史
+---
+
+### Conclusion: Musical philosophy in the physics of a disk
+
+When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
+Design limitations, time constraints, and size limitations.
+All of this makes the music "condensed" and restores its "feel."
+
+The format is philosophy, engineering, and poetry.
+10 inches is located at the point where these three intersect most closely.
+In that moment when the tip of the needle traces the groove, we see the spirit of music in the physics.
+
+
+
+### Appendix: Illustrations — A brief history of the evolution of record technology
 
 <div class="mermaid">
 
 flowchart TD
-    A1948["1948: Columbia, LP (33⅓RPM) invention"]
-    A1950["1950: 10-inch LP becomes mainstream"]
-    A1955["1955: 12-inch LP became standard"]
-    A1970["1970s: 45RPM re-evaluation for DJ use"]
-    A2000["2000s: 10-inch re-release as limited edition/art edition"]
-    A2020["2020s: Movement of reexamination by audiophiles"]
+A1948["1948: Columbia, LP (33⅓RPM) invention"]
+A1950["1950: 10-inch LP becomes mainstream"]
+A1955["1955: 12-inch LP became standard"]
+A1970["1970s: 45RPM re-evaluation for DJ use"]
+A2000["2000s: 10-inch re-release as limited edition/art edition"]
+A2020["2020s: Movement of reexamination by audiophiles"]
 
 A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
+
 
 </div>
 
@@ -187,18 +194,18 @@ A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 <div class="mermaid">
 
 flowchart TB
-    S["Stylus tip"]
-    G["Groove"]
-    L["Lateral modulation\n→ Stereo L/R information"]
-    V["Vertical modulation\n→ Low frequency/phase information"]
-    D["Depth\n→ Depends on amplitude"]
-    W["Groove width (Width)\n→ Proportional to sound pressure"]
+S["Stylus tip"]
+G["Groove"]
+L["Lateral modulation\n→ Stereo L/R information"]
+V["Vertical modulation\n→ Low frequency/phase information"]
+D["Depth\n→ Depends on amplitude"]
+W["Groove width (Width)\n→ Proportional to sound pressure"]
 
 S -->|Follow| G
-    G --> L
-    G --> V
-    G --> D
-    G --> W
+G --> L
+G --> V
+G --> D
+G --> W
 
 </div>
 
@@ -209,20 +216,20 @@ S -->|Follow| G
 <div class="mermaid">
 
 flowchart TD
-    O["Outer rim: High linear velocity → Good high frequency reproduction"]
-    M["Middle range: Linear speed decrease → High range attenuation starts"]
-    I["Inner rim: Low linear velocity → Inner rim distortion increase/high frequency attenuation"]
+O["Outer rim: High linear velocity → Good high frequency reproduction"]
+M["Middle range: Linear speed decrease → High range attenuation starts"]
+I["Inner rim: Low linear velocity → Inner rim distortion increase/high frequency attenuation"]
 
 O --> M --> I
 
 %% Add annotation at node
-    A["Linear velocity: Outer circumference > Inner circumference → High frequency characteristics are advantageous"]
-    B["inner groove distortion: increases at the inner groove → high frequencies become rounder"]
-    C["Sound pressure (Amplitude): Proportional to groove width → Trade-off with playback time"]
+A["Linear velocity: Outer circumference > Inner circumference → High frequency characteristics are advantageous"]
+B["inner groove distortion: increases at the inner groove → high frequencies become rounder"]
+C["Sound pressure (Amplitude): Proportional to groove width → Trade-off with playback time"]
 
 A -.-> O
-    B -.->I
-    C -.-> M
+B -.->I
+C -.->M
 
 </div>
 

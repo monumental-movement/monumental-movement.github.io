@@ -14,14 +14,14 @@ title: Minor Tuning Band - Hit in Disco
 ---
 
 
-The minor tuning band's popular hit in disco '76 was released in 1976.
+The minor tuning band"s popular hit in disco "76 was released in 1976.
 
 #### Tracklist
-"""md
-A. Minor Tuning Band – Is this all there is to Soul?
+```md
+A. マイナー・チューニング・バンド–ソウルこれっきりですか
 
-B. Marilyn Monroe Husband – Peanuts
-""""
+B. マリリン・モンロー・ハズバンド–ピーナッツ
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
 

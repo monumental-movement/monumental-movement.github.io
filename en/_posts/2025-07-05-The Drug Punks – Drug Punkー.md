@@ -15,12 +15,13 @@ title: The Drug Punks – Drug Punk
 
 "Drug/Punk" is an Electroclash, Electro House track released in 2002 by the UK label City Rockers. Producer: JJ Clam, The Wurlitzer.
 
-#### Tracklist
-"""md
-A.Drug
 
-A.A.Punk
-""""
+#### Tracklist
+```md
+A. Drug
+
+AA. Punk
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55164927477?afid=6142608987){: .button1}
 

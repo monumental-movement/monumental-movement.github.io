@@ -17,11 +17,11 @@ Rednail Kidz is a US deep house production duo consisting of DJ/producer Derrick
 Also known as Rednail Kid, there is Rednail Kidz + 1, which includes Anthony Pearson as a member.
 
 #### Tracklist
-"""md
+```md
 A1. Go Deep
 
 B1. Electrik Disko
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20845429230?afid=6142608987){: .button1}
 

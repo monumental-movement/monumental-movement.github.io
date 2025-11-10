@@ -13,16 +13,19 @@ title: '[Column] How to perceive the charm of destructive artists - Between crea
 ---
 
 
-## 序章：悲劇に惹かれる心
+## Prologue: A heart drawn to tragedy
 
-文：mmr｜テーマ：天才と破滅、創造と自己崩壊。カート・コバーンからエイミー・ワインハウス、三島由紀夫まで。なぜ人は破滅型アーティストに惹かれるのかを心理学・文化史・脳科学の視点から探る
 
-なぜ私たちは、破滅に向かうアーティストの姿に心を奪われるのだろう。  
-カート・コバーン、ジム・モリソン、エイミー・ワインハウス、そして三島由紀夫。  
-彼らの作品は、痛みや葛藤、孤独の結晶のように輝きながら、その生涯は早すぎる終焉を迎えた。
+Text: mmr｜Theme: Genius and destruction, creation and self-destruction. From Kurt Cobain to Amy Winehouse to Yukio Mishima. Explore why people are attracted to destructive artists from the perspectives of psychology, cultural history, and brain science.
 
-彼らの音楽や文学に触れるとき、私たちは単なる「作品」を超えた「人間の叫び」に触れている。  
-それは、誰もが持つ不安・虚無・承認欲求を代弁する、現代の神話でもある。
+
+Why are we so captivated by the image of an artist heading toward destruction?
+Kurt Cobain, Jim Morrison, Amy Winehouse, and Yukio Mishima.
+Their lives came to an untimely end, with their works shining like crystals of pain, conflict, and loneliness.
+
+When we come into contact with their music and literature, we are exposed to a ""human cry" that goes beyond mere ""works."
+It is also a modern myth that represents the anxiety, emptiness, and desire for recognition that everyone has.
+
 
 ---
 
@@ -39,138 +42,140 @@ color: #fff;
 }
 </style>
 
-## 第一章：破滅型アーティストの系譜
+## Chapter 1: Genealogy of destructive artists
 
-破滅型アーティストとは、自己破壊の衝動を創造の原動力に変える存在である。  
-彼らの歴史は、近代芸術の誕生とともに始まった。
+A destructive artist is one who turns the urge for self-destruction into a driving force for creation.
+Their history began with the birth of modern art.
 
-19世紀のロマン主義において、詩人や画家たちは「狂気」を創造性の象徴とみなし、  
-社会に適応できない魂の高貴さを称揚した。バイロン、ランボー、ゴッホ。  
-この系譜が20世紀以降の音楽家や映画監督に受け継がれていく。
+In 19th century Romanticism, poets and painters considered "madness" to be a symbol of creativity.
+It extolled the nobility of the soul that cannot fit into society. Byron, Rimbaud, Van Gogh.
+This lineage has been passed down to musicians and film directors since the 20th century.
 
-彼らは“生き方そのもの”を芸術に変えた。  
-作品と人生が一致する瞬間、観客はその真実に酔いしれる。
-
----
-
-## 第二章：心理学的分析 ― 創造性と自己崩壊のメカニズム
-
-心理学者ナンシー・アンドレアセンは、創造的天才の多くが「双極性障害」との関連を示すことを発見した。  
-創作の高揚期に生まれる圧倒的集中力と情熱、  
-その後に訪れる鬱の時期。この振幅こそが、独創的な表現を生む。
-
-一方で、自己破壊衝動は「承認欲求の極端な表出」ともいえる。  
-社会から理解されない苦痛が、自身の存在証明を“作品”へと転化する。  
-その極点が「死の美学」であり、破滅をもって完成する芸術観である。
+They turned "life itself" into art.
+The moment the work and life match, the audience becomes intoxicated by the truth.
 
 ---
 
-## 第三章：大衆文化と「死の演出」
+## Chapter 2: Psychological Analysis - Mechanisms of Creativity and Self-Destruction
 
-カート・コバーンの死後、彼の遺書は世界中で引用され、  
-ジム・モリソンの墓は今も巡礼地となっている。  
-大衆は破滅を「消費」し、悲劇を「物語」として受け取る。
+Psychologist Nancy Andreasen has discovered that many forms of creative genius show a link to "bipolar disorder."
+The overwhelming concentration and passion that are born during the height of creativity,
+The period of depression that follows. It is this amplitude that gives birth to original expression.
 
-メディアはその構造を加速させた。  
-スキャンダルや依存症、過労死、燃え尽き――  
-SNS時代の“共感経済”では、痛みが最も拡散されやすい感情となった。  
-人は「壊れゆく天才」に自分の影を重ねる。
-
----
-
-## 第四章：脳科学的視点 ― 「崇高さ」と「危険」の快感
-
-人間の脳は、恐怖や悲しみの中に「快感」を見出す構造を持っている。  
-扁桃体と側坐核が同時に活性化する瞬間、私たちは“悲劇の美”を感じる。
-
-それは音楽における「解決しない不協和音」にも似ている。  
-危うさの中に秩序を見出すとき、脳はドーパミンを放出する。  
-つまり、破滅型アーティストの物語は、神経的にも“快い緊張”を生む装置なのだ。
+On the other hand, the urge to self-destruct can be said to be an ""extreme expression of the desire for approval.''
+The pain of not being understood by society transforms into "work" the proof of one's existence.
+The culmination of this is the ""aesthetics of death,'' a view of art that is completed with destruction.
 
 ---
 
-## 第五章：SNS時代の「自己破壊と承認」
+## Chapter 3: Popular culture and "death production"
 
-現代では、誰もが小さな「破滅型アーティスト」になりうる。  
-SNSで感情を発信し、共感を得る構造は、創造と自己暴露の境界を曖昧にしている。
+After Kurt Cobain's death, his suicide note was quoted all over the world.
+Jim Morrison's grave remains a place of pilgrimage.
+The public "consumes" the destruction and receives the tragedy as a "story."
 
-過剰な自己表現が心を蝕むとき、アーティストとフォロワーの境界は崩壊する。  
-その意味で、カート・コバーンの“孤独な叫び”は、  
-インスタやTikTokの投稿に連なる21世紀的な構造を先取りしていたともいえる。
-
----
-
-## 第六章：倫理と共感 ― 我々は「消費者」か「共犯者」か
-
-悲劇を愛でることは、しばしば加害の構造を孕む。  
-ファンは無意識のうちにアーティストの痛みを「美化」し、  
-死後もその苦悩を「神格化」する。
-
-しかし本来、共感とは“彼らの痛みを理解し、再生を願うこと”のはずだ。  
-破滅に陶酔するのではなく、そこから何を学び、どう癒すか。  
-それが21世紀の芸術受容における新たな倫理となる。
+The media accelerated that structure.
+Scandals, addiction, death from overwork, burnout...
+In the ""empathy economy'' of the social media era, pain has become the emotion most easily spread.
+People see their own shadows in the "crumbling genius."
 
 ---
 
-## 終章：生き延びる芸術へ
+## Chapter 4: Neuroscientific perspective - Pleasure of "sublime" and "danger"
 
-創造と破壊は常に表裏一体だ。  
-だが、死によってしか完成しない芸術の時代は終わりつつある。  
-AIが創作を担い、個人の苦悩を共有できるコミュニティが拡がる今、  
-「破滅」を神話として崇拝する必要はない。
+The human brain has a structure that finds ""pleasure'' in fear and sadness.
+At the moment when the amygdala and nucleus accumbens are activated at the same time, we feel the beauty of tragedy.
 
-むしろ、**「生き延びること」そのものが新しい芸術の形**なのかもしれない。  
-破滅ではなく、回復へと向かう創造。  
-その先に、真に自由なアーティスト像がある。
+It is similar to the ""unresolved dissonance'' in music.
+When the brain finds order in danger, it releases dopamine.
+In other words, the story of a destructive artist is a device that creates a ""pleasant tension'' on the nervous system.
 
 ---
 
-## 年表：破滅型アーティストの系譜（1900–2025）
+## Chapter 5: "Self-destruction and approval" in the SNS era
+
+In today's world, anyone can become a small-scale ""disastrous artist.''
+The structure of transmitting emotions and gaining sympathy through SNS blurs the line between creation and self-revelation.
+
+When excessive self-expression eats away at the soul, the boundaries between artists and followers collapse.
+In that sense, Kurt Cobain's "Lonely Cry"
+It can be said that he was anticipating the 21st century structure associated with posting on Instagram and TikTok.
+
+---
+
+## Chapter 6: Ethics and Empathy – Are we "consumers" or "accomplices"?
+
+Admiring tragedy often carries a structure of perpetration.
+Fans unconsciously "glorify" the artist's pain,
+Even after death, the suffering is "deified."
+
+However, empathy is supposed to mean "understanding their pain and wishing for their recovery."
+Rather than becoming intoxicated by destruction, what can we learn from it and how can we heal?
+This is the new ethics for accepting art in the 21st century.
+
+---
+
+## Final Chapter: Toward the Art of Survival
+
+Creation and destruction are always two sides of the same coin.
+However, the era of art that can only be completed by death is coming to an end.
+Now that AI is in charge of creation and communities are expanding where people can share their personal struggles,
+There is no need to worship "ruin" as a myth.
+
+In fact, ""survival'' itself may be a new art form.
+Creation that moves towards recovery rather than destruction.
+Beyond that lies the image of a truly free artist.
+
+---
+
+## Chronology: Genealogy of Ruin Artists (1900–2025)
 
 <div class="mermaid">
 
 timeline
-    title 破滅型アーティストの系譜（1900–2025）
-    1890 : ポール・ヴェルレーヌ／象徴主義と放浪の詩人
-    1888 : フィンセント・ファン・ゴッホ／自傷と『星月夜』
-    1930 : ヴァージニア・ウルフ／内的世界の崩壊と文学
-    1970 : ジム・モリソン／詩とロックの融合、27歳の死
-    1994 : カート・コバーン／「I hate myself and I want to die」
-    2011 : エイミー・ワインハウス／“Rehab”の現実と悲劇
-    2020 : SNS時代の“セルフ破滅”型表現者の拡散
+title Genealogy of destructive artists (1900–2025)
+1890: Paul Verlaine/Symbolism and wandering poet
+1888: Vincent van Gogh/Self-harm and "Starry Night"
+1930: Virginia Woolf/The collapse of the inner world and literature
+1970: Jim Morrison/Fusion of poetry and rock, death at age 27
+1994: Kurt Cobain/"I hate myself and I want to die"
+2011: Amy Winehouse/Rehab and tragedy
+2020: Diffusion of "self-destructive" expressors in the SNS era
 
 </div>
 
+
 ---
 
-## 図版：破滅型アーティストの心理構造ダイアグラム
+## Illustration: Diagram of the psychological structure of a destructive artist
+
 
 <div class="mermaid">
 
-    flowchart TD
-    A[創造衝動] --> B[内的苦痛・葛藤]
-    B --> C[作品化による昇華]
-    C --> D[社会的評価・承認]
-    D --> E[期待とプレッシャー]
-    E --> F[依存・孤立・精神不安]
-    F --> G[破滅（死・消失・逸脱）]
-    G -->|再解釈・神話化| H[大衆の共感・消費]
-    H -->|再生の契機| A
+flowchart TD
+A[creative impulse] --> B[internal pain/conflict]
+B --> C [Sublimation through production]
+C --> D[Social evaluation/approval]
+D --> E[Expectations and pressure]
+E --> F [Dependence/isolation/mental anxiety]
+F --> G [Ruin (death/disappearance/deviation)]
+G -->|Reinterpretation/Mythologization| H[Public sympathy/consumption]
+H -->|Opportunity for rebirth| A
 
-    style A fill:#b3e5fc,stroke:#0288d1
-    style B fill:#f8bbd0,stroke:#c2185b
-    style C fill:#fff9c4,stroke:#fbc02d
-    style D fill:#c8e6c9,stroke:#388e3c
-    style E fill:#ffe0b2,stroke:#f57c00
-    style F fill:#f8bbd0,stroke:#c2185b
-    style G fill:#e1bee7,stroke:#7b1fa2
-    style H fill:#dcedc8,stroke:#689f38
+style A fill:#b3e5fc,stroke:#0288d1
+style B fill:#f8bbd0,stroke:#c2185b
+style C fill:#fff9c4,stroke:#fbc02d
+style D fill:#c8e6c9,stroke:#388e3c
+style E fill:#ffe0b2,stroke:#f57c00
+style F fill:#f8bbd0,stroke:#c2185b
+style G fill:#e1bee7,stroke:#7b1fa2
+style H fill:#dcedc8,stroke:#689f38
 
 </div>
 
 ---
 
-> 「破滅に魅せられる私たち自身の内側に、創造の種がある。」
+> "The seeds of creation lie within ourselves, who are fascinated by destruction."
 
 ---
 
@@ -183,5 +188,4 @@ timeline
 - ["Kurt Cobain: Montage of Heck" (2015)](https://amzn.to/3WjMR7C)
 
 - [Yukio Mishima "Sun and Iron" (1968)](https://amzn.to/3L4zUft)
-
 

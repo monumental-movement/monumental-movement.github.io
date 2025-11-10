@@ -15,16 +15,17 @@ title: Rude Solo Craig Walsh – Voodoo 2
 
 Rude Solo is the project of Andrew Weatherall and Keith Tenniswood, also known as the electronic music duo Two Lone Swordsmen.
 
-Craig Walsh, also known as Soundscape, belongs to 3rd Alternative, Project One, Subculture, The Cause, and Nina Walsh, who did the vocals on Primal Scream's track 'Original Sin', are brother and sister.
+Craig Walsh, also known as Soundscape, belongs to 3rd Alternative, Project One, Subculture, The Cause, and Nina Walsh, who did the vocals on Primal Scream"s track "Original Sin', are brother and sister.
 
 #### Tracklist
-"""md
+```md
 A1. Rude Solo – Vous Do Funk?
 
 A2. Rude Solo – Awoken By Beetles
 
-B. Craig Walsh – Spark
-""""
+B.  Craig Walsh – Spaark
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
 

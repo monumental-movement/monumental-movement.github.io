@@ -17,9 +17,9 @@ CJ Stone (Andreas Litterscheid) is a German DJ and music producer active in the 
 The B-side is a remix by Jean Elan (Sven Koslik), a German DJ and house music producer from Berlin who is also a member of Bass Bumpers.
 
 #### Tracklist
-"""md
+```md
 A. City Lights (Jean Elan Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
 

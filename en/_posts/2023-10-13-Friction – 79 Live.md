@@ -17,7 +17,7 @@ Friction was a Japanese punk rock band that was at the center of the "Tokyo Rock
 "'79 Live" A 2005 reissue of the live album containing the 1979 live performance (DVD included).
 
 #### Tracklist
-"""md
+```md
 CD-1Automatic-Fru
 
 CD-2Pistol
@@ -39,7 +39,7 @@ CD-9Out
 DVD-1Friction
 
 DVD-21979-80 8mm Film
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87178504200?afid=6142608987){: .button1}
 

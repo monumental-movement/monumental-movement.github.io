@@ -15,8 +15,9 @@ title: Fumiya Tanaka – Player EP
 "Player EP" is
 This is Fumiya Tanaka's EP released by Torema Records in 2002.
 
+
 #### Tracklist
-"""md
+```md
 A1. Talking Drums
 
 A2. Bossa
@@ -24,7 +25,7 @@ A2. Bossa
 B1. Polyrhythm
 
 B2. The 8th Of December
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93872054056?afid=6142608987){: .button1}
 

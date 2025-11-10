@@ -16,11 +16,11 @@ Selu Vibra is a project by Swedish trance DJ/producers Sebastian Brandt, Niklas 
 The B-side is a remix by Arnej (Arney Secerkadic), also known as 8 Wonders, a progressive trance/trance DJ and producer from Canada.
 
 #### Tracklist
-"""md
+```md
 A. Stargazing (Original)
 
-B. Stargazing (8 Wonders' Star Traveler Mix)
-""""
+B. Stargazing (8 Wonders' Star Traveller Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
 

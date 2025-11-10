@@ -16,11 +16,11 @@ title: Paintbox – The Door Provided Railroad
 Paintbox's 2nd 7 inch released in 1999 on the HG Fact label. Recorded at studio Our House.
 
 #### Tracklist
-"""md
-A.The Door
+```md
+A. The Door
 
 B. Provided Railroad
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96596824271?afid=6142608987){: .button1}
 

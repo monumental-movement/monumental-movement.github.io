@@ -20,7 +20,7 @@ The first track on side A is a remix by Cisco Ferreira under the name The Advent
 The second track on Side A is a remix by Umek, a representative of Slovenian techno.
 
 #### Tracklist
-"""md
+```md
 A1. The Story So Far... (The Advent "The Cut Ups" Remix)
 
 A2. Sweet Back (Umek Remix)
@@ -28,7 +28,7 @@ A2. Sweet Back (Umek Remix)
 AA1. Solid Deal (Collaboration With Trevor Rockcliffe)
 
 AA2. Restless (Featuring Etmo)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
 

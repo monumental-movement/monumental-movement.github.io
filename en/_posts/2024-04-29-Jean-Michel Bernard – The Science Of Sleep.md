@@ -20,7 +20,7 @@ Michel Gondry was also the drummer for the French rock band Oui Oui.
 Songs 15 & 16 were composed by Lou Reed.
 
 #### Tracklist
-"""md
+```md
 1. Michel Bernard – Générique Stéphane
 2. Michel Bernard – Générique Début
 3. Michel Bernard – Stéphane Visite Appart'
@@ -31,10 +31,10 @@ Songs 15 & 16 were composed by Lou Reed.
 8. The Willowz – Ulcer Soul
 9. Michel Bernard – Aristurtle
 10. Michel Bernard – Générique Stéphane TV
-26 songs in total including
-""""
+など全26曲
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_FDeEmWask?si=tIhCa6qrd62pOJgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

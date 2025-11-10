@@ -21,23 +21,23 @@ Battles is an experimental rock band formed in 2002 by Ian Williams, formerly of
 This CD is a Japanese version with bonus tracks, stickers, and posters.
 
 #### Tracklist
-"""md
-1.Race: In
+```md
+1. Race: In
 2. Atlas
 3. Ddiamondd
 4. Tonto
 5. Leyendecker
-6.Rainbow
+6. Rainbow
 7. Bad Trails
 8. Prismism
 9. Snare Hangar
 10. Tij
-11.Race: Out
+11. Race: Out
 
 Bonus Track
 
 12. Katoman
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52524321493?afid=6142608987){: .button1}
 

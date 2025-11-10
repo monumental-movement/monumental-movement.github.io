@@ -16,11 +16,11 @@ title: Zoo Brazil – Selected
 This is an EP by Zoo Brazil released in 2002 by the German label "Great Stuff Recordings".
 
 #### Tracklist
-"""md
-1.Selected (Original)
+```md
+1. Selected (Original)
 
 2. Selected (D Ramirez Tekno Disko Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50376658467?afid=6142608987){: .button1}
 

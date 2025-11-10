@@ -15,8 +15,9 @@ title: Various – EP
 "Various – EP" is
 This is an EP released by the Japanese label "D5 Records" in 1995.
 
+
 #### Tracklist
-"""md
+```md
 A1. Just Master Rhythm–Mistura Deep
 Producer – Hitoshi "ME" Takasugi
 Written-By – Jun Sakurai, Ryuji Kashiwase
@@ -24,12 +25,13 @@ Written-By – Jun Sakurai, Ryuji Kashiwase
 A2. Hiroshi Morohashi–One
 Written-By, Producer – Hiroshi Morohashi
 
-B1. Bamboo Sonics –Bamboo Sonics
+B1. Bambo Sonics –Bamboo Sonics
 Written-By, Producer – Bamboo Sonics
 
 B2. Acid Funk Shun–Acid Funk Shun
 Written-By, Producer – Acid Funk Shun
-""""
+```
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93431090288?afid=6142608987){: .button1}
 

@@ -17,19 +17,19 @@ title: Dreamlogicc – Podval EP
 *Limited edition of 200 copies, A3 and A4 are uncredited interludes that end with a locked groove.
 
 #### Tracklist
-"""md
-A1.Blanx
+```md
+A1. Blanx
 
 A2. Elect Burns
 
-A3.Untitled
+A3. Untitled
 
-A4.Untitled
+A4. Untitled
 
 B1. Blanx (Accidental Freedom By Area)
 
 B2. Equalizer
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 

@@ -19,7 +19,7 @@ title: The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2
 Gabby Pahinui was inducted into the Hawaiian Music Hall of Fame in 2002.
 
 #### Tracklist
-"""md
+```md
 A1. Po Mahina
 A2. Waikiki Hula
 A3. Pua Tubarose
@@ -30,7 +30,7 @@ B1. Makapu'u Beach
 B2. Pua Kukui
 B3. Kilakila'o Moanalua
 B4. No Ke Ano Ahiahi
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
 

@@ -19,7 +19,7 @@ Stretch & Vern is a unit of house music DJ/producer duo Stuart Silvester (aka St
 The first song on the B-side was produced and remixed by Norman Cook, also known as Fatboy Slim.
 
 #### Tracklist
-"""md
+```md
 A1. I'm Alive (12" Original)
 
 B1. I'm Alive (Fat Boy Comes Alive)
@@ -27,9 +27,9 @@ Producer [Additional] Remix – Norman Cook
 Remix – Fat Boy
 
 B2. I'm Alive (Moonmen Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14682088569?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kt9upcRRgWo?si=CIOyr55ES5gNajYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

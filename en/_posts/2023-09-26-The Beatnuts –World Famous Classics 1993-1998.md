@@ -18,8 +18,9 @@ The Beatnuts, made up of producer and rappers Psycho Les and JuJu, gained attent
 
 This album features popular songs and influential tracks from The Beatnuts' early years.
 
+
 #### Tracklist
-"""md
+```md
 1.World's Famous
 
 2.Bless The M.I.C.
@@ -47,7 +48,7 @@ This album features popular songs and influential tracks from The Beatnuts' earl
 13.Get Funky
 
 14.Give Me Tha Ass
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
 

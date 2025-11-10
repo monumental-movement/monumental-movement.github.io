@@ -15,20 +15,20 @@ title: Tresor Compilation Vol. 7
 "Tresor Compilation Vol. 7" is a compilation album released in 1999.
 
 #### Tracklist
-"""md
+```md
 1. Sven Väth –Dub Control Your Mind (Track & Feel Edit)
 2. Maurizio –M4
 3. Infiniti –Walking On Water
-4. Ben Sims – Theoretical
-5. DJ Shufflemaster – Innervisions
+4. Ben Sims –Theoretical
+5. DJ Shufflemaster –Innervisions
 6. James Ruskin –Indirect World
-7. Karl O'Connor – Guiltless
-8. Sterac – Rolling Thunder
-9. Pacou –It"s Jazzy
+7. Karl O'Connor –Guiltless
+8. Sterac –Rolling Thunder
+9. Pacou –It's Jazzy
 10. Rok –Dance With A Stranger
 11. Daniel Bell –The Butterfly Effect
-12. Savvas Ysatis –Alright (Surgeon"s Keith 4 Nat Mix)
-""""
+12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 

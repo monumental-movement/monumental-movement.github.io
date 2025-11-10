@@ -18,13 +18,13 @@ Echo & The Bunnymen are a UK rock band formed in Liverpool in 1978. The original
 By 1980, Pete De Freitas joined as drummer.
 
 #### Tracklist
-"""md
+```md
 A. Enlighten Me (Extended Remix)
 
 B1. Enlighten Me
 
 B2. Lady Don't Fall Backwards
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55842232873?afid=6142608987){: .button1}
 

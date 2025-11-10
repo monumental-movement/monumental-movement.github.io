@@ -15,15 +15,15 @@ title: Various – Total House Commitment EP
 A deep house/tech house compilation released by San Francisco house label THC - Total House Commitment.
 
 #### Tracklist
-"""md
+```md
 A1. Ted MG –Q-Dog Roams Free
 
 A2. Ovi – Take Forever
 
-B1 Lance DeSardi & Tasho – It Was Yesterday
+B1  Lance DeSardi & Tasho – It Was Yesterday
 
 B2. Pluton – Ripped Off In B-Minor
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55483600323?afid=6142608987){: .button1}
 

@@ -21,13 +21,13 @@ He started out promoting parties with Ron Hardy at the legendary club AKA's, but
 He has performed with many artists including Glenn Underground, Paul Johnson, DJ Rush, Lil Louis, and Thomas Bangalter (Daft Punk). His musical journey has taken him to many different countries, including France, Switzerland, and Germany. Also, he re-launched "Oblique Records Digital" in 2012.
 
 #### Tracklist
-"""md
+```md
 A. Breath
 
 B1. Do Your Thang
 
 B2. Elektro Ride
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
 

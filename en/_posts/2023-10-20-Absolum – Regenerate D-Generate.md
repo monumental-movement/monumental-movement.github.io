@@ -17,11 +17,11 @@ Absolum is the alias of French psytrance artist Christof Drouillet.
 "Absolum – Regenerate / D-Generate" was released in 2000 by British psytrance label TIP.World, which was founded by Raja Ram in 1999, about a year after the end of TIP Records.
 
 #### Tracklist
-"""md
-A.Regenerate
+```md
+A. Regenerate
 
-B.D-Generate
-""""
+B. D-Generate
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55366208454?afid=6142608987){: .button1}
 

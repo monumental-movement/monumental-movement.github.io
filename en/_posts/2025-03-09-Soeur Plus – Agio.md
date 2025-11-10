@@ -17,51 +17,51 @@ title: Soeur Plus! – Agio
 The debut album by Dutch duo Soeur Plus!, released in 1996.
 
 #### Tracklist
-"""md
+```md
 1. Jolie Jacqueline
-Joli Joli Jacqueline
+ジョリ・ジョリ・ジャクリーン
 
 2. Jambalaya
-jambalaya
+ジャンバラヤ
 
-3.Cashbox
-cash box
+3. Cashbox
+キャッシュボックス
 
 4. Sukiyaki
-Sukiyaki
+スキヤキ
 
 5. Dominique
-dominique
+ドミニク
 
 6. Little Arrows
-little arrows
+リトル・アロウズ
 
 7. Jolly Jumper (Piano Edit)
-Jolly Jumper (Piano Edit)
+ジョリー・ジャンバー (ピアノ・エディット)
 
 8. Colinda
-Corinda
+コリンダ
 
 9. La Balance
-la balance
+ラ・バランス
 
 10. Poupee De Cire, Poupee De Son
-dreamy chanson doll
+夢みるシャンソン人形
 
-11.Good Morning Call
-good morning call
- (Bonus track for Japanese version only)
+11. Good Morning Call
+グッド・モーニング・コール
+ (日本盤のみのボーナストラック)
 
 12. Pour Un Flirt
-Flirt
+フラート
 
 13. Oh, Je T'aime
-Au je t'aime
+オー・ジュテーム
 
 14. Jolly Jumper (Instrumental Edit)
-jolly jumper
- (Instrumental Edit)
-""""
+ジョリー・ジャンバー
+ (インストゥルメンタル・エディット)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
 

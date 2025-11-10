@@ -20,18 +20,18 @@ The vocalist for the first song on side A and the second song on side B is Eska 
 NSM (New Sector Movements) is something of a quasi-group, with members mostly coming from the broken beat community in West London. Past members include Kaidi Tatum (under the name Agent K), Julie Dexter, Bembe Sege, Eska Mtungwazi, and Eric Appapoulay (murky). Waters), the string duo Chicks with Sticks (Izzy Dunn & Stella Page), and former Buckshot Refonke member Frank McComb.
 
 #### Tracklist
-"""md
-A1. Don't Say It
+```md
+A1. Don't Say It　
 Vocals – Eska
 
 A2. Don't Say It (Instrumental)
 
-B1. Dancehall Ting
+B1. Dancehall Ting  
 Vocals – Cécile
 
-B2.Soon Come
+B2. Soon Come
 Vocals – Eska
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
 

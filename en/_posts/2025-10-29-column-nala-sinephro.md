@@ -14,16 +14,17 @@ title: '[Column] Nala Sinephro - Sound Breathing and Cosmic Silence: The Current
 ---
 
 
-## 序章：呼吸としての音、宇宙としての即興
+## Prologue: Sound as breathing, improvisation as space
 
-文：mmr｜テーマ：ジャズは技巧やジャンルの拡張ではなく、音が人間に何をもたらすかという根源的な問いについて
 
-Nala Sinephroの音楽に最初に触れたとき、私たちは“曲”という概念を一度手放さざるをえない。  
-2021年、Warp Recordsからリリースされたデビュー作『Space 1.8』は、ジャズとアンビエント、モジュラー・シンセシスと即興演奏の境界を、まるで呼吸のように溶かしていく作品だった。
+Text: mmr｜Theme: Jazz is not about technique or genre expansion, but about the fundamental question of what sound can bring to humans.
 
-ハープ、テナーサックス、モジュラー・シンセサイザー、そして空間そのもの。  
-Nalaの音楽は、**音響そのものが「精神の環境」になる瞬間**を描いている。  
-それは「静けさの中で宇宙が呼吸する」ような体験であり、聴く者の身体をひとつの共鳴体に変える。
+When we first come into contact with Nala Sinephro's music, we are forced to let go of the concept of a "song."
+His debut album Space 1.8, released by Warp Records in 2021, was a work that melted the boundaries between jazz and ambient, modular synthesis and improvisation, as if it were breathing.
+
+Harp, tenor saxophone, modular synthesizer, and space itself.
+Nala's music depicts the moment when the sound itself becomes a "spiritual environment."
+It is an experience that feels like ""the universe breathing in silence,'' and turns the listener's body into a resonating body.
 
 ---
 
@@ -40,48 +41,50 @@ color: #fff;
 }
 </style>
 
-## 第一章：ロンドン・シーンの胎動 ― 南からの風
 
-ロンドンのジャズ再興が語られるとき、必ず浮かぶのは**南ロンドン**という地理的なエネルギーだ。  
-Sons of Kemet、Nubya Garcia、Shabaka Hutchings、Moses Boydらが新しいジャズの語彙を打ち立ててきたが、Nala Sinephroはその潮流の中でも**「沈黙の側」から音を再構築した存在**である。
+## Chapter 1: The birth of the London scene - Wind from the South
 
-彼女はセントルシアとベルギーのルーツを持ち、クラシックと電子音響を同時に学んだ。  
-それが、ロンドンのジャズ・クラブ「Total Refreshment Centre」でのセッションを通じて、  
-ハープとモジュラー・シンセを自在に行き来する独自の音語を形成していく。
+When people talk about the resurgence of jazz in London, what always comes to mind is the geographical energy of South London.
+Sons of Kemet, Nubya Garcia, Shabaka Hutchings, Moses Boyd, and others have established a new jazz vocabulary, but Nala Sinephro is the one who has rebuilt the sound from the ""silent side''.
 
-> “音は私にとって、空気の中の微粒子のようなもの。”  
+She has St. Lucian and Belgian roots and studied classical and electronic acoustics simultaneously.
+Through a session at London's jazz club "Total Refreshment Centre",
+He has formed a unique sonic language that freely moves between harp and modular synth.
+
+> "Sound is like particles in the air to me."
 > ― Nala Sinephro
 
-彼女の言葉通り、そのサウンドは「粒」としての音を重ね、時間を光のように屈折させていく。  
+As she says, the sound is layered as "grains" and refracts time like light.
 
 ---
 
-## 第二章：『Space 1.8』の構造と意識の変容
+## Chapter 2: Structure of "Space 1.8" and transformation of consciousness
 
-『Space 1.8』のトラック構成は、まるで**ヨガや瞑想のセッション**を想起させる。  
-Space 1 から Space 8 まで――すべての楽曲が「呼吸の位相」のように配置されている。
+The track structure of Space 1.8 is reminiscent of a yoga or meditation session.
+From Space 1 to Space 8 -- all songs are arranged like "breathing phases".
 
-- **Space 1：** 微細なモジュラー音が空間をひらく“入口”  
-- **Space 2：** ハープとサックスの対話、内なる振動  
-- **Space 5：** 瞬間的なジャズ・アンサンブルが微光のように現れては消える  
-- **Space 8：** 8分間の深呼吸、すべての音が宇宙の残響として沈む
+- **Space 1:** "Entrance" where subtle modular sounds open up the space
+- **Space 2:** Harp and saxophone dialogue, inner vibration
+- **Space 5:** A momentary jazz ensemble appears and disappears like a faint light.
+- **Space 8:** 8 minutes of deep breathing, all sounds sinking into space reverberations
 
-これはアルバムというよりも、**「音響による精神儀式」**だ。  
-Miles Davisが『In a Silent Way』で「音の間」を探したように、  
-Nalaは**「音の呼吸」**を探している。
+This is more of an ""acoustic spiritual ritual'' than an album.
+Just as Miles Davis searched for the "space between sounds" in "In a Silent Way,"
+Nala is looking for **"Sound Breathing"**.
 
 ---
 
-## 第三章：アンビエント・ジャズという思想
+## Chapter 3: The idea of ​​ambient jazz
 
-アンビエント・ジャズ――それはジャンルというより、**音の態度（attitude）**である。  
-Brian Enoが提唱した“環境音楽”の概念を、スピリチュアル・ジャズの文脈へと接続する流れだ。
+Ambient jazz - it's more of a sonic attitude than a genre.
+This is a flow that connects the concept of "environmental music" proposed by Brian Eno to the context of spiritual jazz.
 
-Nala Sinephroの音楽は、Harold BuddやAlice Coltrane、そしてLaraajiの精神を継ぎながら、  
-21世紀のポスト・クラブ時代において再定義された**“瞑想的モダニズム”**である。
+Nala Sinephro's music is in the spirit of Harold Budd, Alice Coltrane, and Laraaji.
+It is ""contemplative modernism'' that has been redefined in the post-club era of the 21st century.
 
-彼女のハープとシンセは、音の層を重ねながら「ジャズ的な即興」を空間の中に拡散させる。  
-リズムは消え、旋律は漂い、残るのは**時間と空間の感触**のみ。
+Her harp and synths diffuse "jazz-like improvisation" into the space by adding layers of sound.
+The rhythm disappears, the melody drifts, and all that remains is the feel of time and space.
+
 
 <div class="mermaid">
 
@@ -89,86 +92,86 @@ flowchart LR
 A["Brian Eno<br>Ambient (1978)"] --> B["Harold Budd<br>Soft Focus"]
 B --> C["Alice Coltrane<br>Spiritual Jazz"]
 C --> D["Nala Sinephro<br>Space 1.8 (2021)"]
-D --> E["現代アンビエント・ジャズ<br>Floating Points / Sam Shepherd"]
+D --> E["Modern Ambient Jazz<br>Floating Points / Sam Shepherd"]
 
 </div>
 
-この図が示すように、アンビエント・ジャズは「静寂の継承」と「精神性の更新」を同時に担う運動である。  
+As this diagram shows, ambient jazz is a movement that simultaneously carries out the ""inheritance of silence" and the ""renewal of spirituality."
 
 ---
 
-## 第四章：モジュラー・シンセと“聴く身体”
+## Chapter 4: Modular synths and the "listening body"
 
-Nalaはライブパフォーマンスで、ハープと同時に**Eurorackモジュラー・システム**を操作する。  
-そこではパッチングそのものが即興演奏であり、聴く者の身体と空間を変容させる。
+In live performances, Nala operates the **Eurorack modular system** at the same time as the harp.
+Here, patching itself is an improvisational performance that transforms the listener's body and space.
 
-> 機材構成例：
-> - Make Noise Maths  
-> - Mutable Instruments Clouds  
-> - Intellijel Quad VCA  
-> - Moog Mother-32  
-> - Ableton Live（ループ処理用）
+> Equipment configuration example:
+> - Make Noise Maths
+> - Mutable Instruments Clouds
+> - Intellijel Quad VCA
+> - Moog Mother-32
+> - Ableton Live (for loop processing)
 
-この構成は、まさに「人間と機械の呼吸装置」である。  
-波形がハープの余韻を包み、アナログの温度が電子的な透明度を中和する。  
-それは音楽を**テクノロジーの祈り**へと昇華させる行為でもある。
-
----
-
-## 第五章：静寂の政治 ― 音のケアとしてのアンビエント
-
-パンデミック以降、世界がノイズと不安に包まれたとき、  
-Nalaのような音楽は「癒し」としてではなく、**抵抗の形**として現れた。  
-
-“静寂”は単なる休息ではない。  
-それは、世界の喧騒に抗して自らのリズムを取り戻す**セルフケアの政治**でもある。
-
-彼女の音楽を聴くことは、**自分の内側に戻る行為**であり、  
-同時に社会の速度に対する“スロウネスの宣言”でもあるのだ。
+This configuration is truly a "breathing device for humans and machines."
+Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
+It is also an act of sublimating music into a **technology prayer**.
 
 ---
 
-## 補章：Nala Sinephro 年表
+## Chapter 5: Politics of Silence - Ambient as Sound Care
 
-| 年 | 出来事 |
+After the pandemic, when the world was surrounded by noise and anxiety,
+Music like Nala appeared not as "healing" but as a form of resistance.
+
+"Silence" is not just a rest.
+It is also the politics of self-care, in which one regains one's own rhythm against the hustle and bustle of the world.
+
+Listening to her music is an act of returning to one's inner self.
+At the same time, it is also a declaration of slowness in response to the speed of society.
+
+---
+
+## Supplementary Chapter: Nala Sinephro Chronology
+
+| Year | Events |
 |----|--------|
-| 1998 | セントルシア系ベルギー人として生まれる |
-| 2015 | ロンドンへ移住、ジャズシーンで活動開始 |
-| 2018 | Total Refreshment Centreに参加、即興セッションを開始 |
-| 2021 | Warp Recordsより『Space 1.8』リリース |
-| 2022 | Gilles Petersonらにより国際的評価を獲得 |
-| 2024 | 新作制作・モジュラーライブ・プロジェクト開始 |
+| 1998 | Born as a Belgian of St. Lucian descent |
+| 2015 | Moved to London and started working in the jazz scene |
+| 2018 | Join Total Refreshment Center and start improvisational sessions |
+| 2021 | "Space 1.8" released from Warp Records |
+| 2022 | International recognition gained by Gilles Peterson and others |
+| 2024 | Start of new production/modular live project |
 
 ---
 
-## 図解：アンビエント・ジャズの系譜（Mermaid）
+## Illustration: Genealogy of Ambient Jazz (Mermaid)
 
 <div class="mermaid">
 
 graph TD
-    A["Spiritual Jazz<br>(Alice Coltrane, Pharoah Sanders)"]
-    B["Ambient Music<br>(Brian Eno, Harold Budd)"]
-    C["Electronic Meditations<br>(Laraaji, Steve Roach)"]
-    D["London New Jazz<br>(Shabaka Hutchings, Nubya Garcia)"]
-    E["Nala Sinephro<br>Space 1.8 (2021)"]
-    F["Post-ambient Jazz<br>Floating Points, Alfa Mist, Maria Chiara Argirò"]
+A["Spiritual Jazz<br>(Alice Coltrane, Pharoah Sanders)"]
+B["Ambient Music<br>(Brian Eno, Harold Budd)"]
+C["Electronic Meditations<br>(Laraaji, Steve Roach)"]
+D["London New Jazz<br>(Shabaka Hutchings, Nubya Garcia)"]
+E["Nala Sinephro<br>Space 1.8 (2021)"]
+F["Post-ambient Jazz<br>Floating Points, Alfa Mist, Maria Chiara Argirò"]
 
-    A --> E
-    B --> E
-    C --> E
-    D --> E
-    E --> F
+A --> E
+B --> E
+C --> E
+D --> E
+E --> F
 
 </div>
 
 ---
 
-## 結語：音の未来は、静寂の中で脈打つ
+## Conclusion: The future of sound pulsates in silence
 
-Nala Sinephroの音楽は、「ジャズとは何か」という問いを再び開く。
-それは技巧やジャンルの拡張ではなく、**音が人間に何をもたらすか**という根源的な問いだ。
+Nala Sinephro's music reopens the question, "What is jazz?"
+This is not an extension of technique or genre, but rather a fundamental question of what sound can bring to humans.
 
-アンビエント・ジャズの核心は、“音楽を聴くこと”が再び“世界とつながる行為”になるという希望にある。
-Nalaのハープが放つ一音一音は、宇宙の呼吸のように静かに、しかし確かに生きている。
+At the heart of ambient jazz is the hope that ""listening to music" can once again become ""an act of connecting with the world."
+Each note released by Nala's harp is as quiet as the breathing of the universe, but it is certainly alive.
 
 ---

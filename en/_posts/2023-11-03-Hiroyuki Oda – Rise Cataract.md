@@ -20,11 +20,11 @@ is a club music creator and animator.
 As an illustrator, he has illustrated books such as the light novel ""My Little Sister Can't Be This Cute'' written by Tsukasa Fushimi, and as a musician, he has released numerous works from Sevensenses Recordings and Otographic Music.
 
 #### Tracklist
-"""md
-A.Rise
+```md
+A. Rise
 
 B. Cataract
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40856782360?afid=6142608987){: .button1}
 

@@ -14,10 +14,11 @@ title: The Expression – The Expression
 
 The Expression is a synthpop rock band formed in Sydney, Australia in 1981.
 
-""The Expression'' is an album with a ""new wave'' pop style, featuring sharp guitar riffs, synthesizers, and a unique vocal style.
+""The Expression" is an album with a ""new wave" pop style, featuring sharp guitar riffs, synthesizers, and a unique vocal style.
+
 
 #### Tracklist
-"""md
+```md
 A1. Present Communication
 
 A2. With Closed Eyes
@@ -30,14 +31,14 @@ A5. Right To A Slice
 
 B1. Dawn, Day And Sleep
 
-B2.Decisions
+B2. Decisions
 
 B3. You And Me
 
 B4. Nothing Changes
 
 B5. Satisfied Strangers
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 

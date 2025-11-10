@@ -16,11 +16,11 @@ title: Arome – Hands Up
 This is an EP by Frank Zenker's project Arome, released in 2002 on the German label Overdose.
 
 #### Tracklist
-"""md
+```md
 A. Hands Up! (DJ Scot Project Rmx)
 
 B. Hands Up!
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53349932361?afid=6142608987){: .button1}
 

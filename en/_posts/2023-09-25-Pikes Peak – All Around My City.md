@@ -15,20 +15,21 @@ title: Pike's Peak – All Around My City
 "All Around My City" is
 This is a record by Pike's Peak, a punk ska band from Hiroshima, released in 1999.
 
+
 #### Tracklist
-"""md
+```md
 A1. Usual Life
 
-A2.Family
+A2. Family
 
-A3.Think
+A3. Think
 
 B1. What You Gonna Do?
 
-B2.Someday
+B2. Someday
 
 B3. No Trouble
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
 

@@ -14,12 +14,13 @@ title: '[Column] "10 seconds of sound" that changed my life - Sound spark in my 
 
 ## Prologue: When sound changes "life"
 
+
 Text: mmr｜Theme: Fragments of "10 seconds" that keep ringing in my memory
 
-When you look back on your life, there are moments when just a few seconds of sound changed your thoughts, actions, and the rest of your life.  
+When you look back on your life, there are moments when just a few seconds of sound changed your thoughts, actions, and the rest of your life.
 It could be the intro to a song, some noise from the radio, a riff you happened to hear at a club, or a melody someone hummed on a street corner at night.
 
-In this column, I will use my own experience with ""10 seconds of sound'' as a starting point to explore how sound is connected to memories, shapes culture, and influences our ""way of life.''
+In this column, I will use my own experience with ""10 seconds of sound" as a starting point to explore how sound is connected to memories, shapes culture, and influences our ""way of life."
 
 ---
 
@@ -36,14 +37,16 @@ color: #fff;
 }
 </style>
 
+
 ## Chapter 1: The moment that 10 seconds rang - the origin of personal experience
+
 
 10 seconds of "Health and Efficiency".
 Those **10 seconds of the loop** completely rewrote my auditory world.
 
-At that time, I only listened to music as an emotional expression with lyrics.  
-But that rhythmic repetition taught me the pleasure of ""structure over meaning''.  
-It was at that moment that I realized that sound could be a ""space'' rather than a ""message''.
+At that time, I only listened to music as an emotional expression with lyrics.
+But that rhythmic repetition taught me the pleasure of ""structure over meaning''.
+It was at that moment that I realized that sound could be a ""space" rather than a ""message".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -51,12 +54,12 @@ It was at that moment that I realized that sound could be a ""space'' rather tha
 
 ## Chapter 2: 10 Second Memory Device - Sound and Neuroscience
 
-Why do "short fragments of sound" remain deeply memorable?  
-From a neuroscientific perspective, sound reaches the amygdala (emotional center) faster than vision.  
+Why do "short fragments of sound" remain deeply memorable?
+From a neuroscientific perspective, sound reaches the amygdala (emotional center) faster than vision.
 The speed at which it triggers an emotional response in just 0.2 seconds creates the ""acuteness of sonic memory.''
 
-Additionally, a length of 10 seconds is consistent with the limits of human working memory.  
-In other words, it is the smallest unit that can consciously retain ""the sound you are currently listening to.''  
+Additionally, a length of 10 seconds is consistent with the limits of human working memory.
+In other words, it is the smallest unit that can consciously retain ""the sound you are currently listening to.''
 Within that short span of time, we instantly judge emotions such as pleasure, displeasure, and nostalgia.
 
 ---
@@ -66,13 +69,13 @@ Within that short span of time, we instantly judge emotions such as pleasure, di
 flowchart TD
 
 T["<b>Sound and memory process (auditory → emotion → memory)</b>"]
-    T --> A
+T --> A
 
 A["Sound input (10 seconds fragment)"]
-    B["Emotional response in the amygdala"]
-    C["Long-term memory formation in the hippocampus"]
-    D["Contextualization (memory of the "situation" in which the sound was played)"]
-    E["Emotions are reconstructed during playback"]
+B["Emotional response in the amygdala"]
+C["Long-term memory formation in the hippocampus"]
+D["Contextualization (memory of the "situation" in which the sound was played)"]
+E["Emotions are reconstructed during playback"]
 
 A --> B --> C --> D --> E
 

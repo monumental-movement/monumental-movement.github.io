@@ -15,8 +15,9 @@ title: Act Four - Carat Trax 1 – Carat Trax 1
 "Carat Trax 1" is
 This is an EP by the unit Act Four, composed of Andres Romero and Stefan Wuyts, released in 1994 on the Belgian label Circus.
 
+
 #### Tracklist
-"""md
+```md
 A1. Blue (Deep Underground Mix)
 
 A2. Blue (Piano Dub Mix)
@@ -24,7 +25,7 @@ A2. Blue (Piano Dub Mix)
 B1. Blue (Deep Vocal Mix)
 
 B2. Blue (Piano Vocal Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76260753119?afid=6142608987){: .button1}
 

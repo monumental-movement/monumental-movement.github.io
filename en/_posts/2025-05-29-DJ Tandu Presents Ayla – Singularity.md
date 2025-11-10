@@ -22,13 +22,13 @@ The second song on side A is a remix by Luiz O'Brian & Miss Thunderpussy.
 The first track on side B is a remix by German DJ and producer Pulsedriver, who runs Aqualoop Records and Feed My Beat Records.
 
 #### Tracklist
-"""md
+```md
 A1. Singularity / Brainchild II (Ayla Mix)
 A2. Singularity / Brainchild II (Miss Thunderpussy Remix)
 
 B1. Singularity / Brainchild II (Pulsedriver Remix)
-B2.Outburst
-""""
+B2. Outburst
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49532731303?afid=6142608987){: .button1}
 

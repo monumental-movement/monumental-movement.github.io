@@ -18,7 +18,7 @@ title: Kylie – Can"t Get You Out Of My Head
 The A and B sides are remixed by Tim Deluxe. The D side is a remix of Tom Stephan, also known as Superchumbo.
 
 #### Tracklist
-"""md
+```md
 A01. Can't Get You Out Of My Head (Deluxe's Dirty Dub)
 
 B01. Can't Get You Out Of My Head (Deluxe's Dirty Dub Instrumental)
@@ -28,7 +28,7 @@ C01. Can't Get You Out Of My Head (Plastika Mix)
 D01. Can't Get You Out Of My Head (Superchumbo Todo Mamado Mix)
 
 D02. Can't Get You Out Of My Head (K & M Mindprint Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
 

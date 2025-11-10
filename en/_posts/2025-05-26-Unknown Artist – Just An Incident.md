@@ -22,11 +22,11 @@ Side A is a hard techno mix of Incident (*Incident (Miyagi) released in 2012 is 
 The B-side is a hard mix of 2 Live Crew's "HBC (Head, Booty & Cock)," released in 1988 by the Miami-based hip-hop group 2 Live Crew.
 
 #### Tracklist
-"""md
+```md
 A. Just An Incident
 
 B. Head, Booty & Beats
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55864879870?afid=6142608987){: .button1}
 

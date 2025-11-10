@@ -16,14 +16,14 @@ DNS is a unit by D Lewis and Stuart B.
 
 The producer is Ron Wells, known as Jack Smooth (J.Smooth), a pioneer of jungle techno and active from the early days of drum and bass.
 
-""Lucid Journey / Static'' was released in 1994 on Jack Smooth's UK hard trance label Bedhopper Recordings.
+""Lucid Journey / Static"' was released in 1994 on Jack Smooth"s UK hard trance label Bedhopper Recordings.
 
 #### Tracklist
-"""md
+```md
 A. Lucid Journey
 
-AA.Static
-""""
+AA. Static
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
 

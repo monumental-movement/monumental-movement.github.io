@@ -20,12 +20,12 @@ Jeremy Petrus, also known as Mossa, is a musician, DJ, and electronic music prod
 The second track on side B is a remix by Jean-Patrice Rémillard, also known as Pheek, who is a techno/minimal DJ and producer from Montreal who runs the label Archipel.
 
 #### Tracklist
-"""md
-A1.Salt...
+```md
+A1. Salt...
 A2. ...Peanuts
 
 B1. Colorado Bitch
 B2. Colorado Bitch (Pheek Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}

@@ -17,14 +17,14 @@ Les Masques was a French jazz-funk band active in the 1960s. "Brasilian Sound" i
 This album is a reissue of Les Masque's 1969 collaboration with the Brazilian jazz trio LE TRIO CAMARA. It is known as a masterpiece of bossa nova, with a unique rhythmic feel and cheerful atmosphere that incorporates the rhythms, melodies, and percussion of Brazilian music.
 
 #### Tracklist
-"""md
-1.Echo
+```md
+1. Echo
 
 2. Il Faut Tenir
 
 3. Un Regard... Un Sourire...
 
-4.Enfer
+4. Enfer
 
 5. Bal Chez Le Baron
 
@@ -32,14 +32,14 @@ This album is a reissue of Les Masque's 1969 collaboration with the Brazilian ja
 
 7. Mais Un Jour...
 
-8.Initiation
+8. Initiation
 
 9. Dis Nous Quel Est Le Chemin
 
 10. L'Oiseau
 
 11. Les Filles Et Les Garçons
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
 

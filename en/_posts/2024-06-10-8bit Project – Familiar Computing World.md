@@ -20,24 +20,24 @@ title: 8bit Project – Familiar Computing World
 The jacket is a parody of Kraftwerk's ""Computer World'' released in 1981.
 
 #### Tracklist
-"""md
-1. Maiahi of Love
-2. Cutie Honey
-3. Sakuranbo~Happy Days~SMILY~Planetarium
-4. Twilight
-5. [Neon Genesis Evangelion Medley] Cruel Angel's Thesis ~ ANGEL ATTACK ~ DECISIVE BATTLE ~ Symphony No. 9 4th movement ~ FLY ME TO THE MOON ~ Next preview
-6. Aim for Moscow
-7. Raiden
-8. Game Center Arashi
+```md
+1. 恋のマイアヒ
+2. キューティーハニー
+3. さくらんぼ～Happy Days～SMILY～プラネタリウム
+4. トワイライト
+5. [新世紀エヴァンゲリオン・メドレー]残酷な天使のテーゼ～ANGEL ATTACK～DECISIVE BATTLE～交響曲第九番第四楽章～FLY ME TO THE MOON～次回予告
+6. めざせモスクワ
+7. ライディーン
+8. ゲームセンターあらし
 9. Birthday Eve～D.D.D.～Shake It Up～you
 10. GOLDFINGER '99
-11. [Studio Ghibli work medley] Path of the Wind ~Nausicaa Requiem~Life's merry-go-round
-12. Power Hole
-13. Champione ~ Loco Lotion ~ Shanghai Honey ~ Flower
-14. Maiahi of Love (Reprise)
-15. 21st Century Schizoid Man (Including: Mirrors)
-16. Computer game "Circus Theme"
-17. Technopolis
-""""
+11. [スタジオ・ジブリ作品メドレー] 風のとおり道～ナウシカ・レクイエム～人生のメリーゴーランド
+12. パワーホール
+13. チャンピオーネ～ロコローション～上海ハニー～花
+14. 恋のマイアヒ（リプライズ）
+15. 21 世紀のスキッツォイド・マン(インクルーディング:ミラーズ)
+16. コンピューター・ゲーム“サーカスのテーマ”
+17. テクノポリス
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

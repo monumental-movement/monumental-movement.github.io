@@ -19,17 +19,17 @@ This EP is the very heart of Detroit underground music and one of the best warm-
 The unique worldview that interweaves a dark atmosphere and experimental elements can be said to be unique to Jeff Mills.
 
 #### Tracklist
-"""md
-A1.Cobolt
+```md
+A1. Cobolt
 
-A2.Untitled
+A2. Untitled
 
 B1. Cometh
 
-B2.Untitled
+B2. Untitled
 
-B3.Untitled
-""""
+B3. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 

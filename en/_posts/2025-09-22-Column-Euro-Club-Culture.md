@@ -13,15 +13,17 @@ title: '[Column] Euro music and club culture: the intersection of radio and rave
 ---
 
 
+
 ## Is the euro pop? Is it underground?
 
 Text: mmr｜Genre: Music culture study｜Theme: The intersection between the Euro and clubs in the 90s
 
-Euro music, represented by ""Eurobeat'' and ""Eurodance,'' is a genre that dominated clubs and charts in the 1990s, but it is often misunderstood as ""light music.'' However, in reality, it was a hybrid existence born at the intersection of mass media, centered on radio, and underground rave culture.
+Euro music, represented by ""Eurobeat" and ""Eurodance," is a genre that dominated clubs and charts in the 1990s, but it is often misunderstood as ""light music.'' However, in reality, it was a hybrid existence born at the intersection of mass media, centered on radio, and underground rave culture.
 
 This article explores the role that Euromusic played between the club scene and popular music from two contexts: radio and rave.
 
 ---
+
 
 <style type="text/css">
 
@@ -36,11 +38,12 @@ color: #fff;
 }
 </style>
 
+
 ### Radio and MTV: the expansion of the euro through mass media
 
 **● "Turning dance music into a public good"**
 
-In the late 1980s and early 1990s, radio stations rapidly increased the number of channels specializing in dance music, and Euro music began to penetrate households. Particularly in Western Europe, radio stations such as ""Radio NRJ (France)'' and ""Radio 538 (Netherlands)'' play a central role.
+In the late 1980s and early 1990s, radio stations rapidly increased the number of channels specializing in dance music, and Euro music began to penetrate households. Particularly in Western Europe, radio stations such as ""Radio NRJ (France)" and ""Radio 538 (Netherlands)" play a central role.
 
 **● Television penetration of Euro dance**
 
@@ -56,17 +59,18 @@ In conjunction with avex's ""Super Eurobeat'' series, it created a Euro phenomen
 
 ---
 
+
 ### Rave and subculture: the face of the underground Euro
 
 **● Connection with rave culture**
 
-Euromusic originally inherited sounds that originated in gay clubs, such as ""Italo Disco'' and ""Hi-NRG.'' Then, in the 1990s, it resonated with the explosion of rave culture.
+Euromusic originally inherited sounds that originated in gay clubs, such as ""Italo Disco" and ""Hi-NRG." Then, in the 1990s, it resonated with the explosion of rave culture.
 
 Germany: Many euro-taste tracks played on Love Parade and Mayday
 
 UK: Hardbag and Euro-House styles appeared in garage sets in the mid-90s.
 
-Netherlands: The boundaries between Speed Garage and Hard Trance are blurring
+Netherlands: The boundaries between Speed ​​Garage and Hard Trance are blurring
 
 **● Development of Dark Euro/Eurotrance**
 
@@ -75,6 +79,7 @@ Contrary to the commercial aspect, heavy Euro trance and Industrial Euro are als
 Artists such as Cosmic Gate and Scooter have broken through boundaries.
 
 ---
+
 
 ### Musical Crossroads: The Technical Fusion of Euro vs. Club Tracks
 
@@ -86,9 +91,12 @@ Artists such as Cosmic Gate and Scooter have broken through boundaries.
 | Conductor | Radio, TV, CD | Parties, festivals, vinyl |
 | Exchange point | Collaboration on 12-inch remixes, DJ edits, dub mixes, etc. |
 
+
 Although these two cultures may seem contradictory, they were loosely connected through **mix CDs, vinyl culture, and the remix market**.
 
+
 ---
+
 
 ### "Mix CD" culture as an intersection
 
@@ -106,6 +114,7 @@ ATB, Fragma, Darude and more present a sound that weaves between pop and club
 
 ---
 
+
 ### Why is it being reevaluated now?
 
 In the 2020s, the 90s euro is being rediscovered on TikTok and YouTube. The reasons behind this are as follows.
@@ -118,9 +127,10 @@ Nostalgic yet functional sound for open air and festival scenes
 
 ---
 
+
 ### Conclusion: Euro lived on the border between "pop" and "club"
 
-Euro music was not just ""easy-going chart music'' or ""hard club tracks.''
+Euro music was not just ""easy-going chart music" or ""hard club tracks."
 Its true value lies in the music that maintained a balance between media and underground, melody and rhythm, system and physicality.
 
 Listen to it on the radio and dance in the club.
@@ -129,6 +139,7 @@ That may have been the most "correct" way to spend the euro in the 1990s.
 ---
 
 ### Related columns
+
 
 🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
