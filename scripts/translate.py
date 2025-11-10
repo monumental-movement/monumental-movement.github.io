@@ -173,9 +173,9 @@ try:
         new_paragraphs = re.split(r"\n\s*\n", body)
 
         # 差分チェック
-        if old_paragraphs == new_paragraphs and old_body.strip():
-            print(f"⏭️ No changes: {filename}")
-            continue
+        #if old_paragraphs == new_paragraphs and old_body.strip():
+        #    print(f"⏭️ No changes: {filename}")
+        #    continue
         elif old_body.strip():
             print(f"🔁 Diff detected: {filename}")
         else:
