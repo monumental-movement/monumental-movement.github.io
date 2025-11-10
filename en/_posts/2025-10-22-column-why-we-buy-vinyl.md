@@ -13,23 +13,24 @@ title: '[Column] Why do we buy records when we are tired of digital: Psychology 
 ---
 
 
-## 序章：完璧な音からの逃走
+## Prologue: Escape from the perfect sound
 
-文：mmr｜テーマ：なぜ人は、デジタルの完璧さを捨て、アナログの不完全さへと戻っていくのか。レコード回帰の心理と文化を探る
 
-Spotify、Apple Music、YouTube Music。  
-世界中の音が、タップ一つで手に入る時代になった。  
-しかし、そんな**完璧な便利さの中で**、奇妙な逆流が起きている。  
+Text: mmr | Theme: Why do people abandon digital perfection and return to analog imperfection? Exploring the psychology and culture of returning to records
 
-──レコードの復活だ。  
+Spotify, Apple Music, YouTube Music.
+We are now in an era where sounds from all over the world are available with just a tap.
+However, amidst all this **perfect convenience**, a strange backlash is occurring.
 
-カセットのような一時的なブームではなく、  
-いまや「LP盤」は確実に文化的ステータスを取り戻しつつある。  
-針を落とす動作、ジャケットを開く感触、盤面のゆらぎ。  
-それは「聴く」というより、**儀式に近い行為**だ。  
+--It's the revival of records.
 
-人はなぜ、不便なメディアに戻るのか？  
-そこには、心理学的な「接触欲求」や「記憶の回路」が深く関わっている。  
+It's not a temporary boom like cassettes, but
+Nowadays, LP discs are definitely regaining their cultural status.
+The action of dropping the needle, the feel of opening the jacket, the fluctuation of the surface of the board.
+It's more like a ritual than "listening."
+
+Why do people return to inconvenient media?
+The psychological ""desire for contact" and ""memory circuits" are deeply involved.
 
 ---
 
@@ -46,124 +47,125 @@ color: #fff;
 }
 </style>
 
-## 第1章：デジタルが奪った“手触り”の記憶
 
-1982年、CDが登場したとき、世界は歓喜した。  
-ノイズレス、長時間、高耐久。音楽はデータになり、メディアは透明になった。  
+## Chapter 1: Memories of "touch" taken away by digital
 
-だが、**その透明性こそが“問題”**だった。  
+When the CD was introduced in 1982, the world rejoiced.
+Noiseless, long-lasting, and highly durable. Music has become data, and media has become transparent.
 
-デジタル音は完璧すぎるがゆえに、「存在感」が薄い。  
-手に触れられない音、取り替えのきくプレイリスト。  
-心理学者のWinnicottが言う「移行対象（transitional object）」──  
-つまり、子どもが安心を感じる“ぬいぐるみ”のような存在が、音楽から失われたのだ。  
+However, **that transparency was the "problem"**.
 
-レコードはその真逆だ。  
-盤は重く、埃を吸い、温度に敏感で、回転数さえ狂う。  
-まるで“生き物”のように手をかけなければ鳴らない。  
-この**面倒さが、むしろ愛着を生む**。  
+Digital sound is so perfect that it lacks a sense of presence.
+Sounds you can't touch, playlists you can replace.
+What psychologist Winnicott calls a "transitional object"
+In other words, the presence of a ""stuffed toy'' that makes children feel safe has been lost in music.
 
----
-
-## 第2章：ノイズの中の記憶──アナログとノスタルジア
-
-針が落ちた瞬間の「サーッ」というノイズ。  
-それを聴くだけで、なぜか懐かしさが込み上げるという人は多い。  
-
-この現象は心理学的に「プルースト効果」と呼ばれる。  
-匂いや音など、五感の刺激が記憶を呼び起こす現象だ。  
-レコードのノイズは、**時間の経過そのもの**を聴覚化している。  
-つまり、レコードの音を聴く行為は「過去と再会する行為」でもある。  
-
-デジタル音が“現在進行形”の音だとすれば、  
-アナログ音は“記憶の残響”である。  
+Records are the exact opposite.
+The discs are heavy, absorb dust, are sensitive to temperature, and even spin out of order.
+It is like a ""living thing'' and will not make a sound unless you touch it.
+This **troublesomeness actually creates attachment**.
 
 ---
 
-## 第3章：身体が求めるアナログ性──脳科学の視点から
+## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-人間の聴覚は、連続する波の中に“ゆらぎ”を感知する能力を持つ。  
-アナログ音は物理的波形であり、  
-デジタル音よりも“自然界の音”に近いゆらぎを含む。  
+The "thud" noise the moment the needle drops.
+For some reason, many people feel nostalgic just by listening to it.
 
-この微妙な揺らぎ（1/fゆらぎ）は、  
-脳波のα波と共鳴し、リラックス効果を生むことが知られている。  
+This phenomenon is psychologically called the "Proust effect."
+This is a phenomenon in which stimulation of the five senses, such as smells and sounds, evokes memories.
+The noise of the record makes the passage of time itself audible.
+In other words, the act of listening to a record is also ""an act of reuniting with the past.''
 
-つまり、アナログレコードは**身体にとって快適なノイズ**なのだ。  
-無意識に、私たちは「整いすぎない音」を求めている。  
-
----
-
-## 第4章：メディア考古学──物質としての音楽
-
-レコードは、**音の彫刻**でもある。  
-音を刻むという行為は、時間を物質に封じ込めることだ。  
-フリードリヒ・キットラー（Friedrich Kittler）は「メディア考古学」においてこう述べた。  
-
-> “Media determine our situation.”  
-（メディアが私たちの状況を決定する）  
-
-音が“記録”から“再生”へと進化する中で、  
-レコードだけが唯一「時間を手で触れるメディア」として残った。  
-
-針を置くと音が鳴り、針を上げると沈黙が戻る。  
-この単純な機構の中に、**時間と身体の対話**がある。  
+If digital sound is "currently ongoing" sound,
+Analog sound is the "reverberation of memory."
 
 ---
 
-## 第5章：Z世代が針を落とす理由──新しい所有感
+## Chapter 3: Analog nature sought by the body - from the perspective of brain science
 
-Z世代のレコード購入者は、  
-実際に「アナログ時代」を知らない。  
-それでも彼らはレコードを“買い”、棚に“飾る”。  
+Human hearing has the ability to detect "fluctuations" in continuous waves.
+Analog sound is a physical waveform,
+Contains fluctuations that are closer to "natural sounds" than digital sounds.
 
-彼らにとってレコードは、「アーカイブ」や「コレクション」ではない。  
-むしろ“体験の証拠”として機能している。  
+This subtle fluctuation (1/f fluctuation) is
+It is known to resonate with alpha brain waves and produce a relaxing effect.
 
-ジャケットのアート性、盤を裏返す所作、  
-アプリにはない物理的な手順。  
-これはデジタル時代における**反・透明文化**の表現でもある。  
-
----
-
-## 第6章：未来のノスタルジア──AI時代のアナログ感情
-
-生成AIによって音楽は、無限に生成されるようになった。  
-同じ曲を二度と再生できない、流動的な「生成的音楽」。  
-その反動として、**人々は固定された物質**を求め始めている。  
-
-もはや「アナログ回帰」は懐古ではない。  
-それは、**AI時代における“人間らしさ”の再発見**だ。  
+In other words, analog records are **comfortable noise for the body**.
+Unconsciously, we seek a sound that is not too formal.
 
 ---
 
-## 終章：レコードが教える「不完全の幸福」
+## Chapter 4: Media Archeology - Music as Material
 
-レコードの音は、完全ではない。  
-盤の歪み、ホコリ、劣化──そのすべてが音に刻まれる。  
-だが、それこそが“生きた音”だ。  
+Records are also **sound sculptures**.
+The act of carving out sound is to confine time into matter.
+Friedrich Kittler stated this in ""Media Archeology.''
 
-心理学的に、人は完璧よりも「不完全に愛着を抱く」傾向がある。  
-その不完全さを自分の一部として受け入れる。  
-それが「アナログの亡霊」としての魅力だ。  
+> "Media determine our situation."
+(The media determines our situation)
 
-──レコードは、音楽のための墓碑ではない。  
-むしろ、**人間の記憶そのものが回転している装置**なのである。
+As sound evolves from "recording" to "playback",
+Records remained as the only medium that allowed us to touch time.
+
+When you put the needle down, it makes a sound, and when you raise it, silence returns.
+Within this simple mechanism, there is a **dialogue between time and the body**.
 
 ---
 
-## アナログ音楽メディアの進化年表
+## Chapter 5: Why Gen Z is dropping the needle - A new sense of ownership
+
+Generation Z record buyers
+Actually, I don't know about the "analog era".
+Still, they "buy" records and "display them" on their shelves.
+
+For them, records are not ""archives" or ""collections."
+Rather, it functions as "evidence of experience."
+
+The artistry of the jacket, the act of turning the disc over,
+Physical steps not in the app.
+This is also an expression of **anti-transparency culture** in the digital age.
+
+---
+
+## Chapter 6: Future Nostalgia ─ Analog Emotions in the AI ​​Era
+
+Music can now be generated infinitely thanks to generation AI.
+Fluid ""generative music'' where you can never play the same song twice.
+As a reaction to this, people are starting to seek fixed substances.
+
+"Analog regression" is no longer a nostalgic thing.
+That is **rediscovering ""humanity'' in the age of AI**.
+
+---
+
+## Final Chapter: Records teach us "happiness of imperfection"
+
+The sound of records is not perfect.
+Distortion, dust, and deterioration of the disc -- all of that is etched into the sound.
+But that's what a "living sound" is all about.
+
+Psychologically, people tend to "attach to imperfections" rather than to perfection.
+Accept that imperfection as part of yourself.
+That's the appeal of it as the "ghost of analog."
+
+--Records are not tombstones for music.
+Rather, **human memory itself is a rotating device**.
+
+---
+
+## Chronology of evolution of analog music media
 
 <div class="mermaid">
 
 flowchart TD
-    A1877["1877：エジソン、蓄音機（Phonograph）発明"] --> A1901["1901：SP盤（Shellac Record）普及"]
-    A1901 --> A1948["1948：LPレコード登場（Columbia Records）"]
-    A1948 --> A1963["1963：コンパクトカセット誕生"]
-    A1963 --> A1982["1982：CD登場 — デジタル時代の幕開け"]
-    A1982 --> A1999["1999：MP3革命／Napster出現"]
-    A1999 --> A2010["2010年代：Vinyl Revival — 世界的レコード再評価"]
-    A2010 --> A2020["2020年代：AI音楽とアナログ再結合の兆し"]
+A1877["1877: Edison invented the phonograph"] --> A1901["1901: Spread of SP (Shellac Record)"]
+A1901 --> A1948["1948: LP record debut (Columbia Records)"]
+A1948 --> A1963["1963: Birth of compact cassette"]
+A1963 --> A1982["1982: CD debut — the dawn of the digital era"]
+A1982 --> A1999["1999: MP3 revolution/emergence of Napster"]
+A1999 --> A2010["2010s: Vinyl Revival — Global Record Reappraisal"]
+A2010 --> A2020["2020s: Signs of AI music and analog recombination"]
 
 </div>
 

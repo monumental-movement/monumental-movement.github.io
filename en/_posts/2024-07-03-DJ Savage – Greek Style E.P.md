@@ -16,13 +16,13 @@ DJ Savage is a veteran DJ and producer from Greece.
 "Greek Style E.P." is a techno track released in 2001 on the UK label Contrast, founded by Marco Lenzi and Nils Hess.
 
 #### Tracklist
-"""md
-A1.Havana 4am
+```md
+A1. Havana 4am
 A2. No Pain
 
 B1. Kontakt
-B2.Enough
-""""
+B2. Enough
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10887242407?afid=6142608987){: .button1}
 

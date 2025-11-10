@@ -16,12 +16,13 @@ title: Goldie Feat. KRS One – Digital
 
 The song reached number 13 on the UK Singles Chart on November 1, 1997, making it his highest charting record, along with Goldie's "Temper Temper" (along with a song featuring Noel Gallagher). The single was influenced by the then-emerging speed garage and was one of the first attempts to fuse drum and bass and rap.
 
+
 #### Tracklist
-"""md
+```md
 A. Digital (Original Mix) Featuring – KRS One
 
 B. Digital (Armand Van Helden's Speed Garage Mix) Remix, Co-producer [Additional Production] – Armand Van Helden
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61924707698?afid=6142608987){: .button1}
 

@@ -22,16 +22,15 @@ Barbee Boys was a band active in the 1980s and 1990s that gained popularity for 
 Their songs have the power to give energy and courage to listeners, and they have gained support from fans by conveying positive messages.
 
 #### Tracklist
-"""md
-A. I'm going to lose.
+```md
+A. 負けるもんか
 
 B1. C'm'on Let's Go!
 
-B2. Let's fly (live)
-""""
+B2. 翔んでみせろ(ライブ)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-

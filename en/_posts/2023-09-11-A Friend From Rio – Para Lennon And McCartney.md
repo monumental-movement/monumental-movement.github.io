@@ -20,13 +20,15 @@ As the title suggests, this song is dedicated to John Lennon and Paul McCartney 
 The remix, which is a jazzy dance track, is a must-listen.
 
 #### Tracklist
-"""md
+```md
 A. Para Lennon And McCartney (Da Lata Remix)
+
 
 B1. Para Lennon And McCartney (Lumen Soundsmiths Remix)
 
+
 B2. Para Lennon And McCartney (JD's Original Live Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51770064122?afid=6142608987){: .button1}
 

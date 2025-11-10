@@ -14,17 +14,19 @@ title: Lauren Mitchell – All That I Can Be
 ---
 
 
+
 Europop released in 1989 by the Trax Music label.
 
-The producer is British singer John Parr, who is known for ""St. Elmo's Fire,'' the theme song for the movie ""St. Elmo's Fire.''
+The producer is British singer John Parr, who is known for ""St. Elmo"s Fire," the theme song for the movie ""St. Elmo"s Fire."
+
 
 #### Tracklist
-"""md
+```md
 A. All That I Can Be (Extended Mix)
 
 B1. S.C.R.A.T.C.H.
 B2. All That I Can Be (7" Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91170141673?afid=6142608987){: .button1}
 

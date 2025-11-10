@@ -20,18 +20,18 @@ title: Friction – friction
 ・Chico Hige – drums, saxophone
 
 #### Tracklist
-"""md
-1.A-Gas
-2. Automatic hula
-3.I Can Tell
-4. 100 years 100 years
+```md
+1. A-Gas
+2. オートマチック・フラ 
+3. I Can Tell
+4. 100年 100 Nen
 5. Crazy Dream
 6. Cycle Dance
 7. Cool Fool
 8. No Thrill
 9. Big-S
-10.Out
-""""
+10. Out
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 

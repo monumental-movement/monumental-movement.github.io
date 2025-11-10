@@ -17,11 +17,11 @@ Martin Matiske is a German DJ, producer, and composer. He also works under the n
 "Blackout EP" is an electro track released in 2006 by DJ Hell's label International Deejay Gigolo Records.
 
 #### Tracklist
-"""md
-A.Blackout
+```md
+A. Blackout
 
 B. Japanese Science
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22755834365?afid=6142608987){: .button1}
 

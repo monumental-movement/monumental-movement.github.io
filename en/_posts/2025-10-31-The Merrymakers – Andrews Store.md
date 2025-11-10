@@ -18,15 +18,15 @@ The Merrymakers are a Swedish music duo consisting of Anders Hellgren and David 
 "Andrew's Store", released in 1997 on the label Stockholm Records, is The Merrymakers' representative album.
 
 #### Tracklist
-"""md
+```md
 1. Andrew's Store
 2. It's Alright
-3.I Need Something
-4.Making History
-5.Magic Circles
-6.Here For You
+3. I Need Something
+4. Making History
+5. Magic Circles
+6. Here For You
 7. Nobody There
 8. I Won't Let Down
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}

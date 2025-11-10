@@ -19,7 +19,7 @@ The third track on Side A is a remix by German house group Tiefschwarz.
 The first song on the B-side is a remix by Miami-born DJ/producer George Acosta.
 
 #### Tracklist
-"""md
+```md
 A1. Free (M&S Philly Klub Mix)
 
 A2. Free (M&S Philly Dub)
@@ -29,7 +29,7 @@ A3. Free (Tiefschwarz A Capella)
 B1. Free (GA's Mix)
 
 B2. Free (M&S Epic Reprise Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m11492188360?afid=6142608987){: .button1}
 

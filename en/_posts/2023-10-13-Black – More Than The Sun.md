@@ -15,7 +15,7 @@ title: Black – More Than The Sun
 Black is the alias of British singer-songwriter Colin Vearncombe and the name of his band.
 
 #### Tracklist
-"""md
+```md
 A1. More Than The Sun
 
 A2. Butterfly Man
@@ -24,8 +24,8 @@ B1. I Could Kill You
 
 B2. Widemouth
 
-B3.Stephen
-""""
+B3. Stephen
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 

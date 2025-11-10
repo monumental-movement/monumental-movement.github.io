@@ -21,13 +21,13 @@ Originally a techno duo consisting of German DJ and producer Splank! (Florian Se
 B-side is a remix by Sven Väth.
 
 #### Tracklist
-"""md
+```md
 A. Souls At Zero (Original Album Version)
 
 B. Souls At Zero (Sven Väth Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

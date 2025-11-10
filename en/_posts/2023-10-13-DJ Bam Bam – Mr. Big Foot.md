@@ -15,7 +15,7 @@ title: DJ Bam Bam – Mr. Big Foot
 "Mr. Big Foot" is a hard house techno track by Chicago-style hard house DJ and producer DJ Bam Bam, released on Underground Construction in 1998.
 
 #### Tracklist
-"""md
+```md
 A1. Da Hard Beats
 
 A2. Houz Luv
@@ -25,7 +25,7 @@ B1. Bang Those Drums
 B2. Pump Up The Bass
 
 B3. DJ Bam Bam Drops
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57199645919?afid=6142608987){: .button1}
 

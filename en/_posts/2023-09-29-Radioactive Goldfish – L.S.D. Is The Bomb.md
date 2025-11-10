@@ -21,7 +21,7 @@ Additionally, this track has the most devastating key change in the middle. It's
 Definitely worth checking out for fans of the old school rave sound of '90-'92.
 
 #### Tracklist
-"""md
+```md
 A1. L.S.D Is The Bomb
 
 A2. L.S.D Is The Bomb (Dub #1)
@@ -29,7 +29,7 @@ A2. L.S.D Is The Bomb (Dub #1)
 B1. Electrode
 
 B2. L.S.D Is The Bomb (Dub #2)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
 

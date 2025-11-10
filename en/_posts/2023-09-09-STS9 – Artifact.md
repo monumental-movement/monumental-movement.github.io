@@ -17,24 +17,30 @@ title: STS9 – Artifact
 
 Their sound combines elements from a variety of genres, including ambient, electronica, jazz, funk, and dubstep.
 
-A2's "Tokyo" is known as STS9's signature song and is often played in live performances.
+A2"s "Tokyo" is known as STS9"s signature song and is often played in live performances.
 
 "Artifact" is an important album in STS9's career, and is a must-have for fans of the band.
 
+
 #### Tracklist
-"""md
+```md
 A1. Possibilities
+
 
 A2. Tokyo
 
+
 A3. Vibyl
 
-B1.Peoples
 
-B2. Something
+B1. Peoples
+
+
+B2. Somesing
+
 
 B3. Better Day
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 

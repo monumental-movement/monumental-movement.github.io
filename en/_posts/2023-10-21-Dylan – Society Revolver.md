@@ -15,11 +15,11 @@ title: Dylan – Society Revolver
 Dylan is the alias of breakbeat, techno, and electro producer Dylan Rhymes. "Society/Revolver" was released in 2000 on Dylan Rhymes' own label Blue Black.
 
 #### Tracklist
-"""md
+```md
 A. Society (The System)
 
-B.Revolver
-""""
+B. Revolver
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m89252373710?afid=6142608987){: .button1}
 

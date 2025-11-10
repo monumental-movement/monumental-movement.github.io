@@ -22,13 +22,13 @@ The A-side is a remix by AUX88, an electronic band from Detroit consisting of TO
 The B-side is a remix by Gilb'r Versatile, who runs the label Versatile Records.
 
 #### Tracklist
-"""md
-A. Crispy Bacon (Aux 88 Mix)
+```md
+A. Crispy Bacon (Aux 88 Mix) 
 
-B1.Orgasm
+B1. Orgasm
 
-B2. Crispy Bacon (Gilb'r Versatile Mix)
-""""
+B2. Crispy Bacon (Gilb'r Versatile Mix) 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27898736247?afid=6142608987){: .button1}
 

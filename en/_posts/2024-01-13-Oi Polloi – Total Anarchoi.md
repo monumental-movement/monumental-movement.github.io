@@ -21,14 +21,14 @@ Oi Polloi members are supporters of environmental protection (Earth First!) as w
 "Total Anarchoi" was released in 1992 on the UK punk label Step-1 Music.
 
 #### Tracklist
-"""md
+```md
 A1. Nuclear Waste
 
 A2. Boot Down The Door
 
 A3. Pigs For Slaughter
 
-A4.Scum
+A4. Scum
 
 A5. Thrown On The Scrapheap
 
@@ -44,7 +44,7 @@ B2. Americans Out
 
 B3. Pigs For Slaughter
 
-B4.Thugs In Uniform
+B4. Thugs In Uniform
 
 B5. Nazi Scum
 
@@ -53,7 +53,7 @@ B6. Nuclear Waste
 B7. Free The Henge
 
 B8. Punx Picnic
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
 

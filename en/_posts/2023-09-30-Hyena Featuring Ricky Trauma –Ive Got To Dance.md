@@ -12,17 +12,17 @@ title: Hyena Featuring Ricky Trauma –I"ve Got To Dance
 ---
 
 
-Hyena Featuring Ricky Trauma's "I've Got To Dance"
+Hyena Featuring Ricky Trauma"s "I"ve Got To Dance"
 The B-side "Velvet Mix" is recommended.
 
 A lesser-known production by Luigi Stanga, but a track worth checking out.
 
 #### Tracklist
-"""md
+```md
 A. I've Got To Dance (Techno Mix)
 
 B. I've Got To Dance (Velvet Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57514853897?afid=6142608987){: .button1}
 

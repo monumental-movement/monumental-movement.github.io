@@ -17,11 +17,11 @@ Earthbound is a Swedish Euro progressive dance act formed by Anders Eriksson and
 Side A is a remix by UK trance & psytrance DJ/producer/remixer John '00' Fleming (John Fleming). B-side is a remix by Skynet UK (Ian Widgery).
 
 #### Tracklist
-"""md
+```md
 A. Essence Of Life (John "00" Fleming Remix)
 
 B. Essence Of Life (Skynet UK Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35665629445?afid=6142608987){: .button1}
 

@@ -19,11 +19,11 @@ Brazilian electronic music veterans Drumagick are a São Paulo-based DJ/producer
 Characterized by a style that incorporates elements of Brazilian music, Latin music, soul, funk, and jazz into drum and bass breaks, he contributed to the development of Brazil's drum and bass scene.
 
 #### Tracklist
-"""md
+```md
 A. Cambraia
 
-B.Brasil
-""""
+B. Brasil
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 

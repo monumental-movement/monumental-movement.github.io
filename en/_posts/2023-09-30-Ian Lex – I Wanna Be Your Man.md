@@ -15,13 +15,13 @@ title: Ian Lex – I Wanna Be Your Man
 This is a single release from the project "Ian Lex" by Rino Facchinetti, released in 1996.
 
 #### Tracklist
-"""md
+```md
 A. I Wanna Be Your Man (Factory Team Dance Traxx)
 
 B1. I Wanna Be Your Man (Dub Traxx)
 
 B2. I Wanna Be Your Man (Progressive)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68058078658?afid=6142608987){: .button1}
 

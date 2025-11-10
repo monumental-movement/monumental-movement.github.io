@@ -18,7 +18,7 @@ Rednex – Cotton Eye Joe
 Rednecks - Cotton Eye Joe
 
 #### Tracklist
-"""md
+```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
 A2. Cotton Eye Joe (Radio Version)
@@ -28,7 +28,7 @@ A4. Cotton Eye Joe (Armand's Instrumental)
 McCoy Side
 B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 

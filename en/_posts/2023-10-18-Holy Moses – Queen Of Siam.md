@@ -17,16 +17,16 @@ Holy Moses is a German thrash metal band that has been active since 1980. The fr
 "Queen Of Siam" is Holy Moses' debut album, released in 1986 by German heavy metal label Aaarrg Records.
 
 #### Tracklist
-"""md
+```md
 A1. Necropolis
 
 A2. Don't Mess Around With The Bitch
 
-A3.Devils Dancer
+A3. Devils Dancer
 
-A4.Queen Of Siam
+A4. Queen Of Siam
 
-B1.Roadcrew
+B1. Roadcrew
 
 B2. Walpurgisnight
 
@@ -35,7 +35,7 @@ B3. Bursting Rest
 B4. Dear Little Friend
 
 B5. Torches Of Hire
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
 

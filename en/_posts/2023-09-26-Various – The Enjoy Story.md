@@ -28,7 +28,7 @@ Tracks B5 to B6
 Tracks D6 to D9
 
 #### Tracklist
-"""md
+```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
 A3.Spoonie Gee And Treacherous Three–Love Rap
@@ -56,14 +56,14 @@ C8. Midnight Blue – Coolin' Out
 
 D1. The Masterdon Committee – Musicgram
 D2. The Deuce II – Are You Ready
-D3. DLB – It"s Magic
+D3. DLB – It's Magic
 D4. New York City Trooper – Here We Go
 D5. The Source – Ghetto Life
 D6. Doctor Ice – Calling Dr Ice
 D7. The Masterdon Committee – Gonna Get You Hot
 D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 

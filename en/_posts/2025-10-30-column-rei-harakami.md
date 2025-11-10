@@ -12,16 +12,18 @@ title: '[Column] Rei Harakami - Quiet electronic sound born in Kyoto'
 ---
 
 
-## 序章：音の間（ま）に息づく京都
+## Prologue: Kyoto that lives in the sound room
 
-文：mmr｜テーマ：Rei Harakami（レイ・ハラカミ）の音楽と京都という都市の空気・美学について
 
-Rei Harakami（レイ・ハラカミ）の音楽を聴くとき、まず感じるのは「静けさ」である。  
-それは単なるアンビエント的な静寂ではなく、音の「間（ま）」に漂う呼吸のようなものだ。  
-彼の音には、京都という都市が持つ**“間の美学”**が確かに息づいている。  
+Text: mmr｜Theme: Rei Harakami's music and the atmosphere and aesthetics of the city of Kyoto
 
-寺院の鐘の余韻、夏の夕立の湿り気、冬の白川の透明な流れ——。  
-それらを直接サンプリングしたわけではないのに、Rei Harakamiの音はどこか**京都の空気そのもの**を伝えている。  
+
+When I listen to Rei Harakami's music, the first thing I feel is ""tranquility.''
+It"s not just an ambient silence, it"s like a breath floating in the ""ma'' between sounds.
+His sound certainly breathes the ""aesthetics of space'' that the city of Kyoto has.
+
+The lingering sound of a temple bell, the dampness of a summer shower, the clear flow of Shirakawa in winter.
+Even though they were not directly sampled, Rei Harakami's sound somehow conveys the very atmosphere of Kyoto.
 
 ---
 
@@ -38,135 +40,139 @@ color: #fff;
 }
 </style>
 
-## 第1章：Rei Harakamiの登場 ― “都市の静けさ”を音にする
 
-1990年代後半、渋谷系やIDMの隆盛の中で突如現れた京都出身のトラックメイカー、Rei Harakami。  
-彼は東京的な煌びやかさとは異なる、**「個室的」かつ「内省的」な電子音**を提示した。  
 
-代表的な初期作品『red curb』（1999）は、アナログシンセの丸みとミニマルなリズムが調和した作品だ。  
-クラブの熱気よりも、**畳の上で一人聴くための電子音楽**。  
-そこに京都人らしい「控えめなユーモア」と「品のある寂しさ」が潜んでいる。  
+## Chapter 1: The arrival of Rei Harakami - Turning the "silence of the city" into sound
 
-彼の楽曲は決して派手ではないが、**耳を澄ませるほどに世界が広がる**。  
-それは、寺社の庭に座って風の音を聴くような体験に近い。
+Rei Harakami is a Kyoto-born track maker who suddenly appeared in the late 1990s amid the rise of Shibuya-kei and IDM.
+He presented a ""private room" and ""introspective" electronic sound that was different from the glittering Tokyo atmosphere.
 
----
+His representative early work, ""Red Curb'' (1999), is a work that harmonizes the roundness of analog synth with minimal rhythm.
+**Electronic music for listening alone on the tatami floor** rather than the excitement of a club.
+Therein lies the ""understated humor" and ""gentle loneliness" typical of Kyoto people.
 
-## 第2章：京都という文脈 ― 町家、季節、光と影
-
-京都は、歴史と自然、そして生活のリズムが重層的に絡み合う都市である。  
-Rei Harakamiは、まさにこの「重ね合わせ」の文化的構造の中で育った。  
-
-古い町家の軒先をすり抜ける風、川面に映る灯籠の光。  
-彼の音楽には、そうした**“風景の層”**が音として再構成されている。  
-
-> 「風景はメロディになる。リズムは時間の流れを映す。」
-
-とHarakamiが語ったように、彼の音楽は単なるテクノではなく、**「京都という時間」を音で表現する試み**だった。
+His songs are not flashy, but **the more you listen to them, the more your world expands**.
+The experience is similar to sitting in the garden of a temple and listening to the sound of the wind.
 
 ---
 
-## 第3章：作品世界の分析
+## Chapter 2: Kyoto context - machiya, seasons, light and shadow
 
-### 『red curb』（1999）  
-温かいビートと柔らかな音色が特徴。  
-電子音でありながら、有機的な呼吸を持つ。  
-都市の片隅で独り静かに笑うような感覚。  
+Kyoto is a city where history, nature, and the rhythm of life are intertwined in multiple layers.
+Rei Harakami grew up within this cultural structure of "superposition."
 
-### 『opa q』（2001）  
-より透明で、浮遊感のある音響美。  
-音の粒子が光のように散りばめられ、**「音＝光」**の関係性が明確になる。  
-京都の朝靄のような清澄さが漂う。  
+The wind blows through the eaves of old townhouses, and the light of lanterns reflects on the river.
+In his music, these ""layers of landscape'' are reconstructed as sound.
 
-### 『lust』（2005）  
-「人の感情」を電子音で描いたアルバム。  
-ビートの奥に、寂しさと温かさが共存する。  
-この時期、坂本龍一との共作がHarakamiの“和の響き”をより強めた。  
+> "Scenery becomes a melody. Rhythm reflects the flow of time."
 
-### 『unrest』（2011）  
-最晩年に発表された作品。  
-どこか儚く、**終わりを受け入れる静けさ**を感じさせる。  
-まるで京都の秋、落葉を見つめながら笑うような哀しみ。
+As Harakami said, his music was not just techno, but an attempt to express the "time of Kyoto" through sound.
 
 ---
 
-## 第4章：Harakamiと友人たち ― UA、坂本龍一、二階堂和美
+## Chapter 3: Analysis of the work world
 
-UAとの共作「ミルクティー」や、坂本龍一とのコラボレーションは、  
-Rei Harakamiの音楽に“人の声”という新たな要素を加えた。  
+### "red curb" (1999)
+It features a warm beat and soft tone.
+Although it is an electronic sound, it has organic breathing.
+It's like laughing quietly to yourself in a corner of the city.
 
-坂本龍一は彼を「**最も静かな革命家**」と評したという。  
-電子音とアコースティックの境界を溶かし、**「優しさ」と「構築美」**を両立させた稀有な存在だった。  
+### "opa q" (2001)
+Acoustic beauty that is more transparent and has a floating feel.
+Particles of sound are scattered like light, and the relationship between ""sound = light'' becomes clear.
+There is a clearness like the morning mist of Kyoto.
 
-二階堂和美との交流もまた、Harakamiの“日常的な音楽”への傾倒を示している。  
-彼の音は、決して難解な実験音楽ではなく、**生活のリズムそのもの**だった。
+### "lust" (2005)
+An album depicting "human emotions" using electronic sounds.
+Deep within the beat, loneliness and warmth coexist.
+During this period, Harakami"s collaboration with Ryuichi Sakamoto further strengthened Harakami"s "Japanese sound."
 
----
-
-## 第5章：ローカルからグローバルへ ― 京都発電子音の系譜
-
-Rei Harakamiの存在は、のちの日本のローカル・エレクトロニカに大きな影響を与えた。  
-彼の後を追うように、京都・関西圏からは**aus、agraph、Ametsub、no.9**といったアーティストが登場した。  
-
-その音は共通して、**都市と自然のあわい**を描いている。  
-Harakamiが築いた“京都の静寂の音”は、グローバルな文脈においても独自の位置を占める。  
-
----
-
-## 第6章：喪失と継承 ― Harakamiの残響を受け継ぐ者たち
-
-2011年、彼の急逝は音楽界に深い喪失感をもたらした。  
-しかしその後、多くのアーティストたちが彼の音を引き継いでいる。  
-
-tofubeats、serph、または環境音を再構築する若手たちの作品の奥に、  
-**Rei Harakami的“呼吸する電子音”**の影が見える。  
-
-音楽シーンにおける彼の影響は、今も京都という土地を超えて広がり続けている。  
+### "unrest" (2011)
+A work published in his later years.
+There's something ephemeral about it, and it gives you the feeling of **the serenity of accepting the end**.
+It"s like autumn in Kyoto, and it"s a sadness that makes you laugh while staring at the falling leaves.
 
 ---
 
-## 終章：音と風景の同化 ― “京都的エレクトロニカ”の美学
+## Chapter 4: Harakami and friends - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-Rei Harakamiの音楽は、**風景と人間、自然とテクノロジーの調和**を体現していた。  
-そこには、“便利”でも“刺激的”でもない、**静かな幸福感**がある。  
+The collaboration with UA "Milk Tea" and Ryuichi Sakamoto,
+A new element of "human voice" has been added to Rei Harakami's music.
 
-彼の遺した音は、京都の夕暮れのように柔らかく、決して消えない。  
-耳を澄ませれば、今もその音は町のどこかに漂っている。  
+Ryuichi Sakamoto is said to have described him as "the quietest revolutionary."
+He was a rare person who melted the boundaries between electronic and acoustic sounds and achieved both ""gentleness" and ""structural beauty".
 
-> 静けさの中に音がある。音の中に、京都がある。  
+Harakami's interaction with Kazumi Nikaido also shows her dedication to "everyday music."
+His sound was not esoteric experimental music, but the very rhythm of life.
 
 ---
 
-## Rei Harakami 年表
+## Chapter 5: From local to global - Genealogy of Kyoto electronic sounds
+
+Rei Harakami's existence had a great influence on later Japanese local electronica.
+Following in his footsteps, artists such as **aus, agraph, Ametsub, and no.9** emerged from the Kyoto/Kansai area.
+
+The sounds all have in common, depicting the relationship between the city and nature.
+The "sound of Kyoto's silence" created by Harakami occupies a unique position in the global context.
+
+---
+
+## Chapter 6: Loss and Inheritance - Those who inherit the echoes of Harakami
+
+His sudden passing in 2011 left the music world with a deep sense of loss.
+But since then, many artists have inherited his sound.
+
+Deep within the works of tofubeats, serp, and other young artists who reconstruct environmental sounds,
+You can see the shadow of **Rei Harakami's "breathing electronic sound"**.
+
+His influence on the music scene continues to spread far beyond Kyoto.
+
+---
+
+## Final chapter: Assimilation of sound and landscape - Aesthetics of "Kyoto electronica"
+
+Rei Harakami's music embodied the harmony between landscape and humans, nature and technology.
+There is a **quiet sense of happiness** that is neither ""convenient" nor ""exciting."
+
+The sound he left behind is as soft as the sunset in Kyoto, and will never fade.
+If you listen closely, you can still hear that sound floating somewhere in town.
+
+> There is sound in the silence. Kyoto is in the sound.
+
+---
+
+## Rei Harakami Chronology
 
 <div class="mermaid">
 
 timeline
-    title Rei Harakami Chronology
-    1970 : 京都に生まれる
-    1997 : 初のEP『Rei Harakami』発表
-    1999 : 1stアルバム『red curb』
-    2001 : 2ndアルバム『opa q』
-    2005 : 3rdアルバム『lust』
-    2008 : 坂本龍一との共作「Asience」参加
-    2011 : 『unrest』発表、急逝
-    2020 : 再評価の波、トリビュート盤制作
+title Rei Harakami Chronology
+1970 : Born in Kyoto
+1997: First EP "Rei Harakami" released
+1999 : 1st album "red curb"
+2001 : 2nd album "opa q"
+2005 : 3rd album "lust"
+2008: Participated in the collaboration "Asience" with Ryuichi Sakamoto
+2011: "unrest" announced, sudden death
+2020: Wave of reappraisal, tribute album production
 
 </div>
 
+
 ---
 
-## 図：音と風景の対応関係図
+## Diagram: Correspondence diagram between sounds and scenery
 
 <div class="mermaid">
 
 graph TD
-    A["Sounds of nature (wind, water, birds)"] --> B["Texture of electronic sounds (particles, fluctuations)"]
-    C["Kyoto scenery (temples, townhouses, alleys)"] --> D["Aesthetics of composition (spaces, blank spaces, asymmetry)"]
-    B --> E["Harakami Sound World"]
-    D --> E
-
+A["Sounds of nature (wind, water, birds)"] --> B["Texture of electronic sounds (particles, fluctuations)"]
+C["Kyoto scenery (temples, townhouses, alleys)"] --> D["Aesthetics of composition (spaces, blank spaces, asymmetry)"]
+B --> E["Harakami Sound World"]
+D --> E
+    
 </div>
+
 
 ---
 
@@ -175,10 +181,11 @@ graph TD
 "Rei Harakami – [lust]" is
 Rei Harakami's fourth original album released in 2005.
 
+
 #### Tracklist
-"""md
-1.Long Time
-2.Joy
+```md
+1. Long Time
+2. Joy
 3. Lust
 4. Grief & Loss
 5. Owari No Kisetsu
@@ -186,8 +193,8 @@ Rei Harakami's fourth original album released in 2005.
 7. After Joy
 8. Last Night
 9. Approach
-10.First Period
-""""
+10. First Period
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
 

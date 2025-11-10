@@ -14,14 +14,14 @@ title: Nobukazu Takemura – Meteor
 
 "Nobukazu Takemura – Meteor" is a record by Japanese music artist Nobukazu Takemura (Nobukazu Takemura). Nobukazu Takemura is a music producer and composer known for his electronic and experimental music.
 
-"Meteor" is one of Nobukazu Takemura's most representative works. Released in 1999, it is a work that fuses electronic sounds and ambient elements, developing the dreamy soundscape that is the hallmark of Nobukazu Takemura's music.
+"Meteor" is one of Nobukazu Takemura"s most representative works. Released in 1999, it is a work that fuses electronic sounds and ambient elements, developing the dreamy soundscape that is the hallmark of Nobukazu Takemura"s music.
 
 #### Tracklist
-"""md
+```md
 A. Meteor
 
 B. Wax And Wane (Original Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
 

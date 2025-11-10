@@ -18,10 +18,10 @@ Delon & Dalcan is a project by French artist and musician Andre Dalcan and Greg 
 An electro house track released by.
 
 #### Tracklist
-"""md
-A.Fascination
+```md
+A. Fascination
 
-B.In The Sound
-""""
+B. In The Sound
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}

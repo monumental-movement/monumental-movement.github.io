@@ -15,8 +15,9 @@ title: Tam Arrow – One Shot Girl
 "One Shot Girl" is
 This is an EP by Tam Arrow (real name Claudio Magnani) released on the Italian label "Live Music" in 2001.
 
+
 #### Tracklist
-"""md
+```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
 A2. Tam Arrow–One Shot Girl (Extended Version)
@@ -24,7 +25,7 @@ A2. Tam Arrow–One Shot Girl (Extended Version)
 B1. Beat Man–Future Boy (Extended Version)
 
 B2. P. Stone–Kosmic Woofer (Extended Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 

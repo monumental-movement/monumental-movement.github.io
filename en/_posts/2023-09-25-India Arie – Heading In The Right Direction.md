@@ -19,11 +19,11 @@ title: India Arie – Heading In The Right Direction
 India Arie's music has a message of valuing self-love and self-affirmation, which resonates with many people.
 
 #### Tracklist
-"""md
-A Heading In The Right Direction (Shelter Vocal)
+```md
+A  Heading In The Right Direction (Shelter Vocal)
 
-B Heading In The Right Direction (Shelter Dub)
-""""
+B  Heading In The Right Direction (Shelter Dub)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57334747937?afid=6142608987){: .button1}
 

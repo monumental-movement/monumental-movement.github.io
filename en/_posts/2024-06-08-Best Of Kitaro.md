@@ -19,21 +19,21 @@ Kitaro, a Japanese keyboardist and synthesizer player, won the Golden Globe Awar
 "Best of Kitaro" is a compilation cassette tape by Kitaro released in 1985 by the German label Kuckuck.
 
 #### Tracklist
-"""md
+```md
 A1. Morning Prayer
 A2. Eternal Spring
-A3.Oasis
-A4.Westbound
+A3. Oasis
+A4. Westbound
 A5. Silver Moon
-A6.Four Changes
+A6. Four Changes
 
-B1.
+B1. Tunhuang
 B2. Sacred Journey
-B3.Revelation
+B3. Revelation
 B4. Silk Road Fantasy
 B5. Shimmering Light
 B6. Everlasting Road
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
 

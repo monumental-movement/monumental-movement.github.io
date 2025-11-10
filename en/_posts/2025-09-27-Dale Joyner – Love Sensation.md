@@ -17,7 +17,7 @@ Released in 1989 on the Unigram label, this record is a classic of house music t
 The producer is Garry Hughes, a UK producer and live keyboardist for Björk, Sly & Robbie, Garbage, Pink Floyd, and The Art Of Noise.
 
 #### Tracklist
-"""md
+```md
 A. Love Sensation (Club Mix)
 
 B1. Love Sensation (House Mix)

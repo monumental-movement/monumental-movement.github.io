@@ -20,19 +20,19 @@ Easy listening flows smoothly, like "Bossa Nova Supernova" and "Departure Lounge
 
 On the other hand, if you're looking for outright eccentricity, listen to "Funky Duck."
 
-If you like spy dramas, we have ""Paranoia'' and ""Long Shadow.''
+If you like spy dramas, we have ""Paranoia" and ""Long Shadow."
 
 Even in short songs like "Marionette," the album still makes its presence felt, and the album ends with the thoughtful and melancholic "Planet 54."
 
 #### Tracklist
-"""md
+```md
 1. Optigan
 
 2. Space Interval 1
 
-3.Marionette 59 Sec Sting
+3. Marionette 59 Sec Sting
 
-4.Carousel
+4. Carousel
 
 5. Bossa Nova Supernova
 
@@ -40,11 +40,11 @@ Even in short songs like "Marionette," the album still makes its presence felt, 
 
 7. Funky Duck
 
-8.Marionette
+8. Marionette
 
 9. Departure Lounge
 
-10.The Dream Sequence
+10. The Dream Sequence
 
 11. Space Interval 2
 
@@ -54,10 +54,10 @@ Even in short songs like "Marionette," the album still makes its presence felt, 
 
 14. Long Shadow
 
-15.Marionette 29 Sec Sting
+15. Marionette 29 Sec Sting
 
-16.Pianet 54
-""""
+16. Pianet 54
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 

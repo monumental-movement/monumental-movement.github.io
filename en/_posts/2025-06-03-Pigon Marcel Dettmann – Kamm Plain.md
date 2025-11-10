@@ -20,11 +20,11 @@ Side A is the techno track "Kamm" by the duo Pigon, composed of Oliver Kargl and
 The B-side is the techno track "Plain" by Berghain's resident DJ and Berlin techno scene stalwart Marcel Dettmann.
 
 #### Tracklist
-"""md
+```md
 A. Pigon – Kamm
 
 G. Marcel Dettmann – Plain
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m11143340200?afid=6142608987){: .button1}
 

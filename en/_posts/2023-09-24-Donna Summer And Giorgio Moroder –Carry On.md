@@ -16,14 +16,15 @@ title: Donna Summer And Giorgio Moroder –Carry On
 
 It is considered one of the hits and important works of the golden age of disco music, and continues to be loved by many people in the music scene even today.
 
-#### Tracklist
-"""md
-A1 Carry On (Fired Up Mix)
-A2 Carry On (Fired Up Dub)
 
-AA1 Carry On (Eric Kupper's Hysteria Mix)
-AA2 Carry On (Untidy Dub)
-""""
+#### Tracklist
+```md
+A1  Carry On (Fired Up Mix)
+A2  Carry On (Fired Up Dub)
+
+AA1  Carry On (Eric Kupper's Hysteria Mix)
+AA2  Carry On (Untidy Dub)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74209222357?afid=6142608987){: .button1}
 

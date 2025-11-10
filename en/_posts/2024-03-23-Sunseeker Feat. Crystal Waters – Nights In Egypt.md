@@ -24,7 +24,7 @@ Since then, he has released many hit songs such as "100% Pure Love" and "Destina
 Known for his powerful vocals and catchy melodies, he also shows overwhelming performance at live shows. He currently runs his own label, IAH Records, and contributes to the revitalization of the music scene by discovering and nurturing up-and-coming artists.
 
 #### Tracklist
-"""md
+```md
 A1. Nights In Egypt (Nerio's Dubwork Remix)
 
 A2. Nights In Egypt (Nerio's Extraordinary Dub Remix)
@@ -32,7 +32,7 @@ A2. Nights In Egypt (Nerio's Extraordinary Dub Remix)
 B1. Nights In Egypt (Swen G Remix)
 
 B2. Nights In Egypt (Lenny Fontana Vocal Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 

@@ -18,11 +18,11 @@ title: Riow Arai – iBeat EP
 This EP offers a glimpse into Riow Arai's musical character and creativity. You will enjoy his unique artistic perspective and musical expression.
 
 #### Tracklist
-"""md
+```md
 A. iBeat
 
-B.Non-Fiction
-""""
+B. Non Fiction
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37746721700?afid=6142608987){: .button1}
 

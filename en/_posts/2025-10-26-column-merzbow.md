@@ -13,15 +13,16 @@ title: '[Column] MERZBOW ── Noise, the liberating acoustics'
 ---
 
 
-## 序章：静寂の反転としてのノイズ
+## Prologue: Noise as the inversion of silence
 
-文：mmr｜テーマ：秋田昌美＝Merzbowが切り開いたノイズ音楽の哲学と文化史的意義を探る
 
-1980年代以降、日本から発信された「ノイズ・ミュージック」は、世界の音楽史の中でも特異な軌跡を描いてきた。その中心に立ち続けたのが、**秋田昌美（Masami Akita）＝Merzbow**である。彼の音は、暴力的でありながら瞑想的、破壊的でありながら有機的である。  
-それは「音楽」という枠を逸脱し、むしろ**“聴覚の哲学実験”**として受け止めるべきものだ。
+Text: mmr｜Theme: Exploring the philosophy and cultural historical significance of noise music developed by Masami Akita = Merzbow
 
-Merzbowという名は、シュルツのダダ的コラージュ作品《Merzbau》に由来する。つまり、**既存の構造を解体し、断片を再構成する行為そのもの**が彼の創作原理となっている。  
-秋田の活動は40年以上に及ぶが、その理念は一貫して「聴く行為の政治性」にある。ノイズは単なる“うるさい音”ではなく、**社会の秩序から排除された音の逆襲**なのである。
+Since the 1980s, the ""noise music'' that originated in Japan has followed a unique trajectory in the history of world music. The person who has continued to stand at the center of this is **Masami Akita (Merzbow)**. His sound is violent yet meditative, destructive yet organic.
+It goes beyond the framework of ""music" and should instead be seen as **an ""aural philosophical experiment."**
+
+The name Merzbow comes from Schulz's Dada-like collage work ""Merzbau''. In other words, the very act of dismantling existing structures and reconstructing the fragments is his creative principle.
+Akita has been active for over 40 years, but his philosophy has always been ""the politics of listening''. Noise is not just "noisy sound", but a counterattack of sounds that have been excluded from the social order.
 
 ---
 
@@ -38,146 +39,149 @@ color: #fff;
 }
 </style>
 
-## 背景：日本の前衛土壌とDIY文化
-1970年代末、東京のアンダーグラウンドは多様な実験精神で満ちていた。高橋悠治や武満徹による現代音楽の文脈、パンク／フリージャズの衝動、そして美術界のハプニング的実践が交錯する。  
-秋田はその中で、**芸術大学で美術史を学びながら、身体と音の関係を探求**していった。
 
-初期のMerzbowは、アクション・ペインティングのようなライブ・ノイズを通じて、聴衆と空間を巻き込む「行為芸術」として展開された。  
-また、カセット文化（cassette underground）は彼の表現を支えた。**ホームレコーディング＋郵送ネットワーク**というDIY精神は、のちのインターネット的拡散の前兆だった。
+## Background: Japan's avant-garde soil and DIY culture
+At the end of the 1970s, Tokyo's underground was filled with a diverse spirit of experimentation. The context of contemporary music by Yuji Takahashi and Toru Takemitsu, the impulses of punk/free jazz, and the happening practices of the art world intersect.
+During this time, Akita studied the history of art at an art university and explored the relationship between the body and sound.
 
----
-
-## 美学：ノイズ＝解体の快楽
-Merzbowの美学は、**「破壊ではなく再生」**にある。  
-彼のノイズは、全てのジャンル、構造、調和、感情をいったん粉砕するが、そこに新たな秩序が立ち上がる。  
-音の粒子が無限に折り重なることで、リスナーの聴覚は新たな感覚の地平へと押し出されるのだ。
-
-> 「ノイズは“自由の音”だ。誰にもコントロールされない。」  
->  ─ 秋田昌美（インタビュー、1994）
-
-Merzbowの制作過程は、しばしば生態系の構造にたとえられる。  
-アナログ・ノイズ（フィードバック、テープ・ループ、エフェクトの暴走）と、デジタル以降のグリッチ的精密さが、まるで生物の変異のように絡み合う。  
-そこには「無機と有機の共鳴」が存在する。
+Early Merzbow was developed as an ""action art'' that involved the audience and the space through live noise, similar to action painting.
+Also, the cassette culture (cassette underground) supported his expression. The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
 
 ---
 
-## 機材と制作過程：音響の“生態系”
-初期は金属ジャンク、アンプ、マイク、磁気テープ、エフェクターなどを直結した**物理的ノイズ**が中心だった。  
-1990年代半ば、Macとデジタル機器が導入されると、**音の粒度と制御可能性**が一気に変化する。  
-しかし秋田は制御を目的とせず、「**制御の崩壊点**」を探る実験に移行する。
+## Aesthetics: Noise = pleasure of demolition
+Merzbow's aesthetic lies in ""regeneration, not destruction''.
+His noise shatters all genres, structures, harmony, and emotions, but then a new order emerges.
+The infinite folding of sound particles pushes the listener's hearing to new sensory horizons.
 
-彼のスタジオには、無数のアナログ機器とパッチケーブルが交錯しており、それ自体が一種の有機体のようだ。  
-Merzbowの“音”は、**人間と機械の相互干渉プロセス**の記録なのである。
+> "Noise is the sound of freedom. No one can control it."
+> ─ Masami Akita (Interview, 1994)
 
----
-
-## 社会的文脈：動物愛護と反資本主義
-2000年代以降、秋田は動物愛護運動・ヴィーガニズムを公言し、その思想を音楽にも取り込むようになる。  
-代表作《Animal Liberation》や《Ecoid》シリーズでは、ノイズを**人間中心主義への批判**として再定義した。  
-つまり、ノイズは単なる音響ではなく、**エコロジカルな抵抗運動**としての意味を帯びていく。
-
-Merzbowの音楽は、資本主義的商品形態へのアンチテーゼでもある。  
-“売れる音楽”の対極でありながら、**世界中のフェスや美術館で高い評価を受けるという逆説**が生まれた。
+Merzbow's creative process is often compared to the structure of an ecosystem.
+Analog noise (feedback, tape loops, effects running wild) and post-digital glitchy precision intertwine like biological mutations.
+There exists a ""resonance between inorganic and organic''.
 
 ---
 
-## 国際的影響：ノイズの世界言語化
-1990年代以降、Merzbowは世界のアンダーグラウンド・ネットワークを通じて神話化される。  
-その影響は、**Wolf Eyes（米）やPrurient（米）、Alva Noto（独）**など多くのアーティストに及んだ。  
-彼の“日本的ノイズ”は、東洋的静謐と暴力の同居として、欧米批評家にとっても重要な参照点となった。
+## Equipment and production process: acoustic "ecosystem"
+In the early days, the focus was on ""physical noise'' directly connected to metal junk, amplifiers, microphones, magnetic tape, effectors, etc.
+In the mid-1990s, with the introduction of Macs and digital devices, the granularity and controllability of sound suddenly changed.
+However, Akita does not aim at control, but instead shifts to experiments to find the ""point of collapse of control.''
 
-2000年代には、インドネシア、ロシア、南米などにもノイズ・シーンが拡散。  
-その根底には、Merzbowが開いた「**誰もが音で世界を解体できる**」という理念がある。
-
----
-
-## 現在：AI以降のノイズ
-2020年代、AIによる音楽生成が一般化する中で、Merzbowの存在は再び輝きを増している。  
-彼のノイズは、**「人間の意識が作り出す非アルゴリズム的カオス」**の象徴となった。  
-生成音楽が整然と美しくなるほど、Merzbowの“混沌”はリアルな生の痕跡として立ち上がる。
-
-AIノイズでは再現できない“意識の歪み”こそ、彼の音が放つ人間的リアリティである。  
-それは、**21世紀の「身体なき音楽」に抗う最後の野生**だ。
+His studio is an organism of its own, with its myriad analog devices and patch cables intertwined.
+Merzbow's "sound" is a record of the mutual interference process between humans and machines.
 
 ---
 
-## 結語：ノイズとは生の証明である
-Merzbowの音は、もはやジャンルではない。  
-それは「生きること＝聴くこと」の根源的衝動の延長線上にある。  
-沈黙すらもノイズに取り込みながら、彼は音の極限で**存在そのものの振動**を記録してきた。
+## Social context: animal welfare and anti-capitalism
+Since the 2000s, Akita has openly advocated animal rights movements and veganism, and has begun to incorporate these ideas into his music.
+In his representative works ""Animal Liberation" and ""Ecoid" series, he redefined noise as a critique of anthropocentrism.
+In other words, noise is not just a sound, but takes on the meaning of an ecological resistance movement.
 
-> 「ノイズとは、まだ名づけられていない生命の声である。」
+Merzbow's music is also the antithesis of the capitalist commodity form.
+Despite being the opposite of "music that sells," the paradox of receiving high acclaim at festivals and museums around the world was born.
 
 ---
 
-## 年表：Merzbowの軌跡
+## International influence: making noise a global language
+Since the 1990s, Merzbow has been mythologised through underground networks around the world.
+Its influence extended to many artists such as **Wolf Eyes (US), Prurient (US), and Alva Noto (Germany)**.
+His ""Japanese noise'' became an important reference point for Western critics as well, as it represents the coexistence of Oriental tranquility and violence.
+
+In the 2000s, the noise scene spread to Indonesia, Russia, and South America.
+At the root of this is the philosophy established by Merzbow: ""Anyone can dismantle the world with sound.''
+
+---
+
+## Current: Noise after AI
+In the 2020s, as music generation by AI becomes commonplace, Merzbow's presence is once again gaining traction.
+His noise became a symbol of ""the non-algorithmic chaos of human consciousness.''
+The more orderly and beautiful the generative music becomes, the more Merzbow's "chaos" stands up as traces of real life.
+
+The "distortion of consciousness" that cannot be reproduced with AI noise is the human reality that his sound emits.
+It is the last wild thing against the ""music without body'' of the 21st century.
+
+---
+
+## Conclusion: Noise is proof of life
+Merzbow's sound is no longer a genre.
+It is an extension of the fundamental impulse of ""living = listening.''
+Incorporating even silence into noise, he has recorded the **vibration of existence itself** at the extreme of sound.
+
+> "Noise is the voice of life that has not yet been named."
+
+---
+
+## Chronology: Merzbow's trajectory
 
 <div class="mermaid">
 
 timeline
-    title Merzbow活動年表（1979–2025）
-    1979 : Merzbow結成。カセット作品を自主制作。
-    1981 : "Metal Acoustic Music"リリース、国内外カセット文化と接続。
-    1985 : "Remblandt Assemblage"発表。ハーシュノイズの基礎を確立。
-    1994 : "Venereology"でRelapse Recordsより世界進出。
-    2000 : "Merzbox"（50枚組BOX）リリース、伝説的アーカイブ化。
-    2002 : 動物愛護・ヴィーガニズムを表明。以降作品群に反映。
-    2010 : "13 Japanese Birds"シリーズ完結。
-    2019 : AI音楽時代へのアンチテーゼとして再評価。
-    2025 : 「生態ノイズ」シリーズ展開、音と生命の境界を探求。
+title Merzbow activity timeline (1979–2025)
+1979: Formed Merzbow. Independently produces cassette works.
+1981: "Metal Acoustic Music" released, connecting with domestic and international cassette culture.
+1985: "Remblandt Assemblage" announced. Established the basis of harsh noise.
+1994: Entered the world with "Venereology" from Relapse Records.
+2000: "Merzbox" (50-disc BOX) released, legendary archive.
+2002: Announced animal welfare and veganism. This has been reflected in subsequent works.
+2010: Completed the "13 Japanese Birds" series.
+2019: Reevaluated as the antithesis of the AI ​​music era.
+2025: Development of the "Ecological Noise" series, exploring the boundary between sound and life.
 
 </div>
 
 ---
 
-## ノイズ生成構造ダイアグラム
+## Noise generation structure diagram
 
 <div class="mermaid">
 
 flowchart TD
-    A["入力：アナログ信号（マイク・金属・テープ）"]
-    B["増幅・フィードバック"]
-    C["歪み／サチュレーション"]
-    D["制御崩壊点（ノイズの自己生成）"]
-    E["出力：音響空間としてのノイズ"]
-    A --> B --> C --> D --> E
+A["Input: Analog signal (mic/metal/tape)"]
+B["Amplification/Feedback"]
+C["Distortion/Saturation"]
+D["Control collapse point (self-generation of noise)"]
+E["Output: Noise as acoustic space"]
+A --> B --> C --> D --> E
 
 </div>
 
 ---
 
-## 日本前衛音楽史における位置づけ
+## Position in the history of Japanese avant-garde music
 
 <div class="mermaid">
 
 flowchart LR
 
-    T1["1950s：武満徹／電子音楽黎明"]
-    T2["1970s：高橋悠治／フリージャズ／Fluxus"]
-    T3["1980s：Merzbow登場／カセット文化"]
-    T4["2000s：デジタルノイズ／ヴィーガン期"]
-    T5["2020s：AI以降のノイズ美学"]
+T1["1950s: Toru Takemitsu/The Dawn of Electronic Music"]
+T2["1970s: Yuji Takahashi/Free Jazz/Fluxus"]
+T3["1980s: Merzbow appearance/cassette culture"]
+T4["2000s: Digital Noise/Vegan Period"]
+T5["2020s: Noise aesthetics after AI"]
 
-    T1 --> T2 --> T3 --> T4 --> T5
+T1 --> T2 --> T3 --> T4 --> T5
 
 </div>
 
 ---
 
-## ノイズ音楽の進化プロセス
+## Evolution process of noise music
 
 <div class="mermaid">
 
 flowchart TD
 
 A["Analog era (physical destruction)"]
-    B["Digital era (signal collapse)"]
-    C["AI era (noise of consciousness)"]
-    A --> B --> C
+B["Digital era (signal collapse)"]
+C["AI era (noise of consciousness)"]
+A --> B --> C
+
 
 </div>
 
 ---
+
 
 ## Recommended disc
 
@@ -186,19 +190,21 @@ A["Analog era (physical destruction)"]
 Merzbow's "Merzbird" was released in 2004 by the American label Important Records.
 
 #### Tracklist
-"""md
+```md
 1. Black Swan
 2. Mandarin Duck
 3. Emu
 4. Victoria Crowned Pigeon
-5.White Peafowl
+5. White Peafowl
 6. Brown Pelican
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ---
 
@@ -211,6 +217,7 @@ Merzbow's "Merzbird" was released in 2004 by the American label Important Record
 - [David Novak "Japanoise: Music at the Edge of Circulation" (Duke University Press, 2013)](https://amzn.to/4hsDvzW)
 
 ---
+
 
 > "Noise is not the grave of music, but the rebirth of music."
 

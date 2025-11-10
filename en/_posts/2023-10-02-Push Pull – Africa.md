@@ -16,13 +16,13 @@ title: Push Pull – Africa
 "Push/Pull-Africa" ​​is a tribal house record released by Deep End label in 1990 under the alias of BEN CENAC (COZMO D/Maurice Cenac), a central figure of electro legend NEWCLEUS.
 
 #### Tracklist
-"""md
-A.Africa
+```md
+A. Africa
 
 B1. Africa (Mau Mau Mix)
 
 B2. Africa (Future Primitive)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43922737030?afid=6142608987){: .button1}
 

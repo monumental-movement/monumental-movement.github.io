@@ -17,8 +17,8 @@ title: Miss Monday – Curious
 This song combines sophisticated production and rich musical elements, and Miss Mandy's unique artistry and expressiveness give the song its own charm.
 
 #### Tracklist
-"""md
-A1.Curious
+```md
+A1.  Curious
 
 A2. Curious (Inst)
 
@@ -29,7 +29,7 @@ B1. Curious (SoopaSta! Remix)
 B2. Curious (SoopaSta! Remix Inst)
 
 B3. Curious (SoopaSta! Remix Acapella)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29143021851?afid=6142608987){: .button1}
 

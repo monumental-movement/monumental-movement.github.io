@@ -17,7 +17,7 @@ title: Zeni Geva – 10000 Light Years
 Album promo recorded at Chicago Electrical Audio in October 2000.
 
 #### Tracklist
-"""md
+```md
 1. 10,000 Light Years
 2. Implosion
 3. Blastsphere
@@ -26,7 +26,7 @@ Album promo recorded at Chicago Electrical Audio in October 2000.
 6. Last Nanosecond
 7. Hazchem
 8. Auto-Fuck
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 

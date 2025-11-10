@@ -19,11 +19,11 @@ title: ACDC – Moneytalks
 This song is known as one of AC/DC's signature songs and is one of the hits of their career. It is a popular song for rock fans who enjoy air guitar and head banging. In addition, its catchy melodies and powerful performances are enjoyed by a wide range of music fans.
 
 #### Tracklist
-"""md
+```md
 A1. Moneytalks
 
 A2. Borrowed Time
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95995601348?afid=6142608987){: .button1}
 

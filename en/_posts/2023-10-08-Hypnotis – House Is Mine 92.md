@@ -16,14 +16,14 @@ Hypnotist is a British techno unit that was active in the early techno scene. Th
 
 "House Is Mine '92" is Hypnotist's masterpiece and is considered a classic piece of techno music. The song featured a powerful beat, heavy bassline, and sampled vocals, making it a hit on club and rave dance floors.
 
-This song epitomizes the sound and energy of the early 90's techno scene. With its danceable rhythms and unique sampling, listeners will be drawn into a unique world within Hypnotist's music.
+This song epitomizes the sound and energy of the early 90"s techno scene. With its danceable rhythms and unique sampling, listeners will be drawn into a unique world within Hypnotist"s music.
 
 #### Tracklist
-"""md
+```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 

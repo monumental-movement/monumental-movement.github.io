@@ -16,20 +16,20 @@ title: Madonna – True Blue
 
 True Blue, released in 1986, is Madonna's third studio album. The dance-pop album, influenced by Motown sounds, girl groups, and Latin pop, became a worldwide hit.
 
-The jacket photo for ""True Blue'' features the same pose as Olivia Newton-John's 12th studio album ""Physical.'' Both were created by American photographer Herb Ritts.
+The jacket photo for ""True Blue" features the same pose as Olivia Newton-John's 12th studio album ""Physical." Both were created by American photographer Herb Ritts.
 
 #### Tracklist
-"""md
+```md
 A1. Papa Don't Preach
 A2. Open Your Heart
-A3.White Heat
+A3. White Heat
 A4. Live To Tell
 B1. Where's The Party
 B2. True Blue
 B3. La Isla Bonita
 B4. Jimmy Jimmy
 B5. Love Makes The World Go Round
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
 

@@ -23,6 +23,7 @@ Trip hop (abstract hip hop) is a genre that blends sampling/turntable culture wi
 
 ---
 
+
 <style type="text/css">
 
 table, td, th {
@@ -36,9 +37,10 @@ color: #fff;
 }
 </style>
 
+
 ## History and present of trip hop (abstract hip hop)
 
-Originating in Bristol, England in the 1990s, **Trip-Hop** is a unique musical style that is based on hip-hop rhythms and combines downtempo, dub, jazz, ambient, and more.  
+Originating in Bristol, England in the 1990s, **Trip-Hop** is a unique musical style that is based on hip-hop rhythms and combines downtempo, dub, jazz, ambient, and more.
 Led by artists such as Massive Attack, Portishead, and Tricky, its cinematic, melancholy sound was sometimes referred to as "abstract hip-hop."
 
 Trip hop is more than just a music genre, it has spread to the world of **soundtrack production**, fashion, and contemporary art, and it has new possibilities in the age of AI music generation.
@@ -51,10 +53,10 @@ Trip hop is more than just a music genre, it has spread to the world of **soundt
 
 <div class="mermaid">
 flowchart TD
-    A["1990s: Birth of Bristol Massive Attack"] --> B["Portishead: Noir sound"]
-    B --> C["Tricky: Fusion with hip hop"]
-    C --> D["2000s: Expanded to DJ Shadow and UNKLE soundtrack production"]
-    D --> E["2020s: Connecting with AI music generation"]
+A["1990s: Birth of Bristol Massive Attack"] --> B["Portishead: Noir sound"]
+B --> C["Tricky: Fusion with hip hop"]
+C --> D["2000s: Expanded to DJ Shadow and UNKLE soundtrack production"]
+D --> E["2020s: Connecting with AI music generation"]
 </div>
 
 ---
@@ -63,27 +65,29 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    MA90["Massive Attack: 1990s Blue Lines / Protection / Mezzanine"]
-    MA00["2000s 100th Window / Live works"]
-    MA10["2010s Heligoland / Soundtrack Activities"]
+MA90["Massive Attack: 1990s Blue Lines / Protection / Mezzanine"]
+MA00["2000s 100th Window / Live works"]
+MA10["2010s Heligoland / Soundtrack Activities"]
 
 SH90["DJ Shadow: 1990s Endtroducing...."]
-    SH00["2000s The Private Press"]
-    SH10["2010s〜2020s The Less You Know... / Our Pathetic Age"]
+SH00["2000s The Private Press"]
+SH10["2010s〜2020s The Less You Know... / Our Pathetic Age"]
 
 PK90["Portishead: 1990s Dummy / Portishead"]
-    PK10["2008 Third Deepening of Experimentality"]
+PK10["2008 Third Deepening of Experimentality"]
 
 KR90["DJ Krush: 1990s Strictly Turntablized / Meiso"]
-    KR00["2000s~Present Jaku/Saisei - Integration of Japanese elements"]
+KR00["2000s~Present Jaku/Saisei - Integration of Japanese elements"]
 
 MA90 --> MA00 --> MA10
-    SH90 --> SH00 --> SH10
-    PK90 --> PK10
-    KR90 --> KR00
+SH90 --> SH00 --> SH10
+PK90 --> PK10
+KR90 --> KR00
 </div>
 
 ---
+
+
 
 ## Representative artists and works
 <br>
@@ -170,7 +174,7 @@ Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).
 Presenting "Japanese tranquility" globally through world tours. He is respected by the Western hip-hop scene.
 
 #### Production technology
-A style that regards the turntable as an "instrument" and attempts to fuse it with Japanese musical instruments and environmental sounds. Specializes not only in scratching but also in spatial production.
+A style that regards the turntable as an "instrument" and attempts to combine it with Japanese musical instruments and environmental sounds. Specializes not only in scratching but also in spatial production.
 
 #### Video works
 
@@ -187,7 +191,7 @@ The cinematic feel of trip hop is perfect for creating soundtracks. In recent ye
 
 ---
 
-### Summary
+### summary
 
 Trip hop evolved through the heaviness of Massive Attack, the ennui of Portishead, the sample aesthetic of DJ Shadow, and the Japanese serenity of DJ Krush.
 Today, it is evolving into a new era by combining AI music generation and soundtrack production.
@@ -196,11 +200,13 @@ Today, it is evolving into a new era by combining AI music generation and soundt
 
 ### Related columns
 
+
 🔗 [[Column] Anticon — Genealogy of anti-icon and its surrounding music](https://monumental-movement.jp/Column-Anticon)
 
 🔗 [[Column] History of US Hip Hop: Overall picture including regions, clubs, media, and equipment](https://monumental-movement.jp/Column-Hiphop-History)
 
 🔗 [[Column] Overview of West Coast Hip Hop — From its origins to the underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+
 
 🔗 [[Column] East Coast Hip Hop History — From the Bronx to Brooklyn and around the world](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 

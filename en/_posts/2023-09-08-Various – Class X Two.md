@@ -19,23 +19,30 @@ It's amazing and even better than the original version.
 This song alone will make you want to add it to your record collection, so I highly recommend it.
 
 #### Tracklist
-"""md
+```md
 A1. Simple Minds–New Gold Dream
 
-A2. The Mood–Don"t Stop
+
+A2. The Mood–Don't Stop
+
 
 B1. A Flock Of Seagulls–Transfer Affection
 
-B2. Our Daughter"s Wedding–Auto Music
+
+B2. Our Daughter's Wedding–Auto Music
+
 
 C1. Donna Summer–Our Love
 
+
 C2. The Cure–The Walk
+
 
 D1. Heaven 17–Let Me Go
 
-D2. Yazoo–Don"t Go
-""""
+
+D2. Yazoo–Don't Go
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 

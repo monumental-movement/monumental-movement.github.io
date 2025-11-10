@@ -17,13 +17,13 @@ Dharma Bums is a British electronic dance music duo consisting of Jason Hayward 
 "Dharma Means Truth" was released in 1994 by the UK label Zoom Records.
 
 #### Tracklist
-"""md
+```md
 A. Dharma Means Truth
 
 B1. Dharma Means Trance
 
 B2. Dharma Means Dub
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m72375986642?afid=6142608987){: .button1}
 

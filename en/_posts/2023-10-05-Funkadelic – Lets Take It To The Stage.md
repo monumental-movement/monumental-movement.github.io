@@ -12,14 +12,14 @@ title: Funkadelic – Let's Take It To The Stage
 ---
 
 
-"Let's Take It to the Stage" is Funkadelic's seventh studio album, and it encapsulates Funkadelic's elements, such as energetic rhythms, funky guitar riffs, and unique vocal harmonies.
+"Let"s Take It to the Stage" is Funkadelic"s seventh studio album, and it encapsulates Funkadelic's elements, such as energetic rhythms, funky guitar riffs, and unique vocal harmonies.
 
-"Let's Take It to the Stage" features a groovy funk beat and powerful guitar playing, reflecting Funkadelic's experimental approach and dynamic performance.
+"Let"s Take It to the Stage" features a groovy funk beat and powerful guitar playing, reflecting Funkadelic"s experimental approach and dynamic performance.
 
 "Get Off Your Ass and Jam" and "Stuffs and Things" showcase Funkadelic's musical diversity and creativity, embodying their experimental sound and unique style.
 
 #### Tracklist
-"""md
+```md
 A1. Good To Your Earhole
 
 A2. Better By The Pound
@@ -34,12 +34,12 @@ A6. Get Off Your Ass And Jam
 
 B1. I Owe You Something Good
 
-B2.Stuffs & Things
+B2. Stuffs & Things
 
 B3. The Song Is Familiar
 
 B4. Atmosphere
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
 

@@ -16,16 +16,16 @@ title: Turntable Terror – Break
 
 Michel de Hey, also known as Turntable Terror, is a veteran DJ/producer from Rotterdam, Netherlands. Michel de Hey said in an interview that the name he used was Turntable Terror in order to "pursue a harder sound."
 
-"Break" is one of Turntable Terror's signature Breakbeat, Techno, Swingbeat tracks released on the US label Invasion Recordings in 1991. Promo board.
+"Break" is one of Turntable Terror's signature Breakbeat, Techno, Swingbeat tracks released in 1991 on the US label Invasion Recordings. Promo board.
 
 #### Tracklist
-"""md
+```md
 A1. Break (Techno Mix)
 A2. Break (Suprise Mix)
 
 B1. Break (Swing Beat Mix)
-B2.Scream
-""""
+B2. Scream
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24900332251?afid=6142608987){: .button1}
 

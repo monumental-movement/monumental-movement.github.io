@@ -19,12 +19,12 @@ Sergio Del Rio is a DJ and producer from Italy. He also works under the names DJ
 The first track on side A is a remix by Italian producer Fedo.
 
 #### Tracklist
-"""md
+```md
 A. Parazaar (Gambafreaks Vs. Fedo Mix)
 A2. Parazaar (Gambafreaks Vs Mark C. Mix)
 
 B. Parazaar (Gambafreaks Porno Dub)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73303154615?afid=6142608987){: .button1}
 

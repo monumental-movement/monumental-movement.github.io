@@ -19,23 +19,23 @@ Stock, Hausen & Walkman (Andrew Sharpley & Matt Wand) was a British experimental
 It was released in 2000 on Matt Wand's Hot Air label.
 
 #### Tracklist
-"""md
+```md
 A1. Hairy Globe
 A2. IKEA
 A3. Stripper
 A4. Deluxe
-A5.New
+A5. New
 A6. Pizza Hut
 A7. On Loan
 
 B1. Slack
 B2. Creeps
-B3.Spoons
+B3. Spoons
 B4. Smoothy
-B5.Nipples
+B5. Nipples
 B6. Jellywand
-B7.OOPS
-""""
+B7. OOPS
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
 

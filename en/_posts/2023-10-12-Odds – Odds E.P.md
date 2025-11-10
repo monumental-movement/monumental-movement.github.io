@@ -17,11 +17,11 @@ Odds is a psychedelic gore-trance music project by Kris Kylven and Ben Silver (B
 "Odds E.P." is a gore-trance track released in 1995 by the UK label Flying Rhino Records.
 
 #### Tracklist
-"""md
+```md
 A. Flying + To The Sky
 
 AA. Umbellikilisis
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 

@@ -22,12 +22,12 @@ Techno & Drum n Bass track released.
 The B-side is a remix by Laurent Garnier, the world-famous DJ known as Choice.
 
 #### Tracklist
-"""md
+```md
 A. Pressure (Original Mix)
 
-AA. Pressure (Laurentlaboratoiral'ancienne Mix)
-Remix, Producer – Laurent Garnier
-""""
+AA. Pressure (Laurentlaboratoiral'ancienne Mix) 
+Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 

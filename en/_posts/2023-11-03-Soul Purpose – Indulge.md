@@ -18,13 +18,13 @@ Since then, he has released US-style house music and jungle tracks in collaborat
 "Soul Purpose – Indulge" is a rework of Neil Howard's "Indulge" released in 1990.
 
 #### Tracklist
-"""md
+```md
 A. Indulge (M's Classic Mix)
 
 B1. Indulge (M's Dub Mix)
 
 B2. Indulge (M's Reprise)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
 

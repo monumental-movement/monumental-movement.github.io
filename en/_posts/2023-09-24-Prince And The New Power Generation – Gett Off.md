@@ -15,22 +15,22 @@ title: Prince And The New Power Generation – Gett Off
 
 The song, a single from the album Diamonds and Pearls, is known as a popular song for Prince's dance floor performances and live shows, and is one of the hits of his music career.
 
-"Gett Off" features a funky beat and groovy bassline, complemented by Prince's energetic vocal performance, making it an iconic part of Prince's music career and a song with special meaning to his fans and music lovers.
+"Gett Off" features a funky beat and groovy bassline, complemented by Prince"s energetic vocal performance, making it an iconic part of Prince"s music career and a song with special meaning to his fans and music lovers.
 
 #### Tracklist
-"""md
-A1 Gett Off (Extended Remix)
+```md
+A1  Gett Off (Extended Remix)
 
-A2 Gett Off (Houstyle)
+A2  Gett Off (Houstyle)
 
-A3 Violet The Organ Grinder
+A3  Violet The Organ Grinder
 
-B1 Gett Off (Flutestramental)
+B1  Gett Off (Flutestramental)
 
-B2 Gangster Glam
+B2  Gangster Glam
 
-B3 Clockin' The Jizz (Instrumental)
-""""
+B3  Clockin' The Jizz (Instrumental)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 

@@ -19,15 +19,15 @@ K-Ci & JoJo is an American R&B duo consisting of brothers Cedric "K-Ci" Haley an
 
 K-Ci & JoJo are also the lead singers of the R&B group Jodeci, whose 1998 smash hit "All My Life" received multiple Grammy nominations.
 
-"Don't Rush" is a single cut from K-Ci & JoJo's debut album "Love Always."
+"Don"t Rush" is a single cut from K-Ci & JoJo"s debut album "Love Always."
 
 #### Tracklist
-"""md
+```md
 A1. Don't Rush (Take Love Slowly) (Ignorants Remix)
 A2. Don't Rush (Take Love Slowly) (Yogi Remix)
 
 B1. All My Life (Curtis & Moore Club Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28759546464?afid=6142608987){: .button1}
 

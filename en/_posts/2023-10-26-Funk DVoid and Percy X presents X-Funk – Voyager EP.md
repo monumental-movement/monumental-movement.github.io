@@ -15,13 +15,13 @@ title: Funk D'Void & Percy X presents X-Funk – Voyager EP
 Acid techno released on the Soma label by X-Funk, a project of techno/tech house DJ/producer Funk D'Void (Lars Sandberg) and DJ Percy X (Tony Scott) from Glasgow, Scotland.
 
 #### Tracklist
-"""md
-A.Voyager
+```md
+A. Voyager
 
 AA1. Let's Go Back
 
 AA2. Breaking Out
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26753507749?afid=6142608987){: .button1}
 

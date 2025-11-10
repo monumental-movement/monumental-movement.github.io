@@ -21,13 +21,13 @@ The second track on side A is a techno track by Weichentechnikk and Bazz-Dee, wh
 A single-sided record with only side A released in 2004 by German techno label Brachial.
 
 #### Tracklist
-"""md
+```md
 A1. Bazz-Dee & Waldhaus – I Was Made For Loving Your
 
 A2. Bazz-Dee & Weichentechnikk – Samurai Pizza Cats
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vs2si5KHWM8?si=VH_KYUxRTQEeOM5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

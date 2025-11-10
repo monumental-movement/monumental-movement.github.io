@@ -16,13 +16,14 @@ The Cage is a band formed mainly by Nona Hendryx, with the participation of Rust
 
 "Do What Ya Wanna Do", released in 1982, is a cover version of a disco track released by T-Connection in 1977, arranged in a Funk Disco style. It is highly acclaimed as a crossover between the disco scene and post-punk.
 
+
 #### Tracklist
-"""md
+```md
 A. Do What Ya Wanna Do (Long Version)
 
 B1. Do What Ya Wanna Do (Dub Version)
 B2. The Slammer
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 

@@ -15,7 +15,7 @@ title: Alek Stark – We Love You
 "Alek Stark – We Love You" is an electro/synth pop track by Spanish electro producer/artist Alek Stark (Serafín Gallego), released in 2002 on the Munich-based electronic music label Disko Bombs (Disko B).
 
 #### Tracklist
-"""md
+```md
 A1. We Love You (Extended)
 
 A2. Elektric Love (Shock By Shock)
@@ -23,7 +23,7 @@ A2. Elektric Love (Shock By Shock)
 B1. Lights & Sex
 
 B2. Lights & Sex (Robert Calvin Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44739620198?afid=6142608987){: .button1}
 

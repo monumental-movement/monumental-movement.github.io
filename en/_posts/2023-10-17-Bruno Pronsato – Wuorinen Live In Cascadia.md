@@ -19,13 +19,13 @@ Bruno Pronsato (Steven Ford) is an American DJ/producer living in Berlin.
 The second track on Side A is a remix by Michel Baumann, a DJ/producer based in Stuttgart, Germany.
 
 #### Tracklist
-"""md
-A1.
+```md
+A1. Wuorinen
 
 A2. Wuorinen (Jackmate Remix)
 
 B1. Live In Cascadia
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76114508673?afid=6142608987){: .button1}
 

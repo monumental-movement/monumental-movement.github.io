@@ -19,11 +19,11 @@ Bangana is a Swedish duo consisting of Alf Tumble and Magnus Rydén. Also active
 "Refresh / Bang Bang Bang" is a Tribal, Deep House, Broken Beat track released by Swedish label HEYA HIFI in 2006.
 
 #### Tracklist
-"""md
-A1.Refresh
+```md
+A1. Refresh
 
 B1. Bang Bang Bang
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
 

@@ -16,15 +16,18 @@ title: Treplec – Fliege Jürgen! EP
 Released in 2006, this two-disc EP from Milnormodern label owner Nils Scheibe's project Treplec features groovy tracks with soothing percussive, minimalist rhythms, thick, low-pitched bass, and mysterious melodies and pads.
 
 #### Tracklist
-"""md
+```md
 A. Banda Core
+
 
 B. Tiotacco
 
-C. Bernd, Bauch und Birne
+
+C. Bernd, Bauch Und Birne
+
 
 D. Herr Jeminee
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10439786369?afid=6142608987){: .button1}
 

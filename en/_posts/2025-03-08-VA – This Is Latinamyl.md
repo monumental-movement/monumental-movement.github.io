@@ -19,8 +19,9 @@ A compilation album released in 1997 by breakbeat label Fused & Bruised, founded
 
 Simon Shackleton also performs under the names pHrack R and fUtUrEcOrE, as well as Elite Force.
 
+
 #### Tracklist
-"""md
+```md
 1. Elite Force – Spirito
 2. Mr. Dan – 48 Margarita Shuffle
 3. Subtropic – Forget Me Not
@@ -31,7 +32,7 @@ Simon Shackleton also performs under the names pHrack R and fUtUrEcOrE, as well 
 8. Raw Deal – Unseen Truth
 9. Elite Force – Saturnalia (Panamatic Redesign)
 10. pHrack R – Di Genera
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
 

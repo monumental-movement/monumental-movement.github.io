@@ -17,13 +17,13 @@ Sexual Harrassment is an American project centered around DJ and producer Lynn T
 The original version of "I Need A Freak" was released in 1989. This record is a reissue edition released in 2004.
 
 #### Tracklist
-"""md
-A.I Need A Freak (Long Version)
+```md
+A. I Need A Freak (Long Version)
 
 B1. I Need A Freak (Short Version)
 
 B2. I Need A Freak (Instrumental Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91285110747?afid=6142608987){: .button1}
 

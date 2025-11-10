@@ -18,13 +18,13 @@ One Day As A Lion is a collaboration between Rage Against the Machine vocalist Z
 One Day As A Lion is characterized by a style that mixes alternative rock and rap.
 
 #### Tracklist
-"""md
-1.Wild International
-2.Ocean View
-3.Last Letter
-4. If You Fear Dying
-5. One Day As A Lion
-""""
+```md
+1.  Wild International
+2.  Ocean View
+3.  Last Letter
+4.  If You Fear Dying
+5.  One Day As A Lion
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
 

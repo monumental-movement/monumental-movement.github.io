@@ -20,7 +20,7 @@ Tracks 11 & 12 are bonus tracks only for the Japanese version.
 The jacket design is by Julian House, also known as House, a UK graphic designer who has worked on designs for Stereolab, Oasis, The Prodigy, Broadcast, Razorlight, and more.
 
 #### Tracklist
-"""md
+```md
 1. Nothing At All
 2. You Know What I Mean
 3. Stars And Heroes
@@ -34,8 +34,8 @@ The jacket design is by Julian House, also known as House, a UK graphic designer
 11. Nothing At All (King Unique Dirty)
 12. Nothing At All (Bob Rives Dub)
 
-11&12 bonus track
-""""
+11&12ボーナストラック
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
 

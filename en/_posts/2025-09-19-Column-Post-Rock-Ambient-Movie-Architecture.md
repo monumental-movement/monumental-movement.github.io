@@ -17,10 +17,11 @@ title: '[Column] Post-rock/ambient interaction with film and architecture'
 
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
-The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.  
+The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.
 Here, in addition to historical masterpieces, we will organize interactions with movies and architecture and ambient experiences in urban spaces.
 
 ---
+
 
 <style type="text/css">
 
@@ -35,6 +36,7 @@ color: #fff;
 }
 </style>
 
+
 ### Interaction with movies
 
 Ambient/post-rock has had a great influence on film music, and has become established as a method of manipulating the audience's sense of time and spatial experience.
@@ -47,7 +49,7 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 | *Solaris* (2002 edition) | Eduard Artemyev | 2002 | Expanding psychological space with cosmic ambient |
 | *There Will Be Blood* | Jonny Greenwood | 2007 | Post-classical + noise creates tension and loneliness |
 
-**Points**
+**point**
 - Post-rock technique: Extend psychological time with a loop structure that repeats guitar and piano
 - Ambient method: Expand the sense of space with sustained sounds and drones
 
@@ -65,7 +67,7 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 | Tate Modern Turbine Hall | Various sound installations | 2000s | Drone sound and audience experience expansion in a huge space |
 | Oculus, NYC | Sound installation by Steve Reich / La Monte Young influence | 2016 | Integrating architectural reverb and urban acoustic design |
 
-**Points**
+**point**
 - The themes of the urban space are "extension of time" and "fusion with environmental sounds"
 - In architecture, it is possible to design by calculating the volume, reflection, and movement of sound.
 - Music functions as an experience of the entire space, rather than just listening to it alone.
@@ -76,14 +78,14 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 
 <div class="mermaid">
 flowchart LR
-    Music["Post-rock / Ambient"]
-    Film["Movie"]
-    Architecture["Architecture/urban space"]
+Music["Post-rock / Ambient"]
+Film["Movie"]
+Architecture["Architecture/urban space"]
 
 Music --> Film
-    Music --> Architecture
-    Film --> Architecture
-    Architecture --> Film
+Music --> Architecture
+Film --> Architecture
+Architecture --> Film
 
 </div>
 
@@ -92,6 +94,7 @@ Music → Film: Music manipulates psychological space and sense of time.
 Music → Architecture: Music designs spatial experiences
 
 Film ↔ Architecture: Interaction between visual art and spatial design
+
 
 ---
 
@@ -152,11 +155,12 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 ---
 
+
 ### Summary
 
 Post-rock/ambient is not just a music genre, but has evolved as a method of designing time and space.
 
-Psychological expansion in film: time manipulation with drones, loops, and soundscapes
+Psychological expansion in film: Manipulating time with drones, loops, and soundscapes
 
 Applications in architecture and urban planning: the experience of staying in a space, walking lines, and harmony with urban environmental sounds
 

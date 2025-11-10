@@ -18,12 +18,12 @@ New Life is a project in which Ann-Marie Smith, known as the vocalist of Italian
 A is a remix by Jonny L, a British drum & bass producer and former member of the garage duo True Steppers.
 
 #### Tracklist
-"""md
+```md
 A. Got 2 B Free (Paradise Mix)
 
 AA1. Got 2 B Free (Digit Mix)
 AA2. Got 2 B Free (Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
 

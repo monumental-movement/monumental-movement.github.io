@@ -16,15 +16,15 @@ title: Inland Knights – Filter Interference
 This is an EP by Inland Knights, a unit composed of Andy Riley and Laurence Ritchie, released in 1999 on the UK label "Drop Music".
 
 #### Tracklist
-"""md
-A1. Don't forget
+```md
+A1. Don't Forget
 
-A2.Try
+A2. Try
 
 B1. Over You
 
 B2. Believe
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82392456293?afid=6142608987){: .button1}
 

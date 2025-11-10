@@ -17,13 +17,13 @@ Peter Frank Adshead, also known as Baby Ford, is a British electronic music prod
 This record is a house mix in which BabyFord sampled and covered Marc Bolan & T. Rex's 1989 hit song "Children of the Revolution" in a house/acid house/electro house style, and was released in 1989 on the UK independent label Rhythm King.
 
 #### Tracklist
-"""md
+```md
 A1. Children Of The Revolution (Inca Love Mix)
 A2. Children Of The Revolution (Inca Edit)
 
 B1. My Innersence
 B2. Children Of The Revolution (Bumbino)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51998095392?afid=6142608987){: .button1}
 

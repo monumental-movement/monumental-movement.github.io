@@ -17,7 +17,7 @@ title: 1200 Mic"s – Magic Numbers
 "Magic Numbers" is 1200 Micrograms' third studio album and features their psychedelic trance and full-on sound. Their music has become popular in electronic music scenes such as dances and festivals.
 
 #### Tracklist
-"""md
+```md
 1.The Magic Numbers Theme
 
 2.Numberstruck
@@ -31,7 +31,7 @@ title: 1200 Mic"s – Magic Numbers
 6.Double Helix
 
 7.Numbers Are Alive
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
 

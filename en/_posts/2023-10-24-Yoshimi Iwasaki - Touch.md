@@ -18,14 +18,14 @@ title: Yoshimi Iwasaki – Touch
 
 Lyrics – Kangjinhua
 
-Music & Arrangement – Hiroaki Serizawa
+Music & Arrangement – ​​Hiroaki Serizawa
 
 #### Tracklist
-"""md
-A. Touch
+```md
+A. タッチ
 
-B. Without you
-""""
+B. 君がいなければ
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
 

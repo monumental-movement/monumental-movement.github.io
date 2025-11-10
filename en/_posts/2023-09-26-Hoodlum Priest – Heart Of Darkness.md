@@ -19,27 +19,27 @@ As the name suggests, "Heart of Darkness" is a song that deals with the themes o
 "Heart of Darkness" is an album that truly embodies Fudrum Priest's unique musical style and artistic expression.
 
 #### Tracklist
-"""md
+```md
 1. Introduction To The Heart Of Darkness
 
-2.Rock Drill
+2. Rock Drill
 
 3. Tyrell
 
 4. C Horse
 
-5.Caucasian
+5. Caucasian
 
-6.Sex Spirit
+6. Sex Spirit
 
-7.The Walker
+7. The Walker
 
 8. Talk Dirty
 
 9. Deep Dance
 
 10. Rebel Angel
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
 

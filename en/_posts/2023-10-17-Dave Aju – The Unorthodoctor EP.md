@@ -18,7 +18,7 @@ Marc Barrite, also known as Dave Aju, is an American DJ/producer based in San Fr
 Dave Aju also performs as Kamm with Alland Byallo, Kenneth Scott, and Marc Smith.
 
 #### Tracklist
-"""md
+```md
 A1. Smog Check
 
 A2. Mallrats
@@ -26,7 +26,7 @@ A2. Mallrats
 B1. Sourmash
 
 B2. Talk Shows
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
 

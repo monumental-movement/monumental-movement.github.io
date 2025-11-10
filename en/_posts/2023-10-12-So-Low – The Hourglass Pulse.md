@@ -16,13 +16,13 @@ title: So-Low – The Hourglass Pulse
 'So-Low – The Hourglass/Pulse' was released in 1992 on Essex-based progressive house label X-Gate Records.
 
 #### Tracklist
-"""md
+```md
 A. The Hourglass (Time Mix)
 
-AA1.Pulse
+AA1. Pulse
 
 AA2. The Hourglass (Original Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80454443791?afid=6142608987){: .button1}
 

@@ -15,17 +15,18 @@ title: '[Column] Creation alone: ​​The era of the bedroom producer'
 ---
 
 
-## 序章：誰もいない部屋から世界へ
+## Prologue: From an empty room to the world
 
-文：mmr｜テーマ：パソコン一台から世界へ。ベッドルームで生まれる音楽の革命史と、その社会的・文化的意味
 
-音楽制作が「部屋」で完結するようになったのは、決して昨日今日の話ではない。  
-しかし、それが“当たり前”になったのは、デジタル化が極限まで進んだ21世紀以降のことだ。  
-かつてスタジオの壁の中に閉じ込められていた音楽制作の魔法は、ノートパソコンと安価なオーディオインターフェイス、DAW（Digital Audio Workstation）によって、ついに誰の部屋にも降りてきた。
+Text: mmr｜Theme: From one computer to the world. The revolutionary history of music born in the bedroom and its social and cultural meanings
 
-ベッドルームプロデューサーとは、ただ一人で音を生み出す者ではない。  
-彼らは**音楽産業の「民主化」を体現する存在**であり、また同時に「孤独の創造性」を象徴する存在でもある。  
-SpotifyやSoundCloudを介して世界に直接アクセスできる今日、ベッドルームはもはや“私的空間”ではない。それはネットワークを通じて、**新たな音楽都市＝デジタル都市の拠点**となっている。
+It's no longer just yesterday that music production can now be completed in a ""room.''
+However, this has become "normal" since the 21st century, when digitalization has reached its maximum.
+The magic of music production, once confined to the walls of a studio, has finally descended into everyone's rooms thanks to laptops and inexpensive audio interfaces, DAWs (Digital Audio Workstations).
+
+A bedroom producer is not just someone who creates sound alone.
+They are the embodiment of the ""democratization" of the music industry, and at the same time they are also a symbol of the ""creativity of solitude."
+Nowadays, with direct access to the world via Spotify and SoundCloud, the bedroom is no longer a "private space." Through its network, it has become the base of a new music city = digital city.
 
 ---
 
@@ -42,129 +43,133 @@ color: #fff;
 }
 </style>
 
-## 第1章：録音技術の民主化 — カセットMTRからDAWへ
 
-### カセットMTRが開いた個人制作の扉
 
-1980年代、TASCAMやFostexなどがリリースした**カセットMTR（マルチトラックレコーダー）**は、ホームレコーディング文化の原点を築いた。  
-ローファイな音質であっても、自宅で多重録音できるという事実は、アマチュアミュージシャンに“自己完結”の可能性を与えた。  
-坂本龍一が自宅スタジオでデモを作り、宅録アーティストたちがZINEとともに音源を配布していた時代、その萌芽はすでに始まっていたのだ。
+## Chapter 1: Democratization of recording technology — from cassette MTR to DAW
 
-### パソコンとMIDI革命
+### Cassette MTR opens the door to personal production
 
-1990年代に入り、MIDI（Musical Instrument Digital Interface）が一般化。  
-RolandやYamahaのシンセサイザーとパソコンを接続し、**「作曲」と「録音」の境界が消える**時代が始まる。  
-ここで登場したのが「DTM（Desk Top Music）」という日本独自の言葉だった。  
-コンポーザーは机の上で完結するスタジオを手に入れ、音楽は個人の机から流れ出すようになった。
+In the 1980s, the **cassette MTR (multi-track recorder)** released by companies such as TASCAM and Fostex laid the origin of home recording culture.
+The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency''.
+The seeds of this development had already begun when Ryuichi Sakamoto was making demos in his home studio and home-recording artists were distributing their sound sources along with zines.
 
----
+### Computer and MIDI revolution
 
-## 第2章：ソフトウェア・スタジオの誕生
-
-### DAWという革命
-
-2000年代、Pro ToolsやCubase、Logic Pro、そしてAbleton Liveが登場し、DTMは**DAW（Digital Audio Workstation）**へと進化した。  
-録音・編集・ミキシング・マスタリングすべてが一台のPCで完結する。  
-さらに、**プラグイン音源**と**サンプルパック**の普及によって、物理的なスタジオ機材が不要になった。
-
-これにより、ベッドルームプロデューサーはスタジオを“模倣する”必要がなくなった。  
-彼らはむしろ、**「制約された空間」そのものを表現の源泉にする**ようになった。  
-外のノイズ、ベッドのきしみ、深夜の呼吸音。それらは音楽の一部として取り込まれた。
+In the 1990s, MIDI (Musical Instrument Digital Interface) became popular.
+An era began when Roland and Yamaha synthesizers were connected to computers, and the boundaries between ""composition" and ""recording" disappeared.
+This is where the uniquely Japanese term ""DTM (Desk Top Music)'' appeared.
+Composers now have desk studios, and music flows from their personal desks.
 
 ---
 
-## 第3章：SoundCloudとYouTubeの時代 — 「共有」と「発見」
+## Chapter 2: Birth of Software Studio
 
-### 新しい“リリース”の形
+### The revolution called DAW
 
-2007年のSoundCloud、2005年のYouTube。  
-これらのプラットフォームは、**個人が世界へ直接発信する窓口**となった。  
-従来のレーベル契約や流通網を経ずとも、データ一つで世界のリスナーへ届く時代が来たのだ。
+In the 2000s, with the advent of Pro Tools, Cubase, Logic Pro, and Ableton Live, DTM evolved into a DAW (Digital Audio Workstation).
+Recording, editing, mixing, and mastering can all be completed on one PC.
+Furthermore, the proliferation of **plug-in sound sources** and **sample packs** has made physical studio equipment unnecessary.
 
-### 発見される個人たち
-
-Clairo、Cuco、Joji、Porter Robinson、Madeon、Sasakure.UK…。  
-彼らの共通点は、**「部屋の中で始まった」こと**。  
-だが同時に、それが**グローバルな音楽現象**となったことでもある。  
-彼らはベッドルームの静寂の中で、YouTubeやSNSを通じて世界中の若者と感情を共有した。
+This eliminates the need for bedroom producers to "imitate" studios.
+Rather, they began to use the ""restricted space'' itself as a source of expression.
+Noises from outside, the creak of the bed, the sound of breathing in the middle of the night. They were incorporated as part of the music.
 
 ---
 
-## 第4章：孤独の創造 — 精神と身体の関係
+## Chapter 3: The era of SoundCloud and YouTube — "Share" and "Discover"
 
-ベッドルームは同時に、孤立の象徴でもある。  
-すべてを自分で決め、すべてを自分で作り上げる自由は、裏を返せば**すべてを自分が抱え込む不安**でもある。  
-制作・リリース・宣伝・SNS対応まで、一人で完結できるがゆえに、**分業社会の支えがなくなった**。
+### New "release" form
 
-だが、その孤独こそが現代の創造性の源泉になっている。  
-音楽が「社会的行為」から「個的瞑想」へと変わったのだ。  
-内省の果てに生まれたサウンドは、かつてないほどパーソナルで、同時にユニバーサルでもある。
+SoundCloud in 2007, YouTube in 2005.
+These platforms have become ""windows'' for individuals to communicate directly to the world.
+The era has come when music can reach listeners around the world with just one piece of data, without having to go through traditional label contracts or distribution networks.
 
----
+### Individuals discovered
 
-## 第5章：AIとモジュラー — ベッドルームの再拡張
-
-2020年代、AI作曲やモジュラーシンセが再びベッドルームへ戻ってきた。  
-AIはアシスタントとして、人間の創造を拡張し、モジュラーは**「偶然性」**というアナログ的感性を取り戻した。  
-音楽制作は「個の世界」から「個と機械の共創」へと進化している。
-
-DAWの画面上で生成された波形は、まるでデジタル絵画のようだ。  
-いまやベッドルームは、音楽だけでなく**総合的な創作のアトリエ**へと変貌した。
+Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….
+What they all have in common is that they all started in a room.
+But at the same time, it has become a global musical phenomenon.
+In the silence of their bedrooms, they shared their feelings with young people around the world through YouTube and social media.
 
 ---
 
-## 第6章：日本のベッドルームカルチャー
+## Chapter 4: Creating solitude — the relationship between mind and body
 
-### 初音ミクとボカロの衝撃
+The bedroom is also a symbol of isolation.
+The freedom to decide everything by yourself and create everything by yourself, on the other hand, also brings about the anxiety of being responsible for everything.
+Because one person can handle everything from production, release, promotion, and social media support, **the support of a society with a division of labor is gone**.
 
-日本では、2007年に登場した**初音ミク**が、ベッドルーム文化の象徴となった。  
-音声合成ソフトとインターネットが融合し、匿名のプロデューサーが次々とヒット曲を生み出す。  
-supercell、DECO27、ryo、wowaka…。  
-彼らの活動は、**「作者不在のポップミュージック」**という新たな構造を提示した。
-
-### ニコニコ動画とYouTubeの交差点
-
-コメント文化や二次創作が重層的に絡み合う中で、ベッドルームは**共同制作の場**へと変化した。  
-「一人で作る」ことが、やがて「多人数で響き合う」ネットワークの中で意味を持つようになったのだ。
+However, that solitude is the source of modern creativity.
+Music has changed from a ""social act" to ""individual meditation."
+The result of introspection is a sound that is at once more personal and universal than ever before.
 
 ---
 
-## 図解：現代の音楽制作構造
+## Chapter 5: AI and Modular — Re-extending the Bedroom
+
+In the 2020s, AI composition and modular synths are back in the bedroom.
+AI expands human creativity as an assistant, and modularity restores the analog sensibility of ""contingency.''
+Music production is evolving from the ""world of individuals" to ""co-creation between individuals and machines."
+
+The waveforms generated on the DAW screen look like digital paintings.
+Nowadays, the bedroom has transformed into an atelier for not only music, but also for all-round creation.
+
+---
+
+## Chapter 6: Japanese Bedroom Culture
+
+### Impact of Hatsune Miku and Vocaloid
+
+In Japan, **Hatsune Miku**, introduced in 2007, has become a symbol of bedroom culture.
+Through the fusion of voice synthesis software and the Internet, an anonymous producer creates hit songs one after another.
+supercell, DECO27, ryo, wowaka...
+Their activities presented a new structure called ""pop music without an author.''
+
+### The intersection of Niconico Douga and YouTube
+
+As comment culture and derivative works intertwine in multiple layers, the bedroom has transformed into a place for collaborative production.
+""Creating by one person" eventually became meaningful in a network where ""many people resonated together."
+
+---
+
+## Illustration: Modern music production structure
 
 <div class="mermaid">
 
 flowchart TD
-    A["Bedroom（個人空間）"] --> B["DAW（制作・編集）"]
-    B --> C["SNS / SoundCloud / YouTube（発表）"]
-    C --> D["Listener（世界中のリスナー）"]
-    D --> E["フィードバック（コメント・シェア）"]
-    E --> A["再制作（アップデート・リミックス）"]
-    classDef default fill:#fff8d1,stroke:#555,color:#333;
+A["Bedroom (personal space)"] --> B["DAW (production/editing)"]
+B --> C["SNS / SoundCloud / YouTube (announcement)"]
+C --> D["Listener (listeners around the world)"]
+D --> E["Feedback (comment/share)"]
+E --> A["Reproduction (Update Remix)"]
+classDef default fill:#fff8d1,stroke:#555,color:#333;
+
 
 </div>
 
 ---
 
-## 年表：ベッドルーム制作の進化（1970–2025）
+## Chronology: Evolution of Bedroom Creation (1970–2025)
 
 <div class="mermaid">
 
 timeline
-    title ベッドルーム制作の進化（1970–2025）
-    1970 : 自宅録音文化がローファイ運動とともに萌芽
-    1983 : MIDI規格誕生、DTMの概念が確立
-    1995 : Cubase / Logic が一般ユーザーに普及
-    2005 : YouTube登場、映像と音楽が自宅で融合
-    2007 : SoundCloudと初音ミクの登場、個人制作が世界に拡散
-    2013 : Porter Robinson『Worlds』、ベッドルーム美学のメインストリーム化
-    2020 : コロナ禍により宅録制作が標準化
-    2025 : AI・モジュラー・ネット共同制作が融合した“新しい個人音楽”の時代へ
+title Evolution of bedroom production (1970–2025)
+1970: Home recording culture emerges with the lo-fi movement
+1983: MIDI standard is born and the concept of DTM is established.
+1995: Cubase/Logic becomes popular among general users
+2005: YouTube debuts, merging video and music at home
+2007: SoundCloud and Hatsune Miku appear, and personal productions spread around the world
+2013: Porter Robinson's "Worlds" mainstreams bedroom aesthetics
+2020: Home recording production becomes standard due to the coronavirus pandemic
+2025: Toward an era of "new personal music" that combines AI, modular, and internet collaboration
 
 </div>
 
 ---
 
-## 結論：ベッドルームは都市のもう一つの形である
+## Conclusion: The bedroom is another form of the city
+
 
 The sound of Bedroom Producer is the sound of solitude echoing in a corner of the city.
 At the same time, it is also the sound of solidarity that connects countless rooms through a network.
@@ -175,4 +180,4 @@ And those hands are no longer connected through the mouse or MIDI keyboard.
 Directly connected to the entire world.
 
 >"From my room to your world."
->- That may be the most honest picture of 21st century music.
+>- That may be the most honest picture of music in the 21st century.

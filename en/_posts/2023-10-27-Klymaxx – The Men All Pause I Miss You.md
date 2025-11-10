@@ -16,11 +16,11 @@ title: Klymaxx – The Men All Pause / I Miss You
 Klymaxx is an 80's all-girl funk band created by Bernadette Cooper. "I Miss You" became a worldwide hit.
 
 #### Tracklist
-"""md
+```md
 A. The Men All Pause
 
-B.I Miss You
-""""
+B. I Miss You
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95900301247?afid=6142608987){: .button1}
 

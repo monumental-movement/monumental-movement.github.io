@@ -24,13 +24,13 @@ Krister (Krister Linder), who is featured on B2, is a Swedish electronic musicia
 Techno/Deep House/Electro/Downtempo was released in 2004 by Truesoul, a record label founded by Adam Beyer and based in Stockholm, Sweden.
 
 #### Tracklist
-"""md
+```md
 A1. True Blue (Club Mix) Featuring – Aaron
 A2. Electro Magnetic Featuring – Aaron
 
 B1. Babylon
 B2. For Her Featuring – Krister
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
 

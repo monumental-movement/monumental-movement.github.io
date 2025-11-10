@@ -20,8 +20,9 @@ Their debut studio album, Storms of Life, released in 1986, was a huge commercia
 
 Randy Travis is known as one of the people who contributed to the development of neo-traditional country, along with Reba McEntire, George Strait, Toby Keith, and others.
 
+
 #### Tracklist
-"""md
+```md
 A1. On The Other Hand
 A2. The Storms Of Life
 A3. My Heart Cracked (But It Did Not Break)
@@ -33,7 +34,7 @@ B2. Send My Body
 B3. Messin' With My Mind
 B4. Reasons I Cheat
 B5. There'll Always Be A Honky Tonk Somewhere
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 

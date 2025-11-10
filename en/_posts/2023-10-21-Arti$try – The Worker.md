@@ -15,13 +15,13 @@ title: Arti$try – The Worker
 Arti$try is a unit formed by Marco Verkuylen and Benjamin Kuyten. "Arti$try – The Worker" was released in 1998 on the Dutch house label Fresh Fruit Records.
 
 #### Tracklist
-"""md
-A1.The Worker
+```md
+A1. The Worker
 
 B1. Through The Nite
 
 B2. Ha-Pi-Ness
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88863230519?afid=6142608987){: .button1}
 

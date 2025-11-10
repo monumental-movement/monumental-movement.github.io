@@ -22,12 +22,12 @@ A is a remix by German DJ/producer Terry Lee Brown Jr. (Norman Feller).
 B2 is a remix by Hungarian DJ/producer Andro (Gábor Baki).
 
 #### Tracklist
-"""md
+```md
 A1. Luv U (Terry Lee Brown Jr Rmx)
 
 B1. Luv U (Original)
 B2. Luv U (Andro Rmx)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m35663869939?afid=6142608987){: .button1}
 

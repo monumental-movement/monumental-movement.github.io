@@ -16,13 +16,13 @@ title: Seiko Matsuda – Blue Coral Reef
 "Seiko Matsuda – Blue Coral Reef" was released in 1980.
 
 #### Tracklist
-"""md
-A. Blue coral reef
+```md
+A. 青い珊瑚礁 
 
-B. True Love, kiss me softly
-""""
+B. True Love そっとくちづけて
+```
 
-Arrangement – Masaaki Omura
+Arrangement – ​​Masaaki Omura
 Compose – Yuichiro Oda
 Lyrics – Noriko Miura
 Cover photo – Kishin Shinoyama

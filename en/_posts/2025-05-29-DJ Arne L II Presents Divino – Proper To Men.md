@@ -21,13 +21,13 @@ The first track on Side A is a remix by disco project C.O.P. Project.
 The second track on side A is a remix by Jan Miesner & Lars Böge's duo Phantom Sheriffs.
 
 #### Tracklist
-"""md
+```md
 A1. Proper To Men (C.O.P. Project Mix)
 A2. Proper To Men (Phantom Sheriffs Rmx)
 
 B1. Proper To Men (Original Mix)
 B2. Proper To Men (DJ Arne L. II Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33236670391?afid=6142608987){: .button1}
 

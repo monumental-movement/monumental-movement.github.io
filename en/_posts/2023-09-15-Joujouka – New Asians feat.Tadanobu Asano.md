@@ -13,10 +13,10 @@ title: Joujouka – New Asians feat. Tadanobu Asano
 ---
 
 
-An analog version of the major single by Joujouka, a unit led by DJ TSUYOSHI. A work based on the concept of a line from Bruce Lee's movie, ""Don't think, just feel'', based on the pursuit of sound with an Asian theme. An ambitious work with Tadanobu Asano as the lyricist, composer, and vocalist.
+An analog version of the major single by Joujouka, a unit led by DJ TSUYOSHI. A work based on the concept of a line from Bruce Lee"s movie, ""Don"t think, just feel'', based on the pursuit of sound with an Asian theme. An ambitious work with Tadanobu Asano as the lyricist, composer, and vocalist.
 
 #### Tracklist
-"""md
+```md
 A1. NEW ASIANS
 
 A2. DON'T THINK, FEEL!!JOUJOUKA Remix
@@ -24,7 +24,7 @@ A2. DON'T THINK, FEEL!!JOUJOUKA Remix
 B1.DON'T THINK,FEEL!! feat.TADANOBU ASANO
 
 B2. DON'T THINK FEEL!!Captain Funk "CF in darkness"Version(Dub)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17303472246?afid=6142608987){: .button1}
 

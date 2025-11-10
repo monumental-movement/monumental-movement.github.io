@@ -19,8 +19,9 @@ The first track on the B-side is a remix by Oliver Lieb, a DJ and producer who h
 
 The second track on side B is a self-club mix by Ferry Corsten, also known as System F.
 
+
 #### Tracklist
-"""md
+```md
 A1. Cry (CRW Mix)
 
 A2. Cry (Radio Edit)
@@ -28,7 +29,7 @@ A2. Cry (Radio Edit)
 B1. Cry (Oliver Lieb Remix)
 
 B2. Cry (Ferry Corsten Club Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
 

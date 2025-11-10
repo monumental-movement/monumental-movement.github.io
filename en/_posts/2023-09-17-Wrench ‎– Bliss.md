@@ -18,33 +18,45 @@ Wrench was formed in July 1992 by Shige, Azusa Sakamoto, Tomohiro Matsuda, and F
 This album is a double LP set released in 2000.
 
 #### Tracklist
-"""md
-A1 Sound Wave
+```md
+A1  Sound Wave
 
-A2 Give It A Shot
 
-A3 To Water
+A2  Give It A Shot
 
-A4 Go A Way!
 
-A5 Black Box
+A3  To Water
 
-B1 Cloud - Dub
 
-B2 Sky, Liquid, Men
+A4  Go A Way !
 
-B3 Eyes On The Boiling Point
 
-B4 Send The Wave
+A5  Black Box
 
-C1 Proof Of A Human Being
 
-C2 It"s Illusion
+B1  Cloud - Dub
 
-D1 Passion
 
-D2 Blood Type Mysterious
-""""
+B2  Sky, Liquid, Men
+
+
+B3  Eyes On The Boiling Point
+
+
+B4  Send The Wave
+
+
+C1  Proof Of A Human Being
+
+
+C2  It’s Illusion
+
+
+D1  Passion
+
+
+D2  Blood Type Mysterious
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 

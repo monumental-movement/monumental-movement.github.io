@@ -19,7 +19,7 @@ Nu Romantix is ​​an album released by DMX Krew in 1998, with a unique sound 
 The album uses vintage synthesizers and drum machines, paying homage to the electronic music of the 1980s and early '90s, while also incorporating contemporary elements, and is praised for its nostalgic approach to electronic music as well as its forward-looking sound.
 
 #### Tracklist
-"""md
+```md
 1.Come To Me
 
 2.Can U Feel The Power?
@@ -51,7 +51,7 @@ The album uses vintage synthesizers and drum machines, paying homage to the elec
 15.Place Called Love
 
 16.I'm All Alone (Cylob's Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 

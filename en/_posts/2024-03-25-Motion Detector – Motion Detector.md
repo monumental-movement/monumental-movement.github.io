@@ -16,11 +16,11 @@ title: Motion Detector – Motion Detector
 A house dub track by Motion Detector released in 2002 by the American label Losonofono Records.
 
 #### Tracklist
-"""md
+```md
 A. Dubtrain
 
 B. Banaras Ghat
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m69381674857?afid=6142608987){: .button1}
 

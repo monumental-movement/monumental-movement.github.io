@@ -21,16 +21,16 @@ Anders Remmer, also known as Dub Tractor, is a leading figure in the electronic 
 The first song on the B-side is produced and remixed by Cornish genius Luke Vibert. Wagon Christ is another name of Luke Vibert.
 
 #### Tracklist
-"""md
+```md
 A1. Scary H H Loop
-A2. 104 Dubs
+A2. 104 Dub
 
 B1. 104 Dub (Wagon Christ Mix)
 Producer [Additional], Remix – Luke Vibert
 Remix – Wagon Christ
 
 B2. A C Tractor
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 

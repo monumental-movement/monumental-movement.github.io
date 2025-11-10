@@ -19,7 +19,7 @@ The first track on Side A is a remix by Klubbheads, a dance music producer/DJ te
 The first song on side B is a remix by Sharam Jey, an Iranian DJ/producer living in Germany.
 
 #### Tracklist
-"""md
+```md
 A1. Burning (Klubbheads Burning Floor Mix)
 
 A2. Burning (Flexy & DJ Kryptonite Teck-splosion Mix)
@@ -27,7 +27,7 @@ A2. Burning (Flexy & DJ Kryptonite Teck-splosion Mix)
 B1. Burning (Sharam Jey Mix)
 
 B2. Burning (Flexy & DJ Kryptonite Club Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33103665790?afid=6142608987){: .button1}
 

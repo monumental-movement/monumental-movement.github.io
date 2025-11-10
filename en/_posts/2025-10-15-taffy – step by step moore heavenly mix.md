@@ -18,11 +18,11 @@ Taffy (Katherine Quaye) is a UK Italo/high energy singer known for her hit song 
 This record is an Italodance Mix by Moore Heavenly, released in 1987 on Rhythm King's sub-label Transglobal.
 
 #### Tracklist
-"""md
+```md
 A. Step By Step (Moore Heavenly Mix)
 
 B. Whose?
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
 

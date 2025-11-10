@@ -15,16 +15,16 @@ title: DNA – Rebel Woman
 
 DNA is a duo of UK dance music producers Nick Batt and Neal Slateford.
 
-The two are best known for releasing a remix of Suzanne Vega's "Tom's Diner" in 1990.
+The two are best known for releasing a remix of Suzanne Vega"s "Tom"s Diner" in 1990.
 
 #### Tracklist
-"""md
+```md
 A. Rebel Woman (PWL Remix)
 
 B1. La Serenissima (Extended Mix)
 
 B2. DNA Theme (Edit)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61194350312?afid=6142608987){: .button1}
 

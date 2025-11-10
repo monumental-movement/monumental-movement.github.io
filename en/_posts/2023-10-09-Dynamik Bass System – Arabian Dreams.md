@@ -14,16 +14,17 @@ title: Dynamik Bass System – Arabian Dreams
 "Arabian Dreams" is
 This is an EP by Dynamik Bass System, a project of Thomas Werner, released in 1998 on the German label "Gigolo Records".
 
+
 #### Tracklist
-"""md
+```md
 A1. Arabian Dreams
 
 A2. Omega Platinum
 
 B1. Electronic
 
-B2.Frequencies
-""""
+B2. Frequencies
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22979609212?afid=6142608987){: .button1}
 

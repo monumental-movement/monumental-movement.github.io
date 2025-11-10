@@ -9,7 +9,7 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: DJ Dakar – Young In Paradise / It"s Gonna Down
+title: DJ Dakar – Young In Paradise / It's Gonna Down
 ---
 
 
@@ -20,14 +20,13 @@ He made his major debut in 2003 with the solo album Diktatur Des Kapitals, and f
 Released in 2007, "Young In Paradise / It's Gonna Down" is a highly acclaimed House/Deep House/Tech House track. "Young In Paradise" was also included on a compilation by DJ Linus.
 
 #### Tracklist
-"""md
+```md
 A. Young In Paradise
 
 B. It's Gonna Down
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vto7YaCgvak?si=Gp_AENGprCuhG0P5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-

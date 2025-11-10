@@ -16,13 +16,13 @@ title: Surgeon – Dry
 A techno track released in 1999 by British DJ and electronic musician Anthony Child, also known as Surgeon, from his label Dynamic Tension Records.
 
 #### Tracklist
-"""md
-A1.Untitled
-A2.Untitled
+```md
+A1. Untitled
+A2. Untitled
 
-B1.Untitled
-B2.Untitled
-""""
+B1. Untitled
+B2. Untitled
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 

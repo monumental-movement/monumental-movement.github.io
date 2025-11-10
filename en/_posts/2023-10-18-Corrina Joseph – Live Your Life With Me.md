@@ -17,7 +17,7 @@ Corrina Joseph is a British singer who has appeared with various artists includi
 "Live Your Life With Me" was produced and composed by Basement Jaxx, a UK electronic dance music duo consisting of Felix Buxton and Simon Ratcliffe.
 
 #### Tracklist
-"""md
+```md
 A1. Live Your Life With Me (Original Mix)
 
 A2. Live Your Life With Me (Slow 'N' Lo Mix)
@@ -26,8 +26,8 @@ A3. Live Your Life With Me (Life Beats)
 
 B1. Live Your Life With Me (Narcotic Vocal Mix)Remix – S-Man
 
-B2. Live Your Life With Me (Narcotic Dub) Remix – S-Man
-""""
+B2. Live Your Life With Me (Narcotic Dub)Remix – S-Man
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24022000803?afid=6142608987){: .button1}
 

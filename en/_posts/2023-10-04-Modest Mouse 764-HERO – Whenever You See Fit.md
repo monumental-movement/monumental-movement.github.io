@@ -16,13 +16,13 @@ title: Modest Mouse 764-HERO – Whenever You See Fit
 This is an EP by Modest Mouse/764-HERO released on Suicide Squeeze in 1998.
 
 #### Tracklist
-"""md
+```md
 A. Whenever You See Fit (Original Version)
 
 B1. Whenever You See Fit (DJ Dynomite D Mix)
 
-B2. Whenever You See Fit (Scientific American Mix)
-""""
+B2. Whenever You See Fit (Sientific American Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 

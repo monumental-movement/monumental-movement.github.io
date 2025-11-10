@@ -12,11 +12,14 @@ title: '[Column] History of the intersection of hard rock and gaming culture'
 ---
 
 
-## ハードロックの代表的な名盤とゲーム文化の関係を考察
 
-文：mmr｜テーマ：ハードロックとゲーム文化の関係性
+## Considering the relationship between major hard rock records and gaming culture
 
-ハードロックは1960年代末のブルースロックやサイケデリックロックから生まれ、1970年代に爆発的に普及しました。一方、ビデオゲーム文化は1970年代後半から芽生え、1980年代以降に大衆文化として定着していきます。両者は独立して発展しながらも、**音の衝撃・ヴィジュアル美学・若者文化**を共有し、時代ごとに意外な交差点を築いてきました。ここでは年代別にその関係性を整理し、代表的な名盤とゲーム文化を結び付けて振り返ります。
+
+Text: mmr｜Theme: Relationship between hard rock and gaming culture
+
+
+Hard rock was born from blues rock and psychedelic rock in the late 1960s and exploded in popularity in the 1970s. On the other hand, video game culture began to emerge in the late 1970s and became established as popular culture in the 1980s. Although both have developed independently, they have shared the impact of sound, visual aesthetics, and youth culture, creating unexpected intersections in each era. Here, we will organize the relationships by era and look back at the connections between representative masterpieces and gaming culture.
 
 ---
 
@@ -25,7 +28,7 @@ title: '[Column] History of the intersection of hard rock and gaming culture'
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -33,20 +36,21 @@ color: #fff;
 }
 </style>
 
-## 1960s〜1970s：ハードロック誕生とアーケード前夜
 
-- **時代背景**：ロンドンやロサンゼルスでレッド・ツェッペリン、ディープ・パープル、ブラック・サバスが登場。爆音とリフの重厚さで新しい音楽体験を提示。  
-- **ゲームとの接点**：この時代はまだアーケード黎明期（「Pong」「スペースインベーダー」前夜）。直接のリンクは弱いが、**サイケデリックなアートワークや電気的サウンドの実験**が、ゲームの電子音楽美学と共鳴する萌芽を生む。
+## 1960s-1970s: Birth of hard rock and the eve of arcades
 
-**代表的名盤**  
+- **Background**: Led Zeppelin, Deep Purple, and Black Sabbath appeared in London and Los Angeles. Presenting a new musical experience with explosive sounds and profound riffs.
+- **Point of contact with games**: This era was still in the early days of arcades (the eve of ""Pong" and ""Space Invaders"). Although the direct link is weak, the psychedelic artwork and experiments with electronic sounds create seeds that resonate with the game's electronic music aesthetic.
 
-- Led Zeppelin – *Led Zeppelin IV* (1971)  
-- Deep Purple – *Machine Head* (1972)  
-- Black Sabbath – *Paranoid* (1970)  
+**Representative masterpiece**
 
-**おすすめトラック10選**  
+- Led Zeppelin – *Led Zeppelin IV* (1971)
+- Deep Purple – *Machine Head* (1972)
+- Black Sabbath – *Paranoid* (1970)
 
-| 曲名 | アーティスト |
+**10 recommended tracks**
+
+| Song title | Artist |
 |------|--------------|
 | Stairway to Heaven | Led Zeppelin |
 | Smoke on the Water | Deep Purple |
@@ -59,31 +63,31 @@ color: #fff;
 | Child in Time | Deep Purple |
 | Rock and Roll | Led Zeppelin |
 
-**代表的ゲームタイトル**  
+**Representative game titles**
 
-| 年代 | タイトル | 備考 |
-|------|-----------|------|
-| 1972 | Pong | 世界初のアーケード大ヒット |
-| 1976 | Breakout | ビジュアルと音がシンプルだがロック的なリズム感 |
-| 1978 | Space Invaders | ビデオゲームブームを決定づけたタイトル |
+| Year | Title | Notes |
+|------|------------|------|
+| 1972 | Pong | World's first arcade hit |
+| 1976 | Breakout | Simple visuals and sound, but rock-like rhythm |
+| 1978 | Space Invaders | The title that defined the video game boom |
 
 ---
 
-## 1980s：ハードロックの黄金期とアーケードゲームの隆盛
+## 1980s: The golden age of hard rock and the rise of arcade games
 
-- **時代背景**：モトリー・クルーやヴァン・ヘイレンなどのアメリカン・ハードロックが世界的に台頭。MTVの登場で映像文化と直結。  
-- **ゲームとの接点**：アーケード黄金期（『スペースインベーダー』『パックマン』『アウトラン』）。特にセガやナムコは、ロック的な疾走感をサウンドチップで再現。  
-- ヴァン・ヘイレンのギターソロ的なサウンドと、ゲームの8bitシュレッド感が聴覚的にリンク。
+- **Time background**: American hard rock such as Mötley Crüe and Van Halen were on the rise worldwide. With the advent of MTV, it was directly connected to visual culture.
+- **Point of contact with games**: The golden age of arcades ("Space Invaders", "Pacman", "Outrun"). In particular, Sega and Namco reproduce the fast-paced feel of rock music with sound chips.
+- Van Halen"s guitar solo sound and the game"s 8bit shred feel are audibly linked.
 
-**代表的名盤**  
+**Representative masterpiece**
 
-- Van Halen – *1984* (1984)  
-- Mötley Crüe – *Shout at the Devil* (1983)  
-- Def Leppard – *Hysteria* (1987)  
+- Van Halen – *1984* (1984)
+- Mötley Crüe – *Shout at the Devil* (1983)
+- Def Leppard – *Hysteria* (1987)
 
-**おすすめトラック10選**  
+**10 recommended tracks**
 
-| 曲名 | アーティスト |
+| Song title | Artist |
 |------|--------------|
 | Jump | Van Halen |
 | Panama | Van Halen |
@@ -93,75 +97,75 @@ color: #fff;
 | Pour Some Sugar on Me | Def Leppard |
 | Crazy Train | Ozzy Osbourne |
 | Bark at the Moon | Ozzy Osbourne |
-| Livin’ on a Prayer | Bon Jovi |
+| Livin" on a Prayer | Bon Jovi |
 | Wanted Dead or Alive | Bon Jovi |
 
-**代表的ゲームタイトル**  
+**Representative game titles**
 
-| 年代 | タイトル | 備考 |
-|------|-----------|------|
-| 1980 | Pac-Man | ポップカルチャーアイコン化 |
-| 1981 | Donkey Kong | 任天堂の躍進を象徴 |
-| 1983 | Dragon’s Lair | アニメーションと音楽演出が革新的 |
-| 1986 | OutRun | ロック的ドライビング感を持つBGM |
-| 1987 | Contra | 爆音的ゲーム体験とハードロックの親和性 |
-| 1989 | Final Fight | バトルとハードロック風サウンド |
+| Year | Title | Notes |
+|------|------------|------|
+| 1980 | Pac-Man | Pop Culture Icon |
+| 1981 | Donkey Kong | Symbol of Nintendo's breakthrough |
+| 1983 | Dragon"s Lair | Innovative animation and music production |
+| 1986 | OutRun | BGM with a rock driving feel |
+| 1987 | Contra | Explosive gaming experience and hard rock affinity |
+| 1989 | Final Fight | Battle and hard rock sound |
 
 ---
 
-## 1990s：オルタナティブと家庭用ゲーム機の台頭
+## 1990s: The rise of alternatives and home consoles
 
-- **時代背景**：グランジやオルタナが台頭し、クラシックなハードロックはやや退潮。ただしメタリカなどのメタル勢が強く支持。  
-- **ゲームとの接点**：PlayStation、Nintendo 64の登場でCD音源化。ゲームに「実際のロック楽曲」が使われることも増加。  
-- 『Gran Turismo』シリーズや『Tony Hawk’s Pro Skater』がロックとゲームを直結させた象徴。  
+- **Time background**: With the rise of grunge and alternative music, classic hard rock was in a bit of a decline. However, it is strongly supported by metal bands such as Metallica.
+- **Point of contact with games**: With the advent of PlayStation and Nintendo 64, CD sound sources were created. The use of ""actual rock songs'' in games is also increasing.
+- The "Gran Turismo" series and "Tony Hawk"s Pro Skater" are symbols of the direct connection between rock and games.
 
-**代表的名盤**  
+**Representative masterpiece**
 
-- Guns N’ Roses – *Use Your Illusion I & II* (1991)  
-- Metallica – *Metallica (Black Album)* (1991)  
-- Aerosmith – *Get a Grip* (1993)  
+- Guns N" Roses – *Use Your Illusion I & II* (1991)
+- Metallica – *Metallica (Black Album)* (1991)
+- Aerosmith – *Get a Grip* (1993)
 
-**おすすめトラック10選** 
+**10 recommended tracks**
 
-| 曲名 | アーティスト |
+| Song title | Artist |
 |------|--------------|
 | Enter Sandman | Metallica |
 | Nothing Else Matters | Metallica |
-| November Rain | Guns N’ Roses |
-| Don’t Cry | Guns N’ Roses |
+| November Rain | Guns N" Roses |
+| Don"t Cry | Guns N" Roses |
 | Get a Grip | Aerosmith |
-| Cryin’ | Aerosmith |
+| Cryin" | Aerosmith |
 | Smells Like Teen Spirit | Nirvana |
 | Come As You Are | Nirvana |
 | Alive | Pearl Jam |
 | Black Hole Sun | Soundgarden |
 
-**代表的ゲームタイトル**  
+**Representative game titles**
 
-| 年代 | タイトル | 備考 |
-|------|-----------|------|
-| 1991 | Sonic the Hedgehog | スピード感とロック的エナジー |
-| 1994 | Doom II | 重厚なギターリフ的BGM |
-| 1997 | Final Fantasy VII | シンフォニックとロック融合 |
-| 1997 | Gran Turismo | 実際のロック／テクノ楽曲を搭載 |
-| 1999 | Tony Hawk’s Pro Skater | ロック音楽とゲームを直結させた代表例 |
+| Year | Title | Notes |
+|------|------------|------|
+| 1991 | Sonic the Hedgehog | Speed ​​and rock energy |
+| 1994 | Doom II | Heavy guitar riff BGM |
+| 1997 | Final Fantasy VII | Symphonic and rock fusion |
+| 1997 | Gran Turismo | Featuring actual rock/techno songs |
+| 1999 | Tony Hawk"s Pro Skater | A typical example of the direct connection between rock music and games |
 
 ---
 
-## 2000s：デジタル時代と「音ゲー」ブーム
+## 2000s: Digital age and "music game" boom
 
-- **時代背景**：Nu-MetalやPost-Grungeがヒット。ハードロックの伝統は細分化されつつも健在。  
-- **ゲームとの接点**：『Guitar Hero』『Rock Band』シリーズが社会現象化。過去のハードロック名曲が新世代に再発見される。  
-- 音楽ゲームはハードロックの「再教育装置」となり、レッド・ツェッペリンやメタリカを10代に浸透させた。
+- **Background**: Nu-Metal and Post-Grunge were hits. Although the tradition of hard rock is fragmented, it is still alive and well.
+- **Connection with games**: The "Guitar Hero" and "Rock Band" series have become social phenomena. Classic hard rock songs from the past are being rediscovered by a new generation.
+- Music games became a "re-education device" for hard rock, introducing Led Zeppelin and Metallica to teens.
 
-**代表的名盤**  
-- Linkin Park – *Hybrid Theory* (2000)  
-- Audioslave – *Audioslave* (2002)  
-- System of a Down – *Toxicity* (2001)  
+**Representative masterpiece**
+- Linkin Park – *Hybrid Theory* (2000)
+- Audioslave – *Audioslave* (2002)
+- System of a Down – *Toxicity* (2001)
 
-**おすすめトラック10選**  
+**10 recommended tracks**
 
-| 曲名 | アーティスト |
+| Song title | Artist |
 |------|--------------|
 | In the End | Linkin Park |
 | Crawling | Linkin Park |
@@ -174,33 +178,34 @@ color: #fff;
 | Bring Me to Life | Evanescence |
 | My Immortal | Evanescence |
 
-**代表的ゲームタイトル**  
 
-| 年代 | タイトル | 備考 |
-|------|-----------|------|
-| 2001 | Halo: Combat Evolved | ロックと壮大なスコアが融合 |
-| 2005 | Guitar Hero | ロック再発見のトリガー |
-| 2007 | Rock Band | バンド体験を家庭に持ち込む |
-| 2008 | Grand Theft Auto IV | ラジオに多彩なロック楽曲収録 |
-| 2009 | Brutal Legend | ハードロック世界観そのものを題材化 |
+**Representative game titles**
+
+| Year | Title | Notes |
+|------|------------|------|
+| 2001 | Halo: Combat Evolved | Rock meets epic score |
+| 2005 | Guitar Hero | Trigger of rediscovery of rock |
+| 2007 | Rock Band | Bringing the band experience into your home |
+| 2008 | Grand Theft Auto IV | Various rock songs recorded on the radio |
+| 2009 | Brutal Legend | The hard rock world view itself |
 
 ---
 
-## 2010s〜現在：ストリーミング時代と再評価
+## 2010s~Present: Streaming Era and Reappraisal
 
-- **時代背景**：SpotifyやYouTubeを通じ、クラシックハードロックが再発見される。  
-- **ゲームとの接点**：eスポーツや配信文化の中で、ハードロックが「ゲーム実況BGM」や「リズムゲームのアレンジ曲」として新しい役割を担う。  
-- *Doom (2016)* のように、ハードロック／メタル的サウンドを大胆に取り込んだゲームも登場し、再び「爆音とアドレナリン」の関係が強調。
+- **Background**: Classic hard rock is being rediscovered through Spotify and YouTube.
+- **Point of contact with games**: In e-sports and distribution culture, hard rock will take on a new role as ""game live BGM" and ""arranged music for rhythm games."
+- Games such as *Doom (2016)* that boldly incorporate hard rock/metal sounds have also appeared, once again emphasizing the relationship between "explosive music and adrenaline."
 
-**代表的名盤**  
+**Representative masterpiece**
 
-- Foo Fighters – *Wasting Light* (2011)  
-- Ghost – *Meliora* (2015)  
-- Greta Van Fleet – *Anthem of the Peaceful Army* (2018)  
+- Foo Fighters – *Wasting Light* (2011)
+- Ghost – *Meliora* (2015)
+- Greta Van Fleet – *Anthem of the Peaceful Army* (2018)
 
-**おすすめトラック10選**  
+**10 recommended tracks**
 
-| 曲名 | アーティスト |
+| Song title | Artist |
 |------|--------------|
 | Rope | Foo Fighters |
 | Walk | Foo Fighters |
@@ -213,15 +218,16 @@ color: #fff;
 | Rats | Ghost |
 | Broken Bells | Greta Van Fleet |
 
-**代表的ゲームタイトル**  
 
-| 年代 | タイトル | 備考 |
-|------|-----------|------|
-| 2013 | The Last of Us | ギター音楽が印象的な作品 |
-| 2016 | Doom (Reboot) | メタル／ハードロック直結のサウンド |
-| 2018 | Red Dead Redemption 2 | ロック的叙事詩の世界観 |
-| 2020 | Cyberpunk 2077 | ロックアティチュードを体現 |
-| 2023 | Hi-Fi RUSH | ロック音楽とリズムアクションの融合 |
+**Representative game titles**
+
+| Year | Title | Notes |
+|------|------------|------|
+| 2013 | The Last of Us | Works with impressive guitar music |
+| 2016 | Doom (Reboot) | Sound directly connected to metal/hard rock |
+| 2018 | Red Dead Redemption 2 | Rock epic worldview |
+| 2020 | Cyberpunk 2077 | Embodying Rock Attitude |
+| 2023 | Hi-Fi RUSH | Fusion of rock music and rhythm action |
 
 ---
 
@@ -300,7 +306,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Title | Tracks | Artist | Notes |
 |----------|---------|-------------|------|
 | SOUND VOLTEX BOOTH (2012) | Black Emperor | RoughSketch | Metalcore + Electro |
-| SOUND VOLTEX II (2013) | XROSS INFECTION | BlackY vs. siromaru | Hard Rock x Speed Core |
+| SOUND VOLTEX II (2013) | XROSS INFECTION | BlackY vs. siromaru | Hard Rock x Speed ​​Core |
 | SOUND VOLTEX III (2014) | Growth Memories | akhuta | Band sound |
 | SOUND VOLTEX VIVID WAVE (2019) | I | nora2r | Digital hard rock style |
 
@@ -361,9 +367,9 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 
 ## Impact and Significance
 
-- Overseas, the **""Guitar Hero'' → Start playing the guitar** movement was actually born.  
-- In Japan, **GuitarFreaks/DrumMania** pioneered the idea of ​​""real performance feeling'' and laid the foundation for music game culture.  
-- **Taiko no Tatsujin** focuses on pop music, but with their hard rock/metal style original songs, they imprinted a guitar-like sound on young people.  
+- Overseas, the **""Guitar Hero'' → Start playing the guitar** movement was actually born.
+- In Japan, **GuitarFreaks/DrumMania** pioneered the idea of ​​""real performance feeling'' and laid the foundation for music game culture.
+- **Taiko no Tatsujin** focuses on pop music, but with their hard rock/metal style original songs, they imprinted a guitar-like sound on young people.
 - **SOUND VOLTEX** has a strong electro tone, but actively incorporates hard rock and metal elements to express the "rock-like impact" of a new generation.
 
 ---

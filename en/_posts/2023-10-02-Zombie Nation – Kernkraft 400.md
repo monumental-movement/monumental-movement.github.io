@@ -17,11 +17,11 @@ title: Zombie Nation – Kernkraft 400
 The song is widely used as a cheering song at sports stadiums around the world (baseball, basketball, American football, ice hockey, etc.), and was ranked 8th on Sports Illustrated's 2014 Top 10 Stadium Anthems list. In Japan, it became widely known after Yokohama DeNA BayStars pitcher Yasuaki Yamazaki used it as the song when he took the mound, and because Rui Hachimura of the Japanese national basketball team was rooting for the famous Gonzaga University team, where he was a member at the time.
 
 #### Tracklist
-"""md
+```md
 A. Kernkraft 400 (DJ Gius Remix)
 
 B. Kernkraft 400 (Miss Kittin & The Hacker Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31325274795?afid=6142608987){: .button1}
 

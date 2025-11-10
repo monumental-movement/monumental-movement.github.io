@@ -20,12 +20,12 @@ title: Big Punisher Wu All-Stars – Beware Soul In The Hole
 Both songs are heavily influenced by the East Coast hip-hop scene of the late 1990s.
 
 #### Tracklist
-"""md
+```md
 A1. Big Punisher–Beware (Original)
 
 B1. Wu All-Stars–Soul In The Hole (Original)
 B2. Wu All-Stars–Soul In The Hole (Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m22984434374?afid=6142608987){: .button1}
 

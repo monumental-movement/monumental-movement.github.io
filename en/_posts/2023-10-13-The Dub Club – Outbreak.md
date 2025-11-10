@@ -15,14 +15,15 @@ title: The Dub Club – Outbreak
 "Outbreak" is
 This is an EP by The Dub Club, a project by Nathanael Heres, released in 1994 on the Dutch label Urban Sound Of Amsterdam.
 
+
 #### Tracklist
-"""md
-A.Outbreak
+```md
+A. Outbreak
 
 B1. Threat
 
 B2. Groover
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98598756543?afid=6142608987){: .button1}
 

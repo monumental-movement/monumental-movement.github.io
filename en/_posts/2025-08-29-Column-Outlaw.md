@@ -41,6 +41,7 @@ Rock and roll/rockabilly is a cross-border fusion of white working-class youth c
 
 **Mechanism**: Mixing of music that crosses racial and class boundaries + nighttime entertainment = inducing "moral panics" (Folk devils and moral panics: Stanley Cohen). Regulations by the police, schools, and religious groups actually strengthen the unity of the scene.
 
+
 <hr>
 
 ### 1960s: Mods vs. Rockers, Hippies, and Garage: Style Struggles and Counterculture
@@ -65,6 +66,7 @@ Garage/protopunk is a DIY spirit and anti-commercialism. School gymnasiums and w
 
 **Mechanism**: A battle over fashion differentiation—what Hebdidge called "style appropriation." The media exaggerates violence and amplifies moral panic.
 
+
 <hr>
 
 ### 1970s: Punk, reggae, disco: fight and flight born of urban crisis
@@ -88,6 +90,7 @@ Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dan
 ---
 
 **Mechanism**: Hollowing out of cities and strengthening of management of public spaces → People on the periphery evacuate underground at night. Sound pressure and physical contact form solidarity.
+
 
 <hr>
 
@@ -119,6 +122,7 @@ Metal has been given the image of being "demonized" and has aroused controversy 
 
 **Mechanism**: "Tribalization" (mafezori) of subcultures. Small norms are powerful, and from the outside it looks like an "outlaw."
 
+
 <hr>
 
 ### 1990s: Rave/Acid House, Grunge, Gangsta Rap - Negotiating the boundaries between legal and illegal
@@ -142,6 +146,7 @@ Gangsta rap's explicit portrayal of police violence, social inequality, and stre
 ---
 
 **Mechanism**: A cat-and-mouse game between laws and regulations (related to noise, gatherings, entertainment businesses) and creative avoidance (secret locations, free parties).
+
 
 <hr>
 
@@ -173,6 +178,7 @@ Leftfield/Queer Clubs are rebuilding safe night spaces and establishing internal
 
 **Mechanism**: SNS makes reputation capital visible. Gaining visibility provokes the abuse of "outlaw symbols," while community norms are autonomously reinforced.
 
+
 <hr>
 
 ### 2020s: Irregular spaces after the pandemic: Micro-rave and local communities
@@ -180,6 +186,7 @@ Leftfield/Queer Clubs are rebuilding safe night spaces and establishing internal
 During the lockdown period, guerilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
 
 The hybridization of social movements and music events (fundraising parties, mutual aid community kitchens, etc.) is progressing, and the focus is on care and consensus-building rather than the "illegal/legal" dichotomy.
+
 
 <hr>
 
@@ -191,13 +198,14 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are commonplace. The importation and localization of sounds and the self-management of venues have developed.
 
+
 <hr>
 
 ### 7 circuits that create "outlaw status"
 
 **Conversion of space**: Warehouse/ruins/street → club/venue (problems with illegal construction, noise, and occupation).
 
-**Economic periphery**: Friction between informal distribution (booting, mixing, hand-selling) and the copyright regime.
+**Economic periphery**: Friction between informal distribution (booting, mixing, hand selling) and the copyright regime.
 
 **Physical Techniques**: Movements that appear violent/obscene to the outside, such as moshing, breaking, and wind-ups.
 
@@ -205,9 +213,10 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Radicalization of the narrative**: The realism/exaggeration of the lyrics is misinterpreted by the media as a crime warning.
 
-**Media apparatus**: Reporting creates a "popular devil" (Cohen's moral panic).
+**Media Apparatus**: Reporting creates a "popular devil" (Cohen's Moral Panic).
 
 **Reflection with the system**: The cycle of crackdown → underground → strengthening of solidarity → commercial recovery → deviation again.
+
 
 <hr>
 
@@ -218,6 +227,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 **Negative aspects**: Reproduction of violence, discrimination, and gender inequality, drug and health damage, and actual harm to the neighborhood.
 
 **Today's issues**: Creating a safe space (safe space policy), consensus building, dialogue with the local community, archiving and inheritance.
+
 
 <hr>
 
@@ -233,9 +243,10 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 - [**Michel Maffezzoli** "The Transformation of the Political"—A Tribalized/Smallized World](https://amzn.to/49aZ5a4)
 
+
 <hr>
 
 ### Who draws the boundaries?
 
 The relationship between music and outlaws is not a glorification of crime. Rather, it is a visualization of the power dynamics of ""who, what, and how to call deviance'' and at the same time a story of the creativity of the periphery.
-From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Although their outlaw nature is dangerous, the beats that spark from that spark often shape the next mainstream movement - all the time.
+From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Their outlaw nature is dangerous, but the beats that spark from that spark often shape the next mainstream movement - all the time.

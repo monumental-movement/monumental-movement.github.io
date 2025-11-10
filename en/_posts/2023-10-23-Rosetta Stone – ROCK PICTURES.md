@@ -15,7 +15,7 @@ title: Rosetta Stone – ROCK PICTURES
 Rosetta Stone is a Northern Irish rock band formed by former Bay City Rollers guitarist Ian Mitchell.
 
 #### Tracklist
-"""md
+```md
 A1. (If Paradise Is) Half As Nice
 
 A2. Penny
@@ -37,7 +37,7 @@ B4. Steel Willie
 B5. Free As A Bird
 
 B6. You Really Got Me
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
 

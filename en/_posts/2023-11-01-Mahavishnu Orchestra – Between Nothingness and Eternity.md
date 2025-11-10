@@ -20,20 +20,19 @@ This album was the last with original members, as the band disbanded in December
 Participating members at this time were John McLaughlin (guitar), Jerry Goodman (violin), Jan Hammer (keyboards), Rick Laird (bass), and Billy Cobham (drums).
 
 #### Tracklist
-"""md
-A1. Trilogy Three parts of sadness
+```md
+A1. Trilogy 悲の3部曲
 
-・The Sunlit Path
-・La Mere De La Mer Our Lady of the Sea
-・Tomorrow's Story Not The Same Eternal Legend
+・The Sunlit Path 輝ける径
+・La Mere De La Mer 海の聖母
+・Tomorrow's Story Not The Same 永遠伝説 
 
-A2. Sister Andrea Sister Andrea
+A2. Sister Andrea シスター・アンドレア
 
-B. Dream Dream
-""""
+B. Dream ドリーム
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-

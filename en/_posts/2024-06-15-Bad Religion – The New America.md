@@ -19,7 +19,7 @@ Bad Religion is a punk rock band formed in Los Angeles, and is a leading figure 
 "The New America", released in 2000, is their 11th studio album, with tracks 14 and 15 being bonus tracks on the Japanese version.
 
 #### Tracklist
-"""md
+```md
 1. You've Got A Chance
 2. It's A Long Way To The Promise Land
 3. A World Without Melody
@@ -33,11 +33,11 @@ Bad Religion is a punk rock band formed in Los Angeles, and is a leading figure 
 11. There Will Be A Way
 12. Let It Burn
 13. Don't Sell Me Short
-14.The Fast Life
+14. The Fast Life
 15. Queen Of The 21st Century
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,15 +23,15 @@ The two tracks on side A have dark beats that cast a shadow over your head for a
 All songs were remastered by George Horn at Fantasy Studios.
 
 #### Tracklist
-"""md
+```md
 A1. I've Seen The World
 
 A2. Is This The Life For Me
 
-B1. Dance, Shake, Swing
+B1. Dance,Shake,Swing
 
 B2. Dance... Version 2
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23235956197?afid=6142608987){: .button1}
 

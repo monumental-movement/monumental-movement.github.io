@@ -14,6 +14,7 @@ title: '[Column] New Age Music - The intersection of meditation and soundscape'
 
 ## --Harmony with nature, self-reflection, and healing--
 
+
 Text: mmr｜Theme: Deep relationship with New Age ideology and counterculture
 
 <hr>
@@ -51,7 +52,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual bac
 
 - **Brian Eno**: "Ambient 1: Music for Airports" - Connecting the origins of New Age and Ambient.
 
-- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road''.
+- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road.''
 
 - **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
 
@@ -91,7 +92,7 @@ Current new age music has moved away from being simply "healing music" and is be
 
 ### Embodying an "oasis of sound"
 
-New Age music was often described as ""background music'', to put it bluntly. However, its meditative and non-aggressive sound has come to embody the ""sound oasis'' sought by people as urbanization and information technology progress.
+New Age music was often described as ""background music", to put it bluntly. However, its meditative and non-aggressive sound has come to embody the ""sound oasis" sought by people as urbanization and information technology progress.
 In modern times, it has been reabsorbed into genres such as ambient and chillout, but its ideals - harmony with nature, introspection, and healing - have become even more urgent.
 
 New Age is not a passing fad of the past, but a music culture that continues to quietly but surely play a role in people's lives.

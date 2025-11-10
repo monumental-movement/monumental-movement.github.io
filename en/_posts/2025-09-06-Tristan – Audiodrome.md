@@ -16,19 +16,20 @@ Tristan Cooke, also known as Tristan, is a major UK Psychedelic Trance & Goa tra
 
 "Audiodrome" was released in 1999 by Simon Posford (Hallucinogen)'s label Twisted Records, and is Tristan's debut album.
 
-#### Tracklist
-"""md
-A1. Fetish
-A2.Valve
 
-B1.Dreamtime
+#### Tracklist
+```md
+A1. Fetish
+A2. Valve
+
+B1. Dreamtime
 B2. Lore Of Fives
 
-C1.Reptile Mind
+C1. Reptile Mind
 C2. Mind Over Matter
 
-D.Perimeter
-""""
+D. Perimeter
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78133892253?afid=6142608987){: .button1}
 

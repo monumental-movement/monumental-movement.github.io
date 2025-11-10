@@ -15,7 +15,7 @@ title: Believe In The Frequency Power
 "Believe In The Frequency Power" is a compilation album released by the UK label "North South" in 1994.
 
 #### Tracklist
-"""md
+```md
 A1. Organization–Eternal
 
 A2. Gotham City –Animism
@@ -33,7 +33,7 @@ B3. Ken Inaoka–Deep Inside Of Me
 B4. Palomatic–Halo
 
 B5. Kiyoshi Hazemoto–Dawn Of Rainland
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 

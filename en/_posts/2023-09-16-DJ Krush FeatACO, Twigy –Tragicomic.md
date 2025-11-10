@@ -19,15 +19,15 @@ ACO is one of the singers who has received high praise both in Japan and abroad 
 "Tragicomic" was released as part of DJ Krush's albums and singles and is enjoyed by trip-hop and electronica enthusiasts.
 
 #### Tracklist
-"""md
+```md
 A1. Tragicomic Featuring ACO, Twigy
 
 A2. Tragicomic (Instrumental)
-
+ 
 B1. Tragicomic (Beyond Real Mix)
 
 B2. Tragicomic (Beyond Real Mix Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20863215408?afid=6142608987){: .button1}
 

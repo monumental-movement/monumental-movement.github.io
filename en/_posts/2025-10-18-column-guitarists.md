@@ -15,13 +15,14 @@ title: '[Column] Strings that directly convey emotions and thoughts — Guitaris
 ---
 
 
-## 序章：ギターという“身体の記録装置”
+## Prologue: The guitar, a "body recording device"
 
-文：mmr｜テーマ：世界と日本の代表的ギタリストを年代・ジャンル・技法・思想の観点から解説
 
-ギターは単なる楽器ではなく、20世紀以降の音楽史において、感情や思想を直接伝える**身体の拡張装置**として機能してきた。弦に指を触れる瞬間、音は手指の振動から生まれ、アンプやエフェクターを通じて世界に届く。ギターが生み出す音色は、その人の感情、精神状態、さらには文化的背景までも写し取る鏡のような役割を持つ。
+Text: mmr｜Theme: Explaining the world"s and Japan"s leading guitarists from the perspective of era, genre, technique, and philosophy
 
-世界と日本では、ギタリスト像は異なる。アメリカやイギリスでは、ブルースやロックが基盤となり、メインストリーム中心に進化してきた。しかし、日本では戦後のエレキブームからアンダーグラウンドのノイズ、即興、ポストロックに至るまで、より複雑で自由な発展を遂げている。メインストリームの技巧と、地下の破壊的表現が交差する地点に、日本ギターの独自性が現れる。
+The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and ideas. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
+
+The image of a guitarist is different between Japan and the world. In the United States and the United Kingdom, blues and rock have become the foundation, and the genre has evolved into a mainstream one. However, Japan has experienced a more complex and free-flowing development, from the postwar electric boom to underground noise, improvisation, and post-rock. The uniqueness of Japanese guitars emerges at the intersection of mainstream technique and underground destructive expression.
 
 ---
 
@@ -38,87 +39,89 @@ color: #fff;
 }
 </style>
 
-# II. 世界篇：ギターが革命を鳴らした瞬間
 
-## 1. ロックの発火点（1950〜60年代）
+# II. World Edition: The moment when the guitar started a revolution
 
-**Chuck Berry**は、リズムギターとフレーズの融合によりロックンロールの骨格を築いた。彼の右手によるカッティングはダンスビートの基盤を作り、左手のフレーズはブルース由来ながら独自の旋律を描く。Berryの音楽は、エレキギターが若者の反抗や自由を象徴する手段になることを示した。
+## 1. Rock flashpoint (1950s-60s)
+
+**Chuck Berry** built the backbone of rock"n"roll through the fusion of rhythm guitar and phrases. The cutting with his right hand forms the basis of a dance beat, while the phrases with his left hand draw a unique melody even though they are derived from blues. Berry's music showed that the electric guitar could become a symbol of youthful rebellion and freedom.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Jimi Hendrix**は、エレクトリックギターの可能性を爆発させた。フィードバック、ワウペダル、フェイザーなどのエフェクトを駆使し、ギターを「声」として鳴らした。ライブパフォーマンスでは即興と破壊的表現を組み合わせ、ギターを単なる伴奏楽器から**表現の中心装置**に変えた。
+**Jimi Hendrix** exploded the potential of the electric guitar. He made full use of effects such as feedback, wah pedal, and phaser to make the guitar sound like a "voice." In his live performances, he combines improvisation and subversive expression, transforming the guitar from just an accompaniment instrument to a central expressive device.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Lou Reed（The Velvet Underground）**は、単純なコード進行や不協和音を用いて、音楽にアート的破壊性を持ち込んだ。ポップでありながら挑発的で、アンダーグラウンドの精神を内包していた。
+
+**Lou Reed (The Velvet Underground)** uses simple chord progressions and dissonance to bring artistic subversiveness to his music. It was pop, yet provocative, and contained an underground spirit.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 2. 実験と反逆のギタリズム（1970〜80年代）
+## 2. Experimental and rebellious guitarism (1970s-80s)
 
-**Robert Fripp（King Crimson）**は、複雑なリズムと即興レイヤーを駆使し、プログレッシブロックにおける革新的アプローチを確立した。
+**Robert Fripp (King Crimson)** established an innovative approach to progressive rock, using complex rhythms and improvised layers.
 
-**Thurston Moore & Lee Ranaldo（Sonic Youth）**は、特殊チューニングや準備されたギターを使用し、偶然性を作品に積極的に取り入れた。ノイズを表現手段の一部とし、ギターが旋律や和音だけでなく空間や感情を描く道具であることを示した。
+**Thurston Moore & Lee Ranaldo (Sonic Youth)** actively incorporate serendipity into their work, using specially tuned and prepared guitars. Using noise as a means of expression, he showed that the guitar is a tool for depicting not only melodies and chords, but also space and emotion.
 
-**Glenn Branca**はギターオーケストラを編成し、都市的な音響の表現を可能にした。多人数ギターによるハーモニーとノイズの重層構造は、後のシューゲイザーやノイズロックに大きな影響を与えた。
+**Glenn Branca** has assembled a guitar orchestra that allows for the expression of urban acoustics. The layered structure of harmony and noise created by multiple guitar players had a major influence on later shoegaze and noise rock.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gDBsyra0FIA?si=CzvTcQbIrbnyQE46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Fred Frith**は即興演奏で偶発性を重視し、ギターの物理的可能性を最大化。ピック、弦、ボディを多様に操作し、従来の技法を超えた表現を行った。
+**Fred Frith** emphasizes contingency in improvisation and maximizes the physical possibilities of the guitar. By manipulating the pick, strings, and body in a variety of ways, he created expressions that went beyond traditional techniques.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2WSeZZV6iQ?si=6HCr9hcptnQiKByT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 3. 静寂と轟音の狭間（1990〜2000年代）
+## 3. Between silence and roar (1990s-2000s)
 
-**Kevin Shields（My Bloody Valentine）**は、轟音の壁を用いたシューゲイザーの代表。フィードバックとモジュレーションで音を空間化し、音の「質感」で感情を表現する新たなスタイルを生み出した。
+**Kevin Shields (My Bloody Valentine)** is a representative of shoegaze using a roaring wall. He created a new style that spatializes sound through feedback and modulation and expresses emotion through the "texture" of sound.
 
-**David Pajo（Slint / Papa M）**は、静寂を構造化するポストロックの先駆。繊細なアルペジオとリズムの組み合わせで、静と動のコントラストを生み出し、物語的な音世界を構築した。
+**David Pajo (Slint/Papa ​​M)** is a pioneer of post-rock that structures silence. The combination of delicate arpeggios and rhythms creates a contrast between stillness and movement, creating a narrative sound world.
 
-**Jim O’Rourke**は、実験音響とメロディを融合させ、ジャンル横断的なギターワークを展開。音響と歌心の両立を可能にした。
+**Jim O"Rourke** fuses experimental sounds and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
 
-**Godspeed You! Black Emperor**は、ギターを叙事詩の道具として扱い、長大な楽曲で都市や社会の風景を描く。
+**Godspeed You! Black Emperor** treats the guitar as a tool for epic poetry, painting urban and social landscapes with long songs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZgkyX1-8ERo?si=OBAmir7F_da7KuMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 4. 現代の越境者たち（2010〜2020年代）
+## 4. Modern border crossers (2010-2020s)
 
-**Mary Halvorson**はジャズ即興と抽象表現を融合し、ギターの不可能性を可能に変える。モダンジャズとアヴァンギャルドを橋渡しする存在。
+**Mary Halvorson** fuses jazz improvisation and abstract expression, turning the impossible with the guitar into the possible. He is a bridge between modern jazz and avant-garde.
 
-**Ryley Walker**は現代フォークに精神的変奏を導入し、ブルース、ジャズ、ロックを融合。ギターは物語を語るための手段であり、感情の複雑さを映す鏡となる。
+**Ryley Walker** introduces spiritual variations to modern folk, fusing blues, jazz, and rock. The guitar is a vehicle for storytelling and a mirror for emotional complexity.
 
-**Yves Tumor**は、ノイズ、ポップ、身体表現を横断。ギターは声や効果音のように扱われ、楽器の枠組みを超えた表現媒体となる。
+**Yves Tumor** traverses noise, pop, and physical expression. The guitar is treated like a voice or sound effect, and becomes a medium of expression that transcends the framework of an instrument.
 
-**Ichika Nito / Yvette Young**はSNS世代の技巧派。複雑なポリリズム、タッピング、ハーモニー構築により、デジタル時代のギターテクニックを刷新した。
-
----
-
-# III. 日本篇：沈黙と轟音のギタリスト史
-
-## 1. 戦後からエレキ黎明期（1950〜70年代）
-
-**寺内タケシ**は戦後日本のエレキブームを牽引。テクニカルかつエンターテイメント性のある演奏で、若者にギターの魅力を伝えた。
-
-**Char**はブルースを日本語化し、日本の音楽文化におけるギター表現を拡張。独自の旋律と技巧で国内外に評価を得た。
-
-**高中正義**はフュージョンや南国風メロウを融合させ、日本ギター音楽に独自の彩りを与えた。技巧と情緒の融合が特徴。
+**Ichika Nito / Yvette Young** is a technical expert from the SNS generation. With complex polyrhythms, tapping, and harmony construction, he has revolutionized guitar technique in the digital age.
 
 ---
 
-## 2. アンダーグラウンドの胎動（1970〜80年代）
+# III. Japan: A history of silent and roaring guitarists
 
-**水谷孝（Les Rallizes Dénudés）**は退廃的なギターノイズとサイケデリックな演奏で、日本のノイズ／アンダーグラウンドシーンに多大な影響を与えた。
+## 1. After the war and the dawn of electric power (1950s to 1970s)
+
+**Takeshi Terauchi** led the electric boom in postwar Japan. He conveyed the appeal of the guitar to young people with his technical and entertaining performances.
+
+**Char** translates the blues into Japanese and expands the guitar expression in Japanese music culture. His unique melody and technique earned him acclaim both domestically and internationally.
+
+**Masayoshi Takanaka** has given Japanese guitar music a unique color by fusing fusion and tropical mellow. It is characterized by a fusion of technique and emotion.
+
+---
+
+## 2. Underground movement (1970s-80s)
+
+**Takashi Mizutani (Les Rallizes Dénudés)** had a huge influence on the Japanese noise/underground scene with his decadent guitar noise and psychedelic performances.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XUkzRWei34?si=q2N0itqSX4Kgd3AZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -138,13 +141,13 @@ color: #fff;
 - **Techniques**: Integrates all physical expressions such as picking, sliding, bow playing, resonant object manipulation, bass shouts, strange voices, whistling, etc.
 - **Ideology**: Music is an extension of the body, and the guitar is a mirror of emotion and spirit. Sublimating the destructive tone as an emotional expression.
 - **Major Works**:
-  - "Live at Improvised Music from Japan" series: Records of extreme improvised performances
-  - Live performance with MERZBOW: Dialogue between noise and physical expression
-  - Collaboration with Seiichi Yamamoto: Improvisation where introspection and destruction intertwine
+- "Live at Improvised Music from Japan" series: Records of extreme improvised performances
+- Live performance with MERZBOW: Dialogue between noise and physical expression
+- Collaboration with Seiichi Yamamoto: Improvisation where introspection and destruction intertwine
 - **Live Features**:
-  - Long improvisation lasting several hours
-  - Performance using the whole body (strings, body, voice)
-  - Experiential performance that appeals not only to hearing, but also to spatial and physical sensations
+- Long improvisation lasting several hours
+- Performance using the whole body (strings, body, voice)
+- Experiential performance that appeals not only to hearing, but also to spatial and physical sensations
 - **Influence**: Leaves a huge footprint on the entire Japanese underground scene and becomes a spiritual beacon for subsequent guitarists and experimental musicians.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -203,6 +206,7 @@ The guitar has always been a symbol of free expression, from the underground to 
 
 > The trembling of guitar strings continues to resonate throughout the ages.
 
+
 ---
 
 ### Chronology (1950-2020)
@@ -210,30 +214,31 @@ The guitar has always been a symbol of free expression, from the underground to 
 <div class="mermaid">
 
 flowchart TD
-    subgraph world
-    A1950["Chuck Berry 1950s"]
-    A1960["Jimi Hendrix 1960s"]
-    A1970["Sonic Youth 1970s-80s"]
-    A1980["Kevin Shields 1990s"]
-    A1990["Ichika Nito 2010s"]
-    end
+subgraph world
+A1950["Chuck Berry 1950s"]
+A1960["Jimi Hendrix 1960s"]
+A1970["Sonic Youth 1970s-80s"]
+A1980["Kevin Shields 1990s"]
+A1990["Ichika Nito 2010s"]
+end
 
 subgraph japan
-    J1950["Takeshi Terauchi 1950s"]
-    J1960["Char 1970s"]
-    J1970["Seiichi Yamamoto / Keiji Haino 1980s-90s"]
-    J1980["MONO/toe 2000s"]
-    J1990["Ichika Nito / Aoba Ichiko 2010s"]
-    end
+J1950["Takeshi Terauchi 1950s"]
+J1960["Char 1970s"]
+J1970["Seiichi Yamamoto / Keiji Haino 1980s-90s"]
+J1980["MONO/toe 2000s"]
+J1990["Ichika Nito / Aoba Ichiko 2010s"]
+end
 
 A1950 --> A1960 --> A1970 --> A1980 --> A1990
-    J1950 --> J1960 --> J1970 --> J1980 --> J1990
+J1950 --> J1960 --> J1970 --> J1980 --> J1990
 
 </div>
 
 ---
 
 ### Discography
+
 
 | Artist | Representative works | Links |
 |--------------|---------|---------------|
@@ -250,5 +255,4 @@ A1950 --> A1960 --> A1970 --> A1980 --> A1990
 | toe | "the book about my idle plot on a vague anxiety" | [ Amazon ](https://amzn.to/4nVdaNt) |
 | Yvette Young / Covet | "technicolor" | [ Amazon ](https://amzn.to/3L2AbPX) |
 | Fred Frith | "Guitar Solos" | [ Amazon ](https://amzn.to/3Jc5o2K) |
-
 

@@ -12,20 +12,20 @@ title: Kaleidoscópio – Meu Sonho
 ---
 
 
-Kaleidoscópio (Kaleidoscópio/Kaleido) is a drum'n'bass and bossa nova duo consisting of Ramilson Maia (DJ Ramilson Maia) and Janaina Lima (DJ Ramilson Maia) from São Paulo, Brazil. It became popular in Brazil and Italy in the early 2000s, and then became popular worldwide.
+Kaleidoscópio (Kaleidoscópio/Kaleido) is a drum"n"bass and bossa nova duo consisting of Ramilson Maia (DJ Ramilson Maia) and Janaina Lima (DJ Ramilson Maia) from São Paulo, Brazil. It became popular in Brazil and Italy in the early 2000s, and then became popular worldwide.
 
 The B-side includes a remix by Brazilian DJ Deeplick.
 
 #### Tracklist
-"""md
+```md
 A1. Meu Sonho (Star Guitar Remix Extended Club)
 
-A2. Meu Songho (Original Album)
+A2. Meu Sonho (Original Album)
 
-B1. Meu Songho (Deeplick Remix Extended Club)
+B1. Meu Sonho (Deeplick Remix Extended Club)
 
 B2. Meu Sonho (So Pra Mim Remix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53384235821?afid=6142608987){: .button1}
 

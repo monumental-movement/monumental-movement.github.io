@@ -16,16 +16,17 @@ title: '[Column] The multilayered structure of Tokyo sound - the sound culture o
 ---
 
 
-## 序章：都市が鳴らす音の地層
+## Prologue: Strata of sounds made by cities
 
-文：mmr｜テーマ：新宿のジャズ、渋谷のクラブカルチャー、下北沢のインディーズ、秋葉原の電子音。東京が生んだ多層的なサウンドの歴史と現在を辿る。
 
-東京という都市は、音によってその輪郭を変え続けてきた。  
-電車の走行音、雑踏、看板のネオンが放つハムノイズ、ストリートのギター、そして地下のビート。  
-それぞれの音が、異なる時代・異なる層を構成しながら共存している。
+Text: mmr｜Theme: Jazz in Shinjuku, club culture in Shibuya, indie music in Shimokitazawa, electronic music in Akihabara. Tracing the history and present of the multi-layered sounds produced in Tokyo.
 
-このコラムでは、東京の中でも特に音楽文化が交差してきた4つのエリア、**新宿・渋谷・下北沢・秋葉原** に焦点を当て、戦後から現代に至る音の変遷をたどっていく。  
-それは単なる地域史ではなく、都市の「サウンドスケープ（音の風景）」の記録であり、音楽を媒介とした社会の鏡像である。
+The city of Tokyo has continued to change its contours through sound.
+The sounds of trains, crowds, the hum of neon signs, street guitars, and underground beats.
+Each sound coexists, composing different eras and different layers.
+
+In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the changes in sound from the postwar period to the present day.
+It is not just a piece of local history, but a record of the city's "soundscape," a mirror image of society mediated by music.
 
 ---
 
@@ -42,142 +43,143 @@ color: #fff;
 }
 </style>
 
-## 第1章：新宿 ― 混沌と自由のジャズ都市
 
-### 1. 新宿ピットインと戦後ジャズの夜
-1960年代後半、戦後の混乱から立ち上がった若者たちが集ったのは新宿の路地裏だった。  
-ピットイン、DUG、Jなど、数多くのジャズ喫茶が生まれ、音は自由の象徴となる。  
-サックスが鳴り響く夜は、同時に政治の季節でもあり、ジャズは都市の怒りと解放を同時に鳴らしていた。
+## Chapter 1: Shinjuku - Jazz City of Chaos and Freedom
 
-### 2. ロックとアングラの交錯
-寺山修司や唐十郎が新宿のアンダーグラウンドを演劇で切り拓く頃、  
-頭脳警察やRCサクセションがロックでそれに呼応した。  
-ライブハウス「LOFT」が1976年に誕生し、音楽の自由区としての新宿が確立する。
+### 1. Shinjuku Pit In and Postwar Jazz Night
+In the late 1960s, young people emerging from the post-war chaos gathered in the back alleys of Shinjuku.
+Many jazz cafes such as Pit Inn, DUG, and J were born, and sound became a symbol of freedom.
+The night when the saxophone rang out was also the political season, and jazz sounded simultaneously the anger and liberation of the city.
 
----
-
-## 第2章：渋谷 ― クラブとストリートの狭間で
-
-### 1. 渋谷系という幻想
-1990年代、渋谷は「世界とつながる音楽都市」として脚光を浴びた。  
-タワレコの7階から広がる音のネットワーク。Pizzicato Five、Cornelius、小沢健二。  
-海外から逆輸入されたポップ感覚は、同時に日本的なクールさとして再定義された。
-
-### 2. クラブカルチャーの台頭
-WOMB、Contact、Visionなどのクラブが並び、深夜の渋谷は電子の鼓動に包まれる。  
-ハウス、テクノ、ヒップホップが交錯する街は、情報と肉体、デジタルとアナログの境界線を溶かしていった。
+### 2. Intersection of rock and underground
+Around the time when Shuji Terayama and Juro Kara were opening up the underground of Shinjuku through theater,
+Brain Police and RC Succession responded with rock.
+The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for music.
 
 ---
 
-## 第3章：下北沢 ― インディペンデントの聖地
+## Chapter 2: Shibuya - Between the club and the street
 
-### 1. スタジオから始まる音楽の民主化
-1980年代後半、小さなスタジオとライブハウスが点在する下北沢に、若者たちはギターを抱えて集まった。  
-“シモキタ”はインディーズの象徴となり、ナンバーガール、ASIAN KUNG-FU GENERATION、くるりなどが育った。
+### 1. The illusion of Shibuya-kei
+In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
+A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
+The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 
-### 2. 「自分で作る音楽文化」
-レコード会社を介さない自主制作、ZINE、SNS。  
-下北沢は音楽のDIY精神を受け継ぎながら、ライブハウス「BASEMENT BAR」や「SHELTER」を中心にいまも脈動している。
-
----
-
-## 第4章：秋葉原 ― 電子音とオタク文化の融合
-
-### 1. テクノポップからアニソン・リミックスへ
-1980年代のYMOが築いた電子音の系譜は、2000年代の秋葉原で再び進化する。  
-ゲーム音楽、ボーカロイド、チップチューン、アニソンリミックス――。  
-サブカルの坩堝でありながら、世界のエレクトロシーンに接続する新たな文脈を形成した。
-
-### 2. 秋葉原の音は「拡張現実」
-「音楽」と「テクノロジー」が融合した街。ライブ配信、VTuber、AI音楽。  
-秋葉原は「未来のポップス実験場」として、東京の他地域とは異なる時間軸で進化している。
+### 2. The rise of club culture
+Lined with clubs such as WOMB, Contact, and Vision, late at night Shibuya is filled with electronic pulses.
+A city where house, techno, and hip-hop intersect, melting the boundaries between information and body, digital and analog.
 
 ---
 
-## 第5章：交差する東京のリズム
+## Chapter 3: Shimokitazawa - The Mecca of Independents
 
-新宿の夜の即興、渋谷のビート、下北沢のバンドサウンド、秋葉原の電子音。  
-これらは独立した文脈を持ちながらも、いまや互いに交錯している。  
-渋谷で育ったトラックメーカーが秋葉原的美学を取り入れ、下北沢のシンガーが新宿ジャズのリズムを引用する。  
-**東京の音は「多層的なリミックス」として存在しているのだ。**
+### 1. Democratization of music starts in the studio
+In the late 1980s, young people gathered with guitars in Shimokitazawa, a neighborhood dotted with small studios and live music venues.
+"Shimokita" became a symbol of indie music, and was the birthplace of Number Girl, ASIAN KUNG-FU GENERATION, Kururi, and others.
 
----
-
-## 第6章：都市の記憶としてのサウンドスケープ
-
-都市の音は消えていく。  
-だが、それは同時に蓄積でもある。  
-古いビルの壁に残るリズムの残響、解体されたライブハウスの床板、壊れたスピーカー。  
-それらすべてが、東京という巨大なサウンドアーカイブを構成している。
+### 2. "Create your own music culture"
+Independent production, ZINE, and SNS without going through a record company.
+Inheriting the DIY spirit of music, Shimokitazawa still pulsates with live houses such as BASEMENT BAR and SHELTER.
 
 ---
 
-## 結語：音楽都市・東京の未来へ
+## Chapter 4: Akihabara - Fusion of electronic sounds and otaku culture
 
-次の東京サウンドは、どこから生まれるのか。  
-AIが生成する音楽、仮想空間のクラブ、ストリートでの生演奏。  
-形は変わっても、「音で語る都市」という構造は変わらない。  
-新宿の夜も、渋谷のクラブも、秋葉原の電脳も、ひとつの「東京のビート」として未来に響き続ける。
+### 1. From techno pop to anime song remix
+The lineage of electronic sounds built by YMO in the 1980s evolved once again in Akihabara in the 2000s.
+Game music, vocaloids, chip tunes, anime song remixes.
+Although it is a melting pot of subculture, it has formed a new context that connects to the world's electronic scene.
+
+### 2. The sound of Akihabara is "augmented reality"
+A city where "music" and "technology" are fused. Live streaming, VTuber, AI music.
+Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
 
 ---
 
-## 年表：東京サウンドの変遷（1950–2025）
+## Chapter 5: Intersecting rhythms of Tokyo
+
+Improvisation at night in Shinjuku, beats in Shibuya, band sounds in Shimokitazawa, electronic sounds in Akihabara.
+Although these have independent contexts, they are now intertwined with each other.
+A Shibuya-raised truck maker incorporates Akihabara aesthetics, and a Shimokitazawa singer references Shinjuku jazz rhythms.
+**Tokyo's sound exists as a "multilayered remix." **
+
+---
+
+## Chapter 6: Soundscape as urban memory
+
+The sounds of the city disappear.
+However, it is also an accumulation.
+The reverberations of rhythms left on the walls of old buildings, the floorboards of demolished live music venues, and broken speakers.
+All of them make up the huge sound archive that is Tokyo.
+
+---
+
+## Conclusion: Towards the future of music city Tokyo
+
+Where will the next Tokyo sound come from?
+AI-generated music, virtual clubs, and live music on the streets.
+Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
+The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
+
+---
+
+## Chronology: Changes in Tokyo Sound (1950–2025)
 
 <div class="mermaid">
 
 flowchart TD
 
-    A1950["1950s: 新宿にジャズ喫茶文化が誕生"]
-    A1970["1970s: アングラ演劇とロックの融合（新宿LOFT）"]
-    A1990["1990s: 渋谷系ポップスとクラブカルチャーの勃興"]
-    A2000["2000s: 秋葉原からボーカロイドとリミックス文化が拡散"]
-    A2010["2010s: 下北沢インディーズの再興とフェス文化"]
-    A2020["2020s: AI音楽と仮想都市ライブが台頭"]
+A1950["1950s: The birth of jazz cafe culture in Shinjuku"]
+A1970["1970s: Fusion of underground theater and rock (Shinjuku LOFT)"]
+A1990["1990s: The rise of Shibuya-kei pops and club culture"]
+A2000["2000s: Vocaloid and remix culture spread from Akihabara"]
+A2010["2010s: Revival of Shimokitazawa Indies and Festival Culture"]
+A2020["2020s: The rise of AI music and virtual city live performances"]
 
-    A1950 --> A1970
-    A1970 --> A1990
-    A1990 --> A2000
-    A2000 --> A2010
-    A2010 --> A2020
+A1950 --> A1970
+A1970 --> A1990
+A1990 --> A2000
+A2000 --> A2010
+A2010 --> A2020
+
 
 </div>
 
 ---
 
-## 図解：東京音楽文化の多層構造
+## Illustration: Multi-layered structure of Tokyo music culture
 
 <div class="mermaid">
 
 graph LR
-    subgraph 地上
-        Shibuya["渋谷：クラブ・ポップ"]
-        Shimokita["下北沢：バンド・インディーズ"]
-    end
-    subgraph 地下
-        Shinjuku["新宿：ジャズ・アングラ"]
-        Akiba["秋葉原：電子音・サブカル"]
-    end
+subgraph ground
+Shibuya["Shibuya: Club Pop"]
+Shimokita["Shimokitazawa: Band Indies"]
+end
+subgraph underground
+Shinjuku["Shinjuku: Jazz Underground"]
+Akiba["Akihabara: electronic sound/subculture"]
+end
 
-    Shibuya --> Akiba
-    Shimokita --> Shinjuku
-    Shinjuku --> Shibuya
+Shibuya --> Akiba
+Shimokita --> Shinjuku
+Shinjuku --> Shibuya
 
 </div>
 
 ---
 
-## 参考文献・ディスコグラフィー
+## References/Discography
 
-- [Pizzicato Five 『Made in USA』（1995）](https://amzn.to/4hs1K1x)
+- [Pizzicato Five "Made in USA" (1995)](https://amzn.to/4hs1K1x)
 
-- [YMO 『Solid State Survivor』（1979）](https://amzn.to/4hooSOd)
+- [YMO "Solid State Survivor" (1979)](https://amzn.to/4hooSOd)
 
-- [RCサクセション 『シングル・マン』（1976）](https://amzn.to/4qkwxkV)
+- [RC Succession "Single Man" (1976)](https://amzn.to/4qkwxkV)
 
 - [Cornelius "Fantasma" (1997)](https://amzn.to/47Ehs64)
 
 - [Perfume "GAME" (2008)](https://amzn.to/4nhP8ek)
 
 - [Number Girl "SAPPUKEI" (2000)](https://amzn.to/3J1qroJ)
-
 

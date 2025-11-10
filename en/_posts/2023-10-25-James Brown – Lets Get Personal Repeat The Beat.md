@@ -17,11 +17,11 @@ title: James Brown – Let's Get Personal Repeat The Beat
 This is a 7-inch record by James Blanc released in 1986.
 
 #### Tracklist
-"""md
+```md
 A. Let's Get Personal
 
 B. Repeat The Beat (Faith)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12374882374?afid=6142608987){: .button1}
 

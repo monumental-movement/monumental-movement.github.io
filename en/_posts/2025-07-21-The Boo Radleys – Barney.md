@@ -18,13 +18,13 @@ A UK alternative rock band related to shoegaze and Britpop that was active from 
 "Barney (...And Me)" is a single cut from the album "Giant Steps" released in 1993, which also includes "Lazarus", which was used as the ending song for the TV anime "Lazarus" in 2025. Indie Rock was released in 1994 by Creation Records, a UK indie label that included Oasis and Primal Scream.
 
 #### Tracklist
-"""md
+```md
 A1. Barney (...And Me)
 A2. Tortoiseshell
 
 B1. Zoom
 B2. Cracked Lips, Homesick
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31547000988?afid=6142608987){: .button1}
 

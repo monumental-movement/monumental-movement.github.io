@@ -17,13 +17,13 @@ City Life (Part 1) is a house track released in 2005 by Amsterdam-based Dutch re
 Side A is a remix by Carl Craig.
 
 #### Tracklist
-"""md
-A. City Life (Carl Craig's Max Mix)
+```md
+A. City Life (Carl Craig's Max Mix) 
 
 B1. City Life (Original Version)
 
-B2. City Life (Deepart Mix)
-""""
+B2. City Life (Deepart Mix) 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68163433604?afid=6142608987){: .button1}
 

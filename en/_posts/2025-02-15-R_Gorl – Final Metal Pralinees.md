@@ -17,20 +17,20 @@ Robert Görl, also known as R_Görl, is a musician from Munich, Germany. He is a
 "Final Metal Pralinies" is a techno album released by the label Disko B in 2000.
 
 #### Tracklist
-"""md
+```md
 1. One More Hour
 2. Artificial Water
 3. Rave Plastik
 4. Dizzy Loophead
 5. Las Vegas Cowboy
 6. Bass Spieler
-7.KDB
-8. War Damon
+7. KDB
+8. War Dämon
 9. Drum Putzen
-10.Basket
+10. Basket
 11. Exotika
 12. Last Korg Exit
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
 

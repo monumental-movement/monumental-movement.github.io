@@ -16,12 +16,12 @@ title: Sha'dasious – U Kant Play Me
 Sha'dasious – U Kant Play Me / Phunk Wucha Heard
 Shadacious
 
-Single cut from Sha'dasious's first album "Phunk Wucha Heard". "U Kant Play Me" is a hip hop classic that is supported by the Hip Hop and R&B scenes.
+Single cut from Sha"dasious"s first album "Phunk Wucha Heard". "U Kant Play Me" is a hip hop classic that is supported by the Hip Hop and R&B scenes.
 
 This record is a US version released by RCA in 1994.
 
 #### Tracklist
-"""md
+```md
 A1. U Kant Play Me (Vox)
 A2. U Kant Play Me (Instrumental)
 A3. U Kant Play Me (Acappella)
@@ -29,7 +29,7 @@ A3. U Kant Play Me (Acappella)
 B1. Phunk Wucha Heard (LP Mix)
 B2. Phunk Wucha Heard (Remix)
 B3. Phunk Wucha Heard (Remix Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
 

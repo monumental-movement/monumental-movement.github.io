@@ -17,6 +17,7 @@ title: '[Column] Genealogy and present of German Techno - Aesthetics of sound sp
 
 ## An inorganic heartbeat that shakes the world from Berlin.
 
+
 Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and silence.
 
 <hr>
@@ -27,7 +28,7 @@ Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and sile
 
 <hr>
 
-### Historical background: the fall of the Berlin Wall and the explosion of techno
+### Historical background: The fall of the Berlin Wall and the explosion of techno
 
 The fall of the Berlin Wall in 1989 was a turning point in the development of techno in Germany. With the fusion of Eastern and Western cultures, parties utilizing abandoned buildings and warehouses rapidly increased, and Berlin became a techno mecca symbolizing the "sound of freedom."
 
@@ -199,5 +200,4 @@ Listening to his works while tracing their history is nothing but understanding 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 
 🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
-
 

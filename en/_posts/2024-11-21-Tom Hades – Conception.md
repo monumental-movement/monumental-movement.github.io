@@ -19,14 +19,14 @@ Wim Vanoeveren, also known as Tom Hades, is a techno/techhouse DJ and producer b
 The B-side is a remix by Stanny Franssen (aka G-Force), an important figure in the Belgian techno scene.
 
 #### Tracklist
-"""md
+```md
 Birth Side
 A1. Conception (Original Mix)
 A2. Fructiss (Original Mix)
 
 Re-birth Side
-B. Conception (Remix by Stanny Franssen)
-""""
+B.  Conception (Remix by Stanny Franssen)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m18191583425?afid=6142608987){: .button1}
 

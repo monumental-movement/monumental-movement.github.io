@@ -17,15 +17,15 @@ Frankie Knuckles is a disco and house music pioneer, and Shelton Becton is a sin
 "It's Hard Sometime" is a collaborative song between them, featuring a soulful melody, delicate rhythm, heart-touching lyrics and an elegant house sound.
 
 #### Tracklist
-"""md
-A1 It's Hard Sometime (FK Classic Club)
+```md
+A1  It's Hard Sometime (FK Classic Club)
 
-A2 It's Hard Sometime (R&B 12")
+A2  It's Hard Sometime (R&B 12")
 
-B1 It's Hard Sometime (Alternative 12")
+B1  It's Hard Sometime (Alternative 12")
 
-B2 It's Hard Sometime (Factory Dub)
-""""
+B2  It's Hard Sometime (Factory Dub)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27871104265?afid=6142608987){: .button1}
 

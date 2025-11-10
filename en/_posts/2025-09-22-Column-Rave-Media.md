@@ -16,6 +16,7 @@ title: '[Column] Rave and media: Archiving unrecorded music culture'
 ---
 
 
+
 ## Music that was supposed to disappear
 
 Text: mmr | Genre: Cultural records/media considerations | Theme: Chasing the traces of disappearing music
@@ -25,6 +26,7 @@ Rave was an ad-hoc celebration of sound and light, and was basically a culture t
 However, in the 21st century, with the advent of YouTube, SNS, and archive sites, ""cultures that were supposed to be unrecorded'' are beginning to be recorded and reevaluated. This change is extremely interesting from both media and music culture perspectives.
 
 ---
+
 
 <style type="text/css">
 
@@ -38,6 +40,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### Rave, a space without media
 
@@ -55,6 +58,7 @@ In other words, the rave was "live" in every sense of the word. It was aesthetic
 
 ---
 
+
 ### Unrecorded music culture
 
 **● Examples of what was lost**:
@@ -70,6 +74,7 @@ Nonverbal interaction between spectators
 Rave was not a sound source or score, but a phenomenon itself. Therefore, such records have fundamentally different challenges than ordinary music archives.
 
 ---
+
 
 ### Who archives? Media deterioration
 
@@ -89,6 +94,7 @@ These are grassroots archives that fill areas not covered by traditional music m
 
 ---
 
+
 ### Disruption and restoration of club culture
 
 **● The reason why there are few records in Japan**
@@ -97,7 +103,7 @@ According to the Entertainment Business Law, clubs were classified as "entertain
 
 It was easy to avoid taking photos and videos (especially in Shibuya and Roppongi)
 
-Magazine media (such as ""LOUD'' and ""ele-king'') could only follow a limited scope.
+Magazine media (such as ""LOUD" and ""ele-king") could only follow a limited scope.
 
 As a result, the Tokyo rave of the 1990s only exists "in memory."
 
@@ -113,9 +119,13 @@ Archive of past footage of Shibuya WOMB and ageHa
 
 Established in 2007, "[**Rave Archive**](https://ravearchive.com)" is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
+
 Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. and Canada.
 
+
+
 ---
+
 
 ### The value of "irregular archives" in the digital age
 
@@ -131,15 +141,18 @@ However, this is also the most vivid means of preserving the ""reality of the pl
 
 ---
 
+
 ### Conclusion: How to preserve unrecorded culture
 
 Rave was an "art of experience." It is impossible to record this and pass it on to future generations using normal music archiving methods alone.
 
 However, the accumulation of memories, fragments, reinterpretations, and "passion" is making this possible. The time has come for those of us who have grown up with media to go beyond media and reconsider how we archive culture.
 
+
 ---
 
 ### Related columns
+
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 

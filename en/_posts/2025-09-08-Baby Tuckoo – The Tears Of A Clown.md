@@ -22,12 +22,12 @@ A is a cover of Smokey Robinson & the Miracles' "The Tears of a Clown" (produced
 B is a single cut from Baby Tuckoo's album "Force Majeure".
 
 #### Tracklist
-"""md
+```md
 A. The Tears Of A Clown
 
 B1. Over You
 B2. The Lights Go Down
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77587395499?afid=6142608987){: .button1}
 

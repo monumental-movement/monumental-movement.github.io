@@ -19,7 +19,7 @@ The female vocals were provided by Lana Earl and reached number 4 in the Netherl
 The song is about a woman who doesn't want to go to a nightclub and start a relationship, she just wants to dance. The chorus samples the 1983 song "Change" by the British rock group Tears for Fears.
 
 #### Tracklist
-"""md
+```md
 A1. No Deeper Meaning (Club Mix)
 
 A2. No Deeper Meaning (House Mix)
@@ -31,7 +31,7 @@ B1. No Deeper Meaning (51 W. 52nd Street Mix)
 B2. No Deeper Meaning (Technology Mix)
 
 B3. No Deeper Meaning (LP Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46485719790?afid=6142608987){: .button1}
 

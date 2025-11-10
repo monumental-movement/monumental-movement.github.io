@@ -20,11 +20,11 @@ This song by Screamin' Jay Hawkins was sung and performed by Screamin' Jay Hawki
 This song is one of the most iconic pieces of Screamin' Jay Hawkins' career and personality, embodying the unique and mysterious nature of his music.
 
 #### Tracklist
-"""md
-A. Constipation Blues = Benpino Blues
+```md
+A. Constipation Blues = べんぴのぶるーす
 
-B. I'm Lonely = Man crying blues
-""""
+B. I'm Lonely = 男泣きのブルース
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
 

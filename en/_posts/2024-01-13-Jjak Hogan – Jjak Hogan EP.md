@@ -18,15 +18,15 @@ An electro breakbeat and rap track by US duo JJAK HOGAN, released in 2008 from R
 JJAK HOGAN is a project by Slim E. Neutron (Donte Oliver) and Davey Koppa Feel (Wayne Brooks) from Augusta, Georgia, who also perform under the names Dr. Bass So-Low and Smoke Master I.C.E.
 
 #### Tracklist
-"""md
+```md
 A1. Dev
 
-A2.2 Far Advanced
+A2. 2 Far Advanced
 
-B1. Outer
+B1. Outdere
 
-B2.Warped Up
-""""
+B2. Warped Up
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92570158197?afid=6142608987){: .button1}
 

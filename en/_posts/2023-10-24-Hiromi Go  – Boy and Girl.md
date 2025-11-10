@@ -18,14 +18,14 @@ This is Hiromi Go's first single (debut song) released in 1972.
 
 Lyrics – Tokiko Iwatani
 
-Music & Arrangement – Kyohei Tsutsumi
+Music & Arrangement – ​​Kyohei Tsutsumi
 
 #### Tracklist
-"""md
-A. Boys and girls
+```md
+A. 男の子女の子
 
-B. Follow your dreams
-""""
+B. 夢をおいかけて 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m65536068003?afid=6142608987){: .button1}
 

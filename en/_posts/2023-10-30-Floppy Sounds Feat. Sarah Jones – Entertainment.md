@@ -19,13 +19,13 @@ Rob Rives, also known as Floppy Sounds, is a producer and engineer in the US mod
 A2's co-producer is Vaughan Merrick.
 
 #### Tracklist
-"""md
+```md
 A1. Entertainment (Club Mix)
 
 A2. Entertainment (Hard Mix)
 
-B1.Entertainment (Dub)
-""""
+B1. Entertainment (Dub)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43333910037?afid=6142608987){: .button1}
 

@@ -22,19 +22,19 @@ A1's producer is Phat Noize.
 A3's producer is Stevie J.
 
 #### Tracklist
-"""md
-A1.Unstoppable
+```md
+A1. Unstoppable
 
-A2. Loyalty
+A2. Loyalty 
 Featuring – Black & Wild
 
-A3. No Commitment
+A3. No Commitment 
 Featuring – Cardan, Missy Lou
 
 B1. Who Got (20th C. Mix)
 
 B2. Who Got (Mill Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48204372402?afid=6142608987){: .button1}
 

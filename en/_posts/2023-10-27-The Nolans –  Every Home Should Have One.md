@@ -20,9 +20,9 @@ The title of the record is "Adored Aye Aye" on the front of the jacket and "Ador
 The record contains only the A side (label side) and the B side (signed color photo of the group) is not grooved. The record is packaged in a clear round-bottomed inner record bag and an outer paper jacket with a photo of the artist. The back of the outer jacket includes a brief artist biography (Japanese) and lyrics (English and Japanese).
 
 #### Tracklist
-"""md
-A. Every Home Should Have One (Akogare Ai Ai Ai)
-""""
+```md
+A. Every Home Should Have One (あこがれアイ・アイ・アイ)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m72093615038?afid=6142608987){: .button1}
 

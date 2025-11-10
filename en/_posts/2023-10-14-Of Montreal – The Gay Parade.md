@@ -15,7 +15,7 @@ title: Of Montreal – The Gay Parade
 of Montreal is an American rock band formed in Georgia in 1996, led by Kevin Burns.
 
 #### Tracklist
-"""md
+```md
 1. Old Familiar Way
 2. Fun Loving Nun
 3. Tulip Baroo
@@ -23,14 +23,14 @@ of Montreal is an American rock band formed in Georgia in 1996, led by Kevin Bur
 5. The March Of The Gay Parade
 6. Neat Little Domestic Life
 7. A Collection Of Poems About Water
-8. Y The Quale And Vaguely Bird Noisily Enjoying Their Forbidden Tryst
-9.The Autobiographical Grandpa
+8. Y The Quale And Vaguely Bird Noisily Enjoying Their Forbidden Tryst 
+9. The Autobiographical Grandpa
 10. The Miniature Philosopher
 11. My Friend Will Be Me
-12.My Favorite Boxer
+12. My Favorite Boxer
 13. Advice From A Divorced Gentlemen To His Bachelor Friend Considering Marriage
-14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Ocean and more
-""""
+14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 

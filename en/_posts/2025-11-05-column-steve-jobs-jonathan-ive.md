@@ -14,16 +14,19 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 ---
 
 
-## 序章：音楽とテクノロジーの融合という新しい文化
+## Prologue: A new culture of fusion of music and technology
 
-文：mmr｜テーマ：二人の音楽観・デザイン哲学・そして製品群の変遷を、一次資料と確かな証言をもとにたどっていく
 
-アップルが生み出した数々の製品の中でも、「音」にまつわるデザインは常に中心にあった。  
-スティーブ・ジョブズとジョナサン・アイブ、この二人の協働は、単なるプロダクト設計を超え、  
-**音楽とテクノロジーの融合**という新しい文化を生んだ。
+Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
 
-> 「音楽は、私たちが何者であるかを語る最も純粋な形のひとつだ」  
-> — ジョナサン・アイブ（ポッドキャスト『Life in Seven Songs』より, 2024）
+
+Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.
+The collaboration between Steve Jobs and Jonathan Ive goes beyond mere product design.
+A new culture of **fusion of music and technology** was born.
+
+
+> "Music is one of the purest forms of expressing who we are."
+> — Jonathan Ive (from the podcast "Life in Seven Songs", 2024)
 
 ---
 
@@ -40,124 +43,128 @@ color: #fff;
 }
 </style>
 
-## 第1章　レコードとカリフォルニアの空気
 
-スティーブ・ジョブズは1960年代末から70年代にかけてのカリフォルニア・カウンターカルチャーの申し子である。  
-若い頃からボブ・ディランとビートルズを崇拝していたことは、多くの伝記で裏付けられている。  
+## Chapter 1 Records and the California Air
 
-ウォルター・アイザックソンの伝記『スティーブ・ジョブズ』（2011年）では、彼の家のリビングには **真空管アンプとレコードプレーヤー** があり、  
-夜な夜なボブ・ディランやジョーン・バエズのアルバムを聴いていたと記されている。
+Steve Jobs was a product of the California counterculture of the late 1960s and 1970s.
+His admiration for Bob Dylan and the Beatles from a young age is confirmed by numerous biographies.
 
-> 「Dylanの言葉には、魂が宿っている。あれはマシンの音ではない。」  
-> — スティーブ・ジョブズ（1982年のインタビューより）
+In Walter Isaacson's biography "Steve Jobs" (2011), his living room has a **tube amplifier and a record player**.
+It is said that he listened to albums by Bob Dylan and Joan Baez every night.
 
-音楽は、ジョブズにとって単なる趣味ではなく、**人間と機械の距離を埋める芸術**だった。
+> "Dylan's words have soul. They are not the sounds of a machine."
+> — Steve Jobs (from a 1982 interview)
 
----
-
-## 第2章　アイブの美学と静謐な音
-
-ジョナサン・アイブはロンドン出身。工業デザインを学び、1992年にアップルへ入社。  
-彼の審美眼はバウハウス的合理主義に根ざしているが、音へのこだわりもまた深い。
-
-2024年のポッドキャスト『Life in Seven Songs』で彼は自身の人生を形作った7曲を紹介している。  
-その中には **U2の “40”** や **The Temptations の “Papa Was a Rollin’ Stone”** が含まれ、  
-彼がアナログな音の「厚み」や「温度」に特別な親和性を持っていることが分かる。  
-
-> 「音楽は、プロダクトと同じで、空間の中に形をつくる芸術だ。」  
-> — ジョナサン・アイブ（2024年）
-
-彼がアップルを去った後に設立した会社は **LoveFrom**（ラヴフロム）である。  
-この集団は2023年、高級オーディオブランド「LINN」と協働し、アナログ・ターンテーブルを再設計した。  
-ミニマルで精緻なこの製品は、彼の“音への敬意”を体現している。
+Music was not just a hobby for Jobs, but an art that bridged the gap between humans and machines.
 
 ---
 
-## 第3章　ジョブズと音楽革命 ― iTunesからiPodへ
+## Chapter 2 I"ve"s aesthetics and tranquil sound
 
-2001年、Appleはデジタル音楽の時代を決定づける製品を発表した。
+Jonathan Ive is from London. After studying industrial design, he joined Apple in 1992.
+His aesthetic sense is rooted in Bauhaus rationalism, but he also has a deep obsession with sound.
 
-**iPod**は、ジョブズとアイブの両者の美学が融合した象徴である。  
-ジョブズは「1000曲をポケットに」と語り、  
-アイブは **ホイール操作の“指の触覚性”** にこだわった。  
+In his 2024 podcast, Life in Seven Songs, he shares seven songs that have shaped his life.
+These include **U2"s "40"** and **The Temptations" "Papa Was a Rollin" Stone"**.
+It is clear that he has a special affinity for the ""thickness" and ""temperature" of analog sounds.
 
-iTunes Store の登場（2003年）は、レコード時代以来の音楽消費の革命となった。  
-ジョブズが語ったように、「音楽産業はソフトウェアによって救われる」という予言は現実となる。
+> "Music, like products, is an art that creates shapes in space."
+> — Jonathan Ive (2024)
 
-> 「音楽を合法的にデジタルで届けることは、音楽家に対する最大の敬意だ。」  
-> — スティーブ・ジョブズ（2003年）
-
----
-
-## 第4章　デザインの“音楽的構造”
-
-ジョブズとアイブの共通点は、**音楽を構造的に捉えていた**ことにある。  
-ジョブズはバッハのフーガのように「反復と秩序」を語り、  
-アイブは「静寂の中に機能を残すこと」をデザインの核とした。
-
-### Power Macintoshのシルエット
-
-アイブが設計した Power Mac G4 Cube（2000年）は、まるで無音のスピーカーのような佇まいを持っていた。  
-ファンレス構造、透明なアクリル外装、内部の光の設計──  
-その静謐さは「音を聴くための沈黙」を体現していた。
+The company he founded after leaving Apple is **LoveFrom**.
+In 2023, the group collaborated with luxury audio brand LINN to redesign an analog turntable.
+This minimalist and sophisticated product embodies his "respect for sound."
 
 ---
 
-## 第5章　Macと音楽制作の融合
+## Chapter 3 Jobs and the Music Revolution - From iTunes to iPod
 
-アップルのマシンは単なるデジタル機器ではなく、音楽制作の道具として進化していった。  
-GarageBand（2004年）の登場は、音楽を誰もが作る時代を切り開いた。
+In 2001, Apple introduced a product that defined the era of digital music.
 
-さらにMacBook Pro（2006年〜）では、音響再生にアルミニウム筐体を活かした共鳴設計が採用された。  
-アイブは「筐体そのものが音を整える」と語っている（『FastCompany』インタビュー, 2015）。
 
----
+The **iPod** represents the fusion of both Jobs" and Ive"s aesthetics.
+Jobs said, ""1000 songs in your pocket.''
+Ive focused on the ""finger tactility'' of wheel operation.
 
-## 第6章　レコードからクラウドへ ― 音の記憶の継承
+The arrival of the iTunes Store (2003) marked the first revolution in music consumption since the record era.
+Jobs' prediction that ""the music industry will be saved by software'' is coming true.
 
-ジョブズは、iCloud構想を語る際にも「音楽がどこにいても流れる世界」を夢見た。  
-その根底には、**レコードを手に取り、針を落とす所作の延長**としてのクラウド概念がある。
-
-一方、アイブはLoveFromを通じて、  
-クラウド化と反対軸にある「手触りのある音」を追求している。  
-この二人のベクトルは一見対照的だが、  
-実は「音楽を通じて人を自由にする」という哲学で結ばれている。
+> "Delivering music legally and digitally is the greatest respect for musicians."
+> — Steve Jobs (2003)
 
 ---
 
-## 第7章　二人のデザイン年表（主要製品と音の関係）
+## Chapter 4 "Musical Structure" of Design
 
-| 年 | 製品 | 主な設計者 | 音に関する特徴 |
+What Jobs and Ive have in common is that they viewed music structurally.
+Jobs spoke of "repetition and order" like Bach's fugue,
+Ive's core design was to "retain functionality in silence."
+
+### Power Macintosh silhouette
+
+
+The Power Mac G4 Cube (2000) designed by Ive looked like a silent speaker.
+Fanless structure, transparent acrylic exterior, interior light design──
+The tranquility was the embodiment of "silence in order to listen to sound."
+
+---
+
+## Chapter 5 Integration of Mac and music production
+
+Apple's machines evolved not just as digital devices, but as tools for music production.
+The advent of GarageBand (2004) ushered in an era in which anyone could create music.
+
+
+Furthermore, the MacBook Pro (2006-) adopted a resonance design that utilizes the aluminum casing for sound reproduction.
+Ive says, ""The casing itself shapes the sound'' (Fast Company interview, 2015).
+
+---
+
+## Chapter 6 From records to the cloud - inheritance of sonic memories
+
+When Jobs talked about the iCloud concept, he dreamed of ""a world where music can be played no matter where you are.''
+At its root is the concept of the cloud as an extension of the act of picking up a record and dropping the needle.
+
+On the other hand, Ive through LoveFrom,
+We are pursuing ""tactile sound,'' which is the opposite of cloud computing.
+The vectors of these two people seem to be contrasting, but
+In fact, they are united by the philosophy of ""setting people free through music.''
+
+---
+
+## Chapter 7 Design chronology of the two (relationship between main products and sound)
+
+| Year | Products | Main Designer | Sound Features |
 |----|------|--------------|----------------|
-| 1998 | iMac G3 | Jony Ive | スピーカー一体型デザイン。音の「開放性」重視 |
-| 2000 | Power Mac G4 Cube | Jony Ive | ファンレス構造、無音の象徴 |
-| 2001 | iPod | Ive + Jobs | 「ポケットの中の音楽」革命 |
-| 2003 | iTunes Store | Jobs | 音楽配信ビジネスを刷新 |
-| 2004 | GarageBand | Apple | 音楽制作を一般化 |
-| 2007 | iPhone | Ive + Jobs | 音楽再生デバイスの統合 |
-| 2015 | Apple Music | Apple | ストリーミングへの転換点 |
-| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | アナログ音響への回帰 |
+| 1998 | iMac G3 | Jony Ive | Integrated speaker design. Emphasis on "openness" of sound |
+| 2000 | Power Mac G4 Cube | Jony Ive | Fanless structure, symbol of silence |
+| 2001 | iPod | Ive + Jobs | "Music in your pocket" revolution |
+| 2003 | iTunes Store | Jobs | Renovating the music distribution business |
+| 2004 | GarageBand | Apple | Popularizing music production |
+| 2007 | iPhone | Ive + Jobs | Music playback device integration |
+| 2015 | Apple Music | Apple | The turning point to streaming |
+| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | Return to analog sound |
 
 ---
 
-## 第8章　“音”というデザイン言語
+## Chapter 8 The design language of "sound"
 
-ジョブズが亡くなった後、アイブは彼をこう評している。
+After Jobs passed away, Ive described him as follows:
 
-> 「彼は音楽を聴くように製品を見ていた。リズムがあり、ハーモニーがあり、沈黙がある。」
+> "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 
-アイブ自身もLoveFromで続けるデザイン活動を「サウンド的プロセス」と呼ぶ。  
-つまり、デザインとは視覚の芸術であると同時に、**音を構築する行為**でもある。
+Ive himself calls the design work he continues with LoveFrom a "sound process."
+In other words, design is not only a visual art, but also an act of constructing sound.
 
 ---
 
-## 第9章　静かな革命の残響
+## Chapter 9: Echoes of a quiet revolution
 
-Apple製品が持つ「起動音」「クリック音」「サイレンスの設計」は、  
-すべてジョブズとアイブの音感的コラボレーションの成果だった。  
+The "startup sound", "click sound", and "silence design" of Apple products are
+It was all the result of a sonic collaboration between Jobs and Ive.
 
-彼らが生み出した音の哲学は、AI時代のいまも根底に息づいている。  
-「音楽」と「デザイン」を通じて、彼らは**テクノロジーを人間の感性に引き戻した**のだ。
+The philosophy of sound they created remains at the core of music even today in the age of AI.
+Through music and design, they brought technology back to human sensibilities.
 
 ---
 
@@ -167,7 +174,7 @@ LoveFrom's official statement reads:
 
 > "We are a creative collective. We design for love, not for markets."
 
-The philosophy of "designing for love" echoes the spirit of Jobs.  
+The philosophy of "designing for love" echoes the spirit of Jobs.
 Just as music breathes soul into technology,
 Design also continues to play the "sound" of love.
 

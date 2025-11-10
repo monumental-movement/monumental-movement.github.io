@@ -19,13 +19,13 @@ A house track by UK house producer Steve Mac and Steve Smith, who is active in t
 The first song on side B is a remix by the Freemasons.
 
 #### Tracklist
-"""md
+```md
 A. Lovin' You More (That Big Track) (Vocal Club Mix)
 
 B1. Lovin' You More (That Big Track) (Freemasons Remix)
 
 B2. Lovin' You More (That Big Track) (Instrumental Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44528246197?afid=6142608987){: .button1}
 

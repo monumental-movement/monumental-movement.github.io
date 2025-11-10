@@ -20,8 +20,8 @@ Birds Of Fire, released in 1973, was Mahavishnu Orchestra's second album and bec
 Participating members at this time were John McLaughlin (guitar), Jerry Goodman (violin), Jan Hammer (keyboards), Rick Laird (bass), and Billy Cobham (drums).
 
 #### Tracklist
-"""md
-A1.Birds Of Fire
+```md
+A1. Birds Of Fire
 
 A2. Miles Beyond (Miles Davis)
 
@@ -39,8 +39,8 @@ B2. Sanctuary
 
 B3. Open Country Joy
 
-B4.Resolution
-""""
+B4. Resolution
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
 

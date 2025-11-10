@@ -17,22 +17,22 @@ DJ Taiji, Hard Rock Firm, Madara, Yakomushi, Word Swingaz, 802 Flava, DJ Flesh &
 2-disc LP reissue
 
 #### Tracklist
-"""md
+```md
 A1. DJ Taiji - Intro
 A2. Hard Rock Firm - Hot Shot
 A3. Madara - 2 Brain
-A4. Noctilucent - Funk
+A4. 夜光虫 - Funk
 B1. Word Swingaz - Fly Away
-B2. 802 Flava - Sacrifice
+B2. 802 Flava - 犧牲
 B3. DJ Flesh & Kohei Japan - Funky Flow
 
 C1. Hard Rock Firm - Hot Shot - Instrumental
 C2. Madara - 2 Brain - Instrumental
-C3. Noctilucent - Funk - Instrumental
+C3. 夜光虫 - Funk - Instrumental
 D1. Word Swingaz - Fly Away - Instrumental
-D2. 802 Flava - Sacrifice - Instrumental
+D2. 802 Flava - 犧牲 - Instrumental
 D3. DJ Flesh & Kohei Japan - Funky Flow - Instrumental
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
 

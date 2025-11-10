@@ -17,9 +17,11 @@ title: '[Column] What is deep house? ─ Exploring the depth of the sound that b
 
 ## First of all, what is deep house?
 
+
 Text: mmr｜Theme: Deep House, a genre that continues to quietly evolve while incorporating history and context.
 
 Deep house is a strain of house that emerged in the Chicago-New Jersey area in the late 1980s. Characterized by soul/jazz harmonies, smooth bass, and a restrained groove, it is a type of dance music that is ""deep, long, and warms the body'' rather than a rush peak. BPM is generally 118–124 (slow to medium speed), 7th/9th chords, electric piano (Rhodes), organ (Korg M1 series), and laid-back vocals are symbolic. It has a "night temperature" that is valid for both the floor and listening.
+
 
 <hr>
 
@@ -31,7 +33,7 @@ Deep house is a strain of house that emerged in the Chicago-New Jersey area in t
 
 **1990s: Deepening and diversification**
 
-Chicago's [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp), New York's [Masters At Work (MAW)](https://amzn.to/3KTsg7y), and Detroit's [Moodymann](https://amzn.to/4h9ZZWB) expand on the "black" texture. The number of bases will increase in the UK and Germany, creating a bridge between deep and tech.
+Chicago"s [Ron Trent & Chez Damier (Prescription)](https://amzn.to/4nOApsp), New York"s [Masters At Work (MAW)](https://amzn.to/3KTsg7y), and Detroit's [Moodymann](https://amzn.to/4h9ZZWB) expand on the "black" texture. The number of bases will increase in the UK and Germany, creating a bridge between deep and tech.
 
 **2000s: Listening orientation and sophistication**
 
@@ -40,6 +42,7 @@ Naked Music, Jimpster (Freerange) and more will take you to the lounge-soulful s
 **2010s and beyond: bifurcation and globalization**
 
 Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa, Black Coffee brings Afro-Deep to world-class standards. With the DIY wave, lo-fi houses are also on the rise.
+
 
 <hr>
 
@@ -54,6 +57,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 **Keyboard/Texture**: Rhodes/M1 organ/soft strings, space type (delay/reverb) is long but not dense.
 
 **Vocal**: Speaking low to mid range, gospel to soul lineage. Make use of "pause" by using the necessary and sufficient number of words.
+
 
 <hr>
 
@@ -77,9 +81,10 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 - Mr. Fingers – Amnesia
 
-- Ron Trent – Altered States
+- Ron Trent – ​​Altered States
 
 - Kerri Chandler – Atmosphere
+
 
 <hr>
 
@@ -99,6 +104,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Lo-fi House**: Warm saturation, 90s sample feel.
 
+
 <hr>
 
 ### What "good deep house DJs" do
@@ -110,6 +116,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 - Dynamic waves: "Raise the heat a little bit and bring it back quickly" for 30-45 minutes.
 
 - BPM setting that is not too fast: Create a "stride length" at 118–121, then move to 122–124 in the second half.
+
 
 <hr>
 
@@ -127,6 +134,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Mix**: Kick 40–60Hz is modest, 80–120Hz creates body rumble. Vocals should not output too much 2–5kHz.
 
+
 <hr>
 
 ### Scene and Culture
@@ -136,6 +144,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 **Listening context**: Late night drive, work/study BGM, cocktail time.
 
 **Aesthetics**: ""Emotional over functionality''. More shadow than sparkle.
+
 
 <hr>
 
@@ -151,6 +160,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Late**: Maintain the temperature with Black Coffee's Afro Deep, and cool down with the lingering sound of Larry Heard at the end.
 
+
 <hr>
 
 ### Tips for collecting and searching records
@@ -163,6 +173,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Must listen to the B-side**: Deep tracks tend to be hidden in the B-side dub.
 
+
 <hr>
 
 ### Quick discography (10 introductory songs)
@@ -173,7 +184,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 ・Kerri Chandler – "Atmosphere"
 
-・Ron Trent – "Altered States"
+・Ron Trent – ​​"Altered States"
 
 ・Chez Damier – "I Never Knew Love"
 
@@ -186,6 +197,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 ・Âme – "Rej"
 
 ・Black Coffee – "Turn Me On (feat. Bucie)"
+
 
 <hr>
 

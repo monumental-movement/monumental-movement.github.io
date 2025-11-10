@@ -18,7 +18,7 @@ It was created as the soundtrack for the movie Shaft, and is responsible for the
 Isaac Hayes composed and performed the music for "Shaft." This album features his signature soul, funk, and orchestral arrangements. The album included the iconic theme song, "Theme from Shaft," which was a huge hit and earned Hayes an Academy Award for Best Original Song. The song's infectious groove, memorable guitar riff, and Hayes' smooth, soulful vocals made it an instant classic.
 
 #### Tracklist
-"""md
+```md
 A1. Theme From Shaft (Vocal)
 
 A2. Bumpy's Lament
@@ -31,7 +31,7 @@ A5. Shaft's Cab Ride
 
 A6. Do Your Thing
 
-A7.The End Theme
+A7. The End Theme
 
 B1. Cafe Regio's
 
@@ -48,7 +48,7 @@ B6. No Name Bar
 B7. Bumpy's Blues
 
 B8. Shaft Strikes Again
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61703287444?afid=6142608987){: .button1}
 

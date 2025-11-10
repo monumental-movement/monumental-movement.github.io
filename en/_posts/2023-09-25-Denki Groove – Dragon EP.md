@@ -18,8 +18,9 @@ The title song "Dragon" is a danceable song that combines elements of electronic
 
 This EP is a valuable piece for fans of Denki Groove, and allows you to feel the evolution of their music and new experiments. It will also be a great opportunity for those hearing Denki Groove's music for the first time to experience its unique sound and energy.
 
+
 #### Tracklist
-"""md
+```md
 A1. Dinosaur Tank
 
 A2. Baron Dance
@@ -27,7 +28,7 @@ A2. Baron Dance
 B1. The Marble Men
 
 B2. Brazilian Cowboy
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
 

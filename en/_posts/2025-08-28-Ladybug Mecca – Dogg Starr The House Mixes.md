@@ -19,8 +19,9 @@ A1 is a remix by Canadian DJ/producer Fred Everything (Frédéric Blais), a heav
 
 B2 is a remix by Johnny Fiasco, a DJ/producer representing the second generation of Chicago house who gained attention in the early 1990s with releases on Cajual Records and Relief Records.
 
+
 #### Tracklist
-"""md
+```md
 A1. Dogg Starr (Fred Everything's Dog Thang)
 A2. Dogg Starr (Joey Youngman Remix)
 

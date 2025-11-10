@@ -14,11 +14,13 @@ title: '[Column] Roland TR-1000: Redefining rhythm ─ Analog genes and the hear
 ---
 
 
-## Rolandが再び「リズムマシンの定義」を書き換える時
+## When Roland rewrites the "definition of rhythm machine" again
 
-文：mmr｜テーマ：Rolandが送り出したTRシリーズ最新作TR-1000。そのアナログ回路設計、AI的挙動、文化的意味を技術・思想・文化史の三軸から徹底的に掘り下げる
 
-ローランドの新たな鼓動、TR-1000は、アナログの温もり・デジタルの精緻さ・サンプリングの自由を融合した“Rhythm Creator”。本稿では、その技術的核心と思想的背景、そして音楽文化における位置付けを解き明かす。
+Text: mmr｜Theme: TR-1000, the latest product in the TR series released by Roland. Thoroughly dig into its analog circuit design, AI behavior, and cultural meaning from the three axes of technology, ideology, and cultural history.
+
+
+Roland's new heartbeat, the TR-1000, is a "Rhythm Creator" that combines the warmth of analog, the precision of digital, and the freedom of sampling. This article will unravel its technical core, ideological background, and position in music culture.
 
 ---
 
@@ -34,145 +36,146 @@ color: #fff;
 }
 </style>
 
-### 第1章　「リズムマシンは終わっていない」  
-#### ── TR-1000登場という事件
 
-Rolandが2025年に送り出した**TR-1000**は、単なるシリーズの延長線上には存在しない。  
-808、909、707……それらが時代のグルーヴを象徴してきた歴史の果てに現れたこのマシンは、「人間の拍感」を学習し、再解釈する“知的リズム・マシン”である。  
+### Chapter 1 "The rhythm machine is not finished"
+#### ── The incident of the appearance of TR-1000
 
-1980年代、電子リズムは「機械の鼓動」と呼ばれた。だがTR-1000が提示するのは、その反対──**“機械が人間の鼓動を理解する”**という構図だ。  
-デジタルとアナログ、AIと感情。その境界線上に、Rolandが半世紀をかけて育ててきた理念が息づいている。
+The **TR-1000** released by Roland in 2025 is not just an extension of the series.
+808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an "intellectual rhythm machine" that learns and reinterprets "human beats."
 
-> “リズムとは、時間を鳴らす行為である。だが時間そのものが演奏できたら？”  
-> — Roland開発インタビューより
+In the 1980s, electronic rhythms were called the "mechanical heartbeat."だがTR-1000が提示するのは、その反対──**"機械が人間の鼓動を理解する"**という構図だ。
+Digital and analog, AI and emotions. On this border lies the philosophy that Roland has spent half a century cultivating.
 
----
-
-### 第2章　設計思想：アナログ再構築と知的制御  
-#### ── 「808と909の血を引きながら、それを超える」
-
-TR-1000は、Rolandが培ってきた**ACB（Analog Circuit Behavior）**技術を再構築し、アナログ回路の“振る舞い”そのものをモデリングする。  
-回路単位で個別制御されるモジュール構造により、音色や倍音、ドライブ感を**リアルタイムで可変**できる。  
-さらに、AIが過去のTRシリーズから数千のパターンを学習し、ユーザー操作に基づく**「自然なグルーヴ候補」**を生成する。  
-
-この仕組みは、単なるランダマイズではない。  
-プレイヤーの操作履歴やリズム傾向を逐次解析し、その人固有のタイムフィールを“共鳴”として再提示する。  
-TR-1000は、いわば「リズムの鏡像装置」なのだ。
+> "Rhythm is the act of making time sound. But what if time itself could be played?"
+> — From Roland development interview
 
 ---
 
-### 第3章　物理設計とインターフェース  
-#### ── 機械を「演奏」する感触を取り戻す
+### Chapter 2 Design philosophy: Analog reconstruction and intelligent control
+#### ─ ""While drawing the blood of 808 and 909, we exceed them.''
 
-TR-1000のパネルデザインは、808／909の伝統的配置を踏襲しながらも、金属質の質感と現代的レイアウトを両立させている。  
-アルミ削り出しのノブ、エッジを丸めたステップボタン。  
-この触感の設計は「音の表現以前に、手が音楽を覚えている」という信念の表れである。  
+The TR-1000 restructures the **ACB (Analog Circuit Behavior)** technology that Roland has cultivated and models the very "behavior" of analog circuits.
+The module structure allows each circuit to be individually controlled, making it possible to vary the tone, overtones, and drive feel in real time.
+Furthermore, the AI ​​learns thousands of patterns from past TR series and generates ""natural groove candidates'' based on user interaction.
 
-シーケンサは12トラック・最大128ステップ、スナップショット機能で瞬時に全設定を保存。  
-「Morph」ノブでは、音色・ディケイ・チューニングなど複数パラメータが一度に変化し、**リズムが時間とともに進化していく**。  
-まるでリズムが“呼吸”をしているかのような応答性。ここに、Rolandがハードウェアに固執する理由がある。
-
----
-
-### 第4章　音響構造：低域の進化とリズムの質感  
-#### ── 「808キックの亡霊」を超えるために
-
-TR-1000の核心は、ローエンドの設計哲学にある。  
-808以来の伝統を継ぐ**サイン波生成回路**に、独自のサブオシレーションと倍音制御回路を追加。  
-結果として、物理的な圧力と空気の質感を両立する**“立体的な低域”**を実現した。  
-
-スネアはディスクリート回路＋ノイズシェーピング方式、ハイハットは微細なマイクロディレイを含むアナログノイズ源で構築。  
-808/909の再現を超えた、**「音響的リアリズムと抽象性の両立」**が達成されている。  
-これにより、クラブPAでも埋もれず、かつスタジオモニタでも豊かな分離感を保持する。
+This mechanism is not just randomization.
+It sequentially analyzes a player"s operation history and rhythmic tendencies, and re-presents that person"s unique time feel as "resonance."
+The TR-1000 is, so to speak, a ""rhythm mirror image device.''
 
 ---
 
-### 第5章　思想的側面：リズムと知性の交差点  
-#### ── “人間のための機械”から“機械と共に踊る人間”へ
+### Chapter 3 Physical Design and Interface
+#### ── Regaining the feeling of "playing" a machine
 
-Roland創業者・**梯郁太郎**はかつてこう語った。  
-> “電子楽器は人間の表現を拡張するための道具であって、人間を置き換えるものではない。”
+The panel design of the TR-1000 follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
+Machined aluminum knob, step button with rounded edges.
+This tactile design is an expression of the belief that ""the hands remember the music before they can express the sound.''
 
-TR-1000は、この思想をAI時代の文脈で継承している。  
-「Humanize」機能は単なるテンポのゆらぎではなく、演奏履歴を解析してプレイヤーの癖をモデル化。  
-プレイヤーの指先のリズムを“学習”し、音として返す。  
-つまり、TR-1000は**「人間の演奏を聴く機械」**でもある。  
-
-その対話は、かつて808が「機械的グルーヴ」を与えた時代から、「共鳴するリズム」へと進化しているのだ。
+The sequencer has 12 tracks and up to 128 steps, and the snapshot function instantly saves all settings.
+The "Morph" knob changes multiple parameters at once, including timbre, decay, and tuning, allowing the rhythm to evolve over time.
+Responsiveness as if the rhythm was "breathing". This is why Roland is so particular about its hardware.
 
 ---
 
-### 第6章　文化的文脈：TRシリーズという神話  
-#### ── ヒップホップからAIビートへ
+### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
+#### ── To overcome the "ghost of the 808 kick"
 
-1980年代、TR-808はヒップホップを、909はテクノを、707はハウスを生んだ。  
-TRシリーズはいつも**音楽史の分岐点**に立っていた。  
+At the heart of the TR-1000 is a low-end design philosophy.
+A unique sub-oscillation and harmonic control circuit has been added to the **sine wave generation circuit**, which continues the tradition since the 808.
+As a result, we have achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
 
-TR-1000もまた、AIとライブ演奏が混在する現代クラブカルチャーに新たな象徴を刻みつつある。  
-デトロイトのDJ Boneは「TR-1000は呼吸するリズムマシン」と評し、東京のプロデューサーSeihoは「リズムが感情を持ち始めた」と語る。  
-文化の文脈においてTR-1000は、“ノスタルジーの延長”ではなく、“リズム意識の拡張”を意味している。
-
----
-
-### 第7章　TR-1000の哲学的帰結  
-#### ── 「拍」とは何か？
-
-TR-1000の設計思想は、最終的に一つの問いへと収束する。  
-**「拍とは、誰が作るのか？」**  
-テンポを刻むのは機械だが、その中に“人間らしさ”を感じるのはなぜか。  
-TR-1000は、AIとアナログの融合によって、拍を“生成”ではなく“共有”する段階にまで引き上げた。  
-
-音楽とは、リズムの中に宿る知性の表現である。  
-このマシンはその根源を問う存在であり、単なるガジェットではない。  
-**TR-1000とは、リズムという哲学の実験装置なのだ。**
+The snare is constructed using a discrete circuit + noise shaping method, and the hi-hat is constructed using an analog noise source that includes a minute micro-delay.
+It has achieved a ""coexistence of acoustic realism and abstraction'' that goes beyond the reproduction of the 808/909.
+As a result, it does not get overshadowed even in club PAs, and maintains a rich sense of separation even on studio monitors.
 
 ---
 
-### 第8章　結論：リズムの未来へ  
-#### ── AIが踊る時代に、人はどう鳴るのか
+### Chapter 5 Ideological Aspects: The Intersection of Rhythm and Intelligence
+#### ── From "machines for humans" to "humans dancing with machines"
 
-TR-1000は、808の再来でも909の再生でもない。  
-それは、**「機械が人間のリズムを学習する」**という新たな音楽思想の具現化である。  
-Rolandが50年をかけて培った理念が、AI技術と融合して再び人間の鼓動を鳴らす。  
+Roland founder **Ikutaro Kakei** once said:
+> "Electronic musical instruments are tools to expand human expression, not to replace humans."
 
-リズムの進化は終わらない。  
-そして、その中心にはいつも──**人間がいる。**
+The TR-1000 inherits this philosophy in the context of the AI ​​era.
+The "Humanize" function analyzes the performance history and models the player's habits, not just tempo fluctuations.
+It "learns" the rhythm of the player's fingertips and returns it as a sound.
+In other words, the TR-1000 is also a ""machine that listens to human performances.''
+
+This dialogue has evolved from the days when the 808 provided a ""mechanical groove" to a ""resonant rhythm."
 
 ---
 
-### ▷ TRシリーズ主要年表（Mermaid）
+### Chapter 6 Cultural Context: The Myth of the TR Series
+#### ── From hip-hop to AI beat
+
+In the 1980s, the TR-808 gave birth to hip-hop, the 909 gave birth to techno, and the 707 gave birth to house.
+The TR series has always stood at a turning point in music history.
+
+The TR-1000 is also carving out a new symbol in modern club culture, where AI and live performance coexist.
+Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotions."
+In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but an "expansion of rhythmic consciousness."
+
+---
+
+### Chapter 7 Philosophical Consequences of TR-1000
+#### ── What is "beat"?
+
+The design philosophy of the TR-1000 ultimately converges on one question.
+**"Who makes the beat?"**
+It's a machine that keeps track of the tempo, but why do I feel a sense of humanity in it?
+Through the fusion of AI and analog, the TR-1000 has taken beats to the stage of "sharing" rather than "generating" them.
+
+Music is the expression of intelligence that resides in rhythm.
+This machine questions its roots and is not just a gadget.
+**The TR-1000 is an experimental device for the philosophy of rhythm. **
+
+---
+
+### Chapter 8 Conclusion: Towards the future of rhythm
+#### ── How do people sound in the age of AI dancing?
+
+The TR-1000 is neither the reincarnation of the 808 nor the rebirth of the 909.
+It is the embodiment of a new musical philosophy: ""Machines learn human rhythms.''
+The philosophy that Roland has cultivated over 50 years has been fused with AI technology to once again make the heartbeat of humanity resonate.
+
+The evolution of rhythm never ends.
+And at the center of all of this is always a human being. **
+
+---
+
+### ▷ TR series main chronology (Mermaid)
 
 <div class="mermaid">
 
 flowchart TD
-    A1972["1972：Rhythm Ace TR-77 誕生"]
-    A1980["1980：TR-808 発売"]
-    A1983["1983：TR-909 発売"]
-    A1984["1984：TR-707 / 727"]
-    A1987["1987：TR-626"]
-    A2014["2014：AIRA TR-8"]
-    A2018["2018：TR-8S"]
-    A2025["2025：TR-1000 登場（AI×アナログ・ハイブリッド）"]
+A1972["1972: Birth of Rhythm Ace TR-77"]
+A1980["1980: TR-808 released"]
+A1983["1983: TR-909 released"]
+A1984["1984:TR-707/727"]
+A1987["1987:TR-626"]
+A2014["2014：AIRA TR-8"]
+A2018["2018:TR-8S"]
+A2025["2025: TR-1000 introduced (AI x analog hybrid)"]
 
-    A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
+A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
 
 </div>
 
 ---
 
-### ▷ 関連製品・参考リンク
+### ▷ Related products/reference links
 
-| モデル  | 発売年  | 特徴      | 代表アーティスト   | リンク           |
-| ----------- | ---- | --------------------- | ---------------------- | --------------------------------------------------------- |
-| **TR-808**  | 1980 | アナログ・ドラムの金字塔    | Afrika Bambaataa / YMO | [Rakuten](https://a.r10.to/hR1rR6)   |
-| **TR-909**  | 1983 | アナログ＋デジタル融合   | Daft Punk / Jeff Mills | [Rakuten](https://a.r10.to/hkyb7y)   |
-| **TR-8S**   | 2018 | モダンACB＋サンプリング     | ー                      | [Rakuten](https://a.r10.to/hkyhNJ)    |
-| **TR-1000** | 2025 | AI×アナログ・ハイブリッド・リズムマシン | 新世代アーティスト多数  | [Rakuten](https://a.r10.to/hY661z) |
+| Model | Release year | Features | Representative artist | Link |
+| ----------- | ---- | --------------------- | --------------------- | --------------------------------------------------------- |
+| **TR-808** | 1980 | A milestone in analog drums | Afrika Bambaataa / YMO | [Rakuten](https://a.r10.to/hR1rR6) |
+| **TR-909** | 1983 | Analog + Digital Fusion | Daft Punk / Jeff Mills | [Rakuten](https://a.r10.to/hkyb7y) |
+| **TR-8S** | 2018 | Modern ACB + Sampling | - | [Rakuten](https://a.r10.to/hkyhNJ) |
+| **TR-1000** | 2025 | AI x Analog Hybrid Rhythm Machine | Many new generation artists | [Rakuten](https://a.r10.to/hY661z) |
 
 ---
 
-“リズムは進化する。だが、その中心には、常に人間の鼓動がある。”
-— Roland TR-1000 開発ノートより
+"Rhythm evolves, but at its center is always the human heartbeat."
+— From Roland TR-1000 development notes
 
 ---
 

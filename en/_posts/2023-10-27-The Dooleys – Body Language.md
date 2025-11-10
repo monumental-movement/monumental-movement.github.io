@@ -16,11 +16,11 @@ title: The Dooleys – Body Language
 The Dooleys were a mixed British pop group. At its peak, it had eight members, six of whom were members of the Dooley family. From 1977 to 1981, they produced several hits that reached the top of the British charts.
 
 #### Tracklist
-"""md
-A. Body Language
+```md
+A. ボディ・ランゲージ = Body Language
 
-B. Forever
-""""
+B. フォーエバー = Forever
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m84917533040?afid=6142608987){: .button1}
 

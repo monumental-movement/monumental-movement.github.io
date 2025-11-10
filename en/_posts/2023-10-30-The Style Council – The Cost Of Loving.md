@@ -16,7 +16,7 @@ title: The Style Council – The Cost Of Loving
 The Style Council is a British band formed in late 1982 by Paul Weller, former singer and guitarist of the new wave/mod revival band the Jam, and keyboardist Mick Talbot, former member of Dexys Midnight Runners, the Bureau, and the Merton Parkas.
 
 #### Tracklist
-"""md
+```md
 A1. It Didn't Matter
 
 A2. Right To Go
@@ -29,12 +29,12 @@ B1. Angel
 
 B2. Walking The Night
 
-B3.Waiting
+B3. Waiting
 
 B4. The Cost Of Loving
 
 B5. Woman's Song
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m89427922011?afid=6142608987){: .button1}
 

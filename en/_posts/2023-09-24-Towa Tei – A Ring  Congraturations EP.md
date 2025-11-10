@@ -20,15 +20,15 @@ Towa Tei (former member of Deee-Lite) is a Japanese music producer, DJ, and arti
 "Congraturations!" is a song with more experimental and electronic elements, reflecting Towa Tei's wide range of musical styles and creative approach.
 
 #### Tracklist
-"""md
-A1 A Ring
+```md
+A1  A Ring
 
-A2 Old Gray Whistle Test
+A2  Old Gray Whistle Test
 
-B1 Congratulations!
+B1  Congratulations!
 
-B2 A Platinum Ring
-""""
+B2  A Platinum Ring
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m60231112636?afid=6142608987){: .button1}
 

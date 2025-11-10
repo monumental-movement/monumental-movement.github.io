@@ -25,25 +25,25 @@ Participating musicians
 ・Chorus: Yumi Matsutoya, Hitoshi Kirigaya, Toshihiro "Bobby" Kirigaya, Emiko Shiratori, Hi-Fi Set, Hiro Tsunoda, Mark I, Marvin Walker, Marvin Baker, Cindy
 
 #### Tracklist
-"""md
-A1. Love will never begin again.
+```md
+A1. もう愛は始まらない
 
-A2. People's street
+A2. 人のストリート
 
 A3. Babylon
 
-A4. Sugar Town is a town of goodbye.
+A4. Sugar Townはさよならの町
 
-B1. In a corner of Metropolis
+B1. メトロポリスの片隅で
 
-B2. Rocket fireworks on a moonlit night
+B2. 月夜のロケット花火
 
-B3. Cinderella Express
+B3. シンデレラ・エクスプレス
 
-B4. Regrets of Youth
+B4. 青春のリグレット
 
-B5. Even if you leave
-""""
+B5. たとえあなたが去って行っても
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
 

@@ -15,17 +15,20 @@ title: '[Column] Taj Mahal Travel Group and Takehisa Kosugi - A journey to unlea
 ---
 
 
-## I. 1960年代の出発点：音楽の制度を超えて
+## I. Starting point in the 1960s: Beyond musical institutions
 
-文：mmr｜テーマ：即興と環境音が交錯する音の巡礼 ― 小杉武久とタージ・マハル旅行団が描いた、音楽の外へと向かう旅の記録
 
-1960年代初頭、日本の前衛音楽シーンは静かに胎動していた。  
-武満徹や一柳慧、湯浅譲二らが牽引した《実験工房》や《草月アートセンター》を中心に、音楽・舞踏・映像・照明といったジャンルの垣根が取り払われつつあった。
+Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music, drawn by Takehisa Kosugi and the Taj Mahal Travel Group
 
-小杉武久はこの時期、東京藝術大学でヴァイオリンを学ぶ傍ら、従来の音楽の形式に限界を感じ始めていた。音を「構造」ではなく「出来事」としてとらえる視点が芽生え、やがて即興と偶然性の探求へと向かう。
 
-> “音は、演奏者の意志から離れたところで生き始める。”  
-> — 小杉武久
+In the early 1960s, Japan's avant-garde music scene was quietly flourishing.
+Centered around the Experimental Workshop and Sogetsu Art Center led by Toru Takemitsu, Kei Ichiyanagi, and Joji Yuasa, the boundaries between genres such as music, dance, video, and lighting were being broken down.
+
+During this period, Takehisa Kosugi was studying violin at Tokyo University of the Arts, but he was beginning to feel the limits of traditional musical forms. He began to see sound as an ""event" rather than a ""structure," and eventually began to explore improvisation and chance.
+
+
+> "Sound begins to live when it is separated from the will of the performer."
+> — Takehisa Kosugi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BdjmQkOOa9A?si=wp3TrXBLiNOIjVPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -44,136 +47,137 @@ color: #fff;
 }
 </style>
 
-## II. 《Collective Music》とジョン・ケージとの邂逅（1964）
 
-1964年、小杉は武満徹・一柳慧とともに《Collective Music》を結成する。  
-同年、マース・カニングハム舞踏団の初来日に際して、ジョン・ケージ、デイヴィッド・チューダーと共演。  
-この出来事は日本の前衛音楽史における決定的な転換点となった。
+## II. "Collective Music" and the encounter with John Cage (1964)
 
-ケージが提示した「偶然性」「非意図性」の思想は、小杉にとって深い衝撃だった。  
-演奏者が音を「支配」するのではなく、音が自然に「現れる」状態をいかに作るか。  
-この問いが、小杉の生涯のテーマとなる。
+In 1964, Kosugi formed Collective Music with Toru Takemitsu and Kei Ichiyanagi.
+In the same year, he performed with John Cage and David Tudor when the Merce Cunningham Dance Company visited Japan for the first time.
+This event marked a decisive turning point in the history of Japanese avant-garde music.
 
----
-
-## III. Fluxusとの共鳴と行動の芸術（1965–1969）
-
-1960年代半ば、小杉は国際前衛運動「Fluxus」に接近し、パフォーマンスやハプニングの領域へ踏み出す。  
-日常の物体を音源化し、時間や空間の枠組みを解体する行為は、従来の音楽観を根底から揺さぶった。
-
-代表作《Music Expanded #2》《Catch-Wave》などに見られるように、  
-小杉は「演奏する身体」そのものを作品化し、音の発生＝出来事の瞬間を記録しようとした。
-
-この流れは後の「サウンド・アート」「環境音楽」「即興音響派」に直接的な影響を与えていく。
+The ideas of ""coincidence" and ""unintentionality" presented by Cage had a deep impact on Kosugi.
+Rather than having the performer "control" the sound, how do we create a state in which the sound "appears" naturally?
+This question became the theme of Kosugi's life.
 
 ---
 
-## IV. タージ・マハル旅行団の結成（1969–1970）
+## III. The Art of Resonance and Action with Fluxus (1965–1969)
 
-1969年、小杉は新たな実験体として《タージ・マハル旅行団（Taj Mahal Travelers）》を結成。  
-メンバーには永井清治、飯島孝、菊地雅章（後に離脱）らが加わり、  
-ヴァイオリン、チェロ、電子機器、金管、声、ラジオ波などを駆使して、  
-“場所そのものが楽器になる”という理念を実践していった。
+In the mid-1960s, Kosugi became close to the international avant-garde movement ""Fluxus'' and stepped into the realm of performance and happenings.
+The act of converting everyday objects into sound sources and dismantling the framework of time and space fundamentally shook the conventional view of music.
+
+As seen in his masterpieces "Music Expanded #2" and "Catch-Wave",
+Kosugi turned the ""body that performs'' itself into a piece of work, attempting to record the moment when the sound occurred.
+
+This trend had a direct influence on later ""sound art", ""environmental music", and ""acoustic improvisation''.
 
 ---
 
-## V. 音を旅する：インドからヨーロッパへ（1971–1972）
+## IV. Formation of the Taj Mahal Travel Group (1969–1970)
 
-1971年、タージ・マハル旅行団はヨーロッパ公演を目的に出発する。  
-彼らの旅は、単なるツアーではなく「音の巡礼」であった。  
-電源もステージもない野外で、風・水・群衆・電波と即興的に共鳴する演奏を展開した。
+In 1969, Kosugi formed the Taj Mahal Travelers as a new experimental subject.
+Seiji Nagai, Takashi Iijima, Masaaki Kikuchi (later left) and others joined the group.
+Using violin, cello, electronic equipment, brass, voice, radio waves, etc.
+He put into practice the philosophy that ""the place itself becomes an instrument.''
 
-### 旅程（Mermaid地図）
+---
+
+## V. Traveling through sound: From India to Europe (1971–1972)
+
+In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
+Their journey was not just a tour, but a ""sound pilgrimage.''
+Outdoors, with no power source or stage, the performance improvised and resonated with the wind, water, crowd, and radio waves.
+
+### Itinerary (Mermaid map)
 
 <div class="mermaid">
 
 flowchart TD
-    A["Tokyo, Japan"] --> B["Delhi, India"]
-    B --> C["Taj Mahal, Agra"]
-    C --> D["Tehran, Iran"]
-    D --> E["Ankara, Turkey"]
-    E --> F["Istanbul, Turkey"]
-    F --> G["Vienna, Austria"]
-    G --> H["Berlin, Germany"]
-    H --> I["Amsterdam, Netherlands"]
-    I --> J["Copenhagen, Denmark"]
-    J --> K["Stockholm, Sweden"]
-    K --> L["London, UK"]
+A["Tokyo, Japan"] --> B["Delhi, India"]
+B --> C["Taj Mahal, Agra"]
+C --> D["Tehran, Iran"]
+D --> E["Ankara, Turkey"]
+E --> F["Istanbul, Turkey"]
+F --> G["Vienna, Austria"]
+G --> H["Berlin, Germany"]
+H --> I["Amsterdam, Netherlands"]
+I --> J["Copenhagen, Denmark"]
+J --> K["Stockholm, Sweden"]
+K --> L["London, UK"]
 
 </div>
 
-**注記**: この旅程は実際の記録・証言をもとにしたおおよそのルートであり、
-各地での即興パフォーマンスは現地の文化施設・野外・学生運動の拠点など多岐に及んだ。
+**Note**: This itinerary is an approximate route based on actual records and testimonies.
+Improvisational performances in various locations ranged from local cultural facilities, outdoors, to bases for student movements.
 
 ---
 
-## VI. 音の解体と拡張：即興という儀式
+## VI. Deconstruction and expansion of sound: the ritual of improvisation
 
-タージ・マハル旅行団の演奏は、通常の「曲」や「構成」を持たない。
-むしろ、環境の中に音を放ち、偶然の共鳴を待つ行為に近い。
+The Taj Mahal Tourists' performances do not have the usual ""songs" or ""structure."
+Rather, it is more like the act of emitting sound into the environment and waiting for a chance resonance.
 
-彼らはPAシステムやマイクロフォンを創造的に使用し、
-空間全体を一種の「共鳴体」として扱った。
-リーダーである小杉は、ヴァイオリンに接触マイクを貼り、フィードバックや電波ノイズを操りながら、
-音が「発生しては消える」生態系を構築した。
-
----
-
-## VII. 《Taj Mahal Travelers – July 15, 1972》の記録
-
-彼らの活動の頂点が、1972年に発表されたアルバム
-《Taj Mahal Travelers – July 15, 1972》（CBS/Sony）である。
-これはアグラのタージ・マハル周辺で行われた即興演奏のライブ録音で、
-時間・空間・音響が完全に融合した「音の風景」として高く評価されている。
-
-アルバムには、リズムも旋律も存在しない。
-代わりに、風の音、電子音、声、弦の共鳴がゆるやかに交差し、
-聴く者を「音の内側」に誘う体験が提示されている。
+They use PA systems and microphones creatively,
+The entire space was treated as a kind of "resonator."
+Kosugi, the leader, attaches a contact microphone to the violin and manipulates the feedback and radio noise while playing.
+We have created an ecosystem in which sound "occurs and disappears."
 
 ---
 
-## VIII. 海外活動と《Catch-Wave》（1975）
+## VII. Record of 《Taj Mahal Travelers – July 15, 1972》
 
-ヨーロッパ滞在後、小杉は1970年代半ばからアメリカに拠点を移し、
-電子音響と即興を融合したソロ活動を展開する。
-1975年の代表作《Catch-Wave》（EM Records再発）は、
-ヴァイオリン、テープ・ディレイ、フィードバックを駆使したサウンドスケープ作品であり、
-ブライアン・イーノやロバート・アシュリーにも影響を与えた。
+The pinnacle of their activities was the album released in 1972.
+"Taj Mahal Travelers – July 15, 1972" (CBS/Sony).
+This is a live recording of an improvisational performance held around the Taj Mahal in Agra.
+It is highly praised as a ""soundscape'' that perfectly combines time, space, and sound.
 
----
-
-## IX. 後年の活動と評価
-
-小杉は1980年代以降、マース・カニングハム舞踏団の音楽監督を務め、
-ジョン・ケージの理念を継承しつつ、舞踏と音響の統合を深めた。
-晩年まで「音は自然現象である」という信念のもと、即興・環境・沈黙のあいだを漂う表現を続けた。
+There is no rhythm or melody on the album.
+Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
+It presents an experience that invites the listener to go "inside the sound."
 
 ---
 
-## X. 小杉武久とタージ・マハル旅行団の遺産
+## VIII. Overseas activities and "Catch-Wave" (1975)
 
-今日、彼らの活動は「サウンド・アート」「フィールド・レコーディング」「アンビエント音楽」など、
-多様な音楽潮流の源流として再評価されている。
-音を「素材」でも「情報」でもなく、「現象」として聴く態度。
-それが、小杉が私たちに遺した最も重要なメッセージである。
+After staying in Europe, Kosugi moved to the United States in the mid-1970s.
+Develops solo activities that combine electronic acoustics and improvisation.
+His 1975 masterpiece "Catch-Wave" (EM Records reissue) is
+This is a soundscape piece that makes full use of violin, tape delay, and feedback.
+He also influenced Brian Eno and Robert Ashley.
 
 ---
 
-## 年表
+## IX. Activities and evaluation in later years
 
-| 年        | 出来事                                     |
+Since the 1980s, Kosugi has served as music director of the Merce Cunningham Dance Company.
+While inheriting the philosophy of John Cage, he deepened the integration of dance and sound.
+Until his later years, based on his belief that "sound is a natural phenomenon," he continued to create expressions that drifted between improvisation, environment, and silence.
+
+---
+
+## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
+
+Today, their activities include "sound art," "field recording," and "ambient music."
+It is being reevaluated as the source of diverse music trends.
+An attitude of listening to sound as a ""phenomenon" rather than ""material" or ""information.''
+This is the most important message that Kosugi left us.
+
+---
+
+## Chronology
+
+| Year | Events |
 | -------- | --------------------------------------- |
-| 1938     | 神奈川県横浜市に生まれる                            |
-| 1960     | 東京藝術大学音楽学部卒業                            |
-| 1961–63  | 一柳慧、武満徹らと前衛的実験音楽活動に参加                   |
-| 1964     | 《Collective Music》結成、ケージ＆チューダーと共演       |
-| 1965–68  | Fluxus的パフォーマンスを展開（草月アートセンター等）           |
-| 1969     | 《タージ・マハル旅行団》結成                          |
-| 1971–72  | インド～欧州を巡る音楽巡礼                           |
-| 1972     | 《Taj Mahal Travelers – July 15, 1972》発表 |
-| 1975     | ソロ作《Catch-Wave》発表                       |
-| 1977–90s | マース・カニングハム舞踏団音楽監督                       |
-| 2018     | 逝去。享年80。                                |
+| 1938 | Born in Yokohama City, Kanagawa Prefecture |
+| 1960 | Graduated from the Faculty of Music, Tokyo University of the Arts |
+| 1961–63 | Participated in avant-garde experimental music activities with Kei Ichiyanagi, Toru Takemitsu, and others |
+| 1964 | ""Collective Music'' formed, performed with Cage & Tudor |
+| 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
+| 1969 | "Taj Mahal Travel Group" formed |
+| 1971–72 | Musical pilgrimage from India to Europe |
+| 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
+| 1975 | Solo work "Catch-Wave" released |
+| 1977–90s | Merce Cunningham Dance Company Music Director |
+| 2018 | Passed away. Passed away at the age of 80.                                |
 
 ---
 
@@ -193,7 +197,7 @@ flowchart TD
 
 ## Conclusion - freedom of sound and prayer
 
-The Taj Mahal tour group's trip was not just a ""band's overseas performance.''
+The Taj Mahal tour group"s trip was not just a ""band"s overseas performance.''
 It was a spiritual journey that transcended the institution of music and resonated with the world.
 
 > "We are travelers, not performers."

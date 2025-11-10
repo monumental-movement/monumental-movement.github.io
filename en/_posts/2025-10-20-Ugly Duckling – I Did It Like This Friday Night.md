@@ -17,13 +17,13 @@ Ugly Duckling is a representative American underground hip-hop group formed in L
 "I Did It Like This / Friday Night" was released in 2000 on the UK Hip Hop label Bad Magic.
 
 #### Tracklist
-"""md
+```md
 A1. I Did It Like This
 A2. I Did It Like This (Instrumental)
 
-B1.Friday Night
+B1. Friday Night
 B2. Friday Night (Instrumental)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90404374672?afid=6142608987){: .button1}
 

@@ -22,7 +22,7 @@ This 'Mad Mike Disease' passion led him to produce tracks first with Asad Rizvi 
 Released in 1997, ""Ian O'Brien - Desert Scores'' is considered a masterpiece and is still considered part of the tech-jazz genre pioneered by the Galaxy 2 Galaxy EP.
 
 #### Tracklist
-"""md
+```md
 A1. Dayride
 
 A2. Grandpa's Drawers
@@ -37,13 +37,12 @@ C1. Mad Mike Disease
 
 C2. Video Games & Data
 
-C3.Evrydice
+C3. Evrydice
 
 D1. Desert Scores
 
 D2. Dark Eye Tango
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
-
 

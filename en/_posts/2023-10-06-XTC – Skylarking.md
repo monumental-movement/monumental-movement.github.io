@@ -19,12 +19,12 @@ The album includes the hit songs "Dear God," "Grass," and "The Meeting Place." T
 The album as a whole has a sense of unity and is a work with a concept. Various themes such as religion, nature, and human relationships are explored, and you can feel the deep meaning and thought.
 
 #### Tracklist
-"""md
+```md
 A1. Summer's Cauldron
 
 A2. Grass
 
-A3.The Meeting Place
+A3. The Meeting Place
 
 A4. That's Really Super, Supergirl
 
@@ -47,7 +47,7 @@ B5. Dear God
 B6. Dying
 
 B7. Sacrificial Bonfire
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
 

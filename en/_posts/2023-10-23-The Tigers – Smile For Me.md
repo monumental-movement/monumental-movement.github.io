@@ -16,17 +16,17 @@ title: The Tigers – Smile For Me
 "Smile For Me" is a song written and composed by Barry Gibb and Maurice Gibb of the Bee Gees.
 
 #### Tracklist
-"""md
-A. Smile For Me
+```md
+A. Smile For Me = スマイル・フォー・ミー
 
-Lyrics and music: Barry Gibb, Maurice Gibb
-Arrangement: John Fiddy
+作詞・作曲:Barry Gibb,Maurice Gibb
+編曲：John Fiddy
 
-B. Rain Falls On The Lonely
+B. Rain Falls On The Lonely = 淋しい雨
 
-Lyrics and music: Ronald F. Bond, Ronnie Sebastian
-Arrangement: John Fiddy
-""""
+作詞・作曲:Ronald F. Bond,Ronnie Sebastian
+編曲：John Fiddy
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
 

@@ -21,7 +21,7 @@ Their music is characterized by an experimental sound that incorporates elements
 This is an interesting album for those who want to enjoy Buffalo Daughter's music. Their unique sound style and musical experimentation will create a fascinating experience for alternative music fans and musical seekers.
 
 #### Tracklist
-"""md
+```md
 A1. Great Five Lakes (Kut Masta Kurt Mix)
 
 A2. Super Blooper (Panda's Goodvibe Mix)
@@ -37,7 +37,7 @@ B2. R & B (Rhythm And Basement) (Elite Force Mix)
 B3. Jellyfish Blues (Scratch Pet Land Mix)
 
 B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 

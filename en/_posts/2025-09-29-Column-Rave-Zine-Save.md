@@ -17,9 +17,12 @@ title: '[Column] Can Zine Save Rave? : Possibility of DIY media as a storage dev
 
 Text: mmr | Genre: Media culture/music archive | Theme: Zine as a preservation device for unrecorded culture
 
+
 A zine is a small piece of media that you can create yourself. Zines were as present in the rave scene as they were in the '90s punk scene, the feminist movement, and skater culture. A rave is a celebration of the moment, and zines are a great way to remember and share it with others.
 
 ---
+
+
 
 <style type="text/css">
 table, td, th {
@@ -32,6 +35,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### Enthusiasm burned into paper
 
@@ -93,9 +97,9 @@ Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
 flowchart TD
 
 A["Rave Zine"] --> B["Overseas"]
-
+    
 B --> B1["Datacide<br>(Germany)"]
-    B --> B2["Rave Flyer Archives<br>(UK)"]
+B --> B2["Rave Flyer Archives<br>(UK)"]
 </div>
 
 ---
@@ -116,6 +120,7 @@ B --> B1["Datacide<br>(Germany)"]
 | Share | Instantly share with a click | Hand delivery/mailing = physical ritual involved |
 | Easy to send messages | Anyone can easily send messages | Efforts to make = concentration of the creator's thoughts |
 
+
 Just as rave was a "physical experience," zine is also a "physical medium."
 
 ---
@@ -126,7 +131,9 @@ Founded in 2007, Rave Archive is an archive that preserves and shares memories o
 
 [Rave Archive](https://ravearchive.com)
 
+
 ---
+
 
 Old School Rave Flyer Archives from 1989-2000 from across the US and Canada
 
@@ -136,6 +143,7 @@ By Ernie Villalobos
 
 [Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)
 
+
 ---
 
 ### Conclusion: Zines are the key to inheriting the culture that could not be recorded
@@ -143,6 +151,7 @@ By Ernie Villalobos
 Zines are neither commercial nor public records. However, because of this, it is possible to preserve ""moments that no one else would have recorded.'' It is a diary, a report, a testimony, and a love letter.
 
 As much of rave culture is lost, the memories left behind in the form of zines will become valuable fragments for future generations of listeners and dancers to rediscover the contours of the culture.
+
 
 ---
 

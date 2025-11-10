@@ -12,12 +12,12 @@ title: U2 – The Joshua Tree
 ---
 
 
-""The Joshua Tree'' was inspired by Joshua Tree National Park, a desert area in the southwestern United States. The album develops U2's unique musical style while exploring religious themes and political messages. Fusing elements of rock, pop, blues, and folk, it features epic soundscapes and emotional lyrics.
+""The Joshua Tree"' was inspired by Joshua Tree National Park, a desert area in the southwestern United States. The album develops U2"s unique musical style while exploring religious themes and political messages. Fusing elements of rock, pop, blues, and folk, it features epic soundscapes and emotional lyrics.
 
-The album includes the hit songs "With or Without You," "I Still Haven't Found What I'm Looking For," and "Where the Streets Have No Name."
+The album includes the hit songs "With or Without You," "I Still Haven"t Found What I"m Looking For," and "Where the Streets Have No Name."
 
 #### Tracklist
-"""md
+```md
 A1. Where The Streets Have No Name
 
 A2. I Still Haven't Found What I'm Looking For
@@ -36,10 +36,10 @@ B3. Trip Through Your Wires
 
 B4. One Tree Hill
 
-B5.Exit
+B5. Exit
 
 B6. The Mothers Of The Disappeared
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90322062120?afid=6142608987){: .button1}
 

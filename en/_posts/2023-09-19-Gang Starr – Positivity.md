@@ -17,18 +17,18 @@ Gang Starr is an American hip-hop duo (Guru & DJ Premier) that was active from t
 
 This song is about conveying a positive message and positive energy.
 
-The combination of Guru's unique rapping style and Premier's distinctive beats has earned it acclaim as one of Gang Starr's masterpieces and a hip-hop classic.
+The combination of Guru"s unique rapping style and Premier"s distinctive beats has earned it acclaim as one of Gang Starr's masterpieces and a hip-hop classic.
 
 #### Tracklist
-"""md
-A1 Positivity (Whole World Mix)
+```md
+A1  Positivity (Whole World Mix)
 
-A2 Positivity (Club Version)
+A2  Positivity (Club Version)
 
-B1 Gotch U (Hunter Mix)
+B1  Gotch U (Hunter Mix)
 
-B2 No More Mr. Nice Guy (Fed Up Mix)
-""""
+B2  No More Mr. Nice Guy (Fed Up Mix)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87981443033?afid=6142608987){: .button1}
 

@@ -13,16 +13,16 @@ title: Irene Cara – Fame
 ---
 
 
-Irene Cara is an American singer and actress. She played the role of Coco Hernandez in the 1980 musical film ""Fame,'' and the film's title song ""Fame'' became a worldwide hit.
+Irene Cara is an American singer and actress. She played the role of Coco Hernandez in the 1980 musical film ""Fame," and the film's title song ""Fame" became a worldwide hit.
 
 Irene Cara is also famous for singing "Flashdance... What a Feeling" from the movie "Flashdance."
 
 #### Tracklist
-"""md
+```md
 A. Irene Cara–Fame
 
-B. Contemporary Gospel Chorus The High School Of Music And Art–Never Alone
-""""
+B. Contemporary Gospel Chorus The High School Of Music And Art–Never Alone 
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m65486063906?afid=6142608987){: .button1}
 

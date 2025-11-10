@@ -17,7 +17,7 @@ DAF is an electropunk/Neue Deutsche Welle band formed in Düsseldorf, Germany in
 This record is DAF's second album, released by Mute Records in 1980.
 
 #### Tracklist
-"""md
+```md
 A1. Osten Währt Am Längsten
 A2. Essen Dann Schlafen
 A3. Co Co Pino
@@ -28,7 +28,7 @@ A7. De Panne
 
 B1. Gewalt
 B2. Gib's Mir
-B3.
+B3. Auf Wiedersehen
 B4. Das Ist Liebe
 B5. Was Ist Eine Welle
 B6. Anzufassen Und Anzufassen
@@ -38,7 +38,7 @@ B9. Die Kleinen Und Die Bösen
 B10. Die Fesche Lola
 B11. El Basilon
 B12. Y La Gracia
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
 

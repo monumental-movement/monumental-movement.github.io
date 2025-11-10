@@ -33,7 +33,7 @@ Track 17 recorded November 22, 1957 · From the album "Space Escapade"
 Track 18 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
 
 #### Tracklist
-"""md
+```md
 1.David Rose & His Orchestra–Gay Spirits
 
 2.Richard Marino & His Orchestra–Lover
@@ -56,11 +56,11 @@ Track 18 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
 
 11.Les Baxter & His Orchestra–Sabre Dance
 
-12.Billy May & His Orchestra–This Room Is My Castle Of Quiet Theremin
+12.Billy May & His Orchestra–This Room Is My Castle Of Quiet Theremin 
 
 13.Felix Slatkin–I Get A Kick Out Of You
 
-14.Jack Malmsten – Satan Takes A Holiday
+14.Jack Malmsten –Satan Takes A Holiday
 
 15.Terry Snyder–Puttin' On The Ritz
 
@@ -69,7 +69,7 @@ Track 18 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
 17.Les Baxter & His Orchestra–Saturday Night On Saturn
 
 18.Dean Elliott & His Big Band–Lonesome Road
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
 

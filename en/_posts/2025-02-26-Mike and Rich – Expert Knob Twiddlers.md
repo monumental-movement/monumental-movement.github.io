@@ -20,21 +20,21 @@ The song was created over a few days during the 1994 World Cup and is said to ha
 
 Described by Paradinas as "an updated version of easy listening and funk," melodies reminiscent of 70s lounge music and elevator music are fused with distorted beats and the whimsical tones of analog synths.
 
-These tracks are the result of a fusion of Aphex Twin's unpredictable experimentalism and µ-Ziq's melodic structure, creating a sonic adventure that goes beyond mere "written music".
+These tracks are the result of a fusion of Aphex Twin"s unpredictable experimentalism and µ-Ziq"s melodic structure, creating a sonic adventure that goes beyond mere "written music".
 
 #### Tracklist
-"""md
-1.Mr Frosty
+```md
+1. Mr Frosty
 2. Jelly Fish
-3.Eggy Toast
-4.Reg.
+3. Eggy Toast
+4. Reg
 5. Vodka
 6. Winner Takes All
 7. Giant Deflating Football
 8. Upright Kangaroo
 9. The Sound Of Beady Eyes
 10. Bu Bu Bu Ba
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 

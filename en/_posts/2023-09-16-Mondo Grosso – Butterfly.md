@@ -17,15 +17,15 @@ title: Mondo Grosso – Butterfly
 "Butterfly" is one of the songs that represents Mondo Grosso's musical style, and is known for its unique sound that combines various musical elements such as electronic, house, jazz, and R&B.
 
 #### Tracklist
-"""md
-A1 Butterfly (Main)
+```md
+A1  Butterfly (Main)
 
-A2 Butterfly (Sleepy Tongue Love Mix)
+A2  Butterfly (Sleepy Tongue Love Mix)
 
-B1 Butterfly (Francois K Jazzy Vibe Mix)
+B1  Butterfly (Francois K Jazzy Vibe Mix)
 
-B2 Butterfly (Main Instrumental)
-""""
+B2  Butterfly (Main Instrumental)
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70429035417?afid=6142608987){: .button1}
 

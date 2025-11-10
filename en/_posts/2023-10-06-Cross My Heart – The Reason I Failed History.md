@@ -17,15 +17,15 @@ An EP by post-hardcore/emo band Cross My Heart, released in 1999 by Steve Aoki's
 Cross my heart was originally from Baltimore, Maryland and was active from 1997 to 2001.
 
 #### Tracklist
-"""md
+```md
 A1. No Give Backs
 
-A2. Are You Still Happy?
+A2. Are You Still Happy ?
 
-B1. Destination eventually Somewhere
+B1. Destination Eventually Somewhere
 
 B2. The Reason I Failed History
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43367520761?afid=6142608987){: .button1}
 

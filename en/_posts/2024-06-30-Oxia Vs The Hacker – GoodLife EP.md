@@ -20,11 +20,11 @@ Olivier Raymond, also known as Oxia, is a DJ and producer from France. Oxia was 
 Michel Amato, also known as The Hacker, is a musician and DJ from France. Since 1989, they have been producing music heavily influenced by techno, electro, italo, EBM, and new wave, and are also known as the electro duo Miss Kittin & The Hacker.
 
 #### Tracklist
-"""md
+```md
 A. Oxia – Nation
 
 B. The Hacker – The Last
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m60514393158?afid=6142608987){: .button1}
 

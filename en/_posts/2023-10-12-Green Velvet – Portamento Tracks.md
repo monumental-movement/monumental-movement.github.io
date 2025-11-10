@@ -17,15 +17,15 @@ Curtis Alan Jones, better known as Green Velvet, is a singer/record producer/DJ 
 Also known as Cajmere, Geo Vogt, Half Pint, Curan Stone, and Gino Vittori.
 
 #### Tracklist
-"""md
+```md
 A1. I Want To Leave My Body
 
 A2. (You Don't Have To Be) Fake And Phoney
 
-B1.Flash
+B1. Flash
 
 B2. Explorer
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m55278073484?afid=6142608987){: .button1}
 

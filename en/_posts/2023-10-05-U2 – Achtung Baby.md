@@ -17,12 +17,12 @@ Achtung Baby is an album in which U2 explores a new musical direction, attemptin
 "Achtung Baby" includes many hit songs. Examples include "One," "Mysterious Ways," and "Even Better Than the Real Thing." These songs feature unique sounds and strong melodies, along with the album's experimental approach.
 
 #### Tracklist
-"""md
+```md
 A1. Zoo Station
 
 A2. Even Better Than The Real Thing
 
-A3.One
+A3. One
 
 A4. Until The End Of The World
 
@@ -38,10 +38,10 @@ B3. Tryin' To Throw Your Arms Around The World
 
 B4. Ultra Violet (Light My Way)
 
-B5.Acrobat
+B5. Acrobat
 
 B6. Love Is Blindness
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 

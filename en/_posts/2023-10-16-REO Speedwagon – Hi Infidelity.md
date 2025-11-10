@@ -16,7 +16,7 @@ title: REO Speedwagon – Hi Infidelity
 REO Speedwagon is an American rock band formed in Illinois in 1967. The album "Hi Infidelity (Forbidden Night)" released in 1980 is their masterpiece.
 
 #### Tracklist
-"""md
+```md
 A1. Don't Let Him Go
 
 A2. Keep On Loving You
@@ -29,14 +29,14 @@ A5. Take It On The Run
 
 B1. Tough Guys
 
-B2.Out Of Season
+B2. Out Of Season
 
 B3. Shakin' It Loose
 
 B4. Someone Tonight
 
 B5. I Wish You Were There
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m78682401500?afid=6142608987){: .button1}
 

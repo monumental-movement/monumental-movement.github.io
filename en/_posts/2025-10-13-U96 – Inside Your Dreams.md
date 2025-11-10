@@ -20,11 +20,11 @@ U96 is a German music project formed by DJ/producer Alex Christensen and product
 The non-album song "Inside Your Dreams" released in 1994 was a Progressive House/Trance/Euro House/Techno hit on the European charts.
 
 #### Tracklist
-"""md
+```md
 A. Inside Your Dreams (Phase 1)
 
 B. Inside Your Dreams (Phase 2)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87927697829?afid=6142608987){: .button1}
 

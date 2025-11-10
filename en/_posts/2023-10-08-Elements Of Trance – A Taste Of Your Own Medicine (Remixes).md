@@ -15,14 +15,15 @@ title: Elements Of Trance – A Taste Of Your Own Medicine (Remixes)
 "A Taste Of Your Own Medicine (Remixes)"
 This is an EP by Elements Of Trance, a unit composed of Ian Rich and Justin King, released in 1993 on the Belgian label "R & S Records".
 
+
 #### Tracklist
-"""md
-A. A Taste Of Your Own Medicine (Mix 1)
+```md
+A.  A Taste Of Your Own Medicine (Mix 1)
 
 B1. A Taste Of Your Own Medicine (Mix 2)
 
 B2. A Taste Of Your Own Medicine (Midi-Evil Mix)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76921480559?afid=6142608987){: .button1}
 

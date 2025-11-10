@@ -22,21 +22,21 @@ The A-side is a remix by House music DJ/producer Frankie Knuckles.
 The B-side is a remix by House music DJ and producer Todd Terry.
 
 #### Tracklist
-"""md
-A1. The Boy From Ipanema (Classic Club)
+```md
+A1. The Boy From Ipanema (Classic Club) 
 Remix – Frankie Knuckles
 
-A2. The Boy From Ipanema (Ipadreama)
+A2. The Boy From Ipanema (Ipadreama) 
 Remix – Frankie Knuckles
 
-B1. The Boy From Ipanema (Deepzone Club)
+B1. The Boy From Ipanema (Deepzone Club) 
 Remix – Todd Terry
 
-B2. The Boy From Ipanema (Frozen Sun)
+B2. The Boy From Ipanema (Frozen Sun) 
 Remix – Todd Terry
 
 B3. The Boy From Ipanema (Original Version)
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
 

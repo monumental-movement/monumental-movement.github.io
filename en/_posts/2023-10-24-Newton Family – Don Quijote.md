@@ -17,11 +17,11 @@ title: Newton Family – Don Quijote
 Newton Family was a Hungarian disco group that was active from the mid-70s to the late 80s.
 
 #### Tracklist
-"""md
-A. Don Quijote = Don Quijote
+```md
+A. Don Quijote = ドン・キホーテ
 
-B. Marathon
-""""
+B. Marathon = マラソン
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83610077106?afid=6142608987){: .button1}
 

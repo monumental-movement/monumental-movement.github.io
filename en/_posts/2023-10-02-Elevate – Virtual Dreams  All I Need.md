@@ -16,11 +16,11 @@ Side A, "Virtual Dreams," features a powerful 909 drum sound, followed by an imp
 Virtual Dreams is a powerful track and a must-listen.
 
 #### Tracklist
-"""md
-A.Virtual Dreams
+```md
+A. Virtual Dreams
 
 B. All I Need
-""""
+```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m28222074126?afid=6142608987){: .button1}
 
