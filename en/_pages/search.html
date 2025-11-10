@@ -6,15 +6,20 @@ permalink: /en/search.html
 
 [
 {% assign counter = 0 %}
-{% for post in site.posts %}
-  {% if post.lang == "en" %}
+{% assign english_posts = site.collections["posts"].docs | where: "lang", "en" %}
+{% for post in english_posts %}
   {
     "id": {{ counter }},
     "url": "{{ post.url | absolute_url }}",
-    "title": {{ post.title | strip_html | jsonify }},
-    "body": {{ post.content | strip_html | normalize_whitespace | strip_newlines | truncatewords: 200 | jsonify }}
+    "title": {{ post.title | strip_html | strip_newlines | jsonify }},
+    "body": {{ post.content
+      | markdownify
+      | strip_html
+      | normalize_whitespace
+      | strip_newlines
+      | truncatewords: 200
+      | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% assign counter = counter | plus: 1 %}
-  {% endif %}
 {% endfor %}
 ]
