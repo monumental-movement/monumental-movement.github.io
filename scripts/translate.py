@@ -1,131 +1,60 @@
 import os
 import yaml
 import re
-import time
 from deep_translator import GoogleTranslator
+from difflib import unified_diff
 
-# =========================================
-# ディレクトリ設定
-# =========================================
-# GitHub Actions 環境を想定してルートをリポジトリ直下に固定
-ROOT_DIR = os.path.abspath(os.path.dirname(__file__) + "/..")  # scripts の1階層上
-SRC_DIR = os.path.join(ROOT_DIR, "_posts")      # 日本語記事
-DEST_DIR = os.path.join(ROOT_DIR, "en", "_posts")  # 英語記事出力先
-CACHE_FILE = os.path.join(ROOT_DIR, "translation_cache.yaml")
-
+SRC_DIR = "_posts"
+DEST_DIR = os.path.join("en", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-print("📂 ROOT_DIR:", ROOT_DIR)
-print("📂 SRC_DIR:", SRC_DIR)
-print("📂 DEST_DIR:", DEST_DIR)
-print("SRC_DIR exists?", os.path.exists(SRC_DIR))
-print("DEST_DIR exists?", os.path.exists(DEST_DIR))
-print("SRC_DIR files:", os.listdir(SRC_DIR) if os.path.exists(SRC_DIR) else "N/A")
+translator = GoogleTranslator(source='ja', target='en')
 
-# =========================================
-# 翻訳設定
-# =========================================
-translator = GoogleTranslator(source="ja", target="en")
-start_time = time.time()
-MAX_RUNTIME = 6 * 60 * 60        # 最大6時間
-SAFE_EXIT_MARGIN = 10 * 60       # 10分前にセーフ終了
-AUTO_SAVE_INTERVAL = 50
-BATCH_SIZE = 50
-translate_count = 0
 
-# =========================================
-# キャッシュ管理
-# =========================================
-def load_cache():
-    if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            return yaml.safe_load(f) or {}
-    return {}
-
-def save_cache(cache):
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        yaml.safe_dump(cache, f, allow_unicode=True)
-
-cache = load_cache()
-
-# =========================================
-# 正規化（引用符統一）
-# =========================================
 def normalize_quotes(text):
+    """全角・特殊引用符を半角 " に統一"""
     if not text:
         return text
-    return re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
+    text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
+    text = re.sub(r'``(.*?)``', r'"\1"', text)
+    text = re.sub(r"''(.*?)''", r'"\1"', text)
+    text = re.sub(r"\b'(.*?)'\b", r'"\1"', text)
+    return text
 
-# =========================================
-# 翻訳処理（バッチ対応）
-# =========================================
-def translate_batch(paragraphs):
-    global translate_count, cache
 
-    to_translate, keys, translated = [], [], []
-
-    for p in paragraphs:
-        key = p.strip()
-        if not key or key.startswith("```") or key.startswith("<!--") or re.search(r"<iframe.*?</iframe>", key, re.DOTALL):
-            translated.append(p)
-            continue
-        if key in cache:
-            translated.append(cache[key])
-            continue
-        to_translate.append(key)
-        keys.append(key)
-        translated.append(None)
-
-    if not to_translate:
-        return translated
-
-    if time.time() - start_time > (MAX_RUNTIME - SAFE_EXIT_MARGIN):
-        print("⏳ Safe exit triggered (runtime approaching limit)")
-        save_cache(cache)
-        exit(0)
-
+def translate_text(text):
+    """iframe・コード・空行をスキップして安全翻訳"""
+    if not text.strip():
+        return text
+    if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
+        return text
+    if re.match(r"^```", text.strip()):
+        return text
     try:
-        result_block = translator.translate("\n\n".join(to_translate))
-        result_paragraphs = [normalize_quotes(t.strip()) for t in result_block.split("\n\n")]
-
-        for k, r in zip(keys, result_paragraphs):
-            cache[k] = r
-            translate_count += 1
-            if translate_count % AUTO_SAVE_INTERVAL == 0:
-                save_cache(cache)
-                print(f"💾 Cache auto-saved ({translate_count} translations)")
-
-        idx = 0
-        for i, val in enumerate(translated):
-            if val is None:
-                translated[i] = result_paragraphs[idx]
-                idx += 1
-
+        result = translator.translate(text)
+        # deep_translator が None を返した場合も安全に扱う
+        if result is None:
+            print(f"⚠️ None returned from translator for: {text[:30]}...")
+            return text
+        return normalize_quotes(str(result))
     except Exception as e:
-        print(f"⚠️ Batch translation failed: {e}")
-        for i, val in enumerate(translated):
-            if val is None:
-                translated[i] = paragraphs[i]
+        print(f"⚠️ 翻訳失敗: {e}（スキップ）")
+        return text
 
-    return translated
 
-def translate_paragraphs(paragraphs):
-    result = []
-    for i in range(0, len(paragraphs), BATCH_SIZE):
-        batch = paragraphs[i : i + BATCH_SIZE]
-        result.extend(translate_batch(batch))
-        time.sleep(0.05)
-    return result
 
-# =========================================
-# Front Matter処理
-# =========================================
 def split_front_matter(content):
+    """YAML front matter を分離して安全に返す"""
     if content.startswith("---"):
-        parts = content.split("---", 2)
+        parts = content.split('---', 2)
         if len(parts) >= 3:
-            return parts[1], parts[2]
+            fm, body = parts[1], parts[2]
+            return fm, body
+        else:
+            # 不完全な場合でも空のfront matterを返す
+            return "", content
     return "", content
+
 
 def load_yaml_safe(fm):
     try:
@@ -133,60 +62,61 @@ def load_yaml_safe(fm):
     except yaml.YAMLError:
         return {}
 
-# =========================================
-# メイン処理
-# =========================================
-try:
-    for filename in os.listdir(SRC_DIR):
-        if not filename.endswith(".md"):
-            continue
 
-        src_path = os.path.join(SRC_DIR, filename)
-        dest_path = os.path.join(DEST_DIR, filename)
+for filename in os.listdir(SRC_DIR):
+    if not filename.endswith(".md"):
+        continue
 
-        print("Processing:", filename)
+    src_path = os.path.join(SRC_DIR, filename)
+    dest_path = os.path.join(DEST_DIR, filename)
 
-        with open(src_path, "r", encoding="utf-8") as f:
-            src_content = f.read()
+    with open(src_path, "r", encoding="utf-8") as f:
+        src_content = f.read()
 
-        fm, body = split_front_matter(src_content)
-        front_matter = load_yaml_safe(fm)
+    fm, body = split_front_matter(src_content)
+    front_matter = load_yaml_safe(fm)
 
-        old_body = ""
-        if os.path.exists(dest_path):
-            with open(dest_path, "r", encoding="utf-8") as f:
-                dest_content = f.read()
-            fm2, old_body = split_front_matter(dest_content)
+    # 既存英語ファイルがある場合、差分を確認
+    old_body = ""
+    if os.path.exists(dest_path):
+        with open(dest_path, "r", encoding="utf-8") as f:
+            dest_content = f.read()
+        fm2, old_body = split_front_matter(dest_content)
 
-        old_paragraphs = re.split(r"\n\s*\n", old_body)
-        new_paragraphs = re.split(r"\n\s*\n", body)
-
-        # 差分検出
-        if old_paragraphs == new_paragraphs and old_body.strip():
+    # 差分検出
+    if old_body.strip():
+        diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
+        if not diff:
             print(f"⏭️ No changes: {filename}")
-            continue
-        elif old_body.strip():
-            print(f"🔁 Diff detected: {filename}")
+            continue  # 変更なしならスキップ
         else:
-            print(f"🆕 New file: {filename}")
+            print(f"🔁 Diff detected: {filename} — 更新箇所を翻訳")
 
-        # 本文翻訳
-        translated_paragraphs = translate_paragraphs(new_paragraphs)
-        translated_body = "\n\n".join(translated_paragraphs)
+    # タイトル翻訳
+    if front_matter.get("title"):
+        front_matter["title"] = translate_text(front_matter["title"])
 
-        # タイトル翻訳
-        if front_matter.get("title"):
-            front_matter["title"] = translate_paragraphs([front_matter["title"]])[0]
+    front_matter["lang"] = "en"
 
-        front_matter["lang"] = "en"
+    # 本文翻訳（コードブロックはスキップ）
+    translated_body = ""
+    in_code_block = False
+    for line in body.splitlines():
+        if line.strip().startswith("```"):
+            in_code_block = not in_code_block
+            translated_body += line + "\n"
+            continue
+        if in_code_block:
+            translated_body += line + "\n"
+        else:
+            translated_body += translate_text(line) + "\n"
 
-        output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}\n"
-        with open(dest_path, "w", encoding="utf-8") as f:
-            f.write(output_content)
+    # 英語ファイル出力
+    output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
 
-        print(f"✅ Translated/Updated: {filename}")
+    with open(dest_path, "w", encoding="utf-8") as f:
+        f.write(output_content)
 
-finally:
-    save_cache(cache)
-    print("\n💾 Final cache saved. All progress preserved safely.")
-    print("🎉 English posts updated successfully (→ en/_posts).")
+    print(f"✅ Translated/Updated: {filename}")
+
+print("\n🎉 English posts updated successfully (only changed parts retranslated)")

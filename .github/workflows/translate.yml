@@ -1,76 +1,39 @@
-name: Auto Translate (6h-safe cached diff, en/_posts)
+name: Translate Posts
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "_posts/**"
-      - "scripts/translate.py"
-      - "translation_cache.yaml"
 
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 355  # 約5時間55分で安全停止
 
     steps:
-      - name: 🧱 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.11'  # 固定で安定バージョンを指定
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install PyYAML deep-translator googletrans==4.0.0-rc1
-
-      - name: 💾 Restore translation cache
+          pip install googletrans==4.0.0-rc1
+          pip install PyYAML
+          pip show PyYAML
+      
+      - name: Install dependencies
         run: |
-          if [ ! -f translation_cache.yaml ]; then
-            echo "{}" > translation_cache.yaml
-            echo "✅ Empty cache created"
-          else
-            echo "✅ Existing cache loaded"
-          fi
+          pip install pyyaml deep-translator googletrans==4.0.0-rc1
 
-      - name: 🌍 Run translation script
+      - name: Run translation script
         run: python scripts/translate.py
 
-      - name: 🧩 Git configuration
+      - name: Commit and push translated files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
-      - name: 💬 Commit and push only changed files (safe for spaces & special chars)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git fetch origin main
-          git pull origin main --rebase || echo "⚠️ Pull failed, continuing"
-
-          # 差分ファイルを NUL 区切りで安全に取得
-          git diff --name-only -z | while IFS= read -r -d '' file; do
-            if [[ "$file" == en/_posts/* ]] || [[ "$file" == translation_cache.yaml ]]; then
-              git add "$file"
-            fi
-          done
-
-          # コミット
-          git commit -m "Auto-translated English posts (cached diff)" || echo "No changes to commit"
-
-          # Push with retries
-          set +e
-          for i in 1 2 3; do
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main && break
-            echo "⚠️ Push failed, retrying ($i/3)..."
-            git fetch origin main
-            git pull origin main --rebase
-            sleep 30
-          done
-          set -e
+          git add en/_posts/*
+          git commit -m "Add translated English posts" || echo "No changes to commit"
+          git push
