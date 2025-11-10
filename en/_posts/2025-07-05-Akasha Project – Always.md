@@ -17,15 +17,14 @@ Barnim A. Schultze, also known as Akasha Project, is a German electronic musicia
 
 "Always" is a Psy-Trance, Techno track released in 2001 by German psychedelic/progressive trance label Insolation.
 
-
 #### Tracklist
-```md
+"""md
 A1. You Got To Love It
-A2. The Flying Field
+A2.The Flying Field
 
 B1. Shamanda (Edit)
 B2. Whales 'n' Wave (Edit)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
 

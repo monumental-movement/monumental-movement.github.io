@@ -12,10 +12,10 @@ title: Rossington Collins Band – Anytime Anyplace Anywhere
 ---
 
 
-Anytime, Anyplace, Anywhere is the Rossington Collins Band"s first studio album, released in 1980, and includes their signature song, ""Don"t Misunderstand Me.''
+Anytime, Anyplace, Anywhere is the Rossington Collins Band's first studio album, released in 1980, and includes their signature song, ""Don't Misunderstand Me.''
 
 #### Tracklist
-```md
+"""md
 A1. Prime Time
 
 A2. Three Times As Bad
@@ -33,7 +33,7 @@ B2. Winners And Losers
 B3. Misery Loves Company
 
 B4. Sometimes You Can Put It Out
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91366471609?afid=6142608987){: .button1}
 

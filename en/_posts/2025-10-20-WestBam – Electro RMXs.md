@@ -22,12 +22,12 @@ A is a remix by US Breaks/Breakbeat producer DJ Icey.
 AA1 is a remix by Ghettotech pioneer DJ Assault. AA2 is a remix by DJ Godfather from Detroit.
 
 #### Tracklist
-```md
+"""md
 A. Dr. Motte & WestBam – Love Parade 2000 (One World One Love Parade) (DJ Icey Mix)
 
 AA1. WestBam – Hard Times (DJ Assault Remix)
 AA2. WestBam – Love Bass (DJ Godfather Detroit Ghetto Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47627276518?afid=6142608987){: .button1}
 

@@ -21,7 +21,7 @@ The album includes the songs "One Wish," "Thousand Cranes," and "Sandalwood." Th
 "Third Generation" received high praise from music critics, who praised it as a work that demonstrated the uniqueness of Hiroshima's music and sophisticated performance technique. The album received support not only from jazz fusion enthusiasts, but also from a wide audience.
 
 #### Tracklist
-```md
+"""md
 A1. Heavenly Angel
 
 A2. We Are
@@ -38,10 +38,10 @@ B2. From The Heart
 
 B3. Long Walks
 
-B4. Fifths
+B4.Fifths
 
 B5. Sukoshi Bit
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 

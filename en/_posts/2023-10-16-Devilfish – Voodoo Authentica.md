@@ -14,13 +14,13 @@ title: Devilfish – Voodoo Authentica
 Devilfish is a techno unit formed by Frederik Soderstrom and Sina Morshed Solouk.
 
 #### Tracklist
-```md
-A. Tribal Sorcery
+"""md
+A.Tribal Sorcery
 
-B1. Darksoul
+B1.Darksoul
 
 B2. Eq Beats
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43307213572?afid=6142608987){: .button1}
 

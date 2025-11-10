@@ -15,10 +15,10 @@ title: Peter Murphy – Should The World Fail To Fall Apart
 
 Should the World Fail to Fall Apart is the debut album by British solo artist Peter Murphy, formerly a member of the gothic rock band Bauhaus.
 
-The album includes Murphy"s covers of Magazine"s "The Light Pours Out of Me" and Pere Ubu's "Final Solution." Released in 1986.
+The album includes Murphy's covers of Magazine's "The Light Pours Out of Me" and Pere Ubu's "Final Solution." Released in 1986.
 
 #### Tracklist
-```md
+"""md
 A1. Canvas Beauty (Romance Version)
 
 A2. The Light Pours Out Of Me
@@ -31,14 +31,14 @@ A5. Never Man
 
 B1. God Sends
 
-B2. Blue Heart
+B2.Blue Heart
 
 B3. The Answer Is Clear
 
-B4. Final Solution
+B4.Final Solution
 
 B5. Jemal
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32847289290?afid=6142608987){: .button1}
 

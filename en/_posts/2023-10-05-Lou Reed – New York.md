@@ -12,15 +12,15 @@ title: Lou Reed – New York
 ---
 
 
-"New York" is an important album in Lou Reed"s career and focuses on his hometown of New York. The album"s lyrics reflect the reality of New York City and social issues. Featuring Lou Reed's sharp poetry and his own unique vocal style, it depicts the darkness and light of the city from his perspective.
+"New York" is an important album in Lou Reed's career and focuses on his hometown of New York. The album's lyrics reflect the reality of New York City and social issues. Featuring Lou Reed's sharp poetry and his own unique vocal style, it depicts the darkness and light of the city from his perspective.
 
-""New York"' covers a variety of themes, including politics, drugs, crime, love, and relationships. Some of the album"s most well-known songs include "Dirty Blvd.," "Halloween Parade," and "Romeo Had Juliette."
+""New York'' covers a variety of themes, including politics, drugs, crime, love, and relationships. Some of the album's most well-known songs include "Dirty Blvd.," "Halloween Parade," and "Romeo Had Juliette."
 
 #### Tracklist
-```md
+"""md
 1. Romeo Had Juliette
 
-2. Halloween Parade
+2.Halloween Parade
 
 3. Dirty Blvd.
 
@@ -40,12 +40,12 @@ title: Lou Reed – New York
 
 11. Good Evening Mr. Waldheim
 
-12. Xmas In February
+12. Christmas In February
 
 13. Strawman
 
 14. Dime Store Mystery
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 

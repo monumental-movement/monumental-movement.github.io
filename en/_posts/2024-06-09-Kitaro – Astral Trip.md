@@ -19,19 +19,19 @@ Kitaro played keyboards as a member of the Japanese progressive rock band "Far E
 After leaving the band in 1976 and traveling throughout Asia (China, Laos, Thailand, and India), Kitaro released his first solo album, ""Tenkai,'' in 1978.
 
 #### Tracklist
-```md
+"""md
 A1. By The Sea Side
 A2. Soul Of The Sea
 A3. Micro Cosmos
-A4. Beat
+A4.Beat
 A5. Fire
 
-B1. MU
+B1.MU
 B2. Dawn Of The Astral
 B3. Endless Dreamy World
-B4. Kaiso
+B4.
 B5. Astral Trip
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 

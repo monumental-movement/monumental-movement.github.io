@@ -18,11 +18,11 @@ title: Passionata – Himiko
 The girls started out as friends at university in the Philippines and performed as a trio from 1979 to 1983.
 
 #### Tracklist
-```md
-A. 卑弥呼 = Himiko
+"""md
+A. Himiko = Himiko
 
-B. 火星と金星の陰謀 = Venus And Mars
-```
+B. Mars and Venus conspiracy = Venus And Mars
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47826770015?afid=6142608987){: .button1}
 

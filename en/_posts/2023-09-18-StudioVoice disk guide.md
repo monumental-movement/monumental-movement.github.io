@@ -21,7 +21,7 @@ An all-genre complete disc guide with over 500 discs. Columns by more than 20 pe
 Total 195 pages, approximately 700 photos
 
 #### Contents
-```md
+"""md
 
 Rock/Pop
 
@@ -34,6 +34,6 @@ Reggae/Dub
 World
 
 Contemporary
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

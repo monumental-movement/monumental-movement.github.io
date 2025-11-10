@@ -13,7 +13,7 @@ title: Phil Stumpf – Stumpfam Apparat
 ---
 
 
-A minimal track by Phil Stumpf, who is also a member of the German post-rock band ""OH." and also active as the unit ""DUPLEX 100" with Sam Rouanet.
+A minimal track by Phil Stumpf, who is also a member of the German post-rock band ""OH.'' and also active as the unit ""DUPLEX 100'' with Sam Rouanet.
 
 Released in 2005 on the German house label Tom Bone Vibrating Music.
 
@@ -32,7 +32,7 @@ In 2001, he moved to Paris and co-founded a club night called ""Minimal Dancin''
 He is currently a member of the Paris-based electronic jazz band Canvas, along with Samuel Rouanat and James Sindertree.
 
 #### Tracklist
-```md
+"""md
 A1. Stumpf Am Apparat
 
 A2. Maze Am Apparat (Gwen Maze Remix)
@@ -40,7 +40,7 @@ A2. Maze Am Apparat (Gwen Maze Remix)
 B1. Bond In Action
 
 B2. Temporary Threshold Shift
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
 

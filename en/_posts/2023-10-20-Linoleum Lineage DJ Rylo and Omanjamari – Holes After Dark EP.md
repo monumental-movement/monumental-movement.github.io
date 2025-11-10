@@ -14,13 +14,12 @@ title: Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark EP
 
 Linoleum Lineage is a unit formed by LA-based beatmaker DJ Rylo and MC Omanjamari.
 
-
 Lyric – Omanjamari
 Master – Damon Tedesco
-Producer/Mix/Arrangement – ​​DJ Rylo
+Producer/Mix/Arrangement – DJ Rylo
 
 #### Tracklist
-```md
+"""md
 A1. Open Arms
 
 A2. One Of Those Jams
@@ -30,7 +29,7 @@ A3. Physics For Poets
 B1. Endless Paradigm
 
 B2. Rocketship Romance
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38371047573?afid=6142608987){: .button1}
 

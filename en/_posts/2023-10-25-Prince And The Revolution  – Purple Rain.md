@@ -16,11 +16,11 @@ title: Prince And The Revolution – Purple Rain
 "Prince And The Revolution – Purple Rain" was released in 1984.
 
 #### Tracklist
-```md
-A. Purple Rain (Single Edit.) 
+"""md
+A.Purple Rain (Single Edit.)
 
-B. God 
-```
+B.God
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50358308709?afid=6142608987){: .button1}
 

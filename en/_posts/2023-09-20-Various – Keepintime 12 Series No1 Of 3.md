@@ -16,17 +16,16 @@ This is a 12-inch series from the documentary "Keepintime" that includes session
 
 B2 also includes a live recording of the session.
 
-
 #### Tracklist
-```md
-A1  Cut Chemist–A Peek In Time
+"""md
+A1 Cut Chemist–A Peek In Time
 
-A2  AmmonContact–Infinity Of Rhythm Mix
+A2 AmmonContact–Infinity Of Rhythm Mix
 
-B1  King Britt–King's On Time Mix
+B1 King Britt–King's On Time Mix
 
-B2  Unknown Artist–Exclusive Excerpt From Keepintime: A Live Recording
-```
+B2 Unknown Artist–Exclusive Excerpt From Keepintime: A Live Recording
+""""
 [Purchase on Mercari](https://jp.mercari.com/item/m29653192560?afid=6142608987){: .button1}
 
 #### Youtube

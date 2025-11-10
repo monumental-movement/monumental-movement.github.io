@@ -17,11 +17,11 @@ Klangwerk is a unit composed of DJ/producer Torsten Fenslau, who was active in t
 "Die Kybernauten", released in 1990, became a club hit and is considered an anthem and classic of the era.
 
 #### Tracklist
-```md
+"""md
 A. Die Kybernauten
 
 B. Und Weiter Geht's
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15180946021?afid=6142608987){: .button1}
 

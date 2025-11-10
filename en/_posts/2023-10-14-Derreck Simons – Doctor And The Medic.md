@@ -15,7 +15,7 @@ title: Derreck Simons – Doctor And The Medic
 The producer is Dave Rodgers, an Italian Eurobeat producer and co-founder of the Eurobeat label A.Beat-C.
 
 #### Tracklist
-```md
+"""md
 A1. Doctor And The Medic (Dance Power Mix)
 
 A2. Doctor And The Medic (Bonus Track)
@@ -23,7 +23,7 @@ A2. Doctor And The Medic (Bonus Track)
 B1. Doctor And The Medic (Radio Edit Version)
 
 B2. Doctor And The Medic (Playback)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
 

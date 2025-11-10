@@ -16,15 +16,15 @@ title: Supermatic – Can"t Stop The Bumrush
 This is an EP from the project Supermatic by Otto van den Toorn, released in 1992 on the Sonic Records label.
 
 #### Tracklist
-```md
+"""md
 A1. Can't Stop The Bumrush (Bass Attack)
 
 A2. Can't Stop The Bumrush (Rockattack Warlock)
 
 B1. Can't Stop The Bumrush (Rave Attack Mix)
 
-B2. Bassquest
-```
+B2.Bassquest
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m19638471586?afid=6142608987){: .button1}
 

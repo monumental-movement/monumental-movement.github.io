@@ -18,24 +18,24 @@ The Spudmonsters are an American thrash metal, hardcore, crossover band formed i
 "No Guarantees" was released in 1995 on the German label Massacre Records.
 
 #### Tracklist
-```md
+"""md
 A1. Upperhand
-A2. Bloodline
-A3. The Exploited
+A2.Bloodline
+A3.The Exploited
 A4. Phoenix
 A5. Dot Yer Eye
 A6. Poverty
 A7. Cross The Line
 A8. Haywire March
-A9. Breakdown
+A9.Breakdown
 
 B1. Blood From A Rock
 B2. Down But Not Out
-B3. Eye Of The Storm
+B3.Eye Of The Storm
 B4. Generation X
-B5. Broken
-B6. Untitled
-```
+B5.Broken
+B6.Untitled
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95943993364?afid=6142608987){: .button1}
 

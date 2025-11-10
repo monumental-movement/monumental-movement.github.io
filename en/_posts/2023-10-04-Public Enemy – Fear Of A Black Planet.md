@@ -14,9 +14,8 @@ title: Public Enemy – Fear Of A Black Planet
 
 Public Enemy's "Fear of a Black Planet" has been highly acclaimed as a musically and conceptually excellent album.
 
-
 #### Tracklist
-```md
+"""md
 A1. Contract On The World Love Jam (Instrumental)
 
 A2. Brothers Gonna Work It Out
@@ -25,11 +24,11 @@ A3. 911 Is A Joke
 
 A4. Incident At 66.6 FM (Instrumental)
 
-A5. Welcome To Tthe Terrordome
+A5. Welcome To The Terrordome
 
 A6. Meet The G That Killed Me
 
-A7. Pollywanacraka
+A7.
 
 A8. Anti-Nigger Machine
 
@@ -56,7 +55,7 @@ B8. War At 33 1/3
 B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 
 B10. Fight The Power
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
 

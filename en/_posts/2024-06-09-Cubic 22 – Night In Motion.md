@@ -18,15 +18,15 @@ Cubic 22 is a dance music project by Belgian producers Peter Ramson and Danny Va
 "Night In Motion", released in 1991, is one of Cubic 22's masterpieces, a classic hardcore techno track that became a huge hit in the club, dance, and rave scenes.
 
 #### Tracklist
-```md
+"""md
 A1. Night In Motion (Original Mix)
 A2. Night In Motion (Nick's Relocated Remix)
 
 AA1. Night In Motion (Battle Plan Remix)
 AA2. Night In Motion (Drum And Bass Dub)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgKXYU2GAeM?si=LrhNAE3oa6WnrKSj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

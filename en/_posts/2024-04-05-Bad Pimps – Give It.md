@@ -18,13 +18,13 @@ Bad Pimps is a project between Patrick Lindsey, one of the founders of the label
 A techno/tech house track released in 2002 on Monika Kruse's label Terminal M.
 
 #### Tracklist
-```md
+"""md
 A. Give.It.!
 
 B1. Move It In A Dirty Way But Maybe That's To Long Monika?
 
 B2. Get On Up!
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 

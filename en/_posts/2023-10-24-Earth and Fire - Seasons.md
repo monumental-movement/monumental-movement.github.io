@@ -16,11 +16,11 @@ title: Earth and Fire - Seasons
 Earth & Fire is a pop-rock band from Voorchoten/Vorburg, the Netherlands. "Seasons", released in 1969, is Earth & Fire's signature song.
 
 #### Tracklist
-```md
-A. Seasons = シーズン
+"""md
+A. Seasons
 
-B. Hazy Paradise = 霧のパラダイス
-```
+B. Hazy Paradise = Fog Paradise
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85479592073?afid=6142608987){: .button1}
 

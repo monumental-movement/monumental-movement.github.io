@@ -14,7 +14,7 @@ title: Nightmares On Wax – Smokers Delight
 ---
 
 
-Nightmares On Wax"s Smokers Delight (1995), the second album from British producer George Evelyn"s project, was released on Warp Records and cemented its place in downtempo and trip-hop history. This album remains a timeless masterpiece, transporting listeners to a soothing chill-out realm, a step removed from the hustle and bustle of club culture.
+Nightmares On Wax's Smokers Delight (1995), the second album from British producer George Evelyn's project, was released on Warp Records and cemented its place in downtempo and trip-hop history. This album remains a timeless masterpiece, transporting listeners to a soothing chill-out realm, a step removed from the hustle and bustle of club culture.
 
 First of all, the core of "Smokers Delight" lies in its "relaxed groove." The album opens with "Nights Introlude," featuring soft strings and a gentle beat that samples Quincy Jones' "Summer In The City," instantly drawing the listener into a relaxing space.
 
@@ -22,28 +22,26 @@ Musically, the hip-hop skeleton is woven with the essence of reggae, soul, and f
 
 The production background is also interesting. After the departure of her partner Kevin Harper, Evelyn redefined Nightmares On Wax as a solo project and found a new direction with Smokers Delight. Using analog equipment and sampling techniques, this record embodies the DIY spirit of the '90s and resonates with the innovative attitude of the Warp label at the time. Robin Taylor-Firth's keyboard participation and the loops of hand-played instruments scattered throughout create an exquisite fusion of digital and analog, creating a human sound that transcends artificial coldness.
 
-
-
 #### Tracklist
-```md
+"""md
 1. Nights Introlude
 2. Dreddoverboard
-3. Pipes Honour
+3. Pipes Honor
 4. Me + You
-5. Stars
-6. Wait A Minute
+5.Stars
+6.Wait A Minute
 6 1/2. Praying For A Jeepbeat
-7. Groove St.
+7.Groove St.
 8. Time (To Listen)
 9. (Man) Tha Journey
 10. Bless My Soul
 11. Cruise (Don't Stop)
-12. Mission Venice
-13. What I'm Feelin (Good)
-14. Rise
+12.Mission Venice
+13. What I'm Feelin' (Good)
+14.Rise
 15. Rise (Reprise)
 16. Gambia Via Vagator Beach
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 

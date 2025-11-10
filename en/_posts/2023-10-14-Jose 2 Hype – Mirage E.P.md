@@ -17,13 +17,13 @@ Jose Gutierrez, aka Jose 2 Hype, has been one of the pioneers of techno and rave
 Released in 1996 on the Chicago label Underground Construction, "Jack Attack" is Jose 2 Hype's anthem.
 
 #### Tracklist
-```md
+"""md
 A1. Jack Attack
 
 A2. Jack Attack (Ghetto Hype Remix)
 
-B. A Bailar
-```
+B.A Bailar
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 

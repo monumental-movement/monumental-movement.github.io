@@ -17,8 +17,8 @@ A compilation by King Britt, a key figure in the Philadelphia house scene.
 The first track on side A, The Society, is a project of composer/arranger/saxophonist Thomas Hass, a touring member of Senor Coconut.
 
 #### Tracklist
-```md
-A1. The Society –How's Life
+"""md
+A1. The Society –How"s Life
 
 A2. Charlie Dark –Drums Of Passion
 
@@ -27,7 +27,7 @@ B1. Face – Butter Angel
 B2. Capitol A – Da'Bring Back
 
 B3. Yesterdays New Quintet – 18 And Untitled
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m69484096641?afid=6142608987){: .button1}
 

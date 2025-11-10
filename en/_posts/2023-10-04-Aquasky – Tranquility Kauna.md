@@ -19,11 +19,11 @@ Aquasky have worked with 4/4 aliases Black Noise, such as Southern Fried and Wea
 A must-hear EP from this era, from this trio whose career spanned acid, jungle, drum and bass, breakbeat, and now encompasses all forms of bass music.
 
 #### Tracklist
-```md
-X. Tranquility
+"""md
+X.Tranquility
 
 Y. Kauna
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 

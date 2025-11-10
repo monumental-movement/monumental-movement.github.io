@@ -20,13 +20,13 @@ Jam & Spoon is a German techno/trance duo formed by Rolf Ellmer (Jam) and Markus
 Plavka is a vocalist from Serbia, and her powerful vocals give "Kaleidoscope Skies" depth and emotion. Her singing voice gives a dramatic essence to the entire song and captures the hearts of the listeners.
 
 #### Tracklist
-```md
-A  Kaleidoscope Skies (Club Mix)
+"""md
+A Kaleidoscope Skies (Club Mix)
 
-B1  I Pull My Gun Once
+B1 I Pull My Gun Once
 
-B2  I Pull My Gun Twice
-```
+B2 I Pull My Gun Twice
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66323929569?afid=6142608987){: .button1}
 

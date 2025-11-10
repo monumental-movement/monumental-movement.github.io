@@ -16,12 +16,11 @@ title: Hiroshima – Go
 
 The album includes the songs "One Wish," "Island World," and "Another Place." These songs are a fusion of Hiroshima's distinctive sound and melodic song structure, creating a pleasant atmosphere.
 
-
 #### Tracklist
-```md
-A1. Go
+"""md
+A1.Go
 
-A2. I've Been Here Before
+A2. I've been here before
 
 A3. 311
 
@@ -29,12 +28,12 @@ A4. No. 9
 
 B1. Obon
 
-B2. Even Then
+B2.Even Then
 
 B3. Hawaiian Electric
 
 B4. Why Can't I Love You
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m91171909677?afid=6142608987){: .button1}
 

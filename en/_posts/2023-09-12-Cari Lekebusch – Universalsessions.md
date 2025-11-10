@@ -18,12 +18,11 @@ A 1999 release by Cari Lekebusch. Side B is especially great electro.
 It's a track with a dark melody that gives you a sense of tranquility.
 
 #### Tracklist
-```md
+"""md
 A. Conrad 4 (Instrumental)
 
-
-B. Video Hi 8 (Instrumental)
-```
+B.Video Hi 8 (Instrumental)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
 

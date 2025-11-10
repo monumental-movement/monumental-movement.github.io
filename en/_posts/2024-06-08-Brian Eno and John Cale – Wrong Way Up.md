@@ -22,19 +22,19 @@ Wrong Way Up is a critically acclaimed album that falls somewhere between electr
 The song "Spinning Away" is famous for being a cover version by the American rock band Sugar Ray for the soundtrack of the movie "The Beach" in 2000.
 
 #### Tracklist
-```md
+"""md
 A1. Lay My Love
-A2. One Word
+A2.One Word
 A3. In The Backroom
-A4. Empty Frame
+A4.Empty Frame
 A5. Cordoba
 
 B1. Spinning Away
 B2. Footsteps
 B3. Been There Done That
 B4. Crime In The Desert
-B5. The River
-```
+B5.The River
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 

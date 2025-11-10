@@ -34,7 +34,6 @@ color: #fff;
 }
 </style>
 
-
 ### Early background and musical formation
 
 Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. They made their debut with "Momentary Vision" in 1990 and have since become an indispensable part of the evolution of techno.
@@ -43,19 +42,17 @@ In the 90s, they released ambient to minimal works with Warp and NovaMute, and s
 
 ---
 
-
 ### Activity Map
 
 <div class="mermaid">
 
 flowchart TD
-A["Luke Slater"] --> B["Planetary Assault Systems"]
-A --> C["The 7th Plain"]
-A --> D["LSD (w/ Steve Bicknell & Function)"]
-B --> E["Hard Techno / Ostgut Ton"]
-C --> F["Ambient Techno/Warp"]
-D --> G["Experimental Collaboration"]
-
+    A["Luke Slater"] --> B["Planetary Assault Systems"]
+    A --> C["The 7th Plain"]
+    A --> D["LSD (w/ Steve Bicknell & Function)"]
+    B --> E["Hard Techno / Ostgut Ton"]
+    C --> F["Ambient Techno/Warp"]
+    D --> G["Experimental Collaboration"]
 
 </div>
 
@@ -80,7 +77,7 @@ Featuring a hard and minimalist techno sound, it is known as a symbol of "peak t
 
 **Relationship with label**
 
-- 90"s: Numerous releases from Tresor (Berlin"s prestigious club/label)
+- 90's: Numerous releases from Tresor (Berlin's prestigious club/label)
 
 - After 2000s: Moved base to Ostgut Ton (Berghain direct label) and continues to release works to this day.
 
@@ -121,7 +118,6 @@ In contrast to Planetary Assault Systems, which is characterized by a hard sound
 - A fusion of Detroit techno lyricism and ambient
 
 - Strong listening orientation, more like an "immersive experience" than a club
-
 
 **Position**
 
@@ -168,7 +164,6 @@ Live performances at Berghain and international festivals have received particul
 
 LSD = A ""culmination of hard minimalism'' brought together by three masters, incorporating not only techno but also electro, funk, and vocal songs, developing a wide range of expressions.
 
-
 ---
 
 **Discography**
@@ -178,7 +173,6 @@ LSD = A ""culmination of hard minimalism'' brought together by three masters, in
 | 2017 | *Process* | First collaborative work | [Amazon](https://amzn.to/3Wnv3IC) |
 | 2019 | *Second Process* | Minimal and sharp development | [Amazon](https://amzn.to/46PIaHj) |
 | 2020 | *Third Process* | Cosmic sound processing | [Amazon](https://amzn.to/42sbkuR) |
-
 
 ---
 
@@ -202,13 +196,12 @@ Under his solo name, he is known for a wide range of works spanning techno, elec
 
 **Position**
 
-Slater is acclaimed as a flexible creator who traverses the scene, balancing the hardness of techno with a pop sensibility.
+Slater is acclaimed as a flexible creator who crosses scenes, combining the hardness of techno with a pop sensibility.
 It laid the foundation for later aliases such as Planetary Assault Systems and The 7th Plain.
 
 ---
 
 **Discography**
-
 
 | Year | Album name | Features | Link |
 | ---- | ---------------- | -------------- | ------------------------------------------ |
@@ -230,7 +223,7 @@ Luke Slater is still active and will release "Planetary Assault Systems Reassemb
 
 ---
 
-#### summary
+#### Summary
 
 Luke Slater is a pioneer of UK techno, developing a diverse range of musical styles through a number of aliases. His work goes beyond the boundaries of techno and continues to take on new musical challenges, such as fusion with ambient and classical music. I can't take my eyes off his music in the future.
 
@@ -239,7 +232,6 @@ Luke Slater is a pioneer of UK techno, developing a diverse range of musical sty
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myr9W7HR0wg?si=1lBJTYJrEdJHgoXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-
 
 ### Related columns
 
@@ -250,4 +242,5 @@ Luke Slater is a pioneer of UK techno, developing a diverse range of musical sty
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+
 

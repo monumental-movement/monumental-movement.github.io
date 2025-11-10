@@ -12,14 +12,14 @@ title: Johannes Heil – Paranoid Dancer
 ---
 
 
-A remastered version of Johannes Heil"s classic Paranoid Dance, released on Heiko Laux"s Kanzleramt label.
+A remastered version of Johannes Heil's classic Paranoid Dance, released on Heiko Laux's Kanzleramt label.
 
 #### Tracklist
-```md
+"""md
 a. Paranoid Dancer (Re-Mastered Original)
 
 b. Paranoid Dancer (DJ Hell Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54249919762?afid=6142608987){: .button1}
 

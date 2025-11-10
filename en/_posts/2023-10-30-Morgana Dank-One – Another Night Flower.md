@@ -14,11 +14,11 @@ title: Morgana Dank-One – Another Night Flower
 This is an EP released by the label "Major Record" in 2005.
 
 #### Tracklist
-```md
+"""md
 A. Morgana – Another Night (DJ Tora Vocal Mix)
 
 B. Dank-One – Flower (Original Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
 

@@ -27,7 +27,7 @@ The album became emblematic of the evolution of funk music and its influence on 
 Sly & the Family Stone's experimental approach and positive message have influenced countless musicians and audiences, positioning them as timeless artists.
 
 #### Tracklist
-```md
+"""md
 A1. Stand!
 
 A2. Don't Call Me Nigger, Whitey
@@ -43,7 +43,7 @@ B1. Everyday People
 B2. Sex Machine
 
 B3. You Can Make It If You Try
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
 

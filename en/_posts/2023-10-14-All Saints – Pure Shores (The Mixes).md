@@ -19,7 +19,7 @@ The second track on Side A is a remix by Karl Clive Gordon, aka K-Gee, a former 
 The B-side is a remix by Mark Stent, a UK record producer and mixing engineer who has worked with many international artists including Marshmello, U2, Beyoncé, Björk, Depeche Mode, Echo & the Bunnymen, Grimes, and Ed Sheeran.
 
 #### Tracklist
-```md
+"""md
 A1. Pure Shores (Cosmos Mix)
 
 A2. Pure Shores (2 Da Beach Don't Stop Remix)
@@ -27,7 +27,7 @@ A2. Pure Shores (2 Da Beach Don't Stop Remix)
 B1. Pure Shores (Original)
 
 B2. Pure Shores (Instrumental)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
 

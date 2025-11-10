@@ -14,11 +14,11 @@ title: '[Column] Norwegian disco: Genealogy and recommended records of Prins Tho
 ---
 
 
-## Norwegian Disco: The Genealogy of Prins Thomas, Mungolian Jet Set and Lindstrøm
+## ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
 
-Text: mmr｜Theme: History of modern disco/space disco born in Norway, solo works, collaborations, produced works
+文：mmr｜テーマ：ノルウェーが生んだモダン・ディスコ／スペースディスコの歴史、ソロ作品・コラボ・プロデュースワーク
 
-Despite its cold climate and Scandinavian tranquility, Norway has given rise to an important trend of warm disco/space disco. Prins Thomas, Lindstrøm, and the Mungolian Jet Set have reinterpreted 70s and 80s disco, Italo, and French touch with a Norwegian lens, giving 21st century dance music their own unique flavor. In this article, we will comprehensively introduce each artist's solo work, collaboration, and production activities, and list recommended albums by age group.
+ノルウェーは、寒冷な気候や北欧特有の静謐さを背景にしながらも、温度感あるディスコ／スペースディスコの重要な潮流を生み出してきた。Prins Thomas（プリンス・トーマス）、Lindstrøm（リンドストローム）、そしてMungolian Jet Set（ムングリアン・ジェット・セット）らは、70〜80年代のディスコ、イタロ、フレンチタッチをノルウェー的な視点で再解釈し、21世紀のダンスミュージックに独自の色を与えた。この記事では各アーティストのソロワーク、コラボレーション、プロデュース活動を網羅的に紹介し、年代別の推薦アルバム表を掲載する。
 
 ---
 
@@ -34,110 +34,108 @@ color: #fff;
 }
 </style>
 
+## 概要：北欧の空気と“温度”のディスコ
 
-## Overview: Scandinavian air and "temperature" disco
-
-The disco created by Norwegian producers is more than just retro playback. The melancholy produced by the cold climate and the fusion of warm synth/percussion--this contrast is the flavor of "Nordic disco." Prins Thomas and Lindstrøm influenced each other, expanding the vocabulary of "space disco" through co-writing and remixing. Mungolian Jet Set, on the other hand, also incorporates elements from outside Norway (including the introduction of music samples from Asia and the Middle East) in its DJ mixes and extraordinary music curation.
+ノルウェーのプロデューサーたちが作るディスコは、ただのレトロ再生ではない。冷たい風土が生むメランコリーと、暖かいシンセ／パーカッションの融合——このコントラストが“北欧ディスコ”の味付けである。Prins ThomasとLindstrømは互いに影響を与え合い、共作やリミックスを通じて“space disco”の語彙を拡張した。一方、Mungolian Jet SetはDJミックスや非凡な音楽キュレーションで、ノルウェー外のエッセンス（アジアや中東の音楽サンプルの導入など）も取り入れている。
 
 ---
 
 <div class="mermaid">
 flowchart TD
-PT[Prins Thomas]
-LS[Lindstrøm]
-MJ[Mungolian Jet Set]
-ST[Smalltown Supersound]
-DT [Disko B / Internasjonale collaboration]
+  PT[Prins Thomas]
+  LS[Lindstrøm]
+  MJ[Mungolian Jet Set]
+  ST[Smalltown Supersound]
+  DT[Disko B / Internasjonale コラボ]
 
-PT -->|Co-production/Remix| LS
-LS -->|Produced| OtherArtists[Diverse artists]
-MJ -->|DJ Mix / Curation| PT
-PT -->|Label/Compilation| ST
-ST --> DT
+  PT -->|共同制作/リミックス| LS
+  LS -->|プロデュース| OtherArtists[多様なアーティスト]
+  MJ -->|DJ Mix / キュレーション| PT
+  PT -->|レーベル/コンパイル| ST
+  ST --> DT
 </div>
 
 ---
 
-## Commentary by artist
+## アーティスト別解説
 
-### Prins Thomas
+### Prins Thomas（プリンス・トーマス）
 
-His real name is Thomas Moen Hermansen. Inheriting the spirit of Detroit-Italo and 70s disco, they specialize in long psychedelic build-ups. He is known for his solo albums ""Prins Thomas" and ""II". In addition, the collaborations and remix work released with Lindstrøm and others contributed to the formation of the scene.
+本名はThomas Moen Hermansen。デトロイト〜イタロや70sディスコの精神を受け継ぎつつ、長尺のサイケデリックなビルドアップを得意とする。ソロアルバム『Prins Thomas』や『II』などで知られる。また、Lindstrømらと共にリリースしたコラボレーションやリミックスワークはシーン形成に寄与した。
 
-**Main activities produced/involved**:
+**プロデュース／関与した主な活動**：
 
-* Co-production with Lindstrøm (split/remix)
-* Long track using modular/analog equipment
-* Curation of live sets at small festivals and clubs
-
----
-
-### Lindstrøm
-
-His real name is Hans-Peter Lindstrøm. His sound is called the standard-bearer of "cosmic disco," and combines synth layers, heavy drum work, and the essence of ambient. His masterpieces, such as ""Where You Go I Go Too" and ""It's A Fidelity Affair," have received high acclaim for their elegant and danceable long-length compositions.
-
-**Main activities produced/involved**:
-
-* Remixes of other artists (female singers and indie bands)
-* Music production for video works and fashion events
+* Lindstrømとの共作（スプリット／リミックス）
+* モジュラー／アナログ機材を駆使した長尺トラック
+* 小規模フェスやクラブでのライブセットでのキュレーション
 
 ---
 
-### Mungolian Jet Set
+### Lindstrøm（リンドストローム）
 
-Mainly active as a DJ unit/producer. He is known for his vast record knowledge and mixes that incorporate a sense of tribal rhythm. Their Jet Set Trax-like mix series brings a new editorial perspective to the Norwegian club scene.
+本名はHans-Peter Lindstrøm。彼のサウンドは“cosmic disco”の旗手と称され、シンセレイヤーと重厚なドラムワーク、そしてアンビエントのエッセンスを併せ持つ。代表作『Where You Go I Go Too』や『It's A Feedelity Affair』などは、エレガントかつダンサブルな長編構成で高評価を受けている。
 
-#### Member composition
+**プロデュース／関与した主な活動**：
 
-**Paul "Strangefruit" Nyhus**
-
-Role: DJ/Turntablist/Selector
-
-Features:
-
-An important presence in Norway's underground DJ culture.
-
-With a unique music selection based on his extensive record collection, he freely connects disco, jazz, Afro, house, and experimental music.
-
-Known as a DJ who breaks down genre barriers, he brings an electric element to Mungolian Jet Set's work.
+* 他アーティスト（女性シンガーやインディーバンド）のリミックス
+* 映像作品やモード系イベントの音楽制作
 
 ---
 
-**Knut Sævik**
+### Mungolian Jet Set（ムングリアン・ジェット・セット）
 
-Role: Producer/Musician
+主にDJユニット／プロデューサーとして活動。膨大なレコード知識とトライバルなリズム感を織り交ぜたミックスで知られる。彼らの『Jet Set Trax』的なミックスシリーズは、ノルウェーのクラブシーンに新しいエディトリアルな視点を持ち込んだ。
 
-Features:
+#### メンバー構成
 
-An engineer who supports studio work.
+**Paul “Strangefruit” Nyhus（ポール・“ストレンジフルーツ”・ニーハス）**
 
-He is in charge of rich sound design, making full use of synthesizers, samplers, programming, etc.
+役割：DJ／ターンテーブリスト／セレクター
 
-Jazz and
-He brings his classical background and adds depth to his arrangements.
+特徴：
 
----
+ノルウェーのアンダーグラウンドDJカルチャーにおいて重要な存在。
 
-**Guest Collaborator**
+豊富なレコードコレクションを基にしたユニークな選曲眼で、ディスコ、ジャズ、アフロ、ハウス、実験音楽まで縦横無尽に繋ぐ。
 
-Randy Barracuda (active in Finland's Skweee scene) and singers/musicians from Norway and abroad sometimes participate.
-
-Mungolian Jet Set's albums and mixes also feature guest vocalists and instrumentalists.
-
-
-#### Sound characteristics
-
-Cross-genre: A mixture of disco, cosmic, house, jazz, Afro, and even rock and prog elements.
-
-Remix sense: He is known for his "space travel" remixes that boldly change the structure of the original song and extend it to over 10 minutes.
-
-Curation: Their DJ sets and compilations are experiences that involve storytelling, not just song selection.
-
-In summary, Mungolian Jet Set is a fusion of Strangefruit"s (Paul Nyhus) DJ sensibilities and Knut Sævik"s studio production abilities, and is a genre-defying "Scandinavian cosmic disco" maverick.
+「ジャンルの壁を壊すDJ」として知られ、Mungolian Jet Setの作品にエキレクティックな要素を持ち込む。
 
 ---
 
-### Recommended albums by generation
+**Knut Sævik（クヌート・セーヴィク）**
+
+役割：プロデューサー／ミュージシャン
+
+特徴：
+
+スタジオワークを支えるエンジニア的存在。
+
+シンセサイザー、サンプラー、プログラミングなどを駆使し、厚みのあるサウンドデザインを担当。
+
+ジャズや
+クラシックの素養を持ち込み、アレンジに奥行きを加える。
+
+---
+
+**ゲストコラボレーター**
+
+Randy Barracuda（フィンランドのSkweeeシーンで活躍）や、ノルウェー国内外のシンガー／ミュージシャンが参加することもある。
+
+Mungolian Jet Setのアルバムやミックスは、ゲストヴォーカルやインストゥルメンタリストを大胆にフィーチャーするのも特徴。
+
+#### サウンドの特徴
+
+ジャンル横断性：ディスコ、コズミック、ハウス、ジャズ、アフロ、さらにはロックやプログレ的要素までを混在。
+
+リミックスセンス：原曲の構造を大胆に変え、10分以上に拡張する“宇宙旅行”のようなリミックスで知られる。
+
+キュレーション性：彼らのDJセットやコンピレーションは、単なる選曲ではなくストーリーテリングを伴う体験。
+
+まとめると、Mungolian Jet SetはStrangefruit（Paul Nyhus）のDJ的感性と、Knut Sævikのスタジオ・プロダクション能力の融合によって成立しており、ジャンルを超越した“北欧コズミック・ディスコ”の異端児的存在です。
+
+---
+
+### 年代別おすすめアルバム
 
 | Year | Album | Artist | Link |
 | ---: | -------------------------------- | ----------------- | ---------------------------------- |
@@ -165,10 +163,10 @@ A documentary film depicting the history and development of the Norwegian dance 
 2. **Long track culture**: A style that emphasizes the "journey" through albums rather than clubs.
 3. **Cross-cultural references**: Free references to Italo, French disco, and even folk music elements.
 
-
 ---
 
-### lastly
+### Finally
 
 Prins Thomas, Lindstrøm, and Mungolian Jet Set continue to send out ""temperature disco'' from Norway to the world. Given their musical background and production work, their tracks go beyond mere dance music and provide a listening experience tinged with a Scandinavian sense of time/landscape.
+
 

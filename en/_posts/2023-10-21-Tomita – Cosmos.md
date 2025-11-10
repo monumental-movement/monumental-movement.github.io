@@ -17,10 +17,10 @@ title: Tomita – Cosmos
 "Space Fantasy" is music inspired by the stars, galaxies, and planets of the universe, and is an album that highlights Isao Tomita's synthesizer technique and sound design.
 
 #### Tracklist
-```md
+"""md
 A1. Space Fantasy
 
-A2. Pacific 231
+A2.Pacific 231
 
 A3. Unanswered Question
 
@@ -33,7 +33,7 @@ B2. Solvejg's Song
 B3. Hora Staccato
 
 B4. The Sea Named "Solaris"
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33587379551?afid=6142608987){: .button1}
 

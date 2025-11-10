@@ -9,20 +9,20 @@ tags:
 - Synth-Pop
 - Disco
 - 80s
-title: Taco – Let"s Face The Music (And Dance) Sayonara ("Til We Meet Again)
+title: Taco – Let's Face The Music (And Dance) Sayonara ('Til We Meet Again)
 ---
 
 
 Taco is an Indonesian-Dutch singer known for the hit song "Puttin' on the Ritz."
 
-An electropop and disco cover of Irving Berlin"s famous song, Let"s Face the Music.
+An electropop and disco cover of Irving Berlin's famous song, Let's Face the Music.
 
 #### Tracklist
-```md
+"""md
 A. Let's Face The Music (And Dance)
 
 B. Sayonara ('Til We Meet Again)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40750077910?afid=6142608987){: .button1}
 

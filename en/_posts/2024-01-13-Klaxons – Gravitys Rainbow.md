@@ -21,7 +21,7 @@ The first song on side B is a remix by Matt Waites, aka Nightmoves.
 B-side 2nd track is a remix by British indie rock/synth pop duo To My Boy.
 
 #### Tracklist
-```md
+"""md
 A1. Gravity's Rainbow
 
 A2. Gravity's Rainbow (Van She Remix)
@@ -29,7 +29,7 @@ A2. Gravity's Rainbow (Van She Remix)
 B1. Gravity's Rainbow (Nightmoves Remix)
 
 B2. Gravity's Rainbow (To My Boy Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 

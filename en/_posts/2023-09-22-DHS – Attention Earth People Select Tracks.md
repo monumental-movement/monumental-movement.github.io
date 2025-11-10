@@ -27,19 +27,19 @@ Due to demand and rising prices, this record is expensive, but compared to a rec
 This EP, or mini-album, is top-notch from start to finish, with no wasted songs and absolutely full of killer tunes.
 
 #### Tracklist
-```md
-A1  Attention Earth People
+"""md
+A1 Attention Earth People
 
-A2  Attention Earth People (Remix)
+A2 Attention Earth People (Remix)
 
-A3  Watch The Sky
+A3 Watch The Sky
 
-B1  Fascinating
+B1 Fascinating
 
-B2  Venus The Morning Star
+B2 Venus The Morning Star
 
-B3  As High As It Can Go
-```
+B3 As High As It Can Go
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
 

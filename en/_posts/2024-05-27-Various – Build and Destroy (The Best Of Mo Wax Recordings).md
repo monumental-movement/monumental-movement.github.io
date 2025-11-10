@@ -17,7 +17,7 @@ title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 A two-disc compilation album released in 1996 by MO WAX, a legendary label representing the 90s.
 
 #### Tracklist
-```md
+"""md
 1. Rob Dougan –Clubbed To Death (Spoon Mix By Carl Craig)
 2. Attica Blues – Lonesome Child
 3. U.N.K.L.E. – The Time Has Come (Portishead Plays Unkle Mix)
@@ -27,10 +27,10 @@ A two-disc compilation album released in 1996 by MO WAX, a legendary label repre
 7a. DJ Shadow – What Does Your Soul Look Like (Parts 2)
 7b. DJ Shadow – What Does Your Soul Look Like (Parts 3)
 8. DJ Krush – 89.9 Megamix (DJ Shadow)
-など全19曲
-```
+19 songs in total including
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

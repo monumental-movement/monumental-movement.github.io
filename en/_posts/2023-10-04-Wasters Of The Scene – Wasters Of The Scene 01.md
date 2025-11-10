@@ -16,11 +16,11 @@ title: Wasters Of The Scene – Wasters Of The Scene 01
 This is an EP by Wasters Of The Scene released in Belgium in 2005.
 
 #### Tracklist
-```md
+"""md
 A. Voulez-vous! Mix 1
 
 B. Voulez-vous! Mix 2
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51804569308?afid=6142608987){: .button1}
 

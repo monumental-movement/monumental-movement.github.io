@@ -21,13 +21,13 @@ In 1990 he became resident DJ at Sterns in Worthing. He also worked at Swag Reco
 In the mid-1990s, he was a promoter and resident DJ at Groove Kitchen and Wiggle. He was also the resident DJ at Freaky Disco. Additionally, he has hosted a show on Energy 87.9 FM.
 
 #### Tracklist
-```md
+"""md
 A. Believe In Yourself
 
 B1. Love In
 
 B2. Roll In Life
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
 

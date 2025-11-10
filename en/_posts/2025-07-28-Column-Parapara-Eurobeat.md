@@ -42,7 +42,6 @@ Eurobeat has its roots in "Italo Disco", which was born in Italy in the 1980s. A
 
 This structure was a perfect match for the parapara dance, which repeats the same pattern.
 
-
 <hr>
 
 ### What is Parapara? ──Pleasure of uniform repetition
@@ -66,7 +65,6 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Dramatic song development → matches the climax of the swing
 
-
 <hr>
 
 ### Avex's strategy: Eurobeat = Japan-only format
@@ -79,12 +77,11 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a Eurobeat exclusive label
+● Signed with a dedicated Eurobeat label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 
 In this way, Japan's unique ""Eurobeat market'' was formed and gradually became integrated.
-
 
 <hr>
 
@@ -95,7 +92,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as "Parapara Paradise" and "Parapara Kyonen" also appear
+- Series such as ""Parapara Paradise'' and ""Parapara Kyonen'' are also available.
 
 ● Media production
 
@@ -122,12 +119,11 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - There are also phenomena where overseas fans rediscover and receive praise as if they were reimported.
 
-
 <hr>
 
 ### Euro and Parapara were complicit
 Eurobeat and Parapara are not just a combination of music and dance.
-**They were strongly linked by common cultural codes such as ""repetitiveness," ""clear structure," ""collectiveness," and ""dramatic presentation."**
+**They were strongly linked by common cultural codes such as ""repetitiveness,'' ""clear structure,'' ""collectiveness,'' and ""dramatic presentation.''**
 
 It was a perfect example of the phenomenon of ""music becoming culture through the body.''
 

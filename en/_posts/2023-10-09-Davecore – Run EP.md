@@ -15,9 +15,8 @@ title: Davecore – Run! EP
 "Run! EP" is
 This is an EP by Davecore released in 2002 by the Swedish label "Kône Records".
 
-
 #### Tracklist
-```md
+"""md
 A1. Run!
 
 A2. N'Blick
@@ -25,7 +24,7 @@ A2. N'Blick
 B1. K-Beat
 
 B2. Lab Test
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m24628076259?afid=6142608987){: .button1}
 

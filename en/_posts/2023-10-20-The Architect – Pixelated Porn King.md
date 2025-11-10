@@ -17,15 +17,15 @@ The Architect is the alias of DJ/producer Jay Haze. There are also Fuckpony, Sub
 "Pixelated Porn King" was released in 2002 by Tuning Spork Records.
 
 #### Tracklist
-```md
+"""md
 A1. Funkin
 
 A2. Porno Frenzy
 
-B1. Yknewk
+B1.
 
-B2. Oinan
-```
+B2.
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
 

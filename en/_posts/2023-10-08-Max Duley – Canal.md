@@ -21,15 +21,15 @@ Max Dury is known as a techno music producer, gaining attention for his unique a
 Max Dury's ""Canal'' is highly acclaimed by fans of techno music and the underground scene. His music pursues a unique style that combines the energy of techno with ambient elements, and the sound will leave a deep impact on listeners.
 
 #### Tracklist
-```md
+"""md
 S1. Eternal Bleeding
 
 S2. Perfect Skin
 
 T1. Sidekick
 
-T2. Searching
-```
+T2.Searching
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
 

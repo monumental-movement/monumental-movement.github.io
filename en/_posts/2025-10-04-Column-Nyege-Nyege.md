@@ -18,7 +18,6 @@ title: '[Column] Nyege Nyege: A music group from Uganda that is leading Africa''
 
 Text: mmr｜Theme: About an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world
 
-
 "Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world. Its name means "an irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
 
 ---
@@ -35,7 +34,7 @@ color: #fff;
 }
 </style>
 
-## table of contents
+## Table of Contents
 
 1. [Foundation and Background](#beginning)
 2. [Introduction of album and project](#album)
@@ -50,7 +49,6 @@ color: #fff;
 
 ---
 
-
 ## <a id="beginning"></a>Foundation and background
 
 Nyege Nyege was founded in Kampala in 2013 by American Arlen Dirsigian and Belgian Derek Debre. They revitalized the music scene with local DJs and percussionists through an event called "Boutiq Electroniq." After that, in 2016, he launched a record label called "Nyege Nyege Tapes" and continues to disseminate a new music style that fuses traditional African music and electronic music.
@@ -60,7 +58,6 @@ Nyege Nyege was founded in Kampala in 2013 by American Arlen Dirsigian and Belgi
 ## <a id="album"></a>Introducing albums and projects
 
 Below, we will introduce representative albums and projects released by Nyege Nyege Tapes by year.
-
 
 | Year | Artist/Album | Features | Links |
 |------|------------|------|---------|
@@ -101,11 +98,11 @@ Shingeli is a fast beat dance music that originated in Dar es Salaam, Tanzania.
 <div class="mermaid">
 
 flowchart TD
-A["Early 2000s: Dar es Salaam slums"] --> B["Improvisational performance centered on female MCs"]
-B --> C["Spread by street party"]
-C --> D["Urban culture symbolization/gender equality expression"]
-D --> E["Nyege Nyege Tapes attract international attention"]
-E --> F["Performed at clubs and festivals around the world"]
+    A["Early 2000s: Dar es Salaam slums"] --> B["Improvisation performance centered on female MCs"]
+    B --> C["Spread by street party"]
+        C --> D["Urban culture symbolization/gender equality expression"]
+    D --> E["Nyege Nyege Tapes attract international attention"]
+    E --> F["Performed at clubs and festivals around the world"]
 
 </div>
 
@@ -118,7 +115,6 @@ E --> F["Performed at clubs and festivals around the world"]
 - symbol of gender equality
 
 - Bringing African music to the forefront through international dissemination
-
 
 ---
 
@@ -137,9 +133,9 @@ E --> F["Performed at clubs and festivals around the world"]
 <div class="mermaid">
 
 flowchart LR
-Music["Fast Beat + Rap"] --> Dance["Dance Performance"]
-Dance --> Community["Youth culture/solidarity formation"]
-Community --> Festivals["Nyege Nyege Festival etc."]
+    Music["Fast Beat + Rap"] --> Dance["Dance Performance"]
+    Dance --> Community["Youth culture/solidarity formation"]
+    Community --> Festivals["Nyege Nyege Festival etc."]
 
 </div>
 
@@ -155,7 +151,6 @@ More than just a music genre, it is at the forefront of the African music scene,
 
 Akolitronics is a style that recreates Rarakaraka, the traditional music of the Akori people in northern Uganda, using electronic music.
 
-
 ---
 
 #### Musical features
@@ -169,20 +164,18 @@ Akolitronics is a style that recreates Rarakaraka, the traditional music of the 
 | Song structure | Maintaining improvisation, intro/build/break for clubs |
 | Sound | Extend texture with analog synth effects |
 
-
 ---
 
 #### History/Development
 
-
 <div class="mermaid">
 
 flowchart TD
-A["Tradition: Rarakaraka festival music"] --> B["Performed at village festivals and weddings"]
-B --> C["Electronic music fusion in urban areas"]
-C --> D["Featured in Nyege Nyege Tapes"]
-D --> E["Impromptu performance at clubs and festivals"]
-E --> F["International attention and collaboration"]
+    A["Tradition: Rarakaraka festival music"] --> B["Performed at village festivals and weddings"]
+    B --> C["Electronic music fusion in urban areas"]
+    C --> D["Featured in Nyege Nyege Tapes"]
+    D --> E["Impromptu performance at clubs and festivals"]
+    E --> F["International attention and collaboration"]
 
 </div>
 
@@ -196,10 +189,9 @@ E --> F["International attention and collaboration"]
 
 - Promoting African music on the international stage
 
-
 ---
 
-#### Performance and dance
+#### Performance and Dance
 
 - Integration with improvisational dance: In the Rarakaraka tradition, dance is integrated with music, and this improvisational nature is inherited in Acolitronics.
 
@@ -210,9 +202,9 @@ E --> F["International attention and collaboration"]
 <div class="mermaid">
 
 flowchart LR
-Music["Larakaraka + Electronic Music"] --> Dance["Improvisational Dance"]
-Dance --> Community["Culture/Community Formation"]
-Community --> Festivals["Nyege Nyege Festival etc."]
+    Music["Larakaraka + Electronic Music"] --> Dance["Improvisational Dance"]
+    Dance --> Community["Culture/Community Formation"]
+    Community --> Festivals["Nyege Nyege Festival etc."]
 
 </div>
 
@@ -249,11 +241,11 @@ Electro Maloya is an experimental style that recreates the traditional music of 
 <div class="mermaid">
 
 flowchart TD
-A["Tradition: Maloya Music"] --> B["Expressions of life and labor through slave and immigrant culture"]
-B --> C["20th century: Tradition under restrictions"]
-C --> D["2000s: Electronic music fusion begins"]
-D --> E["Performed at clubs and festivals and received international attention"]
-E --> F["Contemporary: Spreading across the global electronic music community"]
+    A["Tradition: Maloya Music"] --> B["Expressions of life and labor through slave and immigrant culture"]
+    B --> C["20th century: Tradition under restrictions"]
+    C --> D["2000s: Electronic music fusion begins"]
+    D --> E["Performed at clubs and festivals and received international attention"]
+    E --> F["Contemporary: Spreading across the global electronic music community"]
 
 </div>
 
@@ -284,9 +276,9 @@ These styles play an important role in how Nyege Nyege Tapes reinterprets Africa
 <div class="mermaid">
 
 flowchart LR
-Music["Maloya + Electronic Music"] --> Dance["Improvisational Dance"]
-Dance --> Community["Culture/Community Formation"]
-Community --> Festivals["Expression at clubs and festivals"]
+    Music["Maloya + Electronic Music"] --> Dance["Improvisational Dance"]
+    Dance --> Community["Culture/Community Formation"]
+    Community --> Festivals["Expression at clubs and festivals"]
 </div>
 
 ---
@@ -307,13 +299,11 @@ It is attracting worldwide attention as a music style that simultaneously carrie
 
 - Attention to African music worldwide through international dissemination
 
-
 ---
-
 
 ### <a id="story"></a>Anecdotes and legends
 
-Nyege Nyege Festival is Africa"s largest electronic music festival, held every year in Jinja, Uganda, and has been held since 2015. The festival is attracting attention as a place to introduce Africa"s underground music scene to the world and to show support for the LGBTQ+ community. However, it faced criticism from conservative religious groups, and in 2018 the Minister of Ethics attempted to cancel the event, but it was continued with the support of the Minister of the Interior. Today, it has become a major event that attracts over 60,000 visitors.
+Nyege Nyege Festival is Africa's largest electronic music festival, held every year in Jinja, Uganda, and has been held since 2015. The festival is attracting attention as a place to introduce Africa's underground music scene to the world and to show support for the LGBTQ+ community. However, it faced criticism from conservative religious groups, and in 2018 the Minister of Ethics attempted to cancel the event, but it was continued with the support of the Minister of the Interior. Today, it has become a major event that attracts over 60,000 visitors.
 
 ---
 
@@ -349,4 +339,5 @@ Below are some recommended YouTube links related to Nyege Nyege:
 
 Nyege Nyege is an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world. The label Nyege Nyege Tapes is at the forefront of promoting the fusion of traditional African music and electronic music, including Shingeli, Akolitronics, Electro Maloya, etc.
 We have established a unique position in the world music scene by simultaneously preserving local culture, expressing urban and youth culture, and disseminating it internationally. Their activities remind us of the importance of not only music, but also cultural diversity and social inclusion. We will continue to keep an eye on their music and activities.
+
 

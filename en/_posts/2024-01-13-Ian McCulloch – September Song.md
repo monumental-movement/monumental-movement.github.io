@@ -22,13 +22,13 @@ McCulloch cites Lou Reed, Iggy Pop, The Doors, Leonard Cohen, and especially Dav
 He describes Cohen's 1968 song "Susan" as "a song with perfect lyrics and a perfect melody", and Bowie as "the greatest solo artist of the 20th century who had a huge influence".
 
 #### Tracklist
-```md
-A. September Song (Long Version)
+"""md
+A.September Song (Long Version)
 
 B1. September Song (Short Version)
 
 B2. Cockles And Mussels
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
 

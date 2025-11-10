@@ -19,7 +19,7 @@ It became popular in the dance music scene of the 1990s and was played in many c
 "What Would We Do" is widely known as a song that has been supported by many listeners for its easy danceability on the dance floor and its unique sound.
 
 #### Tracklist
-```md
+"""md
 A1. What Would We Do (Hurley's House Mix)
 
 A2. What Would We Do (Hurley's Dub Mix)
@@ -28,10 +28,10 @@ A3. What Would We Do (Hurley's Bonus Trax)
 
 B1. What Would We Do (Hurley's Extended Mix)
 
-B2. What Would We Do
+B2. What Would We Do?
 
 B3. Read My Lips
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
 

@@ -17,8 +17,8 @@ A 1978 reissue of the album ""Thus Spoke Zarathustra'' released under the name D
 This album arranges classical pieces into electric jazz, and ""Thus Spoke Zarathustra'' is known as one of the most famous early crossover/fusion songs.
 
 #### Tracklist
-```md
-A1. Also Sprach Zarathustra
+"""md
+A1.Also Sprach Zarathustra
 
 A2. Spirit Of Summer
 
@@ -28,8 +28,8 @@ B1. Baubles, Bangles And Beads
 
 B2. Prelude To Afternoon Of A Faun
 
-B3. September 13
-```
+B3.September 13
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 

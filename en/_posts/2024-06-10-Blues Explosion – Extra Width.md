@@ -20,8 +20,8 @@ The Jon Spencer Blues Explosion was a three-piece rock band from New York that w
 "Extra Width" is their third album released in 1993, and was released in Japan in 1995. Tracks 12 and 13 are bonus tracks only on the Japanese version.
 
 #### Tracklist
-```md
-1. Afro
+"""md
+1.Afro
 2. History Of Lies
 3. Back Slider
 4. Soul Letter
@@ -31,12 +31,12 @@ The Jon Spencer Blues Explosion was a three-piece rock band from New York that w
 8. Big Road
 9. Train # 2
 10. Inside The World Of The Blues Explosion
-11. The World Of Sex
+11.The World Of Sex
 12. Beat Of The Traps
 13. Memphis Soul Typecast
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

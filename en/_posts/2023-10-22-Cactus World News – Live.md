@@ -17,14 +17,14 @@ This album is a live recording of a concert held at The Whiskey in Los Angeles o
 The third song on the B-side, "America," is a cover of a Simon & Garfunkel song.
 
 #### Tracklist
-```md
+"""md
 A1. Church Of The Cold
 
 A2. Years Later
 
-A3. Tables Overturn
+A3.Tables Overturn
 
-A4. The Bridge
+A4.The Bridge
 
 A5. Hurry Back
 
@@ -32,10 +32,10 @@ B1. The Other Extreme
 
 B2. Maybe This Time
 
-B3. America
+B3.America
 
 B4. Jigsaw Street
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 

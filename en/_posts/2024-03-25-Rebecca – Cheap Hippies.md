@@ -18,12 +18,11 @@ title: Rebecca – Cheap Hippies
 The remix is ​​by Francois Kevorkian (Francois K), who has been active in the dance music scene since the late 1970s.
 
 #### Tracklist
-```md
+"""md
 A. Cheap Hippies (Extended Dance Remix)
 
 B. When A Woman Loves A Man (Extended Dance Remix)
-```
-
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51108809980?afid=6142608987){: .button1}
 

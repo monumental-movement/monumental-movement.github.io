@@ -15,13 +15,13 @@ title: Stray Dog – Mirror
 This is an EP by Stray Dog (DJ Tiesto) released by the Dutch label "Black Hole Recordings" in 1999.
 
 #### Tracklist
-```md
+"""md
 A1. Mirror (Signum Remix)
 
 B1. Mirror (HH's Convex Mix)
 
 B2. Mirror (Original Version)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m89381854020?afid=6142608987){: .button1}
 

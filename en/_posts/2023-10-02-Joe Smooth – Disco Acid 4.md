@@ -16,7 +16,7 @@ title: Joe Smooth – Disco Acid 4
 "Disco Acid 4" is an EP by Joe Smooth released in 2003 on the label "Trax Records".
 
 #### Tracklist
-```md
+"""md
 A1. Alternative3
 
 A2. Forever My Love
@@ -24,7 +24,7 @@ A2. Forever My Love
 B1. Faster Than Light
 
 B2. Walking Into Sunshine
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
 

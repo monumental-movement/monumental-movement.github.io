@@ -15,11 +15,11 @@ title: LSG – Netherworld
 "Netherworld" is an EP from the project "LSG" by Oliver Lieb, released in 1997 on the UK label "Hooj Choons".
 
 #### Tracklist
-```md
+"""md
 A. Netherworld (Jules Verne Mix)
 
 B. Netherworld (DJ Randy's Smoke Free Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39575231114?afid=6142608987){: .button1}
 

@@ -17,7 +17,7 @@ This album "Babylon And On" by Squeeze was produced by Eric "ET" Thorngren and G
 The album reached number 14 on the UK Album Chart, the highest ranking for a Squeeze album outside of the Greatest Hits compilation.
 
 #### Tracklist
-```md
+"""md
 A1. Hourglass
 
 A2. Footprints
@@ -38,10 +38,10 @@ B3. Cigarette Of A Single Man
 
 B4. Who Are You?
 
-B5. The Waiting Game
+B5.The Waiting Game
 
 B6. Some Americans
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 

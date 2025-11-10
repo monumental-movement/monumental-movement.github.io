@@ -19,7 +19,7 @@ Recorded live at 12:30 a.m. on Sunday, January 14, 1973 at the Honolulu Internat
 This album is a Japan-specific compilation album that was released in a hurry after the TV special aired.
 
 #### Tracklist
-```md
+"""md
 A1. Introduction: Also Sprach Zarathustra
 
 A2. See See Rider
@@ -40,7 +40,7 @@ B3. Johnny B. Goode
 
 B4. It's Over
 
-B5. Blue Suede Shoes
+B5.Blue Suede Shoes
 
 B6. I'm So Lonesome I Could Cry
 
@@ -50,11 +50,11 @@ B8. Hound Dog
 
 C1. What Now My Love
 
-C2. Fever
+C2.Fever
 
 C3. Welcome To My World
 
-C4. Suspicious Minds
+C4.Suspicious Minds
 
 C5. Introductions By Elvis
 
@@ -62,12 +62,12 @@ D1. I'll Remember You
 
 D2. Medley: Long Tall Sally / Whole Lot-ta Shakin' Goin' On
 
-D3. An American Triology
+D3. An American Trilogy
 
 D4. A Big Hunk O' Love
 
 D5. Can't Help Falling In Love
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 

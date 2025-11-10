@@ -19,25 +19,25 @@ Equipment used: Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 V
 Original version from 1981 by Hideki Matsutake.
 
 #### Tracklist
-```md
-A1. Intro
+"""md
+A1.Intro
 
-A2. Unit
+A2.Unit
 
 A3. Domino Dance
 
-A4. (天変地異) Convulsion Of Nature
+A4. (Convulsion Of Nature)
 
-A5. XY?
+A5.XY?
 
 B1. Talk Back
 
 B2. Clash (Chinjyu Of Sun)
 
-B3. Person To Person
+B3.Person To Person
 
-B4. Logic
-```
+B4.Logic
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
 

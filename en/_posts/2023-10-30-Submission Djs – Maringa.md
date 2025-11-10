@@ -17,11 +17,11 @@ Submission Dj's is a unit of Spanish DJs Juan Maria Diaz Fernandez (Submission D
 Released in 2009 on Tribal Spain Recordings, a sublabel of Spanish label Vendetta Records (house division of Blanco Y Negro Music S.A.).
 
 #### Tracklist
-```md
+"""md
 A1. Maringa (Tribal Mix)
 
 AA1. Maringa (Tech Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m14084306247?afid=6142608987){: .button1}
 

@@ -14,10 +14,10 @@ title: DJ Pierre – We Gonna Funk
 
 This record, released in 1993 by the UK label Solid Pleasure, includes "We Gonna Funk ((Underground Mix)").
 
-Incorporating elements of Nightcrawlers" "Push the Feeling On," this track is a great mix that"s even better than the original.
+Incorporating elements of Nightcrawlers' "Push the Feeling On," this track is a great mix that's even better than the original.
 
 #### Tracklist
-```md
+"""md
 A1. We Gonna Funk (P&C's 9am Ultimate Mix)
 Remix – P&C
 Remix, Producer – Craig Daniel Michael Yefet, Paul Newman
@@ -29,7 +29,7 @@ Remix – P&C
 Remix, Producer – Craig Daniel Michael Yefet, Paul Newman
 
 AA2. We Gonna Funk (Underground Mix) (DJ Master Gola Version)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m36364872632?afid=6142608987){: .button1}
 

@@ -14,50 +14,38 @@ title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
 
 DANCE HALL CRASHERS is an American ska-core band formed in Berkeley, California in 1989.
 
-In 1989, Rancid"s parent band Operation Ivy"s Matt Freeman and Tim Armstrong formed the band as a side project.
+In 1989, Rancid's parent band Operation Ivy's Matt Freeman and Tim Armstrong formed the band as a side project.
 
 This album "THE OLD RECORD (1989-1992)" was released in 1996.
 
 #### Tracklist
-```md
+"""md
 A1. Pick Up Lines
-
 
 A2. Blind Leading The Blind
 
-
-A3. My Problem
-
+A3.My Problem
 
 A4. Time To Ease Up
 
-
 A5. Street Sweeper
-
 
 A6. State Of Mind
 
-
 A7. Keep On Running
-
 
 B1. Java Junkie
 
-
-B2. Old And Gray
-
+B2.Old And Gray
 
 B3. Babushka
 
-
 B4. Truth Hurts
-
 
 B5. Better Than Anything
 
-
 B6. DHC
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 

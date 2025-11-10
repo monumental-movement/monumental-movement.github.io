@@ -16,9 +16,8 @@ Warlords Of Pez is an Irish rock band that seems to have come from a galaxy far,
 
 A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A Thief.
 
-
 #### Tracklist
-```md
+"""md
 1. Warlords Are Shit
 2. Fat Muthafucka From Hell
 3. Monster Voice
@@ -29,16 +28,16 @@ A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A 
 8. Why, Mommy Why?
 9. Polka Seizure Sausage Relapse
 10. Total Sex
-11. O Dracula
-12. Snowman Made Of Shit
+11.O Dracula
+12.Snowman Made Of Shit
 13. Barney Schwarzenegger
 14. Ham & Cheese Music Manifesto
 15. 3 Week Homosexual Architect's Instructional Video Needlework Course To Success
 16. Old Women With Broadband
 17.1. World Control
 17.2. (silence)
-17.3. Untitled
-```
+17.3.Untitled
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
 

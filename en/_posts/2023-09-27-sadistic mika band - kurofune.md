@@ -19,31 +19,31 @@ Featuring Sadistic Mika Band's unique pop melody, it had a great influence on yo
 Sadistic Mika Band's music continues to be loved by many people today, and is regarded as an important presence that colored the early days of Japanese rock.
 
 #### Tracklist
-```md
-1.墨絵の国へ
+"""md
+1. To the land of sumi-e
 
-2.何かが海をやってくる
+2. Something is coming to the sea
 
-3.タイムマシンにおねがい
+3. Ask a time machine
 
-4.黒船(嘉永6年6月2日)
+4. Kurofune (June 2, Kaei 6)
 
-5.黒船(嘉永6年6月3日)
+5. Kurofune (June 3, Kaei 6)
 
-6.黒船(嘉永6年6月4日)
+6. Kurofune (June 4, Kaei 6)
 
-7.よろしくどうぞ
+7.Thank you very much
 
-8.どんたく
+8.Dontaku
 
-9.四季頌歌
+9. Ode to the Four Seasons
 
-10.塀までひとっとび
+10.One step to the fence
 
-11.颱風歌
+11. Wind song
 
-12.さようなら
-```
+12. Goodbye
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
 

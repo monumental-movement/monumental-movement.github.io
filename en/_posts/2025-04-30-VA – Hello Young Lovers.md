@@ -18,16 +18,15 @@ A compilation album released in 1993 by Kenji Takimi's indie label Crue-L Record
 
 Participating artists: Kahimi Kali, Love Tambourines, Favorite Marine, Museum of Plate, Freedom Suite.
 
-
 #### Tracklist
-```md
+"""md
 1. Unknown Artist – Intro
 2. Kahimi Karie – Take It Easy My Brother Charly
 3. Love Tambourines – Never Can Say Goodbye
-4. Favourite Marine Featuring Wack Wack Horns – It's A Lonesome Road
+4. Favorite Marine Featuring Wack Wack Horns – It"s A Lonesome Road
 5. Museum Of Plate – Love
-6. Freedom Suite – hy Can't We Be Lovers
-```
+6. Freedom Suite – hy Can"t We Be Lovers
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68606715160?afid=6142608987){: .button1}
 

@@ -17,7 +17,7 @@ A Flock Of Seagulls is a new wave, synthpop, new romantic band founded in Liverp
 "Listen", released in 1983, is A Flock Of Seagulls' second studio album.
 
 #### Tracklist
-```md
+"""md
 A1. Wishing (If I Had A Photograph Of You)
 
 A2. Nightmares
@@ -28,16 +28,16 @@ A4. What Am I Supposed To Do
 
 B1. Electrics
 
-B2. The Traveller
+B2.The Traveler
 
 B3. 2:30
 
 B4. Over The Border
 
-B5. The Fall
+B5.The Fall
 
 B6. (It's Not Me) Talking
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 

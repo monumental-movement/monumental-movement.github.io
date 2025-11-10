@@ -12,21 +12,21 @@ title: Dub War – Wrong Side Of Beautiful
 ---
 
 
-Dub War is a mixture band active in the 1990s that mixes various music styles such as heavy metal, reggae, punk, and dub. The band"s unique style, which combines a powerful rock sound and catchy melody with reggae rhythms and punk elements, and vocalist Benji Webbe"s distinctive singing voice and expressiveness made a strong impression on the band's music.
+Dub War is a mixture band active in the 1990s that mixes various music styles such as heavy metal, reggae, punk, and dub. The band's unique style, which combines a powerful rock sound and catchy melody with reggae rhythms and punk elements, and vocalist Benji Webbe's distinctive singing voice and expressiveness made a strong impression on the band's music.
 
-Wrong Side Of Beautiful is Dub War"s second album and is considered one of the band"s most widely recognized works.
+Wrong Side Of Beautiful is Dub War's second album and is considered one of the band's most widely recognized works.
 
 #### Tracklist
-```md
-A1. Control
+"""md
+A1.Control
 
 A2. Armchair Thriller
 
 A3. Greedee
 
-A4. Bassballbat
+A4. Bassball bat
 
-A5. One Chill
+A5.One Chill
 
 A6. Enemy Maker
 
@@ -38,14 +38,14 @@ B2. Cry Dignity
 
 B3. Can't Stop
 
-B4. Prisoner
+B4.Prisoner
 
 B5. Love Is
 
-B6. Mission
+B6.Mission
 
 B7. Universal Jam
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m79906775059?afid=6142608987){: .button1}
 

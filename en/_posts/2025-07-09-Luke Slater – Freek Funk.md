@@ -20,24 +20,24 @@ Luke Slater is a British electronic musician, DJ, and record producer who has be
 In 2017, Mixmag named it the fifth greatest techno album of the 1990s.
 
 #### Tracklist
-```md
-1. Purely
-2. Score One
-3. Origin
-4. Score Two
+"""md
+1.Purely
+2.Score One
+3.Origin
+4.Score Two
 5. Are You There?
 6. Score Three (Message From Hulal)
 7. Engine One
 8. Freek Funk
 9. Zebediah
-10. Bless Bless
+10.Bless Bless
 11. Filter 2
 12. Time Dancer
 13. Score Four (Black Cloud Over Zin Vortex)
-14. Love
+14.Love
 15. Black Cloud (Epilogue)
 16. Walking The Line
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 

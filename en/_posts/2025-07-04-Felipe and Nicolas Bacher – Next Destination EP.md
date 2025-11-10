@@ -18,14 +18,14 @@ Felipe (Philipp Straub) & Nicolas Bacher (DJ Dexter) are an Austrian DJ and prod
 Mastering is Ø (Phase).
 
 #### Tracklist
-```md
-Dis Side
-A. Rio Grande
+"""md
+This side
+A.Rio Grande
 
 Dat Side
 B1. Puerto Vallarta
 B2. Maurice Island
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
 

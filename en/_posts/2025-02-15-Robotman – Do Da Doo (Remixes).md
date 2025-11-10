@@ -35,12 +35,12 @@ Remixed by Johnny Acquaviva, it incorporates disco elements while retaining the 
 Based on its discography, music reviews, and sales information, the album is highly regarded among techno fans and collectors, and the Plastikman remix in particular is known for its innovation.
 
 #### Tracklist
-```md
+"""md
 1. Do Da Doo (Plastikman's Acid House Remix)
 2. Do Da Doo (Exploding Plastic Mix)
 3. Do Da Doo (David Holmes' Remix)
 4. Do Da Doo (Detroit Groove Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
 

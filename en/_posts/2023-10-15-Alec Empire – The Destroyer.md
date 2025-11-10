@@ -15,10 +15,10 @@ title: Alec Empire – The Destroyer
 Alec Empire is a German experimental electronic musician and founding member of the band Atari Teenage Riot.
 
 #### Tracklist
-```md
-A1. Untitled
+"""md
+A1.Untitled
 A2. We All Die!
-A3. Suicide
+A3.Suicide
 A4. Bang Your Head!
 
 B1. Don't Lie, White Girl!
@@ -28,14 +28,14 @@ B4. + Bonus Beats
 
 C1. Nobody Get's Out Alive!
 C2. My Body Cannot Die
-C3. The Peak
+C3.The Peak
 C4. Heartbeat That Isn't There
 
 D1. I Don't Care What Happens
 D2. My Face Would Crack
 D3. Pleasure Is Our Business (Live!)
-D4. Untitled
-```
+D4.Untitled
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
 

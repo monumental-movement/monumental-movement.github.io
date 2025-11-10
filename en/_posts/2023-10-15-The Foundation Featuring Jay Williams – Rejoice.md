@@ -15,7 +15,7 @@ title: The Foundation Featuring Jay Williams – Rejoice
 A house track by Dominican-American house DJ/remixer/producer Roger Sanchez, also known as The Foundation, released by New York house label One Records in 1993.
 
 #### Tracklist
-```md
+"""md
 A1. Rejoice (Strobelight Mix)
 
 A2. Rejoice (Timbale Song Mix)
@@ -25,7 +25,7 @@ B1. Rejoice (Uplifting Mix)
 B2. Rejoice (Roger's Hard Dub)
 
 B3. Rejoice (Churchapella)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
 

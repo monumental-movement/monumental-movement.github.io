@@ -21,7 +21,7 @@ Aphrohead is the alias of second-generation Chicago house legend Felix Da Housec
 The first track on side A and side B are remixes by UK electronic dance music DJ and producer Dave Clarke, known as the "Techno Baron" (named by John Peel).
 
 #### Tracklist
-```md
+"""md
 Logo Side
 
 A1. In The Dark We Live (Dave Clarks 312 Mix)

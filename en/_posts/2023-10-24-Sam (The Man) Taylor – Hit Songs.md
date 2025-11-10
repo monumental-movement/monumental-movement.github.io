@@ -16,37 +16,36 @@ title: Sam (The Man) Taylor – Hit Songs
 "Sam (The Man) Taylor - Sam Taylor at 25" is a collection of cable hits, released in 1970.
 
 #### Tracklist
-```md
-A1. 恋ひとすじ – 森進一
+"""md
+A1. Koi Hitosuji – Shinichi Mori
 
-A2. 逢わずに愛して – 内山田洋とクールファイブ
+A2. Love without meeting – Hiroshi Uchiyamada and Cool Five
 
-A3. 国際線待合室 – 青江三奈
+A3. International Waiting Room – Mina Aoe
 
-A4. いいじゃないの幸せなら – 佐良直美
+A4. It"s okay if you"re happy – Naomi Sara
 
-A5. 夜の柳ヶ瀬 – カサノヴァ７
+A5. Yanagase at night – Casanova 7
 
-A6. ひとり寝の子守唄 – 加藤登紀子
+A6. Lullaby for sleeping alone – Tokiko Kato
 
-A7. 長崎は今日も雨だった – 内山田洋とクール・ファイブ
+A7. It was raining in Nagasaki today too – Hiroshi Uchiyamada and Cool Five
 
-B1. 新宿の女 – 藤圭子
+B1. Shinjuku Woman – Keiko Fuji
 
-B2. 夜と朝のあいだに – ピーター
+B2. Between Night and Morning – Peter
 
-B3. 花と涙 – 森進一
+B3. Flowers and Tears – Shinichi Mori
 
-B4. 年上の女 – 年上の女
+B4. Older woman – Older woman
 
-B5. 思案橋ブルース – 中井昭・高橋勝とコロラティーノ
+B5. Shianbashi Blues – Akira Nakai, Masaru Takahashi and Coloratino
 
-B6. 花と蝶 – 森進一
+B6. Flowers and Butterflies – Shinichi Mori
 
-B7. 港町ブルース – 森進一
-```
+B7. Port Town Blues – Shinichi Mori
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
-
 
 

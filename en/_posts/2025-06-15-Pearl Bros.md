@@ -21,12 +21,12 @@ The members are Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, Ts
 "Tetsu Kabuto no Onna" is the Pearl Brothers' first single released by Polydor Records in 1986. The jacket illustration is by Kotobuki Shiriagari. The producer is Toru Okada.
 
 #### Tracklist
-```md
-A. 鉄カブトの女
+"""md
+A. The woman with the iron helmet
 
-B1. バカヤロウは愛の言葉 (ディスコ・タイプ)
-B2. ◯。◯◯◯娘 (サエキ用カラオケ)
-```
+B1. Bakayarou is a language of love (disco type)
+B2. ◯. ◯◯◯ Daughter (Karaoke for Saeki)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 

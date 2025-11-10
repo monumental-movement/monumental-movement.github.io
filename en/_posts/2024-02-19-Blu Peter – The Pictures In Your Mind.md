@@ -17,13 +17,13 @@ Peter Harris, also known as Blu Peter, is a British electronic dance music produ
 "The Pictures In Your Mind" is a Trance track released on the UK label React in 1996. It is one of the most representative songs of the UK trance scene in the mid-90s, and the B1 remix by Kadoc is still considered a classic.
 
 #### Tracklist
-```md
+"""md
 A. The Pictures In Your Mind
 
 B1. The Pictures In Your Mind (Kadoc Mix)
 
 B2. The Pictures In Your Mind (Arabesque Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87796937461?afid=6142608987){: .button1}
 

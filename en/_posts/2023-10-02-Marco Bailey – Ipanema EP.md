@@ -16,17 +16,16 @@ title: Marco Bailey – Ipanema EP
 
 The source of the vocal sample is "Mamborama - Cuba Te Llama".
 
-
 #### Tracklist
-```md
+"""md
 A1. Ipanema (Original Mix)
 
 A2. Ipanema (Redhead Remix)
 
 B1. Edge Level
 
-B2. Shinjuku-ku
-```
+B2.
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m36780837702?afid=6142608987){: .button1}
 

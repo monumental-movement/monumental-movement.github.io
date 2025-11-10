@@ -16,17 +16,16 @@ title: Armand Van Helden – I Want Your Soul
 
 "I Want Your Soul" features Armand Van Helden's signature beatmaking and sampling techniques, catchy rhythms, French beats, and haunting vocal samples.
 
-
 #### Tracklist
-```md
-A1  I Want Your Soul (Original)
+"""md
+A1 I Want Your Soul (Original)
 
-A2  I Want Your Soul (Crookers Remix)
+A2 I Want Your Soul (Crookers Remix)
 
-B1  I Want Your Soul (Dusty Kid Suga Dub)
+B1 I Want Your Soul (Dusty Kid Suga Dub)
 
-B2  I Want Your Soul (Fake Blood Remix)
-```
+B2 I Want Your Soul (Fake Blood Remix)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70846990224?afid=6142608987){: .button1}
 

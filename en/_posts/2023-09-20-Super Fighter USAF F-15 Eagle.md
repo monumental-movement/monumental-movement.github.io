@@ -14,22 +14,22 @@ title: Super Fighter USAF F-15 Eagle
 Super Fighter USAF F-15 Eagle
 
 #### Tracklist
-```md
-A1  プロローグ
+"""md
+A1 Prologue
 
-A2  朝焼けのエンジン・スタート
+A2 Engine start at sunrise
 
-A3  タクシング （滑走路に向って）
+A3 taxiing (toward the runway)
 
-A4  離陸1 （録音ポイント1）
+A4 Takeoff 1 (Recording point 1)
 
-B1  離陸2 （録音ポイント3）
+B1 Takeoff 2 (Recording point 3)
 
-B2  離陸3 （録音ポイント2）
+B2 Takeoff 3 (Recording point 2)
 
-B3  空中戦訓練中の無線交信 （コクピットにて）
+B3 Radio communication during air combat training (in the cockpit)
 
-B4  夕暮れの着陸
-```
+B4 Dusk landing
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

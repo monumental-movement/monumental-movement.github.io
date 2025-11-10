@@ -18,12 +18,12 @@ Lula (Claudia Radbauer) is a progressive house/house/minimal producer from Austr
 "Man = Drug" is a Hard House/Tribal House song released by the label Star 69 Records in 1999. The producer is Peter Rauhofer.
 
 #### Tracklist
-```md
+"""md
 A. Man = Drug (Toxic Mix)
 
 B1. Man = Drug (Friburn & Urik Remix)
 B2. Man = Drug (Lulapella)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m42486910464?afid=6142608987){: .button1}
 

@@ -24,7 +24,7 @@ Released: 1998
 A 4-track EP released by Cloned - Vinyl in the UK. "Brutal – City" and "Risk – Rumblin"" on the A side, "Steadycam" and "Neon" on the B side.
 
 #### Tracklist
-```md
+"""md
 A1. Brutal City
 
 A2. Risk Rumblin'
@@ -32,15 +32,12 @@ A2. Risk Rumblin'
 B1. Steadycam
 
 B2. Neon
-```
-
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
-
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-
 
 <hr>
 
@@ -52,15 +49,15 @@ Released: 1997
 UK electro/techno work by Sean Booth & Rob Brown. A CD featuring experimental rhythms and soundscapes
 
 #### Tracklist
-```md
+"""md
 1. Goz Quarter
 
-2. Latent Quarter
+2.Latent Quarter
 
-3. Laughing Quarter
+3.Laughing Quarter
 
 4. Draun Quarter
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
@@ -68,30 +65,29 @@ UK electro/techno work by Sean Booth & Rob Brown. A CD featuring experimental rh
 
 <hr>
 
-
 ### Luke Slater – Freek - Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
 Released: 1997
 
-UK techno & electronica. Released by NovaMute. Mixmag"s top 5 albums of the 90"s
+UK techno & electronica. Released by NovaMute. Mixmag's top 5 albums of the 90's
 
 #### Tracklist
-```md
-1. Purely
-2. Score One
-3. Origin
-4. Score Two
+"""md
+1.Purely
+2.Score One
+3.Origin
+4.Score Two
 5. Are You There?
 6. Score Three (Message From Hulal)
 7. Engine One
 8. Freek Funk
 9. Zebediah
-10. Bless Bless
+10.Bless Bless
 11. Filter 2
 12. Time Dancer
 13. Score Four (Black Cloud Over Zin Vortex)
-14. Love
+14.Love
 15. Black Cloud (Epilogue)
 16. Walking The Line
 
@@ -111,8 +107,8 @@ Released: 1995 (original), remix version released in 2006
 Acid techno remix by UK duo Jon Nuccle/Mike Humphries
 
 #### Tracklist
-```md
-A.  Acid War (Liberator DJs RMX)
+"""md
+A. Acid War (Liberator DJs RMX)
 
 ```
 
@@ -130,17 +126,17 @@ Released: 1996
 Surgeon's first album from Downwards (UK). Released with support from Regis/Female
 
 #### Tracklist
-```md
+"""md
 A. Syllable
 
-B1. Cable
-B2. Wire
+B1.Cable
+B2.Wire
 
-C. Wave
+C.Wave
 
-D1. Particle
+D1.Particle
 D2. Optic
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
@@ -155,15 +151,14 @@ Released: 1999
 
 Intense techno track under the name Surgeon
 
-
 #### Tracklist
-```md
-A1. Untitled
-A2. Untitled
+"""md
+A1.Untitled
+A2.Untitled
 
-B1. Untitled
-B2. Untitled
-```
+B1.Untitled
+B2.Untitled
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
@@ -177,11 +172,11 @@ B2. Untitled
 Released: 1992 Hardcore techno by UK techno unit
 
 #### Tracklist
-```md
+"""md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
@@ -193,57 +188,57 @@ B. The House Is Mine '92 (Westbam Remix)
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist/Title</th>
-<th>era</th>
-<th>Format</th>
-<th>Features</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
-<td>1998</td>
-<td>12"</td>
-<td>UK club techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
-<td>1997</td>
-<td>CD</td>
-<td>Experimental electro/techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
-<td>1997</td>
-<td>CD</td>
-<td>UK techno on the border with electronica</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
-<td>1995</td>
-<td>12"</td>
-<td>UK Acid Techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
-<td>1996</td>
-<td>LP</td>
-<td>Rough UK underground techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
-<td>1999</td>
-<td>12"</td>
-<td>Minimal ~ underground UK techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine "92</em></a></td>
-<td>1992</td>
-<td>12"</td>
-<td>Hardcore techno for UK dancefloors</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Artist/Title</th>
+      <th>era</th>
+      <th>Format</th>
+      <th>Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
+      <td>1998</td>
+      <td>12"</td>
+      <td>UK club techno</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
+      <td>1997</td>
+      <td>CD</td>
+      <td>Experimental electro/techno</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
+      <td>1997</td>
+      <td>CD</td>
+      <td>UK techno on the border with electronica</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
+      <td>1995</td>
+      <td>12"</td>
+      <td>UK Acid Techno</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
+      <td>1996</td>
+      <td>LP</td>
+      <td>Rough UK underground techno</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
+      <td>1999</td>
+      <td>12"</td>
+      <td>Minimal ~ underground UK techno</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine "92</em></a></td>
+      <td>1992</td>
+      <td>12"</td>
+      <td>Hardcore techno for UK dancefloors</td>
+    </tr>
+  </tbody>
 </table>
 </div>

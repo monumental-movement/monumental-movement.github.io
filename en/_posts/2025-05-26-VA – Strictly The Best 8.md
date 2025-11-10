@@ -17,7 +17,7 @@ title: VA – Strictly The Best 8
 A compilation album released in 1992 by VP Records, the world's largest independent reggae label based in the United States.
 
 #### Tracklist
-```md
+"""md
 A1. Wayne Wade - I Love You Too Much
 A2. Beres Hammond - Double Trouble
 A3. Marcia Griffiths - Closer To You
@@ -33,7 +33,7 @@ B4. Beres Hammond - Full Attention
 B5. Singing Sweet - When I See You Smile
 B6. Garnet Silk - Place In Your Heart
 B7. Igina & Junior Rodigan - Get Here (If You Can)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
 

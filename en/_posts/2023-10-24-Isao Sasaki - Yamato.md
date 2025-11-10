@@ -22,11 +22,11 @@ Composition/Arrangement - Yasushi Miyagawa
 Song - Isao Sasaki
 
 #### Tracklist
-```md
-A. 好敵手
+"""md
+A. Good opponent
 
-B. テレサよ永遠に
-```
+B. Forever Teresa
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
 

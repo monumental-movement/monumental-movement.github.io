@@ -16,11 +16,11 @@ DJ Scot Project (Frank Zenker) is a German DJ/producer who has been successful i
 "DJ Scot Project – O" is one of his masterpieces and is known as an anthem for ravers in the 2000s.
 
 #### Tracklist
-```md
-A1. O
+"""md
+A1.O
 
 B1. O (Arome Rmx)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47285471992?afid=6142608987){: .button1}
 

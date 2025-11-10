@@ -20,13 +20,12 @@ B's "Lush" is a remix by EDM DJ/producer Francis Prève and Cochise (Jeremy Ball
 
 A Techno track released in 1993 on the dance music label FFRR Records.
 
-
 #### Tracklist
-```md
-A. Impact USA
+"""md
+A.Impact USA
 
-B. Lush (1926 Trancendance Mix)
-```
+B. Lush (1926 Transcendance Mix)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
 

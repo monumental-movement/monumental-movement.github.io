@@ -19,13 +19,13 @@ Production-wise, Jaimy & Kenny D primarily released music on Black Hole Recordin
 In 2004, Jaimy took the independent route and founded his own label, Fatal Music. A year later, he also founded Drum Mode.
 
 #### Tracklist
-```md
+"""md
 A1. Lost Inside
 
 B1. No Way Out
 
 B2. Blow Your Mind
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
 

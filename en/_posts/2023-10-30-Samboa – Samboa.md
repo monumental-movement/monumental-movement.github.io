@@ -15,14 +15,14 @@ title: Sambôa – Sambôa
 This album is a reissue of Brazilian jazz duo Sambôa's second album ""Samboa'' released in 1983.
 
 #### Tracklist
-```md
-A1. Ze Bede
+"""md
+A1.
 
-A2. A Carta
+A2.A Carta
 
 A3. Meu Querer
 
-A4. O Xote Do Bobo
+A4.
 
 A5. Longe Da Cidade
 
@@ -35,7 +35,7 @@ B3. Voltar
 B4. Aurora
 
 B5. Mane Cangaia
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50258668911?afid=6142608987){: .button1}
 

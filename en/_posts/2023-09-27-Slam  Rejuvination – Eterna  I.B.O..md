@@ -15,13 +15,12 @@ title: Slam Rejuvination – Eterna I.B.O.
 by Slam Rejuvination
 "I.B.O." is a great track. Eterna and its covers have been known for years and are good songs, but "I.B.O." is a special track.
 
-
 #### Tracklist
-```md
+"""md
 A. Slam–Eterna
 
 AA. Rejuvination–I.B.O.
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
 

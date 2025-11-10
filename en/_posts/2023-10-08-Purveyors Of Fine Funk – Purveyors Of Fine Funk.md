@@ -19,8 +19,8 @@ It features elements such as funky rhythms, slap bass, and a brass section. The 
 This work has been praised for its fusion of funk music tradition and modern elements. While respecting the roots of funk, they create new appeal with their unique artistic approach.
 
 #### Tracklist
-```md
-A1. Suspended
+"""md
+A1.Suspended
 
 A2. Escándolo Electrónico
 
@@ -37,7 +37,7 @@ D1. Warm
 D2. Telepathos Communicator
 
 D3. The After Midnight Call
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 

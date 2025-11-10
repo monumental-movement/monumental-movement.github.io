@@ -22,11 +22,11 @@ Kosuke Anamizu is an electronic music sound designer and composer from Japan.
 This record is a compilation released in 2004 by the prestigious German label Traum Schallplatten.
 
 #### Tracklist
-```md
+"""md
 A. Process – Boll (Extended Version)
 
 B. Kosuke Anamizu – Moopy
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99751272225?afid=6142608987){: .button1}
 

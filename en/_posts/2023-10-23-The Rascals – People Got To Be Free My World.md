@@ -17,11 +17,11 @@ The Rascals are a blue-eyed soul band formed in New York in 1964. They released 
 
 The band also influenced Japanese musicians such as Shogo Hamada and Tatsuro Yamashita.
 #### Tracklist
-```md
-A. People Got To Be Free
+"""md
+A.People Got To Be Free
 
-B. My World
-```
+B.My World
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47977727974?afid=6142608987){: .button1}
 

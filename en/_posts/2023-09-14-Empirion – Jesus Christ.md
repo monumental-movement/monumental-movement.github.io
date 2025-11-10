@@ -20,18 +20,15 @@ They started their career in Essex in 1993 as a British industrial techno band.
 A must-have for fans of 90's techno acid, this is a 10-inch two-disc set.
 
 #### Tracklist
-```md
+"""md
 A. Jesus Christ
-
 
 B. Jesus Christ
 
-
 C. Quark (Remix)
 
-
-D. New Religion
-```
+D.New Religion
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m51146991051?afid=6142608987){: .button1}
 

@@ -15,10 +15,7 @@ title: '[Column] Acid Jazz: A fusion of sounds created by club culture and urban
 
 ## What is Acid Jazz?
 
-
 Text: mmr｜Theme: Social and geopolitical background behind Acid Jazz
-
-
 
 <hr>
 
@@ -26,10 +23,9 @@ Text: mmr｜Theme: Social and geopolitical background behind Acid Jazz
 
 Acid Jazz is a musical movement that originated in London in the late 1980s, and is characterized by a crossover sound that mixes jazz, funk, soul, hip-hop, Latin, and rare groove. The origin of the name goes back to the label ""Acid Jazz Records'' founded by DJ [Gilles Peterson] (https://amzn.to/3KOnzMr) and record producer [Eddie Piller] (https://amzn.to/4hdwdAb).
 
-In the club scene of the 1980s, there was a growing movement to reevaluate black music in response to the enthusiasm for acid house and hip-hop. Acid jazz emerged as ""danceable jazz" and ""soulful music suitable for clubs."
+In the club scene of the 1980s, there was a growing movement to reevaluate black music in response to the enthusiasm for acid house and hip-hop. Acid jazz emerged as ""danceable jazz'' and ""soulful music suitable for clubs.''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 <hr>
 
@@ -49,7 +45,6 @@ Acid jazz tends to refer to a ""hybrid feeling'' rather than a single genre. Cha
 
 As a result, acid jazz established a new style of ""intellectual and danceable music.''
 
-
 <hr>
 
 ### British social background
@@ -62,13 +57,11 @@ In the 1980s, Britain was in an environment of widening economic disparity under
 
 - **Media Influence**: BBC Radio and Pirate Radio introduced Acid Jazz, leading to its spread from the underground to the mainstream.
 
-
 <hr>
 
 ### Geopolitical context of surrounding countries
 
 The spread of Acid Jazz was also closely related to geopolitics in Europe, the United States, and Asia.
-
 
 <hr>
 
@@ -96,11 +89,9 @@ The spread of Acid Jazz was also closely related to geopolitics in Europe, the U
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 <hr>
 
 ### International expansion
-
 
 <hr>
 
@@ -108,11 +99,10 @@ The spread of Acid Jazz was also closely related to geopolitics in Europe, the U
 
 Acid Jazz was perceived as a "reimport." In the United States, the original 70's jazz funk and soul existed, so the label ""Acid Jazz'' from the UK seemed fresh and was adopted by the club scenes of New York and Chicago.
 
-And, like [Deee-Lite](https://amzn.to/3W7JKj0), it expands while linking with hip-hop.
+And like [Deee-Lite](https://amzn.to/3W7JKj0), it expands while linking with hip-hop.
 On the other hand, the connection with hip-hop was emphasized, and it served as a bridge to jazz-hip-hop such as [A Tribe Called Quest](https://amzn.to/4n1XXZO) and [Gang Starr](https://amzn.to/46QAJBa).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 <hr>
 
@@ -136,9 +126,6 @@ In Japan, United Future Organization (UFO) in particular received worldwide accl
 
 - **Italy/Spain**: Linked with tourism, Acid Jazz is established in resort culture and club scene. Particularly in Ibiza, it was mixed with house and Balearic.
 
-
-
-
 <hr>
 
 ### Geopolitical expansion and post-Cold War culture
@@ -148,8 +135,6 @@ The expansion of Acid Jazz mainly in Europe was also influenced by post-Cold War
 The end of the Cold War in the 1990s → Club culture was liberated in Eastern Europe and the former Soviet Union, and music that combined jazz, funk, and electronics was welcomed.
 
 Globalization → Immigrant culture centered in London spread musically through the "world city" network.
-
-
 
 <hr>
 
@@ -162,8 +147,6 @@ Acid jazz was more than just a music genre; it was a symbol of club and urban cu
 - **Fashion**: A mix of mods, suits, and urban streetwear, with a stylish, urban aesthetic.
 
 - **Geopolitical context**: Britain's multicultural society (Caribbean immigrants, African diaspora, and Asian communities) has created cross-culture in London. Acid jazz can be said to be the epitome of this.
-
-
 
 <hr>
 

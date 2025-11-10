@@ -21,23 +21,23 @@ A global multinational music ensemble that is characterized by a fusion style th
 *) All compositions except A3,5&B5 are by Matthew Montfort
 
 #### Tracklist
-```md
+"""md
 A1. Hummingbird
 A2. Frogorian Trance
-A3. Frogorian Dance（作曲 Ancient Future）
+A3. Frogorian Dance (composed by Ancient Future)
 A4. Frog Orient Chance
-A5. Waves（作曲 Mindy Klein）
+A5. Waves (composed by Mindy Klein)
 
-B1. Magic Rain
-B2. Fading Dream
+B1.Magic Rain
+B2.Fading Dream
 B3. Valley Of The Moon
-B4. Somaloka
-B5. Eleventh Heaven（作曲 Benjy Wertheimer）
-```
+B4.
+B5. Eleventh Heaven (composed by Benjy Wertheimer)
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m87379215136?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWtGGKWfvu0?si=lWkGFQTN8gtNMAg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g4czK9AZIag?si=G3w0nKa6R_qwsriL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

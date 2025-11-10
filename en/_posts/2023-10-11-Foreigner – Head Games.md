@@ -14,10 +14,10 @@ title: Foreigner – Head Games
 
 Foreigner is a British-American rock band formed in New York City and London in 1976 by British musicians Mick Jones and Ian McDonald and American vocalist Lou Gramm.
 
-"Head Games" is Foreigner"s third album, and is also known as the band"s signature sound.
+"Head Games" is Foreigner's third album, and is also known as the band's signature sound.
 
 #### Tracklist
-```md
+"""md
 A1. Dirty White Boy
 
 A2. Love On The Telephone
@@ -30,14 +30,14 @@ A5. Seventeen
 
 B1. Head Games
 
-B2. The Modern Day
+B2.The Modern Day
 
 B3. Blinded By Science
 
 B4. Do What You Like
 
 B5. Rev On The Red Line
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 

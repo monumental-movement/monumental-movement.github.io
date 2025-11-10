@@ -13,12 +13,11 @@ title: '[Column] Habib Koité & Bamada and the musical and cultural background o
 ---
 
 
-## Habib Koité & Bamada - "Quiet revolution" played by Malian strings
+## Habib Koité & Bamada ― マリの弦が奏でる“静かな革命”
 
+文：mmr｜テーマ：Habib Koité & Bamadaの音楽的分析・歴史的文脈・アフリカン・アイデンティティの継承・グローバル化の中での役割を包括
 
-Text: mmr｜Theme: Comprehensive musical analysis of Habib Koité & Bamada, historical context, inheritance of African identity, and role in globalization
-
-> West African tradition and postcolonial reconstruction: "Redefining Mali music" led by Habib Koité
+> 西アフリカの伝統とポスト・コロニアルの再構築：Habib Koitéが導いた“マリ音楽の再定義”
 
 ---
 
@@ -35,115 +34,114 @@ color: #fff;
 }
 </style>
 
+## イントロダクション：
 
-## Introduction:
+20世紀末、アフリカ大陸の音楽は新しい形で世界へと浸透していった。ナイジェリアのフェラ・クティが“政治的アフロビート”を掲げたのに対し、マリ共和国出身の**Habib Koité（ハビブ・コイテ）**は、もっと静かなやり方で革命を起こした。
+──ギター一本で、マリの伝統弦楽器“カマレンゴニ”の音を再現し、バンド「**Bamada**」と共に“国境なきマリ音楽”を創出したのだ。
 
-At the end of the 20th century, music from the African continent began to permeate the world in new forms. While Nigeria"s Fela Kuti championed "political Afrobeat," Mali"s Habib Koité started a revolution in a quieter way.
-──With a single guitar, he recreated the sound of Mali's traditional stringed instrument ""Kamalengoni" and created ""Mali music without borders" with the band **Bamada**.
-
-His music doesn't talk politics. However, within that tranquility lies the **ethnic dignity and cultural continuity**. Koité was a "translator of African aesthetics" in the age of global music.
-
----
-
-## Chapter 1: The musical universe of Mali
-
-The Republic of Mali is a landlocked country located in West Africa. In the geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage dating back to the Mali Empire in the 13th century.
-The music of this land has been inherited by griots = traditional storytellers/musicians. Their role is not just as performers, but as **keepers of national memory**.
-
-Bambara, Songhai, Tuareg, Peul, Dogon... Each ethnic group has its own musical instrument and melody system, and the rhythms are intertwined in multiple layers.
-This diversity is the "fundamental polyphony" of Malian music, and Koité has repositioned the "guitar" at its center.
+彼の音楽は政治を語らない。しかしその静謐さの中に、**民族の尊厳と文化の連続性**がある。Koitéは、グローバル・ミュージックの時代における“アフリカ的美学の翻訳者”であった。
 
 ---
 
-## Chapter 2: Origin and formative years of Habib Koite
+## 第1章：マリという音楽的宇宙
 
-Habib Koité was born in Kayazi, Mali in 1958. Her grandmother was part of Geri's family, and she grew up surrounded by music and stories from an early age.
-As a young man, he studied at the **National Institute of Arts (INA)** in Bamako, where he mastered both classical guitar and folk music theory.
-After graduating, he began to innovate his guitar playing style.
+マリ共和国は、西アフリカに位置する内陸国。サハラ砂漠とニジェール川が交錯する地理の中に、**13世紀のマリ帝国**以来の豊かな文化遺産が息づく。
+この土地の音楽は、**ジェリ（griot）＝伝統的語り部／音楽家**たちによって継承されてきた。彼らの役割は単なる演奏家ではなく、**民族の記憶の保持者**である。
 
-Koité devised a unique playing technique in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tone of the kamarengoni.
-The sound produced by this guitar rejects European tuning and leans closer to African rhythms. It was like the sound of **the desert wind and the flow of the Niger River**.
-
----
-
-## Chapter 3: Formation of Bamada - A dialogue between the heartbeat of the city and tradition
-
-In 1988, Koité formed his own band **Bamada**.
-Bamada is slang for the capital city of Bamako and means "people of Bamako". The band name itself symbolizes **a bridge between city and folklore**.
-
-Bamada's sound combines a Western band format (guitar, bass, drums, percussion) with traditional African instruments such as balafon and camalengoni.
-Koité asked the members to "bring different ethnic rhythms to the table," **translating the diversity within Mali into an ensemble**.
+Bambara、Songhai、Tuareg、Peul、Dogon……。民族ごとに楽器と旋律の体系があり、リズムは多層的に絡み合う。
+この多様性こそが、マリ音楽の「根源的ポリフォニー」であり、Koitéはその中心に“ギター”を据え直した。
 
 ---
 
-## Chapter 4: Early works and international breakthroughs
+## 第2章：ハビブ・コイテの出自と形成期
 
-His 1991 debut work ""Muso Ko**'' quietly garnered acclaim both in Mali and abroad.
-However, the decisive turning point was the 1998 album ""**Ma Ya**''.
-With this work, Koité accomplishes the "folkification" of African music. Excessive percussion and electronic sounds were eliminated to emphasize the organic relationship between guitar and voice.
+Habib Koitéは1958年、マリのカヤズィに生まれた。祖母はジェリの家系に属し、幼い頃から音楽と物語の中で育った。
+青年期、バマコの**国立芸術研究所（INA）**で学び、クラシック・ギターと民族音楽理論の双方を習得。
+卒業後、彼はギター奏法の革新に着手する。
 
-> "When you listen to Habib, you hear Africa with no clichés."
-> — Bonnie Raitt (US singer Koité fan)
-
-After receiving critical acclaim at world music festivals in Europe and the United States, performing with Ry Cooder and Bonnie Raitt, and participating in the ""Putumayo Presents Africa'' series, Koité established an international position as the voice of Africa.
+Koitéは弦を“指ではなく爪で引く”独特の奏法を編み出し、カマレンゴニの繊細な音色を再現した。
+このギターから生まれる音は、ヨーロッパのチューニングを拒み、アフリカ的リズムに寄り添う。まるで、**砂漠の風とニジェール川の流れが同居するようなサウンド**だった。
 
 ---
 
-## Chapter 5: Mali's guitar language
+## 第3章：Bamada結成 ― 都市の鼓動と伝統の対話
 
-Koité's guitar is not just an accompaniment, but a ""narrative''.
-His playing style has three characteristics:
+1988年、Koitéは自身のバンド「**Bamada**」を結成する。
+バマダ（Bamada）は首都バマコのスラングで「バマコの人々」という意味。バンド名自体が、**都市と民俗の橋渡し**を象徴している。
 
-- 1. **Diversity in tuning**: Change the tuning according to the scale of each ethnic group (especially Bambara, Peul, etc.)
-- 2. **Coexistence of melody and rhythm**: The melodic line plays a percussive role at the same time.
-- 3. **Voice integration**: Singing and guitar are integrated instead of "call and response"
-
-He says, ""Mari's guitar is an extension of words.''
-This is because sound is a medium that conveys not only emotions but also ""social memory.''
+Bamadaのサウンドは、西洋的なバンドフォーマット（ギター、ベース、ドラム、パーカッション）に、アフリカ伝統楽器バラフォンやカマレンゴニを融合。
+Koitéはメンバーたちに「民族ごとに異なるリズムを持ち寄らせ」、**マリ内部の多様性を一つのアンサンブルへ翻訳**した。
 
 ---
 
-## Chapter 6: Koité as a cultural translator
+## 第4章：初期作品と国際的ブレイクスルー
 
-Koité positions himself not as a ""guardian of tradition," but as a ""translator."
-His goal is to convert Malian sounds into an "understandable language".
-But it's not just globalization. Rather, it is a search for **sounds that can reach the world without being westernized**.
+1991年のデビュー作『**Muso Ko**』は、マリ国内外で静かに評価を集めた。
+しかし決定的な転機となったのは、1998年のアルバム『**Ma Ya**』。
+この作品でKoitéは、アフリカ音楽の“フォーク化”を成し遂げる。過剰なパーカッションや電子音を排し、**ギターと声の有機的な関係性**を際立たせた。
 
-For example, in his live performances, he uses six different languages ​​(Bambara, Dogon, French, English, Songhai, Peul).
-It goes back and forth between music and words, and embodies ""multilingual identity'' itself on stage.
+> “When you listen to Habib, you hear Africa with no clichés.”
+> — Bonnie Raitt（米国シンガー、Koitéのファン）
 
----
-
-## Chapter 7: Resistance beyond politics - Peace depicted through music
-
-Since the 1990s, Mali has been exposed to civil war, ethnic conflict, and Islamic extremism.
-Koité's music does not directly criticize politics, but symbolically sends out a message of peace.
-
-For example, ""**Afriki**" (2007) is an album that calls for unity on the African continent, and at the same time is an ode to the ""local pride" that is lost amid globalization.
-
-> "I make music without borders, but its roots are in Mali."
-
-This "root and branch" metaphor best describes Habib Koité's philosophy.
+その後、欧米のワールドミュージック・フェスティバルで高い評価を得て、**Ry CooderやBonnie Raittとの共演**、さらには「**Putumayo Presents Africa**」シリーズへの参加を経て、Koitéは“アフリカの声”として国際的地位を確立した。
 
 ---
 
-## Chapter 8: 21st Century Mali Music Map and Koité Influence
+## 第5章：マリのギターという言語
 
-Subsequent generations of the Koité included the **Rokia Traoré**, **Fatoumata Diawara**, and **Vieux Farka Touré**.
-All of them have inherited the "African acoustic context" that Koité established, while evolving in a more personal and experimental direction.
+Koitéのギターは、単なる伴奏ではなく「語り」である。
+彼の奏法には3つの特徴がある：
 
-In other words, Habib Koité was the first to bridge Malian music from tradition to individual expression.
+- 1. **チューニングの多様性**：民族ごとのスケールに応じて調律を変える（特にBambara調・Peul調など）
+- 2. **メロディとリズムの共存**：旋律線が同時にパーカッシブな役割を担う
+- 3. **声との統合**：歌唱とギターが“コール＆レスポンス”ではなく、一体化している
+
+彼は「マリのギターは言葉の延長」だと語る。
+それは、音が感情だけでなく“社会的記憶”を運ぶ媒体だからである。
 
 ---
 
-## Chapter 9: Sound Analysis - Structural Poetics in "Ma Ya"
+## 第6章：文化の翻訳者としてのKoité
 
-Take the song "**Wassiye**" from "Ma Ya" as an example.
+Koitéは自らを「伝統の守護者」ではなく、「翻訳者」と位置づける。
+彼の目標は、マリの音を“理解可能な言語”に変換すること。
+しかしそれは単なるグローバル化ではない。むしろ、**西洋化せずに世界へ届く音**の探求である。
 
-* **Tempo**: Around 80BPM (relaxed 6/8 time signature)
-* **Rhythm structure**: 3-layer polyrhythm (guitar/cajon/calabash)
-* **Harmony**: Non-functional harmony centered on the pentatonic scale
-* **Voice placement**: Dialogic composition using melodic echoes rather than unison
+例えば、彼のライブでは**6つの言語（Bambara, Dogon, French, English, Songhai, Peul）**を使い分ける。
+それは音楽と言葉を往還させ、**“多言語的アイデンティティ”そのものを舞台上で体現**している。
+
+---
+
+## 第7章：政治を超えた抵抗 ― 音楽が描く平和の形
+
+マリは1990年代以降、内戦・民族紛争・イスラム過激派の影響に晒されてきた。
+Koitéの音楽は、直接的な政治批判を行わないが、**平和のメッセージを象徴的に発する**。
+
+たとえば『**Afriki**』（2007）は、アフリカ大陸の団結を呼びかけるアルバムであり、同時にグローバル化のなかで失われる“ローカルな誇り”への賛歌でもある。
+
+> “私は国境のない音楽を作る。だが、その根はマリにある。”
+
+この“根と枝”の比喩こそ、Habib Koitéの思想を最もよく表すものだ。
+
+---
+
+## 第8章：21世紀のマリ音楽地図とKoitéの影響
+
+Koitéの後続世代には、**Rokia Traoré**, **Fatoumata Diawara**, **Vieux Farka Touré**などが登場した。
+彼らはいずれも、Koitéが築いた「アフリカン・アコースティックの文脈」を受け継ぎながら、より個人的で実験的な方向へと進化している。
+
+つまりHabib Koitéは、**マリ音楽を“伝統から個人表現へ”と橋渡しした最初の存在**であった。
+
+---
+
+## 第9章：サウンド分析 ― “Ma Ya”に見る構造的詩学
+
+『Ma Ya』収録曲「**Wassiye**」を例にとる。
+
+* **テンポ**：80BPM前後（ゆったりとした6/8拍子）
+* **リズム構造**：3層ポリリズム（ギター／カホン／カラバッシュ）
+* **ハーモニー**：五音音階を中心とする非機能的和声
+* **声の配置**：ユニゾンではなく、旋律的エコーを用いた対話的構成
 
 With this structure, the entire song creates a "time for storytelling."
 This differs from the "time passage" of pop songs, **the rhythm returns within a ""circular time''**.
@@ -172,7 +170,7 @@ It is a ""quiet methodology'' through which music restores social solidarity.
 | 2007 | "Afriki" focuses on African solidarity |
 | 2014 | "Soo" released, symbolically portraying post-civil war Mali |
 | 2023 | African Cultural Achievement Award |
-| 2025 | "Acoustic Mali Project" starts, young guitarist support program established |
+| 2025 | "Acoustic Mali Project" begins, young guitarist support program established |
 
 ---
 
@@ -181,19 +179,18 @@ It is a ""quiet methodology'' through which music restores social solidarity.
 <div class="mermaid">
 
 graph TD
-A["Mali traditional music<br>Griot culture"] --> B["Ali Farka Touré<br>(Desert Blues)"]
-B --> C["Habib Koité & Bamada<br>(Urban acoustic fusion)"]
-C --> D["Rokia Traoré / Fatoumata Diawara<br>(Deepening personal expression)"]
-D --> E["Global Stage<br>New horizon of world music"]
+    A["Mali traditional music<br>Griot culture"] --> B["Ali Farka Touré<br>(Desert Blues)"]
+    B --> C["Habib Koité & Bamada<br>(Urban acoustic fusion)"]
+    C --> D["Rokia Traoré / Fatoumata Diawara<br>(Deepening personal expression)"]
+    D --> E["Global Stage<br>New horizon of world music"]
 
 </div>
-
 
 ---
 
 ## Conclusion:
 
-Habib Koité's music is ""poetry that is passed down" and ""tradition that is renewed"**.
+Habib Koité's music is ""poetry that is passed down'' and ""tradition that is renewed''**.
 When Mari's strings resonate, it is not a nostalgic recollection of the past, but an act of humanizing the present again.
 Quiet music makes the world a little bit kinder──
 As proof of that, Koité's guitars continue to resonate across the desert today.

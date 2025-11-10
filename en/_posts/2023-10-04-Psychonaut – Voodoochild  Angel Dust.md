@@ -15,13 +15,12 @@ title: Psychonaut – Voodoochild Angel Dust
 "Voodoochild Angel Dust" is
 This is an EP from Psychonaut, a project by Lothar Herrmann and Oliver Balser, released in 2001 on the German label "M.A.S.H.".
 
-
 #### Tracklist
-```md
+"""md
 A. Voodoochild
 
 B. Angel Dust
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m57056542786?afid=6142608987){: .button1}
 

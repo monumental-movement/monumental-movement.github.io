@@ -19,16 +19,16 @@ This album is the first of two OMD studio albums produced by Stephen Hague. Prim
 During recording, the band made greater use of organic instrumentation than in the past.
 
 #### Tracklist
-```md
+"""md
 A1. So In Love
 
-A2. Secret
+A2.Secret
 
 A3. Bloc Bloc Bloc
 
 A4. Women III
 
-A5. Crush
+A5.Crush
 
 B1. 88 Seconds In Greensboro
 
@@ -39,7 +39,7 @@ B3. La Femme Accident
 B4. Hold You
 
 B5. The Lights Are Going Out
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
 

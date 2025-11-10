@@ -18,11 +18,11 @@ Grand Funk Railroad (Grand Funk Railroad/Grand Funk/GFR) is an American hard roc
 "Inside Looking Out" is a 7-inch released by them.
 
 #### Tracklist
-```md
-A. Inside Looking Out = 孤独の叫び
+"""md
+A. Inside Looking Out = Cry of Solitude
 
-B. Paranoid = パラノイド
-```
+B. Paranoid
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
 

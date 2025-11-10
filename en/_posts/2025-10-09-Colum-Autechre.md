@@ -13,16 +13,16 @@ title: '[Column] Autechre: Beyond structure — Acoustic architecture after tech
 ---
 
 
-## Prologue: Organic in the inorganic
+## 序章：無機の中の有機
 
-Text: mmr | Theme: Autechre by Sean Booth and Rob Brown. Tracing the evolution of its acoustic structure, technological innovation, and cultural-historical significance
+文：mmr｜テーマ：Sean BoothとRob BrownによるAutechre。その音響構造の進化、技術的革新、そして文化史的意義を辿る
 
-Autechre is more than just an electronic music duo.
-Their sound is both mathematical and raw. It looks cold and leaves a somewhat human roughness. Sean Booth and Rob Brown, two young men who met in north Manchester, set out on a path to redefining the very structure of sound, using hip-hop and engineering curiosity as starting points.
+Autechre（オウテカ）は、単なる“電子音楽デュオ”ではない。  
+彼らの音は、数学的でありながら生々しい。冷たく見えて、どこか人間的なざらつきを残す。Sean BoothとRob Brown――マンチェスター北部で出会った二人の青年は、ヒップホップと工学的好奇心を出発点に、音の「構造そのもの」を再定義する道を歩み始めた。
 
-In the early 1990s, Autechre was a standout among Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
+1990年代初頭、Warp Recordsが掲げた〈Artificial Intelligence〉シリーズの中で、Autechreの登場は異彩を放った。彼らは「機械の音をエモーションに変換する」方法を模索していた。Sean Boothは後年、インタビューでこう語る。
 
-> "Techno for us is not about eliminating emotion, but expressing it through structure."
+> “僕らにとってのテクノは感情を排除するものじゃなく、感情を構造で表現するものなんだ。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,108 +40,108 @@ color: #fff;
 }
 </style>
 
-## Chapter 1: Origin and Initial Impulse — From the Eve of Rephlex to <Warp>
+## 第1章：出自と初期衝動 — Rephlex前夜から〈Warp〉へ
 
-Sean Booth and Rob Brown were both born in the 1970s. As a boy, he began composing his own songs using tracker software (such as OctaMED) on an Amiga computer.
-Their musical roots lie in Public Enemy, Electro Funk, and B-Boy culture. The name Autechre was initially rumored to be an abbreviation for "Audio Architecture."
+Sean BoothとRob Brownはともに1970年代生まれ。少年時代、Amigaコンピュータを使った**トラッカーソフト（OctaMEDなど）**で自作曲を作り始める。  
+彼らの音楽的ルーツは、Public EnemyやElectro Funk、そしてB-Boyカルチャーにあった。Autechreという名は、初期には「Audio Architecture（音響建築）」の略とも噂された。
 
-His early work, Incunabula (1993), has the scent of the early days of IDM, where melodies still remain.
-The follow-up, ""Amber'' (1994), captivated many listeners with its lyricism and spatiality. Combining an analog synthesizer (Roland SH-101, Oberheim Matrix-6) and a digital sampler, they created a space between human and machine.
+初期作品『Incunabula』（1993）は、まだメロディの残るIDM黎明期の香りを漂わせる。  
+続く『Amber』（1994）は、その叙情性と空間性で多くのリスナーを魅了した。アナログ・シンセサイザー（Roland SH-101, Oberheim Matrix-6）とデジタルサンプラーを組み合わせ、彼らは**人間と機械の中間領域**を形にした。
 
-> "We didn't forget about the dance floor. We just wanted to reimagine why our bodies move."
+> “僕らはダンスフロアを忘れたわけじゃない。ただ、身体が動く理由を再構築したかった。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 2: The era of acoustic deconstruction — "Tri Repetae" and the collapse of minimalism
+## 第2章：音響解体の時代 — 『Tri Repetae』とミニマリズムの崩壊
 
-In 1995, Autechre reaches a turning point.
-""Tri Repetae" is the first ""structural experiment" album that breaks through the framework of IDM. The rhythm collapses, and the sound layer becomes as hard as a steel plate. They treated drum machines (Roland R8, Nord Lead) as raw material, incorporating errors and noise into the grammar of their music.
+1995年、Autechreは転換点に達する。  
+『Tri Repetae』は、IDMという枠を突き破った最初の“構造実験”アルバムだ。リズムは崩壊し、音の層は鉄板のように硬質。彼らはドラムマシン（Roland R8、Nord Lead）を**素材**として扱い、エラーやノイズを音楽の文法に組み込んだ。
 
-The inorganic cover design by The Designers Republic also perfectly matched Autechre's sonic world.
-It was also a "minimalist fusion of sight and sound."
+The Designers Republicによる無機質なジャケットデザインも、Autechreの音世界と完全に一致していた。  
+それは「視覚と音のミニマリズムの融合」でもあった。
 
-The release of "Tri Repetae" symbolizes a "sensory re-education" in electronic music.
-The question ""What is rhythm and what is music?'' is revealed for the first time here.
+『Tri Repetae』のリリースは、電子音楽における“感覚の再教育”を象徴する。  
+「何がリズムで、何が音楽か？」という問いが、ここで初めて露わになる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 3: Mathematics and Emotions — From "Chiastic Slide" to "LP5"
+## 第3章：数学と感情 — 『Chiastic Slide』から『LP5』へ
 
-In 1997-1998, Autechre progressed to more complex structures.
-Chiastic Slide (1997) is an experiment in polyrhythm and repetition. LP5 (1998) is constructed like a sound sculpture.
-Of particular note is the live programming with **Nord Modular and MPC1000**. The method of changing data in real time became the prototype for later algorithmic live music.
+1997〜1998年、Autechreはさらに複雑な構造へと進む。  
+『Chiastic Slide』（1997）は、ポリリズムと反復の実験。『LP5』（1998）は、サウンドの彫刻作品のように構築されている。  
+特筆すべきは、**Nord ModularやMPC1000**によるライブ・プログラミングである。リアルタイムにデータを変化させる手法は、のちのアルゴリズミック・ライブの原型となった。
 
-Their music has become something to be experienced rather than something to be heard.
-"Fold 4, Wrap 5" from "LP5" is full of subtle lyricism in its abstractness. It was a **rediscovery of emotion** hidden behind the coldness.
+彼らの音楽は“聴く”というより“体験する”ものへと変化した。  
+『LP5』収録の「Fold4, Wrap5」は、その抽象性の中にほのかな叙情を湛える。冷たさの裏に潜む、**エモーションの再発見**だった。
 
-> "Emotions cannot be eliminated. As long as we are human beings."
+> “感情は排除できない。僕らが人間である限りね。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 4: Life inside an algorithm — "Confield" and "Draft 7.30"
+## 第4章：アルゴリズムの中の生 — 『Confield』と『Draft 7.30』
 
-2001"s "Confield" was Autechre"s full-fledged introduction of **Max/MSP**.
-From this period, they adopted a method in which sounds were automatically generated using a self-made algorithm, and humans intervened.
-Sean Booth says, ""It's less about composing and more about coordinating occurrences.''
+2001年の『Confield』は、Autechreが**Max/MSP**を本格導入した作品。  
+彼らはこの時期から“自作アルゴリズム”を用いて、音を自動生成させ、そこに人間が介入するという手法を採用した。  
+Sean Boothは「作曲というより“発生の調整”だ」と語っている。
 
-"Confield" confused many listeners. Rhythm and melody no longer exist in the traditional sense. However, the more I listen to it, the more a strange ecosystem-like order emerges.
-In ""Draft 7.30" (2003), the precision of the program was further increased, and the ""intelligence" of electronic music was honed to the utmost.
+『Confield』は多くのリスナーを困惑させた。もはやリズムもメロディも従来の意味では存在しない。しかし聴き込むほどに、そこには奇妙な生態系のような秩序が浮かび上がる。  
+『Draft 7.30』（2003）では、プログラム的精度がさらに高まり、電子音楽の“知性”が極限まで研ぎ澄まされた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYH1fOEUC64?si=1eAEgLLuojv-kE4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 5: Complicit relationship with listeners — Autechre in the live and internet era
+## 第5章：リスナーとの共犯関係 — ライブとネット時代のAutechre
 
-Autechre's live performances completely exclude visual presentation.
-The lights go out and the stage is dark. The audience will be enveloped in a **space of pure sound**.
-This complete inorganic nature is proof that they aim to "dominate the body with sound alone."
+Autechreのライブは、視覚的演出を完全に排除している。  
+照明は消え、ステージは暗闇。観客は**純粋な音の空間**に包まれる。  
+この徹底した無機質さは、彼らが「音のみで身体を支配する」ことを目指している証でもある。
 
-In the 2010s, they released the **AE_LIVE series**. We recorded the sounds that the program improvised as they were, and presented a different structure for each city.
-Furthermore, "NTS Sessions 1–4" (2018) is a masterpiece that is over 8 hours long. This is a monumental achievement in which Autechre has built a "universe of acoustic algorithms."
+2010年代に入ると、彼らは**AE_LIVEシリーズ**をリリース。プログラムが即興的に生成する音をそのまま記録し、各都市ごとに異なる構造を提示した。  
+さらに『NTS Sessions 1–4』（2018）は、8時間を超える大作。Autechreが“音響アルゴリズムの宇宙”を構築した金字塔だ。
 
-> "Improvisation is also about borrowing the thinking of a program."
-
----
-
-## Chapter 6: The Far North of Ambient Music — After "SIGN" and "PLUS"
-
-In 2020, Autechre presents a new chapter of the two-disc set.
-"SIGN" and "PLUS". The **warm melody** that faintly reminds me of early Autechre memories has returned.
-Amidst the algorithmic precision, there is a tranquil, organic fluctuation.
-
-Among listeners, it is often said that "Autechre redefined Ambient."
-The tracks on ""SIGN" sound like a machine learning ""silence."
-Their sound is always walking the middle ground between the future and nostalgia.
+> “即興は、プログラムの思考を借りることでもある。”
 
 ---
 
-## Chapter 7: Autechre Genes — Influenced and Influenced
+## 第6章：環境音楽の極北 — 『SIGN』『PLUS』以降
 
-Along with Aphex Twin and Squarepusher, Autechre's influence has been deeply etched in the design philosophy of electronic music since the 21st century.
-Artists influenced by them include **Alva Noto, Ryoji Ikeda, and Oneohtrix Point Never**.
-Both of them explore the boundaries between "structure and emotion" and "algorithm and poetry."
+2020年、Autechreは二枚組の新章を発表する。  
+『SIGN』と『PLUS』。そこには、初期Autechreの記憶をほのかに思わせる**温かい旋律**が戻ってきた。  
+アルゴリズミックな精密さの中に、静謐で有機的な揺らぎが漂う。
 
-Autechre has functioned as a device that asks questions such as ""What is composition?" and ""What is a human being?" as technology advances.
-Even after the term IDM has been exhausted, Autechre continues to leave its ""intellectual genes'' in modern music.
+リスナーの間では「AutechreがAmbientを再定義した」と評されることも多い。  
+『SIGN』のトラック群は、機械が“静寂”を学習したような音楽だ。  
+彼らの音は、つねに**未来とノスタルジーの中間点**を歩み続けている。
 
 ---
 
-## Final chapter: The future of sound, the future of listening
+## 第7章：Autechreの遺伝子 — 影響を受けた者たち、影響を与えた者たち
 
-Autechre's music is not intended to be understood.
-It restructures the listener's perception and expands the very concept of sound.
-Their existence preceded the question, "What is human creation?" in the age of AI.
+Autechreの影響は、Aphex TwinやSquarepusherと並び、21世紀以降の電子音楽の設計思想に深く刻まれた。  
+彼らに影響を受けたアーティストとしては、**Alva Noto, Ryoji Ikeda, Oneohtrix Point Never**らが挙げられる。  
+いずれも「構造と感情」「アルゴリズムと詩情」の境界線を模索する存在だ。
 
-> "Humans may be using machines to listen to unknown parts of their brains."
+Autechreは、テクノロジーの進化とともに「作曲とは何か」「人間とは何か」を問う装置として機能してきた。  
+IDMという言葉が消費され尽くした後も、Autechreはその**知的遺伝子**を現代音楽に残し続けている。
 
-Autechre is still exploring the possibilities of sound **beyond structure**.
+---
+
+## 終章：音の未来、聴取の未来
+
+Autechreの音楽は、理解されることを目的としない。  
+それは、聴く者の認識を再構築し、音の概念そのものを拡張する。  
+彼らの存在は、AI時代の「人間による創造とは何か」という問いに先行していた。
+
+> “人間は機械を使って、自分の脳の未知の部分を聴いているのかもしれない。”
+
+Autechreは、いまもなお**構造の彼方**で、音の可能性を探っている。
 
 ---
 
@@ -150,17 +150,17 @@ Autechre is still exploring the possibilities of sound **beyond structure**.
 <div class="mermaid">
 
 flowchart TD
-A1991["1991: Autechre formed (Sean Booth & Rob Brown)"]
-A1993["1993: Debut on Warp with 'Incunabula'"]
-A1994["1994: 'Amber' released"]
-A1995["1995: 'Tri Repetae' released - a symbol of IDM"]
-A1997["1997: Deepening the acoustic structure with 'Chiastic Slide'"]
-A2001["2001: 'Confield'—The Generative Turning Point with Max/MSP"]
-A2003["2003: Draft 7.30"]
-A2010["2010: 'Oversteps'—Organic Regression"]
-A2018["2018: 'NTS Sessions 1–4' — Over 8 hours of masterpieces"]
-A2020["2020: 'SIGN" and "PLUS' released"]
-A2024["2024: AE_LIVE series continuation"]
+    A1991["1991: Autechre formed (Sean Booth & Rob Brown)"]
+    A1993["1993: Debut on Warp with 'Incunabula'"]
+    A1994["1994: 'Amber' released"]
+    A1995["1995: 'Tri Repetae' released - a symbol of IDM"]
+    A1997["1997: Deepening the acoustic structure with 'Chiastic Slide'"]
+    A2001["2001: 'Confield'—The Generative Turning Point with Max/MSP"]
+    A2003["2003: Draft 7.30"]
+    A2010["2010: 'Oversteps'—Organic Regression"]
+    A2018["2018: 'NTS Sessions 1–4' — Over 8 hours of masterpieces"]
+    A2020["2020: 'SIGN' and 'PLUS' released"]
+    A2024["2024: AE_LIVE series continuation"]
 
 A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> A2018 --> A2020 --> A2024
 
@@ -183,7 +183,6 @@ A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> 
 | 2020 | SIGN | Warp Records | [Amazon](https://amzn.to/4mTZOQg) |
 | 2020 | PLUS | Warp Records | [Amazon](https://amzn.to/4mZfD8t) |
 
-
 ---
 
 ## List of technology and equipment used
@@ -196,14 +195,12 @@ A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> 
 | Drum machine | Roland R8, Elektron Machinedrum | Realizes complex beat structures |
 | Production philosophy | Automatic generation + human intervention | "Control through Chaos" practice |
 
-
 ---
 
 ## Autechre keeps asking questions
 
 "What is music? Can structure transcend emotion?"
 The journey to find the answer is far from over.
-
 
 ---
 

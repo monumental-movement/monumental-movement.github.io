@@ -19,7 +19,7 @@ A remastered work that mixes the original vocals recorded by Bob Marley and the 
 A cassette tape released in 1996 that includes unreleased songs.
 
 #### Tracklist
-```md
+"""md
 A1. Rock Steady
 A2. Splish For My Splash
 A3. Gonna Get You
@@ -31,15 +31,15 @@ A8. How Many Times
 A9. Fallin' In And Out Of Love
 
 B1. What Goes Around Comes Around
-B2. Touch Me
+B2.Touch Me
 B3. Lonesome Feelings
 B4. Nice Time
 B5. Stay With Me
 B6. You Think I Have No Feelings
 B7. What Goes Around Comes Around
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

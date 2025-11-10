@@ -17,7 +17,7 @@ Music Week gave the album a positive review, saying, "It will definitely appeal 
 ""Brainwashed'' also ranks third among 1998 compilation albums. Additionally, in 2013, Fact magazine ranked "Freeman Hardy & Willis Acid" at number 10 on its list of the top 50 Aphex Twin tracks.
 
 #### Tracklist
-```md
+"""md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
 2. Boards Of Canada–Orange Romeda
@@ -41,7 +41,7 @@ Music Week gave the album a positive review, saying, "It will definitely appeal 
 11. Two Lone Swordsmen–Circulation
 
 12. Mark Bell–A Salute To Those People Who Say Fuck You
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 

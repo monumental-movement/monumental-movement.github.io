@@ -18,11 +18,11 @@ The Dooleys were a mixed British pop group. At its peak, it had eight members, s
 From 1977 to 1981, they had several hits that topped the British charts, with "Wanted" reaching the top ten.
 
 #### Tracklist
-```md
-A1. Wanted = ウォンテッド
+"""md
+A1. Wanted = Wanted
 
-B1. Movie Stars (And Comic Book Heroes) = ムービー・スターズ
-```
+B1. Movie Stars (And Comic Book Heroes) = Movie Stars
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48275786483?afid=6142608987){: .button1}
 

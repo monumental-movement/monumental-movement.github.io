@@ -15,22 +15,21 @@ title: '[Column] The Pop Group - The rebellious sound and historical background 
 ---
 
 
-## Prologue: The seeds of an explosion that the era is pregnant with
+## 序章：時代が孕んだ爆発の種
 
+文：mmr｜テーマ：1970年代末、英国ブリストルで爆発した反逆の音楽運動――The Pop Groupが鳴らした政治とアートの交錯、その衝撃を時代背景とともにたどる
 
-Text: mmr | Theme: A rebellious music movement that exploded in Bristol, England at the end of the 1970s - tracing the intersection of politics and art played by The Pop Group, and its impact along with the historical background.
+1978年、イギリス南西部の港町ブリストルで、ひとつの異形のバンドが姿を現す。  
+その名は **The Pop Group（ザ・ポップ・グループ）**。  
+ポップと名乗りながら、その音楽はファンクでもパンクでもジャズでもなく、あらゆるジャンルを爆発的に衝突させる実験そのものだった。
 
-In 1978, an unusual band appeared in the port city of Bristol in southwestern England.
-Its name is **The Pop Group**.
-Although they called themselves pop, their music was not funk, punk, or jazz, but rather an experiment in which all genres collided explosively.
+彼らの音は、70年代のイギリスを覆う**失業・階級・政治腐敗・若者の疎外感**を、  
+音そのものの「叫び」として昇華させたものだった。  
+それは単なる音楽ではなく、「反体制的な身体表現」であり、「思想の断片をぶつけ合うアート」だった。
 
-Their sound evokes the **unemployment, class, political corruption, and alienation of young people** that covered England in the 1970s.
-It was sublimated as a "scream" of the sound itself.
-It wasn't just music, it was ""anti-establishment physical expression" and ""an art that brings together fragments of ideas."
-
-The city of Bristol is a port city with a history of slave trade and a multicultural mix.
-The musical movement born here was also the birthplace of the trip-hop culture that would eventually lead to Massive Attack, Portishead, and Tricky.
-The Pop Group was the origin and first "voice of rebellion".
+ブリストルという都市――奴隷貿易の歴史を持ち、同時に多文化が交錯する港町。  
+この地が生み出した音楽運動は、やがてMassive AttackやPortishead、Trickyへと連なる「トリップホップ文化」の母胎でもあった。  
+The Pop Groupは、その源流にして最初の“反逆の声”だった。
 
 ---
 
@@ -47,145 +46,143 @@ color: #fff;
 }
 </style>
 
+## 第1章：ブリストルという都市の胎動（1970–1977）
 
-## Chapter 1: The birth of the city of Bristol (1970–1977)
+1970年代のブリストルは、表向きには平穏な地方都市だった。  
+だがその裏では、社会の分断と経済の停滞、移民コミュニティの疎外が進行していた。  
+1976年のブリクストン暴動（ロンドン）と同様、ブリストルでも警察と若者の対立が激化し、  
+「国家とストリートの断絶」が日常の空気となっていた。
 
-Bristol in the 1970s was an ostensibly peaceful provincial town.
-However, behind the scenes, social divisions, economic stagnation, and alienation of immigrant communities were progressing.
-Similar to the 1976 Brixton Riots (London), conflicts between police and young people intensified in Bristol.
-A ""disconnect between the state and the streets'' became the norm.
+港町としてのブリストルには、ジャマイカからの移民によって**レゲエとダブ**の文化が根付いていた。  
+そのリズムとベースの重心の低さ、そして反抗のスピリットが、  
+白人のロック青年たちにも浸透していく。
 
-As a port city, Bristol had a **reggae and dub** culture rooted in it due to immigrants from Jamaica.
-The rhythm, the low center of gravity of the bass, and the spirit of rebellion,
-It also permeated the white rock youth.
-
-It was in this cultural mix that the young people of The Pop Group grew up.
-At school, he listened to punk and funk, and at night he would hang out at sound systems in immigrant neighborhoods.
-They absorbed the very magnetic field of the city, where ""anger," ""mixed race," ""politics," and ""Beat" were swirling.
-
----
-
-## Chapter 2: The Birth and Rebellion of The Pop Group (1978–1980)
-
-### 1978 - A sound that disrupted all genres
-
-The members are in their late teens to early 20s.
-**Mark Stewart (vocals)**, **Gareth Sager (guitar)**, **Bruce Smith (drums)**,
-**Dan Catsis (bass)**, **John Waddington (guitar)** were the main players.
-
-Unlike the London punks, they were conscious of being **political and artistic**.
-Their debut album, ""**Y**'' (1979), was a heresy of a heresy even at the time.
-The disorder of free jazz, the deep space of dub, the destructive impulse of punk...
-These intersect as **socially critical poems and poetic cries**.
-
-> "We Are All Prostitutes"
-> - It was a poignant declaration against a society sold out to commercialism and the system.
-
-This song"s **rhythmic violence**, **swells of noise**, and **Mark Stewart"s curse-like vocals** are
-It can be said to be the prototype of later industrial/political noise.
+この文化的な混交の中で、The Pop Groupの若者たちは育った。  
+学校ではパンクやファンクを聴き、夜になると移民街のサウンドシステムに通い詰めた。  
+彼らは、**「怒り」「混血」「政治」「ビート」**が渦巻く都市の磁場そのものを吸収していった。
 
 ---
 
-## Chapter 3: Fusion of thought and sound - "Resistance as art"
+## 第2章：The Pop Groupの誕生と反逆（1978–1980）
 
-What set The Pop Group apart from other punk bands was that
-He clearly had the understanding that ""music = a weapon of thought''**.
+### 1978年 ― すべてのジャンルを破壊する音
 
-They were influenced by Marxism, Situationism, and the philosophies of Bataille and Derrida.
-Themes such as "power," "surveillance," and "media manipulation" appear repeatedly in the lyrics.
+メンバーは10代後半から20代前半。  
+**Mark Stewart（ヴォーカル）**, **Gareth Sager（ギター）**, **Bruce Smith（ドラム）**,  
+**Dan Catsis（ベース）**, **John Waddington（ギター）**らが中心となった。
 
-Acoustically, we took advantage of the recording technology of the time,
-**Made extensive use of spatial processing, reverb, tape manipulation, and improvisation**.
-This was later developed by Adrian Sherwood (On-U Sound) and Lee Perry.
-It also overlaps with the prototype of "political dub."
+彼らはロンドンのパンクとは異なり、**政治的かつ芸術的**であることを自覚していた。  
+デビュー・アルバム『**Y**』（1979）は、当時としても異端中の異端だった。  
+フリージャズの無秩序、ダブの深い空間、パンクの破壊衝動――  
+それらが**社会批判の詩とポエティックな叫び**として交錯する。
 
-> Sound was not just entertainment, but **noise for resistance**.
+> “We Are All Prostitutes”  
+> ― それは商業主義と体制に売り渡された社会への痛烈な宣言だった。
 
----
-
-## Chapter 4: Deconstruction and Rebirth - Chain of Post-Pop Groups
-
-In 1980, The Pop Group suddenly disbanded.
-After that, each member takes a different path.
-
-- Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
-- Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
-A young **Neneh Cherry** was also there.
-- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
-
-This divergence gave rise to the diversity of the Bristol sound.
-Trip hop, dub, experimental music, political hip hop...
-The influence of The Pop Group is etched into all of them.
+この曲における**リズムの暴力性**、**ノイズのうねり**、**Mark Stewartの呪詛のようなヴォーカル**は、  
+後のインダストリアル／ポリティカル・ノイズの原型といえる。
 
 ---
 
-## Chapter 5: Reassessment and revival in the 21st century
+## 第3章：思想と音響の融合 ― 「アートとしての抵抗」
 
-The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival trend.
-Especially since 2005, following the **Gang of Four and Wire reunions**,
-They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
+The Pop Groupが他のパンク・バンドと一線を画していたのは、  
+**「音楽＝思想の武器」**という認識を明確に持っていた点である。
 
-While the violent nature of the sound was still present, it was more political and had a sharper message than before.
-For them, ""reunion" was not about nostalgia, but ""continuation of resistance."
+彼らは、マルクス主義や状況主義、バタイユやデリダといった哲学に影響を受け、  
+歌詞には「権力」「監視」「メディア操作」などのテーマが繰り返し現れる。
 
-> "You don"t stop being angry because time passes."
-> ― Mark Stewart (1958–2023)
+音響的にも、当時のレコーディング技術を逆手に取り、  
+**空間処理・リバーブ・テープ操作・即興演奏**を多用した。  
+これは後にエイドリアン・シャーウッド（On-U Sound）やリー・ペリーらが展開する  
+「ポリティカル・ダブ」の原型とも重なる。
 
-Mark Stewart's death marked the end of an era.
-However, his voice still resonates even in a modern society covered with AI and surveillance capitalism.
-It continues to resonate as an "echo of resistance."
+> 音は、単なる娯楽ではなく、**抵抗のためのノイズ**だった。
 
 ---
 
-## Chapter 6: Genes to Bristol Culture
+## 第4章：解体と再生 ― ポスト・ポップグループの連鎖
 
-The seeds planted by The Pop Group would soon be passed on to other artists in Bristol.
+1980年、The Pop Groupは突然解散する。  
+その後、メンバーはそれぞれ異なる道を歩む。
 
-- **Massive Attack** - "Soundscape" themed around politics and urban darkness.
-- **Portishead** - Sublimating repressed emotions into sonic experiments
-- **Tricky** - A fusion of bass and poetic violence
+- Mark Stewart：ソロ活動でエイドリアン・シャーウッドと共闘し、**Industrial Dub**を確立。  
+- Gareth SagerとBruce Smith：**Rip Rig + Panic**を結成。  
+  そこには若き日の**Neneh Cherry**も参加していた。  
+- Dan Catsis：後にMassive Attackと関わるなど、ブリストル音楽の基盤に残った。
 
-Although these artists directly seem to belong to different genres,
-At the root of all of this is a common ""musical spirit that resists society.''
-In other words, **""The Pop Group's ethics'' = sonic resistance**.
-
----
-
-## Conclusion: Explosive Thoughts, Silent Politics
-
-The Pop Group
-He posed the questions, ""What is music?" and ""What can art do about politics?"
-Their sound continues to refuse to answer that question.
-
-What they left behind was not an answer but the question itself.
-That is Bristol's greatest legacy.
+この分岐は、**ブリストル・サウンドの多様性**を生むきっかけとなった。  
+トリップホップ、ダブ、実験音楽、ポリティカル・ヒップホップ――  
+その全てに、The Pop Groupの影響は刻まれている。
 
 ---
 
-## Chronology: The Pop Group and Bristol Cultural History (1970–2025)
+## 第5章：21世紀の再評価と復活
+
+長らくカルト的存在だったThe Pop Groupだが、  
+2000年代以降、ポストパンク・リバイバルの流れの中で再評価が進む。  
+特に2005年以降、**Gang of FourやWireの再結成**に続き、  
+彼らも2010年に活動を再開。2015年には新作『Citizen Zombie』を発表した。
+
+音の暴力性は健在でありながら、かつてよりも**より政治的で、より鋭いメッセージ性**を帯びていた。  
+彼らにとって“再結成”とは懐古ではなく、「抵抗の継続」だったのだ。
+
+> “You don’t stop being angry because time passes.”  
+> ― Mark Stewart（1958–2023）
+
+Mark Stewartの死は、ひとつの時代の終焉を告げた。  
+だが彼の声は、AIと監視資本主義に覆われた現代社会の中でもなお、  
+「抵抗のエコー」として鳴り続けている。
+
+---
+
+## 第6章：ブリストル・カルチャーへの遺伝子
+
+The Pop Groupが蒔いた種は、やがてブリストルの他のアーティストたちに受け継がれていく。
+
+- **Massive Attack** ― 政治と都市の闇をテーマにした“サウンドスケープ”  
+- **Portishead** ― 抑圧された情感を音響実験に昇華  
+- **Tricky** ― 低音と詩的暴力性の融合  
+
+これらのアーティストは、直接的には異なるジャンルに見えるが、  
+その根底にある「社会に抗う音楽精神」は共通している。  
+すなわち、**“The Pop Group的な倫理”＝音の抵抗**である。
+
+---
+
+## 結語：爆音の思想、沈黙の政治
+
+The Pop Groupは、  
+「音楽とは何か」「アートは政治に対して何ができるか」という問いを突きつけた。  
+彼らのサウンドは、今もその問いへの答えを拒否し続けている。
+
+彼らが遺したのは、答えではなく、**“問いそのもの”**だった。  
+それこそが、ブリストルが生んだ最大の遺産である。
+
+---
+
+## 年表：The Pop Groupとブリストル文化史（1970–2025）
 
 <div class="mermaid">
 
 timeline
-title The flow of Bristol music culture and the trajectory of The Pop Group (1970–2025)
-1970: Immigrant culture takes root in Bristol, sound system culture spreads
-1977: Punk sensation Mark Stewart and others prepare to form a band
-1978 : Formation of The Pop Group
-1979: "Y" released, causing a social shock
-1980 : Single "We Are All Prostitutes" released, disbanded
-1981: Rip Rig + Panic formed, expanding diverse experimental music in Bristol
-1988 : Launch of Wild Bunch, the predecessor of Massive Attack.
-1994: Portishead achieves worldwide trip-hop success with "Dummy"
-2010 : The Pop Group reunited
-2015 : "Citizen Zombie" released
-2023 : Mark Stewart passes away
-2025: Re-evaluation of Bristol's musical heritage continues
+    title ブリストル音楽文化の流れとThe Pop Groupの軌跡（1970–2025）
+    1970 : ブリストルに移民文化が定着、サウンドシステム文化が浸透
+    1977 : パンク旋風、Mark Stewartらがバンド結成準備
+    1978 : The Pop Group結成
+    1979 : 『Y』リリース、社会的衝撃を与える
+    1980 : シングル「We Are All Prostitutes」発表、解散
+    1981 : Rip Rig + Panic結成、ブリストルで多様な実験音楽が拡大
+    1988 : Massive Attack前身のWild Bunch始動
+    1994 : Portishead『Dummy』でトリップホップ世界的成功
+    2010 : The Pop Group再結成
+    2015 : 『Citizen Zombie』リリース
+    2023 : Mark Stewart死去
+    2025 : ブリストルの音楽遺産として再評価が進行
 
 </div>
 
 ---
-
 
 ## Reference discography
 
@@ -204,21 +201,20 @@ title The flow of Bristol music culture and the trajectory of The Pop Group (197
 <div class="mermaid">
 
 flowchart TD
-A["The Pop Group (1978)"] --> B["Rip Rig + Panic (1981)"]
-A --> C["Mark Stewart & The Maffia (1982)"]
-B --> D["Massive Attack (1988)"]
-D --> E["Portishead (1994)"]
-D --> F["Tricky (1995)"]
-C --> G["On-U Sound / Adrian Sherwood"]
-E --> H["Trip Hop Movement (1990s–)"]
-A -.-> I["Post-Punk Revival (2000s–)"]
-
+    A["The Pop Group (1978)"] --> B["Rip Rig + Panic (1981)"]
+    A --> C["Mark Stewart & The Maffia (1982)"]
+    B --> D["Massive Attack (1988)"]
+    D --> E["Portishead (1994)"]
+    D --> F["Tricky (1995)"]
+    C --> G["On-U Sound / Adrian Sherwood"]
+    E --> H["Trip Hop Movement (1990s–)"]
+    A -.-> I["Post-Punk Revival (2000s–)"]
 
 </div>
 
 ---
 
-## summary
+## Summary
 
 The Pop Group is a band that redefined music as a language of resistance.
 That attitude continues to influence underground culture not only in Bristol but around the world.

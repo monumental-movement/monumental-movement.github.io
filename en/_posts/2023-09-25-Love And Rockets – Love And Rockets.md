@@ -19,14 +19,14 @@ It was released in 1989 and is known as the band's debut album. Their music incl
 This album includes songs such as their signature song "So Alive", and you can feel the dark, melancholic atmosphere and powerful performances throughout the album.
 
 #### Tracklist
-```md
+"""md
 A1. **** (Jungle Law)
 
 A2. No Big Deal
 
 A3. The Purest Blue
 
-A4. Motorcycle
+A4.Motorcycle
 
 A5. I Feel Speed
 
@@ -39,9 +39,10 @@ B3. So Alive
 B4. Rock And Roll Babylon
 
 B5. No Words No More
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bjn9RySbYE?si=6TC41-py4F68QGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

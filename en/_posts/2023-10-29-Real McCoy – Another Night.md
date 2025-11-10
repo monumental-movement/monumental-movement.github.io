@@ -18,7 +18,7 @@ Real McCoy is a German Eurodance/pop music project. "Another Night" released in 
 B-side is a remix of Armand Van Helden.
 
 #### Tracklist
-```md
+"""md
 A1. Another Night (Club Mix)
 
 A2. Another Night (House Mix)
@@ -26,7 +26,7 @@ A2. Another Night (House Mix)
 B1. Another Night (Armand's Nightmare Mix)
 
 B2. Another Night (Armand's New School Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
 

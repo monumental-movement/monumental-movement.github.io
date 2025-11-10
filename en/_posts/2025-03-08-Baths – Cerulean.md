@@ -16,24 +16,23 @@ Will Wiesenfeld, also known as Baths, is known as a genius beat maker and is an 
 
 "Cerulean" is Baths' debut album released in 2010 on the independent label Anticon, introduced by Daedelus. This CD is a Japanese version released by Tugboat Records in 2013.
 
-
 #### Tracklist
-```md
+"""md
 1. Apologetic Shoulder Blades
 2. Lovely Bloodflow
 3. Maximalist
 4. ♥
-5. Aminals
+5.Aminals
 6. Rafting Starlit Everglades
-7. Hall
+7.Hall
 8. You're My Excuse To Travel
 9. Rain Smell
 10. Indoorsy
-11. Plea
+11.Plea
 12. Departure
 13. Petals (Bonus Track)
 14. Calliope (Bonus Track)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 

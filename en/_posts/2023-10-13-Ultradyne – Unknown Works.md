@@ -20,7 +20,7 @@ Ultradyne is a group that pursues the sound of Detroit techno and electronic mus
 "Unknown Works" was released in 2002 on Daz Quayle's UK electro/IDM label SCSI-AV.
 
 #### Tracklist
-```md
+"""md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 
 A2. Ultradyne–Fantasy Era
@@ -28,7 +28,7 @@ A2. Ultradyne–Fantasy Era
 B1. Ultradyne–Society @ Work
 
 B2. Ultradyne–War Drum - Live
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 

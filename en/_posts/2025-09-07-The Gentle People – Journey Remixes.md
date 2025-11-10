@@ -16,18 +16,17 @@ title: The Gentle People – Journey Remixes
 
 The Gentle People is a band formed in the US in 1995. Their sound is characterized by the lounge and easy listening taste of the 1950s, which was defined as "kitsch" in 1990s club culture.
 
-Released in 1995 on Richard D. James (Aphex Twin) and Grant Wilson-Claridge"s Rephlex label, Journey is The Gentle People"s debut album.
+Released in 1995 on Richard D. James (Aphex Twin) and Grant Wilson-Claridge's Rephlex label, Journey is The Gentle People's debut album.
 
-A is a remix by Aphex Twin that samples ""Blue Mantilla" from the great Henry Mancini's LP ""Mr. Lucky Goes Latin".
-
+A is a remix by Aphex Twin that samples ""Blue Mantilla'' from the great Henry Mancini's LP ""Mr. Lucky Goes Latin''.
 
 #### Tracklist
-```md
+"""md
 A. Journey (Aphex Twin Care Mix)
 
 B1. Journey (Hazchem Mix)
 B2. Journey (Swingers' Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m95813694995?afid=6142608987){: .button1}
 

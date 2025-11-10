@@ -16,36 +16,36 @@ title: Michel Polnareff – Gift Pack Series
 The Michel Polnareff – Gift Pack Series was released by Epic in 1973.
 
 #### Tracklist
-```md
-A1. 愛の休日
-A2. ロミオとジュリエットのように
-A3. 愛のコレクション
-A4. ギリシャにいるジョルジナへ
-A5. 愛の物語
-A6. 渚の想い出
+"""md
+A1. Holiday of love
+A2. Like Romeo and Juliet
+A3. Love collection
+A4. To Georgina in Greece
+A5. Love story
+A6. Memories of the beach
 
-B1. 忘れじのグローリア
-B2. ノンノン人形
-B3. バラ色の心
-B4恋は人生の想い出
-B5. 君との愛がすべて
-B6. 哀しみの終るとき
+B1. Forgotten Gloria
+B2. Nonnon doll
+B3. Rosy heart
+B4 Love is a memory of life
+B5. Love with you is everything
+B6. When sadness ends
 
-C1. (POLNAREFF A TIKIOより)
-C2. ラース家の舞踏会
-C3. シェリーに口づけ
-C4. トランペット
-C5. 愛の願い
-C6. ジェニジェニ
-C7. 火の玉ロック
+C1. (From POLNAREFF A TIKIO)
+C2. Lars family ball
+C3. Kiss Sherry
+C4. Trumpet
+C5. Wish of love
+C6. Geni Geni
+C7. Fireball Lock
 
-D1. ジョブ
-D2. 愛の別離
-D3. リンガディン
-D4. 悲しきマリー
-D5. おかしなジョー
-D6. 天国への道
-```
+D1. Job
+D2. Separation of love
+D3. Ringadin
+D4. Sad Marie
+D5. Weird Joe
+D6. Road to Heaven
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
 

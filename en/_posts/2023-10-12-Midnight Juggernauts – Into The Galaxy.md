@@ -19,7 +19,7 @@ The second track on Side A is a remix by Chateau Marmont, founder of Chambre404,
 The first song on side B is a remix by British electronic/alternative band Metronomy. The second song on side B is a remix by French electronic musician/producer Danger (Franck Rivoire).
 
 #### Tracklist
-```md
+"""md
 A1. Into The Galaxy (Original Mix)
 
 A2. Into The Galaxy (Chateau Marmont Remix)
@@ -27,7 +27,7 @@ A2. Into The Galaxy (Chateau Marmont Remix)
 B1. Into The Galaxy (Metronomy Remix)
 
 B2. Into The Galaxy (Danger Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
 

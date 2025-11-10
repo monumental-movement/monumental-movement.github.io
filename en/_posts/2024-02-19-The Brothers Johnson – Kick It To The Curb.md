@@ -21,13 +21,13 @@ Quincy Jones brought them to attention when he used them on his 1975 album Mello
 He recorded eight albums between 1976 and 1988, and is best known for the disco hit "Stomp!" (1980) and the Shuggy Otis classic "Strawberry Letter #23" (1977 cover).
 
 #### Tracklist
-```md
+"""md
 A. Kick It To The Curb (12" Version)
 
 B1. Kick It To The Curb
 
 B2. P.O. Box 2000 (Instrumental)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
 

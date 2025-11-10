@@ -18,16 +18,15 @@ A 7-inch album released by Yellow Magic Orchestra (YMO) on the Alfa label in 198
 The jacket design was by Mick Haggerty, who is famous for designing album covers for artists and music groups such as David Bowie, The Police, and the B-52's.
 
 #### Tracklist
-```md
-A.  Rydeen（ライディーン）
-Arranged By – イエロー・マジック・オーケストラ
-Composed By – 高橋ユキヒロ
+"""md
+A. Rydeen
+Arranged By – Yellow Magic Orchestra
+Composed By – Yukihiro Takahashi
 
-B. Cosmic Surfin'（コズミック・サーフィン）
-Arranged By – イエロー・マジック・オーケストラ
-Composed By – 細野晴臣
-```
-
+B. Cosmic Surfin'
+Arranged By – Yellow Magic Orchestra
+Composed By – Haruomi Hosono
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
 

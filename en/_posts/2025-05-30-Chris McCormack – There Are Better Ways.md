@@ -18,19 +18,19 @@ Chris McCormack is a UK techno producer. "There Are Better Ways" is a two-disc h
 record.
 
 #### Tracklist
-```md
+"""md
 A1. There Are Better Ways
-A2. The Button
+A2.The Button
 
-B1. Imagination
-B2. Persistant Offender
+B1.Imagination
+B2. Persistent Offender
 
-C1. Ariffmatik
+C1.Ariffmatik
 C2. Plain Song
 
 D1. Da Filth
 D2. Pot Noodlez
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m13283588453?afid=6142608987){: .button1}
 

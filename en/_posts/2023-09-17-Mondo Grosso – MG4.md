@@ -17,31 +17,31 @@ Japanese club music based on Shinichi Osawa's roots in jazz, soul, and Brazilian
 Also included are "Life" and "Butterfly", which were hits at the time and featured Bird.
 
 #### Tracklist
-```md
-A1  MG2SS
+"""md
+A1 MG2SS
 
-A2  Butterfly
+A2 Butterfly
 
-B1  Show Me Your Love
+B1 Show Me Your Love
 
-B2  Life
+B2 Life
 
-C1  MG4BB
+C1 MG4BB
 
-C2  Cenário
+C2 Cenário
 
-D1  Samba Do Gato
+D1 Samba Do Gato
 
-D2  Now You Know Better
+D2 Now You Know Better
 
-E1  Star Suite I. New Star
+E1 Star Suite I. New Star
 
-E2  Star Suite II. Fading Star
+E2 Star Suite II. Fading Star
 
-F1  Star Suite IIII. North Star
+F1 Star Suite IIII. North Star
 
-F2  1974-Way Home
-```
+F2 1974-Way Home
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 

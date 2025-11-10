@@ -17,8 +17,7 @@ title: '[Column] A journey around the world of cars and sound — A thorough gui
 
 Text: mmr｜Theme: Audio specifications and technology of representative models from major car manufacturers around the world
 
-
-Car audio is not just an optional feature; it has a major impact on the driving experience and the value of the space inside the car. Material selection, quietness, and space design during the car design stage are directly linked to sound quality.
+Car audio is not just an optional feature; it has a major impact on the driving experience and the value of the space inside the car. Material selection, quietness, and space design during the car design stage are directly linked to sound quality.  
 This article details the audio specifications, partner brands, and technologies of representative models from major manufacturers around the world.
 
 ---
@@ -35,20 +34,19 @@ color: #fff;
 }
 </style>
 
-
 ## Acoustic philosophy of Japanese manufacturers
 
 ### Toyota/Lexus
 
 - **Audio specifications of representative models**
-- Lexus LS: Mark Levinson 3D surround, 17 speakers, 1,200W
-- With software room correction function
+  - Lexus LS: Mark Levinson 3D surround, 17 speakers, 1,200W
+  - With software room correction function
 
 - **Manufacturer and brand partnership**
-- Sound design for luxury cars in long-term collaboration with Mark Levinson
+  - Sound design for luxury cars in long-term collaboration with Mark Levinson
 
 - **Anecdotes and techniques**
-- Each material in the car, including the ceiling and seat fabric, was selected with acoustic correction in mind.
+  - Each material in the car, including the ceiling and seat fabric, was selected with acoustic correction in mind.
 
 | Product name | Link |
 |--------|--------------|
@@ -83,7 +81,6 @@ color: #fff;
 - **Technology**: Measuring and optimizing the acoustic characteristics of the vehicle interior space
 
 ---
-
 
 ## Precision acoustics for German cars
 
@@ -233,7 +230,6 @@ color: #fff;
 
 ---
 
-
 | Brand/Model | System | Number of Speakers/Output | Features |
 |-----------|----------|-------|------|
 | Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
@@ -258,7 +254,7 @@ Cars used to be "machines for transportation". However, now it is a ""space that
 Germany has imbued sound with precision engineering, Britain with tradition and formality, America with freedom and power, and Japan with delicate harmony.
 Car audio in each country is also a crystallization of that society's aesthetic sense and industrial philosophy.
 
-Rolls-Royce's "silent stage" is the ultimate in silence.
+Rolls-Royce's ""silent stage'' is the ultimate in silence.
 Tesla's DSP control connects electrical signals and emotions.
 And Mark Levinson of Lexus plays with materials and space as "instruments."
 These are not just speaker systems, but ""architectures of sound'' where humans and machines, engineering, and sensibilities intersect.
@@ -267,7 +263,7 @@ Now that the shift to EVs is progressing, the symbolic element of engine sound i
 In-car acoustics are beginning to take on a new role.
 It is a "moving listening room" and a "personal acoustic universe."
 Manufacturers around the world are no longer pursuing horsepower or quietness;
-**"What kind of sounds can you hear by running?"** This is a new experience value.
+**"What kind of sounds can you hear while running?"** This is a new experience value.
 
 Car audio never stops evolving.
 The acoustic design is corrected by AI, and the seat becomes a resonating plate, changing the sound field according to the driver's heartbeat and mood.

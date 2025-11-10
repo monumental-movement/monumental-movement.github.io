@@ -17,10 +17,7 @@ title: '[Column] Cultural relationship between Initial D and Eurobeat'
 
 ## Memories of speed where anime and music intersect
 
-
 Text: mmr｜Theme: Cultural relationship between Initial D and Eurobeat
-
-
 
 <hr>
 
@@ -30,14 +27,12 @@ From the late 1990s to the 2000s, a Japanese anime completely changed the way Eu
 
 In this column, we explore the cultural relationship between [Initial D](https://amzn.to/4mv0g7t) and Eurobeat from the perspectives of media history, music history, and subculture.
 
-
 <hr>
 
 ### The story of the mountain pass and the spirit
 "Initial D" is a manga by Shuichi Shigeno that has been serialized in "Weekly Young Magazine" since 1995. The story takes place on a mountain pass in Gunma Prefecture, and the main character, Takumi Fujiwara, learns drifting skills while delivering tofu in his father's AE86 (Toyota Sprinter Trueno), and gradually awakens as a runner.
 
 It was made into an anime in 1998 and became a hot topic for its CG-based 3D car action and high-tempo music.
-
 
 <hr>
 
@@ -56,7 +51,6 @@ Emotional and "hot" sound
 
 Eurobeat was linked to the parapara culture and anime song mix culture of the 1990s, and developed uniquely to Japan.
 
-
 <hr>
 
 ### Why was "Eurobeat x Car Race" born?
@@ -65,7 +59,7 @@ Eurobeat was linked to the parapara culture and anime song mix culture of the 19
 
 The tempo of Eurobeat (140-160 BPM) goes very well with the sense of speed of a car. In Initial D's racing scenes, Eurobeat functioned as an ""aural accelerator''.
 
-for example:
+For example:
 
 ["Deja Vu" (Dave Rodgers)](https://amzn.to/3KiOkYW)
 
@@ -78,7 +72,6 @@ When these songs are played, you can experience the speed of the car on the scre
 ● Reason 2: Domestic anime x imported music feels like a reimportation.
 
 By boldly introducing Italian-made Eurobeat into the purely Japanese media of anime, a hybrid subculture was born that was re-imported. This structure corresponds to the globalization of anime and spreads to fandom in Europe and the United States.
-
 
 <hr>
 
@@ -97,20 +90,18 @@ Eurobeat has been redefined by Initial D as ["music for running"](https://amzn.t
 Songs such as ["Deja Vu"](https://amzn.to/3KiOkYW) have spread as meme material and are connected to the Internet and pop culture.
 Eurobeat is being reinterpreted in new ways on TikTok and MAD videos.
 
-
 <hr>
 
 ### Is Eurobeat "memory fuel"?
-""Initial D" gave a story and emotion to the music called Eurobeat. It was not just ""dance music," but an experience linked to ""accelerating youth" and ""memories of defeat and victory."
+""Initial D'' gave a story and emotion to the music called Eurobeat. It was not just ""dance music,'' but an experience linked to ""accelerating youth'' and ""memories of defeat and victory.''
 
-As a result, Eurobeat became an unusually ""emotional'' music in Japan. In other words:
+As a result, Eurobeat became an unusually ""emotional'' music in Japan. That is:
 
 Eurobeat is music that speaks of speed, and at the same time, it has become a medium that tells a story of running through something while losing something.
 
-
 <hr>
 
-### The memory of speed will never disappear
+### The memory of speed will never fade
 ""Initial D'' has ended, but the memories of Eurobeat are still running around on the internet. Even if the race is over, each time the music is played, the race begins again.
 
 It is also a reliving experience of our own "youth" and "impulse".

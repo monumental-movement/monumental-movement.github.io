@@ -22,13 +22,13 @@ B1 on this record stands out even more with its soothing yet powerful bass line 
 B2's "Killin' it" is a bass-heavy track that leans more toward trip-hop than techno, with its dirty, deep bass and funky rhythm.
 
 #### Tracklist
-```md
-A.  Pieces Of Eight
+"""md
+A. Pieces Of Eight
 
 B1. Pieces Of Eight (Night Thoughts Remix)
 
 B2. Killin' It
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
 

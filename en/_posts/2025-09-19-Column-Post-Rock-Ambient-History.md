@@ -17,11 +17,10 @@ title: '[Column] History of post-rock/ambient and changes in equipment [Analysis
 
 Text: mmr｜Theme: Post-rock and ambient, from their origins in the 1970s to their future prospects
 
-Post-rock and ambient music have their origins in the experimental spirit of the 1970s, and have continued to evolve amid scenes and technological innovations.
+Post-rock and ambient music have their origins in the experimental spirit of the 1970s, and have continued to evolve amid scenes and technological innovations.  
 Here, we will provide a comprehensive list of masterpieces, equipment, and cultural backgrounds so that you can get a panoramic view of the period **from the 1970s to the 2020s**.
 
 ---
-
 
 <style type="text/css">
 
@@ -36,9 +35,7 @@ color: #fff;
 }
 </style>
 
-
 ### 1970s: The embryonic period - experimentation and the emergence of ambient music
-
 
 - **Background**: Rock's heyday. Synthesizers and tape editing technology evolved. Brian Eno advocated "ambient".
 - **Characteristics**: Anti-rock, non-popular approach. Arranging sound on an extension of space and time.
@@ -59,10 +56,8 @@ color: #fff;
 
 ### 1980s: The deepening of electronics and the aftermath of post-punk
 
-
 - **Background**: Instability and urbanization during the Cold War. Influenced by new wave and post-punk.
 - **Features**: Drones, rhythmless structures, industrial influences.
-
 
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
@@ -80,7 +75,7 @@ color: #fff;
 
 ### 1990s: Birth and expansion of post-rock
 
-- **Background**: Diversification of alternative rock after grunge. On the eve of the Internet, an experimental indie scene exploded.
+- **Background**: Diversification of alternative rock after grunge. On the eve of the Internet, an experimental indie scene exploded.  
 - **Characteristics**: Non-rock development even though it uses guitar. Long length, dynamic/static contrast.
 
 | Work | Artist | Year | Features |
@@ -118,7 +113,6 @@ color: #fff;
 
 ### 2010s: Deepening of ambient and drone culture
 
-
 - **Background**: Expansion of distribution platforms such as Spotify. The rise of Lo-Fi ambient and drones.
 
 - **Features**: Immersive experience, field recording, fusion with club culture.
@@ -145,7 +139,7 @@ color: #fff;
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
 | *Promises* | Floating Points, Pharoah Sanders & LSO | 2021 | Jazz x Classical x Ambient |
-| *Lamentations* | William Basinski | 2020 | Collapse Aesthetics in the Digital Age |
+| *Lamentations* | William Basinski | 2020 | Collapsed Aesthetics in the Digital Age |
 | AI Ambient Projects | Various | 2020s | Infinitely generative music |
 | *Everything* | Slow Meadow | 2022 | Meditative Postclassical |
 
@@ -160,12 +154,12 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-A1970["1970s: Ambient music (Eno, Tangerine Dream)"]
-A1980["1980s: Museum Context (Cocteau Twins, Talk Talk)"]
-A1990["1990s: Birth of post-rock (Tortoise, GY!BE, Aphex Twin)"]
-A2000["2000s: Cinematic (Sigur Rós, EitS, Richter, Stars of the Lid)"]
-A2010["2010s: Drone/Lo-Fi (Tim Hecker, OPN, BoC)"]
-A2020["2020s: AI & Immersive (Floating Points, Basinski, AI Ambient)"]
+    A1970["1970s: Ambient music (Eno, Tangerine Dream)"]
+    A1980["1980s: Museum Context (Cocteau Twins, Talk Talk)"]
+    A1990["1990s: Birth of post-rock (Tortoise, GY!BE, Aphex Twin)"]
+    A2000["2000s: Cinematic (Sigur Rós, EitS, Richter, Stars of the Lid)"]
+    A2010["2010s: Drone/Lo-Fi (Tim Hecker, OPN, BoC)"]
+    A2020["2020s: AI & Immersive (Floating Points, Basinski, AI Ambient)"]
 
 A1970 --> A1980 --> A1990 --> A2000 --> A2010 --> A2020
 </div>

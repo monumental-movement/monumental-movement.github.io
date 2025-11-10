@@ -36,7 +36,7 @@ The two later released their only album, "Children Of Chaos".
 As a side note, Abrilos' brother-in-law is Olivier Pieters, who also worked in the import department of the record shop Target Records.
 
 #### Tracklist
-```md
+"""md
 A1. The Wave Of The Future (Large Mix)
 
 A2. The Wave Of The Future (Ryder Mix)
@@ -46,7 +46,7 @@ B1. The Wave Of The Future (Xtra Large Mix)
 B2. The Wave Of The Future (Medium Mix)
 
 B3. The Wave Of The Future (Small Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 

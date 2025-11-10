@@ -22,12 +22,12 @@ The first track on Side A is a remix by Keno Records founder, DJ and producer Da
 The second song on the B-side is a remix by Chris Delay (aka Shoeshine).
 
 #### Tracklist
-```md
+"""md
 A1. Acidition (David Keno Remix)
 A2. Acidition (Original Mix)
 
 B. Acidition (Chris Delay Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m62525588521?afid=6142608987){: .button1}
 

@@ -20,12 +20,12 @@ The producer is Aron Friedman, also known as Kelly-G, who is from the UK and bas
 A breakbeat hardcore techno track released in 1991 on Perception Records, an early UK hardcore and techno label run by Unie Weimer and Aron Friedman.
 
 #### Tracklist
-```md
+"""md
 A. Trip Into The Future
 
-AA1. PM
+AA1.PM
 AA2. Soul Fusion
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
 

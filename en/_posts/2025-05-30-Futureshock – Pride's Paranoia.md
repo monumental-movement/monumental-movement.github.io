@@ -14,7 +14,7 @@ title: Futureshock – Pride"s Paranoia
 ---
 
 
-Futureshock are UK DJ/producers Alex Tepper and Phil Dockerty.
+Futureshock is a band made up of UK DJs and producers Alex Tepper and Phil Dockerty.
 electronic duo by. Mainly active from 1998 to 2003.
 
 "Pride's Paranoia" is a progressive house track released on the label Parlophone in 2003.
@@ -24,12 +24,12 @@ The second track on side A is a remix by Ewan Pearson, who has remixed various a
 The B-side is a remix by Eric Prydz, a DJ and producer from Stockholm who also works as Cirez D and Pryda.
 
 #### Tracklist
-```md
+"""md
 A1. Pride's Paranoia (Full Length Version)
 A2. Pride's Paranoia (Ewan's Sticking Plaster Mix)
 
 B. Pride's Paranoia (Eric Prydz Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20677280102?afid=6142608987){: .button1}
 

@@ -15,16 +15,16 @@ title: VA – Thank God It"s Friday
 "VA - Thank God It's Friday" was released by Casablanca in 1978.
 
 #### Tracklist
-```md
+"""md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark
 A3. Donna Summer– With Your Love
-A4. Donna Summer– Last Dance
+A4. Donna Summer–Last Dance
 
 B1. Paul Jabara– Disco Queen
 B2. Cameo–Find My Way
 B3. The Commodores – Too Hot Ta Trot
-B4. Wright Bros. Flying Machine–Leatherman's Theme
+B4. Wright Bros. Flying Machine–Leatherman"s Theme
 B5. Marathon – I Wanna Dance
 
 C1. Sunshine – Take It To The Zoo
@@ -33,13 +33,13 @@ C3. Love And Kisses –You're The Most Precious Thing In My Life
 
 D1. D. C. La Rue –Do You Want The Real Thing
 D2. Paul Jabara– Trapped In A Stairway
-D3. Natural Juices– Floyd's Theme
+D3. Natural Juices–Floyd"s Theme
 D4. Diana Ross– Lovin', Livin' And Givin'
 D5. Thelma Houston– Love Masterpiece
 D6. Donna Summer– Last Dance (Reprise)
 
 E. Donna Summer - Je T'Aime (Moi Non Plus)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
 

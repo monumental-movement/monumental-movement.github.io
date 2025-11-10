@@ -18,15 +18,14 @@ Criminal Element Orchestra is the name of Arthur Baker's electronic/breaks/garag
 
 "When the Funk Hits the Fan" is regarded as a pioneer of neo-soul and electronic funk, and is one of Arthur Baker's signature songs.
 
-
 #### Tracklist
-```md
+"""md
 A1. When The Funk Hits The Fan (12" Vocal Version)
 A2. When The Funk Hits The Fan (Cold Rockin' The Bells Vocal Version)
 
 B1. When The Funk Hits The Fan (Tiny's Bum Rush Go-Go Thang Dub)
 B2. When The Funk Hits The Fan (Funkin' Fan Beats)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25944169624?afid=6142608987){: .button1}
 

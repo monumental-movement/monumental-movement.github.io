@@ -21,14 +21,14 @@ Side A is a remix by DJ Pierre, a pioneer of acid house sound.
 During this period, Strictly Rhythm's A&R was Gladys Pizarro.
 
 #### Tracklist
-```md
+"""md
 A. Got Me Burning Up (Pierre's Pitch Fo-Yo Ass!)
 
 B1. Got Me Burning Up (Maurice's Phat Pitch)
 B2. Wild Beats
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m92108192897?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hy8tjQq64y8?si=AK84Ypa4mw27tMmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

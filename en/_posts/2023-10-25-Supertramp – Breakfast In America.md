@@ -16,11 +16,11 @@ title: Supertramp – Breakfast In America
 Supertramp is a British rock band formed in London in 1970. "Breakfast In America" ​​was the title track of the 1979 album of the same name and became a worldwide hit.
 
 #### Tracklist
-```md
-A. Breakfast In America = ブレックファスト・イン・アメリカ
+"""md
+A. Breakfast In America = Breakfast In America
 
-B. Lord Is It Mine = すべては闇のなか
-```
+B. Lord Is It Mine = Everything is in the dark
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m63119040399?afid=6142608987){: .button1}
 

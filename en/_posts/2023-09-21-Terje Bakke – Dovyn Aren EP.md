@@ -16,15 +16,15 @@ title: Terje Bakke – Dovyn Aren EP
 
 The Dovyn Aren EP is one of his masterpieces, highlighting his signature style and musical vision, with dark, danceable beats and evolving synthesizer sounds.
 
-
 #### Tracklist
-```md
-A  Rabanne
+"""md
+A Rabanne
 
-B1  Dovyn Aren
+B1 Dovyn Aren
 
-B2  Kokolores
-```
+B2 Kokolores
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m90063547919?afid=6142608987){: .button1}
+
 

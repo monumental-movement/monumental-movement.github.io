@@ -15,18 +15,18 @@ title: Starkillers – Discoteka
 
 "Discoteka" is dance music that includes elements of genres such as electro house and progressive house.
 
-It reflects the Starkillers" signature sound style, featuring energetic beats, heavy bass lines, and driving melodies. It"s a popular track at clubs, parties and festivals.
+It reflects the Starkillers' signature sound style, featuring energetic beats, heavy bass lines, and driving melodies. It's a popular track at clubs, parties and festivals.
 
 #### Tracklist
-```md
-A1. Discoteka (ErickE Drums In The Diskoteka Remix)
+"""md
+A1. Discoteka (ErickE Drums In The Discoteka Remix)
 
 A2. Discoteka (ErickE Shake It Up Remix)
 
 B1. Discoteka (Peter Rauhofer Remix)
 
 B2. Discoteka (Beat Freakz Remix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37053695161?afid=6142608987){: .button1}
 

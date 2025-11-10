@@ -15,13 +15,12 @@ title: Psychotropic – Only For The Headstrong
 "Only For The Headstrong" is
 This is an EP by Psychotropic released in 1991 by the UK label ""02 Records.''
 
-
 #### Tracklist
-```md
+"""md
 A. Only For The Headstrong
 
 B. Only For The Headstrong (Out Of Your Head Mix)
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m27760488621?afid=6142608987){: .button1}
 

@@ -25,7 +25,7 @@ Echoes is a Japanese rock band formed in 1981 led by Hitoshi Tsuji. They release
 This record is a maxi single released by CBS/Sony in 1985. The producer is Akira Inoue.
 
 #### Tracklist
-```md
+"""md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
 A3. Time
@@ -34,9 +34,9 @@ A5. Girl School
 
 B1. Boss Is Always Bossing
 B2. Cheap Hippies
-B3. White Sunday
+B3.White Sunday
 B4. Never Told You But I Love You
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m75352266736?afid=6142608987){: .button1}
 

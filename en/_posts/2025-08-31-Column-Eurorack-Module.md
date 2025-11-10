@@ -78,7 +78,6 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 **Features**: Utilizes digital synthesis to provide modules with sharp tones and high sound pressure. Especially suitable for extreme sound creation.
 
-
 <hr>
 
 ### Influence on music genre/scene
@@ -89,7 +88,6 @@ Eurorack modular synthesizers have had a huge influence on certain musical genre
 
 Artists like Alessandro Cortini and Keith Fullerton Whitman use Eurorack to create complex and profound sonic worlds.
 
-
 #### Techno/IDM
 
 Many artists use Eurorack for live performances and studio production, creating improvisational and dynamic sounds.
@@ -97,7 +95,6 @@ Many artists use Eurorack for live performances and studio production, creating 
 #### Pop/Rock
 
 Bands like Coldplay and Nine Inch Nails have also embraced Eurorack, adding new tones to their songwriting and live performances.
-
 
 <hr>
 
@@ -107,41 +104,40 @@ Below are some of the notable artists and their signature modules that utilize E
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist name</th>
-<th>Example of module used</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alessandro Cortini</td>
-<td>Make Noise MATHS, Mutable Instruments Rings</td>
-</tr>
-<tr>
-<td>Keith Fullerton Whitman</td>
-<td>Intellijel Plonk, Mutable Instruments Clouds</td>
-</tr>
-<tr>
-<td>Aphex Twin</td>
-<td>Make Noise Erbe-Verb, Mutable Instruments Braids</td>
-</tr>
-<tr>
-<td>Coldplay</td>
-<td>Make Noise Shared System, Intellijel Metropolis</td>
-</tr>
-<tr>
-<td>Nine Inch Nails</td>
-<td>Make Noise MATHS, Mutable Instruments Clouds</td>
-</tr>
-<tr>
-<td>Surgeon</td>
-<td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Artist name</th>
+      <th>Example of module used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alessandro Cortini</td>
+      <td>Make Noise MATHS, Mutable Instruments Rings</td>
+    </tr>
+    <tr>
+      <td>Keith Fullerton Whitman</td>
+      <td>Intellijel Plonk, Mutable Instruments Clouds</td>
+    </tr>
+    <tr>
+      <td>Aphex Twin</td>
+      <td>Make Noise Erbe-Verb, Mutable Instruments Braids</td>
+    </tr>
+    <tr>
+      <td>Coldplay</td>
+      <td>Make Noise Shared System, Intellijel Metropolis</td>
+    </tr>
+    <tr>
+      <td>Nine Inch Nails</td>
+      <td>Make Noise MATHS, Mutable Instruments Clouds</td>
+    </tr>
+    <tr>
+      <td>Surgeon</td>
+      <td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
+    </tr>
+  </tbody>
 </table>
 </div>
- 
 
 <hr>
 
@@ -151,9 +147,7 @@ Surgeon's live setup is characterized by the pursuit of maximum expression with 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 <hr>
-
 
 ### From a small box to infinite sound
 

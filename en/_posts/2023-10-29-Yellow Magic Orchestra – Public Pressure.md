@@ -15,7 +15,7 @@ title: Yellow Magic Orchestra – Public Pressure
 In 1983 Yellow Magic Orchestra's Public Pressure was released on the Alfa label.
 
 #### Tracklist
-```md
+"""md
 A1. Rydeen
 
 A2. Solid State Survivor
@@ -32,8 +32,8 @@ B3. Radio Junk
 
 B4. La Femme Chinoise
 
-B5. Back In Tokio
-```
+B5. Back In Tokyo
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m68419972040?afid=6142608987){: .button1}
 

@@ -20,18 +20,17 @@ The Buggles are a British new wave band formed in 1977 by Trevor Horn and Geoff 
 
 Trevor Horn and Geoff Downes joined progressive rock band Yes after this album was released.
 
-
 #### Tracklist
-```md
+"""md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
 3. Kid Dynamo
 4. I Love You (Miss Robot)
 5. Clean, Clean
-6. Elstree
+6.Elstree
 7. Astroboy (And The Proles On Parade)
 8. Johnny On The Monorail
-```
+""""
 
 [Purchase on Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
