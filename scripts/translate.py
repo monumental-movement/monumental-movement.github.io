@@ -7,10 +7,14 @@ from deep_translator import GoogleTranslator
 # =========================================
 # 基本設定
 # =========================================
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# ✅ スクリプトが "monumental-movement.github.io/scripts/" にある場合
+# リポジトリルートを明示的に指定
 ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, "../monumental-movement.github.io"))
-SRC_DIR = os.path.join(ROOT_DIR, "_posts")         # 日本語記事
-DEST_DIR = os.path.join(ROOT_DIR, "en", "_posts")  # 英語記事
+
+SRC_DIR = os.path.join(ROOT_DIR, "_posts")          # 日本語版
+DEST_DIR = os.path.join(ROOT_DIR, "en", "_posts")   # 英語版出力先
 CACHE_FILE = os.path.join(ROOT_DIR, "translation_cache.yaml")
 
 MAX_RUNTIME = 6 * 60 * 60        # 最大6時間
