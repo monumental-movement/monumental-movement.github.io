@@ -7,18 +7,20 @@ from deep_translator import GoogleTranslator
 # =========================================
 # ディレクトリ設定
 # =========================================
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))  # リポジトリ直下
-SRC_DIR = os.path.join(ROOT_DIR, "_posts")                  # 日本語記事
-DEST_DIR = os.path.join(ROOT_DIR, "en", "_posts")           # 英語記事出力先
+# GitHub Actions 環境を想定してルートをリポジトリ直下に固定
+ROOT_DIR = os.path.abspath(os.path.dirname(__file__) + "/..")  # scripts の1階層上
+SRC_DIR = os.path.join(ROOT_DIR, "_posts")      # 日本語記事
+DEST_DIR = os.path.join(ROOT_DIR, "en", "_posts")  # 英語記事出力先
 CACHE_FILE = os.path.join(ROOT_DIR, "translation_cache.yaml")
 
 os.makedirs(DEST_DIR, exist_ok=True)
 
-print("📂 SCRIPT_DIR:", SCRIPT_DIR)
 print("📂 ROOT_DIR:", ROOT_DIR)
 print("📂 SRC_DIR:", SRC_DIR)
 print("📂 DEST_DIR:", DEST_DIR)
+print("SRC_DIR exists?", os.path.exists(SRC_DIR))
+print("DEST_DIR exists?", os.path.exists(DEST_DIR))
+print("SRC_DIR files:", os.listdir(SRC_DIR) if os.path.exists(SRC_DIR) else "N/A")
 
 # =========================================
 # 翻訳設定
@@ -141,6 +143,8 @@ try:
 
         src_path = os.path.join(SRC_DIR, filename)
         dest_path = os.path.join(DEST_DIR, filename)
+
+        print("Processing:", filename)
 
         with open(src_path, "r", encoding="utf-8") as f:
             src_content = f.read()
