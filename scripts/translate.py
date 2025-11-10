@@ -10,7 +10,7 @@ from deep_translator import GoogleTranslator
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.abspath(os.path.join(BASE_DIR, ".."))
 SRC_DIR = os.path.join(ROOT_DIR, "_posts")         # 日本語記事
-DEST_DIR = os.path.join(ROOT_DIR, "en", "_posts")  # 英語記事
+DEST_DIR = os.path.join(ROOT_DIR, "en/_posts")  # 英語記事
 CACHE_FILE = os.path.join(ROOT_DIR, "translation_cache.yaml")
 
 MAX_RUNTIME = 6 * 60 * 60        # 最大6時間
@@ -173,13 +173,13 @@ try:
         new_paragraphs = re.split(r"\n\s*\n", body)
 
         # 差分チェック
-        #if old_paragraphs == new_paragraphs and old_body.strip():
-        #    print(f"⏭️ No changes: {filename}")
-        #    continue
-        #elif old_body.strip():
-        #    print(f"🔁 Diff detected: {filename}")
-        #else:
-        #    print(f"🆕 New file: {filename}")
+        if old_paragraphs == new_paragraphs and old_body.strip():
+            print(f"⏭️ No changes: {filename}")
+            continue
+        elif old_body.strip():
+            print(f"🔁 Diff detected: {filename}")
+        else:
+            print(f"🆕 New file: {filename}")
 
         # 翻訳
         translated_paragraphs = translate_paragraphs(new_paragraphs)
