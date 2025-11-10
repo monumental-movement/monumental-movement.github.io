@@ -1,17 +1,25 @@
 /*!
- * lunrsearchengine.js (Japanese + English, modal style)
+ * lunrsearchengine.js (Multi-language + Modal version)
  * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
  */
 
 var documents = [];
 var idx = null;
 
+// --- 言語ごとに index URL を自動切り替え ---
+function getSearchIndexUrl() {
+  return window.location.pathname.startsWith("/en/")
+    ? "/en/search.html"
+    : "/search.html";
+}
+
 // --- JSON 読み込み ---
 async function loadDocuments() {
+  const indexUrl = getSearchIndexUrl();
   try {
-    const res = await fetch("/search.html");
+    const res = await fetch(indexUrl, { cache: "no-store" });
     documents = await res.json();
-    console.log("✅ Loaded", documents.length, "documents from /search.html");
+    console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
   } catch (e) {
     console.error("❌ Failed to load search index:", e);
   }
@@ -44,57 +52,51 @@ function lunr_search(term) {
     return false;
   }
 
-  try {
-    const resultBox = document.getElementById("lunrsearchresults");
-    resultBox.style.display = "block";
-    document.body.classList.add("modal-open");
+  const resultBox = document.getElementById("lunrsearchresults");
+  resultBox.style.display = "block";
+  document.body.classList.add("modal-open");
 
-    // モーダルHTML構築
-    resultBox.innerHTML = `
-      <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
-        <div class="modal-dialog shadow" role="document">
-          <div class="modal-content">
-            <div class="modal-header" id="modtit">
-              <h5 class="modal-title">Search results for '${term}'</h5>
-              <button type="button" class="close" id="btnx" aria-label="Close">&times;</button>
-            </div>
-            <div class="modal-body"><ul class="mb-0"></ul></div>
-            <div class="modal-footer">
-              <button id="btnclose" type="button" class="btn btn-primary btn-sm">Close</button>
-            </div>
+  // モーダルHTML構築
+  resultBox.innerHTML = `
+    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
+      <div class="modal-dialog shadow" role="document">
+        <div class="modal-content">
+          <div class="modal-header" id="modtit">
+            <h5 class="modal-title">Search results for '${term}'</h5>
+            <button type="button" class="close" id="btnx" aria-label="Close">&times;</button>
+          </div>
+          <div class="modal-body"><ul class="mb-0"></ul></div>
+          <div class="modal-footer">
+            <button id="btnclose" type="button" class="btn btn-primary btn-sm">Close</button>
           </div>
         </div>
       </div>
-    `;
+    </div>
+  `;
 
-    const ul = resultBox.querySelector("ul");
-    let results = [];
+  const ul = resultBox.querySelector("ul");
+  let results = [];
 
-    if (term && term.trim().length > 0) {
-      results = idx.search(term);
-    }
+  if (term && term.trim().length > 0) {
+    results = idx.search(term);
+  }
 
-    if (results.length > 0) {
-      results.forEach(function (r) {
-        console.log("📄 Hit ref:", r.ref);
-        const d = documents.find((doc) => String(doc.id) === String(r.ref));
-        console.log("📄 Matched doc:", d);
-        if (!d) return;
+  if (results.length > 0) {
+    results.forEach(function (r) {
+      const d = documents.find((doc) => String(doc.id) === String(r.ref));
+      if (!d) return;
 
-        const body = (d.body || "").substring(0, 160) + "...";
-        ul.innerHTML += `
-          <li class="lunrsearchresult">
-            <a href="${d.url}">
-              <span class="title">${d.title}</span>
-              <small><span class="body">${body}</span><span class="url">${d.url}</span></small>
-            </a>
-          </li>`;
-      });
-    } else {
-      ul.innerHTML = `<li class="lunrsearchresult">No results found. Try another keyword.</li>`;
-    }
-  } catch (e) {
-    console.error("⚠️ lunr_search() error:", e);
+      const body = (d.body || "").substring(0, 160) + "...";
+      ul.innerHTML += `
+        <li class="lunrsearchresult">
+          <a href="${d.url}">
+            <span class="title">${d.title}</span>
+            <small><span class="body">${body}</span><span class="url">${d.url}</span></small>
+          </a>
+        </li>`;
+    });
+  } else {
+    ul.innerHTML = `<li class="lunrsearchresult">No results found. Try another keyword.</li>`;
   }
 
   return false;
@@ -102,7 +104,7 @@ function lunr_search(term) {
 
 // --- モーダルのクローズ処理 ---
 $(document).on("click", "#btnx, #btnclose", function () {
-  $("#lunrsearchresults").hide(200);
+  $("#lunrsearchresults").fadeOut(200);
   $("body").removeClass("modal-open");
 });
 
