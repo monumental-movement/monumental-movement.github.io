@@ -117,7 +117,7 @@ color: #fff;
 
 ---
 
-## 世界宗教音楽タイムライン（Mermaid）
+## 世界宗教音楽タイムライン
 
 <div class="mermaid">
 
@@ -151,7 +151,7 @@ gantt
 ## 宗教音楽の心理・生理効果比較
 
 <div class="mermaid">
-  
+
 bar
     title 心理・生理効果比較（5段階）
     x-axis 効果
@@ -167,7 +167,7 @@ bar
 
 ---
 
-## 心理効果の時系列変化（Mermaidタイムチャート）
+## 心理効果の時系列変化
 
 <div class="mermaid">
 
