@@ -1,5 +1,5 @@
 /*!
- * lunrsearchengine.js (Multi-language + Modal version)
+ * lunrsearchengine.js (Multi-language + Modal)
  * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
  */
 
@@ -11,6 +11,11 @@ function getSearchIndexUrl() {
   return window.location.pathname.startsWith("/en/")
     ? "/en/search.html"
     : "/search.html";
+}
+
+// --- 現在のページ言語を判定 ---
+function getCurrentLang() {
+  return window.location.pathname.startsWith("/en/") ? "en" : "ja";
 }
 
 // --- JSON 読み込み ---
@@ -29,16 +34,26 @@ async function loadDocuments() {
 async function initLunr() {
   if (!documents.length) await loadDocuments();
 
+  const currentLang = getCurrentLang();
+  console.log("🌐 Current language:", currentLang);
+
   try {
     idx = lunr(function () {
-      this.use(lunr.multiLanguage("en", "ja"));
+      if (currentLang === "en") {
+        // 英語のみ
+        this.use(lunr.multiLanguage("en"));
+      } else {
+        // 日本語 + 英語
+        this.use(lunr.multiLanguage("ja", "en"));
+      }
+
       this.ref("id");
       this.field("title");
       this.field("body");
 
       documents.forEach((doc) => this.add(doc));
     });
-    console.log("✅ Lunr index built with multiLanguage (en, ja)");
+    console.log("✅ Lunr index built for", currentLang);
   } catch (e) {
     console.error("❌ Lunr index build failed:", e);
   }
@@ -58,7 +73,7 @@ function lunr_search(term) {
 
   // モーダルHTML構築
   resultBox.innerHTML = `
-    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog" aria-labelledby="resultsmodal">
+    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog">
       <div class="modal-dialog shadow" role="document">
         <div class="modal-content">
           <div class="modal-header" id="modtit">
@@ -78,14 +93,17 @@ function lunr_search(term) {
   let results = [];
 
   if (term && term.trim().length > 0) {
-    results = idx.search(term);
+    try {
+      results = idx.search(term);
+    } catch (e) {
+      console.error("⚠️ Search error:", e);
+    }
   }
 
   if (results.length > 0) {
     results.forEach(function (r) {
       const d = documents.find((doc) => String(doc.id) === String(r.ref));
       if (!d) return;
-
       const body = (d.body || "").substring(0, 160) + "...";
       ul.innerHTML += `
         <li class="lunrsearchresult">
