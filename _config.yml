@@ -75,6 +75,7 @@ collections:
   en_posts:
     output: true
     permalink: /en/:title/
+    source: en/_posts
 
 # ==============================
 # 多言語設定（最重要）

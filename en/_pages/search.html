@@ -6,7 +6,7 @@ permalink: /en/search.html
 
 [
 {% assign counter = 0 %}
-{% assign english_posts = site.collections["posts"].docs | where: "lang", "en" %}
+{% assign english_posts = site.collections["en_posts"].docs %}
 {% for post in english_posts %}
   {
     "id": {{ counter }},
