@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 世界の宗教音楽とその心理・社会的効果 〜図解とタイムラインで読み解く、音楽と祈りの歴史〜"
 author: mmr
 categories: [ Column ]
-tags: [ Religious, Meditation, Healing, History ]
+tags: [ Meditation, Healing, History ]
 image: ../assets/images/column-religious-music-worldmap.webp
 ---
 
@@ -42,9 +42,9 @@ color: #fff;
 * **代表演奏者**：ラヴィ・シャンカル、ビスマラ・カーン
 * **心理効果**：
 
-* 長時間の詠唱 → **瞑想状態を誘導**
-* 反復リズム → **ストレス軽減**
-* 集団唱和 → **社会的調和**
+  * 長時間の詠唱 → **瞑想状態を誘導**
+  * 反復リズム → **ストレス軽減**
+  * 集団唱和 → **社会的調和**
 
 
 
@@ -152,27 +152,16 @@ gantt
 
 <div class="mermaid">
 
-chart
-  title: 心理・生理効果比較（5段階）
-  xAxisTitle: 宗教音楽の種類
-  yAxisTitle: 効果の強度(1〜5)
-  type: bar
-  orientation: horizontal
-  series:
-    - name: 効果の強度
-      data:
-        - x: ヒンドゥー教：瞑想集中
-          y: 5
-        - x: 仏教：瞑想集中
-          y: 5
-        - x: キリスト教：感情高揚
-          y: 4
-        - x: イスラム教：浄化・集中
-          y: 5
-        - x: ユダヤ教：記憶・精神集中
-          y: 4
-        - x: アフリカ宗教：トランス・結束
-          y: 5
+graph TD
+    A[ヒンドゥー教：瞑想集中 5] -->|5| X[ ]
+    B[仏教：瞑想集中 5] -->|5| X
+    C[キリスト教：感情高揚 4] -->|4| X
+    D[イスラム教：浄化・集中 5] -->|5| X
+    E[ユダヤ教：記憶・精神集中 4] -->|4| X
+    F[アフリカ宗教：トランス・結束 5] -->|5| X
+
+    classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
+    class A,B,C,D,E,F bar;
 
 </div>
 
