@@ -65,17 +65,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# ==============================
-# Collections
-# ==============================
-collections:
-  posts:
-    output: true
-    permalink: /:title/
-  en_posts:
-    output: true
-    permalink: /en/:title/
-    source: en/_posts
 
 # ==============================
 # 多言語設定（最重要）
