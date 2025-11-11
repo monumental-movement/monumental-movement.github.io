@@ -6,14 +6,15 @@ permalink: /en/search.html
 
 [
 {% assign counter = 0 %}
-{% assign english_posts = site.en_posts %}
-{% for post in english_posts %}
+{% for post in site.posts %}
+  {% if post.lang == "en" %}
   {
     "id": {{ counter }},
     "url": "{{ post.url | absolute_url }}",
     "title": {{ post.title | strip_html | jsonify }},
-    "body": {{ post.content | markdownify | strip_html | normalize_whitespace | strip_newlines | truncatewords: 200 | jsonify }}
+    "body": {{ post.content | strip_html | normalize_whitespace | strip_newlines | truncatewords: 200 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% assign counter = counter | plus: 1 %}
+  {% endif %}
 {% endfor %}
 ]
