@@ -73,7 +73,7 @@ The chord progression uses Major 7 and 9th frequently, creating a floating feeli
 Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
-The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
+The studio's reverb processing and precision EQ achieved both transparency and humidity.
 In particular, Tatsuro Yamashita's ""SPACY'' (1978) is handed down as a monumental work that elevated the artistry of studio recording to its ultimate limit.
 The perfection of this sound is one of the reasons why it was "discovered" overseas more than 40 years later.
 
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
+That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."
@@ -147,7 +147,7 @@ In other words, this genre has transformed from being a "local Japanese culture"
 
 ---
 
-## 10. Conclusion: The era when nostalgia becomes an export product
+## 10. Conclusion: An era in which nostalgia becomes an export product
 
 The music that the Japanese once created as a ""city dream'' is now resonating with people on the other side of the world 40 years later.
 This is not just nostalgia, but a reversal in which ""the past becomes the future.''

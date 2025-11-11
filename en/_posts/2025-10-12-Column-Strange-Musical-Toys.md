@@ -141,13 +141,13 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
 - Educational synths such as Gakken's SX-150
 
-Electronic sounds can be easily experienced on desks at home or at school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
+Electronic sounds can be easily experienced on desks at home or school, and children have become familiar with the culture of ""playing with sounds.'' In modern times, digital toys like Otamatone are connected to YouTube culture, creating a new world of "cute sounds."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -163,7 +163,7 @@ Electronic sounds can be easily experienced on desks at home or at school, and c
 
 ## VII. Scandinavian irregular aesthetics
 
-In Scandinavia, small, highly designed synthesizers have appeared.
+In Scandinavia, small, highly designed synths have appeared.
 
 - Teenage Engineering OP-1
 - Pocket Operator series
@@ -206,7 +206,7 @@ The concept of "play" is once again returning to the center of music creation an
 
 ## Appendix
 
-### Evolution history of Strange Musical Toys around the world (simple chronology)
+### Evolutionary history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 

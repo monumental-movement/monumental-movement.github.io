@@ -211,7 +211,7 @@ pie title DJ Harvey's Vinyl Box Composition
 **Explanation**:
 Harvey's record box is an organic archive premised on the mixing of genres.
 What is noteworthy is that "Rock" and "House" are placed equally.
-This symbolizes the fact that he is a DJ who always connects with vibes, not genres.
+This symbolizes the fact that he is a DJ who always connects by vibe, not by genre.
 The "Oddities" slot is Harvey's secret weapon. Activates during after hours and sunrise settings.
 
 ---
@@ -227,7 +227,7 @@ C["Preview & Jacket Intuition Judgment"]
 D["Selected based on the "air" of the sound<br>(feeling rather than genre)"]
 E["Trade with local DJ<br>(exchange each other's records)"]
 F["Reorganized after returning to Japan<br>(classified by climate and time zone)"]
-G["Practical use with club set<br>(Verifying board's "field" adaptation")"]
+G["Introducing the club set into practice<br>(Verifying the "field" adaptation of the board)"]
 H["Archive / Re-recording / Edit production"]
 
 A --> B --> C --> D --> E --> F --> G --> H

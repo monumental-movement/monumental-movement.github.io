@@ -172,11 +172,11 @@ A --> B --> C --> D --> E
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Black Sabbath** | **Black Sabbath** | 1970 | A work that is said to be the birth of the world's first heavy metal. The darkening of the blues and the church bell SE are symbolic.            |
 | | **Paranoid** | 1970 | A masterpiece that established the prototype of metal. Speed, sociability, and seriousness coexist.    |
-| | **Master of Reality** | 1971 | Evolution of heavy bass with drop D tuning. The father of doom metal.      |
+| | **Master of Reality** | 1971 | Evolution of deep bass with drop D tuning. The father of doom metal.      |
 | **Deep Purple** | **Deep Purple in Rock** | 1970 | A masterpiece that laid the foundation for hard rock. A fusion of classic compositional beauty and explosive power.                    |
 | | **Fireball** | 1971 | More aggressive and experimental. It has a strong tempo change and blues feel.                  |
 | | **Machine Head** | 1972 | A level of perfection that remains in rock history. The golden ratio of riff and groove.          |
-| **Judas Priest** | **Sad Wings of Destiny** | 1976 | A metal aesthetic of melancholy and lyricism is established. The prototype of twin leads.                           |
+| **Judas Priest** | **Sad Wings of Destiny** | 1976 | A metal aesthetic of melancholy and lyricism is established. The prototype of twin lead.                           |
 | | **Sin After Sin** | 1977 | Major debut work. Produced by Roger Glover (Deep Purple). A dramatic development. |
 | | **Stained Class** | 1978 | The beginnings of speed metal. Precise and cold sound image.          |
 

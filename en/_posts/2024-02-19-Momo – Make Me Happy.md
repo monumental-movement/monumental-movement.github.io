@@ -13,7 +13,7 @@ title: Momo – Make Me Happy
 ---
 
 
-A project record released in 2000 by PostPet's pink bear "MOMO". The producer is Ken Ishii.
+A project record released in 2000 by PostPet's pink bear "MOMO".プロデューサーはKen Ishii （ケンイシイ）。
 
 The second song on side A is a remix by Heigo Tani of Co-Fusion.
 

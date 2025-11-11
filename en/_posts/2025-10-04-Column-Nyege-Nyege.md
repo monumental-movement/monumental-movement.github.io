@@ -101,7 +101,7 @@ Shingeli is a fast beat dance music that originated in Dar es Salaam, Tanzania.
 <div class="mermaid">
 
 flowchart TD
-A["Early 2000s: Dar es Salaam slums"] --> B["Improvisation performance centered on female MCs"]
+A["Early 2000s: Dar es Salaam slums"] --> B["Improvisational performance centered on female MCs"]
 B --> C["Spread by street party"]
 C --> D["Urban culture symbolization/gender equality expression"]
 D --> E["Nyege Nyege Tapes attract international attention"]

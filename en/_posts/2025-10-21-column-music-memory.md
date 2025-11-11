@@ -60,7 +60,7 @@ Spotify playlists are also just a new format.
 
 ## Chapter 2: Recording and Playback — Birth of "Recorded Time"
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humanity was able to reproduce the ""sounds of the past'' for the first time.
+At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the ""sounds of the past'' for the first time.
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
 Records, tapes, CDs, MP3s, and streaming.
@@ -95,7 +95,7 @@ Spotify"s ""Discover Weekly" and Apple Music"s ""Personal Mix" are attempts at a
 But there is also danger lurking there.
 We may be listening to "memory as data" rather than "our own memory."
 
-> Human nostalgia is being externalized by algorithms.
+> Human nostalgia is externalized by algorithms.
 
 At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
 

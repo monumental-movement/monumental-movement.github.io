@@ -83,9 +83,9 @@ Under his hands, DJs have changed from mere craftsmen who connect songs to direc
 Jefferson created "Move Your Body" to promote participatory dance experiences in clubs.
 The technique of eliciting a physical reaction from the audience through subtle changes in the intro has elevated music from a mere series of sounds to a social phenomenon.
 
-### Larry Heard — ディープハウスの精神的表現
+### Larry Heard — the spiritual expression of deep house
 
-Larry Heardは、自宅で簡単な機材を使い『Can You Feel It』を制作。  
+Larry Heard created ""Can You Feel It'' at home using simple equipment.
 With its deep meditative groove, the track not only contributed to the clubbing experience, but also to the listener's individual spiritual journey.
 
 ---

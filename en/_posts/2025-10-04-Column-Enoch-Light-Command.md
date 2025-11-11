@@ -155,7 +155,7 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during Command Records**
+- **Grand Award → Regular guitarist during the Command Records period**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
@@ -180,7 +180,7 @@ Mottola was one of the pillars that supported Command's "lounge/easy listening r
 - **Command Records regular guitarist**
 
 He almost always participates in the recordings of the Grand Award~Command established by Light.
-He was responsible for the guitar localization experiments in the "Persuasive Percussion" series.
+He was responsible for conducting guitar localization experiments in the "Persuasive Percussion" series and other works.
 
 - **Solo album release**
 

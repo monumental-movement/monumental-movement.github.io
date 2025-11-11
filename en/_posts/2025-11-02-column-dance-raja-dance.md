@@ -149,7 +149,7 @@ title Vijaya Anand and the history of South Indian film music
 1987 : "Dance Raja Dance" released
 1989: Electronic sound became popular in Kannada films, and MTV-style visual production expanded.
 1992: International success with A.R. Rehman's "Roja"
-2000 : Re-release of Vijay Anand's works, remix version released
+2000 : Re-release of Vijay Anand's works, remix edition released
 2020: "Dance Raja Dance" is rediscovered by young people on YouTube
 
 </div>

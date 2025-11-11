@@ -18,7 +18,7 @@ title: '[Column] Post-rock/ambient interaction with film and architecture'
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
 The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.
-Here, in addition to historical masterpieces, we will organize interactions with movies and architecture and ambient experiences in urban spaces.
+In addition to historical masterpieces, we will also organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
 
 ---
 
@@ -160,7 +160,7 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 Post-rock/ambient is not just a music genre, but has evolved as a method of designing time and space.
 
-Psychological expansion in film: Manipulating time with drones, loops, and soundscapes
+Psychological expansion in film: time manipulation with drones, loops, and soundscapes
 
 Applications in architecture and urban planning: the experience of staying in a space, walking lines, and harmony with urban environmental sounds
 

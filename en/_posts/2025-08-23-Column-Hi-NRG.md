@@ -74,7 +74,7 @@ A UK Hi-NRG singer who was so supported in the club scene that she was called th
 
 **Divine**
 
-While active as a drag queen, she gained worldwide attention with Hi-NRG. They boldly displayed sexual expression and integrated music and gender politics.
+While active as a drag queen, she gained worldwide attention with Hi-NRG. Boldly displaying sexual expression, they integrated music and gender politics.
 
 **Evelyn Thomas**
 A diva who defined the genre with her signature song "High Energy." It was explosively popular in gay clubs and spread Hi-NRG worldwide.

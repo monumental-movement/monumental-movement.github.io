@@ -168,5 +168,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in my heart.
+Even after the sound disappears, something remains in your heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

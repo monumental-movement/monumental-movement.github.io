@@ -14,7 +14,7 @@ title: '[Column] Detroit Techno: Human dance born from the heartbeat of machines
 
 ## "The sound of the future born from a devastated city"
 
-Text: mmr | Theme: Detroit Techno is a cultural product that combines urban history, technology, and Black American creativity.
+Text: mmr | Theme: Detroit Techno is a cultural product that combines urban history, technology, and Black American creativity
 
 Detroit techno is ""electronic music with a human touch'' that was born from the intersection of urban industrial sounds, black American dance culture, and European electronic music. In this column, we will comprehensively introduce the history of its origin, the characteristics of its sound, its main characters and representative songs, its social background, its spread around the world, and its influence to this day.
 
@@ -22,7 +22,7 @@ Detroit techno is ""electronic music with a human touch'' that was born from the
 
 ### Origins and Definition — When and Who Called it "Techno"?
 
-In Detroit in the early 1980s, electronic dance music that made full use of synths and rhythm machines grew.
+In the early 1980s in Detroit, electronic dance music that made full use of synths and rhythm machines grew.
 
 Led by Juan Atkins, Derrick May, and Kevin Saunderson (not the so-called "Berlin trio" but the "Detroit trio"), they presented a sonic aesthetic that was different from the existing "electro" and "house," and it became established as "techno."
 

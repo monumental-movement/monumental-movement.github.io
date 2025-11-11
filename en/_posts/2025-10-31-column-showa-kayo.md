@@ -163,7 +163,7 @@ Even though the Showa era has become far away, it continues to be replayed in so
 | 1950s | Formation of postwar pop songs, appearance of Hibari Misora ​​and Chiemi Eri | Foundation for sharing emotions among the masses |
 | 1970s | New music and the golden age of idols | Yumi Matsutoya, Momoe Yamaguchi, Candies |
 | 1980s | City pop maturity | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| 2010s | Discover overseas with YouTube and connect with vaporwave culture | Miki Matsubara re-evaluation |
+| 2010s | Discover overseas with YouTube and connect with vaporwave culture | Miki Matsubara re-evaluating |
 | 2020s | Global boom via TikTok and Spotify | "Showa Retro" rekindled, birth of AI Showa music |
 
 ---

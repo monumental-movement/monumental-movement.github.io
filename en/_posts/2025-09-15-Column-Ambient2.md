@@ -179,7 +179,7 @@ color: #fff;
 
 <br>
 
-### 1980年代
+### 1980s
 
 | Album | Artist | Year |
 |------|--------------|----|
@@ -259,7 +259,7 @@ color: #fff;
 | 1980s | Fairlight CMI | Expensive sampler. Introducing natural sounds and sound effects into the ambient music. |
 | 1990s | Akai S1000/S3000 | A classic sampler that supported club ambient music. |
 | 1990s | DAT recorder | Essential for long sessions and recording environmental sounds. |
-| 2000s | Ableton Live | Specialized in loop-based editing.即興的アンビエント制作を可能に。 |
+| 2000s | Ableton Live | Specialized in loop-based editing. Enables improvised ambient production. |
 | 2000s | Max/MSP | Fusion with sound art, real-time sound processing. |
 | 2010s | Omnisphere, Kontakt | High-definition soft sound source reproduces spatial texture. |
 | 2010s~ | Zoom/Tascam Field Recorder | High-quality natural sound recordings promote the spread of ambient eco-acoustics. |
@@ -283,7 +283,7 @@ color: #fff;
 ### Museum/Installation
 - **Brian Eno "77 Million Paintings"** (2006~)
 - A generative installation that combines video and sound.
-- **Ryoji Ikeda “datamatics”**（2006〜）  
+- **Ryoji Ikeda "datamatics"** (2006~)
 - Convert data to audio and video. Create a minimal and ambient immersive space.
 - **Ryuichi Sakamoto "async – Installation"** (2017, Watari Museum of Art, etc.)
 - Ambient art that explores the view of life and death and memory, combining environmental sounds and electronic sounds.
@@ -292,7 +292,7 @@ color: #fff;
 
 ---
 
-## アンビエントと建築・都市計画  
+## Ambient and architecture/urban planning
 
 Ambient has the aspect of ""acoustic architecture.''
 - **Airports (Eno's Music for Airports)**: Resonance of architectural space and sound.

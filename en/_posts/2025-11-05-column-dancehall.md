@@ -55,7 +55,7 @@ In post-war Jamaica, record store owners and young music lovers loaded up trucks
 A typical initial system is:
 
 | Operator | Name | Activity period | Characteristics |
-|---------------|------|-----------|------|
+|------|------|------------|------|
 | Tom the Great Sebastian | 1950s | Mainly jazz and R&B. The earliest "mobile" systems |
 | Duke Reid | Duke Reid the Trojan | 1950s-60s | A famous gun-wielding operator who graduated from the police force. Later founded Treasure Isle |
 | Clement "Coxsone" Dodd | Sir Coxsone Downbeat | 1950s~ | Former Studio One. Leading the ska era |

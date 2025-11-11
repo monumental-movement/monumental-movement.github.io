@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### Highlights & recommended listening order (beginner → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 
@@ -453,7 +453,7 @@ The sound "Ya Ho Wha" itself is a sacred mantra of the Source Family, an express
 
 **Re-evaluated in a krautrock context**: Amon Düül II and Can's fan base discovers Yahowha 13 as an "acid jam."
 
-**Extensive range of reissues**: Since 1998, numerous reprints have been made through Captain Trip (actually a Japanese label) and German distributors.
+**Extensive reissues**: Since 1998, numerous reissues have been made through Captain Trip (actually a Japanese label) and German distributors.
 
 **Evaluation trends**: It was considered ""close to European avant-garde and improvisational music,'' and emphasis was placed on musical purity.
 
@@ -505,7 +505,7 @@ According to family accounts, Yod (James Edward Baker) was originally a restaura
 
 It is said that he was aware of his role in music as a ""conduit of energy" rather than a ""performer."
 
-Member Octavius ​​says, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
+Member Octavius ​​testifies, ""He let us play, but at the same time he was 'listening' to us.His gaze and his breathing determined the direction of the session.''
 
 ---
 

@@ -175,7 +175,7 @@ A --> G["Collaboration with Michael Nyman"]
 ### Conclusion
 
 - **Lyric Interpretation**: This Heat critiques the Cold War both lyrically and sonically.
-- **Cunningham's recording philosophy**: Uses equipment such as Revox, Studer, and EQ as a "political metaphorical device."
+- **Cunningham's recording philosophy**: Uses equipment such as Revox, Studer, and EQ as "political metaphorical devices."
 - **Historical significance of experimental music**: Beyond post-punk, it is directly connected to the foundations of modern sampling/DAW culture and even AI music production.
 
 Their music is still a group of works that should be reevaluated as ""recording = criticism = experiment.''

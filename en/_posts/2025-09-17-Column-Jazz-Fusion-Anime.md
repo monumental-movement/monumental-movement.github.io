@@ -9,8 +9,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Column] The affinity between anime and jazz/fusion: A story of city nights
-  and music'
+title: '[Column] Affinity between anime and jazz/fusion: A story of city nights and
+  music'
 ---
 
 

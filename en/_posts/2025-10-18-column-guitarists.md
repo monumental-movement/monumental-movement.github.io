@@ -107,7 +107,7 @@ color: #fff;
 
 ---
 
-# III. Japan: A history of silent and roaring guitarists
+# III. Japan: Silence and Roaring History of Guitarists
 
 ## 1. After the war and the dawn of electric power (1950s to 1970s)
 
@@ -192,7 +192,7 @@ The guitar is not just a musical instrument, but a device for self-expression.
 
 - **Pedal board philosophy**: Sound creation = ego design. Each pedal becomes an extension of the player's personality.
 - **Loop/Glitch/DAW**: Extended "finger memory". A single performer can perform orchestral expression.
-- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the Kyoto underground to the world. Influenced improvisational and experimental music both domestically and internationally.
+- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the world from the Kyoto underground. Influenced improvisational and experimental music both domestically and internationally.
 
 Keiji Haino treats the guitar as an extension of his body and mind, and is a presence that shakes the listener's senses with the extremes of sound. The trinity of improvisation, destruction, and expression becomes an important coordinate in the history of Japanese underground guitar.
 

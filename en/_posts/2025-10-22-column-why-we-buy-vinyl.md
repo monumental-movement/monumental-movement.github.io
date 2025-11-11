@@ -162,7 +162,7 @@ flowchart TD
 A1877["1877: Edison invented the phonograph"] --> A1901["1901: Spread of SP (Shellac Record)"]
 A1901 --> A1948["1948: LP record debut (Columbia Records)"]
 A1948 --> A1963["1963: Birth of compact cassette"]
-A1963 --> A1982["1982: CD debut — the dawn of the digital era"]
+A1963 --> A1982["1982: The advent of CD — the beginning of the digital era"]
 A1982 --> A1999["1999: MP3 revolution/emergence of Napster"]
 A1999 --> A2010["2010s: Vinyl Revival — Global Record Reappraisal"]
 A2010 --> A2020["2020s: Signs of AI music and analog recombination"]
