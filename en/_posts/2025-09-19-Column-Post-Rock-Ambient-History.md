@@ -51,7 +51,7 @@ color: #fff;
 | *Discreet Music* | Brian Eno | 1975 | Tape Loop Experiment |
 
 **Main equipment**
-- Moog Modular
+-Moog Modular
 - EMS Synthi AKS
 - Revox A77 Tape
 

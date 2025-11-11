@@ -396,7 +396,7 @@ click A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Source: Bitches Brew sess
 <div class="mermaid">
 
 graph TD
-subgraph EditMap["Teo Macero"s Editing Blueprint"]
+subgraph EditMap["Teo Macero's Editing Blueprint"]
 E1["Segment A (0:00–5:15): Theme Intro"] --> E2["Segment B (5:16–9:48): Solo + Layer"]
 E2 --> E3["Segment C (9:49–15:30): Percussion Jam"]
 E3 --> E4["Segment D (15:31–21:10): Guitar + Organ Overlay"]

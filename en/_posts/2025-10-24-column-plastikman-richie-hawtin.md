@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

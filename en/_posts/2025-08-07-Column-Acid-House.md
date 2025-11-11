@@ -52,7 +52,7 @@ The most important characteristics of acid house are the following sound element
 
 <hr>
 
-#### Quadruple kick
+#### Four kicks
 
 - BPM is a stable tempo of around 120-130
 

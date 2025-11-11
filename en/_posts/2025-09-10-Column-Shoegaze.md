@@ -202,5 +202,5 @@ Sometimes | Always | JAMC & Hope Sandoval | The line between noise and pop |
 
 ---
 
-# 轟音と美旋律の狭間で揺れる  
+# Swaying between a roaring sound and a beautiful melody
 Shoegaze sprouted in the late 1980s, reached its golden age in the 1990s, and although it once declined, it has been revived since the 2000s. From the 2010s to the present, its musicality has continued to be loved all over the world, even as it has diversified and subdivided. This genre, which oscillates between roaring sounds and beautiful melodies, continues to have a strong influence on today's digital generation.

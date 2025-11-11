@@ -9,7 +9,7 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: DJ Dakar – Young In Paradise / It's Gonna Down
+title: DJ Dakar – Young In Paradise / It"s Gonna Down
 ---
 
 

@@ -172,7 +172,7 @@ It is a ""quiet methodology'' through which music restores social solidarity.
 | 2007 | "Afriki" focuses on African solidarity |
 | 2014 | "Soo" released, symbolically portraying post-civil war Mali |
 | 2023 | African Cultural Achievement Award |
-| 2025 | "Acoustic Mali Project" begins, young guitarist support program established |
+| 2025 | "Acoustic Mali Project" starts, young guitarist support program established |
 
 ---
 

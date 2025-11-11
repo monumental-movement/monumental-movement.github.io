@@ -91,7 +91,7 @@ It can be said that this was the era when Toop's style, which combines criticism
 
 ""Ocean of Sound," known for its metaphor of ""sea of ​​sound," contained insights that anticipated the spread of streaming.
 The text, which is a fusion of essays, criticism, and literature, goes beyond the framework of a music book and functions as ""aural literature.''
-His own ambient works also presented a world of soft and diffused sounds.
+His ambient works also presented a world of soft and diffused sounds.
 
 | Year | Featured sound sources/artists | Commentary |
 |------|----------------|------|

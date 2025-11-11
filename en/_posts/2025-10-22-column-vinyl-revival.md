@@ -126,7 +126,7 @@ pie title Global Vinyl Market Share (2025 estimate)
 "North America" ​​: 42
 "Europe" : 30
 "Asia Pacific" : 18
-"South America/Others": 10
+"South America/Others" : 10
 
 </div>
 

@@ -43,7 +43,7 @@ color: #fff;
 The **TR-1000** released by Roland in 2025 is not just an extension of the series.
 808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an "intellectual rhythm machine" that learns and reinterprets "human beats."
 
-In the 1980s, electronic rhythms were called the "mechanical heartbeat."だがTR-1000が提示するのは、その反対──**"機械が人間の鼓動を理解する"**という構図だ。
+In the 1980s, electronic rhythms were called the "mechanical heartbeat." However, what the TR-1000 presents is the opposite -- **"a machine understands the human heartbeat"**.
 Digital and analog, AI and emotions. On this border lies the philosophy that Roland has spent half a century cultivating.
 
 > "Rhythm is the act of making time sound. But what if time itself could be played?"

@@ -93,7 +93,7 @@ In the early 2000s, electro came back into the limelight.
 
 **Electro House Connection**: French/German artists like Justice and Digitalism have taken the club scene by storm by fusing electro-inspired synth riffs with house 4/4.
 
-The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
+2003年から活動するフランスのエレクトロニックダンスバンドJusticeのデビューアルバムは、フランスのレーベルEd Banger Records(エドバンガーレコード)から2007年にリリースされ、グラミー賞のベスト・エレクトロニック/ダンス・アルバム部門にノミネートされるなど世界的な成功を収めた。
 
 #### Tracklist
 ```md
@@ -111,7 +111,7 @@ The debut album by Justice, a French electronic dance band active since 2003, wa
 12. One Minute To Midnight
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

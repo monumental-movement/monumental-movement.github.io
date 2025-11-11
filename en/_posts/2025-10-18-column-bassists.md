@@ -264,7 +264,7 @@ Rhythm["Rhythm Foundation\n(Timekeeping)"]
 Harmony["Basics of chords\n(root/progression)"]
 Groove["Creating a groove\n(feel/nuance)"]
 Texture["Tone/Texture\n(Tone/Effect)"]
-Lead["Melody/Solo"]
+Lead["Melody/Solo\n(Turn to the front)"]
 Design["Sound design\n(synth bass/programming)"]
 
 

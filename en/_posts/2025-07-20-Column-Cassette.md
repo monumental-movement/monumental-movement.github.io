@@ -108,7 +108,7 @@ Cassette tapes are mainly classified into four types:
 <tr>
 <td>Type II (Chrome)</td>
 <td>Chromium oxide (CrO2)</td>
-<td>Excellent treble characteristics and good noise reduction</td>
+<td>Excellent high-frequency characteristics and good noise reduction</td>
 <td>High quality recording for music playback</td>
 </tr>
 <tr>

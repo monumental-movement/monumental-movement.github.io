@@ -162,7 +162,7 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 <hr>
 
-### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 

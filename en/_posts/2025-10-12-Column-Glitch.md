@@ -197,7 +197,7 @@ color: #fff;
 
 #### Glitch must-listen discography
 
-| Year | Artist | Title of work (Amazon link) | Notes |
+| Year | Artist | Work title (Amazon link) | Notes |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval | [94diskont](https://amzn.to/47k6D9b) | Monument of "CD Kuon" |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |

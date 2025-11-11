@@ -127,7 +127,7 @@ Just as rave was a "physical experience," zine is also a "physical medium."
 
 ### Rave Archive
 
-Founded in 2007, Rave Archive is an archive that preserves and shares memories of rave culture in the 90s. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+Founded in 2007, Rave Archive is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
 [Rave Archive](https://ravearchive.com)
 

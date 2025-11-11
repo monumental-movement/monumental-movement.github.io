@@ -20,7 +20,7 @@ Text: mmr | Theme: Autechre by Sean Booth and Rob Brown. Tracing the evolution o
 Autechre is more than just an electronic music duo.
 Their sound is both mathematical and raw. It looks cold and leaves a somewhat human roughness. Sean Booth and Rob Brown, two young men who met in north Manchester, set out on a path to redefining the very structure of sound, using hip-hop and engineering curiosity as starting points.
 
-In the early 1990s, Autechre was a standout among Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
+In the early 1990s, Autechre stood out in Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
 
 > "Techno for us is not about eliminating emotion, but expressing it through structure."
 
@@ -117,7 +117,7 @@ In 2020, Autechre presents a new chapter of the two-disc set.
 Amidst the algorithmic precision, there is a tranquil, organic fluctuation.
 
 Among listeners, it is often said that "Autechre redefined Ambient."
-The tracks on ""SIGN" sound like a machine learning ""silence".
+The tracks on ""SIGN" sound like a machine learning ""silence."
 Their sound is always walking the middle ground between the future and nostalgia.
 
 ---
