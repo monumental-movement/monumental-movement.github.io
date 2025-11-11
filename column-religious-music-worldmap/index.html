@@ -230,8 +230,6 @@
     <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#History">History</a>               
                     
     <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Meditation">Meditation</a>               
-                    
-    <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Religious">Religious</a>               
     
 
     <div class="d-flex align-items-center mt-4">
@@ -298,10 +296,13 @@ color: #fff;
   <li><strong>代表演奏者</strong>：ラヴィ・シャンカル、ビスマラ・カーン</li>
   <li>
     <p><strong>心理効果</strong>：</p>
+
+    <ul>
+      <li>長時間の詠唱 → <strong>瞑想状態を誘導</strong></li>
+      <li>反復リズム → <strong>ストレス軽減</strong></li>
+      <li>集団唱和 → <strong>社会的調和</strong></li>
+    </ul>
   </li>
-  <li>長時間の詠唱 → <strong>瞑想状態を誘導</strong></li>
-  <li>反復リズム → <strong>ストレス軽減</strong></li>
-  <li>集団唱和 → <strong>社会的調和</strong></li>
 </ul>
 
 <hr />
@@ -457,27 +458,16 @@ gantt
 
 <div class="mermaid">
 
-chart
-  title: 心理・生理効果比較（5段階）
-  xAxisTitle: 宗教音楽の種類
-  yAxisTitle: 効果の強度(1〜5)
-  type: bar
-  orientation: horizontal
-  series:
-    - name: 効果の強度
-      data:
-        - x: ヒンドゥー教：瞑想集中
-          y: 5
-        - x: 仏教：瞑想集中
-          y: 5
-        - x: キリスト教：感情高揚
-          y: 4
-        - x: イスラム教：浄化・集中
-          y: 5
-        - x: ユダヤ教：記憶・精神集中
-          y: 4
-        - x: アフリカ宗教：トランス・結束
-          y: 5
+graph TD
+    A[ヒンドゥー教：瞑想集中 5] --&gt;|5| X[ ]
+    B[仏教：瞑想集中 5] --&gt;|5| X
+    C[キリスト教：感情高揚 4] --&gt;|4| X
+    D[イスラム教：浄化・集中 5] --&gt;|5| X
+    E[ユダヤ教：記憶・精神集中 4] --&gt;|4| X
+    F[アフリカ宗教：トランス・結束 5] --&gt;|5| X
+
+    classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
+    class A,B,C,D,E,F bar;
 
 </div>
 
@@ -600,7 +590,7 @@ timeline
     </p>
     <ul>
         <li class="ml-1 mr-1">
-            <a target="_blank" href="https://twitter.com/intent/tweet?text=【コラム】 世界の宗教音楽とその心理・社会的効果 〜図解とタイムラインで読み解く、音楽と祈りの歴史〜&url=https://monumental-movement.jp/column-religious-music-worldmap/&hashtags=Religious,Meditation,Healing,History" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=【コラム】 世界の宗教音楽とその心理・社会的効果 〜図解とタイムラインで読み解く、音楽と祈りの歴史〜&url=https://monumental-movement.jp/column-religious-music-worldmap/&hashtags=Meditation,Healing,History" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                 <i class="fab fa-x-twitter"></i>
             </a>
         </li>
@@ -645,8 +635,6 @@ timeline
     <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#History">History</a>               
                   
     <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Meditation">Meditation</a>               
-                  
-    <a class="smoothscroll badge badge-primary text-capitalize" href="/tags#Religious">Religious</a>               
   
 
   </div>
