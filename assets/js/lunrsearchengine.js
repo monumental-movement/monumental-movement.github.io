@@ -1,6 +1,5 @@
 /*!
- * lunrsearchengine.js (Multi-language + Modal)
- * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
+ * lunrsearchengine.js (Multi-language + Modal, Fixed English mode)
  */
 
 var documents = [];
@@ -40,10 +39,10 @@ async function initLunr() {
   try {
     idx = lunr(function () {
       if (currentLang === "en") {
-        // 英語のみ
-        this.use(lunr.multiLanguage("en"));
+        // ✅ 英語ページでは英語トークナイザーのみ使用
+        this.use(lunr.en);
       } else {
-        // 日本語 + 英語
+        // ✅ 日本語ページでは日本語 + 英語
         this.use(lunr.multiLanguage("ja", "en"));
       }
 
@@ -53,6 +52,7 @@ async function initLunr() {
 
       documents.forEach((doc) => this.add(doc));
     });
+
     console.log("✅ Lunr index built for", currentLang);
   } catch (e) {
     console.error("❌ Lunr index build failed:", e);
