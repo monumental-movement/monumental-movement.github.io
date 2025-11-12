@@ -247,7 +247,7 @@ Below is a section introducing representative musicians/singers who have made si
 
 - **・Tetsuya Komuro**
 
-A composer and producer who led the Japanese pop music scene from the 1980s to the 1990s. He created the theme song "Beyond the Time ~Beyond the Mobius Universe~" for "Mobile Suit Gundam: Char's Counterattack" released in 1988, creating a turning point in the history of Gundam music. ([Wikipedia][6])
+A composer and producer who led the Japanese pop music scene from the 1980s to the 1990s. He created the theme song "Beyond the Time ~Beyond the Mobius Universe~" for "Mobile Suit Gundam: Char's Counterattack" released in 1988, creating a turning point in the history of Gundam music. 
 
 - **Neil Sedaka**
 
@@ -255,12 +255,10 @@ American pop composer/singer. In 1985, he participated in the composition of the
 
 - **TWO‑MIX**
 
-A pop unit that represented the anime song scene in the late 1990s. They attracted attention with the opening song ""Just Communication" of ""Mobile Suit Gundam W", and symbolized the ""pop-ization'' of Gundam music with a song composition centered on synth pop. ([Wikipedia][3])
+A pop unit that represented the anime song scene in the late 1990s. They attracted attention with the opening song ""Just Communication" of ""Mobile Suit Gundam W", and symbolized the ""pop-ization'' of Gundam music with a song composition centered on synth pop. 
 
 - **Hiroko Moriguchi**
 
-A singer who has been active from the 1980s to the present day. He has been responsible for many theme songs for the Gundam series, including the opening theme song for "Mobile Suit Zeta Gundam", "With Love to the Star of Water" and the theme song for "Mobile Suit Gundam F91", "ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~". ([Wikipedia][1])
-
-(In addition, we can introduce a wide range of composers, arrangers, and singers related to voice actors.)
+A singer who has been active from the 1980s to the present day. He has been responsible for many theme songs for the Gundam series, including the opening theme song for "Mobile Suit Zeta Gundam", "With Love to the Star of Water" and the theme song for "Mobile Suit Gundam F91", "ETERNAL WIND ~Hohoemi wa Hikaru Kaze no Naka~". 
 
 ---
