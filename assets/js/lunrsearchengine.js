@@ -1,17 +1,18 @@
 /*!
- * lunrsearchengine.js (GitHub Pages Safe + Modal, fixed English indexing)
+ * lunrsearchengine.js (Universal Multi-language + Modal, GitHub Pages Safe)
+ * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
  */
 
 var documents = [];
 var idx = null;
 
-// --- 言語・パス設定 ---
+// --- 言語・パス自動判定 ---
 function getSearchIndexUrl() {
   const path = window.location.pathname;
   if (path.includes("/en/")) {
-    return window.location.origin + "/en/search.html";
+    return "/en/search.html";
   } else {
-    return window.location.origin + "/search.html";
+    return "/search.html";
   }
 }
 
@@ -22,7 +23,7 @@ async function loadDocuments() {
 
   try {
     const res = await fetch(indexUrl, { cache: "no-store" });
-    if (!res.ok) throw new Error(res.status + " " + res.statusText);
+    if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
     documents = await res.json();
     console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
   } catch (e) {
@@ -30,41 +31,36 @@ async function loadDocuments() {
   }
 }
 
-// --- 言語判定 ---
-function getCurrentLang() {
-  return window.location.pathname.includes("/en/") ? "en" : "ja";
-}
-
 // --- Lunr 初期化 ---
 async function initLunr() {
   if (!documents.length) await loadDocuments();
 
-  const lang = getCurrentLang();
-  console.log("🌐 Building Lunr index for:", lang);
-
+  console.log("🌐 Building Lunr index...");
   try {
     idx = lunr(function () {
-      if (lang === "en") {
-        this.use(lunr.multiLanguage("en"));
-      } else {
-        this.use(lunr.multiLanguage("ja", "en"));
-      }
+      // 両言語とも multiLanguage に統一（安全）
+      this.use(lunr.multiLanguage("en", "ja"));
       this.ref("id");
       this.field("title");
       this.field("body");
-      documents.forEach((doc) => this.add(doc));
+
+      documents.forEach((doc) => {
+        if (doc.title && doc.body) {
+          this.add(doc);
+        }
+      });
     });
-    console.log(`✅ Lunr index built successfully for ${lang}`);
+    console.log("✅ Lunr index built with multiLanguage(en, ja)");
   } catch (e) {
-    console.error("❌ Lunr build failed:", e);
+    console.error("❌ Lunr index build failed:", e);
   }
 }
 
-// --- 検索（モーダル付き） ---
+// --- 検索実行（モーダル付き） ---
 function lunr_search(term) {
   console.log("🔍 Searching:", term);
   if (!idx) {
-    console.warn("⚠️ Lunr index not ready yet");
+    console.warn("⚠️ Lunr index not ready yet.");
     return false;
   }
 
@@ -99,6 +95,11 @@ function lunr_search(term) {
     console.error("❌ Search error:", e);
   }
 
+  if (!documents.length) {
+    ul.innerHTML = `<li>⚠️ No index loaded. Please refresh.</li>`;
+    return false;
+  }
+
   if (results.length > 0) {
     results.forEach((r) => {
       const d = documents.find((doc) => String(doc.id) === String(r.ref));
@@ -113,7 +114,7 @@ function lunr_search(term) {
         </li>`;
     });
   } else {
-    ul.innerHTML = `<li>No results found.</li>`;
+    ul.innerHTML = `<li>No results found. Try another keyword.</li>`;
   }
 
   return false;
