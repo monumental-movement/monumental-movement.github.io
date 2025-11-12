@@ -18,19 +18,25 @@ function getCurrentLang() {
   return window.location.pathname.startsWith("/en/") ? "en" : "ja";
 }
 
-// --- JSON 読み込み ---
+// --- JSON 読み込み（GitHub Pages対応：相対URL解決付き） ---
 async function loadDocuments() {
+  // 現在のURLから基準パスを算出
+  let base = window.location.origin;
   let indexUrl = "/search.html";
 
-  // 英語ページなら強制的に /en/search.html にする
   if (window.location.pathname.startsWith("/en/")) {
     indexUrl = "/en/search.html";
   }
 
+  // GitHub Pages 環境では、相対パスでのfetchが安全
+  const fullUrl = base + indexUrl;
+  console.log("🌐 Trying to fetch index:", fullUrl);
+
   try {
-    const res = await fetch(indexUrl, { cache: "no-store" });
+    const res = await fetch(fullUrl, { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status + " " + res.statusText);
     documents = await res.json();
-    console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
+    console.log(`✅ Loaded ${documents.length} documents from ${fullUrl}`);
   } catch (e) {
     console.error("❌ Failed to load search index:", e);
   }
