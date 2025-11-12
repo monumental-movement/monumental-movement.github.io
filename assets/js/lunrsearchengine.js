@@ -1,132 +1,89 @@
-/*!
- * lunrsearchengine.js (GitHub Pages Safe + Modal, fixed English indexing)
- */
+---
+layout: null
+sitemap: false
+---
 
-var documents = [];
-var idx = null;
+{% assign counter = 0 %}
+var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "title": "{{ page.title }}",
+    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    }, {% endif %}{% endfor %}{% for page in site.without-plugin %}{
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "title": "{{ page.title }}",
+    "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    }, {% endfor %}{% for page in site.posts %}{
+    "id": {{ counter }},
+    "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
+    "title": "{{ page.title }}",
+    "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
 
-// --- 言語・パス設定 ---
-function getSearchIndexUrl() {
-  const path = window.location.pathname;
-  if (path.includes("/en/")) {
-    return window.location.origin + "{{ site.baseurl }}/en/search.html";
-  } else {
-    return window.location.origin + "/search.html";
-  }
-}
+var idx = lunr(function () {
+    this.ref('id')
+    this.field('title')
+    this.field('body')
 
-// --- JSON 読み込み ---
-async function loadDocuments() {
-  const indexUrl = getSearchIndexUrl();
-  console.log("🌐 Fetching index from:", indexUrl);
-
-  try {
-    const res = await fetch(indexUrl, { cache: "no-store" });
-    if (!res.ok) throw new Error(res.status + " " + res.statusText);
-    documents = await res.json();
-    console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
-  } catch (e) {
-    console.error("❌ Failed to load search index:", e);
-  }
-}
-
-// --- 言語判定 ---
-function getCurrentLang() {
-  return window.location.pathname.includes("/en/") ? "en" : "ja";
-}
-
-// --- Lunr 初期化 ---
-async function initLunr() {
-  if (!documents.length) await loadDocuments();
-
-  const lang = getCurrentLang();
-  console.log("🌐 Building Lunr index for:", lang);
-
-  try {
-    idx = lunr(function () {
-      if (lang === "en") {
-        this.use(lunr.multiLanguage("en"));
-      } else {
-        this.use(lunr.multiLanguage("ja", "en"));
-      }
-      this.ref("id");
-      this.field("title");
-      this.field("body");
-      documents.forEach((doc) => this.add(doc));
-    });
-    console.log(`✅ Lunr index built successfully for ${lang}`);
-  } catch (e) {
-    console.error("❌ Lunr build failed:", e);
-  }
-}
-
-// --- 検索（モーダル付き） ---
-function lunr_search(term) {
-  console.log("🔍 Searching:", term);
-  if (!idx) {
-    console.warn("⚠️ Lunr index not ready yet");
-    return false;
-  }
-
-  const resultBox = document.getElementById("lunrsearchresults");
-  resultBox.style.display = "block";
-  document.body.classList.add("modal-open");
-
-  resultBox.innerHTML = `
-    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1">
-      <div class="modal-dialog shadow" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title">Search results for '${term}'</h5>
-            <button type="button" class="close" id="btnx">&times;</button>
-          </div>
-          <div class="modal-body"><ul class="mb-0"></ul></div>
-          <div class="modal-footer">
-            <button id="btnclose" class="btn btn-primary btn-sm">Close</button>
-          </div>
-        </div>
-      </div>
-    </div>`;
-
-  const ul = resultBox.querySelector("ul");
-  let results = [];
-
-  try {
-    if (term && term.trim().length > 0) {
-      results = idx.search(term);
-    }
-  } catch (e) {
-    console.error("❌ Search error:", e);
-  }
-
-  if (results.length > 0) {
-    results.forEach((r) => {
-      const d = documents.find((doc) => String(doc.id) === String(r.ref));
-      if (!d) return;
-      const body = (d.body || "").substring(0, 160) + "...";
-      ul.innerHTML += `
-        <li class="lunrsearchresult">
-          <a href="${d.url}">
-            <span class="title">${d.title}</span>
-            <small><span class="body">${body}</span></small>
-          </a>
-        </li>`;
-    });
-  } else {
-    ul.innerHTML = `<li>No results found.</li>`;
-  }
-
-  return false;
-}
-
-// --- モーダル閉じる ---
-$(document).on("click", "#btnx, #btnclose", function () {
-  $("#lunrsearchresults").fadeOut(200);
-  $("body").removeClass("modal-open");
+    documents.forEach(function (doc) {
+        this.add(doc)
+    }, this)
 });
+function lunr_search(term) {
+    document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
+    if(term) {
+        document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
+        //put results on the screen.
+        var results = idx.search(term);
+        if(results.length>0){
+            //console.log(idx.search(term));
+            //if results
+            for (var i = 0; i < results.length; i++) {
+                // more statements
+                var ref = results[i]['ref'];
+                var url = documents[ref]['url'];
+                var title = documents[ref]['title'];
+                var body = documents[ref]['body'].substring(0,160)+'...';
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><span class='body'>"+ body +"</span><span class='url'>"+ url +"</span></a></li>";
+            }
+        } else {
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>No results found...</li>";
+        }
+    }
+    return false;
+}
 
-// --- 起動 ---
-document.addEventListener("DOMContentLoaded", async () => {
-  await loadDocuments();
-  await initLunr();
+function lunr_search(term) {
+    $('#lunrsearchresults').show( 400 );
+    $( "body" ).addClass( "modal-open" );
+    
+    document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
+    if(term) {
+        document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Search results for '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
+        //put results on the screen.
+        var results = idx.search(term);
+        if(results.length>0){
+            //console.log(idx.search(term));
+            //if results
+            for (var i = 0; i < results.length; i++) {
+                // more statements
+                var ref = results[i]['ref'];
+                var url = documents[ref]['url'];
+                var title = documents[ref]['title'];
+                var body = documents[ref]['body'].substring(0,160)+'...';
+                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><small><span class='body'>"+ body +"</span><span class='url'>"+ url +"</span></small></a></li>";
+            }
+        } else {
+            document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Sorry, no results found. Close & try a different search!</li>";
+        }
+    }
+    return false;
+}
+
+$(function() {
+    $("#lunrsearchresults").on('click', '#btnx', function () {
+        $('#lunrsearchresults').hide( 5 );
+        $( "body" ).removeClass( "modal-open" );
+    });
 });
