@@ -20,7 +20,13 @@ function getCurrentLang() {
 
 // --- JSON 読み込み ---
 async function loadDocuments() {
-  const indexUrl = getSearchIndexUrl();
+  let indexUrl = "/search.html";
+
+  // 英語ページなら強制的に /en/search.html にする
+  if (window.location.pathname.startsWith("/en/")) {
+    indexUrl = "/en/search.html";
+  }
+
   try {
     const res = await fetch(indexUrl, { cache: "no-store" });
     documents = await res.json();
