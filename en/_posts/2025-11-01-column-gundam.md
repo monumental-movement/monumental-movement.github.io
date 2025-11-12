@@ -157,8 +157,8 @@ In this way, "sound" helps the interpretation of the story, and by "listening" i
 
 ### 4.2 Lyric analysis example of theme song/insert song
 
-For example, the 1985 song "Water Star with Love" (sung by Hiroko Moriguchi) was written and composed by a foreign writer, and incorporates the keywords "earth," "space," and "future" into the lyrics, and sings of the loneliness of fighting and the hope of wishing for. ([Wikipedia][1])
-In addition, the ending theme of the 1988 movie version of Mobile Suit Gundam: Char's Counterattack, ""Beyond the Time~Beyond the Moebius Universe~" (sung by TM NETWORK), expressed the themes of ""Who do we fight for?" and ""An Endless Battle'' with magnificent music. ([Wikipedia][6])
+For example, the 1985 song "Water Star with Love" (sung by Hiroko Moriguchi) was written and composed by a foreign writer, and incorporates the keywords "earth," "space," and "future" into the lyrics, and sings of the loneliness of fighting and the hope of wishing for. 
+In addition, the ending theme of the 1988 movie version of Mobile Suit Gundam: Char's Counterattack, ""Beyond the Time~Beyond the Moebius Universe~" (sung by TM NETWORK), expressed the themes of ""Who do we fight for?" and ""An Endless Battle'' with magnificent music. 
 In this way, deciphering the meaning behind the lyrics and melodies of theme songs and insert songs is extremely effective in understanding the story world of Gundam musically.
 
 ### 4.3 Deep exploration of BGM and the worldview of the series
@@ -172,7 +172,7 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 ### 5.1 Live/cover version of theme song/insert song
 
-Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture." ([Studio Rag][2])
+Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
 
 ### 5.2 Gundam as a musical work: remix, arrangement, planning edition
@@ -192,13 +192,13 @@ Furthermore, the medium of music is easily shared across generations. The compos
 
 ### 6.2 Technological innovation (distribution/streaming/live) and music monetization
 
-In recent years, with the shift from CDs to distribution and streaming, the distribution method for anime music has changed significantly. Gundam music is no exception, and has become increasingly diverse with download benefits, limited edition LPs, and advance distribution releases. ([I love Japanese anime!!][4])
+In recent years, with the shift from CDs to distribution and streaming, the distribution method for anime music has changed significantly. Gundam music is no exception, and has become increasingly diverse with download benefits, limited edition LPs, and advance distribution releases. 
 In addition, "music as an experience" such as live shows, VR, and concerts is becoming increasingly important, and the cross-media development of music x video x live performances is the key to shaping the future of Gundam music.
 
 ### 6.3 The future of Gundam/music: Expected developments after 2025
 
 From 2023 onwards, the musical quality of Gundam works will continue to reach even higher heights through new releases such as ""The Witch of Mercury.'' For example, orchestral recordings, overseas studio recordings, and vinyl reissues are in progress.
-After 2025, it is expected that the era of "listening to music" will shift from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc. Figure 3 shows a prediction table of music release media and consumption models (vertical: medium/horizontal: music type) from 2025 to 2030.
+After 2025, it is expected that the era of "listening to music" will shift from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc. 
 
 ---
 
@@ -227,7 +227,7 @@ Below is a chronology including works, theme songs/insert songs, composers/singe
 
 ### List of theme songs and insert songs (table format appendix)
 
-Below is an excerpt list of major works and representative songs. In fact, it is possible to create a list of hundreds of songs as an appendix.
+Below is an excerpt list of major works and representative songs.
 
 | Work title | Song title | Singer | Composer/Lyricist | Notes |
 |---------|---------|---------|--------------------------|---------|
