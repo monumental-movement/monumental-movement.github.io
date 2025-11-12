@@ -142,7 +142,7 @@ This structure shows that Gundam music has become "a product/culture that cannot
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
 
-The latest work, "Mobile Suit Gundam: Witch of Mercury" (2022~), is an attempt at a fusion of "academic orchestra + modern electronics" by composer Ko Omama. In terms of music, it has transcended the framework of Gundam and reached generations as ""modern anime music,'' and it is noticeable that it is being released both digitally and on LP (analog).
+The latest work, "Mobile Suit Gundam: Witch of Mercury" (2022-), is an attempt at a fusion of "academic orchestra + modern electronics" by composer Ko Omama. In terms of music, it has transcended the framework of Gundam and reached generations as ""modern anime music,'' and it is noticeable that it is being released both digitally and on LP (analog).
 In this way, it can be said that Gundam music since the 2010s has entered a period of innovation in its "format, medium, and expression," and is taking a multi-layered approach.
 
 ---
@@ -211,7 +211,7 @@ Finally, to dig deeper into Gundam music, be sure to search and collect CD jacke
 
 ### Chronology (Appendix)
 
-Below is a chronology including works, theme songs/insert songs, composers/singers, and notes. Posted in Markdown format.
+Below is a chronology including works, theme songs/insert songs, composers/singers, and notes. 
 
 | Year | Title | Theme song/Insert song | Composer/Singer | Notes |
 |-----|--------|------------------|------------------|--------|
