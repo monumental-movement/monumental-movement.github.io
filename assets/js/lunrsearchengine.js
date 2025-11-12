@@ -1,81 +1,76 @@
 /*!
- * lunrsearchengine.js (Multi-language + Modal)
- * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
+ * lunrsearchengine.js (GitHub Pages Safe + Modal)
+ * Fully multilingual, relative-path safe
  */
 
 var documents = [];
 var idx = null;
 
-// --- 言語ごとに index URL を自動切り替え ---
+// --- 言語・パス設定 ---
 function getSearchIndexUrl() {
-  return window.location.pathname.startsWith("/en/")
-    ? "/en/search.html"
-    : "/search.html";
-}
+  // 現在のパスから安全な相対URLを生成
+  const path = window.location.pathname;
 
-// --- 現在のページ言語を判定 ---
-function getCurrentLang() {
-  return window.location.pathname.startsWith("/en/") ? "en" : "ja";
-}
-
-// --- JSON 読み込み（GitHub Pages対応：相対URL解決付き） ---
-async function loadDocuments() {
-  // 現在のURLから基準パスを算出
-  let base = window.location.origin;
-  let indexUrl = "/search.html";
-
-  if (window.location.pathname.startsWith("/en/")) {
-    indexUrl = "/en/search.html";
+  if (path.includes("/en/")) {
+    // 英語サイトの場合
+    return window.location.origin + window.location.pathname.replace(/\/[^/]*$/, "/search.html").replace("/en/", "/en/");
+  } else {
+    // 日本語サイト
+    return window.location.origin + "/search.html";
   }
+}
 
-  // GitHub Pages 環境では、相対パスでのfetchが安全
-  const fullUrl = base + indexUrl;
-  console.log("🌐 Trying to fetch index:", fullUrl);
+// --- JSON 読み込み ---
+async function loadDocuments() {
+  let indexUrl = getSearchIndexUrl();
+  console.log("🌐 Fetching index from:", indexUrl);
 
   try {
-    const res = await fetch(fullUrl, { cache: "no-store" });
+    const res = await fetch(indexUrl, { cache: "no-store" });
     if (!res.ok) throw new Error(res.status + " " + res.statusText);
     documents = await res.json();
-    console.log(`✅ Loaded ${documents.length} documents from ${fullUrl}`);
+    console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
   } catch (e) {
     console.error("❌ Failed to load search index:", e);
   }
+}
+
+// --- 言語判定 ---
+function getCurrentLang() {
+  return window.location.pathname.includes("/en/") ? "en" : "ja";
 }
 
 // --- Lunr 初期化 ---
 async function initLunr() {
   if (!documents.length) await loadDocuments();
 
-  const currentLang = getCurrentLang();
-  console.log("🌐 Current language:", currentLang);
+  const lang = getCurrentLang();
+  console.log("🌐 Building Lunr index for:", lang);
 
   try {
     idx = lunr(function () {
-      if (currentLang === "en") {
-        // 英語のみ
-        this.use(lunr.multiLanguage("en"));
+      if (lang === "en") {
+        this.use(lunr.en);
       } else {
-        // 日本語 + 英語
         this.use(lunr.multiLanguage("ja", "en"));
       }
-
       this.ref("id");
       this.field("title");
       this.field("body");
 
       documents.forEach((doc) => this.add(doc));
     });
-    console.log("✅ Lunr index built for", currentLang);
+    console.log(`✅ Lunr index built for ${lang}`);
   } catch (e) {
-    console.error("❌ Lunr index build failed:", e);
+    console.error("❌ Lunr build failed:", e);
   }
 }
 
-// --- 検索関数（モーダル付き） ---
+// --- 検索（モーダル付き） ---
 function lunr_search(term) {
   console.log("🔍 Searching:", term);
   if (!idx) {
-    console.warn("⚠️ Lunr not ready yet...");
+    console.warn("⚠️ Lunr index not ready yet");
     return false;
   }
 
@@ -83,37 +78,35 @@ function lunr_search(term) {
   resultBox.style.display = "block";
   document.body.classList.add("modal-open");
 
-  // モーダルHTML構築
   resultBox.innerHTML = `
-    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog">
+    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1">
       <div class="modal-dialog shadow" role="document">
         <div class="modal-content">
-          <div class="modal-header" id="modtit">
+          <div class="modal-header">
             <h5 class="modal-title">Search results for '${term}'</h5>
-            <button type="button" class="close" id="btnx" aria-label="Close">&times;</button>
+            <button type="button" class="close" id="btnx">&times;</button>
           </div>
           <div class="modal-body"><ul class="mb-0"></ul></div>
           <div class="modal-footer">
-            <button id="btnclose" type="button" class="btn btn-primary btn-sm">Close</button>
+            <button id="btnclose" class="btn btn-primary btn-sm">Close</button>
           </div>
         </div>
       </div>
-    </div>
-  `;
+    </div>`;
 
   const ul = resultBox.querySelector("ul");
   let results = [];
 
-  if (term && term.trim().length > 0) {
-    try {
+  try {
+    if (term && term.trim().length > 0) {
       results = idx.search(term);
-    } catch (e) {
-      console.error("⚠️ Search error:", e);
     }
+  } catch (e) {
+    console.error("❌ Search error:", e);
   }
 
   if (results.length > 0) {
-    results.forEach(function (r) {
+    results.forEach((r) => {
       const d = documents.find((doc) => String(doc.id) === String(r.ref));
       if (!d) return;
       const body = (d.body || "").substring(0, 160) + "...";
@@ -121,24 +114,24 @@ function lunr_search(term) {
         <li class="lunrsearchresult">
           <a href="${d.url}">
             <span class="title">${d.title}</span>
-            <small><span class="body">${body}</span><span class="url">${d.url}</span></small>
+            <small><span class="body">${body}</span></small>
           </a>
         </li>`;
     });
   } else {
-    ul.innerHTML = `<li class="lunrsearchresult">No results found. Try another keyword.</li>`;
+    ul.innerHTML = `<li>No results found.</li>`;
   }
 
   return false;
 }
 
-// --- モーダルのクローズ処理 ---
+// --- モーダル閉じる ---
 $(document).on("click", "#btnx, #btnclose", function () {
   $("#lunrsearchresults").fadeOut(200);
   $("body").removeClass("modal-open");
 });
 
-// --- 起動時処理 ---
+// --- 起動 ---
 document.addEventListener("DOMContentLoaded", async () => {
   await loadDocuments();
   await initLunr();
