@@ -1,12 +1,19 @@
+/*!
+ * lunrsearchengine.js (GitHub Pages Safe + Modal, fixed English indexing)
+ */
+
 var documents = [];
 var idx = null;
 
-// --- 言語・パス自動判定 ---
+// --- 言語・パス設定 ---
 function getSearchIndexUrl() {
   const path = window.location.pathname;
-  return path.includes("/en/") ? SEARCH_INDEX_EN : SEARCH_INDEX_DEFAULT;
+  if (path.includes("/en/")) {
+    return window.location.origin + "{{ site.baseurl }}/en/search.html";
+  } else {
+    return window.location.origin + "/search.html";
+  }
 }
-
 
 // --- JSON 読み込み ---
 async function loadDocuments() {
@@ -15,7 +22,7 @@ async function loadDocuments() {
 
   try {
     const res = await fetch(indexUrl, { cache: "no-store" });
-    if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+    if (!res.ok) throw new Error(res.status + " " + res.statusText);
     documents = await res.json();
     console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
   } catch (e) {
@@ -23,31 +30,43 @@ async function loadDocuments() {
   }
 }
 
+// --- 言語判定 ---
+function getCurrentLang() {
+  return window.location.pathname.includes("/en/") ? "en" : "ja";
+}
+
 // --- Lunr 初期化 ---
 async function initLunr() {
   if (!documents.length) await loadDocuments();
 
-  console.log("🌐 Building Lunr index...");
+  const lang = getCurrentLang();
+  console.log("🌐 Building Lunr index for:", lang);
+
   try {
     idx = lunr(function () {
-      this.use(lunr.multiLanguage("en", "ja"));
+      if (lang === "en") {
+        this.use(lunr.multiLanguage("en"));
+      } else {
+        this.use(lunr.multiLanguage("ja", "en"));
+      }
       this.ref("id");
       this.field("title");
       this.field("body");
-
-      documents.forEach((doc) => {
-        if (doc.title && doc.body) this.add(doc);
-      });
+      documents.forEach((doc) => this.add(doc));
     });
-    console.log("✅ Lunr index built with multiLanguage(en, ja)");
+    console.log(`✅ Lunr index built successfully for ${lang}`);
   } catch (e) {
-    console.error("❌ Lunr index build failed:", e);
+    console.error("❌ Lunr build failed:", e);
   }
 }
 
-// --- 検索実行 ---
+// --- 検索（モーダル付き） ---
 function lunr_search(term) {
-  if (!idx) return false;
+  console.log("🔍 Searching:", term);
+  if (!idx) {
+    console.warn("⚠️ Lunr index not ready yet");
+    return false;
+  }
 
   const resultBox = document.getElementById("lunrsearchresults");
   resultBox.style.display = "block";
@@ -73,14 +92,11 @@ function lunr_search(term) {
   let results = [];
 
   try {
-    if (term && term.trim().length > 0) results = idx.search(term);
+    if (term && term.trim().length > 0) {
+      results = idx.search(term);
+    }
   } catch (e) {
     console.error("❌ Search error:", e);
-  }
-
-  if (!documents.length) {
-    ul.innerHTML = `<li>⚠️ No index loaded. Please refresh.</li>`;
-    return false;
   }
 
   if (results.length > 0) {
@@ -97,7 +113,7 @@ function lunr_search(term) {
         </li>`;
     });
   } else {
-    ul.innerHTML = `<li>No results found. Try another keyword.</li>`;
+    ul.innerHTML = `<li>No results found.</li>`;
   }
 
   return false;
