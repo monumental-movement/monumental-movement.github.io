@@ -1,22 +1,12 @@
-/*!
- * lunrsearchengine.js (Universal Multi-language + Modal, GitHub Pages Safe)
- * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
- */
-
 var documents = [];
 var idx = null;
 
 // --- 言語・パス自動判定 ---
 function getSearchIndexUrl() {
   const path = window.location.pathname;
-
-  if (path.includes("/en/")) {
-    // Jekyll の relative_url を埋め込む
-    return "{{ '/en/search.html' | relative_url }}";
-  } else {
-    return "{{ '/search.html' | relative_url }}";
-  }
+  return path.includes("/en/") ? SEARCH_INDEX_EN : SEARCH_INDEX_DEFAULT;
 }
+
 
 // --- JSON 読み込み ---
 async function loadDocuments() {
@@ -40,16 +30,13 @@ async function initLunr() {
   console.log("🌐 Building Lunr index...");
   try {
     idx = lunr(function () {
-      // 両言語とも multiLanguage に統一（安全）
       this.use(lunr.multiLanguage("en", "ja"));
       this.ref("id");
       this.field("title");
       this.field("body");
 
       documents.forEach((doc) => {
-        if (doc.title && doc.body) {
-          this.add(doc);
-        }
+        if (doc.title && doc.body) this.add(doc);
       });
     });
     console.log("✅ Lunr index built with multiLanguage(en, ja)");
@@ -58,13 +45,9 @@ async function initLunr() {
   }
 }
 
-// --- 検索実行（モーダル付き） ---
+// --- 検索実行 ---
 function lunr_search(term) {
-  console.log("🔍 Searching:", term);
-  if (!idx) {
-    console.warn("⚠️ Lunr index not ready yet.");
-    return false;
-  }
+  if (!idx) return false;
 
   const resultBox = document.getElementById("lunrsearchresults");
   resultBox.style.display = "block";
@@ -90,9 +73,7 @@ function lunr_search(term) {
   let results = [];
 
   try {
-    if (term && term.trim().length > 0) {
-      results = idx.search(term);
-    }
+    if (term && term.trim().length > 0) results = idx.search(term);
   } catch (e) {
     console.error("❌ Search error:", e);
   }

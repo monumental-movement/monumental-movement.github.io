@@ -1,10 +1,17 @@
+<script>
+  // 検索 JSON の URL を HTML 側で定義
+  const SEARCH_INDEX_EN = "{{ '/en/search.html' | relative_url }}";
+  const SEARCH_INDEX_DEFAULT = "{{ '/search.html' | relative_url }}";
+</script>
+
 <script src="{{ site.baseurl }}/assets/js/lunr.js" defer></script>
 <script src="{{ site.baseurl }}/assets/js/tiny-segmenter.js" defer></script>
 <script src="{{ site.baseurl }}/assets/js/lunr.stemmer.support.js" defer></script>
 <script src="{{ site.baseurl }}/assets/js/lunr.ja.js" defer></script>
 <script src="{{ site.baseurl }}/assets/js/lunr.multi.js" defer></script>
+
 <style>
-    
+  /* 必要に応じて CSS */
 </style>
 
 <div class="wrap-search">
@@ -20,4 +27,5 @@
     <ul></ul>
 </div>
 
-<script src="{{site.baseurl}}/assets/js/lunrsearchengine.js"></script>
+<!-- lunrsearchengine.js はそのままでOK -->
+<script src="{{ site.baseurl }}/assets/js/lunrsearchengine.js"></script>
