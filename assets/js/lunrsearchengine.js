@@ -9,10 +9,12 @@ var idx = null;
 // --- 言語・パス自動判定 ---
 function getSearchIndexUrl() {
   const path = window.location.pathname;
+
   if (path.includes("/en/")) {
-    return "/en/search.html";
+    // Jekyll の relative_url を埋め込む
+    return "{{ '/en/search.html' | relative_url }}";
   } else {
-    return "/search.html";
+    return "{{ '/search.html' | relative_url }}";
   }
 }
 
