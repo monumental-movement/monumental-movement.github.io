@@ -1,5 +1,6 @@
 /*!
- * lunrsearchengine.js (Multi-language + Modal, GitHub Pages safe)
+ * lunrsearchengine.js (Multi-language + Modal)
+ * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
  */
 
 var documents = [];
@@ -7,26 +8,27 @@ var idx = null;
 
 // --- 言語ごとに index URL を自動切り替え ---
 function getSearchIndexUrl() {
-  const base = "{{ site.baseurl }}";
-  return window.location.pathname.startsWith(base + "/en/") 
-         ? base + "/en/search.html" 
-         : base + "/search.html";
+  return window.location.pathname.startsWith("/en/")
+    ? "/en/search.html"
+    : "/search.html";
 }
 
 // --- 現在のページ言語を判定 ---
 function getCurrentLang() {
-  const base = "{{ site.baseurl }}";
-  return window.location.pathname.startsWith(base + "/en/") ? "en" : "ja";
+  return window.location.pathname.startsWith("/en/") ? "en" : "ja";
 }
 
 // --- JSON 読み込み ---
 async function loadDocuments() {
-  const indexUrl = getSearchIndexUrl();
-  console.log("🌐 Fetching index from:", indexUrl);
+  let indexUrl = "/search.html";
+
+  // 英語ページなら強制的に /en/search.html にする
+  if (window.location.pathname.startsWith("/en/")) {
+    indexUrl = "/en/search.html";
+  }
 
   try {
     const res = await fetch(indexUrl, { cache: "no-store" });
-    if (!res.ok) throw new Error(res.status + " " + res.statusText);
     documents = await res.json();
     console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
   } catch (e) {
@@ -44,10 +46,13 @@ async function initLunr() {
   try {
     idx = lunr(function () {
       if (currentLang === "en") {
+        // 英語のみ
         this.use(lunr.multiLanguage("en"));
       } else {
-        this.use(lunr.multiLanguage("ja","en"));
+        // 日本語 + 英語
+        this.use(lunr.multiLanguage("ja", "en"));
       }
+
       this.ref("id");
       this.field("title");
       this.field("body");
@@ -72,6 +77,7 @@ function lunr_search(term) {
   resultBox.style.display = "block";
   document.body.classList.add("modal-open");
 
+  // モーダルHTML構築
   resultBox.innerHTML = `
     <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog">
       <div class="modal-dialog shadow" role="document">
