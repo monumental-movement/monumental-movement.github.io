@@ -1,0 +1,23 @@
+---
+layout: none
+---
+
+{% assign posts = site.posts | where: "lang", "es" %}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }} - Spanish Edition</title>
+    <link>{{ site.url }}/es/</link>
+    <description>{{ site.description }}</description>
+    <language>en</language>
+
+    {% for post in posts %}
+    <item>
+      <title>{{ post.title | escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description>{{ post.excerpt | strip_html | escape }}</description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
