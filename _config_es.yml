@@ -1,0 +1,29 @@
+# _config_es.yml
+
+lang: es
+title: Monumental Movement
+baseurl: "/es"
+url: "https://monumental-movement.jp"
+
+# 投稿ディレクトリ
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+
+# 出力フォルダ指定（既存の _site に上書きされないよう注意）
+destination: ./_site/es
+
+# plugins など共通設定は読み込み
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: es
+      permalink: /es/:title/
+
+# タグ・カテゴリ共通
+tag_dir: tag
+category_dir: category

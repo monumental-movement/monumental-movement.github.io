@@ -1,8 +1,10 @@
 <div class="tag-slider">
-  {% if page.lang == 'en' %}
+  {% if current_lang == 'en' %}
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" %}
+  {% elsif current_lang == 'es' %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/es/'" %}
   {% else %}
-    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false and "item.url contains '/es/'" == false %}
   {% endif %}
 
   {% assign tags = "" | split: "" %}

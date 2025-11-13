@@ -1,0 +1,20 @@
+---
+layout: null
+sitemap: false
+permalink: /es/search.html
+---
+
+[
+{% assign counter = 0 %}
+{% for post in site.posts %}
+  {% if post.lang == "es" %}
+  {
+    "id": {{ counter }},
+    "url": "{{ post.url | absolute_url }}",
+    "title": {{ post.title | strip_html | jsonify }},
+    "body": {{ post.content | strip_html | normalize_whitespace | strip_newlines | truncatewords: 200 | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% assign counter = counter | plus: 1 %}
+  {% endif %}
+{% endfor %}
+]
