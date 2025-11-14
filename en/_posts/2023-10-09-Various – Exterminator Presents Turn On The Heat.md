@@ -10,10 +10,11 @@ tags:
 - Dancehall
 title: Various – Exterminator Presents Turn On The Heat
 ---
+
+
 "Exterminator Presents Turn On The Heat" is
 A very classic Fatis Burrell one-riddim compilation album released by the UK label "Sir Coxsone" in 1989.
 It is.
-
 
 #### Tracklist```md
 A1. Sanchez–Joy (Medley)

@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Down Town Boogie Woogie Band - Smoking Boogie
 ---
+
+
 "Smoking Boogie" is
 The third single by the Down Town Boogie Woogie Band, released on the EXPRESS label in December 1974.
 

@@ -11,6 +11,8 @@ tags:
 - Trance
 title: Resistance D – Dreams EP
 ---
+
+
 "Dreams EP" is an EP by Resistance D released in 1992 on the label Direct Drive.
 A style that combines hard trance and melodiousness.
 

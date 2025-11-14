@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Babyface – Tender Lover
 ---
+
+
 "Tender Lover" is the second studio album by American R&B singer-songwriter Babyface, released in 1989 by the label SOLAR (Sound of Los Angeles Records).
 
 This album, which included Babyface's hit songs "It's No Crime," "Tender Lover," and "Whip Appeal," was Babyface's monumental R&B album and won numerous awards, including a Grammy nomination and the Soul Train Music Award for Best R&B/Soul Album.
@@ -34,3 +36,4 @@ B6. Where Will You Go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3zYoBUJ2VY?si=jsIAZJohdHMXDT7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
 
 #### Youtube
+

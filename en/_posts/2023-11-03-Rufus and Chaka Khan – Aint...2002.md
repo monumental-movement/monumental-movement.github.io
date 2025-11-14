@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Rufus & Chaka Khan – Ain't...2002
 ---
+
+
 Rufus & Chaka Khan were one of the most popular and influential American funk bands from Chicago in the 1970s.
 
 It is best known for launching the career of lead singer Chaka Khan.

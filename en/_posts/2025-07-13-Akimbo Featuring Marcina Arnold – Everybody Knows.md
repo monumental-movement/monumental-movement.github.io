@@ -11,10 +11,11 @@ tags:
 - 90s
 title: Akimbo Featuring Marcina Arnold – Everybody Knows
 ---
+
+
 Akimbo is a funk/soul rock band that includes guitarist Simon Bartholomew of the UK funk/acid jazz band Brand New Heavies, former Jamiroquai drummer Nick van Gelder, Gareth Bailey, Nick Seymour, and Tom Bailey.
 
 "Everybody Knows" is a Future Jazz track released by the UK label Acid Jazz in 1999.
-
 
 #### Tracklist```md
 A. Everybody Knows (Erobique Remix)

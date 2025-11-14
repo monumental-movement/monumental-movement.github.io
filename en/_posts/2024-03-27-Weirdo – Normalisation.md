@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Weirdo – Normalization
 ---
+
+
 Hard trance was released in 2002 by British hard trance producer Dominic Harding, also known as Weirdo, on Tinrib Recordings, a label run by British hard house/NRG/hard trance producer Jon Bell.
 
 #### Tracklist```md

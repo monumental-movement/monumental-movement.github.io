@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: Thompson Twins – Sister Of Mercy
 ---
+
+
 Thompson Twins is a British pop band formed in 1977. Initially formed as a seven-piece band, in 1982 it became a three-piece band consisting of Tom Bailey, Joe Leeway, and Alana Curry.
 
 #### Tracklist```md

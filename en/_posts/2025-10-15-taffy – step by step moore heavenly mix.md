@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Taffy – Step By Step (Moore Heavenly Mix)
 ---
+
+
 Taffy (Katherine Quaye) is a UK Italo/high energy singer known for her hit song "I Love My Radio".
 
 This record is an Italodance Mix by Moore Heavenly, released in 1987 on Rhythm King's sub-label Transglobal.

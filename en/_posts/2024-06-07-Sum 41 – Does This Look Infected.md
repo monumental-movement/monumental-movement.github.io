@@ -13,6 +13,8 @@ tags:
 - Horror Rock
 title: Sum 41 – Does This Look Infected?
 ---
+
+
 "Does This Look Infected?", released in 2002, is Sum41's second studio album.
 
 This album has fewer pop music elements than their first album, ""All Killer No Filler,'' and has a darker, heavier style, with elements of heavy metal, horror punk, punk rock, pop punk, melodic hardcore, hardcore punk, thrash metal, and D-beat.

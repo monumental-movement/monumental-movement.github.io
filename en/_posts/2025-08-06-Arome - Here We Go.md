@@ -11,10 +11,11 @@ tags:
 - 00s
 title: Arome - Here We Go
 ---
+
+
 Frank Zenker, also known as Arome, is a hard trance/tech trance DJ and producer from Germany, better known as Scot Project. The music released under the name Arome has a stronger influence of tech trance and techno than under the name Scot Projec, resulting in a harder and more minimalist hard trance style.
 
 "Here We Go", released in 2000, is Arome's masterpiece and is considered a hard trance classic.
-
 
 #### Tracklist```md
 A1. Here We Go (DJ Scot Project Remix)

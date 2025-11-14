@@ -10,6 +10,8 @@ tags:
 - Breakcore
 title: Alec Empire – The Destroyer
 ---
+
+
 Alec Empire is a German experimental electronic musician and founding member of the band Atari Teenage Riot.
 
 #### Tracklist```md

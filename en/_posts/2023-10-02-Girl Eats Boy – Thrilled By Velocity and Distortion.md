@@ -10,6 +10,8 @@ tags:
 - UK House
 title: Girl Eats Boy – Thrilled By Velocity and Distortion
 ---
+
+
 Girl Eats Boy is a project by British producer/DJ Lol Hammond. "Girl Eats Boy – Thrilled By Velocity & Distortion" was released by Hydrogen Dukebox in 1998.
 
 #### Tracklist```md

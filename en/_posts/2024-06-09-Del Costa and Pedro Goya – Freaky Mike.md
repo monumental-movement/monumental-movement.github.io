@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Del Costa & Pedro Goya – Freaky Mike
 ---
+
+
 An electro-tech house track by the great duo of Pedro Goya and Del Costa, two heavyweights in the Portuguese electronic music world who have released numerous works on famous labels such as Yoyaku, Ubiyu, Different Heads, and Classic Music Company.
 
 "Freaky Mike" was released in 2003 on Exun, a German house label founded by DJ Linus.

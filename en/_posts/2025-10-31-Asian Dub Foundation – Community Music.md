@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Asian Dub Foundation – Community Musick
 ---
+
+
 Asian Dub Foundation is an electronica dance band from the UK. Their style is a mix of rap rock, dub, dancehall, ragga, reggae EDM, and South Asian music.
 
 Released in 2000, two years after the hit album "Rafi's Revenge," "Community Music" is the third album by Asian Dub Foundation, which received high praise from all quarters. This was the last album in which Deeder Zaman participated, as vocalist/MC Deeder Zaman left the group at the end of that year.

@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Groove Twins – Action
 ---
+
+
 Groove Twins is an A.Beat-C project by intern changing vocalists like Go Go Girls and King & Queen.
 
 "Action" is a high-energy Eurobeat track released in 1992 on the Italian Eurobeat label A.Beat-C.

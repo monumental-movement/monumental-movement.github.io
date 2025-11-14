@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: James Brown - It's A Man's Man's World
 ---
+
+
 This song was written by James Brown and is known as one of his masterpieces. This song was released in 1966 and is considered a masterpiece of soul music with its powerful and emotional performance.
 
 The lyrics of this song are about a world dominated by men, but at the same time they express gratitude towards women. Brown's powerful vocals and emotional singing leave deep impressions on listeners, making her presence stand out.

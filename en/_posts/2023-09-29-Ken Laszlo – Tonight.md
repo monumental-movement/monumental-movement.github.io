@@ -11,6 +11,8 @@ tags:
 - Rare
 title: Ken Laszlo – Tonight
 ---
+
+
 "Ken Laszlo - Tonight" is a song released in 1985 by Italian Italo disco artist Ken Laszlo.
 
 Ken Laszlo was an artist active in the Italo Disco movement, and "Tonight" is considered one of his masterpieces.

@@ -10,6 +10,8 @@ tags:
 - Goa Trance
 title: Necton – Mindboggler EP
 ---
+
+
 This is an EP by Necton released in 2000 by the German label "Spirit Zone Recordings".
 
 Necton is an electronic music project from Copenhagen, Denmark. This project was formed in 1997.

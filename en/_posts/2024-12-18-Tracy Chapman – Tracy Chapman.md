@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Tracy Chapman – Tracy Chapman
 ---
+
+
 Tracy Chapman is an American singer-songwriter widely known for her hit singles "Fast Car" (1988) and "Give Me One Reason" (1995).
 
 "Tracy Chapman" is her debut album released by Elektra Records in 1988. Her successful appearance on Nelson Mandela's 70th birthday tribute concert earned her a platinum certification and six Grammy nominations, including Album of the Year, three of which were for Best New Artist, Best Feminine Pop Vocal Performance for the single "Fast Car," and Best Contemporary Folk Album.

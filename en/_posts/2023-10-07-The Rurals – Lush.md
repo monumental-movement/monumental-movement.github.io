@@ -10,10 +10,11 @@ tags:
 - Deep House
 title: The Rurals – Lush
 ---
+
+
 "Lush" is
 Released in 2000 on the UK label "Peng", real name Andy Compton.
 This is an EP from the project The Rurals.
-
 
 #### Tracklist```md
 A. Grey Clouds

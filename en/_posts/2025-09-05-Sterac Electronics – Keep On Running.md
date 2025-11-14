@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Sterac Electronics – Keep On Running
 ---
+
+
 Steve Rachmad, also known as Sterac Electronics, is an internationally active techno producer/DJ from Amsterdam. He is widely credited with popularizing Detroit techno in the Netherlands.
 
 He uses various names depending on his musical style, including Sterac, Parallel 9, Ignacio, Scorp, Black Scorpion, Tons of Tones, Dreg, and Adverse Match.
@@ -18,7 +20,6 @@ He uses various names depending on his musical style, including Sterac, Parallel
 Sterac Electronics releases styles focused on electro, funk, and 80s disco, all of which are highly acclaimed.
 
 "Keep On Running" is a Techno/Electro/Indie Dance song released by Belgian label Music Man Records in 2003.
-
 
 #### Tracklist```md
 A. Keep On Running

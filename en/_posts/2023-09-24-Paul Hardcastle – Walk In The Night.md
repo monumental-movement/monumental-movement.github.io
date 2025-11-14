@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: Paul Hardcastle – Walk In The Night
 ---
+
+
 ""Walk In The Night'' is one of the masterpieces of British music producer, composer, and multi-instrumentalist Paul Hardcastle.
 
 "Walk In The Night" is a song that combines electronic sounds and jazz elements, and has a distinctive rhythm and melody.
@@ -17,7 +19,6 @@ title: Paul Hardcastle – Walk In The Night
 Synthesizers and recorded beats stand out, creating a danceable and groovy atmosphere.
 
 'Walk In The Night' is a delight for Paul Hardcastle fans and electronic music lovers alike, and his unique sound and creative approach continues to influence many.
-
 
 #### Tracklist```md
 A. Walk In The Night

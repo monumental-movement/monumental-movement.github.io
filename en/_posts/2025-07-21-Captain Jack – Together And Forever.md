@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Captain Jack – Together And Forever!
 ---
+
+
 Captain Jack is a dance project from Cologne, Germany that represents the Eurodance scene of the 90s. The initial members were producers Udo Niebergall and Richard Witte. A party maker who headlined every famous festival in the 90s.
 
 "Together And Forever!" is a Eurodance, Euro House track released in 1997 on EMI Germany's dance sublabel - Cologne Dance Label (CDL).

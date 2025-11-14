@@ -12,6 +12,8 @@ tags:
 - 50s
 title: Helen Merrill – Helen Merrill
 ---
+
+
 Helen Merrill was an American jazz vocalist who was active in the 1950s and 1960s.
 
 The album ""Helen Merrill'' is Helen Merrill's debut studio album, released on the jazz record label EmArcy in 1955.It featured arrangements by Quincy Jones, trumpet player Clifford Brown, cello and double bass player Oscar Pettiford, and others.

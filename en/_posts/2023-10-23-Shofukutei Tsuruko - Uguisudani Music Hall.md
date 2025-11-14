@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Shofukutei Tsuruko - Uguisudani Music Hall
 ---
+
+
 "Uguisudani Music Hall" is a comic song released by Shofutei Tsurumitsu in May 1975.
 
 Lyrics, composition, arrangement - Masayuki Yamamoto

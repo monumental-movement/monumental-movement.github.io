@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Midnight Juggernauts – Into The Galaxy
 ---
+
+
 Midnight Juggernauts was an Australian electronic music band that was active from 2004 to 2014, gaining popularity for their unique sound that incorporated elements of electronic, indie, and synth pop. "Into The Galaxy" is known as one of their signature songs.
 
 The second track on Side A is a remix by Chateau Marmont, founder of Chambre404, a French electronic music producer and live performer team based in Paris.

@@ -13,6 +13,8 @@ tags:
 - 70s
 title: Earth, Wind & Fire – All 'N All
 ---
+
+
 All 'n All is the eighth studio album by the American band Earth, Wind & Fire, released by Columbia Records in 1977. This album is Earth, Wind & Fire's masterpiece, reaching number 1 on the US Billboard Top R&B/Hip-Hop Albums chart.
 
 
@@ -38,3 +40,4 @@ B4. Be Ever Wonderful
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3f-jQxceV6o?si=k2wnVu_ss_BvgH2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m76644904752?afid=6142608987){: .button1}
 
 #### Youtube
+

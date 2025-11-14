@@ -11,12 +11,14 @@ tags:
 - 7inch
 title: Hiromi Go – Boys and Girls
 ---
+
+
 "Hiromi Go – Boys and Girls"
 This is Hiromi Go's first single (debut song) released in 1972.
 
 Lyrics – Tokiko Iwatani
 
-Music & Arrangement – Kyohei Tsutsumi
+Music & Arrangement – ​​Kyohei Tsutsumi
 
 #### Tracklist```md
 A. 男の子女の子

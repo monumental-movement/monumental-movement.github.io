@@ -11,6 +11,8 @@ tags:
 - 10inch
 title: 8 Days Of Nothing - Die Kosmo Gesellschaft
 ---
+
+
 8 Days Of Nothing is a legendary Swedish punk band formed in 1997.
 
 Die Kosmo Gesselschaft is a post-hardcore/emo band formed in Berlin, Germany in 1997.

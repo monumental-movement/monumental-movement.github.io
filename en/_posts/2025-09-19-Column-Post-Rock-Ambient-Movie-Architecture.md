@@ -11,15 +11,16 @@ tags:
 - Movie
 title: '[Column] Post-rock/ambient interaction with film and architecture'
 ---
+
+
 ## Interaction with post-rock/ambient film and architecture
 
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
 The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.  
-Here, in addition to historical masterpieces, we will organize interactions with movies and architecture and ambient experiences in urban spaces.
+In addition to historical masterpieces, we will also organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
 
 ---
-
 
 <style type="text/css">
 
@@ -33,7 +34,6 @@ background-color: #111;
 color: #fff;
 }
 </style>
-
 
 ### Interaction with movies
 
@@ -55,7 +55,7 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 
 ### Connection with architecture and urban planning
 
-Ambient/post-rock shows a strong presence in dialogue with urban spaces and architecture.  
+Ambient/post-rock shows a strong presence in dialogue with urban spaces and architecture.
 
 | Location/Project | Music/Sound | Year | Features |
 |-------------------|------------|----|------|
@@ -80,7 +80,7 @@ flowchart LR
     Film["Movie"]
     Architecture["Architecture/urban space"]
 
-    Music --> Film
+Music --> Film
     Music --> Architecture
     Film --> Architecture
     Architecture --> Film
@@ -92,7 +92,6 @@ Music → Film: Music manipulates psychological space and sense of time.
 Music → Architecture: Music designs spatial experiences
 
 Film ↔ Architecture: Interaction between visual art and spatial design
-
 
 ---
 
@@ -153,12 +152,11 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 ---
 
-
 ### Summary
 
 Post-rock/ambient is not just a music genre, but has evolved as a method of designing time and space.
 
-Psychological expansion in film: time manipulation with drones, loops, and soundscapes
+Psychological expansion in film: Manipulating time with drones, loops, and soundscapes
 
 Applications in architecture and urban planning: the experience of staying in a space, walking lines, and harmony with urban environmental sounds
 
@@ -168,8 +166,8 @@ In the future, the fusion of VR/AR and AI-generated music will further evolve th
 
 ### Related columns
 
- [[Column] History of post-rock/ambient and changes in equipment [discussion by era]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+[[Column] History of post-rock/ambient and changes in equipment [discussion by era]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
 
- [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+[[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
- [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
+[[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

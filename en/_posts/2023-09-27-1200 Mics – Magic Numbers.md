@@ -10,6 +10,8 @@ tags:
 - Psychedelic
 title: 1200 Mic"s – Magic Numbers
 ---
+
+
 1200 Mic's – Magic Numbers is an album by the electronic music group 1200 Micrograms. This album was released in 2009.
 
 "Magic Numbers" is 1200 Micrograms' third studio album and features their psychedelic trance and full-on sound. Their music has become popular in electronic music scenes such as dances and festivals.

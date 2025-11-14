@@ -12,10 +12,11 @@ tags:
 - 00s
 title: DJ Chus And David Penn Feat. Caterina – Baila
 ---
+
+
 A remix of DJ Chus & David Penn's famous song "Baila" by US house DJ and producer Dennis Ferrer, famous for "Hey Hey".
 
 A tribal house/deep house track released in 2003 by the prestigious UK dance music label Defected.
-
 
 #### Tracklist```md
 This Side

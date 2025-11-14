@@ -10,8 +10,9 @@ tags:
 - Hiphop
 title: Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark EP
 ---
-Linoleum Lineage is a unit formed by LA-based beatmaker DJ Rylo and MC Omanjamari.
 
+
+Linoleum Lineage is a unit formed by LA-based beatmaker DJ Rylo and MC Omanjamari.
 
 Lyric – Omanjamari
 Master – Damon Tedesco

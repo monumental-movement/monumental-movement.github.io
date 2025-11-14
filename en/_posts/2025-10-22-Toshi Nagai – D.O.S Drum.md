@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Toshi Nagai – D.O.S Drum
 ---
+
+
 Toshi Nagai, also known as Toshimitsu Nagai, is a Japanese drummer who works as a support drummer for groups such as GLAY, Kyosuke Himuro, and EXILE TAKAHIRO.
 
 "D.O.S Drum" is Toshi Nagai's second solo album released in 1999.

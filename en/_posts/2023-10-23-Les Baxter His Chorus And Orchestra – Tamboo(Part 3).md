@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Les Baxter His Chorus And Orchestra – Tamboo(Part 3)
 ---
+
+
 This song by Les Baxter and his choir and orchestra appears on the album Tamboo!, released in 1956. Les Baxter is known for his unique exotic and sensual musical style, and his work pioneered genres such as exotica and space age pop.
 
 "Tamboo! (Part 3)" is a song characterized by Baxter's unique arrangement and orchestration, and has been highly praised in the soundtrack and lounge music fields. The song encapsulates the typical elements of Baxter's music, including Caribbean rhythms and the use of exotic instruments.

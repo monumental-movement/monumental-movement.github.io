@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Earth and Fire - Seasons
 ---
+
+
 Earth & Fire is a pop-rock band from Voorchoten/Vorburg, the Netherlands. "Seasons", released in 1969, is Earth & Fire's signature song.
 
 #### Tracklist```md

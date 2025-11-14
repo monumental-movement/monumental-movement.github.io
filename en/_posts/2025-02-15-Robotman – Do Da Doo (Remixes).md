@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Robotman – Do Da Doo (Remixes)
 ---
+
+
 "Robotman – Do Da Doo (Remixes)" is a remix album of Richie Hawtin's project "Robotman" released in 1994. This album contains several different remixes.
 
 Plastikman's Acid House Remix -

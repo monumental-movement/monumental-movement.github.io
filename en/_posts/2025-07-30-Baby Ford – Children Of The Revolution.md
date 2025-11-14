@@ -10,6 +10,8 @@ tags:
 - 80s
 title: Baby Ford – Children Of The Revolution
 ---
+
+
 Peter Frank Adshead, also known as Baby Ford, is a British electronic music producer known for contributing to the birth of acid house. The club track Oochy Koochy (F.U. Baby Yeah Yeah), released in 1988, is considered the first UK acid house record to hit the UK Singles Chart.
 
 This record is a house mix in which BabyFord sampled and covered Marc Bolan & T. Rex's 1989 hit song "Children of the Revolution" in a house/acid house/electro house style, and was released in 1989 on the UK independent label Rhythm King.

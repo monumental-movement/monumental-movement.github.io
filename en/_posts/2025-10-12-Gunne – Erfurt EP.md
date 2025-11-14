@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Gunne – Erfurt EP
 ---
+
+
 Gunne (Gunnar Lenke) is a Berlin-based DJ/producer who runs the Minimal & Tech House label Lebensfreude Records.
 
 "Erfurt EP" released on his own label in 2005 is a masterpiece that can be said to be Gunne's masterpiece.

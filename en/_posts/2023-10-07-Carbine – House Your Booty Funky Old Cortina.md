@@ -10,6 +10,8 @@ tags:
 - Acid
 title: Carbine – House Your Booty Funky Old Cortina
 ---
+
+
 "House Your Booty / Funky Old Cortina" is a song released as a single by Carbine and contains two tracks.
 
 "House Your Booty" is an energetic and groovy house track with a beat and rhythm to get the floor going. The catchy sampling and funky bass line create an atmosphere that makes you want to dance.

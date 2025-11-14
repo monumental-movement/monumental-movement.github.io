@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: Pick up punk/hardcore works
 ---
+
+
 "A remarkable group of punk/hardcore works that embody chaos and passion and sharply cut through the atmosphere of the times."
 
 <hr>
@@ -34,8 +36,9 @@ B5. Bran Flakes
 B6. In Sickness & In Health
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=mzzX-VZTSz4bUWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -43,7 +46,6 @@ B6. In Sickness & In Health
 
 ### The Gang - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
-
 
 A work by an Italian punk band. A rare piece in which Billy Bragg from the UK participated in part.
 
@@ -64,7 +66,6 @@ B6. Not For Sale
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
-
 
 <hr>
 
@@ -101,7 +102,6 @@ B11. Spice-Song
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
-
 <hr>
 
 ### Friction – friction
@@ -124,9 +124,7 @@ B11. Spice-Song
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-
 <hr>
-
 
 ### List
 

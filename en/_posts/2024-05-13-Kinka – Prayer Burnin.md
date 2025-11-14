@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Kinka – Prayer / Burnin'
 ---
+
+
 Takaya Hayakawa, also known as Kinka, has been a DJ, sound composer, organizer, and music producer since the late 1980s. Kinka is also active as the unit KEY OF KNOWLEDGE with ZEEKO, and the units MONKA and acca with JUZU a.k.a. MOOCHY.
 
 "Prayer/Burnin'" is a single cut from Kinka's first solo album "BEADS" released in 2006 on the Japanese dance label Rudiments.

@@ -10,6 +10,8 @@ tags:
 - Rare
 title: Glam – Prove Your Love
 ---
+
+
 Glam is an Italo disco/house project produced by Roberto Ferrante.
 
 Glam released only two songs, "Prove Your Love" and "More Than Ever," with "Prove Your Love" featuring vocals by Kay Bianco.

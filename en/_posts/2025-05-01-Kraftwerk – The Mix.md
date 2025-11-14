@@ -11,11 +11,12 @@ tags:
 - Synth-pop
 title: Kraftwerk – The Mix
 ---
+
+
 Kraftwerk was founded in 1970 by Ralf Hütter and Florian Schneider.
 German electro-techno band. He is a representative of krautrock and is also known as a pioneer of techno-hop.
 
 This album, released by EMI in 1991, is Kraftwerk's 10th studio album. This is a completely rearranged and re-recorded version of a selection of songs from Kraftwerk's albums Autobahn (1974) to Electric Café (1986), with songs such as "The Robots" and "Radioactivity" featuring new melodies and lyrics.
-
 
 #### Tracklist```md
 1. The Robots

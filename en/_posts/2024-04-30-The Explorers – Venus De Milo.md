@@ -11,6 +11,8 @@ tags:
 - 80s
 title: The Explorers – Venus De Milo
 ---
+
+
 The Explorers are a group formed by former members of the progressive rock band Roxy Music, Phil Manzanera and Andy MacKay, with James Wraith on vocals.
 
 The Explorers released their self-titled LP ""Explorers'' on Virgin Records in 1985, but disbanded in 1986.

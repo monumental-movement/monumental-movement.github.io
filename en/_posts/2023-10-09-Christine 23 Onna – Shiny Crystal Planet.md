@@ -10,8 +10,9 @@ tags:
 - Noise
 title: Christine 23 Onna – Shiny Crystal Planet
 ---
-"Shiny Crystal Planet" is an album by Christine 23 Onna, a unit consisting of Maso Yamazaki and Fusao Toda, released by Alchemy Records in 2000.
 
+
+"Shiny Crystal Planet" is an album by Christine 23 Onna, a unit consisting of Maso Yamazaki and Fusao Toda, released by Alchemy Records in 2000.
 
 #### Tracklist```md
 1. Drive To Crystal Planet

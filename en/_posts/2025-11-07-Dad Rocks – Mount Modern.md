@@ -11,6 +11,8 @@ tags:
 - 10s
 title: Dad Rocks! – Mount Modern
 ---
+
+
 Dad Rocks! is a project formed in 2010 by Icelandic musician Snaevar Albertsson, who became famous with the Danish indie rock band Mimas.
 
 "Mount Modern" is Dad Rocks!'s debut album released in 2011.

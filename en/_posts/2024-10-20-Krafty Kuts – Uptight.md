@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Krafty Kuts – Uptight / Where"s The Noise
 ---
+
+
 Martin Reeves, also known as Krafty Kuts, is a breakout DJ and producer from Brighton. In 2006, he won Best DJ at the Breakspoll Awards, which is said to be the highest award in the breaks world.
 
 "Uptight / Where's The Noise" is a breakbeat track released by Deepcut Recordings in 2004.
@@ -23,3 +25,4 @@ B. Where's The Noise
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4dejzGEGI4?si=KMdVoM70lW5msbAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m85482898551?afid=6142608987){: .button1}
 
 #### Youtube
+

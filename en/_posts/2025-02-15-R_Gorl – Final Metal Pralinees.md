@@ -10,6 +10,8 @@ tags:
 - 00s
 title: R_Görl – Final Metal Pralinées
 ---
+
+
 Robert Görl, also known as R_Görl, is a musician from Munich, Germany. He is also famous for forming NDW (Neue Deutsche Welle), EBM (Electronic Body Music), NDH (Neue Deutsche Heate), and Deutsch Amerikanische Freundschaft (DAF), known as the pioneers of techno, with Gabi Delgado.
 
 "Final Metal Pralinies" is a techno album released by the label Disko B in 2000.

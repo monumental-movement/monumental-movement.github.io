@@ -11,12 +11,13 @@ tags:
 - Rare
 title: Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975
 ---
+
+
 This is a live recording by Junior Wells & Buddy Guy at the Postal Savings Hall.
 
 Both Buddy and Junior demonstrate their skills as leaders and are fully active throughout the album.
 
 This 2-LP set is a must-see for blues fans.
-
 
 #### Tracklist```md
 A1. Let Me love You, Baby

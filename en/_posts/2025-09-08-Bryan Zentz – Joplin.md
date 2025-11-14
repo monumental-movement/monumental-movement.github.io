@@ -10,10 +10,11 @@ tags:
 - 00s
 title: Bryan Zentz – Joplin
 ---
+
+
 Bryan Zentz was the vocalist for the punk band Disarm in the 80s, and released techno music under the name Barada on Richie Hawtin and John Aquaviva's Definitive label in the early 90s. After that, he released his works on Intec Records, and in particular, "D-Clash" is a signature song of Bryan Zentz, which is also known for its remix by Carl Cox. Other names include Faculty X, Bryan Never, and Stare.
 
 "Joplin" is a Techno song released by Intec Records in 2002. Single cut from Bryan Zentz's debut album "Seven Breaths".
-
 
 #### Tracklist```md
 A. Joplin

@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Passionata – Himiko
 ---
+
+
 "Himiko" by Passionata was released in 1979. Passionata is a female trio from the Philippines that achieved great success in Japan and around the world.
 
 The girls started out as friends at university in the Philippines and performed as a trio from 1979 to 1983.

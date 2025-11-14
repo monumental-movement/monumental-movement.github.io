@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Various – Golden R&B
 ---
+
+
 "Various – Golden R&B" was released as part of Tamla Motown"s Golden Compact series.
 
 #### Tracklist```md
@@ -35,3 +37,4 @@ B3. Martha Reeves & The Vandellas –Dancing In The Street
 マルサリーヴス& ヴァンデラス –  ダンシング イン ザ ストリート
 ```
 [Purchase on Mercari](https://jp.mercari.com/item/m50700944227?afid=6142608987){: .button1}
+

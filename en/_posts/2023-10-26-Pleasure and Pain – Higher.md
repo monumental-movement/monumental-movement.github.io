@@ -10,6 +10,8 @@ tags:
 - Hi NRG
 title: Pleasure & Pain – Higher
 ---
+
+
 Pleasure & Pain is a project (1990-1992) of FRED VENTURA, a famous Italo producer who has been active since the 1980s.
 
 #### Tracklist```md

@@ -10,10 +10,11 @@ tags:
 - Ambient
 title: Ken Ishii – Innerelements
 ---
+
+
 Ken Ishii is a Japanese techno musician who is highly acclaimed both domestically and internationally. This album, released by R & S Records, is one of his masterpieces.
 
 "Innerelements" was released in 1994 and is known as a piece of techno music that incorporates elements of trip-hop and electronica. Featuring ambient soundscapes and downtempo rhythms, its innovative approach made a strong impression on many listeners.
-
 
 #### Tracklist```md
 1. Encoding

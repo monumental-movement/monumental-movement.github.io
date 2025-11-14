@@ -11,6 +11,8 @@ tags:
 - Pops
 title: Daniel Boone – Beautiful Sunday
 ---
+
+
 Daniel Boone is a British singer-songwriter.
 
 "Beautiful Sunday" became a worldwide hit. In Japan, it is known as the theme song for Caravan II, a segment on Ohayo 720 (TBS network), and a cover song by Seiji Tanaka was also a hit.

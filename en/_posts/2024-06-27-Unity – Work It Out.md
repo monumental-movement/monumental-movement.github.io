@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Unity – Work It Out
 ---
+
+
 Unity is a project by Gary Storm and Lionel Herman. He also works under other names as Power Movement, Rugged All-Stars, S.N.H. Foundation, and Storm & Herman.
 
 "Work It Out" is a house/garage house track released on the house label Strictly Rhythm in 1993. The A&R at this time was DJ Pierre.

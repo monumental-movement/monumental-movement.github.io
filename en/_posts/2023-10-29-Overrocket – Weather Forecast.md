@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: Overrocket – Weather Forecast
 ---
+
+
 OVERROCKET is an electropop unit consisting of Denki Groove engineers Takashi Watanabe, Michiyo Honda, and Mitsuto Suzuki. B-side "Weather Forecast (Rain Hat Mix)" is a remix by DJ Tasaka.
 
 #### Tracklist```md

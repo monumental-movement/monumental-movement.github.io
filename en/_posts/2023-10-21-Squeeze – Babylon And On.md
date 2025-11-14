@@ -10,6 +10,8 @@ tags:
 - Pops
 title: Squeeze – Babylon And On
 ---
+
+
 "Babylon and On" is an album released in 1987 by the British band "Squeeze".
 
 Squeeze was a successful band in the 1980s, known for their songs that incorporated elements of pop rock and new wave. The "Babylon and On" album also attracted attention for its distinctive pop sound and sophisticated songs. In particular, songs such as "Hourglass" are known as Squeeze's signature songs.

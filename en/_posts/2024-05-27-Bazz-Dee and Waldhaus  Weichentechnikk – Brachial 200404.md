@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Bazz-Dee & Waldhaus Weichentechnikk – Brachial 200404
 ---
+
+
 The first track on side A is a techno track that samples KISS's "I Was Made For Loving You" by Waldhaus and Bazz-Dee (Bastian Schubert), who are considered to be one of the innovators of the hard techno sound, with a style that boldly combines hard techno and industrial hardcore.
 
 The second track on side A is a techno track by Weichentechnikk and Bazz-Dee, who are considered young geniuses of the hard techno scene along with Waldhaus.

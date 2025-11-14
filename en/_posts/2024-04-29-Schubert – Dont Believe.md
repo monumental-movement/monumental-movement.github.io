@@ -11,6 +11,8 @@ tags:
 - German Techno
 title: Schubert – Don't Believe The Chord-Pop Hype
 ---
+
+
 A minimal techno track by Leipzig-based German techno producer Schubert aka Matthias Kretzschmar.
 
 Co-producer is Daniel Stefanik, a German DJ and producer also based in Leipzig.

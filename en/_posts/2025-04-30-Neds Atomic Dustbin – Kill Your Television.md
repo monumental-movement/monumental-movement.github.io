@@ -11,10 +11,11 @@ tags:
 - 90s
 title: Ned's Atomic Dustbin – Kill Your Television
 ---
+
+
 Ned's Atomic Dustbin are a British rock band formed in Stourbridge, West Midlands in November 1987.
 
 "Kill Your Television" was Ned's Atomic Dustbinno's official first single (EP) and was a commercially successful hit. It is also included in the debut studio album "God Fodder".
-
 
 #### Tracklist```md
 1. Kill Your Television

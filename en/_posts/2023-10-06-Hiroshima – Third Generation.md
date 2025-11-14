@@ -10,6 +10,8 @@ tags:
 - Modern Jazz
 title: Hiroshima – Third Generation
 ---
+
+
 "Third Generation" is an album by Hiroshima, an American jazz fusion band. This album was released in 1983. Hiroshima is known for his unique musical style, which combines traditional Japanese music with elements of jazz, R&B, and pop.
 
 "Third Generation" is Hiroshima's third album, and it is a work that shows their musical maturity and evolution. The album incorporates traditional instruments such as Japanese instruments, Tsugaru shamisen, and kalimba, while developing a modern jazz fusion sound.

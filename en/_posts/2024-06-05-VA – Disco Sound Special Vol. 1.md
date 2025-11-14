@@ -12,6 +12,8 @@ tags:
 - 70s
 title: VA – Disco Sound Special Vol. 1
 ---
+
+
 VA – Disco Sound Special Vol. 1 - Disco Sound Special 2-disc record set
 
 #### Tracklist```md
@@ -44,3 +46,4 @@ D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
 [Purchase on Mercari](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
+

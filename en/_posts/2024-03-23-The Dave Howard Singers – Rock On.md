@@ -10,6 +10,8 @@ tags:
 - 80s
 title: The Dave Howard Singers – Rock On
 ---
+
+
 The Dave Howard Singers are a cult alternative rock band/project formed in Toronto, Canada.
 
 "Rock On", released in 1986, is a cover of David Essex's hit "Rock On".

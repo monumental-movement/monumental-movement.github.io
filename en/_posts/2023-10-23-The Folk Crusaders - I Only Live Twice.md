@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Folk Crusaders - I Only Live Twice
 ---
+
+
 "Returning Yopparai" was the debut single by The Folk Crusaders and the first million-selling single in Oricon chart history. It is also the song that created the "underground folk" boom, and is a representative work of Japanese comic songs.
 
 #### Tracklist```md

@@ -15,6 +15,8 @@ title: '[Column] Eurobeat and Japan: Why are they so closely connected?'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Miraculous encounter "Eurobeat x Parapara"
 
 Text: mmr｜Theme: Synchronicity of dance and music
@@ -23,7 +25,6 @@ At the heart of gyaru culture in Japan in the 1990s was a hand-waving dance call
 
 Why did Eurobeat, which was born in Europe and evolved in its own way in Asia, become deeply connected to the Parapara style in Japan?
 There was a mix of factors such as not only musical characteristics but also club culture, media strategy, and consumer psychology.
-
 
 <hr>
 
@@ -42,7 +43,6 @@ Eurobeat has its roots in "Italo Disco", which was born in Italy in the 1980s. A
 
 This structure was a perfect match for the parapara dance, which repeats the same pattern.
 
-
 <hr>
 
 ### What is Parapara? ──Pleasure of uniform repetition
@@ -54,7 +54,6 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - **Movement emphasizes "unity" rather than individuality**: Closer to "team" than social dance
 
-
 ---
 
 ● Why did it match the euro?
@@ -63,8 +62,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → matches the climax of the swing
-
+- Dramatic song development → Matches the climax of the swing
 
 <hr>
 
@@ -78,12 +76,11 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a dedicated Eurobeat label
+● Signed with a Eurobeat exclusive label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 
 In this way, Japan's unique ""Eurobeat market'' was formed and gradually became integrated.
-
 
 <hr>
 
@@ -94,7 +91,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as ""Parapara Paradise'' and ""Parapara Kyonen'' are also available.
+- Series such as "Parapara Paradise" and "Parapara Kyonen" also appear
 
 ● Media production
 
@@ -103,7 +100,6 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 - Effectively Eurobeat becomes mainstream as a teen trend
 
 - "Remembering = a ritual of participation" and creating a culture of peer pressure and unity
-
 
 <hr>
 
@@ -120,7 +116,6 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - There are also phenomena where overseas fans rediscover and receive praise as if they were reimported.
 
-
 <hr>
 
 ### Euro and Parapara were complicit
@@ -133,6 +128,6 @@ It was a perfect example of the phenomenon of ""music becoming culture through t
 
 ### Related columns
 
- [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+[[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

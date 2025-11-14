@@ -10,6 +10,8 @@ tags:
 - Rare
 title: Umek – Lanicor
 ---
+
+
 Umek is a Slovenian techno/tech house DJ and producer.
 
 "Lanicor" is a techno track released by Consumer Recreation, a label he co-founded with Slovenian techno DJ Valentino Kanzyani in 1999, and is one of Umek's masterpieces.

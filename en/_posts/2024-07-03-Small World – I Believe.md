@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Small World – I Believe
 ---
+
+
 Paul Hunter, also known as Small World, is a producer from Glasgow, Scotland, and the brother of Michael Hunter, who created the music for Grand Theft Auto IV and San Andreas. Paul Hunter also performs under the names Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade and The Stic.
 
 "I Believe" is a trip-hop downtempo track released in 2005 by Paul Hunter's label Red Hook Recordings, which covers hip-hop, downtempo, funk, jazz, and reggae.

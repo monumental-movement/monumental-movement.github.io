@@ -13,9 +13,11 @@ tags:
 - 90s
 title: Deep Forest – 2 Song Sampler
 ---
-Deep Forest is a French group consisting of Eric Mouquet and Michel Sanchez. 
 
-Deep Forest helped popularize so-called "global pop," which combines ethnic sounds and ambient music. The song ""Sweet Lullaby'' included on this cassette became such a huge hit that the album sold over 2 million copies in the United States. 
+
+Deep Forest is a French group consisting of Eric Mouquet and Michel Sanchez.
+
+Deep Forest helped popularize so-called "global pop," which combines ethnic sounds and ambient music. The song ""Sweet Lullaby'' included on this cassette became such a huge hit that the album sold over 2 million copies in the United States.
 
 Deep Forest went on hiatus after releasing the soundtrack for the 2004 Japanese film "Kusa no Ran." Michel Sanchez left the band in 2005 and began his solo career. Eric Mouquet released the album "Deep" in 2008 under the name Deep Projects.
 

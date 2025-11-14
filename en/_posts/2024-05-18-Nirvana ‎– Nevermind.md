@@ -37,3 +37,4 @@ B6. Something In The Way
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vabnZ9-ex7o?si=0NXz__dn5sqlQNz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
 #### Youtube
+

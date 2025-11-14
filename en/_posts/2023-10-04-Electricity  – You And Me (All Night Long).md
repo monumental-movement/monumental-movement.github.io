@@ -10,9 +10,10 @@ tags:
 - Disco
 title: Electricity – You And Me (All Night Long)
 ---
+
+
 "You And Me (All Night Long)" is
 This is an EP by Electricity released in 1994 by the Italian label "In Out".
-
 
 #### Tracklist```md
 A. You And Me (All Night Long) (Extended Coremix)

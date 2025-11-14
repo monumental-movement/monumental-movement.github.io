@@ -11,6 +11,8 @@ tags:
 - 70s
 title: Kiss – Rock And Roll Over
 ---
+
+
 A cassette tape of Kiss's fifth studio album, ""Hell's Rock Fire,'' released by Casablanca in 1976. Domestic version (Japanese version).
 
 The songs "Hard Luck Woman" and "Calling Dr. Love" became hit singles. It was also the first Kiss album not to feature a writing credit from Ace Frehley, and was once again produced by Eddie Kramer, who produced the 1975 double-disc Kiss Live.

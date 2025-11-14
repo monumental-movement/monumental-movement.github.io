@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Taco – Let's Face The Music (And Dance) Sayonara ('Til We Meet Again)
 ---
+
+
 Taco is an Indonesian-Dutch singer known for the hit song "Puttin' on the Ritz."
 
 An electropop and disco cover of Irving Berlin's famous song, Let's Face the Music.

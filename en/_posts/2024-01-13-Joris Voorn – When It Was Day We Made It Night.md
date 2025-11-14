@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Joris Voorn – When It Was Day We Made It Night
 ---
+
+
 Joris Voorn is a DJ, producer, and remixer from Amsterdam, Netherlands. Since 1997, he has devoted himself to house and techno.
 
 One of the founders of the labels Green and Rejected.

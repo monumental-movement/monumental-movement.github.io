@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Elektrochemie LK – When I Rock
 ---
+
+
 A techno track released in 2001 by German techno heavyweight Thomas Schumacher under the name Elektrochemie LK.
 
 "When I Rock" is one of Thomas Schumacher's masterpieces, along with "Schall!"

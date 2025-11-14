@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Monkees - Words
 ---
+
+
 The Monkees are an American rock band formed by Davy Jones, Micky Dolenz, Mike Nesmith, and Peter Tork. They had a media mix strategy that linked record sales with ""The Monkees Show,'' a one-episode slapstick comedy TV show in which The Monkees themselves appeared.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Aleph – Fire On The Moon
 ---
+
+
 Aleph was a 1980s Italo disco band featuring vocals by Dave Rogers. Other members are Donato Bellini and Marco Manzi.
 
 "Fire On The Moon" is Aleph's third single.

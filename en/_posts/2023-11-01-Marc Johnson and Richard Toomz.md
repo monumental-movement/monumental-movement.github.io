@@ -10,13 +10,15 @@ tags:
 - Hard House
 title: Marc Johnson & Richard Toomz
 ---
+
+
 Dave Owens' DJ career took off in the early 2000s, and he has DJed at some of the club scene's most iconic venues, including Insomniacz, Housework, Insekt, Byte, Ultim-8, Incisions, Hard Up North, Out of Order, Toast, Housewives Choice, and Forbidden.
 
 He was also the resident DJ at Manchester's PureFilth.
 
 Dave's production work is known for its hard-leaning sound in dance music, and he has released works on the hard house and NRG labels that represent the scene.
 
-He also works closely with Nick Denton and helps develop Toolbox Music, as well as leading sub-labels Toolbox Recordings, Hammerheads and Turtle Dog Digital.
+また、ニック・デントンと緊密に協力し、Toolbox Musicの発展に貢献しているほか、サブレーベルであるToolbox Recordings、Hammerheads、Turtle Dog Digitalも率いています。
 
 #### Tracklist```md
 A. Marc Johnson & Richard Toomz–Escapology

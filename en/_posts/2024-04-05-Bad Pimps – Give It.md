@@ -11,6 +11,8 @@ tags:
 - German Techno
 title: Bad Pimps – Give It
 ---
+
+
 Bad Pimps is a project between Patrick Lindsey, one of the founders of the label Kanzleramt, and Stanny Franssen (aka. G-Force), one of the leading artists of the Belgian techno scene.
 
 A techno/tech house track released in 2002 on Monika Kruse's label Terminal M.

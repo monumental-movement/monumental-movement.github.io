@@ -10,6 +10,8 @@ tags:
 - Rap
 title: Puppetmastaz – Bigger The Better
 ---
+
+
 Puppetmastaz is a German hip-hop group formed in Berlin in 1996, consisting of members from Germany, the United States, and Canada, including Max Turner, Chilly Gonzales, Paul PM, Mister Maloke, Mocky, and Alex Tiller, who left the band in 2003.
 
 Puppetmastaz performs shows using hand puppets and is characterized by a musical style that incorporates elements of rap, funk, and electronica.
@@ -27,3 +29,4 @@ B2. What U Need
 [Purchase on Mercari](https://jp.mercari.com/item/m42662167380?afid=6142608987){: .button1}
 
 #### Youtube
+

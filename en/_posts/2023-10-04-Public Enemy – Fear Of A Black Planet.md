@@ -10,8 +10,9 @@ tags:
 - Classic
 title: Public Enemy – Fear Of A Black Planet
 ---
-Public Enemy's "Fear of a Black Planet" has been highly acclaimed as a musically and conceptually excellent album.
 
+
+Public Enemy's "Fear of a Black Planet" has been highly acclaimed as a musically and conceptually excellent album.
 
 #### Tracklist```md
 A1. Contract On The World Love Jam (Instrumental)

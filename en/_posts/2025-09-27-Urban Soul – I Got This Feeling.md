@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Urban Soul – I Got This Feeling
 ---
+
+
 Roland Clark, also known as Urban Soul, is a House/Deep House producer/DJ/songwriter/vocalist from Atlanta.
 
 "I Got This Feeling" is a House/Garage House song released in 1993 by the American label Music Station.

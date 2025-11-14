@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Bob Marley – Soul Almighty – The Formative Years Vol. 1
 ---
+
+
 A remastered work that mixes the original vocals recorded by Bob Marley and the Wailers in Jamaica between 1967 and 1968, with studio instrumental tracks and production from around 1995 and 1996.
 
 A cassette tape released in 1996 that includes unreleased songs.

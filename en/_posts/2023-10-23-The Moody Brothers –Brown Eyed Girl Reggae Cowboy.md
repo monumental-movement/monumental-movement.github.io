@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Moody Brothers –Brown Eyed Girl Reggae Cowboy
 ---
+
+
 The Moody Brothers were an Americana country music trio active in the 1980s and 1990s. The members are Carlton Moody, Dave Moody, and Trent Moody.
 
 The lyrics for side A were written by Van Morrison, and the lyrics for side B were written by David Bellamy of the Bellamy Brothers.

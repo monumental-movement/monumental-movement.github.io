@@ -11,6 +11,8 @@ tags:
 - Tribal
 title: Obi, Charlie Hall – Dreamtech
 ---
+
+
 Obi, Charlie Hall's "Dreamtech" is a very rare record. A1 and B1 are truly genre-less tracks, both containing elements of broken beat/leftfield/dub, with African vocals/chants creating a tribal 90's mood.
 
 Percussion and moving synth lines complete this excellent After Hours gem. It's like something you'd hear in the chill-out rooms of many 90s nightclubs.

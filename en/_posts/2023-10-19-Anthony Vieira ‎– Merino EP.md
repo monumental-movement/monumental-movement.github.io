@@ -10,6 +10,8 @@ tags:
 - UK Techno
 title: Anthony Vieira – Merino EP
 ---
+
+
 Anthony Vieira is a unit formed by Raoul Delgardo and Tony Soares Vieira. "Anthony Vieira – Merino EP" was released in 1999 by the UK techno label Sheep Records.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Lukie D Determine – Between The Sheets
 ---
+
+
 "Between the Sheets" by The Isley Brothers is covered by Lukie D & Determine, singers representing the Jamaican dancehall scene.
 
 The B-side is "Got To Be Real" by Jamaican reggae and gospel singer Chevelle Franklin. Chevelle Franklyn won the 2010 Grammy Award for Best Contemporary Gospel Album.

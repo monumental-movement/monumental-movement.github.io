@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Dummy Run – Dummy Run
 ---
+
+
 Dummy Run is an experimental electro duo by Andrew Sharpley and Nick Birmingham.
 
 The self-titled album released by UK label Hot Air in 1996 is an album where you can enjoy Dummy Run's unique style of drum'n'bass + left field.

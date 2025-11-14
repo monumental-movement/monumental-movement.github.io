@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: Ito & Star – Sudoko Kid
 ---
+
+
 "Ito & Star – Sudoko Kid" is a minimal techno song by Ito (Itamar Levy) and Star (Ophir Star) released in 2007 by Cr2 Records.
 
 The second track on Side A is a remix by minimal techno/tech house producer duo Alexi Delano & Xpansul. The B-side is a remix by British DJ/producer and Saved Records founder Nic Fanciulli.

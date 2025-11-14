@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Prince And The Revolution – Purple Rain
 ---
+
+
 "Prince And The Revolution – Purple Rain" was released in 1984.
 
 #### Tracklist```md

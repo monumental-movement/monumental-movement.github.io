@@ -11,7 +11,9 @@ tags:
 - New-Wave
 title: Echo & The Bunnymen – Enlighten Me (Extended Remix)
 ---
-Echo & The Bunnymen are a UK rock band formed in Liverpool in 1978. The original members were Ian Stephen McCulloch, Will Sergeant, and Les Pattinson. 
+
+
+Echo & The Bunnymen are a UK rock band formed in Liverpool in 1978. The original members were Ian Stephen McCulloch, Will Sergeant, and Les Pattinson.
 
 By 1980, Pete De Freitas joined as drummer.
 

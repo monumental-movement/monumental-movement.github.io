@@ -10,7 +10,9 @@ tags:
 - 80s
 title: Dolly Dots – American Dream
 ---
-Dolly Dots was a Dutch girl group that was active from the late 1970s to the late 1980s. It was successful not only in the Netherlands, but also in Belgium, Japan and Turkey.
+
+
+Dolly Dots was a Dutch girl group that was active from the late 1970s to the late 1980s. It was successful not only in the Netherlands, but also in Belgium, Japan and Türkiye.
 
 #### Tracklist```md
 A1.  (They Are) Rollerskating

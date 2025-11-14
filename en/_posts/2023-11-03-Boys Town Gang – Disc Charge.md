@@ -10,6 +10,8 @@ tags:
 - Hi NRG
 title: Boys Town Gang – Disc Charge
 ---
+
+
 Boys Town Gang is a post-disco high-energy group formed in 1980 by San Francisco disco DJ and producer Bill Motley.
 
 Disc Charge, released in 1981, was Boys Town Gang's second album and included a cover of their hit song, "Can't Take My Eyes Off You."

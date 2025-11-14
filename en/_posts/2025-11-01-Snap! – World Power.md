@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Snap! – World Power
 ---
+
+
 The debut album by German Eurodance project Snap!, released by Logic Records in 1990. Snap!'s masterpiece, which includes the hit songs "The Power," "Ooops Up," and "Mary Had A Little Boy."
 
 #### Tracklist```md

@@ -12,6 +12,8 @@ tags:
 - 7inch
 title: Minor Tuning Band - Hit in Disco
 ---
+
+
 The minor tuning band's popular hit in disco '76 was released in 1976.
 
 #### Tracklist```md

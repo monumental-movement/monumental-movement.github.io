@@ -11,6 +11,8 @@ tags:
 - Acid
 title: Joe Smooth – Disco Acid 4
 ---
+
+
 "Disco Acid 4" is an EP by Joe Smooth released in 2003 on the label "Trax Records".
 
 #### Tracklist```md

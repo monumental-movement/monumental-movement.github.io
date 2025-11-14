@@ -11,6 +11,8 @@ tags:
 - Downtempo
 title: Jam&Spoon Feat. Plavka – Kaleidoscope Skies
 ---
+
+
 Jam & Spoon is a German techno/trance duo formed by Rolf Ellmer (Jam) and Markus Löffel (Spoon). They created many popular songs in the 1990s and are known for their sound and production skills.
 
 "Kaleidoscope Skies" is a song produced by Jam & Spoon with Plavka, and features trance/techno elements combined with emotional melodies and electronic beats, and is characterized by an epic soundscape.

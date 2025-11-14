@@ -10,10 +10,11 @@ tags:
 - 90s
 title: Blackburst – Make Make Make
 ---
+
+
 Blackburst is a project by Edward Boellaard. He also works under the names Ax Force and Human Impact.
 
 "Make Make Make" is House, which was released in 1997 by Mr. Cheng"s Quality Tunes, an independent label based in Amsterdam, Netherlands that specializes in early house, lo-fi house, retro techno, indie disco, and broken beats.
-
 
 #### Tracklist```md
 A1. Make Make Make

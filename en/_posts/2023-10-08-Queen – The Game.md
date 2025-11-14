@@ -10,6 +10,8 @@ tags:
 - Pops
 title: Queen – The Game
 ---
+
+
 "The Game" is Queen's eighth studio album and shows the evolution and diversity of the band's musical style. In addition to traditional rock sounds, this album also includes songs that incorporate elements such as disco and funk.
 
 The album includes many hit songs, including Queen's signature songs "Another One Bites the Dust" and "Crazy Little Thing Called Love." These songs featured pop melodies and catchy refrains, and were loved by a wide range of listeners.

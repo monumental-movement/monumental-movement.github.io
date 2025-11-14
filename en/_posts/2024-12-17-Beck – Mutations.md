@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Beck – Mutations
 ---
+
+
 "Mutations" is Beck's sixth studio album, released in 1998 by DGC Records. It was produced by Nigel Godrich, known as the producer of Radiohead, and won the Grammy Award for Best Alternative Music Album.
 
 The 12th track is a bonus track only available on the Japanese version. The 14th track is an international bonus track.

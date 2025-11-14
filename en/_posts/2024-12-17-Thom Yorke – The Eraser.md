@@ -13,6 +13,8 @@ tags:
 - Rock
 title: Thom Yorke – The Eraser
 ---
+
+
 "The Eraser" is the debut solo album by UK musician Thom Yorke, released in 2006 by XL Recordings. The producer is Nigel Godrich, the longtime producer of Thom Yorke's band Radiohead.
 
 The album was named one of the best albums of 2006 by NME and Rolling Stone magazines, and was nominated for Best Alternative Music Album at the 2006 Mercury Music Awards and the 2007 Grammy Awards.

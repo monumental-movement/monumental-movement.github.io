@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Darren Tate & Jono Grant – Shine
 ---
+
+
 Darren Tate is a house trance dance music DJ/producer from the UK who is a member of JODA and also works under the names DT8 Project and 8 Ball.
 
 Jono Grant is a member of the UK electronic music group Above & Beyond, and a producer who is also active as a member of JODA, Dirt Devils, and Zed-X.

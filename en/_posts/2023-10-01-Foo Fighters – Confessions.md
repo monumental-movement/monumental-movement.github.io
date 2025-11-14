@@ -10,6 +10,8 @@ tags:
 - Rare
 title: Foo Fighters – Confessions
 ---
+
+
 A house remix of Foo Fighters' BEST OF YOU single from their 2005 album In Your Honor. Single-sided press.
 
 #### Tracklist```md

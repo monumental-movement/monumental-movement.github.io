@@ -9,6 +9,8 @@ tags:
 - Techno
 title: DJ Shiva vs. Adam Jay – Finality EP
 ---
+
+
 DJ Shiva is a US techno DJ/producer currently known as Noncompliant.
 
 Adam Jay is a US techno and tech house DJ/producer.
@@ -25,3 +27,4 @@ B1. Borderline Shift (Adam Jay's Remix)
 B2. The Last Word (Adam Jay's Remix)
 ```
 [Purchase on Mercari](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
+

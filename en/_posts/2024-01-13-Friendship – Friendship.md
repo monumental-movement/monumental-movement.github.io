@@ -11,6 +11,8 @@ tags:
 - 70s
 title: Friendship – Friendship
 ---
+
+
 Produced by top musicians Abraham Laboriel, Alex Acuña, Don Grusin, Ernie Watts, Lee Ritenour, and Steve Forman.
 Friendship
 Jazz funk album by. Released in 1979.

@@ -9,6 +9,8 @@ tags:
 - Drum n Bass
 title: Dillinja – Fluid Hard Noize
 ---
+
+
 This is a track that every drum & bass fan will love. What no one understood was how the song's "Reese" sound, a whirring synthesizer sound, was created. It was probably processed by the E-MU sampler's Z-plane filter.
 
 This Reese sound was used on a variety of tracks, including "Nasty Ways," "Take My Life," "Love Is Not a Game Remix," and "Bambaata Remix," and variations of it were also used on "Tudor Rose" and "Go Dillinja."

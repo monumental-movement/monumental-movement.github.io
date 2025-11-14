@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Justin Timberlake – Like I Love You
 ---
+
+
 Justin Randall Timberlake is an American pop singer, R&B singer, and actor. He has won multiple Grammy Awards.
 
 He once gained popularity as the frontman of the boy group Insync.

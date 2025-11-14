@@ -11,13 +11,15 @@ tags:
 - Electro
 title: Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen
 ---
-Lee Burridge is a British DJ and producer. In the early 1990s, he helped launch Hong Kong's underground club scene. 
+
+
+Lee Burridge is a British DJ and producer. In the early 1990s, he helped launch Hong Kong's underground club scene.
 
 He is also active as Tyrant Soundsystem with DJ Craig Richards and Sasha.
 
 Dan Findlay, also known as Dan F, is a DJ and bar owner based in Hong Kong.
 
-Along with Technasia and others, Dan F is known as one of the first Hong Kong-based artists to release club music including breakbeat, tech house, and minimal techno. 
+Along with Technasia and others, Dan F is known as one of the first Hong Kong-based artists to release club music including breakbeat, tech house, and minimal techno.
 
 Dan F also works under other names: Red Buddha, Random Source, and Sinosine.
 

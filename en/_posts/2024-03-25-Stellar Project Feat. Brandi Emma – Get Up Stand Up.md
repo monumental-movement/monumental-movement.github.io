@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Stellar Project Feat. Brandi Emma – Get Up Stand Up
 ---
+
+
 Stellar Project is a house/dance project by Italian producer Stefano Sorrentino.
 
 Side A is a remix by Italian house/techno DJ duo Phunk Investigation.

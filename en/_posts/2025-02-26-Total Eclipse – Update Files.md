@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Total Eclipse – Update Files
 ---
+
+
 Total Eclipse is a project started in 1992 by three French producers. He became famous for his goa-trance albums released in 1995 and 1996.
 
 "Update Files" is a psychedelic trance album released in 2003 by the Japanese gore and psytrance label Arcadia Music.

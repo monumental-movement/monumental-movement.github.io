@@ -10,6 +10,8 @@ tags:
 - Big Beat
 title: Buffalo Daughter – WXBD
 ---
+
+
 "Buffalo Daughter - WXBD" is an album by Japanese experimental rock band Buffalo Daughter.
 
 Their music is characterized by an experimental sound that incorporates elements from a variety of genres, including alternative rock, electronica, psychedelic, and post-rock. Their songs are constructed with innovative approaches, including unique rhythmic patterns, sampling, and the use of synthesizers.

@@ -14,6 +14,8 @@ tags:
 - 00s
 title: Pick up works by Outlaw
 ---
+
+
 "Deviation is a product of interaction, Outlaw works"
 
 <hr>
@@ -27,7 +29,6 @@ Genre: Experimental Noise
 
 Summary: Released in 2004 by Important Records, this is the ultimate work of destructive expression by noise artist Merzbow.
 
-
 Outlaw feeling: The defiance that elevates sonic destruction to the level of art is ""legal violence'' that causes music itself to deviate from the norm. A symbol of unfettered destruction on the periphery.
 
 #### Tracklist```md
@@ -38,13 +39,13 @@ Outlaw feeling: The defiance that elevates sonic destruction to the level of art
 5. White Peafowl
 ```
 <iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Joey Beltram – The Rising Sun (CD, Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
@@ -54,7 +55,6 @@ Format: CD
 Genre: Mix Techno
 
 Summary: Released in 2004, a collaboration work with Tresor. A deep introduction by a leading techno producer.
-
 
 Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A combative sound that does not get submerged in the system.
 
@@ -71,13 +71,13 @@ Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A
 10. Tenth
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
@@ -87,7 +87,6 @@ Format: CD
 Genre: German Techno / Compilation
 
 Summary: Released in 1998, a gorgeous compilation that overlooks the techno scene of the 80s and 90s.
-
 
 Outlaw feeling: an anti-mainstream cultural accumulation where you can experience the historical juncture of early Berlin techno.
 
@@ -107,8 +106,9 @@ Outlaw feeling: an anti-mainstream cultural accumulation where you can experienc
 13. Substance –Plate Element 2
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -140,13 +140,13 @@ Outlaw feeling: A pilgrimage to the dark side of the sound city, combining multi
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
@@ -156,7 +156,6 @@ Format: Vinyl
 Genre: Acid / Techno / Trance
 
 Summary: Released in 1992, a great compilation from Tresor's early days. A historic piece that embodies the "echoes of family."
-
 
 Outlaw feeling: Memories of urban community improvisation and dark struggles that encompass the scene's birth.
 
@@ -174,13 +173,13 @@ D1. Maurizio – Ploy (Strategic Mix)
 D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Benga & Walsh vs Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
@@ -191,7 +190,6 @@ Genre: Dubstep
 
 Overview: Experience the outlaw nature of a bass trigger with a composition that highlights the individuality of each artist.
 
-
 Outlaw feeling: Direct invasion of the body by the base. Contains violence and solidarity that go beyond hearing.
 
 #### Tracklist```md
@@ -200,13 +198,13 @@ A. Benga & Walsh–Addicts
 B. Darqwan–Megatection
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Zed Bias – Ambush Riddim / Cosmic Minefield
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
@@ -217,7 +215,6 @@ Genre: Dubstep/Electronic
 
 Summary: A record that captures the cutting edge of UK electronic music in the early 2000s.
 
-
 Outlaw feel: The aggressiveness of the rhythm shakes the urban space and transports the listener to an extraordinary world.
 
 #### Tracklist```md
@@ -226,13 +223,13 @@ A. Ambush Riddim
 B. Cosmic Minefield
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Skrillex – Scary Monsters And Nice Sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
@@ -242,7 +239,6 @@ Format: CD
 Genre: Dubstep / Electro / Prog House
 
 Summary: Japanese version released in 2012. A monumental work that shook the boundaries of the mainstream.
-
 
 Outlaw feel: The pop-oriented yet violent sound shows the gap between institutional inclusion and resistance.
 
@@ -258,8 +254,9 @@ Outlaw feel: The pop-oriented yet violent sound shows the gap between institutio
 9. Kill Everybody (Bare Noize Remix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -274,7 +271,6 @@ Genre: Breaks / Electro (with Industrial Hip Hop / Dubstep remix)
 
 Overview: Released in 2003. A destructive piece by a DJ who straddles the gap between punk and electronic sounds.
 
-
 Outlaw feeling: The violent pleasure of genre collision and mixing. An urge to break down established divisions.
 
 #### Tracklist```md
@@ -285,9 +281,11 @@ B1. Rabaukendisko (The Bug's Dancehell Remix Feat. MC Ras Bogle)
 B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
+

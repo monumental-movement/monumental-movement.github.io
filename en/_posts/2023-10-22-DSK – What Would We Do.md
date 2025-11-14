@@ -10,6 +10,8 @@ tags:
 - 90s
 title: DSK – What Would We Do
 ---
+
+
 "What Would We Do" is characterized by its catchy melody and rhythm. In particular, vocal loops and electronic sounds set the tone for the song.
 
 It became popular in the dance music scene of the 1990s and was played in many clubs and on the radio.

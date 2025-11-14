@@ -10,6 +10,8 @@ tags:
 - Hard Rock
 title: Foreigner – Head Games
 ---
+
+
 Foreigner is a British-American rock band formed in New York City and London in 1976 by British musicians Mick Jones and Ian McDonald and American vocalist Lou Gramm.
 
 "Head Games" is Foreigner's third album, and is also known as the band's signature sound.

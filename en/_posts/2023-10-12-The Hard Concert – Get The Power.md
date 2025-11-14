@@ -10,6 +10,8 @@ tags:
 - Disco
 title: The Hard Concert – Get The Power
 ---
+
+
 The Hard Concert is an Italo-Eurodance project by Italian producer Paolo Armaroli, DJ/producer Pieradis Rossini, founder of Italian dance label DJ Movement, dance music producer/DJ Graziano Fanelli, and Italian producer Marco Rizzi.
 
 "Get The Power" is said to be The Hard Concert's masterpiece.

@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Elvis Costello And The Attractions – Let Them All Talk
 ---
+
+
 Elvis Costello was included in Rolling Stone's list of the 100 Greatest Artists of All Time, and was inducted into the Rock and Roll Hall of Fame in 2003 as part of Elvis Costello and the Attractions.
 
 "Let Them All Talk" is Elvis Costello's 24th single, released in 1984.

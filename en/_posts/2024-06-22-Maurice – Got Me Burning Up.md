@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Maurice – Got Me Burning Up
 ---
+
+
 Maurice (King Maurice) is DJ Pierre's younger brother, and the two of them are also known as The Wild Pitch Brothers.
 
 Side A is a remix by DJ Pierre, a pioneer of acid house sound.

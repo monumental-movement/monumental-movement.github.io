@@ -9,6 +9,8 @@ tags:
 - Happy Hardcore
 title: Charly Lownoise Mental Theo – Wonderfull Days
 ---
+
+
 This song is known as a Dutch happy hardcore classic released in 1994. Charly Lownoise and Mental Theo are a Dutch DJ and producer duo who achieved great success in the Eurodance and happy hardcore scenes of the 1990s.
 
 "Wonderfull Days" is played at many clubs and rave events, and is loved by many for its catchy melody and positive energy.

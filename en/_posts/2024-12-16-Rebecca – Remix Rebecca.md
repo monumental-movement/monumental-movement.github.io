@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Rebecca – Remix Rebecca
 ---
+
+
 Rebecca's "Remix Rebecca" original cassette tape released by Fitzbeat in 1987. This is Rebecca's first remix album and her best album. It was a big hit, reaching number 11 on the Oricon charts in 1987.
 
 #### Tracklist```md

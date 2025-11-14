@@ -10,6 +10,8 @@ tags:
 - Indie Rock
 title: Elastica – Connection
 ---
+
+
 "Connection" is a single by British alternative rock band Elastica. The song was released as the lead single from their self-titled debut album "Elastica" (1995). Elastica is a band active in the 1990s known for their unique sound that blends elements of punk rock and pop.
 
 "Connection" is an energetic and catchy song, featuring a heavy guitar riff and Carolyn Anderson's signature vocals. The song has a simple, short melody, stands out for its bright guitar playing, and is one of Elastica's most famous songs, with its pop melody and catchy hook resonating with many listeners. The song achieved high rankings on the UK singles chart and became the band's signature song.

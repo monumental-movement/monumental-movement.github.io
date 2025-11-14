@@ -12,6 +12,8 @@ tags:
 - 90s
 title: T99 – Anasthasia
 ---
+
+
 T99 was a Belgian duo active in the late 80's and early 90's.
 T99 was originally Patrick De Meyer's solo project, but T99 became a Patrick De Meyer and Olivier Abbeloos recording after Patrick heard Olivier Abbeloos' song ""Anasthasia'' and suggested that Abbeloos release it as T99.
 

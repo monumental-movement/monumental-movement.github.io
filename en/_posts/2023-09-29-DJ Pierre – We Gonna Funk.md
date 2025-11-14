@@ -10,6 +10,8 @@ tags:
 - Acid
 title: DJ Pierre – We Gonna Funk
 ---
+
+
 This record, released in 1993 by the UK label Solid Pleasure, includes "We Gonna Funk ((Underground Mix)").
 
 Incorporating elements of Nightcrawlers' "Push the Feeling On," this track is a great mix that's even better than the original.

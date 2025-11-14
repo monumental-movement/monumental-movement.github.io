@@ -12,11 +12,13 @@ tags:
 - 7inch
 title: Yoshimi Iwasaki – Touch
 ---
+
+
 "Yoshimi Iwasaki – Touch" was released in 1985.
 
 Lyrics – Kangjinhua
 
-Music & Arrangement – Hiroaki Serizawa
+Music & Arrangement – ​​Hiroaki Serizawa
 
 #### Tracklist```md
 A. タッチ

@@ -12,11 +12,11 @@ tags:
 - Anime
 title: '[Column] Music-like manga artist Keiichi Koike - Visual rhythm played by lines'
 ---
+
+
 ## Prologue: The Line Rings - Keiichi Koike, a "musical manga artist"
 
-
 Text: mmr｜Theme: Thoughts on the fact that Keiichi Koike's manga is "comics that are like music"
-
 
 Keiichi Koike's manga is more like a listening experience than reading it.  
 The quivering lines, the contrast between black and white, and the gaps in the page structure convey both silence and noise at the same time.  
@@ -54,7 +54,7 @@ During this period, the foundations of **temporal/rhythmic expression** in line 
 
 - **1986**: First book "SPINOZA" published (Sakushasha).  
   Characterized by philosophical themes and abstract visuals.  
-  By adjusting the density of lines, screen composition, and temporal rhythm, **visual musicality** is revealed.
+  **Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
   
 - **1988**: Published ""Katajikenai'' (Hakusensha) and ""G (GATE 1)'' (Schola).  
   The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
@@ -114,17 +114,15 @@ graph LR
     B["G (1988)<br>Motif: Science fiction/life transformation<br>Technique: Tense dense lines<br>Music metaphor: Industrial"]:::b
     C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/Consciousness Expansion<br>Technique: Wave structure of entire page<br>Musical metaphor: Psychedelic Ambient"]:::c
 
-    A --> B --> C
+A --> B --> C
 
-    classDef a fill:#1a1a1a,color:#fff;
+classDef a fill:#1a1a1a,color:#fff;
     classDef b fill:#2a2a2a,color:#fff;
     classDef c fill:#3a3a3a,color:#fff;
-
 
 </div>
 
 ---
-
 
 ## Chapter 7: Chronology - Keiichi Koike's trajectory
 

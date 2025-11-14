@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Momoe Yamaguchi – Playback Part 2
 ---
+
+
 "Momoe Yamaguchi – Playback Part 2" was released in 1978.
 
 Arrangement: Mitsuo Hagita

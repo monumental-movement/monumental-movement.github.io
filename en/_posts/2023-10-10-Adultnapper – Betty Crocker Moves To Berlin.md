@@ -11,9 +11,10 @@ tags:
 - Electro
 title: Adultnapper – Betty Crocker Moves To Berlin
 ---
+
+
 "Betty Crocker Moves To Berlin"
 This is an EP from Adultnapper, a project by Francis Harris, released in 2007 by the UK label Superfreq Records.
-
 
 #### Tracklist```md
 A. Betty Crocker Moves To Berlin

@@ -10,6 +10,8 @@ tags:
 - Jungle
 title: Pick up drum and bass works
 ---
+
+
 ""A remarkable group of drum and bass works that shake the floor with sharp beats and heavy bass lines.''
 
 <hr>
@@ -24,8 +26,9 @@ X. Nylon Roadster
 Y. Cosmic Glue
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -42,13 +45,13 @@ X. Nylon Roadster
 Y. Cosmic Glue
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 #### Youtube
 
 <hr>
-
 
 ### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
@@ -61,8 +64,9 @@ A. Hard Noize
 AA. Fluid
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -79,8 +83,9 @@ A. Cosmik
 AA. Loop Progression
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -98,8 +103,9 @@ A. Cambraia
 B. Brasil
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -118,8 +124,9 @@ B1. Pay To Cum VIP
 B2. You Don't Know
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -138,8 +145,9 @@ AA. Pressure (Laurentlaboratoiral'ancienne Mix)
 Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 #### Youtube
 

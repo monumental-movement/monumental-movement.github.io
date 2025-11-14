@@ -10,6 +10,8 @@ tags:
 - Hard House
 title: DJ Rip – House Playerz E.P
 ---
+
+
 "House Playerz E.P" is
 This is an EP by DJ Rip, whose real name is Xavier Jacome, released in 1998 on the label "Underground Construction."
 

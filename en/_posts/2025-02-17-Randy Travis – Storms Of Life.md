@@ -12,12 +12,13 @@ tags:
 - 80s
 title: Randy Travis – Storms Of Life
 ---
+
+
 Randy Travis is an American country singer and actor who has been active since 1979.
 
 Their debut studio album, Storms of Life, released in 1986, was a huge commercial success and made them famous. It has been certified as a triple platinum disc.
 
-Randy Travis is known as one of the people who contributed to the development of neo-traditional country, along with Reba McEntire, George Strait, Toby Keith, and others.
-
+Randy Travisは、リーバ・マッキンタイア, ジョージ・ストレイト, トビー・キース等と並びネオトラディショナルカントリーの発展に貢献した一人として知られている。
 
 #### Tracklist```md
 A1. On The Other Hand

@@ -11,6 +11,8 @@ tags:
 - 90s
 title: DJ Quicksilver – Cosmophobia
 ---
+
+
 DJ Quicksilver is a German-Turkish producer and DJ. Representative songs include "Bellissima" and "Ameno". He also works as a remixer for Ian van Dahl, Faithless, and The Verve.
 
 "Cosmophobia" is a trance track released by German trance label Underdog in 1999. The vocals on side A are in German and the vocals on side B are in English.

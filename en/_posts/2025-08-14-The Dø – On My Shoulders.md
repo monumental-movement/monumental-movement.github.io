@@ -11,6 +11,8 @@ tags:
 - 00s
 title: The Dø – On My Shoulders
 ---
+
+
 The Dø is a Finnish-French indie pop band formed in Paris in 2005. Members are Olivia Merilahti & Dan Levy. Their first studio album, ""A Mouthful,'' released in 2008, was a worldwide hit, topping the French charts.
 
 This record is a House/Minimal mix of the first single "On My Shoulders". It was released in 2009 on the label Voidcom.
@@ -19,7 +21,6 @@ Side A features French DJ/producer Alexkid (Alexis Mauri) and German House DJ du
 mix by.
 
 B-side is a mix by Alexkid (Alexis Mauri) and Philipp Jung.
-
 
 #### Tracklist```md
 A. On My Shoulders (Head&Shoulders Dub Club Reprise)

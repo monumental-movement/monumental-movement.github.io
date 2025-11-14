@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The 5th Dimension – Aquarius Let The Sunshine In
 ---
+
+
 The 5th Dimensio is a US vocal group active from the late 1960s to the early 1970s with the styles of sunshine pop, pop soul, and psychedelic soul.
 
 In 1969, he won the Grammy Award for Best Record of the Year for "Aquarius/Let The Sunshine In."

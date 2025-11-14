@@ -11,12 +11,13 @@ tags:
 - 00s
 title: Lexy / Autotune – Shibuya Love
 ---
+
+
 Co-produced by Berlin-based DJ/producer Lexy (Alexander Gerlach) and German electro/techno/house producer duo Autotune.
 
 "Shibuya Love" is an Electro House/Tech House song released on Low Spirit Recordings' sub-label Jakuza Records in 2001.
 
 B1 is a remix by German techno DJ Rok, who has released many songs on prestigious labels such as International Deejay Gigolo Records, Müller Records and Tresor.
-
 
 #### Tracklist```md
 A. Shibuya Love (Original)

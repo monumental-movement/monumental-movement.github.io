@@ -10,6 +10,8 @@ tags:
 - House
 title: The Actors Pedantry – Diffrint Hings Oan E.P
 ---
+
+
 It was released in 1999 by Ampoule, a label based in Glasgow, Scotland. The drums on side A sample "Saturday Night, Sunday Morning" by Mitchell Bottler and Norma Helms.
 
 #### Tracklist```md

@@ -10,6 +10,8 @@ tags:
 - Hard House
 title: Filter Science – Darkness Falls (Joey Beltram Remix)
 ---
+
+
 This "Filter Science – Darkness Falls (Joey Beltram Remix)" is the second pressing.
 
 The track was produced by Shane Andrews in Melbourne, Australia, and remixed by Joy Bertram in New York, USA.

@@ -10,9 +10,10 @@ tags:
 - Tribal
 title: Fumiya Tanaka – Player EP
 ---
+
+
 "Player EP" is
 This is Fumiya Tanaka's EP released by Torema Records in 2002.
-
 
 #### Tracklist```md
 A1. Talking Drums

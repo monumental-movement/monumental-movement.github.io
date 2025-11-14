@@ -11,7 +11,9 @@ tags:
 - 7inch
 title: The Rascals – People Got To Be Free My World
 ---
-The Rascals are a blue-eyed soul band formed in New York in 1964. They released a series of hit songs from 1965 to 1969, and People Got To Be Free (Hymn to Freedom) is one of their hit songs and signature songs. 
+
+
+The Rascals are a blue-eyed soul band formed in New York in 1964. They released a series of hit songs from 1965 to 1969, and People Got To Be Free (Hymn to Freedom) is one of their hit songs and signature songs.
 
 The band also influenced Japanese musicians such as Shogo Hamada and Tatsuro Yamashita.
 #### Tracklist```md

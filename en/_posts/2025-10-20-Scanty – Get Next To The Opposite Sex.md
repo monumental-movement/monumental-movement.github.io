@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Scanty – Get Next To The Opposite Sex
 ---
+
+
 Richard Marshall, also known as Scanty, is a London-based DJ and producer who has produced many famous club records under various names over the years.
 
 "Get Next To The Opposite Sex" is a House/Tech House song released in 2001 by Garry Blackburn & Norman Cook's label Southern Fried Records.

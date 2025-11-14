@@ -10,6 +10,8 @@ tags:
 - Hyper Techno
 title: DJ Zorro – Fuego
 ---
+
+
 "Fuego" is a Spanish word that means "fire," and as you can imagine from the song's title, it is a passionate and energetic song. The song incorporates Latin rhythms and elements while fusing them with elements of dance music.
 
 DJ Zorro's "Fuego" has often been used as a song to liven up the dance floor when playing at clubs and parties. Its rhythmic beat and catchy melody will make you want to dance.

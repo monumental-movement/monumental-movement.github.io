@@ -10,6 +10,8 @@ tags:
 - Hard Rock
 title: Heart – Dreamboat Annie
 ---
+
+
 "Dreamboat Annie" is the debut studio album by American rock band Heart.
 
 At the time, the band was based in Vancouver, British Columbia, and the album was recorded there and first released in Canada by local label Mushroom Records in September 1975. The album later reached number 20 on RPM's Top Albums chart and was certified double platinum.

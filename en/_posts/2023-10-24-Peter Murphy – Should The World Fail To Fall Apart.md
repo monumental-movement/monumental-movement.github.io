@@ -11,6 +11,8 @@ tags:
 - Rare
 title: Peter Murphy – Should The World Fail To Fall Apart
 ---
+
+
 Should the World Fail to Fall Apart is the debut album by British solo artist Peter Murphy, formerly a member of the gothic rock band Bauhaus.
 
 The album includes Murphy's covers of Magazine's "The Light Pours Out of Me" and Pere Ubu's "Final Solution." Released in 1986.

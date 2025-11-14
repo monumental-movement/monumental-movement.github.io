@@ -10,6 +10,8 @@ tags:
 - Psychedelic
 title: The Beatles – Revolver
 ---
+
+
 A notable song on "Revolver" is "Eleanor Rigby." This heartwarming song features a string octet and showcases Paul McCartney's storytelling talent.
 
 There is another song on the album called "Taxman". This song was written by George Harrison and contains criticism of the high tax system in Britain at the time. "Yellow Submarine" is another popular track.

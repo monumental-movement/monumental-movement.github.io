@@ -10,6 +10,8 @@ tags:
 - Hard House
 title: Jose 2 Hype – Mirage E.P
 ---
+
+
 Jose Gutierrez, aka Jose 2 Hype, has been one of the pioneers of techno and rave culture since 1992.
 
 Released in 1996 on the Chicago label Underground Construction, "Jack Attack" is Jose 2 Hype's anthem.

@@ -9,6 +9,8 @@ tags:
 - Trance
 title: Morgana Dank-One – Another Night Flower
 ---
+
+
 This is an EP released by the label "Major Record" in 2005.
 
 #### Tracklist```md

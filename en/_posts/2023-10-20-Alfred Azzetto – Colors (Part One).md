@@ -9,6 +9,8 @@ tags:
 - House
 title: Alfred Azzetto – Colors (Part One)
 ---
+
+
 Alfred Azzetto is a house music producer and DJ. He is also famous as the producer of DB Boulevard, whose 2002 release "Point of View" became a worldwide hit.
 
 "Alfred Azzetto – Colors (Part One)" samples Wilbert Longmire"s "Black Is the Color," released in 1978. It was released in 2007 by the Swiss garage label Purple Music.

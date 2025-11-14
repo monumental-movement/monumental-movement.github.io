@@ -10,12 +10,13 @@ tags:
 - 80s
 title: Criminal Element Orchestra – When The Funk Hits The Fan
 ---
+
+
 Criminal Element Orchestra is the name of Arthur Baker's electronic/breaks/garage house project from the 1980s to 1990s.
 
 "When The Funk Hits The Fan" was released in 1989 and was included on the album "Locked Up" released in the same year.
 
 "When the Funk Hits the Fan" is regarded as a pioneer of neo-soul and electronic funk, and is one of Arthur Baker's signature songs.
-
 
 #### Tracklist```md
 A1. When The Funk Hits The Fan (12" Vocal Version)

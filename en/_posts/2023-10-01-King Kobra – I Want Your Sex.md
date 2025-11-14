@@ -9,6 +9,8 @@ tags:
 - Euro Beat
 title: King Kobra – I Want Your Sex
 ---
+
+
 This is a single from "King Kobra", a project by his real name David Brian Srb.
 
 David Brian Srb was born in Omaha, Nebraska, and is a multi-instrumentalist, singer-songwriter, recording engineer, and music producer.

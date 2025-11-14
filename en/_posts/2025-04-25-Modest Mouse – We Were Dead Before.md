@@ -11,12 +11,13 @@ tags:
 - 00s
 title: Modest Mouse – We Were Dead Before
 ---
+
+
 Modest Mouse is a US alternative rock and indie rock band formed in Washington State in 1992 and currently based in Portland, Oregon.
 
 This album, released by Epic in 2007, is Modest Mouse's masterpiece, reaching number one on the Billboard album chart.
 
 The producer is Dennis Herring, who has worked on bands such as The Hives, Elvis Costello, and Counting Crows.
-
 
 #### Tracklist```md
 1. March Into The Sea

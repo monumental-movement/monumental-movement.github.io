@@ -11,8 +11,9 @@ tags:
 - 00s
 title: Tomaz vs Filterheadz – Latin Loopworks
 ---
-Tomaz vs Filterheadz is a collaboration between Belgian techno DJ and producer Tomaz (aka Thomas Janssens) and the duo Filterheadz (Bert Filip Wilmaers & Maarten Jan Wilmaers).
 
+
+Tomaz vs Filterheadz is a collaboration between Belgian techno DJ and producer Tomaz (aka Thomas Janssens) and the duo Filterheadz (Bert Filip Wilmaers & Maarten Jan Wilmaers).
 
 "Latin Loopworks" is a Tribal/Techno track released in 2001 on Session Recordings, the label of Belgium's leading DJ Marco Bailey.
 

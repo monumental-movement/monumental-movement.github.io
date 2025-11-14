@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: Funkis – Sweden-Kalmar-Funkabo
 ---
+
+
 Funkis is a unit formed by Dan Fun and Nikolas Rowland. "Sweden-Kalmar-Funkabo" was released in 1997 by Sweden's Weber Börft Records.
 
 #### Tracklist```md

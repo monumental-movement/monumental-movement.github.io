@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Pick up Happy Hardcore works
 ---
+
+
 "A series of endlessly high-tension, Happy Hardcore works that transcend both the past and the future."
 
 <hr>
@@ -29,8 +31,9 @@ B1. Wonderfull Days (Trance Mix)
 B2. Wonderfull Days (Radio Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -52,13 +55,13 @@ B1. Bramfeld
 B2. Call Me Mañana (Heavy Horses Radio)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Ratty – Sunrise (Here I Am)
 <a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(Here%20I%20Am).webp"></a>
@@ -67,7 +70,6 @@ Overview: Songs by Scooter's trance-derived project Ratty
 
 Features: Represents the original version of "She"s The Sun" "Sunrise (Ratty"s Inferno)". A passionate floor track that looks great in the club.
 
-
 #### Tracklist```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -75,13 +77,13 @@ B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Phase vs. DJ Sniper Feat. Karen – Forevermore / Ignition Sequence
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
@@ -97,13 +99,13 @@ B1. Ignition Sequence Start
 B2. Forevermore (Original)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Mv5UPmMP3k?si=M9PpidAR23I_ooHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### DJ Breeze – Jump A Little Higher
 <a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
@@ -118,9 +120,11 @@ a. Jump A Little Higher (Brisk Remix)
 b. Jump A Little Higher
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
+

@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Pick up deep house works
 ---
+
+
 ""A remarkable group of works that symbolize deep house, carving sophisticated beats and deep grooves that envelop the city night.''
 
 <hr>
@@ -30,8 +32,9 @@ B1. Even Tuell –Untitled
 B2. Sascha Dive –Untitled
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -52,18 +55,18 @@ B1. Cosmic Love (Sirius Boogie Mix)
 B2. Cosmic Love (FS Cosmic Regroove)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNICn-7P5X4?si=DhSN8Z4qbXKrOcUn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m76703865662?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
 
-
 ### Danny Clark & Jay Benham Featuring Carla Prather – Into You
 <a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.webp"></a>
 
-Summary: "Into You" is a deep house/garage house track by UK house music producers Danny Clark & Jay Benham featuring Carla Prather.
+Summary: "Into You" is a deep house/garage house track by UK house music producers Danny Clark & ​​Jay Benham featuring Carla Prather.
 
 Recommended points: An emotional deep house track with a deep bass line and smooth vocals. It also has the essence of a garage flavor and can be enjoyed in a wide range of situations.
 
@@ -75,8 +78,9 @@ B1. Into You (Ray Jones Mix)
 B2. Into You (Animal House Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j83LVLU8_pA?si=eBqbfZRVKCuxpkC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m15102745172?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 ---
+
+
 A song by American hip-hop artist Afrika Bambaataa and his band The Soulsonic Force, released in 1982.
 
 It is known as a pioneering song that combines elements of electronic music, funk, and hip-hop. The song features a unique synthesizer riff and vocal sample, and its innovative sound had a major influence on the evolution of hip-hop and dance music.

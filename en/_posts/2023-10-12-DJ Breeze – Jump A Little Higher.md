@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: DJ Breeze – Jump A Little Higher
 ---
+
+
 DJ Breeze (Mark Breeze) was a DJ and producer who was popular in the British dance music scene in the 1990s and 2000s. Specializing in happy hardcore and hardcore breakbeat styles, he created many club hits.
 
 "Jump A Little Higher" features an uplifting melody and energetic beat, and is a track frequently played in hardcore scenes and rave.

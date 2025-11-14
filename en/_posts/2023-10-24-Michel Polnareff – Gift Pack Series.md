@@ -11,6 +11,8 @@ tags:
 - 70s
 title: Michel Polnareff – Gift Pack Series
 ---
+
+
 The Michel Polnareff – Gift Pack Series was released by Epic in 1973.
 
 #### Tracklist```md

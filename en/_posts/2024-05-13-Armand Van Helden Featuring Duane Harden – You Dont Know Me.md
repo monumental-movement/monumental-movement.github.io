@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Armand Van Helden Featuring Duane Harden – You Don't Know Me
 ---
+
+
 "You Don't Know Me" by Armand Van Helden and Duane Harden is a best-selling dance single and club hit house track that topped the UK Singles Chart in January 1999.
 
 "You Don't Know Me" samples the strings from Carrie Lucas' "Dance With You" and the drums/beat from Jaydee's "Plastic Dreams."

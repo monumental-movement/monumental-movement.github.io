@@ -13,6 +13,8 @@ tags:
 - 90s
 title: Kelly-G Perfect Rhythm – Trip Into The Future
 ---
+
+
 The producer is Aron Friedman, also known as Kelly-G, who is from the UK and based in the US.
 
 A breakbeat hardcore techno track released in 1991 on Perception Records, an early UK hardcore and techno label run by Unie Weimer and Aron Friedman.

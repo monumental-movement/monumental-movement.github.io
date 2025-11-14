@@ -10,6 +10,8 @@ tags:
 - Progressive
 title: Klangkontakt – Dekadent
 ---
+
+
 "Dekadent" is
 A progressive house track by Klangkontakt (Dennis Shadow) released in 2001 on Nextfire Recordings, a sublabel of Low Spirit Recordings founded by WestBam, DJ Dick, William Röttger, Klaus Jankuhn, and others.
 

@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Strip Steve – Skip School EP
 ---
+
+
 A techno house track released on Boysnoize Records in 2007 by Strip Steve, a French DJ and producer who also works as a support DJ for Boys Noize. "You & I", included in the album, is Strip Steve's signature song and became a huge hit. He also works under other names as CAPTCHA and Théo Pozoga.
 
 The jacket design is by Paul Snowden, a New Zealand graphic designer based in Berlin. He has designed designs for Boysnoize Records and Man Recordings.

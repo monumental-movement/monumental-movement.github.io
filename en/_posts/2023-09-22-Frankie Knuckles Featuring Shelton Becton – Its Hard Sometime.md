@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime
 ---
+
+
 Frankie Knuckles is a disco and house music pioneer, and Shelton Becton is a singer-songwriter/vocalist.
 
 "It's Hard Sometime" is a collaborative song between them, featuring a soulful melody, delicate rhythm, heart-touching lyrics and an elegant house sound.

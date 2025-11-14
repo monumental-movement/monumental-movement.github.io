@@ -10,6 +10,8 @@ tags:
 - Remix
 title: Susumu Yokota – Zero Remixes EP Vol.2
 ---
+
+
 Remix cut Vol. 2 from Susumu Yokota's masterpiece "Zero" released by Sublime Records in 2001 includes a remix by Kyoto Jazz Massive for "Feel My Love" and Susumu Yokota's own mix for Hallelujah.
 
 #### Tracklist```md

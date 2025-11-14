@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Engenheiros Do Hawaii – Surfando Karmas & DNA
 ---
+
+
 Engenheiros do Hawaii (Engineers from Hawaii) was a Brazilian rock band formed in Porto Alegre in 1983 and active until 2008. It gained great popularity for its wordplay and sarcastic, critical songs. Vocalist and bassist Humberto Gessinger is the only original member.
 
 "Surfando Karmas & DNA" is an album released in 2002. It includes representative songs such as "Esportes Radicais" and "Terceira do Plural".

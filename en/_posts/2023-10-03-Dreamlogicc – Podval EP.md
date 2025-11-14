@@ -10,6 +10,8 @@ tags:
 - Techno
 title: Dreamlogicc – Podval EP
 ---
+
+
 "Dreamlogicc – Podval EP" was released in 2012 by the American label Kimochi.
 
 *Limited edition of 200 copies, A3 and A4 are uncredited interludes that end with a locked groove.

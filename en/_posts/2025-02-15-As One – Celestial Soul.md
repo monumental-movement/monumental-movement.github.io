@@ -13,6 +13,8 @@ tags:
 - 90s
 title: As One – Celestial Soul
 ---
+
+
 AS ONE is the name of the solo project of British DJ and techno producer Kirk Degiorgio. Their style is a mix of Detroit techno, funk, soul, and jazz.
 
 "Celestial Soul" is a CD released by the label New Electronica in 1995.

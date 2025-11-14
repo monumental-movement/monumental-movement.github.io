@@ -9,6 +9,8 @@ tags:
 - Ambient
 title: Various – The Great Fighting II
 ---
+
+
 "V/A - Various – The Great Fighting II" was released by Overseas Records in 1978.
 
 #### Tracklist```md
@@ -32,4 +34,7 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 
 など
 ```
+
+
 [Purchase on Mercari](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
+

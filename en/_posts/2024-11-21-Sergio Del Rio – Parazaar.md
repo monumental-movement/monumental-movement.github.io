@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Sergio Del Rio – Parazaar
 ---
+
+
 Sergio Del Rio is a DJ and producer from Italy. He also works under the names DJ Power, Ethnosonique, Gambafreaks, etc.
 
 "Parazaar" is a house track released in 2003 by the house specialty division of Spanish label Vale Music.

@@ -10,6 +10,8 @@ tags:
 - House
 title: Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair
 ---
+
+
 "Bittersweet Love Affair" is an EP by Jay "Sinister" Sealée & Louie Vega released on the UK label "Atal" in 2009.
 
 #### Tracklist```md

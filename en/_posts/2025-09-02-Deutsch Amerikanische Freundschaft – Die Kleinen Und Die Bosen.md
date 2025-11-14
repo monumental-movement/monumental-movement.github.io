@@ -10,6 +10,8 @@ tags:
 - 80s
 title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
+
+
 DAF is an electropunk/Neue Deutsche Welle band formed in Düsseldorf, Germany in 1978. Known as a pioneer of EBM, NDW, house, techno, and NDH.
 
 This record is DAF's second album, released by Mute Records in 1980.

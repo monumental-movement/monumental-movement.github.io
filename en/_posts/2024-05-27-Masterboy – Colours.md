@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Masterboy – Colors
 ---
+
+
 Masterboy, led by Tommy Schleh and Enrico Zabler, is Europe's best-known euro dance group, releasing a series of worldwide hit songs in the 90s. They were active from 1990 to 2004, took a hiatus, and resumed their activities in 2013.
 
 "Colours" is Masterboy's fifth album released in 1996, and is a Euro house CD that includes hit songs such as "Show Me Colours."

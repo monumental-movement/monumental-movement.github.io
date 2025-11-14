@@ -10,6 +10,8 @@ tags:
 - Euro Beat
 title: Snap! – Cult Of Snap (World Power Mix)
 ---
+
+
 "Snap! – Cult Of Snap (World Power Mix)" is a song by Snap! Snap! is a German Eurodance group active in the 1980s and 1990s, known for hits such as "The Power" and "Rhythm Is a Dancer." "Cult Of Snap (World Power Mix)" features a catchy sound and pop energy.
 
 "Cult Of Snap (World Power Mix)" is one of Snap!'s most popular songs and is familiar to dance music fans and pop music lovers.

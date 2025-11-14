@@ -11,6 +11,8 @@ tags:
 - Euro House
 title: El Cubano – Samba Nueva
 ---
+
+
 Samba Nueva by El Cubano is a Latin Eurohouse track released in 1998 on the Italian label Muzic Without Control Records.
 
 #### Tracklist```md

@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Nomak – Calm
 ---
+
+
 An Instrumental/Jazzy Hip-Hop/Downtempo album released in 2007 by Nomak (Masashi Kamon), known for his remixes of PISMO & Shingo02's ""Velodrome'' and Ryuichi Sakamoto & Shing02's ""Rokkasho.''
 
 #### Tracklist```md

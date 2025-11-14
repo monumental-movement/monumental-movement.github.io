@@ -10,6 +10,8 @@ tags:
 - Compilation
 title: Various – Die Neuen Italo Superhits
 ---
+
+
 "Various – Die Neuen Italo Superhits" is a compilation album released by the German label "Ariola" in 1987.
 
 #### Tracklist```md

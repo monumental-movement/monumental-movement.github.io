@@ -10,6 +10,8 @@ tags:
 - Progressive
 title: Fluke – Pulse
 ---
+
+
 Fluke was formed in the late 1980s by Londoners Mike Bryant, Jon Fugler, and Mike Tournier.
 
 Side A is a remix by British progressive house DJ Trisco (Harvey Dawson).

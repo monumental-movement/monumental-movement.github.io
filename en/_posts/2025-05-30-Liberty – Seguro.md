@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Liberty – Seguro
 ---
+
+
 Liberty is a duo consisting of Belgian DJ/producers Johan Goyvaerts (DJ Liberty) and Maurits Engelen (Maurizzio). Maurizzio's uncle is Praga Khan, who is considered one of the pioneers of the Belgian new beat/acid house/techno-electronic dance music scene.
 
 "Seguro" is a hard trance track released by Belgian label No Name Records Trance in 2000.

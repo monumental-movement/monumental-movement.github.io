@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Electribe 101 – You're Walking
 ---
+
+
 Electribe 101 was a group that was active from 1988 to 1992. The front is Billie Ray Martin.
 
 Specializing in dark, psychedelic, bluesy and electronic soulful house, he supported Depeche Mode on their 1990 'World Violation Tour'.

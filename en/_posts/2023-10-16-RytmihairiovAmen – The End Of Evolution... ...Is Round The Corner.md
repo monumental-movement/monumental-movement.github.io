@@ -12,6 +12,8 @@ tags:
 - Punk
 title: RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner
 ---
+
+
 Rytmifäärä is a deathcore/hardcore/metal band from Helsinki formed in 1988. Amen is a Finnish hardcore punk band.
 
 #### Tracklist```md

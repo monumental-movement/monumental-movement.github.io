@@ -10,6 +10,8 @@ tags:
 - Soul
 title: The Brothers Johnson – Kick It To The Curb
 ---
+
+
 The Brothers Johnson is an American soul/funk/jazz/disco band. Formed in Los Angeles, California in 1975, the group is led by brothers George and Louis Johnson. Early members included his cousin Alex Ware.
 
 The two began their careers as backing musicians for the likes of Bobby Womack and Billy Preston, before being discovered by producer Quincy Jones.

@@ -10,6 +10,8 @@ tags:
 - Synth-pop
 title: Spiral Life – Freaks Of Go Go Spectators 2
 ---
+
+
 Spiral Life is a music unit composed of Koji Kurumatani and Shokichi Ishida. Active period: 1993-1996.
 
 "Freaks Of Go Go Spectators 2" is a concept mini-album released in 1996, with a total of 10 songs, including 4 new songs and remixes of singles not included in the album.

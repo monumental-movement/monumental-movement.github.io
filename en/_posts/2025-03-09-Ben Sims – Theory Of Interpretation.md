@@ -11,10 +11,11 @@ tags:
 - 00s
 title: Ben Sims – Theory Of Interpretation A Mastermix By Ben Sims
 ---
+
+
 Ben Sims is a heavyweight in the techno world who has been active at the forefront of the UK rave scene in the 80's and the UK dance scene in the 90's for many years.
 
 This album, released in 2001, is a mix CD containing a total of 33 songs, including Ben Sims' own recordings.
-
 
 #### Tracklist```md
 Level 1	

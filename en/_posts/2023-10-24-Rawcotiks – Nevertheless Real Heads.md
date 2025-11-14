@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Rawcotiks – nevertheless Real Heads
 ---
+
+
 "Rawcotiks – Yet Real Heads" was released in 1997 on Opposition Records.
 
 Rawcotiks is a unit of Dominican hip-hop musicians Jeff Valentino and Bladmillo Castillo based in Washington Heights, New York.

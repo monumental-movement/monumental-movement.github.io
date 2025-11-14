@@ -10,8 +10,9 @@ tags:
 - Triphop
 title: Lo-Fidelity Allstars – Disco Machine Gun
 ---
-"Puppy Phat" from "Lo-Fidelity Allstars - Disco Machine Gun" blurs the line between trip-hop and big beat with its downtempo tempo but thick beat and sleazy bassline. Hidden as a B-side, this song is one of Lo-Fi's best tracks.
 
+
+"Puppy Phat" from "Lo-Fidelity Allstars - Disco Machine Gun" blurs the line between trip-hop and big beat with its downtempo tempo but thick beat and sleazy bassline. Hidden as a B-side, this song is one of Lo-Fi's best tracks.
 
 #### Tracklist```md
 A. Disco Machine Gun

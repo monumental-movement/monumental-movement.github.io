@@ -9,6 +9,8 @@ tags:
 - House
 title: Soul Purpose – Indulge
 ---
+
+
 Soul Purpose, aka Martin Ikin (also known as DJ Mayhem), has been producing hardcore, jungle techno, and drum and bass tracks for labels like Basement, Face, and Precious Materials since the early '90s.
 
 Since then, he has released US-style house music and jungle tracks in collaboration with DJ Phantasy.

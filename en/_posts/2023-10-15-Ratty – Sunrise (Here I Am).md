@@ -10,6 +10,8 @@ tags:
 - Hard Trance
 title: Ratty – Sunrise (Here I Am)
 ---
+
+
 Ratty is the trance-side project of German artist Scooter, who specializes in happy hardcore, bouncy, techno, techno, trance, and hardstyle.
 
 The B-side "Sunrise (Here I Am) (Instrumental)" is the original version of Scooter's 2000 single "She's The Sun" called "Sunrise (Ratty's Inferno)".

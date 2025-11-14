@@ -10,6 +10,8 @@ tags:
 - Hi NRG
 title: Mark Tower & Co. – My Desire
 ---
+
+
 Composed by Giuliano Crivellente, Mauro Farina. The vocalist is Gianni Coraini (also known as Ken Laszlo, DJ NRG, and many others).
 
 "Mark Tower & Co. – My Desire" was released in 1990 by Italy's Italo Disco and Eurobeat label Asia Records.

@@ -10,7 +10,9 @@ tags:
 - Minimal
 title: Troy Pierce – 25 Bitches Vol. I
 ---
-Troy Pierce is an American electronic music DJ and producer based in Berlin. 
+
+
+Troy Pierce is an American electronic music DJ and producer based in Berlin.
 
 Troy Pierce is also active as Louderbach, a minimal techno house project with Gibby Miller, and runs the German label Items & Things with Magda and Marc Houle.
 

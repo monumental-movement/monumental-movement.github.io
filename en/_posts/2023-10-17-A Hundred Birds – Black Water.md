@@ -9,9 +9,11 @@ tags:
 - House
 title: A Hundred Birds – Black Water
 ---
+
+
 A Hundred Birds is a Japanese orchestral band that was formed in 1996 around DJ YOKU and plays house music with an orchestral band.
 
- "Black Water" was released in 2006 from the label "WAVE MUSIC" run by François Kevorkian (Francois K.).
+"Black Water" was released in 2006 from the label "WAVE MUSIC" run by François Kevorkian (Francois K.).
 
 Participating members
 ・Omae Chizuru

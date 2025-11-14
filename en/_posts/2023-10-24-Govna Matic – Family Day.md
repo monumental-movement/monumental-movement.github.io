@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: Govna Matic – Family Day
 ---
+
+
 Govna Matic is another name for Gov Matic (Tha Governer) from Diezzle Don & Tha Governer. This record features Redman, Pacewon, Roz, Runt Dog, Tame One, Young Zee, Commander Jesse, and more.
 
 #### Tracklist```md

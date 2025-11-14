@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Prince Rahiem – Rock Wit' It
 ---
+
+
 Rahiem Thomas, also known as Prince Rahiem, is an American rapper from Miami who debuted in 1988 as a member of The Get Funky Crew. Collaborated with Beatmaster Clay D on the 1990 album "Pullit All the Way Down." As a solo artist, he released two albums: Loose My Money (1992) and On a Ride (1994).
 
 "Rock Wit' It" is a single cut from the album On A Ride.

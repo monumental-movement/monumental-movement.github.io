@@ -10,6 +10,8 @@ tags:
 - Ambient
 title: Mickey Hart – Planet Drum
 ---
+
+
 ""Planet Drums'' is a world music album by Mickey Hart, a musician and musicologist who was a member of the rock band Grateful Dead.
 
 The concept was to play drum music with percussionists from around the world and incorporate their different musical styles and traditions into a new global sound. The musicians who participated in this album came from the mainland United States (Mickey Hart), Puerto Rico (Giovanni Hidalgo and Frank Colon), India (Zakir Hussain and T.H. "Vic" Vinayakram), Nigeria (Sikiru Adepoju and Babatunde Olatunji), and Brazil (Aatu Moreira and his wife, vocalist Flora Purim).

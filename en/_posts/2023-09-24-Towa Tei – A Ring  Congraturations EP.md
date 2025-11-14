@@ -11,6 +11,8 @@ tags:
 - 10inch
 title: Towa Tei – A Ring Congratulations EP
 ---
+
+
 Towa Tei (former member of Deee-Lite) is a Japanese music producer, DJ, and artist known for his unique musical style that combines genres such as house, electronic, and techno.
 
 "A Ring" is a song with a danceable beat and a catchy melody, highlighting Towa Tei's unique sound arrangement and creative sampling.

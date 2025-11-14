@@ -11,6 +11,8 @@ tags:
 - Latin
 title: Sintesis – Ancestros
 ---
+
+
 Sintesis is Cuba's first progressive rock/symphonic rock band, formed in 1976. Known for their experimental sound that incorporates ethnic musical styles, they are influenced by a variety of genres, including traditional Cuban music, African elements, jazz, rock, and electronic.
 
 #### Tracklist```md

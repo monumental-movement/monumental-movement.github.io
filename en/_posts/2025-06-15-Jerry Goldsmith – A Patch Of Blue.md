@@ -11,10 +11,11 @@ tags:
 - 70s
 title: Jerry Goldsmith – A Patch Of Blue
 ---
+
+
 Soundtrack of the 1965 American film ""A Patch of Blue.'' Reissue released in 1978.
 
 Jerry Goldsmith has composed scores for over 170 films, including ""Planet of the Apes,'' ""Papillon,'' ""The Omen,'' ""Alien,'' ""Poltergeist,'' ""Rambo,'' and ""Star Trek.''
-
 
 #### Tracklist```md
 A1. Main Title

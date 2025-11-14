@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Picking up UK techno works from the 90s
 ---
+
+
 "A remarkable group of works that symbolized the 90s UK techno scene with their rigid rhythms and cutting-edge sound design."
 
 <hr>
@@ -31,11 +33,11 @@ B1. Steadycam
 B2. Neon
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+
 [Purchase on Mercari](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
-
 #### Youtube
-
 
 <hr>
 
@@ -58,9 +60,7 @@ UK electro/techno work by Sean Booth & Rob Brown. A CD featuring experimental rh
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
-
 <hr>
-
 
 ### Luke Slater – Freek - Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
@@ -91,7 +91,6 @@ UK techno & electronica. Released by NovaMute. Mixmag's top 5 albums of the 90's
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
-
 <hr>
 
 ### D.O.M. – Acid War (Liberator DJs RMX)
@@ -107,7 +106,6 @@ A.  Acid War (Liberator DJs RMX)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
-
 
 <hr>
 
@@ -132,7 +130,6 @@ D2. Optic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
-
 <hr>
 
 ### Surgeon – Dry
@@ -141,7 +138,6 @@ D2. Optic
 Released: 1999
 
 Intense techno track under the name Surgeon
-
 
 #### Tracklist```md
 A1. Untitled
@@ -152,7 +148,6 @@ B2. Untitled
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
-
 
 <hr>
 
@@ -168,7 +163,6 @@ B. The House Is Mine '92 (Westbam Remix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
-
 
 <hr>
 

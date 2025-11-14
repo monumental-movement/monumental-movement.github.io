@@ -10,6 +10,8 @@ tags:
 - Ambient
 title: Sven Vath – Fusion
 ---
+
+
 "Sven Väth - Fusion" is an album by German techno DJ and producer Sven Väth. He is a very important figure in the techno music scene and has had a long and successful career.
 
 "Fusion" is an album full of powerful beats, groovy rhythms, and dreamy soundscapes.

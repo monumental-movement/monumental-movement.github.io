@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Bebop Dawg – Rumble In Rio
 ---
+
+
 Lasse Mosegard / Illinton, also known as Bebop Dawg, is a musician and producer based in Barcelona.
 
 He is also a member of Franke And Illinton, a unit with Frank Madsen, a leading figure in the progressive psychedelic goa-trance world from Denmark, known as Frank E, and Raoul Express, a unit with Danish EDM producer Mads Arp.
@@ -27,3 +29,4 @@ B1. Um Dia Sobre La Praia
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrT7tRyS4Ic?si=zoHijMsjtWmsnxcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
 
 #### Youtube
+

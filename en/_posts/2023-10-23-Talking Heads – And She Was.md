@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Talking Heads – And She Was
 ---
+
+
 "And She Was" is a single cut from the US rock band Talking Heads' sixth album "Little Creatures" released in 1985.
 
 The jacket is by American artist Howard Finster.

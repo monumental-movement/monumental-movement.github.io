@@ -10,6 +10,8 @@ tags:
 - Hyper Techno
 title: Dave and Dr. DOPE – Get Wild
 ---
+
+
 A hyper-techno arrangement mix of TM NETWORK's "Get Wild" by Italian producers Dave Rodgers and Dr. D.O.P.E.
 
 Producers: Alberto Contini and Dave Rodgers.

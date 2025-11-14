@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Gregorythme – Peter Pan Syndrome
 ---
+
+
 Gregorythme (
 Gregory Poncet (also known as Gregorism) is also active as a deep techno duo Digitaline with Laps. Since 2006, under the name Gregorythme, he has released works on labels such as Bruchstuecke, Minibar, Sushitech, Minimood, Rebirth, no19, and Cityfox.
 
@@ -22,3 +24,4 @@ A. Synchtrouble
 B. Mindthedrop
 ```
 [Purchase on Mercari](https://jp.mercari.com/item/m19636023289?afid=6142608987){: .button1}
+

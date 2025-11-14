@@ -10,6 +10,8 @@ tags:
 - Gabber
 title: Rotterdam Wolves – Rotterdam Anthem
 ---
+
+
 Rotterdam Wolves is a project by Hans Tieleman, owner of Dutch house/techno-hardcore label Mid-Town Records, Rene Bakker, and Joost Walter.
 
 "Rotterdam Anthem" is a hardcore/gabber techno track released in 1993 by Skip Records, a hardcore/gabber label based in Rotterdam, the Netherlands.

@@ -10,6 +10,8 @@ tags:
 - Break Beat
 title: Manix – Manic Minds
 ---
+
+
 "Manix" is the solo project of 4 Hero's Marc Clair. Manix was one of the most important artists in the UK rave scene at the time, which centered around old school breakbeats.
 
 [Sample list]

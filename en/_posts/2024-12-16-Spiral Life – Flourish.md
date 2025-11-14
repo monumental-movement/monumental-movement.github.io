@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Spiral Life – Flourish
 ---
+
+
 "Flourish", released in 1995, is Spiral Life's third studio album and last album.
 
 Spiral Life is a unit composed of Koji Kurumatani and Shokichi Ishida who were active from 1993 to 1996. During their three years of activities, they released three original albums, with "Flourish" becoming their biggest hit.

@@ -13,6 +13,8 @@ tags:
 - 90s
 title: Dan Curtin – New World EP
 ---
+
+
 Dan Curtin is an American producer and DJ. Focusing on techno/house, they incorporate a wide range of styles such as hip-hop and electronic music.
 
 "New World EP" is a Techno/House/Tribal/Latin track released in 1998 by the label Sublime Records.

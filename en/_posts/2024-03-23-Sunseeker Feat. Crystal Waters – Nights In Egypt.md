@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Sunseeker Feat. Crystal Waters – Nights In Egypt
 ---
+
+
 Featured Crystal Waters is a house vocalist born in Deptford Township, New Jersey in 1961.
 
 She is the daughter of jazz musician Junior Waters and great-niece of Ethel Waters, who runs IAH Records.

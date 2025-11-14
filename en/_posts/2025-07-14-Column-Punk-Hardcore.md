@@ -10,13 +10,14 @@ tags:
 - Hardcore
 title: '[Column] Definition of punk and hardcore: the turning point of anger and expression'
 ---
+
+
 ## Definition of punk and hardcore ─ The crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 
 In the late 1970s, young people felt oversaturated with commercialized rock music, and ""music that is simple, rough, and above all, expresses its true feelings'' was born. It's punk. However, even this punk style eventually began to turn inward, sometimes formally. It was hardcore punk that once again unleashed the flames of anger.
 In this column, we will delve into the definitions and differences between punk and hardcore from the perspectives of music, ideology, fashion, and history.
-
 
 <hr>
 
@@ -48,7 +49,6 @@ In Britain in the 1970s, a recession, soaring unemployment rates, and a sense of
 
 Politically, it was the nascent stage of Thatcherism. Music functioned as that counterculture.
 
-
 <hr>
 
 ### What is hardcore?
@@ -78,7 +78,6 @@ Politically, it was the nascent stage of Thatcherism. Music functioned as that c
 - Symbolic of police repression, anger towards conservative society, and violent live culture.
 
 - Violence and gangs are also an issue in some scenes.
-
 
 <hr>
 
@@ -130,7 +129,6 @@ Politically, it was the nascent stage of Thatcherism. Music functioned as that c
 
 However, the two are not in a conflicting relationship. Hardcore can be said to be an evolved or branched form of punk, or rather it can be interpreted as hardcore becoming more radical as a result of trying to maintain the fundamentalist aspects of punk.
 
-
 <hr>
 
 ### Punk and hardcore from a current perspective
@@ -143,10 +141,10 @@ In Japan, hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) has created a unique 
 
 Nowadays, there is a re-evaluation among Generation Z and DIY festivals, and it continues to maintain its strength as a subculture.
 
-
 <hr>
 
 ### Beyond "rebellion"
 
 Punk and hardcore are not just music genres. Rather, it is an expression of the philosophy of ""having your own voice,'' and it is a medium that expresses this through sound, body, and group.
 What these two trends ask us is not just destruction, but perhaps a guideline for the future: ""What should we resist and what should we create?''
+

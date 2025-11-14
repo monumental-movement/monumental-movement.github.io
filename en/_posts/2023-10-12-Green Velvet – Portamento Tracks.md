@@ -10,7 +10,9 @@ tags:
 - Techno
 title: Green Velvet – Portamento Tracks
 ---
-Curtis Alan Jones, better known as Green Velvet, is a singer/record producer/DJ from Chicago. 
+
+
+Curtis Alan Jones, better known as Green Velvet, is a singer/record producer/DJ from Chicago.
 
 Also known as Cajmere, Geo Vogt, Half Pint, Curan Stone, and Gino Vittori.
 

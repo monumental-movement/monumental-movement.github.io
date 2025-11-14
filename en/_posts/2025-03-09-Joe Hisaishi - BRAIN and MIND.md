@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Joe Hisaishi - BRAIN&MIND Soundtrack Vol.1
 ---
+
+
 Soundtrack for the NHK special ""Amazing Microcosm: Human Body 2: Brain and Mind'', composed by Joe Hisaishi, a composer known for the Hayao Miyazaki anime. Although it was released in 1993, this album, which expresses the microcosm through sound, is an album that will be listened to through the ages.
 
 #### Tracklist```md

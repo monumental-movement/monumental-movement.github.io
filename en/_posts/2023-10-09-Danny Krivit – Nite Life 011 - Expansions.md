@@ -10,6 +10,8 @@ tags:
 - Mix
 title: Danny Krivit – Nite Life 011 - Expansions
 ---
+
+
 Slammin' and jammin' jazzy house from one of New York's most experienced disc jockeys. Danny Krivit has been active in the New York disco scene from Paradise Garage to Danceteria to Save the Robots to Limelight to today. He plays his "Body & Soul" residency every Sunday.
 
 CD1 has a slightly eclectic feel, and CD2 is full of high quality sounds. Especially when Klubfilter, Funk Against Jazz, Dennis Ferrer, and Nigel Hayes are all mixed together, it creates a live instrument-heavy concert atmosphere. Things like Celebrate and especially Octave One's "Blackwater" and Peckham Royalty with their amazing keyboards make this special.

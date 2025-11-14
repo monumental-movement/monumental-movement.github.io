@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Pick up High Energy (Hi-NRG) works
 ---
+
+
 ""A remarkable group of works symbolizing the high-energy golden age that thrilled the floor with dazzling synths and piercing beats.''
 
 <hr>
@@ -26,13 +28,13 @@ A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Norma Sheffield – "Look Me In The Eyes"
 <a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.webp"></a>
@@ -47,8 +49,9 @@ B1. Look Me In The Eyes (FM Version)
 B2. Look Me In The Eyes (Instrumental)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtvV5BMBcPc?si=SgrcvqmpQWZsp68b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -69,8 +72,9 @@ B1. Higher (The Midnight Sun Edit)
 B2. Higher (Instrumental)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3AanGM0hsMc?si=mIY--6XNX6zFOmA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -92,13 +96,13 @@ B2. Boogie Dancer (Milan Mix)
 B3. Boogie Dancer (Verona Beat)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Dave Hammond – "Africa"
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
@@ -114,13 +118,13 @@ B2. Africa (Instrumental)
 B3. Africa (Dub Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jbpKNXEB_k?si=ONxRMNyF7X4A5Po7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Pseudonym – "You Have The Right To Remain Silent"
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
@@ -133,8 +137,9 @@ A. You Have The Right To Remain Silent
 B. You Have The Right To Remain Silent (Loadsadubvipermix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GkgA62cU_o4?si=iYe-CsLUGhiac7u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

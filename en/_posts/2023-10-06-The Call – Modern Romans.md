@@ -10,12 +10,13 @@ tags:
 - New-Wave
 title: The Call – Modern Romans
 ---
+
+
 The Call is an American rock band formed in Santa Cruz, California in 1980. They released nine studio albums over 20 years before disbanding in 2000. Representative songs include "Let the Day Begin," which was used as the theme song for Al Gore's 2000 presidential campaign.
 
 Released in 1983, Modern Romans was The Call's second album and showed their musical maturity and sophistication. Although the album is influenced by post-punk and new wave, it features a unique sound and magnificent melodies. It includes the singles ""Walls Came Down'' and ""Everywhere I Go.''
 
 ""Modern Romans'' received high praise from critics and enthusiastic support from some fans. Although the album was not a commercial success upon its release, it later developed a cult following.
-
 
 #### Tracklist```md
 A1. The Walls Came Down

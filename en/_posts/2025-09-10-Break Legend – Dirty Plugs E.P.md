@@ -12,10 +12,11 @@ tags:
 - 00s
 title: Break Legend – Dirty Plugs E.P.
 ---
+
+
 Break Legend is one of the projects of Italian DJ/producer Enrico Ferrari, also known as BSJ.
 
 Progressive Breaks/Breakbeat/Breaks was released in 2004 on the Tech-Breaks label Mantra Breaks and the Italian House/Deep House label Mantra Vibes.
-
 
 #### Tracklist```md
 A. Lychees

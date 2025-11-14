@@ -10,9 +10,11 @@ tags:
 - Deep House
 title: Various – King Britt Presents Black To The Future
 ---
+
+
 A compilation by King Britt, a key figure in the Philadelphia house scene.
 
-The first track on side A, The Society, is a project of composer/arranger/saxophonist Thomas Hass, a touring member of Senor Coconut.
+The Society, the first track on Side A, is a project of composer/arranger/saxophonist Thomas Hass, a touring member of Senor Coconut.
 
 #### Tracklist```md
 A1. The Society –How's Life

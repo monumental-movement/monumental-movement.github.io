@@ -10,6 +10,8 @@ tags:
 - Hard Trance
 title: Cosmic Gate – Somewhere Over The Rainbow
 ---
+
+
 Cosmic Gate is a German DJ duo consisting of trance music producers Claus Terhoeven and Stefan Bossems, active since 1999.
 
 The B-side "Fire Wire" is Cosmic Gate's signature song. Since its release, "Fire Wire" has been remixed by a variety of artists including DJ Scott, Klubdoctorz, Rank 1, Wippenberg, Dimitri Vegas & Like Mike, and DJ Delicious.

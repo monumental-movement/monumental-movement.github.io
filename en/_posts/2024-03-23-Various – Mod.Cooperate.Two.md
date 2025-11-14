@@ -11,6 +11,8 @@ tags:
 - Glitch
 title: Various – Mod.Cooperate.Two
 ---
+
+
 A minimal techno glitch electro house compilation by Nisios, Trike, Metaboman, and Dubnoodles released in 2004 on Milnor Modern, the German techno label founded by Treplec.
 
 #### Tracklist```md

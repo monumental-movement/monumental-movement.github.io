@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Battles – Mirrored
 ---
+
+
 Battles is an experimental rock band formed in 2002 by Ian Williams, formerly of Don Caballero & Storm & Stress.
 
 "Mirrored" is Battles' debut album released by Warp Records in 2007. Battles' masterpiece that received high praise, including being selected as the best album of 2007 by famous media.

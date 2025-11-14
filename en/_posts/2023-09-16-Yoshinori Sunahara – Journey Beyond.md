@@ -10,6 +10,8 @@ tags:
 - Downtempo
 title: Yoshinori Sunahara – Journey Beyond
 ---
+
+
 "Journey Beyond" is part of Yoshinori Sunahara's work, and is one of the songs where you can enjoy his unique sound style. His music is often original and experimental, yet also has a soothing and relaxing feel. The song reflects Yoshinori Sunahara's own musical vision while incorporating elements of ambient music.
 
 His songs, such as "Journey Beyond," are perfect to enjoy while relaxing, focusing, or embarking on a musical journey.

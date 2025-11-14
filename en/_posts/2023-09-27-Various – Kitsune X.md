@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Various – Kitsuné X
 ---
+
+
 "Kitsuné X" is the long-awaited third album by French company Kitsune, released in 2005.
 
 This is a free-form compilation album based on electro, disco, and punk.

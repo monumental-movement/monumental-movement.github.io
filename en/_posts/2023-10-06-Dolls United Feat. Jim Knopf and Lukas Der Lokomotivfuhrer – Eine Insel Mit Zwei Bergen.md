@@ -12,6 +12,8 @@ tags:
 title: Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit
   Zwei Bergen
 ---
+
+
 "Dolls United" is a German Eurodance group. They sample the voices of characters and songs from the TV show Augsburger Puppenkiste, which is popular among children aged 0 to 10.
 
 Their releases refer to sampled characters as "additional artists," such as "Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer" and "Dolls United feat. Die Blechbüchsenarmee."

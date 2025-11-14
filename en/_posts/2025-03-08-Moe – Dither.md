@@ -12,10 +12,11 @@ tags:
 - 00s
 title: Moe. – Dither
 ---
+
+
 Moe is an American jam rock band formed at the University at Buffalo in 1989.
 
 "Dither" is moe's fifth studio album. It was released in 2001 on the band's own label, Fatboy Records, and features DJ Logic, Kirk Juhas, and the Nykw-ILL bros.
-
 
 #### Tracklist```md
 1. Captain America

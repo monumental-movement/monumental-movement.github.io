@@ -11,6 +11,8 @@ tags:
 - Field Recording
 title: Unknown Artist – Gamelan Music Of Bali
 ---
+
+
 A Balinese gamelan music album released by the label Lyrichord.
 
 Founded in 1950 by Peter Fritsch, US record company Lyrichord is America's oldest collection and release of human musical traditions, including field recordings of ceremonial, tribal, and ethnic traditions. This album was recorded by Ruby Ornstein.

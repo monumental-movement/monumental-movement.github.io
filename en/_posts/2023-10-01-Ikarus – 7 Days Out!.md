@@ -10,6 +10,8 @@ tags:
 - Tribal
 title: Ikarus – 7 Days Out!
 ---
+
+
 Ikarus is a project of Toru Shimada and was released in 1998 on his label Philosomatik Records.
 
 "Ikarus – 7 Days Out!" is a record played by many DJs including Danny Tenaglia, Peter Rauhofer, Cevin Fisher and Junior Vasquez.

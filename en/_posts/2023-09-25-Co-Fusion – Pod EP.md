@@ -10,6 +10,8 @@ tags:
 - Japanese Techno
 title: Co-Fusion – Pod EP
 ---
+
+
 This is an EP by Co-Fusion released on the UK label Pro-Jex in 2001.
 
 The Pod EP contains four songs, and each track has a Japanese techno feel to it.

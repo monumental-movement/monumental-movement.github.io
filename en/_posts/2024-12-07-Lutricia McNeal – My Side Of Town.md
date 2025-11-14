@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Lutricia McNeal – My Side Of Town
 ---
+
+
 US R&B singer Lutricia McNeal's debut studio album. This contemporary R&B and Europop-inspired album was released in 1998 as a limited edition by Italian dance label Do It Yourself.
 
 #### Tracklist```md

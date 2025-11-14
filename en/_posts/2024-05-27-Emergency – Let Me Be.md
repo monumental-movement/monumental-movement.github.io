@@ -13,6 +13,8 @@ tags:
 - Rare
 title: Emergency – Let Me Be
 ---
+
+
 Emergency is an Italo dance project by Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, and Pieradis Rossini.
 
 The arranger and producer is Pieradis Rossini, an Italian musician and dance music producer and founder of the Italo dance label DJ Movement.

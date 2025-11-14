@@ -13,6 +13,8 @@ tags:
 - 00s
 title: Rednose Distrikt – Hedde Gy'N Nieuwe Jurk
 ---
+
+
 Rednose Distrikt began as a collaboration between Amsterdam-based band Kid Sublime and Steven de Peven, before Kid Sublime left and Mike Kivits, aka Aardvarck, joined.
 Their sound is characterized by a mix of various elements, including broken beat, offside techno, cut-up soul, and sampled slapstick jazz.
 

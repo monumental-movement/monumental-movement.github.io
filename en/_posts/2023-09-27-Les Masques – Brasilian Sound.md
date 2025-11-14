@@ -10,6 +10,8 @@ tags:
 - Jazz
 title: Les Masques – Brazilian Sound
 ---
+
+
 Les Masques was a French jazz-funk band active in the 1960s. "Brasilian Sound" is one of their representative works.
 
 This album is a reissue of Les Masque's 1969 collaboration with the Brazilian jazz trio LE TRIO CAMARA. It is known as a masterpiece of bossa nova, with a unique rhythmic feel and cheerful atmosphere that incorporates the rhythms, melodies, and percussion of Brazilian music.

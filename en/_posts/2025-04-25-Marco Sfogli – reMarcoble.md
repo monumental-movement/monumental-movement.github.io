@@ -11,10 +11,11 @@ tags:
 - Progressive Rock
 title: Marco Sfogli – reMarcoble
 ---
+
+
 Marco Sfogli is an Italian guitarist. He has performed with James LaBrie of the US progressive metal band Dream Theater, PFM, Icefish, and others.
 
 This album, released by JTC Records in 2012, is Marco Sfogli's second solo album.
-
 
 #### Tracklist```md
 1. Intro

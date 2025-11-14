@@ -10,6 +10,8 @@ tags:
 - Compilation
 title: Invitation To Denon PCM (A Magnificient New Recording System)
 ---
+
+
 "Invitation To Denon PCM (A Magnificient New Recording System)" was released by Denon in 1975.
 
 #### Tracklist```md
@@ -28,3 +30,4 @@ B3. Josef Chuchro, Jan Panenka, Josef Suk–Piano Trio In B-Flat Major, "Archduk
 B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Continuo Op.1-13 など
 ```
 [Purchase on Mercari](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
+

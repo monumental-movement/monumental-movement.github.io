@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Joel Mull – Imagination
 ---
+
+
 Joel Mull's debut album Imagination (2000) remains special to many listeners as the Swedish techno artist left a lasting impression on the scene.
 
 Released early in his career, this album deftly fuses elements of minimal techno and tech house, developing a soundscape with a unique emotional depth.

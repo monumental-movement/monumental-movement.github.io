@@ -10,12 +10,13 @@ tags:
 - Disco
 title: Modjo – Lady (Hear Me Tonight)
 ---
+
+
 "Modjo - Lady (Hear Me Tonight)" is a single released in 2000 by French disco duo Modjo. The song was a huge hit all over the world and reached the top of many charts.
 
 "Lady (Hear Me Tonight)" is a track that combines elements of dance-pop and French house, with a rhythmic beat, catchy melody, and sophisticated production.
 
 It is considered a classic for dance music fans and many people who love 2000s pop music.
-
 
 #### Tracklist```md
 A1  Lady (Hear Me Tonight)

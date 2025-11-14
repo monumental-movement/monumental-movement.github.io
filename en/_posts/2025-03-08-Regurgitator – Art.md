@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Regurgitator – ...Art
 ---
+
+
 Regurgitator is an alternative rock band from Australia. Formed in late 1993 by Quan Yeomans on lead vocals, guitar, and keyboards, Ben Ely on bass guitar, keyboards, and vocals, and Martin Lee on drums.
 
 "...Art" is Regurgitator's third studio album, released in 1999.

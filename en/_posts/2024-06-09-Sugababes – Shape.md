@@ -12,6 +12,8 @@ tags:
 - Promo
 title: Sugababes – Shape
 ---
+
+
 Sugababes is a British female pop group formed in 1998 by the manager of All Saints.
 
 Released in 2003, "Shape" was Sugababes' fourth single, sampling Sting's "Shape of My Heart," a hit that peaked at number 11 on the UK charts and reached the top 10 in the Netherlands and Ireland.

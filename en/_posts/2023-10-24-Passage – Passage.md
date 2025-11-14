@@ -10,6 +10,8 @@ tags:
 - Disco
 title: Passage – Passage
 ---
+
+
 Passage is a solo project by Louis Johnson, the bassist for the American soul/funk/jazz/disco band Brothers Johnson.
 
 A trio group that includes Louis' ex-wife Valerie Johnson and former Brothers Johnson percussionist and singer Richard Heath.

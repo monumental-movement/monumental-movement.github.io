@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Carl Craig – Landcruising
 ---
+
+
 Carl Craig is a member of the second generation of Detroit techno, discovered by Derrick May, who is known as one of the founders of Detroit techno along with Kevin Saunderson and Juan Atkins.
 
 He creates a sound that incorporates various elements such as innovative ambient, techno, breakbeat, and future jazz.

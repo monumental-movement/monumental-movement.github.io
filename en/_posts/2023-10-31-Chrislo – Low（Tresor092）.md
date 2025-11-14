@@ -10,6 +10,8 @@ tags:
 - Mix
 title: Chrislo – Low (Tresor092)
 ---
+
+
 Chrislo Haas is a German musician who had a major influence on the German music scene in the 1980s through his production of synthesizers (Korg MS-20) with bands such as Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses, and Crime & the City Solution, and is considered one of the founders of techno and modern electronic dance music.
 
 #### Tracklist```md

@@ -10,9 +10,11 @@ tags:
 - Pops
 title: Band Aid – Do They Know It"s Christmas
 ---
+
+
 Band Aid is a charity project group formed by Bob Geldof and Midge Ure in 1984 to raise funds for hunger eradication efforts in Ethiopia, bringing together British and Irish rock and pop superstars.
 
- [Participating artists] are as follows.
+[Participating artists] are as follows.
 
 ・Phil Collins (Genesis)
 

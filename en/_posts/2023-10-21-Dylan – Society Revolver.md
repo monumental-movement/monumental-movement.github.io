@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Dylan – Society Revolver
 ---
+
+
 Dylan is the alias of breakbeat, techno, and electro producer Dylan Rhymes. "Society/Revolver" was released in 2000 on Dylan Rhymes' own label Blue Black.
 
 #### Tracklist```md

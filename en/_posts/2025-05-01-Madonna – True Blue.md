@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Madonna – True Blue
 ---
+
+
 True Blue, released in 1986, is Madonna's third studio album. The dance-pop album, influenced by Motown sounds, girl groups, and Latin pop, became a worldwide hit.
 
 The jacket photo for ""True Blue'' features the same pose as Olivia Newton-John's 12th studio album ""Physical.'' Both were created by American photographer Herb Ritts.

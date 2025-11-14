@@ -10,6 +10,8 @@ tags:
 - Progressive
 title: Markus Schulz – Coldharbour Selections Volume 2
 ---
+
+
 A compilation of progressive house & trance tracks selected under the "Coldharbour" brand by Markus Schulz, a German DJ/producer based in Miami, Florida.
 
 #### Tracklist```md

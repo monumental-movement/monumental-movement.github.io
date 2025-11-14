@@ -11,6 +11,8 @@ tags:
 - Thrash Metal
 title: The Spudmonsters – No Guarantees
 ---
+
+
 The Spudmonsters are an American thrash metal, hardcore, crossover band formed in 1987 by Don Foose, Scott Roberts, Steve Swanson, Eric Matthews, and Chris Andrews from Cleveland, Ohio.
 
 "No Guarantees" was released in 1995 on the German label Massacre Records.

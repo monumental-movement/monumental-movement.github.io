@@ -10,6 +10,8 @@ tags:
 - Hi NRG
 title: Norma Sheffield – Look Me In The Eyes
 ---
+
+
 Norma Sheffield is an Italian Eurobeat project. Her public personality is Francesca Contini, who also worked as a composer.
 (Francesca Contini), but the vocals were performed by Chiara De Pieri.
 

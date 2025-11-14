@@ -10,6 +10,8 @@ tags:
 - EDM
 title: Orjan – Arctic Globe / Prison Break
 ---
+
+
 "Orjan - Arctic Globe / Prison Break" is a song by Norwegian trance music producer Orjan.
 
 "Arctic Globe" is characterized by a beautiful melody and a magnificent sound.The combination of melody and synth sounds reminiscent of a cold, shining world of ice takes the listener on a fantastical journey.

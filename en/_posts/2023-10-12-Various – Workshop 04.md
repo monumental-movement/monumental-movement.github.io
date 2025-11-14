@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: Various – Workshop 04
 ---
+
+
 Side A is a deep house track by musicians/DJ Move D (David Moufang) from Heidelberg, Germany, and Fragment.
 
 The first track on the B-side is a deep minimal house track by German producer Even Tuell (Paul David Rollmann).

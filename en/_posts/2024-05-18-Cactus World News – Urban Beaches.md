@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Cactus World News – Urban Beaches
 ---
+
+
 Cactus World News is an Irish rock band formed in Dublin in April 1984. In 1985, he toured the UK with the UK hard rock band The Cult and signed a contract with MCA Records.
 
 ""Urban Beaches'', released by MCA Records in 1986, is Cactus World News' debut album, produced by Chris Kimsey, who worked with The Rolling Stones.

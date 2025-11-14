@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: Craig Alexander - The Exhibit A EP
 ---
+
+
 Craig Alexander has been a fixture in Chicago house music for over 30 years.
 
 My love for music began in the early 80's when I first heard it at "The Music Box" played by the legendary Ron Hardy. Listening to Ron play, he developed a unique style that has rocked dance floors around the world.

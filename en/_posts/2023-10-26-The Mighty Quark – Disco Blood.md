@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: The Mighty Quark – Disco Blood
 ---
+
+
 The Mighty Quark is the minimal techno unit of DK7's Mark O'Sullivan and Walter Bäcklin.
 
 The A-side "Disco Blood" features Swedish techno house DJ Jesper Dahlbäck, and "Physical" is a remix by Irish DJ Fish Go Deep.

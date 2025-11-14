@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: Various – Raging Thrash From Blind Vision
 ---
+
+
 "Raging Thrash From Blind Vision" is
 This record, released by Answer Records in 2000, is a compilation album by Nagoya's local HARDCORE.
 

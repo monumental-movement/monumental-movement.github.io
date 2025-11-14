@@ -12,6 +12,8 @@ tags:
 - 80s
 title: New Order – Substance
 ---
+
+
 New Order is a UK rock band whose predecessor was Joy Division, one of the most representative post-punk bands.
 
 This cassette is a compilation of New Order singles released in 1987, and includes hits such as "Ceremony," "Blue Monday," and "Confusion."

@@ -10,6 +10,8 @@ tags:
 - Pops
 title: Yumi Matsutoya – Da・Di・Da
 ---
+
+
 "DA・DI・DA" is Yumi Matsutoya's 17th original album released in 1985.
 
 Participating musicians

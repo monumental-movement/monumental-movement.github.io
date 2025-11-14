@@ -9,6 +9,8 @@ tags:
 - Techno
 title: Technasia – Force
 ---
+
+
 "Force" by Technasia can be called a techno anthem.
 
 "Force" is a great classic, with the vocals making this typical Technasia track special.

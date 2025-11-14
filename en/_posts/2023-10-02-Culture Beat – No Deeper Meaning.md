@@ -10,6 +10,8 @@ tags:
 - Euro Beat
 title: Culture Beat – No Deeper Meaning
 ---
+
+
 "No Deeper Meaning" was recorded by Jay Supreme and Nosie Katzmann's German Eurodance band Culture Beat and released as the fourth and final single from their first studio album, Horizon (1991).
 
 The female vocals were provided by Lana Earl and reached number 4 in the Netherlands and number 9 in Portugal. Outside Europe, it ranked 3rd on Canada's RPM Dance/Urban chart.

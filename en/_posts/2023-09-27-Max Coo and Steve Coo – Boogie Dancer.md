@@ -11,6 +11,8 @@ tags:
 - Hi NRG
 title: Max Coo & Steve Coo – Boogie Dancer
 ---
+
+
 This work, released by Asia Records in 1990, is by the unit "Max Coo & Steve Coo" by COO COO, famous for the hit "UPSIDE DOWN".
 
 The promised Eurobeat by MAURO FARINA.

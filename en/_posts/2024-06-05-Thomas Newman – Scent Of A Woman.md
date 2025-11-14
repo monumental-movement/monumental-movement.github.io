@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Thomas Newman – Scent Of A Woman
 ---
+
+
 Tracks A1-A6, A8-A10, B1-B2, and B4-B7 were composed by American composer Thomas Newman. Thomas Newman has created scores for numerous films, including The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall, and Specter.
 
 Tracks A7 and B3 are also by the American band The Tango Project.

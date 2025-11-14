@@ -10,6 +10,8 @@ tags:
 - Pops
 title: U2 – The Joshua Tree
 ---
+
+
 ""The Joshua Tree'' was inspired by Joshua Tree National Park, a desert area in the southwestern United States. The album develops U2's unique musical style while exploring religious themes and political messages. Fusing elements of rock, pop, blues, and folk, it features epic soundscapes and emotional lyrics.
 
 The album includes the hit songs "With or Without You," "I Still Haven't Found What I'm Looking For," and "Where the Streets Have No Name."

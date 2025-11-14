@@ -11,6 +11,8 @@ tags:
 - House
 title: Quarks – Allein
 ---
+
+
 Quarks, an electro-pop duo from Berlin, Germany, was formed in 1995 and consists of Gudrun Gut and Thomas Fehlmann. They became popular in the German electronic music scene in the late 1990s and early 2000s.
 
 Quarks' music combines elements of electronic pop, synth pop, and experimental sounds.

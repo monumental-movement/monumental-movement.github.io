@@ -10,6 +10,8 @@ tags:
 - Psychedelic
 title: Of Montreal – The Gay Parade
 ---
+
+
 of Montreal is an American rock band formed in Georgia in 1996, led by Kevin Burns.
 
 #### Tracklist```md

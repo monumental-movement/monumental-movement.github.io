@@ -12,6 +12,8 @@ tags:
 - 70s
 title: Pick up ambient works
 ---
+
+
 "A remarkable group of ambient works that explore the boundaries between silence and sound and provide a profoundly immersive experience."
 
 <hr>
@@ -37,8 +39,9 @@ B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -75,8 +78,9 @@ D2. Pod
 D3. String Of Pearls
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -99,8 +103,9 @@ A. Secret Rooms
 B. Over Flowing Delight
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -131,8 +136,9 @@ B2. A C Tractor
 
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -157,8 +163,9 @@ B1. People From The Sun And The Earth (Dixon Remix)
 B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eYPbR5uboE?si=kQnmAhxcLgIqHse3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -182,8 +189,9 @@ A2. Still Life Is Alive
 B. Our Ghosts
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -221,8 +229,9 @@ D3. Jump Over Here
 D4. The End Game
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 #### Youtube
 
@@ -251,8 +260,9 @@ Features: Fusion of folk music and electronic sounds, Grammy nominee, signature 
 10. Sweet Lullaby (Ambient Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 #### Youtube
 

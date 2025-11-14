@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: Black Traxx – Volume II
 ---
+
+
 Black Traxx is a house series co-produced by DJ/producer Rick Lenoir, a pioneer of early Chicago house music such as LNR's ""Work It To The Bone'' and Thompson and Lenoir's ""Can't Stop The House,'' as a member of 4 on the Floor production.
 
 It was released in 1991 on the Chicago deep house label Night Club Records.

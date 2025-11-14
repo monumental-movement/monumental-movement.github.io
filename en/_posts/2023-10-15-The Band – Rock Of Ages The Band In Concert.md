@@ -10,6 +10,8 @@ tags:
 - Folk
 title: The Band – Rock Of Ages The Band In Concert
 ---
+
+
 The Band was a Canadian rock band that was active from the late 1960s to the early 1970s.
 
 The live album "Rock Of Ages: The Band In Concert" released in 1972 is the sound source of a live concert held at the Academy of Music in New York in December 1971.

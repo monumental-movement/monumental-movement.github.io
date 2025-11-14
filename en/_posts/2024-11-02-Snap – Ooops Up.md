@@ -11,12 +11,13 @@ tags:
 - 90s
 title: Snap! – Ooops Up
 ---
-Snap!(スナップ！)はドイツのユーロダンスグループ。
 
-"Ooops Up" was released as the second single from their debut studio album "World Power", released in June 1990.世界中でヒットしたSnap!の代表曲の一つ。
+
+Snap! is a German Eurodance group.
+
+"Ooops Up" was released as the second single from their debut studio album "World Power", released in June 1990. One of Snap!'s signature songs that became a hit all over the world.
 
 This song is a rework of The Gap Band's 1980 hit "I Don't Believe You Want to Get Up and Dance (Ooops!)," in which member Penny Ford participated as a backing singer.
-
 
 #### Tracklist```md
 A1. Ooops Up (Vocal Version)

@@ -9,6 +9,8 @@ tags:
 - Hiphop
 title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 ---
+
+
 This album, ""Return To The 36 Chambers The Dirty Version,'' is one of the most successful releases of Ol' Dirty Bastard's solo career.
 
 It also included collaborations with members of Wu-Tang and other guest artists, and the album showcased his individual musical style throughout, earning critical acclaim and commercial success.

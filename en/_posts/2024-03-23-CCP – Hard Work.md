@@ -11,6 +11,8 @@ tags:
 - 80s
 title: CCP – Hard Work
 ---
+
+
 CCP is a group consisting of Chris Hilbert, David Palmer, and Peter Chapman.
 
 The A-side mix is ​​mediocre, but the C+C remix (New York City mix) is very good, very similar to their first single "CCP - A Solution".

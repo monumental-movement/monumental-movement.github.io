@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Stevie Wonder – I Just Called To Say I Love You
 ---
+
+
 "Stevie Wonder – I Just Called To Say I Love You" was released by Motown in 1984.
 
 #### Tracklist```md

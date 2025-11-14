@@ -11,6 +11,8 @@ tags:
 - New-Wave
 title: Depeche Mode – People R People
 ---
+
+
 House remix of Depeche Mode's "People Are People" by B&B, aka Bastone & Burnz (Freddie Baston & Jeffrey Bernstein). Released in 1999.
 
 #### Tracklist```md

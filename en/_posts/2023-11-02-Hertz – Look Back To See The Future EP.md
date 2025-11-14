@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Hertz – Look Back To See The Future EP
 ---
+
+
 Hertz is a techno project by Pierre Jerksten that has been active since 2001.
 
 Hertz, who was a duo with Petter B from 2009 to 2012, has released on numerous labels including Defected, Toolroom Records, Underwater Records, Drumcode, Craft Music, Tresor, and Virgin & Universal.

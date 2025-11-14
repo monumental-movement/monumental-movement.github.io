@@ -11,6 +11,8 @@ tags:
 - Remix
 title: Kylie – Can"t Get You Out Of My Head
 ---
+
+
 "Can't Get You Out Of My Head" was released in 2001 as a single from the album Fever.
 
 The A and B sides are remixed by Tim Deluxe. The D side is a remix of Tom Stephan, also known as Superchumbo.

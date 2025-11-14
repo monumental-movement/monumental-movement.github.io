@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Screamin Jay Hawkins – Constitution Blues
 ---
+
+
 This song by Screamin' Jay Hawkins was sung and performed by Screamin' Jay Hawkins, an American blues singer known for his unique and unique style. He is known for his unique stage performances and powerful, harsh vocals.
 
 "Constipation Blues" is a blues song with humor and satire in its lyrics, and the comical expressions in the lyrics are particularly noteworthy. Screamin' Jay Hawkins challenged the boundaries between blues and rock with his playing style and eccentric stage performances.

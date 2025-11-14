@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Gamma Loop – X-Ray Eyes
 ---
+
+
 Gamma Loop is the name used by German producer and sound designer Jürgen Driessen for his German hard trance/acid project. He is also active under various other names such as Bruce Wayne and Exit EEE.
 
 This record is a house track released by Ugly Bug Records, a label founded in 1993 by Pete Bones (The Shaker) that specializes in a style that blends funky pumping house and progressive trance. Ugly Bug Records is known as the favorite label of many DJs, including Tony De Vit.

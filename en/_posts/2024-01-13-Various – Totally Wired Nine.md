@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Various – Totally Wired Nine
 ---
+
+
 An acid jazz compilation album released in 1992 by the UK label Acid Jazz.
 
 #### Tracklist```md

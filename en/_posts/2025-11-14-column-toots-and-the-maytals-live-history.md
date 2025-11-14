@@ -13,15 +13,15 @@ tags:
 - 80s
 title: '[Column] Toots and the Maytals — The soul of reggae etched by live performances'
 ---
-## はじめに：レゲエ誕生とライブ文化の原点
 
 
-文：mmr｜テーマ：Toots and the Maytalsのライブを、観客反応や演奏の即興、歴史的・文化的背景について辿る
+## Introduction: The birth of reggae and the origins of live culture
 
+Text: mmr｜Theme: Tracing Toots and the Maytals' live performances, including audience reaction, improvisation, and historical and cultural background.
 
-1960年代のジャマイカ、キングストン。港町の喧騒や市場のざわめき、路上スカのリズムが街中に溢れる中で、Toots Hibbert率いる「Toots and the Maytals」は、ライブを通じて音楽そのものを文化に変える存在となった。
+Kingston, Jamaica in the 1960s. With the hustle and bustle of a port town, the buzz of markets, and the rhythms of street ska all over the city, Toots and the Maytals, led by Toots Hibbert, have become a presence that transforms music itself into culture through live performances.
 
-ライブでは観客は単なる聴衆ではなく、演奏の一部として参加する。コール＆レスポンス、即興トーク、観客とのダンスの応酬は、単なる音楽イベントを文化的儀式に変える。1966年に誕生した「Do the Reggay」は、その象徴的瞬間であり、観客自身がレゲエ文化の発信者となった。
+At live performances, the audience is not just an audience member, but a part of the performance. Call-and-response, impromptu talks, and dance exchanges with the audience transform simple musical events into cultural rituals. ""Do the Reggay'', which was born in 1966, was a symbolic moment, and the audience themselves became the promoters of reggae culture.
 
 ---
 
@@ -30,7 +30,7 @@ title: '[Column] Toots and the Maytals — The soul of reggae etched by live per
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -38,188 +38,177 @@ color: #fff;
 }
 </style>
 
+## 1. Early live shows (1962-1969): Cultivating culture from small clubs
 
-## 1. 初期ライブ（1962〜1969）：小さなクラブから文化を育む
+### 1.1 Formation and first stage
 
-### 1.1 結成と初ステージ
+In 1962, Toots Hibbert formed the Maytals with Freddie McGregor and Raleigh Gordon. They held their first stage at a small club in Kingston called Chocomo Lounge. Despite having a simple setup with just one microphone, guitar, bass, and drums, Toots' voice dominated the entire floor.
 
-1962年、Toots HibbertはFreddie McGregorやRaleigh Gordonらと共にMaytalsを結成。キングストンの小さなクラブ「Chocomo Lounge」で初ステージを行った。マイク1本、ギター、ベース、ドラムだけのシンプルな編成であるにもかかわらず、Tootsの声はフロア全体を支配した。
+The audience participates by clapping and dancing, and laughter echoes through the impromptu talks between songs. During the performance of "54-46 Was My Number," people on the floor held hands and danced in a circle. When Toots calls out, "Step to the right! Step to the left!", the audience responds immediately, and the performance becomes one with the audience.
 
-観客は手拍子や踊りで参加し、曲間の即興トークに笑い声が響き渡る。「54-46 Was My Number」の演奏中には、フロアの人々が手を取り合い、輪になって踊る。Tootsが「Step to the right! Step to the left!」と呼びかけると、観客は即座に反応し、演奏と観客が一体となる。
-
-**セットリスト例（初期ライブ）**
+**Setlist example (initial live)**
 
 1. 54-46 Was My Number
-2. Do the Reggay
+2.Do the Reggay
 3. Monkey Man
-4. Pressure Drop（初期バージョン）
-5. 即興トーク＆ダンスコール
+4. Pressure Drop (initial version)
+5. Impromptu talk & dance call
 
 ---
 
-### 1.2 「Do the Reggay」の誕生と反響
+### 1.2 Birth and reaction of "Do the Reggay"
 
-1966年に初披露された「Do the Reggay」は、ジャマイカでのクラブライブで瞬く間に観客を熱狂させた。フロアの輪の中で観客が歌い、踊り、笑い声が会場を包む。Tootsが「Do the Reggay!」と呼びかけるたび、手拍子と歓声が連鎖する。
+First performed in 1966, ""Do the Reggay'' instantly electrified audiences at club shows in Jamaica. The audience sings, dances, and laughs in a circle on the floor, filling the venue. Every time Toots calls out, "Do the Reggay!", a chain reaction of clapping and cheers ensues.
 
-この曲は単なるパフォーマンスではなく、**観客参加型の文化的儀式**であった。レゲエという言葉が世界に広まり、観客が文化の伝達者として機能する瞬間を生んだ。
-
----
-
-### 1.3 初期ライブの文化的意義
-
-* コール＆レスポンスによる参加型ライブの原型
-* 地域コミュニティの結束を促す音楽イベント
-* ステージと観客が一体となる文化的経験の創出
+This song was not just a performance, but a cultural ritual with audience participation. The word reggae spread around the world, creating a moment when audiences functioned as transmitters of culture.
 
 ---
 
-## 2. 世界への飛躍（1970〜1979）：ヨーロッパとアメリカへの進出
+### 1.3 Cultural significance of early live shows
 
-### 2.1 初ヨーロッパツアー（1970）
-
-1970年、Toots and the Maytalsは初のヨーロッパツアーを敢行。ロンドンの「Carnival Club」では、ジャマイカ音楽に馴染みのない英国の若者たちが観客として混じり、ステージとフロアの境界は消えた。
-
-**ライブ描写**：
-
-* 「Monkey Man」のイントロが鳴り始めると、観客は自然に肩を揺らし、輪になって踊る。
-* To
-
-otsは「Sing it with me!」と呼びかけ、観客全員が合唱。
-
-* ギターとオルガンのリフがフロアに響き渡り、即興ダンスが生まれる。
-
-ライブ中、Tootsは観客を指名して踊らせることもあり、フロアは一種の参加型劇場のようになった。ここでの成功が、ヨーロッパにおけるレゲエ普及の基礎を築く。
+* The prototype of a participatory live performance based on call and response
+* Music events that encourage local community unity
+* Creating a cultural experience where the stage and audience become one
 
 ---
 
-### 2.2 「Funky Kingston」とアメリカ進出（1975）
+## 2. Global leap (1970-1979): Expansion into Europe and America
 
-1975年、アルバム「Funky Kingston」のリリースに伴い、ニューヨークでのツアーを敢行。「Pressure Drop」「Monkey Man」「Funky Kingston」などの曲が演奏され、観客はTootsの呼びかけに合わせて踊り、歌った。
+### 2.1 First European Tour (1970)
 
-**ライブ演出の特徴**：
+In 1970, Toots and the Maytals embarked on their first European tour. At London's Carnival Club, young British people unfamiliar with Jamaican music mingled with the audience, and the boundaries between stage and floor disappeared.
 
-* サウンドシステムの導入により、低音のベースがフロア全体に響く
-* To
+**Live depiction**:
 
-otsの即興トークにより、観客は演奏と一体化
+* When the intro to "Monkey Man" begins to play, the audience naturally shakes their shoulders and dances in a circle.
+* Toots calls out, "Sing it with me!" and the entire audience sings along.
 
-* 照明演出が曲の雰囲気を強調し、視覚的にも圧倒
+* Guitar and organ riffs echo through the floor, creating an impromptu dance.
 
-この時期のライブは、音響・演出面での進化を示すと同時に、アメリカでのレゲエ人気を確立する重要な場となった。
-
----
-
-## 3. 世界的名声の確立（1980〜1999）
-
-### 3.1 Reggae Sunsplashと大型フェス
-
-1980年代、Toots and the Maytalsはジャマイカ最大のフェス「Reggae Sunsplash」のヘッドライナーを務めた。ステージに上がると、観客は合唱を始め、手拍子と踊りで会場全体が一つのリズムに包まれる。
-
-**演奏の臨場感**：
-
-* 「54-46 Was My Number」のベースラインが観客の身体を震わせる
-* To
-
-otsはフロアを見渡しながら即興で歌詞を変え、観客と対話
-
-* 曲間には観客を巻き込んだダンスコールやジョークが挟まれ、ライブの一体感を増幅
+During live performances, Toots would sometimes invite audience members to dance, making the floor a kind of participatory theater. Success here laid the foundation for the spread of reggae in Europe.
 
 ---
 
-### 3.2 マディソンスクエアガーデン公演（1988）
+### 2.2 "Funky Kingston" and expansion into America (1975)
 
-1988年、ニューヨーク・マディソンスクエアガーデンで行われたライブは、米国でのレゲエ受容に決定的影響を与えた。Tootsは「Funky Kingston」を観客と共にコール＆レスポンスで演奏し、観客は立ち上がって踊り、会場全体が一体となる。
+In 1975, with the release of the album "Funky Kingston", they toured in New York. Songs like "Pressure Drop," "Monkey Man" and "Funky Kingston" were played, and the audience danced and sang along to Toots' calls.
 
-ライブ録音は「Live at Madison Square Garden」としてリリースされ、世界中のファンに影響を与えた。ここでの成功は、米国におけるレゲエの地位を確立する契機となった。
+**Features of live performance**:
 
----
+* With the introduction of a sound system, low-pitched bass sounds can be heard throughout the floor.
+* Toots' impromptu talk allows the audience to become one with the performance.
 
-## 4. 2000年代以降：音楽史への貢献と最終章
+* The lighting effects emphasize the atmosphere of the song and are visually overwhelming.
 
-### 4.1 グラミー受賞「True Love」（2004）
-
-2004年、アルバム「True Love」でグラミー賞を受賞。世界ツアーでは過去の名曲を再現し、観客にライブを通じてレゲエの歴史を体験させた。
-
-**ライブ描写**：
-
-* 「Do the Reggay」のイントロで観客が輪になり、手を取り合う
-* To
-
-otsの声は衰えても表現力は健在で、観客は歌詞に合わせて合唱
-
-* 曲間のMCでは観客の反応を見ながら曲順を調整する即興性が発揮される
+The live performances during this period not only showed the evolution of sound and production, but also served as an important venue for establishing the popularity of reggae in America.
 
 ---
 
-### 4.2 50周年記念ライブ（2012）
+## 3. Establishment of worldwide fame (1980-1999)
 
-キングストンのNational Stadiumでの50周年記念ライブでは、約10,000人が集結。Tootsの生演奏に合わせ、観客全員が合唱し、ステージと観客の境界は消失。
+### 3.1 Reggae Sunsplash and large festival
 
-**詳細描写**：
+In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing until the whole venue is engulfed in one rhythm.
 
-* 初期の名曲から最新アルバムまで網羅されたセットリスト
-* 「Monkey Man」で観客全員が左右に揺れ、フロアが波打つ
-* To
+**Presence of performance**:
 
-otsは観客一人ひとりに目を向け、即興で歌詞を変える
+* The bass line of "54-46 Was My Number" makes the audience tremble.
+* Toots looks around the floor, improvises lyrics, and interacts with the audience.
 
-* フェスティバル全体が、歴史の連続性を体験する空間となった
-
----
-
-### 4.3 Toots Hibbert逝去（2020）
-
-2020年、Toots Hibbertが逝去。世界中のファンはライブ映像や録音を通じて追悼し、ダンスや合唱で文化を継承。ライブを通じたレゲエ文化は世代を超えて受け継がれることとなった。
+* Dance calls and jokes that involve the audience are sandwiched between songs, increasing the sense of unity during the live performance.
 
 ---
 
-## 5. ライブの社会的・文化的意味
+### 3.2 Madison Square Garden performance (1988)
 
-1. **コミュニティ形成**
-   ライブは地域社会の集会として機能。観客は音楽を通じて連帯感を形成した。
+A live performance held at New York's Madison Square Garden in 1988 had a decisive influence on the acceptance of reggae in the United States. Toots performed a call-and-response rendition of "Funky Kingston" with the audience, who got up and danced, bringing the entire venue together.
 
-2. **音楽の民主化**
-   観客との双方向コミュニケーションにより、音楽を「体験」する文化が浸透。観客はステージの一部として演奏に参加。
-
-3. **国際的影響**
-   ヨーロッパ・アメリカでのライブ活動により、レゲエが世界中に広がり、異文化交流の媒介となった。
+The live recording was released as "Live at Madison Square Garden" and influenced fans around the world. This success served as an opportunity to establish reggae's status in the United States.
 
 ---
 
-## 6. 年表：Toots and the Maytals ライブ主要出来事
+## 4. After the 2000s: Contributions to music history and the final chapter
 
-| 年    | 出来事                  | ライブ・エピソード                    | 文化的意義           |
+### 4.1 Grammy Award-winning "True Love" (2004)
+
+In 2004, she won a Grammy Award for her album "True Love." During their world tour, they recreated classic songs from the past and let the audience experience the history of reggae through live performances.
+
+**Live depiction**:
+
+* The audience forms a circle and holds hands during the intro to "Do the Reggay"
+* Even though Toots' voice has weakened, his expressiveness remains strong, and the audience sings along to the lyrics.
+
+* During the MC between songs, he is able to improvise by adjusting the song order while observing the audience's reaction.
+
+---
+
+### 4.2 50th Anniversary Live (2012)
+
+Approximately 10,000 people gathered for the 50th anniversary concert at Kingston's National Stadium. The entire audience sang along to Toots' live performance, and the boundaries between the stage and the audience disappeared.
+
+**Detailed description**:
+
+* A set list that covers everything from early masterpieces to the latest albums.
+* "Monkey Man" has the entire audience shaking from side to side, making the floor ripple.
+* Toots looks at each audience member and improvises lyrics.
+
+* The entire festival became a space to experience historical continuity.
+
+---
+
+### 4.3 Toots Hibbert passed away (2020)
+
+In 2020, Toots Hibbert passed away. Fans around the world commemorate him through live videos and recordings, and pass on the culture through dance and chorus. Reggae culture through live performances has been passed down from generation to generation.
+
+---
+
+## 5. Social and cultural meaning of live performance
+
+1. **Community building**
+   Live performances function as community gatherings. The audience formed a sense of solidarity through the music.
+
+2. **Democratization of music**
+   A culture of ""experiencing'' music has spread through two-way communication with the audience. The audience participates in the performance as part of the stage.
+
+3. **International Impact**
+   Through live performances in Europe and America, reggae spread around the world and became a medium for cross-cultural exchange.
+
+---
+
+## 6. Chronology: Toots and the Maytals Live Major Events
+
+| Year | Events | Live Episodes | Cultural Significance |
 | ---- | -------------------- | ---------------------------- | --------------- |
-| 1962 | 結成                   | Kingston「Chocomo Lounge」初ライブ | コール＆レスポンス原型     |
-| 1966 | 「Do the Reggay」リリース  | 観客輪になって踊る                    | 「Reggae」という言葉誕生 |
-| 1968 | ナショナルフェス出演           | 数千人規模                        | 音楽ジャンル進化の可視化    |
-| 1970 | 初ヨーロッパツアー            | ロンドン「Carnival Club」          | 世界普及の先駆け        |
-| 1972 | ロンドンライブ              | PA導入・即興ダンス誘導                 | サウンド重視ライブ確立     |
-| 1975 | 「Funky Kingston」リリース | NYツアー、観客参加                   | 米国市場浸透          |
-| 1980 | Reggae Sunsplash出演   | 観客合唱                         | 国際コミュニティ形成      |
-| 1988 | MSG公演                | 「Funky Kingston」コール＆レスポンス    | 米国レゲエ普及         |
-| 2004 | グラミー受賞               | 世界ツアーで名曲再現                   | 音楽史的評価確立        |
-| 2012 | 50周年ライブ              | National Stadium 10,000人     | 文化継承象徴          |
-| 2020 | Toots逝去              | 世界中で追悼ライブ映像共有                | ライブ文化の永続性       |
+| 1962 | Formation | Kingston "Chocomo Lounge" first live show | Call & Response model |
+| 1966 | "Do the Reggay" released | Audience dancing in a circle | Birth of the word "Reggae" |
+| 1968 | National festival appearance | Several thousand people | Visualizing the evolution of music genres |
+| 1970 | First European tour | London "Carnival Club" | Pioneer of worldwide spread |
+| 1972 | Live in London | Introduction of PA and improvisational dance guidance | Establishment of live music with emphasis on sound |
+| 1975 | "Funky Kingston" released | NY tour, audience participation | US market penetration |
+| 1980 | Reggae Sunsplash appearance | Audience chorus | International community formation |
+| 1988 | MSG Performance | "Funky Kingston" Call & Response | Popularization of American Reggae |
+| 2004 | Grammy Award | Reenacting famous songs on world tour | Establishing music historical reputation |
+| 2012 | 50th anniversary live | National Stadium 10,000 people | Symbol of cultural inheritance |
+| 2020 | Toots passes away | Memorial live video sharing around the world | Persistence of live culture |
 
 ---
 
-## 7. 図解：ライブ進化と観客参加度
+## 7. Illustration: Live evolution and audience participation
 
 <div class="mermaid">
 
 graph LR
-A[1962-1969 初期クラブ] -->|小規模・即興| B[1970-1979 ヨーロッパ/NYツアー]
-B -->|中規模・サウンドシステム| C[1980-1990s フェス・米国公演]
-C -->|大規模・観客参加| D[2000s-2012 グローバルライブ]
-D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
+A[1962-1969 Early club] -->|Small-scale/improvisation| B[1970-1979 Europe/NY tour]
+B -->|Medium-sized sound system| C[1980-1990s festival/US performance]
+C -->|Large-scale audience participation| D[2000s-2012 Global Live]
+D -->|Symbolic/historical| E[Cultural inheritance/memorial live]
 
 </div>
 
 ---
 
-## 8. まとめ
+## 8. Summary
 
-Toots and the Maytalsのライブは、音楽ジャンルの発展、コミュニティ形成、国際文化交流を具現化する場であった。観客との双方向性、即興性、そしてライブを通じた歴史的連続性こそが、彼らの音楽を時代を超えて語り継がれる理由である。ライブは単なる音の演奏ではなく、レゲエそのものを体現する文化儀式である。
+Toots and the Maytals' live shows were the embodiment of musical genre development, community building, and international cultural exchange. Interactivity with the audience, improvisation, and historical continuity through live performances are the reasons why their music has been passed down through the ages. Live performances are not just musical performances, but cultural rituals that embody reggae itself.
 
 ---

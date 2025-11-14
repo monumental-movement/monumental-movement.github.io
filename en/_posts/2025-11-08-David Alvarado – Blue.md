@@ -12,6 +12,8 @@ tags:
 - 00s
 title: David Alvarado – Blue
 ---
+
+
 "Blue" is a Progressive House/Tech House track released in 2001 by David Alvarado, a veteran of the Los Angeles underground house scene who has released works on labels such as Ovum, Peacefrog, NRK, Plastic City, and Ultra.
 
 A is a remix by innovative techno/tech house DJ Christian Smith and John Selway.

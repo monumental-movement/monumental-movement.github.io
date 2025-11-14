@@ -10,6 +10,8 @@ tags:
 - Hard Trance
 title: Lab4 – None Of Us Are Saints
 ---
+
+
 Lab4 is a UK hard dance act formed by Adam Newman & Les Elston.
 
 Side A is a remix by Japan's leading hard dance producer and DJ Nish.

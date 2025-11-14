@@ -10,6 +10,8 @@ tags:
 - French House
 title: Stardust – Music Sounds Better With You
 ---
+
+
 Stardust is a unit consisting of Thomas Bangalter (Daft Punk), DJ Alan Braxe, and Benjamin Diamond.
 
 "Music Sounds Better With You", released in 1998, samples Chaka Khan's "Fate" and is Stardust's only song.

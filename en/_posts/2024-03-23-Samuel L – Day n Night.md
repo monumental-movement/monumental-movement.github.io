@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Samuel L – Day n' Night
 ---
+
+
 Samuel L is a Swedish tribal techno DJ and producer. "Day n' Night" is a techno track released in 2001 from SSL, which he runs.
 
 The song "Merengue" was remixed by Slam and Oliver Ho in 2002 and became a club hit.

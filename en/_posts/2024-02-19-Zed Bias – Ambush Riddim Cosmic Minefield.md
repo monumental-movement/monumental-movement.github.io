@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Zed Bias – Ambush Riddim Cosmic Minefield
 ---
+
+
 Zed Bias, also known as Dave Jones, is a Manchester-based UK electronic musician, UK garage, 2-step, broken beat, and UK funky producer and DJ.
 
 He also works under the alias Maddslinky and is a member of Phuturistix.

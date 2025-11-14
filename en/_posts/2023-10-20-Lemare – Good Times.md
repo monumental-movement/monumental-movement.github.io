@@ -10,6 +10,8 @@ tags:
 - Funk
 title: Lemare – Good Times
 ---
+
+
 "Good Times" is
 "Good Times" by British R&B artist LEMARE (Lemar Obika) was released in 1998.
 

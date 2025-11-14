@@ -9,6 +9,8 @@ tags:
 - New Beat
 title: Chayell – Rio
 ---
+
+
 "Rio" is an EP by Peter Bonne and Pick A Number's unit Chayell, released on the label "Subway" in 1988.
 
 #### Tracklist```md

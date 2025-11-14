@@ -10,6 +10,8 @@ tags:
 - Indie Rock
 title: Modest Mouse 764-HERO – Whenever You See Fit
 ---
+
+
 "Whenever You See Fit" is
 This is an EP by Modest Mouse/764-HERO released on Suicide Squeeze in 1998.
 

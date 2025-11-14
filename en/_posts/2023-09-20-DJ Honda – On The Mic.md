@@ -10,6 +10,8 @@ tags:
 - Rap
 title: DJ Honda – On The Mic
 ---
+
+
 Released in 1998. The song is dynamic and energetic, bringing together DJ Honda's unique production style and the lyrical talents of the featured artists.
 
 The song features famous artists such as Mos Def (or Yasiin Bey), Beatnuts, and Fat Joe. Each artist brings their own unique style and flow to the song, making it a hip-hop anthem.

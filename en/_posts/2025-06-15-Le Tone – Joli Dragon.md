@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Le Tone – Joli Dragon
 ---
+
+
 Yann Larret-Menezo, also known as Le Tone, is an electronic music artist, journalist, and illustrator from France.
 
 "Joli Dragon" is a downtempo track released in 1999 by Naïve, an independent record label based in Paris, France, which was active from 1998 to 2016. It became a hit in the UK and was played at various festivals including Les Francos de Montréal.

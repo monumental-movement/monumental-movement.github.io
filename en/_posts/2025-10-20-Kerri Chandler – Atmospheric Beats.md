@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Kerri Chandler – Atmospheric Beats
 ---
+
+
 "Atmospheric Beats" is a famous song by house music pioneer Kerri Chandler.
 
 A limited promotional edition released by the label Ibadan in 2000.
@@ -25,3 +27,4 @@ B2. Orixas (Demo Dub)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJtmcvRhJvU?si=08nrYD8NxAeAolOt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m93149751251?afid=6142608987){: .button1}
 
 #### Youtube
+

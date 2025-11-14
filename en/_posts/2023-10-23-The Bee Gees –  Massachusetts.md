@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Bee Gees – Massachusetts
 ---
+
+
 "Massachusetts" is a song released by the Bee Gees in 1967 that became a worldwide hit. The main vocalist of this song is Robin Gibb.
 
 #### Tracklist```md

@@ -10,6 +10,8 @@ tags:
 - Break Beat
 title: Slab – Freeky Speed
 ---
+
+
 Slab is a unit formed by Lol Hammond and Nina Walsh.
 
 The first song on the B-side is a remix by British DJ and producer Andrew Weatherall, and the second song is a remix by UK techno DJ and producer Carl Cox.

@@ -11,9 +11,11 @@ tags:
 - Electronic
 title: Bag Raiders – The Bag Raiders EP
 ---
+
+
 Bag Raiders are an Australian musical duo whose hit song "Fun Punch" is featured on this EP.
 
-Bag Raiders are active in the field of electronic music, and their music is known for a sound that combines dance music and pop elements. 
+Bag Raiders are active in the field of electronic music, and their music is known for a sound that combines dance music and pop elements.
 
 #### Tracklist```md
 A1. Fun Punch

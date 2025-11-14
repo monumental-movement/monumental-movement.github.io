@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Winger – Winger
 ---
+
+
 Winger is an American rock band formed in New York in 1987. Winger released two platinum albums in the late 1980s and early 1990s, ""Winger'' and ""In the Heart of the Young.'' In 1990, they were nominated for "Best New Heavy Metal Band" at the American Music Awards.
 
 Released in 1988, "Winger" was Winger's debut studio album and was produced by Beau Hill.

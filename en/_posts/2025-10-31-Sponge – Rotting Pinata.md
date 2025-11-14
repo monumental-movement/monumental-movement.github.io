@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Sponge – Rotting Piñata
 ---
+
+
 Sponge is an American rock band formed in Detroit, Michigan in 1992.
 
 "Rotting Piñata", released in 1995, is Sponge's first studio album and masterpiece. It includes the hit songs "Plowed" and "Molly".

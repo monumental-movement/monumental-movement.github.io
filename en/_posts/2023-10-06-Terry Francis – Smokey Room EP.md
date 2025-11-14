@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Terry Francis – Smokey Room EP
 ---
+
+
 Terry Francis is a British DJ and producer born on 28 July 1966 in Epsom.
 
 His career began in 1988 co-promoting acid house nights at Hamilton's Wine Bar in Leatherhead. At the same time, he worked as a roofer.

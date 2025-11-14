@@ -10,9 +10,10 @@ tags:
 - Punk
 title: The Eclectics – Idle Worship
 ---
+
+
 "Idle Worship" is
 This is an album by the American ska-punk band The Eclectics, released in 1997 by the label Jump Up! Records.
-
 
 #### Tracklist```md
 A1. Harry

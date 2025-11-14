@@ -10,6 +10,8 @@ tags:
 - 70s
 title: VA – Thank God It"s Friday
 ---
+
+
 "VA - Thank God It's Friday" was released by Casablanca in 1978.
 
 #### Tracklist```md

@@ -13,10 +13,11 @@ tags:
 - 90s
 title: VA – This Is Latinamyl
 ---
+
+
 A compilation album released in 1997 by breakbeat label Fused & Bruised, founded by multi-genre electronic music producer and DJ Simon Shackleton, aka Elite Force, who also worked on music for the movie The Matrix.
 
 Simon Shackleton also performs under the names pHrack R and fUtUrEcOrE, as well as Elite Force.
-
 
 #### Tracklist```md
 1. Elite Force – Spirito

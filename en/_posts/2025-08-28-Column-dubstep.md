@@ -13,8 +13,9 @@ title: '[Column] The trajectory of Dubstep - an urban soundscape created by heav
   bass'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## Go beyond the sense of hearing to shake the body and space and connect listeners with each other
 
+
+## Go beyond the sense of hearing to shake the body and space and connect listeners with each other
 
 Text: mmr｜Theme: The birth and cultural influence of dubstep
 
@@ -60,11 +61,9 @@ Representative early artists include Skream, Benga, Digital Mystikz (Mala & Coki
 
 From around 2008, dubstep spread beyond the UK underground and spread around the world.
 
-
 ---
 
 - **Break in America**: A more aggressive and flashy ""Brostep'' has appeared, led by Skrillex.
-
 
 - **Remix culture**: Dubstep elements were brought into pop, rock, and hip-hop, gaining a wide range of listeners.
 
@@ -81,7 +80,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 ### Cultural influence of dubstep
 
-- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
+- **Penetration into the EDM scene**: Connected to festival culture and becoming a presence that resonates on the main stage.
 
 - **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
 

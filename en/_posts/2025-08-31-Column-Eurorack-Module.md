@@ -17,6 +17,8 @@ title: '[Column] Changes in the Eurorack modular synthesizer and its influence o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## "Lego blocks with infinite sound"
 
 Text: mmr｜Theme: Changes in the Eurorack modular synthesizer and its influence on the music scene
@@ -31,7 +33,6 @@ Smaller and more affordable than the traditional Moog and Bucla, Eurorack has ga
 
 #### Make Noise
 
-
 ---
 
 **Representative modules**: MATHS, Erbe-Verb, Phonogene
@@ -41,7 +42,6 @@ Smaller and more affordable than the traditional Moog and Bucla, Eurorack has ga
 ---
 
 #### Intellijel
-
 
 ---
 
@@ -59,7 +59,6 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 #### Doepfer
 
-
 ---
 
 **Representative modules**: A-110 (VCO), A-120 (SVF), A-140 (EG)
@@ -70,13 +69,11 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 #### Noise Engineering
 
-
 ---
 
 **Representative module**: Basimilus Iteritas, Loquelic Iteritas
 
 **Features**: Utilizes digital synthesis to provide modules with sharp tones and high sound pressure. Especially suitable for extreme sound creation.
-
 
 <hr>
 
@@ -88,7 +85,6 @@ Eurorack modular synthesizers have had a huge influence on certain musical genre
 
 Artists like Alessandro Cortini and Keith Fullerton Whitman use Eurorack to create complex and profound sonic worlds.
 
-
 #### Techno/IDM
 
 Many artists use Eurorack for live performances and studio production, creating improvisational and dynamic sounds.
@@ -96,7 +92,6 @@ Many artists use Eurorack for live performances and studio production, creating 
 #### Pop/Rock
 
 Bands like Coldplay and Nine Inch Nails have also embraced Eurorack, adding new tones to their songwriting and live performances.
-
 
 <hr>
 
@@ -140,7 +135,6 @@ Below are some of the notable artists and their signature modules that utilize E
   </tbody>
 </table>
 </div>
- 
 
 <hr>
 
@@ -151,7 +145,6 @@ Surgeon's live setup is characterized by the pursuit of maximum expression with 
 
 
 <hr>
-
 
 ### From a small box to infinite sound
 

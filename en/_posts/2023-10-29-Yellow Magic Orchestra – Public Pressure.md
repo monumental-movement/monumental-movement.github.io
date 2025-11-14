@@ -10,6 +10,8 @@ tags:
 - Techno
 title: Yellow Magic Orchestra – Public Pressure
 ---
+
+
 In 1983 Yellow Magic Orchestra's Public Pressure was released on the Alfa label.
 
 #### Tracklist```md

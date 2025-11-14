@@ -11,6 +11,8 @@ tags:
 - Digital Rock
 title: Skinny Puppy – 12 Inch Anthology
 ---
+
+
 Skinny Puppy is an electro-industrial band formed in 1982 by Canadian-born Kelvin Key and Kevin Ogilvy.
 
 Skinny Puppy is known as one of the founders of the industrial rock and electro-industrial genres.

@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)
 ---
+
+
 A house techno track released in 1995 by Alexander Müller, also known as Auto Repeat.
 
 The first track on side A is a remix by US house DJ Paul Johnson.

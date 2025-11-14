@@ -10,6 +10,8 @@ tags:
 - 80s
 title: The Haines Gang –So Hot (The Razor's Edge Mix)
 ---
+
+
 "So Hot (The Razor's Edge Mix)" is
 This is a synth pop song by Perry Haines' project ""The Haines Gang,'' released on London Records in 1982.
 

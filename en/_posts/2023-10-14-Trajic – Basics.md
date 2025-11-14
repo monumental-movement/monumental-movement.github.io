@@ -10,6 +10,8 @@ tags:
 - Hard House
 title: Trajic – Basics
 ---
+
+
 DJ Trajic (Carlos Gomez/Kool Kutt) is a Chicago-based DJ known as a pioneer and legend of hard house in the 1990s.
 
 "Basics" was released in 1997 by Chicago-based US hard house/tech house label Underground Construction.

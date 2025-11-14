@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Stevie Wonder – Part-Time Lover
 ---
+
+
 "Part-Time Lover" was released as the first single from R&B singer-songwriter Stevie Wonder's 20th studio album, In Square Circle (1985).
 
 The song reached number one on the Billboard Hot 100, R&B, Dance, and Adult Contemporary charts, making it Stevie Wonder's last number one hit.

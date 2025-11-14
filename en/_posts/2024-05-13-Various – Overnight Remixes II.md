@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Various – Overnight Remixes II
 ---
+
+
 Euro house, techno, new beat, garage house compilation album from the late 80's to the 90's.
 
 Included are hardcore techno giants 2 Unlimited, Belgian Eurodance and new beat band Bizz Nizz, and UK music unit Soft Cell, one of the leading new wave groups.

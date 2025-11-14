@@ -10,9 +10,10 @@ tags:
 - Hi NRG
 title: Tam Arrow – One Shot Girl
 ---
+
+
 "One Shot Girl" is
 This is an EP by Tam Arrow (real name Claudio Magnani) released on the Italian label "Live Music" in 2001.
-
 
 #### Tracklist```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)

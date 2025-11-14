@@ -17,8 +17,9 @@ title: '[Column] Tresor - The techno mecca that changed the world from undergrou
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## An indispensable presence when talking about Berlin's club culture and the European techno scene -- **Tresor**
 
+
+## An indispensable presence when talking about Berlin's club culture and the European techno scene -- **Tresor**
 
 Text: mmr｜Theme: Berlin club culture and the European techno scene
 
@@ -27,7 +28,6 @@ Text: mmr｜Theme: Berlin club culture and the European techno scene
 ### What is Tresor?
 
 Tresor (meaning ""safe'' in German) is a club that was founded in Berlin, Germany in 1991, and is a center of techno culture that also hosts a label of the same name. Amidst the chaos that followed the end of the Cold War, it served as the most important center for connecting Detroit techno and Berlin's underground culture, and continues to maintain its international influence to this day.
-
 
 <hr>
 
@@ -66,7 +66,6 @@ Established in 1991 as an attached club, Tresor Records functions as an importan
 He has released many works that symbolize the fusion of Detroit and Berlin.
 In particular, their minimal and hard sound formed the ""skeleton of European techno'' in the 1990s.
 
-
 <hr>
 
 ### Tresor symbolism and cultural influence
@@ -99,16 +98,13 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 **Berghain**: An icon from the 2000s that also inherited the ruin culture.
 
-
 ---
 
 **E-Werk, WMF**: Both names were listed in the 90s, but Tresor has had the most lasting influence over the long term.
 
-
 ---
 
 → Tresor is often spoken of as the "founder" and Berghain as the "successor."
-
 
 <hr>
 
@@ -164,3 +160,4 @@ The sounds released from that vault still reverberate in club culture around the
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+

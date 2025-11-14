@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Phunkey Rhythm Doctor – Underground Poetry
 ---
+
+
 Phunkey Rhythm Doctor is a project by Cari Lekebusch and released in 1997 by Hybrid from Sweden.
 
 #### Tracklist```md

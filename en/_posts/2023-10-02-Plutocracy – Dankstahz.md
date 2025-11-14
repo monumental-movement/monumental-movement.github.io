@@ -10,6 +10,8 @@ tags:
 - Rock
 title: Plutocracy – Dankstahz
 ---
+
+
 "Dankstahz" is
 This is a 10-inch record by the Californian grindcore band "Plutocracy," released in 1996 by the German label "Anomie Records."
 

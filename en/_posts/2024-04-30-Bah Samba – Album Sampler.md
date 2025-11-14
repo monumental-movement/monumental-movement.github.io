@@ -11,6 +11,8 @@ tags:
 - Garage House
 title: Bah Samba – Album Sampler
 ---
+
+
 Bah Samba was formed in 1996 by Julian Bendall, Kevin Alexander, and Geoff Holroyd.
 
 The second track on Side A is a remix of the club hit song "Reach Inside", which has been played by various DJs such as Dimitri from Paris, by Restless Soul, a production team founded by Phil Asher & Luke McCarty.

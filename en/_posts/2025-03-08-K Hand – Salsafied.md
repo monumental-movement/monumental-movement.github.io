@@ -11,12 +11,13 @@ tags:
 - 00s
 title: K Hand – Salsafied
 ---
+
+
 K: Hand, also known as Kelli Hand, is a techno house musician and DJ from Detroit. In the 1990s, she was known as one of the leading black women in the male-dominated techno and electronic music scene, and was called the ""First Lady of Detroit Techno.'' He continued to create music until his passing in 2021.
 
 In 2016, he received the Spirit of Detroit Award along with other electronic musicians such as Jeff Mills, Juan Atkins, Derrick May, and Kevin Sanderson.
 
 "Salsafied" is a tech house album released in 2000 by the German label Ausfahrt.
-
 
 #### Tracklist```md
 1. Be Right There (Orig)

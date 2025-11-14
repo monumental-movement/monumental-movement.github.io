@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Perfect Phase – Goal!!!
 ---
+
+
 Perfect Phase is a project by Freek Fontein (The Freak) and Willem Faber (Mac Zimms), Dutch techno, trance, and hard house DJs and producers who have been active since the 1980s.
 
 This record is a House/HardHouse track released by Dutch dance label 2-Play in 2000.

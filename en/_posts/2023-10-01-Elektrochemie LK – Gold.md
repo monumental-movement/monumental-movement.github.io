@@ -10,6 +10,8 @@ tags:
 - German Techno
 title: Elektrochemie LK – Gold!
 ---
+
+
 "Gold!" by Elektrochemie LK was released by German label Confused Recordings in 2001.
 
 Elektrochemie LK is one of Thomas Schumacher's solo projects.

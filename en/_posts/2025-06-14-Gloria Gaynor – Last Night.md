@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Gloria Gaynor – Last Night
 ---
+
+
 The first and second songs on Side A are remixes by Italian HOUSE DJ/producer Andrea T. Mendoza and production duo T&F of Mauro Ferrucci & Frankie Tamburo.
 
 The third track on Side A is a remix by American synth pop writer and composer Dave Sears.
@@ -29,3 +31,4 @@ B1. Last Night (Steve Anderson Mardi Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jc5Fp3xXo-g?si=aEUHCPDk4tgtLILW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
 #### Youtube
+

@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Toni Childs – Union
 ---
+
+
 Toni Childs is a Grammy-nominated singer-songwriter.
 
 In 1979, he briefly served as lead singer of Berlin, a New Wave act from Orange County, California, before joining Terri Nunn.

@@ -10,6 +10,8 @@ tags:
 - Pops
 title: XTC – Skylarking
 ---
+
+
 "Skylarking" is the most acclaimed of XTC's albums and is widely recognized as their masterpiece. The album is a musical style that skillfully combines elements of pop, rock, folk, and progressive rock, and is characterized by sophisticated melodies and deep lyrics.
 
 The album includes the hit songs "Dear God," "Grass," and "The Meeting Place." These songs made a strong impression on the audience, highlighting XTC's unique sound and vivid lyrics.

@@ -10,6 +10,8 @@ tags:
 - New-Wave
 title: Ei Mori – Vetettem Violat
 ---
+
+
 Ei Mori is a unit consisting of Herman Gillis, Jo Casters, and Roland Beelen.
 
 Herman Gillis formed his first band, the Primitifs, when he was 18 years old. He built several instruments for the band. This includes air scratchers, drum machines (including homemade drum pads), primitive computer systems, MIDI, and more.

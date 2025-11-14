@@ -11,6 +11,8 @@ tags:
 - 80s
 title: REO Speedwagon – Hi Infidelity
 ---
+
+
 REO Speedwagon is an American rock band formed in Illinois in 1967. The album "Hi Infidelity (Forbidden Night)" released in 1980 is their masterpiece.
 
 #### Tracklist```md

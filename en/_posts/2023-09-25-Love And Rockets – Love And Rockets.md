@@ -10,6 +10,8 @@ tags:
 - Goth
 title: Love And Rockets – Love And Rockets
 ---
+
+
 Love And Rockets - Love And Rockets is a self-titled album by British alternative rock band Love And Rockets. Love and Rockets was formed by former Bauhaus members Daniel Asch, David Jay, and Kevin Haskins.
 
 It was released in 1989 and is known as the band's debut album. Their music includes elements of post-punk and gothic rock, but also incorporates more pop sounds and dance beats, and is supported by a wide range of music fans.

@@ -11,12 +11,13 @@ tags:
 - History
 title: '[Column] Can Zine Save Rave? : Possibility of DIY media as a storage device'
 ---
+
+
 ## Zine is a record, zine is an expression, zine is an extension of rave
 
 Text: mmr | Genre: Media culture/music archive | Theme: Zine as a preservation device for unrecorded culture
 
-
-A zine is a small piece of media that you can create yourself. Zines were as present in the rave scene as they were in the '90s punk scene, the feminist movement, and skater culture. A rave is a celebration of the moment, and zines are a great way to remember and share it with others. 
+A zine is a small piece of media that you can create yourself. Zines were as present in the rave scene as they were in the '90s punk scene, the feminist movement, and skater culture. A rave is a celebration of the moment, and zines are a great way to remember and share it with others.
 
 ---
 
@@ -34,22 +35,21 @@ color: #fff;
 }
 </style>
 
-
 ### Enthusiasm burned into paper
 
-The vibrations of my body that I felt on the club floor. An illegal rave that lasted until morning in a forest on the outskirts of the city. A wordless resonance exchanged in the infrared light surrounded by smoke.  
+The vibrations of my body that I felt on the club floor. An illegal rave that lasted until morning in a forest on the outskirts of the city. A wordless resonance exchanged in the infrared light surrounded by smoke.
 
-They are often not recorded. It is not reported in the media and is not recorded in history.  
+They are often not recorded. It is not reported in the media and is not recorded in history.
 
-However, a DIY media called ""Zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.  
+However, a DIY media called ""Zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.
 
-A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids.''  
+A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids.''
 
 ---
 
 ### The problem of lack of rave records
 
-Rave is a musical culture that emphasizes the experience of the here and now, and its nature makes it incompatible with media recording.  
+Rave is a musical culture that emphasizes the experience of the here and now, and its nature makes it incompatible with media recording.
 
 | Reasons why it is difficult to record | Contents |
 |--------------------|-------------------------------------------------|
@@ -57,13 +57,13 @@ Rave is a musical culture that emphasizes the experience of the here and now, an
 | Illegality/Anonymity | No records are kept to avoid detection by the police or government |
 | Transient | Events on the floor disappear for a moment |
 
-Thus, the ""true image'' of many raves does not remain. The lack of sound sources, images, and records threatens to disrupt cultural inheritance.  
+Thus, the ""true image'' of many raves does not remain. The lack of sound sources, images, and records threatens to disrupt cultural inheritance.
 
 ---
 
 ### What is a Zine? : Alternative records created by individuals
 
-Zine is an abbreviation for "Magazine" and is an independent publication that anyone can create freely. It is a cultural entity that does not rely on printing technology or the Web, but instead relies solely on paper and copy machines.  
+Zine is an abbreviation for "Magazine" and is an independent publication that anyone can create freely. It is a cultural entity that does not rely on printing technology or the Web, but instead relies solely on paper and copy machines.
 
 #### Features of Zine
 
@@ -76,7 +76,7 @@ Zine is an abbreviation for "Magazine" and is an independent publication that an
 
 ### Zine and rave affinity
 
-Zines can be a ""means for reconstructing the experience'' of unrecorded raves.  
+Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
 
 #### Specific example
 
@@ -94,7 +94,7 @@ Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
 <div class="mermaid">
 flowchart TD
 
-    A["Rave Zine"] --> B["Overseas"]
+A["Rave Zine"] --> B["Overseas"]
     
     B --> B1["Datacide<br>(Germany)"]
     B --> B2["Rave Flyer Archives<br>(UK)"]
@@ -118,7 +118,6 @@ flowchart TD
 | Share | Instantly share with a click | Hand delivery/mailing = physical ritual involved |
 | Easy to send messages | Anyone can easily send messages | Efforts to make = concentration of the creator's thoughts |
 
-
 Just as rave was a "physical experience," zine is also a "physical medium."
 
 ---
@@ -129,9 +128,7 @@ Founded in 2007, Rave Archive is an archive that preserves and shares memories o
 
 [Rave Archive](https://ravearchive.com)
 
-
 ---
-
 
 Old School Rave Flyer Archives from 1989-2000 from across the US and Canada
 
@@ -141,7 +138,6 @@ By Ernie Villalobos
 
 [Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)
 
-
 ---
 
 ### Conclusion: Zines are the key to inheriting the culture that could not be recorded
@@ -149,7 +145,6 @@ By Ernie Villalobos
 Zines are neither commercial nor public records. However, because of this, it is possible to preserve ""moments that no one else would have recorded.'' It is a diary, a report, a testimony, and a love letter.
 
 As much of rave culture is lost, the memories left behind in the form of zines will become valuable fragments for future generations of listeners and dancers to rediscover the contours of the culture.
-
 
 ---
 

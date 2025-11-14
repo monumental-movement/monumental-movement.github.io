@@ -11,7 +11,9 @@ tags:
 - 00s
 title: Proxy – Decoy
 ---
-Evgeny Pozharnov, also known as Proxy, is a Russian electronic producer and DJ. They have had success playing at international festivals such as Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer, and Electric Zoo. 
+
+
+Evgeny Pozharnov, also known as Proxy, is a Russian electronic producer and DJ. They have had success playing at international festivals such as Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer, and Electric Zoo.
 
 A representative Russian DJ who collaborates with many artists such as Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize, etc.
 

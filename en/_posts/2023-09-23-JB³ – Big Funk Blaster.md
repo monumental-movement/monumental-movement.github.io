@@ -10,6 +10,8 @@ tags:
 - Funk
 title: JB³ – Big Funk Blaster
 ---
+
+
 JB³ is another name for Joey Beltram. He has been active since the 90's and has produced a wide range of music in techno, house, and electronic genres.
 
 "Big Funk Blaster" is one of JB³'s masterpieces, featuring a danceable beat, funky bass line, and a groove-filled sound. JB³'s music has a unique style that incorporates elements of electronic music, but also adds funky elements and a disco feel.

@@ -12,7 +12,9 @@ tags:
 - 00s
 title: Autechre – Peel Session 2
 ---
-Peel Session 2 is Autechre's second John Peel session, broadcast on September 8, 1999, and a CD released on Warp Records in 2000.
+
+
+Peel Session 2 is Autechre's second John Peel session, broadcast on September 8, 1999, and the CD was released on Warp Records in 2000.
 
 When John Peel was first given this recording, it is said that he named the tracks himself, as none of the tracks except the fourth, ""19 Headaches'', had any names.
 

@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Arctic Monkeys – Whatever People Say I Am, That"s What I"m Not
 ---
+
+
 Arctic Monkeys is a rock band from Sheffield, England, formed in 2002. Arctic Monkeys are a representative of the "Blog Rock" era, which gained public attention through the Internet.
 
 This album is the debut studio album released by the label Domino in 2006.

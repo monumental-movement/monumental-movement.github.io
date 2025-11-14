@@ -11,6 +11,8 @@ tags:
 - 10inch
 title: Point Blanc Featuring Maria Motjér – Point Blanc
 ---
+
+
 This is a 10-inch record released in 1996 by Groove Attack Productions (GAP) in Cologne, Germany.
 
 #### Tracklist```md

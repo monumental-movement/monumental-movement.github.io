@@ -10,6 +10,8 @@ tags:
 - Electro
 title: The Go Find – Over The Edge Vs. What I Want
 ---
+
+
 The Go Find is a Belgian indie pop band led by Dieter Sermeus. Their music has a unique charm due to its fusion of pop elements and house & electronic arrangements.
 
 #### Tracklist```md

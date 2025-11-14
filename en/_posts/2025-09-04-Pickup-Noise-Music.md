@@ -9,6 +9,8 @@ tags:
 - Noise
 title: Pick up Noise Music works
 ---
+
+
 "A pure acoustic experience that transcends the boundaries of music, Noise Music works"
 
 <hr>
@@ -27,13 +29,13 @@ title: Pick up Noise Music works
 5. White Peafowl
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 
 
@@ -56,13 +58,13 @@ B3. Autopsy Love = オートプシィラブ
 B4. The Body = ザ ボディー
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 
 
@@ -81,8 +83,9 @@ B4. The Body = ザ ボディー
 6. The Last One
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -90,10 +93,8 @@ B4. The Body = ザ ボディー
 
 
 
-
 ### Hair Stylistics – Impression Of Nasty Dread / Best Of Hair-Style In My Life (7")
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
-
 
 - **Background**: Masaya Nakahara under the name Hair Stylistics. Released in 1999, the 7-inch model continues to lead the experimental and noise context to this day.  
 - ** Highlights **: The feeling of cutting and editing and the instantaneous maximum wind speed of excessive noise are included in the short version. Great for beginners and collections.
@@ -103,10 +104,11 @@ A. Impression Of Nasty Dread
 
 B. Best Of Hair-Style In My Life
 ```
+
+
 [Purchase on Mercari](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 
 <br>
-
 
 
 
@@ -124,8 +126,9 @@ B1  Dolami
 B2  Shoot
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpcsXaeZx7w?si=K2YtAvVZYNwf4xSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -147,13 +150,13 @@ B1. Space Golf (Balloon Mix)
 B2. Space Golf (Venusian Swing Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PzGx4oDDhAY?si=7ghPeZCVRG_1at2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 
 
@@ -175,8 +178,9 @@ B3. Jellyfish Blues (Scratch Pet Land Mix)
 B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -184,12 +188,12 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 
 
-## Summary
+## summary
 
 - **If you enter from the royal roar** *Merzbird*/Naked Rally's.  
 - *Smoking Kills* if you want to experience the texture of noise in a club context.  
 - For a **collage approach**, try Hair Stylistics/Tipsy/WXBD.  
-- **For those who want to make their own stuff**, check out the Eurorack column to find out the best equipment before listening to it.  
+- **For those who want to make their own stuff**, check out the Eurorack column to find out the best equipment before listening to it.
 
 ---
 

@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Orbital – Impact - The Remix
 ---
+
+
 This work is a remix of singles picked from Orbital's most acclaimed album, ""Orbital 2 (Brown Album)'' (1993), a major UK electro/techno music giant who represented the 90s techno scene along with The Chemical Brothers, Underworld, The Prodigy, and others.
 
 A's "Impact USA" is a self-remix of "Impact (The Earth Is Burning)".
@@ -17,7 +19,6 @@ A's "Impact USA" is a self-remix of "Impact (The Earth Is Burning)".
 B's "Lush" is a remix by EDM DJ/producer Francis Prève and Cochise (Jeremy Ball).
 
 A Techno track released in 1993 on the dance music label FFRR Records.
-
 
 #### Tracklist```md
 A. Impact USA
