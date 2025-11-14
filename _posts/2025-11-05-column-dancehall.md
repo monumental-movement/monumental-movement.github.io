@@ -174,12 +174,12 @@ Sean Paul、Vybz Kartel、Popcaanらがメインストリームを席巻。
 <div class="mermaid">
 
 graph TD
-A[Sound System<br>(1940s)] --> B[Ska<br>(1960s)]
-B --> C[Reggae / Dub<br>(1970s)]
-C --> D[Dancehall<br>(1980s)]
-D --> E[Global Dancehall<br>(2000s)]
-E --> F[Reggaeton / Afrobeats<br>(2010s〜)]
-D --> G[日本のSound System文化<br>(1990s〜)]
+A[Sound System\n(1940s)] --> B[Ska\n(1960s)]
+B --> C[Reggae / Dub\n(1970s)]
+C --> D[Dancehall\n(1980s)]
+D --> E[Global Dancehall\n(2000s)]
+E --> F[Reggaeton / Afrobeats\n(2010s〜)]
+D --> G[日本のSound System文化\n(1990s〜)]
 
 </div>
 
