@@ -6,10 +6,22 @@ from difflib import unified_diff
 
 SRC_DIR = "_posts"
 DEST_DIR = os.path.join("en", "_posts")
+CACHE_FILE = "translation_cache.yaml"
+
 os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='en')
 
+# キャッシュ読み込み
+if os.path.exists(CACHE_FILE):
+    with open(CACHE_FILE, "r", encoding="utf-8") as f:
+        translation_cache = yaml.safe_load(f) or {}
+else:
+    translation_cache = {}
+
+def save_cache():
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        yaml.safe_dump(translation_cache, f, allow_unicode=True)
 
 def normalize_quotes(text):
     if not text:
@@ -17,19 +29,24 @@ def normalize_quotes(text):
     text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
     return text
 
-
 def translate_block(text):
-    """本文を丸ごと翻訳（コード・iframeは事前除外）"""
-    if not text.strip():
+    text = text.strip()
+    if not text:
         return text
+    # キャッシュにあれば返す
+    if text in translation_cache:
+        return translation_cache[text]
+    # 翻訳
     try:
-        res = translator.translate(text)
-        if res is None:
+        result = translator.translate(text)
+        if result is None:
             return text
-        return normalize_quotes(res)
-    except:
+        result = normalize_quotes(result)
+        translation_cache[text] = result
+        return result
+    except Exception as e:
+        print(f"⚠️ 翻訳失敗: {e}（スキップ）")
         return text
-
 
 def split_front_matter(content):
     if content.startswith("---"):
@@ -40,14 +57,12 @@ def split_front_matter(content):
             return "", content
     return "", content
 
-
 def extract_translatable_blocks(body):
-    """コードブロック・iframe を保持しつつ、翻訳ブロックだけ抽出"""
     blocks = []
     buf = []
     in_code = False
 
-    for line in body.splitlines(True):  # keep \n
+    for line in body.splitlines(True):  # 改行維持
         if line.strip().startswith("```"):
             if buf:
                 blocks.append(("text", "".join(buf)))
@@ -66,9 +81,7 @@ def extract_translatable_blocks(body):
 
     return blocks
 
-
 def reconstruct_body(blocks, translated_texts):
-    """ブロックを組み戻す"""
     out = []
     t_idx = 0
     for btype, content in blocks:
@@ -79,7 +92,7 @@ def reconstruct_body(blocks, translated_texts):
             t_idx += 1
     return "".join(out)
 
-
+# --- メイン処理 ---
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -112,14 +125,10 @@ for filename in os.listdir(SRC_DIR):
 
     front_matter["lang"] = "en"
 
-    # 本文ブロック抽出
+    # 本文翻訳
     blocks = extract_translatable_blocks(body)
-
-    # 翻訳（ここが爆速ポイント：行でなく「まとまりごと」）
     texts_to_translate = [b[1] for b in blocks if b[0] == "text"]
     translated_texts = [translate_block(t) for t in texts_to_translate]
-
-    # 組み戻し
     translated_body = reconstruct_body(blocks, translated_texts)
 
     # 書き出し
@@ -129,4 +138,6 @@ for filename in os.listdir(SRC_DIR):
 
     print(f"✅ Done: {filename}\n")
 
-print("🎉 Finished (block-level fast translation)")
+# キャッシュ保存
+save_cache()
+print("🎉 Finished (fast translation with cache)")
