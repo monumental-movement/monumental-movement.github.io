@@ -12,7 +12,9 @@ os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='en')
 
-# --- キャッシュ読み込み ---
+# ----------------------------------------
+#  キャッシュ読み込み
+# ----------------------------------------
 if os.path.exists(CACHE_FILE):
     with open(CACHE_FILE, "r", encoding="utf-8") as f:
         translation_cache = yaml.safe_load(f) or {}
@@ -23,86 +25,81 @@ def save_cache():
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         yaml.safe_dump(translation_cache, f, allow_unicode=True)
 
+# ----------------------------------------
+# 引用符の正規化
+# ----------------------------------------
 def normalize_quotes(text):
-    if not text:
+    return re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
+
+# ----------------------------------------
+# 翻訳 + 段落キャッシュ
+# ----------------------------------------
+def translate_paragraph(text):
+    stripped = text.strip()
+    if not stripped:
+        return text  # 空行はそのまま
+
+    # コード/iframeは翻訳しない
+    if stripped.startswith("```") or "<iframe" in stripped:
         return text
-    text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
-    return text
 
-# --- 段落単位翻訳 ---
-def translate_text_with_paragraphs(text):
-    paragraphs = text.split("\n\n")  # 空行で段落分割
-    translated_paragraphs = []
+    # キャッシュ利用
+    if stripped in translation_cache:
+        return translation_cache[stripped]
 
-    for para in paragraphs:
-        para = para.strip()
-        if not para:
-            translated_paragraphs.append("")
-            continue
-        if para in translation_cache:
-            translated_paragraphs.append(translation_cache[para])
-        else:
-            try:
-                result = translator.translate(para)
-                if result is None:
-                    result = para
-                result = normalize_quotes(result)
-                translation_cache[para] = result
-                translated_paragraphs.append(result)
-            except Exception as e:
-                print(f"⚠️ 翻訳失敗: {e} — スキップ")
-                translated_paragraphs.append(para)
+    try:
+        result = translator.translate(stripped)
+        if result is None:
+            result = stripped
+        result = normalize_quotes(result)
+    except Exception as e:
+        print(f"⚠️ Translate failed → {e}")
+        result = stripped
 
-    return "\n\n".join(translated_paragraphs)
+    translation_cache[stripped] = result
+    return result
 
-# --- Front Matter 分割 ---
+# ----------------------------------------
+# Front matter を分離
+# ----------------------------------------
 def split_front_matter(content):
     if content.startswith("---"):
-        parts = content.split('---', 2)
+        parts = content.split("---", 2)
         if len(parts) >= 3:
             return parts[1], parts[2]
-        else:
-            return "", content
     return "", content
 
-# --- 翻訳対象ブロック抽出 ---
-def extract_translatable_blocks(body):
-    blocks = []
-    buf = []
+# ----------------------------------------
+# 本文の翻訳（段落ごと）
+# ----------------------------------------
+def translate_body(body):
+    out = []
     in_code = False
 
     for line in body.splitlines(True):  # 改行維持
-        if line.strip().startswith("```"):
-            if buf:
-                blocks.append(("text", "".join(buf)))
-                buf = []
-            blocks.append(("code", line))
+        stripped = line.strip()
+
+        if stripped.startswith("```"):
             in_code = not in_code
+            out.append(line)
             continue
 
-        if in_code or "<iframe" in line:
-            blocks.append(("code", line))
+        if in_code or "<iframe" in stripped:
+            out.append(line)
+            continue
+
+        # --- 本文の段落処理（全文をまとめて翻訳 → 高精度） ---
+        if stripped:
+            translated = translate_paragraph(line)
+            out.append(translated + ("\n" if not line.endswith("\n") else ""))
         else:
-            buf.append(line)
+            out.append(line)
 
-    if buf:
-        blocks.append(("text", "".join(buf)))
-
-    return blocks
-
-# --- 組み戻し ---
-def reconstruct_body(blocks, translated_texts):
-    out = []
-    t_idx = 0
-    for btype, content in blocks:
-        if btype == "code":
-            out.append(content)
-        else:
-            out.append(translated_texts[t_idx])
-            t_idx += 1
     return "".join(out)
 
-# --- メイン処理 ---
+# ----------------------------------------
+# メイン処理
+# ----------------------------------------
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -114,14 +111,14 @@ for filename in os.listdir(SRC_DIR):
         src_content = f.read()
 
     fm, body = split_front_matter(src_content)
-    front_matter = yaml.safe_load(fm) or {}
+    front = yaml.safe_load(fm) or {}
 
-    # --- 既存差分チェック ---
+    # 既存ファイルあり → 差分チェック（高速化）
     old_body = ""
     if os.path.exists(dest_path):
         with open(dest_path, "r", encoding="utf-8") as f:
-            dest_content = f.read()
-        _, old_body = split_front_matter(dest_content)
+            old_content = f.read()
+        _, old_body = split_front_matter(old_content)
 
     if old_body.strip() == body.strip():
         print(f"⏭️ No changes: {filename}")
@@ -129,25 +126,23 @@ for filename in os.listdir(SRC_DIR):
 
     print(f"🔁 Updating: {filename}")
 
-    # --- タイトル翻訳 ---
-    if front_matter.get("title"):
-        front_matter["title"] = translate_text_with_paragraphs(front_matter["title"])
+    # --- YAML title 翻訳 ---
+    if front.get("title"):
+        front["title"] = translate_paragraph(front["title"])
 
-    front_matter["lang"] = "en"
+    front["lang"] = "en"
 
     # --- 本文翻訳 ---
-    blocks = extract_translatable_blocks(body)
-    texts_to_translate = [b[1] for b in blocks if b[0] == "text"]
-    translated_texts = [translate_text_with_paragraphs(t) for t in texts_to_translate]
-    translated_body = reconstruct_body(blocks, translated_texts)
+    translated_body = translate_body(body)
 
-    # --- ファイル書き出し ---
-    output = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
+    # --- 書き出し ---
+    output = f"---\n{yaml.safe_dump(front, allow_unicode=True)}---\n{translated_body}"
+
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output)
 
     print(f"✅ Done: {filename}\n")
 
-# --- キャッシュ保存 ---
+# 最後にキャッシュ保存
 save_cache()
-print("🎉 Finished (paragraph-level translation with cache)")
+print("🎉 Finished translation (with paragraph cache)")
