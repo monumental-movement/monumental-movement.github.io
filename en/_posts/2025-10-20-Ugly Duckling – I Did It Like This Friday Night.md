@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Ugly Duckling – I Did It Like This Friday Night
 ---
+
+
 Ugly Duckling is a representative American underground hip-hop group formed in Long Beach in 1993. The members are Andy Cooper, Dustin McFarland, Rodney Pleasant.
 
 "I Did It Like This / Friday Night" was released in 2000 on the UK Hip Hop label Bad Magic.

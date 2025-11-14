@@ -10,6 +10,8 @@ tags:
 - Soul
 title: Miss Monday – Curious
 ---
+
+
 "Curious" is one of Japanese singer-songwriter Miss Mandy's signature songs. She specializes in pop music that incorporates elements of jazz and soul, and is known for her powerful vocals and emotional expression.
 
 This song combines sophisticated production and rich musical elements, and Miss Mandy's unique artistry and expressiveness give the song its own charm.

@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Bullblast – Inch By Inch
 ---
+
+
 BULLBLAST is a unit composed of TARO KAWAUCHI and K-SOBAJIMA. "Inch By Inch" was released in 2006 by Nitelist Music, a label founded by DJ Emma and Taro Kawauchi in 2000.
 
 #### Tracklist```md

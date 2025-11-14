@@ -10,9 +10,10 @@ tags:
 - Indie Rock
 title: The Cuckoos – Iscariot
 ---
+
+
 "Iscariot" is
 This is an EP by The Cuckoos released in 1992 by the UK label "Imaginary Records".
-
 
 #### Tracklist```md
 A. Iscariot

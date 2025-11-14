@@ -9,7 +9,9 @@ tags:
 - Techno
 title: N-Joi – Bad Things
 ---
-NJOI is a British rave/techno band formed in 1989 by Nigel Champion and Mark Franklin. 
+
+
+NJOI is a British rave/techno band formed in 1989 by Nigel Champion and Mark Franklin.
 
 The vocal front is Saffron. NJOI's songs had a huge influence on the UK rave scene at the time.
 

@@ -11,6 +11,8 @@ tags:
 - Downtempo
 title: FreeTEMPO – Sounds
 ---
+
+
 FreeTEMPO is a project by Takeshi Hanzawa. Started activities under the name FreeTEMPO in 2000.
 
 In 2002, she joined the Italian label IRMA RECORDS and released her first mini album ""Love Affair.''

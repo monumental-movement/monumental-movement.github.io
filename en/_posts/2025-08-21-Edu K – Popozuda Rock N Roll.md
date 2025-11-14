@@ -12,6 +12,8 @@ tags:
 - Favela Funk
 title: Edu K – Popozuda Rock N' Roll
 ---
+
+
 Eduardo Martins Dornelles, also known as Edu K, is a musician and producer from Brazil. He is best known as the vocalist of the Brazilian rock band DeFalla.
 
 "Popozuda Rock N' Roll" is Ragga HipHop/Electro/Reggaeton/Favela Funk released by Man Recordings, a Berlin-based label that releases Brazilian baile funki and other music.

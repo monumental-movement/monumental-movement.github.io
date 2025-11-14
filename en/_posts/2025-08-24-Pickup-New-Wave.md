@@ -10,6 +10,8 @@ tags:
 - 80s
 title: Pick up new wave works
 ---
+
+
 "A remarkable group of New-Wave works that are impressive with their unique synthesizer sounds and avant-garde rhythms."
 
 <hr>
@@ -18,7 +20,6 @@ title: Pick up new wave works
 
 ### Elvis Costello And The Attractions – Let Them All Talk
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
-
 
 Release: 24th single released in 1984. A song by Elvis Costello & the Attractions, an artist representing 80's new wave/rock.
 
@@ -33,13 +34,13 @@ A. Let Them All Talk
 B. The Flirting Kind
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Buggles – The Age of Plastic
 <a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
@@ -47,7 +48,6 @@ B. The Flirting Kind
 Release: Posted on May 1, 2025. The debut album by The Buggles (UK new wave unit consisting of Trevor Horn and Geoff Downes).
 
 Recommended points: A masterpiece that symbolizes the era, including iconic synth pop/new wave songs such as "Video Killed the Radio Star." It also became a hot topic that the two later joined the band Yes.
-
 
 #### Tracklist```md
 1. Living In The Plastic Age
@@ -60,8 +60,9 @@ Recommended points: A masterpiece that symbolizes the era, including iconic synt
 8. Johnny On The Monorail
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -90,13 +91,13 @@ B4. Nothing Changes
 B5. Satisfied Strangers
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### A Flock Of Seagulls – Listen
 <a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
@@ -119,21 +120,20 @@ B5. The Fall
 B6. (It's Not Me) Talking
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Furniture – I Can"t Crack
 <a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
 
 Release: Posted on September 9, 2023. A 1985 EP by a band with British pop/new wave/post-punk elements.
 
-
-Recommended points: A unique world view that combines catchy melodies, atmospheric sounds, and introspective lyrics. This work received high praise from critics.
+Recommended points: A unique worldview that combines catchy melodies, atmospheric sounds, and introspective lyrics. This work received high praise from critics.
 
 #### Tracklist```md
 A1. I Can't Crack
@@ -143,19 +143,18 @@ A3. Pause
 B1. I Can't Crack (Broken Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
 
-
 ### Devo – New Traditionalists
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
 Release: Posted on May 18, 2024. The fourth self-produced album by Devo, a representative of US new wave (1981).
-
 
 Recommended points: An innovative album that combines minimal and cool synth lines, electronic percussion, and the theme of "deevolution." Contains representative songs such as "Through Being Cool".
 
@@ -174,8 +173,9 @@ B5. Enough Said
 B6. Working In The Coal Mine
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -199,13 +199,13 @@ B2. Widemouth
 B3. Stephen
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### The Rapture – In The Grace Of Your Love
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
@@ -228,8 +228,9 @@ Recommended points: Their approach is a bold mix of post-punk, electro, disco, e
 11. It Takes Time To Be A Man
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

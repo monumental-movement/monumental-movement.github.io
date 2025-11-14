@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Ian McCulloch – September Song
 ---
+
+
 Ian McCulloch is a singer and guitarist (born May 5, 1959) known for his emotional image and is primarily known as the vocalist of Echo And The Bunnymen.
 
 His career also includes time in The Crucial Three with Pete Wylie and Julian Cope in the 1970s, and in the Bunnymen offshoot Electrafixion in the '90s.

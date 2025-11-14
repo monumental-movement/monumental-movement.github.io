@@ -12,6 +12,8 @@ tags:
 - Electro House
 title: Skrillex – Scary Monsters And Nice Sprites
 ---
+
+
 Japanese version released in 2012. Tracks 1 to 6 are Skrillex original songs. The seventh song is a remix by Dutch drum and bass trio Noisia. The 8th song is a remix by DJ and producer Zedd, famous for ""Clarity'' and Ariana Grande's hit song ""Break Free.''
 
 The ninth track is a remix by Bare Noize, the production duo of Daniel Brown and Oliver Pile.

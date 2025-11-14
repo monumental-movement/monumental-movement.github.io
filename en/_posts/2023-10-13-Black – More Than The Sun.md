@@ -10,6 +10,8 @@ tags:
 - New-Wave
 title: Black – More Than The Sun
 ---
+
+
 Black is the alias of British singer-songwriter Colin Vearncombe and the name of his band.
 
 #### Tracklist```md

@@ -10,6 +10,8 @@ tags:
 - Acid
 title: Billy Nightmare – Reality Check
 ---
+
+
 This is an EP by "Mystic Bill" Torres, also known as Billy Nightmare, who emerged from the Chicago rave scene.
 
 Originally, the project was going to be titled "Billy's Nightmare," but to avoid a lifetime of bad luck, Torres decided to switch it up to Billy Nightmare, put aside his Mystic Bill alias, cut his hair, changed his sound, and assumed this new persona.

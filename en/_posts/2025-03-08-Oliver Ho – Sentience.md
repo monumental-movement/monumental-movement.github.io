@@ -11,10 +11,11 @@ tags:
 - 90s
 title: Oliver Ho – Sentience
 ---
+
+
 Oliver Ho is a techno DJ and producer based in London.
 
 "Sentience" is Oliver Ho's masterpiece, released in 1999 on Blueprint, a label founded by James Ruskin and Richard Polson. Oliver Ho's debut album was also released on the same label.
-
 
 #### Tracklist```md
 1. Birth

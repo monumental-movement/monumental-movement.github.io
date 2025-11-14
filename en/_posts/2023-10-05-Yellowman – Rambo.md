@@ -10,6 +10,8 @@ tags:
 - Dancehall
 title: Yellowman – Rambo
 ---
+
+
 "Rambo" is a song by Jamaican reggae musician Yellowman. Yellowman was a very popular artist in Jamaican music in the 1980s.
 
 "Rambo" is included on Yellowman's album "King Yellowman", released in 1982. This song is known for its style called Yellowman's Toast Style. Toast style is a style of rapping that improvises lyrics to a rhythm and evolved from the sound system culture of Jamaican music.

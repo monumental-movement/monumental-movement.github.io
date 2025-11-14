@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Pearl Bros. – Iron Helmet Woman
 ---
+
+
 Pearl Brothers is a Japanese rock unit formed in 1983 and debuted in 1986. The band members are set to be "brothers."
 
 The members are Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, Tsunehiko Yashiro, and others.
@@ -28,3 +30,4 @@ B2. ◯。◯◯◯娘 (サエキ用カラオケ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3mb1CUdbWs?si=mVpzprXl3VtNwUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 
 #### Youtube
+

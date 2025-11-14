@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Chris McCormack – There Are Better Ways
 ---
+
+
 Chris McCormack is a UK techno producer. "There Are Better Ways" is a two-disc house set.
 record.
 

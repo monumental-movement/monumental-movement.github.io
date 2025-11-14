@@ -9,6 +9,8 @@ tags:
 - Trance
 title: Rising Star – Touch Me
 ---
+
+
 A trance track by Armin van Buuren, also known as Rising Star, released in 2001 on the German label Reef Recordings.
 
 Side A is a remix by Finnish trance DJ Darude, who is famous for the track "Sandstorm."

@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: The Foundation Featuring Jay Williams – Rejoice
 ---
+
+
 A house track by Dominican-American house DJ/remixer/producer Roger Sanchez, also known as The Foundation, released by New York house label One Records in 1993.
 
 #### Tracklist```md

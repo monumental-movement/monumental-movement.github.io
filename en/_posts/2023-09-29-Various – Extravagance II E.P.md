@@ -10,6 +10,8 @@ tags:
 - Hardcore Techno
 title: Various – Extravagance II E.P
 ---
+
+
 "Adrenalin" and "I Think I Want Some More" are songs from 1992 and are timeless tracks.
 
 Tracks from this EP were also featured on Basement Phil's History of Rave show.

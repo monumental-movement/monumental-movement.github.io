@@ -11,6 +11,8 @@ tags:
 - Deep House
 title: Stoned Democracy – Close (Like An Overdose)
 ---
+
+
 Stoned Democracy is a unit formed by Chris Rushby and Roland Armstrong (Rollo).
 
 Also active under a different name, High On Love (HOL). Member Roland Armstrong (Rollo) is Dido's older brother.

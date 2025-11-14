@@ -10,6 +10,8 @@ tags:
 - Break Beat
 title: Grandmaster Flash – U Know What Time It Is
 ---
+
+
 Grandmaster Flash is one of the pioneers of American hip-hop, known as a DJ and music producer.
 
 "U Know What Time It Is" is an energetic hip-hop track that showcases Grandmaster Flash's signature style. Combining hip-hop elements such as funky beats, scratching, sampling, and breakbeats, his unique DJ techniques and creative ideas give the songs rhythm and dynamism.

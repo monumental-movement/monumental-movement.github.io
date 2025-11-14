@@ -10,10 +10,11 @@ tags:
 - 90s
 title: Picking up works by Detroit Techno
 ---
+
+
 "Detroit Techno works born from the gap between decadence and hope"
 
 <hr>
-
 
 ### Claude Young – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
@@ -30,8 +31,9 @@ B1. Prance
 B2. Fade
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -39,10 +41,8 @@ B2. Fade
 
 
 
-
 ### Model 500 – Deep Space
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
-
 
 Characteristics: Songs such as "Milky Way," "Orbit," and "The Flow" are characterized by floating synth work that feels like traveling through deep space, and spacey, hard rhythms.
 
@@ -60,13 +60,13 @@ Recommended points: A masterpiece that condenses the future-oriented and cool so
 9. Lightspeed
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 
 
@@ -84,8 +84,9 @@ T1. The Flow M26 (Underworld MK. 2 Mix)
 T2. The Flow M38 (Alex Reece Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -93,10 +94,8 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 
-
 ### Carl Craig – Landcruising
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
-
 
 Features: Dramatic sound image that combines ambient, breakbeat, future jazz, etc. with a minimalist base.
 
@@ -114,8 +113,9 @@ Recommended points: An album with depth and sophistication that takes the listen
 9. Home Entertainment
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -125,7 +125,6 @@ Recommended points: An album with depth and sophistication that takes the listen
 
 ### Ultradyne – Unknown Works
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
-
 
 Characteristics: Balancing danceable grooves and abstract experimentation. Track examples: "Tangible–Theory Proliferation (Ultradyne Remix)" and "Fantasy Era."
 
@@ -139,8 +138,9 @@ B1. Ultradyne–Society @ Work
 B2. Ultradyne–War Drum - Live
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -150,7 +150,6 @@ B2. Ultradyne–War Drum - Live
 
 ### Drivetrain – Symphonium
 <a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.webp"></a>
-
 
 Features: Dark, melodious, energetic and danceable rhythm.
 
@@ -164,8 +163,9 @@ AA1. In The Rhythm
 AA2. Soundtrack
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -191,8 +191,9 @@ B2. Untitled
 B3. Untitled
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -215,8 +216,9 @@ B1. Detached
 B2. Black Avenger
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -239,8 +241,9 @@ B1. L8
 B2. Scout
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -261,8 +264,9 @@ A. Circus (The Greatest Show On Earth Mix)
 B. Circus (The Big Finale Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -277,7 +281,6 @@ Features: Track released under the name "M" by Axis in 1992. A song that represe
 
 Recommended points: A must-have disc for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy sound.
 
-
 #### Tracklist```md
 A1. Scenario
 A2. Switchblade
@@ -286,9 +289,11 @@ B1. The Fuzz (Loophole Mix)
 B2. Getaway
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4nfv1umHFU?si=PAuZ14GX1UywqvoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
+

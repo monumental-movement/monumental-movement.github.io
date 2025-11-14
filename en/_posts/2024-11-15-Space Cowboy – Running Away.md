@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Space Cowboy – Running Away
 ---
+
+
 Nicolas Jean-Pierre Patrick Dresti, also known as Space Cowboy, is a French-British DJ, singer-songwriter, and producer. He has released under various names such as DJ Apex, DJ Supreme, and Kings Of Rhythm, but has been using Space Cowboy since 2002. Since the late 2000s, he has been Lady Gaga's personal DJ.
 
 "Running Away" is a house electro track released in 2007 on the UK independent label Tiger Trax.
@@ -18,7 +20,6 @@ Nicolas Jean-Pierre Patrick Dresti, also known as Space Cowboy, is a French-Brit
 The B-side is a remix by Jesse F. Keeler, aka JFK of MSTRKRFT.
 
 The jacket is by James Sutton, who has created jackets for will.i.am, Natalia Kills, Steve Aoki, Keri Hilson, NERD, and more.
-
 
 #### Tracklist```md
 A1. Running Away (Original)

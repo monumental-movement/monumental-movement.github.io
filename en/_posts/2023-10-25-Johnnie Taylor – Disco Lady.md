@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Johnnie Taylor – Disco Lady
 ---
+
+
 "Disco Lady" is Johnnie Taylor's biggest hit. The producer is Don Davis.
 
 The song features guest appearances from Parliament-Funkadelic bassist Bootsy Collins, keyboardist Bernie Worrel, guitarist Glenn Goins, and drummer Tiki Fulwood.

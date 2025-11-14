@@ -10,8 +10,9 @@ tags:
 - Future Jazz
 title: Realside – High Noon
 ---
-"High Noon" is an EP by Dominic Stanton & Mark Russell's unit "Realside" released on the UK label Sirkus in 2002.
 
+
+"High Noon" is an EP by Dominic Stanton & Mark Russell's unit "Realside" released on the UK label Sirkus in 2002.
 
 #### Tracklist```md
 A. High Noon

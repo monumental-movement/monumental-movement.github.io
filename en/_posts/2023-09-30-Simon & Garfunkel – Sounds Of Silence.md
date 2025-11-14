@@ -10,6 +10,8 @@ tags:
 - Folk
 title: Simon & Garfunkel – Sounds Of Silence
 ---
+
+
 "Sounds Of Silence" was released in 1966. This album was an important milestone in Simon & Garfunkel's career, demonstrating their musical maturity and talent.
 
 The album includes the hit singles "The Sound of Silence" and "I Am a Rock." These songs feature a melodic folk sound and the beautiful harmonies of Paul Simon and Art Garfunkel.

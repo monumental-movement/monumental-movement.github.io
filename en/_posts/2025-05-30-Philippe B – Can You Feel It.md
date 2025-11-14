@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Philippe B – Can You Feel It
 ---
+
+
 "Janeiro", a vocal trance track by Dutch producer group Solid Sessions featuring Pronti & Kalmani, has been remixed by numerous famous DJs since its release in 2000.
 
 This record is a remix version by Dutch DJ/producer Armin van Buuren and Paul Hutsch, released on the Alpha+ label in 2002.

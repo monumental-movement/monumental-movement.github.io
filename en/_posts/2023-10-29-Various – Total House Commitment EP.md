@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: Various – Total House Commitment EP
 ---
+
+
 A deep house/tech house compilation released by San Francisco house label THC - Total House Commitment.
 
 #### Tracklist```md

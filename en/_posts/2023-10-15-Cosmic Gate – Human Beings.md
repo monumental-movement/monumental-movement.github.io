@@ -10,9 +10,10 @@ tags:
 - Hard Trance
 title: Cosmic Gate – Human Beings
 ---
+
+
 "Cosmic Gate – Human Beings"
 The B-side is a remix by G&M (Robert Gitelman & Jaron Martinez), a well-known trance act in the European dance scene of the early 2000s.
-
 
 #### Tracklist```md
 A1. Human Beings (Extended Mix)

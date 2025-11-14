@@ -11,10 +11,11 @@ tags:
 - 00s
 title: Special Others – Star
 ---
+
+
 Special Others is a Japanese jam band whose style is a mix of improvisational jazz and post-rock. Each member has a middle name given to them by Afrobeat founder and legendary drummer Tony Allen.
 
 This mini-album was released by Victor in 2007.
-
 
 #### Tracklist```md
 1. Star

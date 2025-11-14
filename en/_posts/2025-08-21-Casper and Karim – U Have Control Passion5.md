@@ -11,10 +11,11 @@ tags:
 - 00s
 title: Casper & Karim – U Have Control / Passion5
 ---
+
+
 HardHouse is created by Chris Payne (Casper), a hard house DJ/producer from the UK, and Karim Lamouri (Karim), a DJ/producer from the UK who is active in the hard house and techno scenes.
 
 It was released in 2003 on Passion Records, a UK Hard Dance label specializing in NRG.
-
 
 #### Tracklist```md
 A. Casper & Karim – U Have Control

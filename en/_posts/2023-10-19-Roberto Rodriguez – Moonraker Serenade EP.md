@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Roberto Rodriguez – Moonraker Serenade EP
 ---
+
+
 Roberto Rodriguez is a Finnish DJ/producer and founder of the Serenades label. Roberto Rodriguez has released a number of house classics, including "Mustat Varjot," a staple of DJ Harvey's sets.
 
 "Moonraker Serenade EP" was released in 2007 on the label Laka. The first song on the B side is a remix by Phonique (Michael Vater).

@@ -10,6 +10,8 @@ tags:
 - Soul
 title: Quincy Jones – Body Heat
 ---
+
+
 Body Heat is an album released by Quincy Jones in 1974.
 
 #### Tracklist```md

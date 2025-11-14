@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Various – Class X Two
 ---
+
+
 It deserves a top collection among Razomaid remixes. The highlight of this double-pack LP is "The Walk" by The Cure.
 
 It's amazing and even better than the original version.
@@ -44,3 +46,4 @@ D2. Yazoo–Don't Go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DqpaYDvTXSY?si=SwnjyFGwYvk0-FXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
 #### Youtube
+

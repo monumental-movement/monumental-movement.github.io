@@ -10,6 +10,8 @@ tags:
 - Goa Trance
 title: Odds – Odds E.P
 ---
+
+
 Odds is a psychedelic gore-trance music project by Kris Kylven and Ben Silver (B. El Metoui).
 
 "Odds E.P." is a gore-trance track released in 1995 by the UK label Flying Rhino Records.

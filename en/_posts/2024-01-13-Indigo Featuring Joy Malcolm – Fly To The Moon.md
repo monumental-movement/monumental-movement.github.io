@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Indigo Featuring Joy Malcolm – Fly To The Moon
 ---
+
+
 This is an EP from the project "Indigo" by Luke Purewal, released in 1999 on the UK label "Defender Music".
 
 Featuring Joy Malcolm, a UK singer who is also a member of Cool World Ensemble, Diva Singers, and was previously a member of Incognito.

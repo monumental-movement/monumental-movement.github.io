@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Kissogram / 33HZ – My Friend Is A Seahorse / Hot Flashes
 ---
+
+
 "My Friend Is A Seahorse / Hot Flashes" is a song co-produced by Kissogram and 33HZ. Kissogram is a German electronic music duo and 33HZ is an American electronic pop band.
 
 "My Friend Is A Seahorse" is a song that combines Kithogram's signature sound of electronic music and pop elements, with a catchy melody and rhythm, unique vocals, and the entire song is full of playfulness and positive energy.

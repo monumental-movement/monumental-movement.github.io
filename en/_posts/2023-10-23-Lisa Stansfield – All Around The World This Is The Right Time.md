@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Lisa Stansfield – All Around The World This Is The Right Time
 ---
+
+
 Lisa Stansfield's "All Around The World" is a UK R&B classic that became a worldwide hit.
 
 The B-side was produced by UK DJ and production act Coldcut, who is also the founder of Ninja Tune.

@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Steve Reid – Bamboo Forest
 ---
+
+
 Steve Reid is an American jazz percussionist and producer. He was a co-founder of The Rippingtons and a member of Supertramp.
 
 ""Bamboo Forest'', released in 1994, was his debut solo album, influenced by world beat, and during this period he was twice selected as percussionist of the year by Jazz magazine.

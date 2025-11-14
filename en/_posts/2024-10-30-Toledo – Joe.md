@@ -11,10 +11,11 @@ tags:
 - 90s
 title: Toledo – Joe
 ---
+
+
 House acid jazz track by Toledo (Toledo Diamond). The producer is Danny Saber, a former member of Black Grape.
 
 It was released in 1994 by the US independent label Moonshine Music.
-
 
 #### Tracklist```md
 A1. Joe (Joey Malcom Mix)

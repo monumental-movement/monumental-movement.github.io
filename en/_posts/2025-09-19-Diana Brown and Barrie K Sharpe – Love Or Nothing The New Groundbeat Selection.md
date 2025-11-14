@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Diana Brown & Barrie K. Sharpe – Love Or Nothing (The New Groundbeat Selection)
 ---
+
+
 Diana Brown & Barrie K. Sharpe are a groundbeat/acid jazz/rare groove duo based in London in the early 1990s. He has released 5 singles and 1 album on FFRR Records.
 
 This record is The New Groundbeat Selection version of "Love Or Nothing" released in 1991. B1 is a remix by musician/producer Steve Anderson, known for his work with Kylie Minogue.

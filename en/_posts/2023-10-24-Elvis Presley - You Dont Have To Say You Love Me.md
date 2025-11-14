@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Elvis Presley - You Don't Have To Say You Love Me
 ---
+
+
 ""You Don't Have To Say You Love Me'' is originally an Italian song, with the original title ""I can't live without you (Io che non vivo senza te)''. It was sung by Dusty Springfield and later covered by Elvis Presley.
 
 #### Tracklist```md

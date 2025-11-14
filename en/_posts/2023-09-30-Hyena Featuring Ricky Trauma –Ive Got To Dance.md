@@ -10,6 +10,8 @@ tags:
 - House
 title: Hyena Featuring Ricky Trauma –I"ve Got To Dance
 ---
+
+
 Hyena Featuring Ricky Trauma's "I've Got To Dance"
 The B-side "Velvet Mix" is recommended.
 
@@ -24,3 +26,4 @@ B. I've Got To Dance (Velvet Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m2FnuumyWy4?si=-nl5M73btQIzM3RL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m57514853897?afid=6142608987){: .button1}
 
 #### Youtube
+

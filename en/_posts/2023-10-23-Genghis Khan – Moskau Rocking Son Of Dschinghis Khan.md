@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Genghis Khan – Moskau Rocking Son Of Dschinghis Khan
 ---
+
+
 Genghis Khan was a West German group that was active worldwide from 1979 to 1985.
 
 "Moskau" was a worldwide hit from the album "Genghis Khan" released in 1979.

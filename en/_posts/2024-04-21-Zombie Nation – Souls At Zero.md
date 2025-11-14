@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Zombie Nation – Souls At Zero
 ---
+
+
 Zombie Nation became famous with the release of ""Kernkraft 400'' in 1999.
 
 Originally a techno duo consisting of German DJ and producer Splank! (Florian Senfter) and DJ Mooner (Emanuel Günther), now Splank! (Florian Senfter) is active alone.

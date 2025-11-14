@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Riot – Inishmore
 ---
+
+
 "Inishmore" is the 10th studio album by the American hard rock/heavy metal band Riot, which was released in Japan in 1997. This album is based on the sagas of Celtic and Irish mythology. The 12th track is a bonus track only available on the Japanese version. The members at the time of release were Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, and Bobby Jarzombek.
 
 #### Tracklist```md

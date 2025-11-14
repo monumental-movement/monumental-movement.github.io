@@ -10,6 +10,8 @@ tags:
 - Psychedelic
 title: Bio-Tonic – Rock Da People
 ---
+
+
 "Rock Da People" is
 This is an EP by France's psychedelic trance band ""Bio-Tonic'' from Reims, released by the German label ""Spirit Zone Recordings'' in 2001.
 

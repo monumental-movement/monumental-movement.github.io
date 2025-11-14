@@ -10,6 +10,8 @@ tags:
 - 00s
 title: The Proov – Nebula
 ---
+
+
 The Proov is a hip-hop duo from the Netherlands formed in 1996 by MC Gumshoe (Sven Willemsen) and MC CeeMajor (Cor Giesing). Proov has a unique style that expresses everything from jazzy and dusty funk to electro sounds as hip-hop.
 
 "Nebula" is a Hip Hop song released in 2003 by Dutch producer Perquisite's label Unexpected Records.

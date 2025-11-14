@@ -10,11 +10,12 @@ tags:
 - Techno
 title: Yellow Magic Orchestra – X∞Multiplies
 ---
+
+
 YMO's best album released in the United States by A&M Records in July 1980.
 Yellow Magic Orchestra – Multiprise".
 
 The Japanese version is [here](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
-
 
 #### Tracklist```md
 A1. Nice Age

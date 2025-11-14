@@ -11,9 +11,11 @@ tags:
 - Rock
 title: Pat McGlynn – She"d Rather Be With Me
 ---
+
+
 Originally from Scotland, Pat McGlynn worked as a guitarist for the Bay City Rollers in late 1976 before forming his own band, Pat McGlynn's Scotties.
 
-"She'd Rather Be With Me" was released by London Records in 1977. The producer is Nick Raymonde. 
+"She'd Rather Be With Me" was released by London Records in 1977. The producer is Nick Raymonde.
 
 #### Tracklist```md
 A. She'd Rather Be With Me (あの娘はアイドル)

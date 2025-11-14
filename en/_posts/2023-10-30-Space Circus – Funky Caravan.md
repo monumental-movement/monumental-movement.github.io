@@ -11,6 +11,8 @@ tags:
 - Fusion
 title: Space Circus – Funky Caravan
 ---
+
+
 "Funky Caravan" is the debut album by Space Circus, a Japanese progressive rock and fusion band active in the late 1970s. Bassist Hajime Okano is a music producer and has been involved with numerous bands such as Starlin, POLYSICS, and L'Arc~en~Ciel.
 
 #### Tracklist```md

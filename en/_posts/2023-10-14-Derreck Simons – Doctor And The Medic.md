@@ -9,6 +9,8 @@ tags:
 - Euro Beat
 title: Derreck Simons – Doctor And The Medic
 ---
+
+
 "Derreck Simons – Doctor And The Medic"
 The producer is Dave Rodgers, an Italian Eurobeat producer and co-founder of the Eurobeat label A.Beat-C.
 

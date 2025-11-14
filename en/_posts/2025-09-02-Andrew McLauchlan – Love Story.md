@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Andrew McLauchlan – Love Story
 ---
+
+
 Andrew McLauchlan is a producer from Scotland. In 1998, he established the label Figment with Dan March.
 
 Known as Andrew McLauchlan's masterpiece, ""Love Story'' was originally released on the Figment compilation ""Chorusline EP'' in 1999, and was re-released in 2000 after being licensed and remixed by the venerable UK label Bush.

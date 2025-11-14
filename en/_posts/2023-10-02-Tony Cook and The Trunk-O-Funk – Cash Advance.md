@@ -10,6 +10,8 @@ tags:
 - Funk
 title: Tony Cook and The Trunk-O-Funk – Cash Advance
 ---
+
+
 The Trunk-O-Funk is the band of TONY COOK, who has been active as the drummer for the JAMES BROWN band since the late 70's. A song featuring a house and modern funk groove.
 
 #### Tracklist```md

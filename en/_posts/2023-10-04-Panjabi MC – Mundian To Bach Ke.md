@@ -10,10 +10,11 @@ tags:
 - Hiphop
 title: Panjabi MC – Mundian To Bach Ke
 ---
+
+
 "Mundian To Bach Ke" is a Bangla music song produced by British musician Panjabi MC, with vocals and lyrics provided by Punjabi artist Labh Janjua. This song was created by Panjabi MC in Birmingham, England for his 1998 album Legalised.
 
 After its release as a single in November 2002, "Mundian To Bach Ke" topped the singles charts in Italy and Wallonia, and also achieved high rankings in many other countries. A remixed version featuring American rapper Jay-Z, released in 2003, also achieved high rankings in North America and Australia. The song became one of the best-selling singles of all time, selling over 10 million copies worldwide.
-
 
 #### Tracklist```md
 A. Mundian To Bach Ke (Main Mix)

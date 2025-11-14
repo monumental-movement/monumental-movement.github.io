@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: Max Duley – Canal
 ---
+
+
 "Canal" is a song by British techno musician Max Duley. This song is included on his EP "Canal".
 
 Max Dury is known as a techno music producer, gaining attention for his unique approach and sound. "Canal" is one of his most highly acclaimed songs.

@@ -11,6 +11,8 @@ tags:
 - 80s
 title: The Square – Stars And The Moon
 ---
+
+
 THE SQUARE or T-SQUARE is a Japanese jazz fusion band formed in 1976.
 
 They were active in the late 1970s and early 1980s, along with other Japanese fusion bands.
@@ -21,7 +23,7 @@ The most successful lineup includes guitarist Masayoshi Ando, ​​bassist Mits
 
 ≡ THE SQUARE
 
-Masahiro Ando, Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
+Masahiro Ando, ​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
 
 ≡ Participating musicians
 

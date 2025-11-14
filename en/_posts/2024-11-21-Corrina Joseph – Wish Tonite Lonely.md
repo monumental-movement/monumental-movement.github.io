@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Corrina Joseph – Wish Tonite / Lonely
 ---
+
+
 Corrina Joseph is a singer who rose to fame through her collaboration with Basement Jaxx. He has also collaborated with artists such as Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, Russ Gabriel, and Harlem Zip Code.
 
 "Wish Tonite /Lonely" is a breakbeat house deep house track released by Atlantic Jaxx in 1997. The producer is Basement Jaxx, a UK electronic dance music duo consisting of Felix Buxton and Simon Ratcliffe.

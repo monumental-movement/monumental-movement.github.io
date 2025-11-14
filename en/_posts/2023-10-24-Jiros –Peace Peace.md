@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Jiro's –Peace Peace
 ---
+
+
 "Jiro's - Peace Peace - Children Who Don't Know About War" was released in 1971.
 
 Arrangement: Shunichi Makaino

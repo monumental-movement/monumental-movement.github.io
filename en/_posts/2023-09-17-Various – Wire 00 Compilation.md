@@ -10,6 +10,8 @@ tags:
 - Compilation
 title: Various – Wire 00 Compilation
 ---
+
+
 This is a compilation album by the performers of "WIRE 00", the largest indoor rave in history held in 2000.
 
 The 2-LP set also includes tracks from Sven Väth, DJ Hell and WestBam.

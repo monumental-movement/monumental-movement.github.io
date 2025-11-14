@@ -11,10 +11,11 @@ tags:
 - 00s
 title: Cpen – Monsters
 ---
+
+
 Chris Penny, also known as CPEN, is an electronic/house producer who has released many works on labels such as Seasons Recordings, Naked Music, Icon Recordings, and Transfusion as one of WestCoast House's representative artists. He is also active in the unit Untitled Orchestra with J.T. Donaldson and the unit Curb Feelers with Lance DeSardi.
 
 "Monsters" is a Deep House/Tech House song released in 2006 on the label Memorabilia.
-
 
 #### Tracklist```md
 A. Monsters (Original Mix)

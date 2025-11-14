@@ -10,9 +10,10 @@ tags:
 - Wu-Tang
 title: RZA As Bobby Digital – RZA As Bobby Digital In Stereo
 ---
+
+
 "RZA As Bobby Digital – RZA As Bobby Digital In Stereo" is
 RZA's solo debut album from Wu-Tang Clan.
-
 
 #### Tracklist```md
 1.  B.O.B.B.Y.

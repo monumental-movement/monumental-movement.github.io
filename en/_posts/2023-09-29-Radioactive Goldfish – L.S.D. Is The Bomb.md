@@ -10,6 +10,8 @@ tags:
 - Acid
 title: Radioactive Goldfish – L.S.D. Is The Bomb
 ---
+
+
 "LSD Is The Bomb" is a great approach to the '91 European techno sound, combining aggressive Belgian riffs with sharper, more precise German rhythms.
 
 Many North American artists use plenty of vocal samples, but "LSD Is The Bomb" keeps them from becoming too cheap.

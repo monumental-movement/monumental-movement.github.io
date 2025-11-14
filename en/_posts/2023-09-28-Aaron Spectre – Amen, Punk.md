@@ -10,6 +10,8 @@ tags:
 - Jungle
 title: Aaron Specter – Amen, Punk
 ---
+
+
 Aaron Specter is an American producer, DJ, and artist known for his work that blends drum and bass and jungle-based sounds with unique punk and hardcore elements.
 
 As the title "Amen, Punk" suggests, his music incorporates the sample pattern known as the Amen Break, which is the basis of drum and bass, while expressing the energy and harshness of punk and hardcore.
@@ -24,3 +26,4 @@ B2. You Don't Know
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxS--2VawJ8?si=Ulgn9hh04ay2rmj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 #### Youtube
+

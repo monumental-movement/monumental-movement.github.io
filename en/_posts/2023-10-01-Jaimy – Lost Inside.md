@@ -9,6 +9,8 @@ tags:
 - House
 title: Jaimy – Lost Inside
 ---
+
+
 In 1990, Jaimy was one of the first Dutch producers to successfully make a living from house music. At the age of 19, he signed his first record contract and was picked up by Outland Records in Amsterdam, where he contributed to much of the music released by Outland Studios.
 
 Around 1998, I met my musical partner, Kenny D.

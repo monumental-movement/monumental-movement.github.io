@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Nick Lowe – The Impossible Bird
 ---
+
+
 Nick Lowe is a British singer-songwriter/musician/producer. Known as a key figure in pub rock, power pop, and new wave, Lowe has released a number of critically acclaimed solo albums.
 
 "The Impossible Bird" is a Pop Rock/Country Rock/Pub Rock album released in 1994 with co-producer Neil Brockbank. (Reissue)

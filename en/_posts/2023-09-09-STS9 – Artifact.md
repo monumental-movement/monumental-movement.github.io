@@ -11,6 +11,8 @@ tags:
 - Jazz
 title: STS9 – Artifact
 ---
+
+
 "Artifact" is the third studio album by Sound Tribe Sector 9 (STS9), released in 2005. This work showcases STS9's sound and creativity to the fullest, and has earned high acclaim in the electronic music and jam band scene for its unique sound and innovative approach.
 
 Their sound combines elements from a variety of genres, including ambient, electronica, jazz, funk, and dubstep.
@@ -18,7 +20,6 @@ Their sound combines elements from a variety of genres, including ambient, elect
 A2's "Tokyo" is known as STS9's signature song and is often played in live performances.
 
 "Artifact" is an important album in STS9's career, and is a must-have for fans of the band.
-
 
 #### Tracklist```md
 A1. Possibilities

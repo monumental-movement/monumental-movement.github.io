@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Various – Metal For Muthas
 ---
+
+
 [Recording artists]
 Iron Maiden, Sledgehammer, E.F. Band, Toad the Wet Sprocket, Aether the Frog, Angel Witch, Samson, Nuds
 

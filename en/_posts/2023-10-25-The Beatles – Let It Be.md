@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Beatles – Let It Be
 ---
+
+
 The Beatles' "Let It Be" was released in March 1970 and was the last single released by the Beatles during their active career, as they disbanded the following month.
 
 #### Tracklist```md

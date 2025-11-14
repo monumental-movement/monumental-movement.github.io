@@ -12,8 +12,9 @@ tags:
 - 00s
 title: '[Column] Electro: The rhythm of the future city carved by machines'
 ---
-## Cyber funk that sounds decadent and sophisticated at the same time
 
+
+## Cyber ​​funk that sounds decadent and sophisticated at the same time
 
 Text: mmr｜Theme: Electronic heartbeat born with breakdance
 
@@ -59,7 +60,6 @@ Making full use of synths, she presents a sexual and decadent worldview. A song 
 
 Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embodied the sensibility of the era of ""the fusion of machines and humans.''
 
-
 <hr>
 
 ### Intersection of techno and electro
@@ -68,13 +68,11 @@ In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
 **Drexciya (a legendary duo from Detroit)** is a concept work themed around an undersea civilization, giving a mythical quality to hard electro beats.
 
-
 ---
 
 **Juan Atkins (Model 500)** was a pioneer in techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
 
 This trend would later lead to IDM and glitch electronica.
-
 
 <hr>
 
@@ -83,7 +81,6 @@ This trend would later lead to IDM and glitch electronica.
 In the early 2000s, electro came back into the limelight.
 
 **Electroclash**: Driven by Miss Kittin & The Hacker, Fischerspooner, Adult. and others. Their decadent, art-oriented sound was closely tied to the fashion industry.
-
 
 ---
 

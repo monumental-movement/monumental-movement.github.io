@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Visionaries – If You Can't Say Love Domakesaythink
 ---
+
+
 Visionaries is a six-piece conscious hip-hop group based in Los Angeles, formed in 1995.
 
 The members are LMNO (J. Kelly), 2Mex (A. Ocana), Key-Kool (Kikuo Nishi), DJ Rhettmatic (N. Nirza), Lord Zen (D. Hood), and Dannu (D. Reyes).

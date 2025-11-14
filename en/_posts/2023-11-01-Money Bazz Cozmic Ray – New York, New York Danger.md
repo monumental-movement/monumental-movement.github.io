@@ -9,6 +9,8 @@ tags:
 - Hiphop
 title: Money Bazz Cozmic Ray – New York, New York Danger
 ---
+
+
 This is an EP by Money Bazz and Cozmic Ray released in 1998 on the label "Psycho V Records".
 
 #### Tracklist```md

@@ -11,13 +11,13 @@ tags:
 title: '[Column] Modern Brazil reflected by Bossa Nova: The intersection of music,
   architecture, technology, and fashion'
 ---
+
+
 ## Keyword is "Modernism"
 
 Text: mmr｜Theme: Considering the cultural spread of Bossa Nova, there are phenomena and things that seem unrelated at first glance, but are actually deeply connected.
 
-
 Bossa Nova, which sprouted in a small apartment in Rio de Janeiro in the late 1950s, quickly became Brazil's new cultural banner and eventually spread around the world. The background to this is not only the appeal of the music itself, but also the deep resonance with the fields of architecture, technology, and fashion that were progressing at the same time. In this article, I would like to delve into the cultural connections between bossa nova and other fields, focusing on the activities of artists such as Joao Gilberto and Antonio Carlos Jobim.
-
 
 ---
 
@@ -32,7 +32,6 @@ background-color: #111;
 color: #fff;
 }
 </style>
-
 
 ### Bossa Nova and Brasilia architecture —— Modernism in cities and music
 
@@ -76,9 +75,9 @@ All of this is condensed into one note of João Gilberto's guitar, Jobim's harmo
 
 The bossa nova you hear in cafes and lounges today is more than just soothing background music. Behind this is Brazil's desire for "newness" in the second half of the 20th century, and a cultural resonance that goes beyond music.
 
-
 ---
 
 ### Related columns
 
 🔗 [[Column] Bossa Nova charm and masterpiece guide: Recommended albums by artist and era] (monumental-movement.jp/Column-Bossa-Nova)
+

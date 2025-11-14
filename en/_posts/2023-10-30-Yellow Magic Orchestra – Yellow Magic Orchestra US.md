@@ -11,6 +11,8 @@ tags:
 - Techno
 title: Yellow Magic Orchestra – Yellow Magic Orchestra US
 ---
+
+
 This is the US version of YMO (Yellow Magic Orchestra) first LP.
 
 The Japanese version is [here](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra/)

@@ -10,11 +10,13 @@ tags:
 - 90s
 title: Oi Polloi – Total Anarchoi
 ---
-Oi Polloi is a punk rock (anarcho-punk) band formed in Scotland around 1981.  
+
+
+Oi Polloi is a punk rock (anarcho-punk) band formed in Scotland around 1981.
 
 Oi Polloi are also known as Scottish Gaelic punks who sing all or part of their lyrics in Scottish Gaelic.
 
-Oi Polloi members are supporters of environmental protection (Earth First!) as well as resistance to racism, sexism, homophobia, fascism and imperialism, using the motto "No Compromise in Defense of Our Earth", an adaptation of Earth First!'s motto. 
+Oi Polloi members are supporters of environmental protection (Earth First!) as well as resistance to racism, sexism, homophobia, fascism and imperialism, using the motto "No Compromise in Defense of Our Earth", an adaptation of Earth First!'s motto.
 
 "Total Anarchoi" was released in 1992 on the UK punk label Step-1 Music.
 

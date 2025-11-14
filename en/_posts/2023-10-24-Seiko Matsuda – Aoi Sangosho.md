@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Seiko Matsuda – Blue Coral Reef
 ---
+
+
 "Seiko Matsuda – Blue Coral Reef" was released in 1980.
 
 #### Tracklist```md

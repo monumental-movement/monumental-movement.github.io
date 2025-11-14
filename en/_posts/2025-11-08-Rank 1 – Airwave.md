@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Rank 1 – Airwave
 ---
+
+
 Rank 1 is a project started in 1999 by Dutch trance DJ/producers Piet Bervoets and Benno De Goeij. They have many hit songs such as "Airwave", "Such is Life", "L.E.D.", and "There be light", among which "Airwave" released in 2000 is known as Rank 1's representative song and an anthem of the trance scene at the time.
 
 #### Tracklist```md

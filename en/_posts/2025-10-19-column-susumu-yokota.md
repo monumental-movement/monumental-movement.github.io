@@ -12,11 +12,11 @@ tags:
 title: '[Column] Susumu Yokota — A universe in silence: A landscape of the soul drawn
   by electronic sounds'
 ---
+
+
 ## Chapter 1: Electronic music and Japan — Susumu Yokota's position
 
-
 Text: mmr｜Theme: Susumu Yokota. A solitary artist who explores the soul of sound at the border between club culture and ambient. Tracing its tranquility and cosmic nature
-
 
 In the early 1990s, Japan's electronic music scene was still in its infancy. While techno and house were becoming popular as imported culture, ambient music, which focused on "environmental sounds" and "silence," was still a minority experimental genre.  
 Susumu Yokota was a poet who lived in this quiet space. His music is an extension of club culture, yet somehow ""outside'' it. He was a rare artist who used electronic particles to depict the breath of nature, the distance of the wind, and the reverberations of memories.
@@ -38,7 +38,6 @@ color: #fff;
 }
 </style>
 
-
 ## Chapter 2: Susumu Yokota as a writer — Poetry of soundscape
 
 Yokota's early works are heavily influenced by acid house.  
@@ -56,7 +55,7 @@ What is noteworthy is that he published his works under multiple names. Among th
 Susumu Yokota's masterpiece and a monumental work in the history of ambient music.  
 The faint melody and environmental sounds are layered, gently guiding the listener's consciousness inward. It has a transience that captures the moment of falling cherry blossoms in the sound, and it is a fusion of Japanese lyricism and universal beauty.
 
-The album has an excellent structure, and the whole album flows like a single "breathing". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.  
+The album has an excellent structure, and the whole album flows like a single "breath". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.  
 The reason "Sakura" continues to be loved by ambient music fans around the world is probably because it perfectly depicts this "sense of time" through sound.
 
 ### "Symbol" (2001)
@@ -92,6 +91,8 @@ B1. Fujin
 B2. Spring
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 [Purchase on Mercari](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
 #### Youtube
@@ -163,5 +164,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.  
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in my heart.  
+Even after the sound disappears, something remains in your heart.  
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

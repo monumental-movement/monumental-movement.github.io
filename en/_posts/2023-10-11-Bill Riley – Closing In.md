@@ -9,6 +9,8 @@ tags:
 - Drum n Bass
 title: Bill Riley – Closing In
 ---
+
+
 "Closing In" is a two-disc set of drum and bass tracks released in 1998 by Full Cycle Records, a Bristol-based drum and bass label founded by Roni Size, DJ Krust, and Chris Lewis.
 
 Side C is a remix by Daniel Robert Kausman, aka DJ Die, a British DJ/producer and former member of Roni Size & Reprazent (and Breakbeat Era).

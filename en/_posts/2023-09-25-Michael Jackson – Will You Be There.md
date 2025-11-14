@@ -10,6 +10,8 @@ tags:
 - Soul
 title: Michael Jackson – Will You Be There
 ---
+
+
 "Will You Be There" is from American pop music icon Michael Jackson's 1991 album Dangerous.
 
 "Will You Be There" is a moving and epic ballad with religious themes and a hopeful message. Michael Jackson's powerful vocals and emotional expressions stand out, making this a song that deeply touches the hearts of the listeners.

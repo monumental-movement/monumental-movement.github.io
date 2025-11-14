@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Delon & Dalcan – Fascination / In The Sound
 ---
+
+
 Delon & Dalcan is a project by French artist and musician Andre Dalcan and Greg Delon, a DJ at the famous club Barlive in Montpellier and other famous clubs in France and Spain. As Delon & Dalcan, he has also produced for famous labels such as Confused, Great Stuff Recordings, Boxer, and Propperproud.
 
 "Fascination / In The Sound" was released in 2006 by the German label Nordwest.

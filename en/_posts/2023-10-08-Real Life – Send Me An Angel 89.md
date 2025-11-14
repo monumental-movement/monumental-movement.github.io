@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: Real Life – Send Me An Angel '89
 ---
+
+
 "Send Me An Angel '89" is a song by Australian synthpop band Real Life. The original "Send Me An Angel" was their signature song released in 1983, but it is also known as the remixed version released in 1989.
 
 "Send Me An Angel '89" has an updated rhythm and arrangement compared to the original song, giving it a more dance-pop sound. The song features a synthesizer melody and electric beat, with melodic vocals echoing along with a magnificent soundscape.

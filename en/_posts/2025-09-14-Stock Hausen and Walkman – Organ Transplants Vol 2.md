@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Stock, Hausen & Walkman – Organ Transplants Vol. 2
 ---
+
+
 Stock, Hausen & Walkman (Andrew Sharpley & Matt Wand) was a British experimental electronic unit active from 1991 to 2001. Their sound is a mix of cut-up, sampling, musique concrète, and junk pop elements.
 
 "Organ Transplants Vol. 2" is the second release following "Organ Transplants" (1996), which was highly praised as a symbol of the experimental electronica/post-modern sampling culture of the 1990s.

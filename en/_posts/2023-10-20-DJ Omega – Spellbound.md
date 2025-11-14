@@ -10,6 +10,8 @@ tags:
 - Ghettotech
 title: DJ Omega – Spellbound
 ---
+
+
 DJ Omega (Will Simpson) is an electronic music producer from Detroit. Mixed by DJ/producer DJ Godfather (Brian Jeffries) from Detroit.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - Speed Garage
 title: The Count & Sinden Featuring Kid Sister – Beeper
 ---
+
+
 Sinden & Count Of Monte Cristal is the duo of Graeme Sinden and Joshua Harvey.
 
 "Beeper," featuring Chicago-based American rapper and singer Melissa Lauren aka Kid Sister, is a track that incorporates the UK speed garage style of the late 90s.

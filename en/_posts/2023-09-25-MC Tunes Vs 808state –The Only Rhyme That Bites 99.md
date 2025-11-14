@@ -11,6 +11,8 @@ tags:
 - Tribal
 title: MC Tunes Vs 808state –The Only Rhyme That Bites 99
 ---
+
+
 "The Only Rhyme That Bites 99" is a remake of the song "The Only Rhyme That Bites", released in 1990 by British hip-hop artist MC Tunes and electronic music group 808 State.
 
 The original is known as a party anthem that combines elements of hip-hop and techno, and is considered one of the most representative works of British 90s fusion of hip-hop and electronic music.

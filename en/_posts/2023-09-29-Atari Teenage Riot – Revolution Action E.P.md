@@ -10,6 +10,8 @@ tags:
 - Hardcore Techno
 title: Atari Teenage Riot – Revolution Action E.P.
 ---
+
+
 "Atari Teenage Riot - Revolution Action E.P." is a song released in 1999 by the German digital hardcore band Atari Teenage Riot.
 
 #### Tracklist```md

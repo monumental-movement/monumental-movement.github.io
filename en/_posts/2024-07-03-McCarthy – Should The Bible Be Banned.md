@@ -11,6 +11,8 @@ tags:
 - 80s
 title: McCarthy – Should The Bible Be Banned?
 ---
+
+
 McCarthy was a British indie rock band that was active from 1985 to 1990. The members are Gary Baker on drums, Malcolm Eden on guitar and vocals, Tim Gane on lead guitar, and John Williamson on bass. After the band disbanded, Tim Gane and bank vocalist Laetitia Sadier formed Stereolab.
 
 'Should The Bible Be Banned?' was released on the UK label September in 1998.

@@ -10,6 +10,8 @@ tags:
 - Rare
 title: Dieselboy – The Director"s Cut
 ---
+
+
 This is a rare tape of a killer tech-moddy drum and bass mix by Diesel Boy, a DJ who is overwhelmingly talented and popular in the US drum and bass scene.
 
 This mix is ​​also great, with timing, EQ, levels, and transitions all on point, a great example of his skills.
@@ -50,6 +52,8 @@ B. Side B
 12. Ed Rush + Optical- Medicine (Matrix remix)
 13. Dillinja- Accurist
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 #### Youtube

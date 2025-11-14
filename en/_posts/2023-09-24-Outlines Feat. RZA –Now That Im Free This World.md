@@ -10,6 +10,8 @@ tags:
 - Wu-Tang
 title: Outlines Feat. RZA –Now That I'm Free / This World
 ---
+
+
 "Now That I'm Free" is a song by French trio Outlines and RZA (Wu-Tang Clan). In addition to the groovy rhythm and attractive melody, this song features Outlines and RZA's vocal performance with a positive message about liberation and freedom.
 
 "This World" is also a collaboration song between Outlines and RZA, and this song sends a message about the current state of the world and social issues. This song combines a melodious sound and powerful lyrics.

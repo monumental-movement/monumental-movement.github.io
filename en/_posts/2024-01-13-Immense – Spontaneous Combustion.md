@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Immense – Spontaneous Combustion
 ---
+
+
 This is an EP by Immense, a band consisting of Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, and Tom Davies, released in 1999 on the UK label FatCat Records.
 
 #### Tracklist```md

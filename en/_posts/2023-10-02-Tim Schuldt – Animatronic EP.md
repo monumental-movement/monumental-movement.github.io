@@ -11,6 +11,8 @@ tags:
 - Psychedelic
 title: Tim Schuldt – Animatronic EP
 ---
+
+
 Tim Schuldt is a Goan and psychedelic trance artist from Germany. He is also a studio and mastering engineer and owner of 4CN Studios.
 
 #### Tracklist```md

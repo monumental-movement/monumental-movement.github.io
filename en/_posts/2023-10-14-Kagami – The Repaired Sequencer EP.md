@@ -10,6 +10,8 @@ tags:
 - Disco
 title: Kagami – The Repaired Sequencer EP
 ---
+
+
 A techno-disco track by Kagami released by techno label Frogman Records in 2001.
 
 The first track on the B side is a remix by Ben Tisdall and Daz Saund's unit Sound Associates.

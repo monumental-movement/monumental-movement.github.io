@@ -11,10 +11,11 @@ tags:
 - Minimal
 title: Daniel Steinberg – Joy & Happiness EP
 ---
+
+
 As the song title suggests, "Joy & Happiness" is a song with the theme of joy and happiness, and is characterized by a groovy and danceable beat, a catchy melody, and a positive atmosphere. Daniel Steinberg's unique sound sense and creativity are reflected throughout the song.
 
 ""Joy & Happiness EP'' is a work that will appeal to fans of Daniel Steinberg's music and lovers of house music.
-
 
 #### Tracklist```md
 A1. Tell Me What

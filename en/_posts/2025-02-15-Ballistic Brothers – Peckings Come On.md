@@ -13,6 +13,8 @@ tags:
 - 90s
 title: Ballistic Brothers – Peckings Come On
 ---
+
+
 Ballistic Brothers was a downbeat band based in England in the 90s, formed by X-Press 2's Ashley Beedle, Rocky & Diesel, and David Hill (Nuphonic Records). Characterized by a funky electronica style influenced by jazz.
 
 This CD is a single cut from the masterpiece album London Hooligan Soul, released in 1995 by the UK label Junior Boy's Own.

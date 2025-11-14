@@ -10,6 +10,8 @@ tags:
 - Wu-Tang
 title: Wu-Tang Clan – C.R.E.A.M.
 ---
+
+
 This song appears on Wu-Tang Clan's debut studio album, Enter the Wu-Tang (36 Chambers), released in 1993. "C.R.E.A.M." is one of Wu-Tang Clan's most iconic and influential songs.
 
 Known for its addictive production and introspective lyrics, which sample The Charmels' "As Long As I've Got You," they reflect on the hardships of living in impoverished neighborhoods and aspirations for financial success.

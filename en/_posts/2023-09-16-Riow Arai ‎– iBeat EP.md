@@ -11,6 +11,8 @@ tags:
 - Break Beat
 title: Riow Arai – iBeat EP
 ---
+
+
 "iBeat EP" is a rhythmic and uplifting track centered around electronic music that also incorporates elements of techno and hip-hop.
 
 This EP offers a glimpse into Riow Arai's musical character and creativity. You will enjoy his unique artistic perspective and musical expression.

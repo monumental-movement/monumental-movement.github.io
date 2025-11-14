@@ -11,6 +11,8 @@ tags:
 - Rock
 title: Mahavishnu Orchestra – Birds Of Fire
 ---
+
+
 Mahavishnu Orchestra is a pioneering fusion jazz-rock band formed in 1970 by British guitarist John McLaughlin.
 
 Birds Of Fire, released in 1973, was Mahavishnu Orchestra's second album and became an unusual worldwide hit for jazz-rock.

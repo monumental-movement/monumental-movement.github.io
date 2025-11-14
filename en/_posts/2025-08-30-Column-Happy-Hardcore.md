@@ -12,6 +12,8 @@ tags:
 title: '[Column] Happy Hardcore and Japanese Culture: The Encounter of High-Speed
   ​​Beat and "Kawaii"'
 ---
+
+
 ## "Musical characteristics and Japanese sensibilities"
 
 Text: mmr｜Theme: The relationship between Happy Hardcore and Japanese culture

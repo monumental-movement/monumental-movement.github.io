@@ -10,6 +10,8 @@ tags:
 - Progressive
 title: Union Jack – Cactus Morning Glory
 ---
+
+
 Union Jack is a trance music project active since the 1990s, known for its unique sound and melodic elements. Their songs are characterized by detailed production and spectacular soundscapes, and are loved by trance music enthusiasts.
 
 "Cactus/Morning Glory" is one of Union Jack's most famous songs. The song features a trance sound that combines an energetic and driving beat, a beautiful melody, and psychedelic effects. The appeal of the song is the build-up and drop that excites the listeners, as well as the memorable melody.

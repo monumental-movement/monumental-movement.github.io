@@ -10,6 +10,8 @@ tags:
 - Anthem
 title: Sexual Harassment – ​​I Need A Freak
 ---
+
+
 Sexual Harrassment is an American project centered around DJ and producer Lynn Tolliver, Jr. (also known as David Payto).
 
 The original version of "I Need A Freak" was released in 1989. This record is a reissue edition released in 2004.

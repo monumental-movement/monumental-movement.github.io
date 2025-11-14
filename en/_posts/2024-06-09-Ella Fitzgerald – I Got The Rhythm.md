@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Ella Fitzgerald – I Got The Rhythm
 ---
+
+
 Ella Fitzgerald was an American jazz singer who was also known as ""The First Lady of Song'' and ""Lady Ella.'' One of the top female jazz vocalists of the 20th century, along with Billie Holiday and Sarah Vaughan.
 
 During a career spanning nearly 60 years, Ella Fitzgerald received honors including 14 Grammy Awards, the National Arts Award, the NAACP's inaugural President's Award, and the Presidential Medal of Freedom.

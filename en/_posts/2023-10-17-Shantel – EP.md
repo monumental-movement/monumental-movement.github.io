@@ -10,6 +10,8 @@ tags:
 - Future Jazz
 title: Shantel – EP
 ---
+
+
 Stefan Hantel, also known as Shantel, is a DJ/musician/music producer from Germany.
 
 Shantel – EP was released in 1997 by Essay Recordings, a German label founded by Stefan Hantel and Daniel Haaksman.

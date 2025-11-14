@@ -10,6 +10,8 @@ tags:
 - Hard Rock
 title: ACDC – Moneytalks
 ---
+
+
 "Moneytalks" is a song from AC/DC's 1990 album The Razors Edge.
 
 "Moneytalks" is a song that is characterized by its up-tempo and catchy riff and melody.The song as a whole conveys AC/DC's powerful performance and powerful vocals, and has a charm that draws the listener in.

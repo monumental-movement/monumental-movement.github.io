@@ -10,6 +10,8 @@ tags:
 - Classic
 title: Public Enemy – Apocalypse 91... The Enemy Strikes Black
 ---
+
+
 ""Apocalypse 91... The Enemy Strikes Black'' follows the success of their previous album ""Fear of a Black Planet.'' The album's title conveys the message of "continuing the fight against black rights and social inequality."
 
 The album features Public Enemy's signature sound: sharp beats, powerful basslines, and politically charged lyrics.

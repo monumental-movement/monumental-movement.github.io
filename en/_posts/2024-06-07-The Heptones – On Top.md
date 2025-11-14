@@ -11,6 +11,8 @@ tags:
 - Rare
 title: The Heptones – On Top
 ---
+
+
 The Heptones were a Jamaican rocksteady and reggae vocal trio that was most active in the 1960s and early 1970s.
 
 The Heptones were contemporaries of the Wailers and the Maytals, and were known as their equals in the mid-1960s.

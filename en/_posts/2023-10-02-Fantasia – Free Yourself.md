@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: Fantasia – Free Yourself
 ---
+
+
 House REMIX of Fantasia – Free Yourself by Charles Spencer & David Harness.
 
 #### Tracklist```md

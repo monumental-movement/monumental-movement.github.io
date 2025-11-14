@@ -11,6 +11,8 @@ tags:
 - Techno
 title: Tecmania Rebel – The Violet E.P.
 ---
+
+
 Tecmania Rebel is DJ Patrick, also known as Patrick Van Der Hart. He was once a resident at Hollywood Music Hall, a famous club in Rotterdam, the Netherlands.
 
 "The Violet E.P." is a progressive house/hard house/techno track released by Planet Dance Records in 1996.

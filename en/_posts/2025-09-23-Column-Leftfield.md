@@ -12,6 +12,8 @@ tags:
 - 00s
 title: '[Column] What is Leftfield? — The intersection of genre and artist'
 ---
+
+
 ## Leftfield is an icon of UK electronica and synonymous with musical adventure.
 
 Text: mmr｜Theme: Thoughts on the Leftfield genre and the artist
@@ -41,7 +43,7 @@ color: #fff;
 
 Leftfield is a word with a double meaning.  
 1. A project by UK duo Neil Barnes & Paul Daley.  
-2. An expression that refers to experimental and intellectual dance music that transcends genre boundaries.  
+2. An expression that refers to experimental and intellectual dance music that transcends genre boundaries.
 
 **English**
 
@@ -58,7 +60,7 @@ Leftfield has a double meaning:
 - Early 1990s: Born in UK rave culture.  
 - 1995: Debut work "*Leftism*" received high praise beyond the club scene.  
 - Since the 2000s: The word "leftfield" has become synonymous with "innovative music outside the mainstream."  
-- Modern day: Re-evaluated in the context of AI music generation and movie soundtrack production.  
+- Modern day: Re-evaluated in the context of AI music generation and movie soundtrack production.
 
 **English**
 
@@ -141,7 +143,6 @@ Leftfield is an icon of UK electronica and synonymous with musical adventure. Al
 **English**
 
 Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diving from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
-
 
 ---
 

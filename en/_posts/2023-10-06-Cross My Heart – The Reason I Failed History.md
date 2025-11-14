@@ -10,6 +10,8 @@ tags:
 - Emo
 title: Cross My Heart – The Reason I Failed History
 ---
+
+
 An EP by post-hardcore/emo band Cross My Heart, released in 1999 by Steve Aoki's label Dim Mak Records. The members are Chris Camden, Dwayne Bruner, Evan Tanner, and Ryan Shelkett.
 
 Cross my heart was originally from Baltimore, Maryland and was active from 1997 to 2001.

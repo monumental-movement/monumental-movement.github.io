@@ -10,6 +10,8 @@ tags:
 - Euro Beat
 title: 2 The Core – The Final Destination
 ---
+
+
 2 The Core is a Eurohouse group formed by Dutch dance music record producers Michiel van der Kuy and Nick Name.
 
 #### Tracklist```md

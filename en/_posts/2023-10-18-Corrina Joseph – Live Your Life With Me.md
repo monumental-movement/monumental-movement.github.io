@@ -10,6 +10,8 @@ tags:
 - Downtempo
 title: Corrina Joseph – Live Your Life With Me
 ---
+
+
 Corrina Joseph is a British singer who has appeared with various artists including Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective, and Russ Gabriel.
 
 "Live Your Life With Me" was produced and composed by Basement Jaxx, a UK electronic dance music duo consisting of Felix Buxton and Simon Ratcliffe.

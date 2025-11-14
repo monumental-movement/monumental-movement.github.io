@@ -10,6 +10,8 @@ tags:
 - Soul
 title: Funkadelic – Standing On The Verge Of Getting It On
 ---
+
+
 "Standing on the Verge of Getting It On" is an album by the American funk band Funkadelic. This album was released in 1974. Funkadelic is a group led by George Clinton, and their music is known for its psychedelic funk sound and experimental approach.
 
 It is Funkadelic's sixth studio album and features the group's signature funk sound and soulful vocals. The album features Funkadelic's distinctive sound, including vivid guitar riffs, groovy bass lines, and heavy drum patterns.

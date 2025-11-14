@@ -11,6 +11,8 @@ tags:
 - Rare
 title: Miles Davis – Blues/Standards
 ---
+
+
 One of Miles Davis' four-cassette compilations released in 1988. The tape is chrome tape.
 
 The piano for G-1 and G-5 is Keith Jarrett.

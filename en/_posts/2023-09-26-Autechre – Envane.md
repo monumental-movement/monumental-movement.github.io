@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Autechre – Envane
 ---
+
+
 Autechre is a British techno unit consisting of Sean Booth and Rob Brown.
 
 Envane is a CD released by Autechre in 1997, featuring a unique approach to electronic music, complex rhythms, abstract soundscapes, and experimental sound design.

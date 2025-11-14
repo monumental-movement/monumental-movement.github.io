@@ -10,6 +10,8 @@ tags:
 - Techno
 title: Snakeman Show – Snakeman Show
 ---
+
+
 As a trivia about the A5 track included in the Snakeman Show "Hurry up and suck it with your mouth!"
 There's a hypothetical police interrogation after Paul McCartney's arrest.
 
@@ -54,6 +56,8 @@ B8. Snakeman Show–これなんですか
 
 B9. ユー・アンドーミー・オルガスムス・オーケストラ–ごきげんいかが　アゲイン
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Purchase on Mercari](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
 #### Youtube

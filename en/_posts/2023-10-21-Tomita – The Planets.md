@@ -10,6 +10,8 @@ tags:
 - Classic
 title: Tomita – The Planets
 ---
+
+
 Isao Tomita is a Japanese composer and electronic music pioneer.
 
 "The Planets" is one of Isao Tomita's masterpieces, and is a reinterpretation of the classical music suite of the same name by the British composer Gustav Holst using synthesizers and electronic music, arranged and performed independently. Isao Tomita's "Planet" was highly praised as an innovative work of electronic music, and attracted attention as a fusion of classical music and electronic music.

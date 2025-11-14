@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Outside – Sus?icious
 ---
+
+
 Outside is a UK jazz-funk group formed by Matt Cooper, Andreas Allen, and Patrice Blanchard.
 
 Tracks 2 and 8 feature British singer Cleveland Watkiss.

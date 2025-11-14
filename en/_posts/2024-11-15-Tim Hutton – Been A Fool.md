@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Tim Hutton – Been A Fool
 ---
+
+
 Tim Hutton is a UK producer, songwriter, and multi-instrumentalist. He is also active in the experimental techno duo Vulva and Yoni with Thomas Melchior.
 
 "Been A Fool" is a house future jazz track released in 2000.

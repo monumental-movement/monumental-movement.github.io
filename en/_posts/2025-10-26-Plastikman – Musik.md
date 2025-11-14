@@ -13,6 +13,8 @@ tags:
 - Ambient
 title: Plastikman – Musik
 ---
+
+
 An album released by Richie Hawtin under the alias Plastikman on the NovaMute label in 1994. This is Richie Hawtin's third studio album and second under his Plastikman name.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - Soul
 title: Ann Nesby & Al Green – Put It On Paper
 ---
+
+
 DJ Spen & Karizma mix Ann Nesby's album "Put It On Paper".
 
 Karizma is a DJ/producer from Baltimore and former member of The Basement Boys. Active in a wide range of scenes including deep house, deep techno, hip hop, jazz, and broken beat.

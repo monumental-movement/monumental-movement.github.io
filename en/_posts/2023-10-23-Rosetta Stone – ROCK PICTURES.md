@@ -10,6 +10,8 @@ tags:
 - Hard Rock
 title: Rosetta Stone – ROCK PICTURES
 ---
+
+
 Rosetta Stone is a Northern Irish rock band formed by former Bay City Rollers guitarist Ian Mitchell.
 
 #### Tracklist```md

@@ -12,6 +12,8 @@ tags:
 - 90s
 title: David Bowie – 1. Outside
 ---
+
+
 David Bowie's 18th album was released in 1995 with producer Brian Eno. The 20th song is a bonus track exclusive to the first edition + Japan edition.
 
 #### Tracklist```md

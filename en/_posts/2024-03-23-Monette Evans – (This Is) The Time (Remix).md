@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Monette Evans – (This Is) The Time (Remix)
 ---
+
+
 Monette Evans' single "(This Is) The Time (Remix)" was produced by Mosaic, a Eurohouse trance project founded by Sven Väth, Matthias Hoffmann, and Steffen Britzke.
 
 German techno/trance DJ/producer Jam El Mar (Rolf Ellmer), also known as Jam and Trancy Space, and DJ Dag participate in the remix.

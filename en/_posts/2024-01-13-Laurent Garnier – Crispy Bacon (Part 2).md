@@ -11,6 +11,8 @@ tags:
 - Drum n Bass
 title: Laurent Garnier – Crispy Bacon (Part 2)
 ---
+
+
 Laurent Garnier, also known as Choice, is a French electronic music producer and DJ.
 
 "Crispy Bacon (Part 2)" is a techno track released in 1997 by Laurent Garnier and Eric Morand's F Communications label.

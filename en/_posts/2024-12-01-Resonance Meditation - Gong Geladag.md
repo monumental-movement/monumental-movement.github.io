@@ -11,6 +11,8 @@ tags:
 - Techno
 title: Resonance Meditation - Gong Geladag
 ---
+
+
 The first album in the Lost & Found series supervised by Haruomi Hosono. Locally recorded sound source on April 17, 2000 in Bali using a 24bit 192KHz sonic system.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - Psychedelic
 title: Joujouka – New Asians feat. Tadanobu Asano
 ---
+
+
 An analog version of the major single by Joujouka, a unit led by DJ TSUYOSHI. A work based on the concept of a line from Bruce Lee's movie, ""Don't think, just feel'', based on the pursuit of sound with an Asian theme. An ambitious work with Tadanobu Asano as the lyricist, composer, and vocalist.
 
 #### Tracklist```md

@@ -10,6 +10,8 @@ tags:
 - Relaxation
 title: Pick up New Age works
 ---
+
+
 "A remarkable collection of New Age works where you can experience a deep healing experience woven together with natural sounds and synthesizers."
 
 <hr>
@@ -19,8 +21,7 @@ title: Pick up New Age works
 
 Characteristics: Schawkie Roth is a composer specializing in healing, meditation, relaxation music and acoustic jazz, and is considered one of the pioneers of New Age spiritual music.
 
-
-Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation. 
+Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation.
 
 #### Tracklist```md
 A1. Heaven On Earth (excerpt)
@@ -32,21 +33,20 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
 
-
 ### Fumio Miyashita – Meisou
 <a href="https://jp.mercari.com/item/m31252450219?afid=6142608987"><img src="../assets/images/Fumio%20Miyashita%20-%20Meisou.webp"></a>
 
-
 Features: A work by Tomio Miyashita, a musician, music therapist, and synthesizer player from Nagano Prefecture.
 
-Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation. 
+Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation.
 
 #### Tracklist```md
 1. 水織音 - Miorine, The Sound Of Water Weaving
@@ -54,8 +54,9 @@ Appeal: Featuring synthesizer tones that promote deep meditative states, suitabl
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -64,11 +65,9 @@ Appeal: Featuring synthesizer tones that promote deep meditative states, suitabl
 ### Kitaro – Astral Trip
 <a href="https://jp.mercari.com/item/m99540440507?afid=6142608987"><img src="../assets/images/Kitaro%20%E2%80%93%20Astral%20Trip.webp"></a>
 
-
 Features: Kitaro played keyboards as a member of the Japanese progressive rock band "Far East Family Band" in the early 1970s, and later developed a solo career.
 
-
-Appeal: A fantastic sound world that uses synthesizers spreads out, providing comfortable relaxation. 
+Appeal: A fantastic sound world that uses synthesizers spreads out, providing comfortable relaxation.
 
 #### Tracklist```md
 A1. By The Sea Side
@@ -84,13 +83,13 @@ B4. Kaiso
 B5. Astral Trip
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Patrick Bernhardt – Atlantis Angelis
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
@@ -112,23 +111,20 @@ B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 B3. Transcendastral Voyage
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rz-WzRuR0dY?si=VYZ5pxbQVXQFHNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
 
-
 ### Steve Reid – Bamboo Forest
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
-
 Features: A work by American jazz percussionist and producer Stephen Reed.
 
-
-Charm: Spiritual music that incorporates jazz elements, this work makes you feel one with nature. 
-
+Charm: Spiritual music that incorporates jazz elements, this work makes you feel one with nature.
 
 #### Tracklist```md
 1. Amazon Mist
@@ -143,13 +139,13 @@ Charm: Spiritual music that incorporates jazz elements, this work makes you feel
 10. Balloon Safari
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
-
 
 ### Tony O'Connor – Hidden Forest
 <a href="https://jp.mercari.com/item/m61126062656?afid=6142608987"><img src="../assets/images/Tony%20OConnor%20%E2%80%93%20Hidden%20Forest.webp"></a>
@@ -168,8 +164,9 @@ Charm: The harmonious combination of natural sounds and synthesizers provides a 
 7. Remember
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -195,8 +192,9 @@ Appeal: Sounds that incorporate a variety of ethnic music will take you on a jou
 10. Sweet Lullaby (Ambient Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

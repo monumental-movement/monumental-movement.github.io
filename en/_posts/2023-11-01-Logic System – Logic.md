@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: Logic System – Logic
 ---
+
+
 This album includes "Clash", which was also used in DJ Harvey's mix "Sarcastic Study Masters".
 
 Equipment used: Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog, Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, etc.

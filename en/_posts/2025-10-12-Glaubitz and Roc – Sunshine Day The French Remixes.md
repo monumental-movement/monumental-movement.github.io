@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Glaubitz & Roc – Sunshine Day The French Remixes
 ---
+
+
 A French remix of "Sunshine Day" by Electro/Tech-House/Minimal DJ and producer Carsten Glaubitz from Germany and Electro/Tech-House/Minimal producer Oliver Rockstedt (Chris Powell).
 
 It was released in 1999 on the French & Filter house label Full House.

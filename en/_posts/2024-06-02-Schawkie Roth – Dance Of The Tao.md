@@ -12,6 +12,8 @@ tags:
 - 70s
 title: Schawkie Roth – Dance Of The Tao
 ---
+
+
 Considered one of the pioneers of New Age spiritual music, Schawkie Roth is a composer specializing in healing, meditation, relaxation music, and acoustic jazz.
 
 "Dance Of The Tao" is a new age album released in 1978.

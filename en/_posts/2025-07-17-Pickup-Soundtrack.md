@@ -9,6 +9,8 @@ tags:
 - Soundtrack
 title: Pick up soundtrack works
 ---
+
+
 ""A remarkable collection of soundtrack works that weave the emotion of the story through sound and elevate the visual experience to a new dimension.''
 
 <hr>
@@ -43,8 +45,9 @@ B8. Bacon And Eggs
 B9. Goodbye Selina
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=ZcAJ1_q_vtblxgJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -73,8 +76,9 @@ Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Cou
 12. Ice-T - Big Gun
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -93,8 +97,9 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -125,8 +130,9 @@ Work: Soundtrack of the 1989 classic film ""New Cinema Paradise.''
 16. Per Elena
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

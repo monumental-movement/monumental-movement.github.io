@@ -10,6 +10,8 @@ tags:
 - Acid
 title: Wink – Higher State Of Consciousness
 ---
+
+
 Josh Wink, also known as Wink, is an electronic dance music DJ/producer/remixer from Philadelphia, US. Wink was a pioneering DJ in the American rave scene in the early 1990s, and "Higher State Of Consciousness" is one of his signature songs.
 
 The A-side remix is ​​Dirty South and TV Rock. The B-side remix is ​​Marco V.

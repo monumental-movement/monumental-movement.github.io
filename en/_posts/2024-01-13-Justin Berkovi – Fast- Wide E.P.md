@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Justin Berkovi – Fast- Wide E.P
 ---
+
+
 Justin Berkovi, a British techno DJ and producer based in London, is the founder of Predicaments.
 
 "Fast-Wide E.P." is an EP released by the UK label "Cloned Vinyl" in 1998.

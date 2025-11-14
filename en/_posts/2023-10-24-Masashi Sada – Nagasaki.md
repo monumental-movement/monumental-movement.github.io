@@ -11,9 +11,11 @@ tags:
 - 7inch
 title: Masashi Sada – Nagasaki Yoyoku
 ---
+
+
 "Masashi Sada – Nagasaki Sayokyoku" was released in 1982.
 
-A-side arrangement – Toshiyuki Watanabe B-side arrangement – Masashi Sada
+A-side arrangement – ​​Toshiyuki Watanabe B-side arrangement – ​​Masashi Sada
 
 Side A/B Lyrics & Music – Masashi Sada
 

@@ -11,6 +11,8 @@ tags:
 - Deep House
 title: Shazz + StGermain Feat. Derek Bays – Muse Q The Music
 ---
+
+
 A house/deep house track by French record producer/remixer Shazz and House&Nu Jazz musician StGermain.
 
 Side A is especially great, with its bubbling bass line contrasting beautifully with the sublime rose chords, creating exquisite harmony.

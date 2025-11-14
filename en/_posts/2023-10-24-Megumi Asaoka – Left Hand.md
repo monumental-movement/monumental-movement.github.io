@@ -11,11 +11,13 @@ tags:
 - 7inch
 title: Megumi Asaoka – My boyfriend is left-handed
 ---
+
+
 "Megumi Asaoka – My Boyfriend is Left-handed" was released in 1973.
 
 Lyrics – Kazuya Senke
 
-Music & Arrangement – Kyohei Tsutsumi
+Music & Arrangement – ​​Kyohei Tsutsumi
 
 Recording member (guitar) – Masayoshi Takanaka
 

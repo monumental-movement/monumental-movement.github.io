@@ -10,6 +10,8 @@ tags:
 - Mashup
 title: Unknown Artist – Get Deep
 ---
+
+
 A mashup of Roland Clark's "I Get Deep," Carl Craig's "Just Another Day," and Carl Craig's alias Paperclip People's "remake," which samples Manuel Göttsching's "E2-E4." Edited by Timmy Regisford.
 
 #### Tracklist```md

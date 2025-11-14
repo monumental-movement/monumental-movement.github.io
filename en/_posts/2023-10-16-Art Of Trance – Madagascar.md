@@ -9,6 +9,8 @@ tags:
 - Trance
 title: Art Of Trance – Madagascar
 ---
+
+
 Side A is a remix by Matthias Hoffmann and Ralf Hildenbeutel's German trance project Cygnus X.
 
 The first track on side B is a remix by Dutch DJ/producer Ferry Corsten (System F).

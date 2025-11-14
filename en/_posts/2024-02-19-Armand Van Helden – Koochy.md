@@ -11,9 +11,11 @@ tags:
 - 00s
 title: Armand Van Helden – Koochy
 ---
+
+
 "Koochy" was released in 2000 as the lead single from Armand Van Helden's fourth studio album, Killing Puritans (2000).
 
- Extensive sampling of Gary Numan's 1979 single "Cars".
+Extensive sampling of Gary Numan's 1979 single "Cars".
 
 Armand Van Helden is a DJ, record producer, remixer, and songwriter from Boston, Massachusetts, USA.
 

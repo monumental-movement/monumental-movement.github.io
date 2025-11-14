@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Aux 88 – Electro Boogie
 ---
+
+
 Studio K7's third electro boogie released in 1999. Detroit techno/electro mixCD by Aux88.
 
 #### Tracklist```md

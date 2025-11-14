@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: Slam – This World (Remixes)
 ---
+
+
 The Wighnomy Brothers remix is ​​great, the original being typical British synthetic music with slightly trance-y pop/house vocals, sonically transformed enough, filtered and subtly altered to become a very sharp and emotive stadium micro-house anthem for the 22nd century.
 
 Wighnomy Bros has accomplished this highly unthinkable. Created hip and thrilling stadium music.

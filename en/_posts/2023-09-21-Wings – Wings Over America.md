@@ -9,6 +9,8 @@ tags:
 - Rock
 title: Wings – Wings Over America
 ---
+
+
 "Wings - Wings Over America" ​​is a live album (3-LP set) by the British rock band Wings, released in 1976. Wings is a band formed by former Beatle Paul McCartney, and its activities began after the Beatles disbanded.
 
 Featuring live recordings from Wings' 1976 American tour, it vividly captures the band's performance and energy. The album includes a wide range of songs, including Wings hits and Paul McCartney's solo work.

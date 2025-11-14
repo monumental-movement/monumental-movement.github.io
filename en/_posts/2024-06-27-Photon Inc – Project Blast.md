@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Photon, Inc. – Project Blast
 ---
+
+
 Photon, Inc. is the alias of Chicago-born DJ and producer DJ Pierre.
 
 "Project: Blast", released by the house label Strictly Rhythm in 1995, is a wild pitch house/deep house track that represents 1995.

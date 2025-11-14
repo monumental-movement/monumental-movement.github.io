@@ -10,10 +10,11 @@ tags:
 - 90s
 title: Eric B. & Rakim – Paid In Full
 ---
+
+
 Eric B. & Rakim are an American hip-hop duo formed in Long Island, New York in 1986 by DJ Eric B. and rapper Rakim.
 
 Released in 1987, "Paid in Full" was their debut album and included many hit singles in the United States, including "Eric B. Is President," "I Ain't No Joke," "I Know You Got Soul," "Move the Crowd," and "Paid in Full." It is also known as the benchmark album of golden age hip hop. This CD is a reissue.
-
 
 #### Tracklist```md
 1. I Ain't No Joke

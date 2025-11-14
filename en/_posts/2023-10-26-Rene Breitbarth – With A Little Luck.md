@@ -11,10 +11,11 @@ tags:
 - Tech House
 title: Rene Breitbarth – With A Little Luck
 ---
+
+
 Rene Breitbarth's "With A Little Luck" was released in 2005 on the Irish label Ork Recordings.
 
 René Breitbarth is a German DJ and producer, and one of the founders of the Cologne, Germany-based label Treibstoff.
-
 
 #### Tracklist```md
 A. C-Moon

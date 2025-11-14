@@ -10,6 +10,8 @@ tags:
 - Rap
 title: RJD2 – Here's What's Left
 ---
+
+
 RJD2 (Ramble Jon Krohn) is a US hip-hop/electronic producer and DJ. He is also active in groups such as Soul Position, MHz Legacy (MHz), and Icebird.
 
 #### Tracklist```md

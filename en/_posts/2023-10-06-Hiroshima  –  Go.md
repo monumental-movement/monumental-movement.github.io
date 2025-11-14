@@ -10,10 +10,11 @@ tags:
 - Modern Jazz
 title: Hiroshima – Go
 ---
+
+
 "Go" is Hiroshima's sixth album, and a work that shows their musical maturity and evolution. The album is characterized by rich soundscapes and sophisticated playing.
 
 The album includes the songs "One Wish," "Island World," and "Another Place." These songs are a fusion of Hiroshima's distinctive sound and melodic song structure, creating a pleasant atmosphere.
-
 
 #### Tracklist```md
 A1. Go

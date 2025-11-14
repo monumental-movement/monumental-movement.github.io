@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: FLR - Easy Filters Part 7~8
 ---
+
+
 Contains parts 7 & 8 of the "Easy Filters" series by Ken Ishii's alias "FLR", which releases floor-like tracks released on Reel Musiq in 2000.
 
 #### Tracklist```md
@@ -21,3 +23,4 @@ B. Easy Filter Part 8
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJ7oC6z54Vs?si=WDLiCBoQw7fzK8ww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m41646790223?afid=6142608987){: .button1}
 
 #### Youtube
+

@@ -10,6 +10,8 @@ tags:
 - House
 title: Faithless – Why Go
 ---
+
+
 "Why Go?" is a song by the British electronic music group Faithless. This song is included in their second album "Sunday 8PM" (1998). Faithless is known for their unique sound, which combines elements of trance, house, and dance music.
 
 "Why Go?" is an energetic and danceable track that features vocals from Caroline Wheeler and Bo Ramsden. The song is composed of vibrant rhythms, unique sampling, and emotional lyrics, representing Faithless's signature style.

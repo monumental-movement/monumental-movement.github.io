@@ -12,6 +12,8 @@ tags:
 - 00s
 title: Futureshock – Pride"s Paranoia
 ---
+
+
 Futureshock is a band made up of UK DJs and producers Alex Tepper and Phil Dockerty.
 electronic duo by. Mainly active from 1998 to 2003.
 

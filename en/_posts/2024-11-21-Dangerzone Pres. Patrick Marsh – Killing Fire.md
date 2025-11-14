@@ -10,8 +10,9 @@ tags:
 - 00s
 title: Dangerzone Pres. Patrick Marsh – Killing Fire
 ---
-A trance track released in 2002 by Reality Bites Records, a German label specializing in trance, hard trance, and progressive trance.
 
+
+A trance track released in 2002 by Reality Bites Records, a German label specializing in trance, hard trance, and progressive trance.
 
 #### Tracklist```md
 A. Killing Fire (Dangerzone's Club Mix)

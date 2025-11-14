@@ -11,10 +11,11 @@ tags:
 - Euro Beat
 title: DNA, Breeze and Munchie Breeze – Insanity Your Love Hits Me (Rmx)
 ---
+
+
 Mark Brady, also known as DJ Breeze, is a hardcore DJ/producer from London. DNA is a studio engineer for Dougal & Hixxy's Essential Platinum label, and also produces drum and bass tracks under the name Kiro.
 
 The B-side is a remix of Breeze's "Your Love Hits Me" by DNA.
-
 
 #### Tracklist```md
 A. Dead Serious Insects

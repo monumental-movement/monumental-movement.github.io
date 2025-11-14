@@ -10,6 +10,8 @@ tags:
 - Deep House
 title: Smurf & Perry – Lovin' You
 ---
+
+
 Smurf & Perry is a unit of German DJ Big Smurf (Frank Koopmann) and Fred Perry.
 
 "Lovin' You" featured vocalist Concha Buika and was released by Flamingo Discos in 2001.

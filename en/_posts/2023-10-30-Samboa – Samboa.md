@@ -10,6 +10,8 @@ tags:
 - Latin
 title: Sambôa – Sambôa
 ---
+
+
 This album is a reissue of Brazilian jazz duo Sambôa's second album ""Samboa'' released in 1983.
 
 #### Tracklist```md

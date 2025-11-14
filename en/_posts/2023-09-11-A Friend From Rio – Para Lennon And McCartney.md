@@ -11,6 +11,8 @@ tags:
 - Future Jazz
 title: A Friend From Rio – Para Lennon And McCartney
 ---
+
+
 This is the first EP by a band active in Rio de Janeiro, Brazil.
 
 As the title suggests, this song is dedicated to John Lennon and Paul McCartney of the Beatles.

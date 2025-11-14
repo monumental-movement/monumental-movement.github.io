@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Bros – Too Much
 ---
+
+
 Bros was a British pop band that was active from 1987 to 1992. At the time of formation, twin brothers Matt & Luke Goss (Matt Goss & Luke Goss)
 , was a trio with Craig Logan, but in early 1989 Craig Logan left the band and they started working as a duo. The manager is former Pet Shop Boys manager Tom Watkins.
 

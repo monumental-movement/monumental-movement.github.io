@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Model 500 – Deep Space
 ---
+
+
 Model 500 was the alias used by DJ and producer Juan Atkins, known as one of the pioneers of Detroit techno, until 2008. Since 2008, Model 500 has featured Juan Atkins, Underground Resistance's Milton Baldwin (DJ Skurge) & Mark Taylor.
 
 "Deep Space" is a techno album by Juan Atkins released on the label R & S Records in 1995. A masterpiece representing Detroit techno in the 1990s.

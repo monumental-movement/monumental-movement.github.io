@@ -10,6 +10,8 @@ tags:
 - Classic
 title: Various – The Enjoy! Story
 ---
+
+
 "Various – The Enjoy! Story" is an album compiled of hits from the birth of Zulu Nation, a masterpiece of rap.
 
 Track A2 typo: Artist is misspelled as "Grandmaster Flash" instead of the original "Grandmaster Flash & The Furious Five."
@@ -65,3 +67,4 @@ D9. Higher Ground – Shake 'Em Up
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
+

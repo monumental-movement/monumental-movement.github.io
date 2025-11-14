@@ -10,6 +10,8 @@ tags:
 - Acid
 title: The Art Of Trance – Cambodia
 ---
+
+
 The Art Of Trance is the alias of UK trance music artist Simon Berry. Also known as Poltergeist and Vicious Circles. Simon Berry is also a member of the trance groups Clanger, Conscious and Union Jack.
 
 "Cambodia" was released in 1994 on the UK trance techno label Platipus. Side A is a remix by Simon Berry and Paul Brogden's project Clanger. B-side is a remix by Tunnel Vision.

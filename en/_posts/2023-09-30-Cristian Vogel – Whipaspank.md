@@ -10,6 +10,8 @@ tags:
 - UK Techno
 title: Cristian Vogel – Whipaspank
 ---
+
+
 Christian Vogel (born 1972 in Santiago, Chile) is an experimental electronic musician who began composing electronic music with Cabbage Head Collective in the late 1980s.
 
 He attended the University of Sussex, studying with Martin Butler (composer) and Jonathan Harvey (composer), where he gained a degree in 20th century music. A founding member of the No Future Collective, active in Brighton in the mid-1990s.

@@ -10,6 +10,8 @@ tags:
 - Rare
 title: The Lassie Foundation – Pacifico
 ---
+
+
 The Lassie Foundation was a noise pop/dream pop shoegaze band from Los Angeles that was active from 1996 to 2006.
 
 Member Jeff Schroeder became Smashing Pumpkins' guitarist in 2007, replacing James Iha.

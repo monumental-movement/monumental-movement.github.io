@@ -10,6 +10,8 @@ tags:
 - Euro House
 title: Dao Dezi – La Jument De Mishao
 ---
+
+
 Dao Dezi is a project by Eric Mouquet and Guillain Joncheray of DEEP FOREST.
 
 "La Jument De Mishao" was released in 1994 by the Italian label GFB Records.

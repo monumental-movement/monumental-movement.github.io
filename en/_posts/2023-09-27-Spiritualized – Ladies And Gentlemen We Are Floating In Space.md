@@ -10,6 +10,8 @@ tags:
 - Post Rock
 title: Spiritualized – Ladies And Gentlemen We Are Floating In Space
 ---
+
+
 "Spiritualized – Ladies And Gentlemen We Are Floating In Space" is an album by the British rock band Spiritualized.
 
 This album is known as Spiritualized's masterpiece, and is characterized by its experimental sound and magnificent arrangements. The album is known for its unique musical style, combining elements of rock, shoegaze, and psychedelic rock.

@@ -10,6 +10,8 @@ tags:
 - New-Wave
 title: Alphaville – Romeos
 ---
+
+
 Alphaville is a German synth pop band led by Marian Gold, formed in 1982.
 
 Alphaville's hit songs include "Forever Young," "Big in Japan," "Sounds Like a Melody," "The Jet Set," and "Dance with Me."

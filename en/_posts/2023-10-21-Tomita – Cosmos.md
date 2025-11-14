@@ -10,6 +10,8 @@ tags:
 - Classic
 title: Tomita – Cosmos
 ---
+
+
 "Cosmos" is one of Isao Tomita's musical works related to space.It was composed by combining science and music to express the mystery and grandeur of the universe, making full use of electronic music and synthesizers to musically express the image of the universe.
 
 "Space Fantasy" is music inspired by the stars, galaxies, and planets of the universe, and is an album that highlights Isao Tomita's synthesizer technique and sound design.

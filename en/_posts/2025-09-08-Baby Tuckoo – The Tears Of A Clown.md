@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Baby Tuckoo – The Tears Of A Clown
 ---
+
+
 Baby Tuckoo is a British hard rock band formed in 1982. A band considered to be part of the second generation of NWOBHM (New Wave of British Heavy Metal).
 
 This record is a Hard Rock/Heavy Metal record released by the British independent label Fun After All in 1986.

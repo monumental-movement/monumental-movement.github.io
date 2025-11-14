@@ -10,6 +10,8 @@ tags:
 - Psychedelic
 title: Sadistic Mika Band – Kurofune
 ---
+
+
 "Sadistic Mika Band" is a Japanese rock band that was active in the 1970s, and "Kurofune" is Sadistic Mika Band's second album, released in 1974.
 
 Featuring Sadistic Mika Band's unique pop melody, it had a great influence on young people at the time and is widely known as a masterpiece in the Japanese rock scene.

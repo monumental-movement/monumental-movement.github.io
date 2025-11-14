@@ -11,6 +11,8 @@ tags:
 - Deep House
 title: Diephuis – Inside Me
 ---
+
+
 Diephuis (Barend-Jan Beljaars) is a DJ/producer from Rotterdam, Netherlands who has been active since the 90s. We specialize in deep and soulful house music influenced by disco, techno, soul, afro, funk, and jazz.
 
 #### Tracklist```md

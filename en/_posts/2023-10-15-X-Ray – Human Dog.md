@@ -10,6 +10,8 @@ tags:
 - Hard Rock
 title: X-Ray – Human Dog
 ---
+
+
 X-Ray was a Japanese heavy metal band that was active from 1981 to 1986. Human Dog, released in December 1985, was X-Ray's last EP.
 
 Members:

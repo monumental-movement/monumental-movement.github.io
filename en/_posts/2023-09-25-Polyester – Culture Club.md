@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Polyester – Culture Club
 ---
+
+
 Polyester is a project by Bernard Garcia with Bruno Quartier and Etienne Vandeveer.
 
 It produced many hits and was often aired on Belgian radio stations.

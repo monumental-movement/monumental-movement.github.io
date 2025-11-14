@@ -11,8 +11,9 @@ tags:
 title: '[Column] "10 seconds of sound" that changed my life - Sound spark in my memory'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yYNEKwgkKE4?si=o3SjQ8uD3GeOIaPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## Prologue: When sound changes "life"
 
+
+## Prologue: When sound changes "life"
 
 Text: mmr｜Theme: Fragments of "10 seconds" that keep ringing in my memory
 
@@ -36,9 +37,7 @@ color: #fff;
 }
 </style>
 
-
 ## Chapter 1: The moment that 10 seconds rang - the origin of personal experience
-
 
 10 seconds of "Health and Efficiency".
 Those **10 seconds of the loop** completely rewrote my auditory world.
@@ -46,7 +45,6 @@ Those **10 seconds of the loop** completely rewrote my auditory world.
 At that time, I only listened to music as an emotional expression with lyrics.  
 But that rhythmic repetition taught me the pleasure of ""structure over meaning''.  
 It was at that moment that I realized that sound could be a ""space'' rather than a ""message''.
-
 
 ---
 
@@ -66,16 +64,16 @@ Within that short span of time, we instantly judge emotions such as pleasure, di
 
 flowchart TD
 
-    T["<b>Sound and memory process (auditory → emotion → memory)</b>"]
+T["<b>Sound and memory process (auditory → emotion → memory)</b>"]
     T --> A
 
-    A["Sound input (10 seconds fragment)"]
+A["Sound input (10 seconds fragment)"]
     B["Emotional response in the amygdala"]
     C["Long-term memory formation in the hippocampus"]
     D["Contextualization (memory of the "situation" in which the sound was played)"]
     E["Emotions are reconstructed during playback"]
 
-    A --> B --> C --> D --> E
+A --> B --> C --> D --> E
 
 </div>
 
@@ -85,7 +83,7 @@ flowchart TD
 
 Not only individuals but also society forms memories based on ""10 seconds of sound''.
 For example, the Olympic fanfare, the intro to a Star Wars movie, or the sound of a smartphone notification.
-These subtle sounds evoke a common emotional response across generations and borders.
+These subtle sounds evoke common emotional responses across generations and borders.
 
 It's no coincidence that TikTok and YouTube Shorts have centered around 10-15 second sound loops since the 2000s.
 The algorithm selects the ""sound that stimulates emotions the fastest,'' which has become a cultural conditioned reflex.

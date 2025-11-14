@@ -9,6 +9,8 @@ tags:
 - Euro Beat
 title: Veronica Sales – Keep Love Coming
 ---
+
+
 "Keep Love Coming" by Veronica Sales was released in 1995 on the Eurobeat label A.Beat-C. Veronica Sales also works under the alias Alexandra.
 
 The producer is Dave Rodgers, an Italian producer and co-founder of the Eurobeat label A.Beat-C.

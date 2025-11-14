@@ -10,6 +10,8 @@ tags:
 - Minimal
 title: DHS – Attention Earth People Select Tracks
 ---
+
+
 DHS (Dimensional Holofonic Sound) is a project by producer Benjamin Stokes, known for its unique sound and innovative approach to electronic music.
 
 Since 1988, DHS has been creating music, visuals, and live shows.

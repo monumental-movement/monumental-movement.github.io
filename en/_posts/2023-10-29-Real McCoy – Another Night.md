@@ -11,6 +11,8 @@ tags:
 - Garage
 title: Real McCoy – Another Night
 ---
+
+
 Real McCoy is a German Eurodance/pop music project. "Another Night" released in 1994 is their signature song.
 
 B-side is a remix of Armand Van Helden.

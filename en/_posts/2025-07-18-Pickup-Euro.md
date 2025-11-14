@@ -9,6 +9,8 @@ tags:
 - Euro
 title: Pick up euro music works
 ---
+
+
 ""A remarkable group of Euro music pieces filled with sophisticated melodies and a sense of dynamism that excites the dance floor.''
 
 <hr>
@@ -34,12 +36,12 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### Masterboy – Different Dreams
 <a href="https://jp.mercari.com/item/m79586502927?afid=6142608987"><img src="../assets/images/Masterboy%20%E2%80%93%20Different%20Dreams.webp"></a>
@@ -67,12 +69,12 @@ Bonus Track For Japan
 13. Generation Of Love
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### VA – Maharaja Top 20 Vol. III
 <a href="https://jp.mercari.com/item/m24287278460?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Maharaja%20Top%2020.webp"></a>
@@ -106,8 +108,9 @@ Contains representative songs from the 90s scene in compilation format
 20. King &amp; Queen – He - Hey Dancin'
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -135,12 +138,12 @@ B4. Soft Cell –Tainted Love
 B5. LNR – Work It To The Bone
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m82073091012?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### MDC‑X‑Static – You And Me
 <a href="https://jp.mercari.com/item/m13942238876?afid=6142608987"><img src="../assets/images/MDC-X-Static%20%E2%80%93%20You%20And%20Me.webp"></a>
@@ -158,8 +161,9 @@ B1. You And Me (In Ecstasy) (Get Wet Adventure Mix)
 B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -179,8 +183,9 @@ A. No Police = No Llamen A La Policia (Aztec Remix)
 B. No Police = No Llamen A La Policia (Original Version)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -202,8 +207,9 @@ B1. Kaos (2 Danes On Acid Mix)
 B2. Kaos (Original German Sausage Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m83196886792?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -223,12 +229,12 @@ A. So High (Club Mix)
 B. So High (Single Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m84866354258?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### East 17 – Around The World
 <a href="https://jp.mercari.com/item/m87830012673?afid=6142608987"><img src="../assets/images/East%2017%20%E2%80%93%20Around%20The%20World.webp"></a>
@@ -247,8 +253,9 @@ B #1. Around The World (N.E.W.S. Mix)
 B #2. Around The World (Global House Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -272,12 +279,12 @@ B1. Beat Man–Future Boy (Extended Version)
 B2. P. Stone–Kosmic Woofer (Extended Version)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### Dao Dezi – La Jument De Mishao
 <a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
@@ -294,12 +301,12 @@ A. La Jument De Mishao (Extended Mix)
 B. La Jument De Mishao (Club Mix)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### E‑Rotic – Sexual Madness
 <a href="https://jp.mercari.com/item/m50295230132?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Sexual%20Madness.webp"></a>
@@ -325,12 +332,12 @@ The hit song "Turn Me On" was included on the album released in 1997.
 12. When I Cry For You
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### E‑Rotic – Willy Use A Billy... Boy
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
@@ -346,8 +353,9 @@ A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -375,7 +383,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
       <td>Masterboy</td>
       <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
       <td>CD</td>
-      <td>1994 German Eurodance masterpiece</td>
+      <td>1994 German Eurodance Masterpiece</td>
     </tr>
     <tr>
       <td>VA</td>

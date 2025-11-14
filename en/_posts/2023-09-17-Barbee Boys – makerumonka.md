@@ -11,6 +11,8 @@ tags:
 - Rock
 title: Barbee Boys – I"m not going to lose.
 ---
+
+
 "Barbee Boys - Loser Monka" is a song by the Japanese rock band Barbee Boys. "Yeru Monka" is a song featuring an exhilarating guitar riff, powerful vocals, a catchy melody, and a powerful and energetic rock sound.
 
 The lyrics are about the strength to stick to one's beliefs and the courage to face difficulties, and contain a positive message.

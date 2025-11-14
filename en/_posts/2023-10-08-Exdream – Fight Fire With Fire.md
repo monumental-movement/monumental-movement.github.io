@@ -10,6 +10,8 @@ tags:
 - Italo
 title: Exdream – Fight Fire With Fire
 ---
+
+
 "Fight Fire With Fire" is
 This is an EP from Exdream, a project by Fausto Guio and Roberta Granà, released in 1996 on the Italian label Easy Beat.
 

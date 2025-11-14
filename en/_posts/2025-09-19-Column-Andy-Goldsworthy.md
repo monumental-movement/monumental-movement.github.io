@@ -12,6 +12,8 @@ tags:
 title: '[Column] Andy Goldsworthy and music - artistic resonance surrounding time
   and nature'
 ---
+
+
 ## Andy Goldsworthy and Music - Artistic resonance around time and nature
 
 Text: mmr｜Theme: Andy Goldsworthy's works and the sonic resonance of ambient, field recording, and minimal music
@@ -19,7 +21,6 @@ Text: mmr｜Theme: Andy Goldsworthy's works and the sonic resonance of ambient, 
 Andy Goldsworthy (1956-) is a British artist known for his installations and land art using natural materials. His work focuses on elements such as the passage of time, changes in materials, and the cycles of nature. His approach has much in common with music, especially ambient, field recording, and minimal music.
 
 ---
-
 
 <style type="text/css">
 
@@ -33,7 +34,6 @@ background-color: #111;
 color: #fff;
 }
 </style>
-
 
 ### Commonalities between Goldsworthy's work and music
 
@@ -94,25 +94,25 @@ color: #fff;
 
 ### Playlist organized according to the "flow of time"
 
-#### Morning
+#### morning
 
 - Brian Eno ― *Ambient 1: Music for Airports*
 - Chris Watson ― *Morning at the River*
 - Steve Reich ― *Music for 18 Musicians*
 
-#### Daytime
+#### noon
 
 - Terry Riley ― *In C*
 - Jana Winderen ― *Energy Field*
 - Philip Glass - *Glassworks*
 
-#### Evening
+#### evening
 
 - Harold Budd & Brian Eno - *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
 - Stars of the Lid - *Requiem for Dying Mothers*
 
-#### Night
+#### night
 
 - William Basinski - *The Disintegration Loops*
 - Eliane Radigue - *Trilogie de la Mort*
@@ -135,6 +135,6 @@ Andy Goldsworthy's works have a ""once-in-time'' quality that changes and disapp
 
 ### Related columns
 
- [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+[[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
- [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
+[[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

@@ -9,8 +9,9 @@ tags:
 - House
 title: All Boxed In – ...Happen
 ---
-"...Happen" is an EP by All Boxed In released in 1993 on the UK label "Stress Records".
 
+
+"...Happen" is an EP by All Boxed In released in 1993 on the UK label "Stress Records".
 
 #### Tracklist```md
 A...Happen (Tolley's Stressed Mix)

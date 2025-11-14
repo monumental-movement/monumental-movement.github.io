@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: Hypnotist – House Is Mine 92
 ---
+
+
 Hypnotist is a British techno unit that was active in the early techno scene. Their music is known for its energetic, dancefloor-friendly tracks.
 
 "House Is Mine '92" is Hypnotist's masterpiece and is considered a classic piece of techno music. The song featured a powerful beat, heavy bassline, and sampled vocals, making it a hit on club and rave dance floors.

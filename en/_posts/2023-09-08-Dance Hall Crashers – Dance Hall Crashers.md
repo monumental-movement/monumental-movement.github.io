@@ -10,6 +10,8 @@ tags:
 - Ska Punk
 title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
 ---
+
+
 DANCE HALL CRASHERS is an American ska-core band formed in Berkeley, California in 1989.
 
 In 1989, Rancid's parent band Operation Ivy's Matt Freeman and Tim Armstrong formed the band as a side project.

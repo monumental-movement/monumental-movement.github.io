@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Client – ​​Radio
 ---
+
+
 Client is an Electroclash/Synth-pop duo from the UK formed in 2002.
 
 "Radio" is an electro song released in 2004 by Depeche Mode member Andy Fletcher's label Toast Hawaii. The producer is Joe Wilson, known for Deuce of the UK trip-hop band Sneaker Pimps.

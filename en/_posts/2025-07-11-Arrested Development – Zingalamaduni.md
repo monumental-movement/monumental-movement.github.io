@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Arrested Development – ​​Zingalamaduni
 ---
+
+
 Arrested Development is an American Afrocentric hip-hop group formed in 1988 by rappers Speech and Headliner.
 
 The title ""Zingalamaduni'' means ""Festival of Souls (Beings of Culture)'' in Swahili, and is Arrested Development's second album, which explores African American cultural roots, spirituality, social issues, and hope. Reissue/Japanese version released in 1997.
@@ -36,3 +38,4 @@ The title ""Zingalamaduni'' means ""Festival of Souls (Beings of Culture)'' in S
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iszZkjDl100?si=r0LD9fsa5pZeT4KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
 #### Youtube
+

@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Masterboy – Different Dreams
 ---
+
+
 Masterboy, active since 1990, is a German Eurodance project that is best known in Europe.
 
 "Different Dreams" is Masterboy's third album, released in 1994, and includes hit songs such as "Feel the Heat of the Night," "I Got to Give It Up," "Everybody Needs Somebody," and "Is This The Love."

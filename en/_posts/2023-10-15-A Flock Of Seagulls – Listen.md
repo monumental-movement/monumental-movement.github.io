@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: A Flock Of Seagulls – Listen
 ---
+
+
 A Flock Of Seagulls is a new wave, synthpop, new romantic band founded in Liverpool, England by Mike Score and his brother Ali.
 
 "Listen", released in 1983, is A Flock Of Seagulls' second studio album.

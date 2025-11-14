@@ -10,12 +10,13 @@ tags:
 - Disco
 title: Junior Senior – Hey Hey My My Yo Yo
 ---
+
+
 This album is a song by Danish music duo Junior Senior. This song is included on their debut album "D-D-Don't Stop the Beat", released in 2002.
 
 "Hey Hey My My Yo Yo" is an uptempo, catchy pop song with an upbeat melody, danceable beat, and playful lyrics. Junior Senior's music is known for its pop compositions, incorporating elements of dance-pop and disco.
 
 "Hey Hey My My Yo Yo" is one of Junior Senior's most famous songs and became a worldwide hit.
-
 
 #### Tracklist```md
 1.Hello

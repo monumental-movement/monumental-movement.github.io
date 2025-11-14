@@ -11,10 +11,11 @@ tags:
 - 00s
 title: Anthill Mob – You Should Have Known
 ---
+
+
 Anthill Mob is a UK garage group representing East London.
 
 The key members are producer and vocalist Tosh (Yoush) aka Andrew Alcee and producer Just Juice aka Justin Jones. It has also been released under the name Studio 2.
-
 
 A1, A2, and B2 are remixes by American DJ and producer Todd Edwards, who is said to be one of the originators of speed garage and garage house in the early 1990s.
 

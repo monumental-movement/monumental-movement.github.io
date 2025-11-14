@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Hamel & Blackwatch – Discotek
 ---
+
+
 Bill Hamel, also known as Hamel, is a record producer and remixer known as a founding member of the US trance group Fatum. He has been nominated for a Grammy Award for his remix work. Michael Thomas, also known as Blackwatch, is a progressive house producer.
 
 "Discotek", co-written by Hamel and Blackwatch, is a Progressive House track released on the UK label Bedrock in 2001.

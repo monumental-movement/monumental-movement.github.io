@@ -10,6 +10,8 @@ tags:
 - Acid House
 title: DMX Krew – Nu Romantix
 ---
+
+
 "DMX Krew" is a project by British electronic music artist Edward Upton.
 
 Nu Romantix is ​​an album released by DMX Krew in 1998, with a unique sound that combines elements of old school electro, synth pop, acid house, and techno.

@@ -9,6 +9,8 @@ tags:
 - Hiphop
 title: Rakim – The Saga Begins
 ---
+
+
 "The Saga Begins" is a single cut (bootleg version) from Rakim's solo debut album "The 18th Letter" released in 1997. The producer is Pete Rock.
 
 #### Tracklist```md

@@ -10,6 +10,8 @@ tags:
 - Post Punk
 title: Talking Heads – Little Creatures
 ---
+
+
 ""Little Creatures'' represents one of the musical evolutions of Talking Heads. The album incorporates pop elements into the band's sound and is full of melodic and catchy songs. This allowed their music to appeal to a wider audience.
 
 The album features many songs, including the hits "And She Was" and "Road to Nowhere." These songs combined Talking Heads' signature rhythms, humorous lyrics, and catchy melodies, and were loved by many.

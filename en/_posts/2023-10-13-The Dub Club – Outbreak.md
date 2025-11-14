@@ -10,9 +10,10 @@ tags:
 - Trance
 title: The Dub Club – Outbreak
 ---
+
+
 "Outbreak" is
 This is an EP by The Dub Club, a project by Nathanael Heres, released in 1994 on the Dutch label Urban Sound Of Amsterdam.
-
 
 #### Tracklist```md
 A. Outbreak

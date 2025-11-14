@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Dry & Heavy – From Creation
 ---
+
+
 Dry&Heavy is a Japanese reggae dub band formed in 1991 by drummer Shigeki Nanao (Dry) and bassist Takeshi Akimoto (Heavy).
 Dry&Heavy's sound is influenced by 1970s Jamaican dub sounds such as King Tubby and Lee Perry, and they have been successful at reggae and dub festivals both domestically and internationally.
 

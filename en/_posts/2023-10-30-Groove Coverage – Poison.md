@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Groove Coverage – Poison
 ---
+
+
 Groove Coverage is a German Eurotrance band consisting of Axel Konrad, DJ Novus, Melanie Munch, and Verena Rehm.
 
 "Poison" is a cover song by Alice Cooper and one of Groove Coverage's signature songs.

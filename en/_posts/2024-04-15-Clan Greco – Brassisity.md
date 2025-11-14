@@ -11,6 +11,8 @@ tags:
 - Future Jazz
 title: Clan Greco – Brassisity
 ---
+
+
 Clan Greco is a unit formed by Ricky Rinaldi, producer and co-producer of Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara, etc., and Italian trumpet player Massimo Greco.
 
 ≡ Participating artists

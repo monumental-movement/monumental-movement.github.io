@@ -10,6 +10,8 @@ tags:
 - 80s
 title: Genghis Khan – Greatest Hits
 ---
+
+
 Genghis Khan is a German disco group formed by Ralph Siegel. He competed in Eurovision in 1979 and came in 4th place.
 
 Genghis Khan is characterized by songs that are themed around historical figures, exotic cultures, and regions.

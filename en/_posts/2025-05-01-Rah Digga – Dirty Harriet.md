@@ -10,10 +10,11 @@ tags:
 - 00s
 title: Rah Digga – Dirty Harriet
 ---
+
+
 Dirty Harriet (2000) is the debut studio album by Rahim Fisher, aka Rah Digga, and is an underrated but important piece in hip-hop history.
 
 As the first female member of the Flipmode Squad, with the backing of Busta Rhymes, Rah Digga firmly established herself as a female MC with her masterful lyricism and East Coast boom-bap sound.
-
 
 #### Tracklist```md
 A1. Intro

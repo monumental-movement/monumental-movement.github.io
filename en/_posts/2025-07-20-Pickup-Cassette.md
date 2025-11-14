@@ -9,6 +9,8 @@ tags:
 - Cassette
 title: Pick up cassette tape works
 ---
+
+
 "A remarkable group of cassette tape works that vividly capture the breath of the underground and emit a unique aesthetic."
 
 <hr>
@@ -24,8 +26,9 @@ A. Tintinnabulation (Contemplative Sound)
 B. Dawn At New Hope Pennsylvania (June, 1969)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m64435232831?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -71,12 +74,12 @@ B15. Crusoe
 B16. One Earth
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
@@ -97,12 +100,12 @@ B4. Hard Luck Woman
 B5. Makin' Love
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
@@ -134,11 +137,11 @@ B3. يللا يا باسم
 
 Come on, Bassem
 ```
+
+
 [Purchase on Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
-
 <hr>
-
 
 ### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
@@ -166,8 +169,9 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -184,12 +188,12 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
-
 
 ### Dieselboy – The Director"s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
@@ -231,8 +235,9 @@ B. Side B
 13. Dillinja- Accurist
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -279,8 +284,9 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -303,8 +309,9 @@ B3. It's Not Funny
 B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -312,7 +319,7 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ### Dr. Dre – Let Me Ride
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
- 1992 Classic hip-hop/G-funk representative song of the West Coast sound
+1992 Classic hip-hop/G-funk representative song of the West Coast sound
 
 #### Tracklist```md
 A1. Let Me Ride (Radio Mix)
@@ -330,8 +337,9 @@ Featuring –Daz, Snoop Doggy Dogg
 Guest– George Clinton
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

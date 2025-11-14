@@ -13,8 +13,9 @@ title: '[Column] Religious music around the world and its psychological and soci
   effects - The history of music and prayer as explained through illustrations and
   timelines -'
 ---
-## Prologue: The universality of music and religion
 
+
+## Prologue: The universality of music and religion
 
 Text: mmr｜Theme: Comparing religious music from around the world from the perspectives of history, psychology, and physiological effects, and understanding it through illustrations
 
@@ -40,7 +41,6 @@ color: #fff;
 }
 </style>
 
-
 ## Hindu music: the sound of the universe "Nada Brahma"
 
 * **Main Forms**: Mantras, Bhajans, Ragas
@@ -48,7 +48,7 @@ color: #fff;
 * **Representative performers**: Ravi Shankar, Bismara Khan
 * **Psychological effect**:
 
-  * Long chanting → **Induces meditative state**
+* Long chanting → **Induces meditative state**
   * Repetitive rhythm → **Stress reduction**
   * Group chant → **Social harmony**
 
@@ -62,9 +62,8 @@ color: #fff;
 * **Characteristics**: Overtone singing method, bell/conch
 * **Psychological effect**:
 
-  * Alpha wave increase → **deep relaxation**
+* Alpha wave increase → **deep relaxation**
   * Breathing and chanting are synchronized → **Stability of autonomic nervous system**
-
 
 | Effects | Physiological effects |
 |------|-------------|
@@ -79,12 +78,12 @@ color: #fff;
 * **Major formats**: Gregorian chant, organ music, gospel
 * **Iconic works**:
 
-  * *Chant* (Benedictine Order)
+* *Chant* (Benedictine Order)
   * Mahalia Jackson"Take My Hand, Precious Lord"
 
 * **Psychological effect**:
 
-  * **Harmony stabilizes heart rate**
+* **Harmony stabilizes heart rate**
   * **Reverberations of the church space** strengthens the sense of relief
   * Participation in chorus → **Collective upliftment** by sharing emotions**
 
@@ -96,7 +95,7 @@ color: #fff;
 * **Characteristics**: Mental purification by chanting
 * **Psychological effect**:
 
-  * Breathing rhythm and melody synchronize and enter a **trance state**
+* Breathing rhythm and melody synchronize and enter a **trance state**
   * **Temporal reset effect** due to Adhan
 
 ---
@@ -107,7 +106,7 @@ color: #fff;
 * **Characteristics**: Intonation expression using modes
 * **Psychological effect**:
 
-  * Awakens emotional memory **Increases prayer concentration**
+* Awakens emotional memory **Increases prayer concentration**
   * Music prompts **reaffirmation of history and identity**
 
 ---
@@ -117,7 +116,7 @@ color: #fff;
 * **Key Format**: Drum Ceremony, Call & Response
 * **Psychological effect**:
 
-  * **Body resonance/heartbeat synchronization based on rhythm**
+* **Body resonance/heartbeat synchronization based on rhythm**
   * Group performances strengthen **social cohesion**
   * Repeatedly induces **ecstatic state (trance)**
 
@@ -133,20 +132,20 @@ gantt
     axisFormat %Y
     todayMarker off
 
-    section ancient
+section ancient
     Vedic chant (Hindu) :done, -1500, 500
     Ancient Chinese/Indian music theory: -500, 500
 
-    section middle ages
+section middle ages
     Gregorian chant: 800, 400
     Tibetan statement: 1100, 900
     Sufi music: 1200, 800
 
-    section modern
+section modern
     Gospel Spiritual: 1700, 300
     African ritual music: 1500, 500
 
-    section modern
+section modern
     Meditation/healing music: 1900, 125
     Cross-cultural music: 2000, 50
 
@@ -166,7 +165,7 @@ graph TD
     E[Judaism: Memory/Mind Concentration 4] -->|4|
     F[African Religion: Trans/Unity 5] -->|5|
 
-    classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
+classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
     class A,B,C,D,E,F bar;
 
 </div>
@@ -215,3 +214,4 @@ Even if religions change, the power of sound points in the same direction.
 It is the **universal rhythm of prayer**.
 
 ---
+

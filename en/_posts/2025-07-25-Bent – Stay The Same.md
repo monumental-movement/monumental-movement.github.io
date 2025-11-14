@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Bent – ​​Stay The Same
 ---
+
+
 Bent is an electronica and downtempo duo from the UK who were active from 1999 to 2009 and reunited in 2019. The members are Simon Mills and Neil Tolliday. Their style is characterized by a mix of sampling and humor, and they were active in the downtempo scene of the early 2000s.
 
 "Stay The Same" is a House mix of a dyne tempo/chill-out track released on the Sport label in 2003, featuring Katty Heath.

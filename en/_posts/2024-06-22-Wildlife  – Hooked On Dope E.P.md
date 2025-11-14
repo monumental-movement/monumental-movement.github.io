@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Wildlife – Hooked On Dope E.P.
 ---
+
+
 Seb Fontaine, also known as Wildlife, is a DJ and producer from the UK. He has been a resident DJ at venues such as The Fridge and Cream, and has released numerous mix albums.
 
 "Hooked On Dope E.P." is a breakbeat house track released in 1992 by Spot On Records, a label run by Seb Fontaine and Julian Peake.

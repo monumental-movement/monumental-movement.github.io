@@ -12,7 +12,9 @@ tags:
 - 80s
 title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
 ---
-Kronos Quartet is a string quartet formed in Seattle in 1973 by violinist David Harrington, and has been based in San Francisco since 1978. 
+
+
+Kronos Quartet is a string quartet formed in Seattle in 1973 by violinist David Harrington, and has been based in San Francisco since 1978.
 
 The band has been active for 50 years with a rotating cast of musicians, with the longest-running combination of performers (1978-1999) being Harrington and John Schaba on violin, Hank Dutt on viola, and Joan Jeanrenot on cello.
 

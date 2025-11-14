@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Incisions – Beyond Motion
 ---
+
+
 UK hard house legend Paul King (Paul F1 King) remixes the hard trance track "Beyond Motion" released in 1996 by Willem Jelle Faber, aka Incisions.
 
 A limited edition of 500 rare records released by UK's Hard House/NRG label Vicious Circle Recordings in 2004.

@@ -11,13 +11,15 @@ tags:
 - 7inch
 title: Isao Sasaki – Farewell Space Battleship Yamato Warriors of Love – Good Enemy
 ---
+
+
 "Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" is an insert song/image song for the 1978 movie "Farewell Space Battleship Yamato: Warriors of Love."
 
 Lyrics - Yu Aku
 
 Composition/Arrangement - Yasushi Miyagawa
 
- Song - Isao Sasaki
+Song - Isao Sasaki
 
 #### Tracklist```md
 A. 好敵手

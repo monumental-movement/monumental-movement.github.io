@@ -12,10 +12,11 @@ tags:
 - 90s
 title: VA – Hello Young Lovers
 ---
+
+
 A compilation album released in 1993 by Kenji Takimi's indie label Crue-L Records.
 
 Participating artists: Kahimi Kali, Love Tambourines, Favorite Marine, Museum of Plate, Freedom Suite.
-
 
 #### Tracklist```md
 1. Unknown Artist – Intro

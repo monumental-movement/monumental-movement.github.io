@@ -10,8 +10,9 @@ tags:
 - Hi NRG
 title: Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)
 ---
-Released in 1987 on the Belgian and Dutch label Indisc, this album gained popularity at the time as an Italo disco/high energy album.
 
+
+Released in 1987 on the Belgian and Dutch label Indisc, this album gained popularity at the time as an Italo disco/high energy album.
 
 #### Tracklist```md
 A  Boom Boom (Viens Chez Moi Faire Une Boum)

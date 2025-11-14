@@ -10,10 +10,11 @@ tags:
 - 90s
 title: Corduroy – High Havoc
 ---
+
+
 Corduroy is a four-piece acid jazz band based in London.
 
 "High Havoc" is Corduroy's second concept album, released in 1993 on Acid Jazz Records. The second song, London England, is said to be a dance floor classic of the 1990s, and Corduroy's masterpiece includes many other singles that entered the top 10 of the UK indie charts.
-
 
 #### Tracklist```md
 1. High Havoc

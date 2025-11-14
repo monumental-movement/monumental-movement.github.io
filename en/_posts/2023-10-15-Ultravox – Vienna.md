@@ -10,6 +10,8 @@ tags:
 - Synth-Pop
 title: Ultravox – Vienna
 ---
+
+
 Ultravox is a UK post-punk rock band. The group's founder was John Foxx, who later left the group. Midge Ure joined in 1979.
 
 Previous producers include Brian Eno, Steve Lillywhite, and Connie Plank.

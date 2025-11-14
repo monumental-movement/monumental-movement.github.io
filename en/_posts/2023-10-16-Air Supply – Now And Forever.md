@@ -10,6 +10,8 @@ tags:
 - Soft Rock
 title: Air Supply – Now And Forever
 ---
+
+
 Air Supply's album "Now and Forever", released in 1981, was their most successful album.
 
 In particular, singles such as "Even the Nights Are Better (Goodbye Lonely Love)" and "Two Less Lonely People in the World" became hits worldwide, including in the United States and Japan.

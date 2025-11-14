@@ -10,6 +10,8 @@ tags:
 - Disco
 title: Tumblack Richard Evans – Tumbacara Capricorn One
 ---
+
+
 Ashley Beedle is a British DJ and producer who is a member of X-Press 2. He is also a producer for labels such as Black Sunshine Records, Afro Art, Out Hear Audio, and Modern Artifacts.
 
 Side A is a re-edit of Tumblack - Caraïba, and side B is a re-edit of Richard Evans' "Capricorn Rising" from his album "Richard Evans".

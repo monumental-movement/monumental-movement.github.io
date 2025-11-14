@@ -11,6 +11,8 @@ tags:
 - Rare
 title: Miles Davis – Originals / Moods
 ---
+
+
 One of Miles Davis' four-cassette compilations released in 1988. The tape is chrome tape.
 
 F-1 and F-3 are produced by Howard A. Roberts, known for his work with Howard Roberts Chorale and Harry Belafonte.

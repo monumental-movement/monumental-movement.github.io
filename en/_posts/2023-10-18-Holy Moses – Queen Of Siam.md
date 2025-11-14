@@ -10,6 +10,8 @@ tags:
 - Thrash
 title: Holy Moses – Queen Of Siam
 ---
+
+
 Holy Moses is a German thrash metal band that has been active since 1980. The front is Sabina Classen. Known as a pioneering group of female death voice vocalists.
 
 "Queen Of Siam" is Holy Moses' debut album, released in 1986 by German heavy metal label Aaarrg Records.

@@ -10,6 +10,8 @@ tags:
 - Remix
 title: Elektrik Haze vs. Beck – Elektro Loser
 ---
+
+
 "Elektro Loser" is
 This is an electro remix record by Elektrik Haze of BECK's hit song "LOSER" released in 1994.
 

@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Quench – Dreams
 ---
+
+
 Christopher J. Dolan (CJ Dolan), also known as Quench, is an Australian dance music producer and musician. "Quench – Dreams" became a worldwide hit. Co-producer: Sean Quinn.
 
 The first and second songs on the B-side are remixes by British progressive house duo Crunch.

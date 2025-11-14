@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Mercedes – Living For The Moment
 ---
+
+
 A house/garage house track released in 1994 by Trinidad-born, UK-based singer Mercedes on Vinyl Solution, a UK label famous for producing Depth Charge, Eon, Bizarre Inc, and Andrew Meecham.
 
 The first track on side A and side B are remixes by London-based DJ/producers Booker T and Mark Frank. The second track on side A is a remix by UK multi-instrumentalist, producer, and mixing/mastering engineer Alan Scott (Al Scott).

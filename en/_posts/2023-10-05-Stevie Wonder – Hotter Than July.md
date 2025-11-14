@@ -10,6 +10,8 @@ tags:
 - Soul
 title: Stevie Wonder – Hotter Than July
 ---
+
+
 "Hotter Than July" includes many hit songs, most notably "Master Blaster (Jammin')" and "Happy Birthday." In particular, "Happy Birthday" was created as a song to celebrate Martin Luther King Jr.'s birthday, and became a symbol of the American civil rights movement.
 
 Other notable songs include "I Ain't Gonna Stand for It" and "Lately." These songs demonstrate Stevie Wonder's rich musicality and emotional expressiveness.

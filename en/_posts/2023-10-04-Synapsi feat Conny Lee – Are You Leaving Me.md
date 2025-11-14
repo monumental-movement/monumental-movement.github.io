@@ -10,9 +10,10 @@ tags:
 - Italo
 title: Synapsi feat Conny Lee – Are You Leaving Me
 ---
+
+
 "Are You Leaving Me" is
 This is an EP by Synapsi released on the Italian label "Technology" in 1993.
-
 
 #### Tracklist```md
 A1. Are You Leaving Me? (Techno Beat)

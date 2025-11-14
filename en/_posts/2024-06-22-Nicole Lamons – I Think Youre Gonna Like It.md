@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Nicole Lamons – I Think You"re Gonna Like It
 ---
+
+
 A house/deep house/garage house track released in 1993 by New York house label Strictly Rhythm.
 
 DJ Pierre was Strictly Rhythm's A&R during this period.

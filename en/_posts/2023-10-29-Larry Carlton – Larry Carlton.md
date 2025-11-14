@@ -11,6 +11,8 @@ tags:
 - 70s
 title: Larry Carlton – Larry Carlton
 ---
+
+
 Larry Carlton, nicknamed "Mr. 335," is a legendary guitarist who has won four Grammy Awards and has always been a leader in the fusion world. This album, which bears his name, solidified Larry Carlton's status as a guitarist.
 
 #### Tracklist```md

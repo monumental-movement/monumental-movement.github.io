@@ -9,13 +9,13 @@ tags:
 - Vinyl
 title: '[Column] Rotating Nostalgia: The Psychology of Vinyl Revival'
 ---
-## Prologue: What remains after sound becomes "data"
 
+
+## Prologue: What remains after sound becomes "data"
 
 Text: mmr | Theme: Adding a data perspective to the psychology of record regression. Graphing the global Vinyl Revival from 2000 to 2025
 
-
-In the 2020s, when music consumption became completely digital, a ""return to analog'' was quietly progressing behind the playlists played by Spotify's algorithm.  
+In the 2020s, when music consumption became completely digital, a ""return to analog'' was quietly progressing behind the playlists played by Spotify's algorithm.
 
 ---
 
@@ -37,7 +37,7 @@ color: #fff;
 ## Chapter 1: The intersection of data and psychology
 
 Behind the resurgence of records are **psychological desires and social reactions**.  
-The movement to reclaim the physical musical experience is also an unconscious rebellion of the digital generation.  
+The movement to reclaim the physical musical experience is also an unconscious rebellion of the digital generation.
 
 The graph below shows global record sales trends from 2000 to 2025.  
 It can be seen that while CDs are in decline, vinyl is making a comeback and is on the rise.
@@ -47,7 +47,6 @@ It can be seen that while CDs are in decline, vinyl is making a comeback and is 
 ## World record sales trends (2000–2025)
 
 <div class="mermaid">
-
 
 %% Vinyl Revival: 2000–2025
 timeline
@@ -61,12 +60,9 @@ timeline
   2023: Highest record in the US since 1987 (RIAA)
   2025: World market approximately $2.5 billion — Revival of physical music
 
-
 </div>
 
-
 ---
-
 
 ## Chapter 2: "Resurrection of rituals" told by numbers
 
@@ -78,7 +74,6 @@ In particular, many of the Gen Z buyers are the "digital generation" themselves.
 For them, records function as ""unknown classics'' - a new narrative device.
 
 ---
-
 
 ## Chapter 3: Media Archeology and the Psychology of Ownership
 
@@ -92,7 +87,6 @@ It is a metaphor for "music" itself,
 
 ---
 
-
 ## Chapter 4: Effects of records on the brain
 
 According to research in psychology and brain science,
@@ -105,8 +99,7 @@ It has the effect of calming the rhythm of heartbeat and brain waves.
 
 ---
 
-
-## Chapter 5: Future analog ─ Reaction in the AI era
+## Chapter 5: Future analog ─ Reaction in the AI ​​era
 
 In an era where AI can generate music infinitely,
 "Sounds that cannot be reproduced" and "trace of matter" are
@@ -116,7 +109,6 @@ Records in the era of AI-generated music
 **It will continue to be an "anti-algorithmic entity"**.
 
 ---
-
 
 <div class="mermaid">
 
@@ -138,3 +130,4 @@ Under these circumstances, people are once again seeking "material sound."
 Records never die.
 Rather, as a symbol of the rotation of human memory and emotions,
 It continues to quietly and surely turn to the future.
+

@@ -11,8 +11,9 @@ tags:
 - 90s
 title: David Alvarado – Midnight Express
 ---
-A house/deep house compilation mix CD selected by US DJ/producer David Alvarado, who has produced works for labels such as Ovum, Peacefrog, NRK, Plastic City, and Ultra.
 
+
+A house/deep house compilation mix CD selected by US DJ/producer David Alvarado, who has produced works for labels such as Ovum, Peacefrog, NRK, Plastic City, and Ultra.
 
 #### Tracklist```md
 1. A:xus – Callin' U

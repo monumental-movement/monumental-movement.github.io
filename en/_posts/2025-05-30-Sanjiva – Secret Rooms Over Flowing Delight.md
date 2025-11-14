@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Sanjiva – Secret Rooms Over Flowing Delight
 ---
+
+
 A techno ambient trance track by Charles Reix, also known as Sanjiva. It was released in 1996 on Sanjiva's own label Ninetysix Sounds. He also worked under the name Charles Kyosan.
 
 #### Tracklist```md

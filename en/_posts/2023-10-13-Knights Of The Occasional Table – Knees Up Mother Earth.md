@@ -10,6 +10,8 @@ tags:
 - UK Band
 title: Knights Of The Occasional Table – Knees Up Mother Earth
 ---
+
+
 Knights Of The Occasional Table are an electronic band from South East London consisting of Steve Radford, Nygel Packett, Andrew Cowen and vocalist Aquamanda.
 
 When this album was released in 1993, it was featured on John Peel's Peel Sessions.

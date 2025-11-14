@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Joi Cardwell – You Got To Pray
 ---
+
+
 Joi Cardwell (Joi Bernadette Cardwell) is an American singer, songwriter, producer, and artist born in 1967 in New York City, New York, United States.
 
 She competed in various singing competitions from an early age and gained fame in the early 1990s as a guest vocalist for Lil Lewis with the number one dance singles "Club Lonely" and "Saved My Life" before embarking on a solo career and releasing several albums.

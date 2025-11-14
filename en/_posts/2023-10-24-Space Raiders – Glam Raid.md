@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: Space Raiders – Glam Raid
 ---
+
+
 Space Raiders are a UK electro trio from Middlesbrough, England, formed in 1997.
 
 "Glam Raid" was released in 1998 by Skint, a label that led the early big beat scene, including Fatboy Slim, Freq Nasty, Midfield General, and Lo-Fidelity Allstars.

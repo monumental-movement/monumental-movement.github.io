@@ -13,6 +13,8 @@ tags:
 - 90s
 title: Blues Explosion – Extra Width
 ---
+
+
 The Jon Spencer Blues Explosion was a three-piece rock band from New York that was active from 1991 to 2016. Their style is based on rock and combines elements of punk, blues, garage, rockabilly, soul, noise rock, rhythm and blues, and hip-hop.
 
 "Extra Width" is their third album released in 1993, and was released in Japan in 1995. Tracks 12 and 13 are bonus tracks only on the Japanese version.

@@ -9,6 +9,8 @@ tags:
 - Trance
 title: Oriental Space – My Heart Will Go On
 ---
+
+
 Trance cover of Titanic theme song CELINE DION's MY HEART WILL GO ON.
 
 Oriental Space is a project by Kousuke Okamoto (trance producer, DJ).

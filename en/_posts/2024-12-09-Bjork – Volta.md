@@ -13,6 +13,8 @@ tags:
 - Ballad
 title: Björk – Volta
 ---
+
+
 Volta is Björk's sixth studio album, released in 2007. Several artists are participating, including Mark Bell, Timbaland, Danja, and Antony Hegarty (Anohni Hegarty) of Antony & the Johnsons.
 
 #### Tracklist```md
@@ -50,7 +52,8 @@ Volta is Björk's sixth studio album, released in 2007. Several artists are part
 アイ・シー・フー・ユー・アー
  (マーク・ベル ミックス)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EqbdMTY1kqc?si=GoXiEwjKVFt2qzrH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EqbdMTY1kqc?si=GoXiEwjKVFt2qzrH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Purchase on Mercari](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 #### Youtube

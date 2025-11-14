@@ -11,6 +11,8 @@ tags:
 - Hiphop
 title: Jjak Hogan – Jjak Hogan EP
 ---
+
+
 An electro breakbeat and rap track by US duo JJAK HOGAN, released in 2008 from RADIO SLAVE's label REKIDS.
 
 JJAK HOGAN is a project by Slim E. Neutron (Donte Oliver) and Davey Koppa Feel (Wayne Brooks) from Augusta, Georgia, who also perform under the names Dr. Bass So-Low and Smoke Master I.C.E.

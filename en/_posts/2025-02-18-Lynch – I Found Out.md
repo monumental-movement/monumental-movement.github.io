@@ -11,10 +11,11 @@ tags:
 - 80s
 title: Lynch – I Found Out
 ---
+
+
 Roger Lynch (real name Roger Troutman II), also known as Lynch, is the son of legendary US funk musician Roger Troutman.
 
 Released in 1989 on Capitol Records, ""I Found Out'' was produced by Roger Troutman and featured members of Zapp, including Lester Troutman and Larry Troutman.
-
 
 #### Tracklist```md
 A1. I Found Out (Extended Version)

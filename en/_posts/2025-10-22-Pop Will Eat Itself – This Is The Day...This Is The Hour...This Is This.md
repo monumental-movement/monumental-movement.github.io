@@ -14,6 +14,8 @@ tags:
 - 10s
 title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!
 ---
+
+
 Pop Will Eat Itself is a British alternative rock band formed in 1986.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - 90s
 title: XTC – Nonesuch
 ---
+
+
 "Nonsuch" is the 12th style album by UK rock band XTC, released by Virgin in 1992. The producer is Gus Dudgeon, who has worked on Elton John's works. It was XTC's most political album, touching on topics ranging from love and humanity to the Gulf War and P•T•Barnum, and was a hit in the US and UK.
 
 #### Tracklist```md

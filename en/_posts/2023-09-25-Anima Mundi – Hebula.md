@@ -10,6 +10,8 @@ tags:
 - Tribal
 title: Anima Mundi – Hebula
 ---
+
+
 "Hebula" is a great psychedelic tribal techno song. I'm not sure why this track isn't on the Anima:Beat album, but it sounds like it stands out from the rest of the album.
 
 "Hebula" is a techno song that combines a dreamy, trippy sound with tribal rhythms and elements. This song features complex acoustic effects and multi-layered sound textures, transporting listeners to another world.

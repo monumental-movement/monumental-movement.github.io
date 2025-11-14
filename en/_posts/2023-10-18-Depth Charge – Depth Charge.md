@@ -9,6 +9,8 @@ tags:
 - Break Beat
 title: Depth Charge – Depth Charge
 ---
+
+
 Depth Charge is the alias of British DJ/musician J.Saul Kane, who has also released under various other names, including The Octagon Man, Alexander's Dark Band, T.E.T, and Grimm Death. J Saul Kane is also the owner of DC Recordings and Electron Industries.
 
 #### Tracklist```md

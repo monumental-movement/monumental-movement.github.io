@@ -10,6 +10,8 @@ tags:
 - Hard House
 title: Wasters Of The Scene – Wasters Of The Scene 01
 ---
+
+
 "Wasters Of The Scene 01" is
 This is an EP by Wasters Of The Scene released in Belgium in 2005.
 

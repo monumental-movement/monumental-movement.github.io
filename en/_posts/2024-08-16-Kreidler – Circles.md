@@ -13,6 +13,8 @@ tags:
 - Synth-pop
 title: Kreidler – Circles
 ---
+
+
 Kreidler is a band formed in Düsseldorf, Germany in 1994. Fusing electronic and acoustic instruments, they incorporate various styles such as techno, electropop, avant-garde, post-rock, ambient, electronica, and krautrock depending on the release.
 
 "Circles" was released in 2000 on the German label Wonder, founded by Jutta Bächner.

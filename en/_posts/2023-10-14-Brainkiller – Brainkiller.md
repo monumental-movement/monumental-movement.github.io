@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: Brainkiller – Brainkiller
 ---
+
+
 Brainkiller is a hard techno act from Michael Bogdanski, Frank Behrens, and MiBo (Michael B.).
 
 "Brainkiller" was released in 1994 on the German label F%@#ing Loud!, founded by Mike Hoppe (Roy Batty).

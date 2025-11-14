@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Brian Cross – Sunny Rain
 ---
+
+
 Brian Cross (Brian Fortuny Cruz) is a Spanish DJ/producer.
 
 This record is House/Electro, released in 2008 by Italian dance/house label Net's Work International. (promo edition)

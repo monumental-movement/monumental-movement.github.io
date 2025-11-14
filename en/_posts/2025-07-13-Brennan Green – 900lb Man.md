@@ -12,12 +12,13 @@ tags:
 - 00s
 title: Brennan Green – 900lb Man
 ---
+
+
 Brennan Green is a veteran NY underground disco/electro DJ, producer, and engineer. He is also known as a person who influenced Metro Area and the label DFA, and is also famous for producing remixes of Kid Creole & The Coconuts and ARTHUR RUSSELL tribute band ARTHUR'S LANDING.
 
 "900lb Man" is a House, Tech House, Acid House track released by Jet Set in 2006.
 
 A is a remix by KZA and DJ Kent's Duo, Force Of Nature (F.O.N Force of Nature).
-
 
 #### Tracklist```md
 A. 900lb Man (Force Of Nature Remix)

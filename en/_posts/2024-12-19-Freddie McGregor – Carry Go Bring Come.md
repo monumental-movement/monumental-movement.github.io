@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Freddie McGregor – Carry Go Bring Come
 ---
+
+
 Freddie McGregor is a reggae musician from Jamaica. He was just seven years old when he began recording for the Studio One label in 1963. In 1975, he converted to Rastafarianism.
 
 He shot to fame with the release of "Bobby Babylon" in the early 1980s, and went on to have many hit songs, including "Big Ship," "Push Comes to Shove," and "Just Don't Want to Be Lonely."

@@ -10,6 +10,8 @@ tags:
 - 70s
 title: Elvis – Aloha From Hawaii Via Satellite
 ---
+
+
 Elvis Presley's 1973 Hawaii performance live album - Japan original compilation.
 
 Recorded live at 12:30 a.m. on Sunday, January 14, 1973 at the Honolulu International Center.

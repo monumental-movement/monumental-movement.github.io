@@ -11,6 +11,8 @@ tags:
 - Funk
 title: Isaac Hayes – Shaft
 ---
+
+
 It was created as the soundtrack for the movie Shaft, and is responsible for the music for the classic blaxploitation crime film directed by Gordon Parks. This album was critically acclaimed and considered one of the greatest soundtracks of all time.
 
 Isaac Hayes composed and performed the music for "Shaft." This album features his signature soul, funk, and orchestral arrangements. The album included the iconic theme song, "Theme from Shaft," which was a huge hit and earned Hayes an Academy Award for Best Original Song. The song's infectious groove, memorable guitar riff, and Hayes' smooth, soulful vocals made it an instant classic.

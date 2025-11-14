@@ -12,6 +12,8 @@ tags:
 - 90s
 title: CJ Bolland – The Analogue Theater
 ---
+
+
 The first studio album "The Analogue Theater" released by Belgian electronic music producer CJ Bolland in 1996 is CJ Bolland's masterpiece, which includes the worldwide hit "Sugar Is Sweeter". This CD includes a special bonus track only available on the Japanese version, Ken Ishii's remix of "Sugar Is Sweeter".
 
 #### Tracklist```md

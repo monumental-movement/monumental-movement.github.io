@@ -10,6 +10,8 @@ tags:
 - Electro
 title: SebastiAn – Smoking Kills
 ---
+
+
 The songs on this record have a very futuristic sound to them, with Sebastian and Ed Wenger's crew bringing some true electro scream noise.
 
 If you are a house music fan and like minimal music, "Dorami" is a must-listen.

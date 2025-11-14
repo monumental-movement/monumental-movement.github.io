@@ -10,7 +10,9 @@ tags:
 - Folk
 title: Frente – Shape
 ---
-Frente is an Australian folk-pop/indie pop group formed in 1989. The original members were Simon Austin, Angie Hart, and Tim O'Connor. 
+
+
+Frente is an Australian folk-pop/indie pop group formed in 1989. The original members were Simon Austin, Angie Hart, and Tim O'Connor.
 
 "Shape" is Frente's second studio album, released in 1996. The album was recorded in Spain in 1995 and produced by Cameron McVeigh and Ted Nicely.
 

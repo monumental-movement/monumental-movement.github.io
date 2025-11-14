@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Best Of Kitaro
 ---
+
+
 Kitaro, a Japanese keyboardist and synthesizer player, won the Golden Globe Award for Best Original Score for the 1994 film ""Heaven & Earth'' directed by Oliver Stone. In 2001, it won the 43rd Grammy Award for Best New Age Album.
 
 "Best of Kitaro" is a compilation cassette tape by Kitaro released in 1985 by the German label Kuckuck.

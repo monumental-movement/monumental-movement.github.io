@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Klaxons – Golden Skans
 ---
+
+
 A remix of ""Golden Skans'' by the rock band Klaxons, formed in New Cross, UK in 2005.
 
 The first track on side A is a remix by SebastiAn, an electronic musician and DJ affiliated with Ed Banger Records/Ed Rec.

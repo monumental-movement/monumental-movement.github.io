@@ -12,6 +12,8 @@ tags:
 - 00s
 title: The Mars Volta – Amputechture
 ---
+
+
 The Mars Volta is a US progressive rock band formed by former ATDI member Cedric Bixler and Omar Rodriguez. Active from 2001 to 2013. His style is a mix of various genres, including emo, culimo, dub, techno, Latin, salsa, and improvisation.
 
 Their third album, Amputechture, featuring John Frusciante of the Red Hot Chili Peppers, was released in 2006.

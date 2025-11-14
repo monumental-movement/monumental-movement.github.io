@@ -12,6 +12,8 @@ tags:
 - 90s
 title: VA – Spike & Co. Do It A Cappella
 ---
+
+
 This album is the soundtrack for a 1990 PBS documentary about a cappella music directed by Spike Lee.
 
 #### Tracklist```md

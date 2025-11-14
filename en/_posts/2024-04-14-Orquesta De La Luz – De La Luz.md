@@ -10,6 +10,8 @@ tags:
 - Latin
 title: Orquesta De La Luz – De La Luz
 ---
+
+
 ""De La Luz'' is the debut album by the salsa band Orquesta de la Luz, released in 1990.
 
 The first song, Salsa caliente del Japón (Hot Salsa from Japan), spent 11 weeks at number one on Billboard's Latin chart.

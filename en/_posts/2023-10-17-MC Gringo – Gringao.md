@@ -10,6 +10,8 @@ tags:
 - Favela Funk
 title: MC Gringo – Gringão
 ---
+
+
 MC Gringo is a German-born musician and music producer.
 "Gringão" was released in 2007 by the German label Man Recordings.
 

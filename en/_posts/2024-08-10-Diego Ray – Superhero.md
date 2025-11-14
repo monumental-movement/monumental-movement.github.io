@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Diego Ray – Superhero
 ---
+
+
 Diego Ray is an Italian-American DJ and producer.
 
 "Superhero" is a house track released in 2005 by the Italian-based house/tribal house label Dee-P-erfect.

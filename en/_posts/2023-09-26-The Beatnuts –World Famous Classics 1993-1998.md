@@ -10,12 +10,13 @@ tags:
 - Compilation
 title: The Beatnuts –World Famous Classics 1993-1998
 ---
+
+
 "The Beatnuts – World Famous Classics 1993-1998" (World Famous Classics 1993-1998){: .button1} is a compilation album and best-of album by the hip-hop group Beatnuts.
 
 The Beatnuts, made up of producer and rappers Psycho Les and JuJu, gained attention in the 1990s with their unique production style and witty lyrics.
 
 This album features popular songs and influential tracks from The Beatnuts' early years.
-
 
 #### Tracklist```md
 1.World's Famous

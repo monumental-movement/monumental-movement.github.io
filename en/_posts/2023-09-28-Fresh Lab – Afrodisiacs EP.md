@@ -10,6 +10,8 @@ tags:
 - Triphop
 title: Fresh Lab – Afrodisiacs EP
 ---
+
+
 Afrodisiacs EP is an EP by the unit "Fresh Lab" by Jeff Flambeau & Stéphane Dupoup, released in 1995 on the French label "Yellow Productions".
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - Soul
 title: Prince And The New Power Generation – Gett Off
 ---
+
+
 The song, a single from the album Diamonds and Pearls, is known as a popular song for Prince's dance floor performances and live shows, and is one of the hits of his music career.
 
 "Gett Off" features a funky beat and groovy bassline, complemented by Prince's energetic vocal performance, making it an iconic part of Prince's music career and a song with special meaning to his fans and music lovers.

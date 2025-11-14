@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Francisco Feat. Adam Bourke – Esplanade 97
 ---
+
+
 Released in 2004 by Nature Records, an Italian label specializing in neo-electro and IDM sounds, "Esplanade 97" is a techno-electro track by Italian DJ/producers Francisco (Francesco de Bellis) and Adam Bourke.
 
 #### Tracklist```md

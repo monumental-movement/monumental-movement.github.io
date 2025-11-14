@@ -11,6 +11,8 @@ tags:
 - Classic
 title: Lightnin' Hopkins – Mojo Hand
 ---
+
+
 "Mojo Hand" is a classic blues song by famous American blues musician Lightnin' Hopkins. This song was first recorded in 1960 and has since become one of his signature songs.
 
 Distinctive guitar playing and passionate vocals characterize "Mojo Hand."

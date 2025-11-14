@@ -11,6 +11,8 @@ tags:
 - 90s
 title: MC Miker G – Big House (We"ve Got The Juice)
 ---
+
+
 Dutch rapper Lucien Witteveen, known as MC Miker G, was one of the first generation of Dutch rappers, active since 1984. In 1986, MC Miker G released "Holiday Rap" as MC Miker G. & DJ Sven, which became a worldwide hit.
 
 "Big House" is from the Italian label Mighty Quinn Records.

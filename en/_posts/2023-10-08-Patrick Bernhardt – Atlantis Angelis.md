@@ -10,8 +10,9 @@ tags:
 - Ambient
 title: Patrick Bernhardt – Atlantis Angelis
 ---
-"Atlantis Angelis" is a cassette tape of an album by Patrick Bernhardt released by the Canadian label "Imagine Records".
 
+
+"Atlantis Angelis" is a cassette tape of an album by Patrick Bernhardt released by the Canadian label "Imagine Records".
 
 #### Tracklist```md
 A. Le Chant De L'universel/The Song Of The Universal Light

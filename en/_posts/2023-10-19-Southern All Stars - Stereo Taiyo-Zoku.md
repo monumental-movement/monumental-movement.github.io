@@ -10,6 +10,8 @@ tags:
 - Pops
 title: Southern All Stars - Stereo Taiyo-Zoku
 ---
+
+
 "Stereo Taiyozoku" is the fourth original album by Southern All Stars. Original version from 1981.
 
 Participating musicians

@@ -13,6 +13,8 @@ tags:
 - Rare
 title: Ween – Pure Guava
 ---
+
+
 Released in 1992, "Pure Guava" is Ween's third studio album and major label debut. Contains Ween's masterpiece "Push th' Little Daisies".
 
 #### Tracklist```md

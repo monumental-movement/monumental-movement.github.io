@@ -10,6 +10,8 @@ tags:
 - Triphop
 title: Sukia – Gary Super Macho
 ---
+
+
 This is a trip hop song released by Mo Wax in 1997.
 
 Sukia is an American electronic music band based in Camarillo, California, USA, featuring former child actor Ross Harris, who appeared in shows such as CHiPS and Little House in the 1970s.

@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: James Brown – Let's Get Personal Repeat The Beat
 ---
+
+
 "James Brown – Let"s Get Personal Repeat The Beat" is
 This is a 7-inch record by James Blanc released in 1986.
 

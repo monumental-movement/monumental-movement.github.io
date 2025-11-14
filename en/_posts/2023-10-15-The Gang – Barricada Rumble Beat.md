@@ -10,6 +10,8 @@ tags:
 - Hardcore
 title: The Gang – Barricada Rumble Beat
 ---
+
+
 The Gang is an Italian punk band from Filottrano.
 
 The first and sixth songs on Side A feature UK singer-songwriter Billy Bragg on guitar and vocals.
@@ -45,3 +47,4 @@ B6. Not For Sale
 [Purchase on Mercari](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
 #### Youtube
+

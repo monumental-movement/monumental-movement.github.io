@@ -12,6 +12,8 @@ tags:
 - Ambient
 title: Various – Elektronische Musik -Interkontinental 5
 ---
+
+
 "Various – Elektronische Musik -Interkontinental 5" is
 This is a 3-disc compilation album released in 2006 by the German label "Traum Schallplatten".
 

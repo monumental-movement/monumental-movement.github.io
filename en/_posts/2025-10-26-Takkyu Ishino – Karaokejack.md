@@ -11,9 +11,10 @@ tags:
 - 00s
 title: Takkyu Ishino – Karaokejack
 ---
+
+
 Takkyu Ishino's solo album released in 2001. First limited paper jacket CD.
 The ninth song "Creatures Of The Night" was co-written with Beroshima.
-
 
 Takkyu Ishino - Karaoke Jack
 

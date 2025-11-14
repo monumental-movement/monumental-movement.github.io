@@ -11,6 +11,8 @@ tags:
 - Techno
 title: Soul Central Feat. Kathy Brown – Strings Of Life (Stronger On My Own)
 ---
+
+
 Soul Central remake of Derrick May's "Strings Of Life" released in 1987. Soul Central is a UK music duo consisting of Andy Ward and Paul Timothy. Featuring house vocalist Kathy Brown from South Carolina.
 
 The first track on the B-side is a remix by US disco and electronic DJ/producer Danny Krivit.

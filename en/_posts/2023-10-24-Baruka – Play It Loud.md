@@ -9,6 +9,8 @@ tags:
 - Techno
 title: Baruka – Play It Loud
 ---
+
+
 Baruka is one of the projects of Dutch techno DJ/producer Orlando Voorn. Other names include Balance, Frequency, Basic Bastard, Fix, Dope Dog, Boy, Stalker, and The Nighttripper.
 
 Orlando Voorn's music is characterized by a mix of various elements, including techno, drum'n'bass, ambient, hip-hop, and electro.

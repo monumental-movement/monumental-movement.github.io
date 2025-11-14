@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Rebecca – Blond Saurus
 ---
+
+
 "Blond Saurus", released in 1989, is Rebecca's seventh album, produced by François Carbocan (François K), and her last original album.
 
 #### Tracklist```md

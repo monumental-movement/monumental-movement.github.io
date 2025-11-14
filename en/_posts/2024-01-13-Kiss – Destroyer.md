@@ -11,10 +11,11 @@ tags:
 - 80s
 title: Kiss – Destroyer
 ---
+
+
 Kiss's Army of Hell is Kiss's fourth studio album, which includes their signature songs ""Detroit Rock City'', ""Scream of Madness'', ""Raijin'', and ""Beth''.
 
 The producer is Bob Ezrin, who has worked with Alice Cooper and others.
-
 
 #### Tracklist```md
 A1. Detroit Rock City（デトロイト・ロック・シティ ）

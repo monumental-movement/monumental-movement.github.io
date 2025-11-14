@@ -10,6 +10,8 @@ tags:
 - Euro House
 title: Black 4 White – So I Love You Baby
 ---
+
+
 "So I Love You Baby" is a song with a catchy melody, rhythm, and positive lyrics, and its pop and danceable sound will entertain listeners.
 
 "So I Love You Baby" is one of the most well-known songs by Black 4 White, and is a song that allows you to experience their musical style and charm.

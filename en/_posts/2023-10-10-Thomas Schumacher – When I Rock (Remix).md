@@ -10,6 +10,8 @@ tags:
 - Electro
 title: Thomas Schumacher – When I Rock (Remix)
 ---
+
+
 "When I Rock (Remix)"
 This is an EP by Thomas Schumacher released in 1998 on the UK label "Bush".
 

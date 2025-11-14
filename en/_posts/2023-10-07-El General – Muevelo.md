@@ -11,6 +11,8 @@ tags:
 - Ragga
 title: El General – Muevelo
 ---
+
+
 "Muévelo" is a song by Panamanian reggaeton artist El General. This song was released in 1991.
 
 "Muévelo" is known as one of the representative songs of reggaeton and is one of El General's most popular songs. The song's title, "Muévelo", means "to move" in Spanish, and as the name suggests, the song is full of rhythm and energy that excites the dance and party atmosphere.

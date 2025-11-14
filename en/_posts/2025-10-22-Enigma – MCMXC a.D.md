@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Enigma – MCMXC a.D
 ---
+
+
 Enigma is a German music project founded by Michael Cretu.
 
 "MCMXC a.D.", released in 1990, is Enigma's first studio album and masterpiece.

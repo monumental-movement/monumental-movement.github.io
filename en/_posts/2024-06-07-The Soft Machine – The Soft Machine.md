@@ -13,6 +13,8 @@ tags:
 - Rare
 title: The Soft Machine – The Soft Machine
 ---
+
+
 The Soft Machine is a British progressive jazz-rock band from Canterbury formed in mid-1966 by Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen, and Larry Nowlin. The band was named after William S. Burroughs' novel ""The Soft Machine''.
 
 Soft Machine became one of Britain's first psychedelic bands, later moving into progressive rock and jazz rock, and becoming an instrumental band in 1971.

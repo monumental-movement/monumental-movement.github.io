@@ -10,7 +10,9 @@ tags:
 - Electro
 title: Booka Shade – In White Rooms (Vinyl Two)
 ---
-"Booka Shade - In White Rooms (Vinyl Two)" is a song by German electronic duo Booka Shade.
+
+
+"Booka Shade - In White Rooms (Vinyl Two)" is a song by the German electronic duo Booka Shade.
 
 Released in 2005, this song was one of Booka Shade's signature works and became a major success in their career.
 

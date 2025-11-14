@@ -13,15 +13,15 @@ tags:
 title: '[Column] From the origins of NY House to the present ─ History, masterpieces,
   and changes in equipment'
 ---
+
+
 ## From the origins of NY House to the present ─ History, masterpieces, and changes in equipment
 
 Text: mmr｜Theme: The trajectory of NY house-soulful voices and urban grooves
 
-
 New York House was born out of the echoes of disco and the excitement of underground club culture, and eventually grew into a global dance music capital. In this article, we will trace the history of music from its origins to the present day by year, including historical background, representative masterpieces, and changes in equipment.
 
 ---
-
 
 ### Late 1970s: Wavering from disco
 - **Background**
@@ -132,19 +132,19 @@ New York House was born out of the echoes of disco and the excitement of undergr
 ### Representative Club (NYC)
 
 - **Paradise Garage (1977–1987)**
-  Larry Levan's legendary home. The starting point for NY House.  
+  Larry Levan's legendary home. The starting point for NY House.
 
 - **The Loft**
-  Hosted by David Mancuso. The origin of private party culture.  
+  Hosted by David Mancuso. The origin of private party culture.
 
 - **Sound Factory (1989–1995)**
-  Junior Vasquez is a resident. Symbolizing the golden age of vocal house in the 90s.  
+  Junior Vasquez is a resident. Symbolizing the golden age of vocal house in the 90s.
 
 - **Shelter**
-  Timmy Regisford is known for his spiritual play.  
+  Timmy Regisford is known for his spiritual play.
 
 - **Cielo/Output (2000s~2010s)**
-  Brooklyn new generation club. A place of deep and soulful heritage.  
+  Brooklyn new generation club. A place of deep and soulful heritage.
 
 ---
 

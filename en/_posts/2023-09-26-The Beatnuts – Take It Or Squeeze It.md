@@ -10,6 +10,8 @@ tags:
 - Rap
 title: The Beatnuts – Take It Or Squeeze It
 ---
+
+
 "The Beatnuts – Take It Or Squeeze It" is the fourth studio album by the hip hop group The Beatnuts. Released in 2001, this album showcases The Beatnuts' signature production style and witty lyrics.
 
 'Take It Or Squeeze It' is built around upbeat, funky tracks that incorporate various musical elements and samples. On this album, The Beatnuts develop their own unique sound, deftly incorporating elements of hip-hop, funk, and Latin music.

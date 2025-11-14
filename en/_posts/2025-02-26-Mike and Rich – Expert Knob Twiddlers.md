@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Mike & Rich – Expert Knob Twiddlers
 ---
+
+
 Mike & Rich's "Expert Knob Twiddlers" (1996) is a collaborative album by Richard D. James, aka Aphex Twin, and Mike Paradinas, aka µ-Ziq, two geniuses who led the electronic music scene in the 90s.
 
 The song was created over a few days during the 1994 World Cup and is said to have been born out of a drunken jam session. This background creates a light and free-spirited atmosphere in the music.

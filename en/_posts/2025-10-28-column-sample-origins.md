@@ -30,13 +30,13 @@ title: '[Column] The origins of sampling - 20 most sampled sound sources'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KYKPc-DooNo?si=dRFaHjTgOoRW21cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/md9veYbl7wI?si=X2sEcu_lKxFEpBAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-### 序章：音のDNAをたどる
 
 
-文：mmr｜テーマ：**WhoSampled**などのデータをもとに「最もサンプリングされた音源20選」を取り上げ、それぞれがどのように音楽史に刻まれてきたのかを探る
+### Prologue: Tracing the DNA of sound
 
+Text: mmr｜Theme: Based on data such as **WhoSampled**, we will highlight the ""20 most sampled sound sources'' and explore how each has been etched into music history.
 
-サンプリングとは、音楽史の中で「引用」と「再構築」を最も直接的に体現する技術だ。70年代後半のヒップホップ黎明期から今日のエレクトロニカまで、ひとつのドラムブレイク、ベースライン、叫び声が何百、何千もの曲に生まれ変わってきた。  
+Sampling is a technology that most directly embodies ""quotation'' and ""reconstruction'' in the history of music. From the early days of hip-hop in the late '70s to today's electronica, a single drum break, bassline, or scream has been transformed into hundreds or thousands of songs.
 
 ---
 
@@ -45,7 +45,7 @@ title: '[Column] The origins of sampling - 20 most sampled sound sources'
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px; 
+padding: 10px;
 }
 th {
 background-color: #111;
@@ -53,157 +53,136 @@ color: #fff;
 }
 </style>
 
-
-#### 1. The Winstons – “Amen, Brother” (1969)
-通称「**Amen Break**」。6秒のドラムソロは、ヒップホップ、ジャングル、ドラムンベース、ハードコア・テクノなど、無数のジャンルを生み出した。N.W.A.やPublic EnemyからAphex Twin、The Prodigyまで、あらゆるプロデューサーがこのブレイクを切り刻んだ。  
-元ドラマーのGregory Colemanは報われぬまま生涯を閉じたが、そのスネアとハイハットの間に宿る「グルーヴの魂」は今なお鳴り続ける。
-
+#### 1. The Winstons – "Amen, Brother" (1969)
+Commonly known as "**Amen Break**". The six-second drum solo spawned countless genres, including hip-hop, jungle, drum and bass, and hardcore techno. Producers everywhere from N.W.A. and Public Enemy to Aphex Twin and The Prodigy carved out this break.  
+Former drummer Gregory Coleman passed away without a reward, but the ""spirit of the groove'' that dwells between the snare and the hi-hat continues to resonate.
 
 ---
 
-#### 2. Lyn Collins – “Think (About It)” (1972)
-プロデュースはJames Brown。女性の力強いシャウトと「Woo! Yeah!」ブレイクが、ヒップホップの黄金時代を象徴する。Rob Base & DJ E-Z Rockの「It Takes Two」をはじめ、Snoop Dogg、Beyoncéまでもが引用。  
-フェミニズム的強さとファンクの躍動を兼ね備え、クラブのフロアに「声の連鎖反応」を引き起こした。
-
-
----
-
-#### 3. The Clash – “Straight to Hell” (1982)
-M.I.A.の「Paper Planes」で再浮上した哀愁のギターとパーカッション。移民、労働、孤独をテーマにした歌詞が、21世紀の政治的ヒップホップに呼応する。  
-この曲のサンプリングは単なる音素材ではなく、「反抗の遺伝子」として継承されている。
-
+#### 2. Lyn Collins – "Think (About It)" (1972)
+Produced by James Brown. A woman's powerful shout and "Woo! Yeah!" break symbolize the golden age of hip-hop. Quotes include Rob Base & DJ E-Z Rock's "It Takes Two," as well as Snoop Dogg and Beyoncé.  
+Combining the strength of feminism and the dynamism of funk, it caused a "chain reaction of voices" on the club floor.
 
 ---
 
-#### 4. Chic – “Good Times” (1979)
-Bernard EdwardsのベースラインはSugarhill Gangの「Rapper’s Delight」で一躍有名に。ディスコとヒップホップを繋いだ“橋”として、音楽史的な重要性は計り知れない。  
-後世のDaft PunkやNile Rodgers自身によるセルフサンプリングにも通じる「再帰的ファンク」。
-
-
----
-
-#### 5. James Brown – “Funky Drummer” (1970)
-Clyde Stubblefieldのドラムブレイクは、サンプリングの“聖杯”。Public Enemy、LL Cool J、Prince、Beastie Boys――そのスネアが鳴るたびに時代が更新された。  
-ヒップホップ以前からヒップホップ以降まで、最も多くの作品に命を吹き込んだ「リズムの原子核」。
-
+#### 3. The Clash – "Straight to Hell" (1982)
+The melancholy guitar and percussion resurface in M.I.A.'s "Paper Planes." Lyrics about immigration, labor, and loneliness echo 21st century political hip-hop.  
+The sampling of this song is not just a sound material, but has been passed down as a "gene of rebellion."
 
 ---
 
-#### 6. Curtis Mayfield – “Move On Up” (1970)
-Kanye Westの「Touch the Sky」で若い世代に再発見された高揚感の象徴。希望と抵抗のスピリットを合わせ持ち、ソウルの精神をヒップホップに移植した。  
-Curtisのファルセットは「進化するブラック・ミュージック」の永遠のメッセージだ。
-
-
----
-
-#### 7. Bob James – “Take Me to the Mardi Gras” (1975)
-ドラムのカウベルとベルサウンドが特徴的で、Run-D.M.C.、Beastie Boys、Eric B. & Rakimらに愛された。  
-Bob Jamesはスムースジャズの象徴でもあるが、この曲が生んだ「ハードなブレイク」は、90年代のサンプリング文化の中で神格化された。
-
+#### 4. Chic – "Good Times" (1979)
+Bernard Edwards' bass line became famous on Sugarhill Gang's "Rapper's Delight." As the "bridge" that connected disco and hip-hop, its importance in music history is immeasurable.  
+"Recursive funk" that is similar to later Daft Punk and self-sampling by Nile Rodgers himself.
 
 ---
 
-#### 8. Incredible Bongo Band – “Apache” (1973)
-ブロンクスのブロックパーティーでKool Hercが2枚使いした伝説のブレイク。ヒップホップの原点と呼ばれる理由がここにある。  
-今でもダンサーやターンテーブリストの“聖典”として生き続ける。
-
-
----
-
-#### 9. Melvin Bliss – “Synthetic Substitution” (1973)
-ヒップホップの骨格を形成したもう一つの名ブレイク。Naughty by Nature、J Dilla、De La Soulらが多用。  
-メロディは控えめながら、スネアとキックの“間”が黄金比を成す。
-
+#### 5. James Brown – "Funky Drummer" (1970)
+Clyde Stubblefield's drum break is the holy grail of sampling. Public Enemy, LL Cool J, Prince, Beastie Boys -- every time that snare hit, the era was renewed.  
+The ""nucleus of rhythm'' has breathed life into the greatest number of works, from before hip-hop to after hip-hop.
 
 ---
 
-#### 10. The Honey Drippers – “Impeach the President” (1973)
-政治的メッセージとグルーヴが共存するドラムブレイク。Nas、The Notorious B.I.G.、J. Coleまで引用。  
-タイトルが皮肉にも時代を超えて響くのは、リズムに刻まれた「抵抗の美学」が普遍だからだ。
-
-
----
-
-#### 11. The Charmels – “As Long As I’ve Got You” (1967)
-Wu-Tang Clanの「C.R.E.A.M.」に使用されたメロディの原曲。甘美なストリングスとメランコリックなボーカルが、ストリートの詩情を支えた。  
-RZAの「陰影のサンプリング哲学」を象徴する名素材。
-
+#### 6. Curtis Mayfield – "Move On Up" (1970)
+A symbol of elation rediscovered by a younger generation with Kanye West's "Touch the Sky." Combining the spirit of hope and resistance, he transferred the spirit of soul to hip-hop.  
+Curtis' falsetto is an eternal message of "evolving black music."
 
 ---
 
-#### 12. Joe Tex – “Papa Was Too” (1966)
-James Brown的なファンクとコメディ的リズムを融合。Fatboy SlimやBeastie Boysが引用し、ファンクの「語り口」をヒップホップに変換する鍵となった。
-
-
----
-
-#### 13. The Isley Brothers – “Between the Sheets” (1983)
-Notorious B.I.G.「Big Poppa」、Jay-Z「Ignorant Shit」などで有名。セクシーかつ哀愁漂うメロウネスが90年代R&Bの源流に。  
-滑らかなグルーヴは「サンプリングされる前提で書かれたような」完成度を持つ。
-
+#### 7. Bob James – "Take Me to the Mardi Gras" (1975)
+The cowbell and bell sound of the drums was distinctive, and it was loved by Run-D.M.C., Beastie Boys, Eric B. & Rakim, and others.  
+Bob James is a symbol of smooth jazz, and the "hard break" that this song produced was deified in the sampling culture of the 1990s.
 
 ---
 
-#### 14. Mountain – “Long Red” (1972)
-ライブ中の「You know what I mean!」という掛け声がPublic EnemyやDe La Soulに多用された。  
-単なるロック曲が、声のサンプリングによってヒップホップの“パーツ”となる好例。
-
-
----
-
-#### 15. The Emotions – “Blind Alley” (1972)
-Big Daddy Kane「Ain’t No Half-Steppin」やMary J. Bligeで知られる。スウィートソウルの温もりを、ビートの硬質さで再構築する――この対比が黄金時代のエッセンスだった。
-
+#### 8. Incredible Bongo Band – "Apache" (1973)
+A legendary break that Kool Herc used in two copies at a block party in the Bronx. This is why it is called the origin of hip-hop.  
+It continues to live on as a "sacred scripture" for dancers and turntablists.
 
 ---
 
-#### 16. Edwin Birdsong – “Cola Bottle Baby” (1979)
-Daft Punk「Harder, Better, Faster, Stronger」に再構築され、21世紀のエレクトロ・ポップの礎に。  
-70年代の実験的ファンクが、テクノロジーの時代に生まれ変わった瞬間。
-
-
----
-
-#### 17. Dennis Coffey – “Scorpio” (1971)
-インスト・ファンクの名曲で、LL Cool JやPublic Enemyがブレイクを引用。エレクトリックギターの歪みが、都市のざらつきを象徴する。
-
+#### 9. Melvin Bliss – "Synthetic Substitution" (1973)
+Another famous break that formed the backbone of hip-hop. Frequently used by Naughty by Nature, J Dilla, De La Soul, and others.  
+Although the melody is modest, the "space" between the snare and kick forms a golden ratio.
 
 ---
 
-#### 18. Barry White – “I’m Gonna Love You Just a Little More Baby” (1973)
-サンプリング界では「愛の象徴」。The DreamやKanye Westが引用し、ソウルと欲望の境界を行き来する。  
-甘美なストリングスの“持続音”が、ヒップホップにラグジュアリーな質感を与えた。
-
-
----
-
-#### 19. Tom Scott – “Today” (1973)
-Pete Rock & C.L. Smooth「They Reminisce Over You」で使用。悲しみと記憶をテーマにしたこの曲は、サンプリングが“追悼”の芸術になり得ることを示した。
-
+#### 10. The Honey Drippers – "Impeach the President" (1973)
+A drum break where political messages and grooves coexist. Quoted by Nas, The Notorious B.I.G., and even J. Cole.  
+The reason why the title ironically resonates across time is because the ""aesthetics of resistance'' engraved in the rhythm is universal.
 
 ---
 
-#### 20. The Soul Searchers – “Ashley’s Roachclip” (1974)
-The Roots、Eric B. & Rakim、Arrested Developmentなどが使用。ドラムブレイクの透明感と密度が、90年代の「温かいサンプリング美学」に受け継がれた。
-
+#### 11. The Charmels – "As Long As I"ve Got You" (1967)
+The original melody used in Wu-Tang Clan's "C.R.E.A.M." Sweet strings and melancholic vocals supported the poetry of the street.  
+A famous material that symbolizes RZA's "shade sampling philosophy".
 
 ---
 
-### 年表：サンプリングの進化史
+#### 12. Joe Tex – "Papa Was Too" (1966)
+A fusion of James Brown-style funk and comedic rhythms. Quoted by Fatboy Slim and the Beastie Boys, it became the key to translating the "talk" of funk into hip-hop.
 
-| 年代 | 出来事 |
+---
+
+#### 13. The Isley Brothers – "Between the Sheets" (1983)
+Famous for songs such as Notorious B.I.G.'s ""Big Poppa'' and Jay-Z's ""Ignorant Shit.'' Sexy and melancholy mellowness is the origin of 90's R&B.  
+The smooth groove has a level of perfection that feels like it was written with the premise of being sampled.
+
+---
+
+#### 14. Mountain – "Long Red" (1972)
+The chant "You know what I mean!" was often used by Public Enemy and De La Soul during live performances.  
+This is a great example of how a simple rock song becomes a hip-hop "part" through vocal sampling.
+
+---
+
+#### 15. The Emotions – "Blind Alley" (1972)
+Known for Big Daddy Kane's ""Ain't No Half-Steppin'' and Mary J. Blige. Reconstructing the warmth of sweet soul with the hardness of the beat - this contrast was the essence of the Golden Age.
+
+---
+
+#### 16. Edwin Birdsong – "Cola Bottle Baby" (1979)
+Reconstructed into Daft Punk's ""Harder, Better, Faster, Stronger,'' it became the cornerstone of 21st century electro-pop.  
+The moment when the experimental funk of the 70s was reborn in the age of technology.
+
+---
+
+#### 17. Dennis Coffey – "Scorpio" (1971)
+A masterpiece of instrumental funk, LL Cool J and Public Enemy cited it as a breakout song. The distortion of the electric guitar symbolizes the roughness of the city.
+
+---
+
+#### 18. Barry White – "I"m Gonna Love You Just a Little More Baby" (1973)
+In the sampling world, it is a symbol of love. Quoted by The Dream and Kanye West, it straddles the line between soul and desire.  
+The ""sustained sound'' of sweet strings gave hip-hop a luxurious feel.
+
+---
+
+#### 19. Tom Scott – "Today" (1973)
+Used on Pete Rock & C.L. Smooth's "They Reminisce Over You". This song, which has themes of sadness and memory, showed that sampling can be an art of "memorial."
+
+---
+
+#### 20. The Soul Searchers – "Ashley"s Roachclip" (1974)
+Used by The Roots, Eric B. & Rakim, Arrested Development, and more. The transparency and density of the drum break was inherited by the ""warm sampling aesthetic'' of the 1990s.
+
+---
+
+### Chronology: Evolutionary history of sampling
+
+| Years | Events |
 |------|---------|
-| 1960s | ソウル／ファンクの録音技術が発展。ドラムブレイク文化の萌芽。 |
-| 1973 | Kool Hercがブロックパーティで「Apache」を二枚使い。ヒップホップ誕生。 |
-| 1984 | Run-D.M.C.が初の商業的サンプリング・ヒットを達成。 |
-| 1989 | Public Enemy『Fear of a Black Planet』で多重サンプリング技法が確立。 |
-| 1994 | Wu-Tang Clan、RZAの“ノイズ・サンプリング”が新潮流を生む。 |
-| 2000s | Daft Punk、Kanye Westがソウルサンプルをポップ化。 |
-| 2020s | AIサンプリングと著作権問題の新時代へ。 |
+| 1960s | Soul/funk recording technology develops. The budding drum break culture. |
+| 1973 | Kool Herc plays two copies of "Apache" at a block party. Birth of hip hop. |
+| 1984 | Run-D.M.C. achieves first commercial sampling hit. |
+| 1989 | Public Enemy's ""Fear of a Black Planet'' establishes multiple sampling techniques. |
+| 1994 | Wu-Tang Clan, RZA's "noise sampling" creates a new trend. |
+| 2000s | Daft Punk and Kanye West turn soul samples into pop. |
+| 2020s | Towards a new era of AI sampling and copyright issues. |
 
 ---
 
-### 図：サンプリングの連鎖
+### Diagram: Sampling chain
 
 <div class="mermaid">
 
@@ -218,18 +197,17 @@ E --> F["2020s AI Sampling Era"]
 
 ---
 
+### Conclusion: Rhythm is forever cyclical
 
-### 結語：リズムは永遠に循環する
-
-サンプリングとは、他者の時間を借りて新たな時代を語る行為だ。
-その背後には、名もなきミュージシャンたちの呼吸、機材のノイズ、そして文化の継承がある。
-「同じ音が何度も蘇る」ことこそ、ポップミュージックの進化の証であり、過去と未来を繋ぐ最も人間的なテクノロジーなのだ。
+Sampling is the act of borrowing someone else's time to talk about a new era.
+Behind this is the breathing of nameless musicians, the noise of equipment, and the inheritance of culture.
+""The same sound coming back again and again'' is proof of the evolution of pop music, and is the most humane technology that connects the past and the future.
 
 ---
 
-### 参考
+### Reference
 
-- [WhoSampled.com](WhoSampled.com) 
-- [The Breakbeat Bible](https://amzn.to/3J9CXma) 
+- [WhoSampled.com](WhoSampled.com)
+- [The Breakbeat Bible](https://amzn.to/3J9CXma)
 
 ---

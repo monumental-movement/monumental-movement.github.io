@@ -10,6 +10,8 @@ tags:
 - Acid
 title: Believe In The Frequency Power
 ---
+
+
 "Believe In The Frequency Power" is a compilation album released by the UK label "North South" in 1994.
 
 #### Tracklist```md

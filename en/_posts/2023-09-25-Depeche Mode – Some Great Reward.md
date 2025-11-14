@@ -10,6 +10,8 @@ tags:
 - Post Punk
 title: Depeche Mode – Some Great Reward
 ---
+
+
 "Some Great Reward" is a 1984 album by Depeche Mode and their fourth studio album. This album is one of the seminal works in the band's career, showing the evolution and maturation of their sound.
 
 The album includes Depeche Mode's most famous songs, including "People Are People" and "Master and Servant," which were released as singles.

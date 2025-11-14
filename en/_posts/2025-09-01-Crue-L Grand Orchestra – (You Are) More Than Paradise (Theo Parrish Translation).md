@@ -12,6 +12,8 @@ tags:
 - 10s
 title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation)
 ---
+
+
 A remix of Crue-L Grand Orchestra's "(You Are) More Than Paradise" by Kenji Takimi and Tomoki Kanda.
 
 Released in 2010 as the Crue-L Classics 12-inch series.
@@ -19,7 +21,6 @@ Released in 2010 as the Crue-L Classics 12-inch series.
 A1 & AA is a remix by Detroit-based DJ/record producer Theo Parrish.
 
 A2 is a remix by Freaks (Justin Harris & Luke Solomon), an electronic band from London.
-
 
 #### Tracklist```md
 A1. (You Are) More Than Paradise (Theo Parrish Translation)

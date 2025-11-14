@@ -10,6 +10,8 @@ tags:
 - Pops
 title: The Communards – Red
 ---
+
+
 "Red" is an album by the British music duo The Communards. This album was released in 1987. The Communards are a band formed by Jimmy Somerville and Richard Coles, known for their music that incorporates elements of dance-pop and synth-pop.
 
 "Red" is The Communards' debut album and is widely regarded as one of their most successful works. The album features songs with emotional vocals and danceable beats.

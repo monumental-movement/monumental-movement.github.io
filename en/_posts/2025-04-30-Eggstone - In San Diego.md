@@ -11,10 +11,11 @@ tags:
 - 90s
 title: Eggstone - In San Diego
 ---
+
+
 Eggstone is a Swedish indie pop band formed in 1986. He is said to be the godfather of Swedish pop.
 
 Released in 1992 on the SNAP label, this album was Eggstone's debut album and included the hit song Can't Come Close Enough. Tore Johansson, who worked on The Cardigans, participated as a producer, and reel-to-reel was used for recording.
-
 
 #### Tracklist```md
 1. Ooh Ooh Ma Ma Mine

@@ -10,6 +10,8 @@ tags:
 - Latin
 title: Toco – Guarapiranga
 ---
+
+
 "Toco – Guarapiranga" is a song/EP work by Toco (Tomaz di Cunto), a singer-songwriter based in Florence, Italy.
 
 The ""Dub'' version of the EP (Gerardo Frisina Dub) is a club/dancefloor mix with an emphasis on rhythm and spatial effects, with a tempo of around 120 bpm.

@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Original Caste – Mr. Monday / Sweet Chicago
 ---
+
+
 The Original Caste is a Canadian folk group. Formed in Calgary, Alberta in 1966, they were known as The North Country Singers.
 
 #### Tracklist```md

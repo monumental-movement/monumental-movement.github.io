@@ -10,6 +10,8 @@ tags:
 - Leftfield
 title: Cursor Miner – Remote Control
 ---
+
+
 Cursor Miner is a project by Rob Tubb (real name Rob Tubb).
 
 Cursor Miner is a mix of pure dancefloor anthems, twisted breakbeats, insane experimentation, pop flair, and social commentary.

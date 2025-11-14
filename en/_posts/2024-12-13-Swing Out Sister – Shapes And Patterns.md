@@ -13,6 +13,8 @@ tags:
 - 90s
 title: Swing Out Sister – Shapes And Patterns
 ---
+
+
 "Shapes And Patterns" is Swing Out Sister's fifth studio album, released in 1997.
 
 The song "Now You're Not Here" was written as the theme song for the drama "Midday Moon" and became a big hit in Japan. This album features Gota Yashiki as the drummer.

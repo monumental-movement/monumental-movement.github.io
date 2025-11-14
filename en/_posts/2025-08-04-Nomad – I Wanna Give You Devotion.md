@@ -10,6 +10,8 @@ tags:
 - 90s
 title: Nomad – (I Wanna Give You) Devotion
 ---
+
+
 Nomad is a UK house duo from the 90s.
 
 "(I Wanna Give You) Devotion", released by Capitol Records in 1991, is Nomad's signature song that became a worldwide hit. It is considered one of the anthems of 90s dance music, and is also known as the first composition by famous UK producer Steve Mac.

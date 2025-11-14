@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Sash! – La Primavera
 ---
+
+
 Sash! (Sash!) is a German DJ and production team consisting of Ralf Kappmeier, Karl Xander, Thomas "Alisson" Lüdke, and Sascha Lappessen.
 
 "La Primavera" features Patrizia Salvatore and was released in 1998 on Sash! A trance track released as the lead single from their second album "Life Goes On".

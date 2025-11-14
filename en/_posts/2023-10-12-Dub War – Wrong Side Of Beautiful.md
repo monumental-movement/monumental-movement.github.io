@@ -10,6 +10,8 @@ tags:
 - Reggae
 title: Dub War – Wrong Side Of Beautiful
 ---
+
+
 Dub War is a mixture band active in the 1990s that mixes various music styles such as heavy metal, reggae, punk, and dub. The band's unique style, which combines a powerful rock sound and catchy melody with reggae rhythms and punk elements, and vocalist Benji Webbe's distinctive singing voice and expressiveness made a strong impression on the band's music.
 
 Wrong Side Of Beautiful is Dub War's second album and is considered one of the band's most widely recognized works.

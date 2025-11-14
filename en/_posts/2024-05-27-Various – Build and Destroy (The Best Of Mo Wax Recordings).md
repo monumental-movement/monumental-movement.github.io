@@ -12,6 +12,8 @@ tags:
 - 90s
 title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 ---
+
+
 A two-disc compilation album released in 1996 by MO WAX, a legendary label representing the 90s.
 
 #### Tracklist```md

@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Samim Feat. Big Bully – The Lick
 ---
+
+
 "The Lick" is a Minimal/Tech House song released by the Get Physical label in 2008.
 
 A&B1 is a remix by Derrick Carter, a representative of 90's Chicago house.

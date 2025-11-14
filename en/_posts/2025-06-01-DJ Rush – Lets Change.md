@@ -11,6 +11,8 @@ tags:
 - 00s
 title: DJ Rush – Let"s Change
 ---
+
+
 Isaiah Major, also known as DJ Rush, is a techno and house DJ and producer from Chicago and based in Germany. He also works under the names Major Rush and Russian Roulette.
 
 "Let's Change" is a techno track released in 2003 by former Spiral Tribe member Charlie Hall's label Pro-Jex.

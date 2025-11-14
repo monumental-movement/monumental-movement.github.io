@@ -11,6 +11,8 @@ tags:
 - 90s
 title: New Life – Got 2 B Free
 ---
+
+
 New Life is a project in which Ann-Marie Smith, known as the vocalist of Italian house/Eurodance act 49ers, participates.
 
 A is a remix by Jonny L, a British drum & bass producer and former member of the garage duo True Steppers.

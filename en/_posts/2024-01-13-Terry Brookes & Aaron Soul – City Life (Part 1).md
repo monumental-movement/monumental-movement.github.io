@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Terry Brookes & Aaron Soul – City Life (Part 1)
 ---
+
+
 City Life (Part 1) is a house track released in 2005 by Amsterdam-based Dutch record label Rush Hour, founded in 1999 by Christiaan Macdonald and Antal Heitlager.
 
 Side A is a remix by Carl Craig.

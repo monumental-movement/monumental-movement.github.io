@@ -11,6 +11,8 @@ tags:
 - Rare
 title: So-Low – The Hourglass Pulse
 ---
+
+
 'So-Low – The Hourglass/Pulse' was released in 1992 on Essex-based progressive house label X-Gate Records.
 
 #### Tracklist```md

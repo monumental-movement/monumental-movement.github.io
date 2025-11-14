@@ -12,6 +12,8 @@ tags:
 - 90s
 title: E-Rotic – Willy Use A Billy... Boy
 ---
+
+
 E-Rotic is a German techno-pop dance unit that has been active since 1994. The founding members were German-born vocalist Lyane Leigh and American rapper Richard Michael Smith, known as Raz-Ma-Taz.
 
 The producer is David Brandes, who has produced many artists such as Bad Boys Blue, Chris Norman, Lemon Ice, and Vanilla Ninja.

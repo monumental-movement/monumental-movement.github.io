@@ -11,6 +11,8 @@ tags:
 - 00s
 title: Kasabian – Kasabian
 ---
+
+
 The first album by Kasabian, an alternative/electro rock band from Leicester, England, released in 2004. Kasabian is characterized by a sound that combines rock electronica.
 
 Kasabian is considered one of the most active rock bands to emerge from Britain in the 21st century.

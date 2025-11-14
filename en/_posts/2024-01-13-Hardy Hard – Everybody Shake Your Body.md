@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Hardy Hard – Everybody Shake Your Body
 ---
+
+
 Hardy Hard, real name Kay Lippert, is a German techno/electro musician and DJ.
 
 Born September 10, 1974 in Dresden. Moved to Berlin in 1997.

@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Dave Hammond – Africa
 ---
+
+
 Dave Hammond is a Eurobeat project from the prestigious Italo disco label Time Records.
 
 "Africa" ​​is a Eurobeat track that was released in 1993 and became a huge hit. Produced by Giacomo Maiolini & Laurent Newfield.

@@ -11,6 +11,8 @@ tags:
 - Techno
 title: DK7 – Where"s The Fun
 ---
+
+
 Mark O'Sullivan and Jesper Dahlbach's collaboration is a delicate electro-house track with New Romantic influences.
 
 It also has both electro and techno aspects, and like DK7's previous 12-inch, packs in a lot of variety.

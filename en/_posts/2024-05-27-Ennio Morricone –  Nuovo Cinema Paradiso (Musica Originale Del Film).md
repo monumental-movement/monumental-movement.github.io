@@ -13,6 +13,8 @@ tags:
 - 90s
 title: Ennio Morricone – Nuovo Cinema Paradiso (Musica Originale Del Film)
 ---
+
+
 Soundtrack for the 1989 film ""New Cinema Paradise'' composed by Italian composer Ennio Morricone. The CD that made Ennio Morricone famous.
 
 Ennio Morricone won the Academy Award for Best Original Score at the 88th Academy Awards for his score for the film "The Hateful Eight," written and directed by Quentin Tarantino.

@@ -10,6 +10,8 @@ tags:
 - 00s
 title: VA – Synchronicity 2nd Session
 ---
+
+
 A two-disc compilation album featuring Japanese and American hip-hop artists, released in 2000 by the Japanese hip-hop label Future Shock.
 
 #### Tracklist```md

@@ -10,7 +10,9 @@ tags:
 - Alternative Rock
 title: Cactus World News – Live
 ---
-This album is a live recording of a concert held at The Whiskey in Los Angeles on August 20, 1986. 
+
+
+This album is a live recording of a concert held at The Whiskey in Los Angeles on August 20, 1986.
 
 The third song on the B-side, "America," is a cover of a Simon & Garfunkel song.
 

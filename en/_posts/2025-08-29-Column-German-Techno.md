@@ -19,182 +19,178 @@ title: '[Column] Genealogy and present of German Techno - Aesthetics of sound sp
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQRI3b2SX8c?si=06ngyujErrkR6Kfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-## ベルリン発、世界を震わせる無機質な鼓動。
 
 
-文：mmr｜テーマ：反復と静寂が織りなす、ドイツ・テクノの美学。
+## An inorganic heartbeat that shakes the world from Berlin.
 
-<hr>
-
-### ジャーマンテクノとは？
-
-「German Techno（ドイツ テクノ）」は、1980年代後半から1990年代初頭にかけて急速に台頭し、現在も世界のクラブ・シーンに大きな影響を与え続けています。特にベルリンやフランクフルトといった都市は、テクノ発展の象徴的な拠点として知られ、クラブカルチャーやレーベルの活動を通じて、独自の美学を築き上げました。
+Text: mmr｜Theme: The aesthetics of German techno, woven by repetition and silence.
 
 <hr>
 
-### 歴史的背景：ベルリンの壁崩壊とテクノの爆発
+### What is German techno?
 
-1989年のベルリンの壁崩壊は、ドイツにおけるテクノ発展の転機でした。東西の文化が融合する中で、廃墟や倉庫を活用したパーティが急増し、ベルリンは「自由の音」を象徴するテクノの聖地となりました。
-
-- **Tresor（トレゾア）**：1991年に設立されたクラブ兼レーベル。デトロイト・テクノとベルリン独自の硬質なサウンドを橋渡しした存在。
-
-- **Harthouse / Eye Q（フランクフルト）**：Sven Väth が関わったレーベル群。トランスやテクノの進化を牽引。
+"German Techno" rose rapidly from the late 1980s to the early 1990s, and continues to have a major influence on the world club scene. Cities such as Berlin and Frankfurt in particular are known as symbolic hubs for the development of techno, creating their own unique aesthetics through club culture and label activities.
 
 <hr>
 
-### ジャーマン・テクノの特徴
+### Historical background: the fall of the Berlin Wall and the explosion of techno
 
-- **ミニマリズムと反復性**
+The fall of the Berlin Wall in 1989 was a turning point in the development of techno in Germany. With the fusion of Eastern and Western cultures, parties utilizing abandoned buildings and warehouses rapidly increased, and Berlin became a techno mecca symbolizing the "sound of freedom."
 
-ドイツのテクノは、デトロイト・テクノのソウルフルな要素に比べ、より機械的で直線的なリズムが強調されました。
+- **Tresor**: A club and label established in 1991. They bridged the gap between Detroit techno and Berlin's unique hard sound.
 
-- **インダストリアルの影響**
-
-Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的な無機質さや冷徹さをサウンドに反映。
-
-- **クラブカルチャーとの一体化**
-
-ベルリンの「Berghain」「Tresor」に象徴されるように、クラブ空間とサウンドが不可分。音楽は単なる聴覚体験ではなく、都市文化やライフスタイルの一部として機能しました。
+- **Harthouse / Eye Q (Frankfurt)**: A group of labels that Sven Väth was involved with. Leading the evolution of trance and techno.
 
 <hr>
 
-### 代表的アーティスト・レーベル
+### Characteristics of German Techno
 
-- **Sven Väth（フランクフルト）**：ドイツ・テクノの象徴的存在。レーベル Cocoon を通じてシーンを国際化。
+- **Minimalism and repeatability**
 
-- **Ellen Allien（ベルリン）**：BPitch Control 創設者。アンダーグラウンドと実験性を融合。
+German techno emphasized more mechanical and linear rhythms compared to the soulful elements of Detroit techno.
 
-- **Paul Kalkbrenner**：映画『Berlin Calling』で広く知られる。メロディックかつ叙情的なテクノ。
+- **Industrial influence**
 
-- **Johannes Heil**：硬質でダークなドイツ・テクノを追求するプロデューサー。
+Inheriting the tradition of electronic music represented by Kraftwerk, the sound reflects the inorganicity and coldness of an industrial city.
 
-- **Len Faki, Ben Klock, Marcel Dettmann**：Berghain のレジデントとして世界的評価を獲得。
+- **Integration with club culture**
 
-<hr>
-
-### 年代別サウンドの特徴
-
-#### 1980年代後半（黎明期）
-
-**背景**：ベルリンの壁崩壊直前〜直後。デトロイト・テクノやシカゴ・ハウスの影響がドイツに流入。
-
-**サウンドの特徴**：
-
-- エレクトロニックなビートを基盤にした粗削りな実験性
-
-- Kraftwerk やインダストリアルからの影響が強く、冷たい質感
-
-- シンセサイザーによる反復的リフが多い
-
-**代表的動き**：フランクフルトのクラブ「Dorian Gray」、ベルリンのアンダーグラウンドパーティがシーンを支える。
-
-
----
-
-#### 1990年代前半（拡大期）
-
-**背景**：ベルリンの壁崩壊後、空き倉庫や工場跡地でのレイヴ文化が爆発。クラブ「Tresor」オープン（1991）。
-
-**サウンドの特徴**：
-
-- デトロイト・テクノの影響を受けつつ、より硬質で直線的
-
-- BPMは速め、インダストリアル寄りの無機質な響き
-
-- 初期トランスやハードテクノが混在
-
-**代表的アーティスト**：Sven Väth、Hardfloor、Westbam、Maurizio（Basic Channel）。
-
-
----
-
-#### 1990年代後半（洗練と細分化）
-
-**背景**：ドイツ発のレーベル（Tresor、Kanzleramt、Harthouse）が国際的評価を獲得。
-
-**サウンドの特徴**：
-
-- ミニマルテクノの発展（単純化された構造、反復性を強調）
-
-- ハードテクノ、アシッドテクノの台頭
-
-- デトロイトの「ソウルフル」要素が薄れ、冷徹で機械的な音に
-
-**代表的アーティスト**：Chris Liebing、Johannes Heil、Heiko Laux。
-
-
----
-
-#### 2000年代（国際化と多様化）
-
-**背景**：ベルリンが世界的クラブ都市に。クラブ「Berghain」オープン（2004）。
-
-**サウンドの特徴**：
-
-- ハードミニマル／インダストリアル寄りが主流に
-
-- グルーヴ重視のテクノ・ハウス（Tech House）との融合
-
-- 一部ではメロディックな要素も復活（Paul Kalkbrenner など）
-
-**代表的アーティスト**：Len Faki、Monika Kruse、Ellen Allien、Zombie Nation。
-
-
----
-
-#### 2010年代（グローバルシーンの中心へ）
-
-**背景**：EDMブームの裏で、テクノはアンダーグラウンドの象徴として逆に存在感を増す。
-
-**サウンドの特徴**：
-
-- Berghainサウンド：重厚なキック、ダークで無機質な空気感
-
-- インダストリアルやEBM要素の再解釈
-
-- メロディック・テクノやディープ・テクノが世界的に支持を獲得
-
-**代表的アーティスト**：Ben Klock、Marcel Dettmann、Nina Kraviz（ベルリンで活動）、Stephan Bodzin。
-
-
----
-
-#### 2020年代（現在進行形）
-
-**背景**：ストリーミング時代、パンデミックを経てクラブ文化が再評価。
-
-**サウンドの特徴**：
-
-- よりハードかつインダストリアルな方向性（Phase Fatale, Kobosil など）
-
-- メロディック・テクノがフェスや配信で人気（Tale Of Us 系統）
-
-- ハードトランスや90年代的サウンドの再解釈も盛ん
-
-**傾向**：過去の「ジャーマン・テクノ」らしい冷徹さを継承しつつも、感情表現や映像的演出が加わり進化。
-
-年代ごとに聴き比べると、**「インダストリアルで冷徹 → ミニマル化 → ハード化 → メロディック化 → 再インダストリアル化」**という循環が見えてきます。
-
+As symbolized by Berlin's Berghain and Tresor, club space and sound are inseparable. Music was more than just an auditory experience; it functioned as part of urban culture and lifestyle.
 
 <hr>
 
-### ライフスタイルと密接に結びつきながら進化
+### Representative artists/labels
 
-今日の German Techno は、ハードでインダストリアルな潮流からメロディックで叙情的な表現に至るまで幅広く進化しつつも、依然として「ベルリン＝テクノの都」という象徴的な地位を維持しています。
+- **Sven Väth (Frankfurt)**: Symbol of German techno. Internationalizing the scene through the label Cocoon.
 
-結論として、German Techno は過去の文化的産物であると同時に、未来のサウンドデザインを切り拓く実験場でもある。
-その歴史を辿りながら作品を聴くことは、都市と人間、機械と感情が交錯する音楽のダイナミズムを理解することに他なりません。
+- **Ellen Allien (Berlin)**: Founder of BPitch Control. A fusion of underground and experimentalism.
+
+- **Paul Kalkbrenner**: Widely known for the movie ""Berlin Calling.'' Melodic and lyrical techno.
+
+- **Johannes Heil**: Producer pursuing hard and dark German techno.
+
+- **Len Faki, Ben Klock, Marcel Dettmann**: Gained worldwide acclaim as Berghain residents.
+
+<hr>
+
+### Sound characteristics by generation
+
+#### Late 1980s (early days)
+
+**Background**: Just before and after the fall of the Berlin Wall. The influence of Detroit techno and Chicago house entered Germany.
+
+**Sound Features**:
+
+- Rough experimentation based on electronic beats
+
+- Cold texture with strong influence from Kraftwerk and industrial
+
+- Lots of repetitive riffs with synthesizers
+
+**Significant movement**: The club "Dorian Gray" in Frankfurt and underground parties in Berlin support the scene.
 
 ---
 
-### 関連コラム
+#### Early 1990s (expansion period)
 
-🔗 [【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学](https://monumental-movement.jp/column-german-techno-areas)
+**Background**: After the fall of the Berlin Wall, rave culture exploded in vacant warehouses and factory sites. Club "Tresor" opened (1991).
 
-🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+**Sound Features**:
 
-🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+- Influenced by Detroit techno, but harder and more linear
 
-🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+- Fast BPM, industrial-like inorganic sound
 
-🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+- Mix of early trance and hard techno
+
+**Representative artists**: Sven Väth, Hardfloor, Westbam, Maurizio (Basic Channel).
+
+---
+
+#### Late 1990s (refinement and segmentation)
+
+**Background**: German labels (Tresor, Kanzleramt, Harthouse) have gained international acclaim.
+
+**Sound Features**:
+
+- Development of minimal techno (simplified structures, emphasis on repeatability)
+
+- Rise of hard techno and acid techno
+
+- Detroit's "soulful" element fades, giving way to a cold, mechanical sound.
+
+**Featured Artists**: Chris Liebing, Johannes Heil, Heiko Laux.
+
+---
+
+#### 2000s (Internationalization and Diversification)
+
+**Background**: Berlin has become a global club city. Club "Berghain" opened (2004).
+
+**Sound Features**:
+
+- Hard minimal/industrial style becomes mainstream
+
+- Fusion with groove-oriented techno house (Tech House)
+
+- Some melodic elements are also back (e.g. Paul Kalkbrenner)
+
+**Featured Artists**: Len Faki, Monika Kruse, Ellen Allien, Zombie Nation.
+
+---
+
+#### 2010s (to the center of the global scene)
+
+**Background**: Behind the EDM boom, techno has become a symbol of the underground.
+
+**Sound Features**:
+
+- Berghain sound: heavy kick, dark and inorganic atmosphere
+
+- Reinterpretation of industrial and EBM elements
+
+- Melodic techno and deep techno gain worldwide support
+
+**Representative artists**: Ben Klock, Marcel Dettmann, Nina Kraviz (based in Berlin), Stephan Bodzin.
+
+---
+
+#### 2020s (currently ongoing)
+
+**Background**: In the streaming era, club culture is being reevaluated after the pandemic.
+
+**Sound Features**:
+
+- Harder and industrial direction (Phase Fatale, Kobosil, etc.)
+
+- Melodic techno is popular at festivals and streaming (Tale Of Us type)
+
+- Reinterpretations of hard trance and 90s sounds are also popular.
+
+**Trend**: While inheriting the coldness typical of past "German techno," it has evolved with the addition of emotional expression and visual production.
+
+If you compare the songs by decade, you can see a cycle of ""Industrial and cold → Minimalization → Hardening → Melodicization → Re-industrialization''**.
+
+<hr>
+
+### Evolving while closely connected to lifestyle
+
+Today's German Techno has evolved widely, from hard, industrial trends to melodic and lyrical expressions, yet still maintains its iconic status as ""Berlin, the capital of techno.''
+
+In conclusion, German Techno is both a cultural product of the past and a testing ground for the future of sound design.
+Listening to his works while tracing their history is nothing but understanding the dynamism of music, where cities and humans, machines and emotions intertwine.
+
+---
+
+### Related columns
+
+🔗 [[Column] Four Germanys, four technos — wall reverberations and minimal philosophy](https://monumental-movement.jp/column-german-techno-areas)
+
+🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+
+🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
+

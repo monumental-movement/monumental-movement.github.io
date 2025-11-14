@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Three Million – I"ve Been Robbed
 ---
+
+
 Three Million is a unit formed by Larry Butler, Mark King, and Wanda Butler. Larry and Wanda worked with Jim Grant on Today Records as Odds And Ends, but when they moved to United Artists in the late 70s, Jim Grant was replaced by Mark King. After moving to the label Cotillion, the name was changed to Three Million.
 
 "I've Been Robbed" is a Disco/Funk/Boogie song released by the Cotillion label in 1983. Produced by Gene Lawson & Reuben Cross.

@@ -11,10 +11,11 @@ tags:
 - 00s
 title: The Prodigy – Invaders Must Die
 ---
+
+
 This album is the fifth studio album by UK electronic dance music group The Prodigy. The album, released in 2009, was the first to include all band members in the production process and was a commercial success.
 
 Contains hits such as "Invaders Must Die," "Omen," "Warrior's Dance," and "Take Me to the Hospital."
-
 
 #### Tracklist```md
 CD-1. Invaders Must Die

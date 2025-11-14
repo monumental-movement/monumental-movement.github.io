@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Nolans – Every Home Should Have One
 ---
+
+
 "The Nolans – Every Home Should Have One" is part of a series distributed as a prize in a Coca-Cola sweepstakes held in Japan in 1981.
 
 The title of the record is "Adored Aye Aye" on the front of the jacket and "Adored Aye Aye Every Home Should Have One" on the back.

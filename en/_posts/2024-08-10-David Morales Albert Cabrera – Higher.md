@@ -11,6 +11,8 @@ tags:
 - 00s
 title: David Morales & Albert Cabrera Present Moca Featuring Deanna – Higher
 ---
+
+
 "Higher" is a house track by David Morales and Albert Cabrera's collaboration "Moca" featuring American vocalist Deanna. Also participating are John Conte (Bass), Cool Daddy (Guitar), Eric Kupper (Keys), Joey Mosk (Keys), David Sussman (Engineer), and Steve Barkan (Engineer).
 
 #### Tracklist```md

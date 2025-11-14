@@ -11,12 +11,13 @@ tags:
 - 00s
 title: Souldoubt – Times Like These
 ---
+
+
 Alex J. Dean, also known as Souldoubt, is a deep house/tech house producer and DJ who was active in the early 2000s. They also performed under a different name, Freaked.
 
 "Times Like These" is a Deep House track released on the Seattle house label Viva! in 2001.
 
 The jacket design was by Todd Omotani, a Canadian deep house DJ, producer, and creator who was active in the house music scene in Western Canada from the late 1990s to the 2000s.
-
 
 #### Tracklist```md
 A. Open Up

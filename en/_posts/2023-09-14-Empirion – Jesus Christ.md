@@ -11,6 +11,8 @@ tags:
 - 10inch
 title: Empirion – Jesus Christ
 ---
+
+
 Empirion is a unit consisting of Oz Morsley, Bobby Glennie, and Jamie Smart.
 
 They started their career in Essex in 1993 as a British industrial techno band.

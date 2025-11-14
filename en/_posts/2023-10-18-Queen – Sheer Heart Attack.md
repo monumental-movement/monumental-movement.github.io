@@ -9,6 +9,8 @@ tags:
 - Rock
 title: Queen – Sheer Heart Attack
 ---
+
+
 "Sheer Heart Attack" is Queen's third album.
 Produced by Queen and Roy Thomas Baker. It was also from this album that songs written by John Deacon began to be included.
 

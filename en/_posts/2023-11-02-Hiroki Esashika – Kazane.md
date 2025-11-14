@@ -10,6 +10,8 @@ tags:
 - Tech House
 title: Hiroki Esashika – Kazane
 ---
+
+
 Hiroki Esashika is a Japanese techno musician and DJ who has been active since the 90s.
 
 From 2000 to 2007, he hosted the TECHNO PARTY "ORANGE" with DJ TANAKA at the Sapporo club PLASTIC THEATER.

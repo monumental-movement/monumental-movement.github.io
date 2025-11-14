@@ -11,6 +11,8 @@ tags:
 - Deep House
 title: Mondo Grosso – Now You Know Better
 ---
+
+
 "Now You Know Better" by Mondo Grosso (Shinichi Osawa) is an EP released in 2000.
 
 #### Tracklist```md
@@ -39,3 +41,4 @@ Written-By – Carlos Rennó, Shinichi Osawa, Yoshito Tanaka
 [Purchase on Mercari](https://jp.mercari.com/item/m14264129378?afid=6142608987){: .button1}
 
 #### Youtube
+

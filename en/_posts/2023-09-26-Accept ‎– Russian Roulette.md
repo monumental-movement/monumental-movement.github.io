@@ -10,6 +10,8 @@ tags:
 - Rock
 title: Accept – Russian Roulette
 ---
+
+
 "Accept – Russian Roulette" is an album by the German heavy metal band Accept. This album is the band's seventh studio album, released in 1986.
 
 This album is known for its heavy guitar riffs, powerful vocals, and energetic drumming.
@@ -17,7 +19,6 @@ This album is known for its heavy guitar riffs, powerful vocals, and energetic d
 "Aiming High" - A fast and powerful song, with a guitar solo and twin reeds that stand out. You can fully enjoy Accept's typical heavy metal sound with this song.
 
 'Russian Roulette' is a classic for Accept fans, and will give you a taste of 80's heavy metal.
-
 
 #### Tracklist```md
 A1. T.V. War

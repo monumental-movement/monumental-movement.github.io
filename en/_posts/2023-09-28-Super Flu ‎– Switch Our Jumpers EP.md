@@ -10,6 +10,8 @@ tags:
 - Progressive
 title: Super Flu – Switch Our Jumpers EP
 ---
+
+
 It was released in 2006 by the German label KarateKlub.
 
 This track is by Feliks Thielemann and Mathias Schwarz's unit "Super Flu".

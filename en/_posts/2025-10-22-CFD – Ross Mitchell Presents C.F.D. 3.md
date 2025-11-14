@@ -12,6 +12,8 @@ tags:
 - 90s
 title: CFD – Ross Mitchell Presents C.F.D. 3
 ---
+
+
 CFD (Computerized For Dancing) is a project by Ross Mitchell & Michael Wilson.
 
 "Ross Mitchell Presents C.F.D. 3" is Cool Jazz released in 1994.

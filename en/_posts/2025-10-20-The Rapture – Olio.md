@@ -11,6 +11,8 @@ tags:
 - 00s
 title: The Rapture – Olio
 ---
+
+
 The Rapture is a band from New York formed in 1998. Characterized by a style that mixes the tastes of various genres such as dance punk, post-punk, acid house, disco, electronica, and rock, they are a central band of the dance-punk movement that began with the post-punk revival in the early 2000s.
 
 Limited edition of only 1000 copies (one side)

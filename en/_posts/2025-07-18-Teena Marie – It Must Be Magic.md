@@ -12,6 +12,8 @@ tags:
 - 80s
 title: Teena Marie – It Must Be Magic
 ---
+
+
 Teena Marie, also known as Lady T, is an American soul and R&B singer. She has a unique and soulful soprano vocal style.
 
 It Must Be Magic, released in 1981, was Teena Marie's fourth studio album and her last with Motown. It includes the hit song Square Biz.

@@ -11,11 +11,12 @@ tags:
 - 90s
 title: Prodigy – The Fat Of The Land
 ---
+
+
 Prodigy is a British electronic punk rock band formed in 1990 by producer Liam Howlett.
 
 This album is Prodigy's third studio album, released in 1997 on the label XL Recordings. This album became a worldwide hit and became Prodigy's signature work.
 In 1999, it entered the Guinness Book of World Records as the best-selling dance album in the UK.
-
 
 #### Tracklist```md
 1. Smack My Bitch Up

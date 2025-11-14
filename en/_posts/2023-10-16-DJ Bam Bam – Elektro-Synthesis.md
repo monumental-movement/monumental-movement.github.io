@@ -10,6 +10,8 @@ tags:
 - Hard House
 title: DJ Bam Bam – Elektro-Synthesis
 ---
+
+
 DJ Bam Bam is a Chicago-style hard house DJ and producer.
 The vocalist for the first song on side B is Ron Carroll (R.O.N.N), who was active in the house music scene.
 

@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Metal Blade – Cannonball Metal Funk
 ---
+
+
 Metal Blade is a project by Japanese techno DJ/producer Fumiaki Kobayashi and DJ/guitarist Masayuki Ozaki.
 
 Fumiaki Kobayashi runs the techno label gatearray recordings and is active mainly at the techno party Akihabara Heavy Industries. Since 2014, he has also been active under the name KURAYAMI.
@@ -25,3 +27,4 @@ B. Metal Funk
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3jYVbxQl5A?si=-9oFl0zmHL8mC4Bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m81336697590?afid=6142608987){: .button1}
 
 #### Youtube
+

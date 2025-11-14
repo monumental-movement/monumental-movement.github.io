@@ -11,6 +11,8 @@ tags:
 - 70s
 title: Santana – Caravanserai
 ---
+
+
 Santana is an American Latin rock group formed in the late 1960s led by guitarist Carlos Santana.
 
 "Caravanserai" has been hailed as a new, more jazz-oriented album in Santana's career, as the band moved away from rock and embraced a more experimental and complex sound.

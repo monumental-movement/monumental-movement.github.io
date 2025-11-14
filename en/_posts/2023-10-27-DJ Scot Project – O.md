@@ -10,6 +10,8 @@ tags:
 - Anthem
 title: DJ Scot Project – O
 ---
+
+
 DJ Scot Project (Frank Zenker) is a German DJ/producer who has been successful in the hard trance scene since the 90s.
 "DJ Scot Project – O" is one of his masterpieces and is known as an anthem for ravers in the 2000s.
 

@@ -11,6 +11,8 @@ tags:
 - 7inch
 title: The Belle Stars–Iko Iko
 ---
+
+
 The A-side, "Iko Iko," is a cover song by The Belle Stars, a UK pop girl band formed in London in 1980 by former members of The Bodysnatchers.
 
 The Belle Stars version of Iko Iko was also featured in the movie Rain Man (starring Dustin Hoffman and Tom Cruise), the movie Knockin' on Heaven's Door, and the movie The Hangover.

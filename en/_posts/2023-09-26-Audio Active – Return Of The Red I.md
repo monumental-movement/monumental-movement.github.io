@@ -10,6 +10,8 @@ tags:
 - Dub
 title: Audio Active – Return Of The Red I
 ---
+
+
 "Audio Active – Return Of The Red I" is an album by the Japanese music group Audio Active. This album was released in 1999.
 
 "Return Of The Red I" is a work by Audio Active, whose music incorporates elements of dub, reggae, and electronic music. Their music takes an experimental and radical approach, pursuing a unique sound.

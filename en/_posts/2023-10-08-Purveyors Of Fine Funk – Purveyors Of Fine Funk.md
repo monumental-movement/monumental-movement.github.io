@@ -10,6 +10,8 @@ tags:
 - House
 title: Purveyors Of Fine Funk – Purveyors Of Fine Funk
 ---
+
+
 Purveyors Of Fine Funk is a group that creates songs that incorporate elements of funk music, and as the name suggests, they deliver high quality funk.
 
 It features elements such as funky rhythms, slap bass, and a brass section. The songs have danceable grooves and catchy melodies that entertain listeners as they follow the rhythm.

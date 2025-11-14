@@ -10,6 +10,8 @@ tags:
 - 00s
 title: Felipe & Nicolas Bacher – Next Destination EP
 ---
+
+
 Felipe (Philipp Straub) & Nicolas Bacher (DJ Dexter) are an Austrian DJ and producer duo based in Vienna. He also works under the names Enzian and Titanium, and is the founder of the labels Titanium Records and Supreme Entertainment.
 
 "Next Destination EP" is a Techno track released in 2004 on Potential Recordingz, one of the leading UK techno labels founded by Ben Long.

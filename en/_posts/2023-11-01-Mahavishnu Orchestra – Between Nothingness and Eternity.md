@@ -11,6 +11,8 @@ tags:
 - Rock
 title: Mahavishnu Orchestra – Between Nothingness & Eternity
 ---
+
+
 Between Nothingness & Eternity, released in 1973, was the Mahavishnu Orchestra's first live album.
 
 This album was the last with original members, as the band disbanded in December 1973.

@@ -11,6 +11,8 @@ tags:
 - 90s
 title: Pick up acid jazz pieces
 ---
+
+
 "A remarkable collection of acid jazz works that fuse jazz improvisation and club grooves to create a sophisticated urban sound."
 
 <hr>
@@ -38,18 +40,18 @@ Recommended points: The second song "London England" is called a dance floor cla
 13. Clearing Up Music
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
 
-
 ### Raw Stylus – Use Me
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
-Summary: A single by Raw Stylus, a British acid jazz band active in the 1990s, covering Bill Withers' 1972 soul/R&B song "Use Me." Released on the Acid Jazz label.
+概要：1990年代に活動した英国のアシッドジャズバンド・Raw Stylusが、Bill Withersの1972年のソウル／R&B楽曲"Use Me"をカヴァーしたシングル。 Released on the Acid Jazz label.
 
 Recommended points: Although "Use Me" is a cover of a famous song, its appeal is a fusion of respect for the original and an acid jazz-like interpretation, allowing you to enjoy a multi-layered sound that includes funk and soul.
 
@@ -60,19 +62,18 @@ B1. Use Me (12" Remix)
 B2. Boom
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
 <br>
 
-
 ### Toledo – Joe
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
 Summary: House x acid jazz track by Toledo (Toledo Diamond). Former Black Grape member Danny Saber is involved as a producer.
-
 
 Recommended points: This is an attractive cross-genre fun track that combines the essence of acid jazz with the sophistication of house music.
 
@@ -82,6 +83,8 @@ A1. Joe (Joey Malcom Mix)
 B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
+
+
 [Purchase on Mercari](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
 
 <br>
@@ -102,8 +105,9 @@ B1. Everybody Knows (Edit)
 B2. Flight To Havana
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>
@@ -118,7 +122,6 @@ Summary: This is an all-star acid jazz compilation album released in 1992 on the
 m.m.r
 
 Recommended points: A valuable piece that includes famous songs from the early days of acid jazz, such as Corduroy, Mother Earth, and Sons of Judah. You can enjoy the expansion of the genre and the feeling of groove all at once.
-
 
 #### Tracklist```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
@@ -140,8 +143,9 @@ B4.The Grass Snakes – That's It
 B5.Raw – Dreams
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
+
+[Purchase on Mercari](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 #### Youtube
 <hr>

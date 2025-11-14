@@ -11,6 +11,8 @@ tags:
 - 80s
 title: Big Ben Tribe – Heroes
 ---
+
+
 Big Ben Tribe is an Italo disco project formed in Trieste, Italy in 1983.
 
 This song is an Italo disc cover of "Heroes" (1977), co-written by David Bowie and Brian Eno. It was originally released in 1983 on the Italo disc label Zanza Records. This CD is a remastered maxi single released in 2012.
