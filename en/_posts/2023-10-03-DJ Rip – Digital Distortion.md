@@ -13,9 +13,7 @@ title: DJ Rip – Digital Distortion
 ---
 
 
-"Digital Distortion" is
-This is an EP by DJ Rip, real name Xavier Jacome, a pioneer of hard house and techno, released on Underground Construction in 1999.
-
+"Digital Distortion" isThis is an EP by DJ Rip, real name Xavier Jacome, a pioneer of hard house and techno, released on Underground Construction in 1999.
 #### Tracklist```md
 A1. New Generation
 
@@ -25,6 +23,6 @@ B1. Break It Down
 
 B2. Feel That Groove
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mltucqS8aRU?si=TrTiueZKaUvbGEiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m31209619445?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m31209619445?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/mltucqS8aRU?si=TrTiueZKaUvbGEiZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

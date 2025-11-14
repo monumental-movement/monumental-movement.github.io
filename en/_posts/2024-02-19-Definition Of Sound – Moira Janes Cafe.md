@@ -14,9 +14,7 @@ title: Definition Of Sound – Moira Jane"s Café
 
 
 Definition Of Sound is a London-based dance music group formed by Donald Weekes and Kevin Clark.
-
 Their fourth single, ""Moira Jane's Café,'' released in 1992, was a house track that became a hit not only in the UK but around the world.
-
 #### Tracklist```md
 A1.Moira Jane's Café (Live Version)
 
@@ -30,6 +28,6 @@ B2.Moira Jane's Café (Maurice's House Mix)
 
 B3.Moira Jane's Café (Aw Shucks Dub)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

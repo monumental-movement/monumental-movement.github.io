@@ -12,13 +12,9 @@ title: Snakeman Show – Snakeman Show
 ---
 
 
-As a trivia about the A5 track included in the Snakeman Show "Hurry up and suck it with your mouth!"
-There's a hypothetical police interrogation after Paul McCartney's arrest.
-
+As a trivia about the A5 track included in the Snakeman Show "Hurry up and suck it with your mouth!"There's a hypothetical police interrogation after Paul McCartney's arrest.
 The film is based on a fictional police interrogation of Paul McCartney after his arrest in Japan, where he is repeatedly asked for his autograph.
-
 In January 1980, Paul McCartney visited Japan for a performance there. However, when he arrived at Narita Airport, he was arrested for possessing an excessive amount of marijuana. After being detained for several days, McCartney was sentenced to a fine and forced to leave the country.
-
 #### Tracklist```md
 A1. Snakeman Show–盗聴エディー P-1
 
@@ -56,8 +52,7 @@ B8. Snakeman Show–これなんですか
 
 B9. ユー・アンドーミー・オルガスムス・オーケストラ–ごきげんいかが　アゲイン
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
-
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

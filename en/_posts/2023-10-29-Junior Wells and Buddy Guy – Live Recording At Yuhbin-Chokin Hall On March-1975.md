@@ -14,9 +14,7 @@ title: Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On Marc
 
 
 This is a live recording by Junior Wells & Buddy Guy at the Postal Savings Hall.
-
 Both Buddy and Junior demonstrate their skills as leaders and are fully active throughout the album.
-
 This 2-LP set is a must-see for blues fans.
 
 #### Tracklist```md
@@ -58,6 +56,6 @@ D4. Waterman Blues (Instrumental)
 
 D5. Messin' With The Kid
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

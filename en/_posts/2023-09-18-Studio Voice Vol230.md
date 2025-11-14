@@ -13,11 +13,8 @@ title: Studio Voice Vol230 (Studio Voice) Bob Dylan
 
 
 Studio Voice Vol230 (Studio Voice) Bob Dylan
-
 Cover: Bob Dylan
-
 Bob Dylan, David Amram, Motoharu Sano, Wim Wenders, Hitomi Okawa, Mayo Thompson
-
 #### Contents```md
 □ 吠える Poetry Vibrations ビートニクからラッパーまで
 □ Beat Now
@@ -32,4 +29,5 @@ Bob Dylan, David Amram, Motoharu Sano, Wim Wenders, Hitomi Okawa, Mayo Thompson
 □ SPIRITS ON THE CROSSING
 □ リチャード・D・ジェームス来日公演
 ```
+
 [Purchase on Mercari](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}

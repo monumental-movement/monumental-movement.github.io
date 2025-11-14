@@ -14,7 +14,6 @@ title: Nikaido Hokuto – Inflame
 
 
 A techno piece released by Sapporo's Doublex in 1996.
-
 #### Tracklist```md
 A1. 天上天下唯我独尊
 
@@ -30,5 +29,5 @@ B3. 天上天下唯我独尊 (Bleep.Bird.Burn.Mix)
 
 B4. Subsonic Drum (Power Peak Mix)
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
 
+[Purchase on Mercari](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}

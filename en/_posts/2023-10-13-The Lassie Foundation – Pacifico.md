@@ -13,9 +13,7 @@ title: The Lassie Foundation – Pacifico
 
 
 The Lassie Foundation was a noise pop/dream pop shoegaze band from Los Angeles that was active from 1996 to 2006.
-
 Member Jeff Schroeder became Smashing Pumpkins' guitarist in 2007, replacing James Iha.
-
 #### Tracklist```md
 A1. Scapa Flow
 
@@ -39,6 +37,6 @@ B5. Bombers Moon
 
 B6. You Are Infinity
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

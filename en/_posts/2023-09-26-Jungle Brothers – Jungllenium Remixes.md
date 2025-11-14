@@ -41,6 +41,6 @@ title: Jungle Brothers – Jungllenium Remixes
 
 13. Straight Out The Jungle (Soul Shock Remix)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

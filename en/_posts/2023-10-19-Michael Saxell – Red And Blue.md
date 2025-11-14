@@ -13,7 +13,6 @@ title: Michael Saxell – Red And Blue
 
 
 Michael Saxell is a Swedish singer-songwriter/composer/lyricist/multi-instrumentalist/producer.
-
 #### Tracklist```md
 A1. Kelly
 
@@ -35,5 +34,5 @@ B4. Nothing But The Best
 
 B5. My Love Belongs To You
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
 
+[Purchase on Mercari](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}

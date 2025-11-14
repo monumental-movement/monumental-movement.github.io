@@ -12,9 +12,7 @@ title: Various – Exterminator Presents Turn On The Heat
 ---
 
 
-"Exterminator Presents Turn On The Heat" is
-A very classic Fatis Burrell one-riddim compilation album released by the UK label "Sir Coxsone" in 1989.
-It is.
+"Exterminator Presents Turn On The Heat" isA very classic Fatis Burrell one-riddim compilation album released by the UK label "Sir Coxsone" in 1989.is.
 
 #### Tracklist```md
 A1. Sanchez–Joy (Medley)
@@ -37,6 +35,6 @@ B4. Quench Aid–Nah Fight Over Woman
 
 B5. Fire House Crew –Version
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,9 +15,7 @@ title: VA – Cinema Beer Nuts
 
 
 Hardcore Punk Compilation: Hopeless Records Cinema Beer Series
-
 VA – Cinema Beer Nuts
-
 #### Tracklist```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time
@@ -39,4 +37,5 @@ VA – Cinema Beer Nuts
 18. Link 80 – Verbal Kint
 19. Millencolin – Lozin' Must
 ```
+
 [Purchase on Mercari](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

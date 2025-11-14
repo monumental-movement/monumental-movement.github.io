@@ -16,9 +16,7 @@ title: Blues Explosion – Extra Width
 
 
 The Jon Spencer Blues Explosion was a three-piece rock band from New York that was active from 1991 to 2016. Their style is based on rock and combines elements of punk, blues, garage, rockabilly, soul, noise rock, rhythm and blues, and hip-hop.
-
 "Extra Width" is their third album released in 1993, and was released in Japan in 1995. Tracks 12 and 13 are bonus tracks only on the Japanese version.
-
 #### Tracklist```md
 1. Afro
 2. History Of Lies
@@ -34,6 +32,6 @@ The Jon Spencer Blues Explosion was a three-piece rock band from New York that w
 12. Beat Of The Traps
 13. Memphis Soul Typecast
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

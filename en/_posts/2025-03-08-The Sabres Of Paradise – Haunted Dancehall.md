@@ -15,9 +15,7 @@ title: The Sabers Of Paradise – Haunted Dancehall
 
 
 The Sabers Of Paradise are a UK electronic music group from London. Members: Andrew Weatherall, Jagz Kooner, Gary Burns.
-
 "Haunted Dancehall" is the second album by The Sabres Of Paradise, released by Warp Records in 1995, and has been praised for many years, including being selected as one of the "1000 Albums You Must Hear Before You Die" by the British newspaper The Guardian in 2007.
-
 #### Tracklist```md
 1. Bubble And Slide
 2. Bubble And Slide II
@@ -34,6 +32,6 @@ The Sabers Of Paradise are a UK electronic music group from London. Members: And
 13. Chapel Street Market (9am)
 14. Haunted Dancehall
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

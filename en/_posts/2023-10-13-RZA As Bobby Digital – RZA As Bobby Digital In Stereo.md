@@ -12,8 +12,7 @@ title: RZA As Bobby Digital – RZA As Bobby Digital In Stereo
 ---
 
 
-"RZA As Bobby Digital – RZA As Bobby Digital In Stereo" is
-RZA's solo debut album from Wu-Tang Clan.
+"RZA As Bobby Digital – RZA As Bobby Digital In Stereo" isRZA's solo debut album from Wu-Tang Clan.
 
 #### Tracklist```md
 1.  B.O.B.B.Y.
@@ -33,6 +32,6 @@ RZA's solo debut album from Wu-Tang Clan.
 15. Daily Routine
 16. Domestic Violence
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

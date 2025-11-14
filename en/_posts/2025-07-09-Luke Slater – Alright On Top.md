@@ -14,11 +14,8 @@ title: Luke Slater – Alright On Top
 ---
 
 
-An album released in 2002 by the label Mute, featuring vocals entirely by Ricky Barrows. The hit song "Nothing At All" is included.
-Tracks 11 & 12 are bonus tracks only for the Japanese version.
-
+An album released in 2002 by the label Mute, featuring vocals entirely by Ricky Barrows. The hit song "Nothing At All" is included.Tracks 11 & 12 are bonus tracks only for the Japanese version.
 The jacket design is by Julian House, also known as House, a UK graphic designer who has worked on designs for Stereolab, Oasis, The Prodigy, Broadcast, Razorlight, and more.
-
 #### Tracklist```md
 1. Nothing At All
 2. You Know What I Mean
@@ -35,6 +32,6 @@ The jacket design is by Julian House, also known as House, a UK graphic designer
 
 11&12ボーナストラック
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

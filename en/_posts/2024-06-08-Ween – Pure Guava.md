@@ -16,7 +16,6 @@ title: Ween – Pure Guava
 
 
 Released in 1992, "Pure Guava" is Ween's third studio album and major label debut. Contains Ween's masterpiece "Push th' Little Daisies".
-
 #### Tracklist```md
 A1. Little Birdy
 A2. Tender Situation
@@ -39,6 +38,6 @@ B7. Hey Fat Boy (Asshole)
 B8. Don't Get 2 Close (2 My Fantasy)
 B9. Poop Ship Destroyer
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SSuuz_sh_pI?si=fZYBIw-9nV7PYyyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/SSuuz_sh_pI?si=fZYBIw-9nV7PYyyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,7 @@ title: Propagandhi – How To Clean Everything
 
 
 "How to Clean Everything" is the debut album by punk rock band Propagandhi, released in 1993 on Fat Wreck Chords.
-
 Mike Daronco of Allmusic said the album was "a fun, lively yet mass-oriented take on 'Anarchy 101,'" and Ron Knox of Vice Media said in 2016 that the album was designed to pose a challenge to listeners.
-
 #### Tracklist```md
 A1. Anti-Manifesto
 
@@ -41,6 +39,6 @@ B5. Who Will Help Me Bake This Bread?
 
 B6. I Want U 2 Vant Me
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

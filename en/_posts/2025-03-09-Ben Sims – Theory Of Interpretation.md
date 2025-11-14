@@ -14,7 +14,6 @@ title: Ben Sims – Theory Of Interpretation A Mastermix By Ben Sims
 
 
 Ben Sims is a heavyweight in the techno world who has been active at the forefront of the UK rave scene in the 80's and the UK dance scene in the 90's for many years.
-
 This album, released in 2001, is a mix CD containing a total of 33 songs, including Ben Sims' own recordings.
 
 #### Tracklist```md
@@ -69,6 +68,6 @@ Level 4
 32. Ben Sims – Escapist (Alexi Delano Remix)
 33. Sims & Dax – The Severed Link (Dan Curtin Remix)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i3-W2gAVgzU?si=gnsPLwTolbYPPvmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/i3-W2gAVgzU?si=gnsPLwTolbYPPvmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

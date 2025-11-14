@@ -22,4 +22,3 @@ B  Swift
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64369764835?afid=6142608987){: .button1}
-

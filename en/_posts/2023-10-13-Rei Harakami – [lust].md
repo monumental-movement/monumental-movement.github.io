@@ -13,8 +13,7 @@ title: Rei Harakami – [lust]
 ---
 
 
-"Rei Harakami – [lust]" is
-Rei Harakami's fourth original album released in 2005.
+"Rei Harakami – [lust]" isRei Harakami's fourth original album released in 2005.
 
 #### Tracklist```md
 1. Long Time
@@ -28,6 +27,6 @@ Rei Harakami's fourth original album released in 2005.
 9. Approach
 10. First Period
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

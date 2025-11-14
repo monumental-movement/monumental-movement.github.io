@@ -13,11 +13,8 @@ title: Various – Dance Panic
 
 
 Scorccio (Mark Summers) and Jay Williams remix Number One by UK singer Billie Godfrey.
-
 DJ Visage is a trance project fronted by Danish DJ Martin Sig and produced by Austrian Norbert Reichart.
-
 Airplay is an electronic trance duo consisting of Danny Corten and Eddy Weyns.
-
 #### Tracklist```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 
@@ -29,5 +26,5 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 
 B2. Reverance–Sacrifice (Paul Woodgate)
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
 
+[Purchase on Mercari](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}

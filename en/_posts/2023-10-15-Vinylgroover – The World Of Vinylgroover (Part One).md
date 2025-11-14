@@ -13,7 +13,6 @@ title: Vinylgroover – The World Of Vinylgroover (Part One)
 
 
 Scott Attril, also known as Vinylgroover, is a happy hardcore and hard house producer/DJ based in the UK.
-
 #### Tracklist```md
 A1. Time (Vinylgroover Remix)
 
@@ -31,6 +30,6 @@ D1. Can't Stop (Vinylgroover Remix)
 
 D2. Got To Have It
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNvgGo6rX1A?si=7jwIPbPA_ZFLNwfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/BNvgGo6rX1A?si=7jwIPbPA_ZFLNwfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,6 @@ title: Dolly Dots – American Dream
 
 
 Dolly Dots was a Dutch girl group that was active from the late 1970s to the late 1980s. It was successful not only in the Netherlands, but also in Belgium, Japan and Türkiye.
-
 #### Tracklist```md
 A1.  (They Are) Rollerskating
 
@@ -39,6 +38,6 @@ B5. Hollywood
 
 B6. My Boyfriend's Back
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LCaV_cppcbM?si=MIH5qvFodmU0bWPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/LCaV_cppcbM?si=MIH5qvFodmU0bWPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,11 +12,8 @@ title: Robert Johnson – The Legendary Blues Singer
 
 
 Robert Johnson is a master of the blues and delta blues style, known as one of the most influential musicians of the 20th century.
-
 The sound sources he left behind in two recordings from 1936 to 1937 had a great influence on future generations of musicians.
-
 "The Legendary Blues Singer" is a compilation album of Robert Johnson's famous songs.
-
 #### Tracklist```md
 1. Kindhearted Woman Blues
 2. Sweet Home Chicago
@@ -31,8 +28,8 @@ The sound sources he left behind in two recordings from 1936 to 1937 had a great
 11. Stop Breakin' Down Blues
 12. Love In Vain
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,9 +12,7 @@ title: Björk – Medulla
 
 
 "Björk – Medúlla" is an album by Icelandic singer-songwriter Björk. This album was released in 2004.
-
 "Medúlla" is a highly experimental and innovative work by Björk, and is known as a vocal album centered on the human voice. Björk uses the human voice and the sounds of the human body in most of her songs, building her sound without relying on traditional instruments.
-
 #### Tracklist```md
 1.Pleasure Is All Mine
 
@@ -46,6 +44,6 @@ title: Björk – Medulla
 
 15.Komid
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4RPvUuVdiE?si=LfqgjyWdJim9X_Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/x4RPvUuVdiE?si=LfqgjyWdJim9X_Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

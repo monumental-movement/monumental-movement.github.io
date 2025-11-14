@@ -14,7 +14,6 @@ title: Michel Polnareff – Gift Pack Series
 
 
 The Michel Polnareff – Gift Pack Series was released by Epic in 1973.
-
 #### Tracklist```md
 A1. 愛の休日
 A2. ロミオとジュリエットのように
@@ -45,6 +44,6 @@ D4. 悲しきマリー
 D5. おかしなジョー
 D6. 天国への道
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yoMUuzxAYpU?si=Abf6g7v7ZU-Gd0rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/yoMUuzxAYpU?si=Abf6g7v7ZU-Gd0rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

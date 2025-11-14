@@ -15,7 +15,6 @@ title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 
 
 A two-disc compilation album released in 1996 by MO WAX, a legendary label representing the 90s.
-
 #### Tracklist```md
 1. Rob Dougan –Clubbed To Death (Spoon Mix By Carl Craig)
 2. Attica Blues – Lonesome Child
@@ -28,6 +27,6 @@ A two-disc compilation album released in 1996 by MO WAX, a legendary label repre
 8. DJ Krush – 89.9 Megamix (DJ Shadow)
 など全19曲
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

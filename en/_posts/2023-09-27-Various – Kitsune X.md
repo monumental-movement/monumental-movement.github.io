@@ -13,9 +13,7 @@ title: Various – Kitsuné X
 
 
 "Kitsuné X" is the long-awaited third album by French company Kitsune, released in 2005.
-
 This is a free-form compilation album based on electro, disco, and punk.
-
 #### Tracklist```md
 1. Popular Computer–Darling
 
@@ -43,7 +41,6 @@ This is a free-form compilation album based on electro, disco, and punk.
 
 12b. Dieter Schmidt–Morse Code From The Cold War
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Purchase on Mercari](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,7 +14,6 @@ title: Aaliyah – I Care 4 U
 
 
 After Aaliyah's death on August 25, 2001, a compilation album with DVD was released in 2002, containing eight of her early hits and six previously unreleased songs from the sessions for her last studio album (2001).
-
 #### Tracklist```md
 CD-1. Back And Forth
 CD-2. Are You That Somebody
@@ -43,6 +42,6 @@ DVD-9. Rock Da Boat
 DVD-10. Japanamation Commercial
 DVD-11. Aaliyah Behind The Scenes
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c13e861913o?si=Udu-qMdZOxaOxx5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/c13e861913o?si=Udu-qMdZOxaOxx5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

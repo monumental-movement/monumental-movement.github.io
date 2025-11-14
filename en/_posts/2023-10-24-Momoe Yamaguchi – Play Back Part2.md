@@ -14,18 +14,14 @@ title: Momoe Yamaguchi – Playback Part 2
 
 
 "Momoe Yamaguchi – Playback Part 2" was released in 1978.
-
 Arrangement: Mitsuo Hagita
-
 Lyrics: Yoko Aki
-
 Composer: Ryudo Uzaki
-
 #### Tracklist```md
 A. プレイバックPart2
 
 B. 賭け 
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

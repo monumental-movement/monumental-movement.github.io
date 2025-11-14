@@ -13,7 +13,6 @@ title: Technova – Transcience Remixes
 
 
 David Harrow, also known as Technova, is a British keyboardist and musician known for his work with Anne Clark.
-
 #### Tracklist```md
 A1. Yeah Sista (Drum & Bass Style)
 
@@ -23,6 +22,6 @@ B1. Yeah Sista (303 Version)
 
 B2. Firehorse One (Original Soundtrack Version)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jM29XqSiUIs?si=T2xpKEMZNkU8sD4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m92224497926?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m92224497926?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/jM29XqSiUIs?si=T2xpKEMZNkU8sD4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

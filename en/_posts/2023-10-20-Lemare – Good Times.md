@@ -12,9 +12,7 @@ title: Lemare – Good Times
 ---
 
 
-"Good Times" is
-"Good Times" by British R&B artist LEMARE (Lemar Obika) was released in 1998.
-
+"Good Times" is"Good Times" by British R&B artist LEMARE (Lemar Obika) was released in 1998.
 #### Tracklist```md
 A1. Good Times (Dez & Tec Mix)
 
@@ -26,6 +24,6 @@ B2. Good Times (High Supply Mix)
 
 B3. Good Times (Original Mix)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mdDt-dNShds?si=tYGNxUo7eLIHd06B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m23326942990?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m23326942990?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/mdDt-dNShds?si=tYGNxUo7eLIHd06B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

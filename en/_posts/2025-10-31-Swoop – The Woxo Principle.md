@@ -16,9 +16,7 @@ title: Swoop – The Woxo Principle
 
 
 Swoop – The Woxo Principle
-
-Swoop – Waxo Prince Pal
-
+Swoop - Waxo Prince Pal
 #### Tracklist```md
 1. Woxo Prelude
 2. Living How I'm Living
@@ -39,6 +37,6 @@ Swoop – Waxo Prince Pal
 17. Am I Blind
 18. Apple Eyes (Gt's Special Mix For Josh)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

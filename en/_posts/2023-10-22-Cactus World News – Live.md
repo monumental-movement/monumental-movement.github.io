@@ -13,9 +13,7 @@ title: Cactus World News – Live
 
 
 This album is a live recording of a concert held at The Whiskey in Los Angeles on August 20, 1986.
-
 The third song on the B-side, "America," is a cover of a Simon & Garfunkel song.
-
 #### Tracklist```md
 A1. Church Of The Cold
 
@@ -35,6 +33,6 @@ B3. America
 
 B4. Jigsaw Street
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

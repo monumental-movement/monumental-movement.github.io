@@ -14,9 +14,7 @@ title: Various – Latin Compilation
 
 
 Trebol Clan is a reggaeton group from Puerto Rico.
-
 Nicky Jam is an American singer and songwriter well-known in the Latin music world who contributed significantly to the development of reggaeton and Latin trap.
-
 #### Tracklist```md
 A1. Trebol Clan – Agarrate
 
@@ -30,5 +28,5 @@ B2. Zion, Hector –Mirandonos
 
 B3. Julio Voltio, Tego Calderón – Se Van
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
 
+[Purchase on Mercari](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}

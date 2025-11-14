@@ -13,11 +13,7 @@ title: Richard Strauss
 ---
 
 
-・Conductor: Otto Ackermann
-・Horn [solo]: Dennis Brain Dennis Brain
-・Orchestra: Philharmonia Orchestra
-・Soprano vocal: Elisabeth Schwarzkopf
-
+・Conductor: Otto Ackermann・Horn [solo]: Dennis Brain Dennis Brain・Orchestra: Philharmonia Orchestra・Soprano vocal: Elisabeth Schwarzkopf
 #### Tracklist```md
 Four Last Songs
 「4つの最後の歌」
@@ -30,4 +26,5 @@ Capriccio, Op. 85
 「カプリッチョ (オペラ)」
 B1. Morgen Mittag Um Elf (Closing Scene)
 ```
+
 [Purchase on Mercari](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

@@ -21,8 +21,7 @@ B1  Snappy Snares
 
 B2  P.Off
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u90ZebydVOs?si=-q8oGkYe0ecle9MV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49758319217?afid=6142608987){: .button1}
-
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/u90ZebydVOs?si=-q8oGkYe0ecle9MV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,9 +13,7 @@ title: The Band – Rock Of Ages The Band In Concert
 
 
 The Band was a Canadian rock band that was active from the late 1960s to the early 1970s.
-
 The live album "Rock Of Ages: The Band In Concert" released in 1972 is the sound source of a live concert held at the Academy of Music in New York in December 1971.
-
 #### Tracklist```md
 A1. Don't Do It
 A2. King Harvest (Has Surely Come)
@@ -38,6 +36,6 @@ D1. The Genetic Method
 D2. Chest Fever
 D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-c_E-W3yhHY?si=dEbQ2J2BCooYUqXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/-c_E-W3yhHY?si=dEbQ2J2BCooYUqXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

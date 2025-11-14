@@ -12,9 +12,7 @@ title: Various – Survival Of The Fattest
 ---
 
 
-"Survival Of The Fattest" is
-This is a compilation album released by the label "Fat Wreck Chords" in 1996.
-
+"Survival Of The Fattest" isThis is a compilation album released by the label "Fat Wreck Chords" in 1996.
 #### Tracklist```md
 A1. Hi-Standard–California Dreaming
 
@@ -50,6 +48,6 @@ B7. Snuff –Walk
 
 B8. Me First And The Gimme Gimmes–Country Roads
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

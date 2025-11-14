@@ -13,7 +13,6 @@ title: Mighty Dub Katz & Cagedbaby – Southern Fried & Tested
 
 
 A 2-CD set of house mixes by Mighty Dub Katz and Cagedbaby, a unit of Fatboy Slim, aka Norman Cook, and Gareth Hansome, released in 2007.
-
 #### Tracklist```md
 The Mighty Dub Katz	1:16:13
 
@@ -65,6 +64,6 @@ The Mighty Dub Katz	1:16:13
 2-27. The Black Ghosts - Something New
 2-28. Unknown Artist - Outro
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed1YzP5_a0o?si=6h04_TWApdJ3fAzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed1YzP5_a0o?si=6h04_TWApdJ3fAzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

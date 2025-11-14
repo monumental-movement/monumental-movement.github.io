@@ -14,9 +14,7 @@ title: Regurgitator – ...Art
 
 
 Regurgitator is an alternative rock band from Australia. Formed in late 1993 by Quan Yeomans on lead vocals, guitar, and keyboards, Ben Ely on bass guitar, keyboards, and vocals, and Martin Lee on drums.
-
 "...Art" is Regurgitator's third studio album, released in 1999.
-
 #### Tracklist```md
 1. Happiness
 2. Ghost
@@ -32,6 +30,6 @@ Regurgitator is an alternative rock band from Australia. Formed in late 1993 by 
 12. The Lonely Guy
 13. Virtual Life
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

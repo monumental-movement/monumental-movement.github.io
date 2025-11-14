@@ -13,9 +13,7 @@ title: 1200 Mic"s – Magic Numbers
 
 
 1200 Mic's – Magic Numbers is an album by the electronic music group 1200 Micrograms. This album was released in 2009.
-
 "Magic Numbers" is 1200 Micrograms' third studio album and features their psychedelic trance and full-on sound. Their music has become popular in electronic music scenes such as dances and festivals.
-
 #### Tracklist```md
 1.The Magic Numbers Theme
 
@@ -31,6 +29,6 @@ title: 1200 Mic"s – Magic Numbers
 
 7.Numbers Are Alive
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_u0ip7-HNyU?si=s4wCylQ3ypEhAjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m59821579100?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/_u0ip7-HNyU?si=s4wCylQ3ypEhAjDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,9 +12,7 @@ title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 
 
 This album, ""Return To The 36 Chambers The Dirty Version,'' is one of the most successful releases of Ol' Dirty Bastard's solo career.
-
 It also included collaborations with members of Wu-Tang and other guest artists, and the album showcased his individual musical style throughout, earning critical acclaim and commercial success.
-
 #### Tracklist```md
 A1. Intro
 
@@ -60,6 +58,6 @@ D14. Proteck Ya Neck II The Zoo
 
 D15. Cuttin' Headz
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,14 +13,9 @@ title: Pick up punk/hardcore works
 
 
 "A remarkable group of punk/hardcore works that embody chaos and passion and sharply cut through the atmosphere of the times."
-
 <hr>
-
-### Snuff – Flibbiddydibbiddydob
-<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
-
+### Snuff – Flibbiddydibbiddydob<a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 A cover EP by a British punk band. Originally released in 1990, re-released in 1996
-
 #### Tracklist```md
 A1. Rods & Mockers
 A2. Do Nothing
@@ -35,20 +30,16 @@ B4. City Baby Attacked By Rats
 B5. Bran Flakes
 B6. In Sickness & In Health
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=mzzX-VZTSz4bUWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=mzzX-VZTSz4bUWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
-
-### The Gang - Barricada Rumble Beat
-<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
+### The Gang - Barricada Rumble Beat<a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 A work by an Italian punk band. A rare piece in which Billy Bragg from the UK participated in part.
-
 #### Tracklist```md
 A1. Goin’ To The Crossroads
 A2. Blue Message
@@ -64,16 +55,13 @@ B4. Midnight Serenade
 B5. Bad News From Swing Street
 B6. Not For Sale
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Purchase on Mercari](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
-
-### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner
-<a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
-
+### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner<a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 Finnish hardcore/thrash band
-
 #### Tracklist```md
 A1. They
 A2. How Much Longer
@@ -99,16 +87,13 @@ B10. Money Rules The Fools
 B11. Spice-Song
 
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Purchase on Mercari](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
-
-### Friction – friction
-<a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
-
+### Friction – friction<a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 1980 CD by Japan's pioneering punk band Friction
-
 #### Tracklist```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -121,48 +106,11 @@ B11. Spice-Song
 9. Big-S
 10. Out
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Purchase on Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
 ### List
-
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
-      <th>Artist/Title</th>
-      <th>era</th>
-      <th>Format</th>
-      <th>Features</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Snuff <br />– <em>Flibbiddydibbiddydob</em></a></td>
-      <td>1996</td>
-      <td>12"</td>
-      <td>British punk</td>
-    </tr>
-    <tr>
-      <td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">The Gang <br />- <em>Barricada Rumble Beat</em></a></td>
-      <td>1987</td>
-      <td>LP</td>
-      <td>Italian hardcore punk</td>
-    </tr>
-    <tr>
-      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amen <br />- <em>The End Of Evolution... Is Round The Corner</em></a></td>
-      <td>1997</td>
-      <td>LP</td>
-      <td>Finnish hardcore/thrash</td>
-    </tr>
-    <tr>
-      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>Friction</em></a></td>
-      <td>1980</td>
-      <td>CD</td>
-      <td>Japanese punk</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<div class="table-border"><table><thead><tr><th>Artist/Title</th><th>age</th><th>Format</th><th>Features</th></tr></thead><tbody><tr><td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Snuff <br />– <em>Flibbiddydibbiddydob</em></a></td><td>1996</td><td>12"</td><td>British punk</td></tr><tr><td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">The Gang <br />- <em>Barricada Rumble Beat</em></a></td><td>1987</td><td>LP</td><td>Italian hardcore punk</td></tr><tr><td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amen <br />- <em>The End Of Evolution... Is Round The Corner</em></a></td><td>1997</td><td>LP</td><td>Finnish hardcore/thrash</td></tr><tr><td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>Friction</em></a></td><td>1980</td><td>CD</td><td>Japanese punk</td></tr></tbody></table></div>

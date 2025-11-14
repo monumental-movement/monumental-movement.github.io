@@ -12,16 +12,10 @@ title: Pick up soundtrack works
 
 
 ""A remarkable collection of soundtrack works that weave the emotion of the story through sound and elevate the visual experience to a new dimension.''
-
 <hr>
-
-### Jerry Goldsmith – A Patch Of Blue
-<a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
-
+### Jerry Goldsmith – A Patch Of Blue<a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 Format: vinyl
-
 Work: Soundtrack of the 1965 film ""A Patch of Blue.'' 1978 reissue.
-
 #### Tracklist```md
 A1. Main Title
 A2. A Favour For Selina
@@ -44,23 +38,17 @@ B7. Selina Returns
 B8. Bacon And Eggs
 B9. Goodbye Selina
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=ZcAJ1_q_vtblxgJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=ZcAJ1_q_vtblxgJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
-
-### VA – Tank　Girl
-<a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
-
+### VA – Tank　Girl<a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 Format: CD
-
 Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Courtney Love, original music by Graeme Revell of SPK.
-
 #### Tracklist```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -75,42 +63,30 @@ Work: Soundtrack of the 1995 science fiction film ""Tank Girl.'' Compiled by Cou
 11. Veruca Salt - Aurora
 12. Ice-T - Big Gun
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-
-### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
-<a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
-
+### Adam Clayton & Larry Mullen – Theme From Mission: Impossible<a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 Format: Cassette
-
 Work: Cassette released in 1996, containing the theme song of the movie "Mission: Impossible".
-
 #### Tracklist```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
 
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-
-### Ennio Morricone – Nuovo Cinema Paradiso
-<a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
-
+### Ennio Morricone – Nuovo Cinema Paradiso<a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 Format: CD
-
 Work: Soundtrack of the 1989 classic film ""New Cinema Paradise.''
-
 #### Tracklist```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -129,51 +105,11 @@ Work: Soundtrack of the 1989 classic film ""New Cinema Paradise.''
 15. Toto' E Alfredo
 16. Per Elena
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-
 ### List
-
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
-      <th>Artist/Arranger</th>
-      <th>Title</th>
-      <th>Age/Works</th>
-      <th>Format</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jerry Goldsmith</td>
-      <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
-      <td>1965 movie score (reissued in 1978)</td>
-      <td>Cassette</td>
-    </tr>
-    <tr>
-      <td>VA</td>
-      <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
-      <td>1995 movie soundtrack</td>
-      <td>CD</td>
-    </tr>
-    <tr>
-      <td>Adam Clayton & Larry Mullen</td>
-      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
-      <td>1996 movie theme</td>
-      <td>Cassette</td>
-    </tr>
-    <tr>
-      <td>Ennio Morricone</td>
-      <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
-      <td>1989 movie soundtrack</td>
-      <td>CD</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<div class="table-border"><table><thead><tr><th>Artist/Arranger</th><th>Title</th><th>Age/Works</th><th>Format</th></tr></thead><tbody><tr><td>Jerry Goldsmith</td><td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td><td>1965 movie score (reissued in 1978)</td><td>Cassette</td></tr><tr><td>VA</td><td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td><td>1995 movie soundtrack</td><td>CD</td></tr><tr><td>Adam Clayton & Larry Mullen</td><td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td><td>1996 movie theme</td><td>Cassette</td></tr><tr><td>Ennio Morricone</td><td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td><td>1989 movie soundtrack</td><td>CD</td></tr></tbody></table></div>

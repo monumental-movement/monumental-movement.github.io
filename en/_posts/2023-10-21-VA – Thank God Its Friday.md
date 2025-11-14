@@ -13,7 +13,6 @@ title: VA – Thank God It"s Friday
 
 
 "VA - Thank God It's Friday" was released by Casablanca in 1978.
-
 #### Tracklist```md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark
@@ -39,6 +38,6 @@ D6. Donna Summer– Last Dance (Reprise)
 
 E. Donna Summer - Je T'Aime (Moi Non Plus)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lZypJPjK2Sw?si=ycy2M3pNCLSiI-rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
 
-#### Youtube
+[Purchase on Mercari](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
+#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/lZypJPjK2Sw?si=ycy2M3pNCLSiI-rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
