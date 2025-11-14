@@ -11,12 +11,9 @@ tags:
 - Reggaeton
 title: DJ Belal – Reggaeton Party Mix 05
 ---
-
-
 Side A is a remix version of Amerie's "1 Thing". B-side is a remix version of 50 Cent - "Candy Shop".
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Club
 
 A2. Instrumental
@@ -29,6 +26,4 @@ B2. Instrumental
 
 B3. Ordinary Mix
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
-

@@ -13,14 +13,11 @@ tags:
 - 00s
 title: Ursula 1000 – Here Comes Tomorrow
 ---
-
-
-Alex Gimeno, also known as Ursula 1000, a New York producer and lounge DJ, has established a unique style that he calls retro/future sound by fusing diverse sounds such as 60"s soundtracks, 90"s lounge revival, Shibuya-kei, British big beat, funk, and disco.
+Alex Gimeno, also known as Ursula 1000, a New York producer and lounge DJ, has established a unique style that he calls retro/future sound by fusing diverse sounds such as 60's soundtracks, 90's lounge revival, Shibuya-kei, British big beat, funk, and disco.
 
 "Here Comes Tomorrow" is a bossa nova electro track released in 2006.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Kaboom!
 A2. Hello! Let's Go To A Disco
 A3. Got Cha
@@ -34,8 +31,6 @@ D1. Arrastão
 D2. Ragnarock
 D3. Here Comes Tomorrow
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kW5JsoGZCrM?si=o_0jqJFFpuw1coO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m33082850505?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kW5JsoGZCrM?si=o_0jqJFFpuw1coO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

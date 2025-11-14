@@ -10,12 +10,9 @@ tags:
 - Acid
 title: Believe In The Frequency Power
 ---
-
-
 "Believe In The Frequency Power" is a compilation album released by the UK label "North South" in 1994.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Organization–Eternal
 
 A2. Gotham City –Animism
@@ -34,8 +31,6 @@ B4. Palomatic–Halo
 
 B5. Kiyoshi Hazemoto–Dawn Of Rainland
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

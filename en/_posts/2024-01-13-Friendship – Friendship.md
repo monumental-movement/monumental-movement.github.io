@@ -11,8 +11,6 @@ tags:
 - 70s
 title: Friendship – Friendship
 ---
-
-
 Produced by top musicians Abraham Laboriel, Alex Acuña, Don Grusin, Ernie Watts, Lee Ritenour, and Steve Forman.
 Friendship
 Jazz funk album by. Released in 1979.
@@ -23,7 +21,7 @@ He is also the founder of the band Koinonia.
 
 His early musical education came from his father, who was a guitarist and composer.
 
-At the age of 10, he made his first recording experience with a rock"n"roll group called "Los Traviesos".
+At the age of 10, he made his first recording experience with a rock'n'roll group called "Los Traviesos".
 
 During his teens, he worked as both a musician and an actor in Mexico, before moving to Boston and enrolling at Berklee College of Music.
 
@@ -39,8 +37,7 @@ Additionally, he was a sought-after bassist and was sought after by countless ar
 
 For the third year in a row, he was voted ""Most Valuable Player in the bass category'' by members of the Los Angeles Grammy Awards Organizing Association (NARAS), placing him second only to Ray Brown and Chuck Domannico.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Bullet Train
 
 A2. Tighten Up
@@ -55,7 +52,6 @@ B2. Waterwings
 
 B3. The Real Thing
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIQ6cIM_REI?si=qYPLWi4RjLSEU0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIQ6cIM_REI?si=qYPLWi4RjLSEU0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

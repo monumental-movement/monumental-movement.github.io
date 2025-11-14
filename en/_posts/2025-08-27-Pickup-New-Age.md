@@ -10,8 +10,6 @@ tags:
 - Relaxation
 title: Pick up New Age works
 ---
-
-
 "A remarkable collection of New Age works where you can experience a deep healing experience woven together with natural sounds and synthesizers."
 
 <hr>
@@ -22,10 +20,9 @@ title: Pick up New Age works
 Characteristics: Schawkie Roth is a composer specializing in healing, meditation, relaxation music and acoustic jazz, and is considered one of the pioneers of New Age spiritual music.
 
 
-Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation.
+Charm: A fusion of Eastern philosophy and Western music, this piece is perfect for meditation and relaxation. 
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Heaven On Earth (excerpt)
 A2. Waves Follows Wave
 A3. Inside Hollow Bamboo / Conversations by a Stream, Part I (excerpt)
@@ -34,13 +31,11 @@ B1. Music for "Five Elements Form"
 B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -51,21 +46,18 @@ B3. Dance of Bamboo
 
 Features: A work by Tomio Miyashita, a musician, music therapist, and synthesizer player from Nagano Prefecture.
 
-Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation.
+Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation. 
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. 水織音 - Miorine, The Sound Of Water Weaving
 
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -76,10 +68,9 @@ Appeal: Featuring synthesizer tones that promote deep meditative states, suitabl
 Features: Kitaro played keyboards as a member of the Japanese progressive rock band "Far East Family Band" in the early 1970s, and later developed a solo career.
 
 
-Appeal: A fantastic sound world that uses synthesizers spreads out, providing comfortable relaxation.
+Appeal: A fantastic sound world that uses synthesizers spreads out, providing comfortable relaxation. 
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. By The Sea Side
 A2. Soul Of The Sea
 A3. Micro Cosmos
@@ -92,13 +83,11 @@ B3. Endless Dreamy World
 B4. Kaiso
 B5. Astral Trip
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -110,8 +99,7 @@ Features: This is an album by Patrick Bernhardt released by the Canadian label "
 
 Appeal: Featuring synthesizer tones that promote deep meditative states, suitable for mind and body relaxation.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Le Chant De L'universel/The Song Of The Universal Light
 A1. 1er Mouv./Part One
 A2. 2e Mouv./Part Two
@@ -123,13 +111,11 @@ B1. Atlantis Angelis
 B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 B3. Transcendastral Voyage
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rz-WzRuR0dY?si=VYZ5pxbQVXQFHNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rz-WzRuR0dY?si=VYZ5pxbQVXQFHNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -141,11 +127,10 @@ B3. Transcendastral Voyage
 Features: A work by American jazz percussionist and producer Stephen Reed.
 
 
-Charm: Spiritual music that incorporates jazz elements, this work makes you feel one with nature.
+Charm: Spiritual music that incorporates jazz elements, this work makes you feel one with nature. 
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Amazon Mist
 2. Catch The Wind
 3. Serengeti Sunset
@@ -157,13 +142,11 @@ Charm: Spiritual music that incorporates jazz elements, this work makes you feel
 9. The Watering Place
 10. Balloon Safari
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -175,8 +158,7 @@ Features: A 1996 double LP by Australian ambient/relaxation music creator Tony O
 
 Charm: The harmonious combination of natural sounds and synthesizers provides a soothing space that feels like taking a forest bath.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Hidden Forest
 2. I Wonder
 3. Inside Outside
@@ -185,13 +167,11 @@ Charm: The harmonious combination of natural sounds and synthesizers provides a 
 6. Sharing Secrets
 7. Remember
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -202,8 +182,7 @@ Features: An album released in 1992 by the French duo Deep Forest. It is charact
 
 Appeal: Sounds that incorporate a variety of ethnic music will take you on a journey through different cultures.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Deep Forest
 2. Sweet Lullaby
 3. Hunting
@@ -215,12 +194,10 @@ Appeal: Sounds that incorporate a variety of ethnic music will take you on a jou
 9. The Second Twilight
 10. Sweet Lullaby (Ambient Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>

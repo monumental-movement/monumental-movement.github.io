@@ -10,13 +10,10 @@ tags:
 - Dancehall
 title: Various – Superstar
 ---
-
-
 "Various – Superstar" is
 This is a compilation album released by the Jamaican label "Rookie Production".
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Unknown Artist–The Enigma
 
 A2. Spragga–Analogy
@@ -41,6 +38,4 @@ B5. Spragga, Lady Saw–Backshot
 
 B6. Devonte–Sweet Symphony
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
-

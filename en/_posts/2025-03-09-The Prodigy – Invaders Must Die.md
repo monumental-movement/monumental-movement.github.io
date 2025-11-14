@@ -11,15 +11,12 @@ tags:
 - 00s
 title: The Prodigy – Invaders Must Die
 ---
-
-
 This album is the fifth studio album by UK electronic dance music group The Prodigy. The album, released in 2009, was the first to include all band members in the production process and was a commercial success.
 
 Contains hits such as "Invaders Must Die," "Omen," "Warrior's Dance," and "Take Me to the Hospital."
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 CD-1. Invaders Must Die
 CD-2. Omen
 CD-3. Thunder
@@ -42,8 +39,6 @@ DVD-2. Omen(PV)
 DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-[Purchase on Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
-
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube

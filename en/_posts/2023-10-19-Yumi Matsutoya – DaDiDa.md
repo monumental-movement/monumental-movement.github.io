@@ -10,8 +10,6 @@ tags:
 - Pops
 title: Yumi Matsutoya – Da・Di・Da
 ---
-
-
 "DA・DI・DA" is Yumi Matsutoya's 17th original album released in 1985.
 
 Participating musicians
@@ -24,8 +22,7 @@ Participating musicians
 ・Synthesizer programming: Keiji Urata, Chuck Wild
 ・Chorus: Yumi Matsutoya, Hitoshi Kirigaya, Toshihiro "Bobby" Kirigaya, Emiko Shiratori, Hi-Fi Set, Hiro Tsunoda, Mark I, Marvin Walker, Marvin Baker, Cindy
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. もう愛は始まらない
 
 A2. 人のストリート
@@ -44,8 +41,6 @@ B4. 青春のリグレット
 
 B5. たとえあなたが去って行っても
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

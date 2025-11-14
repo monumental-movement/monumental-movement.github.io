@@ -10,13 +10,11 @@ tags:
 - Hardcore
 title: '[Column] Definition of punk and hardcore: the turning point of anger and expression'
 ---
-
-
 ## Definition of punk and hardcore ─ The crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 
-In the late 1970s, young people felt oversaturated with commercialized rock music, and ""music that is simple, rough, and above all, expresses its true feelings"' was born. It"s punk. However, even this punk style eventually began to turn inward, sometimes formally. It was hardcore punk that once again unleashed the flames of anger.
+In the late 1970s, young people felt oversaturated with commercialized rock music, and ""music that is simple, rough, and above all, expresses its true feelings'' was born. It's punk. However, even this punk style eventually began to turn inward, sometimes formally. It was hardcore punk that once again unleashed the flames of anger.
 In this column, we will delve into the definitions and differences between punk and hardcore from the perspectives of music, ideology, fashion, and history.
 
 
@@ -88,45 +86,45 @@ Politically, it was the nascent stage of Thatcherism. Music functioned as that c
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Item</th>
-<th>Punk</th>
-<th>Hardcore</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Musicality</td>
-<td>Simple, close to initial lock</td>
-<td>Faster, more destructive, more profound</td>
-</tr>
-<tr>
-<td>Message</td>
-<td>Anti-establishment/anti-authority</td>
-<td>More radical and political</td>
-</tr>
-<tr>
-<td>Fashion</td>
-<td>Mohawk, safety pin, fancy decorations</td>
-<td>Street-oriented, minimal, practical</td>
-</tr>
-<tr>
-<td>Regionality</td>
-<td>British (+NY) origin</td>
-<td>Originally in America (especially on the west and east coasts)</td>
-</tr>
-<tr>
-<td>Spirituality</td>
-<td>Anarchy, freedom</td>
-<td>Discipline (straight edge), inner reform</td>
-</tr>
-<tr>
-<td>Live culture</td>
-<td>Destructive but expressive</td>
-<td>Sometimes violent and focused on group sex</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Punk</th>
+      <th>Hardcore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Musicality</td>
+      <td>Simple, close to initial lock</td>
+      <td>Faster, more destructive, more profound</td>
+    </tr>
+    <tr>
+      <td>Message</td>
+      <td>Anti-establishment/anti-authority</td>
+      <td>More radical and political</td>
+    </tr>
+    <tr>
+      <td>Fashion</td>
+      <td>Mohawk, safety pin, fancy decorations</td>
+      <td>Street-oriented, minimal, practical</td>
+    </tr>
+    <tr>
+      <td>Regionality</td>
+      <td>British (+NY) origin</td>
+      <td>Originally in America (especially on the west and east coasts)</td>
+    </tr>
+    <tr>
+      <td>Spirituality</td>
+      <td>Anarchy, freedom</td>
+      <td>Discipline (straight edge), inner reform</td>
+    </tr>
+    <tr>
+      <td>Live culture</td>
+      <td>Destructive but expressive</td>
+      <td>Sometimes violent and focused on group sex</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 
@@ -152,5 +150,3 @@ Nowadays, there is a re-evaluation among Generation Z and DIY festivals, and it 
 
 Punk and hardcore are not just music genres. Rather, it is an expression of the philosophy of ""having your own voice,'' and it is a medium that expresses this through sound, body, and group.
 What these two trends ask us is not just destruction, but perhaps a guideline for the future: ""What should we resist and what should we create?''
-
-

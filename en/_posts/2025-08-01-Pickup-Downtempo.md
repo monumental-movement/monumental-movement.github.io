@@ -10,8 +10,6 @@ tags:
 - 90s
 title: Pick up downtempo works
 ---
-
-
 A remarkable collection of downtempo works that envelop your heart with deep grooves and gentle beats."
 
 <hr>
@@ -21,21 +19,18 @@ A remarkable collection of downtempo works that envelop your heart with deep gro
 
 A doopy indie EP filled with quiet rhythms
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Whenever You See Fit (Original Version)
 
 B1. Whenever You See Fit (DJ Dynomite D Mix)
 
 B2. Whenever You See Fit (Sientific American Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -44,20 +39,17 @@ B2. Whenever You See Fit (Sientific American Mix)
 
 Foundation's sophisticated British sound
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. I Don't Know Why I Love You (But I Love You)
 
 B1. In My Life (Extended Version)
 B2. Family Affair (Plati Party Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Alovg32ZbQ?si=oP2TuMPFpnStQw-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Alovg32ZbQ?si=oP2TuMPFpnStQw-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
@@ -66,8 +58,7 @@ B2. Family Affair (Plati Party Mix)
 
 Soft electronic jazz and soul, popular in Japan
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Somewhere In The World
 2. Here And Now
 3. We Could Make It Happen
@@ -82,13 +73,11 @@ Soft electronic jazz and soul, popular in Japan
 12. Icy Cold As Winter
 13. Shapes And Patterns (Reprise)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
 
@@ -97,18 +86,15 @@ Soft electronic jazz and soul, popular in Japan
 
 A disco chill track with a UK electro feel.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Marching Orders (Special Mix)
 
 B. The Shot! (Dub Copy)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <hr>
 
@@ -118,17 +104,14 @@ B. The Shot! (Dub Copy)
 
 Italo-flavored afternoon chill beat
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Feelings (Mix Edit)
 
 B1. Feelings (Radio Edit)
 B2. Carillon
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3m_c59ddTE?si=UIL3E_2dltliUTGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q3m_c59ddTE?si=UIL3E_2dltliUTGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

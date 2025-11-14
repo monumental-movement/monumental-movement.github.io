@@ -12,15 +12,13 @@ tags:
 title: '[Column] Susumu Yokota — A universe in silence: A landscape of the soul drawn
   by electronic sounds'
 ---
-
-
 ## Chapter 1: Electronic music and Japan — Susumu Yokota's position
 
 
 Text: mmr｜Theme: Susumu Yokota. A solitary artist who explores the soul of sound at the border between club culture and ambient. Tracing its tranquility and cosmic nature
 
 
-In the early 1990s, Japan's electronic music scene was still in its infancy. While techno and house were becoming popular as imported culture, ambient music, which focused on "environmental sounds" and "silence," was still a minority experimental genre.
+In the early 1990s, Japan's electronic music scene was still in its infancy. While techno and house were becoming popular as imported culture, ambient music, which focused on "environmental sounds" and "silence," was still a minority experimental genre.  
 Susumu Yokota was a poet who lived in this quiet space. His music is an extension of club culture, yet somehow ""outside'' it. He was a rare artist who used electronic particles to depict the breath of nature, the distance of the wind, and the reverberations of memories.
 
 Although Yokota started out in Tokyo's club scene, he quickly transcended that context. His music focused more on "pause" than the "rhythm" of dance music, and moved toward pursuing the tranquility and organicity of electronic music. This is similar to the Japanese sense of ""wabi-sabi''.
@@ -43,7 +41,7 @@ color: #fff;
 
 ## Chapter 2: Susumu Yokota as a writer — Poetry of soundscape
 
-Yokota's early works are heavily influenced by acid house.
+Yokota's early works are heavily influenced by acid house.  
 Acid Mt. Fuji (1994) was a groundbreaking work that fused natural sounds and acid synth. A paradoxical structure in which electronic music depicts "nature." There were already the seeds of later ambient ideas.
 
 His method is not just track making, but ""acoustic poetry.'' Reconstructing the sampled material and making minute loops float like air. It feels like the sound changes over time and eventually sinks into the depths of memory. That was his own view of music.
@@ -55,69 +53,66 @@ What is noteworthy is that he published his works under multiple names. Among th
 ## Chapter 3: Album Deconstruction — The Depths of a Great Album
 
 ### "Sakura" (1999)
-Susumu Yokota's masterpiece and a monumental work in the history of ambient music.
+Susumu Yokota's masterpiece and a monumental work in the history of ambient music.  
 The faint melody and environmental sounds are layered, gently guiding the listener's consciousness inward. It has a transience that captures the moment of falling cherry blossoms in the sound, and it is a fusion of Japanese lyricism and universal beauty.
 
-The album has an excellent structure, and the whole album flows like a single "breath". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
+The album has an excellent structure, and the whole album flows like a single "breathing". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.  
 The reason "Sakura" continues to be loved by ambient music fans around the world is probably because it perfectly depicts this "sense of time" through sound.
 
 ### "Symbol" (2001)
-Build your own sound image while making full use of classical music sampling.
-Baroque and Impressionist melodies dissolve into a sea of ​​electronics in Yokota's hands. The entire work is like a ""reconstructed memory," and as the title suggests, it is ""symbolic" music.
+Build your own sound image while making full use of classical music sampling.  
+Baroque and Impressionist melodies dissolve into a sea of ​​electronics in Yokota's hands. The entire work is like a ""reconstructed memory,'' and as the title suggests, it is ""symbolic'' music.
 
 ### "Grinning Cat" (2000)
-An album with a fairy-tale-like worldview, with comfortable, fantastic acoustics.
+An album with a fairy-tale-like worldview, with comfortable, fantastic acoustics.  
 There is a sense of playfulness that goes beyond the framework of mere ambient music. It has the power to make the listener imagine a story while changing the shape of the sound.
 
 ### "The Boy and the Tree" (2003)
-It has an atmosphere that feels like it was recorded in a forest, and a rhythm that makes you think of the heartbeat of life.
+It has an atmosphere that feels like it was recorded in a forest, and a rhythm that makes you think of the heartbeat of life.  
 Yokota's unique "music of life" floating between nature and electronics. It has a high degree of perfection as a masterpiece of his later period.
 
 ---
 
 ## Chapter 4: Project under the name of Anima Mundi
 
-"Anima Mundi" means "soul of the world" in Latin.
-The series of works that Susumu Yokota developed under this name were truly worthy of that name.
-The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists''.
+"Anima Mundi" means "soul of the world" in Latin.  
+The series of works that Susumu Yokota developed under this name were truly worthy of that name.  
+The songs focus on drones, ambient sounds, and harmonic structures, expanding the listener's inner space. There is no beat or melody. There is only the ""sound that exists.''
 
-For Yokota, this name could be said to be a ""channel that connects the unconscious and the universe.''
+For Yokota, this name could be said to be a ""channel that connects the unconscious and the universe.''  
 If the music under the name Susumu Yokota is "earthly poetry," Anima Mundi is "heavenly prayer."
 
 The 12-inch "Hebula" is a techno song that combines a dreamy, trippy sound with tribal rhythms and elements. This song features complex acoustic effects and multi-layered sound textures, transporting listeners to another world.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Hebula
 
 B1. Fujin
 
 B2. Spring
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## Chapter 5: International reputation and impact
 
-In the early 2000s, Susumu Yokota was highly acclaimed in the European and American ambient/electronica scenes.
-In particular, ""Sakura'' boasted such a level of perfection that it was ranked alongside Boards of Canada, Fennesz, and Biosphere.
+In the early 2000s, Susumu Yokota was highly acclaimed in the European and American ambient/electronica scenes.  
+In particular, ""Sakura'' boasted such a level of perfection that it was ranked alongside Boards of Canada, Fennesz, and Biosphere.  
 Its beauty transcended genre boundaries and influenced post-classical and meditative music.
 
-It is also known that Aphex Twin and Four Tet supported his work.
-Overseas, he was described as ""Japan"s Brian Eno,'' but Yokota"s music was actually more emotional and poetic.
+It is also known that Aphex Twin and Four Tet supported his work.  
+Overseas, he was described as ""Japan's Brian Eno,'' but Yokota's music was actually more emotional and poetic.
 
 ---
 
 ## Chapter 6: Live and physicality
 
-Yokota's live performance was not just a reenactment, but an attempt to "play out the space itself."
-He eliminated lighting and images as much as possible, transforming the space with the "density of air" that sound has.
+Yokota's live performance was not just a reenactment, but an attempt to "play out the space itself."  
+He eliminated lighting and images as much as possible, transforming the space with the "density of air" that sound has.  
 The audience is enveloped in particles of sound and loses their sense of time. It was an experience that felt like each person was melting into the sound.
 
 His stance was a rare example of combining the dance-like physicality of techno with the meditative nature of ambient.
@@ -126,20 +121,20 @@ His stance was a rare example of combining the dance-like physicality of techno 
 
 ## Chapter 7: Susumu Yokota's music philosophy
 
-Yokota's musical philosophy, simply put, is ""finding life in sound.''
-For him, sound was not just a material, but a living entity.
-That"s why his works have no artificial coldness. Even though it"s an electronic sound, it has a warm, plant-like feel to it.
+Yokota's musical philosophy, simply put, is ""finding life in sound.''  
+For him, sound was not just a material, but a living entity.  
+That's why his works have no artificial coldness. Even though it's an electronic sound, it has a warm, plant-like feel to it.
 
-His music is also a poetic exploration of time.
-Time does not feel like it is "flowing", but rather "swaying".
+His music is also a poetic exploration of time.  
+Time does not feel like it is "flowing", but rather "swaying".  
 In this flow, the listener forgets himself and becomes one with the sound.
 
 ---
 
 ## Chapter 8: Heritage and its continuation to the present day
 
-When he passed away in 2015, many fans and musicians mourned his loss.
-However, his music still lives on quietly. New generations continue to be exposed to his sound through Bandcamp and reissues.
+When he passed away in 2015, many fans and musicians mourned his loss.  
+However, his music still lives on quietly. New generations continue to be exposed to his sound through Bandcamp and reissues.  
 His music transcends genres such as Ambient, Drone, and Minimal, and is being rediscovered as "listening meditation."
 
 Furthermore, Yokota's spirit has certainly been inherited by contemporary ambient artists such as Chihei Hatakeyama and Hiroshi Ebina.
@@ -164,9 +159,9 @@ Furthermore, Yokota's spirit has certainly been inherited by contemporary ambien
 
 ## Chapter 9: Conclusion — Music in silence
 
-Susumu Yokota's music is told not through flashy melodies and beats, but through silence and blank spaces.
-In that silence dwell the noise of the city, the breath of nature, and human memory.
+Susumu Yokota's music is told not through flashy melodies and beats, but through silence and blank spaces.  
+In that silence dwell the noise of the city, the breath of nature, and human memory.  
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in your heart.
+Even after the sound disappears, something remains in my heart.  
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

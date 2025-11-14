@@ -11,14 +11,12 @@ tags:
 - Movie
 title: '[Column] Post-rock/ambient interaction with film and architecture'
 ---
-
-
 ## Interaction with post-rock/ambient film and architecture
 
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
-The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.
-In addition to historical masterpieces, we will also organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
+The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.  
+Here, in addition to historical masterpieces, we will organize interactions with movies and architecture and ambient experiences in urban spaces.
 
 ---
 
@@ -43,13 +41,13 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 
 | Movies | Music | Year | Features |
 |------|----------|----|------|
-| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of circulation of time with a drone sound |
+| *Arrival* | Jóhann Jóhannsson | 2016 | Expressing the sense of time circulation with drone-like sounds |
 | *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | Ambient depiction of the coldness and expanse of a futuristic city |
 | *The Revenant* | Ryuichi Sakamoto & Alva Noto | 2015 | Expressing the pressure of nature and time with electronic and environmental sounds |
 | *Solaris* (2002 edition) | Eduard Artemyev | 2002 | Expanding psychological space with cosmic ambient |
 | *There Will Be Blood* | Jonny Greenwood | 2007 | Post-classical + noise creates tension and loneliness |
 
-**point**
+**Points**
 - Post-rock technique: Extend psychological time with a loop structure that repeats guitar and piano
 - Ambient method: Expand the sense of space with sustained sounds and drones
 
@@ -57,7 +55,7 @@ Ambient/post-rock has had a great influence on film music, and has become establ
 
 ### Connection with architecture and urban planning
 
-Ambient/post-rock shows a strong presence in dialogue with urban spaces and architecture.
+Ambient/post-rock shows a strong presence in dialogue with urban spaces and architecture.  
 
 | Location/Project | Music/Sound | Year | Features |
 |-------------------|------------|----|------|
@@ -67,7 +65,7 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 | Tate Modern Turbine Hall | Various sound installations | 2000s | Drone sound and audience experience expansion in a huge space |
 | Oculus, NYC | Sound installation by Steve Reich / La Monte Young influence | 2016 | Integrating architectural reverb and urban acoustic design |
 
-**point**
+**Points**
 - The themes of the urban space are "extension of time" and "fusion with environmental sounds"
 - In architecture, it is possible to design by calculating the volume, reflection, and movement of sound.
 - Music functions as an experience of the entire space, rather than just listening to it alone.
@@ -78,14 +76,14 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 
 <div class="mermaid">
 flowchart LR
-Music["Post-rock / Ambient"]
-Film["Movie"]
-Architecture["Architecture/urban space"]
+    Music["Post-rock / Ambient"]
+    Film["Movie"]
+    Architecture["Architecture/urban space"]
 
-Music --> Film
-Music --> Architecture
-Film --> Architecture
-Architecture --> Film
+    Music --> Film
+    Music --> Architecture
+    Film --> Architecture
+    Architecture --> Film
 
 </div>
 
@@ -170,8 +168,8 @@ In the future, the fusion of VR/AR and AI-generated music will further evolve th
 
 ### Related columns
 
-[[Column] History of post-rock/ambient and changes in equipment [discussion by era]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+ [[Column] History of post-rock/ambient and changes in equipment [discussion by era]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
 
-[[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+ [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
-[[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
+ [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

@@ -11,14 +11,11 @@ tags:
 - Mixture
 title: Wrench – Bliss
 ---
-
-
 Wrench was formed in July 1992 by Shige, Azusa Sakamoto, Tomohiro Matsuda, and Fujimaru Nagoshi, and has become an important presence in Japan's loud rock scene.
 
 This album is a double LP set released in 2000.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1  Sound Wave
 
 
@@ -57,8 +54,6 @@ D1  Passion
 
 D2  Blood Type Mysterious
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

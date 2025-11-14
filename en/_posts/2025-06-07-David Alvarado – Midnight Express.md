@@ -11,13 +11,10 @@ tags:
 - 90s
 title: David Alvarado – Midnight Express
 ---
-
-
 A house/deep house compilation mix CD selected by US DJ/producer David Alvarado, who has produced works for labels such as Ovum, Peacefrog, NRK, Plastic City, and Ultra.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. A:xus – Callin' U
 2. Mutabaruka –Dis Poem (Reel Houze Mix)
 3. Fresh & Low –Stay The Night
@@ -32,8 +29,6 @@ A house/deep house compilation mix CD selected by US DJ/producer David Alvarado,
 12. Space Jam – Stop
 13. Dubtribe Sound System – What You Feel In Your Heart
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,8 +10,6 @@ tags:
 - 80s
 title: Pick up new wave works
 ---
-
-
 "A remarkable group of New-Wave works that are impressive with their unique synthesizer sounds and avant-garde rhythms."
 
 <hr>
@@ -27,21 +25,18 @@ Release: 24th single released in 1984. A song by Elvis Costello & the Attraction
 The band was formed in London in late 1977 and left a huge mark on the rock world with their diverse musicality. He was also inducted into the Rock and Roll Hall of Fame in 2003.
 
 Recommended points
-A perfect fusion of new wave"s edgy guitar and rhythm and sophisticated pop feel. This is an important song that lets you feel the energy of the 80"s UK rock/new wave scene behind it.
+A perfect fusion of new wave's edgy guitar and rhythm and sophisticated pop feel. This is an important song that lets you feel the energy of the 80's UK rock/new wave scene behind it.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Let Them All Talk
 
 B. The Flirting Kind
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -54,8 +49,7 @@ Release: Posted on May 1, 2025. The debut album by The Buggles (UK new wave unit
 Recommended points: A masterpiece that symbolizes the era, including iconic synth pop/new wave songs such as "Video Killed the Radio Star." It also became a hot topic that the two later joined the band Yes.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
 3. Kid Dynamo
@@ -65,13 +59,11 @@ Recommended points: A masterpiece that symbolizes the era, including iconic synt
 7. Astroboy (And The Proles On Parade)
 8. Johnny On The Monorail
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -84,8 +76,7 @@ Release: Posted on October 26, 2023. A self-titled album by an Australian synth-
 
 Recommended points: New wave with a strong pop flavor, with sharp guitar riffs, synths, and unique vocals. Perfect for those who like early 80's synth pop.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Present Communication
 A2. With Closed Eyes
 A3. Total Eclipse
@@ -98,13 +89,11 @@ B3. You And Me
 B4. Nothing Changes
 B5. Satisfied Strangers
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -116,8 +105,7 @@ Release: Posted on October 15, 2023. The second album released in 1983 by Flock 
 
 Recommended points: Contains representative songs such as "Wishing (If I Had a Photograph of You)". This is a piece that shines with its glittering synth sound and aesthetic worldview.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Wishing (If I Had A Photograph Of You)
 A2. Nightmares
 A3. Transfer Affection
@@ -130,13 +118,11 @@ B4. Over The Border
 B5. The Fall
 B6. (It's Not Me) Talking
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -149,21 +135,18 @@ Release: Posted on September 9, 2023. A 1985 EP by a band with British pop/new w
 
 Recommended points: A unique world view that combines catchy melodies, atmospheric sounds, and introspective lyrics. This work received high praise from critics.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. I Can't Crack
 A2. Switch Off
 A3. Pause
 
 B1. I Can't Crack (Broken Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -176,8 +159,7 @@ Release: Posted on May 18, 2024. The fourth self-produced album by Devo, a repre
 
 Recommended points: An innovative album that combines minimal and cool synth lines, electronic percussion, and the theme of "deevolution." Contains representative songs such as "Through Being Cool".
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
 A3. Pity You
@@ -191,13 +173,11 @@ B4. Beautiful World
 B5. Enough Said
 B6. Working In The Coal Mine
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -210,8 +190,7 @@ Release: Posted on October 13, 2023. A work by UK singer-songwriter Colín Vearn
 
 Recommended points: A new wave/rock piece that combines delicate melodies and melancholic lyrics. The deep worldview is appealing.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. More Than The Sun
 A2. Butterfly Man
 
@@ -219,13 +198,11 @@ B1. I Could Kill You
 B2. Widemouth
 B3. Stephen
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -237,8 +214,7 @@ Release: Posted on December 18, 2024. The 3rd album (released in 2011) by a post
 m.m.r
 Recommended points: Their approach is a bold mix of post-punk, electro, disco, etc. Recommended as a dancing new wave with a revival feel even in recent years.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Sail Away
 2. Miss You
 3. Blue Bird
@@ -251,12 +227,10 @@ Recommended points: Their approach is a bold mix of post-punk, electro, disco, e
 10. How Deep Is Your Love?
 11. It Takes Time To Be A Man
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>

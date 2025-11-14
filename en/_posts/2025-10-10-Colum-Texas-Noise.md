@@ -11,18 +11,21 @@ tags:
 - 00s
 title: '[Column] Noise Desert: From the 2000s Texas Scene to the Present'
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTCi-MwNY4E?si=fZW4S31ZY5lUHYTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzNrAN1J08g?si=bO4Af2YmFXlnKHYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s17Q0n39QE8?si=D0Y9B4TAGYl01kiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 序章：静寂と轟音の狭間で — 南部におけるノイズの文法
 
 
-## Prologue: Between Silence and Roar — Grammar of Noise in the South
+文：mmr｜テーマ：CharalambidesからBlack Leather Jesus、南部実験音響の系譜をたどる——2000年代のテキサス・ノイズとその現在
 
 
-Text: mmr｜Theme: From Charalambides to Black Leather Jesus, tracing the genealogy of southern experimental sound—Texas noise in the 2000s and its current state
+アメリカ南部の広大な地平に、ノイズという音楽が根を下ろしたのは、1990年代後半から2000年代初頭にかけてである。  
+ニューヨークやロサンゼルスが「芸術都市」としてノイズ・ミュージックをアートギャラリーやアンダーグラウンド・クラブで発展させたのに対し、**テキサスはあくまで地理的孤立と個人的実験**の場としてその文法を築いていった。  
 
-
-It was from the late 1990s to the early 2000s that noise music took root in the vast landscape of the American South.
-While New York and Los Angeles were ""art cities'' that developed noise music in art galleries and underground clubs, Texas developed its grammar as a place of geographic isolation and personal experimentation.
-
-Houston, Austin, and San Antonio—these cities may be the ""homelands of country and blues'' on the surface, but behind the scenes **tape collage, non-music, and drone** were quietly being cultivated.
+ヒューストン、オースティン、サンアントニオ——これらの街は表向き「カントリーとブルースの故郷」でありながら、その裏側では**テープ・コラージュ、ノン・ミュージック、ドローン**が静かに培われていた。 
 
 ---
 
@@ -30,7 +33,7 @@ Houston, Austin, and San Antonio—these cities may be the ""homelands of countr
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -40,100 +43,95 @@ color: #fff;
 
 
 
-### Chapter 1: Solitary Sound Experiments — Charalambides and the Expansion of Southern Consciousness
+### 第一章：孤高の音響実験 — Charalambidesと南部の意識の拡張
 
-In the early 2000s, **Charalambides** (Christina and Tom Carter) were a mainstay of the Texas noise scene.
-Their sound wasn't so much noise as it was an experimental ritual that explored the ""junior edge'' of folk and drone.
+2000年代初頭、**Charalambides**（クリスティーナ＆トム・カーター夫妻）は、テキサスのノイズ・シーンにおける精神的支柱であった。  
+彼らのサウンドはノイズというよりも、**フォークとドローンの臨界点**を探る実験的儀式だった。  
 
-- Infinitely stretched guitar reverberation
-- Vocal phrase repeated like a prayer
-- Harmonic structure that can only be achieved by passing through the dry Texas air
+- 無限に引き伸ばされたギターの残響  
+- 祈祷のように繰り返されるヴォーカル・フレーズ  
+- テキサスの乾いた空気を通すことでしか成立しない倍音構造  
 
-> "It's like recording the scenery itself, not the music."
-> — Thurston Moore (Sonic Youth)
+> “音楽ではなく、風景そのものを録音しているようだ。”  
+> — Thurston Moore（Sonic Youth）
 
-Charalambides' activities spread through the **Kranky** and **Wholly Other** labels, and had a great influence on later Texas noise artists.
+Charalambidesの活動は、**Kranky**や**Wholly Other**レーベルを通じて広がり、のちのテキサス出身ノイズ・アーティストに多大な影響を与える。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Chapter 2: Noise of Iron and Flesh — Black Leather Jesus and the Genealogy of Physicality
-
-**Black Leather Jesus (BLJ)**, which has been active since the 1990s, is a Houston-based noise group led by **Richard Ramirez**.
-BLJ continued to be active in the 2000s and beyond as the ""extreme of harsh noise"', along with Japan"s Hijikaido, MERZBOW, and America's The Haters.
-
-BLJ is characterized by its fusion of noise, flesh, and homosexual aesthetics.
-Their stages feature restraints, leather, and religious rituals, accompanied by physical explosions of noise.
-It was more than a sonic experiment, it was a body-mediated resistance and celebration.
-
-Offshoot units such as **Werewolf Jerusalem** and **The Rita** also sprang up around BLJ, turning Texas noise culture into an **underground empire**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DTCi-MwNY4E?si=fZW4S31ZY5lUHYTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Chapter 3: From drones to ambient sounds — the connection between Austin and art noise
+### 第二章：鉄と肉体のノイズ — Black Leather Jesusと身体性の系譜
 
-Austin is the city in Texas where noise has taken on new directions, especially as a hotbed of college culture and DIY art.
-In the late 2000s, artists like **Iron Lung, Pure Ground, and Digital Leather** shifted their focus from harshness to minimalism.
+1990年代から活動を続ける**Black Leather Jesus（BLJ）**は、**リチャード・ラミレス**率いるヒューストン拠点のノイズ集団。  
+日本の非常階段やMERZBOW、アメリカのThe Hatersと並び称される**「ハーシュ・ノイズの極点」**として、BLJは2000年代以降も旺盛な活動を続けた。  
 
-The recording environment has also changed. Cassette labels were on the rise, and exchanges with countries such as **Edition Mego and Hospital Productions** were also progressing.
-A characteristic of this period was the redefinition of **noise as art**.
-In particular, the "No Idea Festival" was held in small galleries and warehouses in Austin.
-Recognized Texas noise culture as part of an international avant-garde music network.
+BLJの特徴は、**ノイズと肉体、同性愛的美学の融合**にある。  
+彼らのステージでは、拘束具や皮革、宗教的な儀式がノイズの物理的爆発とともに展開される。  
+それは音響実験というよりも、**身体を媒介にした抵抗と祝祭**であった。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SzNrAN1J08g?si=bO4Af2YmFXlnKHYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+BLJ周辺には、**Werewolf Jerusalem**や**The Rita**といった派生ユニットも誕生し、テキサスのノイズ文化を**アンダーグラウンドの帝国**へと変えていった。
 
----
-
-### Chapter 4: Noise after Noise — Developments after the 2010s
-
-In the 2010s, noise changed from "extreme acoustic expression" to "structural thinking."
-Artists from Texas are breaking new ground by mixing ambient, electroacoustic, field recording, and more.
-
-As a typical example:
-
-- **Tom Carter**'s solo work "Long Time Underground" (2015)
-- **Rick Reed**'s tape works (core of the Austin electronic sound scene)
-- **Poetics of Memory and Noise** using loop cassettes by **Amulets (Randall Taylor)**
-
-These movements no longer consider noise as "destructive music" but as **the noise of time and existence**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Chapter 5: Current Location and Future of Modern Texas Noise
+### 第三章：ドローンから環境音へ — オースティンとアートノイズの接続
 
-The Texas noise scene of the 2020s lies between the network and the land.
-While young artists from Houston and Dallas are active as a digital collective through Bandcamp, YouTube, Discord, etc.
-Older artists continue to work with analog equipment.
+オースティンは、テキサスの中でも特に**大学文化とDIYアートの温床**として、ノイズが新しい方向に展開した都市である。  
+2000年代後半、**Iron Lung、Pure Ground、Digital Leather**といったアーティストが、**ハーシュからミニマルへ**と重心を移した。  
 
-> "Noise is a matter of attitude, not technology."
-> — Richard Ramirez (Black Leather Jesus)
+録音環境も変化した。カセット・レーベルが台頭し、**Edition MegoやHospital Productions**など国外との交流も進む。  
+この時期の特徴は、**ノイズ＝アート**としての再定義である。  
+特に、オースティンの小ギャラリーや倉庫で開催された「No Idea Festival」は、  
+テキサスのノイズ文化を**国際的前衛音楽ネットワーク**の一部として認識させた。
 
-Texas noise continues to oscillate between wild and urban.
-It could be called **"Southern literature through sound"**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s17Q0n39QE8?si=D0Y9B4TAGYl01kiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Chronology
+### 第四章：ノイズ以降のノイズ — 2010年代以降の展開
+
+2010年代に入ると、ノイズは「極端な音響表現」から「構造的思考」へと変化する。  
+テキサス出身のアーティストたちは、**アンビエント、電子音響、フィールドレコーディング**などを交錯させる新しい地平を切り開いた。  
+
+代表的な例として：
+
+- **Tom Carter** のソロ作品『Long Time Underground』（2015）  
+- **Rick Reed** のテープ作品群（オースティン電子音響シーンの核心）  
+- **Amulets（Randall Taylor）** によるループカセットを用いた**記憶とノイズの詩学**
+
+これらの動きは、もはやノイズを“破壊音楽”としてではなく、**時間と存在のノイズ**として捉え直している。
+
+
+---
+
+### 第五章：現代テキサス・ノイズの現在地と未来
+
+2020年代のテキサス・ノイズ・シーンは、**ネットワークと土地性の狭間**にある。  
+Bandcamp、YouTube、Discordなどを通じ、ヒューストンやダラスの若手アーティストが**デジタル・コレクティブ的**に活動する一方で、  
+古参のアーティストは依然としてアナログ機材と対峙し続けている。
+
+> 「ノイズはテクノロジーではなく、態度の問題だ。」  
+> — Richard Ramirez（Black Leather Jesus）
+
+テキサスのノイズは、荒野と都市の中間で揺れ続けている。  
+それは、**“音による南部文学”**とも言えるだろう。
+
+
+---
+
+### 年表
 
 <div class="mermaid">
 
 flowchart TD
-A2000["2000: Charalambides reissues 'Unknown Spin' (Kranky)"]
-A2002["2002: No Idea Festival to be held for the first time in Austin"]
-A2005["2005: Black Leather Jesus' "Yes, I Am That Fucking Desperate" released"]
-A2010["2010: Amulets starts its activities"]
-A2015["2015: Tom Carter's "Long Time Underground" released"]
-A2020["2020: Texas noise netlabel group becomes active (Bandcamp)"]
-A2024["2024: Black Leather Jesus re-evaluation movement, European tour realized"]
+    A2000["2000：Charalambidesが『Unknown Spin』を再発（Kranky）"]
+    A2002["2002：No Idea Festival、オースティンで初開催"]
+    A2005["2005：Black Leather Jesus『Yes, I Am That Fucking Desperate』発表"]
+    A2010["2010：Amuletsが活動開始"]
+    A2015["2015：Tom Carter『Long Time Underground』リリース"]
+    A2020["2020：テキサス・ノイズ・ネットレーベル群が活発化（Bandcamp）"]
+    A2024["2024：Black Leather Jesus再評価の動き、欧州ツアー実現"]
 
-A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
+    A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
 
 
 </div>
@@ -142,39 +140,39 @@ A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
 ---
 
 
-### Discography
+### ディスコグラフィー
 
-| Artist | Title | Year | Link |
-| ------------------- | ---------------------------------- | ---- | ---------------------------------- |
-| Charalambides | *Unknown Spin* | 2000 | [Amazon](https://amzn.to/3KH8BI2) |
-| Tom Carter | *Long Time Underground* | 2015 | [Amazon](https://amzn.to/46IETLi) |
-| Amulets | *Between Distant and Remote* | 2018 | [Amazon](https://amzn.to/4heNI31) |
-| Black Leather Jesus | *Bible of Burnt Skin* | 2020 | [Amazon](https://amzn.to/4qm9NRB) |
-
----
-
-### Conclusion: Noise in the desert — sound as a celebration of solitude
-
-Texas noise is horizon noise, not city noise.
-It wasn't a scream or resistance, but a slight vibration to confirm its existence.
-Noise artists here are not only working through technology, but also
-Rather, he continues to update his "ethics of sound" in solitude and nature.
-
-> "Noise is music in the form of silence."
-> — From an unsigned tape note
-
+| アーティスト              | タイトル                               | 年    | リンク                                              |
+| ------------------- | ---------------------------------- | ---- | ------------------------------------------------ |
+| Charalambides       | *Unknown Spin*                     | 2000 | [Amazon](https://amzn.to/3KH8BI2) |
+| Tom Carter          | *Long Time Underground*            | 2015 | [Amazon](https://amzn.to/46IETLi) |
+| Amulets             | *Between Distant and Remote*       | 2018 | [Amazon](https://amzn.to/4heNI31) |
+| Black Leather Jesus | *Bible of Burnt Skin*              | 2020 | [Amazon](https://amzn.to/4qm9NRB) |
 
 ---
 
+### 結語：砂漠に響くノイズ — 孤独の祝祭としての音
 
-### Related columns
+テキサスのノイズは、都市的ノイズではなく地平線のノイズである。
+それは叫びでも抵抗でもなく、存在を確かめるための微振動だ。
+この地のノイズ・アーティストたちは、テクノロジーを通じてではなく、
+むしろ孤独と自然の中で「音の倫理」を更新し続けている。
 
-🔗 [[Column] Bay Area Noise/Experimental Music Scene — 50 years of destruction and resonance](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
+> “ノイズとは、沈黙の形をした音楽である。”
+> — 無署名のテープ・ノートより
 
-🔗 [[Column] Noise Music — From its origins to the present: Historical background, famous records, and changes in equipment](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 [[Column] The trajectory of Japanese underground rock and noise from the 90s to 2000s](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
+---
 
-🔗 [[Column] History and masterpieces of Experimental Music: From its origins to the present](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [[Column] High brands and noise music — the intersection of luxury and radical acoustics](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+### 関連コラム
+
+🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
+
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
+
+🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
+
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
+
+🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

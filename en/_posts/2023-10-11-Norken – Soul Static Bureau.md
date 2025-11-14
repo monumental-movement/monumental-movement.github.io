@@ -11,14 +11,11 @@ tags:
 - Rare
 title: Norken – Soul Static Bureau
 ---
-
-
 Lee Anthony Norris, also known as Norken, is a British electronic producer based in Devon, England.
 
 The double LP "Soul Static Bureau" released in 2000 is a techno/minimal/deep house track that features calm and emotional elements, sophisticated rhythms, and Norken's unique sound design.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Gone
 
 A2. Painting
@@ -41,8 +38,7 @@ D2. Motor Breeze
 
 D3. Melissa Blend
 ```
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Se2tRkMcNL4?si=YNI7G5xkyeq0lHfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m49930985507?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Se2tRkMcNL4?si=YNI7G5xkyeq0lHfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

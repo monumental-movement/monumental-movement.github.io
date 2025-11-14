@@ -11,12 +11,9 @@ tags:
 - 90s
 title: VA – That's Eurobeat Vol. 22
 ---
-
-
 The 22nd installment of the Italo-Disco/Hi-NRG/Eurobeat compilation series, released in 1990 on the Alfa label. Illustration by Shigenari Onishi.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Radiorama –Why Baby Why (Megatron Dance)
 2. Mister Black –Brown (High Energy Edit)
 3. Laurie –Somebody (The Groove In The Mix)
@@ -33,8 +30,6 @@ The 22nd installment of the Italo-Disco/Hi-NRG/Eurobeat compilation series, rele
 9.5. Alphatown –Hot Stuff
 9.6.. F.C.F. –Black Mother
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,12 +13,9 @@ tags:
 - Ambient
 title: Plastikman – Musik
 ---
-
-
 An album released by Richie Hawtin under the alias Plastikman on the NovaMute label in 1994. This is Richie Hawtin's third studio album and second under his Plastikman name.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Konception
 2. Plastique
 3. Kriket
@@ -30,8 +27,6 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 9. Marbles
 10. Lasttrak
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

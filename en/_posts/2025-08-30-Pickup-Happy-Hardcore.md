@@ -11,8 +11,6 @@ tags:
 - 00s
 title: Pick up Happy Hardcore works
 ---
-
-
 "A series of endlessly high-tension, Happy Hardcore works that transcend both the past and the future."
 
 <hr>
@@ -24,20 +22,17 @@ Released: 1994/Dutch happy hardcore masterpiece
 
 Features: A classic that took the 90's Eurodance/rave scene by storm with its catchy melody and positive energy. It continues to be loved by many clubs and raves today.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Wonderfull Days (Rotterdam Mix)
 
 B1. Wonderfull Days (Trance Mix)
 B2. Wonderfull Days (Radio Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -50,20 +45,17 @@ Released: 1998, single from "No Time to Chill"
 
 Characteristics: Happy hardcore-oriented trance that shines with strong sample usage of "James Brown Is Dead" (L.A. Style). A unique piece by the overseas band Scooter.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Call Me Mañana (Heavy Horses Extended)
 
 B1. Bramfeld
 B2. Call Me Mañana (Heavy Horses Radio)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -76,20 +68,17 @@ Overview: Songs by Scooter's trance-derived project Ratty
 Features: Represents the original version of "She"s The Sun" "Sunrise (Ratty"s Inferno)". A passionate floor track that looks great in the club.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Sunrise (Here I Am) (Club Mix)
 
 B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -101,20 +90,17 @@ Released by: UK label Sonic Boom
 
 Features: A powerful EP of happy hardcore x hardcore/techno fusion, with the title song "Forevermore" and the techno-flavored "Ignition Sequence" mixed together.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Forevermore (5am Mix)
 
 B1. Ignition Sequence Start
 B2. Forevermore (Original)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Mv5UPmMP3k?si=M9PpidAR23I_ooHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Mv5UPmMP3k?si=M9PpidAR23I_ooHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -126,19 +112,15 @@ Artist: Popular British DJ/producer Mark Breeze
 
 Characteristics: A song that has been supported by many clubs, with an uplifting melody and energetic beat, as well as samples from "Kick Your Legs In The Air" and "Don"t Make Me Wait (Special Version)."
 
-#### Tracklist
-```md
+#### Tracklist```md
 a. Jump A Little Higher (Brisk Remix)
 
 b. Jump A Little Higher
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
-

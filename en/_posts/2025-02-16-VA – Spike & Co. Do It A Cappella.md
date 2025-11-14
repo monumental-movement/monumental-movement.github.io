@@ -12,12 +12,9 @@ tags:
 - 90s
 title: VA – Spike & Co. Do It A Cappella
 ---
-
-
 This album is the soundtrack for a 1990 PBS documentary about a cappella music directed by Spike Lee.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. True Image – I Need You
 2. Mint Juleps – Don't Let Your Heart
 3. Rockapella – Zombie Jamboree
@@ -32,8 +29,6 @@ This album is the soundtrack for a 1990 PBS documentary about a cappella music d
 12. The Persuasions – Pass On The Love
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

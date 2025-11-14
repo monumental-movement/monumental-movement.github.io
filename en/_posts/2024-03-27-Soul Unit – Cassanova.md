@@ -11,12 +11,9 @@ tags:
 - 00s
 title: Soul Unit – Cassanova
 ---
+The soul unit's EP "Casanova" includes a Latin hip-hop track produced by The Pharcyde's track maker Spaceboy Boogie X.
 
-
-The soul unit"s EP "Casanova" includes a Latin hip-hop track produced by The Pharcyde"s track maker Spaceboy Boogie X.
-
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Cassanova (Dirty)
 
 A2. Cassanova (Clean)
@@ -31,6 +28,4 @@ B3. Pure As Gold (Clean)
 
 B4. Pure As Gold (Instrumental)
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
-

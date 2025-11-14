@@ -12,14 +12,12 @@ tags:
 title: '[Column] "Other Cinema" in San Francisco''s Mission District: A sacred place
   for underground movies'
 ---
+##  Other Cinemaとは？
+
+文：mmr｜テーマ：映画の歴史や文化を深く理解するための重要な資料および貴重な体験の場について
 
 
-## What is Other Cinema?
-
-Text: mmr｜Theme: Important materials and places for valuable experiences to deeply understand the history and culture of film
-
-
-Located in San Francisco's Mission District, Other Cinema is a must-see for movie buffs who love underground, experimental, and arthouse cinema. This location is run by Craig Baldwin and hosts screenings every Saturday in the basement of the Artists' Television Access (ATA) gallery. The screening is free and this unique event will also feature books, records, VHS, wine and more.
+サンフランシスコのミッション地区に位置する「Other Cinema」は、アンダーグラウンド映画、実験映画、アートハウス作品を愛する映画ファンにとって、欠かせない存在です。この場所は、Craig Baldwinによって運営され、Artists' Television Access（ATA）ギャラリーの地下で毎週土曜日に上映会を開催しています。上映は無料で、書籍、レコード、VHS、ワインなども提供されるユニークなイベントです。
 
 
 
@@ -29,7 +27,7 @@ Located in San Francisco's Mission District, Other Cinema is a must-see for movi
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -38,134 +36,133 @@ color: #fff;
 </style>
 
 
-### Characteristics and charm of Other Cinema
+### Other Cinemaの特徴と魅力
 
-""Other Cinema'' is known as a place to introduce experimental and challenging works that stand out from commercial films. In particular, many works by American underground films and independent film pioneers are shown. These works include visual experiments and social messages, offering new perspectives to the audience.
+「Other Cinema」は、商業映画とは一線を画す、実験的で挑戦的な作品を紹介する場として知られています。特に、アメリカのアンダーグラウンド映画や、インディペンデント映画の先駆者たちの作品が多く上映されています。これらの作品は、視覚的な実験や社会的メッセージを含み、観客に新たな視点を提供します。
 
-Craig Baldwin also produces his own work, and his films occupy a central place in Other Cinema's screening program. His work explores visual and sound experiments through the reconstruction of archival footage and critique of pop culture.
-
-
----
-
-### Early activities and "Eyes of Hell"
-
-Craig Baldwin began working with Artists" Television Access (ATA) around 1984, when he moved to San Francisco"s Mission District. Initially it screened experimental films under the name "Eyes of Hell," but in 1987 it was renamed "Other Cinema," becoming a long-lived screening series that continues to this day.
+また、Craig Baldwinは自身の作品も手がけており、彼の映画は「Other Cinema」の上映プログラムの中心的な位置を占めています。彼の作品は、アーカイブ映像の再構築や、ポップカルチャーの批評を通じて、視覚と音の実験を追求しています。
 
 
 ---
 
-### Management style of "Other Cinema"
+### 初期の活動と「Eyes of Hell」
 
-At Other Cinema, filmmakers would bring their films on VHS, and if Baldwin viewed and approved them, they would be included in the spring or fall screening calendar. This mode of operation provided an important outlet for San Francisco's independent film community.
-
----
-
-
-### About Craig Baldwin
-
-Craig Baldwin is an experimental filmmaker who heads San Francisco's ""Other Cinema'' series and is known as a pioneer of underground film. His work challenges viewers to think deeply by reconstructing archival footage and sharply criticizing political and social themes.
+Craig Baldwinは、サンフランシスコのミッション地区に移住した1984年頃から、Artists' Television Access（ATA）で活動を始めました。最初は「Eyes of Hell」という名称で実験映画の上映を行っていましたが、1987年に「Other Cinema」と改名し、現在に至るまで続く長寿命の上映シリーズとなりました。 
 
 
 ---
 
+### 「Other Cinema」の運営スタイル
 
-### Craig Baldwin's masterpiece filmography
+「Other Cinema」では、映画製作者が自らの作品をVHSで持参し、Baldwinがそれを視聴して承認した場合、春または秋の上映カレンダーに組み込まれるというスタイルが取られていました。このような運営方法は、サンフランシスコのインディペンデント映画コミュニティにおいて、重要な発表の場となっていました。
 
-Below, Baldwin's major works are listed by year.
+---
 
-#### 1990s
+
+### Craig Baldwinについて
+
+Craig Baldwin（クレイグ・ボールドウィン）は、サンフランシスコの「Other Cinema」シリーズを主宰する実験映画作家であり、アンダーグラウンド映画の先駆者として知られています。彼の作品は、アーカイブ映像を再構築し、政治的・社会的テーマを鋭く批評することで、観客に深い思索を促します。
+
+
+---
+
+
+### Craig Baldwinの代表作フィルモグラフィー
+
+以下に、Baldwinの主な作品を年代別にリスト化しました。
+
+#### 1990年代
 
 **Tribulation 99**: Alien Anomalies Under America (1991)
 
-A parody documentary depicting US intervention in Latin America in the form of an alien invasion.
+アメリカのラテンアメリカ介入を、エイリアン侵略の形で描いたパロディドキュメンタリー。
 
 
 **Sonic Outlaws (1995)**
 
-An experimental documentary on the theme of music and copyright.
+音楽と著作権をテーマにした実験ドキュメンタリー。
 
 ---
 
 
-#### 2000s
+#### 2000年代
 
 **Spectres of the Spectrum (1999)**
 
-Science fiction that explores the history of radio waves and media.
+電波とメディアの歴史を探るサイエンスフィクション。
 
 
 **Mock Up on Mu (2008)**
 
-Science fiction based on L. Ron Hubbard and Jack Parsons.
+L.ロン・ハバードとジャック・パーソンズを題材にしたサイエンスフィクション。
 
 
 ---
 
-### Unique perspective of "Tribulation 99"
+### 「Tribulation 99」のユニークな視点
 
-His 1991 film Tribulation 99: Alien Anomalies Under America is a parody documentary depicting American intervention in Latin America in the form of an alien invasion. Baldwin combined elements such as existing conspiracy theories, UFOs, and Hollow Earth to create a satirical depiction of the history of American imperialism. This work is considered one of his masterpieces.
-
----
-
-### Production background of "Sonic Outlaws"
-
-Baldwin's 1995 film Sonic Outlaws is an experimental documentary that explores the relationship between copyright law and art. In creating the film, he collaborated with artists such as Negativland, Tape-beatles, and John Oswald, reconstructing existing footage to provide a new perspective. This work is an important work that questions the boundaries between art and copyright.
+1991年の作品『Tribulation 99: Alien Anomalies Under America』は、アメリカのラテンアメリカへの介入をエイリアン侵略の形で描いたパロディドキュメンタリーです。Baldwinは、既存の陰謀論やUFO、ホロウアースなどの要素を組み合わせ、アメリカ帝国主義の歴史を風刺的に描きました。この作品は、彼の代表作の一つとされています。
 
 ---
 
-### DVD list
+### 「Sonic Outlaws」の制作背景
 
-Below, we"ve organized Craig Baldwin"s works by year and provided links to purchase the DVDs.
+Baldwinの1995年の作品『Sonic Outlaws』は、著作権法とアートの関係を探る実験ドキュメンタリーです。制作にあたり、彼はNegativlandやTape-beatles、John Oswaldなどのアーティストと協力し、既存の映像素材を再構築することで、新たな視点を提供しました。この作品は、アートと著作権の境界を問い直す重要な作品となっています。
 
-#### 1990s
+---
 
-| Title | Release year | Purchase link |
+### DVDリスト
+
+以下に、Craig Baldwinの作品を年代別に整理し、DVD購入リンクを示します。
+
+#### 1990年代
+
+| タイトル                                          | 発売年  | 購入リンク                                                                                 |
 | --------------------------------------------- | ---- | ------------------------------------------------------------------------------------- |
 | Tribulation 99: Alien Anomalies Under America | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
-| Sonic Outlaws | 1995 | [Amazon](https://amzn.to/48Ix4X9) |
-| Spectres of the Spectrum | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum) |
+| Sonic Outlaws                                 | 1995 | [Amazon](https://amzn.to/48Ix4X9)                  |
+| Spectres of the Spectrum                      | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum)        |
 
 ---
 
-#### 2000s
+#### 2000年代
 
-| Title | Release year | Purchase link |
-| ------------- | ---- | ----------------------------------------------------------------------------- |
+| タイトル          | 発売年  | 購入リンク                                                                   |
+| ------------- | ---- | ----------------------------------------------------------------------- |
 | Mock Up on Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
 
 
 ---
 
 
-### Characteristics and influence of the work
+### 作品の特徴と影響
 
-Baldwin's work is known for its use of found footage to sharply critique political and social themes. His films combine visual experimentation with political messages to provoke deep thought.
+Baldwinの作品は、found footage（既存映像素材）を駆使し、政治的・社会的テーマを鋭く批評することで知られています。彼の映画は、視覚的な実験と政治的メッセージが融合し、観客に深い思索を促します。
 
-In particular, ""Tribulation 99: Alien Anomalies Under America" uses political satire by portraying America's intervention in Latin America as an alien invasion. ""Sonic Outlaws" explores the themes of music and copyright, and questions the relationship between media and art. Spectres of the Spectrum examines the relationship between technology and society by exploring the history of radio waves and media.
-
----
-
-### Role and influence of "Other Cinema"
-
-"Other Cinema" is an experimental film screening series hosted by Baldwin every Saturday at San Francisco's Artists' Television Access (ATA). This series has become an important outlet for underground and experimental cinema, and is a treasure for film lovers and researchers alike.
-
-Baldwin's work and ""Other Cinema'' had a major influence on the development of underground American cinema and opened up new possibilities for experimental film. His activities continue to expand the range of cinematic expression and provide audiences with new perspectives.
+特に「Tribulation 99: Alien Anomalies Under America」では、アメリカのラテンアメリカ介入をエイリアン侵略の形で描くことで、政治的な風刺を効かせています。「Sonic Outlaws」では、音楽と著作権をテーマにし、メディアとアートの関係を問い直しています。「Spectres of the Spectrum」では、電波とメディアの歴史を探ることで、テクノロジーと社会の関係を考察しています。
 
 ---
 
-### Related links
+### 「Other Cinema」の役割と影響
 
-- [Other Cinema official website](http://www.othercinema.com/index.html)
+「Other Cinema」は、サンフランシスコのArtists' Television Access（ATA）で毎週土曜日に開催される実験映画の上映シリーズで、Baldwinが主宰しています。このシリーズは、アンダーグラウンド映画や実験映画の重要な発表の場となっており、映画愛好者や研究者にとって貴重な存在です。
+
+Baldwinの作品と「Other Cinema」は、アメリカのアンダーグラウンド映画の発展に大きな影響を与え、実験映画の新たな可能性を切り開いてきました。彼の活動は、映画の表現の幅を広げ、観客に新たな視点を提供し続けています。
+
+---
+
+### 関連リンク
+
+- [Other Cinema 公式サイト](http://www.othercinema.com/index.html)
 - [IMDb – Craig Baldwin](https://www.imdb.com/name/nm0049878)
-- [Letterboxd – List of Craig Baldwin's works](https://letterboxd.com/director/craig-baldwin)
+- [Letterboxd – Craig Baldwinの作品一覧](https://letterboxd.com/director/craig-baldwin)
 
 ---
 
-### summary
+### まとめ
 
-As a pioneer of underground film, Craig Baldwin has sharply criticized political and social themes through experimental films that make full use of found footage. His work combines visual experimentation and political messages to provoke deep thought. ""Other Cinema'' is an important venue for presenting his works and has had a great influence on the development of underground cinema.
+Craig Baldwinは、アンダーグラウンド映画の先駆者として、found footageを駆使した実験映画を通じて、政治的・社会的テーマを鋭く批評してきました。彼の作品は、視覚的な実験と政治的メッセージが融合し、観客に深い思索を促します。「Other Cinema」は、彼の作品を発表する重要な場であり、アンダーグラウンド映画の発展に大きな影響を与えています。
 
-His work continues to expand the range of cinematic expression and offer audiences new perspectives. Baldwin's work is a must-see for film lovers and researchers, and his work should continue to be watched.
+彼の作品は、映画の表現の幅を広げ、観客に新たな視点を提供し続けています。映画愛好者や研究者にとって、Baldwinの作品は必見であり、彼の活動は今後も注目されるべきです。
 
-Other Cinema is an important hub of film culture in San Francisco's Mission District, providing a rare experience for lovers of underground and experimental film. Its DVD collection is an important resource for deeply understanding film history and culture. It is definitely a place worth visiting for film lovers and researchers.
-
+そして、「Other Cinema」は、サンフランシスコのミッション地区における映画文化の重要な拠点であり、アンダーグラウンド映画や実験映画の愛好者にとって、貴重な体験の場を提供しています。そのDVDコレクションは、映画の歴史や文化を深く理解するための重要な資料となっています。映画愛好者や研究者にとって、訪れる価値のある場所と言えるでしょう。

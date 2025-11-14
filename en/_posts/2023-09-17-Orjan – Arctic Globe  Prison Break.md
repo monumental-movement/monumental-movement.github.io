@@ -10,8 +10,6 @@ tags:
 - EDM
 title: Orjan – Arctic Globe / Prison Break
 ---
-
-
 "Orjan - Arctic Globe / Prison Break" is a song by Norwegian trance music producer Orjan.
 
 "Arctic Globe" is characterized by a beautiful melody and a magnificent sound.The combination of melody and synth sounds reminiscent of a cold, shining world of ice takes the listener on a fantastical journey.
@@ -26,14 +24,11 @@ This song is characterized by a powerful beat and intense energy, drawing the li
 
 His music is characterized by sophisticated production and emotional expression, and has appealed to many listeners. These songs will be an appealing choice for fans of trance music and those looking for an energetic sound.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Arctic Globe
 
 AA. Prison Break
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,14 +10,11 @@ tags:
 - Hiphop
 title: Boris Dlugosch – Bionic Breaks
 ---
-
-
 Boris Dlugosch is a house DJ and producer based in Hamburg.
 
 Boris Dlugosch is a former resident DJ at Hamburg's legendary club FRONT and a pioneer of German house music culture.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Man Parrish – Hip Hop, Be Bop (Don't Stop)
 
 A2. Hashim – Al-Naafiysh (The Soul)
@@ -36,11 +33,8 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 
 D3. Gary's Gang – Makin' Music
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

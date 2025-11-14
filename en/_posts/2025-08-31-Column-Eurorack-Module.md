@@ -12,8 +12,11 @@ tags:
 title: '[Column] Changes in the Eurorack modular synthesizer and its influence on
   the music scene'
 ---
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## "Lego blocks with infinite sound"
 
 Text: mmr｜Theme: Changes in the Eurorack modular synthesizer and its influence on the music scene
@@ -28,7 +31,6 @@ Smaller and more affordable than the traditional Moog and Bucla, Eurorack has ga
 
 #### Make Noise
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -40,7 +42,6 @@ Smaller and more affordable than the traditional Moog and Bucla, Eurorack has ga
 
 #### Intellijel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -58,7 +59,6 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 #### Doepfer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -70,7 +70,6 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 #### Noise Engineering
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -107,38 +106,38 @@ Below are some of the notable artists and their signature modules that utilize E
 
 <div class="table-border">
 <table>
-<thead>
-<tr>
-<th>Artist name</th>
-<th>Example of module used</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alessandro Cortini</td>
-<td>Make Noise MATHS, Mutable Instruments Rings</td>
-</tr>
-<tr>
-<td>Keith Fullerton Whitman</td>
-<td>Intellijel Plonk, Mutable Instruments Clouds</td>
-</tr>
-<tr>
-<td>Aphex Twin</td>
-<td>Make Noise Erbe-Verb, Mutable Instruments Braids</td>
-</tr>
-<tr>
-<td>Coldplay</td>
-<td>Make Noise Shared System, Intellijel Metropolis</td>
-</tr>
-<tr>
-<td>Nine Inch Nails</td>
-<td>Make Noise MATHS, Mutable Instruments Clouds</td>
-</tr>
-<tr>
-<td>Surgeon</td>
-<td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Artist name</th>
+      <th>Example of module used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alessandro Cortini</td>
+      <td>Make Noise MATHS, Mutable Instruments Rings</td>
+    </tr>
+    <tr>
+      <td>Keith Fullerton Whitman</td>
+      <td>Intellijel Plonk, Mutable Instruments Clouds</td>
+    </tr>
+    <tr>
+      <td>Aphex Twin</td>
+      <td>Make Noise Erbe-Verb, Mutable Instruments Braids</td>
+    </tr>
+    <tr>
+      <td>Coldplay</td>
+      <td>Make Noise Shared System, Intellijel Metropolis</td>
+    </tr>
+    <tr>
+      <td>Nine Inch Nails</td>
+      <td>Make Noise MATHS, Mutable Instruments Clouds</td>
+    </tr>
+    <tr>
+      <td>Surgeon</td>
+      <td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
+    </tr>
+  </tbody>
 </table>
 </div>
  
@@ -149,7 +148,6 @@ Below are some of the notable artists and their signature modules that utilize E
 
 Surgeon's live setup is characterized by the pursuit of maximum expression with minimal equipment. He performs improvisationally using a limited number of modules rather than a complex combination of equipment. This creates a sense of unity with the audience and unpredictability, bringing a new dimension to live techno performances.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <hr>

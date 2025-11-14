@@ -11,12 +11,9 @@ tags:
 - 90s
 title: Aux 88 – Electro Boogie
 ---
-
-
 Studio K7's third electro boogie released in 1999. Detroit techno/electro mixCD by Aux88.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Aux 88 – Electro/Techno (Microknox Remix)
 2. Aux 88 – Direct Drive
 3. Di'jital – Automatic Activity
@@ -36,8 +33,6 @@ Studio K7's third electro boogie released in 1999. Detroit techno/electro mixCD 
 17. Aux 88 – Technology
 18. Aux 88 – Xeo-Genetic Remix
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
-[Purchase on Mercari](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
-
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube

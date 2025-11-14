@@ -11,14 +11,11 @@ tags:
 - 00s
 title: Total Eclipse – Update Files
 ---
-
-
 Total Eclipse is a project started in 1992 by three French producers. He became famous for his goa-trance albums released in 1995 and 1996.
 
 "Update Files" is a psychedelic trance album released in 2003 by the Japanese gore and psytrance label Arcadia Music.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. None Of This
 2. Jadran Temple
 3. On The Road
@@ -30,8 +27,6 @@ Total Eclipse is a project started in 1992 by three French producers. He became 
 9. Chewbaka
 10. Aguas Blancas
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
-[Purchase on Mercari](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
-
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube

@@ -14,8 +14,6 @@ tags:
 - 00s
 title: Pick up works by Outlaw
 ---
-
-
 "Deviation is a product of interaction, Outlaw works"
 
 <hr>
@@ -32,21 +30,18 @@ Summary: Released in 2004 by Important Records, this is the ultimate work of des
 
 Outlaw feeling: The defiance that elevates sonic destruction to the level of art is ""legal violence'' that causes music itself to deviate from the norm. A symbol of unfettered destruction on the periphery.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Black Swan
 2. Mandarin Duck
 3. Emu
 4. Victoria Crowned Pigeon
 5. White Peafowl
 ```
-
-
+<iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -63,8 +58,7 @@ Summary: Released in 2004, a collaboration work with Tresor. A deep introduction
 
 Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A combative sound that does not get submerged in the system.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Resurgence
 2. It Works
 3. The Rising Sun
@@ -76,13 +70,11 @@ Outlaw feeling: the spirit of techno as the heartbeat of Berlin's underground. A
 9. Brreakz
 10. Tenth
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -99,8 +91,7 @@ Summary: Released in 1998, a gorgeous compilation that overlooks the techno scen
 
 Outlaw feeling: an anti-mainstream cultural accumulation where you can experience the historical juncture of early Berlin techno.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
 3. Scan 7 –Triple Darkness
@@ -115,13 +106,11 @@ Outlaw feeling: an anti-mainstream cultural accumulation where you can experienc
 12. Basic Channel –Octaedre
 13. Substance –Plate Element 2
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -136,8 +125,7 @@ Summary: 1999 edition. A classic collection that provides a bird's-eye view of "
 
 Outlaw feeling: A pilgrimage to the dark side of the sound city, combining multiple outlaw sounds in the form of a compilation.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
 3. Infiniti –Walking On Water
@@ -151,13 +139,11 @@ Outlaw feeling: A pilgrimage to the dark side of the sound city, combining multi
 11. Daniel Bell –The Butterfly Effect
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -169,13 +155,12 @@ Format: Vinyl
 
 Genre: Acid / Techno / Trance
 
-Summary: Released in 1992, a great compilation from Tresor's early years. A historic piece that embodies the "echoes of family."
+Summary: Released in 1992, a great compilation from Tresor's early days. A historic piece that embodies the "echoes of family."
 
 
 Outlaw feeling: Memories of urban community improvisation and dark struggles that encompass the scene's birth.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
 
@@ -188,13 +173,11 @@ C2. Microglobe – High On Hope (The Long Hot Summer Mix) (Mijk Van Dijk)
 D1. Maurizio – Ploy (Strategic Mix)
 D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -211,19 +194,16 @@ Overview: Experience the outlaw nature of a bass trigger with a composition that
 
 Outlaw feeling: Direct invasion of the body by the base. Contains violence and solidarity that go beyond hearing.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -240,19 +220,16 @@ Summary: A record that captures the cutting edge of UK electronic music in the e
 
 Outlaw feel: The aggressiveness of the rhythm shakes the urban space and transports the listener to an extraordinary world.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Ambush Riddim
 
 B. Cosmic Minefield
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -269,8 +246,7 @@ Summary: Japanese version released in 2012. A monumental work that shook the bou
 
 Outlaw feel: The pop-oriented yet violent sound shows the gap between institutional inclusion and resistance.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
 3. Kill Everybody
@@ -281,13 +257,11 @@ Outlaw feel: The pop-oriented yet violent sound shows the gap between institutio
 8. Scary Monsters And Nice Sprites (Zedd Remix)
 9. Kill Everybody (Bare Noize Remix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -303,22 +277,17 @@ Overview: Released in 2003. A destructive piece by a DJ who straddles the gap be
 
 Outlaw feeling: The violent pleasure of genre collision and mixing. An urge to break down established divisions.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Rabaukendisko (Version 1)
 A2. Rabaukendisko (Version 2)
 
 B1. Rabaukendisko (The Bug's Dancehell Remix Feat. MC Ras Bogle)
 B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
-
-

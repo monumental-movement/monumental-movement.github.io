@@ -10,16 +10,14 @@ tags:
 - Sound
 title: '[Column] Expansion of bear damage and impact of sound'
 ---
+## 1. はじめに：クマ被害の現状と音の重要性
 
 
-## 1. Introduction: Current status of bear damage and the importance of sound
+文：mmr｜テーマ：近年増加するクマによる被害を、音による影響と行動抑制の観点から分析。サウンドデザインが人間とクマの共生に果たす役割を考察
 
+日本では近年、クマによる被害が急速に拡大している。農作物被害は年間約1,000件に達し、人的被害もここ10年で約2倍に増加している（環境省「野生動物による被害統計2024」）。これまでの物理的対策は十分ではなく、持続可能な被害抑制手法が求められる。
 
-Text: mmr | Theme: An analysis of the damage caused by bears, which has been increasing in recent years, from the perspective of the impact of noise and behavior control. Examining the role of sound design in the coexistence of humans and bears
-
-In recent years, damage caused by bears has been rapidly increasing in Japan. There are approximately 1,000 cases of crop damage per year, and human damage has approximately doubled in the past 10 years (Ministry of the Environment's ""Wild Animal Damage Statistics 2024''). The physical measures taken so far are not sufficient, and sustainable damage control methods are required.
-
-What is attracting attention is the ""control of bear behavior through sound.'' Bears have a well-developed sense of hearing and are sensitive to human voices, warning sounds, and artificial sounds at specific frequencies. In recent years, an increasing number of demonstration experiments have been conducted by farmers, local governments, and research institutions, expanding the possibilities of sound management based on scientific evidence.
+注目されるのが、「音によるクマの行動制御」である。クマは聴覚が発達しており、人間の声や警告音、特定周波数の人工音に敏感に反応する。近年では、農家や自治体、研究機関での実証実験が増えており、科学的根拠に基づいた音響管理の可能性が広がっている。
 
 ---
 
@@ -28,7 +26,7 @@ What is attracting attention is the ""control of bear behavior through sound.'' 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -37,30 +35,30 @@ color: #fff;
 </style>
 
 
-## 2. Ecology and behavioral characteristics of bears
+## 2. クマの生態と行動特性
 
-### 2.1 Main bear species and distribution
+### 2.1 主なクマ種と分布
 
-- **Asia black bear (Ursus thibetanus)**: Found in Honshu, Shikoku, and Kyushu, body length 120–150 cm, good at arboreal behavior, omnivorous.
-- **Brown bear (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm long, large, also consumes fish and small animals.
+- **ツキノワグマ（Ursus thibetanus）**：本州・四国・九州、体長120–150cm、樹上行動が得意、雑食性。  
+- **ヒグマ（Ursus arctos yesoensis）**：北海道、体長180–250cm、大型、魚類や小動物も摂取。  
 
-Both species are nocturnal, but daytime activity can also be seen during the spring and fall hunting seasons.
+両種とも夜行性だが、春や秋の食料探索期には昼間の活動も見られる。
 
-### 2.2 Hearing characteristics and response to sound
+### 2.2 聴覚特性と音への反応
 
-- Hearing frequency band: 200Hz–10kHz
-- Can respond to human voice (250–4000Hz)
-- Sensitive to thunder and warning sounds (1000–8000Hz)
-- Low and high frequency sounds in nature also influence behavior
+- 聴覚周波数帯域：200Hz–10kHz  
+- 人間の声（250–4000Hz）に反応可能  
+- 雷鳴・警戒音（1000–8000Hz）に敏感  
+- 自然界の低周波・高周波音も行動に影響
 
-### Hearing characteristics of bears
+### クマの聴覚特性
 
 <div class="mermaid">
 
 graph TD
-A["Frequency Band"] --> B["Human Voice: 250–4000Hz"]
-A --> C["Warning tone: 1000–8000Hz"]
-A --> D["Natural sounds: low to high frequencies"]
+A["周波数帯域"] --> B["人間の声: 250–4000Hz"]
+A --> C["警戒音: 1000–8000Hz"]
+A --> D["自然界音: 低周波〜高周波"]
 
 
 </div>
@@ -68,152 +66,152 @@ A --> D["Natural sounds: low to high frequencies"]
 
 ---
 
-## 3. Background to the spread of damage
+## 3. 被害拡大の背景
 
-### 3.1 Population decline and abandonment of satoyama
+### 3.1 人口減少と里山放棄
 
-Due to depopulation, agricultural land in mountainous areas has been left abandoned, and bears' habitat has moved closer to human settlements. In Hokkaido, the area of ​​abandoned farmland has increased by approximately 30% from 2000 to 2020, which is correlated with an increase in bear encounters (Hokkaido University Wildlife Research Report 2023).
+過疎化により山間部農地が放置され、クマの生息域が人里に近づいた。北海道では、放棄農地の面積が2000年から2020年で約30％増加しており、クマ出没の増加と相関している（北海道大学野生動物研究報告2023）。
 
-### 3.2 Proximity of agricultural crops and forest resources
+### 3.2 農作物と森林資源の接近
 
-With the increase in orchards and nut forests, there are more cases of bears invading communities. A survey of orchards in Nagano Prefecture found that in some areas, the annual damage rate reached approximately 12%.
+果樹園やナッツ林の増加により、クマが集落近くまで侵入するケースが増加。長野県の果樹園調査では、年間被害率が約12％に達する地域も存在する。
 
-### 3.3 Impact of climate change
+### 3.3 気候変動の影響
 
-Due to the decrease in snowfall and fluctuations in fruit growth in early spring, they are more likely to visit human settlements during periods of food shortage.
+積雪量の減少や春先の果実生育の変動により、食料不足期に人里へ出没する傾向が増加。
 
-### 3.4 Damage statistics by region (2020–2024)
+### 3.4 地域別被害統計（2020–2024）
 
-| Region | Annual number of damage | Crop damage rate | Number of human damage |
+| 地域  | 年間被害件数 | 農作物被害率 | 人的被害件数 |
 | --- | ------ | ------ | ------ |
-| Hokkaido | 320 | 10% | 5 |
-| Nagano Prefecture | 150 | 12% | 2 |
-| Tohoku | 180 | 8% | 3 |
-| Kyushu | 90 | 6% | 1 |
+| 北海道 | 320    | 10%    | 5      |
+| 長野県 | 150    | 12%    | 2      |
+| 東北  | 180    | 8%     | 3      |
+| 九州  | 90     | 6%     | 1      |
 
 ---
 
-## 4. Effect of sound on bears
+## 4. サウンドがクマに与える影響
 
-### 4.1 Sound types and reactions
+### 4.1 音の種類と反応
 
-- **Whistle**: Light evasive action
+- **笛**: 軽い回避行動
 
-- **Human Voice**: Medium Evasion
+- **人間の声**: 中程度回避
 
-- **Firecracker**: Strong Evasion
+- **爆竹**: 強い回避
 
-- **High-frequency electronic sound (8–10kHz)**: Experimental avoidance and prevention of habituation are issues
+- **高周波電子音（8–10kHz）**: 実験的回避、慣れ防止が課題
 
 ---
 
-### Sound type and bear reaction strength
+### 音の種類とクマ反応強度
 
 <div class="mermaid">
 
 graph LR
-A[whistle] --> B[light evasion]
-C[Human Voice] --> D[Moderate Evasion]
-E[Firecracker] --> F[Strong Evasion]
-G[High frequency electronic sound] --> H[Experimental avoidance]
+A[笛] --> B[軽い回避]
+C[人間の声] --> D[中程度回避]
+E[爆竹] --> F[強い回避]
+G[高周波電子音] --> H[実験的回避]
 
 </div>
 
 ---
 
-### 4.2 Experiment example
+### 4.2 実験事例
 
-- **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
+- **北海道果樹園（2015–2018）**: 爆竹使用により侵入率40％減
 
-- **Kyushu electronic sound trial (2019–2021)**: Short-term avoidance due to the use of high-frequency equipment, long-term habituation occurs
+- **九州電子音トライアル（2019–2021）**: 高周波装置使用で短期回避、長期では慣れが発生
 
-- **Tohoku AI speaker demonstration (2020–2023)**: Pre-bear invasion warning success rate 65%
-
----
-
-## 5. Coexistence strategy between human activities and sound
-
-### 5.1 Sensor-linked warning sound
-
-Automatically generates a sound when a bear approaches. Encourage avoidance actions before damage occurs.
-
-### 5.2 Regular patrol sound
-
-A sound device that alerts people to the presence of humans reduces their desire to invade.
-
-### 5.3 Urban and suburban applications
-
-It has already been introduced in Nagano Prefecture and Hokkaido. Safety is ensured by using human voice and electronic sounds during night patrols.
+- **東北AIスピーカー実証（2020–2023）**: クマ侵入前警告成功率65％
 
 ---
 
-## 6. The future of sound design
+## 5. 人間活動とサウンドの共生戦略
 
-### 6.1 AI/drone technology
+### 5.1 センサー連動型警告音
 
-Sound generation according to behavioral patterns using AI analysis. Cover a wide area with drone patrols.
+クマ接近時に自動で音響を発生。被害発生前に回避行動を促す。
 
-### 6.2 International cases
+### 5.2 定期巡回サウンド
 
-- **California, USA**: Intrusion prevention using electronic sounds and human voices
+人間の存在を知らせる音響装置で侵入意欲を減退。
 
-- **BC, Canada**: Non-lethal acoustic management reduces crop damage
+### 5.3 都市近郊応用
 
----
-
-## 7. Discussion: Redefining the relationship between humans and bears
-
-Damage control is a matter of coexistence, not pest extermination.
-
-Sound countermeasures are non-lethal and effective
-
-- **Challenges**: Habituation, ecosystem impact, cost
+長野県や北海道で導入済み。夜間巡回で人間の声＋電子音を使用し安全確保。
 
 ---
 
-## 8. Conclusion
+## 6. サウンドデザインの未来
 
-The increasing damage caused by bears is not just a problem for wild animals, but also a mirror of structural changes in human society. Distortions in the environment that we ourselves have created, such as depopulation, climate change, and unbalanced forest use, are driving bears out of the mountains and into villages. In this reality, damage control through sound is extremely suggestive as ""a medium for redesigning the relationship between humans and animals.'' Sound is non-lethal and can adjust behavior through fear and learning. In other words, it is control through "resonance" rather than violence, and it can be an ethically sustainable option.
+### 6.1 AI・ドローン技術
 
-The challenge for the future is to evolve it into an ""acoustic landscape design" that incorporates local environmental sounds and the sounds of human life, rather than just a threatening sound. When the behavioral patterns of bears learned by AI are combined with the local sound culture and seasonal rhythms, sound will go beyond a warning and become an ""interface for coexistence." Sound policy that combines scientific knowledge and cultural sensitivity is the key to shaping the future of humans and the wild. Communicating with sound, maintaining distance, and restoring harmony to the entire biosphere—this can be called the next era's "environmental ethics of sound."
+AI解析で行動パターンに応じた音響発生。ドローン巡回で広範囲をカバー。
+
+### 6.2 国際事例
+
+- **米国カリフォルニア州**：電子音と人間声で侵入防止
+
+- **カナダBC州**：非致死的音響管理で農作物被害減少
 
 ---
 
-### Case studies of damage control using sound (2000–2025)
+## 7. 考察：人間とクマの関係性再定義
+
+被害対策は害獣駆除ではなく共生の問題
+
+音を介した対策は非致死的で有効
+
+- **課題**：慣れ・生態系影響・コスト
+
+---
+
+## 8. 結論
+
+クマ被害の拡大は、単なる野生動物の問題ではなく、人間社会の構造的変化の鏡でもある。過疎化・気候変動・森林利用の偏りなど、私たち自身が生み出した環境の歪みが、クマを山から追い出し、集落へと導いている。そうした現実の中で、サウンドによる被害抑制は「人と動物の関係を再設計するためのメディア」として、きわめて示唆的である。音は殺傷を伴わず、恐怖や学習を通じて行動を調整できる。つまり、それは暴力ではなく「共振」による制御であり、倫理的にも持続的な選択肢となりうる。
+
+今後の課題は、単なる威嚇音ではなく、**地域固有の環境音や人間の生活音を織り込んだ「音響景観デザイン」**へと進化させることだ。AIが学習するクマの行動パターンと、地域の音文化や季節のリズムが結びつくとき、サウンドは警告を超えて「共存のインターフェース」となるだろう。科学的知見と文化的感性を併せ持つ音響政策こそが、これからの人間と野生の未来を形づくる鍵である。音で対話し、距離を保ち、生命圏全体の調和を取り戻す——それが、次の時代の「音の環境倫理」と言える。
+
+---
+
+### サウンドを用いた被害抑制事例（2000–2025）
 
 <div class="mermaid">
 
 timeline
-title Sound usage examples
-2002: Hokkaido farmers test whistles and firecrackers
-2010: Introduction of AI speaker test (Tohoku)
-2015 : High frequency electronic sound trial (Kyushu)
-2020: Drone acoustic patrol system introduced (Hokkaido)
-2025: Expand demonstration experiments in local governments nationwide
+    title サウンド活用事例
+    2002 : 北海道農家が笛・爆竹試験
+    2010 : AIスピーカー試験導入（東北）
+    2015 : 高周波電子音トライアル（九州）
+    2020 : ドローン音響巡回システム導入（北海道）
+    2025 : 全国自治体で実証実験拡大
 
 </div>
 
 ---
 
-### Sound usage flow for bear damage control
+### クマ被害抑制におけるサウンド利用フロー
 
 <div class="mermaid">
 
 flowchart TD
-A[Farmland/village monitoring] --> B[Sensor detection]
-B --> C [Acoustic warning transmission]
-C --> D [Bear escape behavior]
-D --> E [Damage reduction/safety assurance]
+A[農地・集落の監視] --> B[センサー検知]
+B --> C[音響警告発信]
+C --> D[クマ逃避行動]
+D --> E[被害軽減・安全確保]
 
 </div>
 
 ---
 
-### References/Materials
+### 参考文献・資料
 
-- [Leaflet created by the Ministry of Agriculture, Forestry and Fisheries "Please be careful of bears"] (https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
-- ["Manual for responding to bear infestations - revised edition - (Ministry of the Environment)"] (http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
-- ["Guidelines for creating specific wildlife protection and management plans (bears edition) Ministry of the Environment"](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
-- [Ministry of the Environment website "Various information and initiatives regarding bears"](http://www.env.go.jp/nature/choju/effort/effort12/)
+- [農林水産省作成リーフレット「クマにご注意下さい」](https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
+- [「クマ類の出没対応マニュアル－改定版－（環境省）」](http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
+- [「特定鳥獣保護・管理計画作成のためのガイドライン（クマ類編）環境省」](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
+- [環境省 WEB サイト「クマに関する各種情報・取組」](http://www.env.go.jp/nature/choju/effort/effort12/)
 
 ---

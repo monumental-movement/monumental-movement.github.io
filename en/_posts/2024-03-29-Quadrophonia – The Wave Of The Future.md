@@ -11,8 +11,6 @@ tags:
 - Hard Techno
 title: Quadrophonia – The Wave Of The Future
 ---
-
-
 Quadrophonia is a project by Dutch DJ Lucien Foort and Belgian DJ Olivier Abbeloos.
 
 "The Wave Of The Future" is a breakbeat hardcore techno track released in 1991.
@@ -21,7 +19,7 @@ The second track on side A is a remix by Mark Ryder (DJ Ryder).
 
 Olivier Abbeloos was born on January 18, 1969 in Aalst, Belgium.
 
-He was interested in music from an early age, and at the age of 13 he received a DJ set from his parents and began DJing. At the age of 17, he began producing music on his own, including creating megamixes using two track recorders.
+He was interested in music from an early age, and at the age of 13, his parents gave him a DJ set, and he started DJing.At the age of 17, he began producing music on his own, creating megamixes using two track recorders.
 
 His first project was L&O's "Even Now", but his name is not listed in the credits, and he went on to form his first collaborative project, The Beat Machine, with Patrick de Mayer.
 
@@ -35,8 +33,7 @@ The two later released their only album, "Children Of Chaos".
 
 As a side note, Abrilos' brother-in-law is Olivier Pieters, who also worked in the import department of the record shop Target Records.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. The Wave Of The Future (Large Mix)
 
 A2. The Wave Of The Future (Ryder Mix)
@@ -47,8 +44,6 @@ B2. The Wave Of The Future (Medium Mix)
 
 B3. The Wave Of The Future (Small Mix)
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,8 +13,6 @@ title: '[Column] Religious music around the world and its psychological and soci
   effects - The history of music and prayer as explained through illustrations and
   timelines -'
 ---
-
-
 ## Prologue: The universality of music and religion
 
 
@@ -50,9 +48,9 @@ color: #fff;
 * **Representative performers**: Ravi Shankar, Bismara Khan
 * **Psychological effect**:
 
-* Long chanting → **Induces meditative state**
-* Repetitive rhythm → **Stress reduction**
-* Group chant → **Social harmony**
+  * Long chanting → **Induces meditative state**
+  * Repetitive rhythm → **Stress reduction**
+  * Group chant → **Social harmony**
 
 
 
@@ -64,8 +62,8 @@ color: #fff;
 * **Characteristics**: Overtone singing method, bell/conch
 * **Psychological effect**:
 
-* Alpha wave increase → **deep relaxation**
-* Breathing and chanting are synchronized → **Stability of autonomic nervous system**
+  * Alpha wave increase → **deep relaxation**
+  * Breathing and chanting are synchronized → **Stability of autonomic nervous system**
 
 
 | Effects | Physiological effects |
@@ -81,14 +79,14 @@ color: #fff;
 * **Major formats**: Gregorian chant, organ music, gospel
 * **Iconic works**:
 
-* *Chant* (Benedictine Order)
-* Mahalia Jackson"Take My Hand, Precious Lord"
+  * *Chant* (Benedictine Order)
+  * Mahalia Jackson"Take My Hand, Precious Lord"
 
 * **Psychological effect**:
 
-* **Harmony stabilizes heart rate**
-* **Reverberations of the church space** strengthens the sense of relief
-* Participation in chorus → **Collective upliftment** by sharing emotions**
+  * **Harmony stabilizes heart rate**
+  * **Reverberations of the church space** strengthens the sense of relief
+  * Participation in chorus → **Collective upliftment** by sharing emotions**
 
 ---
 
@@ -98,8 +96,8 @@ color: #fff;
 * **Characteristics**: Mental purification by chanting
 * **Psychological effect**:
 
-* Breathing rhythm and melody synchronize and enter a **trance state**
-* **Temporal reset effect** due to Adhan
+  * Breathing rhythm and melody synchronize and enter a **trance state**
+  * **Temporal reset effect** due to Adhan
 
 ---
 
@@ -109,8 +107,8 @@ color: #fff;
 * **Characteristics**: Intonation expression using modes
 * **Psychological effect**:
 
-* Awakens emotional memory **Increases prayer concentration**
-* Music prompts **reaffirmation of history and identity**
+  * Awakens emotional memory **Increases prayer concentration**
+  * Music prompts **reaffirmation of history and identity**
 
 ---
 
@@ -119,9 +117,9 @@ color: #fff;
 * **Key Format**: Drum Ceremony, Call & Response
 * **Psychological effect**:
 
-* **Body resonance/heartbeat synchronization based on rhythm**
-* Group performances strengthen **social cohesion**
-* Repeatedly induces **ecstatic state (trance)**
+  * **Body resonance/heartbeat synchronization based on rhythm**
+  * Group performances strengthen **social cohesion**
+  * Repeatedly induces **ecstatic state (trance)**
 
 ---
 
@@ -130,27 +128,27 @@ color: #fff;
 <div class="mermaid">
 
 gantt
-title History of the development of world religious music
-dateFormat YYYY
-axisFormat %Y
-todayMarker off
+    title History of the development of world religious music
+    dateFormat YYYY
+    axisFormat %Y
+    todayMarker off
 
-section ancient
-Vedic chant (Hindu) :done, -1500, 500
-Ancient Chinese/Indian music theory: -500, 500
+    section ancient
+    Vedic chant (Hindu) :done, -1500, 500
+    Ancient Chinese/Indian music theory: -500, 500
 
-section middle ages
-Gregorian chant: 800, 400
-Tibetan statement: 1100, 900
-Sufi music: 1200, 800
+    section middle ages
+    Gregorian chant: 800, 400
+    Tibetan statement: 1100, 900
+    Sufi music: 1200, 800
 
-section modern
-Gospel Spiritual: 1700, 300
-African ritual music: 1500, 500
+    section modern
+    Gospel Spiritual: 1700, 300
+    African ritual music: 1500, 500
 
-section modern
-Meditation/healing music: 1900, 125
-Cross-cultural music: 2000, 50
+    section modern
+    Meditation/healing music: 1900, 125
+    Cross-cultural music: 2000, 50
 
 </div>
 
@@ -161,15 +159,15 @@ Cross-cultural music: 2000, 50
 <div class="mermaid">
 
 graph TD
-A[Hinduism: Meditation Concentration 5] -->|5| X[ ]
-B[Buddhism: Meditation Concentration 5] -->|5|
-C[Christianity: Emotional elevation 4] -->|4|
-D[Islam: Purification/Concentration 5] -->|5|
-E[Judaism: Memory/Mind Concentration 4] -->|4|
-F[African Religion: Trans/Unity 5] -->|5|
+    A[Hinduism: Meditation Concentration 5] -->|5| X[ ]
+    B[Buddhism: Meditation Concentration 5] -->|5|
+    C[Christianity: Emotional elevation 4] -->|4|
+    D[Islam: Purification/Concentration 5] -->|5|
+    E[Judaism: Memory/Mind Concentration 4] -->|4|
+    F[African Religion: Trans/Unity 5] -->|5|
 
-classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
-class A,B,C,D,E,F bar;
+    classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
+    class A,B,C,D,E,F bar;
 
 </div>
 
@@ -180,14 +178,14 @@ class A,B,C,D,E,F bar;
 <div class="mermaid">
 
 timeline
-title Time-series changes in psychological and physiological effects
--1500: Vedic chanting → prototype of group meditation
--500 years: Buddhist statement → Concentration through breathing and resonance
-800: Gregorian chant → spiritual catharsis
-1200: Sufi melody → trance experience
-1700: Gospel → Emotional liberation and social hope
-1900: Healing music → Scientific meditation aid
-2000: Digital meditation music → global integration
+    title Time-series changes in psychological and physiological effects
+    -1500: Vedic chanting → prototype of group meditation
+    -500 years: Buddhist statement → Concentration through breathing and resonance
+    800: Gregorian chant → spiritual catharsis
+    1200: Sufi melody → trance experience
+    1700: Gospel → Emotional liberation and social hope
+    1900: Healing music → Scientific meditation aid
+    2000: Digital meditation music → global integration
 
 </div>
 
@@ -217,4 +215,3 @@ Even if religions change, the power of sound points in the same direction.
 It is the **universal rhythm of prayer**.
 
 ---
-

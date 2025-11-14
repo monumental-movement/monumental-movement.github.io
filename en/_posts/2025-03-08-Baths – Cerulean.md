@@ -10,15 +10,12 @@ tags:
 - Hiphop
 title: Baths – Cerulean
 ---
-
-
 Will Wiesenfeld, also known as Baths, is known as a genius beat maker and is an electronic musician based in LA.
 
 "Cerulean" is Baths' debut album released in 2010 on the independent label Anticon, introduced by Daedelus. This CD is a Japanese version released by Tugboat Records in 2013.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Apologetic Shoulder Blades
 2. Lovely Bloodflow
 3. Maximalist
@@ -34,8 +31,6 @@ Will Wiesenfeld, also known as Baths, is known as a genius beat maker and is an 
 13. Petals (Bonus Track)
 14. Calliope (Bonus Track)
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-[Purchase on Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
-
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube

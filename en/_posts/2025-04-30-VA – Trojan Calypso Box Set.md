@@ -11,14 +11,11 @@ tags:
 - Mento
 title: VA – Trojan Calypso Box Set
 ---
-
-
 Trojan Calypso Compilation
 
 Limited edition box set (3 CDs)
 
-#### Tracklist
-```md
+#### Tracklist```md
 Jamaican Mento, Calypso & Jump Up Sounds
 
 1-1	Count Lasher With Lynn Taitt & The Baba Brooks Band – The Weed (Aka Man Pyabba)
@@ -78,8 +75,6 @@ Calypso War In The UK
 3-15	The Mighty Terror & His Calypsonians* – T.V. Calypso
 3-16	Lord Invader & His Calypso Rhythm Boys – Teddy Boy Calypso (Bring Back The Cat-o-nine)
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
 
-[Purchase on Mercari](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
-
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube

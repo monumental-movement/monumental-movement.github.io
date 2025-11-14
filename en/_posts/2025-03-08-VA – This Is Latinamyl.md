@@ -13,15 +13,12 @@ tags:
 - 90s
 title: VA – This Is Latinamyl
 ---
-
-
 A compilation album released in 1997 by breakbeat label Fused & Bruised, founded by multi-genre electronic music producer and DJ Simon Shackleton, aka Elite Force, who also worked on music for the movie The Matrix.
 
 Simon Shackleton also performs under the names pHrack R and fUtUrEcOrE, as well as Elite Force.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Elite Force – Spirito
 2. Mr. Dan – 48 Margarita Shuffle
 3. Subtropic – Forget Me Not
@@ -33,8 +30,6 @@ Simon Shackleton also performs under the names pHrack R and fUtUrEcOrE, as well 
 9. Elite Force – Saturnalia (Panamatic Redesign)
 10. pHrack R – Di Genera
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
 
-[Purchase on Mercari](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
-
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube

@@ -10,13 +10,10 @@ tags:
 - Latin
 title: Various – O Samba
 ---
-
-
 "Various – O Samba" is
 This is a compilation cassette tape compiled by David Byrne released in 1991.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Clara Nunes–A Deusa Dos Orixás
 
 2. Clara Nunes–Ijexá (Filhos De Gandhy)
@@ -47,8 +44,6 @@ This is a compilation cassette tape compiled by David Byrne released in 1991.
 
 15. Paulinho Da Viola–Sarou Para Ramadés
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
