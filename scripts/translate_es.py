@@ -96,7 +96,7 @@ for filename in os.listdir(SRC_DIR):
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
 
-    front_matter["lang"] = "es"
+    front_matter["lang"] = "en"
 
     # 本文翻訳（コードブロックはスキップ）
     translated_body = ""
