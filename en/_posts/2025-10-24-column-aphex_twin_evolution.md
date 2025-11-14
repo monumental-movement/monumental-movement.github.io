@@ -12,16 +12,14 @@ tags:
 title: '[Column] Aphex Twin''s early days and present day -- beyond the critical point
   of electronic music'
 ---
+## 「音楽が“感情の模倣”をやめたとき、Aphex Twinは現れた。」
 
 
-## "When music stopped imitating emotions, Aphex Twin appeared."
+文：mmr｜テーマ：Aphex Twinの初期作品と現在の到達点を比較し、その音響構造・思想・テクノロジーの変遷を批評的に読み解く
 
+1990年代初頭、リチャード・D・ジェームス（Aphex Twin）は、テクノやアンビエントといったジャンルの既存の文法を完全に裏返す存在として登場した。初期作品に漂うのは**機械の夢と人間の錯覚が交錯する音響実験**であり、現在の彼が提示するサウンドは**人工知能的な構造とノスタルジアの回帰**の狭間にある。
 
-Text: mmr｜Theme: Comparing Aphex Twin's early works with their current achievements, and critically interpreting the changes in their acoustic structure, philosophy, and technology.
-
-In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are sound experiments in which mechanical dreams and human illusions intertwine, and his current sound lies between an artificial intelligence structure and a return to nostalgia.
-
-Below, we will compare and examine these "changes" and "unchanges" from the four axes of work, technology, aesthetics, and ideology.
+以下では、その「変化」と「不変」を、作品・技術・美学・思想の４軸で比較・検証する。
 
 ---
 
@@ -30,7 +28,7 @@ Below, we will compare and examine these "changes" and "unchanges" from the four
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -39,168 +37,168 @@ color: #fff;
 </style>
 
 
-## I. The world of early Aphex Twin: electronic poetics and analog violence
+## I. 初期Aphex Twinの世界：電子の詩学とアナログの暴力
 
-### 1.1 "Selected Ambient Works" - Introspective electronic dreams
+### 1.1 「Selected Ambient Works」──内省的な電子夢
 
-1992's Selected Ambient Works 85–92 was a turning point in the history of electronic music.
-The monotonous rhythm of a sequencer and the soft fluctuations of an analog synth.
-What you can hear inside is ""human breathing'' on the other side of the electrons.
+1992年の『Selected Ambient Works 85–92』は、電子音楽史の分岐点だった。  
+シーケンサーの単調なリズムと、アナログ・シンセの柔らかな揺らぎ。  
+その中で聴こえるのは、**電子の向こう側にある「人間の呼吸」**である。
 
-Rather than ""composing" sounds, Richard composed ""environments."
-A strange sound image that is ambient yet has the intensity of a club.
-It was an extension of Brian Eno, but with a more personal and destructive emotion.
+リチャードは、音を「作曲」するのではなく、「環境」を組成した。  
+アンビエントでありながら、クラブ的強度をもつ奇妙な音像。  
+それはブライアン・イーノの延長線上にありながら、**よりパーソナルで破壊的な感情**を孕んでいた。
 
-> "For me, ambient is 'memories that reverberate in the air.'" (Aphex Twin, 1993)
+> 「僕にとってアンビエントは“空気の中に残響する記憶”なんだ」（Aphex Twin, 1993）
 
-### 1.2 The era of "Classics" and "Analogue Bubblebath"
+### 1.2 『Classics』『Analogue Bubblebath』の時代感
 
-In the early EPs, the physical constraints of the hardware shaped the very character of the sound.
-**Manual errors** such as the Roland TB-303, SH-101, and Akai S950 defined his aesthetic.
+初期EP群では、ハードウェアの物理的制約が音のキャラクターそのものを形作っている。  
+Roland TB-303、SH-101、Akai S950などの**手動的なエラー**が、彼の美学を決定づけた。
 
-Glitches (atomization of noise) and irregular tempo changes are
-It later became the origin of a movement called "IDM (Intelligent Dance Music)".
-
----
-
-### Supplementary Chapter: Early Aphex Twin's "Noise Body"
-
-His early music was also an experiment in pushing the "physicality of sound" to its limits.
-The internal noise of the machine becomes the rhythm, and the errors become the building blocks.
-It is pre-digital "analog violence" and an attempt to transform error into the aesthetics of construction.
+グリッチ（ノイズの微粒化）や不規則なテンポ変化は、  
+のちに「IDM（Intelligent Dance Music）」と呼ばれる運動の源流となる。
 
 ---
 
-## II. Mid-term transformation: Rhythm as sound sculpture
+### 補章：初期Aphex Twinの「ノイズ的身体」
 
-### 2.1 "Richard D. James Album" – Reincarnation under a personal name
-
-With 1996's "Richard D. James Album," Aphex Twin clearly defined his "authorship."
-What you hear here is a sonic sculpture that fragments and reconstructs breakbeats to the extreme.
-
-In "The World of a Quarter Beat," the drums bounce, the strings are cut, and the voices become particles.
-The sophistication is as if they were composing music at the DNA level.
-It's amazing that they created this complexity in a pre-DAW environment.
-
-### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
-
-From 1997 to 1999, Aphex Twin combined music with "visual horror."
-The PV group created in collaboration with Chris Cunningham **converted the instability of electronic sound into the amorphousness of images**.
-
-Around the time MTV featured him as the "weirdest genius"
-He was already sensing that his music was in danger of becoming incorporated into popular culture.
+初期の彼の音楽は、“音の身体性”を極限まで押し出す実験でもあった。  
+機械の内部ノイズがリズムとなり、エラーが構成要素となる。  
+それはデジタル以前の「アナログの暴力」であり、**エラーを構築の美学に転化**する試みである。
 
 ---
 
-### Supplementary Chapter: Aphex Twin as Irony
+## II. 中期の転換：音響彫刻としてのリズム
 
-Aphex Twin's activities since the middle of their career have always been a meta-critique of the music industry.
-His smiling face (logo) is a satire on the "artist myth",
-The puzzling nature of song titles asserts the ""right of sound to defy meaning.''
+### 2.1 『Richard D. James Album』──個人名義の転生
 
----
+1996年の『Richard D. James Album』で、Aphex Twinは自己の“作家性”を明確に打ち出した。  
+ここで聴こえるのは、ブレイクビーツを**極限まで細分化・再構築した音響彫刻**である。
 
-## III. Silence and Resurrection—Digital maturity after "Syro"
+「4分の1拍の世界」でドラムが跳ね、ストリングスが切断され、声が粒子化する。  
+まるで**DNAレベルで作曲**しているかのような精緻さ。  
+DAW以前の環境でこの複雑性を生み出したことは驚異的だ。
 
-### 3.1 "Syro" (2014): Completion of the acoustic archive
+### 2.2 『Come to Daddy』『Windowlicker』──メディアと悪夢
 
-His first album in 13 years, "Syro," is a fusion of analog return and digital editing.
-All songs have detailed credits for the equipment used,
-Aphex Twin suggests that "every sound has a technical history."
+1997〜99年、Aphex Twinは音楽を「映像の恐怖」と結合させる。  
+クリス・カニンガムとのコラボで生まれたPV群は、**電子音の不安定さを映像の異形性に変換**した。
 
-What is important here is that the focus is on the ""feel of the data" rather than ""emotions."
-In other words, music is transforming into "the body as information."
-
-### 3.2 "Collapse EP" (2018): Emergence of AI composition structure
-
-Collapse EP is Aphex Twin's experiment in embedding emotion into algorithmic structures.
-Complex time signatures, intermittent rhythms, and three-dimensional spatial processing.
-Sound particles self-deploy like AI's thoughts, forming an inhuman "flow."
+MTVが彼を“最も奇妙な天才”として取り上げた頃、  
+彼は既に「自分の音楽が大衆文化に取り込まれる危険」を感じていた。
 
 ---
 
-### Supplementary chapter: Relationship between modern Aphex Twin and AI
+### 補章：アイロニーとしてのAphex Twin
 
-Aphex Twin takes AI composition not just as a technological innovation;
-It is treated as a "**device that extends human perception**".
-His recent work can be described as an attempt to make artificial intelligence learn about "human errors."
-In other words, his music is a testing ground for post-AI humanism.
+Aphex Twinの中期以降の活動は、常に**音楽産業へのメタ批評**である。  
+彼の笑う顔（ロゴ）は「アーティスト神話」への風刺であり、  
+楽曲タイトルの不可解さは「意味を拒む音の権利」を主張する。
 
 ---
 
-## IV. Comparison between the early days and the present: Three-layered structure of technology, ideology, and emotion
+## III. 沈黙と再起──“Syro”以降のデジタル成熟
 
-| Item | Early (1990–1995) | Current (2014–2025) |
+### 3.1 『Syro』（2014）：音響的アーカイブの完成
+
+13年ぶりのアルバム『Syro』は、**アナログ回帰とデジタル編集の融合体**として登場した。  
+全曲に使用機材が詳細にクレジットされ、  
+Aphex Twinは「どの音も技術的な履歴を持つ」と示唆する。
+
+ここで重要なのは、「感情」ではなく「データの感触」が中心にあることだ。  
+つまり音楽が“情報としての身体”へと変化している。
+
+### 3.2 『Collapse EP』（2018）：AI的作曲構造の萌芽
+
+『Collapse EP』は、Aphex Twinが**アルゴリズム的構造に感情を埋め込む実験**である。  
+複雑な拍子、断続的なリズム、立体的な空間処理。  
+音の粒子がAIの思考のように自己展開し、非人間的な“流れ”を形成する。
+
+---
+
+### 補章：現代Aphex TwinとAIの関係
+
+Aphex TwinはAI作曲を単なる技術革新としてではなく、  
+「**人間の知覚を拡張する装置**」として扱う。  
+彼の近作は、人工知能に“人間のエラー”を学習させる試みといえる。  
+つまり彼の音楽は**ポストAI時代のヒューマニズム**の実験場なのだ。
+
+---
+
+## IV. 初期と現在の比較：技術・思想・情動の三層構造
+
+| 項目 | 初期（1990–1995） | 現在（2014–2025） |
 |------|------------------|--------------------|
-| Technology | Mainly analog equipment and samplers | Modular + digital algorithms |
-| Texture of sound | Organic, accidental, material | Geometric, informational, transparent |
-| Aesthetics | Coexistence of noise and rhythm | Symbiosis of data and emotion |
-| Subject of expression | Individual's inner world/body | Boundary between humans and machines |
-| Social context | Rave ~ the dawn of IDM | The maturation of AI/algorithm culture |
+| 技術 | アナログ機材、サンプラー中心 | モジュラー＋デジタル・アルゴリズム |
+| 音の質感 | 有機的・偶発的・物質的 | 幾何学的・情報的・透明 |
+| 美学 | ノイズとリズムの共存 | データと感情の共生 |
+| 表現主体 | 個人の内面／身体 | 人間と機械の境界 |
+| 社会的文脈 | Rave〜IDM黎明期 | AI／アルゴリズム文化の成熟期 |
 
 ---
 
-### Supplementary chapter: Unchanging "feeling of foreign body"
+### 補章：変わらない“異物感”
 
-The core of Aphex Twin lies in ""remaining foreign'' even as times change.
-Even when music becomes trendy, his sound always leaves a "margin".
-It is in that blank space that there is room for listeners to project their own emotions.
-
----
-
-## V. Critical Thoughts: What is music after Aphex Twin?
-
-After Aphex Twin, electronic music is no longer just a "genre."
-Artists influenced by him include Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-All of these questions reconsider the "meaning generation" of sound itself.
-
-> "In an era where music is converted into data, Aphex Twin has become a ""sculptor of perception.''
+Aphex Twinの核心は、時代が変わっても**「異物であり続けること」**にある。  
+音楽がトレンド化しても、彼の音は常に“余白”を残す。  
+その余白にこそ、**聴く者が自分の感情を投影する余地**がある。
 
 ---
 
-### Supplementary chapter: Suggestions for the future of music
+## V. 批評的考察：Aphex Twin以後の音楽とは何か
 
-We live in an era where AI creates music and Spotify categorizes your mood.
-In such a situation, the sound of Aphex Twin is trying to recover the human noise hidden in the data.
-His current music is no longer an act of ""listening," but rather a ""philosophy of sound that exists."
+Aphex Twin以後、電子音楽は単なる「ジャンル」ではなくなった。  
+彼の影響を受けたアーティスト（Burial, Oneohtrix Point Never, Autechre, Arcaなど）は、  
+すべて音の“意味生成”そのものを問い直している。
+
+> 「音楽がデータ化する時代に、Aphex Twinは“知覚の彫刻家”となった。」
 
 ---
 
-## VI. Chronology: Aphex Twin acoustic evolution trajectory
+### 補章：音楽の未来への示唆
+
+AIが音楽を作り、Spotifyが「気分」を分類する時代。  
+そんな中で、Aphex Twinの音は**データの中に潜む人間的ノイズ**を取り戻そうとしている。  
+彼の現在の音楽は、もはや「聴く」行為よりも、「**存在する音の哲学**」そのものなのだ。
+
+---
+
+## VI. 年表：Aphex Twin 音響進化の軌跡
 
 <div class="mermaid">
 
 timeline
-title Aphex Twin Chronology of acoustic evolution (1985–2025)
-1985: Started experimenting with cassettes (Cornwall)
-1991 : Established Rephlex and announced the Analogue Bubblebath series
-1992 : "Selected Ambient Works 85–92" released
-1995: Abstracting ambient with "...Volume II"
-1996: Cellularization of rhythm in "Richard D. James Album"
-1999: "Windowlicker" clashes with the media
-2001: Silence with "Drukqs"
-2014: Regression and technology integration with "Syro"
-2018: Introducing AI-like structure in "Collapse EP"
-2023: New EP "Blackbox Life Recorder 21f" announced
-2025: Modular AI performance experiment continues
+    title Aphex Twin 音響進化の年表（1985–2025）
+    1985 : カセットで実験開始（Cornwall）
+    1991 : Rephlex設立、Analogue Bubblebathシリーズ発表
+    1992 : 『Selected Ambient Works 85–92』リリース
+    1995 : 『...Volume II』でアンビエントを抽象化
+    1996 : 『Richard D. James Album』でリズムの細胞化
+    1999 : 『Windowlicker』でメディアと衝突
+    2001 : 『Drukqs』で沈黙へ
+    2014 : 『Syro』で回帰と技術統合
+    2018 : 『Collapse EP』でAI的構造を導入
+    2023 : 新作EP『Blackbox Life Recorder 21f』発表
+    2025 : モジュラーAIパフォーマンス実験継続中
 
 </div>
 
 ---
 
-## VII. Conclusion: Aphex Twin, a "sound conscious body"
+## VII. 結語──Aphex Twinという“音の意識体”
 
-Aphex Twin's music is not just a collection of electronic sounds.
-It is an experiment to visualize the "**metastructure of listening**".
-It is also a **philosophical event** where human emotions and machine perception meet.
+Aphex Twinの音楽は、単なる電子音の集積ではない。
+それは「**聴くことのメタ構造**」を可視化する実験であり、
+人間の感情と機械の知覚が出会う**哲学的な出来事**でもある。
 
-In his early works, "electronization of emotions" was carried out,
-Nowadays, the trend has reversed to the ""emotionalization of electronics''.
-His journey may foretell a future in which music itself becomes conscious.
+初期作品では「感情の電子化」が行われ、
+現在では「電子の感情化」へと反転している。
+彼の旅路は、音楽そのものが意識を持つ未来を予告しているのかもしれない。
 
 ---
 
-## Reference materials/recommended discography
+## 参照資料・推奨ディスコグラフィー
 
 - [Selected Ambient Works 85–92 (1992, R&S)](https://amzn.to/3WmBWds)
 
@@ -217,236 +215,235 @@ His journey may foretell a future in which music itself becomes conscious.
 
 ---
 
-> "I don't make music, I make music that is about listening."
+> 「僕は“音楽”じゃなく、“聴くこと”そのものを作っている。」
 > ― Richard D. James
 
 ---
 
-## Waveform/spectrogram comparison (conceptual diagram)
+## 波形／スペクトログラム比較（概念図）
 
-**Description**: A conceptual diagram to visualize the differences in waveforms and spectrograms by arranging the typical acoustic features of the early and current times.
+**説明**：初期と現在の代表的な音響特徴を並べ、波形・スペクトログラム上の違いを視覚化するための概念図
 
 <div class="mermaid">
 
 flowchart TD
-A [Early (1990–1995)]
-B [Current (2014–2025)]
+  A[初期（1990–1995）]
+  B[現在（2014–2025）]
 
-A --> A1["Low frequency dominant<br>(60–400Hz)"]
-A --> A2["Narrow dynamic range"]
-A --> A3["Tape/analog distortion/accidental noise"]
-A --> A4["Relatively simple kick/beat"]
+  A --> A1["低域優勢<br>(60–400Hz)"]
+  A --> A2["狭いダイナミックレンジ"]
+  A --> A3["テープ/アナログ歪み・偶発ノイズ"]
+  A --> A4["比較的単純なキック/ビート"]
 
-B --> B1["Frequency widely distributed<br>(balanced between low and high)"]
-B --> B2["Wide dynamic range<br>Transient accuracy ↑"]
-B --> B3["Modular + digital composite texture"]
-B --> B4["Polyrhythm timing difference"]
+  B --> B1["周波数が広く分散<br>(ロー〜ハイの均衡)"]
+  B --> B2["広いダイナミックレンジ<br>トランジェント精度↑"]
+  B --> B3["モジュラー＋デジタル複合テクスチャ"]
+  B --> B4["ポリリズム・タイミングズレ"]
 
-subgraph VIS_LEFT ["Waveform (Concept) - Initial"]
-direction TB
-WL1(("short repetitive phrase"))
-WL2(("High-pass weak sub-bass"))
-end
+  subgraph VIS_LEFT ["波形（概念） - 初期"]
+    direction TB
+    WL1(("短い反復フレーズ"))
+    WL2(("ハイパスの弱いサブベース"))
+  end
 
-subgraph VIS_RIGHT ["Waveform (concept) - current"]
-direction TB
-WR1(("complex transient"))
-WR2(("Dense high-frequency detail"))
-end
+  subgraph VIS_RIGHT ["波形（概念） - 現在"]
+    direction TB
+    WR1(("複合トランジェント"))
+    WR2(("密な高域ディテール"))
+  end
 
-A1 --> WL1
-A2 --> WL2
-B1 --> WR1
-B2 --> WR2
+  A1 --> WL1
+  A2 --> WL2
+  B1 --> WR1
+  B2 --> WR2
 
-style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
-style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
+  style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
+  style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
 
 
 </div>
 
 ---
 
-## Equipment map (genealogy chart)
+## 機材マップ（系譜図）
 
-**Description**: Shows the genealogy from early representative equipment to modern modular/software environments.
+**説明**：初期の代表的機材から現代のモジュラー／ソフトウェア環境までを系譜的に示す。
 
 <div class="mermaid">
 
 flowchart TD
 
 
-A["1980s - 1990s<br>(early)"]
-B["1996–2005<br>(Turning period)"]
-C["2014–2025<br>(current)"]
+  A["1980s - 1990s<br>(初期)"]
+  B["1996–2005<br>(転換期)"]
+  C["2014–2025<br>(現在)"]
 
-A --> A1["TB-303 / TB-808 / SH-101<br>Analog Rhythm / Bass"]
-A --> A2["Akai S900 / S950<br>Sampler (cut and paste)"]
-A --> A3["Atari ST + Cubase (initial)"]
+  A --> A1["TB-303 / TB-808 / SH-101<br>アナログ・リズム / ベース"]
+  A --> A2["Akai S900 / S950<br>サンプラー（切り貼り）"]
+  A --> A3["Atari ST + Cubase（初期）"]
 
-B --> B1["Higher performance sampler<br>Expansion of hardware synths"]
-B --> B2["DAW introduction (Pro Tools etc.)<br>Precision editing"]
-B --> B3["External effects/hard processing"]
+  B --> B1["より高性能サンプラー<br>ハードウェアシンセの拡充"]
+  B --> B2["DAW導入（Pro Tools 等）<br>精密編集"]
+  B --> B3["外部エフェクト／ハード処理"]
 
-C --> C1["Eurorack modular<br>(modular patch culture)"]
-C --> C2["Max/MSP, Reaktor, soft module"]
-C --> C3["Hybrid: Physical control + algorithm"]
-
-
-A1 --- B1
-A2 --- B2
-B3 --- C2
-B2 --- C2
-C1 --- C2
+  C --> C1["Eurorackモジュラー<br>(モジュラーパッチ文化)"]
+  C --> C2["Max/MSP, Reaktor, ソフト・モジュール"]
+  C --> C3["ハイブリッド：物理制御＋アルゴリズム"]
 
 
-classDef era fill:#eef,stroke:#88a,stroke-width:1px;
-class A,B,C era;
+  A1 --- B1
+  A2 --- B2
+  B3 --- C2
+  B2 --- C2
+  C1 --- C2
+
+
+  classDef era fill:#eef,stroke:#88a,stroke-width:1px;
+  class A,B,C era;
 
 
 </div>
 
   ---
 
-## Emotion vs. Data (Abstract Diagram)
+## 感情 vs データ（抽象ダイアグラム）
 
-**Description**: A conceptual diagram showing how "human emotional expression" and "data/algorithmic manipulation" are combined in an Aphex Twin song.
+**説明**：「人間の感情的表現」と「データ／アルゴリズム的操作」がAphex Twin楽曲でどう融合するかを示す概念図。
 
 <div class="mermaid">
 
 graph TD
-AT[Aphex Twin (music)]:::center
-H[Human / emotional motif]
-D[Data / Algorithm]
-A[Accidentality/analog noise]
-B[Structuring/Polyrhythm]
-C[Visual expression/memeization]
+  AT[Aphex Twin（音楽）]:::center
+  H[Human / 感情的モチーフ]
+  D[Data / アルゴリズム]
+  A[偶発性 / アナログノイズ]
+  B[構造化 / ポリリズム]
+  C[視覚表現 / ミーム化]
 
-H -->|Projection| AT
-D -->|Control/Generation| AT
-A -->|texture element| AT
-B -->|Rhythm structure| AT
-C -->|Branding/Presentation| AT
+  H -->|投影| AT
+  D -->|制御・生成| AT
+  A -->|テクスチャ要素| AT
+  B -->|リズム構造| AT
+  C -->|ブランド化／提示| AT
 
-AT --> H
-AT --> D
+  AT --> H
+  AT --> D
 
-classDef center fill:#fff7e6,stroke:#b36b00,stroke-width:2px;
-class AT center;
+  classDef center fill:#fff7e6,stroke:#b36b00,stroke-width:2px;
+  class AT center;
 
 </div>
 
 ---
 
-## Spectrogram measurement comparison
+## スペクトログラム実測比較
 
-#### ("Xtal" (1992) vs "minipops 67" (2014))
+#### （『Xtal』（1992） vs 『minipops 67』（2014））
 
-Visually capture the sonic differences between Aphex Twin's early days and today.
-Schematic representation of changes in frequency distribution, sound pressure, and stereo width.
+Aphex Twinの初期と現在の音響的差異を視覚的に捉える。
+周波数分布、音圧、ステレオ幅の変化を模式化。
 
 <div class="mermaid">
 
 flowchart TB
-subgraph LEFT["1992"Xtal""]
-direction TB
-L1["Low frequency: 60–300Hz dominant (analog bass)"]
-L2["Middle range: vocal fragments/reverb dense"]
-L3["High frequency: less noise component"]
-end
+    subgraph LEFT["1992『Xtal』"]
+        direction TB
+        L1["低域：60–300Hz 優勢（アナログベース）"]
+        L2["中域：ボーカル断片・リバーブ密集"]
+        L3["高域：ノイズ成分少なめ"]
+    end
 
-subgraph RIGHT["2014"minipops 67""]
-direction TB
-R1["Low frequency: compression balance"]
-R2["Middle range: subdivided pulse group"]
-R3["High range: micro detail/rhythm granularity ↑"]
-end
+    subgraph RIGHT["2014『minipops 67』"]
+        direction TB
+        R1["低域：コンプレッション均衡"]
+        R2["中域：細分化されたパルス群"]
+        R3["高域：マイクロディテール・リズム粒度↑"]
+    end
 
-L1 --- R1
-L2 --- R2
-L3 --- R3
+    L1 --- R1
+    L2 --- R2
+    L3 --- R3
 
-style LEFT fill:#f9f9f9,stroke:#666,stroke-width:1px
-style RIGHT fill:#f9f9f9,stroke:#666,stroke-width:1px
+    style LEFT fill:#f9f9f9,stroke:#666,stroke-width:1px
+    style RIGHT fill:#f9f9f9,stroke:#666,stroke-width:1px
 
 </div>
 
-**caption**:
-A comparison of the spectrogram structures of "Xtal" (1992) and "minipops 67" (2014).
-Initially, it was characterized by a soft sound pressure concentrated in the mid-low range, but in recent years it has become more granular across the entire range, and spatial information has become more precise.
+**キャプション**：
+『Xtal』（1992）と『minipops 67』（2014）のスペクトログラム構造比較。
+初期は中低域に集中した柔らかい音圧が特徴、近年は全帯域で粒度が高く、空間情報が精密化している。
 
 ---
 
-### Rhythm structure analysis diagram (beat arrangement vs. polyrhythm)
+### リズム構造解析図（拍配置 vs ポリリズム）
 
-Schematic representation of the "asymmetrical rhythm" and "even/odd beat interference" often used by Aphex Twin.
-A visual beat grid is placed at the bottom.
+Aphex Twinがしばしば用いる「非対称リズム」や「偶数／奇数拍の干渉」を模式化。
+下段に視覚的な拍グリッドを配置。
 
 <div class="mermaid">
 
 graph LR
-subgraph EVEN["4/4 Grid"]
-direction LR
-E1["|1|"]
-E2["|2|"]
-E3["|3|"]
-E4["|4|"]
-end
+    subgraph EVEN["4/4 Grid"]
+        direction LR
+        E1["|1|"]
+        E2["|2|"]
+        E3["|3|"]
+        E4["|4|"]
+    end
 
-subgraph ODD["5/4 Layer"]
-direction LR
-O1["|1|"]
-O2["|2|"]
-O3["|3|"]
-O4["|4|"]
-O5["|5|"]
-end
+    subgraph ODD["5/4 Layer"]
+        direction LR
+        O1["|1|"]
+        O2["|2|"]
+        O3["|3|"]
+        O4["|4|"]
+        O5["|5|"]
+    end
 
-subgraph RESULT["Superposition result"]
-direction LR
-R1["1"]
-R2["1.5"]
-R3["2.3"]
-R4["3.7"]
-R5["5.0"]
-end
+    subgraph RESULT["重ね合わせ結果"]
+        direction LR
+        R1["1"]
+        R2["1.5"]
+        R3["2.3"]
+        R4["3.7"]
+        R5["5.0"]
+    end
 
-EVEN --> RESULT
-ODD --> RESULT
+    EVEN --> RESULT
+    ODD --> RESULT
 
-style EVEN fill:#eef7ff,stroke:#3366cc,stroke-width:1px
-style ODD fill:#ffeef2,stroke:#cc3366,stroke-width:1px
-style RESULT fill:#fff9e6,stroke:#cc9933,stroke-width:1.5px
+    style EVEN fill:#eef7ff,stroke:#3366cc,stroke-width:1px
+    style ODD fill:#ffeef2,stroke:#cc3366,stroke-width:1px
+    style RESULT fill:#fff9e6,stroke:#cc9933,stroke-width:1.5px
 
 </div>
 
-**caption**:
+**キャプション**：
 
-Polyrhythm structure diagram. In Aphex Twin's works, a ""beat shift'' is created by overlaying a 5-beat cycle on a 4-beat grid, creating an aural sense of floating and instability.
+ポリリズム構造図。Aphex Twin作品では、4拍グリッド上に5拍周期を重ねることで「拍のずれ」を生成し、聴覚的な浮遊感や不安定さを演出している。
 
 ---
 
-### Chronology of acoustic evolution (frequency range × year)
+### 音響進化年表（frequency range × year）
 
-Average frequency range spread by age group.
-Initially, it concentrated on the mid-low range, and after the 2000s, the high and ultra-low ranges expanded.
+年代別にみた平均的な周波数レンジの広がり。
+初期は中低域に集中、2000年代以降は高域・超低域が拡張。
 
 <div class="mermaid">
 
-timeline
-title Aphex Twin Evolution of the acoustic range (1990–2025)
-1992: Average range 80Hz–8kHz (mainly analog recording)
-1995 : 100Hz–10kHz (noise reverb expansion)
-2001: 60Hz–12kHz (improved digital accuracy)
-2014 : 40Hz–18kHz (full range)
-2023: 30Hz–20kHz (mastering technology and AI analysis introduced)
+    timeline
+    title Aphex Twin 音響レンジの進化（1990–2025）
+    1992 : 平均レンジ 80Hz–8kHz（アナログ録音主体）
+    1995 : 100Hz–10kHz（ノイズ・リバーブ拡張）
+    2001 : 60Hz–12kHz（デジタル精度向上）
+    2014 : 40Hz–18kHz（フルレンジ化）
+    2023 : 30Hz–20kHz（マスタリング技術とAI解析導入）
 
 </div>
 
-**caption**:
+**キャプション**：
 
-Aphex Twin acoustic range transition (1990–2025).
-Thanks to advances in recording environments, equipment, and mixing methods, the range of all bands has expanded. In particular, the amount of information in the ultra-low and high frequencies has increased significantly.
+Aphex Twinの音響レンジ推移（1990–2025）。
+録音環境・機材・ミキシング手法の進化により、全帯域のレンジが拡張。特に超低域と高域の情報量が顕著に増加している。
 
 ---
-

@@ -11,8 +11,10 @@ tags:
 title: '[Column] Noise Music — From its origins to the present: Historical background,
   famous records, and changes in equipment'
 ---
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Noise = Aesthetics: Converting sounds that are considered harsh to the ear into "pleasure" and "art".
 
 Text: mmr | Theme: Rebellion and destruction - a challenge to existing music and social order.
@@ -28,14 +30,12 @@ A time when industrialization and urbanization made the noise of the city crowds
 ### Important events/people
 - In 1913, Italian avant-garde artist Luigi Russolo published ""The Art of Noises''.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### Representative works
 - Live recording of Russolo's "Noise Machine".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -57,7 +57,6 @@ After World War II, the development of magnetic tape and electroacoustic equipme
 ### Equipment/Technology
 - Tape editing (reverse rotation, looping, cutting/splicing).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -96,7 +95,7 @@ Cassette culture and the DIY spirit formed an international noise network.
 - [Whitehouse (UK)](https://amzn.to/4hnbz0z), [Merzbow (Japan)](https://amzn.to/3L64TI1)
 
 ### Representative works
-- Merzbow"s "Pulse Demon" related works, Whitehouse"s early edition.
+- Merzbow's "Pulse Demon" related works, Whitehouse's early edition.
 
 ### Equipment/Technology
 - Destructive amplifiers, radio noise, distortion pedals, and cassette recordings.
@@ -125,7 +124,6 @@ Diversification through modular synth revival and laptop acoustics.
 ### Equipment/Technology
 - Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

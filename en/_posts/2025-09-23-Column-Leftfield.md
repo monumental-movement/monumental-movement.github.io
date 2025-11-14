@@ -12,8 +12,6 @@ tags:
 - 00s
 title: '[Column] What is Leftfield? — The intersection of genre and artist'
 ---
-
-
 ## Leftfield is an icon of UK electronica and synonymous with musical adventure.
 
 Text: mmr｜Theme: Thoughts on the Leftfield genre and the artist
@@ -41,9 +39,9 @@ color: #fff;
 
 **Japanese**
 
-Leftfield is a word with a double meaning.
-1. A project by UK duo Neil Barnes & Paul Daley.
-2. An expression that refers to experimental and intellectual dance music that transcends genre boundaries.
+Leftfield is a word with a double meaning.  
+1. A project by UK duo Neil Barnes & Paul Daley.  
+2. An expression that refers to experimental and intellectual dance music that transcends genre boundaries.  
 
 **English**
 
@@ -57,10 +55,10 @@ Leftfield has a double meaning:
 
 **Japanese**
 
-- Early 1990s: Born in UK rave culture.
-- 1995: Debut work "*Leftism*" received high praise beyond the club scene.
-- Since the 2000s: The word "leftfield" has become synonymous with "innovative music outside the mainstream."
-- Modern day: Re-evaluated in the context of AI music generation and movie soundtrack production.
+- Early 1990s: Born in UK rave culture.  
+- 1995: Debut work "*Leftism*" received high praise beyond the club scene.  
+- Since the 2000s: The word "leftfield" has become synonymous with "innovative music outside the mainstream."  
+- Modern day: Re-evaluated in the context of AI music generation and movie soundtrack production.  
 
 **English**
 
@@ -85,13 +83,13 @@ Leftfield has a double meaning:
 
 <div class="mermaid">
 flowchart TD
-A["House / Techno"] --> B["Leftfield"]
-A --> C["Trance"]
-B --> D["Trip Hop"]
-B --> E["IDM / Electronica"]
-D --> F["Massive Attack"]
-E --> G["Four Tet"]
-B --> H["Underworld"]
+    A["House / Techno"] --> B["Leftfield"]
+    A --> C["Trance"]
+    B --> D["Trip Hop"]
+    B --> E["IDM / Electronica"]
+    D --> F["Massive Attack"]
+    E --> G["Four Tet"]
+    B --> H["Underworld"]
 </div>
 
 ---

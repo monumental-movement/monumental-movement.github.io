@@ -11,12 +11,9 @@ tags:
 - 10inch
 title: Track Star -Sometimes, What's The Difference
 ---
+This is a 10-inch record by Brian Girgus, Matthew Troy, and Wyatt Cusick's band Track Star, released in 1995 by San Diego's Silver Girl Records.
 
-
-This is a 10-inch record by Brian Girgus, Matthew Troy, and Wyatt Cusick"s band Track Star, released in 1995 by San Diego"s Silver Girl Records.
-
-#### Tracklist
-```md
+#### Tracklist```md
 A1  Bad Time
 
 A2  The View From Space
@@ -35,8 +32,6 @@ B4  True Crime
 
 B5  Sucked Down
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

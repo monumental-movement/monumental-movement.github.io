@@ -11,14 +11,11 @@ tags:
 - 70s
 title: Santana – Caravanserai
 ---
-
-
 Santana is an American Latin rock group formed in the late 1960s led by guitarist Carlos Santana.
 
 "Caravanserai" has been hailed as a new, more jazz-oriented album in Santana's career, as the band moved away from rock and embraced a more experimental and complex sound.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Eternal Caravan Of Reincarnation 
 復活した永遠なるキャラバン
 
@@ -49,8 +46,6 @@ B3. La Fuente Del Ritmo
 B4. Every Step Of The Way
 果てしなき道
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

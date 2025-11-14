@@ -11,8 +11,6 @@ tags:
 - 80s
 title: Alex Coke – New Visions
 ---
-
-
 Alexander Seton Coke, also known as Alex Coke, is an American jazz saxophonist and flutist from Dallas.
 
 Alex Coke has performed with many artists including Gerald Wilson, Charles Tolliver, James Polk, and Jay Rozen. From 1990 to 2000, he toured with Dutch jazz composer and saxophonist Willem Breuker.
@@ -21,8 +19,7 @@ Alex Coke has performed with many artists including Gerald Wilson, Charles Tolli
 A4 and B3 are improvisations.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. By The River (Thinking Of 0)
 A2. Flexible Sunset
 A3. REM - 136
@@ -34,5 +31,4 @@ B2. Radio Eyes (e.d.)
 B3. Casey Jones
 B4. Sayonara
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}

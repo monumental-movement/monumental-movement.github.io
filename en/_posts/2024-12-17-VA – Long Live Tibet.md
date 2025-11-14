@@ -12,12 +12,9 @@ tags:
 - 90s
 title: VA – Long Live Tibet
 ---
-
-
 Charity CD released in 1997. Proceeds from the sale of this CD were donated to the Tibet House Trust charity which supports the liberation of Tibet and Tibetan refugees.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
 3. Ocean Colour Scene Featuring Paul Weller – Lining Your Pockets
@@ -35,8 +32,6 @@ Charity CD released in 1997. Proceeds from the sale of this CD were donated to t
 15. Terrorvision – Moonage Daydream
 16. Supergrass – Wait For The Sun
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

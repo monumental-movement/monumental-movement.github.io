@@ -12,8 +12,12 @@ tags:
 title: '[Column] High energy and LGBTQ: dance music that symbolizes liberation and
   identity'
 ---
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRnBNo9TWNY?si=OW8j9TwpoJe9s09l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gD6cPE2BHic?si=nh821ZQkoN4wIcvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUJ9Oc7WW3g?si=aoUWMeK4ZTl9cNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Dance music that symbolizes liberation and identity
 
 
@@ -28,7 +32,6 @@ The sound was characterized by fast tempos (120-140 BPM), synth-based riffs, and
 
 Hi-NRG had a particularly strong following in gay clubs. After the Stonewall Riots in the 1970s, the LGBTQ community sought a place for their expression and identity in the club scene, and Hi-NRG functioned as their "music of liberation."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -37,16 +40,14 @@ Hi-NRG had a particularly strong following in gay clubs. After the Stonewall Rio
 
 At a time when homosexuality was still subject to discrimination and prejudice, Hi-NRG provided "a space where people could dance and love each other without being tied down by anyone." Club dance floors were safe spaces where people could escape from the oppression of society, and Hi-NRG was essential as background music.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fRnBNo9TWNY?si=OW8j9TwpoJe9s09l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 🌈 Expression of identity
 
 Hi-NRG's lyrics often have themes of love, desire, and self-liberation, and they resonate not only with straight love, but also with the earnest feelings of LGBTQ people.
-For example, Evelyn Thomas"s ""High Energy" and Hazell Dean"s ""Searchin"' became deeply engraved in the club scene as gay anthems.
+For example, Evelyn Thomas's ""High Energy'' and Hazell Dean's ""Searchin''' became deeply engraved in the club scene as gay anthems.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -54,7 +55,6 @@ For example, Evelyn Thomas"s ""High Energy" and Hazell Dean"s ""Searchin"' becam
 
 Bobby Orlando"s Divine songs (e.g. "You Think You"re a Man") are emblematic of the direct connection between Hi-NRG and drag queen culture. Her performances were radical and provocative, breaking down the boundaries of music and gender expression.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
@@ -64,7 +64,6 @@ Bobby Orlando"s Divine songs (e.g. "You Think You"re a Man") are emblematic of t
 
 A singer who was openly gay. Their signature song "You Make Me Feel (Mighty Real)" is the origin of Hi-NRG and is a timeless masterpiece as a gay anthem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gD6cPE2BHic?si=nh821ZQkoN4wIcvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -74,7 +73,7 @@ A UK Hi-NRG singer who was so supported in the club scene that she was called th
 
 **Divine**
 
-While active as a drag queen, she gained worldwide attention with Hi-NRG. Boldly displaying sexual expression, they integrated music and gender politics.
+While active as a drag queen, she gained worldwide attention with Hi-NRG. They boldly displayed sexual expression and integrated music and gender politics.
 
 **Evelyn Thomas**
 A diva who defined the genre with her signature song "High Energy." It was explosively popular in gay clubs and spread Hi-NRG worldwide.
@@ -99,7 +98,6 @@ Particularly in the LGBTQ community, Hi-NRG classics continue to be played at Pr
 
 Contemporary Drag Race culture and hyper-pop artists (SOPHIE, Kim Petras, etc.) carry Hi-NRG's DNA of exaggerated energy and gender expression.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NUJ9Oc7WW3g?si=aoUWMeK4ZTl9cNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 

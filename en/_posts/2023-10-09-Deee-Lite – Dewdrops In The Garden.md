@@ -10,14 +10,11 @@ tags:
 - Hiphop
 title: Deee-Lite – Dewdrops In The Garden
 ---
-
-
 Dewdrops in the Garden is the third and final studio album by American dance music band Deee-Lite, released in August 1994 by Elektra Records.
 
 The album moved away from the political lyrical content of its predecessor, moving towards themes of dance and intimacy, with an emphasis on leaning towards psychedelic music.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Say Ahhh...
 
 2. Mind Melt
@@ -62,8 +59,6 @@ The album moved away from the political lyrical content of its predecessor, movi
 
 16.7. Bring Me Your Love (Johnny Vicious Cosmic Isness Remix 1)
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

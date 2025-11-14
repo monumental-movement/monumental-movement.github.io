@@ -10,14 +10,11 @@ tags:
 - 00s
 title: VA – Trance Lovers 2
 ---
-
-
 trance compilation
 
 Mixed By DJ Tomo
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Safri Duo – Baya-Baya (Future Breeze Radio Edit)
 2. Musiqu vs U2 – New Years Dub (Mauro Picotto Club Mix)
 3. The Space Brothers – Everywhere I Go (Original Vocal Mix)
@@ -34,5 +31,4 @@ Mixed By DJ Tomo
 14. Minimalistix – Close Cover (Club Mix)
 15. Andre Neumann – First Picture (Brittlestar's Exposure Mix)
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}

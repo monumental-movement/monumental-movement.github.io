@@ -11,15 +11,12 @@ tags:
 - 80s
 title: Kiss – Destroyer
 ---
-
-
-Kiss"s Army of Hell is Kiss"s fourth studio album, which includes their signature songs ""Detroit Rock City", ""Scream of Madness", ""Raijin", and ""Beth".
+Kiss's Army of Hell is Kiss's fourth studio album, which includes their signature songs ""Detroit Rock City'', ""Scream of Madness'', ""Raijin'', and ""Beth''.
 
 The producer is Bob Ezrin, who has worked with Alice Cooper and others.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Detroit Rock City（デトロイト・ロック・シティ ）
 
 A2. King Of The Night Time World（暗黒の帝王）
@@ -38,8 +35,6 @@ B4. Beth（ベス）
 
 B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

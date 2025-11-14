@@ -11,15 +11,28 @@ tags:
 title: '[Column] A journey around the world of cars and sound — A thorough guide to
   major car audio countries'
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4T2us7euyIs?si=6r2DneazkhwGM2N-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DUaHmJV97BM?si=S8_fw0fSIAqal-jG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eOsCPEuEcvE?si=N-o9TuGhXnz6dcNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ddd36WxGA?si=krJWBM8TgVWYZMSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WiYAwDad-rY?si=TiCKKBPcPgMPQFfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 車と音の密接な関係
+
+文：mmr｜テーマ：世界各国の主要な車メーカーごとの代表モデルのオーディオ仕様、技術について
 
 
-## Close relationship between cars and sound
-
-Text: mmr｜Theme: Audio specifications and technology of representative models from major car manufacturers around the world
-
-
-Car audio is not just an optional feature; it has a major impact on the driving experience and the value of the space inside the car. Material selection, quietness, and space design during the car design stage are directly linked to sound quality.
-This article details the audio specifications, partner brands, and technologies of representative models from major manufacturers around the world.
+カーオーディオは単なるオプション装備ではなく、運転体験や車内空間の価値を大きく左右します。車の設計段階での素材選定や静音性、空間設計は音質に直結します。  
+本稿では世界各国の主要メーカーごとに、代表モデルのオーディオ仕様、提携ブランド、技術を詳述します。
 
 ---
 
@@ -27,7 +40,7 @@ This article details the audio specifications, partner brands, and technologies 
 table, td, th {
 border: 2px #111 solid;
 width: auto;
-padding: 10px;
+padding: 10px; 
 }
 th {
 background-color: #111;
@@ -36,243 +49,228 @@ color: #fff;
 </style>
 
 
-## Acoustic philosophy of Japanese manufacturers
+## 日本メーカーの音響哲学
 
-### Toyota/Lexus
+### トヨタ／レクサス
 
-- **Audio specifications of representative models**
-- Lexus LS: Mark Levinson 3D surround, 17 speakers, 1,200W
-- With software room correction function
+- **代表モデルのオーディオ仕様**  
+  - レクサスLS：Mark Levinson 3Dサラウンド、17スピーカー、1,200W  
+  - ソフトウェアによる部屋補正機能付き  
 
-- **Manufacturer and brand partnership**
-- Sound design for luxury cars in long-term collaboration with Mark Levinson
+- **メーカーとブランドの提携**  
+  - Mark Levinsonとの長期協業による高級車向けサウンド設計  
 
-- **Anecdotes and techniques**
-- Each material in the car, including the ceiling and seat fabric, was selected with acoustic correction in mind.
+- **逸話や技術**  
+  - 車内の各素材・天井やシート生地も音響補正を考慮して選定されている  
 
-| Product name | Link |
+| 製品名 | リンク | 
 |--------|--------------|
-| Mark Levinson amplifier | [Rakuten](https://a.r10.to/h5pi79) |
-| Mark Levinson speaker | [Amazon](https://amzn.to/47fsjDj) |
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4T2us7euyIs?si=6r2DneazkhwGM2N-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Nissan/Infiniti
-
-- **Representative model**: Infiniti QX80 (Bose 16 speaker system)
-- **Technology**: To optimize in-car acoustics, speaker placement and material reflections were analyzed and tuned in collaboration with BOSE.
-
----
-
-### Honda
-
-- **Representative model**: Accord (ELS Studio 14 speakers)
-- **Technology**: Natural sound reproduction supervised by musicians
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I_OMh104IWw?si=TI7U_7JShGuRlnFe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Mazda Subaru
-
-- **Representative model**: CX-5 (Bose 12 speakers)
-- **Technology**: Measuring and optimizing the acoustic characteristics of the vehicle interior space
+| Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
+| Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
 
 ---
 
 
-## Precision acoustics for German cars
+---
 
-### Mercedes-Benz
+### 日産／インフィニティ
 
-- **Representative model**: S class (Burmester 3D surround, max. 23 speakers, 1,500W)
-- **Technology**: Optimized with DSP to reproduce uniform acoustic characteristics at each location in the car
+- **代表モデル**：インフィニティQX80（Bose 16スピーカーシステム）  
+- **技術**：車内音響を最適化するため、スピーカー配置や素材反射を解析し、BOSEと共同でチューニング  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kMQnxK2CLgQ?si=--nEKP_C-P9mTh_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+### ホンダ
+
+- **代表モデル**：アコード（ELS Studio 14スピーカー）  
+- **技術**：音楽家監修によるナチュラルなサウンド再現  
+
+
+---
+
+### マツダ・スバル
+
+- **代表モデル**：CX-5（Bose 12スピーカー）  
+- **技術**：車内空間の音響特性を測定し最適化  
+
+---
+
+
+## ドイツ車の精密音響
+
+### メルセデス・ベンツ
+
+- **代表モデル**：Sクラス（Burmester 3Dサラウンド、最大23スピーカー、1,500W）  
+- **技術**：車内各位置で均一な音響特性を再現するため、DSPで最適化  
+
 
 ---
 
 ### BMW
 
-- **Representative model**: 7 series (Bang & Olufsen 16 speakers, 1,400W)
-- **Technology**: Driver-centered sound field design, volume correction according to vehicle speed
+- **代表モデル**：7シリーズ（Bang & Olufsen 16スピーカー、1,400W）  
+- **技術**：ドライバー中心の音場設計、車両速度に応じた音量補正  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DUaHmJV97BM?si=S8_fw0fSIAqal-jG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Audi
-
-- **Representative model**: A8 (Bang & Olufsen Advanced Sound System, 19 speakers, 1,650W)
-- **Technology**: Three-dimensional sound reproduction with multi-channel DSP
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## The power of American sound
+### アウディ
 
-### Ford/Chevrolet
+- **代表モデル**：A8（Bang & Olufsen Advanced Sound System、19スピーカー、1,650W）  
+- **技術**：マルチチャンネルDSPで立体音響再現  
 
-- **Representative model**: Camaro (Bose 12 speakers, 1,000W)
-- **Technology**: Emphasizes bass and reproduces powerful sound throughout the car interior
-
----
-
-### Tesla
-
-- **Representative model**: Model S (high-performance DSP-equipped audio, 22 speakers, 960W)
-- **Technology**: Sound quality can be improved with software updates
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Chrysler/Jeep
+## アメリカン・サウンドの迫力
 
-- **Representative model**: Wrangler (Alpine 9 speakers, 480W)
-- **Technology**: Adjustment to maintain sound quality even under outdoor noise
+### フォード／シボレー
 
----
-
-## Unique music experience in Italian and French cars
-
-### Ferrari/Lamborghini
-
-- **Representative model**: Ferrari 812 Superfast (JBL 12 speakers, 380W)
-- **Technology**: Tuning that resonates with the engine sound
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eOsCPEuEcvE?si=N-o9TuGhXnz6dcNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- **代表モデル**：カマロ（Bose 12スピーカー、1,000W）  
+- **技術**：低音を強調し、車内全体に迫力あるサウンドを再現  
 
 ---
 
-### Maserati/Alfa Romeo
+### テスラ
 
-- **Representative model**: Ghibli (Bowers & Wilkins 15 speakers, 1,170W)
-- **Technology**: High-definition sound reproduction with Nautilus tweeter
+- **代表モデル**：モデルS（高性能DSP搭載オーディオ、22スピーカー、960W）  
+- **技術**：ソフトウェアアップデートで音質改善が可能  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Peugeot/Renault
-
-- **Representative model**: Peugeot 508 (Focal 12 speakers, 400W)
-- **Technology**: Maximize spatial acoustics in a compact car
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ddd36WxGA?si=krJWBM8TgVWYZMSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Emerging forces of Korean and Chinese manufacturers
+### クライスラー／ジープ
 
-### Hyundai/Kia
+- **代表モデル**：ラングラー（Alpine 9スピーカー、480W）  
+- **技術**：屋外騒音下でも音質を保つ調整  
 
-- **Representative model**: Sonata (Lexicon 12 speakers, 600W)
-- **Technology**: Adjustment, sound pressure equalization for premium brands
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WiYAwDad-rY?si=TiCKKBPcPgMPQFfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## イタリア・フランス車の個性派音楽体験
+
+### フェラーリ／ランボルギーニ
+
+- **代表モデル**：フェラーリ812スーパーファスト（JBL 12スピーカー、380W）  
+- **技術**：エンジンサウンドと共鳴するチューニング  
+
+
+---
+
+### マセラティ／アルファロメオ
+
+- **代表モデル**：ギブリ（Bowers & Wilkins 15スピーカー、1,170W）  
+- **技術**：Nautilusツイーターで高精細音再現  
+
+
+---
+
+### プジョー／ルノー
+
+- **代表モデル**：プジョー508（Focal 12スピーカー、400W）  
+- **技術**：コンパクト車ながら空間音響を最大化  
+
+
+---
+
+## 韓国・中国メーカーの新興勢力
+
+### 現代／起亜
+
+- **代表モデル**：ソナタ（Lexicon 12スピーカー、600W）  
+- **技術**：プレミアムブランド向けの調整、音圧均一化  
+
 
 ---
 
 ### BYD／NIO／Geely
 
-- **Representative model**: NIO ES6 (proprietary development 18 speakers, 1,000W)
-- **Technology**: Low frequency adjustment that takes advantage of EV characteristics
+- **代表モデル**：NIO ES6（独自開発18スピーカー、1,000W）  
+- **技術**：EV特性を活かした低周波調整  
 
 ---
 
-## Luxury acoustics in British cars
+## イギリス車の高級音響
 
-### Jaguar
+### ジャガー
 
-- **Representative model**: F-Pace, XJ (Meridian 14~20 speakers, 825W)
-- **Technology**: Three-dimensional sound field reproduction with Trifield 3D sound technology
+- **代表モデル**：F-Pace、XJ（Meridian 14〜20スピーカー、825W）  
+- **技術**：Trifield 3D音響技術で立体音場再現  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Land Rover
-
-- **Representative model**: Range Rover Evoque (Meridian 13-19 speakers, 825W)
-- **Technology**: Acoustic optimization at vehicle design stage
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Aston Martin
+### ランドローバー
 
-- **Representative model**: Vantage, DB12 (Bowers & Wilkins 15 speakers, 1,170W)
-- **Technology**: Realistic sound with Nautilus tweeter
+- **代表モデル**：Range Rover Evoque（Meridian 13〜19スピーカー、825W）  
+- **技術**：車両設計段階で音響最適化  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### Bentley
-
-- **Representative model**: Bentayga, Continental GT (Naim for Bentley 20 speakers, 1,960W)
-- **Technology**: Automatically corrects sound quality according to speed and environment
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Rolls Royce
+### アストンマーティン
 
-- **Representative models**: Phantom, Ghost, Cullinan (Bespoke Audio 13-18 speakers, max. 1,300W)
-- **Technology**: Studio quality reproduction that takes advantage of the quietness of the vehicle, noise reduction using aluminum and magnesium materials
+- **代表モデル**：Vantage、DB12（Bowers & Wilkins 15スピーカー、1,170W）  
+- **技術**：Nautilusツイーター採用で臨場感ある音  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### ベントレー
+
+- **代表モデル**：Bentayga、Continental GT（Naim for Bentley 20スピーカー、1,960W）  
+- **技術**：速度や環境に応じて音質を自動補正  
+
+
+---
+
+### ロールス・ロイス
+
+- **代表モデル**：Phantom、Ghost、Cullinan（Bespoke Audio 13〜18スピーカー、最大1,300W）  
+- **技術**：車両の静粛性を活かすスタジオ品質再現、アルミやマグネシウム素材でノイズ低減  
+
 
 ---
 
 
-| Brand/Model | System | Number of Speakers/Output | Features |
+| ブランド/モデル | システム | スピーカー数/出力 | 特徴 |
 |-----------|----------|-------|------|
 | Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
-| Land Rover/Evoque | Meridian | 19/825W | 3D Surround |
-| Aston Martin/Vantage | B&W | 15/1,170W | Nautilus tweeter |
-| Bentley/Bentayga | Naim | 20/1,960W | Automatic sound quality correction |
-| Rolls-Royce/Phantom | Bespoke | 18/1,300W | Studio quality |
+| Land Rover/Evoque | Meridian | 19/825W | 3Dサラウンド |
+| Aston Martin/Vantage | B&W | 15/1,170W | Nautilusツイーター |
+| Bentley/Bentayga | Naim | 20/1,960W | 自動音質補正 |
+| Rolls-Royce/Phantom | Bespoke | 18/1,300W | スタジオ品質 |
 
 ---
 
-## Technology trends and future in-car music experiences
+## 技術トレンドと未来の車内音楽体験
 
-- Active noise cancellation and DSP optimization
-- Personalized sound quality adjustment using AI
-- New sound design that takes advantage of the quietness of the EV era
+- アクティブノイズキャンセリングとDSP最適化  
+- AIによる個人向け音質調整  
+- EV時代の静粛性を活かした新しいサウンドデザイン  
 
 ---
 
-## Summary: From engine sound to sound art — a vision of the future of cars and sound
+## まとめ：エンジン音から音響芸術へ — 車とサウンドの未来図
 
-Cars used to be "machines for transportation". However, now it is a ""space that embraces sound'' and is an extension of culture.
-Germany has imbued sound with precision engineering, Britain with tradition and formality, America with freedom and power, and Japan with delicate harmony.
-Car audio in each country is also a crystallization of that society's aesthetic sense and industrial philosophy.
+車は、かつて“移動のための機械”だった。しかし今や、それは“音を纏う空間”であり、文化の延長線上にある。
+ドイツは精密工学の延長として、イギリスは伝統と格式を、アメリカは自由とパワーを、日本は繊細な調和を音に込めてきた。
+それぞれの国のカーオーディオは、その社会の美意識と産業哲学の結晶でもある。
 
-Rolls-Royce's "silent stage" is the ultimate in silence.
-Tesla's DSP control connects electrical signals and emotions.
-And Mark Levinson of Lexus plays with materials and space as "instruments."
-These are not just speaker systems, but ""architectures of sound'' where humans and machines, engineering, and sensibilities intersect.
+静寂を極めたロールス・ロイスの「無音の舞台」。
+電気信号とエモーションを結ぶテスラのDSP制御。
+そして、素材と空間を“楽器”として鳴らすレクサスのMark Levinson。
+これらは単なるスピーカーシステムではなく、**人と機械、工学と感性が交差する「音の建築」**といえる。
 
-Now that the shift to EVs is progressing, the symbolic element of engine sound is disappearing,
-In-car acoustics are beginning to take on a new role.
-It is a "moving listening room" and a "personal acoustic universe."
-Manufacturers around the world are no longer pursuing horsepower or quietness;
-**"What kind of sounds can you hear while running?"** This is a new experience value.
+EV化が進む今、エンジン音という象徴的な要素が消えゆく一方で、
+車内音響は新たな役割を担いはじめている。
+それは“移動するリスニングルーム”であり、“個人の音響宇宙”だ。
+各国メーカーが追求するのは、もはや馬力でも静粛性でもなく、
+**「走ることで、どんな音を聴かせられるか」**という新しい体験価値なのだ。
 
-Car audio never stops evolving.
-The acoustic design is corrected by AI, and the seat becomes a resonating plate, changing the sound field according to the driver's heartbeat and mood.
-What we will end up with is a realm of sonic equality that transcends countries and brands.
-The act of listening while running sharpens human sensibilities once again.
+カーオーディオは進化を止めない。
+音響設計はAIが補正し、シートは共振板となり、ドライバーの心拍や気分に合わせて音場が変わる。
+その行き着く先にあるのは、国やブランドを超えた“音の平等圏”だろう。
+走りながら聴くという行為が、再び人間の感性を研ぎ澄ませていく。
 
-What cars tell us is not the road, but the journey of sound.
-And that journey has only just begun.
+車が語るのは道のりではなく、音の旅である。
+そしてその旅は、まだ始まったばかりだ。

@@ -11,8 +11,6 @@ tags:
 - 80s
 title: Furniture – I Can"t Crack
 ---
-
-
 Furniture was a British pop band that was active from 1979 to 1991. Band members were Jim Irvin (vocals and percussion), Tim Whelan (guitar), Hamilton Lee (drums), Sally Still (bass), Maya Gilder (keyboards), and Larry Nazone (saxophone).
 
 Furniture gained popularity in the early 1980s with a unique sound that incorporated elements of pop, new wave, and post-punk.
@@ -23,8 +21,7 @@ Furniture's music received critical acclaim for its unique sound and sophisticat
 
 Furniture's music is still loved by fans of 1980s British pop and alternative music.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. I Can't Crack
 
 
@@ -36,8 +33,6 @@ A3. Pause
 
 B1. I Can't Crack (Broken Mix)
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

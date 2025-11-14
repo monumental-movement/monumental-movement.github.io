@@ -12,13 +12,10 @@ tags:
 - 00s
 title: Beastie Boys – To The 5 Boroughs
 ---
-
-
 "To the 5 Boroughs" is the sixth studio album by US hip-hop group Beastie Boys, released in 2004. The album debuted at number one on the Billboard 200, selling 360,000 copies in its first week and was certified platinum by the RIAA.
 The 12th track is a bonus track only available in the Japanese version.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Ch-Check It Out
 2. Right Right Now Now
 3. 3 The Hard Way
@@ -36,10 +33,7 @@ The 12th track is a bonus track only available in the Japanese version.
 15. We Got The
 16. Now Get Busy (Bonus Track For Japan)
 ```
-
-
-[Purchase on Mercari](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ny6hwUOFvlw?si=v7n3tnD_yykZo3wm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ny6hwUOFvlw?si=v7n3tnD_yykZo3wm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,16 +11,13 @@ tags:
 - 90s
 title: Luke Slater – Freek Funk
 ---
-
-
 Luke Slater is a British electronic musician, DJ, and record producer who has been active at the forefront of the techno scene since the early 1990s. Other names include Planetary Assault Systems and LSD.
 
 "Freek Funk" is a Techno album released in 1997 by the UK techno and electronica label NovaMute. It includes the hit song "Love".
 
 In 2017, Mixmag named it the fifth greatest techno album of the 1990s.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Purely
 2. Score One
 3. Origin
@@ -38,8 +35,6 @@ In 2017, Mixmag named it the fifth greatest techno album of the 1990s.
 15. Black Cloud (Epilogue)
 16. Walking The Line
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,8 +11,6 @@ tags:
 - 90s
 title: Pick up acid jazz pieces
 ---
-
-
 "A remarkable collection of acid jazz works that fuse jazz improvisation and club grooves to create a sophisticated urban sound."
 
 <hr>
@@ -24,8 +22,7 @@ Summary: The second concept album released in 1993 by Corduroy, a four-piece aci
 
 Recommended points: The second song "London England" is called a dance floor classic of the 1990s, and it is highly regarded as their masterpiece, including other singles that entered the top 10 of the UK indie charts.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. High Havoc
 2. London England
 3. The Corduroy Orgasm Club
@@ -40,13 +37,11 @@ Recommended points: The second song "London England" is called a dance floor cla
 12. Very Yeah
 13. Clearing Up Music
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -58,20 +53,17 @@ Summary: A single by Raw Stylus, a British acid jazz band active in the 1990s, c
 
 Recommended points: Although "Use Me" is a cover of a famous song, its appeal is a fusion of respect for the original and an acid jazz-like interpretation, allowing you to enjoy a multi-layered sound that includes funk and soul.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Use Me
 
 B1. Use Me (12" Remix)
 B2. Boom
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -84,15 +76,12 @@ Summary: House x acid jazz track by Toledo (Toledo Diamond). Former Black Grape 
 
 Recommended points: This is an attractive cross-genre fun track that combines the essence of acid jazz with the sophistication of house music.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Joe (Joey Malcom Mix)
 
 B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
-
-
 [Purchase on Mercari](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
 
 <br>
@@ -106,20 +95,17 @@ Summary: A Future Jazz track by the funk-soul rock band Akimbo, featuring guitar
 
 Recommended points: This is a sophisticated track that feels like a modern funk/jazz fusion, with a "Future Jazz" style that can be said to be an evolution of Acid Jazz.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Everybody Knows (Erobique Remix)
 
 B1. Everybody Knows (Edit)
 B2. Flight To Havana
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -134,8 +120,7 @@ m.m.r
 Recommended points: A valuable piece that includes famous songs from the early days of acid jazz, such as Corduroy, Mother Earth, and Sons of Judah. You can enjoy the expansion of the genre and the feeling of groove all at once.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
 A2.Mother Earth(マザー・アース)– Warlocks Of Pendragon
@@ -154,12 +139,10 @@ B4.The Grass Snakes – That's It
 
 B5.Raw – Dreams
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>

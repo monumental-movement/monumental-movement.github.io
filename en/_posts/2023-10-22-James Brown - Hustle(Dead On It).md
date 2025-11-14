@@ -11,8 +11,6 @@ tags:
 - 7inch
 title: James Brown - Hustle!!! (Dead On It)
 ---
-
-
 "Hustle!!! (Dead On It)" is a song from James Brown's album "Dead On The Heavy Funk 1975-1983".
 
 Released in 1975, this song is known for James Brown's unique energetic and funky sound.
@@ -25,14 +23,11 @@ James Brown's signature up-tempo and dynamic songs and performances create an ov
 
 The song is known not only for its musicality but also for its motivational message, making it a favorite among funk and soul music lovers among its fans.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Hustle!!! (Dead On It)
 
 B. Dead On It Part II
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

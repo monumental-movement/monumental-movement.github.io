@@ -11,8 +11,6 @@ tags:
 - 00s
 title: Pick up Dubstep works
 ---
-
-
 ""A remarkable collection of Dubstep works with an explosive bass line that has become the main attraction at festivals.''
 
 <hr>
@@ -23,21 +21,18 @@ title: Pick up Dubstep works
 Features: Three people with different approaches are in charge of each aspect, making this a piece with an attractive composition on both sides.
 
 
-Why: Benga"s bass depth, Walsh"s groove, and Darqwan's originality shine through on each track.
+Why: Benga's bass depth, Walsh's groove, and Darqwan's originality shine through on each track.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -48,21 +43,18 @@ B. Darqwan–Megatection
 
 Features: The style that symbolizes the early days of dubstep in the 2000s is strongly reflected, and the strength of the beat and the depth of the bass are the highlights.
 
-Appeal: Zed Bias"s sound design combines a sense of structure and playfulness that feels at the cutting edge of the UK electronic scene at the time. The content coexists with thrilling rhythms and futuristic spatial descriptions, making it valuable as a collector"s piece.
+Appeal: Zed Bias's sound design combines a sense of structure and playfulness that feels at the cutting edge of the UK electronic scene at the time. The content coexists with thrilling rhythms and futuristic spatial descriptions, making it valuable as a collector's piece.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Ambush Riddim
 
 B. Cosmic Minefield
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -77,19 +69,16 @@ Features: The combination of Distance, Skream, who have been leading the dubstep
 
 Charm: Skream is a "destructive beat" that makes use of the essence of the original song, while Goth-Trad is a dark and texture-oriented reconstruction, which can be said to be completely opposite sound images contained in one album. This item has great value as a classic and is in high demand from analog enthusiasts and DJs.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
 B. Traffic (Goth-Trad Remix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -101,8 +90,7 @@ Features: This is the EP that established Skrillex's name worldwide, and "Scary 
 
 Appeal: Contains remixes by leading producers such as Noisia, Zedd, and Bare Noize, which bring out new appeal of the songs from each artist's perspective.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
 3. Kill Everybody
@@ -113,13 +101,11 @@ Appeal: Contains remixes by leading producers such as Noisia, Zedd, and Bare Noi
 8. Scary Monsters And Nice Sprites (Zedd Remix)
 9. Kill Everybody (Bare Noize Remix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -134,18 +120,15 @@ Characteristics: Released on the Moving Shadow label in 1996-97, this album brea
 Appeal: For those who like the dark and deep bass lines and beats of dubstep, this is a great album to listen to.
 
 
-#### Tracklist
-```md
+#### Tracklist```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>

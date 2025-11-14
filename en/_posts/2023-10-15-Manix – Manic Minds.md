@@ -10,8 +10,6 @@ tags:
 - Break Beat
 title: Manix – Manic Minds
 ---
-
-
 "Manix" is the solo project of 4 Hero's Marc Clair. Manix was one of the most important artists in the UK rave scene at the time, which centered around old school breakbeats.
 
 [Sample list]
@@ -33,8 +31,7 @@ Track AAi
 Piano Sterling Void - Don't Wanna Go.
 Vocal: Extortion Featuring Dihan Brooks - How Do You See Me Now.
 
-#### Tracklist
-```md
+#### Tracklist```md
 Ai. Stupid Dope Mix (Pt. 1){: .button1}
 
 Aii. Special Request
@@ -43,8 +40,6 @@ AAi. Feel Real Good
 
 AAii. Can't Tech No More
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

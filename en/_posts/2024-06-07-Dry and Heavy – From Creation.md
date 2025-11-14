@@ -11,8 +11,6 @@ tags:
 - 00s
 title: Dry & Heavy – From Creation
 ---
-
-
 Dry&Heavy is a Japanese reggae dub band formed in 1991 by drummer Shigeki Nanao (Dry) and bassist Takeshi Akimoto (Heavy).
 Dry&Heavy's sound is influenced by 1970s Jamaican dub sounds such as King Tubby and Lee Perry, and they have been successful at reggae and dub festivals both domestically and internationally.
 
@@ -20,8 +18,7 @@ In 1995, Rikuru Mai and Ao Inoue joined. During Fuji Rock in 2001, Takeshi Akimo
 
 "From Creation" is the fifth album released by the Japanese electronic label Beat Records in 2002.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Reverse Again
 2. New Creation
 3. Strictly Baby
@@ -35,8 +32,6 @@ In 1995, Rikuru Mai and Ao Inoue joined. During Fuji Rock in 2001, Takeshi Akimo
 11. Right Track
 12. Bright Shining Star
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

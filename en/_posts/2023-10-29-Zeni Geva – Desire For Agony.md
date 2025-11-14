@@ -11,8 +11,6 @@ tags:
 - Noise
 title: Zeni Geva – Desire For Agony
 ---
-
-
 Zenigeva's album "Pain Oriented" was recorded and mixed at The Basement in Chicago, USA in September 1993.
 
 Zeni Geva is a Japanese band formed in Tokyo in 1987.
@@ -23,15 +21,14 @@ The core members are KK.Null, who is also known for his solo activities, and Mit
 
 After a long hiatus, they reunited in 2007 and resumed their activities in 2009.
 
-Tatsuya Yoshida, who was one of the original members, joined on drums. Since Mitsuru Tabata left the group in 2012, they are currently active as a duo.
+Tatsuya Yoshida, who was one of the original members, joined as a drummer. Mitsuru Tabata left the group in 2012, so they are currently active as a duo.
 
 current members
 
 KK.Null – vocals, guitar
 Tatsuya Yoshida – drums, vocals
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Stigma = スティグマ
 
 A2. Dead Sun Rising = デッドサンライジング
@@ -50,9 +47,7 @@ B3. Autopsy Love = オートプシィラブ
 
 B4. The Body = ザ ボディー
 ```
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-

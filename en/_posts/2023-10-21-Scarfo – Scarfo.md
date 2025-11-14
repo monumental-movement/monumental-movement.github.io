@@ -10,12 +10,9 @@ tags:
 - Rock
 title: Scarfo – Scarfo
 ---
-
-
 Scarfo is a British rock band formed in 1994 by Jamie Hince, Nick Prior, and Al Saunders.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Eyesore
 
 A2. Coin Op
@@ -30,6 +27,4 @@ B6. Throw It All
 
 B7. Wailing Words
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
-

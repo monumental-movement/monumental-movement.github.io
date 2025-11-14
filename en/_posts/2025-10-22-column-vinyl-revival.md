@@ -9,15 +9,13 @@ tags:
 - Vinyl
 title: '[Column] Rotating Nostalgia: The Psychology of Vinyl Revival'
 ---
-
-
 ## Prologue: What remains after sound becomes "data"
 
 
 Text: mmr | Theme: Adding a data perspective to the psychology of record regression. Graphing the global Vinyl Revival from 2000 to 2025
 
 
-In the 2020s, when music consumption became completely digital, a ""return to analog"' was quietly progressing behind the playlists played by Spotify"s algorithm.
+In the 2020s, when music consumption became completely digital, a ""return to analog'' was quietly progressing behind the playlists played by Spotify's algorithm.  
 
 ---
 
@@ -38,10 +36,10 @@ color: #fff;
 
 ## Chapter 1: The intersection of data and psychology
 
-Behind the resurgence of records are **psychological desires and social reactions**.
-The movement to reclaim the physical musical experience is also an unconscious rebellion of the digital generation.
+Behind the resurgence of records are **psychological desires and social reactions**.  
+The movement to reclaim the physical musical experience is also an unconscious rebellion of the digital generation.  
 
-The graph below shows global record sales trends from 2000 to 2025.
+The graph below shows global record sales trends from 2000 to 2025.  
 It can be seen that while CDs are in decline, vinyl is making a comeback and is on the rise.
 
 ---
@@ -53,15 +51,15 @@ It can be seen that while CDs are in decline, vinyl is making a comeback and is 
 
 %% Vinyl Revival: 2000–2025
 timeline
-title World record sales trends (2000–2025/based on IFPI estimated data)
-2000: Worldwide sales approximately $300 million (in a corner of the market)
-2005: Downturn — the rise of digital distribution
-2010 : Indie re-evaluation/Record Store Day established
-2015: Exceeded $1 billion (+30% compared to the previous year)
-2018 : LP overturns CD sales (UK)
-2020: Global sales approximately 1.2 billion dollars (steady despite the coronavirus pandemic)
-2023: Highest record in the US since 1987 (RIAA)
-2025: World market approximately $2.5 billion — Revival of physical music
+  title World record sales trends (2000–2025/based on IFPI estimated data)
+  2000: Worldwide sales approximately $300 million (in a corner of the market)
+  2005: Downturn — the rise of digital distribution
+  2010 : Indie re-evaluation/Record Store Day established
+  2015: Exceeded $1 billion (+30% compared to the previous year)
+  2018 : LP overturns CD sales (UK)
+  2020: Global sales approximately 1.2 billion dollars (steady despite the coronavirus pandemic)
+  2023: Highest record in the US since 1987 (RIAA)
+  2025: World market approximately $2.5 billion — Revival of physical music
 
 
 </div>
@@ -108,7 +106,7 @@ It has the effect of calming the rhythm of heartbeat and brain waves.
 ---
 
 
-## Chapter 5: Future analog ─ Reaction in the AI ​​era
+## Chapter 5: Future analog ─ Reaction in the AI era
 
 In an era where AI can generate music infinitely,
 "Sounds that cannot be reproduced" and "trace of matter" are
@@ -123,10 +121,10 @@ Records in the era of AI-generated music
 <div class="mermaid">
 
 pie title Global Vinyl Market Share (2025 estimate)
-"North America" ​​: 42
-"Europe" : 30
-"Asia Pacific" : 18
-"South America/Others" : 10
+    "North America" : 42
+    "Europe" : 30
+    "Asia Pacific" : 18
+    "South America/Others" : 10
 
 </div>
 
@@ -140,5 +138,3 @@ Under these circumstances, people are once again seeking "material sound."
 Records never die.
 Rather, as a symbol of the rotation of human memory and emotions,
 It continues to quietly and surely turn to the future.
-
-

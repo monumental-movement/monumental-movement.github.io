@@ -10,8 +10,6 @@ tags:
 - Classic
 title: Various – The Enjoy! Story
 ---
-
-
 "Various – The Enjoy! Story" is an album compiled of hits from the birth of Zulu Nation, a masterpiece of rap.
 
 Track A2 typo: Artist is misspelled as "Grandmaster Flash" instead of the original "Grandmaster Flash & The Furious Five."
@@ -27,8 +25,7 @@ The following songs are also included as bonus tracks, but are not included on t
 Tracks B5 to B6
 Tracks D6 to D9
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
 A3.Spoonie Gee And Treacherous Three–Love Rap
@@ -64,10 +61,7 @@ D7. The Masterdon Committee – Gonna Get You Hot
 D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

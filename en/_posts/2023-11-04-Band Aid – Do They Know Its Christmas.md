@@ -10,11 +10,9 @@ tags:
 - Pops
 title: Band Aid – Do They Know It"s Christmas
 ---
-
-
 Band Aid is a charity project group formed by Bob Geldof and Midge Ure in 1984 to raise funds for hunger eradication efforts in Ethiopia, bringing together British and Irish rock and pop superstars.
 
-[Participating artists] are as follows.
+ [Participating artists] are as follows.
 
 ・Phil Collins (Genesis)
 
@@ -60,15 +58,13 @@ Band Aid is a charity project group formed by Bob Geldof and Midge Ure in 1984 t
 
 ・Trevor Horn
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Do They Know It's Christmas? (12" Mix)
 
 B1. Do They Know It's Christmas? (Standard Mix)
 
 B2. Feed The World
 ```
-[Purchase on Mercari](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

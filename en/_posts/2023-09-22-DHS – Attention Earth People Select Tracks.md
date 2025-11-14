@@ -10,8 +10,6 @@ tags:
 - Minimal
 title: DHS – Attention Earth People Select Tracks
 ---
-
-
 DHS (Dimensional Holofonic Sound) is a project by producer Benjamin Stokes, known for its unique sound and innovative approach to electronic music.
 
 Since 1988, DHS has been creating music, visuals, and live shows.
@@ -26,8 +24,7 @@ Due to demand and rising prices, this record is expensive, but compared to a rec
 
 This EP, or mini-album, is top-notch from start to finish, with no wasted songs and absolutely full of killer tunes.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1  Attention Earth People
 
 A2  Attention Earth People (Remix)
@@ -40,8 +37,6 @@ B2  Venus The Morning Star
 
 B3  As High As It Can Go
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

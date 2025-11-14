@@ -9,12 +9,9 @@ tags:
 - Ambient
 title: Super Fighter USAF F-15 Eagle
 ---
-
-
 Super Fighter USAF F-15 Eagle
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1  プロローグ
 
 A2  朝焼けのエンジン・スタート
@@ -31,5 +28,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 
 B4  夕暮れの着陸
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

@@ -11,8 +11,6 @@ tags:
 - Rare
 title: Abe Duque – Don't Be So Mean Part I
 ---
-
-
 Abe Duque is active in the New York underground acid scene.
 
 In the early 90's, he participated in PROGRAM2, which was attracting attention in the NY club scene at the time.
@@ -27,14 +25,11 @@ Released in 2008, "Don't be So Mean" is a techno track that became popular on da
 
 The B-side features vocals from Serbian DJ Tijana T, who plays at famous clubs around the world such as Boiler room and Panorama Bar.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Don't Be So Mean (Part I)
 
 A2. Vinyl Is Dead
 
 B. Salute The Dawn Featuring – Tijana T
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
-

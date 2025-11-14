@@ -11,8 +11,6 @@ tags:
 - 90s
 title: Pick up Tresor works
 ---
-
-
 "The heartbeat of techno echoing behind the iron door, the remarkable works of Tresor"
 
 <hr>
@@ -27,8 +25,7 @@ Overview: Joey Beltram's work released by Tresor in 2004. Available in CD format
 
 Attractive point: Includes many representative songs by veteran techno producer Joey Beltram. Through collaboration with Tresor, you can enjoy his deepened sound world.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Resurgence
 2. It Works
 3. The Rising Sun
@@ -40,13 +37,11 @@ Attractive point: Includes many representative songs by veteran techno producer 
 9. Brreakz
 10. Tenth
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -59,20 +54,17 @@ Summary: A single containing "Game Form" and remixes by Robert Armani and Mike D
 
 Attractive point: This is an exclusive vinyl work with powerful dance floor tracks including remixes.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A. Game Form
 
 B1. Game Form (Robert Armani Remix)
 B2. Game Form (Mike Dearborn Remix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -84,8 +76,7 @@ Summary: A compilation album by Tresor released in 1998. Following Vol.7 in 1999
 
 Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno scene of the late 90s, and is a good introductory album that allows you to deeply enjoy the label's roots and early sounds.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
 3. Scan 7 –Triple Darkness
@@ -100,13 +91,11 @@ Attractive point: Contains a luxurious lineup that symbolizes the Berlin techno 
 12. Basic Channel –Octaedre
 13. Substance –Plate Element 2
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -118,8 +107,7 @@ Summary: The 7th Tresor compilation released in 1999. A gorgeous collection of s
 
 Attractive point: Covers a wide range of styles such as dub techno and ambient, and allows you to fully experience the essence of the Tresor label. Recommended for beginners.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
 3. Infiniti –Walking On Water
@@ -133,13 +121,11 @@ Attractive point: Covers a wide range of styles such as dub techno and ambient, 
 11. Daniel Bell –The Butterfly Effect
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -152,8 +138,7 @@ Summary: Tresor's early compilation work released in 1992. It is a condensed con
 
 Attractive point: As the title suggests, "Klang Der Familie" (Sounds of the Family), this is a historical masterpiece that gives a realistic feel to the formative period of Berlin's techno culture. Especially recommended for analog fans.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
 
@@ -166,13 +151,11 @@ C2. Microglobe – High On Hope (The Long Hot Summer Mix) (Mijk Van Dijk)
 D1. Maurizio – Ploy (Strategic Mix)
 D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -184,8 +167,7 @@ Summary: A full-length album released in 2001 by Japanese hard techno DJ/produce
 
 Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. EXP
 A2. Slip Inside You
 
@@ -198,13 +180,11 @@ C2. P…F.L.P.
 D1. Experience
 D2. Innervisions
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
 
@@ -216,8 +196,7 @@ Overview: One of the related artists that appears in the "Explore more like this
 
 Attractive point: This is a solo work by Chrislo Haas, known for his work as D.A.F. and Liaisons Dangereuses, and shows a strong connection to Berlin's experimental electronic music.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. La Chouette
 2. Hangars D'Orion
 3. Système Nerveux
@@ -228,13 +207,10 @@ Attractive point: This is a solo work by Chrislo Haas, known for his work as D.A
 8. Gromelo
 9. L'Eau
 ```
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Purchase on Mercari](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 <br>
-

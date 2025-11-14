@@ -12,12 +12,9 @@ tags:
 - 70s
 title: VA – Disco Sound Special Vol. 1
 ---
-
-
 VA – Disco Sound Special Vol. 1 - Disco Sound Special 2-disc record set
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Stevie Wonder – You Haven't Done Nothin
 A2. The Temptations – Shakey Ground
 A3. Commodores – Machine Gun
@@ -46,6 +43,4 @@ D4. Commodores – Superman
 D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
-

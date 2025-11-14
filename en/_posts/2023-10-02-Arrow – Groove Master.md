@@ -11,14 +11,11 @@ tags:
 - Latin
 title: Arrow – Groove Master
 ---
-
-
 Alphonsus Cassell, also known as Arrow, was a Montserratian calypso and soca musician and the first soca superstar from Montserrat. ""Hot Hot Hot'' in 1982 is famous as an international hit.
 
 Side A Groove Master (Acid Soca House Dub) is a popular song among house music and club music lovers.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Groove Master (Popstand Party Remix)
 
 A2  Groove Master (Acid Soca House Dub)
@@ -31,8 +28,6 @@ B2. Groove Master (LP Version)
 
 B3. Groove Master (Instrumental Remix)
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

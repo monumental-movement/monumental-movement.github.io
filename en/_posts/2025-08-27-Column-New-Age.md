@@ -10,8 +10,8 @@ tags:
 - Relaxation
 title: '[Column] New Age Music - The intersection of meditation and soundscape'
 ---
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## --Harmony with nature, self-reflection, and healing--
 
 
@@ -32,13 +32,11 @@ For this reason, it played a role as "healing music" and was associated with spi
 
 **1970s**: With the rise of interest in New Age thought and Eastern philosophy, it spread among people who wanted to meditate and return to nature. Krautrock ([Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh), etc.) and the ambient works of [Brian Eno](https://amzn.to/4ooImVa) became the soil.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **1980s**: Labels such as Windham Hill Records and Private Music were established, and artists such as [George Winston](https://amzn.to/3W7NEZl) and [Kitaro](https://amzn.to/42I1xBc) gained worldwide popularity. The term "New Age" becomes established as a category in the music market.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -52,7 +50,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual bac
 
 - **Brian Eno**: "Ambient 1: Music for Airports" - Connecting the origins of New Age and Ambient.
 
-- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road.''
+- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road''.
 
 - **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
 
@@ -92,7 +90,7 @@ Current new age music has moved away from being simply "healing music" and is be
 
 ### Embodying an "oasis of sound"
 
-New Age music was often described as ""background music", to put it bluntly. However, its meditative and non-aggressive sound has come to embody the ""sound oasis" sought by people as urbanization and information technology progress.
+New Age music was often described as ""background music'', to put it bluntly. However, its meditative and non-aggressive sound has come to embody the ""sound oasis'' sought by people as urbanization and information technology progress.
 In modern times, it has been reabsorbed into genres such as ambient and chillout, but its ideals - harmony with nature, introspection, and healing - have become even more urgent.
 
-New Age is not a passing fad of the past, but a music culture that continues to quietly but surely play a role in people's lives.
+New Age is not a passing fad of the past; it is a musical culture that continues to quietly but surely play a role in people's lives.

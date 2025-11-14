@@ -12,12 +12,9 @@ tags:
 - 00s
 title: Yoko Kanno feat. Maaya Sakamoto – 11pm music
 ---
-
-
 Mini soundtrack of the NHK drama series "Midnight is another face" starring Asaka Seto and Koji Yoshikawa, by Yoko Kanno feat. Maaya Sakamoto.
 
-#### Tracklist
-```md
+#### Tracklist```md
 1. Two Things
 2. Here
 3. ダニエル
@@ -33,8 +30,6 @@ Mini soundtrack of the NHK drama series "Midnight is another face" starring Asak
 13. 果実ナイフの死
 14. ノエルのピアノ
 ```
-
-[Purchase on Mercari](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>[Purchase on Mercari](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

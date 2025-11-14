@@ -10,12 +10,9 @@ tags:
 - Rare
 title: Various – Pride '99 Sampler
 ---
-
-
 "Various – Pride '99 Sampler" is a rare promo tape released by the US label Wherehouse Music in 1999.
 
-#### Tracklist
-```md
+#### Tracklist```md
 A1. Toni Basil–Mickey (Killa Klub Edit)
 
 A2. Beth Orton–Stolen Car
@@ -42,6 +39,4 @@ B6. Meg Hentges–This Kind Of Love
 
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
 ```
-
 [Purchase on Mercari](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
-
