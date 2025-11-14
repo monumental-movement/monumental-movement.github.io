@@ -24,7 +24,7 @@ jobs:
           pip install PyYAML
           pip show PyYAML
       
-      - name: Install dependencies
+      - name: Install dependencies (googletrans / pyyaml)
         run: |
           pip install pyyaml deep-translator googletrans==4.0.0-rc1
       - name: Run Spanish translation
