@@ -14,7 +14,9 @@ title: Manwoman – Manwoman
 
 
 This is the first single by Japanese hardcore/punk band Man Woman, released in 1995.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Blk(black)out
 
 
@@ -28,3 +30,4 @@ B2. Man And Woman
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+

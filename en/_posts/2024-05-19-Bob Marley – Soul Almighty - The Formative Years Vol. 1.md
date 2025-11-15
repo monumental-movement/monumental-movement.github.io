@@ -15,8 +15,11 @@ title: Bob Marley – Soul Almighty – The Formative Years Vol. 1
 
 
 A remastered work that mixes the original vocals recorded by Bob Marley and the Wailers in Jamaica between 1967 and 1968, with studio instrumental tracks and production from around 1995 and 1996.
+
 A cassette tape released in 1996 that includes unreleased songs.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Rock Steady
 A2. Splish For My Splash
 A3. Gonna Get You
@@ -37,4 +40,6 @@ B7. What Goes Around Comes Around
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

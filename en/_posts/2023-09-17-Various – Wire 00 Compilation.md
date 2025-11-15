@@ -13,8 +13,11 @@ title: Various – Wire 00 Compilation
 
 
 This is a compilation album by the performers of "WIRE 00", the largest indoor rave in history held in 2000.
+
 The 2-LP set also includes tracks from Sven Väth, DJ Hell and WestBam.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1  Denki Groove–Wire, Wireless (Arena)
 
 
@@ -46,4 +49,6 @@ D3  Beroshima–WWW. (Robot Mix)
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

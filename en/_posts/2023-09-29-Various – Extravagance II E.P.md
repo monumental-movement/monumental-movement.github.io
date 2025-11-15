@@ -13,8 +13,11 @@ title: Various – Extravagance II E.P
 
 
 "Adrenalin" and "I Think I Want Some More" are songs from 1992 and are timeless tracks.
+
 Tracks from this EP were also featured on Basement Phil's History of Rave show.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Jargon–Adrenalin
 
 A2. Auto-Logic–I Think I Want Some More
@@ -25,4 +28,6 @@ B2. Ray Vee–R.V. Theme
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m30325030920?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/rKr7m4PPcRw?si=XORIla2XgPodMSOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rKr7m4PPcRw?si=XORIla2XgPodMSOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

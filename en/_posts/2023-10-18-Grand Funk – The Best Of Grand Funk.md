@@ -13,7 +13,9 @@ title: Grand Funk – The Best Of Grand Funk
 
 
 Grand Funk Railroad (GFR) is an American hard rock band. The core members are Mark Furner, Mel Thatcher, and Don Brewer.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Sin's A Goodman's Brother
 
 A2. Heartbreaker
@@ -36,3 +38,4 @@ B6. Inside Lookin' Out
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
+

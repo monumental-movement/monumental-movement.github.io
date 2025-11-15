@@ -14,7 +14,9 @@ title: Public Enemy – Fear Of A Black Planet
 
 Public Enemy's "Fear of a Black Planet" has been highly acclaimed as a musically and conceptually excellent album.
 
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Contract On The World Love Jam (Instrumental)
 
 A2. Brothers Gonna Work It Out
@@ -57,4 +59,6 @@ B10. Fight The Power
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

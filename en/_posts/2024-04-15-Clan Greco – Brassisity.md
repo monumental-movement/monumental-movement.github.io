@@ -14,16 +14,27 @@ title: Clan Greco – Brassisity
 
 
 Clan Greco is a unit formed by Ricky Rinaldi, producer and co-producer of Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara, etc., and Italian trumpet player Massimo Greco.
+
 ≡ Participating artists
+
 Bass: Christian Lisi
+
 Drums: Roberto Ponzio, Roberto Rossi
+
 Keyboard: Maestro Garofalo, Michele Trombetti
+
 Saxophone: Chicco Montefiori
+
 Trumpet: Massimo Greco
+
 Vocal: Silvia Donati
+
 Producer Massimo Greco, Ohm Guru
+
 Co-producer: Brass Avengers
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Fast Salsa
 
 A2. Broken
@@ -50,4 +61,6 @@ D3. Full Funk
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

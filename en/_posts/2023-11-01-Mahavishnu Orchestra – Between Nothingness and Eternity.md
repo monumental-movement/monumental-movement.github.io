@@ -14,9 +14,13 @@ title: Mahavishnu Orchestra – Between Nothingness & Eternity
 
 
 Between Nothingness & Eternity, released in 1973, was the Mahavishnu Orchestra's first live album.
+
 This album was the last with original members, as the band disbanded in December 1973.
+
 Participating members at this time were John McLaughlin (guitar), Jerry Goodman (violin), Jan Hammer (keyboards), Rick Laird (bass), and Billy Cobham (drums).
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Trilogy 悲の3部曲
 
 ・The Sunlit Path 輝ける径
@@ -29,4 +33,6 @@ B. Dream ドリーム
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

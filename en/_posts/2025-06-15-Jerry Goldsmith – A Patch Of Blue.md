@@ -14,9 +14,12 @@ title: Jerry Goldsmith – A Patch Of Blue
 
 
 Soundtrack of the 1965 American film ""A Patch of Blue.'' Reissue released in 1978.
-Jerry Goldsmith has composed scores for over 170 films, including ""Planet of the Apes,'' ""Papillon,'' ""The Omen,'' ""Alien,'' ""Poltergeist,'' ""Rambo,'' and ""Star Trek.''
 
-#### Tracklist```md
+Jerry Goldsmith has composed scores for over 170 films, including ""Planet of the Apes," ""Papillon," ""The Omen," ""Alien," ""Poltergeist," ""Rambo," and ""Star Trek.''
+
+
+#### Tracklist
+```md
 A1. Main Title
 A2. A Favour For Selina
 A3. Alone In The Park
@@ -40,4 +43,6 @@ B9. Goodbye Selina
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

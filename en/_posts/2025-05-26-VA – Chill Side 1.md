@@ -13,8 +13,11 @@ title: VA – Chill Side 1
 
 
 DJ Taiji, Hard Rock Firm, Madara, Yakomushi, Word Swingaz, 802 Flava, DJ Flesh & Kohei Japan
+
 2-disc LP reissue
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. DJ Taiji - Intro
 A2. Hard Rock Firm - Hot Shot
 A3. Madara - 2 Brain
@@ -32,4 +35,6 @@ D3. DJ Flesh & Kohei Japan - Funky Flow - Instrumental
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

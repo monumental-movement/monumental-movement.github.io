@@ -15,7 +15,9 @@ title: David Bowie – 1. Outside
 
 
 David Bowie's 18th album was released in 1995 with producer Brian Eno. The 20th song is a bonus track exclusive to the first edition + Japan edition.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Leon Takes Us Outside
 2. Outside
 3. The Hearts Filthy Lesson
@@ -39,4 +41,6 @@ David Bowie's 18th album was released in 1995 with producer Brian Eno. The 20th 
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

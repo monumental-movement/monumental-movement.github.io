@@ -17,7 +17,9 @@ title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This
 
 
 Pop Will Eat Itself is a British alternative rock band formed in 1986.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1-1. PWEI Is A Four Letter Word
 1-2. Preaching To The Perverted
 1-3. Wise Up! Sucker
@@ -49,4 +51,6 @@ Pop Will Eat Itself is a British alternative rock band formed in 1986.
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

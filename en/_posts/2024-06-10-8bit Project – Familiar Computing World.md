@@ -16,8 +16,11 @@ title: 8bit Project – Familiar Computing World
 
 
 8bit Project is a Japanese techno-pop chiptune unit that made its CD debut in 2006. The members are Shunji Ito, Hisashi Saito, Hironori Tokaibayashi, and Yosuke Kinoshita. He has Hideki Matsutake, chairman of the Japan Synthesizer Programmers Association (JSPA), as his ""guardian.''
+
 The jacket is a parody of Kraftwerk's ""Computer World'' released in 1981.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. 恋のマイアヒ
 2. キューティーハニー
 3. さくらんぼ～Happy Days～SMILY～プラネタリウム

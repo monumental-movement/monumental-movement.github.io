@@ -14,8 +14,12 @@ title: Space Cowboy - Space Cowboy
 
 A House track released by UK DJ/producer Space Cowboy (Nicolas Jean-Pierre Dresti), best known for his collaboration with Lady Gaga, on the Tiger Trax label in 2005.
 
-B1 is a remix by American producer/remixer Jason Nevins.B2hq, a remix by Miss Frenchie, a French DJ based in London.
-#### Tracklist```md
+
+B1 is a remix by American producer/remixer Jason Nevins.
+B2hq, a remix by Miss Frenchie, a French DJ based in London.
+
+#### Tracklist
+```md
 A1. Space Cowboy (Space Cowboy Extended Club Mix)
 A2. Uno Dos Tres
 

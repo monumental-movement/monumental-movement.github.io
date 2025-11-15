@@ -13,8 +13,11 @@ title: A Flock Of Seagulls – Listen
 
 
 A Flock Of Seagulls is a new wave, synthpop, new romantic band founded in Liverpool, England by Mike Score and his brother Ali.
+
 "Listen", released in 1983, is A Flock Of Seagulls' second studio album.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Wishing (If I Had A Photograph Of You)
 
 A2. Nightmares
@@ -37,4 +40,6 @@ B6. (It's Not Me) Talking
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

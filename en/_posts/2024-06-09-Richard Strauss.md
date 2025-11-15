@@ -13,8 +13,13 @@ title: Richard Strauss
 ---
 
 
-・Conductor: Otto Ackermann・Horn [solo]: Dennis Brain Dennis Brain・Orchestra: Philharmonia Orchestra・Soprano vocal: Elisabeth Schwarzkopf
-#### Tracklist```md
+・Conductor: Otto Ackermann
+・Horn [solo]: Dennis Brain Dennis Brain
+・Orchestra: Philharmonia Orchestra
+・Soprano vocal: Elisabeth Schwarzkopf
+
+#### Tracklist
+```md
 Four Last Songs
 「4つの最後の歌」
 A1. Frühling

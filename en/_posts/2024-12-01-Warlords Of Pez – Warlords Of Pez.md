@@ -13,9 +13,12 @@ title: Warlords Of Pez – Warlords Of Pez
 
 
 Warlords Of Pez is an Irish rock band that seems to have come from a galaxy far, far away. Members include Chris Judge, a former member of the Irish indie pop band The Chalets.
+
 A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A Thief.
 
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Warlords Are Shit
 2. Fat Muthafucka From Hell
 3. Monster Voice
@@ -38,4 +41,6 @@ A concept album released in 2006 by Irish rock/electronica label Trust Me I'm A 
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

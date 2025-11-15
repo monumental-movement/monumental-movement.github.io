@@ -12,9 +12,11 @@ title: Blue Beat – Liquid Audio
 ---
 
 
-This is a two-song EP from the project ""Blue Beat'' by Boris Blenn, released in 2001 by the German label ""Plusquam Records.''
+This is a two-song EP from the project ""Blue Beat" by Boris Blenn, released in 2001 by the German label ""Plusquam Records."
 
-#### Tracklist```md
+
+#### Tracklist
+```md
 A  Liquid Audio
 
 B  Swift
@@ -22,3 +24,4 @@ B  Swift
 
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64369764835?afid=6142608987){: .button1}
+

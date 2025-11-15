@@ -14,8 +14,11 @@ title: Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker
 
 
 Rudolf Rocker is a UK situationist chamber pop ensemble band formed by Jeremy Dyson, Mark Goodall, and Steven Goodall. Jeremy Dyson, the keyboard player, is also a production member of the BBC sitcom ""The League of Gentlemen'' and is active as a screenwriter and comedian.
+
 "The Exotic Sounds Of Rudolf Rocker" is an indie rock album released by the label Mook Records in 1998.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Girum
 2. Guy Debord
 3. Samba Suit
