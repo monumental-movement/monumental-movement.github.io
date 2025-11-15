@@ -76,7 +76,7 @@ for filename in os.listdir(SRC_DIR):
     fm, body = split_front_matter(src_content)
     front_matter = load_yaml_safe(fm)
 
-    # 既存英語ファイルがある場合、差分を確認
+    # 既存スペイン語ファイルがある場合、差分を確認
     old_body = ""
     if os.path.exists(dest_path):
         with open(dest_path, "r", encoding="utf-8") as f:
@@ -96,7 +96,7 @@ for filename in os.listdir(SRC_DIR):
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
 
-    front_matter["lang"] = "en"
+    front_matter["lang"] = "es"
 
     # 本文翻訳（コードブロックはスキップ）
     translated_body = ""
