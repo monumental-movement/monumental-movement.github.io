@@ -1,0 +1,29 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Underworld – Cowgirl Rez.webp
+lang: es
+layout: post
+tags:
+- Techno
+- Progressive
+title: Inframundo - Vaquera Rez
+---
+
+
+"Cowgirl" lanzada en 1994 y "Rez" lanzada en 1993 son las canciones emblemáticas de Underworld de los años 90.
+
+"Cowgirl" es un tema distintivo que combina una melodía emocional con sonidos electrónicos. "Rez" es una fusión de ritmos techno de alta energía y música house, ambos considerados clásicos de la época.
+
+#### Lista de canciones
+```md
+A. Cowgirl
+
+B. Rez
+```
+
+[Comprar en Mercari](https://jp.mercari.com/item/m12368134512?afid=6142608987){: .button1}
+
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/feWNvGpWHLM?si=F4qXcSX8HtWErjar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,39 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Rednex – Cotton Eye Joe.webp
+lang: es
+layout: post
+tags:
+- Euro House
+- Synth-Pop
+title: Rednex – Algodón Ojo Joe
+---
+
+
+Rednex es un grupo sueco de Eurodance cuyo estilo musical es una combinación de música country estadounidense y Eurodance.
+
+"Cotton Eye Joe" es una canción house europea basada en la canción popular estadounidense "Cotton Eyed Joe" que incorpora banjo y violín y se convirtió en un éxito mundial.
+
+Armand Van Helden y Jeremy Healy participarán en el remix.
+
+#### Lista de canciones
+```md
+A1. Cotton Eye Joe (Madcow Mix)
+
+A2. Cotton Eye Joe (Radio Version)
+
+A3. Cotton Eye Joe (Armand's Dosey-Doe Mix)
+
+A4. Cotton Eye Joe (Armand's Instrumental)
+
+B1. Cotton Eye Joe (Armand's Funky Trance Mix)
+
+B2. Cotton Eye Joe (Overworked Mix)
+```
+
+[Comprar en Mercari](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
+
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mOYZaiDZ7BM?si=HPLMf_KSsF_nLXF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
