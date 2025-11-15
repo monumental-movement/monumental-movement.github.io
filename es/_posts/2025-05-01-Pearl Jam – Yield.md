@@ -10,16 +10,16 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: Mermelada de perlas – Rendimiento
+title: Pearl Jam – Yield
 ---
 
 
-Pearl Jam es una banda de rock estadounidense formada en Seattle en 1990. Son conocidos como una banda importante del movimiento grunge a principios de los 90, junto con Soundgarden y Nirvana, y se dice que son "la banda de rock and roll estadounidense más popular de los 90".
+Pearl Jam(パール・ジャム)は、1990年にシアトルで結成されたアメリカのロックバンド。サウンドガーデンやニルヴァーナ等と共に90年代初頭のグランジ運動の主要なバンドとして知られており、「90年代で最も人気のあるアメリカのロックンロールバンド」と言われている。
 
-El quinto álbum de estudio de Pearl Jam, "Yield", lanzado en 1998, se siente como un regreso al sonido rock directo de los primeros días de la banda. Brendan O'Brien participa como productor.
+1998年にリリースしたPearl Jam 5枚目のスタジオアルバム「Yield(イールド)」は、バンド初期の率直なロックサウンドへの回帰を感じる仕上がりになっている。プロデューサーとしてBrendan O'Brien(ブレンダン・オブライエン)が参加している。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Brain Of J
 2. Faithful
@@ -36,7 +36,7 @@ El quinto álbum de estudio de Pearl Jam, "Yield", lanzado en 1998, se siente co
 13. All Those Yesterdays
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

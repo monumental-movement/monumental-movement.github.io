@@ -9,22 +9,22 @@ tags:
 - Nostalgic
 - 7inch
 - Rock
-title: Pat McGlynn – Ella preferiría estar conmigo
+title: Pat McGlynn – She'd Rather Be With Me
 ---
 
 
-Originario de Escocia, Pat McGlynn trabajó como guitarrista para los Bay City Rollers a finales de 1976 antes de formar su propia banda, Pat McGlynn's Scotties.
+スコットランド出身のパット・マッグリンは、1976年後半にBay City Rollers（ベイ シティ ローラーズ）のギタリストとして活動したのち、自身のバンドPat McGlynn's Scotties（パット・マクグリンズ・スコッティズ）を結成。
 
-"She'd Rather Be With Me" fue lanzado por London Records en 1977. El productor es Nick Raymonde.
+「She'd Rather Be With Me（あの娘はアイドル）」は、1977年にLondon Recordsよりリリースされた。プロデューサーはNick Raymonde。 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. She'd Rather Be With Me (あの娘はアイドル)
 
 B. Street Walkin' Girl (テクニカラーの女の子)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1eEvI-Y6p0?si=t7IUWVojD9-kb25Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

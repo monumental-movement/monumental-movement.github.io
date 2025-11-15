@@ -9,15 +9,15 @@ tags:
 - Downtempo
 - Garage House
 - 90s
-title: Eve Gallagher - El amor es un maestro del disfraz
+title: Eve Gallagher – Love Is A Master Of Disguise
 ---
 
 
-Eve Gallagher es una cantante de música house del Reino Unido.
+Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。
 
-"Love Is A Master Of Disguise" es el segundo sencillo, producido por Mark Brydon. Frankie Knuckles participó como productor de la primera pista de las caras A y B, y la tercera pista de la cara B fue remezclada por Steve Anderson del grupo de producción Brothers In Rhythm.
+「Love Is A Master Of Disguise」は2枚目のシングルで、プロデューサーはMark Brydon。A面とB面１曲目はFrankie Knuckles（フランキー ナックルズ）がプロデューサーとして参加し、B面３曲目はプロデュースグループBrothers In RhythmのSteve Anderson（スティーブ アンダーソン）がremixしている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Love Is A Master Of Disguise (Classic Club Mix)
 A2. Love Is A Master Of Disguise (Master Suite Mix)
@@ -28,7 +28,7 @@ B2. Love Is A Master Of Disguise (The Cause & Effect Mix)
 B3. Love Is A Master Of Disguise (The Project Ozma Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

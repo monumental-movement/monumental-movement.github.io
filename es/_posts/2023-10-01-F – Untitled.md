@@ -8,23 +8,23 @@ layout: post
 tags:
 - House
 - Rare
-title: F – Sin título
+title: F – Untitled
 ---
 
 
-"F – Untitled" fue lanzado en 1998 en el sello alemán Sense Music.
+「F – Untitled」は、1998年にドイツのレーベルSense Musicからリリースされました。
 
-F es un proyecto del DJ y productor alemán Frank Lotz.
+Fは、ドイツのDJ・プロデューサーFrank Lotz（フランク・ロッツ）のプロジェクトです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Untitled
 
 B. Untitled
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47102531028?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47102531028?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dHu72cW5lpA?si=rkNzxHUOmlNvIHdn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

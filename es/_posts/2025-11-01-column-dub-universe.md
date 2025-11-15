@@ -11,207 +11,206 @@ tags:
 - Ambient
 - Techno
 - Dub
-title: '[Columna] El nacimiento de la música DUB y el universo expandido: una revolución
-  que comenzó con la reconstrucción de la acústica'
+title: 【コラム】 ダブ（DUB）音楽の誕生と拡張宇宙 ― 音響の再構築から始まった革命
 ---
 
 
-## Prólogo: Una revolución que nace de la "reverberación" del sonido
+## 序章：音の「残響」から生まれた革命
 
 
-Texto: mmr｜Tema: De la cultura sound system jamaicana a Lee "Scratch" Perry, King Tubby y su herencia en el dub británico y la música electrónica contemporánea
+文：mmr｜テーマ：ジャマイカのサウンドシステム文化から、Lee "Scratch" Perry、King Tubby、さらにUKダブや現代電子音楽への継承まで
 
 
 
-A principios de la década de 1970, en medio de la cultura del sound system de Kingston, Jamaica,
-Nació un método sin precedentes para **reconstruir** canciones pregrabadas.
-Su nombre es --**DUB**.
+1970年代初頭、ジャマイカ・キングストンのサウンドシステム文化の只中で、  
+録音済みの楽曲を**再構築**するという前代未聞の手法が生まれた。  
+その名は――**ダブ（DUB）**。
 
-Elimina las voces de una canción existente, dejando solo el ritmo y el bajo.
-Toca el espacio mismo aprovechando al máximo el eco y la reverberación.
-Esta innovación no fue sólo un "remix" sino una redefinición de la música.
+既存の曲からヴォーカルを抜き、リズムとベースだけを残し、  
+エコーやリバーブを駆使して空間そのものを演奏する。  
+その革新は、単なる「リミックス」ではなく、音楽の再定義だった。
 
-Esta idea de doblaje luego se convirtió en **hip-hop, techno, ambient, noise**,
-Incluso tendría un impacto en la **cultura moderna del remix**.
-En este artículo rastrearemos su origen desde sus orígenes hasta nuestros días.
-Interpretar el doblaje como un "pensamiento para reconstruir la acústica".
+このダブ的発想は、のちに**ヒップホップ、テクノ、アンビエント、ノイズ**、  
+さらには**現代のリミックス文化**にまで影響を及ぼすことになる。  
+本稿では、その発生源から今日までをたどりながら、  
+「音響を再構築する思想」としてのダブを読み解く。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Capítulo 1: Noches en Kingston - El nacimiento de la cultura del sistema de sonido
+## 第1章：キングストンの夜 ― サウンドシステム文化の胎動
 
-A finales de la década de 1950 y principios de la de 1960, los sistemas de sonido (equipos de DJ móviles) en las esquinas eran populares en Jamaica.
-Era un centro de entretenimiento para la gente. Ska, rocksteady y reggae se escuchaban en parlantes gigantes.
-Compitiendo por esto está un grupo de DJ llamado **Sound Crew**.
+1950年代後半から60年代初頭、ジャマイカでは街角の**サウンドシステム（移動式DJ装置）**が  
+人々の娯楽の中心となっていた。巨大なスピーカーから流れるスカ、ロックステディ、レゲエ。  
+それを競い合うのが、**サウンドクルー**と呼ばれるDJ集団である。
 
-En el estudio de grabación, se graba una pista instrumental como **cara B (versión)** de una canción popular.
-El DJ emocionó al público cantando brindis (narrado por el MC) en el micrófono.
-Este es también el prototipo de la posterior cultura del rap/hip-hop.
+録音スタジオでは、人気曲の**B面（Version）**としてインストゥルメンタル・トラックを収録し、  
+DJがマイクでトースティング（MCの語り）を乗せて観客を煽った。  
+これこそが後の**ラップ／ヒップホップ文化の原型**でもある。
 
-Los ingenieros de grabación de la época pensaron que esta versión no era sólo un subproducto;
-Comenzó a utilizarse como **campo de pruebas acústicas**.
-El más radical de ellos fue **King Tubby**.
-
----
-
-## Capítulo 2: Rey Tubby - Alquimista de la mesa mezcladora
-
-King Tubby (nombre real: Osbourne Ruddock) es ingeniero eléctrico.
-En sus manos, la mesa mezcladora sonaba como un instrumento musical.
-Improvisó los faders,
-Disposición espacial de reverberación y retardo,
-Creé una mezcla de doblaje en vivo que reconstruye canciones en tiempo real.
-
-> "Creo un espacio dentro de mis canciones. Ahí es donde resuena mi alma".
-> ― Rey Rechoncho
-
-Sus obras te hacen sentir la expansión y contracción del tiempo en la repetición del ritmo.
-El "silencio" que se escucha entre reverberaciones fue el núcleo de su música.
-
-Del estudio de Tubby, más tarde **Prince Jammy (más tarde King Jammy)**,
-Producido por **Científico**, **Errol Thompson**, etc.
-Estuvieron detrás de escena de la música jamaicana en los años 1970.
+当時の録音技師たちは、このVersionを単なる副産物ではなく、  
+**音響的な実験場**として活用しはじめた。  
+その中でも最もラディカルだったのが、**King Tubby（キング・タビー）**である。
 
 ---
 
-## Capítulo 3: Lee "Scratch" Perry – El Arca Negra del Caos y la Creación
+## 第2章：King Tubby ― ミキサー卓の錬金術師
 
-Si Tubby es un "laboratorio de precisión",
-El **Black Ark Studio** de **Lee "Scratch" Perry** era un "laboratorio mágico".
-Ecos de cintas, cubos de agua, humo y gritos improvisados.
-Perry sitúa el sonido entre lo natural y lo sobrenatural.
-Le dio al reggae una dimensión mítica y cósmica.
+King Tubby（本名：Osbourne Ruddock）は電気技師出身。  
+彼の手にかかると、ミキサー卓はまるで楽器のように奏でられた。  
+彼はフェーダーを即興的に操り、  
+リバーブとディレイを空間的に配置し、  
+曲を**リアルタイムで再構築するライブ・ダブ・ミックス**を創出した。
 
-> "Hay un espíritu viviendo dentro de la máquina.
-> Solo escucho la voz y la mezclo. "
-> ―Lee "Scratch" Perry
+> 「私は曲の中に“空間”を作る。そこに魂が響くのさ。」  
+> ― King Tubby
 
-Su obra maestra, **The Upsetters ""Super Ape'' (1976)**, es
-Es una "jungla sonora" donde se entrelazan la gravedad de los graves y la niebla de la reverberación.
-El Arca Negra fue destruida en un incendio en 1979.
-La leyenda se extendió por todas partes del mundo, incluido el Reino Unido.
+彼の作品は、リズムの反復の中に**時間の伸縮**を感じさせる。  
+残響と残響のあいだに聴こえる“無音”こそが、彼の音楽の核心だった。
 
----
-
-## Capítulo 4: Doblaje en el Reino Unido: diáspora y reconstrucción sónica
-
-A finales de los años 1970, por personas que inmigraron de Jamaica,
-Las ideas de Dove se extendieron a Londres, Bristol y Birmingham.
-En esta línea apareció **On-U Sound** liderado por **Adrian Sherwood**.
-Combina el caos de Perry con la sofisticación de Tubby,
-Crearon un "doblaje británico" más industrial y abstracto.
-
-Obras como **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
-Será un lugar donde se cruzarán las raíces espirituales jamaicanas y el espíritu post-punk europeo.
-
-Casi al mismo tiempo, el **Ariwa Studio** de **Mad Professor** también abrió sus puertas en el sur de Londres.
-Su serie Dub Me Crazy fue una aventura sonora entre tecnología y fantasía.
+Tubbyのスタジオからは、後に**Prince Jammy（後のKing Jammy）**、  
+**Scientist**、**Errol Thompson**などが輩出し、  
+彼らが70年代のジャマイカ音楽の裏方を支える。
 
 ---
 
-## Capítulo 5: Techno, Ambient y "Pensamiento DUB" moderno
+## 第3章：Lee “Scratch” Perry ― カオスと創造のブラック・アーク
 
-Desde la década de 1990, las influencias del dub han sido el **techno, ambient, drum and bass**,
-Además, también ha permeado la **cultura del remix de hip-hop**.
+Tubbyが「精密な実験室」なら、  
+**Lee “Scratch” Perry**の**Black Ark Studio**は「魔法の実験場」だった。  
+テープ・エコー、バケツの水、煙、そして即興の叫び。  
+Perryは音を**自然と超自然の間**に置き、  
+レゲエに神話的・宇宙的な次元を与えた。
 
-En Berlín aparece **Basic Channel (Moritz von Oswald & Mark Ernestus)**.
-Procesaron espacialmente partículas rítmicas y establecieron el **dub techno**.
-Sus sucesores incluyen **Deepchord**, **Rhythm & Sound** y **Echospace**.
+> 「機械の中に精霊が住んでいるんだ。  
+>  俺はその声を聴いてミックスするだけさ。」  
+>  ― Lee “Scratch” Perry
 
-En el campo ambiental, **The Orb**, **Bill Laswell**, **Kode9**, **Burial** y otros
-Continuó explorando el espacio del doblaje.
-"Falso" del entierro (2007)
-Realmente se le puede llamar un **doblaje solitario de la era posdigital**.
-
----
-
-## Capítulo 6: Filosofía Dub - "Carencia" y "Regeneración"
-
-La esencia del doblaje no es simplemente aplicar efectos.
-La idea es crear un nuevo espacio reduciendo el sonido.
-Es la estética de la carencia y la idea de reproducción.
-
-- Dar sentido a los "márgenes" del sonido.
-- Utilizar la tecnología como "expresión improvisada".
-- Redefinir lo "original" en el proceso de reproducción.
-
-Este tipo de pensamiento similar al dub también es común en la **generación musical de IA** y la **cultura del remix** modernas.
-El acto de "editar" y "recomponer" el sonido en sí es
-Es la base de los actos creativos del siglo XXI.
+彼の代表作、**The Upsetters『Super Ape』（1976）**は、  
+低音の重力とリバーブの霧が交錯する“サウンドのジャングル”である。  
+Black Arkは1979年に火災で消失するが、  
+その伝説はUKをはじめとする世界各地に波及していった。
 
 ---
 
-## Cronología: Trayectoria de la evolución del doblaje
+## 第4章：UKダブ ― ディアスポラと音響の再構築
 
-<div class="sirena">
+1970年代後半、ジャマイカから移住した人々によって、  
+ダブの思想はロンドン、ブリストル、バーミンガムへと伝播する。  
+その流れの中で、**Adrian Sherwood**率いる**On-U Sound**が登場。  
+彼はPerryの混沌とTubbyの精緻さを融合させ、  
+より産業的でアブストラクトな「UKダブ」を築き上げた。
 
-línea de tiempo
-título Historia de la evolución de la música dub
-1968: King Tubby, comienza la mezcla de la versión inicial.
-1973: Lee Perry funda Black Ark Studio
-1976: Lanzamiento de "Super Ape", la cúspide del doblaje artístico
-1979: El científico discípulo rechoncho asciende
-1981: Se funda On-U Sound en el Reino Unido, fusionado con el post-punk.
-1985: Comienza la serie "Dub Me Crazy" de Mad Professor
-1993: Canal Básico, establecimiento del dub techno
-Década de 2000: transformación hacia el dub digital y el dubstep
-Década de 2010: Burial, Kode9 y otros exploran el espacio post-doblaje
-Década de 2020: reconstrucción del doblaje utilizando IA, entrando en la era del sonido generativo
+**African Head Charge**, **Dub Syndicate**, **New Age Steppers**などの作品は、  
+ジャマイカのスピリチュアルなルーツと、ヨーロッパのポストパンク精神が交錯する場となる。
+
+同時期、**Mad Professor**の**Ariwa Studio**もロンドン南部に誕生。  
+彼の『Dub Me Crazy』シリーズは、テクノロジーとファンタジーを往来する音響冒険であった。
+
+---
+
+## 第5章：テクノ、アンビエント、そして現代の“DUB的思考”
+
+1990年代以降、ダブの影響は**テクノ、アンビエント、ドラムンベース**、  
+さらには**ヒップホップのリミックス文化**にも浸透する。
+
+ベルリンでは**Basic Channel（Moritz von Oswald & Mark Ernestus）**が登場。  
+彼らはリズムの粒子を空間処理し、**ダブ・テクノ**を確立。  
+その後継として**Deepchord**, **Rhythm & Sound**, **Echospace**などが続く。
+
+アンビエント分野でも**The Orb**, **Bill Laswell**, **Kode9**, **Burial**らが  
+ダブ的空間を探求し続けた。  
+Burialの『Untrue』（2007）は、  
+まさに**ポスト・デジタル時代の孤独なダブ**と言える。
+
+---
+
+## 第6章：ダブの哲学 ― 「欠落」と「再生成」
+
+ダブの本質は、単にエフェクトをかけることではない。  
+**音を削ることによって、新しい空間を生む**ことにある。  
+それは、欠落の美学であり、再生産の思想だ。
+
+- 音の“余白”に意味を与える。  
+- 技術を“即興的表現”として用いる。  
+- 再生産の過程で“オリジナル”を再定義する。  
+
+こうしたダブ的思考は、現代の**AI音楽生成**や**リミックス文化**にも通底する。  
+音を「編集」し「再構成」することそのものが、  
+21世紀の創造行為の根幹となっている。
+
+---
+
+## 年表：ダブ進化の軌跡
+
+<div class="mermaid">
+
+timeline
+  title ダブ音楽の進化史
+  1968 : King Tubby、初期Versionミックス開始
+  1973 : Lee Perry、Black Ark Studio設立
+  1976 : 『Super Ape』発表、アート的ダブの頂点
+  1979 : Tubby弟子Scientistが台頭
+  1981 : UKでOn-U Sound設立、ポストパンクと融合
+  1985 : Mad Professor『Dub Me Crazy』シリーズ開始
+  1993 : Basic Channel、ダブ・テクノの確立
+  2000s : Digital Dub、Dubstepへの変容
+  2010s : Burial、Kode9らがポスト・ダブ空間を探求
+  2020s : AIによるダブ再構築、生成音響時代へ
 
 </div>
 
 ---
 
-## Diagrama: estructura del pensamiento tipo Dub
+## 図解：ダブ的思考の構造
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico TD
-A[Canciones pregrabadas] -->|Desmontaje| B[Ritmo y bajo]
-B -->|Reubicación| C[Procesamiento de eco/reverberación]
-C -->|Operación de improvisación| D[Mezcla en vivo]
-D -->|Regeneración| E[Nuevo espacio sonoro]
-E -->|Influencia ideológica| F[Techno/Hip-hop/Ambiente]
+graph TD
+  A[録音済み楽曲] -->|分解| B[リズムとベース]
+  B -->|再配置| C[エコー／リバーブ処理]
+  C -->|即興操作| D[ライブ・ミックス]
+  D -->|再生成| E[新しい音空間]
+  E -->|思想的影響| F[テクノ／ヒップホップ／アンビエント]
 
 </div>
 
 ---
 
-## Conclusión: todos los sonidos se mezclan nuevamente
+## 結語：すべての音は再び混ざり合う
 
-El dub es una metodología, no un género musical.
-Es un dispositivo para reconstruir el tiempo y el espacio.
-La revolución comenzó en las calles de Jamaica.
-Continúa hoy en clubes, laboratorios y en tus auriculares de todo el mundo.
+ダブは、音楽のジャンルではなく**方法論**であり、
+時間と空間の再構築装置である。
+ジャマイカの路上から始まったその革命は、
+いまも世界中のクラブ、ラボ、そしてあなたのイヤホンの中で続いている。
 
-> "Todos los sonidos regresan a alguna parte".
-> - Espíritu de Dub
+> 「すべての音は、どこかへ帰っていく。」
+> ― ダブの精神
 
 ---
 
-### Discografía de referencia
+### 参考ディスコグラフィー
 
-| Artista | Obras representativas | Año | Enlaces |
-| :---------------------------- | :--------------------- | :--: | :----------------: |
-| Rey Tubby | *Doblaje de las raíces* | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
-| Lee "Scratch" Perry | *Súper Simio* | 1976 | [Amazon](https://amzn.to/4oFE24a) |
-| Científico | *Científico libera al mundo de la maldición de los vampiros* | 1981 | [Amazon](https://amzn.to/43775p1) |
-| Canal Básico | *BCD* | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
-| Entierro | *Falso* | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
+| アーティスト                       | 代表作                |   年  |  リンク               |
+| :--------------------------- | :--------------------- | :--: | :----------------: |
+| King Tubby                   | *Dub from the Roots*     | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
+| Lee "Scratch" Perry          | *Super Ape*              | 1976 | [Amazon](https://amzn.to/4oFE24a) |
+| Scientist                    | *Scientist Rids the World of the Evil Curse of the Vampires* | 1981 | [Amazon](https://amzn.to/43775p1) |
+| Basic Channel                | *BCD*                                                        | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
+| Burial                       | *Untrue*                                                     | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
 
 
 

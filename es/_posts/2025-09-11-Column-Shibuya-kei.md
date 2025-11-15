@@ -9,197 +9,196 @@ tags:
 - Shibuya-kei
 - 90s
 - 00s
-title: '[Columna] El sonido Shibuya-kei desde sus orígenes hasta el presente: 10 obras
-  maestras, equipos y recomendaciones'
+title: 【コラム】 渋谷系サウンドの発祥から現在まで — 名盤・機材・おすすめ10選
 ---
 
 
 
-## Desde los orígenes del sonido Shibuya-kei hasta la actualidad
+## 渋谷系サウンドの発祥から現在まで 
 
 
-Texto: mmr｜Tema: Antecedentes históricos del sonido Shibuya-kei, discos famosos y cambios en el equipo.
+文：mmr｜テーマ：渋谷系サウンドの時代背景・名盤・機材の変遷
 
 
-El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las tiendas de discos y clubes de Shibuya, Tokio, a principios de los años 1990. Se caracteriza por una musicalidad híbrida que reinterpreta las sensibilidades musicales occidentales al estilo japonés e incorpora diversos elementos como pop, jazz, bossa nova, soul, pop francés y electrónica.
+渋谷系サウンドは、1990年代初頭に東京・渋谷のレコードショップやクラブを中心に広がった日本発の音楽ムーブメントです。洋楽的センスを日本流に再解釈し、ポップス、ジャズ、ボサノヴァ、ソウル、フレンチポップ、エレクトロニカなど多彩な要素を取り入れたハイブリッドな音楽性を特徴としています。
 
 ---
 
-## Década de 1980: Eva (germinación al estilo Shibuya)
-### Antecedentes históricos
-- En la década de 1980, el pop urbano y la nueva ola japoneses comenzaron a recibir elogios tanto a nivel nacional como internacional.
-- Las tiendas de discos importadas como ""CISCO" y ""HMV Shibuya" reunieron los últimos sonidos de Europa y Estados Unidos y cultivaron las habilidades musicales de los jóvenes.
+## 1980s — 前夜（渋谷系の萌芽）
+### 時代背景
+- 1980年代、日本のシティポップやニューウェーブが国内外で評価され始める。  
+- 輸入レコード店「CISCO」「HMV渋谷」などで欧米の最新サウンドが集まり、若者の音楽的素養を養った。  
 
-### Obra maestra representativa
-- [Eiichi Otaki — *UNAS LARGAS VACACIONES* (1981)](https://amzn.to/4nLyN2p)
-- [Tatsuro Yamashita — *PARA TI* (1982)](https://amzn.to/4neQyHk)
-- [Pizzicato Cinco primeras obras (período independiente, finales de los 80)](https://amzn.to/3W6W1UE)
+### 代表的な名盤
+- [大滝詠一 — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)  
+- [山下達郎 — *FOR YOU* (1982)](https://amzn.to/4neQyHk)  
+- [Pizzicato Five初期作（インディー期, Late 1980s）](https://amzn.to/3W6W1UE)  
 
-### Equipo utilizado
-- Sintetizadores como Roland Juno-60 y Yamaha DX7
-- Las primeras cajas de ritmos como la Roland TR-808
-- Grabación casera de cultura mediante casete MTR.
+### 使用機材
+- Roland Juno-60、Yamaha DX7などのシンセサイザー  
+- Roland TR-808など初期ドラムマシン  
+- カセットMTRによる宅録文化  
 
-### 10 canciones recomendadas (década de 1980)
+### おすすめ10曲（1980s）
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Eres color natural | Eiichi Otaki | Monumento pop de la ciudad |
-| Brillo | Tatsuro Yamashita | Sonido urbano sofisticado |
-| septiembre | Mariya Takeuchi | Pop ligero AOR |
-| Número de teléfono | Miki Matsubara | Obras maestras reevaluadas en el extranjero |
-| Me encanta hablar | Tatsuro Yamashita | Fusión de elementos boogie |
-| Centro de la ciudad | Nena de azúcar | Origen del pop urbano |
-| Sweet Soul Revue (modelo original) | Pizzicato Cinco | Semillas que llevaron al posterior sistema Shibuya |
-| Boogie Woogie Tren del Amor | Ana Lewis | Fusión de danza y canciones |
-| CIUDAD DE LA BAHÍA Crepúsculo | Junko Yagami | Canciones populares con aire de jazz |
-| Color triste | Masaki Ueda | La intersección del atractivo popular y la sensibilidad urbana |
+| 君は天然色 | 大滝詠一 | シティポップの金字塔 |
+| Sparkle | 山下達郎 | 洗練された都会的サウンド |
+| September | 竹内まりや | 軽快なAORポップ |
+| Telephone Number | 松原みき | 海外でも再評価された名曲 |
+| Love Talkin' | 山下達郎 | ブギー的要素の融合 |
+| Down Town | Sugar Babe | シティポップ原点 |
+| Sweet Soul Revue (原型) | Pizzicato Five | 後の渋谷系へ連なる萌芽 |
+| 恋のブギウギトレイン | アン・ルイス | ダンスと歌謡の融合 |
+| 黄昏のBAY CITY | 八神純子 | ジャズ感覚を持つ歌謡曲 |
+| 悲しい色やね | 上田正樹 | 大衆性と都会感覚の接点 |
 
 ---
 
-## Década de 1990: edad de oro del estilo Shibuya
-### Antecedentes históricos
-- Pizzicato Five liderado por Yasuhi Konishi, Cornelius (Keigo Oyamada) y Flipper's Guitar (Kenji Ozawa + Keigo Oyamada) son representativos del estilo Shibuya.
-- Apareció en "Oricon" y "MTV Japan" y se convirtió en un gran éxito.
-- Enlaces a escenas de clubes en el extranjero.
+## 1990s — 渋谷系の黄金期
+### 時代背景
+- 小西康陽率いるPizzicato Five、Cornelius（小山田圭吾）、Flipper's Guitar（小沢健二＋小山田圭吾）などが渋谷系を代表。  
+- 「オリコン」や「MTV Japan」でも取り上げられ、メジャー化。  
+- 海外のクラブシーンともリンク。  
 
-### Obra maestra representativa
-- [Pizzicato Five — *Hecho en EE. UU.* (1994)](https://amzn.to/3K92U5t)
-- [Guitarra de Flipper — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)
-- [Cornelio — *Fantasma* (1997)](https://amzn.to/4nJwCfx)
+### 代表的な名盤
+- [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
+- [Flipper’s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)  
+- [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)  
 
-### Equipo utilizado
-- Muestreador (Akai MPC, Roland S-760)
-- Multipista digital (ADAT, DAT)
-- Escribir usando Mac + Cubase
+### 使用機材
+- サンプラー（Akai MPC, Roland S-760）  
+- デジタルマルチトラック（ADAT, DAT）  
+- Mac + Cubaseによる打ち込み  
 
-### 10 canciones recomendadas (década de 1990)
+### おすすめ10曲（1990s）
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Revista Dulce Alma | Pizzicato Cinco | Un magnífico número que representa a Shibuya Kei |
-| Bebé Amor Niño | Pizzicato Cinco | Canciones famosas que son populares en el extranjero |
-| Charla de cámara | La guitarra de Flipper | Fusión de pop e indie |
-| Joven, viva y enamorada | La guitarra de Flipper | Música juvenil y occidental |
-| Rayo perfecto | Cornelio | Experimentalidad y sentimiento pop |
-| Si estás aquí | Cornelio | Imagen sonora futurista |
-| Sentimientos fuertes, amor fuerte | Kenji Ozawa | La forma perfecta del pop Shibuya-kei |
-| Precioso | Kenji Ozawa | Se convirtió en un éxito nacional |
-| Hasta que se acabe el mundo | VARAS (esfera de influencia) | Enfoque pop-rock |
-| Tokio, Tokio | Fantástica máquina de plástico | Simbolizando la cultura del club Shibuya |
+| Sweet Soul Revue | Pizzicato Five | 渋谷系を代表する華やかナンバー |
+| Baby Love Child | Pizzicato Five | 海外でも人気の名曲 |
+| Camera Talk | Flipper’s Guitar | ポップとインディの融合 |
+| Young, Alive, in Love | Flipper’s Guitar | 青春感と洋楽志向 |
+| Perfect Ray | Cornelius | 実験性とポップ感 |
+| If You're Here | Cornelius | フューチャリスティックな音像 |
+| 強い気持ち・強い愛 | 小沢健二 | 渋谷系ポップの完成形 |
+| ラブリー | 小沢健二 | 国民的ヒットに昇華 |
+| 世界が終るまでは | WANDS（影響圏） | ポップロック的アプローチ |
+| Tokyo, Tokyo | Fantastic Plastic Machine | 渋谷クラブカルチャーを象徴 |
 
 ---
 
-## Década de 2000 — Después de Shibuya-kei
-### Antecedentes históricos
-- Si bien Shibuya-kei desapareció comercialmente, influyó en el electropop de Capsule y Yasutaka Nakata.
-- Aumentará el desarrollo de la música de club, también conocida como neo-Shibuya-kei.
+## 2000s — ポスト渋谷系
+### 時代背景
+- 渋谷系が商業的には終息する一方、Capsuleや中田ヤスタカらによるエレクトロポップに影響を与えた。  
+- ネオ渋谷系とも呼ばれるクラブミュージック的展開が増える。  
 
-### Obra maestra representativa
-- [Cápsula — *¡Más! ¡Más! ¡Más!* (2008)](https://amzn.to/47VqQDd)
-- [Fantástica máquina de plástico — *hermosa.* (2001)](https://amzn.to/4msAFMo)
-- [Kenji Ozawa — *Ecléctico* (2002)](https://amzn.to/4mtfA4k)
+### 代表的な名盤
+- [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
+- [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)  
+- [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
 
-### Equipo utilizado
-- Popularización DAW (Logic, Cubase SX)
-- Sintetizador suave (Native Instruments, Arturia)
-- Cultura del DJ portátil
+### 使用機材
+- DAW普及（Logic, Cubase SX）  
+- ソフトシンセ（Native Instruments, Arturia）  
+- Laptop DJ文化  
 
-### 10 canciones recomendadas (años 2000)
+### おすすめ10曲（2000s）
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| ¡Más! ¡Más! ¡Más! | Cápsula | Sinónimo de estilo neo-Shibuya |
-| Chica sin azúcar | Cápsula | Fusión con electro |
-| Hermosos días | Fantástica máquina de plástico | Club pop sofisticado |
-| El amor es psicodélico | Tomoyuki Tanaka | Herencia del sonido de Shibuya |
-| Denki Bilibili | Perfume (producido por Nakata) | Evolución del estilo Shibuya |
-| Polirritmo | Perfumes | Golpe mundial |
-| El sonido de la música | Cubismo Gráfico | Sentido del latín y Shibuya |
-| Hola | Cápsula | Neo Futuro Pop |
-| Tensión de verano | HALCALÍ | Rap femenino y sensación de Shibuya |
-| Tema del Amor | Kenji Ozawa | Símbolo de renacimiento y experimentación |
+| More! More! More! | Capsule | ネオ渋谷系の代名詞 |
+| Sugarless GiRL | Capsule | エレクトロとの融合 |
+| Beautiful Days | Fantastic Plastic Machine | 洗練クラブポップ |
+| Love Is Psychedelic | Tomoyuki Tanaka | 渋谷サウンド継承 |
+| 電気ビリビリ | Perfume（中田プロデュース） | 渋谷系の進化形 |
+| Polyrhythm | Perfume | 世界的ヒット |
+| The Sound of Music | Cubismo Grafico | ラテンと渋谷感覚 |
+| Hello | Capsule | ネオ・フューチャーポップ |
+| 夏のテンション | HALCALI | 女性ラップと渋谷感覚 |
+| 愛のテーマ | 小沢健二 | 再生と実験の象徴 |
 
 ---
 
-## Década de 2010: reevaluación y expansión
-### Antecedentes históricos
-- Fue redescubierto por la generación de Internet y se convirtió en un género en el extranjero como "Shibuya-kei".
-- Renacimiento en paralelo con la reevaluación del City Pop.
+## 2010s — 再評価と拡張
+### 時代背景
+- ネット世代が再発掘、海外で「Shibuya-kei」としてジャンル化。  
+- シティポップ再評価とも並行してリバイバル。  
 
-### Obra maestra representativa
-- [Cornelius — *Olas suaves* (2017)](https://amzn.to/4gzkWK2)
-- [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)
-- [cero — *Paseo oscuro* (2015)](https://amzn.to/47W866p)
+### 代表的な名盤
+- [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
+- [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)  
+- [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
 
-### Equipo utilizado
-- Ableton Live y sampler suave
-- Presentación de sintetizadores modulares.
-- Equipos digitales para transmisión en vivo.
+### 使用機材
+- Ableton Liveやソフトサンプラー  
+- モジュラーシンセの導入  
+- 配信ライブ向けのデジタル機材  
 
-### 10 canciones recomendadas (década de 2010)
+### おすすめ10曲（2010s）
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Algún día/En algún lugar | Cornelio | Experimentación madura |
-| Si estás aquí | Cornelio | Delicado sentido acústico |
-| Sonido de la musica | Towa Tei | Sentido Neo Shibuya |
-| Feliz | Towa Tei | Colorido y moderno |
-| Huérfanos | cero | Sonido de banda estilo Neo-Shibuya |
-| Alma de verano | cero | Renacimiento conmovedor |
-| Luces de Tokio | Dorio | Sensación moderna de Shibuya |
-| Recuerdos | Metacinco | Fusión de techno y pop |
-| Radio | Metacinco | Experimentación sonora |
-| Melodía eterna | Shugo Tokumaru | Herencia folk-pop |
+| いつか / どこか | Cornelius | 円熟した実験性 |
+| If You're Here | Cornelius | 繊細な音響感覚 |
+| Sound of Music | Towa Tei | ネオ渋谷感覚 |
+| Happy | Towa Tei | カラフルでモダン |
+| Orphans | cero | ネオ渋谷系的バンドサウンド |
+| Summer Soul | cero | ソウルフルなリバイバル |
+| Tokyo Lights | Dorian | 現代的な渋谷感覚 |
+| Memories | Metafive | テクノとポップの融合 |
+| Radio | Metafive | サウンド実験性 |
+| Timeless Melody | Shugo Tokumaru | フォークポップ的継承 |
 
 ---
 
-## Década de 2020: ahora
-### Antecedentes históricos
-- La influencia de "Shibuya-kei" está atrayendo nuevamente la atención en el contexto del K-POP y la reevaluación del pop urbano.
-- Ampliar la base de oyentes extranjeros a través de YouTube, Spotify, TikTok, etc.
+## 2020s — 現在
+### 時代背景
+- K-POPやシティポップ再評価の文脈で「Shibuya-kei」の影響が再び注目。  
+- YouTube、Spotify、TikTokなどの拡散で海外リスナー層拡大。  
 
-### Obra maestra representativa
-- [Cornelius — *Sueño en sueño* (2023)](https://amzn.to/46kD7zK)
-- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)
-- [Varios artistas — Compilación de Neo Shibuya-kei *CONEXIÓN MÁGICA 2020* (década de 2020)](https://amzn.to/47S23zT)
+### 代表的な名盤
+- [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)  
+- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
+- [Various Artists — ネオ渋谷系コンピレーション *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)  
 
-### Equipo utilizado
-- Entorno de grabación doméstica/DTM asumiendo distribución de streaming
-- Producción basada en software
-- Híbrido analógico y digital
+### 使用機材
+- ストリーミング配信を前提とした宅録・DTM環境  
+- ソフトウェア主体のプロダクション  
+- アナログとデジタルのハイブリッド  
 
-### 10 canciones recomendadas (década de 2020)
+### おすすめ10曲（2020s）
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Sueño en sueño | Cornelio | Armonía de serenidad y experimentación |
-| Chispa | cero | Intersección con el jazz contemporáneo |
-| e o | cero | El colmo del sentido neo-Shibuya |
-| Estancia | Towa Tei | Belleza minimalista y sofisticada |
-| Ambiente | Dorio | Herencia del pop neourbano |
-| Letrero de neón | Metacinco | Visión de futuro de los clubes y Shibuya |
-| Ryusei | cero | surco orgánico |
-| Futuro Pasado | Cornelio | Experimentos entre generaciones |
-| El ritmo está en ti | Towa Tei | La frontera entre danza y arte |
-| Nostalgia | Joven independiente | Estilo Neo-Shibuya en ciernes |
+| Dream in Dream | Cornelius | 静謐と実験の調和 |
+| 火花 | cero | 現代的ジャズとの交錯 |
+| e o | cero | ネオ渋谷感覚の極み |
+| Stay | Towa Tei | ミニマルで洗練された美 |
+| Ambience | Dorian | ネオ・シティポップ的継承 |
+| Neon Sign | Metafive | クラブと渋谷の未来像 |
+| 流星 | cero | 有機的なグルーヴ |
+| Future Past | Cornelius | 世代を超えた実験 |
+| Groove Is In You | Towa Tei | ダンスとアートの境界 |
+| Nostalgia | 若手インディーズ | ネオ渋谷系の萌芽 |
 
 ---
 
-## Icono cultural mundial
+## 世界的なカルチャーアイコン
 
-El sonido Shibuya-kei nació en la década de 1990 y se convirtió en un ícono cultural mundial, y desde entonces ha seguido influyendo en la escena musical japonesa de diversas formas. Actualmente, está siendo reevaluado a través de la generación de Internet y está entrando en una nueva fase al cruzarse con el pop urbano y el K-POP.
+渋谷系サウンドは、1990年代に誕生して世界的なカルチャーアイコンとなり、その後も形を変えながら日本の音楽シーンに影響を与え続けています。現在はネット世代を通じて再評価され、シティポップやK-POPとも交差しつつ新たな局面を迎えています。

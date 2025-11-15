@@ -9,59 +9,59 @@ tags:
 - Hi NRG
 - 80s
 - 90s
-title: '[Columna] Alta energía y LGBTQ: música dance que simboliza liberación e identidad'
+title: 【コラム】 ハイエナジーとLGBTQ：解放とアイデンティティを象徴したダンスミュージック
 ---
 
 
-## Música de baile que simboliza la liberación y la identidad.
+## 解放とアイデンティティを象徴したダンスミュージック
 
 
-Texto: mmr｜Tema: Música simbólica de "liberación y solidaridad" que se superpone con la cultura gay estadounidense y la era de la crisis del VIH/SIDA.
+文：mmr｜テーマ：アメリカのゲイカルチャー、HIV/エイズ危機の時代と重なる、「解放と連帯」の象徴的音楽
 
-<hora>
+<hr>
 
-### Nacimiento de Hi-NRG y la cultura de los clubes gay
+### Hi-NRGの誕生とゲイクラブ文化
 
-Desde finales de los años 1970 hasta los años 1980, Hi-NRG (High Energy) surgió como una música de baile electrónica y de ritmo rápido derivada de la música disco.
-El sonido se caracterizaba por tempos rápidos (120-140 BPM), riffs basados ​​en sintetizadores y voces femeninas dramáticas, y tenía una sensación más catártica y enérgica que la música disco tradicional.
+1970年代末から80年代にかけて、ディスコから派生した電子的かつ疾走感のあるダンスミュージックとして Hi-NRG（High Energy） が登場しました。
+そのサウンドは 高速テンポ（120〜140 BPM）、シンセベースのリフ、ドラマティックな女性ボーカルが特徴で、従来のディスコを超える カタルシスとエネルギー感 を持ち合わせていました。
 
-Hi-NRG tenía muchos seguidores particularmente en los clubes gay. Después de los disturbios de Stonewall en la década de 1970, la comunidad LGBTQ buscó un lugar para su expresión e identidad en la escena de los clubes, y Hi-NRG funcionó como su "música de liberación".
+Hi-NRGが特に強く支持されたのは、ゲイクラブ でした。70年代のストーンウォール暴動以降、LGBTQコミュニティは自らの表現とアイデンティティの場をクラブシーンに求め、Hi-NRGはその 「解放の音楽」 として機能したのです。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Papel de Hi-NRG en LGBTQ
-🌈 símbolo de libertad
+### LGBTQにおけるHi-NRGの役割
+🌈 自由の象徴
 
-En una época en la que la homosexualidad todavía era objeto de discriminación y prejuicios, Hi-NRG proporcionó "un espacio donde la gente podía bailar y amarse sin estar atada por nadie". Las pistas de baile de los clubes eran espacios seguros donde la gente podía escapar de la opresión de la sociedad, y Hi-NRG era esencial como música de fondo.
+同性愛が依然として差別や偏見の対象であった時代、Hi-NRGは「誰にも縛られずに踊り、愛し合える空間」を提供しました。クラブのダンスフロアは社会の抑圧から逃れられる セーフスペース であり、Hi-NRGはそのBGMとして不可欠でした。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRnBNo9TWNY?si=OW8j9TwpoJe9s09l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-🌈 Expresión de identidad
+🌈 アイデンティティの表現
 
-Las letras de Hi-NRG a menudo tienen temas de amor, deseo y autoliberación, y resuenan no solo con el amor heterosexual, sino también con los sentimientos sinceros de las personas LGBTQ.
-Por ejemplo, "High Energy" de Evelyn Thomas y "Searchin" de Hazell Dean quedaron profundamente grabados en la escena de los clubes como himnos gay.
+Hi-NRGのリリックはしばしば 愛・欲望・自己解放 をテーマにしており、ストレートな恋愛だけでなく、LGBTQが抱える切実な感情を代弁するかのように響きました。
+例えば Evelyn Thomas「High Energy」や Hazell Dean「Searchin’」は、ゲイアンセムとしてクラブシーンに深く刻まれました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-🌈 Fusión con la cultura de las drogas
+🌈 ドラッグカルチャーとの融合
 
-Las canciones Divine de Bobby Orlando (por ejemplo, "You Think You"re a Man") son emblemáticas de la conexión directa entre Hi-NRG y la cultura drag queen. Sus actuaciones fueron radicales y provocativas, rompiendo las fronteras de la música y la expresión de género.
+Bobby Orlandoが手掛けた Divine の楽曲群（例: “You Think You’re a Man”）は、Hi-NRGとドラッグクイーン文化を直結させた象徴的存在です。彼女のパフォーマンスは過激で挑発的であり、音楽とジェンダー表現の境界を破壊しました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Relación entre artistas representativos y personas LGBTQ
+### 代表的なアーティストとLGBTQとの関わり
 
-**Silvestre**
+**Sylvester**
 
-Un cantante que era abiertamente gay. Su canción característica "You Make Me Feel (Mighty Real)" es el origen de Hi-NRG y es una obra maestra atemporal como himno gay.
+オープンリー・ゲイであったシンガー。代表曲 “You Make Me Feel (Mighty Real)” はHi-NRGの原点であり、ゲイ・アンセムとして不朽の名作。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gD6cPE2BHic?si=nh821ZQkoN4wIcvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -69,42 +69,42 @@ Un cantante que era abiertamente gay. Su canción característica "You Make Me F
 
 **Hazell Dean**
 
-Una cantante británica de Hi-NRG que contaba con tanto apoyo en la escena de discotecas que la llamaban la "reina gay". Muchas de sus canciones hablan del amor y el deseo LGBTQ.
+「ゲイの女王」と呼ばれるほどクラブシーンで支持されたUK Hi-NRGシンガー。彼女の楽曲はLGBTQの恋愛や欲望を代弁するような内容が多かった。
 
-**Divino**
+**Divine**
 
-Mientras estaba activa como drag queen, ganó atención mundial con Hi-NRG. Mostrando audazmente expresión sexual, integraron la música y la política de género.
+ドラァグクイーンとして活動しつつ、Hi-NRGで世界的に注目を浴びた存在。性の表現を大胆に誇示し、音楽とジェンダーの政治性を一体化させた。
 
 **Evelyn Thomas**
-Una diva que definió el género con su canción característica "High Energy". Fue explosivamente popular en los clubes gay y difundió Hi-NRG por todo el mundo.
+代表曲「High Energy」でジャンル名を決定づけた歌姫。ゲイクラブで爆発的な人気を誇り、Hi-NRGを世界的に広めた。
 
 
-<hora>
+<hr>
 
-### Hola-NRG y la crisis del VIH/SIDA
+### Hi-NRGとHIV/エイズ危機
 
-En la década de 1980, el VIH/SIDA afectó a la comunidad LGBTQ y se cobró muchas vidas.
-Durante este período, Hi-NRG se convirtió a la vez en un escape para olvidar las penas y en una banda sonora de vida y muerte en memoria de los camaradas caídos.
+1980年代、HIV/エイズがLGBTQコミュニティを襲い、数多くの命が失われました。
+この時期、Hi-NRGは 悲しみを忘れるための逃避 であると同時に、亡くなった仲間を追悼する 生と死のサウンドトラック となりました。
 
-El propio Sylvester murió de SIDA, pero su música sigue sonando en los clubes hoy en día.
+Sylvester自身もエイズで命を落としましたが、彼の音楽は今もクラブでプレイされ続けています。
 
 
-<hora>
+<hr>
 
-### El legado y el impacto moderno de Hi-NRG
+### Hi-NRGの遺産と現代への影響
 
-Hi-NRG eventualmente evolucionó hasta convertirse en Chicago house y Eurobeat, y ha dejado una influencia en el EDM y el hiperpop actual.
-Particularmente en la comunidad LGBTQ, los clásicos de Hi-NRG se siguen reproduciendo en eventos del Orgullo y clubes gay, lo que brinda una manera de revivir esa sensación de libertad.
+Hi-NRGはやがて シカゴ・ハウス や ユーロビート へと発展し、現在のEDMやハイパーポップにも影響を残しています。
+特にLGBTQコミュニティにおいては、今でも Prideイベント やゲイクラブでHi-NRGクラシックがプレイされ続け、当時の解放感を追体験する手段となっています。
 
-La cultura contemporánea Drag Race y los artistas hiperpop (SOPHIE, Kim Petras, etc.) llevan el ADN de energía exagerada y expresión de género de Hi-NRG.
+現代のDrag Race文化やハイパーポップのアーティスト（SOPHIE、Kim Petrasなど）にも、Hi-NRGの 誇張されたエネルギー感とジェンダー表現 のDNAが受け継がれています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUJ9Oc7WW3g?si=aoUWMeK4ZTl9cNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Más que solo música de baile, es un símbolo de libertad y liberación.
+### 単なるダンス・ミュージックではなく、「自由と解放の象徴」
 
-Hi-NRG es más que simplemente "música de baile"; es un género que encarna la historia, la lucha y la liberación de la comunidad LGBTQ.
-Los ritmos potentes y los sintetizadores brillantes eran una celebración de la vida y un medio para escapar de la opresión de la sociedad sobre los clubes gay en la década de 1980.
+Hi-NRGは単なる「ダンス音楽」ではなく、LGBTQコミュニティの歴史・闘争・解放 を体現したジャンルです。
+疾走するビートと煌めくシンセは、80年代のゲイクラブにとって「生きることの祝祭」であり、社会の抑圧から逃れる手段でもありました。
 
-Incluso hoy en día, Hi-NRG sigue siendo revalorizado como una presencia imprescindible a la hora de hablar de la relación entre música y sexualidad.
+今日においてもHi-NRGは、音楽とセクシュアリティの関係を語る上で不可欠な存在 として再評価され続けています。

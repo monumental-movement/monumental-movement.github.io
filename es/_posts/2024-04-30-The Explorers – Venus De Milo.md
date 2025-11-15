@@ -9,26 +9,26 @@ tags:
 - Synth Pop
 - Pops
 - 80s
-title: Los exploradores – Venus de Milo
+title: The Explorers – Venus De Milo
 ---
 
 
-The Explorers es un grupo formado por ex miembros de la banda de rock progresivo Roxy Music, Phil Manzanera y Andy MacKay, con James Wraith en la voz.
+The ExplorersはプログレッシブロックバンドRoxy Music(ロキシーミュージック)の元メンバー Phil ManzaneraとAndy MacKayがJames Wraithをvocal迎え結成したグループ。
 
-The Explorers lanzaron su LP homónimo "Explorers" en Virgin Records en 1985, pero se disolvieron en 1986.
+The Explorersは1985年にvirginレコードからセルフタイトルLP「Explorers」をリリースするが、1986年に解散。
 
-Este disco es un corte sencillo del álbum homónimo.
+このレコードはセルフタイトルアルバムからのシングルカット。
 
-Después de que The Explorers se disolvieron, Phil Manzanera y Andy MacKa siguieron carreras en solitario.
+The Explorers解散後、Phil ManzaneraとAndy MacKaはそれぞれソロ活動をしている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Venus De Milo (Longer Than Louvre Mix)
 
 B. Another Lost Soul On The Run
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m58909322462?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58909322462?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BMW7ms2xEQs?si=q0F1qC3bjvHvvkxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

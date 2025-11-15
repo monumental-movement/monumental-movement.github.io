@@ -9,17 +9,17 @@ tags:
 - Chorus
 - African
 - 80s
-title: Ladysmith Mambazo Negro – Shaka Zulu
+title: Ladysmith Black Mambazo – Shaka Zulu
 ---
 
 
-Fundado en 1964 por Joseph Shabalala, Ladysmith Black Mambazo es un grupo coral masculino sudafricano que canta en isikatamiya (música tradicional zulú) y estilo Mbube.
+Joseph Shabalala（ジョセフ・シャバララ）が1964年に結成Ladysmith Black Mambazoは、イシカタミア(ズールー人の伝統的な音楽)やムブーベスタイルで歌う南アフリカの男性コーラスグループ。
 
-Obtuvo fama mundial después de aparecer en el álbum "Graceland" de Paul Simon de Simon & Garfunkel y ganó varios premios, incluido un premio Grammy.
+サイモン&ガーファンクルのPaul Simon（ポール・サイモン）のアルバム『グレイスランド』に参加した事で世界的に有名となり、グラミー賞を含む様々な賞を獲得した。
 
-"Shaka Zulu" está producida por Paul Simon.
+「Shaka Zulu」はPaul Simonがプロデュースしている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Unomathemba
 A2. Hello My Baby
@@ -34,7 +34,7 @@ B4. Rain, Rain, Beautiful Rain
 B5. Wawusho Kubani? (Who Were You Talking To?)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X2xl2fsdyGM?si=RnaEIEA5rq0GPq-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

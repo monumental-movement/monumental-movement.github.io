@@ -9,14 +9,13 @@ layout: post
 tags:
 - Technical
 - Non-Music
-title: 'Sin artista: una carrera de obstáculos de audio - Registro de prueba de seguimiento
-  de Shure'
+title: No Artist – An Audio Obstacle Course - Shure Trackability Test Record
 ---
 
 
-"Sin artista – Una carrera de obstáculos de audio – Registro de prueba de seguimiento de Shure" fue publicado por Shure en 1967.
+「No Artist – An Audio Obstacle Course - Shure Trackability Test Record」は、1967年にShureからリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Introduction
 
@@ -50,5 +49,5 @@ B9. Right Ch. Harpsichord - 4 Levels
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
 

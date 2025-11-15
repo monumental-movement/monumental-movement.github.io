@@ -9,25 +9,25 @@ tags:
 - Techno
 - Downtempo
 - Rare
-title: Abe Duque – No seas tan malo Parte I
+title: Abe Duque – Don't Be So Mean Part I
 ---
 
 
-Abe Duque participa activamente en la escena acid underground de Nueva York.
+NYアンダーグラウンドアシッド・シーンで活躍するAbe Duque（アベ・デューク）。
 
-A principios de los 90 participó en PROGRAM2, que estaba llamando la atención en la escena de clubes neoyorquinos de la época.
+90年代初頭は、当時のNYクラブ・シーンで注目されたPROGRAM2に参加。
 
-Posteriormente, después de trabajar bajo el nombre de KILRIAN, fundó Abe Duque Records con DJ Matuss en 2002.
+その後、KILRIAN名義で活動したのち、02年にはDJ Matussと共にAbe Duque Recordsを設立。
 
-Abe Duque Records toma deliberadamente la ruta clandestina, con información de lanzamiento y créditos estampados en los discos.
+Abe Duque Recordsは敢えてアングラ路線をとり、リリース情報などクレジットは盤面に刻印するスタイルをとっている。
 
-Ha trabajado en remezclas para Chemical Brothers y Pet Shop Boys, y ha actuado en vivo en WIRE en 2005 y Asagiri JAM en 2007.
+Chemical Brothers（ケミカルブラザーズ）やPet Shop Boys（ペットショップボーイズ）などのリミックスを手がけたり、05年のWIREや07年の朝霧JAMでライヴパフォーマンスをおこなっている。
 
-Lanzado en 2008, "Don't be So Mean" es un tema techno que se hizo popular en las pistas de baile de todo el mundo.
+2008年にリリースした「Don't be So Mean」は、世界中のダンスフロアで人気を博したテクノトラック。
 
-La cara B cuenta con la voz de la DJ serbia Tijana T, que toca en clubes famosos de todo el mundo, como Boiler Room y Panorama Bar.
+B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイするセルビア出身のDJ Tijana Tがヴォーカルで参加。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Don't Be So Mean (Part I)
 
@@ -36,5 +36,5 @@ A2. Vinyl Is Dead
 B. Salute The Dawn Featuring – Tijana T
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 

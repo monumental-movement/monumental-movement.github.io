@@ -10,17 +10,17 @@ tags:
 - Minimal
 - Experimental
 - 80s
-title: Kronos Quartet – Monk Suite Kronos Quartet toca música de Thelonious Monk
+title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
 ---
 
 
-Kronos Quartet es un cuarteto de cuerda formado en Seattle en 1973 por el violinista David Harrington, y tiene su base en San Francisco desde 1978.
+クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。 
 
-La banda ha estado activa durante 50 años con un elenco rotativo de músicos, siendo la combinación de intérpretes más antigua (1978-1999) Harrington y John Schaba al violín, Hank Dutt a la viola y Joan Jeanrenot al violonchelo.
+50年間にわたりミュージシャンが交代しながら活動しており、 最も長く続いた演奏家の組み合わせ（1978年〜1999年）は、ヴァイオリンのハリントンとジョン・シャーバ、ヴィオラのハンク・ダット、チェロのジョアン・ジャンルノー。
 
-El cuarteto cubre una amplia gama de géneros musicales, incluida la música clásica contemporánea.
+カルテットは現代クラシック音楽を含む非常に幅広い音楽ジャンルをカバーしている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Monk Suite：
 1. Well, You Needn't
@@ -36,7 +36,7 @@ Monk Plays Ellington：
 9. Brilliant Corners
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

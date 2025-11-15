@@ -9,15 +9,15 @@ tags:
 - Alternative Rock
 - Rock
 - 90s
-title: Beck – Mutaciones
+title: Beck – Mutations
 ---
 
 
-"Mutations" es el sexto álbum de estudio de Beck, lanzado en 1998 por DGC Records. Fue producido por Nigel Godrich, conocido como el productor de Radiohead, y ganó el premio Grammy al Mejor Álbum de Música Alternativa.
+「Mutations」は、1998年にDGCレコードからリリースされたBeckの6枚目のスタジオアルバム。Radioheadのプロデューサーとして知られるNigel Godrich(ナイジェル・ゴッドリッチ)がプロデュースし、グラミー賞の最優秀オルタナティブ・ミュージック・アルバムを受賞した。
 
-La pista número 12 es una pista extra que solo está disponible en la versión japonesa. La pista 14 es una pista extra internacional.
+12曲目は日本盤のみのボーナストラック。14曲目はインターナショナルボーナストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Cold Brains
 2. Nobody's Fault But My Own
@@ -35,7 +35,7 @@ La pista número 12 es una pista extra que solo está disponible en la versión 
 14. Runners Dial Zero
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVUpRBA0s0?si=JOhmMff1NMR_lAIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

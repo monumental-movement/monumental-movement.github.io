@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Rare
-title: Varios – Pánico de baile
+title: Various – Dance Panic
 ---
 
 
-Scorccio (Mark Summers) y Jay Williams remezclan Number One de la cantante británica Billie Godfrey.
+UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
 
-DJ Visage es un proyecto de trance liderado por el DJ danés Martin Sig y producido por el austriaco Norbert Reichart.
+DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
 
-Airplay es un dúo de trance electrónico formado por Danny Corten y Eddy Weyns.
+Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 
@@ -31,5 +31,5 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 B2. Reverance–Sacrifice (Paul Woodgate)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
 

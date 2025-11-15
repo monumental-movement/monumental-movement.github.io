@@ -12,22 +12,22 @@ title: Ei Mori – Vetettem Violat
 ---
 
 
-Ei Mori es una unidad formada por Herman Gillis, Jo Casters y Roland Beelen.
+Ei Moriは、Herman Gillis、Jo Casters、Roland Beelenからなるユニットです。
 
-Herman Gillis formó su primera banda, The Primitifs, cuando tenía 18 años. Construyó varios instrumentos para la banda. Esto incluye scratchers de aire, cajas de ritmos (incluidos pads de batería caseros), sistemas informáticos primitivos, MIDI y más.
+Herman Gillisは18歳のときに最初のバンドである「プリミティフス」を結成しました。彼はそのバンドのためにいくつかの楽器を製作しました。これにはエアスクラッチャーやドラムマシン（自作のドラムパッドを含む）、プリミティフなコンピューターシステム、MIDIなどが含まれています。
 
-Jo Casters es un importante músico y productor belga que ha desempeñado un papel importante en la escena musical belga durante más de 20 años. Originalmente fundador de Poésie Noire, más tarde formó parte del trío belga Morton, Sherman y Belluci.
+Jo Castersは、ベルギーの重要な音楽家兼プロデューサーで、20年以上にわたりベルギーの音楽シーンで重要な役割を果たしてきました。もともとはPoésie Noireの創設者で、その後、ベルギーのトリオ、Morton、Sherman、Belluciの一員でした。
 
-fueron algunos de los fundadores y artistas más prolíficos del movimiento New Beat en 1987. Lanzaron alrededor de 100 grabaciones en un año bajo varios nombres.
+1987年のNew Beat運動の創設者および最も多産なアーティストの一部でした。彼らはさまざまな名前のもとに、1年間で約100の録音をリリースしました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Vetettem Violat
 
 B. Vetettem Violat (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m42012881595?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42012881595?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yesWKnXMsgU?si=kUJSLBrbSbyahG5V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

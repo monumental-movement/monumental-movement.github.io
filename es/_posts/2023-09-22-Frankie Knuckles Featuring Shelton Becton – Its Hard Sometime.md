@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Deep House
-title: Frankie Knuckles con Shelton Becton – Es difícil en algún momento
+title: Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime
 ---
 
 
-Frankie Knuckles es un pionero de la música disco y house, y Shelton Becton es cantautor y vocalista.
+フランキー・ナックルズはディスコとハウスミュージックのパイオニアであり、シェルトン・ベクトンはシンガーソングライター/ボーカリストです。
 
-"It's Hard Sometime" es una canción colaborativa entre ellos, que presenta una melodía conmovedora, un ritmo delicado, letras conmovedoras y un elegante sonido house.
+「It's Hard Sometime」は、彼らの共同制作による一曲で、ソウルフルなメロディ、繊細なリズム、心に響く歌詞とエレガントなハウスサウンドが特徴です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  It's Hard Sometime (FK Classic Club)
 
@@ -27,7 +27,7 @@ B1  It's Hard Sometime (Alternative 12")
 B2  It's Hard Sometime (Factory Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m27871104265?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27871104265?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/psIVHuHxyLo?si=fV61Phs_-LUJd78Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,24 +9,24 @@ tags:
 - Electronic
 - Trance
 - 00s
-title: Darren Tate y Jono Grant – Brillo
+title: Darren Tate & Jono Grant – Shine
 ---
 
 
-Darren Tate es un DJ/productor de música house trance dance del Reino Unido que es miembro de JODA y también trabaja bajo los nombres DT8 Project y 8 Ball.
+Darren Tate (ダレン・テイト)は、JODAのメンバーであり、DT8 Projectや8 Ball 名義でも活動するイギリス出身のハウス・トランス・ダンスミュージックDJ/プロデューサー。
 
-Jono Grant es miembro del grupo de música electrónica del Reino Unido Above & Beyond y productor que también participa activamente como miembro de JODA, Dirt Devils y Zed-X.
+Jono Grant (ジョノ・グラント)は、UKのエレクトロミュージックグループAbove & Beyondのメンバーであり、JODA 、Dirt DevilsやZed-Xなどのメンバーとしても活動するプロデューサー。
 
-"shine" es una pista de trance lanzada por el sello ID&T en 2003.
+「shine」は、2003年にレーベル ID&Tからリリースされたトランストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Let The Light Shine In (Shine)
 
 B. Let The Light Shine In
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

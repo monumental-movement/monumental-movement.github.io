@@ -8,13 +8,13 @@ layout: post
 tags:
 - House
 - Deep House
-title: La Fundación con Jay Williams – Rejoice
+title: The Foundation Featuring Jay Williams – Rejoice
 ---
 
 
-Una canción house del DJ, remezclador y productor dominicano-estadounidense Roger Sanchez, también conocido como The Foundation, lanzada por el sello house neoyorquino One Records en 1993.
+1993年にNYのハウスレーベルOne RecordsよりリリースされたThe Foundationこと、ドミニカ系アメリカ人のハウス DJ/リミキサー/プロデューサーRoger Sanchez(ロジャー・サンチェス)のハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Rejoice (Strobelight Mix)
 
@@ -27,7 +27,7 @@ B2. Rejoice (Roger's Hard Dub)
 B3. Rejoice (Churchapella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fDpEJH7gTXA?si=oArfX-EnGStsPrtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

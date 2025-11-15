@@ -9,17 +9,17 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: Miles Davis – Originales / Estados de ánimo
+title: Miles Davis – Originals / Moods
 ---
 
 
-Una de las compilaciones de cuatro casetes de Miles Davis lanzadas en 1988. La cinta es cromada.
+1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
 
-F-1 y F-3 son producidos por Howard A. Roberts, conocido por su trabajo con Howard Roberts Chorale y Harry Belafonte.
+F-1とF-3は、 Howard Roberts ChoraleやHarry Belafonte （ハリー ベラフォンテ）との仕事で知られるHoward A. Roberts（ハワードロバーツ）がプロデュース。
 
-"It's About That Time" de F-4 presenta a Dave Holland al bajo y Chick Corea y Joe Zawinul al piano.
+F-4の「It's About That Time」は、bassがDave Holland（デイヴ・ホランド）、pianoがChick Corea（チック・コリア）と Joe Zawinul（ジョー・ザヴィヌル）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 E-1. So What
 E-2. Water Babies
@@ -32,7 +32,7 @@ F-3. Fall
 F-4. It's About That Time
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15443418452?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqNTltOGh5c?si=zK-dqJEoz3xqXOgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,281 +9,281 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Columna] Shpongle: Reencarnación del sonido y viaje de la conciencia'
+title: 【コラム】 Shpongle：音の輪廻と意識の旅
 ---
 
 
-## Raja Ram × Simon Posford: Encuentro y reacción química
+## Raja Ram × Simon Posford：出会いと化学反応
 
-Texto: mmr｜Tema: Filosofía del universo acústico dibujado por Raja Ram y Simon Posford
+文：mmr｜テーマ：Raja RamとSimon Posfordが描く音響宇宙の哲学
 
 
-Shpongle es un monumental proyecto psicodélico/electrónico psicodélico centrado en Simon Posford y Raja Ram. Formados en 1996, inspirados en el eclipse solar total en la India, han presentado un "viaje de audio" que fusiona muestreo étnico, instrumentación acústica y una magistral producción de estudio. Su imagen sonora se distingue del trance de discoteca e invita a los oyentes a una historia que trasciende el tiempo y el espacio.
+Shpongle（シュポングル）は、Simon Posford（サイモン・ポスフォード）とRaja Ram（ラージャ・ラム）を中心としたサイケデリック・エレクトロニカ／プシービエントの金字塔的プロジェクトです。1996年にインドでの皆既日食に触発されて結成され、民族音楽的サンプリング、アコースティック楽器、そして卓越したスタジオ・プロダクションを融合させた「聴覚の旅（audio-journey）」を提示してきました。彼らの音像はクラブ志向のトランスとは一線を画し、リスナーを時間と空間を超える物語へと誘います。
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Prólogo: El sonido es la puerta a la iluminación
+## 序章：サウンドは悟りへの扉である
 
-Shpongle es más que una simple unidad de música electrónica.
-Es el pináculo espiritual de la música electrónica moderna y encarna la **Iluminación del Sonido**.
+Shpongle（シュポングル）は、単なるエレクトロニック・ミュージックのユニットではない。
+それは**音による悟り（Sound Enlightenment）**を体現した、現代電子音楽の霊的頂点である。
 
-Los miembros son el sabio psicodélico Raja Ram (anteriormente de Quintessence) y el mago sonoro Simon Posford (Hallucinogen).
-La banda nació en 1996 a partir de una sesión casual en los estudios Twisted Records en las afueras de Londres.
-Su sonido es un "mandala de sonido" único que combina conciencia, meditación, visión, filosofía y tecnología.
+メンバーは、サイケデリック界の賢者 Raja Ram（元Quintessence）と、音響魔術師 Simon Posford（Hallucinogen）。
+1996年、ロンドン郊外のTwisted Recordsスタジオでの偶然のセッションから誕生した。
+彼らの音は、意識・瞑想・幻視・哲学・テクノロジーが一体となった、唯一無二の“音の曼荼羅”である。
 
-> "Shpongle es la experiencia de la iluminación a través del oído".
-> — Simón Posford
-
----
-
-## Capítulo 1: Nacimiento de Shpongle y antecedentes históricos de Twisted Records
-
-En la década de 1990, la cultura psicodélica británica se encontraba en una encrucijada en su evolución.
-Una época en la que la locura del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
-En el centro de esta tendencia estaba Twisted Records (1996-).
-
-Twisted lanza música trance espiritual e intelectual centrada en Posford, incluyendo Hallucinogen, Younger Brother, Prometheus y Celtic Cross.
-Shpongle nació con el tema del "viaje al universo interior" en su centro.
+> 「Shpongleとは、聴覚を通じて悟りを体験すること。」
+> — Simon Posford
 
 ---
 
-<div class="sirena">
+## 第一章：Shpongleの誕生とTwisted Recordsの時代背景
 
-diagrama de flujo TD
-A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Twisted Records establecido<br>Centrado en Simon Posford"]
-B --> C["1998: Se forma Shpongle"]
-C --> D["Hermano menor / Alucinógeno / Cruz celta<br>Desarrollo de proyectos relacionados"]
-D --> E["Década de 2000: renacimiento de la cultura psicológica en el Reino Unido"]
-E --> F["década de 2010~: Fusión con la cultura de festivales mundiales"]
+1990年代、英国のサイケデリック・カルチャーは進化の分岐点にあった。
+Goa Tranceの熱狂がヨーロッパを席巻し、LSD文化がテクノロジーと融合する時代。
+この流れの中心にあったのが Twisted Records（1996〜） だ。
+
+TwistedはPosfordを中心に、Hallucinogen、Younger Brother、Prometheus、Celtic Crossなど、精神的かつ知的なトランス音楽を発信。
+Shpongleはその中核として、“内的宇宙への旅”をテーマに誕生した。
+
+---
+
+<div class="mermaid">
+
+flowchart TD
+  A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Twisted Records設立<br>Simon Posford中心"]
+  B --> C["1998: Shpongle結成"]
+  C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>関連プロジェクト展開"]
+  D --> E["2000s: UKサイケ文化再興"]
+  E --> F["2010s〜: 世界フェス文化と融合"]
 
 </div>
 
-Twisted sirvió como la "meca intelectual" de la cultura psicodélica del Reino Unido.
-Esto no es una fantasía de drogas, sino una exploración científica del sonido y la conciencia.
-Shpongle era su símbolo filosófico.
+Twistedは、**UKサイケデリック文化の「知性の聖地」**として機能した。
+薬物幻想ではなく、音と意識の科学的探求。
+Shpongleはその哲学的象徴だった。
 
 ---
 
-## Capítulo 2: La evolución sonora de Shpongle a través de álbumes.
+## 第二章：アルバムで辿るShpongleの音響進化
 
-| Año | Nombre del álbum | Concepto | Enlace |
+| 年    | アルバム名          | コンセプト       | リンク                  |
 | ---- | ----------- | ----------- | -------------- |
-| 1998 | *¿Estás Shpongled?* | El punto de partida de tu viaje sonoro | [Amazon](https://amzn.to/4pQRXpz) |
-| 2001 | *Cuentos de lo Inexpresable* | Fusión étnica de expansión mental | [Amazon](https://amzn.to/46U26sT) |
-| 2005 | *Nada dura... pero nada se pierde* | Impermanencia y Regeneración del Sonido | [Amazon](https://amzn.to/3Wk98SG) |
-| 2009 | *Misterios inefables de Shpongleland* | Sonorización de experiencias místicas | [Amazon](https://amzn.to/4mKX73D) |
-| 2013 | *Museo de la Conciencia* | Museo de la Conciencia | [Amazon](https://amzn.to/3VPumaU) |
-| 2017 | *Códice VI* | Libro de la Conciencia = Finalización de la Reencarnación | [Amazon](https://amzn.to/46DNy1D) |
+| 1998 | *Are You Shpongled?*          | 音の旅の出発点     | [Amazon](https://amzn.to/4pQRXpz) |
+| 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | [Amazon](https://amzn.to/46U26sT) |
+| 2005 | *Nothing Lasts... But Nothing Is Lost*  | 音の無常と再生     | [Amazon](https://amzn.to/3Wk98SG) |
+| 2009 | *Ineffable Mysteries from Shpongleland* | 神秘体験の音響化    | [Amazon](https://amzn.to/4mKX73D) |
+| 2013 | *Museum of Consciousness*               | 意識の博物館      | [Amazon](https://amzn.to/3VPumaU) |
+| 2017 | *Codex VI*                              | 意識の書物＝輪廻の完成 | [Amazon](https://amzn.to/46DNy1D) |
 
 
 ---
 
-Cada álbum es parte del ciclo de la vida - ilusión - iluminación - renacimiento.
-La evolución musical corresponde directamente a la evolución espiritual.
+各アルバムは「生 → 幻 → 悟り → 再生」という輪廻の一部。
+音楽的進化がそのまま精神的進化に対応している。
 
 ---
 
 
-### Capítulo 3: Análisis estructural de cada canción - Reencarnación del sonido
+### 第三章：曲ごとの構造分析 - 音の輪廻
 
-| Etapa | Título de la canción | Aspectos destacados | Significado filosófico |
+| 段階 | 曲名                                 | 聴きどころ          | 哲学的意味       |
 | -- | ---------------------------------- | -------------- | ----------- |
-| Generación | "Momentos Divinos de la Verdad" | Muestra de DMT, ritmo en espiral | Brahman (Creación) |
-| Expansión | "¡Una nueva forma de decir hurra!" | Percusión multicapa | Lila (Juego de los Dioses) |
-| Ilusión | "Nada es algo que valga la pena hacer" | Regeneración del colapso del ritmo | Maya (Ilusión) |
-| Liberación | "Misterios Inefables" | Desaparición del Sonido | Moksha (Liberación) |
-| Reproducción | "El Estado Magumba" | El regreso de la flauta | Saṃsāra |
+| 生成 | “Divine Moments of Truth”          | DMTサンプル、螺旋的リズム | Brahman（創造） |
+| 拡張 | “A New Way to Say Hooray!”         | 多層パーカッション      | Lila（神の遊戯）  |
+| 幻化 | “Nothing Is Something Worth Doing” | リズム崩壊から再生      | Maya（幻影）    |
+| 解脱 | “Ineffable Mysteries”              | 音の消失           | Moksha（解放）  |
+| 再生 | “The Magumba State”                | フルートの帰還        | Saṃsāra（輪廻） |
 
 ---
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-A["Generación<br>(Brahman)"] --> B["Extensión<br>(Lila)"]
-B --> C["Ilusión<br>(Maya)"]
-C --> D["Liberación<br>(Moksha)"]
-D --> A["Reproducir<br>(Saṃsāra)"]
+flowchart TD
+  A["生成<br>(Brahman)"] --> B["拡張<br>(Lila)"]
+  B --> C["幻化<br>(Maya)"]
+  C --> D["解脱<br>(Moksha)"]
+  D --> A["再生<br>(Saṃsāra)"]
 
 </div>
 
 ---
 
-Las canciones de Shpongle crean, destruyen y regeneran universos en una sola canción.
-Escuchar en sí mismo es un acto filosófico.
+Shpongleの曲は、一曲の中で宇宙を生成し、破壊し、再生する。
+聴くこと自体が哲学行為である。
 
 ---
 
-## Capítulo 4: Cronología en vivo y festivales
+## 第四章：ライブとフェス年表
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-L2001["2001: Primera "Twisted Launch Party" en vivo"] --> L2005["2005: Fuji Rock Festival (primera presentación en Japón)"]
-L2005 --> L2009["2009: Anfiteatro Red Rocks, EE.UU."]
-L2009 --> L2014["2014: Gira Shpongletron 3.0"]
-L2014 --> L2017["2017: Festival Boom (Portugal)"]
-L2017 --> L2020["2020: Shpongle Live at Ozora (archivo de vídeo)"]
+flowchart TD
+  L2001["2001：初ライブ “Twisted Launch Party”"] --> L2005["2005：Fuji Rock Festival（日本初公演）"]
+  L2005 --> L2009["2009：Red Rocks Amphitheatre, USA"]
+  L2009 --> L2014["2014：Shpongletron 3.0 ツアー"]
+  L2014 --> L2017["2017：Boom Festival（ポルトガル）"]
+  L2017 --> L2020["2020：Shpongle Live at Ozora（映像アーカイブ）"]
 
 </div>
 
 ---
 
-#### Shpongletron: Mandala de sonido y luz
+#### Shpongletron：音と光のマンダラ
 
-Durante la actuación en vivo, se utiliza un enorme dispositivo de vídeo llamado Shpongletron.
-Las imágenes de Android Jones están sincronizadas con el sonido.
-Raja Ram subirá al escenario como un "gurú ceremonial" y Posford será un "alquimista del sonido".
-La actuación en vivo en sí misma se convierte en una extensión de la experiencia meditativa.
+ライブではShpongletronと呼ばれる巨大映像装置が使用され、
+Android Jonesのヴィジュアルが音と同期。
+Raja Ramは「儀式の導師」、Posfordは「音の錬金術師」として舞台に立つ。
+ライブそのものが瞑想体験の延長となっている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 5: Historia del pensamiento y la filosofía hindú de Raja Ram
+## 第五章：Raja Ramの思想史とヒンドゥー哲学
 
-#### De la cultura hippie al yoga sónico
+#### ヒッピー文化から音のヨーガへ
 
-A finales de la década de 1960, Raja Ram dirigió Quintessence, introduciendo la filosofía hindú en la música rock.
-Puso en práctica musicalmente las ideas de que "sonido = iluminación" y "sonido = dios (Nāda Brahma)".
+1960年代末、Raja RamはQuintessenceを率い、ヒンドゥー哲学をロックに導入。
+「音＝悟り」「音＝神（Nāda Brahma）」という思想を音楽的に実践した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-A1965["1965: Quédate en la India y estudia música clásica"] --> A1969["1969: Formación de Quintessence (Oriental Thought Rock)"]
-A1969 --> A1980["1980: Periodo de meditación/exploración de la conciencia"]
-A1980 --> A1994["1994: Registros TIP establecidos"]
-A1994 --> A1996["1996: Se forma Shpongle"]
-A1996 --> A2020["Década de 2020: Continuar actuando en festivales mundiales"]
+flowchart TD
+  A1965["1965：インド滞在・古典音楽修行"] --> A1969["1969：Quintessence結成（東洋思想ロック）"]
+  A1969 --> A1980["1980：瞑想期・意識探求"]
+  A1980 --> A1994["1994：TIP Records設立"]
+  A1994 --> A1996["1996：Shpongle結成"]
+  A1996 --> A2020["2020s：世界フェス出演継続中"]
 
-relleno de nodo classDef:#fdf6e3,trazo:#555,ancho de trazo:1px,color:#111,tamaño de fuente:14px;
-nodo clase A1965,A1969,A1980,A1994,A1996,A2020;
+  classDef node fill:#fdf6e3,stroke:#555,stroke-width:1px,color:#111,font-size:14px;
+  class A1965,A1969,A1980,A1994,A1996,A2020 node;
 
 </div>
 
 ---
 
-| Filosofía hindú | Correspondencia musical |
+| ヒンドゥー哲学        | 音楽的対応        |
 | -------------- | ------------ |
-| **Brahmán** | Energía creativa del sonido |
-| **Maya (Fantasma)** | Cambios de sonido y multicapas |
-| **Atman (yo)** | Conciencia interior del oyente |
-| **Lila (jugar)** | Humor y transformación en la canción |
-| **Nāda (sonido)** | Vibración del universo = sonido mismo |
+| **Brahman（梵）** | 音の創造エネルギー    |
+| **Maya（幻）**    | サウンドの変化と多層化  |
+| **Atman（我）**   | リスナーの内的意識    |
+| **Lila（戯れ）**   | 曲中のユーモアと変容   |
+| **Nāda（音）**    | 宇宙の振動＝音響そのもの |
 
 
-Para Raja Ram, el sonido es oración y Shpongle es su mantra.
+Raja Ramにとって音は祈りであり、Shpongleはそのマントラである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 6: Simon Posford - La filosofía de producción del mago del sonido
+## 第六章：Simon Posford - 音響魔術師の制作哲学
 
-Posford combina sintetizadores clásicos (Virus, Nord Lead, Roland SH-101) con DAW modernos (Logic Pro, Ableton).
-Se superponen docenas de capas de sonido para diseñar intencionalmente "resonancia con ondas cerebrales".
-Sus obras tienen una estructura consistente de tres capas: rango bajo = cuerpo, armónicos = conciencia y reverberación = espiritualidad.
+Posfordは、古典的シンセ（Virus, Nord Lead, Roland SH-101）と現代DAW（Logic Pro, Ableton）を融合。
+音の層を何十にも重ね、「脳波との共鳴」を意図的に設計する。
+彼の作品では、低音域＝身体、倍音＝意識、残響＝霊性という三層構造が一貫している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Ejemplo de flujo de trabajo de producción
+#### 制作ワークフロー例
 
-- Muestreo de sonidos naturales y étnicos.
+- 自然音・民族音声のサンプリング
 
-- Procesamiento microtonal (Detuning) en sintetizadores
+- シンセで微分音的処理（Detuning）
 
-- Inversión de fase y reverberación inversa.
+- 位相反転とリバースリバーブ
 
-- Sincronizado con el ritmo de las ondas cerebrales (Theta/Alpha)
+- 脳波リズム（Theta / Alpha）に同期
 
-- Reconstrucción en el espacio 3D (Ambisonics)
+- 立体空間で再構築（Ambisonics）
 
-> "Más que crear sonidos, tengo ganas de guiar los sonidos que aparecen".
-> — Simón Posford
+> 「音を作るというより、“現れる音”を導く感覚なんだ。」
+> — Simon Posford
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 7: Análisis comparativo con Hermano Joven/Alucinógeno
+## 第七章：Younger Brother / Hallucinogenとの比較分析
 
-| Proyecto | Dirección | Espiritualidad | Características de sonido |
-| -------------------- | -------- | ------- | -------- |
-| **Alucinógeno** | Alucinación externa | Trance químico | BPM rápido/nítido |
-| **Hermano menor** | Exploración espiritual interior | Emociones/Letras | Orgánico/orientado al pop |
-| **Spongle** | Fusión de conciencia y espacio | Filosofía/Espiritualidad | Acústica superconstructiva/multicapa |
+| プロジェクト              | 方向性      | 精神性     | 音の特徴      |
+| ------------------- | -------- | ------- | --------- |
+| **Hallucinogen**    | 外的幻覚     | 化学的トランス | BPM速・鋭い   |
+| **Younger Brother** | 内的精神探求   | 感情・叙情性  | 有機的／ポップ寄り |
+| **Shpongle**        | 意識と宇宙の融合 | 哲学・霊性   | 超構築的・多層音響 |
 
 ---
 
-#### Alucinógeno (Simon Posford) @ Ozora Festival 2015
+#### Hallucinogen (Simon Posford) @ Ozora Festival 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Hermano menor "Dando vueltas en su lugar"
+#### Younger Brother "Spinning Into Place"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 8: Nāda Brahma y las prácticas de meditación sonora
+## 第八章：Nāda Brahmaと音響瞑想の実践
 
-#### ¿Qué es Nāda Brahma?
+#### Nāda Brahmaとは？
 
-> "El universo es sonido y el sonido es Dios".
+> 「宇宙は音であり、音は神である。」
 
-Esta antigua filosofía india es la base de Shpongle.
-El sonido nace, cambia, desaparece y se regenera nuevamente.
-Esa es la reencarnación misma.
+この古代インドの思想は、Shpongleの根幹。
+音は生まれ、変化し、消え、また再生する。
+それが輪廻そのものだ。
 
-#### Método de meditación acústica estilo Shpongle
+#### Shpongle式 音響瞑想法
 
-- Respira en el cuarto oscuro.
+- 暗室で呼吸を整える
 
-- Juega Momentos Divinos de la Verdad
+- 『Divine Moments of Truth』を再生
 
-- Centrarse en el momento en que "nace" el sonido.
+- 音が“生まれる”瞬間に意識を集中
 
-- Las capas de sonido se expanden y las fronteras desaparecen.
+- 音の層が拡がり、境界が消える
 
-- Escucha tu voz interior cuando llegues al silencio.
+- 無音に至ったとき、内なる音を聴く
 
-Científicamente, las ondas alfa y theta se vuelven dominantes, lo que lleva a un estado meditativo profundo.
-El sonido de Shpongle es como la campana de un templo en el cerebro.
+科学的には、α波・θ波が優位化し、深い瞑想状態に導かれる。
+Shpongleの音は脳内寺院の鐘のようなものだ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 9: Resonancia con imágenes psicodélicas
+## 第九章：サイケデリック・ヴィジュアルとの共振
 
-Shpongle se completa no sólo con el sonido sino también con la resonancia del arte visual.
-Es especialmente famoso por sus colaboraciones con Android Jones (pintor de visión digital) y Alex Gray (pintor espiritual).
+Shpongleは音だけでなく、視覚芸術との共鳴によって完成する。
+特に Android Jones（デジタル幻視画家）や Alex Grey（スピリチュアル画家）とのコラボは有名。
 
 ---
 
-| Artista | Trabajos/Relación | Características |
+| アーティスト            | 作品／関係             | 特徴         |
 | ----------------- | ----------------- | ---------- |
-| **Android Jones** | Shpongletrón Visual | Generación Visual Mandala |
-| **Alex Gris** | Compartiendo el tema de "sonido = luz = conciencia" | Expresión de fusión del cuerpo humano y el universo |
+| **Android Jones** | Shpongletronビジュアル | 視覚的マンダラ生成  |
+| **Alex Grey**     | 「音＝光＝意識」テーマ共有     | 人体と宇宙の融合表現 |
 
 ---
 
@@ -293,59 +293,59 @@ Es especialmente famoso por sus colaboraciones con Android Jones (pintor de visi
 
 ---
 
-#### Alex Gray y Shpongle
+#### Alex Grey & Shpongle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 10: Psicoacústica de Shpongle: interacción del cerebro y la conciencia
+## 第十章：Shpongleの音響心理学 - 脳と意識の相互作用
 
-Posford construye el sonido como un ritual neurológico.
-El bajo ondulante resuena con la variabilidad del ritmo cardíaco y los matices de la flauta estimulan la glándula pineal en el cerebro.
-Esta estructura provoca un fenómeno psicológico llamado "viaje acústico".
-
----
-
-| Elementos acústicos | Efectos fisiológicos | Experiencias psicológicas |
-| ------ | -------- | -------- |
-| Base de baja frecuencia | Sincronización de la respiración y los latidos del corazón | Sensación de puesta a tierra |
-| Armónicos de alta frecuencia | Actividad de la glándula pineal | Alucinaciones visuales/dilatación del tiempo |
-| Reverberación reverberación | Ampliación de la localización espacial | Disolución del ego |
-| Polirritmo | Retraso cognitivo | Sensación flotante de ensueño |
-
-Científicamente, Shpongle es un proyecto para "reconstruir el cerebro con sonido".
+Posfordは音を神経学的儀式として構築する。
+低音のうねりは心拍変動と共鳴し、フルートの倍音は脳の松果体を刺激する。
+この構造は「音響トリップ」と呼ばれる心理現象を引き起こす。
 
 ---
 
-## Capítulo final: La iluminación como sonido: el significado de la existencia de Shpongle
+| 音響要素   | 生理的影響    | 心理的体験     |
+| ------ | -------- | --------- |
+| 低周波ベース | 呼吸・心拍の同期 | グラウンディング感 |
+| 高周波倍音  | 松果体活性    | 幻視・時間伸張   |
+| リバーブ残響 | 空間定位の拡張  | 自我の溶解     |
+| ポリリズム  | 認知遅延     | 夢幻的浮遊感    |
 
-dice Raja Ram.
+科学的にも、Shpongleは「音で脳を再構築する」プロジェクトである。
 
-> "Soy un viajero sonoro. En lugar de buscar a Dios, me despierto en el sonido."
+---
 
-Shpongle es una escritura del siglo XXI nacida en la intersección de la tecnología y la espiritualidad.
-Los sonidos electrónicos se convierten en mantras, los ritmos en meditación y la escucha en oración.
+## 終章：音としての悟り - Shpongleの存在意義
 
-El sonido nace, cambia, vuelve al silencio y vuelve a revivir.
-Este ciclo interminable es el "Saṃsāra del Sonido", y es el mismo mundo que Shpongle representa.
+Raja Ramは言う。
 
-> "Nada dura... pero nada se pierde".
-> - Todo desaparece, pero nada se pierde.
+> 「私は音の旅人だ。神を探す代わりに、音の中で目覚める。」
+
+Shpongleとは、テクノロジーと霊性の交差点で生まれた21世紀の経典。
+電子音がマントラとなり、ビートが瞑想となり、聴くことが祈りになる。
+
+音は生まれ、変化し、沈黙へと帰り、再び甦る。
+その無限の循環こそが「音の輪廻（Saṃsāra of Sound）」であり、Shpongleが描く世界そのものだ。
+
+>  “Nothing Lasts... But Nothing Is Lost.”
+> ― すべては消え、しかし何も失われない。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Irz9PNHqt-Y?si=uVuPKwcOluvrnRII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Conclusión
+## 結語
 
-Shpongle es la encarnación del siglo XXI de la "iluminación a través del sonido".
-El sonido trasciende la ciencia, la filosofía, la religión y la tecnología.
-Él está reconstruyendo la conciencia humana misma como sonido.
+Shpongleは「音による悟り」を21世紀の形で体現した存在である。
+その音は、科学・哲学・宗教・テクノロジーを超えて、
+人間の意識そのものを音として再構築している。
 
-No es sólo música.
-Es una evolución del propio acto de "escuchar",
-Es el mandala de la conciencia que Raja Ram y Simon Posford dejaron a la humanidad.
+それは単なる音楽ではない。
+それは「聴く」という行為そのものの進化であり、
+Raja RamとSimon Posfordが人類に残した、意識の曼荼羅なのだ。
 
-> "El sonido nace, desaparece y regresa. Eso es Shpongle."
+> 「音は生まれ、消え、また還る。 それが、Shpongleするということ。」
 

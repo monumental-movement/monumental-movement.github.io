@@ -8,59 +8,59 @@ layout: post
 tags:
 - Rock
 - Pops
-title: 'Band Aid: ¿saben que es Navidad?'
+title: Band Aid – Do They Know It's Christmas
 ---
 
 
-Band Aid es un grupo de proyecto benéfico formado por Bob Geldof y Midge Ure en 1984 para recaudar fondos para los esfuerzos de erradicación del hambre en Etiopía, reuniendo a superestrellas del pop y el rock británico e irlandés.
+Band Aid（バンドエイド）は、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。
 
-[Artistas participantes] son ​​los siguientes.
+ 【参加アーティスト】は以下の通りです。
 
-・Phil Collins (Génesis)
+・フィル・コリンズ（ジェネシス）
 
-・Ratas de Boomtown
+・ブームタウン・ラッツ
 
-・Ballet Spandau
+・スパンダー・バレエ
 
-・Midge Ure, Chris Cross (Ultravox)
+・ミッジ・ユーロ、クリス・クロス（ウルトラヴォックス）
 
-・Durán Durán
+・デュラン・デュラン
 
-・Pablo joven
+・ポール・ヤング
 
-・Cielo 17
+・ヘヴン17
 
-・Marylin
+・マリリン
 
-・Plátanorama
+・バナナラマ
 
-・Jody Watley (Shalamar)
+・ジョディ・ワトリー（シャラマー）
 
-・Bono, Adam Clayton (U2)
+・ボノ、アダム・クレイトン（U2）
 
-・Paul Weller (Consejo de estilo)
+・ポール・ウェラー（スタイル・カウンシル）
 
-・Kool y la pandilla
+・クール&ザ・ギャング
 
-・George Michael (¡zas!)
+・ジョージ・マイケル（ワム!）
 
-·Status quo
+・ステイタス・クォー
 
-・Boy George, Jon Moss (Club de Cultura)
+・ボーイ・ジョージ、ジョン・モス（カルチャー・クラブ）
 
-・Sting (Policía)
+・スティング（ポリス）
 
-・David Bowie
+・デヴィッド・ボウイ
 
-・Frankie va a Hollywood
+・フランキー・ゴーズ・トゥ・ハリウッド
 
-・Paul McCartney
+・ポール・マッカートニー 
 
-・País grande
+・ビッグ・カントリー
 
-・Trevor Horn
+・トレヴァー・ホーン
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Do They Know It's Christmas? (12" Mix)
 
@@ -68,7 +68,7 @@ B1. Do They Know It's Christmas? (Standard Mix)
 
 B2. Feed The World
 ```
-[Comprar en Mercari](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

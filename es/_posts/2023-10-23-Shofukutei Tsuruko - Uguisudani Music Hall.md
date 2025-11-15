@@ -9,22 +9,22 @@ tags:
 - Comic
 - Parody
 - 7inch
-title: Shofukutei Tsuruko - Sala de Música Uguisudani
+title: Shofukutei Tsuruko - Uguisudani Music Hall
 ---
 
 
-"Uguisudani Music Hall" es una canción cómica lanzada por Shofutei Tsurumitsu en mayo de 1975.
+「うぐいすだにミュージックホール」は、笑福亭鶴光が1975年5月に発売したコミックソング。
 
-Letra, composición, arreglo - Masayuki Yamamoto
+作詞・作曲・編曲 - 山本正之
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. うぐいすだにミュージックホール
 
 B. ももえちゃん
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rIY6pajpd70?si=LdF0932ixHxFOtbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

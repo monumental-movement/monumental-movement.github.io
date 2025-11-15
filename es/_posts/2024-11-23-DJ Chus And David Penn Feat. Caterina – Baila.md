@@ -10,16 +10,16 @@ tags:
 - Deep House
 - House
 - 00s
-title: DJ Chus y David Penn hazaña. Caterina – Baila
+title: DJ Chus And David Penn Feat. Caterina – Baila
 ---
 
 
-Un remix de la famosa canción "Baila" de DJ Chus y David Penn realizada por el DJ y productor estadounidense Dennis Ferrer, famoso por "Hey Hey".
+DJ Chus&David Pennの名曲「Baila」を「Hey Hey」で有名なUSハウスDJ＆プロデューサーDennis Ferrer(デニス・フェラー)がremix。
 
-Una pista de house tribal/deep house lanzada en 2003 por el prestigioso sello de música dance del Reino Unido Defected.
+UKの名門ダンスミュージックレーベルDefectedから2003年にリリースされたトライバルハウス・ディープハウストラック。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 This Side
 A1. Baila (Dennis Ferrer Bergentine Mix)
@@ -29,7 +29,7 @@ That Side
 AA1.Baila (Peter "Tha Zouk" & Bruno Marciano Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdks0tZnUs4?si=C5CQdGWESB1NuhDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - 00s
-title: Técnico de encendido - Oh The Guilt E.P.
+title: Ignition Technician – Oh The Guilt E.P.
 ---
 
 
-Ignition Technician es un equipo de producción de techno fundado en 1999 por Pete Simpson y Richard Wilkinson de Leeds, Reino Unido.
+Ignition Technicianは、1999年にスタート したUK・リーズ出身のPete SimpsonとRichard WilkinsonによるTechnoプロダクションチーム。
 
-Descubiertos temprano por Carl Cox, DJ como Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel y Colin Murry comenzaron a reproducir discos de Ignition Technician.
+初期にCarl Cox に見い出され、Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel, Colin MurryなどのDJたちもIgnition Technicianのレコードをプレイするようになった。
 
-"Oh, la culpa E.P." es una pista de Techno lanzada en 2002 en Ignition Records, un sello dirigido por Ignition Technician.
+「Oh The Guilt E.P.」は、Ignition Technicianが運営するレーベルIgnition Recordsから2002年にリリースしたTechnoトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Oh The Guilt
 
@@ -26,7 +26,7 @@ B1. Slunk
 B2. Funka
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7JJnn1J8PU?si=2F2Ih7jowIiUXR54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

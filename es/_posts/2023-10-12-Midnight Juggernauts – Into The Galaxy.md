@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Electro
-title: Gigantes de medianoche – Hacia la galaxia
+title: Midnight Juggernauts – Into The Galaxy
 ---
 
 
-Midnight Juggernauts fue una banda australiana de música electrónica que estuvo activa de 2004 a 2014, ganando popularidad por su sonido único que incorporaba elementos de electrónica, indie y synth pop. "Into The Galaxy" es conocida como una de sus canciones emblemáticas.
+Midnight Juggernauts（ミッドナイト・ジャガーノーツ）は、2004年から2014年まで活動したオーストラリアのエレクトロニック・ミュージックバンドで、エレクトロニック、インディー、シンセポップなどの要素を取り入れた独自のサウンドで人気を博した。「Into The Galaxy」は、彼らの代表曲の一つとして知られている。
 
-La segunda pista de la cara A es un remix de Chateau Marmont, fundador de Chambre404, un productor de música electrónica francés y equipo de intérpretes en vivo con sede en París.
+A面２曲目は、パリを拠点とするフランスの電子音楽プロデューサー兼ライブパフォーマー チームであり、Chambre404の創設者のChateau Marmontによるremix。
 
-La primera canción de la cara B es un remix de la banda británica de electrónica/alternativa Metronomy. La segunda canción de la cara B es un remix del músico y productor electrónico francés Danger (Franck Rivoire).
+B面１曲目は、イギリスのエレクトロニック/オルタナティブバンドMetronomyによるremix。B面２曲目はフランスの電子ミュージシャン/プロデューサーDanger（Franck Rivoire）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Into The Galaxy (Original Mix)
 
@@ -29,7 +29,7 @@ B1. Into The Galaxy (Metronomy Remix)
 B2. Into The Galaxy (Danger Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iaO4YNchqeA?si=8CQC6ALqkrEWpxgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

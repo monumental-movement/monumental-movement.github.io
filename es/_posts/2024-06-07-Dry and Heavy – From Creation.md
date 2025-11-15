@@ -9,18 +9,18 @@ tags:
 - Dub
 - Reggae
 - 00s
-title: 'Seco y pesado: desde la creación'
+title: Dry & Heavy – From Creation
 ---
 
 
-Dry&Heavy es una banda japonesa de reggae dub formada en 1991 por el baterista Shigeki Nanao (Dry) y el bajista Takeshi Akimoto (Heavy).
-El sonido de Dry&Heavy está influenciado por sonidos dub jamaicanos de la década de 1970, como King Tubby y Lee Perry, y han tenido éxito en festivales de reggae y dub tanto a nivel nacional como internacional.
+Dry&Heavyは、ドラマーの七尾茂基（Dry）とベーシストの秋元武志（Heavy）によって1991年に結成された日本のレゲエ・ダブバンド。
+Dry&Heavyのサウンドは、King Tubby（キング・タビー）やLee Perry （リー・ペリー）など1970年代のジャマイカ・ダブサウンドの影響を感じるスタイルで、国内外のレゲエフェスティバルやダブフェスティバルで成功を収めている。
 
-En 1995, se unieron Rikuru Mai y Ao Inoue. Durante Fuji Rock en 2001, Takeshi Akimoto dejó el grupo y se unió el bajista de Audio Active, Pata. En 2011, comenzaron sus actividades nuevamente como un equipo rítmico original formado por Nanao y Akimoto.
+1995年にリクル・マイや井上青らが加入。2001年のフジロック中に秋元武志が脱退し、Audio ActiveのベーシストPataが加入。2011年からは七尾と秋本によるオリジナルのリズムチームで再度活動を開始した。
 
-"From Creation" es el quinto álbum lanzado por el sello electrónico japonés Beat Records en 2002.
+「From Creation」は、2002年に日本のエレクトロニックレーベルBeat Recordsからリリースされた5枚目のアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Reverse Again
 2. New Creation
@@ -36,7 +36,7 @@ En 1995, se unieron Rikuru Mai y Ao Inoue. Durante Fuji Rock en 2001, Takeshi Ak
 12. Bright Shining Star
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

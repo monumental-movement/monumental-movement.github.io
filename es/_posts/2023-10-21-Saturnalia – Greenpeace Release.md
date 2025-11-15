@@ -8,23 +8,23 @@ layout: post
 tags:
 - Happy Hardcore
 - Hardcore
-title: Saturnalia – Comunicado de Greenpeace
+title: Saturnalia – Greenpeace Release
 ---
 
 
-Saturnalia es el proyecto de los productores británicos Jim Sullivan y Steve McGarrigle. Todos los beneficios de este lanzamiento fueron donados a Greenpeace.
+Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。
 
-El piano y la voz en el lado A son una muestra de "Blue Sky Day" de Mo Lester, y la voz es una muestra de "In Zaire" de African Business.
-La línea del lado B es de la película Star Trek IV: The Long Walk Home.
+A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。 
+B面のセリフは、映画『スタートレックIV 故郷への長い道』から。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. We Need A Blue Sky
 
 AA. All Gone Soon
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m56917355639?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56917355639?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6ldkOHjgM4?si=v3i6X-TELKexMSy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

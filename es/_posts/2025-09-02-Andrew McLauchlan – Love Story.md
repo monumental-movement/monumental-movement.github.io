@@ -9,17 +9,17 @@ tags:
 - Techno
 - Latin
 - 00s
-title: Andrew McLauchlan – Historia de amor
+title: Andrew McLauchlan – Love Story
 ---
 
 
-Andrew McLauchlan es un productor de Escocia. En 1998, fundó el sello Figment con Dan March.
+Andrew McLauchlanは、スコットランド出身のプロデューサー 。1998年にDan MarchとレーベルFigment(フィグメント)を設立。
 
-Conocida como la obra maestra de Andrew McLauchlan, "Love Story" fue lanzada originalmente en la compilación de Figment "Chorusline EP" en 1999, y fue relanzada en 2000 después de haber sido licenciada y remezclada por el venerable sello británico Bush.
+Andrew McLauchlanの代表作として知られている「Love Story 」は、元々1999年にFigmentのコンピレーション「Chorusline EP」でリリースされ、2000年にUKの老舗レーベルBush(ブッシュ・レコード)にライセンス&リミックスされ、再リリースされた。
 
-A es un remix del dúo de techno sueco Devilfish.
+Aは、スウェーデン拠点のテクノ・デュオDevilfish（デヴィルフィッシュ）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 This Side
 A. Love Story (Devilfish Remix)
@@ -28,7 +28,7 @@ Other Side
 B. Love Story (Re-Edit)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76199450663?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76199450663?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qa0vlPPr0VU?si=50GM5ska7Cl1ABft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

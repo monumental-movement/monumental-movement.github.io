@@ -10,198 +10,197 @@ tags:
 - Ambient
 - House
 - Italo
-title: '[Columna] Cosmic Sound y Daniele Baldelli - bailando entre el espacio y la
-  velocidad'
+title: 【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る
 ---
 
 
-## 1. Prólogo: Donde nació la discoteca espacial
+## 1. 序章：宇宙のディスコが生まれた場所
 
 
-Texto: mmr｜Tema: Trazando la filosofía de sonido única creada por una mezcla de diferentes dimensiones, manipulación de velocidad y la fusión de música folk y sonidos electrónicos.
+文：mmr｜テーマ：異次元的ミックス、速度の操作、民族音楽と電子音の融合が築いた唯一無二のサウンド哲学を辿る
 
-Finales de los años 70, a orillas del lago de Garda, en el norte de Italia.
-Nadie sabía que este lugar, que era sólo un centro turístico para turistas, más tarde se convertiría en el centro de un fenómeno acústico llamado **Cosmic Sound**.
-La figura central es **Daniele Baldelli**.
-No es sólo un DJ, sino que se ha hecho conocido como un "arquitecto que reconstruye la velocidad del sonido y el espacio".
+1970年代末、北イタリアのガルダ湖畔。  
+観光客のためのリゾート地にすぎなかったこの場所が、後に「**Cosmic Sound**」という名の音響現象の中心地になるとは誰も思っていなかった。  
+その中心人物が**Daniele Baldelli（ダニエレ・バルデッリ）**。  
+彼は、単なるDJではなく、**「音の速度と空間を再構築する建築家」**として語られる存在となった。
 
-La escena disco de la época estaba dominada por los ritmos 4/4, representados por el soul americano y la música house.
-Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock progresivo, tambores africanos e incluso krautrock.
-**Presentamos el concepto de "tempo cósmico"**, que te permite cambiar libremente los BPM.
+当時のディスコ・シーンは、アメリカ発のソウルやハウスに代表される4/4リズムが主流。  
+だがBaldelliは、そこに**民族音楽・電子音・プログレ・ロック・アフリカン・ドラム・クラウトロック**までを織り交ぜ、  
+**BPMを自在に変化させる「コズミック・テンポ」**という概念を提示した。
 
-> "No creo en los géneros. Sólo creo en el flujo del sonido."
+> 「私はジャンルを信じない。信じるのは“音の流れ”だけだ。」  
 > ― Daniele Baldelli
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## 2. ¿Qué es el Sonido Cósmico? - Una experiencia acústica indefinible.
+## 2. Cosmic Soundとは何か ― 定義不能の音響体験
 
-Cosmic Sound a menudo se traduce como "discoteca cósmica".
-Pero eso no se refiere sólo al diseño de sonido de ciencia ficción.
-Más bien, se refiere a **la interpretación de DJ que distorsiona el tiempo y la gravedad** misma.
+Cosmic Sound（コズミック・サウンド）は、「宇宙的ディスコ」と訳されることが多い。  
+だが、それは単にSF的なサウンドデザインを意味するのではない。  
+むしろ、**時間と重力を歪めるようなDJプレイ**そのものを指す。
 
-### Elementos característicos
+### 特徴的要素
 
-- **Fluidez del tempo**:
-Reproduce un disco de 45 rpm a 33 rpm y ajusta aún más el tono en más de ±8%.
-Esto hace que la misma pista suene como una señal de un planeta desconocido.
+- **テンポの流動性**：  
+  45回転のレコードを33回転で再生し、さらにピッチを±8%以上調整。  
+  これにより、同じトラックがまるで未知の惑星からの信号のように聴こえる。
 
-- **Mezcla Cultural**:
-Una mezcla de krautrock alemán (Can, Neu!), música africana, ambient electrónico y disco sintetizado italiano.
-Es como una máquina de discos extraterrestre.
+- **異文化混交**：  
+  ジャーマン・クラウトロック（Can, Neu!）とアフリカ音楽、電子アンビエント、伊産シンセ・ディスコを混合。  
+  まるで地球外のジュークボックス。
 
-- **Rituales**:
-En Cosmic Club, se suprimen las luces y las bolas de espejos y, en cambio, el humo y los proyectores dominan el espacio.
-En lugar de bailar, el público tuvo la experiencia de estar "sumergido" en el sonido.
-
----
-
-## 3. La filosofía de juego de Baldelli: una revolución de la conciencia hacia la "velocidad"
-
-La verdadera innovación de Daniele Baldelli fue tratar la velocidad (tempo) como un elemento musical.
-él habla.
-
-> ""Es fácil mezclar géneros musicales.
-> Sin embargo, ""cosmizarlos'' a una velocidad es una cuestión de sensibilidad, no de tecnología. "
-
-Sus mezclas van desde funk de 110 BPM hasta percusión afro de 85 BPM y ambiente de sintetizador ralentizado.
-**Se transfiere sin problemas**. Ni siquiera puedes sentir los límites entre las canciones.
-Durante toda la noche se siente como si una nave espacial descendiera y se saliera de órbita.
+- **リチュアル（儀式）性**：  
+  Cosmic Clubでは、照明もミラーボールも抑え、代わりにスモークとプロジェクターが空間を支配。  
+  聴衆は踊るというよりも、**音に“没入”する体験**をしていた。
 
 ---
 
-## 4. Ciencia de los materiales sonoros: reubicación de fuentes de sonido en Cosmic
+## 3. Baldelliのプレイ哲学 ― 「速度」への意識革命
 
-Baldelli fue un pionero de los DJ que trataban las canciones como "material".
-Había una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
+Daniele Baldelliが真に革新的だったのは、**速度（tempo）を音楽的要素として扱ったこと**である。  
+彼は語る。
 
-| Fuentes utilizadas | Ejemplos específicos |
+> 「音楽のジャンルを混ぜることは簡単だ。  
+>  しかし、それらを**ひとつの速度で“宇宙化”すること**は、技術ではなく感性の問題なんだ。」
+
+彼のミックスでは、BPM 110のファンクからBPM 85のアフロ・パーカッションへ、さらにスローダウンしたシンセ・アンビエントへと  
+**なめらかに転移**する。そこには「曲の境界」すら感じられない。  
+まるで一晩を通して、**宇宙船が軌道を下りたり上がったりする**ような感覚が生まれる。
+
+---
+
+## 4. 音の素材学 ― Cosmicにおけるサウンドソースの再配置
+
+Baldelliは、楽曲を「素材」として扱うDJの先駆けだった。  
+ターンテーブル上で、録音された音を再び「作曲」するという意識が強かった。
+
+| 用いたソース | 具体例 |
 |:--|:--|
-| Kraftwerk | Kraftwerk, Can, Ash Ra Tempel |
-| Música electrónica italiana | Claudio Gizzi, Tulio De Piscopo |
-| Sonidos afro/étnicos | Manu Dibango, Fela Kuti |
-| Tema espacial | Espacio, Cohetes, Cerrone |
-| Banda sonora | Morricone, Carpintero, Duende |
+| クラウトロック | Kraftwerk, Can, Ash Ra Tempel |
+| 伊産電子音楽 | Claudio Gizzi, Tullio De Piscopo |
+| アフロ／民族音 | Manu Dibango, Fela Kuti |
+| 宇宙テーマ | Space, Rockets, Cerrone |
+| サウンドトラック | Morricone, Carpenter, Goblin |
 
-Esta mezcla multicultural fue la precursora del posterior **Balearic Sound**, **Leftfield Disco**, así como de **Downtempo** y **Nu Disco**.
-
----
-
-## 5. Estructura interna de Cosmic Club - El campo sonoro como arquitectura
-
-### lugar:
-""**Discoteca Cosmic**'' a orillas del lago de Garda, norte de Italia (1979–1984)
-
-### Características:
-- Techos bajos y ecos únicos.
-- **Humo + irradiación láser** en el suelo
-- La cabina de DJ de Baldelli está instalada en una colina y tiene una estructura que proyecta sonido desde arriba del público.
-- Un espacio dominado por la "oscuridad" en lugar de la luz.
-
-En este club, "derivar" era más importante que "bailar".
-Los visitantes se dejan transportar por el sonido y pierden el sentido del tiempo.
-Cósmico era ""meditación en la noche''**.
+この多文化的混合こそ、後の**Balearic Sound**や**Leftfield Disco**、さらに**ダウンテンポ**、**Nu Disco**の原型となった。
 
 ---
 
-## 6. Tecnología Baldelli: la magia de lo analógico
+## 5. Cosmic Clubの内部構造 ― 建築としての音場
 
-El equipo que utiliza tiene características distintivas que lo diferencian de otros DJ de discoteca.
+### 場所：
+北イタリア、ガルダ湖畔の「**Discoteca Cosmic**」（1979–1984）
 
-- Technics SL-1200 (2 unidades) + pletina Revox
-- Roland Espacio Eco RE-201
-- Ecualizador multitono Eko
-- Bucle de muestra con cinta Reel-to-Reel
+### 特徴：
+- 天井が低く、反響が独特  
+- フロアには**スモーク＋レーザー照射**  
+- BaldelliのDJブースは高台に設置され、**観客の上から音を浴びせる**構造  
+- 光よりも“闇”が支配する空間
 
-Utilizándolos, creó una actuación en vivo **"respiración rítmica"**.
-Usando la repetición de cinta, el mismo sonido se reorganiza con un ligero cambio.
-Se puede decir que esta fue la prehistoria de la música sampler posterior.
+このクラブでは、「踊ること」よりも「漂うこと」が重視された。  
+来場者たちは、音の中でトリップし、時間の感覚を失う。  
+Cosmicとは、**「夜の中の瞑想」**だったのである。
 
 ---
 
-## 7. Herencia y variación – de lo cósmico a lo balear
+## 6. Baldelliの技術 ― アナログの魔術
 
-A finales de los 80, los DJ de Ibiza Alfredo y José Padilla heredaron la filosofía Cosmic de Baldelli.
-Esto se convirtió en una tendencia llamada "Balearic Beat", que más tarde cambió fundamentalmente la **cultura de discotecas del Reino Unido**.
+彼の使用機材には、他のディスコDJとは明らかに異なる特徴がある。
 
-| Genealogía | Personas representativas |
+- Technics SL-1200（2台）＋Revoxテープデッキ  
+- Roland Space Echo RE-201  
+- Eko Multitone EQ  
+- Reel-to-Reelテープによるサンプルループ  
+
+これらを用いて、彼は生演奏的な**“リズムの呼吸”**を作り出した。  
+テープのリピートを利用して、同じ音を微妙にズラして再配置する。  
+これが後の**サンプラー音楽の前史**となったとも言える。
+
+---
+
+## 7. 継承と変異 ― CosmicからBalearicへ
+
+1980年代後半、IbizaのDJ AlfredoやJosé PadillaがBaldelliのCosmic哲学を受け継ぐ。  
+それが「Balearic Beat」と呼ばれる潮流へと発展し、後に**UKクラブカルチャー**を根底から変える。  
+
+| 系譜 | 代表人物 |
 |:--|:--|
-| Cósmico (Norte de Italia) | Daniele Baldelli, Beppe Loda |
-| Baleares (Ibiza) | DJ Alfredo, José Padilla |
-| Reino Unido Chillout/Nu Disco | Andrew Weatherall, El Orbe, Príncipe Thomas |
+| Cosmic（伊北部） | Daniele Baldelli, Beppe Loda |
+| Balearic（Ibiza） | DJ Alfredo, José Padilla |
+| UK Chillout/Nu Disco | Andrew Weatherall, The Orb, Prins Thomas |
 
-Esta tendencia no es sólo un "género musical";
-**Fue la difusión internacional de la ""sensación de que el sonido fluye a lo largo del tiempo****.
+この流れは、単なる「音楽ジャンル」ではなく、  
+**音を“時間的に流す感覚”の国際的伝播**だった。
 
 ---
 
-## 8. Cronología: Sonido Cósmico y la trayectoria de Baldelli
+## 8. 時代年表：Cosmic SoundとBaldelliの軌跡
 
-<div class="sirena">
+<div class="mermaid">
 
-línea de tiempo
-título Cronología del sonido cósmico y Daniele Baldelli (1977-2025)
-1977: Baldelli comienza a pinchar (Baia degli Angeli)
-1979: Inauguración de la Discoteca Cosmic (Lago de Garda)
-1980: Estableció el estilo Cosmic Sound y comenzó a usar Revox.
-1984: Cosmic cerró, se convirtió en leyenda.
-1990: Reevaluación del mixtape "Cosmic: The Original"
-2000: Redescubierto por la generación Nu-Disco
-2013: "¿Disco Cósmico? ¡Rock Cósmico!" compilación publicada
-2020: Baldelli, gira del 45 aniversario como DJ
-2025: La investigación de Cosmic Sound se establece como un campo de la historia de la cultura de clubes.
+timeline
+    title Cosmic SoundとDaniele Baldelliの年表（1977–2025）
+    1977 : Baldelli、DJ活動を開始（Baia degli Angeli）
+    1979 : Discoteca Cosmicオープン（ガルダ湖畔）
+    1980 : Cosmic Soundスタイル確立、Revox使用開始
+    1984 : Cosmic閉店、伝説化
+    1990 : "Cosmic: The Original"ミックステープが再評価
+    2000 : Nu-Disco世代により再発見
+    2013 : 『Cosmic Disco? Cosmic Rock!』コンピ発売
+    2020 : Baldelli、DJ活動45周年記念ツアー
+    2025 : Cosmic Sound研究がクラブカルチャー史の一分野として確立
 
 </div>
 
 ---
 
 
-## 9. Ilustración: Modelo estructural del Sonido Cósmico
+## 9.図版：Cosmic Soundの構造モデル
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-A["Ritmo afro/étnico (cuerpo)"] --> C["Conversión de velocidad (operación BPM)"]
-B["Sonido electrónico/krautrock (inteligencia)"] --> C
-C --> D["Reconstrucción del espacio acústico (reverberación/eco)"]
-D --> E["Sonido Cósmico (fusión de cuerpo e intelecto)"]
+flowchart TD
+    A["アフロ／民族リズム（身体）"] --> C["速度変換（BPM操作）"]
+    B["電子音・クラウトロック（知性）"] --> C
+    C --> D["音響空間の再構築（リヴァーブ／エコー）"]
+    D --> E["Cosmic Sound（身体と知性の融合）"]
 
 </div>
 
 ---
 
-## 10. Conclusión: Bailar a la velocidad del universo.
+## 10. 結語：宇宙の速度で踊るために
 
-Cosmic Sound es el área más indefinible en la historia de la discoteca.
-Allí, género, country, velocidad y cultura se mezclan y emerge una **"filosofía del sonido"**.
-Daniele Baldelli presentó la filosofía como una "traducción al espacio".
+Cosmic Soundは、ディスコの歴史の中で**最も定義不可能な領域**だ。
+そこでは、ジャンル・国・速度・文化が溶け合い、**“音の哲学”**が浮かび上がる。
+Daniele Baldelliは、その哲学を「宇宙への翻訳」として提示した。
 
-Algunos de los DJ de hoy, especialmente artistas que trabajan con tempos más lentos y material intercultural (Harvey, Tornado Wallace, Young Marco, etc.),
-Ese ADN ciertamente está vivo y coleando.
+今日のDJたち――特にゆったりとしたテンポや異文化的素材を扱うアーティスト（Harvey、Tornado Wallace、Young Marcoなど）――の中には、
+確かにそのDNAが息づいている。
 
-> "Cósmico significa buscar el universo interior, no el universo".
+> 「Cosmicとは、宇宙ではなく“内なる宇宙”を探すことなんだ。」
 > ― Daniele Baldelli
 
 ---
 
-## Discografía
+## ディスコグラフィ
 
-- [Baldelli, Daniele. Cósmico: El Original. Música ampliada, 1990.](https://amzn.to/4qtWTRp)
+- [Baldelli, Daniele. Cosmic: The Original. Expanded Music, 1990.](https://amzn.to/4qtWTRp)
 
-- [¿Disco Cósmico? ¡Roca Cósmica! (Recopilación, Eskimo Recordings, 2013)](https://amzn.to/4o6MIR5)
+- [Cosmic Disco? Cosmic Rock! (Compilation, Eskimo Recordings, 2013)](https://amzn.to/4o6MIR5)
 
 ---

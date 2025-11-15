@@ -10,17 +10,17 @@ tags:
 - Indie Rock
 - New-Wave
 - Rock
-title: El Rapto – En la gracia de tu amor
+title: The Rapture – In The Grace Of Your Love
 ---
 
 
-The Rapture es una banda estadounidense de dance punk rock de Nueva York formada en 1998. Se disolvieron en 2014, pero reanudaron sus actividades en 2019.
+The Raptureは、1998年に結成されたNY出身のUSのダンスパンク・ロックバンド。2014年に解散したが、2019年から活動を再開した。
 
-Mezclan varios géneros musicales como dance punk, post-punk, acid house, disco y electrónica, y son conocidos como los pioneros del resurgimiento del post-punk a principios de la década de 2000, especialmente por su estilo único que mezcla los primeros sonidos del post-punk con la electrónica y el dance.
+ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカなど、さまざまなジャンルの音楽をミックスし、特に初期のポストパンクサウンドとエレクトロニックとダンスをミックスした独特のスタイルで、2000年代初頭のポストパンクリバイバルの先駆者として知られている。
 
-Lanzado en 2011 por DFA Records, "In The Grace Of Your Love" es el tercer y último álbum de estudio de The Rapture.
+2011年にDFAレコーズからリリースされた「In The Grace Of Your Love」は、The Raptureの3枚目のスタジオアルバムであり最後のアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Sail Away
 2. Miss You
@@ -35,7 +35,7 @@ Lanzado en 2011 por DFA Records, "In The Grace Of Your Love" es el tercer y últ
 11. It Takes Time To Be A Man
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

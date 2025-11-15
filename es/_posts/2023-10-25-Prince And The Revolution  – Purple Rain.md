@@ -9,20 +9,20 @@ tags:
 - Rock
 - Funk
 - 7inch
-title: El Príncipe Y La Revolución – Lluvia Púrpura
+title: Prince And The Revolution  – Purple Rain
 ---
 
 
-"Prince And The Revolution – Purple Rain" se lanzó en 1984.
+「Prince（プリンス） And The Revolution  – Purple Rain – パープル・レイン」は、1984年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Purple Rain (Single Edit.) 
 
 B. God 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50358308709?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50358308709?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvnYmWpD_T8?si=OzJ6-dX-oEHvSeqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

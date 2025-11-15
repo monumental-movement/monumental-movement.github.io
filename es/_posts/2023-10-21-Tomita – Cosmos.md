@@ -8,15 +8,15 @@ layout: post
 tags:
 - Ambient
 - Classic
-title: Tomita-Cosmos
+title: Tomita – Cosmos
 ---
 
 
-"Cosmos" es una de las obras musicales de Isao Tomita relacionada con el espacio. Fue compuesta combinando ciencia y música para expresar el misterio y la grandeza del universo, haciendo pleno uso de la música electrónica y sintetizadores para expresar musicalmente la imagen del universo.
+「宇宙幻想」（"Cosmos"）は、冨田勲による宇宙に関連する音楽作品の一つで、宇宙の神秘さや壮大さを科学と音楽を組み合わせ、宇宙のイメージを音楽的に表現するために電子音楽とシンセサイザーを駆使して作曲されました。
 
-"Space Fantasy" es música inspirada en las estrellas, galaxias y planetas del universo, y es un álbum que destaca la técnica de sintetizador y el diseño de sonido de Isao Tomita.
+「宇宙幻想」は、宇宙の星々や銀河、惑星などにインスパイアを受けた音楽であり、冨田勲のシンセサイザーのテクニックとサウンドデザインが際立つアルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Space Fantasy
 
@@ -35,7 +35,7 @@ B3. Hora Staccato
 B4. The Sea Named "Solaris"
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33587379551?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33587379551?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Phi1YRxzjLo?si=orOw5yE-BpSx2VJj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

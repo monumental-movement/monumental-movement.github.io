@@ -8,13 +8,13 @@ layout: post
 tags:
 - Classic
 - Compilation
-title: Invitación a Denon PCM (un nuevo y magnífico sistema de grabación)
+title: Invitation To Denon PCM (A Magnificient New Recording System)
 ---
 
 
-"Invitación a Denon PCM (un nuevo y magnífico sistema de grabación)" fue lanzado por Denon en 1975.
+「Invitation To Denon PCM (A Magnificient New Recording System)」は、1975年にDenonからリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Helmuth Rilling–Toccata and Fugue In D Minor, BWV565
 
@@ -31,5 +31,5 @@ B3. Josef Chuchro, Jan Panenka, Josef Suk–Piano Trio In B-Flat Major, "Archduk
 B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Continuo Op.1-13 など
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
 

@@ -11,15 +11,15 @@ tags:
 - Garage Rock
 - Alternative
 - 90s
-title: Explosión de blues – Ancho extra
+title: Blues Explosion – Extra Width
 ---
 
 
-The Jon Spencer Blues Explosion fue una banda de rock de tres integrantes de Nueva York que estuvo activa desde 1991 hasta 2016. Su estilo se basa en el rock y combina elementos de punk, blues, garage, rockabilly, soul, noise rock, ritmo y blues y hip-hop.
+The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・エクスプロージョン）は、1991年〜2016年まで活動したNY出身の3人組ロックバンド。ロックをベースにパンク、ブルース、ガレージ、ロカビリー、ソウル、ノイズロック、リズムアンドブルース、ヒップホップの要素が融合したスタイルが特徴。
 
-"Extra Width" es su tercer álbum lanzado en 1993 y fue lanzado en Japón en 1995. Las pistas 12 y 13 son pistas extra sólo en la versión japonesa.
+「Extra Width」1993年に発表した3rdアルバムで、日本では1995年にリリースされた。12,13曲目は日本盤のみボーナストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Afro
 2. History Of Lies
@@ -36,7 +36,7 @@ The Jon Spencer Blues Explosion fue una banda de rock de tres integrantes de Nue
 13. Memphis Soul Typecast
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

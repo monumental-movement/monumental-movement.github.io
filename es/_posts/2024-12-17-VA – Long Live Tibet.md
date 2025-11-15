@@ -10,13 +10,13 @@ tags:
 - Britpop
 - Rock
 - 90s
-title: VA – Larga vida al Tíbet
+title: VA – Long Live Tibet
 ---
 
 
-CD benéfico lanzado en 1997. Las ganancias de la venta de este CD fueron donadas a la organización benéfica Tibet House Trust que apoya la liberación del Tíbet y los refugiados tibetanos.
+1997年にリリースされたチャリティCD。このCDの売り上げは、チベット解放＆チベット難民をサポートするTibet House Trust(チベットハウストラスト)慈善団体へ寄付された。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
@@ -36,7 +36,7 @@ CD benéfico lanzado en 1997. Las ganancias de la venta de este CD fueron donada
 16. Supergrass – Wait For The Sun
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

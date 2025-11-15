@@ -8,14 +8,14 @@ layout: post
 tags:
 - JPop
 - Techno
-title: Orquesta Mágica Amarilla – X∞Multiplica
+title: Yellow Magic Orchestra – X∞Multiplies
 ---
 
-El mejor álbum de YMO lanzado en Japón por Alpha Records en septiembre de 1980.
+1980年9月にアルファレコードより日本で発売されたYMOのベストアルバム。
 
-La versión estadounidense está [aquí](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
+US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Nice Age
 
@@ -34,7 +34,7 @@ B3  Citizens Of Science
 B4  Solid State Survivor
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9n9W2dG_08?si=3ffuTZPvj0X07i5u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

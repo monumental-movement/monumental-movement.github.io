@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Folk
-title: La Banda – Rock Of Ages La Banda En Concierto
+title: The Band – Rock Of Ages The Band In Concert
 ---
 
 
-The Band fue una banda de rock canadiense que estuvo activa desde finales de los años 1960 hasta principios de los 1970.
+The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。
 
-El álbum en vivo "Rock Of Ages: The Band In Concert" lanzado en 1972 es la fuente sonora de un concierto en vivo celebrado en la Academia de Música de Nueva York en diciembre de 1971.
+1972年にリリースしたライブアルバム「Rock Of Ages: The Band In Concert」は、1971年12月にNYのアカデミー・オブ・ミュージックで行われたライブコンサートの音源。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Don't Do It
 A2. King Harvest (Has Surely Come)
@@ -40,7 +40,7 @@ D2. Chest Fever
 D3. (I Don't Want To) Hang Up My Rock And Roll Shoes
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74070924210?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-c_E-W3yhHY?si=dEbQ2J2BCooYUqXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

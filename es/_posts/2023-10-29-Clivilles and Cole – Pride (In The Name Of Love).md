@@ -8,20 +8,20 @@ layout: post
 tags:
 - House
 - 90s
-title: Clivilles y Cole – Orgullo (En nombre del amor)
+title: Clivilles and Cole – Pride (In The Name Of Love)
 ---
 
 
-La cara A es una versión con arreglo de techno/club de Pride (In The Name Of Love) de U2.
+A面は、U2のPride (In The Name Of Love) をテクノ/クラブアレンジでカバー。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Pride (In The Name Of Love) (Techno Remake Club Mix)
 
 B. A Deeper Love (Underground Club Mix / Let's Go Chanting Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53693730056?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53693730056?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z-hEAHt9-eA?si=PS44X0td-iSriiWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

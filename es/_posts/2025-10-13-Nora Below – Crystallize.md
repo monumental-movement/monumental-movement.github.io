@@ -10,15 +10,15 @@ tags:
 - Experimental
 - Tech House
 - 00s
-title: Nora Below – Cristalizar...
+title: Nora Below – Crystallize...
 ---
 
 
-Nora Below es una artista radicada en Berlín que lanza trabajos electrónicos centrados en la voz basados ​​en la electrónica/electro/industrial/new wave.
+Nora Below は、エレクトロニック／エレクトロ／インダストリアル／ニューウェイヴをベースにボーカル中心のエレクトロ系作品をリリースする、ベルリンを拠点に活動するアーティスト。
 
-"Crystallize..." es una canción abstracta/experimental/tech house lanzada por el sello alemán de electro/techno BPitch en 2002.
+「Crystallize... 」は、2002年にドイツのelectro/techno系レーベルBPitchからリリースされたAbstract／Experimental／Tech House。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Crystallize
 A2. These Days
@@ -27,7 +27,7 @@ B1. Trace
 B2. Thursday
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99606920455?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99606920455?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0qtZCCn_w0?si=aI5ywEnAlEKEFsAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

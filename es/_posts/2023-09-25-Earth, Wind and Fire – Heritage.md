@@ -8,17 +8,17 @@ layout: post
 tags:
 - Disco
 - Soul
-title: Tierra, Viento y Fuego – Patrimonio
+title: Earth, Wind & Fire – Heritage
 ---
 
 
-"Heritage" aparece en el álbum Faces de 1980 de Earth, Wind & Fire. La canción tiene un sonido que combina los elementos funk, soul, disco y pop característicos de la banda.
+「Heritage」は、アース・ウィンド・アンド・ファイアの1980年のアルバム『Faces』に収録されています。この曲は、バンドの特徴的なファンク、ソウル、ディスコ、およびポップの要素を融合させたサウンドを持っています。
 
-"Heritage" es una de las canciones más bailables y divertidas de Earth, Wind & Fire, con una sección de metales y un ritmo de batería rítmico. La letra se centra en la importancia del patrimonio y la identidad cultural, transmitiendo un mensaje positivo.
+「Heritage」は、アース・ウィンド・アンド・ファイアの楽曲の中でも踊りやすくグルーヴ感のある曲であり、ブラスセクションやリズミカルなドラムビートが特徴的です。歌詞は、文化的な遺産やアイデンティティの重要性に焦点を当てており、ポジティブなメッセージを伝えています。
 
-Earth, Wind & Fire tuvo muchos éxitos a lo largo de los años 70 y 80 y logró un gran éxito en la escena de la música funk y disco. Sus canciones son conocidas por su ritmo y sus interpretaciones enérgicas, y su música es muy querida.
+アース・ウィンド・アンド・ファイアは、70年代から80年代にかけて多くのヒット曲を生み出し、ファンクやディスコミュージックのシーンで大きな成功を収めました。彼らの楽曲は、グルーヴ感やエネルギッシュなパフォーマンスで知られており、その音楽は広く愛されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Heritage (Extended Version)
 
@@ -31,7 +31,7 @@ B2. Heritage (LP Version)
 B3. Heritage (Per Cus Apella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,15 +8,15 @@ layout: post
 tags:
 - Punk
 - Art Rock
-title: Lou Reed – Nueva York
+title: Lou Reed – New York
 ---
 
 
-"New York" es un álbum importante en la carrera de Lou Reed y se centra en su ciudad natal de Nueva York. Las letras del álbum reflejan la realidad de la ciudad de Nueva York y los problemas sociales. Con la aguda poesía de Lou Reed y su propio estilo vocal único, representa la oscuridad y la luz de la ciudad desde su perspectiva.
+「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
 
-"Nueva York" cubre una variedad de temas, incluyendo política, drogas, crimen, amor y relaciones. Algunas de las canciones más conocidas del álbum incluyen "Dirty Blvd.", "Halloween Parade" y "Romeo Had Juliette".
+「New York」には、政治、ドラッグ、犯罪、愛、人間関係など、様々なテーマが取り上げられています。アルバムの中でも特に知られている曲には、「Dirty Blvd.」「Halloween Parade」、「Romeo Had Juliette」などがあります。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Romeo Had Juliette
 
@@ -47,7 +47,7 @@ title: Lou Reed – Nueva York
 14. Dime Store Mystery
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,15 +8,15 @@ layout: post
 tags:
 - Hiphop
 - Wu-Tang
-title: RZA como Bobby Digital – RZA como Bobby Digital en estéreo
+title: RZA As Bobby Digital – RZA As Bobby Digital In Stereo
 ---
 
 
-"RZA como Bobby Digital – RZA como Bobby Digital en estéreo" es
-El álbum debut en solitario de RZA de Wu-Tang Clan.
+「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」は、
+Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1.  B.O.B.B.Y.
 2. Unspoken Word
@@ -36,7 +36,7 @@ El álbum debut en solitario de RZA de Wu-Tang Clan.
 16. Domestic Violence
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

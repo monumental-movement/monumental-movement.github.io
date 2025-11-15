@@ -8,23 +8,23 @@ layout: post
 tags:
 - Ambient
 - Minimal
-title: Murcof – Ulises
+title: Murcof – Ulysses
 ---
 
 
-Murcof es un proyecto de Fernando Corona, uno de los músicos y productores electrónicos más importantes de México que también aparece en Mutek, Sonar, Atonal, etc.
+Murcof(マーコフ)は、Mutek, Sonar, Atonalなどにも出演するメキシコを代表するエレクトロニック・ミュージシャン＆プロデューサーFernando Corona のプロジェクトです。
 
-"Ulysses" fue lanzado por Leaf, un sello de música electrónica de larga trayectoria.
+「Ulysses」はエレクトロニック・ミュージックの老舗レーベルLeafからのリリース。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Ulysses
 
 B. Urano
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64922500191?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64922500191?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHmpEitRYqw?si=0JOOVlahPKIxjGXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

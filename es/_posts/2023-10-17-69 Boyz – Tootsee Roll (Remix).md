@@ -7,14 +7,14 @@ lang: es
 layout: post
 tags:
 - Hiphop
-title: 69 Boyz – Tootsee Roll (Remezcla)
+title: 69 Boyz – Tootsee Roll (Remix)
 ---
 
 
-69 Boyz es un dúo de hip hop y bajo estadounidense de Miami.
-"Tootsee Roll" es un sencillo del álbum debut de 69 Boyz "199Quad". El productor es 95 South, un grupo de hip hop estadounidense de Florida.
+69 Boyz は、USマイアミベース＆ヒップホップデュオ。
+「Tootsee Roll」は、69 Boyzのデビュー アルバム「199Quad」からのシングルカット。プロデューサーは、フロリダ出身のUSヒップホップグループ95 South。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Tootsee Roll (Quiet Storm Club Mix)
 
@@ -25,7 +25,7 @@ B1. Tootsee Roll (Set It Off Club Mix)
 B2. Tootsee Roll (Set It Off Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m69919556372?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69919556372?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DXApQBKdfqw?si=GllBHymC77hL7agN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,263 +9,262 @@ tags:
 - Krautrock
 - History
 - Techno
-title: '[Columna] Una historia completa del Krautrock: la música experimental alemana
-  como movimiento infinito'
+title: 【コラム】 Krautrock（クラウトロック）通史 ― 無限運動としてのドイツ実験音楽
 ---
 
 
-## Introducción: ¿Por qué "krautrock"?
+## 序章：なぜ「クラウトロック」なのか
 
-Texto: mmr｜Tema: El krautrock es una tendencia importante que influyó profundamente en generaciones posteriores de música, como la música experimental, la música electrónica, el post-rock y el techno, que se originó en Alemania.
+文：mmr｜テーマ：ドイツから生まれた実験音楽・電子音楽・ポストロック・テクノなど後世の音楽に深く影響を与えた重要な潮流ークラウトロック
 
-"Krautrock"—— Originalmente era un nombre despectivo dado por una revista de música británica.
-"Chucrut" es un término del argot para referirse a los alemanes.
-Sin embargo, los jóvenes de finales de los años 60 revirtieron esa etiqueta y la utilizaron como estandarte para crear su propia música.
+“クラウトロック”——。それはもともとイギリスの音楽誌が付けた揶揄的な呼び名だった。  
+「クラウト（Sauerkraut＝ザワークラウト）」、つまりドイツ人を指す俗語。  
+だが1960年代末の若者たちは、そのレッテルを反転させ、自らの音楽を創造するための旗印にした。  
 
-Alemania de posguerra. Recuerdos de derrota, la inundación de la cultura estadounidense y británica y el vacío de no tener voz.
-De esta "nada" nació el Krautrock.
-No se trata sólo de un movimiento musical, sino de una reconstrucción de la identidad de la generación de posguerra.
-Con el tiempo, se convirtió en un "movimiento filosófico del sonido" que reinventó la historia del rock.
+戦後ドイツ。敗戦の記憶、米英文化の洪水、そして「自分たちの声がない」という虚無。  
+クラウトロックは、この“無”の中から生まれた。  
+それは単なる音楽運動ではなく、**戦後世代のアイデンティティの再構築**であり、  
+やがてロックの歴史を再発明する“音の哲学運動”となっていく。
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Capítulo 1: Creación de la nada - La Alemania de posguerra y la reconstrucción del sonido
+## 第1章：無からの創造 ― 戦後ドイツと音の再構築
 
-1968. Los movimientos estudiantiles se apoderaron de Berlín y París, y la cultura comenzaba a entrelazarse con la política.
-Al mismo tiempo, en la emisora ​​de radio de Colonia sonaba a todo volumen la música electrónica de Karlheinz Stockhausen.
-Su construcción sonora abstracta y matemática inculcó en los jóvenes posteriores el sentido de "diseñar sonido desde cero".
+1968年。学生運動がベルリンとパリを覆い、文化は政治と結びつき始めていた。  
+同時に、ケルン放送局ではカールハインツ・シュトックハウゼンの電子音楽が鳴り響いていた。  
+その抽象的で数学的な音響構築は、後の若者たちに「音をゼロから設計する」感覚を植えつけた。  
 
-Los fundadores de CAN **Holger Czukay** e **Irmin Schmidt** fueron sus alumnos.
-Habiendo recibido una educación clásica, veían el rock como una extensión de la música moderna, más que como un antiarte.
-Su espíritu experimental se conecta con la cultura comunal que siguió al movimiento estudiantil, y el estudio se transforma en un "sitio de experimentación social".
+CANの創設者、**ホルガー・シューカイ**と**イルミン・シュミット**はその弟子だった。  
+クラシック教育を受けた彼らは、「ロック＝反芸術」ではなく、「ロック＝現代音楽の延長」と捉えた。  
+彼らの実験精神は、学生運動後のコミューン文化と結びつき、スタジオは“社会の実験場”へと変貌する。  
 
-> "No tenemos blues. Sólo tenemos que hacer nuestro propio sonido".
-> — Holger Czukay (CAN)
+> 「我々にはブルースがない。我々の音を作るしかない。」  
+> — ホルガー・シューカイ（CAN）
 
-Esta actitud de búsqueda del "sonido del propio país" fue el origen del krautrock.
+この“自国の音”を探す姿勢こそ、クラウトロックの原点だった。
 
 ---
 
-## Capítulo 2: CAN - La Filosofía del Ritmo y la Ciencia de la Improvisación
+## 第2章：CAN ― リズムの哲学と即興の科学
 
-"Inner Space Studio" es un antiguo castillo en las afueras de Colonia.
-Aquí nació el mito de la CAN.
-La batería tipo metrónomo de **Jaki Liebezeit**,
-**Michael Caroli** guitarra,
-Y **Damo Suzuki**, un vocalista que ha viajado desde Japón.
+ケルン郊外の古い城館“インナー・スペース・スタジオ”。  
+ここで生まれたのがCANの神話だった。  
+**ヤキ・リーベツァイト**のメトロノームのようなドラム、  
+**ミヒャエル・カローリ**のギター、  
+そして日本から流浪してきたヴォーカリスト、**ダモ鈴木**。  
 
-En 1970 conoció a Damo Suzuki, un hippie japonés que cantaba en las calles de Colonia.
-Esa noche ya estaban en el escenario y nació el disco ""Tago Mago''.
-"¿Te gustaría subir al escenario?"—la noche improvisada comenzó al instante.
-Terminó convirtiéndose en miembro de la banda.
+1970年、偶然ケルンのストリートで歌っていた日本人ヒッピー、**ダモ鈴木**に出会う。  
+その日の夜にはすでにステージに立ち、アルバム『Tago Mago』が誕生する。 
+「君、ステージに立ってみないか？」——即座に即興の夜が始まり、  
+そのままバンドのメンバーになってしまったという。  
 
-Su música es un "ritmo fluido" que rechaza la estructura.
-Especialmente en el álbum "Tago Mago" (1971), las canciones fueron reorganizadas mediante edición.
-Esto dio lugar al concepto de que "la grabación en cinta es en sí misma un instrumento".
-Las técnicas de edición de Shukai eran similares a las muestras posteriores de hip-hop.
+彼らの音楽は、構成を拒否した“流動するリズム”。  
+特にアルバム『Tago Mago』（1971）は、編集によって曲が再構成され、  
+“録音テープそのものが楽器”という概念を生んだ。  
+シューカイの編集術は、のちのヒップホップのサンプリングにも通じる発想だった。  
 
-> "El ritmo manda en el tiempo. Pero la improvisación te libera del tiempo."
-> — Jaki Liebezeit
+> 「リズムは時間を支配する。だが即興は時間から自由になる。」  
+> — ヤキ・リーベツァイト
 
-El sonido de CAN es un "viaje de escucha". Un surco interminable que nada entre la quietud y el movimiento, el azar y el orden.
-Más tarde influiría en Radiohead, The Fall e incluso en Aphex Twin.
+CANのサウンドは“聴く旅”である。静と動、偶然と秩序の間を泳ぐ、終わりなきグルーヴ。  
+それは後のRadioheadやThe Fall、さらにはAphex Twinにも影響を与えることになる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FaydRUQ42Q?si=Tg1R-p686UpkQ2lP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 3: ¡NUE! - Minimalismo y carrera hacia el futuro.
+## 第3章：NEU! ― ミニマリズムと未来への疾走
 
-¡NUEVO! se formó después de que los primeros miembros de Kraftwerk **Klaus Dinger** y **Michael Lotter** dejaran el grupo.
-El sonido era "puro movimiento" sin todas las decoraciones innecesarias.
+クラフトワーク初期メンバーだった**クラウス・ディンガー**と**ミヒャエル・ローター**が脱退して結成したNEU!。  
+その音は、すべての余計な装飾を削ぎ落とした“純粋な運動”だった。  
 
-El tambor de Dinger continúa funcionando a velocidad constante, como un transportador sin fin.
-Este ritmo finalmente se conoció como "Motorik".
-La guitarra y el bajo de Rotor se deslizan como una línea aerodinámica,
-La música ha hecho de "avanzar" un objetivo.
+ディンガーのドラムは、まるで止まらぬコンベアのように一定の速度で刻み続ける。  
+このビートはやがて**“モーターリック”**と呼ばれる。  
+ローターのギターとベースは流線形のように滑り、  
+音楽は“前へ進む”ことそのものを目的化した。  
 
-¡NUEVO! grabado en el estudio por falta de fondos.
-Girando la cinta al revés, cambiando la velocidad, cortando y pegando los sonidos,
-Sacudió la frontera entre "vida" y "máquina".
+NEU!はスタジオでの録音を資金不足の中で行った。  
+テープを逆回転させ、スピードを変え、音を切り貼りしながら、  
+「生」と「機械」の境界を揺さぶった。  
 
-> "Motorik es el sonido de la ""continuación humana'', no una máquina."
-> — Klaus Dinger
+> 「モーターリックとは、機械ではなく“人間の持続”の音だ。」  
+> — クラウス・ディンガー
 
-Esta estructura rítmica simple es similar a la trilogía berlinesa de David Bowie.
-También dejó una gran influencia en las obras ambientales de Brian Eno.
-En el sonido de NEU!, el oyente se da cuenta de que el tiempo no es una línea recta sino un círculo.
+このシンプルなリズム構造は、デヴィッド・ボウイのベルリン三部作や  
+ブライアン・イーノのアンビエント作品にも多大な影響を残す。  
+聴く者は、NEU!の音の中で、時間が直線ではなく円環であることに気づく。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 4: Fausto - El arte del collage y la destrucción
+## 第4章：Faust ― コラージュと破壊の芸術
 
-Este estudio es una casa de campo reformada en la campiña de Wünme.
-Un grupo de personas encerradas allí, mezclando cintas, ruido, fragmentos de radio, samples, todo... eso es **Fausto**.
-Crearon nueva música destruyendo por completo el "formato rock".
+ヴュンメの田舎にあった農家を改造したスタジオ。  
+そこに引きこもり、テープ、ノイズ、ラジオの断片、サンプル、すべてを混ぜ合わせた集団——それが**Faust**。  
+彼らは「ロックの形式」を徹底的に破壊することで、新しい音楽を作った。  
 
-dice el miembro **Jan Ermler**.
-"No creíamos en el rock. Lo único en lo que creíamos era en la 'cinta grabada'".
+メンバーの**ジャン・エルムラー**は語る。  
+「私たちは、ロックを信じなかった。信じたのは“録音テープ”だけだった。」  
 
-La portada de su álbum debut de 1971, "Faust", estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
-La música también estaba fragmentada.
-Las canciones no tienen melodía y son más como escuchar un programa de radio.
-Sin embargo, fue un desafío al marco mismo de la música pop.
+1971年のデビュー作『Faust』は、ジャケットが透明ビニールに脈打つ心臓のようなプリントを施され、  
+音楽もまた断片化されていた。  
+楽曲はメロディを持たず、むしろラジオ番組を聴いているような錯乱。  
+しかしそれは、ポップミュージックの“枠組みそのもの”への挑戦だった。  
 
-Estuvieron fuertemente influenciados por el arte pop y el dadaísmo.
-Las culturas punk, industrial y de muestreo que siguieron se basaron todas en los genes de Fausto.
+彼らはポップ・アートやダダイズムに強く影響を受けていた。  
+その後のパンク、インダストリアル、サンプリング文化は、まさにFaustの遺伝子上にある。
 
-> "La destrucción es el comienzo de la creación".
-> — Jan Ermler (Fausto)
+> 「破壊こそが創造の始まりだ。」  
+> — ジャン・エルムラー（Faust）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MbMvXFZ-20E?si=fszGR2gPh979qz7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 5: Kraftwerk - Los orígenes del techno y la belleza inorgánica
+## 第5章：Kraftwerk ― テクノの起源と無機質の美
 
-Dusseldorf.
-Las calles rectas y la textura fría de la ciudad industrial se convirtieron en música.
-Kraftwerk de **Ralf Hütter** y **Florian Schneider**
-Al principio, era rock de improvisación que hacía pleno uso de la flauta y el órgano.
+デュッセルドルフ。  
+工業都市の直線的な道路と、冷たい鉄の質感が音楽になった。  
+**ラルフ・ヒュッター**と**フローリアン・シュナイダー**によるクラフトワークは、  
+最初期はフルートとオルガンを駆使した即興ロックだった。  
 
-Sin embargo, en 1974, con Autobahn, de repente empezaron a "diseñar" música.
-Sonidos electrónicos, máquinas de ritmo y "humanos como máquinas".
-Incluso en el escenario, actuaron sin emoción ni expresión.
+しかし1974年、『Autobahn』で彼らは突然、音楽を“設計”し始める。  
+電子音とリズムマシン、そして「機械としての人間」。  
+彼らはステージでも感情を排し、無表情のまま演奏した。  
 
-Este completo anonimato era una herejía en la escena del rock de la época.
-Sin embargo, había una actitud de búsqueda de "un nuevo tema para los alemanes".
-Negar el pasado (guerra) y encontrar la salvación en el futuro (tecnología).
+この徹底した匿名性は、当時のロックシーンでは異端だった。  
+だがそこには、「ドイツ人の新しい主体」を模索する姿勢があった。  
+過去（戦争）を否定し、未来（テクノロジー）に救いを見出す。  
 
-> "Somos máquinas hechas por manos humanas, y la música es un reflejo de eso."
-> — Florian Schneider
+> 「私たちは人間の手で作られた機械。そして音楽はその反映だ。」  
+> — フローリアン・シュナイダー
 
-El sonido minimalista y lineal de Kraftwerk es una mezcla de techno de Detroit, pop sintetizado,
-Influyó en todo el hip-hop y el house.
-El "futuro" que vieron está ahora en nuestro panorama musical actual.
+クラフトワークのミニマルで直線的な音は、デトロイト・テクノ、シンセポップ、  
+ヒップホップ、ハウスのすべてに影響を与えた。  
+彼らが見つめた“未来”は、いま私たちの現在の音楽風景にある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWUiLJnEYJI?si=ih-eyy69cWYXGOWm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-## Capítulo 6: Cluster - El límite entre el silencio y la electrónica
+## 第6章：Cluster ― 無音と電子の境界
 
-### Revolución en silencio
-Unidad **Cluster** de **Dieter Möbius** y **Hans-Joachim Roedelius**.
-A diferencia de CAN y Fausto, no son "ruido" ni "roca".
-Entre los sonidos electrónicos inorgánicos y el silencio, se sentían las reverberaciones y la respiración de la ciudad.
+### 静けさの中の革命
+**ディーター・メビウス** と **ハンス＝ヨアヒム・ローデリウス** によるユニット **Cluster（クラスター）**。  
+彼らはCANやFaustと異なり、ほとんど「ノイズ」でも「ロック」でもない。  
+無機質な電子音と沈黙の間に、都市の残響や呼吸を漂わせた。
 
-Su álbum debut, Cluster 71 (1971), es una serie de sonidos de cinta experimentales, pero también de alguna manera meditativos.
-La continuación, "Zuckerzeit" (1974), fue producida por Klaus Dinger de Neu! e introdujo un ritmo minimalista y cómodo.
-Los sonidos electrónicos se convirtieron en los "sonidos de la vida cotidiana", uno de los orígenes de lo que más tarde se convertiría en Ambient y Electrónica.
+デビュー作『Cluster 71』（1971）は、実験的なテープ・サウンドの連続だが、どこか瞑想的でもある。  
+続く『Zuckerzeit』（1974）では、Neu!のクラウス・ディンガーがプロデュースを担当し、ミニマルで心地よいリズムを導入。  
+電子音が「生活の音」になっていく――それはのちのAmbientやElectronicaの原点の一つだ。
 
-> "La nada entre los sonidos es el espacio en el que componemos." - Hans-Joachim Roedelius
+> 「音の間にある“無”こそ、われわれが作曲する空間だ」 ― Hans-Joachim Roedelius
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGZtre27wss?si=O0o-JZMlobebuNh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 7: Harmonia - ¡Clúster se encuentra con Neu!
+## 第7章：Harmonia ― ClusterとNeu!の出会い
 
-En 1973, el guitarrista de Neu!, **Michael Rother**, se unió a los dos miembros de Cluster y nació **Harmonia**.
-El escenario es Forst, un pueblo rural del norte de Alemania. Instalaron un estudio en un lugar donde rara vez pasan trenes.
+1973年、Clusterの二人にNeu!のギタリスト **ミヒャエル・ローター** が加わり、**Harmonia（ハルモニア）** が誕生する。  
+舞台はドイツ北部の田舎村、Forst。電車もほとんど来ない場所に、彼らはスタジオを構えた。
 
-### Nacimiento de la "música electrónica pastoral"
-El sonido de Harmonia se sitúa entre el silencio de Cluster y el ritmo de Neu!.
-En "Musik von Harmonia" (1974), suaves ondulaciones electrónicas se extienden como un paisaje verde.
-Su siguiente álbum, "Deluxe" (1975), fue descrito por Brian Eno como "la banda más importante del mundo", y más tarde él mismo visitó Forst para grabar una canción coescrita.
+### 「田園電子音楽」の誕生
+Harmoniaの音は、Clusterの静寂とNeu!のリズムの中間。  
+『Musik von Harmonia』（1974）では、穏やかな電子のうねりが緑の風景のように広がる。  
+続く『Deluxe』（1975）は、Brian Enoが「世界で最も重要なバンド」と評した作品であり、後に彼自身もForstを訪れ共作を録音している。
 
-> "Su sonido era la música pastoral del futuro" - Brian Eno
+> 「彼らの音は、未来の田園音楽だった」 ― Brian Eno
 
-El espíritu sonoro nacido de Forst se ha transmitido al Ambient, al Post-rock e incluso a la música ambiental contemporánea.
+Forstで生まれた音の精神は、Ambient、Post-rock、さらには現代の環境音楽にまで受け継がれた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Tl5fvP7LBM?si=Fu7MAW7YegbUcBfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 8: Popol Vuh - Espiritualidad y sonido en imágenes
+## 第8章：Popol Vuh ― 霊性と映像の中の音
 
-**Popol Vuh** destaca entre el krautrock.
-El líder **Florian Fricke** estaba profundamente devoto de la música y la filosofía religiosa, y fue uno de los primeros en adoptar el sintetizador Moog.
-Sin embargo, lo que buscaba no era la frialdad de la electrónica, sino **el misterio y el sonido interior**.
+クラウトロックの中でも異彩を放つのが、**Popol Vuh（ポポル・ヴー）**。  
+リーダーの **フロリアン・フリッケ** は宗教音楽と哲学に深く傾倒し、早くからモーグ・シンセを導入した。  
+だが、彼の目指したのは電子の冷たさではなく、**神秘と内面の音**だった。
 
-### Resonancia con Herzog
-El director de cine **Werner Herzog** se enamoró de sus sonidos espirituales y los utilizó en muchas de sus películas, incluidas "Aguirre", "Nosferatu" y "Fitzcarraldo".
-La música de ""Aguirre'' (1975) sacudió la conciencia del público como una alucinación que resuena en las montañas de los Andes.
+### ヘルツォークとの共鳴
+映画監督 **ヴェルナー・ヘルツォーク** は、その霊的なサウンドに惚れ込み、『アギーレ／神の怒り』『ノスフェラトゥ』『フィツカラルド』など多くの映画に彼らを起用。  
+『Aguirre』（1975）の音楽は、アンデス山中で響く幻聴のように観客の意識を揺さぶった。
 
-> "El sonido del Popol Vu fueron las palabras de oración que el alma escuchó".
+> 「ポポル・ヴーの音は、魂が聴く祈りの言葉だった」
 
-Se puede decir que el "experimento espiritual" de Krautrock alcanzó aquí su cima religiosa.
+クラウトロックが示した「精神の実験」は、ここで宗教的な頂点に達したといえる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DON-CogKcfk?si=zyfmH6v-qbITWRqa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 9: Klaus Schulze - El viajero solitario del sintetizador
+## 第9章：Klaus Schulze ― シンセサイザーの孤独な旅人
 
-Ex baterista de Tangerine Dream y buscador de música electrónica **Klaus Schulz**.
-Amplió el krautrock a través del trabajo de estudio en solitario en lugar de hacerlo en grupo.
-Construyeron temas largos, cada uno de los cuales duraba más de 30 minutos, y los crearon como si quisieran "esculpir" el tiempo con sonido.
+元Tangerine Dreamのドラマーにして、電子音楽の求道者 **クラウス・シュルツ**。  
+彼は集団ではなく**孤高のスタジオ・ワーク**でクラウトロックを拡張した。  
+1曲30分を超える長大なトラックを構築し、時間を音で“彫刻”するように制作した。
 
-Sus obras maestras "Timewind" (1975) y "Moondawn" (1976) son meditaciones electrónicas con infinitos ritmos y secuenciadores.
-Para Jean-Michel Jarre, Vangelis e incluso escritores tecno posteriores, se convirtió en el punto de partida del "filósofo de los electrones".
+代表作『Timewind』（1975）、『Moondawn』（1976）は、リズムとシーケンサーが果てしなく続く電子の瞑想。  
+後のJean-Michel JarreやVangelis、さらにはTechnoの作家たちにとって、彼は「電子の哲学者」としての原点となった。
 
-> "El sintetizador es mi universo. La soledad es el combustible de la creatividad." -Klaus Schulze
+> 「シンセサイザーは私の宇宙だ。孤独は、創造の燃料だ。」 ― Klaus Schulze
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kgt-D3tFMaQ?si=RTB227yPTwMgKsW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 10: Genes Krautrock - A la próxima generación
+## 第10章：クラウトロックの遺伝子 ― 次世代へ
 
-A finales de los años 70, la juventud alemana volvió a experimentar cambios.
-El espíritu experimental del Krautrock se manifiesta en el punk y la new wave.
-En Berlín, David Bowie y Brian Eno produjeron la "Trilogía de Berlín" y absorbieron la estética de Kraut.
+1970年代後半、ドイツの若者たちは再び変化の中にあった。  
+クラウトロックの実験精神は、PunkやNew Waveの中に姿を変えて現れる。  
+ベルリンでは、デヴィッド・ボウイとブライアン・イーノが「ベルリン三部作」を制作し、まさにKrautの美学を吸収していった。
 
-- "Low" de Bowie (1977) es una fusión de Neu! y Clúster.
-- Joy Division y The Fall reinyectaron ritmos motorik en el rock.
-- En los 90, Stereolab y Tortoise combinaron el krautrock con el pop.
+- Bowieの『Low』（1977）は、Neu!とClusterの融合。
+- Joy DivisionやThe Fallは、モーターリックのリズムをロックに再注入。
+- 90年代にはStereolabやTortoiseが、クラウトロックをポップと融合させた。
 
-Krautrock es más que un simple nombre de género.
-Éste es el espíritu mismo de "encontrar tu propio sonido".
+クラウトロックとは単なるジャンル名ではない。  
+それは「自分たちの音を見つける」という精神そのものなのだ。
 
 ---
 
-## Cronología de las principales bandas de krautrock
+## クラウトロック主要バンド年表
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-título["Cronología de las principales bandas de Krautrock"]
+flowchart TD
+  title["クラウトロック主要バンド年表"]
 
-A1968["1968: Formación de CAN (Colonia)"]
-A1970["1970: Formación de Kraftwerk (Dusseldorf)"]
-A1971a["1971: Formación de Fausto (Wuppertal)"]
-A1971b["1971: Se forma Neu! (Dusseldorf)"]
-A1971c["1971: Sueño de mandarina"Alfa Centauri""]
-A1972["1972: Popol Vuh"Hosianna Mantra""]
-A1973["1973: Clúster"Zuckerzeit""]
-A1974["1974: Formación Harmonia (Forst)"]
-A1975["1975: Klaus Schulze"Viento del tiempo""]
-A1977["1977: Bowie & Eno, Trilogía de Berlín"]
-Década de 1990["Década de 1990: Stereolab / Tortuga ola de reevaluación"]
+  A1968["1968 : CAN 結成（ケルン）"]
+  A1970["1970 : Kraftwerk 結成（デュッセルドルフ）"]
+  A1971a["1971 : Faust 結成（ヴッパータール）"]
+  A1971b["1971 : Neu! 結成（デュッセルドルフ）"]
+  A1971c["1971 : Tangerine Dream『Alpha Centauri』"]
+  A1972["1972 : Popol Vuh『Hosianna Mantra』"]
+  A1973["1973 : Cluster『Zuckerzeit』"]
+  A1974["1974 : Harmonia 結成（Forst）"]
+  A1975["1975 : Klaus Schulze『Timewind』"]
+  A1977["1977 : Bowie & Eno、ベルリン三部作"]
+  A1990s["1990s : Stereolab / Tortoise に再評価の波"]
 
-A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
+  A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
 
 
 </div>
@@ -273,59 +272,59 @@ A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 -
 ---
 
 
-## Mapa de la ciudad (base geográfica)
+## 都市マップ（地理的拠点）
 
-- **Colonia**: CAN, Popol Vuh
+- **ケルン**：CAN, Popol Vuh
 
-- **Düsseldorf**: Kraftwerk, Neu!
+- **デュッセルドルフ**：Kraftwerk, Neu!
 
-- **Wuppertal**: Fausto
+- **ヴッパータール**：Faust
 
-- **Berlín**: Tangerine Dream, Klaus Schulze
+- **ベルリン**：Tangerine Dream, Klaus Schulze
 
-- **Baja Sajonia**: Cluster, Harmonia
+- **ニーダーザクセン**：Cluster, Harmonia
 
->Aunque las distancias entre las ciudades eran cercanas, las filosofías del sonido eran sorprendentemente diferentes.
-> Krautrock es un "mapa filosófico del sonido" para cada ciudad.
-
----
-
-## Glosario
-
-| Terminología | Significado |
-| --------------------------------- | ------------------------------------------------- |
-| **Motor** | Tiempo constante de 4/4 establecido por Neu! Un ritmo lineal, parecido al de un trance.           |
-| **Música Cósmica** | Música electrónica orientada al espacio de Tangerine Dream, Klaus Schulze y otros. |
-| **Roca continental** | Expresión musical desde una perspectiva europea, frente al rock angloamericano.                |
-| **Krau** | Argot originalmente británico. Originalmente era un término despectivo, pero luego fue redefinido como una palabra de orgullo.         |
-| **Motorik Groove** | El ritmo de "Ein-zwei-drei-vier...". Un símbolo de minimalismo y euforia.    |
-
+> 各都市の距離は近いが、音の思想は驚くほど異なっていた。
+> クラウトロックとは、都市ごとの「音の哲学地図」である。
 
 ---
 
-## Guía de discografía
+## 用語集（Glossary）
 
-| Artista | Obras representativas | Año | Enlaces |
+| 用語                                | 意味                                          |
+| --------------------------------- | ------------------------------------------- |
+| **モーターリック（Motorik）**              | Neu!が確立した一定の4/4ビート。直線的でトランス的なリズム。           |
+| **コズミック・ミュージック（Cosmic Music）**    | Tangerine DreamやKlaus Schulzeらによる宇宙志向の電子音楽。 |
+| **コンチネンタル・ロック（Continental Rock）** | 英米中心のロックに対し、ヨーロッパ的視点からの音楽表現。                |
+| **クラウト（Kraut）**                   | 元はイギリスのスラング。侮蔑語だったが、のちに誇りとして再定義された。         |
+| **Motorik Groove**                | 「Ein-zwei-drei-vier...」のリズム感。ミニマルと陶酔の象徴。    |
+
+
+---
+
+## ディスコグラフィー・ガイド
+
+| アーティスト          | 代表作               | 年    | リンク                                        |
 | --------------- | ----------------- | ---- | ------------------------------------------------ |
-| PUEDE | *Tago Mago* | 1971 | [Amazon](https://amzn.to/4oacFPq) |
-| Kraftwerk | *Autopista* | 1974 | [Amazon](https://amzn.to/43abJlQ) |
-| ¡Nuevo! | *¡Nuevo!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
-| Fausto | *Las cintas de Fausto* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
-| Sueño de mandarina | *Fedra* | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
-| Clúster | *Zuckerzeit* | 1974 | [Amazon](https://amzn.to/47dKp8O) |
-| Armonía | *De lujo* | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
-| Popol Vuh | *Aguirre* | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
-| Klaus Schulze | *Viento del tiempo* | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
+| CAN             | *Tago Mago*       | 1971 | [Amazon](https://amzn.to/4oacFPq) |
+| Kraftwerk       | *Autobahn*        | 1974 | [Amazon](https://amzn.to/43abJlQ) |
+| Neu!            | *Neu!*            | 1972 | [Amazon](https://amzn.to/434MIbJ) |
+| Faust           | *The Faust Tapes* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
+| Tangerine Dream | *Phaedra*         | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
+| Cluster         | *Zuckerzeit*      | 1974 | [Amazon](https://amzn.to/47dKp8O) |
+| Harmonia        | *Deluxe*          | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
+| Popol Vuh       | *Aguirre*         | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
+| Klaus Schulze   | *Timewind*        | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
 
 
 ---
 
-## Capítulo final: En busca de la libertad del sonido
+## 終章：音の自由を求めて
 
-Krautrock fue un movimiento que utilizó el sonido para preguntar "¿Qué es la libertad?" durante el período de reconstrucción nacional.
-Lo que había era un rechazo a seguir la cultura existente y una voluntad de crear su propio futuro.
+クラウトロックとは、国家の復興期に「自由とは何か」を音で問うた運動だった。
+そこにあったのは、既存の文化をなぞることへの拒絶、そして自らの未来を創る意志。
 
-Es una historia de un "espíritu creativo universal" más que de un "origen alemán".
-Cintas, ritmos, ondas electrónicas: todavía suenan en el estudio subterráneo.
+それは“ドイツ発”というより、“普遍的な創造の精神”の物語だ。
+テープ、リズム、電子の波――それらは今も地下スタジオで鳴り続けている。
 
-> "El krautrock no ha terminado. Todavía continúa en tus oídos".
+> 「クラウトロックは終わっていない。それは今も、あなたの耳の中で進行している。」

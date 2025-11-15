@@ -10,17 +10,17 @@ tags:
 - House
 - UK House
 - 90s
-title: 'Vida salvaje: enganchado a la droga E.P.'
+title: Wildlife  – Hooked On Dope E.P.
 ---
 
 
-Seb Fontaine, también conocido como Wildlife, es un DJ y productor del Reino Unido. Ha sido DJ residente en lugares como The Fridge and Cream y ha lanzado numerosos álbumes de mezclas.
+WildlifeことSeb Fontaineは、UK出身のDJ・プロデューサー。The Fridgeや CreamなどでレジデントDJを務め、ミックスアルバムを多数リリースしている。
 
-"Enganchado a la droga E.P." es una canción breakbeat house lanzada en 1992 por Spot On Records, un sello dirigido por Seb Fontaine y Julian Peake.
+「Hooked On Dope E.P.」は、Seb FontaineとJulian Peakeが運営するレーベルSpot On Recordsから1992年にリリースされたブレイクビーツ・ハウストラック。
 
-La primera pista de la cara A, "Dope Jazz" y la segunda pista, "Smells Like Dope", se incluyeron en el mixtape clásico de DJ Dan "San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass" lanzado en 1993.
+A面１曲目「Dope Jazz」と２曲目「Smells Like Dope」は、1993年にリリースされたDJ Danのクラシックブレイクミックステープ「San Francisco Project 2 - Tribute To James Brown / The Scratch - The Bass」に収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Dope Side
 A1. Dope Jazz
@@ -32,7 +32,7 @@ B1. Hooked On You
 B2. Youre My Drug
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m75896436535?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75896436535?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtTgzCMkfeU?si=bxzOASsR1FhRaJPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

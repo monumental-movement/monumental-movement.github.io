@@ -9,213 +9,213 @@ tags:
 - Psy-Trance
 - Trance
 - 90s
-title: '[Columna] Historia del Psy-Trance, obras maestras y 10 pistas recomendadas'
+title: 【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選
 ---
 
 
 
-## Trance psicodélico (Psy-Trance) — Una crónica histórica del trance psicodélico desde sus orígenes hasta el presente y cambios en el equipamiento.
+## サイケデリック・トランス（Psy-Trance） — 発祥から現在までの年代別クロニクルと機材の変遷
 
-Texto: mmr｜Tema: Historia del Psy-Trance desde sus orígenes hasta la actualidad
+文：mmr｜テーマ：Psy-Trance（サイケデリック・トランス）の発祥から現在までの歴史
 
 
-El trance de Goa, que se originó en la cultura hippie/rave de Goa, se extendió por todo el mundo a mediados de la década de 1990 como "trance psicodélico". Desde entonces, se han creado varios géneros derivados (Full-on, Darkpsy, Progressive, Psybient, etc.) mediante el refinamiento de las imágenes sonoras y la digitalización de los equipos, y se ha vuelto global a través de la cultura de los festivales y la distribución en línea.
+Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990年代中盤に“サイケデリック・トランス（Psy-Trance）”として世界に拡散。以降、音像の洗練と機材のデジタル化によって多様な派生ジャンル（Full-on、Darkpsy、Progressive、Psybient 等）を生み、フェス文化とネット配信でグローバル化しました。
 
-A continuación, resumiremos las tendencias por generación, obras maestras representativas, cambios en el equipamiento y **10 pistas recomendadas de cada época**.
+以下、年代別の流れ・代表的名盤・機材の変遷、そして**各時代のおすすめトラック10選**をまとめます。
 
 
 ---
 
-## Origen — Décadas de 1970 y 1980
-- **Antecedentes:** La cultura hippie y la afluencia de instrumentos musicales electrónicos. Se traen sintetizadores y cajas de ritmo usados ​​a Goa.
-- **Equipo:** Roland TB-303, TR-808, TR-909, etc.
+## 起源 — 1970s〜1980s
+- **背景:** ヒッピー文化と電子楽器の流入。中古シンセやリズムマシンがGoaに持ち込まれる。
+- **機材:** Roland TB-303, TR-808, TR-909 など。
 
-### Obra maestra
-- Kraftwerk – *Mundo de la informática* (1981)
-- Sueño de mandarina – *Salida* (1981)
-- Charanjit Singh – *Diez Ragas a un ritmo disco* (1982)
-
-
-### 10 temas recomendados (décadas de 1970 y 1980)
+### 名盤
+- Kraftwerk – *Computer World* (1981)  
+- Tangerine Dream – *Exit* (1981)  
+- Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)  
 
 
-<tipo de estilo="texto/css">
+### おすすめトラック 10選（1970s〜80s）
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+
+<style type="text/css">
+
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
-| # | Título del artista/canción | Año | Notas |
+| #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
-| 1 | Kraftwerk – Números | 1981 | Fundamentos del electro temprano |
-| 2 | Sueño de mandarina – Salida | 1981 | Sonido de sintetizador cósmico |
-| 3 | Charanjit Singh – Diez ragas al ritmo de una discoteca | 1982 | TB-303 Uso pionero |
-| 4 | Klaus Schulze – Trance 4 | 1983 | Electroacústica Europea |
-| 5 | Psychic TV – Sintonízanos | 1982 | Herencia de la Cultura Psíquica |
-| 6 | Jean-Michel Jarre – Étnico | 1984 | Sonido Etno+Electrónico |
-| 7 | Frente 242 – Cazatalentos | 1988 | La canción insignia de EBM |
-| 8 | El KLF – ¿A qué hora es el amor? | 1988 | Los primeros días del rave |
-| 9 | Estado 808 – Estado del Pacífico | 1989 | Influencia balear |
-| 10 | Goa Gil – Mezclas de cintas DAT | Finales de los 80 | Sonido original de Goa |
+| 1  | Kraftwerk – Numbers | 1981 | 初期エレクトロの礎 |
+| 2  | Tangerine Dream – Exit | 1981 | 宇宙的シンセサウンド |
+| 3  | Charanjit Singh – Ten Ragas to a Disco Beat | 1982 | TB-303先駆的使用 |
+| 4  | Klaus Schulze – Trance 4 | 1983 | ヨーロッパ電子音響 |
+| 5  | Psychic TV – Tune In | 1982 | サイケ文化の継承 |
+| 6  | Jean-Michel Jarre – Ethnicolor | 1984 | エスノ＋電子音響 |
+| 7  | Front 242 – Headhunter | 1988 | EBMの代表曲 |
+| 8  | The KLF – What Time Is Love? | 1988 | レイブ黎明期 |
+| 9  | 808 State – Pacific State | 1989 | バレアリック影響 |
+| 10 | Goa Gil – DAT tape mixes | 1980s後期 | Goaサウンドの原型 |
 
 <br>
 
 ---
 
-## Establecimiento de Goa Trance - 1990-1994
-- **Antecedentes:** Fiesta de Luna Llena en Goa, India. Sonidos de trance reproducidos en cintas DAT repartidas por todo el mundo.
-- **Equipo:** DAT, sintetizador Roland, sampler inicial.
+##  Goa Tranceの成立 — 1990〜1994
+- **背景:** インド・ゴアのフルムーンパーティ。DATテープで流れるトランスサウンドが世界に拡散。
+- **機材:** DAT, Rolandシンセ、初期サンプラー。
 
-### Obra maestra
-- Juno Reactor – *Transmisiones* (1993)
-- Hombre sin nombre – *Momento de la verdad* (1994)
-- El Proyecto Infinity – *Sentirse muy raro* (1994)
+### 名盤
+- Juno Reactor – *Transmissions* (1993)  
+- Man With No Name – *Moment of Truth* (1994)  
+- The Infinity Project – *Feeling Very Weird* (1994)  
 
 
-### 10 pistas recomendadas (1990–94)
+### おすすめトラック 10選（1990–94）
 
-| # | Título del artista/canción | Año | Notas |
+| #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
-| 1 | Reactor Juno – Transmisiones | 1993 | Fusión Etno + Trance |
-| 2 | Hombre sin nombre – Teletransporte | 1994 | Clásico de Goa |
-| 3 | The Infinity Project – Sentirse muy raro | 1994 | Icono de escena de Goa |
-| 4 | Doof – Encendámonos | 1994 | Riff psicodélico |
-| 5 | Eclipse total – Le Lotus Bleu | 1994 | Representante psicodélico francés |
-| 6 | Etnica – Viaje Tonite | 1994 | Sintetizador multicapa |
-| 7 | Monjas Verdes de la Revolución – Conflicto | 1994 | Energético |
-| 8 | Prana – Geomántica | 1994 | Unidad de participación japonesa |
-| 9 | Transwave – Hipnorritmo | 1994 | Representando a Francia |
-| 10 | Shakta – Cabeza de Lepton | 1994 | Obra maestra de Goa |
+| 1  | Juno Reactor – Transmissions | 1993 | エスノ＋トランス融合 |
+| 2  | Man With No Name – Teleport | 1994 | Goaクラシック |
+| 3  | The Infinity Project – Feeling Very Weird | 1994 | Goaシーン象徴 |
+| 4  | Doof – Let's Turn On | 1994 | サイケデリックなリフ |
+| 5  | Total Eclipse – Le Lotus Bleu | 1994 | 仏産サイケ代表 |
+| 6  | Etnica – Trip Tonite | 1994 | 多層的シンセ |
+| 7  | Green Nuns of the Revolution – Conflict | 1994 | エネルギッシュ |
+| 8  | Prana – Geomantik | 1994 | 日本人参加ユニット |
+| 9  | Transwave – Hypnorhythm | 1994 | フランス代表格 |
+| 10 | Shakta – Lepton Head | 1994 | Goa傑作 |
 
 <br>
 
 ---
 
-## Finales de la década de 1990: Establecimiento del Psy-Trance
-- **Antecedentes históricos**: El gore trance se extendió a Europa, creando un sonido más duro y de alta tecnología. La escena israelí está dando grandes pasos.
-- **Equipo típico**: Access Virus, Clavia Nord Lead, Roland JP-8000
+## 1990年代後半：Psy-Tranceの確立
+- **時代背景**: ゴアトランスが欧州に広がり、より硬質でハイテクな音作りへ。イスラエルのシーンが大きく躍進。  
+- **代表的な機材**: Access Virus, Clavia Nord Lead, Roland JP-8000  
 
-### Obra maestra
-- Alucinógeno – *Twisted* (1995)
-- Hongo infectado – *The Gathering* (1999)
-- Sueño X – *Radio* (1998)
+### 名盤
+- Hallucinogen – *Twisted* (1995)  
+- Infected Mushroom – *The Gathering* (1999)  
+- X-Dream – *Radio* (1998)  
 
-### 10 pistas recomendadas (1995–99)
+### おすすめトラック 10選（1995–99）
 
-| # | Título del artista/canción | Año | Notas |
+| #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
-| 1 | Alucinógeno – LSD | 1995 | Icono de género |
-| 2 | Proyección Astral – La gente puede volar | 1995 | Goa melódica |
-| 3 | Universo Eléctrico – Energía Solar | 1995 | Uso intensivo del sintetizador |
-| 4 | X-Dream – Monstruo | 1997 | Psicólogo de Alemania |
-| 5 | Proyección Astral – Galaxia Danzante | 1997 | Una obra maestra de la época dorada |
-| 6 | Cosmosis – Aullando a la Luna | 1996 | Riff alucinatorio |
-| 7 | Shpongle – Momentos Divinos de la Verdad | 1998 | Nacimiento de Psybient |
-| 8 | Hongo infectado – Libérame | 1999 | Simbolizando la próxima generación |
-| 9 | Etnica – Proteína alienígena | 1996 | Escena clásica |
-| 10 | Corporación Planeta Azul – Micromega | 1995 | Sonido Cósmico |
+| 1  | Hallucinogen – LSD | 1995 | ジャンルの象徴 |
+| 2  | Astral Projection – People Can Fly | 1995 | メロディックGoa |
+| 3  | Electric Universe – Solar Energy | 1995 | ハードシンセ使用 |
+| 4  | X-Dream – Freak | 1997 | ドイツ発サイケ |
+| 5  | Astral Projection – Dancing Galaxy | 1997 | 黄金期の名盤 |
+| 6  | Cosmosis – Howling at the Moon | 1996 | 幻覚的リフ |
+| 7  | Shpongle – Divine Moments of Truth | 1998 | Psybient誕生 |
+| 8  | Infected Mushroom – Release Me | 1999 | 次世代を象徴 |
+| 9  | Etnica – Alien Protein | 1996 | シーン定番 |
+| 10 | Blue Planet Corporation – Micromega | 1995 | 宇宙的サウンド |
 
 <br>
 
 ---
 
-## Década de 2000: Ampliación de la escena global
-- **Antecedentes:** El auge de la cultura festiva (Boom Festival, Ozora). Los subgéneros (Psy completo, Psy oscuro, Psy progresivo) están progresando.
-- **Equipo:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q
+## 2000年代：世界規模のシーン拡大
+- **背景:** フェス文化の台頭（Boom Festival, Ozora）。サブジャンル化（フルオン、ダークPsy、プログレッシブPsy）が進む
+- **機材:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q 
 
-### Obra maestra
-- Hongo infectado – *Hongo clásico* (2000)
-- GMS – *Sin reglas* (2002)
-- Atmos – *Limpiador de cabezales* (2000)
+### 名盤
+- Infected Mushroom – *Classical Mushroom* (2000)  
+- GMS – *No Rules* (2002)  
+- Atmos – *Headcleaner* (2000)  
 
-### 10 pistas recomendadas (década de 2000)
+### おすすめトラック 10選（2000s）
 
-| # | Título del artista/canción | Año | Notas |
+| #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
-| 1 | Hongo infectado: haz un movimiento | 2000 | El comienzo del pop |
-| 2 | GMS – Jugo | 2000 | Representante total |
-| 3 | Talamasca – Aries | 2001 | Fullón francés |
-| 4 | Skazi – Revolución | 2002 | Introducción a la guitarra |
-| 5 | Sesto Sento – Venid juntos | 2003 | Orientado a la melodía |
-| 6 | 1200 Microgramos – Ayahuasca | 2002 | Tema psicodélico |
-| 7 | Psysex - Prostituta de la nueva ola | 2001 | Título satírico |
-| 8 | Dark Soho – Profundidad de emoción | 2000 | Psy oscuro |
-| 9 | Ott – Vidrio ahumado y cromo | 2003 | Tiempo lento |
-| 10 | Shpongle – Nada dura... pero nada se pierde | 2005 | Obra maestra psibiente |
+| 1  | Infected Mushroom – Bust a Move | 2000 | ポップ化の端緒 |
+| 2  | GMS – Juice | 2000 | Full-on代表格 |
+| 3  | Talamasca – Aries | 2001 | 仏産フルオン |
+| 4  | Skazi – Revolution | 2002 | ギター導入 |
+| 5  | Sesto Sento – Come Together | 2003 | メロディック志向 |
+| 6  | 1200 Micrograms – Ayahuasca | 2002 | サイケテーマ作 |
+| 7  | Psysex – New Wave Hooker | 2001 | 風刺的タイトル |
+| 8  | Dark Soho – Depth of Emotion | 2000 | Darkpsy系 |
+| 9  | Ott – Smoked Glass and Chrome | 2003 | ダウンテンポ |
+| 10 | Shpongle – Nothing Lasts... But Nothing is Lost | 2005 | Psybient名盤 |
 
 <br>
 
 ---
 
-## Década de 2010: era digital y cruce
-- **Antecedentes:** La producción utilizando DAW y complementos se ha vuelto común. Interacción con EDM y bass music. Se ha consolidado en todo el mundo, liderado por los festivales.
-- **Equipo:** Ableton Live, Serum, Massive, Complementos UAD
+## 2010年代：デジタル時代とクロスオーバー
+- **背景:** DAWとプラグインで制作が主流化。EDMやベースミュージックとの交流。フェス主導で世界的に定着。  
+- **機材:** Ableton Live, Serum, Massive, UAD Plugins 
 
-### Obra maestra
-- Vini Vici y Astrix – *Adhana* (2020)
-- Alma líquida – *Atrapasueños* (2021)
-- Forasteros – *Despertares Cósmicos* (2022)
+### 名盤
+- Vini Vici & Astrix – *Adhana* (2020)  
+- Liquid Soul – *Dreamcatcher* (2021)  
+- Outsiders – *Cosmic Awakenings* (2022)  
 
-### 10 pistas recomendadas (década de 2010)
+### おすすめトラック 10選（2010s）
 
-| # | Título del artista/canción | Año | Notas |
+| #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
-| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del Festival |
-| 2 | Ace Ventura – Pisoteando | 2014 | Representante de Psy Prog |
-| 3 | Avalon – Ritmos del futuro | 2012 | Orientado al futuro |
-| 4 | Ajja – Hongos jugosos | 2011 | Lleno de elementos psicodélicos |
-| 5 | Forasteros: no estamos solos | 2015 | Evolución total |
-| 6 | Modo simbólico y vertical – Lógica de trance | 2015 | Imagen sonora sofisticada |
-| 7 | Astrix – Caminata por la jungla profunda | 2012 | Peso pesado israelí |
-| 8 | Tristán – Modo de vida | 2017 | Representante Psy del Reino Unido |
-| 9 | Alma líquida – Nirvana | 2014 | De orientación progresista |
-| 10 | Hongo infectado – Jefe de la NASA | 2018 | Evolución de un veterano |
+| 1  | Vini Vici – Free Tibet (Remix) | 2016 | フェスアンセム |
+| 2  | Ace Ventura – Stomping Ground | 2014 | Prog Psy代表 |
+| 3  | Avalon – Rhythms of the Future | 2012 | 未来志向 |
+| 4  | Ajja – Juicy Shrooms | 2011 | サイケ要素満載 |
+| 5  | Outsiders – We Are Not Alone | 2015 | フルオン進化 |
+| 6  | Symbolic & Vertical Mode – Trance Logic | 2015 | 洗練された音像 |
+| 7  | Astrix – Deep Jungle Walk | 2012 | イスラエル重鎮 |
+| 8  | Tristan – Way of Life | 2017 | UK Psy代表 |
+| 9  | Liquid Soul – Nirvana | 2014 | プログレッシブ志向 |
+| 10 | Infected Mushroom – Head of NASA | 2018 | ベテランの進化形 |
 
 ---
 
-## Década de 2020: fusión y expansión de nueva generación
-- **Antecedentes**: Continúa la fusión de Psy-Trance, techno, bass music y ambient psicodélico. Debido a su difusión en YouTube y plataformas de distribución, el número de oyentes jóvenes está aumentando rápidamente.
-- **Equipo**: Ableton Live 11, Colección Arturia V, Moog Posterior 37, módulo Eurorack
+## 2020年代：新世代の融合と拡張
+- **背景**: Psy-Tranceとテクノ、ベースミュージック、サイケデリック・アンビエントの融合が進む。YouTubeや配信プラットフォームでの拡散により、若いリスナー層も急増。  
+- **機材**: Ableton Live 11, Arturia V Collection, Moog Subsequent 37, Eurorackモジュール  
 
-### Obra maestra
-- Vini Vici y Astrix – *Adhana* (2020)
-- Alma líquida – *Atrapasueños* (2021)
-- Forasteros – *Despertares Cósmicos* (2022)
+### 名盤
+- Vini Vici & Astrix – *Adhana* (2020)  
+- Liquid Soul – *Dreamcatcher* (2021)  
+- Outsiders – *Cosmic Awakenings* (2022)  
 
-### 10 pistas recomendadas (década de 2020)
+### おすすめトラック 10選（2020s）
 
-| # | Artista | Pista | Año |
+| # | アーティスト | トラック | 年 |
 |---|-------------|----------|----|
-| 1 | Vini Vici y Astrix | Adhana | 2020 |
-| 2 | Ajja y los forasteros | Patrones Sagrados | 2020 |
-| 3 | Alma líquida | Atrapasueños | 2021 |
-| 4 | Ace Ventura y modo vertical | Dimensión 5 | 2021 |
-| 5 | Arder en ruido | Mutación en trance | 2021 |
-| 6 | Ajja | Lluvia de estrellas | 2022 |
-| 7 | Astrix | Sapaná | 2022 |
-| 8 | Avalon y Buda sonriente | El viaje | 2022 |
-| 9 | Forasteros | Despertares Cósmicos | 2022 |
-|10 | Vini Vici | En medio de la nada | 2023 |
+| 1 | Vini Vici & Astrix | Adhana | 2020 |
+| 2 | Ajja & Outsiders | Sacred Patterns | 2020 |
+| 3 | Liquid Soul | Dreamcatcher | 2021 |
+| 4 | Ace Ventura & Vertical Mode | Dimension 5 | 2021 |
+| 5 | Burn in Noise | Trance Mutation | 2021 |
+| 6 | Ajja | Starfall | 2022 |
+| 7 | Astrix | Sapana | 2022 |
+| 8 | Avalon & Laughing Buddha | The Journey | 2022 |
+| 9 | Outsiders | Cosmic Awakenings | 2022 |
+|10 | Vini Vici | In The Middle of Nowhere | 2023 |
 
 <br>
 
 ---
 
-### Hacia el futuro de los psicodélicos
-Psy-Trance nació de la intersección de la cultura y la tecnología hippie, se diversificó en muchas formas diferentes después de su época dorada en los años 90 y continúa dominando los festivales de todo el mundo. Seguir la evolución del diseño de sonido y los cambios en el equipamiento revela el dinamismo de su sonido y la profundidad de su cultura.
+### サイケデリックの未来へ
+Psy-Tranceはヒッピー文化とテクノロジーの交錯から生まれ、90年代の黄金期を経て多彩に分岐し、現在も世界のフェスを席巻しています。音響デザインの進化と機材の変遷を追うと、そのサウンドのダイナミズムと文化の深みが浮かび上がります。
 
-Empezamos con equipos analógicos, pasamos por la digitalización y ahora estamos en la etapa de fusión que trasciende géneros. **Espiritualidad sangrienta de los años 90**, **Explosividad total de alta tecnología de los años 2000**, **Crossover digital de los años 2010** y **Evolución entre géneros de los años 2020**. Cada época creó su propia estética.
+アナログ機材から始まり、デジタル化を経て、現在はジャンルを超えた融合の段階にあります。**1990年代のゴア的スピリチュアル感覚**、**2000年代のハイテク・フルオンの爆発力**、**2010年代のデジタル・クロスオーバー**、そして**2020年代のジャンル横断的な進化**。それぞれの時代が独自の美学を生み出しました。  
 
-Lo que es común en este flujo es la "expansión de la conciencia" y la "experiencia conjunta". Aunque el escenario ha cambiado de fiestas en la playa a grandes festivales y streaming en línea, el deseo de experiencias psicodélicas sigue siendo el mismo.
+この流れの中で共通しているのは「意識の拡張」と「共同体験」です。ビーチパーティーから巨大フェス、さらにはオンライン配信へと舞台を変えつつも、サイケデリック体験を求める欲求は変わりません。  
 
-En el futuro, podemos esperar más desarrollos que trasciendan dimensiones, como el diseño de sonido utilizando IA, experiencias psicodélicas vinculadas a VR y AR, y presentaciones en vivo que combinen Eurorack modular y digital.
+今後は、AIによる音響デザイン、VRやARと連動したサイケデリック体験、Eurorackモジュラーとデジタルを融合させたライブパフォーマンスなど、さらに次元を超えた展開が予想されます。  
 
-**Psy-Trance seguirá siendo un "movimiento cultural y espiritual", no sólo un género musical. **
-Seguir esta historia no es sólo un registro de sonido, sino una parte compartida del "viaje de expansión de la conciencia" de la humanidad.
+**Psy-Tranceは単なる音楽ジャンルではなく「文化的・精神的運動」であり続けるでしょう。**  
+その歴史をたどることは、単なる音の記録ではなく、人類の「意識拡張の旅」の一部を共有することなのです。

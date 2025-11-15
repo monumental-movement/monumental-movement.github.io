@@ -8,30 +8,30 @@ layout: post
 tags:
 - Techno
 - Minimal
-title: Slam – Este mundo (Remixes)
+title: Slam – This World (Remixes)
 ---
 
 
-El remix de Wighnomy Brothers es genial, el original es música sintética británica típica con voces pop/house ligeramente trance, sonoramente lo suficientemente transformada, filtrada y sutilmente alterada para convertirse en un himno de micro-house de estadio muy agudo y emotivo para el siglo XXII.
+Wighnomy Brothersのリミックスは素晴らしく、オリジナルは典型的なイギリスの合成音楽で、わずかにトランス風のポップ/ハウスのボーカルが特徴で、音響的には十分に変形し、フィルター処理され、微妙に変更され、22世紀の非常にシャープで感情的なスタジアム・マイクロハウスのアンセムになっています。
 
-Wighnomy Bros ha logrado algo impensable. Creó música de estadio moderna y emocionante.
+Wighnomy Brosはこの非常に考えられないことを成し遂げました。ヒップでスリリングなスタジアム音楽を生み出しました。
 
-Slam es un dúo de DJ y productores escocés (Orde Meikle, Stuart McMillan) de Glasgow.
+Slamは、グラスゴー出身のスコットランド人 DJ プロデューサーデュオ（Orde Meikle, Stuart McMillan）です。
 
-Cofundador de Soma Quality Recordings y promotor de las fiestas Atlantis (1989-1992) y Slam (1991-) en Glasgow.
+Soma Quality Recordings の共同設立者であり、グラスゴーで開催された Atlantis パーティー (1989-1992) と Slam パーティー (1991-) のプロモーターでもあります。
 
-Nos conocimos en Sheffield en 1986. En ese momento, Ord estudiaba geografía en la universidad y Stuart trabajaba en un bar.
+出会いは1986年のシェフィールド。当時、オードは大学で地理学を専攻しており、スチュアートはバーで働いていました。
 
-El grupo lleva el nombre del tema legendario de Phuture.
+グループ名は、Phuture の伝説的トラックにちなんで名付けられました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. This World (Wighnomy Bros. And Robag Wruhme Bukkelfipps Remix)
 
 AA. This World (Hugg And Pepp Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15078341618?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15078341618?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3m_lcEyJSY?si=eYJDdOpETL9_SqvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

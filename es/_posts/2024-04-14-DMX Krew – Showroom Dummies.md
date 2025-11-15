@@ -8,13 +8,13 @@ layout: post
 tags:
 - Electro
 - Techno
-title: DMX Krew - Dummies de sala de exposición
+title: DMX Krew – Showroom Dummies
 ---
 
 
-DMX Krew (Ed Upton) EP lanzado en 1998 en el sello alemán International Deejay Gigolo Records.
+1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Showroom Dummies Part I & II Written-By – Schneider, Hütter
 
@@ -23,7 +23,7 @@ B1. マネキン (Manekin) Translated By [Japanese Translation] – Miyako Takag
 B2. Cold Heart Part II
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
 
 
 

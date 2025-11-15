@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Indie Rock
-title: Atleta - Lado oeste
+title: Athlete – Westside
 ---
 
 
-Athlete es una banda de indie rock británica formada en Londres. Los miembros son Joel Potts, Carrie Willetts, Stephen Roberts y Tim Wanstall. "Westside" es su canción insignia.
+アスリートは、ロンドンで結成されたUKインディーロックバンド。メンバーは、ジョエル・ポット、キャリー・ウィレッツ、スティーブン・ロバーツ、ティム・ワンストールの4人。「Westside」は彼らの代表曲。
 
-La segunda canción de la cara B es un remix de Elbow, una banda de rock alternativo de Bury, Greater Manchester, Inglaterra, que ha estado activa desde 1990.
+B面2曲目は1990年から活動するイングランド、グレーター・マンチェスターのベリー出身のオルタナティブ・ロックバンドElbowによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Westside
 
@@ -25,7 +25,7 @@ B1. Count Me In
 B2. Westside (Elbow Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40673400916?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40673400916?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ex5dlx4W0ZM?si=RwizD7Ll9VhzYlkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

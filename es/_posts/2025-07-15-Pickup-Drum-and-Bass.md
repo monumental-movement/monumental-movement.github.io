@@ -8,19 +8,19 @@ layout: post
 tags:
 - Drum n Bass
 - Jungle
-title: Recoge trabajos de batería y bajo.
+title: ドラムンベース作品をピックアップ
 ---
 
 
-"Un grupo extraordinario de obras de drum and bass que sacuden el suelo con ritmos agudos y líneas de bajo pesadas".
+「鋭利なビートと重厚なベースラインでフロアを揺さぶる、注目すべきドラムンベース作品群」
 
-<hora>
+<hr>
 
-### Aquasky – Roadster de nailon / Pegamento cósmico
+### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
-Una pista breakbeat de 12 ″ con un piano suave y emotivo de alrededor de 1996-97.
+1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -28,20 +28,20 @@ Y. Cosmic Glue
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Aquasky – Tranquilidad / Kauna
+### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Ácido emocional y breakbeat lanzado por Moving Shadow en el Reino Unido en 1996.
+1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -49,21 +49,21 @@ Y. Cosmic Glue
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
 
-### Dillinja – Ruido fluido/duro
+### Dillinja – Fluid / Hard Noize
 <a href="https://jp.mercari.com/item/m77354316625?afid=6142608987"><img src="../assets/images/Dillinja%20%E2%80%93%20Fluid%20Hard%20Noize.webp"></a>
 
-Una pista clásica de drum and bass underground de 12″ con el potente bajo "Reese".
+迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hard Noize
 
@@ -71,20 +71,20 @@ AA. Fluid
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Motiv One – Cosmik / Progresión de bucle
+### Motiv One – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Contiene sonidos ligeros, jazzísticos y futuristas con una pausa principal.
+軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Cosmik
 
@@ -92,21 +92,21 @@ AA. Loop Progression
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
 ### Drumagick – Cambraia / Brasil
 
 <a href="https://jp.mercari.com/item/m42086405804?afid=6142608987"><img src="../assets/images/Drumagick%20%E2%80%93%20Cambraia.webp"></a>
 
-12″ de la década de 2000, con un ritmo que mezcla elementos del latín brasileño y del jazz.
+ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Cambraia
 
@@ -114,21 +114,21 @@ B. Brasil
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Aaron Spectre – Amén, Punk
+### Aaron Spectre – Amen, Punk
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
-Un álbum único basado en break de Amen (2023) que aporta el toque feroz del punk/hardcore.
+パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 1600 Penn, FTW
 
@@ -137,20 +137,20 @@ B2. You Don't Know
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### DJ Gilb‑R – Presión
+### DJ Gilb‑R – Pressure
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
-Lanzado en Francia en 1997. También incluye remix de Laurent Garnier.
+1997年フランスリリース。Laurent Garnierリミックスも収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Pressure (Original Mix)
 
@@ -160,61 +160,61 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Lista
+### List
 
-<div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>Formato</th>
-<th>Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky <br />– <em>Nylon Roadster / Pegamento cósmico</em></a></td>
-<td>12"</td>
-<td>Piano drum and bass suave y emotivo (96–97)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquilidad / Kauna</em></a></td>
-<td>12"</td>
-<td>Acid break y drum and bass táctil (96)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Ruido fluido/duro</em></a></td>
-<td>12"</td>
-<td>D\&B agresivo basado principalmente en Reese</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Progresión de bucle</em></a></td>
-<td>12"</td>
-<td>Un tema jazzístico y futurista centrado en el ritmo</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
-<td>12"</td>
-<td>D\&B brasileño con sabor latino/jazz (años 2000)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amén, Punk</em></a></td>
-<td>12"</td>
-<td>Jungle/drum and bass con un toque punk (2023)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Presión</em></a></td>
-<td>12"</td>
-<td>Mezcla francesa de los 90 D\&B + techno (97)</td>
-</tr>
-</tbody>
-</tabla>
+<div class="table-border">
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>形式</th>
+      <th>特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky  <br />– <em>Nylon Roadster / Cosmic Glue</em></a></td>
+      <td>12”</td>
+      <td>滑らかで感情的なピアノ系ドラムンベース（96–97）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquility / Kauna</em></a></td>
+      <td>12”</td>
+      <td>アシッドブレイクと感触的ドラムンベース（96）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Fluid / Hard Noize</em></a></td>
+      <td>12”</td>
+      <td>Reeseべース主体のアグレッシブD\&B</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Loop Progression</em></a></td>
+      <td>12”</td>
+      <td>ジャジーで未来的なアーメンビート中心のトラック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
+      <td>12”</td>
+      <td>ラテン／ジャズ色のあるブラジリアンD\&B（2000s）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amen, Punk</em></a></td>
+      <td>12”</td>
+      <td>パンク的エッジを持つジャングル／ドラムンベース（2023）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Pressure</em></a></td>
+      <td>12”</td>
+      <td>90年代フランス産ブレンドD\&B＋テクノ（97）</td>
+    </tr>
+  </tbody>
+</table>
 </div>

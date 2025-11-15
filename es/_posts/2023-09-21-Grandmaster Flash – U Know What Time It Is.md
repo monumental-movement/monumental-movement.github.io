@@ -8,15 +8,15 @@ layout: post
 tags:
 - Hiphop
 - Break Beat
-title: Grandmaster Flash – ¿Sabes qué hora es?
+title: Grandmaster Flash – U Know What Time It Is
 ---
 
 
-Grandmaster Flash es uno de los pioneros del hip-hop estadounidense, conocido como DJ y productor musical.
+グランドマスター・フラッシュは、アメリカのヒップホップのパイオニアの一人であり、DJおよび音楽プロデューサーとして知られています。
 
-"U Know What Time It Is" es una enérgica pista de hip-hop que muestra el estilo característico de Grandmaster Flash. Combinando elementos de hip-hop como ritmos funky, scratching, sampling y breakbeats, sus técnicas únicas de DJ e ideas creativas dan ritmo y dinamismo a las canciones.
+「U Know What Time It Is」は、エネルギッシュなヒップホップトラックで、グランドマスター・フラッシュのシグネチャースタイルが活かされています。ファンキーなビート、スクラッチング、サンプリング、ブレイクビートなど、ヒップホップの要素が組み合わさり、彼の独特なDJテクニックとクリエイティブなアイデアが、曲にリズムとダイナミズムを与えています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  U Know What Time It Is (Extended Scratch)
 
@@ -25,7 +25,7 @@ B1  U Know What Time It Is (Instrumental)
 B2  Bus Dis (Wooo) (LP Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m39048443857?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39048443857?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7UVRMzymR2s?si=jB90vbhk9THUihKd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

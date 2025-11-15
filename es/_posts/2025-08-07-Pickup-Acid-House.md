@@ -9,21 +9,21 @@ tags:
 - Acid
 - Acid House
 - 90s
-title: Recoger trabajos de acid house
+title: アシッドハウス作品をピックアップ
 ---
 
 
-"Un notable grupo de obras de acid house que sacudieron la época con los sonidos del TB-303 y ritmos extáticos".
+「TB-303のうねるサウンドと恍惚感あふれるビートで時代を揺さぶった、注目すべきアシッドハウス作品群」
 
-<hora>
+<hr>
 
-### Problema con el lápiz óptico: esa pista ácida
+### Stylus Trouble – That Acid Track
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
-Un clásico de club con una línea ácida clásica que hace rugir al TR-303. La obra maestra oculta de Pete Heller.
+TR-303が唸る、王道アシッドラインを持つクラブクラシック。Pete Hellerの隠れた名義作。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A.  That Acid Track (Main Mix)
 
@@ -31,20 +31,20 @@ B.  That Acid Track (Dub Version)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NzQ0_D-rlIQ?si=mb3xf729ThqSdmRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
-### Varios – Ácido urbano
+### Various – Urban Acid
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-Auténtico de 1988. Una recopilación importante que captura el punto de ignición del acid house. Fuerte influencia de Chicago.
+1988年の本物。アシッド・ハウスの発火点を捉えた重要コンピ。シカゴ影響強し。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 A2. Charm–Housegirl (Club Mix)
@@ -58,20 +58,20 @@ B4. Charm–Walk On The Wild Side
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
 
-### Petter – EP ácido sin título
+### Petter – Untitled Acid EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-Reconstruyendo el ácido con la creación sonora moderna. Flotando entre el rock minimalista y progresivo.
+モダンな音作りでアシッドを再構築。ミニマル～プログレの間に漂う。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Freak 'N Love
 
@@ -80,20 +80,20 @@ B2. Everyday Balloon
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHZDcIoj7RU?si=VBavyUOyjZCD42Ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
 
-### Bomb The Bass – Di una pequeña oración
+### Bomb The Bass – Say A Little Prayer
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-Ácido x dub x pop. Una obra de arte de 1988 que trasciende las fronteras del género.
+アシッド×ダブ×ポップ。ジャンルを越境した'88年産アートピース。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Say A Little Prayer
 
@@ -101,19 +101,19 @@ B. 10 Seconds To Terminate
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
 
-### Equipo DMX - Nu Romantix
+### DMX Krew – Nu Romantix
 <a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.webp"></a>
 
-Una fusión romántica de acid y electro de los 80. TB-303 emite un sonido suave.
+アシッドと80'sエレクトロのロマンチックな融合。TB-303が柔らかく鳴る。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1.Come To Me
 
@@ -149,19 +149,19 @@ Una fusión romántica de acid y electro de los 80. TB-303 emite un sonido suave
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
-### Brennan Green - Hombre de 900 libras
+### Brennan Green – 900lb Man
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
-Un track ácido con aire disco. Un ritmo bajo y cálido.
+ディスコ感覚で繰り出されるアシッド・トラック。温かみあるロウ・グルーヴ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 900lb Man (Force Of Nature Remix)
 
@@ -170,16 +170,16 @@ B2. 900lb Man (Original Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
 
-<hora>
+<hr>
 
-#### Aquasky – Tranquilidad / Kauna
+#### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Una pieza única que inyecta elementos ácidos al drum"n"bass. Están presentes una sensación de velocidad y una sensación de viaje.
+ドラムンベースにアシッドの要素を注入した異色作。疾走感とトリップ感が同居。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 X. Tranquility
 
@@ -187,19 +187,19 @@ Y. Kauna
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
-#### Pergón – #2
+#### Pergon – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-Acid techno alemán de principios de los 90. El sonido duro y mecánico es atractivo.
+90年代初頭のジャーマン・アシッド・テクノ。硬派で機械的な鳴りが魅力。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Zynatrah
 
@@ -207,8 +207,8 @@ B. Nonrepro
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UQwLAad4Lqg?si=2LYmrRyUciTeSvVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

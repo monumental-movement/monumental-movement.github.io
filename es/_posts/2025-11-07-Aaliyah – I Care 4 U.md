@@ -9,13 +9,13 @@ tags:
 - Hiphop
 - R&B
 - 90s
-title: Aaliyah – Me importa 4 U
+title: Aaliyah – I Care 4 U
 ---
 
 
-Después de la muerte de Aaliyah el 25 de agosto de 2001, en 2002 se lanzó un álbum recopilatorio con DVD que contenía ocho de sus primeros éxitos y seis canciones inéditas de las sesiones de su último álbum de estudio (2001).
+2001年8月25日にアリーヤが亡くなった後、初期のヒット曲8曲と最後のスタジオアルバム（2001年）のセッションから破棄された6曲の未発表曲が収録された、2002年リリースのDVD付きコンピレーションアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 CD-1. Back And Forth
 CD-2. Are You That Somebody
@@ -45,7 +45,7 @@ DVD-10. Japanamation Commercial
 DVD-11. Aaliyah Behind The Scenes
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65054220227?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c13e861913o?si=Udu-qMdZOxaOxx5i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - House
-title: 'Propósito del alma: disfrutar'
+title: Soul Purpose – Indulge
 ---
 
 
-Soul Purpose, también conocido como Martin Ikin (también conocido como DJ Mayhem), ha estado produciendo temas de hardcore, Jungle techno y drum and bass para sellos como Basement, Face y Precious Materials desde principios de los 90.
+Soul Purposeこと、Martin Ikin (別名 DJ Mayhem) は、 90年代初頭からBasement、Face、Precious Materialsなどのレーベルでハードコア、ジャングル テクノ、ドラムンベースのトラックをプロデュースして活躍した。
 
-Desde entonces, ha lanzado música house y temas de la jungla al estilo estadounidense en colaboración con DJ Phantasy.
+その後、USスタイルのハウスミュージックや、DJ Phantasyとコラボレーションでジャングルトラックなどをリリースしている。
 
-"Soul Purpose – Indulge" es una reelaboración de "Indulge" de Neil Howard lanzada en 1990.
+「Soul Purpose – Indulge」は、1990年にリリースされたNeil Howard（ニール ハワード）「Indulge」のrework。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Indulge (M's Classic Mix)
 
@@ -26,7 +26,7 @@ B1. Indulge (M's Dub Mix)
 B2. Indulge (M's Reprise)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2QSYbwa1OI?si=m3YlnWg7VKI-gccV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

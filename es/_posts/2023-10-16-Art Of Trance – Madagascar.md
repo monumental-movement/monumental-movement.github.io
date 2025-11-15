@@ -7,15 +7,15 @@ lang: es
 layout: post
 tags:
 - Trance
-title: El arte del trance – Madagascar
+title: Art Of Trance – Madagascar
 ---
 
 
-Side A es un remix de Matthias Hoffmann y el proyecto de trance alemán Cygnus X de Ralf Hildenbeutel.
+A面はMatthias HoffmannとRalf HildenbeutelのジャーマントランスプロジェクトCygnus Xによるremix。
 
-La primera pista de la cara B es un remix del DJ y productor holandés Ferry Corsten (System F).
+B面１曲目は、オランダの DJ/プロデューサーFerry Corsten（フェリー・コーステン/System F）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Madagascar (Cygnus X Remix)
 
@@ -24,7 +24,7 @@ B1. Madagascar (Ferry Corsten Remix)
 B2. Madagascar (Original Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64443542697?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64443542697?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VUwn7cmG6Ng?si=nsSgGQ8kMW1DwtF5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

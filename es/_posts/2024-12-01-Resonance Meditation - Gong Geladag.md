@@ -9,13 +9,13 @@ tags:
 - Deep House
 - House
 - Techno
-title: Meditación de resonancia - Gong Geladag
+title: Resonance Meditation - Gong Geladag
 ---
 
 
-El primer álbum de la serie Lost & Found supervisado por Haruomi Hosono. Fuente de sonido grabada localmente el 17 de abril de 2000 en Bali utilizando un sistema sonoro de 24 bits y 192 KHz.
+細野晴臣が監修したLost & Foundシリーズの第一弾アルバム。2000年4月17日バリ島で24bit 192KHz sonic system による現地録音音源。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 01. 創作儀礼曲「革命の鐘」/I Wayan Beratha(イ・ワヤン・ブラダ)
 02. 儀礼曲「スマラ神の火刑」/Traditional(トラディッショナル)
@@ -24,10 +24,10 @@ El primer álbum de la serie Lost & Found supervisado por Haruomi Hosono. Fuente
 05. 古典儀礼曲「慈愛」/Traditional(トラディッショナル）
 ```
 
-"Objetos perdidos" supervisado por Haruomi Hosono
+細野晴臣監修 "Lost & Found"
 
-Meditación de resonancia - Gong Geladag
+Resonance Meditation - Gong Geladag
 
-Meditación de resonancia Meditación de resonancia - Gong Gradag
+レゾナンスメディテーション 共鳴瞑想- ゴング・グラダグ 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46194452889?afid=6142608987){: .button1}

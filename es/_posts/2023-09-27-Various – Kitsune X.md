@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Electro
-title: Varios – Kitsuné X
+title: Various – Kitsuné X
 ---
 
 
-"Kitsuné X" es el esperado tercer álbum de la compañía francesa Kitsune, lanzado en 2005.
+「Kitsuné X」は、フランスのKitsuneによる2005年にリリースされた待望の3作目です。
 
-Este es un álbum recopilatorio de formato libre basado en electro, disco y punk.
+エレクトロ、ディスコ・パンクをベースに、フリーフォームで展開されるコンピレーションアルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Popular Computer–Darling
 
@@ -45,7 +45,7 @@ Este es un álbum recopilatorio de formato libre basado en electro, disco y punk
 12b. Dieter Schmidt–Morse Code From The Cold War
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

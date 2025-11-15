@@ -10,17 +10,17 @@ tags:
 - NY House
 - US House
 - 90s
-title: Maurice - Me hizo arder
+title: Maurice – Got Me Burning Up
 ---
 
 
-Maurice (King Maurice) es el hermano menor de DJ Pierre, y los dos también son conocidos como The Wild Pitch Brothers.
+Maurice（King Maurice）はDJ Pierreの実の弟であり、２人でThe Wild Pitch Brothersとしても活動している。
 
-Side A es un remix de DJ Pierre, pionero del sonido acid house.
+A面は、アシッドハウスサウンドの先駆者 DJ Pierre（DJピエール）によるremix。
 
-Durante este período, la A&R de Strictly Rhythm fue Gladys Pizarro.
+この時期のStrictly RhythmのA&Rは、Gladys Pizarro（グラディス・ピサロ）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Got Me Burning Up (Pierre's Pitch Fo-Yo Ass!)
 
@@ -28,7 +28,7 @@ B1. Got Me Burning Up (Maurice's Phat Pitch)
 B2. Wild Beats
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92108192897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92108192897?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hy8tjQq64y8?si=AK84Ypa4mw27tMmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,24 +8,24 @@ layout: post
 tags:
 - Rock
 - Hard Rock
-title: ACDC – Charlas de dinero
+title: ACDC – Moneytalks
 ---
 
 
-"Moneytalks" es una canción del álbum de 1990 de AC/DC, The Razors Edge.
+「Moneytalks」は、AC/DCの1990年のアルバム『The Razors Edge』に収録されている一曲です。
 
-"Moneytalks" es una canción que se caracteriza por su ritmo rápido y su riff y melodía pegadizos. La canción en su conjunto transmite la poderosa interpretación y poderosa voz de AC/DC, y tiene un encanto que atrae al oyente.
+「Moneytalks」は、アップテンポでキャッチーなリフとメロディが特徴的な楽曲で、曲全体からはAC/DCのパワフルな演奏とヴォーカルの力強さが感じられ、聴く人を引き込む魅力を持っています。
 
-Esta canción es conocida como una de las canciones emblemáticas de AC/DC y es uno de los éxitos de su carrera. Es una canción popular para los fanáticos del rock que disfrutan de la guitarra aérea y los golpes en la cabeza. Además, una amplia gama de fanáticos de la música disfrutan de sus pegadizas melodías y poderosas interpretaciones.
+この曲は、AC/DCの代表曲の一つとして知られており、彼らのキャリアにおけるヒット曲の一つです。エアギターやヘッドバンギングなど、ロックファンにとっては盛り上がる曲として人気があります。また、そのキャッチーなメロディや力強い演奏は、広い層の音楽ファンにも楽しまれています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Moneytalks
 
 A2. Borrowed Time
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95995601348?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95995601348?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lqdErI9uss?si=y0TnHJ73m6PFb3KO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

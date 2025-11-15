@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - 80s
-title: Baby Ford – Hijos de la Revolución
+title: Baby Ford – Children Of The Revolution
 ---
 
 
-Peter Frank Adshead, también conocido como Baby Ford, es un productor de música electrónica británico conocido por contribuir al nacimiento del acid house. La canción de club Oochy Koochy (F.U. Baby Yeah Yeah), lanzada en 1988, se considera el primer disco de acid house del Reino Unido que llega a la lista de singles del Reino Unido.
+Baby FordことPeter Frank Adsheadは、アシッド・ハウスの誕生に貢献したことで知られているイギリスのエレクトロニックミュージックプロデューサー。1988年にリリースされたクラブトラック『Oochy Koochy (F.U. Baby Yeah Yeah)』は、UKシングルチャートでヒットしたUK初のアシッドハウスレコードとみなされている。
 
-Este disco es una mezcla house en la que BabyFord sampleó y versionó la exitosa canción de 1989 de Marc Bolan & T. Rex, "Children of the Revolution", en un estilo house/acid house/electro house, y fue lanzado en 1989 en el sello independiente del Reino Unido Rhythm King.
+このレコードは、1989年にリリースされた Marc Bolan & T. Rex のヒット曲「Children of the Revolution」を Baby Fordがハウス/アシッドハウス/エレクトロハウス風にサンプリング＆カヴァーしたHouseミックスで、UKのインディペンデントレーベルRhythm Kingから1989年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Children Of The Revolution (Inca Love Mix)
 A2. Children Of The Revolution (Inca Edit)
@@ -25,7 +25,7 @@ B1. My Innersence
 B2. Children Of The Revolution (Bumbino)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51998095392?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51998095392?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x6rvMg4esBA?si=ap1YugS78TAGGQN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

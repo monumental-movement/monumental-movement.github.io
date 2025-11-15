@@ -10,318 +10,318 @@ tags:
 - SoundSystem
 - Dancehall
 - Reggae
-title: '[Columna] Dancehall y sistemas de sonido: el bajo mueve el mundo'
+title: 【コラム】 ダンスホールとサウンドシステム——低音が世界を動かす
 ---
 
 
-## Prólogo: Revolución empezando por el bajo
+## 序章：低音から始まる革命
 
 
-Texto: mmr | Tema: El dancehall es más que un simple género musical, se trata de la filosofía de esperanza de que "cada uno puede tener su propio sonido".
+文：mmr｜テーマ：ダンスホールとは、単なる音楽ジャンルではなく、 「誰もが自分の音を持つことができる」という希望の哲学について
 
-Kingston a medianoche.
-Un altavoz montado en la plataforma de un camión emite un bajo retumbante.
-Era "otra radio" que resonaba en las calles de la pobreza.
-Las personas sin periódicos ni televisión pueden compartir información e intercambiar mensajes a través del sonido.
-**Un sistema de sonido es un dispositivo de expresión que integra música, política y comunidad**.
-Con el tiempo, las olas cruzarían el océano y sacudirían Londres, Nueva York e incluso Tokio.
+真夜中のキングストン。  
+トラックの荷台に積まれたスピーカーから、地鳴りのようなベースが放たれる。  
+それは貧困の街角に響く「もう一つのラジオ」だった。  
+新聞もテレビも届かない人々が、音によって情報を共有し、メッセージを交わす。  
+**サウンドシステムとは、音楽と政治と共同体が一体化した表現装置**であり、  
+やがてその波は海を越え、ロンドンやニューヨーク、東京までも震わせることになる。
 
-Esta columna presenta la cultura del sound system que nació en las calles de Jamaica.
-¿Cómo evolucionó el dancehall hasta convertirse en un fenómeno musical mundial?
-Lo seguiremos desde las perspectivas de la historia, la ideología, la tecnología y la sociedad.
+このコラムでは、ジャマイカのストリートで生まれたサウンドシステム文化が、  
+どのようにして**ダンスホール**という世界的音楽現象へ進化したのかを、  
+歴史・思想・技術・社会の観点からたどっていく。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Capítulo 1 Nacimiento del sistema de sonido (décadas de 1940-1960)
+## 第1章　サウンドシステムの誕生（1940〜1960年代）
 
-### ▪ El momento en que las fiestas callejeras se convierten en "cultura"
+### ▪ ストリートのパーティが「文化」になる瞬間
 
-En la Jamaica de la posguerra, los propietarios de tiendas de discos y los jóvenes amantes de la música cargaron camiones, instalaron parlantes y comenzaron a tocar música toda la noche. Este es el origen del "sistema de sonido".
+戦後のジャマイカでは、レコード店主や音楽好きの若者たちがトラックを積み、スピーカーを並べ、夜通し音楽を流すようになった。これが「サウンドシステム」の起源である。
 
-Un sistema inicial típico es:
+代表的な初期システムは：
 
-| Operador | Nombre | Periodo de actividad | Características |
-|------|------|------------|------|
-| Tom el Gran Sebastián | Década de 1950 | Principalmente jazz y R&B. Los primeros sistemas "móviles" |
-| Duque Reid | Duque Reid el troyano | Décadas de 1950 y 1960 | Un famoso operador armado que se graduó en la policía. Posteriormente se fundó Treasure Isle |
-| Clemente "Coxsone" Dodd | Sir Coxsone pesimista | Década de 1950 ~ | Antiguo Estudio Uno. Liderando la era del ska |
+| オペレーター | 名称 | 活動時期 | 特徴 |
+|---------------|------|-----------|------|
+| トム・ザ・グレート・セバスチャン | Tom the Great Sebastian | 1950s | ジャズやR&B中心。最初期の「移動式」システム |
+| デューク・リード | Duke Reid the Trojan | 1950s〜60s | 銃を持つ警察上がりの名オペレーター。後にTreasure Isle設立 |
+| クレメント・“コックスソン”・ドッド | Sir Coxsone Downbeat | 1950s〜 | Studio Oneの前身。スカ時代を牽引 |
 
-### ▪ Economía local y comunidad
+### ▪ ローカル経済と共同体
 
-Para los pobres, la danza no es sólo un entretenimiento, sino un lugar de expresión y supervivencia.
-Este espacio, por donde circulaba música, alcohol y comida, se convirtió luego en el prototipo de la industria del reggae.
-
----
-
-## Capítulo 2 Era Roots Rock y Dub (década de 1970)
-
-### ▪ Los ingenieros de sonido se convierten en "compositores"
-
-King Tubby, Lee Perry, Errol Thompson y otros utilizaron la mesa de mezclas como un instrumento musical e inventaron una nueva expresión sonora llamada "dub".
-**Borrar las voces y reconstruir el ritmo con ecos**—Esta idea se convirtió en el punto de partida para la cultura de remezclas posterior.
-
-> "Dub es el espacio donde el espíritu habla." —Lee Perry
-
-### ▪ Filosofía de graves del altavoz
-
-El "bajo" del sistema de sonido tenía un sonido religioso.
-Conectados con el espíritu rastafari, expresan su visión del universo como "tono bajo = tierra" y "tono agudo = cielo".
-Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y la **soundclash culture**.
+貧しい人々にとって、ダンスは単なる娯楽ではなく「表現と生存の場」。  
+音楽・酒・食事が循環するこの空間が、のちの**レゲエ産業の原型**となった。
 
 ---
 
-## Capítulo 3 La revolución digital y el surgimiento del dancehall (años 80-90)
+## 第2章　ルーツ・ロックとダブの時代（1970年代）
 
-### ▪ Flacidez y explosión de jerga
+### ▪ サウンドエンジニアが「作曲家」になる
 
-En 1985, **"Under Mi Sleng Teng''** de Wayne Smith cambió todo.
-Se dice que esta canción, que utiliza los ajustes preestablecidos de ritmo del Casio MT-40, es el primer reggae completamente digital de la historia y, a partir de entonces, el "dancehall digital" se convirtió en algo común.
+キング・タビー、リー・ペリー、エロル・トンプソンらがミキシング卓を楽器のように操り、「ダブ（Dub）」という新たな音響表現を発明した。  
+**ボーカルを消し、リズムを反響で再構築する**——この発想が、後のリミックス文化の出発点となる。
 
-| Año | Canción representativa | Artista | Notas |
+> “Dub is the space where the spirit speaks.” — Lee Perry
+
+### ▪ スピーカーの低音哲学
+
+サウンドシステムの「ベース」は宗教的な響きを持っていた。  
+ラスタファリアンの精神と結びつき、「低音＝地球」「高音＝天」として宇宙観を表現する。  
+この思想は後に**UKダブ**（Jah Shaka、Aba Shanti-I）や**サウンドクラッシュ文化**に継承されていく。
+
+---
+
+## 第3章　デジタル革命とダンスホールの登場（1980〜90年代）
+
+### ▪ スラックネスとスラングの爆発
+
+1985年、**Wayne Smith『Under Mi Sleng Teng』**が全てを変えた。  
+Casio MT-40のリズムプリセットを使ったこの曲は、**史上初の完全デジタル・レゲエ**とされ、以後「デジタル・ダンスホール」が主流となる。
+
+| 年 | 代表曲 | アーティスト | 備考 |
 |----|--------|---------------|------|
-| 1985 | Bajo Mi Sleng Teng | Wayne Smith | El primer riddim digital del mundo |
-| 1986 | punanny | Almirante Bailey | Símbolo de "holgura" |
-| 1990 | Arco demócrata | Rangos de Shaba | Más tarde se convertirá en el ritmo básico del reggaetón |
+| 1985 | Under Mi Sleng Teng | Wayne Smith | 世界初のデジタルリディム |
+| 1986 | Punanny | Admiral Bailey | “Slackness”の象徴 |
+| 1990 | Dem Bow | Shabba Ranks | 後にレゲトンの基礎リズムとなる |
 
-### ▪ MC (Deejay) toma protagonismo
+### ▪ MC（Deejay）の主役化
 
-La cultura del brindis se acercó al rap de DJ e influyó en el nacimiento del hip-hop.
-Es una historia bien conocida que el jamaicano Kool Herc trajo un sistema de sonido al Bronx de Nueva York e inició la cultura breakbeat.
-
----
-
-## Capítulo 4 El choque de sonidos y la profundización de la cultura del DJ
-
-### ▪ Choque = Batalla de sonido
-
-Sound Clash es un evento en el que varios sistemas de sonido compiten entre sí.
-La diferencia entre ganar y perder es cuántas **Original Dub Plate** (grabaciones especiales) tienes y cuánto puedes emocionar a la audiencia.
-
-Sonidos representativos:
-- **Movimiento de Amor de Piedra** (Kingston)
-- **Bass Odyssey** (St. Ann)
-- **Killamanjaro** (época dorada de los 90)
-- **Mighty Crown** (Japón)
-
-### ▪ La hazaña de Japón: la dominación mundial de Mighty Crown
-
-**Mighty Crown** de Yokohama derrotó a un equipo jamaicano para ganar el World Clash de 2002.
-Fue el momento en que el "sonido extranjero" alcanzó su punto máximo por primera vez.
-Desde entonces, han nacido sonidos locales en todo Japón y se ha formado un área cultural llamada "Reggae Village".
+トースティング（語り）文化がDJラップに接近し、ヒップホップの誕生にも影響。  
+ジャマイカ出身の**クール・ハーク**がNYブロンクスでサウンドシステムを持ち込み、ブレイクビーツ文化を開いたのは有名な話だ。
 
 ---
 
-## Capítulo 5 Globalizando el Dancehall (décadas de 2000 a 2020)
+## 第4章　サウンドクラッシュとディージェイ文化の深化
 
-### ▪ Impacto en el pop global
+### ▪ Clash＝音の戦い
 
-Sean Paul, Vybz Kartel, Popcaan y otros tomaron por asalto la corriente principal.
-En la década de 2010, ""One Dance" de **Drake** y ""Lean On"** de **Major Lazer hicieron dancehall pop.
-El patrón rítmico "Dem Bow" se ha extendido al reggaetón, afrobeats y K-Pop.
+サウンドクラッシュとは、複数のサウンドシステムが競い合うイベント。  
+どれだけ**オリジナルDub Plate**（特別録音）を持っているか、どれだけ観客を沸かせるかが勝敗を分ける。
 
-### ▪ Bajo como diáspora
+代表的なサウンド：
+- **Stone Love Movement**（Kingston）  
+- **Bass Odyssey**（St. Ann）  
+- **Killamanjaro**（90s黄金期）  
+- **Mighty Crown**（日本）  
 
-El dancehall es también un símbolo de la cultura inmigrante.
-Londres, Toronto, Tokio—Las comunidades negras en ciudades de todo el mundo han estado expresando sus raíces en notas bajas.
+### ▪ 日本の快挙：Mighty Crownの世界制覇
 
----
-
-## Capítulo 6 Cultura de sistemas de sonido en Japón y Asia
-
-### ▪ El reggae se vuelve local
-
-Desde la década de 1990, la cultura sonora se ha arraigado en Japón, principalmente en Yokohama, Osaka y Nagoya.
-Los sistemas de sonido caseros equipados con woofers gigantes aparecen uno tras otro en eventos de clubes y festivales al aire libre.
-
-Principales jugadores japoneses:
-- **Corona Poderosa** (Yokohama)
-- **Sonido Platino**, **Infinito 16**, **Rey Ryukyu**, **Escorpión**
-- Festivales al aire libre "**Yokohama Reggae Sai**", "**Japan Splash**", etc.
-
-### ▪ Espíritu DIY y herencia moderna
-
-En los últimos años, se ha cruzado con el dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** y otros están actualmente activos.
-La raíz de esto es la filosofía del sistema de sonido de "producir nuestros propios sonidos con nuestras propias manos".
+横浜出身の**Mighty Crown**は、2002年の「World Clash」でジャマイカ勢を破り優勝。  
+「外国人サウンド」が初めて頂点を取った瞬間だった。  
+以来、日本各地にローカルサウンドが誕生し、**「レゲエ村」**の文化圏が形成されていった。
 
 ---
 
-## Cronología: La evolución de los sistemas de sonido y el dancehall
+## 第5章　世界化するダンスホール（2000〜2020年代）
 
-| Años | Eventos | Personas clave |
+### ▪ グローバルポップへの影響
+
+Sean Paul、Vybz Kartel、Popcaanらがメインストリームを席巻。  
+2010年代には**Drake「One Dance」**や**Major Lazer「Lean On」**がダンスホールをポップ化。  
+リズムパターン“Dem Bow”はレゲトン、アフロビーツ、K-POPにまで拡張された。
+
+### ▪ ディアスポラとしての低音
+
+ダンスホールは移民文化の象徴でもある。  
+ロンドン、トロント、東京——世界各都市の黒人コミュニティが、自らのルーツを低音で表現してきた。
+
+---
+
+## 第6章　日本・アジアのサウンドシステム文化
+
+### ▪ ローカル化するレゲエ
+
+1990年代以降、日本では横浜・大阪・名古屋を中心にサウンド文化が根付く。  
+クラブイベントや野外フェスで、巨大ウーハーを積んだ**自作サウンドシステム**が次々登場。
+
+主な日本勢：
+- **Mighty Crown**（横浜）  
+- **Sound Platinum**, **Infinity 16**, **King Ryukyu**, **Scorpion**  
+- 野外フェス「**Yokohama Reggae Sai**」「**Japan Splash**」など  
+
+### ▪ DIY精神と現代的継承
+
+近年では、ダブステップ／テクノと交わる形で、  
+**東京Dub Attack**, **Zettai-Mu（大阪）**, **Mura Masa System（沖縄）**などが活動中。  
+その根底には「自分たちの音を、自分たちの手で鳴らす」というサウンドシステム哲学が息づいている。
+
+---
+
+## 年表：サウンドシステムとダンスホールの進化
+
+| 年代 | 出来事 | キーパーソン |
 |------|----------|----------------|
-| Década de 1940 | Nacimiento de la cultura del sistema de sonido | Tom el Gran Sebastián |
-| Década de 1950 | Comienza Duke Reid y Coxsone | Duque Reid, Coxsone Dodd |
-| Década de 1960 | Ska → Rocksteady → Reggae | Los Skatalitas |
-| Década de 1970 | Nacimiento del Dub, penetración de la ideología rasta | Rey Tubby, Lee Perry |
-| Década de 1980 | Revolución digital, "Sleng Teng" | Wayne Smith |
-| Década de 1990 | La edad de oro del Dancehall, emerge Mighty Crown | Rangos de Shabba, Beenie Man |
-| Años 2000 | Pop mundial | Sean Paul, el hombre elefante |
-| Década de 2010 | Era global del Dancehall/Reguetón | Popcaan, Drake |
-| Años 2020 | Aumento del sonido local DIY | Sistema Mura Masa y otros |
+| 1940s | サウンドシステム文化誕生 | Tom the Great Sebastian |
+| 1950s | Duke Reid, Coxsone活動開始 | Duke Reid, Coxsone Dodd |
+| 1960s | スカ→ロックステディ→レゲエへ | The Skatalites |
+| 1970s | Dub誕生、ラスタ思想浸透 | King Tubby, Lee Perry |
+| 1980s | デジタル革命、「Sleng Teng」 | Wayne Smith |
+| 1990s | ダンスホール黄金期、Mighty Crown登場 | Shabba Ranks, Beenie Man |
+| 2000s | 世界的ポップ化 | Sean Paul, Elephant Man |
+| 2010s | Global Dancehall / Reggaeton時代 | Popcaan, Drake |
+| 2020s | ローカルDIYサウンド台頭 | Mura Masa System 他 |
 
 ---
 
-## Diagrama: Genealogía evolutiva de la música dancehall
+## 図表：ダンスホール音楽の進化系譜図
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico TD
-A["Sistema de sonido\n(década de 1940)"] --> B["Ska\n(década de 1960)"]
-B --> C["Reggae/Dub\n(década de 1970)"]
-C --> D["Dancehall\n(década de 1980)"]
-D --> E["Dancehall global\n(década de 2000)"]
-E --> F["Reguetón / Afrobeats\n(década de 2010〜)"]
-D --> G["Cultura del sistema de sonido japonés\n(década de 1990~)"]
+graph TD
+A["Sound System\n(1940s)"] --> B["Ska\n(1960s)"]
+B --> C["Reggae / Dub\n(1970s)"]
+C --> D["Dancehall\n(1980s)"]
+D --> E["Global Dancehall\n(2000s)"]
+E --> F["Reggaeton / Afrobeats\n(2010s〜)"]
+D --> G["日本のSound System文化\n(1990s〜)"]
 
 </div>
 
 ---
 
-## Conclusión: ¿Hacia dónde se dirige el bajo?
+## 結語：低音はどこへ向かうのか
 
-Un sistema de sonido es más que un simple equipo de audio.
-Es una infraestructura de autoexpresión y un símbolo de resistencia y solidaridad.
-En las esquinas sin electricidad ni estudios, la gente amplifica su voz, baila y celebra.
-Esa energía es la que dio origen al hip-hop, dio origen al reggaetón,
-Y se ha transmitido al EDM y al Afrobeats de hoy.
+サウンドシステムとは、単なる音響機材ではない。  
+それは**自己表現のインフラであり、抵抗と連帯の象徴**である。  
+電力もスタジオもない街角で、人々が自分たちの声を増幅し、踊り、祝う。  
+そのエネルギーこそが、ヒップホップを生み、レゲトンを生み、  
+そして今日のEDMやアフロビーツにも受け継がれている。
 
-Si rastreas el origen del bajo que ruge en los festivales de todo el mundo,
-Definitivamente terminarás de noche en Kingston.
-La música es una "memoria corporal" que se comparte a través de fronteras.
+世界中のフェス会場で轟く低音の源流をたどれば、  
+必ずキングストンの夜へと行き着く。  
+音楽とは、国境を超えて共有される「身体の記憶」なのだ。
 
-> **"Un sistema de sonido no es sólo sonido, es supervivencia".**
+> **“Sound system is not just sound — it’s survival.”**
 
 
 
 ---
 
-## Tabla de potencia del sistema de sonido doméstico en Japón
+## 日本国内サウンドシステム勢力図
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico TD
-A["Cultura del sistema de sonido japonés<br/>(década de 1990~)"] --> B["Zona de Kanto"]
-A --> C["área de Kansai"]
-A --> D["Área Chubu/Tokai"]
-A --> E["Área de Kyushu/Okinawa"]
-A --> F["Área de Hokkaido/Tohoku"]
+graph TD
+    A["日本のSound System文化<br/>(1990s〜)"] --> B["関東エリア"]
+    A --> C["関西エリア"]
+    A --> D["中部・東海エリア"]
+    A --> E["九州・沖縄エリア"]
+    A --> F["北海道・東北エリア"]
 
-%% Kanto
-B --> B1["Corona poderosa<br/>(Yokohama, 1991~)"]
-B --> B2["Infinito 16<br/>(Tokio, 1998〜)"]
-B --> B3["Mercado Rub-A-Dub / Campamento de bajo"]
-B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
+    %% 関東
+    B --> B1["Mighty Crown<br/>(Yokohama, 1991〜)"]
+    B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
+    B --> B3["Rub-A-Dub Market / Bass Camp"]
+    B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
 
-%% Kansái
-C --> C1["Zettai-Mu<br/>(Metro de Osaka)"]
-C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
-C --> C3["Rudeboy Face / Ninja Man Japón"]
+    %% 関西
+    C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
+    C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
+    C --> C3["Rudeboy Face / Ninja Man Japan"]
 
-%% Chubu/Tokai
-D --> D1["Quemar<br/>(Eje Nara-Nagoya)"]
-D --> D2["Scorpion Int'l / Nagoya King Bass"]
+    %% 中部・東海
+    D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
+    D --> D2["Scorpion Int’l / Nagoya King Bass"]
 
-%% Kyushu/Okinawa
-E --> E1["Sistema Mura Masa<br/>(Okinawa, años 2000~)"]
-E --> E2["Rey Ryukyu / Tropixx"]
+    %% 九州・沖縄
+    E --> E1["Mura Masa System<br/>(Okinawa, 2000s〜)"]
+    E --> E2["King Ryukyu / Tropixx"]
 
-%% Hokkaido/Tohoku
-F --> F1["Sonido de la Isla Norte<br/>(Sapporo)"]
-F --> F2["Sendai Sound Bash / Enlace local"]
+    %% 北海道・東北
+    F --> F1["North Island Sound<br/>(Sapporo)"]
+    F --> F2["Sendai Sound Bash / Local Link"]
 
-relleno de estilo A:#ffccff,trazo:#333,ancho de trazo:2px
-relleno estilo B:#ffe6b3
-relleno estilo C:#ffd9b3
-relleno estilo D:#c2f0c2
-relleno estilo E:#b3e0ff
-relleno estilo F:#e0ccff
+    style A fill:#ffccff,stroke:#333,stroke-width:2px
+    style B fill:#ffe6b3
+    style C fill:#ffd9b3
+    style D fill:#c2f0c2
+    style E fill:#b3e0ff
+    style F fill:#e0ccff
 
 
 </div>
 
-Este diagrama muestra la red de culturas de sistemas de sonido independientes formadas por región.
-Las siguientes características son claras: ""Yokohama = orientación internacionalmente competitiva", ""Osaka = conexión directa con las calles" y ""Okinawa = el punto de conexión entre el Caribe y Asia''.
+この図は、地域ごとに形成された**独立型サウンドシステム文化のネットワーク**を示します。  
+「横浜＝国際的競技志向」「大阪＝ストリート直系」「沖縄＝カリブとアジアの接続点」という特徴が明確です。  
 
 ---
 
 
-## Diagrama de evolución de la tecnología de audio (altavoz/mezclador/sistema de equipos)
+## 音響技術進化図（スピーカー／ミキサー／機材の系統）
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico LR
-A["Década de 1950<br/>Caja de altavoz hecha a mano<br/>(Era de amplificadores de válvulas)"] --> B["Década de 1960<br/>Mueble tipo bocina"]
-B --> C["Década de 1970<br/>Sistema de apilamiento de 4 posiciones"]
-C --> D["años 80<br/>Mezclador digital + preamplificador"]
-D --> E["Década de 1990<br/>Procesador + amplificador activo"]
-E --> F["década de 2000<br/>Configuración de tarjeta de sonido/crossover basada en PC"]
-F --> G["década de 2020<br/>DIY DSP + potencia clase D"]
+graph LR
+    A["1950s<br/>手作りスピーカー箱<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
+    B --> C["1970s<br/>4-Way Stack System"]
+    C --> D["1980s<br/>Digital Mixer + Preamp"]
+    D --> E["1990s<br/>Processor + Active Amp"]
+    E --> F["2000s<br/>PC-based Crossover / Soundcard Setup"]
+    F --> G["2020s<br/>DIY DSP + Class-D Power"]
 
-A --> AA["Tom el Gran Sebastián<br/>(Primer sistema de megafonía)"]
-B --> AB["King Tubby<br/>Tecnología de amplificador casera"]
-C --> AC["Sistema de sonido de canal uno<br/>Revolución de 4 vías"]
-D --> AD["Escuela de doblaje del Reino Unido<br/>Jah Shaka / Aba Shanti"]
-F --> AE["Constructores japoneses de bricolaje<br/>Mura Masa / Tokyo Dub Attack"]
+    A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
+    B --> AB["King Tubby<br/>自作Amp技術"]
+    C --> AC["Channel One Sound System<br/>4-Way Revolution"]
+    D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
+    F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]
 
-relleno de estilo A:#ffcc00,trazo:#333,ancho de trazo:2px
-relleno de estilo G:#a3f0a3,trazo:#333,ancho de trazo:2px
+    style A fill:#ffcc00,stroke:#333,stroke-width:2px
+    style G fill:#a3f0a3,stroke:#333,stroke-width:2px
 
 </div>
 
-Este diagrama muestra la "historia de la evolución del bricolaje de los equipos de audio".
-Desde válvulas de vacío analógicas hasta control DSP, el espíritu de "crear tu propio sonido" es constante.
+この図は「音響装置のDIY進化史」を表しています。  
+アナログ真空管からDSP制御まで、**「音を自分で作る」精神**が一貫しています。  
 
 ---
 
 
 
 
-## Mapa de expansión cultural (intersección con hip-hop, techno y afrobeats)
+## 文化拡張マップ（ヒップホップ・テクノ・アフロビーツとの交差）
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico TD
-A["Cultura del sistema de sonido<br/>(Jamaica 1940s~)"] --> B["Dub / Reggae<br/>(1970s)"]
-B --> C["Dancehall<br/>(década de 1980)"]
-B --> D["Hip-Hop<br/>(Nueva York años 70~)"]
-C --> E["Reguetón<br/>(Puerto Rico años 1990〜)"]
-C --> F["Afrobeats<br/>(Nigeria años 2000~)"]
-B --> G["Dub Techno / Ambient<br/>(Berlín 1990~)"]
-F --> H["K-POP Dancehall híbrido<br/>(década de 2020)"]
-C --> I["Escena del reggae japonés<br/>(década de 1990~)"]
-G --> J["Festivales de Electrónica / Arte Sonoro<br/>(Europa / Japón 2000〜)"]
+graph TD
+    A["Sound System Culture<br/>(Jamaica 1940s〜)"] --> B["Dub / Reggae<br/>(1970s)"]
+    B --> C["Dancehall<br/>(1980s)"]
+    B --> D["Hip-Hop<br/>(NY 1970s〜)"]
+    C --> E["Reggaeton<br/>(Puerto Rico 1990s〜)"]
+    C --> F["Afrobeats<br/>(Nigeria 2000s〜)"]
+    B --> G["Dub Techno / Ambient<br/>(Berlin 1990s〜)"]
+    F --> H["K-POP Dancehall Hybrid<br/>(2020s)"]
+    C --> I["Japanese Reggae Scene<br/>(1990s〜)"]
+    G --> J["Electronic Festivals / Sound Art<br/>(Europe / Japan 2000s〜)"]
 
-D --> C
-mi -> F
-Yo -> J
-G --> yo
+    D --> C
+    E --> F
+    I --> J
+    G --> I
 
-relleno de estilo A:#ffd966,trazo:#333,ancho de trazo:2px
-relleno de estilo C:#ffccff,trazo:#333,ancho de trazo:2px
-estilo que relleno:#f6baff,trazo:#333,ancho de trazo:2px
-relleno de estilo G:#ccf2ff,trazo:#333,ancho de trazo:1.5px
-relleno de estilo F:#d9f2c2,trazo:#333,ancho de trazo:1.5px
+    style A fill:#ffd966,stroke:#333,stroke-width:2px
+    style C fill:#ffccff,stroke:#333,stroke-width:2px
+    style I fill:#f6baff,stroke:#333,stroke-width:2px
+    style G fill:#ccf2ff,stroke:#333,stroke-width:1.5px
+    style F fill:#d9f2c2,stroke:#333,stroke-width:1.5px
 
 
 </div>
 
-Este diagrama representa la evolución de la cultura de los sistemas de sonido a medida que se cruza con los géneros musicales de todo el mundo.
-Hip-hop (Nueva York), techno (Berlín), Afrobeats (Lagos) y cultura de clubes japonesa.
-Todos compartimos una "cultura bass = comunidad bass".
+この図は、サウンドシステム文化が**世界の音楽ジャンルと交差しながら進化してきた様相**を描きます。  
+ヒップホップ（NY）、テクノ（ベルリン）、アフロビーツ（ラゴス）、そして日本のクラブカルチャーが  
+すべて「ベース・カルチャー＝低音共同体」を共有しています。
 
 ---

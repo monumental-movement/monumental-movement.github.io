@@ -10,15 +10,15 @@ tags:
 - Electro
 - Dubstep
 - Electro House
-title: Skrillex – Monstruos aterradores y duendes agradables
+title: Skrillex – Scary Monsters And Nice Sprites
 ---
 
 
-Versión japonesa lanzada en 2012. Las pistas 1 a 6 son canciones originales de Skrillex. La séptima canción es un remix del trío holandés de drum and bass Noisia. La octava canción es un remix del DJ y productor Zedd, famoso por "Clarity" y el éxito de Ariana Grande "Break Free".
+2012年にリリースされた日本盤。1〜6曲目まではSkrillexオリジナル曲。7曲目はオランダのドラムンベーストリオNoisia(ノイジア)のremix。8曲目は「Clarity」や、アリアナ・グランデのヒット曲「Break Free」で有名なDJ&プロデューサーZedd(ゼッド)によるremix。
 
-La novena pista es un remix de Bare Noize, el dúo de producción formado por Daniel Brown y Oliver Pile.
+9曲目はDaniel Brown とOliver PileによるプロダクションデュオBare Noizeによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -32,7 +32,7 @@ La novena pista es un remix de Bare Noize, el dúo de producción formado por Da
 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

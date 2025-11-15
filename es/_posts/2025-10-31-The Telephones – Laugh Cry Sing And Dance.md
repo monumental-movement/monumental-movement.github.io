@@ -10,15 +10,15 @@ tags:
 - Synth-pop
 - Pop Rock
 - 10s
-title: Los Teléfonos – Ríe, Llora, Canta... ¡¡¡Y Baila!!!
+title: The Telephones – Laugh, Cry, Sing... And Dance!!!
 ---
 
 
-Una banda japonesa formada en 2005 e hizo su gran debut en 2009 con un sonido dance rock influenciado por el resurgimiento del post-punk/new wave.
+2005年に結成し、ポストパンク／ニューウェイブリバイバルの影響を受けたダンスロックサウンドで2009年にメジャーデビューした日本のバンド。
 
-"Ríe, llora, canta... ¡¡¡Y baila!!!" lanzado en 2013 es su cuarto álbum importante.
+2013年にリリースされた「Laugh, Cry, Sing... And Dance!!!」は、4枚目のメジャーアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Congratulations!!!
 2. What's Your Name???
@@ -34,4 +34,4 @@ Una banda japonesa formada en 2005 e hizo su gran debut en 2009 con un sonido da
 12. March For Peace
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}

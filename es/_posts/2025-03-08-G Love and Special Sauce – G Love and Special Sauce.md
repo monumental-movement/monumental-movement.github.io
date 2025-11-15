@@ -11,16 +11,16 @@ tags:
 - Hip Hop
 - Jazz
 - 90s
-title: G. Amor y Salsa Especial – G. Amor y Salsa Especial
+title: G. Love & Special Sauce – G. Love & Special Sauce
 ---
 
 
-G. Love & Special Sauce es una banda de rock de Filadelfia. Caracterizado por un estilo orgánico y único que mezcla elementos de blues, hip-hop, rock y soul.
+G. Love & Special Sauceは、フィラデルフィア出身のロックバンド。ブルース、ヒップホップ、ロック、ソウルの要素を混ぜ合わせたオーガニックでユニークなスタイルが特徴。
 
-Su álbum debut, ""G. Love & Special Sauce'', lanzado por Okeh Records en 1994, se convirtió en un gran éxito, y la séptima canción del álbum, Cold Beverage, se convirtió en un éxito.
+1994年にOkeh Recordsからリリースしたセリフタイトルデビューアルバム「G. Love & Special Sauce」は、収録曲7曲目のCold Beverageのヒットもあって、大ヒットとなった。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. The Things That I Used To Do
 2. Blues Music
@@ -39,7 +39,7 @@ Su álbum debut, ""G. Love & Special Sauce'', lanzado por Okeh Records en 1994, 
 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2if2LR7LTs?si=mEI5tgWtj63fkqWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

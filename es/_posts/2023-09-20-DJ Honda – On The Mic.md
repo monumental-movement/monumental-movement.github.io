@@ -8,15 +8,15 @@ layout: post
 tags:
 - Hiphop
 - Rap
-title: DJ Honda – En el micrófono
+title: DJ Honda – On The Mic
 ---
 
 
-Lanzado en 1998. La canción es dinámica y enérgica, y reúne el estilo de producción único de DJ Honda y los talentos líricos de los artistas destacados.
+1998年リリース。ダイナミックでエネルギッシュな曲で、DJ Hondaの独自のプロダクションスタイルとフィーチャリングアーティストたちのリリカルな才能が結集しています。
 
-La canción presenta artistas famosos como Mos Def (o Yasiin Bey), Beatnuts y Fat Joe. Cada artista aporta su propio estilo y fluidez únicos a la canción, convirtiéndola en un himno del hip-hop.
+この曲には、Mos Def（またはYasiin Bey）、Beatnuts、Fat Joeなどの有名アーティストが参加しています。各アーティストが独自のスタイルとフローを曲にもたらし、ヒップホップのアンセムとなっています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  On The Mic (Clean Version) Featuring – A.L., Al' Tariq, Black Attack, Cuban Link, Juju, Problemz
 
@@ -31,7 +31,7 @@ B2  Trouble In The Water (Instrumental)
 B3  5 Seconds (Album Version) Featuring – Black Attack
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19041732477?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyejD5wwQEE?si=zfMMHESvi3W51L99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,22 +8,22 @@ layout: post
 tags:
 - Happy Hardcore
 - Techno
-title: Stompy – Starlight G-Netic – La nueva odisea
+title: Stompy – Starlight G-Netic – The New Odyssey
 ---
 
 
-Lado A es una pista del feliz artista británico de hardcore DJ Stompy. "Starlight" es una de las obras maestras de DJ Stompy.
+A面は、イギリスのハッピーハードコアアーティスト DJ Stompy（DJストンピー）によるトラック。「Starlight 」は DJ Stompyの代表作の一つ。
 
-Side AA es un tema de G-Netic y Vinylgroover & Trixxy (Scott Attril & Jim Sullivan). Las voces tomaron muestras de Jam Master Jay de Run-DMC.
+AA面は、G-NeticとVinylgroover & Trixxy（Scott Attril & Jim Sullivan）によるトラック。ヴォーカルはRun-DMC の Jam Master Jay（ジャムマスタージェイ）をサンプリング。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. DJ Stompy–Starlight
 
 AA. G-Netic –The New Odyssey
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZvNXuf3Z4U?si=6i5zZQ0mG3cWKavQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

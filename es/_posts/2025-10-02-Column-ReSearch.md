@@ -11,127 +11,127 @@ tags:
 - Film
 - Zine
 - History
-title: '[Columna] RE/Buscar: Revistas que registran subculturas y su influencia cultural'
+title: 【コラム】 RE/Search：サブカルチャーを記録する雑誌と文化的影響
 ---
 
 
-## V. Vale y RE/Search: Explorador de subculturas
+##  V. ValeとRE/Search：サブカルチャーの探求者
 
-Texto: mmr｜Tema: Acerca de "RE/Search", un archivo histórico de subculturas y patrimonio cultural que registra música, películas y arte en todos los ámbitos.
+文：mmr｜テーマ：サブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産である「RE/Search」について
 
 
-V. Vale es un editor y editor radicado en San Francisco desde finales de los años 1970. Sus obras Search & Destroy y RE/Search se convirtieron en importantes archivos que registraron sistemáticamente la cultura underground.
-En este artículo, repasamos la historia de RE/Search por año y cubrimos eventos de música, películas y arte relacionados.
+V. Valeは、1970年代後半から現在に至るまでサンフランシスコを拠点に活動する出版・編集者です。彼が手がけた『Search & Destroy』や『RE/Search』は、アンダーグラウンド文化を体系的に記録する重要なアーカイブとなりました。  
+本記事では、RE/Searchの歴史を年代別に振り返り、関連する音楽・映画・アートイベントを網羅します。
 
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Origen y desarrollo de RE/Search
+## RE/Searchの起源と展開
 
-### Buscar y destruir (1977-1979)
+### Search & Destroy（1977–1979）
 
-Fundado como Punk Zine. Introdujo la escena punk de la costa oeste y luego se convirtió en la base de RE/Search.
-
----
-
-### RE/Search primer número (1980–)
-
-Iniciado en 1980. Contiene entrevistas y reseñas sobre temas de música industrial y cultura de vanguardia.
-Sus números representativos incluyen "Industrial Culture Handbook", "Modern Primitives" y "Incredfully Strange Films".
+パンク・ジンとして創刊。西海岸のパンクシーンを紹介し、のちのRE/Searchの基盤となった。
 
 ---
 
-### Desde la década de 1990
+### RE/Search創刊（1980–）
 
-Con modificaciones corporales, películas de culto, cyberpunk y más. Se ha expandido más allá de la publicación para incluir eventos y exposiciones.
-
----
-
-## El impacto y la importancia cultural de RE/Search
-
-RE/Search es más que una simple publicación; también sirve como archivo de subcultura. Las entrevistas y documentales de Vale son documentos valiosos que transmiten la historia de la cultura underground a las generaciones futuras.
+1980年にスタート。インダストリアル音楽やアヴァンギャルド文化をテーマにしたインタビュー、レビューを掲載。  
+代表号として「Industrial Culture Handbook」「Modern Primitives」「Incredibly Strange Films」が知られる。
 
 ---
 
+### 1990年代以降
 
-## Revistas RE/Buscar recomendadas por grupo de edad
-
-| Título de la revista | Año de publicación | Contenidos/características principales | Colaboradores | Enlaces |
-|------|--------------|---------|----------------|---------------------|------------|
-| **RE/Búsqueda #1: Manual de cultura industrial** | 1980 | Grabando los orígenes de la música industrial | Cartílago palpitante, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
-| **RE/Buscar primitivos modernos** | 1981 | Reportaje especial sobre la cultura de modificación corporal | Faquir Musafar | [Amazon](https://amzn.to/46ygAja) |
-| **RE/Buscar películas increíblemente extrañas** | 1983 | Especial sobre películas de serie B y de culto | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
-| **RE/Search Manual de cultura industrial (revisado)** | 1987 | Edición revisada de Cultura Industrial | SPK, enfermera con herida | [Amazon](https://amzn.to/430Mnqx) |
-| **RE/Buscar J.G. Ballard** | 1988 | Reportaje especial del escritor de ciencia ficción Ballard | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
-| **RE/Search Manual de Cultura Industrial Edición 2000** | 2000 | Ruido/Repensar la Cultura Industrial | Bobina, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
+ボディモディフィケーション、カルト映画、サイバーパンクなどを特集。出版だけでなく、イベントや展覧会にも広がりを見せた。
 
 ---
 
-## Por época: álbumes de música, películas y eventos artísticos relacionados
+## RE/Searchの影響と文化的意義
 
-| Año | Artículo | Tipo | Explicación | Enlace |
+RE/Searchは、単なる出版物にとどまらず、サブカルチャーのアーカイブとしての役割も果たしています。Valeのインタビューやドキュメンタリーは、アンダーグラウンド文化の歴史を後世に伝える貴重な資料となっています。
+
+---
+
+
+## 年代別おすすめRE/Searchマガジン
+
+| 雑誌タイトル | 発行年 | 主な内容・特徴 | 寄稿者 | リンク |
+|------|--------------|--------|----------------|---------------------------|------------|
+| **RE/Search #1: Industrial Culture Handbook** | 1980 | インダストリアル音楽の原点を記録 | Throbbing Gristle, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
+| **RE/Search Modern Primitives** | 1981 | ボディモディフィケーション文化特集 | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
+| **RE/Search Incredibly Strange Films** | 1983 | B級映画・カルト映画特集 | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
+| **RE/Search Industrial Culture Handbook (Revised)** | 1987 | インダストリアル文化の改訂版 | SPK, Nurse With Wound | [Amazon](https://amzn.to/430Mnqx) |
+| **RE/Search J.G. Ballard** | 1988 | SF作家バラード特集 | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
+| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | ノイズ／インダストリアル文化の再考 | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
+
+---
+
+## 年代別：関連音楽アルバム・映画・アートイベント
+
+| 年代 | アイテム | 種類 | 解説 | リンク |
 |------|----------|------|------|-------|
-| 1980 | *20 grandes del jazz funk* | Música | La obra maestra de Throbbing Gristle de la industria temprana. Una fusión de crítica social y experimentación acústica. | [Amazon](https://amzn.to/3IFw77C) |
-| 1980 | Noche de Música Industrial | Eventos | Serie en vivo en San Francisco. Documenta los primeros días de la cultura industrial. | RE/Buscar Archivo |
-| 1981 | *La Meca Roja* | Música | La obra maestra del Cabaret Voltaire. Reflejando la ansiedad urbana y la atmósfera de la era de la Guerra Fría. | [Amazon](https://amzn.to/42U9djx) |
-| 1981 | *Flamencos rosados* | Película | Película de culto de John Waters. Un símbolo de la subcultura. | [Amazon](https://amzn.to/46QdBS2) |
-| 1983 | *Escatología* | Música | Los primeros trabajos experimentales de Coil. Una fusión de estética ritual y ruidosa. | [Amazon](https://amzn.to/42jkIB8) |
-| 1983 | *Cielo líquido* | Película | Una película de ciencia ficción de culto que describe la cultura de las drogas en Nueva York. Resuena con la cosmovisión de RE/Search. | [Amazon](https://amzn.to/3IPyDbj) |
-| 1987 | *Leichenschrei* | Música | La cumbre de la música industrial noise de SPK. | [Amazon](https://amzn.to/46QdYMq) |
-| 1987 | *Engendrado* | Película | Película experimental muda y monocromática. Belleza visual mítica y decadente. | [Amazon](https://amzn.to/46IZMEU) |
-| 1988 | *Homotopía a Marie* | Música | La obra maestra de Nurse With Wound. Conectando música de vanguardia y arte contemporáneo. | [Amazon](https://amzn.to/4h09g3q) |
-| 1988 | *Videodromo* | Película | Dirigida por Cronenberg. Una obra de culto que representa la fusión del cuerpo y los medios. | [Amazon](https://amzn.to/46NeieD) |
-| 1991 | *Reina de Siam* | Música | Solo post-punk de Lydia Lunch. Contiene una crítica social radical. | [Amazon](https://amzn.to/46PFkSP) |
-| 1991 | *Tetsuo: El Hombre de Hierro* | Película | Una película de culto japonesa dirigida por Shinya Tsukamoto. El tema es la modificación corporal y la ansiedad urbana. | [Amazon](https://amzn.to/4nSA47G) |
-| 1996 | *La audacia del bombo* | Música | Obra de punk político de Jello Biafra. | [Amazon](https://amzn.to/430M5zX) |
-| 1996 | *Tetsuo II* | Película | Secuela de "Tetsuo". Explorando más a fondo los límites entre cuerpo y máquina. | [Amazon](https://amzn.to/4nyMMsI) |
-| 2000 | *Demonio del Pulso* | Música | La obra maestra de Merzbow en la historia del ruido. Un experimento sonoro arrollador. | [Amazon](https://amzn.to/4nAbmcG) |
-| 2000 | *Fantasma en el caparazón* | Película | Película de animación dirigida por Mamoru Oshii. Una historia filosófica de cyborgs y IA. | [Amazon](https://amzn.to/3WkaXiq) |
+| 1980 | *20 Jazz Funk Greats* | 音楽 | Throbbing Gristleによる初期インダストリアルの代表作。社会批評と音響実験を融合。 | [Amazon](https://amzn.to/3IFw77C) |
+| 1980 | Industrial Music Night | イベント | サンフランシスコでのライブシリーズ。インダストリアル文化の初期を記録。 | RE/Search Archive |
+| 1981 | *Red Mecca* | 音楽 | Cabaret Voltaireの傑作。都市的不安と冷戦時代の空気を反映。 | [Amazon](https://amzn.to/42U9djx) |
+| 1981 | *Pink Flamingos* | 映画 | John Watersによるカルト映画。サブカルチャーの象徴的存在。 | [Amazon](https://amzn.to/46QdBS2) |
+| 1983 | *Scatology* | 音楽 | Coilの初期実験作。儀式性とノイズ美学が融合。 | [Amazon](https://amzn.to/42jkIB8) |
+| 1983 | *Liquid Sky* | 映画 | NYのドラッグカルチャーを描いたカルトSF。RE/Search的世界観と共鳴。 | [Amazon](https://amzn.to/3IPyDbj) |
+| 1987 | *Leichenschrei* | 音楽 | SPKによるノイズ・インダストリアルの頂点。 | [Amazon](https://amzn.to/46QdYMq) |
+| 1987 | *Begotten* | 映画 | 無音・モノクロの実験映画。神話的で退廃的な映像美。 | [Amazon](https://amzn.to/46IZMEU) |
+| 1988 | *Homotopy to Marie* | 音楽 | Nurse With Woundの代表作。前衛音楽と現代アートを接続。 | [Amazon](https://amzn.to/4h09g3q) |
+| 1988 | *Videodrome* | 映画 | Cronenberg監督作。肉体とメディアの融合を描いたカルト作。 | [Amazon](https://amzn.to/46NeieD) |
+| 1991 | *Queen of Siam* | 音楽 | Lydia Lunchによるポストパンク的ソロ。過激な社会批評を含む。 | [Amazon](https://amzn.to/46PFkSP) |
+| 1991 | *Tetsuo: The Iron Man* | 映画 | 塚本晋也監督による日本カルト映画。身体改造と都市不安をテーマに。 | [Amazon](https://amzn.to/4nSA47G) |
+| 1996 | *The Audacity of Hype* | 音楽 | Jello Biafraによる政治的パンク作品。 | [Amazon](https://amzn.to/430M5zX) |
+| 1996 | *Tetsuo II* | 映画 | 『鉄男』の続編。身体と機械の境界をさらに探求。 | [Amazon](https://amzn.to/4nyMMsI) |
+| 2000 | *Pulse Demon* | 音楽 | Merzbowによるノイズ史に残る傑作。圧倒的な音響実験。 | [Amazon](https://amzn.to/4nAbmcG) |
+| 2000 | *Ghost in the Shell* | 映画 | 押井守監督によるアニメ映画。サイボーグとAIの哲学的物語。 | [Amazon](https://amzn.to/3WkaXiq) |
 
 
 ---
 
-### RE/Buscar anécdotas e historias internas
+### RE/Searchの逸話と裏話
 
-Hay muchas anécdotas sobre las actividades editoriales de RE/Search. A continuación se enumeran ejemplos típicos.
+RE/Searchの出版活動には数々の逸話が存在する。以下に代表的なものを挙げる。
 
-- **Nacimiento de Buscar y Destruir**
-Mientras trabajaba en la librería City Lights de San Francisco, Vale fundó Search & Destroy con la ayuda de Lawrence Ferlinghetti y Allen Ginsberg. El objetivo era transmitir la energía de la escena punk.
+- **Search & Destroyの誕生**  
+  ValeはサンフランシスコのCity Lights書店で働いていた際、Lawrence FerlinghettiとAllen Ginsbergの支援で『Search & Destroy』を創刊。パンクシーンのエネルギーを伝えることが目的だった。
 
-- **El espíritu DIY del Manual de Cultura Industrial**
-Entrevistas directas con Throbbing Gristle y Cabaret Voltaire por teléfono y correo. Vale completó el diseño utilizando una máquina de escribir y entregándolo personalmente a la imprenta.
+- **Industrial Culture HandbookのDIY精神**  
+  電話と郵送でThrobbing GristleやCabaret Voltaireに直接インタビュー。レイアウトはValeがタイプライターで組み、印刷所に手渡しする手法で完成。
 
-- **Choque creado por los primitivos modernos**
-Introducir la modificación corporal como "arte". Elevó la cultura de los piercings y los tatuajes de tabú a cultura. Esto condujo directamente a eventos y representaciones artísticas posteriores.
+- **Modern Primitivesが生んだ衝撃**  
+  身体改造を「芸術」として紹介。ピアスや刺青文化をタブーからカルチャーへと昇華させた。後のアートイベントやパフォーマンスにも直結した。
 
-- **Colaboración con John Waters**
-John Waters proporcionó muchos materiales durante la producción de Incredfully Strange Films. "Vale era el único lugar que consideraba que mis películas tenían valor cultural", recordó.
+- **John Watersとの協力関係**  
+  『Incredibly Strange Films』制作時、ジョン・ウォーターズが多くの資料を提供。「Valeだけが私の映画を文化的価値として扱ってくれた」と述懐。
 
-- **Reportaje especial de Ballard y literatura sobre subculturas**
-En 1988 viajó a Londres para entrevistar a J.G. Ballard en persona. Ballard dijo: "Nunca pensé que las personas que leerían mis novelas serían la generación punk".
+- **Ballard特集とサブカル文学**  
+  1988年のJ.G. Ballard特集ではロンドンに渡航し直接インタビュー。Ballardは「自分の小説を読むのがパンク世代だとは思わなかった」と発言。
 
-- **Dificultades de financiación y continuación de la cultura fanzine**
-Aunque su circulación fue pequeña, sus lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
+- **資金難とZine文化の継続**  
+  発行部数は少なかったが、読者は世界中に広がり、Valeは「大量発行よりも熱狂的な読者が大事」と語った。
 
-- **Resonancia con San Francisco**
-Grupos experimentales como Survival Research Laboratories y Other Cinema se reunieron en torno a RE/Search, construyendo una red de revistas y arte.
+- **サンフランシスコとの共振**  
+  RE/Searchの周囲には、Survival Research LaboratoriesやOther Cinemaといった実験的集団が集い、Zineとアートのネットワークを構築した。
 
 ---
 
-### resumen
+### まとめ
 
-RE/Search de V. Vale es más que una simple revista; es un archivo histórico de subcultura y un patrimonio cultural que atraviesa la música, el cine y el arte. Continúa explorando una amplia gama de campos, desde lo industrial hasta lo primitivo moderno, desde películas de culto hasta el cyberpunk, y su influencia continúa repercutiendo en todo el mundo.
-Para investigadores y entusiastas de la cultura underground, RE/Search es una lectura obligada.
+V. ValeのRE/Searchは、単なる雑誌を超えてサブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産です。インダストリアルからモダンプリミティブ、カルト映画からサイバーパンクに至るまで、幅広い領域を探求し続けており、その影響は今なお世界中に波及しています。
+研究者やアンダーグラウンド文化愛好者にとって、RE/Searchは必読の資料といえるでしょう。

@@ -8,15 +8,15 @@ layout: post
 tags:
 - Punk
 - Hardcore
-title: Propagandhi – Cómo limpiarlo todo
+title: Propagandhi – How To Clean Everything
 ---
 
 
-"How to Clean Everything" es el álbum debut de la banda de punk rock Propagandhi, lanzado en 1993 en Fat Wreck Chords.
+「How to Clean Everything」は、1993年にFat Wreck ChordsからリリースされたパンクロックバンドPropagandhiのデビューアルバムです。
 
-Mike Daronco de Allmusic dijo que el álbum era "una versión divertida, animada pero orientada a las masas de 'Anarchy 101'", y Ron Knox de Vice Media dijo en 2016 que el álbum fue diseñado para plantear un desafío a los oyentes.
+AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Anti-Manifesto
 
@@ -43,7 +43,7 @@ B5. Who Will Help Me Bake This Bread?
 B6. I Want U 2 Vant Me
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

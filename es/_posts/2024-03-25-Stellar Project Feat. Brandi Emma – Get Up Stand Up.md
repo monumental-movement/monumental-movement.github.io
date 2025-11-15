@@ -9,19 +9,19 @@ tags:
 - House
 - Trance
 - 00s
-title: Hazaña del proyecto estelar. Brandi Emma - Levántate, levántate
+title: Stellar Project Feat. Brandi Emma – Get Up Stand Up
 ---
 
 
-Stellar Project es un proyecto de house/dance del productor italiano Stefano Sorrentino.
+Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
 
-Side A es un remix del dúo italiano de DJ house/techno Phunk Investigation.
+A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。
 
-La primera pista de la cara B es un remix del productor danés Lars Frederiksen y el proyecto de trance F&W de Søren Weile.
+B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren WeileのトランスプロジェクトF&Wによるremix。
 
-La segunda canción de la cara B es un remix del DJ británico Paul Jackson.
+B面２曲目はUKのDJ Paul Jacksonによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Get Up Stand Up (Phunk Investigation Vocal Mix)
 
@@ -30,7 +30,7 @@ B1. Get Up Stand Up (F&W Remix)
 B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XM-RRHx0t20?si=s218iIZvNKDTuHdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

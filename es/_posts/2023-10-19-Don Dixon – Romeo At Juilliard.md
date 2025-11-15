@@ -8,13 +8,13 @@ layout: post
 tags:
 - Rock
 - Indie Rock
-title: Don Dixon - Romeo en Juilliard
+title: Don Dixon – Romeo At Juilliard
 ---
 
 
-Don Dixon es un productor, compositor y músico estadounidense. En la década de 1970, estuvo activo en la banda de rock Arrogance de Carolina del Norte, y desde la década de 1980 produjo varias bandas independientes, y también participó en la producción de la banda estadounidense de rock alternativo R.E.M.
+Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Borrowed Time
 
@@ -39,7 +39,7 @@ B5. Cat Out Of The Bag
 B6. Jean Harlow's Return
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw76DZDkoK8?si=2bEW1jWF7KBk4nUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

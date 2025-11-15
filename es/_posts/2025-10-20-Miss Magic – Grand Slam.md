@@ -10,19 +10,19 @@ tags:
 - Hard Trance
 - Hard House
 - 00s
-title: Señorita Magia - Grand Slam
+title: Miss Magic – Grand Slam
 ---
 
 
-El compositor y productor es The Full SP, una unidad compuesta por los artistas británicos de drum n bass James Hoyte, también conocido como Sponge, y Pascal Redpath, conocido por la obra maestra de 1994 "The Crash".
+作曲＆プロデューサーは、1994年の名曲"The Crash" で知られるUK drum n bassアーティストSpongeことJames HoyteとPascal RedpathによるユニットThe Full SP。
 
-"Grand Slam" es una canción de Trance/Hard Trance/Hard House lanzada en 2000 por el sello Interflow Sounds de Chris Hampshire.
+「Grand Slam 」は、Chris Hampshire主宰のレーベルInterflow Soundsから2000年にリリースされたTrance／Hard Trance／Hard House。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Grand Slam (Tuff Mix)
 
 B. Grand Slam (Unreal Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}

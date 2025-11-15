@@ -8,181 +8,181 @@ layout: post
 tags:
 - Electronica
 - Ambient
-title: '[Columna] Rei Harakami - Sonido electrónico tranquilo nacido en Kioto'
+title: 【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音
 ---
 
 
-## Prólogo: Kyoto que vive en la sala de sonido
+## 序章：音の間（ま）に息づく京都
 
 
-Texto: mmr｜Tema: La música de Rei Harakami y la atmósfera y estética de la ciudad de Kioto
+文：mmr｜テーマ：Rei Harakami（レイ・ハラカミ）の音楽と京都という都市の空気・美学について
 
 
-Cuando escucho la música de Rei Harakami, lo primero que siento es "tranquilidad".
-No es sólo un silencio ambiental, es como un aliento flotando en el "ma" entre sonidos.
-Su sonido ciertamente respira la "estética del espacio" que tiene la ciudad de Kioto.
+Rei Harakami（レイ・ハラカミ）の音楽を聴くとき、まず感じるのは「静けさ」である。  
+それは単なるアンビエント的な静寂ではなく、音の「間（ま）」に漂う呼吸のようなものだ。  
+彼の音には、京都という都市が持つ**“間の美学”**が確かに息づいている。  
 
-El sonido persistente de la campana de un templo, la humedad de una lluvia de verano, el claro fluir de Shirakawa en invierno.
-Aunque no fueron muestreados directamente, el sonido de Rei Harakami de alguna manera transmite la atmósfera misma de Kioto.
+寺院の鐘の余韻、夏の夕立の湿り気、冬の白川の透明な流れ——。  
+それらを直接サンプリングしたわけではないのに、Rei Harakamiの音はどこか**京都の空気そのもの**を伝えている。  
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
-## Capítulo 1: La llegada de Rei Harakami - Convirtiendo el "silencio de la ciudad" en sonido
+## 第1章：Rei Harakamiの登場 ― “都市の静けさ”を音にする
 
-Rei Harakami es un creador de pistas nacido en Kioto que apareció repentinamente a finales de la década de 1990 en medio del auge de Shibuya-kei e IDM.
-Presentó una "sala privada" y un sonido electrónico "introspectivo" que era diferente de la brillante atmósfera de Tokio.
+1990年代後半、渋谷系やIDMの隆盛の中で突如現れた京都出身のトラックメイカー、Rei Harakami。  
+彼は東京的な煌びやかさとは異なる、**「個室的」かつ「内省的」な電子音**を提示した。  
 
-Su primer trabajo representativo, "Red Curb" (1999), es un trabajo que armoniza la redondez del sintetizador analógico con un ritmo mínimo.
-**Música electrónica para escuchar solo en el tatami** en lugar de la emoción de una discoteca.
-Ahí radica el "humor discreto" y la "dulce soledad" típicas de la gente de Kioto.
+代表的な初期作品『red curb』（1999）は、アナログシンセの丸みとミニマルなリズムが調和した作品だ。  
+クラブの熱気よりも、**畳の上で一人聴くための電子音楽**。  
+そこに京都人らしい「控えめなユーモア」と「品のある寂しさ」が潜んでいる。  
 
-Sus canciones no son llamativas, pero **cuanto más las escuchas, más se expande tu mundo**.
-La experiencia es similar a sentarse en el jardín de un templo y escuchar el sonido del viento.
-
----
-
-## Capítulo 2: Contexto de Kioto - machiya, estaciones, luces y sombras
-
-Kioto es una ciudad donde la historia, la naturaleza y el ritmo de vida se entrelazan en múltiples capas.
-Rei Harakami creció dentro de esta estructura cultural de "superposición".
-
-El viento sopla a través de los aleros de las antiguas casas y la luz de las linternas se refleja en el río.
-En su música, estas "capas de paisaje" se reconstruyen como sonido.
-
-> "El paisaje se convierte en melodía. El ritmo refleja el paso del tiempo."
-
-Como dijo Harakami, su música no era sólo techno, sino un intento de expresar la "época de Kioto" a través del sonido.
+彼の楽曲は決して派手ではないが、**耳を澄ませるほどに世界が広がる**。  
+それは、寺社の庭に座って風の音を聴くような体験に近い。
 
 ---
 
-## Capítulo 3: Análisis del mundo laboral
+## 第2章：京都という文脈 ― 町家、季節、光と影
 
-### "bordillo rojo" (1999)
-Presenta un ritmo cálido y un tono suave.
-Aunque es un sonido electrónico, tiene respiración orgánica.
-Es como reírse tranquilamente de uno mismo en un rincón de la ciudad.
+京都は、歴史と自然、そして生活のリズムが重層的に絡み合う都市である。  
+Rei Harakamiは、まさにこの「重ね合わせ」の文化的構造の中で育った。  
 
-### "opa q" (2001)
-Belleza acústica que es más transparente y tiene una sensación de flotación.
-Las partículas de sonido se dispersan como luz y la relación entre "sonido = luz" se vuelve clara.
-Hay una claridad como la niebla matinal de Kioto.
+古い町家の軒先をすり抜ける風、川面に映る灯籠の光。  
+彼の音楽には、そうした**“風景の層”**が音として再構成されている。  
 
-### "lujuria" (2005)
-Un álbum que representa "emociones humanas" utilizando sonidos electrónicos.
-En lo profundo del ritmo conviven la soledad y la calidez.
-Durante este período, la colaboración de Harakami con Ryuichi Sakamoto fortaleció aún más el "sonido japonés" de Harakami.
+> 「風景はメロディになる。リズムは時間の流れを映す。」
 
-### "disturbios" (2011)
-Obra publicada en sus últimos años.
-Hay algo efímero en ello y te da la sensación de **la serenidad de aceptar el final**.
-Es como el otoño en Kioto, y es una tristeza que te hace reír mientras miras las hojas que caen.
+とHarakamiが語ったように、彼の音楽は単なるテクノではなく、**「京都という時間」を音で表現する試み**だった。
 
 ---
 
-## Capítulo 4: Harakami y amigos - UA, Ryuichi Sakamoto, Kazumi Nikaido
+## 第3章：作品世界の分析
 
-La colaboración con UA ​​"Milk Tea" y Ryuichi Sakamoto,
-Se ha añadido un nuevo elemento de "voz humana" a la música de Rei Harakami.
+### 『red curb』（1999）  
+温かいビートと柔らかな音色が特徴。  
+電子音でありながら、有機的な呼吸を持つ。  
+都市の片隅で独り静かに笑うような感覚。  
 
-Se dice que Ryuichi Sakamoto lo describió como "el revolucionario más silencioso".
-Fue una persona poco común que derritió los límites entre los sonidos electrónicos y acústicos y logró tanto "dulzura" como "belleza estructural".
+### 『opa q』（2001）  
+より透明で、浮遊感のある音響美。  
+音の粒子が光のように散りばめられ、**「音＝光」**の関係性が明確になる。  
+京都の朝靄のような清澄さが漂う。  
 
-La interacción de Harakami con Kazumi Nikaido también muestra su dedicación a la "música cotidiana".
-Su sonido no era música experimental esotérica, sino el ritmo mismo de la vida.
+### 『lust』（2005）  
+「人の感情」を電子音で描いたアルバム。  
+ビートの奥に、寂しさと温かさが共存する。  
+この時期、坂本龍一との共作がHarakamiの“和の響き”をより強めた。  
 
----
-
-## Capítulo 5: De lo local a lo global - Genealogía de los sonidos electrónicos de Kioto
-
-La existencia de Rei Harakami tuvo una gran influencia en la electrónica local japonesa posterior.
-Siguiendo sus pasos, artistas como **aus, agraph, Ametsub y no.9** surgieron del área de Kioto/Kansai.
-
-Todos los sonidos tienen en común: representan la relación entre la ciudad y la naturaleza.
-El "sonido del silencio de Kioto" creado por Harakami ocupa una posición única en el contexto global.
-
----
-
-## Capítulo 6: Pérdida y herencia - Aquellos que heredan los ecos de Harakami
-
-Su repentino fallecimiento en 2011 dejó al mundo de la música con un profundo sentimiento de pérdida.
-Pero desde entonces, muchos artistas han heredado su sonido.
-
-En lo profundo de las obras de tofubeats, serp y otros artistas jóvenes que reconstruyen sonidos ambientales,
-Puedes ver la sombra del "sonido electrónico respirable" de **Rei Harakami**.
-
-Su influencia en la escena musical continúa extendiéndose mucho más allá de Kioto.
+### 『unrest』（2011）  
+最晩年に発表された作品。  
+どこか儚く、**終わりを受け入れる静けさ**を感じさせる。  
+まるで京都の秋、落葉を見つめながら笑うような哀しみ。
 
 ---
 
-## Capítulo final: Asimilación de sonido y paisaje - Estética de la "Kyoto electronica"
+## 第4章：Harakamiと友人たち ― UA、坂本龍一、二階堂和美
 
-La música de Rei Harakami encarna la armonía entre el paisaje y los humanos, la naturaleza y la tecnología.
-Hay una **tranquila sensación de felicidad** que no es ni "conveniente" ni "emocionante".
+UAとの共作「ミルクティー」や、坂本龍一とのコラボレーションは、  
+Rei Harakamiの音楽に“人の声”という新たな要素を加えた。  
 
-El sonido que dejó atrás es tan suave como la puesta de sol en Kioto y nunca se desvanecerá.
-Si escuchas atentamente, todavía puedes escuchar ese sonido flotando en algún lugar de la ciudad.
+坂本龍一は彼を「**最も静かな革命家**」と評したという。  
+電子音とアコースティックの境界を溶かし、**「優しさ」と「構築美」**を両立させた稀有な存在だった。  
 
-> Hay sonido en el silencio. Kyoto está en el sonido.
+二階堂和美との交流もまた、Harakamiの“日常的な音楽”への傾倒を示している。  
+彼の音は、決して難解な実験音楽ではなく、**生活のリズムそのもの**だった。
 
 ---
 
-## Cronología de Rei Harakami
+## 第5章：ローカルからグローバルへ ― 京都発電子音の系譜
 
-<div class="sirena">
+Rei Harakamiの存在は、のちの日本のローカル・エレクトロニカに大きな影響を与えた。  
+彼の後を追うように、京都・関西圏からは**aus、agraph、Ametsub、no.9**といったアーティストが登場した。  
 
-línea de tiempo
-título Rei Harakami Cronología
-1970: Nace en Kioto
-1997: Lanzamiento del primer EP "Rei Harakami"
-1999: 1er álbum "bordillo rojo"
-2001: 2do álbum "opa q"
-2005: 3er álbum "lujuria"
-2008: Participó en la colaboración "Asience" con Ryuichi Sakamoto.
-2011: anuncio de "disturbios", muerte súbita
-2020: Ola de reevaluación, producción de álbum tributo.
+その音は共通して、**都市と自然のあわい**を描いている。  
+Harakamiが築いた“京都の静寂の音”は、グローバルな文脈においても独自の位置を占める。  
+
+---
+
+## 第6章：喪失と継承 ― Harakamiの残響を受け継ぐ者たち
+
+2011年、彼の急逝は音楽界に深い喪失感をもたらした。  
+しかしその後、多くのアーティストたちが彼の音を引き継いでいる。  
+
+tofubeats、serph、または環境音を再構築する若手たちの作品の奥に、  
+**Rei Harakami的“呼吸する電子音”**の影が見える。  
+
+音楽シーンにおける彼の影響は、今も京都という土地を超えて広がり続けている。  
+
+---
+
+## 終章：音と風景の同化 ― “京都的エレクトロニカ”の美学
+
+Rei Harakamiの音楽は、**風景と人間、自然とテクノロジーの調和**を体現していた。  
+そこには、“便利”でも“刺激的”でもない、**静かな幸福感**がある。  
+
+彼の遺した音は、京都の夕暮れのように柔らかく、決して消えない。  
+耳を澄ませれば、今もその音は町のどこかに漂っている。  
+
+> 静けさの中に音がある。音の中に、京都がある。  
+
+---
+
+## Rei Harakami 年表
+
+<div class="mermaid">
+
+timeline
+    title Rei Harakami Chronology
+    1970 : 京都に生まれる
+    1997 : 初のEP『Rei Harakami』発表
+    1999 : 1stアルバム『red curb』
+    2001 : 2ndアルバム『opa q』
+    2005 : 3rdアルバム『lust』
+    2008 : 坂本龍一との共作「Asience」参加
+    2011 : 『unrest』発表、急逝
+    2020 : 再評価の波、トリビュート盤制作
 
 </div>
 
 
 ---
 
-## Diagrama: Diagrama de correspondencia entre sonidos y escenario.
+## 図：音と風景の対応関係図
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico TD
-A["Sonidos de la naturaleza (viento, agua, pájaros)"] --> B["Textura de sonidos electrónicos (partículas, fluctuaciones)"]
-C["Paisaje de Kioto (templos, casas adosadas, callejones)"] --> D["Estética de la composición (espacios, espacios en blanco, asimetría)"]
-B --> E["Mundo sonoro Harakami"]
-re --> mi
+graph TD
+    A["自然の音（風・水・鳥）"] --> B["電子音の質感（粒子・揺らぎ）"]
+    C["京都の風景（寺・町家・路地）"] --> D["構成の美学（間・余白・非対称）"]
+    B --> E["Harakamiの音世界"]
+    D --> E
     
 </div>
 
 
 ---
 
-### Rei Harakami – [lujuria]
+### Rei Harakami – [lust]
 
-"Rei Harakami – [lujuria]" es
-El cuarto álbum original de Rei Harakami lanzado en 2005.
+「Rei Harakami – [lust]」は、
+2005年リリースのレイハラカミ４枚目のオリジナルアルバム。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Long Time
 2. Joy
@@ -196,9 +196,9 @@ El cuarto álbum original de Rei Harakami lanzado en 2005.
 10. First Period
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

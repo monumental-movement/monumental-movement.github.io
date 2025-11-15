@@ -9,26 +9,26 @@ tags:
 - Theme
 - JPop
 - 7inch
-title: Isao Sasaki – Adiós acorazado espacial Yamato Guerreros del amor – Buen enemigo
+title: ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵
 ---
 
 
-"Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" es una canción insertada/imagen de la película de 1978 "Farewell Space Battleship Yamato: Warriors of Love".
+「ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵」は、1978年の映画『さらば宇宙戦艦ヤマト 愛の戦士たち』の挿入歌・イメージソング。
 
-Letra - Yu Aku
+作詞 - 阿久悠 
 
-Composición/Arreglo - Yasushi Miyagawa
+作曲・編曲 - 宮川泰 
 
-Canción - Isao Sasaki
+ 歌 - ささきいさお
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 好敵手
 
 B. テレサよ永遠に
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54170309035?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpoq39ezN8?si=8jBS81DdYfFoXR7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

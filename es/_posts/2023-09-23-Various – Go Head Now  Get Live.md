@@ -8,15 +8,15 @@ layout: post
 tags:
 - Hiphop
 - 90s
-title: Varios – Vaya a la cabeza ahora y comience a funcionar
+title: Various – Go Head Now  Get Live
 ---
 
 
-Este trabajo, lanzado en 1999, es un sencillo de ""SYNCHRONICITY'', un álbum recopilatorio lanzado por Future Shock que reunió a raperos japoneses y estadounidenses sin importar sello o nacionalidad.
+1999年にリリースされた本作は、Future Shockからリリースされた日本とアメリカのラッパーが、レーベルや国籍の枠を超えて集ったコンピレーションアルバム「SYNCHRONICITY」からのシングルです。
 
-Contiene temas underground con Matt Fingaz, Will Pack y Craig G de Estados Unidos, y DJ Yas y Hazu de Japón.
+アメリカからはMatt Fingaz、Will Pack、Craig G、日本からはDJ Yasや刃頭（Hazu）が参加したアンダーグラウンドなトラックを収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Matt Fingaz, Will Pack, Craig.G  & DJ Yas–Go Head Now (Original Mix)
 
@@ -27,5 +27,5 @@ B1  F.T., P-Dap & Hazu –Get Live (Original Mix)
 B2  F.T., P-Dap & Hazu –Get Live (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86496222032?afid=6142608987){: .button1}
 

@@ -14,12 +14,12 @@ title: Loop Da Loop – Hazel
 ---
 
 
-Nicolas Jean-Pierre Dresti, también conocido como Loop Da Loop, es uno de los alias utilizados por el DJ y productor británico Space Cowboy. También está activo bajo otros nombres como DJ Supreme y DJ Chrome.
+Loop Da LoopことNicolas Jean-Pierre Drestiは、イギリスのDJ ／プロデューサー Space Cowboy（スペースカウボーイ)が使っていた別名義のひとつ。他にもDJ Supreme、DJ Chromeなどの名義でも活動している。
 
-"Hazel" es una canción de House/Breaks/UK Garage lanzada en el sello house y trance Manifesto en 1999. Una canción de éxito que también entró en las listas del Reino Unido.
+「Hazel」は 、1999年にハウス&トランスレーベルManifestoからリリースされたHouse／Breaks／UK Garage。UK チャートにも入ったヒット曲。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Hazel (Loop Da Loop's Original "Bobby Dazzler" Mix)
 A2. Hazel (Loop Da Loop's Hard-Step House Mix)
@@ -27,7 +27,7 @@ A2. Hazel (Loop Da Loop's Hard-Step House Mix)
 B1. Hazel (Johan S Toxic Club Mix Edit)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52318324701?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52318324701?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oX3QanxdhEs?si=JRWuyBlmpejxEwKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

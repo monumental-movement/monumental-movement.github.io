@@ -8,19 +8,19 @@ layout: post
 tags:
 - Jazz
 - Modern Jazz
-title: Hiroshima – Tercera Generación
+title: Hiroshima – Third Generation
 ---
 
 
-"Third Generation" es un álbum de Hiroshima, una banda estadounidense de jazz fusión. Este álbum fue lanzado en 1983. Hiroshima es conocido por su estilo musical único, que combina la música tradicional japonesa con elementos de jazz, R&B y pop.
+「Third Generation」は、アメリカのジャズフュージョンバンドであるHiroshimaのアルバムです。このアルバムは1983年にリリースされました。Hiroshimaは、日本の伝統音楽とジャズ、R&B、ポップスなどの要素を融合させた独自の音楽スタイルで知られています。
 
-"Third Generation" es el tercer álbum de Hiroshima, y ​​es un trabajo que muestra su madurez y evolución musical. El álbum incorpora instrumentos tradicionales como los japoneses, Tsugaru shamisen y kalimba, al tiempo que desarrolla un sonido de fusión de jazz moderno.
+「Third Generation」は、Hiroshimaのサードアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、和楽器や津軽三味線、カリンバなどの伝統的な楽器を取り入れながらも、モダンなジャズフュージョンサウンドを展開しています。
 
-El álbum incluye las canciones "One Wish", "Thousand Cranes" y "Sandalwood". Estas canciones combinaron el sonido distintivo de Hiroshima y la estructura melódica de la canción para crear una experiencia musical agradable para la audiencia.
+アルバムには、楽曲「One Wish」や「Thousand Cranes」、「Sandalwood」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が組み合わさり、聴衆に心地よい音楽体験をもたらしました。
 
-"Third Generation" recibió grandes elogios de los críticos musicales, quienes la elogiaron como un trabajo que demostraba la singularidad de la música de Hiroshima y su sofisticada técnica de interpretación. El álbum recibió el apoyo no sólo de los entusiastas del jazz fusión, sino también de una amplia audiencia.
+「Third Generation」は、音楽評論家から高い評価を受け、Hiroshimaの音楽の独自性と洗練された演奏技術を示す作品として称賛されました。アルバムはジャズフュージョンの愛好家だけでなく、広範な聴衆からも支持を受けました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Heavenly Angel
 
@@ -43,7 +43,7 @@ B4. Fifths
 B5. Sukoshi Bit
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoqer1oN01s?si=Q0LxHA2LDHTj6stt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

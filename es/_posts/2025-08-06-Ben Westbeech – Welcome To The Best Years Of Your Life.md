@@ -10,15 +10,15 @@ tags:
 - Future Jazz
 - Downtempo
 - Neo Soul
-title: Ben Westbeech – Bienvenido a los mejores años de tu vida
+title: Ben Westbeech – Welcome To The Best Years Of Your Life
 ---
 
 
-Ben Westbeech es un DJ y productor del Reino Unido. También conocido como Breach y colaboración con KON (Christian Taylo) The Vision.
+Ben WestbeechはUK出身のDJ・プロデューサー。Breach名義やKON(Christian Taylo)とのコラボThe Visionとしても知られている。
 
-Bienvenido a los mejores años de tu vida es el álbum debut de Ben Westbeech, lanzado en 2007 por el sello británico Brownswood Recordings de Gilles Peterson.
+「Welcome To The Best Years Of Your Life」は、Ben Westbeechのデビューアルバムで、Gilles PetersonのUKレーベルBrownswood Recordingsから2007年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Welcome
 2. So Good Today
@@ -37,7 +37,7 @@ Bienvenido a los mejores años de tu vida es el álbum debut de Ben Westbeech, l
 15. Beauty
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47412962363?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47412962363?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8HpiiEePZ-I?si=axT4mMmPWR292_D0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

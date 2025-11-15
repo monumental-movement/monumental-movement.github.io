@@ -8,22 +8,22 @@ layout: post
 tags:
 - House
 - 90s
-title: Indigo con Joy Malcolm – Fly To The Moon
+title: Indigo Featuring Joy Malcolm – Fly To The Moon
 ---
 
 
-Este es un EP del proyecto "Indigo" de Luke Purewal, lanzado en 1999 en el sello británico "Defender Music".
+1999年にUKのレーベル「Defender Music」からリリースされた本名Luke Purewalによるプロジェクト「Indigo」のEPです。
 
-Con Joy Malcolm, una cantante británica que también es miembro de Cool World Ensemble, Diva Singers y anteriormente fue miembro de Incognito.
+FeaturingされているJoy Malcolmは、UKのシンガーでCool World Ensemble, Diva Singersにも在籍しており、かつてはIncognitoのメンバーでした。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Fly To The Moon (The Mood II Swing Club Remix)
 
 B. Fly To The Moon (The Mood II Swing Sentinal Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m68578670923?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68578670923?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDR3tV41-yk?si=GcFTvQGXrS9bX1ff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Pops
-title: Todos los Santos – Pure Shores (The Mixes)
+title: All Saints – Pure Shores (The Mixes)
 ---
 
 
-La primera pista de la cara A es un remix del DJ, productor y diseñador de sonido del Reino Unido, Tom Middleton, también conocido como Cosmos.
+A面１曲目はUK出身のDJ/プロデューサー/サウンドデザイナーCosmosことTom Middleton（トム・ミドルトン）によるremix。
 
-La segunda pista de la cara A es un remix de Karl Clive Gordon, también conocido como K-Gee, ex miembro de Outlaw Posse y Brothers Like Outlaw.
+A面２曲目はOutlaw Posse、Brothers Like Outlawの元メンバーK-GeeことKarl Clive Gordonによるremix。
 
-La cara B es un remix de Mark Stent, un productor discográfico e ingeniero de mezclas del Reino Unido que ha trabajado con muchos artistas internacionales, incluidos Marshmello, U2, Beyoncé, Björk, Depeche Mode, Echo & the Bunnymen, Grimes y Ed Sheeran.
+B面はマシュメロ、U2、ビヨンセ、ビョーク、デペッシュ・モード、エコー＆ザ・バニーメン、グライムス、エド・シーランなど多くの国際的なアーティストをてがけてきたUKのレコードプロデューサー兼ミキシングエンジニアMark Stent（マーク・ステント）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Pure Shores (Cosmos Mix)
 
@@ -29,7 +29,7 @@ B1. Pure Shores (Original)
 B2. Pure Shores (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60756646453?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGA8020eU38?si=1Y_-tUR94CS1TCOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

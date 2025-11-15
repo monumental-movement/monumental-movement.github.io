@@ -9,18 +9,18 @@ tags:
 - Tech House
 - House
 - 00s
-title: K Mano – Salsafiado
+title: K Hand – Salsafied
 ---
 
 
-K: Hand, también conocida como Kelli Hand, es una músico y DJ de techno house de Detroit. En la década de 1990, era conocida como una de las mujeres negras líderes en la escena de la música electrónica y techno dominada por hombres, y fue llamada la "Primera Dama del Techno de Detroit". Continuó creando música hasta su fallecimiento en 2021.
+K : HandことKelli Hand(ケリー・ハンド)は、デトロイト出身のテクノハウスミュージシャン・DJ。1990年代に、男性優位だったテクノ・エレクトロニックミュージックシーンで活躍した黒人女性の第一人者として知られ、「デトロイト・テクノのファーストレディ」と呼ばれていた。2021年に他界するまで音楽の制作を続けた。
 
-En 2016 recibió el premio Spirit of Detroit junto con otros músicos electrónicos como Jeff Mills, Juan Atkins, Derrick May y Kevin Sanderson.
+2016年には、ジェフ・ミルズ、フアン・アトキンス、デリック・メイ、ケビン・サンダーソンなどの他のエレクトロニック・ミュージシャンとともに、スピリット・オブ・デトロイト賞を受賞した。
 
-"Salsafied" es un álbum de tech house lanzado en 2000 por el sello alemán Ausfahrt.
+「Salsafied」は、2000年にドイツのレーベルAusfahrtからリリースされたテックハウス・ハウスアルバム。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Be Right There (Orig)
 2. So Special
@@ -36,7 +36,7 @@ En 2016 recibió el premio Spirit of Detroit junto con otros músicos electróni
 12. You Don't Know Me
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6TE0Mh_lc?si=4KaeY9bmIGR6u4r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

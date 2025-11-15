@@ -9,15 +9,15 @@ tags:
 - Techno
 - Tech House
 - German Techno
-title: Malos proxenetas – Dámelo
+title: Bad Pimps – Give It
 ---
 
 
-Bad Pimps es un proyecto entre Patrick Lindsey, uno de los fundadores del sello Kanzleramt, y Stanny Franssen (alias G-Force), uno de los artistas más destacados de la escena techno belga.
+Bad Pimps（バッドピンプス）は、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
 
-Una pista de techno/tech house lanzada en 2002 en el sello Terminal M de Monika Kruse.
+Monika Kruse（モニカクルス）のレーベルTerminal Mから2002年にリリースされたテクノ・テックハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Give.It.!
 
@@ -26,7 +26,7 @@ B1. Move It In A Dirty Way But Maybe That's To Long Monika?
 B2. Get On Up!
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

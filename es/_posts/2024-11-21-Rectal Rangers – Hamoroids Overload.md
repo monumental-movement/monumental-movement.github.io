@@ -9,24 +9,24 @@ tags:
 - Hard Trance
 - Trance
 - 00s
-title: Rectal Rangers – Hamoroides / Sobrecarga
+title: Rectal Rangers – Hamoroids / Overload
 ---
 
 
-Rectal Rangers es un proyecto de Gorden Flintrop, Kevin Sieja y Oliver Cats. Hay otro nombre llamado Stormcatchers.
+Rectal Rangers は、Gorden Flintrop, Kevin Sieja, Oliver Catsによるプロジェクト。別名義でStormcatchersがある。
 
-"Hamoroids/Overload" es una pista de trance duro lanzada en 2003 por el sello de trance alemán Waterworld.
+「Hamoroids / Overload」はドイツのトランスレーベルWaterworldから2003年にリリースされたハードトランストラック。
 
-El productor es el miembro Oliver Cats (también conocido como DJ Headhunter).
+プロデューサーは、メンバーのOliver Cats (別名義DJ Headhunter)。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hamoroids
 
 B. Overload
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22048494499?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22048494499?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CUiismRj4sI?si=BP-7iTpQPW2oUIcy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

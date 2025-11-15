@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - Hard Rock
-title: ACDC – Para aquellos que están a punto de rockear, los saludamos
+title: ACDC – For Those About To Rock We Salute You
 ---
 
 
-"Para aquellos a punto de rockear, te saludamos" es el octavo álbum de AC/DC. El álbum presenta los riffs de guitarra pesados ​​característicos de la banda, ritmos de batería explosivos y la poderosa voz de Brian Johnson.
+「For Those About to Rock We Salute You」は、AC/DCのアルバムとしては8枚目に当たる作品です。アルバムは、バンドのトレードマークとも言えるヘヴィなギターリフ、爆発的なドラムビート、そしてブライアン・ジョンソン（Brian Johnson）の力強いヴォーカルが特徴です。
 
-Este álbum se basa en el éxito de su álbum anterior, Back in Black, y continúa con su energía y gloria.
+このアルバムは、前作「Back in Black」の成功を受けて制作され、そのエネルギーとグローリーを引き継いでいます。
 
-El álbum incluye la exitosa canción "For These About to Rock (We Salute You)", así como canciones como "Let's Get It Up", "Inject the Venom" y "Evil Walks".
+アルバムには、ヒット曲「For Those About to Rock (We Salute You)」をはじめ、「Let's Get It Up」、「Inject the Venom」、「Evil Walks」などの楽曲が収録されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. For Those About To Rock (We Salute You)
 
@@ -41,7 +41,7 @@ B4. Night Of The Long Knives
 B5. Spellbound
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m57758926139?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57758926139?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBM1-DwjA8I?si=hjNjUPYs3hvZAsIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

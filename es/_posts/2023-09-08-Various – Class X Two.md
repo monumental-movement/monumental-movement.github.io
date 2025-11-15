@@ -8,17 +8,17 @@ layout: post
 tags:
 - Synth-Pop
 - Electro
-title: Varios – Clase X Dos
+title: Various – Class X Two
 ---
 
 
-Merece una colección superior entre los remixes de Razomaid. Lo más destacado de este LP de doble paquete es "The Walk" de The Cure.
+Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
 
-Es increíble e incluso mejor que la versión original.
+オリジナル バージョンよりもさらに優れた素晴らしいものです。
 
-Esta canción por sí sola hará que quieras agregarla a tu colección de discos, así que la recomiendo ampliamente.
+この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Simple Minds–New Gold Dream
 
@@ -44,9 +44,9 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DqpaYDvTXSY?si=SwnjyFGwYvk0-FXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

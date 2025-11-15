@@ -9,15 +9,15 @@ tags:
 - Latin
 - Jazz
 - Techno
-title: Andreas Saag – Lección de jazz
+title: Andreas Saag – Jazz Lesson
 ---
 
 
-Fue lanzado en 2002 en el sello sueco "SLS".
+2002年にスウェーデンのレーベル「SLS」からリリースされました。
 
-Sorprendentemente diferente del sonido característico de SLS, es jazz con Saag entregando una hermosa pista con piano de cola.
+SLSのトレードマークサウンドとは驚くほど異なり、Saagが美しく壮大なピアノを中心にした素晴らしいトラックを提供しているジャズです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Get It On
 
@@ -27,7 +27,7 @@ B2. Release The Groove
 Saxophone – Paul Lachenardière
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61195637285?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61195637285?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nW8bTY66AGk?si=osWlvw3Bq5W_Vzqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

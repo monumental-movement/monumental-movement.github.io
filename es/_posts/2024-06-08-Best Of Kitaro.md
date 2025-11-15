@@ -10,15 +10,15 @@ tags:
 - Relaxation
 - Healing
 - 80s
-title: Lo mejor de Kitaro
+title: Best Of Kitaro
 ---
 
 
-Kitaro, teclista y sintetizador japonés, ganó el Globo de Oro a la mejor banda sonora original por la película de 1994 "Heaven & Earth", dirigida por Oliver Stone. En 2001, ganó el 43º premio Grammy al Mejor Álbum New Age.
+日本のキーボーディスト＆シンセサイザー奏者である喜多郎（きたろう）は、1994年にオリバー・ストーン監督の映画「天と地 (Heaven & Earth)」でゴールデングローブ賞作曲賞受賞。2001年には第43回グラミー賞最優秀ニューエイジ・アルバム賞を受賞している。
 
-"Best of Kitaro" es una cinta recopilatoria de Kitaro lanzada en 1985 por el sello alemán Kuckuck.
+「Best Of Kitaro」は、ドイツのレーベルKuckuckから1985年にリリースされた喜多郎のコンピレーションカセットテープ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Morning Prayer
 A2. Eternal Spring
@@ -35,7 +35,7 @@ B5. Shimmering Light
 B6. Everlasting Road
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBtuPnGNnZU?si=_cQdm2F0aURtBZDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

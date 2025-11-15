@@ -9,15 +9,15 @@ tags:
 - House
 - Disco
 - Remix
-title: Kylie – No puedo sacarte de mi cabeza
+title: Kylie – Can't Get You Out Of My Head
 ---
 
 
-"Can't Get You Out Of My Head" fue lanzado en 2001 como sencillo del álbum Fever.
+「 Can't Get You Out Of My Head（熱く胸を焦がして）」は、アルバム『フィーヴァー』からのシングルカットとして2001年にリリース。
 
-Las caras A y B están remezcladas por Tim Deluxe. La cara D es un remix de Tom Stephan, también conocido como Superchumbo.
+A面、B面のremixはTim Deluxe(ティム・デラックス)。D面はSuperchumboことTom Stephan(トム・ステファン)のremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A01. Can't Get You Out Of My Head (Deluxe's Dirty Dub)
 
@@ -30,7 +30,7 @@ D01. Can't Get You Out Of My Head (Superchumbo Todo Mamado Mix)
 D02. Can't Get You Out Of My Head (K & M Mindprint Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVof5n9MJ3g?si=TJFamwuU8hUqfecp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

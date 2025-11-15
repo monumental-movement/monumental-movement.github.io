@@ -8,19 +8,19 @@ layout: post
 tags:
 - House
 - French House
-title: Modjo – Relajándose
+title: Modjo – Chillin'
 ---
 
  
-"Modjo - Chillin'" es una canción lanzada en 2001 por el dúo francés Modjo. Esta canción está incluida en su álbum debut homónimo Modjo.
+「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
 
-"Chillin'" es una canción que combina elementos de la música disco y house, con un ritmo ligero y maravilloso, una línea de bajo funky y voces cautivadoras.
+「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。
 
-Esta canción se conoce como música pop dance que resuena con una atmósfera relajada y una melodía brillante.
+この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
 
-*Existe una versión británica y una versión italiana, pero esta es la versión británica. La versión italiana está [aquí](https://monumental-movement.jp/Modjo-Chillin/)
+※UK盤とItaly盤がありますが、こちらはUK盤となります。 Italy盤は[こちら](https://monumental-movement.jp/Modjo-Chillin/)
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Chillin' (Original Extended Mix)
 
@@ -29,7 +29,7 @@ B1  Chillin' Con Carne (Por Favor Mix by We In Music vs. The Buffalo Bunch)
 B2  The Art Of Chillin'
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=NYr8r9NEkqTxBFCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

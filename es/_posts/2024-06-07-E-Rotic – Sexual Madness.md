@@ -11,15 +11,15 @@ tags:
 - Euro Beat
 - House
 - 90s
-title: E-Rotic – Locura sexual
+title: E-Rotic – Sexual Madness
 ---
 
 
-E-Rotic es un dúo de Eurodance formado en 1994 por el productor discográfico alemán David Brandes. Los miembros son la cantante alemana Lyane Leigh (Liane Hegemann) y el rapero estadounidense Richard Allen Smith (Ras-Ma-Taz).
+E-Rotic（エロティック）は、1994年にドイツのレコードプロデューサー David Brandes によって結成されたユーロダンスデュオグループ。メンバーはドイツ出身のシンガー Lyane Leigh (Liane Hegemann) とアメリカ出身のラッパー Richard Allen Smith (Ras-Ma-Taz)。
 
-"Sexual Madness" es el tercer álbum de estudio de E-Rotic, lanzado en 1997. Incluye la exitosa canción "Turn Me On".
+「Sexual Madness」は、1997年にリリースされたE-Roticの３枚目のスタジオアルバム。ヒット曲「Turn Me On」が収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Sexual Madness
 2. Turn Me On
@@ -35,7 +35,7 @@ E-Rotic es un dúo de Eurodance formado en 1994 por el productor discográfico a
 12. When I Cry For You
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

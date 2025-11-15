@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - House
-title: Proveedores de buen funk – Proveedores de buen funk
+title: Purveyors Of Fine Funk – Purveyors Of Fine Funk
 ---
 
 
-Purveyors Of Fine Funk es un grupo que crea canciones que incorporan elementos de la música funk y, como sugiere el nombre, ofrecen funk de alta calidad.
+Purveyors Of Fine Funkは、ファンクミュージックの要素を取り入れた楽曲を制作するグループであり、その名の通り、彼らは質の高いファンクを提供しています。
 
-Presenta elementos como ritmos funky, slap bass y una sección de metales. Las canciones tienen ritmos bailables y melodías pegadizas que entretienen a los oyentes mientras siguen el ritmo.
+ファンキーなリズム、スラップベース、ブラスセクションなどの要素が特徴です。曲は、踊りやすいグルーヴやキャッチーなメロディがあり、聴く人々をリズムに乗せて楽しませます。
 
-Este trabajo ha sido elogiado por su fusión de la tradición de la música funk y elementos modernos. Si bien respetan las raíces del funk, crean un nuevo atractivo con su enfoque artístico único.
+ファンクミュージックの伝統と現代的な要素を融合させた作品として評価されています。彼らは、ファンクのルーツを尊重しつつも、独自のアーティスティックなアプローチで新たな魅力を生み出しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Suspended
 
@@ -39,7 +39,7 @@ D2. Telepathos Communicator
 D3. The After Midnight Call
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,27 +8,27 @@ layout: post
 tags:
 - House
 - Hard House
-title: Marc Johnson y Richard Toomz
+title: Marc Johnson & Richard Toomz
 ---
 
 
 
-La carrera de DJ de Dave Owens despegó a principios de la década de 2000 y ha pinchado en algunos de los lugares más emblemáticos de la escena de clubes, incluidos Insomniacz, Housework, Insekt, Byte, Ultim-8, Incisions, Hard Up North, Out of Order, Toast, Housewives Choice y Forbidden.
+Dave Owens（デーブオーウェンズ）のDJキャリアは、2000年代初頭に軌道に乗り、Insomniacz、Housework、Insekt、Byte、Ultim-8、Incisions、Hard Up North、Out of Order、Toast、Housewives Choice、Forbiddenなどのクラブシーンを代表する場所でDJを務めています。
 
-También fue DJ residente en PureFilth de Manchester.
+マンチェスターのPureFilthではレジデントDJも務めていました。
 
-El trabajo de producción de Dave es conocido por su sonido de tendencia dura en la música dance, y ha lanzado trabajos en los sellos hard house y NRG que representan la escena.
+デーブのプロデュース作品は、ダンスミュージックの中でもハード寄りなサウンドで知られ、シーンを代表するハードハウスやNRGレーベルから作品をリリースしています。
 
-También trabaja en estrecha colaboración con Nick Denton y ayuda a desarrollar Toolbox Music, así como a los principales subsellos Toolbox Recordings, Hammerheads y Turtle Dog Digital.
+また、ニック・デントンと緊密に協力し、Toolbox Musicの発展に貢献しているほか、サブレーベルであるToolbox Recordings、Hammerheads、Turtle Dog Digitalも率いています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Marc Johnson & Richard Toomz–Escapology
 
 AA. Dave Owens–Sour Cream & Chive
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80514183541?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80514183541?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tn2_jYHGWVg?si=YH72rJqO2kN9q7Ou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

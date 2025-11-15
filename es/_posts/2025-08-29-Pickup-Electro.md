@@ -10,22 +10,22 @@ tags:
 - 80s
 - 90s
 - 00s
-title: Recoger trabajos electro
+title: エレクトロ（Electro）作品をピックアップ
 ---
 
 
-"Una colección de obras electrónicas en las que la fantasía cibernética de los años 80 continúa bailando hasta el día de hoy".
+「80年代のサイバー幻想が、今も踊り続けている、エレクトロ（Electro）作品群」
 
-<hora>
+<hr>
 
-### Afrika Bambaataa y La Fuerza Soulsonic – Planet Rock
+### Afrika Bambaataa & The Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
 
-Punto: Una obra maestra histórica que se puede decir que es la piedra angular del electro. Una canción que une el hip-hop y la música dance con un riff de sintetizador y una muestra vocal. Todavía hoy se habla de este trabajo como "hip-hop futurista" que floreció junto con la cultura del breakdance.
+ポイント：エレクトロの礎とも言える歴史的名曲。シンセサイザーリフとボーカルサンプルにより、ヒップホップとダンスミュージックの橋渡しを果たした一曲。「ブレイクダンス・カルチャーと共に隆盛した“未来的ヒップホップ”」として今なお語り継がれている作です。
 
-Atracción: Orígenes del electro y hip-hop futurista.
+魅力：エレクトロの原点、未来的ヒップホップ
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Planet Rock (Vocal)
 A2. Bonus Beats I
@@ -34,25 +34,25 @@ B. Planet Rock (Instrumental)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
-### África Bambaataa y WestBam – Agharta
+### Afrika Bambaataa & WestBam – Agharta
 <a href="https://jp.mercari.com/item/m28101658653?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20And%20Westbam%20%E2%80%93%20Agharta.webp"></a>
 
 
-Punto: EP de colaboración lanzado por Low Spirit de Alemania. Afrika Bambaataa y West Bum resuenan juntos para crear un sonido fantástico que representa un "paisaje urbano subterráneo". Este álbum incluye múltiples remezclas, lo que te permitirá disfrutar de la intersección del electro y el techno.
+ポイント：ドイツのLow SpiritからリリースされたコラボEP。アフリカ・バンバータとウエストバムが共鳴し、“サブテラニアンな都市風景”を描く幻想的なサウンドが展開されます。複数のリミックスが収録されており、エレクトロとテクノの交差点を楽しめる一枚。
 
-Charm: Electro x techno fantástica colaboración
+魅力：エレクトロ×テクノ幻想的コラボ
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Agharta - The City Of Shamballa (Subterranean World) (Original)
 
@@ -61,24 +61,24 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m28101658653?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28101658653?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIBL1QPj2KE?si=VHO0Yo-tv9cIjQZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
-### Arthur Baker contra Rennie Pilgrem – Como ningún otro (Remixes)
+### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixes)
 <a href="https://jp.mercari.com/item/m55195821890?afid=6142608987"><img src="../assets/images/Arthur%20Baker%20Vs%20Rennie%20Pilgrem%20%E2%80%93%20Like%20No%20Other%20(Remixes).webp"></a>
 
-Lo más destacado: un álbum de remezclas del pionero del electro Arthur Baker, reconstruido en un estilo big beat y electro por el peso pesado del breakbeat británico Rennie Pilgrem. La atracción es "una nueva interpretación de dos personas que construyeron un puente entre el electro y el hip-hop".
+ポイント：エレクトロの先駆者Arthur Bakerが、UKのブレイクビーツ重鎮Rennie Pilgremの手でビッグビート＆エレクトロ風に再構築されたリミックス盤。「Electroとヒップホップの架け橋を築いた人物同士による新解釈」が魅力です。
 
-Charm: espíritu pionero del electro revivido a través de remezclas
+魅力：リミックスで蘇るエレクトロ先駆性
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Like No Other (Rennie Pilgrem Mix Pt 1)
 
@@ -86,24 +86,24 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m55195821890?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55195821890?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pro291Ujs4Y?si=9VpUkriaSso19Ody" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Punto: "Side B" es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
+ポイント：「Side B」が特に強烈なエレクトロ感を発揮するダークな一曲。静謐な空気の中で“機械的な緊張感”が漂い、クールかつ奥深い世界観に引き込まれます。
 
-Charm: Electro oscuro y tenso.
+魅力：ダークで緊張感漂うエレクトロ
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Conrad 4 (Instrumental)
 
@@ -111,24 +111,24 @@ B. Video Hi 8 (Instrumental)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
-### Beroshima – Baila la máquina
+### Beroshima – Dance The Machine
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-Punto: Un lanzamiento de Frank Muller del proyecto electro alemán Beroshima formado en 1994. Ulrich Schnauss también ha participado, y su sonido electro es una fusión de enfoques minimalista y disco.
+ポイント：1994年に結成されたジャーマン・エレクトロプロジェクトBeroshimaのFrank Mullerによるリリース。Ulrich Schnaussも参加していたことがあり、ミニマル＆ディスコ的アプローチが融合されたエレクトロサウンドが特徴です。
 
-Charm: Minimal y electro disco.
+魅力：ミニマル＆ディスコ的エレクトロ
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Dance The Machine (Extended Version)
 
@@ -137,26 +137,26 @@ B2. Dance The Machine (Disco Club Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vgvr9l78OkU?si=u_-1UUm1y7Qspum3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Ugra & Albrecht – EP retocado
+### Ugra & Albrecht – Retouched EP
 <a href="https://jp.mercari.com/item/m46595455712?afid=6142608987"><img src="../assets/images/Ugra%20&%20Albrecht%20%E2%80%93%20Retouched%20EP.webp"></a>
 
-Punto: Un proyecto de los productores alemanes Sertac Ugra y Sören Albrecht. Esta es una pista poco común que combina electro y house, con una sensación house sofisticada y un toque electro.
+ポイント：ドイツ人プロデューサーSertac UgraとSören Albrechtによるプロジェクト。エレクトロとハウスが融合した希少なトラックで、洗練されたハウス感とエレクトロ的エッジが同居しています。
 
-Atractivo: Sofisticada pista electro x house
+魅力：エレクトロ×ハウスの洗練トラック
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Retouched
 
@@ -164,26 +164,26 @@ B. Schmetterball
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8TE0mDP6tc?si=o_WDtTJA5fq3pJS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RWv2m-4JdCE?si=dKoXOjRNq_OeYP2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 ### Del Costa & Pedro Goya – Freaky Mike
 <a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%93%20Freaky%20Mike.webp"></a>
 
-Lo más destacado: Un trabajo de un veterano dúo de productores portugueses. Contiene las versiones original y remix, lo que te permite disfrutar de temas electro minimalistas y bailables.
+ポイント：ポルトガルのベテランプロデューサーデュオによる作品。オリジナルとRemixバージョンを収録し、ミニマルでダンサブルなエレクトロ系トラックが楽しめます。
 
-Charm: Electro minimalista y bailable
+魅力：ミニマルでダンサブルなエレクトロ
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Freaky Mike (Original Cut)
 
@@ -191,10 +191,10 @@ B. Freaky Mike (DJ All Star &amp; Don Disco Remix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>

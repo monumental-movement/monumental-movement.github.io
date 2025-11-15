@@ -8,19 +8,19 @@ layout: post
 tags:
 - House
 - 00s
-title: Doblado – Permanece igual
+title: Bent – Stay The Same
 ---
 
 
-Bent es un dúo de electrónica y downtempo del Reino Unido que estuvo activo de 1999 a 2009 y se reunió en 2019. Los miembros son Simon Mills y Neil Tolliday. Su estilo se caracteriza por una mezcla de sampleo y humor, y estuvieron activos en la escena downtempo de principios de la década de 2000.
+Bentは、1999年〜2009年まで活動し、2019年に再結成したUK出身のエレクトロニカ＆ダウンテンポ・デュオ。メンバーは、Simon MillsとNeil Tolliday。サンプリングとユーモアを交えたスタイルが特徴で2000年代初頭のダウンテンポシーンで活躍した。
 
-"Stay The Same" es una mezcla House de una pista dyne tempo/chill-out lanzada por el sello Sport en 2003, con Katty Heath.
+この「Stay The Same」は、Katty Heath をフィーチャー し、2003年にレーベルSportからリリースされたダインテンポ/チルアウトトラックの Houseミックス。
 
-A es Acid Remix de la banda electrónica italiana Planet Funk.
+Aは、イタリアのエレクトロニック・バンドPlanet Funk(プラネット・ファンク)によるAcid Remix。
 
-B1 es un Dub Remix de Ashley Beedle, una DJ y productora del Reino Unido que ha estado activa desde finales de los años 1980.
+B1は、1980年代後半から活動するUKのDJ・プロデューサーAshley BeedleによるDub Remix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Stay The Same (Planet Funk Acid Remix)
 
@@ -28,7 +28,7 @@ B1. Magic Love (Ashley Beedle's Trickbag Dub Mix)
 B2. Stay The Same (Themroc Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86928683076?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86928683076?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQqpY7w9kpU?si=D00RvsQKZSRMmDU9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

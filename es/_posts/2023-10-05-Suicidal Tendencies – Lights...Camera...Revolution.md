@@ -8,17 +8,17 @@ layout: post
 tags:
 - Hardcore
 - Punk
-title: Tendencias suicidas – Luces...Cámara...Revolución
+title: Suicidal Tendencies – Lights...Camera...Revolution
 ---
 
 
-""Lights...Camera...Revolution!'' es un trabajo importante en la carrera de Suicidal Tendencies, que encarna la amplitud y energía de su música. El álbum se caracteriza por intensos riffs de guitarra, batería veloz y la poderosa voz de Mike Muir.
+「Lights...Camera...Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、Mike Muirのパワフルなヴォーカルによって特徴づけられています。
 
-El álbum incluye canciones exclusivas como "You Can't Bring Me Down" y "Send Me Your Money".
+アルバムには、代表曲である「You Can't Bring Me Down」や「Send Me Your Money」などが収録されています。
 
-El álbum fue aclamado por la crítica y mostró la evolución musical de Suicidal Tendencies, y fue un éxito comercial. La banda atrajo a muchos fans con su estilo único de fusión de heavy metal y punk, y su influencia se convirtió en una presencia importante en la escena musical cruzada.
+このアルバムは、Suicidal Tendenciesの音楽的な進化を示す作品として高く評価されており、商業的にも成功を収めました。バンドは、ヘヴィメタルとパンクの融合という独自のスタイルで多くのファンを魅了し、その影響力はクロスオーバーミュージックシーンにおいて重要な存在となりました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. You Can't Bring Me Down
 
@@ -41,7 +41,7 @@ B4. Disco's Out, Murder's In
 B5. Go'n Breakdown
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m66534589009?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66534589009?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxcJW6bs5os?si=-h-74mVx_OHMrt75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

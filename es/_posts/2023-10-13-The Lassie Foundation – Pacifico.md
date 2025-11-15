@@ -8,15 +8,15 @@ layout: post
 tags:
 - Shoegaze
 - Rare
-title: La Fundación Lassie – Pacífico
+title: The Lassie Foundation – Pacifico
 ---
 
 
-The Lassie Foundation fue una banda de shoegaze de noise pop/dream pop de Los Ángeles que estuvo activa de 1996 a 2006.
+The Lassie Foundation（ラッシー・ファンデーション）は、1996年から2006年まで活動したロサンゼルスのノイズポップ/ドリームポップ・シューゲイザーバンド。
 
-El miembro Jeff Schroeder se convirtió en guitarrista de Smashing Pumpkins en 2007, reemplazando a James Iha.
+メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Scapa Flow
 
@@ -41,7 +41,7 @@ B5. Bombers Moon
 B6. You Are Infinity
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

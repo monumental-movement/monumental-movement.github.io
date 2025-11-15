@@ -10,13 +10,14 @@ tags:
 - Rock
 - Pops
 - 60s
-title: The Walker Brothers –El sol ya no va a brillar (Bebé) No tienes que decírmelo
+title: The Walker Brothers –The Sun Ain't Gonna Shine Anymore (Baby) You Don't Have
+  To Tell Me
 ---
 
 
-Los Walker Brothers son un grupo vocal formado en Los Ángeles en la década de 1960.
+The Walker Brothers(ザ・ウォーカー・ブラザーズ )は、1960年代にロサンゼルスで結成されたボーカルグループ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  The Sun Ain't Gonna Shine (Anymore)
 
@@ -43,7 +44,7 @@ B5  Just For A Thrill
 B6  Don't Fight It
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34490368131?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34490368131?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H27FxxaeS9Q?si=3bCcsgMXOXdFagwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

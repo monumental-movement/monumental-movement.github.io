@@ -9,15 +9,15 @@ tags:
 - Euro Beat
 - Hyper Techno
 - 90s
-title: Black Metal con Lady Lust – Show No Mercy
+title: Black Metal Featuring Lady Lust – Show No Mercy
 ---
 
 
-"Show No Mercy" es un EP de Black Metal lanzado en 1995 por el sello italiano "Bulldozer Records".
+「Show No Mercy」は、1995年にイタリアのレーベル「Bulldozer Records」からリリースされたBlack MetalによるEPです。
 
-Puedes escuchar ese sonido de Juliana aquí.
+あのジュリアナサウンドがここでは聴けます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Show No Mercy (Extended No - Mercy Mix)
 
@@ -26,7 +26,7 @@ B1. Show No Mercy (Extended V II Mix)
 B2. Show No Mercy (Playback)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m18913100794?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18913100794?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOgmJhkcoWQ?si=DAi1rPdkRkfGoK6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

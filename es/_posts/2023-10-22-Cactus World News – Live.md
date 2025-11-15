@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Alternative Rock
-title: Noticias Mundo Cactus – En Vivo
+title: Cactus World News – Live
 ---
 
 
-Este álbum es una grabación en vivo de un concierto celebrado en The Whiskey en Los Ángeles el 20 de agosto de 1986.
+このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。 
 
-La tercera canción de la cara B, "America", es una versión de una canción de Simon & Garfunkel.
+B面3曲目の「America」は、サイモン＆ガーファンクルの曲のカバー。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Church Of The Cold
 
@@ -37,7 +37,7 @@ B3. America
 B4. Jigsaw Street
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

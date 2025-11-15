@@ -8,24 +8,24 @@ layout: post
 tags:
 - Pops
 - Soul
-title: Michael Jackson – ¿Estarás allí?
+title: Michael Jackson – Will You Be There
 ---
 
 
-"Will You Be There" es del álbum Dangerous de 1991 del ícono de la música pop estadounidense Michael Jackson.
+「Will You Be There」は、アメリカのポップミュージックのアイコン、マイケル・ジャクソンの1991年のアルバム『Dangerous』に収録されています。
 
-"Will You Be There" es una balada épica y conmovedora con temas religiosos y un mensaje de esperanza. Se destacan la poderosa voz y las expresiones emocionales de Michael Jackson, haciendo de esta una canción que toca profundamente los corazones de los oyentes.
+「Will You Be There」は、感動的で壮大なバラード曲であり、宗教的なテーマや希望に満ちたメッセージが込められています。マイケル・ジャクソンの力強いヴォーカルや情感豊かな表現が際立ち、聴く人の心に深く響く曲です。
 
-Esta canción también se conoce como la banda sonora de la película "Free Willy" y muchos la adoraron como tema principal de la película. También se interpretó con frecuencia en las presentaciones en vivo de Michael Jackson, lo que la convierte en una de las canciones más importantes de su carrera.
+この曲は、映画『フリー・ウィリー』のサウンドトラックとしても知られており、映画のテーマ曲として多くの人々に愛されました。また、マイケル・ジャクソンのライブパフォーマンスでも頻繁に披露され、彼のキャリアにおける重要な楽曲の一つとなっています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Will You Be There (Radio Edit)
 
 B1. Will You Be There (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37751294912?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37751294912?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bUaMzwNPgro?si=jIds42IKM3meTyF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

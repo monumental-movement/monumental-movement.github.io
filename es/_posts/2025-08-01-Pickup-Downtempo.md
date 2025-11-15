@@ -8,20 +8,20 @@ layout: post
 tags:
 - Downtempo
 - 90s
-title: Recoge obras de ritmo lento
+title: ダウンテンポ作品をピックアップ
 ---
 
 
-Una extraordinaria colección de obras downtempo que envuelven tu corazón con ritmos profundos y ritmos suaves".
+深いグルーヴと緩やかなビートが心を包み込む、注目すべきダウンテンポ作品群」
 
-<hora>
+<hr>
 
-### Ratón modesto / 764‑HERO: siempre que lo considere oportuno
+### Modest Mouse / 764‑HERO – Whenever You See Fit
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-Un EP indie tonto lleno de ritmos tranquilos
+静かなリズムが染みるドゥープなインディEP
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Whenever You See Fit (Original Version)
 
@@ -31,20 +31,20 @@ B2. Whenever You See Fit (Sientific American Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99852743815?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
-### B.E.F. Logro. Green Gartside – No sé por qué te amo
+### B.E.F. Feat. Green Gartside – I Don’t Know Why I Love You
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
-El sofisticado sonido británico de Foundation
+Foundation の洗練された英国サウンド
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. I Don't Know Why I Love You (But I Love You)
 
@@ -53,20 +53,20 @@ B2. Family Affair (Plati Party Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50800315242?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Alovg32ZbQ?si=oP2TuMPFpnStQw-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
 
-### Swing Out Sister - Formas y patrones
+### Swing Out Sister – Shapes And Patterns
 <a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
-Suave jazz electrónico y soul, popular en Japón
+日本でも人気、柔らかな電子ジャズ＆ソウル 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -84,20 +84,20 @@ Suave jazz electrónico y soul, popular en Japón
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
 
-### White Light Circus – Órdenes de marcha
+### White Light Circus – Marching Orders
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
-Una pista disco chill con un toque electro británico.
+UKエレクトロ感漂うディスコ調チルトラック
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Marching Orders (Special Mix)
 
@@ -105,20 +105,20 @@ B. The Shot! (Dub Copy)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33139936589?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
-<hora>
+<hr>
+<hr>
 
 
-### Tommy Brown – Sentimientos (EP)
+### Tommy Brown – Feelings (EP)
 <a href="https://jp.mercari.com/item/m69743649538?afid=6142608987"><img src="../assets/images/Tommy%20Brown%20%E2%80%93%20Feelings.webp"></a>
 
-Ritmo relajado por la tarde con sabor italiano
+イタロ風味の昼下がり系チルビート 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Feelings (Mix Edit)
 
@@ -127,8 +127,8 @@ B2. Carillon
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3m_c59ddTE?si=UIL3E_2dltliUTGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

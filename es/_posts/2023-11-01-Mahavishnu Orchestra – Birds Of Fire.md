@@ -9,17 +9,17 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: Orquesta Mahavishnu - Aves de fuego
+title: Mahavishnu Orchestra – Birds Of Fire
 ---
 
 
-Mahavishnu Orchestra es una banda pionera de fusión de jazz-rock formada en 1970 por el guitarrista británico John McLaughlin.
+Mahavishnu Orchestra（マハヴィシュヌ・オーケストラ）は、1970年にイギリス人ギタリストJohn McLaughlin(ジョン・マクラフリン)によって結成されたフュージョン・ジャズ・ロックの草分け的バンド。
 
-Birds Of Fire, lanzado en 1973, fue el segundo álbum de Mahavishnu Orchestra y se convirtió en un éxito mundial inusual para el jazz-rock.
+1973年にリリースしたBirds Of Fire(火の鳥)は、Mahavishnu Orchestraの２作目で、ジャズロックとしては異例の世界的ヒットとなった。
 
-Los miembros participantes en ese momento fueron John McLaughlin (guitarra), Jerry Goodman (violín), Jan Hammer (teclados), Rick Laird (bajo) y Billy Cobham (batería).
+この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Birds Of Fire
 
@@ -42,7 +42,7 @@ B3. Open Country Joy
 B4. Resolution
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23380322375?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AulNvAR0u5c?si=dwJR6pVDbzzbcEyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

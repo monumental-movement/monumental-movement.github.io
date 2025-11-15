@@ -9,13 +9,13 @@ tags:
 - Hiphop
 - Conscious
 - Rap
-title: Producciones Kinderzimmer – Doobie
+title: Kinderzimmer Productions – Doobie
 ---
 
 
-Kinderzimmer Productions es una banda de hip-hop formada a mediados de la década de 1990 por Quasi Modo (Sascha Klammt, DJ) y Textor (Henrik von Holtum, MC) de Ulm, Alemania.
+Kinderzimmer Productionsは、ドイツのウルム出身Quasi Modo (Sascha Klammt、DJ) と Textor (Henrik von Holtum、MC)により1990年代半ばに結成されたヒップホップバンド。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Doobie (Album Version)
 
@@ -28,7 +28,7 @@ B2. Doobie (K.P. Instrumental)
 B3. Doobie (Acappella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59458313473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59458313473?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SA8TJRqEu94?si=MkII3dgB5A4aL6Jy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

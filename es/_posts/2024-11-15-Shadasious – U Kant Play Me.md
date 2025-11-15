@@ -9,18 +9,18 @@ tags:
 - Hiphop
 - Rap
 - 90s
-title: Sha'dasious – U Kant Juegame
+title: Sha'dasious – U Kant Play Me
 ---
 
 
-Sha'dasious - U Kant Play Me / Phunk Wucha Heard
-sombrío
+Sha'dasious – U Kant Play Me / Phunk Wucha Heard
+シャダシャス
 
-Corte sencillo del primer álbum de Sha'dasious, "Phunk Wucha Heard". "U Kant Play Me" es un clásico del hip hop respaldado por las escenas de Hip Hop y R&B.
+Sha'dasiousのファーストアルバム「Phunk Wucha Heard」からのシングルカット。「U Kant Play Me」はHipHop、R&Bシーンから支持されるヒップホップクラシック。
 
-Este disco es una versión estadounidense publicada por RCA en 1994.
+このレコードは、1994年にRCAからリリースされたUS盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. U Kant Play Me (Vox)
 A2. U Kant Play Me (Instrumental)
@@ -31,7 +31,7 @@ B2. Phunk Wucha Heard (Remix)
 B3. Phunk Wucha Heard (Remix Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33289222948?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wlq2Vb6mkcE?si=wSGl4sMXuDHIaWxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

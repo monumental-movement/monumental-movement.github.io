@@ -8,17 +8,17 @@ layout: post
 tags:
 - New-Wave
 - Rock
-title: Maniobras orquestales en la oscuridad – Crush
+title: Orchestral Manoeuvres In The Dark – Crush
 ---
 
 
-Crush es el sexto álbum de estudio de la banda electrónica británica Orchestra Maneuvers in the Dark (OMD), lanzado el 17 de junio de 1985 por Virgin Records.
+「Crush（クラッシュ）」は、イギリスのエレクトロニック・バンド、Orchestral Manoeuvres in the Dark（OMD）の6番目のスタジオアルバムで、1985年6月17日にVirgin Recordsからリリースされました。
 
-Este álbum es el primero de dos álbumes de estudio de OMD producidos por Stephen Hague. Dirigido principalmente al mercado americano, destaca por la transición del grupo hacia un sonido más sofisticado, aunque permanecen elementos de sus experimentos anteriores.
+このアルバムは、Stephen Hagueによってプロデュースされた2つのOMDスタジオアルバムの最初のものです。主にアメリカ市場をターゲットにしており、より洗練されたサウンドにグループを移行させた点が特筆されますが、以前の実験要素も残っています。
 
-Durante la grabación, la banda hizo mayor uso de instrumentación orgánica que en el pasado.
+レコーディング中、バンドは過去よりもオーガニックな楽器の使用を増やしました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. So In Love
 
@@ -41,7 +41,7 @@ B4. Hold You
 B5. The Lights Are Going Out
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Q8clCyMdjA?si=Ul1i4Iiz9bQkS1az" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

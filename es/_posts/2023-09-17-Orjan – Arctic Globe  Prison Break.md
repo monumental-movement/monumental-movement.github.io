@@ -8,32 +8,32 @@ layout: post
 tags:
 - Trance
 - EDM
-title: Orjan – Globo ártico / Fuga de prisión
+title: Orjan – Arctic Globe / Prison Break
 ---
 
 
-"Orjan - Arctic Globe / Prison Break" es una canción del productor noruego de música trance Orjan.
+「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。
 
-"Arctic Globe" se caracteriza por una hermosa melodía y un sonido magnífico. La combinación de melodía y sonidos de sintetizador que recuerdan a un mundo de hielo frío y brillante lleva al oyente a un viaje fantástico.
+「Arctic Globe」は、美しいメロディと壮大なサウンドが特徴で、冷たく輝く氷の世界を連想させるようなメロディとシンセサウンドが組み合わさり、聴く人を幻想的な旅に連れて行きます。
 
-Esta canción presenta una acumulación emocional y una caída energética, lo que te permite disfrutar plenamente del encanto de la música trance.
+この曲は、感情的なビルドアップとエネルギッシュなドロップが特徴であり、トランスミュージックの魅力を存分に味わえるでしょう。
 
-Por otro lado, "Prison Break" es una canción con una atmósfera oscura y dramática. La superposición de la pesada línea de bajo y los sonidos de sintetizador aumenta la tensión, creando un mundo de trance lleno de velocidad.
+一方、「Prison Break」は、ダークでドラマティックな雰囲気が漂う楽曲です。重厚なベースラインとシンセサウンドの重なりが緊張感を高め、疾走感あふれるトランスの世界を作り出しています。
 
-Esta canción se caracteriza por un ritmo poderoso y una energía intensa, que atrae al oyente a un mundo de música animada.
+この曲は、パワフルなビートとインテンスなエネルギーが特徴であり、聴く人を躍動感溢れる音楽の世界へと引き込みます。
 
-"Arctic Globe / Prison Break" es conocida como una canción en la que puedes disfrutar del sonido de trance único de Orjan.
+「Arctic Globe / Prison Break」は、Orjanの独自のトランスサウンドを楽しめる楽曲として知られています。
 
-Su música se caracteriza por una producción sofisticada y una expresión emocional, y ha atraído a muchos oyentes. Estas canciones serán una opción atractiva para los fanáticos de la música trance y aquellos que buscan un sonido enérgico.
+彼の音楽は、洗練されたプロダクションと感情的な表現が特徴であり、多くのリスナーに魅力を与えてきました。これらの曲は、トランスミュージックのファンやエネルギッシュなサウンドを求める人にとって、魅力的な選択肢となるでしょう。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Arctic Globe
 
 AA. Prison Break
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,13 +10,13 @@ tags:
 - Swing
 - Europop
 - 90s
-title: Lutricia McNeal - Mi lado de la ciudad
+title: Lutricia McNeal – My Side Of Town
 ---
 
 
-El álbum de estudio debut de la cantante estadounidense de R&B Lutricia McNeal. Este álbum contemporáneo inspirado en el R&B y el europop fue lanzado en 1998 como una edición limitada por el sello de danza italiano Do It Yourself.
+USのR&BシンガーLutricia McNealのデビュースタジオアルバム。コンテンポラリーR&B&ユーロポップテイストのこのアルバムはイタリアのダンスレーベルDo It Yourself から1998年にリリースされた限定版。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. My Side Of Town
 A2. Always
@@ -31,7 +31,7 @@ B5. Crossroads
 B6. The Heart Is A Lonely Hunter
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m82712516054?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82712516054?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dV8l5IAcFus?si=00uEcCoHEQkycYFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

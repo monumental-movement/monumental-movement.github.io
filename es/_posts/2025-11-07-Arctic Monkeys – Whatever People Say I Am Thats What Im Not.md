@@ -10,15 +10,15 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: 'Arctic Monkeys: lo que la gente diga que soy, eso es lo que no soy'
+title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
 ---
 
 
-Arctic Monkeys es una banda de rock de Sheffield, Inglaterra, formada en 2002. Arctic Monkeys es un representante de la era del "Blog Rock", que ganó la atención del público a través de Internet.
+Arctic Monkeys(アークティックモンキーズ)は、2002年に結成されたイングランド・シェフィールド出身のロックバンド。アークティック・モンキーズは、インターネットを通じて世間の注目を集めた「ブログ・ロック」時代の代表格。
 
-Este álbum es el álbum de estudio debut lanzado por el sello Domino en 2006.
+このアルバムは2006年にレーベルDominoからリリースされたデビュースタジオアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -35,7 +35,7 @@ Este álbum es el álbum de estudio debut lanzado por el sello Domino en 2006.
 13. A Certain Romance
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

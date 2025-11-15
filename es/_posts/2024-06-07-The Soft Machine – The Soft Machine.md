@@ -11,15 +11,15 @@ tags:
 - Psychedelic
 - Experimental
 - Rare
-title: La máquina blanda – La máquina blanda
+title: The Soft Machine – The Soft Machine
 ---
 
 
-The Soft Machine es una banda británica de jazz-rock progresivo de Canterbury formada a mediados de 1966 por Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen y Larry Nowlin. La banda lleva el nombre de la novela "The Soft Machine" de William S. Burroughs.
+The Soft Machine（ソフト・マシーン）は、1966年半ばにマイク・ラトレッジ、ロバート・ワイアット、ケビン・エアーズ、デイヴィッド・アレン、ラリー・ナウリンによって結成されたカンタベリー出身のUKプログレッシヴジャズロックバンド。バンド名は、ウィリアム S. バロウズの小説「ソフトマシーン」にちなんで名付けられた。
 
-Soft Machine se convirtió en una de las primeras bandas psicodélicas de Gran Bretaña, y luego pasó al rock progresivo y al jazz rock, y se convirtió en una banda instrumental en 1971.
+ソフトマシーンは、イギリス初のサイケデリックバンドの1つとなり後にプログレッシブロックやジャズロックに移行し、1971年にはインストゥルメンタルバンドになった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Hope For Happiness
 2. Joy Of A Toy
@@ -36,7 +36,7 @@ Soft Machine se convirtió en una de las primeras bandas psicodélicas de Gran B
 13. Box 25/4 Lid
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

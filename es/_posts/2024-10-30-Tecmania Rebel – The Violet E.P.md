@@ -9,15 +9,15 @@ tags:
 - Progressive House
 - Hard House
 - Techno
-title: Tecmania Rebel – El E.P. Violeta
+title: Tecmania Rebel – The Violet E.P.
 ---
 
 
-Tecmania Rebel es DJ Patrick, también conocido como Patrick Van Der Hart. Una vez fue residente del Hollywood Music Hall, un famoso club en Rotterdam, Países Bajos.
+Tecmania Rebel はDJ PatrickことPatrick Van Der Hart別名義。彼は、かつてオランダのロッテルダムにあった有名クラブHollywood Music Hallのレジデントとして活躍した。
 
-"El EP Violeta" es una pista de house progresivo/hard house/techno lanzada por Planet Dance Records en 1996.
+「The Violet E.P.」は1996年にPlanet Dance Recordsかリリースされたプログレッシブハウス・ハードハウス・テクノトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Logo Side:
 A1. Violet
@@ -28,7 +28,7 @@ B1. So, Get Up
 B2. Feel My ...
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m98777082058?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98777082058?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFlSPGdW72M?si=feUhDxVz2ypxorwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

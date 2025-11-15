@@ -12,9 +12,9 @@ title: El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres
 ---
 
 
-Todos A La Fiesta/Eo Eo Si Tu Quieres de El Cubano es un tema latino Eurohouse lanzado por el sello italiano Muzic Without Control Records.
+El CubanoによるTodos A La Fiesta/Eo Eo Si Tu Quieresは、イタリアのレーベル「Muzic Without Control Records」からリリースされたラテン・ユーロハウスのトラックです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Todos A La Fiesta
 
@@ -25,5 +25,5 @@ B1. Eo Eo Si Tu Quieres (Club Rumba Mix)
 B2. Eo Eo Si Tu Quieres (Original Album Vrs.)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
 

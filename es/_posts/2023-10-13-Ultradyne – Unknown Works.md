@@ -9,17 +9,17 @@ tags:
 - Techno
 - Detroit Techno
 - 00s
-title: Ultradyne - Obras desconocidas
+title: Ultradyne – Unknown Works
 ---
 
 
-Ultradyne es un proyecto de música techno estadounidense de Dennis Richardson y Frank de Groodt. También activo bajo el nombre Majestic12.
+Ultradyne（ウルトラダイン）は、Dennis RichardsonとFrank de GroodtによるUSテクノミュージック・プロジェクト。Majestic12名義でも活動。
 
-Ultradyne es un grupo que persigue el sonido del techno y la música electrónica de Detroit que estuvo activo en la década de 1990. Si bien tiene elementos enérgicos y bailables, también contiene elementos abstractos y experimentales, y ha recibido grandes elogios de los fanáticos del techno y la música electrónica.
+Ultradyneは、1990年代に活躍したデトロイトテクノとエレクトロニックミュージックのサウンドを追求するグループで、エネルギッシュでダンサブルな要素を持ちながらも、アブストラクトで実験的な要素も含んでおり、テクノやエレクトロニックミュージックのファンから高い評価を受けていました。
 
-"Unknown Works" fue lanzado en 2002 en el sello electro/IDM británico de Daz Quayle, SCSI-AV.
+「Unknown Works」は、Daz Quayle主宰のUKエレクトロ/IDMレーベルSCSI-AVから2002年にリリース。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 
@@ -30,7 +30,7 @@ B1. Ultradyne–Society @ Work
 B2. Ultradyne–War Drum - Live
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

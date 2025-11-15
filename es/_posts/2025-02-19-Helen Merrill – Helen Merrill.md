@@ -14,13 +14,13 @@ title: Helen Merrill – Helen Merrill
 ---
 
 
-Helen Merrill fue una vocalista de jazz estadounidense que estuvo activa en las décadas de 1950 y 1960.
+Helen Merrill(ヘレン・メリル)は、1950年代〜60年代に活躍したアメリカのジャズヴォーカリスト。
 
-El álbum "Helen Merrill" es el álbum de estudio debut de Helen Merrill, lanzado por el sello discográfico de jazz EmArcy en 1955. Presentaba arreglos de Quincy Jones, el trompetista Clifford Brown, el violonchelo y contrabajista Oscar Pettiford, entre otros.
+アルバム「Helen Merrill」は、1955年にジャズレコードレーベルEmArcyからリリースされたヘレン・メリルのデビュースタジオアルバムで、アレンジがQuincy Jones(クインシー・ジョーンズ)、トランペット奏者のClifford Brown(クリフォード・ブラウン)、チェロ&ダブルベース奏者のOscar Pettiford(オスカー・ペティフォード)等が参加している。
 
-Este CD es una versión japonesa que fue reeditada y remasterizada en 1997.
+このCDは1997年に再発&リマスターされた日本盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Don't Explain
 2. You'd Be So Nice To Come Home To
@@ -31,7 +31,7 @@ Este CD es una versión japonesa que fue reeditada y remasterizada en 1997.
 7. 'S Wonderful
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wl65pr4Q5wA?si=Sp5cSjgUDdySXb2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

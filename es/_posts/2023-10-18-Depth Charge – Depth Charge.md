@@ -7,13 +7,13 @@ lang: es
 layout: post
 tags:
 - Break Beat
-title: Carga de profundidad – Carga de profundidad
+title: Depth Charge – Depth Charge
 ---
 
 
-Depth Charge es el alias del DJ y músico británico J.Saul Kane, quien también ha lanzado con otros nombres, incluidos The Octagon Man, Alexander's Dark Band, T.E.T y Grimm Death. J Saul Kane también es propietario de DC Recordings y Electron Industries.
+Depth Chargeは、イギリスのDJ/ミュージシャン J.Saul Kane（J・ソウル・ケイン）の別名義で、他にもThe Octagon Man、Alexander's Dark Band、T.E.T、Grimm Deathなど様々な名義でリリースしている。J Saul Kaneは、DC Recordings と Electron Industries のオーナーでもある。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Depth Charge (Han Do Jin Version)
 
@@ -22,7 +22,7 @@ B1. Depth Charge (Drum Death Version)
 B2. Depth Charge (Bass It)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61709862692?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61709862692?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Hlyx53KRxM?si=FT8X7jdrivMsCp2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

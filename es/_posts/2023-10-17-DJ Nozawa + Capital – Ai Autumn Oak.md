@@ -7,15 +7,15 @@ lang: es
 layout: post
 tags:
 - Hiphop
-title: DJ Nozawa + Capital – Ai Otoño Roble
+title: DJ Nozawa + Capital – Ai Autumn Oak
 ---
 
 
-DJ NOZAWA es considerado uno de los mejores tocadiscos de Japón. En 1998, se unió al grupo creador Terracotta Troops liderado por Shing02, y participó en el lanzamiento de "Yokuyokuren" en 1999. En 1997 y 1998, representó a DMC Japón durante dos años consecutivos.
+DJ NOZAWAは、日本最高のターンテーブリストの一人とされている。98年にShing02率いるクリエーター集団Terracotta Troopsに加入し、99年にリリースされた『緑黄色人種』に参加。97年と98年には、二年連続DMC日本代表となる。
 
-"Ai/Autumn Oak" es una colaboración entre DJ Nozawa y Capital (Jonathan Patterson), lanzada en 2003.
+「Ai / Autumn Oak」は、2003年にリリースされたDJ NozawaとCapital（Jonathan Patterson）の共作。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Ai (Radio Edit)
 
@@ -28,7 +28,7 @@ B1. Autumn Oak (Album Version)
 B2. Autumn Oak (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46537782118?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46537782118?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z_SjRTOSdxE?si=W1lzg0sd_RI7pPJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

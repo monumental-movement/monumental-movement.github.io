@@ -8,24 +8,24 @@ layout: post
 tags:
 - Techno
 - Minimal
-title: Antón Pieete – Jugadores
+title: Anton Pieete – Players
 ---
 
 
-Anton Pieete es un DJ/productor de Ámsterdam.
-"Players" es una de las canciones emblemáticas de Anton Pieete y fue lanzada en 2008 en Intacto Records, uno de los subsellos de Planet Gong.
+Anton Pieete（アントン・ピエット）は、アムステルダム出身のDJ/プロデューサー。
+「Players」は、Anton Pieeteの代表曲の一つで、Planet Gongのサブレーベルの一つIntacto Recordsから2008年にリリースされた。
 
-Anton Pieeteh se une al Distrito Uno con Bart Skils.
-(Distrito Uno) también está activo.
+Anton Pieetehは、Bart Skils（バート・スキルズ）と共にDistrict One
+（ディストリクト・ワン）としても活動中。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Players
 
 B. I Don't Want
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m45848161979?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45848161979?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vHRA5zpdXdo?si=o655O3dWVX61hAdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ tags:
 - Dancehall
 - Reggae
 - Reggaeton
-title: DJ Belal – Mezcla de fiesta de reggaetón 05
+title: DJ Belal – Reggaeton Party Mix 05
 ---
 
 
-El lado A es una versión remix de "1 Thing" de Amerie. La cara B es una versión remix de 50 Cent - "Candy Shop".
+A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy Shop」のremixヴァージョン。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Club
 
@@ -30,5 +30,5 @@ B2. Instrumental
 B3. Ordinary Mix
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
 

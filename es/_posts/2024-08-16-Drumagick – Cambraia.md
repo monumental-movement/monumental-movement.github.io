@@ -14,20 +14,20 @@ title: Drumagick – Cambraia / Brasil
 ---
 
 
-Los veteranos de la música electrónica brasileña Drumagick son un dúo de DJ/productores con sede en São Paulo formado por los hermanos JrDeep y Guilherme Lopes.
+ブラジルのエレクトロニックミュージックのベテランDrumagickは、サンパウロを拠点とする JrDeep と Guilherme Lopes兄弟によって結成されたDJ・プロデューサーデュオ。
 
-Caracterizado por un estilo que incorpora elementos de la música brasileña, la música latina, soul, funk y jazz en breaks de drum and bass, contribuyó al desarrollo de la escena del drum and bass de Brasil.
+ドラムンベース・ブレイクスに、ブラジル音楽、ラテン音楽、ソウル、ファンク、ジャズの要素を取り入れたスタイルが特徴で、ブラジルのドラムンベースシーンの発展に貢献した。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Cambraia
 
 B. Brasil
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lsehBlrz_XA?si=NpTVAoSs7vG52CDu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

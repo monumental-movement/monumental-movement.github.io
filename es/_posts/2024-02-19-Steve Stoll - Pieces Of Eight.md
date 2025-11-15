@@ -9,19 +9,19 @@ tags:
 - Techno
 - NY Techno
 - UK Techno
-title: Steve Stoll - Piezas de ocho
+title: Steve Stoll - Pieces Of Eight
 ---
 
 
-Una pista de techno lanzada en 2000 por el DJ y productor de techno y ambiente estadounidense Steve Stoll.
+USテクノ＆アンビエントDJ・プロデューサーのSteve Stoll （スティーヴ・ストール）が2000年にリリースしたテクノトラック。
 
-La segunda canción de la cara B es un remix del DJ y productor de techno británico radicado en Londres, Justin Berkovi.
+B面２曲目はロンドンを拠点に活動するUKテクノDJ・プロデューサーJustin Berkovi（ジャスティン・ベルコヴィ）のremix。
 
-B1 en este disco se destaca aún más por su línea de bajo relajante pero potente y la sincronización perfecta de los pads.
+このレコードのB1は、心地よいながらも力強いベースライン、そして最高のタイミングでパッドが登場して、さらに際立ちます。
 
-"Killin' it" de B2 es una pista con muchos bajos que se inclina más hacia el trip-hop que hacia el techno, con sus bajos sucios y profundos y su ritmo funky.
+B2の「Killin' it」は重低音炸裂のトラックで、テクノというよりかはトリップホップ寄りで、汚くて深い低音とファンキーなリズムが特徴的です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A.  Pieces Of Eight
 
@@ -30,7 +30,7 @@ B1. Pieces Of Eight (Night Thoughts Remix)
 B2. Killin' It
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YyFoxNhzR7s?si=_wjCc0Gx6etXGatv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

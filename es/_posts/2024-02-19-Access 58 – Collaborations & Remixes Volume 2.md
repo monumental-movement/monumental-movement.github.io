@@ -9,17 +9,17 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: Access 58 – Colaboraciones y remezclas Volumen 2
+title: Access 58 – Collaborations & Remixes Volume 2
 ---
 
 
-Access58 es una producción tech house de Paulo Nascimento (AKA Urban Ritual) y Philippe Quenum.
+Access58は、Paulo Nascimento（AKA Urban Ritual）とPhilippe Quenumによるテックハウスプロダクション。
 
-La primera pista de la cara A es un remix de Cisco Ferreira bajo el nombre The Advent.
+A面１曲目はCisco Ferreira（シスコ・フェレイラ）のThe Advent （ジ・アドヴェント）名義によるremix。
 
-El segundo tema de la cara A es un remix de Umek, representante del techno esloveno.
+A面２曲目はスロヴェニア・テクノの代表Umek（ウメック）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. The Story So Far... (The Advent "The Cut Ups" Remix)
 
@@ -30,7 +30,7 @@ AA1. Solid Deal (Collaboration With Trevor Rockcliffe)
 AA2. Restless (Featuring Etmo)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v1Va-NyFbrY?si=6lAJbIYFWrYgw90w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,18 +8,18 @@ layout: post
 tags:
 - Techno
 - JPop
-title: Denki Groove – Dragón EP
+title: Denki Groove – Dragon EP
 ---
 
 
-La canción principal, "Dragon", es una canción bailable que combina elementos de la música electrónica y el techno. Denki Groove se caracteriza por su sonido y ritmo únicos, y su melodía y ritmo únicos cautivan a los oyentes.
+タイトル曲「Dragon」は、エレクトロニックミュージックとテクノの要素を組み合わせたダンサブルな楽曲です。電気グルーヴ独自のサウンドとリズムが特徴であり、ユニークなメロディとビートが聴く人を魅了します。
 
-"Dragon EP" experimenta con diferentes estilos y enfoques musicales. Los elementos experimentales y la alegría de Denki Groove se reflejan en las canciones, que destacan por su singularidad y creatividad.
+「Dragon EP」は、さまざまな音楽スタイルとアプローチが試されています。電気グルーヴの実験的な要素や遊び心が楽曲に反映されており、その独自性と創造性が際立っています。
 
-Este EP es una pieza valiosa para los fanáticos de Denki Groove y les permite sentir la evolución de su música y nuevos experimentos. También será una gran oportunidad para quienes escuchen la música de Denki Groove por primera vez de experimentar su sonido y energía únicos.
+このEPは、電気グルーヴのファンにとっては貴重な一枚であり、彼らの音楽の進化や新たな試みを感じることができます。また、電気グルーヴの音楽を初めて聴く人にとっても、そのユニークなサウンドとエネルギーに触れる絶好の機会となるでしょう。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Dinosaur Tank
 
@@ -30,7 +30,7 @@ B1. The Marble Men
 B2. Brazilian Cowboy
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27644764690?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdlQ2eQFi7k?si=UDcuioAGaBC4Z5-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

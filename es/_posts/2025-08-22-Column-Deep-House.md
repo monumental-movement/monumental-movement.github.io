@@ -10,197 +10,196 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: '[Columna] ¿Qué es el deep house? ─ Explorando la profundidad del sonido que
-  fusiona la temperatura del soul y el jazz con el house.'
+title: 【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る
 ---
 
 
-## Antes que nada, ¿qué es el deep house?
+## そもそもディープ・ハウスとは？
 
 
-Texto: mmr｜Tema: Deep House, un género que continúa evolucionando silenciosamente incorporando historia y contexto.
+文：mmr｜テーマ：歴史と文脈を編み込みながら、静かに進化を続けるジャンル ― Deep House。
 
-El deep house es una variedad de house que surgió en el área de Chicago-Nueva Jersey a finales de los años 1980. Caracterizada por armonías de soul/jazz, bajos suaves y un ritmo sobrio, es un tipo de música de baile que es "profunda, larga y calienta el cuerpo" en lugar de un pico apresurado. Los BPM son generalmente de 118 a 124 (velocidad lenta a media), los acordes de séptima y novena, el piano eléctrico (Rhodes), el órgano (serie Korg M1) y las voces relajadas son simbólicos. Tiene una "temperatura nocturna" válida tanto para el suelo como para la escucha.
+ディープ・ハウスは1980年代後半のシカゴ～ニュージャージー周辺で芽生えたハウスの系統。ソウル／ジャズの和声感、滑らかな低音、抑制の効いたグルーヴが特徴で、ラッシュなピークではなく「深く、長く、身体を温める」タイプのダンスミュージックです。BPMは概ね118–124（遅め～中速）、7th/9th系のコード、エレピ（Rhodes）やオルガン（Korg M1系）、レイドバックしたボーカルが象徴的。フロアでもリスニングでも成り立つ“夜の温度”を持っています。
 
 
-<hora>
+<hr>
 
-### Antecedentes y desarrollo del nacimiento.
+### 誕生の背景と展開
 
-**1985–90: Temprano Temprano (Chicago/Nueva Jersey)**
+**1985–90：原初期（Chicago/NJ）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) presenta el prototipo con "Can You Feel It" y "Mystery of Love". Siguiendo el flujo de [Frankie Knuckles](https://amzn.to/4nUwWJ4) y [Marshall Jefferson](https://amzn.to/3KOf4AV), una fusión del dulce sentimiento soul de Jersey Garage ([Blaze](https://amzn.to/4ooZuuc) y [Kerri Chandler](https://amzn.to/4qbd4CR)).
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) が「Can You Feel It」「Mystery of Love」で原型を提示。[Frankie Knuckles](https://amzn.to/4nUwWJ4)、[Marshall Jefferson](https://amzn.to/3KOf4AV)の流れを受け、Jersey Garageの甘いソウル感（[Blaze](https://amzn.to/4ooZuuc)、[Kerri Chandler](https://amzn.to/4qbd4CR)）が融合。
 
-**Década de 1990: Profundización y diversificación**
+**1990年代：深化と多様化**
 
-[Ron Trent & Chez Damier (Prescription)] de Chicago (https://amzn.to/4nOApsp), [Masters At Work (MAW)] de Nueva York (https://amzn.to/3KTsg7y) y [Moodymann] de Detroit (https://amzn.to/4h9ZZWB) amplían la textura "negra". El número de bases aumentará en el Reino Unido y Alemania, creando un puente entre lo profundo y lo tecnológico.
+シカゴの[Ron Trent & Chez Damier（Prescription）](https://amzn.to/4nOApsp)、NYの[Masters At Work（MAW）](https://amzn.to/3KTsg7y)、デトロイトの[Moodymann](https://amzn.to/4h9ZZWB)が“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
 
-**Década de 2000: orientación auditiva y sofisticación**
+**2000年代：リスニング志向と洗練**
 
-Naked Music, Jimpster (Freerange) y más te llevarán a la sofisticación del salón. En Alemania, [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq) y [Dixon (Innervisions)](https://amzn.to/4heIsN1) son populares por su estética arquitectónica minimalista a moderna.
+Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
 
-**Década de 2010 y años posteriores: bifurcación y globalización**
+**2010年代以降：分岐とグローバル化**
 
-Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Sudáfrica, Black Coffee lleva Afro-Deep a estándares de clase mundial. Con la ola del bricolaje, las casas de baja fidelidad también están en aumento.
+AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。南アではBlack Coffeeがアフロ・ディープを世界水準に。DIYの波でLo-fi Houseも勃興。
 
 
-<hora>
+<hr>
 
-### Funciones musicales
+### 音楽的特徴
 
-**Armonía**: 7ª/9ª mayor, acorde de suspensión, mucha tensión. Incluso en tono menor, hay un matiz de "tristeza≠trágico".
+**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
 
-**Beat**: La patada tiene un retrogusto redondo y profundo. El charles es un movimiento aleatorio hasta un ligero swing. Las texturas 909/707/727 y 808 son estándar.
+**ビート**：キックは丸く深い余韻。ハイハットはシャッフル～軽いスウィング。909/707/727や808質感が定番。
 
-**Bajo**: Principalmente notas largas onduladas con subbandas cuidadosamente controladas.
+**ベース**：サブ帯域を丁寧にコントロールしたうねるロングノートが中心。
 
-**Teclado/Textura**: Rhodes/órgano M1/cuerdas suaves, el tipo de espacio (retardo/reverberación) es largo pero no denso.
+**鍵盤／質感**：Rhodes/M1オルガン/柔らかなストリングス、空間系（ディレイ/リバーブ）は長めでも密度は薄く。
 
-**Vocal**: Habla de rango bajo a medio, del linaje del evangelio al alma. Haz uso de la "pausa" utilizando el número necesario y suficiente de palabras.
+**ボーカル**：語りかける低～中域、福音（Gospel）～ソウルの系譜。必要十分な言葉数で“間”を活かす。
 
 
-<hora>
+<hr>
 
-### Artistas/sellos que debes escuchar
+### 必聴アーティスト／レーベル
 
-**Fuente original**: Larry Heard (Mr. Fingers)/Kerri Chandler/Blaze
+**原典**：Larry Heard (Mr. Fingers)／Kerri Chandler／Blaze
 
-**Núcleo**: Ron Trent y Chez Damier (Prescription) / Moodymann (KDJ) / MAW (incluido Nuyorican Soul)
+**中核**：Ron Trent & Chez Damier（Prescription）／Moodymann（KDJ）／MAW（Nuyorican Soul含む）
 
-**Sofisticación de los años 2000**: Jimpster (Freerange) / Miguel Migs & Blue Six (Naked Music)
+**2000s洗練**：Jimpster（Freerange）／Miguel Migs & Blue Six（Naked Music）
 
-**Moderno ~ Melódico**: Âme/Dixon (Innervisions)/Maya Jane Coles
+**モダン～メロディック**：Âme／Dixon（Innervisions）／Maya Jane Coles
 
-**Afro Deep**: Café Negro/Culoe De Song/Da Capo
+**アフロ・ディープ**：Black Coffee／Culoe De Song／Da Capo
 
-**Japonés (sensación de deep house)**: Soichi Terada/Susumu Yokota (Far East Recording)/alrededor de Mule Musiq
+**日本勢（深いハウス感触）**：寺田創一／横田進（Far East Recording）／Mule Musiq周辺
 
-**Disqueras principales**: Prescription, KDJ, Strictly Rhythm, Nu Groove, Guidance, Freerange, Delusions of Grandeur, Innervisions, Mule Musiq, Anjunadeep, All Day I Dream
+**主要レーベル**：Prescription、KDJ、Strictly Rhythm、Nu Groove、Guidance、Freerange、Delusions of Grandeur、Innervisions、Mule Musiq、Anjunadeep、All Day I Dream
 
-"Primeras 3 piezas"
+“まず3枚”
 
-- Sr. Dedos - Amnesia
+- Mr. Fingers – Amnesia
 
-- Ron Trent – ​​Estados alterados
+- Ron Trent – Altered States
 
-- Kerri Chandler - Atmósfera
+- Kerri Chandler – Atmosphere
 
 
-<hora>
+<hr>
 
-### Subgéneros y linajes periféricos
+### サブジャンルと周辺系譜
 
-**Chicago Deep**: Patada pesada + reverberación soul. Ejemplo: Sr. Fingers, Ron Trent.
+**シカゴ・ディープ**：骨太キック＋ソウルの残響。例：Mr. Fingers、Ron Trent。
 
-**Tipo Jersey/garaje**: Piano/órgano y voces tipo gospel. Ejemplo: Kerri Chandler, Blaze.
+**ジャージー／ガラージ系**：ピアノ／オルガンとゴスペル的Vo。例：Kerri Chandler、Blaze。
 
-**Detroit Deep**: textura de baja fidelidad con un toque de jazz-soul. Ejemplo: Moodymann, Theo Parrish (en la frontera).
+**デトロイト・ディープ**：ジャズ～ソウル感に粒立つロー・ファイ質感。例：Moodymann、Theo Parrish（境界上）。
 
-**Deep Tech**: Bajos ajustados y repetición mínima. Ejemplo: Smallville/Calidad subterránea.
+**ディープ・テック**：タイトなローエンドとミニマル反復。例：Smallville/Underground Quality勢。
 
-**Melódico/Orgánico**: Pads anchos y acordes escénicos, instrumentos en vivo y sonidos naturales. Ejemplo: Anjunadeep, Todo el día sueño.
+**メロディック／オーガニック**：広いパッドと情景的コード、生楽器や自然音。例：Anjunadeep、All Day I Dream。
 
-**Afro Deep**: Polirritmia, llamada y respuesta, y percusión de alta temperatura.
+**アフロ・ディープ**：ポリリズムとコール＆レスポンス、温度の高いパーカッション。
 
-**Lo-fi House**: Saturación cálida, sensación de sampleo de los 90.
+**Lo-fi House**：ウォームなサチュレーション、90s的サンプル感。
 
 
-<hora>
+<hr>
 
-### Qué hacen los "buenos DJ de deep house"
+### ディープ・ハウスの“良いDJ”がやっていること
 
-- Aplique gradualmente capas de ecualizador y atenuadores en mezclas largas (de 16 a 32 compases o más).
+- 長めのミックスでEQとフェーダーをじわじわ積層（16～32小節以上）。
 
-- Coincidencia de clave (tonalidad) y teselas (timbre): evite destruir la atmósfera seleccionando canciones en claves adyacentes/tonos estrechamente relacionados.
+- キー（調性）とテッセラ（音色）の整合：隣接キー／近親調の選曲で空気を壊さない。
 
-- Ondas dinámicas: "Sube un poco el calor y vuelve a subirlo rápidamente" durante 30-45 minutos.
+- ダイナミクスの波：30～45分で“少しだけ熱を上げて、すぐ戻す”。
 
-- Configuración de BPM que no sea demasiado rápida: crea una "longitud de zancada" en 118–121, luego pasa a 122–124 en la segunda mitad.
+- 早すぎないBPM設定：118–121で“歩幅”を作り、後半で122–124へ。
 
 
-<hora>
+<hr>
 
-### Consejos de producción
+### 制作Tips
 
-**Código**: "Margen suave" con maj7, min9, sus2/4, 6th. Incluso sólo las dos notas fundamental + novena son "profundas".
+**コード**：maj7、min9、sus2/4、6thで「柔らかい余白」。ルート＋9thの2音だけでも“深い”。
 
-**Selección de tono**: Rhodes, órgano M1, pad Juno, sub analógico. El charles es ligeramente abierto y delgado.
+**音色選び**：Rhodes、M1 Organ、Juno系パッド、アナログサブ。ハイハットは軽めのオープンを薄く。
 
-**Groove**: "Respira" con un ligero swing (+5 a +15%) y cambios mínimos en la velocidad.
+**グルーヴ**：軽いスウィング（+5～+15%）とベロシティの微細変化で“呼吸”。
 
-**Paso bajo/cadena lateral**: Agrega "oscilación invisible" para mantenerlo en contacto con el oído mientras lo hace bailar.
+**ローパス／サイドチェイン**：踊らせつつ耳当たりを保つために“見えない揺れ”を付与。
 
-**Muestreo**: reproduce una frase corta de jazz/soul y deja que se funda en el espacio con una larga caída.
+**サンプリング**：ジャズ／ソウルのフレーズを短くループし、ディケイ長めで空間に溶かす。
 
-**Mezcla**: Kick 40–60 Hz es modesto, 80–120 Hz crea un estruendo corporal. Las voces no deben emitir demasiado entre 2 y 5 kHz.
+**ミックス**：キック40–60Hzは控えめに、80–120Hzで胴鳴りを作る。ボーカルは2–5kHzを出し過ぎない。
 
 
-<hora>
+<hr>
 
-### Escena y cultura
+### シーンとカルチャー
 
-**Ubicación**: Fuerte en cajas pequeñas/contrapisos/fuera de horario.
+**場所**：小箱／サブフロア／アフターアワーズに強い。
 
-**Contexto de escucha**: Conducción nocturna, música de fondo de trabajo/estudio, hora del cóctel.
+**聴取文脈**：深夜のドライブ、作業／学習BGM、カクテルタイム。
 
-**Estética**: ""Emocionalidad sobre funcionalidad''. Más sombra que brillo.
+**美学**：「機能性より情緒の滲み」。煌びやかさより陰影。
 
 
-<hora>
+<hr>
 
-### Plantilla de lista de reproducción (ejemplo de flujo)
+### プレイリスト雛形（流れの例）
 
-**Precalentamiento**: ritmo de órgano estilo Blaze
+**Warm-up**：Blaze系のオルガン・グルーヴ
 
-**Pico inicial**: la fuerza impulsora de Ron Trent/Chez Damier
+**Early peak**：Ron Trent／Chez Damierの推進力
 
-**Meseta**: Refinamiento de Jimpster ~ Freerange
+**Plateau**：Jimpster～Freerangeの洗練
 
-**Cambio de color**: la sensación viva de Henrik Schwarz
+**Color change**：Henrik Schwarzのライブ感
 
-**Tarde**: Mantén la temperatura con Afro Deep de Black Coffee y refréscate con el sonido persistente de Larry Heard al final.
+**Late**：Black Coffeeのアフロ・ディープで温度を保ち、ラストにLarry Heardの余韻でクールダウン
 
 
-<hora>
+<hr>
 
-### Consejos para recopilar y buscar registros
+### レコード収集・探し方のコツ
 
-**Palabras clave**: "Profundo" "Atmosférico" "Dub" "Garage" "Jersey" "Receta"
+**キーワード**：「Deep」「Atmospheric」「Dub」「Garage」「Jersey」「Prescription」
 
-**Elija por época**: Principios de los 90 = áspero y cálido, 00 = sofisticado, 10 y posteriores = imagen de sonido amplia.
+**年代感で選**ぶ：90s前半＝粗く温かい、00s＝洗練、10s以降＝音像ワイド。
 
-**Compra de etiqueta**: Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep.
+**レーベル買い**：Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep。
 
-**Debes escuchar la cara B**: Las pistas profundas tienden a estar ocultas en el doblaje de la cara B.
+**B面も必聴**：ディープはB面ダブに名トラックが眠りがち。
 
 
-<hora>
+<hr>
 
-### Discografía rápida (10 canciones introductorias)
+### クイック・ディスコグラフィ（入門10曲）
 
-·Señor. Dedos - "¿Puedes sentirlo?"
+・Mr. Fingers – “Can You Feel It”
 
-・Larry Heard presenta al Sr. White – "El sol no se puede comparar"
+・Larry Heard Presents Mr. White – “The Sun Can’t Compare”
 
-・Kerri Chandler – "Atmósfera"
+・Kerri Chandler – “Atmosphere”
 
-・Ron Trent – ​​​​"Estados alterados"
+・Ron Trent – “Altered States”
 
-・Chez Damier – "Nunca conocí el amor"
+・Chez Damier – “I Never Knew Love”
 
-・Moodymann – "Sombras de Jae"
+・Moodymann – “Shades of Jae”
 
-・Masters At Work – "To Be In Love (MAW Dub)"
+・Masters At Work – “To Be In Love (MAW Dub)”
 
-・Jimpster – "Pantera colgante"
+・Jimpster – “Dangly Panther”
 
-・Yo – "Rej"
+・Âme – “Rej”
 
-・Café negro – "Turn Me On (con Bucie)"
+・Black Coffee – “Turn Me On (feat. Bucie)”
 
 
-<hora>
+<hr>
 
-### Música que se puede disfrutar con el tiempo, no en un momento
+### 一瞬ではなく、時間で味わう音楽
 
-El deep house es música que se puede disfrutar con el tiempo. En lugar de un golpe único y llamativo, hay una "continuación cómoda" que mantiene a la sala y a los oyentes sincronizados entre sí. Si comprende todo, desde los orígenes históricos hasta los subestilos actuales y los secretos de la producción y el DJ, podrá profundizar enormemente su selección y apreciación.
+ディープ・ハウスは時間で味わう音楽です。目立つ一撃より、フロアとリスナーの呼吸を合わせ続ける“継続の心地よさ”。歴史的源流から現行サブスタイル、制作やDJの勘どころまで押さえれば、選盤も鑑賞もぐっと深まります。

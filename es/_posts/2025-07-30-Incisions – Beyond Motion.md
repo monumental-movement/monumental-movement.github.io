@@ -9,20 +9,20 @@ tags:
 - House
 - Hard House
 - 00s
-title: Incisiones – Más allá del movimiento
+title: Incisions – Beyond Motion
 ---
 
 
-La leyenda del hard house británico Paul King (Paul F1 King) remezcla la canción de hard trance "Beyond Motion" lanzada en 1996 por Willem Jelle Faber, también conocido como Incisions.
+IncisionsことWillem Jelle Faberが1996年にリリースしたHard Trance トラック『Beyond Motion』をUK出身のハードハウス界のレジェンドPaul King（Paul F1 King）がremix。
 
-Una edición limitada de 500 discos raros publicados por el sello británico Hard House/NRG, Vicious Circle Recordings en 2004.
+2004年にUKのHard House / NRGレーベルVicious Circle Recordingsからリリースされた限定500枚のレアレコード。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Beyond Motion (Paul King Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m83805428350?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83805428350?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8osItKH54zM?si=nbX4Ixu8wa4q_6RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

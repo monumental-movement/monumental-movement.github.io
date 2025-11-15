@@ -8,16 +8,16 @@ layout: post
 tags:
 - Experimental
 - Hiphop
-title: Baños – Cerúleo
+title: Baths – Cerulean
 ---
 
 
-Will Wiesenfeld, también conocido como Baths, es conocido como un genio creador de ritmos y es un músico electrónico afincado en Los Ángeles.
+天才ビートメーカー として知られるBaths(バス)ことWill WiesenfeldはLAを拠点に活動するエレクトロニックミュージシャン。
 
-"Cerulean" es el álbum debut de Baths lanzado en 2010 en el sello independiente Anticon, presentado por Daedelus. Este CD es una versión japonesa publicada por Tugboat Records en 2013.
+「Cerulean」は、2010年にDaedelusの紹介によってインディペンデントレーベルAnticon(アンチコン)からリリースされたBathsのデビューアルバム。このCDは2013年にTugboat Recordsからリリースされた日本盤。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Apologetic Shoulder Blades
 2. Lovely Bloodflow
@@ -35,7 +35,7 @@ Will Wiesenfeld, también conocido como Baths, es conocido como un genio creador
 14. Calliope (Bonus Track)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

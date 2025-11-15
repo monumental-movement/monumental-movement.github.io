@@ -11,15 +11,15 @@ tags:
 - Italy
 - Movie
 - 90s
-title: Ennio Morricone – Nuovo Cinema Paradiso (Música Original del Cine)
+title: Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film)
 ---
 
 
-Banda sonora de la película de 1989 ""New Cinema Paradise'' compuesta por el compositor italiano Ennio Morricone. El CD que hizo famoso a Ennio Morricone.
+イタリア出身の作曲家Ennio Morricone（エンニオモリコーネ）が担当した1989年の映画「ニューシネマパラダイス」のサウンドトラック。エンニオ・モリコーネの名を一躍有名にしたCD。
 
-Ennio Morricone ganó el Premio de la Academia a la Mejor Música Original en la 88ª edición de los Premios de la Academia por su música para la película "The Hateful Eight", escrita y dirigida por Quentin Tarantino.
+エンニオ・モリコーネは、クエンティン・タランティーノ脚本・監督の映画「ヘイトフル・エイト」の音楽で、第88回アカデミー賞作曲賞を受賞した。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -39,7 +39,7 @@ Ennio Morricone ganó el Premio de la Academia a la Mejor Música Original en la
 16. Per Elena
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

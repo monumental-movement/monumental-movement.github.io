@@ -11,13 +11,13 @@ tags:
 - Lo-Fi
 - Noise
 - Rare
-title: Ween – Guayaba Pura
+title: Ween – Pure Guava
 ---
 
 
-Lanzado en 1992, "Pure Guava" es el tercer álbum de estudio de Ween y su debut en un sello importante. Contiene la obra maestra de Ween "Push th' Little Daisies".
+1992年にリリースされた「Pure Guava」は、Weenの3枚目のスタジオアルバムであり、メジャーレーベルデビュー作。Weenの代表作「Push th' Little Daisies」が収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Little Birdy
 A2. Tender Situation
@@ -41,7 +41,7 @@ B8. Don't Get 2 Close (2 My Fantasy)
 B9. Poop Ship Destroyer
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSuuz_sh_pI?si=fZYBIw-9nV7PYyyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

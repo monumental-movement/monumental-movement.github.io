@@ -9,140 +9,140 @@ tags:
 - Progressive Rock
 - Rock
 - Anime
-title: '[Columna] Rock progresivo y anime: una historia épica que se cruza'
+title: 【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性
 ---
 
 
-## Rock progresivo y anime: una gran narrativa que se cruza
+## プログレッシブ・ロックとアニメ：交差する壮大な物語性
 
-Texto: mmr｜Tema: Rock progresivo que tiene una gran afinidad con el anime.
+文：mmr｜テーマ：アニメと親和性の高いプログレッシブ・ロックについて
 
-Cuando hablamos de la relación entre el anime y la música, nos vienen a la mente géneros que están directamente relacionados, como el J-Pop, las canciones de ídolos, el eurobeat y la electrónica. Sin embargo, si profundizas un poco más, encontrarás que tiene una afinidad sorprendentemente fuerte con el **rock progresivo**. A primera vista, puede parecer distante de las "canciones de anime", pero su larga estructura, sus ritmos difíciles y su narración conceptual similar a un álbum en realidad resuenan de muchas maneras con las características del medio del anime.
+アニメと音楽の関係を語るとき、J-POPやアイドルソング、ユーロビートやエレクトロニカのように直接的に結びついたジャンルが思い浮かぶ。しかし、もう一歩深く掘り下げると、意外に強い親和性を持つのが**プログレッシブ・ロック**である。表面上は「アニメソング」と距離があるように見えるが、その長尺構成、難解なリズム、そしてコンセプトアルバム的な物語性は、むしろアニメというメディアの特性と響き合う部分が多いのだ。
 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### ■ Descripción general de la correlación entre el rock progresivo y el anime por grupo de edad
+### ■ プログレとアニメの相関関係を年代別に俯瞰する
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-P1970["Década de 1970: La edad de oro del rock progresivo (Pink Floyd, Sí)\nEl anime japonés es el auge de la ópera espacial (Yamato, Gundam)"]
-P1980["Década de 1980: Declive y divergencia del rock progresivo (Neo Prog, Prog Metal)\nEl anime profundiza la cultura OVA y la ciencia ficción (Crusher Joe, AKIRA)"]
-P1990["Década de 1990: Bajo la influencia del rock posprogresivo (Porcupine Tree, Dream Theater)\nEl auge del anime filosófico (Neon Genesis Evangelion)"]
-P2000["Década de 2000: Fusión post-rock/metal progresivo\nAnime: Ghost in the Shell S.A.C., Ergo Proxy"]
-P2010["Década de 2010: Regreso retro + nuevas tendencias\nAnime: Un lugar más allá del universo, Made in Abyss"]
-P2020["Década de 2020: Desarrollo de géneros cruzados\nAnime de generación digital y sonido post-progresivo"]
+flowchart TD
+    P1970["1970年代: プログレ黄金期（Pink Floyd, Yes）\n日本アニメはスペースオペラ勃興（ヤマト, ガンダム）"]
+    P1980["1980年代: プログレ衰退と分岐（Neo Prog, Prog Metal）\nアニメはOVA文化とSF深化（クラッシャージョウ, AKIRA）"]
+    P1990["1990年代: ポストプログレ影響下（Porcupine Tree, Dream Theater）\n哲学的アニメ台頭（新世紀エヴァンゲリオン）"]
+    P2000["2000年代: ポストロック/プログレメタルの融合\nアニメ: 攻殻機動隊 S.A.C., Ergo Proxy"]
+    P2010["2010年代: レトロ回帰＋新潮流\nアニメ: 宇宙よりも遠い場所, メイドインアビス"]
+    P2020["2020年代: クロスジャンル的展開\nデジタル世代のアニメとポストプログレ的サウンド"]
 
-P1970 --> P1980 --> P1990 --> P2000 --> P2010 --> P2020
+    P1970 --> P1980 --> P1990 --> P2000 --> P2010 --> P2020
 
 </div>
 
 ---
 
-### ■ Características del rock progresivo y naturaleza narrativa del anime.
-El rock progresivo (en adelante rock progresivo) se conoce como una "forma evolutiva de rock" que nació en las décadas de 1960 y 1970. Las características típicas son las siguientes.
+### ■ プログレの特性とアニメの物語性
+プログレッシブ・ロック（以下プログレ）は、1960〜70年代に生まれた「ロックの進化形」として知られる。代表的な特徴は以下の通りだ。  
 
-- **Composición larga**: No es raro que una canción dure más de 10 minutos y toda la canción se desarrolle como un poema épico.
-- **Ritmos difíciles y compases extraños**: una estructura rítmica compleja que desafía al oyente aporta una estimulación intelectual que es diferente de la "comodidad" de la música pop normal.
-- **Conceptualidad**: En muchos casos, el álbum completo cuenta una sola historia o tema, a menudo acompañado de una visión del mundo de ciencia ficción/fantasía.
+- **長尺構成**：1曲が10分以上に及ぶことも珍しくなく、楽曲全体がひとつの叙事詩のように展開する。  
+- **難解なリズムと変拍子**：聴き手に挑戦するような複雑なリズム構造は、通常のポップスの「心地よさ」とは異なる知的刺激をもたらす。  
+- **コンセプト性**：アルバム全体が一つの物語やテーマを語るケースが多く、SF・ファンタジー的な世界観を伴うことが多い。  
 
-Estos elementos se superponen naturalmente con la "narrativa a largo plazo" del anime y las "relaciones humanas complejas y la construcción de una visión del mundo". Particularmente en géneros como la ciencia ficción y la fantasía, la estructura "épica taiga" del rock progresivo puede funcionar eficazmente como un dispositivo musical que complementa la amplitud visual y narrativa.
-
----
-
-### ■ Comparación entre la época dorada del rock progresivo y el anime japonés
-
-En la década de 1970, bandas de rock progresivo como Pink Floyd y Yes produjeron álbumes con temas de "espacio", "tiempo" y "existencia".
-
-El anime del mismo período incluía obras similares a "Space Opera", como "Space Battleship Yamato" (https://amzn.to/4pxqmcR) y "Mobile Suit Gundam" (https://amzn.to/3IpgXmS).
-
-Aunque hay poco contacto directo entre los dos, es interesante que se desarrollaron en paralelo con su "actitud para escribir historias desde una perspectiva cósmica".
+これらの要素は、アニメの「長期にわたるストーリーテリング」「複雑な人間関係や世界観の構築」と自然に重なり合う。特にSFやファンタジーといったジャンルにおいて、プログレが持つ「大河的叙事詩」の構造は、視覚的・物語的な広がりを補完する音楽的装置として有効に働き得る。
 
 ---
 
-### ■ Estudio de caso: Evangelion y el sentimiento del rock progresivo
-De hecho, no hay muchos ejemplos de rock progresivo introducido directamente en el anime. Sin embargo, hay obras que se han señalado por tener elementos de rock progresivo. Un ejemplo típico es **[""Neon Genesis Evangelion''](https://amzn.to/46uRu3i)**.
+### ■ プログレ黄金期と日本アニメの対比
 
-La banda sonora de Shiro Sagisu está salpicada de desarrollos profundos y disonantes que recuerdan a King Crimson y Yes. En particular, canciones como "Decisive Battle" y "Thanatos" hacen uso frecuente de compases y cambios de clave extraños, y en lugar de brindar al oyente un placer fácil, despiertan ansiedad y tensión. Éste es exactamente el método expresivo en el que el rock progresivo es bueno, y resuena con la "dificultad" y la "filosofía" de la obra en su conjunto.
+1970年代プログレはピンク・フロイドやイエスが「宇宙」「時間」「存在」をテーマにしたアルバムを制作。
 
-Además, las ideas occidentales y los motivos religiosos a los que Eva rinde homenaje también son elementos que aparecen con frecuencia en los álbumes conceptuales de rock progresivo. Como resultado, se puede decir que Evangelion encarna una cosmovisión del rock progresivo no sólo visual y narrativamente, sino también musicalmente.
+同時期のアニメは[『宇宙戦艦ヤマト』](https://amzn.to/4pxqmcR)[『機動戦士ガンダム』](https://amzn.to/3IpgXmS)など「スペースオペラ」的作品が登場。
 
----
-
-### ■ ¿Por qué el rock progresivo no se convirtió en algo común en el anime?
-Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" necesario para las aperturas y los finales.
-
-Sin embargo, por otro lado, todavía hay espacio para que las técnicas del rock progresivo sigan existiendo en "lugares con un alto grado de libertad", como bandas sonoras, OVA y versiones cinematográficas. Teniendo en cuenta el auge del post-rock y el metal progresivo en los últimos años, las posibilidades son aún más amplias.
+両者は直接的な接点は少ないものの、「宇宙的視野で物語を描こうとする姿勢」で並行的に発展していたのは興味深い。
 
 ---
 
-### ■ ¿Y si el rock progresivo hubiera penetrado en el anime?
-Imagínense eso.
-- Rock progresivo sinfónico que sustenta el mundo de fantasía de las obras de Hayao Miyazaki.
-- Riff de guitarra cortante al estilo King Crimson que resuena en el anime cyberpunk.
-- Pensar en series de larga duración como álbumes y diseñar música con suites de rock progresivo para cada temporada.
+### ■ 事例：エヴァンゲリオンとプログレ的感覚
+実際にアニメでプログレが直接的に導入された例は多くない。しかし、プログレ的な要素を指摘される作品は存在する。その代表例が**[『新世紀エヴァンゲリオン』](https://amzn.to/46uRu3i)**だ。  
 
-La afinidad entre el anime y el rock progresivo no es solo una combinación de géneros musicales y expresiones visuales, sino que tiene el potencial de extenderse al diseño estructural de toda la historia.
+鷺巣詩郎によるサウンドトラックには、キング・クリムゾンやイエスを想起させる重厚かつ不協和な展開が随所に散りばめられている。特に「決戦」や「Thanatos」などの楽曲は、変拍子や転調を多用し、聴き手に安易な快楽を与えるのではなく、不安と緊張を喚起する。これはまさにプログレが得意とする表現手法であり、作品全体の「難解さ」「哲学性」と響き合っている。
 
----
-
-### ■ Álbumes de rock progresivo representativos por generación y pistas recomendadas para fanáticos del anime.
-
-| Año | Álbum / Pistas recomendadas | Comentario |
-| ----- | -------------------------------------- | ------------------- | --------------------------- |
-| Década de 1970 | [**Pink Floyd** "El lado oscuro de la luna"](https://amzn.to/4mv7iJl) / "Tiempo" | Canciones con temas de espacio y existencia resuenan en la generación del "Space Battleship Yamato" |
-| Década de 1970 | [**Sí** "Cerca del borde"](https://amzn.to/46ACyRk) / "Y tú y yo" | La larga composición se acerca al desarrollo épico de Gundam |
-| Década de 1980 | [**Marillion** "Infancia fuera de lugar"](https://amzn.to/46HkXHA) / "Kayleigh" | La estructura narrativa del álbum es altamente compatible con la cultura OVA |
-| Década de 1980 | [**King Crimson** "Disciplina"](https://amzn.to/48vibYe) / "Fotograma a fotograma" | La compleja estructura rítmica recuerda al caos de "AKIRA" |
-| Década de 1990 | [**Dream Theater** "Imágenes y palabras"](https://amzn.to/4nFCWVn) / "Metrópolis—Parte I" | Estilo técnico y lírico que roza la generación Eva |
-| Década de 1990 | [**Árbol puercoespín** "El cielo se mueve de lado"](https://amzn.to/3W7hI72) / "Las estrellas mueren" | Atmósfera filosófica, introspectiva y estilo Eva |
-| Años 2000 | [**Herramienta** "Lateralus"](https://amzn.to/47XvAbw) / "Lateralus" | La estructura que utiliza la secuencia de Fibonacci tiene una sensación cibernética de "Ghost in the Shell" |
-| Años 2000 | [**Sigur Rós** "()"](https://amzn.to/42zRldK) / "Sin título #8" | El desarrollo post-rock resuena con "Ergo Proxy" |
-| Década de 2010 | [**Steven Wilson** "La mano. No se puede. Borrar."](https://amzn.to/3W3D05C) / "Vida perfecta" | El tema conceptual de la memoria y la existencia es similar a "Made in Abyss" |
-| Años 2020 | [**Haken** "Virus"](https://amzn.to/4nJDuJW) / "Prótesis" | El metal progresivo en la era digital se adapta a la sensación de velocidad del anime moderno |
+また、エヴァがオマージュする西洋思想や宗教的モチーフも、プログレのコンセプトアルバムに頻出する要素だ。結果として、エヴァンゲリオンは視覚的・物語的だけでなく、**音楽面でもプログレ的世界観**を体現しているといえる。
 
 ---
 
-### ■ Tabla de cruces delirantes: escenas específicas del anime x canciones de rock progresivo específicas
+### ■ なぜアニメでプログレは主流化しなかったのか
+とはいえ、アニメ音楽の主流はJ-POPやロック、エレクトロなどであり、プログレが前面に押し出された例は少ない。その理由の一つは**商業性との乖離**だろう。プログレは難解で長尺、キャッチーなサビを持たないことが多い。オープニングやエンディングに求められる「短くインパクトのあるフック」とは相性が悪いのだ。  
+
+しかし逆にいえば、劇伴（サウンドトラック）やOVA、劇場版といった「自由度の高い場」では、プログレ的手法は今後も生きる余地がある。近年のポストロックやプログレ・メタルの台頭を考えると、その可能性はさらに広がっている。
+
+---
+
+### ■ もしもプログレがアニメに浸透していたら
+想像してみてほしい。  
+- 宮崎駿作品のファンタジー世界を支えるシンフォニック・プログレ。  
+- サイバーパンクアニメに鳴り響くキング・クリムゾン的な切り裂くギターリフ。  
+- 長期シリーズ作品をアルバム的に捉え、各シーズンごとにプログレの組曲で音楽を設計する。  
+
+アニメとプログレの親和性は、単なる音楽ジャンルと映像表現の組み合わせにとどまらず、**物語全体の構造設計**にまで踏み込む可能性を秘めているのだ。
+
+---
+
+### ■ プログレ年代別代表アルバムとアニメファンにおすすめトラック
+
+| 年代    | アルバム / おすすめトラック                  | 解説                             |
+| ----- | -------------------------------------- | ------------------- | ------------------------------ |
+| 1970s | [**Pink Floyd** 『The Dark Side of the Moon』](https://amzn.to/4mv7iJl) / "Time"            | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
+| 1970s | [**Yes** 『Close to the Edge』](https://amzn.to/46ACyRk)  /  "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
+| 1980s | [**Marillion** 『Misplaced Childhood』](https://amzn.to/46HkXHA) / "Kayleigh"          | 物語的アルバム構成はOVA文化との親和性が高い        |
+| 1980s | [**King Crimson** 『Discipline』](https://amzn.to/48vibYe) / "Frame by Frame"    | 複雑なリズム構造は『AKIRA』的カオスを連想        |
+| 1990s | [**Dream Theater** 『Images and Words』](https://amzn.to/4nFCWVn) / "Metropolis—Part I" | エヴァ世代に刺さるテクニカル＆叙情性             |
+| 1990s | [**Porcupine Tree** 『The Sky Moves Sideways』](https://amzn.to/3W7hI72) / "Stars Die"         | 哲学的で内省的、エヴァ的な空気感               |
+| 2000s | [**Tool** 『Lateralus』](https://amzn.to/47XvAbw) / "Lateralus"         | フィボナッチ数列を用いた構成は『攻殻機動隊』的サイバネ感覚  |
+| 2000s | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Untitled #8"       | ポストロック的展開は『Ergo Proxy』と共鳴      |
+| 2010s | [**Steven Wilson** 『Hand. Cannot. Erase.』](https://amzn.to/3W3D05C) / "Perfect Life"      | 記憶と存在をテーマにしたコンセプト性は『メイドインアビス』的 |
+| 2020s | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prosthetic"        | デジタル時代のプログレメタルは、現代アニメのスピード感に適応 |
+
+---
+
+### ■ 妄想クロスオーバー表：アニメの具体的なシーン × プログレの具体的曲
 
 
-| Trabajo animado | Escena | Canción de rock progresivo que suena en delirios | Comentarios |
+| アニメ作品               | シーン              | 妄想で流れるプログレ曲                      | コメント                     |
 | ------------------- | ---------------- | -------------------------------- | ------------------------ |
-| [Acorazado espacial Yamato (1974)](https://amzn.to/3KgYE3F) | El momento en que Yamato dispara el arma de movimiento ondulatorio | La parte caótica del inicio de Yes "Close to the Edge" | La escala cósmica y el torrente sonoro coinciden |
-| [Mobile Suit Gundam (1979)](https://amzn.to/4nfbz4G) | La batalla final entre Amuro y Char | Pink Floyd "Perros" | Una larga historia enfatiza la fatídica batalla |
-| [AKIRA (1988)](https://amzn.to/42JuTie) | El alboroto y el colapso de Tetsuo | Rey Carmesí "Rojo" | Un terrorífico riff de guitarra se asimila al colapso del mundo |
-| [Neon Génesis Evangelion (1995)](https://amzn.to/42KUZ4t) | El clímax del plan de complementación humana | Dream Theatre "Metrópolis—Parte I" | Vínculos de la estructura filosófica y técnica con la complejidad de la historia |
-| [Fantasma en la Shell S.A.C. (2002)](https://amzn.to/4gyCJkA) | Escena donde Motoko Kusanagi se sumerge en internet | Herramienta "Lateral" | La música con una estructura de secuencia numérica se superpone con la sensación de construir un mundo cibernético |
-| [Proxy Ergo (2006)](https://amzn.to/3Iq2jvC) | La escena donde Rel sale de la ciudad | Árbol puercoespín "Las estrellas mueren" | Una belleza lúgubre donde se superponen decadencia y filosofía |
-| [Hecho en el abismo (2017)](https://amzn.to/4gzijI9) | El momento en que llegas a la sexta capa del mundo profundo | Steven Wilson "Vida perfecta" | Resuena una canción que combina tristeza y sublimidad |
-| [Un lugar más allá del universo (2018)](https://amzn.to/4nNuZxz) | El emotivo escenario de la llegada a la Antártida | Sigur Rós "Sin título #8" | La explosión post-rock tiñe la sensación de llegada a la juventud |
+| [宇宙戦艦ヤマト (1974)](https://amzn.to/3KgYE3F)      | ヤマトが波動砲を放つ瞬間     | Yes「Close to the Edge」序盤の混沌パート   | 宇宙的スケールと音の奔流が一致          |
+| [機動戦士ガンダム (1979)](https://amzn.to/4nfbz4G)     | アムロとシャアの最終決戦     | Pink Floyd「Dogs」                 | 長尺の展開が宿命的な戦いを強調          |
+| [AKIRA (1988)](https://amzn.to/42JuTie)        | 鉄雄の暴走と崩壊         | King Crimson「Red」                | 凄絶なギターリフが世界崩壊と同化         |
+| [新世紀エヴァンゲリオン (1995)](https://amzn.to/42KUZ4t)  | 人類補完計画のクライマックス   | Dream Theater「Metropolis—Part I」 | 哲学的かつテクニカルな構成が物語の複雑さとリンク |
+| [攻殻機動隊 S.A.C. (2002)](https://amzn.to/4gyCJkA) | 草薙素子がネットにダイブする場面 | Tool「Lateralus」                  | 数列的構造の楽曲が電脳世界の構築感と重なる    |
+| [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC)   | レルが都市の外に出るシーン    | Porcupine Tree「Stars Die」        | 退廃と哲学が重なる陰鬱な美しさ          |
+| [メイドインアビス (2017)](https://amzn.to/4gzijI9)     | 深界六層へ到達する瞬間      | Steven Wilson「Perfect Life」      | 哀しみと崇高さを併せ持つ楽曲が響く        |
+| [宇宙よりも遠い場所 (2018)](https://amzn.to/4nNuZxz)    | 南極到達の感動の場面       | Sigur Rós「Untitled #8」           | ポストロックの爆発が青春の到達感を彩る      |
 
 ---
 
 
-### ■ Conclusión
-El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, su larga composición, su difícil ritmo y su naturaleza conceptual tienen una gran afinidad con el desarrollo tipo taiga de las obras de anime centradas en la ciencia ficción y la fantasía.
+### ■ 結論
+プログレッシブ・ロックは商業アニメの現場で「主流」となることはなかった。しかし、長尺構成・難解なリズム・コンセプト性といった特徴は、SFやファンタジーを中心としたアニメ作品の大河的展開と高い親和性を持つ。  
 
-Ejemplos como Neon Genesis Evangelion, que incorporan directamente técnicas de rock progresivo, son sólo la punta del iceberg. En el futuro, la ilusión de "¿y si el anime se contara a través del rock progresivo?" seguirá mostrando nuevas intersecciones entre la música y el vídeo.
+『新世紀エヴァンゲリオン』のように、直接プログレ的手法を取り入れた例は氷山の一角にすぎない。今後も「もしアニメがプログレで語られたら」という妄想は、音楽と映像の新たな交差点を示し続けるだろう。
 
 
 ---
 
-### Columnas relacionadas
+### 関連コラム
 
-[[Columna] Afinidad entre anime y jazz/fusión: Una historia de noches de ciudad y música](https://monumental-movement.jp/Column-Jazz-Fusion-Anime)
+ [【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語](https://monumental-movement.jp/Column-Jazz-Fusion-Anime)

@@ -9,15 +9,15 @@ tags:
 - Rock
 - Psychedelic
 - 70s
-title: Santana – Caravasar
+title: Santana – Caravanserai
 ---
 
 
-Santana es un grupo estadounidense de rock latino formado a finales de la década de 1960 liderado por el guitarrista Carlos Santana.
+サンタナは、ギタリストのカルロス・サンタナが率いる1960年代後半に結成されたアメリカのラテンロックグループ。
 
-"Caravanserai" ha sido aclamado como un nuevo álbum más orientado al jazz en la carrera de Santana, ya que la banda se alejó del rock y adoptó un sonido más experimental y complejo.
+「キャラバンサライ」は、バンドがロックから離れ、より実験的で複雑なサウンドを取り入れたため、サンタナのキャリアにおける新しい、よりジャズ指向の強いアルバムとして評価されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Eternal Caravan Of Reincarnation 
 復活した永遠なるキャラバン
@@ -50,7 +50,7 @@ B4. Every Step Of The Way
 果てしなき道
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

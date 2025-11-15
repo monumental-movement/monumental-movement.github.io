@@ -9,19 +9,19 @@ tags:
 - Techno
 - Remix
 - 10inch
-title: Mark N-R-G - No pares (Los Remixes)
+title: Mark N-R-G - Don't Stop(The Remixes)
 ---
 
 
-Mark NRG es un DJ y productor musical de Frankfurt, Alemania, que comenzó su carrera musical en 1989.
+マーク・エヌアールジー（Mark NRG）は、ドイツのフランクフルト出身のDJ兼音楽プロデューサーで,音楽活動を1989年にスタートしました。
 
-Habiendo producido más de 50 discos en diferentes proyectos y trabajado en numerosos estudios de grabación musical como ingeniero de sonido y productor, ha sido elogiado por su actitud audaz hacia la experimentación artística.
+異なるプロジェクトで50以上のレコードを制作し、音響エンジニアおよびプロデューサーとして数多くの音楽レコーディングスタジオで活動し、芸術的な実験に対する彼の大胆な姿勢は称賛されています。
 
-Al principio de su carrera, fue conocido por fusionar con éxito elementos del jazz y el hip-hop con música electrónica como el house, el techno y la industrial. En la escena techno ha publicado muchos trabajos que destacan acústicamente en ambientes de discoteca, y este "Don't Stop" es uno de ellos.
+彼のキャリア初期には、ジャズやヒップホップの要素をハウス、テクノ、インダストリアルなどのエレクトロニックミュージックと見事に融合させたことで知られています。テクノシーンにおいても、クラブの環境で音響的にも卓越した作品を多くリリースし、この「Don't Stop」もその中の一つです。
 
-El legado de Mark NRG continúa resonando entre los fanáticos de la música electrónica de todo el mundo, consolidándolo como un artista innovador dentro de la industria.
+マーク・エヌアールジーのレガシーは、今もなお世界中のエレクトロニックミュージックのファンに響き続けており、業界内の革新的なアーティストとしての地位を確立しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Don't Stop (Remix By Daz Sound And Trevor Rockcliffe (Black & Brown))
 
@@ -29,7 +29,7 @@ A. Don't Stop (Remix By Daz Sound And Trevor Rockcliffe (Black & Brown))
 B. Don't Stop (Remix By Roland Casper)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m68077728341?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68077728341?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L12IPPdtWWY?si=kBM-hEwrzJw_2SFp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

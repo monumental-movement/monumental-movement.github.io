@@ -9,29 +9,29 @@ tags:
 - Minimal
 - Techno
 - 00s
-title: Phil Stumpf - Aparato Stumpfam
+title: Phil Stumpf – Stumpfam Apparat
 ---
 
 
-Un tema minimalista de Phil Stumpf, quien también es miembro de la banda alemana de post-rock ""OH" y también está activo como la unidad ""DUPLEX 100" con Sam Rouanet.
+ジャーマンポストロックの「OH.」のメンバーでもあり、Sam Rouanetとのユニット「DUPLEX 100」としても活躍するPhil Stumpfのミニマルトラック。
 
-Lanzado en 2005 con el sello house alemán Tom Bone Vibrating Music.
+ドイツのハウスレーベルTom Bone Vibrating Music より2005年にリリース。
 
-La segunda canción de la cara A es un remix de Gwen Maze.
+A面２曲目はGwen Maze （グウェンメイズ）によるremix。
 
-Phil Stumpf (nacido en 1973 en Alemania) ha estado activo como músico desde 1993 y ha participado en varias bandas y proyectos.
+フィル・ストゥンプ（1973年、ドイツ生まれ）は1993年からミュージシャンとして活動し、様々なバンドやプロジェクトに参加してきました。
 
-A finales de los 80 y principios de los 90, estaba en el campo del indie rock y me fascinaban e influenciaban bandas como Mouse on Mars y Tortoise, así como la música electrónica y su estructura minimalista.
+1980年代後半から90年代初頭にかけてはインディーロック畑にいましたが、Mouse on MarsやTortoiseといったバンド、エレクトロニックミュージックとそのミニマルな構造に魅了され、影響を受けました。
 
-Principalmente introducido en la pista de baile a través de su banda oh., descubrió grooves minimalistas y comenzó a producir temas de club bajo su propio nombre en 1999.
+主に所属していたバンドoh.を通してダンスフロアに辿り着いた彼は、ミニマルグルーヴを発見し、1999年には自身の名前でのクラブトラック制作を開始。
 
-También trabajará como Duplex 100 con su socio francés Samuel Rouanat.
+また、フランス人パートナーのサミュエル・ルアナートとDuplex 100としても活動します。
 
-En 2001, se mudó a París y cofundó un club nocturno llamado "Minimal Dancin" en el Nouveau Casino con Samuel Rouanat.
+2001年にはパリに移り住み、サミュエル・ルアナートと共にヌーボーカジノで「Minimal Dancin」というクラブナイトを立ち上げました。
 
-Actualmente es miembro de la banda de jazz electrónico Canvas, con sede en París, junto con Samuel Rouanat y James Sindertree.
+現在はサミュエル・ルアナートとジェームス・シンダトリーと共にパリを拠点とするエレクトロニックジャズバンドCanvasにも参加しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Stumpf Am Apparat
 
@@ -42,7 +42,7 @@ B1. Bond In Action
 B2. Temporary Threshold Shift
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VduYd8yL-Fw?si=aa3aSQn50amVlSao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

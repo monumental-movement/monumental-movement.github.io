@@ -11,16 +11,16 @@ tags:
 - Experimental
 - Big Beat
 - 90s
-title: VA – Esto es Latinamilo
+title: VA – This Is Latinamyl
 ---
 
 
-Un álbum recopilatorio lanzado en 1997 por el sello breakbeat Fused & Bruised, fundado por el productor y DJ de música electrónica multigénero Simon Shackleton, también conocido como Elite Force, quien también trabajó en la música de la película The Matrix.
+映画マトリックスの音楽なども手掛けるマルチジャンル・エレクトロニックミュージックプロデューサー&DJ Elite ForceことSimon Shackletonが設立したブレイクビーツレーベルFused & Bruised から1997年にリリースされたコンピレーションアルバム。
 
-Simon Shackleton también actúa bajo los nombres pHrack R y fUtUrEcOrE, así como Elite Force.
+Simon Shackletonは、Elite Force名義以外にもpHrack RやfUtUrEcOrE名義でも活動している。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Elite Force – Spirito
 2. Mr. Dan – 48 Margarita Shuffle
@@ -34,7 +34,7 @@ Simon Shackleton también actúa bajo los nombres pHrack R y fUtUrEcOrE, así co
 10. pHrack R – Di Genera
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

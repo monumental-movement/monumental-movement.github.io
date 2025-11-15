@@ -9,19 +9,19 @@ tags:
 - House
 - Electro
 - 00s
-title: Brian Cross - Lluvia soleada
+title: Brian Cross – Sunny Rain
 ---
 
 
-Brian Cross (Brian Fortuny Cruz) es un DJ/productor español.
+Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
 
-Este disco es House/Electro, lanzado en 2008 por el sello italiano de dance/house Net's Work International. (edición promocional)
+このレコードは、イタリアのダンス/ハウスレーベルNet's Work Internationalから2008年にリリースされたHouse／Electro。(プロモ盤)
 
-A1 es un remix de Robbie Rivera, director del sello Juicy Music de Miami.
+A1は、マイアミのレーベルJuicy Musicの主宰Robbie Riveraによるremix。
 
-B1 es un remix del DJ y productor sueco StoneBridge (Sten Hallström), conocido por sus remixes nominados al Grammy de "Show Me Love" de Robin S (1993) y "Closer" de Ne-Yo (2008).
+B1は、 Robin S「Show Me Love」(1993)のリミックスやNe-Yo「Closer」(2008)のリミックスでグラミー賞にノミネートされた事で知られる、スウェーデン出身のDJ／プロデューサーStoneBridge(Sten Hallström)によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Sunny Rain (Robbie Rivera Juciy Ibiza Mix)
 A2. Sunny Rain (Louie Padilla Mix)
@@ -30,7 +30,7 @@ B1. Sunny Rain (Stonebridge Mix)
 B2. Sunny Rain (Tony Arzadon Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61187518725?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61187518725?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ra_LPpTNxAc?si=oasBjeY1i1YlW7O4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

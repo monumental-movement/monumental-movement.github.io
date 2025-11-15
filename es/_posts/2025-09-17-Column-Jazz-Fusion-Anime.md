@@ -9,131 +9,130 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Columna] La afinidad entre el anime y el jazz/fusión: una historia de noches
-  y música de ciudad'
+title: 【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語
 ---
 
 
-## Función del jazz en el anime.
+## アニメにおけるジャズの機能
 
-Texto: mmr｜Tema: Sobre la afinidad entre el jazz/fusión y el anime
+文：mmr｜テーマ：ジャズ／フュージョンとアニメの親和性について
 
-El jazz y la fusión le dan al anime una "atmósfera urbana y adulta".
-Desde trepidantes escenas de persecución hasta tranquilas escenas cotidianas y diálogos humorísticos, su improvisación y sofisticación sincronizan una amplia gama de emociones con las imágenes.
+ジャズやフュージョンはアニメに「都会的で大人っぽい雰囲気」を付与する。  
+スピード感あるチェイスシーンから、静謐な日常の場面、ユーモラスな掛け合いまで──その即興性と洗練は幅広い感情を映像に同期させる。  
 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### ■ Ejemplo representativo de éxito: "Cowboy Bebop"
+### ■ 代表的な成功例：「カウボーイビバップ」
 
-"Cowboy Bebop", del director Shinichiro Watanabe, que se emitió en 1998, es una obra monumental que mostró al mundo la afinidad entre el anime y el jazz.
-La música fue compuesta por The Seatbelts, banda liderada por Yoko Kanno. Utilizando de todo, desde big band jazz hasta scat y solos de guitarra de estilo fusión, describió la historia del mundo del anime como "música misma".
+1998年に放送された渡辺信一郎監督の『カウボーイビバップ』は、アニメとジャズの親和性を世界に示した金字塔だ。
+音楽を手がけたのは菅野よう子率いるバンド The Seatbelts。ビッグバンド・ジャズからスキャット、フュージョン的なギター・ソロまで縦横無尽に使い分け、アニメの物語世界を「音楽そのもの」として描き出した。
 
-La canción de apertura ""Tank!" tenía un sonido de big band que recordaba a una película de espías, pero también tenía una ""frescura adulta" que era inusual para una canción de apertura de anime en ese momento, cautivando a los fanáticos de todo el mundo.
-Desde este éxito, a menudo se ha hecho referencia al jazz como un símbolo de frescura y urbanidad en el anime.
-
----
-
-### ■ Anime y jazz de la vida cotidiana.
-
-Por otra parte, el jazz no es sólo "urbano".
-Cafés, esquinas en los días de lluvia, tardes tranquilas: a menudo se utiliza como música de fondo para alegrar la vida cotidiana.
-
-Por ejemplo, "Apolo en la pendiente" (2012). El manga original utiliza el jazz como tema, pero los sonidos de las sesiones que resuenan en la ciudad de Nagasaki, donde se desarrolla la historia, apoyan las fluctuaciones de la vida cotidiana y la juventud con la naturaleza de improvisación única del jazz.
-Además, aunque "Nodame Cantabile" se centra en la música clásica, se insertan arreglos estilo swing y jazz ligero en escenas cotidianas, resaltando la naturaleza de espíritu libre de los personajes.
+オープニング曲「Tank!」は、スパイ映画的なビッグバンド・サウンドでありながら、当時のアニメOPとしては異例の「大人のクールさ」を放ち、世界中のファンを虜にした。
+この成功以降、ジャズは「アニメにおける格好良さ・都会性の象徴」としてしばしば参照されることになる。
 
 ---
 
-### ■ Escenas donde el jazz/fusión te conviene
+### ■ 日常系アニメとジャズ
 
-Batallas y persecuciones trepidantes → Las complejas líneas de batería y bajo de fusión duplican el ritmo del vídeo.
+一方で、ジャズは「都会的」なだけではない。
+カフェ、雨の日の街角、穏やかな昼下がり──そんな何気ない日常を彩るBGMとしても多用されている。
 
-Escenas de noches y bares de la ciudad → Los tonos del saxofón y el piano crean una "atmósfera adulta".
-
-Diálogo cómico → Enfatiza el tempo con swing jazz ligero.
-
-Representación psicológica tranquila y sonido persistente → Los sonidos débiles del cool jazz y el mode jazz son efectivos.
+たとえば『坂道のアポロン』（2012年）。これは原作漫画がジャズそのものを題材としているが、物語の舞台である長崎の街に響くセッションの音は、日常と青春の揺らぎをジャズ特有の即興性で支える。
+また『のだめカンタービレ』においても、クラシック中心ながら日常シーンにはスウィングや軽快なジャズ風アレンジが挿入され、キャラクターの奔放さを際立たせている。
 
 ---
 
-### ■ Correlación por grupo de edad
+### ■ ジャズ／フュージョンが似合うシーン
 
-<div class="sirena">
+スピード感ある戦闘やチェイス → フュージョンの複雑なドラムとベースラインが映像のリズムを倍加。
 
-diagrama de flujo TD
-A1970["Década de 1970: Lupin III" El sonido del jazz de Yuji Ohno"]
-A198["Década de 1980: elementos de pop urbano + fusión de jazz impregnan la banda sonora"]
-A199["Década de 1990: "Cowboy Bebop" Yoko Kanno y los cinturones de seguridad"]
-A200["Década de 2000: "Nodame Cantabile" Clásica + Arreglo de Jazz"]
-A201["Década de 2010: Narración del jazz a través de la representación del "Apolo en la pendiente""]
-A202["Década de 2020: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington y otros)"]
+都会の夜や酒場の場面 → サックスやピアノの音色が「大人の空気感」を演出。
 
-A1970 --> A198 --> A199 --> A200 --> A201 --> A202
+コミカルな掛け合い → 軽快なスウィング・ジャズでテンポを強調。
+
+静かな心理描写や余韻 → クール・ジャズやモード・ジャズの淡い響きが効果的。
+
+---
+
+### ■ 年代別の相関関係
+
+<div class="mermaid">
+
+flowchart TD
+    A1970["1970年代: 「ルパン三世」大野雄二のジャズ・サウンド"]
+    A198["1980年代: シティポップ的要素＋ジャズ・フュージョンが劇伴に浸透"]
+    A199["1990年代: 「カウボーイビバップ」菅野よう子＆The Seatbelts"]
+    A200["2000年代: 「のだめカンタービレ」クラシック＋ジャズ的アレンジ"]
+    A201["2010年代: 「坂道のアポロン」セッション描写でジャズを物語化"]
+    A202["2020年代: 「LAZARUS ラザロ」（MAPPA × 渡辺信一郎 × Kamasi Washingtonほか）"]
+
+    A1970 --> A198 --> A199 --> A200 --> A201 --> A202
 
 
 </div>
 
 ---
 
-### ■ Obras de jazz/fusión recomendadas para fans del anime.
+### ■ アニメファンにおすすめのジャズ／フュージョン作品
 
-| Año | Artista/Álbum | Pistas recomendadas |
-| ----- | ------------------------- | ---------------------------- |
-| Década de 1970 | **Miles Davis** *Bitches Brew* | "La danza del faraón": una caótica escena de batalla espacial |
-| Década de 1980 | **Miles Davis** *Tutú* | "Tutu": Un personaje paseando por la ciudad de noche |
-| Década de 1990 | **Katsumi Watanabe** *Laboratorio de conjunto de Tokio* | "Manhattan Flu Dance": velocidad similar al bebop |
-| Años 2000 | **Pat Metheny y Charlie Haden** *Más allá del cielo de Missouri* | "Nuestra canción de amor española": una tranquila descripción psicológica |
-| Década de 2010 | **Experimento de Robert Glasper** *Radio Negra* | "Afro Blue": escena de la vida cotidiana urbana y contemporánea |
-| Años 2020 | **Kamasi Washington** *Cielo y Tierra* | "Street Fighter Mas": Combina cosmovisión de acción y ciencia ficción |
-
-
----
-
-
-### ■ Mesa cruzada de fantasía (escenas de anime específicas x canciones de jazz)
-
-| Escena de anime | Canción de jazz/fusión que quieres tocar en tu imaginación | Explicación |
-| --------------------------- | ------------------------------------ | --------------------------- |
-| Lupin Tercero corre por la ciudad de noche | Dave Brubeck "Toma cinco" | La ligereza de las cinco firmas subraya el estilo de Lupin |
-| Spike vs. Vicious (enfrentamiento final de Cowboy Bebop) | John Coltrane "Un amor supremo" | Simboliza una tensión sublime y una batalla fatídica.
-| Una escena del trabajo de Makoto Shinkai en un día lluvioso | Bill Evans "Vals para Debby" | El piano transparente resuena con la belleza de la imagen |
-| Sesión en Sakamichi no Apollon | Art Blakey "Gimiendo" | El calor de los tambores y las trompetas amplifica la alegría de la juventud |
-| Guerra psicológica grave (Eva y Death Note) | Miles Davis "Y qué" | El jazz en modo cool apoya la tensión intelectual |
-| LÁZARO: Escena de batalla por límite de tiempo final | Kamasi Washington "Cambio de guardia" | Un sonido grandioso y espiritual enfatiza el tema de la supervivencia humana |
-
----
-
-### ■ "LAZARUS" y el espíritu del jazz
-
-"LAZARUS", que se emitió en la primavera de 2025, es un anime de ciencia ficción creado por el director Shinichiro Watanabe, MAPPA y Kamasi Washington.
-Temas como "muerte y renacimiento", "límites de tiempo" y "salvación de la humanidad" resuenan con la "reconstrucción improvisada de la vida" inherente al jazz.
-En particular, el jazz espiritual de Kamasi Washington se hace eco del motivo de "Lázaro = resurrección" en múltiples capas a lo largo de la historia.
-
-### ■ Resumen
-
-El jazz/fusión aporta urbanidad e improvisación al anime y, a veces, simboliza la "vida y muerte" y la "destrucción y renacimiento" de toda la historia.
-El estilo de "Lupin the Third", el estilo de "Cowboy Bebop", la pasión juvenil de "Apollo on the Slope" y la escala de ciencia ficción de "LAZARUS"──
-Todas estas son extensiones del "espíritu libre y regenerativo" del jazz.
-
-Y como sugiere el nombre "Lazarus", el jazz revive constantemente en nuevas formas y sigue estrechamente vinculado al mundo del anime.
+| 年代    | アーティスト/アルバム          | おすすめトラック                     |
+| ----- | ------------------------- | ------------------------------- |
+| 1970s | **Miles Davis** *Bitches Brew*  | 「Pharaoh's Dance」：混沌とした宇宙戦闘シーンに |
+| 1980s | **Miles Davis** *Tutu*  | 「Tutu」：都会の夜を歩くキャラクターに |
+| 1990s | **渡辺香津美** *Tokyo Ensemble Lab* | 「Manhattan Flu Dance」：ビバップ的疾走感 |
+| 2000s | **Pat Metheny & Charlie Haden** *Beyond the Missouri Sky* | 「Our Spanish Love Song」：静謐な心理描写に |
+| 2010s | **Robert Glasper Experiment** *Black Radio* | 「Afro Blue」：都市的で現代的な日常シーン |
+| 2020s | **Kamasi Washington** *Heaven and Earth* | 「Street Fighter Mas」：アクションとSF世界観にマッチ |
 
 
 ---
 
-### Columnas relacionadas
 
-[[Columna] Rock progresivo y anime: una narrativa épica que se cruza](https://monumental-movement.jp/Column-Progressive-Rock-Anime)
+### ■ 妄想クロスオーバー表（アニメの具体的シーン × ジャズ曲）
+
+| アニメのシーン                      | 妄想で流したいジャズ／フュージョン曲                     | 解説                          |
+| ---------------------------- | -------------------------------------- | --------------------------- |
+| ルパン三世が夜の街を駆け抜ける              | Dave Brubeck「Take Five」                | 5拍子の軽快さがルパンの洒脱さを強調          |
+| スパイク vs ヴィシャス（カウボーイビバップ最終対決） | John Coltrane「A Love Supreme」          | 崇高な緊張感と宿命の戦いを象徴             |
+| 雨の日の新海誠作品のワンシーン              | Bill Evans「Waltz for Debby」            | 透明感あるピアノが映像美と共鳴             |
+| 坂道のアポロンでのセッション               | Art Blakey「Moanin'」                    | ドラムとホーンの熱量が青春の高揚を増幅         |
+| シリアスな心理戦（エヴァやデスノート）          | Miles Davis「So What」                   | クールなモード・ジャズが知的緊張感を支える       |
+| LAZARUS：終盤のタイムリミット戦闘シーン      | Kamasi Washington「Change of the Guard」 | 壮大でスピリチュアルなサウンドが人類存亡のテーマを強調 |
+
+---
+
+### ■ 「LAZARUS ラザロ」とジャズ的精神
+
+2025年春に放送された『LAZARUS ラザロ』は、渡辺信一郎監督 × MAPPA × Kamasi Washington という豪華布陣によるSFアニメ。
+「死と再生」「時間制限」「人類救済」といったテーマは、ジャズが持つ“即興的な生の再構築”と響き合う。
+特に Kamasi Washington のスピリチュアル・ジャズは、物語全体に「ラザロ＝蘇り」のモチーフを重層的に響かせている。
+
+### ■ まとめ
+
+ジャズ／フュージョンは、アニメに都会性と即興性をもたらし、時に物語全体の「生と死」「破壊と再生」を象徴する。
+『ルパン三世』の洒脱さ、『カウボーイビバップ』のスタイリッシュさ、『坂道のアポロン』の青春の熱、そして『LAZARUS』のSF的スケール──
+それらはすべてジャズが持つ「自由で再生的な精神」の延長線にある。
+
+そして「ラザロ」の名が示すように、ジャズは常に新しい形で蘇り、アニメの世界に寄り添い続けていく。
+
+
+---
+
+### 関連コラム
+
+ [【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性](https://monumental-movement.jp/Column-Progressive-Rock-Anime)

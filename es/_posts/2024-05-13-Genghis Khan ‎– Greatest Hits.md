@@ -8,17 +8,17 @@ layout: post
 tags:
 - Disco
 - 80s
-title: Genghis Khan - Grandes éxitos
+title: Genghis Khan – Greatest Hits
 ---
 
 
-Genghis Khan es un grupo disco alemán formado por Ralph Siegel. Compitió en Eurovisión en 1979 y quedó en cuarto lugar.
+ジンギスカンは、Ralph Siegel(ラルフ・シーゲル)によって結成されたドイツのディスコグループ。1979年のユーロビジョンに出場し、4位に入賞した。
 
-Genghis Khan se caracteriza por canciones centradas en personajes históricos, culturas y regiones exóticas.
+ジンギスカンは、歴史上の人物やエキゾチックな文化や地域をテーマにしていた曲が特徴。
 
-Canciones como "Genghis Khan" y "Aim for Moscú" se convirtieron en grandes éxitos en todo el mundo.
+「ジンギスカン」や「めざせモスクワ」などは世界的に大ヒットとなった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Machu Picchu 
 インカ帝国（マッチュ・ピッチュ）
@@ -63,7 +63,7 @@ B7. Dschinghis Khan
 ジンギスカン
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WR4rNmy9mo?si=PwaouexbBOavPabb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

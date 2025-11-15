@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - Hard Rock
-title: AC/DC – Pulsación del interruptor
+title: AC/DC – Flick Of The Switch
 ---
 
 
-Flick of the Switch es el noveno álbum de estudio de la banda australiana de hard rock AC/DC.
+『Flick of the Switch（フリック・オブ・ザ・スイッチ）』は、オーストラリアのハードロックバンドAC/DCの9枚目のスタジオ・アルバムです。
 
-El álbum se vendió mal en comparación con los álbumes anteriores de la banda, Back in Black de 1980 y For Aquellos About to Rock de 1981, y fue visto como el comienzo del declive comercial de la banda.
+このアルバムは、バンドの1980年の『Back in Black』や1981年の『For Those About to Rock』といった前作と比較して売り上げが伸び悩み、バンドの商業的な衰退の始まりを示すものとされました。
 
-Este es el tercer álbum de AC/DC con el vocalista principal Brian Johnson, y el último antes de que el baterista Phil Rudd se vaya temporalmente.
+AC/DCのリードボーカルであるブライアン・ジョンソンが参加した3枚目のアルバムであり、また、ドラマーのフィル・ラッドが一時的に脱退する前の最後のアルバムとなります。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Rising Power
 
@@ -41,7 +41,7 @@ B4. Badlands
 B5. Brain Shake
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jr7r-mjVgfg?si=WkOg9mGNL53kFICA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

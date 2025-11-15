@@ -10,18 +10,18 @@ tags:
 - Noise
 - Experimental
 - 7inch
-title: 'Peluquería: impresión de pavor desagradable. El mejor peinado de mi vida.'
+title: Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life
 ---
 
 
-"Impression Of Nasty Dread Best Of Hair-Style In My Life" de Hair Stylistics (Hair Stylistics también conocido como Masaya Nakahara) es un álbum de 7 pulgadas lanzado en 1999.
+Hair Stylistics（ヘア・スタイリスティクス a.k.a.中原昌也）による「Impression Of Nasty Dread Best Of Hair-Style In My Life」は、1999年リリースの7インチ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Impression Of Nasty Dread
 
 B. Best Of Hair-Style In My Life
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 

@@ -13,27 +13,27 @@ title: Clan Greco – Brassisity
 ---
 
 
-Clan Greco es una unidad formada por Ricky Rinaldi, productor y coproductor de Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara, etc., y el trompetista italiano Massimo Greco.
+Clan Grecoは、Neffa e Sud Sound SystemやDJ Rodriguez、Bossa Nostra、Gazzaraなどのプロデューサー兼共同プロデューサーRicky Rinaldiと、イタリアのトランペット奏者Massimo Grecoによるユニット。
 
-≡ Artistas participantes
+≡ 参加アーティスト
 
-Bajo: Christian Lisi
+ベース：Christian Lisi
 
-Batería: Roberto Ponzio, Roberto Rossi
+ドラム：Roberto Ponzio, Roberto Rossi
 
-Teclado: Maestro Garofalo, Michele Trombetti
+キーボード：Maestro Garofalo, Michele Trombetti
 
-Saxofón: Chicco Montefiori
+サックス：Chicco Montefiori
 
-Trompeta: Massimo Greco
+トランペット： Massimo Greco
 
-Voz: Silvia Donati
+ヴォーカル：Silvia Donati
 
-Productor Massimo Greco, Ohm Guru
+プロデューサー Massimo Greco, Ohm Guru
 
-Coproductor: Brass Avengers
+共同プロデューサー：Brass Avengers 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Fast Salsa
 
@@ -60,7 +60,7 @@ D2. Free Bossa
 D3. Full Funk
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

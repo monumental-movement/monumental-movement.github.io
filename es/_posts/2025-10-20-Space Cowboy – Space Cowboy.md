@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - 00s
-title: Vaquero espacial - Vaquero espacial
+title: Space Cowboy - Space Cowboy
 ---
 
 
-Un tema House lanzado por el DJ y productor británico Space Cowboy (Nicolas Jean-Pierre Dresti), mejor conocido por su colaboración con Lady Gaga, en el sello Tiger Trax en 2005.
+Lady Gagaとのコラボでよく知られているUKのDJ／プロデューサーSpace Cowboy(Nicolas Jean-Pierre Dresti)が、2005年にレーベルTiger TraxからリリースしたHouseトラック。
 
 
-B1 es un remix del productor y remezclador estadounidense Jason Nevins.
-B2hq, un remix de Miss Frenchie, una DJ francesa afincada en Londres.
+B1は、アメリカのプロデューサー／リミキサーJason Nevinsによるremix。
+B2hq、ロンドンを拠店に活動するフランス人DJ Miss Frenchieによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Space Cowboy (Space Cowboy Extended Club Mix)
 A2. Uno Dos Tres
@@ -27,4 +27,4 @@ B1. Space Cowboy (Jason Nevins Club Mix)
 B2. Space Cowboy (Miss Frenchie Breaks Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96573920140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96573920140?afid=6142608987){: .button1}

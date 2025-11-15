@@ -10,16 +10,16 @@ tags:
 - Progressive House
 - Acid House
 - Tech House
-title: Petter – EP ácido sin título
+title: Petter – Untitled Acid EP
 ---
 
 
-Petter Nordkvist es un DJ y productor de Estocolmo, Suecia. Su estilo único es una mezcla de techno, electro, dub, ambient, acid, break y deep house. No sólo toca en Suecia, sino también en eventos de Border Community en Londres y en toda Europa.
+Petter ことPetter Nordkvistは、スウェーデンのストックホルム出身のDJ・プロデューサー。テクノ、エレクトロ、ダブ、アンビエント、アシッド、ブレイク、ディープハウスをミックスした独自のスタイルが特徴。 スウェーデン国内だけでなく、ロンドンのBorder Communityのイベントやヨーロッパ全土でプレイしている。
 
-"Untitled Acid EP" es una pista de acid house/progressive house/tech house lanzada en 2005 en Deep Focus, una subsello del sello Deep Records de Ámsterdam.
+「Untitled Acid EP」はアムステルダムのレーベルDeep RecordsのサブレーベルDeep Focusから2005年にリリースされた、アシッドハウス・プログレッシブハウス・テックハウストラック。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Freak 'N Love
 
@@ -27,7 +27,7 @@ B1. Untitled Acid
 B2. Everyday Balloon
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHZDcIoj7RU?si=VBavyUOyjZCD42Ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

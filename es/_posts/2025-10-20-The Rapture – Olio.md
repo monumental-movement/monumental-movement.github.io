@@ -9,20 +9,20 @@ tags:
 - Leftfield
 - Disco
 - 00s
-title: El Rapto – Olio
+title: The Rapture – Olio
 ---
 
 
-The Rapture es una banda de Nueva York formada en 1998. Caracterizados por un estilo que mezcla los gustos de varios géneros como dance punk, post-punk, acid house, disco, electrónica y rock, son una banda central del movimiento dance-punk que comenzó con el resurgimiento del post-punk a principios de los años 2000.
+The Rapture(ザ・ラプチャー)は、1998年に結成したNY出身のバンド。ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカ、ロックなど様々なジャンルのテイストをミックスしたスタイルが特徴で、2000年代初頭のポストパンクリバイバルからのダンス・パンクムーブメントの中心的バンド。
 
-Edición limitada de sólo 1000 ejemplares (una cara)
+1000枚のみの限定盤(片面)
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Olio
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gnOhHJlEYUA?si=Mq0-5uHjrMZn0v6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

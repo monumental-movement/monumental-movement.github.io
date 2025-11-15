@@ -13,11 +13,11 @@ title: Jjak Hogan – Jjak Hogan EP
 ---
 
 
-Una pista de electro breakbeat y rap del dúo estadounidense JJAK HOGAN, lanzada en 2008 por el sello REKIDS de RADIO SLAVE.
+RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年にリリースされた、USデュオJJAK HOGANによるエレクトロ・ブレイクビーツ＆ラップトラック。
 
-JJAK HOGAN es un proyecto de Slim E. Neutron (Donte Oliver) y Davey Koppa Feel (Wayne Brooks) de Augusta, Georgia, quienes también actúan bajo los nombres Dr. Bass So-Low y Smoke Master I.C.E.
+JJAK HOGANは、ジョージア州オーガスタ出身のSlim E. Neutron（Donte Oliver / ドンテ・オリバー）と Davey Koppa Feel (Wayne Brooks / ウェイン・ブルックス)によるプロジェクトで、Dr. Bass So-Low や Smoke Master I.C.E. 名義でも活動している。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Dev
 
@@ -28,7 +28,7 @@ B1. Outdere
 B2. Warped Up
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92570158197?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92570158197?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zUuxOwnTqc?si=5YKP3redbs8j1Dvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: Jeff Mills – Muy EP
+title: Jeff Mills – Very EP
 ---
 
 
-Este EP es el corazón mismo de la música underground de Detroit y uno de los mejores discos de techno de preparación.
+このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。
 
-Se puede decir que la visión del mundo única que entrelaza una atmósfera oscura y elementos experimentales es exclusiva de Jeff Mills.
+暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Cobolt
 
@@ -31,7 +31,7 @@ B2. Untitled
 B3. Untitled
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

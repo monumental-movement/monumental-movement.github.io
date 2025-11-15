@@ -10,21 +10,21 @@ tags:
 - Acid Jazz
 - Dub
 - 90s
-title: Pesadillas con cera – Delicia para fumadores
+title: Nightmares On Wax – Smokers Delight
 ---
 
 
-Nightmares On Wax's Smokers Delight (1995), el segundo álbum del proyecto del productor británico George Evelyn, fue lanzado en Warp Records y consolidó su lugar en la historia del downtempo y el trip-hop. Este álbum sigue siendo una obra maestra atemporal, que transporta a los oyentes a un relajante reino relajante, un paso alejado del ajetreo y el bullicio de la cultura de discoteca.
+Nightmares On Waxの『Smokers Delight』（1995年）は、英国のプロデューサーGeorge Evelynによるプロジェクトの2作目として、Warp Recordsからリリースされたアルバムで、ダウンテンポとトリップホップの歴史において確固たる地位を築いた作品です。このアルバムは、クラブカルチャーの喧騒から一歩引いた場所で、リスナーを心地よいチルアウトの領域へと誘う、時代を超えた傑作として今も語り継がれています。
 
-En primer lugar, el núcleo de "Smokers Delight" radica en su "ritmo relajado". El álbum se abre con "Nights Introlude", con cuerdas suaves y un ritmo suave que muestra "Summer In The City" de Quincy Jones, atrayendo instantáneamente al oyente a un espacio relajante.
+まず、『Smokers Delight』の核心は、その「ゆったりとしたグルーヴ」にあります。アルバムは冒頭の「Nights Introlude」から、Quincy Jonesの「Summer In The City」をサンプリングした柔らかなストリングスと穏やかなビートで幕を開け、リスナーを即座にリラックスした空間へと引き込みます。
 
-Musicalmente, el esqueleto del hip-hop está tejido con la esencia del reggae, soul y funk, dándole un eclecticismo único. Por ejemplo, en "Groove St.", una línea de bajo de piano profunda se entrelaza con una línea de bajo suave, y la adición de batería ligera crea un bucle simple pero adictivo. Mientras tanto, temas más largos como ""Pipes Honor'', que duran más de nueve minutos, desarrollan gradualmente capas de guitarra y teclado, llevando al oyente a un viaje meditativo.
+音楽的には、ヒップホップの骨格にレゲエ、ソウル、ファンクのエッセンスが織り込まれ、独自の折衷主義が際立っています。例えば、「Groove St.」では重厚なピアノの低音と滑らかなベースラインが絡み合い、そこに軽快なドラムが加わることで、シンプルながらも病みつきになるループが生まれています。一方、「Pipes Honour」のような9分を超える長尺トラックでは、ギターとキーボードが織りなすレイヤーが徐々に展開し、聴く者を瞑想的な旅へと導きます。
 
-Los antecedentes de la producción también son interesantes. Después de la partida de su compañero Kevin Harper, Evelyn redefinió Nightmares On Wax como un proyecto en solitario y encontró una nueva dirección con Smokers Delight. Utilizando equipos analógicos y técnicas de muestreo, este disco encarna el espíritu DIY de los años 90 y resuena con la actitud innovadora del sello Warp en ese momento. La participación del teclado de Robin Taylor-Firth y los bucles de instrumentos tocados a mano dispersos crean una exquisita fusión de lo digital y lo analógico, creando un sonido humano que trasciende la frialdad artificial.
+制作背景も興味深い点です。EvelynはパートナーのKevin Harperが去った後、ソロプロジェクトとしてNightmares On Waxを再定義し、『Smokers Delight』で新たな方向性を見出しました。アナログ機材とサンプリング技術を駆使したこの作品は、90年代のDIY精神を体現しており、当時のWarpレーベルの革新的な姿勢とも共鳴しています。Robin Taylor-Firthのキーボード参加や、随所にちりばめられた手弾きの楽器によるループが、デジタルとアナログの融合を絶妙に実現し、人工的な冷たさを超えた人間味のあるサウンドを生み出しています。
 
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Nights Introlude
 2. Dreddoverboard
@@ -45,7 +45,7 @@ Los antecedentes de la producción también son interesantes. Después de la par
 16. Gambia Via Vagator Beach
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6ixa3G_tL4?si=oqR77d3pR6_Eziw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

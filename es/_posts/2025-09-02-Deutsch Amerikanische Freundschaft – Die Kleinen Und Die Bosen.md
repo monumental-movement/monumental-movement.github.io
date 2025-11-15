@@ -12,11 +12,11 @@ title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 
-DAF es una banda de electropunk/Neue Deutsche Welle formada en Düsseldorf, Alemania en 1978. Conocida como pionera de EBM, NDW, house, techno y NDH.
+DAFは、1978年にドイツ・デュッセルドルフで結成されたエレクトロパンク／ノイエ・ドイチェ・ヴェレ バンド。EBM、NDW、ハウス、テクノ、NDHの先駆者として知られている。
 
-Este disco es el segundo álbum de DAF, lanzado por Mute Records en 1980.
+このレコードは、1980年にMute RecordsからリリースされたDAFのセカンドアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Osten Währt Am Längsten
 A2. Essen Dann Schlafen
@@ -40,7 +40,7 @@ B11. El Basilon
 B12. Y La Gracia
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_nyMRQKJ9Q?si=vzj01jOqYgcLzU7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

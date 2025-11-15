@@ -7,22 +7,22 @@ lang: es
 layout: post
 tags:
 - Soundtrack
-title: Recoger obras de banda sonora
+title: サウンドトラック作品をピックアップ
 ---
 
 
-"Una extraordinaria colección de bandas sonoras que entrelazan la emoción de la historia a través del sonido y elevan la experiencia visual a una nueva dimensión".
+「物語の情感を音で紡ぎ、映像体験を新たな次元へと引き上げる注目すべきサウンドトラック作品群」
 
-<hora>
+<hr>
 
-### Jerry Goldsmith - Una mancha azul
+### Jerry　Goldsmith – A　Patch　Of　Blue
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-Formato: vinilo
+形式：vinyl
 
-Obra: Banda sonora de la película de 1965 ""A Patch of Blue''. Reedición de 1978.
+作品：1965年公開映画『いつか見た青い空』（A Patch of Blue）のサウンドトラック。1978年再発盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -47,23 +47,23 @@ B9. Goodbye Selina
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=ZcAJ1_q_vtblxgJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
 
 
-### VA – Tanque　Chica
+### VA – Tank　Girl
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
-Formato: CD
+形式：CD
 
-Obra: Banda sonora de la película de ciencia ficción ""Tank Girl'' de 1995. Compilada por Courtney Love, música original de Graeme Revell de SPK.
+作品：1995年公開のSF映画『Tank Girl』のサウンドトラック。Courtney Love 編纂、オリジナル音楽は SPK の Graeme Revell。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -80,21 +80,21 @@ Obra: Banda sonora de la película de ciencia ficción ""Tank Girl'' de 1995. Co
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
-### Adam Clayton y Larry Mullen – Tema de Misión: Imposible
+### Adam　Clayton &　Larry　Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-Formato: casete
+形式：Cassette
 
-Obra: Cassette lanzado en 1996, que contiene el tema musical de la película "Misión: Imposible".
+作品：1996年リリース、映画『ミッション：インポッシブル』のテーマ曲を収録したカセット。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -103,21 +103,21 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
-### Ennio Morricone – Nuovo Cinema Paradiso
+### Ennio Morricone – Nuovo　Cinema　Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
-Formato: CD
+形式：CD
 
-Obra: Banda sonora de la película clásica de 1989 ""New Cinema Paradise''.
+作品：1989年の名作映画『ニュー・シネマ・パラダイス』のサウンドトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Nuovo Cinema Paradiso
 2. Maturita
@@ -138,50 +138,50 @@ Obra: Banda sonora de la película clásica de 1989 ""New Cinema Paradise''.
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12330738876?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 
-### Lista
+### List
 
-<div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Arreglista</th>
-<th>Título</th>
-<th>Edad/Trabaja</th>
-<th>Formato</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Jerry Goldsmith</td>
-<td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">Una mancha azul</a></td>
-<td>Música de la película de 1965 (reeditada en 1978)</td>
-<td>Casete</td>
-</tr>
-<tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Chica tanque</a></td>
-<td>banda sonora de la película de 1995</td>
-<td>CD</td>
-</tr>
-<tr>
-<td>Adam Clayton y Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
-<td>Tema de la película de 1996</td>
-<td>Casete</td>
-</tr>
-<tr>
-<td>Ennio Morricone</td>
-<td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
-<td>banda sonora de la película de 1989</td>
-<td>CD</td>
-</tr>
-</tbody>
-</tabla>
+<div class="table-border">
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト / 編曲者</th>
+      <th>タイトル</th>
+      <th>年代／作品</th>
+      <th>フォーマット</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jerry Goldsmith</td>
+      <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
+      <td>1965年 映画スコア（78年再発）</td>
+      <td>Cassette</td>
+    </tr>
+    <tr>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
+      <td>1995年 映画サントラ</td>
+      <td>CD</td>
+    </tr>
+    <tr>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td>1996年 映画テーマ</td>
+      <td>Cassette</td>
+    </tr>
+    <tr>
+      <td>Ennio Morricone</td>
+      <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
+      <td>1989年 映画サウンドトラック</td>
+      <td>CD</td>
+    </tr>
+  </tbody>
+</table>
 </div>

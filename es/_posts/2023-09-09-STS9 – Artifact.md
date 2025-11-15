@@ -9,20 +9,20 @@ tags:
 - Break Beat
 - Drum n Bass
 - Jazz
-title: STS9 – Artefacto
+title: STS9 – Artifact
 ---
 
 
-"Artifact" es el tercer álbum de estudio de Sound Tribe Sector 9 (STS9), lanzado en 2005. Este trabajo muestra el sonido y la creatividad de STS9 al máximo, y ha obtenido grandes elogios en la escena de la música electrónica y las jam bands por su sonido único y su enfoque innovador.
+「Artifact」は、2005年にリリースされたサウンド・トライブ・セクター9（Sound Tribe Sector 9 [STS9]）の3枚目のスタジオアルバムです。STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
 
-Su sonido combina elementos de una variedad de géneros, incluidos ambient, electrónica, jazz, funk y dubstep.
+アンビエント、エレクトロニカ、ジャズ、ファンク、ダブステップなど、さまざまなジャンルの要素を組み合わせたサウンドが特徴です。
 
-"Tokyo" de A2 es conocida como la canción insignia de STS9 y a menudo se toca en presentaciones en vivo.
+A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ライブパフォーマンスでも頻繁に演奏されます。
 
-"Artifact" es un álbum importante en la carrera de STS9 y es imprescindible para los fans de la banda.
+「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Possibilities
 
@@ -42,7 +42,7 @@ B2. Somesing
 B3. Better Day
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,164 +9,163 @@ tags:
 - Daw
 - 90s
 - 00s
-title: '[Columna] Historia y evolución de DTM (DAW): cómo ha cambiado el entorno de
-  producción de sonido del hogar al profesional'
+title: 【コラム】 DTM（DAW）の歴史と変遷 — 家庭からプロへ、音の制作環境がどう変わったか
 ---
 
 
-## "Un entorno donde todos pueden ofrecer sonido al mundo"
+## 「誰もが世界に音を届けられる環境」
 
-Texto: mmr｜Tema: Un dispositivo cultural que simboliza la "democratización de la producción musical"
+文：mmr｜テーマ：「音楽制作の民主化」を象徴する文化的装置
 
-DTM (DeskTop Music): llamado "DTM" en japonés y DAW (Digital Audio Workstation) en los países de habla inglesa, el flujo de trabajo se refiere a una cultura en la que la grabación, edición, mezcla y producción se completan utilizando computadoras y software. En este artículo, organizaremos el flujo desde su surgimiento hasta el presente, junto con una cronología, con un enfoque en los "puntos de inflexión tecnológicos" y el "impacto cultural".
+DTM（DeskTop Music／デスクトップミュージック）──日本語では「DTM」と呼ばれ、英語圏では主にDAW（Digital Audio Workstation）と呼ばれるワークフローは、録音・編集・ミックス・制作をコンピュータとソフトウェア中心に完結させる文化を指します。本稿では「技術的な転換点」と「文化的なインパクト」を軸に、発生から現在に至るまでの流れを年表と合わせて整理します。
 
-<hora>
+<hr>
 
-### Tendencia por época
+### 時代ごとの流れ
 
-**Década de 1940 a 1960**: Era de la grabación en cinta y multipista
-Se desarrollaron técnicas para "cortar y pegar" sonido, como edición de cintas, bucles de cintas y música concreta. La grabación sobregrabada en estudios se hizo popular.
+**1940–1960年代**：テープとマルチトラック録音の時代
+テープ編集、テープループ、ミュージック・コンクレートなど、音を「切って貼る」技術が発展。スタジオでの多重録音が普及。
 
-**Década de 1970**: sintetizadores y la primera música por ordenador
-Se difunden instrumentos como los sintetizadores analógicos y el Minimoog, y se diversifican los métodos de producción de música electrónica.
+**1970年代**：シンセサイザーと初期コンピュータ音楽
+アナログシンセ、ミニムーグなどの楽器が広がり、電子音楽の制作手法が多様化。
 
-**Alrededor de 1983**: La aparición del estándar MIDI (comunicación de datos estandarizada entre instrumentos musicales) → revolucionó el flujo de trabajo de producción.
+**1983頃**：MIDI規格の登場（楽器間データ通信が標準化）→ 制作ワークフローに革命。
 
-**Finales de los 80 – principios de los 90**: Primera era de edición/secuenciador digital + hardware
-Presentamos samplers, secuenciadores de hardware y los primeros programas musicales basados ​​en computadora. La llegada de los sistemas de grabación digital profesionales.
+**1980s後半–1990s前半**：初期のデジタル編集/シーケンサー＋ハードウェアの時代
+サンプラー、ハードウェアシーケンサー、初期のコンピュータベース音楽ソフトが登場。プロ用デジタル録音システムの出現。
 
-**Mediados y finales de los 90**: Profesionalización de Pro Tools y grabación digital
-Los sistemas de grabación de alto rendimiento que dependen del hardware se han generalizado y la posproducción y la grabación se están volviendo rápidamente digitales. También se han establecido estándares de complementos como VST.
+**1990s中盤–後半**：Pro Toolsとデジタル録音のプロフェッショナル化
+ハードウェア依存の高性能録音システムが普及し、ポストプロダクションやレコーディングでデジタル化が急速に進む。VSTなどのプラグイン規格も確立。
 
-**Década de 2000**: Los DAW basados ​​en computadora se volvieron populares y los estudios caseros explotaron.
-Los precios más bajos y la calidad mejorada de los complementos han hecho posible que las personas creen productos de calidad profesional. Cultura loop, combinada con la expansión de la distribución online.
+**2000年代**：パソコンベースのDAWが主流に、ホームスタジオの爆発
+価格低下とプラグイン品質向上により、個人でもプロ級の制作が可能に。ループ文化、オンライン配信の拡大と相まる。
 
-**Década de 2010**: diversificación de DAW y orientación en vivo/improvisación (Ableton, etc.)
-Presentamos edición no lineal, integración de música en vivo basada en clips, herramientas de colaboración y nube.
+**2010年代**：DAWの多様化とライブ／即興志向（Abletonなど）
+ノンリニア編集やクリップベースの生演奏統合、クラウドやコラボレーションツールが登場。
 
-**Década de 2020**: producción asistida por IA, colaboración en la nube y mayor democratización
-La mezcla/masterización automática, la generación de IA, el intercambio de proyectos en la nube, etc. están afectando el flujo de producción.
+**2020年代**：AI支援制作、クラウド協働、更なる民主化
+自動ミックス／マスタリング、生成系AI、クラウドプロジェクト共有などが制作フローに影響。
 
-<hora>
+<hr>
 
-### Origen y primeros días (de la cinta a la era analógica)
+### 起源と初期（テープ〜アナログの時代）
 
-El origen del DTM es el acto mismo de "crear una obra grabando y editando sonido". Los experimentos con medios físicos, como la edición de cintas (cortar y pegar), el bucle de cintas (crear sonidos repetidos), la inversión de cintas y la manipulación de la velocidad, dieron forma a la música electrónica a mediados del siglo XX. Esta era una época en la que el foco estaban en los grandes equipos de estudio y en los ingenieros cualificados.
+DTMの源流は「音を記録・編集して作品を作る」行為そのものです。テープ編集（切断・貼り付け）、テープループ（反復音の作成）、テープ逆回しやスピード操作など、物理的なメディアを使った実験が20世紀中盤の電子音楽を形作りました。スタジオの大型機材と熟練エンジニアが中心の時代です。
 
-<hora>
+<hr>
 
-### Revolución provocada por la llegada del MIDI (alrededor de 1983)
+### MIDIの登場がもたらした革命（1983年頃）
 
-MIDI (Interfaz digital de instrumentos musicales) es un estándar para intercambiar información de notas e información de control entre teclados, secuenciadores y computadoras. Esto facilitó mucho la producción mediante la integración de sintetizadores y módulos externos, e hizo realidad el control de secuencia de software (más tarde el núcleo de las DAW). MIDI estandariza la "información de interpretación" y aumenta drásticamente la flexibilidad de la producción musical.
+MIDI（Musical Instrument Digital Interface）は、鍵盤やシーケンサー、コンピュータ間で「ノート情報」「コントロール情報」をやり取りする規格です。これによりシンセサイザーや外部モジュールを統合した制作が格段に簡単になり、ソフトウェアによるシーケンス制御（後のDAWの核）を現実にしました。MIDIは「演奏情報」の標準化で、楽曲制作の柔軟性を飛躍的に高めました。
 
-<hora>
+<hr>
 
-### El auge de las computadoras y el software (década de 1990)
+### コンピュータとソフトウェアの台頭（1990年代）
 
-Las mejoras en el rendimiento de las computadoras y el uso práctico de la grabación en disco duro han hecho posible editar formas de onda de audio digitalmente. Pro Tools de Avid (entonces Digidesign) permitió digitalmente flujos de trabajo de grabación y edición profesionales y se convirtió en el estándar de la industria para la producción cinematográfica, televisiva y musical. Al mismo tiempo, se hicieron populares los secuenciadores de software/DAW integrales como el Cubase de Steinberg y el Logic de Emagic (posteriormente adquirido por Apple). Además, el complemento VST (Virtual Studio Technology) propuesto por Steinberg amplió el ecosistema al proporcionar un mecanismo para que terceros desarrollen fuentes y efectos de sonido de software.
+コンピュータの性能向上とハードディスク録音の実用化により、音声波形の編集がデジタルで可能となりました。AvidのPro Tools（当時はDigidesign）はプロの録音・編集ワークフローをデジタルで実現し、映画・放送・音楽制作で業界標準へ。並行してSteinbergのCubaseやEmagicのLogic（後にAppleが買収）など、ソフトシーケンサー／総合DAWが普及。さらに、Steinbergが提唱したVST（Virtual Studio Technology）プラグインは、ソフト音源やエフェクトを第三者が開発できる仕組みを提供し、エコシステムを拡大しました。
 
-<hora>
+<hr>
 
-### Nacimiento de los estudios caseros y la "producción individual" (década de 2000)
+### ホームスタジオと「個人プロダクション」の誕生（2000年代）
 
-Con mejoras en el rendimiento de las PC personales, la proliferación de interfaces de audio y mejoras en la calidad de los complementos, la grabación ya no es sólo para el estudio. Los entornos de producción centrados en bucles y patrones, como FL Studio y Ableton Live, han cambiado el estilo de producción de la música electrónica y el hip-hop, y se ha vuelto común que las personas completen álbumes y bandas sonoras en casa. Con la combinación de plataformas de distribución y ventas por Internet (Bandcamp, SoundCloud, etc.), el umbral desde la producción hasta el lanzamiento se ha reducido drásticamente.
+パーソナルPCの性能向上、オーディオインターフェースの普及、プラグイン品質の向上で、レコーディングはスタジオだけのものではなくなりました。FL StudioやAbleton Liveなど、ループやパターンを軸にした制作環境は、電子音楽やヒップホップの制作スタイルを変え、個人がアルバムやサウンドトラックを自宅で完結することが一般化しました。インターネット配信や販売プラットフォーム（Bandcamp、SoundCloud等）が重なり、制作から公開までの敷居は劇的に下がりました。
 
-<hora>
+<hr>
 
-### Década de 2010 y años posteriores: diversificación, improvisación y computación en la nube
+### 2010年代以降：多様化・即興性・クラウド化
 
-Los DAW han evolucionado desde herramientas para simplemente "grabar, organizar y mezclar" hasta funciones multifuncionales como presentaciones en vivo (Ableton Live), colaboración en tiempo real, vinculación de video e integración modular. Las opciones de uso se están ampliando aún más, incluidas aplicaciones móviles/DAW para iPad, sincronización de proyectos en la nube y la introducción de modelos de suscripción.
+DAWは単に「録る・並べる・ミックスする」ツールから、ライブパフォーマンス（Ableton Live）、リアルタイムコラボレーション、映像連携、モジュラー統合など多機能化しました。モバイルアプリ／iPad用DAW、クラウドでのプロジェクト同期、サブスクリプションモデルの導入など、利用形態はさらに拡張しています。
 
-<hora>
+<hr>
 
-### Elementos técnicos clave (qué soporta la DAW)
+### 技術的なキー要素（何がDAWを支えているか）
 
-**Interfaz de audio**: La calidad de la conversión AD/DA y la baja latencia (retraso) determinan la comodidad de la producción.
+**オーディオ・インターフェース**：AD/DA変換の品質、レイテンシ（遅延）の低さが制作の快適さを左右。
 
-**MIDI**: Grabación/edición de información de interpretación. También estaremos atentos a la evolución de estándares como MIDI CC y MIDI 2.0 (que poco a poco se está popularizando).
+**MIDI**：演奏情報の記録／編集。MIDI CCやMIDI 2.0（徐々に普及）など規格の進化も注視。
 
-**Complementos (VST/AU/AAX, etc.)**: amplíe la funcionalidad agregando fuentes de sonido suaves y efectos.
+**プラグイン（VST/AU/AAX等）**：ソフト音源やエフェクトを追加することで機能を拡張。
 
-**Sampling y Samplers**: Una herramienta importante en el diseño de sonido. La cultura sampler es la base del hip-hop y la electrónica.
+**サンプリングとサンプラー**：サウンドデザインの重要手段。サンプラー文化はヒップホップやエレクトロニカの基盤。
 
-**Estiramiento de tiempo/corrección de tono**: manipule libremente la duración y el tono de los sonidos (por ejemplo, cuantización de audio, herramientas de corrección de tono).
+**タイムストレッチ／ピッチ補正**：音の長さ・高さを自在に操作（例：オーディオのクオンタイズ、ピッチ補正ツール）。
 
-**Automatización y Modulación**: Logre dinamismo cambiando los parámetros a lo largo del tiempo.
+**自動化とモジュレーション**：時間軸でパラメータを変化させることでダイナミズムを実現。
 
-**Edición no destructiva**: se puede editar sin cambiar los datos originales. Funciones básicas de DAW.
+**非破壊編集**：元データを変更せず編集が可能。DAWの基本機能。
 
-<hora>
+<hr>
 
-### Características de los principales DAW
+### 主要DAWの特色
 
-[**Pro Tools (Avid)**](https://amzn.to/4n48V0L): estándar de la industria para grabación y posproducción profesional. Su punto fuerte es su sólida edición y mezcla. Complemento AAX.
+[**Pro Tools（Avid）**](https://amzn.to/4n48V0L)：プロ録音・ポストプロダクションの業界標準。編集・ミキシングの堅牢さが強み。AAXプラグイン。
 
-[**Cubase (Steinberg)**](https://amzn.to/3J9udfx): Puntos fuertes en secuencias MIDI y flujo de trabajo de composición. El creador del estándar VST.
+[**Cubase（Steinberg）**](https://amzn.to/3J9udfx)：MIDIシーケンスや作曲ワークフローに強み。VST規格の生みの親。
 
-[**Logic Pro (Apple)**](https://amzn.to/3W5tqzp): Integral y rentable. Popular entre los usuarios de Mac. Abundantes fuentes de sonido integradas.
+[**Logic Pro（Apple）**](https://amzn.to/3W5tqzp)：総合的でコストパフォーマンス良好。Macユーザーに人気。豊富な内蔵音源。
 
-[**Ableton Live**](https://amzn.to/3IN6QbN): Especializado en improvisación basada en clips y uso en vivo. Ampliamente utilizado en sistemas electrónicos.
+[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
 
-[**FL Studio**](https://amzn.to/43ocpnQ): Ideal para crear bucles/patrones, popular para crear ritmos. Rollo de piano fácil de usar.
+[**FL Studio**](https://amzn.to/43ocpnQ)：ループ／パターン作成に最適、ビートメイクで人気。使いやすいピアノロール。
 
-[**REAPER**](https://amzn.to/4ognVtw): Ligero y altamente personalizable. Bajo costo y mucha expansión comunitaria.
+[**REAPER**](https://amzn.to/4ognVtw)：軽量でカスタマイズ性高い。コストが低く、コミュニティでの拡張が豊富。
 
-<hora>
+<hr>
 
-### Cambios en aspectos culturales y estructura industrial.
+### 文化的側面と産業構造の変化
 
-**democratización**: Los menores costos de producción han hecho posible la participación de una variedad de artistas. La producción independiente/casera se ha convertido en la norma.
+**民主化**：制作コストの低下は、多様な表現者の参入を可能にしました。インディーズ／自宅制作が当たり前に。
 
-**Colaboración**: La colaboración internacional y el intercambio de archivos a través de Internet se están expandiendo. Se resuelven los límites.
+**コラボレーション**：ネットを介した国際的な共同制作やファイル交換が拡大。バウンダリーが解ける。
 
-**Cambios en los modelos comerciales**: Venta directa a través de productos de producción propia, uso de software a través de suscripciones y expansión del mercado de complementos.
+**商業モデルの変化**：セルフプロデュースによる直販、サブスクリプションによるソフト利用、プラグイン市場の拡大。
 
-**Aprendizaje y comunidad**: La democratización del aprendizaje está avanzando a través del intercambio de conocimientos en YouTube y foros.
+**学習とコミュニティ**：YouTubeやフォーラムでのノウハウ共有により学習の民主化が進行。
 
-<hora>
+<hr>
 
-### Tendencias actuales y futuro próximo
+### 現在のトレンドと近未来
 
-**Introducción de la IA**: las herramientas de IA están empezando a hacerse cargo de parte del trabajo, como la asistencia en la composición de canciones, la corrección de mezclas y la automatización de la masterización. Existe la posibilidad de que el papel de las herramientas pase de "asistencia" a "cocreador".
+**AIの導入**：作曲補助、ミックス補正、マスタリング自動化など、AIツールが作業の一部を肩代わりしつつある。ツールの役割が「補助」から「共同クリエイター」へ近づく可能性。
 
-**Nube/Colaboración**: La sincronización en línea y la edición colaborativa en tiempo real de proyectos DAW están aumentando.
+**クラウド／コラボレーション**：DAWプロジェクトのオンライン同期、リアルタイム共同編集が増加。
 
-**Integración modular/flujo de trabajo híbrido: **Fusión de software y hardware (externo, modular). Si bien los equipos hardware se reproducen con software, también hay un fuerte movimiento para buscar la presencia del hardware.
+**モジュラー統合／ハイブリッドワークフロー：**ソフトとハード（アウトボード、モジュラー）の融合。ハード機材をソフトで再現する一方、ハードのプレゼンスを求める動きも根強い。
 
-**En vivo e interactivo**: la aplicación de DAW se está expandiendo no solo a la música sino también a la creación de experiencias interactivas y multimedia.
+**ライブとインタラクティブ**：音楽だけでなくマルチメディア、インタラクティブな体験制作へDAWの応用が拡大。
 
-<hora>
+<hr>
 
-### Consejos prácticos (para quienes están por iniciarse en DTM)
+### 実践的アドバイス（これからDTMを始める人へ）
 
-Aclare su propósito (producción de pistas, grabación de banda, presentación en vivo, diseño de sonido, etc.). La elección de DAW está determinada por el propósito.
+目的をはっきりさせる（トラック制作、バンド録音、ライブパフォーマンス、サウンドデザイン等）。目的でDAWの選択が決まる。
 
-Lo básico es una sensación de creación y arreglo de sonido. La prueba y error musical y el entrenamiento del oído son más importantes que los equipos costosos.
+基本は音作りとアレンジのセンス。高価な機材より、音楽的な試行錯誤と耳の訓練が重要。
 
-Los complementos son herramientas. Después de comprender los conceptos básicos de ecualización, compresión y reverberación, pase a los efectos especiales.
+プラグインは道具。EQ・コンプ・リバーブの基礎を理解してから特殊効果へ。
 
-Solidifique su flujo de trabajo. Adquiera el hábito de utilizar plantillas y accesos directos para ahorrar tiempo.
+ワークフローを固める。テンプレートやショートカットを使って作業時間を短縮する習慣をつける。
 
-Copia de seguridad y control de versiones. Guarde proyectos con frecuencia y utilice la sincronización en la nube.
+バックアップとバージョン管理。プロジェクトはこまめに保存、クラウド同期を併用する。
 
-<hora>
+<hr>
 
-### Mini diccionario de términos
+### 用語ミニ辞典
 
-**DAW**: Estación de trabajo de audio digital. Software para grabar, editar, mezclar y producir audio.
+**DAW**：Digital Audio Workstation。音声録音・編集・ミックス・制作を行うソフトウェア。
 
-**MIDI**: Estándar digital para representar información de interpretación (notas, velocidad, controles).
+**MIDI**：演奏情報（ノート、ベロシティ、コントロール）を表すデジタル規格。
 
-**VST/AU/AAX**: Estándares de complementos (fuentes/efectos de sonido de terceros).
+**VST/AU/AAX**：プラグインの規格（サードパーティー音源／エフェクト）。
 
-**Interfaz de audio**: Un dispositivo que conecta una PC a un micrófono/instrumento (realiza conversión AD/DA).
+**オーディオ・インターフェース**：PCとマイク／楽器を接続する機器（AD/DA変換を行う）。
 
-**Muestreo**: Técnica que utiliza fuentes de sonido existentes como materiales.
+**サンプリング**：既存音源を素材として用いる技術。
 
-<hora>
+<hr>
 
-### ¿Qué es DTM? — Coevolución de la tecnología y la cultura.
+### DTMとは何か — 技術と文化の共進化
 
-DTM/DAW no es sólo una colección de herramientas, sino un dispositivo cultural que simboliza la "democratización de la producción musical". Desde los días de la edición de cintas y los sintetizadores de hardware, hasta el MIDI y la grabación digital, los VST y los ecosistemas de complementos, la IA y la nube, la tecnología ha reducido las barreras a la expresión y ha creado un entorno donde cualquiera puede ofrecer sonido al mundo.
+DTM/DAWは単なるツールの集まりではなく、「音楽制作の民主化」を象徴する文化的装置です。テープ編集やハードウェア・シンセの時代から、MIDI・デジタル録音、VSTやプラグインエコシステム、そしてAIやクラウドへと至る流れは、技術が表現の障壁を下げ、誰もが世界に音を届けられる環境を作ってきました。
 
-La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debemos hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.
+今後もテクノロジーは進化し続けますが、核となるのは「どんな音を、なぜ作るか」というクリエイターの意図です。技術を道具として使い倒すことで、これからも新たな音楽表現が生まれていくでしょう。

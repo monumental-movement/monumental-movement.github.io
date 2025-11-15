@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Deep House
-title: Sonidos de disquete hazaña. Sarah Jones - Entretenimiento
+title: Floppy Sounds Feat. Sarah Jones – Entertainment
 ---
 
 
-Rob Rives, también conocido como Floppy Sounds, es un productor e ingeniero de la escena de danza moderna estadounidense con sede en Brooklyn, Nueva York.
+Floppy Soundsこと、Rob Rives(ロブ・リブス)はNYブルックリンを拠点とするUSモダンダンスシーンのプロデューサー兼エンジニア。
 
-"Entertainment", con la vocalista Sarah Jones, fue lanzado en 1997 en el sello Wave Music de Francois Kevorkian.
+ヴォーカルにSarah Jones(サラ・ジョーンズ)を迎えた「Entertainment」は、Francois Kevorkian(フランソワ・ケヴォーキアン)のレーベルWave Musicより97年にリリース。
 
-El coproductor de A2 es Vaughan Merrick.
+A2の共同プロデューサーはVaughan Merrick。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Entertainment (Club Mix)
 
@@ -27,7 +27,7 @@ A2. Entertainment (Hard Mix)
 B1. Entertainment (Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43333910037?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43333910037?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/emtua_9mPo8?si=dCNqGZ6pnPrFKUaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

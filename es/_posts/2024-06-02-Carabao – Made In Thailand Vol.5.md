@@ -10,15 +10,15 @@ tags:
 - Thai Rock
 - Folk
 - 80s
-title: Carabao - Hecho en Tailandia Vol.5
+title: Carabao – Made In Thailand Vol.5
 ---
 
 
-Carabao, formada en Filipinas en 1982 por Yuanyong Opakul (también conocido como Aed) y Kirati Promsaka Na Sakon Nakhon, es una banda de rock tailandesa muy popular en Tailandia y otros países asiáticos.
+Yuanyong Opakul(ユンヨン・オーパークン/ 別名エート・カラバオ(Aed)) と Kirati Promsaka Na Sakon Nakhon (キラティ・プロムサカ・ナ・サコン・ナコーン)  により1982年にフィリピンで結成されたCarabao (カラバオ) は、タイやアジア諸国で非常に人気のあるタイのロックバンド。
 
-"Made in Tailandia" es el quinto álbum de Carabao lanzado en 1984 (2527 en el calendario tailandés), y es la obra maestra de Carabao, que se convirtió en un gran éxito y vendió un total de 5 millones de copias.
+「メイドインタイランド」は1984年（タイ暦2527年）にリリースされたカラバオの5枚目のアルバムで、通算500万枚を売り上げる大ヒットとなったカラバオの代表作。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1: Made In Thailand
 A2: Mahaalai
@@ -33,7 +33,7 @@ B4: Refugee
 B5: Bua Looi (Thyk Kwai tui 5)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90196918121?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90196918121?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7o8wlyf8l0k?si=vLFVGwSGLKvEH-uj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

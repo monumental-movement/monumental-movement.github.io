@@ -8,21 +8,21 @@ layout: post
 tags:
 - Pops
 - 00s
-title: Justin Timberlake – Como te amo
+title: Justin Timberlake – Like I Love You
 ---
 
 
-Justin Randall Timberlake es un cantante pop, cantante de R&B y actor estadounidense. Ha ganado múltiples premios Grammy.
+ジャスティン・ティンバーレイク (Justin Randall Timberlake)は、アメリカ合衆国出身のポップシンガー、R&Bシンガー、俳優。グラミー賞を複数回受賞しています。
 
-Una vez ganó popularidad como líder del grupo de chicos Insync.
+かつては、ボーイズグループ「インシンク」のフロントマンとして人気を博しました。
 
-En 2002, lanzó su álbum debut en solitario "Justified", que vendió más de 10 millones de copias en todo el mundo.
+2002年、ソロデビューアルバム「Justified」をリリースし、世界中で1千万枚以上のセールスを記録。
 
-En 2006, lanzó su segundo álbum en solitario "Futuresex/Lovesounds".
+2006年、セカンドソロアルバム「Futuresex/Lovesounds」をリリース。
 
-En 2013, retomó su carrera musical con el álbum ""The 20/20 Experience", y fue seleccionado por segunda vez como una de las ""100 personas más influyentes del mundo" de la revista Time.
+2013年、アルバム「The 20/20 Experience」で音楽活動を再開し、雑誌「タイム」の「世界で最も影響力のある100人」に2度目の選出を果たしました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Like I Love You (Album Version)
 
@@ -33,7 +33,7 @@ B1. Like I Love You (Extended Club Mix I)
 B2. Like I Love You (Extended Club Mix II)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8NUj0B1IoiM?si=m25YnUvOMt-ZEi7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

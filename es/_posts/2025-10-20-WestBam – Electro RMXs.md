@@ -9,19 +9,19 @@ tags:
 - Electro
 - Ghettotech
 - 00s
-title: WestBam – Electro RMX
+title: WestBam – Electro RMXs
 ---
 
 
-WestBam (Maximilian Lenz) es un DJ/productor alemán y cofundador del sello Low Spirit.
+WestBam (Maximilian Lenz)は、ドイツ出身のDJ／プロデューサーであり、レーベルLow Spiritの共同設立者。
 
-"Electro RMXs" es Electro/Ghettotech lanzado por el subsello Electric Kingdom de Low Spirit en 2000.
+「Electro RMXs」 は、2000年にLow Spirit のサブレーベルElectric KingdomからリリースされたElectro／Ghettotech。
 
-A es un remix del productor estadounidense de Breaks/Breakbeat, DJ Icey.
+Aは、USのBreaks/BreakbeatプロデューサーDJ Iceyによるremix。
 
-AA1 es un remix del pionero de Ghettotech, DJ Assault. AA2 es un remix de DJ Godfather de Detroit.
+AA1は、GhettotechのパイオニアDJ Assaultによるremix。AA2は、デトロイト出身のDJ Godfatherによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Dr. Motte & WestBam – Love Parade 2000 (One World One Love Parade) (DJ Icey Mix)
 
@@ -29,7 +29,7 @@ AA1. WestBam – Hard Times (DJ Assault Remix)
 AA2. WestBam – Love Bass (DJ Godfather Detroit Ghetto Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47627276518?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47627276518?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIgW3I8_K8I?si=f_RbYW_MkTSfx2xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,14 +9,14 @@ tags:
 - Noise
 - Progressive
 - Rock
-title: Zeni Geva – 10000 años luz
+title: Zeni Geva – 10000 Light Years
 ---
 
 
-"Zeni Geva – 10.000 años luz" es
-Promoción del álbum grabada en Chicago Electrical Audio en octubre de 2000.
+「Zeni Geva – 10000 Light Years」は、
+2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. 10,000 Light Years
 2. Implosion
@@ -28,7 +28,7 @@ Promoción del álbum grabada en Chicago Electrical Audio en octubre de 2000.
 8. Auto-Fuck
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

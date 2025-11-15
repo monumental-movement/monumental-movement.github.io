@@ -8,19 +8,19 @@ layout: post
 tags:
 - House
 - Euro Beat
-title: ¡Quebrar! – Cult Of Snap (Mezcla de poder mundial)
+title: Snap! – Cult Of Snap (World Power Mix)
 ---
 
 
-"¡Snap! - Cult Of Snap (World Power Mix)" es una canción de Snap! ¡Quebrar! es un grupo alemán de eurodance activo en las décadas de 1980 y 1990, conocido por éxitos como "The Power" y "Rhythm Is a Dancer". "Cult Of Snap (World Power Mix)" presenta un sonido pegadizo y energía pop.
+「Snap! – Cult Of Snap (World Power Mix)」は、Snap!による曲です。Snap!は1980年代と1990年代に活躍したドイツのユーロダンスグループであり、ヒット曲「The Power」や「Rhythm Is a Dancer」などで知られています。「Cult Of Snap (World Power Mix)」は、キャッチーなサウンドとポップなエネルギーが特徴です。
 
-"Cult Of Snap (World Power Mix)" es una de las canciones más populares de Snap! y es familiar para los fanáticos de la música dance y los amantes de la música pop.
+「Cult Of Snap (World Power Mix)」は、Snap!の人気曲の一つでありダンスミュージックファンやポップミュージック愛好家にとってはお馴染みの曲です。
 
-Combinando elementos de la música pop y la música dance, no sólo hace bailar a los oyentes, sino que también proporciona una experiencia musical agradable.
+ポップミュージックとダンスミュージックの要素を融合させ、聴く人を踊らせるだけでなく、楽しい音楽体験を提供します。
 
-Como puede ver en el texto y el título de la canción, ¡Snap! Se trata de construir una especie de "culto" o comunidad de fans, y este significado se refleja a lo largo de la canción.
+曲のテキストやタイトルからもわかるように、Snap!は一種の「カルト」やファンのコミュニティを築くことをテーマにしており曲全体にその意味が反映されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Cult Of Snap (World Power Mix)
 
@@ -29,7 +29,7 @@ B1  Cult Of Snap (Ibiza '90 Mix)
 B2  Cult Of Snap (Album Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38660958622?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38660958622?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Emd5K8Sphu4?si=ilFz7NV-QPv3dDRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

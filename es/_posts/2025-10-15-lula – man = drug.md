@@ -9,15 +9,15 @@ tags:
 - Hard House
 - Tribal House
 - 90s
-title: Lula – Hombre = Droga
+title: Lula – Man = Drug
 ---
 
 
-Lula (Claudia Radbauer) es una productora austriaca de house/house/minimal progresivo.
+Lula ( Claudia Radbauer )は、オーストリア出身のProgressive house/house/minimalプロデューサー。
 
-"Man = Drug" es una canción de Hard House/Tribal House lanzada por el sello Star 69 Records en 1999. El productor es Peter Rauhofer.
+「Man = Drug 」は、1999年にレーベルStar 69 RecordsからリリースされたHard House / Tribal House。プロデューサーはPeter Rauhofer。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Man = Drug (Toxic Mix)
 
@@ -25,7 +25,7 @@ B1. Man = Drug (Friburn & Urik Remix)
 B2. Man = Drug (Lulapella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m42486910464?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42486910464?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwTqljp8kXs?si=5TfdxByJ5_dDGyE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

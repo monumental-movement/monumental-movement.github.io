@@ -9,15 +9,15 @@ tags:
 - JPop
 - Pops
 - 80s
-title: Rebecca - Hippies baratos
+title: Rebecca – Cheap Hippies
 ---
 
 
-"CHEAP HIPPIES" es el tercer sencillo de 12 pulgadas de Rebecca lanzado en 1987.
+「CHEAP HIPPIES（チープ ヒッピーズ）」は、1987年にリリースされたレベッカの３枚目の12インチ・シングル。
 
-El remix es de Francois Kevorkian (Francois K), quien ha estado activo en la escena de la música dance desde finales de los años 1970.
+remixは、1970年代後半からダンス・ミュージック・シーンで活躍するFrancois Kevorkian（フランソワ・ケヴォーキアン（Francois K / フランソワK））。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Cheap Hippies (Extended Dance Remix)
 
@@ -25,7 +25,7 @@ B. When A Woman Loves A Man (Extended Dance Remix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51108809980?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51108809980?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P90MxW5lrnc?si=XLY_dcejJ3EnRyiC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

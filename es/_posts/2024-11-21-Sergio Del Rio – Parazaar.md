@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - 00s
-title: Sergio Del Río – Parazaar
+title: Sergio Del Rio – Parazaar
 ---
 
 
-Sergio Del Rio es un DJ y productor de Italia. También trabaja bajo los nombres de DJ Power, Ethnosonique, Gambafreaks, etc.
+Sergio Del Rioはイタリア出身のDJ・プロデューサー。DJ Power、Ethnosonique、Gambafreaksなどの名義でも活動している。
 
-"Parazaar" es un tema house lanzado en 2003 por la división de especialidad house del sello español Vale Music.
+「Parazaar」は、スペインのレーベルVale Musicのハウス専門部門から2003年リリースされたハウストラック。
 
-El primer tema de la cara A es un remix del productor italiano Fedo.
+A面1曲目はイタリアのプロデューサーFedoのremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Parazaar (Gambafreaks Vs. Fedo Mix)
 A2. Parazaar (Gambafreaks Vs Mark C. Mix)
@@ -26,7 +26,7 @@ A2. Parazaar (Gambafreaks Vs Mark C. Mix)
 B. Parazaar (Gambafreaks Porno Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73303154615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73303154615?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/evXACA9DZ1I?si=s2ij6TEsV8JBTX8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

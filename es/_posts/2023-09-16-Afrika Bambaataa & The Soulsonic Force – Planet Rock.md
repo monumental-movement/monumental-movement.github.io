@@ -9,19 +9,19 @@ tags:
 - Hiphop
 - Funk
 - 80s
-title: Afrika Bambaataa y La Fuerza Soulsonic – Planet Rock
+title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 ---
 
 
-Una canción del artista estadounidense de hip-hop Afrika Bambaataa y su banda The Soulsonic Force, lanzada en 1982.
+アメリカのヒップホップアーティスト、Afrika Bambaataaと彼のバンドThe Soulsonic Forceによる楽曲で、1982年にリリースされました。
 
-Se la conoce como una canción pionera que combina elementos de la música electrónica, funk y hip-hop. La canción presenta un riff de sintetizador y una muestra vocal únicos, y su sonido innovador tuvo una gran influencia en la evolución del hip-hop y la música dance.
+エレクトロニックミュージック、ファンク、ヒップホップの要素を融合させた先駆的な楽曲として知られています。この曲は、独特のシンセサイザーのリフとボーカルサンプルを特徴としており、その革新的なサウンドはヒップホップやダンスミュージックの進化に大きな影響を与えました。
 
-Ganó gran popularidad con el auge del breakdance y la cultura callejera y es reconocido como un clásico del hip-hop. La canción también ha sido muestreada y reinterpretada por numerosos artistas y productores, influyendo en canciones de una variedad de géneros.
+ブレイクダンスやストリートカルチャーの隆盛とともに大きな人気を博しヒップホップのクラシックとして認識されています。また、この曲はサンプリングの対象となり、数々のアーティストやプロデューサーによって再解釈され、さまざまなジャンルの楽曲に影響を与えました。
 
-'Planet Rock' es ampliamente aclamado como el trabajo característico de Afrika Bambaataa y The Soulsonic Force, cuyo sonido innovador y enfoque pionero ocupan un lugar importante en la historia del hip-hop y la música dance.
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Planet Rock (Vocal)
 
@@ -30,7 +30,7 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

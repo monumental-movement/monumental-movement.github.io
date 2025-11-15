@@ -9,13 +9,13 @@ tags:
 - JPop
 - Pops
 - 80s
-title: Rebeca – Remix Rebeca
+title: Rebecca – Remix Rebecca
 ---
 
 
-Cinta de casete original "Remix Rebecca" de Rebecca lanzada por Fitzbeat en 1987. Este es el primer álbum de remezclas de Rebecca y su mejor álbum. Fue un gran éxito, alcanzando el puesto 11 en las listas de Oricon en 1987.
+1987年にFitzbeatからリリースされたRebecca(レベッカ)の「Remix Rebecca」オリジナルカセットテープ。Rebecca としては初めてのリミックス盤でありベスト盤。オリコンチャートで1987年度年間11位になるなど大ヒットとなった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Raspberry Dream
 A2. 76th Star
@@ -30,7 +30,7 @@ B4. Friends
 B5. When A Woman Loves A Man
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47696306553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47696306553?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bzkrMwYXCSI?si=LIHoJwU9-w_pHOu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

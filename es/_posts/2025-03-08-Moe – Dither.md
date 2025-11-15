@@ -10,16 +10,16 @@ tags:
 - Psychedelic Rock
 - Rock
 - 00s
-title: Moe. – Tramado
+title: Moe. – Dither
 ---
 
 
-Moe es una banda estadounidense de jam rock formada en la Universidad de Buffalo en 1989.
+Moe は、1989年にバッファロー大学で結成されたアメリカのジャムロックバンド。
 
-"Dither" es el quinto álbum de estudio de moe. Fue lanzado en 2001 en el propio sello de la banda, Fatboy Records, y cuenta con DJ Logic, Kirk Juhas y los hermanos Nykw-ILL.
+「Dither」は、moeの5枚目のスタジオアルバム。2001年にバンド自身のレーベルFatboy Recordsからリリースされ、DJ Logic、Kirk Juhas、Nykw-ILL brosが参加している。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Captain America
 2. Faker
@@ -37,7 +37,7 @@ Moe es una banda estadounidense de jam rock formada en la Universidad de Buffalo
 12.3. Captain America Remix
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

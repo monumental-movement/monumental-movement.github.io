@@ -8,15 +8,15 @@ layout: post
 tags:
 - Soul
 - Disco
-title: Pasaje – Pasaje
+title: Passage – Passage
 ---
 
 
-Passage es un proyecto en solitario de Louis Johnson, el bajista de la banda estadounidense de soul/funk/jazz/disco Brothers Johnson.
+Passage（パッセージ ）は、アメリカのソウル/ファンク/ジャズ/ディスコバンドBrothers Johnson（ブラザーズ・ジョンソン）のベーシスト、Louis Johnson（ルイス・ジョンソン）によるソロプロジェクト。
 
-Un trío que incluye a la ex esposa de Louis, Valerie Johnson, y al ex percusionista y cantante de los Brothers Johnson, Richard Heath.
+ルイの元妻Valerie Johnson（ヴァレリー・ジョンソン）と元ブラザーズ・ジョンソンのパーカッショニスト兼シンガーのRichard Heath（リチャード・ヒース）を含むトリオ・グループ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Have You Heard The Word
 
@@ -37,7 +37,7 @@ B3. Love Eyes
 B4. The Son Will Come Again
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

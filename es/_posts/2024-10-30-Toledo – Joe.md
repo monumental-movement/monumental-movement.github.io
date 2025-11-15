@@ -9,16 +9,16 @@ tags:
 - House
 - Acid Jazz
 - 90s
-title: Toledo-Joe
+title: Toledo – Joe
 ---
 
 
-Tema house acid jazz de Toledo (Toledo Diamond). El productor es Danny Sabre, ex miembro de Black Grape.
+Toledo (Toledo Diamond)によるハウス・アシッドジャズトラック。プロデューサーは、Black Grape (ブラックグレープ )の元メンバーDanny Saber。
 
-Fue lanzado en 1994 por el sello independiente estadounidense Moonshine Music.
+1994年にUSのインディペンデントレーベルMoonshine Musicからリリースされた。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -26,4 +26,4 @@ B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}

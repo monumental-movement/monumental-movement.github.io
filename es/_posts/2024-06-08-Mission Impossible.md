@@ -10,15 +10,15 @@ tags:
 - Movie
 - Film
 - 90s
-title: 'Adam Clayton y Larry Mullen – Tema de Misión: Imposible'
+title: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
 ---
 
 
-Cinta de casete del tema principal de la película "Misión: Imposible" de los miembros de U2 Adam Clayton y Larry Mullen, lanzada en 1996.
+1996年にリリースされた、U2のメンバーAdam Clayton（アダム クレイトン）とLarry Mullen（ラリー マレン ）による映画「ミッション: インポッシブル」の テーマ曲カセットテープ。
 
-La cara B es un remix del DJ house estadounidense Junior Vasquez.
+B面はUSのハウスDJ Junior Vasquez（ジュニア・ヴァスケス）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Theme From Mission: Impossible
 A2. Mission: Impossible Theme (Mission Accomplished)
@@ -26,7 +26,7 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

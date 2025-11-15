@@ -9,134 +9,133 @@ tags:
 - Minimal
 - Ambient
 - Field Recording
-title: '[Columna] Andy Goldsworthy y la música: resonancia artística en torno al tiempo
-  y la naturaleza'
+title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 ---
 
 
-## Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza
+## Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 
-Texto: mmr｜Tema: Las obras de Andy Goldsworthy y la resonancia sonora del ambiente, la grabación de campo y la música minimalista.
+文：mmr｜テーマ：Andy Goldsworthyの作品とアンビエントやフィールド録音、ミニマル・ミュージックがもつ音の共鳴性について
 
-Andy Goldsworthy (1956-) es un artista británico conocido por sus instalaciones y land art utilizando materiales naturales. Su trabajo se centra en elementos como el paso del tiempo, los cambios de materiales y los ciclos de la naturaleza. Su enfoque tiene mucho en común con la música, especialmente con la música ambiental, la grabación de campo y la música minimalista.
+アンディー・ゴールズワージー（Andy Goldsworthy, 1956-）は、自然素材を用いたインスタレーションやランド・アートで知られるイギリスのアーティスト。彼の作品は時間の流れ、素材の変化、自然の循環といった要素をテーマにしている。そのアプローチは音楽――特にアンビエントやフィールドレコーディング、ミニマル・ミュージック――と多くの共通点を持っている。
 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### Puntos en común entre el trabajo y la música de Goldsworthy
+### Goldsworthyの作品と音楽の共通性
 
-| Temas | Las obras de Goldsworthy | Similitudes con la música |
+| テーマ | Goldsworthyの作品 | 音楽との共通点 |
 |--------|----------------|----------------|
-| **Tiempo** | Obras basadas en la premisa de cambios como hielo, hojas, ramas, etc. derritiéndose o marchitándose | Sentido musical del tiempo mediante cambios de fase y bucles (por ejemplo, Steve Reich) |
-| **Ubicación** | Las obras son inseparables del entorno natural donde se crean | Música que capta los "sonidos del lugar" a través de grabaciones de campo |
-| **Transiencia** | Obras que colapsan por el viento, la lluvia y la luz solar | Reverberaciones que desaparecen y desvanecimientos de sonidos sostenidos |
-| **Ciclo** | Destaca los ciclos de las estaciones y los fenómenos naturales | Sentido cíclico del tiempo a través de drones y estructuras repetitivas |
-| **Silencio** | La importancia del espacio y el intervalo | La presencia del "silencio" en John Cage y las obras ambientales |
+| **時間** | 氷、葉、枝などが溶けたり枯れたりする変化を前提にした作品 | フェーズシフトやループによる音楽的時間感覚（例：スティーヴ・ライヒ） |
+| **場所** | 作品は制作場所の自然環境と不可分 | フィールド録音による「その場の音」を取り込む音楽 |
+| **儚さ** | 風、雨、日差しによって崩壊する作品 | 消えゆく残響や持続音のフェードアウト |
+| **循環** | 季節や自然現象のサイクルを強調 | ドローンや反復構造による循環的時間感覚 |
+| **沈黙** | 空間や間合いの重要性 | ジョン・ケージやアンビエント作品における「無音」の存在 |
 
 ---
 
-### Obras/proyectos representativos de Goldsworthy
+### Goldsworthyの代表的な作品・プロジェクト
 
-- **Serie Bola de Nieve**: Se coloca una enorme bola de nieve en una ciudad y se muestra a medida que se derrite con el tiempo.
-- **Icicle Star**: Un trozo de hielo que se ensambla en forma de estrella y se derrite al amanecer.
-- **Stone River (1997)**: Un muro de piedra serpenteante instalado en la Universidad de Stanford en Estados Unidos.
-- **Hojas y agujero de serbal**: Una obra en la que hojas rojas están dispuestas en círculo y flotan en la superficie del agua.
-- **Storm King Wall (1997–98)**: Un largo muro de piedra serpenteante en el Storm King Art Center de Nueva York.
-
----
-
-### Escrito por Goldsworthy
-
-- ["Una colaboración con la naturaleza" (1990)](https://amzn.to/48qQfVp)
-- ["Mano a la Tierra" (1990)](https://amzn.to/46r497l)
-- ["Piedra" (1994)](https://amzn.to/4n83E9l)
-- ["Tiempo" (2000)](https://amzn.to/3VYNbs4)
-- ["Madera" (1996)](https://amzn.to/4pwJ04e)
-- ["Muro" (2000)](https://amzn.to/4mmHTBm)
-- ["Arco" (1999)](https://amzn.to/4nmEsvO)
-- ["Andy Goldsworthy: Proyectos" (2004)](https://amzn.to/3IjjtLo)
+- **Snowball Series**: 都市に巨大な雪玉を設置し、時間と共に溶けていく様子を展示。
+- **Icicle Star**: 氷片を星形に組み上げ、日の出で融解する作品。
+- **Stone River (1997)**: アメリカ・スタンフォード大学に設置された石の蛇行する壁。
+- **Rowan Leaves and Hole**: 赤い葉を円形に配置し、水面に浮かべる作品。
+- **Storm King Wall (1997–98)**: ニューヨークのストーム・キング・アートセンターにある長大な蛇行石壁。
 
 ---
 
-### Lista de reproducción de música (por género) que coincide con las obras de Goldsworthy
+### Goldsworthyの著書
 
-#### Ambiente
-
-- Brian Eno ― *Ambiente 1: Música para aeropuertos*
-- Harold Budd - *La Perla*
-- Estrellas de la tapa ― *Y su refinamiento del declive*
-
-#### Grabación de campo
-
-- Chris Watson ― *Informe meteorológico*
-- Jana Winderen ― *Campo de energía*
-- Hildegard Westerkamp - *En el laberinto*
-
-#### Mínimo
-
-- Steve Reich ― *Música para 18 músicos*
-- Terry Riley ― *En C*
-- Philip Glass - *Vidriería*
+- [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
+- [『Hand to Earth』 (1990)](https://amzn.to/46r497l)
+- [『Stone』 (1994)](https://amzn.to/4n83E9l)
+- [『Time』 (2000)](https://amzn.to/3VYNbs4)
+- [『Wood』 (1996)](https://amzn.to/4pwJ04e)
+- [『Wall』 (2000)](https://amzn.to/4mmHTBm)
+- [『Arch』 (1999)](https://amzn.to/4nmEsvO)
+- [『Andy Goldsworthy: Projects』 (2004)](https://amzn.to/3IjjtLo)
 
 ---
 
-### Lista de reproducción organizada según el "flujo del tiempo"
+### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
 
-#### mañana
+#### アンビエント
 
-- Brian Eno ― *Ambiente 1: Música para aeropuertos*
-- Chris Watson ― *Mañana en el río*
-- Steve Reich ― *Música para 18 músicos*
+- Brian Eno ― *Ambient 1: Music for Airports*
+- Harold Budd ― *The Pearl*
+- Stars of the Lid ― *And Their Refinement of the Decline*
 
-#### mediodía
+#### フィールド録音
 
-- Terry Riley ― *En C*
-- Jana Winderen ― *Campo de energía*
-- Philip Glass - *Vidriería*
+- Chris Watson ― *Weather Report*
+- Jana Winderen ― *Energy Field*
+- Hildegard Westerkamp ― *Into the Labyrinth*
 
-#### noche
+#### ミニマル
 
-- Harold Budd y Brian Eno - *La Perla*
+- Steve Reich ― *Music for 18 Musicians*
+- Terry Riley ― *In C*
+- Philip Glass ― *Glassworks*
+
+---
+
+###  「時間の流れ」に沿った構成プレイリスト
+
+#### 朝
+
+- Brian Eno ― *Ambient 1: Music for Airports*
+- Chris Watson ― *Morning at the River*
+- Steve Reich ― *Music for 18 Musicians*
+
+#### 昼
+
+- Terry Riley ― *In C*
+- Jana Winderen ― *Energy Field*
+- Philip Glass ― *Glassworks*
+
+#### 夕方
+
+- Harold Budd & Brian Eno ― *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
-- Estrellas de la Tapa - *Réquiem por las Madres Moribundas*
+- Stars of the Lid ― *Requiem for Dying Mothers*
 
-#### noche
+#### 夜
 
-- William Basinski - *Los bucles de desintegración*
-- Eliane Radigue - *Trilogía de la muerte*
-- Biosfera ― *Sustratos*
+- William Basinski ― *The Disintegration Loops*
+- Eliane Radigue ― *Trilogie de la Mort*
+- Biosphere ― *Substrata*
 
-### Flujo estacional
+### 季節の流れ
 
-- Primavera: Ryuichi Sakamoto - *Async*
-- Verano: Chris Watson ― *Informe meteorológico*
-- Otoño: Johann Johannsson - *Orphée*
-- Invierno: Alva Noto y Ryuichi Sakamoto - *Vrion*
-
----
-
-### Conclusión
-
-Las obras de Andy Goldsworthy tienen una cualidad "única en el tiempo" que cambia y desaparece con el tiempo y la naturaleza. Su estética resuena fuertemente con el "ambiente", la "repetición" y el "silencio" del ambiente, la grabación de campo y la música minimalista. Al experimentar los dos en combinación, nace un "diálogo con la naturaleza" que cruza los sentidos visuales y auditivos.
+- 春：Ryuichi Sakamoto ― *Async*
+- 夏：Chris Watson ― *Weather Report*
+- 秋：Johann Johannsson ― *Orphée*
+- 冬：Alva Noto & Ryuichi Sakamoto ― *Vrioon*
 
 ---
 
-### Columnas relacionadas
+### 結論
 
-[[Columna] ¿Qué es la música ambiental? Una filosofía de "sonidos que existen" en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+アンディー・ゴールズワージーの作品は、時間や自然とともに変化し消えていく「一回性」を宿している。その美学は、アンビエントやフィールド録音、ミニマル・ミュージックがもつ音の「環境性」「反復」「沈黙」と強く共鳴する。両者を組み合わせて体験することで、視覚と聴覚を横断する「自然との対話」が生まれる。
 
-[[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
+---
+
+### 関連コラム
+
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

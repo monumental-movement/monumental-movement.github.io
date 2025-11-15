@@ -8,22 +8,22 @@ layout: post
 tags:
 - Trance
 - Hard Trance
-title: Puerta Cósmica – Seres Humanos
+title: Cosmic Gate – Human Beings
 ---
 
 
-"Puerta Cósmica – Seres Humanos"
-La cara B es un remix de G&M (Robert Gitelman & Jaron Martinez), un grupo de trance muy conocido en la escena dance europea de principios de la década de 2000.
+「Cosmic Gate – Human Beings」の
+B面は2000年代初頭のヨーロッパダンスシーンでよく知られたトランスアクトG&M（Robert Gitelman & Jaron Martinez）によるremix。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Human Beings (Extended Mix)
 
 B1 Human Beings (G&M Project Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m58263086044?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58263086044?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YKPCbNBUTU?si=orDQep2j5CgtGkhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,15 +8,15 @@ layout: post
 tags:
 - Happy Hardcore
 - Trance
-title: Scooter – Llámame mañana
+title: Scooter – Call Me Mañana
 ---
 
 
-Scooter es una banda de música techno rave feliz fundada en Hamburgo, Alemania, en 1993.
+Scooter（スクーター）は、1993年にドイツ・ハンブルクで設立されたハッピーハードコア・レイブ・テクノ・ミュージックバンド。
 
-"Call Me Mañana" es un sencillo del álbum de 1998 No Time to Chill y es una muestra del sencillo de 1991 de L.A. Style "James Brown Is Dead".
+「Call Me Mañana」は、1998年のアルバム『No Time to Chill（ノー・タイム・トゥ・チル）』からのシングルカットで、L.A. Styleの 1991 年のシングル「James Brown Is Dead」からのサンプル。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Call Me Mañana (Heavy Horses Extended)
 
@@ -25,7 +25,7 @@ B1. Bramfeld
 B2. Call Me Mañana (Heavy Horses Radio)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

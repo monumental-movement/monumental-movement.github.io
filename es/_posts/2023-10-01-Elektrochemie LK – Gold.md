@@ -8,15 +8,15 @@ layout: post
 tags:
 - Techno
 - German Techno
-title: Electroquímica LK – ¡Oro!
+title: Elektrochemie LK – Gold!
 ---
 
 
-"¡Oro!" de Elektrochemie LK fue lanzado por el sello alemán Confused Recordings en 2001.
+Elektrochemie LKによる「Gold!」は、2001年にドイツのレーベルConfused Recordingsからりりースされました。
 
-Elektrochemie LK es uno de los proyectos en solitario de Thomas Schumacher.
+Elektrochemie LKは、Thomas Schumacher （トーマス・シューマッハ）のソロプロジェクトの一つです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Schall (Album Version)
 
@@ -39,7 +39,7 @@ F1. En Route To Narita
 F2. Ein Nenner
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

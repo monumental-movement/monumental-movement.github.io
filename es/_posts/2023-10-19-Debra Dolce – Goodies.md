@@ -8,22 +8,22 @@ layout: post
 tags:
 - House
 - Electro
-title: Debra Dolce – Golosinas
+title: Debra Dolce – Goodies
 ---
 
 
-"Golosinas" es
-Este es un EP de Debra Dolce lanzado en 2008 por el sello "Coco Machete Records".
+「Goodies」は、
+2008年にレーベル「Coco Machete Records」からリリースされたDebra DolceによるEPです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Goodies (Zero Cash Remix)
 
 B. Goodies (ZC's Dolce Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11056580710?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11056580710?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sz7ZP44i3c8?si=rVdTkVpmKwbq9Egn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

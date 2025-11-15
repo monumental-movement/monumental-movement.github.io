@@ -12,11 +12,11 @@ title: Cristian Vogel – Whipaspank
 ---
 
 
-Christian Vogel (nacido en 1972 en Santiago, Chile) es un músico electrónico experimental que comenzó a componer música electrónica con Cabbage Head Collective a finales de los 80.
+クリスチャン・ヴォーゲル（1972年生まれ、チリ・サンティアゴ出身）は、1980年代後半にCabbage Head Collectiveと共に電子音楽の作曲を始めた実験的な電子音楽家です。
 
-Asistió a la Universidad de Sussex, donde estudió con Martin Butler (compositor) y Jonathan Harvey (compositor), donde se licenció en música del siglo XX. Miembro fundador del No Future Collective, activo en Brighton a mediados de los años 1990.
+彼はマーティン・バトラー（作曲家）とジョナサン・ハーヴェイ（作曲家）の指導を受けてサセックス大学に通い、20世紀の音楽の学位を取得しました。ノー・フューチャー・コレクティブの創設メンバーで、1990年代中頃にブライトンで活動していました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Whipaspank
 
@@ -25,7 +25,7 @@ A2. Whipaspank (Cylob Mix)
 B. Whipaspank (Tube Jerk Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m66139600515?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66139600515?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZHuJouuxi4U?si=Pw2pQz8iiPORegp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

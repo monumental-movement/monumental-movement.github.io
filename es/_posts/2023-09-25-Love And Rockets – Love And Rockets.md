@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - Goth
-title: Amor y cohetes – Amor y cohetes
+title: Love And Rockets – Love And Rockets
 ---
 
 
-Love And Rockets - Love And Rockets es un álbum homónimo de la banda británica de rock alternativo Love And Rockets. Love and Rockets fue formada por los ex miembros de la Bauhaus Daniel Asch, David Jay y Kevin Haskins.
+「Love And Rockets - Love And Rockets」は、イギリスのオルタナティブロックバンドであるラヴ・アンド・ロケッツによるセルフタイトルのアルバムです。ラヴ・アンド・ロケッツは、元バウハウスのメンバーであるダニエル・アシュ、デヴィッド・ジェイ、およびケヴィン・ハスキンスによって結成されました。
 
-Fue lanzado en 1989 y es conocido como el álbum debut de la banda. Su música incluye elementos de post-punk y rock gótico, pero también incorpora sonidos más pop y ritmos dance, y cuenta con el apoyo de una amplia gama de fanáticos de la música.
+1989年にリリースされ、バンドのデビューアルバムとして知られています。彼らの音楽はポストパンクやゴシックロックの要素を含みつつも、よりポップなサウンドやダンスビートを取り入れており、幅広い音楽ファンに支持されています。
 
-Este álbum incluye canciones como su tema característico "So Alive", y puedes sentir la atmósfera oscura y melancólica y las poderosas interpretaciones a lo largo del álbum.
+このアルバムには、代表曲である「So Alive」などが収録されておち、アルバム全体を通じてダークでメランコリックな雰囲気と力強い演奏が感じられます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. **** (Jungle Law)
 
@@ -41,7 +41,7 @@ B4. Rock And Roll Babylon
 B5. No Words No More
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bjn9RySbYE?si=6TC41-py4F68QGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

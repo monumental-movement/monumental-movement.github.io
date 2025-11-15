@@ -9,15 +9,15 @@ tags:
 - Hard Trance
 - Trance
 - 00s
-title: Club Crashers - ¡Diablos, sí!
+title: Club Crashers – Hell Yeah!
 ---
 
 
-Jochen Miller (Jochen van der Steijn / DJ Jochen), también conocido como Club Crashers, es un DJ y músico de los Países Bajos.
+Club CrashersことJochen Miller (Jochen van der Steijn / DJ Jochen) は、オランダ出身のDJ／ミュージシャン。
 
-"¡Diablos, sí!" es una canción de hard trance lanzada en el sello holandés Hard House/Hard Trance Patriot Hard-Beat en 2001.
+「Hell Yeah!」は、2001年にオランダのHard House/Hard TranceレーベルPatriott Hard-Beatからリリースされたハードトランス。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hell Yeah! (Central Seven Remix)
 
@@ -25,4 +25,4 @@ B1. Hell Yeah! (Club Mix)
 B2. Hell Yeah! (DJ Jochen Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}

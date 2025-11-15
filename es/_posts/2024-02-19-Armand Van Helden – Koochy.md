@@ -13,30 +13,30 @@ title: Armand Van Helden – Koochy
 ---
 
 
-"Koochy" fue lanzado en 2000 como el sencillo principal del cuarto álbum de estudio de Armand Van Helden, Killing Puritans (2000).
+「Koochy クーチィー」はArmand Van Helden（アーマンドヴァンヘルデン）の4枚目のスタジオ・アルバム『Killing Puritans  キリング・ピューリタンズ』（2000年）からのリード・シングルとして2000年にリリースされた。
 
-Amplia muestra del sencillo "Cars" de 1979 de Gary Numan.
+ Gary Numan（ゲイリーニューマン）の1979年のシングル「Cars カーズ」を多量にサンプリング。
 
-Armand Van Helden es DJ, productor discográfico, remezclador y compositor de Boston, Massachusetts, EE. UU.
+アーマンド・ヴァン・ヘルデンは、アメリカ合衆国マサチューセッツ州ボストン出身のDJ、レコードプロデューサー、リミキサー、ソングライターです。
 
-Nació el 16 de febrero de 1970 de padre de ascendencia holandesa e indonesia y madre de ascendencia francesa y libanesa.
+1970年2月16日に、オランダ人とインドネシア人の血を引く父親と、フランス人とレバノン人の血を引く母親のもとに生まれました。
 
-Debido a que su padre estaba en la Fuerza Aérea de los EE. UU., pasó su infancia viajando por todo el mundo, incluidos los Países Bajos, Letonia, Turquía e Italia.
+父親がアメリカ空軍に所属していたため、幼少期はオランダ、ラトビア、トルコ、イタリアなど世界各地を転々としていました。
 
-Compró una caja de ritmos a la edad de 13 años y comenzó a pinchar dos años después.
+13歳でドラムマシンを買い、2年後にはDJ活動をスタートさせています。
 
-Con una carrera que abarca más de 30 años, es conocido como un incondicional en el mundo de la música house.
+彼は、30年以上にわたるキャリアを持ち、ハウスミュージック界の重鎮として知られています。
 
-Los sencillos más conocidos de Van Helden son "You Don't Know Me", "I Want Your Soul", "My My My" (con Tara McDonald) y "Bonkers" (con Dizzee Rascal). Ambas canciones alcanzaron el número uno en las listas de baile del Reino Unido y alcanzaron el puesto número dos en las listas de baile de Billboard.
+ヴァン・ヘルデンが最も知られるシングルは、「You Don't Know Me」、「I Want Your Soul」、「My My My」(タラ・マクドナルド featuring)、そして「Bonkers」(ディジー・ラスカル featuring)です。いずれの曲もイギリスのダンスチャートで1位を獲得し、ビルボードのダンスチャートでも最高2位にランクインしました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Koochy
 
 B. Phreeknik
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lT80CycPIRo?si=Te_ve8K0T83EBZPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

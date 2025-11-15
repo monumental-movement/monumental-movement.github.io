@@ -9,19 +9,19 @@ tags:
 - Breakbeat
 - Downtempo
 - Big Beat
-title: Stereo De Luxe – Salsa De Alma
+title: Stereo De Luxe – Soul Sauce
 ---
 
 
-Stereo de Luxe es un dúo de DJ y productores de Berlín.
+Stereo de Luxeは、ベルリン出身のDJ・プロデューサーデュオ。
 
-Fundada originalmente en 1994 por Karsten "Kassi" Wolf, un DJ solista bajo el nombre artístico Stereo de Luxe, la banda estuvo activa en las escenas lounge, easy listening y club pop de Berlín.
+元々は1994年にStereo de Luxeという芸名でソロDJとして活動していたKarsten "Kassi" Wolfによって設立され、ベルリンのラウンジ、イージーリスニング、クラブポップシーンで活躍した。
 
-Formó un dúo con Thomas Mävers en 1998. Los estilos musicales cambiaron hacia el breakbeat, el house y el electro-funk. Su primer EP como dúo, "Aerocyclette 1999", fue lanzado en el sello Bungalow Records.
+1998年にThomas Mäversとデュオを結成。音楽スタイルがブレイクビート、ハウス、エレクトロファンクにシフトした。デュオとしてのファーストEP「Aerocyclette 1999 」はレーベルBungalow Recordsからリリースされた。
 
-"Soul Sauce" es una pista de gran ritmo breakbeat downtempo lanzada en 2000 por Bungalow Records.
+「Soul Sauce」は同じくBungalow Recordsから2000年にリリースされたブレイクビーツ・ダウンテンポ・ビッグビートトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Soul Sauce
 
@@ -32,7 +32,7 @@ B2. Riddle Me This
 Featuring – MC Olli Goolightly As The Riddler
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

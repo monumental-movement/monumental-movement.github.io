@@ -9,15 +9,15 @@ tags:
 - House
 - Deep House
 - 00s
-title: Kaskade – Todo
+title: Kaskade – Everything
 ---
 
 
-Ryan Gary Raddon, también conocido como Kaskade, es un DJ, productor y remezclador estadounidense. Kaskade fue nombrado Mejor DJ de Estados Unidos por DJ Times en 2011 y 2013, y ocupó el puesto 51 en la lista de los 100 mejores DJ de 2009 de DJ Mag.
+KaskadeことRyan Gary Raddon(ライアン・ゲイリー・ラドン)は、USのDJ・プロデューサー・リミキサー。Kaskadeは、2011年と2013年にDJ TimesのAmerica's Best DJに、DJ Magでは2009年Top100のDJリストで51位に選ばれている。
 
-Everything es un tema de deep house lanzado en 2005 por el sello OM Records de San Francisco.
+Everythingは2005年にサンフランシスコのレーベルOM Recordsからリリースされたハウス・ディープハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Everything (Kaskade's Big Room Mix)
 A2. Everything (Original Extended Mix)
@@ -26,7 +26,7 @@ B1. I Like The Way (Original Extended Mix)
 B2. I Like The Way (Troydon Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34772328615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34772328615?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg9t_kdj3iE?si=P5VO3omd1SODcrup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,13 +8,13 @@ layout: post
 tags:
 - Rock
 - Hard Rock
-title: Grand Funk – Lo mejor del Grand Funk
+title: Grand Funk – The Best Of Grand Funk
 ---
 
 
-Grand Funk Railroad (GFR) es una banda estadounidense de hard rock. Los miembros principales son Mark Furner, Mel Thatcher y Don Brewer.
+グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Sin's A Goodman's Brother
 
@@ -37,5 +37,5 @@ B5. Got This Thing On The Move
 B6. Inside Lookin' Out
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
 

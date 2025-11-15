@@ -9,24 +9,24 @@ tags:
 - House
 - Rave
 - 00s
-title: Kinka – Oración / Burnin'
+title: Kinka – Prayer / Burnin'
 ---
 
 
-Takaya Hayakawa, también conocido como Kinka, ha sido DJ, compositor de sonido, organizador y productor musical desde finales de los años 1980. Kinka también está activa como la unidad KEY OF KNOWLEDGE con ZEEKO, y las unidades MONKA y acca con JUZU, también conocido como MOOCHY.
+KinkaことTakaya Hayakawaは、80年代後半からDJ・サウンドコンポーザー・オーガナイザー・楽曲製作者。Kinka は、ZEEKOとのユニットKEY OF KNOWLEDGE、JUZU a.k.a. MOOCHYとのユニットMONKAやaccaとしても活動している。
 
-"Prayer/Burnin'" es un sencillo del primer álbum en solitario de Kinka, "BEADS", lanzado en 2006 en el sello de baile japonés Rudiments.
+「Prayer/Burnin'」は、2006年に日本のダンスレーベルRudimentsからリリースされたKinkaのファーストソロアルバム「BEADS」からのシングルカット。
 
-La cara A "Prayer" presenta a UNDERSTARS a.k.a. NOV, y la cara B "Burnin'" presenta al guitarrista LUI de la unidad de doblaje japonesa DUBSENSEMANIA.
+A面「Prayer」はUNDERSTARS a.k.a. NOVを、B面「 Burnin'」は日本のダブユニットDUBSENSEMANIA（ダブセンスマニア）のギタリストLUIをフィーチャリング。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Prayer feat. NOV
 
 B. Burnin' feat. LUI
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m26045027698?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26045027698?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvr5ESIrAjM?si=pD58cg-Lm6myaTgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

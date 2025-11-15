@@ -9,15 +9,15 @@ tags:
 - Reggae
 - Hiphop
 - 90s
-title: Círculo Interior – Rosas Negras
+title: Inner Circle – Black Roses
 ---
 
 
-Inner Circle, también conocida como The Inner Circle Band o The Bad Boys of Reggae, es una banda de reggae jamaicana formada en Kingston en 1968.
+Inner Circle(インナー・サークル)は、The Inner Circle Bandまたは The Bad Boys of Reggae(バッド・ボーイズ・オブ・レゲエ)としても知られ、1968年にキングストンで結成されたジャマイカのレゲエバンド。
 
-"Bad Boys", incluido en este CD, se convirtió en un éxito mundial y también es famoso como tema principal del programa de televisión estadounidense COPS.
+このCDに収録されている「Bad Boys(バッド・ボーイズ)」は世界的なヒットとなり、アメリカのテレビ番組COPS(全米警察24時 コップス)の主題歌としても有名。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Man Standing On The Corner
 2. One Vibe
@@ -30,7 +30,7 @@ Inner Circle, también conocida como The Inner Circle Band o The Bad Boys of Reg
 9. Picture On The Wall
 10. Bad Boys
 ```
-[Comprar en Mercari](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27200283979?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJzF7VO9oI4?si=UyEPv-UPdBpbUyX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

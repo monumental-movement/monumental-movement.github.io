@@ -8,22 +8,22 @@ layout: post
 tags:
 - House
 - Acid
-title: 'Problema con el lápiz óptico: esa pista ácida'
+title: Stylus Trouble –That Acid Track
 ---
 
 
-Stylus Trouble (Peter Kenneth Heller) es un DJ y productor del Reino Unido. También activo bajo el nombre de Pete Heller.
+Stylus Trouble（Peter Kenneth Heller）はUK出身のDJ / プロデューサー。Pete Heller（ピートヘラー）名義でも活動。
 
-"That Acid Track" fue lanzado en 2005 en su propio sello, Phela Recordings.
+「That Acid Track」は、自身が運営するレーベルPhela Recordingsから2005年にリリース。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A.  That Acid Track (Main Mix)
 
 B.  That Acid Track (Dub Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NzQ0_D-rlIQ?si=mb3xf729ThqSdmRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

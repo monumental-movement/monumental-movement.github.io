@@ -8,13 +8,13 @@ layout: post
 tags:
 - Hiphop
 - Mix
-title: Muro – Super Disco Breaks Volúmenes 1-4
+title: Muro – Super Disco Breaks Volumes 1-4
 ---
 
 
-Este es el mixtape "Super Disco Breaks Volumes 1-4" de Muro.
+Muroによるミックステープ「Super Disco Breaks Volumes 1-4」です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Side A. Super Disco Breaks Lesson 1
 
@@ -25,5 +25,5 @@ Side C. Super Disco Breaks Lesson 3
 Side D. Super Disco Breaks Lesson 4
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85258489919?afid=6142608987){: .button1}
 

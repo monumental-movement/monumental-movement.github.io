@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Deep House
-title: Mondo Grosso – Mariposa
+title: Mondo Grosso – Butterfly
 ---
 
 
-"Mondo Grosso – Butterfly" también cuenta con el apoyo de muchos oyentes como el EP de Shinichi Osawa.
+「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。
 
-"Butterfly" es una de las canciones que representa el estilo musical de Mondo Grosso, y es conocida por su sonido único que combina varios elementos musicales como la electrónica, house, jazz y R&B.
+「Butterfly」はMondo Grossoの音楽スタイルを代表する曲の一つで、エレクトロニック、ハウス、ジャズ、R&Bなど、さまざまな音楽要素を組み合わせた独自のサウンドで知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Butterfly (Main)
 
@@ -27,7 +27,7 @@ B1  Butterfly (Francois K Jazzy Vibe Mix)
 B2  Butterfly (Main Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70429035417?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70429035417?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lxSuz8WVb1c?si=8-w19ifOyku3R5cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

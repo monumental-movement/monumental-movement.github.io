@@ -8,14 +8,14 @@ layout: post
 tags:
 - Techno
 - Electro
-title: Insecto aplastado – La sangre amarilla
+title: Crushed Insect – The Yellow Blood
 ---
 
 
-"La sangre amarilla" es
-Este es un EP de Crushed Insect, un proyecto de Cari Lekebusch, cuyo nombre real es Kari Pekka Lekebusch, lanzado por el sello sueco "Audio Pollution" en 1996.
+「The Yellow Blood」は、
+1996年にスウェーデンのれーべる「Audio Pollution」からリリースされた本名Kari Pekka LekebuschことCari LekebuschによるプロジェクトCrushed InsectのEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Dead Serious Insects
 
@@ -24,7 +24,7 @@ B1. Beetle-Juice
 B2. Squash I
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m17439664895?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17439664895?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9mZyvnN9CE?si=38SLj3YO4onbyEBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

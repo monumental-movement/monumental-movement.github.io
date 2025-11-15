@@ -10,24 +10,24 @@ tags:
 - Tribal House
 - Tech House
 - 00s
-title: Peter Presta – Sensación
+title: Peter Presta – Sensation
 ---
 
 
-Peter Presta es un DJ, productor y remezclador de Brooklyn. Ha colaborado y remezclado con varios artistas, incluidos Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer y DJ Chus.
+Peter Prestaは、ブルックリン出身のDJ・プロデューサー、リミキサー。Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer ,DJ Chusなど、さまざまなアーティストとコラボしたり、remixを手がけている。
 
-"Sensation" es una pista de house progresivo/tribal house/tech house lanzada por Apple Jaxx Recordings en 2005.
+「Sensation」は、2005年にApple Jaxx Recordingsからリリースされたプログレッシブハウス・トライバルハウス・テックハウストラック。
 
-La cara B es un remix de Carlos Cardenales, también conocido como Little Carlos.
+B面はLittle Carlos ことCarlos Cardenalesによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Sensation
 
 B. Sensation (Little Carlos Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7-D2gM1eLk?si=OOpJDlwcdljSRXXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

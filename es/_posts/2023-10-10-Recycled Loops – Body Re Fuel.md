@@ -8,22 +8,22 @@ layout: post
 tags:
 - Techno
 - Tech House
-title: Bucles reciclados – Body Re Fuel
+title: Recycled Loops – Body Re Fuel
 ---
 
 
-Recycled Loops es un proyecto techno de Eslovenia de Umek y Valentino Kanzyani.
+Recycled Loopsは、Umek（ウメック）とValentino Kanzyani（ヴァレンチノ・カンジャニ）によるスロベニア発のテクノプロジェクト。
 
-"Body Re:Fuel" es el tercer trabajo de la serie Recyclopedia Eclectronica.
+「Body Re:Fuel」は、Recyclopedia Eclectronicaシリーズの３作目。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Body Re:Fuel (Recycled By Umek)
 
 B. Body Re:Fuel (Recycled By Valentino Kanzyani)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73344669027?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73344669027?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEuQ9i5_CbQ?si=nsTYh6GqfJlhwU1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,22 +9,22 @@ tags:
 - Hiphop
 - Deep House
 - 7inch
-title: Janet Jackson – Realmente no importa
+title: Janet Jackson – Doesn't Really Matter
 ---
 
 
-"Doesn't Really Matter" es el tema principal de la película de 2000 The Nutty Professor.
+「Doesn't Really Matter」は、2000年の映画『ナッティ・プロフェッサー2 クランプ家の面々』の主題歌。
 
-La canción fue escrita, compuesta y producida por Janet Jackson y el dúo de productores y compositores estadounidenses Jam & Lewis (Jimmy Jam y Terry Lewis).
+作詞作曲＆プロデュースは、Janet Jackson(ジャネット・ジャクソン)、US音楽プロデューサー＆ソングライター・デュオであるジャム&ルイス（Jam & Lewis/ジミー・ジャム (Jimmy Jam)とテリー・ルイス (Terry Lewis)の通称）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Doesn't Really Matter
 
 B. Doesn't Really Matter
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

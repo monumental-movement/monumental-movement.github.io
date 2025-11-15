@@ -9,17 +9,17 @@ tags:
 - Jazz
 - African
 - 70s
-title: Marca dólar – África antigua
+title: Dollar Brand – Ancient Africa
 ---
 
 
-Un álbum post-bop lanzado por el pianista y compositor sudafricano Abdullah Ibrahim, también conocido como Dollar Brand, en Trio Records en 1974.
+南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
 
-El álbum "Dollar Brand - Ancient Africa" ​​fue grabado en vivo en el Jazz-Hus Montmartre de Copenhague en junio de 1972.
+このアルバム 「ダラー・ブランド – 古代アフリカ」は、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
 
-Abdullah Ibrahim recibió la Orden del Sol Naciente en 2020 por contribuir a la amistad entre Japón y la República de Sudáfrica a través de la música.
+Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Aa. Bra Joe From Kilimanjaro
 
@@ -44,7 +44,7 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 

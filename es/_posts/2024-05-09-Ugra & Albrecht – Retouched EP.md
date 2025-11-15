@@ -9,24 +9,24 @@ tags:
 - House
 - Electro
 - Rare
-title: Ugra & Albrecht – EP retocado
+title: Ugra & Albrecht – Retouched EP
 ---
 
 
-Ugra & Albrecht es un proyecto de los DJ y productores de techno alemanes Sertac Ugra y Sören Albrecht.
+Ugra & Albrechtは、ドイツのテクノDJ＆プロデューサーのSertac UgraとSören Albrechtによるプロジェクト。
 
-"Retouched EP" es un tema house electro lanzado en 2006 en el sello alemán i220, fundado en 1995 por Corrado Izzo.
+「Retouched EP」は、Corrado Izzoによって1995年に設立されたドイツのレーベルi220から2006年にリリースされたハウス・エレクトロトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Retouched
 
 B. Schmetterball
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8TE0mDP6tc?si=o_WDtTJA5fq3pJS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RWv2m-4JdCE?si=dKoXOjRNq_OeYP2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

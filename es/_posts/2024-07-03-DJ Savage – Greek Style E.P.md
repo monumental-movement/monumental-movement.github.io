@@ -8,14 +8,14 @@ layout: post
 tags:
 - Techno
 - 00s
-title: DJ Savage – EP estilo griego
+title: DJ Savage – Greek Style E.P
 ---
 
 
-DJ Savage es un DJ y productor veterano de Grecia.
-"EP de estilo griego" es una pista de techno lanzada en 2001 en el sello británico Contrast, fundado por Marco Lenzi y Nils Hess.
+DJ Savageはギリシャ出身のベテランDJ・プロデューサー。
+「Greek Style E.P.」はMarco Lenzi と Nils Hess によって設立されましたUKのレーベルContrastから2001年にリリースされたテクノトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Havana 4am
 A2. No Pain
@@ -24,7 +24,7 @@ B1. Kontakt
 B2. Enough
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m10887242407?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10887242407?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3me8zxY-Bc?si=y6v7AkVNjeXlqLtu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

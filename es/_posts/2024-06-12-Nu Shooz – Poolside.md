@@ -14,11 +14,11 @@ title: Nu Shooz – Poolside
 ---
 
 
-Nu Shooz es un dúo de música pop, latina, freestyle y electrónica de baile con sede en Portland, Oregon, EE. UU., formado por el matrimonio John Smith y Valerie Day.
+Nu Shooz（ニューシューズ） は、アメリカ・オレゴン州ポートランドを拠点に活動するJohn Smith（ジョン・スミス）とValerie Day（ヴァレリー・デイ）夫婦のポップ、ラテン、フリースタイル、エレクトロニックダンス ミュージックデュオ。
 
-"Poolside", lanzado en 1986, es el tercer álbum de Nu Shooz y fue un éxito que obtuvo la certificación de oro por la Recording Industry Association of America y la Recording Industry Association of Canada.
+1986年にリリースされた「Poolside」は、Nu Shoozの3枚目のアルバムでアメリカレコード協会＆カナダレコード協会からゴールド認定を受けるほどのヒットとなったNu Shoozの代表作。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Lost Your Number
 A2. I Can't Wait
@@ -31,7 +31,7 @@ B3. Secret Message
 B4. Don't You Be Afraid
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34562630097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34562630097?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZAl-mDC6Dw?si=4OEVtXar3cYrqjvt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

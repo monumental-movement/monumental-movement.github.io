@@ -8,13 +8,13 @@ layout: post
 tags:
 - Rock
 - Hard Rock
-title: Piedra Rosetta – IMÁGENES DE ROCK
+title: Rosetta Stone – ROCK PICTURES
 ---
 
 
-Rosetta Stone es una banda de rock de Irlanda del Norte formada por el ex guitarrista de Bay City Rollers, Ian Mitchell.
+Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. (If Paradise Is) Half As Nice
 
@@ -39,7 +39,7 @@ B5. Free As A Bird
 B6. You Really Got Me
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/366a3V7VHsY?si=fTeFG8musSDx6f9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

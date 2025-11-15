@@ -10,13 +10,13 @@ tags:
 - Dancehall
 - Lovers Rock
 - 90s
-title: VA - Estrictamente los 8 mejores
+title: VA – Strictly The Best 8
 ---
 
 
-Un álbum recopilatorio lanzado en 1992 por VP Records, el sello de reggae independiente más grande del mundo con sede en Estados Unidos.
+アメリカを拠点とした世界最大のインディペンデントレゲエレーベルVP Recordsから1992年にリリースされたコンピレーションアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Wayne Wade - I Love You Too Much
 A2. Beres Hammond - Double Trouble
@@ -35,7 +35,7 @@ B6. Garnet Silk - Place In Your Heart
 B7. Igina & Junior Rodigan - Get Here (If You Can)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6S9dJbPCp4k?si=LZWbphgYK0TsoHtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

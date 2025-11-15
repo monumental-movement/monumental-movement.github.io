@@ -9,16 +9,16 @@ tags:
 - Leftfield
 - Tech House
 - 00s
-title: EBE – EP Alusiones Aurales
+title: EBE – Aural Allusions EP
 ---
 
 
-Lucas Rodenbush, también conocido como EBE, es un músico electrónico estadounidense afincado en San José. Ha publicado en varios sellos famosos como Transmat, Soma, Plastic City, Greyhound, Afterhours, Resource Records, Jump Recordings y Organized Noise. Otros nombres incluyen Entity y Moonchild.
+EBEことLucas Rodenbush(ルーカス・ローデンブッシュ)は、サンホゼを拠点に活動するアメリカのエレクトロニックミュージシャン。Transmat, Soma, Plastic City, Grayhound, Afterhours, Resource Records, Jump Recordings, Organised Noiseなど様々な有名レーベルからリリースしている。別名義ではEntityやMoonchildなどがある。
 
-"Aural Allusions EP" es un tema electro y breakbeat basado en Leftfield & Tech House, lanzado en 2005 por Greyhound Recordings, un sello dance pionero con una visión única de fusionar elementos de house, dub, techno y funk psicodélico.
+「Aural Allusions EP」は、2005年にハウス、ダブ、テクノ、サイケデリック・ファンクの要素を融合させるというユニークなビジョンを持つ先駆的なダンスレーベルGrayhound RecordingsからリリースされたLeftfield&Tech Houseをベースとしたエレクトロ＆ブレイクビートトラック。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Busted
 A2. Electric
@@ -26,9 +26,9 @@ A2. Electric
 B. Overboard
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m25474551060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25474551060?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hbnVF27yjOg?si=XE3blRbCoUoWqBPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PF-I4_6rfJo?si=6Fc9GLxp4sG3rH4N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

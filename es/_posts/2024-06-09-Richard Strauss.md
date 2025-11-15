@@ -13,12 +13,12 @@ title: Richard Strauss
 ---
 
 
-・Director: Otto Ackermann
-・Cuerno [solo]: Dennis Brain Dennis Brain
-・Orquesta: Orquesta Filarmónica
-・Voz soprano: Elisabeth Schwarzkopf
+・指揮者 ：Otto Ackermann オットー・アッカーマン
+・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
+・オーケストラ ：Philharmonia Orchestra フィルハーモニア管弦楽団
+・ソプラノボーカル ：Elisabeth Schwarzkopf エリーザベト・シュヴァルツコップ
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Four Last Songs
 「4つの最後の歌」
@@ -32,4 +32,4 @@ Capriccio, Op. 85
 B1. Morgen Mittag Um Elf (Closing Scene)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

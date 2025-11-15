@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Tech House
-title: Movimiento Humano Con Sophie Moleta – Love Has Come Again
+title: Human Movement Featuring Sophie Moleta – Love Has Come Again
 ---
 
 
-Human Movement es un proyecto de Marc Mitchell y Paul Mack de las Islas del Canal (Isla de Jersey) en el Reino Unido.
+Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。
 
-"Love Has Come Again" fue lanzado en 2001 por el sello británico de house progresivo Renaissance.
+「Love Has Come Again」は、UKのプログレッシブ・ハウス・レーベルRenaissanceより2001年にリリース。
 
-Remix es del DJ Angel Moraes de Brooklyn, quien ha trabajado en remixes para Pet Shop Boys y otros.
+RemixはPet Shop Boys(ペット・ショップ・ボーイズ)などのリミックスを手がけてた、ブルックリン出身の DJ Angel Moraes。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Love Has Come Again (Angelstereomix)
 
@@ -29,7 +29,7 @@ B1. Love Has Come Again (Angel Moraes Orgasmic Dub)
 B2. Love Has Come Again (Angel Moraes Wah Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/InSMtyCQbAY?si=khL9KAwv6hwDn28X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

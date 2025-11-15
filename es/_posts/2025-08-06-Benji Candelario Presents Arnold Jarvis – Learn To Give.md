@@ -9,24 +9,24 @@ tags:
 - Deep House
 - House
 - 00s
-title: Benji Candelario presenta Arnold Jarvis – Aprende a dar
+title: Benji Candelario Presents Arnold Jarvis – Learn To Give
 ---
 
 
-Benji Candelario es un DJ y productor house de Nueva York que obtuvo elogios por su conmovedor sonido DeepHouse y ganó popularidad en la escena house underground en los años 1990 y principios de los 2000.
+Benji Candelarioは、1990年代～2000年代初頭、ソウルフルなDeepHouseサウンドで評価され、アンダーグラウンドハウスシーンで人気を博したニューヨーク出身のHouse DJ／プロデューサー。
 
-"Learn To Give" fue lanzado en 2000 en Hysteria, el sello House/Deep House encabezado por Eric Kupper, famoso por su canción "Whistle Song" (1992) con Frankie Knuckles. "Learn To Give" es una canción de deep house que presenta al conmovedor vocalista de house/garage Arnold Jarvis.
+2000年にFrankie Knucklesとの楽曲「Whistle Song」 (1992)で有名なEric Kupper主宰のHouse/Deep HouseレーベルHysteriaからリリースされた「Learn To Give」は、ソウルフル・ハウス／ガラージのヴォーカリスト Arnold Jarvisをフィーチャーしたディープハウストラック。
 
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Learn To Give (Eric Kupper 12" Mix)
 
 B1. Learn To Give (J.T. Massive Dub Divine)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m26757396126?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26757396126?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YeezQvIkoQ8?si=vnDvF-DSSxLTLuoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

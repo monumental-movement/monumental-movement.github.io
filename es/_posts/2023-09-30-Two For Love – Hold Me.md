@@ -8,13 +8,13 @@ layout: post
 tags:
 - Italo
 - Euro Beat
-title: Dos por amor - Abrázame
+title: Two For Love – Hold Me
 ---
 
 
-"Hold Me" es un EP del proyecto Two For Love de Alessia Aquilani, lanzado en 1989 en el sello italiano "Euroenergy".
+「Hold Me」は、1989年にイタリアのレーベル「Euroenergy」からリリースされたAlessia AquilaniによるプロジェクトTwo For LoveのEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hold Me (Extended Version)
 
@@ -23,7 +23,7 @@ B1. Hold Me (Radio Version)
 B2. Hold Me (Dub Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94017039523?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94017039523?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oje-JF4gRKg?si=8EYefkDYUOFoeSce" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

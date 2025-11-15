@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Euro House
-title: Aplastar – Jellyhead
+title: Crush – Jellyhead
 ---
 
 
-Crush es un dúo de pop británico. Donna Air y Jayni Hoy fueron originalmente estrellas de la telenovela británica para adolescentes Byker Grove.
+Crushは、イギリスのポップデュオです。Donna AirとJayni Hoyはもともと、イギリスのティーン向けソープオペラ「Byker Grove」のスターでした。
 
-Se aventuraron en el mundo del pop como ""Byker Grooove!" con una tercera cantante (Vicky Taylor), y luego trabajaron como el dúo ""Crush".
+3人目のシンガー（Vicky Taylor）を迎えた「Byker Grooove!」としてポップの世界に挑戦し、その後、デュオ「Crush」として活動しました。
 
-Luego Hoy se fue y Luciana Caporaso la reemplazó.
+その後、Hoyが脱退し、Luciana Caporasoが彼女の代わりに加入しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Jellyhead (Radio Version)
 
@@ -31,7 +31,7 @@ B1. Jellyhead (Motiv 8's Pumphouse Remix)
 B2. Jellyhead (Oven Ready Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m79239722498?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79239722498?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cOtEQXaM1_k?si=Y7Ue2I99mfOQzb5j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

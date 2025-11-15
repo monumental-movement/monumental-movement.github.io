@@ -8,20 +8,20 @@ layout: post
 tags:
 - Acid Jazz
 - Synth-Pop
-title: Paul Hardcastle - Caminar en la noche
+title: Paul Hardcastle – Walk In The Night
 ---
 
 
-"Walk In The Night" es una de las obras maestras del productor musical, compositor y multiinstrumentista británico Paul Hardcastle.
+「Walk In The Night」は、イギリスの音楽プロデューサー、作曲家、マルチ楽器奏者であるポール・ハードキャッスルの代表作の一つです。
 
-"Walk In The Night" es una canción que combina sonidos electrónicos y elementos de jazz, y tiene un ritmo y una melodía distintivos.
+「Walk In The Night」は、エレクトロニックなサウンドとジャズの要素が融合した楽曲であり、特徴的なリズムやメロディが魅力です。
 
-Se destacan los sintetizadores y los ritmos grabados, creando una atmósfera bailable y llena de ritmo.
+シンセサイザーや打ち込みビートが際立ち、ダンサブルでグルーヴィな雰囲気を作り出しています。
 
-'Walk In The Night' es una delicia tanto para los fanáticos de Paul Hardcastle como para los amantes de la música electrónica, y su sonido único y su enfoque creativo continúan influyendo en muchos.
+「Walk In The Night」は、ポール・ハードキャッスルのファンや電子音楽愛好家にとって楽しめる楽曲となっており、その独特なサウンドとクリエイティブなアプローチは、多くの人々に影響を与え続けています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Walk In The Night
 
@@ -30,7 +30,7 @@ B1. Star Wars
 B2. Just Passin' Thru'
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96013184064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96013184064?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpokU2vr1C0?si=sfO36A6g0cab6gs2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

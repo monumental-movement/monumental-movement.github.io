@@ -9,30 +9,30 @@ tags:
 - House
 - Breaks
 - Electro
-title: Noisia – Raar de ladrillo amarillo
+title: Noisia – Yellow Brick Raar
 ---
 
 
-Noisia es un trío holandés de drum and bass que se disolvió en 2022. Produce una amplia gama de música que incluye drum"n"bass, house, breaks y sonidos electrónicos, y en 2014 también trabajó en el remix de LOST CHILD, que se incluyó en "Furious Space Symphony - 7th Movement 'Infinite Love' (Emperor Style)" de Momoiro Clover Z.
+Noisia（ノイジア）は、2022年に解散したオランダのドラムンベーストリオ。ドラムンベース、ハウス、ブレイク、エレクトロニックサウンドなど幅広い音楽を制作しており、2014年にはももいろクローバーZの『猛烈宇宙交響曲・第七楽章「無限の愛」（Emperor Style）』に収録されているLOST CHILDのremixも手がけた。
 
-"Yellow Brick / Raar" es una exitosa canción house lanzada en 2007 por el propio sello de Noisia, Division Recordings.
+「Yellow Brick / Raar」は、Noisia自身が運営するレーベルDivision Recordingsより2007年にリリースされたブレイク・ハウストラック。
 
-'Yellow Brick' es una pista adictiva y edificante con una línea de bajo ruidosa y familiar y un ritmo muy relajante y simple.
+「Yellow Brick」は中毒性のある最高に盛り上がるトラックで、おなじみの脳みそを揺さぶるようなノイジアのベースラインと、とても心地よくシンプルなビートが特徴です。
 
-'Raar', por otro lado, es un tema que destrozará por completo la pista de baile.
+一方の「Raar」は、ダンスフロアを完全に破壊するようなトラックです。
 
-Mientras que "Yellow Brick" estaba atenuado con un ritmo y un tempo simples, "Raar" se siente como si te golpearan en la cabeza con un bajo siniestro y un ritmo loco que se siente intencionalmente fuera de lugar.
+「Yellow Brick」がシンプルなビートとテンポで抑えめだったのに対し、「Raar」は邪悪なベースと、意図的にずれているように感じる狂ったビートで頭を殴られるような感覚になります。
 
-Este es un disco que todos los fanáticos del ruido deben escuchar, incluso si no les gusta la música house.
+たとえハウスミュージックが好きでなくても、全てのノイジアファン必聴のレコードです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 a. Yellow Brick
 
 aa. Raar
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91335600538?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPYrnOWLEC4?si=uAQ6gHXQBGEBH8RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

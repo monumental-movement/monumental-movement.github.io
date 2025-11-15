@@ -8,19 +8,19 @@ layout: post
 tags:
 - Pop Rock
 - Synth-pop
-title: Vida en espiral – Freaks Of Go Go Espectadores 2
+title: Spiral Life – Freaks Of Go Go Spectators 2
 ---
 
 
-Spiral Life es una unidad musical compuesta por Koji Kurumatani y Shokichi Ishida. Periodo activo: 1993-1996.
+Spiral Life(スパイラルライフ)は、車谷浩司と石田ショーキチによる音楽ユニット。活動期間は1993年〜1996年。
 
-"Freaks Of Go Go Spectators 2" es un mini-álbum conceptual lanzado en 1996, con un total de 10 canciones, incluidas 4 canciones nuevas y remezclas de sencillos no incluidos en el álbum.
+「Freaks Of Go Go Spectators 2 」は1996年にリリースされたコンセプトミニアルバムで、新曲4曲とアルバム未収録シングルなどのremixを収録した全10曲。
 
-La tercera canción del álbum se utilizó como canción comercial de Tower Records.
+アルバム3曲目はタワーレコードのCMソングとして使用された。
 
-El maestro es el ingeniero de masterización Mitsuo Koike, que ha trabajado en YMO y otros.
+マスターはYMOなどを手がけたマスタリングエンジニア小池光夫。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Game Over (Version)
 2. Lovin' Song (Cardinal C4 Mix)
@@ -34,7 +34,7 @@ El maestro es el ingeniero de masterización Mitsuo Koike, que ha trabajado en Y
 10. Love & Hate (Abu 1044 Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9AWYPlr1E8?si=F8fYuRWTFsiYzurp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

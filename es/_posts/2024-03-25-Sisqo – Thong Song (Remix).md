@@ -9,19 +9,19 @@ tags:
 - Hiphop
 - R&B
 - Remix
-title: Sisqo – Canción Tanga (Remix)
+title: Sisqo – Thong Song (Remix)
 ---
 
 
-Sisqo [Perfil de Mark Andrews] es un cantante de R&B de East Baltimore, Maryland.
+Sisqo（シスコ）[ マーク・アンドリュース プロフィール ]は、東ボルチモアのメリーランド州出身R&B シンガー。
 
-Comenzó a cantar en la iglesia a una edad temprana y desarrolló una pasión por la música. Después de graduarse de la escuela secundaria, asistió a la Universidad de Maryland, College Park, con especialización en música y psicología.
+幼少期から教会で歌い始め、音楽への情熱を育み、高校卒業後、メリーランド大学カレッジパーク校に進学し、音楽と心理学を専攻。
 
-Mientras asistía a la universidad, comenzó a actuar en clubes y eventos locales, ganando gradualmente reconocimiento y, a principios de la década de 2000, firmó con un sello importante y lanzó su álbum debut.
+大学在学中に、地元のクラブやイベントで演奏を始め、徐々に知名度を高め、2000年代初頭に、メジャーレーベルと契約し、デビューアルバムをリリース。
 
-Desde entonces, ha lanzado varios álbumes y se ha establecido en la escena del R&B, y continúa colaborando activamente con otros artistas y creando canciones además de su carrera en solitario.
+その後、数枚のアルバムをリリースし、R&B シーンで確固たる地位を築き、いまもなおソロ活動に加え、他のアーティストとのコラボレーションや楽曲制作にも積極的に取り組んでいる。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Thong Song (Remix)　Featuring – Foxy Brown
 
@@ -36,5 +36,5 @@ B2. Thong Song (Super Jupiter Mao Tse Thong Club Mix)
 B3. Thong Song (Johnathan Peters Bust Down Mix) (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95904253553?afid=6142608987){: .button1}
 

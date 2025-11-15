@@ -9,22 +9,22 @@ tags:
 - Soul
 - Disco
 - 7inch
-title: Johnnie Taylor – Dama disco
+title: Johnnie Taylor – Disco Lady
 ---
 
 
-"Disco Lady" es el mayor éxito de Johnnie Taylor. El productor es Don Davis.
+「Disco Lady」はJohnnie Taylor（ジョニー・テイラー  ）の最大のヒット曲。プロデューサーはDon Davis（ドン・デイヴィス）。
 
-La canción cuenta con apariciones especiales del bajista de Parliament-Funkadelic Bootsy Collins, el teclista Bernie Worrel, el guitarrista Glenn Goins y el baterista Tiki Fulwood.
+この曲には、 Parliament-Funkadelic（パーラメント・ファンカデリック）のベーシストBootsy Collins（ブーツィ・コリンズ）、キーボード奏者のBernie Worrel（バーニー・ウォレル）、ギタリストのGlenn Goins（グレン・ゴーインズ）、ドラマーの Tiki Fulwood（ティキ・フルウッド）がゲスト参加している。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Disco Lady
 
 B. You're The Best In The World
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-1kwZLw9dg?si=GzMROTTK2GDl15qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

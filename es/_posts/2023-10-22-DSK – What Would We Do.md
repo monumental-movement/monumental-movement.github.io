@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - 90s
-title: DSK – ¿Qué haríamos?
+title: DSK – What Would We Do
 ---
 
 
-"What Would We Do" se caracteriza por su pegadiza melodía y ritmo. En particular, los bucles vocales y los sonidos electrónicos marcan el tono de la canción.
+「What Would We Do」は、キャッチーなメロディとリズムが特徴的です。特に、ボーカルのループやエレクトロニックなサウンドが、楽曲のトーンを作り上げています。
 
-Se hizo popular en la escena de la música dance de la década de 1990 y se escuchó en muchos clubes y en la radio.
+1990年代のダンスミュージックシーンで人気を博し、多くのクラブやラジオでプレイされました。
 
-"What Would We Do" es ampliamente conocida como una canción que ha sido apoyada por muchos oyentes por su facilidad de baile en la pista de baile y su sonido único.
+「What Would We Do」は、ダンスフロアでの踊りやすさと、その持ち味あるサウンドが、多くのリスナーに支持された一曲として広く知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. What Would We Do (Hurley's House Mix)
 
@@ -33,7 +33,7 @@ B2. What Would We Do
 B3. Read My Lips
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiFvCY0A8Yw?si=Kq9fc5g_cVJC9gnq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

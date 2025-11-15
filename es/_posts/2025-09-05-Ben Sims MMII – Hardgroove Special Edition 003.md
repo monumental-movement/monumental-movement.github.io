@@ -9,24 +9,24 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Ben Sims MMII – Edición especial Hardgroove 003
+title: Ben Sims MMII – Hardgroove Special Edition 003
 ---
 
 
-Ben Sims MMII es uno de los alias de la leyenda del techno Ben Sims.
+Ben Sims MMIIは、テクノ界のレジェンド Ben Sims (ベン シムズ)の別名義の一つ。
 
-Tribal Techno/Hardgroove fue lanzado en 2003 por Ben Sims, conocido como el abanderado del Hardgroove Techno, en su propio sello Hardgroove. Fue lanzado como la tercera entrega de la serie "Edición especial" del sello Hardgroove. Una pieza donde podrás disfrutar plenamente del mundo de Ben Sims.
+Hardgroove Techno(ハードグルーヴ・テクノ)の旗手として知られるBen Simsが自身のレーベルHardgrooveから2003年にリリースしたTribal Techno／Hardgroove。Hardgrooveレーベル「Special Edition」シリーズの第3弾としてリリースされた。Ben Simsの世界を堪能できる一枚。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Moments (Booty Mix)
 
 AA. Moments (Dope Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71931635623?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71931635623?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i76uIbe_t10?si=MupEyZULW7ypU1YZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RhMMlxMPsvA?si=8lgM3UbptNISG5z5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

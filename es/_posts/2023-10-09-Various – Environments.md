@@ -8,14 +8,14 @@ layout: post
 tags:
 - Jazz
 - Abstract
-title: Varios – Ambientes
+title: Various – Environments
 ---
 
 
-"Ambientes" es
-Este es un álbum recopilatorio lanzado por el sello "OM Records" en 2001.
+「Environments」は、
+2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Landslide – Muted Voices
 
@@ -40,7 +40,7 @@ E2. Ming + FS – Dog Tag
 F.  Skylight – Primate Exhibit
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51258354270?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bONSqdHTkzk?si=CndZrEEjmEi6dwEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

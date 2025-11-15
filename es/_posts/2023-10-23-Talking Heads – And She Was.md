@@ -9,22 +9,22 @@ tags:
 - Rock
 - Alternative Rock
 - 7inch
-title: Talking Heads – Y ella era
+title: Talking Heads – And She Was
 ---
 
 
-"And She Was" es un sencillo del sexto álbum de la banda de rock estadounidense Talking Heads, "Little Creatures", lanzado en 1985.
+「And She Was」は、USロックバンドTalking Heads（トーキング・ヘッズ）が1985年にリリースした6枚目のアルバム『リトル・クリーチャーズ』（Little Creatures）からのシングルカット。
 
-La chaqueta es del artista estadounidense Howard Finster.
+ジャケットは、アメリカの芸術家Howard Finster（ハワード・フィンスター）によるもの。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. And She Was
 
 B. And She Was (E.T. Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85439385386?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=0nuOmXWtwd563rts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

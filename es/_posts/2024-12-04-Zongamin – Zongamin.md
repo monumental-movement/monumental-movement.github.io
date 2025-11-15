@@ -10,15 +10,15 @@ tags:
 - Techno
 - Disco
 - 00s
-title: Zongamín – Zongamín
+title: Zongamin – Zongamin
 ---
 
 
-Mukai Susumu Mukai, también conocido como Zongamin, es un músico y productor japonés afincado en el Reino Unido. Está activo como remezclador de Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft, etc., y toca como miembro de Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosis.
+ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身のミュージシャン兼プロデューサー。 Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft等のremixerとして活躍しており、Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosisのメンバーとしてプレイしている。
 
-"Zongamin" es el álbum debut lanzado por XL Recordings en 2003.
+「Zongamin」は2003年にXL Recordingsからリリースされたデビューアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Make Love Not War
 2. Serious Trouble
@@ -35,8 +35,8 @@ Mukai Susumu Mukai, también conocido como Zongamin, es un músico y productor j
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1awdfNI69Bk?si=j7c9I05hSXHq0uDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

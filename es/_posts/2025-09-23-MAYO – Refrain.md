@@ -10,13 +10,13 @@ tags:
 - Disco
 - City Pop
 - 70s
-title: Mayo Shono – Estribillo M・A・Y・O – Estribillo
+title: 庄野真代 – ルフラン M・A・Y・O – Refrain
 ---
 
 
-"Reflan" es el cuarto álbum original de Mayo Shono, que incluye su canción característica "Flying to Istanbul" (compuesta por Kyohei Tsutsumi). City Pop fue lanzado en 1978 por el subsello Nippon Columbia de Nippon Columbia.
+「ルフラン」は、代表曲『飛んでイスタンブール』(作曲：筒美京平)が収録された、庄野真代の4枚目のオリジナルアルバム。日本コロムビアのサブレーベル日本コロムビアから1978年にリリースされたCity Pop。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. 風の街角
 A2. 昨日に乾杯
@@ -32,7 +32,7 @@ B4. 街に疲れて
 B5. ルフラン
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

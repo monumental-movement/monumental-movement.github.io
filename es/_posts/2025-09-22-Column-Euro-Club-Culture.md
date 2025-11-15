@@ -9,145 +9,144 @@ tags:
 - Rave
 - Euro
 - Euro Beat
-title: '[Columna] Música europea y cultura de club: la intersección de la radio y
-  el rave'
+title: 【コラム】 ユーロミュージックとクラブカルチャー：ラジオとレイヴの交差点
 ---
 
 
 
-## ¿Está pop el euro? ¿Está bajo tierra?
+## ユーロはポップか？アンダーグラウンドか？
 
-Texto: mmr｜Género: Estudio de cultura musical｜Tema: La intersección entre el euro y los clubes en los años 90
+文：mmr｜ジャンル：音楽文化考察｜テーマ：90年代ユーロとクラブの接点を巡って
 
-La música europea, representada por "Eurobeat" y "Eurodance", es un género que dominó los clubes y las listas de éxitos en la década de 1990, pero a menudo se la malinterpreta como "música ligera". Sin embargo, en realidad, fue una existencia híbrida nacida en la intersección de los medios de comunicación, centrados en la radio, y la cultura rave underground.
+「ユーロビート」「ユーロダンス」などに代表されるユーロミュージックは、90年代のクラブやチャートを席巻したジャンルでありながら、しばしば“軽い音楽”という誤解を受ける。だがその実体は、ラジオを中心としたマスメディアと、地下で進行していたレイヴカルチャーの交差点で生まれたハイブリッドな存在だった。
 
-Este artículo explora el papel que jugó Euromusic entre la escena de discotecas y la música popular desde dos contextos: la radio y el rave.
+この記事では、ユーロミュージックがクラブシーンと大衆音楽の間でどのような役割を果たしたかを、「ラジオ」と「レイヴ」という2つの文脈から探っていく。
 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### Radio y MTV: la expansión del euro a través de los medios de comunicación
+### ラジオとMTV：マスメディアによるユーロの拡張
 
-**● "Convertir la música dance en un bien público"**
+**● ダンスミュージックの“公共財化”**
 
-A finales de los 80 y principios de los 90, las estaciones de radio aumentaron rápidamente el número de canales especializados en música dance y la música europea comenzó a penetrar en los hogares. Particularmente en Europa occidental, estaciones de radio como "Radio NRJ (Francia)" y "Radio 538 (Países Bajos)" desempeñan un papel central.
+80年代末〜90年代初頭、ラジオ局は急速に「ダンスミュージック専門チャンネル」を増やし、ユーロミュージックが一般家庭へと浸透。特に西ヨーロッパでは「Radio NRJ（フランス）」「Radio 538（オランダ）」などが中心的役割を果たす。
 
-**● Penetración televisiva del baile europeo**
+**● ユーロ・ダンスのテレビ浸透**
 
-Debido al establecimiento de MTV Europa (1987), se distribuyó como un set con imágenes.
+MTV Europeの設立（1987）により、ビジュアルとセットで流通。
 
-Los vídeos musicales de alta calidad de artistas como Real McCoy, Culture Beat y 2 Unlimited resonaron entre los espectadores estadounidenses y entraron en las listas de Billboard como una reimportación.
+Real McCoy、Culture Beat、2 Unlimitedなどの高品質なMVは、アメリカの視聴者にも刺さり、逆輸入的にビルボードチャート入り。
 
-**● Parapara, J-WAVE, Super Eurobeat**
+**● パラパラ、J-WAVE、スーパー・ユーロビート**
 
-En Japón, J-WAVE y Bay FM transmiten activamente el euro.
+日本ではJ-WAVEやBay FMが積極的にユーロをオンエア。
 
-Junto con la serie "Super Eurobeat" de Avex, creó un fenómeno europeo que abarca clubes y comerciales de televisión.
-
----
-
-
-### Rave y subcultura: la cara del euro clandestino
-
-**● Conexión con la cultura rave**
-
-La euromúsica originalmente heredó sonidos que se originaron en clubes gay, como "Italo Disco" y "Hi-NRG". Luego, en la década de 1990, resonó con la explosión de la cultura rave.
-
-Alemania: Muchos temas de sabor europeo sonaron en Love Parade y Mayday
-
-Reino Unido: Los estilos Hardbag y Euro-House aparecieron en sets de garaje a mediados de los 90.
-
-Países Bajos: Los límites entre Speed ​​​​Garage y Hard Trance se están desdibujando
-
-**● Desarrollo de Dark Euro/Eurotrance**
-
-Al contrario del aspecto comercial, el euro trance pesado y el euro industrial también están bien establecidos en el rave.
-
-Artistas como Cosmic Gate y Scooter han traspasado fronteras.
+avexの「Super Eurobeat」シリーズと連動して、クラブとテレビCMを横断するユーロ現象を生んだ。
 
 ---
 
 
-### Encrucijada musical: la fusión técnica de las pistas Euro vs. Club
+### レイヴとサブカルチャー：アンダーグラウンドなユーロの顔
 
-| Elementos | Música europea | Cultura de clubes |
-|--------|--------------------|--------------------|
-| Directora | Productor/Compositor | DJ/Organizador |
-| Formato | Unidad de canción (orientada individualmente) | Juego largo, orientado a la mezcla |
-| Composición | Énfasis en la melodía, melodía A, estructura de la melodía B | Énfasis en el ritmo, desarrollo mínimo |
-| Directora de orquesta | Radio, televisión, CD | Fiestas, festivales, vinilos |
-| Punto de cambio | Colaboración en remezclas de 12 pulgadas, ediciones de DJ, mezclas de dub, etc. |
+**● レイヴ文化との接点**
+
+ユーロミュージックはもともと「Italo Disco」や「Hi-NRG」といったゲイ・クラブ発祥のサウンドを引き継いでいた。それが90年代に入り、レイヴカルチャーの爆発と共鳴。
+
+ドイツ：Love ParadeやMaydayでユーロ・テイストのトラックが多数プレイ
+
+イギリス：Hardbag、Euro-House系が90年代中盤のガラージ・セットに出現
+
+オランダ：Speed GarageやHard Tranceとの境界が曖昧に
+
+**● ダークユーロ／ユーロトランスの発展**
+
+Commercial（商業的）な側面とは裏腹に、レイヴでは重厚なユーロ・トランスやIndustrial Euroも定着。
+
+Cosmic GateやScooterなど、境界を突き破るアーティストが現れた。
+
+---
 
 
-Aunque estas dos culturas pueden parecer contradictorias, estaban vagamente conectadas a través de **CD de mezclas, la cultura del vinilo y el mercado de remezclas**.
+### 音楽的交差点：ユーロ vs クラブ・トラックの技術的融合
+
+| 要素   | ユーロミュージック | クラブカルチャー |
+|--------|--------------------|------------------|
+| 主体   | プロデューサー／作曲家 | DJ／オーガナイザー |
+| 形式   | 楽曲単位（シングル志向） | ロングプレイ、ミックス志向 |
+| 構成   | メロディ重視・AメロBメロ構造 | グルーヴ重視・展開は最小限 |
+| 導線   | ラジオ、テレビ、CD | パーティ、フェス、ヴァイナル |
+| 交流点 | 12インチリミックス、DJエディット、ダブミックスなどで連携 |  
+
+
+この2つの文化は相反するように見えても、**ミックスCDやヴァイナル文化、リミックス市場**を通じて緩やかに結びついていた。  
 
 
 ---
 
 
-### La cultura "Mix CD" como intersección
+### 交差点としての「ミックスCD」文化
 
-**● Roles como Pete Tong, Paul Oakenfold, DJ Bobo y más**
+**● Pete Tong、Paul Oakenfold、DJ Boboなどの役割**
 
-La curación como DJ proporciona "discernimiento del euro"
+DJとしてのキュレーションが“ユーロの選別眼”を提供
 
-Aunque se trata de un paquete comercial, la selección de canciones tiene un estilo de club.
+商業的パッケージでありながら、クラブ的センスが込められた選曲
 
-**● Puente del Euro al Trance**
+**● ユーロ→トランスへの橋渡し**
 
-Eurotrance, un cruce entre el eurodance y el trance, aparece a finales de los 90.
+Late 90’sにはユーロ・ダンスとトランスの接合点としてのユーロトランスが登場
 
-ATB, Fragma, Darude y más presentan un sonido que se entrelaza entre el pop y el club
-
----
-
-
-### ¿Por qué se está reevaluando ahora?
-
-En los años 2020, el euro de los 90 se redescubre en TikTok y YouTube. Las razones detrás de esto son las siguientes.
-
-Estructura melódica y clara **coincide con la "era de la visualización instantánea"**
-
-El "sentimiento rave" de aquella época es reutilizado como fuente de muestreo por los productores de clubes modernos.
-
-Sonido nostálgico pero funcional para escenas al aire libre y festivales.
+ATB、Fragma、Darudeなどがポップとクラブの間を縫う音を提示
 
 ---
 
 
-### Conclusión: el euro vivía en la frontera entre "pop" y "club"
+### なぜ今、再評価されるのか？
 
-La música europea no era sólo "música sencilla de éxito" o "pistas duras de club".
-Su verdadero valor radica en la música que mantuvo un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
+2020年代に入り、TikTokやYouTubeで再発見される90年代ユーロ。その背景には、次のような要因がある。
 
-Escúchalo en la radio y baila en la discoteca.
-Ésa puede haber sido la forma más "correcta" de gastar el euro en los años 1990.
+メロディックで明快な構造が**“即視聴時代”にマッチ**
+
+当時の「レイヴ感覚」が、現代のクラブ系プロデューサーにサンプリングソースとして再利用
+
+オープンエアやフェスシーンにおいてノスタルジックでありながら機能的なサウンド
 
 ---
 
-### Columnas relacionadas
+
+### おわりに：ユーロは“ポップ”と“クラブ”の境界線で生きていた
+
+ユーロミュージックは単なる「能天気なチャート音楽」でも、「硬派なクラブトラック」でもなかった。
+その真価は、メディアと地下、メロディとリズム、システムと身体性のあいだでバランスを取り続けた音楽だったことにある。
+
+ラジオで聴き、クラブで踊る。
+それが90年代ユーロの最も“正しい”消費方法だったのかもしれない。
+
+---
+
+### 関連コラム
 
 
-🔗 [[Columna] Recuerdos de velocidad donde la D inicial y la música se cruzan](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Columna] El "sonido del euro" cambia según la frontera ─ Italia, Alemania, Suecia: Diferencias en la música del euro creada por los tres principales países productores](https://monumental-movement.jp/Column-Euro-Sound)
+🔗 [【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い](https://monumental-movement.jp/Column-Euro-Sound)
 
-🔗 [[Columna] Eurobeat y Japón: ¿Por qué están vinculados? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 
-🔗 [[Columna] Relación cultural entre Initial D y Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-🔗 [[Columna] ¿Qué era la música europea de los 90? ──Un festín de pistas de baile y melodías](https://monumental-movement.jp/Column-Euro)
+🔗 [【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴](https://monumental-movement.jp/Column-Euro)

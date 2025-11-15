@@ -9,28 +9,28 @@ tags:
 - Folk
 - Nostalgic
 - 7inch
-title: Jiro's –Paz Paz
+title: Jiro's –Peace Peace
 ---
 
 
-"Jiro's - Paz, Paz - Niños que no saben de guerra" se estrenó en 1971.
+「ジローズ（Jiro's） –Peace Peace – 戦争を知らない子供たち」は、1971年にリリースされました。
 
-Arreglo: Shunichi Makaino
+アレンジ： 馬飼野俊一
 
-Letra: Osamu Kitayama
+歌詞： 北山修
 
-Compositor: Jiro Sugita
+作曲： 杉田二郎
 
-Canción: Jirose
+歌： ジローズ
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 戦争を知らない子供たち = Peace Peace
 
 B. 愛とあなたのために = For The Love & You
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15281959770?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15281959770?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uY43S56vNAc?si=7Ir0kbkyIr-pI-0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,13 +8,13 @@ layout: post
 tags:
 - Techno
 - Electro
-title: Francisco hazaña. Adam Bourke – Explanada 97
+title: Francisco Feat. Adam Bourke – Esplanade 97
 ---
 
 
-Lanzado en 2004 por Nature Records, un sello italiano especializado en sonidos neo-electro e IDM, "Esplanade 97" es una pista de techno-electro de los DJ y productores italianos Francisco (Francesco de Bellis) y Adam Bourke.
+ネオエレクトロとIDMサウンドを専門とするイタリアのレーベルNature Recordsより2004年にリリースされた「Esplanade 97」は、イタリアのDJ/プロデューサーFrancisco(Francesco de Bellis)と Adam Bourke（アダムバーク）によるテクノ・エレクトロトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Esplanade 97 (Vox Mix)
 
@@ -23,7 +23,7 @@ B1. Esplanade 97 (Instrumental)
 B2. Rock'n'Roll Lover (Horror Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23721600621?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721600621?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oGvQ08_8Pd8?si=ZmMx7CGCoCzPHvyf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

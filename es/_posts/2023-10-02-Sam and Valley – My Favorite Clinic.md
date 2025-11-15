@@ -8,15 +8,15 @@ layout: post
 tags:
 - IDM
 - Techno
-title: Sam & Valley – Mi Clínica Favorita
+title: Sam & Valley – My Favorite Clinic
 ---
 
 
-"Mi clínica favorita" es
-Este es un trabajo de la unidad japonesa "Sam & Valley" lanzado en 1997 en Rephlex, el sello de Richard D. James, también conocido como Aphex Twin.
+「My Favorite Clinic」は、
+1997年にAphex TwinことリチャードDジェイムスのレーベルRephlexからリリースされた日本人のユニット「Sam & Valley」の作品です。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Horn Cattle
 
@@ -43,7 +43,7 @@ B5. To Be Continue
 B6. Handkerchief
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m91264639069?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91264639069?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q_582TRazkM?si=5BeMSEyRolv5PDb6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

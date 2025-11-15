@@ -9,17 +9,17 @@ tags:
 - EBM
 - 90s
 - Digital Rock
-title: Cachorro flaco - Antología de 12 pulgadas
+title: Skinny Puppy – 12 Inch Anthology
 ---
 
 
-Skinny Puppy es una banda electroindustrial formada en 1982 por Kelvin Key y Kevin Ogilvy, nacidos en Canadá.
+Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。
 
-Skinny Puppy es conocido como uno de los fundadores del rock industrial y los géneros electroindustriales.
+スキニーパピーは、インダストリアルロックとエレクトロインダストリアルのジャンルの創設者の一人として知られています。
 
-Este álbum es un álbum recopilatorio que contiene los primeros sencillos y caras B de la banda.
+このアルバムはバンド初期のシングル&B面が収録されたコンピレーションアルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Dig It
 
@@ -42,7 +42,7 @@ B4. Stairs And Flowers (Too Far Gone)
 B5. Testure (12 Inch Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pY6rk963lUU?si=7GszfkIxE3Q-pPi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

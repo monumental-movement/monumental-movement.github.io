@@ -9,14 +9,14 @@ tags:
 - Techno
 - Acid
 - House
-title: Varios – Ácido Urbano
+title: Various – Urban Acid
 ---
 
 
-"Varios – Ácido Urbano" es
-Este es un álbum recopilatorio de acid house lanzado por el sello británico "Urban" en 1988.
+「Various – Urban Acid」は、
+1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 
@@ -35,7 +35,7 @@ B3. The Candy Man–The Candy Man
 B4. Charm–Walk On The Wild Side
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

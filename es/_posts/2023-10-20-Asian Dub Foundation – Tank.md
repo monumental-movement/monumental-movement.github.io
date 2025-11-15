@@ -8,13 +8,13 @@ layout: post
 tags:
 - Electronica
 - Hiphop
-title: Fundación Asian Dub - Tanque
+title: Asian Dub Foundation – Tank
 ---
 
 
-"Tank" es el quinto álbum de AsianDubFoundation. Este álbum contó con la voz de Ghetto Priest, con la ayuda del productor de música dub Adrian Sherwood.
+「Tank」は、AsianDubFoundation の５枚目のアルバム。このアルバムでは、ダブミュージック専門のプロデューサーAdrian Sherwood（エイドリアン・シャーウッド）の協力を得て、Ghetto Priest（ゲットー・プリースト）がボーカルとして参加した。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Flyover
 2. Tank
@@ -29,7 +29,7 @@ title: Fundación Asian Dub - Tanque
 11. Melody 7
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_tPVMwSFzs?si=Y-gcDqnXt2lLvR92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

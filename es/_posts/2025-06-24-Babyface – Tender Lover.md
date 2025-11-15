@@ -10,15 +10,15 @@ tags:
 - Soul
 - RnB
 - 80s
-title: Babyface - Amante tierno
+title: Babyface – Tender Lover
 ---
 
 
-"Tender Lover" es el segundo álbum de estudio del cantautor estadounidense de R&B Babyface, lanzado en 1989 por el sello SOLAR (Sound of Los Angeles Records).
+「Tender Lover」は、1989年にレーベルSOLAR（Sound of Los Angeles Records）からリリースされた、アメリカのR&BシンガーソングライターBabyfaceのセカンドスタジオアルバム。
 
-Este álbum, que incluía los éxitos de Babyface "It's No Crime", "Tender Lover" y "Whip Appeal", fue el monumental álbum de R&B de Babyface y ganó numerosos premios, incluida una nominación al Grammy y el Soul Train Music Award al mejor álbum de R&B/Soul.
+Babyfaceのヒット曲「It's No Crime」「Tender Lover」、「Whip Appeal」などが収録されたこのアルバムは、Babyfaceの金字塔的R&Bアルバムであり、グラミー賞のノミネートやSoul Train Music Award for Best R&B/Soul Album受賞など、数多くの賞を受賞した。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. It's No Crime
 A2. Tender Lover
@@ -34,9 +34,9 @@ B5. Sunshine
 B6. Where Will You Go
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCVahl7KvHw?si=BR_w2ORlBzEEf9KB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3zYoBUJ2VY?si=jsIAZJohdHMXDT7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - Happy Hardcore
-title: Charly Lownoise Mental Theo – Días maravillosos
+title: Charly Lownoise Mental Theo – Wonderfull Days
 ---
 
 
-Esta canción es conocida como un clásico holandés del happy hardcore lanzado en 1994. Charly Lownoise y Mental Theo son un dúo de DJ y productores holandeses que lograron un gran éxito en las escenas Eurodance y happy hardcore de la década de 1990.
+この楽曲は、1994年にリリースされたオランダのハッピーハードコアのクラシックとして知られています。Charly LownoiseとMental Theoは、オランダのDJおよびプロデューサーデュオであり、1990年代のユーロダンスやハッピーハードコアシーンで大きな成功を収めました。
 
-"Wonderfull Days" se toca en muchos clubes y eventos rave, y muchos lo adoran por su melodía pegadiza y energía positiva.
+「Wonderfull Days」は、多くのクラブやレイブイベントでプレイされ、そのキャッチーなメロディとポジティブなエネルギーが多くの人々に愛されています。
 
-"Wonderfull Days" sigue siendo un clásico de la feliz escena hardcore.
+「Wonderfull Days」は、ハッピーハードコアシーンのクラシックとして今もなお人気を保っています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Wonderfull Days (Rotterdam Mix)
 
@@ -26,7 +26,7 @@ B1. Wonderfull Days (Trance Mix)
 B2. Wonderfull Days (Radio Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

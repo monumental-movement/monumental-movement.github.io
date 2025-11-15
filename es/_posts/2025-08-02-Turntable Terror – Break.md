@@ -10,15 +10,15 @@ tags:
 - Techno
 - Swingbeat
 - 90s
-title: Terror en el tocadiscos – Rotura
+title: Turntable Terror – Break
 ---
 
 
-Michel de Hey, también conocido como Turntable Terror, es un veterano DJ y productor de Rotterdam, Países Bajos. Michel de Hey dijo en una entrevista que el nombre que utilizó fue Turntable Terror para "buscar un sonido más duro".
+Turntable Terror ことMichel de Hey（ミシェル・デ・ヘイ）は、オランダ・ロッテルダム出身のベテランDJ／プロデューサー。Michel de Heyがインタビューで、“よりハードなサウンドを追求するため“に用いた名義がTurntable Terror だと答えている。
 
-"Break" es uno de los temas Breakbeat, Techno y Swingbeat característicos de Turntable Terror lanzados en el sello estadounidense Invasion Recordings en 1991. Tablero de promoción.
+「Break」はTurntable Terror の代表の一つで、1991年にUSのレーベルInvasion RecordingsからリリースされたBreakbeat, Techno, Swingbeatトラック。プロモ盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Break (Techno Mix)
 A2. Break (Suprise Mix)
@@ -27,7 +27,7 @@ B1. Break (Swing Beat Mix)
 B2. Scream
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24900332251?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24900332251?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GppnrgxHO5Y?si=5GcIZuXFFKXJy0R2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

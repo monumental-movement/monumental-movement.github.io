@@ -8,15 +8,15 @@ layout: post
 tags:
 - Hiphop
 - 90s
-title: Desarrollo arrestado – ​​Zingalamaduni
+title: Arrested Development – Zingalamaduni
 ---
 
 
-Arrested Development es un grupo estadounidense de hip-hop afrocéntrico formado en 1988 por los raperos Speech y Headliner.
+Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。
 
-El título "Zingalamaduni" significa "Festival de las Almas (Seres de la Cultura)" en swahili, y es el segundo álbum de Arrested Development, que explora las raíces culturales, la espiritualidad, los problemas sociales y la esperanza de los afroamericanos. Reedición/versión japonesa lanzada en 1997.
+タイトル『Zingalamaduni』は、スワヒリ語で「魂の祭り（Beings of Culture）」という意味で、アフリカ系アメリカ人の文化的ルーツと精神性、社会問題、希望をテーマとしたArrested Development のセカンド・アルバム。1997年にリリースされた再発・日本盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. WMFW (We Must Fight & Win) FM
 2. United Minds
@@ -36,9 +36,9 @@ El título "Zingalamaduni" significa "Festival de las Almas (Seres de la Cultura
 16. Eggbeaters(日本盤のみのボーナストラック)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iszZkjDl100?si=r0LD9fsa5pZeT4KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

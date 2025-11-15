@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Leftfield
-title: Leroy Hanghofer – Baño boogie
+title: Leroy Hanghofer – Bathroomboogie
 ---
 
 
-Este EP tiene una sensación muy funky y maravillosamente creativa y peculiar, con un sutil sentido del humor.
+このEPは、非常にファンキー＆素晴らしくクリエイティブで奇抜な雰囲気があり、微妙なユーモアも感じられます。
 
-Pero la línea de bajo gruesa y el sintetizador crujiente mantienen todo en un ritmo estricto y hacen que todo avance felizmente.
+しかし、太いベースラインとグシャグシャとしたシンセサイザーが、すべてをしっかりとグルーブさせ、楽しく進行します。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Overtüre
 
@@ -27,7 +27,7 @@ B1. Bathroomboogie (DJ Chloé Rmx)
 B2. Das Pi - Kurz!
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31669126197?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwTqnWL15Pw?si=IiWztBIeDkNxL6pq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

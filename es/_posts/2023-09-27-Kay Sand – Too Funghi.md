@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Tech House
-title: Kay Sand - Demasiado Funghi
+title: Kay Sand – Too Funghi
 ---
 
 
-Kay Sand es un proyecto del DJ italiano Francesco Sperotto lanzado en 2009 en el sello alemán Deep Moves.
+2009年にリリースされたドイツのレーベルDeep MovesからイタリアンDJのFrancesco Sperottoによるプロジェクト「Kay Sand」。
 
-Los remixes también son excelentes, incluida la canción italiana "Minimono" y el nombre real de Domenico Cipriani, "Lucreito".
+リミックスは同じくイタリアンの「Minimono」と本名Domenico Cipriani「Lucreito」も秀逸。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Too Funghi
 
@@ -25,7 +25,7 @@ B1. Too Funghi (Minimono Remix)
 B2. Too Funghi (Lucretio Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m63658613527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63658613527?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3M82YPKhjfQ?si=jEDwKsxsMXDp8jyT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

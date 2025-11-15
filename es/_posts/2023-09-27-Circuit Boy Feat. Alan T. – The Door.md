@@ -7,20 +7,20 @@ lang: es
 layout: post
 tags:
 - Techno
-title: Circuito chico hazaña. Alan T. – La puerta
+title: Circuit Boy Feat. Alan T. – The Door
 ---
 
 
-Un álbum de techno de la unidad de Jay Winborn y Mike Mucci, "Circuit Boy", lanzado por el sello alemán Flesh en 2001.
+2001年にドイツのレーベルFleshからリリースされたJay Winborn & Mike Mucciによるユニット「Circuit Boy」によるテクノな１枚。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. The Door (Planet Tweak Mix)　Remix – Danny Tenaglia
 
 B. The Door (Mr. Sam At Nova Mix) Remix – Mr. Sam
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44348501009?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44348501009?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sQPEHcFgpQ?si=7ICkGa2bysRoMinV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Disco
-title: Love Boat People – 3 Algunos también El otro mundo no lo sabes
+title: Love Boat People –3 Some Too The Other Woorld Dontcha Know
 ---
 
 
-Publicado en 1998 por el sello estadounidense "Sosumi Recordings".
+1998年にアメリカのレーベル「Sosumi Recordings」からのリリース。
 
-No te pierdas el tema psicodélico '3 Some" o el tema disco "Too The Other World' del proyecto en solitario de Bryan Wright, Love Boat People.
+Bryan WrightのソロプロジェクトであるLove Boat Peopleによるサイケデリックなトラック「3 Some」やディスコな「Too The Other World」は必聴です。
 
-Además, "Dontcha Know?", que incluye dos versiones, se recomienda como canción dubby y dark house.
+さらに、2ヴァージョン収録の「Dontcha Know?」は、ダビーでダークななハウスでおすすめです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  3 Some
 
@@ -30,7 +30,7 @@ B2  Dontcha Know? (Sunday Night Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m66742679105?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66742679105?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5NKiAbW1KQ?si=UWyNznhxzeG5JMiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

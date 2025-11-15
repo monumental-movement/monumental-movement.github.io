@@ -10,13 +10,13 @@ tags:
 - Pop
 - JPop
 - 80s
-title: Rebecca - Saurio rubio
+title: Rebecca – Blond Saurus
 ---
 
 
-"Blond Saurus", lanzado en 1989, es el séptimo álbum de Rebecca, producido por François Carbocan (François K), y su último álbum original.
+1989年にリリースされた「Blond Saurus」は、プロデューサーにフランソワ・カーボキャン(フランソワK)を迎えた、Rebecca(レベッカ)7枚目のアルバムであり、レベッカ最後のオリジナルアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Blond Saurus
 2. Vanity Angel
@@ -30,7 +30,7 @@ title: Rebecca - Saurio rubio
 10. One Way Or Another
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jXrlUcJpkMg?si=HJ7ffC3sCX-uvsVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

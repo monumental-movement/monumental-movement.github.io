@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - House
-title: C-Mos – 2 millones de formas
+title: C-Mos – 2 Million Ways
 ---
 
 
-C-Mos es el alias del DJ belga Olivier Abbeloos.
+C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
 
-La cara A es un remix del DJ y productor sueco Axwell (Axel Hedfors), quien también es miembro de Swedish House Mafia.
+A面は、Swedish House Mafia（スウェディッシュ ハウス マフィア）のメンバーでもあるスウェーデンのDJ/プロデューサーAxwell（アクスウェル/Axel Hedfors）によるremix。
 
-La cara B es un remix del miembro de Bhangra Knights, Jules Spinner.
+B面は、Bhangra KnightsのメンバーJules Spinner（ジュールズ・スピナー）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 2 Million Ways (Axwell Remix)
 
@@ -26,7 +26,7 @@ B1. 2 Million Ways (Jules Spinner Remix)
 B2. 2 Million Ways (Original Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m82094920141?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82094920141?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/StOVNpoA84k?si=JlzVc7001LK0We-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

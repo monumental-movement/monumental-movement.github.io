@@ -8,26 +8,26 @@ layout: post
 tags:
 - Techno
 - US Techno
-title: Joey Beltram – Forma de juego
+title: Joey Beltram – Game Form
 ---
 
 
-La primera canción de la cara B es un remix del DJ y productor estadounidense Robert Armani. La segunda canción de la cara B es un remix de Mike Dearborn, nativo de Chicago y propietario de Majesty Recordings.
+B面１曲目は、USのDJ 兼プロデューサーRobert Armani（ロバート・アルマーニ）のremix。B面２曲目は、シカゴ出身でMajesty RecordingsのオーナーMike Dearborn（マイク・ディアボーン）のremix。
 
 
-Joy Beltrame es ampliamente reconocida como una de las primeras innovadoras en la música dance underground.
+ジョイ・ベルトラムは、アンダーグラウンドダンスミュージック初期の革新者として広く認知されています。
 
-Comenzó a trabajar como DJ como pasatiempo en 1983, cuando tenía 12 años, tocando principalmente electro y hip-hop.
+彼は12歳だった1983年に、主に初期のエレクトロとヒップホップをプレイするDJとしての活動を趣味で始めました。
 
-Se dedicó a la música house en 1985, el mismo año en que la primera ola de house de Chicago llegó a Nueva York, y en 1989, mientras todavía trabajaba como mensajero, comenzó a publicar algunos de sus primeros trabajos en varios sellos discográficos pequeños en Nueva York.
+1985年には、シカゴハウスの第1波がニューヨークに到来したのと同じ年に、ハウスミュージックに転向し、1989年に彼はまだ宅配便の仕事をしている傍ら、ニューヨークのいくつかの小さなレコードレーベルから初期の作品の一部をリリースし始めました。
 
-Un año después, llamaron la atención de R&S Records de Bélgica, quienes lanzaron su primer disco importante, Energy Flash, a mediados de 1990, al que siguieron una serie de lanzamientos igualmente impresionantes.
+1年後、ベルギーのR＆Sレコーズの目に留まり、1990年中頃までに同レーベルから初のメジャーレコードとなる「Energy Flash」を発表し、その後も同様に印象的な作品を次々とリリースしました。
 
-A lo largo de la década de 1990, continuó haciendo música atemporal en el sello de vanguardia de la época.
+90年代を通して、彼は当時の最先端レーベルで、今も色褪せない音楽を作り続けてきました。
 
-En 1999, fundó su propio sello, STX Records, que actualmente graba con JB³ y Joey Beltram.
+そして、1999年には、現在JB³とJoey Beltramの両方でレコーディングを行っている自身のレーベル「STX Records」を設立しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Game Form
 
@@ -36,7 +36,7 @@ B1. Game Form (Robert Armani Remix)
 B2. Game Form (Mike Dearborn Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

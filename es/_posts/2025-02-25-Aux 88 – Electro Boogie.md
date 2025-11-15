@@ -13,9 +13,9 @@ title: Aux 88 – Electro Boogie
 ---
 
 
-El tercer electro boogie de Studio K7 lanzado en 1999. Detroit techno/electro mixCD de Aux88.
+1999年にリリースされたStudio K7のエレクトロブギー第3弾。Aux88によるデトロイトテクノ・エレクトロmixCD。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Aux 88 – Electro/Techno (Microknox Remix)
 2. Aux 88 – Direct Drive
@@ -37,7 +37,7 @@ El tercer electro boogie de Studio K7 lanzado en 1999. Detroit techno/electro mi
 18. Aux 88 – Xeo-Genetic Remix
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

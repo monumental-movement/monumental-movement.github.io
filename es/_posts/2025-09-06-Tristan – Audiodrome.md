@@ -8,16 +8,16 @@ layout: post
 tags:
 - Psy-Trance
 - 90s
-title: Tristán – Audiodromo
+title: Tristan – Audiodrome
 ---
 
 
-Tristan Cooke, también conocido como Tristan, es un importante productor y DJ de Psychedelic Trance & Goa trance del Reino Unido que ha estado activo desde principios de los 90.
+TristanことTristan Cookeは、90年代初頭から活動するUKの大御所Psychedelic Trance(サイケデリックトランス)& Goa trance(ゴアトランスプロデューサー／DJ。
 
-"Audiodrome" fue lanzado en 1999 por el sello Twisted Records de Simon Posford (Hallucinogen) y es el álbum debut de Tristan.
+1999年にSimon Posford (Hallucinogen／ハルシノゲン)主宰のレーベルTwisted Recordsからリリースされた「Audiodrome」は、Tristanのデビューアルバム。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Fetish
 A2. Valve
@@ -31,7 +31,7 @@ C2. Mind Over Matter
 D. Perimeter
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78133892253?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78133892253?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esRxasnb4EY?si=J7BmbPJ3WKELO554" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

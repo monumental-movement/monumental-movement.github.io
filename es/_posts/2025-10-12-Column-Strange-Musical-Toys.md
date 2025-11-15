@@ -10,67 +10,66 @@ tags:
 - History
 - 90s
 - 00s
-title: '[Columna] Juguetes musicales extraños: juguetes con sonidos extraños de todo
-  el mundo'
+title: 【コラム】 Strange Musical Toys — 世界の奇妙な音の玩具たち
 ---
 
 
-## "Juguetes sonoros" en todo el mundo
+## 世界の“音の玩具”
 
 
-Texto: mmr | Tema: De juguetes para niños a instrumentos de artistas: hacia la era de los juguetes de IA, los instrumentos táctiles y los juguetes sociales
+文：mmr｜テーマ：子どものおもちゃからアーティストの楽器～AI玩具・触覚楽器・ソーシャル・トイの時代へ
 
-Hay lugares donde la línea entre música y juego se vuelve borrosa. Vivimos en un mundo donde los sonidos electrónicos de los juguetes en manos de los niños eventualmente son reconocidos como herramientas creativas para artistas y escenarios profesionales. Fuentes de sonido extrañas como Radel, Omnichord, Stylophone y Circuit Bending, que modificaron circuitos caseros, se convirtieron en algo más que juguetes y se convirtieron en dispositivos culturales experimentales.
+音楽と遊びの境界線が曖昧になる場所がある。子どもの手に握られたおもちゃの電子音が、やがてプロのステージやアーティストの創作道具として認められる世界だ。RadelやOmnichord、Stylophone、そして自作回路を改造するCircuit Bendingのような奇妙な音源たちは、単なる玩具の枠を超え、文化的な実験装置となった。  
 
-En esta columna, rastreamos juguetes musicales inusuales de todo el mundo, desentrañando su historia, filosofía y reinterpretación por parte de artistas modernos.
+このコラムでは、世界中の変わった音楽玩具を辿り、その歴史、思想、そして現代のアーティストによる再解釈までを紐解く。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-##Ⅰ. El placer de las manos jugando con el sonido
+## Ⅰ. 音をいじる手の快楽
 
-No debemos olvidar que el "sentido táctil" está en el origen del acto musical. Cuando tocas las cuerdas, presionas las teclas o giras las perillas, recibes una respuesta al alcance de tu mano. Esta inmediatez es la misma en los juguetes con los que los niños entran en contacto durante su infancia.
-En el siglo XXI, los sonidos electrónicos se han extendido a los juguetes y aparatos educativos de los niños, y el propio acto de "sonar" se ha diseñado como parte del juego. La línea entre juguetes e instrumentos musicales es cada vez más borrosa.
+音楽という行為の原点に「触覚」があることを忘れてはいけない。弦を弾き、鍵盤を押し、つまみを回すと、指先に反応が返ってくる。その即時性は、幼少期に触れる玩具でも同様だ。  
+21世紀に入り、電子音は子どものおもちゃや教育用ガジェットにまで拡張され、「鳴らす」という行為自体が遊びの一部としてデザインされるようになった。玩具と楽器の境界線は、ますます曖昧になっている。
 
 ---
 
-## Ⅱ. Cultura del juguete sonoro en Asia
+## Ⅱ. アジアのサウンド・トイ文化
 
-### Tanpura electrónica Radel
-La tabla electrónica, desarrollada por la compañía india Radel a finales de los años 1970, es un dispositivo que portátiliza los sonidos sostenidos de la interpretación tradicional de raga. Se ha vuelto popular entre una amplia gama de personas, desde niños hasta adultos, porque permite reproducir fácilmente en casa instrumentos de cuerda complejos.
-La simplificación de los sonidos electrónicos abrió la puerta a nuevas improvisaciones. La tanpura electrónica colocada sobre el escritorio de casa se ha convertido en un "ritual hogareño" que resuena en el límite entre el aprendizaje y el juego.
+### Radel Electronic Tanpura
+インドのRadel社が1970年代末に開発した電子タブラは、伝統的なラーガ演奏における持続音をポータブル化した装置である。複雑な弦楽器を家庭で簡単に再現できることから、子どもから大人まで幅広く親しまれた。  
+電子音の単純化は、むしろ新しい即興の扉を開いた。家庭の机上に置かれた電子タンプーラは、学習と遊びの境界で鳴り響く“家庭的な儀式”となった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Evolución portátil de instrumentos musicales electrónicos.
-La digitalización de los instrumentos musicales tradicionales ha avanzado no sólo en la India sino también en toda Asia. Han aparecido instrumentos musicales que incluso los niños pueden utilizar, incluidos pequeños sitares, gamelanes de bolsillo y arpas electrónicas. La estabilidad y facilidad del sonido creado por la tecnología electrónica estimula la creatividad de los intérpretes.
+### 電子楽器のポータブル進化
+インドだけでなく、アジア各地では伝統楽器の電子化が進んだ。小型シタールやポケットサイズのガムラン、電子琴など、子どもでも操作可能な楽器が登場した。電子化による音の安定性と手軽さは、演奏者の創造性を刺激する。
 
 ---
 
-## Ⅲ. Omnicode y sus descendientes
+## Ⅲ. オムニコードとその末裔たち
 
-Lanzado en 1978, el Omnichord rápidamente se hizo amado en todo el mundo como un "arpa de acordes" único.
+1978年に発売されたOmnichordは、独特の“コード・ハープ”として瞬く間に世界中で愛された。  
 
-- Interfaz única que combina teclado y tablero de trazos
-- Acordes sencillos fáciles de tocar con un solo dedo
-- Tonos lo-fi y cósmicos
+- キーボードとストローク板を組み合わせた独自インターフェース  
+- 単純な和音を指一本で奏でられる手軽さ  
+- ローファイかつ宇宙的な音色  
 
-El Omnichord se ha convertido en más que un accesorio para artistas de tecno-pop e indie durante presentaciones y grabaciones en vivo. El sonido es la encarnación de una filosofía de diseño que da la bienvenida al azar y la improvisación.
+Omnichordは、テクノポップやインディーズのアーティストにとって、ライブパフォーマンスやレコーディングにおける小道具以上の存在となった。そのサウンドは、偶然性と即興性を歓迎するデザイン哲学の体現である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAIar0O-yvg?si=gI40JwCWCleSOUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,75 +79,75 @@ El Omnichord se ha convertido en más que un accesorio para artistas de tecno-po
 
 ---
 
-#### Álbum usando Omnichord
+#### Omnichordを使用したアルバム
 
-**Cornelio – Fantasma (1997)**
+**Cornelius – Fantasma (1997)**
 
-Pop japonés/electrónica. Los acordes únicos de Omnichord añaden calidez a la canción.
+日本のポップ/エレクトロニカ。Omnichordの独特の和音が楽曲に温かみを添える。
 
-**Björk – Vespertina (2001)**
+**Björk – Vespertine (2001)**
 
-Una fusión de sutiles sonidos electrónicos y sensación analógica. La delicada sensación de los acordes de Omnichord contribuye a un sonido introspectivo.
+微細な電子音とアナログ感の融合。Omnichordの繊細なコード感が内省的なサウンドに寄与。
 
 ---
 
-## Ⅳ. Dispositivos de sonido extraños europeos.
+## Ⅳ. ヨーロッパの奇音装置
 
-### Stylophone y Optigan
-El British Stylophone es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
-El Optigan es un órgano de juguete que reproduce sonidos mediante discos ópticos y se caracteriza por patrones y ritmos impredecibles.
+### StylophoneとOptigan
+イギリスのStylophoneは、1970年代のテレビ広告でおなじみの“机上のシンセ”である。指先で金属接点をなぞると、独特のビープ音が鳴る。その手軽さとノイズ感は、初期テクノポップやアヴァンギャルド音楽に取り込まれた。  
+Optiganは光学式ディスクで音を再生するオルガン玩具で、パターンやリズムが予測不能な形で再生されることが特徴だ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Álbum usando Stylophone
+#### Stylophoneを使用したアルバム
 
-**David Bowie – Space Oddity (sencillo de 1969)**
+**David Bowie – Space Oddity (1969 single)**
 
-Estilofono utilizado en los primeros sencillos. Caracterizado por un tono cósmico y minimalista.
+初期シングルでのStylophone使用。宇宙的でミニマルな音色が特徴。
 
-**Aphex Twin – Obras ambientales seleccionadas 85–92 (1992)**
+**Aphex Twin – Selected Ambient Works 85–92 (1992)**
 
-Techno ambiental creado por minisintetizadores y sonidos electrónicos de juguete.
+ミニシンセと玩具的電子音が紡ぐアンビエント・テクノ。
 
-### Desde juguetes educativos hasta clubes
-En Europa, los juguetes electrónicos educativos también se abrieron paso en la cultura de clubes y en la música de vanguardia. Un simple sintetizador sobre un escritorio aportó "ruido accidental" a la creatividad de los intérpretes, ampliando el rango de expresión musical.
+### 教育玩具からクラブへ
+ヨーロッパでは、教育用電子玩具がクラブカルチャーや前衛音楽に流入することもあった。机の上の簡易シンセサイザーは、演奏者の創造性に“偶然のノイズ”をもたらし、音楽表現の幅を広げた。
 
 ---
 
-##Ⅴ. Electrónica de bricolaje de Estados Unidos y extraños inventores
+## Ⅴ. アメリカのDIY電子と奇妙な発明家たち
 
-La flexión de circuitos es un método para crear nuevos sonidos modificando sintetizadores y juguetes electrónicos existentes, y fue codificado por Reed Ghazala en la década de 1970.
+Circuit Bendingは、既存の電子玩具やシンセを改造して新しい音を作る手法で、1970年代にReed Ghazalaによって体系化された。  
 
-- Abre el teclado de la serie Casio SA y conecta los circuitos aleatoriamente
-- Los cortocircuitos y ruidos accidentales crean nuevos sonidos.
-- El acto de "destrucción" y "creación" que ocurren al mismo tiempo
+- Casio SAシリーズの鍵盤を開け、ランダムに回路を接続  
+- 偶然のショートやノイズが新たな音を生む  
+- “破壊”と“創造”が同時に起こる行為  
 
-Los instrumentos electrónicos de bricolaje se han arraigado profundamente en la cultura garage estadounidense y en la música de vanguardia, combinando la alegría del trabajo manual con una sensación de aventura sonora.
+DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ、アメリカのガレージカルチャーや前衛音楽に深く根付いた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6dbHxbN2oJw?si=P4PrpbvKkwmv8tOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Doblado de circuitos / Uso de juguetes modificados
+#### Circuit Bending / 改造玩具使用
 
-**Merzbow – Demonio de pulso (1996)**
+**Merzbow – Pulse Demon (1996)**
 
-Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos modificados y juguetes sonoros.
+改造電子機材やノイズ玩具を駆使したノイズ・エクスペリメンタル作品。
 
 
 ---
 
-## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
+## Ⅵ. 日本の電子トイ黄金期
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
+1970〜80年代、日本ではポータブルシンセや電子楽器玩具が家庭に浸透した。  
 
-- Serie Yamaha Portasound
-- CASIO VL-TONE
-- Sintes educativos como el SX-150 de Gakken
+- ヤマハPortasoundシリーズ  
+- CASIO VL-TONE  
+- 学研のSX-150などの教育用シンセ  
 
-Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios del hogar o la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
+電子音は、家庭や学校の机上で手軽に体験できるものであり、子どもたちは“音を遊ぶ”文化に親しんだ。現代ではオタマトーンのようなデジタル玩具がYouTube文化と結びつき、新たな“かわいい音”の世界を作っている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -162,14 +161,14 @@ Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios 
 
 ---
 
-##VII. Estética irregular escandinava
+## Ⅶ. 北欧の変則美学
 
-En Escandinavia han aparecido sintetizadores pequeños y de gran diseño.
+北欧では、デザイン性の高い小型シンセが登場した。  
 
-- Ingeniería adolescente OP-1
-- Serie Operador de bolsillo
+- Teenage Engineering OP-1  
+- Pocket Operatorシリーズ  
 
-Su manejo sencillo e intuitivo y su tono caricaturesco combinan humor y sofisticación escandinavos. Es único porque conserva su carácter de juguete, pero también lo utilizan artistas profesionales.
+シンプルで直感的な操作性と、カートゥーン的な音色は、北欧らしいユーモアと洗練を兼ね備える。“トイ”としての性格を残しつつ、プロのアーティストにも採用される点が特徴だ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,81 +178,81 @@ Su manejo sencillo e intuitivo y su tono caricaturesco combinan humor y sofistic
 
 ---
 
-#### Operador de bolsillo / Ingeniería adolescente
+#### Pocket Operator / Teenage Engineering系
 
-**Cuatro Tet – Rondas (2003)**
+**Four Tet – Rounds (2003)**
 
-Anticipa la atmósfera de una pequeña fuente de sonido electrónica similar a Pocket Operador. Ritmo y melodía mínimos.
+Pocket Operator的な小型電子音源の雰囲気を先取り。ミニマルなビートと旋律。
 
-**Loto volador – Cosmogramma (2010)**
+**Flying Lotus – Cosmogramma (2010)**
 
-Una textura compleja que combina juguetes electrónicos y pequeños sonidos parecidos a los de un sintetizador.
-
----
-
-## Ⅷ. Artistas Contemporáneos y Sonido de Juguete
-
-Muchos artistas contemporáneos, incluidos Björk, Cornelius, Bon Iver y Laurie Anderson, han incorporado instrumentos de juguete en sus actuaciones y grabaciones en vivo.
-Los sonidos de baja resolución y los ruidos accidentales se convierten en herramientas para crear una sensación de intimidad e improvisación, y son elogiados por atreverse a mantener una sensación de "hecho a mano" en la era digital.
+電子玩具や小型シンセ的なサウンドを組み合わせた複雑なテクスチャ。
 
 ---
 
-## Ⅸ. Música de juguete del futuro
+## Ⅷ. 現代アーティストとトイサウンド
 
-Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
+Björk、Cornelius、Bon Iver、Laurie Andersonなど、多くの現代アーティストはライブや録音におもちゃ的楽器を導入している。  
+低解像度な音や偶然のノイズは、親密さや即興性を演出する道具となり、デジタル全盛時代にあえて“手作り感”を残すことが評価される。
 
 ---
 
-## Apéndice
+## Ⅸ. 未来のトイ・ミュージック
 
-### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
+AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新しいインターフェースの実験場として進化を続ける。  
+“Play”の概念は、再び音楽創作の中心に戻りつつあり、電子音の未来における重要な文化的役割を担っている。
 
-<div class="sirena">
+---
 
-diagrama de flujo TD
+## 付録
 
-A1970["1970: Lanzamiento del Stylophone (Reino Unido)"]
-B1978["1978: Lanzamiento de Omnichord (Japón)"]
-C1979["1979: Se presenta Radel Electronic Tanpura (India)"]
-D1980["1980: Lanzamiento de CASIO VL-TONE (Japón)"]
-E1990["1990: Establecimiento del concepto de Circuit Bending (EE.UU.)"]
-F2007["2007: Lanzamiento del OP-1 de Teenage Engineering (Suecia)"]
-G2010["2010: Serie Pocket Operador (Suecia)"]
-H2020["2020: Se presenta un dispositivo de música de juguete con IA"]
+### 世界のStrange Musical Toys進化史（簡易年表）
+
+<div class="mermaid">
+
+flowchart TD
+
+    A1970["1970：Stylophone発売（英国）"]
+    B1978["1978：Omnichord発売（日本）"]
+    C1979["1979：Radel Electronic Tanpura登場（インド）"]
+    D1980["1980：CASIO VL-TONE発売（日本）"]
+    E1990["1990：Circuit Bending概念確立（米国）"]
+    F2007["2007：Teenage Engineering OP-1発売（スウェーデン）"]
+    G2010["2010：Pocket Operatorシリーズ（スウェーデン）"]
+    H2020["2020：AI玩具音楽デバイス登場"]
     
-A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
+    A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 </div>
 
 ---
 
-### Enlace de Amazon
+### Amazon リンク
 
-[Omniccordio](https://amzn.to/4q7QZFh)
+[Omnichord](https://amzn.to/4q7QZFh)
 
-[Radel Tanpura electrónica] (https://amzn.to/4h7pWFZ)
+[Radel Electronic Tanpura](https://amzn.to/4h7pWFZ)
 
-[Serie de estilófonos](https://amzn.to/4qdQLN9)
+[Stylophoneシリーズ](https://amzn.to/4qdQLN9)
 
-[Operador de bolsillo] (https://amzn.to/46QcVgQ)
+[Pocket Operator](https://amzn.to/46QcVgQ)
 
 ---
 
 
 
-### Álbumes/libros recomendados de Strange Musical Toys
+### Strange Musical Toys おすすめアルバム・本
 
-| Nombre del álbum | Artista | Año de lanzamiento | Dispositivo utilizado/Características | Enlace |
-|------------|--------------|---------|--------------------|--------------|
-| Fantasma | Cornelio | 1997 | Pop/electrónica centrada en acordes Omnichord | [Amazon](https://amzn.to/4h7f2QM) |
-| Vespertino | Bjork | 2001 | Sensación de acordes delicados y sonidos electrónicos diminutos de Omnichord | [Amazon](https://amzn.to/4ojW240) |
-| Rareza espacial | David Bowie | 1969 | Estilofono usado, tono minimalista similar al espacio | [Amazon](https://amzn.to/48r48mx) |
-| Obras ambientales seleccionadas 85–92 | Aphex gemelo | 1992 | Ambient/techno con sonidos electrónicos de juguete como Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
-| Rondas | Cuatro Tet | 2003 | Sonido electrónico mini-sintetizador estilo Pocket Operador | [Amazon](https://amzn.to/4q451HY) |
-| Cosmograma | Loto volador | 2010 | Textura compleja que combina pequeños sonidos de sintetizador y juguete electrónico | [Amazon](https://amzn.to/4q2iujP) |
-| Exploraciones en circuito doblado | Reed Ghazala | 2005 | Libros sobre flexión de circuitos | [Amazon](https://amzn.to/4haxkAD) |
-| Demonio de pulso | Merzbow | 1996 | Música experimental centrada en juguetes electrónicos modificados y ruido. [Amazon](https://amzn.to/46TWAGo) |
-| Juegos de azar solares | Omar Rodríguez-López | 2010 | Mini sintetizador, guitarra de vanguardia con sonidos electrónicos de juguete | [Amazon](https://amzn.to/4ofMWoK) |
-| Gran ciencia | Laurie Anderson | 1982 | Experimentos musicales/interpretativos utilizando Stylophone y sintetizadores simples | [Amazon](https://amzn.to/3WF0yhn) |
+| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
+|------------|--------------|--------|--------------------|--------------|
+| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
+| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
+| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
+| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
+| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
+| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
+| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
+| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
+| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
 

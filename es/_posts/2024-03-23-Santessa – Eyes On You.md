@@ -9,19 +9,19 @@ tags:
 - Downtempo
 - Future Jazz
 - 00s
-title: Santessa - Ojos en ti
+title: Santessa – Eyes On You
 ---
 
 
-"Eyes On You" de Santessa fue lanzado en el sello Disco Volante en el año 2000.
+2000年にレーベルDisco VolanteからリリースされたSantessa（サンテッサ）の「 Eyes On You 」。
 
-El productor es Stuart Matthewman, quien fue el guitarrista y saxofonista de la banda Sade con Sade Adu, Paul S. Denman y Andrew Hale.
+プロデューサーは、 Sade Adu、Paul S. Denman、Andrew Hale とともにSadeというバンドのギタリスト/サックス奏者として活躍したStuart Matthewman（スチュアート・コリン・マシューマン）。
 
-Side A es un remix del dúo británico de soul/neo-soul/pop Hil St Soul, formado por la cantante Hilary Mwelwa y el productor Victor Redwood-Sawyer.
+A面はシンガーのHilary MwelwaとプロデューサーのVictor Redwood-Sawyerからなるブリティッシュソウル・ネオソウル＆ポップデュオHil St Soulによるremix。
 
-La primera pista de la cara B es un remix de Marc Mac (también conocido como Marc Clair) y Dego (también conocido como Dennis McFarlane) del audio electrónico británico 4 Hero.
+B面１曲目は、Marc Mac (aka Marc Clair) と Dego (aka Dennis McFarlane)によるUKエレクトロニックディオ4 Hero（４ヒーロー）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A01. Eyes On You (Hil St Soul Mix)
 
@@ -32,7 +32,7 @@ B01. Eyes On You (4 Hero Mix)
 B02. Eyes On You (Major Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78775841534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78775841534?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hxhf_ZO76QM?si=0o_AB63UvUpkYVAe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

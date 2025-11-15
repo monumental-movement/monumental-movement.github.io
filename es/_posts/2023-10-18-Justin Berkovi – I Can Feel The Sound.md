@@ -8,16 +8,16 @@ layout: post
 tags:
 - Techno
 - UK Techno
-title: Justin Berkovi - Puedo sentir el sonido
+title: Justin Berkovi – I Can Feel The Sound
 ---
 
 
-Justin Berkovi es un DJ/productor de techno radicado en Londres y fundador de Predicaments.
-Además, Justin Berkovi participa en el grupo de música y artes visuales NO FUTURE, dirigido por Christian Vogel, junto con Si Begg, Jamie Lidell y otros.
+Justin Berkovi（ジャスティン・ベルコヴィ）は、ロンドンを拠点とするテクノDJ/プロデューサーであり、Predicamentsの創設者。
+また、Justin Berkovi はCristian Vogel（クリスチャン・ヴォーゲル）が主軸のmusic&ヴィジュアル・アート集団「NO FUTURE」にSi Begg（サイ・ベグ）、ジャミー・リデル（Jamie Lidell）らと共に参加している。
 
-"I Can Feel The Sound" fue lanzado en 2004 por el sello de techno belga Music Man Records. Side A es un remix del DJ/productor Phil Kieran de Belfast, Irlanda del Norte. La primera canción de la cara B es un remix del DJ francés Max Waldern.
+「 I Can Feel The Sound」は、ベルギーのテクノレーベルMusic Man Recordsより2004年にリリース。A面は北アイルランド、ベルファスト出身のDJ/プロデューサーPhil Kieranのremix。B面１曲目はフランス出身のDJ Max Waldernのremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. I Can Feel The Sound (Phil Kieran Remix)
 
@@ -26,7 +26,7 @@ B1. I Can Feel The Sound (Max Walder Remix)
 B2. I Can Feel The Sound (Original Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43603620319?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43603620319?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjN9yi7ZqFk?si=HtMYJnGrM1N4lKrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

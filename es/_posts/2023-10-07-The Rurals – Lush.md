@@ -8,23 +8,23 @@ layout: post
 tags:
 - House
 - Deep House
-title: Los Rurales – Exuberantes
+title: The Rurals – Lush
 ---
 
 
-"Exuberante" es
-Publicado en 2000 en el sello británico "Peng", nombre real Andy Compton.
-Este es un EP del proyecto The Rurals.
+「Lush」は、
+2000年にUKのレーベル「Peng」からリリースされた本名Andy Compton
+によるプロジェクトThe RuralsのEPです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Grey Clouds
 
 B. Lush
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m41046223978?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41046223978?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBy6Huco7aI?si=dRLJVxIBzNqkzyEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

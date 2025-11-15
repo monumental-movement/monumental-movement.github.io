@@ -8,15 +8,15 @@ layout: post
 tags:
 - Disco
 - Hi NRG
-title: Boys Town Gang - Carga de disco
+title: Boys Town Gang – Disc Charge
 ---
 
 
-Boys Town Gang es un grupo post-disco de alta energía formado en 1980 por el DJ y productor disco de San Francisco Bill Motley.
+Boys Town Gang（ボーイズ・タウン・ギャング）は、サンフランシスコのディスコDJ・プロデューサー Bill Motley（ビル・モトリー）によって 1980年に結成されたポストディスコ・ハイエナジーグループ。
 
-Disc Charge, lanzado en 1981, fue el segundo álbum de Boys Town Gang e incluía una versión de su exitosa canción, "Can't Take My Eyes Off You".
+1981年にリリースされた「Disc Charge」は、Boys Town Gang２枚目のアルバムで、彼らのヒット曲「Can't Take My Eyes Off You（君の瞳に恋してる/フランキー ヴァリ）」のカバーも収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Can't Take My Eyes Off You
 
@@ -31,7 +31,7 @@ B2. Disco Kicks (Remix)
 B3. Can't Take My Eyes Off You (Reprise)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70606757946?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70606757946?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvNdWwsAMzI?si=yerdsgZaaZci1OpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

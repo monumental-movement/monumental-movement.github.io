@@ -9,17 +9,17 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: Orquesta Mahavishnu – Entre la nada y la eternidad
+title: Mahavishnu Orchestra – Between Nothingness & Eternity
 ---
 
 
-Between Nothingness & Eternity, lanzado en 1973, fue el primer álbum en vivo de la Mahavishnu Orchestra.
+1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
 
-Este álbum fue el último con miembros originales, ya que la banda se disolvió en diciembre de 1973.
+バンドは1973年12月に一旦解散したため、このアルバムがオリジナルメンバーによる最後のアルバムとなった。
 
-Los miembros participantes en ese momento fueron John McLaughlin (guitarra), Jerry Goodman (violín), Jan Hammer (teclados), Rick Laird (bajo) y Billy Cobham (batería).
+この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Trilogy 悲の3部曲
 
@@ -32,7 +32,7 @@ A2. Sister Andrea シスター・アンドレア
 B. Dream ドリーム
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

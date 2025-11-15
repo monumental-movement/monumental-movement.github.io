@@ -10,20 +10,20 @@ tags:
 - Techno
 - Ambient
 - 90s
-title: Sanjiva – Habitaciones secretas sobre un deleite fluido
+title: Sanjiva – Secret Rooms Over Flowing Delight
 ---
 
 
-Una pista de trance techno ambiental de Charles Reix, también conocido como Sanjiva. Fue lanzado en 1996 en el propio sello de Sanjiva, Ninetysix Sounds. También trabajó bajo el nombre de Charles Kyosan.
+Sanjiva ことCharles Reixによるテクノ・アンビエント・トランストラック。1996年にSanjiva自身のレーベルNinetysix Soundsからリリースされた。Charles Kyosan名義でも活動していた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Secret Rooms
 
 B. Over Flowing Delight
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

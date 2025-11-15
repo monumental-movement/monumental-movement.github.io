@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - Ambient
-title: Sven Vath – Fusión
+title: Sven Vath – Fusion
 ---
 
 
-"Sven Väth - Fusion" es un álbum del DJ y productor de techno alemán Sven Väth. Es una figura muy importante en la escena de la música techno y ha tenido una larga y exitosa carrera.
+「Sven Väth - Fusion」は、ドイツのテクノDJおよびプロデューサー、スヴェン・ヴァス（Sven Väth）によるアルバムです。彼はテクノミュージックシーンで非常に重要な存在であり、そのキャリアは長く成功を収めています。
 
-"Fusion" es un álbum lleno de ritmos poderosos, ritmos maravillosos y paisajes sonoros de ensueño.
+「Fusion」はアルバム全体で、迫力のあるビート、グルーヴィなリズム、幻想的なサウンドスケープが展開されています。
 
-El álbum presenta pistas originales y remezclas que reflejan su estilo y talento únicos. Sus habilidades de DJ y producción se combinan para crear un mundo único y dinámico de música techno.
+このアルバムにはオリジナルトラックやリミックスが収録されており、独自のスタイルと才能が反映されています。彼のDJスキルとプロデュース力が相まって、独創的でダイナミックなテクノミュージックの世界が描かれています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Fusion
 
@@ -41,7 +41,7 @@ El álbum presenta pistas originales y remezclas que reflejan su estilo y talent
 10. Blue Spliff
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Idk_yNSjOa4?si=0nqeThRZbbds7GiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

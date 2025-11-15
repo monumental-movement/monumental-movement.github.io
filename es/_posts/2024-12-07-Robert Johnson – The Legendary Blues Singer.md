@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - Blues
-title: Robert Johnson – El legendario cantante de blues
+title: Robert Johnson – The Legendary Blues Singer
 ---
 
 
-Robert Johnson es un maestro del estilo blues y delta blues, conocido como uno de los músicos más influyentes del siglo XX.
+Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの一人として知られる、ブルース&デルタブルーススタイルの巨匠。
 
-Las fuentes sonoras que dejó en dos grabaciones realizadas entre 1936 y 1937 tuvieron una gran influencia en las generaciones futuras de músicos.
+1936年〜1937年の2回のレコーディングで残した音源は後世のミュージシャンに多大なる影響を与えた。
 
-"The Legendary Blues Singer" es un álbum recopilatorio de las famosas canciones de Robert Johnson.
+「The Legendary Blues Singer」は、Robert Johnsonの名曲を集めたコンピレーションアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Kindhearted Woman Blues
 2. Sweet Home Chicago
@@ -34,8 +34,8 @@ Las fuentes sonoras que dejó en dos grabaciones realizadas entre 1936 y 1937 tu
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

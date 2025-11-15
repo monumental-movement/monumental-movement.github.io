@@ -9,20 +9,20 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: Stevie Wonder – Sólo llamé para decirte que te amo
+title: Stevie Wonder – I Just Called To Say I Love You
 ---
 
 
-"Stevie Wonder – Acabo de llamar para decirte que te amo" fue lanzado por Motown en 1984.
+「Stevie Wonder（スティーヴィー・ワンダー） – I Just Called To Say I Love You」は、1984にモータウンからリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. I Just Called To Say I Love You
 
 B. I Just Called To Say I Love You (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33486792512?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33486792512?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41oBGX58n5k?si=zN3bJtUUX9zKON_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

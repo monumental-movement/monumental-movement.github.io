@@ -9,25 +9,25 @@ tags:
 - Techno
 - Anthem
 - 00s
-title: Samuel L – Día y noche
+title: Samuel L – Day n' Night
 ---
 
 
-Samuel L es un DJ y productor de techno tribal sueco. "Day n' Night" es una pista de techno lanzada en 2001 por SSL, que él dirige.
+Samuel Lは、スウェーデンのトライバルテクノDJ・プロデューサー。「Day n' Night」は自身が運営するSSLより2001年にリリースしたテクノトラック。
 
-La canción "Merengue" fue remezclada por Slam y Oliver Ho en 2002 y se convirtió en un éxito de discoteca.
+収録曲「Merengue」は、2002年にSlamやOliver Hoによりリミックスされクラブヒットになりました。
 
-Esta pista representa los cambios en la escena techno desde el lanzamiento del himno techno de Detroit "Knights Of The Jaguar" en 1999, incorporando el sonido típico del techno de Detroit, caracterizado por poderosas líneas de bajo, ritmos duros y elementos psicodélicos.
+1999年にリリースされたデトロイト・テクノアンセム「Knights Of The Jaguar」以降のテクノシーンの変化を代表するトラックで、パワフルなベースライン、硬質なビート、そしてサイケデリックな要素を特徴とするデトロイト・テクノの典型的なサウンドを体現しています。
 
-No hace falta decir que el éxito de "Knights Of The Jaguar" tuvo un gran impacto en la escena techno, y muchos artistas comenzaron a buscar sonidos más duros y agresivos, lo que llevó al techno a evolucionar hacia una música más experimental y de vanguardia.
+「Knights Of The Jaguar」の成功は、テクノシーンに大きな影響を与えた事は言うまでもなく、多くのアーティストたちがよりハードでアグレッシブなサウンドを追求するようになり、テクノはより実験的で前衛的な音楽へと進化していきました。
 
-"Day n' Night" de Samuel L es un trabajo representativo del sonido techno después del innovador "Knights Of The Jaguar", que supuso un punto de inflexión en la escena techno y que también tuvo una gran influencia.
+このSamuel Lの「Day n' Night」は、テクノシーンの転換点となった画期的な「Knights Of The Jaguar」の後のテクノサウンドとして代表的な作品であり、また大きな影響を与えました。
 
-Entre los temas techno de 2001, se encuentra un sonido techno justo después del milenio, con elementos funky entrelazados con un ritmo directo, un bombo agradable, sin pausas ni voces, solo música.
+2001年のテクノトラックの中で、まさにミレニアム直後のテクノサウンドで、まっすぐなビートにファンキーな要素が絡み合い、心地よいバスドラム、ブレイクもボーカルもなく、ただひたすら音楽が鳴っています。
 
-Este disco es una gran canción que definitivamente alegrará el día a cualquier amante del techno.
+このレコードは、テクノ好きを間違いなく最高の一日にしてくれる最高のトラックです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1.Outer Track. Merengue
 
@@ -38,7 +38,7 @@ B1. Outer Track. Whithin
 B2. Inner Track. Black On Black
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

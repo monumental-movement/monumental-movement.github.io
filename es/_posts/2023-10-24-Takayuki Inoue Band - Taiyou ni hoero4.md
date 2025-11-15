@@ -13,17 +13,17 @@ title: Takayuki Inoue Band - Taiyou ni hoero4
 ---
 
 
-"Takayuki Inoue Band – Hoero ni Taiyo! 4" es la banda sonora original del drama televisivo "Hoero ni Taiyo!"
+「井上堯之バンド – 太陽にほえろ！4」は、テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラックです。
 
-Lanzado en 1976 por Polydor.
+Polydorより1976年にリリースされました。
 
-Actuación – Banda Takayuki Inoue
+演奏 – 井上堯之バンド
 
-Composición y arreglo – Katsuo Ohno
+作曲編曲 – 大野克夫
 
-Productor: Koji Ishikawa
+プロデューサー – 石川浩二
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. 冒険のテーマ・1
 
@@ -33,5 +33,5 @@ B1. 新「愛」のテーマ
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
 

@@ -8,14 +8,14 @@ layout: post
 tags:
 - Hiphop
 - Classic
-title: 'Enemigo público: miedo a un planeta negro'
+title: Public Enemy – Fear Of A Black Planet
 ---
 
 
-"Fear of a Black Planet" de Public Enemy ha sido muy aclamado como un álbum excelente musical y conceptualmente.
+Public Enemyの「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Contract On The World Love Jam (Instrumental)
 
@@ -58,7 +58,7 @@ B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 B10. Fight The Power
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ tags:
 - Techno
 - Tech House
 - Electro
-title: Adam Kroll – Sílfide
+title: Adam Kroll – Sylphen
 ---
 
 
-Un tema minimalista de electro-tech house lanzado en 2004 por Adam Kroll, conocido por su material GODZILLA, en el sello Traum Schallplatten, con sede en Colonia, Alemania.
+GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Squonk
 
@@ -24,7 +24,7 @@ B1. Yngoor
 B2. Puk
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBNMeHpfPO0?si=lwaDKtkLt-6HyMph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,371 +8,371 @@ layout: post
 tags:
 - Hard Rock
 - Game
-title: '[Columna] Historia de la intersección del hard rock y la cultura de los videojuegos'
+title: 【コラム】 ハードロックとゲーム文化の交差史
 ---
 
 
 
-## Considerando la relación entre los principales discos de hard rock y la cultura del juego
+## ハードロックの代表的な名盤とゲーム文化の関係を考察
 
 
-Texto: mmr｜Tema: Relación entre el hard rock y la cultura de los videojuegos
+文：mmr｜テーマ：ハードロックとゲーム文化の関係性
 
 
-El hard rock nació del blues rock y el rock psicodélico a finales de los años 1960 y su popularidad explotó en los años 1970. Por otro lado, la cultura de los videojuegos comenzó a surgir a finales de los años 1970 y se consolidó como cultura popular en los años 1980. Aunque ambos se han desarrollado de forma independiente, han compartido el impacto del sonido, la estética visual y la cultura juvenil, creando intersecciones inesperadas en cada época. Aquí, organizaremos las relaciones por época y analizaremos las conexiones entre las obras maestras representativas y la cultura del juego.
+ハードロックは1960年代末のブルースロックやサイケデリックロックから生まれ、1970年代に爆発的に普及しました。一方、ビデオゲーム文化は1970年代後半から芽生え、1980年代以降に大衆文化として定着していきます。両者は独立して発展しながらも、**音の衝撃・ヴィジュアル美学・若者文化**を共有し、時代ごとに意外な交差点を築いてきました。ここでは年代別にその関係性を整理し、代表的な名盤とゲーム文化を結び付けて振り返ります。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Décadas de 1960 y 1970: nacimiento del hard rock y vísperas de las salas recreativas
+## 1960s〜1970s：ハードロック誕生とアーケード前夜
 
-- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecen en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
-- **Punto de contacto con los juegos**: Esta era todavía estaba en los primeros días de las salas de juegos (en vísperas de ""Pong" y ""Space Invaders"). Aunque el vínculo directo es débil, el arte psicodélico y los experimentos con sonidos electrónicos crean semillas que resuenan con la estética de la música electrónica del juego.
+- **時代背景**：ロンドンやロサンゼルスでレッド・ツェッペリン、ディープ・パープル、ブラック・サバスが登場。爆音とリフの重厚さで新しい音楽体験を提示。  
+- **ゲームとの接点**：この時代はまだアーケード黎明期（「Pong」「スペースインベーダー」前夜）。直接のリンクは弱いが、**サイケデリックなアートワークや電気的サウンドの実験**が、ゲームの電子音楽美学と共鳴する萌芽を生む。
 
-**Obra maestra representativa**
+**代表的名盤**  
 
--Led Zeppelin – *Led Zeppelin IV* (1971)
-- Púrpura profundo – *Machine Head* (1972)
-- Black Sabbath – *Paranoico* (1970)
+- Led Zeppelin – *Led Zeppelin IV* (1971)  
+- Deep Purple – *Machine Head* (1972)  
+- Black Sabbath – *Paranoid* (1970)  
 
-**10 pistas recomendadas**
+**おすすめトラック10選**  
 
-| Título de la canción | Artista |
+| 曲名 | アーティスト |
 |------|--------------|
-| Escalera al cielo | Led Zepelín |
-| Humo en el agua | Púrpura profundo |
-| Hombre de Hierro | Sábado negro |
-| Estrella de la autopista | Púrpura profundo |
-| Mucho amor | Led Zepelín |
-| Paranoico | Sábado negro |
-| Canción del Inmigrante | Led Zepelín |
-| Cerdos de guerra | Sábado negro |
-| Niño en el tiempo | Púrpura profundo |
-| Rock and Roll | Led Zepelín |
+| Stairway to Heaven | Led Zeppelin |
+| Smoke on the Water | Deep Purple |
+| Iron Man | Black Sabbath |
+| Highway Star | Deep Purple |
+| Whole Lotta Love | Led Zeppelin |
+| Paranoid | Black Sabbath |
+| Immigrant Song | Led Zeppelin |
+| War Pigs | Black Sabbath |
+| Child in Time | Deep Purple |
+| Rock and Roll | Led Zeppelin |
 
-**Títulos de juegos representativos**
+**代表的ゲームタイトル**  
 
-| Año | Título | Notas |
-|------|------------|------|
-| 1972 | Pong | El primer éxito arcade del mundo |
-| 1976 | Fuga | Imágenes y sonido simples, pero con ritmo rockero |
-| 1978 | Invasores espaciales | El título que definió el boom de los videojuegos |
+| 年代 | タイトル | 備考 |
+|------|-----------|------|
+| 1972 | Pong | 世界初のアーケード大ヒット |
+| 1976 | Breakout | ビジュアルと音がシンプルだがロック的なリズム感 |
+| 1978 | Space Invaders | ビデオゲームブームを決定づけたタイトル |
 
 ---
 
-## Década de 1980: la edad de oro del hard rock y el auge de los juegos arcade
+## 1980s：ハードロックの黄金期とアーケードゲームの隆盛
 
-- **Antecedentes temporales**: El hard rock estadounidense como Mötley Crüe y Van Halen estaba en auge en todo el mundo. Con la llegada de MTV, se conectó directamente con la cultura visual.
-- **Punto de contacto con los juegos**: La época dorada de los arcades ("Space Invaders", "Pacman", "Outrun"). En particular, Sega y Namco reproducen la sensación trepidante de la música rock con chips de sonido.
-- El sonido del solo de guitarra de Van Halen y la sensación de trituración de 8 bits del juego están vinculados de forma audible.
+- **時代背景**：モトリー・クルーやヴァン・ヘイレンなどのアメリカン・ハードロックが世界的に台頭。MTVの登場で映像文化と直結。  
+- **ゲームとの接点**：アーケード黄金期（『スペースインベーダー』『パックマン』『アウトラン』）。特にセガやナムコは、ロック的な疾走感をサウンドチップで再現。  
+- ヴァン・ヘイレンのギターソロ的なサウンドと、ゲームの8bitシュレッド感が聴覚的にリンク。
 
-**Obra maestra representativa**
+**代表的名盤**  
 
--Van Halen – *1984* (1984)
-- Mötley Crüe – *Grita al diablo* (1983)
-- Def Leppard – *Histeria* (1987)
+- Van Halen – *1984* (1984)  
+- Mötley Crüe – *Shout at the Devil* (1983)  
+- Def Leppard – *Hysteria* (1987)  
 
-**10 pistas recomendadas**
+**おすすめトラック10選**  
 
-| Título de la canción | Artista |
+| 曲名 | アーティスト |
 |------|--------------|
-| Saltar | Van Halen |
-| Panamá | Van Halen |
-| Gritarle al diablo | Mötley Crüe |
-| Dr. Siéntete bien | Mötley Crüe |
-| Fotografía | Def Leppard |
-| Vierta un poco de azúcar sobre mí | Def Leppard |
-| Tren Loco | Ozzy Osbourne |
-| Ladrar a la Luna | Ozzy Osbourne |
-| Viviendo de una oración | Bon Jovi |
-| Se busca vivo o muerto | Bon Jovi |
+| Jump | Van Halen |
+| Panama | Van Halen |
+| Shout at the Devil | Mötley Crüe |
+| Dr. Feelgood | Mötley Crüe |
+| Photograph | Def Leppard |
+| Pour Some Sugar on Me | Def Leppard |
+| Crazy Train | Ozzy Osbourne |
+| Bark at the Moon | Ozzy Osbourne |
+| Livin’ on a Prayer | Bon Jovi |
+| Wanted Dead or Alive | Bon Jovi |
 
-**Títulos de juegos representativos**
+**代表的ゲームタイトル**  
 
-| Año | Título | Notas |
-|------|------------|------|
-| 1980 | Pac-Man | Icono de la cultura pop |
-| 1981 | Donkey Kong | Símbolo del avance de Nintendo |
-| 1983 | Guarida del Dragón | Animación innovadora y producción musical |
-| 1986 | Correr más | BGM con una sensación de conducción rockera |
-| 1987 | Contra | Experiencia de juego explosiva y afinidad por el hard rock |
-| 1989 | Pelea final | Sonido de batalla y hard rock |
+| 年代 | タイトル | 備考 |
+|------|-----------|------|
+| 1980 | Pac-Man | ポップカルチャーアイコン化 |
+| 1981 | Donkey Kong | 任天堂の躍進を象徴 |
+| 1983 | Dragon’s Lair | アニメーションと音楽演出が革新的 |
+| 1986 | OutRun | ロック的ドライビング感を持つBGM |
+| 1987 | Contra | 爆音的ゲーム体験とハードロックの親和性 |
+| 1989 | Final Fight | バトルとハードロック風サウンド |
 
 ---
 
-## Década de 1990: el auge de las alternativas y las consolas domésticas
+## 1990s：オルタナティブと家庭用ゲーム機の台頭
 
-- **Antecedentes temporales**: Con el auge del grunge y la música alternativa, el hard rock clásico estaba en un cierto declive. Sin embargo, cuenta con un fuerte apoyo de bandas de metal como Metallica.
-- **Punto de contacto con los juegos**: Con la llegada de PlayStation y Nintendo 64 se crearon las fuentes de sonido en CD. El uso de "canciones de rock reales" en los juegos también está aumentando.
-- La serie "Gran Turismo" y "Tony Hawk"s Pro Skater" son símbolos de la conexión directa entre el rock y los juegos.
+- **時代背景**：グランジやオルタナが台頭し、クラシックなハードロックはやや退潮。ただしメタリカなどのメタル勢が強く支持。  
+- **ゲームとの接点**：PlayStation、Nintendo 64の登場でCD音源化。ゲームに「実際のロック楽曲」が使われることも増加。  
+- 『Gran Turismo』シリーズや『Tony Hawk’s Pro Skater』がロックとゲームを直結させた象徴。  
 
-**Obra maestra representativa**
+**代表的名盤**  
 
-- Guns N" Roses – *Usa tu ilusión I y II* (1991)
-- Metallica – *Metallica (Álbum Negro)* (1991)
-- Aerosmith – *Consigue un control* (1993)
+- Guns N’ Roses – *Use Your Illusion I & II* (1991)  
+- Metallica – *Metallica (Black Album)* (1991)  
+- Aerosmith – *Get a Grip* (1993)  
 
-**10 pistas recomendadas**
+**おすすめトラック10選** 
 
-| Título de la canción | Artista |
+| 曲名 | アーティスト |
 |------|--------------|
-| Entra Sandman | Metálica |
-| Nada más importa | Metálica |
-| Lluvia de noviembre | Guns N' Roses |
-| No llores | Guns N' Roses |
-| Consiga un agarre | Aerosmith |
-| Llorando | Aerosmith |
-| Huele a espíritu adolescente | Nirvana |
-| Ven como eres | Nirvana |
-| Vivo | Mermelada de perlas |
-| Sol del agujero negro | Jardín sonoro |
+| Enter Sandman | Metallica |
+| Nothing Else Matters | Metallica |
+| November Rain | Guns N’ Roses |
+| Don’t Cry | Guns N’ Roses |
+| Get a Grip | Aerosmith |
+| Cryin’ | Aerosmith |
+| Smells Like Teen Spirit | Nirvana |
+| Come As You Are | Nirvana |
+| Alive | Pearl Jam |
+| Black Hole Sun | Soundgarden |
 
-**Títulos de juegos representativos**
+**代表的ゲームタイトル**  
 
-| Año | Título | Notas |
-|------|------------|------|
-| 1991 | Sonic el erizo | Velocidad y energía del rock |
-| 1994 | Condenación II | Riff de guitarra pesada BGM |
-| 1997 | Final Fantasy VII | Fusión sinfónica y rock |
-| 1997 | Gran Turismo | Con canciones reales de rock/techno |
-| 1999 | El patinador profesional de Tony Hawk | Un ejemplo típico de la conexión directa entre la música rock y los juegos |
+| 年代 | タイトル | 備考 |
+|------|-----------|------|
+| 1991 | Sonic the Hedgehog | スピード感とロック的エナジー |
+| 1994 | Doom II | 重厚なギターリフ的BGM |
+| 1997 | Final Fantasy VII | シンフォニックとロック融合 |
+| 1997 | Gran Turismo | 実際のロック／テクノ楽曲を搭載 |
+| 1999 | Tony Hawk’s Pro Skater | ロック音楽とゲームを直結させた代表例 |
 
 ---
 
-## Década de 2000: era digital y auge de los "juegos de música"
+## 2000s：デジタル時代と「音ゲー」ブーム
 
-- **Antecedentes**: Nu-Metal y Post-Grunge fueron éxitos. Aunque la tradición del hard rock está fragmentada, todavía está viva y coleando.
-- **Conexión con los juegos**: Las series "Guitar Hero" y "Rock Band" se han convertido en fenómenos sociales. Las canciones clásicas de hard rock del pasado están siendo redescubiertas por una nueva generación.
-- Los juegos musicales se convirtieron en un "dispositivo de reeducación" para el hard rock, presentando a Led Zeppelin y Metallica a los adolescentes.
+- **時代背景**：Nu-MetalやPost-Grungeがヒット。ハードロックの伝統は細分化されつつも健在。  
+- **ゲームとの接点**：『Guitar Hero』『Rock Band』シリーズが社会現象化。過去のハードロック名曲が新世代に再発見される。  
+- 音楽ゲームはハードロックの「再教育装置」となり、レッド・ツェッペリンやメタリカを10代に浸透させた。
 
-**Obra maestra representativa**
-- Linkin Park – *Teoría híbrida* (2000)
-- Audioslave – *Audioslave* (2002)
-- System of a Down – *Toxicidad* (2001)
+**代表的名盤**  
+- Linkin Park – *Hybrid Theory* (2000)  
+- Audioslave – *Audioslave* (2002)  
+- System of a Down – *Toxicity* (2001)  
 
-**10 pistas recomendadas**
+**おすすめトラック10選**  
 
-| Título de la canción | Artista |
+| 曲名 | アーティスト |
 |------|--------------|
-| Al final | Linkin Park |
-| Arrastrándose | Linkin Park |
-| ¡Chop Suey! | Sistema de caída |
-| Toxicidad | Sistema de caída |
-| cochis | Audioesclavo |
-| Como una piedra | Audioesclavo |
-| entumecido | Linkin Park |
-| Un paso más cerca | Linkin Park |
-| Tráeme a la vida | Evanescencia |
-| Mi inmortal | Evanescencia |
+| In the End | Linkin Park |
+| Crawling | Linkin Park |
+| Chop Suey! | System of a Down |
+| Toxicity | System of a Down |
+| Cochise | Audioslave |
+| Like a Stone | Audioslave |
+| Numb | Linkin Park |
+| One Step Closer | Linkin Park |
+| Bring Me to Life | Evanescence |
+| My Immortal | Evanescence |
 
 
-**Títulos de juegos representativos**
+**代表的ゲームタイトル**  
 
-| Año | Título | Notas |
-|------|------------|------|
-| 2001 | Halo: combate evolucionado | El rock se encuentra con una partitura épica |
-| 2005 | Héroe de la guitarra | Desencadenante del redescubrimiento del rock |
-| 2007 | Banda de rock | Llevando la experiencia de la banda a tu hogar |
-| 2008 | Gran robo de auto IV | Varias canciones de rock grabadas en la radio |
-| 2009 | Leyenda brutal | El mundo del hard rock se ve a sí mismo |
+| 年代 | タイトル | 備考 |
+|------|-----------|------|
+| 2001 | Halo: Combat Evolved | ロックと壮大なスコアが融合 |
+| 2005 | Guitar Hero | ロック再発見のトリガー |
+| 2007 | Rock Band | バンド体験を家庭に持ち込む |
+| 2008 | Grand Theft Auto IV | ラジオに多彩なロック楽曲収録 |
+| 2009 | Brutal Legend | ハードロック世界観そのものを題材化 |
 
 ---
 
-## Década de 2010 ~ Presente: era del streaming y reevaluación
+## 2010s〜現在：ストリーミング時代と再評価
 
-- **Antecedentes**: El hard rock clásico se está redescubriendo a través de Spotify y YouTube.
-- **Punto de contacto con los juegos**: En los deportes electrónicos y la cultura de distribución, el hard rock asumirá un nuevo papel como "música de música en vivo para juegos" y "música arreglada para juegos de ritmo".
-- También han aparecido juegos como *Doom (2016)* que incorporan audazmente sonidos de hard rock/metal, enfatizando una vez más la relación entre "música explosiva y adrenalina".
+- **時代背景**：SpotifyやYouTubeを通じ、クラシックハードロックが再発見される。  
+- **ゲームとの接点**：eスポーツや配信文化の中で、ハードロックが「ゲーム実況BGM」や「リズムゲームのアレンジ曲」として新しい役割を担う。  
+- *Doom (2016)* のように、ハードロック／メタル的サウンドを大胆に取り込んだゲームも登場し、再び「爆音とアドレナリン」の関係が強調。
 
-**Obra maestra representativa**
+**代表的名盤**  
 
-- Foo Fighters – *Desperdiciando luz* (2011)
-- Fantasma – *Meliora* (2015)
-- Greta Van Fleet – *Himno del ejército pacífico* (2018)
+- Foo Fighters – *Wasting Light* (2011)  
+- Ghost – *Meliora* (2015)  
+- Greta Van Fleet – *Anthem of the Peaceful Army* (2018)  
 
-**10 pistas recomendadas**
+**おすすめトラック10選**  
 
-| Título de la canción | Artista |
+| 曲名 | アーティスト |
 |------|--------------|
-| Cuerda | Foo Fighters |
-| Caminar | Foo Fighters |
-| Cirice | Fantasma |
-| Martillo cuadrado | Fantasma |
-| Canción de safari | Flota Greta Van |
-| Sintonía de la autopista | Flota Greta Van |
-| El pretendiente | Foo Fighters |
-| Ejecutar | Foo Fighters |
-| Ratas | Fantasma |
-| Campanas rotas | Flota Greta Van |
+| Rope | Foo Fighters |
+| Walk | Foo Fighters |
+| Cirice | Ghost |
+| Square Hammer | Ghost |
+| Safari Song | Greta Van Fleet |
+| Highway Tune | Greta Van Fleet |
+| The Pretender | Foo Fighters |
+| Run | Foo Fighters |
+| Rats | Ghost |
+| Broken Bells | Greta Van Fleet |
 
 
-**Títulos de juegos representativos**
+**代表的ゲームタイトル**  
 
-| Año | Título | Notas |
-|------|------------|------|
-| 2013 | El último de nosotros | Funciona con una impresionante música de guitarra |
-| 2016 | Perdición (reinicio) | Sonido directamente conectado al metal/hard rock |
-| 2018 | Redención muerta roja 2 | Visión del mundo épica del rock |
-| 2020 | Ciberpunk 2077 | Encarnando la actitud del rock |
-| 2023 | RUSH de alta fidelidad | Fusión de música rock y acción rítmica |
-
----
-
-## Lista de canciones de hard rock incluidas en el juego de música.
-
-Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band** han desempeñado un papel importante a la hora de llevar los clásicos del hard rock del pasado a una nueva generación. Además, han aparecido muchas interpretaciones únicas del hard rock en los juegos musicales arcade japoneses. El siguiente es un ejemplo típico de grabación.
+| 年代 | タイトル | 備考 |
+|------|-----------|------|
+| 2013 | The Last of Us | ギター音楽が印象的な作品 |
+| 2016 | Doom (Reboot) | メタル／ハードロック直結のサウンド |
+| 2018 | Red Dead Redemption 2 | ロック的叙事詩の世界観 |
+| 2020 | Cyberpunk 2077 | ロックアティチュードを体現 |
+| 2023 | Hi-Fi RUSH | ロック音楽とリズムアクションの融合 |
 
 ---
 
-## Canciones de la serie Guitar Hero
+## 音楽ゲームに収録されたハードロック楽曲一覧
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Héroe de la guitarra (2005) | Humo en el agua | Púrpura profundo | Canciones famosas que aparecieron en la primera generación |
-| Guitar Hero II (2006) | Dulce niño mío | Guns N' Roses | Impresionante solo de guitarra |
-| Guitar Hero II (2006) | Continuar hijo descarriado | Kansas | Himno del rock duro |
-| Guitar Hero III (2007) | Bienvenidos a la Selva | Guns N' Roses | Una de las canciones más populares de la serie |
-| Guitar Hero III (2007) | Uno | Metálica | Famosa como una canción muy difícil |
-| Guitar Hero III (2007) | A través del fuego y las llamas | Fuerza Dragón | Canción intensa legendaria |
-| Guitar Hero: Aerosmith (2008) | Sigue soñando | Aerosmith | Spin-off específico de la banda |
-| Héroe de la guitarra: Metallica (2009) | Maestro de los títeres | Metálica | Spin-off específico de la banda |
+2000年代以降、**Guitar Hero** や **Rock Band** といった音楽ゲームは、過去のハードロック名曲を新世代に届ける重要な役割を果たしました。さらに日本のアーケード音楽ゲームでも、独自のハードロック解釈が多数登場しました。以下は代表的な収録例です。
 
 ---
 
-## Canciones de la serie Rock Band
+## Guitar Hero シリーズ収録曲
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Banda de rock (2007) | Paranoico | Sábado negro | Canciones representativas de la grabación original |
-| Banda de rock (2007) | No se dejará engañar otra vez | El Quién | Roca larga |
-| Banda de rock 2 (2008) | ¡Chop Suey! | Sistema de caída | Nu-Metal representativo |
-| Banda de rock 2 (2008) | Siempre largo | Foo Fighters | Canciones representativas de los años 90 |
-| Banda de rock 3 (2010) | Rapsodia bohemia | Reina | Fusión de piano y guitarra |
-| Banda de rock 3 (2010) | Tren Loco | Ozzy Osbourne | Roca dura real |
-
----
-
-## Canciones de juegos de música arcade japoneses.
-
-### KONAMI: Serie GuitarFreaks / DrumMania
-
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| GuitarFreaks primero (1999) | Mundo Jet | Mutsuhiko Izumi | Primera canción representativa, con fuerte sabor a hard rock |
-| GuitarFreaks 2º (1999) | Hipnótica | Mutsuhiko Izumi | Solo técnico de guitarra |
-| GuitarFreaks 4to (2001) | Fuego | Mutsuhiko Izumi | Riff de rock de carretera real |
-| DrumManía 7º (2002) | Los menos 100 segundos | Equipo de sonido BEMANI | Rock progresivo x estilo hard rock |
-| Serie GF/DMV (2005~) | MODELO serie DD | Mutsuhiko Izumi | Legendaria como pieza de guitarra difícil |
-| GF/DM V4 (2007) | SUEÑO DE DÍA | Mutsuhiko Izumi | Una obra maestra que atormenta a los instrumentistas con su guitarra explosiva |
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Guitar Hero (2005) | Smoke on the Water | Deep Purple | 初代に登場した名曲 |
+| Guitar Hero II (2006) | Sweet Child O’ Mine | Guns N’ Roses | ギターソロが印象的 |
+| Guitar Hero II (2006) | Carry on Wayward Son | Kansas | ハードロック的アンセム |
+| Guitar Hero III (2007) | Welcome to the Jungle | Guns N’ Roses | シリーズ屈指の人気曲 |
+| Guitar Hero III (2007) | One | Metallica | 高難度曲として有名 |
+| Guitar Hero III (2007) | Through the Fire and Flames | DragonForce | 伝説的激ムズ曲 |
+| Guitar Hero: Aerosmith (2008) | Dream On | Aerosmith | バンド特化スピンオフ |
+| Guitar Hero: Metallica (2009) | Master of Puppets | Metallica | バンド特化スピンオフ |
 
 ---
 
-### KONAMI: serie beatmania IIDX (ejemplo de grabación de hard rock)
+## Rock Band シリーズ収録曲
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| IIDX 3º (1999) | V | TAKA | Arreglo estilo guitarra clásica x HR |
-| IIDX 9º (2002) | Abyss -The Heavens Remix- | dj TAKA remezclado por Ryu ☆ | Contiene elementos metálicos |
-| IIDX 14 ORO (2007) | V2 | TAKA | Remake con énfasis en el sonido de la banda |
-
----
-
-### Bandai Namco: Serie Taiko no Tatsujin
-
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Taiko no Tatsujin 6 (2004) | NO CORTAR | Jimmy Weckl | Tambores de fusión dura |
-| Taiko no Tatsujin 11 (2007) | Ranúnculo Rumble | Seiya Murai | Rock a base de guitarras |
-| Taiko no Tatsujin 14 (2010) | Xa | tatsh | Canción de metal de alta velocidad |
-| Taiko no Tatsujin verde Ver. (2018) | MEGALOVANIA | Toby Fox | Origen de la música de juegos basada en riffs de guitarra |
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Rock Band (2007) | Paranoid | Black Sabbath | 初代収録の代表曲 |
+| Rock Band (2007) | Won’t Get Fooled Again | The Who | 長尺ロック |
+| Rock Band 2 (2008) | Chop Suey! | System of a Down | Nu-Metal代表格 |
+| Rock Band 2 (2008) | Everlong | Foo Fighters | 90s以降の代表曲 |
+| Rock Band 3 (2010) | Bohemian Rhapsody | Queen | ピアノとギターの融合 |
+| Rock Band 3 (2010) | Crazy Train | Ozzy Osbourne | 王道ハードロック |
 
 ---
 
-### KONAMI: Serie SONIDO VOLTEX
+##  日本のアーケード音楽ゲーム収録曲
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| STAND DE SONIDO VOLTEX (2012) | Emperador Negro | Bosquejo aproximado | Núcleo metálico + Electro |
-| SONIDO VOLTEX II (2013) | INFECCIÓN XROSA | BlackY contra siromaru | Núcleo Hard Rock x Speed ​​|
-| SONIDO VOLTEX III (2014) | Memorias de crecimiento | akhuta | Sonido de banda |
-| SONIDO VOLTEX ONDA VÍVIDA (2019) | Yo | nora2r | Estilo hard rock digital |
+### KONAMI: GuitarFreaks / DrumMania シリーズ
+
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| GuitarFreaks 1st (1999) | Jet World | 泉陸奥彦 | 初代代表曲、ハードロック色濃厚 |
+| GuitarFreaks 2nd (1999) | Hypnotica | 泉陸奥彦 | テクニカルなギターソロ |
+| GuitarFreaks 4th (2001) | Fire | 泉陸奥彦 | 王道ロックリフ |
+| DrumMania 7th (2002) | The Least 100sec | BEMANI Sound Team | プログレ×ハードロック調 |
+| GF/DM Vシリーズ (2005〜) | MODEL DDシリーズ | 泉陸奥彦 | ギター難曲として伝説的存在 |
+| GF/DM V4 (2007) | DAY DREAM | Mutsuhiko Izumi | 爆速ギターでプレイヤーを苦しめた名曲 |
 
 ---
 
-## Canciones de hard rock en juegos de música para móviles.
+### KONAMI: beatmania IIDX シリーズ（ハードロック系収録例）
 
-### Rayark: Cytus/Cytus II
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| IIDX 3rd (1999) | V | TAKA | クラシック×HRギター風アレンジ |
+| IIDX 9th (2002) | Abyss -The Heavens Remix- | dj TAKA Remixed by Ryu☆ | メタル調要素を含む |
+| IIDX 14 GOLD (2007) | V2 | TAKA | バンドサウンド重視リメイク |
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Cito (2012) | Liberación | Personal | Riff de guitarra estilo hard rock |
-| Cito II (2018) | Buceo en libertad | xi | Canción de alta velocidad con elementos de metalcore |
-| Cito II (2018) | Caos | Personal | Fusión de guitarra digital y HR |
+---
+
+### Bandai Namco: 太鼓の達人 シリーズ
+
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| 太鼓の達人6 (2004) | DON’T CUT | Jimmy Weckl | ハードフュージョン系ドラム |
+| 太鼓の達人11 (2007) | Rumble Ranunculus | 村井聖夜 | ギター主体ロック |
+| 太鼓の達人14 (2010) | Xa | Tatsh | メタル系高速曲 |
+| 太鼓の達人グリーンVer. (2018) | MEGALOVANIA | Toby Fox | ギターリフ主体、ゲーム音楽出自 |
+
+---
+
+### KONAMI: SOUND VOLTEX シリーズ
+
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| SOUND VOLTEX BOOTH (2012) | Black Emperor | RoughSketch | メタルコア＋エレクトロ |
+| SOUND VOLTEX II (2013) | XROSS INFECTION | BlackY vs. siromaru | ハードロック×スピードコア |
+| SOUND VOLTEX III (2014) | Growth Memories | akhuta | バンドサウンド寄り |
+| SOUND VOLTEX VIVID WAVE (2019) | I | nora2r | デジタルハードロック調 |
+
+---
+
+## モバイル音楽ゲームにおけるハードロック楽曲
+
+### Rayark: Cytus / Cytus II
+
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Cytus (2012) | Liberation | Sta | ハードロック調のギターリフ主体 |
+| Cytus II (2018) | Freedom Dive | xi | メタルコア的要素を持つ高速曲 |
+| Cytus II (2018) | Chaos | Sta | デジタルとHRギターの融合 |
 
 ---
 
 ### Rayark: Deemo
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Deemo (2013) | Utopiosfera | M2U | Principalmente piano pero con arreglo de guitarra |
-| Deemo II (2022) | ANIMA | xi | A base de guitarra y con tonos metálicos |
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Deemo (2013) | Utopiosphere | M2U | ピアノ主体だがギターアレンジ有 |
+| Deemo II (2022) | ANiMA | xi | ギター主体でメタル色強め |
 
 ---
 
 ### lowiro: Arcaea
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Arcaea (2017) | Vencedor del mundo | vacío | Sonido digital de recursos humanos |
-| Arcaea (2018) | Rayo de fractura | Sakuzyō | Estilo de recursos humanos progresivo |
-| Arcaea (2020) | PRAGMATISMO | Equipo Grimorio | Fuerte desarrollo del núcleo metálico |
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Arcaea (2017) | World Vanquisher | void | デジタルHR系サウンド |
+| Arcaea (2018) | Fracture Ray | Sakuzyo | プログレッシブHR調 |
+| Arcaea (2020) | PRAGMATISM | Team Grimoire | メタルコア色の強い展開 |
 
 ---
 
-## Elementos de hard rock en juegos de música de realidad virtual.
+## VR音楽ゲームにおけるハードロック要素
 
 ### Beat Saber
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| DLC mixtape de rock (2022) | Dulce niño mío | Guns N' Roses | Experimente obras maestras de guitarra en realidad virtual |
-| DLC mixtape de rock (2022) | El pretendiente | Foo Fighters | Canciones representativas de la década de 2000 con fuertes elementos de recursos humanos |
-| Paquete Linkin Park (2020) | Al final | Linkin Park | Cerca del Nu-Metal con elementos HR |
-| Paquete Linkin Park (2020) | entumecido | Linkin Park | Reevaluado con realidad virtual |
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Rock Mixtape DLC (2022) | Sweet Child O’ Mine | Guns N’ Roses | VRでギター名曲を体感 |
+| Rock Mixtape DLC (2022) | The Pretender | Foo Fighters | HR要素強めの2000年代代表曲 |
+| Linkin Park Pack (2020) | In the End | Linkin Park | Nu-Metal寄りながらHR要素あり |
+| Linkin Park Pack (2020) | Numb | Linkin Park | VRで再評価 |
 
 ---
 
-### Otros juegos de música de realidad virtual
+### その他VR音楽ゲーム
 
-| Título | Pistas | Artista | Notas |
-|----------|---------|-------------|------|
-| Escudo de audio (2016) | Cualquier importación | Fuente de sonido del usuario | Experimenta el hard rock por ti mismo |
-| Ragnarök VR (2020) | Muchos arreglos de recursos humanos | Artista interno | Experiencia de RR.HH. desde la perspectiva de un baterista |
-
----
-
-## Impacto y significado
-
-- En el extranjero, nació el movimiento **""Guitar Hero'' → Empieza a tocar la guitarra**.
-- En Japón, **GuitarFreaks/DrumMania** fue pionero en la idea de "sensación de interpretación real" y sentó las bases de la cultura de los juegos musicales.
-- **Taiko no Tatsujin** se centra en la música pop, pero con sus canciones originales de estilo hard rock/metal, imprimieron un sonido parecido a una guitarra en los jóvenes.
-- **SOUND VOLTEX** tiene un fuerte tono electro, pero incorpora activamente elementos de hard rock y metal para expresar el "impacto rockero" de una nueva generación.
+| タイトル | 収録曲 | アーティスト | 備考 |
+|----------|---------|--------------|------|
+| Audioshield (2016) | 任意取り込み | ユーザー音源 | ハードロックを自分で体感可能 |
+| Ragnarok VR (2020) | HRアレンジ多数 | 内製アーティスト | ドラマー視点でHR体験 |
 
 ---
 
-# Conclusión
-El hard rock es más que un simple género musical; ha estado estrechamente relacionado con el crecimiento de la cultura de los videojuegos, desde las salas de juegos hasta los juegos musicales y los deportes electrónicos. Al compartir el "impacto sonoro" de cada época, tanto los juegos como el hard rock continúan evolucionando a través de generaciones.
+## 影響と意義
+
+- 海外では **「Guitar Hero」→ギターを始める** ムーブメントが実際に生まれた。  
+- 日本では **GuitarFreaks/DrumMania** が「リアル演奏感覚」を先取りし、音ゲー文化の基盤を築いた。  
+- **太鼓の達人** はポップス中心ながら、ハードロック／メタル調のオリジナル楽曲で若年層にギター的サウンドを刷り込んだ。  
+- **SOUND VOLTEX** はエレクトロ色が強いが、ハードロックやメタル要素を積極的に取り込み、新しい世代の「ロック的な衝撃」を表現。  
+
+---
+
+# 結論
+ハードロックは単なる音楽ジャンルに留まらず、**アーケードから音ゲー、そしてeスポーツに至るまで**、ビデオゲーム文化の成長と密接に関わってきました。時代ごとの「音の衝撃」を共有することで、ゲームもハードロックも世代を超えて進化し続けています。

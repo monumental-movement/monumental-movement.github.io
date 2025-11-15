@@ -9,183 +9,182 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: '[Columna] Acid Jazz: Una fusión de sonidos creados por la cultura de club
-  y la inteligencia urbana'
+title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカルチャーと都市の知性が生んだ音の融合
 ---
 
 
-## ¿Qué es el jazz ácido?
+## アシッドジャズ（Acid Jazz）とは何か？
 
 
-Texto: mmr｜Tema: Trasfondo social y geopolítico detrás del Acid Jazz
+文：mmr｜テーマ：アシッドジャズ（Acid Jazz）背後にある社会的・地政学的背景
 
 
 
-<hora>
+<hr>
 
-### Nacimiento y definición del acid jazz
+### アシッドジャズの誕生と定義
 
-Acid Jazz es un movimiento musical que se originó en Londres a finales de los años 1980, y se caracteriza por un sonido cruzado que mezcla jazz, funk, soul, hip-hop, latín y rare groove. El origen del nombre se remonta al sello ""Acid Jazz Records'' fundado por el DJ [Gilles Peterson] (https://amzn.to/3KOnzMr) y el productor discográfico [Eddie Piller] (https://amzn.to/4hdwdAb).
+アシッドジャズ（Acid Jazz）は1980年代後半のロンドンで生まれた音楽ムーブメントであり、ジャズ、ファンク、ソウル、ヒップホップ、ラテン、レア・グルーヴなどをミックスしたクロスオーバー・サウンドを特徴とする。名称の由来は、DJ [ギレス・ピーターソン（Gilles Peterson）](https://amzn.to/3KOnzMr) とレコードプロデューサー [エディ・ピラー（Eddie Piller）](https://amzn.to/4hdwdAb) が設立したレーベル「Acid Jazz Records」に遡る。
 
-En la escena de clubes de la década de 1980, hubo un movimiento creciente para reevaluar la música negra en respuesta al entusiasmo por el acid house y el hip-hop. El acid jazz surgió como "jazz bailable" y "música conmovedora adecuada para clubes".
+1980年代のクラブシーンでは、アシッドハウスやヒップホップの熱気に呼応しつつ、ブラックミュージックを再評価する動きが強まっていた。その中で「踊れるジャズ」「クラブ対応のソウルフルな音楽」としてアシッドジャズは登場したのである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<hora>
+<hr>
 
-### Funciones musicales
+### 音楽的特徴
 
-El acid jazz tiende a referirse a un "sentimiento híbrido" más que a un género único. Los elementos característicos incluyen:
+アシッドジャズは一つのジャンルというよりも「ハイブリッドな感覚」を指す傾向が強い。特徴的な要素を挙げると：
 
-- **énfasis del ritmo**: hereda la sensación rítmica del funk de los 70 y ritmos raros
+- **グルーヴ重視**：70年代ファンクやレア・グルーヴのリズム感を継承
 
-- **Improvisación**: Introducción de solos e interacciones derivadas del jazz.
+- **即興性**：ジャズ由来のソロやインタープレイを導入
 
-- **Orientado a clubes**: desarrollo tipo remezcla teniendo en cuenta el juego de DJ y la pista de baile.
+- **クラブ志向**：DJプレイやダンスフロアを意識したリミックス的展開
 
-- **Cultura de muestreo**: Incorporación de un enfoque hip-hop y reconstrucción de fuentes sonoras pasadas de jazz-funk.
+- **サンプリング文化**：ヒップホップ的アプローチを取り込み、過去のジャズ・ファンク音源を再構築
 
-- **Sofisticación urbana**: Tiene un ambiente elegante con una mezcla de latín y soul.
+- **都会的洗練**：ラテンやソウルを交えた、洒落たムードを持つ
 
-Como resultado, el acid jazz estableció un nuevo estilo de "música intelectual y bailable".
-
-
-<hora>
-
-### origen social británico
-
-En la década de 1980, Gran Bretaña se encontraba en un entorno de creciente disparidad económica bajo el gobierno de Thatcher, el crecimiento de las comunidades de inmigrantes y el surgimiento de la cultura rave.
-
-- **Cultura inmigrante**: las comunidades de inmigrantes caribeños y africanos trajeron el reggae, el funk y el soul para formar la base de la escena de discotecas de Londres.
-
-- **Sociedad postindustrial**: El declive de la manufactura y el deterioro de las ciudades dieron a la cultura juvenil valores "deconstructivos", y la cultura de club se convirtió en su refugio.
-
-- **Influencia de los medios**: BBC Radio y Pirate Radio introdujeron el Acid Jazz, lo que llevó a su difusión del underground al mainstream.
+結果として、アシッドジャズは「知的で踊れる音楽」という新しいスタイルを確立した。
 
 
-<hora>
+<hr>
 
-### Contexto geopolítico de los países vecinos.
+### イギリスの社会的背景
 
-La difusión del Acid Jazz también estuvo estrechamente relacionada con la geopolítica en Europa, Estados Unidos y Asia.
+1980年代イギリスは、サッチャー政権下の経済格差拡大・移民コミュニティの成長・レイヴ文化の興隆といった環境にありました。
+
+- **移民文化**：カリブ系・アフリカ系移民のコミュニティがレゲエ、ファンク、ソウルを持ち込み、ロンドンのクラブシーンの基盤を形成。
+
+- **ポスト産業社会**：製造業の衰退と都市の荒廃は若者文化に“脱構築的”な価値観を与え、クラブ・カルチャーがその逃げ場となりました。
+
+- **メディアの影響**：BBCラジオやパイレートラジオが Acid Jazz を紹介し、地下から主流へと広がる契機となりました。
 
 
-<hora>
+<hr>
 
-#### Escena del Reino Unido
+### 周辺諸国の地政学的文脈
 
-- [**Incognito**](https://amzn.to/470j5Lr): La banda más importante liderada por Bluey (Jean-Paul "Bluey" Maunick). Una fusión de funk y soul, con elegantes instrumentos de viento y voces femeninas.
+Acid Jazz の広がりは、欧州・米国・アジアの地政学とも密接に関連していました。
+
+
+<hr>
+
+#### UKシーン
+
+- [**Incognito**](https://amzn.to/470j5Lr)：ブルーイ（Jean-Paul "Bluey" Maunick）が率いる、最重要バンド。ファンクとソウルを融合し、流麗なホーンと女性ボーカルをフィーチャー。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0tPaeW5lQk?si=12RvPGrxPjLLgBX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Brand New Heavies**](https://amzn.to/3KPmqEe): Sonido de banda maravilloso y conmovedor. En la década de 1990, también llegaron a las listas de R&B de Estados Unidos.
+- [**Brand New Heavies**](https://amzn.to/3KPmqEe)：グルーヴィーでソウルフルなバンドサウンド。90年代には全米R&Bチャートにも進出。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Om_l8SP9VE?si=wOWf_0s0oCEuRh2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Jamiroquai**](https://amzn.to/4haQsP0): Una banda liderada por Jay Kay. Basado en el funk y el acid jazz, se convirtió en un éxito internacional con su mensaje ecológico y su carisma.
+- [**Jamiroquai**](https://amzn.to/4haQsP0)：ジェイ・ケイ率いるバンド。ファンクとアシッドジャズを基盤に、エコロジー的メッセージとカリスマ性で国際的ブレイク。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3yv3MluHg?si=ZqIbpLdUkqBLAjY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK): Producido por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
+- [**Galliano**](https://amzn.to/48uBEIK)：ギレス・ピーターソンがプロデュース。ラップとジャズの融合で、よりストリート色を強めた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<hora>
+<hr>
 
-### Expansión internacional
+### 国際的展開
 
 
-<hora>
+<hr>
 
-#### escena estadounidense
+#### USシーン
 
-Acid Jazz fue percibido como una "reimportación". En los Estados Unidos, el jazz funk y soul de los 70 existían como originales, por lo que la etiqueta "Acid Jazz" del Reino Unido parecía fresca y fue adoptada en las escenas de clubes de Nueva York y Chicago.
+Acid Jazz は「逆輸入」として受け止められました。米国では70年代ジャズ・ファンクやソウルがオリジナルとして存在したため、UK発の「Acid Jazz」というラベルは新鮮に映り、NYやシカゴのクラブシーンで採用されました。
 
-Y al igual que [Deee-Lite](https://amzn.to/3W7JKj0), se expande mientras se vincula con el hip-hop.
-Por otro lado, se enfatizó la conexión con el hip-hop, y sirvió de puente hacia el jazz-hip-hop como [A Tribe Called Quest](https://amzn.to/4n1XXZO) y [Gang Starr](https://amzn.to/46QAJBa).
+そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
+一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<hora>
+<hr>
 
-#### Escena de Japón/Asia
+#### 日本・アジアシーン
 
-En Japón, el movimiento "club jazz" floreció en las décadas de 1980 y 1990, y bandas como [United Future Organization (UFO)](https://amzn.to/4om4AXX) y [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) heredaron la tendencia Acid Jazz.
+日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Tenía afinidad con la cultura de consumo de la economía de la burbuja y la escena de Shibuya, y se convirtió en un puente entre Europa y Asia.
+バブル経済期の消費文化、そして渋谷系シーンとも親和性を持ち、欧州とアジアの架け橋になりました。
 
-Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que se expandía la cultura de club.
+韓国や台湾などでも1990年代後半からクラブ・カルチャーの拡大とともに徐々に受容。
 
-En Japón, United Future Organization (UFO) en particular recibió elogios en todo el mundo y se convirtió en la cara del acid jazz en la escena de clubes de Tokio. Sucesores como [Ryota Nozaki (Jazztronik)](https://amzn.to/4nP9mxl) continúan esta tendencia.
+日本では、特にUnited Future Organization (UFO) がワールドワイドに評価され、東京クラブシーンのアシッドジャズの顔となった。[野崎良太（Jazztronik）](https://amzn.to/4nP9mxl)らの後続もこの潮流を継ぐ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-#### Europa occidental
+#### 西ヨーロッパ
 
-- **Francia/Alemania**: En Francia, se incorporó al "Nouvelle Scène Jazz" y a la cultura de clubes en París, y en Alemania, se incorporó al espíritu experimental de los clubes/jazz centrados en Berlín Occidental en la época de la reunificación (1990).
+- **フランス・ドイツ**：フランスでは「Nouvelle Scène Jazz」やパリのクラブカルチャーに取り入れられ、ドイツでは再統一（1990年）前後に西ベルリンを中心としたジャズ／クラブの実験精神に組み込まれました。
 
-- **Italia/España**: Vinculado con el turismo, Acid Jazz se establece en la cultura turística y en la escena de clubes. Especialmente en Ibiza se mezclaba con house y balear.
-
-
-
-
-<hora>
-
-### Expansión geopolítica y cultura posterior a la Guerra Fría
-
-La expansión del Acid Jazz principalmente en Europa también estuvo influenciada por la liberalización cultural posterior a la Guerra Fría.
-
-El fin de la Guerra Fría en la década de 1990 → La cultura de discoteca se liberó en Europa del Este y la antigua Unión Soviética, y se acogió con agrado la música que combinaba jazz, funk y electrónica.
-
-Globalización → La cultura inmigrante centrada en Londres se difundió musicalmente a través de la red de "ciudades mundiales".
+- **イタリア・スペイン**：観光と結びつき、リゾート文化とクラブシーンで Acid Jazz が定着。特にイビサ島ではハウスやバレアリックと混ざり合いました。
 
 
 
-<hora>
 
-### Escena y contexto cultural
+<hr>
 
-El acid jazz era más que un simple género musical; era un símbolo del club y de la cultura urbana.
+### 地政学的広がりと冷戦後の文化
 
-- **Escena de clubes**: A finales de los 80, los DJ tocaban jazz-funk en clubes de Londres como "Dingwalls" y "The Wag Club", y los jóvenes se volvían locos.
+Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の「文化的自由化」も影響しました。
 
-- **Moda**: una mezcla de mods, trajes y ropa urbana, con una estética urbana y elegante.
+1990年代の冷戦終結 → 東欧・旧ソ連圏でクラブ文化が解放され、ジャズやファンクとエレクトロニクスを組み合わせた音楽が歓迎される。
 
-- **Contexto geopolítico**: la sociedad multicultural de Gran Bretaña (inmigrantes caribeños, diáspora africana y comunidades asiáticas) ha creado una cultura cruzada en Londres. Se puede decir que el acid jazz es el epítome de esto.
-
+グローバル化 → ロンドンを中心とする移民文化が“世界都市”ネットワークを通じて音楽的に波及。
 
 
-<hora>
 
-### Rechazo y reevaluación
+<hr>
 
-A finales de la década de 1990, el acid jazz evolucionó hacia Nu-Jazz, Lounge y Broken Beat, y su impulso como escena convergió. Sin embargo, en los últimos años ha sido redescubierto en Spotify y YouTube, y los oyentes jóvenes están volviendo a apreciar su textura relajada, similar al hip-hop de baja fidelidad y al chill-hop.
+### シーンと文化的背景
 
-Además, ha desempeñado un papel importante como puente entre la música de club y el jazz, y ha influido en el resurgimiento del jazz moderno (una nueva generación de jazz liderada por el londinense [Shabaka Hutchings] (https://amzn.to/3W0xMYx) y otros).
+アシッドジャズは単なる音楽ジャンルにとどまらず、クラブカルチャーと都市文化の象徴的な存在だった。
+
+- **クラブシーン**：1980年代末のロンドン・クラブ「Dingwalls」や「The Wag Club」でDJがジャズ・ファンクを流し、若者が熱狂。
+
+- **ファッション**：モッズ、スーツ、アーバン・ストリートウェアが混在し、スタイリッシュで都会的な美意識を伴った。
+
+- **地政学的文脈**：イギリスの多文化社会（カリブ系移民、アフリカ系ディアスポラ、アジア系コミュニティ）がロンドンを舞台にクロスカルチャーを生み出した。アシッドジャズはその縮図とも言える。
+
+
+
+<hr>
+
+### 衰退と再評価
+
+1990年代後半、アシッドジャズはNu-Jazz、Lounge、Broken Beatへと進化し、シーンとしての勢いは収束していった。しかし近年、SpotifyやYouTubeで再発見され、ローファイ・ヒップホップやチルホップに通じるリラックスした質感が若いリスナーに再評価されている。
+
+また、クラブミュージックとジャズの架け橋として果たした役割は大きく、現代のジャズ・リヴァイヴァル（ロンドンの[Shabaka Hutchings](https://amzn.to/3W0xMYx)らによる新世代ジャズ）にも影響を与えている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Una cristalización del sonido que transforma la diversidad y la sofisticación urbana en ritmos.
+### 都市の多様性と洗練をグルーヴに変換したサウンドの結晶
 
-El acid jazz es "música intelectual y bailable" que nació de la cultura urbana y la escena de clubes de los años 1980 y 1990, y redefinió la tradición del jazz en la cultura de clubes. Ese espíritu sigue vivo en el Nu-Jazz y los ritmos chill modernos, y no fue sólo una moda pasajera, sino una encrucijada importante en la historia de la música.
+アシッドジャズは1980〜90年代の都市文化とクラブシーンが生んだ**「知的で踊れる音楽」**であり、ジャズの伝統をクラブカルチャーへと再定義した。その精神はNu-Jazzや現代のチル系ビートにも息づいており、単なる一過性のブームではなく、音楽史における重要な交差点であった。
 
-La música nació de la fusión de la cultura inmigrante de Londres, la cultura de clubes y la insatisfacción de la sociedad postindustrial.
+そしてロンドンの移民文化・クラブカルチャー・ポスト産業社会の不満が融合して誕生した音楽。
 
-En Europa, se convirtió en turismo y cultura urbana después de la reunificación, en Estados Unidos se combinó con el hip-hop y en Japón se desarrolló en Shibuya-kei y jazz de club.
+欧州では観光や再統一後の都市文化、米国ではヒップホップとの結合、日本では渋谷系・クラブジャズへと展開。
 
-El fin de la Guerra Fría y la globalización alentaron su proliferación y sirvió como símbolo geopolítico de libertad e intercambio.
+冷戦終結とグローバル化がその拡散を後押しし、地政学的に「自由と交流の象徴」として機能しました。
 
-El acid jazz es la cristalización de sonidos que traducen la diversidad y la sofisticación urbana en ritmos.
+アシッドジャズとは、都市の多様性と洗練をグルーヴに変換したサウンドの結晶である。

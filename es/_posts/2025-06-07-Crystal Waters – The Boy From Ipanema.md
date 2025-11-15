@@ -9,19 +9,19 @@ tags:
 - Electronic
 - House
 - 90s
-title: Aguas Cristalinas – El chico de Ipanema
+title: Crystal Waters – The Boy From Ipanema
 ---
 
 
-Crystal Waters es una cantautora estadounidense de música house y dance conocida por sus éxitos "Gypsy Woman" y "100% Pure Love" de la década de 1990.
+Crystal Watersは、1990年代のヒット曲「Gypsy Woman(ジプシー・ウーマン)」、「100% Pure Love(100% ピュア・ラブ)」で知られるUSのハウス&ダンスミュージックシンガーソングライター。
 
-"The Boy From Ipanema" es una canción house lanzada en 1996.
+「The Boy From Ipanema」は、1996年にリリースされたハウストラック。
 
-La cara A es un remix del DJ y productor de música House Frankie Knuckles.
+A面は、House musicのDJ・プロデューサーFrankie Knuckles(フランキーナックルズ)のremix。
 
-La cara B es un remix del DJ y productor de música House Todd Terry.
+B面は、House musicのDJ・プロデューサーTodd Terry(トッドテリー)のremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. The Boy From Ipanema (Classic Club) 
 Remix – Frankie Knuckles
@@ -38,7 +38,7 @@ Remix – Todd Terry
 B3. The Boy From Ipanema (Original Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jaKhbCm3vO4?si=7t-axcO91ppqTPsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

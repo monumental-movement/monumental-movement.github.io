@@ -10,15 +10,15 @@ tags:
 - Healing
 - Relaxation
 - 80s
-title: Kitaro – Viaje Astral
+title: Kitaro – Astral Trip
 ---
 
 
-Kitaro tocaba teclados como miembro de la banda japonesa de rock progresivo "Far East Family Band" a principios de los años 1970. Mientras visitaba Europa para grabar con su banda, conoció al sintetizador alemán Klaus Schulze y se interesó por los sintetizadores.
+喜多郎は、1970年代初頭日本のプログレッシブ・ロックバンド「ファー・イースト・ファミリー・バンド」のメンバーとしてキーボードを担当。バンドのレコーディングに訪れたヨーロッパで、ドイツのシンセサイザー奏者クラウス・シュルツェに出会い、シンセサイザーに傾倒していく。
 
-Después de dejar la banda en 1976 y viajar por Asia (China, Laos, Tailandia e India), Kitaro lanzó su primer álbum en solitario, "Tenkai", en 1978.
+1976年にバンドを脱退し、アジア（中国、ラオス、タイ、インド）を旅したのち、1978年に喜多郎の初ソロ・アルバム「天界」をリリースした。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. By The Sea Side
 A2. Soul Of The Sea
@@ -33,7 +33,7 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

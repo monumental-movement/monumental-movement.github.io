@@ -13,20 +13,20 @@ title: Del Costa & Pedro Goya – Freaky Mike
 ---
 
 
-Un tema electro-tech house del gran dúo formado por Pedro Goya y Del Costa, dos pesos pesados ​​del mundo de la música electrónica portuguesa que han editado numerosos trabajos en sellos famosos como Yoyaku, Ubiyu, Different Heads y Classic Music Company.
+Yoyaku、Ubiyu、Different Heads、Classic Music Company など有名レーベルから多数の作品をリリースしているポルトガルのエレクトロニックミュージック界の重鎮 Pedro GoyaとDel Costa の名コンビ によるエレクトロ・テックハウストラック。
 
-"Freaky Mike" fue lanzado en 2003 en Exun, un sello house alemán fundado por DJ Linus.
+「Freaky Mike」は、DJ Linusによって設立されたドイツのハウスレーベルExun から2003年にリリースされた。
 
-La cara B es un remix de DJ All Star (Alexander Maier) y Don Disco.
+B面は、DJ All Star（Alexander Maier）と Don Discoによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Freaky Mike (Original Cut)
 
 B. Freaky Mike (DJ All Star & Don Disco Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

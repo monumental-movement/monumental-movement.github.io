@@ -9,17 +9,17 @@ tags:
 - Techno
 - Minimal
 - German Techno
-title: Jean-Michel Bernard – La ciencia del sueño
+title: Jean-Michel Bernard – The Science Of Sleep
 ---
 
 
-Banda sonora de la película ""Sleep in Love'', escrita y dirigida por Michel Gondry, quien ha trabajado en videos musicales para Björk, The Chemical Brothers, Daft Punk, Radiohead y más.
+ビョーク、ケミカルブラザーズ、ダフトパンク、レディオヘッドなどのMVを手掛けるミシェル・ゴンドリー監督・脚本の映画「恋愛睡眠のすすめ」のサウンドトラック。
 
-Michel Gondry también fue el baterista de la banda de rock francesa Oui Oui.
+ミシェル・ゴンドリーは、フランスのロックバンドOui Ouiでドラマーとしても活動していた。
 
-Las canciones 15 y 16 fueron compuestas por Lou Reed.
+15&16曲目はLou Reed(ルー・リード)作曲
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Michel Bernard – Générique Stéphane
 2. Michel Bernard – Générique Début
@@ -34,7 +34,7 @@ Las canciones 15 y 16 fueron compuestas por Lou Reed.
 など全26曲
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_FDeEmWask?si=tIhCa6qrd62pOJgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

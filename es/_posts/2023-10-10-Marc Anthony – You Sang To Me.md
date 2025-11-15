@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - Pops
-title: Marc Anthony – Me cantaste
+title: Marc Anthony – You Sang To Me
 ---
 
 
-"You Sang to Me" es una canción del cantante estadounidense Marc Anthony que fue incluida en su cuarto álbum de estudio (1999). La canción fue producida por Corey Rooney, quien coescribió la canción con Anthony. La canción es una balada romántica pop de medio tiempo con elementos latinos, R&B y contemporáneo para adultos, y la letra cuenta la historia de un hombre que deja que su pareja se vaya a pesar de estar en una relación con otra persona.
+「You Sang to Me」は、アメリカの歌手マーク・アンソニーが自身の4枚目のスタジオ・アルバム（1999年）に収録した曲です。この曲の制作はコリー・ルーニーが行い、アンソニーと共に曲を共作しました。この曲は中テンポのポップでロマンチックなバラードで、ラテン、R&B、アダルトコンテンポラリーの要素を含んでおり、歌詞は別の人との関係があるにもかかわらず、彼のパートナーを去らせてしまう男性の物語です。
 
-Anthony también grabó una versión en español de la canción, titulada "Muy Dentro de Mí", con contribuciones adicionales de Roberto Blais y Gaitanes en la letra.
+アンソニーはこの曲のスペイン語バージョンも録音し、そのバージョンは「Muy Dentro de Mí」というタイトルで、歌詞にはロベルト・ブレイズとガイタネスの追加寄稿があります。
 
-Los críticos musicales revisaron favorablemente "You Sang to Me" tras su lanzamiento, elogiando la voz de Anthony y el arreglo de la canción. Anthony ganó muchos premios, incluida una nominación a Mejor interpretación vocal pop masculina en la 43ª edición anual de los premios Grammy en 2001.
+音楽評論家たちは「You Sang to Me」をリリース時に好意的に評価し、アンソニーのボーカルと曲のアレンジを賞賛しました。アンソニーは2001年の第43回グラミー賞で最優秀男性ポップボーカル演奏賞にノミネートされるなど、多くの賞を受賞しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. You Sang To Me (Remix)
 
@@ -30,7 +30,7 @@ B1. Muy Dentro De Mi (You Sang To Me) (Spanish)
 B2. Muy Dentro De Mi (You Sang To Me) (Spanglish)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m31951952620?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31951952620?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MY4YJxn-9Og?si=1SzwRyO_jApmwdyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

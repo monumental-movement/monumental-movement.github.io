@@ -8,13 +8,13 @@ layout: post
 tags:
 - Rock
 - Punk
-title: Speed ​​– Kiss On -En vivo en Shinjuku Loft el 12 de octubre de 1985-
+title: Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-
 ---
 
 
-Speed ​​fue una banda de rock japonesa formada en 1976 por Shinichi Aoki, ex miembro de Hachibu no Mura, y activa hasta finales de los años 1980.
+Speed（スピード）は、元村八分の青木眞一が1976年に結成し、1980年代後半まで活動した日本のロックバンド。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. 祈り合掌 Do It!
 
@@ -35,6 +35,6 @@ Speed ​​fue una banda de rock japonesa formada en 1976 por Shinichi Aoki, ex
 9. ひとつの氷
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
 
 

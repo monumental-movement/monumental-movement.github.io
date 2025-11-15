@@ -10,13 +10,13 @@ tags:
 - Soul
 - Funk
 - 70s
-title: VA - Especial sonido disco vol. 1
+title: VA – Disco Sound Special Vol. 1
 ---
 
 
-VA - Especial sonido disco vol. 1 - Juego de discos de 2 discos Disco Sound Special
+VA – Disco Sound Special Vol. 1 - ディスコサウンドスペシャル　2枚組レコード
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Stevie Wonder – You Haven't Done Nothin
 A2. The Temptations – Shakey Ground
@@ -47,5 +47,5 @@ D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
 

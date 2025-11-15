@@ -8,21 +8,21 @@ layout: post
 tags:
 - Trance
 - Hard Trance
-title: Svenson & Gielen – Retorcido
+title: Svenson & Gielen – Twisted
 ---
 
 
-"Retorcido" es
-Este es un EP de Svenson & Gielen, una unidad de Svenson y Johan Gielen, lanzado en 2002 en el sello alemán "Dos Or Die Recordings".
+「Twisted」は、
+2002年にドイツのレーベル「Dos Or Die Recordings」からリリースされたSvenson and Johan GielenによるユニットSvenson & GielenのEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Twisted (Original Mix)
 
 B. Twisted (Svenson & Gielen Energy Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85727936789?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85727936789?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UVSrfgABAGU?si=4M1CHPyPenEBWOwd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

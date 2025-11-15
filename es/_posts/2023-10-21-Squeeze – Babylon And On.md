@@ -8,15 +8,15 @@ layout: post
 tags:
 - New-Wave
 - Pops
-title: Apretar - Babilonia y más
+title: Squeeze – Babylon And On
 ---
 
 
-"Babylon and On" es un álbum lanzado en 1987 por la banda británica "Squeeze".
+「Babylon and On」は、イギリスのバンド「Squeeze（スクイーズ）」によって1987年にリリースされたアルバムです。
 
-Squeeze fue una banda exitosa en la década de 1980, conocida por sus canciones que incorporaban elementos del pop rock y el new wave. El álbum "Babylon and On" también llamó la atención por su distintivo sonido pop y sus sofisticadas canciones. En particular, canciones como "Hourglass" se conocen como las canciones emblemáticas de Squeeze.
+スクイーズは、ポップロックやニューウェイヴの要素を取り入れた楽曲で知られるバンドで、1980年代の音楽シーンで成功を収めました。「Babylon and On」アルバムも、その特徴的なポップサウンドと洗練された楽曲が注目されました。特に「Hourglass」などの楽曲は、スクイーズの代表曲として知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Hourglass
 
@@ -43,7 +43,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85609686798?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=wYy-Yf5sAJesvP1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

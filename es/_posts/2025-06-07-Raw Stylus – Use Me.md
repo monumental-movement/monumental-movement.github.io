@@ -11,15 +11,15 @@ tags:
 - Soul
 - Acid Jazz
 - 90s
-title: Lápiz óptico sin formato – Úsame
+title: Raw Stylus – Use Me
 ---
 
 
-Raw Stylus, una banda británica de acid jazz activa en la década de 1990, hizo una versión de la obra maestra de soul/R&B de 1972 de Bill Withers, "Use Me".
+1990年代に活動したUKのアシッドジャズバンドRaw Stylus(ロウ・スタイラス)がBill Withers(ビル・ウィザーズ)の1972年のsoul・R&B名曲「Use Me」をカヴァー。
 
-Un sencillo lanzado por el sello británico Acid Jazz en 1993.
+1993年にイギリスのレーベルAcid Jazz からリリースされたシングル。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Use Me
 
@@ -27,7 +27,7 @@ B1. Use Me (12" Remix)
 B2. Boom
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

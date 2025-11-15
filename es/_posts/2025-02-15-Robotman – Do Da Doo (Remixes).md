@@ -10,31 +10,31 @@ tags:
 - Minimal
 - Acid
 - 90s
-title: Robotman – Do Da Doo (Remezclas)
+title: Robotman – Do Da Doo (Remixes)
 ---
 
 
-"Robotman – Do Da Doo (Remixes)" es un álbum de remezclas del proyecto "Robotman" de Richie Hawtin lanzado en 1994. Este álbum contiene varios remixes diferentes.
+「Robotman – Do Da Doo (Remixes)」は、1994年にリリースされたリッチー・ホーティン（Richie Hawtin）によるプロジェクト「Robotman」のリミックスアルバムです。このアルバムにはいくつかの異なるリミックスが含まれています。
 
-Remezcla Acid House de Plastikman -
+Plastikman's Acid House Remix - 
 
-Remezclado por el propio Richie Hawtin, presenta una acústica ácida y un ritmo techno distintivo. Este remix ha sido muy elogiado por sus efectos de sonido únicos.
+リッチー・ホーティン自身によるリミックスで、酸性の音響とテクノの特徴的なビートが特徴的です。このリミックスはその独特の音響効果により、非常に評価されています。
 
-David Holmes Remezcla
+David Holmes Remix - 
 
-Este remix de David Holmes ofrece un sonido techno más oscuro y profundo.
+デヴィッド・ホームズが手掛けたこのリミックスは、よりダークで深みのあるテクノ・サウンドを提供しています。
 
-Remezcla de plástico explosivo -
+Exploding Plastic Remix - 
 
-Este remix adopta un enfoque más experimental y aporta una textura diferente a la canción.
+このリミックスは、より実験的なアプローチを採用しており、異なるテクスチャーを楽曲にもたらします。
 
-Mezcla Flare For Disco de J.Acquaviva -
+J.Acquaviva's Flare For Disco Mix - 
 
-Remezclado por Johnny Acquaviva, incorpora elementos disco conservando la esencia del techno.
+ジョニー・アクアヴィーヴァによるリミックスで、ディスコの要素を取り入れつつも、テクノのエッセンスを保っています。
 
-Según su discografía, reseñas musicales e información de ventas, el álbum goza de gran prestigio entre los fanáticos y coleccionistas del techno, y el remix de Plastikman en particular es conocido por su innovación.
+ディスコグラフィーや音楽のレビュー、販売情報から、このアルバムはテクノファンやコレクターの間で高く評価されており、特にPlastikmanのリミックスはその革新性で知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Do Da Doo (Plastikman's Acid House Remix)
 2. Do Da Doo (Exploding Plastic Mix)
@@ -42,7 +42,7 @@ Según su discografía, reseñas musicales e información de ventas, el álbum g
 4. Do Da Doo (Detroit Groove Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sxwoUI7dbrY?si=iRCgFwBxbNh_5CCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

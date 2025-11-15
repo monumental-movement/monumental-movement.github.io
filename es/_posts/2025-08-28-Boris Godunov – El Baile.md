@@ -13,13 +13,13 @@ title: Boris Godunov – El Baile
 ---
 
 
-Boris Godunov es una unidad formada por Cornelius De Haas y Sascha Mock. También trabaja bajo los nombres Corn & Mocca y Cornelius De Haas & Mokka.
+Boris Godunov(ボリス・ゴドゥノフ)は、Cornelius De HaasとSascha Mockによりユニット。Corn & MoccaやCornelius De Haas & Mokka名義でも活動している。
 
-Una pista latina/house lanzada en 2002 por el sello japonés de dance-pop Escalator Records (ahora desaparecido).
+日本のダンスポップレーベルEscalator Records(現在は廃止)から2002年にリリースされたLatin／House トラック。
 
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. El Baile (Corn&Mocca Club Mix With Von Spank)
 
@@ -27,4 +27,4 @@ B1. El Baile (Instrumental Club Mix)
 B2. El Baile (Original Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}

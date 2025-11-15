@@ -9,15 +9,15 @@ tags:
 - Hardcore
 - Rock
 - Thrash Metal
-title: 'Los Spudmonsters: sin garantías'
+title: The Spudmonsters – No Guarantees
 ---
 
 
-The Spudmonsters es una banda estadounidense de thrash metal, hardcore y crossover formada en 1987 por Don Foose, Scott Roberts, Steve Swanson, Eric Matthews y Chris Andrews de Cleveland, Ohio.
+The Spudmonsters（スパッドモンスターズ）は、オハイオ州クリーブランド出身のDon Foose、Scott Roberts、Steve Swanson、Eric Matthews、Chris Andrewsによって1987年に結成されたUSスラッシュメタル、ハードコア、クロスオーバー バンド。
 
-"No Guarantees" fue lanzado en 1995 en el sello alemán Massacre Records.
+「No Guarantees」は1995年にドイツのレーベルMassacre Recordsよりリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Upperhand
 A2. Bloodline
@@ -37,7 +37,7 @@ B5. Broken
 B6. Untitled
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95943993364?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95943993364?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-1dacmhIfRY?si=FiplTakO49nhRlYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

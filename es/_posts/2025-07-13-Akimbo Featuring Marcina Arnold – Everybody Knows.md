@@ -9,16 +9,16 @@ tags:
 - Future Jazz
 - Acid Jazz
 - 90s
-title: Akimbo con Marcina Arnold – Todo el mundo lo sabe
+title: Akimbo Featuring Marcina Arnold – Everybody Knows
 ---
 
 
-Akimbo es una banda de funk/soul rock que incluye al guitarrista Simon Bartholomew de la banda británica de funk/acid jazz Brand New Heavies, el ex baterista de Jamiroquai Nick van Gelder, Gareth Bailey, Nick Seymour y Tom Bailey.
+Akimbo は、UKのファンク・アシッドジャズバンドBrand New Heavies(ブラン・ニュー・ヘヴィーズ)のギターリストSimon Bartholomew、元Jamiroquai(ジャミロクワイ)のドラマーNick van Gelder、Gareth Bailey, Nick Seymour, Tom Bailey などが参加するファンク・ソウル・ロックバンド。
 
-"Everybody Knows" es una pista de Future Jazz lanzada por el sello británico Acid Jazz en 1999.
+「Everybody Knows」は、1999年にUKレーベルAcid JazzからリリースされたFuture Jazzトラック。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Everybody Knows (Erobique Remix)
 
@@ -26,7 +26,7 @@ B1. Everybody Knows (Edit)
 B2. Flight To Havana
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

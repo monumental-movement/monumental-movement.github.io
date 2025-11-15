@@ -9,22 +9,22 @@ tags:
 - Rock
 - Parody
 - 7inch
-title: Animales económicos - Minato no Yoko
+title: Economic Animals - Minato no Yoko
 ---
 
 
-Economic Animals es una banda de enmascarados liderada por Tsutomu Sasaki. "The Return of Minato no Yoko" fue lanzado en 1975 como una secuela y parodia de "Minato no Yoko Yokohama Yokosuka" y una canción de respuesta.
+エコノミック・アニマルズは、佐々木勉が中心となった覆面バンド。「帰ってきた港のヨーコ」は、「港のヨーコ・ヨコハマ・ヨコスカ」の後日譚＆パロディー、アンサーソングとして1975年にリリースされた。
 
-Letra/composición/canción: Animales Económicos
+作詞・作曲・歌：エコノミック・アニマルズ
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 帰ってきた港のヨーコ
 
 B. バイ•バイ•マイ•ラブ
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44785182941?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44785182941?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wz81jNoPFH4?si=4xgdUTWQQKkCDYOJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

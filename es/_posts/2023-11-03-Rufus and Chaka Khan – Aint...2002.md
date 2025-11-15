@@ -8,24 +8,24 @@ layout: post
 tags:
 - House
 - 00s
-title: Rufus y Chaka Khan - No es... 2002
+title: Rufus & Chaka Khan – Ain't...2002
 ---
 
 
-Rufus & Chaka Khan fueron una de las bandas de funk estadounidenses más populares e influyentes de Chicago en los años 1970.
+Rufus & Chaka Khan（ルーファス＆チャカカーン）は、1970年代で最も人気があり影響力があったシカゴ出身のアメリカンファンクバンド。
 
-Es mejor conocido por lanzar la carrera del cantante Chaka Khan.
+リードシンガーのChaka Khanのキャリアをスタートさせたことでよく知られている。
 
-"Ain"t...2002" es un remix house de la exitosa canción de Rufus & Chaka Khan "Ain"t Nobody" del productor canadiense Julius Papp.
+「Ain't...2002」は、Rufus & Chaka Khanのヒット曲「Ain't Nobody」をカナダ出身のハウスプロデューサーJulius Papp（ジュリアスパップ）がハウスリミックス。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Ain't...2002 (Full Excursion)
 
 B. Ain't...2002 (Drum Excursion)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m18858735619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18858735619?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1wD-SAUGSg?si=6SxklT9g-5MMFe5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

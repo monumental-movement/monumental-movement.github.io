@@ -8,16 +8,16 @@ layout: post
 tags:
 - Jazz
 - Modern Jazz
-title: Hiroshima – Ir
+title: Hiroshima  –  Go
 ---
 
 
-"Go" es el sexto álbum de Hiroshima, y ​​un trabajo que muestra su madurez y evolución musical. El álbum se caracteriza por ricos paisajes sonoros y una interpretación sofisticada.
+「Go」は、Hiroshimaのシックスアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、豊かなサウンドスケープと洗練された演奏によって特徴付けられています。
 
-El álbum incluye las canciones "One Wish", "Island World" y "Another Place". Estas canciones son una fusión del sonido distintivo de Hiroshima y la estructura melódica de las canciones, creando una atmósfera agradable.
+アルバムには、楽曲「One Wish」や「Island World」、「Another Place」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が融合し、心地よい雰囲気を醸し出しています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Go
 
@@ -36,7 +36,7 @@ B3. Hawaiian Electric
 B4. Why Can't I Love You
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m91171909677?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91171909677?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dlAURpQ3REs?si=DunaESu1_3J9xDUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

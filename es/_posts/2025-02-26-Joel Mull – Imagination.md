@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - 00s
-title: Joel Mull – Imaginación
+title: Joel Mull – Imagination
 ---
 
 
-El álbum debut de Joel Mull, Imagination (2000), sigue siendo especial para muchos oyentes, ya que el artista de techno sueco dejó una impresión duradera en la escena.
+Joel Mullのデビューアルバム『Imagination』（2000年）は、スウェーデン出身のこのテクノアーティストがシーンに鮮烈な印象を残した作品として、今なお多くのリスナーにとって特別な存在です。
 
-Lanzado al principio de su carrera, este álbum fusiona hábilmente elementos de techno minimalista y tech house, desarrollando un paisaje sonoro con una profundidad emocional única.
+彼のキャリア初期にリリースされたこのアルバムは、ミニマルテクノとテックハウスの要素を巧みに融合させつつ、独自の感情的な深みを持ったサウンドスケープを展開しています。
 
-En primer lugar, se puede decir que el mayor atractivo de "Imagination" es su sensación de inmersión. A lo largo del álbum, Joel Mull transporta al oyente a un viaje sobre otro mundo con delicadas capas de ritmo y textura.
+まず、『Imagination』の最大の魅力は、その没入感にあると言えるでしょう。アルバム全体を通して、Joel Mullはリズムとテクスチャーの繊細な積み重ねによって、聴き手を異次元的な旅へと誘います。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Carbon 14
 2. Daylight
@@ -33,7 +33,7 @@ En primer lugar, se puede decir que el mayor atractivo de "Imagination" es su se
 11. Snabba Sekunder
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG6LoMWEzi0?si=oGeryVZjl6aDrLcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

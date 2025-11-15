@@ -8,31 +8,31 @@ layout: post
 tags:
 - Lounge
 - Compilation
-title: Varios – Capades espaciales
+title: Various – Space Capades
 ---
 
 
-Pista 1 grabada el 12 de abril de 1967 · Del álbum "Holiday For Strings"
-Pista 2 grabada c. 1960 · Del álbum "The Magic Beat!"
-Pista 3 grabada el 8 de mayo de 1946 · Del disco "Music Out Of The Moon"
-Pista 4 grabada c. 1956 · Del disco "Casa de Energía"
-Pista 5 grabada el 23 de junio de 1960 · Del disco "Drums And More Drums"
-Pista 6 grabada el 17 de octubre de 1961 · Del disco "Sensacional!"
-Pista 7 grabada el 6 de marzo de 1951 · Del disco "Las Voces De Walter Schumann"
-Pista 8 grabada el 16 de julio de 1962 · Del álbum "Zounds! What Sounds!"
-Pista 9 (Parte I) grabada el 6 de noviembre de 1953 · De un sencillo de Capitol Records
-Pista 9 (Parte II) grabada el 2 de mayo de 1961 · Del álbum "Stagged For Stereo - Highlights"
-Pista 10 grabada el 23 de marzo de 1960 · Del álbum "Accent On Bamboo"
-Pista 11 grabada el 23 de marzo de 1959 · Del álbum "Les Baxter's Wild Guitars"
-Pista 12 grabada el 4 de agosto de 1949 · Del álbum "Music For Piece Of Mind"
-Pista 13 grabada c. 1959 · Del álbum "¡Felix Slatkin dirige una percusión fantástica!"
-Pista 14 grabada c. 1963 · Del disco "¡Órgano Espectacular!"
-Pista 15 grabada el 10 de agosto de 1960 · Del disco "Mr. Percussion"
-Pista 16 grabada el 21 de mayo de 1959 · Del disco "Ping-Pong"
-Pista 17 grabada el 22 de noviembre de 1957 · Del álbum "Space Escapade"
-Pista 18 grabada el 16 de julio de 1962 · Del álbum "Zounds! What Sounds!"
+Track 1 recorded April 12, 1967 · From the album "Holiday For Strings"
+Track 2 recorded c. 1960 · From the album "The Magic Beat!"
+Track 3 recorded May 8, 1946 · From the album "Music Out Of The Moon"
+Track 4 recorded c. 1956 · From the album "Power House"
+Track 5 recorded June 23, 1960 · From the album "Drums And More Drums"
+Track 6 recorded October 17, 1961 · From the album "Sensational!"
+Track 7 recorded March 6, 1951 · From the album "The Voices Of Walter Schumann"
+Track 8 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
+Track 9 (Part I) recorded November 6, 1953 · From a Capitol Records single
+Track 9 (Part II) recorded May 2, 1961 · From the album "Staged For Stereo - Highlights"
+Track 10 recorded March 23, 1960 · From the album "Accent On Bamboo"
+Track 11 recorded March 23, 1959 · From the album "Les Baxter's Wild Guitars"
+Track 12 recorded August 4, 1949 · From the album "Music For Piece Of Mind"
+Track 13 recorded c. 1959 · From the album "Felix Slatkin Conducts Fantastic Percussion!"
+Track 14 recorded c. 1963 · From the album "Organ Spectacular!"
+Track 15 recorded August 10, 1960 · From the album "Mr. Percussion"
+Track 16 recorded May 21, 1959 · From the album "Ping-Pong"
+Track 17 recorded November 22, 1957 · From the album "Space Escapade"
+Track 18 recorded July 16, 1962 · From the album "Zounds! What Sounds!"
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1.David Rose & His Orchestra–Gay Spirits
 
@@ -71,7 +71,7 @@ Pista 18 grabada el 16 de julio de 1962 · Del álbum "Zounds! What Sounds!"
 18.Dean Elliott & His Big Band–Lonesome Road
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53410507614?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nwQ6A7eWvpU?si=676P6Bidu6gbdIzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

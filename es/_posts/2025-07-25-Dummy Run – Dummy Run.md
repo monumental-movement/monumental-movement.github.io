@@ -10,15 +10,15 @@ tags:
 - Drum n Bass
 - Experimental
 - 90s
-title: Carrera simulada – Carrera simulada
+title: Dummy Run – Dummy Run
 ---
 
 
-Dummy Run es un dúo electro experimental de Andrew Sharpley y Nick Birmingham.
+Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
 
-El álbum homónimo lanzado por el sello británico Hot Air en 1996 es un álbum en el que puedes disfrutar del estilo único de drum"n"bass + left field de Dummy Run.
+1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Trouble
 2. Zombies
@@ -51,7 +51,7 @@ El álbum homónimo lanzado por el sello británico Hot Air en 1996 es un álbum
 29. Chocky
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

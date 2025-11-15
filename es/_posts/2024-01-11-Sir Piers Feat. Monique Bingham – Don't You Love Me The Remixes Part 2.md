@@ -10,17 +10,17 @@ tags:
 - House
 - Garage House
 - UK House
-title: Sir Piers hazaña. Monique Bingham - ¿No me amas? Los remixes, parte 2
+title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
 ---
 
 
-Un remix de casa/garaje de "Don't You Love Me" de Monique Bingham lanzado en 2003 por Sir Piers (Piers Penfold) en su propio sello Curious.
+Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
 
-La cara A es un remix de Louis Benedetti, quien dirige SoulShine Recordings y Thompson Studios.
+A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedettiによるremix。
 
-La cara B es un remix de DJ Jorj (Jorj Patsalides), un DJ/productor afincado en Melbourne, Australia.
+B面は、オーストラリアのメルボルンを拠点に活動するDJ / プロデューサーDJ Jorj（Jorj Patsalides）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Don't You Love Me (Louis Benedetti's Main Mix)
 
@@ -29,7 +29,7 @@ B1. Don't You Love Me (DJ Jorj Samba Dub)
 B2. Don't You Love Me (DJ Jorj Raw Samba Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N801xpEjcVs?si=DMlmd2ZhAYem0JAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

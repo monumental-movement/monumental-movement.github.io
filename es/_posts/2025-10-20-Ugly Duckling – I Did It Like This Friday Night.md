@@ -8,15 +8,15 @@ layout: post
 tags:
 - Hiphop
 - 00s
-title: Patito Feo – Lo hice así el viernes por la noche
+title: Ugly Duckling – I Did It Like This Friday Night
 ---
 
 
-Ugly Duckling es un grupo representativo de hip-hop underground estadounidense formado en Long Beach en 1993. Los miembros son Andy Cooper, Dustin McFarland y Rodney Pleasant.
+Ugly Duckling (アグリーダックリング)は、1993年にLong Beachで結成されたアメリカ・アンダーグラウンドヒップホップグループの代表格。メンバーは、Andy Cooper, Dustin McFarland, Rodney Pleasant。
 
-"I Did It Like This / Friday Night" fue lanzado en 2000 en el sello británico de hip hop Bad Magic.
+「I Did It Like This / Friday Night」は、2000年にUKのHipHopレーベルBad Magicからリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. I Did It Like This
 A2. I Did It Like This (Instrumental)
@@ -25,7 +25,7 @@ B1. Friday Night
 B2. Friday Night (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90404374672?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90404374672?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EV_yt-qxo98?si=8xjkEUKLoq-_kMNB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

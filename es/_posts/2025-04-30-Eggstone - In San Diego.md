@@ -9,16 +9,16 @@ tags:
 - Rock
 - Pop Rock
 - 90s
-title: Piedra de huevo - En San Diego
+title: Eggstone - In San Diego
 ---
 
 
-Eggstone es una banda sueca de indie pop formada en 1986. Se dice que es el padrino del pop sueco.
+1986年に結成されたEggstone(エッグストーン)は、スウェーデンのインディーポップバンド。スウェーデンポップスのゴッドファーザーと評されている。
 
-Lanzado en 1992 con el sello SNAP, este álbum fue el álbum debut de Eggstone e incluía la exitosa canción Can't Come Close Enough. Tore Johansson, que trabajó en The Cardigans, participó como productor y se utilizó carrete a carrete para la grabación.
+1992年にレーベルSNAPからリリースされたこのアルバムは、Eggstoneのデビューアルバムで、ヒット曲Can't Come Close Enoughが収録されている。プロデューサーとしてThe Cardigans(カーディガンズ)を手がけたTore Johansson(トーレ・ヨハンソン)が参加しおり、レコーディングにはオープンリールが使用されている。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Ooh Ooh Ma Ma Mine
 2. Shooting Time
@@ -35,7 +35,7 @@ Lanzado en 1992 con el sello SNAP, este álbum fue el álbum debut de Eggstone e
 13. See The Good Things
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5XHXfrhEeM?si=M3vqOzapNz_Fvm5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

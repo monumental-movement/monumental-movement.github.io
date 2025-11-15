@@ -13,15 +13,15 @@ title: Quarks – Allein
 ---
 
 
-Quarks, un dúo electro-pop de Berlín, Alemania, se formó en 1995 y está formado por Gudrun Gut y Thomas Fehlmann. Se hicieron populares en la escena de la música electrónica alemana a finales de los 90 y principios de los 2000.
+ドイツ・ベルリン出身のエレクトロポップデュオ「Quarks」は1995年に結成され、メンバーはグドルン・グート（Gudrun Gut）とトーマス・フェールマン（Thomas Fehlmann）。彼らは1990年代後半から2000年代初頭にかけて、ドイツのエレクトロニックミュージックシーンで人気を博しました。
 
-La música de Quarks combina elementos de pop electrónico, pop sintético y sonidos experimentales.
+Quarksの音楽は、エレクトロニックポップ、シンセポップ、実験的なサウンドの要素を組み合わせています。
 
-Sus canciones presentaban melodías pegadizas, ritmos electrónicos y la voz distintiva de Gudrun Gut.
+彼らの曲は、キャッチーなメロディ、エレクトロニックなビート、そしてグドルン・グートの特徴的なボーカルを特徴としていました。
 
-Incluso después de su disolución en 2004, siguieron siendo una gran influencia en la escena electropop alemana y su música sigue siendo amada por los fans de la música electrónica y pop.
+2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Allein (Augen Zu Und Durch)
 
@@ -37,7 +37,7 @@ Vocals [Additional Vox] – Darkfarmer
 B2. Allein (Original)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

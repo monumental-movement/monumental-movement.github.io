@@ -7,14 +7,14 @@ lang: es
 layout: post
 tags:
 - Techno
-title: Geodezik – Trampa EP
+title: Geodezik – Trap EP
 ---
 
 
-"Trampa EP" es
-Este es el EP de Geodezik, un proyecto de Takahiro Shimojo, lanzado en 1999 en el sello "Beat Records".
+「Trap EP」は、
+1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Eye-Link
 
@@ -25,5 +25,5 @@ B1. Night Dive
 B2. Outstepper
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86478584214?afid=6142608987){: .button1}
 

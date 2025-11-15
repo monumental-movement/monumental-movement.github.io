@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - Minimal
-title: Bruno Pronsato – Wuorinen en vivo en Cascadia
+title: Bruno Pronsato – Wuorinen Live In Cascadia
 ---
 
 
-Bruno Pronsato (Steven Ford) es un DJ y productor estadounidense que vive en Berlín.
+Bruno Pronsato（ブルーノ・プロンサト/Steven Ford）は、アメリカ出身、ベルリン在住のDJ/プロデューサー。
 
-"Wuorinen / Live In Cascadia" fue lanzado en 2005 por Orac Records, un sello con sede en Seattle que lanza techno de pista de baile desde experimental hasta minimalista.
+「Wuorinen / Live In Cascadia」は、USシアトルを拠点にエクスペリメンタルからミニマルなダンスフロアテクノをリリースするレーベルOrac Recordsから2005年にリリースされた。
 
-La segunda pista de la cara A es un remix de Michel Baumann, un DJ/productor radicado en Stuttgart, Alemania.
+A面２曲目は、ドイツ・シュトゥットガルトを拠点とするDJ/プロデューサーMichel Baumannによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Wuorinen
 
@@ -27,7 +27,7 @@ A2. Wuorinen (Jackmate Remix)
 B1. Live In Cascadia
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76114508673?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76114508673?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mnl5KEvoAd8?si=0E97bT15eDmFp8bb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

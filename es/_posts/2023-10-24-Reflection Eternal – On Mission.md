@@ -9,13 +9,13 @@ tags:
 - Hiphop
 - Rap
 - 90s
-title: Reflexión Eterna – En Misión
+title: Reflection Eternal – On Mission
 ---
 
 
-"Reflection Eternal / Shabaam Sahdeeq con The Cocoa Brovaz – On Mission / Every Rhyme I Write" fue lanzado en 1999 por Rawkus.
+「Reflection Eternal / Shabaam Sahdeeq Featuring The Cocoa Brovaz – On Mission / Every Rhyme I Write」は、Rawkusから1999年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Reflection Eternal–On Mission (Radio Clean)
 
@@ -34,7 +34,7 @@ B3  Shabaam Sahdeeq–Every Rhyme I Write (Instrumental)
 B4  Shabaam Sahdeeq–Every Rhyme I Write (Street A Cappella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50321858391?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50321858391?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C36HelvD90M?si=Imx0e71fH3xL2w8b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

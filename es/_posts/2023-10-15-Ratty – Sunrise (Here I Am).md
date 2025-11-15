@@ -8,15 +8,15 @@ layout: post
 tags:
 - Trance
 - Hard Trance
-title: Ratty – Amanecer (Aquí estoy)
+title: Ratty – Sunrise (Here I Am)
 ---
 
 
-Ratty es el proyecto trance del artista alemán Scooter, que se especializa en happy hardcore, bouncy, techno, techno, trance y hardstyle.
+Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 
-La cara B "Sunrise (Here I Am) (Instrumental)" es la versión original del sencillo de Scooter de 2000 "She"s The Sun" llamado "Sunrise (Ratty"s Inferno)".
+B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -25,7 +25,7 @@ B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

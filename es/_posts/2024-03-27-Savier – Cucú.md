@@ -9,13 +9,13 @@ tags:
 - House
 - Latin
 - Euro
-title: Salvador – Cucú
+title: Savier – Cucú
 ---
 
 
-"Cucú" es una canción europea house del grupo italiano de house latino de los 90, Savier.
+「Cucú」は、90年代イタリアのラテンハウスアクトSavierによるユーロハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Cucu (Spanish Radio Version)
 
@@ -26,7 +26,7 @@ B1. Kuku (English Version)
 B2. Cucu (Version Sabrosa)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22577820880?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22577820880?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NkifnKQop8M?si=an-nnnoLLKztXS8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

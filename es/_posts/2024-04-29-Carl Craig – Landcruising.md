@@ -9,17 +9,17 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Carl Craig - Crucero terrestre
+title: Carl Craig – Landcruising
 ---
 
 
-Carl Craig es miembro de la segunda generación del techno de Detroit, descubierta por Derrick May, conocido como uno de los fundadores del techno de Detroit junto con Kevin Saunderson y Juan Atkins.
+Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)に発掘された、デトロイトテクノ第二世代のCarl Craig。
 
-Crea un sonido que incorpora varios elementos como ambiente innovador, techno, breakbeat y jazz del futuro.
+革新的なアンビエント、テクノ、ブレイクビート、フューチャージャズなど様々な要素を盛り込んだサウンドを作っている。
 
-"Landcruising", lanzado en 2005 por Blanco Y Negro, filial de WEA, es el primer álbum de Carl Craig y está considerado una obra maestra. En 2005, el álbum fue remasterizado, remezclado y se agregaron nuevas canciones, y fue lanzado bajo el título "The Album Formerly Known As..." por el sello RushHour, y fue reevaluado.
+WEAの子会社Blanco Y Negroから2005年にリリースされた 「Landcruising」は、カールクレイグの1stアルバムであり名作とされる一枚。2005年にはリマスター＆リミックス＋新曲追加で、タイトル「The Album Formerly Known As...」としてレーベルRushHourからリリースされ再評価されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -32,7 +32,7 @@ Crea un sonido que incorpora varios elementos como ambiente innovador, techno, b
 9. Home Entertainment
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

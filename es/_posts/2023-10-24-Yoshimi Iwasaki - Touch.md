@@ -10,24 +10,24 @@ tags:
 - Nostalgic
 - Theme
 - 7inch
-title: Yoshimi Iwasaki – Toque
+title: 岩崎良美 – タッチ
 ---
 
 
-"Yoshimi Iwasaki – Touch" se estrenó en 1985.
+「岩崎良美 – タッチ」は、1985年にリリースされました。
 
-Letra – Kangjinhua
+歌詞 – 康珍化
 
-Música y arreglos – Hiroaki Serizawa
+ミュージック＆編曲 – 芹澤廣明
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. タッチ
 
 B. 君がいなければ
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQznd-eltAQ?si=P-oIwdUC2uAGJFqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

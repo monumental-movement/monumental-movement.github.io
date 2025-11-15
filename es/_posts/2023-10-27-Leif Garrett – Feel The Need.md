@@ -9,20 +9,20 @@ tags:
 - Disco
 - 70s
 - 7inch
-title: Leif Garrett - Siente la necesidad
+title: Leif Garrett – Feel The Need
 ---
 
 
-Leif Garrett es un cantante, actor y personalidad televisiva estadounidense. "Siente la necesidad" fue lanzado en 1979.
+Leif Garrett （レイフ・ギャレット）は、アメリカの歌手、俳優、テレビタレントです。「Feel The Need」は、1979年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Feel The Need
 
 B. New York City Nights
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71551680773?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71551680773?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRMGp2jq8iU?si=XPtTUOfI1mB0MQHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
