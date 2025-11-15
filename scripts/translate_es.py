@@ -8,7 +8,7 @@ SRC_DIR = "_posts"
 DEST_DIR = os.path.join("es", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-translator = Translator()
+translator = GoogleTranslator(source='ja', target='es')
 
 def is_non_translatable(line):
     """CSS, HTML, table, code, style を検知して完全スキップ"""
