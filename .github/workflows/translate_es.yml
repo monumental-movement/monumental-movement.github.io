@@ -1,10 +1,6 @@
 name: ES Translate Posts
 
 on:
-  push:
-    paths:
-      - "_posts/**"
-      - "scripts/translate_es.py"
   workflow_dispatch:
 
 jobs:
