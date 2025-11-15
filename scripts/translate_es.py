@@ -1,7 +1,7 @@
 import os
 import yaml
 import re
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 from difflib import unified_diff
 
 SRC_DIR = "_posts"
