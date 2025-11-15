@@ -16,8 +16,11 @@ title: Swoop – The Woxo Principle
 
 
 Swoop – The Woxo Principle
-Swoop - Waxo Prince Pal
-#### Tracklist```md
+
+Swoop – Waxo Prince Pal
+
+#### Tracklist
+```md
 1. Woxo Prelude
 2. Living How I'm Living
 3. Ephemera (Drop The Vibe)
@@ -39,4 +42,6 @@ Swoop - Waxo Prince Pal
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

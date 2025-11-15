@@ -14,8 +14,11 @@ title: Kasabian – Kasabian
 
 
 The first album by Kasabian, an alternative/electro rock band from Leicester, England, released in 2004. Kasabian is characterized by a sound that combines rock electronica.
+
 Kasabian is considered one of the most active rock bands to emerge from Britain in the 21st century.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Club Foot
 2. Processed Beats
 3. Reason Is Treason
@@ -33,4 +36,6 @@ Kasabian is considered one of the most active rock bands to emerge from Britain 
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/ogrEX1oBav4?si=VOAXb195Nl1q4zRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogrEX1oBav4?si=VOAXb195Nl1q4zRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,8 +15,11 @@ title: Sotte Bosse – moment
 
 
 Sotte Bosse is a special unit composed of club jazz unit i-dep's Hiroshi Nakamura and Cana. Their style is characterized by covering J-POP in a bossa nova/jazz style.
+
 "Moment", released in 2007, is Sotte Bosse's third album.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. 瞳がほほえむから
 2. 君がいるだけで
 3. 太陽のキス

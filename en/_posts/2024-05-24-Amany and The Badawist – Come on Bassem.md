@@ -14,11 +14,17 @@ title: Amany & The Badawist – Come on, Bassem
 ---
 
 
-"Come on, Bassem" is a cassette tape released by the Lebanese label Badawist Phone.Angel Nabil Ayyoub, also known as Amany, is a dancer and choreographer from Lebanon.
+"Come on, Bassem" is a cassette tape released by the Lebanese label Badawist Phone.
+Angel Nabil Ayyoub, also known as Amany, is a dancer and choreographer from Lebanon.
+
 Producer – Nazih Dia
+
 Vocals – Maan Al-Amir
+
 Arrangement - Bassem Yazbek
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1.  بدويست 
 Budweit
 

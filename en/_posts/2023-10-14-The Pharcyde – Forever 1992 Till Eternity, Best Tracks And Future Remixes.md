@@ -14,8 +14,11 @@ title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remix
 
 
 The Pharcyde is an American alternative hip-hop group from South Central, LA, formed in 1989.
+
 This album is a collection of Pharcyde's best tracks and remixes.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Soul Flower
 2. Keep On
 3. Passing Me By
@@ -33,3 +36,4 @@ This album is a collection of Pharcyde's best tracks and remixes.
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
+

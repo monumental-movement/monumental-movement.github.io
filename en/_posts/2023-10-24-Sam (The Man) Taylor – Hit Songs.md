@@ -14,7 +14,9 @@ title: Sam (The Man) Taylor – Hit Songs
 
 
 "Sam (The Man) Taylor - Sam Taylor at 25" is a collection of cable hits, released in 1970.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. 恋ひとすじ – 森進一
 
 A2. 逢わずに愛して – 内山田洋とクールファイブ
@@ -45,5 +47,6 @@ B7. 港町ブルース – 森進一
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+
 
 

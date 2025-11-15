@@ -13,8 +13,11 @@ title: VA – Mellow Beats, Spirits & Wisdom
 ---
 
 
-Released in 2008 by P-Vine RecordsA jazzy & mellow HIPHOP compilation album selected and supervised by Toru Hashimoto.
-#### Tracklist```md
+Released in 2008 by P-Vine Records
+A jazzy & mellow HIPHOP compilation album selected and supervised by Toru Hashimoto.
+
+#### Tracklist
+```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
 3. Lone Catalysts – Renaissance
@@ -37,4 +40,6 @@ Released in 2008 by P-Vine RecordsA jazzy & mellow HIPHOP compilation album sele
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

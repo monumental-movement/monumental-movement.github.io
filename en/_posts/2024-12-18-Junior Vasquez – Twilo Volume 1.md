@@ -15,7 +15,9 @@ title: Junior Vasquez – Twilo Volume 1
 
 
 A 2-disc set of House mixes by DJ Junior Vasquez released by Virgin in 2000.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1-01. Pre YMO – InDo (Junior Vasquez Remix)
 1-02. Bobby Slate – Floating Higher
 1-03. JV Project – Go
@@ -40,4 +42,6 @@ A 2-disc set of House mixes by DJ Junior Vasquez released by Virgin in 2000.
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

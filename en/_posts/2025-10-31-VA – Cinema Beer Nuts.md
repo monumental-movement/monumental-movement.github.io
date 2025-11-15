@@ -15,8 +15,11 @@ title: VA – Cinema Beer Nuts
 
 
 Hardcore Punk Compilation: Hopeless Records Cinema Beer Series
+
 VA – Cinema Beer Nuts
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time
 3. Mustard Plug – You

@@ -12,8 +12,11 @@ title: Various – Sandou.EP 002
 ---
 
 
-"Sandou.EP 002" isThis is an EP released by the Japanese label "Sandou Records" in 1997.
-#### Tracklist```md
+"Sandou.EP 002" is
+This is an EP released by the Japanese label "Sandou Records" in 1997.
+
+#### Tracklist
+```md
 A1. Wambanca–Ca1
 
 A2. Park Avenue –Screw
@@ -26,4 +29,6 @@ B2. Takashi Uno–Machinary Funk2
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m49072274463?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl4yPp-9jAg?si=iTV30cdzTwfmEhjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl4yPp-9jAg?si=iTV30cdzTwfmEhjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

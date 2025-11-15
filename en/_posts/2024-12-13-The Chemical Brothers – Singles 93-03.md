@@ -16,7 +16,9 @@ title: The Chemical Brothers – Singles 93-03
 
 "Singles 93–03" is a best-of singles collection album that commemorates the 10th anniversary of the formation of the UK electronic music duo The Chemical Brothers, which was released in 2003.It is a collection of singles released from 1993 to 2003. Comes with a special sticker that is included only for the first production.
 
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Song To The Siren
 2. Chemical Beats
 3. Leave Home
@@ -34,4 +36,6 @@ title: The Chemical Brothers – Singles 93-03
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/N-dnwFRs6OA?si=KLkB6BFj9DXx4ab_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-dnwFRs6OA?si=KLkB6BFj9DXx4ab_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

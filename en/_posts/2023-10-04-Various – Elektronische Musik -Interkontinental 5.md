@@ -14,8 +14,11 @@ title: Various – Elektronische Musik -Interkontinental 5
 ---
 
 
-"Various – Elektronische Musik -Interkontinental 5" isThis is a 3-disc compilation album released in 2006 by the German label "Traum Schallplatten".
-#### Tracklist```md
+"Various – Elektronische Musik -Interkontinental 5" is
+This is a 3-disc compilation album released in 2006 by the German label "Traum Schallplatten".
+
+#### Tracklist
+```md
 A1. Adam Kroll–Stalker
 
 A2. Nathan Fake–Numb Chance
@@ -42,4 +45,6 @@ F2. Process–Tendency To Synchronize
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m26372156759?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwQHKnxcEFo?si=V5cRYOt-QpH755Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwQHKnxcEFo?si=V5cRYOt-QpH755Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

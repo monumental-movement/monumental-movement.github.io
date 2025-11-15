@@ -15,8 +15,11 @@ title: '[re:jazz] – (re:mix)'
 
 
 [re:jazz] is a jazz project by Matthias Vogt, also known as DJ Matt, and various artists.
+
 (re:mix) is Downtempo/Future Jazz/Deep House released by Japanese jazz label Nebula in 2003.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Quiet Nights (Nicola Conte "Out Of The Cool Version")
 2. My Love Is Higher (Russ Gabriel Rmx)
 3. Mental Strength (Akufen Interpretation)
@@ -32,4 +35,6 @@ title: '[re:jazz] – (re:mix)'
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/EGl9lQlR1x4?si=3QYkgtH9qeWrA69D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EGl9lQlR1x4?si=3QYkgtH9qeWrA69D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

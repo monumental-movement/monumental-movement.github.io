@@ -13,7 +13,9 @@ title: Tresor Compilation Vol. 7
 
 
 "Tresor Compilation Vol. 7" is a compilation album released in 1999.
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Sven Väth –Dub Control Your Mind (Track & Feel Edit)
 2. Maurizio –M4
 3. Infiniti –Walking On Water
@@ -29,4 +31,6 @@ title: Tresor Compilation Vol. 7
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

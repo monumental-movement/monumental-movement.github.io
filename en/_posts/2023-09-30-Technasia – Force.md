@@ -12,9 +12,13 @@ title: Technasia – Force
 
 
 "Force" by Technasia can be called a techno anthem.
+
 "Force" is a great classic, with the vocals making this typical Technasia track special.
+
 Check out the breakbeat mix on the back, it's worth a listen.
-#### Tracklist```md
+
+#### Tracklist
+```md
 A1. Force
 
 A2. Force (Reprise)
@@ -25,4 +29,5 @@ B2. Force (Voxless)
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
+
 https://jp.mercari.com/item/m82234983144?afid=6142608987

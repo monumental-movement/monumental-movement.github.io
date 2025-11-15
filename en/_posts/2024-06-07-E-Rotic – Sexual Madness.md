@@ -16,8 +16,11 @@ title: E-Rotic – Sexual Madness
 
 
 E-Rotic is a Eurodance duo group formed in 1994 by German record producer David Brandes. The members are German singer Lyane Leigh (Liane Hegemann) and American rapper Richard Allen Smith (Ras-Ma-Taz).
+
 "Sexual Madness" is E-Rotic's third studio album, released in 1997. It includes the hit song "Turn Me On".
-#### Tracklist```md
+
+#### Tracklist
+```md
 1. Sexual Madness
 2. Turn Me On
 3. Save Me
@@ -33,4 +36,6 @@ E-Rotic is a Eurodance duo group formed in 1994 by German record producer David 
 ```
 
 [Purchase on Mercari](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
-#### Youtube<iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
