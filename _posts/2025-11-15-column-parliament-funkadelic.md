@@ -40,9 +40,9 @@ color: #fff;
 </style>
 
 
-# 第1章：Parliament / Funkadelic の誕生 ― 1950〜70年代前半
+## 第1章：Parliament / Funkadelic の誕生 ― 1950〜70年代前半
 
-## ■ ニュージャージーの床屋から始まった “ドゥーワップの夢”
+### ■ ニュージャージーの床屋から始まった “ドゥーワップの夢”
 P-Funkの起源は、1950年代後半、ジョージ・クリントンが働いていたニューアークの理髪店 “Plainfield Barber Shop”。  
 彼は顧客を待つ時間に仲間とハーモニーを合わせ、**The Parliaments** というドゥーワップ・グループを結成した。
 
@@ -53,17 +53,17 @@ P-Funkの起源は、1950年代後半、ジョージ・クリントンが働い�
 
 <div class="mermaid">
 
-flowchart LR
-    A[The Parliaments<br>(Doowop 1950s)] --> B[Funkadelic<br>(Psychedelic Funk)]
-    A --> C[Parliament<br>(Funk Opera)]
-    B --> D[P-Funk Collective<br>総合プロジェクト]
+flowchart TD
+    A["The Parliaments<br>(Doowop 1950s)"] --> B["Funkadelic<br>(Psychedelic Funk)"]
+    A --> C["Parliament<br>(Funk Opera)"]
+    B --> D["P-Funk Collective<br>総合プロジェクト"]
     C --> D
 
 </div>
 
 ---
 
-# 第2章：Funkadelic の登場 ― 黒人音楽のサイケデリック化（1968〜）
+## 第2章：Funkadelic の登場 ― 黒人音楽のサイケデリック化（1968〜）
 
 1968年、ジョージ・クリントンは “黒人のジミ・ヘンドリックス” を構想し、**Funkadelic** を始動。
 ラリー・グラハムのスラップ以降、ファンクは急速にリズム主導へ向かったが、Funkadelic はさらに以下を融合させた。
@@ -80,11 +80,11 @@ flowchart LR
 
 ---
 
-# 第3章：Parliament の宇宙神話 ― P-Funk神話体系の構築（1974〜）
+## 第3章：Parliament の宇宙神話 ― P-Funk神話体系の構築（1974〜）
 
 1970年代半ば、ジョージ・クリントンは **Parliament 名義でブラック・サイエンス・フィクション** を展開し始める。
 
-## ■ Mothership Connection（1975）
+### ■ Mothership Connection（1975）
 
 * コンセプト：アフロフューチャリズム×ファンク
 * テーマ："宇宙から来た黒人のファンク救世主"
@@ -104,18 +104,18 @@ flowchart LR
 
 ---
 
-# 第4章：音楽的技法の深層 ― P-Funkのサウンドはなぜ“宇宙的”なのか？
+## 第4章：音楽的技法の深層 ― P-Funkのサウンドはなぜ“宇宙的”なのか？
 
 P-Funkの特徴は単なるグルーヴの強さではなく、その“構造的制御”にある。
 
-## ■ 1. ブーツィー・コリンズによる「ゴムのようなベース」
+### ■ 1. ブーツィー・コリンズによる「ゴムのようなベース」
 
 * オクターブ跳ね
 * レイドバックした裏ノリ
 * シンコペーション多用
 * DistortionとAuto-Wahの使用
 
-## ■ 2. ドラムの「重力低めのグルーヴ」
+### ■ 2. ドラムの「重力低めのグルーヴ」
 
 ジェローム“ビッグフット”ブレイリーらのドラミングは以下の特徴を持つ。
 
@@ -125,46 +125,46 @@ P-Funkの特徴は単なるグルーヴの強さではなく、その“構造�
 
 結果、ビートが「浮遊しながら前に進む」感覚になる。
 
-## ■ 3. コーラス・アンサンブルのオペラ的分厚さ
+### ■ 3. コーラス・アンサンブルのオペラ的分厚さ
 
 * 5〜9名が常時重なる
 * 声質の異なる複数シンガーを配置
 * ゴスペル風応答
 
-## ■ 4. ホーンのファンキーな“指示音”
+### ■ 4. ホーンのファンキーな“指示音”
 
 * ジェームズ・ブラウン式の鋭いアクセント
 * だがJBより遊びがあり、ユニゾンよりハーモニーが多い
 
-## ■ 5. シンセサイザーの未来音
+### ■ 5. シンセサイザーの未来音
 
 バーニー・ウォーレルのミニモーグは、黒人音楽に初めて“宇宙的電子音”を持ち込み、
 **ヒップホップ、G-funk、エレクトロの源流** となる。
 
 ---
 
-# 第5章：名盤ガイド（詳細解説）
+## 第5章：名盤ガイド（詳細解説）
 
-## ■ Funkadelic『Maggot Brain』（1971）
+### ■ Funkadelic『Maggot Brain』（1971）
 
 * 黒人ロックの最高峰
 * タイトル曲は「泣くギター」と称される名演
 * 社会的暗喩が強く、アートロック化したファンクの先駆
 
-## ■ Parliament『Mothership Connection』（1975）
+### ■ Parliament『Mothership Connection』（1975）
 
 * P-Funk神話の中心作
 * “Give Up the Funk”“Mothership Connection”など世界的ヒット
 * ライブ演劇性が最大化
 
-## ■ Funkadelic『One Nation Under a Groove』（1978）
+### ■ Funkadelic『One Nation Under a Groove』（1978）
 
 * よりダンス性が高い
 * 民族的融和と自由へのメッセージを掲げる
 
 ---
 
-# 第6章：P-Funk集合体のメンバー構造（図解）
+## 第6章：P-Funk集合体のメンバー構造（図解）
 
 <div class="mermaid">
 
@@ -185,7 +185,7 @@ graph TD
 
 ---
 
-# 第7章：社会・文化的影響 ― アフロフューチャリズムの中心へ
+## 第7章：社会・文化的影響 ― アフロフューチャリズムの中心へ
 
 P-Funkは黒人文化に3つの大きなインパクトを残した。
 
@@ -211,7 +211,7 @@ Sun Ra と並び、P-Funkは黒人が未来を語る文化基盤を作った。
 
 ---
 
-# 第8章：P-Funkの年表（詳細）
+## 第8章：P-Funkの年表（詳細）
 
 <div class="mermaid">
 
@@ -235,26 +235,26 @@ timeline
 
 ---
 
-# 第9章：後世のアーティストとの接続
+## 第9章：後世のアーティストとの接続
 
-## ■ Dr. Dre（G-Funk）
+### ■ Dr. Dre（G-Funk）
 
 * P-Funkのシンセとスネア配置を継承
 * “Mothership Connection”をIce Cubeらがサンプリング
 
-## ■ Prince
+### ■ Prince
 
 * 多重人格的キャラクター構築
 * ライブ演劇・性表現・ジャンル横断性
 
-## ■ Thundercat & Flying Lotus
+### ■ Thundercat & Flying Lotus
 
 * ベースの跳ね感、宇宙感の継承
 * ThundercatはBootsyを直系の祖として語る
 
 ---
 
-# 結語：P-Funkとは “黒人未来の巨大アーカイブ” である
+## 結語：P-Funkとは “黒人未来の巨大アーカイブ” である
 
 ジョージ・クリントンは、単なるファンクのリーダーではない。
 彼は、**音楽・身体・宇宙・神話・社会批評** をまとめ上げる“文化設計者”だった。
@@ -264,7 +264,7 @@ P-Funkの世界観は、現在のヒップホップ・R&B・エレクトロ・�
 
 ---
 
-# 付録：おすすめディスコグラフィ（入門から深掘りまで）
+### 付録：おすすめディスコグラフィ（入門から深掘りまで）
 
 * Funkadelic 『Maggot Brain』
 * Funkadelic 『Cosmic Slop』
@@ -274,18 +274,19 @@ P-Funkの世界観は、現在のヒップホップ・R&B・エレクトロ・�
 
 ---
 
-# 付録：ライブ構成（1976 Mothership Tour 再現図）
+### 付録：ライブ構成（1976 Mothership Tour 再現図）
 
 <div class="mermaid">
 
-flowchart LR
-    A[Audience] --> B[Main Stage]
-    B --> C[Horn Section<br>Horny Horns]
-    B --> D[Vocal Ensemble]
-    B --> E[Bootsy<br>(Bass)]
-    B --> F[Bernie Worrell<br>(Keyboards)]
-    B --> G[Guitar Zone]
-    B --> H[Mothership<br>降臨ギミック]
+flowchart TD
+    Audience((Audience)) --> Stage[Main Stage]
+
+    Stage --> Horns["Horn Section\n(Horny Horns)"]
+    Stage --> Vocals["Vocal Ensemble"]
+    Stage --> Bootsy["Bootsy Collins\n(Bass)"]
+    Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
+    Stage --> Guitar["Guitar Zone"]
+    Stage --> Ship["Mothership\n降臨ギミック"]
 
 </div>
 
