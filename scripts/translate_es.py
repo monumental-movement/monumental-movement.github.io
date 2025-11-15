@@ -10,41 +10,42 @@ os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='es')
 
+
 def is_non_translatable(line):
-    """CSS, HTML, table, code, style を検知して完全スキップ"""
-    if not line.strip():
+    """HTML・CSS・テーブル・コードを除外して誤検知を防ぐ"""
+
+    stripped = line.strip()
+    if not stripped:
+        return True  # 空行
+
+    # HTMLタグ (<div> 等)
+    if re.fullmatch(r"<[^>]+>", stripped):
         return True
 
-    # HTMLタグ
-    if re.match(r"\s*<[^>]+>\s*$", line):
+    # CSS ブロック (<style> または {...;} を含む行)
+    if stripped.startswith("<style") or stripped.startswith("</style>"):
+        return True
+    if "{" in stripped and ";" in stripped and "}" in stripped:
         return True
 
-    # CSS ブロック
-    if re.match(r".*\{.*\}", line):
+    # Markdown table
+    if stripped.startswith("|") and stripped.endswith("|"):
         return True
 
-    # <style> ブロック
-    if "<style" in line.lower() or "</style>" in line.lower():
-        return True
-
-    # テーブル (Markdown)
-    if re.match(r"^\|.*\|$", line.strip()):
-        return True
-
-    # コードブロック
-    if line.strip().startswith("```"):
+    # コードブロック開始・終了
+    if stripped.startswith("```"):
         return True
 
     return False
 
 
 def translate_text(text):
+    """翻訳が必要な場合のみ DeepTranslator を実行"""
     if is_non_translatable(text):
         return text
 
     try:
-        result = translator.translate(text, src="ja", dest="es")
-        return result.text
+        return translator.translate(text)
     except Exception:
         return text
 
@@ -60,7 +61,7 @@ def split_front_matter(content):
 def load_yaml_safe(fm):
     try:
         return yaml.safe_load(fm) or {}
-    except:
+    except Exception:
         return {}
 
 
@@ -95,7 +96,11 @@ for filename in os.listdir(SRC_DIR):
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
 
+    #↓↓↓↓↓↓ Spanish 用 permalink を強制設定（これが重要） ↓↓↓↓↓↓
+    slug = os.path.splitext(filename)[0]
     front_matter["lang"] = "es"
+    front_matter["permalink"] = f"/es/{slug}/"
+    #↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
     # 本文翻訳
     translated_body = ""
@@ -112,6 +117,7 @@ for filename in os.listdir(SRC_DIR):
         else:
             translated_body += translate_text(line) + "\n"
 
+    # 出力
     output = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
 
     with open(dest_path, "w", encoding="utf-8") as f:
@@ -119,4 +125,4 @@ for filename in os.listdir(SRC_DIR):
 
     print(f"✅ Translated: {filename}")
 
-print("\n🎉 Spanish translation completed safely (HTML/CSS protected)")
+print("\n🎉 Spanish translation completed successfully!")

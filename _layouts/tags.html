@@ -11,6 +11,8 @@ permalink: "/tags.html"
 {% endcomment %}
 {% if page.lang == "en" or page.url contains '/en/' %}
   {% assign lang = "en" %}
+{% if page.lang == "es" or page.url contains '/es/' %}
+  {% assign lang = "es" %}
 {% else %}
   {% assign lang = "ja" %}
 {% endif %}
