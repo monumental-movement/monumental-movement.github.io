@@ -40,12 +40,24 @@ def is_non_translatable(line):
 
 
 def translate_text(text):
-    """翻訳が必要な場合のみ DeepTranslator を実行"""
+    """翻訳して必ず str を返す安全版"""
     if is_non_translatable(text):
         return text
 
+    if not isinstance(text, str):
+        text = str(text)
+
     try:
-        return translator.translate(text)
+        result = translator.translate(text)
+
+        if result is None:
+            return text
+
+        if isinstance(result, str):
+            return result
+
+        return str(result)
+
     except Exception:
         return text
 
