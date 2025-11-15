@@ -7,18 +7,18 @@ lang: es
 layout: post
 tags:
 - House
-title: Jaimy – Perdido por dentro
+title: Jaimy – Lost Inside
 ---
 
 
-En 1990, Jaimy fue uno de los primeros productores holandeses que logró ganarse la vida con la música house. A la edad de 19 años, firmó su primer contrato discográfico y fue contratado por Outland Records en Ámsterdam, donde contribuyó a gran parte de la música publicada por Outland Studios.
+1990年、Jaimyはオランダのプロデューサーの中で、ハウスミュージックで生計を立てることに成功した最初の人の1人でした。19歳で初めてのレコード契約を締結し、アムステルダムのOutland Recordsに迎えられ、Outland Studiosからリリースされた音楽の多くに貢献しました。
 
-Alrededor de 1998 conocí a mi compañero musical, Kenny D.
-En cuanto a la producción, Jaimy & Kenny D lanzaron música principalmente en Black Hole Recordings, pero también contribuyeron con pistas y proyectos para United Recordings, Combined Forces y Perfecto.
+1998年ごろ、音楽のパートナーであるKenny Dと出会いました。
+制作面では、Jaimy & Kenny Dは主にBlack Hole Recordingsから楽曲をリリースしましたが、United Recordings、Combined Forces、Perfectoにもトラックやプロジェクトを提供しました。
 
-En 2004, Jaimy tomó la ruta independiente y fundó su propio sello, Fatal Music. Un año después, también fundó Drum Mode.
+2004年、Jaimyは独立路線を選び、自身のレーベルFatal Musicを設立しました。1年後にはDrum Modeも設立しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Lost Inside
 
@@ -27,7 +27,7 @@ B1. No Way Out
 B2. Blow Your Mind
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-yx9hBc8REo?si=1VPt2edrqlcOYzrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

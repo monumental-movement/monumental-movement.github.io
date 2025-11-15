@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - Folk
-title: Simon & Garfunkel – Sonidos del silencio
+title: Simon & Garfunkel – Sounds Of Silence
 ---
 
 
-"Sounds Of Silence" fue lanzado en 1966. Este álbum supuso un hito importante en la carrera de Simon & Garfunkel, demostrando su madurez musical y talento.
+「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
 
-El álbum incluye los exitosos sencillos "The Sound of Silence" y "I Am a Rock". Estas canciones presentan un sonido folk melódico y las hermosas armonías de Paul Simon y Art Garfunkel.
+アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
 
-Este álbum es un trabajo atemporal tanto para los fans de Simon & Garfunkel como para los amantes de la música folk. Sus conmovedoras letras y hermosas melodías han conmovido a muchas personas y han seguido siendo amadas durante mucho tiempo.
+このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. The Sounds Of Silence
 
@@ -43,7 +43,7 @@ B4. We've Got A Groovey Thing Goin'
 B5. I Am A Rock
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

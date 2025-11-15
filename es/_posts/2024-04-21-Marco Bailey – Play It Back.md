@@ -9,19 +9,19 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Marco Bailey – Reproducirlo
+title: Marco Bailey – Play It Back
 ---
 
 
-Marco Bailey es un productor y DJ de Bélgica. Dirige el sello PORNOGRAPHIC con su propio sello Session Recordings y Cristian Varela.
+Marco Bailey（マルコ・ベイリー）は、ベルギー出身のプロデューサー兼DJ。自身のレーベルSession RecordingsやCristian Varela（クリスチャン・ヴァレラ）と共にレーベルPORNOGRAPHICを運営している。
 
-En 2023 fundó el sello de techno Elektronik Zoo Sounds.
+2023年には、テクノレーベルElektronik Zoo Soundsを設立。
 
-"Play It Back" es una pista de techno electro coproducida con Steve Vangilbergen, también conocido como Redhead.
+「Play It Back」は、Redhead（レッドヘッド）ことSteve Vangilbergenと共同プロデュースしたテクノ・エレクトロトラック。
 
-Publicado en 2000 en Intec Records, un sello de techno fundado por Carl Cox y DJ C1.
+カール・コックスとDJ C1が立ち上げたテクノレーベルIntec Recordsから2000年にリリース。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Play It Back
 
@@ -32,7 +32,7 @@ B1. Orange Skills
 B2. Don't Leave The Drums
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72846267797?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72846267797?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LuUoOfaV_40?si=lbwbZBOvUwvoK4qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

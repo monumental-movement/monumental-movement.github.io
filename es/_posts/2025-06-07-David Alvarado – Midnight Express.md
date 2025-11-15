@@ -9,14 +9,14 @@ tags:
 - House
 - Deep House
 - 90s
-title: David Alvarado – Expreso de Medianoche
+title: David Alvarado – Midnight Express
 ---
 
 
-Un CD recopilatorio de mezclas de house/deep house seleccionado por el DJ y productor estadounidense David Alvarado, quien ha producido trabajos para sellos como Ovum, Peacefrog, NRK, Plastic City y Ultra.
+Ovum、Peacefrog、NRK、Plastic City、Ultraなどのレーベルで作品を制作しているUSのDJ・プロデューサーDavid Alvaradoがセレクトしたハウス・ディープハウスコンピレーションミックスCD。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. A:xus – Callin' U
 2. Mutabaruka –Dis Poem (Reel Houze Mix)
@@ -33,7 +33,7 @@ Un CD recopilatorio de mezclas de house/deep house seleccionado por el DJ y prod
 13. Dubtribe Sound System – What You Feel In Your Heart
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,17 +9,17 @@ tags:
 - Techno
 - Trance
 - Downtempo
-title: Jam&Spoon hazaña. Plavka – Cielos caleidoscópicos
+title: Jam&Spoon Feat. Plavka – Kaleidoscope Skies
 ---
 
 
-Jam & Spoon es un dúo alemán de techno/trance formado por Rolf Ellmer (Jam) y Markus Löffel (Spoon). Crearon muchas canciones populares en la década de 1990 y son conocidos por su sonido y sus habilidades de producción.
+Jam & Spoonは、ドイツのテクノ/トランスデュオであり、Rolf Ellmer（Jam）とMarkus Löffel（Spoon）によって結成されました。彼らは1990年代に多くの人気曲を生み出し、そのサウンドとプロダクションスキルで知られています。
 
-"Kaleidoscope Skies" es una canción producida por Jam & Spoon con Plavka y presenta elementos de trance/techno combinados con melodías emocionales y ritmos electrónicos, y se caracteriza por un paisaje sonoro épico.
+「Kaleidoscope Skies」は、Jam & SpoonがPlavkaと共に制作した楽曲で、エモーショナルなメロディとエレクトロニックなビートが組み合わさったトランス/テクノの要素を持ち、壮大なサウンドスケープが特徴です。
 
-Plavka es una vocalista de Serbia y su poderosa voz le da profundidad y emoción a "Kaleidoscope Skies". Su voz al cantar le da una esencia dramática a toda la canción y captura los corazones de los oyentes.
+Plavkaは、セルビア出身のボーカリストであり、彼女の力強いボーカルは「Kaleidoscope Skies」に深みと感情を与えています。彼女の歌声は、楽曲全体にドラマティックなエッセンスを与え、聴く人の心を捉えます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Kaleidoscope Skies (Club Mix)
 
@@ -28,7 +28,7 @@ B1  I Pull My Gun Once
 B2  I Pull My Gun Twice
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m66323929569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66323929569?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/foNwLavG1mA?si=sdoV9oB8Iw49rgt5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

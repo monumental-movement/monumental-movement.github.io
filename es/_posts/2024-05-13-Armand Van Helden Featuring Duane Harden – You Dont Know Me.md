@@ -10,24 +10,24 @@ tags:
 - Garage House
 - Big Beat
 - 90s
-title: Armand Van Helden con Duane Harden – No me conoces
+title: Armand Van Helden Featuring Duane Harden – You Don't Know Me
 ---
 
 
-"You Don't Know Me" de Armand Van Helden y Duane Harden es un sencillo dance y un éxito de club house de gran éxito de ventas que encabezó la lista de sencillos del Reino Unido en enero de 1999.
+Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月に全英シングル チャートでトップなったベストセラーダンスシングル＆クラブヒットハウストラック。
 
-"You Don't Know Me" muestra las cuerdas de "Dance With You" de Carrie Lucas y la batería/ritmo de "Plastic Dreams" de Jaydee.
+「You Don't Know Me」は、Carrie Lucas（キャリー・ルーカス）「Dance With You」のストリングスとJaydee「Plastic Dreams」のドラム/ビートをサンプリングしている。
 
-La cara B "Rock Da Spot" presenta al Sr. Len de Company Flow.
+B面「Rock Da Spot」は、Company Flow（カンパニーフロー）のMr. Lenをフィーチャリング。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. You Don't Know Me
 
 B. Rock Da Spot
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/orno0hwdqAM?si=NY-8pwH8w13d3qWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,19 +9,19 @@ tags:
 - Rock
 - Remix
 - 7inch
-title: Robert Plant – Poco A Poco (Remix)
+title: Robert Plant – Little By Little (Remix)
 ---
 
 
-El lado A es un remix de Rob Dickins.
+A面は、Rob Dickins（ロブ・ディキンス）によるリミックス。
 
-Las caras C y D están grabadas en vivo en Dallas (24 de junio de 1985).
+C面とD面は、ダラスでのライブ録音（1985年6月24日）。
 
-Robert Anthony Plant nació en 1948 en West Bromwich, Staffordshire, Inglaterra.
+ロバート・アンソニー・プラントは、1948年にイギリスのスタッフォードシャー州ウェスト・ブロムウィッチで生まれました。
 
-Robert Plant es conocido principalmente como el vocalista de la banda de rock Led Zeppelin y es aclamado como uno de los mejores vocalistas de la historia del rock.
+ロバート・プラントは主に、ロックバンド「 Led Zeppelin」のボーカリストとして知られ、ロック史上最高のボーカリストの一人として称賛されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Robert Plant–Little By Little (Remix)
 
@@ -32,7 +32,7 @@ C. Robert Plant–Easily Lead
 D. Robert Plant And The Honeydrippers–Rockin' At Midnight
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78201761711?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78201761711?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EaL_3bdbbeQ?si=A2EoymHdOoSVdDSP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

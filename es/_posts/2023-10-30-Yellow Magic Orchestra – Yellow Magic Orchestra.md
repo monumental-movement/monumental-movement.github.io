@@ -9,15 +9,15 @@ tags:
 - JPop
 - Synth-Pop
 - Techno
-title: Orquesta Mágica Amarilla – Orquesta Mágica Amarilla
+title: Yellow Magic Orchestra – Yellow Magic Orchestra
 ---
 
 
-Esta es la versión japonesa del primer LP de YMO (Yellow Magic Orchestra).
+YMO（イエローマジックオーケストラ）のファーストLPの日本盤になります。
 
-La versión estadounidense está [aquí](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)
+US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Computer Game (Theme From The Circus)
 
@@ -38,7 +38,7 @@ B3. Bridge Over Troubled Music
 B4. Mad Pierrot
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19629333134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19629333134?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ELvvaBXaqb8?si=qNdtkQOuKL_QCfiB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

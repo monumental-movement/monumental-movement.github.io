@@ -8,18 +8,18 @@ layout: post
 tags:
 - Rock
 - Punk
-title: Fricción – fricción
+title: Friction – 軋轢
 ---
 
 
-"Friction" es el primer álbum de estudio completo de la banda japonesa de punk rock Friction, lanzado en 1980. El productor e ingeniero es Ryuichi Sakamoto. Este álbum es una reedición de 2005.
+「軋轢」は、日本のパンク・ロックバンドFriction（フリクション ）の1980年リリースの初のフル・スタジオ・アルバム。プロデューサー・エンジニアは坂本龍一。このアルバムは2005年の再発盤。
 
-[Miembros participantes]
-・Rec: voz, bajo, guitarra
-・Satoshi Tsunematsu - Guitarra
-・Chico Hige – batería, saxofón
+【参加メンバー】
+・レック - ボーカル、ベース、ギター
+・ツネマツマサトシ - ギター
+・チコ・ヒゲ - ドラムス、サックス
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -33,7 +33,7 @@ title: Fricción – fricción
 10. Out
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

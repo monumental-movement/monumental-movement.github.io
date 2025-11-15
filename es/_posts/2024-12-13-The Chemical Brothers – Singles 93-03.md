@@ -10,14 +10,14 @@ tags:
 - House
 - Big Beat
 - 00s
-title: Los hermanos químicos - Solteros 93-03
+title: The Chemical Brothers – Singles 93-03
 ---
 
 
-"Singles 93–03" es un álbum de colección de los mejores sencillos que conmemora el décimo aniversario de la formación del dúo de música electrónica del Reino Unido The Chemical Brothers, que se lanzó en 2003. Es una colección de sencillos lanzados entre 1993 y 2003. Viene con una pegatina especial que se incluye solo para la primera producción.
+「Singles 93–03」は、2003年にリリースされたUKエレクトロニックミュージックデュオThe Chemical Brothers結成10周年を記念して、1993年から2003年までにリリースしたシングルをピックアップしたシングルコレクション・ベストアルバム。初回生産分のみ同封される特製ステッカー付き。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Song To The Siren
 2. Chemical Beats
@@ -35,7 +35,7 @@ title: Los hermanos químicos - Solteros 93-03
 14. The Golden Path
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-dnwFRs6OA?si=KLkB6BFj9DXx4ab_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

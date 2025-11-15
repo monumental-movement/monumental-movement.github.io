@@ -9,13 +9,13 @@ tags:
 - Rock
 - Pops
 - 70s
-title: Michel Polnareff – Serie de paquetes de regalo
+title: Michel Polnareff – Gift Pack Series
 ---
 
 
-La serie Michel Polnareff – Gift Pack fue lanzada por Epic en 1973.
+「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. 愛の休日
 A2. ロミオとジュリエットのように
@@ -47,7 +47,7 @@ D5. おかしなジョー
 D6. 天国への道
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoMUuzxAYpU?si=Abf6g7v7ZU-Gd0rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

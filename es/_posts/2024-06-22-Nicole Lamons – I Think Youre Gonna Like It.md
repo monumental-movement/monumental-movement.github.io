@@ -10,15 +10,15 @@ tags:
 - Deep House
 - Garage House
 - 90s
-title: Nicole Lamons - Creo que te va a gustar
+title: Nicole Lamons – I Think You're Gonna Like It
 ---
 
 
-Una pista de house/deep house/garage house lanzada en 1993 por el sello house de Nueva York Strictly Rhythm.
+NYのハウスレーベルStrictly Rhythm（ストリクトリー・リズム）から1993年にリリースされた、ハウス・ディープハウス・ガラージハウストラック。
 
-DJ Pierre fue el A&R de Strictly Rhythm durante este período.
+この時期のStrictly RhythmのA&Rは、DJ Pierre（DJピエール）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 U Like Side
 A1. I Think You're Gonna Like It (Rheji's Deep Deep Bass Mix)
@@ -30,7 +30,7 @@ B2. I Think You're Gonna Like It (Rhano's Funky Underground Mix)
 B3. I Think You're Gonna Like It (The Fat Dub Extension Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m45411604478?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45411604478?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4J7M5h0Te-g?si=5ylHGznX74je43Ij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

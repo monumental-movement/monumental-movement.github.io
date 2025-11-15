@@ -9,13 +9,13 @@ tags:
 - House
 - Techno
 - 90s
-title: Hazaña de secuencia de sueños. Blake Baxter - Reflexión sin fin
+title: Dream Sequence Feat. Blake Baxter – Endless Reflection
 ---
 
 
-Uno de los creadores del techno de Detroit, Blake Baxter, también conocido como The Prince Of Techno, tocó Tresor cuando visitó Berlín en 1992 en su primera gira europea UR (Underground Resistance), desarrollando la ahora legendaria conexión Berlín-Detroit. Esto llevó al álbum lanzado por Tresor en 1995.
+デトロイト・テクノのオリジネーターの一人、The Prince Of TechnoことBlake Baxter(ブレイク・バクスター)が、1992年に初のUR(Underground Resistance)ヨーロッパツアーでベルリンを訪れた際、Tresorでプレイした事で今や伝説的なベルリン-デトロイトコネクションを開拓した。これがきっかけで、1995年にTresorからリリースしたアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Dream Sequence
 2. Kiss It
@@ -32,7 +32,7 @@ Uno de los creadores del techno de Detroit, Blake Baxter, también conocido como
 13. Modulation
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m91546413577?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91546413577?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oIPRANvCzEc?si=n6ZXwbZmAU_9rgrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

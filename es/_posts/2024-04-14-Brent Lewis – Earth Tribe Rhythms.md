@@ -8,15 +8,15 @@ layout: post
 tags:
 - Tribal
 - Soundtrack
-title: Brent Lewis - Ritmos de la tribu terrestre
+title: Brent Lewis – Earth Tribe Rhythms
 ---
 
 
-Brent Lewis es un percusionista y baterista que ha tocado con muchos artistas famosos a lo largo de los años.
+Brent Lewis(ブレントルイス)は、長年にわたり多くの有名なアーティストと共演しているパーカッショニスト&ドラマー。
 
-La segunda canción, Ode to Buckwheat, se incluyó en la banda sonora original de la película JFK de Oliver Stone.
+2曲目Ode to Buckwheatはオリバー・ストーン監督の映画「JFK」のオリジナルサウンドトラックに収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Doom Tac A Doom
 
@@ -39,7 +39,7 @@ La segunda canción, Ode to Buckwheat, se incluyó en la banda sonora original d
 10. Voodoo You're Mine
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92233354047?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tOmd8rX-ZyU?si=_JWAnqkuiKP3wCwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

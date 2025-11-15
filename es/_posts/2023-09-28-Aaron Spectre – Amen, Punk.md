@@ -8,15 +8,15 @@ layout: post
 tags:
 - Drum n Bass
 - Jungle
-title: Aaron Spectre - Amén, Punk
+title: Aaron Spectre – Amen, Punk
 ---
 
 
-Aaron Specter es un productor, DJ y artista estadounidense conocido por su trabajo que combina sonidos de drum and bass y de la jungla con elementos únicos de punk y hardcore.
+Aaron Spectreは、アメリカのプロデューサー、DJ、アーティストであり、ドラムンベースやジャングルをベースにしたサウンドに独自のパンクやハードコアの要素を融合させた作品で知られています。
 
-Como sugiere el título "Amen, Punk", su música incorpora el patrón de muestra conocido como Amen Break, que es la base del drum and bass, al tiempo que expresa la energía y la dureza del punk y el hardcore.
+「Amen, Punk」というタイトルからも分かるように、彼の音楽はアメンブレイク（Amen Break）と呼ばれるドラムンベースの基礎となるサンプルパターンを取り入れつつ、パンクやハードコアのエネルギーと荒々しさを表現しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 1600 Penn, FTW
 
@@ -24,9 +24,9 @@ B1. Pay To Cum VIP
 B2. You Don't Know
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxS--2VawJ8?si=Ulgn9hh04ay2rmj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

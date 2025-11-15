@@ -9,23 +9,23 @@ tags:
 - Breakbeat
 - Trance
 - 00s
-title: Tiësto & Junkie XL – Obsesión
+title: Tiësto & Junkie XL – Obsession
 ---
 
 
-Un remix de "Obsession" del DJ y productor holandés Tiesto, de quien se dice que es el padrino del mejor DJ y EDM de los últimos 20 años, y Tom Holkenborg, también conocido como Junkie XL, quien fue una figura central en el movimiento big beat de los noventa y un pionero de la escena cruzada del rock y el dance.
+過去20年間で最高のDJ＆EDMのゴッドファーザーと評されるオランダのDJ・プロデューサーTiesto（ティエスト）と1990年代のビッグビートムーヴメントの中心人物であり、ロックとダンスのクロスオーバーシーンのパイオニアとして知られるJunkie XL（ジャンキーXL）ことTom Holkenborgによる「Obsession」のremix。
 
-Side A es un remix del DJ y productor belga Bert Wilmaers y el dúo Filterheadz de Maarten Wilmaers.
-La cara B es un remix de NuBreed, un proyecto de Jase (Jason Catherine), Mykel (Michael Walburgh) y DB (Danny Bonnici).
+A面はベルギーのDJ・プロデューサーBert WilmaersとMaarten WilmaersのデュオFilterheadzによるremix。
+B面はJase (Jason Catherine)、Mykel (Michael Walburgh)、DB (Danny Bonnici) によるプロジェクトNuBreedによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A01. Obsession (Filterheadz Remix)
 
 B01. Obsession (NuBreed Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76454545800?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76454545800?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2Y1TOVkcsI?si=qdQAoiuR0TVOdtUS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

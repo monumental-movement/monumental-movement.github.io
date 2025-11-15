@@ -8,13 +8,13 @@ layout: post
 tags:
 - Euro Beat
 - House
-title: Ian Lex - Quiero ser tu hombre
+title: Ian Lex – I Wanna Be Your Man
 ---
 
 
-Este es un sencillo del proyecto "Ian Lex" de Rino Facchinetti, lanzado en 1996.
+1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. I Wanna Be Your Man (Factory Team Dance Traxx)
 
@@ -23,7 +23,7 @@ B1. I Wanna Be Your Man (Dub Traxx)
 B2. I Wanna Be Your Man (Progressive)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m68058078658?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68058078658?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aaX4va8c1nM?si=uQx6y0AKRja6KOLe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

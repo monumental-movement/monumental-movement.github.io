@@ -8,19 +8,19 @@ layout: post
 tags:
 - Techno
 - Acid
-title: Pez dorado radiactivo – L.S.D. es la bomba
+title: Radioactive Goldfish – L.S.D. Is The Bomb
 ---
 
 
-"LSD Is The Bomb" es un gran acercamiento al sonido techno europeo del 91, combinando agresivos riffs belgas con ritmos alemanes más agudos y precisos.
+「LSD Is The Bomb」は、は'91年のヨーロッパのテクノサウンドに対する素晴らしいアプローチで、ベルギーの攻撃的なリフと、より鋭く正確なドイツのリズムを組み合わせています。
 
-Muchos artistas norteamericanos utilizan muchos samples vocales, pero "LSD Is The Bomb" evita que se vuelvan demasiado baratos.
+多くの北米のアーティストはボーカルサンプルをたっぷり使っていますが、「LSD Is The Bomb」ではチープになりすぎないように抑えています。
 
-Además, esta pista tiene el cambio de clave más devastador en el medio. Es verdaderamente diabólico.
+さらに、このトラックは途中で最も壊滅的なキー・チェンジを持っています。まさに悪魔的です。
 
-Definitivamente vale la pena echarle un vistazo a los fanáticos del sonido rave de la vieja escuela del 90 al 92.
+'90年から'92年のオールドスクールなレイヴサウンドのファンには、ぜひチェックしてみる価値があります。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. L.S.D Is The Bomb
 
@@ -31,7 +31,7 @@ B1. Electrode
 B2. L.S.D Is The Bomb (Dub #2)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gMM9LS16L7U?si=rZ1wbp-Zs1Uaqilx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

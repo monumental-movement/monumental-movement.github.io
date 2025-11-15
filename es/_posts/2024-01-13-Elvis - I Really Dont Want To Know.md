@@ -9,24 +9,24 @@ tags:
 - Rock
 - Nostalgic
 - 7inch
-title: Elvis - Realmente no quiero saber
+title: Elvis - I Really Don't Want To Know
 ---
 
 
-"Realmente no quiero saber" fue escrita originalmente por Don Robertson y Howard Barnes y lanzada en 1953.
+「I Really Don't Want To Know（知りたくないの）」は、元々Don Robertson（ドン ロバートソン）とHoward Barnes（ハワード バーンズ）が制作し、1953年にリリースされた。
 
-Ha sido versionado por muchos artistas, incluidos Les Paul & Mary Ford, Andy Williams, Eddie Arnold, Johnny Rodriguez, Tommy Edwards, Ronnie Dove, Jason & the Scorchers, Anne Murray y Jerry Lee Lewis.
+これまでに、レス・ポール&メリー・フォード、アンディ・ウィリアムス、エディ・アーノルド、ジョニー・ロドリゲス、トミー・エドワーズ、ロニー・ドーヴ、ジェイソン&ザ・スコーチャーズ、アン・マレー、ジェリー・リー・ルイスなど多くのアーティストがカヴァーしている。
 
-Esta versión de Elvis fue lanzada por RCA Victor en 1971.
+この、ElvisヴァージョンはRCAビクターより1971年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. I Really Don't Want To Know (知りたくないの)
 
 B. There Goes My Everything (淋しき足音)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yguQLGVl7Ms?si=f1GOud__gA2Jkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

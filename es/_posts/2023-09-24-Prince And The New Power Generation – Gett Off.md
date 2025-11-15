@@ -9,15 +9,15 @@ tags:
 - Pops
 - House
 - Soul
-title: Prince y la nueva generación de energía – Bájate
+title: Prince And The New Power Generation – Gett Off
 ---
 
 
-La canción, un sencillo del álbum Diamonds and Pearls, es conocida como una canción popular para las presentaciones en la pista de baile y los shows en vivo de Prince, y es uno de los éxitos de su carrera musical.
+この曲は、アルバム「Diamonds and Pearls 」からのシングルカットで、ダンスフロアでのプリンスのパフォーマンスやライブショーでの人気曲として知られており、彼の音楽キャリアにおけるヒット曲の一つです。
 
-"Gett Off" presenta un ritmo funky y una línea de bajo maravillosa, complementados con la enérgica interpretación vocal de Prince, lo que la convierte en una parte icónica de la carrera musical de Prince y una canción con un significado especial para sus fanáticos y amantes de la música.
+「Gett Off」は、ファンキーなビートとグルーヴィなベースラインが特徴であり、プリンスのエネルギッシュなボーカルパフォーマンスが引き立っており、プリンスの音楽キャリアの一部を象徴する曲で、彼のファンや音楽愛好家にとって特別な意味を持つ楽曲となっています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Gett Off (Extended Remix)
 
@@ -32,7 +32,7 @@ B2  Gangster Glam
 B3  Clockin' The Jizz (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

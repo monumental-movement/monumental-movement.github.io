@@ -9,22 +9,22 @@ tags:
 - Country
 - Folk
 - 7inch
-title: The Moody Brothers –Vaquero reggae de la chica de ojos marrones
+title: The Moody Brothers –Brown Eyed Girl Reggae Cowboy
 ---
 
 
-Los Moody Brothers fueron un trío de música country americana activo en las décadas de 1980 y 1990. Los miembros son Carlton Moody, Dave Moody y Trent Moody.
+The Moody Brothers(ムーディー ブラザーズ)は、1980年代から1990年代にかけて活躍したアメリカーナ カントリー ミュージックトリオ。メンバーは、Carlton Moody(カールトン・ムーディ)、Dave Moody(デイブ・ムーディ)、Trent Moody(トレント・ムーディ)の３兄弟。
 
-La letra de la cara A fue escrita por Van Morrison y la letra de la cara B fue escrita por David Bellamy de los Bellamy Brothers.
+A面の作詞はVan Morrison(ヴァン・モリソン)、B面の作詞はBellamy Brothers(ベラミー・ブラザーズ)のDavid Bellamy(デヴィット ベラミー)。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Brown Eyed Girl
 
 B. Reggae Cowboy
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-wQV5AUFFg?si=eBdayJ5RvoXEo1j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

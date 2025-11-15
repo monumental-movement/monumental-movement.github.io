@@ -8,15 +8,15 @@ layout: post
 tags:
 - Trance
 - 00s
-title: VA - Amantes del trance 2
+title: VA – Trance Lovers 2
 ---
 
 
-compilación de trance
+トランスコンピレーション
 
-Mezclado por DJ Tomo
+Mixed By DJ Tomo
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Safri Duo – Baya-Baya (Future Breeze Radio Edit)
 2. Musiqu vs U2 – New Years Dub (Mauro Picotto Club Mix)
@@ -35,4 +35,4 @@ Mezclado por DJ Tomo
 15. Andre Neumann – First Picture (Brittlestar's Exposure Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}

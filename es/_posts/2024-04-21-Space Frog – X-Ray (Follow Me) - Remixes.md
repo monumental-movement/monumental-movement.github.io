@@ -9,26 +9,26 @@ tags:
 - Trance
 - German Trance
 - 90s
-title: Space Frog – X-Ray (Sígueme) - Remezclas
+title: Space Frog – X-Ray (Follow Me) - Remixes
 ---
 
 
-Una pista de trance de Cet Merlin, también conocido como Space Frog, un DJ de hard trance/trance de Berlín, Alemania.
+ドイツのベルリン出身のハードトランス/トランスDJ Space FrogことCet Merlinによるトランストラック。
 
-"X-Ray (Follow Me)" fue lanzado en 1997 por Dance Pool, un sello que dominaba las listas dance alemanas de la época, incluyendo Mysterious Art, P.M. Sampson y Culture Beat.
+「X-Ray (Follow Me) 」は、Mysterious Art、P.M. Sampson、Culture Beatなど、当時のドイツダンスチャートを席巻したレーベルDance Poolから1997年にリリース。
 
-El lado A es un remix de Sash!, famoso por "Ecuador".
+A面は「Ecuador」で有名なSash!(サシャ)によるremix。
 
-La cara B es un remix de DJ Errik (Erich Schmeier) y el proyecto Two Phunky People de Jürgen Driessen.
+B面はDJ Errik（Erich Schmeier）とJürgen DriessenのプロジェクトTwo Phunky Peopleによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. X-Ray (Follow Me) (Sash! Remix)
 
 B. X-Ray (Follow Me) (Two Phunky People Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52094115312?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52094115312?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-IoTqxsufY?si=ZK6FTS-5jKLMNk7-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

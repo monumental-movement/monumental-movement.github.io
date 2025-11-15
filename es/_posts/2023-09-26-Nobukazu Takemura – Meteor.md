@@ -8,22 +8,22 @@ layout: post
 tags:
 - Techno
 - Minimal
-title: Nobukazu Takemura – Meteorito
+title: Nobukazu Takemura – Meteor
 ---
 
 
-"Nobukazu Takemura – Meteor" es un disco del artista musical japonés Nobukazu Takemura (Nobukazu Takemura). Nobukazu Takemura es un productor musical y compositor conocido por su música electrónica y experimental.
+「Nobukazu Takemura – Meteor」は、日本の音楽アーティストである竹村延和（タケムラ　ノブカズ）によるレコードです。竹村延和はエレクトロニックミュージックやエクスペリメンタルな音楽で知られる音楽プロデューサー、作曲家です。
 
-"Meteor" es una de las obras más representativas de Nobukazu Takemura. Lanzado en 1999, es un trabajo que fusiona sonidos electrónicos y elementos ambientales, desarrollando el paisaje sonoro de ensueño que es el sello distintivo de la música de Nobukazu Takemura.
+「Meteor」は、竹村延和の代表的な作品の1つで、1999年にリリースされ、エレクトロニックサウンドとアンビエント要素を融合させた作品であり、竹村延和の音楽の特徴である幻想的なサウンドスケープが展開されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Meteor
 
 B. Wax And Wane (Original Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6_DydCI6oEE?si=BionYn4yLBEhhz3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

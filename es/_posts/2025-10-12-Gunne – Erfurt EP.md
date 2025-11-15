@@ -9,22 +9,22 @@ tags:
 - House
 - Techno
 - 00s
-title: Gunne – Érfurt EP
+title: Gunne – Erfurt EP
 ---
 
 
-Gunne (Gunnar Lenke) es un DJ y productor radicado en Berlín que dirige el sello Minimal & Tech House Lebensfreude Records.
+Gunne (Gunnar Lenke )は、ベルリンを拠点に活動するDJ／プロデューサーであり、Minimal & Tech HouseレーベルLebensfreude Recordsを運営している。
 
-"Erfurt EP", lanzado con su propio sello en 2005, es una obra maestra que se puede decir que es la obra maestra de Gunne.
+2005年に自身のレーベルからリリースした「Erfurt EP」は、Gunneの代表作とも言える名盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Gaby Is Waiting
 
 B. Spinning Wax
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76287547675?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76287547675?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yTAM1Mz4tWI?si=KRvZWZ0MCiIfu77K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

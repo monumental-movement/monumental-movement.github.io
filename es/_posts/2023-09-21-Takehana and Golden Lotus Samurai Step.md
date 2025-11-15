@@ -8,17 +8,17 @@ layout: post
 tags:
 - Abstract
 - Jazz
-title: Takehana y Loto Dorado - Paso Samurai
+title: Takehana and Golden Lotus - Samurai Step
 ---
 
 
-"Samurai Step" es una canción coproducida por el productor japonés Takehana y el productor y DJ estadounidense Golden Lotus.
+「Samurai Step」は、日本のプロデューサー であるTakehana （タケハナ）とアメリカのプロデューサー/DJのGolden Lotus（ゴールデン・ロータス）が共同制作したトラックです。
 
-Basado en la música de bajo, un género de música electrónica, la pista combina elementos enérgicos y dinámicos como líneas de bajo pesadas, patrones de batería rítmica, efectos y muestreo. La melodía y los sonidos que recuerdan a la música tradicional japonesa y la cultura samurái le dan a la canción una atmósfera distintiva.
+エレクトロニックミュージックのジャンルであるベースミュージックを基盤にしたトラックは、重いベースライン、リズミカルなドラムパターン、エフェクト、サンプリングなど、エネルギッシュでダイナミックな要素が組み合わさっています。日本の伝統的な音楽やサムライ文化を彷彿とさせるメロディやサウンドが、曲に特徴的な雰囲気を与えています。
 
-"Samurai Step" es uno de los favoritos entre los fanáticos y artistas de la música electrónica. Su música ofrece nuevas perspectivas y experiencias musicales a través de la fusión de la cultura japonesa y la escena musical contemporánea.
+「Samurai Step」は、エレクトロニックミュージックファンやアーティストにとって人気の作品です。彼らの音楽は、日本の文化や現代の音楽シーンの融合を通じて、新たな視点や音楽体験を提供しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Steppen Step
 
@@ -27,5 +27,5 @@ B1  Cut Up
 B2  Cut Up (Sampling Collage Art)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
 

@@ -13,11 +13,11 @@ title: YMO – Rydeen
 ---
 
 
-Un álbum de 7 pulgadas lanzado por Yellow Magic Orchestra (YMO) en el sello Alfa en 1980.
+Yellow Magic Orchestra（YMO）が1980年にレーベルAlfaからリリースした7インチ。
 
-El diseño de la chaqueta fue de Mick Haggerty, famoso por diseñar portadas de álbumes para artistas y grupos musicales como David Bowie, The Police y los B-52.
+ジャケットデザインは、デヴィッド・ボウイ、ポリス、B-52's などのアーティストや音楽グループのアルバムカバーデザインで有名なMick Haggerty（ミック・ハガティー）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A.  Rydeen（ライディーン）
 Arranged By – イエロー・マジック・オーケストラ
@@ -29,9 +29,9 @@ Composed By – 細野晴臣
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxep-gS-Btg?si=IsQ2aHISgk6BNlze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=L_YmrM79GLCExuEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

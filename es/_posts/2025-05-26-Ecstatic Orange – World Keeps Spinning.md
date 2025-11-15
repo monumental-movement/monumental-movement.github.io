@@ -10,22 +10,22 @@ tags:
 - Leftfield
 - Downtempo
 - 90s
-title: 'Naranja extático: el mundo sigue girando'
+title: Ecstatic Orange – World Keeps Spinning
 ---
 
 
-Ecstatic Orange es un dúo formado por Elisa Carrahar y MIchael Czerkas Amory.
+Ecstatic Orange(エクスタティック オレンジ)は、Elisa CarraharとMIchael Czerkas Amoryによるデュオ。
 
-"World Keeps Spinning" es una pista downtempo de izquierda lanzada en 1995 por Pop God, un sello discográfico del Reino Unido especializado en rock psicodélico, art rock, indie rock y pop sesgado que lanzó obras de The Moonflowers, Praise Space Electric, Me, Rorschach, Mammal y Ecstatic Orange de 1990 a 1995.
+「World Keeps Spinning」は、1990年〜1995年までThe Moonflowers、Praise Space Electric、Me、Rorschach、Mammal、Ecstatic Orangeの作品をリリースしていたサイケデリックロック、アートロック、インディーロック、スキュードポップ専門のUKレコードレーベルPop Godから1995年にリリースされたレフトフィールドダウンテンポトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. World Keeps Spinning
 
 B. Skimming Stones
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m67613286941?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67613286941?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VsOLS7N2dFs?si=VW8e261vGPTt_Ra5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

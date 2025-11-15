@@ -10,26 +10,26 @@ tags:
 - 90s
 - 80s
 - 70s
-title: Recoger obras ambientales
+title: アンビエント作品をピックアップ
 ---
 
 
-"Un notable grupo de obras ambientales que exploran los límites entre el silencio y el sonido y brindan una experiencia profundamente inmersiva".
+「静寂と音の境界を探り、深遠な没入体験をもたらす注目すべきアンビエント作品群」
 
-<hora>
+<hr>
 
 ### Dreamlogicc – Podval EP
 <a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.webp"></a>
 
-Género: Techno ambiental
+ジャンル：Ambient Techno
 
-Lanzamiento: 2012 (sello estadounidense Kimochi)
+リリース：2012年（USレーベル Kimochi）
 
-Formato: Limitado a 200 álbumes (Vinilo)
+フォーマット：限定200枚アルバム（Vinyl）
 
-Características: Obras que combinan ritmos profundos y paisajes sonoros espaciales.
+特徴：ディープなグルーヴと空間的なサウンドスケープを融合した作品 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Blanx
 A2. Elect Burns
@@ -41,30 +41,30 @@ B2. Equalizer
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
 
 
 
 
-### Continuidad del espacio-tiempo: emitir Ecaps
+### Spacetime Continuum – Emit Ecaps
 <a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
-Género: Ambiente / IDM / Techno
+ジャンル：Ambient / IDM / Techno
 
-Lanzado: 1996 (Registros reflectantes)
+リリース：1996年（Reflective Records）
 
-Formato: conjunto de 2 LP
+フォーマット：2枚組LP
 
-Reportaje: La obra maestra ambiental underground de los 90 de Jonah Sharp
+特徴：Jonah Sharpの90年代アンダーグラウンド・アンビエント傑作 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Iform
 A2. Kario
@@ -82,26 +82,26 @@ D3. String Of Pearls
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Sanjiva – Habitaciones secretas sobre un deleite fluido
+### Sanjiva – Secret Rooms Over Flowing Delight
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
-Género: Techno electrónico ambiental
+ジャンル：Ambient Electronic Techno
 
-Lanzado: 1996 (Noventa y seis sonidos)
+リリース：1996年（Ninetysix Sounds）
 
-Formato: 2 pistas 12″
+フォーマット：2-track 12″
 
-Características: Pista de trance profundo de Charles Reix
+特徴：Charles Reixによる深みあるトランストラック 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Secret Rooms
 
@@ -109,26 +109,26 @@ B. Over Flowing Delight
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Dub Tractor - Scary H H Loop / 104 Dub
+### Dub Tractor – Scary H H Loop / 104 Dub
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
-Género: Ambiental / Experimental / Trip Hop
+ジャンル：Ambient / Experimental / Trip Hop
 
-Lanzamiento: 1997
+リリース：1997年
 
-Formato: 12″
+フォーマット：12″
 
-Características: Música ambiental experimental trip-hop de Dinamarca. Incluye remezcla de Luke Vibert (Wagon Christ)
+特徴：デンマーク産の実験的アンビエント・トリップホップ作品。Luke Vibert（Wagon Christ）リミックスも収録 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Scary H H Loop
 A2. 104 Dub
@@ -144,26 +144,26 @@ B2. A C Tractor
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Calma – Gente del Sol y la Tierra
+### Calm – People From The Sun And The Earth
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
-Género: Ambient / House Balear
+ジャンル：Ambient / Balearic House
 
-Lanzamiento: octubre de 2023
+リリース：2023年10月
 
-Formato: Vinilo
+フォーマット：Vinyl
 
-Características: Una obra maestra de la música ambiental chillout japonesa. EP de 4 pistas que incluye remezcla de Dixon
+特徴：日本のチルアウト・アンビエント代表作。Dixonリミックスも含む4トラック EP 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. People From The Sun And The Earth (MKL vs. Soy Sos Dark Sun Mix)
 A2. People From The Sun And The Earth (Original Mix)
@@ -173,26 +173,26 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eYPbR5uboE?si=kQnmAhxcLgIqHse3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### David Donohoe – ¡Naturaleza Morte!
+### David Donohoe – Nature Morte!
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
 
-Género: Ambiental/Minimal
+ジャンル：Ambient / Minimal
 
-Lanzado: 2004 (sello Minimise)
+リリース：2004年（Minimiseレーベル）
 
-Formato: Vinilo
+フォーマット：Vinyl
 
-Características: Desde Irlanda, excelente trabajo de música ambiental minimalista.
+特徴：アイルランド出身、ミニマルアンビエントの秀作 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -201,26 +201,26 @@ B. Our Ghosts
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Sr. Blank – En el terreno
+### Mr. Blank – On The Ground
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
-Género: Ambient / Dub / Future Jazz / Hip-House
+ジャンル：Ambient / Dub / Future Jazz / Hip‑House
 
-Lanzamiento: 1994
+リリース：1994年
 
-Formato: Vinilo de 2 discos
+フォーマット：2枚組Vinyl
 
-Características: El trabajo de Steve Miller con otro nombre. Sonido chill-out profundo que mezcla varios géneros
+特徴：Steve Millerの別名義作品。多様なジャンルが混ざり合った深いチルアウトサウンド 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Out Of Order
 A2. No Sweat
@@ -243,25 +243,25 @@ D4. The End Game
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Bosque Profundo – Bosque Profundo
+### Deep Forest – Deep Forest
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
-Género: Ambient/Downtempo/New Age
+ジャンル：Ambient/Downtempo/New Age
 
-Lanzamiento: 1992
+リリース：1992年
 
-Formato: CD
+フォーマット：CD
 
-Características: Fusión de música folk y sonidos electrónicos, nominado al Grammy, canción exclusiva "Sweet Lullaby" incluida.
+特徴：民族音楽と電子音の融合、グラミー候補、代表曲「Sweet Lullaby」収録 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -276,75 +276,75 @@ Características: Fusión de música folk y sonidos electrónicos, nominado al G
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-### Lista
+### List
 
-<div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>era</th>
-<th>Formato</th>
-<th>Género/Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
-<td>2012</td>
-<td>Vinilo limitado</td>
-<td>Ambient Techno, paisaje sonoro genial</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Continuo espacio-tiempo <br />- <em>Emitir Ecaps</em></a></td>
-<td>1996</td>
-<td>Vinilo 2LP</td>
-<td>Obra maestra ambiental de los 90 con inclinación IDM/techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Habitaciones secretas…</em></a></td>
-<td>1996</td>
-<td>12″</td>
-<td>Ambiente de trance</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Bucle H H aterrador…</em></a></td>
-<td>1997</td>
-<td>12"</td>
-<td>Viaje experimental/ambiente</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calma <br />- <em>Gente de…</em></a></td>
-<td>2023</td>
-<td>EP de vinilo</td>
-<td>Chillout Balear</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>¡Naturaleza Morte!</em></a></td>
-<td>2004</td>
-<td>Vinilo</td>
-<td>Ambiente mínimo</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Sr. En blanco <br />- <em>Sobre el terreno</em></a></td>
-<td>1994</td>
-<td>Vinilo 2LP</td>
-<td>Fusión de sonido de ambient x dub x jazz, etc.</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Bosque Profundo <br />- <em>Bosque Profundo</em></a></td>
-<td>1992</td>
-<td>CD</td>
-<td>Ambiente mundial/Downtempo</td>
-</tr>
-</tbody>
-</tabla>
+<div class="table-border">
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>フォーマット</th>
+      <th>ジャンル／特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc  <br />– <em>Podval EP</em></a></td>
+      <td>2012</td>
+      <td>限定Vinyl</td>
+      <td>Ambient Techno、ドープなサウンドスケープ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
+      <td>1996</td>
+      <td>2LP Vinyl</td>
+      <td>IDM/テクノ寄りの90年代アンビエント傑作</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
+      <td>1996</td>
+      <td>12″</td>
+      <td>トランス系アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
+      <td>1997</td>
+      <td>12”</td>
+      <td>実験トリップホップ／アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
+      <td>2023</td>
+      <td>Vinyl EP</td>
+      <td>チルアウト・バレアリック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
+      <td>2004</td>
+      <td>Vinyl</td>
+      <td>ミニマルアンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
+      <td>1994</td>
+      <td>2LP Vinyl</td>
+      <td>アンビエント×ダブ×ジャズなど融合サウンド</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
+      <td>1992</td>
+      <td>CD</td>
+      <td>ワールド・アンビエント／ダウンテンポ</td>
+    </tr>
+  </tbody>
+</table>
 </div>

@@ -7,24 +7,24 @@ lang: es
 layout: post
 tags:
 - Drum n Bass
-title: Motiv One – Progresión del bucle cósmico
+title: Motiv One – Cosmik  Loop Progression
 ---
 
 
-"Cosmik" tiene un ritmo ligero con una buena clave y un sonido futurista y ligeramente jazzístico. No es demasiado pesado y aquí no se utiliza ningún freno, pero en general es una pista sólida. También se incluyó en el primer CD Progression Sessions de Bukem.
+「Cosmik」は軽快なリズムで、素敵なキーブレイクと少しジャジーで未来的なサウンドです。あまり重たくなく、ここではアーメンブレイクは使用されていませんが、全体としてしっかりとしたトラックです。ブケムによる最初のProgression Sessions CDにも収録されました。
 
-"Loop Progression" es otra gran pista, que comienza con un ritmo duro y contundente antes de emerger gradualmente a medida que teclas más suaves se combinan con los acordes. Sigue una pausa, seguida de una enorme, realmente enorme patada Amen y un sonido de estilo cósmico, con el bajo también en buena medida. La mayor parte pasa por algunos puentes y acordes, seguidos de un ritmo final seguido de un ritmo pesado de amén.
+「Loop Progression」も素晴らしいトラックで、タフでドライブ感のあるビートで始まり、その後、ソフトなキーがコードと組み合わさるように徐々に現れます。その後にブレイクが続き、巨大で、本当に巨大なアーメンキックとコズミックスタイルのサウンドが登場し、重低音も効果的にキックインします。素晴らしい部分はいくつかのブリッジとコードを経て、アウトロビートに重いアーメンビートが続きます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Cosmik
 
 AA. Loop Progression
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3kSvmb7-WU?si=71DRM5RkiCUnc7oz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,14 +9,14 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Down Town Boogie Woogie Band - Fumar Boogie
+title: Down Town Boogie Woogie Band - Smoking Boogie
 ---
 
 
-"Smoking Boogie" es
-El tercer sencillo de Down Town Boogie Woogie Band, lanzado con el sello EXPRESS en diciembre de 1974.
+「Smoking Boogie（スモーキン・ブギ）」は、
+1974年12月レーベルEXPRESSからリリースされたダウン・タウン・ブギウギ・バンドの3枚目のシングル曲。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. スモーキン・ブギ
 
@@ -29,7 +29,7 @@ B. 恋のかけら
 作詞作曲 – 宇崎竜童
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85943050380?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85943050380?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qyu2sNF-hSE?si=DQsV5R2D_uBdaiG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

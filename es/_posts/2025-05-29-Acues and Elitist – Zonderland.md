@@ -9,22 +9,22 @@ tags:
 - Electronic
 - Trance
 - 00s
-title: Acues y elitistas – Zonderland
+title: Acues & Elitist – Zonderland
 ---
 
 
-Acues & Elitist es un dúo formado por Fernando Moreno Menargues y Sergio Sala García. "Zonderland" es una pista de trance lanzada en 2005 por el sello holandés profuse.
+Acues & Elitist は、Fernando Moreno MenarguesとSergio Sala Garciaによるデュオ。「Zonderland」は、2005年にオランダのレーベルprofuseからリリースされたトランストラック。
 
-La cara B es un remix del DJ y productor canadiense de trance progresivo / trance Arnej bajo el nombre de 8 Wonders.
+B面は、カナダ出身のプログレッシブトランス/トランスDJ・プロデューサーArnejの8 Wonders名義でのremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Zonderland (Carl B's In A Lonely Place Mix)
 
 B. Zonderland (8 Wonders' Mirage @ Dusk Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m20529810356?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20529810356?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3bxLMlZyBck?si=isWQMGYIJ65Lf0gy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

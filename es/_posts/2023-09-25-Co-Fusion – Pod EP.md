@@ -8,15 +8,15 @@ layout: post
 tags:
 - Techno
 - Japanese Techno
-title: Co-Fusión – Pod EP
+title: Co-Fusion – Pod EP
 ---
 
 
-Este es un EP de Co-Fusion lanzado en el sello británico Pro-Jex en 2001.
+2001年にUKのレーベルPro-JexからリリースされたCo-FusionによるEPです。
 
-El Pod EP contiene cuatro canciones y cada pista tiene un toque de techno japonés.
+Pod EPは４曲入りでどのトラックも日本のテクノらしさを感じさせる楽曲です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Pod
 
@@ -27,7 +27,7 @@ B1. I.T.
 B2. Wild World (Full Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37514147918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37514147918?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kha1c5JMlHU?si=1XAucjZDaXsPQSGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

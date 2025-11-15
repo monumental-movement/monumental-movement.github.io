@@ -9,25 +9,25 @@ tags:
 - Electronic
 - Hiphop
 - 00s
-title: gente debajo de las escaleras
+title: People Under The Stairs
 ---
 
 
-Reeditado por DJ bossy boots (Elinah) radicado en Nueva York. Versión promocional de lanzamiento no oficial.
+NYを拠点に活動するDJ bossy boots (Elinah)によるリエディット。非公式リリースのプロモ盤。
 
-El lado A es una reedición de "Tuxedo Rap" de People Under The Stairs, un dúo de hip-hop de Los Ángeles que estuvo activo de 1997 a 2019, formado por Christopher Portugal (Thes One) y Michael Turner (Double K).
+A面は、1997年から2019年まで活動したLA出身のクリストファー・ポルトガル（Thes One）とマイケル・ターナー（Double K）によるヒップホップデュオ  People Under The Stairs(ピープル・アンダー・ザ・ステアーズ)の「Tuxedo Rap」のRe-Edit。
 
-La cara B es una reedición de la obra maestra "Garden Of Delights" publicada en 1977 por The Last Poets, un grupo de poetas y músicos nacidos del movimiento afroamericano por los derechos civiles de finales de los años 1960.
+B面は、1960年代後半のアフリカ系アメリカ人の公民権運動から生まれた詩人と音楽家のグループThe Last Poets (ラストポエッツ)による77年リリースの名盤「Garden Of Delights 」のRe-Edit。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. People Under The Stairs – Tuxedo Rap (Soul Sister Re-Edit
 
 B. The Last Poets – Garden Of Delights (Re-Edit)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EdCKKiU2E8Q?si=fZ26ZyJuLitOQ0e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

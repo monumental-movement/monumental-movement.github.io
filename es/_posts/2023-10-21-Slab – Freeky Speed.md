@@ -8,17 +8,17 @@ layout: post
 tags:
 - Big Beat
 - Break Beat
-title: Losa – Velocidad Freeky
+title: Slab – Freeky Speed
 ---
 
 
-Slab es una unidad formada por Lol Hammond y Nina Walsh.
+Slabは、Lol HammondとNina Walshによるユニット。
 
-La primera canción de la cara B es un remix del DJ y productor británico Andrew Weatherall, y la segunda canción es un remix del DJ y productor de techno británico Carl Cox.
+B面の1曲目はイギリスのDJ＆プロデューサーAndrew Weatherall（アンドリュー・ウェザオール）が、２曲目はUKテクノDJ＆プロデューサー Carl Cox（カール・コックス）によるremix。
 
-La segunda canción de la cara D es un remix de Monkey Mafia.
+D面2曲目は、Monkey Mafia（モンキー・マフィア）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Shiva You're A Shambles (Intro)
 
@@ -39,7 +39,7 @@ D1. Atom Smasher
 D2. Monkey Prankster
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96913326161?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96913326161?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVShtoPhEMc?si=SVbOeP6jkwqEBUAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

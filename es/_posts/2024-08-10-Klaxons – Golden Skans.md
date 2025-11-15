@@ -9,19 +9,19 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: Klaxons – Skans dorados
+title: Klaxons – Golden Skans
 ---
 
 
-Un remix de "Golden Skans" de la banda de rock Klaxons, formada en New Cross, Reino Unido en 2005.
+2005年にUKのニュークロスで結成されたロックバンドKlaxons (クラクソンズ)「Golden Skans」のremix。
 
-La primera pista de la cara A es un remix de SebastiAn, un músico electrónico y DJ afiliado a Ed Banger Records/Ed Rec.
+A面は１曲目は、Ed Banger Records/Ed Rec(エドバンガーレコード)所属のエレクトロニックミュージシャン＆DJ、SebastiAn（セバスチャン）によるremix。
 
-La segunda pista de la cara A es un remix de Surkin, un productor francés que dirige el sello Marble con Para One y Bobmo.
+A面２曲目は、フランスのプロデューサーであり、Para OneとBobmoと共にレーベル Marbleを運営するSurkinによるremix。
 
-La cara B es un remix del DJ y productor británico Erol Alkan.
+B面は、イギリスのDJ＆プロデューサーErol Alkanによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Golden Skans (SebastiAn Remix)
 A2. Golden Skans (Surkin Remix)
@@ -29,7 +29,7 @@ A2. Golden Skans (Surkin Remix)
 B. Golden Skans (Erol Ekstra Special Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m20825247646?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20825247646?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-SJjFcnsGs?si=vm9-1aS8md_fZL2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

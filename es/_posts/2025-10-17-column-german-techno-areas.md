@@ -9,347 +9,346 @@ tags:
 - Techno
 - German Techno
 - Rave
-title: '[Columna] Cuatro Alemanias, cuatro technos: reverberaciones de pared y filosofía
-  minimalista'
+title: 【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学
 ---
 
 
-## Prólogo Todo empezó la noche en que cayó el Muro de Berlín
+## 序章　ベルリンの壁が落ちた夜、すべてが始まった
 
 
-Texto: mmr | Tema: Si miras a Alemania dividiéndola en cuatro áreas metropolitanas, verás que el techno no es sólo música, sino un "mapa cultural" que hace eco de recuerdos de geografía e historia.
+文：mmr｜テーマ：ドイツを四つの都市圏に分けて眺めると、テクノは単なる音楽ではなく、地形と歴史の記憶を鳴らす『文化の地図』として見えてくる。
   
-Noviembre de 1989. Al otro lado del cemento desmoronado, alguien sacó un altavoz y puso un ritmo. En ese momento, el país de Alemania comenzó una **reconstrucción rítmica** antes de la "reunificación".
-Fábricas abandonadas, almacenes vacíos, túneles subterráneos: los sonidos que fluyen por allí no son copias de los sonidos británicos y estadounidenses. **"Hecho después del Muro"**. No era música para cruzar fronteras, sino música que nacía en el lugar de la frontera.
+1989年11月。崩れたコンクリートの向こう側で、誰かがスピーカーを持ち出し、ビートを鳴らした。その瞬間、ドイツという国は「再統一」よりも先に、**リズムによる再構築**を始めていた。  
+廃墟となった工場、空き倉庫、地下トンネル——そこに流れ込んだ音は、英米のコピーではない。**“Made after the Wall”**。国境を越えるための音楽ではなく、国境の跡地に生まれた音楽だった。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Capítulo 1 Berlín: de las ruinas a los clubes: la capital del "post-Detroit"
+## 第1章　ベルリン：廃墟からクラブへ ―「デトロイト以降」の首都
 
-### 1-1. Una patada resonó en las ruinas del muro.
+### 1-1. 壁の跡地に鳴り響いたキック
 
-Tresor, E-Werk y más tarde el icono mundial Berghain.
-El techno de Berlín era a la vez una admiración por Detroit y un proyecto de renovación urbana. Los ritmos rígidos de Jeff Mills y Underground Resistance se convirtieron en una voz por la libertad en una ciudad aún bajo la sombra del socialismo.
+Tresor、E-Werk、そして後に世界的な象徴となるBerghain。  
+ベルリンのテクノは、デトロイトへの憧憬と同時に、**都市の再生プロジェクト**でもあった。Jeff MillsやUnderground Resistanceがもたらした硬質なリズムは、社会主義の影を引きずる街で、自由の代弁者となった。
 
-> "En este pueblo el sonido es política".
-> — Dimitri Hegemann (Fundador de Tresor)
+> 「この街では、音が政治なんだ」  
+> — Dimitri Hegemann（Tresor創設者）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/axasaC0nINg?si=eCU6mC5s-6Q2JojJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-2. El nacimiento del minimalismo y la "estética de la construcción"
+### 1-2. ミニマルの誕生と「構築の美学」
 
-Canal Básico, Reacción en Cadena, Raster-Noton.
-Dale forma al sonido, constrúyelo y domina el espacio. El minimalismo berlinés, que analiza la riqueza de la "nada", resuena con las ideas de la arquitectura y el diseño.
-La acústica no serán las paredes, sino la **estructura de aire**.
+Basic Channel、Chain Reaction、Raster-Noton。  
+音を削り、構築し、空間を支配する。「何もない」ことの豊かさを見つめるベルリン・ミニマルは、建築やデザインの思想とも響き合った。  
+音響は壁ではなく、**空気の構造**となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-3. Cómo Berlín se convirtió en la capital mundial del techno
+### 1-3. ベルリンが世界のテクノ首都となるまで
 
-A finales de los años 90, artistas de todo el mundo se trasladaron a esta ciudad.
-Richie Hawtin, Ellen Allien, Ben Klock.
-Berlín se ha convertido en una república de sonidos más que en una nación. Una ciudad donde el techno es una profesión, una vida y una religión.
-Mientras el sonido continúe, esta ciudad nunca dormirá.
+90年代後半、世界中のアーティストがこの街へ移住した。  
+Richie Hawtin、Ellen Allien、Ben Klock。  
+ベルリンは、国家ではなく**サウンドの共和国**になった。テクノが職業であり、人生であり、信仰である都市。  
+音が鳴るかぎり、この街は決して眠らない。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIcgIo1f3HY?si=IkC0BWGdXy6abSph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 2 Düsseldorf-Colonia: Laboratorio de sonido electrónico
+## 第2章　デュッセルドルフ〜ケルン：電子音の実験室
 
-### 2-1. La sombra y los sucesores de Kraftwerk
+### 2-1. クラフトワークの影と継承者たち
 
-Otro ADN fluye en la cuenca del río Rin.
-Ésta es la idea de "armonía entre humanos y máquinas" creada por Kraftwerk.
-NEU!, La Düsseldorf, Cluster: los experimentos electrónicos de los 70 sentaron las bases para el techno posterior.
+ライン川流域には、もうひとつのDNAが流れている。  
+それはKraftwerkが築いた**「人間と機械の調和」**という思想だ。  
+NEU!、La Düsseldorf、Cluster——70年代のエレクトロ実験が、後のテクノの下地を作った。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eq4rcSi9ddg?si=zJJyL5DsPwyqngUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2-2. Kompakt y la genealogía del pop minimalista
+### 2-2. Kompaktとミニマル・ポップの系譜
 
-En la década de 1990, el sello **Kompakt**, surgido de Colonia, presentó un "techno suave" que se diferenciaba de la rigidez de Berlín.
-Gas de Wolfgang Voigt representa bajas frecuencias flotando en un bosque brumoso. Fue el momento en el que el minimalismo adquirió **emoción y poesía**.
+90年代、ケルンから立ち上がった**Kompaktレーベル**は、ベルリンの硬質さとは異なる“やわらかなテクノ”を提示した。  
+Wolfgang VoigtのGasが描くのは、霧の森に漂う低周波。ミニマルが**情緒と詩性**を獲得した瞬間だった。
 
-> "Para mí, el techno es una pintura de paisaje".
+> 「僕にとってテクノは風景画だ」  
 > — Wolfgang Voigt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xEmq4Giyt0?si=sT_lfPATaDwRyN_X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 2-3. Área cultural de música electrónica del río Rin
+### 2-3. ライン川の電子音楽文化圏
 
-Colonia no distingue entre clubes y museos.
-Los sonidos electrónicos son la "cultura" misma, el ritmo respiratorio de la vida urbana.
-Hay una extensión del romanticismo alemán, donde conviven razón y sueño.
+Kölnではクラブも美術館も区別されない。  
+電子音は“文化”そのものであり、都市生活の呼吸のリズム。  
+そこには、理性と夢想が同居する**ドイツ的ロマン主義の延長線**がある。
 
 ---
 
-## Capítulo 3 Frankfurt: El crisol de lo industrial y lo rave
+## 第3章　フランクフルト：インダストリアルとレイヴの坩堝
 
-### 3-1. Explosión del "sonido de Frankfurt"
+### 3-1. “Sound of Frankfurt”の爆発
 
-Si Berlín es filosofía, Frankfurt es **festival**.
-Sven Väth, Eye Q, Harthouse: aquí nació la moda "rave" a principios de los años 90.
-Un ritmo de trance metálico ilumina la noche de una ciudad industrial.
+もしベルリンが哲学なら、フランクフルトは**祝祭**だ。  
+Sven Väth、Eye Q、Harthouse——90年代初頭、ここから「レイヴ」という熱狂が生まれた。  
+金属的なトランス・ビートが、産業都市の夜を照らす。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-SZ5s8gkxhw?si=onx4tm9RSbbgjQ4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 3-2. Ritmo urbano e industrial
+### 3-2. 都市と産業のグルーヴ
 
-Finanzas y mano de obra, almacenes y chimeneas.
-El techno en esta ciudad es la **respiración mecánica** de una zona industrial.
-La presión sonora en el sótano del club Dorian Gray fue a la vez una reacción social y una catarsis.
+金融と労働、倉庫と煙突。  
+この街のテクノは、工業地帯の**機械の呼吸**そのものだ。  
+Dorian Grayクラブの地下にあった音圧は、社会の反動でもあり、カタルシスでもあった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ysw_fEc9w3I?si=pjqJRA_2WxCOSYy9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 3-3. ¿Adónde fueron a parar los genes de Frankfurt?
+### 3-3. フランクフルトの遺伝子はどこへ行ったか
 
-Cocoon, Ibiza, cultura festiva.
-El origen de todo esto se encuentra en la rave de Frankfurt de los años 90.
-Europa antes de que el EDM comenzara aquí.
-El techno fue una oración, otro latido del corazón que late detrás de la economía.
+Cocoon、Ibiza、フェス文化。  
+そのすべての原点に、90年代のフランクフルト・レイヴがある。  
+EDM以前のヨーロッパは、ここから始まっていた。  
+テクノは祈りであり、経済の背後で鳴るもうひとつの心音だった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJwwmaJVJE4?si=tK7Cf-q0q_M7q_Y5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 4 Hamburgo-Leipzig: Resistencia desde la frontera
+## 第4章　ハンブルク〜ライプツィヒ：辺境からの抵抗
 
-### 4-1. Hamburgo, la ciudad experimental del norte
+### 4-1. 北の実験都市ハンブルク
 
-Marcar registros, Pantha du Prince, Lawrence.
-El techno del norte está lleno de **soledad y poesía**.
-Una melancolía introspectiva, lo opuesto al resplandeciente Berlín.
-No "música para bailar", sino "ritmos para pensar".
+Dial Records、Pantha du Prince、Lawrence。  
+北国のテクノは、**孤独と詩**を湛えている。  
+煌びやかなベルリンの対極にある、内省的なメランコリー。  
+「踊るための音楽」ではなく、「考えるためのビート」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 4-2. Escena local en el este de Leipzig
+### 4-2. 東部ライプツィヒのローカル・シーン
 
-El espíritu del bricolaje, que ha perdurado desde la época de Alemania del Este, está vivo y coleando en los sótanos de esta ciudad.
-Convertir un edificio abandonado en una discoteca y producir sonido mediante un sistema casero.
-Lo que existe allí es **techno como comunidad**, sin relación con la comercialización.
-Para ellos, la música es a la vez política y cotidiana.
+東独時代から続くDIY精神が、この街の地下に息づいている。  
+廃墟をクラブに変え、手製のシステムで音を鳴らす。  
+そこにあるのは、商業化とは無縁の**共同体としてのテクノ**。  
+彼らにとって、音楽は政治的でもあり、日常的でもある。
 
-### 4-3. Importancia del "tecno no centrado"
+### 4-3. “中心ではないテクノ”の意義
 
-Es fácil deificar a Berlín.
-Pero la verdadera diversidad del techno alemán reside en la **resistencia de la periferia**.
-La lentitud del tiempo y la sensación analógica del campo.
-Esto refleja el sonido futuro del techno.
+ベルリンを神格化することは簡単だ。  
+だが本当のドイツ・テクノの多様性は、**周縁の抵抗**にある。  
+地方の持つ時間の遅さ、アナログの手触り。  
+それが、テクノという未来の音を逆照射している。
 
 ---
 
-## Capítulo 5 Mapa rítmico que conecta las cuatro Alemanias
+## 第5章　四つのドイツをつなぐリズムの地図
 
-### 5-1. El techno alemán es más una "multipolarización" que una "unificación"
+### 5-1. 「統一」ではなく「多極化」としてのドイツ・テクノ
 
-En el siglo XXI, el techno ya no es una cultura urbana singular.
-La belleza funcional de Berlín, la poesía de Colonia, el entusiasmo de Frankfurt, la comunidad de Leipzig.
-Cada ritmo se cruza, creando un **mapa sonoro multipolar de Alemania**.
+21世紀、テクノは単一の都市文化ではなくなった。  
+ベルリンの機能美、ケルンの詩情、フランクフルトの熱狂、ライプツィヒの共同体。  
+それぞれのリズムが交差し、**多極的なドイツの音響地図**を描いている。
 
-### 5-2. El futuro del minimalismo alemán
+### 5-2. ドイツ的ミニマリズムの未来
 
-Un regreso al hardware y un redescubrimiento de los sintetizadores modulares.
-No es sólo nostalgia, es un regreso al **techno hecho a mano**.
-El techno alemán sigue sintonizando ciudades y cuerpos.
+ハードウェアへの回帰、モジュラー・シンセの再発見。  
+それは単なる懐古ではなく、**手で考えるテクノ**への回帰だ。  
+ドイツのテクノは今もなお、都市と身体をチューニングし続けている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6izudjC4_g0?si=O1WoBn12317T8Sfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo final "País" en un bucle infinito
+## 終章　無限のループの中の「国」
 
-El techno es una "característica rítmica nacional" que permanece después de cruzar las fronteras nacionales.
-Han pasado más de 30 años desde la caída del Muro de Berlín.
-Alemania se convirtió en un país unificado por el sonido, no por la política.
-Y su corazón sigue latiendo a 4/4.
-
----
-
-## Cronología: La trayectoria del techno alemán
-
-<div class="sirena">
-
-diagrama de flujo TD
-classDef año de relleno:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
-
-título["Cronología clave del techno alemán (1970-2020)"]:::año
-
-n1970["1970<br/>Se funda Kraftwerk (Düsseldorf)"]:::año
-n1974["1974<br/> Lanzamiento de 'Autobahn' - revolución del pop electrónico"]:::año
-n1981["1981<br/>D.A.F. "Alles ist gut" — fusión de new wave y electro"]:::año
-n1989["1989<br/>Cae el Muro de Berlín, se abre Tresor"]:::año
-n1993["1993<br/>Estreno de "Accidente en el paraíso" de Sven Väth (Frankfurt)"]:::año
-n1996["1996<br/>Basic Channel/Chain Reaction establece una estética minimalista alemana"]:::año
-n2000["2000<br/>Kompakt abre la era del minimalismo de Colonia"]:::año
-n2004["2004<br/>"Berlinette" de Ellen Allien: símbolo de la nueva generación berlinesa"]:::año
-n2010["2010<br/>"Ruido negro" de Pantha du Prince—La maduración de la escuela de la Melancolía del Norte"]:::año
-n2020["2020<br/>Reevaluación modular y expansión de la cultura de codificación en vivo"]:::año
-
-título --> n1970
-n1970 --> n1974
-n1974 --> n1981
-n1981 --> n1989
-n1989 --> n1993
-n1993 --> n1996
-n1996 --> n2000
-n2000 --> n2004
-n2004 --> n2010
-n2010 --> n2020
-
-</div>
+テクノとは、国境を越えた後に残る“リズムの国民性”である。  
+ベルリンの壁が崩れてから三十余年、  
+ドイツは政治ではなく**音で統一された国**になった。  
+そして、その心臓の拍動は、いまも4/4拍で鳴り続けている。
 
 ---
 
-### Discografía por ciudad
+## 年表：ドイツ・テクノの軌跡
+
+<div class="mermaid">
+
+flowchart TD
+  classDef year fill:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
+
+  title["ドイツ・テクノの主要年表（1970–2020）"]:::year
+
+  n1970["1970<br/>Kraftwerk結成（デュッセルドルフ）"]:::year
+  n1974["1974<br/>『Autobahn』リリース — 電子音によるポップ革命"]:::year
+  n1981["1981<br/>D.A.F.『Alles ist gut』— ニューウェーブとエレクトロの融合"]:::year
+  n1989["1989<br/>ベルリンの壁崩壊、Tresorオープン"]:::year
+  n1993["1993<br/>Sven Väth『Accident in Paradise』発表（フランクフルト）"]:::year
+  n1996["1996<br/>Basic Channel／Chain Reactionがミニマル・ドイツ美学を確立"]:::year
+  n2000["2000<br/>Kompaktがケルン・ミニマルの時代を開く"]:::year
+  n2004["2004<br/>Ellen Allien『Berlinette』— ベルリンの新世代象徴"]:::year
+  n2010["2010<br/>Pantha du Prince『Black Noise』— 北部メランコリー派の成熟"]:::year
+  n2020["2020<br/>モジュラー再評価とライブコーディング文化の拡張"]:::year
+
+  title --> n1970
+  n1970 --> n1974
+  n1974 --> n1981
+  n1981 --> n1989
+  n1989 --> n1993
+  n1993 --> n1996
+  n1996 --> n2000
+  n2000 --> n2004
+  n2004 --> n2010
+  n2010 --> n2020
+
+ </div>
+
+---
+
+### 各都市別ディスコグラフィー
 
 
-| Región | Artista | Obra maestra | Año | Enlace |
+| 地域           | アーティスト         | 名盤                     | 年    | リンク                                              |
 | ------------ | ---------------- | ---------------------- | ---- | ------------------------------------------------ |
-| Berlín | Canal Básico | *Doblaje de cuadrante* | 1994 | [Amazon](https://amzn.to/42HRXhy) |
-| Düsseldorf-Colonia | Kraftwerk | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
-| Fráncfort | Sven Vath | *Accidente en el Paraíso* | 1993 | [Amazon](https://amzn.to/3J2ouby) |
-| Hamburgo-Leipzig | Pantha del Príncipe | *Ruido negro* | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
+| ベルリン         | Basic Channel    | *Quadrant Dub*         | 1994 | [Amazon](https://amzn.to/42HRXhy) |
+| デュッセルドルフ〜ケルン | Kraftwerk        | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
+| フランクフルト      | Sven Väth        | *Accident in Paradise* | 1993 | [Amazon](https://amzn.to/3J2ouby) |
+| ハンブルク〜ライプツィヒ | Pantha du Prince | *Black Noise*          | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
 
 
 ---
 
-### Cuadro de correlación por ciudad (cuadro de genealogía de artistas)
+### 都市別相関図（アーティストの系譜図）
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-%% --- Subgrafo: Berlín ---
-subgrafo BERLÍN["BERLÍN"]
-dirección tuberculosis
-B1["Tresor<br/>(Dimitri Hegemann)"]
-B2["Canal básico<br/>(Markus / Moritz)"]
-B3["Raster-Noton<br/>(Alva Noto)"]
-B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
-B5["Ellen Allien"]
-B6["Richie Hawtin<br/>(Inmigración/Relación)"]
-fin
+flowchart TD
+  %% --- サブグラフ：ベルリン ---
+  subgraph BERLIN["BERLIN"]
+    direction TB
+    B1["Tresor<br/>(Dimitri Hegemann)"]
+    B2["Basic Channel<br/>(Markus / Moritz)"]
+    B3["Raster-Noton<br/>(Alva Noto)"]
+    B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
+    B5["Ellen Allien"]
+    B6["Richie Hawtin<br/>(移住/関係)"]
+  end
 
-%% --- Subgrafo: Düsseldorf a Colonia ---
-subgrafo RIN["DUSSELDORF — KÖLN"]
-dirección tuberculosis
-C1["Kraftwerk"]
-C2["¡NEU! / La Düsseldorf"]
-C3["Clúster"]
-C4["Compacto<br/>(Wolfgang Voigt)"]
-C5["Gas<br/>(Wolfgang Voigt)"]
-fin
+  %% --- サブグラフ：デュッセルドルフ〜ケルン ---
+  subgraph RHINE["DUSSELDORF — KÖLN"]
+    direction TB
+    C1["Kraftwerk"]
+    C2["NEU! / La Düsseldorf"]
+    C3["Cluster"]
+    C4["Kompakt<br/>(Wolfgang Voigt)"]
+    C5["Gas<br/>(Wolfgang Voigt)"]
+  end
 
-%% --- Subgrafo: Frankfurt ---
-subgrafo FRANCFORT["FRANCFORT"]
-dirección tuberculosis
-F1["Sven Väth"]
-F2["Ojo Q/Harthouse"]
-F3["Capullo<br/>(Sven Väth)"]
-F4["Linaje Trance / Rave"]
-fin
+  %% --- サブグラフ：フランクフルト ---
+  subgraph FRANKFURT["FRANKFURT"]
+    direction TB
+    F1["Sven Väth"]
+    F2["Eye Q / Harthouse"]
+    F3["Cocoon<br/>(Sven Väth)"]
+    F4["Trance / Rave lineage"]
+  end
 
-%% --- Subgrafo: Hamburgo-Leipzig ---
-subgrafo NORTE["HAMBURGO — LEIPZIG"]
-dirección tuberculosis
-H1["Marcar registros<br/>(Claudio PRC etc.)"]
-H2["Pantha del Príncipe"]
-H3["Escenas locales de bricolaje<br/>(metro de Leipzig)"]
-H4["Lawrence"]
-fin
+  %% --- サブグラフ：ハンブルク〜ライプツィヒ ---
+  subgraph NORTH["HAMBURG — LEIPZIG"]
+    direction TB
+    H1["Dial Records<br/>(Claudio PRC 等)"]
+    H2["Pantha du Prince"]
+    H3["Local DIY Scenes<br/>(Leipzig underground)"]
+    H4["Lawrence"]
+  end
 
-%% --- Influencias externas (Detroit) ---
-subgrafo DETROIT["DETROIT (influencia)"]
-dirección tuberculosis
-D1["Juan Atkins"]
-D2["Kevin Saunderson"]
-D3["Jeff Mills<br/>(Resistencia clandestina)"]
-fin
+  %% --- 外的影響（デトロイト） ---
+  subgraph DETROIT["DETROIT (influence)"]
+    direction TB
+    D1["Juan Atkins"]
+    D2["Kevin Saunderson"]
+    D3["Jeff Mills<br/>(Underground Resistance)"]
+  end
 
-%% --- Flecha (Influencia/Genealogía) ---
-%% Berlín interno
-B1 --> B4
-B2 --> B3
-B2 --> B4
-B5 --> B4
-B6 --> B4
+  %% --- 矢印（影響 / 系譜） ---
+  %% Berlin internal
+  B1 --> B4
+  B2 --> B3
+  B2 --> B4
+  B5 --> B4
+  B6 --> B4
 
-%% Rin interno
-C1 --> C2
-C1 --> C3
-C3 --> C4
-C4 --> C5
-C2 --> C4
+  %% Rhine internal
+  C1 --> C2
+  C1 --> C3
+  C3 --> C4
+  C4 --> C5
+  C2 --> C4
 
-%% Frankfurt interno
-F1 --> F2
-F2 --> F3
-F3 --> F4
+  %% Frankfurt internal
+  F1 --> F2
+  F2 --> F3
+  F3 --> F4
 
-%% Norte interno
-H1 --> H2
-H2 --> H4
-H3 --> H2
+  %% North internal
+  H1 --> H2
+  H2 --> H4
+  H3 --> H2
 
-%% Influencias entre ciudades
-C1 --> B2
-D3 --> B1
-D1 --> C1
-F1 --> B4
-C4 --> B3
-H1 --> B3
-H3 --> B1
+  %% Cross-city influences
+  C1 --> B2
+  D3 --> B1
+  D1 --> C1
+  F1 --> B4
+  C4 --> B3
+  H1 --> B3
+  H3 --> B1
 
 </div>
 
 ---
 
-### Resplandor
+### 余韻
 
-El ritmo del techno no es un dispositivo para olvidar el pasado, sino un dispositivo para preservar la memoria como un ritmo.
-La historia de Alemania todavía late como un latido.
-Es por eso que este país sigue siendo "honesto en sonido" más que cualquier otro lugar del mundo.
+テクノのリズムは、過去を忘却するためではなく、記憶を拍動として保存するための装置である。
+ドイツという国の歴史が、いまもビートとして脈打っている。
+それが、この国が世界のどこよりも「音に誠実」であり続ける理由だ。
 
 
 ---
 
-### Columnas relacionadas
+### 関連コラム
 
-🔗 [[Columna] Genealogía y actualidad del Techno alemán - Estética del sonido difundiéndose desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [【コラム】 ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 

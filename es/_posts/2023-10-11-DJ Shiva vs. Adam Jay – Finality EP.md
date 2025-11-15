@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - Techno
-title: DJ Shiva contra Adam Jay – EP final
+title: DJ Shiva vs. Adam Jay – Finality EP
 ---
 
 
-DJ Shiva es un DJ/productor de techno estadounidense actualmente conocido como Noncompliant.
+DJ Shivaは、現在Noncompliant（ノンコンプライアンス）として知られているUSテクノDJ /プロデューサー。
 
-Adam Jay es un DJ y productor de techno y tech house estadounidense.
+Adam Jay（アダム・ジェイ）は、USのテクノ＆テックハウスDJ/プロデューサー。
 
-"Finality EP" es una pista de techno lanzada en 2005 por Internal Error Records, un sello de techno en formato vinilo que ha lanzado obras de muchos artistas notables, incluidos Paul Birken, Woody McBride, Dustin Zahn, Adam Jay y más.
+「Finality EP」は、Paul Birken（ポール・バーケン）, Woody McBride（ウディ・マクブライド）, Dustin Zahn（ダスティン・ザーン）, Adam Jay（アダム・ジェイ）などを含む多くの著名なアーティストの作品をリリースしているヴァイナルフォーマットのテクノレーベルInternal Error Recordsより、2005年にリリースされたテクノトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Borderline Shift (DJ Shiva's Original Mix)
 
@@ -28,5 +28,5 @@ B1. Borderline Shift (Adam Jay's Remix)
 B2. The Last Word (Adam Jay's Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
 

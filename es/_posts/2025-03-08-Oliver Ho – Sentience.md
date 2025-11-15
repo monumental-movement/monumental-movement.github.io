@@ -9,16 +9,16 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Oliver Ho - Sentiencia
+title: Oliver Ho – Sentience
 ---
 
 
-Oliver Ho es un DJ y productor de techno afincado en Londres.
+Oliver Hoは、ロンドンを拠点に活動するテクノDJ・プロデューサー。
 
-"Sentience" es la obra maestra de Oliver Ho, lanzada en 1999 en Blueprint, un sello fundado por James Ruskin y Richard Polson. El álbum debut de Oliver Ho también fue lanzado con el mismo sello.
+「Sentience」は、James RuskinとRichard Polson によって設立されたレーベルBlueprintから1999年にリリースされたOliver Hoの代表作。Oliver Hoのデビューアルバムも同レーベルからリリースされた。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Birth
 2. Open Your Eyes
@@ -33,7 +33,7 @@ Oliver Ho es un DJ y productor de techno afincado en Londres.
 11. Close Your Eyes
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG18zTBt9XI?si=ysxGVMcvsKBUeD1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

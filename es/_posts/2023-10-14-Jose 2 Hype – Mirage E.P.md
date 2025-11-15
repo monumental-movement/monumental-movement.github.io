@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Hard House
-title: Jose 2 Hype – Mirage EP
+title: Jose 2 Hype – Mirage E.P
 ---
 
 
-José Gutiérrez, también conocido como José 2 Hype, ha sido uno de los pioneros del techno y la cultura rave desde 1992.
+Jose Gutierrez（ホセ・グティエレス）、別名 Jose 2 Hype は1992年以来、テクノシーン、レイヴカルチャーの先駆者の一人とされています。
 
-Lanzado en 1996 en el sello Underground Construction de Chicago, "Jack Attack" es el himno de Jose 2 Hype.
+1996年にシカゴのレーベルUnderground Constructionからリリースされた「Jack Attackは」Jose 2 Hype のアンセム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Jack Attack
 
@@ -25,7 +25,7 @@ A2. Jack Attack (Ghetto Hype Remix)
 B. A Bailar
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff97zRPQPAM?si=lON_HVWZ4sk9qML_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

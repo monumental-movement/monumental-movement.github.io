@@ -8,22 +8,22 @@ layout: post
 tags:
 - Rock
 - Space Rock
-title: Roy Montgomery – Onda de partículas
+title: Roy Montgomery – Particle Wave
 ---
 
 
-Roy Montgomery es un compositor y guitarrista de Christchurch, Nueva Zelanda, y es conocido como un pionero del underground neozelandés.
+Roy Montgomery(ロイ・モンゴメリー )は、ニュージーランドのクライストチャーチ出身の作曲家&ギタリストで、NZアンダーグラウンドのパイオニアとして知られています。
 
-El estilo musical instrumental solista de Roy Montgomery es una mezcla de música post-rock, lo-fi, folk, vanguardia y experimental.
+Roy Montgomeryのインストゥルメンタルなソロ作品は、ポストロック、ローファイ、フォーク、前衛的実験音、エクスペリメンタルなどの要素が入り混じった音楽スタイルです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Particle
 
 B. Wave
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96965847534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96965847534?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bsg2DJpZ7Jw?si=rqFyoungrIdpmF3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

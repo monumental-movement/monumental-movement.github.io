@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Downtempo
-title: Corrina Joseph - Vive tu vida conmigo
+title: Corrina Joseph – Live Your Life With Me
 ---
 
 
-Corrina Joseph es una cantante británica que ha aparecido con varios artistas, incluidos Underground Solution, Kamasutra, Masterbuilders, Nightmares on Wax, Classen Collective y Russ Gabriel.
+Corrina Joseph（コリーナ・ジョセフ）はイギリスのシンガーで、Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabrielなどの様々なアーティストの作品に参加。
 
-"Live Your Life With Me" fue producida y compuesta por Basement Jaxx, un dúo de música electrónica de baile del Reino Unido formado por Felix Buxton y Simon Ratcliffe.
+「 Live Your Life With Me」のプロデューサー/作曲はFelix Buxton（フェリックス・バクストン）とSimon Ratcliffe（サイモン・ラトクリフ）からなるUKエレクトロニック・ダンス・ミュージック・デュオBasement Jaxx。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Live Your Life With Me (Original Mix)
 
@@ -29,7 +29,7 @@ B1. Live Your Life With Me (Narcotic Vocal Mix)Remix – S-Man
 B2. Live Your Life With Me (Narcotic Dub)Remix – S-Man
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24022000803?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24022000803?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bkqdfq9e_k8?si=2C2vRjq6cesz8yI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

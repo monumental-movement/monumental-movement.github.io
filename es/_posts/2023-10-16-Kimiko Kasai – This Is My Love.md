@@ -8,13 +8,13 @@ layout: post
 tags:
 - Soul
 - Jazz
-title: Kimiko Kasai – Este es mi amor
+title: Kimiko Kasai – This Is My Love
 ---
 
 
-"This Is My Love" es un álbum lanzado en 1975. Con arreglos de Bobby Scott.
+「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Use Me
 
@@ -37,7 +37,7 @@ B5. I Wish I Could Walk Away
 B6. Little Things
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_bVAr4GA19g?si=XE1jaizKmaCLSHKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

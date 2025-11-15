@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Garage House
-title: Moloko - Cántalo de nuevo
+title: Moloko – Sing It Back
 ---
 
 
-"Sing It Back" es una canción escrita por el dúo de música electrónica irlandés-británico Moloko (Róisín Murphy y Mark Brydon).
+「Sing It Back」は、アイルランドとイギリスの電子音楽デュオ、Moloko（Róisín MurphyとMark Brydon）によって書かれた曲です。
 
-La canción apareció por primera vez en su versión original en su segundo álbum, "I Am Not a Doctor" (1998), y fue lanzada como sencillo el 8 de marzo de 1999, alcanzando el puesto 45 en la lista de sencillos del Reino Unido. La canción alcanzó el éxito en las listas, alcanzando el número 4 en el Reino Unido en septiembre de 1999 después de ser remezclada por DJ Boris Dlugosch.
+この曲は最初に彼らの2枚目のアルバム「I Am Not a Doctor」（1998年）のオリジナルバージョンで登場し、1999年3月8日にシングルとしてリリースされ、イギリスのシングルチャートで45位にランクインしました。この曲は、DJ Boris Dlugoschによってリミックスされた後、1999年9月にイギリスで4位を記録し、チャートで成功を収めました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Sing It Back (Boris Musical Mix)
 
@@ -35,7 +35,7 @@ D1. Sing It Back (Chez Maurice Mix)
 D2. Sing It Back (Herbert's Tasteful Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XLGwTy-DDY?si=vb8Cs3jpszpG5U9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

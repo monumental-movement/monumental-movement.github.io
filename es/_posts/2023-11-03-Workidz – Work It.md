@@ -8,19 +8,19 @@ layout: post
 tags:
 - Techno
 - Tech House
-title: Workidz – Trabajalo
+title: Workidz – Work It
 ---
 
 
-David Nagy, también conocido como Workidz, es un fabricante de camiones con sede en Budapest, Hungría.
+WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。
 
-"Work It", editado por Montini Bélgica en 2007, es la obra maestra de Workidz.
+2007年にMontini Belgiumからリリースされた「Work It」はWorkidzの代表作。
 
-La primera canción de la cara B es un remix del DJ Kobbe, con sede en St. Louis.
+B面１曲目は、セントルイスを拠点に活動するDJ Kobbeによるremix。
 
-La segunda canción de la cara B es un remix del DJ y productor con sede en Miami Martin Accorsi.
+B面２曲目はマイアミを拠点に活動するDJ/プロデューサーMartin Accorsiによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Work It (Original Mix)
 
@@ -29,7 +29,7 @@ B1. Work It (Kobbe Rmx)
 B2. Work It (Martin Accorsi Rmx) 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40800419053?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40800419053?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_J4YN3owx9o?si=a3zufyJsQxqLB62j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

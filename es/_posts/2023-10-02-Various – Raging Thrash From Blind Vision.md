@@ -8,14 +8,14 @@ layout: post
 tags:
 - Punk
 - Hardcore
-title: Varios – Thrash furioso de visión ciega
+title: Various – Raging Thrash From Blind Vision
 ---
 
 
-"Raging Thrash From Blind Vision" es
-Este disco, lanzado por Answer Records en 2000, es un álbum recopilatorio del HARDCORE local de Nagoya.
+「Raging Thrash From Blind Vision」は、
+2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Purge –Ugly Smile
 
@@ -42,7 +42,7 @@ B5. Reality Crisis–Open Your Eyes
 B6. Reality Crisis–Last Count Down
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFgWVarRYNc?si=xFjedn0Jj96hQ-zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

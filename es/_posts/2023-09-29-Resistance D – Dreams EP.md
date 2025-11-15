@@ -9,14 +9,14 @@ tags:
 - Techno
 - Acid
 - Trance
-title: Resistencia D – Sueños EP
+title: Resistance D – Dreams EP
 ---
 
 
-"Dreams EP" es un EP de Resistance D lanzado en 1992 con el sello Direct Drive.
-Un estilo que combina trance duro y melodioso.
+「Dreams EP」は、1992年にレーベルDirect DriveからリリースされたResistance DのEPです。
+ハードトランスとメロディアスさを組み合わせたスタイルです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Cosmic Love
 
@@ -27,7 +27,7 @@ B1. Eclipse
 B2. Index
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IN30AapgaE4?si=j7gXOXphjEJ9r9Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

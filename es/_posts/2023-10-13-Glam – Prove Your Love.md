@@ -8,17 +8,17 @@ layout: post
 tags:
 - Euro Beat
 - Rare
-title: Glam – Demuestra tu amor
+title: Glam – Prove Your Love
 ---
 
 
-Glam es un proyecto Italo disco/house producido por Roberto Ferrante.
+Glamは、Roberto Ferrante（ロベルト・フェランテ）プロデュースのイタロディスコ/ハウスプロジェクト。
 
-Glam lanzó sólo dos canciones, "Prove Your Love" y "More Than Ever", con "Prove Your Love" con la voz de Kay Bianco.
+Glamがリリースしたのは、「Prove Your Love」と「More Than Ever」の２曲だけで、「Prove Your Love」はKay Bianco（ケイ・ビアンコ）がヴォーカルを務めた。
 
-Lanzado en 1991, "Prove Your Love" es un himno de principios de los 90 que se tocaba con frecuencia en la escena de los clubes de música dance de la época y que desde entonces se ha convertido en un clásico.
+1991年にリリースされた「Prove Your Love」は、当時のダンスミュージック・クラブシーンで頻繁にプレイされた90年代初頭のアンセムで、その後もクラシックとして評価されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Prove Your Love (Club Mix)
 
@@ -29,7 +29,7 @@ B1. Prove Your Love (Instrumental)
 B2. Prove Your Love (Radio Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92806880248?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92806880248?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XMT69bIJBzU?si=mzo4Y2QYFQcSJBfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

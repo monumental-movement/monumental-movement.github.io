@@ -10,19 +10,19 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: Afuera – Sospechoso
+title: Outside – Sus?icious
 ---
 
 
-Outside es un grupo británico de jazz-funk formado por Matt Cooper, Andreas Allen y Patrice Blanchard.
+Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 
-Las pistas 2 y 8 cuentan con la participación del cantante británico Cleveland Watkiss.
+2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
 
-Las pistas 4 y 7 presentan a Constantine Weir del grupo británico de acid jazz Galliano.
+4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
 
-Este CD es una versión japonesa publicada por Avex en 1998.
+このCDは1998年にAvexからリリースされた日本盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. To Fly As Fast As Thought
 2. The Blackman And The Jew (Similarities)
@@ -39,7 +39,7 @@ Bonus Tracks
 11. Revelation (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

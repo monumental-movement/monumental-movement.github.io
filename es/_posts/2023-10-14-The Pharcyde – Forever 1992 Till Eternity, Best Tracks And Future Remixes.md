@@ -9,15 +9,15 @@ layout: post
 tags:
 - Hiphop
 - Jazzy Hiphop
-title: The Pharcyde – Forever 1992 Till Eternity, mejores temas y remezclas futuras
+title: The Pharcyde – Forever 1992 Till Eternity, Best Tracks And Future Remixes
 ---
 
 
-The Pharcyde es un grupo estadounidense de hip-hop alternativo de South Central, Los Ángeles, formado en 1989.
+The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサウスセントラル出身のUSオルタナティブ・ヒップホップグループ。
 
-Este álbum es una colección de las mejores pistas y remezclas de Pharcyde.
+このアルバムは、ファーサイドのベストトラックとリミックス集。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Soul Flower
 2. Keep On
@@ -35,5 +35,5 @@ Este álbum es una colección de las mejores pistas y remezclas de Pharcyde.
 14. DJ Missie 2001 Uptown Party Mix
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
 

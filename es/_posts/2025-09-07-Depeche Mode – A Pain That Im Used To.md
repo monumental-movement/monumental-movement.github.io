@@ -9,25 +9,25 @@ tags:
 - IDM
 - Electro
 - 00s
-title: 'Depeche Mode: un dolor al que estoy acostumbrado'
+title: Depeche Mode – A Pain That I'm Used To
 ---
 
 
-Corte sencillo del undécimo álbum de Depeche Mode, "Playing the Angel". El productor es Ben Hillier.
+Depeche Mode(デペッシュモード )の11枚目のアルバム「Playing the Angel (プレイング・ジ・エンジェル)」からのシングルカット。プロデューサーはBen Hillier。
 
-El remix es de Bitstream (Dave Conner & Steve Conner), un dúo de hermanos del Reino Unido que han estado lanzando sonidos IDM/techno/electro desde finales de los 90 en sellos como Warp Records y Elektrix Records.
+Remix は、90年代後半からIDM／テクノ／エレクトロ系のサウンドを、Warp RecordsやElectrix Records などからリリースしている、UK出身の兄弟ユニットBitstream (Dave Conner & Steve Conner)が担当。
 
-IDM/Electro fue lanzado por el sello británico Mute en 2005.
+2005年にUKレーベルMuteからリリースされたIDM／Electro。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. A Pain That I'm Used To (Bitstream Threshold Mix)
 
 AA. A Pain That I'm Used To (Bitstream Spansule Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m48271668097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48271668097?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G2iGtRseS7E?si=IXNE3FPN7DsfxaLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

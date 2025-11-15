@@ -9,18 +9,18 @@ tags:
 - House
 - Deep House
 - 00s
-title: La Meca de Ladybug – Dogg Starr (The House Mixes)
+title: Ladybug Mecca – Dogg Starr (The House Mixes)
 ---
 
 
-Mezcla de HOUSE de "Dogg Starr", una canción característica de Ladybug Mecca (Mary Ann Vieira), conocida como MC de la unidad de jazz hip-hop Digable Planets. Fue lanzado en 2007 por el prestigioso sello OM Records de San Francisco.
+ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。
 
-A1 es un remix del DJ y productor canadiense Fred Everything (Frédéric Blais), un peso pesado de la escena Deep House.
+A1は、Deep Houseシーンの重鎮、カナダ出身のDJ／プロデューサーFred Everything(Frédéric Blais)によるremix。
 
-B2 es un remix de Johnny Fiasco, un DJ/productor que representa la segunda generación del house de Chicago que llamó la atención a principios de la década de 1990 con lanzamientos en Cajual Records y Relief Records.
+B2は、1990年代初頭にCajual RecordsやRelief Records からのリリースで注目されたシカゴハウス第2世代を代表する DJ／プロデューサーJohnny Fiascoによるremix。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Dogg Starr (Fred Everything's Dog Thang)
 A2. Dogg Starr (Joey Youngman Remix)
@@ -30,7 +30,7 @@ B2. Dogg Starr (Fiasco's Conduction Mash-Up)
 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70878565960?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70878565960?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/44uKHyJvCiQ?si=yWcRa_Y3ybemf7AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,18 +9,18 @@ layout: post
 tags:
 - Euro House
 - House
-title: Muñecas Unidas hazaña. Jim Knopf y Lukas Der Lokomotivführer – Eine Insel Mit
+title: Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit
   Zwei Bergen
 ---
 
 
-"Dolls United" es un grupo alemán de Eurodance. Muestran las voces de personajes y canciones del programa de televisión Augsburger Puppenkiste, popular entre niños de 0 a 10 años.
+「Dolls United」は、ドイツのユーロダンスグループです。彼らは、0歳から10歳の子供たちに人気のあるテレビ番組「アウクスブルガー・プッペンキステ」のキャラクターや楽曲の声をサンプリングしています。
 
-Sus lanzamientos se refieren a los personajes muestreados como "artistas adicionales", como "Dolls United con Jim Knopf & Lukas Der Lokomotivführer" y "Dolls United con Die Blechbüchsenarmee".
+彼らのリリースでは、サンプリングされたキャラクターを「追加アーティスト」として言及しており、たとえば「Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer」や「Dolls United feat. Die Blechbüchsenarmee」といった形で表示されています。
 
-En realidad, estos no son artistas adicionales genuinos.
+実際には、これらは本物の追加アーティストではありません。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Eine Insel Mit Zwei Bergen (Wilde 13 - Pirate Mix)
 
@@ -29,7 +29,7 @@ B1. Eine Insel Mit Zwei Bergen (Lummerland Club Mix)
 B2. Eine Insel Mit Zwei Bergen (Frau Mahlzahn Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19329516022?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19329516022?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pa499B8YuPw?si=xcEcj837ticyfKdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

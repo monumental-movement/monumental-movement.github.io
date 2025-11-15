@@ -12,15 +12,15 @@ title: Max Duley – Canal
 ---
 
 
-"Canal" es una canción del músico techno británico Max Duley. Esta canción está incluida en su EP "Canal".
+「Canal」は、イギリスのテクノミュージシャン、マックス・デューリー（Max Duley）による楽曲です。この曲は、彼のEP「Canal」に収録されています。
 
-Max Dury es conocido como productor de música techno y ha llamado la atención por su enfoque y sonido únicos. "Canal" es una de sus canciones más aclamadas.
+マックス・デューリーは、テクノミュージックのプロデューサーとして知られており、独自のアプローチとサウンドで注目を集めています。「Canal」は、彼の作品の中でも特に評価の高い曲の一つです。
 
-"Canal" es una canción con elementos de techno minimalista y oscuro, con una línea de bajo pesada y un patrón rítmico complejo. La canción combina un ritmo intenso con un paisaje sonoro abstracto, creando una atmósfera única para el oyente.
+「Canal」は、ダークでミニマルなテクノの要素を持つ曲であり、重厚なベースラインや複雑なリズムパターンが特徴です。曲は、疾走感のあるビートと抽象的なサウンドスケープが組み合わさり、聴く人々に独特な雰囲気を醸し出します。
 
-"Canal" de Max Dury es muy aclamado por los fans de la música techno y la escena underground. Su música persigue un estilo único que combina la energía del techno con elementos ambientales, y el sonido dejará un profundo impacto en los oyentes.
+マックス・デューリーの「Canal」は、テクノミュージックのファンやアンダーグラウンドシーンで高い評価を得ています。彼の音楽は、テクノの持つエネルギーとアンビエントな要素を組み合わせた独自のスタイルを追求しており、そのサウンドはリスナーに深いインパクトを与えるでしょう。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 S1. Eternal Bleeding
 
@@ -31,7 +31,7 @@ T1. Sidekick
 T2. Searching
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2xID__SXFA?si=AhYi0zHFhOqR0plj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

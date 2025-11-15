@@ -9,15 +9,15 @@ tags:
 - Dub
 - Drum n Bass
 - 00s
-title: Fundación Asian Dub - Música comunitaria
+title: Asian Dub Foundation – Community Musick
 ---
 
 
-Asian Dub Foundation es una banda de baile electrónica del Reino Unido. Su estilo es una mezcla de rap rock, dub, dancehall, ragga, reggae EDM y música del sur de Asia.
+Asian Dub Foundationは、UK出身のエレクトロニカ・ダンス系バンド。ラップロック、ダブ、ダンスホール、ラガ、レゲエEDM、南アジア音楽などをmixするスタイルが特徴。
 
-Lanzado en 2000, dos años después del exitoso álbum "Rafi's Revenge", "Community Music" es el tercer álbum de Asian Dub Foundation, que recibió grandes elogios de todos los sectores. Este fue el último álbum en el que participó Deeder Zaman, ya que el vocalista/MC Deeder Zaman dejó el grupo a finales de ese año.
+大ヒットしたアルバム「Rafi's Revenge 」から2年後の2000年にリリースされた「Community Music」は、各方面で高評価を得たAsian Dub Foundation3枚目のアルバム。この年の終わりにヴォーカル／MCのDeeder Zamanが脱退したため、Deeder Zamanが参加した最後のアルバムとなった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Real Great Britain
 2. Memory War
@@ -35,7 +35,7 @@ Lanzado en 2000, dos años después del exitoso álbum "Rafi's Revenge", "Commun
 14. Scaling New Heights
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_n52L389e0?si=UXfed_6JpX38og2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

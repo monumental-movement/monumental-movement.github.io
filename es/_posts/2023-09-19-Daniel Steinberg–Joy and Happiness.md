@@ -9,16 +9,16 @@ tags:
 - House
 - Deep House
 - Minimal
-title: Daniel Steinberg – Alegría y felicidad EP
+title: Daniel Steinberg – Joy & Happiness EP
 ---
 
 
-Como sugiere el título de la canción, "Joy & Happiness" es una canción con el tema de la alegría y la felicidad, y se caracteriza por un ritmo maravilloso y bailable, una melodía pegadiza y una atmósfera positiva. El sentido sonoro y la creatividad únicos de Daniel Steinberg se reflejan a lo largo de la canción.
+「Joy & Happiness」は、楽曲のタイトル通り、喜びと幸福感をテーマにした曲でグルーヴィで踊りやすいビート、キャッチーなメロディ、そしてポジティブな雰囲気が特徴です。Daniel Steinbergのユニークなサウンドセンスとクリエイティビティが曲全体に反映されています。
 
-""Joy & Happiness EP'' es un trabajo que atraerá a los fanáticos de la música de Daniel Steinberg y a los amantes de la música house.
+「Joy & Happiness EP」は、Daniel Steinbergの音楽のファンやハウスミュージックの愛好家にとって魅力的な作品です。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Tell Me What
 
@@ -29,7 +29,7 @@ B1. Joy & Happiness
 B2. Multicar
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70490989005?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70490989005?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-5PBfGcgok8?si=7Serq4rCnoFhH81N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,20 +9,20 @@ tags:
 - Rock
 - 70s
 - 7inch
-title: Los Beatles – Déjalo ser
+title: The Beatles – Let It Be
 ---
 
 
-"Let It Be" de los Beatles fue lanzado en marzo de 1970 y fue el último sencillo lanzado por los Beatles durante su carrera activa, ya que se disolvieron el mes siguiente.
+The Beatlesの「Let It Be（レット・イット・ビー）」は、1970年3月にリリースされ、翌月にビートルズが解散となったためビートルズが活動中に発売した最後のシングル。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Let It Be = レット・イット・ビー
 
 B  You Know My Name (Look Up The Number) = ユー・ノー・マイ・ネーム
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22922935119?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22922935119?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzOstuzeC-g?si=zbYPXNuUQuxlUSSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

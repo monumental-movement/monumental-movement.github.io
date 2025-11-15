@@ -8,13 +8,13 @@ layout: post
 tags:
 - Euro Beat
 - Hi NRG
-title: Placer y Dolor – Superior
+title: Pleasure & Pain – Higher
 ---
 
 
-Pleasure & Pain es un proyecto (1990-1992) de FRED VENTURA, un famoso productor italiano en activo desde los años 80.
+Pleasure & Pain（プレジャー&ペイン）は、80年代から活躍するイタロの有名プロデューサーFRED VENTURA（フレッド・ベンチュラ）のプロジェクト（1990-1992）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Higher (Club Mix)
 
@@ -25,7 +25,7 @@ B1. Higher (The Midnight Sun Edit)
 B2. Higher (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3AanGM0hsMc?si=mIY--6XNX6zFOmA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,12 +12,12 @@ title: Terje Bakke – Dovyn Aren EP
 ---
 
 
-"Terje Bakke - Dovyn Aren EP" es un EP del productor de techno noruego Terje Bakke.
+「Terje Bakke – Dovyn Aren EP」は、ノルウェー出身のテクノプロデューサー、テリエ・バッケ（Terje Bakke）によるEPです。
 
-El EP Dovyn Aren es una de sus obras maestras, que destaca su estilo característico y su visión musical, con sus ritmos oscuros y bailables y sonidos de sintetizador en evolución.
+「Dovyn Aren EP」は彼の代表作の一つで、ダークで踊りやすいビート、進化するシンセサイザーのサウンドなど、その特徴的なスタイルと音楽的なビジョンが際立っています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Rabanne
 
@@ -26,5 +26,5 @@ B1  Dovyn Aren
 B2  Kokolores
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90063547919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90063547919?afid=6142608987){: .button1}
 

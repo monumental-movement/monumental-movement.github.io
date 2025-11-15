@@ -7,22 +7,22 @@ lang: es
 layout: post
 tags:
 - Trance
-title: Selu Vibra – Observación de estrellas
+title: Selu Vibra – Stargazing
 ---
 
 
-Selu Vibra es un proyecto de los DJ y productores de trance suecos Sebastian Brandt, Niklas Gustavsson y Ludvig Holm.
+Selu Vibra（セルビブラ）は、スウェーデンのトランスDJ/プロデューサーSebastian Brandt、Niklas Gustavsson、Ludvig Holmによるプロジェクト。
 
-La cara B es un remix de Arnej (Arney Secerkadic), también conocido como 8 Wonders, un DJ y productor de trance progresivo/trance de Canadá.
+B面は、カナダ出身のプログレッシブトランス/トランスDJ&プロデューサー8 WondersことArnej（Arney Secerkadic）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Stargazing (Original)
 
 B. Stargazing (8 Wonders' Star Traveller Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9t2feAuBRrQ?si=iUl_WlpjtvfPkvIC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

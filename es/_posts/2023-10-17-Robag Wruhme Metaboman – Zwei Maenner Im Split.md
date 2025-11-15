@@ -12,10 +12,10 @@ title: Robag Wruhme Metaboman – Zwei Maenner Im Split
 ---
 
 
-"Zwei Maenner Im Split" es
-Clásico del minimal techno del veterano DJ y productor de techno alemán Robag Wruhme y Metaboman (WENDELIN WEISSBACH).
+「Zwei Maenner Im Split」は、
+ドイツ出身のベテランテクノDJ/プロデューサーRobag Wruhme（ロバッグ・ルーメ）と、Metaboman（WENDELIN WEISSBACH）によるミニマル・テクノ・クラシック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Metaboman –Easy Woman
 
@@ -26,7 +26,7 @@ B1. Robag Wruhme –August Macke
 B2. Robag Wruhme –August Macke (Metaboman Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74153006017?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74153006017?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6bMbN7a8lY?si=jia9XIw_Q2bIu4kj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

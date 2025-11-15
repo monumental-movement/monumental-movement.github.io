@@ -9,13 +9,13 @@ tags:
 - Rock
 - Pop
 - 90s
-title: Amor original - Solteros de 1991 a 1995
+title: Original Love – Singles Back To 1991-1995
 ---
 
 
-El mejor álbum de Original Love lanzado en 1996. Todos los sencillos lanzados entre 1991 y 1995 están incluidos en el orden de lanzamiento.
+1996年にリリースされたOriginal Love(オリジナルラブ)のベストアルバム。1991年から1995年までにリリースされた全シングルがリリース順に収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Deep French Kiss
 2. Blue Talk
@@ -34,7 +34,7 @@ El mejor álbum de Original Love lanzado en 1996. Todos los sencillos lanzados e
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

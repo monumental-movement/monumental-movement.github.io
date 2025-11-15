@@ -13,14 +13,14 @@ title: Slam Inc Hard Kor – Pig Pen vs Hard Trax
 ---
 
 
-El EP de Slam Inc Hard Kor, "Pig Pen vs Hard", es una pista de hard house lanzada en 2000 en Bangin Out Tunes, un subsello de Alphamagic, un sello de hard house/NRG del Reino Unido fundado por TraxCalvin Sheppard y William Kimber.
+Slam Inc Hard KorのEP「Pig Pen vs Hard」は、 TraxCalvin Sheppard と William Kimberが設立したUKハードハウス/NRGレーベルAlphamagicのサブレーベルBangin Out Tunes から2000年にリリースされたハードハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A.  Slam Inc – Take Me Away
 
 AA.  Hard Kor – Check This Out
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12107636590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12107636590?afid=6142608987){: .button1}
 

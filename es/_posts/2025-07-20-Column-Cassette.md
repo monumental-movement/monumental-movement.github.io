@@ -10,304 +10,303 @@ tags:
 - 70s
 - 80s
 - 90s
-title: '[Columna] La cinta de casete como medio musical: historia, tipos, características
-  de frecuencia.'
+title: 【コラム】 音楽メディアとしてのカセットテープ：変遷・種類・周波数特性
 ---
 
 
-## Medios que preservan recuerdos, no registros
+## 記録じゃない、記憶を残すメディア
 
-Texto: mmr｜Tema: La cinta de casete, un papel secundario en la grabación de música analógica
-
-
-<hora>
-
-### Revolución de la música portátil en la era analógica
-La cinta de casete (Compact Cassette) fue desarrollada por Philips en 1963 y se hizo popular en todo el mundo como uno de los principales medios musicales desde los años setenta hasta los noventa.
-
-- La llegada de los reproductores portátiles (Walkmans)
-
-- Grabación casera sencilla
-
-- Formación de una cultura de propiedad personal e intercambio de música.
-
-Sobre la base de este trasfondo cultural, las cintas de casete se convirtieron en una plataforma importante para la música analógica.
+文：mmr｜テーマ：アナログ音楽記録の名脇役カセットテープ
 
 
-<hora>
+<hr>
 
-### Historia histórica de las cintas de casete.
+### アナログ時代のポータブル音楽革命
+カセットテープ（Compact Cassette）は1963年にフィリップス社が開発し、1970年代から1990年代にかけて音楽メディアの主役の一つとして世界中で普及した。
+
+- ポータブルプレイヤー（ウォークマン）の登場
+
+- 自宅録音の手軽さ
+
+- 音楽の個人所有・交換文化の形成
+
+こうした文化的背景のもと、カセットテープはアナログ音楽の一大プラットフォームとなった。
 
 
-<hora>
+<hr>
 
-#### 1963: Invención de Phillips
-
-Se introdujo el primer casete compacto para grabación monoaural.
+### カセットテープの歴史的変遷
 
 
-<hora>
+<hr>
 
-#### Década de 1970: El comienzo de la grabación estéreo y el sonido de alta calidad.
+#### 1963年：フィリップスによる発明
 
-- Popularización de cabezales compatibles con estéreo.
+最初のコンパクトカセットは、モノラル録音用として登場。
 
-- Estandarización de cinta normal (Tipo I)
 
-- Con la difusión de los decks portátiles nació la cultura "Walkman".
+<hr>
+
+#### 1970年代：ステレオ録音と高音質化の始まり
+
+- ステレオ対応ヘッドの普及
+
+- ノーマル（Type I）テープの標準化
+
+- ポータブルデッキの普及で「ウォークマン」文化の胎動
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-#### Década de 1980: El surgimiento de la alta posición (Tipo II) y el metal (Tipo IV)
+#### 1980年代：ハイポジション（Type II）、メタル（Type IV）の登場
 
-- Mejora del material de la cinta para mejorar la calidad del sonido.
+- 音質改善を目指したテープ素材の改良
 
-- Características de agudos mejoradas y rango dinámico ampliado
+- 高音域特性の向上とダイナミックレンジ拡大
 
-- Mayor adopción en equipos de audio de alta gama.
+- 高級オーディオ機器での採用増加
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hora>
+<hr>
 
-#### Década de 1990: decadencia debido a la difusión de los CD
+#### 1990年代：CDの普及により衰退
 
-Sin embargo, algunos audiófilos, la cultura de grabación de bricolaje, el hip-hop y las escenas independientes lo siguieron utilizando profundamente.
-
-
-<hora>
-
-### Tipos de cintas de casete y sus características
-
-Las cintas de casete se clasifican principalmente en cuatro tipos:
+しかし一部のオーディオマニアやDIY録音文化、ヒップホップやインディーズシーンでは根強く使用され続けた。
 
 
-<hora>
+<hr>
 
-### Lista
+### カセットテープの種類とその特徴
 
-<div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Tipo</th>
-<th>Tipos de materiales magnéticos</th>
-<th>Características</th>
-<th>Usos típicos</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Tipo I (normal)</td>
-<td>Óxido de hierro (Fe2O3)</td>
-<td>Calidad de sonido bien equilibrada, pero ligeramente inferior en el rango de agudos</td>
-<td>Grabación de música general, grabación de voz</td>
-</tr>
-<tr>
-<td>Tipo II (Cromo)</td>
-<td>Óxido de cromo (CrO2)</td>
-<td>Excelentes características de alta frecuencia y buena reducción de ruido</td>
-<td>Grabación de alta calidad para reproducción de música</td>
-</tr>
-<tr>
-<td>Tipo III (ferricoro)</td>
-<td>Mezcla de ferricromo</td>
-<td>Propiedades intermedias entre normal y chrome</td>
-<td>Actualmente descontinuado</td>
-</tr>
-<tr>
-<td>Tipo IV (metal)</td>
-<td>Partículas metálicas (metal)</td>
-<td>Cuenta con las mejores propiedades magnéticas y una alta relación S/N</td>
-<td>Para audio de alta gama, utilizado para grabaciones profesionales</td>
-</tr>
-</tbody>
-</tabla>
+カセットテープは主に4種類に分類される：
+
+
+<hr>
+
+### List
+
+<div class="table-border">
+<table>
+  <thead>
+    <tr>
+      <th>種類</th>
+      <th>磁性体の種類</th>
+      <th>特徴</th>
+      <th>代表的用途</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Type I（ノーマル）</td>
+      <td>酸化鉄（Fe2O3）</td>
+      <td>バランスの良い音質だが高音域はやや劣る</td>
+      <td>一般的な音楽録音、ボイス録音</td>
+    </tr>
+    <tr>
+      <td>Type II（クロム）</td>
+      <td>クロム酸化物（CrO2）</td>
+      <td>高音域特性が優れ、ノイズ低減も良好</td>
+      <td>音楽再生用、高音質録音</td>
+    </tr>
+    <tr>
+      <td>Type III（フェリクロム）</td>
+      <td>フェリクロム混合</td>
+      <td>ノーマルとクロムの中間的性質</td>
+      <td>現在ほぼ製造中止</td>
+    </tr>
+    <tr>
+      <td>Type IV（メタル）</td>
+      <td>金属粒子（メタル）</td>
+      <td>最高の磁気特性と高S/N比を誇る</td>
+      <td>高級オーディオ向け、プロ録音に使用</td>
+    </tr>
+  </tbody>
+</table>
 </div>
-<hora>
+<hr>
 
 
-<hora>
+<hr>
 
-### Características de frecuencia y calidad de sonido de las cintas de casete.
-
-
-<hora>
-
-#### Características de frecuencia básicas
-
-**La banda de frecuencia de cinta normal** es de aproximadamente 30 Hz a 12 kHz
-
-Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
-
-**La cinta metálica** se puede ampliar a aproximadamente 20 Hz a 18 kHz
+### カセットテープの周波数特性と音質
 
 
-<hora>
+<hr>
 
-#### Cabezal de grabación y ecualización
+#### 基本的な周波数特性
 
-- La ecualización de grabación y reproducción según los estándares IEC difiere según el tipo de cinta.
+**ノーマルテープ**の周波数帯域は約30Hz〜12kHz
 
-- Realiza extensión de alta frecuencia con circuito de amplificación de alta frecuencia (cabezal de ferrita, etc.)
+**クロムテープ**で約20Hz〜15kHz
 
-- Optimice la señal de polarización (vibración magnética de alta frecuencia) para reducir la distorsión y el ruido.
-
-
-<hora>
-
-#### Rango dinámico y relación S/N
-
-**Tipo normal**: relación S/N de aproximadamente 50-55 dB
-
-**Tipo de cromo**: Aproximadamente 60 dB
-
-**Tipo de metal**: Rendimiento cercano a los 70 dB
+**メタルテープ**では約20Hz〜18kHzまで拡張可能
 
 
-<hora>
+<hr>
 
-### Ventajas y desventajas de las cintas de casete.
+#### 録音ヘッドとイコライジング
 
+- IEC規格による録音・再生イコライゼーションがテープタイプごとに異なる
 
-<hora>
+- 高周波増幅回路（フェライトヘッドなど）で高音域の伸びを実現
 
-#### Ventajas
-
-- Portátil y fácil de manejar
-
-- Posibilidad de autograbación y edición.
-
-- Experiencia musical sencilla gracias a la proliferación de reproductores de casetes.
-
-- Calidad de sonido cálida exclusiva del analógico
+- バイアス信号（高周波の磁気振動）を最適化し、歪みやノイズを低減
 
 
-<hora>
+<hr>
 
-#### Desventajas
+#### ダイナミックレンジとS/N比
 
-- La calidad del sonido se deteriora debido al desgaste de la cinta y es un artículo consumible.
+**ノーマルタイプ**：約50〜55dBのS/N比
 
-- La calidad del sonido fluctúa debido a la suciedad del cabezal y a los ajustes del equipo.
+**クロムタイプ**：約60dB程度
 
-- No es necesario rebobinar ni adelantar la cinta
-
-- Inferior en banda de frecuencia y relación S/N en comparación con CD y fuentes de sonido digitales
+**メタルタイプ**：約70dBに迫る性能
 
 
-<hora>
+<hr>
 
-### Importancia contemporánea de la cultura del casete
-
-En los últimos años las cintas de casete se han revalorizado debido al regreso a lo analógico y al resurgimiento de la cultura retro.
-
-- Demanda como formato de lanzamiento indie y hip-hop.
-
-- Experiencia de grabación original y el encanto de los medios físicos.
-
-- Para uso DIY de equipos de grabación y colección de audiófilos.
+### カセットテープの利点と欠点
 
 
-<hora>
+<hr>
 
-### resumen
+#### 利点
 
-La cinta de casete es un formato conveniente y analógico, que ocupa una posición importante en la historia de los medios musicales.
+- ポータブルで扱いやすい
 
-Con la mejora de los materiales y el desarrollo de la tecnología de grabación, la calidad del sonido también ha evolucionado, y cada tipo tiene características acústicas diferentes.
+- 自己録音・編集が可能
 
-Aunque no es tan bueno como el digital en términos de banda de frecuencia y relación S/N, sigue siendo apreciado por su tono cálido y su facilidad de operación.
+- カセットプレイヤーの普及による手軽な音楽体験
 
-<hora>
+- アナログ独特の暖かみある音質
 
-### Lista
 
-<div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista</th>
-<th>Título</th>
-<th>era</th>
-<th>Género</th>
-<th>Comentarios</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Sin artista</td>
-<td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Entornos</a></td>
-<td>década de 1970</td>
-<td>Grabación/curación de campo</td>
-<td>Paisaje sonoro curativo que captura el entorno natural</td>
-</tr>
-<tr>
-<td>El arte del ruido</td>
-<td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">Sin sentido, tonterías </a></td>
-<td>1987</td>
-<td>Sintetizador pop de Leftfield</td>
-<td>Art pop x creación de sintetizador única y experimental</td>
-</tr>
-<tr>
-<td>Beso</td>
-<td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Roca y rueda</a></td>
-<td>1976</td>
-<td>rock duro de los 70</td>
-<td>Cassette de la primera edición de Japón, vintage genial</td>
-</tr>
-<tr>
-<td>Amany y el badawista</td>
-<td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Vamos, Bassem</a></td>
-<td>1996</td>
-<td>Música tribal/mundial</td>
-<td>Sonidos tribales de Oriente Medio y África</td>
-</tr>
-<tr>
-<td>Thomas Newman</td>
-<td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Perfume de mujer</a></td>
-<td>1992</td>
-<td>Banda sonora de la película</td>
-<td>Cinta musical original para películas clásicas</td>
-</tr>
-<tr>
-<td>Adam Clayton y Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
-<td>1996</td>
-<td>Tema musical de la película</td>
-<td>Cinta oficial de la película "Misión Imposible"</td>
-</tr>
-<tr>
-<td>Dieselboy</td>
-<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">La versión del director</a></td>
-<td>1998</td>
-<td>Drum y bajo</td>
-<td>Mezcla intensa del DJ americano de drum and bass</td>
-</tr>
-<tr>
-<td>Varios</td>
-<td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">¡Disfruta! Historia</a></td>
-<td>1988</td>
-<td>Hip hop clásico</td>
-<td>Recopilación de los primeros días de la era de la Nación Zulú</td>
-</tr>
-<tr>
-<td>Ejecutar‑D.M.C.</td>
-<td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">Rey del Rock</a></td>
-<td>1985</td>
-<td>Fusión hip-hop/rock</td>
-<td>Trabajo pionero en rock y rap popular</td>
-</tr>
-<tr>
-<td>Dra. dre</td>
-<td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Déjame montar</a></td>
-<td>1992</td>
-<td>Hip-hop clásico/G-funk</td>
-<td>Canciones representativas del sonido de la Costa Oeste</td>
-</tr>
-</tbody>
-</tabla>
+<hr>
+
+#### 欠点
+
+- テープ摩耗による音質劣化・消耗品であること
+
+- ヘッドの汚れや機器の調整で音質が変動
+
+- テープの巻き戻しや早送りの手間
+
+- CDやデジタル音源と比較すると周波数帯域・S/N比で劣る
+
+
+<hr>
+
+### カセットテープ文化の現代的意義
+
+近年、アナログ回帰やレトロ文化の再燃でカセットテープが再評価されている。
+
+- インディーズやヒップホップのリリースフォーマットとしての需要
+
+- オリジナルの録音体験と物理メディアの魅力
+
+- 録音機材のDIY的利用やオーディオマニアのコレクション対象
+
+
+<hr>
+
+### まとめ
+
+カセットテープは、音楽メディアの歴史において重要な位置を占める「手軽さとアナログらしさ」を両立したフォーマット。
+
+素材の改良や録音技術の発達により、その音質も進化を遂げ、各タイプごとに異なる音響特性が存在する。
+
+周波数帯域、S/N比の面でデジタルには及ばないものの、温かみのある音色と操作性の良さから、今なお愛され続けている。
+
+<hr>
+
+### List
+
+<div class="table-border">
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト</th>
+      <th>タイトル</th>
+      <th>年代</th>
+      <th>ジャンル</th>
+      <th>コメント</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>No Artist</td>
+      <td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Environments</a></td>
+      <td>1970年代</td>
+      <td>フィールド録音／ヒーリング</td>
+      <td>自然環境を捉えた癒し系サウンドスケープ</td>
+    </tr>
+    <tr>
+      <td>The Art of Noise</td>
+      <td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">In No Sense Nonsense </a></td>
+      <td>1987年</td>
+      <td>Leftfieldシンセポップ</td>
+      <td>アートポップ×実験寄り、ユニークなシンセ作</td>
+    </tr>
+    <tr>
+      <td>Kiss</td>
+      <td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Rock And Roll Over</a></td>
+      <td>1976年</td>
+      <td>70s ハードロック</td>
+      <td>日本初版カセット、クールなヴィンテージ</td>
+    </tr>
+    <tr>
+      <td>Amany & The Badawist</td>
+      <td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Come on, Bassem</a></td>
+      <td>1996年</td>
+      <td>トライバル／世界音楽</td>
+      <td>中東・アフリカ系のトライバル音響</td>
+    </tr>
+    <tr>
+      <td>Thomas Newman</td>
+      <td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Scent Of A Woman</a></td>
+      <td>1992年</td>
+      <td>映画サウンドトラック</td>
+      <td>名作映画のオリジナルスコア・テープ</td>
+    </tr>
+    <tr>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td>1996年</td>
+      <td>映画テーマ曲</td>
+      <td>映画『ミッション・インポッシブル』の公式テープ</td>
+    </tr>
+    <tr>
+      <td>Dieselboy</td>
+      <td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director’s Cut</a></td>
+      <td>1998年</td>
+      <td>Drum n Bass</td>
+      <td>米ドラムンベースDJによる強烈ミックス</td>
+    </tr>
+    <tr>
+      <td>Various</td>
+      <td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">The Enjoy! Story</a></td>
+      <td>1988年</td>
+      <td>クラシックヒップホップ</td>
+      <td>Zulu Nation時代の黎明期コンピ</td>
+    </tr>
+    <tr>
+      <td>Run‑D.M.C.</td>
+      <td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">King Of Rock</a></td>
+      <td>1985年</td>
+      <td>ヒップホップ／ロック融合</td>
+      <td>ロックとラップの先駆的人気作</td>
+    </tr>
+    <tr>
+      <td>Dr. Dre</td>
+      <td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Let Me Ride</a></td>
+      <td>1992年</td>
+      <td>クラシックヒップホップ／Gファンク</td>
+      <td>西海岸サウンドの代表曲</td>
+    </tr>
+  </tbody>
+</table>
 </div>

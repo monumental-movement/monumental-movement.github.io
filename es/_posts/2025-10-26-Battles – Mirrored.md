@@ -10,17 +10,17 @@ tags:
 - Experimental
 - Indie Rock
 - 00s
-title: Batallas – Reflejadas
+title: Battles – Mirrored
 ---
 
 
-Battles es una banda de rock experimental formada en 2002 por Ian Williams, ex miembro de Don Caballero & Storm & Stress.
+Battles(バトルス)は、2002年に元Don Caballero（ドン・キャバレロ）& Storm & StressのIan Williams(イアン・ウィリアムス)によって結成されたエクスペリメンタル・ロック・バンド。
 
-"Mirrored" es el álbum debut de Battles lanzado por Warp Records en 2007. La obra maestra de Battles que recibió grandes elogios, incluido el de ser seleccionado como el mejor álbum de 2007 por medios famosos.
+「Mirrored」は、2007年にWarp RecordsからリリースされたBattlesのデビューアルバム。著名メディアで2007年度のベストアルバムに選ばれるなど、高い評価を受けたBattlesの代表作。
 
-Este CD es una versión japonesa con pistas extra, pegatinas y carteles.
+このCDはボーナストラック、シール、ポスターが入った日本盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Race: In
 2. Atlas
@@ -39,7 +39,7 @@ Bonus Track
 12. Katoman
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52524321493?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52524321493?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IpGp-22t0lU?si=cxyOTFEAQA2A370P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

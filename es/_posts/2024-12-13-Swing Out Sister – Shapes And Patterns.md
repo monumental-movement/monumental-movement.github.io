@@ -11,15 +11,15 @@ tags:
 - Downtempo
 - Synth-pop
 - 90s
-title: Swing Out Sister - Formas y patrones
+title: Swing Out Sister – Shapes And Patterns
 ---
 
 
-"Shapes And Patterns" es el quinto álbum de estudio de Swing Out Sister, lanzado en 1997.
+「Shapes And Patterns」は、1997年リリースされたSwing Out Sister 5枚目のスタジオアルバム。
 
-La canción "Now You're Not Here" fue escrita como tema principal del drama "Midday Moon" y se convirtió en un gran éxito en Japón. Este álbum presenta a Gota Yashiki como baterista.
+収録曲Now You're Not Here(邦題: あなたにいてほしい)は、ドラマ「真昼の月」の主題歌用に書き下ろされ、日本で大ヒットとなった。このアルバムは屋敷豪太がドラマーとして参加している。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -36,7 +36,7 @@ La canción "Now You're Not Here" fue escrita como tema principal del drama "Mid
 13. Shapes And Patterns (Reprise)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

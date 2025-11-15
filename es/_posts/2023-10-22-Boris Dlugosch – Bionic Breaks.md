@@ -8,15 +8,15 @@ layout: post
 tags:
 - Electro
 - Hiphop
-title: Boris Dlugosch – Escapadas biónicas
+title: Boris Dlugosch – Bionic Breaks
 ---
 
 
-Boris Dlugosch es un DJ y productor house afincado en Hamburgo.
+Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
 
-Boris Dlugosch es un antiguo DJ residente del legendario club FRONT de Hamburgo y un pionero de la cultura de la música house alemana.
+Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Man Parrish – Hip Hop, Be Bop (Don't Stop)
 
@@ -37,10 +37,10 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 D3. Gary's Gang – Makin' Music
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

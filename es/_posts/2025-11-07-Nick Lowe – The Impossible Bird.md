@@ -10,15 +10,15 @@ tags:
 - Country Rock
 - Pub Rock
 - 90s
-title: Nick Lowe – El pájaro imposible
+title: Nick Lowe – The Impossible Bird
 ---
 
 
-Nick Lowe es un cantautor, músico y productor británico. Conocido como una figura clave del pub rock, el power pop y la new wave, Lowe ha lanzado varios álbumes en solitario aclamados por la crítica.
+Nick Lowe (ニック・ロウ)は、イギリスのシンガーソングライター/ミュージシャン/プロデューサー。パブロック、パワーポップ、ニューウェイヴの重要人物として知られるロウは、高い評価を受けたソロアルバムを多数リリースしている。
 
-"The Impossible Bird" es un álbum de Pop Rock/Country Rock/Pub Rock lanzado en 1994 con el coproductor Neil Brockbank. (Reedición)
+「The Impossible Bird」は共同プロデューサーにNeil Brockbankを迎え1994年にリリースされたPop Rock／Country Rock／Pub Rockアルバム。(再発盤)
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Soulful Wind
 2. The Beast In Me
@@ -35,7 +35,7 @@ Nick Lowe es un cantautor, músico y productor británico. Conocido como una fig
 13. I'll Be There
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38200351869?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_U8lR_JrDo?si=UMGoRySTUA1u-kES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,16 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: Nirvana – No importa
+title: Nirvana – Nevermind
 ---
 
-Nirvana es una banda de rock estadounidense conocida como pionera del rock alternativo y el grunge. "Nevermind" es el segundo álbum de Nirvana y fue un gran éxito, alcanzando el número uno en el Billboard. El éxito de este álbum desató el movimiento grunge/rock alternativo en Estados Unidos.
+Nirvanaは、オルタナティブロック＆グランジの先駆者として知られているUSロックバンド。「Nevermind」はNirvana2枚目のアルバムで、ビルボード1位に輝く大ヒットとなった。このアルバムのヒットにより、アメリカでグランジ/オルタナティヴ・ロックムーブメントが起こった。
 
-"Smells Like Teen Spirit" fue lanzado como sencillo principal de "Nevermind" y se convirtió en la canción insignia de Nirvana.
+「Smells Like Teen Spirit（スメルズ・ライク・ティーン・スピリット）」は「Nevermind」先行シングルとしてリリースされ、ニルヴァーナの代表曲となった。
 
-La canción "Something In The Way" se utilizará en la película "THE BATMAN" que se estrenará en 2022.
+収録曲「Something In The Way」は2022年公開の映画『THE BATMAN-ザ・バットマン-』で使用されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Smells Like Teen Spirit
 A2. In Bloom
@@ -36,9 +36,9 @@ B5. On A Plain
 B6. Something In The Way
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vabnZ9-ex7o?si=0NXz__dn5sqlQNz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

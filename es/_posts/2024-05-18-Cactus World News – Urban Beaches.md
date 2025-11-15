@@ -9,17 +9,17 @@ tags:
 - Rock
 - Alternative Rock
 - 80s
-title: Cactus World News – Playas Urbanas
+title: Cactus World News – Urban Beaches
 ---
 
 
-Cactus World News es una banda de rock irlandesa formada en Dublín en abril de 1984. En 1985, realizó una gira por el Reino Unido con la banda británica de hard rock The Cult y firmó un contrato con MCA Records.
+カクタスワールドニュースは、1984年4月にダブリンで結成されたアイルランドのロックバンド。1985年にUKのハードロックバンドThe Cult（ザ・カルト）と英国ツアーを行い、MCAレコードと契約。
 
-""Urban Beaches'', lanzado por MCA Records en 1986, es el álbum debut de Cactus World News, producido por Chris Kimsey, quien trabajó con The Rolling Stones.
+1986年にMCAレコードからリリースした「Urban Beaches」は、カクタスワールドニュースのデビューアルバムで、プロデューサーはThe Rolling Stones（ローリング・ストーンズ）を手がけたChris Kimsey（クリス・キムジー）。
 
-La canción "The Bridge" fue producida por Bono de U2.
+収録曲の「The Bridge」は、U2のBono（ボノ）がプロデュースしている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Worlds Apart
 A2. In A Whirlpool
@@ -34,7 +34,7 @@ B4. Jigsaw Street
 B5. Maybe This Time
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m56242240661?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56242240661?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xbe2WnzokY?si=SaFVFFl21j_INMNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,17 +8,17 @@ layout: post
 tags:
 - Ska
 - Ska Punk
-title: Dance Hall Crashers – EL VIEJO DISCO (1989-1992)
+title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
 ---
 
 
-DANCE HALL CRASHERS es una banda estadounidense de ska-core formada en Berkeley, California en 1989.
+ダンス・ホール・クラッシャーズ (DANCE HALL CRASHERS) は、1989年にアメリカのカリフォルニア州バークレーで結成されたスカコア・バンドです。
 
-En 1989, Matt Freeman y Tim Armstrong de la banda matriz de Rancid, Operation Ivy, formaron la banda como un proyecto paralelo.
+1989年、ランシドの母体バンドであるオペレーション・アイヴィーのマット・フリーマンとティム・アームストロングがサイド・プロジェクトとしての結成がはじまり。
 
-Este álbum "THE OLD RECORD (1989-1992)" fue lanzado en 1996.
+このアルバム『THE OLD RECORD (1989-1992)』は、1996年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Pick Up Lines
 
@@ -59,7 +59,7 @@ B5. Better Than Anything
 B6. DHC
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

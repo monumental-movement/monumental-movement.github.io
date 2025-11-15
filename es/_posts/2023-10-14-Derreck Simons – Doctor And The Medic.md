@@ -7,14 +7,14 @@ lang: es
 layout: post
 tags:
 - Euro Beat
-title: Derreck Simons - El doctor y el médico
+title: Derreck Simons – Doctor And The Medic
 ---
 
 
-"Derreck Simons – El doctor y el médico"
-El productor es Dave Rodgers, productor italiano de Eurobeat y cofundador del sello Eurobeat A.Beat-C.
+「Derreck Simons – Doctor And The Medic」の
+プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Doctor And The Medic (Dance Power Mix)
 
@@ -25,7 +25,7 @@ B1. Doctor And The Medic (Radio Edit Version)
 B2. Doctor And The Medic (Playback)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37328991093?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KSWqspFBG-g?si=EVcrBobQY4ygYT2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,11 +12,11 @@ title: Orquesta De La Luz – De La Luz
 ---
 
 
-""De La Luz'' es el álbum debut de la banda de salsa Orquesta de la Luz, lanzado en 1990.
+1990年にリリースされたサルサバンド、オルケスタ・デ・ラ・ルスのデビューアルバム『デ・ラ・ルス』。
 
-La primera canción, Salsa caliente del Japón, permaneció 11 semanas en el número uno de la lista latina de Billboard.
+1曲目のSalsa caliente del Japón（日本からの熱いサルサ）は、全米のビルボード誌ラテン・チャートで11週間にわたって1位を獲得した。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Salsa Caliente Del Japon
 
@@ -39,7 +39,7 @@ La primera canción, Salsa caliente del Japón, permaneció 11 semanas en el nú
 10. There's Nothing Better Than Love
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99958650751?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXdBszUca9o?si=RnCcmmMUHsoz-jSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

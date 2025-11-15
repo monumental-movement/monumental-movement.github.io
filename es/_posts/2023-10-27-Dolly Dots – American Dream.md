@@ -8,13 +8,13 @@ layout: post
 tags:
 - Disco
 - 80s
-title: Dolly Dots – Sueño americano
+title: Dolly Dots – American Dream
 ---
 
 
-Dolly Dots fue un grupo de chicas holandés que estuvo activo desde finales de los 70 hasta finales de los 80. Tuvo éxito no sólo en los Países Bajos, sino también en Bélgica, Japón y Turquía.
+Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズグループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1.  (They Are) Rollerskating
 
@@ -41,7 +41,7 @@ B5. Hollywood
 B6. My Boyfriend's Back
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LCaV_cppcbM?si=MIH5qvFodmU0bWPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

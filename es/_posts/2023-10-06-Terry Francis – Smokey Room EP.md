@@ -8,19 +8,19 @@ layout: post
 tags:
 - House
 - Tech House
-title: Terry Francis - Habitación Smokey EP
+title: Terry Francis – Smokey Room EP
 ---
 
 
-Terry Francis es un DJ y productor británico nacido el 28 de julio de 1966 en Epsom.
+Terry Francisは1966年7月28日にEpsomで生まれたイギリスのDJ兼プロデューサーです。
 
-Su carrera comenzó en 1988 copromocionando noches de acid house en Hamilton's Wine Bar en Leatherhead. Al mismo tiempo trabajó como techador.
+彼のキャリアは、1988年にLeatherheadのHamilton'sワインバーでアシッドハウスのナイトを共同プロモートすることから始まりました。同時に、屋根職人として働いていました。
 
-En 1990 se convirtió en DJ residente en Sterns en Worthing. También trabajó en Swag Records. También fue copropietario de dos sellos discográficos: Eye 4 Sound y Wiggle.
+1990年にはWorthingのSternsでレジデントDJとなりました。また、Swag Recordsで働いていたこともあります。彼はEye 4 SoundとWiggleという2つのレコードレーベルの共同オーナーでもありました。
 
-A mediados de la década de 1990, fue promotor y DJ residente en Groove Kitchen y Wiggle. También fue DJ residente en Freaky Disco. Además, ha presentado un programa en Energy 87.9 FM.
+1990年代中盤、Groove KitchenとWiggleのプロモーターおよびレジデントDJでした。また、Freaky DiscoのレジデントDJでもありました。さらに、Energy 87.9 FMで番組をホストしていた経験もあります。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Believe In Yourself
 
@@ -29,7 +29,7 @@ B1. Love In
 B2. Roll In Life
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15247506715?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BvsTcXrN3uM?si=1YyEVW0mr14YoSXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

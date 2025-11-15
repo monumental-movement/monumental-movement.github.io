@@ -8,15 +8,15 @@ layout: post
 tags:
 - JPop
 - Techno
-title: Denki Groove – Remezclas de naranja
+title: Denki Groove – Orange Remixes
 ---
 
 
-"ORANGE REMIXES" contiene versiones remezcladas de canciones del álbum "ORANGE" (1998) de Denki Groove por otros artistas y productores. El remixer incluye la participación de famosos artistas y creadores nacionales e internacionales, y contiene canciones que añaden nuevas interpretaciones y arreglos a la música de Denki Groove.
+「ORANGE REMIXES」は電気グルーヴのアルバム「ORANGE」（1998年）の楽曲を他のアーティストやプロデューサーがリミックスしたバージョンを収録しています。リミキサーには、国内外の有名なアーティストやクリエイターが参加しており、電気グルーヴの音楽に新たな解釈やアレンジを加えた楽曲が収められています。
 
-Abarcando géneros como música electrónica, techno, house y ambient, podrás disfrutar de una variedad de estilos y enfoques musicales. Los remezcladores llevan las canciones originales de Denki Groove aún más lejos al inyectar sus propias ideas y sonidos.
+エレクトロニックミュージック、テクノ、ハウス、アンビエントなどのジャンルを網羅しており、多様な音楽スタイルとアプローチが楽しめます。リミキサーたちが独自のアイデアとサウンドを注入し、電気グルーヴのオリジナル楽曲をさらに進化させています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Scorpion (Omoide Hatoba Remix)
 
@@ -39,7 +39,7 @@ B2. Repetition Side Step (Original Mix)
 Music By – Takkyu Ishino
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JIXSU-ppntY?si=yNpdN7PJN3cYSVEm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

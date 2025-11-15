@@ -9,16 +9,16 @@ tags:
 - Rock
 - Indie Rock
 - 90s
-title: 'El cubo de basura atómico de Ned: mata tu televisor'
+title: Ned's Atomic Dustbin – Kill Your Television
 ---
 
 
-Ned's Atomic Dustbin es una banda de rock británica formada en Stourbridge, West Midlands en noviembre de 1987.
+Ned's Atomic Dustbin(ネッズアトミックダストビン)は、1987年11月にウェストミッドランズのストゥールブリッジで結成されたイギリスのロックバンド。
 
-"Kill Your Television" fue el primer sencillo (EP) oficial de Atomic Dustbinno de Ned y fue un éxito comercial. También está incluido en el álbum de estudio debut "God Fodder".
+「Kill Your Television」は、Ned's Atomic Dustbinno公式ファーストシングル(EP)で、商業的に成功したヒット曲。デビュースタジオアルバム「God Fodder」にも収録されている。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Kill Your Television
 2. That"s Nice
@@ -26,7 +26,7 @@ Ned's Atomic Dustbin es una banda de rock británica formada en Stourbridge, Wes
 4. Kill Your Remix
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2371iADS0?si=L_cqikedn1L5Ea8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

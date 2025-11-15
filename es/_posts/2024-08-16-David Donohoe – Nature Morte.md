@@ -9,15 +9,15 @@ tags:
 - Minimal
 - Ambient
 - 00s
-title: David Donohoe – ¡Naturaleza Morte!
+title: David Donohoe – Nature Morte!
 ---
 
 
-David Donohoe es un director creativo, diseñador gráfico, músico electrónico y músico experimental que vive en Dublín, Irlanda.
+David Donohoeは、アイルランドのダブリンを拠点とするクリエイティブ ディレクター、グラフィック デザイナー、エレクトロニックミュージシャン＆実験音楽家。
 
-"¡Naturaleza Morte!" es una pista de ambiente minimalista lanzada en 2004 en Minimise, un sello dirigido por Donnacha Costello, una veterana de la escena techno minimalista con sede en Dublín, Irlanda.
+「Nature Morte!」は、アイルランドのダブリンを拠点に活動するミニマルテクノシーンのベテランDonnache Costello（ドナチャ・コステロ）が運営するレーベルMinimiseから2004年にリリースされたミニマル・アンビエントトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -25,7 +25,7 @@ A2. Still Life Is Alive
 B. Our Ghosts
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

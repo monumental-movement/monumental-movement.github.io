@@ -8,21 +8,21 @@ layout: post
 tags:
 - Rock
 - Post Rock
-title: Espiritualizados – Damas y caballeros, estamos flotando en el espacio
+title: Spiritualized – Ladies And Gentlemen We Are Floating In Space
 ---
 
 
-"Spiritualized - Damas y caballeros, estamos flotando en el espacio" es un álbum de la banda de rock británica Spiritualized.
+「Spiritualized – Ladies And Gentlemen We Are Floating In Space」は、イギリスのロックバンド、スピリチュアライズド（Spiritualized）のアルバムです。
 
-Este álbum es conocido como la obra maestra de Spiritualized y se caracteriza por su sonido experimental y magníficos arreglos. El álbum es conocido por su estilo musical único, que combina elementos de rock, shoegaze y rock psicodélico.
+このアルバムは、スピリチュアライズドの代表作として知られ、実験的なサウンドや壮大なアレンジが特徴です。アルバムは、ロック、シューゲイザー、サイケデリックロックなどの要素を組み合わせた独自の音楽スタイルで知られています。
 
-Spiritualized se formó en Rugby, Warwickshire, Inglaterra en 1990, y aparte del miembro principal Jason Pearce, el grupo siempre ha tenido un elenco de apoyo fluido.
+スピリチュアライズドは、1990年にイギリスのウォーウィックシャー州ラグビーで結成され、中心メンバーのジェイソン・ピアース以外は、常に流動的なサポートメンバーで構成されています。
 
-También son reconocidos como una de las bandas que tuvo una mayor influencia en el rock alternativo y el indie rock desde la década de 1990 en adelante.
+また、90年代以降のオルタナティブロックやインディーロックに大きな影響を与えたバンドの一つとして評価されています。
 
-El nombre de la banda proviene de la nave espacial ficticia "Spiritualized" que aparece en la película 2001: A Space Odyssey, y Jason Pearce también es conocido como el ex vocalista de Spacemen 3.
+バンド名は、映画『2001年宇宙の旅』に登場する架空の宇宙船「スピリチュアライズド号」に由来しており、ジェイソン・ピアースは、Spacemen 3（スペースメン3）の元ボーカルとしても知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1.Ladies And Gentlemen We Are Floating In Space
 
@@ -53,7 +53,7 @@ Bonus Track For Japan
 13.Broken Heart (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13540642583?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWOdSeDzyy4?si=rcVxEw6vHed4noNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

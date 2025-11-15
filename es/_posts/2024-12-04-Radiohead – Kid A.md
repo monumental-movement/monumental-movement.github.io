@@ -10,13 +10,13 @@ tags:
 - Leftfield
 - IDM
 - Experimental
-title: Radiohead - Niño A
+title: Radiohead - Kid A
 ---
 
 
-El cuarto álbum de estudio de la banda de rock británica Radiohead, lanzado en 2000. El productor es Nigel Godrich.
+UKのロックバンドRadiohead の2000年にリリースした4枚目のスタジオアルバム。プロデューサーはNigel Godrich(ナイジェル・ゴッドリッチ)。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Everything In Its Right Place
 2. Kid A
@@ -31,8 +31,8 @@ El cuarto álbum de estudio de la banda de rock británica Radiohead, lanzado en
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUnXxh5U25Y?si=XDBa027cloU4NAt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

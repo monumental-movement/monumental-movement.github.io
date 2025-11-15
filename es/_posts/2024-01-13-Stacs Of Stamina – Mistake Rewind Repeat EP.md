@@ -9,13 +9,13 @@ tags:
 - Experimental
 - Glitch
 - Garage
-title: Stacs Of Stamina - Mistake Rewind Repetir EP
+title: Stacs Of Stamina – Mistake Rewind Repeat EP
 ---
 
 
-Un glitch + garage británico + IDM + pista experimental del grupo sueco de electro hip-hop Stacs Of Stamina, lanzado en 2005 en el sello independiente británico Werk Discs.
+UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Mistake, Rewind, Repeat
 
@@ -30,7 +30,7 @@ B2. Mistake, Rewind, Repeat (Para One Remix)
 B3. Mistake, Rewind, Repeat (Original Johan Instr)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m30112362592?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30112362592?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZLeMZ6sHzAE?si=jfqHSJRimWM4jOVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

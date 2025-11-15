@@ -10,280 +10,279 @@ tags:
 - Rock
 - Improvisation
 - Experimental
-title: '[Columna] Revolucionarios del ritmo: Las primeras líneas rítmicas de los bateristas
-  que conectan Japón y el mundo'
+title: 【コラム】 リズムの革命児たち：世界と日本をつなぐドラマーのリズム最前線
 ---
 
 
-## El latido del corazón del mundo y de Japón: Ritmos que conectan lo superficial y lo subterráneo, entre el silencio y el impulso, la tradición y la experimentación.
+## 世界と日本の鼓動：地上と地下をつなぐリズムたち  — 沈黙と衝動、伝統と実験のあいだ —
 
 
-Texto: mmr｜Tema: La genealogía del "ritmo" que recorre el mundo y Japón ─ ​​200 años de historia de bateristas que conectan la superficie y el underground
+文：mmr｜テーマ：世界と日本を貫く「リズム」の系譜──地上と地下をつなぐドラマーたちの200年史
   
-A la sombra de los bateristas que estuvieron en el centro de la historia, hay experimentadores clandestinos que se adelantaron a su tiempo.
-Incluso en los días en que Buddy Rich y John Bonham dominaban el escenario principal, otro latido latía en algún lugar de un almacén o de un pequeño bar de jazz.
-A menudo eran demasiado excesivos, demasiado libres y difíciles de entender.
-Sin embargo, de ese "espacio en blanco" nació un nuevo ritmo.
+歴史の中心にいたドラマーたちの影には、**地下で時代を先取りしていた実験者たち**がいる。  
+Buddy RichやJohn Bonhamがメインステージを制覇した時代にも、どこかの倉庫や小さなジャズバーで、別の鼓動が鳴っていた。  
+彼らはしばしば過剰すぎ、自由すぎ、理解されにくかった。  
+だが、その“余白”から新しいリズムが生まれた。  
 
-Los bateristas clandestinos tocaban el compás en lugar de los instrumentos.
-No era ni una nación ni un género, sino el lenguaje de una "comunidad sensorial".
+アンダーグラウンドのドラマーたちは、**楽器よりも「時間」を叩いていた**。  
+それは国家でもジャンルでもない、「感覚共同体」の言語だった。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Introducción: ¿Qué es el ritmo? Una historia cultural de soplar y respirar.
+## 序章：リズムとは何か — 打撃と呼吸の文化史
 
-Los instrumentos de percusión son el comienzo de la música y el latido del mundo.
-Los tambores en los pueblos africanos son un sustituto de las palabras y las congas latinoamericanas son una continuación de la oración.
-Y en las ciudades después de la Revolución Industrial, se sincronizó con el ritmo de las máquinas.
-La batería nació a principios del siglo XX.
-La combinación de caja, bombo y charles fue diseñada como una extensión de las extremidades humanas,
-El jazz lo convirtió en una "estructura de improvisación".
+打楽器とは、音楽の始まりであり、世界の心拍である。  
+アフリカの集落での太鼓は言葉の代替であり、ラテンアメリカのコンガは祈りの継承。  
+そして産業革命以後の都市では、それは機械のリズムとシンクロする存在となった。  
+ドラムセットが誕生したのは20世紀初頭。  
+スネア、キック、ハイハットという組み合わせが人間の手足の延長として設計され、  
+ジャズがそれを「即興の構造体」に変えた。
 
-Gene Krupa, Buddy Rich, Art Blakey──
-Lo que tocaron no fue tanto el ritmo, sino la existencia misma.
-El ritmo no es ni el dominante ni el acompañamiento, sino el "latido del corazón" de la comunidad de la banda.
-El baterista que lo tocaba también era un filósofo.
+ジーン・クルーパ、バディ・リッチ、アート・ブレイキー──  
+彼らが叩いたのはリズムというよりも、存在そのものだった。  
+リズムは支配でも伴奏でもなく、バンドという共同体の“心拍”であり、  
+それを鳴らすドラマーは、同時に哲学者でもあった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nu1teeixmpw?si=MPKeMebShaPxU7V2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 1: El latido del corazón del mundo: genealogía de la revolución del ritmo
+## 第1章：世界の鼓動 — リズム革命の系譜
 
-### 1-1. La edad de oro del jazz: de Art Blakey a Elvin Jones
+### 1-1. ジャズ黄金期：アート・ブレイキーからエルヴィン・ジョーンズへ
 
-Como lo simboliza "Moanin" de Art Blakey,
-Durante la época dorada del jazz, la batería estaba en el centro del "diálogo".
-Blakey, el líder, educa a los jóvenes tocando la batería.
-Elvin Jones se convirtió en la "fuerza impulsora cósmica" de Coltrane.
-El ritmo no era sólo un ritmo, sino una expansión del tiempo y el espacio.
+アート・ブレイキーの**「モーニン」**が象徴するように、  
+ジャズの黄金期、ドラムは「対話」の中心にあった。  
+リーダーであるブレイキーはドラムを通して若手を育て、  
+エルヴィン・ジョーンズはコルトレーンの“宇宙的推進力”となった。  
+リズムは単なるグルーヴではなく、時間と空間の拡張そのものだった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKOoxgI_xfQ?si=1F4Kuwh28eWqBNU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-2. Explosión de rock: Ginger Baker y John Bonham
+### 1-2. ロックの爆発：ジンジャー・ベイカーとジョン・ボーナム
 
-En las décadas de 1960 y 1970, los tambores se transformaron en un símbolo de rebelión.
-Ginger Baker (Cream) introdujo el polirritmo afro en el rock;
-John Bonham (Led Zeppelin) hizo del "solo de batería" un arte con su explosiva presión sonora.
-La reverberación de caja en "When the Levee Breaks" de Bonham es
-También se convirtió en el prototipo de los posteriores ritmos de hip-hop.
+1960〜70年代、ドラムは「反逆の象徴」へと変貌する。  
+ジンジャー・ベイカー（Cream）はアフロ・ポリリズムをロックに導入し、  
+ジョン・ボーナム（Led Zeppelin）は爆発的な音圧で“ドラムソロ”を芸術にした。  
+ボーナムの「When the Levee Breaks」におけるスネアのリバーブは、  
+以後のヒップホップ・ビートの原型にもなる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8j7oT2I8Nz8?si=B6YrQ9deQV2UwSuv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-3. Eje ortodoxo: Buddy Rich, Tony Williams, Steve Gadd
+### 1-3. 正統の軸：Buddy Rich, Tony Williams, Steve Gadd
 
-Buddy Rich es un símbolo de velocidad, Tony Williams es un símbolo de libertad y Steve Gadd es un símbolo de precisión.
-La "imagen ideal de un baterista" que crearon fue el marco mismo de la música del siglo XX.
-Sin embargo, al mismo tiempo, **tambores que se desvían de la disciplina** se retorcían bajo tierra.
+Buddy Richはスピードの象徴、Tony Williamsは自由の象徴、Steve Gaddは精密の象徴。  
+彼らが築いた“ドラマーの理想像”は、20世紀音楽の骨格そのものだった。  
+しかし同時期に、**規律から逸脱するドラム**が地下で蠢いていた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-4. El latido del corazón de África: Tony Allen y la revolución política
+### 1-4. アフリカの鼓動：Tony Allenとポリリズムの革命
 
-Tony Allen, más conocido como el compañero de Fela Kuti, es el hombre que inventó el "Afrobeat".
-El ritmo era un símbolo de "antisistema" y visualizaba la energía del pueblo de Nigeria bajo el gobierno militar.
-Los tambores eran política. El sonido fue una protesta.
+Fela Kutiの相棒として知られるTony Allenは、「アフロビート」を発明した男だ。  
+そのリズムは“反体制”の象徴であり、軍政下のナイジェリアで民衆のエネルギーを可視化した。  
+ドラムは政治だった。音がプロテストだった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-5. Impacto de la vanguardia europea: Han Bennink, Christian Lillinger
+### 1-5. ヨーロッパ前衛の衝撃：Han Bennink, Christian Lillinger
 
-Han Bennink, de Holanda, golpea sillas y paredes en el escenario.
-Para él, el "sonido" es un encuentro con un objeto mismo.
-El alemán Christian Lillinger manipula polirritmos como estructuras de datos para conectar la música contemporánea y la cultura de club.
-Los bateristas experimentales europeos han criticado el ritmo como una "filosofía".
+オランダのHan Benninkは、ステージ上で椅子も壁も叩く。  
+彼にとって「音」は物体との出会いそのものだ。  
+ドイツのChristian Lillingerは、ポリリズムをデータ構造のように操り、**現代音楽とクラブカルチャーを接続**する。  
+ヨーロッパの実験ドラマーたちは、リズムを“哲学”として叩いている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UR3Tubq978?si=SG4lOk-bI2fWS3hV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-6. América del Norte subterránea: Greg Fox, Deantoni Parks
+### 1-6. 北米の地下：Greg Fox, Deantoni Parks
 
-Greg Fox (ex-Liturgy) es una fusión de black metal e improvisación.
-Deantoni Parks (The Mars Volta) toca el sampler con una mano y la trampa con la otra.
-Utilice su cuerpo para resolver el desafío del siglo XXI de la "coexistencia de humanos y máquinas".
-Su actuación se sitúa a medio camino entre el ritual religioso y la tecnología.
+Greg Fox（ex-Liturgy）はブラックメタルと即興の融合。  
+Deantoni Parks（The Mars Volta）は片手でサンプラー、もう片手でスネアを叩き、  
+「人間とマシンの同居」という21世紀的課題を身体で解く。  
+彼らの演奏は、宗教儀式とテクノロジーのあいだにある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 2: El latido del corazón de Japón: Ritmos que conectan por encima y por debajo de la tierra
+## 第2章：日本の鼓動 — 地上と地下をつなぐリズムたち
 
-### 2-1. Después de Ponta: de artesano a pensador
+### 2-1. ポンタ以後 — 職人から思想家へ
 
-Lo que Shuichi Murakami "Ponta" creó fue la sensación de "tapping en japonés".
-Sin embargo, desde la década de 1990 surgió una nueva generación que desmanteló esa gramática.
-Redefinieron la gravedad de la música **"cambiando las brechas"**.
+村上“ポンタ”秀一が築いたのは「日本語で叩く」感覚。  
+しかし90年代以降、その文法を解体する新世代が登場する。  
+彼らは**“間をズラす”**ことで、音楽の重力を再定義した。
 
-### 2-2. YOSHIMIO (BOREDOMS / OOIOO) y Yo2ro — Suelta el tambor al espacio
+### 2-2. YOSHIMIO（BOREDOMS / OOIOO）とYo2ro — ドラムを宇宙へ放つ
 
-Yoshimi Yokota = YOSHIMIO es uno de los bateristas más libres del mundo.
-El conjunto de tambores gigantes de Boredoms ""77BOADRUM'' fue un ritual que sacudió la ciudad.
-Para ella, la batería no es sólo un instrumento de percusión, sino las "olas de la vida".
+Yoshimi Yokota＝YOSHIMIOは、世界で最も自由なドラマーのひとり。  
+Boredomsの巨大ドラム・アンサンブル「77BOADRUM」は、都市を揺らす儀式だった。  
+彼女にとってドラムは打楽器ではなく、“生命の波動”である。  
 
-Además, **Yo2ro** participa activamente en Boredoms y otros proyectos de música experimental.
-Al manipular libremente los aspectos verticales y horizontales del polirritmo, se hace eco del ritmo cósmico de YOSHIMIO.
-La trampa de Yo2ro tiene el poder de transformar el espacio cada vez que la golpean.
-Está atrayendo la atención como símbolo de los bateristas de vanguardia de Japón.
+さらに **Yo2ro** は、Boredomsやその他の実験音楽プロジェクトで活躍し、  
+ポリリズムの縦横を自在に操ることで、YOSHIMIOの宇宙的ビートと呼応する。  
+Yo2roのスネアは、叩くたびに空間を変形させる力を持ち、  
+日本のアヴァンギャルド・ドラマーの象徴的存在として注目されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qi2cIPsakcc?si=TobHq-o75YSzNPeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
-### 2-3. Rebeldes del rock después de Yuya Uchida: Tatsuya Nakamura, Junji Ikebata
+### 2-3. 内田裕也以降のロック反逆者たち：中村達也、池畑潤二
 
-Tatsuya Nakamura ha convertido el tambor en algo que es a la vez violencia y poesía.
-Más allá del contexto de "Kiyoshiro Imawano" y "Blankey Jet City",
-Un ser que encarna los gritos del cuerpo como sonido.
-Junji Ikebata toca la batería que traduce el blues al japonés.
-El palo tiene el estilo Showa y la rebeldía.
+中村達也はドラムを暴力でもあり詩でもあるものに変えた。  
+「忌野清志郎」や「Blankey Jet City」といった文脈を超え、  
+身体の叫びを音として具現化した存在。  
+池畑潤二は、**ブルースを日本語に翻訳したドラム**を叩く。  
+そのスティックには昭和の風と反骨がある。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BB2MY5i1nfg?si=fSxOh6-btME4UrzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
-### 2-4. Experimento y meditación: Tatsuhisa Yamamoto, Yasuhiro Yoshigaki, Hachito Matsumoto, Keiji Haino
+### 2-4. 実験と瞑想：山本達久、芳垣安洋、Hachito Matsumoto、灰野敬二
 
-Tatsuhisa Yamamoto (Akira Sakata, coprotagonista Jim O'Rourke) hace un sonido que suena como golpear el aire.
-Su ritmo visualiza el momento en que el tiempo se detiene.
-Yasuhiro Yoshigaki (ROVO, Orquesta Nudge! Nudge!) integra estructuras de música de club e improvisación.
-Hachito Matsumoto (ex-Paellas) resalta el sentimiento urbano de la era post-indie.
-Los golpes de Keiji Haino trascienden los límites del ruido, la improvisación y la oración.
-El tema de ambas obras es "impulso en silencio".
+山本達久（坂田明、ジム・オルークとの共演）は、空気そのものを叩くような音を出す。  
+そのリズムは、時間が止まる瞬間を可視化する。  
+芳垣安洋（ROVO, Orquesta Nudge! Nudge!）は、クラブミュージック的構造と即興を統合。  
+Hachito Matsumoto（ex-Paellas）は、ポスト・インディーズ時代の都市感覚を叩き出す。  
+灰野敬二は、ノイズ、即興、祈りの境界を超えた打撃を行う。  
+いずれも「沈黙の中の衝動」をテーマにしている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51qui7j7k08?si=0R8xrsQ-UsTp-_1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 --- 
 
-### 2-5. Flujo de nueva generación: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto, Yo2ro
+### 2-5. 新世代の流動：石若駿、Utena Kobayashi、坂本暁良、Yo2ro
 
-Shun Ishiwaka es un símbolo del Tokyo J-Jazz, pero también recorre libremente campos del pop como millennium parade y cero.
-Utena Kobayashi (polirritmia tipo midi negra + estructura tipo tambor japonés) trasciende género y género.
-Akira Sakamoto (DOWNY, MONO NO AWARE) pisa la línea entre la tranquilidad y la violencia.
-Y **Yo2ro**, basado en la experiencia cultivada en la música contemporánea y en proyectos de improvisación como Boredoms,
-La intersección del ritmo tradicional y la improvisación de vanguardia resuena en las ciudades modernas.
-Están reconstruyendo el "ritmo individual" = la gramática del mundo.
+石若駿は東京J-Jazzの象徴だが、millennium paradeやceroなどポップ領域も自在に横断する。  
+Utena Kobayashi（ブラックミディ的ポリリズム＋和太鼓的構造）は、ジェンダーとジャンルを超える存在。  
+坂本暁良（DOWNY, MONO NO AWARE）は、静謐さと暴力の境界線を叩く。  
+そして **Yo2ro** は、Boredomsを含む現代音楽・即興プロジェクトで培った経験を踏まえ、  
+伝統的リズムと前衛即興の接点を現代都市に響かせる。  
+彼らは**「個人のリズム」＝世界の文法**を再構築している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdog_9vBWUI?si=jHaSlJNjyx2UVOv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo 3: El futuro del ritmo: una nueva relación entre máquinas y cuerpos
+## 第3章：リズムの未来 — 機械と肉体の新しい関係
 
-Baterías AI, disparadores MIDI y dispositivos hápticos.
-El futuro de los instrumentos de percusión es también un intento de redefinir la fisicalidad humana.
-Sin embargo, por mucho que avance la tecnología,
-El origen del ritmo es la "respiración" y el "latido del corazón".
+AIドラム、MIDIトリガー、触覚デバイス。  
+打楽器の未来は、人間の身体性を再定義する試みでもある。  
+しかし、どれほどテクノロジーが進化しても、  
+リズムの原点は「息」と「心拍」にある。  
 
-Como dice Jeff Mills,
-"Las cajas de ritmos son el futuro del jazz".
-En sus shows en vivo, el TR-909 suena como un ser vivo.
-Y mientras Keiji Haino continúa,
-"El silencio es parte de la música."
+ジェフ・ミルズが言うように、  
+「ドラムマシンは未来のジャズだ」。  
+彼のライブでは、TR-909がまるで生物のように鳴動する。  
+そして灰野敬二が続けるように、  
+「沈黙こそ音楽の一部である」。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvElwZRbeZ0?si=GWCbBodMMCfhCSRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Capítulo final: Genealogía de los latidos del corazón: un ritmo que recorre el mundo y Japón
+## 終章：鼓動の系譜 — 世界と日本を貫く一本のリズム
 
-Los latidos del corazón del mundo y los latidos del corazón de Japón definitivamente se están cruzando en este momento.
-Un loft en Nueva York, un almacén en Berlín, un estudio en un sótano en Tokio.
-Los tambores siguen latiendo como el latido de un corazón por todas partes.
+世界の鼓動と日本の鼓動は、いま確実に交差している。  
+ニューヨークのロフト、ベルリンの倉庫、東京の地下スタジオ。  
+どこでもドラムは、心臓のように鳴り続けている。  
 
-"Soul Beat" de Art Blakey
-"Poema explosivo" de John Bonham
-La "explosión silenciosa" de Keiji Haino
-"El sonido de la respiración" de Tatsuhisa Yamamoto
-El ritmo cósmico de YOSHIMIO y Yo2ro.
+アート・ブレイキーの“魂の拍”、  
+ジョン・ボーナムの“爆音の詩”、  
+灰野敬二の“沈黙の爆発”、  
+山本達久の“呼吸の音”、  
+YOSHIMIOとYo2roの宇宙的ビート。  
 
-A primera vista parecen mundos diferentes.
-Sin embargo, el ritmo que habita en el corazón de los oyentes es el mismo.
-Es "el latido del corazón que conecta la superficie y el subsuelo"──
-Y es un recuerdo musical que perdurará en el futuro.
+それらは一見、異なる世界に思える。  
+だが、聴く者の胸に宿るリズムは同じだ。  
+それは「地上と地下をつなぐ鼓動」──  
+そして未来へと続く音楽の記憶である。
 
 ---
 
-### Discografía
+### ディスコグラフィー
 
-| Artista | Álbum | Año | Enlace |
-|--------------|------------|----|--------|
-| Art Blakey y los mensajeros del jazz | *Gimiendo* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
-| Elvin Jones | *En vivo en el Faro* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
-| Tony Allen | *Cocina casera* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
+| アーティスト | アルバム | 年 | リンク |
+|---------------|-----------|----|--------|
+| Art Blakey & The Jazz Messengers | *Moanin’* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
+| Elvin Jones | *Live at the Lighthouse* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
+| Tony Allen | *HomeCooking* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
 | John Bonham (Led Zeppelin) | *Led Zeppelin IV* | 1971 | [Amazon](https://amzn.to/4o06I87) |
-| Panadero de jengibre (crema) | *Ruedas de Fuego* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
-| Jeff Mills | *En vivo en Liquid Room, Tokio* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
-| Tony Williams | *Vida útil: ¡Emergencia!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
-| Shûichi Murakami "Ponta" | *Diseñador de ritmo* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
-| Motohiko Hino | *Solos y juntos* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
-| Tatsuya Yoshida (Ruinas) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
-| Keiji Haino | *¿Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
-| Tatsuhisa Yamamoto | *Oni Rojo* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
-| Yasuhiro Yoshigaki (ROVO) | *Pirámide* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
-| Manabu Sakata | *Uno* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
-| Jim O'Rourke × Tatsuhisa Yamamoto | *Canciones simples* | 2015 | [Amazon](https://amzn.to/4neChcR) |
-| Keiji Haino & Merzbow & Balázs Pándi | *Conviértete en el descubierto, no en el descubierto* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
+| Ginger Baker (Cream) | *Wheels of Fire* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
+| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
+| Tony Williams | *Lifetime: Emergency!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
+| 村上“ポンタ”秀一 | *Rhythm Designer* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
+| 日野元彦 | *Alone Together* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
+| 吉田達也 (Ruins) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
+| 灰野敬二 | *Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
+| 山本達久 | *Red Oni* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
+| 芳垣安洋 (ROVO) | *Pyramid* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
+| 坂田学 | *One* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
+| Jim O’Rourke × 山本達久 | *Simple Songs* | 2015 | [Amazon](https://amzn.to/4neChcR) |
+| Keiji Haino & Merzbow & Balázs Pándi | *Become the Discovered, Not the Discover* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
 
 
 ---
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-%% Cronología de los bateristas en el mundo y Japón (1900-2020)
+flowchart TD
+    %% 世界と日本のドラマー変遷タイムライン（1900〜2020年代）
 
-A1900["Década de 1900: Conceptos básicos de la cultura de la percusión/La víspera del jazz"]
-B1920["Década de 1920: El ascenso de Gene Krupa/El ascenso de la Big Band de Jazz"]
-C1930["Década de 1930: Era del swing/Ascenso de Buddy Rich"]
-D1960["Década de 1960: Ginger Baker (Cream), Rock Drum Revolution"]
-E1968["1968: Aparece John Bonham (Led Zeppelin)"]
-F1969["1969: ¡La emergencia de Tony Williams!"—Innovación del jazz moderno"]
-G1971["1971: Led Zeppelin IV - Estableciendo la cultura del solo de batería"]
-H1972["1972: Elvin Jones"En vivo en el faro""]
-I1974["1974: Formación de Kraftwerk (la germinación de los ritmos electrónicos)"]
-J1980["Década de 1980: Steve Gadd/El pináculo de los tambores de precisión"]
-K1981["1981: Keiji Haino - Vanguardia del ruido japonés"]
-L1983["1983: Han Bennink - baterista de vanguardia europeo"]
-M1989["1989: Formación de aburrimientos/Ascenso de Yoshimio"]
-N1993["1993: Tatsuya Yoshida (Ruinas) - Vanguardia japonesa"]
-O1994["1994: Shuichi Murakami "Ponta" "Diseñador de ritmos""]
-P2002["2002: "HomeCooking"/Revolución Afrobeat" de Tony Allen"]
-Q2005["2005: Yasuhiro Yoshigaki (ROVO) 'Pirámide'"]
-R2009["2009: Yo2ro — Proyecto de música experimental"]
-T2010["2010: Tatsuhisa Yamamoto "Oni rojo""]
-T2015["2015: Jim O'Rourke × Tatsuhisa Yamamoto "Canciones simples""]
-U2016["2016: Manabu Sakata 'Uno'"]
-V2019["2019: Colaboración de Keiji Haino × Merzbow × Balázs Pándi"]
-W2020["Década de 2020: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto - Baterías de nueva generación activas"]
+    A1900["1900s: 打楽器文化の基礎／ジャズ前夜"]
+    B1920["1920s: ジーン・クルーパ登場／ジャズ・ビッグバンドの隆盛"]
+    C1930["1930s: スウィング期／バディ・リッチ台頭"]
+    D1960["1960s: ジンジャー・ベイカー（Cream）、ロックドラム革命"]
+    E1968["1968: ジョン・ボーナム（Led Zeppelin）登場"]
+    F1969["1969: Tony Williams『Emergency!』— モダンジャズ革新"]
+    G1971["1971: Led Zeppelin IV — ドラムソロ文化確立"]
+    H1972["1972: Elvin Jones『Live at the Lighthouse』"]
+    I1974["1974: Kraftwerk結成（電子リズムの萌芽）"]
+    J1980["1980s: Steve Gadd／精密ドラムの極致"]
+    K1981["1981: 灰野敬二 — 日本ノイズ・アヴァンギャルド"]
+    L1983["1983: Han Bennink — ヨーロッパ前衛ドラマー活躍"]
+    M1989["1989: Boredoms結成／Yoshimio台頭"]
+    N1993["1993: 吉田達也 (Ruins) — 日本アヴァンギャルド"]
+    O1994["1994: 村上“ポンタ”秀一『Rhythm Designer』"]
+    P2002["2002: Tony Allen『HomeCooking』／アフロビート革命"]
+    Q2005["2005: 芳垣安洋 (ROVO)『Pyramid』"]
+    R2009["2009: Yo2ro — 実験音楽プロジェクト"]
+    S2010["2010: 山本達久『Red Oni』"]
+    T2015["2015: Jim O’Rourke × 山本達久『Simple Songs』"]
+    U2016["2016: 坂田学『One』"]
+    V2019["2019: 灰野敬二 × Merzbow × Balázs Pándi コラボ"]
+    W2020["2020s: 石若駿、Utena Kobayashi、坂本暁良 — 新世代ドラマー活躍"]
 
-%% Conecta series de tiempo con flechas
-A1900 --> B1920 --> C1930 --> D1960 --> E1968 --> F1969 --> G1971 --> H1972 --> I1974 --> J1980
-J1980 --> K1981 --> L1983 --> M1989 --> N1993 --> O1994 --> P2002 --> Q2005 --> R2009
-R2009 --> S2010 --> T2015 --> U2016 --> V2019 --> W2020
+    %% 矢印で時系列をつなぐ
+    A1900 --> B1920 --> C1930 --> D1960 --> E1968 --> F1969 --> G1971 --> H1972 --> I1974 --> J1980
+    J1980 --> K1981 --> L1983 --> M1989 --> N1993 --> O1994 --> P2002 --> Q2005 --> R2009
+    R2009 --> S2010 --> T2015 --> U2016 --> V2019 --> W2020
 
 
 </div>

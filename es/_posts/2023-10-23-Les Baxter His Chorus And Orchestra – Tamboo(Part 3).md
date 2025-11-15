@@ -9,15 +9,15 @@ tags:
 - Jazz
 - Space-Age
 - 7inch
-title: Les Baxter, su coro y orquesta - Tamboo (Parte 3)
+title: Les Baxter His Chorus And Orchestra – Tamboo(Part 3)
 ---
 
 
-Esta canción de Les Baxter y su coro y orquesta aparece en el álbum Tamboo!, lanzado en 1956. Les Baxter es conocido por su estilo musical único, exótico y sensual, y su trabajo fue pionero en géneros como el pop exótico y la era espacial.
+レス・バクスターと彼の合唱団、オーケストラによるこの曲は、1956年にリリースされたアルバム「Tamboo!」に収録されています。レス・バクスターは、独自のエキゾチックで官能的な音楽スタイルで知られ、その作品はエキゾチカやスペースエイジ・ポップといったジャンルの先駆的なものとなりました。
 
-"Tamboo! (Parte 3)" es una canción caracterizada por el arreglo y la orquestación únicos de Baxter, y ha sido muy elogiada en los campos de la banda sonora y la música lounge. La canción resume los elementos típicos de la música de Baxter, incluidos los ritmos caribeños y el uso de instrumentos exóticos.
+「Tamboo! (Part 3)」は、バクスターの独特なアレンジとオーケストレーションが特徴の楽曲で、サウンドトラックやラウンジミュージックの分野で高く評価されています。この楽曲は、カリビアンのリズムやエキゾチックな楽器の使用など、バクスターの音楽に特有の要素が凝縮されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Pantan
 
@@ -28,7 +28,7 @@ B1. Mozambique
 B2. Wotuka
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve8Hbpq1q7Y?si=g6OKtLVt4GENwqUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

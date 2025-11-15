@@ -8,22 +8,22 @@ layout: post
 tags:
 - Trance
 - 00s
-title: Fábula – Cuando se ha ido (No hay sol)
+title: Fable – When He's Gone (Ain't No Sunshine)
 ---
 
 
-Gez Dewar, también conocido como Fable, es un productor de música y televisión del Reino Unido. También conocido como Heliotrópico, una unidad con Nick Hale.
+Fable ことGez Dewarは、イギリス出身の音楽/TVプロデューサー。Nick HaleとのユニットHeliotropicとしても知られている。
 
-Lanzado en 2000 por el sello discográfico 3 Beat Music Ltd, con sede en el Reino Unido, "When He"s Gone" es una pista de trance que muestra "Ain"t No Sunshine" de Bill Withers y cuenta con la voz de Carolyn Harding, quien comenzó su carrera como vocalista house en la escena Paradise Garage de principios de los 80.
+UKを拠点とするレコードレーベル3 Beat Music Ltdから2000年にリリースされた「When He's Gone」は、ビル・ウィザースの「Ain't No Sunshine」をサンプリングし、80年代初期のパラダイスガレージシーンでハウスボーカルとしてキャリアをスタートしたCarolyn Harding（キャロライン・ハーディング）をボーカルに迎えたトランストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. When He's Gone (Ain't No Sunshine) (Sun Mix)
 
 B. When He's Gone (Ain't No Sunshine) (Moon Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84451334010?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84451334010?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hobT5ex3eZY?si=IV0KzifuyA8SFYA3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

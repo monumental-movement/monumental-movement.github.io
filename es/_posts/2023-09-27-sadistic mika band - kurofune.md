@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - Psychedelic
-title: Banda Sádica Mika – Kurofune
+title: Sadistic Mika Band – Kurofune
 ---
 
 
-"Sadistic Mika Band" es una banda de rock japonesa que estuvo activa en la década de 1970, y "Kurofune" es el segundo álbum de Sadistic Mika Band, lanzado en 1974.
+「サディスティック・ミカ・バンド」は、1970年代に活躍した日本のロックバンドであり、「黒船」は、1974年にリリースされたサディスティック・ミカ・バンドの2ndアルバムです。
 
-Con la melodía pop única de Sadistic Mika Band, tuvo una gran influencia en los jóvenes de la época y es ampliamente conocida como una obra maestra en la escena del rock japonés.
+サディスティック・ミカ・バンド独特のポップなメロディが特徴で、当時の若者たちに大きな影響を与え、日本のロックシーンにおける名曲として広く知られています。
 
-La música de Sadistic Mika Band sigue siendo amada por mucha gente hoy en día y se considera una presencia importante que marcó los primeros días del rock japonés.
+サディスティック・ミカ・バンドの音楽は今でも多くの人々に愛され続けており、日本のロックの黎明期を彩る重要な存在として評価されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1.墨絵の国へ
 
@@ -45,7 +45,7 @@ La música de Sadistic Mika Band sigue siendo amada por mucha gente hoy en día 
 12.さようなら
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp7q6fis2jE?si=25sM1DajIme4as0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

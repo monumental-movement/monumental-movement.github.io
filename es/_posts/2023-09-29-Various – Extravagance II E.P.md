@@ -8,15 +8,15 @@ layout: post
 tags:
 - Techno
 - Hardcore Techno
-title: Varios – Extravagancia II E.P
+title: Various – Extravagance II E.P
 ---
 
 
-"Adrenalin" y "I Think I Want Some More" son canciones de 1992 y son temas atemporales.
+「Adrenalin」と「I Think I Want Some More」は、1992年からの楽曲で、タイムレスなトラックです。
 
-Las pistas de este EP también aparecieron en el programa History of Rave de Basement Phil.
+このEPのトラックはBasement PhilのHistory of Rave番組でも取り上げられていました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Jargon–Adrenalin
 
@@ -27,7 +27,7 @@ B1. The Coma Kid–1000 Feet
 B2. Ray Vee–R.V. Theme
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m30325030920?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30325030920?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKr7m4PPcRw?si=XORIla2XgPodMSOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

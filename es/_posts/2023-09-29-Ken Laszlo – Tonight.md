@@ -9,17 +9,17 @@ tags:
 - Italo
 - Disco
 - Rare
-title: Ken Laszlo - Esta noche
+title: Ken Laszlo – Tonight
 ---
 
 
-"Ken Laszlo - Tonight" es una canción lanzada en 1985 por el artista italiano de discoteca italo Ken Laszlo.
+「Ken Laszlo - Tonight」は、イタリアのイタロディスコアーティスト、ケン・ラズロ（Ken Laszlo）の1985年リリースの楽曲です。
 
-Ken Laszlo fue un artista activo en el movimiento Italo Disco y "Tonight" es considerada una de sus obras maestras.
+ケン・ラズロは、イタロディスコムーブメントの中で活躍したアーティストであり、「Tonight」は彼の代表作の一つとされています。
 
-"Tonight" es una canción disco pop que presenta un ritmo bailable, una melodía pegadiza y voces enérgicas, y su sonido sofisticado y su estribillo pegadizo la hicieron popular en la escena disco de la época.
+「Tonight」は、ダンサブルなビート、キャッチーなメロディ、エネルギッシュなボーカルが特徴のディスコ・ポップ曲で、洗練されたサウンドとキャッチーなリフレインは、当時のディスコシーンで人気を集めました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Tonight (Factory Team Edit)
 
@@ -30,7 +30,7 @@ B1. Tonight (Club Mix)
 B2. Me And You
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m16945300429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16945300429?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/362IGtdem5Y?si=IrAt7FHbHCsigofz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

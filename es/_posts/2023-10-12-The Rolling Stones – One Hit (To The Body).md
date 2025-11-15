@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - Pops
-title: Los Rolling Stones – Un Golpe (Al Cuerpo)
+title: The Rolling Stones – One Hit (To The Body)
 ---
 
 
-"One Hit (To The Body)" es un sencillo del álbum "Dirty Work" lanzado en 1986. Letra y música de Mick Jagger, Keith Richards y Ron Wood. El solo de guitarra lo toca el ex miembro de Led Zeppelin, Jimmy Page.
+「One Hit (To The Body)」は、1986年リリースのアルバム「Dirty Work」からのシングルカット。作詞・作曲はミック・ジャガー、キース・リチャーズおよびロン・ウッド。ギターソロは元レッド・ツェッペリンのジミー・ペイジが弾いている。
 
-"One Hit (To The Body)" presenta un enérgico riff de guitarra, la poderosa voz de Mick Jagger y una melodía pegadiza, lo que lo convierte en un clásico para muchos fanáticos de la música rock.
+「One Hit (To The Body)」は、エネルギッシュなギターリフ、ミック・ジャガー（Mick Jagger）の力強いヴォーカルが特徴で、そしてキャッチーなメロディは、多くのロックミュージックのファンにとってクラシックな作品となっている。
 
-El A-side London Mix es un remix de Steve Lillywhite, quien fue el encargado de producirlo.
+A面のLondon Mix（ロンドン・ミックス）は、プロデュースを担当したスティーヴ・リリーホワイトによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. One Hit (To The Body) (London Mix)
 
@@ -27,5 +27,5 @@ B1. One Hit (To The Body) (Edit)
 B2. Fight
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m20361056204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20361056204?afid=6142608987){: .button1}
 

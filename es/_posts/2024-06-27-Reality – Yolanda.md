@@ -9,17 +9,17 @@ tags:
 - House
 - NY House
 - 90s
-title: Realidad – Yolanda
+title: Reality – Yolanda
 ---
 
 
-Reality es un trío house moderno cuya voz es el primo de Afrika Bambaataa, Kool Rock Steady, también conocido como Edward Rudolph.
+Realityは、アフリカ・バンバータの従兄弟Kool Rock Steady（クール・ロック・ステディ）ことEdward Rudolph（エドワード・ルドルフ）がボーカルを務めるヒップハウストリオ。
 
-"Yolanda", lanzado en 1993 con el sello house Strictly Rhythm, es un tema house que se convirtió en un gran éxito en todo el mundo.
+1993年にハウスレーベルStrictly Rhythmからリリースされた「Yolanda」は世界的大ヒットとなったハウストラック。
 
-El lado A es una mezcla del DJ de hard house Bad Boy Bill. La cara B es un remix de Erick Morillo, también conocido como Reel 2 Real.
+A面は、ハードハウス DJ  Bad Boy Billによるmix。B面はReel 2 Real名義でも有名なErick Morilloによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Bill Side
 A1. Yolanda (Club Mix)
@@ -32,7 +32,7 @@ B2. Yolanda (Erick "More" Dub)
 B3. Yolanda ("More's" Radio Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44250620277?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44250620277?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ByGaBFNmOhQ?si=xrY8rteb07ulWQjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

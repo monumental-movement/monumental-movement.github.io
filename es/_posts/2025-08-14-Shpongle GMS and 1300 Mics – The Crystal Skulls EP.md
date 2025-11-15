@@ -9,25 +9,25 @@ tags:
 - Psy-Trance
 - Trance
 - 90s
-title: Shpongle GMS y 1300 Mics – El EP Crystal Skulls
+title: Shpongle GMS & 1300 Mics – The Crystal Skulls EP
 ---
 
 
-Shpongle es un proyecto de música electrónica psicodélica de Simon Posford (Hallucinogen) y Raja Ram, activo desde 1996. Su estilo es una fusión de trance psicodélico/ambient/música mundial.
+Shpongle (シュポングル)は、1996年から活動するSimon Posford(Hallucinogen／ハルシノゲン)とRaja Ram(ラジャラム)によるサイケデリックエレクトロニックミュージックプロジェクト。サイケデリックトランス／アンビエント／ワールドミュージックが融合したスタイルが特徴。
 
-GMS es un dúo de trance psicodélico formado por Riktam (Shajahan Matkin) y Bansi (Josef Quinteros). Ha estado activo en todo el mundo desde principios de la década de 1990 y ganó el premio Psy-Trance en los DJ Awards en 2001 y 2009. Después de que Bansi falleciera en 2018, GMS se convirtió en el proyecto solista de Riktam.
+GMSは、Riktam(Shajahan Matkin)とBansi(Josef Quinteros)によるサイケデリックトランスデュオ。1990年代初頭からワールドワイドに活躍し、2001年と2009年のDJ AwardでPsy-Trance賞を受賞している。2018年にBansiが亡くなったあと、GMSはRiktamのソロプロジェクトとなった。
 
-Este disco es un disco de trance psicodélico lanzado en 2001 por el sello Psy-Trance británico de Raja Ram, TIP.World.
+このレコードは、Raja Ram主宰のUK Psy-TranceレーベルTIP.World から2001年にリリースされたサイケデリックトランス。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Shpongle – The Sixth Revelation
 
 B. GMS & 1300 Mics – The Fourth Revelation
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ENMP9DJI6Y?si=GPENtxHpDC_dxNQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

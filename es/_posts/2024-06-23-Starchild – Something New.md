@@ -9,22 +9,22 @@ tags:
 - Trance
 - UK Trance
 - 00s
-title: Starchild – Algo nuevo
+title: Starchild – Something New
 ---
 
 
-Starchild es un DJ y productor de trance también conocido como Alici y DJ Alici.
+Starchild は、 AliciやDJ Alici名義でも知られるトランスのDJ・プロデューサー。
 
-"Something New" es una pista de trance lanzada en 2002 por Conception Artist Management, un sello británico especializado en trance y house.
+「Something New」は、トランス・ハウスに特化したUKのレーベルConception Artist Managementから2002年にリリースされたトランストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A.Something New (Original Mix)
 
 B. Something New (Starchild's Way Out Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61647512421?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61647512421?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HR14JAiNuMM?si=VhZnZlMVRTS3c1LQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

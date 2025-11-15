@@ -13,11 +13,11 @@ title: Kasabian – Kasabian
 ---
 
 
-El primer álbum de Kasabian, una banda de rock alternativo/electro de Leicester, Inglaterra, lanzado en 2004. Kasabian se caracteriza por un sonido que combina rock electrónico.
+イギリス・レスター出身のオルタナティブ／エレクトロ ロックバンドKasabianが、2004年にリリースしたファーストアルバム。カサビアンは、ロックエレクトロニカを融合させたサウンドが特徴。
 
-Kasabian es considerada una de las bandas de rock más activas que surgieron de Gran Bretaña en el siglo XXI.
+カサビアンは、21世紀にイギリスから登場したロックバンドの中で、最も活躍しているバンドのひとつと評されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Club Foot
 2. Processed Beats
@@ -35,7 +35,7 @@ Kasabian es considerada una de las bandas de rock más activas que surgieron de 
 13.2. Reason Is Treason (Jacknife Lee Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ogrEX1oBav4?si=VOAXb195Nl1q4zRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

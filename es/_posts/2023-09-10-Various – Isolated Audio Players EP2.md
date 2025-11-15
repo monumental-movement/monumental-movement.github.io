@@ -9,21 +9,21 @@ tags:
 - Break Beat
 - IDM
 - Leftfield
-title: Varios – Reproductores de audio aislados EP2
+title: Various – Isolated Audio Players EP2
 ---
 
 
-Aislado Audio Players EP2 fue lanzado en 2001 por el excelente sello discográfico japonés PICKIN' MUSHROOM RECORDINGS.
+Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 
-Hay un parpadeo de Takayuki Shiraishi de Deep House. Esta pista también fue reproducida por DJ HIKARU y presenta un sonido y ritmo profundos.
+ディープハウスの白石隆之によるFlickerがあります。このトラックは、DJ HIKARUもプレイしており、深いサウンドとリズムが特徴です。
 
-Además, "Tennis" de JIN HIYAMA, que tiene un breakbeat eléctrico con una textura única, es atractivo por su sonido áspero y ritmo emocionante.
+また、エレクトリックなブレイクビーツに独自の質感を持たせたJIN HIYAMAによる "Tennis"は、ザラついたサウンドと刺激的なビートが魅力です。
 
-Y finalmente se incluye "Storm" de DOL-LOP, figura central de SOUND-CHANNEL, importante sello que contribuyó a la escena underground de Japón. Esta pista presenta un breakbeat único y genial, lo que le da una sensación japonesa única.
+そして最後に、日本のアンダーグラウンドシーンに貢献した重要なレーベル、SOUND-CHANNELの中心人物であるDOL-LOPによる "Storm" が収録されています。このトラックは、独自のクールなブレイクビートが特徴で、日本人らしい独創性が感じられます。
 
-Este EP ha sido aclamado como uno de los trabajos importantes de la escena musical japonesa. Podrás disfrutar de la esencia de la música underground de la época.
+このEPは、日本の音楽シーンにおいて重要な作品の一つとして、賞賛されています。当時のアンダーグラウンドな音楽のエッセンスを堪能できることでしょう。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Indopepsychics–D_P (Pt.2)
 
@@ -37,7 +37,7 @@ B1. Jin Hiyama–Tennis
 B2. Dol-lop–Storm
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-oDioCUZXeU?si=jOgBJmDUk1eHr7YH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

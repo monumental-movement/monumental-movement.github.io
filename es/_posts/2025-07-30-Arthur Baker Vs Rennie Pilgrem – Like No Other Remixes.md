@@ -10,24 +10,24 @@ tags:
 - Electro
 - Big Beat
 - 90s
-title: Arthur Baker Vs Rennie Pilgrem – Como ningún otro (Remixes)
+title: Arthur Baker Vs Rennie Pilgrem – Like No Other (Remixes)
 ---
 
 
-Arthur Baker es un pionero del Hip Hop y Electro conocido por sus colaboraciones con Afrika Bambaataa, Planet Patrol y New Order.
+Arthur Baker は、Afrika BambaataaやPlanet Patrol、New Orderとのコラボレーションで知られるHipHopとElectroの先駆者。
 
-Rennie Pilgrem es una figura clave en la escena breakbeat y Nu skool del Reino Unido. A principios de la década de 1990, era miembro del grupo productor británico de breakbeat Rhythm Sección.
+Rennie Pilgremは、UKブレイクビーツ& Nu skool breaksシーンの重要人物。1990年代初頭はUKハードコアブレイクビートプロデューサー集団Rhythm Sectionの一員として活躍した。
 
-Este disco es un remix del sencillo "Like No Other" de Arthur Baker y Rennie Pilgrem, una pista de Breaks/Electro/Big Beat lanzada en 1999 en el propio sello de Rennie Pilgrem, Thursday Club Recordings (TCR).
+このレコードは、Arthur BakerとRennie Pilgremによるシングル「Like No Other」のリミックス版で、Rennie Pilgrem自身が運営するレーベルThursday Club Recordings (TCR)から1999年にリリースしたBreaks・Electro・Big Beatトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Like No Other (Rennie Pilgrem Mix Pt 1)
 
 B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m55195821890?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55195821890?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pro291Ujs4Y?si=9VpUkriaSso19Ody" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

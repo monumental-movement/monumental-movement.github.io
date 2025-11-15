@@ -8,13 +8,13 @@ layout: post
 tags:
 - Techno
 - Acid
-title: PNAU – Fresas Silvestres EP
+title: PNAU – Wild Strawberries EP
 ---
 
 
-PNAU es un grupo australiano de música electrónica de baile formado por Nick Littlemore y Peter Mayes.
+PNAU（プナウ）は、Nick Littlemore（ニック・リトルモア）、Peter Mayes（ピーター・メイズ）によるオーストラリアのエレクトロニックダンスミュージックグループ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Wild Strawberries [Extended Mix]
 
@@ -23,7 +23,7 @@ B1. No More Violence [Extended Mix]
 B2. We Have Tomorrow [Extended Mix]
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56119602273?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nd58wUq0gsM?si=fdf4f5_12M3JoS6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

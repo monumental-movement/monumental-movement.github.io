@@ -8,17 +8,17 @@ layout: post
 tags:
 - Rock
 - 70s
-title: Elvis – Aloha desde Hawaii vía satélite
+title: Elvis – Aloha From Hawaii Via Satellite
 ---
 
 
-Álbum en vivo de Elvis Presley en Hawaii de 1973: compilación original de Japón.
+Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
 
-Grabado en vivo a las 00:30 horas del domingo 14 de enero de 1973 en el Centro Internacional de Honolulu.
+録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
 
-Este álbum es un álbum recopilatorio específico de Japón que se lanzó rápidamente después de que se emitió el especial de televisión.
+このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -69,7 +69,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

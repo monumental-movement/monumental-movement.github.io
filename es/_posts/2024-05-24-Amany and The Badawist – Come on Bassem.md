@@ -10,20 +10,20 @@ tags:
 - Egypt
 - African
 - Lebanon
-title: Amany & The Badawist – Vamos, Bassem
+title: Amany & The Badawist – Come on, Bassem
 ---
 
 
-"Vamos, Bassem" es una cinta de casete publicada por el sello libanés Badawist Phone.
-Angel Nabil Ayyoub, también conocido como Amany, es un bailarín y coreógrafo del Líbano.
+「Come on, Bassem」は、レバノンのレーベルBadawist Phoneからリリースされたカセットテープ。
+Amany（アマニ）ことAngel Nabil Ayyoubは、レバノン出身のダンサー兼振付師。
 
-Productor – Nazih Dia
+プロデューサー – Nazih Dia
 
-Voz - Maan Al-Amir
+ヴォーカル– Maan Al-Amir
 
-Arreglo - Bassem Yazbek
+アレンジーBassem Yazbek
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1.  بدويست 
 Budweit
@@ -44,4 +44,4 @@ B3. يللا يا باسم
 Come on, Bassem
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}

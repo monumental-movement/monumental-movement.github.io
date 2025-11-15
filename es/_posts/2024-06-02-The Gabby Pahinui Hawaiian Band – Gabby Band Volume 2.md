@@ -10,15 +10,15 @@ tags:
 - Tribal
 - 70s
 - Rare
-title: La banda hawaiana Gabby Pahinui - Gabby Band Volumen 2
+title: The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2
 ---
 
 
-"Gabby Band Volume 2" es el cuarto álbum lanzado en 1977 por Gabby Pahinui, una guitarrista y vocalista que representa la música hawaiana y una figura central en el Renacimiento hawaiano de la década de 1970, con la banda conocida como Gabby Band desde 1972.
+「Gabby Band Volume 2」は、1970年代のハワイアンルネッサンスの中心人物であり、ハワイアンミュージックを代表するスラックキーギタリスト＆ボーカリストGabby Pahinui（ギャビー・パヒヌイ）が、72年からGabby Band（ギャビーバンド）として知られたバンドで1977年にリリースした4枚目のアルバム。
 
-Gabby Pahinui fue incluida en el Salón de la Fama de la Música Hawaiana en 2002.
+ギャビーパヒヌイは、2002年にハワイアンミュージックの殿堂入りを果たしている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Po Mahina
 A2. Waikiki Hula
@@ -32,7 +32,7 @@ B3. Kilakila'o Moanalua
 B4. No Ke Ano Ahiahi
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54779948178?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jP85P5gCXlE?si=0x8zozCk6iTQ7Ts9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

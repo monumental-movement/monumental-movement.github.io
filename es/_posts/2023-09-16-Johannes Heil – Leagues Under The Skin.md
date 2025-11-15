@@ -8,16 +8,16 @@ layout: post
 tags:
 - Techno
 - German Techno
-title: Johannes Heil – Ligas bajo la piel
+title: Johannes Heil – Leagues Under The Skin
 ---
 
 
-La música de Johannes Heil se caracteriza por una atmósfera oscura y emocional, ritmos potentes y un diseño de sonido único.
+ヨハネス・ハイルの音楽は、ダークでエモーショナルな雰囲気&力強いビートと独特なサウンドデザインが特徴です。
 
-Sus temas son muy aclamados en la escena de la música techno y underground, y son conocidos por su estilo de sonido y energía únicos.
+彼のトラックはテクノミュージックシーンやアンダーグラウンドシーンで高い評価を受けており、その独自のサウンドスタイルとエネルギーが魅力とされています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  20.000 Leagues Under The Skin Pt.04
 
@@ -38,7 +38,7 @@ D1  20.000 Leagues Under The Skin Pt.10
 D2  20.000 Leagues Under The Skin Pt.01
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b578n6nGPTw?si=FLBzLF9JjEySdQBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

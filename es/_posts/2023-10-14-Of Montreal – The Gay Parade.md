@@ -8,13 +8,13 @@ layout: post
 tags:
 - Rock
 - Psychedelic
-title: De Montreal – El Desfile Gay
+title: Of Montreal – The Gay Parade
 ---
 
 
-of Montreal es una banda de rock estadounidense formada en Georgia en 1996, dirigida por Kevin Burns.
+of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Old Familiar Way
 2. Fun Loving Nun
@@ -32,7 +32,7 @@ of Montreal es una banda de rock estadounidense formada en Georgia en 1996, diri
 14. A Man's Life Flashing Before His Eyes While He And His Wife Drive Off A Cliff Into The Oceanなど
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4aLrkrnLNc?si=8w34sKNKY0yy2kN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

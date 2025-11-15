@@ -8,20 +8,20 @@ layout: post
 tags:
 - Break Beat
 - Techno
-title: Bill y Ben – 10 de Funk
+title: Bill & Ben – 10 Of Funk
 ---
 
 
-"10" Of Funk de Bill & Ben está lleno de elementos musicales funk: ritmos rítmicos, líneas de bajo pesadas, síncopa y una sección de viento conmovedora.
+Bill & Benの「10" Of Funk」は、リズミカルなビート、重いベースライン、シンコペーション、そして魂を揺さぶるホーンセクションなどファンクミュージックの要素が詰まった作品です。
 
-Disfruta del sonido funky y entretenido de Bill & Ben, que incluye ritmos potentes, riffs únicos y ritmos maravillosos que emocionarán a la pista de baile.
+ダンスフロアを沸かせるためのパワフルなビート、ユニークなリフ、グルーヴィなリズムなどBill & Benのファンキーでエンターテイニングなサウンドを堪能できます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 10" Of Funk
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76971851665?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76971851665?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LOk7poXXquI?si=1Jx5CFv1ESSnVI5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

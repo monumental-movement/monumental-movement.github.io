@@ -10,185 +10,184 @@ tags:
 - Experimental
 - 90s
 - 00s
-title: '[Columna] La trayectoria del rock underground y el ruido japonés desde los
-  años 90 hasta los 2000'
+title: 【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡
 ---
 
 
-## La intersección del rock underground japonés y el ruido de los años 90 a los 2000.
+## 90年代〜2000年代の日本アンダーグラウンド・ロックとノイズの交差点
 
-Texto: mmr｜Tema: Atención mundial a la escena musical underground japonesa desde los años 1990 hasta los años 2000
+文：mmr｜テーマ：1990年代から2000年代の日本のアンダーグラウンド音楽シーンの世界的な注目
 
-Las décadas de 1990 y 2000 fueron el apogeo de la **música noise** y también sirvieron como encrucijada con el rock alternativo y el punk de vanguardia.
-En particular, artistas como Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
+1990年代から2000年代は、**ノイズ・ミュージック**の最盛期であると同時に、オルタナティブ・ロックやアヴァンギャルド・パンクとの交差点としても機能しました。  
+特に**灰野敬二、メルツバウ（Merzbow）、非常階段、Melt-Banana、Boredoms、暴力温泉芸者**といったアーティストは、既存の音楽ジャンルを破壊し、新たな表現領域を切り開きました。
 
 ---
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### locura clandestina japonesa
+### 日本アンダーグラウンドの熱狂
 
-[**Fushitsusha**](https://amzn.to/4mBoM6K) liderado por Keiji Haino, [**Merzbow**](https://amzn.to/46qEmxw) de Masami Akita, [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Grupos como //amzn.to/3IsJjwx) y [Violence Onsen Geisha](https://amzn.to/4gJWXbk) rompieron los límites del rock y el punk convencionales, creando un mundo sonoro que combinaba ruido y espíritu experimental.
+灰野敬二率いる [**Fushitsusha**](https://amzn.to/4mBoM6K)、秋田昌美の [**Merzbow**](https://amzn.to/46qEmxw)、山塚アイと山本精一の[BOREDOMS](https://amzn.to/4nKFfGO)、[インキャパシタンツ](https://amzn.to/3IsJjwx)や[暴力温泉芸者](https://amzn.to/4gJWXbk)といったグループは、従来のロックやパンクの枠を破壊し、ノイズと実験精神を融合させた音世界を築きました。
 
-Este período también vio el surgimiento de sellos independientes, apariciones en festivales internacionales y una interacción acelerada con el underground estadounidense y europeo. Además, se desarrollaron actividades de vanguardia que influyeron en la producción de películas y bandas sonoras, así como en la posterior **generación de música con IA**.
-
----
-
-## Características de la escena
-
-- **Keiji Haino**: "Ritual del sonido" a través del feedback y la improvisación.
-- **Merzbau**: Al pasar de los equipos analógicos al ruido de los portátiles, refleja los derechos de los animales y el vegetarianismo.
-- **Bombero**: Una existencia que desdibuja la línea entre "banda de ruido" y "arte escénico".
-- **Boredoms**: Fusionando psicodélico y ruido, influyendo en la escena alternativa americana.
-- **Melt-Banana**: "Nano Core" combina la velocidad del hardcore y la textura del ruido.
+またこの時期は、インディーレーベルの台頭、国際的なフェス出演、アメリカやヨーロッパのアンダーグラウンドとの交流も加速。さらには映画やサウンドトラック制作、後年の **AI音楽生成** にまで影響を及ぼす先鋭的な活動が展開されました。
 
 ---
 
-## Características, cambios y anécdotas de cada banda
+## シーンの特徴
+
+- **灰野敬二**: フィードバックと即興演奏による「音の儀式」。  
+- **メルツバウ**: アナログ機材からラップトップ・ノイズへと移行しつつも、アニマルライツや菜食主義思想を反映。  
+- **非常階段**: 「ノイズ・バンド」と「パフォーマンス・アート」の境界を曖昧にした存在。  
+- **Boredoms**: サイケデリックとノイズを融合させ、米国オルタナシーンにも影響。  
+- **Melt-Banana**: ハードコアの速度感とノイズ的質感を組み合わせた「ナノ・コア」。  
+
+---
+
+## 各バンドの特徴・変遷・逸話
 
 
-### Keiji Haino
-- **Características**: Un "ritual de sonido" que aprovecha al máximo la guitarra, la voz y la retroalimentación. Un mundo sonoro centrado en la improvisación que puede calificarse de religioso o mágico.
-- **Cambio**: De trabajos en solitario en los años 1970 a estar activo en bandas como Fushitsusha desde los años 1990. Continuar explorando más allá del marco de la improvisación.
-- **Anécdota**: Se le conoce como el "chamán del sonido" porque cambia todas las cuerdas de su guitarra antes de un concierto y libera el sonido como en un ritual.
+### 灰野敬二
+- **特徴**: ギター、ヴォーカル、フィードバックを駆使した「音の儀式」。即興演奏を軸に、宗教的・呪術的とも形容される音世界。  
+- **変遷**: 1970年代のソロ作品から、90年代以降はFushitsushaなどバンド形態でも活動。即興演奏の枠組みを超えた持続的探求を続ける。  
+- **逸話**: ライブ前にギターの弦を全て張り替え、儀式のように音を放つことから「サウンドシャーマン」と呼ばれる。  
 
-| Álbum | Características | Enlaces |
+| アルバム | 特徴 | リンク |
 |----------|------|--------------|
-| *¿Watashi Dake?* (1981/Reedición 1998) | Obra maestra temprana. Voz solitaria cantando y expresión de ruido de guitarra | [Amazon](https://www.amazon.co.jp/s?k=Keiji Haino+Watashi+Dake) |
-| *Fushitsusha – Una muerte que nunca será completa* (1997) | Un mar de improvisación y retroalimentación abrumadora | [Amazon](https://www.amazon.co.jp/s?k=Fushitsusha+A+Death+Never+To+Be+Complete) |
+| *Watashi Dake?* (1981/再発1998) | 初期代表作。孤高の歌声とギターのノイズ的表現 | [Amazon](https://www.amazon.co.jp/s?k=灰野敬二+Watashi+Dake) |
+| *Fushitsusha – A Death Never To Be Complete* (1997) | 圧倒的即興演奏とフィードバックの海 | [Amazon](https://www.amazon.co.jp/s?k=Fushitsusha+A+Death+Never+To+Be+Complete) |
 
 ---
 
-### Merzbow
+### Merzbow（メルツバウ）
 
-- **Características**: Sinónimo de "música ruidosa". Del caótico rugido de los equipos analógicos, pasó a las computadoras portátiles a fines de la década de 1990.
-- **Cambios**: Aclamado internacionalmente con trabajos en cintas de casete de los años 80 y lanzamientos en CD de los años 90. En la década de 2000, incorporó a su música la "protección del medio ambiente" y los "derechos de los animales".
-- **Anécdota**: El álbum ""Pulse Demon" es llamado ""el álbum más imposible de escuchar" en el extranjero y se considera una pieza monumental de ruido.
+- **特徴**: 「ノイズ・ミュージック」の代名詞。アナログ機材のカオティックな轟音から、90年代後半以降はラップトップへ移行。  
+- **変遷**: 80年代はカセットテープ作品、90年代にCDリリースで国際的評価。2000年代には「環境保護」「アニマルライツ」を音に込める。  
+- **逸話**: アルバム『Pulse Demon』は海外で「最も聴き続けられないアルバム」と呼ばれつつ、ノイズの金字塔とされる。  
 
-| Álbum | Características | Enlaces |
+| アルバム | 特徴 | リンク |
 |----------|------|--------------|
-| *Venereología* (1994) | Ruido + elementos de death metal. Extremo Extremo | [Amazon](https://amzn.to/47YCwoH) |
-| *Pulso Demonio* (1996) | Una colección definitiva de ruido áspero. Una obra arrolladora con un sostenido rugido metálico | [Amazon](https://amzn.to/4gIXnyH) |
-| *Merzbeat* (2002) | Una fusión de ritmo 4/4 y ruido. Una obra única con aire de club | [Amazon](https://amzn.to/3W8fwMH) |
+| *Venereology* (1994) | ノイズ＋デスメタル的要素。エクストリームの極み | [Amazon](https://amzn.to/47YCwoH) |
+| *Pulse Demon* (1996) | ハーシュノイズの決定盤。金属的轟音が持続する圧倒的作 | [Amazon](https://amzn.to/4gIXnyH) |
+| *Merzbeat* (2002) | 4/4ビートとノイズを融合。クラブ的感覚を持つ異色作 | [Amazon](https://amzn.to/3W8fwMH) |
 
 ---
 
-### Escaleras de emergencia
+### 非常階段
 
-- **Características**: La primera "banda de ruido" del mundo. Además de sus actuaciones ruidosas, se hicieron legendarios por sus actuaciones extremas (lanzar comida, lanzar chispas, bailar desnudos).
-- **Cambios**: Iniciaron sus actividades en los años 80, y grabaron principalmente álbumes en vivo en los años 90. Desde la década de 2000 ha desarrollado actividades experimentales como coprotagonizar con ídolos.
-- **Anécdota**: El acto de "matar un pollo" durante una actuación en vivo provocó una gran discusión en los medios extranjeros y fue tratado como un escándalo social.
+- **特徴**: 世界初の「ノイズ・バンド」。ノイズ演奏に加えて過激なパフォーマンス（食品投げ、火花、裸の乱舞）で伝説化。  
+- **変遷**: 80年代に活動開始、90年代にはライブ・アルバム中心で記録される。2000年代以降はアイドルとの共演など実験的活動を展開。  
+- **逸話**: ライブで「鶏を解体する」といった行為が海外メディアで大きな議論を呼び、社会的スキャンダルとして扱われた。  
 
-| Álbum | Características | Enlaces |
+| アルバム | 特徴 | リンク |
 |----------|------|--------------|
-| *La extraña enfermedad de Zoroku* (1980) | Registros de ruido violento temprano | [Amazon](https://amzn.to/3ItXW2H) |
-| *Ruido Densetsu* (2014) | Participan todos los integrantes de Merzbau e Incapacitors, fuente de sonido de sesión con Hijikaido | [Amazon](https://amzn.to/3WbpsVI) |
+| *蔵六の奇病* (1980) | 初期の暴力的ノイズの記録 | [Amazon](https://amzn.to/3ItXW2H) |
+| *雑音伝説* (2014) | メルツバウ、インキャパシタンツのメンバーが全て参加し、非常階段とのセッション音源 | [Amazon](https://amzn.to/3WbpsVI) |
 
 ---
 
-### Aburrimientos
+### Boredoms（ボアダムス）
 
-- **Características**: Una fusión de ruido, psicodélico y hardcore. Una banda que combina arte y caos.
-- **Transition**: En sus inicios eran noise punk, pero en los 90 se volvieron más polirrítmicos y psicodélicos con ""Super æ" y ""Vision Creation Newsun".
-- **Anécdota**: "77 Boadrum" se celebró en Brooklyn, NY el 7 de julio de 2007. Un evento legendario que dirigirá a 77 bateristas.
+- **特徴**: ノイズとサイケデリック、ハードコアを融合。アート性とカオスを同居させたバンド。  
+- **変遷**: 初期はノイズ・パンク的、90年代に『Super æ』『Vision Creation Newsun』でポリリズムとサイケ志向へ。
+- **逸話**: 2007年7月7日にNYブルックリンで「77 Boadrum」を開催。77人のドラマーを指揮する伝説的イベント。  
 
-| Álbum | Características | Enlaces |
+| アルバム | 特徴 | リンク |
 |----------|------|--------------|
-| *Pop Tatari* (1991) | Una loca fusión de ruido y hardcore | [Amazon](https://amzn.to/3VCBLKA) |
-| *Superæ* (1998) | Una obra maestra polirrítmica psicodélica | [Amazon](https://amzn.to/3KotaZw) |
-| *Visión Creación Newsun* (1999) | Imagen sonora espiritual y psicodélica | [Amazon](https://amzn.to/46GYn1u) |
+| *Pop Tatari* (1991) | ノイズとハードコアの狂気的融合 | [Amazon](https://amzn.to/3VCBLKA) |
+| *Super æ* (1998) | サイケ・ポリリズム的な中期代表作 | [Amazon](https://amzn.to/3KotaZw) |
+| *Vision Creation Newsun* (1999) | スピリチュアルでサイケな音像 | [Amazon](https://amzn.to/46GYn1u) |
 
 ---
 
-### Derretir-plátano
+### Melt-Banana
 
-- **Características**: Hardcore + ruido súper rápido. La vocalista Yasuko O. se caracteriza por su linda y cortante voz.
-- **Cambios**: Formada a principios de los 90, expandida al extranjero con el apoyo de Steve Albini. En la década de 2000, el sonido cambió a un sonido más electrónico y estructural.
-- **Anécdota**: Recibieron excelentes críticas de John Zorn durante su gira por el extranjero y ganaron popularidad de culto como "la banda más rápida de Japón" en la escena alternativa estadounidense.
+- **特徴**: 超高速ハードコア＋ノイズ。ヴォーカルYasuko O.のキュートで切り裂くような声が特徴。  
+- **変遷**: 90年代初期に結成、Steve Albiniのサポートで海外進出。2000年代はより電子的で構造的なサウンドに変化。  
+- **逸話**: 海外ツアーでジョン・ゾーンに絶賛され、アメリカのオルタナシーンで「日本の最速バンド」としてカルト人気を獲得。  
 
-| Álbum | Características | Enlaces |
+| アルバム | 特徴 | リンク |
 |----------|------|--------------|
-| *Habla chirrido crujido* (1994) | Obra maestra temprana. Nanonúcleo de velocidad explosiva | [Amazonas](https://amzn.to/4pEjYR3) |
-| *Charlie* (1998) | Una obra maestra de mitad de época con una musicalidad bien estructurada y mejorada | [Amazon](https://amzn.to/4mBpEIy) |
-| *Cell-Scape* (2003) | Una nueva frontera que introduce elementos electro | [Amazon](https://amzn.to/4niEzbX) |
+| *Speak Squeak Creak* (1994) | 初期代表作。爆発的スピードのナノコア | [Amazon](https://amzn.to/4pEjYR3) |
+| *Charlie* (1998) | 構成が整い、楽曲性が増した中期の名盤 | [Amazon](https://amzn.to/4mBpEIy) |
+| *Cell-Scape* (2003) | エレクトロ要素を導入した新境地 | [Amazon](https://amzn.to/4niEzbX) |
 
 ---
 
-## Álbumes recomendados por generación
+## 年代別おすすめアルバム
 
-| Época | Artista/Álbum | Características | Enlaces |
-|------|--------------------------|------|---------|
-| 1991 | Aburrimientos – *Pop Tatari* | Una loca fusión de ruido y rock de vanguardia | [Amazon](https://amzn.to/3VCBLKA) |
-| 1994 | Melt-Banana – *Habla chirrido crujido* | Obra maestra temprana. Nano núcleo de velocidad explosiva | [Amazonas](https://amzn.to/4pEjYR3) |
-| 1996 | Merzbow – *Demonio de pulso* | El pináculo del ruido áspero. El trabajo más importante antes que los portátiles | [Amazon](https://amzn.to/4mxWPgd) |
-| 1998 | Keiji Haino – *¿Watashi Dake?* (Reedición) | Grabado en los años 70 pero reevaluado desde los años 90 | [Amazon](https://amzn.to/3KlCLjU) |
-| 2017 | Escalera de emergencia – *Destroy Noise Symphony* | Una colección de ruido de rendimiento | [Amazon](https://amzn.to/484Ulm8) |
+| 年代 | アーティスト / アルバム | 特徴 | リンク |
+|------|--------------------------|------|--------|
+| 1991 | Boredoms – *Pop Tatari* | アヴァンギャルド・ノイズとロックの狂気的融合 | [Amazon](https://amzn.to/3VCBLKA) |
+| 1994 | Melt-Banana – *Speak Squeak Creak* | 初期代表作。爆発的スピードのナノ・コア | [Amazon](https://amzn.to/4pEjYR3) |
+| 1996 | Merzbow – *Pulse Demon* | ハーシュノイズの頂点。ラップトップ以前の最重要作 | [Amazon](https://amzn.to/4mxWPgd)  |
+| 1998 | 灰野敬二 – *Watashi Dake?* (再発) | 70年代録音だが90年代以降に再評価 | [Amazon](https://amzn.to/3KlCLjU) |
+| 2017 | 非常階段 – *Destroy Noise Symphony* | パフォーマンス的ノイズの集大成 | [Amazon](https://amzn.to/484Ulm8) |
 
 ---
 
-### Diagrama de correlación de escenas
+### シーンの相関図
 
-<div class="sirena">
-diagrama de flujo TD
-A["Keiji Haino"] --> B["Improvisación/Comentarios"]
-C["Merzbow"] --> D["Ruido fuerte"]
-E["Escalera de emergencia"] --> F["Ruido x Rendimiento"]
-G["Aburrimientos"] --> H["Psic x Ruido"]
-I["Melt-Banana"] --> J["Hardcore x Ruido"]
-B --> Z["Subterráneo japonés de los años 90 y 2000"]
-D --> Z
-F -->Z
-H --> Z
-J --> Z
+<div class="mermaid">
+flowchart TD
+    A["灰野敬二"] --> B["即興 / フィードバック"]
+    C["Merzbow"] --> D["ハーシュノイズ"]
+    E["非常階段"] --> F["ノイズ×パフォーマンス"]
+    G["Boredoms"] --> H["サイケ×ノイズ"]
+    I["Melt-Banana"] --> J["ハードコア×ノイズ"]
+    B --> Z["90s-2000s 日本アンダーグラウンド"]
+    D --> Z
+    F --> Z
+    H --> Z
+    J --> Z
 </div>
 
 ---
 
-## Preguntas frecuentes: sobre la escena del ruido underground japonés
+## FAQ — 日本アンダーグラウンド・ノイズシーンについて
 
-**P1: ¿Cómo cambió el panorama entre los años 90 y 2000? **
+**Q1: 90年代と2000年代でシーンはどう変わった？**
 
-R1: La década de 1990 fue una época de explosión de experimentos innovadores, y la década de 2000 fue una época de reevaluaciones y reediciones desde el extranjero.
+A1: 90年代は革新的な実験が爆発した時期、2000年代は海外からの再評価とリイシューが進んだ時期です。
 
-**P2: ¿Qué obras recomendarías que escuchen los principiantes? **
+**Q2: 初心者が聴くならどの作品がおすすめ？**
 
-R2: Super æ de Boredoms y Merzbeat de Merzbow son relativamente fáciles de entender.
+A2: Boredoms『Super æ』やMerzbow『Merzbeat』は比較的入りやすい入門盤です。
 
-**P3: ¿Cómo se unieron el ruido y el rock? **
+**Q3: ノイズとロックはどう結びついた？**
 
-A3: Con la influencia de la psicodélica y el punk, ha nacido una nueva expresión que combina sonidos rugientes e improvisación.
+A3: サイケデリックやパンクの影響を背景に、轟音と即興を融合させた新しい表現が生まれました。
 
-**P4: ¿Cómo se relaciona con la producción de bandas sonoras y la generación de música con IA? **
+**Q4: サウンドトラック制作やAI音楽生成とどう関係する？**
 
-R4: El sonido experimental da una sensación única de tensión al trabajo en video y presenta una estructura que se puede aplicar a la investigación musical generada por IA.
-
----
-
-### resumen
-
-El rock y el ruido underground japonés desde los años 1990 hasta los años 2000 no fueron sólo un género musical, sino un campo de pruebas cultural. La actuación ceremonial de Keiji Haino, la evolución tecnológica de Merzbow, la actuación destructiva de Hijikadan, la sensación de conducción de Melt-Banana y la fusión de ruido psicodélico de Boredoms son expresiones únicas que permanecerán en la historia de la música mundial.
+A4: 実験的サウンドは映像作品に独自の緊張感を与え、AIの生成音楽研究にも応用可能な構造を提示しています。
 
 ---
 
-### Columnas relacionadas
+### まとめ
 
-🔗 [[Columna] Historia del rock japonés: la intersección de lo convencional y lo underground](https://monumental-movement.jp/Column-Japanese-Mainstream-Underground-Rock)
+90年代〜2000年代の日本アンダーグラウンド・ロックとノイズは、単なる音楽ジャンルではなく、文化的実験場でした。灰野敬二の儀式的演奏、Merzbowの機材的進化、非常階段の破壊的パフォーマンス、Melt-Bananaの疾走感、Boredomsのサイケ・ノイズ融合は、世界の音楽史に残る唯一無二の表現です。
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点](https://monumental-movement.jp/Column-Japanese-Mainstream-Underground-Rock)
 
 
-🔗 [[Columna] Historia y obras maestras de la Música Experimental: Desde sus orígenes hasta la actualidad](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 
 
-🔗 [[Columna] Música noise — Desde sus orígenes hasta la actualidad: antecedentes históricos, discos famosos y cambios de equipamiento](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)

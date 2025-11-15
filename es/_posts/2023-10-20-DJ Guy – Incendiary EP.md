@@ -8,13 +8,13 @@ layout: post
 tags:
 - Electro
 - Ghetto House
-title: DJ Guy – EP incendiario
+title: DJ Guy – Incendiary EP
 ---
 
 
-DJ Guy es un DJ, productor y propietario del sello Global Fire, que se especializa en Detroit booty y Chicago Ghetto House.
+DJ Guyは、ロンドンを拠点とする DJ 兼プロデューサーであり、Detroit booty（デトロイト・ブーティー）やChicago Ghetto House （シカゴゲットー ハウス）専門のGlobal Fireレーベルのオーナー。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Bucked Up
 
@@ -27,7 +27,7 @@ B1. The Runner
 B2. Big Pussy
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m63316031415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63316031415?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6whpy410kOw?si=Gu279jSiWY_dZ7bf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

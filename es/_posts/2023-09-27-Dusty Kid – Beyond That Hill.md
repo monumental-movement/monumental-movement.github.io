@@ -7,15 +7,15 @@ lang: es
 layout: post
 tags:
 - Techno
-title: Dusty Kid - Más allá de esa colina
+title: Dusty Kid – Beyond That Hill
 ---
 
 
-Dusty Kid es el alias de Paolo Alberto Lodde, un productor y DJ de música electrónica italiano.
+Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデューサー兼DJ、Paolo Alberto Lodde(パオロ・アル ベルト・ロッデ)の別名です。
 
-"Beyond That Hill" es un álbum lanzado por Dusty Kid en 2009. Líneas de bajo pulsantes, texturas atmosféricas y melodías complejas combinan gustos techno, house y progresivo para crear la visión del mundo única de Dusty Kid.
+「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Nora Nights
 
@@ -34,7 +34,7 @@ Dusty Kid es el alias de Paolo Alberto Lodde, un productor y DJ de música elect
 8. That Hug
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK3nJqRNKDg?si=AKpm-UjLwulEC8YV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

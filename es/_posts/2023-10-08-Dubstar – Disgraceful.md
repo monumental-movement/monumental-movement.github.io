@@ -7,16 +7,16 @@ lang: es
 layout: post
 tags:
 - Synth-Pop
-title: Dubstar - Vergonzoso
+title: Dubstar – Disgraceful
 ---
 
 
-Este es un álbum lanzado por la banda británica Dubstar en 1995. Fue su álbum debut, lanzado en octubre de 1995 por Food Records, una subsidiaria de EMI.
+1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
 
-El álbum incluye dos versiones de canciones. Una es "Not So Manic Now", una canción grabada originalmente por Brick Supply en su EP de 1994 "Somebody"s Intermezzo". La otra es "St. Swithin"s Day", una canción grabada originalmente por Billy Bragg en su álbum de 1984 "Brewing Up with Billy Bragg".
+アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Stars
 2. Anywhere
@@ -41,7 +41,7 @@ Bonus Tracks
 18. Not So Manic Now (Way Out West Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-XA7p8NiAQ?si=7MX8Mdz5dBGtT6CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

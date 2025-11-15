@@ -9,22 +9,22 @@ tags:
 - Progressive House
 - House
 - 00s
-title: Hamel y Blackwatch – Discotek
+title: Hamel & Blackwatch – Discotek
 ---
 
 
-Bill Hamel, también conocido como Hamel, es un productor de discos y remezclador conocido como miembro fundador del grupo de trance estadounidense Fatum. Ha sido nominado a un premio Grammy por su trabajo de remezclas. Michael Thomas, también conocido como Blackwatch, es un productor de house progresivo.
+HamelことBill Hamel(ビル・ハメル）は、USのトランスグループFatumの創設メンバーで知られるレコードプロデューサー&リミキサー。手がけたリミックス作品でグラミー賞にノミネートされている。Blackwatch(ブラックウォッチ)ことMichael Thomasは、プログレッシブハウスのプロデューサー。
 
-"Discotek", coescrita por Hamel y Blackwatch, es una canción de Progressive House lanzada por el sello británico Bedrock en 2001.
+Hamel と Blackwatch の共作「Discotek」は、2001年にUKのレーベルBedrockからリリースされたProgressive Houseトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Discotek (Original Mix)
 
 B. Discotek (The 6.00am DT Vinyl Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44392567316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44392567316?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JPCzFxtYXF8?si=8mrelbTCKuo7KDWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

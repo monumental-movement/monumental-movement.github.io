@@ -11,15 +11,15 @@ tags:
 - Blues
 - 70s
 - Rare
-title: Ike y Tina Turner - El cazador
+title: Ike & Tina Turner – The Hunter
 ---
 
 
-Ike y Tina Turner fueron un dúo estadounidense de R&B/soul activo en las décadas de 1960 y 1970. Ha trabajado en una amplia gama de estilos musicales que incluyen rock, soul, blues, funk y funk rock.
+Ike & Tina Turner（アイク&ティナ・ターナー）は、1960年代から1970年代にかけて活躍したUSのR&B・ソウルデュオ。ロック、ソウル、ブルース、ファンク、ファンクロックなど幅広い音楽スタイルを手がけた。
 
-El álbum "The Hunter", lanzado en 1969, es uno de los álbumes más orientados al blues y cuenta con la participación del guitarrista de blues eléctrico Albert Collins. La canción principal "The Hunter" es una versión de Albert King. Esta canción le valió a Tina Turner su primera nominación en solitario en la categoría de Mejor interpretación vocal femenina de R&B en la 12.ª entrega anual de los premios Grammy.
+1969年にリリースしたアルバム「The Hunter」は、エレクトリックブルースギタリストのAlbert Collins（アルバートコリンズ）をフィーチャーした最もブルース志向の強いアルバムの1つ。タイトル曲「The Hunter」はAlbert King（アルバート・キング）のカバー。この曲でTina Turnerは第12回グラミー賞で最優秀R&B女性ボーカルパフォーマンス部門にソロとして初めてノミネートされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. The Hunter
 A2. You Don't Love Me
@@ -33,7 +33,7 @@ B4. You're Still My Baby
 B5. I Know
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0F5ypDEbuc?si=VThOXDu2r5MxR2zB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

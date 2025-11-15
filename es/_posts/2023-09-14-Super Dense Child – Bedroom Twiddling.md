@@ -9,15 +9,15 @@ tags:
 - Hiphop
 - Breaks
 - 10inch
-title: 'Niño súper denso: juegos en el dormitorio'
+title: Super Dense Child – Bedroom Twiddling
 ---
 
 
-Este es un CD de 10 pulgadas lanzado por Apeman Records de Londres en 1999.
+1999年にリリースされたロンドンのエイプマンレコーズの10インチです。
 
-"Super Dense Child" es un proyecto de Jimmy Randall y Nick Horsburgh.
+「Super Dense Child」は、Jimmy RandallとNic Horsburghによるプロジェクト。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Bedroom Twiddling (Part I)
 
@@ -25,7 +25,7 @@ A. Bedroom Twiddling (Part I)
 B. Bedroom Twiddling (Part II)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m41293882699?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41293882699?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bppe6ZroqFU?si=9cZutgb7A3QibVKW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

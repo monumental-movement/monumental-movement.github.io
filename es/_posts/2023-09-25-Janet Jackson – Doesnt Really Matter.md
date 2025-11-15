@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Pops
-title: Janet Jackson – Realmente no importa
+title: Janet Jackson – Doesn't Really Matter
 ---
 
 
-"Does't Really Matter" es una canción creada como banda sonora de la película "The Nutty Professor 2". La canción presenta un sonido pop dinámico y una melodía pegadiza, y se destaca la voz dinámica de Janet Jackson.
+「Doesn't Really Matter」は、映画『ナッティ・プロフェッサー2』のサウンドトラックとして制作された曲です。この曲は、アップテンポでポップなサウンドとキャッチーなメロディが特徴で、ジャネット・ジャクソンのダイナミックなヴォーカルが際立っています。
 
-La poderosa voz de Janet Jackson, combinada con el sonido rítmico y enérgico, crea una canción que brinda a los oyentes confianza y positividad.
+ジャネット・ジャクソンの力強い歌声と、リズミカルでエネルギッシュなサウンドが相まって、リスナーに自信と前向きな気持ちを与える曲となっています。
 
-"Does't Really Matter" rápidamente ganó popularidad tras su lanzamiento, alcanzando el número uno en la lista Billboard Hot 100. Fue nominada a un premio Grammy y se convirtió en una de las canciones más importantes de la carrera de Janet Jackson.
+「Doesn't Really Matter」はリリース後すぐに人気を博し、ビルボードHot 100チャートで1位を獲得。グラミー賞にもノミネートされジャネット・ジャクソンのキャリアにおいて重要な楽曲の一つとなりました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Doesn't Really Matter (Album Version)
 
@@ -29,7 +29,7 @@ B1. Doesn't Really Matter (Jonathan Peters Club Mix)
 B2. Doesn't Really Matter (Spensane Get Up Extended Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40056303541?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40056303541?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

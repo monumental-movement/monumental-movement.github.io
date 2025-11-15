@@ -8,24 +8,24 @@ layout: post
 tags:
 - House
 - Tech House
-title: Rejuvenecimiento de Slam – Eterna I.B.O.
+title: Slam  Rejuvination – Eterna  I.B.O.
 ---
 
 
-por Slam rejuvenecimiento
-"I.B.O." es una gran pista. Eterna y sus covers se conocen desde hace años y son buenas canciones, pero "I.B.O." Es una pista especial.
+Slam  Rejuvinationによる
+"I.B.O." は素晴らしいトラックです。Eternaとそのカバー曲は何年も前から知られており、それも良い曲ですが、"I.B.O." は格別のトラックです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Slam–Eterna
 
 AA. Rejuvination–I.B.O.
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6-fp_PqehKY?si=F49B1AKB317ovKav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CXI0kEk__Mw?si=tYEYTgCAj-BiO6lR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,13 +8,13 @@ layout: post
 tags:
 - Hiphop
 - 00s
-title: VA – Sincronicidad 2da Sesión
+title: VA – Synchronicity 2nd Session
 ---
 
 
-Un álbum recopilatorio de dos discos con artistas de hip-hop japoneses y estadounidenses, lanzado en 2000 por el sello japonés de hip-hop Future Shock.
+日本のHipHopレーベルFuture Shockから2000年にリリースされた日米ヒップホップアーティストが参加したコンピレーションアルバム2枚組。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Marley Marl – Intro
 A2. Dabo, Buckwild – 33:25 (Wussup Tokyo!?)
@@ -33,7 +33,7 @@ D2. T.A.K The Rhhhyme, 25 To Life – Nari-A-Gari
 D3. DJ Celory – Outro
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84885288691?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84885288691?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yvs1qp-5cBc?si=xGLd_Fr0msxtsYkr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

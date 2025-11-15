@@ -10,133 +10,132 @@ tags:
 - Experimental
 - 80s
 - 90s
-title: '[Columna] Escena musical experimental/ruido del Área de la Bahía: 50 años
-  de destrucción y resonancia'
+title: 【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史
 ---
 
 
-## ¿Qué pasó en el Área de la Bahía?
+## ベイエリアで何が起きたか？
 
-Texto: mmr｜Tema: La intersección de las máquinas, el collage y la improvisación: la historia y la discografía recomendada de música noise/experimental cultivada en el Área de la Bahía
+文：mmr｜テーマ：機械とコラージュ、即興の交差点──ベイエリアで育まれたノイズ／実験音楽の歴史とおすすめディスコグラフィ
 
 
 
-El Área de la Bahía, centrada alrededor de San Francisco y Oakland, es un campo de pruebas subcultural y ha proporcionado un "lugar para la producción real" único para la música ruidosa/experimental. Los escenarios y métodos son diversos, como el arte escénico que puso en primer plano el espíritu del bricolaje de las décadas de 1970 y 1980 y la violencia de las máquinas y el sonido (por ejemplo, Survival Research Laboratories), y grupos que llevaron la cultura del collage/sampleo de cintas a un nivel popular (por ejemplo, Negativland). Estas actividades dieron lugar a salas de conciertos, espacios artísticos, sellos discográficos independientes y de casete y, más tarde, a la cultura de los festivales.
+サンフランシスコとオークランドを中心とするベイエリアは、サブカルチャーの実験場であり、ノイズ／実験音楽にとって特異な「実作の場」を提供してきました。1970〜80年代のDIY精神、機械と音響の暴力性を前景化したパフォーマンス・アート（例：Survival Research Laboratories）や、テープコラージュ／サンプリング文化をポピュラーレベルに押し上げたグループ（例：Negativland）など、舞台も手法も多様です。これらの活動はライブハウスやアートスペース、カセット/インディーレーベル、そして後のフェスティバル文化へと接続していきます。
 
 ---
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## descripción general
+## 概要
 
-El Área de la Bahía de San Francisco ha sido un centro importante para la música noise/experimental desde finales de la década de 1970 hasta el presente.
-Rastrearemos la genealogía del ruido/música experimental cultivada localmente y explicaremos las principales personas/grupos, lugares/festivales y álbumes recomendados por año.
+サンフランシスコ湾岸（ベイエリア）は、1970年代末から現在に至るまで、ノイズ／実験音楽の重要な拠点でした。
+現地で育まれたノイズ／実験音楽の系譜を辿り、主要人物・団体、現場・フェス、年代別おすすめアルバムを解説します。
 
-<div class="sirena">
-diagrama de flujo TD
-A["1978: SRL (Mark Pauline)"] --> B["1980s: Negativland — Collage de cintas/experimento de radio"]
-B --> C["Década de 1990: auge del sistema indie/Bandcamp y expansión del ecosistema experimental"]
-C --> D["Década de 2000: Matmos — Evaluación internacional con énfasis en muestras/conceptos"]
-D --> E["Décadas 2010-2020: Maduración de la red regional de compilación/improvisación"]
+<div class="mermaid">
+flowchart TD
+    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — テープコラージュ／ラジオ実験"]
+    B --> C["1990s: インディ／Bandcamp系台頭・実験エコシステム拡大"]
+    C --> D["2000s: Matmos — サンプル／コンセプト重視で国際評価"]
+    D --> E["2010s-2020s: 地域コンピ／即興ネットワーク成熟"]
 </div>
 
 ---
 
-### Actores clave y ecología de campo
+### キー・プレイヤーと場の生態
 
-#### Laboratorios de Investigación de Supervivencia (SRL)
+#### Survival Research Laboratories（SRL）
 
-SRL, conocida por sus destructivas prestaciones mecánicas, fue fundada en 1978 por Marc Poulin. El espectáculo, que utilizó enormes equipos y sonidos de fuego, polvo y metal, presentó claramente la "visibilidad" y el "peligro" del ruido, y estableció el Área de la Bahía como un "campo de pruebas para el sonido y la maquinaria". Las actividades de SRL son elogiadas no sólo por expresar el ruido acústico, sino también por su perspectiva sobre la tecnología industrial.
+機械による破壊的パフォーマンスで知られるSRLは、1978年にマーク・ポーリンによって発足。巨大な装置と火・粉塵・金属音を用いたショーは、ノイズの“視覚性”と“危険性”を明確に提示し、ベイエリアを「音と機械の実験場」として確立しました。SRLの活動は音響的なノイズ表現のみならず、産業技術への眼差しとしても評価されています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Tierra negativa
+#### Negativland
 
-Un grupo activo en el área de San Francisco y conocido por sus trabajos críticos con los medios que utilizan muestreo/collage. Obras como Escape From Noise de finales de la década de 1980 fueron obras importantes que mostraron la intersección del ruido y la cultura pop, atrayendo controversia y atención a través de la radio DIY y técnicas de publicidad falsa.
+サンフランシスコ周辺で活動し、サンプリング／コラージュを用いたメディア批評的作品で知られる集団。1980年代後半の『Escape From Noise』などは、ノイズとポップカルチャーの接合点を示した重要作で、DIYラジオやフェイク広告的手法を通じて論争と注目を集めました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Matmos y derivación local
+#### Matmos とローカル派生
 
-Matmos se formó en San Francisco en la década de 1990 y obtuvo reconocimiento internacional por su trabajo conceptual que utiliza sampling. Desde la década de 2000, continúa liderando el "lado conceptual" de la música experimental, fortaleciendo sus conexiones con instituciones de arte y festivales de música contemporánea.
+Matmos は1990年代にサンフランシスコで結成され、サンプリングを用いたコンセプチュアルな作品で国際的に評価されました。2000年代以降も実験音楽の“コンセプチュアル側”を牽引し、アート機関や現代音楽系フェスとの接続を強めています。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Comunidad y el campo (Noise Pop, Bay Improviser, etc.)
+### コミュニティと現場（Noise Pop・Bay Improviser ほか）
 
-El Área de la Bahía es sede de festivales independientes como Noise Pop y comunidades de música improvisada/experimental como Bay Improviser, que son responsables de transmitir expresiones y lugares a las generaciones más jóvenes. Estas escenas circulan por el lugar de "live" y proporcionan una plataforma donde lo viejo y lo nuevo se cruzan.
+ベイエリアにはNoise Popのようなインディフェスや、Bay Improviser のような即興／実験音楽コミュニティが存在し、若い世代の表現と場の継承を担っています。これらは“ライブ”という場を通じてシーンを循環させ、新旧が交差するプラットフォームを提供します。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Actos principales
+### 主要アクト
 
-* [**Survival Research Laboratories (SRL)**](https://www.srl.org) — Rendimiento mecánico y estética de las fracturas. Una organización que desdibuja la línea entre el arte escénico y el ruido.
+* [**Survival Research Laboratories（SRL）**](https://www.srl.org) — 機械的パフォーマンスと破壊美学。パフォーマンス芸術とノイズの境界を曖昧にした組織。
 
-* [**Negativland**](https://negativland.com) — Un colectivo de collage sonoro de San Francisco. Conocido por su enfoque crítico con los medios en la década de 1990.
+* [**Negativland**](https://negativland.com) — サンフランシスコ発のサウンドコラージュ集団。90年代のメディア批評的アプローチで知られる。
 
-* [**Matmos**](https://amzn.to/43iSp60) — Un dúo que ha recibido reconocimiento internacional por sus trabajos sampleados/conceptuales. También estará conectado con museos de arte y música contemporánea.
+* [**Matmos**](https://amzn.to/43iSp60) — サンプリング／コンセプチュアルな作品で国際的評価を受けたデュオ。現代音楽や美術館とも接続する。
 
-* **Improvisación local/Red de ruido**: comunidades como Bay Improviser mantienen y actualizan el campo.
+* **ローカル即興／ノイズ・ネットワーク** — Bay Improviser のようなコミュニティが現場を維持・更新している。
 
 ---
 
-### Álbumes recomendados por generación
+### 年代別おすすめアルバム
 
-Las siguientes son las principales obras mencionadas en el texto principal.
+以下は、本文で挙げた主要作品
 
-| Artista / Obra | Año | Notas | Enlace |
+| アーティスト / 作品  | 年 | 備考   | リンク |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape del ruido* | 1987 | Una mezcla de collages de cintas y canciones cortas, una obra maestra | [Amazon](https://amzn.to/47akMEX) |
-| Matmos — *Una oportunidad de cortar es una oportunidad de curar* | 2001 | Trabajo conceptual utilizando sonidos médicos | [Amazon](https://amzn.to/48IJtKN) |
-| Matmos — *La Guerra Civil* | 2003 | Continuación de los experimentos conceptuales y de muestreo | [Amazon](https://amzn.to/4gKSuoA) |
-| Compilación del Área de la Bahía (edición regional) | Década de 2010 | Distribución principalmente local. Recomendado para obtener de Bandcamp o sellos locales | [Bahía Improvisador](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt - *Salta* | 2023 | Acústica experimental. Ejemplos representativos del trabajo de guitarra del Área de la Bahía |[Amazon](https://amzn.to/4o2jF0Q) |
+| Negativland — *Escape From Noise*  |  1987 | テープコラージュと短い楽曲の混在、代表作  | [Amazon](https://amzn.to/47akMEX) |
+| Matmos — *A Chance To Cut Is A Chance To Cure* |  2001 | 医療音を素材にしたコンセプト作  |  [Amazon](https://amzn.to/48IJtKN) | 
+| Matmos — *The Civil War*    |  2003 | コンセプトとサンプリング実験の継続    |  [Amazon](https://amzn.to/4gKSuoA) | 
+| Bay Area コンピ（地域編集盤）  | 2010s | ローカル流通が主。Bandcampや地元レーベルで入手推奨 |　[Bay Improviser](https://www.bayimproviser.com/cds.aspx)　|
+| Bill Orcutt — *Jump On It*   |  2023 | 実験的アコースティック。ベイエリア系ギターワークの代表例  |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 
 ---
 
-### Resumen (ahora/futuro)
+### まとめ（今／未来）
 
-La música ruidosa/experimental en el Área de la Bahía se actualiza constantemente como un acto no sólo de "destrucción" sino también de "reedición y crítica". El teatro mecánico de SRL, la crítica mediática de Negativland, la investigación del sonido de Matmos, todos han presentado prácticas que van más allá de la música. Actualmente, está progresando un híbrido de distribución digital y bricolaje local, y Bandcamp y los festivales locales están apoyando a los artistas jóvenes. Escuchar y participar en la escena es la mejor manera de entender esta escena.
+ベイエリアのノイズ／実験音楽は、「破壊する」だけでなく「再編集し、批評する」行為として常に更新を続けています。SRLの機械劇場、Negativlandのメディア批評、Matmosのサウンド・リサーチ──いずれも音楽を越えた実践を提示してきました。現在はデジタル配信とローカルDIYのハイブリッドが進み、Bandcampやローカルフェスが若手を支えています。現場で聴き・参加することが、このシーンを理解する最良の方法です。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Apéndice: Comunidades y eventos locales
+### 付録：現地コミュニティとイベント
 
-* [Bay Improviser](https://www.bayimproviser.com): una selección y un calendario para la comunidad improvisadora/experimental del Área de la Bahía, que incluye información de contacto de la administración e información de eventos mensuales.
-* [Noise Pop](https://www.noisepopfest.com): Festival anual en San Francisco. Proporciona oportunidades de exposición para actos locales independientes/experimentales.
+* [Bay Improviser](https://www.bayimproviser.com): ベイエリアの即興／実験コミュニティのキュレーションとカレンダー（運営の連絡先や月次イベント情報を掲載）。
+* [Noise Pop](https://www.noisepopfest.com): サンフランシスコの年次フェス。地元インディ／実験アクトの露出機会を提供。
 
 
 ---
 
-### Columnas relacionadas
+### 関連コラム
 
-🔗 [[Columna] Música noise — Desde sus orígenes hasta la actualidad: antecedentes históricos, discos famosos y cambios de equipamiento](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 [[Columna] Historia y obras maestras de la Música Experimental: Desde sus orígenes hasta la actualidad](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [[Columna] Altas marcas y música noise: la intersección del lujo y la acústica radical](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

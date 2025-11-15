@@ -9,13 +9,13 @@ tags:
 - Rock
 - Noise
 - 10inch
-title: 'Track Star: a veces, ¿cuál es la diferencia?'
+title: Track Star -Sometimes, What's The Difference
 ---
 
 
-Este es un disco de 10 pulgadas de Brian Girgus, Matthew Troy y la banda Track Star de Wyatt Cusick, lanzado en 1995 por Silver Girl Records de San Diego.
+1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Bad Time
 
@@ -36,7 +36,7 @@ B4  True Crime
 B5  Sucked Down
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

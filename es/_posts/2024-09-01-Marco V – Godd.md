@@ -9,17 +9,17 @@ tags:
 - Hard Trance
 - Tech Trance
 - 00s
-title: Marco V – Dios
+title: Marco V – Godd
 ---
 
 
-Marinus Verkuijlen, también conocido como Marco V, es un DJ de música electrónica holandés. Es un pionero del Tech-Trance y es considerado uno de los artistas de trance más importantes. También trabaja con otros nombres como VISION20/20.
+Marco V ことMarinus Verkuijlenは、オランダのエレクトロニックミュージックDJ。Tech-Trance(テックトランス）の先駆者であり、最も重要なトランスアーティストの1人と評されている。別名義でVISION20/20などでも活動している。
 
-"Godd" es una pista de hard trance/tech trance lanzada en 2002 por el sello discográfico independiente alemán Superstar Recordings.
+「Godd」は、2002年にドイツのインディペンデントレコードレーベルSuperstar Recordingsからリリースされたハードトランス・テックトランストラック。
 
-La segunda canción de la cara B es un remix de DJ Errik, que es DJ residente en el Poison Club de Düsseldorf, Alemania, y toca en muchos festivales famosos.
+B面２曲目は、 ドイツ・デュッセルドルフのクラブ Poison Club のレジデント DJであり、数々の有名フェスティバルでプレイするDJ Errikによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Godd (Original Mix)
 
@@ -27,7 +27,7 @@ AA1. Godd (V Dubb Mix)
 AA2. Godd (DJ Errik Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93306995998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93306995998?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6p-hV0ON0cg?si=8NZ1BlNwSGK1XSh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

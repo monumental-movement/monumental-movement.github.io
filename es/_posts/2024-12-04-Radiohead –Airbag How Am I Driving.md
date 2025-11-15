@@ -9,13 +9,13 @@ tags:
 - Alternative Rock
 - Indie Rock
 - 90s
-title: Radiohead – Airbag / ¿Cómo conduzco?
+title: Radiohead – Airbag / How Am I Driving?
 ---
 
 
-El quinto EP de la banda de rock británica Radiohead, lanzado en Norteamérica en 1998. Contiene las caras B de los sencillos (excepto "Lull" y "How I Made My Millions") lanzados de "OK Computer", el tercer álbum de estudio de Radiohead y su avance mundial, y "Airbag".
+1998年に北米でリリースされたUKロックバンドRadioheadの5枚目のEP。Radioheadの3枚目のスタジオアルバムであり、世界的な出世作となった「OK Computer」からリリースされたシングルのB面(「Lull」と「How I Made My Millions」を除く)、と「Airbag」を収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Airbag
 2. Pearly
@@ -27,10 +27,10 @@ El quinto EP de la banda de rock británica Radiohead, lanzado en Norteamérica 
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a319HgaklkY?si=T-E1RQWJZjt-hInO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnJZJy85yjw?si=E3KB00Y4BH5pPTL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

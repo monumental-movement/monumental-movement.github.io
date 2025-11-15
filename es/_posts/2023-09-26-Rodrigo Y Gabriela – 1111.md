@@ -9,19 +9,19 @@ tags:
 - Latin
 - Folk
 - Rock
-title: Rodrigo y Gabriela – 1111
+title: Rodrigo Y Gabriela – 1111
 ---
 
 
-Rodrigo y Gabriela es un dúo de guitarras de México.
+ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
 
-"11:11" es un álbum lanzado por Rodrigo y Gabriela en 2009, que expresa ritmo, melodía y armonía utilizando únicamente su característica guitarra acústica.
+「11:11」は、ロドリーゴ・イ・ガブリエーラが2009年にリリースしたアルバムで、彼らのシグネチャーとも言えるアコースティックギターだけでリズム、メロディ、ハーモニーを表現します。
 
-Se incluyen sus canciones originales y covers de otros artistas, con elementos de ritmos latinoamericanos y flamenco presentes, así como influencias del rock y el jazz. Su estilo de actuación único y su apasionada expresividad causaron una fuerte impresión en el público.
+彼らのオリジナル曲や他のアーティストのカバー曲が含まれ、ラテンアメリカのリズムやフラメンコの要素が見られる一方でロックやジャズの影響も感じられます。彼らの独自の演奏スタイルと情熱的な表現力は聴衆に強い印象を与えました。
 
-Rodrigo y Gabriela ha desarrollado una amplia gama de actividades musicales y ha obtenido reconocimiento internacional.
+ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 CD1. Hanuman
 
@@ -62,7 +62,7 @@ DVD3. Lumbini
 DVD4. Buster Voodoo Tutorial
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

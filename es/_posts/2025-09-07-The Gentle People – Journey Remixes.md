@@ -10,18 +10,18 @@ tags:
 - Experimental
 - Ambient
 - 90s
-title: La gente gentil – Journey Remixes
+title: The Gentle People – Journey Remixes
 ---
 
 
-The Gentle People es una banda formada en Estados Unidos en 1995. Su sonido se caracteriza por el gusto lounge y de fácil escucha de los años 50, que se definió como "kitsch" en la cultura de club de los 90.
+The Gentle People(ジェントル・ピープル)は、1995年にUSで結成されたバンド。彼らのサウンドは、1990年代のクラブ文化において「キッチュ」と定義された1950年代のラウンジ&イージーリスニング テイストが特徴。
 
-Publicado en 1995 por Richard D. James (Aphex Twin) y el sello Rephlex de Grant Wilson-Claridge, Journey es el álbum debut de The Gentle People.
+1995年にRichard D. James(Aphex Twin)とGrant Wilson-Claridge主宰のレーベルRephlexからリリースされた「Journey 」は、The Gentle Peopleのデビュー作。
 
-A es un remix de Aphex Twin que muestra "Blue Mantilla" del LP del gran Henry Mancini "Mr. Lucky se vuelve latino".
+Aは、Aphex Twin(エイフェックス・ツイン)によるremixで、巨匠 Henry Mancini (ヘンリー・マンシーニ)のLP『Mr. Lucky Goes Latin』に収録されている『Blue Mantilla』をサンプリングしている。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Journey (Aphex Twin Care Mix)
 
@@ -29,7 +29,7 @@ B1. Journey (Hazchem Mix)
 B2. Journey (Swingers' Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95813694995?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95813694995?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RVhWKyutb4M?si=4t3Yp7l6LFf0uox5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

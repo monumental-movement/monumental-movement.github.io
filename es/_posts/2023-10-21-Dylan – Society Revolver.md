@@ -8,20 +8,20 @@ layout: post
 tags:
 - House
 - Tech House
-title: Dylan - Revólver de la sociedad
+title: Dylan – Society Revolver
 ---
 
 
-Dylan es el alias del productor de breakbeat, techno y electro Dylan Rhymes. "Society/Revolver" fue lanzado en 2000 en el propio sello de Dylan Rhymes, Blue Black.
+Dylanは、ブレイクビーツ・テクノ・エレクトロプロデューサーDylan Rhymes（ディラン・ライムス）の別名義。「Society / Revolver」は、Dylan Rhymes自身のレーベルBlue Blackより2000年にリリース。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Society (The System)
 
 B. Revolver
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m89252373710?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89252373710?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1A4_hq15xV4?si=eaQ74jbQ4hBYVWmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

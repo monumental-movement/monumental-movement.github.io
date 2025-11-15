@@ -9,15 +9,15 @@ tags:
 - Techno
 - 10inch
 - Electronic
-title: Björk – Hyperballad (mezclas LFO)
+title: Björk – Hyperballad (LFO Mixes)
 ---
 
 
-LFO remezcla la famosa canción del segundo álbum de Björk lanzado en 1995.
+1995年にリリースされたビョークのセカンドアルバムに収録の名曲をあのLFOがリミックス。
 
-Se trata de una excelente pieza de música clásica electrónica que incluye dos atractivas mezclas con un sonido experimental.
+エクスペリメンタルなサウンドで魅力的な2ミックスが収録されたエレクトロニック・クラシックの秀作です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hyperballad (Disco Sync Mix)
 
@@ -25,7 +25,7 @@ A. Hyperballad (Disco Sync Mix)
 B. Hyperballad (The Stomp Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51141432858?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51141432858?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xENFEImvqnw?si=_VNmmlWtwOibFc7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

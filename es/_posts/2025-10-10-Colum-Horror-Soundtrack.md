@@ -9,186 +9,186 @@ tags:
 - Film
 - Soundtrack
 - 10s
-title: '[Columna] Películas de terror occidentales y sus bandas sonoras desde 2010'
+title: 【コラム】 2010年以降のホラー洋画とそのサウンドトラック
 ---
 
 
-## Prólogo: La era del terror silencioso y la baja frecuencia
+## 序章：沈黙の恐怖と低周波の時代
 
 
-Texto: mmr｜Tema: De A24 a Blumhouse y al horror de la IA: desentrañando el "horror del sonido" que ha dominado las películas de terror desde la década de 2010, tanto desde la historia cultural como desde la estética acústica.
+文：mmr｜テーマ：A24からブラムハウス、そしてAIホラーまで──2010年代以降のホラー映画を支配した“音の恐怖”を、文化史と音響美学の両面から解き明かす。
 
-En la década de 2010, las películas de terror se transformaron en una forma de arte más consciente que nunca del sonido.
-Los sobresaltos son cosa del pasado y, en cambio, las bajas frecuencias, el ruido ambiental y las reverberaciones dominan los sobresaltos.
-Esta fue también una aplicación del descubrimiento psicoacústico de que la audición afecta la psique más profunda de manera más directa que la visión.
+2010年代、ホラー映画はかつてないほど「音」を意識する芸術へと変貌した。  
+ジャンプスケア（突発的な音による驚かせ）は過去の手法となり、代わりに**低周波・環境ノイズ・残響**が恐怖の主役となる。  
+それは、視覚よりも聴覚が深層心理を直撃するという聴覚心理学的な発見の応用でもあった。  
 
-Las películas de terror de esta época no sólo infundían miedo, sino que también "erosionaban" el mundo interior del público a través del sonido.
-En el centro de este cambio se encontraba una nueva generación de estudios de producción como A24 y Blumhouse.
+この時代のホラー映画は、単に恐怖を与えるだけでなく、**音響を通じて観客の内面を“侵食”する**。  
+この変化の中心にいたのが、A24やブラムハウスといった新世代の制作スタジオである。
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### Capítulo 1: El "nuevo sonido aterrador" de A24
+### 第一章：A24が鳴らした“恐怖の新音響”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-La llegada de A24 elevó el horror al contexto del cine artístico.
-["La Bruja" (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
-El diseño acústico que difumina la línea entre silencio y ruido fue el núcleo de la estética del A24.
+A24の登場は、ホラーをアート映画の文脈に引き上げた。  
+[『The Witch』（2015）](https://amzn.to/48UASVp)はその象徴である。[Mark Korven](https://amzn.to/3KHRdTr)によるスコアは旋律を拒み、**木製楽器と微分音**で構成された祈祷的ドローンが観客の神経を締め上げる。  
+沈黙とノイズの境界が曖昧になる音響設計は、まさにA24美学の核心だった。
 
-En lo siguiente [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf), el zumbido saxofónico de [Colin Stetson](https://amzn.to/438tcv3) crea una tensión inusual.
-El sonido de la respiración, la resonancia de las cañas distorsionadas, las vibraciones de los graves profundos: estas cosas te hacen sentir físicamente la presencia de una "presencia invisible".
+続く[『Hereditary／ヘレディタリー』（2018）](https://amzn.to/470xAxf)では、[Colin Stetson](https://amzn.to/438tcv3)のサクソフォニック・ドローンが異様な緊張を形成する。  
+ブレス音、歪んだリードの共鳴、重低音の波動──これらが“見えない存在”の気配を物理的に感じさせる。  
 
-En "Midsommar" (2019) (https://amzn.to/3WzeBFe), [The Haxan Cloak] (https://amzn.to/4mV3nFT) y [Bobby Krlic] (https://amzn.to/473kC1M) fusionan la música ritual folclórica nórdica con el ruido electrónico.
-A diferencia de las imágenes soleadas, el sonido desdibujó la línea entre celebración y locura, abriendo una nueva frontera para el horror.
+[『Midsommar』（2019）](https://amzn.to/3WzeBFe)では、[The Haxan Cloak](https://amzn.to/4mV3nFT)、[Bobby Krlic](https://amzn.to/473kC1M) が北欧の民族儀礼音楽と電子ノイズを融合。 
+陽光に満ちた映像とは裏腹に、音は**祝祭と狂気の境界**を曖昧にし、ホラーの新境地を切り開いた。  
 
-El sistema de sonido de terror de A24 sacude al público con "susurros" en lugar de "gritos".
+A24のホラー音響は、「叫び」ではなく「囁き」で観客を震わせる。
 
 ---
 
-### Capítulo 2: Diseño de sonido de terror de Blumhouse
+### 第二章：ブラムハウス・ホラーの音響設計
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Blumhouse Productions, por el contrario, amplificó el miedo con un diseño de sonido detallado pero de bajo presupuesto.
-[Joseph Bishara](https://amzn.to/4okJ3ix) estuvo a cargo de la composición de ['Insidious" (2010)](https://amzn.to/4nRnAOm) y ["The Conjuring' (2013)](https://amzn.to/48qVkx0).
-El "muro de sonido" que distorsiona las cuerdas hasta sus límites y superpone el ruido blanco es como una pesadilla de exorcismo.
+対照的に、ブラムハウス・プロダクションは**低予算ながら緻密な音設計**で恐怖を増幅させた。  
+[『Insidious』（2010）](https://amzn.to/4nRnAOm)や[『The Conjuring - 死霊館』（2013）](https://amzn.to/48qVkx0)では[Joseph Bishara](https://amzn.to/4okJ3ix)が作曲を担当。  
+ストリングスを限界まで歪ませ、ホワイトノイズを重層させる“音の壁”は、まるでエクソシズムの悪夢だ。
 
-En [Get Out (2017)](https://amzn.to/48TUfxW), [Michael Abels](https://amzn.to/4720Bca) construye una partitura de jazz que invierte la progresión de acordes de los espirituales negros.
-El sonido traduce **miedo social = estructura del racismo** en sonido.
-Este es un raro ejemplo de música que cumple una función política como parte de la narración.
+[『Get Out』（2017）](https://amzn.to/48TUfxW)では、[Michael Abels](https://amzn.to/4720Bca)が黒人霊歌のコード進行を反転させたジャズスコアを構築。  
+その響きは、**社会的恐怖＝人種差別の構造**を音として翻訳する。  
+音楽がストーリーテリングの一部として政治的機能を果たした稀有な例である。
 
-En [""The Invisible Man'' (2020)] (https://amzn.to/48qvBVt), [Benjamin Wallfisch] (https://amzn.to/46ZWI7p) encarna la "presencia invisible" con sonidos electrónicos.
-El diseño del **espacio acústico negativo** brilla, ya que el momento en el que no se escucha ningún sonido genera el mayor miedo.
+[『The Invisible Man-透明人間』（2020）](https://amzn.to/48qvBVt)では、[Benjamin Wallfisch](https://amzn.to/46ZWI7p)が電子音で“見えない存在”を具現化。  
+音が聞こえない瞬間こそが最大の恐怖を生むという、**負の音響空間**のデザインが光る。
 
 ---
 
-### Capítulo 3: Resurrección del terror retro y el sonido analógico.
+### 第三章：レトロ・ホラーの復活とアナログ・サウンド
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OoXoz80d62M?si=UxxayLxQSg-18_Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-A mediados de la década de 2010, el sonido de terror de los 80 regresó.
-En ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
-La pista se hizo popular en la cultura de clubes y sirvió como una oportunidad para reevaluar los sintetizadores retro.
+2010年代半ば、80年代的ホラーサウンドが復活した。  
+[『It Follows』（2014）](https://amzn.to/4mSiAaF)では、Disasterpeaceがシンセベースの冷たいアルペジオで**追跡される恐怖**を音像化。  
+そのトラックはクラブカルチャーでも人気を博し、レトロシンセが再評価される契機となった。
 
-[""The Guest'' (2014)](https://amzn.to/3WxUjvS) es una reinterpretación moderna del suspenso electrónico de John Carpenter.
-La ola del microondas se estaba extendiendo y la partitura de Kyle Dixon y Michael Stein para Stranger Things marcó la pauta.
+[『The Guest』（2014）](https://amzn.to/3WxUjvS)はJohn Carpenter的電子サスペンスを現代的に再解釈。  
+レトロウェーブの波が広がり、[『Stranger Things』](https://amzn.to/3KRGS7r)のKyle Dixon & Michael Steinによるスコアがその潮流を決定づけた。  
 
-La "fusión de nostalgia y miedo" a través de sonidos electrónicos dominó la década de 2010 como una estética de terror sonoro descendiente directamente de Carpenter.
+電子音による“郷愁と恐怖の融合”は、**カーペンター直系のサウンド・ホラー美学**として2010年代を支配した。
 
 ---
 
-### Capítulo 4: Sonido y silencio del arte de terror europeo
+### 第四章：ヨーロッパ・アートホラーの音と沈黙
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Además de A24, en Europa han aparecido películas de terror que persiguen la "estética del silencio".
-Dirigida por Luca Guadagnino [Suspiria (2018)] (https://amzn.to/4hee5Gs), [Thom Yorke] (https://amzn.to/4nWkJmY) creó un sonido de oración y desesperación centrado en el piano y el sintetizador.
-Este es un homenaje a la versión Goblin [Suspiria (1977)](https://amzn.to/4nHfyqZ), y al mismo tiempo un poema sonoro de pérdida y renacimiento.
+A24以外にも、ヨーロッパでは「沈黙の美学」を追求したホラーが登場する。  
+ルカ・グァダニーノ監督[『Suspiria』（2018）](https://amzn.to/4hee5Gs)は、[Thom Yorke](https://amzn.to/4nWkJmY)がピアノとシンセを中心に、祈りと絶望の音を紡いだ。  
+これはGoblin版[『Suspiria』（1977）](https://amzn.to/4nHfyqZ)への敬意であり、同時に**喪失と再生の音響詩**でもある。  
 
-[Saint Maud (2019)](https://amzn.to/4q40qph) es una escena de silencio y alucinaciones auditivas que parece engullir la locura religiosa.
-En ['Thelma" (2017)] de Noruega (https://amzn.to/4q6uf8J) y ["Border' (2018)] de Suecia (https://amzn.to/48W9tCu), los sonidos gélidos de los drones reproducen el **frío escandinavo**.
+[『Saint Maud』（2019）](https://amzn.to/4q40qph)では、宗教的狂気を包み込むような静寂と幻聴。  
+ノルウェーの[『Thelma』（2017）](https://amzn.to/4q6uf8J)やスウェーデンの[『Border』（2018）](https://amzn.to/48W9tCu)では、氷のようなドローン音が**北欧的冷気**を音で再現する。  
 
-El silencio, los sonidos ambientales, la respiración: crean un miedo religioso que va más allá de lo visual.
-
----
-
-### Capítulo 5: Fusión de terror x cultura de música electrónica
-
-Músicos electrónicos como [Oneohtrix Point Never](https://amzn.to/4nITXym), [Ben Frost](https://amzn.to/3J5XasP) y [Mica Levi](https://amzn.to/3J7GQYD) entraron en escena desde el "afuera" del sonido de terror y cambiaron la música de las películas.
-La [serie 'Dark"] (https://amzn.to/42B4KCn) y ["Super Dark Times' (2017)] (https://amzn.to/42DfU9Q) de Ben Frost crean una sensación auditiva de inquietud con zumbidos y distorsiones.
-Mica Levi's [""Under the Skin'' (2013)](https://amzn.to/3J4PJC6) presenta la sensación de un cuerpo extraño como una desviación de la escala musical.
-
-Además, las bandas sonoras de terror se recirculan como discos analógicos,
-**Death Waltz** y **Waxwork Records** reevaluaron la música de terror como una "herencia cultural auditiva".
-Se ha generalizado el fenómeno de que los DJ de discotecas incorporen bandas sonoras de terror en sus sets.
-Era una época en la que la música de cine y la cultura de club se entrelazaban de una manera extraña.
+沈黙、環境音、呼吸──これらが、視覚を超えた宗教的恐怖を構築するのだ。
 
 ---
 
-### Capítulo 6: Internacionalización del terror asiático y localidad sonora
+### 第五章：ホラー×電子音楽カルチャーの融合
+
+[Oneohtrix Point Never](https://amzn.to/4nITXym)、[Ben Frost](https://amzn.to/3J5XasP)、[Mica Levi](https://amzn.to/3J7GQYD)といった電子音楽家たちは、ホラー音響の“外部”から参入し、映画音楽を変えた。  
+Ben Frostの[『Dark』シリーズ](https://amzn.to/42B4KCn)や[『Super Dark Times』（2017）](https://amzn.to/42DfU9Q)は、ドローンと歪みで聴覚的な焦燥を生む。  
+Mica Leviの[『Under the Skin』（2013）](https://amzn.to/3J4PJC6)は、エイリアン的異物感を**音階の逸脱**として提示した。  
+
+さらに、ホラー・サウンドトラックはアナログレコードとして再流通し、  
+**Death Waltz**や**Waxwork Records**がホラー音楽を“聴く文化遺産”として再評価した。  
+クラブDJがホラーサントラをセットに組み込む現象も広がり、  
+映画音楽とクラブカルチャーが奇妙に交錯する時代となった。
+
+---
+
+### 第六章：アジア・ホラー国際化と音のローカリティ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-El sonido de terror único también está atrayendo la atención en Asia.
-En [The Wailing (2016/Korea)](https://amzn.to/46NKuA5), la música ritual popular desdibuja la línea entre el miedo y la oración.
-Sonido de terror japonés ── [Kenji Kawai ("Ring")] (https://amzn.to/4h9avxd) y el método de Hiroshi Takahashi—
-Se transmitió al mundo como **etiqueta de miedo usando silencio y sonidos ambientales**.
+アジア圏でも、独自のホラー音響が注目を集める。  
+[『The Wailing（哭声）』（2016／韓国）](https://amzn.to/46NKuA5)では、民俗儀礼音楽が恐怖と祈りの境界を曖昧にする。  
+日本のホラー音響──[川井憲次（『リング』）](https://amzn.to/4h9avxd)や高橋洋の手法──は、  
+**沈黙と環境音による恐怖の作法**として世界に継承された。  
 
-A medida que los títulos de Netflix consolidan el mercado global,
-El "folclore sonoro" de cada región está ganando una nueva posición en el horror global.
-El sonido trasciende el lenguaje. El miedo no necesita traducción.
+Netflix作品が世界市場を統合するなか、  
+各地域の“音の民俗性”がグローバルホラーの中で新たな位置を獲得している。  
+音は言語を超える。恐怖は翻訳を必要としない。
 
 ---
 
-### Capítulo 7: La IA y el futuro del audio de terror
+### 第七章：AIとホラー音響の未来
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QEECiy3dgc?si=iKpYc6gYjDFiFlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-[""Skinamarink'' (2022)](https://amzn.to/4o6XZ3m) es una película de terror de la nueva era compuesta por el ruido de las cámaras domésticas y la distorsión espacial.
-El sonido no es música, sino meras "reverberaciones".
-Pero es ese **sonido faltante** el que evoca los miedos más humanos.
+[『Skinamarink』（2022）](https://amzn.to/4o6XZ3m)は、家庭用カメラのノイズと空間の歪みで構成された新時代のホラーだ。  
+音はほとんど音楽ではなく、“残響の残滓”にすぎない。  
+しかしその**欠落した音**こそが、最も人間的な恐怖を喚起する。
 
-La música generada por IA ya se está aventurando en el ámbito del sonido de terror.
-Utilizar el aprendizaje profundo para imitar las reacciones de miedo humano.
-Ahora es posible generar **sonidos de valles extraños** que te hacen sentir que algo anda mal.
+AI生成音楽はすでにホラー音響の領域に足を踏み入れている。  
+ディープラーニングによって人間の恐怖反応を模倣し、  
+「何かがおかしい」と感じる**不気味の谷音響**を生成することが可能になった。  
 
-Del sonido envolvente en las salas de cine al sonido espacial en los auriculares──
-El miedo ya no se limita a los oídos de los individuos.
-
----
-
-### Capítulo final: El miedo es audible: el significado cultural del audio de terror moderno
-
-En las películas de terror desde 2010, el sonido ha ido más allá de la mera presentación y se ha convertido en un medio que cuestiona la existencia misma de la película.
-El aliento del bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic.
-Todas estas son traducciones acústicas de la pregunta "¿Qué es el miedo?"
-
-Los sonidos del horror resuenan con la ansiedad social y la soledad individual.
-También es música que pretende recuperar la "emoción profunda" que la música pop ha perdido.
-La próxima generación de compositores de terror ya tiene oído para convertir el terror en arte.
+映画館のサラウンドからイヤホンの空間音響まで──  
+恐怖はもはや“個人の耳の中”に閉じこめられていく。
 
 ---
 
-#### Cronología de las principales obras de terror contemporáneas.
+### 終章：恐怖は聴こえている — 現代ホラー音響の文化的意義
 
-<div class="sirena">
+2010年以降のホラー映画において、音は単なる演出を超え、**存在そのものを問うメディア**となった。  
+Colin Stetsonの低音ブレス、Disasterpeaceの電子的緊張、Bobby Krlicの儀式的リズム──  
+それらはすべて、「恐怖とは何か」という問いの音響的翻訳である。  
 
-diagrama de flujo TD
-A2010["2010: Insidioso (Joseph Bishara)"]
-A2013["2013: El conjuro (Joseph Bishara)"]
-A2014["2014: Sigue (Paz del Desastre)"]
-A2015["2015: La bruja (Mark Korven)"]
-A2017["2017: Sal (Michael Abels)"]
-A2018["2018: Hereditario (Colin Stetson)"]
-A2019["2019: Midsommar (La capa de Haxan)"]
-A2020["2020: El hombre invisible (Benjamin Wallfisch)"]
-A2022["2022: Skinamarink (Jonathan Ball)"]
-A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> A2022
+ホラーの音は、社会の不安と個人の孤独を共鳴させる。  
+それはポップミュージックが失った“深層の感情”を取り戻すための音楽でもある。  
+次の世代のホラー作曲家たちは、すでに**恐怖を芸術に変える耳**を持っている。
+
+---
+
+#### 現代ホラー主要作品年表
+
+<div class="mermaid">
+
+flowchart TD
+    A2010["2010：Insidious（Joseph Bishara）"]
+    A2013["2013：The Conjuring（Joseph Bishara）"]
+    A2014["2014：It Follows（Disasterpeace）"]
+    A2015["2015：The Witch（Mark Korven）"]
+    A2017["2017：Get Out（Michael Abels）"]
+    A2018["2018：Hereditary（Colin Stetson）"]
+    A2019["2019：Midsommar（The Haxan Cloak）"]
+    A2020["2020：The Invisible Man（Benjamin Wallfisch）"]
+    A2022["2022：Skinamarink（Jonathan Ball）"]
+    A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> A2022
 
 
 </div>
@@ -197,25 +197,25 @@ A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> 
 ---
 
 
-### Discografía de la banda sonora
+### サウンドトラック・ディスコグラフィー
 
-| Año | Título | Compositor | Etiqueta | Enlace |
-| ---- | ------------------- | ----------------------- | -------------- | ---------------------------------------------- |
-| 2014 | *Sigue* | Desastre paz | Registros de Milán | [Amazon](https://amzn.to/4nIdRcN) |
-| 2018 | *Hereditario* | Colin Stetson | Registros de Milán | [Amazon](https://amzn.to/4mY7XDe) |
-| 2019 | *Medio sueño* | Bobby Krlic (La capa de Haxan) | Registros de Milán | [Amazon](https://amzn.to/4h66SrF) |
-| 2017 | *Fuera* | Michael Abels | Música del lote trasero | [Amazon](https://amzn.to/48YphVo) |
-| 2020 | *El Hombre Invisible* | Benjamín Wallfisch | Música del lote trasero | [Amazon](https://amzn.to/48qSwjs) |
-
----
-
-> "Las películas de terror ya no gritan: tararean, resuenan y respiran".
->― De las palabras del productor de A24
-
+| 年    | 作品名                 | 作曲者                           | レーベル           | リンク                                            |
+| ---- | ------------------- | ----------------------------- | -------------- | ---------------------------------------------- |
+| 2014 | *It Follows*        | Disasterpeace                 | Milan Records  | [Amazon](https://amzn.to/4nIdRcN) |
+| 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
+| 2019 | *Midsommar*         | Bobby Krlic (The Haxan Cloak) | Milan Records  | [Amazon](https://amzn.to/4h66SrF) |
+| 2017 | *Get Out*           | Michael Abels                 | Back Lot Music | [Amazon](https://amzn.to/48YphVo) |
+| 2020 | *The Invisible Man* | Benjamin Wallfisch            | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
 
 ---
 
+> “Horror films no longer scream — they hum, resonate, and breathe.”
+>― A24プロデューサーの言葉より
 
-### Columnas relacionadas
 
-🔗 [Columna] Historia mediática de la música de cine: ¿Cómo llegó el sonido de la pantalla a los altavoces? ](https://monumental-movement.jp/Column-Soundtrack)
+---
+
+
+### 関連コラム
+
+🔗 [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)

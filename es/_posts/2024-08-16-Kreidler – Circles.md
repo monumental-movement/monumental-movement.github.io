@@ -11,15 +11,15 @@ tags:
 - Minimal
 - Leftfield
 - Synth-pop
-title: Kreidler – Círculos
+title: Kreidler – Circles
 ---
 
 
-Kreidler es una banda formada en Düsseldorf, Alemania en 1994. Fusionando instrumentos electrónicos y acústicos, incorporan varios estilos como techno, electropop, vanguardia, post-rock, ambient, electrónica y krautrock según el lanzamiento.
+Kreidlerは、1994年にドイツ・デュッセルドルフで結成されたバンド。エレクトロニックとアコースティック楽器を融合し、リリースに応じてテクノ、エレクトロポップ、アバンギャルド、ポストロック、アンビエント、エレクトロニカ、クラウトロックなど様々なスタイルを取り入れている。
 
-"Circles" fue lanzado en 2000 en el sello alemán Wonder, fundado por Jutta Bächner.
+「Circles」は、Jutta Bächnerが設立したドイツのレーベルWonderから2000年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Circles
 A2. Beauties
@@ -28,7 +28,7 @@ B1. Circumstanced
 B2. Lanzelot
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40999909018?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40999909018?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dWZz6l4dTE?si=5Uco5E0QMO3fRZmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

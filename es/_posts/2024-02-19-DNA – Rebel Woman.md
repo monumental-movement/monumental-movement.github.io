@@ -9,15 +9,15 @@ tags:
 - Euro
 - Euro House
 - UK Techno
-title: ADN – Mujer Rebelde
+title: DNA – Rebel Woman
 ---
 
 
-DNA es un dúo de productores de música dance del Reino Unido Nick Batt y Neal Slateford.
+DNAは、UKダンスミュージックプロデューサーでありNick Batt（ニック・バット）とNeal Slateford（ニール・スレートフォード）のデュオ。
 
-Los dos son mejor conocidos por lanzar un remix de "Tom's Diner" de Suzanne Vega en 1990.
+2人は1990年にSuzanne Vega（スザンヌ・ヴェガ）の「Tom's Diner」のリミックスを発表したことでよく知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Rebel Woman (PWL Remix)
 
@@ -26,7 +26,7 @@ B1. La Serenissima (Extended Mix)
 B2. DNA Theme (Edit)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61194350312?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61194350312?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrpfzcYFb6E?si=eDuS8_ukZsvqBgy1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

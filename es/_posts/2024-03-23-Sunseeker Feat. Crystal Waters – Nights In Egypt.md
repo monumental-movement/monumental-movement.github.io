@@ -9,21 +9,21 @@ tags:
 - House
 - Electronic
 - 00s
-title: Hazaña Sunseeker. Aguas Cristalinas – Noches En Egipto
+title: Sunseeker Feat. Crystal Waters – Nights In Egypt
 ---
 
 
-Destacado Crystal Waters es una vocalista house nacida en Deptford Township, Nueva Jersey, en 1961.
+フィーチャリングされているCrystal Waters（クリスタル・ウォーターズ）はハウス・ボーカリストで1961年にニュージャージー州デプトフォード・タウンシップ生まれました。
 
-Es hija del músico de jazz Junior Waters y sobrina nieta de Ethel Waters, quien dirige IAH Records.
+ジャズ・ミュージシャンのジュニア・ウォーターズの娘で、エセル・ウォーターズの曾姪であり、IAH Records を運営しています。
 
-Creció rodeada de música desde temprana edad, se familiarizó con el jazz bajo la influencia de su padre, y comenzó a trabajar en la escena de la música house a finales de los años 1980, logrando un éxito mundial con el sencillo "Gypsy Woman (She's Homeless)" en 1991.
+幼い頃から音楽に囲まれて育ち、父親の影響でジャズに親しみ、1980年代後半からハウス・ミュージックシーンで活動を始め、1991年にシングル「Gypsy Woman (She's Homeless)」で世界的な大ヒットを飛ばしました。
 
-Desde entonces, ha lanzado muchos éxitos como "100% Pure Love" y "Destination Calabria" y se ha convertido en uno de los artistas líderes en el mundo de la música house.
+その後も「100% Pure Love」、「Destination Calabria」など数々のヒット曲をリリースし、ハウス・ミュージック界を代表するアーティストになりました。
 
-Conocido por su poderosa voz y melodías pegadizas, también muestra un desempeño abrumador en shows en vivo. Actualmente dirige su propio sello, IAH Records, y contribuye a la revitalización de la escena musical descubriendo y nutriendo a artistas emergentes.
+パワフルななボーカルとキャッチーなメロディーで知られ、ライブでも圧倒的なパフォーマンスを見せ、現在は自身のレーベル IAH Records を運営し、新進気鋭のアーティストを発掘・育成するなど、音楽シーンの活性化に貢献しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Nights In Egypt (Nerio's Dubwork Remix)
 
@@ -34,7 +34,7 @@ B1. Nights In Egypt (Swen G Remix)
 B2. Nights In Egypt (Lenny Fontana Vocal Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

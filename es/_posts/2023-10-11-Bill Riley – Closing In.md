@@ -7,15 +7,15 @@ lang: es
 layout: post
 tags:
 - Drum n Bass
-title: Bill Riley - Acercándose
+title: Bill Riley – Closing In
 ---
 
 
-"Closing In" es un conjunto de dos discos de pistas de drum and bass lanzado en 1998 por Full Cycle Records, un sello de drum and bass con sede en Bristol fundado por Roni Size, DJ Krust y Chris Lewis.
+「Closing In」は、Roni Size、DJ Krust、Chris Lewis によって設立されたブリストルを拠点とするドラムンベースレーベルFull Cycle Recordsより　1998年にリリースされた２枚組のドラムンベーストラック。
 
-Side C es un remix de Daniel Robert Kausman, también conocido como DJ Die, un DJ/productor británico y ex miembro de Roni Size & Reprazent (y Breakbeat Era).
+C面は、イギリスの DJ /プロデューサーであり、Roni Size & Reprazent (と Breakbeat Eraのメンバーだった、DJ DieことDaniel Robert Kausman（ダニエル・ロバート・カウスマン）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Closing In
 
@@ -26,7 +26,7 @@ C. The Phoenix
 D. The Edge
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VxlE8eihJ2o?si=qcPF_WSFJIQAjzxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

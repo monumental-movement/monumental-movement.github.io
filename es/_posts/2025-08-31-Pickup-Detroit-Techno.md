@@ -8,23 +8,23 @@ layout: post
 tags:
 - Detroit Techno
 - 90s
-title: Recogiendo obras de Detroit Techno
+title: デトロイト・テクノ(Detroit Techno)作品をピックアップ
 ---
 
 
-"Las obras de Detroit Techno nacen de la brecha entre la decadencia y la esperanza"
+「退廃と希望の狭間から生まれた、デトロイト・テクノ(Detroit Techno)作品群」
 
-<hora>
+<hr>
 
 
-### Claude Young – El EP Dexit
+### Claude Young – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
-Características: 1997, del sello belga Elypsia. Este trabajo combina el respeto por Detroit con mi propio sentido de exploración.
+特徴：：1997年、ベルギーElypsiaレーベルから。デトロイトへの敬意と自らの探求心が融合した作品。
 
-Puntos recomendados: Tiene un toque único en el desarrollo mínimo serio y es una pieza en la que puedes confiar cuando quieres mantener un flujo ajustado en tu set.
+おすすめポイント：シリアスなミニマル展開に独自のひねりがあり、セットの流れをタイトに構築したい時に頼れる一枚。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Intro
 A2. Dexit
@@ -34,26 +34,26 @@ B2. Fade
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Modelo 500 – Espacio profundo
+### Model 500 – Deep Space
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
-Características: Canciones como "Milky Way", "Orbit" y "The Flow" se caracterizan por un trabajo de sintetizador flotante que se siente como viajar a través del espacio profundo y ritmos duros y espaciales.
+特徴：「Milky Way」「Orbit」「The Flow」など、深宇宙を旅するような浮遊感のあるシンセワークと、スペーシーで硬質なリズムが特徴。
 
-Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista del techno de Detroit. Colóquelo al comienzo de una sesión de DJ para crear una atmósfera cósmica en la pista.
+おすすめポイント：デトロイト・テクノの未来志向かつクールなサウンドが凝縮された名盤。DJセットの冒頭に置けば、フロアに宇宙的な空気感を作り出せます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Milky Way
 2. Orbit
@@ -67,25 +67,25 @@ Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista 
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Modelo 500 – Flujo
+### Model 500 – Flow
 <a href="https://jp.mercari.com/item/m38778885235?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20The%20Flow.webp"></a>
 
-Características: Estructura de pista mínima con ritmo y líneas de sintetizador simples. Se caracteriza por su trabajo de sintetizador espacial y flotante y su ritmo fresco y mecánico.
+特徴：シンプルなシンセリフとリズムが織りなすミニマルなトラック構造。空間的で浮遊感のあるシンセワークと、クールで機械的なリズム感が特徴的。
 
-Punto recomendado: Una canción que te permite experimentar los orígenes del techno de Detroit. Al agregarlo temprano en una sesión de DJ, puedes crear una "sensación cósmica similar a la de Detroit" en la pista. Fácil de escuchar incluso para principiantes, perfecto para comprender la visión del mundo del Modelo 500.
+おすすめポイント：デトロイト・テクノの原点を体感できる一曲。DJセットでは序盤に入れると、フロアに“デトロイトらしい宇宙感”を演出できます。初心者にも聴きやすく、Model 500 の世界観を理解するのに最適です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 S. The Flow M14 (G-Funk Mix)
 
@@ -94,26 +94,26 @@ T2. The Flow M38 (Alex Reece Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Carl Craig - Crucero terrestre
+### Carl Craig – Landcruising
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
-Características: Imagen sonora espectacular que combina ambient, breakbeat, jazz del futuro, etc. con una base minimalista.
+特徴：ミニマルを基盤にアンビエント、ブレイクビート、フューチャージャズなどを融合したドラマティックな音像。
 
-Puntos recomendados: Un álbum con profundidad y sofisticación que lleva al oyente a un viaje emocional. Este es un trabajo que tanto los DJ como los oyentes querrán escuchar con atención.
+おすすめポイント：深みと洗練を兼ね備えたアルバムで、聴き手を感情的な旅に誘う。DJやリスナー問わず、じっくり聴きたい作品。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -127,25 +127,25 @@ Puntos recomendados: Un álbum con profundidad y sofisticación que lleva al oye
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Ultradyne – Obras desconocidas
+### Ultradyne – Unknown Works
 <a href="https://jp.mercari.com/item/m73570341601?afid=6142608987"><img src="../assets/images/Ultradyne%20%E2%80%93%20Unknown%20Works.webp"></a>
 
 
-Características: Equilibrando ritmos bailables y experimentación abstracta. Ejemplos de pistas: "Tangible–Theory Proliferation (Ultradyne Remix)" y "Fantasy Era".
+特徴：ダンサブルなグルーヴと抽象的な実験性を両立。トラック例：「Tangible–Theory Proliferation (Ultradyne Remix)」「Fantasy Era」。
 
-Puntos recomendados: Perfecto para oyentes que buscan una experiencia techno exploratoria. Ya sea en el suelo o con auriculares, te atraerá su sonido experimental.
+おすすめポイント：探求的なテクノ体験を求めるリスナーに最適。フロアでもヘッドフォンでも、その実験的サウンドに引き込まれます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 A2. Ultradyne–Fantasy Era
@@ -155,25 +155,25 @@ B2. Ultradyne–War Drum - Live
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Transmisión – Sinfonio
+### Drivetrain – Symphonium
 <a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.webp"></a>
 
 
-Características: Ritmo oscuro, melodioso, enérgico y bailable.
+特徴：ダークでメロディアス、エネルギッシュでダンサブルなリズムが特徴。
 
-Puntos recomendados: Sonido moderno y muy singular. Esta es una canción que animará dramáticamente la pista si la tocas en un club nocturno o en un horario pico.
+おすすめポイント：現代的かつ独自性の高いサウンド。深夜クラブやピークタイムのセットに投入すれば、フロアをドラマティックに盛り上げる一曲。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Electronic Seduction
 A2. Music
@@ -183,26 +183,26 @@ AA2. Soundtrack
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
 
-### Jeff Mills – Muy EP
+### Jeff Mills – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
-Características: Una pieza minimalista y tensa, perfecta para los calentamientos de clubes.
+特徴：クラブのウォームアップに最適とされる、ミニマルで緊張感のある作品。
 
-Puntos recomendados: La imagen sonora simple pero que se acumula gradualmente tensa el piso, permitiéndole crear su propia visión única del mundo desde el comienzo del set.
+おすすめポイント：シンプルながらも徐々に積み重なる音像がフロアを引き締め、セットの序盤から独自の世界観を作り上げることができます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Cobolt
 A2. Untitled
@@ -213,24 +213,24 @@ B3. Untitled
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Jeff Mills – E.P. realista
+### Jeff Mills – Lifelike E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-Características: ""Condor To Mallorca'' es icónico, con su ritmo similar al calipso y su resonancia de teclado creando una sensación flotante única.
+特徴：「Condor To Mallorca」が象徴的で、カリプソ的なリズムと鍵盤の響きが独特の浮遊感を演出。
 
-Puntos recomendados: Con su atmósfera alucinante y espiritual, esta es una "pieza mágica" que cambia instantáneamente la atmósfera cuando se inserta en un set de DJ.
+おすすめポイント：トリッピーかつスピリチュアルな雰囲気で、DJセットの中に挿入すると一気に空気を変える“魔法の一枚”。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Condor To Mallorca
 A2. Time After Space
@@ -240,24 +240,24 @@ B2. Black Avenger
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Jeff Mills - EP Skin Deep
+### Jeff Mills – Skin Deep EP
 <a href="https://jp.mercari.com/item/m68002048690?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Skin%20Deep%20EP.webp"></a>
 
-Características: La canción "Call Of The Wild" cita la percusión de "Off The Wall" de Michael Jackson.
+特徴：収録曲「Call Of The Wild」でマイケル・ジャクソン『Off The Wall』からのパーカッションを引用。
 
-Puntos recomendados: La sensación dura del techno de Detroit se combina con el ritmo de la música negra, dando a la pista una fuerza motriz única.
+おすすめポイント：デトロイトテクノの硬質感にブラック・ミュージックのグルーヴが加わり、フロアにユニークな推進力を与えます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Call Of The Wild
 A2. Skin Deep
@@ -267,24 +267,24 @@ B2. Scout
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Jeff Mills - Circo
+### Jeff Mills – Circus
 <a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.webp"></a>
 
-Características: Un EP que contiene 2 temas y crea una atmósfera dura e industrial.
+特徴：2トラックを収録し、ハードでインダストリアルな雰囲気を醸し出すEP。
 
-Punto recomendado: Su intensa presión sonora tiene el poder de hacer explotar el piso de una vez cuando se usa en horas pico.
+おすすめポイント：その強烈な音の圧力は、ピークタイムに投入することでフロアを一気に爆発させるパワーを持ちます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
@@ -292,25 +292,25 @@ B. Circus (The Big Finale Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### "M" – Más drama (bajo el nombre de Axis)
+###  “M” – More Drama（Axis 名義）
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
-Características: Tema lanzado bajo el nombre "M" por Axis en 1992. Una canción que representa el minimal temprano de Detroit.
+特徴：1992年、Axisからリリースされた“M”名義のトラック。初期デトロイト・ミニマルを代表する一曲。
 
-Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con un sonido áspero pero potente.
+おすすめポイント：荒削りながらも骨太で、90年代初期のアンダーグラウンド感をそのまま体感できるコレクター必携盤。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Scenario
 A2. Switchblade
@@ -320,12 +320,12 @@ B2. Getaway
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4nfv1umHFU?si=PAuZ14GX1UywqvoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 

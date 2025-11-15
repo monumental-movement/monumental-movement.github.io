@@ -9,15 +9,15 @@ tags:
 - Latin
 - Reggae
 - Reggaeton
-title: Varios - Compilación latina
+title: Various – Latin Compilation
 ---
 
 
-Trebol Clan es un grupo de reggaeton de Puerto Rico.
+Trebol Clan（トレボルクラン）はプエルトリコ出身のレゲトン・グループ。
 
-Nicky Jam es un cantante y compositor estadounidense muy conocido en el mundo de la música latina que contribuyó significativamente al desarrollo del reggaetón y el trap latino.
+Nicky Jam（ニッキー・ジャム） は、ラテン音楽界でよく知られるアメリカのシンガー＆ソングライターで、レゲトンとラテントラップの発展に大きく貢献しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Trebol Clan – Agarrate
 
@@ -32,5 +32,5 @@ B2. Zion, Hector –Mirandonos
 B3. Julio Voltio, Tego Calderón – Se Van
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
 

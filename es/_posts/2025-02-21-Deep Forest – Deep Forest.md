@@ -10,16 +10,16 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: Bosque Profundo – Bosque Profundo
+title: Deep Forest – Deep Forest
 ---
 
 
-Deep Forest es un dúo formado en 1992 por Michel Sanchez y Éric Mouquet. Se caracteriza por un estilo de música mundial llamado electrónica étnica, que es una mezcla de ritmos étnicos, electrónicos, dance y chillout.
+Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)とÉric Mouquet(エリック・ムーケ)によって結成されたデュオ。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスした、エスニック・エレクトロニカと呼ばれるワールド・ミュージックのスタイルが特徴。
 
-Lanzado en 1992, el álbum fue nominado a un premio Grammy y "Sweet Lullaby" se convirtió en un éxito mundial.
+1992年にリリースされたこのアルバムは、グラミー賞のノミネートされ、「Sweet Lullaby」は世界的な大ヒットとなった。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -33,7 +33,7 @@ Lanzado en 1992, el álbum fue nominado a un premio Grammy y "Sweet Lullaby" se 
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,15 +8,15 @@ layout: post
 tags:
 - Techno
 - 90s
-title: Modelo 500 – Espacio profundo
+title: Model 500 – Deep Space
 ---
 
 
-Model 500 fue el alias utilizado por el DJ y productor Juan Atkins, conocido como uno de los pioneros del techno de Detroit, hasta 2008. Desde 2008, Model 500 ha presentado a Juan Atkins, Milton Baldwin (DJ Skurge) de Underground Resistance y Mark Taylor.
+Model 500は、デトロイトテクノの先駆者の1人として知られるDJ・プロデューサーJuan Atkins(ホアン・アトキンス)が2008年まで使用した別名義。2008年以降、Model 500はJuan Atkins、Underground ResistanceのMilton Baldwin(DJ Skurge)& Mark Taylorで活動している。
 
-"Deep Space" es un álbum de techno de Juan Atkins lanzado por el sello R&S Records en 1995. Una obra maestra que representa el techno de Detroit en los años 1990.
+「Deep Space」は、1995年にレーベルR & S RecordsからリリースされたJuan Atkinsのテクノアルバム。1990年代のデトロイトテクノを代表する名盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Milky Way
 2. Orbit
@@ -29,7 +29,7 @@ Model 500 fue el alias utilizado por el DJ y productor Juan Atkins, conocido com
 9. Lightspeed
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

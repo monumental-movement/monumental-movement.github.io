@@ -7,21 +7,21 @@ lang: es
 layout: post
 tags:
 - Noise
-title: Recoger música ruidosa funciona
+title: ノイズミュージック(Noise Music)作品をピックアップ
 ---
 
 
-"Una experiencia acústica pura que trasciende los límites de la música, Noise Music funciona"
+「音楽の境界を超える、純粋な音響体験、ノイズミュージック(Noise Music)作品群」
 
-<hora>
+<hr>
 
 ### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-- **Antecedentes**: Merzbow, la figura más importante del ruido japonés. Lanzado en 2004 por Importante Records, este es uno de los álbumes de la época en la que se alineaban canciones con títulos de pájaros.
-- **Aspectos destacados**: "Inundación de sonido" donde cambian las bandas de alta densidad. Un golpe decisivo que permite experimentar la "naturaleza escultórica" ​​del ruido.
+- **背景**：日本ノイズの最重要人物Merzbow。2004年、Important Recordsからの作品で、鳥類タイトルの曲群が並ぶ時期の一枚。  
+- **聴きどころ**：高密度の帯域が入れ替わる“音の洪水”。ノイズの「彫刻性」を体感できる決定打。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -31,24 +31,24 @@ title: Recoger música ruidosa funciona
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Zeni Geva – Deseo de agonía
+### Zeni Geva – Desire For Agony
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
-- **Antecedentes**: Se formaron en Tokio en 1987. Con KK.Null y Tatsuya Yoshida, cruzan rock progresivo/HC/metal/noise rock. Grabado en Chicago en 1993.
-- **Aspectos destacados**: la imagen de sonido agresiva abarca desde riffs atrevidos hasta explosiones improvisadas. Un representante de la intersección del ruido y el rock.
+- **背景**：1987年東京結成。KK.Nullと吉田達也を要に、プログレ／HC／メタル／ノイズロックを横断。1993年にシカゴで録音。  
+- **聴きどころ**：骨太リフから即興的爆裂まで、アグレッシブな音像の振れ幅。ノイズとロックの交差点の代表格。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Stigma = スティグマ
 A2. Dead Sun Rising = デッドサンライジング
@@ -63,24 +63,24 @@ B4. The Body = ザ ボディー
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Les Rallizes Dénudés – En vivo 1972
-<a href="https://movimiento-monumental.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
+### 裸のラリーズ（Les Rallizes Dénudés）– Live 1972
+<a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
-- **Antecedentes**: Formada en Kyoto en 1967. Una banda legendaria que estuvo activa desde los años 1960 hasta los 1990 y que tuvo una gran influencia en el noise rock tanto en Japón como en el extranjero. Mantiene la popularidad del culto.
-- **Aspectos destacados**: Sonidos sostenidos y desolados, zumbidos rugientes, ritmos repetitivos mínimos. La experiencia original de la psique del ruido japonés te golpea directamente.
+- **背景**：1967年、京都で結成。1960–90年代に活動し国内外のノイズロックに多大な影響を与えた伝説的バンド。カルト的人気を維持。  
+- **聴きどころ**：荒涼とした持続音と轟音のドローン、ミニマルに反復するグルーヴ。日本ノイズ・サイケの原体験的質感が直撃。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. 造花の原野 (Field of Artificial Flowers)
 2. 夜より深く (More Deeply Than the Night)
@@ -91,25 +91,25 @@ B4. The Body = ザ ボディー
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84819164983?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Peluquería: impresión de pavor desagradable / El mejor peinado de mi vida (7")
+### Hair Stylistics – Impression Of Nasty Dread / Best Of Hair-Style In My Life (7")
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **Antecedentes**: Masaya Nakahara bajo el nombre de Hair Stylistics. Lanzado en 1999, el modelo de 7 pulgadas continúa liderando el contexto experimental y de ruido hasta el día de hoy.
-- **Aspectos destacados**: La sensación de cortar y editar y la velocidad máxima instantánea del viento del ruido excesivo se incluyen en la versión corta. Ideal para principiantes y colecciones.
+- **背景**：中原昌也によるHair Stylistics名義。1999年リリースの7インチで、実験～ノイズ文脈を現在まで牽引。  
+- **聴きどころ**：短尺の中に切断・編集感覚と過剰ノイズの瞬間最大風速が封入。入門にもコレクションにも◎。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Impression Of Nasty Dread
 
@@ -117,20 +117,20 @@ B. Best Of Hair-Style In My Life
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53844058180?afid=6142608987){: .button1}
 
 <br>
 
 
 
 
-### SebastiAn – Fumar mata
+### SebastiAn – Smoking Kills
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **Antecedentes**: abanderado del electro francés en torno a Ed Banger. Un single que inyecta "ruido de grito" al electro futurista.
-- **Aspectos destacados**: Los cortes bruscos y la saturación de "Dolami". Un gran ejemplo de cómo disfrutar de la textura del ruido en formato club.
+- **背景**：Ed Banger周辺のフレンチ・エレクトロ旗手。未来派エレクトロに“叫ぶようなノイズ”を注入したシングル。  
+- **聴きどころ**：「Dolami」の鋭角ブレイクスと飽和。クラブ・フォーマットでノイズの質感を楽しむ好例。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A  Smoking Kills (?)
 
@@ -140,23 +140,23 @@ B2  Shoot
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17778455704?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpcsXaeZx7w?si=K2YtAvVZYNwf4xSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-### Tipsy – Desnudo en la luna / Golf espacial
+### Tipsy – Nude On The Moon / Space Golf
 <a href="https://monumental-movement.jp/Tipsy-Nude-On-The-Moon-Space-Golf/"><img src="../assets/images/Tipsy%20%E2%80%93%20Nude%20On%20The%20Moon%20Space%20Golf.webp"></a>
 
-- **Antecedentes**: Dúo de collage del lounge de San Francisco. Una mezcla de elementos abstractos/trip hop/experimentales/ruido.
-- **Aspectos destacados**: textura Lo-Fi x corte Mondo. También es una agradable introducción al "ruido agradable para los oídos".
+- **背景**：サンフランシスコのラウンジ・コラージュ・デュオ。アブストラクト／トリップホップ／実験／ノイズ要素が混交。  
+- **聴きどころ**：ローファイ質感×モンドなカットアップ。“耳に優しいノイズ”の入り口としても心地よい。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Nude On The Moon (Naked Volleyball Mix)
 A2. Nude On The Moon (DJ Friendly Mix)
@@ -166,24 +166,24 @@ B2. Space Golf (Venusian Swing Mix)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39453173414?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PzGx4oDDhAY?si=7ghPeZCVRG_1at2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
 
-### Hija Búfalo – WXBD
+### Buffalo Daughter – WXBD
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
-- **Antecedentes**: Trío japonés de rock experimental. Un álbum planificado con los aspectos electrónicos/noise realzados por la participación de varios remezcladores.
-- **Aspectos destacados**: Collage acústico en el contexto de big beats y breakbeats. Disfrute del placer de editar, incluidas las manos de Cornelius y otros.
+- **背景**：日本の実験ロック・トリオ。多彩なリミキサー参加でエレクトロニカ～ノイズの側面が強化された企画盤。  
+- **聴きどころ**：ビッグ・ビート～ブレイクビーツ文脈での音響コラージュ。Corneliusらの手つきも含めて編集の快楽を堪能。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Great Five Lakes (Kut Masta Kurt Mix)
 A2. Super Blooper (Panda's Goodvibe Mix)
@@ -197,23 +197,23 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hora>
+<hr>
 <br>
 
 
 
-## resumen
+## まとめ
 
-- **Si entras desde el rugido real** *Merzbird*/Naked Rally's.
-- *Smoking Kills* si quieres experimentar la textura del ruido en el contexto de un club.
-- Para un **enfoque de collage**, prueba Hair Stylistics/Tipsy/WXBD.
-- **Para aquellos que quieran crear sus propias cosas**, consulten la columna de Eurorack para conocer el mejor equipo antes de escucharlo.
+- **王道の轟音から**入るなら *Merzbird*／裸のラリーズ。  
+- **クラブ文脈で**ノイズの質感を味わうなら *Smoking Kills*。  
+- **コラージュ的アプローチ**なら Hair Stylistics／Tipsy／WXBD。  
+- **自作派**は Eurorackコラムで機材の当たりをつけてから試聴へ。  
 
 ---
 
-El ruido es música que se puede experimentar, no sólo escuchar. Utilice los enlaces para profundizar más.
+ノイズは「聴くだけ」ではなく「体験する」音楽。ぜひリンク先からさらに深掘りしてください。

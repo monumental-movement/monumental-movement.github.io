@@ -9,13 +9,13 @@ tags:
 - Pop Rock
 - Rock
 - 90s
-title: XTC – Ninguno de estos
+title: XTC – Nonsuch
 ---
 
 
-"Nonsuch" es el duodécimo álbum de estilo de la banda de rock británica XTC, lanzado por Virgin en 1992. El productor es Gus Dudgeon, quien ha trabajado en las obras de Elton John. Fue el álbum más político de XTC, tocó temas que iban desde el amor y la humanidad hasta la Guerra del Golfo y P•T•Barnum, y fue un éxito en Estados Unidos y Reino Unido.
+「Nonsuch 」は、1992年にVirginからリリースされたUKのロックバンドXTCの12枚目のスタイルアルバム。プロデューサーにはエルトン・ジョンの作品などを手がけるGus Dudgeon(ガス・ダッジョン)。愛、人間性から湾岸戦争、P•T•バーナムまで多岐にわたるトピックに言及したXTCの中では最も政治的なアルバムとなっており、アメリカとイギリスでヒットとなった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. The Ballad Of Peter Pumpkinhead
 2. My Bird Performs
@@ -36,7 +36,7 @@ title: XTC – Ninguno de estos
 17. Books Are Burning
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

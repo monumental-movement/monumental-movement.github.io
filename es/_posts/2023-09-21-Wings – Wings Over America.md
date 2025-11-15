@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - Rock
-title: Alas – Alas sobre América
+title: Wings – Wings Over America
 ---
 
 
-"Wings - Wings Over America" ​​​​es un álbum en vivo (juego de 3 LP) de la banda de rock británica Wings, lanzado en 1976. Wings es una banda formada por el ex Beatle Paul McCartney, y sus actividades comenzaron después de la disolución de los Beatles.
+「Wings - Wings Over America」は、1976年にリリースされたイギリスのロックバンド、ウイングス（Wings）のライブアルバム(LP3枚組)です。ウイングスは、元ビートルズのポール・マッカートニーが結成したバンドであり、その活動はビートルズの解散後に始まりました。
 
-Con grabaciones en vivo de la gira estadounidense de 1976 de Wings, captura vívidamente la actuación y la energía de la banda. El álbum incluye una amplia gama de canciones, incluidos éxitos de Wings y el trabajo solista de Paul McCartney.
+ウイングスのアメリカツアー（1976年）のライブ音源を収録しており、バンドのパフォーマンスとエネルギーを生き生きと捉えています。アルバムには、ウイングスのヒット曲やポール・マッカートニーのソロ作品など、幅広い楽曲が含まれています。
 
-Este álbum es un trabajo que simboliza la popularidad y el éxito de Wings, y ha recibido grandes elogios de los fanáticos y amantes de la música como un trabajo lleno de la sensación de presencia que solo se puede lograr a través de la presentación en vivo y el encanto de las canciones de Wings.
+このアルバムは、ウイングスの人気と成功を象徴する作品で、ライブ演奏ならではの臨場感と、ウイングスの楽曲の魅力が詰まった作品として、ファンや音楽愛好家から高い評価を得ています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Venus And Mars / Rock Show / Jet
 
@@ -76,7 +76,7 @@ F3. Hi, Hi, Hi
 F4. Soily
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ tags:
 - House
 - Acid
 - Techno
-title: DK7 – ¿Dónde está la diversión?
+title: DK7 – Where's The Fun
 ---
 
 
-La colaboración de Mark O'Sullivan y Jesper Dahlbach es una delicada pista electro-house con influencias del New Romantic.
+マーク・オサリバンとイェスパー・ダールバックのコラボレーションは、ニュー・ロマンティックの影響を受けており、デリケートなエレクトロハウスのトラックです。
 
-También tiene aspectos electro y techno y, al igual que el anterior modelo de 12 pulgadas del DK7, ofrece mucha variedad.
+また、エレクトロとテクノの両方の側面があり、DK7の以前の12インチ と同様に多くのバラエティが詰まっています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Where's The Fun (Original)
 
@@ -26,7 +26,7 @@ A2  Where's The Fun (Sten Remix)
 B  Where's The Fun(Sweet Light - Patinoires Italiennes Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78003001703?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78003001703?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x7ZuilW-zBg?si=iJ-Ox5M1PTsqEufF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

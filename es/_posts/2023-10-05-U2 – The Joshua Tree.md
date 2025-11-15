@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Pops
-title: U2 – El árbol de Josué
+title: U2 – The Joshua Tree
 ---
 
 
-""The Joshua Tree'' se inspiró en el Parque Nacional Joshua Tree, una zona desértica en el suroeste de los Estados Unidos. El álbum desarrolla el estilo musical único de U2 mientras explora temas religiosos y mensajes políticos. Fusionando elementos de rock, pop, blues y folk, presenta paisajes sonoros épicos y letras emotivas.
+「The Joshua Tree」はアメリカ南西部の砂漠地帯であるジョシュアツリー国立公園に触発されて制作されました。アルバムは、宗教的なテーマや政治的なメッセージを探求しながらもU2独自の音楽スタイルを展開しています。ロック、ポップ、ブルース、フォークなどの要素を融合させ、壮大なサウンドスケープとエモーショナルな歌詞が特徴です。
 
-El álbum incluye los éxitos "Con o sin ti", "Aún no he encontrado lo que estoy buscando" y "Donde las calles no tienen nombre".
+アルバムには大ヒットとなった楽曲「With or Without You」「I Still Haven't Found What I'm Looking For」「Where the Streets Have No Name」などが収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Where The Streets Have No Name
 
@@ -41,7 +41,7 @@ B5. Exit
 B6. The Mothers Of The Disappeared
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90322062120?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90322062120?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3-5YC_oHjE?si=y2qJQF5D3sZSunCi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

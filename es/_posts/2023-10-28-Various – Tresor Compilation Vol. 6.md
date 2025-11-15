@@ -8,13 +8,13 @@ layout: post
 tags:
 - Techno
 - German Techno
-title: Varios - Compilación Tresor vol. 6
+title: Various – Tresor Compilation Vol. 6
 ---
 
 
-"Various - Tresor Compilation Vol. 6" es un álbum recopilatorio lanzado en 1998.
+「Various – Tresor Compilation Vol. 6」は、1998年にリリースされたコンピレーションアルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -31,7 +31,7 @@ title: Varios - Compilación Tresor vol. 6
 13. Substance –Plate Element 2
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

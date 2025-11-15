@@ -9,25 +9,25 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Hiromi Go - Niños y niñas
+title: 郷ひろみ  – 男の子女の子
 ---
 
 
-"Hiromi Go – Niños y niñas"
-Este es el primer sencillo (canción debut) de Hiromi Go lanzado en 1972.
+「郷ひろみ（Hiromi Go）– 男の子女の子」は、
+1972年リリースの郷ひろみ1作目のシングル(デビュー曲)です。
 
-Letra – Tokiko Iwatani
+歌詞 – 岩谷時子
 
-Música y arreglos – Kyohei Tsutsumi
+ミュージック＆アレンジ – 筒美京平
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 男の子女の子
 
 B. 夢をおいかけて 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m65536068003?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65536068003?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQAeCarOM2g?si=3zhBZHwf1dYFUfnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

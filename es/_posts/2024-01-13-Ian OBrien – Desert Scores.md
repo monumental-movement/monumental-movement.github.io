@@ -9,19 +9,19 @@ tags:
 - Tech Jazz
 - Techno
 - Jazz
-title: Ian O'Brien - Partituras del desierto
+title: Ian O'Brien – Desert Scores
 ---
 
 
-Ian O'Brien es originalmente un musicólogo británico que estuvo fuertemente influenciado por el sonido techno de Detroit, particularmente la resistencia underground.
+イアン・オブライエン（Ian O'Brien）はもともと英国の音楽学者で、デトロイトテクノサウンド、特にアンダーグラウンド・リジスタンスなどに強く影響を受けました。
 
-Este sonido lo inspiró a comenzar a producir su propia música.
+このサウンドが彼に自らの音楽制作を始めるきっかけとなりました。
 
-Esta pasión por la 'Enfermedad de Mad Mike' lo llevó a producir temas primero con Asad Rizvi bajo el nombre de Memory Tree, y luego en solitario para varios sellos de techno británicos.
+この「マッド・マイク・ディジーズ」とでも呼ぶべき情熱により、彼は最初にアサド・リズヴィとMemory Treeの名前でトラックを制作し、その後、イギリスのさまざまなテクノレーベルでソロで制作することになりました。
 
-Lanzado en 1997, "Ian O'Brien - Desert Scores" se considera una obra maestra y todavía se considera parte del género tech-jazz del que fue pionero el EP Galaxy 2 Galaxy.
+1997年リリースの「Ian O'Brien - Desert Scores」は、代表作とされ、Galaxy 2 Galaxy EPで開拓されたようなテックジャズの一環として今でも見なされています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Dayride
 
@@ -44,5 +44,5 @@ D1. Desert Scores
 D2. Dark Eye Tango
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70671741506?afid=6142608987){: .button1}
 

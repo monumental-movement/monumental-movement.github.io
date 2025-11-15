@@ -10,16 +10,16 @@ tags:
 - Techno
 - Synth-pop
 - 00s
-title: Luke Slater - Muy bien en la cima
+title: Luke Slater – Alright On Top
 ---
 
 
-Un álbum lanzado en 2002 por el sello Mute, con la voz íntegramente de Ricky Barrows. Se incluye la exitosa canción "Nothing At All".
-Las pistas 11 y 12 son pistas extra solo para la versión japonesa.
+レーベルMuteから2002年にリリースされた 、Ricky Barrows(リッキーバローズ)のヴォーカルを全面にフィーチャーしたアルバム。ヒット曲が「Nothing At All」が収録されている。
+Track11&12は日本盤のみボーナストラック。
 
-El diseño de la chaqueta es de Julian House, también conocido como House, un diseñador gráfico del Reino Unido que ha trabajado en diseños para Stereolab, Oasis, The Prodigy, Broadcast, Razorlight y más.
+ジャケットデザインは、Stereolab, Oasis, The Prodigy, Broadcast, Razorlightなどのデザインを手掛けるUKのグラフィックデザイナーHouse ことJulian Houseによるもの。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Nothing At All
 2. You Know What I Mean
@@ -37,7 +37,7 @@ El diseño de la chaqueta es de Julian House, también conocido como House, un d
 11&12ボーナストラック
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

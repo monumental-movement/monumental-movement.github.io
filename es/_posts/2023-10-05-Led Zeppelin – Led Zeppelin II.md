@@ -12,11 +12,11 @@ title: Led Zeppelin – Led Zeppelin II
 ---
 
 
-"Led Zeppelin II" es una evolución adicional del sonido de la banda y contiene canciones duras y enérgicas. El álbum presenta actuaciones que resaltan los talentos de cada miembro, incluidos los riffs de guitarra de Jimmy Page, la voz de Robert Plant, la batería de John Bonham y el bajo de John Paul Jones.
+「Led Zeppelin II」は、バンドのサウンドをさらに進化させた作品であり、ハードでエネルギッシュな楽曲が収録されています。アルバムは、ジミー・ペイジ（Jimmy Page）のギターリフ、ロバート・プラント（Robert Plant）のヴォーカル、ジョン・ボーナム（John Bonham）のドラム、ジョン・ポール・ジョーンズ（John Paul Jones）のベースなど、メンバーそれぞれの才能が光る演奏で構成されています。
 
-El álbum contiene muchas canciones exitosas, entre las que destacan "Whole Lotta Love", "Heartbreaker" y "Ramble On". Estas canciones personifican el sonido característico de Led Zeppelin, con poderosos riffs de guitarra y la imponente interpretación vocal de Plant.
+アルバムには多くのヒット曲が含まれており、「Whole Lotta Love」や「Heartbreaker」、「Ramble On」などが特に知られています。これらの曲は、レッド・ツェッペリンのシグネチャーサウンドを象徴するものであり、パワフルなギターリフとプラントの圧倒的なヴォーカルパフォーマンスが特徴です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Whole Lotta Love
 
@@ -37,7 +37,7 @@ B4. Moby Dick
 B5. Bring It On Home
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m17507286292?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17507286292?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W2bxOJX-E3M?si=M6YK6py45hbfKlGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

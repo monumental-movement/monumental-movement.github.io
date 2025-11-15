@@ -9,23 +9,23 @@ tags:
 - Techno
 - Detroit Techno
 - 90s
-title: Jeff Mills - EP realista
+title: Jeff Mills – Lifelike E.P
 ---
 
 
-"Condor To Mallorca" de Jeff Mills, como sugiere el título, es una pista con una sensación de viaje místico, que comienza con sonidos de teclado inspirados respaldados por un programa rítmico similar al calipso que converge con un bombo.
+ジェフ・ミルズによる「Condor To Mallorca」は、まさにタイトルが示す通り、神秘的なトリップ感を感じるトラックで、最初はカリプソ調のリズムプログラムに後押しされたインスピレーション溢れる鍵盤の響きが、キックドラムへと収束していきます。
 
-La pista luego adquiere un aspecto más siniestro cuando entran los elementos de cuerda.
+そして、ストリングスの要素が入ると、トラックはより不穏な様相を帯びてきます。
 
-Este EP es un abridor muy fuerte con sus inquietantes temas musicales, y "Time After Space" tiene una sensación cósmica.
+このEPは、不穏な音楽的テーマを扱ったオープニングとして非常に強力で、「Time After Space」は宇宙的な感覚を感じます。
 
-"Detached" es probablemente una de sus mejores obras.
+「Detached」は、恐らく彼の最高傑作の中でも数少ない作品といえるでしょう。
 
-"Black Avenger" atrae a los oyentes con su frenesí de percusión y sus teclas duras.
+「Black Avenger」は、パーカッシヴな熱狂と、硬質なキーでリスナーを惹きつけます。
 
-Imprescindible para cualquier fan de Jeff Mills, este es un disco especial que cubre muchos de los amplios temas del trabajo de Jeff Mills, al mismo tiempo que expresa los resultados únicos y poderosos de cada canción individual.
+ジェフ・ミルズの作品における幅広いテーマの多くを網羅しつつ、個々の楽曲が持つユニークで強力な結果を損なうことなく表現している特別なレコードなのでジェフ・ミルズファン必携の一枚。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Condor To Mallorca
 
@@ -36,7 +36,7 @@ B1. Detached
 B2. Black Avenger
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

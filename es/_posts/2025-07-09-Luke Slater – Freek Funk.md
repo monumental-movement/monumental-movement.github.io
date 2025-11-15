@@ -13,13 +13,13 @@ title: Luke Slater – Freek Funk
 ---
 
 
-Luke Slater es un músico electrónico, DJ y productor discográfico británico que ha estado activo en la vanguardia de la escena techno desde principios de los años 1990. Otros nombres incluyen Sistemas de Asalto Planetario y LSD.
+Luke Slater (ルーク・スレーター)は、1990年代初頭からテクノシーンの第一線で活躍するイギリスのエレクトロニック・ミュージシャン、DJ、レコード・プロデューサー。別名義でPlanetary Assault SystemsやLSDなどがある。
 
-"Freek Funk" es un álbum de techno lanzado en 1997 por el sello británico de techno y electrónica NovaMute. Incluye la exitosa canción "Love".
+「Freek Funk」は、1997年にUKのテクノ＆エレクトロニカレーベルNovaMute(ノヴァミュート)からリリースされたTechnoアルバム。ヒット曲「Love」が収録されている。
 
-En 2017, Mixmag lo nombró el quinto mejor álbum de techno de la década de 1990.
+2017年には、Mixmagで1990年代の5番目に偉大なテクノアルバムに選出された。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Purely
 2. Score One
@@ -39,7 +39,7 @@ En 2017, Mixmag lo nombró el quinto mejor álbum de techno de la década de 199
 16. Walking The Line
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

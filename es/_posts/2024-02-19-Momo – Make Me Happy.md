@@ -9,16 +9,16 @@ tags:
 - Electro
 - Pops
 - 00s
-title: Momo - Hazme feliz
+title: Momo – Make Me Happy
 ---
 
 
-Un disco de proyecto publicado en 2000 por el oso rosa "MOMO" de PostPet. El productor es Ken Ishii.
+PostPet（ポストペット/略称ポスペ）のピンクのクマ「MOMO（モモ）」の2000年にリリースされた企画レコード。プロデューサーはKen Ishii （ケンイシイ）。
 
-La segunda canción de la cara A es un remix de Heigo Tani de Co-Fusion.
+A面２曲目はCo-Fusion（コフュージョン）の谷丙午によるremix。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Make Me Happy (Momo's Theme)
 
@@ -29,5 +29,5 @@ B1. おつかいモモ
 B2. Make Me Happy (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
 

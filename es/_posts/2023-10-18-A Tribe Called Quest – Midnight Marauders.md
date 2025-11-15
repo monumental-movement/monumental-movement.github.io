@@ -7,13 +7,13 @@ lang: es
 layout: post
 tags:
 - Hiphop
-title: Una tribu llamada misión – Merodeadores de medianoche
+title: A Tribe Called Quest – Midnight Marauders
 ---
 
 
-Midnight Marauders, lanzado en 1993, es el tercer álbum de ATCQ.
+1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Midnight Marauders Tour Guide
 A2. Steve Biko (Stir It Up)
@@ -32,7 +32,7 @@ B6. Lyrics To Go
 B7. God Lives Through
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVKrrs5K9v0?si=VtZH_3NbbX7HA-GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,20 +11,20 @@ tags:
 - Breaks
 - Electro
 - 00s
-title: Dédalo – Hazlo así
+title: Daedelus – Make It So
 ---
 
 
-El productor musical estadounidense radicado en Los Ángeles Alfred Weisberg-Roberts, conocido como Daedelus, es un artista que construye un sonido único a través de métodos experimentales que mezclan varios elementos musicales. "Make It So" es un sencillo del álbum de estudio "Love to Make Music To" lanzado por el prestigioso sello británico Ninja Tune en 2008.
+Daedelus名義で知られる、LAを拠点とするUS音楽プロデューサーAlfred Weisberg-Robertsは、様々な音楽要素を混ぜ合わせたエクスペリメント手法でユニークなサウンドを構築するアーティスト。「Make It So」は, 2008年にUKの名門レーベルNinja Tuneからリリースされスタジオアルバム「Love to Make Music To」からのシングルカット。
 
-La primera canción de la cara A es un remix de XXXchange, un ex miembro de Spank Rock.
+A面１曲目は、元Spank Rock（スパンク・ロック）のメンバーのXXXchangeによるremix。
 
-La primera canción de la cara B es del veterano de la música electrónica DJ Moonstarr.
-remezclar por
+B面１曲目は、エレクトロニックミュージック界のベテランDJ Moonstarr
+によるremix。
 
-La segunda canción de la cara B es un remix de Samiyam, un productor de hip-hop estadounidense con sede en Los Ángeles que también trabaja como el dúo de producción FLYamSAM con Flying Lotus.
+B面２曲目は、LAを拠点とするUSヒップホッププロデューサーであり、Flying Lotus（フライング・ロータス）とのプロダクションデュオFLYamSAMとしても活動するSamiyamによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Make It So (XXXchange Remix)
 A2. Make It So (Album Version)
@@ -33,7 +33,7 @@ B1. Make It So (Moonstar Remix)
 B2. Make It So (Samiyam Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72975303181?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72975303181?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCylb7E0EXY?si=HxEuDUNKPER_Uss8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

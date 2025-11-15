@@ -9,16 +9,16 @@ layout: post
 tags:
 - Bossa Nova
 - Jazz
-title: Gilberto Con Turrentine Arreglo De Deodato – Gilberto Con Turrentine
+title: Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine
 ---
 
 
-Este álbum es una colaboración entre el cantante brasileño de bossa nova João Gilberto y el saxofonista tenor estadounidense Stanley Turrentine.
+ブラジルのボサノヴァ歌手ジョアン・ジルベルト（João Gilberto）とアメリカのテナーサックス奏者スタンリー・タレンタイン（Stanley Turrentine）が共演したアルバムです。
 
-"Gilberto With Turrentine" combina el magistral canto de bossa nova y la guitarra de João Gilberto con el conmovedor saxofón tenor de Stanley Turrentine. Los arreglos de Deodato fusionan elementos de la música brasileña y el jazz para crear un sonido único y atractivo.
+「Gilberto With Turrentine」では、ジョアン・ジルベルトの優れたボサノヴァの歌声とギタープレイに、スタンリー・タレンタインのソウルフルなテナーサックスが組み合わされています。デオダートのアレンジによって、ブラジル音楽とジャズの要素が融合し、ユニークで魅力的なサウンドが生まれました。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1.Wanting Things
 
@@ -49,7 +49,7 @@ Bonus Tracks
 13.Polytechnical High
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

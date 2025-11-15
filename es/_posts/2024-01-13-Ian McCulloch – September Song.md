@@ -9,19 +9,19 @@ tags:
 - New-Wave
 - Rock
 - 80s
-title: Ian McCulloch - Canción de septiembre
+title: Ian McCulloch – September Song
 ---
 
 
-Ian McCulloch es un cantante y guitarrista (nacido el 5 de mayo de 1959) conocido por su imagen emocional y es conocido principalmente como el vocalista de Echo And The Bunnymen.
+Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。
 
-Su carrera también incluye su tiempo en The Crucial Three con Pete Wylie y Julian Cope en los años 1970, y en la rama de Bunnymen, Electrafixion, en los años 90.
+彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。
 
-McCulloch cita a Lou Reed, Iggy Pop, The Doors, Leonard Cohen y especialmente a David Bowie como sus influencias musicales.
+マッカロークは自身の音楽的影響源として、ルー・リード、イギー・ポップ、ザ・ドアーズ、レナード・コーエン、そして特にデヴィッド・ボウイを挙げています。
 
-Describe la canción "Susan" de Cohen de 1968 como "una canción con letra perfecta y una melodía perfecta", y a Bowie como "el mayor solista del siglo XX que tuvo una gran influencia".
+彼は、コーエンの1968年の曲「スーザン」を「完璧な歌詞と完璧なメロディーを持つ曲」、そしてボウイを「非常に大きな影響を与えた20世紀最高のソロアーティスト」と評しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. September Song (Long Version)
 
@@ -30,7 +30,7 @@ B1. September Song (Short Version)
 B2. Cockles And Mussels
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99638933922?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5CoAIAfK50?si=pRc5zO63wNDD3uZ5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

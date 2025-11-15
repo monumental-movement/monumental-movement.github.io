@@ -9,17 +9,17 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Max Lee – Sistema de admisión
+title: Max Lee – Intak Sistem
 ---
 
 
-Max Lee, también conocido como Massimo Favarin, es un productor y DJ italiano. También participó activamente como miembro de los proyectos de techno italianos Klima y Adrenalina.
+Max LeeことMassimo Favarinは、イタリアのプロデューサー・DJ。イタリアのテクノプロジェクトKlimaやAdrenalinaのメンバーとしても活躍した。
 
-El productor es el DJ y productor italiano OTTOMIX (Ottorino Menardi), que ha estado lanzando temas dance/disco desde principios de los años 1980.
+プロデューサーは、80年代初頭からダンス/ディスコトラックをリリースしているイタリアのDJ・プロデューサーOTTOMIX（Ottorino Menardi）。
 
-"Intak Sistem" es una pista de techno hardcore lanzada en 1992 por el sello italiano de techno dance Tax Disk, fundado por Ottorino Menardi y Massimo Favarin.
+「 Intak Sistem」は、Ottorino MenardiとMassimo Favarinが設立したイタリアのテクノダンスレーベルTax Diskから1992年にリリースされたハードコア・テクノトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Intak Sistem (Club Mix)
 A2. Intak Sistem (Instrumental)
@@ -28,7 +28,7 @@ AA1. Intak Sistem (Up Version)
 AA2. Intak Sistem (Epiletik Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m22476498598?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22476498598?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXnzOM2ha5o?si=RKMM0qRP6endJnYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,13 +11,13 @@ tags:
 - IDM
 - 90s
 - Rare
-title: Continuo espacio-temporal – Emitir Ecaps
+title: Spacetime Continuum – Emit Ecaps
 ---
 
 
-Un LP doble lanzado en 1996 por Jonah Sharp, también conocido como Spacetime Continuum, un incondicional de la escena underground techno/ambient/electrónica de los años 90, en su propio sello reflexivo Records.
+90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Iform
 A2. Kario
@@ -34,7 +34,7 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

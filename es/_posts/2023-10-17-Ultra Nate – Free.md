@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Speed Garage
-title: Ultra Naté – Gratis
+title: Ultra Naté – Free
 ---
 
 
-Lanzado en 1997 con el sello Strictly Rhythm, "Ultra Naté – Free" es considerado uno de los himnos dance de los años 90.
+1997年レーベルStrictly Rhythmからリリースされた「Ultra Naté – Free」は、90年代のダンスアンセムの 1 つとされている。
 
-La primera y la segunda canción de la cara A son remezclas de M&S, un proyecto del DJ de garage británico Ricky Morrison y Fran Sidoli.
-La tercera pista de la cara A es un remix del grupo house alemán Tiefschwarz.
-La primera canción de la cara B es un remix del DJ y productor nacido en Miami, George Acosta.
+A面1,2曲目は、UKのガラージDJ Ricky Morrison（リッキー ・モリソン）と Fran Sidoli（フラン・シドリ）によるプロジェクトM&Sによるremix。
+A面3曲目は、ドイツのハウス・グループTiefschwarz（ティーフシュヴァルツ）によるremix。
+B面1曲目は、マイアミ出身のDJ/プロデューサーGeorge Acostaによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Free (M&S Philly Klub Mix)
 
@@ -31,7 +31,7 @@ B1. Free (GA's Mix)
 B2. Free (M&S Epic Reprise Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m11492188360?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11492188360?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JgRBkjgXHro?si=c26ChI7vGaIQqXFJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,14 +8,14 @@ layout: post
 tags:
 - House
 - Garage
-title: Frankie Knuckles con Adeva –Whadda U Want (de mí)
+title: Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)
 ---
 
 
-"Frankie Knuckles con Adeva –Whadda U Want (de mí)"
-Este EP también incluye remezclas de temas famosos de Frankie Knuckles lanzados en 1995.
+「Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)」は、
+1995年にリリースされたフランキー・ナックルズの有名なトラックのリミックスも収録したEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Whadda U Want (From Me) (Frankie's Classic Club)
 
@@ -24,7 +24,7 @@ A2. Walkin' (Grant Nelson's Divine Gospel Remix)
 B1. Whadda U Want (From Me) (K-Klass Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96883382943?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96883382943?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gw0-sJChk-Q?si=leW52dGUMInF69D9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

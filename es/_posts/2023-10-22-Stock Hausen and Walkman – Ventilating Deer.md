@@ -9,29 +9,29 @@ tags:
 - Experimental
 - Collage
 - 10inch
-title: Stock, Hausen & Walkman – Venado ventilado
+title: Stock, Hausen & Walkman – Ventilating Deer
 ---
 
 
-Stock, Hausen & Walkman (Stock, Hausen & Walkman) es una unidad de música de collage de muestreo del Reino Unido que representa los años 90.
+Stock, Hausen & Walkman (ストック、ハウゼン & ウォークマン)は、90年代を代表するUKサンプリング・コラージュ・ミュージックユニット。
 
-El nombre de la banda, Stock, Hausen & Walkman (1991-2001), es una obra de teatro con el pionero de la música electrónica Karlheinz Stockhausen, el artista pop producido en masa de los 80 Stock Aitken Waterman y el Walkman de Sony.
+ストック、ハウゼン & ウォークマン (1991-2001)というバンド名は、電子音楽のパイオニアであるカールハインツ・シュトックハウゼン、80年代の量産型ポップスを手がけたストック・エイトキン・ウォーターマン、そしてソニーのウォークマンを掛け合わせたものだ。
 
-Cuando se formaron por primera vez a finales de la década de 1980, eran un dúo de improvisación experimental formado por Matt Wand (padrino y fundador de la banda) y el guitarrista Rex Caswell.
+結成当初の1980年代後半は、マット・ワンド (バンド名付け親かつ創設者) とギタリストのレックス・カスウェルによる実験即興デュオでした。
 
-Durante sus actividades, el violonchelista Dan Weaver y los bateristas Richard Harrison y Andrew Sharpley participaron en presentaciones en vivo y en el estudio.
+活動中には、チェロのダン・ウィーバー、ドラマーのリチャード・ハリスン、アンドリュー・シャープリーらがライブやスタジオで参加。 
 
-En 1990, también apareció en "Company Week" a petición de Derek Bailey.
+1990年には、デレク・ベイリーの要請で「カンパニー・ウィーク」にも出演。
 
-Incluso después de que Caswell se mudó a Dinamarca y Weaver se tomó un descanso de la grabación debido a su trabajo en danza y teatro, Wand continuó trabajando y produjo quizás sus álbumes más exitosos, Organ Transplants vol. 1 y 2. Sharpley también contribuyó musicalmente.
+カスウェルがデンマークに移住し、ウィーバーがダンスや演劇の仕事でレコーディング休止になった後も、ワンドを中心として活動は続き、恐らく最も成功したアルバム「Organ Transplants vol.1 & 2」が制作された。 シャープリーも音楽面で貢献している。 
 
-Wand fundó y operó Hot Air Records para promover los discos de S,H&W y lanzó una amplia gama de trabajos propios y de otros artistas del sello.
+ワンドは、S,H&W レコードを世に出すために Hot Air Recordsを設立・運営し、同レーベルで自分たちの作品だけでなく、他のアーティストの作品も幅広くリリースした。
 
-Actualmente, continúa operando el sello y planifica, diseña y produce álbumes.
+現在もレーベルを続け、アルバムの企画、デザイン、プロデュースを行っている。 
 
-Aunque el proyecto terminó en 2001, Wand continúa publicando material de archivo "interesante" de S, H&W en Hot Air.
+2001年にプロジェクトは終了したが、ワンドは Hot Air から「興味深い」S,H&W のアーカイブ・マテリアルをリリースし続けている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Sleep
 
@@ -54,7 +54,7 @@ B4. Skipper
 B5. Flagging
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86169877187?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maYl0-KHSl0?si=ujk3exYDzMOCpngl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

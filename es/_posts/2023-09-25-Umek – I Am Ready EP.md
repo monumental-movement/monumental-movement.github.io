@@ -8,24 +8,24 @@ layout: post
 tags:
 - Techno
 - Electro
-title: Umek – Estoy listo EP
+title: Umek – I Am Ready EP
 ---
 
 
-I Am Ready EP es un EP de Umek, un DJ y productor de techno de Eslovenia.
+I Am Ready EP」は、スロベニア出身のテクノDJおよびプロデューサーであるUmekによるEPです。
 
-Este EP está lleno del sonido techno característico de Umek, con ritmos bailables, líneas de bajo maravillosas y sonidos de sintetizador sofisticados. Sus canciones combinan elementos melódicos, poderosos y llenos de energía, lo que las hace perfectas para tocar en la escena de clubes.
+このEPには、Umekの特徴的なテクノサウンドが詰まっており、ダンサブルなビート、グルーヴィなベースライン、洗練されたシンセサウンドが特徴です。彼の楽曲は、パワフルでハイエナジーな要素とメロディアスな要素を組み合わせ、クラブシーンでのプレイに最適な楽曲となっています。
 
-"I Am Ready EP" es la última expresión de la música de Umek para los fans de Umek y los amantes de la música techno, permitiéndoles apreciar plenamente el encanto y la singularidad de la música de Umek. Su sonido ha contribuido a la evolución e innovación de la música techno y se ha convertido en una parte esencial de la vida de muchas personas.
+「I Am Ready EP」は、Umekのファンやテクノミュージック愛好家にとって、彼の音楽の最新の表現として注目される作品となっており、Umekの音楽の魅力と独自性を堪能することができます。彼のサウンドは、テクノミュージックの進化と革新に寄与しており、多くの人々にとって不可欠な存在となっています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. I Am Ready
 
 B1. Music Ventilator
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H9qKpbQXzfA?si=jsDAkeWH0jFXQ4Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

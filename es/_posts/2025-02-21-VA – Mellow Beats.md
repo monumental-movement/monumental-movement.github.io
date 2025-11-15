@@ -9,14 +9,14 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA – Ritmos suaves, espíritus y sabiduría
+title: VA – Mellow Beats, Spirits & Wisdom
 ---
 
 
-Publicado en 2008 por P-Vine Records
-Un álbum recopilatorio HIPHOP suave y de jazz seleccionado y supervisado por Toru Hashimoto.
+2008年にP-Vine Recordsからリリースされた
+橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
@@ -39,7 +39,7 @@ Un álbum recopilatorio HIPHOP suave y de jazz seleccionado y supervisado por To
 19. Noel Zancanella – Lovely
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

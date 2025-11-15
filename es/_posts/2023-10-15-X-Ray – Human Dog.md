@@ -8,20 +8,20 @@ layout: post
 tags:
 - Heavy Metal
 - Hard Rock
-title: Rayos X – Perro humano
+title: X-Ray – Human Dog
 ---
 
 
-X-Ray fue una banda japonesa de heavy metal que estuvo activa desde 1981 hasta 1986. Human Dog, lanzado en diciembre de 1985, fue el último EP de X-Ray.
+X-Ray（エックスレイ）は、1981年から1986年まで活動した日本のヘヴィメタルバンド。1985年12月にリリースされた「Human Dog」は、X-Ray最後のEP。
 
-miembro:
-Akira Fujimoto (voz)
-Susumu Yuasa (guitarra)
-Takafumi Usui (bajo)
-Kazuhisa Takahashi (batería)
-Takahiro Fujiyama (teclado)
+メンバー：
+藤本朗（ボーカル）
+湯浅晋（ギター）
+臼井孝文（ベース）
+高橋和久（ドラム）
+藤山高浩（キーボード）
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Human Dog
 
@@ -30,7 +30,7 @@ A2. Fade Away
 B1. Burning Like the Fire (Long Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m16707818802?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16707818802?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ocH5AikdpE?si=mtP_DziALRHGLUk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

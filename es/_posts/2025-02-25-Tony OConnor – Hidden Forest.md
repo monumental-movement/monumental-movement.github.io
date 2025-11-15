@@ -9,15 +9,15 @@ tags:
 - New Age
 - Ambient
 - 90s
-title: Tony O'Connor - Bosque escondido
+title: Tony O'Connor – Hidden Forest
 ---
 
 
-Tony O'Connor es un creador de música ambiental y relajante que vive en Queensland, Australia.
+Tony O'Connorは、オーストラリア・クイーンズランド州を拠点に活動していた、アンビエント/リラックスミュージッククリエーター。
 
-El álbum fue lanzado en 1993 en el sello del fotógrafo australiano Steve Parish.
+このアルバムはオーストラリアの写真家Steve Parishのレーベルから1993年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Hidden Forest
 2. I Wonder
@@ -28,7 +28,7 @@ El álbum fue lanzado en 1993 en el sello del fotógrafo australiano Steve Paris
 7. Remember
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

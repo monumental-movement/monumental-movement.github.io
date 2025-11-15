@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Techno
-title: Terciopelo verde – Pistas de portamento
+title: Green Velvet – Portamento Tracks
 ---
 
 
-Curtis Alan Jones, más conocido como Green Velvet, es un cantante, productor discográfico y DJ de Chicago.
+Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 
 
-También conocido como Cajmere, Geo Vogt, Half Pint, Curan Stone y Gino Vittori.
+別名義でCajmere、Geo Vogt、Half Pint、Curan Stone、Gino Vittori としても知られている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. I Want To Leave My Body
 
@@ -27,7 +27,7 @@ B1. Flash
 B2. Explorer
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m55278073484?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55278073484?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OVIMEj9qN3g?si=f81gY7AyZq7f6dSL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

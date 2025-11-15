@@ -8,32 +8,32 @@ layout: post
 tags:
 - Techno
 - Break Beat
-title: Manix – Mentes maníacas
+title: Manix – Manic Minds
 ---
 
 
-"Manix" es el proyecto en solitario de Marc Clair de 4 Hero. Manix era uno de los artistas más importantes de la escena rave del Reino Unido en ese momento, que se centraba en los breakbeats de la vieja escuela.
+「Manix（マニックス）」は、4 HeroのMarc Clairのソロプロジェクト。Manixは、UKのオールドスクールブレイクビーツを中心とした当時のレイブシーンにおいて重要なアーティストの一人。
 
-[Lista de muestra]
-Seguimiento de la IA
+【サンプル一覧】
+Track Ai
 
-Sintetizador: Expansión modular - Cubos
-Drum Break: The Winstons - Amén, hermano.
-Vocal/Scratch: Jungle Brothers - Bonus Beat de Jimmy.
-Voz: Cheryl Lynn - Encore.
+シンセ：Modular Expansion - Cubes
+ドラムブレイク：The Winstons - Amen, Brother.
+ヴォーカル/スクラッチ：Jungle Brothers - Jimmy's Bonus Beat.
+ヴォーカル：Cheryl Lynn - Encore.
 
-Pista Aii
+Track Aii
 
-Piano: Bizarre Inc - Tocando con cuchillos.
-Ruido de pitido: Lágrimas de miedo - Mundo loco.
-Vocal: Public Enemy - Black Steel en la hora del caos.
+ピアノ：Bizarre Inc - Playing With Knives.
+ビープノイズ：Tears For Fears - Mad World.
+ヴォーカル：Public Enemy - Black Steel In The Hour Of Chaos.
 
-Seguimiento de AAi
+Track AAi
 
-Piano Sterling Void - No quiero ir.
-Voz: Extorsión con Dihan Brooks - ¿Cómo me ves ahora?
+ピアノ Sterling Void - Don't Wanna Go.
+ヴォーカル：Extortion Featuring Dihan Brooks - How Do You See Me Now.
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Ai. Stupid Dope Mix (Pt. 1){: .button1}
 
@@ -44,7 +44,7 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

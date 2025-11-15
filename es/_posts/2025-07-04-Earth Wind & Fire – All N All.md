@@ -11,15 +11,15 @@ tags:
 - Funk
 - Disco
 - 70s
-title: 'Tierra, viento y fuego: todo y todo'
+title: Earth, Wind & Fire – All 'N All
 ---
 
 
-All 'n All es el octavo álbum de estudio de la banda estadounidense Earth, Wind & Fire, lanzado por Columbia Records en 1977. Este álbum es la obra maestra de Earth, Wind & Fire, alcanzando el número 1 en la lista Billboard Top R&B/Hip-Hop Albums de EE. UU.
+All 'n Allは、1977年にコロンビア・レコードからリリースされたアメリカのバンドEarth, Wind & Fireの8枚目のスタジオ・アルバム。このアルバムは、US BillboardTop R&B/Hip-Hop Albumsチャートで1位を記録した、Earth, Wind & Fireの代表作。
 
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Serpentine Fire
 A2. Fantasy
@@ -38,9 +38,9 @@ B3b. Brazilian Rhyme (Interlude)
 B4. Be Ever Wonderful
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m76644904752?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76644904752?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SLdXACCX5Fg?si=IML-Fjvuj7lboTcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3f-jQxceV6o?si=k2wnVu_ss_BvgH2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

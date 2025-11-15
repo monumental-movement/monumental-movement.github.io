@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - Lounge
-title: Mundo Grosso – MG4
+title: Mondo Grosso – MG4
 ---
 
 
-Música de club japonesa basada en las raíces de Shinichi Osawa en el jazz, el soul y la música brasileña, con delicados arreglos utilizando instrumentos en vivo y ritmos de baile de 2Step.
+大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。
 
-También se incluyen "Life" y "Butterfly", que fueron éxitos en ese momento y presentaban a Bird.
+birdをフィーチャリングし、当時ヒットした「Life」や「Butterfly」も収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  MG2SS
 
@@ -43,7 +43,7 @@ F1  Star Suite IIII. North Star
 F2  1974-Way Home
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

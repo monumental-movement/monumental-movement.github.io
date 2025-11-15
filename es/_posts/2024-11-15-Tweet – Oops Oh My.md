@@ -9,17 +9,17 @@ tags:
 - Hiphop
 - Soul
 - Contemporary R&B
-title: Tweet - Ups (Oh Dios)
+title: Tweet – Oops (Oh My)
 ---
 
 
-Charlene Keys, también conocida como Tweet, es una cantante, compositora, guitarrista y actriz estadounidense de R&B/soul.
+TweetことCharlene Keysは、アメリカのR&B/ソウルシンガー、ソングライター、ギタリスト、女優。
 
-"Oops (Oh My)", lanzado por Elektra en 2002, es el sencillo debut en solitario de Tweet.
+2002年にElektraからリリースされた「Oops (Oh My)」はTweetはデビューソロシングル。
 
-Producida por Timbaland, con la voz invitada de Missy Elliott. Se convirtió en un gran éxito, alcanzando el número uno en la lista Hot R&B/Hip-Hop Songs y el número siete en el Billboard Hot 100.
+プロデュースはTimbaland(ティンバランド)、Missy Elliott(ミッシー・エリオット)がゲストボーカルを担当している。ホットR&B/ヒップホップソングで1位、ビルボードホット100で7位を記録する大ヒットとなった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Oops (Oh My) (Album Version)
 A2. Oops (Oh My) (Original Version) Featuring – Fabolous
@@ -30,7 +30,7 @@ B2. Oops (Oh My) (TV Track)
 B3. Oops (Oh My) (Acapella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m30112386023?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30112386023?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5rqNyulfsQ?si=pGf0t8m_1WQhUjNb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

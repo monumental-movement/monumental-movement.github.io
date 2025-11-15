@@ -9,22 +9,22 @@ tags:
 - House
 - Progressive House
 - 00s
-title: Origen – Matarme (Disco dos)
+title: Origin – Killing Me (Disc Two)
 ---
 
 
-Origin es un proyecto de Anthony Mein y Dave Wood. También trabaja bajo el nombre de Knights Groove.
+Originは、Anthony MeinとDave Woodによるプロジェクト。Knights Groove名義でも活動している。
 
-"Killing Me (Disc Two)" es una canción de Progressive House lanzada por el sello británico de house progresivo Renaissance en 2002.
+「Killing Me (Disc Two)」は、2002年にUKのプログレッシブハウスレーベルRenaissanceからリリースされたProgressive House。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Killing Me (Evolution Remix)
 
 B. Killing Me (Origins Of House Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m29522758574?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29522758574?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WcQS_sQuFmo?si=6Rs_WjnuVehhiZBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

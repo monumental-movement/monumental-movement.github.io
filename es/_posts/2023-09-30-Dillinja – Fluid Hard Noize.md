@@ -7,24 +7,24 @@ lang: es
 layout: post
 tags:
 - Drum n Bass
-title: Dillinja – Ruido duro y fluido
+title: Dillinja – Fluid Hard Noize
 ---
 
 
-Esta es una pista que encantará a todos los fanáticos del drum & bass. Lo que nadie entendió fue cómo se creó el sonido "Reese" de la canción, un zumbido de sintetizador. Probablemente fue procesado por el filtro de plano Z del muestreador E-MU.
+すべてのドラム＆ベースのファンが大好きなトラックでしょう。誰もが理解できなかったのは、この曲の中で使われている"Reese"サウンド、つまり唸るようなシンセサイザーサウンドがどのように作成されたのか、ということです。おそらくE-MUサンプラーのZプレーンフィルターで処理されていたかもしれません。
 
-Este sonido de Reese se usó en una variedad de temas, incluidos "Nasty Ways", "Take My Life", "Love Is Not a Game Remix" y "Bambaata Remix", y también se usaron variaciones en "Tudor Rose" y "Go Dillinja".
+このReeseサウンドは「Nasty Ways」、「Take My Life」、「Love Is Not a Game Remix」、「Bambaata Remix」など、さまざまなトラックで使用され、そのバリエーションは「Tudor Rose」や「Go Dillinja」でも使われました。
 
-No es exagerado decir que este sonido de Reese es probablemente el sonido de drum & bass más genial jamás creado. Y parece una locura pensar que allá por 1998, durante las ondas del pop británico, alguien como Dillinja estaba en la clandestinidad, sin preocuparse por vender discos y produciendo cosas más interesantes.
+このReeseサウンドがおそらくドラム＆ベースで作られた中で最もクールなサウンドであると言っても過言ではありません。そして1998年にはブリットポップがエアウェーブに溢れていた時期に、Dillinjaのような人物がアンダーグラウンドでレコードを売ることなどにまったく無頓着で、よりクールなものを制作していたと考えると、それは狂気に思えます。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hard Noize
 
 AA. Fluid
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,17 +10,17 @@ tags:
 - Rock
 - Pop
 - 80s
-title: Pearl Bros. – Mujer Casco de Hierro
+title: パール兄弟 Pearl Bros. – 鉄カブトの女
 ---
 
 
-Pearl Brothers es una unidad de rock japonesa formada en 1983 y debutó en 1986. Los miembros de la banda serán "hermanos".
+パール兄弟は、1983年結成し、1986年デビューした日本のロックユニット。バンドメンバーが「兄弟」である設定にしている。
 
-Los miembros son Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, Tsunehiko Yashiro y otros.
+メンバーは、佐伯 健三(サエキけんぞう)、窪田 晴男、バカボン鈴木、松永 俊弥、矢代恒彦　他。
 
-"Tetsu Kabuto no Onna" es el primer sencillo de los Pearl Brothers lanzado por Polydor Records en 1986. La ilustración de la portada es de Kotobuki Shiriagari. El productor es Toru Okada.
+「鉄カブトの女」は、1986年にポリドールレコードからリリースされたパール兄弟の1stシングル。ジャケットのイラストは、しりあがり寿。プロデューサーは、岡田 徹。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 鉄カブトの女
 
@@ -28,9 +28,9 @@ B1. バカヤロウは愛の言葉 (ディスコ・タイプ)
 B2. ◯。◯◯◯娘 (サエキ用カラオケ)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zI1Dq9i9nw0?si=lWyVFpOuRWX105TN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3mb1CUdbWs?si=mVpzprXl3VtNwUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

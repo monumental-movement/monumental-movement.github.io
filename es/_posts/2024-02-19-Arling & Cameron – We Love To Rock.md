@@ -9,17 +9,17 @@ tags:
 - House
 - Breaks
 - Electro
-title: Arling y Cameron - Nos encanta rockear
+title: Arling & Cameron – We Love To Rock
 ---
 
 
-Arling & Cameron es un dúo holandés de música electrónica formado por Gerry Arling y Richard Cameron.
+Arling & Cameron（アーリン&キャメロン）は、Gerry ArlingとRichard Cameronによるオランダのエレクトロニックミュージックデュオ。
 
-Arling & Cameron han colaborado con Pizzicato Five y Cornelius, y han incorporado elementos del pop francés, lounge, rock ligero de los 70 y Shibuya-kei, así como rap, dance y electropop más moderno.
+Arling & Cameronは、ピチカート・ファイヴやコーネリアスとコラボレーションするなど、フレンチポップ、ラウンジ、70 年代のライトロック、渋谷系からラップやダンス、よりモダンなエレクトロポップの要素も取り入れている。
 
-La segunda canción de la cara A de "We Love To Rock" es un remix de Cornelius.
+「We Love To Rock」のA面２曲目はCornelius（コーネリアス）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. We Love To Rock (Tofu Mix)
 
@@ -30,7 +30,7 @@ B1. We Love To Rock (Radio Mix)
 B2. We Love To Rock (Album Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m48539410251?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48539410251?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JjYWeSMvoTc?si=DxlvT0pq75b31NBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,16 +8,16 @@ layout: post
 tags:
 - Techno
 - Minimal
-title: Markus Guentner – Isla de audio
+title: Markus Guentner – Audio Island
 ---
 
 
-""Audio Island'' de Markus Guentner es un maravilloso LP doble.
+Markus Guentnerによる「Audio Island」は、素晴らしい2枚組LPです。
 
-Todas las pistas de este conjunto de dos discos son canciones lentas y profundas, por lo que es imprescindible escucharlas.
+この2枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Droid Ships
 
@@ -36,7 +36,7 @@ D1. Sunset
 D2. Tears In Rain
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWit_D5CxmQ?si=KlTnIZ3YgQlRoRo-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

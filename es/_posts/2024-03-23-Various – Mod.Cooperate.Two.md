@@ -9,13 +9,13 @@ tags:
 - House
 - Minimal
 - Glitch
-title: Varios – Mod.Cooperate.Two
+title: Various – Mod.Cooperate.Two
 ---
 
 
-Una compilación electro house de techno minimalista con fallas de Nisios, Trike, Metaboman y Dubnoodles lanzada en 2004 en Milnor Modern, el sello de techno alemán fundado por Treplec.
+Treplecが設立したドイツのテクノレーベルMilnor Modernから2004年にリリースされた、Nisios 、Trike、Metaboman、Dubnoodlesによるミニマルテクノ・グリッチ・エレクトロハウスコンピレーション。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Nisios Feat. Mesa Divagadora – Divagadora
 
@@ -26,7 +26,7 @@ B1. Metaboman – Witwe Wu
 B2. Dubnoodles–Clapcity
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p3Cop_yEm8E?si=2Vvs_J9HSmmCKQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

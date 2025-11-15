@@ -9,21 +9,21 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown – Seamos personales, repita el ritmo
+title: James Brown – Let's Get Personal Repeat The Beat
 ---
 
 
-"James Brown – Let's Get Personal Repetir el ritmo" es
-Este es un disco de 7 pulgadas de James Blanc lanzado en 1986.
+「James Brown – Let's Get Personal Repeat The Beat」は、
+1986年にリリースされたジェイムスブランによる７インチレコードです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Let's Get Personal
 
 B. Repeat The Beat (Faith)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12374882374?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12374882374?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uH8p8Gfa4-Y?si=frmzOfmdfJd1jkQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

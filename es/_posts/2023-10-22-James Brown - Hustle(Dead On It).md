@@ -9,30 +9,30 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown - ¡¡¡Apresúrate!!! (Muerto en ello)
+title: James Brown - Hustle!!! (Dead On It)
 ---
 
 
-"¡¡¡Hustle!!! (Dead On It)" es una canción del álbum de James Brown "Dead On The Heavy Funk 1975-1983".
+「Hustle!!! (Dead On It)」は、ジェームス・ブラウンのアルバム「Dead On The Heavy Funk 1975-1983」に収録されている曲です。
 
-Lanzada en 1975, esta canción es conocida por el sonido enérgico y funky único de James Brown.
+1975年にリリースされたこの曲は、ジェームス・ブラウン独自のエネルギッシュでファンキーなサウンドで知られています。
 
-A lo largo del álbum, Brown muestra su talento para fusionar diferentes géneros, incluidos el funk, el soul y el R&B.
+このアルバム全体を通して、ブラウンはファンク、ソウル、R&Bなどさまざまなジャンルを融合させる才能を披露しています。
 
-La letra de "Hustle!!! (Dead On It)" explora temas de trabajo duro, perseverancia y búsqueda del éxito.
+「Hustle!!! (Dead On It)」の歌詞は、努力、忍耐、成功へのハッスルといったテーマを取り上げています。
 
-Las canciones y actuaciones dinámicas y de ritmo característico de James Brown crean una atmósfera general positiva.
+ジェームス・ブラウン特有のアップテンポでダイナミックな楽曲と演奏は、全体的なポジティブな雰囲気を醸し出しています。
 
-La canción es conocida no solo por su musicalidad sino también por su mensaje motivador, lo que la convierte en una de las favoritas entre los amantes de la música funk y soul entre sus fans.
+この曲は、その音楽性だけでなく、モチベーションを高めるメッセージでも知られ、ファンの中でファンクやソウルの音楽愛好者にとってお気に入りとなっています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hustle!!! (Dead On It)
 
 B. Dead On It Part II
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

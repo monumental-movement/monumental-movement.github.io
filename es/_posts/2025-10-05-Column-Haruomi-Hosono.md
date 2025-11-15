@@ -9,297 +9,296 @@ tags:
 - Techno
 - Synth-Pop
 - Ambient
-title: '[Columna] Haruomi Hosono - Viajero de innovación sonora y silenciosa que trasciende
-  los tiempos'
+title: 【コラム】 細野晴臣 ― 音の旅人、時代を超える静かな革新
 ---
 
 
-## Revolucionario silencioso - Haruomi Hosono
+## 静かなる革命家 ― 細野晴臣という存在
 
-Texto: mmr｜Tema: Del final feliz a YMO y al ambiente: rastreando los "paisajes sonoros" y los trasfondos culturales dibujados por Haruomi Hosono a través de los tiempos
+文：mmr｜テーマ：はっぴいえんどからYMO、そしてアンビエントまで——細野晴臣が描いてきた“音の風景”と文化的背景を時代ごとにたどる
 
-**Haruomi Hosono** es un músico que ha seguido transformando la música pop japonesa durante medio siglo.
-Desde finales de los años 1960 hasta el presente, su música se ha labrado un horizonte único al "cambiar la era" en lugar de "definir la era".
-Diversas culturas, humor, nostalgia, tecnología: todo ello se mezcla en el sonido de Hosono.
+日本のポップスを半世紀にわたり変革し続けた音楽家、**細野晴臣**。  
+1960年代後半から現在に至るまで、彼の音楽は「時代を定義する」のではなく、「時代をずらす」ことで独自の地平を切り開いてきた。  
+多様な文化、ユーモア、郷愁、テクノロジー——そのすべてが細野の音の中に溶け込んでいる。
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
-### Prólogo: Día de los Inocentes - Actividades Prehistóricas (1969)
+### 序章：エイプリルフール ― 前史的活動（1969）
 
-#### Obra maestra: "April Fool" (1970, proyecto en solitario)
+#### 代表作：『April Fool』 (1970, ソロ・プロジェクト)  
 
-Una fusión de folk, psicodélico y pop al estilo de los Beatles, que expresa una sensibilidad urbana con letras en japonés e inglés.
-Esta obra está compuesta, arreglada e interpretada principalmente por Hosono y sirve como puente hacia Happy End.
+  フォーク、サイケデリック、ビートルズ的ポップを融合し、日本語と英語の歌詞で都市的センスを表現。  
+  細野の作曲・アレンジ・演奏が主体で、はっぴいえんどへの橋渡し的作品。
 
-#### Antecedentes históricos
-Antes de la formación de Happy End, 1969-1970. Un período de exploración del pop urbano.
+#### 時代背景
+はっぴいえんど結成前、1969–1970年。都市型ポップの模索期。  
 
-#### Entorno de producción
-Grabación analógica en casa o en un pequeño estudio. Utiliza órgano, guitarra y micrófono simple.
+#### 制作環境
+自宅や小規模スタジオでのアナログ録音。オルガン、ギター、簡易マイク使用。  
 
-#### Anécdota
-Un amigo añadió efectos de sonido y risas a las grabaciones, y su sentido del humor se desarrolló rápidamente.
+#### 逸話
+友人が録音テープに勝手に効果音や笑い声を加え、ユーモア感覚が早くも育まれた。
 
 
 ---
 
-### Capítulo 1: Final feliz - El amanecer del rock japonés (1969-1972)
+### 第1章：はっぴいえんど ― 日本語ロックの夜明け（1969–1972）
 
-#### Obra representativa: "Kazamachi Roman" (1971)
-Una obra monumental que representa por primera vez la atmósfera poética de la ciudad de Tokio en el contexto del rock.
-Durante este período, Hosono jugó un papel importante en la composición musical y al mismo tiempo tocaba el bajo.
-Canciones como "It's Summer" y "Gather the Wind" tienen un sonido urbano pero nostálgico.
+#### 代表作：『風街ろまん』（1971）
+東京という都市の詩情を初めてロックの文脈で描いた金字塔。  
+細野はこの時期、ベースを担当しながら作曲面でも重要な役割を果たした。  
+「夏なんです」「風をあつめて」など、都会的でありながらどこか懐かしい響きが特徴。
 
-#### Antecedentes históricos
-En medio de un alto crecimiento económico después de la guerra.
-Con el auge del folk y GS se inició la búsqueda de una nueva expresión denominada "rock japonés".
-Happy End fue la primera banda en explorar "ritmos japoneses que no eran imitaciones del inglés".
+#### 時代背景
+戦後の高度経済成長のただ中。  
+フォークやGSが隆盛するなか、“日本語ロック”という新しい表現の模索が始まる。  
+はっぴいえんどは「英語のまねではない日本語のリズム」を模索した最初のバンドだった。
 
-#### Entorno de producción
-Las grabaciones en ese momento se realizaron en el estudio predecesor de Yotsuya Onkyo House. Sonido cálido de grabación en cinta analógica y equipos antiguos.
-Aunque influenciados por bandas estadounidenses como The Band y Buffalo Springfield, pusieron en primer plano las letras literarias japonesas.
+#### 制作環境
+当時の録音は四谷・音響ハウスの前身的なスタジオ。アナログ・テープ録音、ヴィンテージ機材による温かい音。  
+米国のThe BandやBuffalo Springfieldの影響を受けつつも、文学的な日本語詞を前面に出した。
 
-#### Anécdota
-Hosono, que estaba frustrado por la cantidad de problemas con el equipo durante la grabación, supuestamente dijo: "Quiero un lugar donde pueda grabar el sonido un poco mejor".
-Después de eso, se convirtió en la base para perseguir sus propios ideales sonoros.
+#### 逸話
+録音中、機材トラブルの多さに業を煮やした細野は「もう少し音が綺麗に録れる場所がほしい」と語っていたという。  
+その後、彼が自らの音響的理想を追う土台となった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 2: Caramel Mama - El amanecer del rock japonés (1973)
+### 第2章：キャラメル・ママ ― 日本語ロックの夜明け（1973）
 
-#### Obra maestra
+#### 代表作
 
-- "Mamá Caramelo" (1975)
+- 『Caramel Mama』 (1975)  
   
-Fusionan elementos de folk y rock psicodélico y muestran una musicalidad directamente relacionada con el Happy End posterior.
-Hosono participó en el bajo y el teclado, demostrando sus habilidades de improvisación y arreglos.
+  フォーク・サイケデリック・ロックの要素を融合し、後のはっぴいえんどに直結する音楽性を示す。  
+  細野はベースとキーボードで参加し、即興性とアレンジ力を発揮。
 
-#### Antecedentes históricos
-Fue un período de transición en el que la música folk y psicodélica comenzó a atraer la atención en Japón y se formó una cultura de rock urbano.
+#### 時代背景
+国内でフォークやサイケデリックが注目され始め、都市型のロック文化が形成される過渡期。  
 
-#### Entorno de producción
-Grabación casera en un estudio del campus o en casa de un amigo. Intenté fusionar lo acústico y lo eléctrico.
+#### 制作環境
+学内スタジオや友人宅での宅録。アコースティックとエレクトリックの融合を試みた。  
 
-#### Anécdota
-Hubo un ambiente libre durante la presentación en vivo, con el público subiendo al escenario y participando en actuaciones de improvisación.
-Esta experiencia lo llevó a trabajar más tarde en la Trilogía Tropical y el sentido del humor de YMO.
+#### 逸話
+ライブでは観客がステージに上がり即興演奏に参加するなど自由な空気があった。  
+その経験が後のトロピカル三部作やYMOのユーモア感覚につながる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cL2o0NjDwHc?si=Ux66RTOFn4BIJ7Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 3: Tin Pan Alley - El amanecer del rock japonés (1974)
+### 第3章：ティン・パン・アレー ― 日本語ロックの夜明け（1974）
 
-#### Obra maestra
+#### 代表作
 
-- "El callejón de hojalata" (1977)
+- 『Tin Pan Alley』 (1977)  
 
-El blues, el R&B y el pop al estilo de los Beatles se digieren en japonés, con especial atención a la música que se reproduce en festivales escolares y locales de música en vivo en Tokio.
-Hosono estuvo a cargo del bajo y la composición, demostrando una temprana sensibilidad urbana.
+  東京の学園祭やライブハウスで演奏された音源を中心に、ブルース、R&B、ビートルズ風ポップを日本語で消化。  
+  細野はベースと作曲を担当し、初期の都会的センスを発揮。
 
-#### Antecedentes históricos
-El período naciente del pop-rock urbano en Japón, influenciado por los Beatles y los Rolling Stones.
+#### 時代背景
+ビートルズやローリング・ストーンズの影響を受け、日本における都市型ポップ・ロックの萌芽期。  
 
-#### Entorno de producción
-Grabación en estudios del campus y pequeños locales de música en vivo. También realizó grabaciones sencillas en casa, que se convirtieron en el precursor de la posterior cultura de la grabación casera.
+#### 制作環境
+学内スタジオや小規模ライブハウスでの録音。自宅で簡易録音も行い、後の宅録文化の先駆けとなった。  
 
-#### Anécdota
-Hubo mucho ensayo y error en la creación de canciones entre los miembros, y también hubo mucha experimentación con la improvisación y cambios de ritmo.
+#### 逸話
+メンバー間で曲作りの試行錯誤が多く、即興演奏やリズム変化の実験も盛んだった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NxGM02_cfrg?si=4uR5UqMKooOLrpa9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### Capítulo 4: Trilogía tropical - Explorando el exotismo (1973-1978)
+### 第4章：トロピカル三部作 ― エキゾチシズムの探求（1973–1978）
 
-#### Obras representativas:
+#### 代表作：
 
-- "Dandy tropical" (1975)
-- "Taian Yoko" (1976)
-- "Haraiso" (1978)
+- 『トロピカル・ダンディ』（1975）  
+- 『泰安洋行』（1976）  
+- 『はらいそ』（1978）
 
-Asia, Mares del Sur, América Latina, Hawaii y Japón.
-Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que expresó el exotismo con el que soñaban los japoneses.
-Se caracteriza por una estructura que recuerda a un diario de viaje ficticio y una disposición ingeniosa.
+アジア、南洋、ラテン、ハワイ、そして日本。  
+細野はこの時期、「外の異国」を模倣するのではなく、**日本人の夢想するエキゾチシズム**を音にした。  
+架空の旅行記のような構成とウィットに富んだアレンジが特徴。
 
-#### Antecedentes históricos
-Japón después de la crisis del petróleo. Mi anhelo por viajar al extranjero y por culturas exóticas crece.
-En la televisión y el cine se difundió la idea de que "países tropicales = curación", y en la música, los "centros turísticos imaginarios" se convirtieron en un tema.
+#### 時代背景
+オイルショック後の日本。海外旅行やエキゾチックな文化への憧れが膨らむ。  
+テレビや映画では“南国＝癒し”という図式が広がり、音楽でも“架空のリゾート”がテーマ化されていった。
 
-#### Entorno de producción
-Grabado en casa/estudio "HOSONO HOUSE" (Saitama, Sayama).
-Convirtieron la sala de una casa de madera en un estudio y grabaron usando una cinta analógica y una simple mesa de mezclas.
-Este estilo de grabación casera se convirtió en el origen del pop urbano posterior y de la cultura de grabación casera.
+#### 制作環境
+自宅兼スタジオ「HOSONO HOUSE」（埼玉・狭山）にて録音。  
+木造家屋の居間をそのままスタジオに改装し、アナログ・テープと簡易ミキサーで録音。  
+この宅録スタイルは、のちのシティポップや宅録文化の原点となる。
 
-#### Anécdota
-Durante la grabación de "HOSONO HOUSE", el disyuntor se disparó muchas veces.
-Se dice que Hosono se rió y continuó grabando, diciendo: "El sonido de la electricidad al caer es parte de la música".
-Esta atmósfera relajada se refleja en el sonido cálido y orgánico.
+#### 逸話
+「HOSONO HOUSE」録音中、電源のブレーカーが何度も落ちたという。  
+細野は「電気が落ちる音も音楽のうち」と笑いながら録音を続けたとされる。  
+そのリラックスした空気感が、温かく有機的なサウンドに表れている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQNPW0GAOsc?si=MwF-Fz9MSF5uHwD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 5: Revolución del tecnopop: YMO y el futuro de la electrónica (1978-1983)
+### 第5章：テクノポップ革命 ― YMOと電子の未来（1978–1983）
 
-#### Obras representativas:
-- **Yellow Magic Orchestra"Solid State Survivor"(1979)**
-- **"BGM" (1981)**
-- **"Tecnodélico" (1981)**
+#### 代表作：
+- **Yellow Magic Orchestra『Solid State Survivor』（1979）**  
+- **『BGM』（1981）**  
+- **『Technodelic』（1981）**
 
-YMO (Yellow Magic Orchestra) es una unidad revolucionaria que difundió la palabra techno pop en todo el mundo.
-Como líder, Hosono utilizó máquinas de ritmo y secuenciadores para fusionar el humor asiático y los sonidos futuristas.
+YMO（Yellow Magic Orchestra）は、テクノポップという言葉を世界に広めた革命的ユニット。  
+細野はリーダーとして、リズムマシンやシーケンサーを駆使し、アジア的ユーモアと未来的サウンドを融合した。
 
-#### Antecedentes históricos
-A principios de la década de 1980, Japón alcanzó la cima de su prosperidad tecnológica y económica.
-Una época en la que el desarrollo de las computadoras, los videojuegos y los instrumentos musicales electrónicos se fusionaron con la música.
-El sonido de YMO era un símbolo de Japón como nación electrónica.
+#### 時代背景
+80年代初頭、日本はテクノロジーと経済の絶頂期へ。  
+コンピューター、ビデオゲーム、電子楽器の発展が音楽と融合する時代。  
+YMOの音は、まさに「電子立国日本」の象徴でもあった。
 
-#### Entorno de producción
-Las bases de grabación son "Alpha Studio" y "Shibaura Studio".
-Utilizó equipos de última generación en ese momento, incluidos Roland MC-8, Prophet-5 y Fairlight CMI.
-Un flujo de trabajo adelantado a su tiempo, en el que el estudio doméstico de cada miembro está conectado en red para la producción.
+#### 制作環境
+録音拠点は「アルファ・スタジオ」および「Shibaura Studio」。  
+Roland MC-8、Prophet-5、Fairlight CMI など当時最先端の機材を使用。  
+各メンバーの宅スタジオをネットワーク化して制作するという、時代を先取りしたワークフロー。
 
-#### Anécdota
-Durante las primeras presentaciones en vivo de YMO, las canciones a menudo se detenían a mitad de camino debido a fallas en la computadora.
-El público se rió y los miembros también. Se dice que Hosono dijo: "Las máquinas son como los humanos y es interesante que cometan errores".
+#### 逸話
+YMOの初期ライブでは、コンピューターの誤作動で曲が途中で止まることもしばしば。  
+観客が笑い、メンバーも笑った。細野は「機械も人間と同じ、ミスするところが面白い」と語ったという。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-VSdvcJt_s?si=ElLQXkuoXPVMRDII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 6: Pop in Silence - Trabajo ambiental y solista (1984-1990)
+### 第6章：沈黙の中のポップ ― アンビエントとソロワーク（1984–1990）
 
-#### Obras representativas:
-- "Filarmonía" (1982)
-- "Omni Sightseeing" (1989)
+#### 代表作：
+- 『Philharmony』（1982）  
+- 『Omni Sight Seeing』（1989）
 
-"Philharmony" es una obra maestra grabada en casa, que utiliza al máximo el muestreo y los sintetizadores.
-Por otro lado, "Omni Sight Seeing" combina elementos de música étnica y sonidos ambientales, representando la culminación de un "viaje sonoro".
+『Philharmony』は、自宅でサンプリングとシンセサイザーを駆使した宅録の傑作。  
+一方『Omni Sight Seeing』では、民族音楽的要素と環境音を融合し、**“音の旅”の集大成**を描いた。
 
-#### Antecedentes históricos
-Japón durante la burbuja económica. En medio de una cultura de consumo excesivo, la música de Hosono, por el contrario, está orientada hacia el "silencio" y el "espacio".
-En todo el mundo, Brian Eno, Jon Hassell y otros defendían la música ambiental, y Hosono estaba en línea con esa tendencia.
+#### 時代背景
+バブル経済期の日本。過剰な消費文化のなかで、細野の音楽は逆に“静寂”と“間”を志向していく。  
+世界ではBrian EnoやJon Hassellらがアンビエントを提唱しており、細野はその流れと呼応していた。
 
-#### Entorno de producción
-Estudio en casa en Nishiazabu, Tokio. Centrándose en equipos digitales de Roland y Yamaha,
-Un proceso experimental que entrelaza "fragmentos de cinta" y "sonidos ambientales".
-La sala de estar se utilizó como cabina de grabación, e incluso los ecos de los muebles pasaron a formar parte del sonido.
+#### 制作環境
+東京・西麻布の自宅スタジオ。Roland、Yamahaのデジタル機材を中心に、  
+“テープの断片”や“環境音”を織り交ぜる実験的プロセス。  
+リビングルームを録音ブースとして使い、家具の反響までも音の一部にした。
 
-#### Anécdota
-Se dice que en la grabación de "Philharmony", utilizó el sonido del llanto de un gato, que escuchó por casualidad, como "material sonoro".
-Hosono dijo en broma: "La música se trata de vivir con el azar".
+#### 逸話
+「Philharmony」の録音では、偶然入った猫の鳴き声を“音素材”として残したと語られている。  
+細野は「音楽は偶然と暮らすもの」と冗談めかして述べた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 7: Música de paisaje: bandas sonoras y sonidos ambientales (1990-2000)
+### 第7章：風景の音楽 ― サウンドトラックと環境音（1990–2000）
 
-#### Obras representativas:
-- "Noche en el Ferrocarril Galáctico" (1985)
-- "Mínima Moralia" (1986)
-- "ECM" (1995)
+#### 代表作：
+- 『銀河鉄道の夜』（1985）  
+- 『Minima Moralia』（1986）  
+- 『N.D.E.』（1995）
 
-Fue una época en la que trabajó en música para una amplia variedad de medios, incluyendo animación, películas y comerciales.
-"La noche en el ferrocarril galáctico" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
+アニメーション、映画、CMなど多岐にわたるメディア音楽を手掛けた時期。  
+『銀河鉄道の夜』では、宮沢賢治の幻想文学を音で翻訳するような繊細な作曲が光る。
 
-#### Antecedentes históricos
-Tras el estallido de la burbuja económica, los valores de Japón se han visto sacudidos.
-Las palabras clave "curación", "medio ambiente" y "nostalgia" comenzaron a aparecer en el centro de la cultura.
-La música de Hosono es tranquila y llena de profundas reverberaciones, como si anticipara esa atmósfera.
+#### 時代背景
+バブル崩壊後、価値観が揺らぐ日本。  
+「癒し」「環境」「ノスタルジー」というキーワードが文化の中心に現れ始めた。  
+細野の音楽は、その空気を先取りするように静かで深い余韻を湛える。
 
-#### Entorno de producción
-Simplificó el equipo que construyó durante su estancia en YMO y creó un entorno de producción minimalista en casa.
-Experimentó con la grabación DAT y las primeras mezclas digitales. Soy más un "artista sonoro" que un músico.
+#### 制作環境
+YMO時代に築いた機材群を簡略化し、自宅でミニマルな制作環境を構築。  
+DAT録音や早期デジタルミキシングを試行。ミュージシャンというより“音響作家”の域へ。
 
-#### Anécdota
-Durante la producción de "Night on the Galaxy Express", se grabaron sonidos ambientales junto a las vías del tren por la noche para reproducir la acústica.
-Ese sonido permanece débilmente en la pista final.
+#### 逸話
+『銀河鉄道の夜』の制作時、音響を再現するために夜間の線路脇で環境音を録音した。  
+その音が最終トラックにも微かに残っている。
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EvDjuYy6DBg?si=kfdzhzy9aYgPf_up" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 8: Canciones folklóricas y country - Sonidos de la tierra y la memoria (2000-2015)
+### 第8章：カントリーと民謡 ― 土地と記憶をめぐる音（2000–2015）
 
-#### Obras representativas:
-- "HoSoNoVa" (2011)
-- "Música celestial" (2013)
+#### 代表作：
+- 『HoSoNoVa』（2011）  
+- 『Heavenly Music』（2013）
 
-Reconstrucción de la cultura radiofónica japonesa de posguerra y el swing temprano de la era Showa.
-Entregaron el sonido de un "futuro nostálgico" a los oídos de la generación digital.
+戦後日本のラジオ文化や昭和初期のスウィングを再構築。  
+デジタル世代の耳に向けて「懐かしい未来」のサウンドを届けた。
 
-#### Antecedentes históricos
-Tras el terremoto y el estancamiento económico, la sociedad japonesa empezó a buscar un carácter "local" y "volver al espíritu".
-Hosono encarna esta tendencia a través de sus sonidos y dice: "La nostalgia ilumina el futuro".
+#### 時代背景
+震災や経済停滞を経て、日本社会が“ローカル”や“心の回帰”を求め始めた時期。  
+細野はその流れを音で体現し、「郷愁は未来を照らす」と語っている。
 
-#### Entorno de producción
-"Daisyworld Studio" es un estudio privado en Nakameguro.
-Utiliza un micrófono antiguo, eco de cinta y piano vertical.
-Durante la grabación, apagó el aire acondicionado y se concentró en "respirar el sonido".
+#### 制作環境
+中目黒に設けたプライベート・スタジオ「Daisyworld Studio」。  
+ヴィンテージマイク、テープエコー、アップライトピアノを使用。  
+録音中、空調を切って“音の呼吸”を大切にしたという。
 
-#### Anécdota
-Cuando el ingeniero dejó de mezclar durante la grabación de "HoSoNoVa",
-Se dice que Hosono dijo: "Me gusta cómo reposa el sonido". Se puede vislumbrar su inusual atención al "espacio" del sonido.
+#### 逸話
+『HoSoNoVa』録音時、エンジニアがミキシングを止めると、  
+細野は「音が休んでる感じがいいね」と言ったそうだ。音の“間”への異常なこだわりが垣間見える。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Capítulo 9: "Hosonoísmo" en la era digital – Desde Quiet Logic hasta la actualidad (2015–)
+### 第9章：デジタル時代の“細野イズム” ― Quiet Logicから現代へ（2015–）
 
-#### Obras representativas:
-- "Lógica silenciosa" (2024)
-- "Vu Jà Dé" (2018)
+#### 代表作：
+- 『Quiet Logic』（2024）  
+- 『Vu Jà Dé』（2018）
 
-En la era de la IA y el streaming, Hosono vuelve a plantear el tema de la "tranquilidad".
-Sus obras, que disuelven las fronteras entre los sonidos electrónicos y naturales, tienen una fuerte influencia en las generaciones más jóvenes de artistas.
+AIやストリーミングの時代にあって、細野は“静けさ”を再びテーマに掲げる。  
+電子音と自然音の境界が溶けるような作品群は、若い世代のアーティストにも強い影響を与えている。
 
-#### Antecedentes históricos
-Soledad y aceleración de la digitalización desde la pandemia.
-El sonido de Hosono está siendo reevaluado como un acto que restaura la "escucha", la "tranquilidad" y la "humanidad".
+#### 時代背景
+パンデミック以降の孤独とデジタル化の加速。  
+細野の音は「聴くこと」「静けさ」「人間らしさ」を取り戻す行為として再評価されている。
 
-#### Entorno de producción
-Casi toda la película fue grabada en casa. Utilice de forma flexible DAW y equipos de hardware,
-Un flujo de trabajo moderno que permite compartir datos con músicos extranjeros a través de Internet.
+#### 制作環境
+ほぼ全編を宅録で制作。DAWとハード機材を柔軟に使い分け、  
+オンライン経由で海外ミュージシャンともデータ共有を行う現代的ワークフロー。
 
-#### Anécdota
-Cuando graba, a menudo graba sin agregar un sonido de "clic".
-"Las fluctuaciones en el ritmo son prueba de que los humanos respiran", se le cita.
+#### 逸話
+レコーディング中、彼は“クリック音”を入れずに録ることが多い。  
+「テンポの揺らぎは、人間が呼吸してる証拠」と語ったという。
 
 ---
 
-### Capítulo Final: Humor y soledad en los márgenes del sonido
-La música de Haruomi Hosono siempre está llena de "pausa" y "ligereza".
-Es una sensación de distancia, como si estuvieras en el centro de la cultura y, sin embargo, la miraras desde algún lugar lejano.
-En una era en la que la forma de la música sigue cambiando, todavía cree en la "quietud del sonido".
+### 終章：音の余白に宿るユーモアと孤独
+細野晴臣の音楽は、常に“間”と“軽やかさ”に満ちている。  
+それは文化の中心にいながら、どこか遠くから眺めるような距離感。  
+音楽の形が変わり続ける時代に、彼はなお“音の静けさ”を信じている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FWSz3J4OZQU?si=ZoThWCGL-zm6Kmkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Referencias/Enlaces
+#### 参考文献・リンク
 
-- [Sitio oficial de Haruomi Hosono] (https://hosonoharuomi.jp/)
-- [Oficial de YMO](https://ymo.org/)
-- Libro: ["HOSONO 100 Vistas"](https://amzn.to/4gSXIyF)
-- Colección de entrevistas: ["Haruomi Hosono y su era" (Bungei Shunju)] (https://amzn.to/4pUbLbv)
-- Vídeo: ["NO FUMAR" (2019, dirigida por Taketoshi Sado)] (https://amzn.to/4gShjPA)
+- [細野晴臣 Official Site](https://hosonoharuomi.jp/)  
+- [YMO Official](https://ymo.org/)  
+- 書籍：[『HOSONO百景』](https://amzn.to/4gSXIyF) 
+- インタビュー集：[『細野晴臣と彼の時代』（文藝春秋）](https://amzn.to/4pUbLbv)  
+- 映像：[『NO SMOKING』（2019, 佐渡岳利監督）](https://amzn.to/4gShjPA)
 

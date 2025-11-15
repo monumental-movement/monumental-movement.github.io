@@ -9,169 +9,169 @@ tags:
 - Post Rock
 - Ambient
 - Movie
-title: '[Columna] Interacción post-rock/ambient con el cine y la arquitectura'
+title: 【コラム】 ポストロック／アンビエントの映画・建築との相互作用
 ---
 
 
-## Interacción con el cine y la arquitectura post-rock/ambiente
+## ポストロック／アンビエントの映画・建築との相互作用
 
-Texto: mmr｜Tema: Post Rock/Ambient y cine/arquitectura
+文：mmr｜テーマ：Post Rock/Ambientと映画・建築について
 
-La evolución del post-rock/ambient no se limita solo a un género musical, sino que tiene afinidad con el arte espacial como el **cine, la arquitectura y la planificación urbana**.
-Además de obras maestras históricas, también organizaremos interacciones con películas y arquitectura, así como experiencias ambientales en espacios urbanos.
+ポストロック／アンビエントの進化は、単なる音楽ジャンルの枠にとどまらず、**映画・建築・都市計画**など、空間芸術との親和性を持つ。  
+ここでは歴史的名盤に加え、映画・建築との相互作用や都市空間におけるアンビエント的体験を整理する。
 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### Interacción con películas
+### 映画との相互作用
 
-El ambient/post-rock ha tenido una gran influencia en la música de cine y se ha establecido como un método para manipular el sentido del tiempo y la experiencia espacial del público.
+アンビエント／ポストロックは映画音楽に多大な影響を与え、観客の時間感覚や空間体験を操作する手法として定着した。
 
-| Películas | Música | Año | Características |
+| 映画 | 音楽担当 | 年 | 特徴 |
 |------|----------|----|------|
-| *Llegada* | Jóhann Jóhannsson | 2016 | Expresando el sentido de la circulación del tiempo con sonidos parecidos a drones |
-| *Blade Runner 2049* | Hans Zimmer y Benjamin Wallfisch | 2017 | Representación ambiental de la frialdad y la extensión de una ciudad futurista |
-| *El Renacido* | Ryuichi Sakamoto y Alva Noto | 2015 | Expresando la presión de la naturaleza y el tiempo con sonidos electrónicos y ambientales |
-| *Solaris* (edición 2002) | Eduard Artemyev | 2002 | Ampliando el espacio psicológico con un ambiente cósmico |
-| *Habrá sangre* | Jonny Greenwood | 2007 | El ruido posclásico + genera tensión y soledad |
+| *Arrival* | Jóhann Jóhannsson | 2016 | ドローン的サウンドで時間の循環感を表現 |
+| *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | 未来都市の冷たさと広がりをアンビエントで描写 |
+| *The Revenant* | Ryuichi Sakamoto & Alva Noto | 2015 | 自然と時間の圧力感を電子音と環境音で表現 |
+| *Solaris* (2002版) | Eduard Artemyev | 2002 | 宇宙的アンビエントで心理的空間を拡張 |
+| *There Will Be Blood* | Jonny Greenwood | 2007 | ポストクラシカル＋ノイズで緊張感と孤独を演出 |
 
-**punto**
-- Técnica post-rock: Ampliar el tiempo psicológico con una estructura en bucle que repite guitarra y piano
-- Método ambiental: amplía la sensación de espacio con sonidos sostenidos y drones
+**ポイント**  
+- ポストロック的手法：ギターやピアノを繰り返すループ構造で心理的時間を延長  
+- アンビエント的手法：持続音やドローンで空間感を拡張  
 
 ---
 
-### Conexión con la arquitectura y el urbanismo
+### 建築・都市計画との接点
 
-El ambient/post-rock muestra una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
+アンビエント／ポストロックは、都市空間や建築との対話の中でも強い存在感を示す。  
 
-| Ubicación/Proyecto | Música/Sonido | Año | Características |
+| 場所／プロジェクト | 音楽・音響 | 年 | 特徴 |
 |-------------------|------------|----|------|
-| El edificio borroso | Brian Eno (Diseño de sonido) | 2002 | Fusionando arquitectura de agua nebulizada y paisaje sonoro |
-| Fundación Louis Vuitton | Brian Eno (Sonido de exposición) | 2014 | Sonido ambiental que coincide con el flujo del espacio expositivo |
-| Parque High Line, Nueva York | Varias composiciones ambientales | 2009 | Experiencia de caminata con sonidos continuos en el espacio urbano |
-| Sala de turbinas de la Tate Modern | Instalaciones de sonido diversas | Años 2000 | Ampliación del sonido de drones y de la experiencia del público en un enorme espacio |
-| Oculus, Nueva York | Instalación sonora de Steve Reich / La Monte Young influencia | 2016 | Integrando reverberación arquitectónica y diseño acústico urbano |
+| The Blur Building | Brian Eno (サウンド設計) | 2002 | 水霧の建築とサウンドスケープの融合 |
+| Fondation Louis Vuitton | Brian Eno (展覧会音響) | 2014 | 展示空間の動線に合わせたアンビエント音響 |
+| High Line Park, NYC | Various ambient compositions | 2009 | 都市空間における持続音による歩行体験 |
+| Tate Modern Turbine Hall | Various sound installations | 2000s | 巨大空間でのドローン音響と観客体験の拡張 |
+| Oculus, NYC | Sound installation by Steve Reich / La Monte Young influence | 2016 | 建築的リバーブと都市音響デザインの統合 |
 
-**punto**
-- Los temas del espacio urbano son "extensión del tiempo" y "fusión con sonidos ambientales"
-- En arquitectura es posible diseñar calculando el volumen, la reflexión y el movimiento del sonido.
-- La música funciona como una experiencia de todo el espacio, en lugar de simplemente escucharla sola.
+**ポイント**  
+- 都市空間では「時間の延長」「環境音との融合」がテーマ  
+- 建築では「音の体積・反射・移動」を計算した設計が可能  
+- 音楽は単体の鑑賞ではなく、空間全体の体験として機能  
 
 ---
 
-### Matriz de relaciones entre cine, arquitectura y música.
+### 映画・建築と音楽の関係性マトリクス
 
-<div class="sirena">
-diagrama de flujo LR
-Música["Post-rock / Ambient"]
-Película["Película"]
-Arquitectura["Arquitectura/espacio urbano"]
+<div class="mermaid">
+flowchart LR
+    Music["ポストロック / アンビエント"]
+    Film["映画"]
+    Architecture["建築・都市空間"]
 
-Música --> Película
-Música --> Arquitectura
-Película --> Arquitectura
-Arquitectura --> Cine
+    Music --> Film
+    Music --> Architecture
+    Film --> Architecture
+    Architecture --> Film
 
 </div>
 
-Música → Cine: La música manipula el espacio psicológico y el sentido del tiempo.
+Music → Film: 音楽が心理空間・時間感覚を操作
 
-Música → Arquitectura: La música diseña experiencias espaciales.
+Music → Architecture: 音楽が空間体験を設計
 
-Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
+Film ↔ Architecture: 映像美術と空間デザインが相互作用
 
 
 ---
 
-### Películas representativas y muestras de sonido.
+### 代表的な映画とサウンドサンプル
 
-#### Llegada (2016)
+#### Arrival (2016)
 
-- **Compositor**: Jóhann Jóhannsson
-- **Características**: Expresa la sensación de circulación del tiempo con un sonido similar al de un dron.
-- **Muestra de sonido**: [Primer encuentro](https://www.youtube.com/watch?v=HzNBrns1xPk)
+- **作曲家**: Jóhann Jóhannsson
+- **特徴**: ドローン的サウンドで時間の循環感を表現
+- **サウンドサンプル**: [First Encounter](https://www.youtube.com/watch?v=HzNBrns1xPk)
 
-#### Cazarecompensas 2049 (2017)
+#### Blade Runner 2049 (2017)
 
-- **Compositor**: Hans Zimmer y Benjamin Wallfisch
-- **Características**: Representación ambiental de la frialdad y la extensión de una ciudad futurista.
-- **Muestra de sonido**: [Lágrimas bajo la lluvia](https://www.youtube.com/watch?v=by2pM_0Sf8c)
+- **作曲家**: Hans Zimmer & Benjamin Wallfisch
+- **特徴**: 未来都市の冷たさと広がりをアンビエントで描写
+- **サウンドサンプル**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 
-#### El renacido (2015)
+#### The Revenant (2015)
 
-- **Compositor**: Ryuichi Sakamoto y Alva Noto
-- **Características**: Expresar la presión de la naturaleza y el tiempo con sonidos electrónicos y ambientales.
-- **Muestra de sonido**: [Tema principal](https://www.youtube.com/watch?v=Czv8J1W4yYU)
+- **作曲家**: Ryuichi Sakamoto & Alva Noto
+- **特徴**: 自然と時間の圧力感を電子音と環境音で表現
+- **サウンドサンプル**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
 
-- **Compositor**: Cliff Martínez
-- **Características**: Expande tu espacio psicológico con un ambiente cósmico
-- **Muestra de sonido**: [¿Es eso lo que todos quieren?](https://www.youtube.com/watch?v=Jintml12qaY)
+- **作曲家**: Cliff Martinez
+- **特徴**: 宇宙的アンビエントで心理的空間を拡張
+- **サウンドサンプル**: [Is That What Everybody Wants](https://www.youtube.com/watch?v=Jintml12qaY)
 
-#### Habrá sangre (2007)
+#### There Will Be Blood (2007)
 
-- **Compositor**: Jonny Greenwood
-- **Características**: El ruido posclásico + crea una sensación de tensión y soledad.
-- **Muestra de sonido**: [BSO completo](https://www.youtube.com/watch?v=-yXqEzUoFY4)
-
----
-
-## Conexión con la arquitectura y el urbanismo
-
-El Ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
-
-### Lugares típicos y experiencias acústicas.
-
-#### The High Line, Nueva York
-
-- **Características**: Experiencia de caminar con sonidos continuos en el espacio urbano.
-- **Muestra de sonido**: [Caminata bajo la lluvia en High Line](https://www.youtube.com/watch?v=3frkT40jjS8)
-
-#### Tate Modern Turbine Hall, Londres
-
-- **Características**: Ampliación del sonido de drones y experiencia del público en espacios enormes
-- **Muestra de sonido**: [Mire Lee: Herida abierta](https://www.youtube.com/watch?v=uUjkTAGFFYA)
-
-#### Oculus, Nueva York
-- **Característica**: Integración de reverberación arquitectónica y diseño acústico urbano
-
-- **Muestra de sonido**: [NYC Noise Machine](https://www.instagram.com/reel/DJwg3p7AJCN/)
+- **作曲家**: Jonny Greenwood
+- **特徴**: ポストクラシカル＋ノイズで緊張感と孤独を演出
+- **サウンドサンプル**: [Full OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
 
 ---
 
+## 建築・都市計画との接点
 
-### Resumen
+アンビエント／ポストロックは、都市空間や建築との対話の中でも強い存在感を示します。
 
-El post-rock/ambient no es sólo un género musical, sino que ha evolucionado como un método para diseñar el tiempo y el espacio.
+### 代表的な場所と音響体験
 
-Expansión psicológica en el cine: manipulando el tiempo con drones, loops y paisajes sonoros
+#### The High Line, NYC
 
-Aplicaciones en arquitectura y urbanismo: la experiencia de permanecer en un espacio, caminar en líneas y armonía con los sonidos ambientales urbanos.
+- **特徴**: 都市空間における持続音による歩行体験
+- **サウンドサンプル**: [High Line Rain Walk](https://www.youtube.com/watch?v=3frkT40jjS8)
 
-En el futuro, la fusión de VR/AR y la música generada por IA evolucionará aún más la experiencia musical espacial inmersiva.
+#### Tate Modern Turbine Hall, London
+
+- **特徴**: 巨大空間でのドローン音響と観客体験の拡張
+- **サウンドサンプル**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
+
+#### Oculus, NYC
+- **特徴**: 建築的リバーブと都市音響デザインの統合
+
+- **サウンドサンプル**: [NYC Noise Machine](https://www.instagram.com/reel/DJwg3p7AJCN/)
 
 ---
 
-### Columnas relacionadas
 
-[[Columna] Historia del post-rock/ambient y cambios de equipamiento [discusión por época]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+### 総括
 
-[[Columna] ¿Qué es la música ambiental? Una filosofía de "sonidos que existen" en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+ポストロック／アンビエントは単なる音楽ジャンルに留まらず、時間と空間をデザインする手法として進化
 
-[[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
+映画における心理的拡張：ドローン、ループ、サウンドスケープによる時間操作
+
+建築・都市計画での応用：空間における滞在体験、歩行動線、都市の環境音との調和
+
+今後は VR/AR、AI生成音楽との融合 により、さらに没入型の空間音楽体験が進化する
+
+---
+
+### 関連コラム
+
+ [【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

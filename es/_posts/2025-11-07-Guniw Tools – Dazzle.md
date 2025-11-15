@@ -10,15 +10,15 @@ tags:
 - Electro
 - Experimental
 - 90s
-title: Herramientas Guniw – Deslumbrante
+title: Guniw Tools – Dazzle
 ---
 
 
-Guniw Tools es una banda que ha estado activa desde principios de los noventa. Su estilo único es utilizar accesorios, fotografía, edición, etc., y visualizar todos sus álbumes, expresando su visión del mundo de forma visual y auditiva.
+Guniw Tools(グニュウ ツール)は、1990年代初頭から活動するバンド。小道具、撮影、編集等などを自ら行い、全てのアルバムを映像化するという視覚と聴覚で世界観を表現するスタイルが特徴。
 
-Este CD es la versión original "Dazzle" lanzada en 1998 por el sello Happy House. Viene con una pegatina 3D que viene sólo con la versión original.
+このCDは、レーベルHappy Houseから1998年にリリースしたオリジナル盤「Dazzle」。オリジナル盤にのみ付属する3Dステッカー付き
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Border Of Taboo
 2. Baby's One Do
@@ -32,7 +32,7 @@ Este CD es la versión original "Dazzle" lanzada en 1998 por el sello Happy Hous
 10. Hush And...
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Vrw2QctRtc?si=17VEFOjkl1vEoxxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

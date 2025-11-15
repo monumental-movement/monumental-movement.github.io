@@ -9,15 +9,15 @@ tags:
 - Progressive House
 - House
 - 00s
-title: DJ Dero – El Cuerno 2000
+title: DJ Dero – The Horn 2000
 ---
 
 
-DJ Dero es un productor y DJ de Argentina.
+DJ Dero（DJデロ）は、アルゼンチン出身のプロデューサー＆DJ。
 
-"The Horn 2000" es un tema house progresivo lanzado en 2000 por Oid Mortales Records, un sello argentino especializado en música electrónica dance y dance pop.
+「The Horn 2000」は、エレクトロニック・ダンス・ミュージックとダンス・ポップに特化したアルゼンチンのレーベルOid Mortales Recordsから2000年にリリースされたプログレッシブハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. The Horn 2000 (It's Party Time Mix)
 A2. The Horn 2000 (Live In The Mix)
@@ -26,7 +26,7 @@ B1. The Horn 2000 (After The Mix)
 B2. Euphoria (What Time Is It?)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47009934886?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47009934886?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Buu8GHSCMhs?si=gVV8UXrV2pFLutL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

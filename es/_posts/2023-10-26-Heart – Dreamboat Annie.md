@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Hard Rock
-title: Corazón – Dreamboat Annie
+title: Heart – Dreamboat Annie
 ---
 
 
-"Dreamboat Annie" es el álbum de estudio debut de la banda de rock estadounidense Heart.
+「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。
 
-En ese momento, la banda tenía su base en Vancouver, Columbia Británica, y el álbum fue grabado allí y lanzado por primera vez en Canadá por el sello local Mushroom Records en septiembre de 1975. Posteriormente, el álbum alcanzó el número 20 en la lista de mejores álbumes de RPM y fue certificado con doble platino.
+当時、バンドはブリティッシュコロンビア州バンクーバーに拠点を置いており、このアルバムはバンクーバーで録音され、最初にカナダで地元のレーベルであるマッシュルーム・レコードによって1975年9月にリリースされました。このアルバムは後にRPMのトップアルバムチャートで20位に達し、ダブルプラチナ認定を獲得しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Magic Man
 
@@ -39,7 +39,7 @@ B4. How Deep It Goes
 B5. Dreamboat Annie (Reprise)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gQDJ45qJHBQ?si=viLowrphTK19Wcpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

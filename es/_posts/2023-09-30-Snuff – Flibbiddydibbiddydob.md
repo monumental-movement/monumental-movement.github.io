@@ -8,16 +8,16 @@ layout: post
 tags:
 - Punk
 - Rock
-title: Rapé – Flibbiddydibbiddydob
+title: Snuff – Flibbiddydibbiddydob
 ---
 
 
-"Flibbidydibbidydob" es un EP de versiones de la banda británica de punk rock Snuff, que incluye jingles comerciales y temas musicales de televisión.
+「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
 
-Este EP se lanzó originalmente en el Reino Unido en Workers Playtime Records en 1990 y luego fue reeditado en Fat Wreck Chords en agosto de 1996.
+このEPはもともと1990年にWorkers Playtime Recordsからイギリスでリリースされ、後に1996年8月にFat Wreck Chordsから再リリースされました。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Rods & Mockers
 
@@ -42,7 +42,7 @@ B5. Bran Flakes
 B6. In Sickness & In Health
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=6Tia9s2jRH-jzv2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

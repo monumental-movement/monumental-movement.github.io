@@ -7,17 +7,17 @@ lang: es
 layout: post
 tags:
 - Techno
-title: N-Joi - Cosas malas
+title: N-Joi – Bad Things
 ---
 
 
-NJOI es una banda británica de rave/techno formada en 1989 por Nigel Champion y Mark Franklin.
+NJOI は、1989年にナイジェル・チャンピオンとマーク・フランクリンによって結成されたイギリスのレイブ/テクノバンド。 
 
-El frente vocal es Saffron. Las canciones de NJOI tuvieron una gran influencia en la escena rave del Reino Unido en ese momento.
+ヴォーカル・フロントはSaffron（サフラン）。NJOIの楽曲は当時のUKレイブシーンに大きな影響を与えた。
 
-La segunda pista de la cara A y la cara B son remezclas de Josh Wink, también conocido como DJ WINK.
+A面２曲目とB面は、DJ WINKことJosh Wink（ジョッシュウィンク）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Bad Things (Original Mix)
 
@@ -26,7 +26,7 @@ A2. Bad Things (Vocal-ish Version)
 B1. Bad Things (Wink's Stabbed Filled Acid Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m91007841162?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91007841162?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pBU16D6kv-k?si=zt8e8T7J6XDpr7-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

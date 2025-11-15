@@ -7,13 +7,13 @@ lang: es
 layout: post
 tags:
 - Ambient
-title: Súper caza USAF F-15 Eagle
+title: Super Fighter USAF F-15 Eagle
 ---
 
 
-Súper caza USAF F-15 Eagle
+Super Fighter USAF F-15 Eagle
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  プロローグ
 
@@ -32,4 +32,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

@@ -9,15 +9,15 @@ tags:
 - Techno
 - Minimal
 - Rare
-title: Norken - Oficina estática del alma
+title: Norken – Soul Static Bureau
 ---
 
 
-Lee Anthony Norris, también conocido como Norken, es un productor electrónico británico con sede en Devon, Inglaterra.
+NorkenことLee Anthony Norris（リー・アンソニー・ノリス）は、イギリスのデヴォンを拠点とするイギリスのエレクトロニックプロデューサー。
 
-El doble LP "Soul Static Bureau" lanzado en 2000 es una pista techno/minimal/deep house que presenta elementos tranquilos y emocionales, ritmos sofisticados y el diseño de sonido único de Norken.
+2000年にリリースされた２枚組LP「Soul Static Bureau」は、穏やかでエモーショナルな要素を持ちながらも、洗練されたリズムとNorken独特のサウンドデザインが特徴のテクノ・ミニマル・ディープハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Gone
 
@@ -42,7 +42,7 @@ D2. Motor Breeze
 D3. Melissa Blend
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m49930985507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49930985507?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Se2tRkMcNL4?si=YNI7G5xkyeq0lHfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

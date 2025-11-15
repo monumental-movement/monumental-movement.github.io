@@ -9,13 +9,13 @@ tags:
 - Punk
 - Japanese Punk
 - 10inch
-title: Hombremujer – Hombremujer
+title: Manwoman – Manwoman
 ---
 
 
-Este es el primer sencillo de la banda japonesa de hardcore/punk Man Woman, lanzado en 1995.
+95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Blk(black)out
 
@@ -29,5 +29,5 @@ B1. Speedometer
 B2. Man And Woman
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
 

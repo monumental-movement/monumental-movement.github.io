@@ -8,17 +8,17 @@ layout: post
 tags:
 - House
 - Anthem
-title: MK – Ardiendo
+title: MK – Burning
 ---
 
 
-MK (Marc Kinchen) es un productor musical/DJ/remezclador de Detroit. "Burning" es una de las obras maestras de MK.
+MK（Marc Kinchen/マーク・キンチェン）は、デトロイト出身の音楽プロデューサー/DJ/リミキサー。「Burning」は、MKの代表作の一つ。
 
-La primera pista de la cara A es un remix de Klubbheads, un equipo de DJ y productor de música dance de los Países Bajos.
+A面1曲目は、オランダ出身のダンスミュージックプロデューサー/DJ チームKlubbheads（クラブヘッズ）によるremix。
 
-La primera canción de la cara B es un remix de Sharam Jey, un DJ/productor iraní que vive en Alemania.
+B面1曲目は、ドイツ在住のイラン人DJ/プロデューサーSharam Jeyによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Burning (Klubbheads Burning Floor Mix)
 
@@ -29,7 +29,7 @@ B1. Burning (Sharam Jey Mix)
 B2. Burning (Flexy & DJ Kryptonite Club Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33103665790?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33103665790?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQiWFIAO52g?si=igTKMFwfJZOdRAi2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

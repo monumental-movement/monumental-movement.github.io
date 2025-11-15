@@ -9,22 +9,22 @@ tags:
 - House
 - Hard House
 - 90s
-title: Big Noddy – Deformación del tiempo
+title: Big Noddy – Timewarp
 ---
 
 
-Big Noddy es el nombre del proyecto del productor británico de hard house Digger.
+Big Noddy は、UKハードハウスのプロデューサーDiggerのプロジェクト名義。
 
-Digger ha lanzado varios discos en el sello británico de hard house/garage/tech house Casa Nostra, y este disco "Timewarp" también fue lanzado en Casa Nostra en 1999.
+Digger は、UKのハードハウス／UKガラージ／テックハウス系レーベル Casa Nostra から多数リリースしており、このレコード「Timewarp」も1999年にレーベル Casa Nostra からリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Timewarp (Timewarp Dub)
 
 B. Timewarp (Timewarp Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15904529674?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15904529674?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WmLyHmKY1A?si=mxo4J6IDbOLZpMtK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

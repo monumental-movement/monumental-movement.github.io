@@ -10,15 +10,15 @@ tags:
 - Psychedelic Rock
 - Prog Rock
 - 00s
-title: El Mars Volta – Amputectura
+title: The Mars Volta – Amputechture
 ---
 
 
-The Mars Volta es una banda estadounidense de rock progresivo formada por el ex miembro de ATDI Cedric Bixler y Omar Rodríguez. Activo desde 2001 hasta 2013. Su estilo es una mezcla de varios géneros, entre ellos emo, culimo, dub, techno, latino, salsa e improvisación.
+The Mars Volta（マーズ・ヴォルタ）は、元ATDIのCedric Bixler(セドリック・ビクスラー)とOmar Rodriguez(オマー・ロドリゲス)によるUSプログレッシブロックバンド。2001年から2013年まで活動した。エモ、クルリーモ、ダブ、テクノからラテン、サルサ、インプビゼーションなど様々なジャンルをミックスさせたスタイルが特徴。
 
-Su tercer álbum, Amputechture, con John Frusciante de Red Hot Chili Peppers, fue lanzado en 2006.
+レッド・ホット・チリ・ペッパーズのジョン・フルシアンテが全曲参加した3枚目のアルバムAmputechture(アンピュテクチャー)は2006年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Vicarious Atonement
 2. Tetragrammaton
@@ -30,7 +30,7 @@ Su tercer álbum, Amputechture, con John Frusciante de Red Hot Chili Peppers, fu
 8. El Ciervo Vulnerado
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m77895978472?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77895978472?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhzM3VhM2yA?si=ypMiKQu4DWz4uuhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

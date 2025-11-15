@@ -9,27 +9,27 @@ tags:
 - Jazz
 - Band
 - 80s
-title: La Plaza – Las Estrellas Y La Luna
+title: The Square – Stars And The Moon
 ---
 
 
-THE SQUARE o T-SQUARE es una banda japonesa de jazz fusión formada en 1976.
+THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア）は、1976年に結成された日本のジャズフュージョンバンド。
 
-Estuvieron activos a finales de los 70 y principios de los 80, junto con otras bandas de fusión japonesas.
+彼らは他の日本のフュージョンバンドと共に、1970年代後半から1980年代初頭にかけて活躍した。
 
-La formación más exitosa incluye al guitarrista Masayoshi Ando, ​​el bajista Mitsuru Sudo, el saxofonista Takeshi Ito, que también toca la flauta y EWI, el teclista Hirotaka Izumi y el baterista Hiroyuki Noritake.
+最も成功したラインナップには、ギタリストの安藤正容、ベーシストの須藤満、サックス奏者でフルートとEWIも演奏する伊東たけし、キーボーディストの和泉宏隆、そしてドラマーの則竹博之が含まれています。
 
-"Stars and the Moon", lanzado en 1984, es el noveno álbum de THE SQUARE.
+1984年にリリースされた「Stars and the Moon（スターズ アンド ザ ムーン）」は、THE SQUAREの9作目のアルバム。
 
-≡ LA PLAZA
+≡ THE SQUARE
 
-Masahiro Ando, ​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
+安藤まさひろ、伊東たけし 、田中豊雪 、和泉宏隆 、長谷部徹 
 
-≡ Músicos participantes
+≡ 参加ミュージシャン
 
-Kiyohiko Senba, Junichi Kanezaki, Yutaka Kanai, Eiji Arai, Harumi Mita, Toshihiro Nakanishi Ensemble
+仙波清彦、兼崎順一、Yutaka Kanai、新井英治、三田治美、中西俊博アンサンブル
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. いとしのうなじ
 
@@ -48,7 +48,7 @@ B3. Mist Of Time
 B4. 遠雷
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

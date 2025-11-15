@@ -8,20 +8,20 @@ layout: post
 tags:
 - Electro House
 - 00s
-title: Delon & Dalcan – Fascinación / En el sonido
+title: Delon & Dalcan – Fascination / In The Sound
 ---
 
 
-Delon & Dalcan es un proyecto del artista y músico francés Andre Dalcan y Greg Delon, DJ del famoso club Barlive en Montpellier y de otros clubes famosos de Francia y España. Como Delon & Dalcan, también ha producido para sellos famosos como Confused, Great Stuff Recordings, Boxer y Propperproud.
+Delon & Dalcanは、フランス出身のアーティスト＆ミュージシャンAndre Dalcanと、モンペリエの有名なクラブ Barlive やフランス＆スペインの有名クラブでDJを務めるGreg Delonによるプロジェクト。Delon & Dalcanとして、Confused、Great Stuff Recordings、Boxer、Propperproud などの有名レーベルのプロデュースも手掛けている。
 
-"Fascination / In The Sound" fue lanzado en 2006 por el sello alemán Nordwest.
-Una pista de electro house lanzada por.
+「Fascination / In The Sound」は2006年にドイツのレーベルNordwest
+からリリースされたエレクトロハウストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Fascination
 
 B. In The Sound
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}

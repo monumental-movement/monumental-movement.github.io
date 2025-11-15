@@ -8,14 +8,14 @@ layout: post
 tags:
 - Grindcore
 - Rock
-title: Plutocracia – Dankstahz
+title: Plutocracy – Dankstahz
 ---
 
 
-"Dankstahz" es
-Este es un disco de 10 pulgadas de la banda californiana de grindcore "Plutocracy", lanzado en 1996 por el sello alemán "Anomie Records".
+「Dankstahz」は、
+1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Intro
 
@@ -50,7 +50,7 @@ B7. Erupt
 B8. Outro
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdLNtQ2wsGA?si=Ta1jq1h4GitaWVfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

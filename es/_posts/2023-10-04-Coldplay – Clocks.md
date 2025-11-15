@@ -8,18 +8,18 @@ layout: post
 tags:
 - House
 - Electro
-title: Coldplay – Relojes
+title: Coldplay – Clocks
 ---
 
 
-Esta pista apareció originalmente en el álbum A Rush of Blood to the Head, lanzado en 2002. "Clocks" también se lanzó como sencillo principal del álbum y fue un éxito mundial.
+このトラックの原曲は、2002年にリリースされたアルバム『A Rush of Blood to the Head』に収録されています。"Clocks"は、アルバムからのリードシングルとしてもリリースされ、世界的な成功を収めました。
 
-"Clocks" es una canción caracterizada por un riff de piano y un ritmo único, con una atmósfera meditativa y un sonido magnífico.
+"Clocks"は、ピアノのリフと独特なリズムが特徴的な曲であり、瞑想的な雰囲気や壮大なサウンドが魅力です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Clocks (Jakob Carrison Electro Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m45212537179?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45212537179?afid=6142608987){: .button1}
 

@@ -8,111 +8,111 @@ layout: post
 tags:
 - Downtempo
 - 90s
-title: '[Columna] ¿Qué es Downtempo? La estética del chill out y los ritmos profundos'
+title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルアウトと深層のリズムの美学
 ---
 
 
-## Tiempo suave y fluctuaciones de sonido profundas.
+## ゆるやかな時間と深い音の揺らぎ
 
 
-Texto: mmr｜Tema: El chill-out y la estética del ritmo profundo
+文：mmr｜テーマ：チルアウトと深層のリズムの美学
 
 
 
-<hora>
+<hr>
 
-### ¿Qué es el downtempo?
-"Downtempo", como su nombre indica, es un tipo de música electrónica con un tempo lento. Generalmente, el BPM (tempo) oscila entre 60 y 110 y se caracteriza por ritmos y sonidos relajantes destinados a escuchar y relajarse, en lugar de ritmos intensos de discoteca.
+### ダウンテンポとは何か？
+「ダウンテンポ（Downtempo）」とは、その名の通りゆっくりとしたテンポのエレクトロニック・ミュージックの一種である。一般的にBPM（テンポ）は60～110程度で、クラブ向けの激しいビートではなく、リスニングやチルアウトを目的とした、リラックスできるリズムとサウンドが特徴。
 
-Entre los latidos palpitantes y el ajetreo, aparece un silencio repentino. Si se trata de música, el downtempo es ese momento de respiración profunda. En el mundo de la cultura de discoteca y la música electrónica, se trata de un género musical que se sitúa en el extremo opuesto del espectro de los ritmos rápidos del techno y el house, pero que se acerca a las emociones del oyente y se integra en la noche de la ciudad. Eso es ritmo lento.
+高鳴る鼓動と喧騒の合間に、ふと訪れる静寂。それが音楽なら、ダウンテンポはその深呼吸の瞬間である。クラブカルチャーや電子音楽の世界において、テクノやハウスのような高速ビートとは対極に位置しながら、リスナーの感情に寄り添い、都市の夜に溶け込むような音楽ジャンル。それがダウンテンポだ。
 
-Downtempo se crea a través de la intersección de múltiples géneros, incluida la sensación flotante del ambient, los ritmos del hip-hop y los elementos orgánicos del jazz y el soul.
-Aunque a menudo se superpone con estilos como el chillout, el trip hop y la música lounge, también se utiliza como término general para un ritmo suave que abarca estos estilos.
-
-
-<hora>
-
-### Revolución Chill Out de los 90
-Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del fuerte ruido del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
+ダウンテンポは、アンビエントの浮遊感、ヒップホップのグルーヴ、ジャズやソウルの有機的要素など、複数のジャンルが交差することで成立している。
+しばしばチルアウト（Chillout）、トリップホップ（Trip Hop）、ラウンジミュージックといったスタイルと重なり合いながらも、それらを包括する緩やかなグルーヴの総称としても使われる。
 
 
-<hora>
+<hr>
 
-### Olas de Bristol, Reino Unido
-Antes de que se estableciera la palabra downtempo, la música que podría considerarse su prototipo nació en Bristol, Inglaterra, a principios de los años 1990. Artistas como Massive Attack, Portishead y Tricky exploraron estilos que incorporaban elementos de dub, soul, jazz y electrónica con ritmos de hip-hop. El resultado fue el trip-hop, el punto de partida espiritual del downtempo.
-
-**Chill Balear y Café del Mar**
-
-Por otro lado, ""Balearic Chill'', que se difundió por **Café del Mar** en Ibiza, España, también está profundamente involucrado con el downtempo. Las mezclas tranquilas y estilo resort de José Padilla fueron populares como música para escapar del ajetreo y el bullicio de la ciudad, y se convirtieron en el prototipo de la música downtempo estilo lounge posterior.
-
-En particular, artistas como Massive Attack, Portishead y Nightmares on Wax combinaron hip-hop, jazz, soul y reggae con ritmos lentos, formando un subgénero conocido como trip-hop. Esto se convirtió en un éxito mundial y el contorno del downtempo quedó claro.
+### 90年代のチルアウト革命
+1980年代末から1990年代前半にかけて、UKを中心にクラブカルチャーの中で**「チルアウト・ルーム」**という概念が広まる。これは、メインフロアの爆音から離れた、リラックスできる空間のこと。この空間で流れていた音楽がダウンテンポの原型と言える。
 
 
-<hora>
+<hr>
 
-### Estructura sonora y estética.
-La estructura de las canciones downtempo varía, pero el denominador común es un ritmo tenue y una producción espacial. Se pueden observar las siguientes características:
+### UKブリストルからの波
+ダウンテンポという言葉が定着する以前、その原型とも言える音楽は1990年代初頭のイギリス・ブリストルで生まれた。Massive Attack、Portishead、Trickyらに代表されるアーティストたちは、ヒップホップのビートにダブ、ソウル、ジャズ、エレクトロニカなどの要素を取り入れたスタイルを模索した。その結果生まれたのがトリップホップであり、これはダウンテンポの精神的出発点となる。
 
-- Ritmos loopy (breakbeats y tambores derivados del hip-hop)
+**バレアリック・チルとカフェ・デル・マー**
 
-- línea de bajo profunda y cálida
+一方、スペイン・イビサ島の**Café del Mar（カフェ・デル・マー）**を中心に広がった「バレアリック・チル」もダウンテンポに深く関与している。José Padillaによる穏やかでリゾート感のあるミックスは、都会の喧騒から逃れる音楽として支持され、のちのラウンジ系ダウンテンポの原型となった。
 
-- Pads y samples procesados ​​con efectos
-
-- Enfoque vocal o instrumental silencioso.
-
-- A veces incluye elementos de jazz, bossa nova y reggae.
+特にMassive Attack、Portishead、Nightmares on Waxといったアーティストは、ヒップホップやジャズ、ソウル、レゲエなどをスロービートで融合し、「トリップホップ（Trip-Hop）」と呼ばれるサブジャンルを形成。これが世界的にブレイクし、ダウンテンポの輪郭が明確になる。
 
 
-**Tempo**: BPM está alrededor de 60-110. Una velocidad relajante que es ligeramente más lenta que los latidos de tu corazón.
+<hr>
 
-**Ritmo**: Hay muchos breakbeats de estilo hip-hop o ritmos simples similares al ambiente.
+### 音の構造と美学
+ダウンテンポの楽曲構成は多様だが、共通するのは抑制されたビートと空間的なプロダクション。以下のような特徴が見られる：
 
-**Tono/Sonido**: Una fusión de electrónica, instrumentos acústicos, sonidos ambientales y samples de jazz y soul.
+- ループ感のあるビート（ブレイクビーツやヒップホップ由来のドラム）
 
-**Ambiente**: Introspectivo, flotante, urbano, melancólico o espiritual.
+- 深く温かいベースライン
+
+- エフェクト処理されたパッドやサンプル
+
+- 静かなヴォーカルまたはインストゥルメンタル中心
+
+- 時にジャズ、ボサノヴァ、レゲエの要素を内包
 
 
-<hora>
+**テンポ**：BPMは60〜110程度。心拍よりもやや遅いくらいの、リラックスできる速さ。
 
-### Derivación y diversificación: Downtempo en todo el mundo
-Downtempo ha sufrido diversas evoluciones a través de su fusión con la cultura local y la música étnica.
+**リズム**：ヒップホップ的なブレイクビート、あるいはアンビエントに近いシンプルなビートが多い。
 
-**Música lounge**: evolucionó a medida que la música se reproducía en hoteles y cafeterías (por ejemplo, Thievery Corporation)
+**音色・サウンド**：エレクトロニクス、アコースティック楽器、環境音、ジャズやソウルのサンプルなどが融合。
 
-**Chillout/Balearic**: Sonido mediterráneo asociado a la cultura playera (p. ej. Café del Mar)
+**雰囲気**：内省的、浮遊感、都会的、メランコリック、あるいはスピリチュアル。
 
-**Hiphop de baja fidelidad**: una nueva tendencia de jazz x downtempo x nostalgia que se ha expandido en YouTube, etc. (por ejemplo, Nujabes, Jinsang)
+
+<hr>
+
+### 派生と多様化：世界各地のDowntempo
+ダウンテンポは、ローカル文化や民族音楽との融合によってさまざまな進化を遂げてきた。
+
+**ラウンジ・ミュージック**：ホテルやカフェで流れる用途の音楽として進化（例：Thievery Corporation）
+
+**チルアウト／バレアリック**：ビーチカルチャーと結びついた地中海系サウンド（例：Café del Mar）
+
+**Lo-fi hiphop**：YouTubeなどで拡大した、ジャズ×ダウンテンポ×ノスタルジーの新潮流（例：Nujabes、Jinsang）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hN_4l80sMYM?si=BBD0ETFoll0fusbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<hora>
+<hr>
 
-### Modernidad y reevaluación: los gobernantes silenciosos de la era Spotify
-En la era del streaming de la década de 2020, el downtempo se está reevaluando como una "lista de reproducción relajante" y "música de fondo para el trabajo". En particular, el estilo downtempo moderno conocido como post-trip hop se ha abierto camino en la música de cine, la música de juegos e incluso en la industria de la moda.
+### 現代と再評価：Spotify時代の静かな支配者
+2020年代のストリーミング時代に入り、ダウンテンポは「リラックス系プレイリスト」や「作業用BGM」として再評価されている。特にポスト・トリップホップと呼ばれる現代型ダウンテンポは、映画音楽やゲーム音楽、さらにはファッション業界などにも進出している。
 
-**Si bien está ganando atención nuevamente en el contexto de ""relajación", ""relajación" y ""concentración"**, hay muchas listas de reproducción en Spotify y YouTube llamadas ""Lo-Fi", ""Chillhop" y ""Study Beats", que resultan familiares para los oyentes como downtempo en un sentido amplio.
+**「チル」「リラックス」「集中」**といった文脈で再注目される中で、SpotifyやYouTubeには数多くの「Lo-Fi」「Chillhop」「Study Beats」と呼ばれるプレイリストがあり、それらは広義のダウンテンポとしてリスナーに親しまれている。
 
-Además, los límites entre la música ambiental y la música ambiental se han vuelto borrosos, y la música continúa evolucionando hacia una música que está más estrechamente alineada con el estado psicológico y la escena de la vida de un individuo.
+また、環境音楽やアンビエントとの境界線もあいまいになり、より個人の心理状態や生活シーンに寄り添う音楽として進化を続けている。
 
-Artistas como Bonobo, Tycho, Khruangbin y los japoneses Pictured Resort y Cuushe son actores importantes del Downtempo moderno.
+アーティストで言えば、Bonobo、Tycho、Khruangbin、日本のPictured ResortやCuusheなどが、現代のDowntempoの重要な担い手だ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qawRMIMpytw?si=LEIbdMm8hWKzGRue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### El arte del sonido que calma las emociones.
-Downtempo es todo lo contrario del frenesí de fiesta, pero se ha convertido en un estilo de música importante que apoya las emociones, la concentración y la recuperación de la gente moderna. Su poder, que pasa desapercibido pero que actúa definitivamente sobre la mente, es verdaderamente un "gobernante silencioso".
+### 感情をなだめる音の芸術
+ダウンテンポは、パーティの熱狂とは正反対に位置するが、現代人の感情や集中、回復を支える重要な音楽スタイルとなっている。目立たず、けれど確実に心に作用するその力は、まさに「静かな支配者」だ。
 
-En estos tiempos en los que la tecnología evoluciona y todo se acelera, optar por reducir el ritmo es una elección muy radical y humana. Downtempo es música que te permite sumergirte profundamente en la emoción y el espacio sin competir por la velocidad.
+テクノロジーが進化し、あらゆるものが加速する現代において、あえてスピードを緩める選択はとてもラディカルで人間的だ。ダウンテンポは、速さを競わず、感情や空間に深く潜り込むことのできる音楽である。
 
-La próxima vez que sientas que "quiero olvidarme del tiempo y alejarme", espero que entres en el mundo del downtempo.
+もし、あなたが次に「時間を忘れて漂いたい」と感じたときには、ぜひ一度、ダウンテンポの世界へ足を踏み入れてみてほしい。
 
 
 ---
 
-### Columnas relacionadas
+### 関連コラム
 
 
-🔗 [[Columna] Sumérgete en el trip hop: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
+🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

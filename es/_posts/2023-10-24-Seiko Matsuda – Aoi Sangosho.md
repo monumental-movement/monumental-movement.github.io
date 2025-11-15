@@ -9,25 +9,25 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: Seiko Matsuda – Arrecife de coral azul
+title: 松田聖子 – 青い珊瑚礁
 ---
 
 
-"Seiko Matsuda – Blue Coral Reef" se lanzó en 1980.
+「松田聖子 – 青い珊瑚礁」は、1980年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 青い珊瑚礁 
 
 B. True Love そっとくちづけて
 ```
 
-Arreglo – Masaaki Omura
-Componer – Yuichiro Oda
-Letra – Noriko Miura
-Foto de portada: Kishin Shinoyama
+アレンジ – 大村雅朗
+コンポーズ – 小田裕一郎
+歌詞 – 三浦徳子
+カバー写真 – 篠山紀信
 
-[Comprar en Mercari](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mrgApjHbRLw?si=4S6VhJdtT4EWiMrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

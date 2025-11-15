@@ -8,17 +8,17 @@ layout: post
 tags:
 - Techno
 - Leftfield
-title: Minero de cursor – Control remoto
+title: Cursor Miner – Remote Control
 ---
 
 
-Cursor Miner es un proyecto de Rob Tubb (nombre real Rob Tubb).
+Cursor Minerは、本名Rob Tubb（ロブ・タブ）によるプロジェクトです。
 
-Cursor Miner es una mezcla de himnos puros de pista de baile, ritmos retorcidos, experimentación loca, estilo pop y comentarios sociales.
+Cursor Minerは、純粋なダンスフロアのアンセム、ひねくれたブレイクビーツ、非常識な実験、ポップなセンス、そして社会的なコメントをふんだんに取り入れた作風です。
 
-Ha sido descrito como Beck y David Bowie fusionados con Kraftwerk y Oetaker, lo que sucedería en medio de una rave ilegal de principios de los 90.
+彼はベックとデヴィッド・ボウイがクラフトワークとオーテカーと融合し、90年代初頭の違法なレイブのど真ん中で何が起こるかのようと評されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Remote Control
 
@@ -29,7 +29,7 @@ B1. Snapped Capacitor
 B2. Thaw
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m98630555148?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98630555148?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wqe91RjhE_k?si=0-tgF_BwhHw6BnOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

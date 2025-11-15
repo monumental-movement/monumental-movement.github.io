@@ -10,19 +10,19 @@ tags:
 - Movie
 - Film
 - 90s
-title: Thomas Newman – Perfume de mujer
+title: Thomas Newman – Scent Of A Woman
 ---
 
 
-Las pistas A1-A6, A8-A10, B1-B2 y B4-B7 fueron compuestas por el compositor estadounidense Thomas Newman. Thomas Newman ha creado bandas sonoras para numerosas películas, incluidas The Shawshank Redemption, American Beauty, The Green Mile, Buscando a Nemo, Wall-E, Skyfall y Spectre.
+トラックA1〜A6、A8〜A10、B1〜B2、B4〜B7は、アメリカ出身の作曲家Thomas Newman（トーマス・ニューマン）が手がけた。 トーマス・ニューマンは、『ショーシャンクの空に』、『アメリカン・ビューティー』、『グリーンマイル』、『ファインディングニモ』、『ウォーリー』、『007 スカイフォール』、『007 スペクター』、など、数々の映画音楽を製作している。
 
-Los temas A7 y B3 también son de la banda estadounidense The Tango Project.
+トラックA7、B3は、アメリカのバンドThe Tango Projectもよるもの。
 
-Película "Perfume de Mujer/Perfume de Sueños"
+映画「セント・オブ・ウーマン/夢の香り」
 
-Cinta de casete con banda sonora original
+オリジナルサウンドトラック　カセットテープ
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -44,7 +44,7 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

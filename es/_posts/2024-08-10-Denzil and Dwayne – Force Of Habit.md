@@ -9,17 +9,17 @@ tags:
 - Trance
 - Anthem
 - 90s
-title: Denzil y Dwayne - La fuerza del hábito
+title: Denzil & Dwayne – Force Of Habit
 ---
 
 
-Denzil & Dwayn es un proyecto de Maykel Piron, productor de trance holandés y uno de los fundadores de Armada Music, y Michiel Van Der Kuy, músico y productor musical holandés.
+Denzil & Dwaynは、オランダのトランスプロデューサーでありArmada Musicの創設者の1人Maykel Pironとオランダのミュージシャン・音楽プロデューサーMichiel Van Der Kuyによるプロジェクト。
 
-"Force Of Habit" es una pista de trance lanzada en 1999 por el sello holandés Flammable.
+「Force Of Habit」は、オランダのレーベルFlammableから1999年にリリースされたトランストラック。
 
-La cara A es un remix del artista de trance holandés Vincent de Moor. Vincent de Moor también está activo como una unidad llamada "Veracocha" con el productor musical Ferry Corsten.
+A面は、オランダ人のトランスアーティストVincent de Moor（ヴィンセント・デ・ムーア）によるremix。Vincent de Moorは、音楽プロデューサーのFerry Corsten（フェリー・コーステン）とのユニット「Veracocha」としても活動している。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Force Of Habit (Vincent De Moor Remix)
 
@@ -27,7 +27,7 @@ B1. Force Of Habit (Cosmic Clayderman Remix)
 B2. Force Of Habit (Original Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m14093137625?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14093137625?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7TmC2m7m2CY?si=CTH8UpEEZPX3SorF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

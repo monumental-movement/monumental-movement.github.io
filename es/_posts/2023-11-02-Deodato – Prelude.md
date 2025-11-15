@@ -8,15 +8,15 @@ layout: post
 tags:
 - Jazz
 - Funk
-title: Deodato – Preludio
+title: Deodato – Prelude
 ---
 
 
-Una reedición de 1978 del álbum ""Thus Spoke Zarathustra'' lanzado bajo el nombre Deodato en el sello CTI en 1973.
+デオダート名義として、1973年CTIレーベルからリリースしたアルバム『ツァラトゥストラはかく語りき』の1978年Reissue。
 
-Este álbum organiza piezas clásicas en jazz eléctrico, y ""Thus Spoke Zarathustra'' es conocida como una de las primeras canciones de crossover/fusión más famosas.
+このアルバムは、クラシック作品をエレクトリック・ジャズにアレンジし、「ツァラトゥストラはかく語りき」は最も有名な初期クロスオーバー/フュージョンの一曲として知られている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Also Sprach Zarathustra
 
@@ -31,7 +31,7 @@ B2. Prelude To Afternoon Of A Faun
 B3. September 13
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHUd8Droisw?si=N73wznNnMsod_yPd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

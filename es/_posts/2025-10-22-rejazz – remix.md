@@ -10,15 +10,15 @@ tags:
 - Future Jazz
 - Deep House
 - 00s
-title: '[re:jazz] – (re:mezclar)'
+title: '[re:jazz] – (re:mix)'
 ---
 
 
-[re:jazz] es un proyecto de jazz de Matthias Vogt, también conocido como DJ Matt, y varios artistas.
+[re:jazz]は、Matthias VogtことDJ Mattと様々なアーティストによるジャズプロジェクト。
 
-(re:mix) es Downtempo/Future Jazz/Deep House lanzado por el sello de jazz japonés Nebula en 2003.
+(re:mix)は、2003年に日本のジャズレーベルNebulaからリリースされたDowntempo／Future Jazz／Deep House。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Quiet Nights (Nicola Conte "Out Of The Cool Version")
 2. My Love Is Higher (Russ Gabriel Rmx)
@@ -34,7 +34,7 @@ title: '[re:jazz] – (re:mezclar)'
 12. People Come Running (Les Gammas Sprinter Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37383041694?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EGl9lQlR1x4?si=3QYkgtH9qeWrA69D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

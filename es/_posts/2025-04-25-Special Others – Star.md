@@ -9,16 +9,16 @@ tags:
 - Jazz
 - Rock
 - 00s
-title: Otros Especiales – Estrella
+title: Special Others – Star
 ---
 
 
-Special Others es una jam band japonesa cuyo estilo es una mezcla de jazz improvisado y post-rock. Cada miembro tiene un segundo nombre que le dio el fundador de Afrobeat y legendario baterista Tony Allen.
+Special Others (スペシャルアザーズ)は、即興jazzとポストロックをミックスさせたスタイルが特徴の日本のジャムバンド。各メンバーには、アフロビートの創始者にして伝説のドラマーTony Allen(トニー・アレン)が付けたというミドルネームがある。
 
-Este mini-álbum fue lanzado por Victor en 2007.
+このミニアルバムは2007年にVictorからリリースされた。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Star
 2. Surdo
@@ -28,7 +28,7 @@ Este mini-álbum fue lanzado por Victor en 2007.
 6. Aului 80 - Self Remix
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### Youtube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

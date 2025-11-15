@@ -10,247 +10,246 @@ tags:
 - CD
 - Cassette
 - History
-title: '[Columna] "Desde el sonido de una aguja hasta la transmisión, el sonido continúa
-  viviendo a través del tiempo". De la era del rebobinado a la era del salto infinito'
+title: 【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ
 ---
 
 
-## Cambios y comparaciones de los medios musicales: ventas de discos, casetes, CD y MD, características de frecuencia, tendencias futuras y la aparición de Dolby Atmos.
+## 音楽メディアの変遷と比較：レコード・カセット・CD・MDの売上、周波数特性、今後の動向、そしてDolby Atmosの登場
 
 
-Texto: mmr｜Tema: Comparación histórica de los medios musicales y perspectivas de la última tecnología
+文：mmr｜テーマ：音楽メディアの歴史的比較と最新技術展望
 
 
 
-<hora>
+<hr>
 
-### Comparación histórica de ventas de medios musicales
-En las últimas décadas, los medios musicales han experimentado una rápida innovación y diversificación tecnológica. Aquí proporcionaremos una descripción general de las estimaciones de ventas globales para los principales medios físicos: discos (LP analógicos), cintas de casete, CD y MD.
+### 音楽メディアの歴史的売上比較
+過去数十年にわたり、音楽メディアは急速な技術革新を遂げ、多様化した。ここでは主要な物理メディアであるレコード（アナログLP）・カセットテープ・CD・MDの世界的な売上推定を概観する。
 
-<div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Medios</th>
-<th>Ventas globales acumuladas (estimadas)</th>
-<th>Período pico</th>
-<th>Comentarios</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Grabación (LP)</td>
-<td>Aproximadamente 3 mil millones de copias (incluidas las reimpresiones)</td>
-<td>Resurgimiento en las décadas de 1970 y 2010 Máxima cuota de mercado en la década de 1970. </td>
-<td>Recientemente se está recuperando debido a la demanda vintage</td>
-</tr>
-<tr>
-<td>Cinta de casete</td>
-<td>Alrededor de 5 mil millones o más</td>
-<td>Mediados y finales de los años 1980 Tuvo su apogeo en los años 1980 y 1990. </td>
-<td> Popularizado debido al efecto Walkman. Nicho actual</td>
-</tr>
-<tr>
-<td>CD</td>
-<td>Alrededor de 30 mil millones de piezas o más</td>
-<td>Década de 1990 a principios de 2000</td>
-<td>Se hizo explosivamente popular en la década de 1990 y se convirtió en el principal medio musical del mundo</td>
-</tr>
-<tr>
-<td>MD (minidisco)</td>
-<td>decenas de millones a cientos de millones de copias (limitadas)</td>
-<td>Finales de los 90 a principios de los 2000</td>
-<td>Fue particularmente popular en Japón, pero limitado a escala global. Actualmente en declive</td>
-</tr>
-</tbody>
-</tabla>
+<div class="table-border">
+<table>
+  <thead>
+    <tr>
+      <th>メディア</th>
+      <th>世界累計売上（推定）</th>
+      <th>ピーク時期</th>
+      <th>コメント</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>レコード（LP）</td>
+      <td>約30億枚（復刻含む）</td>
+      <td>1970年代、2010年代以降再燃 1970年代に最大シェア。</td>
+      <td>近年はヴィンテージ需要で回復中</td>
+    </tr>
+    <tr>
+      <td>カセットテープ</td>
+      <td>約50億本以上</td>
+      <td>1980年代中〜後半  1980〜90年代に全盛。</td>
+      <td>ウォークマン効果で普及。現在はニッチ</td>
+    </tr>
+    <tr>
+      <td>CD</td>
+      <td>約300億枚以上</td>
+      <td>1990年代〜2000年代初頭</td>
+      <td>1990年代に爆発的に普及し、世界の主力音楽メディアに</td>
+    </tr>
+    <tr>
+      <td>MD（ミニディスク）</td>
+      <td>数千万枚〜数億枚（限定的）</td>
+      <td>1990年代後半〜2000年代前半</td>
+      <td>日本で特に支持されたが、世界規模では限定的。現在は衰退</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-*Las cifras de ventas son estimaciones basadas en múltiples fuentes y existen diferencias regionales y de edad.
+※売上数字は複数ソースを参考にした概算で、地域差や年代差が存在します。
 
 
-<hora>
+<hr>
 
-### Diferencias en las características de frecuencia y la audición.
+### 周波数特性と聴こえ方の違い
 
 
-<hora>
+<hr>
 
-#### Grabar (LP analógico)
+#### レコード（アナログLP）
 
-Características de frecuencia: Aproximadamente 20 Hz a 20 kHz (valor teórico)
+周波数特性：約20Hz〜20kHz（理論値）
 
-Características: Siente los matices, la calidez y la distorsión natural que son exclusivos de lo analógico. Se ve fácilmente influenciado por el estado de la aguja y la calidad de la prensa, y hay mucho ruido.
+特徴：アナログ特有の倍音成分や暖かみ、自然な音の歪みを感じる。針の状態やプレス品質に左右されやすくノイズも多い。
 
-Tendencia del espectrograma:
+スペクトログラム傾向：
 
-Las frecuencias altas (15kHz~) se atenúan gradualmente
+高域（15kHz〜）はなだらかに減衰
 
-El rango bajo es rico, pero pueden ocurrir fluctuaciones debido a la rotación desigual y la presión del lápiz.
+低域は豊かだが、回転ムラや針圧による揺らぎが生じることあり
 
-Ruido (crujidos, sirena) distribuido aleatoriamente
+ノイズ（パチパチ、サー音）がランダムに分布
 
-Estilo de audición: Suave, uniforme y cálido, con tendencia a aceptar el ruido y la distorsión como "sabor".
+聴こえ方：柔らかく、滑らかで温かみがあり、ノイズや歪みが「味」として受け入れられる傾向。
 
 
 
-<hora>
+<hr>
 
-#### Cinta de casete
+#### カセットテープ
 
-Características de frecuencia: Aproximadamente 30 Hz a 12 kHz para cinta normal, aproximadamente 30 Hz a 18 kHz para cinta metálica
+周波数特性：ノーマルテープで約30Hz〜12kHz、メタルテープで約30Hz〜18kHz
 
-Características: Depende de las propiedades magnéticas de la cinta y de la calidad del cabezal. Es probable que la calidad del sonido se deteriore debido al silbido y al desgaste de la cinta.
+特徴：テープの磁気特性やヘッドの品質に依存。ヒスノイズやテープ摩耗による音質劣化が起きやすい。
 
-Tendencia del espectrograma:
+スペクトログラム傾向：
 
-El rango alto se apaga repentinamente (especialmente la cinta normal)
+高域は急激にロールオフ（特にノーマルテープ）
 
-El rango medio-bajo es relativamente estable
+中低域は比較的安定
 
-El silbido de aproximadamente -50 dB siempre se propaga a frecuencias altas
+常に-50dB程度のヒスノイズが高域に広がる
 
-El uso de Dolby NR reduce parte del ruido de alta frecuencia, pero la redondez del sonido se mantiene.
+ドルビーNR使用で一部高域ノイズは軽減されるが、音の丸みは残る
 
-Audición: Ligeramente amortiguada, con frecuencias altas modestas. Es suave y cálido, pero se nota el ruido.
+聴こえ方：ややこもり気味で高音域は控えめ。柔らかく温かいが、ノイズも目立つ。
 
 
 
-<hora>
+<hr>
 
-#### CD (disco compacto)
+#### CD（コンパクトディスク）
 
-Características de frecuencia: 20 Hz a 20 kHz (muestreo de 44,1 kHz)
+周波数特性：20Hz〜20kHz（44.1kHzサンプリング）
 
-Características: Fuente de sonido digital con bajo nivel de ruido, calidad de sonido plana y clara.
+特徴：デジタル音源のためノイズが少なく、フラットでクリアな音質。
 
-Tendencia del espectrograma:
+スペクトログラム傾向：
 
-La respuesta de frecuencia es casi plana hasta 20 kHz
+20kHzまでフラットに近い周波数特性
 
-Piso muy silencioso, casi sin componentes sonoros innecesarios
+ノイズフロアが非常に低く、不要音成分がほぼなし
 
-Incluso los sonidos repentinos se reproducen sin distorsión.
+突発的な音でも歪まず再現される
 
-Audición: Clara y de alta resolución, pero a menudo falta calidez analógica.
+聴こえ方：クリアで解像度が高いが、アナログ的な暖かみは薄い場合が多い。
 
 
 
-<hora>
+<hr>
 
-#### MD (minidisco)
+#### MD（ミニディスク）
 
-Respuesta de frecuencia: 20 Hz a 20 kHz (con compresión ATRAC)
+周波数特性：20Hz〜20kHz（ATRAC圧縮あり）
 
-Características: La calidad del sonido es similar a la de un CD, pero debido al método de compresión es posible que se pierda cierta información detallada.
+特徴：CDに近い音質だが圧縮方式のため一部の細部情報が失われる可能性がある。
 
-Tendencia del espectrograma:
+スペクトログラム傾向：
 
-Reproducibilidad de rango bajo a medio cercana a la del CD
+低〜中域はCDに近い再現性
 
-La alta frecuencia se atenúa temprano alrededor de 17-18 kHz (efecto de la compresión de datos)
+高域は17〜18kHz程度で早めに減衰（データ圧縮の影響）
 
-Los componentes transitorios a menudo aparecen "borrosos"
+しばしばトランジェント成分が「ぼやけて」再現される
 
-Audición: Casi claro, pero en comparación con un CD puede sentirse un poco comprimido.
+聴こえ方：ほぼクリアだが、CDと比べると若干圧縮感が感じられることも。
 
 
 
 
-<hora>
+<hr>
 
-### Estado actual y tendencias futuras de cada medio
+### 各メディアの現状と今後の動向
 
 
-<hora>
+<hr>
 
-#### Registros
+#### レコード
 
-Situación actual: a nivel mundial, las ventas de discos analógicos se están recuperando constantemente, centrándose en la demanda vintage y la demografía orientada a la calidad del sonido. La regresión analógica es particularmente notable entre los jóvenes.
+現状：世界的にアナログレコードはヴィンテージ需要や音質志向の層を中心に堅調に売上回復。特に若年層のアナログ回帰が顕著。
 
-Futuro: Se espera un mercado pequeño pero sostenible con el apoyo de los entusiastas de las fuentes de sonido analógicas. También están disponibles productos híbridos (analógicos + digitales).
+今後：アナログ音源の愛好者層の支持で小規模ながら持続的な市場が期待される。ハイブリッド製品（アナログ＋デジタル）も登場。
 
 
-<hora>
+<hr>
 
-#### Cinta de casete
+#### カセットテープ
 
-Estado actual: Los medios de comunicación que alguna vez fueron los principales han decaído. Apoyo limitado entre entusiastas y escenas independientes.
+現状：かつての主流メディアとしては衰退。マニアやインディーズシーンでは限定的に支持。
 
-Futuro: Popularidad de nicho como cultura retro. Sobrevive como parte de colecciones y música de bricolaje.
+今後：レトロ文化としてのニッチな人気。DIY音楽やコレクションの一環として存続。
 
 
-<hora>
+<hr>
 
 #### CD
 
-Situación actual: Las ventas han disminuido significativamente debido a la expansión del streaming. Todavía hay demanda entre determinados colectivos (coleccionistas y aquellos que prefieren un sonido de alta calidad).
+現状：ストリーミングの普及で売上は大幅に減少。依然として特定層（コレクターや高音質志向者）には需要あり。
 
-Futuro: Aunque se está reduciendo como medio empaquetado, la clave es diferenciarlo mediante la propiedad física y el valor agregado (ediciones de lujo, etc.).
-
-
-<hora>
-
-#### médico
-
-Estado actual: Casi desaparecido del mercado. Un cierto nivel de apoyo en Japón también es cosa del pasado.
-
-En el futuro: permanecerá solo por un tiempo limitado para su conservación o como hobby.
+今後：パッケージメディアとして縮小傾向だが、物理的な所有欲や付加価値（豪華盤など）での差別化が鍵。
 
 
-<hora>
+<hr>
 
-### ¿Qué es Dolby Atmos?
+#### MD
 
+現状：ほぼ市場から消滅。日本での一定支持も過去の話。
 
-<hora>
-
-#### Descripción general de Dolby Atmos
-
-Dolby Atmos es una tecnología de sonido 3D basada en objetos que va más allá del sonido envolvente tradicional basado en canales y permite que los "objetos sonoros" se coloquen libremente en un espacio.
-
-Es posible colocar imágenes de sonido en la dirección de altura.
-
-Mejora drásticamente la sensación en vivo y la sensación de presencia de películas, juegos y música.
-
-Se puede reproducir en cines en casa, auriculares y teléfonos inteligentes.
+今後：保存や趣味として限定的に残るのみ。
 
 
-<hora>
+<hr>
 
-#### Dolby Atmos en la producción musical
-
-En los últimos años, los servicios de streaming (Apple Music, Tidal, etc.) han comenzado a distribuir música compatible con Dolby Atmos y la industria musical está ganando atención.
-
-Proporciona una experiencia de sonido tridimensional diferente al estéreo tradicional.
-
-Diseña libremente la localización de voces e instrumentos.
-
-Combinado con fuentes de sonido de alta resolución para una experiencia auditiva más inmersiva
+### Dolby Atmos（ドルビー・アトモス）とは何か？
 
 
-<hora>
+<hr>
 
-### Tendencias futuras de los medios musicales y el potencial de Dolby Atmos
+#### Dolby Atmosの概要
+
+ドルビー・アトモスはオブジェクトベースの3Dサウンド技術で、従来のチャンネルベースのサラウンドサウンドを超え、空間全体に「音のオブジェクト」を自由に配置できる。
+
+高さ方向の音像配置が可能
+
+映画、ゲーム、音楽のライブ感や臨場感を格段に向上
+
+ホームシアター、ヘッドフォン、スマホでも対応再生可能
 
 
-<hora>
+<hr>
 
-#### Cambios en los medios
+#### 音楽制作におけるDolby Atmos
 
-La transición del soporte físico al streaming está casi completa
+近年ではストリーミングサービス（Apple Music、Tidalなど）がDolby Atmos対応の楽曲配信を開始し、音楽業界でも注目が高まっている。
 
-El objetivo de la próxima generación es la compatibilidad con la distribución de sonido de alta calidad (alta resolución, MQA) y audio espacial (Dolby Atmos, Sony 360 Reality Audio)
+従来のステレオとは異なる立体的な音響体験を提供
+
+ボーカルや楽器の定位を自由に設計可能
+
+高解像度音源と組み合わせて、より没入感のあるリスニング体験を実現
 
 
-<hora>
+<hr>
 
-#### Evolución de la experiencia
+### 今後の音楽メディア動向とDolby Atmosの可能性
 
-Los usuarios están pasando de simplemente reproducir música a experimentar sonido espacial
 
-Un mercado complejo donde conviven la regresión analógica y el avance digital.
+<hr>
 
-Dolby Atmos es muy esperado como un nuevo medio de expresión para presentaciones en vivo y experiencias de festivales.
+#### メディアの変化
 
-Las tecnologías de audio espacial como Dolby Atmos se están volviendo rápidamente populares como la "próxima revolución en la experiencia musical". El futuro de la escucha seguirá evolucionando desde el simple "escuchar" hasta el "sentir que realmente estás ahí".
+物理メディアからストリーミング中心へ移行がほぼ完成
+
+高音質配信（ハイレゾ、MQA）や空間オーディオ（Dolby Atmos、Sony 360 Reality Audio）への対応が次代の焦点
+
+
+<hr>
+
+#### 体験の進化
+
+ユーザーは単なる「音楽再生」から「空間音響体験」へと移行
+
+アナログ回帰とデジタル先進の両立が起こる複雑な市場
+
+Dolby Atmosは、ライブ演奏やフェス体験の再現、新たな表現手段として期待大
+
+そして、Dolby Atmosなどの空間オーディオ技術は「音楽体験の次なる革命」として急速に普及中。未来のリスニングは、単なる「聴く」から「その場にいるかのように感じる」へと進化を続けるだろう。

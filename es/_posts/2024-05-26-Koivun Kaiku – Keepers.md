@@ -10,15 +10,15 @@ tags:
 - Finland
 - Folk
 - rare
-title: Koivun Kaiku – Guardianes
+title: Koivun Kaiku – Keepers
 ---
 
 
-"Keepers", lanzado en 1987, es música folclórica y mundial interpretada por el kantele, un instrumento folclórico finlandés y un tipo de instrumento de cuerda pulsada de la familia de las cítaras.
+1987年にリリースされた「Keepers」は、フィンランドの民族楽器で、ツィター属撥弦楽器の一種であるカンテレ(kantele)によるフォーク＆ワールドミュージック。
 
-El nombre del grupo Koivun Kaiku significa "Eco del Abedul".
+グループ名Koivun Kaikuは、”Echo of the Birch”＝”白樺の響き”の意味。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Ripatska 
 A2. Valssi Lapuasta 
@@ -41,4 +41,4 @@ B8. Reppurin Laulu
 B9. Konevitsan Kirkonkellojen Soitto 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71853643150?afid=6142608987){: .button1}

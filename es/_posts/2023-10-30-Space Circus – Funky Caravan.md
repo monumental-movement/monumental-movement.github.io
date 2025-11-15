@@ -9,13 +9,13 @@ tags:
 - Rock
 - Progressive
 - Fusion
-title: Circo Espacial – Caravana Funky
+title: Space Circus – Funky Caravan
 ---
 
 
-"Funky Caravan" es el álbum debut de Space Circus, una banda japonesa de rock progresivo y fusión activa a finales de los años 1970. El bajista Hajime Okano es productor musical y ha estado involucrado con numerosas bandas como Starlin, POLYSICS y L'Arc~en~Ciel.
+「Funky Caravan（ファンキー・キャラバン）」は、1970年代後半に活躍した日本のプログレ＆フュージョンバンドSpace Circus(スペース・サーカス)のデビューアルバム。ベースの岡野 ハジメは音楽プロデューサーとして、スターリン、POLYSICS、L'Arc〜en〜Ciel(ラルク アン シエル)など多数のバンドに関わっている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Alibaba (アリババ)
 
@@ -30,7 +30,7 @@ B2. The Way We Were (追憶)
 B3. Spring Wave (スプリング・ウェーブ)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38259723732?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QW-e8SSAG_I?si=m2x_OJniWvlJ1M6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

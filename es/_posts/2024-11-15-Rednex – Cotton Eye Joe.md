@@ -9,15 +9,15 @@ tags:
 - House
 - Euro House
 - Synth-pop
-title: Rednex – Algodón Ojo Joe
+title: Rednex – Cotton Eye Joe
 ---
 
 
-Rednex – Algodón Ojo Joe
+Rednex – Cotton Eye Joe
 
-Campesinos sureños - Cotton Eye Joe
+レッドネックス - コットンアイジョー
 
-#### Lista de canciones
+#### Tracklist
 ```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
@@ -30,7 +30,7 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

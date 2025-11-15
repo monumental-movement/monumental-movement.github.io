@@ -9,19 +9,19 @@ tags:
 - House
 - 00s
 - Disco
-title: Armand Van Helden – Mi Mi Mi (Remixes)
+title: Armand Van Helden – My My My (Remixes)
 ---
 
 
-Una colección de remixes de "My My My" del álbum de Armand Van Helden "New York: A Mix Odyssey".
+Armand Van Helden（アーマンドヴァンヘルデン）のアルバム「New York: A Mix Odyssey」に収録されている「My My My」のremix集。
 
-La primera pista de la cara A es un remix de We Deliver, formado por los DJ y productores de house del Reino Unido Paul Roberts, Russ Morgan y Paul Birchall.
+A面１曲目は、UKのハウスDJ＆プロデューサー　Paul Roberts、Russ Morgan、Paul BirchallからなるWe Deliverによるremix 。
 
-La segunda pista de la cara A es un remix del músico y productor electrónico británico Thomas Gandey, también conocido como Cagedbaby.
+A面２曲目は、UKのエレクトロニック・ミュージシャン兼プロデューサーCagedbabyことThomas Gandeyによるremix。
 
-La cara B es un remix de Deekline & Wizard, una colaboración entre el DJ y productor de electro break británico DJ Dee Kline (Nicholas Annand) y Wizard (Greg Fleming).
+B面は、UK エレクトロ・ブレイクDJ兼プロデューサーの DJ Dee Kline (Nicholas Annand) と Wizard (Greg Fleming) のコラボレーションDeekline & Wizardによるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. My My My (We Deliver 001 Remix)
 
@@ -30,7 +30,7 @@ A2. My My My (Cagedbaby Pace Remix)
 B1. My My My (Deekline & Wizard Vocal Featuring Yolanda)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51538430865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51538430865?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b7BKUJZ2rjI?si=Jqd6uLcvkDcxc7xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

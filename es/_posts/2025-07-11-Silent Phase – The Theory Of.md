@@ -9,15 +9,15 @@ tags:
 - House
 - Techno
 - 90s
-title: Fase silenciosa – (La teoría de)
+title: Silent Phase – (The Theory Of)
 ---
 
 
-Stacey Pullen, también conocida como Silent Phase, fue una DJ y productora de techno de Detroit que estuvo activa en la década de 1990. Otros nombres incluyen Kosmic Messenger y Bango. Este álbum es su único álbum bajo el nombre de Silent Phase y presenta un sonido profundo y suave que mezcla jazz, ambient, IDM y techno. Ha sido elogiada como una pieza artística del techno de Detroit.
+Silent PhaseことStacey Pullenは、1990年代に活躍したデトロイト出身のテクノDJ・プロデューサー。別名義でKosmic Messenger、Bangoなどがある。このアルバムはSilent Phase名義での唯一のアルバムで、ジャズ、アンビエント、IDM、テクノが混ざったディープでメロウなサウンドが特徴。アーティスティックなデトロイトテクノ作品として評価されている。
 
-Fue lanzado por Transmat de Derrick May, uno de los sellos de techno más importantes establecidos en Detroit antes de 1990 (distribuido por Planet E de Carl Craig), y el sello independiente belga R&S Records. Este CD es una edición belga.
+リリースは、1990年以前にデトロイトで設立された最も重要なテクノレーベルの1つ、デリック・メイ主宰のTransmat(配給はCarl Craig主宰のPlanet E )とベルギーのインディペンデントレーベルR&S Records。このCDはベルギー盤。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Waterdance
 2. Body Rock
@@ -33,9 +33,9 @@ Fue lanzado por Transmat de Derrick May, uno de los sellos de techno más import
 12. Forbidden Dance
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6zY9Ae1qlI?si=307o2Nr5nDR0jv-a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F68WEzlgnqo?si=zO-u_ZA_Gy0hSxrF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

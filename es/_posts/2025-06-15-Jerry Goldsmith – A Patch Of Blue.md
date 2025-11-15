@@ -9,16 +9,16 @@ tags:
 - Soundtrack
 - Score
 - 70s
-title: Jerry Goldsmith - Un parche de azul
+title: Jerry Goldsmith – A Patch Of Blue
 ---
 
 
-Banda sonora de la película estadounidense de 1965 ""A Patch of Blue''. Reedición estrenada en 1978.
+1965年に公開されたアメリカ映画『いつか見た青い空/A Patch of Blue』のサウンドトラック。1978年にリリースされた再発盤。
 
-Jerry Goldsmith ha compuesto música para más de 170 películas, entre ellas "El planeta de los simios", "Papillon", "The Omen", "Alien", "Poltergeist", "Rambo" y "Star Trek".
+Jerry Goldsmith(ジェリー・ゴールドスミス)は、「猿の惑星」、「パピヨン」、「オーメン」、「エイリアン」、「ポルターガイスト」、「ランボー」、「スタートレック」など、170本以上の映画音楽を手がけた。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -42,7 +42,7 @@ B8. Bacon And Eggs
 B9. Goodbye Selina
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

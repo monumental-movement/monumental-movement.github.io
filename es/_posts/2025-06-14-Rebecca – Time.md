@@ -11,18 +11,18 @@ tags:
 - Rock
 - Synth-pop
 - 80s
-title: Rebeca – El tiempo
+title: Rebecca – Time
 ---
 
 
-"Time" es el quinto álbum de Rebecca, lanzado en 1986 con el sello FITZBEAT. Los lemas de este álbum son "No se trata de lógica..." y "El aburrimiento y los calambres se tiran a la basura".
+「Time」は、レーベルFITZBEAT（フィッツビート）から 1986年にリリースされたRebecca(レベッカ)5枚目のアルバム。このアルバムのキャッチコピーは、『理屈じゃなくて…』『退屈も、窮屈も、みんなまとめてゴミ箱行きだ』。
 
-Contiene los éxitos "LONELY BUTTERFLY" y "CHEAP HIPPIES".
+ヒット曲、「LONELY BUTTERFLY(ロンリー・バタフライ)」、　「CHEAP HIPPIES(チープ・ヒッピーズ)」が収録されている。
 
-La canción "Nunca te dije pero te amo" es
-Acoplamiento del tema musical ""MONOTONE BOY" de la película ""Binetsu Shonen".
+収録曲「Never Told You But I Love You」は、
+映画『微熱少年』の主題歌「MONOTONE BOY」のカップリング。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
@@ -36,9 +36,9 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9TTXS-CJMX4?si=kqauTe0g4L9o7D6F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

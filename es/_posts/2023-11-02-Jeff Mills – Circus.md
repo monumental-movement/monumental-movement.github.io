@@ -10,27 +10,27 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: Jeff Mills - Circo
+title: Jeff Mills – Circus
 ---
 
 
 
-Jeff Mills (también conocido como "The Wizard") es uno de los principales pioneros de la música techno de Estados Unidos.
+ジェフ・ミルズ (「ザ・ウィザード」としても知られる) は、アメリカを代表するテクノミュージックの先駆者の一人です。
 
-Persigue sonidos duros y minimalistas y es conocido por sus actuaciones de DJ que incluso tienen un aire industrial.
+彼は、ハードでミニマルなサウンドを追求し、インダストリアルな雰囲気すら漂わせるDJプレイで知られています。
 
-Es parte de un talentoso grupo de artistas de Detroit que se han ganado el reconocimiento internacional, actuando en clubes y espacios artísticos de todo el mundo.
+デトロイトが生んだ才能あるアーティストの一員として、世界中のクラブやアートスペースで演奏を行い、国際的な評価を得ています。
 
-También dirige su propio sello ""Axis'' y sus subsellos.
+また、自身のレーベル「Axis」とそのサブレーベルを運営しています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
 B. Circus (The Big Finale Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

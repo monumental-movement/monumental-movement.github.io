@@ -11,16 +11,16 @@ title: Bookem Dano – Screem
 ---
 
 
-Bookem Dano (Book 'Em Dano) también conocido como Sal Dano
-es un DJ/productor de Nueva York.
+Bookem Dano (Book 'Em Dano)ことSal Dano
+はNY出身のDJ／プロデューサー。
 
-"Screem" es una canción House lanzada por Unofficial.
+「Screem」は、UnofficialリリースのHouseトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Screem (Vocal)
 
 B. Screem (Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}

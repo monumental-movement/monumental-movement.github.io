@@ -9,22 +9,22 @@ tags:
 - Trance
 - Hard Trance
 - 90s
-title: Wid & Ben - Abs0lut1on Para N1ne
+title: Wid & Ben – Abs0lut1on  F0r N1ne
 ---
 
 
-Wid & Ben es una unidad de hard trance formada por Andrew Widdop y Ben Thomas.
+Wid & Benは、Andrew WiddopとBen Thomasによるハードトランスユニット。
 
-"Abs0lut1on / F0r N1ne" es una pista de hard trance lanzada en 2003 por el sello británico de hard dance Tidy Two. El ingeniero es el DJ y productor de hard house/hard trance Lee Pasch de Leicester, Reino Unido.
+「Abs0lut1on / F0r N1ne」は、イギリスのハードダンスレーベルTidy Twoから2003年にリリースされたハードトランストラック。エンジニアは、UKのレスター出身のハードハウス/ハードトランスDJ＆プロデューサーLee Pasch。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Abs0lut1on
 
 B. F0r N1ne
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m72045675449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72045675449?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Fc89h0OOEo?si=iJkOXDcnAJonj606" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

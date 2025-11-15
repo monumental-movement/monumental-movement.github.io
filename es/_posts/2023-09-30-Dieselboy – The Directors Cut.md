@@ -8,17 +8,17 @@ layout: post
 tags:
 - Drum n Bass
 - Rare
-title: Dieselboy – La versión del director
+title: Dieselboy – The Director's Cut
 ---
 
 
-Esta es una cinta poco común de una excelente mezcla de drum and bass con estilo tecnológico realizada por Diesel Boy, un DJ abrumadoramente talentoso y popular en la escena del drum and bass de Estados Unidos.
+USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼルボーイによるキラーテックモーディーなドラムンベースミックスのレアテープです。
 
-Esta mezcla también es excelente, con sincronización, ecualización, niveles y transiciones acertadas, un gran ejemplo de sus habilidades.
+このミックスも素晴らしく、タイミング、EQ、レベル、トランジション、すべてがピンポイントで彼のスキルを証明する素晴らしい代表例です。
 
-Es una mezcla que querrás escuchar una y otra vez para siempre.
+いつまでも、聴き直したくなるミックスです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Side A
 
@@ -55,7 +55,7 @@ B. Side B
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

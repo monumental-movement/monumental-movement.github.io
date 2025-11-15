@@ -9,20 +9,20 @@ tags:
 - Hard Trance
 - Trance
 - 00s
-title: Raro – Normalización
+title: Weirdo – Normalisation
 ---
 
 
-Hard trance fue lanzado en 2002 por el productor británico de hard trance Dominic Harding, también conocido como Weirdo, en Tinrib Recordings, un sello dirigido por el productor británico de hard house/NRG/hard trance Jon Bell.
+UK出身のハードトランスプロデューサーWeirdo（ウィアード）ことDominic Hardingが、イギリスのハードハウス・NRG・ハードトランスのプロデューサーJon Bellが運営するレーベルTinrib Recordingsから2002年にリリースしたハードトランス。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Afterworld
 
 AA. Discotek
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78644439002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78644439002?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oLdlfLfP9nw?si=F74R878TVZXOMAYb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,20 +8,20 @@ layout: post
 tags:
 - Trance
 - Progressive
-title: Özgür Can – Ironía
+title: Özgür Can – Irony
 ---
 
 
-Özgür Can es un productor y DJ de Suecia.
+Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Irony (Peter Dubs Mix)
 
 B. Irony (Original Mix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m44499781183?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44499781183?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-g7TT2elO7c?si=ZvB91f5pxwmed0UF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

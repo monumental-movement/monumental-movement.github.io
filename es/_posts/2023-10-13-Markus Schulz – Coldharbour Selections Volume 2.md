@@ -8,13 +8,13 @@ layout: post
 tags:
 - Trance
 - Progressive
-title: Markus Schulz - Selecciones de Coldharbour Volumen 2
+title: Markus Schulz – Coldharbour Selections Volume 2
 ---
 
 
-Una recopilación de temas de house progresivo y trance seleccionados bajo la marca "Coldharbour" por Markus Schulz, un DJ y productor alemán con sede en Miami, Florida.
+フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Elevation & Kenneth Thomas – Preen
 
@@ -23,7 +23,7 @@ B1. Filterheadz – Yimanya (Markus Schulz & Austin Leeds Remix)
 B2  Mind – Random Experience(Perry O'Neil, Robert Nickson)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m54053728481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54053728481?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4aYLP-VdE1I?si=y4vZUYs1PtFeDJgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ tags:
 - Jpop
 - Pops
 - 90s
-title: Toshi Nagai - Tambor DOS
+title: Toshi Nagai – D.O.S Drum
 ---
 
 
-Toshi Nagai, también conocido como Toshimitsu Nagai, es un baterista japonés que trabaja como baterista de apoyo para grupos como GLAY, Kyosuke Himuro y EXILE TAKAHIRO.
+Toshi Nagai こと 永井利光は、GLAYや氷室京介、EXILE TAKAHIROなどのサポートドラマーとして活動している日本のドラマー。
 
-"D.O.S Drum" es el segundo álbum en solitario de Toshi Nagai lanzado en 1999.
+「D.O.S Drum」は、1999年にリリースしたToshi Nagai 2枚目のソロアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Laissez-moi Tranquille! (SPT Version)
 2. Moi
@@ -28,4 +28,4 @@ Toshi Nagai, también conocido como Toshimitsu Nagai, es un baterista japonés q
 7. À (Tes/Vos) Amours!
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32725365843?afid=6142608987){: .button1}

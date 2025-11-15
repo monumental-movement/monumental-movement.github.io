@@ -11,232 +11,231 @@ tags:
 - Punk
 - Jazz
 - History
-title: '[Columna] Suplemento de tecnología de discos de 10 pulgadas: La verdad sobre
-  el ancho del ritmo, la velocidad de rotación y la masterización'
+title: 【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実
 ---
 
 
-## Concepto de diseño de 10 pulgadas: precisión en el medio del formato
+## 10インチという設計思想：フォーマットの中庸に宿る精度
 
 
-Texto: mmr｜Tema: Profundizar en los antecedentes técnicos de los discos de 10 pulgadas, como su estructura, velocidad de rotación y masterización, y reconsiderar la singularidad del sonido producido por el formato.
+文：mmr｜テーマ：10インチレコードの構造・回転数・マスタリングなどの技術的背景を掘り下げ、フォーマットが生む音の個性を再考する
 
 
-La estructura física de un disco encarna la filosofía del formato musical en su forma más pura.
-El disco de 10 pulgadas es un formato particularmente "diseñadamente intermedio".
-Una tabla con un diámetro de 25 cm exhibe características intermedias entre 7 pulgadas y 12 pulgadas en términos de velocidad de ranura lineal, ancho de ranura y velocidad de rotación.
+レコードの物理的構造は、音楽フォーマットの哲学を最も純粋な形で体現している。  
+10インチ盤はその中でも特に「設計的中庸」に位置するフォーマットだ。  
+直径25cmという盤面は、溝の線速度・溝幅・回転数のすべてにおいて、**7インチと12インチの中間特性**を示す。
 
-Lo que esto significa es que aquí tenemos la solución óptima para equilibrar el tiempo de reproducción y la calidad del sonido.
-El tamaño de 10 pulgadas existe en un "hermoso punto de equilibrio" con pocas restricciones de diseño.
+これが意味するのは、**再生時間と音質のトレードオフの最適解**がここにあるということ。  
+10インチは、設計上の制約が少ない“美しいバランス点”に存在している。
 
 ---
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-### Velocidad de rotación y velocidad lineal: leyes físicas que determinan el "momento" del sonido
+### 回転数と線速度：音の「勢い」を決める物理法則
 
-Uno de los factores que determina la calidad del sonido de un disco es el número de revoluciones (RPM) y la velocidad lineal.
+レコードの音質を決める要素のひとつが、**回転数（RPM）と線速度（linear velocity）**である。
 
-- **Simple de 7 pulgadas: 45 RPM**
-Hay mucha fuerza en el sonido en la periferia exterior y una excelente reproducción de las frecuencias altas. Sin embargo, la distorsión aumenta en la circunferencia interior.
+- **7インチシングル：45RPM**  
+  外周では音の勢いがあり、高域の再現に優れる。だが内周では歪みが増える。
 
-- **LP de 12 pulgadas: 33⅓RPM**
-Es adecuado para reproducción a largo plazo y garantiza una calidad de sonido estable, pero las frecuencias altas son algo atenuadas.
+- **12インチLP：33⅓RPM**  
+  長時間再生に適し、安定した音質を確保するが、高域はやや落ち着く。
 
-- **LP de 10 pulgadas: 33⅓RPM o 45RPM**
-El límite es de unos 12 minutos por lado a 33⅓ y de 8 a 9 minutos a 45 RPM.
-Es decir, el punto fuerte de las 10 pulgadas es que es posible diseñar un sistema que priorice la calidad del sonido en el tiempo.
+- **10インチLP：33⅓RPMまたは45RPM**  
+  33⅓では片面約12分、45RPMでは約8〜9分が限界。  
+  つまり、**時間よりも音質を優先した設計が可能**なのが10インチの強みである。
 
-La velocidad lineal promedio es aproximadamente un 15% mayor que la de 12 pulgadas y hay menos distorsión en la periferia interior.
-Especialmente en música con un fuerte ataque, como el jazz o el indie rock, esta característica de velocidad crea una clara sensación de ritmo y separación espacial.
-
----
-
-### Ancho de ranura y nivel de corte: tira y afloja entre la presión del sonido y el tiempo de reproducción
-
-El ancho del surco en un disco analógico es proporcional a la amplitud (dinámica) del sonido.
-En otras palabras, **cuanto más fuerte sea el sonido, más corto será el tiempo de reproducción**.
-
-En un disco de 12 pulgadas, hay aproximadamente de 250 a 300 ranuras por pulgada, pero en un disco de 10 pulgadas, cuando la presión del sonido es una prioridad, el número de ranuras suele mantenerse en alrededor de 200.
-Como resultado, el surco sonoro es más grueso y se enfatiza el "borde" del sonido.
-
-Debido a esta característica estructural, los discos de 10 pulgadas exhiben las siguientes tendencias acústicas:
-- Buena presión sonora y ataque claro de baja frecuencia.
-- Localización ajustada de rango medio
-- El rango alto es un poco tosco, pero tiene impulso.
-
-Esta característica lo hace adecuado para grabaciones en vivo y mezclas preliminares, y es por eso que los artistas que eligen discos de 10 pulgadas enfatizan la experimentación.
+線速度の平均値は、12インチに比べて約15％高く、内周歪みが少ない。  
+特にジャズやインディ・ロックのようにアタックの強い音楽では、この速度特性が明瞭なリズム感と空間の分離を生む。
 
 ---
 
-### Proceso de masterización: de la laca al estampado
+### 溝幅とカッティングレベル：音圧と再生時間の綱引き
 
-El punto clave en el proceso de producción de discos de 10 pulgadas es la etapa de **corte de laca**.
-Debido al diámetro más pequeño del disco de 10 pulgadas, hay menos error de seguimiento del cabezal de corte.
-Esto mejora la precisión del ritmo del sonido y hace que la localización estéreo sea más estable.
+アナログ盤の溝幅は、音の振幅（ダイナミクス）に比例する。  
+つまり、**ラウドな音を刻むほど、再生時間は短くなる**。
 
-### Descripción general del proceso principal
+12インチ盤では1インチあたり約250〜300本の溝が刻まれるが、10インチ盤では音圧を優先する場合、溝本数を200本程度に抑えることが多い。  
+結果として音溝が太く、音の“エッジ”が強調される。
 
-1. **Premasterización**
-Optimice sus fuentes digitales o analógicas para laca.
-Ajuste la presión del sonido, el ancho del estéreo y la fase.
+この構造的特徴により、10インチ盤は以下のような音響傾向を示す：
+- 音圧感があり、低域のアタックが明確  
+- 中域の定位がタイト  
+- 高域はわずかに荒いが、勢いがある  
 
-2. **Corte de laca**
-Talla ranuras en un tablero lacado de 10 pulgadas.
-El ancho del surco y el control del tono son importantes.
-"En 12 minutos a 33⅓RPM" es uno de los criterios de diseño.
-
-3. **Electroformado**
-Copiar con níquel en el orden de maestro → madre → estampador.
-10 pulgadas tiene una tasa de deformación menor que 12 pulgadas y tiene un mejor rendimiento de prensa.
-
-4. **Presionando**
-Las prensas domésticas como la Toyo Kasei controlan la temperatura y la presión de la superficie de la placa en unidades milimétricas.
-Este proceso es especialmente importante para los modelos de 10 pulgadas porque la estabilidad de la moldura está directamente relacionada con la calidad del sonido.
+まさに「ライブ盤やラフミックスに向く」特性であり、10インチを選ぶアーティストが実験性を重視する理由がここにある。
 
 ---
 
-### Material de prensa y peso: 180g Detrás del mito
+### マスタリング工程：ラッカーからスタンパーへ
 
-Para los discos de 10 pulgadas, el grosor suele ser de entre 1,8 y 2,0 mm y el peso es de aproximadamente 120 a 150 g.
-Influenciados por el auge de los discos pesados ​​de 12 pulgadas y 180 g, tendemos a pensar que "más pesado significa mejor calidad de sonido", pero en realidad, la densidad y la planitud del material son más importantes.
+レコード制作における10インチ特有の工程上のポイントは、**ラッカー・カッティング**段階にある。  
+10インチ盤は直径が小さいため、**カッティングヘッドのトラッキングエラーが少ない**。  
+これにより、音溝の精度が上がり、ステレオ定位がより安定する。
 
-El pequeño tamaño del tablero de 10 pulgadas aumenta naturalmente la rigidez de todo el tablero, lo que hace que sea menos probable que se deforme y cause menos resonancia.
-En otras palabras, incluso si es fino, el sonido es tenso. Por este motivo, incluso con un disco ligero de 10 pulgadas casi no hay desventajas en términos de calidad de sonido.
+### 主な工程概要
+
+1. **Premastering**  
+   デジタルまたはアナログソースを、ラッカー用に最適化。  
+   音圧、ステレオ幅、位相を調整。
+
+2. **Lacquer Cutting**  
+   10インチ専用ラッカー盤に溝を刻む。  
+   溝幅とピッチ制御（groove pitch control）が重要で、  
+   “33⅓RPMで12分以内”が一つの設計基準。
+
+3. **Electroforming（電鋳）**  
+   ニッケルでマスター → マザー → スタンパーの順に複製。  
+   10インチは12インチよりも変形率が低く、プレスの歩留まりが良い。
+
+4. **Pressing**  
+   東洋化成などの国内プレスでは、盤面温度・圧力をミリ単位で制御。  
+   成型の安定性が音質に直結するため、特に10インチではこの工程が要。
 
 ---
 
-### "Densidad" de 10 pulgadas desde una perspectiva de medición acústica
+### プレス素材と重量：180g神話の裏側
 
-Desde una perspectiva de medición acústica, las características de frecuencia de reproducción de los discos de 10 pulgadas muestran las siguientes tendencias.
+10インチ盤では、**盤厚が1.8〜2.0mm前後、重量は約120〜150g**が一般的。  
+12インチの180g重量盤ブームの影響を受けて「重いほど高音質」と思われがちだが、実際には**素材の密度とフラットネス（平面精度）**の方が重要である。
 
-| Ancho de banda | Relación S/N promedio | Notas |
+10インチ盤の小ささは、盤全体の剛性を自然に高め、**反りにくく、共振が少ない**。  
+つまり、薄くても“響きが締まる”。このため、軽量10インチ盤でも音質面での不利はほとんどない。
+
+---
+
+### 音響測定の観点から見た10インチの「密度」
+
+音響測定的に見ると、10インチ盤の再生周波数特性は以下のような傾向を示す。
+
+| 帯域 | 平均S/N比 | 備考 |
 |------|-------------|------|
-| 40 Hz a 100 Hz | +2dB | Pico de baja frecuencia más fuerte, más ajustado |
-| 1 kHz a 4 kHz | ±0dB | Plano, claro |
-| 8 kHz o superior | −1 a 2 dB | La atenuación de las altas frecuencias es bastante rápida (limitaciones físicas) |
+| 40Hz〜100Hz | +2dB | 低域のピーク強め、タイト |
+| 1kHz〜4kHz | ±0dB | フラット、明瞭 |
+| 8kHz以上 | −1〜2dB | 高域の減衰やや早い（物理的制約） |
 
-Esta característica da como resultado una imagen de sonido con una "sensación cercana" centrada alrededor del rango medio.
-La razón por la que se dice que los discos de 10 pulgadas tienen un "sonido en vivo" es la alta densidad del rango medio.
-
----
-
-### 33⅓ o 45: Filosofía de selección de formato
-
-Para los discos de 10 pulgadas, la gran decisión en la etapa de producción es si utilizar 33⅓RPM o 45RPM.
-Los criterios de selección son los siguientes:
-
-- **33⅓RPM**: Céntrese en el tiempo de grabación. Ideal para EP y álbumes pequeños.
-- **45RPM**: Céntrese en la calidad y la dinámica del sonido. Para maxi solteros y audiófilos.
-
-Lo interesante es que el disco de 10 pulgadas y 45 RPM tiene una "imagen de sonido más condensada" que el disco de 12 pulgadas y 45 RPM.
-Esto se debe al fenómeno físico de que la velocidad de bobinado de la ranura es rápida, por lo que el rango bajo pasa al frente.
-Como resultado, los artistas de discotecas y ruidosos suelen elegir el modelo de 10 pulgadas y 45 RPM.
+この特性は、結果として**ミッドレンジ中心の「近接感」ある音像**を生む。  
+10インチ盤が「生音っぽい」と言われる所以は、この中域密度の高さにある。
 
 ---
 
-### Dominar la Filosofía: Técnica para "tallar una obra" en un tiempo limitado
+### 33⅓か45か：フォーマット選択の哲学
 
-El corte de 10 pulgadas no es sólo una técnica, sino también una "estética de edición".
-Como el tiempo es limitado, es importante decidir qué sonidos conservar y cuáles eliminar.
-Esta sensación es similar a editar una película o recortar una foto.
+10インチ盤では、制作段階で33⅓RPMと45RPMのどちらを採用するかが大きな分岐となる。  
+選択基準は以下の通り：
 
-También existe un movimiento entre los ingenieros de masterización modernos que buscan una "imagen de sonido optimizada de 10 pulgadas".
-Ya no es un formato del pasado, sino un **dispositivo de 10 pulgadas de nuevo diseño**.
+- **33⅓RPM**：収録時間を重視。EP・小規模アルバムに最適。  
+- **45RPM**：音質・ダイナミクス重視。マキシシングル、オーディオファイル向け。
+
+興味深いのは、**45RPMの10インチ盤は12インチ45RPMよりも“音像が凝縮する”**ことだ。  
+これは溝の巻き取り速度が速いため、低域が前面に出るという物理的現象による。  
+結果として、クラブ系やノイズ・アーティストが10インチ45RPMを選ぶケースが多い。
 
 ---
 
-### Conclusión: Filosofía musical en la física de un disco.
+### マスタリング哲学：限られた時間に“作品を刻む”技術
 
-Cuando se habla del atractivo de los discos de 10 pulgadas en términos técnicos, lo que destaca detrás de ellos es la "libertad creada por las limitaciones".
-Limitaciones de diseño, limitaciones de tiempo y limitaciones de tamaño.
-Todo esto hace que la música se "condensa" y le devuelve su "sensación".
+10インチのカッティングは、単なる技術ではなく“編集の美学”でもある。  
+時間が限られているからこそ、**どの音を残し、どの音を削るか**が問われる。  
+この感覚は、映画の編集や写真のトリミングに近い。
 
-El formato es filosofía, ingeniería y poesía.
-10 pulgadas se encuentra en el punto donde estos tres se cruzan más estrechamente.
-En ese momento en que la punta de la aguja traza el surco, vemos el espíritu de la música en la física.
+現代のマスタリングエンジニアの間では、「10インチで最適化された音像」を求める動きもある。  
+それはもはや過去のフォーマットではなく、**新しい時間設計の装置**としての10インチである。
+
+---
+
+### 結語：円盤の物理に宿る音楽の思想
+
+10インチ盤の魅力を技術的に語ると、その背後に浮かび上がるのは「制約が生む自由」だ。  
+設計上の限界、時間の短さ、サイズの狭間。  
+そのすべてが、音楽を“凝縮”させ、“手触り”を取り戻させる。
+
+フォーマットは哲学であり、工学であり、詩でもある。  
+10インチは、その三者がもっとも緻密に交差する点に位置している。  
+針先が溝をなぞるその一瞬、私たちは物理の中に音楽の精神を見るのだ。
 
 
 
-### Apéndice: Ilustraciones: una breve historia de la evolución de la tecnología discográfica
+### 付録：図解 — レコード技術進化小史
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-A1948["1948: Invención de Columbia, LP (33⅓RPM)"]
-A1950["1950: el LP de 10 pulgadas se vuelve popular"]
-A1955["1955: LP de 12 pulgadas se convirtió en estándar"]
-A1970["Década de 1970: reevaluación de 45 RPM para uso de DJ"]
-A2000["Década de 2000: relanzamiento de 10 pulgadas como edición limitada/edición artística"]
-A2020["Década de 2020: Movimiento de reexamen por parte de los audiófilos"]
+flowchart TD
+    A1948["1948：Columbia、LP（33⅓RPM）発明"]
+    A1950["1950：10インチLPが主流に"]
+    A1955["1955：12インチLPが標準化"]
+    A1970["1970s：DJ用途で45RPM再評価"]
+    A2000["2000s：限定盤・アート盤として10インチ再登場"]
+    A2020["2020s：オーディオマニアによる再検証の動き"]
 
-A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
+    A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 
 
 </div>
 
 ---
 
-### Figura A — Sección transversal de la ranura, movimiento del lápiz
+### 図A — 溝断面（Groove cross-section, stylus motion）
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo de tuberculosis
-S["Punta del lápiz óptico"]
-G["ranura"]
-L["Modulación lateral\n→ Información estéreo L/R"]
-V["Modulación vertical\n→ Información de fase/baja frecuencia"]
-D["Profundidad\n→ Depende de la amplitud"]
-W["Ancho de ranura (Ancho)\n→ Proporcional a la presión sonora"]
+flowchart TB
+    S["針先（Stylus tip）"]
+    G["溝（V字断面 Groove）"]
+    L["横変調（Lateral modulation）\n→ ステレオL/R情報"]
+    V["縦変調（Vertical modulation）\n→ 低域・位相情報"]
+    D["溝の深さ（Depth）\n→ 振幅に依存"]
+    W["溝の幅（Width）\n→ 音圧に比例"]
 
-S -->|Seguir| GRAMO
-GRAMO --> L
-GRAMO --> V
-G --> D
-GRAMO --> W
-
-</div>
-
----
-
-### Figura B — Características de presión/frecuencia del sonido a lo largo de la circunferencia exterior → circunferencia interior (diagrama conceptual)
-
-<div class="sirena">
-
-diagrama de flujo TD
-O["Borde exterior: Alta velocidad lineal → Buena reproducción de altas frecuencias"]
-M["Rango medio: Disminución de velocidad lineal → Comienza la atenuación de rango alto"]
-I["Borde interior: velocidad lineal baja → Aumento de distorsión del borde interior/atenuación de alta frecuencia"]
-
-O --> M --> Yo
-
-%% Agregar anotación en el nodo
-A["Velocidad lineal: circunferencia exterior > circunferencia interior → Las características de alta frecuencia son ventajosas"]
-B["distorsión del surco interno: aumenta en el surco interno → las frecuencias altas se vuelven más redondas"]
-C["Presión sonora (amplitud): proporcional al ancho del surco → Compensación con el tiempo de reproducción"]
-
-A-.->O
-B-.->yo
-C-.->M
+    S -->|追従| G
+    G --> L
+    G --> V
+    G --> D
+    G --> W
 
 </div>
 
 ---
 
-### Columnas relacionadas
+### 図B — 外周→内周に沿った音圧／周波数特性（概念図）
 
-🔗 [[Columna] La tentación del 10 pulgadas——La estética del sonido contada por el formato](https://monumental-movement.jp/Column-10-Inch-Vinyl)
+<div class="mermaid">
 
-🔗 [[Columna] "Desde el sonido de una aguja hasta la transmisión, el sonido continúa viviendo en el tiempo". De la era del rebobinado a la era del salto infinito](https://monumental-movement.jp/Column-Media-Types)
+flowchart TD
+    O["外周 (Outer rim)：高い線速度 → 高域再現良好"]
+    M["中間域：線速度低下 → 高域減衰開始"]
+    I["内周 (Inner rim)：低い線速度 → 内周歪増大・高域減衰"]
+
+    O --> M --> I
+
+    %% 注釈をノードで追加
+    A["線速度 (linear velocity)：外周>内周 → 高域特性が有利"]
+    B["内周歪 (inner groove distortion)：内周で増加 → 高域が丸くなる"]
+    C["音圧 (Amplitude)：溝幅に比例 → 再生時間とトレードオフ"]
+
+    A -.-> O
+    B -.-> I
+    C -.-> M
+
+</div>
+
+---
+
+### 関連コラム
+
+🔗 [【コラム】 10インチの誘惑——フォーマットが語る音の美学](https://monumental-movement.jp/Column-10-Inch-Vinyl)
+
+🔗 [【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ](https://monumental-movement.jp/Column-Media-Types)

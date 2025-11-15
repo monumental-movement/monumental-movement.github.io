@@ -9,16 +9,16 @@ tags:
 - Techno
 - German Techno
 - Downtempo
-title: Johannes Heil – Futuro Primitivo
+title: Johannes Heil – Future Primitive
 ---
 
 
-La música de Johannes Heil tiene una atmósfera oscura y dramática, con ritmos pesados ​​y sonidos psicodélicos. La meticulosa producción y los arreglos en evolución transportan al oyente a un mundo futurista.
+ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
 
-El trabajo de Johannes Heil es muy aclamado por los fans de la música techno y la escena musical underground, y es conocido por su estilo de sonido único.
+ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1  Future Primitive Intro
 
@@ -39,7 +39,7 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

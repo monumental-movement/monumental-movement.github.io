@@ -10,13 +10,13 @@ tags:
 - Rhythm & Blues
 - Vocal
 - 90s
-title: VA - Spike & Co. Hazlo a capella
+title: VA – Spike & Co. Do It A Cappella
 ---
 
 
-Este álbum es la banda sonora de un documental de PBS de 1990 sobre música a capella dirigido por Spike Lee.
+このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. True Image – I Need You
 2. Mint Juleps – Don't Let Your Heart
@@ -33,7 +33,7 @@ Este álbum es la banda sonora de un documental de PBS de 1990 sobre música a c
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

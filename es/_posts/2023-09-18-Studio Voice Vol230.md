@@ -8,17 +8,17 @@ layout: post
 tags:
 - Disk Guide
 - Studio Voice
-title: Studio Voice Vol230 (Voz de estudio) Bob Dylan
+title: Studio Voice Vol230 (スタジオボイス) ボブディラン
 ---
 
 
-Studio Voice Vol230 (Voz de estudio) Bob Dylan
+Studio Voice Vol230 (スタジオボイス)ボブディラン
 
-Portada: Bob Dylan
+表紙：ボブ・ディラン
 
-Bob Dylan, David Amram, Motoharu Sano, Wim Wenders, Hitomi Okawa, Mayo Thompson
+ボブディラン　デイヴィッド・アムラム　佐野元春　ヴィム・ヴェンダース　大川ひとみ　メイヨ・トンプソン
 
-#### Contenido
+#### Contents
 ```md
 □ 吠える Poetry Vibrations ビートニクからラッパーまで
 □ Beat Now
@@ -34,4 +34,4 @@ Bob Dylan, David Amram, Motoharu Sano, Wim Wenders, Hitomi Okawa, Mayo Thompson
 □ リチャード・D・ジェームス来日公演
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}

@@ -12,11 +12,11 @@ title: Autechre – Envane
 ---
 
 
-Autechre es una unidad de techno británica formada por Sean Booth y Rob Brown.
+「Autechre」は、ショーン・ブース（Sean Booth）とロブ・ブラウン（Rob Brown）からなるイギリスのテクノユニットです。
 
-Envane es un CD lanzado por Autechre en 1997, que presenta un enfoque único de la música electrónica, ritmos complejos, paisajes sonoros abstractos y diseño de sonido experimental.
+「Envane」は、Autechre(オウテカ)が1997年にリリースしたCDで、電子音楽への独自のアプローチ、複雑なリズム、抽象的なサウンドスケープ、実験的なサウンドデザインが特徴です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Goz Quarter
 
@@ -27,7 +27,7 @@ Envane es un CD lanzado por Autechre en 1997, que presenta un enfoque único de 
 4. Draun Quarter
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=je_nerpGDUxJULxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,18 +8,18 @@ layout: post
 tags:
 - House
 - Progressive
-title: No más señor buen chico - Fijación
+title: No More Mr Nice Guy – Fixation
 ---
 
 
-"Fixation" es un EP de la unidad de Pete Lazonby y Tim Fielding, No More Mr Nice Guy, lanzado en 1995 con el sello británico ":Confusion Records".
+「Fixation」は、1995年にUKのレーベル「:Confusion Records」からリリースされたPete LazonbyとTim FieldingによるユニットNo More Mr Nice GuyのEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Fixation
 
 B. Space Terrace
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
 

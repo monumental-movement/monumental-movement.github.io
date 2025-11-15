@@ -10,186 +10,185 @@ tags:
 - Citypop
 - History
 - 80s
-title: '[Columna] Redescubriendo el pop urbano: por qué los DJ y YouTubers extranjeros
-  son adictos a él'
+title: 【コラム】 シティポップ再発見：海外DJ・YouTube世代がハマった理由
 ---
 
 
-## 1. Introducción: ¿Por qué City Pop ahora?
+## 1. 序章：なぜ今、シティポップなのか
 
 
-Texto: mmr | Tema: El pop urbano japonés de los años 80 ha sido redescubierto por la generación YouTube y los DJ extranjeros. El paisaje nocturno de la ciudad y los sonidos que reflejan nostalgia son ahora un fenómeno cultural que resuena en todo el mundo.
+文：mmr｜テーマ：1980年代の日本都市ポップス“シティポップ”が、YouTube世代と海外DJにより再発見。都市の夜景と郷愁を映すサウンドは、今や世界で共鳴する文化的現象
 
 
-A finales de la década de 1980, el término "city pop" parecía haber dejado de existir en el mundo de la música japonesa.
-Sin embargo, en la década de 2020, este género está causando sensación en las listas de streaming de todo el mundo. "Plastic Love" se ha reproducido decenas de millones de veces en YouTube, y listas de reproducción como "Tokyo Night Drive" y "Japanese City Pop" se mantienen constantemente en los primeros puestos de Spotify.
-Este fenómeno no es sólo nostalgia. Detrás de este redescubrimiento guiado por la casualidad de un algoritmo se esconde un deseo universal por una música que convive con la sofisticación y la nostalgia urbanas.
+1980年代の終わり、日本の音楽界では「シティポップ」という言葉が一度その役割を終えたはずだった。  
+だが2020年代に入って、このジャンルは世界のストリーミングチャートを賑わせている。YouTube上では「Plastic Love」が数千万回再生され、Spotifyでは“Tokyo Night Drive”“Japanese City Pop”といったプレイリストが常に上位を維持する。  
+この現象は単なる懐古ではない。アルゴリズムが偶然導いた再発見の裏に、**都市的洗練と郷愁が共存する音楽**への普遍的欲求が潜んでいる。  
 
-Para los jóvenes oyentes extranjeros, estos sonidos son un símbolo del "futuro retro". Las luces de neón, el pavimento después de la lluvia, la calidez de las grabaciones analógicas: ven el romance del futuro en el "pasado extranjero" que no se puede encontrar en la música de su propio país.
-DJ Night Tempo dijo: "Esta música es nostalgia del futuro". En otras palabras, en lugar de consumir el pasado, estamos aceptando la década de 1980 en Japón como un "futuro alternativo".
+海外の若いリスナーにとって、これらのサウンドは「レトロ・フューチャー」の象徴だ。ネオンの光、雨上がりの舗道、アナログ録音の温度感――彼らは自国の音楽では得られない“異国の過去”に未来のロマンを見ている。  
+DJ Night Tempoは「この音楽は未来のノスタルジアだ」と語った。つまり、過去を消費するのではなく、“もう一つの未来”として日本の80年代を受け取っているのだ。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## 2. Definición del pop urbano: paisajes sonoros urbanos
+## 2. シティポップの定義：都市のサウンドスケープ
 
-""City Pop'' es un dispositivo cultural que convierte escenas urbanas en sonidos.
-Su musicalidad tiene múltiples capas. AOR, soul, funk, jazz, disco: basados ​​en la música negra occidental, combinaron la belleza melódica y la poesía japonesa. La precisa armonía vocal de Tatsuro Yamashita, la dulce pero desgarradora melodía de Mariya Takeuchi y la producción estructurada de Eiichi Otaki. Todos ellos funcionaron como una "redefinición japonesa del pop".
+「シティポップ」とは、都市の光景を音に変換した文化装置である。  
+その音楽性は多層的だ。AOR、ソウル、ファンク、ジャズ、ディスコ――西洋の黒人音楽を下敷きに、日本語の旋律美と詩情を融合させた。山下達郎の緻密なヴォーカル・ハーモニー、竹内まりやの甘くも切ないメロディ、大滝詠一の構築的プロダクション。どれもが「日本人によるポップの再定義」として機能していた。  
 
-Los temas de esta música se resumen en motivos como el amor, la vida nocturna, la soledad y el movimiento. Aunque está ambientada en una ciudad, hay cierta sensación de quedarse atrás.
-Era una "pintura de paisaje privado" que representaba la riqueza y el vacío provocados por el rápido crecimiento económico como un sentimiento personal. Por eso resuena entre los oyentes extranjeros modernos. Ahora que la urbanización y la digitalización han progresado, ellos también enfrentan la misma soledad.
-
----
-
-## 3. Antecedentes históricos: alto crecimiento económico y la era del casete
-
-Desde finales de los años 1970 hasta los años 1980, la sociedad japonesa alcanzó rápidamente la prosperidad.
-Los electrodomésticos, los automóviles, la moda y la música simbolizaban el "estilo de vida urbano".
-El Walkman de Sony (1979) marcó el comienzo de una revolución en cuanto a "llevar música contigo" y City Pop se convirtió en la banda sonora ideal.
-
-Las estaciones de FM abren una tras otra y los DJ tocan los últimos éxitos en inglés. La progresión de acordes evoca los vientos de la costa oeste estadounidense y está asociada con imágenes de ciudades como Tokio, Yokohama y Kobe.
-Se puede decir que los oyentes de la época se expresaban "viviendo en la ciudad" a través del pop urbano.
-Durante este período, la tecnología de grabación japonesa alcanzó el nivel más alto del mundo y la calidad del sonido de los discos era extremadamente alta. Fue una época en la que la ciudad realmente resonó tanto acústica como socialmente.
+この音楽の主題は、恋愛や夜の街、孤独、移動といったモチーフに集約される。都市を舞台にしながら、どこか“取り残された感情”が流れているのだ。  
+それは高度経済成長が生んだ豊かさと空虚さを、個人の感覚として描いた“私的な風景画”だった。だからこそ、現代の海外リスナーにも共鳴する。都市化とデジタル化が進んだ今、彼らもまた同じ孤独を抱えているからだ。
 
 ---
 
-## 4. Características musicales: acordes, ritmos, estética de grabación.
+## 3. 歴史的背景：高度経済成長とカセット時代
 
-El corazón del pop urbano reside en la sofisticación armónica y la flexibilidad rítmica.
-La progresión de acordes utiliza la séptima y la novena mayor con frecuencia, creando una sensación de flotación. El momento melancólico del cambio inesperado en Diminish invita al oyente a la "ciudad nocturna".
-Aunque el ritmo es parecido al AOR, absorbe las tendencias disco y soul de la época y se caracteriza por un ritmo ligero de alrededor de 110 BPM.
+1970年代末から80年代にかけて、日本社会は急速に豊かさを手に入れた。  
+家電や車、ファッション、そして音楽が“都市的ライフスタイル”を象徴した。  
+Sonyのウォークマン（1979）は「音楽を持ち歩く」という革命をもたらし、シティポップはその理想的なサウンドトラックとなった。  
 
-En términos de grabación, brilla la "estética del espacio" creada por los equipos analógicos y los hábiles ingenieros de la época.
-El procesamiento de reverberación y la precisión del ecualizador del estudio lograron tanto "transparencia" como "humedad".
-En particular, "SPACY" (1978) de Tatsuro Yamashita se transmite como una obra monumental que elevó el arte de la grabación de estudio a su límite máximo.
-La perfección de este sonido es una de las razones por las que fue "descubierto" en el extranjero más de 40 años después.
-
----
-
-## 5. Consumo y olvido: silencio desde los años 90
-
-En la década de 1990, el colapso de la burbuja económica cambió fundamentalmente los valores de la música.
-La ciudad perdió su brillo y el pop urbano se consideró "anticuado" y "frívolo".
-Lo que surgió en su lugar fue música de "autoexpresión más individualista" como el J-Pop, el visual kei y el hip-hop.
-
-Sin embargo, en la clandestinidad se estaba gestando una tendencia diferente. Los DJ estaban redescubriendo la música japonesa de los años 80 como un ritmo poco común en la cultura de discoteca.
-DJ MURO, DJ Nori, Gilles Peterson y otros crearon compilaciones, y los compradores de discos de todo el mundo buscaron la versión japonesa.
-En otras palabras, el pop urbano no murió por completo, sino que continuó viviendo tranquilamente en el "fondo de la memoria".
+FM局が次々と開局し、DJが英語交じりに最新ヒットを流す。アメリカ西海岸の風を感じさせるコード進行が、東京・横浜・神戸といった都市イメージと結びついた。  
+当時のリスナーは、シティポップを通じて「都会に生きる自分」を演出していたともいえる。  
+この時期、日本の録音技術は世界最高水準に達し、レコードの音質も極めて高かった。まさに、音響的にも社会的にも“都市”が鳴っていた時代だった。
 
 ---
 
-## 6. Punto de partida de la reevaluación: YouTube y el fenómeno "Plastic Love"
+## 4. 音楽的特徴：コード、グルーヴ、録音美学
 
-En 2017, se publicó discretamente un vídeo en YouTube.
-"Amor plástico" de Mariya Takeuchi. Un post sencillo con la imagen de un disco y una miniatura del perfil de una mujer pálida.
-Pero el vídeo fue alimentado por un algoritmo y acumuló decenas de millones de visitas en unos pocos años.
+シティポップの心臓部は、**ハーモニーの洗練とリズムの柔軟性**にある。  
+コード進行はMajor7や9thを多用し、浮遊感を生む。ディミニッシュで不意に転調する瞬間のメランコリーは、聴き手を“夜の都市”へと誘う。  
+リズムはAOR的でありながら、当時流行のディスコやソウルを吸収しており、BPM110前後の軽やかなグルーヴが特徴だ。  
 
-¿Por qué se propagó?
-Primero, las recomendaciones automáticas de YouTube crearon una "cadena auditiva" que accidentalmente llegó a los oídos de los oyentes extranjeros.
-En segundo lugar, su sonido melancólico tenía afinidad con el Vaporwave y el Lo-fi Hip Hop.
-En tercer lugar, la sección de comentarios funcionó como una "comunidad de nostalgia" internacional.
-
-De esta manera, "Plastic Love" se convirtió en un ícono de la era digital.
-Aunque no saben nada de los 80, comparten la "textura de memoria" de esta canción a través de datos.
+録音面では、当時のアナログ機材と熟練エンジニアによる“空間の美学”が光る。  
+スタジオのリバーブ処理や、EQの精密さが「透明感」と「湿度」を同時に実現した。  
+特に山下達郎の『SPACY』（1978）は、スタジオ録音の芸術性を極限まで高めた金字塔として語り継がれている。  
+このサウンドの完成度こそ、40年以上後に海外で“発掘”される理由のひとつだ。
 
 ---
 
-## 7. La perspectiva del DJ extranjero: de escuchar a la pista de baile
+## 5. 消費と忘却：90年代以降の沈黙
 
-DJs de todas partes llevaron el City Pop a los clubes: Francia, Corea del Sur, Londres, Los Ángeles.
-Night Tempo, Yung Bae, Macross 82-99 son algunos de los más icónicos.
-Probaron y reinventaron el pop urbano, creando un nuevo género llamado "Future Funk".
+90年代、バブル経済の崩壊は音楽の価値観を根底から変えた。  
+都市の輝きは失われ、シティポップは“古臭い”“軽薄”とみなされた。  
+代わって台頭したのは、J-Popやヴィジュアル系、ヒップホップなど、“より個人主義的な自己表現”の音楽だった。  
 
-Esta música no es sólo nostálgica, sino una fusión del brillo de los 80 y un tempo moderno.
-Para los DJ, el pop urbano es un "tempo cómodo y bailable" de 110 a 115 BPM.
-Tiene una calidad de sonido perfecta como material de muestreo.
-
-Cuando están iluminados por las luces del club, los sonidos de Mariya Takeuchi y Toshio Kadomatsu resuenan como melodías de danza moderna.
-Fue una nueva experiencia de "bailar el futuro con el pasado" en lugar de "recrear el pasado".
+だが、地下では別の流れが生まれていた。クラブカルチャーの中で、DJたちがレアグルーヴとして80年代の日本音楽を再発見していたのだ。  
+DJ MUROやDJ Nori、Gilles Petersonらがコンピレーションを作り、世界中のレコードバイヤーが日本盤を探し求めた。  
+つまり、シティポップは完全に死んだわけではなく、“記憶の底”で静かに生き続けていたのである。
 
 ---
 
-## 8. Conexión con la cultura Vaporwave/Lo-fi HipHop
+## 6. 再評価の起点：YouTubeと“Plastic Love”現象
 
-La cultura vaporwave, que surgió en Internet, es esencial cuando se habla de revalorización del pop urbano.
-Este género combina ruido digital y nostalgia cortando y pegando música publicitaria y samples japoneses.
-Como resultado, la cultura japonesa de la década de 1980 fue reutilizada como un "futuro anónimo".
+2017年、YouTube上に一つの動画が静かに投稿された。  
+竹内まりやの「Plastic Love」。レコードの一枚画像と、淡い女性の横顔をサムネイルにしたシンプルな投稿。  
+しかしその動画はアルゴリズムに乗り、数年で数千万回再生を記録した。  
 
-De manera similar, el Lo-fi Hip Hop está conectado con la cultura BGM de YouTube y se difunde como "vibraciones japonesas de los 80".
-Un fragmento de pop urbano reproducido como música de fondo para estudiar se ha reproducido cientos de millones de veces.
-En otras palabras, el contexto de la música ha sido completamente deconstruido y la música pop japonesa se ha convertido en un material para emociones globales.
-Aquí radica la esencia de la "nostalgia digital", que va más allá de la traducción cultural.
+なぜ拡散したのか？  
+第一に、YouTubeの自動推薦が“聴覚的連鎖”を生み、偶然海外リスナーの耳に届いた。  
+第二に、そのメランコリックな響きが**VaporwaveやLo-fi HipHop**と親和性を持っていた。  
+そして第三に、コメント欄が国際的な“ノスタルジア共同体”として機能したのだ。  
 
----
-
-## 9. Influencia en los artistas contemporáneos.
-
-En el Japón de la década de 2020 está surgiendo una nueva generación que ha heredado el ADN del pop urbano.
-Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino también a artistas jóvenes como iri, Taichi Mukai y Vaundy.
-Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
-
-En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
-En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
+こうして「Plastic Love」は、デジタル時代の偶像となった。  
+彼らは80年代を知らないが、この曲の“記憶の質感”をデータ越しに共有している。
 
 ---
 
-## 10. Conclusión: La era en la que la nostalgia se convierte en un producto de exportación
+## 7. 海外DJの視点：リスニングからダンスフロアへ
 
-La música que los japoneses alguna vez crearon como un "sueño urbano" ahora resuena en la gente del otro lado del mundo, 40 años después.
-Esto no es sólo nostalgia, sino una inversión en la que "el pasado se convierte en futuro".
-Imágenes generadas por IA, ciudades en el Metaverso, arte NFT: todas son extensiones de City Pop.
+フランス、韓国、ロンドン、LA――各地のDJがCity Popをクラブに持ち込んだ。  
+Night Tempo、Yung Bae、Macross 82-99などが象徴的だ。  
+彼らはシティポップをサンプリングし、再構築して“Future Funk”という新ジャンルを生み出した。  
 
-La música es a la vez un espejo de los tiempos y un dispositivo de empatía que trasciende los tiempos.
-El pop urbano es amado en todo el mundo porque su sonido no "recrea el pasado" sino "sueños de un futuro perdido".
-La noche citadina comienza a iluminarse nuevamente en los oídos del mundo.
+この音楽は、単なる懐古ではなく、80年代の明るさと現代のテンポ感を融合したもの。  
+DJにとってシティポップは、BPM110〜115の「心地よく踊れるテンポ」であり、  
+サンプリング素材としても完璧な音質を備えている。  
+
+クラブの照明に照らされると、竹内まりやや角松敏生のサウンドが、まるで現代のダンスチューンのように響く。  
+それは“過去を再演する”のではなく、“過去と共に未来を踊る”という新しい体験だった。
 
 ---
 
-## Cronología: Genealogía del redescubrimiento del pop urbano
+## 8. Vaporwave／Lo-fi HipHop文化との接続
 
-<div class="sirena">
+シティポップの再評価を語る上で欠かせないのが、インターネット発のVaporwave文化である。  
+このジャンルは、過去の広告音楽や日本語サンプルを切り貼りし、デジタルノイズとノスタルジーを融合した。  
+結果として、1980年代の日本文化が“匿名の未来”として再利用された。  
 
-línea de tiempo
-título Cronología del redescubrimiento del City Pop
-1978: Tatsuro Yamashita lanza "SPACY", el prototipo del pop urbano.
-1981: Grabado "Plastic Love" de Mariya Takeuchi.
-1985: Toshio Kadomatsu "EL MAR ES UNA DAMA".
-1990: Estallido de la burbuja, declive del género.
-2003: DJ MURO y otros lanzaron una mezcla redescubierta.
-2017: "Plastic Love" se difundió en el extranjero en YouTube.
-2019: La serie "Showa Groove" de Night Tempo se convierte en un éxito internacional.
-2022: La lista de reproducción "Tokyo Night Drive" de Spotify es popular en todo el mundo.
-2025: Se instalará un escenario exclusivo City Pop en festivales extranjeros.
+Lo-fi HipHopも同様に、YouTubeのBGMカルチャーと結びつき、“Japanese 80s vibes”として拡散。  
+勉強用BGMとして流れるシティポップの断片が、数億回の再生を記録している。  
+つまり、音楽の文脈が完全に解体された上で、日本のポップスは**グローバルな感情の素材**となった。  
+ここにこそ、文化の翻訳を超えた「デジタル郷愁」の本質がある。
+
+---
+
+## 9. 現代アーティストへの影響
+
+2020年代の日本では、シティポップのDNAを受け継いだ新世代が登場している。  
+SuchmosやLucky Tapes、cero、Nulbarichはもちろん、iriや向井太一、Vaundyといった若手もその系譜に連なる。  
+彼らは80年代のコード感やグルーヴを現代的に再構築し、“都市に生きる感情”を新しい言語で描く。  
+
+海外でもKhruangbin、Men I Trust、Crumbなどが“Japanese Aesthetic”を意識的に取り入れている。  
+Spotifyのデータでは、シティポップの聴取はアメリカ・ブラジル・韓国・フランスで特に増加。  
+つまりこのジャンルは、“ローカルな日本文化”ではなく、“ポストグローバルな感情共有装置”へと変貌したのだ。
+
+---
+
+## 10. 結論：ノスタルジアが輸出品になる時代
+
+かつて日本人が“都会の夢”として作り上げた音楽が、40年後の地球の裏側で共感を呼んでいる。  
+それは単なる懐古ではなく、「過去が未来になる」逆転現象である。  
+AIが生成する映像、メタバース上の都市、NFTアート――どれもシティポップの延長線上にある。  
+
+音楽は時代の鏡であると同時に、時代を超える共感装置でもある。  
+シティポップが世界に愛されるのは、その音が**「過去を再現する」のではなく、「失われた未来を夢見る」**からだ。  
+都市の夜は、再び世界の耳に灯りはじめている。
+
+---
+
+## 年表：シティポップ再発見の系譜
+
+<div class="mermaid">
+
+timeline
+    title シティポップ再発見の年表
+    1978 : 山下達郎『SPACY』発表、シティポップの原型。
+    1981 : 竹内まりや『Plastic Love』収録。
+    1985 : 角松敏生『SEA IS A LADY』。
+    1990 : バブル崩壊、ジャンル衰退。
+    2003 : DJ MUROらが再発掘ミックスを発表。
+    2017 : YouTubeで“Plastic Love”が海外拡散。
+    2019 : Night Tempo『Showa Groove』シリーズが国際的成功。
+    2022 : Spotify “Tokyo Night Drive”プレイリストが世界人気。
+    2025 : 海外フェスでCity Pop専用ステージ設置へ。
 
 </div>
 
 ---
 
-## Ilustrado: Estructura del redescubrimiento del pop urbano
+## 図解：シティポップ再発見の構造
 
-<div class="sirena">
+<div class="mermaid">
 
-gráfico TD
-A[pop urbano japonés de los años 80] --> B[carga de YouTube]
-B --> C [Difusión por algoritmo]
-C --> D [Redescubrimiento de oyentes extranjeros]
-D --> E [Influencia en la cultura DJ/vaporwave]
-E --> F [Influencia en los artistas contemporáneos]
-F --> G [Globalización de la nostalgia]
+graph TD
+A[80年代の日本シティポップ] --> B[YouTubeアップロード]
+B --> C[アルゴリズムによる拡散]
+C --> D[海外リスナーの再発見]
+D --> E[DJカルチャー・Vaporwaveへの流入]
+E --> F[現代アーティストへの影響]
+F --> G[ノスタルジアのグローバル化]
 
 </div>
 

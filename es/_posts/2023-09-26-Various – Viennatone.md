@@ -8,14 +8,14 @@ layout: post
 tags:
 - Breaks
 - Minimal
-title: Varios – Vienatone
+title: Various – Viennatone
 ---
 
 
-"Varios – Viennatone" es
-Este es un trabajo publicado por !k7 records de Alemania en 1999.
+「Various – Viennatone」は、
+1999年にドイツの!k7 recordsからリリースされた作品です。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Count Basic–Gotta Jazz
 
@@ -40,7 +40,7 @@ Este es un trabajo publicado por !k7 records de Alemania en 1999.
 11. Puck Dannin–Family Affair
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

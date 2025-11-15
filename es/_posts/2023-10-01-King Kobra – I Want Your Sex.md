@@ -7,18 +7,18 @@ lang: es
 layout: post
 tags:
 - Euro Beat
-title: Rey Kobra - Quiero tu sexo
+title: King Kobra – I Want Your Sex
 ---
 
 
-Este es un sencillo de "King Kobra", un proyecto de su nombre real David Brian Srb.
+本名David Brian Srbのプロジェクトである「King Kobra」のシングルです。
 
-David Brian Srb nació en Omaha, Nebraska, y es multiinstrumentista, cantautor, ingeniero de grabación y productor musical.
+David Brian Srbは、ネブラスカ州オマハ生まれで、マルチ楽器演奏家、シンガーソングライター、レコーディングエンジニア、音楽プロデューサー。
 
-Radicado en Italia desde la década de 1980 hasta 1998, cantó muchas canciones eurobeat bajo varios alias.
-Actualmente trabaja como Director Técnico y Gerente de Auditorio en Christian Heritage Academy en Northfield, Illinois.
+1980年代から1998年までイタリアに拠点を置き、様々な別名でユーロビートの楽曲を多数歌いました。
+現在はイリノイ州ノースフィールドにあるクリスチャン・ヘリテージ・アカデミーでテクニカルディレクターおよびオーディトリアムマネージャーとして働いています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. I Want Your Sex (Dance Mix)
 
@@ -29,7 +29,7 @@ B2. I Want Your Sex (Radio Edit)
 B3. I Want Your Sex (Playback)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m54349709741?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54349709741?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UTleGxk8lxA?si=dy1Bt1juayABVet0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

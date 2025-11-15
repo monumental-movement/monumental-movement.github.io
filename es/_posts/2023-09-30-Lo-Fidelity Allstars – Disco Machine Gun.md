@@ -8,14 +8,14 @@ layout: post
 tags:
 - Big Beat
 - Triphop
-title: Lo-Fidelity Allstars - Ametralladora disco
+title: Lo-Fidelity Allstars – Disco Machine Gun
 ---
 
 
-"Puppy Phat" de "Lo-Fidelity Allstars - Disco Machine Gun" desdibuja la línea entre trip-hop y big beat con su tempo downtempo pero con un ritmo grueso y una línea de bajo sórdida. Oculta como cara B, esta canción es una de las mejores pistas de Lo-Fi.
+「Lo-Fidelity Allstars - Disco Machine Gun」の「Puppy Phat」は、ダウンテンポのテンポを持ちながらも太いビートとスリージーなベースラインで、トリップホップとビッグビートの境界を曖昧にします。B面として隠れているこの曲は、Lo-Fiの最高のトラックの1つです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Disco Machine Gun
 
@@ -24,7 +24,7 @@ AA1. Disco Machine Gun (Many Tentacles Pimping On The Keys)
 AA2. Puppy Phat, Number One
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m70205023826?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70205023826?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYh32Sxv0M0?si=maLslvwYFdHaRWNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

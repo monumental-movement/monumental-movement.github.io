@@ -10,18 +10,18 @@ tags:
 - World
 - Country
 - 80s
-title: Randy Travis - Tormentas de la vida
+title: Randy Travis – Storms Of Life
 ---
 
 
-Randy Travis es un cantante y actor de country estadounidense que ha estado activo desde 1979.
+Randy Travis(ランディ・トラヴィス)は、1979年から活動するアメリカのカントリー歌手、俳優。
 
-Su álbum de estudio debut, Storms of Life, lanzado en 1986, fue un gran éxito comercial y los hizo famosos. Ha sido certificado como disco de triple platino.
+1986年にリリースされたデビュースタジオアルバム「Storms Of Life」は、商業的に大成功を収め、このアルバムで一躍有名になった。トリプルプラチナディスクに認定されている。
 
-Randy Travis es conocido como una de las personas que contribuyeron al desarrollo del país neotradicional, junto con Reba McEntire, George Strait, Toby Keith y otros.
+Randy Travisは、リーバ・マッキンタイア, ジョージ・ストレイト, トビー・キース等と並びネオトラディショナルカントリーの発展に貢献した一人として知られている。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. On The Other Hand
 A2. The Storms Of Life
@@ -36,7 +36,7 @@ B4. Reasons I Cheat
 B5. There'll Always Be A Honky Tonk Somewhere
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46471890400?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syhTjuxqpVA?si=Xcy3uenTrKoAJG3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

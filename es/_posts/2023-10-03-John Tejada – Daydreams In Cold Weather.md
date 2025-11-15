@@ -8,14 +8,14 @@ layout: post
 tags:
 - IDM
 - Electro
-title: John Tejada – Sueños despiertos en climas fríos
+title: John Tejada – Daydreams In Cold Weather
 ---
 
 
-"Sueños despiertos en climas fríos" es
-Un LP doble de John Tejada lanzado en 2002 en el sello británico Plug Research.
+「Daydreams In Cold Weather」は、
+2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. To The West
 
@@ -42,7 +42,7 @@ D11. In Coach5:06
 D12. Some Would Know Why
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

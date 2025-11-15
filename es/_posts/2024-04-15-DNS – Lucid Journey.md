@@ -8,24 +8,24 @@ layout: post
 tags:
 - Trance
 - Progressive Trance
-title: DNS – Viaje lúcido
+title: DNS – Lucid Journey
 ---
 
 
-DNS es una unidad de D Lewis y Stuart B.
+DNSは、D LewisとStuart Bによるユニット。
 
-El productor es Ron Wells, conocido como Jack Smooth (J.Smooth), pionero del Jungle Techno y activo desde los inicios del Drum and Bass.
+プロデューサーは、ジャングルテクノの先駆者でありドラムンベースの初期から活躍したJack Smooth (J.Smooth)として知られるRon Wells（ロン・ウェルズ）。
 
-""Lucid Journey / Static'' fue lanzado en 1994 en Bedhopper Recordings, el sello de trance duro británico de Jack Smooth.
+「Lucid Journey / Static」は、Jack Smoothが運営するUKのハードトランス・トランスレーベルBedhopper Recordingsから1994年にリリースされた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Lucid Journey
 
 AA. Static
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GKK_5uhxEUQ?si=9_2iwHpYwL2fMIHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

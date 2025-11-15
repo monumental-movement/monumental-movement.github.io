@@ -7,15 +7,15 @@ lang: es
 layout: post
 tags:
 - Hiphop
-title: Ol' Dirty Bastard - Regreso a las 36 cámaras La versión sucia
+title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
 ---
 
 
-Este álbum, "Return To The 36 Chambers The Dirty Version", es uno de los lanzamientos más exitosos de la carrera en solitario de Ol' Dirty Bastard.
+このアルバム「Return To The 36 Chambers The Dirty Version」はOl' Dirty Bastardがソロキャリアの中でも最も成功した作品の一つです。
 
-También incluyó colaboraciones con miembros de Wu-Tang y otros artistas invitados, y el álbum mostró su estilo musical individual en todo momento, obteniendo elogios de la crítica y éxito comercial.
+ウータンのメンバーや他のゲストアーティストとのコラボレーションも含まれており、アルバム全体で彼の個性的な音楽スタイルが発揮され、批評家から高い評価を受け商業的にも成功しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Intro
 
@@ -62,7 +62,7 @@ D14. Proteck Ya Neck II The Zoo
 D15. Cuttin' Headz
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

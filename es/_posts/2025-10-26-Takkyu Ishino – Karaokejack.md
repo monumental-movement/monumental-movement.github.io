@@ -13,17 +13,17 @@ title: Takkyu Ishino – Karaokejack
 ---
 
 
-Álbum en solitario de Takkyu Ishino lanzado en 2001. Primer CD con cubierta de papel limitada.
-La novena canción, "Creatures Of The Night", fue coescrita con Beroshima.
+2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
+9曲目「Creatures Of The Night 」は、Beroshimaとの共作。
 
 
-Takkyu Ishino - Karaoke Jack
+石野卓球 - カラオケジャック
 
-Especificaciones de la cubierta de papel de la primera edición limitada
+初回限定盤　紙ジャケ仕様
 
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Elektronik Go Go Go
 2. Rock Da Beat
@@ -40,7 +40,7 @@ Especificaciones de la cubierta de papel de la primera edición limitada
 13. Frankenstein's Haus
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

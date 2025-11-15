@@ -9,20 +9,20 @@ tags:
 - Techno
 - US Techno
 - 00s
-title: Joey Beltram – Beyonder / Mente Universal
+title: Joey Beltram – Beyonder / Universal Mind
 ---
 
 
-"Beyonder/Universal Mind" es una pista de techno/techhouse de Joey Beltram, lanzada en Tresor en 2004.
+ 「Beyonder / Universal Mind」は、2004年にTresor（トレゾア）からリリースされた、Joey Beltram（ジョイ・ベルトラム）のテクノ・テックハウス・トラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Beyonder
 
 B. Universal Mind
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32716237760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32716237760?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YcPvwmMFV7Y?si=1egHXBgpLhnSbnP3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

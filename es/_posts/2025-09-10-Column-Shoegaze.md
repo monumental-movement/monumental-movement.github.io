@@ -7,200 +7,199 @@ lang: es
 layout: post
 tags:
 - Shoegaze
-title: '[Columna] Desde los orígenes de Shoegaze hasta el presente: 10 obras maestras,
-  equipos y recomendaciones'
+title: 【コラム】 Shoegazeの発祥から現在まで — 名盤・機材・おすすめ10選
 ---
 
 
 
-## Shoegaze: antecedentes históricos, récords famosos, cambios de equipo y 10 pistas recomendadas -
+## Shoegaze（シューゲイザー）― 時代背景・名盤・機材の変遷とおすすめトラック10選 ―
 
 
-Texto: mmr｜Tema: Desde los orígenes de Shoegaze hasta la actualidad
+文：mmr｜テーマ：Shoegazeの発祥から現在まで
 
-Shoegaze es un género musical que se desarrolló a finales de la década de 1980, principalmente en el Reino Unido, y se caracteriza por guitarras atronadoras, efectos profundos de reverberación y retardo y un estilo vocal introspectivo. El nombre proviene de la palabra "mirada", que significa mirar los zapatos, y se dice que proviene de la forma en que el jugador juega con la cabeza gacha mientras se concentra en operar los efectos.
+Shoegaze（シューゲイザー）は、1980年代後半からイギリスを中心に発展した音楽ジャンルで、轟音のギター、エフェクトの深いリバーブやディレイ、そして内省的なボーカルスタイルを特徴としています。その名は「靴（shoe）を見つめる（gaze）」という言葉から生まれ、エフェクター操作に集中して下を向いて演奏する姿が由来とされています。
 
-A continuación, repasaremos la historia de Shoegaze por década e introduciremos los cambios en las obras maestras representativas y el equipo utilizado.
+以下では、Shoegazeの歴史を年代ごとに振り返り、代表的な名盤・使用機材の変遷とともに紹介します。
 
 ---
 
-## Década de 1980 — Origen
-### Antecedentes históricos
-- Siguiendo las tendencias del post-punk y new wave, se buscaba un nuevo enfoque para fusionar el ruido de guitarra y las melodías pop.
-- Los sellos independientes como Creation Records están liderando la escena.
+## 1980s — 発祥期  
+### 時代背景  
+- ポストパンクやニューウェーブの流れを受けつつ、ギターノイズとポップメロディを融合する新しいアプローチが模索されていた。  
+- Creation Recordsなどインディーレーベルがシーンを牽引。  
 
-### Obra maestra representativa
-- [Mi San Valentín Sangriento – *No es nada* (1988)](https://amzn.to/4njxSGF)
-- [Gemelos Cocteau – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
-- [La cadena de Jesús y María – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
+### 代表的な名盤  
+- [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
+- [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
+- [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
 
-### Equipo utilizado
-- **Guitarra**: Fender Jazzmaster, Jaguar
-- **Efector**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
-- **Amplificador**: Vox AC30, Fender Twin Reverb
+### 使用機材  
+- **ギター**: Fender Jazzmaster, Jaguar  
+- **エフェクター**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man  
+- **アンプ**: Vox AC30, Fender Twin Reverb  
 
-### 10 canciones recomendadas (década de 1980)
+### おすすめ10曲（1980s）  
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Me hiciste darme cuenta | Mi San Valentín Sangriento | Fusión de ruido y dulce melodía |
-| Pronto | Mi San Valentín Sangriento | Una obra maestra que definió la imagen futura del shoegaze |
-| Lorelei | Gemelos Cocteau | Pionero de texturas de ensueño |
-| Como la miel | La Cadena de Jesús y María | El prototipo de dulce melodía y rugido |
-| Pintores primitivos | Fieltro | Una fusión de indie británico y estética |
-| Estela de vapor | Paseo | Cuerdas majestuosas y rugido |
-| Sabor | Paseo | Números icónicos de los primeros viajes |
-| Más profundo que lo sagrado | Exuberante | El origen de la voz femenina y el rugido |
-| No hay mucho que perder | La Casa del Amor | Hermosa melodía y comentarios |
-| Al revés | La Cadena de Jesús y María | Monumento al ruido pop |
+| You Made Me Realise | My Bloody Valentine | ノイズと甘美なメロディの融合 |
+| Soon | My Bloody Valentine | 後のシューゲイズ像を決定づけた名曲 |
+| Lorelei | Cocteau Twins | ドリーミーな質感の先駆け |
+| Just Like Honey | The Jesus and Mary Chain | 甘美なメロと轟音の原型 |
+| Primitive Painters | Felt | 英国インディーと耽美性の融合 |
+| Vapour Trail | Ride | 荘厳なストリングスと轟音 |
+| Taste | Ride | 初期ライドの象徴的ナンバー |
+| Deeper Than Holy | Lush | 女性ボーカル×轟音の原点 |
+| Nothing Much to Lose | The House of Love | 美旋律とフィードバック |
+| Upside Down | The Jesus and Mary Chain | ノイズポップの金字塔 |
 
 ---
 
-## Década de 1990: edad de oro
-### Antecedentes históricos
-- My Bloody Valentine's *Loveless* (1991) marca el pináculo del género.
-- Ride, Slowdive, Lush y otros lanzaron obras maestras una tras otra.
-- Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
+## 1990s — 黄金期  
+### 時代背景  
+- My Bloody Valentineの *Loveless* (1991) がジャンルの頂点を築く。  
+- Ride, Slowdive, Lushなどが相次いで傑作を発表。  
+- ブリットポップの隆盛とともに一時衰退するも、後世の評価が高まる。  
 
-### Obra maestra representativa
-- [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
-- [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
-- [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
+### 代表的な名盤  
+- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
+- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
+- [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
 
-### Equipo utilizado
-- **Guitarra**: Fender Jazzmaster, Gibson Les Paul
-- **Efector**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus
-- **Tecnología de grabación**: construcción de un "muro de sonido" mediante grabación múltiple en capas
+### 使用機材  
+- **ギター**: Fender Jazzmaster, Gibson Les Paul  
+- **エフェクター**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus  
+- **録音技術**: レイヤー多重録音による「音の壁」構築  
 
-### 10 canciones recomendadas (década de 1990)
+### おすすめ10曲（1990s）  
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Sólo superficial | Mi San Valentín Sangriento | Pop rugiente que definió el género |
-| Cuando el sol golpea | Inmersión lenta | Un símbolo de una hermosa sensación de flotar |
-| Alison | Inmersión lenta | Una famosa balada fugaz y transparente |
-| Estela de vapor | Paseo | Arreglo de instrumentos de cuerda y sentimiento de ensueño |
-| Déjalos a todos atrás | Paseo | Una obra maestra con desarrollos de rock progresivo |
-| Lujo | Exuberante | Ruido de guitarra ligero y vívido |
-| Líneas de deseo | Exuberante | Paisaje sonoro profundo |
-| Con los ojos vendados | Curva | Un pionero que incorpora elementos electro |
-| Funk color cereza | Gemelos Cocteau | Intersección con Dream Pop |
-| A veces | Mi San Valentín Sangriento | Canciones que llegan al corazón del shoegaze |
+| Only Shallow | My Bloody Valentine | ジャンルを決定づけた轟音ポップ |
+| When the Sun Hits | Slowdive | 美しい浮遊感の象徴 |
+| Alison | Slowdive | 儚く透明な名バラード |
+| Vapour Trail | Ride | 弦楽器アレンジとドリーム感 |
+| Leave Them All Behind | Ride | プログレ的展開を持つ大作 |
+| De-Luxe | Lush | 軽やかで鮮烈なギターノイズ |
+| Desire Lines | Lush | 奥行きあるサウンドスケープ |
+| Blindfold | Curve | エレクトロ要素を取り入れた先駆 |
+| Cherry-Coloured Funk | Cocteau Twins | ドリームポップとの交錯 |
+| Sometimes | My Bloody Valentine | シューゲイズの核心を突く楽曲 |
 
 ---
 
-## Década de 2000: período de resurgimiento
-### Antecedentes históricos
-- Fusión con bandas de post-rock como Mogwai y Sigur Rós.
-- Una nueva generación de renacimiento del Shoegaze está progresando principalmente en Estados Unidos.
-- Con la difusión de la cultura de Internet, la reevaluación se está acelerando.
+## 2000s — リバイバル期  
+### 時代背景  
+- MogwaiやSigur Rósなどポストロック勢との融合。  
+- アメリカを中心に新世代のShoegazeリバイバルが進行。  
+- ネット文化の広がりで、再評価が加速。  
 
-### Obra maestra representativa
-- [M83 – *Ciudades muertas, mares rojos y fantasmas perdidos* (2003)](https://amzn.to/46Qy7D5)
-- [Cazador de ciervos – *Microcastillo* (2008)](https://amzn.to/4mu2OCC)
-- [Asobi Seksu – *Cítricos* (2006)](https://amzn.to/4nE4GtC)
+### 代表的な名盤  
+- [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
+- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
+- [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
 
-### Equipo utilizado
-- **Reverberación/retardo digital** (Line6 DL4)
-- **Sintetizadores suaves y DAW** (Pro Tools, Logic)
-- **Guitarra**: Fender Stratocaster, Telecaster también aumentaron
+### 使用機材  
+- **デジタル・リバーブ／ディレイ**（Line6 DL4）  
+- **ソフトシンセとDAW**（Pro Tools, Logic）  
+- **ギター**: Fender Stratocaster, Telecasterも増加  
 
-### 10 canciones recomendadas (años 2000)
+### おすすめ10曲（2000s）  
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Corre hacia las flores | M83 | Fusión de sueños y rugido |
-| América | Asobi Seksu | Un encuentro entre el lirismo japonés y el shoegaze |
-| jueves | Asobi Seksu | Hermosa melodía y rugido explosivo |
-| Nunca pasó nada | Cazador de ciervos | La Magia del Ruido y la Repetición |
-| madera de brezo | M83 | Ambiente profundo |
-| Los sueños se queman (en vivo) | Paseo | Actuación icónica del período de resurgimiento |
-| Adiós | Ulrich Schnauss | Representante de electro shoegaze |
-| Cuando soy pequeño | Fantograma | Intersección de electro y sueño |
-| Otra canción espacial | Fracaso | Fusión de alternativa al estilo estadounidense y rugido |
-A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el pop |
+| Run Into Flowers | M83 | ドリームと轟音の融合 |
+| America | Asobi Seksu | 日本的叙情とシューゲイズの邂逅 |
+| Thursday | Asobi Seksu | 美しい旋律と爆発する轟音 |
+| Nothing Ever Happened | Deerhunter | ノイズと反復のマジック |
+| Heatherwood | M83 | 幽玄なアンビエンス |
+| Dreams Burn Down (Live) | Ride | リバイバル時期の象徴的演奏 |
+| Goodbye | Ulrich Schnauss | エレクトロ・シューゲイズの代表格 |
+| When I'm Small | Phantogram | エレクトロとドリームの交差 |
+| Another Space Song | Failure | US的オルタナと轟音の融合 |
+| Sometimes Always | JAMC & Hope Sandoval | ノイズとポップの境界線 |
 
 ---
 
-## Década de 2010: Neo Shoegaze
-### Antecedentes históricos
-- Descubierto por la generación de Internet y obtuvo nuevo apoyo.
-- Están surgiendo bandas de nueva generación como DIIV y Nothing.
-- Fusión con Dreampop y Chillwave.
+## 2010s — ネオ・シューゲイズ  
+### 時代背景  
+- ネット世代が発掘し、新たに支持を獲得。  
+- DIIVやNothingなど、新世代バンドが台頭。  
+- DreampopやChillwaveとの融合。  
 
-### Obra maestra representativa
-- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
-- [Nada – *Culpable de todo* (2014)](https://amzn.to/42C57wq)
-- [Ringo Deathstarr – *Viaje de color* (2011)](https://amzn.to/3IynMCB)
+### 代表的な名盤  
+- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
+- [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
+- [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
 
-### Equipo utilizado
-- **Diversificación de efectores** (Strymon, EarthQuaker Devices)
-- **Mejora de la precisión de la mezcla con DAW**
-- **Reevaluación de equipos antiguos** (Jazzmaster, Big Muff)
+### 使用機材  
+- **エフェクターの多様化**（Strymon, EarthQuaker Devices）  
+- **DAWによるミックス精度の向上**  
+- **ヴィンテージ機材再評価**（Jazzmaster, Big Muff）  
 
-### 10 canciones recomendadas (década de 2010)
+### おすすめ10曲（2010s）  
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| ¿Cuánto hace que lo sabes? DIV | Abanderado del neo-shoegaze |
-| Empapado | DIV | Sensación acelerada y reverberación profunda |
-| Clavo doblado | Nada | Pesado muro de sonido |
-| Vértigo | Fósiles de playa | Fusión de indie y sueño |
-| Imagina Corazones | Ringo Estrella de la Muerte | Convivencia de explosión y dulzura |
-| Dejarte para siempre | Ringo Estrella de la Muerte | Sonido rugiente lleno de sensación de vivir |
-| La puerta de la ansiedad | Mercancía | Mezcla de Punk y Mirada |
-| Lovebuzz (Portada) | Impala domesticado | Intersección de psicología y mirada |
-| Luz azul | Nada salvaje | Paisaje onírico ambiental |
-| Ceremonia (En Vivo) | DIV | Fusión de shoegaze y post-punk |
+| How Long Have You Known | DIIV | ネオ・シューゲイズの旗手 |
+| Doused | DIIV | 疾走感と深いリバーブ |
+| Bent Nail | Nothing | 重厚な音の壁 |
+| Vertigo | Beach Fossils | インディーとドリームの融合 |
+| Imagine Hearts | Ringo Deathstarr | 爆音と甘美さの共存 |
+| Leave You Forever | Ringo Deathstarr | ライブ感溢れる轟音 |
+| Anxiety's Door | Merchandise | パンクとゲイズのミックス |
+| Lovebuzz (Cover) | Tame Impala | サイケとゲイズの交差 |
+| Blue Light | Wild Nothing | アンビエント感覚の夢幻 |
+| Ceremony (Live) | DIIV | シューゲイズとポストパンクの融合 |
 
 ---
 
-## Década de 2020: ahora
-### Antecedentes históricos
-- La reevaluación se está acelerando en todo el mundo.
-- También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
-- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
+## 2020s — 現在  
+### 時代背景  
+- 世界的に再評価が加速。  
+- フェスや配信での拡散により、若い世代にも人気。  
+- シューゲイズ的手法はK-POPや日本のシティポップ再評価ともリンク。  
 
-### Obra maestra representativa
-- [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
-- [Inmersión lenta – *Todo está vivo* (2023)](https://amzn.to/46PP5l8)
-- [Tamaryn – *Soñando en la oscuridad* (2019)](https://amzn.to/46sFjp7)
+### 代表的な名盤  
+- [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
+- [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
+- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  
 
-### Equipo utilizado
-- **Efectos de software** (cada vez más complementos)
-- Popularización del **entorno de grabación/distribución en el hogar**
-- **Operación híbrida de equipos antiguos y de última tecnología**
+### 使用機材  
+- **ソフトウェア・エフェクト**（プラグイン化が進む）  
+- **宅録・配信環境**の普及  
+- **ヴィンテージ機材と最新技術のハイブリッド運用**  
 
-### 10 canciones recomendadas (década de 2020)
+### おすすめ10曲（2020s）  
 
-| Título de la canción | Artista | Comentarios |
+| 曲名 | アーティスト | コメント |
 |------|--------------|----------|
-| Asilo contra el hambre | Nada | Rugido moderno y profundo |
-| Atrapa la brisa (reelaboración) | Inmersión lenta | Símbolo del nuevo Slowdive |
-| Besos | Inmersión lenta | Belleza melódica transparente |
-| Di menos | Nada | Muro de sonido oscuro y abrumador |
-| No se desvanezca | Ringo Estrella de la Muerte | Belleza rugiente renovada |
-| Soñando la oscuridad | Tamarina | Mirada de ensueño moderna |
-| Para los culpables | Blankenberge | Nueva generación de Rusia |
-| Afasia | Santo Cervatillo | Expansión Mirada Negra |
-| Deseos | DIV | Profundización de Neo-Mirada |
-| Brillo | Zumbido | Sonido pesado y profundo |
+| Famine Asylum | Nothing | 現代的で重厚な轟音 |
+| Catch The Breeze (Rework) | Slowdive | 新生Slowdiveの象徴 |
+| Kisses | Slowdive | 透明感ある旋律美 |
+| Say Less | Nothing | ダークで圧倒的な音の壁 |
+| Don’t Fade | Ringo Deathstarr | リフレッシュされた轟音美 |
+| Dreaming the Dark | Tamaryn | 現代的なドリーム・ゲイズ |
+| For the Guilty | Blankenberge | ロシア発の新世代 |
+| Aphasia | Holy Fawn | ブラックゲイズの拡張 |
+| Desires | DIIV | ネオ・ゲイズの深化 |
+| Shimmer | Whirr | 重厚で深淵なサウンド |
 
 ---
 
-# Balanceándose entre un sonido rugiente y una hermosa melodía
-Shoegaze surgió a finales de la década de 1980, alcanzó su edad de oro en la década de 1990 y, aunque alguna vez decayó, ha revivido desde la década de 2000. Desde la década de 2010 hasta la actualidad, su musicalidad ha seguido siendo amada en todo el mundo, incluso cuando se ha diversificado y subdividido. Este género, que oscila entre sonidos rugientes y hermosas melodías, sigue teniendo una fuerte influencia en la generación digital actual.
+# 轟音と美旋律の狭間で揺れる  
+Shoegazeは1980年代後半に芽吹き、1990年代に黄金期を迎え、一度は衰退しつつも2000年代以降リバイバル。2010年代〜現在に至るまで、その音楽性は多様化・細分化しながら世界中で愛され続けています。轟音と美旋律の狭間で揺れるこのジャンルは、現代のデジタル世代にも強い影響を与え続けています。

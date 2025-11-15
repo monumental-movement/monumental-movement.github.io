@@ -8,13 +8,13 @@ layout: post
 tags:
 - Rock
 - New-Wave
-title: Negro – Más que el sol
+title: Black – More Than The Sun
 ---
 
 
-Black es el alias del cantautor británico Colin Vearncombe y el nombre de su banda.
+Blackは、UKのシンガソングライターColinVearncombe（コリン・ヴァーンコム）の別名義であり、彼自身のバンド名。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. More Than The Sun
 
@@ -27,7 +27,7 @@ B2. Widemouth
 B3. Stephen
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,16 +8,16 @@ layout: post
 tags:
 - Acid Jazz
 - 90s
-title: Pana – Altos estragos
+title: Corduroy – High Havoc
 ---
 
 
-Corduroy es una banda de acid jazz de cuatro integrantes con sede en Londres.
+Corduroy(コーデュロイ)は、ロンドンを拠点に活動する4人組のアシッドジャズバンド。
 
-"High Havoc" es el segundo álbum conceptual de Corduroy, lanzado en 1993 por Acid Jazz Records. Se dice que la segunda canción, London England, es un clásico de la pista de baile de la década de 1990, y la obra maestra de Corduroy incluye muchos otros sencillos que entraron en el top 10 de las listas independientes del Reino Unido.
+「High Havoc」は、1993年にAcid Jazz RecordsからリリースされたCorduroyの2枚目のコンセプトアルバム。2曲目London Englandは1990年代のダンスフロアクラシックと言われており、他にもUKインディーズチャートTOP10に入ったシングルが多数収録されたCorduroyの代表作。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. High Havoc
 2. London England
@@ -34,7 +34,7 @@ Corduroy es una banda de acid jazz de cuatro integrantes con sede en Londres.
 13. Clearing Up Music
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

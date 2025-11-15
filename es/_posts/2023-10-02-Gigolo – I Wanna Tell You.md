@@ -7,13 +7,13 @@ lang: es
 layout: post
 tags:
 - House
-title: Gigoló – Quiero decirte
+title: Gigolo – I Wanna Tell You
 ---
 
 
-Gigolo es el alias de Edwin Maduro, productor de danza electrónica y propietario de Mo' Hop Records. Los nombres alternativos utilizados por Edwin Maduro incluyen Breadth Of View, Eddie Maduro, Eddie Satin, Gigolo, Monolith y The Vision.
+Gigoloは、Mo' Hop Recordsのオーナーであるエレクトロニック・ダンス・プロデューサー、 Edwin Maduro(エドウィン・マドゥロ)の別名義。Edwin Maduroが使用する別名義には、Breadth Of View、Eddie Maduro、Eddie Satin、Gigolo、Monolith、The Visionなどがある。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. I Wanna Tell You (Anthem)
 
@@ -22,7 +22,7 @@ B1. I Wanna Tell You (Instrumental)
 B2. I Wanna Tell You (Anthem Dub)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43553318967?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43553318967?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g7g_DF4V-w0?si=TD2hs_u4b80RoLwT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

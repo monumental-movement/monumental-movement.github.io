@@ -9,21 +9,21 @@ tags:
 - House
 - Electro
 - Downtempo
-title: FreeTEMPO – Sonidos
+title: FreeTEMPO – Sounds
 ---
 
 
-FreeTEMPO es un proyecto de Takeshi Hanzawa. Inició actividades bajo el nombre FreeTEMPO en el año 2000.
+FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト。2000年にFreeTEMPO名義で活動開始。
 
-En 2002, se unió al sello italiano IRMA RECORDS y lanzó su primer mini álbum "Love Affair".
+2002年、イタリアのレーベルIRMA RECORDSに参加し、1stミニアルバム『Love affair』をリリース。
 
-Desde entonces, han lanzado numerosos álbumes y sencillos, ganando muchos seguidores en Japón y en el extranjero con sus canciones melódicas y su sonido sofisticado.
+以降、数々のアルバムやシングルをリリースし、メロディックな楽曲と洗練されたサウンドで、国内外で多くのファンを獲得。
 
-En 2010 suspendió sus actividades bajo el nombre de FreeTEMPO, y desde entonces ha participado en diversos proyectos musicales.
+2010年にFreeTEMPO名義での活動を休止し、その後は様々な音楽プロジェクトに参加。
 
-En 2021 retomó sus actividades bajo el nombre de FreeTEMPO por primera vez en 11 años.
+2021年に11年ぶりにFreeTEMPO名義での活動を再開。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. You And Me (feat.小栗栖憲英)
 2. Birds (feat.arvin homa aya)
@@ -39,7 +39,7 @@ En 2021 retomó sus actividades bajo el nombre de FreeTEMPO por primera vez en 1
 12. Sounds
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

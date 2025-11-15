@@ -8,15 +8,15 @@ layout: post
 tags:
 - New-Wave
 - Synth-Pop
-title: Una bandada de gaviotas – Escuchar
+title: A Flock Of Seagulls – Listen
 ---
 
 
-A Flock Of Seagulls es una banda new wave, synthpop y romántica fundada en Liverpool, Inglaterra por Mike Score y su hermano Ali.
+A Flock Of Seagulls（フロック・オブ・シーガルズ）は、イギリスのリバプールでマイク・スコアと彼の弟アリによって設立されたニュー・ウェイヴ、 シンセポップ、ニューロマンティック・バンド。
 
-"Listen", lanzado en 1983, es el segundo álbum de estudio de A Flock Of Seagulls.
+1983年にリリースされた「Listen」は、A Flock Of Seagullsの２枚目のスタジオアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Wishing (If I Had A Photograph Of You)
 
@@ -39,7 +39,7 @@ B5. The Fall
 B6. (It's Not Me) Talking
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

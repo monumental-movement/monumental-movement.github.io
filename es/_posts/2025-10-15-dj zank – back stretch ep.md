@@ -8,20 +8,20 @@ layout: post
 tags:
 - Techno
 - 90s
-title: DJ Zank – EP Estiramiento de espalda
+title: DJ Zank – Back Stretch EP
 ---
 
 
-"Back Stretch EP" es una canción de Techno lanzada por DJ Zank (Hideo Sakuma / Subvoice / Hideo Sakuma) en el sello Subvoice Electronic Music en 1999.
+「Back Stretch EP」は、DJ Zank (佐久間 英夫 / Subvoice / Hideo Sakuma)がレーベルSubvoice Electronic Musicから1999年にリリースしたTechno。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Nothing To Fear
 
 AA. Solar Silence
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m90388202316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90388202316?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4hFSMP6JbpA?si=tXmUconUP5on1r4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

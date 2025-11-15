@@ -13,15 +13,15 @@ title: Obi, Charlie Hall – Dreamtech
 ---
 
 
-Obi, "Dreamtech" de Charlie Hall es un disco muy raro. A1 y B1 son pistas verdaderamente sin género, ambas contienen elementos de ritmo roto/leftfield/dub, con voces/cánticos africanos que crean un ambiente tribal de los 90.
+Obi, Charlie Hallの「Dreamtech」は、非常にレアなレコードです。A1とB1は、本当にジャンルレスなトラックで、どちらもブロークンビート/レフトフィールド/ダブの要素を含み、アフリカのボーカル/チャントがトライバルな90年代のムードを醸し出しています。
 
-La percusión y las líneas de sintetizador en movimiento completan esta excelente joya After Hours. Es como algo que se oiría en las salas chill-out de muchas discotecas de los 90.
+パーカッションと動きのあるシンセラインが、優れたアフターアワーの宝石のような作品を完成させています。まるで90年代の多くのナイトクラブのチルアウトルームで聞かれるようなものです。
 
-B2 es una obra maestra del deep house tribal de ritmo roto completamente mágica e hipnótica. Este disco utiliza samples y voces típicas de la época y tiene un ambiente místico maravilloso.
+B2では、完全に呪術的かつ催眠的なトライバルなブロークンビートディープハウスの名曲です。このレコードはその時代らしいサンプルやボーカルが使われており素晴らしい神秘的なムードがあります。
 
-Este disco es verdaderamente el sueño de todo excavador y es raro encontrar algo como esto en los discos de 12 pulgadas que estás buscando. Este es definitivamente un disco que merece más atención.
+このレコードは、まさにディガーの夢であり探し物の12インチレコードの中でこのようなものを見つけることは稀で滅多にありません。間違いなくもっと注目される価値のあるレコードと言えるでしょう。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Labanba
 
@@ -30,7 +30,7 @@ A2. House Pod
 AA1. Dreamtech
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m49518581240?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49518581240?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3qRHr0eoZlA?si=hsm9vz3Gr4BXTIVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

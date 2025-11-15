@@ -9,17 +9,17 @@ tags:
 - Modern Classical
 - Experimental
 - Minimal
-title: swod – segundos
+title: Swod – Sekunden
 ---
 
 
-Swod es un proyecto de grabación de los músicos Oliver Doerell y Stephan Wöhrmann.
+Swod(スウォッド)は、ミュージシャンOliver DoerellとStephan Wöhrmannによるレコーディングプロジェクト。
 
-Oliver Doerell es un multiinstrumentista basado en la música electrónica que también trabaja bajo el nombre de Cummi Flu. Stephan Wöhrmann es un pianista y baterista clásico moderno. Ambos son artistas solistas que componen música para danza, cine e instalaciones sonoras.
+Oliver Doerellは、Cummi Flu名義でも活動しているエレクトロニックミュージックを基調としたマルチ・インストゥルメンタリスト。Stephan Wöhrmannはモダンクラシカルなピアノ&ドラムプレイヤー。どちらもソロで、ダンス、映画、サウンドインスタレーション音楽を作曲している。
 
-"Sekunden" es un álbum experimental clásico moderno minimalista lanzado en 2007 por el sello alemán City Center Offices.
+「Sekunden」は、ドイツのレーベルCity Centre Officesから2007年にリリースされたミニマル・モダンクラシック・エクスペリメンタルアルバム。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Montauk
 2. Ja
@@ -35,7 +35,7 @@ Video1. Mamaev Kurgan
 Video2.Avtobus
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-C-UI1_tagY?si=58KxQ7II4ycQGbLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

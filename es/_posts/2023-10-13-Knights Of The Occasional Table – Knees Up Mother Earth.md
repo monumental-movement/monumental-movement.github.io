@@ -8,15 +8,15 @@ layout: post
 tags:
 - Downtempo
 - UK Band
-title: Caballeros de la mesa ocasional – De rodillas, Madre Tierra
+title: Knights Of The Occasional Table – Knees Up Mother Earth
 ---
 
 
-Knights Of The Ocasional Table es una banda electrónica del sureste de Londres formada por Steve Radford, Nygel Packett, Andrew Cowen y el vocalista Aquamanda.
+Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。
 
-Cuando este álbum fue lanzado en 1993, apareció en Peel Sessions de John Peel.
+このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Choose
 2. Amoeba
@@ -32,7 +32,7 @@ Cuando este álbum fue lanzado en 1993, apareció en Peel Sessions de John Peel.
 12. Untitled
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

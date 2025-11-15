@@ -8,15 +8,15 @@ layout: post
 tags:
 - House
 - 80s
-title: Dale Joyner – Sensación de amor
+title: Dale Joyner – Love Sensation
 ---
 
 
-Publicado en 1989 con el sello Unigram, este disco es un clásico de la música house que era popular en las pistas de baile de la época.
+1989年にレーベルUnigramからリリースされたこのレコードは、当時のダンスフロアで人気を博したハウス・ミュージックのクラシック。
 
-El productor es Garry Hughes, productor británico y teclista en vivo de Björk, Sly & Robbie, Garbage, Pink Floyd y The Art Of Noise.
+プロデューサーは、UKのプロデューサーであり、Björk, Sly & Robbie, Garbage, Pink Floyd, The Art Of NoiseのライブキーボードリストでもあるGarry Hughes。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Love Sensation (Club Mix)
 
@@ -25,7 +25,7 @@ B2. Love Sensation (Radio Mix)
 
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m31073345318?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31073345318?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d3PWbGgZzds?si=ldKlXJkMMvZNfUs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

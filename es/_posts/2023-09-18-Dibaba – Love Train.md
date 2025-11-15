@@ -9,15 +9,15 @@ tags:
 - House
 - Acid
 - Electro
-title: Dibaba – Tren del amor
+title: Dibaba – Love Train
 ---
 
 
-Este es un EP de DIBABA, una unidad del sueco OLLE CORNEER, lanzado en 2005.
+2005年リリースのスウェーデン人のOLLE CORNEERによるユニットDIBABAによるEPです。
 
-También incluye un remix ácido de John Dahlbäck.
+John Dahlbäckによるアシッド・リミックスも収録。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Love Train (Andreas Tilliander Remix)
 
@@ -28,7 +28,7 @@ B1. Love Train (John Dahlbäck Acid Train Mix)
 B2. Love Train (KFK's Dar-K Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rHL8vlzzQts?si=HlYO2J4ImZ0acamp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

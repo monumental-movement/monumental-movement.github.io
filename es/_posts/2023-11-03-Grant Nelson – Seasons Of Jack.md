@@ -7,20 +7,20 @@ lang: es
 layout: post
 tags:
 - House
-title: Grant Nelson - Temporadas de Jack
+title: Grant Nelson – Seasons Of Jack
 ---
 
 
-Nelson Nelson
-) es un DJ/productor de Londres, cofundador de Nice 'N' Ripe y Swing City Records y propietario de Freeze Dried.
+Grant Nelson（グラント ネルソン
+）は、ロンドン出身のDJ/プロデューサーであり、Nice 'N' Ripe and Swing City Recordsの共同創設者&Freeze Driedのオーナー。
 
-Grant Nelson estuvo activo en la escena garage del Reino Unido en los años 90 y también es conocido como productor de house/garage.
+グラント・ネルソンは、90年代のUKガレージシーンで活躍し、ハウス/ガレージプロデューサーとしても知られている。
 
-Tanto la cara A como la B incluyen remezclas del músico y DJ español Jesse García.
+A面、B面共に、スペインのミュージシャン・DJ のJesse Garcia(ジェシー・ガルシア)のremixを収録。
 
-"Seasons Of Jack" es una pista de house electro lanzada por el sello británico Boss Records en 2007.
+「Seasons Of Jack」は、2007年にUKを拠点とするレーベルBoss Recordsよりリリースされたハウス・エレクトロトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Seasons Of Jack (Original Mix)
 
@@ -31,7 +31,7 @@ B1. Seasons Of Jack (Jesse Garcia Electro Mix)
 B2. Seasons Of Jack (DJ Tool)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m24953586497?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24953586497?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Fniok7hdME?si=WonT5o2x0sKvYr_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

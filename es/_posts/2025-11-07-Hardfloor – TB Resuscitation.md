@@ -10,16 +10,16 @@ tags:
 - Techno
 - Acid
 - 90s
-title: Piso duro – Reanimación de la tuberculosis
+title: Hardfloor – TB Resuscitation
 ---
 
 
-Hardfloor se formó en 1991.
-Dúo alemán de acid techno y tech house.
+Hardfloorは、1991年に結成した
+ドイツのアシッドテクノ／テックハウス デュオ。
 
-El primer álbum de Hardfloor fue lanzado en 1993 en el sello independiente británico Moonshine Music. La obra maestra de Hardfloor, considerada una obra maestra del techno/acid techno.
+1993年にUKのインディペンデントレーベルMoonshine Musicからリリースされた、Hardfloor(ハードフロア)のファーストアルバム。テクノ・アシッドテクノの名盤されるHardfloorの代表作。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Lost In The Silver Box
 2. Trancescript
@@ -32,7 +32,7 @@ El primer álbum de Hardfloor fue lanzado en 1993 en el sello independiente brit
 9. Happy 20th (Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

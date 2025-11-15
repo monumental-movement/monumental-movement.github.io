@@ -9,22 +9,22 @@ tags:
 - House
 - Progressive House
 - 00s
-title: Kobbe y Austin Leeds - Fusionando amor
+title: Kobbe & Austin Leeds – Fusing Love
 ---
 
 
-Una pista de house progresivo del DJ y productor estadounidense Pierre Cobbaert, también conocido como Kobbe, y Austin Leeds.
+アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
 
-La cara B es un remix del DJ/productor Markus Schulz.
+B面は、DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Fusing Love (Original)
 
 B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qqn08DSjR9s?si=hA3dPVEBQtbgHsjR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

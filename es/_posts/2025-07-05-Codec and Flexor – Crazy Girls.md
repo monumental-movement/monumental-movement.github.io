@@ -10,16 +10,16 @@ tags:
 - Tech House
 - Electroclash
 - 00s
-title: Códec y Flexor – Chicas locas
+title: Codec & Flexor – Crazy Girls
 ---
 
 
-Codec & Flexor es un dúo formado por el DJ, productor, compositor y multiinstrumentista alemán Sven Zalac (Codec) y el compositor y productor alemán Mathias Freund (Flexor).
+Codec & Flexorは、ドイツを拠点とするDJ、プロデューサー、作曲家、マルチインストゥルメンタリストSven Zalac（Codec）とドイツの作曲家・プロデューサーMathias Freund（Flexor）によるデュオ。
 
-Temas de House, Tech House y Electroclash lanzados en 2001 en Forte Records, un sello fundado por Christian Morgenstern.
+Christian Morgensternが設立したレーベルForte Recordsから2001年にリリースされたHouse、Tech House、Electroclashトラック。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Crazy Girls
 
@@ -27,9 +27,9 @@ B1. Getting Bigger
 B2. Breakout
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGZlOXl_dck?si=_owhfTrpJdFwZgH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BlWR5PJiEXA?si=97COAgxmmjT1QhCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

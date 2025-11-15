@@ -8,23 +8,23 @@ layout: post
 tags:
 - Techno
 - 00s
-title: Spiros Kaloumenos - Rock It
+title: Spiros Kaloumenos – Rock It
 ---
 
 
-Un tema techno lanzado en MB Elektronics en 2006 por el DJ griego de techno Spiros Kaloumenos, que forma parte de la familia Marco Bailey activa en la escena minimal techno española y dirige Omega Audio Recordings con el DJ techno Axel Karakasis.
+スペインのミニマルテクノシーンで活躍するMarco Bailey（マルコ・ベイリー）ファミリーの一員でもあり、テクノDJ Axel Karakasisと共にOmega Audio Recordingsを運営するギリシャ出身のテクノDJ Spiros Kaloumenosが2006年にMB Elektronicsからリリースしたテクノトラック。
 
-Spiros Kaloumeno nació en El Pireo, Grecia, y a los 13 años se dio cuenta de que la música, especialmente la electrónica, era su prioridad en la vida.
+Spiros Kaloumenoは、ギリシャのピレウスで生まれ、13歳の時に音楽、特にエレクトロニックミュージックが自分にとって人生の最優先事項であると気づきました。
 
-Comenzó su carrera como productor de radio y su programa de radio creció hasta transmitirse en una de las estaciones de música dance más importantes de Atenas.
+ラジオプロデューサーとしてのキャリアをスタートさせて、ラジオ番組は、アテネ最大手のダンスミュージック専門局で放送されるまでになりました。
 
-Posteriormente, produjo un programa de televisión que presentaba música y videoclips de la escena techno, trabajó en una revista de música dance y actuó como DJ de techno en clubes de Atenas y festivales de danza en Grecia.
+その後、テクノシーンの音楽とビデオクリップを紹介するテレビ番組を制作し、ダンスミュージック雑誌にも携わると同時に、テクノDJとしてアテネのクラブやギリシャのダンスフェスティバルでプレイ。
 
-Como productor, comenzó a publicar música en Hydrophonic Recordings en el Reino Unido, y sus habilidades de producción fueron rápidamente reconocidas y se convirtió en miembro de la familia Marco Bailey, lanzando numerosos trabajos también en otros sellos.
+プロデューサーとしても、イギリスのHydrophonic Recordingsから楽曲リリースを開始し、そのプロダクションスキルはすぐに評価され、Marco Bailey ファミリーの一員となり、他のレーベルからも数多くの作品をリリース。
 
-En 2005, fundó su propio sello, Omega Audio Recordings, con su socio Axel Karakasis.
+2005年には、長年のパートナーである Axel Karakasis と共に自身のレーベル「Omega Audio Recordings」を設立しました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Rock It
 
@@ -34,7 +34,7 @@ B2. Synths Of Fire
 ```
 
 
-[Comprar en Mercari](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0WLXs_tMIc?si=F3lGnJB9e08V4mqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

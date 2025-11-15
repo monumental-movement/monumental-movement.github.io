@@ -9,19 +9,19 @@ tags:
 - JPop
 - 80s
 - Rock
-title: Barbee Boys – No voy a perder.
+title: Barbee Boys – 負けるもんか
 ---
 
 
-"Barbee Boys - Loser Monka" es una canción de la banda de rock japonesa Barbee Boys. "Yeru Monka" es una canción que presenta un estimulante riff de guitarra, voces poderosas, una melodía pegadiza y un sonido de rock poderoso y enérgico.
+「Barbee Boys - 負けるもんか」は、日本のロックバンドであるBarbee Boys（バービーボーイズ）による楽曲です。「負けるもんか」は、爽快なギターリフ、パワフルなボーカル、そしてキャッチーなメロディ、力強くエネルギッシュなロックサウンドが特徴の楽曲です。
 
-La letra trata sobre la fuerza para apegarse a las propias creencias y el coraje para afrontar las dificultades, y contiene un mensaje positivo.
+歌詞は、自分の信念を貫く強さや困難に立ち向かう勇気をテーマにしており、ポジティブなメッセージが込められています。
 
-Barbee Boys fue una banda activa en las décadas de 1980 y 1990 que ganó popularidad por su estilo musical y sus actuaciones únicos.
+Barbee Boysは、1980年代から1990年代にかけて活動したバンドで、その個性的な音楽スタイルとパフォーマンスで人気を博しました。
 
-Sus canciones tienen el poder de dar energía y coraje a los oyentes, y se han ganado el apoyo de los fans al transmitir mensajes positivos.
+彼らの楽曲は、リスナーにエネルギーと勇気を与える力を持っており、ポジティブなメッセージを伝えることでファンの支持を集めました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. 負けるもんか
 
@@ -30,7 +30,7 @@ B1. C'm'on Let's Go!
 B2. 翔んでみせろ(ライブ)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

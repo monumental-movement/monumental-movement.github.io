@@ -10,269 +10,269 @@ tags:
 - Rock
 - Italo
 - Vinyl
-title: '[Columna] DJ Harvey y la colección de discos: DJ como cuerpo que vive el "sonido"'
+title: 【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ
 ---
 
 
-## Prólogo: Los mitos de DJ Harvey
+## 序章：神話化されたDJ Harvey像
 
 
-Texto: mmr｜Tema: No sólo un DJ, sino una consideración del último "chamán" de la era analógica
+文：mmr｜テーマ：単なるDJではなく、アナログ時代の最後の「シャーマン」について考察
 
 
-DJ Harvey: Sólo escuchar ese nombre hace que las caras de muchos fanáticos del club se relajen.
-Cofundador del legendario club londinense **Tonka Sound System**, saltó a la fama en los años 90 como residente en **Ministry of Sound**, se mudó a **Ibiza** en los años 2000 y ahora reside en **Los Ángeles**.
+DJ Harvey――その名前を聞くだけで、多くのクラブ・フリークたちの顔が緩む。  
+ロンドンの伝説的クラブ**Tonka Sound System**の共同設立者であり、90年代に**Ministry of Sound**のレジデントとして名を馳せ、2000年代には**イビザ**、そして現在は**ロサンゼルス**を拠点に活動する。
 
-dice Harvey. "Los registros son fragmentos de mi alma. Cuando cae la aguja, Dios habita allí".
-Estas palabras nos dicen todo sobre su visión del DJ. En el siglo XXI, donde la digitalización ha progresado, todavía cree en "la música como sustancia". Esa fe es lo que hace de DJ Harvey una leyenda.
+Harveyは語る。「レコードは俺の魂の断片だ。針を落とすとき、そこには神が宿る」。  
+この言葉は、彼のDJ観のすべてを物語っている。デジタル化が進んだ21世紀において、彼はなお**“物質としての音楽”**を信じ続けている。その信仰こそが、DJ Harveyという存在を伝説たらしめている。
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
-## Capítulo 1: La era en la que los registros están "vivos"
+## 第1章：レコードが「生きている」時代
 
-Londres en los años 1980. Harvey se sumergió en la cultura callejera a través del skate y el punk. Sin embargo, finalmente empezó a frecuentar tiendas de discos y se obsesionó con el encanto de los sencillos de 12 pulgadas.
-En aquella época, los discos no eran sólo una fuente sonora, sino una cultura a la que se podía acceder. La textura de la chaqueta, el olor de las notas del forro, la profundidad del corte. Todo eso fue parte de la "experiencia musical".
+1980年代のロンドン。Harveyはスケートボードとパンクを通じてストリートカルチャーに没頭していた。だが、やがてレコード店に通い詰めるようになり、12インチシングルの魅力に取り憑かれていく。  
+当時、レコードは**単なる音源ではなく“触れられる文化”**だった。ジャケットの質感、ライナーノーツの匂い、カッティングの深さ。それらすべてが“音楽体験”の一部だった。
 
-El primer álbum que compró fue ""Pull Up to the Bumper'' de **Grace Jones**.
-En el momento en que su cuerpo se movió hacia esa línea de bajo, Harvey se dio cuenta de su destino como DJ.
+彼が初めて買った一枚は**Grace Jones『Pull Up to the Bumper』**。  
+そのベースラインに体が勝手に動いた瞬間、HarveyはDJとしての宿命を悟ったという。  
 
-> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo".
+> 「俺にとってレコードは呼吸と同じ。音を吸って、出す。それだけだ。」
 
-Esta sensación de "respiración" dio origen más tarde a su filosofía de mezcla: "Conectar a través del aire, no del tempo".
-
----
-
-## Capítulo 2: La esencia de la cultura de excavación de Harvey
-
-La colección de discos de DJ Harvey es más que una simple colección.
-Para él, un registro es "el acto de llevar un registro de la vida de otra persona".
-Deambulando por mercados y mercadillos, desenterrando discos polvorientos. No sólo hay sonidos sino también **rastros del tiempo** grabados allí.
-
-Harvey dice: "Cuanto más huellas humanas tiene un disco, más vivo es el sonido".
-Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 y AOR hawaiano.
-La selección de canciones no es aleatoria, sino que se basa en la intuición de leer el "flujo de aire del sonido".
-
-Su bolso de DJ es como un diario de viaje. Cada disco contiene recuerdos de alguna noche.
+この“呼吸”の感覚が、のちに彼のミックス哲学——**「テンポではなく空気で繋ぐ」**——を生み出す。
 
 ---
 
-## Capítulo 3: Londres - Ibiza - LA, una caja de discos en movimiento
+## 第2章：Harvey流ディグ文化の本質
 
-Los discos de Harvey siempre han estado en movimiento.
-Desde clubes underground en Londres hasta **Pikes Hotel** en Ibiza y eventos en almacenes en Los Ángeles.
-A medida que las ciudades cambian, también cambian los sonidos. Reconfigura el decorado para adaptarlo al estado de ánimo.
+DJ Harveyのレコード収集は、単なるコレクションではない。  
+彼にとってレコードとは、「他人の人生の記録を預かる行為」だ。  
+マーケットやフリーマーケットを徘徊し、埃をかぶったレコードを掘り起こす。そこには音だけでなく、**時間の痕跡**が刻まれている。
 
-Durante su estancia en Ibiza, Harvey redefinió la palabra 'balear'.
-No era un género, era un "sentimiento que derrite fronteras"**. Rock, house y funk se mezclan bajo el mismo sol.
-Esta libertad se convirtió en el estilo que más tarde se convertiría en el símbolo de Harvey's Set.
+Harveyは「**人の指紋のついた盤ほど、音が生きている**」と言う。  
+彼のセットには、知られざるイタロディスコ、70sロック、80sシンセ・ブギー、ハワイ産AORまでが混在する。  
+その選曲は無作為ではなく、**“音の気流”**を読む直感に基づいている。
 
-> ""En Ibiza, el peso de las cajas de discos resultaba cómodo.
-> Ese peso era la prueba de que la música existía en la realidad. "
-
----
-
-## Capítulo 4: Sensación de distancia entre el sonido y el cuerpo.
-
-La actuación de Harvey como DJ es más física que técnica.
-Coloque la aguja, gire el ecualizador, mueva el atenuador suavemente.
-La serie de movimientos es como una danza.
-
-Pone énfasis en "surcos en los que los humanos pueden moverse, en lugar de surcos calculados por computadoras".
-Por eso su juego es siempre **crudo**. Al mismo tiempo, esta es la misma raíz de su filosofía de coleccionismo de discos.
-Sonidos de distorsión, ruido y rayaduras en el disco. Acepta todo como **"físicalidad de la música"**.
-
-> "Las cicatrices del sonido son hermosas".
-
-Estas palabras están en el corazón de la estética de Harvey.
+彼のDJバッグはまるで旅の記録帳のようだ。どの盤も、どこかの夜の記憶を孕んでいる。
 
 ---
 
-## Capítulo 5: Ética analógica en la era digital
+## 第3章：ロンドン〜イビザ〜LA、移動するレコード箱
 
-Hoy en día, muchos DJ pueden viajar por el mundo con una sola memoria USB.
-Pero Harvey todavía sale de gira con una caja de discos.
-Para él, es un ritual para "reconectar con el sonido a través de las molestias".
+Harveyのレコードは常に移動してきた。  
+ロンドンのアンダーグラウンドクラブからイビザの**Pikes Hotel**、さらにはLAの倉庫イベントへ。  
+都市が変われば、音の響きも変わる。彼はその空気に合わせてセットを再構築する。
 
-Por otro lado, no niega lo digital.
-Su sello **"Locussolus"** combina grabación analógica y edición digital.
-En otras palabras, lo importante para él es la continuación del "toque físico", y el medio en el que reside es secundario.
+イビザ時代、Harveyは“Balearic”という言葉を再定義した。  
+それはジャンルではなく、**「境界を溶かす感覚」**だった。ロックもハウスもファンクも、同じ太陽の下で溶け合う。  
+その自由さが、のちのハーヴィーズ・セット（Harvey’s Set）を象徴するスタイルとなる。
 
-En un mundo abstraído digitalmente, sus discos siguen brillando como "discos táctiles".
-
----
-
-## Capítulo final: De la colección a la liberación - convivencia con la música
-
-DJ Harvey dijo recientemente en una entrevista:
-> "Ya no soy un 'coleccionista'. Sólo vivo con la música."
-
-En estas palabras, está la **libertad** que he alcanzado al final de mi carrera de DJ de más de 40 años.
-Coleccionar discos no era un acto de "poseer" la música, sino más bien una forma de vivir el tiempo juntos.
-
-Las paredes de su casa están revestidas de discos analógicos. Sin embargo, no son en absoluto archivos estáticos.
-Cada vez que Harvey deja caer la aguja, el tiempo en el tablero vuelve a la vida.
-En ese momento, las fronteras entre pasado y presente, analógico y digital, cuerpo y sonido desaparecen.
-
-**DJ Harvey y el coleccionismo de discos: ésta es la filosofía misma de "vivir con el sonido". **
+> 「イビザでは、レコード箱の重さが心地よかった。  
+>  その重さこそ、音楽が現実の中に存在する証拠だった。」
 
 ---
 
-## Cronología: Historia de DJ Harvey (1980-2025)
+## 第4章：サウンドと身体の距離感
 
-<div class="sirena">
+HarveyのDJは、技術的というより**身体的**である。  
+針を置く、EQをひねる、フェーダーをなめらかに動かす。  
+その一連の動作は、まるで舞踊のようだ。
 
-línea de tiempo
-título DJ Harvey Cronología (1980-2025)
-1980: Apasionado por la cultura skate y el punk en Londres
-1985: Forma Tonka Sound System y se une a la cultura rave.
-1990: Se convierte en DJ residente en Ministry of Sound.
-1995: Estableció un estilo único que combina house y rock.
-2000: Balear redefinido en el Hotel Pikes de Ibiza
-2005: Se mudó a Estados Unidos y comenzó sus actividades en Los Ángeles.
-2010: Comienza el Proyecto Locussolus, volviendo a la producción analógica.
-2017: aparición de la sala de calderas, auge de la reevaluación
-2020: Celebración de la exposición "DJ Harvey is the Sound" (Londres)
-2025: Continuar trabajando como embajador de la cultura analógica en todo el mundo.
+彼は「コンピュータが計算するグルーヴではなく、人間が“ずれる”グルーヴ」を重視する。  
+だからこそ、彼のプレイは常に**生々しい**。それは同時に、彼のレコード収集哲学と同根だ。  
+盤の歪み、ノイズ、スクラッチ音。すべてを**“音楽の身体性”**として受け入れる。
+
+> 「音の傷跡が、美しい。」
+
+この言葉には、Harveyの美学の核心がある。
+
+---
+
+## 第5章：デジタル時代のアナログ倫理
+
+今日、DJの多くはUSBメモリ1本で世界を旅できる。  
+だがHarveyはいまだにレコード箱を抱えてツアーに出る。  
+彼にとってそれは「**不便を通じて、音と再び対話する**」ための儀式である。
+
+一方で、彼はデジタルを否定しているわけではない。  
+彼のレーベル**“Locussolus”**では、アナログ録音とデジタル編集を融合させている。  
+つまり、彼にとって大切なのは**「物理的な手触り」**の持続であり、それがどの媒体に宿るかは二次的なのだ。
+
+デジタルが抽象化した世界において、彼のレコードは「触覚の記録」として輝き続ける。
+
+---
+
+## 終章：蒐集から解放へ――音楽との共生
+
+DJ Harveyは近年、インタビューでこう語っている。  
+> 「俺はもう“収集家”じゃない。ただ音楽と一緒に暮らしてるだけだ。」
+
+この言葉には、40年以上にわたるDJ人生の果てに辿り着いた**自由**がある。  
+レコードを集めること、それは音楽を“所有”する行為ではなく、**共に時間を生きる**ことだった。  
+
+彼の家には、壁一面にアナログ盤が並ぶ。しかし、それらは決して静止したアーカイブではない。  
+Harveyが針を落とすたび、盤の中の時間が再び息を吹き返す。  
+その瞬間、過去と現在、アナログとデジタル、身体と音の境界が消える。
+
+**DJ Harveyとレコード収集――それは「音と共に生きる」という哲学そのものなのである。**
+
+---
+
+## 年表：DJ Harveyの歩み（1980–2025）
+
+<div class="mermaid">
+
+timeline
+  title DJ Harvey 年表（1980–2025）
+  1980 : ロンドンでスケートカルチャーとパンクに熱中  
+  1985 : Tonka Sound System 結成、レイブ文化に参加  
+  1990 : Ministry of Sound のレジデントDJに就任  
+  1995 : ハウスとロックを融合した独自スタイルを確立  
+  2000 : イビザのPikes HotelでBalearic再定義  
+  2005 : アメリカ移住、LAを拠点に活動開始  
+  2010 : プロジェクトLocussolus始動、アナログ制作に回帰  
+  2017 : Boiler Room出演、再評価ブーム  
+  2020 : 「DJ Harvey is the Sound」展を開催（ロンドン）  
+  2025 : 世界各地でアナログ文化のアンバサダーとして活動継続
 
 
 </div>
 
 ---
 
-## Estructura cósmica sonora de DJ Harvey
+## DJ Harveyの音的宇宙構造
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo TD
-A["Recopilación de registros"]
-B["Selección"]
-C["Mezcla"]
-D["Atmósfera"]
-mi["Cuerpo"]
-F["Trascendencia"]
+flowchart TD
+    A["Record Collecting（収集）"]
+    B["Selection（選曲）"]
+    C["Mixing（混合）"]
+    D["Atmosphere（空気）"]
+    E["Body（身体）"]
+    F["Transcendence（超越）"]
 
-A --> B --> C --> D --> E --> F
+    A --> B --> C --> D --> E --> F
 
-subgrafo HarveyWorld["Filosofía sónica de DJ Harvey"]
-dirección tuberculosis
-A
-B
-do
-D
-mi
-F
-fin
+    subgraph HarveyWorld["DJ Harvey's Sonic Philosophy"]
+    direction TB
+    A
+    B
+    C
+    D
+    E
+    F
+    end
 
-
-
-</div>
-
----
-
-
-## Conclusión
-
-DJ Harvey reproduce los discos del pasado como sonidos del futuro.
-Entre estas técnicas se encuentra la magia de manipular el **dispositivo del tiempo** llamado música.
-Su existencia no es un resurgimiento de lo analógico en la era digital;
-**Esta es una redefinición de la "música viva" en sí misma**.
-
----
-
-## Caja de discos de DJ Harvey - Diagrama de composición de géneros
-
-<div class="sirena">
-
-título del pastel Composición de la caja de vinilo de DJ Harvey
-"Disco Balear/Cósmico" : 25
-"Rock y ritmos psicodélicos": 15
-"Ítalo/Euro Disco" : 10
-"Casa / Casa Profunda": 20
-"Funk/Boogie/Soul": 15
-"Ambiente/Downtempo": 10
-"Rarezas / Grabaciones de campo / Palabra hablada": 5
-
-</div>
-
-**Explicación**:
-La caja de discos de Harvey es un archivo orgánico basado en la mezcla de géneros.
-Lo que llama la atención es que "Rock" y "House" están colocados por igual.
-Esto simboliza el hecho de que es un DJ que siempre conecta por vibra, no por género.
-La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las horas nocturnas y en la configuración del amanecer.
-
----
-
-## Mapa de excavación de Harvey (mapa de excavación de registros)
-
-<div class="sirena">
-
-diagrama de flujo TD
-A["Inicio de excavación récord<br>(Destino/Mercado local)"]
-B["Búsqueda usada en tiendas de discos<br>(énfasis en el diálogo con los dueños de las tiendas)"]
-C["Vista previa y juicio de intuición de la chaqueta"]
-D["Seleccionado en función del "aire" del sonido<br>(sentimiento más que género)"]
-E["Comerciar con DJ local<br>(intercambiar los discos de cada uno)"]
-F["Reorganizado después de regresar a Japón<br>(clasificado por clima y zona horaria)"]
-G["Uso práctico con juego de palos<br>(Verificando la adaptación del "campo" de la placa")"]
-H["Archivar / Regrabar / Editar producción"]
-
-A --> B --> C --> D --> E --> F --> G --> H
 
 
 </div>
 
-**Explicación**:
-El comportamiento de excavación de Harvey es un proceso de viaje y encuentro.
-Siempre busca discos para absorber el "sabor local".
-Se dice que la temperatura, la humedad e incluso el color de la luz afectan el sentido de la selección de canciones.
-El disco que encontré en el desierto de Los Ángeles y el disco que encontré en Shimokitazawa, Tokio, son el mismo set.
-Ésa es la esencia de la filosofía balear de Harvey.
+---
+
+
+## 結語
+
+DJ Harveyは、過去のレコードを未来の音として鳴らす。
+その手つきのなかには、音楽という名の**時間装置**を操る魔術がある。
+彼の存在は、デジタル時代におけるアナログの復権ではなく、
+**「音楽を生きること」そのものの再定義**なのである。
 
 ---
 
-## Modelo de "circulación del sonido" en el entorno de juego de Harvey
+## DJ Harveyのレコード箱 ― ジャンル構成図
 
-<div class="sirena">
+<div class="mermaid">
 
-diagrama de flujo LR
-subgrafo Ecosistema de sonido
-A["Registro físico<br>(Vinilo)"]
-B["Tocadiscos y mezclador<br>(Técnicas / Rotatorio)"]
-C["Movimiento corporal<br>(Interacción en la pista de baile)"]
-D["Respuesta atmosférica<br>(Luz, Aire, Emoción)"]
-E["Bucle de retroalimentación<br>(Reciclaje de energía)"]
-fin
-
-A --> B --> C --> D --> E --> A
+pie title DJ Harvey's Vinyl Box Composition
+    "Balearic / Cosmic Disco" : 25
+    "Rock & Psychedelic Grooves" : 15
+    "Italo / Euro Disco" : 10
+    "House / Deep House" : 20
+    "Funk / Boogie / Soul" : 15
+    "Ambient / Downtempo" : 10
+    "Oddities / Field Recordings / Spoken Word" : 5
 
 </div>
 
-**Explicación**:
-La obra de DJ Harvey tiene una estructura circular: sonido → cuerpo → aire → emoción → sonido nuevamente.
-Para él, la cabina del DJ no es un escenario, sino un ecosistema.
-Este diagrama muestra visualmente cómo Harvey "mantiene vivo el sonido".
+**解説**：
+Harveyのレコード箱は、**ジャンルの混合を前提とした有機的アーカイブ**である。
+特筆すべきは、「Rock」と「House」が同等に並ぶ点。
+これは彼が常に“ジャンルではなくヴァイブスで繋ぐ”DJであることを象徴している。
+また「Oddities（珍盤）」枠はHarveyの秘密兵器。アフターアワーズや朝焼けセットで発動する。
 
 ---
 
-## Resumen
+## Harveyのディグ行動マップ（Record Digging Map）
 
-A través de estos, la filosofía de DJ de Harvey queda clara.
-Esto significa que no se trata sólo de tocar música, sino de un acto de sintonizar el tiempo, el cuerpo y el espacio.
-El cuadro de registro es su visión del mundo,
-Cada disco está vivo como un "fragmento de memoria y experiencia".
+<div class="mermaid">
+
+flowchart TD
+    A["Record Digging Start<br>（旅先・ローカルマーケット）"]
+    B["中古レコード店探索<br>（店主との対話重視）"]
+    C["試聴 & ジャケット直感判断"]
+    D["音の“空気”で選定<br>（ジャンルより感覚）"]
+    E["現地DJとのトレード<br>（互いの盤を交換）"]
+    F["帰国後、再整理<br>（気候・時間帯別に分類）"]
+    G["クラブセットで実戦投入<br>（盤の“場”適応を検証）"]
+    H["Archive化 / 再録音 / Edit制作"]
+
+    A --> B --> C --> D --> E --> F --> G --> H
+
+
+</div>
+
+**解説**：
+Harveyのディグ行動は、**旅と出会いのプロセス**である。
+彼は常に“地場の匂い”を吸収するようにレコードを探す。
+気温・湿度・光の色までも、選曲の感覚に影響を与えるという。
+LAの砂漠で拾った盤と、東京・下北沢で見つけた盤が、同じセットで交わる。
+それこそがHarveyの「バレアリック」哲学の真髄だ。
+
+---
+
+## Harveyのプレイ環境における“音の循環”モデル
+
+<div class="mermaid">
+
+flowchart LR
+    subgraph Sound Ecosystem
+    A["Physical Record<br>(Vinyl)"]
+    B["Turntable & Mixer<br>(Technics / Rotary)"]
+    C["Body Movement<br>(Dancefloor Interaction)"]
+    D["Atmospheric Response<br>(Light, Air, Emotion)"]
+    E["Feedback Loop<br>(Energy Recycle)"]
+    end
+
+    A --> B --> C --> D --> E --> A
+
+</div>
+
+**解説**：
+DJ Harveyのプレイは、**音→身体→空気→感情→再び音**という循環構造を持つ。
+彼にとってDJブースは舞台ではなく、**生態系（Ecosystem）**なのだ。
+この図は、Harveyがどのように“音を生かし続けているか”を視覚的に示している。
+
+---
+
+## 総括
+
+これらを通して見えてくるのは、HarveyのDJ哲学が
+単なる音楽再生ではなく「時間・身体・空間の調律行為」であるということだ。
+レコード箱は彼の世界観そのものであり、
+一枚一枚の盤が「記憶と経験の断片」として呼吸している。
 
 ---

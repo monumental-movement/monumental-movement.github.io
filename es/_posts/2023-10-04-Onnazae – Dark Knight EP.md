@@ -8,15 +8,15 @@ layout: post
 tags:
 - Downtempo
 - Triphop
-title: Onnazae – Caballero Oscuro EP
+title: Onnazae – Dark Knight EP
 ---
 
 
-"El Caballero Oscuro EP" es
-Este es un EP de Pete Prezzano, nombre real Pete Prezzano, lanzado con el sello "Subtitled Records".
+「Dark Knight EP」は、
+レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Dark Knight
 
@@ -25,5 +25,5 @@ B1. Take Easy
 B2. Take Easy (Edit)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
 

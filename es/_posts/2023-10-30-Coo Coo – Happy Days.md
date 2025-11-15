@@ -9,15 +9,15 @@ tags:
 - Italo
 - Hi NRG
 - Rare
-title: Coo Coo - Días felices
+title: Coo Coo – Happy Days
 ---
 
 
-Coo Coo es un grupo italo disco pop que representa la escena eurobeat de alta energía de los años 80 producido por Mauro Farina, Giuliano Crivelente y Florian Fadinger (F.C.F.).
+Coo Coo（クー・クー）は、Mauro Farina（マウロファリーナ）、Giuliano Crivellente（ジュリアーノクリヴェレンテ）、Florian Fadinger（フロリアンファディンガー）＝F.C.Fがプロデュースした1980年代ユーロビート・ハイエナジーシーンを代表するイタロディスコ・ポップグループ。
 
-"Happy Days" es la canción característica de Coo Coo, lanzada por Flea Records en 1989.
+「Happy Days（気まぐれハッピー・デイ）」は、1989年にFlea RecordsからリリースされたCoo Cooの代表曲。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Happy Days (Happy And Lovely Version)
 
@@ -28,7 +28,7 @@ B1. Happy Days (Fun Fun Version)
 B2. Happy Days (Playback Version)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m52217858429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52217858429?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MnRoyp_Rx64?si=o29uiFv2aay1yA8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

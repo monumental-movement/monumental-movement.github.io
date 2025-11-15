@@ -8,21 +8,21 @@ layout: post
 tags:
 - Trance
 - Anthem
-title: Proyecto DJ Escocés – O
+title: DJ Scot Project – O
 ---
 
 
-DJ Scot Project (Frank Zenker) es un DJ/productor alemán que ha tenido éxito en la escena del hard trance desde los años 90.
-"DJ Scot Project – O" es una de sus obras maestras y es conocida como un himno para los ravers de la década de 2000.
+DJ Scot Project（Frank Zenker）は、90年代からハードトランスシーンで成功を収めたドイツ人 DJ/プロデューサーです。
+「DJ Scot Project – O」は彼の代表作の一つで、00年代のレイヴァーにとってのアンセムとして知られています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. O
 
 B1. O (Arome Rmx)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m47285471992?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47285471992?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRAVoNoP-wo?si=BFWeXi3vWzA100pO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

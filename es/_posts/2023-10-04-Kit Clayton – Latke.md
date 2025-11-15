@@ -12,9 +12,9 @@ title: Kit Clayton – Latke
 ---
 
 
-"Latke" es un EP de Joshua Kit Clayton (nacido en San Francisco) lanzado en Orthlorng Musork en 2001.
+「Latke」は、2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）によるEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Impetigo
 
@@ -26,7 +26,7 @@ B1. Jit's Blues
 B2. I Only Want Quiet
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m25214098204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25214098204?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_Bh0zJQgwc?si=FFRtvKh92IizMrjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

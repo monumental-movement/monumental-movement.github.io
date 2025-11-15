@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Folk
-title: Frente – Forma
+title: Frente  – Shape
 ---
 
 
-Frente es un grupo australiano de folk-pop/indie pop formado en 1989. Los miembros originales eran Simon Austin, Angie Hart y Tim O'Connor.
+Frenteは、1989 年に結成されたオーストラリアのフォークポップ・インディー ポップグループ。オリジナルのメンバーは、サイモン・オースティン、アンジー・ハート、ティム・オコナー。 
 
-"Shape" es el segundo álbum de estudio de Frente, lanzado en 1996. El álbum fue grabado en España en 1995 y producido por Cameron McVeigh y Ted Nicely.
+「Shape 」は、1996年にリリースされたFrenteの 2 枚目のスタジオ アルバム。 このアルバムは1995年にスペインで録音され、キャメロン・マクベイとテッド・ナイスリーがプロデュースした。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Sit On My Hands
 
@@ -45,7 +45,7 @@ B5. What's Come Over Me
 B6. Calmly
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m67218117772?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67218117772?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NKVT3Mh6ddE?si=1rPo8ij_uklxe0kh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

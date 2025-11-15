@@ -10,15 +10,15 @@ tags:
 - Grunge
 - Rock
 - 90s
-title: Esponja – Piñata podrida
+title: Sponge – Rotting Piñata
 ---
 
 
-Sponge es una banda de rock estadounidense formada en Detroit, Michigan, en 1992.
+Sponge(スポンジ)は、1992年にミシガン州デトロイトで結成されたアメリカのロックバンド。
 
-"Rotting Piñata", lanzado en 1995, es el primer álbum de estudio y obra maestra de Sponge. Incluye las exitosas canciones "Plowed" y "Molly".
+1995年にリリースした「Rotting Piñata(ロッティングピニャータ)」は、Spongeのファーストスタジオアルバムであり代表作。ヒット曲「Plowed」、「Molly 」が収録されている。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Pennywheels
 2. Rotting Piñata
@@ -35,7 +35,7 @@ Sponge es una banda de rock estadounidense formada en Detroit, Michigan, en 1992
 12. Untitled
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

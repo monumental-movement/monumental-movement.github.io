@@ -10,17 +10,17 @@ tags:
 - Healing
 - Spiritual
 - 80s
-title: Steve Reid - Bosque de bambú
+title: Steve Reid – Bamboo Forest
 ---
 
 
-Steve Reid es un percusionista y productor de jazz estadounidense. Fue cofundador de The Rippingtons y miembro de Supertramp.
+Steve Reid （スティーヴンリード ）は、アメリカのジャズパーカッショニスト＆プロデューサー。The Rippingtons（ザ・リッピントンズ）の共同創設者であり、Supertramp（スーパートランプ）のメンバーとしても活躍した。
 
-""Bamboo Forest'', lanzado en 1994, fue su álbum debut en solitario, influenciado por el ritmo mundial, y durante este período fue seleccionado dos veces como percusionista del año por la revista Jazz.
+1994年にリリースされた「Bamboo Forest」は、ワールドビートの影響を受けて制作したソロデビューアルバムであり、この時期に米ジャズ誌Jazzizのパーカッショニスト・オブ・ザ・イヤーに２度選ばれた。
 
-Los miembros que participan en este álbum son Jeff Kashiwa, un saxofonista estadounidense activo en el mundo del jazz fusión, y el bajista Kim Stone, activo en The Rippingtons.
+このアルバムの参加メンバーは、US出身のジャズ・フュージョン界で活躍するサックス奏者Jeff Kashiwa（ジェフ・カシワ）、The Rippingtonsで活躍したベーシストKim Stone。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -34,7 +34,7 @@ Los miembros que participan en este álbum son Jeff Kashiwa, un saxofonista esta
 10. Balloon Safari
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

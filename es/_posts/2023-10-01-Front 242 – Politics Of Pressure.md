@@ -8,15 +8,15 @@ layout: post
 tags:
 - EBM
 - Noise
-title: Frente 242 – Política de presión
+title: Front 242 – Politics Of Pressure
 ---
 
 
-Front242 es un grupo de música electrónica formado en Bélgica.
+Front242(フロント242)は、ベルギーで結成された電子音楽グループです。
 
-Front242 fue pionero en un estilo de música electrónica llamado electronic body music (EBM), que combina elementos de música industrial, synth punk y música dance, y ha tenido una gran influencia en varios géneros como la música electrónica y la industrial.
+Front242はインダストリアルミュージック、シンセパンク、ダンスミュージックの要素を組み合わせたエレクトロニックミュージック、エレクトロニックボディミュージック(EBM)と呼ばれるスタイルを開拓し、エレクトロニックミュージックやインダストリアルなどさまざまなジャンルに大きな影響を与えました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Don't Crash
 A2. Funkahdafi
@@ -24,7 +24,7 @@ A2. Funkahdafi
 B. Commando (Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15772512003?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15772512003?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5bB8aGUB6LQ?si=IrLQl4IKqmpWdIn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

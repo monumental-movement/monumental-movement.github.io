@@ -10,13 +10,13 @@ tags:
 - Jpop
 - Neo-Classical
 - 00s
-title: Yoko Kanno hazaña. Maaya Sakamoto – 23:00 música
+title: Yoko Kanno feat. Maaya Sakamoto – 23時の音楽
 ---
 
 
-Mini banda sonora de la serie dramática de NHK "Midnight is another face" protagonizada por Asaka Seto y Koji Yoshikawa, de Yoko Kanno feat. Maaya Sakamoto.
+菅野よう子 feat. 坂本真綾による、瀬戸朝香&吉川晃司出演のNHK連続ドラマ「真夜中は別の顔」のミニサウンドトラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Two Things
 2. Here
@@ -34,7 +34,7 @@ Mini banda sonora de la serie dramática de NHK "Midnight is another face" prota
 14. ノエルのピアノ
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

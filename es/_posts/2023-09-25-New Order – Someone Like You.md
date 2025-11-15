@@ -8,22 +8,22 @@ layout: post
 tags:
 - House
 - Progressive
-title: 'Nuevo orden: alguien como tú'
+title: New Order – Someone Like You
 ---
 
 
-"Someone Like You" está incluida en el álbum de New Order de 2015, "Music Complete", y es una canción que combina elementos pop y electrónicos, destacando el sonido característico de sintetizadores y ritmos de baile de New Order.
+「Someone Like You」は、New Orderの2015年のアルバム『Music Complete』に収録されており、New Orderのシグネチャーサウンドであるシンセサイザーの使用やダンスビートが際立ち、ポップな要素とエレクトロニックな要素が融合した一曲となっています。
 
-El remix de Heavy Dub de James Holden y el remix de Funk D'Void de "New Order -Someone Like You" contienen elementos de groove y pop, y muchos los adoran, al igual que la canción original.
+「New Order - Someone Like You」のJames HoldenによるHeavy DubリミックスとFunk D'Voidによるリミックスは、そのグルーヴ感やポップな要素を含み、オリジナル曲同様多くの人々に愛されています。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Someone Like You (James Holden Heavy Dub)
 
 B. Someone Like You (Funk D'Void Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m12901620501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12901620501?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pDphOd0IdhE?si=DRDhEPqcXfTf98RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

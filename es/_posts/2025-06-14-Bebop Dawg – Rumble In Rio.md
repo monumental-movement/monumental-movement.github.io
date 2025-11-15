@@ -10,26 +10,26 @@ tags:
 - Future Jazz
 - Latin
 - 00s
-title: Bebop Dawg – Rumble en Río
+title: Bebop Dawg – Rumble In Rio
 ---
 
 
-Lasse Mosegard / Illinton, también conocido como Bebop Dawg, es un músico y productor afincado en Barcelona.
+Bebop Dawg(ビーボップダグ)ことLasse Mosegard / Illinton(イリントン)は、バルセロナを拠点に活動するミュージシャン・プロデューサー。
 
-También es miembro de Franke And Illinton, una unidad con Frank Madsen, una figura destacada en el mundo del goa-trance psicodélico progresivo de Dinamarca, conocido como Frank E, y Raoul Express, una unidad con el productor danés de EDM Mads Arp.
+Frank E名義で知られるデンマーク出身のプログレッシブサイケデリックゴアトランス界の重鎮Frank MadsenとのユニットFranke And Illinton、デンマークのEDMプロデューサーMads ArpとのユニットRaoul Expressのメンバーとしても活動している。
 
-Este disco es una futura pista de jazz/latino lanzada en 2002 por el sello underground Deep-House Missive (1999-2010) en París, Francia.
+このレコードは、フランス・パリのアンダーグラウンドDeep-HouseレーベルMissive(1999年〜2010年)から、2002年にリリースされたフューチャージャズ・ラテントラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Rumble In Rio
 
 B1. Um Dia Sobre La Praia
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrT7tRyS4Ic?si=zoHijMsjtWmsnxcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

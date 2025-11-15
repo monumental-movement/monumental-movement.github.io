@@ -8,15 +8,15 @@ layout: post
 tags:
 - Punk
 - Ska
-title: Pike's Peak – Por toda mi ciudad
+title: Pike's Peak – All Around My City
 ---
 
 
-"Por toda mi ciudad" es
-Este es un disco de Pike's Peak, una banda de punk ska de Hiroshima, lanzado en 1999.
+「All Around My City」は、
+1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
 
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Usual Life
 
@@ -31,7 +31,7 @@ B2. Someday
 B3. No Trouble
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QiVQ3LPdjKw?si=zKD9vWqs6EDx4_wa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

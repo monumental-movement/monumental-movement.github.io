@@ -11,17 +11,17 @@ tags:
 - Tribal
 - Ambient
 - 90s
-title: Deep Forest - Muestra de 2 canciones
+title: Deep Forest – 2 Song Sampler
 ---
 
 
-Deep Forest es un grupo francés formado por Eric Mouquet y Michel Sanchez.
+Deep Forest （ディープフォレスト）は、Eric Mouquet（エリック・ムケ） とMichel Sanchez（ミシェル・サンチェス）からなるフランスグループ。 
 
-Deep Forest ayudó a popularizar el llamado "pop global", que combina sonidos étnicos y música ambiental. La canción "Sweet Lullaby" incluida en este casete se convirtió en un éxito tan grande que el álbum vendió más de 2 millones de copias en los Estados Unidos.
+Deep Forestは、エスニックサウンドとアンビエントミュージックを組み合わせた、いわゆる「グローバルポップ」の普及に貢献した。 このカセットの収録曲「Sweet Lullaby」は、米国ではアルバムが 200 万枚以上販売されるほどの大ヒットに。 
 
-Deep Forest hizo una pausa después de lanzar la banda sonora de la película japonesa de 2004 "Kusa no Ran". Michel Sánchez dejó la banda en 2005 y comenzó su carrera en solitario. Eric Mouquet lanzó el álbum "Deep" en 2008 bajo el nombre de Deep Projects.
+Deep Forestは、2004年の日本映画『草の乱』のサウンドトラックを最後に活動を休止。Michel Sanchezは、2005年にバンドを脱退しソロ活動を開始。Eric Mouquetは、2008年にDeep Projects名義でアルバム「Deep」をリリース。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Noonday Sun
 A2. Sweet Lullaby
@@ -30,7 +30,7 @@ B1. Noonday Sun
 B2. Sweet Lullaby
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m46597784916?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46597784916?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/geOfhC5duw4?si=LC77klY9I6jj5OvO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

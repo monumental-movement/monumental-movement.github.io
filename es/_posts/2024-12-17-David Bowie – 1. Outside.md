@@ -10,13 +10,13 @@ tags:
 - Abstract
 - Drum n Bass
 - 90s
-title: David Bowie – 1. Afuera
+title: David Bowie – 1. Outside
 ---
 
 
-El decimoctavo álbum de David Bowie fue lanzado en 1995 con el productor Brian Eno. La canción número 20 es un bonus track exclusivo de la primera edición + edición japonesa.
+プロデューサーにBrian Enoをむかえ、1995年にリリースされたDavid Bowieの18枚目のアルバム。20曲目は初回盤＋日本盤限定のボーナストラック。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Leon Takes Us Outside
 2. Outside
@@ -40,7 +40,7 @@ El decimoctavo álbum de David Bowie fue lanzado en 1995 con el productor Brian 
 20. Get Real
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,20 +9,20 @@ tags:
 - Soul
 - Funk
 - 7inch
-title: Bobby Moore y The Rhythm Aces – Buscando mi amor
+title: Bobby Moore and The Rhythm Aces – Searching For My Love
 ---
 
 
-Bobby Moore y The Rhythm Aces Searching For My Love se estrenó en 1967.
+Bobby Moore and The Rhythm Aces（ボビー・ムーア&ザ・リズムエースズ）は、Searching For My Loveは、1967年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Searching For My Love
 
 B. I Won't Cry
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m32317600071?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32317600071?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rKJsW6DRgeY?si=S_JLwSDB0onxsedN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

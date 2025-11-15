@@ -10,20 +10,20 @@ tags:
 - JPop
 - Soul
 - 7inch
-title: Banda de afinación menor - Éxito en discoteca
+title: Minor Tuning Band - Hit in Disco
 ---
 
 
-El popular éxito disco de la banda de afinación menor en el '76 se lanzó en 1976.
+マイナー・チューニング・バンドによる歌謡ヒット・イン・ディスコ '76は、1976年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. マイナー・チューニング・バンド–ソウルこれっきりですか
 
 B. マリリン・モンロー・ハズバンド–ピーナッツ
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EyXdh_WZ9Y?si=UwO_3_2xlvLQ0a6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

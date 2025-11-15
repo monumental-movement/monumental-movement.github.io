@@ -9,15 +9,15 @@ tags:
 - Drum n Bass
 - Hiphop
 - 90s
-title: King Just – Tambor de guerreros
+title: King Just – Warriors Drum
 ---
 
 
-Drum n Bass/Hip Hop lanzado por Adrian Angevin (King Just) de Shaolin Soldiers en XL Recordings en 1995. El productor es RNS.
+Shaolin Soldiers のAdrian Angevin(King Just )が1995年にXL RecordingsからリリースしたDrum n Bass／Hip Hop。プロデューサーはRNS。
 
-A2 es un remix de DJ Jam. B es un remix de Foul Play y Rob Playford.
+A2はDJ Jamによるremix。Bは、Foul Play(ファール・プレイ) & Rob Playford(ロブ・プレイフォード)によるremix。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Warriors Drum (Original Mix)
 A2. Warriors Drum (Westside Remix)
@@ -25,7 +25,7 @@ A2. Warriors Drum (Westside Remix)
 B. Warriors Drum (Moving Shadow Remix)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m15405235359?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15405235359?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyYP_Q6z7jQ?si=HrE2D9y1DryU_TJ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

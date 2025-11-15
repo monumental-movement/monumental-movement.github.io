@@ -8,13 +8,13 @@ layout: post
 tags:
 - Pops
 - Rock
-title: Cássia Eller – Participación Especial
+title: Cássia Eller – Participaçāo Especial
 ---
 
 
-Una colección de duetos de Kasia Herrere y artistas famosos del MPB y del pop brasileño. Fue lanzado en 2002, tras su muerte.
+カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1. Cássia Eller Com Luiz Melodia–Juventude Transviada (Ao Vivo)
 2. Cássia Eller Com Djavan–Milagreiro
@@ -26,7 +26,7 @@ Una colección de duetos de Kasia Herrere y artistas famosos del MPB y del pop b
 など
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y71D3g9OzZQ?si=Q1Jj03IIrf9JZ9aO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

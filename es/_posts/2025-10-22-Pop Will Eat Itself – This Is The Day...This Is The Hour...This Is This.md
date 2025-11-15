@@ -12,14 +12,13 @@ tags:
 - Industrial
 - Indie Rock
 - 10s
-title: 'El pop se comerá a sí mismo: este es el día... Esta es la hora... ¡Esta es
-  esta!'
+title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!
 ---
 
 
-Pop Will Eat Itself es una banda británica de rock alternativo formada en 1986.
+Pop Will Eat Itselfは、1986年に結成されたイギリスのオルタナティブロックバンド。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 1-1. PWEI Is A Four Letter Word
 1-2. Preaching To The Perverted
@@ -51,7 +50,7 @@ Pop Will Eat Itself es una banda británica de rock alternativo formada en 1986.
 2-9. Wake Up! Time To Die... (Instrumental Demo)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

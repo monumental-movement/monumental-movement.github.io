@@ -9,20 +9,20 @@ tags:
 - Rock
 - Nostalgic
 - 7inch
-title: Águilas – Hotel California
+title: Eagles – Hotel California
 ---
 
 
-La canción principal del álbum de los Eagles "Hotel California". Letra y música de Don Felder y Don Henley.
+Eagles（イーグルス）のアルバム「ホテル・カリフォルニア」のタイトル曲。作詞・作曲は、Don Felder（ドン・フェルダー）、Don Henley（ドン・ヘンリー）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Hotel California = ホテル・カリフォルニア
 
 B. Pretty Maids All In A Row = お前を夢みて
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m73819642439?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73819642439?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09839DpTctU?si=-R98dW4VeM3UtPNH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,15 +8,15 @@ layout: post
 tags:
 - Techno
 - Hyper Techno
-title: Dave y el Dr. DOPE - Vuélvete loco
+title: Dave and Dr. DOPE – Get Wild
 ---
 
 
-Una mezcla de arreglos hiper-techno de "Get Wild" de TM NETWORK de los productores italianos Dave Rodgers y Dr. D.O.P.E.
+イタリアのプロデューサーDave Rodgers（デイヴロジャース）とDr. D.O.P.E.（ドクター・ドープ）によるTM NETWORK（TMネットワーク）の「Get Wild（ゲットワイルド）」のハイパーテクノ・アレンジミックス。
 
-Productores: Alberto Contini y Dave Rodgers.
+プロデューサーは、Alberto Contini（アルベルト・コンティニ）とDave Rodgers（デイヴロジャース）。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Get Wild (Extended Mix)
 
@@ -25,7 +25,7 @@ B1. Get Wild (DJ Version)
 B2. Get Wild (Instrumental)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1BDc8Cp9zi4?si=vfz25mLe7po7ns8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

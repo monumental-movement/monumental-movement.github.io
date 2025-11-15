@@ -11,17 +11,17 @@ title: Chester Beatty – Turia
 ---
 
 
-"Turia" es
-Este es un EP del proyecto Chester Beatty de Robert Armani, lanzado en 2001 en el sello británico Disq.
+「Turia」は、
+2001年にUKのレーベル「Disq」からリリースされたRobert Armani（ロバートアルマ二）のプロジェクトChester BeattyのEPです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A. Untitled
 
 B. Untitled
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m92597172261?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92597172261?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zmYeQFJpK6U?si=FiZJaXf_hQuOaWT7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

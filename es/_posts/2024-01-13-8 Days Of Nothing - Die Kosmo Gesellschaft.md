@@ -9,17 +9,17 @@ tags:
 - Noise
 - Rare
 - 10inch
-title: 8 días de nada - Die Kosmo Gesellschaft
+title: 8 Days Of Nothing - Die Kosmo Gesellschaft
 ---
 
 
-8 Days Of Nothing es una legendaria banda de punk sueca formada en 1997.
+8 Days Of Nothing(8デイズオブナッシング) は、1997年に結成されたスウェーデンの伝説的なパンクバンド。
 
-Die Kosmo Gesselschaft es una banda de post-hardcore/emo formada en Berlín, Alemania, en 1997.
+Die Kosmo Gesselschaft は、1997年にドイツのベルリンで結成されたポスト・ハードコア/エモ・バンド。
 
-Disco raro limitado a 600 copias.
+600枚限定のレアレコード。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Your Move
 
@@ -44,7 +44,7 @@ B4. Die Eine Reisebekanntschaft
 B5. Modifikationsbeispiele Fuer Das Projekt Mensch 1
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_IrMXcz6bQ?si=evPd_Bb6WNHDLuho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

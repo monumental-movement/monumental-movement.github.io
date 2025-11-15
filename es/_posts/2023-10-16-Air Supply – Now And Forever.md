@@ -8,15 +8,15 @@ layout: post
 tags:
 - Rock
 - Soft Rock
-title: 'Suministro de aire: ahora y siempre'
+title: Air Supply – Now And Forever
 ---
 
 
-El álbum de Air Supply "Now and Forever", lanzado en 1981, fue su álbum más exitoso.
+81年にリリースされたAir Supply（エア・サプライ）のアルバム「Now and Forever（ナウ・アンド・フォーエヴァー）」は、最もヒットした彼らの代表アルバム。
 
-En particular, sencillos como "Even the Nights Are Better (Goodbye Lonely Love)" y "Two Less Lonely People in the World" se convirtieron en éxitos en todo el mundo, incluso en Estados Unidos y Japón.
+特に「Even the Nights Are Better（さよならロンリー・ラブ）」と「Two Less Lonely People in the World」などのシングル曲は、アメリカ、日本をはじめ、世界的ヒットとなった。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Now And Forever
 
@@ -39,7 +39,7 @@ B4. She Never Heard Me Call
 B5. What Kind Of Girl
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk5cU2vkca0?si=Agp8c9ea6WICiYuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

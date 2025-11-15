@@ -8,13 +8,13 @@ layout: post
 tags:
 - Techno
 - Acid
-title: Cree en el poder de la frecuencia
+title: Believe In The Frequency Power
 ---
 
 
-"Believe In The Frequency Power" es un álbum recopilatorio lanzado por el sello británico "North South" en 1994.
+「Believe In The Frequency Power」は、1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
 
-#### Lista de canciones
+#### Tracklist
 ```md
 A1. Organization–Eternal
 
@@ -35,7 +35,7 @@ B4. Palomatic–Halo
 B5. Kiyoshi Hazemoto–Dawn Of Rainland
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23425148863?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CURYL9vRtMw?si=gaB6hOqWkSg5yz-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
