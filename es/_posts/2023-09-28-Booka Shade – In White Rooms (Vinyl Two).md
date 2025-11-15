@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Booka Shade – In White Rooms (Vinyl Two).webp
+lang: es
+layout: post
+tags:
+- House
+- Electro
+title: Booka Shade - En habitaciones blancas (vinilo dos)
+---
+
+
+"Booka Shade - In White Rooms (Vinyl Two)" es una canción del dúo electrónico alemán Booka Shade.
+
+Lanzada en 2005, esta canción fue una de las obras emblemáticas de Booka Shade y se convirtió en un gran éxito en su carrera.
+
+Una línea de bajo pesada, una melodía de sintetizador y un ritmo resonante se combinan para crear una canción de música house que incorpora elementos de la música electrónica, dándole una atmósfera oscura y misteriosa.
+
+#### Lista de canciones
+```md
+a. In White Rooms (Mexico Mix)
+
+b. In White Rooms (Shinedoe Fusion Remix)
+```
+
+[Comprar en Mercari](https://jp.mercari.com/item/m26356505023?afid=6142608987){: .button1}
+
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeRCiX0T_ws?si=JHSqf19FtgWTF_xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
