@@ -92,6 +92,8 @@
         <li><a href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/{% else %}{{ site.baseurl }}/{% endif %}">
     {% if page.lang == 'en' or page.url contains '/en/' %}
       Home
+    {% elsif page.lang == 'es' or page.url contains '/es/' %}
+      inicio
     {% else %}
       ホーム
     {% endif %}
@@ -99,6 +101,8 @@
         <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">
     {% if page.lang == 'en' or page.url contains '/en/' %}
       Mercari <span class="badge badge-primary">check</span>
+    {% elsif page.lang == 'es' or page.url contains '/es/' %}
+      Mercari <span class="badge badge-primary">controlar</span>
     {% else %}
       メルカリ <span class="badge badge-primary">チェック</span>
     {% endif %}
@@ -114,6 +118,8 @@
     <a href="{{ site.baseurl }}/categories#Column">
       {% if page.lang == 'en' or page.url contains '/en/' %}
         Column <span class="badge badge-primary">new</span>
+      {% elsif page.lang == 'es' or page.url contains '/es/' %}
+        Column <span class="badge badge-primary">nuevo</span>
       {% else %}
         コラム <span class="badge badge-primary">new</span>
       {% endif %}

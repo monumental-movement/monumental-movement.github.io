@@ -54,6 +54,10 @@ color: #fff;
 
 ### 1970年代ソウルとディスコのクリスマス
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9V17HCM_Js?si=cBBWpQgij-C994O-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 1976年のヴィンセント・モンタナ・ジュニア「Christmas Jollies」は、ディスコ・ソウルを取り入れた画期的なアルバムです。
 
 **特徴**
@@ -95,9 +99,17 @@ C --> D[世界的定番曲への橋渡し]
 
 ### ワム！「Last Christmas」
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E8gmARGvPlI?si=vtwPXUw9rpA7d7im" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 1984年リリースの「Last Christmas」は、シンセポップと切ない恋愛を融合。多くのカバー・リミックスで長期ヒット。
 
 ### 山下達郎「クリスマス・イブ」
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9lq6yLkOkE?si=rS8kNqxCRsf3xOJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 1983年リリース。都会的冬景色と恋愛を描くAOR／シティポップ。ラジオ・CMで定期再生され、日本の冬の定番曲に。
 
@@ -138,6 +150,10 @@ C --> D[世界的定番曲確立]
 ---
 
 ## 1990年代マライアキャリー時代の現代クリスマス
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXQViqx6GMY?si=K7qc-PMMc3xp8M8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 1994年、マライア・キャリー「All I Want For Christmas Is You」は世界的ヒット。
 
