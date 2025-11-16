@@ -117,21 +117,18 @@ Vaporwaveは消費社会を批評しつつ、同時にその快楽を受容す�
 
 <div class="mermaid">
 
-quadrantChart
-    title Vaporwave Sound Texture Map
-    x-axis  Lo-Fi --> Hi-Fi
-    y-axis  Slow --> Fast
-    quadrant-1  Lo-Fi × Fast
-    quadrant-2  Lo-Fi × Slow
-    quadrant-3  Hi-Fi × Slow
-    quadrant-4  Hi-Fi × Fast
+flowchart TB
 
-    point "Mallsoft" : [0.2,0.25]
-    point "Classic Vaporwave" : [0.3,0.4]
-    point "Eccojams" : [0.4,0.1]
-    point "Future Funk" : [0.8,0.85]
-    point "Hardvapour" : [0.9,0.9]
-    point "Utopian Virtual" : [0.75,0.3]
+    A1[Slow] --- A2[Fast]
+    B1[Lo-Fi] --- B2[Hi-Fi]
+
+
+    M["Mallsoft (0.2,0.25)"] -->|位置目安| P
+    C["Classic Vaporwave (0.3,0.4)"] --> P
+    E["Eccojams (0.4,0.1)"] --> P
+    F["Future Funk (0.8,0.85)"] --> P
+    H["Hardvapour (0.9,0.9)"] --> P
+    U["Utopian Virtual (0.75,0.3)"] --> P
 
 </div>
 
