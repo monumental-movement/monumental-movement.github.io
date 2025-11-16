@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DeLacy – Hideaway.webp
 lang: es
 layout: post
-permalink: /es/2024-05-20-DeLacy – Hideaway/
+permalink: /es/delacy-hideaway/
 tags:
 - House
 - Deep House
@@ -16,7 +16,7 @@ title: De'Lacy - Escondite
 
 De'Lacy es un grupo de música house estadounidense de los años 90. Los miembros son De'Lacy Davis, Gary Griffin, Glen Branch y Rainie Lassiter. "Hideaway" es la canción característica de De'Lacy.
 
-El remix del lado A es del artista iraní-estadounidense Ali Shirazinia (también conocido como Dubfire) y el dúo electro de Sharam, Deep Dish.
+El remix del lado A es del artista iraní-estadounidense Ali Shirazinia, también conocido como Dubfire, y el dúo electro de Sharam, Deep Dish.
 
 #### Lista de canciones
 ```md

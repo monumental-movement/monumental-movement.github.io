@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Furniture – I Can't Crack.webp
 lang: es
 layout: post
-permalink: /es/2023-09-09-Furniture – I Cant Crack/
+permalink: /es/furniture-i-cant-crack/
 tags:
 - New-Wave
 - Post Punk

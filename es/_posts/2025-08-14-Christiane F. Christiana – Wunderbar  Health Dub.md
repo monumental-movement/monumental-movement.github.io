@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Christiane F. Christiana – Wunderbar Health Dub.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Christiane F. Christiana – Wunderbar  Health Dub/
+permalink: /es/christiane-f-christiana-wunderbar-health-dub/
 tags:
 - Electro
 - Synth-pop

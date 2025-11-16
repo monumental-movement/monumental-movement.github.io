@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Christine 23 Onna – Shiny Crystal Planet.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Christine 23 Onna – Shiny Crystal Planet/
+permalink: /es/christine-23-onna-shiny-crystal-planet/
 tags:
 - Psychedelic
 - Noise

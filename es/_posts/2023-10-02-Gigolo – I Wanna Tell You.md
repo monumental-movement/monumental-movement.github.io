@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gigolo – I Wanna Tell You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Gigolo – I Wanna Tell You/
+permalink: /es/gigolo-i-wanna-tell-you/
 tags:
 - House
 title: Gigoló – Quiero decirte

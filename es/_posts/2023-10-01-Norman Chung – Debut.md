@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Norman Chung – Debut.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Norman Chung – Debut/
+permalink: /es/norman-chung-debut/
 tags:
 - Techno
 title: Norman Chung – Debut

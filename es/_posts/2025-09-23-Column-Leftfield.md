@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-leftfield.webp
 lang: es
 layout: post
-permalink: /es/2025-09-23-Column-Leftfield/
+permalink: /es/column-leftfield/
 tags:
 - Leftfield
 - Triphop

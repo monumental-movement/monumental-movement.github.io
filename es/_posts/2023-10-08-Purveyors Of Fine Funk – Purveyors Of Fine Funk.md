@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Purveyors Of Fine Funk – Purveyors Of Fine Funk.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Purveyors Of Fine Funk – Purveyors Of Fine Funk/
+permalink: /es/purveyors-of-fine-funk-purveyors-of-fine-funk/
 tags:
 - Techno
 - House

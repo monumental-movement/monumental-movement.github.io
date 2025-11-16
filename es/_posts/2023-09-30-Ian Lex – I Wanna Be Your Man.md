@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ian Lex – I Wanna Be Your Man.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Ian Lex – I Wanna Be Your Man/
+permalink: /es/ian-lex-i-wanna-be-your-man/
 tags:
 - Euro Beat
 - House

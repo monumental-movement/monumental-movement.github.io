@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pleasure and Pain – Higher.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Pleasure and Pain – Higher/
+permalink: /es/pleasure-and-pain-higher/
 tags:
 - Euro Beat
 - Hi NRG

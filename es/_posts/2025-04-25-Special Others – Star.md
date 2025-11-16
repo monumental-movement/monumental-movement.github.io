@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Special Others – Star.webp
 lang: es
 layout: post
-permalink: /es/2025-04-25-Special Others – Star/
+permalink: /es/special-others-star/
 tags:
 - Jazz
 - Rock
@@ -31,5 +31,5 @@ Este mini-álbum fue lanzado por Victor en 2007.
 
 [Comprar en Mercari](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

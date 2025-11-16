@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/White Light Circus – Marching Orders.webp
 lang: es
 layout: post
-permalink: /es/2024-04-15-White Light Circus – Marching Orders/
+permalink: /es/white-light-circus-marching-orders/
 tags:
 - Electro
 - Downtempo

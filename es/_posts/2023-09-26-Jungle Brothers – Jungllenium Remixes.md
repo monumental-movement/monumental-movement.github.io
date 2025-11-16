@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jungle Brothers – Jungllenium Remixes.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Jungle Brothers – Jungllenium Remixes/
+permalink: /es/jungle-brothers-jungllenium-remixes/
 tags:
 - Hiphop
 - Drum n Bass

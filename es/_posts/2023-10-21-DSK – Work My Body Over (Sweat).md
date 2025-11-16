@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DSK – Work My Body Over (Sweat).webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-DSK – Work My Body Over (Sweat)/
+permalink: /es/dsk-work-my-body-over-sweat/
 tags:
 - House
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come Again.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Human Movement Featuring Sophie Moleta – Love Has Come Again/
+permalink: /es/human-movement-featuring-sophie-moleta-love-has-come-again/
 tags:
 - House
 - Tech House

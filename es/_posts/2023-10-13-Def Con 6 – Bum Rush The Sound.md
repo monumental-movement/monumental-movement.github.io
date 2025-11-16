@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Def Con 6 – Bum Rush The Sound.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Def Con 6 – Bum Rush The Sound/
+permalink: /es/def-con-6-bum-rush-the-sound/
 tags:
 - Break Beat
 - Acid

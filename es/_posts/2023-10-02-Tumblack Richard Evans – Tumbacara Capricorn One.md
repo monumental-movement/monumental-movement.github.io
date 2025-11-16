@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tumblack Richard Evans – Tumbacara Capricorn One.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Tumblack Richard Evans – Tumbacara Capricorn One/
+permalink: /es/tumblack-richard-evans-tumbacara-capricorn-one/
 tags:
 - House
 - Disco

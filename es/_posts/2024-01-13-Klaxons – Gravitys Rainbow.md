@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Klaxons – Gravity's Rainbow.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Klaxons – Gravitys Rainbow/
+permalink: /es/klaxons-gravitys-rainbow/
 tags:
 - Electro
 - Pops

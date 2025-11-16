@@ -6,8 +6,7 @@ image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilbert
   Turrentine.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Gilberto With Turrentine Arranged By Deodato – Gilberto
-  With Turrentine/
+permalink: /es/gilberto-with-turrentine-arranged-by-deodato-gilberto-with-turrentine/
 tags:
 - Bossa Nova
 - Jazz
@@ -54,4 +53,4 @@ Bonus Tracks
 [Comprar en Mercari](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

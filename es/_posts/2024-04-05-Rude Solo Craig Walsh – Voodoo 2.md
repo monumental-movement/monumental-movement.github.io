@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rude Solo Craig Walsh – Voodoo 2.webp
 lang: es
 layout: post
-permalink: /es/2024-04-05-Rude Solo Craig Walsh – Voodoo 2/
+permalink: /es/rude-solo-craig-walsh-voodoo-2/
 tags:
 - Techno
 - Electro

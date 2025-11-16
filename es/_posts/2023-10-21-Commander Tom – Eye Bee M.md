@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Commander Tom – Eye Bee M.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Commander Tom – Eye Bee M/
+permalink: /es/commander-tom-eye-bee-m/
 tags:
 - Techno
 - German Techno

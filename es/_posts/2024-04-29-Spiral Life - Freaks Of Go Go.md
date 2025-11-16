@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spiral Life - Freaks Of Go Go.webp
 lang: es
 layout: post
-permalink: /es/2024-04-29-Spiral Life - Freaks Of Go Go/
+permalink: /es/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Green Velvet – Portamento Tracks.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Green Velvet – Portamento Tracks/
+permalink: /es/green-velvet-portamento-tracks/
 tags:
 - House
 - Techno

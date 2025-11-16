@@ -6,8 +6,7 @@ image: ../assets/images/Sir Piers Feat. Monique Bingham – Don't You Love Me Th
   Part 2.webp
 lang: es
 layout: post
-permalink: /es/2024-01-11-Sir Piers Feat. Monique Bingham – Don't You Love Me The
-  Remixes Part 2/
+permalink: /es/sir-piers-feat-monique-bingham-don-t-you-love-me-the-remixes-part-2/
 tags:
 - House
 - Garage House

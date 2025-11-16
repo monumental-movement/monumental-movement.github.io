@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cassia Eller – Participacao Especial.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Cassia Eller – Participacao Especial/
+permalink: /es/cassia-eller-participacao-especial/
 tags:
 - Pops
 - Rock

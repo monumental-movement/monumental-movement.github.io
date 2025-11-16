@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Inkfish – Acting Out.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Inkfish – Acting Out/
+permalink: /es/inkfish-acting-out/
 tags:
 - Techno
 - Swedish Techno

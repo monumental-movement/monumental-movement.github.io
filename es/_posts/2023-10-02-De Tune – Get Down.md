@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/De Tune – Get Down.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-De Tune – Get Down/
+permalink: /es/de-tune-get-down/
 tags:
 - House
 title: De Tune – Abajo

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robert Johnson – The Legendary Blues Singer.webp
 lang: es
 layout: post
-permalink: /es/2024-12-07-Robert Johnson – The Legendary Blues Singer/
+permalink: /es/robert-johnson-the-legendary-blues-singer/
 tags:
 - Blues
 title: Robert Johnson – El legendario cantante de blues

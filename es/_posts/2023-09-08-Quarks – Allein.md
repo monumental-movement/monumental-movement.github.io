@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/quarks-allein.webp
 lang: es
 layout: post
-permalink: /es/2023-09-08-Quarks – Allein/
+permalink: /es/quarks-allein/
 tags:
 - Electro
 - Tech House

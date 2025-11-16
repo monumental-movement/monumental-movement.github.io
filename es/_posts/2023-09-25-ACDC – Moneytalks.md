@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/ACDC – Moneytalks.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-ACDC – Moneytalks/
+permalink: /es/acdc-moneytalks/
 tags:
 - Rock
 - Hard Rock

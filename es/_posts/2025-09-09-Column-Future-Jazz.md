@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-future-jazz.webp
 lang: es
 layout: post
-permalink: /es/2025-09-09-Column-Future-Jazz/
+permalink: /es/column-future-jazz/
 tags:
 - Future Jazz
 - Jazz

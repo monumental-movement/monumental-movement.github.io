@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Eagles – Hotel California.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Eagles – Hotel California/
+permalink: /es/eagles-hotel-california/
 tags:
 - Rock
 - Nostalgic

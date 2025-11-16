@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-happy-hardcore.webp
 lang: es
 layout: post
-permalink: /es/2025-08-30-Column-Happy-Hardcore/
+permalink: /es/column-happy-hardcore/
 tags:
 - Happy Hardcore
 - 90s
@@ -73,7 +73,7 @@ La "distribución de música derivada" y la "cultura del CD doujin" apoyaron de 
 
 ### Palabras clave culturales
 
-- **Kawaii**: la "cultura linda" japonesa se refleja en la rápida melodía pop.
+- **Kawaii**: la "cultura kawaii" japonesa se refleja en la rápida melodía pop.
 
 - **Cultura Otaku**: Directamente conectada con el anime, los doujinshi y la cultura del club Akihabara.
 

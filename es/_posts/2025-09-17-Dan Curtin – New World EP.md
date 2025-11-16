@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dan Curtin – New World EP.webp
 lang: es
 layout: post
-permalink: /es/2025-09-17-Dan Curtin – New World EP/
+permalink: /es/dan-curtin-new-world-ep/
 tags:
 - Techno
 - House

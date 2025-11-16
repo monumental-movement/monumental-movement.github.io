@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bazz-Dee and Waldhaus Weichentechnikk – Brachial 2004 04.webp
 lang: es
 layout: post
-permalink: /es/2024-05-27-Bazz-Dee and Waldhaus  Weichentechnikk – Brachial 200404/
+permalink: /es/bazz-dee-and-waldhaus-weichentechnikk-brachial-200404/
 tags:
 - Techno
 - German Techno

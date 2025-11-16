@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Roger Sanchez – Another Chance.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Roger Sanchez – Another Chance/
+permalink: /es/roger-sanchez-another-chance/
 tags:
 - House
 - Downtempo

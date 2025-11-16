@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Track Star -Sometimes, What's The Difference.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Track Star -Sometimes, Whats The Difference/
+permalink: /es/track-star-sometimes-whats-the-difference/
 tags:
 - Rock
 - Noise

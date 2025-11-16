@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Luke Slater – All Exhale.webp
 lang: es
 layout: post
-permalink: /es/2025-07-12-Luke Slater – All Exhale/
+permalink: /es/luke-slater-all-exhale/
 tags:
 - Breaks
 - Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-hiphop-history.webp
 lang: es
 layout: post
-permalink: /es/2025-09-15-Column-Hiphop-History/
+permalink: /es/column-hiphop-history/
 tags:
 - Hiphop
 - 90s
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010-presente: era del streaming y globalización
+## Década de 2010 al presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
@@ -243,7 +243,7 @@ gráfico TD
 A[DJ Kool Herc] --> B[Grandmaster Flash]
 A --> C[Afrika Bambaataa]
 B --> D[Ejecutar-D.M.C.]
-C --> E[Enemigo Público]
+C --> E[Enemigo público]
 D --> F[N.W.A]
 F --> G[Dr. Dre]
 G --> H[Snoop Dogg]

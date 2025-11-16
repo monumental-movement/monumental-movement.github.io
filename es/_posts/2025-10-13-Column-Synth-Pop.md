@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-synth-pop.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-Column-Synth-Pop/
+permalink: /es/column-synth-pop/
 tags:
 - Synth-Pop
 - History
@@ -126,7 +126,7 @@ El synth pop japonés ha madurado como una "traducción" más que como una mera 
 
 El impacto de YMO se extendió a través del océano y llegó a muchos artistas.
 Daft Punk elogió el diseño de sonido de Ryuichi Sakamoto en entrevistas, y su sentido de la melodía está claramente influenciado por el minimalismo japonés.
-"Kid A" de Radiohead es un desarrollo introspectivo de la idea de YMO de "representar emociones con sonidos electrónicos".
+``Kid A'' de Radiohead es un trabajo que desarrolla aún más de manera introspectiva la idea de ``representar emociones con sonidos electrónicos'' presentada por YMO.
 "Todo en su lugar" es frío y hermoso, como si los fantasmas de "BGM" y "Technodelic" hubieran vuelto a la vida.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -191,9 +191,9 @@ A medida que avanza la composición de IA, la "artificialidad humana" del synthp
 
 Synthpop es a la vez el "sonido del futuro" y el "sonido de la nostalgia por el pasado".
 ¿Por qué nos conmueven tanto los fríos sonidos electrónicos de los años 80? Esto se debe a que contienen la "temperatura de una época en la que la gente creía en el futuro".
-Incluso ahora, a medida que avanza la tecnología digital y la IA comienza a componer música, los humanos continúan buscando su "yo" en los sonidos de las máquinas.
+Incluso ahora, a medida que la tecnología digital ha evolucionado y la IA ha comenzado a componer música, los humanos continúan buscando su "yo" dentro de los sonidos de las máquinas.
 
-La "relación entre tecnología y emoción", que Ryuichi Sakamoto siguió preguntando hasta el final, vuelve a ser un tema de primera línea.
+La "relación entre tecnología y emoción" que Ryuichi Sakamoto siguió preguntando hasta el final vuelve a ser un tema de primera línea.
 Y en algún lugar de ese linaje se encuentra la sonrisa electrónica de YMO, los polirritmos de Perfume y las lágrimas pixeladas de Charli XCX.
 
 El futuro siempre suena en sueños electrónicos.
@@ -207,7 +207,7 @@ diagrama de flujo TD
 A1970["1970: Se forma Kraftwerk en Düsseldorf<br>Establece el prototipo de la música electrónica"]
 A1977["1977: "I Feel Love" de Donna Summer<br>Los ritmos completamente electrónicos llegan a la música pop"]
 A1978["1978: YMO formó "Yellow Magic Orchestra"<br>Nacimiento del techno pop japonés"]
-A1979["1979: Gary Numan's Cars"<br>El sonido de sintetizador se generaliza"]
+A1979["1979: "Cars"<br>El sonido de sintetizador de Gary Numan se vuelve popular"]
 A1981["1981: debut de Depeche Mode<br>Convertirse en un símbolo de la cultura juvenil"]
 A1983["1983: Nuevo Orden『Lunes Azul』<br>Revolución única de 12 pulgadas"]
 A1985["1985: Pet Shop Boys "West End Girls"<br>Edad de oro del Synth Pop del Reino Unido"]
@@ -217,7 +217,7 @@ A2003["2003: Cornelius' Point"<br>Presentación de "pop sintético ambiental"]
 A2008["2008: Perfume 『GAME』<br>Millones de éxitos en Japón, repartidos por todo el mundo"]
 A2012["2012: Grimes' Visions"<br>En la era del synth pop DIY"]
 A2016["2016: Charli XCX "Vroom Vroom EP"<br>El comienzo del hiper pop"]
-A2020["2020: Yaeji "What We Drew"<br>El ascenso de la generación de neo-sintetizadores de Asia"]
+A2020["2020: Yaeji "What We Drew"<br>El surgimiento de la generación de neo-sintetizadores de Asia"]
 A2023["2023: Caroline Polachek『Deseo, quiero convertirme en ti』<br>Hacia el extremo norte de la madurez"]
 
 A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023

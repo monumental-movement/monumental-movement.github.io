@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Groove Twins – Action.webp
 lang: es
 layout: post
-permalink: /es/2025-05-01-Groove Twins – Action/
+permalink: /es/groove-twins-action/
 tags:
 - Electronic
 - Eurobeat

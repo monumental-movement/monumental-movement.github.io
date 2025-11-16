@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spacetime Continuum – Emit Ecaps.webp
 lang: es
 layout: post
-permalink: /es/2024-06-11-Spacetime Continuum – Emit Ecaps/
+permalink: /es/spacetime-continuum-emit-ecaps/
 tags:
 - Techno
 - Ambient
@@ -16,7 +16,7 @@ title: Continuo espacio-temporal – Emitir Ecaps
 ---
 
 
-Un LP doble lanzado en 1996 por Jonah Sharp, también conocido como Spacetime Continuum, un incondicional de la escena underground techno/ambient/electrónica de los años 90, en su propio sello, reflexivo Records.
+Un LP doble lanzado en 1996 por Jonah Sharp, también conocido como Spacetime Continuum, un incondicional de la escena underground techno/ambient/electrónica de los años 90, en su propio sello reflexivo Records.
 
 #### Lista de canciones
 ```md

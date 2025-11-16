@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/PYT – Same Ol Same Ol.webp
 lang: es
 layout: post
-permalink: /es/2025-05-20-PYT – Same Ol Same Ol/
+permalink: /es/pyt-same-ol-same-ol/
 tags:
 - Funk
 - Soul

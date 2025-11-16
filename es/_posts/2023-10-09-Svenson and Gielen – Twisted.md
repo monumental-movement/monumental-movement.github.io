@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Svenson & Gielen – Twisted.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Svenson and Gielen – Twisted/
+permalink: /es/svenson-and-gielen-twisted/
 tags:
 - Trance
 - Hard Trance
@@ -13,7 +13,7 @@ title: Svenson & Gielen – Retorcido
 ---
 
 
-"Retorcido" es
+“Retorcido” es
 Este es un EP de Svenson & Gielen, una unidad de Svenson y Johan Gielen, lanzado en 2002 en el sello alemán "Dos Or Die Recordings".
 
 #### Lista de canciones

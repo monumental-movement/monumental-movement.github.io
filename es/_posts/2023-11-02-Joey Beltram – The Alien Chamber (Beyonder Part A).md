@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joey Beltram – The Alien Chamber (Beyonder Part A).webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Joey Beltram – The Alien Chamber (Beyonder Part A)/
+permalink: /es/joey-beltram-the-alien-chamber-beyonder-part-a/
 rating: 3.5
 tags:
 - Techno

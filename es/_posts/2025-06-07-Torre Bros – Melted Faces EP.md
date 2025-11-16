@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Torre Bros – Melted Faces EP.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-Torre Bros – Melted Faces EP/
+permalink: /es/torre-bros-melted-faces-ep/
 tags:
 - Electronic
 - House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Francisco Feat. Adam Bourke – Esplanade 97.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Francisco Feat. Adam Bourke – Esplanade 97/
+permalink: /es/francisco-feat-adam-bourke-esplanade-97/
 tags:
 - Techno
 - Electro

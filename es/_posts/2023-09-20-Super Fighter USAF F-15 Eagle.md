@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Super Fighter USAF F-15 Eagle.webp
 lang: es
 layout: post
-permalink: /es/2023-09-20-Super Fighter USAF F-15 Eagle/
+permalink: /es/super-fighter-usaf-f-15-eagle/
 tags:
 - Ambient
 title: Súper caza USAF F-15 Eagle

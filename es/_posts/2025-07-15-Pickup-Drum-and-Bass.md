@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-drum-and-bass.webp
 lang: es
 layout: post
-permalink: /es/2025-07-15-Pickup-Drum-and-Bass/
+permalink: /es/pickup-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle
@@ -83,7 +83,7 @@ AA. Fluid
 ### Motiv One – Cosmik / Progresión de bucle
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Contiene sonidos ligeros, jazzísticos y futuristas con una pausa principal.
+Contiene un sonido ligero, jazzístico y futurista centrado en pausas de amén.
 
 #### Lista de canciones
 ```md

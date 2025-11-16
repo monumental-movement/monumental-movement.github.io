@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Air Frog – Bon Voyage.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Air Frog – Bon Voyage/
+permalink: /es/air-frog-bon-voyage/
 tags:
 - Techno
 title: Rana de aire - Buen viaje

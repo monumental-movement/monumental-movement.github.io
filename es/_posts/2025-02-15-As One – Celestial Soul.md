@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/As One – Celestial Soul.webp
 lang: es
 layout: post
-permalink: /es/2025-02-15-As One – Celestial Soul/
+permalink: /es/as-one-celestial-soul/
 tags:
 - IDM
 - Techno

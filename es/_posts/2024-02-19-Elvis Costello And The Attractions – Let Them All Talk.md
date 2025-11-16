@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elvis Costello And The Attractions – Let Them All Talk.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Elvis Costello And The Attractions – Let Them All Talk/
+permalink: /es/elvis-costello-and-the-attractions-let-them-all-talk/
 tags:
 - New-Wave
 - Rock

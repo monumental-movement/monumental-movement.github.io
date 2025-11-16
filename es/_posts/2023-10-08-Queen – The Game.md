@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Queen – The Game.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Queen – The Game/
+permalink: /es/queen-the-game/
 tags:
 - Rock
 - Pops

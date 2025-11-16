@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Exterminator Presents Turn On The Heat.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Various – Exterminator Presents Turn On The Heat/
+permalink: /es/various-exterminator-presents-turn-on-the-heat/
 tags:
 - Reggae
 - Dancehall

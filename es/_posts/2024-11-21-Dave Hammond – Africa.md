@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dave Hammond – Africa.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Dave Hammond – Africa/
+permalink: /es/dave-hammond-africa/
 tags:
 - Eurobeat
 - Euro

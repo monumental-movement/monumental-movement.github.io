@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mike Dearborn – No Communication.webp
 lang: es
 layout: post
-permalink: /es/2024-07-02-Mike Dearborn – No Communication/
+permalink: /es/mike-dearborn-no-communication/
 tags:
 - Techno
 - Tech House

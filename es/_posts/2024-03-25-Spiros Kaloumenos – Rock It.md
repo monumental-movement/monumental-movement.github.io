@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spiros Kaloumenos – Rock It.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Spiros Kaloumenos – Rock It/
+permalink: /es/spiros-kaloumenos-rock-it/
 tags:
 - Techno
 - 00s

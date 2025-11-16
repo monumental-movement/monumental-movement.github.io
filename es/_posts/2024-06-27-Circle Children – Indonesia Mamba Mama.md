@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Circle Children – Indonesia Mamba Mama.webp
 lang: es
 layout: post
-permalink: /es/2024-06-27-Circle Children – Indonesia Mamba Mama/
+permalink: /es/circle-children-indonesia-mamba-mama/
 tags:
 - House
 - Tribal House

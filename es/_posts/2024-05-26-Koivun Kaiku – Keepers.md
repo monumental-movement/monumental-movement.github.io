@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Koivun Kaiku – Keepers.webp
 lang: es
 layout: post
-permalink: /es/2024-05-26-Koivun Kaiku – Keepers/
+permalink: /es/koivun-kaiku-keepers/
 tags:
 - Tribal
 - Finland

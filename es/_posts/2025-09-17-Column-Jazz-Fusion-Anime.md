@@ -5,13 +5,13 @@ categories:
 image: ../assets/images/column-jazz-fusion-anime.webp
 lang: es
 layout: post
-permalink: /es/2025-09-17-Column-Jazz-Fusion-Anime/
+permalink: /es/column-jazz-fusion-anime/
 tags:
 - Jazz
 - fusion
 - Anime
-title: '[Columna] La afinidad entre el anime y el jazz/fusión: una historia de noches
-  y música de ciudad'
+title: '[Columna] Afinidad entre anime y jazz/fusión: Una historia de noches y música
+  de ciudad'
 ---
 
 

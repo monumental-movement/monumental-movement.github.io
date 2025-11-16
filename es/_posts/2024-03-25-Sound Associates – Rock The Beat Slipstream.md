@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sound Associates – Rock The Beat Slipstream.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Sound Associates – Rock The Beat Slipstream/
+permalink: /es/sound-associates-rock-the-beat-slipstream/
 tags:
 - Techno
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fumiya Tanaka – Player EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Fumiya Tanaka – Player EP/
+permalink: /es/fumiya-tanaka-player-ep/
 tags:
 - Techno
 - Tribal

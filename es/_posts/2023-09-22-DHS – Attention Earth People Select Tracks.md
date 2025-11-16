@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DHS – Attention Earth People Select Tracks.webp
 lang: es
 layout: post
-permalink: /es/2023-09-22-DHS – Attention Earth People Select Tracks/
+permalink: /es/dhs-attention-earth-people-select-tracks/
 tags:
 - Break Beat
 - Minimal

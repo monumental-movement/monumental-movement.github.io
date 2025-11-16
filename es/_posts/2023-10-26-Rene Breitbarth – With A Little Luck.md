@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rene Breitbarth – With A Little Luck.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Rene Breitbarth – With A Little Luck/
+permalink: /es/rene-breitbarth-with-a-little-luck/
 tags:
 - House
 - Minimal

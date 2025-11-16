@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dollar Brand – Ancient Africa.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Dollar Brand – Ancient Africa/
+permalink: /es/dollar-brand-ancient-africa/
 tags:
 - Jazz
 - African

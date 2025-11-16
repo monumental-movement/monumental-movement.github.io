@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DK7 – Where's The Fun.webp
 lang: es
 layout: post
-permalink: /es/2023-09-19-DK7 – Wheres The Fun/
+permalink: /es/dk7-wheres-the-fun/
 tags:
 - House
 - Acid
@@ -14,7 +14,7 @@ title: DK7 – ¿Dónde está la diversión?
 ---
 
 
-La colaboración de Mark O'Sullivan y Jesper Dahlbach es una delicada pista electro-house con influencias del New Romantic.
+La colaboración de Mark O'Sullivan y Jesper Dahlbach es un delicado tema electro-house con influencias del New Romantic.
 
 También tiene aspectos electro y techno y, al igual que el anterior modelo de 12 pulgadas del DK7, ofrece mucha variedad.
 

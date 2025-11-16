@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cactus World News – Urban Beaches.webp
 lang: es
 layout: post
-permalink: /es/2024-05-18-Cactus World News – Urban Beaches/
+permalink: /es/cactus-world-news-urban-beaches/
 tags:
 - Rock
 - Alternative Rock
@@ -38,4 +38,4 @@ B5. Maybe This Time
 [Comprar en Mercari](https://jp.mercari.com/item/m56242240661?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0xbe2WnzokY?si=SaFVFFl21j_INMNk" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0xbe2WnzokY?si=SaFVFFl21j_INMNk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joris Voorn – Dusty House Room 2.webp
 lang: es
 layout: post
-permalink: /es/2025-07-04-Joris Voorn – Dusty House Room 2/
+permalink: /es/joris-voorn-dusty-house-room-2/
 tags:
 - Tech House
 - 00s

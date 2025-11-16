@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arome - Here We Go.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Arome - Here We Go/
+permalink: /es/arome-here-we-go/
 tags:
 - Hard Trance
 - Trance

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ann Nesby and Al Green – Put It On Paper.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Ann Nesby and Al Green – Put It On Paper/
+permalink: /es/ann-nesby-and-al-green-put-it-on-paper/
 tags:
 - House
 - Garage House

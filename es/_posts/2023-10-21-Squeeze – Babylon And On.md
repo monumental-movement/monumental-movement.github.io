@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Squeeze – Babylon And On-r.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Squeeze – Babylon And On/
+permalink: /es/squeeze-babylon-and-on/
 tags:
 - New-Wave
 - Pops

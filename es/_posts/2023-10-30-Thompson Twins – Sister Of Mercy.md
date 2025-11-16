@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Thompson Twins – Sister Of Mercy.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Thompson Twins – Sister Of Mercy/
+permalink: /es/thompson-twins-sister-of-mercy/
 tags:
 - Pops
 - Synth-Pop

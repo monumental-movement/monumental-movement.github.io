@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-ig-nobel-music.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-column-ig-nobel-music/
+permalink: /es/column-ig-nobel-music/
 tags:
 - Science
 - Culture

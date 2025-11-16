@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tepr – En Direct De La Cote.webp
 lang: es
 layout: post
-permalink: /es/2025-06-26-Tepr – En Direct De La Cote/
+permalink: /es/tepr-en-direct-de-la-cote/
 tags:
 - House
 - Electro

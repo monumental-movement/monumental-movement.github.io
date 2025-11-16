@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Moody Brothers –Brown Eyed Girl Reggae Cowboy.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-The Moody Brothers –Brown Eyed Girl Reggae Cowboy/
+permalink: /es/the-moody-brothers-brown-eyed-girl-reggae-cowboy/
 tags:
 - Country
 - Folk

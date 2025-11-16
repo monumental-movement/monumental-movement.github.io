@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Mahavishnu Orchestra – Between Nothingness and Eternity/
+permalink: /es/mahavishnu-orchestra-between-nothingness-and-eternity/
 tags:
 - Fusion
 - Jazz

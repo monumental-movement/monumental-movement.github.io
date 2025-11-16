@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Realside – High Noon.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Realside – High Noon/
+permalink: /es/realside-high-noon/
 tags:
 - Jazz
 - Future Jazz

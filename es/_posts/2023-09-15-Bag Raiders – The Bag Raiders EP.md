@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bag Raiders – The Bag Raiders EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-15-Bag Raiders – The Bag Raiders EP/
+permalink: /es/bag-raiders-the-bag-raiders-ep/
 tags:
 - House
 - Tech House

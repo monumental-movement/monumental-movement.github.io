@@ -6,8 +6,7 @@ image: ../assets/images/Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – L
   Child.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – Lost
-  Child/
+permalink: /es/hiroshi-fujiwara-shinichi-osawafeat-crystal-kay-lost-child/
 tags:
 - House
 - JPop

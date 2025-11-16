@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adam Clayton & Larry Mullen – Theme From Mission Impossible.webp
 lang: es
 layout: post
-permalink: /es/2024-06-08-Mission Impossible/
+permalink: /es/mission-impossible/
 tags:
 - Soundtrack
 - Movie

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Boo Radleys – Barney.webp
 lang: es
 layout: post
-permalink: /es/2025-07-21-The Boo Radleys – Barney/
+permalink: /es/the-boo-radleys-barney/
 tags:
 - Indie Rock
 - Rock

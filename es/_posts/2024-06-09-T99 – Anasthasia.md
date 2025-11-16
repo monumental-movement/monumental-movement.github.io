@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/T99 – Anasthasia.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-T99 – Anasthasia/
+permalink: /es/t99-anasthasia/
 tags:
 - Techno
 - Breakbeat

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Motion Detector – Motion Detector.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Motion Detector – Motion Detector/
+permalink: /es/motion-detector-motion-detector/
 tags:
 - House
 - DUB

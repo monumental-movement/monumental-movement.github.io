@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-horror-soundtrack.webp
 lang: es
 layout: post
-permalink: /es/2025-10-10-Colum-Horror-Soundtrack/
+permalink: /es/colum-horror-soundtrack/
 tags:
 - Film
 - Soundtrack
@@ -47,7 +47,7 @@ color: #fff;
 
 ---
 
-La llegada de A24 elevó el horror al contexto del cine artístico.
+La llegada de A24 elevó el terror al contexto del cine artístico.
 [“La Bruja” (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
 El diseño acústico que difumina la línea entre silencio y ruido fue el núcleo de la estética del A24.
 
@@ -87,7 +87,7 @@ El diseño del **espacio acústico negativo** brilla, ya que el momento en el qu
 ---
 
 A mediados de la década de 2010, el sonido de terror de los 80 regresó.
-En ["It Follows" (2014)](https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
+En ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
 La pista se hizo popular en la cultura de clubes y sirvió como una oportunidad para reevaluar los sintetizadores retro.
 
 [``The Guest'' (2014)](https://amzn.to/3WxUjvS) es una reinterpretación moderna del suspenso electrónico de John Carpenter.
@@ -166,7 +166,7 @@ El miedo ya no se limita a los oídos de los individuos.
 ### Capítulo final: El miedo es audible: el significado cultural del audio de terror moderno
 
 En las películas de terror desde 2010, el sonido ha ido más allá de la mera presentación y se ha convertido en un medio que cuestiona la existencia misma de la película.
-El aliento de bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic...
+El aliento del bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic.
 Todas estas son traducciones acústicas de la pregunta "¿Qué es el miedo?"
 
 Los sonidos del horror resuenan con la ansiedad social y la soledad individual.

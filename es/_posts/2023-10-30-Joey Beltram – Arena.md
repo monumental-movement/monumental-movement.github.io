@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joey Beltram – Arena.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Joey Beltram – Arena/
+permalink: /es/joey-beltram-arena/
 tags:
 - Techno
 - US Techno

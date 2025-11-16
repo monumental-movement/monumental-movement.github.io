@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Model 500 – The Flow.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Model 500 – The Flow/
+permalink: /es/model-500-the-flow/
 tags:
 - Techno
 - Drum n Bass

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ladysmith Black Mambazo – Shaka Zulu.webp
 lang: es
 layout: post
-permalink: /es/2024-05-21-Ladysmith Black Mambazo – Shaka Zulu/
+permalink: /es/ladysmith-black-mambazo-shaka-zulu/
 tags:
 - Chorus
 - African

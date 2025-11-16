@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Main Source – Think Atom.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Main Source – Think Atom/
+permalink: /es/main-source-think-atom/
 tags:
 - Hiphop
 - Rare

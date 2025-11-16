@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Drug Punks – Drug Punk.webp
 lang: es
 layout: post
-permalink: /es/2025-07-05-The Drug Punks – Drug Punkー/
+permalink: /es/the-drug-punks-drug-punkー/
 tags:
 - Electroclash
 - Electro House

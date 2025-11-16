@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Radioactive Goldfish – L.S.D. Is The Bomb.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Radioactive Goldfish – L.S.D. Is The Bomb/
+permalink: /es/radioactive-goldfish-l-s-d-is-the-bomb/
 tags:
 - Techno
 - Acid

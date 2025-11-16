@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-/
+permalink: /es/speed-kiss-on-live-at-shinjuku-loft-on-12th-october-1985/
 tags:
 - Rock
 - Punk

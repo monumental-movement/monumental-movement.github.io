@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nick Lowe – The Impossible Bird.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Nick Lowe – The Impossible Bird/
+permalink: /es/nick-lowe-the-impossible-bird/
 tags:
 - Pop Rock
 - Country Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Earth Wind & Fire – All N All.webp
 lang: es
 layout: post
-permalink: /es/2025-07-04-Earth Wind & Fire – All N All/
+permalink: /es/earth-wind-fire-all-n-all/
 tags:
 - Soft Rock
 - Soul

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kreidler – Circles.webp
 lang: es
 layout: post
-permalink: /es/2024-08-16-Kreidler – Circles/
+permalink: /es/kreidler-circles/
 tags:
 - IDM
 - Downtempo

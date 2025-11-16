@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Skinny Puppy – 12 Inch Anthology.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Skinny Puppy – 12 Inch Anthology/
+permalink: /es/skinny-puppy-12-inch-anthology/
 tags:
 - EBM
 - 90s

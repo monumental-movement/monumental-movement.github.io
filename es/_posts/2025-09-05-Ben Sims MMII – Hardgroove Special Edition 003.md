@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ben Sims MMII – Hardgroove Special Edition 003.webp
 lang: es
 layout: post
-permalink: /es/2025-09-05-Ben Sims MMII – Hardgroove Special Edition 003/
+permalink: /es/ben-sims-mmii-hardgroove-special-edition-003/
 tags:
 - Tribal
 - Techno

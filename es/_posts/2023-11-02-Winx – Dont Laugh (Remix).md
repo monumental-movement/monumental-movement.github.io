@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Winx – Don't Laugh (Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Winx – Dont Laugh (Remix)/
+permalink: /es/winx-dont-laugh-remix/
 tags:
 - Techno
 - Remix

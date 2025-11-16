@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Echo and The Bunnymen – Enlighten Me (Extended Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Echo and The Bunnymen – Enlighten Me (Extended Remix)/
+permalink: /es/echo-and-the-bunnymen-enlighten-me-extended-remix/
 tags:
 - Rock
 - Post Punk

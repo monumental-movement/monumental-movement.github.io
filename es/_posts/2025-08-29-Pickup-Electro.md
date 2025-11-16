@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-electro.webp
 lang: es
 layout: post
-permalink: /es/2025-08-29-Pickup-Electro/
+permalink: /es/pickup-electro/
 tags:
 - Electro
 - 80s
@@ -15,7 +15,7 @@ title: Recoger trabajos electro
 ---
 
 
-"Una colección de obras electrónicas en las que la ciberfantasía de los años 80 continúa bailando hasta el día de hoy".
+"Una colección de obras electrónicas en las que la fantasía cibernética de los años 80 continúa bailando hasta el día de hoy".
 
 <hr>
 
@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Punto: “Side B” es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
+Punto: "Side B" es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
 
 Charm: Electro oscuro y tenso.
 

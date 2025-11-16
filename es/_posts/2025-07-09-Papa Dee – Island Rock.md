@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Papa Dee – Island Rock.webp
 lang: es
 layout: post
-permalink: /es/2025-07-09-Papa Dee – Island Rock/
+permalink: /es/papa-dee-island-rock/
 tags:
 - Hiphop
 - Pops

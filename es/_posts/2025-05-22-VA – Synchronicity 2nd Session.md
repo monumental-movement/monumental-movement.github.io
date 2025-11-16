@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Synchronicity 2nd Session.webp
 lang: es
 layout: post
-permalink: /es/2025-05-22-VA – Synchronicity 2nd Session/
+permalink: /es/va-synchronicity-2nd-session/
 tags:
 - Hiphop
 - 00s

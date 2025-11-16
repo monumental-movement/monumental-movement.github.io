@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-wu-tang-clan-anime.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-column-wu-tang-clan-anime/
+permalink: /es/column-wu-tang-clan-anime/
 tags:
 - Hiphop
 - Anime
@@ -76,7 +76,7 @@ En este punto, la cultura asiática pasa de la mera cita al ámbito de la coprod
 
 ---
 
-## Capítulo 3: “Afro Samurai” y la cadena de reimportación
+## Capítulo 3: “Afro Samurai” y la cadena de reimportaciones
 
 En 2007, el anime japonés "Afro Samurai" se transmitió en todo el país.
 El actor de voz es Samuel L. Jackson.
@@ -93,7 +93,7 @@ Al mismo tiempo, se convirtió en un pionero de la "fusión con el hip-hop" para
 
 ---
 
-## Capítulo 4: Un nuevo horizonte para el hip-hop abierto por una cosmovisión anime
+## Capítulo 4: Un nuevo horizonte para el hip-hop abierto por una cosmovisión similar al anime
 
 Después de Wu-Tang Clan, el hip-hop adquirió el "lenguaje para hablar de anime".
 Tyler, The Creator hace referencia a "Akira" y "Neon Genesis Evangelion",
@@ -116,7 +116,7 @@ Enfatizó el aspecto "Zen" del hip-hop y resonó con el mundo espiritual de RZA.
 En particular, la música de Nujabes combina el sampleo y la estética de ma.
 Estaba conectado espiritualmente con el Clan Wu-Tang, el "Samurái del Sonido".
 
-En la década de 2020, también aparecen claras referencias en las obras de anime japonés.
+En la década de 2020 aparecen claras referencias en las obras de anime japonés.
 La influencia del hip-hop de baja fidelidad se puede ver en la música de fondo de "Jujutsu Kaisen".
 Varios artistas de hip-hop participarán en el final de "Chainsaw Man".
 Aquí, el anime vuelve a reconectarse con el lenguaje de la “calle”.

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Baby Ford – Children Of The Revolution.webp
 lang: es
 layout: post
-permalink: /es/2025-07-30-Baby Ford – Children Of The Revolution/
+permalink: /es/baby-ford-children-of-the-revolution/
 tags:
 - House
 - 80s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Trajic – Basics.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Trajic – Basics/
+permalink: /es/trajic-basics/
 tags:
 - House
 - Hard House

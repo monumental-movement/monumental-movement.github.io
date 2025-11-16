@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joe Smooth – Disco Acid 4.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Joe Smooth – Disco Acid 4/
+permalink: /es/joe-smooth-disco-acid-4/
 tags:
 - House
 - Disco

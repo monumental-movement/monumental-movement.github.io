@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bando – Chavalas A Punta Pala EP.webp
 lang: es
 layout: post
-permalink: /es/2025-07-30-Bando – Chavalas A Punta Pala EP/
+permalink: /es/bando-chavalas-a-punta-pala-ep/
 tags:
 - Tribal
 - Techno

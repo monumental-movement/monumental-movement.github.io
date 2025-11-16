@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-steve-jobs-jonathan-ive.webp
 lang: es
 layout: post
-permalink: /es/2025-11-05-column-steve-jobs-jonathan-ive/
+permalink: /es/column-steve-jobs-jonathan-ive/
 tags:
 - Apple
 - iPod
@@ -48,7 +48,7 @@ color: #fff;
 ## Capítulo 1 Registros y el aire de California
 
 Steve Jobs fue un producto de la contracultura de California de finales de los años 1960 y 1970.
-Su admiración por Bob Dylan y los Beatles desde muy joven está confirmada por numerosas biografías.
+Muchas biografías confirman que admiraba a Bob Dylan y a los Beatles desde muy joven.
 
 En la biografía de Walter Isaacson "Steve Jobs" (2011), su sala de estar tiene un **amplificador de válvulas y un tocadiscos**.
 Se dice que escuchaba todas las noches álbumes de Bob Dylan y Joan Baez.

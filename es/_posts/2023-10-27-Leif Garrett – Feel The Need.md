@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Leif Garrett – Feel The Need.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Leif Garrett – Feel The Need/
+permalink: /es/leif-garrett-feel-the-need/
 tags:
 - Disco
 - 70s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-90s-uktechno.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-Column-90s-UKTechno/
+permalink: /es/column-90s-uktechno/
 tags:
 - UK Techno
 - 90s
@@ -68,7 +68,7 @@ Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra 
 
 [**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 
-Fundada por Régis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
+Fundada por Regis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 

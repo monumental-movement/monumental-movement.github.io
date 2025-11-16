@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/山口百恵 – プレイバックPart2.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Momoe Yamaguchi – Play Back Part2/
+permalink: /es/momoe-yamaguchi-play-back-part2/
 tags:
 - JPop
 - Nostalgic

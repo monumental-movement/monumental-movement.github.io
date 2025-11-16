@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Helen Merrill – Helen Merrill.webp
 lang: es
 layout: post
-permalink: /es/2025-02-19-Helen Merrill – Helen Merrill/
+permalink: /es/helen-merrill-helen-merrill/
 tags:
 - Bop
 - Cool Jazz

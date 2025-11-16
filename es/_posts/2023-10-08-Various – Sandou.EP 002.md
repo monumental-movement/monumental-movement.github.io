@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Sandou.EP 002.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Various – Sandou.EP 002/
+permalink: /es/various-sandou-ep-002/
 tags:
 - Experimental
 - Break Beat

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Krush FeatACO, Twigy –Tragicomic.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-DJ Krush FeatACO, Twigy –Tragicomic/
+permalink: /es/dj-krush-feataco-twigy-tragicomic/
 tags:
 - Hiphop
 - Triphop

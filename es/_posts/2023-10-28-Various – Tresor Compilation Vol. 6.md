@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Tresor Compilation Vol. 6.webp
 lang: es
 layout: post
-permalink: /es/2023-10-28-Various – Tresor Compilation Vol. 6/
+permalink: /es/various-tresor-compilation-vol-6/
 tags:
 - Techno
 - German Techno

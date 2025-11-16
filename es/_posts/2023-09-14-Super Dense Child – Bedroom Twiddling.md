@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Super Dense Child – Bedroom Twiddling.webp
 lang: es
 layout: post
-permalink: /es/2023-09-14-Super Dense Child – Bedroom Twiddling/
+permalink: /es/super-dense-child-bedroom-twiddling/
 tags:
 - Hiphop
 - Breaks

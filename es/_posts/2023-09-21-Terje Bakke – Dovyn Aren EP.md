@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Terje Bakke – Dovyn Aren EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Terje Bakke – Dovyn Aren EP/
+permalink: /es/terje-bakke-dovyn-aren-ep/
 tags:
 - Minimal
 - House
@@ -15,7 +15,7 @@ title: Terje Bakke – Dovyn Aren EP
 
 "Terje Bakke - Dovyn Aren EP" es un EP del productor de techno noruego Terje Bakke.
 
-El EP Dovyn Aren es una de sus obras maestras, que destaca su estilo característico y su visión musical, con sus ritmos oscuros y bailables y sonidos de sintetizador en evolución.
+El EP Dovyn Aren es una de sus obras maestras, que destaca su estilo característico y su visión musical, con ritmos oscuros y bailables y sonidos de sintetizador en evolución.
 
 
 #### Lista de canciones

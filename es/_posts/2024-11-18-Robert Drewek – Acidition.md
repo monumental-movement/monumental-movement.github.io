@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robert Drewek – Acidition.webp
 lang: es
 layout: post
-permalink: /es/2024-11-18-Robert Drewek – Acidition/
+permalink: /es/robert-drewek-acidition/
 tags:
 - Acid House
 - Minimal

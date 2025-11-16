@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dub War – Wrong Side Of Beautiful.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Dub War – Wrong Side Of Beautiful/
+permalink: /es/dub-war-wrong-side-of-beautiful/
 tags:
 - Dub
 - Reggae

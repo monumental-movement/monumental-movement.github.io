@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Towa Tei – A Ring Congraturations EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Towa Tei – A Ring  Congraturations EP/
+permalink: /es/towa-tei-a-ring-congraturations-ep/
 tags:
 - Rock
 - Noise

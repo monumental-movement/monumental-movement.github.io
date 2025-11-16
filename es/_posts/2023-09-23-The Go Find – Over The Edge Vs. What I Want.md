@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Go Find – Over The Edge Vs. What I Want.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-The Go Find – Over The Edge Vs. What I Want/
+permalink: /es/the-go-find-over-the-edge-vs-what-i-want/
 tags:
 - House
 - Electro

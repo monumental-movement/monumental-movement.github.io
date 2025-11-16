@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bookem Dano – Screem.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Bookem Dano – Screem/
+permalink: /es/bookem-dano-screem/
 tags:
 - House
 title: Bookem Dano – Screem

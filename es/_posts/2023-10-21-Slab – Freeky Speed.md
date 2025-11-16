@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Slab – Freeky Speed.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Slab – Freeky Speed/
+permalink: /es/slab-freeky-speed/
 tags:
 - Big Beat
 - Break Beat

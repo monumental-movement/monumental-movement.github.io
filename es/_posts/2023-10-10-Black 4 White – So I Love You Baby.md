@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Black 4 White – So I Love You Baby.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Black 4 White – So I Love You Baby/
+permalink: /es/black-4-white-so-i-love-you-baby/
 tags:
 - Italo
 - Euro House

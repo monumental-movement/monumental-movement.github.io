@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mossa – Salt Peanuts EP.webp
 lang: es
 layout: post
-permalink: /es/2024-06-30-Mossa – Salt Peanuts EP/
+permalink: /es/mossa-salt-peanuts-ep/
 tags:
 - Tech House
 - Minimal

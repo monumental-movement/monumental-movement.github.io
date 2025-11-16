@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Maharaja Top 20.webp
 lang: es
 layout: post
-permalink: /es/2025-04-25-VA – Maharaja Top 20/
+permalink: /es/va-maharaja-top-20/
 tags:
 - Techno
 - Italodance
@@ -47,5 +47,5 @@ no esta a la venta
 
 [Comprar en Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

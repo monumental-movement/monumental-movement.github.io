@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bad Religion – The New America.webp
 lang: es
 layout: post
-permalink: /es/2024-06-15-Bad Religion – The New America/
+permalink: /es/bad-religion-the-new-america/
 tags:
 - Punk
 - Rock

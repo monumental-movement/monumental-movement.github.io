@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-cassette-tape.webp
 lang: es
 layout: post
-permalink: /es/2025-07-20-Column-Cassette/
+permalink: /es/column-cassette/
 tags:
 - Cassette
 - 70s

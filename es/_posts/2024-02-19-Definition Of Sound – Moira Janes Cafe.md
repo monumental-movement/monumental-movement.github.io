@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Definition Of Sound – Moira Jane's Café.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Definition Of Sound – Moira Janes Cafe/
+permalink: /es/definition-of-sound-moira-janes-cafe/
 tags:
 - House
 - UK House

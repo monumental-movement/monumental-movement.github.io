@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Space Raiders – Glam Raid.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Space Raiders – Glam Raid/
+permalink: /es/space-raiders-glam-raid/
 tags:
 - Big Beat
 - Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kinderzimmer Productions – Doobie.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Kinderzimmer Productions – Doobie/
+permalink: /es/kinderzimmer-productions-doobie/
 tags:
 - Hiphop
 - Conscious

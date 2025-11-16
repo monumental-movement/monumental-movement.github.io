@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Toco – Guarapiranga.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-Toco – Guarapiranga/
+permalink: /es/toco-guarapiranga/
 tags:
 - Bossa Nova
 - Latin

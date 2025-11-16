@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Craig Alexander - The Exhibit A EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Craig Alexander ‎– The Exhibit A EP/
+permalink: /es/craig-alexander-the-exhibit-a-ep/
 tags:
 - House
 - Deep House

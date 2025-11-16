@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/JB³ – Close Grind.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-JB³ – Close Grind/
+permalink: /es/jb³-close-grind/
 tags:
 - Techno
 - 90s

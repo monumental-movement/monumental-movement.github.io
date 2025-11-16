@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Neutron Tom – Funky Shit.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Neutron Tom – Funky Shit/
+permalink: /es/neutron-tom-funky-shit/
 tags:
 - Electronic
 - Hard House

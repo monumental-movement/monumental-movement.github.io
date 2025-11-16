@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Volume 1, Program 6.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Various – Volume 1, Program 6/
+permalink: /es/various-volume-1-program-6/
 tags:
 - New-Wave
 - House

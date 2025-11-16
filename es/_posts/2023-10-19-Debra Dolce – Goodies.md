@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Debra Dolce – Goodies.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Debra Dolce – Goodies/
+permalink: /es/debra-dolce-goodies/
 tags:
 - House
 - Electro

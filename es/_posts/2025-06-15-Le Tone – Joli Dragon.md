@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Le Tone – Joli Dragon.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Le Tone – Joli Dragon/
+permalink: /es/le-tone-joli-dragon/
 tags:
 - Electronic
 - Downtempo

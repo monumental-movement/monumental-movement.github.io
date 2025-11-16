@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rednose Distrikt – Hedde Gy'N Nieuwe Jurk.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-Rednose Distrikt – Hedde GyN Nieuwe Jurk/
+permalink: /es/rednose-distrikt-hedde-gyn-nieuwe-jurk/
 tags:
 - Abstract
 - Breaks

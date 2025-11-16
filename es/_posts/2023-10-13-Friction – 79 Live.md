@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Friction – '79 Live.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Friction – 79 Live/
+permalink: /es/friction-79-live/
 tags:
 - Rock
 - Punk

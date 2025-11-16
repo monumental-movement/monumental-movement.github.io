@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-yoga-music.webp
 lang: es
 layout: post
-permalink: /es/2025-11-09-column-yoga-music/
+permalink: /es/column-yoga-music/
 tags:
 - Yoga
 - Meditation
@@ -89,7 +89,7 @@ A principios del siglo XX, la musicoterapia comenzó a atraer la atención en lo
 
 ### Nacimiento de la música new age
 
-Desde la década de 1970, ha surgido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
+Desde la década de 1970, ha aparecido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
 
 ---
 
@@ -103,7 +103,7 @@ En los estudios de yoga modernos, la elección de la música de fondo influye en
 
 ### Fusión con EDM, Lo-Fi, Ambient
 
-En los últimos años también han aumentado los intentos de combinar música EDM, Lo-Fi y Ambient con el yoga. El hip-hop Lo-Fi, en particular, combina ritmos relajantes con sonidos ambientales para crear un espacio adecuado para la meditación o posturas estáticas.
+En los últimos años también han aumentado los intentos de combinar música EDM, Lo-Fi y Ambient con el yoga. El hip-hop Lo-Fi en particular combina ritmos relajantes con sonidos ambientales para crear un espacio adecuado para la meditación o posturas estáticas.
 
 ### Trinidad de respiración, movimiento y música.
 
@@ -111,7 +111,7 @@ Al ser consciente de la trinidad de técnicas de respiración (pranayama), postu
 
 ---
 
-## Capítulo 4: Perspectiva científica {#chapter4}
+## Capítulo 4: Perspectiva científica {#capítulo4}
 
 Los efectos del yoga y la música están respaldados por ondas cerebrales e investigaciones psicológicas. La siguiente figura muestra las características de cada onda cerebral y el género musical correspondiente con bocadillos.
 
@@ -152,7 +152,7 @@ La conexión entre el yoga y la música no sólo es relevante para la salud pers
 ---
 
 
-## Capítulo 6: Guía práctica {#capítulo6}
+## Capítulo 6: Guía práctica {#chapter6}
 
 La música de fondo recomendada para cada pose se muestra en un bocadillo. También se enumeran los BPM de la música que coincide con cada estilo.
 

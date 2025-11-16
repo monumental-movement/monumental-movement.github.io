@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Haines Gang –So Hot (The Razor's Edge Mix).webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-The Haines Gang –So Hot (The Razors Edge Mix)/
+permalink: /es/the-haines-gang-so-hot-the-razors-edge-mix/
 tags:
 - Synth-Pop
 - 80s

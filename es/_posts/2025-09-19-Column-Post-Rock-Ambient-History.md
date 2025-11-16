@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-post-rock-ambient-history.webp
 lang: es
 layout: post
-permalink: /es/2025-09-19-Column-Post-Rock-Ambient-History/
+permalink: /es/column-post-rock-ambient-history/
 tags:
 - Post Rock
 - Ambient

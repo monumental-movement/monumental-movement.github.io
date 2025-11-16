@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Orquesta De La Luz – De La Luz.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-Orquesta De La Luz – De La Luz/
+permalink: /es/orquesta-de-la-luz-de-la-luz/
 tags:
 - Salsa
 - Latin

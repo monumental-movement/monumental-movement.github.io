@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Flare – Nettin Pure 2.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Flare – Nettin Pure 2/
+permalink: /es/flare-nettin-pure-2/
 tags:
 - Techno
 - Tech House

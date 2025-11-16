@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-triphop.webp
 lang: es
 layout: post
-permalink: /es/2025-09-21-Column-Triphop/
+permalink: /es/column-triphop/
 tags:
 - Triphop
 - Abstract
@@ -109,7 +109,7 @@ Derivado del sistema de sonido de Bristol "Wild Bunch". 3D (Robert Del Naja) tam
 
 #### Tecnología de producción
 
-En lugar de un tocadiscos, "convierte el estudio en un instrumento" y combina muestras y presentaciones en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
+En lugar de utilizar un tocadiscos, "convierte el estudio en un instrumento" y combina samples y música en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
 
 #### El vídeo funciona
 
@@ -154,7 +154,7 @@ Hay documentales sobre giras de los 90 como "Welcome to Portishead".
 Endtrousing.... está incluido en el Libro Guinness de los Récords Mundiales como el "primer álbum construido enteramente a partir de samples". Completado con MPC y tocadiscos.
 
 #### Tecnología de producción
-Aprovechar al máximo la reconstrucción de ritmos, los malabarismos de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
+Hace pleno uso de la reconstrucción de ritmos, el malabarismo de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
 
 #### El vídeo funciona
 Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).

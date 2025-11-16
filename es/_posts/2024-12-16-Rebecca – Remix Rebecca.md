@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rebecca – Remix Rebecca.webp
 lang: es
 layout: post
-permalink: /es/2024-12-16-Rebecca – Remix Rebecca/
+permalink: /es/rebecca-remix-rebecca/
 tags:
 - JPop
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joey Beltram – The Rising Sun（Tresor 214）.webp
 lang: es
 layout: post
-permalink: /es/2023-10-31-Joey Beltram – The Rising Sun（Tresor 214）/
+permalink: /es/joey-beltram-the-rising-sun-tresor-214/
 tags:
 - Techno
 - Mix

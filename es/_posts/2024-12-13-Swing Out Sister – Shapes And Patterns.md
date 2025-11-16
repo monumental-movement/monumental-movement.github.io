@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Swing Out Sister – Shapes And Patterns.webp
 lang: es
 layout: post
-permalink: /es/2024-12-13-Swing Out Sister – Shapes And Patterns/
+permalink: /es/swing-out-sister-shapes-and-patterns/
 tags:
 - Soul-Jazz
 - Future Jazz

@@ -6,8 +6,7 @@ image: ../assets/images/Hair Stylistics – Impression Of Nasty Dread Best Of Ha
   In My Life.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style
-  In My Life/
+permalink: /es/hair-stylistics-impression-of-nasty-dread-best-of-hair-style-in-my-life/
 tags:
 - Noise
 - Experimental

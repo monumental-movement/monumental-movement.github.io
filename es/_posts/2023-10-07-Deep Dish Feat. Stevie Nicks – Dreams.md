@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deep Dish Feat. Stevie Nicks – Dreams.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Deep Dish Feat. Stevie Nicks – Dreams/
+permalink: /es/deep-dish-feat-stevie-nicks-dreams/
 tags:
 - House
 title: Hazaña de plato profundo. Stevie Nicks - Sueños

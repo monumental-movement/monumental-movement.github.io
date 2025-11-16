@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Laurent Garnier – Crispy Bacon (Part 2).webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Laurent Garnier – Crispy Bacon (Part 2)/
+permalink: /es/laurent-garnier-crispy-bacon-part-2/
 tags:
 - Techno
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Atmosfear – Motivation (Dimitri From Paris Remixes).webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Atmosfear – Motivation (Dimitri From Paris Remixes)/
+permalink: /es/atmosfear-motivation-dimitri-from-paris-remixes/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mendo – Remember.webp
 lang: es
 layout: post
-permalink: /es/2025-06-26-Mendo – Remember/
+permalink: /es/mendo-remember/
 tags:
 - House
 - Minimal

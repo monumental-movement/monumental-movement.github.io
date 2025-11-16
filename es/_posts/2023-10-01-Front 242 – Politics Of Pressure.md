@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Front 242 – Politics Of Pressure.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Front 242 – Politics Of Pressure/
+permalink: /es/front-242-politics-of-pressure/
 tags:
 - EBM
 - Noise

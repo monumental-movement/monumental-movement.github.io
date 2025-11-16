@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Foundation Featuring Jay Williams – Rejoice.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-The Foundation Featuring Jay Williams – Rejoice/
+permalink: /es/the-foundation-featuring-jay-williams-rejoice/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tignino and Leo Feat. Mark Kerr – How Can You Feel.webp
 lang: es
 layout: post
-permalink: /es/2024-08-03-Tignino and Leo Feat. Mark Kerr – How Can You Feel/
+permalink: /es/tignino-and-leo-feat-mark-kerr-how-can-you-feel/
 tags:
 - House
 - Electro

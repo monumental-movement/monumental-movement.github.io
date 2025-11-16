@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Takehana and Golden Lotus – Samurai Step.webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Takehana and Golden Lotus Samurai Step/
+permalink: /es/takehana-and-golden-lotus-samurai-step/
 tags:
 - Abstract
 - Jazz

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ratty – Sunrise (Here I Am).webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Ratty – Sunrise (Here I Am)/
+permalink: /es/ratty-sunrise-here-i-am/
 tags:
 - Trance
 - Hard Trance

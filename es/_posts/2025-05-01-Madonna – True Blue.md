@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Madonna – True Blue.webp
 lang: es
 layout: post
-permalink: /es/2025-05-01-Madonna – True Blue/
+permalink: /es/madonna-true-blue/
 tags:
 - Electronic
 - Pop

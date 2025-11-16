@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bullblast – Inch By Inch.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Bullblast – Inch By Inch/
+permalink: /es/bullblast-inch-by-inch/
 tags:
 - House
 - Tech House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Bee Gees – Massachusetts.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-The Bee Gees –  Massachusetts/
+permalink: /es/the-bee-gees-massachusetts/
 tags:
 - Pops
 - Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Steve Reid – Bamboo Forest.webp
 lang: es
 layout: post
-permalink: /es/2024-05-26-Steve Reid – Bamboo Forest/
+permalink: /es/steve-reid-bamboo-forest/
 tags:
 - New Age
 - Healing

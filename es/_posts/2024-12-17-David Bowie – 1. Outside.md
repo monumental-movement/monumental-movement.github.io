@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/David Bowie – 1. Outside.webp
 lang: es
 layout: post
-permalink: /es/2024-12-17-David Bowie – 1. Outside/
+permalink: /es/david-bowie-1-outside/
 tags:
 - Leftfield
 - Abstract

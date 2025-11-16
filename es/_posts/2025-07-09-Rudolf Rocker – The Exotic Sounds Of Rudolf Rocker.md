@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker.webp
 lang: es
 layout: post
-permalink: /es/2025-07-09-Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker/
+permalink: /es/rudolf-rocker-the-exotic-sounds-of-rudolf-rocker/
 tags:
 - Indie Rock
 - Rock

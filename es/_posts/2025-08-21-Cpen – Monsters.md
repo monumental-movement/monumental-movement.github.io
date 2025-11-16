@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cpen – Monsters.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Cpen – Monsters/
+permalink: /es/cpen-monsters/
 tags:
 - Deep House
 - Tech House

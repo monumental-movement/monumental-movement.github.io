@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hiroshima  –  Go.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Hiroshima  –  Go/
+permalink: /es/hiroshima-go/
 tags:
 - Jazz
 - Modern Jazz

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Shokichi Kina + Makoto Yano – The Celebrations.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Shokichi Kina + Makoto Yano – The Celebrations/
+permalink: /es/shokichi-kina-makoto-yano-the-celebrations/
 tags:
 - Folk Rock
 - Rock

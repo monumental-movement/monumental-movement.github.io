@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jiro's –Peace Peace.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Jiros –Peace Peace/
+permalink: /es/jiros-peace-peace/
 tags:
 - Folk
 - Nostalgic

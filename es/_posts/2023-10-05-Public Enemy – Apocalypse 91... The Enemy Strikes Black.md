@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Black.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Public Enemy – Apocalypse 91... The Enemy Strikes Black/
+permalink: /es/public-enemy-apocalypse-91-the-enemy-strikes-black/
 tags:
 - Hiphop
 - Classic

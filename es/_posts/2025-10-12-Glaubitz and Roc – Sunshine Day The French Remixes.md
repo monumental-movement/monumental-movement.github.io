@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Glaubitz & Roc – Sunshine Day The French Remixes.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Glaubitz and Roc – Sunshine Day The French Remixes/
+permalink: /es/glaubitz-and-roc-sunshine-day-the-french-remixes/
 tags:
 - House
 - French House

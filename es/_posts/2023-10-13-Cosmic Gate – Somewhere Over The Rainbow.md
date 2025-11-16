@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cosmic Gate – Somewhere Over The Rainbow.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Cosmic Gate – Somewhere Over The Rainbow/
+permalink: /es/cosmic-gate-somewhere-over-the-rainbow/
 tags:
 - Trance
 - Hard Trance

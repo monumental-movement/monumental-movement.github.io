@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Prince Rahiem – Rock Wit It.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Prince Rahiem – Rock Wit It/
+permalink: /es/prince-rahiem-rock-wit-it/
 tags:
 - Electronic
 - Hiphop

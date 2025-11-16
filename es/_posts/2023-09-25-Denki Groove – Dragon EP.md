@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Denki Groove – Dragon EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Denki Groove – Dragon EP/
+permalink: /es/denki-groove-dragon-ep/
 tags:
 - Techno
 - JPop

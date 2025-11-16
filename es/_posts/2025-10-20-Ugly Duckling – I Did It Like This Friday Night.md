@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ugly Duckling – I Did It Like This Friday Night.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Ugly Duckling – I Did It Like This Friday Night/
+permalink: /es/ugly-duckling-i-did-it-like-this-friday-night/
 tags:
 - Hiphop
 - 00s

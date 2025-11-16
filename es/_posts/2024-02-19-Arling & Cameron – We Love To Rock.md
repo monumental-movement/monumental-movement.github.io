@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arling & Cameron – We Love To Rock.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Arling & Cameron – We Love To Rock/
+permalink: /es/arling-cameron-we-love-to-rock/
 tags:
 - House
 - Breaks

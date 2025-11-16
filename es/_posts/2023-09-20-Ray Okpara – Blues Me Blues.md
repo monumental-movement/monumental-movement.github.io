@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ray Okpara – Blues Me Blues.webp
 lang: es
 layout: post
-permalink: /es/2023-09-20-Ray Okpara – Blues Me Blues/
+permalink: /es/ray-okpara-blues-me-blues/
 tags:
 - House
 - Minimal

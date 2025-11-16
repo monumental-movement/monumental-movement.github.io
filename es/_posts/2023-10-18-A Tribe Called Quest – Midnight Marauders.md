@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/A Tribe Called Quest – Midnight Marauders.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-A Tribe Called Quest – Midnight Marauders/
+permalink: /es/a-tribe-called-quest-midnight-marauders/
 tags:
 - Hiphop
 title: Una tribu llamada misión – Merodeadores de medianoche

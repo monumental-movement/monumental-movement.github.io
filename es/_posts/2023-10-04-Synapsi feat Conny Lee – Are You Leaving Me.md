@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Synapsi feat Conny Lee – Are You Leaving Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Synapsi feat Conny Lee – Are You Leaving Me/
+permalink: /es/synapsi-feat-conny-lee-are-you-leaving-me/
 tags:
 - Techno
 - Italo

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bah Samba – Album Sampler.webp
 lang: es
 layout: post
-permalink: /es/2024-04-30-Bah Samba – Album Sampler/
+permalink: /es/bah-samba-album-sampler/
 tags:
 - House
 - Deep House

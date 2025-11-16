@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aaliyah – I Care 4 U.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Aaliyah – I Care 4 U/
+permalink: /es/aaliyah-i-care-4-u/
 tags:
 - Hiphop
 - R&B

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marvin Gaye – I Heard It Through The Grapevine.webp
 lang: es
 layout: post
-permalink: /es/2024-05-18-Marvin Gaye – I Heard It Through The Grapevine/
+permalink: /es/marvin-gaye-i-heard-it-through-the-grapevine/
 tags:
 - Soul
 - Funk

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Accept – Russian Roulette.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Accept ‎– Russian Roulette/
+permalink: /es/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
@@ -19,7 +19,7 @@ Este álbum es conocido por sus pesados ​​riffs de guitarra, voces poderosas
 
 "Aiming High" - Una canción rápida y poderosa, con un solo de guitarra y lengüetas gemelas que destacan. Podrás disfrutar plenamente del típico sonido heavy metal de Accept con esta canción.
 
-``Russian Roulette'' es un clásico para los fanáticos de Accept y les dará una idea del heavy metal de los 80.
+'Russian Roulette' es un clásico para los fanáticos de Accept y les dará una idea del heavy metal de los 80.
 
 
 #### Lista de canciones

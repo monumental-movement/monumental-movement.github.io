@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – O Samba.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Various – O Samba/
+permalink: /es/various-o-samba/
 tags:
 - Samba
 - Latin

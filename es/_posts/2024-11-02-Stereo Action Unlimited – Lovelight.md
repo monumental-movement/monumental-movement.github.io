@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stereo Action Unlimited – Lovelight.webp
 lang: es
 layout: post
-permalink: /es/2024-11-02-Stereo Action Unlimited – Lovelight/
+permalink: /es/stereo-action-unlimited-lovelight/
 tags:
 - Downtempo
 - French

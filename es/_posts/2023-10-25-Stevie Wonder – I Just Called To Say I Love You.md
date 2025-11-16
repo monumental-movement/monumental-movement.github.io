@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stevie Wonder – I Just Called To Say I Love You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-Stevie Wonder – I Just Called To Say I Love You/
+permalink: /es/stevie-wonder-i-just-called-to-say-i-love-you/
 tags:
 - Soul
 - Funk

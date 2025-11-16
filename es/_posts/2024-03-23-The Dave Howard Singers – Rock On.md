@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Dave Howard Singers – Rock On.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-The Dave Howard Singers – Rock On/
+permalink: /es/the-dave-howard-singers-rock-on/
 tags:
 - EBM
 - 80s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/EBE – Aural Allusions EP.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-EBE – Aural Allusions EP/
+permalink: /es/ebe-aural-allusions-ep/
 tags:
 - Leftfield
 - Tech House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fischerspooner – Emerge.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Fischerspooner – Emerge/
+permalink: /es/fischerspooner-emerge/
 tags:
 - Minimal
 - Electro

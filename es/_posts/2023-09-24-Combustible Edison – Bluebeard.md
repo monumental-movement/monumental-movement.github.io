@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Combustible Edison – Bluebeard.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Combustible Edison – Bluebeard/
+permalink: /es/combustible-edison-bluebeard/
 tags:
 - Downtempo
 - Latin

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mauro Picotto & Riccardo Ferri –Alchemist EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Mauro Picotto and Riccardo Ferri –Alchemist EP/
+permalink: /es/mauro-picotto-and-riccardo-ferri-alchemist-ep/
 tags:
 - Techno
 title: Mauro Picotto y Riccardo Ferri –Alchemist EP

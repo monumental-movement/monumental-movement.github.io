@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Modomonomusik and Bee – Silicon Valley.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Modomonomusik and Bee – Silicon Valley/
+permalink: /es/modomonomusik-and-bee-silicon-valley/
 tags:
 - Techno
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Archae and Grovskopa – Emergent Properties.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Archae and Grovskopa – Emergent Properties/
+permalink: /es/archae-and-grovskopa-emergent-properties/
 tags:
 - Techno
 - Industrial

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Plutocracy – Dankstahz.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Plutocracy – Dankstahz/
+permalink: /es/plutocracy-dankstahz/
 tags:
 - Grindcore
 - Rock

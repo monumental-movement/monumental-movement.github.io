@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sponge – Rotting Piñata.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-Sponge – Rotting Pinata/
+permalink: /es/sponge-rotting-pinata/
 tags:
 - Alternative Rock
 - Grunge

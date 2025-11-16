@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Strictly The Best 8.webp
 lang: es
 layout: post
-permalink: /es/2025-05-26-VA – Strictly The Best 8/
+permalink: /es/va-strictly-the-best-8/
 tags:
 - Reggae
 - Dancehall

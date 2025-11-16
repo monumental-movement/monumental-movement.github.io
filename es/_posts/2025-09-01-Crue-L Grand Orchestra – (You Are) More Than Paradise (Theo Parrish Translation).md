@@ -6,8 +6,7 @@ image: ../assets/images/Crue-L Grand Orchestra – (You Are) More Than Paradise 
   Parrish Translation).webp
 lang: es
 layout: post
-permalink: /es/2025-09-01-Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo
-  Parrish Translation)/
+permalink: /es/crue-l-grand-orchestra-you-are-more-than-paradise-theo-parrish-translation/
 tags:
 - House
 - Deep House

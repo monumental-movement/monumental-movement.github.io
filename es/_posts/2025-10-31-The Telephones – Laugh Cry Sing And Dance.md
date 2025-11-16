@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Telephones – Laugh, Cry, Sing... And Dance!!!.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-The Telephones – Laugh Cry Sing And Dance/
+permalink: /es/the-telephones-laugh-cry-sing-and-dance/
 tags:
 - Punk
 - Synth-pop

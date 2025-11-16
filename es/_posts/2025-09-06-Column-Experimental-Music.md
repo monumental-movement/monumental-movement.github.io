@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-experimental-music.webp
 lang: es
 layout: post
-permalink: /es/2025-09-06-Column-Experimental-Music/
+permalink: /es/column-experimental-music/
 tags:
 - Experimental
 - Avant-garde
@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## Década de 2000: portátiles y globalización
-- **Antecedentes:** Ruido, electrónica y grabaciones de campo difundidas internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
+- **Antecedentes:** El ruido, la electrónica y las grabaciones de campo se difunden internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
 - **Equipo:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Obra maestra

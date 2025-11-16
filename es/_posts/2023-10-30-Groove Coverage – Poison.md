@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Groove Coverage – Poison.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Groove Coverage – Poison/
+permalink: /es/groove-coverage-poison/
 tags:
 - Trance
 - Euro

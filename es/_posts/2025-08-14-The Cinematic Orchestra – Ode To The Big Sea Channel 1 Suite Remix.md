@@ -6,8 +6,7 @@ image: ../assets/images/The Cinematic Orchestra – Ode To The Big Sea Channel 1
   Remixes.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-The Cinematic Orchestra – Ode To The Big Sea Channel 1 Suite
-  Remix/
+permalink: /es/the-cinematic-orchestra-ode-to-the-big-sea-channel-1-suite-remix/
 tags:
 - Future Jazz
 - Downtempo

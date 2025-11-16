@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/さだ まさし – 長崎小夜曲.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Masashi Sada – Nagasaki/
+permalink: /es/masashi-sada-nagasaki/
 tags:
 - JPop
 - Nostalgic

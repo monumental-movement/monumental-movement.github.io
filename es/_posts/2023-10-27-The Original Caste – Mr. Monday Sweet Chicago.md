@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-The Original Caste – Mr. Monday Sweet Chicago/
+permalink: /es/the-original-caste-mr-monday-sweet-chicago/
 tags:
 - Folk
 - Nostalgic

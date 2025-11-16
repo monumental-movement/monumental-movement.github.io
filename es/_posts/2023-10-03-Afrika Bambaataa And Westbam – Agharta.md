@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-Afrika Bambaataa And Westbam – Agharta/
+permalink: /es/afrika-bambaataa-and-westbam-agharta/
 tags:
 - Techno
 - Electro

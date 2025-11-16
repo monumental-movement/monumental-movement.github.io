@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Armand Van Helden – My My My (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Armand Van Helden – My My My (Remixes)/
+permalink: /es/armand-van-helden-my-my-my-remixes/
 tags:
 - House
 - 00s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Latin Compilation.webp
 lang: es
 layout: post
-permalink: /es/2024-01-11-Various – Latin Compilation/
+permalink: /es/various-latin-compilation/
 tags:
 - Latin
 - Reggae

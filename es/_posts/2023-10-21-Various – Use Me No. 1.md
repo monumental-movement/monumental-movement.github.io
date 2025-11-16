@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Use Me No. 1.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Various – Use Me No. 1/
+permalink: /es/various-use-me-no-1/
 tags:
 - House
 - Techno

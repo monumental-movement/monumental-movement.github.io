@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arrested Development – Zingalamaduni.webp
 lang: es
 layout: post
-permalink: /es/2025-07-11-Arrested Development – Zingalamaduni/
+permalink: /es/arrested-development-zingalamaduni/
 tags:
 - Hiphop
 - 90s

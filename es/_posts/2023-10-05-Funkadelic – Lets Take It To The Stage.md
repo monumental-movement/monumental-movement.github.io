@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Funkadelic – Let's Take It To The Stage.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Funkadelic – Lets Take It To The Stage/
+permalink: /es/funkadelic-lets-take-it-to-the-stage/
 tags:
 - Funk
 - Soul

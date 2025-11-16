@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mondo Grosso – Now You Know Better.webp
 lang: es
 layout: post
-permalink: /es/2023-08-25-Mondo Grosso – Now You Know Better/
+permalink: /es/mondo-grosso-now-you-know-better/
 tags:
 - House
 - JPop

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Architect – Pixelated Porn King.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-The Architect – Pixelated Porn King/
+permalink: /es/the-architect-pixelated-porn-king/
 tags:
 - Techno
 - Minimal

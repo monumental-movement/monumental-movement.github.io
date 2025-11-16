@@ -6,8 +6,7 @@ image: ../assets/images/Whitney Houston and Enrique Iglesias – Could I Have Th
   Forever.webp
 lang: es
 layout: post
-permalink: /es/2023-07-22-Whitney Houston and Enrique Iglesias – Could I Have This
-  Kiss Forever/
+permalink: /es/whitney-houston-and-enrique-iglesias-could-i-have-this-kiss-forever/
 tags:
 - Rock
 - Ballad

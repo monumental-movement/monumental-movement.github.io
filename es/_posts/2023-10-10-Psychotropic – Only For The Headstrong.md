@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Psychotropic – Only For The Headstrong.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Psychotropic – Only For The Headstrong/
+permalink: /es/psychotropic-only-for-the-headstrong/
 tags:
 - Break Beat
 - House

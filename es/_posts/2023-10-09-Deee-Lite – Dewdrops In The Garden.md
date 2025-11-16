@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deee-Lite – Dewdrops In The Garden.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Deee-Lite – Dewdrops In The Garden/
+permalink: /es/deee-lite-dewdrops-in-the-garden/
 tags:
 - House
 - Hiphop

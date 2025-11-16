@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ecstatic Orange – World Keeps Spinning.webp
 lang: es
 layout: post
-permalink: /es/2025-05-26-Ecstatic Orange – World Keeps Spinning/
+permalink: /es/ecstatic-orange-world-keeps-spinning/
 tags:
 - Electronic
 - Leftfield

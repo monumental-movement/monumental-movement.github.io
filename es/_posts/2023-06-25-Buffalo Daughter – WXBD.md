@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Buffalo Daughter – WXBD.webp
 lang: es
 layout: post
-permalink: /es/2023-06-25-Buffalo Daughter – WXBD/
+permalink: /es/buffalo-daughter-wxbd/
 tags:
 - Break Beat
 - Big Beat

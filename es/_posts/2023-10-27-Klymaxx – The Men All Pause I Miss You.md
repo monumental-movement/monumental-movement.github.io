@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Klymaxx – The Men All Pause I Miss You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Klymaxx – The Men All Pause I Miss You/
+permalink: /es/klymaxx-the-men-all-pause-i-miss-you/
 tags:
 - Pops
 - Funk

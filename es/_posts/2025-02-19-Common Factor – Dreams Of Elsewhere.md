@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Common Factor – Dreams Of Elsewhere.webp
 lang: es
 layout: post
-permalink: /es/2025-02-19-Common Factor – Dreams Of Elsewhere/
+permalink: /es/common-factor-dreams-of-elsewhere/
 tags:
 - Techno
 - Tech House

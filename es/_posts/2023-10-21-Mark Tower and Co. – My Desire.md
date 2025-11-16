@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mark Tower and Co. – My Desire.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Mark Tower and Co. – My Desire/
+permalink: /es/mark-tower-and-co-my-desire/
 tags:
 - Euro Beat
 - Hi NRG

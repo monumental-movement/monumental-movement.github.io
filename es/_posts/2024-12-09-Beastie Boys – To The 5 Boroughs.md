@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Beastie Boys – To The 5 Boroughs.webp
 lang: es
 layout: post
-permalink: /es/2024-12-09-Beastie Boys – To The 5 Boroughs/
+permalink: /es/beastie-boys-to-the-5-boroughs/
 tags:
 - Pop Rap
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marcin Czubala – I Can Make You Dance EP.webp
 lang: es
 layout: post
-permalink: /es/2024-05-20-Marcin Czubala – I Can Make You Dance EP/
+permalink: /es/marcin-czubala-i-can-make-you-dance-ep/
 tags:
 - Techno
 - Minimal

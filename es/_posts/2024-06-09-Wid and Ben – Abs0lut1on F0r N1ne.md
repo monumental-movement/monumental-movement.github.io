@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wid & Ben – Abs0lut1on.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Wid and Ben – Abs0lut1on F0r N1ne/
+permalink: /es/wid-and-ben-abs0lut1on-f0r-n1ne/
 tags:
 - Trance
 - Hard Trance

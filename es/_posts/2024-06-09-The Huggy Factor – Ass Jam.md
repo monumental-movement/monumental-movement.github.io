@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Huggy Factor – Ass Jam.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-The Huggy Factor – Ass Jam/
+permalink: /es/the-huggy-factor-ass-jam/
 tags:
 - House
 - Tech House

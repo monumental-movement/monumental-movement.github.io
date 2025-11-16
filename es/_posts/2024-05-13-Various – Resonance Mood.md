@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Resonance Mood.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Various – Resonance Mood/
+permalink: /es/various-resonance-mood/
 tags:
 - Goa Trance
 - Trance

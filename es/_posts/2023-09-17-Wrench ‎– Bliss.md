@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wrench – Bliss.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Wrench ‎– Bliss/
+permalink: /es/wrench-bliss/
 tags:
 - Rock
 - Dub

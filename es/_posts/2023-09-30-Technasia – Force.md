@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Technasia – Force.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Technasia – Force/
+permalink: /es/technasia-force/
 tags:
 - Techno
 title: Technasia – Fuerza

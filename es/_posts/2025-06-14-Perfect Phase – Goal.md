@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Perfect Phase – Goal.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Perfect Phase – Goal/
+permalink: /es/perfect-phase-goal/
 tags:
 - Electronic
 - House

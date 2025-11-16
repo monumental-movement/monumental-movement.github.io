@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Thomas Newman – Scent Of A Woman.webp
 lang: es
 layout: post
-permalink: /es/2024-06-05-Thomas Newman – Scent Of A Woman/
+permalink: /es/thomas-newman-scent-of-a-woman/
 tags:
 - Soundtrack
 - Movie

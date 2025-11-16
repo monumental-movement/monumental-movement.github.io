@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Enzyme & Malice – Close Encounters Thru The Wormhole.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Enzyme & Malice – Close Encounters Thru The Wormhole/
+permalink: /es/enzyme-malice-close-encounters-thru-the-wormhole/
 tags:
 - Breaks
 - Hardcore

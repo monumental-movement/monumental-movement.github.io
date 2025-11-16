@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-blawan.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Column-Blawan/
+permalink: /es/column-blawan/
 tags:
 - Industrial
 - UK Techno
@@ -21,7 +21,7 @@ title: '[Columna] Blawan: El placer del acero y el cuerpo en lo profundo de la n
 Texto: mmr｜Tema: Sobre el ritmo frío pero de algún modo humano de Blawan que sigue teniendo raíces en el underground del Reino Unido.
 
 Érase una vez, las zonas industriales del norte de Inglaterra estaban llenas de olor a vapor y metal.
-Es posible que Jamie Roberts (o Blawan) haya crecido inhalando inconscientemente sus reverberaciones.
+Es posible que Jamie Roberts, o Blawan, haya crecido inhalando inconscientemente sus reverberaciones.
 El linaje de la música electrónica que fluye desde Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Se ha hecho eco del ritmo del trabajo y de la respiración de la ciudad al mismo tiempo.
 
@@ -102,7 +102,7 @@ En un momento en el que todo se funde, la música se convierte en "sustancia".
 
 ---
 
-## Capítulo 4 Lo húmedo siempre se secará——Registro de emociones sin emociones
+## Capítulo 4 Lo húmedo siempre se secará: un registro de emociones sin emociones
 
 En 2018, Blawan finalmente lanzó un álbum de larga duración, Wet Will Always Dry.
 Como sugiere el título, **Húmedo, seco. **
@@ -110,7 +110,7 @@ Lo que vemos allí es un ciclo incompleto de emociones humanas.
 
 “Descuidado” “Norte” “Stell”――
 Cada canción esconde una ligera calidez debajo de su frialdad.
-En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen respirar.
+En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen una respiración.
 Las emociones humanas permean ese pequeño espacio.
 
 Quita el sonido y deja sólo la estructura.
@@ -179,7 +179,7 @@ A2013["2013: Actividades de Pariah y Karenn en pleno apogeo (se establece Shewor
 A2018["2018: Anunciado álbum completo "Wet Will Always Dry" (Ternesc)"]
 A2020["2020: Nuevas innovaciones como 'Immulsion' y 'Under Belly'"]
 A2023["2023: Reevaluar con un set en vivo centrado en módulos"]
-A2025["2025: Blawan = redefinido como un símbolo del techno moderno del Reino Unido"]
+A2025["2025: Blawan = redefinido como un símbolo del techno británico moderno"]
 
 A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
@@ -384,7 +384,7 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Junkies & Nathan Barato – The Big Smoke.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-The Junkies & Nathan Barato – The Big Smoke/
+permalink: /es/the-junkies-nathan-barato-the-big-smoke/
 tags:
 - House
 - Tech House

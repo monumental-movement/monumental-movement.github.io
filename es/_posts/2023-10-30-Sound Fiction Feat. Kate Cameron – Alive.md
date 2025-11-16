@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sound Fiction Feat. Kate Cameron – Alive.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Sound Fiction Feat. Kate Cameron – Alive/
+permalink: /es/sound-fiction-feat-kate-cameron-alive/
 tags:
 - Trance
 - Progressive

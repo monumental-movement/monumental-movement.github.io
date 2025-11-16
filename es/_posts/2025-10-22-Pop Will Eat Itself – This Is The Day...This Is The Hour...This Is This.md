@@ -6,8 +6,7 @@ image: ../assets/images/Pop Will Eat Itself – This Is The Day...This Is The Ho
   Is This.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-Pop Will Eat Itself – This Is The Day...This Is The Hour...This
-  Is This/
+permalink: /es/pop-will-eat-itself-this-is-the-day-this-is-the-hour-this-is-this/
 tags:
 - Leftfield
 - Breaks

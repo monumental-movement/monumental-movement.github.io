@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Scarfo – Scarfo.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Scarfo – Scarfo/
+permalink: /es/scarfo-scarfo/
 tags:
 - Pops
 - Rock

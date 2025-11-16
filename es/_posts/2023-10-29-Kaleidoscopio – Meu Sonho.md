@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kaleidoscopio – Meu Sonho.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Kaleidoscopio – Meu Sonho/
+permalink: /es/kaleidoscopio-meu-sonho/
 tags:
 - House
 - Drum n Bass

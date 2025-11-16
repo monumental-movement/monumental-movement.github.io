@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Money Bazz Cozmic Ray – New York, New York Danger.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Money Bazz Cozmic Ray – New York, New York Danger/
+permalink: /es/money-bazz-cozmic-ray-new-york-new-york-danger/
 tags:
 - Hiphop
 title: Money Bazz Cozmic Ray – Nueva York, Peligro de Nueva York

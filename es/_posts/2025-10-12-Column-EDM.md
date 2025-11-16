@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-edm.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Column-EDM/
+permalink: /es/column-edm/
 tags:
 - EDM
 - House
@@ -19,7 +19,7 @@ title: '[Columna] La ilusión del EDM: Celebrando y reconstruyendo en la era dig
 ## Llega un momento en el que el sonido se convierte en arquitectura
 
 
-Texto: mmr | Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
+Texto: mmr｜Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
 
 Un destello de luz láser divide el cielo nocturno, el bajo se sacude profundamente dentro de su cuerpo e innumerables brazos se levantan al unísono.
 El fenómeno llamado "EDM" era más que un simple género musical, era una celebración de la era digital.
@@ -77,7 +77,7 @@ En la década de 2010, el EDM ascendió al centro del pop. Los sueños subterrá
 Detrás del sonido hay una **revolución DAW y sintetizador**.
 Ableton Live, FL Studio, Logic Pro. Vivimos en una era en la que puedes componer música con solo una computadora portátil.
 "Massive" de Native Instruments, "Serum" de Xfer, "Sylenth1" de Lennar Digital.
-Lo que estos esfuerzos dieron origen fue la "conversión del sonido en un arma".
+El resultado de estos acontecimientos fue la "conversión del sonido en un arma".
 
 Especialmente compresión de cadena lateral.
 Ese “bombeo” único que hace que todo el cuerpo respire al mismo tiempo que la patada.
@@ -121,7 +121,7 @@ Logotipos, perfumes, NFT, auriculares: todos se han convertido en “industrias 
 ### Ⅵ. Ramificación y mutación: horizonte post-EDM
 
 Con el tiempo, las celebraciones empiezan a agotarse.
-La gente cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
+La gente que estaba cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
 
 “EDM introspectivo” demostrado por Porter Robinson y Madeon——
 No fue un festival, fue un sonido que trataba sobre emociones individuales.

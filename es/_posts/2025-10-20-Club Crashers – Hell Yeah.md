@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Club Crashers – Hell Yeah.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Club Crashers – Hell Yeah/
+permalink: /es/club-crashers-hell-yeah/
 tags:
 - Hard Trance
 - Trance

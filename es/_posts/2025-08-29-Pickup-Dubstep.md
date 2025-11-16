@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-dubstep.webp
 lang: es
 layout: post
-permalink: /es/2025-08-29-Pickup-Dubstep/
+permalink: /es/pickup-dubstep/
 tags:
 - Dubstep
 - 90s

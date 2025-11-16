@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Mille and Mr. Hirsch – Jazzhatz/
+permalink: /es/mille-and-mr-hirsch-jazzhatz/
 tags:
 - House
 - Deep House

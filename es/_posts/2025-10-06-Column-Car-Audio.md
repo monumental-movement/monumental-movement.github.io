@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-car-audio.webp
 lang: es
 layout: post
-permalink: /es/2025-10-06-Column-Car-Audio/
+permalink: /es/column-car-audio/
 tags:
 - History
 - Car

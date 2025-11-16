@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-taj-mahal-travelers.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-taj-mahal-travelers/
+permalink: /es/column-taj-mahal-travelers/
 tags:
 - Avant-Garde
 - Experimental
@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Una peregrinación sonora donde la improvisación y los sonid
 A principios de la década de 1960, la escena musical de vanguardia japonesa florecía silenciosamente.
 Centrado en el Taller Experimental y el Centro de Arte Sogetsu dirigido por Toru Takemitsu, Kei Ichiyanagi y Joji Yuasa, se estaban derribando las fronteras entre géneros como la música, la danza, el vídeo y la iluminación.
 
-Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de las Artes de Tokio, pero comenzaba a sentir los límites de las formas musicales tradicionales. Comenzó a ver el sonido como un "acontecimiento" más que como una "estructura", y finalmente comenzó a explorar la improvisación y el azar.
+Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de las Artes de Tokio, pero comenzaba a sentir los límites de las formas musicales tradicionales. Comenzó a ver el sonido como un "acontecimiento" más que como una "estructura", y eventualmente comenzó a explorar la improvisación y el azar.
 
 
 > “El sonido comienza a vivir cuando se separa de la voluntad del intérprete”.
@@ -108,7 +108,7 @@ K --> L["Londres, Reino Unido"]
 </div>
 
 **Nota**: Este itinerario es una ruta aproximada basada en registros y testimonios reales.
-Las actuaciones de improvisación en varios lugares abarcaron desde instalaciones culturales locales, al aire libre, hasta bases para movimientos estudiantiles.
+Las actuaciones de improvisación en diversos lugares abarcaron desde instalaciones culturales locales, al aire libre hasta bases para movimientos estudiantiles.
 
 ---
 
@@ -147,7 +147,7 @@ También influyó en Brian Eno y Robert Ashley.
 
 ---
 
-##IX. Actividades posteriores y evaluación.
+##IX. Actividades y evaluación en años posteriores.
 
 Desde la década de 1980, Kosugi se ha desempeñado como director musical de la Merce Cunningham Dance Company.
 Si bien heredó la filosofía de John Cage, profundizó en la integración de la danza y el sonido.
@@ -196,7 +196,7 @@ Este es el mensaje más importante que nos dejó Kosugi.
 
 ---
 
-## Conclusión - Libertad de sonido y oración.
+## Conclusión: libertad de sonido y oración.
 
 El viaje del grupo de gira del Taj Mahal no fue sólo una "actuación de la banda en el extranjero".
 Fue un viaje espiritual que trascendió la institución de la música y resonó en el mundo.
@@ -205,6 +205,6 @@ Fue un viaje espiritual que trascendió la institución de la música y resonó 
 >—Takehisa Kosugi
 
 Incluso ahora, medio siglo después, los sonidos que emitieron todavía resuenan.
-Continúa vibrando silenciosamente en el aire, en la memoria y en lo profundo del corazón de quienes lo escuchan.
+Continúa vibrando silenciosamente en el aire, en los recuerdos y en lo profundo de los corazones de quienes lo escuchan.
 
 ---

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arti$try – The Worker.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Arti$try – The Worker/
+permalink: /es/arti-try-the-worker/
 tags:
 - House
 - 90s

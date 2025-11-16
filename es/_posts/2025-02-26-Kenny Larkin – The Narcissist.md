@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kenny Larkin – The Narcissist.webp
 lang: es
 layout: post
-permalink: /es/2025-02-26-Kenny Larkin – The Narcissist/
+permalink: /es/kenny-larkin-the-narcissist/
 tags:
 - House
 - Downtempo
@@ -36,5 +36,5 @@ Kenny Larkin es un productor y DJ de techno house de Detroit. Comenzó su carrer
 
 [Comprar en Mercari](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

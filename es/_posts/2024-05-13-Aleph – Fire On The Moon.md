@@ -5,12 +5,12 @@ categories:
 image: ../assets/images/Aleph – Fire On The Moon.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Aleph – Fire On The Moon/
+permalink: /es/aleph-fire-on-the-moon/
 tags:
 - Italo
 - Disco
 - 80s
-title: Aleph – Fuego en la Luna
+title: Aleph – Fuego en la luna
 ---
 
 

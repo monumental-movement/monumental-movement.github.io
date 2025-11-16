@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deep Forest – 2 Song Sampler.webp
 lang: es
 layout: post
-permalink: /es/2024-05-24-Deep Forest – 2 Song Sampler/
+permalink: /es/deep-forest-2-song-sampler/
 tags:
 - Downtempo
 - Ethnic

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cheap Trick – In Color.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Cheap Trick – In Color/
+permalink: /es/cheap-trick-in-color/
 tags:
 - Rock
 - Pops

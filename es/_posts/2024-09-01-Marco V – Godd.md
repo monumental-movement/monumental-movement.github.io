@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marco V – Godd.webp
 lang: es
 layout: post
-permalink: /es/2024-09-01-Marco V – Godd/
+permalink: /es/marco-v-godd/
 tags:
 - Hard Trance
 - Tech Trance

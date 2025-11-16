@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fluke – Pulse.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Fluke – Pulse/
+permalink: /es/fluke-pulse/
 tags:
 - House
 - Progressive

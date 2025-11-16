@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-silence-sound.webp
 lang: es
 layout: post
-permalink: /es/2025-10-23-column-silence-sound/
+permalink: /es/column-silence-sound/
 tags:
 - Ambient
 - Ai
@@ -44,7 +44,7 @@ color: #fff;
 ## Capítulo 1: ¿Qué es escuchar sonido? — La escucha como reentrenamiento sensorial
 
 Hacemos demasiada "escucha inconsciente" en nuestra vida diaria.
-Sonidos de notificación de teléfonos inteligentes, anuncios del metro, ruidos de la calle.
+Sonidos de notificación de teléfonos inteligentes, anuncios de metro, ruidos de la calle.
 Pasan a un segundo plano de la conciencia y se convierten en sólo una pieza de información.
 
 Sin embargo, Cage y los compositores de música concreta nos animaron a practicar el redescubrimiento de la escucha.
@@ -135,7 +135,7 @@ mi -> F
 </div>
 
 Como muestra este diagrama, "escuchar" no es un acto pasivo, sino un acto creativo.
-El silencio no funciona como un "espacio" para tocar música, sino como un espacio para el pensamiento y la empatía.
+El silencio no funciona como un espacio para tocar música, sino como un espacio para el pensamiento y la empatía.
 
 ---
 

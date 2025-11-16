@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-10-inch-vinyl.webp
 lang: es
 layout: post
-permalink: /es/2025-10-11-Colum-10-Inch-Vinyl/
+permalink: /es/colum-10-inch-vinyl/
 tags:
 - Vinyl
 - 10inch
@@ -58,7 +58,7 @@ Además, la pequeña superficie de la placa reduce la distorsión interna, hacie
 
 ---
 
-### Edad de oro de 10 pulgadas de los años 50: el terreno experimental para el jazz y la música clásica
+### Edad de oro de 10 pulgadas de los años 50: terreno experimental para el jazz y la música clásica
 
 El modelo de 10 pulgadas alcanzó su apogeo durante los albores del jazz a principios de los años cincuenta.
 Sellos como Blue Note, Prestige y Clef limitaron la experimentación de los artistas al formato de 10 pulgadas.
@@ -112,7 +112,7 @@ Es una experiencia musical consciente del final, a diferencia de una lista de re
 
 ---
 
-### Capítulo final: El tiempo en la palma de tu mano, la ``densidad del sonido'' de 10 pulgadas
+### Capítulo final: El tiempo en la palma de tu mano, 10 pulgadas habla de la “densidad del sonido”
 
 10 pulgadas está incompleta pero completa.
 No es una historia larga ni una historia corta, sino un formato de "cuento corto".

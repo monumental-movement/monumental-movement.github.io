@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fable – When He's Gone (Ain't No Sunshine).webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Fable – When Hes Gone (Aint No Sunshine)/
+permalink: /es/fable-when-hes-gone-aint-no-sunshine/
 tags:
 - Trance
 - 00s

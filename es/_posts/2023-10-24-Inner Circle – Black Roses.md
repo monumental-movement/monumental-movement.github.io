@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Inner Circle – Black Roses.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Inner Circle – Black Roses/
+permalink: /es/inner-circle-black-roses/
 tags:
 - Reggae
 - Hiphop

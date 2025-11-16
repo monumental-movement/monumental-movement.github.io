@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Motiv One – Cosmik  Loop Progression.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Motiv One – Cosmik  Loop Progression/
+permalink: /es/motiv-one-cosmik-loop-progression/
 tags:
 - Drum n Bass
 title: Motiv One – Progresión del bucle cósmico

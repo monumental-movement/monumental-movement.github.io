@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Freddie McGregor – Carry Go Bring Come.webp
 lang: es
 layout: post
-permalink: /es/2024-12-19-Freddie McGregor – Carry Go Bring Come/
+permalink: /es/freddie-mcgregor-carry-go-bring-come/
 tags:
 - Reggae
 - 90s

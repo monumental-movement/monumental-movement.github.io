@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ikarus – 7 Days Out!.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Ikarus – 7 Days Out!/
+permalink: /es/ikarus-7-days-out/
 tags:
 - House
 - Tribal

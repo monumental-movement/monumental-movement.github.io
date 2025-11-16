@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Workshop 04.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Various – Workshop 04/
+permalink: /es/various-workshop-04/
 tags:
 - Deep House
 - Minimal

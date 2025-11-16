@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dub Tractor – Scary H H Loop.webp
 lang: es
 layout: post
-permalink: /es/2024-08-16-Dub Tractor – Scary H H Loop/
+permalink: /es/dub-tractor-scary-h-h-loop/
 tags:
 - Triphop
 - Experimental

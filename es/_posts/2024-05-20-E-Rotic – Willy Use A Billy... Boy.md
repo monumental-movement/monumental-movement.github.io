@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/E-Rotic – Willy Use A Billy Boy.webp
 lang: es
 layout: post
-permalink: /es/2024-05-20-E-Rotic – Willy Use A Billy... Boy/
+permalink: /es/e-rotic-willy-use-a-billy-boy/
 tags:
 - Euro
 - Euro House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Immense – Spontaneous Combustion.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Immense – Spontaneous Combustion/
+permalink: /es/immense-spontaneous-combustion/
 tags:
 - Rock
 - 90s

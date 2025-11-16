@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bitasika – Pali Pali.webp
 lang: es
 layout: post
-permalink: /es/2025-06-03-Bitasika – Pali Pali/
+permalink: /es/bitasika-pali-pali/
 tags:
 - Jazz
 - Folk

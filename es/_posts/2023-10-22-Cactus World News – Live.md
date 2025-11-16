@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cactus World News – Live.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Cactus World News – Live/
+permalink: /es/cactus-world-news-live/
 tags:
 - Rock
 - Alternative Rock

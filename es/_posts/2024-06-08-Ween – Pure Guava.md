@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ween – Pure Guava.webp
 lang: es
 layout: post
-permalink: /es/2024-06-08-Ween – Pure Guava/
+permalink: /es/ween-pure-guava/
 tags:
 - Alternative Rock
 - Abstract

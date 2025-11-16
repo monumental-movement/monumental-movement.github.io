@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dee Jacobee – I'm Alive Todd Terry Mix.webp
 lang: es
 layout: post
-permalink: /es/2025-05-31-Dee Jacobee – I'm Alive Todd Terry Mix/
+permalink: /es/dee-jacobee-i-m-alive-todd-terry-mix/
 tags:
 - Electronic
 - House

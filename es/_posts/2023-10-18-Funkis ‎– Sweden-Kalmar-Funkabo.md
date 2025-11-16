@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Funkis – Sweden-Kalmar-Funkabo.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Funkis ‎– Sweden-Kalmar-Funkabo/
+permalink: /es/funkis-sweden-kalmar-funkabo/
 tags:
 - Techno
 - Minimal

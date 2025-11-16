@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yoko Kanno feat. Maaya Sakamoto – 23時の音楽.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-Yoko Kanno feat. Maaya Sakamoto – 11 oclock Music/
+permalink: /es/yoko-kanno-feat-maaya-sakamoto-11-oclock-music/
 tags:
 - Soundtrack
 - Jpop

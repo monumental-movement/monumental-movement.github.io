@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Simone Fedi – Belzebu Tales.webp
 lang: es
 layout: post
-permalink: /es/2024-04-15-Simone Fedi – Belzebù Tales/
+permalink: /es/simone-fedi-belzebù-tales/
 tags:
 - Disco
 - House

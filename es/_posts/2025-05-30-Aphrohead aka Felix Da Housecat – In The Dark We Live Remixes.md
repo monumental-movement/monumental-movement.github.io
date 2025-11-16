@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aphrohead aka Felix Da Housecat – In The Dark We Live Remixes.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Aphrohead aka Felix Da Housecat – In The Dark We Live Remixes/
+permalink: /es/aphrohead-aka-felix-da-housecat-in-the-dark-we-live-remixes/
 tags:
 - Electronic
 - Techno

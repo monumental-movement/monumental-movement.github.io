@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Rascals – People Got To Be Free My World.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-The Rascals – People Got To Be Free My World/
+permalink: /es/the-rascals-people-got-to-be-free-my-world/
 tags:
 - Funk
 - Soul

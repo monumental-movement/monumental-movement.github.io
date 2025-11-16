@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mike Ink – Paroles.webp
 lang: es
 layout: post
-permalink: /es/2025-06-30-Mike Ink – Paroles/
+permalink: /es/mike-ink-paroles/
 tags:
 - Breakbeat
 - House

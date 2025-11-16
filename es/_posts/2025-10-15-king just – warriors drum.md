@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/King Just – Warriors Drum.webp
 lang: es
 layout: post
-permalink: /es/2025-10-15-king just – warriors drum/
+permalink: /es/king-just-warriors-drum/
 tags:
 - Drum n Bass
 - Hiphop

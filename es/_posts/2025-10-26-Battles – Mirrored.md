@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Battles – Mirrored.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-Battles – Mirrored/
+permalink: /es/battles-mirrored/
 tags:
 - Math Rock
 - Experimental

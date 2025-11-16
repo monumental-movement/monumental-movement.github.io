@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – Its True/
+permalink: /es/axwell-sebastian-ingrosso-vs-salem-al-fakir-its-true/
 tags:
 - House
 - Progressive

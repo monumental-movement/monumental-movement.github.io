@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Unknown Artist – Just An Incident.webp
 lang: es
 layout: post
-permalink: /es/2025-05-26-Unknown Artist – Just An Incident/
+permalink: /es/unknown-artist-just-an-incident/
 tags:
 - Electronic
 - Techno

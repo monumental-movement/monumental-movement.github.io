@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-happy-hardcore.webp
 lang: es
 layout: post
-permalink: /es/2025-08-30-Pickup-Happy-Hardcore/
+permalink: /es/pickup-happy-hardcore/
 tags:
 - Happy Hardcore
 - 90s

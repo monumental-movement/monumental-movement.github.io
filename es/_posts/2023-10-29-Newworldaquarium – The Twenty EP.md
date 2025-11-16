@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Newworldaquarium – The Twenty EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Newworldaquarium – The Twenty EP/
+permalink: /es/newworldaquarium-the-twenty-ep/
 tags:
 - House
 - Techno

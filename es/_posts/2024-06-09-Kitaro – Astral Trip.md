@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kitaro – Astral Trip.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Kitaro – Astral Trip/
+permalink: /es/kitaro-astral-trip/
 tags:
 - New Age
 - Healing

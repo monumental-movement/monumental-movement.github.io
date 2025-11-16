@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Heart – Dreamboat Annie.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Heart – Dreamboat Annie/
+permalink: /es/heart-dreamboat-annie/
 tags:
 - Rock
 - Hard Rock

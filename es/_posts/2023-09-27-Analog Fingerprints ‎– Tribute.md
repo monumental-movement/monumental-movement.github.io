@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Analog Fingerprints – Tribute.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Analog Fingerprints ‎– Tribute/
+permalink: /es/analog-fingerprints-tribute/
 tags:
 - Techno
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Selu Vibra – Stargazing.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Selu Vibra – Stargazing/
+permalink: /es/selu-vibra-stargazing/
 tags:
 - Trance
 title: Selu Vibra – Observación de estrellas

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/ACDC – Flick Of The Switch.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-ACDC – Flick Of The Switch/
+permalink: /es/acdc-flick-of-the-switch/
 tags:
 - Rock
 - Hard Rock

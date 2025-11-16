@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Roberto Rodriguez – Moonraker Serenade EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Roberto Rodriguez – Moonraker Serenade EP/
+permalink: /es/roberto-rodriguez-moonraker-serenade-ep/
 tags:
 - House
 - Tech House

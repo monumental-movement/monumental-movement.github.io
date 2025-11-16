@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dillinja – Fluid Hard Noize.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Dillinja – Fluid Hard Noize/
+permalink: /es/dillinja-fluid-hard-noize/
 tags:
 - Drum n Bass
 title: Dillinja – Ruido duro y fluido

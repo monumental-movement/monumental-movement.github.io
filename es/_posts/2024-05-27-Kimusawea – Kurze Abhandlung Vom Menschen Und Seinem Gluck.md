@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp
 lang: es
 layout: post
-permalink: /es/2024-05-27-Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck/
+permalink: /es/kimusawea-kurze-abhandlung-vom-menschen-und-seinem-gluck/
 tags:
 - Hardcore
 - German Hardcore

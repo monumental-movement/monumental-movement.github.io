@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Long Live Tibet.webp
 lang: es
 layout: post
-permalink: /es/2024-12-17-VA – Long Live Tibet/
+permalink: /es/va-long-live-tibet/
 tags:
 - Alternative Rock
 - Britpop

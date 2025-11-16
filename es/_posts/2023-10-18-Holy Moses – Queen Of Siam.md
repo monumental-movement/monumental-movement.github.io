@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Holy Moses – Queen Of Siam.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Holy Moses – Queen Of Siam/
+permalink: /es/holy-moses-queen-of-siam/
 tags:
 - Rock
 - Thrash

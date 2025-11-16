@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gloria Gaynor – Never Can Say Goodbye 97.webp
 lang: es
 layout: post
-permalink: /es/2025-06-27-Gloria Gaynor – Never Can Say Goodbye 97/
+permalink: /es/gloria-gaynor-never-can-say-goodbye-97/
 tags:
 - House
 - Disco

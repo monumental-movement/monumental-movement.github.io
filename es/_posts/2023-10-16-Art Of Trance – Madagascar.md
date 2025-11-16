@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Art Of Trance – Madagascar.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Art Of Trance – Madagascar/
+permalink: /es/art-of-trance-madagascar/
 tags:
 - Trance
 title: El arte del trance – Madagascar

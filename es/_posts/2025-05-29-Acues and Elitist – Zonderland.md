@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Acues and Elitist – Zonderland.webp
 lang: es
 layout: post
-permalink: /es/2025-05-29-Acues and Elitist – Zonderland/
+permalink: /es/acues-and-elitist-zonderland/
 tags:
 - Electronic
 - Trance

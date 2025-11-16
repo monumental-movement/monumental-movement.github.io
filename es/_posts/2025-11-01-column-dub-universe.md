@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-dub-universe.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-dub-universe/
+permalink: /es/column-dub-universe/
 tags:
 - SoundSystem
 - UK Dub
@@ -101,7 +101,7 @@ Le dio al reggae una dimensión mítica y cósmica.
 > Solo escucho la voz y la mezclo. "
 > ―Lee “Scratch” Perry
 
-Su obra maestra, **The Upsetters ``Super Ape'' (1976)**, es
+Su obra maestra, **The Upsetters "Super Ape" (1976)**, es
 Es una "jungla sonora" donde se entrelazan la gravedad de los graves y la niebla de la reverberación.
 El Arca Negra fue destruida en un incendio en 1979.
 La leyenda se extendió por todas partes del mundo, incluido el Reino Unido.

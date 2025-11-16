@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tony de Vit – Are You All Ready.webp
 lang: es
 layout: post
-permalink: /es/2025-02-18-Tony de Vit – Are You All Ready UFO/
+permalink: /es/tony-de-vit-are-you-all-ready-ufo/
 tags:
 - House
 - Hard House
@@ -28,5 +28,5 @@ AA. UFO
 
 [Comprar en Mercari](https://jp.mercari.com/item/m40136771393?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qA6xvlGCFmc?si=hh_DE5cvP966G6s_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

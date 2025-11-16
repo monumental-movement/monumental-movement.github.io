@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Andrew McLauchlan – Love Story.webp
 lang: es
 layout: post
-permalink: /es/2025-09-02-Andrew McLauchlan – Love Story/
+permalink: /es/andrew-mclauchlan-love-story/
 tags:
 - Techno
 - Latin

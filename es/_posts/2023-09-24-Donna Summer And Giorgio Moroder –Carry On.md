@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Donna Summer And Giorgio Moroder –Carry On.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Donna Summer And Giorgio Moroder –Carry On/
+permalink: /es/donna-summer-and-giorgio-moroder-carry-on/
 tags:
 - House
 - Disco

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-field-recording.webp
 lang: es
 layout: post
-permalink: /es/2025-09-30-Column-Field-Recording/
+permalink: /es/column-field-recording/
 tags:
 - Field Recording
 - Ambient
@@ -43,7 +43,7 @@ color: #fff;
 <div class="mermaid">
 diagrama de flujo TD
 A["décadas de 1920-1950"] --> B["Era del coleccionismo folclórico (Lomax et al.)"]
-B --> C["Décadas de 1960-1970: Evolución de los dispositivos portátiles"]
+B --> C["Décadas de 1960-1970: Evolución de los equipos portátiles"]
 C --> D["Décadas de 1980 a 1990: aumento en la adopción ambiental/de campo (Eno, etc.)"]
 D --> E["Década de 2000-Presente: Digitalización y difusión de máquinas flotantes de 32 bits"]
 </div>
@@ -183,7 +183,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 - Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
 
-- López asume el reto de ``dejar el equipo en el entorno natural''.
+- López asume el reto de "dejar el equipo en el entorno natural".
 
 #### Micrófono de bricolaje de Toshiya Tsunoda
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Nolans –  Every Home Should Have One.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-The Nolans –  Every Home Should Have One/
+permalink: /es/the-nolans-every-home-should-have-one/
 tags:
 - Disco
 - Nostalgic

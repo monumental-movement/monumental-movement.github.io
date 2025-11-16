@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Alphaville – Romeos.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Alphaville – Romeos/
+permalink: /es/alphaville-romeos/
 tags:
 - Synth-Pop
 - New-Wave

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Junior Vasquez – Twilo Volume 1.webp
 lang: es
 layout: post
-permalink: /es/2024-12-18-Junior Vasquez – Twilo Volume 1/
+permalink: /es/junior-vasquez-twilo-volume-1/
 tags:
 - House
 - Mix

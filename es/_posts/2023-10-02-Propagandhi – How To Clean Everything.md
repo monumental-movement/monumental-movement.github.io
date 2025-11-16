@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Propagandhi – How To Clean Everything.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Propagandhi – How To Clean Everything/
+permalink: /es/propagandhi-how-to-clean-everything/
 tags:
 - Punk
 - Hardcore

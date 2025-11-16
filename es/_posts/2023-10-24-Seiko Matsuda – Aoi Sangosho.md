@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/松田聖子 – 青い珊瑚礁.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Seiko Matsuda – Aoi Sangosho/
+permalink: /es/seiko-matsuda-aoi-sangosho/
 tags:
 - JPop
 - Nostalgic

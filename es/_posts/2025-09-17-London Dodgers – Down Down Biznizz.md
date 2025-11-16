@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/London Dodgers – Down Down Biznizz.webp
 lang: es
 layout: post
-permalink: /es/2025-09-17-London Dodgers – Down Down Biznizz/
+permalink: /es/london-dodgers-down-down-biznizz/
 tags:
 - UK Garage
 - 00s

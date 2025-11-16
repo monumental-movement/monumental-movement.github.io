@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-detroit-techno.webp
 lang: es
 layout: post
-permalink: /es/2025-08-31-Pickup-Detroit-Techno/
+permalink: /es/pickup-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Características: Tema lanzado bajo el nombre “M” por Axis en 1992. Una canción que representa el minimal temprano de Detroit.
 
-Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con una sensación áspera pero resistente.
+Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con un sonido áspero pero potente.
 
 
 #### Lista de canciones

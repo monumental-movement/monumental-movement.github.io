@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Environments.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Various – Environments/
+permalink: /es/various-environments/
 tags:
 - Jazz
 - Abstract

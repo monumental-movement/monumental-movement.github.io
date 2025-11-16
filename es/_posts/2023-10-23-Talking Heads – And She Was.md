@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Talking Heads – And She Was.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Talking Heads – And She Was/
+permalink: /es/talking-heads-and-she-was/
 tags:
 - Rock
 - Alternative Rock

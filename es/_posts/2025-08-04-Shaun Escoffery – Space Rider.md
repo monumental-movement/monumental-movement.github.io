@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Shaun Escoffery – Space Rider.webp
 lang: es
 layout: post
-permalink: /es/2025-08-04-Shaun Escoffery – Space Rider/
+permalink: /es/shaun-escoffery-space-rider/
 tags:
 - UK Garage
 - Soul

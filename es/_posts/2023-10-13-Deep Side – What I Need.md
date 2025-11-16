@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deep Side – What I Need.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Deep Side – What I Need/
+permalink: /es/deep-side-what-i-need/
 tags:
 - Hiphop
 title: 'Lado profundo: lo que necesito'

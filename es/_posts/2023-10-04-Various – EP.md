@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Various – EP/
+permalink: /es/various-ep/
 tags:
 - Techno
 - Acid

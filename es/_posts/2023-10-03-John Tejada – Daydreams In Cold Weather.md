@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/John Tejada – Daydreams In Cold Weather.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-John Tejada – Daydreams In Cold Weather/
+permalink: /es/john-tejada-daydreams-in-cold-weather/
 tags:
 - IDM
 - Electro
@@ -14,7 +14,7 @@ title: John Tejada – Sueños despiertos en climas fríos
 
 
 “Sueños despiertos en climas fríos” es
-Un LP doble de John Tejada lanzado en 2002 en el sello británico Plug Research.
+Se trata de un LP doble de John Tejada lanzado en 2002 por el sello británico "Plug Research".
 
 #### Lista de canciones
 ```md

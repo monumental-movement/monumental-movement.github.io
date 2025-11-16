@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Culture Beat – No Deeper Meaning.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Culture Beat – No Deeper Meaning/
+permalink: /es/culture-beat-no-deeper-meaning/
 tags:
 - New Beat
 - Euro Beat

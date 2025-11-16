@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Quicksilver – Cosmophobia.webp
 lang: es
 layout: post
-permalink: /es/2024-06-29-DJ Quicksilver – Cosmophobia/
+permalink: /es/dj-quicksilver-cosmophobia/
 tags:
 - Trance
 - Anthem

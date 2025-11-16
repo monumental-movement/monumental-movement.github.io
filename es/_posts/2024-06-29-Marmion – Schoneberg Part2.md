@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marmion – Schoneberg Part2.webp
 lang: es
 layout: post
-permalink: /es/2024-06-29-Marmion – Schoneberg Part2/
+permalink: /es/marmion-schoneberg-part2/
 tags:
 - Trance
 - Techno

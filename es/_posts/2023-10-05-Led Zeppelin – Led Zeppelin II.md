@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Led Zeppelin – Led Zeppelin II.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Led Zeppelin – Led Zeppelin II/
+permalink: /es/led-zeppelin-led-zeppelin-ii/
 tags:
 - Rock
 - Hard Rock

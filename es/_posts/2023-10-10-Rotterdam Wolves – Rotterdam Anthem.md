@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rotterdam Wolves – Rotterdam Anthem.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Rotterdam Wolves – Rotterdam Anthem/
+permalink: /es/rotterdam-wolves-rotterdam-anthem/
 tags:
 - Techno
 - Gabber

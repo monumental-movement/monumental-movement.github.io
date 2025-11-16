@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ozgur Can – Irony.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Ozgur Can – Irony/
+permalink: /es/ozgur-can-irony/
 tags:
 - Trance
 - Progressive

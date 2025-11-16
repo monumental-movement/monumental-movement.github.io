@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-bay-area-san-francisco-nose.webp
 lang: es
 layout: post
-permalink: /es/2025-10-01-Column-Bay-Area-San-Francisco-Noise/
+permalink: /es/column-bay-area-san-francisco-noise/
 tags:
 - Noise
 - Experimental

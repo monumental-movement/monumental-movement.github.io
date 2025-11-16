@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-tribal-house.webp
 lang: es
 layout: post
-permalink: /es/2025-09-07-Column-Tribal-House/
+permalink: /es/column-tribal-house/
 tags:
 - Tribal House
 - 90s
@@ -60,7 +60,7 @@ A mediados de los 90 aparecieron sellos y recopilatorios que traspasaron los lí
 ## Transformación y comercialización (década de 2000)
 
 **Antecedentes de la época**
-En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado principalmente en hardware a estar basado en un DAW, lo que permite crear diseños de sonido más sofisticados.
+En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado en hardware a estar basado en DAW, lo que permite crear diseños de sonido más sofisticados.
 
 **Cambio en el método de producción**
 - Procesamiento de instrumentos de percusión con amplio uso de procesamiento de efectos (filtro/reverb/delay).
@@ -90,7 +90,7 @@ La globalización y el auge del streaming han acelerado la fusión con el afro h
 ## Cronología del equipo (simplificada)
 - **Década de 1980 ~ principios de los 90**: Technics SL-1200 (tocadiscos), Roland TR-909/TR-808 (caja de ritmos), primeros samplers de Akai/E-mu. Referencias: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mediados de los años 90 y 2000**: uso intensivo de la serie Akai MPC y muestreadores de hardware (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb: una breve historia del Akai MPC</a>).
-- **Década de 2010~Presente**: funcionamiento híbrido de DAW (Ableton/Logic), muestras de software como Kontakt y Maschine, y MPC.
+- **Década de 2010~Presente**: funcionamiento híbrido de DAW (Ableton/Logic), muestras suaves como Kontakt y Maschine, y MPC.
 
 ---
 

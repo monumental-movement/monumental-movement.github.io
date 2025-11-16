@@ -5,11 +5,11 @@ categories:
 image: ../assets/images/Nobukazu Takemura – Meteor.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Nobukazu Takemura – Meteor/
+permalink: /es/nobukazu-takemura-meteor/
 tags:
 - Techno
 - Minimal
-title: Nobukazu Takemura – Meteorito
+title: Nobukazu Takemura – Meteoro
 ---
 
 

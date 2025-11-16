@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Murcof – Ulysses.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Murcof – Ulysses/
+permalink: /es/murcof-ulysses/
 tags:
 - Ambient
 - Minimal

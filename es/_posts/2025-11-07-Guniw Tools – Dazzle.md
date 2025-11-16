@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Guniw Tools – Dazzle.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Guniw Tools – Dazzle/
+permalink: /es/guniw-tools-dazzle/
 tags:
 - Industrial
 - Electro

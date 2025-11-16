@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dao Dezi – La Jument De Mishao.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Dao Dezi – La Jument De Mishao/
+permalink: /es/dao-dezi-la-jument-de-mishao/
 tags:
 - Euro
 - Euro House

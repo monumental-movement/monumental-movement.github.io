@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robbie Craig – 15 Candles.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-Robbie Craig – 15 Candles/
+permalink: /es/robbie-craig-15-candles/
 tags:
 - House
 - UK Garage

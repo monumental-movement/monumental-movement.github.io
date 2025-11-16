@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Genecom – Quaternary EP.webp
 lang: es
 layout: post
-permalink: /es/2025-09-19-Genecom – Quaternary EP/
+permalink: /es/genecom-quaternary-ep/
 tags:
 - Trance
 - Techno

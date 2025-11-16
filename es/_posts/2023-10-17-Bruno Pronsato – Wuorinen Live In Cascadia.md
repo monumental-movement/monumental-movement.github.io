@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bruno Pronsato – Wuorinen Live In Cascadia.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Bruno Pronsato – Wuorinen Live In Cascadia/
+permalink: /es/bruno-pronsato-wuorinen-live-in-cascadia/
 tags:
 - Techno
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Radiohead - Kid A.webp
 lang: es
 layout: post
-permalink: /es/2024-12-04-Radiohead – Kid A/
+permalink: /es/radiohead-kid-a/
 tags:
 - Alternative Rock
 - Leftfield

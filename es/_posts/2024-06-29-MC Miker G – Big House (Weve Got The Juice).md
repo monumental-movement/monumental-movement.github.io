@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/MC Miker G – Big House.webp
 lang: es
 layout: post
-permalink: /es/2024-06-29-MC Miker G – Big House (Weve Got The Juice)/
+permalink: /es/mc-miker-g-big-house-weve-got-the-juice/
 tags:
 - House
 - Hiphop

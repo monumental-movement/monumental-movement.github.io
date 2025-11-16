@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stompy – Starlight G-Netic – The New Odyssey.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Stompy – Starlight G-Netic –The New Odyssey/
+permalink: /es/stompy-starlight-g-netic-the-new-odyssey/
 tags:
 - Happy Hardcore
 - Techno

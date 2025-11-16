@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gamma Loop – X-Ray Eyes.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Gamma Loop – X-Ray Eyes/
+permalink: /es/gamma-loop-x-ray-eyes/
 tags:
 - Electronic
 - House

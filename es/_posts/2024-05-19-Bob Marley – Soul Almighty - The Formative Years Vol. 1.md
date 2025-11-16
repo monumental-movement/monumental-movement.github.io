@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bob Marley – Soul Almighty - The Formative Years Vol. 1.webp
 lang: es
 layout: post
-permalink: /es/2024-05-19-Bob Marley – Soul Almighty - The Formative Years Vol. 1/
+permalink: /es/bob-marley-soul-almighty-the-formative-years-vol-1/
 tags:
 - Reggae
 - Roots Reggae

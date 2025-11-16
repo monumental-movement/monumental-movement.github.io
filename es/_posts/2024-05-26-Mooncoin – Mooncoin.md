@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mooncoin – Mooncoin.webp
 lang: es
 layout: post
-permalink: /es/2024-05-26-Mooncoin – Mooncoin/
+permalink: /es/mooncoin-mooncoin/
 tags:
 - Tribal
 - Ireland

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Baruka – Play It Loud.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Baruka – Play It Loud/
+permalink: /es/baruka-play-it-loud/
 tags:
 - Techno
 title: Baruka – Tócalo fuerte

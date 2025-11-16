@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Formologic – Symphonic Language.webp
 lang: es
 layout: post
-permalink: /es/2024-06-20-Formologic – Symphonic Language/
+permalink: /es/formologic-symphonic-language/
 tags:
 - Trance
 - Dutch Trance

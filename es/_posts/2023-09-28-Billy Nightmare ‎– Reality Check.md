@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Billy Nightmare – Reality Check.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Billy Nightmare ‎– Reality Check/
+permalink: /es/billy-nightmare-reality-check/
 tags:
 - Techno
 - Acid

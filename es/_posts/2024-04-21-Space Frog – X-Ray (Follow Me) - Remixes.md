@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Space Frog – X-Ray (Follow Me) - Remixes.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Space Frog – X-Ray (Follow Me) - Remixes/
+permalink: /es/space-frog-x-ray-follow-me-remixes/
 tags:
 - Trance
 - German Trance

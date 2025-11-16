@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Invitation To Denon PCM (A Magnificient New Recording System).webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Invitation To Denon  PCM (A Magnificient New Recording System)/
+permalink: /es/invitation-to-denon-pcm-a-magnificient-new-recording-system/
 tags:
 - Classic
 - Compilation

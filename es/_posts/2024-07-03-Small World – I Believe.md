@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Small World – I Believe.webp
 lang: es
 layout: post
-permalink: /es/2024-07-03-Small World – I Believe/
+permalink: /es/small-world-i-believe/
 tags:
 - Triphop
 - Downtempo

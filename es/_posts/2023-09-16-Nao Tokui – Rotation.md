@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nao Tokui – Rotation.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Nao Tokui – Rotation/
+permalink: /es/nao-tokui-rotation/
 tags:
 - Techno
 - Minimal

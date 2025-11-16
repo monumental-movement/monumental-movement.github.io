@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Strip Steve – Skip School EP.webp
 lang: es
 layout: post
-permalink: /es/2024-06-13-Strip Steve – Skip School EP/
+permalink: /es/strip-steve-skip-school-ep/
 tags:
 - Techno
 - House

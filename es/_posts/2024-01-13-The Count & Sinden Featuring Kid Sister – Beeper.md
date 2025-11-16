@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Count & Sinden Featuring Kid Sister – Beeper.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-The Count & Sinden Featuring Kid Sister – Beeper/
+permalink: /es/the-count-sinden-featuring-kid-sister-beeper/
 tags:
 - House
 - Garage House

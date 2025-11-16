@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aux 88 – Electro Boogie.webp
 lang: es
 layout: post
-permalink: /es/2025-02-25-Aux 88 – Electro Boogie/
+permalink: /es/aux-88-electro-boogie/
 tags:
 - Electro
 - Techno
@@ -40,5 +40,5 @@ El tercer electro boogie de Studio K7 lanzado en 1999. Detroit techno/electro mi
 
 [Comprar en Mercari](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

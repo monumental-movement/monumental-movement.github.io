@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lexy Autotune – Shibuya Love.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Lexy Autotune – Shibuya Love/
+permalink: /es/lexy-autotune-shibuya-love/
 tags:
 - Electro House
 - Tech House

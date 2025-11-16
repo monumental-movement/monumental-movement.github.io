@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Passionata –  Himiko.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Passionata –  Himiko/
+permalink: /es/passionata-himiko/
 tags:
 - Disco
 - Synth-Pop

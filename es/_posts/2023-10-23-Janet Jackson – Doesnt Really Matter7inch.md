@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Janet Jackson – Doesn't Really Matter7inch.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Janet Jackson – Doesnt Really Matter7inch/
+permalink: /es/janet-jackson-doesnt-really-matter7inch/
 tags:
 - Hiphop
 - Deep House

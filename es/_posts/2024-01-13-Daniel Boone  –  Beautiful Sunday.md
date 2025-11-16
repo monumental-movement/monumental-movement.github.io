@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Daniel Boone  –  Beautiful Sunday.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Daniel Boone  –  Beautiful Sunday/
+permalink: /es/daniel-boone-beautiful-sunday/
 tags:
 - Nostalgic
 - 7inch

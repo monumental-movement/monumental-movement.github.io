@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Distance – Night Vision Traffic (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Distance – Night Vision Traffic (Remixes)/
+permalink: /es/distance-night-vision-traffic-remixes/
 tags:
 - Dubstep
 - Industrial

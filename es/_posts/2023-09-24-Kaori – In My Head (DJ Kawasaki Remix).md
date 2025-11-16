@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kaori – In My Head (DJ Kawasaki Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Kaori – In My Head (DJ Kawasaki Remix)/
+permalink: /es/kaori-in-my-head-dj-kawasaki-remix/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-shpongle.webp
 lang: es
 layout: post
-permalink: /es/2025-10-05-Column-Shpongle/
+permalink: /es/column-shpongle/
 tags:
 - Psy-Trance
 - Trance
@@ -19,7 +19,7 @@ title: '[Columna] Shpongle: Reencarnación del sonido y viaje de la conciencia'
 Texto: mmr｜Tema: Filosofía del universo acústico dibujado por Raja Ram y Simon Posford
 
 
-Shpongle es un monumental proyecto psicodélico/electrónico psicodélico centrado en Simon Posford y Raja Ram. Formados en 1996, inspirados en el eclipse solar total en la India, han presentado un "viaje de audio" que fusiona muestreo étnico, instrumentación acústica y una magistral producción de estudio. Su imagen sonora se distingue del trance de discoteca e invita a los oyentes a una historia que trasciende el tiempo y el espacio.
+Shpongle es un monumental proyecto psicodélico/electrónico psicodélico centrado en Simon Posford y Raja Ram. Formada en 1996, inspirada por el eclipse solar total en la India, la banda ha presentado un "viaje de audio" que fusiona muestreo étnico, instrumentación acústica y una magistral producción de estudio. Su imagen sonora se distingue del trance de discoteca e invita a los oyentes a una historia que trasciende el tiempo y el espacio.
 
 ---
 
@@ -345,7 +345,7 @@ El sonido trasciende la ciencia, la filosofía, la religión y la tecnología.
 Él está reconstruyendo la conciencia humana misma como sonido.
 
 No es sólo música.
-Es una evolución del propio acto de "escuchar",
+Es la evolución del propio acto de "escuchar",
 Es el mandala de la conciencia que Raja Ram y Simon Posford dejaron a la humanidad.
 
 > "El sonido nace, desaparece y regresa. Eso es Shpongle."

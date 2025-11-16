@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Terrell – Unstoppable.webp
 lang: es
 layout: post
-permalink: /es/2024-11-02-Terrell – Unstoppable/
+permalink: /es/terrell-unstoppable/
 tags:
 - Hiphop
 - Rap

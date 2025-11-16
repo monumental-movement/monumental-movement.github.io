@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-glitch.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Column-Glitch/
+permalink: /es/column-glitch/
 tags:
 - Glitch
 - Noise

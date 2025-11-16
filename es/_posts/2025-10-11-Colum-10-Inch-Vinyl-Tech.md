@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-10-inch-vinyl-tech.webp
 lang: es
 layout: post
-permalink: /es/2025-10-11-Colum-10-Inch-Vinyl-Tech/
+permalink: /es/colum-10-inch-vinyl-tech/
 tags:
 - Vinyl
 - 10inch

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sven Vath – Fusion.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Sven Vath – Fusion/
+permalink: /es/sven-vath-fusion/
 tags:
 - Techno
 - Ambient

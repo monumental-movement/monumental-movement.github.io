@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Blast From The Past EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Various – Blast From The Past EP/
+permalink: /es/various-blast-from-the-past-ep/
 tags:
 - House
 - Deep House

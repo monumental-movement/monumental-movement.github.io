@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tukan – Light A Rainbow.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Tukan – Light A Rainbow/
+permalink: /es/tukan-light-a-rainbow/
 tags:
 - Trance
 - German Trance

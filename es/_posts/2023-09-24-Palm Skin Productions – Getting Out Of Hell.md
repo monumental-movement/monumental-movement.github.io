@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Palm Skin Productions – Getting Out Of Hell.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Palm Skin Productions – Getting Out Of Hell/
+permalink: /es/palm-skin-productions-getting-out-of-hell/
 tags:
 - Acid Jazz
 - Jazz

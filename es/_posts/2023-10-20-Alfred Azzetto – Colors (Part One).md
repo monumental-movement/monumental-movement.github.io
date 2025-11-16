@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Alfred Azzetto – Colors (Part One).webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Alfred Azzetto – Colors (Part One)/
+permalink: /es/alfred-azzetto-colors-part-one/
 tags:
 - House
 title: Alfred Azzetto – Colores (Primera parte)

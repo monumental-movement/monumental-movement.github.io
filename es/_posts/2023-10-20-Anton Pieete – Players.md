@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Anton Pieete – Players.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Anton Pieete – Players/
+permalink: /es/anton-pieete-players/
 tags:
 - Techno
 - Minimal

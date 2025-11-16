@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Of Montreal – The Gay Parade.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Of Montreal – The Gay Parade/
+permalink: /es/of-montreal-the-gay-parade/
 tags:
 - Rock
 - Psychedelic

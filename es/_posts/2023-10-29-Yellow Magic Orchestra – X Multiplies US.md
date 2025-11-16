@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yellow Magic Orchestra – X Multiplies US.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Yellow Magic Orchestra – X Multiplies US/
+permalink: /es/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno

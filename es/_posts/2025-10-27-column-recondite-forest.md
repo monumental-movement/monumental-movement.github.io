@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-recondite-forest.webp
 lang: es
 layout: post
-permalink: /es/2025-10-27-column-recondite-forest/
+permalink: /es/column-recondite-forest/
 tags:
 - Techno
 - Ambient
@@ -170,7 +170,7 @@ Imita el proceso mediante el cual los sonidos naturales estabilizan la psique hu
 ## Capítulo 9: Consideraciones filosóficas - El yo como bosque
 
 El acto de escuchar las obras de Recondite es
-Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse con la naturaleza".
+Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse a la naturaleza".
 Es como **un baño auditivo en el bosque**.
 
 El filósofo Maurice Merleau-Ponty

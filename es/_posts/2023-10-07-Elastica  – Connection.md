@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elastica  – Connection.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Elastica  – Connection/
+permalink: /es/elastica-connection/
 tags:
 - Rock
 - Indie Rock

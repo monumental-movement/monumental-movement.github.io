@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Spudmonsters – No Guarantees.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-The Spudmonsters – No Guarantees/
+permalink: /es/the-spudmonsters-no-guarantees/
 tags:
 - Hardcore
 - Rock

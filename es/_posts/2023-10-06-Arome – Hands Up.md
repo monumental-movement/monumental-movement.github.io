@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arome – Hands Up.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Arome – Hands Up/
+permalink: /es/arome-hands-up/
 tags:
 - Trance
 - Hard Trance

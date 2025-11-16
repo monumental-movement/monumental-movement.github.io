@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kid Creole And The Coconuts – I Got My Handy On.webp
 lang: es
 layout: post
-permalink: /es/2025-07-19-Kid Creole And The Coconuts – I Got My Handy On/
+permalink: /es/kid-creole-and-the-coconuts-i-got-my-handy-on/
 tags:
 - House
 - Euro House

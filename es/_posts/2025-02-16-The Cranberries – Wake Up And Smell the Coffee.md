@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Cranberries – Wake Up And Smell the Coffee.webp
 lang: es
 layout: post
-permalink: /es/2025-02-16-The Cranberries – Wake Up And Smell the Coffee/
+permalink: /es/the-cranberries-wake-up-and-smell-the-coffee/
 tags:
 - Pop Rock
 - Alternative Rock

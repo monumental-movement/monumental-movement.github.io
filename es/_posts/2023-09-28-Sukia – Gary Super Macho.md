@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sukia – Gary Super Macho.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Sukia – Gary Super Macho/
+permalink: /es/sukia-gary-super-macho/
 tags:
 - Hiphop
 - Triphop

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Geodezik – Trap EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Geodezik – Trap EP/
+permalink: /es/geodezik-trap-ep/
 tags:
 - Techno
 title: Geodezik – Trampa EP

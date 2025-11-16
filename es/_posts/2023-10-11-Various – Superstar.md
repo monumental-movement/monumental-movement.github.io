@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Superstar.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Various – Superstar/
+permalink: /es/various-superstar/
 tags:
 - Reggae
 - Dancehall

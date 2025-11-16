@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Giorgio Moroder – Evolution Get On Down.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Giorgio Moroder – Evolution Get On Down/
+permalink: /es/giorgio-moroder-evolution-get-on-down/
 tags:
 - House
 - Disco

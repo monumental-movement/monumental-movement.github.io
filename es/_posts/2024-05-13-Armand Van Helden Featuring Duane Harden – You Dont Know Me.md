@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Armand Van Helden Featuring Duane Harden – You Dont Know Me.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Armand Van Helden Featuring Duane Harden – You Dont Know
-  Me/
+permalink: /es/armand-van-helden-featuring-duane-harden-you-dont-know-me/
 tags:
 - House
 - Garage House

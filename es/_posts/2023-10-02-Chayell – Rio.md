@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Chayell – Rio.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Chayell – Rio/
+permalink: /es/chayell-rio/
 tags:
 - New Beat
 title: Chayell – Río

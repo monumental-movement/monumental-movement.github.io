@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Faithless – Why Go.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Faithless – Why Go/
+permalink: /es/faithless-why-go/
 tags:
 - Trance
 - House

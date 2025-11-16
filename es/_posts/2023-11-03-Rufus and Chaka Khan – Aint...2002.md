@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rufus and Chaka Khan – Ain't...2002.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Rufus and Chaka Khan – Aint...2002/
+permalink: /es/rufus-and-chaka-khan-aint-2002/
 tags:
 - House
 - 00s

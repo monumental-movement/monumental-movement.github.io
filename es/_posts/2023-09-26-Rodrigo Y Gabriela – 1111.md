@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rodrigo Y Gabriela – 1111.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Rodrigo Y Gabriela – 1111/
+permalink: /es/rodrigo-y-gabriela-1111/
 tags:
 - Latin
 - Folk

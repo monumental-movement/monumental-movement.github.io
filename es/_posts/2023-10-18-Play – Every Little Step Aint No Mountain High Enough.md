@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Play – Every Little Step Ain't No Mountain High Enough.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Play – Every Little Step Aint No Mountain High Enough/
+permalink: /es/play-every-little-step-aint-no-mountain-high-enough/
 tags:
 - R&B
 - Funk

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Chus And David Penn Feat. Caterina – Baila.webp
 lang: es
 layout: post
-permalink: /es/2024-11-23-DJ Chus And David Penn Feat. Caterina – Baila/
+permalink: /es/dj-chus-and-david-penn-feat-caterina-baila/
 tags:
 - Tribal House
 - Deep House

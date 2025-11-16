@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Emergency – Let Me Be.webp
 lang: es
 layout: post
-permalink: /es/2024-05-27-Emergency – Let Me Be/
+permalink: /es/emergency-let-me-be/
 tags:
 - Italo
 - Hi NRG

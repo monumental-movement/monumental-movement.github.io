@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robag Wruhme Metaboman – Zwei Maenner Im Split.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Robag Wruhme Metaboman – Zwei Maenner Im Split/
+permalink: /es/robag-wruhme-metaboman-zwei-maenner-im-split/
 tags:
 - Techno
 - Minimal

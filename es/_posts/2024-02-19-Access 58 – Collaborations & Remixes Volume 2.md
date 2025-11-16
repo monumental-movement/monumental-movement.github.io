@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Access 58 – Collaborations & Remixes Volume 2.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Access 58 – Collaborations & Remixes Volume 2/
+permalink: /es/access-58-collaborations-remixes-volume-2/
 tags:
 - Techno
 - Tech House

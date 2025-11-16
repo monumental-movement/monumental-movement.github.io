@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dynamik Bass System – Arabian Dreams.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Dynamik Bass System – Arabian Dreams/
+permalink: /es/dynamik-bass-system-arabian-dreams/
 tags:
 - Electro
 title: Sistema de bajo Dynamik – Arabian Dreams

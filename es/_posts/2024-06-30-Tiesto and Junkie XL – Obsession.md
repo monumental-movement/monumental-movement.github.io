@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tiesto and Junkie XL – Obsession.webp
 lang: es
 layout: post
-permalink: /es/2024-06-30-Tiesto and Junkie XL – Obsession/
+permalink: /es/tiesto-and-junkie-xl-obsession/
 tags:
 - Breakbeat
 - Trance

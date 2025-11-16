@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Beatles – Let It Be.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-The Beatles – Let It Be/
+permalink: /es/the-beatles-let-it-be/
 tags:
 - Rock
 - 70s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Corrina Joseph – Wish Tonite Lonely.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Corrina Joseph – Wish Tonite Lonely/
+permalink: /es/corrina-joseph-wish-tonite-lonely/
 tags:
 - Breakbeat
 - House

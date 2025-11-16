@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Quench – Dreams.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Quench – Dreams/
+permalink: /es/quench-dreams/
 tags:
 - Trance
 - 90s

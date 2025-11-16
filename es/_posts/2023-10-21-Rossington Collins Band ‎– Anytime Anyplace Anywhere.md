@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rossington Collins Band – Anytime Anyplace Anywhere.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Rossington Collins Band ‎– Anytime Anyplace Anywhere/
+permalink: /es/rossington-collins-band-anytime-anyplace-anywhere/
 tags:
 - Rock
 - Hard Rock

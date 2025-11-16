@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Barbee Boys – 負けるもんか.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Barbee Boys – makerumonka/
+permalink: /es/barbee-boys-makerumonka/
 tags:
 - JPop
 - 80s

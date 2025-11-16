@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rising Star – Touch Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Rising Star – Touch Me/
+permalink: /es/rising-star-touch-me/
 tags:
 - Trance
 title: Estrella en ascenso - Tócame

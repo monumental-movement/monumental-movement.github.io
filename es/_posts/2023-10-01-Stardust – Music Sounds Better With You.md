@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stardust – Music Sounds Better With You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Stardust – Music Sounds Better With You/
+permalink: /es/stardust-music-sounds-better-with-you/
 tags:
 - House
 - French House

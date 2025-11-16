@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-post-rock-ambient-movie-architecture.webp
 lang: es
 layout: post
-permalink: /es/2025-09-19-Column-Post-Rock-Ambient-Movie-Architecture/
+permalink: /es/column-post-rock-ambient-movie-architecture/
 tags:
 - Post Rock
 - Ambient
@@ -19,7 +19,7 @@ title: '[Columna] Interacción post-rock/ambient con el cine y la arquitectura'
 Texto: mmr｜Tema: Post Rock/Ambient y cine/arquitectura
 
 La evolución del post-rock/ambient no se limita solo a un género musical, sino que tiene afinidad con el arte espacial como el **cine, la arquitectura y la planificación urbana**.
-Aquí, además de obras maestras históricas, organizaremos interacciones con películas, arquitectura y experiencias ambientales en espacios urbanos.
+Además de obras maestras históricas, también organizaremos interacciones con películas y arquitectura, así como experiencias ambientales en espacios urbanos.
 
 ---
 
@@ -135,7 +135,7 @@ Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
 
 ## Conexión con la arquitectura y el urbanismo
 
-El ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
+El Ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
 
 ### Lugares típicos y experiencias acústicas.
 

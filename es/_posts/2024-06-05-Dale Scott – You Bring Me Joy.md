@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dale Scott – You Bring Me Joy.webp
 lang: es
 layout: post
-permalink: /es/2024-06-05-Dale Scott – You Bring Me Joy/
+permalink: /es/dale-scott-you-bring-me-joy/
 tags:
 - House
 - Garage House

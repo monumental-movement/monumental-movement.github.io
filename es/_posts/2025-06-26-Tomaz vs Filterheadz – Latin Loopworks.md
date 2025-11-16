@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tomaz vs Filterheadz – Latin Loopworks.webp
 lang: es
 layout: post
-permalink: /es/2025-06-26-Tomaz vs Filterheadz – Latin Loopworks/
+permalink: /es/tomaz-vs-filterheadz-latin-loopworks/
 tags:
 - Tribal
 - Techno

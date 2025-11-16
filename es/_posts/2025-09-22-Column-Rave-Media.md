@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-rave-media.webp
 lang: es
 layout: post
-permalink: /es/2025-09-22-Column-Rave-Media/
+permalink: /es/column-rave-media/
 tags:
 - Rave
 - Psy-Trance
@@ -79,7 +79,7 @@ Rave no era una fuente sonora ni una partitura, sino un fenómeno en sí mismo. 
 
 ### ¿Quién archiva? Deterioro de los medios
 
-**● Archivo espontáneo desde el subsuelo**
+**● Archivos espontáneos del subsuelo**
 
 Desde la década de 2000, han comenzado los siguientes intentos en todo el mundo.
 

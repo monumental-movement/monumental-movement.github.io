@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/MC Gringo – Gringao.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-MC Gringo – Gringao/
+permalink: /es/mc-gringo-gringao/
 tags:
 - Hiphop
 - Favela Funk

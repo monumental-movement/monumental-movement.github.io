@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Absolum – Regenerate D-Generate.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Absolum – Regenerate D-Generate/
+permalink: /es/absolum-regenerate-d-generate/
 tags:
 - Trance
 - Psychedelic
@@ -15,7 +15,7 @@ title: Absolum – Regenerar D-Generar
 
 Absolum es el alias del artista francés de psytrance Christof Drouillet.
 
-"Absolum – Regenerate / D-Generate" fue lanzado en 2000 por el sello británico de psytrance TIP.World, fundado por Raja Ram en 1999, aproximadamente un año después del fin de TIP Records.
+"Absolum – Regenerate / D-Generate" fue lanzado en 2000 por el sello británico de psytrance TIP.World, fundado por Raja Ram en 1999, aproximadamente un año después del final de TIP Records.
 
 #### Lista de canciones
 ```md

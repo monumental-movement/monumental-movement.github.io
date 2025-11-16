@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Matt Darey Presents Mash Up – Liberation.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Matt Darey Presents Mash Up – Liberation/
+permalink: /es/matt-darey-presents-mash-up-liberation/
 tags:
 - Trance
 title: Matt Darey presenta Mash Up – Liberación

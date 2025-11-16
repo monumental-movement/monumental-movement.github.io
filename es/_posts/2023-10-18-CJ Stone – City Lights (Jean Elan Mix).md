@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/CJ Stone – City Lights (Jean Elan Mix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-CJ Stone – City Lights (Jean Elan Mix)/
+permalink: /es/cj-stone-city-lights-jean-elan-mix/
 tags:
 - House
 - Remix

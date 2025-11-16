@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Big Punisher Wu All-Stars – Beware Soul In The Hole.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Big Punisher Wu All-Stars – Beware Soul In The Hole/
+permalink: /es/big-punisher-wu-all-stars-beware-soul-in-the-hole/
 tags:
 - Hiphop
 - Wu-Tang

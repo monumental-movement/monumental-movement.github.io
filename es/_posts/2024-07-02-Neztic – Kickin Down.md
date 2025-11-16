@@ -5,12 +5,12 @@ categories:
 image: ../assets/images/Neztic – Kickin' Down.webp
 lang: es
 layout: post
-permalink: /es/2024-07-02-Neztic – Kickin Down/
+permalink: /es/neztic-kickin-down/
 tags:
 - Breakbeat
 - Breaks
 - 00s
-title: Neztic - Pateando hacia abajo
+title: Neztic – Pateando hacia abajo
 ---
 
 

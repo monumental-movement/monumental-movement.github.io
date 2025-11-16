@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Real Life – Send Me An Angel '89.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Real Life – Send Me An Angel 89/
+permalink: /es/real-life-send-me-an-angel-89/
 tags:
 - House
 - Synth-Pop

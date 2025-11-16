@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-vinyl-revival.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-column-vinyl-revival/
+permalink: /es/column-vinyl-revival/
 tags:
 - Vinyl
 title: '[Columna] Nostalgia giratoria: la psicología del resurgimiento del vinilo'
@@ -127,7 +127,7 @@ título del pastel Cuota de mercado global de vinilo (estimación para 2025)
 "América del Norte": 42
 "Europa": 30
 "Asia Pacífico": 18
-"América del Sur/Otros": 10
+"América del Sur/Otros" : 10
 
 </div>
 

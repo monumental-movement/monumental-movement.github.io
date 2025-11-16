@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/CFD – Ross Mitchell Presents C.F.D. 3.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-CFD – Ross Mitchell Presents C.F.D. 3/
+permalink: /es/cfd-ross-mitchell-presents-c-f-d-3/
 tags:
 - Jazz
 - Latin

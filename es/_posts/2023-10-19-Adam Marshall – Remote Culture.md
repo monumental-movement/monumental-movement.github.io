@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adam Marshall – Remote Culture.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Adam Marshall – Remote Culture/
+permalink: /es/adam-marshall-remote-culture/
 tags:
 - Techno
 - Minimal

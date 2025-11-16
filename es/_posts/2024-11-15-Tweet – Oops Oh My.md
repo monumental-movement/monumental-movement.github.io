@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tweet – Oops Oh My.webp
 lang: es
 layout: post
-permalink: /es/2024-11-15-Tweet – Oops Oh My/
+permalink: /es/tweet-oops-oh-my/
 tags:
 - Hiphop
 - Soul

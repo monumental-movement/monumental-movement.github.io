@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Krafty Kuts – Uptight.webp
 lang: es
 layout: post
-permalink: /es/2024-10-20-Krafty Kuts – Uptight/
+permalink: /es/krafty-kuts-uptight/
 tags:
 - Breakbet
 - 00s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Depeche Mode – A Pain That I'm Used To.webp
 lang: es
 layout: post
-permalink: /es/2025-09-07-Depeche Mode – A Pain That Im Used To/
+permalink: /es/depeche-mode-a-pain-that-im-used-to/
 tags:
 - IDM
 - Electro

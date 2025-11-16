@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mark De Clive-Lowe – Six Degrees.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Mark De Clive-Lowe – Six Degrees/
+permalink: /es/mark-de-clive-lowe-six-degrees/
 tags:
 - House
 - Latin

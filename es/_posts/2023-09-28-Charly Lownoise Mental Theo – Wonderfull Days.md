@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Charly Lownoise Mental Theo – Wonderfull Days.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Charly Lownoise Mental Theo – Wonderfull Days/
+permalink: /es/charly-lownoise-mental-theo-wonderfull-days/
 tags:
 - Happy Hardcore
 title: Charly Lownoise Mental Theo – Días maravillosos

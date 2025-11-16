@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ural 13 Diktators – World Domination EP.webp
 lang: es
 layout: post
-permalink: /es/2025-09-10-Ural 13 Diktators – World Domination EP/
+permalink: /es/ural-13-diktators-world-domination-ep/
 tags:
 - Trance
 - Techno

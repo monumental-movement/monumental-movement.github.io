@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Johannes Heil – Future Primitive.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Johannes Heil – Future Primitive/
+permalink: /es/johannes-heil-future-primitive/
 tags:
 - Techno
 - German Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/V – Sub-Machine The Unheard.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-V – Sub-Machine The Unheard/
+permalink: /es/v-sub-machine-the-unheard/
 tags:
 - IDM
 - Indie Rock

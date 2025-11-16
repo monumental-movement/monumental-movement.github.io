@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Enigma – MCMXC a.D.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-Enigma – MCMXC a.D/
+permalink: /es/enigma-mcmxc-a-d/
 tags:
 - Downtempo
 - Ambient

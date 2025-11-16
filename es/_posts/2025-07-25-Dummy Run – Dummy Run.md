@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dummy Run – Dummy Run.webp
 lang: es
 layout: post
-permalink: /es/2025-07-25-Dummy Run – Dummy Run/
+permalink: /es/dummy-run-dummy-run/
 tags:
 - Leftfield
 - Drum n Bass

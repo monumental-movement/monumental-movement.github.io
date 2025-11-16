@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Beroshima – Dance The Machine.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Beroshima – Dance The Machine/
+permalink: /es/beroshima-dance-the-machine/
 tags:
 - Electronic
 - Techno

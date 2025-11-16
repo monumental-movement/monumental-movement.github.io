@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Phauna – Naturally (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Phauna – Naturally (Remixes)/
+permalink: /es/phauna-naturally-remixes/
 tags:
 - House
 - Deep House

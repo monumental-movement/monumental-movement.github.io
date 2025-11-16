@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Modjo – Chillin'.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Modjo – Chillin'/
+permalink: /es/modjo-chillin/
 tags:
 - House
 - French House

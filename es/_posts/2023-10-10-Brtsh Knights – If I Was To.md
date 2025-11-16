@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Brtsh Knights – If I Was To.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Brtsh Knights – If I Was To/
+permalink: /es/brtsh-knights-if-i-was-to/
 tags:
 - House
 - UK Garage

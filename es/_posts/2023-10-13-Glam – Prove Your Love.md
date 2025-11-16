@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Glam – Prove Your Love.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Glam – Prove Your Love/
+permalink: /es/glam-prove-your-love/
 tags:
 - Euro Beat
 - Rare

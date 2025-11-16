@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Teena Marie – It Must Be Magic.webp
 lang: es
 layout: post
-permalink: /es/2025-07-18-Teena Marie – It Must Be Magic/
+permalink: /es/teena-marie-it-must-be-magic/
 tags:
 - Soul
 - Funk

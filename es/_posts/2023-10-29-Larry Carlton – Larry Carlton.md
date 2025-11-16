@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Larry Carlton – Larry Carlton.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Larry Carlton – Larry Carlton/
+permalink: /es/larry-carlton-larry-carlton/
 tags:
 - Fusion Jazz
 - Jazz

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lauren Mitchell – All That I Can Be.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Lauren Mitchell – All That I Can Be/
+permalink: /es/lauren-mitchell-all-that-i-can-be/
 tags:
 - Electronic
 - Pop

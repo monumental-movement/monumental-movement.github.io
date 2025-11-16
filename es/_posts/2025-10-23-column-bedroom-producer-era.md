@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-bedroom-producer-era.webp
 lang: es
 layout: post
-permalink: /es/2025-10-23-column-bedroom-producer-era/
+permalink: /es/column-bedroom-producer-era/
 tags:
 - DAW
 - Techno
@@ -27,7 +27,7 @@ La magia de la producción musical, que alguna vez estuvo confinada a las parede
 
 Un productor de dormitorio no es sólo alguien que crea sonido por sí solo.
 Son la encarnación de la "democratización" de la industria musical y, al mismo tiempo, también son un símbolo de la "creatividad de la soledad".
-Hoy en día, con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un "espacio privado". A través de su red, se ha convertido en la base de una nueva ciudad de la música = ciudad digital.
+Con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un espacio privado. A través de su red, se ha convertido en la base de una nueva ciudad de la música = ciudad digital.
 
 ---
 
@@ -121,7 +121,7 @@ Hoy en día, el dormitorio se ha transformado en un taller no sólo de música, 
 
 ### Impacto de Hatsune Miku y Vocaloid
 
-En Japón, **Hatsune Miku**, introducida en 2007, se ha convertido en un símbolo de la cultura del dormitorio.
+En Japón, Hatsune Miku, presentada en 2007, se ha convertido en un símbolo de la cultura del dormitorio.
 Mediante la fusión de un software de síntesis de voz e Internet, un productor anónimo crea canciones exitosas una tras otra.
 supercélula, DECO27, ryo, wowaka...
 Sus actividades presentaron una nueva estructura llamada "música pop sin autor".
@@ -181,4 +181,4 @@ Y esas manos ya no están conectadas a través del mouse o el teclado MIDI.
 Conectado directamente con el mundo entero.
 
 >“De mi habitación a tu mundo”.
->- Ésa puede ser la imagen más honesta de la música en el siglo XXI.
+>- Ésa puede ser la imagen más honesta de la música del siglo XXI.

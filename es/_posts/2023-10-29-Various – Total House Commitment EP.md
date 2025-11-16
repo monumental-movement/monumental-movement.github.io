@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Total House Commitment EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Various – Total House Commitment EP/
+permalink: /es/various-total-house-commitment-ep/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/No Artist – Environments.webp
 lang: es
 layout: post
-permalink: /es/2024-05-21-No Artist – Environments/
+permalink: /es/no-artist-environments/
 tags:
 - Field Recording
 - Therapy

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-why-we-buy-vinyl.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-column-why-we-buy-vinyl/
+permalink: /es/column-why-we-buy-vinyl/
 tags:
 - Vinyl
 - Psychology
@@ -161,7 +161,7 @@ Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.
 
 diagrama de flujo TD
 A1877["1877: Edison inventó el fonógrafo"] --> A1901["1901: Difusión de SP (Shellac Record)"]
-A1901 --> A1948["1948: debut discográfico LP (Columbia Records)"]
+A1901 --> A1948["1948: Se introducen los discos LP (Columbia Records)"]
 A1948 --> A1963["1963: Nacimiento del casete compacto"]
 A1963 --> A1982["1982: debut en CD: el amanecer de la era digital"]
 A1982 --> A1999["1999: Revolución MP3/aparición de Napster"]

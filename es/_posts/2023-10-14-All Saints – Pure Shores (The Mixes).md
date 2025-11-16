@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/All Saints – Pure Shores (The Mixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-All Saints – Pure Shores (The Mixes)/
+permalink: /es/all-saints-pure-shores-the-mixes/
 tags:
 - House
 - Pops

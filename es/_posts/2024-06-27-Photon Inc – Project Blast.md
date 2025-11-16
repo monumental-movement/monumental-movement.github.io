@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Photon Inc – Project Blast.webp
 lang: es
 layout: post
-permalink: /es/2024-06-27-Photon Inc – Project Blast/
+permalink: /es/photon-inc-project-blast/
 tags:
 - House
 - Deep House

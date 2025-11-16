@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fantasia – Tonight's The Night.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Fantasia – Tonights The Night/
+permalink: /es/fantasia-tonights-the-night/
 tags:
 - House
 - Tech House

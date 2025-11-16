@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wasters Of The Scene – Wasters Of The Scene 01.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Wasters Of The Scene – Wasters Of The Scene 01/
+permalink: /es/wasters-of-the-scene-wasters-of-the-scene-01/
 tags:
 - House
 - Hard House

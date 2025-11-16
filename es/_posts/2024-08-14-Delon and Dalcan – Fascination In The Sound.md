@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Delon and Dalcan – Fascination.webp
 lang: es
 layout: post
-permalink: /es/2024-08-14-Delon and Dalcan – Fascination In The Sound/
+permalink: /es/delon-and-dalcan-fascination-in-the-sound/
 tags:
 - Electro House
 - 00s

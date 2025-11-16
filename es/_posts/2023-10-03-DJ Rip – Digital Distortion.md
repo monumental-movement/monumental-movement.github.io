@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Rip – Digital Distortion.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-DJ Rip – Digital Distortion/
+permalink: /es/dj-rip-digital-distortion/
 tags:
 - House
 - Hard House

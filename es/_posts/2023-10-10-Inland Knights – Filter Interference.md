@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Inland Knights – Filter Interference.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Inland Knights – Filter Interference/
+permalink: /es/inland-knights-filter-interference/
 tags:
 - House
 - Deep House

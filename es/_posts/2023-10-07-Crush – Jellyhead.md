@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Crush – Jellyhead.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Crush – Jellyhead/
+permalink: /es/crush-jellyhead/
 tags:
 - House
 - Euro House

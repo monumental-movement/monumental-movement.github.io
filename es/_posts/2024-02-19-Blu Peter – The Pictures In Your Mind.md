@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Blu Peter – The Pictures In Your Mind.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Blu Peter – The Pictures In Your Mind/
+permalink: /es/blu-peter-the-pictures-in-your-mind/
 tags:
 - Trance
 - 90s

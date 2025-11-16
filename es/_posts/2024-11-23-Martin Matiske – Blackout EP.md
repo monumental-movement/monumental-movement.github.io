@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Martin Matiske – Blackout EP.webp
 lang: es
 layout: post
-permalink: /es/2024-11-23-Martin Matiske – Blackout EP/
+permalink: /es/martin-matiske-blackout-ep/
 tags:
 - Electro
 - 00s

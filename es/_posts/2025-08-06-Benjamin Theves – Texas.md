@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Benjamin Theves – Texas.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Benjamin Theves – Texas/
+permalink: /es/benjamin-theves-texas/
 tags:
 - House
 - Electro

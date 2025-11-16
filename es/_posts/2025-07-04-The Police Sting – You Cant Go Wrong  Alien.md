@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Police Sting – You Can't Go Wrong Alien.webp
 lang: es
 layout: post
-permalink: /es/2025-07-04-The Police Sting – You Cant Go Wrong  Alien/
+permalink: /es/the-police-sting-you-cant-go-wrong-alien/
 tags:
 - House
 - Remix

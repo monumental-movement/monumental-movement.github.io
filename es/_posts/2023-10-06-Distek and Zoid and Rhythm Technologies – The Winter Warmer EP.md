@@ -6,8 +6,7 @@ image: ../assets/images/Distek and Zoid and Rhythm Technologies – The Winter W
   EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Distek and Zoid and Rhythm Technologies – The Winter Warmer
-  EP/
+permalink: /es/distek-and-zoid-and-rhythm-technologies-the-winter-warmer-ep/
 tags:
 - Techno
 title: Distek y Zoid y Rhythm Technologies – El EP Winter Warmer

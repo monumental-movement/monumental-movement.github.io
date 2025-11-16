@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tonga – Welcome To Sambatown.webp
 lang: es
 layout: post
-permalink: /es/2024-11-18-Tonga – Welcome To Sambatown/
+permalink: /es/tonga-welcome-to-sambatown/
 tags:
 - House
 - Latin

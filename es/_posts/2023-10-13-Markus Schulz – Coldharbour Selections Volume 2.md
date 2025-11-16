@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Markus Schulz – Coldharbour Selections Volume 2.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Markus Schulz – Coldharbour Selections Volume 2/
+permalink: /es/markus-schulz-coldharbour-selections-volume-2/
 tags:
 - Trance
 - Progressive

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elevate – Virtual Dreams  All I Need.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Elevate – Virtual Dreams  All I Need/
+permalink: /es/elevate-virtual-dreams-all-i-need/
 tags:
 - Happy Hardcore
 title: Elevate – Sueños virtuales Todo lo que necesito

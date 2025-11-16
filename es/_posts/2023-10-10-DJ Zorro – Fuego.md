@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Zorro – Fuego.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-DJ Zorro – Fuego/
+permalink: /es/dj-zorro-fuego/
 tags:
 - Techno
 - Hyper Techno

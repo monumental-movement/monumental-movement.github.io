@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Miles Davis – Blues Standards.webp
 lang: es
 layout: post
-permalink: /es/2024-05-18-Miles Davis – Blues Standards/
+permalink: /es/miles-davis-blues-standards/
 tags:
 - Jazz
 - Jazz Funk

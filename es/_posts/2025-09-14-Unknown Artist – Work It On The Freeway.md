@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Unknown Artist – Work It On The Freeway.webp
 lang: es
 layout: post
-permalink: /es/2025-09-14-Unknown Artist – Work It On The Freeway/
+permalink: /es/unknown-artist-work-it-on-the-freeway/
 tags:
 - Broken Beat
 - Latin

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Visionaries – If You Can't Say Love Domakesaythink.webp
 lang: es
 layout: post
-permalink: /es/2024-04-05-Visionaries – If You Cant Say Love Domakesaythink/
+permalink: /es/visionaries-if-you-cant-say-love-domakesaythink/
 tags:
 - Hiphop
 - Rap

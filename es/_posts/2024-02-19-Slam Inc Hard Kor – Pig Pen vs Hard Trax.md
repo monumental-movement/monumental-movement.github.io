@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Slam Inc Hard Kor – Pig Pen vs Hard Trax.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Slam Inc Hard Kor – Pig Pen vs Hard Trax/
+permalink: /es/slam-inc-hard-kor-pig-pen-vs-hard-trax/
 tags:
 - House
 - Hard House

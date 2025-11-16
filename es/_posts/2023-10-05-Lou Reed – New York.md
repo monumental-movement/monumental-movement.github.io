@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lou Reed – New York.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Lou Reed – New York/
+permalink: /es/lou-reed-new-york/
 tags:
 - Punk
 - Art Rock

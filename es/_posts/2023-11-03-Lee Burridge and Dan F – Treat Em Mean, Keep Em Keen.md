@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Lee Burridge and Dan F – Treat Em Mean, Keep Em Keen/
+permalink: /es/lee-burridge-and-dan-f-treat-em-mean-keep-em-keen/
 tags:
 - House
 - Minimal

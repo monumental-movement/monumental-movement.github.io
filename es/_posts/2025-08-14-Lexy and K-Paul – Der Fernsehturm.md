@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lexy & K-Paul – Der Fernsehturm.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Lexy and K-Paul – Der Fernsehturm/
+permalink: /es/lexy-and-k-paul-der-fernsehturm/
 tags:
 - Techno
 - Electro

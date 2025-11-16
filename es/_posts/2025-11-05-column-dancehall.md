@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-dancehall.webp
 lang: es
 layout: post
-permalink: /es/2025-11-05-column-dancehall/
+permalink: /es/column-dancehall/
 tags:
 - Jamaica
 - SoundSystem
@@ -156,7 +156,7 @@ Principales jugadores japoneses:
 ### ▪ Espíritu DIY y herencia moderna
 
 En los últimos años, se ha cruzado con el dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** están actualmente activos.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** y otros están actualmente activos.
 La raíz de esto es la filosofía del sistema de sonido de "producir nuestros propios sonidos con nuestras propias manos".
 
 ---
@@ -193,7 +193,7 @@ D --> G["Cultura del sistema de sonido japonés\n(década de 1990~)"]
 
 ---
 
-## Conclusión: ¿Adónde va el bajo?
+## Conclusión: ¿Hacia dónde se dirige el bajo?
 
 Un sistema de sonido es más que un simple equipo de audio.
 Es una infraestructura de autoexpresión y un símbolo de resistencia y solidaridad.
@@ -256,7 +256,7 @@ relleno estilo F:#e0ccff
 </div>
 
 Este diagrama muestra la red de culturas de sistemas de sonido independientes formadas por región.
-Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = Conexión directa a las calles'' y ``Okinawa = Punto de conexión entre el Caribe y Asia''.
+Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = conexión directa con las calles'' y ``Okinawa = el punto de conexión entre el Caribe y Asia''.
 
 ---
 
@@ -267,7 +267,7 @@ Las siguientes características son claras: ``Yokohama = orientación internacio
 
 gráfico LR
 A["Década de 1950<br/>Caja de altavoz hecha a mano<br/>(Era de amplificadores de válvulas)"] --> B["Década de 1960<br/>Mueble tipo bocina"]
-B --> C["Década de 1970<br/>Sistema de apilamiento de 4 posiciones"]
+B --> C["Década de 1970<br/>Sistema de apilamiento de 4 direcciones"]
 C --> D["años 80<br/>Mezclador digital + preamplificador"]
 D --> E["Década de 1990<br/>Procesador + amplificador activo"]
 E --> F["década de 2000<br/>Configuración de tarjeta de sonido/crossover basada en PC"]

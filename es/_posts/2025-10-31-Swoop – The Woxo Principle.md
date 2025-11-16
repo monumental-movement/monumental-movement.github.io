@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Swoop – The Woxo Principle.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-Swoop – The Woxo Principle/
+permalink: /es/swoop-the-woxo-principle/
 tags:
 - Rock
 - Funk

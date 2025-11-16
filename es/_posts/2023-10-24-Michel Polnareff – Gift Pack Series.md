@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Michel Polnareff – Gift Pack Series.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Michel Polnareff – Gift Pack Series/
+permalink: /es/michel-polnareff-gift-pack-series/
 tags:
 - Rock
 - Pops

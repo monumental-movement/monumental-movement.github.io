@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gunne – Erfurt EP.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Gunne – Erfurt EP/
+permalink: /es/gunne-erfurt-ep/
 tags:
 - House
 - Techno

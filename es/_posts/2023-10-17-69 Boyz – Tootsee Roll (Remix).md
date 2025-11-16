@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/69 Boyz – Tootsee Roll (Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-69 Boyz – Tootsee Roll (Remix)/
+permalink: /es/69-boyz-tootsee-roll-remix/
 tags:
 - Hiphop
 title: 69 Boyz – Tootsee Roll (Remezcla)

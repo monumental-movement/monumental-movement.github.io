@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Rock'N'Roll & Rock-A-Billy Inferno.webp
 lang: es
 layout: post
-permalink: /es/2025-07-11-VA – Rock'N'Roll & Rock-A-Billy Inferno/
+permalink: /es/va-rock-n-roll-rock-a-billy-inferno/
 tags:
 - Rockabilly
 - Rock

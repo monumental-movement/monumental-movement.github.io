@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Overnight Remixes II.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Various – Overnight Remixes II/
+permalink: /es/various-overnight-remixes-ii/
 tags:
 - Euro
 - Compilation

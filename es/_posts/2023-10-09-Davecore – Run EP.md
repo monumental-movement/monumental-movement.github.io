@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Davecore – Run! EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Davecore – Run EP/
+permalink: /es/davecore-run-ep/
 tags:
 - Electro
 - Breaks

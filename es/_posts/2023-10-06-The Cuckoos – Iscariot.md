@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Cuckoos – Iscariot.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-The Cuckoos – Iscariot/
+permalink: /es/the-cuckoos-iscariot/
 tags:
 - Rock
 - Indie Rock

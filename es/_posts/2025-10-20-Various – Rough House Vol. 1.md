@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Rough House Vol. 1.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Various – Rough House Vol. 1/
+permalink: /es/various-rough-house-vol-1/
 tags:
 - House
 - Acid House

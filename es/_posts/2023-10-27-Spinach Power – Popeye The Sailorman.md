@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spinach Power – Popeye The Sailorman.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Spinach Power – Popeye The Sailorman/
+permalink: /es/spinach-power-popeye-the-sailorman/
 tags:
 - Disco
 - 70s

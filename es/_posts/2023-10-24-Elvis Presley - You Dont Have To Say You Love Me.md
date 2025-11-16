@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elvis Presley - You Don't Have To Say You Love Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Elvis Presley - You Dont Have To Say You Love Me/
+permalink: /es/elvis-presley-you-dont-have-to-say-you-love-me/
 tags:
 - Rock
 - 70s

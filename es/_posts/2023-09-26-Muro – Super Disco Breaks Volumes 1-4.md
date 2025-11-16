@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Muro – Super Disco Breaks Volumes 1-4.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Muro – Super Disco Breaks Volumes 1-4/
+permalink: /es/muro-super-disco-breaks-volumes-1-4/
 tags:
 - Hiphop
 - Mix

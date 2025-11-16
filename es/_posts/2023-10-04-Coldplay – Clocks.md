@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Coldplay – Clocks.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Coldplay – Clocks/
+permalink: /es/coldplay-clocks/
 tags:
 - House
 - Electro

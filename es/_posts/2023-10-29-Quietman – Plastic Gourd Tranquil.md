@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Quietman – Plastic Gourd Tranquil.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Quietman – Plastic Gourd Tranquil/
+permalink: /es/quietman-plastic-gourd-tranquil/
 tags:
 - Trance
 - Techno

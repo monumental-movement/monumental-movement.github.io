@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hiroyuki Oda – Rise Cataract.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Hiroyuki Oda – Rise Cataract/
+permalink: /es/hiroyuki-oda-rise-cataract/
 tags:
 - Trance
 - 00s

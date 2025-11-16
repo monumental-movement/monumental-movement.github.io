@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Octave One – Blackwater.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Octave One – Blackwater/
+permalink: /es/octave-one-blackwater/
 tags:
 - Techno
 - Remix

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dandy – Casanova.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Dandy – Casanova/
+permalink: /es/dandy-casanova/
 tags:
 - Euro Beat
 - Hi NRG

@@ -6,8 +6,7 @@ image: ../assets/images/Process Kosuke Anamizu – Elektronische Musik -Interkon
   3 (Part 2).webp
 lang: es
 layout: post
-permalink: /es/2025-06-30-Process Kosuke Anamizu – Elektronische Musik -Interkontinental
-  3 (Part 2)/
+permalink: /es/process-kosuke-anamizu-elektronische-musik-interkontinental-3-part-2/
 tags:
 - Tech House
 - House

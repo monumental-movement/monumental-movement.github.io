@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yellowman – Rambo.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Yellowman – Rambo/
+permalink: /es/yellowman-rambo/
 tags:
 - Reggae
 - Dancehall

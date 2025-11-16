@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Nozawa + Capital – Ai Autumn Oak.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-DJ Nozawa + Capital – Ai Autumn Oak/
+permalink: /es/dj-nozawa-capital-ai-autumn-oak/
 tags:
 - Hiphop
 title: DJ Nozawa + Capital – Ai Otoño Roble

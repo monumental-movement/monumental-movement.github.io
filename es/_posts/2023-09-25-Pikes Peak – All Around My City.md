@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pike's Peak – All Around My City.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Pikes Peak – All Around My City/
+permalink: /es/pikes-peak-all-around-my-city/
 tags:
 - Punk
 - Ska

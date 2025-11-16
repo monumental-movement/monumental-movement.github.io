@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Quincy Jones – Body Heat.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Quincy Jones – Body Heat/
+permalink: /es/quincy-jones-body-heat/
 tags:
 - Funk
 - Soul

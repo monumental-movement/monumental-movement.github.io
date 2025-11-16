@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Headshop – 4 Sale.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Headshop – 4 Sale/
+permalink: /es/headshop-4-sale/
 tags:
 - Techno
 - Hardcore Techno

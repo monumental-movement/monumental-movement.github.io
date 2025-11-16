@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Clivilles and Cole – Pride (In The Name Of Love).webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Clivilles and Cole – Pride (In The Name Of Love)/
+permalink: /es/clivilles-and-cole-pride-in-the-name-of-love/
 tags:
 - House
 - 90s

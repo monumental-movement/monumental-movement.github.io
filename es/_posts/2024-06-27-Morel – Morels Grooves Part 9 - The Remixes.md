@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Morel – Morel's Grooves Part 9 - The Remixes.webp
 lang: es
 layout: post
-permalink: /es/2024-06-27-Morel – Morels Grooves Part 9 - The Remixes/
+permalink: /es/morel-morels-grooves-part-9-the-remixes/
 tags:
 - House
 - NY House

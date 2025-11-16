@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bel Amour – Bel Amour.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Bel Amour – Bel Amour/
+permalink: /es/bel-amour-bel-amour/
 tags:
 - House
 - 00s
@@ -13,7 +13,7 @@ title: Bel Amour – Bel Amour
 ---
 
 
-Bel Amour es un dúo electro/house de Francia formado por Édouard de Tricasse y Jean‑Claude Sindress.
+Bel Amour es un dúo electro/house de Francia formado por Édouard de Tricasse y Jean-Claude Sindress.
 
 Su sencillo debut "Bel Amour", lanzado en 2001, fue un tema house que se convirtió en un gran éxito en todo el mundo. Este disco es una versión italiana publicada por la división House de Time Records, Rise.
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Band – Rock Of Ages The Band In Concert.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-The Band – Rock Of Ages The Band In Concert/
+permalink: /es/the-band-rock-of-ages-the-band-in-concert/
 tags:
 - Rock
 - Folk

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Tribes Of Da Underground Vol4.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Various – Tribes Of Da Underground Vol4/
+permalink: /es/various-tribes-of-da-underground-vol4/
 tags:
 - Break Beat
 - Downtempo

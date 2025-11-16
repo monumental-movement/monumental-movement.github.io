@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Isaac Hayes – Shaft.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Isaac Hayes – Shaft/
+permalink: /es/isaac-hayes-shaft/
 tags:
 - Soul
 - Jazz

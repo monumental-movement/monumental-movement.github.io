@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/8bit Project – Familiar Computing World.webp
 lang: es
 layout: post
-permalink: /es/2024-06-10-8bit Project – Familiar Computing World/
+permalink: /es/8bit-project-familiar-computing-world/
 tags:
 - Electronic
 - Chiptune

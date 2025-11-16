@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-joy-division-new-order.webp
 lang: es
 layout: post
-permalink: /es/2025-10-07-Column-Joy-Division-New-Order/
+permalink: /es/column-joy-division-new-order/
 tags:
 - Post Punk
 - Rock
@@ -20,7 +20,7 @@ title: '[Columna] De Joy Division a New Order: La evolución del sonido de Manch
 Texto: mmr | Tema: De Joy Division a New Order - Una historia de la transformación y renacimiento del sonido, de la oscuridad a la luz, de la soledad a la pista de baile.
 
 
-A finales de la década de 1970, la ciudad industrial de Manchester se encontraba en medio de la devastación y el estancamiento. Aumento del desempleo, malestar social y cielos grises. Entre ellos, Joy Division convirtió en sonido la desesperación de los jóvenes con sus ritmos inorgánicos y su fría poesía. La voz de Ian Curtis resonó como símbolo del dolor y la soledad de la época, abriendo la puerta a una nueva era del post-punk.
+A finales de la década de 1970, la ciudad industrial de Manchester se encontraba en medio de la devastación y el estancamiento. Aumento del desempleo, malestar social y cielos grises. Entre ellos, Joy Division convirtió en sonido la desesperación de los jóvenes con sus ritmos inorgánicos y su fría poesía. La voz de Ian Curtis resonó como un símbolo del dolor y la soledad de la época, abriendo la puerta a una nueva era del post-punk.
 
 Sin embargo, la muerte de Curtis en 1980 puso fin abruptamente a esa historia. Los miembros restantes eligen renacer de su tristeza y dar un paso hacia el futuro de la música electrónica. El nacimiento de New Order fue el comienzo de un nuevo capítulo en el sonido de Manchester que había evolucionado más allá de la tragedia.
 
@@ -48,7 +48,7 @@ A finales de la década de 1970, Gran Bretaña se encontraba en medio de una rec
 En 1976, Bernard Sumner, Peter Hook y Stephen Morris se conocieron y formaron Joy Division. Los primeros miembros se conectaron a través de la escuela y la escena punk local, y al principio tocaron covers, pero eventualmente evolucionaron hacia canciones originales que reflejaban su sensación de aislamiento y la tristeza de la ciudad.
 
 **"Hilo de influencia"**
-Kraftrock de Kraftwerk y Neu!, los sonidos fríos y duros de Velvet Underground y los elementos vanguardistas de David Bowie y Roxy Music formaron la base del sonido inicial de Joy Division.
+Kraftrock de artistas como Kraftwerk y Neu!, los sonidos fríos y duros de Velvet Underground y los elementos vanguardistas de David Bowie y Roxy Music formaron la base del sonido inicial de Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

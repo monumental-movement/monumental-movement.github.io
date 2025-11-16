@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Calm – People From The Sun And The Earth.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Calm – People From The Sun And The Earth/
+permalink: /es/calm-people-from-the-sun-and-the-earth/
 tags:
 - House
 - Ambient

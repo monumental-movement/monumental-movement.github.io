@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/James Brown - Hustle(Dead On It).webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-James Brown - Hustle(Dead On It)/
+permalink: /es/james-brown-hustle-dead-on-it/
 tags:
 - Soul
 - Funk

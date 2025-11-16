@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-texas-noise.webp
 lang: es
 layout: post
-permalink: /es/2025-10-10-Colum-Texas-Noise/
+permalink: /es/colum-texas-noise/
 tags:
 - Noise
 - Experimental
@@ -42,7 +42,7 @@ color: #fff;
 
 
 
-### Capítulo 1: Un experimento de sonido solitario: Charalambides y la expansión de la conciencia sureña
+### Capítulo 1: Experimentos de sonido solitario: Charalambides y la expansión de la conciencia sureña
 
 A principios de la década de 2000, **Charalambides** (Christina y Tom Carter) eran un pilar de la escena ruidosa de Texas.
 Su sonido no era tanto ruido sino más bien un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
@@ -60,7 +60,7 @@ Las actividades de Charalambides se extendieron a través de los sellos **Kranky
 
 ---
 
-### Capítulo 2: El ruido del hierro y la carne: Jesús del cuero negro y la genealogía de la fisicalidad
+### Capítulo 2: Ruido de hierro y carne - Jesús de cuero negro y la genealogía de la fisicalidad
 
 **Black Leather Jesus (BLJ)**, que ha estado activo desde la década de 1990, es un grupo de ruido con sede en Houston dirigido por **Richard Ramírez**.
 BLJ continuó activo en la década de 2000 y más allá como el "extremo del ruido duro", junto con Hijikaido de Japón, MERZBOW y The Haters de Estados Unidos.
@@ -112,7 +112,7 @@ La escena del ruido de Texas de la década de 2020 se encuentra entre la red y l
 Mientras que artistas jóvenes de Houston y Dallas están activos como colectivo digital a través de Bandcamp, YouTube, Discord, etc.
 Los artistas mayores siguen trabajando con equipos analógicos.
 
-> "El ruido es una cuestión de actitud, no de tecnología."
+> "El ruido no se trata de tecnología, se trata de actitud."
 > — Richard Ramirez (Jesús de cuero negro)
 
 El ruido de Texas continúa oscilando entre lo salvaje y lo urbano.

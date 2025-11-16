@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Girl Eats Boy – Thrilled By Velocity and Distortion.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Girl Eats Boy – Thrilled By Velocity and Distortion/
+permalink: /es/girl-eats-boy-thrilled-by-velocity-and-distortion/
 tags:
 - House
 - UK House

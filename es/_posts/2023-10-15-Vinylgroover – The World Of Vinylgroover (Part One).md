@@ -5,11 +5,11 @@ categories:
 image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Vinylgroover – The World Of Vinylgroover (Part One)/
+permalink: /es/vinylgroover-the-world-of-vinylgroover-part-one/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Vinylgroover - El mundo de Vinylgroover (primera parte)
+title: Vinylgroover - El mundo de Vinylgroover (Primera parte)
 ---
 
 

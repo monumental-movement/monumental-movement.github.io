@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Point Blanc Featuring Maria Motjer – Point Blanc/
+permalink: /es/point-blanc-featuring-maria-motjer-point-blanc/
 tags:
 - Jazz
 - Funk

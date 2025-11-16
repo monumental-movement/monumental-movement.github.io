@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-music-memory.webp
 lang: es
 layout: post
-permalink: /es/2025-10-21-column-music-memory/
+permalink: /es/column-music-memory/
 tags:
 - Vinyl
 - Cassette
@@ -61,7 +61,7 @@ Las listas de reproducción de Spotify también son solo un formato nuevo.
 
 ## Capítulo 2: Grabación y reproducción: nacimiento del “tiempo grabado”
 
-A principios del siglo XX, cuando apareció **el fonógrafo de Edison**, la humanidad pudo reproducir por primera vez los “sonidos del pasado”.
+A principios del siglo XX, cuando apareció **el fonógrafo de Edison**, los humanos pudimos reproducir por primera vez los "sonidos del pasado".
 Fue una revolución en la historia de la música y, al mismo tiempo, fue el nacimiento de la "tecnología para preservar el tiempo".
 
 Discos, cintas, CD, MP3 y streaming.

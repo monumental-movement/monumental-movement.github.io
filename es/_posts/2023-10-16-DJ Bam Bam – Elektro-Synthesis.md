@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Bam Bam – Elektro-Synthesis.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-DJ Bam Bam – Elektro-Synthesis/
+permalink: /es/dj-bam-bam-elektro-synthesis/
 tags:
 - House
 - Hard House

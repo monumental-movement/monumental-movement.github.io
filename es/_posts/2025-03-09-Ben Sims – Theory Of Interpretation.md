@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ben Sims – Theory Of Interpretation.webp
 lang: es
 layout: post
-permalink: /es/2025-03-09-Ben Sims – Theory Of Interpretation/
+permalink: /es/ben-sims-theory-of-interpretation/
 tags:
 - Tribal
 - Techno
@@ -75,5 +75,5 @@ Level 4
 
 [Comprar en Mercari](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3-W2gAVgzU?si=gnsPLwTolbYPPvmf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

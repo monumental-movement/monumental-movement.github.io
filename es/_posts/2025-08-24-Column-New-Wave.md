@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-new-wave.webp
 lang: es
 layout: post
-permalink: /es/2025-08-24-Column-New-Wave/
+permalink: /es/column-new-wave/
 tags:
 - New-Wave
 - 80s
@@ -17,7 +17,7 @@ title: '[Columna] New Wave: La intersección de la innovación musical post-punk
 ## New Wave no es sólo un género, sino una ``sensibilidad de los tiempos'' que hereda el espíritu experimental de la era post-punk y fusiona diversas músicas y culturas.**
 
 
-Texto: mmr｜Tema: Movimientos artísticos en la era post-punk
+Texto: mmr｜Tema: Movimiento artístico de la era post-punk
 
 <hr>
 

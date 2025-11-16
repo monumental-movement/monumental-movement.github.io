@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/K-Ci and JoJo – Dont Rush.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-K-Ci and JoJo – Dont Rush/
+permalink: /es/k-ci-and-jojo-dont-rush/
 tags:
 - RnB
 - Swing

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stellar Project Feat. Brandi Emma – Get Up Stand Up.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Stellar Project Feat. Brandi Emma – Get Up Stand Up/
+permalink: /es/stellar-project-feat-brandi-emma-get-up-stand-up/
 tags:
 - House
 - Trance

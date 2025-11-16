@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Rip – House Playerz E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-DJ Rip – House Playerz E.P/
+permalink: /es/dj-rip-house-playerz-e-p/
 tags:
 - House
 - Hard House

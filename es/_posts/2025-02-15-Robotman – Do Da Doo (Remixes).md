@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robotman – Do Da Doo (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2025-02-15-Robotman – Do Da Doo (Remixes)/
+permalink: /es/robotman-do-da-doo-remixes/
 tags:
 - Techno
 - Minimal

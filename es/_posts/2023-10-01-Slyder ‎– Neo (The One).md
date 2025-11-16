@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Slyder – Neo (The One).webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Slyder ‎– Neo (The One)/
+permalink: /es/slyder-neo-the-one/
 tags:
 - Trance
 - Rare

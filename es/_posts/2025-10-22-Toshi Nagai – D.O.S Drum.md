@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Toshi Nagai – D.O.S Drum.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-Toshi Nagai – D.O.S Drum/
+permalink: /es/toshi-nagai-d-o-s-drum/
 tags:
 - Jpop
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Brian Cross – Sunny Rain.webp
 lang: es
 layout: post
-permalink: /es/2025-09-21-Brian Cross – Sunny Rain/
+permalink: /es/brian-cross-sunny-rain/
 tags:
 - House
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hiroki Esashika – Kazane.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Hiroki Esashika – Kazane/
+permalink: /es/hiroki-esashika-kazane/
 tags:
 - Techno
 - Tech House

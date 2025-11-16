@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/David Morales Albert Cabrera – Higher.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-David Morales Albert Cabrera – Higher/
+permalink: /es/david-morales-albert-cabrera-higher/
 tags:
 - House
 - Deep House

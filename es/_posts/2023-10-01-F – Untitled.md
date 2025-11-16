@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/F – Untitled.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-F – Untitled/
+permalink: /es/f-untitled/
 tags:
 - House
 - Rare

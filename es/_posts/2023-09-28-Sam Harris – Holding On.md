@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sam Harris – Holding On.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Sam Harris – Holding On/
+permalink: /es/sam-harris-holding-on/
 tags:
 - House
 - Remix

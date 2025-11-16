@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Etienne Brenche – You Dont Notice Me.webp
 lang: es
 layout: post
-permalink: /es/2025-08-28-Etienne Brenche – You Dont Notice Me/
+permalink: /es/etienne-brenche-you-dont-notice-me/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/2 The Core – The Final Destination.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-2 The Core – The Final Destination/
+permalink: /es/2-the-core-the-final-destination/
 tags:
 - Euro House
 - Euro Beat

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spork – Freek Like Me.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Spork – Freek Like Me/
+permalink: /es/spork-freek-like-me/
 tags:
 - House
 - Progressive House

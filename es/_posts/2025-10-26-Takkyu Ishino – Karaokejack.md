@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Takkyu Ishino – Karaokejack.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-Takkyu Ishino – Karaokejack/
+permalink: /es/takkyu-ishino-karaokejack/
 tags:
 - Techno
 - JPop

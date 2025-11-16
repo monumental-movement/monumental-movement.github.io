@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Dub Club – Outbreak.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-The Dub Club – Outbreak/
+permalink: /es/the-dub-club-outbreak/
 tags:
 - Break Beat
 - Trance

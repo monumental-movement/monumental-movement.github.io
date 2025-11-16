@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Pierre – We Gonna Funk.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-DJ Pierre – We Gonna Funk/
+permalink: /es/dj-pierre-we-gonna-funk/
 tags:
 - House
 - Acid

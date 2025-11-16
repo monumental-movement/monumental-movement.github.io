@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tuesdays Child – 2 Bad E.P.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Tuesdays Child – 2 Bad E.P/
+permalink: /es/tuesdays-child-2-bad-e-p/
 tags:
 - House
 - 00s

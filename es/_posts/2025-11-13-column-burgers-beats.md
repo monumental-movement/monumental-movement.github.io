@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-burgers-beats.webp
 lang: es
 layout: post
-permalink: /es/2025-11-13-column-burgers-beats/
+permalink: /es/column-burgers-beats/
 tags:
 - Rock
 - Accoustic
@@ -51,7 +51,7 @@ Tenía una sensación inspiradora similar a la de un musical y simbolizaba a McD
 
 > ♪ “Te mereces un descanso hoy, así que levántate y vete... ¡a McDonald's!”
 
-Esta canción fue un éxito inusual, se vendió como sencillo en los Estados Unidos y entró en las listas de radio.
+Esta canción se vendió como sencillo en Estados Unidos y fue un éxito inusual, entrando en las listas de radio.
 Fue la primera vez que los comerciales de comida rápida entraron en el ámbito de la música pop.
 
 ### 1-2 Vínculo con la industria musical: de la publicidad a los éxitos
@@ -83,7 +83,7 @@ Música proporcionada por el compositor **Hajime Mizoguchi** y el dúo acústico
 Expresando la "conexión entre la naturaleza y las personas" utilizando ukelele, guitarra acústica y piano.
 
 ### 3-2 Diseño de sonido ambiental
-- Sonido de pan horneando
+- Sonido del pan horneándose.
 - Sonido de cortar verduras.
 - Sonido de abrir una bolsa de papel.
 
@@ -109,7 +109,7 @@ Introducción temprana del concepto de “música que apoya el gusto”.
 - McDonald's: Jingle pentatónico universal (supervisado por Pharrell y Hiroshi Kawabe)
 - Cambiar el tempo/arreglo de clave para cada país
 
-### 5-2 Tendencias en la colaboración entre redes sociales y artistas
+### 5-2　Tendencia de colaboración entre redes sociales y artistas
 
 | 年 | ブランド | アーティスト | 曲名／特徴 |
 |----|------------|----------------|-------------|
@@ -140,7 +140,7 @@ título Cronología de hamburgueserías y música
 2005: "Mos Burger, música de fondo natural de Hajime Mizoguchi"
 2015: "La música publicitaria vinculada a redes sociales llegó para quedarse"
 2022: "Burger King × Nueces espeluznantes"
-2023: "McDonald's x Ado"Mac Adventure""
+2023: Aventura Mac "McDonald's x Ado"""
 
 </div>
 

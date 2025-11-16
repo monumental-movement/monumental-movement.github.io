@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Lennie De Ice – We Are I.E. (Part 2 Of 2. Hybrid Remixes)/
+permalink: /es/lennie-de-ice-we-are-i-e-part-2-of-2-hybrid-remixes/
 tags:
 - Break Beat
 - Remix

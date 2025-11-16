@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Panjabi MC – Mundian To Bach Ke.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Panjabi MC – Mundian To Bach Ke/
+permalink: /es/panjabi-mc-mundian-to-bach-ke/
 tags:
 - Bhangra
 - Hiphop

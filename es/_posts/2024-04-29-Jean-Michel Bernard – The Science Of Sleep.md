@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jean-Michel Bernard – The Science Of Sleep.webp
 lang: es
 layout: post
-permalink: /es/2024-04-29-Jean-Michel Bernard – The Science Of Sleep/
+permalink: /es/jean-michel-bernard-the-science-of-sleep/
 tags:
 - Techno
 - Minimal

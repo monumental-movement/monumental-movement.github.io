@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Depeche Mode – People R People.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Depeche Mode – People R People/
+permalink: /es/depeche-mode-people-r-people/
 tags:
 - House
 - Rare

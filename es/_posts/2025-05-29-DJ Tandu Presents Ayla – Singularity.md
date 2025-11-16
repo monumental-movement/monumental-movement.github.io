@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Tandu Presents Ayla – Singularity.webp
 lang: es
 layout: post
-permalink: /es/2025-05-29-DJ Tandu Presents Ayla – Singularity/
+permalink: /es/dj-tandu-presents-ayla-singularity/
 tags:
 - Electronic
 - Trance

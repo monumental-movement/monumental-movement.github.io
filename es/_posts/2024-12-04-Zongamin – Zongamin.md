@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zongamin – Zongamin.webp
 lang: es
 layout: post
-permalink: /es/2024-12-04-Zongamin – Zongamin/
+permalink: /es/zongamin-zongamin/
 tags:
 - Abstract
 - Techno

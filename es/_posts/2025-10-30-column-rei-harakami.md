@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-rei-harakami.webp
 lang: es
 layout: post
-permalink: /es/2025-10-30-column-rei-harakami/
+permalink: /es/column-rei-harakami/
 tags:
 - Electronica
 - Ambient
@@ -168,7 +168,7 @@ título Rei Harakami Cronología
 
 gráfico TD
 A["Sonidos de la naturaleza (viento, agua, pájaros)"] --> B["Textura de sonidos electrónicos (partículas, fluctuaciones)"]
-C["Paisaje de Kioto (templos, casas, callejones)"] --> D["Estética de la composición (espacios, espacios en blanco, asimetría)"]
+C["Paisaje de Kioto (templos, casas adosadas, callejones)"] --> D["Estética de la composición (espacios, espacios en blanco, asimetría)"]
 B --> E["Mundo sonoro Harakami"]
 re --> mi
     

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/No More Mr Nice Guy – Fixation.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-No More Mr Nice Guy – Fixation/
+permalink: /es/no-more-mr-nice-guy-fixation/
 tags:
 - House
 - Progressive

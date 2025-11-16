@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gigolo Supreme – After The Storm.webp
 lang: es
 layout: post
-permalink: /es/2025-05-21-Gigolo Supreme – After The Storm/
+permalink: /es/gigolo-supreme-after-the-storm/
 tags:
 - Electronic
 - Deep House

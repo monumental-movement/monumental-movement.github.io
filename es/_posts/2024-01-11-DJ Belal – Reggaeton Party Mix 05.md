@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Belal – Reggaeton Party Mix 05.webp
 lang: es
 layout: post
-permalink: /es/2024-01-11-DJ Belal – Reggaeton Party Mix 05/
+permalink: /es/dj-belal-reggaeton-party-mix-05/
 tags:
 - Dancehall
 - Reggae

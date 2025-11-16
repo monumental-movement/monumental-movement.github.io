@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Peacocks – Touch And Go.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-The Peacocks – Touch And Go/
+permalink: /es/the-peacocks-touch-and-go/
 tags:
 - Rock
 - Psychobilly

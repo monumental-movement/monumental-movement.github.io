@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/All Boxed In – ...Happen.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-All Boxed In – ...Happen/
+permalink: /es/all-boxed-in-happen/
 tags:
 - House
 title: Todo en caja – ...Sucede

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-merzbow.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-column-merzbow/
+permalink: /es/column-merzbow/
 tags:
 - Experimental
 - Noise
@@ -119,7 +119,7 @@ Incorporando incluso el silencio al ruido, ha registrado la **vibración de la e
 
 línea de tiempo
 título Cronología de la actividad de Merzbow (1979-2025)
-1979: Se forma Merzbow. Produce de forma independiente trabajos en casete.
+1979: Se funda Merzbow. Produce de forma independiente trabajos en casete.
 1981: Se lanza "Metal Acoustic Music", que conecta con la cultura del casete nacional e internacional.
 1985: Se anuncia el "Remblandt Assemblage". Estableció la base del ruido fuerte.
 1994: Entró al mundo con "Venereology" de Relapse Records.
@@ -220,6 +220,6 @@ A --> B --> C
 ---
 
 
-> “El ruido no es la tumba de la música, sino el renacimiento de la música.”
+> “El ruido no es la tumba de la música, sino el renacimiento de la música”.
 
 ---

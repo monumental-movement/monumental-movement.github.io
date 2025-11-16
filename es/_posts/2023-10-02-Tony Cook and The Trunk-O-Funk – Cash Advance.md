@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tony Cook and The Trunk-O-Funk – Cash Advance.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Tony Cook and The Trunk-O-Funk – Cash Advance/
+permalink: /es/tony-cook-and-the-trunk-o-funk-cash-advance/
 tags:
 - House
 - Funk

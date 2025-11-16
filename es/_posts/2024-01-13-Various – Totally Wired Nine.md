@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Totally Wired Nine.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Various – Totally Wired Nine/
+permalink: /es/various-totally-wired-nine/
 tags:
 - Acid Jazz
 - Jazz

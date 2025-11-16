@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Beatnuts – Take It Or Squeeze It.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-The Beatnuts – Take It Or Squeeze It/
+permalink: /es/the-beatnuts-take-it-or-squeeze-it/
 tags:
 - Hiphop
 - Rap

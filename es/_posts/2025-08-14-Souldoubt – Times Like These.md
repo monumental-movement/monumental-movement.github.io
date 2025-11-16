@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Souldoubt – Times Like These.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Souldoubt – Times Like These/
+permalink: /es/souldoubt-times-like-these/
 tags:
 - Deep House
 - House

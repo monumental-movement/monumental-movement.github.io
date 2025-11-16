@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Reel 2 Real Featuring Mad Stuntman – Go On Move.webp
 lang: es
 layout: post
-permalink: /es/2024-06-22-Reel 2 Real Featuring Mad Stuntman/
+permalink: /es/reel-2-real-featuring-mad-stuntman/
 tags:
 - House
 - 90s

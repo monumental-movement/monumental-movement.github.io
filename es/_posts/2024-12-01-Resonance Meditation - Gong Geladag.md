@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Resonance Meditation - Gong Geladag.webp
 lang: es
 layout: post
-permalink: /es/2024-12-01-Resonance Meditation - Gong Geladag/
+permalink: /es/resonance-meditation-gong-geladag/
 tags:
 - Deep House
 - House

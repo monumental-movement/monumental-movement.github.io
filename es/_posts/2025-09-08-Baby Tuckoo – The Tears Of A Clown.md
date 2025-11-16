@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Baby Tuckoo – The Tears Of A Clown.webp
 lang: es
 layout: post
-permalink: /es/2025-09-08-Baby Tuckoo – The Tears Of A Clown/
+permalink: /es/baby-tuckoo-the-tears-of-a-clown/
 tags:
 - Hard Rock
 - Heavy Metal

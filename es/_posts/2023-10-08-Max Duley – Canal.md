@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Max Duley – Canal.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Max Duley – Canal/
+permalink: /es/max-duley-canal/
 tags:
 - Techno
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bjork – Volta.webp
 lang: es
 layout: post
-permalink: /es/2024-12-09-Bjork – Volta/
+permalink: /es/bjork-volta/
 tags:
 - Leftfield
 - Tribal

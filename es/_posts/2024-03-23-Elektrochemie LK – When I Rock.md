@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elektrochemie LK – When I Rock.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Elektrochemie LK – When I Rock/
+permalink: /es/elektrochemie-lk-when-i-rock/
 tags:
 - Techno
 - German Techno

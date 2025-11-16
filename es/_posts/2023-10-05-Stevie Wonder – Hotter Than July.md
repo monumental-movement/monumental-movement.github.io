@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stevie Wonder – Hotter Than July.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Stevie Wonder – Hotter Than July/
+permalink: /es/stevie-wonder-hotter-than-july/
 tags:
 - Funk
 - Soul

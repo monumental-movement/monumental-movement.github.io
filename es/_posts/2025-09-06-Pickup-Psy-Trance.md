@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-psy-trance.webp
 lang: es
 layout: post
-permalink: /es/2025-09-06-Pickup-Psy-Trance/
+permalink: /es/pickup-psy-trance/
 tags:
 - Psy-Trance
 - Goa

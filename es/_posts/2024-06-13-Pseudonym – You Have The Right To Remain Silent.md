@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pseudonym – You Have The Right To Remain Silent.webp
 lang: es
 layout: post
-permalink: /es/2024-06-13-Pseudonym – You Have The Right To Remain Silent/
+permalink: /es/pseudonym-you-have-the-right-to-remain-silent/
 tags:
 - Hi NRG
 - Euro House

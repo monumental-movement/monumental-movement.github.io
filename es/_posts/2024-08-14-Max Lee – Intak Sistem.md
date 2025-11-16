@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Max Lee – Intak Sistem.webp
 lang: es
 layout: post
-permalink: /es/2024-08-14-Max Lee – Intak Sistem/
+permalink: /es/max-lee-intak-sistem/
 tags:
 - Hardcore
 - Techno

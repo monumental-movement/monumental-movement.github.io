@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zion – Fantasma Dos Jueyes.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Zion – Fantasma Dos Jueyes/
+permalink: /es/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore

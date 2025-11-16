@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Chester Beatty – Turia.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-Chester Beatty – Turia/
+permalink: /es/chester-beatty-turia/
 tags:
 - Techno
 title: Chester Beatty – Turia

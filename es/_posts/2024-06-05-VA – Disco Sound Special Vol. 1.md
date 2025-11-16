@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Disco Sound Special Vol. 1.webp
 lang: es
 layout: post
-permalink: /es/2024-06-05-VA – Disco Sound Special Vol. 1/
+permalink: /es/va-disco-sound-special-vol-1/
 tags:
 - Disco
 - Soul

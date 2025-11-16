@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fun Fun – Baila Bolero.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Fun Fun – Baila Bolero/
+permalink: /es/fun-fun-baila-bolero/
 tags:
 - Italo
 - Disco

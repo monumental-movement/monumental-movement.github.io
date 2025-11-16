@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Foreigner – Head Games.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Foreigner – Head Games/
+permalink: /es/foreigner-head-games/
 tags:
 - Rock
 - Hard Rock

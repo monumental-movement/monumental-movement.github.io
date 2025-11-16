@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sonic Insomniac – Impermanence EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Sonic Insomniac – Impermanence EP/
+permalink: /es/sonic-insomniac-impermanence-ep/
 tags:
 - IDM
 - Techno

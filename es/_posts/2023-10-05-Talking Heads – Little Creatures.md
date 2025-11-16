@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Talking Heads – Little Creatures.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Talking Heads – Little Creatures/
+permalink: /es/talking-heads-little-creatures/
 tags:
 - New-Wave
 - Post Punk

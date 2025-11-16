@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Edu K – Popozuda Rock N Roll.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Edu K – Popozuda Rock N Roll/
+permalink: /es/edu-k-popozuda-rock-n-roll/
 tags:
 - Ragga HipHop
 - Electro

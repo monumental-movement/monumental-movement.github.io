@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Anthony Vieira – Merino EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Anthony Vieira ‎– Merino EP/
+permalink: /es/anthony-vieira-merino-ep/
 tags:
 - Techno
 - UK Techno

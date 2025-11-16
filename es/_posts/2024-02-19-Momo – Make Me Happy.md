@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Momo – Make Me Happy.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Momo – Make Me Happy/
+permalink: /es/momo-make-me-happy/
 tags:
 - Electro
 - Pops

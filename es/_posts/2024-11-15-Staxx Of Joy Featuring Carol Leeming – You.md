@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Staxx Of Joy Featuring Carol Leeming – You.webp
 lang: es
 layout: post
-permalink: /es/2024-11-15-Staxx Of Joy Featuring Carol Leeming – You/
+permalink: /es/staxx-of-joy-featuring-carol-leeming-you/
 tags:
 - House
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tone Theory – Limbo Of Vanished Possibilities.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Tone Theory – Limbo Of Vanished Possibilities/
+permalink: /es/tone-theory-limbo-of-vanished-possibilities/
 tags:
 - Techno
 - Deep House

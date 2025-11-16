@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-eurorack-module.webp
 lang: es
 layout: post
-permalink: /es/2025-08-31-Column-Eurorack-Module/
+permalink: /es/column-eurorack-module/
 tags:
 - Eurorack Module
 - Techno

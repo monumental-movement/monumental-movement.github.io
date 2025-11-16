@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zeni Geva – 10000 Light Years.webp
 lang: es
 layout: post
-permalink: /es/2023-10-28-Zeni Geva – 10,000 Light Years/
+permalink: /es/zeni-geva-10-000-light-years/
 tags:
 - Noise
 - Progressive

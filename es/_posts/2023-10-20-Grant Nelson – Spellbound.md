@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Grant Nelson – Spellbound.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Grant Nelson – Spellbound/
+permalink: /es/grant-nelson-spellbound/
 tags:
 - House
 - Rare

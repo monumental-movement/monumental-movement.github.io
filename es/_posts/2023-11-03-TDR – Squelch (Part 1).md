@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/TDR – Squelch (Part 1).webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-TDR – Squelch (Part 1)/
+permalink: /es/tdr-squelch-part-1/
 tags:
 - Trance
 - Tech House

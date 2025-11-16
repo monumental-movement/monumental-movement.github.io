@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Queen – Sheer Heart Attack.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Queen – Sheer Heart Attack/
+permalink: /es/queen-sheer-heart-attack/
 tags:
 - Rock
 title: Reina – Puro ataque al corazón

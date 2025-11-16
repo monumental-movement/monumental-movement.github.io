@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-euro-club-culture.webp
 lang: es
 layout: post
-permalink: /es/2025-09-22-Column-Euro-Club-Culture/
+permalink: /es/column-euro-club-culture/
 tags:
 - Rave
 - Euro
@@ -133,7 +133,7 @@ Sonido nostálgico pero funcional para escenas al aire libre y festivales.
 ### Conclusión: el euro vivía en la frontera entre “pop” y “club”
 
 La música europea no era sólo "música sencilla de éxito" o "pistas duras de club".
-Su verdadero valor radica en el hecho de que era música que mantenía un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
+Su verdadero valor radica en la música que mantuvo un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
 
 Escúchalo en la radio y baila en la discoteca.
 Ésa puede haber sido la forma más "correcta" de gastar el euro en los años 1990.

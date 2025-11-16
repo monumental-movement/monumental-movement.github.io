@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kagami – Guardians Hammer.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Kagami – Guardians Hammer/
+permalink: /es/kagami-guardians-hammer/
 tags:
 - Techno
 title: Kagami – Martillo de los Guardianes

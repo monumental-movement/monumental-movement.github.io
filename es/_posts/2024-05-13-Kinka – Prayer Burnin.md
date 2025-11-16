@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kinka – Prayer Burnin.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Kinka – Prayer Burnin/
+permalink: /es/kinka-prayer-burnin/
 tags:
 - House
 - Rave

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-ebm.webp
 lang: es
 layout: post
-permalink: /es/2025-08-07-Column-EBM/
+permalink: /es/column-ebm/
 tags:
 - EBM
 - 80s

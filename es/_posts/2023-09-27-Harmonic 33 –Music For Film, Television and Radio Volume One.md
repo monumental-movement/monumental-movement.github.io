@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Harmonic 33 –Music For Film, Television & Radio Volume One.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Harmonic 33 –Music For Film, Television and Radio Volume
-  One/
+permalink: /es/harmonic-33-music-for-film-television-and-radio-volume-one/
 tags:
 - Leftfield
 - Downtempo

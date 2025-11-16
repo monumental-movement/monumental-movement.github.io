@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kaskade – Everything.webp
 lang: es
 layout: post
-permalink: /es/2024-04-29-Kaskade – Everything/
+permalink: /es/kaskade-everything/
 tags:
 - House
 - Deep House

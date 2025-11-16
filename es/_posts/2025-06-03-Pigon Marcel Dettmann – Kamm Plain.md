@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pigon Marcel Dettmann – Kamm Plain.webp
 lang: es
 layout: post
-permalink: /es/2025-06-03-Pigon Marcel Dettmann – Kamm Plain/
+permalink: /es/pigon-marcel-dettmann-kamm-plain/
 tags:
 - Electronic
 - Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Richard Strauss.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Richard Strauss/
+permalink: /es/richard-strauss/
 tags:
 - Classical
 - Romantic

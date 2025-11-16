@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dave and Dr. DOPE – Get Wild.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Dave and Dr. DOPE – Get Wild/
+permalink: /es/dave-and-dr-dope-get-wild/
 tags:
 - Techno
 - Hyper Techno

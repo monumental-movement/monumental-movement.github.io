@@ -6,8 +6,7 @@ image: ../assets/images/Ennio Morricone –  Nuovo Cinema Paradiso (Musica Origi
   Del Film).webp
 lang: es
 layout: post
-permalink: /es/2024-05-27-Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale
-  Del Film)/
+permalink: /es/ennio-morricone-nuovo-cinema-paradiso-musica-originale-del-film/
 tags:
 - Soundtrack
 - Italy

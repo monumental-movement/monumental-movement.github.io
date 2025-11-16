@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Denki Groove – Orange Remixes.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-Denki Groove – Orange Remixes/
+permalink: /es/denki-groove-orange-remixes/
 tags:
 - JPop
 - Techno

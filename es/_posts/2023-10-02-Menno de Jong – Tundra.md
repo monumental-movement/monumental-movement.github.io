@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Menno de Jong – Tundra.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Menno de Jong – Tundra/
+permalink: /es/menno-de-jong-tundra/
 tags:
 - Trance
 - Progressive

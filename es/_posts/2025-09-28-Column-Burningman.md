@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-burningman.webp
 lang: es
 layout: post
-permalink: /es/2025-09-28-Column-Burningman/
+permalink: /es/column-burningman/
 tags:
 - Rave
 - History
@@ -100,7 +100,7 @@ Desde la década de 2000, los "vehículos mutantes" gigantes y las esculturas he
 
 ### Implicaciones y desafíos contemporáneos
 
-Si bien Burning Man sigue siendo un centro de creatividad, enfrenta problemas de comercialización, seguridad y medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
+Si bien Burning Man sigue siendo un centro de creatividad, enfrenta preocupaciones sobre la comercialización, la seguridad y el medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
 
 ---
 
@@ -136,7 +136,7 @@ A2005 --> A2006["2006: Esperanza y miedo"]
 A2006 --> A2007["2007: El hombre verde"]
 A2007 --> A2008["2008: Sueño americano"]
 A2008 --> A2009["2009: Evolución – Un banco enredado"]
-A2009 --> A2010["2010 : Metrópolis – La vida de las ciudades"]
+A2009 --> A2010["2010: Metrópolis – La vida de las ciudades"]
 A2010 --> A2011["2011: Ritos de iniciación"]
 A2011 --> A2012["2012: Fertilidad 2.0"]
 A2012 --> A2013["2013: Culto a la carga"]
@@ -213,7 +213,7 @@ Además, a partir de este año comenzaron a afianzarse las instalaciones de temp
 
 #### 2001: Siete edades
 
-Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -273,7 +273,7 @@ Sin embargo, ese año, su arte en llamas "Crude Awakening", que imitaba una plat
 
 #### 2008: Sueño americano
 
-Sueño americano/Preguntas sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
+Sueño americano/Cuestiones sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
 
 ---
 
@@ -309,7 +309,7 @@ Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, 
 
 Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
+Muchos de los campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
 ---
 

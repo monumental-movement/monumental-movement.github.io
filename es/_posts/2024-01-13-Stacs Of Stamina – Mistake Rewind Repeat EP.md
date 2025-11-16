@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stacs Of Stamina – Mistake Rewind Repeat EP.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Stacs Of Stamina – Mistake Rewind Repeat EP/
+permalink: /es/stacs-of-stamina-mistake-rewind-repeat-ep/
 tags:
 - Experimental
 - Glitch

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Leroy Hanghofer – Bathroomboogie.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-Leroy Hanghofer – Bathroomboogie/
+permalink: /es/leroy-hanghofer-bathroomboogie/
 tags:
 - House
 - Leftfield

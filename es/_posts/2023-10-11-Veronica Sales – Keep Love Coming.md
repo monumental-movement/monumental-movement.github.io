@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Veronica Sales – Keep Love Coming.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Veronica Sales – Keep Love Coming/
+permalink: /es/veronica-sales-keep-love-coming/
 tags:
 - Euro Beat
 title: Veronica Sales - Sigue llegando el amor

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/U96 – Inside Your Dreams.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-U96 – Inside Your Dreams/
+permalink: /es/u96-inside-your-dreams/
 tags:
 - Progressive House
 - Trance

@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Diana Brown & Barrie K. Sharpe – Love Or Nothing.webp
 lang: es
 layout: post
-permalink: /es/2025-09-19-Diana Brown and Barrie K Sharpe – Love Or Nothing The New
-  Groundbeat Selection/
+permalink: /es/diana-brown-and-barrie-k-sharpe-love-or-nothing-the-new-groundbeat-selection/
 tags:
 - Breakbeat
 - Downtempo

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cecil Parker – Dance Everybody.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-Cecil Parker – Dance Everybody/
+permalink: /es/cecil-parker-dance-everybody/
 tags:
 - House
 - Funk

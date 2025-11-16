@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Asian Dub Foundation – Community Music.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-Asian Dub Foundation – Community Music/
+permalink: /es/asian-dub-foundation-community-music/
 tags:
 - Dub
 - Drum n Bass

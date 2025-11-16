@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Riot – Inishmore.webp
 lang: es
 layout: post
-permalink: /es/2024-12-13-Riot – Inishmore/
+permalink: /es/riot-inishmore/
 tags:
 - Heavy Metal
 - Rock

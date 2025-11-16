@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sisqo – Thong Song (Remix).webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Sisqo – Thong Song (Remix)/
+permalink: /es/sisqo-thong-song-remix/
 tags:
 - Hiphop
 - R&B

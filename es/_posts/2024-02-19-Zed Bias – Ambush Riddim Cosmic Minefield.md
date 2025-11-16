@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zed Bias – Ambush Riddim Cosmic Minefield.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Zed Bias – Ambush Riddim Cosmic Minefield/
+permalink: /es/zed-bias-ambush-riddim-cosmic-minefield/
 tags:
 - Dubstep
 - Electronic

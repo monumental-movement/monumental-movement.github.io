@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Kitsuné X.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Various – Kitsune X/
+permalink: /es/various-kitsune-x/
 tags:
 - House
 - Electro

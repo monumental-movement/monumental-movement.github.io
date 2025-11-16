@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Rush – Lets Change.webp
 lang: es
 layout: post
-permalink: /es/2025-06-01-DJ Rush – Lets Change/
+permalink: /es/dj-rush-lets-change/
 tags:
 - Electronic
 - Techno

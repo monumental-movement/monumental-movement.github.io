@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/XTC – Skylarking.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-XTC – Skylarking/
+permalink: /es/xtc-skylarking/
 tags:
 - Rock
 - Pops

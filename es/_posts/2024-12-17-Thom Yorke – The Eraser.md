@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Thom Yorke – The Eraser.webp
 lang: es
 layout: post
-permalink: /es/2024-12-17-Thom Yorke – The Eraser/
+permalink: /es/thom-yorke-the-eraser/
 tags:
 - Art Rock
 - Electro

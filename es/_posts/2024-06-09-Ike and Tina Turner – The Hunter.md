@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ike & Tina Turner – The Hunter.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Ike and Tina Turner – The Hunter/
+permalink: /es/ike-and-tina-turner-the-hunter/
 tags:
 - Soul
 - Funk

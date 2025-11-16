@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oi Polloi – Total Anarchoi.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Oi Polloi – Total Anarchoi/
+permalink: /es/oi-polloi-total-anarchoi/
 tags:
 - Punk
 - 90s

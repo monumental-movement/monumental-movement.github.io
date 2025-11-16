@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Asian Dub Foundation – Tank.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Asian Dub Foundation – Tank/
+permalink: /es/asian-dub-foundation-tank/
 tags:
 - Electronica
 - Hiphop

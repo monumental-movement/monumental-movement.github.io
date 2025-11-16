@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Euphone – The Lakewood.webp
 lang: es
 layout: post
-permalink: /es/2024-12-07-Euphone – The Lakewood/
+permalink: /es/euphone-the-lakewood/
 tags:
 - Acid Jazz
 - Future Jazz

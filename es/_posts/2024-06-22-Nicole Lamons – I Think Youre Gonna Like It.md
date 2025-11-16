@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nicole Lamons – I Think You're Gonna Like It.webp
 lang: es
 layout: post
-permalink: /es/2024-06-22-Nicole Lamons – I Think Youre Gonna Like It/
+permalink: /es/nicole-lamons-i-think-youre-gonna-like-it/
 tags:
 - House
 - Deep House

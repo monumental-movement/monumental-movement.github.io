@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Q-ic And Stephenson – In Stereo EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Q-ic And Stephenson – In Stereo EP/
+permalink: /es/q-ic-and-stephenson-in-stereo-ep/
 tags:
 - Techno
 - Abstract

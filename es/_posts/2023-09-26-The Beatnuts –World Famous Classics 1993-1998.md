@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-The Beatnuts –World Famous Classics 1993-1998/
+permalink: /es/the-beatnuts-world-famous-classics-1993-1998/
 tags:
 - Hiphop
 - Compilation

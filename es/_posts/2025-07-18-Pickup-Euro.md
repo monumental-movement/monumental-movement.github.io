@@ -5,14 +5,14 @@ categories:
 image: ../assets/images/pickup-euro.webp
 lang: es
 layout: post
-permalink: /es/2025-07-18-Pickup-Euro/
+permalink: /es/pickup-euro/
 tags:
 - Euro
 title: Recoge obras de música euro.
 ---
 
 
-"Un grupo notable de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
+"Un notable grupo de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
 
 <hr>
 
@@ -308,7 +308,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 
 
@@ -342,7 +342,7 @@ B. La Jument De Mishao (Club Mix)
 
 Formato: CD
 
-Género: Euro de los 90 / Euro Beat / Hi‑ERG House
+Género: Euro de los 90 / Euro Beat / Hi-ERG House
 
 La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
@@ -376,7 +376,7 @@ La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
 Formato: CD
 
-Género: Euro de los 90 / Euro Beat / Hi‑ERG House
+Género: Euro de los 90 / Euro Beat / Hi-ERG House
 
 "Willy Use A Billy… Boy" es el cuarto sencillo de E-Rotic en Alemania y el sencillo debut en Japón.
 

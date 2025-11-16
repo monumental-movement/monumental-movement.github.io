@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/MK – Burning.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-MK – Burning/
+permalink: /es/mk-burning/
 tags:
 - House
 - Anthem

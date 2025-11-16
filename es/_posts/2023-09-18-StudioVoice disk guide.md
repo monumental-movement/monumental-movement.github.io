@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/StudioVoice別冊 オールジャンルディスクガイド スタジオボイス.webp
 lang: es
 layout: post
-permalink: /es/2023-09-18-StudioVoice disk guide/
+permalink: /es/studiovoice-disk-guide/
 tags:
 - Disk Guide
 - Studio Voice

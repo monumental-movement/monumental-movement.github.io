@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-takaichi-metal.webp
 lang: es
 layout: post
-permalink: /es/2025-10-25-column-takaichi-metal/
+permalink: /es/column-takaichi-metal/
 tags:
 - Metal
 - Heavy Metal

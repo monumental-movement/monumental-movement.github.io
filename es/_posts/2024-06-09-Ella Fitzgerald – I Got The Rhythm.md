@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ella Fitzgerald – I Got The Rhythm.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Ella Fitzgerald – I Got The Rhythm/
+permalink: /es/ella-fitzgerald-i-got-the-rhythm/
 tags:
 - Jazz
 - Ballad

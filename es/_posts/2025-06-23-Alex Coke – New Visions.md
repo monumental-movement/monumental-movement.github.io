@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Alex Coke – New Visions.webp
 lang: es
 layout: post
-permalink: /es/2025-06-23-Alex Coke – New Visions/
+permalink: /es/alex-coke-new-visions/
 tags:
 - Afro-Cuban Jazz
 - Experimental

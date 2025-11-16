@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bill & Ben – 10 Of Funk.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-Bill & Ben – 10 Of Funk/
+permalink: /es/bill-ben-10-of-funk/
 tags:
 - Break Beat
 - Techno

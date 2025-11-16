@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Chris McCormack – There Are Better Ways.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Chris McCormack – There Are Better Ways/
+permalink: /es/chris-mccormack-there-are-better-ways/
 tags:
 - Electronic
 - House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/James Brown -  It's A Man's Man's World.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-James Brown -  Its A Mans Mans World/
+permalink: /es/james-brown-its-a-mans-mans-world/
 tags:
 - Soul
 - Funk

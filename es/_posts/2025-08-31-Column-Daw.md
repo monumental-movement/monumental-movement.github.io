@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-daw.webp
 lang: es
 layout: post
-permalink: /es/2025-08-31-Column-Daw/
+permalink: /es/column-daw/
 tags:
 - Daw
 - 90s
@@ -170,4 +170,4 @@ Copia de seguridad y control de versiones. Guarde proyectos con frecuencia y uti
 
 DTM/DAW no es sólo una colección de herramientas, sino un dispositivo cultural que simboliza la "democratización de la producción musical". Desde los días de la edición de cintas y los sintetizadores de hardware, hasta el MIDI y la grabación digital, los VST y los ecosistemas de complementos, la IA y la nube, la tecnología ha reducido las barreras a la expresión y ha creado un entorno donde cualquiera puede ofrecer sonido al mundo.
 
-La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debo hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.
+La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debemos hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.

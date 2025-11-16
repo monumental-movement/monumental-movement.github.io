@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lukie D Determine – Between The Sheets.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Lukie D Determine – Between The Sheets/
+permalink: /es/lukie-d-determine-between-the-sheets/
 tags:
 - Reggae
 - Rare

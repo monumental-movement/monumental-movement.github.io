@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Manwoman – Manwoman.webp
 lang: es
 layout: post
-permalink: /es/2023-09-14-Manwoman – Manwoman/
+permalink: /es/manwoman-manwoman/
 tags:
 - Punk
 - Japanese Punk

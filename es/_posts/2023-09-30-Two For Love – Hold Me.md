@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Two For Love – Hold Me.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Two For Love – Hold Me/
+permalink: /es/two-for-love-hold-me/
 tags:
 - Italo
 - Euro Beat

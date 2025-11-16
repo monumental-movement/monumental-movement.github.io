@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Surgeon – Communications.webp
 lang: es
 layout: post
-permalink: /es/2024-07-04-Surgeon – Communications/
+permalink: /es/surgeon-communications/
 tags:
 - Techno
 - UK Techno

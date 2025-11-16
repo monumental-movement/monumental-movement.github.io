@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Para One – Midnight Swim.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Para One – Midnight Swim/
+permalink: /es/para-one-midnight-swim/
 tags:
 - Techno
 - Electro

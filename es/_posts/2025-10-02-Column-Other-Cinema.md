@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-other-cinema.webp
 lang: es
 layout: post
-permalink: /es/2025-10-02-Column-Other-Cinema/
+permalink: /es/column-other-cinema/
 tags:
 - Experimental
 - Film
@@ -166,7 +166,7 @@ El trabajo de Baldwin y "Otro cine" tuvieron una gran influencia en el desarroll
 
 Como pionero del cine underground, Craig Baldwin ha criticado duramente temas políticos y sociales a través de películas experimentales que hacen pleno uso de metraje encontrado. Su trabajo combina experimentación visual y mensajes políticos para provocar una reflexión profunda. "Otro Cine" es un lugar importante para la presentación de sus obras y ha tenido una gran influencia en el desarrollo del cine underground.
 
-Su trabajo continúa ampliando el rango de expresión cinematográfica y ofreciendo al público nuevas perspectivas. El trabajo de Baldwin es una visita obligada para los investigadores y amantes del cine, y su trabajo debería seguir siendo visto.
+Su trabajo continúa ampliando el rango de expresión cinematográfica y ofreciendo al público nuevas perspectivas. El trabajo de Baldwin es una visita obligada para los investigadores y amantes del cine, y su trabajo debería seguir siendo observado.
 
-Other Cinema es un importante centro de cultura cinematográfica en el distrito Mission de San Francisco y ofrece una experiencia única para los amantes del cine underground y experimental. Su colección de DVD es un recurso importante para comprender en profundidad la historia y la cultura del cine. Definitivamente es un lugar digno de visitar para amantes e investigadores del cine.
+Other Cinema es un importante centro de cultura cinematográfica en el distrito Mission de San Francisco y ofrece una experiencia única para los amantes del cine underground y experimental. Su colección de DVD es un recurso importante para comprender en profundidad la historia y la cultura del cine. Definitivamente es un lugar que vale la pena visitar para cinéfilos e investigadores.
 

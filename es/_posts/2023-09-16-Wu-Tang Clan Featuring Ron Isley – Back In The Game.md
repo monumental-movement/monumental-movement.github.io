@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wu-Tang Clan Featuring Ron Isley – Back In The Game.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Wu-Tang Clan Featuring Ron Isley – Back In The Game/
+permalink: /es/wu-tang-clan-featuring-ron-isley-back-in-the-game/
 tags:
 - Hiphop
 - R&B

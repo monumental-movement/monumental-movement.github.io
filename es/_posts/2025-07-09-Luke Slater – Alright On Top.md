@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Luke Slater – Alright On Top.webp
 lang: es
 layout: post
-permalink: /es/2025-07-09-Luke Slater – Alright On Top/
+permalink: /es/luke-slater-alright-on-top/
 tags:
 - House
 - Techno

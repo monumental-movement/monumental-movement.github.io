@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Swod – Sekunden.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-Swod – Sekunden/
+permalink: /es/swod-sekunden/
 tags:
 - Modern Classical
 - Experimental

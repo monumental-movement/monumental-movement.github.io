@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Divine – Native Love (Step By Step).webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Divine – Native Love (Step By Step)/
+permalink: /es/divine-native-love-step-by-step/
 tags:
 - House
 - Techno

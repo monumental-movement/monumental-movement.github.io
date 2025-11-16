@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Todh Teri – Live at Indernet 2020.webp
 lang: es
 layout: post
-permalink: /es/2024-11-18-Todh Teri – Live at Indernet 2020/
+permalink: /es/todh-teri-live-at-indernet-2020/
 tags:
 - Deep House
 - House

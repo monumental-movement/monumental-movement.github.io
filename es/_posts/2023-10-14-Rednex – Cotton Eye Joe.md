@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rednex – Cotton Eye Joe.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Rednex – Cotton Eye Joe/
+permalink: /es/rednex-cotton-eye-joe/
 tags:
 - Euro House
 - Synth-Pop

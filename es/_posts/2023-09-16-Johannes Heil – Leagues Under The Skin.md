@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Johannes Heil – Leagues Under The Skin.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Johannes Heil – Leagues Under The Skin/
+permalink: /es/johannes-heil-leagues-under-the-skin/
 tags:
 - Techno
 - German Techno

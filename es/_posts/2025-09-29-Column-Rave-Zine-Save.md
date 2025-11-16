@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-rave-zine-save.webp
 lang: es
 layout: post
-permalink: /es/2025-09-29-Column-Rave-Zine-Save/
+permalink: /es/column-rave-zine-save/
 tags:
 - Zine
 - Rave

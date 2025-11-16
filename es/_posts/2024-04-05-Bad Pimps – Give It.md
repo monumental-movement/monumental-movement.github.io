@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bad Pimps – Give It.webp
 lang: es
 layout: post
-permalink: /es/2024-04-05-Bad Pimps – Give It/
+permalink: /es/bad-pimps-give-it/
 tags:
 - Techno
 - Tech House

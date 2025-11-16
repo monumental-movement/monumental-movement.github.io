@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kissogram 33HZ – My Friend Is A Seahorse.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Kissogram 33HZ – My Friend Is A Seahorse/
+permalink: /es/kissogram-33hz-my-friend-is-a-seahorse/
 tags:
 - House
 - Tech House

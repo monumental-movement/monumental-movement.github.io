@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oliver Ho – Sentience.webp
 lang: es
 layout: post
-permalink: /es/2025-03-08-Oliver Ho – Sentience/
+permalink: /es/oliver-ho-sentience/
 tags:
 - Techno
 - Minimal
@@ -36,5 +36,5 @@ Oliver Ho es un DJ y productor de techno afincado en Londres.
 
 [Comprar en Mercari](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG18zTBt9XI?si=ysxGVMcvsKBUeD1z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

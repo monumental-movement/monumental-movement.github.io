@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Three Million – I've Been Robbed.webp
 lang: es
 layout: post
-permalink: /es/2025-09-21-Three Million – Ive Been Robbed/
+permalink: /es/three-million-ive-been-robbed/
 tags:
 - Disco
 - Funk

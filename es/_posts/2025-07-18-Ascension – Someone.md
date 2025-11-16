@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ascension – Someone.webp
 lang: es
 layout: post
-permalink: /es/2025-07-18-Ascension – Someone/
+permalink: /es/ascension-someone/
 tags:
 - Trance
 - 00s

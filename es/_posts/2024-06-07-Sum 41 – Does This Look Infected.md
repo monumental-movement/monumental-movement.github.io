@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sum 41 – Does This Look Infected.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-Sum 41 – Does This Look Infected/
+permalink: /es/sum-41-does-this-look-infected/
 tags:
 - Punk
 - Pop Punk

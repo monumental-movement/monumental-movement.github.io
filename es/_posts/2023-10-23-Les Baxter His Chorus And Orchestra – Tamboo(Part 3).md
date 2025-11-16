@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Les Baxter, His Chorus And Orchestra – Tamboo(Part 3).webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Les Baxter His Chorus And Orchestra – Tamboo(Part 3)/
+permalink: /es/les-baxter-his-chorus-and-orchestra-tamboo-part-3/
 tags:
 - Jazz
 - Space-Age

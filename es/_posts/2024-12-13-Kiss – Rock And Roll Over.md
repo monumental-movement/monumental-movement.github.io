@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kiss – Rock And Roll Over.webp
 lang: es
 layout: post
-permalink: /es/2024-12-13-Kiss – Rock And Roll Over/
+permalink: /es/kiss-rock-and-roll-over/
 tags:
 - Hard Rock
 - Rock

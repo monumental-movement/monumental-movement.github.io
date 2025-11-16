@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-progressive-rock-anime.webp
 lang: es
 layout: post
-permalink: /es/2025-09-17-Column-Progressive-Rock-Anime/
+permalink: /es/column-progressive-rock-anime/
 tags:
 - Progressive Rock
 - Rock

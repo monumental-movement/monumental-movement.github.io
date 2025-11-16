@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Gang – Barricada Rumble Beat.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-The Gang – Barricada Rumble Beat/
+permalink: /es/the-gang-barricada-rumble-beat/
 tags:
 - Punk
 - Hardcore

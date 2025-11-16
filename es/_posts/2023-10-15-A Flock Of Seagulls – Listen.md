@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/A Flock Of Seagulls – Listen.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-A Flock Of Seagulls – Listen/
+permalink: /es/a-flock-of-seagulls-listen/
 tags:
 - New-Wave
 - Synth-Pop

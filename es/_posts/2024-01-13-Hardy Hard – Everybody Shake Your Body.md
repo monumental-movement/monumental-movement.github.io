@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hardy Hard – Everybody Shake Your Body.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Hardy Hard – Everybody Shake Your Body/
+permalink: /es/hardy-hard-everybody-shake-your-body/
 tags:
 - House
 - Tech House

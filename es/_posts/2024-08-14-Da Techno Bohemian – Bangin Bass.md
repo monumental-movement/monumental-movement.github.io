@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Da Techno Bohemian – Bangin Bass.webp
 lang: es
 layout: post
-permalink: /es/2024-08-14-Da Techno Bohemian – Bangin Bass/
+permalink: /es/da-techno-bohemian-bangin-bass/
 tags:
 - House
 - Hard House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-acid-house.webp
 lang: es
 layout: post
-permalink: /es/2025-08-07-Column-Acid-House/
+permalink: /es/column-acid-house/
 tags:
 - Acid
 - Acid House

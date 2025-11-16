@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Mack Feat. Kysia Bostic – I Want You.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-The Mack Feat. Kysia Bostic – I Want You/
+permalink: /es/the-mack-feat-kysia-bostic-i-want-you/
 tags:
 - House
 - Garage

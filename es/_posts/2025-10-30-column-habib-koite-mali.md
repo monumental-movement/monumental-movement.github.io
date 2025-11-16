@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-habib-koite-maili.webp
 lang: es
 layout: post
-permalink: /es/2025-10-30-column-habib-koite-mali/
+permalink: /es/column-habib-koite-mali/
 tags:
 - Mali
 - African
@@ -19,7 +19,7 @@ title: '[Columna] Habib Koité & Bamada y el trasfondo musical y cultural de la 
 
 Texto: mmr｜Tema: Análisis musical integral de Habib Koité y Bamada, contexto histórico, herencia de la identidad africana y papel en la globalización.
 
-> Tradición de África Occidental y reconstrucción poscolonial: “Redefiniendo la música de Mali” dirigida por Habib Koité
+> 西アフリカの伝統とポスト・コロニアルの再構築：Habib Koitéが導いた“マリ音楽の再定義”
 
 ---
 
@@ -40,7 +40,7 @@ color: #fff;
 ## Introducción:
 
 A finales del siglo XX, la música del continente africano comenzó a impregnar el mundo en nuevas formas. Mientras Fela Kuti de Nigeria defendió el "afrobeat político", Habib Koité de Mali inició una revolución de una manera más silenciosa.
-──Con una sola guitarra, recreó el sonido del instrumento de cuerda tradicional de Mali, "kamarengoni", y creó "música de Mali sin fronteras" con la banda "**Bamada**".
+──Con una sola guitarra, recreó el sonido del instrumento de cuerda tradicional de Malí "Kamalengoni" y creó "música de Malí sin fronteras" con la banda **Bamada**.
 
 Su música no habla de política. Sin embargo, dentro de esa tranquilidad reside la **dignidad étnica y la continuidad cultural**. Koité fue un "traductor de la estética africana" en la era de la música global.
 
@@ -49,7 +49,7 @@ Su música no habla de política. Sin embargo, dentro de esa tranquilidad reside
 ## Capítulo 1: El universo musical de Mali
 
 La República de Malí es un país sin salida al mar situado en África occidental. En la geografía donde se cruzan el desierto del Sahara y el río Níger existe un rico patrimonio cultural que se remonta al Imperio de Malí en el siglo XIII.
-La música de esta tierra ha sido heredada por los griots (narradores/músicos tradicionales). Su papel no es sólo el de intérpretes, sino el de **guardianes de la memoria nacional**.
+La música de esta tierra ha sido heredada por los griots = narradores/músicos tradicionales. Su papel no es sólo el de intérpretes, sino el de **guardianes de la memoria nacional**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Cada grupo étnico tiene su propio instrumento musical y sistema melódico, y los ritmos se entrelazan en múltiples capas.
 Esta diversidad es la "polifonía fundamental" de la música maliense, y Koité ha reposicionado la "guitarra" en su centro.

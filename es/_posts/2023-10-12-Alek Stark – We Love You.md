@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Alek Stark – We Love You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Alek Stark – We Love You/
+permalink: /es/alek-stark-we-love-you/
 tags:
 - Electro
 - Synth-Pop

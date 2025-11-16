@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-westcoast-hiphop-history.webp
 lang: es
 layout: post
-permalink: /es/2025-09-20-Column-Westcoast-Hiphop-History/
+permalink: /es/column-westcoast-hiphop-history/
 tags:
 - Hiphop
 - Rap

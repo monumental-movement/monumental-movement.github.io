@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deodato – Prelude.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Deodato – Prelude/
+permalink: /es/deodato-prelude/
 tags:
 - Jazz
 - Funk

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-bear-sound.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-column-bear-sound/
+permalink: /es/column-bear-sound/
 tags:
 - Bear
 - Sound
@@ -128,7 +128,7 @@ G[Sonido electrónico de alta frecuencia] --> H[Evitación experimental]
 
 - **Prueba de sonido electrónico de Kyushu (2019-2021)**: evitación a corto plazo debido al uso de equipos de alta frecuencia, se produce una habituación a largo plazo
 
-- **Demostración de oradores de IA en Tohoku (2020-2023)**: Tasa de éxito de la advertencia previa a la invasión de osos: 65%
+- **Demostración de oradores de IA de Tohoku (2020-2023)**: Tasa de éxito de la advertencia de intrusión de osos 65%
 
 ---
 
@@ -156,7 +156,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ### 6.2 Casos internacionales
 
-- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voz humana
+- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voces humanas
 
 - **BC, Canadá**: La gestión acústica no letal reduce los daños a los cultivos
 
@@ -164,7 +164,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ## 7. Discusión: Redefiniendo la relación entre humanos y osos
 
-El control de daños es una cuestión de convivencia, no de exterminio de plagas.
+El control de daños es una cuestión de coexistencia, no de exterminio de plagas.
 
 Las contramedidas sólidas no son letales y son efectivas
 
@@ -174,7 +174,7 @@ Las contramedidas sólidas no son letales y son efectivas
 
 ## 8. Conclusión
 
-El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones ambientales que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas hacia las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
+El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones en el medio ambiente que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas a las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
 
 El desafío para el futuro es convertirlo en un "diseño de paisaje acústico" que incorpore sonidos ambientales locales y sonidos de la vida humana, en lugar de simplemente un sonido amenazador. Cuando los patrones de comportamiento de los osos aprendidos por la IA se combinan con la cultura sonora local y los ritmos estacionales, el sonido irá más allá de una advertencia y se convertirá en una "interfaz para la coexistencia". Una política sólida que combine el conocimiento científico y la sensibilidad cultural es la clave para moldear el futuro de los humanos y la naturaleza. Comunicarse con el sonido, mantener la distancia y restaurar la armonía en toda la biosfera: esto puede denominarse la "ética ambiental del sonido" de la próxima era.
 

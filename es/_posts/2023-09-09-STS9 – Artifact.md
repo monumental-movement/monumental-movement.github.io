@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/STS9 – Artifact.webp
 lang: es
 layout: post
-permalink: /es/2023-09-09-STS9 – Artifact/
+permalink: /es/sts9-artifact/
 tags:
 - Break Beat
 - Drum n Bass

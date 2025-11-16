@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arthur Baker Vs Rennie Pilgrem – Like No Other (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2025-07-30-Arthur Baker Vs Rennie Pilgrem – Like No Other Remixes/
+permalink: /es/arthur-baker-vs-rennie-pilgrem-like-no-other-remixes/
 tags:
 - Breaks
 - Electro

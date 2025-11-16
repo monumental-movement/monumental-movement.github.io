@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adam Kroll – Sylphen.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Adam Kroll – Sylphen/
+permalink: /es/adam-kroll-sylphen/
 tags:
 - Techno
 - Tech House

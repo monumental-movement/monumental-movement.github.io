@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Czerkinsky – Variations Sur Natacha (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Czerkinsky – Variations Sur Natacha (Remixes)/
+permalink: /es/czerkinsky-variations-sur-natacha-remixes/
 tags:
 - Acid Jazz
 - Remix

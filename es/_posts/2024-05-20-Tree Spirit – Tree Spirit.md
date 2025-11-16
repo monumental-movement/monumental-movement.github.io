@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tree Spirit – Tree Spirit.webp
 lang: es
 layout: post
-permalink: /es/2024-05-20-Tree Spirit – Tree Spirit/
+permalink: /es/tree-spirit-tree-spirit/
 tags:
 - Rock
 - Folk

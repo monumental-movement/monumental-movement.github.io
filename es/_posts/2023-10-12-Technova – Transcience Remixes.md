@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Technova – Transcience Remixes.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Technova – Transcience Remixes/
+permalink: /es/technova-transcience-remixes/
 tags:
 - Techno
 - Rare

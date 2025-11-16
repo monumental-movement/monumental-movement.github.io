@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Schawkie Roth – Dance Of The Tao.webp
 lang: es
 layout: post
-permalink: /es/2024-06-02-Schawkie Roth – Dance Of The Tao/
+permalink: /es/schawkie-roth-dance-of-the-tao/
 tags:
 - New Age
 - Healing

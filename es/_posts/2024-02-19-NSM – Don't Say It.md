@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/NSM – Don't Say It.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-NSM – Don't Say It/
+permalink: /es/nsm-don-t-say-it/
 tags:
 - Downtempo
 - Broken Beat

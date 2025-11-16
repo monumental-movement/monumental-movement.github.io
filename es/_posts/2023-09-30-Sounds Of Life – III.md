@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sounds Of Life – III.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Sounds Of Life – III/
+permalink: /es/sounds-of-life-iii/
 tags:
 - Drum n Bass
 title: Sonidos De La Vida – III

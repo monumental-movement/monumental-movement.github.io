@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rebecca – Time.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Rebecca – Time/
+permalink: /es/rebecca-time/
 tags:
 - JPop
 - Pop Rock

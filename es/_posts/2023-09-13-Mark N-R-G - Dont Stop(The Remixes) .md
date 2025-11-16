@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mark N-R-G - Don't Stop(The Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-09-13-Mark N-R-G - Dont Stop(The Remixes) /
+permalink: /es/mark-n-r-g-dont-stop-the-remixes/
 tags:
 - Techno
 - Remix

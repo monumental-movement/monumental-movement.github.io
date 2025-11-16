@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-ambient.webp
 lang: es
 layout: post
-permalink: /es/2025-07-16-Pickup-Ambient/
+permalink: /es/pickup-ambient/
 tags:
 - Ambient
 - 90s
@@ -320,7 +320,7 @@ Características: Fusión de música folk y sonidos electrónicos, nominado al G
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Bucle H H aterrador…</em></a></td>
 <td>1997</td>
 <td>12”</td>
-<td>Viaje experimental/ambiente</td>
+<td>Viaje experimental Hop/Ambiente</td>
     </tr>
     <tr>
 <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calma <br />- <em>Gente de…</em></a></td>

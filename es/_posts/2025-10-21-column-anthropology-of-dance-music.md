@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-anthoropology-of-dance-music.webp
 lang: es
 layout: post
-permalink: /es/2025-10-21-column-anthropology-of-dance-music/
+permalink: /es/column-anthropology-of-dance-music/
 tags:
 - Techno
 - House
@@ -114,7 +114,7 @@ Era una versión moderna de un antiguo ritual.
 
 Inmediatamente después de la caída del Muro, Berlín era una zona sin ley y un campo de pruebas para la libertad.
 Clubes como Tresor y Berghain
-Se creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
+Creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
 Allí, el "bailar" en sí mismo es
 Fue un acto político de memoria y renacimiento.
 

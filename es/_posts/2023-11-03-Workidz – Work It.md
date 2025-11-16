@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Workidz – Work It.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Workidz – Work It/
+permalink: /es/workidz-work-it/
 tags:
 - Techno
 - Tech House

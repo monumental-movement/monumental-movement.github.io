@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Prodigy – Invaders Must Die.webp
 lang: es
 layout: post
-permalink: /es/2025-03-09-The Prodigy – Invaders Must Die/
+permalink: /es/the-prodigy-invaders-must-die/
 tags:
 - Breaks
 - Big Beat
@@ -46,5 +46,5 @@ DVD-4. Warrior's Dance (Live)
 
 [Comprar en Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

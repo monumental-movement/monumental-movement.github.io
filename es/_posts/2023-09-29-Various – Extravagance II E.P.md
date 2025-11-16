@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Extravagance II E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Various – Extravagance II E.P/
+permalink: /es/various-extravagance-ii-e-p/
 tags:
 - Techno
 - Hardcore Techno

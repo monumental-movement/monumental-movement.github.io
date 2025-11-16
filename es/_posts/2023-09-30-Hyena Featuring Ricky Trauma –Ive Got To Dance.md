@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hyena Featuring Ricky Trauma –I've Got To Dance.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Hyena Featuring Ricky Trauma –Ive Got To Dance/
+permalink: /es/hyena-featuring-ricky-trauma-ive-got-to-dance/
 tags:
 - Italo
 - House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Snap! – Cult Of Snap (World Power Mix).webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Snap – Cult Of Snap (World Power Mix)/
+permalink: /es/snap-cult-of-snap-world-power-mix/
 tags:
 - House
 - Euro Beat

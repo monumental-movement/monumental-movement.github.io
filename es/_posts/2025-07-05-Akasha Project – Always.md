@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Akasha Project – Always.webp
 lang: es
 layout: post
-permalink: /es/2025-07-05-Akasha Project – Always/
+permalink: /es/akasha-project-always/
 tags:
 - Psy-Trance
 - Techno

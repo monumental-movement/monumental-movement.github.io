@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-dubstep.webp
 lang: es
 layout: post
-permalink: /es/2025-08-28-Column-dubstep/
+permalink: /es/column-dubstep/
 tags:
 - Dubstep
 - 90s
@@ -84,7 +84,7 @@ Se formó una cultura dubstep exclusivamente japonesa a través de eventos celeb
 
 ### Influencia cultural del dubstep
 
-- **Penetración en la escena EDM**: Conectado con la cultura del festival y convirtiéndose en una presencia que resuena en el escenario principal.
+- **Penetración en la escena EDM**: Conectarse con la cultura del festival y convertirse en una presencia que resuene en el escenario principal.
 
 - **Reevaluación de la música bass**: Influyó significativamente en el desarrollo de géneros posteriores como el trap y el futuro bajo.
 

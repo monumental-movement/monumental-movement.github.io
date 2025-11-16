@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kiss – Destroyer.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Kiss – Destroyer/
+permalink: /es/kiss-destroyer/
 tags:
 - Rock
 - Hard Rock

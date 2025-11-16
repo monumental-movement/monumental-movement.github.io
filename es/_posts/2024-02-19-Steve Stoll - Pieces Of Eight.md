@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Steve Stoll - Pieces Of Eight.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Steve Stoll - Pieces Of Eight/
+permalink: /es/steve-stoll-pieces-of-eight/
 tags:
 - Techno
 - NY Techno

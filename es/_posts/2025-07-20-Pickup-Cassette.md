@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-cassette-tape.webp
 lang: es
 layout: post
-permalink: /es/2025-07-20-Pickup-Cassette/
+permalink: /es/pickup-cassette/
 tags:
 - Cassette
 title: Recoger cinta de casete funciona

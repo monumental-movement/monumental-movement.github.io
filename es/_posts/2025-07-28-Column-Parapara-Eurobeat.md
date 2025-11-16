@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-parapara-eurobeat.webp
 lang: es
 layout: post
-permalink: /es/2025-07-28-Column-Parapara-Eurobeat/
+permalink: /es/column-parapara-eurobeat/
 tags:
 - Euro
 - Eurobeat

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Supertramp – Breakfast In America.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-Supertramp – Breakfast In America/
+permalink: /es/supertramp-breakfast-in-america/
 tags:
 - Rock
 - Progressive

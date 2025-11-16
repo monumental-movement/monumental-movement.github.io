@@ -6,8 +6,7 @@ image: ../assets/images/Akabu Featuring Linda Clifford – Ride The Storm Part O
   Negro Mixes).webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-Akabu Featuring Linda Clifford – Ride The Storm Part One
-  (Joey Negro Mixes)/
+permalink: /es/akabu-featuring-linda-clifford-ride-the-storm-part-one-joey-negro-mixes/
 tags:
 - Electronic
 - House

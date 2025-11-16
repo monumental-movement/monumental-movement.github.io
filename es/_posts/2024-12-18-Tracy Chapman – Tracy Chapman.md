@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tracy Chapman – Tracy Chapman.webp
 lang: es
 layout: post
-permalink: /es/2024-12-18-Tracy Chapman – Tracy Chapman/
+permalink: /es/tracy-chapman-tracy-chapman/
 tags:
 - Folk Rock
 - Rock

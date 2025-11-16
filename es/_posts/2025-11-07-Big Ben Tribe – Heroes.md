@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Big Ben Tribe – Heroes.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Big Ben Tribe – Heroes/
+permalink: /es/big-ben-tribe-heroes/
 tags:
 - Italo-Disco
 - Disco

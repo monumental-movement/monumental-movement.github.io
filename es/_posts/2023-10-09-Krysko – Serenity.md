@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Krysko – Serenity.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Krysko – Serenity/
+permalink: /es/krysko-serenity/
 tags:
 - Drum n Bass
 - Rare

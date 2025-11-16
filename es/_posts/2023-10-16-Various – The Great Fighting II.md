@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – The Great Fighting II.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Various – The Great Fighting II/
+permalink: /es/various-the-great-fighting-ii/
 tags:
 - Ambient
 title: Varios – Los grandes combates II

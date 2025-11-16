@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-downtempo.webp
 lang: es
 layout: post
-permalink: /es/2025-08-01-Pickup-Downtempo/
+permalink: /es/pickup-downtempo/
 tags:
 - Downtempo
 - 90s

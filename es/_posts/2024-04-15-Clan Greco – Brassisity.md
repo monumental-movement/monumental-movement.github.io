@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Clan Greco – Brassisity.webp
 lang: es
 layout: post
-permalink: /es/2024-04-15-Clan Greco – Brassisity/
+permalink: /es/clan-greco-brassisity/
 tags:
 - House
 - Deep House

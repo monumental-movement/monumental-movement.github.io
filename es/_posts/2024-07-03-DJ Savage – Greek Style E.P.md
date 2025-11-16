@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Savage – Greek Style E.P.webp
 lang: es
 layout: post
-permalink: /es/2024-07-03-DJ Savage – Greek Style E.P/
+permalink: /es/dj-savage-greek-style-e-p/
 tags:
 - Techno
 - 00s

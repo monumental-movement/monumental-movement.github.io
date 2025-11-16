@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/8 Days Of Nothing - Die Kosmo Gesellschaft.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-8 Days Of Nothing - Die Kosmo Gesellschaft/
+permalink: /es/8-days-of-nothing-die-kosmo-gesellschaft/
 tags:
 - Noise
 - Rare

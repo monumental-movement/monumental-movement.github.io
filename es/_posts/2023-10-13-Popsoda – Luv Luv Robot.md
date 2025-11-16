@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Popsoda – Luv Luv Robot.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Popsoda – Luv Luv Robot/
+permalink: /es/popsoda-luv-luv-robot/
 tags:
 - Electro
 - Synth-Pop

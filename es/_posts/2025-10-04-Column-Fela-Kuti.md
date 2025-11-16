@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-fela-kuti.webp
 lang: es
 layout: post
-permalink: /es/2025-10-04-Column-Fela-Kuti/
+permalink: /es/column-fela-kuti/
 tags:
 - Afrobeat
 - History
@@ -51,7 +51,7 @@ La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minu
 
 ### Actividades políticas y culturales
 
-Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y los militares (un incidente famoso es la anécdota de la "Mierda Cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
 
 ---
 
@@ -208,7 +208,7 @@ Lideró los años 80 egipcios y heredó directamente el estilo de su padre.
 ### resumen
 
 Fela Kuti no sólo fue el "padre del Afrobeats" sino también un símbolo de resistencia política a través de la música. Ese legado sigue reflejándose a través de sus hijos Femi Kuti y Soon Kuti, y en el trabajo de artistas de todo el mundo.
-Si desea aprender más sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
+Si desea obtener más información sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
 
 Las palabras y los ritmos de Fela todavía resuenan en la brisa de Lagos y en los escenarios del mundo.
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Irene Cara – Fame.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Irene Cara – Fame/
+permalink: /es/irene-cara-fame/
 tags:
 - Disco
 - 80s

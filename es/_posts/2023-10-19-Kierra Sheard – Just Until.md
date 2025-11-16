@@ -5,12 +5,12 @@ categories:
 image: ../assets/images/Kierra Sheard – Just Until.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Kierra Sheard – Just Until/
+permalink: /es/kierra-sheard-just-until/
 tags:
 - R&B
 - Soul
 - Gospel
-title: Kierra Sheard – Sólo hasta
+title: Kierra Sheard - Sólo hasta
 ---
 
 

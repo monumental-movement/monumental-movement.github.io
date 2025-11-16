@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Believe In The Frequency Power.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Believe In The Frequency Power/
+permalink: /es/believe-in-the-frequency-power/
 tags:
 - Techno
 - Acid

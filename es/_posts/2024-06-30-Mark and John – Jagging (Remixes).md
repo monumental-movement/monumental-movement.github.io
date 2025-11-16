@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mark and John – Jagging (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2024-06-30-Mark and John – Jagging (Remixes)/
+permalink: /es/mark-and-john-jagging-remixes/
 tags:
 - House
 - Minimal

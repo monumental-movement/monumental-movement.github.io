@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Orange 9mm – Orange 9mm.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Orange 9mm – Orange 9mm/
+permalink: /es/orange-9mm-orange-9mm/
 tags:
 - Hardcore
 - Post Hardcore

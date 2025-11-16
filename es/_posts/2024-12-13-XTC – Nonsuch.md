@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/XTC – Nonsuch.webp
 lang: es
 layout: post
-permalink: /es/2024-12-13-XTC – Nonsuch/
+permalink: /es/xtc-nonsuch/
 tags:
 - Pop Rock
 - Rock

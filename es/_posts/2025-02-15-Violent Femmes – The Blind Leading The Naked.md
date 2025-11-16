@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Violent Femmes – The Blind Leading The Naked.webp
 lang: es
 layout: post
-permalink: /es/2025-02-15-Violent Femmes – The Blind Leading The Naked/
+permalink: /es/violent-femmes-the-blind-leading-the-naked/
 tags:
 - Alternative Rock
 - Rock

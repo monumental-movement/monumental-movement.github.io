@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Klangwerk – Die Kybernauten.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Klangwerk – Die Kybernauten/
+permalink: /es/klangwerk-die-kybernauten/
 tags:
 - Trance
 - Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-german-techno-areas.webp
 lang: es
 layout: post
-permalink: /es/2025-10-17-column-german-techno-areas/
+permalink: /es/column-german-techno-areas/
 tags:
 - Techno
 - German Techno
@@ -344,7 +344,7 @@ Es por eso que este país sigue siendo "honesto en sonido" más que cualquier ot
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Genealogía y actualidad del Techno alemán - Estética del sonido difundiéndose desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 

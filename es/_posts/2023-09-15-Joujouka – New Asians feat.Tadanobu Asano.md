@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joujouka – New Asians.webp
 lang: es
 layout: post
-permalink: /es/2023-09-15-Joujouka – New Asians feat.Tadanobu Asano/
+permalink: /es/joujouka-new-asians-feat-tadanobu-asano/
 tags:
 - House
 - Big Beat

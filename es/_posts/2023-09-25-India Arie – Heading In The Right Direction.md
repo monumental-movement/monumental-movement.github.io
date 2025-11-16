@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/India Arie – Heading In The Right Direction.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-India Arie – Heading In The Right Direction/
+permalink: /es/india-arie-heading-in-the-right-direction/
 tags:
 - House
 - Soul

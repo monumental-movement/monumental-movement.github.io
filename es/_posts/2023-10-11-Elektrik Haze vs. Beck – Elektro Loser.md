@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Elektrik Haze vs. Beck – Elektro Loser/
+permalink: /es/elektrik-haze-vs-beck-elektro-loser/
 tags:
 - Electro
 - Remix

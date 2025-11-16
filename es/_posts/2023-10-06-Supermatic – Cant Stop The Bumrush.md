@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Supermatic – Can't Stop The Bumrush.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Supermatic – Cant Stop The Bumrush/
+permalink: /es/supermatic-cant-stop-the-bumrush/
 tags:
 - Techno
 - Break Beat

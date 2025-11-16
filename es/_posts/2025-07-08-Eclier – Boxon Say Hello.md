@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Eclier – Boxon Say Hello.webp
 lang: es
 layout: post
-permalink: /es/2025-07-08-Eclier – Boxon Say Hello/
+permalink: /es/eclier-boxon-say-hello/
 tags:
 - Electro
 - Tech House

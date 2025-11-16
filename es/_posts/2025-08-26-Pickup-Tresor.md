@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-tresor.webp
 lang: es
 layout: post
-permalink: /es/2025-08-26-Pickup-Tresor/
+permalink: /es/pickup-tresor/
 tags:
 - Techno
 - German Techno

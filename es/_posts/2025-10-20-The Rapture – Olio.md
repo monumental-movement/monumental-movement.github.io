@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Rapture – Olio.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-The Rapture – Olio/
+permalink: /es/the-rapture-olio/
 tags:
 - Leftfield
 - Disco

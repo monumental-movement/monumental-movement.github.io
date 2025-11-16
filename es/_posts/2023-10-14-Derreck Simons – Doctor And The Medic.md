@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Derreck Simons – Doctor And The Medic.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Derreck Simons – Doctor And The Medic/
+permalink: /es/derreck-simons-doctor-and-the-medic/
 tags:
 - Euro Beat
 title: Derreck Simons - El doctor y el médico

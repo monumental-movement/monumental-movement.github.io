@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Chill Side 1.webp
 lang: es
 layout: post
-permalink: /es/2025-05-26-VA – Chill Side 1/
+permalink: /es/va-chill-side-1/
 tags:
 - Hiphop
 - 00s

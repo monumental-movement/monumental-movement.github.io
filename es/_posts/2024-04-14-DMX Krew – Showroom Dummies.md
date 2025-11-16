@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DMX Krew – Showroom Dummies2.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-DMX Krew – Showroom Dummies/
+permalink: /es/dmx-krew-showroom-dummies/
 tags:
 - Electro
 - Techno

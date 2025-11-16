@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deodato – Deodato 2.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Deodato – Deodato 2/
+permalink: /es/deodato-deodato-2/
 tags:
 - Funk
 title: Deodato – Deodato 2

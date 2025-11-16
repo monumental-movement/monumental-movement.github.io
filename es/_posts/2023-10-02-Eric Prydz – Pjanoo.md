@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Eric Prydz – Pjanoo.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Eric Prydz – Pjanoo/
+permalink: /es/eric-prydz-pjanoo/
 tags:
 - House
 - Electro

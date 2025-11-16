@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deep In Rhythm Featuring Ezee P – Keep The Crowd Movin.webp
 lang: es
 layout: post
-permalink: /es/2025-10-15-deep in rhythm featuring ezee p – keep the crowd movin/
+permalink: /es/deep-in-rhythm-featuring-ezee-p-keep-the-crowd-movin/
 tags:
 - Breakbeat
 - House

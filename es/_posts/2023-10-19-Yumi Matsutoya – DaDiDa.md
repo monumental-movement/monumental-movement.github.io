@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yumi Matsutoya – Da・Di・Da.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Yumi Matsutoya – DaDiDa/
+permalink: /es/yumi-matsutoya-dadida/
 tags:
 - JPop
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – We Are Reasonable People.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Various – We Are Reasonable People/
+permalink: /es/various-we-are-reasonable-people/
 tags:
 - Techno
 - Downtempo

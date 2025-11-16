@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oxia – Reflexion.webp
 lang: es
 layout: post
-permalink: /es/2024-08-03-Oxia – Reflexion/
+permalink: /es/oxia-reflexion/
 tags:
 - Techno
 - Minimal

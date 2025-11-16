@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Actors Pedantry – Diffrint Hings Oan E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-The Actors Pedantry – Diffrint Hings Oan E.P/
+permalink: /es/the-actors-pedantry-diffrint-hings-oan-e-p/
 tags:
 - IDM
 - House

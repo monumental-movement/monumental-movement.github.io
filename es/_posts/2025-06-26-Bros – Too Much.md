@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bros – Too Much.webp
 lang: es
 layout: post
-permalink: /es/2025-06-26-Bros – Too Much/
+permalink: /es/bros-too-much/
 tags:
 - Synth-Pop
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aly-Us – Time Passes On Go On.webp
 lang: es
 layout: post
-permalink: /es/2024-06-27-Aly-Us – Time Passes On Go On/
+permalink: /es/aly-us-time-passes-on-go-on/
 tags:
 - House
 - Garage House

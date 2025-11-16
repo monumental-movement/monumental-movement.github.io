@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Call – Modern Romans.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-The Call – Modern Romans/
+permalink: /es/the-call-modern-romans/
 tags:
 - Rock
 - New-Wave

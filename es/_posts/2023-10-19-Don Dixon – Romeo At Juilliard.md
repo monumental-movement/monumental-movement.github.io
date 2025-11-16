@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Don Dixon – Romeo At Juilliard.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Don Dixon – Romeo At Juilliard/
+permalink: /es/don-dixon-romeo-at-juilliard/
 tags:
 - Rock
 - Indie Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fun Fun – Gimme Some Loving (House Mix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Fun Fun – Gimme Some Loving (House Mix)/
+permalink: /es/fun-fun-gimme-some-loving-house-mix/
 tags:
 - Italo
 - Disco

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/U2 – Achtung Baby.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-U2 – Achtung Baby/
+permalink: /es/u2-achtung-baby/
 tags:
 - Rock
 - Pops

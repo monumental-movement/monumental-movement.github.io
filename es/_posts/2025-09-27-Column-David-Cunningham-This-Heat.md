@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-david-Cunningham-this-heat.webp
 lang: es
 layout: post
-permalink: /es/2025-09-27-Column-David-Cunningham-This-Heat/
+permalink: /es/column-david-cunningham-this-heat/
 tags:
 - Experimental
 - Post Punk
@@ -176,7 +176,7 @@ A --> G["Colaboración con Michael Nyman"]
 ### Conclusión
 
 - **Interpretación lírica**: This Heat critica la Guerra Fría tanto lírica como sonoramente.
-- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como un "dispositivo metafórico político".
+- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como "dispositivos metafóricos políticos".
 - **Importancia histórica de la música experimental**: más allá del post-punk, está directamente conectado con los fundamentos de la cultura moderna del muestreo/DAW e incluso con la producción musical de IA.
 
 Su música sigue siendo un grupo de obras que deberían reevaluarse como "grabación = crítica = experimento".

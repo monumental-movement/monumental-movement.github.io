@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Luke Slater – Freek Funk.webp
 lang: es
 layout: post
-permalink: /es/2025-07-09-Luke Slater – Freek Funk/
+permalink: /es/luke-slater-freek-funk/
 tags:
 - Techno
 - Electro

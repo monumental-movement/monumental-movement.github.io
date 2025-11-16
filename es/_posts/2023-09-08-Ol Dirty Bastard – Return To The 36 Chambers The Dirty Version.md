@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.webp
 lang: es
 layout: post
-permalink: /es/2023-09-08-Ol Dirty Bastard – Return To The 36 Chambers The Dirty Version/
+permalink: /es/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/
 tags:
 - Hiphop
 title: Ol' Dirty Bastard - Regreso a las 36 cámaras La versión sucia

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Channel X – So High.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Channel X – So High/
+permalink: /es/channel-x-so-high/
 tags:
 - Euro House
 - Euro Beat

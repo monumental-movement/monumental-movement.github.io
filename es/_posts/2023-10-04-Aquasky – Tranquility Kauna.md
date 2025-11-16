@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aquasky – Tranquility Kauna.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Aquasky – Tranquility Kauna/
+permalink: /es/aquasky-tranquility-kauna/
 tags:
 - Drum n Bass
 - Acid

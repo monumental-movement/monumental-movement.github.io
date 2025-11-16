@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cristian Vogel – Whipaspank.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Cristian Vogel – Whipaspank/
+permalink: /es/cristian-vogel-whipaspank/
 tags:
 - Techno
 - UK Techno

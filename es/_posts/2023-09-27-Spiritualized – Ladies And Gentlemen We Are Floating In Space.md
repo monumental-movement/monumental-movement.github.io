@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Spiritualized – Ladies And Gentlemen We Are Floating In Space.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Spiritualized – Ladies And Gentlemen We Are Floating In
-  Space/
+permalink: /es/spiritualized-ladies-and-gentlemen-we-are-floating-in-space/
 tags:
 - Rock
 - Post Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Hard Concert – Get The Power.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-The Hard Concert – Get The Power/
+permalink: /es/the-hard-concert-get-the-power/
 tags:
 - Italo
 - Disco

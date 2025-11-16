@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Masterboy – Different Dreams.webp
 lang: es
 layout: post
-permalink: /es/2024-05-27-Masterboy – Different Dreams/
+permalink: /es/masterboy-different-dreams/
 tags:
 - Euro
 - Euro Beat

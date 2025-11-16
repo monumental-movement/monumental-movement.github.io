@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nitsch and Gleinser – Time Control.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Nitsch and Gleinser – Time Control/
+permalink: /es/nitsch-and-gleinser-time-control/
 tags:
 - Electro
 - Synth-Pop

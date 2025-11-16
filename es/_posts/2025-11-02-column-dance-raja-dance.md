@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-dance-raja-dance.webp
 lang: es
 layout: post
-permalink: /es/2025-11-02-column-dance-raja-dance/
+permalink: /es/column-dance-raja-dance/
 tags:
 - Cinema
 - Disco
@@ -70,7 +70,7 @@ Las características de su música se pueden resumir en los siguientes tres punt
 La película fue la culminación de un **romance de acción musical** que reunió a las estrellas de la época: el director D. Rajendra Babu, el actor principal Vishnuvardhan y la actriz Khushbu.
 
 ### Resumen de la historia
-Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una conmovedora historia.
+Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una historia conmovedora.
 
 La trama es sencilla, pero lo que llama la atención es la integración de la producción y la música. Se dice que la canción principal, "Dance Raja Dance", es la primera canción en la historia del cine indio que combina batería electrónica y rap kannada.
 
@@ -150,7 +150,7 @@ título Vijaya Anand y la historia de la música cinematográfica del sur de la 
 1987: Lanzamiento de “Dance Raja Dance”
 1989: El sonido electrónico se hizo popular en las películas en kannada y se expandió la producción visual al estilo de MTV.
 1992: Éxito internacional con A.R. "Roja" de Rehman
-2000: Reedición de las obras de Vijay Anand, lanzamiento de la versión remix.
+2000: Reedición de las obras de Vijay Anand, edición remix publicada.
 2020: “Dance Raja Dance” es redescubierto por los jóvenes en YouTube
 
 </div>

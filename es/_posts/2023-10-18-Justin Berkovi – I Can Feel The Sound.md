@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Justin Berkovi – I Can Feel The Sound.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Justin Berkovi – I Can Feel The Sound/
+permalink: /es/justin-berkovi-i-can-feel-the-sound/
 tags:
 - Techno
 - UK Techno

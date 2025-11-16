@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marco Sfogli – reMarcoble.webp
 lang: es
 layout: post
-permalink: /es/2025-04-25-Marco Sfogli – reMarcoble/
+permalink: /es/marco-sfogli-remarcoble/
 tags:
 - Rock
 - UK
@@ -36,5 +36,5 @@ Este álbum, lanzado por JTC Records en 2012, es el segundo álbum en solitario 
 
 [Comprar en Mercari](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

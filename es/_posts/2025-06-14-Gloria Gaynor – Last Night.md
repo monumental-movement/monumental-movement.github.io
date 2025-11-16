@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gloria Gaynor – Last Night.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Gloria Gaynor – Last Night/
+permalink: /es/gloria-gaynor-last-night/
 tags:
 - Electronic
 - Euro House

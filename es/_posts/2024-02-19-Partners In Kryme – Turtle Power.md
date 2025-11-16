@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Partners In Kryme – Turtle Power.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Partners In Kryme – Turtle Power/
+permalink: /es/partners-in-kryme-turtle-power/
 tags:
 - Hiphop
 - Rap

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stereo De Luxe – Soul Sauce.webp
 lang: es
 layout: post
-permalink: /es/2024-11-02-Stereo De Luxe – Soul Sauce/
+permalink: /es/stereo-de-luxe-soul-sauce/
 tags:
 - Breakbeat
 - Downtempo

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sunaga T Experience – No Reason No Rhyme.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Sunaga T Experience – No Reason No Rhyme/
+permalink: /es/sunaga-t-experience-no-reason-no-rhyme/
 tags:
 - Jazz
 - Lounge

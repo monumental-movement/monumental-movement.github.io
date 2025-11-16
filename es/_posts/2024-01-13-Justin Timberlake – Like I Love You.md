@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Justin Timberlake – Like I Love You.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Justin Timberlake – Like I Love You/
+permalink: /es/justin-timberlake-like-i-love-you/
 tags:
 - Pops
 - 00s

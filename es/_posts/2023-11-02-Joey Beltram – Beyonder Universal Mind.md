@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joey Beltram – Beyonder Universal Mind.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Joey Beltram – Beyonder Universal Mind/
+permalink: /es/joey-beltram-beyonder-universal-mind/
 tags:
 - Techno
 - US Techno

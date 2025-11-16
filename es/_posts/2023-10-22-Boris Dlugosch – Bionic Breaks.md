@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Boris Dlugosch – Bionic Breaks.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Boris Dlugosch – Bionic Breaks/
+permalink: /es/boris-dlugosch-bionic-breaks/
 tags:
 - Electro
 - Hiphop

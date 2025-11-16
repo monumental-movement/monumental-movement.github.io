@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gigi D'Agostino – Noise Maker Theme 2000.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Gigi DAgostino – Noise Maker Theme 2000/
+permalink: /es/gigi-dagostino-noise-maker-theme-2000/
 tags:
 - Trance
 - Progressive

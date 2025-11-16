@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/David Alvarado – Midnight Express.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-David Alvarado – Midnight Express/
+permalink: /es/david-alvarado-midnight-express/
 tags:
 - House
 - Deep House

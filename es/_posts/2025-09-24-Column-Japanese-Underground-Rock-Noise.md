@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-japanese-underground-rock-noise.webp
 lang: es
 layout: post
-permalink: /es/2025-09-24-Column-Japanese-Underground-Rock-Noise/
+permalink: /es/column-japanese-underground-rock-noise/
 tags:
 - Noise
 - Experimental
@@ -21,7 +21,7 @@ title: '[Columna] La trayectoria del rock underground y el ruido japonés desde 
 Texto: mmr｜Tema: Atención mundial a la escena musical underground japonesa desde los años 1990 hasta los años 2000
 
 Las décadas de 1990 y 2000 fueron el apogeo de la **música noise** y también sirvieron como encrucijada con el rock alternativo y el punk de vanguardia.
-En particular, artistas como Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
+En particular, artistas como Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
 
 ---
 
@@ -54,7 +54,7 @@ Este período también vio el surgimiento de sellos independientes, apariciones 
 - **Merzbau**: Al pasar de los equipos analógicos al ruido de los portátiles, refleja los derechos de los animales y el vegetarianismo.
 - **Bombero**: Una existencia que desdibuja la línea entre "banda de ruido" y "arte escénico".
 - **Boredoms**: Fusionando psicodélico y ruido, influyendo en la escena alternativa americana.
-- **Melt-Banana**: "Nano Core" combina la velocidad del hardcore y la textura del ruido.
+- **Melt-Banana**: "Nano Core" combina velocidad extrema y textura de ruido.
 
 ---
 
@@ -160,7 +160,7 @@ J --> Z
 
 ## Preguntas frecuentes: sobre la escena del ruido underground japonés
 
-**P1: ¿Cómo cambió el escenario entre los años 90 y 2000? **
+**P1: ¿Cómo cambió el panorama entre los años 90 y 2000? **
 
 R1: La década de 1990 fue una época de explosión de experimentos innovadores, y la década de 2000 fue una época de reevaluaciones y reediciones desde el extranjero.
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Monkees - Words.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-The Monkees - Words/
+permalink: /es/the-monkees-words/
 tags:
 - Rock
 - Pops

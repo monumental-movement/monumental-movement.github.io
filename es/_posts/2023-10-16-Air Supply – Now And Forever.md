@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Air Supply – Now And Forever.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Air Supply – Now And Forever/
+permalink: /es/air-supply-now-and-forever/
 tags:
 - Rock
 - Soft Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/New Life – Got 2 B Free.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-New Life – Got 2 B Free/
+permalink: /es/new-life-got-2-b-free/
 tags:
 - Euro House
 - House

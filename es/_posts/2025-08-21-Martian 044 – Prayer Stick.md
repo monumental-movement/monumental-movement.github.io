@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Martian 044 – Prayer Stick.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Martian 044 – Prayer Stick/
+permalink: /es/martian-044-prayer-stick/
 tags:
 - Techno
 - Electro

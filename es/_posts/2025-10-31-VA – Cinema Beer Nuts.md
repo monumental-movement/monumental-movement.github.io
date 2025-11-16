@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Cinema Beer Nuts.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-VA – Cinema Beer Nuts/
+permalink: /es/va-cinema-beer-nuts/
 tags:
 - Rock
 - Hardcore

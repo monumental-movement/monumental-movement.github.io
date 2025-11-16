@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Los Terrorpinos – The Desert Song.webp
 lang: es
 layout: post
-permalink: /es/2025-09-01-Los Terrorpinos – The Desert Song/
+permalink: /es/los-terrorpinos-the-desert-song/
 tags:
 - Dub
 - Drum n Bass
