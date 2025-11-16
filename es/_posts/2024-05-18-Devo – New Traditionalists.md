@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Devo – New Traditionalists.webp
 lang: es
 layout: post
+permalink: /es/2024-05-18-Devo – New Traditionalists/
 tags:
 - Techno
 - Synth Pop
 - New-Wave
 - 80s
-title: Devo – New Traditionalists
+title: Devo – Nuevos Tradicionalistas
 ---
 
 
-「New Traditionalists」は1981年にリリースされたUSのニューウェイヴバンド、Devo（ディーヴォ）の4作目のアルバムであり、バンド初の完全セルフプロデュース・アルバム。
+"New Traditionalists" es el cuarto álbum de la banda estadounidense de new wave Devo, lanzado en 1981, y el primer álbum de producción completamente propia de la banda.
 
-「Whip It」が収録された前作のアルバムFreedom Of Choice（欲望心理学）のヒットを受けて、このアルバムでは「脱進化」をコンセプトにシンセサイザーのリフとリズム＆電子パーカッションに重点を置いたミニマルな雰囲気になっている。
+Tras el éxito de su álbum anterior Freedom Of Choice (Desire Psychology), que incluía "Whip It", este álbum tiene una atmósfera minimalista con énfasis en riffs de sintetizador, ritmo y percusión electrónica, con el concepto de "deevolución".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
@@ -34,9 +35,9 @@ B5. Enough Said
 B6. Working In The Coal Mine
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xDS3lfsa8gE?si=y4ghHU7tKzkpglEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDS3lfsa8gE?si=y4ghHU7tKzkpglEv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

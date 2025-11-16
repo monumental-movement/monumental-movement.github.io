@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Isaac Hayes – Shaft.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-Isaac Hayes – Shaft/
 tags:
 - Soul
 - Jazz
 - Funk
-title: Isaac Hayes – Shaft
+title: Isaac Hayes - Eje
 ---
 
 
-映画『Shaft』のサウンドトラックとして制作され、ゴードン・パークス監督によるクラシックなブラックスプロイテーション犯罪映画の音楽を担当しています。このアルバムは非常に評価され、最も偉大なサウンドトラックの一つとされています。
+Fue creado como banda sonora de la película Shaft y es responsable de la música de la clásica película criminal de blaxploitation dirigida por Gordon Parks. Este álbum fue aclamado por la crítica y considerado una de las mejores bandas sonoras de todos los tiempos.
 
-アイザック・ヘイズは、「Shaft」の音楽を作曲し、演奏しました。彼の特徴的なソウル、ファンク、オーケストラのアレンジがこのアルバムに盛り込まれています。アルバムには、象徴的なテーマ曲「Theme from Shaft」が収録されており、これは大ヒットとなり、ヘイズにアカデミー賞の最優秀オリジナルソング賞をもたらしました。この曲の感染力のあるグルーヴ、記憶に残るギターリフ、そしてヘイズのスムーズでソウルフルなヴォーカルは、瞬く間にクラシックとなりました。
+Isaac Hayes compuso e interpretó la música de "Shaft". Este álbum presenta sus arreglos orquestales, funk y soul característicos. El álbum incluía el tema icónico, "Theme from Shaft", que fue un gran éxito y le valió a Hayes un Premio de la Academia a la Mejor Canción Original. El ritmo contagioso de la canción, el memorable riff de guitarra y la voz suave y conmovedora de Hayes la convirtieron en un clásico instantáneo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Theme From Shaft (Vocal)
 
@@ -50,7 +51,7 @@ B7. Bumpy's Blues
 B8. Shaft Strikes Again
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61703287444?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61703287444?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lvIML3brZPA?si=is_xT6WtKMVrun2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lvIML3brZPA?si=is_xT6WtKMVrun2B" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp
 lang: es
 layout: post
+permalink: /es/2024-05-27-Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck/
 tags:
 - Hardcore
 - German Hardcore
@@ -14,13 +15,13 @@ title: Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück
 ---
 
 
-Kimusaweaは、ドイツ・フランクフルト出身のAlexandra PetrovićとHajo Greifによるハードコア/ポストハードコア/エクスペリメンタルバンド。 バンドは1998年に解散したが、Alexandra Petrovićはその後2003年〜2007年にドイツのエクスペリメンタルグラインドコア/メタルバンドBolz'nのメンバーとして、2007年からはIdiot Switchのメンバーとして活動した。
+Kimusawea es una banda de hardcore/post-hardcore/experimental formada por Alexandra Petrović y Hajo Greif de Frankfurt, Alemania. Aunque la banda se disolvió en 1998, Alexandra Petrović pasó a ser miembro de la banda alemana experimental de grindcore/metal Bolz'n de 2003 a 2007, y como miembro de Idiot Switch desde 2007.
 
-A面３曲目は、デヴィッド リンチの「ワイルドアットハート」＆「エレファントマン」、テリー ギリアムの「Brazil」、ソール バスの「フェイズIV 戦慄!昆虫パニック」からのサンプリングが入っている。
+La tercera pista de la cara A incluye muestras de "Wild at Heart" y "Elephant Man" de David Lynch, "Brazil" de Terry Gilliam y "Phase IV: Insect Panic" de Saul Bass.
 
-このLPは、ベルギーのDIYパンク/ハードコアレーベルNabateから1998年にリリースされた。
+Este LP fue lanzado en 1998 en el sello belga de punk/hardcore DIY Nabate.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Star (Look Up My X-File)
 A2. Blut, Blüte (Weltschmerz-Verbesserer)
@@ -31,7 +32,7 @@ B2. Tief
 B3. Kairos
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51946536415?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51946536415?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TzvO5VEsjO8?si=alm1Hm0IxhMTbYO1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzvO5VEsjO8?si=alm1Hm0IxhMTbYO1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Teena Marie – It Must Be Magic.webp
 lang: es
 layout: post
+permalink: /es/2025-07-18-Teena Marie – It Must Be Magic/
 tags:
 - Soul
 - Funk
 - Disco
 - 80s
-title: Teena Marie – It Must Be Magic
+title: Teena Marie - Debe ser mágico
 ---
 
 
-Lady T(レディT)の愛称で知られるTeena Marie(ティーナ・マリー)はアメリカのソウルとR&Bのシンガー。ユニークでソウルフルなソプラノヴォーカルスタイルが特徴。
+Teena Marie, también conocida como Lady T, es una cantante estadounidense de soul y R&B. Tiene un estilo vocal de soprano único y conmovedor.
 
-1981年にリリースされた「It Must Be Magic」は、Teena Marieの4枚目のスタジオアルバムであり、モータウンでの最後のアルバムとなった。ヒット曲Square Bizが収録されている。
-このレコードはMotownのサブレーベルGordyからのリリース盤。
+It Must Be Magic, lanzado en 1981, fue el cuarto álbum de estudio de Teena Marie y el último con Motown. Incluye la exitosa canción Square Biz.
+Este disco fue lanzado en el subsello Gordy de Motown.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. It Must Be Magic
 A2. Revolution
@@ -33,7 +34,7 @@ B3. Portuguese Love
 B4. Yes Indeed
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75939972774?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75939972774?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Td7lZfVD164?si=rEtr_p_HG74v4y0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Td7lZfVD164?si=rEtr_p_HG74v4y0u" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

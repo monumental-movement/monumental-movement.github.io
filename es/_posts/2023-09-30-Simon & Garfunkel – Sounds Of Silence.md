@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Simon & Garfunkel – Sounds Of Silence.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Simon & Garfunkel – Sounds Of Silence/
 tags:
 - Rock
 - Folk
-title: Simon & Garfunkel – Sounds Of Silence
+title: Simon & Garfunkel – Sonidos del silencio
 ---
 
 
-「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
+"Sounds Of Silence" fue lanzado en 1966. Este álbum supuso un hito importante en la carrera de Simon & Garfunkel, demostrando su madurez musical y talento.
 
-アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
+El álbum incluye los exitosos sencillos "The Sound of Silence" y "I Am a Rock". Estas canciones presentan un sonido folk melódico y las hermosas armonías de Paul Simon y Art Garfunkel.
 
-このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
+Este álbum es un trabajo atemporal tanto para los fans de Simon & Garfunkel como para los amantes de la música folk. Sus conmovedoras letras y hermosas melodías han conmovido a muchas personas y han seguido siendo amadas durante mucho tiempo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Sounds Of Silence
 
@@ -43,7 +44,7 @@ B4. We've Got A Groovey Thing Goin'
 B5. I Am A Rock
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

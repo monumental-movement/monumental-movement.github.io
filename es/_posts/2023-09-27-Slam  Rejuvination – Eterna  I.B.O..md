@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Slam  Rejuvination – Eterna  I.B.O.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Slam  Rejuvination – Eterna  I.B.O./
 tags:
 - House
 - Tech House
-title: Slam  Rejuvination – Eterna  I.B.O.
+title: Rejuvenecimiento de Slam – Eterna I.B.O.
 ---
 
 
-Slam  Rejuvinationによる
-"I.B.O." は素晴らしいトラックです。Eternaとそのカバー曲は何年も前から知られており、それも良い曲ですが、"I.B.O." は格別のトラックです。
+por Slam rejuvenecimiento
+"I.B.O." es una gran pista. Eterna y sus covers se conocen desde hace años y son buenas canciones, pero "I.B.O." Es una pista especial.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Slam–Eterna
 
 AA. Rejuvination–I.B.O.
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m59399198904?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6-fp_PqehKY?si=F49B1AKB317ovKav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6-fp_PqehKY?si=F49B1AKB317ovKav" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CXI0kEk__Mw?si=tYEYTgCAj-BiO6lR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CXI0kEk__Mw?si=tYEYTgCAj-BiO6lR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Original Love – Singles Back To 1991-1995.webp
 lang: es
 layout: post
+permalink: /es/2024-12-04-Original Love – Singles Back To 1991-1995/
 tags:
 - Rock
 - Pop
 - 90s
-title: Original Love – Singles Back To 1991-1995
+title: Amor original - Solteros de 1991 a 1995
 ---
 
 
-1996年にリリースされたOriginal Love(オリジナルラブ)のベストアルバム。1991年から1995年までにリリースされた全シングルがリリース順に収録されている。
+El mejor álbum de Original Love lanzado en 1996. Todos los sencillos lanzados entre 1991 y 1995 están incluidos en el orden de lanzamiento.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Deep French Kiss
 2. Blue Talk
@@ -34,7 +35,7 @@ title: Original Love – Singles Back To 1991-1995
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

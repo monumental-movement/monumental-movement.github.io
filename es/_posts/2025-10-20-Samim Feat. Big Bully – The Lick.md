@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Samim Feat. Big Bully – The Lick.webp
 lang: es
 layout: post
+permalink: /es/2025-10-20-Samim Feat. Big Bully – The Lick/
 tags:
 - Minimal
 - Tech House
 - 00s
-title: Samim Feat. Big Bully – The Lick
+title: Hazaña Samim. Gran matón - La lamida
 ---
 
 
-「The Lick」は、2008年にレーベルGet Physical(ゲットフィジカル)からリリースされたMinimal／Tech House。
+"The Lick" es una canción de Minimal/Tech House lanzada por el sello Get Physical en 2008.
 
-A&B1は、90年代シカゴハウスの代表的存在Derrick Carter (デリック・カーター)によるremix。
+A&B1 es un remix de Derrick Carter, representante del house de Chicago de los 90.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The Lick (Derrick Carter Vocal Remix)
 
@@ -25,7 +26,7 @@ B1. The Lick (Derrick Carter Dub Mix)
 B2. The Lick (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18353222880?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18353222880?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sbFvii6bQd8?si=wnzKnbLe1D9pghae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbFvii6bQd8?si=wnzKnbLe1D9pghae" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

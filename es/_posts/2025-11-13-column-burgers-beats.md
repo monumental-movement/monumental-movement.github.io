@@ -5,109 +5,111 @@ categories:
 image: ../assets/images/column-burgers-beats.webp
 lang: es
 layout: post
+permalink: /es/2025-11-13-column-burgers-beats/
 tags:
 - Rock
 - Accoustic
 - History
-title: 【コラム】 バーガーショップと音楽の50年史 ― ファストフードとサウンドブランディングの文化 ―
+title: '[Columna] 50 años de historia de las hamburgueserías y la música - La cultura
+  de la comida rápida y el branding sonoro -'
 ---
 
 
-## プロローグ：耳で味わうバーガーの時代
+## Prólogo: La era de las hamburguesas que se disfrutan con los oídos
 
 
-文：mmr｜テーマ：“耳で味わう文化”としてのファストフード音楽進化について
+Texto: mmr｜Tema: Sobre la evolución de la música de comida rápida como una “cultura que se puede disfrutar con los oídos”
 
-ハンバーガーショップの音楽は、単なるCMソングではなく「時代の音の肖像」である。  
-社会がどんな価値を求め、どんなテンポで生きていたのか──そのすべてが15秒のジングルやサウンドロゴに凝縮されている。  
+La música de la hamburguesería no es sólo una canción comercial, sino un "retrato sonoro de la época".
+Qué valores buscaba la sociedad y en qué ritmo vivía: todo esto se condensa en un jingle y un logotipo sonoro de 15 segundos.
 
-マクドナルドの明朗なファミリー・ポップ、バーガーキングの反骨のギターリフ、モスバーガーのウクレレが鳴らす手づくりの温度。  
-それらは企業広告というよりも、「時代の耳の記憶」そのものだ。 
+El alegre pop familiar de McDonald's, los rebeldes riffs de guitarra de Burger King y la calidez artesanal de Mos Burger con el ukelele.
+Más que anuncios corporativos, estos son los propios "recuerdos auditivos de la época".
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章　アメリカン・ドリームとファストフード音楽の誕生（1970〜80年代）
+## Capítulo 1 El sueño americano y el nacimiento de la música de comida rápida (décadas de 1970 y 1980)
 
-### 1-1　“ハンバーガー＝幸せ”を歌う：マクドナルド初期CM
-1971年、アメリカの広告代理店**DDB（Doyle Dane Bernbach）**が制作した「You Deserve a Break Today」。  
-作曲はSid Woloshin、作詞はDan Kallis。  
-ミュージカルのような高揚感を持ち、消費社会における“癒し”としてのマクドナルドを象徴した。
+### 1-1 Cantando “hamburguesa = felicidad”: el primer comercial de McDonald's
+"You Deserve a Break Today" fue producida en 1971 por la agencia de publicidad estadounidense **DDB (Doyle Dane Bernbach)**.
+Compuesto por Sid Woloshin, letra de Dan Kallis.
+Tenía una sensación inspiradora similar a la de un musical y simbolizaba a McDonald's como una "curación" en una sociedad de consumo.
 
-> ♪ “You deserve a break today, so get up and get away—to McDonald’s!”
+> ♪ “Te mereces un descanso hoy, así que levántate y vete... ¡a McDonald's!”
 
-この曲は全米でシングルとして販売され、ラジオチャート入りするという異例のヒット。
-ファストフードCMがポップミュージックの領域に食い込んだ最初の瞬間だった。
+Esta canción fue un éxito inusual, se vendió como sencillo en los Estados Unidos y entró en las listas de radio.
+Fue la primera vez que los comerciales de comida rápida entraron en el ámbito de la música pop.
 
-### 1-2　音楽産業との連動：広告からヒット曲へ
-1979年の“Menu Song”は、**ファンク＋ラップ調の語り**で構成され、後のヒップホップCMの先駆けとなった。
+### 1-2 Vínculo con la industria musical: de la publicidad a los éxitos
+"Menu Song" de 1979 consistía en **narración estilo funk + rap** y fue un precursor de los comerciales de hip-hop posteriores.
 
-### 1-3　日本上陸後の音楽戦略：都会派シティポップの導入
-1983年の「マクドナルドで会いましょう」シリーズは、作曲家 **大谷和夫** が担当。  
-AOR的コード進行とフェンダー・ローズの音色が特徴で、「アメリカンライフ＝都会の憧れ」として表現された。
-
----
-
-## 第2章　反骨のバーガーキング：ロックの精神と広告の反逆（1980〜2000年代）
-
-### 2-1　“Have It Your Way”とロックの倫理
-バーガーキングの音楽戦略は一貫して**反骨と自由**をテーマにしてきた。  
-1999年の“Whopper Rap”には、ニューヨークのプロデューサー **The Dust Brothers** が参加。  
-Beastie BoysやBeckを手がけたユニットで、商品説明をリズムとして刻む斬新な手法を採用。
-
-### 2-2　海外CM音楽家の参加例
-- **Mark Mothersbaugh**（Devo）: 90年代末の米国CMでギター＋シンセサウンドを提供  
-- **Daft Punk**: 欧州向け限定CMでのリズム構成・エレクトロアレンジを担当  
+### 1-3　Estrategia musical después del aterrizaje en Japón: Introducción del pop urbano
+La serie "Let's Meet at McDonald's" de 1983 fue compuesta por el compositor **Kazuo Otani**.
+Caracterizado por progresiones de acordes tipo AOR y tonos de Fender Rhodes, se expresó como "vida americana = anhelo de la ciudad".
 
 ---
 
-## 第3章　モスバーガー：音楽に宿る“手づくり”の哲学
+## Capítulo 2 El Burger King rebelde: Espíritu rockero y rebelión publicitaria (décadas de 1980-2000)
 
-### 3-1　オーガニック・サウンドの美学
-作曲家 **溝口肇** やアコースティックデュオ **ハナレグミ** が楽曲提供。  
-ウクレレ、アコギ、ピアノを中心に「自然と人のつながり」を表現。
+### 2-1 “Hazlo a tu manera” y la ética del rock
+La estrategia musical de Burger King siempre se ha basado en los temas de **rebelión y libertad**.
+"Whopper Rap" de 1999 contó con la participación de los productores neoyorquinos **The Dust Brothers**.
+La unidad que trabajó en Beastie Boys y Beck utiliza un método novedoso para crear descripciones de productos como ritmos.
 
-### 3-2　環境音のデザイン
-- パンを焼く音  
-- 野菜を切る音  
-- 紙袋を開く音  
-
-音楽家 **大橋トリオ** がフィールドレコーディングをアレンジし、音と商品体験を直結。
+### 2-2 Ejemplo de participación de músicos comerciales extranjeros
+- **Mark Mothersbaugh** (Devo): Proporcionó sonidos de guitarra y sintetizador en comerciales estadounidenses a finales de los 90.
+- **Daft Punk**: Responsable de la composición rítmica y arreglos electrónicos para comerciales europeos limitados.
 
 ---
 
-## 第4章　ロッテリアとフレッシュネスバーガー：都市型バーガーの音楽設計
+## Capítulo 3 Mos Burger: La filosofía de lo “hecho a mano” en la música
 
-### 4-1　ロッテリア：テクノポップ×日本的モダンデザイン
-1990年代、**砂原良徳** や **藤原ヒロシ** 関与。  
-デジタル打ち込みと映像演出の融合。
+### 3-1 Estética del sonido orgánico
+Música proporcionada por el compositor **Hajime Mizoguchi** y el dúo acústico **Hanaregumi**.
+Expresando la "conexión entre la naturaleza y las personas" utilizando ukelele, guitarra acústica y piano.
 
-### 4-2　フレッシュネスバーガー：カフェカルチャーとの接続
-店舗BGM監修には **橋本徹（SUBURBIA）**。  
-“音楽が味を支える”概念を早期に導入。
+### 3-2 Diseño de sonido ambiental
+- Sonido de pan horneando
+- Sonido de cortar verduras.
+- Sonido de abrir una bolsa de papel.
+
+Los músicos **Ohashi Trio** organizan grabaciones de campo para conectar directamente el sonido y la experiencia del producto.
 
 ---
 
-## 第5章　デジタル時代の再定義：5秒で伝わる“音のブランド力”（2010〜2020年代）
+## Capítulo 4 Lotería y Freshness Burger: Diseño musical para Urban Burger
 
-### 5-1　サウンドロゴの再構築
-- マクドナルド：世界共通の5音階ジングル（Pharrell, 川辺ヒロシ監修）  
-- 国ごとにテンポ・キー・アレンジ変更
+### 4-1 Lotteria: Techno pop x diseño moderno japonés
+En la década de 1990, **Yoshinori Sunahara** y **Hiroshi Fujiwara** estuvieron involucrados.
+Una fusión de entrada digital y producción de vídeo.
 
-### 5-2　SNS×アーティストコラボの潮流
+### 4-2 Freshness Burger: Conexión con la cultura del café
+**Toru Hashimoto (SUBURBIA)** supervisa la música de fondo de la tienda.
+Introducción temprana del concepto de “música que apoya el gusto”.
+
+---
+
+## Capítulo 5 Redefiniendo la era digital: “El poder de la marca sonora” transmitido en 5 segundos (2010-2020)
+
+### 5-1 Reconstrucción del logo sonoro
+- McDonald's: Jingle pentatónico universal (supervisado por Pharrell y Hiroshi Kawabe)
+- Cambiar el tempo/arreglo de clave para cada país
+
+### 5-2 Tendencias en la colaboración entre redes sociales y artistas
 
 | 年 | ブランド | アーティスト | 曲名／特徴 |
 |----|------------|----------------|-------------|
@@ -117,35 +119,35 @@ Beastie BoysやBeckを手がけたユニットで、商品説明をリズムと�
 
 ---
 
-## 第6章　サウンドブランディングの心理学：味覚と聴覚の融合
-- 高音域の音は甘味を強調  
-- 低音域は苦味を強調  
-- 店舗BGM120bpmで回転率15%増
+## Capítulo 6 Psicología del branding sonoro: fusión del gusto y el oído
+- Los sonidos agudos enfatizan la dulzura.
+- El rango bajo enfatiza el amargor
+- Aumento de la tasa de rotación en un 15 % con música de fondo en la tienda de 120 bpm
 
 ---
 
-## 年表：バーガーショップと音楽の進化史
+## Cronología: Historia de la evolución de las hamburgueserías y la música
 
 <div class="mermaid">
 
-timeline
-    title バーガーショップと音楽の年表
-    1971 : "マクドナルド『You Deserve a Break Today』発表（Sid Woloshin作曲）"
-    1977 : "日本版『マクドナルドで会いましょう』（大谷和夫）"
-    1985 : "ロッテリア、テクノポップ路線開始"
-    1999 : "バーガーキング『Whopper Rap』（The Dust Brothers）"
-    2003 : "『I’m Lovin’ It』（Pharrell × Timberlake）開始"
-    2005 : "モスバーガー、溝口肇によるナチュラルBGM"
-    2015 : "SNS連動型広告音楽が定着"
-    2022 : "バーガーキング × Creepy Nuts"
-    2023 : "マクドナルド × Ado『マック・アドベンチャー』"
+línea de tiempo
+título Cronología de hamburgueserías y música
+1971: "Se lanza 'You Deserve a Break Today' de McDonald's (compuesta por Sid Woloshin)"
+1977: “Versión japonesa de 'Quedémonos en McDonald's' (Kazuo Otani)”
+1985: “Lotteria inicia la ruta del techno pop”
+1999: "Burger King 'Whopper Rap' (Los hermanos Dust)"
+2003: "Empieza 'I'm Lovin' It' (Pharrell x Timberlake)"
+2005: "Mos Burger, música de fondo natural de Hajime Mizoguchi"
+2015: "La música publicitaria vinculada a redes sociales llegó para quedarse"
+2022: "Burger King × Nueces espeluznantes"
+2023: "McDonald's x Ado"Mac Adventure""
 
 </div>
 
 
 ---
 
-## ブランド別 音楽的特徴マップ
+## Mapa de características musicales por marca
 
 | ブランド    | 主な音楽スタイル     | 作曲家／音楽家                                           | 文化的方向性      |
 | ------- | ------------ | ------------------------------------------------- | ----------- |
@@ -157,9 +159,9 @@ timeline
 
 ---
 
-## エピローグ
+## Epílogo
 
-ファストフード音楽は“耳で味わう文化”として進化。
-ポテトが揚がる音、包み紙の音、ジングル──それらすべてが、現代社会のサウンドトラックである。
+La música de comida rápida ha evolucionado como una “cultura que se puede disfrutar con los oídos”.
+El sonido de las patatas fritas, el sonido del papel de regalo, el tintineo: todos ellos son la banda sonora de la sociedad moderna.
 
 ---

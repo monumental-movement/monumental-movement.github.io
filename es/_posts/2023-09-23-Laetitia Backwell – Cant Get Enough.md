@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Laetitia Backwell – Can't Get Enough.webp
 lang: es
 layout: post
+permalink: /es/2023-09-23-Laetitia Backwell – Cant Get Enough/
 tags:
 - Disco
 - Soul
-title: Laetitia Backwell – Can't Get Enough
+title: Laetitia Backwell – No puedo tener suficiente
 ---
 
 
-Laetitia Backwellによる「Can't Get Enough」は、
-正規のリイシュー盤になります。オリジナルは2003年リリースで、こちらは2006年にレーベルから正規で再発されたものになります。
+"No puedo tener suficiente" de Laetitia Backwell
+Esta será una reedición regular. El original fue lanzado en 2003 y este fue reeditado oficialmente por el sello en 2006.
 
-言わずと知れたバリーホワイトの名曲「Can't Get Enough」のカバーです。
+Esta es una versión de la famosa canción de Barry White "Can't Get Enough".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Can't Get Enough (Da Groove Mix)
 
@@ -26,7 +27,7 @@ A2  Can't Get Enough (Original Soul Mix)
 B1  Can't Get Enough (Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63458208694?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63458208694?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jn5qXq8weoo?si=ZgMbRXkZ3-ZHZd1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jn5qXq8weoo?si=ZgMbRXkZ3-ZHZd1I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

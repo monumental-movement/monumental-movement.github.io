@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Skinny Puppy – 12 Inch Anthology.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Skinny Puppy – 12 Inch Anthology/
 tags:
 - EBM
 - 90s
 - Digital Rock
-title: Skinny Puppy – 12 Inch Anthology
+title: Cachorro flaco - Antología de 12 pulgadas
 ---
 
 
-Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。
+Skinny Puppy es una banda electroindustrial formada en 1982 por Kelvin Key y Kevin Ogilvy, nacidos en Canadá.
 
-スキニーパピーは、インダストリアルロックとエレクトロインダストリアルのジャンルの創設者の一人として知られています。
+Skinny Puppy es conocido como uno de los fundadores del rock industrial y los géneros electroindustriales.
 
-このアルバムはバンド初期のシングル&B面が収録されたコンピレーションアルバムです。
+Este álbum es un álbum recopilatorio que contiene los primeros sencillos y caras B de la banda.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Dig It
 
@@ -42,7 +43,7 @@ B4. Stairs And Flowers (Too Far Gone)
 B5. Testure (12 Inch Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pY6rk963lUU?si=7GszfkIxE3Q-pPi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pY6rk963lUU?si=7GszfkIxE3Q-pPi0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

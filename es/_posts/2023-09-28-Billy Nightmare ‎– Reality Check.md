@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Billy Nightmare – Reality Check.webp
 lang: es
 layout: post
+permalink: /es/2023-09-28-Billy Nightmare ‎– Reality Check/
 tags:
 - Techno
 - Acid
-title: Billy Nightmare – Reality Check
+title: Billy Nightmare – Verificación de la realidad
 ---
 
 
-シカゴのレイヴシーンから現れたBilly Nightmareこと“Mystic Bill” TorresのEPです。
+Este es un EP de “Mystic Bill” Torres, también conocido como Billy Nightmare, quien surgió de la escena rave de Chicago.
 
-元々、このプロジェクトは「Billy's Nightmare」と題される予定でしたが、一生不運を招かないように、TorresはこれをBilly Nightmareに切り替えることに決めてMystic Billという別名を横に置き、髪を切り、サウンドを変え、この新しいペルソナとなりました。
+Originalmente, el proyecto se iba a titular "Billy's Nightmare", pero para evitar una vida de mala suerte, Torres decidió cambiarlo a Billy Nightmare, dejó de lado su alias Mystic Bill, se cortó el pelo, cambió su sonido y asumió esta nueva personalidad.
 
-『Reality Check』には1996年にシカゴのMirage Studiosで録音された4つのトラックが含まれています。
+Reality Check contiene cuatro pistas grabadas en los Mirage Studios de Chicago en 1996.
 
-A面の2つのトラックはダークなビートで、頭にしばらくの間影を落とします。B面には同じ曲の2つのバージョンがあり、どちらもMystic Billが制作できる多様性を示しています。
+Las dos pistas de la cara A tienen ritmos oscuros que proyectan una sombra sobre tu cabeza por un tiempo. La cara B presenta dos versiones de la misma canción, ambas mostrando la versatilidad que Mystic Bill es capaz de producir.
 
-すべての楽曲はGeorge HornによってFantasy Studiosでリマスターされました。
+Todas las canciones fueron remasterizadas por George Horn en Fantasy Studios.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I've Seen The World
 
@@ -33,7 +34,7 @@ B1. Dance,Shake,Swing
 B2. Dance... Version 2
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23235956197?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23235956197?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z7OPjWtuCsw?si=FEGhbMnWJOEJrLxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z7OPjWtuCsw?si=FEGhbMnWJOEJrLxo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Psychotropic – Only For The Headstrong.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Psychotropic – Only For The Headstrong/
 tags:
 - Break Beat
 - House
-title: Psychotropic – Only For The Headstrong
+title: 'Psicotrópico: sólo para los testarudos'
 ---
 
 
-「Only For The Headstrong」は、
-1991年にUKのレーベル「02 Records」からリリースされたPsychotropicのEPです。
+“Sólo para los testarudos” es
+Este es un EP de Psychotropic lanzado en 1991 por el sello británico "02 Records".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Only For The Headstrong
 
 B. Only For The Headstrong (Out Of Your Head Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27760488621?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27760488621?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oHJCbDXoq-U?si=tJtd4pYSrZpTS-ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oHJCbDXoq-U?si=tJtd4pYSrZpTS-ug" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

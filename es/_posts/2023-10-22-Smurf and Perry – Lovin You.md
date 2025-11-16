@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Smurf and Perry – Lovin' You.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Smurf and Perry – Lovin You/
 tags:
 - House
 - Deep House
-title: Smurf & Perry – Lovin' You
+title: Pitufo y Perry – Lovin' You
 ---
 
 
-Smurf & Perry（スマーフ&ペリー）は、ドイツ出身のDJ Big Smurf（Frank Koopmann）とFred Perryのユニット。
+Smurf & Perry es una unidad del DJ alemán Big Smurf (Frank Koopmann) y Fred Perry.
 
-「 Lovin' You」はvocalにConcha Buika（コンチャ・ブイカ）を迎え、2001年にFlamingo Discosよりリリースされた。
+"Lovin' You" contó con la vocalista Concha Buika y fue lanzado por Flamingo Discos en 2001.
 
-「Smurf & Perry – Lovin' You」は、1978年リリースのDonald Byrd（ドナルド・バード）「 Loving You」をサンプリング。
+"Smurf & Perry – Lovin' You" muestra "Loving You" de Donald Byrd, lanzado en 1978.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lovin' You (Vincenzo's Classic Club Mix)
 
@@ -29,7 +30,7 @@ B1. Lovin' You (Gucciman’s Everyday Style Mix)
 B2. Lovin' You (C.R. Project Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74148247550?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74148247550?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UKrcW01Uk-g?si=P5W6wMcrK6bYfq_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UKrcW01Uk-g?si=P5W6wMcrK6bYfq_b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

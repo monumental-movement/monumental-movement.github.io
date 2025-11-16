@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Wu-Tang Clan – CREAM.webp
 lang: es
 layout: post
+permalink: /es/2023-09-17-Wu-Tang Clan ‎– C.R.E.A.M. /
 tags:
 - Hiphop
 - Wu-Tang
-title: Wu-Tang Clan – C.R.E.A.M.
+title: Clan Wu-Tang – C.R.E.A.M.
 ---
 
 
-この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
+Esta canción aparece en el álbum de estudio debut de Wu-Tang Clan, Enter the Wu-Tang (36 Chambers), lanzado en 1993. "C.R.E.A.M." es una de las canciones más icónicas e influyentes de Wu-Tang Clan.
 
-The Charmelsの「As Long As I've Got You」をサンプリングした中毒性のあるプロダクションと内省的な歌詞で知られており、貧困地域での生活の苦境や経済的成功への願望を反映しています。
+Conocidos por su producción adictiva y letras introspectivas, que muestran "As Long As I've Got You" de The Charmels, reflexionan sobre las dificultades de vivir en vecindarios empobrecidos y las aspiraciones de éxito financiero.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. C.R.E.A.M. (Radio Edit)
 
@@ -35,7 +36,7 @@ B3. Da Mystery Of Chessboxin' (A Cappella)
 B4. Da Mystery Of Chessboxin' (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194?si=Od0iR6rZ_jvGDWiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194?si=Od0iR6rZ_jvGDWiR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

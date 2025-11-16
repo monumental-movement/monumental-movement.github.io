@@ -5,189 +5,191 @@ categories:
 image: ../assets/images/column-hearing-health.webp
 lang: es
 layout: post
+permalink: /es/2025-10-13-Column-Hearing-Health/
 tags:
 - History
 - Ambient
-title: 【コラム】 聴くという奇跡──Hearing Health Foundationが描く“音”の未来
+title: '[Columna] El milagro de escuchar: el futuro del “sonido” imaginado por la
+  Hearing Health Foundation'
 ---
 
 
-## 序章：耳という感覚の詩学
+## Introducción: Poéticas del sentido del oído
 
 
-文：mmr｜テーマ：耳は小さな宇宙だ。聴覚の研究・予防・再生を支援するHHFの活動を通して、“聴く”という行為の神秘と未来を探る
+Texto: mmr | Tema: El oído es un pequeño universo. Explore los misterios y el futuro del acto de "escuchar" a través de las actividades de HHF que apoyan la investigación, la prevención y la regeneración de la audición.
 
 
-> 「沈黙こそ、音楽の最も大切な一部である」  
-> — マイルス・デイヴィス
+> "El silencio es la parte más importante de la música"
+> — Miles Davis
 
-耳は、単に音を拾うための器官ではない。  
-それは記憶を運び、世界とつながるための“詩的装置”だ。  
+El oído no es sólo un órgano para captar sonidos.
+Es un "dispositivo poético" para transportar recuerdos y conectarse con el mundo.
 
-**Hearing Health Foundation（HHF）** は、この“聴く力”を守り、取り戻すために活動している。  
-米国最大の聴覚・平衡感覚研究基金として、彼らは聴覚障害や耳鳴りの原因究明から、再生医療・遺伝子治療の最前線までを支援している。
+**Hearing Health Foundation (HHF)** trabaja para proteger y restaurar esta "capacidad de escuchar".
+Como el fondo de investigación de audición y equilibrio más grande de los Estados Unidos, apoyan todo, desde la investigación de las causas de la pérdida auditiva y el tinnitus hasta la vanguardia de la medicina regenerativa y la terapia génica.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 1. 聴くことの科学──耳の中の宇宙
+## 1. La ciencia de la escucha: el universo dentro de tus oídos
 
-> 「音は空気を震わせ、心を震わせる。」  
-> — ブライアン・イーノ
+> “El sonido hace temblar el aire y hace temblar el corazón”.
+> — Brian Eno
 
-外耳で拾われた音は鼓膜を震わせ、耳小骨を通って蝸牛へ。  
-内耳の有毛細胞がその振動を電気信号に変え、脳が“音”として認識する。  
-HHFのサイトには、この精妙なシステムの破綻によって引き起こされる**感音性難聴**や**メニエール病**、**過敏聴覚**のメカニズムがわかりやすく解説されている。
+El sonido captado por el oído externo hace vibrar el tímpano, pasa a través de los huesecillos auditivos y llega a la cóclea.
+Las células ciliadas del oído interno convierten estas vibraciones en señales eléctricas, que el cerebro reconoce como "sonido".
+El sitio web de HHF proporciona una explicación fácil de entender de los mecanismos de la **pérdida auditiva neurosensorial**, la **enfermedad de Meniere** y la **hipersensibilidad** causadas por fallas en este delicado sistema.
 
-外耳で集められた音は、鼓膜を経て中耳の耳小骨に伝わり、内耳の蝸牛へ。
-そこから電気信号へ変換され、聴覚神経を通じて脳幹・聴覚野に届く。
-音を聴くことは、物理的現象から神経的・認知的プロセスまでが連なる、まさに“生命の音楽”である。
-
----
-
-## 2. 聴覚障害の風景──静寂の中のリズム
-
-歌手グライムスは、耳鳴りに悩まされながらも楽曲制作を続けている。  
-「ノイズの中にも秩序がある」と彼女は語る。  
-聴覚障害は、失うことではなく“再構築”の過程かもしれない。
-
-HHFは、耳鳴り（**Tinnitus**）やバランス障害の研究支援を続けている。  
-その対象は、単なる医学研究にとどまらず、「聴覚と脳の相互作用」を解き明かすニューロサイエンス領域にも及ぶ。
+El sonido recogido en el oído externo viaja a través del tímpano hasta los huesecillos del oído medio y luego a la cóclea del oído interno.
+Desde allí, se convierte en una señal eléctrica y se envía al tronco del encéfalo y a la corteza auditiva a través del nervio auditivo.
+Escuchar sonido es verdaderamente la "música de la vida", e involucra todo, desde fenómenos físicos hasta procesos neurológicos y cognitivos.
 
 ---
 
-## 3. 再生の科学──音を取り戻すという夢
+## 2. Panorama de la discapacidad auditiva ─ Ritmo en silencio
 
-「耳は回路であり、音楽は電流だ。」  
-— 坂本龍一
+El cantante Grimes continúa creando música a pesar de sufrir tinnitus.
+"Hay orden incluso en el ruido", dice.
+La pérdida de audición puede ser un proceso de "reconstrucción" más que de pérdida.
 
-HHFが支援する**Hearing Restoration Project（HRP）**では、  
-失われた有毛細胞を再生するための細胞療法・遺伝子治療の研究が進む。  
-これは、“聴くこと”の回復を現実のものとする未来への実験だ。
+HHF continúa apoyando la investigación sobre el tinnitus y los trastornos del equilibrio.
+El alcance de esta investigación no se limita a la simple investigación médica, sino que también se extiende al campo de la neurociencia, que dilucida la interacción entre la audición y el cerebro.
 
-人工内耳や新型補聴器の技術革新も目覚ましい。  
-“音を増幅する”から“脳に直接届ける”へ。  
-サウンドデザインの領域でも、脳波を利用した“聴覚的UI”研究が加速している。
+---
 
-### ▶︎ 図：聴覚信号経路（音波から聴覚野まで）
+## 3. La ciencia de la regeneración: el sueño de recuperar el sonido
+
+"El oído es un circuito y la música es una corriente eléctrica".
+- Ryuichi Sakamoto
+
+El **Proyecto de Restauración de la Audición (HRP)** apoyado por HHF
+La investigación sobre terapia celular y terapia génica para regenerar las células ciliadas perdidas está avanzando.
+Se trata de un experimento de futuro que hará realidad la recuperación de la "escucha".
+
+También son destacables las innovaciones tecnológicas en implantes cocleares y nuevos audífonos.
+De “amplificar el sonido” a “entregarlo directamente al cerebro”.
+En el campo del diseño de sonido, se está acelerando la investigación sobre la "IU auditiva" que utiliza ondas cerebrales.
+
+### ▶︎ Diagrama: Vía de la señal auditiva (desde las ondas sonoras hasta la corteza auditiva)
 
 <div class="mermaid">
 
-sequenceDiagram
-  participant Sound as 音波（空気の振動）
-  participant Outer as 外耳
-  participant Middle as 中耳
-  participant Inner as 内耳（蝸牛）
-  participant Hair as 有毛細胞
-  participant Nerve as 蝸牛神経
-  participant Brainstem as 脳幹（上オリーブ核など）
-  participant Midbrain as 下丘（Inferior colliculus）
-  participant Thalamus as 視床（MGN）
-  participant Cortex as 聴覚野（側頭葉）
+diagrama de secuencia
+Participante del sonido Onda sonora (vibración del aire)
+Participante externo como oído externo.
+participante Medio como oído medio
+Participante interno como oído interno (cóclea)
+Participante del cabello como célula ciliada.
+El nervio como participante
+tronco encefálico como tronco encefálico participante (núcleo olivar superior, etc.)
+Participante del mesencéfalo como colículo inferior
+participante Tálamo como tálamo (MGN)
+Corteza participante como corteza auditiva (lóbulo temporal)
 
-  Sound->>Outer: 音波を集める
-  Outer->>Middle: 鼓膜へ伝達
-  Middle->>Inner: 耳小骨で増幅
-  Inner->>Hair: コルチ器が振動を電気信号に
-  Hair->>Nerve: 神経発火
-  Nerve->>Brainstem: 一次信号到達
-  Brainstem->>Midbrain: 音源定位
-  Midbrain->>Thalamus: 時間周波数解析
-  Thalamus->>Cortex: 音の意味を認識
-  Note over Cortex: 記憶・感情と連携する高次処理
+Sonido->>Exterior: Recoge ondas sonoras
+Exterior->>Medio: Transmitido al tímpano
+Medio->>Interior: Amplificado por los huesecillos auditivos
+Interior->>Cabello: El órgano de Corti convierte las vibraciones en señales eléctricas
+Cabello->>Nervio: Disparo nervioso
+Nervio->>Tronco cerebral: señal primaria alcanzada
+Tronco encefálico->>Mesencéfalo: localización de la fuente de sonido
+Cerebro medio->>Tálamo: análisis tiempo-frecuencia
+Tálamo->>Cortex: Reconocer el significado de los sonidos
+Nota sobre Cortex: procesamiento de orden superior vinculado a la memoria y las emociones
 
 </div>
 
 ---
 
-### 簡易版
+### Versión sencilla
 
 <div class="mermaid">
 
-flowchart LR
-  音波 -->|集音| 耳
-  耳 -->|増幅| 蝸牛
-  蝸牛 -->|変換| 神経信号
-  神経信号 -->|伝達| 脳
-  脳 -->|認識| 聴覚体験
+diagrama de flujo LR
+Ondas sonoras -->|Colección de sonidos| Oreja
+Oído -->|Amplificación| Cóclea
+Cóclea -->|Transformación| señales nerviosas
+Señales neuronales -->|Transmisión| Cerebro
+Cerebro -->|Cognición| experiencia auditiva
 
 </div>
 
 ---
 
-<caption>音波が耳に入ってから大脳皮質で意味づけされるまでの時系列を追った図。脳幹や下丘、視床（MGN）が中継・前処理を行い、最終的に聴覚野で認識・解釈される。注意や記憶・情動回路がこの過程に影響を与える。</caption>
+<caption>Un diagrama que sigue la serie temporal de las ondas sonoras desde que ingresan al oído hasta que adquieren significado en la corteza cerebral. El tronco encefálico, el colículo inferior y el tálamo (MGN) realizan retransmisión y preprocesamiento, y la información finalmente se reconoce e interpreta en la corteza auditiva. La atención, la memoria y los circuitos emocionales influyen en este proceso. </caption>
 
 ---
 
-この経路は“聴覚の旅”である。
-物理的な空気の震えが、やがて感情や記憶と結びついた「音楽」へと昇華していく。
-その複雑な階層構造の研究は、人工知能の音声認識モデル設計にも応用されている。
+Esta ruta es un “viaje auditivo”.
+Los temblores físicos en el aire eventualmente se subliman en "música" conectada a emociones y recuerdos.
+La investigación sobre la compleja estructura jerárquica también se aplica al diseño de modelos de reconocimiento de voz para inteligencia artificial.
 
 ---
 
-## 4. 騒音と沈黙のあいだ──予防のカルチャー論
+## 4. Entre el ruido y el silencio: una teoría cultural de la prevención
 
-ロック・コンサートの爆音、イヤホンの過剰使用、都市の騒音。  
-これらは現代の“聴覚汚染”といえる。  
-HHFのキャンペーン「#KeepListening」は、音量と距離の関係を再考する社会的ムーブメントだ。
+Los sonidos fuertes de los conciertos de rock, el uso excesivo de auriculares y el ruido de la ciudad.
+A esto se le puede llamar la "contaminación auditiva" moderna.
+La campaña #KeepListening de HHF es un movimiento social que reconsidera la relación entre volumen y distancia.
 
-実際、デイヴィッド・ボウイは耳の健康を非常に気にかけ、  
-ツアー時にはステージのモニタ音量を通常の半分に設定していたという。  
-聴覚を守ることは、表現を長く続けるための“芸術的セルフケア”でもある。
-
----
-
-## 5. 音楽家と耳の運命──逸話で読み解く「聴覚の文化史」
-
-- **ベートーヴェン**：難聴の絶望の中で《第九》を完成。  
-- **ピート・タウンゼント（The Who）**：ライブの爆音で聴力を失い、聴覚保護の啓発活動を開始。  
-- **フィル・コリンズ**：片耳難聴を抱えながらもツアーを敢行。  
-- **レディオヘッド**のトム・ヨーク：耳鳴りを抱えつつ、“内なる音”を楽曲に昇華。
-
-これらの逸話が示すのは、**耳が壊れても音楽は終わらない**ということだ。  
-HHFの理念は、その精神を科学的に支えるものでもある。
+De hecho, David Bowie estaba muy preocupado por la salud de su oído.
+Durante la gira, el volumen del monitor del escenario se configuró a la mitad del volumen normal.
+Proteger tu audición es también una forma de "autocuidado artístico" que te permite seguir expresándote durante mucho tiempo.
 
 ---
 
-## 6. 社会と支援──耳の未来をつくるコミュニティ
+## 5. El destino de los músicos y el oído: “Historia cultural de la audición” interpretada a través de anécdotas
 
-HHFは寄付・研究助成・教育を通じて、聴覚健康の“文化的リテラシー”を育てている。  
-例えば、毎年選出される**Emerging Research Grants**受賞者たちは、  
-遺伝子編集から人工知能まで、多様な角度から“聴く未来”を描いている。
+- **Beethoven**: Completó la Novena en la desesperación de la pérdida auditiva.
+- **Pete Townshend (The Who)**: Perdió la audición debido al fuerte ruido de una actuación en vivo y comenzó una campaña para crear conciencia sobre la protección auditiva.
+- **Phil Collins**: realizó una gira a pesar de tener pérdida auditiva en un oído.
+- Thom Yorke de **Radiohead**: A pesar de sufrir tinnitus, sublimó sus "sonidos internos" en canciones.
 
-また、一般向けのオンライン誌「**Hearing Health Magazine**」では、  
-実際の体験談や専門家のコラムが掲載され、耳の健康をライフスタイルとして提案している。
-
----
-
-## 7. 結語：聴くという行為の未来
-
-「音楽は“聴くこと”の芸術であり、聴くことは“生きる”ことだ。」  
-— ジョン・ケージ
-
-聴覚の科学は、私たちの感性の科学でもある。  
-音の再生とは、人間の“存在の再生”なのかもしれない。  
-Hearing Health Foundationの活動は、医学とアートの境界を超え、  
-“聴くこと”をめぐる文化の未来を静かに照らしている。
+Estas anécdotas demuestran que la música no termina cuando tus oídos se dañan.
+La filosofía de HHF también brinda respaldo científico a su espíritu.
 
 ---
 
+## 6. Sociedad y apoyo: una comunidad que crea el futuro del oído
 
-## 参考リンク
+HHF fomenta la alfabetización cultural en salud auditiva a través de donaciones, subvenciones para investigación y educación.
+Por ejemplo, los ganadores de **Becas para investigación emergente** seleccionados cada año son:
+Desde la edición genética hasta la inteligencia artificial, describe el "futuro de la escucha" desde diversos ángulos.
 
-- [Hearing Health Foundation 公式サイト](https://hearinghealthfoundation.org)  
-- [Hearing Health Magazine](https://hearinghealthfoundation.org/magazine)  
-- [#KeepListening Campaign](https://hearinghealthfoundation.org/keeplistening)  
+Además, en la revista online para el público general, **Hearing Health Magazine**,
+Cuenta con experiencias reales y columnas de expertos, y propone la salud del oído como estilo de vida.
+
+---
+
+## 7. Conclusión: El futuro de la escucha
+
+"La música es el arte de escuchar y escuchar es vivir".
+—John jaula
+
+La ciencia de la audición es también la ciencia de nuestra sensibilidad.
+La reproducción del sonido puede ser la "reproducción de la existencia humana".
+Las actividades de la Hearing Health Foundation trascienden las fronteras entre la medicina y el arte.
+Ilumina silenciosamente el futuro de la cultura que rodea a la “escucha”.
+
+---
+
+
+## Enlaces de referencia
+
+- [Sitio web oficial de la Fundación para la Salud Auditiva](https://hearinghealthfoundation.org)
+- [Revista sobre salud auditiva] (https://hearinghealthfoundation.org/magazine)
+- [Campaña #KeepListening](https://hearinghealthfoundation.org/keeplistening)

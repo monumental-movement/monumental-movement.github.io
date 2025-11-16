@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Kaleidoscopio – Meu Sonho.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Kaleidoscopio – Meu Sonho/
 tags:
 - House
 - Drum n Bass
-title: Kaleidoscópio – Meu Sonho
+title: Caleidoscópio – Meu Sonho
 ---
 
 
-Kaleidoscópio （カレイドスコピオ /カレイド） は、ブラジルのサンパウロ出身のRamilson Maia（DJ ラミルソン・マイア）とJanaina Lima（ジャナイナ・リマ）によるドラムンベース＆ボサノバのデュオ。2000年代前半からブラジルとイタリアで人気を博し、その後世界的な人気となりました。
+Kaleidoscópio es un dúo de drum'n'bass y bossa nova de São Paulo, Brasil, formado por Ramilson Maia (DJ Ramilson Maia) y Janaina Lima. Se hizo popular en Brasil e Italia a principios de la década de 2000 y luego se hizo popular en todo el mundo.
 
-B面はブラジルのDJ、Deeplickによるリミックスを収録。
+La cara B incluye un remix del DJ brasileño Deeplick.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Meu Sonho (Star Guitar Remix Extended Club)
 
@@ -27,7 +28,7 @@ B1. Meu Sonho (Deeplick Remix Extended Club)
 B2. Meu Sonho (So Pra Mim Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53384235821?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53384235821?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I4KKivA-CuM?si=qAPsbfM4DObOfhpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I4KKivA-CuM?si=qAPsbfM4DObOfhpN" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

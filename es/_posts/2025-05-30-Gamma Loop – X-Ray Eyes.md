@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Gamma Loop – X-Ray Eyes.webp
 lang: es
 layout: post
+permalink: /es/2025-05-30-Gamma Loop – X-Ray Eyes/
 tags:
 - Electronic
 - House
 - 90s
-title: Gamma Loop – X-Ray Eyes
+title: Bucle gamma – Ojos de rayos X
 ---
 
 
-Gamma Loopは、ドイツのプロデューサー・サウンドデザイナーJürgen Driessenのジャーマンハードトランス／アシッドプロジェクト用名義。他にもBruce Wayne、Exit EEE等さまざまな名義で活動している。
+Gamma Loop es el nombre utilizado por el productor y diseñador de sonido alemán Jürgen Driessen para su proyecto alemán de hard trance/acid. También está activo bajo otros nombres como Bruce Wayne y Exit EEE.
 
-このレコードは、1993年にPete Bones（The Shaker）が設立したファンキーなポンピングハウスとプログレッシブトランスのブレンドスタイルを専門とするレーベル、Ugly Bug Recordsからリリースされたハウストラック。Ugly Bug RecordsはTony De Vit(トニー・デ・ヴィット)など多くのDJのお気に入りレーベルとして知られている。
+Este disco es una canción house lanzada por Ugly Bug Records, un sello fundado en 1993 por Pete Bones (The Shaker) que se especializa en un estilo que combina funky pumping house y trance progresivo. Ugly Bug Records es conocido como el sello favorito de muchos DJ, incluido Tony De Vit.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. X-Ray Eyes (Club Radiation Mix)
 
 B. X-Ray Eyes (House Radiation Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21998589846?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21998589846?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9y4_p0BJkbI?si=c3G12jVgmOID0v3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y4_p0BJkbI?si=c3G12jVgmOID0v3s" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

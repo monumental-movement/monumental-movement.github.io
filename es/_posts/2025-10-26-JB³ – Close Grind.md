@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/JB³ – Close Grind.webp
 lang: es
 layout: post
+permalink: /es/2025-10-26-JB³ – Close Grind/
 tags:
 - Techno
 - 90s
-title: JB³ – Close Grind
+title: JB³ – Molido cercano
 ---
 
 
-アメリカのテクノDJ／プロデューサーJoey Beltram (ジョイ・ベルトラム)がJB³ 名義で1996年にレーベルNovaMuteからリリースしたTechnoアルバム。ジャケは、Aphex Twinのロゴデザインで知られるUKのグラフィックデザイナーPaul Nicholsonによるもの。
+Un álbum de techno lanzado por el DJ y productor de techno estadounidense Joey Beltram bajo el nombre JB³ en el sello NovaMute en 1996. La chaqueta fue diseñada por el diseñador gráfico británico Paul Nicholson, conocido por diseñar el logotipo de Aphex Twin.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Time
 2. Curb
@@ -27,7 +28,7 @@ title: JB³ – Close Grind
 9. Forklift (Classic '93 Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87834647611?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87834647611?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m9gANN6efHk?si=fww_IA4zo9FsEEzj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9gANN6efHk?si=fww_IA4zo9FsEEzj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

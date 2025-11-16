@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Def Con 6 – Bum Rush The Sound.webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-Def Con 6 – Bum Rush The Sound/
 tags:
 - Break Beat
 - Acid
-title: Def Con 6 – Bum Rush The Sound
+title: Def Con 6 – Bum Rush El Sonido
 ---
 
 
-Def Con 6 はBrandon SmithとJohn Sextonによるユニット。
+Def Con 6 es una unidad formada por Brandon Smith y John Sexton.
 
-「Bum Rush The Sound」は、1998年にTweak! RecordsからリリースされたDef Con 6 のアシッド・ブレイクビーツ・ブレイクトラック。
+"Bum Rush The Sound" es una pista de breakbeat ácido de Def Con 6 lanzada en Tweak. Registros en 1998.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Bum Rush The Sound
 
@@ -25,7 +26,7 @@ B1. Groovy Tweaks
 B2. Metal Atmoshphere (Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41245922481?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41245922481?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78oqX_pIV1E?si=lCwFCtv3Paj5jBlK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78oqX_pIV1E?si=lCwFCtv3Paj5jBlK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

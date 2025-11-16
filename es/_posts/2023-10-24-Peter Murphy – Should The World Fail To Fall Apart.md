@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Peter Murphy – Should The World Fail To Fall Apart.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Peter Murphy – Should The World Fail To Fall Apart/
 tags:
 - Rock
 - Alternative Rock
 - Rare
-title: Peter Murphy – Should The World Fail To Fall Apart
+title: Peter Murphy – Si el mundo no se desmorona
 ---
 
 
-「Should the World Fail to Fall Apart」は、かつてゴシックロックバンドBauhausのメンバーであったイギリスのソロアーティスト、ピーター・マーフィーのデビューアルバムです。
+Should the World Fail to Fall Apart es el álbum debut del solista británico Peter Murphy, ex miembro de la banda de rock gótico Bauhaus.
 
-このアルバムには、マーフィーによるMagazineの「The Light Pours Out of Me」やPere Ubuの「Final Solution」などのカバーが収められています。1986年にリリースされました。
+El álbum incluye versiones de Murphy de "The Light Pours Out of Me" de Magazine y "Final Solution" de Pere Ubu. Lanzado en 1986.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Canvas Beauty (Romance Version)
 
@@ -40,7 +41,7 @@ B4. Final Solution
 B5. Jemal
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32847289290?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32847289290?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lG_nR-BmXvM?si=xTxPiUnE6gIZ0pb1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lG_nR-BmXvM?si=xTxPiUnE6gIZ0pb1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

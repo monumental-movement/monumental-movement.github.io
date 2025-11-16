@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/MDC-X-Static – You And Me.webp
 lang: es
 layout: post
+permalink: /es/2024-07-02-MDC-X-Static – You And Me/
 tags:
 - Euro House
 - Euro
 - House
 - 90s
-title: MDC-X-Static – You And Me
+title: MDC-X-Static – Tú y yo
 ---
 
 
-プロデューサーは、1990年に世界中でクラブヒットとなった「How To Dance」が有名なウィーン出身のKlaus Biedermann、Paul Pfab、 Helmut WolfgruberによるDJトリオBingoboys。
+Los productores son Bingoboys, un trío de DJ de Viena formado por Klaus Biedermann, Paul Pfab y Helmut Wolfgruber, famosos por su canción "How To Dance", que se convirtió en un éxito de discotecas en todo el mundo en 1990.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. You And Me (In Ecstasy) (Extended Ecstasy Mix)
 
@@ -24,7 +25,7 @@ B1. You And Me (In Ecstasy) (Get Wet Adventure Mix)
 B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Trajic – Basics.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Trajic – Basics/
 tags:
 - House
 - Hard House
-title: Trajic – Basics
+title: Trájico – Conceptos básicos
 ---
 
 
-DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパイオニア＆レジェンドとして知られるシカゴ拠点のDJ。
+DJ Trajic (Carlos Gomez/Kool Kutt) es un DJ radicado en Chicago conocido como pionero y leyenda del hard house en la década de 1990.
 
-「Basics」は、シカゴを拠点とするUSハードハウス/テックハウスレーベルUnderground Constructionよる1997年にリリースされた。
+"Basics" fue lanzado en 1997 por el sello estadounidense de hard house/tech house con sede en Chicago Underground Construction.
 
-B面１曲目はシカゴ出身のUSハウスミュージックDJ/プロデューサー JJ Flores（Jonathan Flores）によるremix。
+La primera pista de la cara B es un remix de JJ Flores (Jonathan Flores), un DJ y productor de música house estadounidense de Chicago.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Wasted Time
 
@@ -29,7 +30,7 @@ B1. Got Off My Dik # 1 (Traj/JJ Flores)
 B2. Got Off My Dik # 2 (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29973784379?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m29973784379?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nigwvYXU3Y?si=5TPB6tveP_pvqQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nigwvYXU3Y?si=5TPB6tveP_pvqQ8w" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

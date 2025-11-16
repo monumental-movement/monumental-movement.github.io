@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/The Rapture – Olio.webp
 lang: es
 layout: post
+permalink: /es/2025-10-20-The Rapture – Olio/
 tags:
 - Leftfield
 - Disco
 - 00s
-title: The Rapture – Olio
+title: El Rapto – Olio
 ---
 
 
-The Rapture(ザ・ラプチャー)は、1998年に結成したNY出身のバンド。ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカ、ロックなど様々なジャンルのテイストをミックスしたスタイルが特徴で、2000年代初頭のポストパンクリバイバルからのダンス・パンクムーブメントの中心的バンド。
+The Rapture es una banda de Nueva York formada en 1998. Caracterizados por un estilo que mezcla los gustos de varios géneros como dance punk, post-punk, acid house, disco, electrónica y rock, son una banda central del movimiento dance-punk que comenzó con el resurgimiento del post-punk a principios de los años 2000.
 
-1000枚のみの限定盤(片面)
+Edición limitada de sólo 1000 ejemplares (una cara)
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Olio
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnOhHJlEYUA?si=Mq0-5uHjrMZn0v6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnOhHJlEYUA?si=Mq0-5uHjrMZn0v6H" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

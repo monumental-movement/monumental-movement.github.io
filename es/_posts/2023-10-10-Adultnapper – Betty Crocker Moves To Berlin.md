@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Adultnapper – Betty Crocker Moves To Berlin.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Adultnapper – Betty Crocker Moves To Berlin/
 tags:
 - Techno
 - Minimal
 - Electro
-title: Adultnapper – Betty Crocker Moves To Berlin
+title: Adultnapper - Betty Crocker se muda a Berlín
 ---
 
 
-「Betty Crocker Moves To Berlin」は、
-2007年にUKのレーベル「Superfreq Records」からリリースされたFrancis HarrisによるプロジェクトAdultnapperのEPです。
+"Betty Crocker se muda a Berlín"
+Este es un EP de Adultnapper, un proyecto de Francis Harris, lanzado en 2007 por el sello británico Superfreq Records.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Betty Crocker Moves To Berlin
 
 AA. Kaitlin
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30208553606?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30208553606?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gJYRlYQT9Z0?si=BXeE9gRRVjw0bYZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJYRlYQT9Z0?si=BXeE9gRRVjw0bYZv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

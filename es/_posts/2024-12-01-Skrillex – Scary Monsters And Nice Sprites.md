@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Skrillex – Scary Monsters And Nice Sprites.webp
 lang: es
 layout: post
+permalink: /es/2024-12-01-Skrillex – Scary Monsters And Nice Sprites/
 tags:
 - Progressive House
 - Electro
 - Dubstep
 - Electro House
-title: Skrillex – Scary Monsters And Nice Sprites
+title: Skrillex – Monstruos aterradores y duendes agradables
 ---
 
 
-2012年にリリースされた日本盤。1〜6曲目まではSkrillexオリジナル曲。7曲目はオランダのドラムンベーストリオNoisia(ノイジア)のremix。8曲目は「Clarity」や、アリアナ・グランデのヒット曲「Break Free」で有名なDJ&プロデューサーZedd(ゼッド)によるremix。
+Versión japonesa lanzada en 2012. Las pistas 1 a 6 son canciones originales de Skrillex. La séptima canción es un remix del trío holandés de drum and bass Noisia. La octava canción es un remix del DJ y productor Zedd, famoso por "Clarity" y el éxito de Ariana Grande "Break Free".
 
-9曲目はDaniel Brown とOliver PileによるプロダクションデュオBare Noizeによるremix。
+La novena pista es un remix de Bare Noize, el dúo de producción formado por Daniel Brown y Oliver Pile.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -32,7 +33,7 @@ title: Skrillex – Scary Monsters And Nice Sprites
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

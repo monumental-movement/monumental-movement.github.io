@@ -6,22 +6,24 @@ image: ../assets/images/Jay Sinister Sealee Louie Vega Julie McKnight-Bitterswee
   Love Affair.webp
 lang: es
 layout: post
+permalink: /es/2023-10-03-Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet
+  Love Affair/
 tags:
 - House
-title: Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair
+title: Jay Sinister Sealee Louie Vega Julie McKnight-Amor agridulce
 ---
 
 
-「Bittersweet Love Affair」は、2009年にUKのレーベル「Atal」からリリースされたJay "Sinister" Sealée  & Louie VegaによるEPです。
+"Bittersweet Love Affair" es un EP de Jay "Sinister" Sealée y Louie Vega lanzado en el sello británico "Atal" en 2009.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Bittersweet Love Affair (Dance Ritual Mix)
 
 B. Bittersweet (Jay’s Main Event)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21567633655?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21567633655?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y5WfVfXOBnQ?si=PuSlz7RJYArldj1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y5WfVfXOBnQ?si=PuSlz7RJYArldj1g" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Freddie McGregor – Carry Go Bring Come.webp
 lang: es
 layout: post
+permalink: /es/2024-12-19-Freddie McGregor – Carry Go Bring Come/
 tags:
 - Reggae
 - 90s
-title: Freddie McGregor – Carry Go Bring Come
+title: Freddie McGregor – Llevar, ir, traer, venir
 ---
 
 
-Freddie McGregorは、ジャマイカ出身のレゲエミュージシャン。1963年にレーベルStudio One (スタジオ・ワン)でレコーディングを始めた時は、わずか7歳だった。75年にはラスタファリアンに改宗している。
+Freddie McGregor es un músico de reggae de Jamaica. Tenía sólo siete años cuando comenzó a grabar para el sello Studio One en 1963. En 1975, se convirtió al rastafarianismo.
 
-1980年初頭にリリースした「Bobby Babylon」で一躍有名になり、「Big Ship」「Push Comes to Shove」「Just Don't Want to Be Lonely」など数多くのヒット曲を生み出した。
+Saltó a la fama con el lanzamiento de "Bobby Babylon" a principios de la década de 1980 y tuvo muchas canciones exitosas, incluidas "Big Ship", "Push Comes to Shove" y "Just Don't Want to Be Lonely".
 
-「Carry Go Bring Come」は、プロデューサーにAugustus "Gussie" Clarke (オーガスタスガッシークラーク)を迎え、1994年にリリースされたレゲエアルバム。14曲目は日本盤のみのボーナストラック。
+"Carry Go Bring Come" es un álbum de reggae lanzado en 1994 con el productor Augustus "Gussie" Clarke. La pista 14 es una pista extra que solo está disponible en la versión japonesa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. This Carry Go Bring Come (Chatty Chatty Mouth)
 2. Want You To Be There
@@ -36,7 +37,7 @@ Freddie McGregorは、ジャマイカ出身のレゲエミュージシャン。1
 14. Flirty Flirty Riddim
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CLsbP6djl4U?si=ZV8OHbHAH6d5qHZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CLsbP6djl4U?si=ZV8OHbHAH6d5qHZ3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-RZA As Bobby Digital – RZA As Bobby Digital In Stereo/
 tags:
 - Hiphop
 - Wu-Tang
-title: RZA As Bobby Digital – RZA As Bobby Digital In Stereo
+title: RZA como Bobby Digital – RZA como Bobby Digital en estéreo
 ---
 
 
-「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」は、
-Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
+“RZA como Bobby Digital – RZA como Bobby Digital en estéreo” es
+El álbum debut en solitario de RZA de Wu-Tang Clan.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.  B.O.B.B.Y.
 2. Unspoken Word
@@ -36,7 +37,7 @@ Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビュー�
 16. Domestic Violence
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

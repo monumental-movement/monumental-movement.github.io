@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Real Life – Send Me An Angel '89.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Real Life – Send Me An Angel 89/
 tags:
 - House
 - Synth-Pop
-title: Real Life – Send Me An Angel '89
+title: Vida real – Envíame un ángel '89
 ---
 
 
-「Send Me An Angel '89」は、オーストラリアのシンセポップバンド、リアル・ライフ（Real Life）による楽曲です。オリジナルの「Send Me An Angel」は、1983年にリリースされた彼らのシグネチャーソングでしたが、1989年にリリースされたリミックスバージョンとしても知られています。
+"Send Me An Angel '89" es una canción de la banda australiana de synthpop Real Life. La canción original "Send Me An Angel" fue su canción insignia lanzada en 1983, pero también se la conoce como la versión remezclada lanzada en 1989.
 
-「Send Me An Angel '89」は、オリジナルの楽曲に比べてリズムやアレンジがアップデートされ、よりダンスポップなサウンドに仕上げられています。曲はシンセサイザーのメロディやエレクトリックなビートが特徴であり、壮大なサウンドスケープと共に、メロディックなヴォーカルが響き渡ります。
+"Send Me An Angel '89" tiene un ritmo y arreglo actualizados respecto a la canción original, dándole un sonido más dance-pop. La canción presenta una melodía de sintetizador y un ritmo eléctrico, con voces melódicas que resuenan junto con un magnífico paisaje sonoro.
 
-「Send Me An Angel '89」は、リアル・ライフの最も成功した曲の一つであり、特に1989年のリミックスバージョンは、世界的なヒットとなりました。曲は、その壮大なサウンドとキャッチーなメロディによって、多くのリスナーに愛され、クラブやラジオで頻繁にプレイされました。
+"Send Me An Angel '89" es una de las canciones más exitosas de Real Life, especialmente la versión remix de 1989, que se convirtió en un éxito mundial. La canción fue amada por muchos oyentes debido a su sonido épico y melodía pegadiza, y se tocaba con frecuencia en clubes y en la radio.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Send Me An Angel '89 (Edit)
 
@@ -29,7 +30,7 @@ B1. Send Me An Angel '89 (House Mix)
 B2. Always
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25923654306?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m25923654306?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MguFXuRuPao?si=YdJvSAOVU6bBle4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MguFXuRuPao?si=YdJvSAOVU6bBle4K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

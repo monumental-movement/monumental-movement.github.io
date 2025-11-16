@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Chris McCormack – There Are Better Ways.webp
 lang: es
 layout: post
+permalink: /es/2025-05-30-Chris McCormack – There Are Better Ways/
 tags:
 - Electronic
 - House
 - Techno
 - 00s
-title: Chris McCormack – There Are Better Ways
+title: Chris McCormack - Hay mejores maneras
 ---
 
 
-Chris McCormackはUKのテクノプロデューサー。「There Are Better Ways」は2枚組ハウス
-レコード。
+Chris McCormack es un productor de techno del Reino Unido. “Hay mejores maneras” es un set house de dos discos.
+registro.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. There Are Better Ways
 A2. The Button
@@ -32,7 +33,7 @@ D1. Da Filth
 D2. Pot Noodlez
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13283588453?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m13283588453?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CtsQ-cZaR5E?si=n2wClRmU_AzlW29b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CtsQ-cZaR5E?si=n2wClRmU_AzlW29b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

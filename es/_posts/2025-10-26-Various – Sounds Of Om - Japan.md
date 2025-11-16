@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Various – Sounds Of Om - Japan.webp
 lang: es
 layout: post
+permalink: /es/2025-10-26-Various – Sounds Of Om - Japan/
 tags:
 - House
 - 00s
-title: Various – Sounds Of Om - Japan
+title: Varios – Sonidos de Om - Japón
 ---
 
 
-ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
+Mejor álbum del sello house OM RECORDS. Un CD recopilatorio especial sólo para Japón.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Kaskade - It's You It's Me (More Vox Mix)
 2. Samantha James - Rise (Eric Cupper Remix)
@@ -29,4 +30,4 @@ title: Various – Sounds Of Om - Japan
 11. Naked Music NYC - It's Love (Naked ond Lovely Extended Vocal)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}

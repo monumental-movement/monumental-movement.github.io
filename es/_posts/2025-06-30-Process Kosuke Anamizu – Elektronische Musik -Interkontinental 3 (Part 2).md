@@ -6,31 +6,33 @@ image: ../assets/images/Process Kosuke Anamizu – Elektronische Musik -Interkon
   3 (Part 2).webp
 lang: es
 layout: post
+permalink: /es/2025-06-30-Process Kosuke Anamizu – Elektronische Musik -Interkontinental
+  3 (Part 2)/
 tags:
 - Tech House
 - House
 - 00s
-title: Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2)
+title: Proceso Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Parte 2)
 ---
 
 
-ProcessことSteve Barnesはイギリス出身のDJ。
-Cosmic Sandwich名義でもよく知られている。
+Steve Barnes, también conocido como Process, es un DJ de Inglaterra.
+También conocido como Sándwich Cósmico.
 
-Kosuke Anamizuは、日本出身のエレクトロニックミュージックサウンドデザイナー＆コンポーザー。
+Kosuke Anamizu es un diseñador de sonido y compositor de música electrónica de Japón.
 
-このレコードは2004年にドイツの名門レーベルTraum Schallplatten(トラウム・シャルプラッテン)からリリースされたコンピレーション。
+Este disco es una recopilación editada en 2004 por el prestigioso sello alemán Traum Schallplatten.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Process – Boll (Extended Version)
 
 B. Kosuke Anamizu – Moopy
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99751272225?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99751272225?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Woh6q-3YIUY?si=c2LfgTlj7jet8lWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Woh6q-3YIUY?si=c2LfgTlj7jet8lWY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S87FLnoOwYE?si=ZUZ8YzkStDlLuCNH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S87FLnoOwYE?si=ZUZ8YzkStDlLuCNH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

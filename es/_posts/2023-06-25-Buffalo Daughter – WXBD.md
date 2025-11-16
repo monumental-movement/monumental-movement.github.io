@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Buffalo Daughter – WXBD.webp
 lang: es
 layout: post
+permalink: /es/2023-06-25-Buffalo Daughter – WXBD/
 tags:
 - Break Beat
 - Big Beat
-title: Buffalo Daughter – WXBD
+title: Hija Búfalo - WXBD
 ---
 
 
-「Buffalo Daughter - WXBD」は、日本のエクスペリメンタルロックバンドであるバッファロー・ドーターによるアルバムです。
+"Buffalo Daughter - WXBD" es un álbum de la banda japonesa de rock experimental Buffalo Daughter.
 
-彼らの音楽は、オルタナティブロック、エレクトロニカ、サイケデリック、ポストロックなど、さまざまなジャンルの要素を取り入れた実験的なサウンドが特徴です。彼らの楽曲は、ユニークなリズムパターン、サンプリング、シンセサイザーの使用など、斬新なアプローチで構築されています。
+Su música se caracteriza por un sonido experimental que incorpora elementos de una variedad de géneros, incluyendo rock alternativo, electrónica, psicodélico y post-rock. Sus canciones están construidas con enfoques innovadores, que incluyen patrones rítmicos únicos, muestreo y el uso de sintetizadores.
 
-「WXBD」は、多くのリミキサーが参加したアーティスティックで大胆なサウンドとノイズを駆使した音楽体験を提供しています。
+"WXBD" ofrece una experiencia musical que hace pleno uso de sonidos y ruidos artísticos y atrevidos, con la participación de muchos remezcladores.
 
-バッファロー・ドーターの音楽を堪能したい人にとっても興味深いアルバムです。彼らの独自のサウンドスタイルと音楽の実験性は、オルタナティブ音楽のファンや音楽探求者にとって魅力的な体験をもたらすことでしょう。
+Este es un álbum interesante para aquellos que quieran disfrutar de la música de Buffalo Daughter. Su estilo de sonido único y su experimentación musical crearán una experiencia fascinante para los fanáticos y buscadores de música alternativa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Great Five Lakes (Kut Masta Kurt Mix)
 
@@ -39,7 +40,7 @@ B3. Jellyfish Blues (Scratch Pet Land Mix)
 B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

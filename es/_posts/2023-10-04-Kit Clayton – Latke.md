@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Kit Clayton – Latke.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Kit Clayton – Latke/
 tags:
 - Techno
 - Dub
@@ -12,9 +13,9 @@ title: Kit Clayton – Latke
 ---
 
 
-「Latke」は、2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）によるEPです。
+"Latke" es un EP de Joshua Kit Clayton (nacido en San Francisco) lanzado en Orthlorng Musork en 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Impetigo
 
@@ -26,7 +27,7 @@ B1. Jit's Blues
 B2. I Only Want Quiet
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25214098204?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m25214098204?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_Bh0zJQgwc?si=FFRtvKh92IizMrjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_Bh0zJQgwc?si=FFRtvKh92IizMrjq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

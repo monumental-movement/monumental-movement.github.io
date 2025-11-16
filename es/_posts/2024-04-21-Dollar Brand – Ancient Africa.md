@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Dollar Brand – Ancient Africa.webp
 lang: es
 layout: post
+permalink: /es/2024-04-21-Dollar Brand – Ancient Africa/
 tags:
 - Jazz
 - African
 - 70s
-title: Dollar Brand – Ancient Africa
+title: Marca dólar – África antigua
 ---
 
 
-南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
+Un álbum post-bop lanzado por el pianista y compositor sudafricano Abdullah Ibrahim, también conocido como Dollar Brand, en Trio Records en 1974.
 
-このアルバム 「ダラー・ブランド – 古代アフリカ」は、1972年6月にコペンハーゲンのJazz-Hus Montmartreでのライブ録音。
+El álbum "Dollar Brand - Ancient Africa" ​​fue grabado en vivo en el Jazz-Hus Montmartre de Copenhague en junio de 1972.
 
-Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
+Abdullah Ibrahim recibió la Orden del Sol Naciente en 2020 por contribuir a la amistad entre Japón y la República de Sudáfrica a través de la música.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Aa. Bra Joe From Kilimanjaro
 
@@ -44,8 +45,8 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JdHor2nspLY?si=hSX7etsSVp7Z5bE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JdHor2nspLY?si=hSX7etsSVp7Z5bE8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

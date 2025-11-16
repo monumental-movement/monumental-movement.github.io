@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Dub Tractor – Scary H H Loop.webp
 lang: es
 layout: post
+permalink: /es/2024-08-16-Dub Tractor – Scary H H Loop/
 tags:
 - Triphop
 - Experimental
@@ -14,13 +15,13 @@ title: Dub Tractor – Scary H H Loop / 104 Dub
 ---
 
 
-デンマーク・コペンハーゲンのエレクトロニックコミュニティの重鎮Dub TractorことAnders Remmer は、エレクトロニックミュージシャン・プロデューサー＆映画音楽作曲家。Thomas Knak（別名Opiate）とJesper Skaaning （別名Acustic）と共に「Future 3」「System」名義でも活動している。
+Anders Remmer, también conocido como Dub Tractor, es una figura destacada de la comunidad electrónica de Copenhague, Dinamarca, y es músico, productor y compositor de música electrónica. También trabaja bajo los nombres "Future 3" y "System" con Thomas Knak (alias Opiate) y Jesper Skaaning (alias Acustic).
 
-「Scary H H Loop / 104 Dub」は、1997年にリリースされたトリップポップ・エクスペリメンタル・アンビエントトラック。
+"Scary H H Loop / 104 Dub" es una pista ambiental experimental de trip-pop lanzada en 1997.
 
-B面１曲目は、コーンウォール一派の才人Luke Vibert（ルーク・ヴァイバート）がプロデュース＆remix。Wagon Christ（ワゴン・クライスト）はLuke Vibertの別名義。
+La primera canción de la cara B está producida y remezclada por el genio de Cornualles Luke Vibert. Wagon Christ es otro nombre de Luke Vibert.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Scary H H Loop
 A2. 104 Dub
@@ -32,7 +33,7 @@ Remix – Wagon Christ
 B2. A C Tractor
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

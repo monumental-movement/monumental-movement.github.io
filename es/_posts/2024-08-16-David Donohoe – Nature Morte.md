@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/David Donohoe – Nature Morte.webp
 lang: es
 layout: post
+permalink: /es/2024-08-16-David Donohoe – Nature Morte/
 tags:
 - Minimal
 - Ambient
 - 00s
-title: David Donohoe – Nature Morte!
+title: David Donohoe – ¡Naturaleza Morte!
 ---
 
 
-David Donohoeは、アイルランドのダブリンを拠点とするクリエイティブ ディレクター、グラフィック デザイナー、エレクトロニックミュージシャン＆実験音楽家。
+David Donohoe es un director creativo, diseñador gráfico, músico electrónico y músico experimental que vive en Dublín, Irlanda.
 
-「Nature Morte!」は、アイルランドのダブリンを拠点に活動するミニマルテクノシーンのベテランDonnache Costello（ドナチャ・コステロ）が運営するレーベルMinimiseから2004年にリリースされたミニマル・アンビエントトラック。
+"¡Naturaleza Morte!" es una pista de ambiente minimalista lanzada en 2004 en Minimise, un sello dirigido por Donnacha Costello, una veterana de la escena techno minimalista con sede en Dublín, Irlanda.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -25,7 +26,7 @@ A2. Still Life Is Alive
 B. Our Ghosts
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

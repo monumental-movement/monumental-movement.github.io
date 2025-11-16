@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Cygnus X – The Orange Theme (The Remixes).webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-Cygnus X – The Orange Theme (The Remixes)/
 tags:
 - Techno
 - Trance
-title: Cygnus X – The Orange Theme (The Remixes)
+title: Cygnus X – El tema naranja (Los Remixes)
 ---
 
 
-Cygnus Xは、ドイツのテクノユニットであり、1990年代に活動していました。彼らは、トランスミュージックやハードトランスのサウンドで知られています。
+Cygnus X es una unidad de techno alemana activa en la década de 1990. Son conocidos por su música trance y sus duros sonidos trance.
 
-「The Orange Theme」は、Cygnus Xの代表曲であり、1994年に最初にリリースされました。この曲は、エネルギッシュなビート、ハイテンションなシンセサウンド、迫力のあるビルドアップとドロップが特徴です。その壮大なサウンドとユニークなメロディは、トランスミュージックのファンにとっては馴染み深いものでしょう。
+"The Orange Theme" es la canción característica de Cygnus X y se lanzó por primera vez en 1994. Esta canción presenta un ritmo enérgico, un sonido de sintetizador de alta tensión y una poderosa acumulación y caída. Su magnífico sonido y sus melodías únicas resultarán familiares para los fanáticos de la música trance.
 
-リミキサーたちは、曲に独自のアプローチを加え、新たな解釈やサウンドをもたらしました。これにより、原曲の要素を活かしつつも、さまざまな音楽スタイルやアーティストの視点が取り入れられました。
+Los remezcladores han agregado sus propios enfoques únicos a las canciones, aportando nuevas interpretaciones y sonidos. Esto nos permitió incorporar diferentes estilos musicales y perspectivas de artistas sin dejar de conservar elementos de la canción original.
 
-「The Orange Theme (The Remixes)」は、トランスやハードトランスの愛好家にとって、エキサイティングなリミックス集となっています。曲のテンポやエネルギーが高く、クラブやフェスティバルのダンスフロアで盛り上がること間違いなしです。
+The Orange Theme (The Remixes) es una emocionante colección de remixes para los amantes del trance y el hard trance. La canción tiene un tempo alto y mucha energía y seguramente será un éxito en las pistas de baile de clubes y festivales.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Orange Theme (Moonman's Orange Juice Mix)
 
@@ -31,7 +32,7 @@ B1. The Orange Theme (Bervoets & De Goeij Remix)
 B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

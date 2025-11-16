@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Kenny Larkin – The Narcissist.webp
 lang: es
 layout: post
+permalink: /es/2025-02-26-Kenny Larkin – The Narcissist/
 tags:
 - House
 - Downtempo
 - Deep House
 - Techno
-title: Kenny Larkin – The Narcissist
+title: Kenny Larkin – El narcisista
 ---
 
 
-Kenny Larkin(ケニー・ラーキン)は、デトロイト出身のテクノ・ハウスプロデューサー・DJ。Juan Atkins(フアン・アトキンス)とDerrick May(デリック・メイ)の影響を受けて活動を始め、Richie Hawtin(リッチー・ホウティン)とJohn AcquavivaのレーベルPlus 8やBuzz、Warpなど数多くのレーベルからリリースしている。
+Kenny Larkin es un productor y DJ de techno house de Detroit. Comenzó su carrera bajo la influencia de Juan Atkins y Derrick May, y ha lanzado en numerosos sellos, incluidos los sellos Plus 8, Buzz y Warp de Richie Hawtin y John Acquaviva.
 
-「The Narcissist」は、イギリスのインディペンデントレーベルPeacefrog Recordsから2004年にリリースされたハウス・テクノ・ダウンテンポアルバム。
+"The Narcissist" es un álbum house techno downtempo lanzado en 2004 por el sello independiente británico Peacefrog Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Fake French (Epic Mix)
 2. My Reflection
@@ -33,7 +34,7 @@ Kenny Larkin(ケニー・ラーキン)は、デトロイト出身のテクノ・
 11. In The Meantime
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

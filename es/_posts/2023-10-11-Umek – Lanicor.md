@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Umek – Lanicor.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Umek – Lanicor/
 tags:
 - Techno
 - Rare
@@ -12,11 +13,11 @@ title: Umek – Lanicor
 ---
 
 
-Umekは、スロベニアのテクノ/テックハウスDJ、プロデューサー。
+Umek es un DJ y productor esloveno de techno/tech house.
 
-「Lanicor」は、1999年にスロベニアのテクノDJ Valentino Kanzyani（ヴァレンティノ カンジャニ）と共に立ち上げたレーベルConsumer Recreationからリリースされたテクノトラックで、Umekの代表作の一つでもある。
+"Lanicor" es una pista de techno lanzada por Consumer Recreation, un sello que cofundó con el DJ de techno esloveno Valentino Kanzyani en 1999, y es una de las obras maestras de Umek.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lanicor
 
@@ -31,7 +32,7 @@ B1. Mamomit
 B2. Meprobamat
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82061331358?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82061331358?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YRyd_O3_FHk?si=w6CWgmpOFpLPchaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YRyd_O3_FHk?si=w6CWgmpOFpLPchaO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

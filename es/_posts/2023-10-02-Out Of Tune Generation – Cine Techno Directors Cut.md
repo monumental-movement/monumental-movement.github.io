@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Out Of Tune Generation – Cine Techno Director's Cut.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Out Of Tune Generation – Cine Techno Directors Cut/
 tags:
 - Techno
 - House
-title: Out Of Tune Generation – Cine Techno Director's Cut
+title: Out Of Tune Generation – Edición del director de Cine Techno
 ---
 
 
-Out Of Tune Generationは高浪敬太郎（ピチカート・ファイブ）のプロジェクト。A1はモンド映画、「Sweden: Heaven and Hell」の挿入曲「マナ・マナ」のハウスカバー。
+Out Of Tune Generation es un proyecto de Keitaro Takanami (Pizzicato Five). A1 es una versión house de la canción "Mana Mana" de la película de Mondo "Sweden: Heaven and Hell".
 
-A2は、ギリシャ・イギリス映画「魚が出てきた日」のカバー。
+A2 es una versión de la película greco-británica "El día que salió el pez".
 
-B1のLinus & Lucyは、ピーナッツ（特にスヌーピーのメリー・クリスマス）で頻繁に流れるビンス・ガラルディが1964年に発表した楽曲Linus & Lucy（ライナス・アンド・ルーシー）のカバー。B2はイギリス映画「唇からナイフ」のカバー。
+Linus & Lucy de B1 es una versión de la canción Linus & Lucy de 1964 de Vince Guaraldi, que se reproduce a menudo en Peanuts (especialmente en Snoopy's Merry Christmas). B2 es la portada de la película británica "Knife from the Lips".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Mah-Na Mah-Na (Heaven And Hell In B#)
 
@@ -29,5 +30,5 @@ B1. Linus & Lucy (Listen To My Face Mix)
 B2. Modesty (Mode-Esty Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
 

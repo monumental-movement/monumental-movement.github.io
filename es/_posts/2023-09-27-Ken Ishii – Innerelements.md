@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Ken Ishii – Innerelements.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Ken Ishii – Innerelements/
 tags:
 - Techno
 - Ambient
-title: Ken Ishii – Innerelements
+title: Ken Ishii – Elementos internos
 ---
 
 
-ケンイシイ（Ken Ishii）は、日本のテクノミュージシャンで、国内外で高い評価を受けているアーティストです。R & S Recordsからリリースされたこのアルバムは、彼の代表作の一つです。
+Ken Ishii es un músico de techno japonés muy aclamado tanto a nivel nacional como internacional. Este álbum, editado por R&S Records, es una de sus obras maestras.
 
-「Innerelements」は、1994年にリリースされ、テクノミュージックの中でも特にトリップホップやエレクトロニカの要素を取り入れた作品として知られています。アンビエントなサウンドスケープやダウンテンポのリズムが特徴であり、その革新的なアプローチは多くのリスナーに強い印象を与えました。
+"Innerelements" fue lanzado en 1994 y es conocido como una pieza de música techno que incorpora elementos de trip-hop y electrónica. Con paisajes sonoros ambientales y ritmos downtempo, su enfoque innovador causó una fuerte impresión en muchos oyentes.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Encoding
 
@@ -44,7 +45,7 @@ title: Ken Ishii – Innerelements
 12. Decoding
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

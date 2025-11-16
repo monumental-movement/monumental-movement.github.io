@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Ricky Martin – Livin' La Vida Loca.webp
 lang: es
 layout: post
+permalink: /es/2023-10-17-Ricky Martin – Livin La Vida Loca/
 tags:
 - House
 - Pops
-title: Ricky Martin – Livin' La Vida Loca
+title: Ricky Martin – Livin’ La Vida Loca
 ---
 
 
-1999年にリリースされたリッキーマーティンの世界でヒットした有名なLivin' La Vida Locaのリミックスが収録された2枚組EPです。
+Este EP de 2 discos incluye una remezcla del famoso éxito mundial de Ricky Martin, Livin' La Vida Loca, lanzado en 1999.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Livin' La Vida Loca (Pablo Flores English Club Mix)
 
@@ -34,7 +35,7 @@ D2. Livin' La Vida Loca (Scissorhands Push & Pull Spanish House Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m66378364645?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66378364645?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p47fEXGabaY?si=_POeMNCfRlqOk-vJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p47fEXGabaY?si=_POeMNCfRlqOk-vJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

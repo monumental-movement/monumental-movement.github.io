@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Stevie Wonder – Part-Time Lover.webp
 lang: es
 layout: post
+permalink: /es/2025-05-27-Stevie Wonder – Part-Time Lover/
 tags:
 - Disco
 - Soul
 - 80s
-title: Stevie Wonder – Part-Time Lover
+title: Stevie Wonder - Amante a tiempo parcial
 ---
 
 
-「Part-Time Lover」は、R&BシンガーソングライターのStevie Wonder の20枚目のスタジオアルバム「In Square Circle(イン・スクエア・サークル)」（1985年）のシングル第1弾としてリリースされた。
+"Part-Time Lover" fue lanzado como el primer sencillo del vigésimo álbum de estudio del cantautor de R&B Stevie Wonder, In Square Circle (1985).
 
-この曲は、ビルボード・ホット100、R&B、ダンス、アダルト・コンテンポラリー・チャートで1位を獲得し、Stevie Wonder最後のナンバーワン・ヒット曲となった。
+La canción alcanzó el número uno en las listas Billboard Hot 100, R&B, Dance y Adult Contemporary, lo que la convierte en el último éxito número uno de Stevie Wonder.
 
-この曲は、R&BシンガーLuther Vandross(ルーサー・ヴァンドロス)がアドリブとバックボーカルを担当し、Earth, Wind and FireのSyreeta Wright(シリータ・ライト)とPhilip Bailey (フィリップ・ベイリー)をフィーチャーしている。
+La canción cuenta con improvisaciones y coros del cantante de R&B Luther Vandross, y cuenta con Syreeta Wright y Philip Bailey de Earth, Wind and Fire.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Part-Time Lover
 
 B. Part-Time Lover (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

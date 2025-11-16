@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Brtsh Knights – If I Was To.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Brtsh Knights – If I Was To/
 tags:
 - House
 - UK Garage
-title: Brtsh Knights – If I Was To
+title: Caballeros Brtsh - Si tuviera que hacerlo
 ---
 
 
-Brtsh KnightsことSweyn Jupiter（David Barseghian）は、ロンドンを拠点に活動するコンポーザー／キーボード奏者。
+Sweyn Jupiter (David Barseghian), también conocido como Brtsh Knights, es un compositor y teclista que vive en Londres.
 
-「If I Was To」は、Ninja TuneのシングルレーベルTechnicolorより2013年にリリースされた。
+"If I Was To" se lanzó en 2013 en el sello de sencillos Technicolor de Ninja Tune.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. If I Was To
 
 AA1. Hazed
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72551982372?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m72551982372?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CigZE0bYomw?si=Unw8z8G5Mv-sbfzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CigZE0bYomw?si=Unw8z8G5Mv-sbfzm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

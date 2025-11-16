@@ -5,132 +5,133 @@ categories:
 image: ../assets/images/column-fela-kuti.webp
 lang: es
 layout: post
+permalink: /es/2025-10-04-Column-Fela-Kuti/
 tags:
 - Afrobeat
 - History
-title: 【コラム】 Fela Kuti（フェラ・クティ）完全ガイド：アフロビートの創造者とその遺産
+title: '[Columna] Guía completa de Fela Kuti: El creador de los Afrobeats y su legado'
 ---
 
 
-##  アフリカ音楽の巨人──フェラ・クティとは誰か 
+## Gigante de la música africana: ¿Quién es Fela Kuti?
 
-文：mmr｜テーマ：フェラ・クティ（Fela Kuti）の生涯と音楽
+Texto: mmr｜Tema: La vida y la música de Fela Kuti
 
 
-フェラ・アニクラポ・クティ（Fela Aníkúlápó Kútì, 1938–1997）は、**ナイジェリア出身の音楽家、活動家、そしてアフロビートの創始者**です。ジャズ、ファンク、ハイライフ、ヨルバ音楽を融合させた独自のサウンドは、20世紀後半の世界音楽に計り知れない影響を与えました。  
-彼の音楽は単なるエンターテインメントではなく、軍政や不正を告発する「政治的声明」であり、数々の逮捕や暴力にも屈しない抵抗の象徴でした。 
+Fela Aníkúlápó Kútì (1938-1997) fue un músico, activista y fundador del Afrobeat nigeriano. Su sonido único, que combina jazz, funk, highlife y música yoruba, tuvo una inmensa influencia en las músicas mundiales de la segunda mitad del siglo XX.
+Su música no era sólo entretenimiento, sino una declaración política que denunciaba el gobierno militar y la injusticia, y un símbolo de resistencia a pesar de los numerosos arrestos y la violencia.
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
 
-### 生涯と音楽的変遷
+### Vida y evolución musical
 
-Fela Aníkúlápó Kútì は1938年にアベオクタで生まれ、ロンドンで音楽教育を受けた後、1960年代後半にナイジェリアへ戻り、ブルース／ジャズ／ファンク／ハイライフと伝統リズムを結びつけて独自の音楽言語を築いた。1960年代のKoola Lobitos期、1970年代にAfrica ’70で政治性を強め、後にEgypt 80などの編成へと発展していった。
+Fela Aníkúlápó Kútì nació en Abeokuta en 1938 y recibió su educación musical en Londres antes de regresar a Nigeria a finales de los años 1960 y crear su propio lenguaje musical, combinando blues/jazz/funk/highlife con ritmos tradicionales. Se volvió más político durante el período de Koola Lobitos en los años 1960 y África '70 en los años 1970, y más tarde se desarrolló en formaciones como Egipto 80.
 
-Felaの音楽は、長尺（10分〜30分）の反復的グルーヴ、力強いホーン・セクション、ポリリズム、そしてピジン英語による直接的なメッセージで特徴づけられる。ドラマーのトニー・アレンはアフロビート形成に不可欠な存在であり、彼のドラムはジャンルの基礎を作った。
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kr8oRpA2SpE?si=dvGPCJzJmMchpXmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minutos), fuertes secciones de viento, polirritmos y mensajes directos en inglés pidgin. El baterista Tony Allen fue una parte integral de la formación de Afrobeats, y su forma de tocar la batería sentó las bases del género.
 
 ---
 
-### 政治・カルチャーとしての活動
-
-フェラは自身の邸宅を「Kalakuta Republic（カラクトゥ共和国）」と宣言し、共同体、スタジオ、劇場的空間として運営。軍政への痛烈な批判が繰り返され、警察や軍による襲撃や拘束、拷問エピソードも多く残る（有名な事件の一つが“Expensive Shit”の逸話）。これらの闘争的な姿勢が彼をナイジェリアの「声なき者の声（voice of the voiceless）」にした一方、肉体的代償も伴った。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kr8oRpA2SpE?si=dvGPCJzJmMchpXmv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 代表的な時代区分と音楽的ハイライト
+### Actividades políticas y culturales
+
+Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y los militares (un incidente famoso es la anécdota de la "Mierda Cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+
+---
+
+### Periodizaciones típicas y momentos destacados musicales.
 
 <div class="mermaid">
-flowchart TD
-  1958["1958-1966: Koola Lobitos / Highlife期"]
-  1969["1969: The '69 Los Angeles Sessions（米録音）"]
-  1970s["1970s: Africa '70 — アフロビート確立期"]
-  1975["1975: Expensive Shit / Water No Get Enemy"]
-  1977["1977: Zombie（軍を痛烈に批判）"]
-  1980s["1980s: Egypt 80, 国際ツアーと政治闘争継続"]
-  1997["1997: 死去（影響は継続）"]
-  1958 --> 1969 --> 1970s --> 1975 --> 1977 --> 1980s --> 1997
+diagrama de flujo TD
+1958["1958-1966: Koola Lobitos / Período Highlife"]
+1969["1969: Las sesiones de Los Ángeles del 69"]
+Década de 1970["Década de 1970: África '70 - Período de establecimiento del afrobeat"]
+1975["1975: Mierda cara / Agua sin enemigos"]
+1977["1977: Zombi"]
+Década de 1980["Década de 1980: Egipto 80, gira internacional y lucha política continua"]
+1997["1997: Falleció (efectos continuos)"]
+1958 --> 1969 --> 1970 --> 1975 --> 1977 --> 1980 --> 1997
 </div>
 
-ロンドン期→米録音→Africa ’70での確立→1970年代中盤の政治的ピーク→80年代以降の活動と弾圧を経て1997年に没（死因は合併症/エイズ関連と報告される）。
+Período de Londres → registro en los EE. UU. → establecimiento en África '70 → pico político a mediados de la década de 1970 → actividad y represión a partir de la década de 1980, y murió en 1997 (se informa que la causa de la muerte fueron complicaciones/relacionadas con el SIDA).
 
 ---
 
-### 関わったバンド・プロデュース／周辺の人物
+### Bandas/productores involucrados/gente que los rodea
 
-**Koola Lobitos（初期）**→ Africa ’70（最も象徴的な編成）→ Egypt 80（80年以降の編成）。各期でメンバーが入れ替わりつつも、ホーン隊・コーラス・リズム隊の大所帯編成が特徴。
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dfpRVjkPHpY?si=Bfqk4EXzfqjqgBXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Koola Lobitos (temprano)** → África ’70 (configuración más emblemática) → Egipto 80 (configuración posterior a 1980). Aunque los miembros cambian cada temporada, se caracteriza por una gran composición familiar de sección de trompeta, coro y sección rítmica.
 
 ---
 
-**トニー・アレン（Tony Allen）**：共同でアフロビートのリズムを構築したドラマー。彼の死（2020年）はジャンルにとって大きな損失だったが、アフロビートの核は残る。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfpRVjkPHpY?si=Bfqk4EXzfqjqgBXr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LzlrorBkYok?si=wrcO-z79XZlElKht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Tony Allen**: baterista que co-creó los ritmos afrobeat. Su muerte (2020) fue una gran pérdida para el género, pero el núcleo del Afrobeats permanece.
 
 ---
 
-### 逸話・伝説
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzlrorBkYok?si=wrcO-z79XZlElKht" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-**“Expensive Shit” の事件**：警察が逮捕の口実としてマリファナ（ジョイント）を仕掛けたとされる事件を、フェラは逆手にとって曲にした（アルバム『Expensive Shit』）。この物語はフェラの反体制的イメージを象徴する逸話として語り継がれる。
+---
 
-**Kalakuta襲撃と母の死**：Kalakutaが軍に襲撃された際、フェラの母が被害を受けたとされる事件は、後の楽曲や活動の原動力にもなった。
+### Anécdota/Leyenda
+
+**Incidente “Caro Mierda”**: Fela aprovechó el incidente en el que la policía supuestamente plantó un porro de marihuana como pretexto para el arresto y lo convirtió en una canción (álbum ``Caro Mierda''). Esta historia se transmite como una anécdota que simboliza la imagen antisistema de Fela.
+
+**Ataque de Kalakuta y muerte de la madre**: El incidente en el que la madre de Fela supuestamente resultó herida cuando Kalakuta fue atacado por el ejército se convirtió en la fuerza impulsora detrás de sus canciones y actividades posteriores.
 
 
 ---
 
-### 年代別フェラ・クティのアルバム解説
+### Comentario del álbum de Fela Kuti por grupo de edad
 
-#### 1960年代：Koola Lobitos期  
-- **『The ’69 Los Angeles Sessions』**  
-  ロンドン留学後の初期作で、ジャズとハイライフが中心。アフロビート以前の萌芽が聴ける作品。  
+#### Década de 1960: período de Koola Lobitos
+- **『Las sesiones de Los Ángeles del 69』**
+Este es su primer trabajo después de estudiar en Londres y se centra en el jazz y la alta vida. Un trabajo donde se pueden escuchar los inicios de lo que fue antes del Afrobeat.
 
-#### 1970年代前半：アフロビート確立期  
-- **『Gentleman』（1973）**  
-  植民地主義を批判した名作。ファンク的なグルーヴに社会的メッセージが加わる。  
-- **『Confusion』（1975）**  
-  ラゴスの都市混乱を比喩的に描いた20分超の大曲。  
+#### Principios de la década de 1970: período de establecimiento del afrobeat
+- **Caballero (1973)**
+Una obra maestra que critica el colonialismo. Se añade un mensaje social al ritmo funk.
+- **"Confusión" (1975)**
+Una canción de 20 minutos de duración que representa en sentido figurado el caos urbano de Lagos.
 
-#### 1970年代後半：政治的ピーク  
-- **『Expensive Shit』（1975）**  
-  警察による大麻冤罪事件を逆手にとった名盤。代表曲「Water No Get Enemy」収録。  
-- **『Zombie』（1977）**  
-  軍を“ゾンビ”と呼び批判した挑発作。結果としてKalakuta Republicが襲撃される引き金に。  
-- **『Sorrow Tears and Blood』（1977）**  
-  軍による弾圧と流血を告発した強烈な楽曲。  
+#### Finales de la década de 1970: pico político
+- **“Mierda cara” (1975)**
+Una obra maestra que aprovecha el caso de falsa condena por marihuana por parte de la policía. Incluye la canción representativa "Water No Get Enemy".
+- **Zombi (1977)**
+Una obra provocadora que critica a los militares llamándolos "zombis". Como resultado, se convirtió en el detonante del ataque a la República de Kalakuta.
+- **Dolor, lágrimas y sangre (1977)**
+Una canción poderosa que denuncia la opresión militar y el derramamiento de sangre.
 
-#### 1980年代：Egypt 80期  
-- **『Underground System』（1989）**  
-  長尺のリズムとホーンセクションが冴える後期代表作。  
-- **『Beasts of No Nation』（1989）**  
-  世界の指導者を痛烈に批判。国際的にも注目を浴びた。  
+#### Década de 1980: Egipto años 80
+- **Sistema subterráneo (1989)**
+Una obra maestra tardía con ritmos largos y una sección de viento clara.
+- **Bestias sin nación (1989)**
+Una dura crítica a los líderes mundiales. También atrajo la atención internacional.
 
-#### 1990年代：最晩年  
-- **ライブ盤や編集盤**を中心に活動。健康悪化の中でも音楽的メッセージを発信し続けた。  
+#### Década de 1990: últimos años
+- Principalmente activo en **álbumes en vivo y álbumes editados**. Incluso cuando su salud se deterioró, continuó enviando mensajes musicales.
 
 ---
 
-### おすすめアルバム（購入リンク付き）
+### Álbumes recomendados (con enlace de compra)
 
 | 年代 | アルバム | 解説 | リンク |
 |---|---|---|---|
@@ -142,79 +143,79 @@ flowchart TD
 
 ---
 
-### Kalakuta襲撃の年表
+### Cronología del ataque a Kalakuta
 
 <div class="mermaid">
 
-flowchart TD
-    title["Kalakuta Republic 襲撃の主要年表"]
-    A["1977-01<br/>アルバム『Zombie』発表<br/>軍を“ゾンビ”呼ばわりし話題に"]
-    B["1977-02<br/>軍隊がKalakuta Republic（フェラの共同体兼スタジオ）を襲撃"]
-    C["1977-02<br/>母が建物から投げ落とされ重傷（後に死去）"]
-    D["1977-03<br/>フェラが棺を軍本部へ運び抗議"]
-    E["1978-1980<br/>その後も繰り返し逮捕・弾圧を受ける"]
+diagrama de flujo TD
+título["Cronología de las principales incursiones de la República de Kalakuta"]
+A["1977-01<br/>Lanzamiento del álbum "Zombie"<br/>Llamar "zombis" a los militares se convirtió en un tema candente"]
+B["1977-02<br/>Incursiones militares en la República de Kalakuta (comunidad y estudio de Fela)"]
+C["1977-02<br/>Mi madre fue arrojada de un edificio y resultó gravemente herida (posteriormente murió)"]
+D["1977-03<br/>Fela lleva ataúd al cuartel militar para protestar"]
+E["1978-1980<br/>Después de eso, fue arrestado y reprimido repetidamente"]
 
-    A --> B
-    B --> C
-    C --> D
-    D --> E
+A --> B
+B --> C
+C --> D
+re --> mi
 
 </div>
 
 ---
 
-### フェミ・クティとスーン・クティ — 遺産を継ぐ者たち
+### Femi Kuti y Soon Kuti: herederos del legado
 
-#### フェミ・クティ（Femi Kuti）
+#### Femi Kuti
 
-1962年生まれ。フェラの長男。
+Nacido en 1962. Hijo mayor de Fela.
 
-ソロ作『Shoki Shoki』『Africa for Africa』などで現代的アフロビートを展開。
+Ha desarrollado afrobeats contemporáneos a través de obras solistas como "Shoki Shoki" y "Africa for Africa".
 
-ジャズ要素を深化させつつ、父の政治性を受け継いでいる。
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUqIR_DpPkA?si=uyVW6Ufb82FZYtvS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Si bien profundizó sus elementos del jazz, heredó la política de su padre.
 
 ---
 
-#### スーン・クティ（Seun Kuti）
-
-1983年生まれ。フェラの末子。
-
-Egypt 80を率いて父のスタイルを直接継承。
-
-『Black Times』（2018）ではヒップホップやロックとも交差。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUqIR_DpPkA?si=uyVW6Ufb82FZYtvS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hADxHPEekqg?si=-EkF6aQ8HjBzkohj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Seun Kuti
+
+Nacido en 1983. Hijo menor de Fela.
+
+Lideró los años 80 egipcios y heredó directamente el estilo de su padre.
+
+“Black Times” (2018) también se cruza con el hip-hop y el rock.
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hADxHPEekqg?si=-EkF6aQ8HjBzkohj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 
-### 現在の遺産と評価
+### Legado y reputación actuales
 
-**Kalakuta Museum（ラゴス）**：フェラの旧邸宅を博物館化。遺品・楽器が展示。
+**Museo Kalakuta (Lagos)**: La antigua mansión de Fela convertida en museo. Se exhiben reliquias e instrumentos musicales.
 
-**Felabration**：毎年10月に開催される音楽祭。世界中からアーティストが集まり、フェラを讃える。
+**Felabración**: Un festival de música que se celebra cada mes de octubre. Artistas de todo el mundo se reúnen para celebrar Fela.
 
-**国際的影響**：アメリカのAntibalasや、ヒップホップでのサンプリング、さらにはビヨンセやJay-Zらもフェラのリズムを引用。
-
----
-
-### まとめ
-
-フェラ・クティは「アフロビートの父」であるだけでなく、音楽を通じた政治的抵抗の象徴でした。その遺産は、息子フェミ・クティやスーン・クティを通じて、また世界中のアーティストの作品に反映され続けています。
-アフロビートを深く知りたいなら、『Gentleman』『Expensive Shit』『Zombie』の3枚から始めるのがおすすめです。
-
-フェラの言葉とリズムは、今もラゴスの風に響き、世界のステージで鳴り響いているのです。
+**Influencias internacionales**: Antibalas en América, samples de hip-hop, incluso Beyoncé y Jay-Z han citado el ritmo de Fela.
 
 ---
 
-### 参考・出典
+### resumen
 
-- [Britannica: Fela Kuti — biography overview.](https://www.britannica.com/biography/Fela-Kuti)
-- [Felakuti.com（公式／Kalakuta Museum 情報）](felakuti.com)
-- [Guardian / Tony Allen obituary（アフロビートとトニー・アレン）](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)
+Fela Kuti no sólo fue el "padre del Afrobeats" sino también un símbolo de resistencia política a través de la música. Ese legado sigue reflejándose a través de sus hijos Femi Kuti y Soon Kuti, y en el trabajo de artistas de todo el mundo.
+Si desea aprender más sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
+
+Las palabras y los ritmos de Fela todavía resuenan en la brisa de Lagos y en los escenarios del mundo.
+
+---
+
+### Referencia/Fuente
+
+- [Britannica: Fela Kuti - descripción general de la biografía.](https://www.britannica.com/biography/Fela-Kuti)
+- [Felakuti.com (información oficial/Museo Kalakuta)](felakuti.com)
+- [Obituario de Guardian/Tony Allen (Afrobeat y Tony Allen)](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)

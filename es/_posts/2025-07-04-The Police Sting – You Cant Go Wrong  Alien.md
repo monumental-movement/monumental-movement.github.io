@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/The Police Sting – You Can't Go Wrong Alien.webp
 lang: es
 layout: post
+permalink: /es/2025-07-04-The Police Sting – You Cant Go Wrong  Alien/
 tags:
 - House
 - Remix
 - 00s
-title: The Police Sting – You Can't Go Wrong  Alien HOUSE MIX
+title: La picadura de la policía – No puedes equivocarte Alien HOUSE MIX
 ---
 
 
-名曲The Police(ポリス)『When The World Is Running Down』とSting(スティング)『Englishman In New York』のUnofficial (非公式) HOUSE MIX。2001年リリース。
+MIX HOUSE no oficial de las famosas canciones ``When The World Is Running Down'' de The Police y ``Englishman In New York'' de Sting. Lanzado en 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The Police – You Can't Go Wrong (Rmx)
 
 B. Sting – Alien (Xtended Rmx)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20957667824?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20957667824?afid=6142608987){: .button1}

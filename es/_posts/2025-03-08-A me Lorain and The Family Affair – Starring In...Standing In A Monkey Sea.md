@@ -6,22 +6,25 @@ image: ../assets/images/A me Lorain and The Family Affair – Starring In Standi
   A Monkey Sea.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-A me Lorain and The Family Affair – Starring In...Standing
+  In A Monkey Sea/
 tags:
 - Synth-pop
 - Funk
 - Pop Rock
 - Ballad
 - 90s
-title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Sea
+title: A'me Lorain & The Family Affair – Protagonizada por... De pie en un mar de
+  monos
 ---
 
 
-1990年にRCAからリリースされたこのアルバムは、アメリカのポップシンガーであり、ファンクバンドThe Family Affair のフロント、A'me Lorain(エイミー・ロレイン)のデビューアルバム。邦題は「ときめきのワンダーランド」
+Este álbum, lanzado por RCA en 1990, es el álbum debut de la cantante pop estadounidense A'me Lorain, al frente de la banda de funk The Family Affair. El título japonés es "Tokimeki no Wonderland".
 
-1990年にリリースした収録曲Whole Wide Worldは全米のダンスチャートで大ヒットとなり、映画True Loveのサウンドトラックにも使用された。
+La canción Whole Wide World, lanzada en 1990, se convirtió en un gran éxito en las listas dance de Estados Unidos y apareció en la banda sonora de la película True Love.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Time You Take
 2. Letter 'C' Card
@@ -37,7 +40,7 @@ title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Se
 12. Reprise
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

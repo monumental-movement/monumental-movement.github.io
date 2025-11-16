@@ -5,36 +5,37 @@ categories:
 image: ../assets/images/Robotman – Do Da Doo (Remixes).webp
 lang: es
 layout: post
+permalink: /es/2025-02-15-Robotman – Do Da Doo (Remixes)/
 tags:
 - Techno
 - Minimal
 - Acid
 - 90s
-title: Robotman – Do Da Doo (Remixes)
+title: Robotman – Do Da Doo (Remezclas)
 ---
 
 
-「Robotman – Do Da Doo (Remixes)」は、1994年にリリースされたリッチー・ホーティン（Richie Hawtin）によるプロジェクト「Robotman」のリミックスアルバムです。このアルバムにはいくつかの異なるリミックスが含まれています。
+"Robotman – Do Da Doo (Remixes)" es un álbum de remezclas del proyecto "Robotman" de Richie Hawtin lanzado en 1994. Este álbum contiene varios remixes diferentes.
 
-Plastikman's Acid House Remix - 
+Remezcla Acid House de Plastikman -
 
-リッチー・ホーティン自身によるリミックスで、酸性の音響とテクノの特徴的なビートが特徴的です。このリミックスはその独特の音響効果により、非常に評価されています。
+Remezclado por el propio Richie Hawtin, presenta una acústica ácida y un ritmo techno distintivo. Este remix ha sido muy elogiado por sus efectos de sonido únicos.
 
-David Holmes Remix - 
+David Holmes Remezcla
 
-デヴィッド・ホームズが手掛けたこのリミックスは、よりダークで深みのあるテクノ・サウンドを提供しています。
+Este remix de David Holmes ofrece un sonido techno más oscuro y profundo.
 
-Exploding Plastic Remix - 
+Remezcla de plástico explosivo -
 
-このリミックスは、より実験的なアプローチを採用しており、異なるテクスチャーを楽曲にもたらします。
+Este remix adopta un enfoque más experimental y aporta una textura diferente a la canción.
 
-J.Acquaviva's Flare For Disco Mix - 
+Mezcla Flare For Disco de J.Acquaviva -
 
-ジョニー・アクアヴィーヴァによるリミックスで、ディスコの要素を取り入れつつも、テクノのエッセンスを保っています。
+Remezclado por Johnny Acquaviva, incorpora elementos disco conservando la esencia del techno.
 
-ディスコグラフィーや音楽のレビュー、販売情報から、このアルバムはテクノファンやコレクターの間で高く評価されており、特にPlastikmanのリミックスはその革新性で知られています。
+Según su discografía, reseñas musicales e información de ventas, el álbum goza de gran prestigio entre los fanáticos y coleccionistas del techno, y el remix de Plastikman en particular es conocido por su innovación.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Do Da Doo (Plastikman's Acid House Remix)
 2. Do Da Doo (Exploding Plastic Mix)
@@ -42,7 +43,7 @@ J.Acquaviva's Flare For Disco Mix -
 4. Do Da Doo (Detroit Groove Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sxwoUI7dbrY?si=iRCgFwBxbNh_5CCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sxwoUI7dbrY?si=iRCgFwBxbNh_5CCD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Sum 41 – Does This Look Infected.webp
 lang: es
 layout: post
+permalink: /es/2024-06-07-Sum 41 – Does This Look Infected/
 tags:
 - Punk
 - Pop Punk
 - Alternative Rock
 - Hardcore
 - Horror Rock
-title: Sum 41 – Does This Look Infected?
+title: Suma 41 – ¿Esto parece infectado?
 ---
 
 
-2002年にリリースされた「Does This Look Infected?」は、Sum41の2枚目のスタジオアルバム。
+"¿Esto parece infectado?", lanzado en 2002, es el segundo álbum de estudio de Sum41.
 
-このアルバムは、前作のファーストアルバム「All Killer No Filler」よりもポップミュージックの要素が少なく、ダークでヘビーなスタイルで、ヘビーメタル、ホラーパンク、パンクロック、ポップパンク、メロディックハードコア、ハードコアパンク、スラッシュメタル、Dビートの要素がつまったアルバムとなっている。
+Este álbum tiene menos elementos de música pop que su primer álbum, "All Killer No Filler", y tiene un estilo más oscuro y pesado, con elementos de heavy metal, horror punk, punk rock, pop punk, hardcore melódico, hardcore punk, thrash metal y D-beat.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Hell Song
 2. Over My Head (Better Off Dead)
@@ -35,7 +36,7 @@ title: Sum 41 – Does This Look Infected?
 12. Hooch
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

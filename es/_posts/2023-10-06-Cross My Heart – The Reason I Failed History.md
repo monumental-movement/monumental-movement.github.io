@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Cross My Heart – The Reason I Failed History.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-Cross My Heart – The Reason I Failed History/
 tags:
 - Rock
 - Emo
-title: Cross My Heart – The Reason I Failed History
+title: 'Cruza mi corazón: la razón por la que fallé en la historia'
 ---
 
 
-1999年にSteve Aoki(スティーブアオキ)が運営するレーベルDim Mak Recordsからリリースされたポストハードコア／エモバンドCross My HeartによるEP。メンバーはChris Camden, Dwayne Bruner, Evan Tanner, Ryan Shelkett。
+Un EP de la banda post-hardcore/emo Cross My Heart, lanzado en 1999 por el sello Dim Mak Records de Steve Aoki. Los miembros son Chris Camden, Dwayne Bruner, Evan Tanner y Ryan Shelkett.
 
-Cross my heart は、メリーランド州ボルチモア出身で1997年から2001年まで活動した。
+Cross my heart era originario de Baltimore, Maryland y estuvo activo desde 1997 hasta 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. No Give Backs
 
@@ -27,7 +28,7 @@ B1. Destination Eventually Somewhere
 B2. The Reason I Failed History
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43367520761?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43367520761?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cr19CuSmdAo?si=NsFI9ghV2eQouulM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cr19CuSmdAo?si=NsFI9ghV2eQouulM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

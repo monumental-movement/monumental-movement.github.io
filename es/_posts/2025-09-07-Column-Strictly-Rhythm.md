@@ -5,50 +5,52 @@ categories:
 image: ../assets/images/column-strictly-rhythm.webp
 lang: es
 layout: post
+permalink: /es/2025-09-07-Column-Strictly-Rhythm/
 tags:
 - House
 - NY House
 - 90s
-title: 【コラム】 Strictly Rhythm — 発祥から現在まで：時代背景・名盤・機材の変遷
+title: '[Columna] Strictly Rhythm - Desde sus orígenes hasta el presente: antecedentes
+  históricos, discos famosos y cambios en el equipo'
 ---
 
 
 
-## なぜStrictly Rhythmは特別だったのか
+## Por qué Strictly Rhythm fue especial
 
 
-文：mmr｜テーマ：ニューヨーク発の伝説的ハウス・レーベル **Strictly Rhythm** の成立から現在までを、時代背景・代表的名盤・当時の制作機材トレンドの観点で年代別に整理
+Texto: mmr｜Tema: Desde el establecimiento del legendario sello neoyorquino **Strictly Rhythm** hasta el presente, organizado por época desde la perspectiva de los antecedentes históricos, las obras maestras representativas y las tendencias en los equipos de producción de la época.
 
 
-Strictly Rhythm（通称：ストリクトリー）は、1989年にニューヨークで誕生したハウス専門レーベル。ロウ（ストリート）で鍛えられたA&R感覚とクラブ指向の選曲で、90年代のニューヨーク〜世界のハウス・シーンをけん引しました。レーベルはアンダーグラウンドの“サウンド”と商業ヒットのバランスを取りながら、DJ／プロデューサーの発掘と育成に卓越していました。
+Strictly Rhythm (comúnmente conocido como Strictly) es un sello especializado en house fundado en Nueva York en 1989. Con su sentido de A&R perfeccionado en la calle y su selección de canciones orientada a los clubes, lideraron la escena house de los 90 en Nueva York y en todo el mundo. El sello se destacó en descubrir y nutrir a DJ y productores mientras lograba un equilibrio entre "sonidos" underground y éxitos comerciales.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 1989〜1992：誕生と「NYローカルの実験場」期
+## 1989-1992: Nacimiento y período de la “Estación Experimental Local de Nueva York”
 
-**時代背景**：シカゴやデトロイトで芽吹いたハウス／テクノが90年代初頭にニューヨークのクラブへ流入。クラブ文化が商業化する直前、アンダーグラウンドな実験心が残っていた時代です。
+**Antecedentes históricos**: El house/techno, que había surgido en Chicago y Detroit, entró en los clubes de Nueva York a principios de los años 1990. Era una época en la que la cultura de club estaba a punto de comercializarse y persistía un espíritu clandestino de experimentación.
 
-**出来事**：1989年、Mark Finkelstein と Gladys Pizarro によって設立。創業当初からDJ寄りの12インチ中心で、地元クラブでウケる“ダンスフロア直結型”の音を次々送り出しました。
+**Qué pasó**: Fundada en 1989 por Mark Finkelstein y Gladys Pizarro. Desde nuestra fundación, nos hemos centrado en música de 12 pulgadas orientada a DJ, produciendo sonido que se conecta directamente con la pista de baile y es popular en los clubes locales.
 
-**代表的名盤（初期）**
-- Roger Sanchez — *Luv Dancin'*（1990, Underground Solution名義）
+**Obra maestra representativa (temprana)**
+- Roger Sanchez — *Luv Dancin'* (1990, bajo el nombre Underground Solution)
 
-**機材トレンド**  
-ターンテーブル＋サンプラー（初期SPシリーズやAkai）を使い、レコードの「ループ感」を生かした制作が多かった。
+**Tendencias de equipos**
+Muchas de las producciones utilizaron tocadiscos y samplers (primeras series SP y Akai) para aprovechar la "sensación de bucle" de los discos.
 
 ---
 
@@ -67,21 +69,21 @@ color: #fff;
 
 ---
 
-## 1993〜1997：黄金期 — クラブからチャートまで
+## 1993-1997: La época dorada: de los clubes a las listas de éxitos
 
-**時代背景**：90年代中盤、ハウスはヨーロッパとアメリカで一気にクロスオーバー。クラブアンセムがラジオ／チャートにも波及し、リミックス文化が成熟しました。
+**Antecedentes temporales**: A mediados de los 90, la música house cruzó rápidamente entre Europa y América. Los himnos del club se extendieron a la radio y las listas de éxitos, y la cultura del remix maduró.
 
-**キーモーメント／代表作**
-- Reel 2 Real feat. The Mad Stuntman — *I Like To Move It*（1993）
-- Armand Van Helden — *Witch Doktor*（1994）
-- Josh Wink — *Higher State Of Consciousness*（1995）
-- Ultra Naté — *Free*（1997）
+**Momentos clave/obras representativas**
+- Carrete 2 Real hazaña. El especialista loco - *Me gusta moverlo* (1993)
+- Armand Van Helden — *Médico brujo* (1994)
+- Josh Wink — *Estado superior de conciencia* (1995)
+- Ultra Naté — *Gratis* (1997)
 
-**機材トレンド**  
-- **E-MU SP-12 / SP-1200**（ラフで温かみのあるサンプル質感）  
-- **Akai MPCシリーズ**（MPC60〜MPC2000系）  
-- **Roland TR-909 / TR-808**（キック／ハイハット）  
-- アウトボード／テープ処理で「厚み」を作る技法  
+**Tendencias de equipos**
+- **E-MU SP-12 / SP-1200** (Textura de muestra rugosa y cálida)
+- **Serie Akai MPC** (serie MPC60~MPC2000)
+- **Roland TR-909 / TR-808** (patada/charles)
+- Técnica para crear "espesor" con procesamiento externo/de cinta
 
 ---
 
@@ -100,17 +102,17 @@ color: #fff;
 
 ---
 
-## 1998〜2002：拡大と迷走、そして閉鎖
+## 1998-2002: Expansión, confusión y cierre
 
-**時代背景**：ブームのピークと市場の競争激化。レーベルは世界戦略を模索する一方、メジャー企業との資本関係が波紋を呼ぶ。
+**Antecedentes**: El pico del auge y la intensificación de la competencia en el mercado. Mientras la marca busca una estrategia global, sus vínculos de capital con grandes empresas causan revuelo.
 
-**出来事**：Warner系との提携を経て、2002年に一時事業停止。
+**Evento**: Después de asociarse con Warner, el negocio se suspendió temporalmente en 2002.
 
-**代表的名盤**
-- Wamdue Project — *King of My Castle*（1997/1999 ヒット）
+**Obra maestra representativa**
+- Proyecto Wamdue — *King of My Castle* (éxito de 1997/1999)
 
-**機材トレンド**  
-DAWとソフトウェア・プラグインが制作ワークフローに入り始め、ハード機材のサウンドをDAWで再現／統合する動きが加速。
+**Tendencias de equipos**
+Las DAW y los complementos de software han comenzado a ingresar al flujo de trabajo de producción, y el movimiento para reproducir e integrar los sonidos de los equipos de hardware con las DAW se ha acelerado.
 
 ---
 
@@ -129,17 +131,17 @@ DAWとソフトウェア・プラグインが制作ワークフローに入り�
 
 ---
 
-## 2007〜2010：再始動と国際展開
+## 2007-2010: Reinicio y expansión internacional
 
-**時代背景**：デジタル配信とダンスミュージックのグローバル化。
+**Antecedentes**: Distribución digital y globalización de la música dance.
 
-**出来事**：2007年に独立体制で再始動。デジタル配信で過去カタログを復刻しつつ、新アーティストを迎えてリリース再開。
+**Evento**: Reiniciado como organización independiente en 2007. Mientras reimprimimos catálogos anteriores a través de distribución digital, hemos reanudado lanzamientos con nuevos artistas.
 
-**代表的リリース**
-- Quentin Harris、Osunlade、Dennis Ferrer、Bob Sinclar など
+**Comunicado representativo**
+- Quentin Harris, Osunlade, Dennis Ferrer, Bob Sinclar, etc.
 
-**機材トレンド**  
-DAW中心化、プラグイン音源、ソフトウェア・アナログモデリングが主流に。
+**Tendencias de equipos**
+La centralidad en DAW, las fuentes de sonido enchufables y el modelado de software/analógico se convirtieron en algo común.
 
 ---
 
@@ -158,14 +160,14 @@ DAW中心化、プラグイン音源、ソフトウェア・アナログモデ�
 
 ---
 
-## 2013〜現在：カタログの価値化と権利移転
+## 2013~Actualidad: Valorización del catálogo y cesión de derechos.
 
-**時代背景**：音楽カタログの投資価値が拡大。90年代ダンスカタログはサンプリング素材、再リリース、ライセンスで再評価。
+**Antecedentes de los tiempos**: El valor de inversión de los catálogos de música está aumentando. El catálogo de danza de los 90 se reevalúa con material sampleado, reediciones y licencias.
 
-**出来事**：2013年、BMGがStrictly Rhythmのマスター・カタログを取得。その後パブリッシング権も移転。
+**Qué pasó**: En 2013, BMG adquirió el catálogo maestro de Strictly Rhythm. Posteriormente se transfirieron los derechos de publicación.
 
-**現在の立ち位置**  
-ブランド／カタログは現役で、再発・コンピレーション／ライセンス提供など“資産”として活用。
+**Posición actual**
+La marca/catálogo sigue activo y se utiliza como "activo" para reediciones, compilaciones, licencias, etc.
 
 ---
 
@@ -184,7 +186,7 @@ DAW中心化、プラグイン音源、ソフトウェア・アナログモデ�
 
 ---
 
-## 機材（制作ツール）の変遷まとめ
+## Resumen de cambios en equipos (herramientas de producción)
 
 | 時期 | 主な機材 |
 |---|---|
@@ -194,7 +196,7 @@ DAW中心化、プラグイン音源、ソフトウェア・アナログモデ�
 
 ---
 
-## 年代別・代表的名盤（簡易一覧）
+## Obras maestras representativas por generación (lista simple)
 
 | 年代 | 年 | アーティスト | 作品 | 重要性 |
 |---|---|---|---|---|
@@ -207,15 +209,15 @@ DAW中心化、プラグイン音源、ソフトウェア・アナログモデ�
 
 ---
 
-## クラシックなハウスの宝庫
+## Un tesoro escondido de casa clásica.
 
-Strictly Rhythmは「クラブで効く＝良い」を徹底したA&Rと、プロデューサーにとっての“実験場”を提供。資本問題で一度閉鎖したものの、再始動とカタログの企業評価を経て、今日では「クラシックなハウスの宝庫」として再評価されています。  
+Strictly Rhythm proporciona a A&R una comprensión profunda de "lo que funciona en un club = bueno" y proporciona un "campo de pruebas" para los productores. Aunque alguna vez estuvo cerrado por cuestiones de capital, se reabrió y se evaluó el catálogo de la compañía, y hoy ha sido reevaluado como un "tesoro de la música house clásica".
 
 ---
 
-### 参考文献
-- Wikipedia: Strictly Rhythm  
-- Red Bull Music Academy: Gladys Pizarro  
-- Resident Advisor / XLR8R: レーベル閉鎖・再建  
-- BMG公式ニュース: Strictly Rhythm カタログ取得  
-- Todd Terry / Masters At Work インタビュー：機材と制作手法
+### Referencias
+- Wikipedia: Estrictamente ritmo
+- Academia de Música Red Bull: Gladys Pizarro
+- Resident Advisor / XLR8R: Cierre/reconstrucción de etiquetas
+- Noticias oficiales de BMG: adquisición del catálogo Strictly Rhythm
+- Todd Terry / Entrevista de Masters At Work: Equipos y métodos de producción

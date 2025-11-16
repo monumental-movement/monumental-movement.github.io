@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Prodigy – The Fat Of The Land.webp
 lang: es
 layout: post
+permalink: /es/2025-03-09-Prodigy – The Fat Of The Land/
 tags:
 - Breakbeat
 - Big Beat
 - 90s
-title: Prodigy – The Fat Of The Land
+title: Prodigio – La grasa de la tierra
 ---
 
 
-Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettによって結成されたイギリスのエレクトロニック・パンクロックバンド。
+Prodigy es una banda británica de punk rock electrónico formada en 1990 por el productor Liam Howlett.
 
-このアルバムは、1997年にレーベルXL RecordingsからリリースされたProdigyの3枚目のスタジオアルバム。このアルバムは世界的な大ヒットとなり、Prodigyの代表作となった。
-1999年には、UKで最も売れたダンスアルバムとしてギネス世界記録に登録された。
+Este álbum es el tercer álbum de estudio de Prodigy, lanzado en 1997 con el sello XL Recordings. Este álbum se convirtió en un éxito mundial y se convirtió en el trabajo característico de Prodigy.
+En 1999, entró en el Libro Guinness de los Récords como el álbum de baile más vendido en el Reino Unido.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Smack My Bitch Up
 2. Breathe
@@ -33,7 +34,7 @@ Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettに�
 10. Fuel My Fire
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,167 +5,168 @@ categories:
 image: ../assets/images/column-90s-uktechno.webp
 lang: es
 layout: post
+permalink: /es/2025-07-13-Column-90s-UKTechno/
 tags:
 - UK Techno
 - 90s
-title: 【コラム】 UKテクノの黄金時代
+title: '[Columna] La edad de oro del techno británico'
 ---
 
 
-## UKテクノの黄金時代：1990年代の音と闘争の記録
+## La edad de oro del techno británico: un registro de los sonidos y las luchas de los años 90
 
-文：mmr｜テーマ：UKテクノ・カルチャー
-
-
-<hr>
-
-### テクノ、もうひとつのUK革命
-1990年代、テクノはデトロイトで生まれた子供がUKで育ったかのように、その音と精神を深化させ、変異させていく。イギリスはこの音楽をただ受け入れただけでなく、アンダーグラウンドからクラブ、レイヴ、そして音響実験の場へと拡張した。この記事では、90年代UKテクノの全体像を文化、音楽、人物、レーベルの視点から網羅していく。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<hr>
-
-### レイヴカルチャーとアンダーグラウンドの融合
-1988年の“セカンド・サマー・オブ・ラブ”を経て、UKはアシッド・ハウスとレイヴの爆発的な熱狂に包まれる。その余波の中で、90年代初頭にはハードコア、ブレイクビート、そしてテクノの多様な亜種が地下で育っていった。
-
-一方でサッチャー政権の終焉と経済格差の広がりは、若者たちの不満と反抗心を音楽に刻ませた。UKテクノはただのダンスミュージックではなく、サウンドシステムと非合法レイヴを武器にした社会運動でもあった。
+Texto: mmr｜Tema: Cultura tecno del Reino Unido
 
 
 <hr>
 
-### 革新者たちの系譜
+### Techno, otra revolución en el Reino Unido
+En la década de 1990, el techno se profundizó y mutó en sonido y espíritu, como un niño nacido en Detroit que crece en el Reino Unido. Gran Bretaña no sólo adoptó esta música, sino que la expandió desde el underground a clubes, raves y lugares para la experimentación sonora. En este artículo, cubriremos el panorama general del techno británico de los 90 desde las perspectivas de la cultura, la música, la gente y los sellos.
 
-[**● The Black Dog**](https://amzn.to/3IHLfS5)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-インテリジェント・テクノ（IDM）の先駆者。デトロイトの影響を受けつつも、よりダークで知的なサウンドを展開。Warp Recordsからリリースされた[『Bytes』（1993年）](https://amzn.to/46ZmuJ2)は象徴的。
+<hr>
 
-[**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
+### Fusión de cultura rave y underground
+Después del "Segundo Verano del Amor" en 1988, el Reino Unido se vio envuelto en una explosión de acid house y rave. Posteriormente, varias subespecies de hardcore, breakbeat y techno crecieron clandestinamente a principios de los años 90.
 
-バーミンガム・テクノの旗手。ハードでインダストリアル、そしてソリッド。TresorやDownwardsからのリリースで名を上げ、現在でもUKテクノの中核にいる。
+Por otro lado, el fin del gobierno de Thatcher y la creciente disparidad económica hicieron que la insatisfacción y la rebeldía de los jóvenes quedaran impresas en la música. El techno británico no era sólo música de baile, sino también un movimiento social armado con sistemas de sonido y raves ilegales.
+
+
+<hr>
+
+### Linaje de innovadores
+
+[**● El perro negro**](https://amzn.to/3IHLfS5)
+
+Pionero del Techno Inteligente (IDM). Aunque influenciados por Detroit, desarrollan un sonido más oscuro e inteligente. ['Bytes' (1993)] (https://amzn.to/46ZmuJ2) lanzado por Warp Records es icónico.
+
+[**● Cirujano (Anthony Child)**](https://amzn.to/3J8lKJC)
+
+El abanderado del techno de Birmingham. Duro, industrial y sólido. Saltó a la fama con lanzamientos en Tresor y Downwards, y todavía está en el centro del techno británico.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
-[Planetary Assault Systems](https://amzn.to/3J1f2oO)名義で知られる。ハードでありながらもファンキーなテクノを展開し、90年代後半にはNovaMuteなどからもリリース。
+Conocido como [Sistemas de Asalto Planetario](https://amzn.to/3J1f2oO). Desarrollando techno duro pero funky, lanzado por NovaMute y otros a finales de los 90.
 
-[**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
+[**● Regis y British Murder Boys**](https://amzn.to/4mZWUtm)
 
-UKのインダストリアル・テクノの核心人物。RegisはDownwardsレーベルを設立し、バーミンガム独自のディストピア・サウンドを確立。
+Una figura central del techno industrial del Reino Unido. Regis fundó el sello Downwards y estableció el sonido distópico propio de Birmingham.
 
 [**● Autechre**](https://amzn.to/4q1OyUJ)
 
-純粋なテクノというよりIDMだが、Warp Recordsと共にUKテクノの知的側面を象徴。『Incunabula』『Amber』などは90年代を代表する作品。
+Aunque son más IDM que techno puro, representan el lado intelectual del techno británico junto con Warp Records. ``Incunables'' y ``Amber'' son obras representativas de los años 90.
 
 
 <hr>
 
-### UKテクノの母胎
+### La madre del techno británico
 
-[**● Warp Records（シェフィールド）**](https://amzn.to/3L81dp5)
+[**● Registros Warp (Sheffield)**](https://amzn.to/3L81dp5)
 
-初期はバウンシーなブリープテクノをリリースし、後にIDMの聖地へ。LFO、Nightmares on Wax、Autechre、The Black Dogなどが所属。
+Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
 
-[**● Downwards（バーミンガム）**](https://amzn.to/4ocHKSr)
+[**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 
-Regisが設立。インダストリアルで禁欲的なサウンドを中心に、Surgeonらと共に「バーミンガム・サウンド」を定義。
+Fundada por Régis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
-Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierなどを抱え、UKのみならずヨーロッパ全体のテクノシーンにも波及。
+Un subsello de Mute Records. Con artistas como Luke Slater, Speedy J y Laurent Garnier, se han extendido no sólo al Reino Unido sino también a la escena techno de toda Europa.
 
-[**● Peacefrog**](https://amzn.to/42BtHxw)
+[**● Rana de la paz**](https://amzn.to/42BtHxw)
 
-よりディープでデトロイト由来のUKテクノを紹介したレーベル。Luke Slater、Stacey Pullen、Paul Macらが名を連ねる。
+Un sello que introdujo un techno británico más profundo con sede en Detroit. La lista incluye a Luke Slater, Stacey Pullen y Paul Mac.
 
-
-
-<hr>
-
-### 硬質、実験的、そして反抗的
-
-90年代UKテクノは、次のような音的特徴を持つ：
-
-- インダストリアル／EBMからの影響（特にDownwards系）
-
-- 実験的な構造とサウンドデザイン（Warp系）
-
-- ハードでミニマルなグルーヴ（Surgeon、Slater系）
-
-- 社会的・政治的メッセージの内在化（レイヴ文化の影響）
-
-テクノの「機能性」だけでなく、「表現性」「思想性」がUKではより強く意識されていた点は注目すべきだろう。
 
 
 <hr>
 
-### 音楽と空間の政治学
-90年代UKテクノは、音楽以上に“場”を重要視した文化だった。田舎の倉庫や野外フィールドで開催される違法レイヴ、音響システムをトラックに積んで移動するフリーパーティ・クルー（Spiral Tribeなど）など、音は物理空間を占拠し、既存の社会秩序を揺さぶった。
+### Rígido, experimental y rebelde
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+El techno británico de los 90 tiene las siguientes características sonoras:
+
+- Influencia industrial/EBM (especialmente estilo Downwards)
+
+- Estructura experimental y diseño de sonido (estilo Warp)
+
+- Surco duro y mínimo (Cirujano, tipo Slater)
+
+- Interiorización de mensajes sociales y políticos (influencia de la cultura rave)
+
+Cabe señalar que en el Reino Unido había una mayor conciencia no sólo de la "funcionalidad" del techno, sino también de la "expresividad" y la "consideración".
+
 
 <hr>
 
-### UKテクノの残した遺産
-90年代のUKテクノは、商業主義とは距離を置きつつ、音と思想のラディカルな可能性を追求した。現在のテクノ、インダストリアル、ノイズ、実験音楽の多くがその影響を受けている。
+### Política de la música y el espacio.
+El techno británico en la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
 
-あの時代のUKテクノは、「踊るため」ではなく、「存在を主張するため」に鳴らされた。今なお、そのノイズの残響は、現代のアンダーグラウンドに響いている。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### 【参考ディスクガイド】
+### El legado del techno británico
+El techno británico de la década de 1990 persiguió las posibilidades radicales del sonido y el pensamiento, al tiempo que se distanciaba del comercialismo. Gran parte de la música techno, industrial, noise y experimental actual está influenciada por ella.
+
+El techno británico de esa época no se tocaba para bailar, sino para afirmar su existencia. Las reverberaciones de ese ruido todavía resuenan en el underground moderno.
+
+<hr>
+
+### [Guía de discos de referencia]
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>アーティスト/タイトル</th>
-      <th>年代</th>
-      <th>形式</th>
-      <th>特徴</th>
+<th>Artista/Título</th>
+<th>era</th>
+<th>Formato</th>
+<th>Características</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
-      <td>1998</td>
-      <td>12”</td>
-      <td>UKクラブテクノ</td>
+<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
+<td>1998</td>
+<td>12”</td>
+<td>Techno de discoteca del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
-      <td>1997</td>
-      <td>CD</td>
-      <td>実験的エレクトロ／テクノ</td>
+<td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
+<td>1997</td>
+<td>CD</td>
+<td>Electro/techno experimental</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
-      <td>1997</td>
-      <td>CD</td>
-      <td>エレクトロニカとの境界を行くUKテクノ</td>
+<td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
+<td>1997</td>
+<td>CD</td>
+<td>Techno británico en la frontera con la electrónica</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
-      <td>1995</td>
-      <td>12”</td>
-      <td>UKアシッド・テクノ</td>
+<td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remezclas)</em></a></td>
+<td>1995</td>
+<td>12”</td>
+<td>Techno ácido del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
-      <td>1996</td>
-      <td>LP</td>
-      <td>荒々しいUKアンダーグラウンドテクノ</td>
+<td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Cirujano <br />- <em>Comunicaciones</em></a></td>
+<td>1996</td>
+<td>PL</td>
+<td>Techno underground rudo del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
-      <td>1999</td>
-      <td>12”</td>
-      <td>ミニマル～アンダーグラウンドなUKテクノ</td>
+<td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Cirujano <br />- <em>Seco</em></a></td>
+<td>1999</td>
+<td>12”</td>
+<td>Minimal ~ techno underground del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
-      <td>1992</td>
-      <td>12”</td>
-      <td>UKダンスフロア向けハードコアテクノ</td>
+<td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hipnotizador <br />- <em>La casa es mía ’92</em></a></td>
+<td>1992</td>
+<td>12”</td>
+<td>Techno duro para las pistas de baile del Reino Unido</td>
     </tr>
   </tbody>
 </table>
@@ -173,19 +174,19 @@ Mute Recordsのサブレーベル。Luke Slater、Speedy J、Laurent Garnierな�
 
 ---
 
-### まとめ
+### resumen
 
-90年代のUKテクノは、ただの音楽ムーブメントではなく、都市の鼓動そのものだった。鉄のように冷たいビートと、霧のように漂うメランコリー。
+El techno británico de los años 90 no era sólo un movimiento musical, era el latido del corazón de la ciudad. Ritmos férreos y melancolía brumosa.
 
-その狭間で、アンダーグラウンドの熱狂が生まれた。Sheffieldの工場跡、Birminghamの倉庫、Londonの夜明け前のクラブ──どこも同じリズムで震えていた。
+En el medio, nació un frenesí clandestino. Una antigua fábrica en Sheffield, un almacén en Birmingham, un club nocturno en Londres: todos vibraban al mismo ritmo.
 
-テクノは産業の残響から詩を生み、破壊と再構築の美学を提示したのだ。音と時間を解体しながら、UKテクノは“機械の魂”を鳴らした。それは今も続く、静かで激しい革命の記憶である。
+El techno creó poesía a partir de las reverberaciones de la industria, presentando una estética de destrucción y reconstrucción. El techno británico suena como el "alma de la máquina" mientras deconstruye el sonido y el tiempo. Es un recuerdo de una revolución silenciosa y violenta que continúa incluso hoy.
 
 ---
 
 
-### 関連コラム
+### Columnas relacionadas
 
-🔗 [【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界](https://monumental-movement.jp/Column-Luke-Slater)
+🔗 [[Columna] Luke Slater: El pionero del techno británico y su mundo musical](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)

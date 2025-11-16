@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/DMX Krew – Nu Romantix.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-DMX Krew – Nu Romantix/
 tags:
 - Techno
 - Acid House
-title: DMX Krew – Nu Romantix
+title: Equipo DMX – Nu Romantix
 ---
 
 
-「DMX Krew」は、イギリスの電子音楽アーティスト、エドワード・アプトンのプロジェクトです。
+"DMX Krew" es un proyecto del artista británico de música electrónica Edward Upton.
 
-「Nu Romantix」は、DMX Krewが1998年にリリースしたアルバムで、オールドスクールのエレクトロ、シンセポップ、アシッドハウス、テクノなどの要素を組み合わせた独自のサウンドとなっています。
+Nu Romantix es un álbum lanzado por DMX Krew en 1998, con un sonido único que combina elementos de electro de la vieja escuela, synth pop, acid house y techno.
 
-このアルバムでは、ビンテージのシンセサイザーやドラムマシンを使用し、1980年代と90年代初頭の電子音楽へのオマージュを捉えつつ、現代的な要素も取り入れ、電子音楽へのノスタルジックなアプローチと同時に未来志向のサウンドが評価されています。
+El álbum utiliza sintetizadores y cajas de ritmos antiguos, rindiendo homenaje a la música electrónica de los años 1980 y principios de los 90, al tiempo que incorpora elementos contemporáneos, y es elogiado por su enfoque nostálgico de la música electrónica, así como por su sonido vanguardista.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.Come To Me
 
@@ -53,7 +54,7 @@ title: DMX Krew – Nu Romantix
 16.I'm All Alone (Cylob's Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,173 +5,175 @@ categories:
 image: ../assets/images/column-the-aesthetics-of-imperfection.webp
 lang: es
 layout: post
+permalink: /es/2025-10-12-Column-The-Aesthetics-of-Imperfection/
 tags:
 - History
 - Punk
 - Rave
-title: 【コラム】 不完全さの美学 ─ 不完全の時代を生きるポップの新しい美学
+title: '[Columna] Estética de la imperfección ─ Una nueva estética del pop que vive
+  en una era de imperfección'
 ---
 
 
-## Indie Sleazeが呼び戻した、汚れた快楽の時代
+## Indie Sleaze recupera la era del placer sucio
 
 
-文：mmr｜テーマ：「完璧なポップ」への倦怠。その反動として、いま再び“不完全さの美学”が世界を席巻している事象について
+Texto: mmr｜Tema: Cansancio hacia el “pop perfecto”. Como reacción a esto, la “estética de la imperfección” está nuevamente arrasando el mundo.
 
-スマートフォン時代が作り出した「完璧なポップ」への倦怠。その反動として、いま再び“不完全さの美学”が世界を席巻している。Charli XCX『brat』が象徴したのは、ただの流行ではなく、文化的な「再野生化」だった。
+Cansados ​​del "pop perfecto" creado por la era de los teléfonos inteligentes. Como reacción a esto, la "estética de la imperfección" está nuevamente arrasando el mundo. El mocoso de Charli XCX simboliza no sólo una tendencia, sino una reconstrucción cultural.
 
-ポップカルチャーはついに“清潔すぎる美学”に飽きた。  
-チャーリーXCXのアルバム『brat』が夏のチャートを席巻し、  
-世界中のクラブに新しい風を吹き込んだとき、  
-私たちは再び気づかされたのだ——  
-音楽はもっとラフで、もっと即興的で、もっと“不完全”でいいのだと。
+La cultura pop finalmente se ha cansado de la "estética demasiado limpia".
+El álbum "brat" de Charli XCX domina las listas de éxitos del verano.
+Cuando dimos nueva vida a clubes de todo el mundo,
+Volvimos a tomar conciencia...
+Creo que la música debería ser más tosca, más improvisada y más "imperfecta".
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
-## 1. Indie Sleazeの再燃と「粗さ」の快感
+## 1. El resurgimiento del Indie Sleaze y el placer de la “aspereza”
 
-### 1-1. Y2Kノスタルジアの奥に潜むもの
-2020年代半ば、Y2Kリバイバルはファッションから音楽、インターネット文化にまで波及した。  
-その中で“Indie Sleaze”という言葉が再び脚光を浴びる。  
-2000年代前半、デジカメのフラッシュに照らされたパーティ、  
-メイクが崩れたままのミューズたち、  
-MySpaceの画質に宿る曖昧なロマンティシズム。  
-そこにあったのは、整っていないからこその真実だった。  
+### 1-1. ¿Qué hay detrás de la nostalgia del año 2000?
+A mediados de la década de 2020, el renacimiento del año 2000 se extendió desde la moda hasta la música y la cultura de Internet.
+Entre ellos, el término "Indie Sleaze" vuelve a estar en el punto de mira.
+A principios de la década de 2000, una fiesta iluminada por los flashes de las cámaras digitales,
+Musas cuyo maquillaje aún está arruinado,
+Un romanticismo ambiguo que habita en la calidad de imagen de MySpace.
+Lo que había era la verdad porque no estaba en su lugar.
 
-そして2024年、再びその“粗さ”が現代の退屈を破壊した。  
-完璧なフィルターを拒む態度こそが、新しい美学となったのだ。
+Y en 2024, esa "aspereza" volvió a destruir el aburrimiento moderno.
+Esta actitud de rechazar los filtros perfectos se ha convertido en una nueva estética.
 
-### 1-2. ファッションが示した兆し
-Saint LaurentやHeaven by Marc Jacobsが打ち出した  
-「夜のざらつき」や「使い古された輝き」は、  
-やがて音楽の世界にも感染していった。  
-Balenciagaのショーが放つ不気味な退廃の中に、  
-“完璧ではないことの美”がうごめいていた。  
-その感覚をポップに昇華したのが、チャーリーXCXの『brat』だった。
+### 1-2. Señales que muestra la moda
+Lanzado por Saint Laurent y Heaven por Marc Jacobs
+La "aspereza de la noche" y el "brillo desgastado" son
+Con el tiempo, también infectó al mundo de la música.
+En la misteriosa decadencia del desfile de Balenciaga,
+La “belleza de no ser perfecto” era conmovedora.
+El "mocoso" de Charli XCX sublimó ese sentimiento en la música pop.
 
 
 ---
 
-## 2. 『brat』が語った“不完全さ”の力
+## 2. El poder de la “imperfección” contado por “mocoso”
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### 2-1. 無造作のリアリティ
-『brat』を聴くと、最初に感じるのは“未完成”の心地よさだ。  
-ボーカルは粗く、ミックスにはノイズが残り、リリックは衝動的に吐き出される。  
-だが、そこには他のポップスにはない「生」の質感がある。  
-それは、完璧さを重ねてきた時代の対極にある“人間の手触り”だ。  
-
-### 2-2. 完璧な世界へのアンチテーゼ
-スマートフォンとSNSが作り出したのは、「常に正解であること」への強迫観念だった。  
-画像は整えられ、声は補正され、失敗は即座に削除される。  
-だが、チャーリーXCXはその圧力を笑い飛ばすように、  
-あえて不揃いなサウンドを世界に投げつけた。  
-『brat』の成功は、ポップの歴史における  
-“完璧信仰からの離脱”を象徴している。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 3. 不完全の波紋 ─ TrashyからOrganicへ
+### 2-1. realidad casual
+Cuando escuchas "brat", lo primero que sientes es el consuelo de estar "inacabado".
+La voz es áspera, la mezcla es estática y la letra se escupe impulsivamente.
+Sin embargo, tiene una cualidad "cruda" que no se encuentra en otra música pop.
+Es un "toque humano" que es lo opuesto a la era de la perfección.
 
-### 3-1. Keshaと「Joyride」の寓話
-Keshaの「Joyride」は、2000年代のユーロダンスを  
-あえてチープに蘇らせた。  
-キラキラとしたシンセの奥で、汗と化粧が混じるような生々しさが光る。  
-それは“過剰に管理された美”の世界に対するカーニバル的反逆だった。  
-チャーリーXCXとケシャ、このふたりの動きが示したのは、  
-完璧よりも「開放」の時代の到来だった。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2Dh2B_M98U?si=BTkOhCPEdgVVxvrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### 3-2. ローファイ・ルネサンス
-クラブカルチャーの底では、  
-安価なマイクや中古機材を使ったDIY的表現が再び熱を帯びている。  
-BerlinやLondonのクラブでは、  
-ビートを外し、歪ませ、壊すことが“流儀”になりつつある。  
-そこにあるのは、音の純度よりも感情の即発性。  
-完璧ではないことが、むしろ“誠実さ”として響く。
+### 2-2. La antítesis de un mundo perfecto
+Los teléfonos inteligentes y los sitios de redes sociales han creado una obsesión por tener siempre la razón.
+Las imágenes se limpian, las voces se corrigen y los errores se eliminan instantáneamente.
+Sin embargo, Charli XCX parece reírse de la presión.
+Se atrevió a lanzar un sonido desigual al mundo.
+El éxito de "brat" es un hito en la historia del pop.
+Simboliza un "desvío de la creencia en la perfección".
 
 ---
 
-## 4. SNS時代の終わりと“揺らぎ”の復権
+## 3. Ondas de imperfección: de basura a orgánica
 
-### 4-1. 映えないことの自由
-InstagramやTikTokが支配した「整った自己表現」の時代が、  
-ゆっくりと終わりを迎えている。  
-今、若い世代は“映える”より“揺らぐ”ことを望んでいる。  
-ピントの甘い写真、ノイズの多い録音、未編集の動画。  
-それらの中にこそ、リアルな自分の証拠を見いだしているのだ。
+### 3-1. Kesha y la parábola del “Joyride”
+"Joyride" de Kesha es un guiño al baile europeo de la década de 2000.
+Me atreví a revivirlo por poco dinero.
+Detrás de los sintetizadores chispeantes, brilla una crudeza, como una mezcla de sudor y maquillaje.
+Fue una rebelión carnavalesca contra el mundo de la belleza excesivamente controlada.
+Los movimientos de Charli XCX y Kesha demostraron que
+Fue el comienzo de una era de "apertura" más que de perfección.
 
-### 4-2. オンラインからオフラインへの脱出
-「The Aesthetics of Imperfection」は、  
-単なる美学ではなく、生き方のリセットでもある。  
-SNS上の人格構築に疲れ、再び“身体”へと回帰する人々。  
-クラブの湿気、ライブハウスの轟音、  
-その中にある不完全でありながら確かな実感。  
-音楽は再び、デジタルではなく“人間の現場”に戻ろうとしている。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2Dh2B_M98U?si=BTkOhCPEdgVVxvrb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 5. 美の転換点 ─ 「整う」から「崩れる」へ
-
-### 5-1. 不完全を肯定する勇気
-ミニマリズムや整頓の思想が支配したここ10年、  
-私たちは「欠けているもの」を恐れてきた。  
-だが今、欠けていることこそが創造の余白になっている。  
-音のノイズ、画像のブレ、言葉の詰まり。  
-それらを削除するのではなく、作品の一部として受け入れる。  
-そこに新しい時代の感性が宿る。
-
-### 5-2. ポップの“再野生化”
-『brat』以降、アーティストたちはマイクを手放し、  
-スマートフォンで即興的に録音し、  
-未完成のまま曲をアップロードするようになった。  
-そこに共通しているのは、“衝動のままに残す”という態度だ。  
-ポップが再び野性を取り戻しつつある。  
-それは、AIが生み出す無機的な完璧さとは正反対の、  
-「人間のリズム」に戻る試みでもある。
+### 3-2. Renacimiento de baja fidelidad
+En la base de la cultura de club,
+Las expresiones estilo bricolaje que utilizan micrófonos baratos y equipos usados ​​están ganando popularidad una vez más.
+En clubes de Berlín y Londres,
+Quitarle el ritmo, distorsionarlo y destruirlo se está convirtiendo en el "estilo".
+Lo que reside aquí es la inmediatez de la emoción más que la pureza del sonido.
+El hecho de que no sea perfecto resuena como "sinceridad".
 
 ---
 
-## 6. 不完全の未来 ─ 新しいリアリティへ
+## 4. El fin de la era de las redes sociales y el regreso de las “fluctuaciones”
 
-私たちは、ようやく“完璧であること”の呪縛から解き放たれようとしている。  
-アルゴリズムが整えた世界の外で、  
-エラーや歪み、曖昧さが再び輝きを取り戻す。  
+### 4-1. Libertad de no ser visible
+La era de la "autoexpresión bien formada" dominada por Instagram y TikTok ha cambiado.
+Poco a poco está llegando a su fin.
+Hoy en día, la generación más joven quiere que las cosas "se inclinen" en lugar de "destacar".
+Fotografías mal enfocadas, grabaciones ruidosas y vídeos sin editar.
+Es en ellos donde encuentro evidencia de mi verdadero yo.
 
-それは退行ではなく進化だ。  
-音楽が持つ即興性や、アートが持つ偶発性、  
-そして人間が持つ不安定さを肯定するという進化。  
-
-「The Aesthetics of Imperfection」とは、  
-要するに“生きることそのもの”の美学である。  
-壊れてもいい。揺らいでもいい。  
-完璧ではない音、完璧ではない私たちが、  
-もう一度この世界を鳴らし直す時が来た。
+### 4-2. Escapar del online al offline
+"La estética de la imperfección" es
+No se trata sólo de estética, también se trata de restablecer tu forma de vida.
+Personas que están cansadas de construir su personalidad en las redes sociales y vuelven a su "cuerpo".
+La humedad del club, el rugido del live house,
+Hay un sentimiento imperfecto pero cierto dentro de él.
+La música vuelve una vez más a la "escena humana" en lugar del mundo digital.
 
 ---
 
-## 付録：The Aesthetics of Imperfection 2025 Playlist  
-### ― 不完全の美学を鳴らす4人のアーティスト ―
+## 5. Punto de inflexión de la belleza ─ De “adaptarse” a “colapsar”
+
+### 5-1. Coraje para afirmar la imperfección
+Los últimos diez años han estado dominados por ideas de minimalismo y orden.
+Hemos tenido miedo de "lo que falta".
+Pero ahora lo que falta es el espacio en blanco para la creación.
+Sonidos ruidosos, imágenes borrosas y palabras atascadas.
+En lugar de eliminarlos, acéptelos como parte del trabajo.
+Ahí radica la sensibilidad de una nueva era.
+
+### 5-2. “Resalvaje” del pop
+Después de “brat”, los artistas soltaron el micrófono,
+Graba improvisadamente con tu smartphone,
+Empecé a subir canciones sin terminar.
+Lo que todos tienen en común es la actitud de "dejar las cosas como están".
+El pop vuelve a ser salvaje.
+Es todo lo contrario de la perfección inorgánica creada por la IA.
+También es un intento de regresar al "ritmo humano".
+
+---
+
+## 6. El futuro de la imperfección ─ Hacia una nueva realidad
+
+Finalmente estamos a punto de ser liberados de las cadenas de la "perfección".
+Fuera del mundo creado por algoritmos,
+Los errores, las distorsiones y las oscuridades brillan una vez más.
+
+Es evolución, no regresión.
+La naturaleza improvisada de la música, la naturaleza accidental del arte,
+Y una evolución que afirma la inestabilidad que tenemos los humanos.
+
+¿Qué es "La estética de la imperfección"?
+En definitiva, es la estética del "vivir mismo".
+Está bien si se rompe. Está bien vacilar.
+El sonido no es perfecto, no somos perfectos,
+Ha llegado el momento de hacer que este mundo vuelva a cantar.
+
+---
+
+## Apéndice: Lista de reproducción La estética de la imperfección 2025
+### - Cuatro artistas que expresan la estética de la imperfección -
 
 | Artist/Album / Track | Year | Description | リンク |
 |:--|:--|:--:|:--|:--|

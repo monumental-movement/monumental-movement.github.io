@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/The Huggy Factor – Ass Jam.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-The Huggy Factor – Ass Jam/
 tags:
 - House
 - Tech House
 - Electro
 - 00s
-title: The Huggy Factor – Ass Jam
+title: El factor abrazo - Ass Jam
 ---
 
 
-The Huggy Factorは、Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro、Scarletron名義でも活動し、2020 Visionの共同設立者でもあるCarl FinlowとPaul Huggettのユニット。
+The Huggy Factor es una unidad de Carl Finlow y Paul Huggett, quienes también trabajan bajo los nombres de Silicon Scally, Random Factor, Voice Stealer, Il.Ek.Tro y Scarletron, y son cofundadores de 2020 Vision.
 
-「Ass Jam」は、2000年にレーベル20:20 Visionからリリースされたテックハウストラック。
+"Ass Jam" es una pista de tech house lanzada por el sello 20:20 Vision en 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Ass Jam
 
 B. Tight Ass Jam
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85454332161?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85454332161?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ie3VndTzXM?si=p2I-jvsPT3rdV624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ie3VndTzXM?si=p2I-jvsPT3rdV624" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

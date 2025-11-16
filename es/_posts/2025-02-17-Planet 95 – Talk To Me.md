@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Planet 95 – Talk To Me.webp
 lang: es
 layout: post
+permalink: /es/2025-02-17-Planet 95 – Talk To Me/
 tags:
 - House
 - 90s
-title: Planet '95 – Talk To Me
+title: Planeta '95 – Háblame
 ---
 
 
-Planet 95 は、Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato De Crescenzoによるユニット。
+Planet 95 es una unidad compuesta por Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo y Renato De Crescenzo.
 
-「Talk To Me」は、1996年にグラスゴーのレーベルLimbo Recordsからリリースされたハウストラック2枚組。
+"Talk To Me" es un conjunto de dos discos de temas house lanzados por el sello Limbo Records de Glasgow en 1996.
 
-B面は、Cotton Clubによるremix。
-C&D面2曲目は、グラスゴーを拠点に活動するDJ・プロデューサーであり、スコットランドの伝説的なクラブTunnel clubで長年レジデントをつとめたMichael Kilkieによるremix。
-D面1曲目は、グラスゴーにある Apollo Studiosのエンジニア＆プロデューサーAndy Haldaneによるremix。
+La cara B es un remix de Cotton Club.
+La segunda pista en el lado de C&D es un remix de Michael Kilkie, un DJ y productor con sede en Glasgow que fue residente durante mucho tiempo en el legendario club Tunnel de Escocia.
+La primera pista de la cara D es un remix del ingeniero y productor Andy Haldane de Apollo Studios en Glasgow.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Talk To Me (Dream Mix)
 B. Talk To Me (The Cotton Club Brewery Dub)
@@ -31,7 +32,7 @@ D1. Talk To Me (The Diablo Mix)
 D2. Take To Me (Kilkie's Percapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hdffdIZAsm0?si=xualZwnB7fNXKUXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hdffdIZAsm0?si=xualZwnB7fNXKUXm" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Push Pull – Africa.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Push Pull – Africa/
 tags:
 - House
 - Tribal
 - Minimal
-title: Push Pull – Africa
+title: Empujar y tirar – África
 ---
 
 
-「Push/Pull– Africa」は、エレクトロレジェンドNEWCLEUSの中心人物BEN CENAC（COZMO D/Maurice Cenac）の別名義で、1990年にDeep Endレーベルよリーリスされたトライバルハウスレコード。
+"Push/Pull-Africa" ​​​​es un disco de house tribal lanzado por el sello Deep End en 1990 bajo el alias de BEN CENAC (COZMO D/Maurice Cenac), una figura central de la leyenda del electro NEWCLEUS.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Africa
 
@@ -24,7 +25,7 @@ B1. Africa (Mau Mau Mix)
 B2. Africa (Future Primitive)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43922737030?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43922737030?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GoZQgoZA4dA?si=Cctx7HaWBSrQaSp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GoZQgoZA4dA?si=Cctx7HaWBSrQaSp5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

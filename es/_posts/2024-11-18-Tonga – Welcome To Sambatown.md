@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Tonga – Welcome To Sambatown.webp
 lang: es
 layout: post
+permalink: /es/2024-11-18-Tonga – Welcome To Sambatown/
 tags:
 - House
 - Latin
 - 00s
-title: Tonga – Welcome To Sambatown
+title: Tonga – Bienvenido a Sambatown
 ---
 
 
-DJ Corradino, Gianluca Lul, Mauro Gazzottiによるプロジェクト、TONGAが往年のサンバクラシックWelcome To Sambatownをラテンハウス・リメイク。EMMAなど多くのDJがプレイした名盤。
+TONGA, un proyecto de DJ Corradino, Gianluca Lul y Mauro Gazzotti, es una nueva versión de house latino del clásico de samba Welcome To Sambatown. Una obra maestra tocada por muchos DJs como EMMA.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Welcome To Sambatown (Worldwide Version)
 A2. Welcome To Sambatown (Nationwide Vocal Mix)
@@ -24,7 +25,7 @@ B1. Welcome To Sambatown (Solar Sides Remix)
 B2. Welcome To Sambatown (Remix Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42449589852?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m42449589852?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/endMgKCuK94?si=CsjVIXRWefhhwXGn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/endMgKCuK94?si=CsjVIXRWefhhwXGn" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

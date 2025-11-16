@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Mille and Mr. Hirsch – Jazzhatz/
 tags:
 - House
 - Deep House
-title: Mille and Mr. Hirsch – Jazzhatz
+title: Mille y el señor Hirsch – Jazzhatz
 ---
 
 
-「Jazzhatz」は、
-2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。
+"Jazzhatz" es
+Este es un EP de Mille & Mr. Hirsch, unidad compuesta por Rolf Hans Michael Fischer y Peter W. Hirsch, lanzado en el año 2000 en el sello alemán "Jetlag".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Jazzhatz (Play It Loud)
 
@@ -26,7 +27,7 @@ B2. One More
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m60762386842?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60762386842?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9o4H5xzZTT4?si=kqr8hZr8LL8-yf9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9o4H5xzZTT4?si=kqr8hZr8LL8-yf9y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

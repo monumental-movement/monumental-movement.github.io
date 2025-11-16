@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Latex – Encore.webp
 lang: es
 layout: post
+permalink: /es/2025-07-08-Latex – Encore/
 tags:
 - Electro
 - Tech House
 - 00s
-title: Latex – Encore
+title: Látex - Encore
 ---
 
 
-Latex ことMichael Borrmannはドイツ出身のプロデューサー。Steril名義でも活動しており、DJ Hell のレーベルInternational Deejay Gigolo RecordsやLasergunなど様々なレーベルからリリースしている。
+Michael Borrmann, también conocido como Latex, es un productor alemán. También trabaja bajo el nombre de Steril y ha lanzado en varios sellos, incluido el sello de DJ Hell, International Deejay Gigolo Records y Lasergun.
 
-「Encore」は、2001年にFrank Müller(フランク・ミュラー)が運営するベルリンを拠点とするテクノ&エレクトロレーベルMüller RecordsからリリースされたElectro, Tech Houseトラック。
+"Encore" es una canción de Electro y Tech House lanzada en 2001 por el sello de techno y electro de Frank Müller, Müller Records, con sede en Berlín.
 
-マスタリングはDubplates & MasteringのエンジニアCGBことChristoph Grote-Beverborg。
+La masterización fue realizada por el ingeniero Christoph Grote-Beverborg de Dubplates & Mastering, también conocido como CGB.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Electro Dancing
 A2. La Musique
@@ -28,7 +29,7 @@ B1. Encore
 B2. Rain In The Night
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37449680311?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m37449680311?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxyTLrqExWI?si=6EmcK7LMSC8HE6KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxyTLrqExWI?si=6EmcK7LMSC8HE6KN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

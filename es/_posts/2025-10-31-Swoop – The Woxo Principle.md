@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Swoop – The Woxo Principle.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-Swoop – The Woxo Principle/
 tags:
 - Rock
 - Funk
 - Soul
 - Swingbeat
 - 90s
-title: Swoop – The Woxo Principle
+title: Swoop – El principio Woxo
 ---
 
 
-Swoop – The Woxo Principle
+Swoop – El principio Woxo
 
-スウープ - ワクソプリンスパル
+Swoop - Waxo Príncipe Pal
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Woxo Prelude
 2. Living How I'm Living
@@ -41,7 +42,7 @@ Swoop – The Woxo Principle
 18. Apple Eyes (Gt's Special Mix For Josh)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45309243652?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlvjA_4JBNw?si=lv2TLzwLk3GLZQin" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

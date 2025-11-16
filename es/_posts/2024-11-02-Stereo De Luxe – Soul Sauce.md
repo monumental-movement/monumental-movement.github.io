@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Stereo De Luxe – Soul Sauce.webp
 lang: es
 layout: post
+permalink: /es/2024-11-02-Stereo De Luxe – Soul Sauce/
 tags:
 - Breakbeat
 - Downtempo
 - Big Beat
-title: Stereo De Luxe – Soul Sauce
+title: Stereo De Luxe – Salsa De Alma
 ---
 
 
-Stereo de Luxeは、ベルリン出身のDJ・プロデューサーデュオ。
+Stereo de Luxe es un dúo de DJ y productores de Berlín.
 
-元々は1994年にStereo de Luxeという芸名でソロDJとして活動していたKarsten "Kassi" Wolfによって設立され、ベルリンのラウンジ、イージーリスニング、クラブポップシーンで活躍した。
+Fundada originalmente en 1994 por Karsten "Kassi" Wolf, un DJ solista bajo el nombre artístico Stereo de Luxe, la banda estuvo activa en la escena lounge, easy listening y club pop de Berlín.
 
-1998年にThomas Mäversとデュオを結成。音楽スタイルがブレイクビート、ハウス、エレクトロファンクにシフトした。デュオとしてのファーストEP「Aerocyclette 1999 」はレーベルBungalow Recordsからリリースされた。
+Formó un dúo con Thomas Mävers en 1998. Los estilos musicales cambiaron hacia el breakbeat, el house y el electro-funk. Su primer EP como dúo, "Aerocyclette 1999", fue lanzado en el sello Bungalow Records.
 
-「Soul Sauce」は同じくBungalow Recordsから2000年にリリースされたブレイクビーツ・ダウンテンポ・ビッグビートトラック。
+"Soul Sauce" es una pista de gran ritmo breakbeat downtempo lanzada en 2000 por Bungalow Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Soul Sauce
 
@@ -32,7 +33,7 @@ B2. Riddle Me This
 Featuring – MC Olli Goolightly As The Riddler
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

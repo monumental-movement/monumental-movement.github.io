@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Czerkinsky – Variations Sur Natacha (Remixes).webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Czerkinsky – Variations Sur Natacha (Remixes)/
 tags:
 - Acid Jazz
 - Remix
-title: Czerkinsky – Variations Sur Natacha (Remixes)
+title: Czerkinsky – Variaciones Sur Natacha (Remixes)
 ---
 
 
-「Variations Sur Natacha (Remixes)」は、フランスのエレクトロニックミュージックプロデューサーGregory Czerkinsky（グレゴリー・チェルキンスキィ）の代表作「Natachaナターシャ」のremix集。
+"Variations Sur Natacha (Remixes)" es una colección de remixes de la obra maestra "Natacha" del productor de música electrónica francés Gregory Czerkinsky.
 
-Czerkinskyは、カヒミ・カリィの1995年リリースのアルバム「My First Karie」に収録されている「DO ME DO ME」の作詞作曲を担当した事でも知られている。
+Czerkinsky también es conocido por escribir y componer la canción "DO ME DO ME" del álbum de 1995 de Kahimi Karie "My First Karie".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Natacha (remix: Le Monocle)
 
@@ -33,7 +34,7 @@ B3. Natacha (remix: Sporto Kantes)
 B4. Natacha (Version Originale)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51971815655?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51971815655?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Y92q8rh5kk?si=ATdRyW9emSDdnHJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Y92q8rh5kk?si=ATdRyW9emSDdnHJC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

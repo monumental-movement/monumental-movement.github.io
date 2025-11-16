@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/The Beatnuts – Take It Or Squeeze It.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-The Beatnuts – Take It Or Squeeze It/
 tags:
 - Hiphop
 - Rap
-title: The Beatnuts – Take It Or Squeeze It
+title: The Beatnuts – Tómalo o exprímelo
 ---
 
 
-「The Beatnuts – Take It Or Squeeze It」は、ヒップホップグループであるビートナッツの4番目のスタジオアルバムです。2001年にリリースされたこのアルバムは、The Beatnutsの特徴的なプロダクションスタイルとウィットに富んだ歌詞を披露しています。
+"The Beatnuts – Take It Or Squeeze It" es el cuarto álbum de estudio del grupo de hip hop The Beatnuts. Lanzado en 2001, este álbum muestra el estilo de producción característico de The Beatnuts y sus letras ingeniosas.
 
-「Take It Or Squeeze It」は、アップビートでファンキーなトラックを中心に構成されており、さまざまな音楽要素やサンプルが取り入れられています。このアルバムでは、The Beatnutsがヒップホップ、ファンク、ラテン音楽の要素を巧みに取り入れながら、独自のサウンドを展開しています。
+'Take It Or Squeeze It' se basa en pistas alegres y funky que incorporan varios elementos y samples musicales. En este álbum, The Beatnuts desarrollan su propio sonido único, incorporando hábilmente elementos de hip-hop, funk y música latina.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.Intro
 
@@ -47,7 +48,7 @@ title: The Beatnuts – Take It Or Squeeze It
 14.Se Acabo (Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Wm-pgF7hec?si=RK-1cqB30tQFvw5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Wm-pgF7hec?si=RK-1cqB30tQFvw5B" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

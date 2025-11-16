@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/The Art Of Noise – In No Sense Nonsense.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-The Art Of Noise – In No Sense Nonsense/
 tags:
 - Synth-Pop
 - Leftfield
-title: The Art Of Noise – In No Sense Nonsense
+title: 'El arte del ruido: sin sentido, tonterías'
 ---
 
 
-「In No Sense Nonsense」は、1987年にChina RecordsからリリースされたArt Of Noiseによるアルバムのカセッテテープです。
+"In No Sense Nonsense" es un álbum en casete de Art Of Noise lanzado por China Records en 1987.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Galleons Of Stone
 
@@ -81,7 +82,7 @@ B15. Crusoe
 B16. One Earth
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

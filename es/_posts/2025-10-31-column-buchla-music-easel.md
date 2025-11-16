@@ -5,37 +5,39 @@ categories:
 image: ../assets/images/column-buchla-music-easel.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-column-buchla-music-easel/
 tags:
 - Buchla
 - Modular
 - Ambient
-title: 【コラム】 Buchla Music Easelと“孤高の演奏”の哲学：アナログ・シンセによる即興の再定義
+title: '[Columna] Buchla Music Easel y la filosofía de la “interpretación solitaria”:
+  Redefiniendo la improvisación con sintetizadores analógicos'
 ---
 
 
-## 序章：Buchla Music Easelとは何か
+## Introducción: ¿Qué es el caballete musical Buchla?
 
-文：mmr｜テーマ：現代においても多くのライブ・アーティストが「単体演奏可能な最小のオーケストラ」として評価しているMusic Easel
+Texto: mmr｜Tema: Music Easel, que incluso en los tiempos modernos es elogiado por muchos artistas en vivo como la “orquesta más pequeña que se puede tocar sola”
 
 
-1973年に登場した **Buchla Music Easel** は、アナログ・モジュラーの名機 **Buchla 200シリーズ** をポータブル化したモデルである。  
-設計者 **Don Buchla** は、この楽器を「携帯できる作曲環境」と呼んだ。  
-それは単なる小型モジュラーではなく、**“個人の即興装置”** として構想されたものだった。  
+El **Buchla Music Easel**, que apareció en 1973, es una versión portátil de la famosa **serie Buchla 200** modular analógica.
+El diseñador **Don Buchla** llamó al instrumento un "entorno de composición portátil".
+No era sólo un pequeño módulo modular, sino que fue concebido como un "dispositivo personal improvisado".
 
-> 「Easelは音のキャンバスだ。プレイヤーがその瞬間に描く線を保存することはできない。」  
+> "Easel es un lienzo sónico. No puedes guardar las líneas que el jugador dibuja en ese momento".
 > — Don Buchla
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
@@ -43,85 +45,85 @@ color: #fff;
 
 ---
 
-## 第1章：Don Buchlaと“反Moog”の哲学
+## Capítulo 1: Don Buchla y la Filosofía “Anti-Moog”
 
-1960年代初頭、電子楽器開発の二大潮流が東西アメリカで興った。  
-東のMoog、そして西のBuchlaである。  
-Buchlaは、音を「制御」するのではなく「生成する」ことを目的とした。  
-鍵盤ではなくタッチプレートを採用し、音程よりも**変化率と偶発性**を演奏の軸に据えた。  
+A principios de la década de 1960, surgieron dos tendencias importantes en el desarrollo de instrumentos musicales electrónicos en el este y el oeste de América.
+Moog al este y Buchla al oeste.
+Buchla pretendía "generar" sonido en lugar de "controlarlo".
+Se utilizó una placa táctil en lugar de un teclado, y la interpretación se centró en **la tasa de cambio y la contingencia** en lugar del tono.
 
-彼の哲学は、後のMusic Easelにも受け継がれた。  
-Easelは、**人間が電子回路と共演するための楽器** であり、そこに存在するのは「演奏者＝制御者」ではなく「共作者」としての姿勢だ。
+Su filosofía se trasladó al posterior Music Easel.
+El caballete es un instrumento para que los humanos actúen con circuitos electrónicos, y lo que existe allí es la actitud de un "coautor" en lugar de un "intérprete = controlador".
 
-### 技術分析：波形と触覚の関係
+### Análisis técnico: Relación entre forma de onda y sensación táctil.
 
-Buchlaは「波形操作＝触覚体験」であると考えた。  
-下図は、Complex OscillatorにおけるFM（周波数変調）と波形出力の関係の簡略モデルである。
+Buchla pensaba que "manipulación de formas de onda = experiencia táctil".
+La siguiente figura es un modelo simplificado de la relación entre FM (modulación de frecuencia) y la salida de forma de onda en Complex Oscillator.
 
 <div class="mermaid">
 
-graph TD
-A[Modulation Oscillator] -->|FM Signal| B[Complex Oscillator]
-B -->|Wavefolded Output| C[Audio Out]
-B --> D[Harmonic Timbre CV]
-D -->|Control Voltage| B
+gráfico TD
+A[Oscilador de modulación] -->|Señal FM| B[Oscilador complejo]
+B -->|Salida plegada en onda| C[Salida de audio]
+B --> D [Timbre armónico CV]
+D -->|Voltaje de control| B
 
 </div>
 
-この相互接続によって、単純なサイン波が倍音構造を持ち、**演奏中の微細なタッチ**が音響に即反映される。
+Gracias a esta interconexión, una onda sinusoidal simple tiene una estructura armónica y los pequeños toques durante la interpretación se reflejan inmediatamente en la acústica.
 
 ---
 
-## 第2章：Music Easelの構造と思想
+## Capítulo 2: Estructura y filosofía de Music Easel
 
-Music Easelは次の二つの主要ブロックから成る。
+Music Easel consta de dos bloques principales:
 
--  **Buchla 208 Stored Program Sound Source（音源モジュール）**
--  **Buchla 218 Touch Keyboard Controller**
+- **Fuente de sonido del programa almacenado Buchla 208**
+- **Controlador de teclado táctil Buchla 218**
 
-### シグナル・フロー図（Mermaid）
+### Diagrama de flujo de señal (sirena)
 
 <div class="mermaid">
 
-graph LR
-A[Touch Keyboard 218] -->|CV/Gate| B[Complex Oscillator]
-B -->|Audio| C[Mixer & Output]
-A -->|Pressure CV| D[Modulation Oscillator]
+gráfico LR
+A[Teclado táctil 218] -->|CV/Puerta| B[Oscilador complejo]
+B -->|Audio| C[Mezclador y salida]
+A -->|Presión CV| D[Oscilador de modulación]
 D -->|FM| B
-E[Pulser] -->|Trigger| F[Envelope Generator]
+E[Pulsador] -->|Disparador| F[Generador de sobres]
 F -->|CV| B
-B --> G[Reverb Unit]
-G --> H[Main Out]
+B --> G[Unidad de reverberación]
+G --> H [Salida principal]
 
 </div>
 
-この構造により、単体で**クロック発生 → モジュレーション → 音出力**まで完結。
-外部機材を必要とせず、Easel自身が「完結した音楽系」として機能する。
+Esta estructura le permite completar la generación de reloj → modulación → salida de sonido** por sí solo.
+El propio Easel funciona como un "sistema de música completo" sin necesidad de equipos externos.
 
-### 技術的特徴
+### Características técnicas
 
-* **Complex Oscillator**：波形フォルディング、FM、AMが可能。
-* **Pulser**：周期的パルスを生成、クロック的役割。
-* **Envelope**：自動制御、ゲート反応、ループ可能。
-* **Reverb**：スプリングリバーブによる自然な残響。
+* **Oscilador complejo**: Plegado de formas de onda, FM, AM posible.
+* **Pulser**: Genera pulsos periódicos, sirve como reloj.
+* **Envelope**: Controlado automáticamente, cerrado, en bucle.
+* **Reverberación**: Reverberación natural con reverberación de resorte.
 
-これらを統合する思想は「可搬性」ではなく「即興性」であり、音楽制作の中心を“思考”から“触覚”へと転換した。
+La idea que los integra no es la "portabilidad" sino la "improvisación", y el centro de la producción musical ha pasado del "pensamiento" a la "sensación táctil".
 
 ---
 
-## 第3章：ライブ・インストゥルメントとしてのEasel
+## Capítulo 3: El caballete como instrumento en vivo
 
-### 事例1：Suzanne Ciani “Easel Sessions” (2016–)
+### Caso 1: Suzanne Ciani “Sesiones de caballete” (2016–)
 
-伝説的女性電子音楽家 **Suzanne Ciani** は、2010年代にEaselでのソロライブシリーズ “Easel Sessions” を開始した。
-彼女は一切のラップトップを排し、Easel単体で演奏する。
-そのライブでは、手の圧力で音程が滑らかに変化し、FM変調が有機的に揺らぐ。
-Cianiは「Buchlaは呼吸する楽器」と述べている。
+La legendaria música electrónica **Suzanne Ciani** comenzó su serie en vivo en solitario “Easel Sessions” en Easel en la década de 2010.
+Ella elimina las computadoras portátiles y actúa únicamente en Easel.
+En la actuación en directo, el tono cambia suavemente con la presión de las manos y la modulación FM fluctúa orgánicamente.
+Ciani dice: "Buchla es un instrumento para respirar".
 
-音響的には、Easelの**非同期モジュレーション**が空間を漂うような倍音の流れを生み出し、
-聴衆は“空気そのものが演奏されている”ような錯覚を受ける。
+Sónicamente, la **modulación asincrónica** de Easel crea un flujo de armónicos que parece flotar en el espacio.
+El público tiene la ilusión de que "se está tocando el aire mismo".
 
-### 波形分析：即興構造の特徴
+### Análisis de forma de onda: características de la estructura de improvisación
 
 | 要素                          | 技術的要点         | 聴覚印象         |
 | --------------------------- | ------------- | ------------ |
@@ -131,106 +133,106 @@ Cianiは「Buchlaは呼吸する楽器」と述べている。
 
 ---
 
-## 第4章：単体演奏の可能性と音響空間の構築
+## Capítulo 4: Posibilidad de actuación solista y construcción de espacio acústico.
 
-Easelの魅力は、**外部エフェクトなしで音響彫刻が完結する**点にある。
-Pulserをトリガーとして複数のモジュレーションを連動させることで、
-「生成するミニマル・パターン」や「ランダム・リズム構造」を形成できる。
+El atractivo de Easel es que la escultura sonora se puede completar sin ningún efecto externo.
+Al vincular múltiples modulaciones usando Pulser como disparador,
+Es posible crear "patrones mínimos generados" y "estructuras rítmicas aleatorias".
 
-### 事例2：Charles Cohen “Live at the Rotunda” (2014)
+### Caso 2: Charles Cohen “Live at the Rotunda” (2014)
 
-フィラデルフィアの伝説的即興家 **Charles Cohen** は、Buchla Music Easelを40年以上使い続けた。
-彼のライブではテンポの概念が崩壊し、Pulserが呼吸のように伸縮する。
-Cohenは「Easelは時間を彫刻する道具」と語った。
+El legendario improvisador de Filadelfia **Charles Cohen** utilizó el caballete musical Buchla durante más de 40 años.
+En sus shows en vivo, el concepto de tempo colapsa y Pulser se expande y contrae como si respirara.
+Cohen dijo: "El caballete es una herramienta para esculpir el tiempo".
 
-彼の演奏では、Complex Oscillatorの波形フォルディングによって倍音が連続的に崩壊・再生し、
-まるでアコースティック楽器が自ら再構築されるような音響を生む。
+En su interpretación, el plegado de la forma de onda del oscilador complejo hace que los armónicos colapsen y se reproduzcan continuamente.
+Produce un sonido que es como si un instrumento acústico se estuviera reconstruyendo.
 
-### 音響技術分析：Cohenの即興構造
+### Análisis de la tecnología del sonido: la estructura de improvisación de Cohen
 
 <div class="mermaid">
 
-graph TD
-A[Pulser] -->|Irregular Trigger| B[Envelope]
-B -->|CV Modulation| C[Complex Oscillator]
-C -->|Audio| D[Wavefolder]
-D -->|Audio| E[Reverb]
-E -->|Stereo Out| F[Audience Space]
+gráfico TD
+A[Pulsador] -->|Disparador irregular| B[Sobre]
+B -->|Modulación CV| C[Oscilador complejo]
+C -->|Audio| D[carpeta de ondas]
+D -->|Audio| mi[reverberación]
+E -->|Salida estéreo| F[Espacio de audiencia]
 
 </div>
 
-この非同期トリガー構造により、Easel単体で「非拍節的グルーヴ」が生成される。
-Cohenはその電流の流れに“身を委ねる”だけで音楽が立ち上がると述べている。
+Esta estructura de disparo asíncrona permite que el caballete genere un "surco no medido" por sí solo.
+Cohen dice que la música surge simplemente "entregándose" al flujo de la corriente.
 
 ---
 
-## 第5章：現代アーティストとEaselの継承
+## Capítulo 5: Artistas contemporáneos y herencia de caballete
 
 ### Suzanne Ciani
 
-→ 音響的フェミニズムの具現化。Buchlaの柔らかい電流に身体性を託す。
+→ La encarnación del feminismo sonoro. Confío mi físico a la suave corriente eléctrica de Buchla.
 
 ### Todd Barton
 
-→ 教育者として、Easelを「意識と機械の接点」として解説。
-“Don’t play it—listen to it playing you.”（演奏するな、演奏されろ）
+→ Como educador, explica Easel como "el punto de contacto entre la conciencia y las máquinas".
+"No lo reproduzcas, escúchalo interpretándote a ti".
 
 ### Charles Cohen
 
-→ 即興の極北。音楽ではなく「場の生成」としてのライブ。
-彼の没後もBuchla社は彼のパッチを「Cohen Program Card」として復刻。
+→ El extremo norte de la improvisación. Una actuación en vivo no se trata de música, sino de crear un lugar.
+Incluso después de su muerte, Buchla reimprimió su parche como la "Tarjeta del Programa Cohen".
 
 ### Kaitlyn Aurelia Smith
 
-→ Easelの思想をデジタルと融合。自然音的な揺らぎを現代アンビエントへ拡張。
+→ Integrando la filosofía de Easel con la tecnología digital. Extendiendo las fluctuaciones del sonido natural a la música ambiental moderna.
 
 ---
 
-## 第6章：テクノロジーと身体性 ― “電流を演奏する”という行為
+## Capítulo 6: Tecnología y fisicalidad: el acto de “reproducir corriente eléctrica”
 
-Music Easelを演奏することは、スイッチを押すことではなく、
-**電気回路の反応速度に身を預ける行為**である。
-指先の圧、湿度、温度がCV値に影響し、音が変化する。
+Tocar Music Easel no se trata de accionar un interruptor;
+**Es el acto de confiar en la velocidad de reacción de un circuito eléctrico**.
+La presión, la humedad y la temperatura de las yemas de los dedos afectan el valor CV y ​​cambian el sonido.
 
-つまり、Easelは「人間の皮膚が回路になる」楽器であり、
-そこに存在する音は**データではなく現象**である。
+En otras palabras, Easel es un instrumento en el que la piel humana se convierte en el circuito.
+Los sonidos que existen allí son fenómenos, no datos.
 
-近年のライブパフォーマンスでは、アナログEaselの操作をMIDI化せず、
-あえて純粋な電流応答として扱う動きが再び注目されている。
-この“反デジタル”の流れは、電子音楽に再び**身体的リアル**を取り戻す兆候でもある。
-
----
-
-## 結章：ひとりのオーケストラとしての未来
-
-Easelは、機能的には小さく、表現的には無限である。
-その内部で揺らめく電流は、演奏者の呼吸と同期しながら“生きた音”を紡ぐ。
-
-Charles Cohenが語ったように、「Easelは孤独な会話の相手」であり、
-Suzanne Cianiが示したように、「それは人間の感情を電子に翻訳する器官」である。
-
-ラップトップが支配する現代のライブ環境の中で、
-Buchla Music Easelは依然として“孤高のオーケストラ”であり続ける。
-それは即興演奏の未来を、最小単位の回路の中に秘めている。
+En presentaciones en vivo recientes, las operaciones analógicas de Easel no se convierten a MIDI,
+El movimiento para tratarlo como una respuesta puramente actual vuelve a llamar la atención.
+Esta tendencia "antidigital" es también una señal de devolver la realidad física a la música electrónica.
 
 ---
 
-## 付録：Buchla Music Easel 年表
+## Conclusión: El futuro como orquesta
+
+Easel es funcionalmente pequeño y expresivamente ilimitado.
+La corriente eléctrica que parpadea en el interior crea un "sonido vivo" en sincronización con la respiración del artista.
+
+Como dijo Charles Cohen, "Easel es un compañero de conversación solitario"
+Como ha demostrado Suzanne Ciani, "es el órgano que traduce las emociones humanas en forma electrónica".
+
+En el entorno actual dominado por los portátiles,
+Buchla Music Easel sigue siendo una "orquesta solitaria".
+Mantiene el futuro de la improvisación escondido dentro de la unidad más pequeña de circuito.
+
+---
+
+## Apéndice: Cronología del caballete musical de Buchla
 
 <div class="mermaid">
 
-timeline
-    title Buchla Music Easel 年表
-    1963 : Don Buchla、Buchla 100シリーズ開発開始（Moogと同時期）
-    1966 : San Francisco Tape Music Centerで実験音楽家と共同研究
-    1973 : Music Easel（Model 208/218）登場
-    1975 : Suzanne Ciani、Buchlaによる初ライブパフォーマンス
-    1980 : Charles Cohen、Easelを用いた即興ライブ開始
-    1990 : Easelがアンダーグラウンド実験音楽シーンで再評価
-    2013 : Easel復刻版（BEMI）発売
-    2014 : Charles Cohen “Live at the Rotunda”発表
-    2018 : Easel Command（208c）リリース
-    2022 : 新世代アーティストによるBuchlaライブ・ムーブメント拡大
+línea de tiempo
+título Buchla Music Easel Cronología
+1963: Don Buchla comienza el desarrollo de la serie Buchla 100 (al mismo tiempo que Moog)
+1966: Investigación colaborativa con músicos experimentales en el San Francisco Tape Music Center.
+1973: Se presenta el caballete musical (modelo 208/218)
+1975 : Primera actuación en directo de Suzanne Ciani y Buchla
+1980: Charles Cohen comienza presentaciones improvisadas en vivo usando Easel.
+1990: Easel se revaloriza en la escena musical experimental underground.
+2013: Lanzamiento de la edición de reimpresión de caballete (BEMI)
+2014: Se anuncia Charles Cohen “Live at the Rotunda”
+2018: Lanzamiento de Easel Command (208c)
+2022: Ampliación del movimiento en vivo Buchla por parte de artistas de nueva generación
 
 </div>
 

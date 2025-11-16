@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/The Hard Concert – Get The Power.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-The Hard Concert – Get The Power/
 tags:
 - Italo
 - Disco
-title: The Hard Concert – Get The Power
+title: El concierto duro – Consigue el poder
 ---
 
 
-The Hard Concertは、イタリアのプロデューサーPaolo Armaroli、イタリアのダンスレーベルDJ Movementの創設者でありDJ/プロデューサーのPieradis Rossini、ダンスミュージックプロデューサー/DJのGraziano Fanelli、イタリアのプロデューサーMarco Rizziによるイタロ・ユーロダンスプロジェクト。
+The Hard Concert es un proyecto Italo-Eurodance del productor italiano Paolo Armaroli, el DJ/productor Pieradis Rossini, el fundador del sello de danza italiano DJ Movement, el productor/DJ de música dance Graziano Fanelli y el productor italiano Marco Rizzi.
 
-「Get The Power」はThe Hard Concert の最高傑作といわれている。
+Se dice que "Get The Power" es la obra maestra de The Hard Concert.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Get The Power (Vocal Hard Mix)
 
@@ -27,7 +28,7 @@ B1. Get The Power (Reverse Mix)
 B2. Get The Power (Overdrive Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57007567296?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57007567296?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5jYDt8N_Cxo?si=g_aF67E2GPns7CS9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jYDt8N_Cxo?si=g_aF67E2GPns7CS9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

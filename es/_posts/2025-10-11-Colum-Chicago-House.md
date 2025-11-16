@@ -5,144 +5,146 @@ categories:
 image: ../assets/images/column-chicago-house.webp
 lang: es
 layout: post
+permalink: /es/2025-10-11-Colum-Chicago-House/
 tags:
 - House
 - Deep House
 - Acid House
-title: 【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化
+title: '[Columna] De Chicago para el mundo: El nacimiento y evolución de la música
+  house'
 ---
 
 
-## 地下倉庫から始まった革命
+## Una revolución que empezó en un almacén subterráneo
 
 
-文：mmr｜テーマ：単なる娯楽の場ではなく、自己表現や共同体意識の場であった「シカゴ・ハウス」
+Texto: mmr | Tema: “Chicago House” no era sólo un lugar de entretenimiento, sino un lugar para la autoexpresión y un sentido de comunidad.
 
 
-1980年代初頭、シカゴのクラブシーンはディスコの衰退による空白期を迎えていた。  
-ディスコが商業的に肥大化し、ラジオやメインストリームから姿を消す中、若者たちは新しい音楽表現の場を求めていた。その答えの一つが、後に「シカゴ・ハウス」と呼ばれる音楽である。  
+A principios de la década de 1980, la escena de discotecas de Chicago estaba experimentando una pausa debido al declive de la música disco.
+A medida que la música disco creció comercialmente y desapareció de la radio y de la corriente principal, los jóvenes buscaban una nueva salida para la expresión musical. Una de las respuestas fue la música que más tarde se conoció como "Chicago House".
 
-Warehouseクラブは、この時期における音楽的な実験場だった。倉庫のような広大な空間に、黒人コミュニティ、LGBTQ+コミュニティ、そして都市の若者たちが集まり、音楽に没入した。この場所は、単なる娯楽の場ではなく、自己表現や共同体意識の場でもあった。
+El club Warehouse fue un campo de pruebas musical durante este período. En un vasto espacio parecido a un almacén, miembros de la comunidad negra, la comunidad LGBTQ+ y jóvenes urbanos se reunieron para sumergirse en la música. Este lugar no era sólo un lugar de entretenimiento, sino también un lugar para la autoexpresión y un sentido de comunidad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KtTcR3KRY3E?si=mpzJt4l4ZTQ7KmQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtTcR3KRY3E?si=mpzJt4l4ZTQ7KmQJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章：創世期 — シカゴのクラブ文化と1980年代都市背景
+## Capítulo 1: Génesis: la cultura de clubes de Chicago y el trasfondo urbano de los años 80
 
-### シカゴのクラブ — Warehouseとその空間
+### Chicago Club — Almacén y sus espacios
 
-シカゴ・ハウスは「Warehouseクラブ」を中心に発展した。  
-1977年にオープンしたWarehouseは、都市の廃工場を改装した倉庫クラブで、Frankie KnucklesがDJとしてプレイすることで伝説的な存在となった。  
+La casa de Chicago se desarrolló en torno al "Club Warehouse".
+Inaugurado en 1977, el Warehouse era una fábrica urbana abandonada convertida en un club almacén que se hizo legendario cuando Frankie Knuckles tocaba allí como DJ.
 
-倉庫の広大な空間、天井の高さ、コンクリートの反響は、音楽に独特の深みと躍動感を与えた。フロアの音は観客の身体と共鳴し、単なる音楽体験を超えた共同体的体験を生み出していた。
+El vasto espacio del almacén, la altura del techo y el eco del hormigón dieron a la música una profundidad y un dinamismo únicos. Los sonidos en el suelo resonaron con los cuerpos de la audiencia, creando una experiencia comunitaria que fue más allá de una mera experiencia musical.
 
-### 1980年代シカゴの社会背景
+### Antecedentes sociales de Chicago en la década de 1980
 
-1980年代初頭のシカゴは、経済的に厳しい時期だった。
+Los primeros años de la década de 1980 fueron una época económica difícil para Chicago.
 
-- 工業の衰退による失業率上昇  
-- 都市再開発によるコミュニティの分断  
-- 人種間格差や社会的不平等  
+- Aumento de la tasa de desempleo debido al declive industrial.
+- División comunitaria debido a la remodelación urbana.
+- Disparidades raciales y desigualdad social
 
-こうした都市の空白を埋めるように、クラブ文化は新しい社会的・文化的表現の場として機能した。ディスコの商業化に失望した若者たちは、WarehouseやThe Power Plant、Music Boxといったクラブに集まり、音楽を通じて自由を謳歌した。
+Al llenar este vacío urbano, la cultura de club funcionó como un nuevo lugar para la expresión social y cultural. Desilusionados con la comercialización de la música disco, los jóvenes acudieron en masa a clubes como Warehouse, The Power Plant y Music Box para disfrutar de la libertad a través de la música.
 
-### クラブ運営とコミュニティ
+### Gestión del club y comunidad.
 
-クラブは入場料を最低限に抑え、地元DJやアーティストが自由にプレイできる環境を提供した。  
-この自由な場が、シカゴ・ハウスにDIY精神とコミュニティ文化を根付かせた。  
+El club mantuvo las tarifas de entrada al mínimo y proporcionó un entorno donde los DJ y artistas locales podían tocar libremente.
+Este espacio gratuito le ha dado a Chicago House un espíritu de bricolaje y una cultura comunitaria.
 
-逸話として、Frankie Knucklesは深夜、フロアの歓声を読みながら微妙にリズムを変え、全員の身体を一斉に揺らす瞬間を生み出した。観客は歓声と拍手で応え、音楽が社会的・文化的現象であることを体感した。
-
----
-
-## 第2章：シカゴ・ハウスの創造者たち
-
-### Frankie Knuckles — Godfather of House
-
-ニューヨーク出身のKnucklesは、WarehouseでのDJプレイを通じてシカゴのクラブ文化を形作った。  
-ディスコやソウルの影響を受けつつ、リズムマシンやシンセサイザーを駆使して、新しいグルーヴを生み出した。  
-彼の手によって、DJは単なる曲つなぎの職人から、フロア全体を操る演出家へと変化した。
-
-### Marshall Jefferson — ダンスフロア革命
-
-Jeffersonは「Move Your Body」を制作し、クラブでの参加型ダンス体験を促進した。  
-イントロの微細な変化で観客の身体の反応を引き出す技術は、音楽を単なる音の連なりから、社会的現象へと押し上げた。
-
-### Larry Heard — ディープハウスの精神的表現
-
-Larry Heardは、自宅で簡単な機材を使い『Can You Feel It』を制作。  
-深い瞑想的グルーヴを持つトラックは、クラブで踊る体験だけでなく、リスナー個々の精神的旅にも寄与した。  
+Como anécdota, Frankie Knuckles leyó los vítores del público a altas horas de la noche y cambió sutilmente el ritmo, creando un momento en el que los cuerpos de todos se balanceaban al unísono. El público respondió con vítores y aplausos, demostrando que la música es un fenómeno social y cultural.
 
 ---
 
-## 第3章：スタイルとサブジャンル
+## Capítulo 2: Los creadores de Chicago House
 
-- **アシッドハウス**：TB-303使用、サイケデリックな音のうねり  
-- **ディープハウス**：瞑想的・ソウルフル、Larry Heardが代表  
-- **ボーカル・ハウス**：歌詞や感情表現を重視、コミュニティの声を反映  
+### Frankie Knuckles - Padrino de la casa
 
-初期のハウスはシンプルな繰り返しリズムが特徴で、Roland TR-808/TR-909のリズムマシン、アナログシンセで作られた。小さな音の工夫が、クラブ全体の空気を変える力を持った。
+Originario de Nueva York, Knuckles dio forma a la cultura de clubes de Chicago al pinchar en el Warehouse.
+Influenciados por la música disco y soul, hicieron pleno uso de cajas de ritmo y sintetizadores para crear nuevos ritmos.
+Bajo sus manos, los DJ han pasado de ser meros artesanos que conectan canciones a directores que controlan toda la pista.
 
----
+### Marshall Jefferson - Revolución en la pista de baile
 
-## 第4章：社会と文化の交差点
+Jefferson creó "Move Your Body" para promover experiencias de baile participativo en los clubes.
+La técnica de provocar una reacción física del público a través de cambios sutiles en la introducción ha elevado la música de una mera serie de sonidos a un fenómeno social.
 
-シカゴ・ハウスは、黒人コミュニティやLGBTQ+コミュニティに支えられて成長した。  
-クラブは安全な避難所であり、差別や偏見から解放される場所だった。音楽を通じて自己表現や共同体形成が進み、都市におけるマイノリティ文化の象徴となった。
+### Larry Heard: la expresión espiritual del deep house
 
-逸話として、ある夜のWarehouseでは、Knucklesがイントロのテンポを微妙に変えるだけで、フロア全体のテンションが瞬時に変わった。観客は歓声と拍手で応え、音楽が社会的・文化的現象であることを体感した。
-
----
-
-## 第5章：テクノロジーと制作手法
-
-シカゴ・ハウスはテクノロジーの進化と密接に関係している。  
-- **リズムマシンとシンセサイザー**での音作り  
-- **サンプラーやデジタル録音技術**による自宅制作の可能性  
-- **独立レーベルとDIY精神**による文化の民主化  
-
-Larry Heardの自宅制作『Can You Feel It』は、音楽の民主化とクラブ文化の拡張を象徴する逸話である。
+Larry Heard creó "Can You Feel It" en casa utilizando un equipo sencillo.
+Con su profundo ritmo meditativo, el tema no sólo contribuyó a la experiencia de discoteca, sino también al viaje espiritual individual del oyente.
 
 ---
 
-## 第6章：意外な関係性
+## Capítulo 3: Estilos y Subgéneros
 
-シカゴ・ハウスは、一見関係なさそうな分野とも交差する。
+- **Acid House**: Usando TB-303, ondas sonoras psicodélicas
+- **Deep House**: Meditativo y conmovedor, representado por Larry Heard
+- **Vocal House**: Énfasis en letras y expresión emocional, reflejando las voces de la comunidad.
 
-1. **建築・都市空間**：倉庫空間の音響が音楽体験を決定  
-2. **ファッション**：スポーツウェアやハイカットスニーカーが文化アイデンティティに  
-3. **テクノロジー**：電子楽器やサウンドデザインが音楽表現を拡張  
-4. **LGBTQ+運動**：クラブが安全地帯・表現の場に  
-5. **スピリチュアル体験**：繰り返しリズムによる陶酔感  
-6. **DIY文化・パンク精神**：自主制作・独立レーベル・コミュニティ文化の基盤  
+La música house antigua se caracterizaba por ritmos simples y repetitivos y se creaba utilizando cajas de ritmos y sintetizadores analógicos Roland TR-808/TR-909. Un pequeño ingenio sonoro tuvo el poder de cambiar el ambiente de todo el club.
 
 ---
 
-## 第7章：シカゴから世界へ
+## Capítulo 4: La intersección de sociedad y cultura
 
-1980年代後半、シカゴ・ハウスは国境を越えて広がった。  
-- 英国ではアシッドハウスブームを巻き起こす  
-- デトロイト・テクノとの交流で国際的ネットワーク形成  
-- 世界中のクラブやフェスで再評価される  
+Chicago House ha crecido con el apoyo de las comunidades negra y LGBTQ+.
+El club era un refugio seguro, un lugar libre de discriminación y prejuicios. A través de la música, progresó la autoexpresión y la formación de la comunidad, y se convirtió en un símbolo de la cultura minoritaria en la ciudad.
+
+Como anécdota, una noche en Warehouse, el ligero cambio de Knuckles en el tempo de su introducción cambió instantáneamente el ambiente en toda la pista. El público respondió con vítores y aplausos, demostrando que la música es un fenómeno social y cultural.
 
 ---
 
-## 第8章：代表ディスコグラフィー
+## Capítulo 5: Tecnología y métodos de producción.
+
+Chicago House está estrechamente relacionada con la evolución de la tecnología.
+- Creación de sonido con **máquina de ritmo y sintetizador**
+- Posibilidad de producción casera con **samplers y tecnología de grabación digital**
+- democratización de la cultura a través de **etiquetas independientes y el espíritu DIY**
+
+Can You Feel It, de producción casera de Larry Heard, es una anécdota que simboliza la democratización de la música y la expansión de la cultura de club.
+
+---
+
+## Capítulo 6: Relaciones inesperadas
+
+Chicago House se cruza con campos aparentemente no relacionados.
+
+1. **Arquitectura/Espacio Urbano**: La acústica del espacio de un almacén determina la experiencia musical
+2. **Moda**: la ropa deportiva y las zapatillas altas se convierten en identidad cultural
+3. **Tecnología**: Los instrumentos electrónicos y el diseño de sonido amplían la expresión musical
+4. **Movimiento LGBTQ+**: Los clubes se convierten en zonas seguras y lugares de expresión
+5. **Experiencia espiritual**: Euforia debido al ritmo repetitivo
+6. **Cultura DIY/espíritu punk**: La base de la producción independiente, los sellos independientes y la cultura comunitaria.
+
+---
+
+## Capítulo 7: De Chicago al mundo
+
+A finales de la década de 1980, Chicago House se expandió más allá de sus fronteras.
+- Comienza el boom del acid house en el Reino Unido.
+- Formar una red internacional a través de la interacción con Detroit Techno
+- Reevaluado en clubes y festivales de todo el mundo.
+
+---
+
+## Capítulo 8: Discografía representativa
 
 | アーティスト | タイトル | 年 | リンク |
 |-------------|----------|----|---------------|
@@ -154,65 +156,65 @@ Larry Heardの自宅制作『Can You Feel It』は、音楽の民主化とクラ
 
 ---
 
-## 第9章：シカゴ・ハウスの歴史的背景
+## Capítulo 9: Antecedentes históricos de la Casa de Chicago
 
-シカゴの経済・都市構造、社会的不平等、工業衰退といった背景が、ハウス・ミュージック誕生の土壌となった。  
-クラブは単なる娯楽ではなく、社会的・文化的実験場であり、都市住民の自由と連帯の象徴でもあった。  
-こうして生まれたシカゴ・ハウスは、都市文化、テクノロジー、社会運動、音楽史が交錯する文化現象として、世界中に拡散していった。
+La estructura económica y urbana de Chicago, la desigualdad social y el declive industrial sentaron las bases para el nacimiento de la música house.
+Los clubes eran más que un simple entretenimiento; eran campos de pruebas sociales y culturales y símbolos de libertad y solidaridad entre los habitantes de las ciudades.
+La Chicago House, así nacida, se extendió por todo el mundo como un fenómeno cultural que cruzó la cultura urbana, la tecnología, los movimientos sociales y la historia de la música.
 
 ---
 
 <div class="mermaid">
 
-flowchart TD
-    A1977["1977：Warehouse開店"] --> B1983["1983：Frankie Knuckles DJプレイ開始"]
-    B1983 --> C1984["1984：The Power Plant開店、若手DJ台頭"]
-    C1984 --> D1985["1985：Music Boxオープン、ディープハウス浸透"]
-    D1985 --> E1986["1986：Trax Records設立、シカゴ・ハウス流通開始"]
-    E1986 --> F1987["1987：英国アシッドハウスブーム開始"]
-    F1987 --> G1988["1988：デトロイト・テクノ交流、国際ネットワーク形成"]
-    G1988 --> H1990["1990：シカゴ・ハウス世界的認知、クラブ・フェス文化拡大"]
+diagrama de flujo TD
+A1977["1977: Se abrió el almacén"] --> B1983["1983: Frankie Knuckles DJ empezó a tocar"]
+B1983 --> C1984["1984: Se abre The Power Plant, surgen jóvenes DJ"]
+C1984 --> D1985["1985: Se abre Music Box, penetración profunda en el house"]
+D1985 --> E1986["1986: Se establece Trax Records, comienza la distribución en casas de Chicago"]
+E1986 --> F1987["1987: Comienza el boom del acid house británico"]
+F1987 --> G1988["1988: Intercambio techno de Detroit, formación de una red internacional"]
+G1988 --> H1990["1990: Reconocimiento global de Chicago House, expansión de la cultura de clubes y festivales"]
 
 </div>
 
 ---
 
-## 第10章：現代のハウスとシカゴの遺産
+## Capítulo 10: La casa moderna y el legado de Chicago
 
-モダン・ディープハウスやテックハウスとして進化し、クラブやフェスで再評価されている。  
-シカゴ・ハウスのリズムは都市文化と人々の身体に深く刻まれ、現代の電子音楽、クラブカルチャー、さらにはポップミュージックの制作手法にまで影響を与えている。
+Ha evolucionado hacia el deep house y el tech house moderno, y está siendo reevaluado en clubes y festivales.
+Los ritmos house de Chicago están profundamente grabados en la cultura urbana y en los cuerpos de las personas, influyendo en la música electrónica moderna, la cultura de clubes e incluso en los métodos de producción de música pop.
 
-### 遺産としての文化的意義
+### Importancia cultural como patrimonio
 
-1. **都市文化の象徴**：都市空間と人々の生活、社会状況を背景に生まれた文化  
-2. **社会的マイノリティの表現**：クラブが文化的避難所・表現の場として機能  
-3. **音楽技術の進化と普及**：TR-808やTB-303、サンプラー、デジタル録音技術  
-4. **国際的影響**：英国・ヨーロッパ、日本やブラジルのクラブ文化に浸透  
+1. **Símbolos de la cultura urbana**: Culturas nacidas del trasfondo del espacio urbano, la vida de las personas y las condiciones sociales.
+2. **Expresión de minorías sociales**: Los clubes funcionan como refugios culturales y espacios de expresión
+3. **Evolución y difusión de la tecnología musical**: TR-808, TB-303, samplers, tecnología de grabación digital
+4. **Influencia internacional**: Penetración de la cultura de clubes en el Reino Unido/Europa, Japón y Brasil
 
-### 未来への展望
+### Perspectivas para el futuro
 
-シカゴ・ハウスは単なる過去の音楽ジャンルではなく、都市文化、社会運動、テクノロジーと音楽の交差点として、未来のクラブ文化や音楽制作にも影響を与え続ける。  
-新世代アーティストは過去の名曲をサンプリングし、現代のリズムに再解釈する。都市再開発やデジタル技術の進化により、クラブ空間の物理的・仮想的体験は多様化する。社会的包摂や多様性の理念は、シカゴ・ハウスが提示した「自由で安全な表現空間」という原点に根ざしている。
-
----
-
-## 終章：シカゴのビートは永遠に
-
-シカゴ・ハウスは、都市の廃倉庫から生まれた小さな音楽実験場が、世界的文化現象へと広がった物語である。
-
-WarehouseやThe Power Plantで繰り広げられた夜ごとの創造は、黒人コミュニティやLGBTQ+コミュニティにとって自己表現の場であり、都市の共同体形成の象徴でもあった。
-Frankie KnucklesやLarry Heardらパイオニアたちが築いたグルーヴとテクノロジーの融合は、単なる音楽を超えた文化的運動となった。
-
-その影響は英国アシッドハウス、デトロイト・テクノ、現代のEDMやディープハウスにまで及び、今日も世界中のクラブでシカゴのビートは生き続けている。シカゴ・ハウスは過去の遺産であると同時に、未来の音楽文化を照らす灯火である。
+El house de Chicago es más que un simple género musical del pasado; continúa influyendo en la futura cultura de clubes y producción musical como una intersección de la cultura urbana, los movimientos sociales, la tecnología y la música.
+Una nueva generación de artistas muestra canciones clásicas del pasado y las reinterpreta con ritmos modernos. Debido a la remodelación urbana y los avances en la tecnología digital, las experiencias físicas y virtuales de los espacios de los clubes se volverán más diversas. Los ideales de inclusión social y diversidad tienen sus raíces en el concepto de Chicago House de un "espacio de expresión libre y seguro".
 
 ---
 
-### 関連コラム
+## Capítulo final: Los ritmos de Chicago para siempre
 
-🔗 [【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容](https://monumental-movement.jp/Column-Acid-House)
+Chicago House es la historia de un pequeño laboratorio musical nacido de un almacén urbano abandonado que se expandió hasta convertirse en un fenómeno cultural global.
 
-🔗 [【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る](https://monumental-movement.jp/Column-Deep-House)
+Las creaciones nocturnas que tuvieron lugar en Warehouse y The Power Plant fueron espacios de autoexpresión para las comunidades negras y LGBTQ+, y símbolos de la construcción de comunidades urbanas.
+La fusión de ritmo y tecnología forjada por pioneros como Frankie Knuckles y Larry Heard se convirtió en algo más que música: se convirtió en un movimiento cultural.
 
-🔗 [【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷](https://monumental-movement.jp/Column-NY-House)
+Su influencia se extiende al acid house británico, el techno de Detroit, el EDM moderno y el deep house, y los ritmos de Chicago siguen vivos en clubes de todo el mundo hoy en día. El house de Chicago es a la vez un legado del pasado y un faro para la cultura musical del futuro.
 
-🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+---
+
+### Columnas relacionadas
+
+🔗 [[Columna] Acid House: Reacciones químicas del sonido y transformación cultural](https://monumental-movement.jp/Column-Acid-House)
+
+🔗 [[Columna] ¿Qué es el deep house? ─ Explorando la profundidad del sonido que combina la temperatura del soul y el jazz con el house] (https://monumental-movement.jp/Column-Deep-House)
+
+🔗 [[Columna] Desde los orígenes de NY House hasta la actualidad - Historia, obras maestras y cambios de equipamiento](https://monumental-movement.jp/Column-NY-House)
+
+🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)

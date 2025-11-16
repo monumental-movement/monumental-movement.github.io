@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Enzyme & Malice – Close Encounters Thru The Wormhole.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Enzyme & Malice – Close Encounters Thru The Wormhole/
 tags:
 - Breaks
 - Hardcore
 - Electronic
-title: Enzyme & Malice – Close Encounters Thru The Wormhole
+title: 'Enzyme & Malice: encuentros cercanos a través del agujero de gusano'
 ---
 
 
-ハードコアブレイクのDJ /プロデューサーEnzymeとMaliceによるハードコア・ブレイクトラック。
+Una pista de break incondicional de los DJ y productores de incondicional Enzyme y Malice.
 
-EnzymeとMaliceはPortal名義でも活動。
+Enzyme y Malice también funcionan bajo el nombre de Portal.
 
-Enzyme（エンザイム）は、多作なハードコア・ブレイクスDJ兼プロデューサーで、レコーディングパートナーのMalice（マリス）と共に2Freshと2FX Recordsの共同オーナーです。
+Enzyme es un prolífico DJ, productor y copropietario de 2Fresh y 2FX Records con su socio de grabación Malice.
 
-彼は、その多作な作品と、エネルギッシュでパワフルなライブパフォーマンスで知られ、ハードコア・ブレイクス、テクノ、ジャングルなど、様々なジャンルを融合させたユニークなスタイルです。
+Es conocido por su producción prolífica y sus presentaciones en vivo enérgicas y poderosas, con un estilo único que combina géneros como el hardcore break, el techno y el Jungle.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Enzyme & Malice – Close Encounters
 
 AA. Enzyme – Thru The Wormhole
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20131022518?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EWC9cGx_084?si=lhQ49P5AYVVpKXRW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EWC9cGx_084?si=lhQ49P5AYVVpKXRW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

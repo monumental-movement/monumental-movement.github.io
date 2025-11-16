@@ -5,37 +5,38 @@ categories:
 image: ../assets/images/Quadrophonia – The Wave Of The Future.webp
 lang: es
 layout: post
+permalink: /es/2024-03-29-Quadrophonia – The Wave Of The Future/
 tags:
 - Techno
 - Break Beat
 - Hard Techno
-title: Quadrophonia – The Wave Of The Future
+title: 'Cuadrofonía: la ola del futuro'
 ---
 
 
-Quadrophonia（クアドロフォニア）は、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
+Quadrophonia es un proyecto del DJ holandés Lucien Foort y el DJ belga Olivier Abbeloos.
 
-「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
+"The Wave Of The Future" es una pista de techno incondicional breakbeat lanzada en 1991.
 
-A面2曲目はMark Ryder(DJ Ryder)によるremix。
+La segunda pista de la cara A es un remix de Mark Ryder (DJ Ryder).
 
-Olivier Abbeloosは、1969年1月18日、ベルギーのアールストで生まれました。
+Olivier Abbeloos nació el 18 de enero de 1969 en Aalst, Bélgica.
 
-幼少期から音楽に興味を持ち、13歳の時に両親からDJセットをもらい、DJを始めて、17歳になると2台のトラックレコーダーを使ってメガミックスを作成するなど、独学で音楽制作を始めました。
+Se interesó por la música desde temprana edad, y a los 13 años sus padres le regalaron un set de DJ y comenzó a pinchar. A los 17 años comenzó a producir música por su cuenta, creando megamixes usando dos grabadoras de pistas.
 
-彼の最初のプロジェクトは、L&Oの"Even Now"でしたが、クレジットには名前が載っておらず、その後、パトリック・デ・マイヤーと最初の共同プロジェクトであるThe Beat Machine を結成しました。
+Su primer proyecto fue "Even Now" de L&O, pero su nombre no aparece en los créditos, y luego formó su primer proyecto colaborativo, The Beat Machine, con Patrick de Mayer.
 
-彼の名を広く知らしめたのは、Lucien Foortとのデュオ、クアドロフォニアです。
+Su nombre se hizo ampliamente conocido a través de su dúo Quadroponia con Lucien Foort.
 
-一方、T99 は当初、Patrick De Meyerのソロプロジェクトとして活動し、3作品をリリースした後、Olivier Abbeloosが "Anasthasia" という楽曲を制作しているのを聞いたPatrick De Meyerは、T99 名義でリリースすることを提案します。
+Mientras tanto, T99 fue inicialmente un proyecto en solitario de Patrick De Meyer, y después de lanzar tres álbumes, Patrick De Meyer escuchó que Olivier Abbeloos estaba trabajando en una canción llamada "Anasthasia" y sugirió que la lanzaran bajo el nombre de T99.
 
-Olivier Abbeloosは了承し、以降T99はデュオとして活動するようになりました。
+Olivier Abbeloos estuvo de acuerdo y T99 comenzó a trabajar como dúo.
 
-2人は後に唯一のアルバム "Children Of Chaos" をリリースしています。
+Más tarde, los dos lanzaron su único álbum, "Children Of Chaos".
 
-余談ですが、アブリーロスの義理の兄弟はOlivier Pietersであり、レコードショップ「ターゲット・レコーズ」の輸入部門でも働いていました。
+Como nota al margen, el cuñado de Abrilos es Olivier Pieters, quien también trabajó en el departamento de importaciones de la tienda de discos Target Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Wave Of The Future (Large Mix)
 
@@ -48,7 +49,7 @@ B2. The Wave Of The Future (Medium Mix)
 B3. The Wave Of The Future (Small Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

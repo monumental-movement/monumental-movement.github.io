@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Deep Dish Feat. Stevie Nicks – Dreams.webp
 lang: es
 layout: post
+permalink: /es/2023-10-07-Deep Dish Feat. Stevie Nicks – Dreams/
 tags:
 - House
-title: Deep Dish Feat. Stevie Nicks – Dreams
+title: Hazaña de plato profundo. Stevie Nicks - Sueños
 ---
 
 
-「Dreams」は、
-2006年にUKのレーベル「Positiva」からリリースされたDeep DishのよるEPです。
+"Sueños" es
+Este es un EP de Deep Dish lanzado en 2006 por el sello británico "Positiva".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Dreams (Extended Club Mix)
 
@@ -24,7 +25,7 @@ Remix, Producer [Additional Production By]
 AA2. Dreams (Tocadisco Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99329165159?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99329165159?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKANEy_-nM0?si=FCIeZhPgxUXf23Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKANEy_-nM0?si=FCIeZhPgxUXf23Ci" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

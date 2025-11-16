@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Earth, Wind & Fire – Heritage.webp
 lang: es
 layout: post
+permalink: /es/2023-09-25-Earth, Wind and Fire – Heritage/
 tags:
 - Disco
 - Soul
-title: Earth, Wind & Fire – Heritage
+title: Tierra, Viento y Fuego – Patrimonio
 ---
 
 
-「Heritage」は、アース・ウィンド・アンド・ファイアの1980年のアルバム『Faces』に収録されています。この曲は、バンドの特徴的なファンク、ソウル、ディスコ、およびポップの要素を融合させたサウンドを持っています。
+"Heritage" aparece en el álbum Faces de 1980 de Earth, Wind & Fire. La canción tiene un sonido que combina los elementos funk, soul, disco y pop característicos de la banda.
 
-「Heritage」は、アース・ウィンド・アンド・ファイアの楽曲の中でも踊りやすくグルーヴ感のある曲であり、ブラスセクションやリズミカルなドラムビートが特徴的です。歌詞は、文化的な遺産やアイデンティティの重要性に焦点を当てており、ポジティブなメッセージを伝えています。
+"Heritage" es una de las canciones más bailables y divertidas de Earth, Wind & Fire, con una sección de metales y un ritmo de batería rítmico. La letra se centra en la importancia del patrimonio y la identidad cultural, transmitiendo un mensaje positivo.
 
-アース・ウィンド・アンド・ファイアは、70年代から80年代にかけて多くのヒット曲を生み出し、ファンクやディスコミュージックのシーンで大きな成功を収めました。彼らの楽曲は、グルーヴ感やエネルギッシュなパフォーマンスで知られており、その音楽は広く愛されています。
+Earth, Wind & Fire tuvo muchos éxitos a lo largo de los años 70 y 80 y logró un gran éxito en la escena de la música funk y disco. Sus canciones son conocidas por su ritmo y sus interpretaciones enérgicas, y su música es muy querida.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Heritage (Extended Version)
 
@@ -31,7 +32,7 @@ B2. Heritage (LP Version)
 B3. Heritage (Per Cus Apella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

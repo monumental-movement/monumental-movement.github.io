@@ -5,15 +5,16 @@ categories:
 image: ../assets/images/A Tribe Called Quest – Midnight Marauders.webp
 lang: es
 layout: post
+permalink: /es/2023-10-18-A Tribe Called Quest – Midnight Marauders/
 tags:
 - Hiphop
-title: A Tribe Called Quest – Midnight Marauders
+title: Una tribu llamada misión – Merodeadores de medianoche
 ---
 
 
-1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
+Midnight Marauders, lanzado en 1993, es el tercer álbum de ATCQ.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Midnight Marauders Tour Guide
 A2. Steve Biko (Stir It Up)
@@ -32,7 +33,7 @@ B6. Lyrics To Go
 B7. God Lives Through
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVKrrs5K9v0?si=VtZH_3NbbX7HA-GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CVKrrs5K9v0?si=VtZH_3NbbX7HA-GY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

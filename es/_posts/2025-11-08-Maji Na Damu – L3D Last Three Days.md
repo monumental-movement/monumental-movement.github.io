@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Maji Na Damu – L3D Last Three Days.webp
 lang: es
 layout: post
+permalink: /es/2025-11-08-Maji Na Damu – L3D Last Three Days/
 tags:
 - Progressive Trance
 - Trance
 - 00s
-title: Maji Na Damu – L3D (Last Three Days)
+title: Maji Na Damu – L3D (Últimos tres días)
 ---
 
 
-Maji Na Damu (マージ・ナ・ダムー)は、JUN JUN(にゅんにゅん)とTa(たあ)による日本のフィーメイルTechno / Trance ユニット。プロデューサーは、ageHaのレジデントDJで活躍し、浜崎あゆみ、倖田來未、globeなどプロデュース&remixを手掛けるDJ 19(田中 裕之/Hiro Tanaka)。
+Maji Na Damu es una unidad femenina japonesa de techno/trance formada por JUN JUN y Ta. El productor es DJ 19 (Hiro Tanaka), que trabaja como DJ residente en ageHa y ha producido y remezclado a artistas como Ayumi Hamasaki, Kumi Koda y Globe.
 
-「L3D (Last Three Days)」は、元ピチカートファイヴの高浪慶太郎が設立したレーベルOut Of Tuneから2000年にリリースされた。
+"L3D (Last Three Days)" fue lanzado en 2000 en Out Of Tune, un sello fundado por Keitaro Takanami, ex miembro de Pizzicato Five.
 
-A面B面ともにRemixは、DJ 19と、小川弘と黒沢永紀によるH.Garden(Master Mind/マスターマインド)。
+Tanto el lado A como el B están remezclados por DJ 19, H.Garden (Master Mind) por Hiroshi Ogawa y Eiki Kurosawa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. L3D (Last Three Days) (DJ 19 Vs H.Garden Ltd. Remix)
 
 B. B.W.Y. (DJ19 Vs H.Garden Slap Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10279529707?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10279529707?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vwm3STjf0yM?si=-YO_LubdkrnHZZ0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vwm3STjf0yM?si=-YO_LubdkrnHZZ0K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

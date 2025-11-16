@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Danny Krivit – Nite Life 011 - Expansions.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Danny Krivit – Nite Life 011 - Expansions/
 tags:
 - House
 - Mix
-title: Danny Krivit – Nite Life 011 - Expansions
+title: Danny Krivit – Nite Life 011 - Expansiones
 ---
 
 
-ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
+Slammin' and jammin' jazzy house de uno de los disc jockeys más experimentados de Nueva York. Danny Krivit ha estado activo en la escena disco de Nueva York, desde Paradise Garage hasta Danceteria, Save the Robots y Limelight hasta el día de hoy. Realiza su residencia "Body & Soul" todos los domingos.
 
-CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
+El CD1 tiene una sensación ligeramente ecléctica y el CD2 está lleno de sonidos de alta calidad. Especialmente cuando Klubfilter, Funk Against Jazz, Dennis Ferrer y Nigel Hayes se mezclan, se crea una atmósfera de concierto en vivo repleta de instrumentos. Cosas como Celebrate y especialmente "Blackwater" de Octave One y Peckham Royalty con sus increíbles teclados hacen que esto sea especial.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
@@ -47,7 +48,7 @@ CD1は少しエクレクティックな雰囲気があり、CD2はクオリテ�
 2-02. Pal Joey–Harmonyなど
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Denki Groove – Orange Remixes.webp
 lang: es
 layout: post
+permalink: /es/2023-09-23-Denki Groove – Orange Remixes/
 tags:
 - JPop
 - Techno
-title: Denki Groove – Orange Remixes
+title: Denki Groove – Remezclas de naranja
 ---
 
 
-「ORANGE REMIXES」は電気グルーヴのアルバム「ORANGE」（1998年）の楽曲を他のアーティストやプロデューサーがリミックスしたバージョンを収録しています。リミキサーには、国内外の有名なアーティストやクリエイターが参加しており、電気グルーヴの音楽に新たな解釈やアレンジを加えた楽曲が収められています。
+"ORANGE REMIXES" contiene versiones remezcladas de canciones del álbum "ORANGE" (1998) de Denki Groove por otros artistas y productores. El remixer incluye la participación de famosos artistas y creadores nacionales e internacionales, y contiene canciones que añaden nuevas interpretaciones y arreglos a la música de Denki Groove.
 
-エレクトロニックミュージック、テクノ、ハウス、アンビエントなどのジャンルを網羅しており、多様な音楽スタイルとアプローチが楽しめます。リミキサーたちが独自のアイデアとサウンドを注入し、電気グルーヴのオリジナル楽曲をさらに進化させています。
+Abarcando géneros como música electrónica, techno, house y ambient, podrás disfrutar de una variedad de estilos y enfoques musicales. Los remezcladores llevan las canciones originales de Denki Groove aún más lejos al inyectar sus propias ideas y sonidos.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Scorpion (Omoide Hatoba Remix)
 
@@ -39,7 +40,7 @@ B2. Repetition Side Step (Original Mix)
 Music By – Takkyu Ishino
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JIXSU-ppntY?si=yNpdN7PJN3cYSVEm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JIXSU-ppntY?si=yNpdN7PJN3cYSVEm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

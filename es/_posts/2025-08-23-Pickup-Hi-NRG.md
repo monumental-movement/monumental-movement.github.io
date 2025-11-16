@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/pickup-hi-nrg.webp
 lang: es
 layout: post
+permalink: /es/2025-08-23-Pickup-Hi-NRG/
 tags:
 - Hi NRG
 - 80s
 - 90s
-title: ハイエナジー（Hi-NRG）作品をピックアップ
+title: Recoger alta energía (Hi-NRG) funciona
 ---
 
 
-「眩いシンセと突き抜けるビートでフロアを沸かせた、ハイエナジー黄金期を象徴する注目すべき作品群」
+"Un grupo notable de obras que simbolizan la edad de oro de alta energía que emocionó la pista con sintetizadores deslumbrantes y ritmos penetrantes".
 
 <hr>
 
-### E-Rotic – “Willy Use A Billy... Boy”
+### E-Rotic – “Willy usa un Billy... Boy”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-ドイツ発のセクシーなキャッチー・ユーロ・ポップ。90年代以降のHi-NRGの解釈として、思わず口ずさみたくなる中毒性の高いトラックです。
+Euro pop sexy y pegadizo de Alemania. Como interpretación de Hi-NRG de los años 90, es una canción altamente adictiva que querrás tararear.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 
@@ -30,21 +31,21 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Norma Sheffield – “Look Me In The Eyes”
+### Norma Sheffield – “Mírame a los ojos”
 <a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.webp"></a>
 
-Italo／Hi-NRG系プロジェクトの美麗な歌唱が際立つ1枚。叙情的で切ないコード進行に注目。
+Una pieza que resalta el hermoso canto del proyecto Italo/Hi-NRG. Presta atención a la progresión de acordes lírica y triste.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Look Me In The Eyes (Club Mix)
 A2. Look Me In The Eyes (No Rhythm Mix)
@@ -54,22 +55,22 @@ B2. Look Me In The Eyes (Instrumental)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UtvV5BMBcPc?si=SgrcvqmpQWZsp68b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UtvV5BMBcPc?si=SgrcvqmpQWZsp68b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Pleasure & Pain – Higher
+### Placer y dolor – Superior
 <a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Higher.webp"></a>
 
-80年代から活躍するイタロの有名プロデューサーFRED VENTURA（フレッド・ベンチュラ）のプロジェクト（1990-1992）。
+Un proyecto (1990-1992) de FRED VENTURA, famoso productor italiano en activo desde los años 80.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Higher (Club Mix)
 A2. Higher (Bonus Beat)
@@ -79,22 +80,22 @@ B2. Higher (Instrumental)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AanGM0hsMc?si=mIY--6XNX6zFOmA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AanGM0hsMc?si=mIY--6XNX6zFOmA-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Max Coo & Steve Coo – “Boogie Dancer”
+### Max Coo y Steve Coo – “Boogie Dancer”
 <a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.webp"></a>
 
-Ken Laszloによるヴォーカルがスパイス。Italoのオーソドックスかつグルーヴィーな魅力を感じさせる好ナンバー。
+La voz de Ken Laszlo añade sabor. Un buen número que te hace sentir el encanto ortodoxo y groovy de Italo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Boogie Dancer (Woogie Version)
 A2. Boogie Dancer (D.D.J. Version)
@@ -105,21 +106,21 @@ B3. Boogie Dancer (Verona Beat)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Dave Hammond – “Africa”
+### Dave Hammond – “África”
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-欧州展開型イタロ・ディスコのユーロビート寄りなスタイル。ダンサブルに場を温めたい時に。
+Un estilo de Italo disco desarrollado en Europa que se inclina hacia el Eurobeat. Cuando quieras calentar el espacio con bailes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Africa (Extended Mix)
 A2. Africa (Acappella)
@@ -130,21 +131,21 @@ B3. Africa (Dub Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8jbpKNXEB_k?si=ONxRMNyF7X4A5Po7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8jbpKNXEB_k?si=ONxRMNyF7X4A5Po7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Pseudonym – “You Have The Right To Remain Silent”
+### Seudónimo – “Tienes derecho a permanecer en silencio”
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
 
-Hi-NRGの伝道師Ian Levineが絡む重要作品。当時のクラブシーンの空気感そのものを録音したような一枚。
+Un trabajo importante que involucra al evangelista de Hi-NRG, Ian Levine. Un disco que parece una grabación del ambiente de la escena de discotecas de la época.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. You Have The Right To Remain Silent
 
@@ -152,10 +153,10 @@ B. You Have The Right To Remain Silent (Loadsadubvipermix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GkgA62cU_o4?si=iYe-CsLUGhiac7u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkgA62cU_o4?si=iYe-CsLUGhiac7u0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>

@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Neztic – Kickin' Down.webp
 lang: es
 layout: post
+permalink: /es/2024-07-02-Neztic – Kickin Down/
 tags:
 - Breakbeat
 - Breaks
 - 00s
-title: Neztic – Kickin' Down
+title: Neztic - Pateando hacia abajo
 ---
 
 
-NezticことManuel Nezticは、1998年からメキシコのエレクトロニックミュージックシーンで活動するDJ。
+Manuel Neztic, también conocido como Neztic, es un DJ que ha estado activo en la escena de la música electrónica mexicana desde 1998.
 
-イギリスのブレークビーツ・ブレイクレーベルMob Recordsから2006年にリリースされた「Kickin' Down」は、オーストラリアのプロフットボール リーグ、A リーグ の広告キャンペーンの公式テーマ曲としても知られている。
+"Kickin' Down", lanzado en 2006 por el sello británico de breakbeat Mob Records, también es conocido como el tema oficial de la campaña publicitaria de la liga de fútbol profesional de Australia, la A-League.
 
-B面は、フィンランドのDJ・プロデューサーRico Tubbs によるremix。
+La cara B es un remix del DJ y productor finlandés Rico Tubbs.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Kickin' Down
 
 B. Kickin' Down (Rico Tubbs Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-A5loOOnvkg?si=GQK2P5iOEPKfHJhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-A5loOOnvkg?si=GQK2P5iOEPKfHJhf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

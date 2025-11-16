@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/山口百恵 – プレイバックPart2.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Momoe Yamaguchi – Play Back Part2/
 tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 山口百恵 – プレイバックPart2
+title: Momoe Yamaguchi – Reproducción Parte 2
 ---
 
 
-「山口百恵 – プレイバックPart2」は、1978年にリリースされました。
+“Momoe Yamaguchi – Playback Part 2” se lanzó en 1978.
 
-アレンジ：萩田光雄
+Arreglo: Mitsuo Hagita
 
-歌詞：阿木燿子
+Letra: Yoko Aki
 
-作曲：宇崎竜童
+Compositor: Ryudo Uzaki
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. プレイバックPart2
 
 B. 賭け 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

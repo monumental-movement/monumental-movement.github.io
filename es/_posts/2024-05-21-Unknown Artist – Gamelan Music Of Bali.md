@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Unknown Artist – Gamelan Music Of Bali.webp
 lang: es
 layout: post
+permalink: /es/2024-05-21-Unknown Artist – Gamelan Music Of Bali/
 tags:
 - Tribal
 - Folk
 - Field Recording
-title: Unknown Artist – Gamelan Music Of Bali
+title: Artista desconocido - Gamelan Music Of Bali
 ---
 
 
-レーベルLyrichordからリリースされたバリ島のガムラン音楽アルバム。
+Un álbum de música gamelán balinés lanzado por el sello Lyrichord.
 
-1950年にPeter Fritschにより設立されたUSレコード会社Lyrichordは、アメリカで最も古くから、儀式的、部族的、民族的伝統のフィールドレコーディングなど人類の音楽の伝統を集めリリースしている。このアルバムの録音者はRuby Ornstein。
+Fundada en 1950 por Peter Fritsch, la compañía discográfica estadounidense Lyrichord es la colección y publicación de tradiciones musicales humanas más antigua de Estados Unidos, incluidas grabaciones de campo de tradiciones ceremoniales, tribales y étnicas. Este álbum fue grabado por Ruby Ornstein.
 
-ガムランの起源は、ボロブドゥール遺跡やプランバナン遺跡のレリーフに刻まれていることから西暦404年頃ではないかと言われている。また。ガムランは、2021年12月15日にユネスコ世界無形文化遺産として登録された。
+Se dice que el origen del gamelán se remonta al año 404 d. C., ya que está grabado en relieves en las ruinas de Borobudur y Prambanan. También. Gamelan fue registrado como Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO el 15 de diciembre de 2021.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Topeng Tua
 A2. Kebjar Teruna
@@ -31,7 +32,7 @@ B3. Gambang Suling
 B4. Kebjar Hudjan Mas
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0KypKEp5LwU?si=MVkLVEYwPNBN_iR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0KypKEp5LwU?si=MVkLVEYwPNBN_iR4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

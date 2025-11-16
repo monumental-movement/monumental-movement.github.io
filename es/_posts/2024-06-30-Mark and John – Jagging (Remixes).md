@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Mark and John – Jagging (Remixes).webp
 lang: es
 layout: post
+permalink: /es/2024-06-30-Mark and John – Jagging (Remixes)/
 tags:
 - House
 - Minimal
 - Tech House
 - 00s
-title: Mark & John – Jagging (Remixes)
+title: Mark & ​​John – Jagging (Remezclas)
 ---
 
 
-Mark & Johnは、スウェーデンのDJ・ハウスプロデューサーJohn Dahlbäckと、Jesper DahlbäckとのユニットDK７として活動するMark O'Sullivanによるプロジェクト。John Dahlbäck（ジョン・ダールバック）とJesper Dahlbäck（ジェスパー・ダールバック）は従兄弟でHugg & Pepp、Pepp & Kaliber名義でコラボレーションしている。
+Mark & ​​​​John es un proyecto del DJ y productor house sueco John Dahlbäck y Mark O'Sullivan, quien forma parte de la unidad DK7 con Jesper Dahlbäck. John Dahlbäck y Jesper Dahlbäck son primos y colaboran bajo los nombres Hugg & Pepp y Pepp & Kaliber.
 
-A面はスウェーデンのDJ・音楽プロデューサーÖzgür Canによるremix。B面２曲目はAnonym、Gungeligung、Horehaus、Wack! などのレーベルを運営するスウェディッシュハウスのプロデューサーTony Senghoreによるremix。
+Side A es un remix del DJ y productor musical sueco Özgür Can. La segunda pista de la cara B es un remix de Tony Senghore, un productor de house sueco que dirige sellos como Anonym, Gungeligung, Horehaus y Wack!.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 This Side
 A. Jagging (Özgür Can Remix)
@@ -28,7 +29,7 @@ B1. Jagging (John Dahlbäck Remix)
 B2. Jagging (Tony Senghore Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15812016406?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m15812016406?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gd7uJKTW9Wg?si=zs_4OlkwIsunHHqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gd7uJKTW9Wg?si=zs_4OlkwIsunHHqF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,218 +5,220 @@ categories:
 image: ../assets/images/column-bassists.webp
 lang: es
 layout: post
+permalink: /es/2025-10-18-column-bassists/
 tags:
 - Jazz
 - Rock
 - Citypop
 - Fusion
-title: 【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音
+title: '[Columna] Planeta del bajo: Historia cultural de los bajistas en el mundo
+  y Japón ---Sonidos bajo la superficie de la Tierra'
 ---
 
 
-## “音楽の魂は低音にある。”
+## “El alma de la música está en el bajo”.
 
 
-文：mmr｜テーマ：世界と日本のベーシスト文化を貫く“低音の思想”
+Texto: mmr｜Tema: “Filosofía del bajo” que impregna el mundo y la cultura bajista japonesa
 
-私たちはしばしばメロディに耳を奪われる。  
-だが、音楽を「感じる」瞬間は、いつも身体の奥で鳴っている低音にある。  
-クラブのサブウーファーが空気を揺らす時も、ライブハウスで胸を打つ一打も、  
-その中心にあるのは「ベース」という名の見えざる重力だ。
+A menudo nos cautivan las melodías.
+Sin embargo, el momento en el que "sentimos" la música es siempre en los tonos graves que resuenan profundamente en nuestro cuerpo.
+Cuando el subwoofer en un club sacude el aire, o cuando un golpe golpea tu pecho en una casa en vivo,
+En el centro hay una gravedad invisible llamada "base".
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## I. 耳ではなく身体で聴く音楽
+## I. Escuchar música con el cuerpo, no con los oídos
 
-ベースは、耳で聴くよりも先に“体が反応する音”だ。  
-リズムとハーモニーの狭間に立ち、音楽の重心を決定づける存在。  
-それは単なる伴奏ではなく、音楽の呼吸そのものを司っている。  
+El bajo es un sonido al que tu cuerpo reacciona antes de escucharlo.
+Se sitúa entre el ritmo y la armonía y determina el centro de gravedad de la música.
+No es sólo un acompañamiento, sino que controla el aliento mismo de la música.
 
-20世紀以降、音楽の変化は常に低音の革新とともにあった。  
-ジャズが即興の自由を手に入れ、ロックが反逆のエネルギーを放ち、  
-テクノやヒップホップが都市の空気を刻むたび、ベースは“新しい身体性”を提示してきた。
-
----
-
-## II. 世界の地殻変動：低音が動かした20世紀音楽史
-
-### 1. ジャズの反骨から始まる
-
-チャールズ・ミンガスの演奏を聴くと、  
-それは単なるベース・ラインではなく、社会への声明に聞こえる。  
-怒りと知性、即興と構築。その低音には詩が宿る。  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Desde el siglo XX, los cambios en la música siempre han acompañado a las innovaciones en el bajo.
+El jazz te da la libertad de improvisar, el rock desprende una energía rebelde,
+Cada vez que el techno o el hip-hop grababan la atmósfera urbana, el bajo presentaba una "nueva fisicalidad".
 
 ---
 
-レイ・ブラウンやロン・カーターのようなプレイヤーたちは、  
-「歩くベースライン」に哲学を持ち込んだ。  
-音の“間”で語るリズム──それがジャズを芸術に押し上げた。
+##II. Cambios cruciales en el mundo: Historia de la música del siglo XX impulsada por sonidos de bajo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### 1. Empezando por la rebelión del jazz
 
----
+Escuchando a Charles Mingus tocar
+Suena más que una simple línea de bajo, suena como una declaración a la sociedad.
+Ira e inteligencia, improvisación y construcción. Hay poesía en ese tono de bajo.
 
-日本でも戦後のジャズ喫茶を支えた鈴木良雄や稲葉国光が、  
-この「低音の自由」を自国の感性で咀嚼し、  
-やがて東京の夜に独自のグルーヴを生み出していった。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 2. ロック革命：歌うベースと叫ぶベース
+Jugadores como Ray Brown y Ron Carter
+Llevó la filosofía a la "línea de base para caminar".
+El ritmo que habla entre sonidos: esto es lo que ha elevado el jazz a la categoría de arte.
 
-1960年代、ロックの中心にベースが現れる。  
-ポール・マッカートニーは旋律を奏でるベーシストとして革命を起こし、  
-ジョン・エントウィッスル（The Who）は轟音の中で構築美を追求した。  
-
-ジャック・ブルース（Cream）やジョン・ポール・ジョーンズ（Led Zeppelin）は、  
-ブルースの血を引きながらも、アンサンブルを建築的に組み立てた。  
-その後のロックは、低音の“歌心”を欠かさなくなった。  
-
-パンクの登場は、ベースの荒々しさを解放した。  
-シド・ヴィシャス（Sex Pistols）は技巧を拒否し、存在そのもので反逆を鳴らした。  
-そしてJoy Divisionのピーター・フックが奏でた悲しみの旋律は、  
-ベースが“感情の主語”となり得ることを証明した。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 3. ファンクと実験：低音が前に出る時代
-
-ラリー・グラハムのスラップ奏法が誕生した瞬間、  
-ベースはリズムそのものになった。  
-ブーツィー・コリンズが放つ宇宙的ファンク、  
-ジャコ・パストリアスが描いたフレットレスの詩。  
-
-ベースはもはや“伴奏”ではなく、“語り部”へと進化する。  
-ミック・カーンやトニー・レヴィンは、音そのものを彫刻するように扱い、  
-ベースを抽象芸術の域に押し上げた。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Yoshio Suzuki y Kunimitsu Inaba, que apoyaron los cafés de jazz de la posguerra en Japón,
+Disfrutando de esta "libertad de sonidos de bajo" con la sensibilidad de tu propio país,
+En poco tiempo, estaban creando su propio ritmo único en las noches de Tokio.
 
 ---
 
-## III. 日本の低音地図：地上と地下を行き来するベーシストたち
+### 2. Revolución del rock: bajo cantando y bajo gritando
 
-### 1. 細野晴臣と日本語リズムの翻訳者たち
+En la década de 1960, el bajo apareció en el centro del rock.
+Paul McCartney inició una revolución como bajista melodioso,
+John Entwistle (The Who) buscó la belleza arquitectónica en medio del rugido.
 
-YMO以前、細野晴臣はすでに日本語ポップスの「重心」を変えていた。  
-英語のノリではなく、言葉のリズムに寄り添う低音。  
-彼が打ち立てたのは“日本語でグルーヴする”という美学だった。  
+Jack Bruce (Cream) y John Paul Jones (Led Zeppelin)
+Aunque tiene raíces en el blues, construyó el conjunto arquitectónicamente.
+Después de eso, a la música rock ya no le faltaba el "espíritu de canto" del bajo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+La llegada del punk desató la dureza del bajo.
+Sid Vicious (Sex Pistols) rechazaba el artificio y sonaba a rebelión con su propia existencia.
+Y la triste melodía interpretada por Peter Hook de Joy Division,
+Se ha demostrado que el bajo puede ser "el tema de la emoción".
 
----
-
-山下達郎バンドの伊藤広規、職人の後藤次利、岡沢章──  
-彼らは歌謡曲とAORの狭間で、世界に通じるサウンドを築いた。  
-ベースは裏方ではなく、音楽の「品格」を支える要素となった。
-
----
-
-### 2. アンダーグラウンドの胎動：ノイズ、ポストロック、クラブ文化
-
-90年代以降、日本のアンダーグラウンドは低音で繋がりはじめる。  
-NUMBER GIRLの中尾憲太郎は、歪みと怒りのグルーヴを叩きつけ、  
-ZAZEN BOYSの吉田一郎は、変拍子を“構築する知性”へと昇華させた。  
-
-ROVOや渋さ知らズのベーシストたちは、  
-ジャズとロック、即興と構築を自在に往来し、  
-クラブカルチャーと生演奏の境界を曖昧にした。  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-downyやtoeの繊細な低音は、都市の夜を描く詩のようだ。  
-そこには、叫びではなく“呼吸する静けさ”がある。
+### 3. Funk y experimentación: una era donde el bajo pasó a primer plano
+
+El momento en que nació el estilo de juego slap de Larry Graham,
+El bajo se convirtió en el ritmo mismo.
+El funk cósmico de Bootsy Collins,
+Un poema sin trastes de Jaco Pastorius.
+
+El bajo ya no es un "acompañamiento", sino que se ha convertido en un "narrador".
+Mick Carn y Tony Levin tratan el sonido en sí como si fuera una escultura,
+Empujó el bajo al ámbito del arte abstracto.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 3. クラブカルチャー以降の低音哲学
+##III. Mapa de bajos de Japón: bajistas que se mueven entre la superficie y el underground
 
-2000年代、ベースは再び姿を変える。  
-大沢伸一がクラブ・トラックに“人間的低音”を持ち込み、  
-STUTSやyahyelが打ち込みと生演奏を融合させた。  
+### 1. Haruomi Hosono y traductores de ritmo japonés
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Antes de YMO, Haruomi Hosono ya había cambiado el "centro de gravedad" de la música pop japonesa.
+Un tono bajo que sigue el ritmo de las palabras más que el ritmo del inglés.
+Lo que estableció fue la estética del "grooving en japonés".
 
----
-
-King Gnuやmillennium paradeのような現行バンドでは、  
-ベースが楽曲の「物語性」を制御している。  
-ハマ・オカモトは伝統と現代性の結節点として、  
-プレイヤビリティの先に“音楽的礼節”を提示している。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## IV. 世界の地下：低音で繋がるカウンターカルチャー
-
-Joy Divisionのピーター・フック、PILのJah Wobble、  
-そしてTalking Headsのティナ・ウェイマス。  
-彼らが示したのは、ベースが「知的反逆」の象徴であるということだった。  
-
-ブリストルではMassive AttackやPortisheadがトリップホップを築き、  
-ロンドンではBurialやKode9が“無意識の都市音”としてのベースを再定義した。  
-ベルリンではMoritz von OswaldやElectric Indigoが、  
-テクノの低音を「建築的芸術」にまで高めた。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Hironori Ito de Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
+Han creado un sonido que conecta el mundo entre las canciones populares y el AOR.
+El bajo ya no desempeñaba un papel entre bastidores, sino que se convertía en un elemento que sustentaba la "dignidad" de la música.
 
 ---
 
-ベースはもはや楽器を超え、  
-“文化の共通言語”になっている。
+### 2. Movimiento underground: ruido, post-rock, cultura de club
+
+Después de la década de 1990, el underground japonés comenzó a conectarse con los sonidos del bajo.
+Kentaro Nakao de NUMBER GIRL toca un ritmo de distorsión e ira,
+Ichiro Yoshida de ZAZEN BOYS ha elevado los compases extraños al nivel de "construir inteligencia".
+
+Los bajistas de ROVO y Shibusa Shirazu,
+Moviéndose libremente entre el jazz y el rock, la improvisación y la construcción,
+Desdibujó la línea entre la cultura de club y la música en vivo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## V. 機材と美学：楽器が語るもうひとつの歴史
-
-フェンダー・プレシジョン、ジャズベース、リッケンバッカー。  
-それぞれの形は、音楽思想そのものの違いを示す。  
-
-シンセベースの進化もまた、低音の民主化を進めた。  
-Moog、Roland、Novation──機械が感情を持つようになり、  
-ベースラインは「プログラム」から「人格」へと変わっていった。
-
-ジャコ以降、フレットレスは沈黙の詩人のような存在になり、  
-空間そのものを鳴らす“音の彫刻”として受け継がれている。
+Los delicados sonidos graves de downy y toe suenan como un poema que describe una noche en la ciudad.
+No hay un grito, sino una "quietud respiratoria".
 
 ---
 
-## VI. 結章：低音は「社会の潜在意識」である
+### 3. Filosofía del bajo después de la cultura de club
 
-ベースは音楽の中心ではない。  
-だが、すべての音が立つための“地盤”であり続ける。  
+En la década de 2000, el bajo volvió a cambiar de apariencia.
+Shinichi Osawa lleva el “bajo humano” a las pistas de club,
+STUTS y yahyel combinaron mecanografía y música en vivo.
 
-低音は言葉にできない感情を翻訳し、  
-社会の無意識をゆっくりと揺さぶる。  
-
-世界と日本、地上と地下を貫くその線の上に、  
-私たちは今日も立っている。  
-
-耳ではなく、心臓で聴け。  
-低音の惑星は、まだ鳴り止まない。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 参考ディスコグラフィー：低音で巡る世界と日本
+Bandas actuales como King Gnu y Millennium Parade,
+El bajo controla la "narrativa" de la canción.
+Hama Okamoto es un nexo entre tradición y modernidad.
+Ofrece "civismo musical" más allá de la jugabilidad.
+
+---
+
+##IV. Underground del mundo: Contracultura conectada por sonidos de bajo
+
+Peter Hook de Joy Division, Jah Wobble de PIL,
+y Tina Weymouth de Talking Heads.
+Lo que demostraron fue que el bajo era un símbolo de "rebelión intelectual".
+
+En Bristol, Massive Attack y Portishead establecieron el trip-hop,
+En Londres, Burial y Kode9 redefinieron el bajo como un "sonido urbano inconsciente".
+En Berlín, Moritz von Oswald y Electric Indigo,
+Elevó el sonido bajo del techno al nivel de "arte arquitectónico".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+El bajo ya no es un instrumento musical,
+Se ha convertido en un “lenguaje cultural común”.
+
+---
+
+## V. Equipamiento y Estética: Otra Historia de los Instrumentos
+
+Fender Precision, Jazz Bass, Rickenbacker.
+Cada forma indica una diferencia en el pensamiento musical mismo.
+
+La evolución de los bajos sintetizados también democratizó los sonidos de bajo.
+Moog, Roland, Novation... las máquinas tienen sentimientos,
+La línea de base cambió de "programa" a "personalidad".
+
+Después de Jaco, Fretless se convirtió en algo así como un poeta silencioso.
+Se ha transmitido como una "escultura sonora" que hace resonar el espacio mismo.
+
+---
+
+##VI. Conclusión: el bajo es el “subconsciente de la sociedad”
+
+El bajo no es el centro de la música.
+Sin embargo, sigue siendo el "terreno" sobre el que se asientan todos los sonidos.
+
+El bajo traduce sentimientos que no se pueden expresar con palabras,
+Sacudiendo lentamente el inconsciente de la sociedad.
+
+En esa línea que pasa por el mundo y Japón, sobre la tierra y bajo tierra,
+Todavía estamos en pie hoy.
+
+Escuche con el corazón, no con los oídos.
+El planeta del bass aún no ha dejado de sonar.
+
+---
+
+## Discografía de referencia: El mundo y Japón giraban en torno a los sonidos del bajo.
 
 | アーティスト | 作品 | 年 | 備考 | リンク |
 |:--|:--|:--:|:--|:--|
@@ -229,84 +231,84 @@ Moog、Roland、Novation──機械が感情を持つようになり、
 
 ---
 
-### 年表と図解：低音の進化（1950–2025）
+### Cronología e ilustraciones: Evolución del bajo (1950-2025)
 
 <div class="mermaid">
 
-timeline
-  title ベース進化史（1950–2025）
-  1950 : ジャズの歩くベース（Ray Brown, Mingus）
-  1960 : ロックベースの台頭（McCartney, Entwistle）
-  1970 : ファンク／フュージョン（Larry Graham, Jaco）
-  1980 : シンセベースとシティポップ（細野晴臣, 櫻井哲夫）
-  1990 : ポストロックとブリストル（Massive Attack, Peter Hook）
-  2000 : クラブミュージックの低音再定義（Daft Punk, Squarepusher）
-  2010 : ポストジャズ／Thundercat
-  2020 : ハイブリッド低音時代（AI, グローバル・ベース文化）
+línea de tiempo
+título Historia de la evolución de la base (1950-2025)
+1950: Bajo andante de jazz (Ray Brown, Mingus)
+1960: Auge del bajo rockero (McCartney, Entwistle)
+1970: Funk/Fusión (Larry Graham, Jaco)
+1980: Bajo sintético y pop urbano (Haruomi Hosono, Tetsuo Sakurai)
+1990: Post-rock y Bristol (Massive Attack, Peter Hook)
+2000: Redefiniendo el bajo de la música de club (Daft Punk, Squarepusher)
+2010: Post-Jazz/Thundercat
+2020: era del bajo híbrido (IA, cultura global del bajo)
 
 
 </div>
 
 ---
 
-### ベース構造・役割図解
+### Estructura base/Ilustración de roles
 
 <div class="mermaid">
 
-flowchart LR
-%% Center: Bass
-Bass["BASS\n(低音)\n— 重心・グルーヴ・ハーモニーの要"]
+diagrama de flujo LR
+%% Centro: Bajo
+Bajo["BASS\n(bajo)\n— centro de gravedad, ritmo y armonía"]
 
 
-%% Primary roles
-Rhythm["リズムの基盤\n(タイムキーピング)"]
-Harmony["和音の基礎\n(ルート／進行)"]
-Groove["グルーヴの創出\n(フィール／ニュアンス)"]
-Texture["音色・テクスチャ\n(トーン／エフェクト)"]
-Lead["メロディ／ソロ\n(前面への出番)"]
-Design["サウンドデザイン\n(シンセベース／プログラミング)"]
+%%Funciones principales
+Ritmo["Fundamentos del ritmo\n(cronometraje)"]
+Armonía["Conceptos básicos de acordes\n(raíz/progresión)"]
+Groove["Creando un ritmo\n(sensación/matiz)"]
+Textura["Tono/Textura\n(Tono/Efecto)"]
+Plomo["Melodía/Solo"]
+Diseño["Diseño de sonido\n(bajo sintetizado/programación)"]
 
 
-%% Techniques / Instruments
-Upright["Upright / アップライト\n(ウォーキング／ジャズ)"]
-P_Bass["Fender P-Bass\n(ロック／ポップの定番)"]
-J_Bass["Fender J-Bass\n(多目的) "]
-Fretless["Fretless\n(滑らかな音色／歌わせる) "]
-Synth["シンセベース\n(低音設計／サブベース) "]
-Slap["スラップ／タッピング\n(ファンク／アグレッシブ) "]
-Effects["エフェクト: コンプレッサー\nオーバードライブ・コーラス等"]
+%% Técnicas / Instrumentos
+Vertical["Vertical / Vertical\n(Caminar/Jazz)"]
+P_Bass["Fender P-Bass\n(clásico rock/pop)"]
+J_Bass["Fender J-Bass\n(Multipropósito) "]
+Fretless["Fretless\n(Tono suave/Hacerte cantar) "]
+Sintetizador["Bajo sintetizador\n(Diseño de bajo/subbajo) "]
+Bofetada["Bofetada/Tapping\n(Funk/Agresivo) "]
+Efectos["Efectos: Compresor\nOverdrive, coro, etc."]
 
 
-%% Connections
-Bass --> Rhythm
-Bass --> Harmony
-Bass --> Groove
-Bass --> Texture
-Bass --> Lead
-Bass --> Design
+%% Conexiones
+Bajo --> Ritmo
+Bajo --> Armonía
+Bajo --> ritmo
+Bajo --> Textura
+Bajo --> Solista
+Bajo --> Diseño
 
 
-Groove --> Slap
-Texture --> Effects
-Design --> Synth
-Rhythm --> Upright
-Harmony --> P_Bass
-Harmony --> J_Bass
-Lead --> Fretless
+Groove --> Bofetada
+Textura --> Efectos
+Diseño --> Sintetizador
+Ritmo --> Vertical
+Armonía --> P_Bass
+Armonía --> J_Bass
+Plomo --> Sin trastes
 
 
-%% Context labels
-Scene1["シーン別: Jazz / Rock / Funk / Club / Postrock"]
-Bass --> Scene1
+%%Etiquetas de contexto
+Escena1["Escena: Jazz / Rock / Funk / Club / Postrock"]
+Bajo --> Escena 1
 
 
-style Bass fill:#222,stroke:#fff,color:#fff,stroke-width:2px
-style Rhythm fill:#fff,stroke:#333
-style Harmony fill:#fff,stroke:#333
-style Groove fill:#fff,stroke:#333
-style Texture fill:#fff,stroke:#333
-style Lead fill:#fff,stroke:#333
-style Design fill:#fff,stroke:#333
+estilo Relleno de bajo: #222, trazo: #fff, color: #fff, ancho de trazo: 2px
+estilo Relleno de ritmo:#fff,trazo:#333
+estilo Relleno de armonía:#fff, trazo:#333
+estilo Relleno de ranura:#fff,trazo:#333
+estilo Relleno de textura:#fff,trazo:#333
+estilo Relleno de plomo:#fff,trazo:#333
+estilo Relleno de diseño:#fff,trazo:#333
 
 </div>
 

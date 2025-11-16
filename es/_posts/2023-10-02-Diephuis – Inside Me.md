@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Diephuis – Inside Me.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Diephuis – Inside Me/
 tags:
 - House
 - African
 - Deep House
-title: Diephuis – Inside Me
+title: Diephuis – Dentro de mí
 ---
 
 
-Diephuis（Barend-Jan Beljaars）は、90年代から活躍するオランダのロッテルダム出身のDJ/プロデューサー。ディスコ、テクノ、ソウル、アフロ、ファンク、ジャズの影響を受けた、ディープ＆ソウルフルなハウスミュージックを得意としています。
+Diephuis (Barend-Jan Beljaars) es un DJ/productor de Rotterdam, Países Bajos, que ha estado activo desde los años 90. Nos especializamos en música house profunda y conmovedora influenciada por disco, techno, soul, afro, funk y jazz.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Inside Me
 
 B. Inside Me (Instrumental Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20722659267?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20722659267?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSCxM_RBEqg?si=TOGDZP51EPSbuNrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSCxM_RBEqg?si=TOGDZP51EPSbuNrw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

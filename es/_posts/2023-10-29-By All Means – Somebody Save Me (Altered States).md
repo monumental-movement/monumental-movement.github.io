@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/By All Means – Somebody Save Me (Altered States).webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-By All Means – Somebody Save Me (Altered States)/
 tags:
 - House
 - Acid
 - Garage
-title: By All Means – Somebody Save Me (Altered States)
+title: Por todos los medios – Alguien sálvame (Estados alterados)
 ---
 
 
-「By All Means - Somebody Save Me (Altered States)」は、
-シカゴ出身のプロデューサー・DJ、Marshall Jeffersonによるアシッドリミックス。
+"Por todos los medios: que alguien me salve (estados alterados)"
+Remezcla ácida de Marshall Jefferson, productor y DJ de Chicago.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Somebody Save Me (Altered States)
 
@@ -25,7 +26,7 @@ B1. Somebody Save Me (Liquid Sky)
 B2. Somebody Save Me (Album Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41822459521?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41822459521?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/heIs8urCkxg?si=lSGSMzooC13Hdiqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heIs8urCkxg?si=lSGSMzooC13Hdiqp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

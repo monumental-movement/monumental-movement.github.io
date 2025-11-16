@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/YMO – Rydeen.webp
 lang: es
 layout: post
+permalink: /es/2024-04-21-YMO – Rydeen/
 tags:
 - JPop
 - Techno
@@ -13,11 +14,11 @@ title: YMO – Rydeen
 ---
 
 
-Yellow Magic Orchestra（YMO）が1980年にレーベルAlfaからリリースした7インチ。
+Un álbum de 7 pulgadas lanzado por Yellow Magic Orchestra (YMO) en el sello Alfa en 1980.
 
-ジャケットデザインは、デヴィッド・ボウイ、ポリス、B-52's などのアーティストや音楽グループのアルバムカバーデザインで有名なMick Haggerty（ミック・ハガティー）。
+El diseño de la chaqueta fue de Mick Haggerty, famoso por diseñar portadas de álbumes para artistas y grupos musicales como David Bowie, The Police y los B-52.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A.  Rydeen（ライディーン）
 Arranged By – イエロー・マジック・オーケストラ
@@ -29,9 +30,9 @@ Composed By – 細野晴臣
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yxep-gS-Btg?si=IsQ2aHISgk6BNlze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yxep-gS-Btg?si=IsQ2aHISgk6BNlze" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=L_YmrM79GLCExuEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=L_YmrM79GLCExuEv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

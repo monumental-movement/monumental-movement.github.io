@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Flyboys – Flyboys.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Flyboys – Flyboys/
 tags:
 - Punk
 - Rock
@@ -12,11 +13,11 @@ title: Flyboys – Flyboys
 ---
 
 
-Flyboys（フライボーイズ）は、1975年から1980年まで活動したUSパンクロックバンド。
+Flyboys fue una banda estadounidense de punk rock que estuvo activa desde 1975 hasta 1980.
 
-1975年結成当時のメンバーはJohn Curry/ジョン・カリー (別名Jon Boy/ジョン・ボーイ)、David Wilson/デヴィッド・ウィルソン (別名David Way/デヴィッド・ウェイ)、Dennis Walsh/デニス・ウォルシュ (別名Dennis Rackett / デニス・ラケット)。
+Formada en 1975, los miembros eran John Curry (también conocido como Jon Boy), David Wilson (también conocido como David Way) y Dennis Walsh (también conocido como Dennis Rackett).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Picture Perfect
 
@@ -33,7 +34,7 @@ B3. Different Kind Of Guy
 B4. Theme Song
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86414218570?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86414218570?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRhAmC8dzFE?si=UgNcpjsilSVGwjgi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iRhAmC8dzFE?si=UgNcpjsilSVGwjgi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

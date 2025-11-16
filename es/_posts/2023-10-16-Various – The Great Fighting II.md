@@ -5,15 +5,16 @@ categories:
 image: ../assets/images/Various – The Great Fighting II.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-Various – The Great Fighting II/
 tags:
 - Ambient
-title: Various – The Great Fighting II
+title: Varios – Los grandes combates II
 ---
 
 
-「V/A - 必殺のプロレス・テーマ集 - Various – The Great Fighting II」は、1978年にOverseas Recordsからリリースされました。
+“V/A - Varios – The Great Fighting II” fue lanzado por Overseas Records en 1978.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. T. Mayujumi –スポーツ行進曲 ～ ビート・ジョンズ・オーケストラ = NTV Sports March
 
@@ -37,5 +38,5 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
 

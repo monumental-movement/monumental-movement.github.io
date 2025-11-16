@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Sexual Harrassment – I Need A Freak.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Sexual Harrassment – I Need A Freak/
 tags:
 - Electro
 - Anthem
-title: Sexual Harrassment – I Need A Freak
+title: 'Acoso sexual: necesito un fenómeno'
 ---
 
 
-Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン・トリバー・ジュニア　別名：David Payto/デヴィッド・ペイトン）を中心とした米国発のプロジェクト。
+Sexual Harrassment es un proyecto estadounidense centrado en el DJ y productor Lynn Tolliver, Jr. (también conocido como David Payto).
 
-「I Need A Freak」のオリジナル盤は1989年リリース。このレコードは2004年リリースのReissue盤。
+La versión original de "I Need A Freak" se lanzó en 1989. Este disco es una edición reeditada lanzada en 2004.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. I Need A Freak (Long Version)
 
@@ -25,7 +26,7 @@ B1. I Need A Freak (Short Version)
 B2. I Need A Freak (Instrumental Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91285110747?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91285110747?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xnNNY2TD8s8?si=xZ0-FH8b4bHqvvgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xnNNY2TD8s8?si=xZ0-FH8b4bHqvvgZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

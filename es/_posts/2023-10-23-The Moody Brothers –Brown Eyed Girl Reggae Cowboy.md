@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/The Moody Brothers –Brown Eyed Girl Reggae Cowboy.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-The Moody Brothers –Brown Eyed Girl Reggae Cowboy/
 tags:
 - Country
 - Folk
 - 7inch
-title: The Moody Brothers –Brown Eyed Girl Reggae Cowboy
+title: The Moody Brothers –Vaquero reggae de la chica de ojos marrones
 ---
 
 
-The Moody Brothers(ムーディー ブラザーズ)は、1980年代から1990年代にかけて活躍したアメリカーナ カントリー ミュージックトリオ。メンバーは、Carlton Moody(カールトン・ムーディ)、Dave Moody(デイブ・ムーディ)、Trent Moody(トレント・ムーディ)の３兄弟。
+Los Moody Brothers fueron un trío de música country americana activo en las décadas de 1980 y 1990. Los miembros son Carlton Moody, Dave Moody y Trent Moody.
 
-A面の作詞はVan Morrison(ヴァン・モリソン)、B面の作詞はBellamy Brothers(ベラミー・ブラザーズ)のDavid Bellamy(デヴィット ベラミー)。
+La letra de la cara A fue escrita por Van Morrison y la letra de la cara B fue escrita por David Bellamy de los Bellamy Brothers.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Brown Eyed Girl
 
 B. Reggae Cowboy
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8-wQV5AUFFg?si=eBdayJ5RvoXEo1j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8-wQV5AUFFg?si=eBdayJ5RvoXEo1j8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Spiral Life – Flourish.webp
 lang: es
 layout: post
+permalink: /es/2024-12-16-Spiral Life – Flourish/
 tags:
 - JPop
 - Pops
 - Alternative Rock
 - 90s
-title: Spiral Life – Flourish
+title: Vida Espiral – Florecer
 ---
 
 
-1995年にリリースされた「Flourish」は、Spiral Life(スパイラルライフ)の3枚目のスタジオアルバムであり、ラストアルバム。
+"Flourish", lanzado en 1995, es el tercer álbum de estudio y el último álbum de Spiral Life.
 
-Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショーキチによるユニット。3年間の活動で、3枚のオリジナルアルバムをリリースし、「Flourish」は一番のヒット作となった。
+Spiral Life es una unidad compuesta por Koji Kurumatani y Shokichi Ishida que estuvieron activos de 1993 a 1996. Durante sus tres años de actividades, lanzaron tres álbumes originales, siendo "Flourish" su mayor éxito.
 
-収録曲「GARDEN」は、「浅草橋ヤング洋品店」オープニングテーマに使用された。
+La canción "GARDEN" se utilizó como tema de apertura de "Asakusabashi Young Clothing Store".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Garden
 2. Flower Child (0113)
@@ -35,7 +36,7 @@ Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショ�
 11. Nero
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bezCXU9hdCs?si=wHzi-g6loe7up-uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bezCXU9hdCs?si=wHzi-g6loe7up-uW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

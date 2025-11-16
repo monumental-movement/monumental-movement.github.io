@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/quarks-allein.webp
 lang: es
 layout: post
+permalink: /es/2023-09-08-Quarks – Allein/
 tags:
 - Electro
 - Tech House
@@ -13,15 +14,15 @@ title: Quarks – Allein
 ---
 
 
-ドイツ・ベルリン出身のエレクトロポップデュオ「Quarks」は1995年に結成され、メンバーはグドルン・グート（Gudrun Gut）とトーマス・フェールマン（Thomas Fehlmann）。彼らは1990年代後半から2000年代初頭にかけて、ドイツのエレクトロニックミュージックシーンで人気を博しました。
+Quarks, un dúo electro-pop de Berlín, Alemania, se formó en 1995 y está formado por Gudrun Gut y Thomas Fehlmann. Se hicieron populares en la escena de la música electrónica alemana a finales de los 90 y principios de los 2000.
 
-Quarksの音楽は、エレクトロニックポップ、シンセポップ、実験的なサウンドの要素を組み合わせています。
+La música de Quarks combina elementos de pop electrónico, pop sintético y sonidos experimentales.
 
-彼らの曲は、キャッチーなメロディ、エレクトロニックなビート、そしてグドルン・グートの特徴的なボーカルを特徴としていました。
+Sus canciones presentaban melodías pegadizas, ritmos electrónicos y la voz distintiva de Gudrun Gut.
 
-2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
+Incluso después de su disolución en 2004, siguieron siendo una gran influencia en la escena electropop alemana y su música sigue siendo amada por los fans de la música electrónica y pop.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Allein (Augen Zu Und Durch)
 
@@ -37,7 +38,7 @@ Vocals [Additional Vox] – Darkfarmer
 B2. Allein (Original)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

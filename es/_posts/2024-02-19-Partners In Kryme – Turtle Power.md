@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Partners In Kryme – Turtle Power.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Partners In Kryme – Turtle Power/
 tags:
 - Hiphop
 - Rap
 - 90s
-title: Partners In Kryme – Turtle Power
+title: Socios en Kryme - Turtle Power
 ---
 
 
-Partners in Kryme (Partnerz in Kryme) は、ニューヨーク出身のJames Alpern（ジェームス・アルパーン）とRichard Usher（リチャード・アッシャー）によるヒップホップデュオ。
+Partners in Kryme (Partnerz in Kryme) es un dúo de hip-hop de Nueva York formado por James Alpern y Richard Usher.
 
-「Turtle Power（タートルパワー!）」は、1990年の映画『ティーンエイジ・ミュータント・ニンジャタートルズ』のために作られ、世界的なヒットとなり、全米13位、イギリスでは4週間1位と記録的なヒットとなりました。
+"¡Poder de tortuga!" fue creado para la película Teenage Mutant Ninja Turtles de 1990 y se convirtió en un éxito mundial, alcanzando el puesto 13 en los EE. UU. y el número uno en el Reino Unido durante cuatro semanas, lo que lo convirtió en un éxito récord.
 
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Turtle Power (Single Edit)
 
@@ -28,7 +29,7 @@ A2. Turtle Power (Album Version)
 B. Splinter's Tale I & Splinter's Tale II
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t4j9o6324bo?si=_6hQ0afxz9GEW2MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t4j9o6324bo?si=_6hQ0afxz9GEW2MS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

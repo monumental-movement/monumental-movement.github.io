@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Various – The Enjoy! Story.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-Various – The Enjoy Story/
 tags:
 - Hiphop
 - Classic
-title: Various – The Enjoy! Story
+title: Varios – ¡Disfruta! Historia
 ---
 
 
-「Various – The Enjoy! Story」は、ラップの最高傑作 Zulu Nation誕生期のヒッツとして、コンパイルされたアルバムです。
+“Various – The Enjoy! Story” es un álbum recopilatorio de éxitos del nacimiento de Zulu Nation, una obra maestra del rap.
 
-トラック A2 の表記誤り: アーティストが本来の「Grandmaster Flash & The Furious Five」ではなく「Grandmaster Flash」と誤記されています。
+Error tipográfico en la pista A2: el artista está mal escrito como "Grandmaster Flash" en lugar del original "Grandmaster Flash & The Furious Five".
 
-トラック B4 の作詞作曲者誤り: クレジットが本来の「Doug E. Fresh」ではなく「Treacherous Three」と誤記されています。
+Error del compositor en la pista B4: el crédito está escrito incorrectamente como "Treacherous Three" en lugar de "Doug E. Fresh".
 
-トラック B5 のアーティスト表記誤り: アーティストが本来の「Treacherous Three featuring Spoonie Gee」ではなく「Treacherous Three」と誤記されています。
+Error de artista en la pista B5: el artista aparece incorrectamente como "Treacherous Three" en lugar del original "Treacherous Three con Spoonie Gee".
 
-トラック B6 のアーティスト表記誤り: アーティストが本来の「Funky 4 + 1」ではなく「Funky Four & One」とレーベル表記されています。
+Descripción incorrecta del artista para la pista B6: el artista está etiquetado como "Funky Four & One" en lugar del "Funky 4 + 1" original.
 
-また、ボーナス・トラックとして以下の曲が収録されていますが、CDには含まれていません。
+Las siguientes canciones también se incluyen como pistas extra, pero no están incluidas en el CD.
 
-トラック B5 から B6　
-トラック D6 から D9
+Pistas B5 a B6
+Pistas D6 a D9
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -65,9 +66,9 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnZktDkYiY?si=tLLkEdeOGDfKJbAr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/DJ Rush – Lets Change.webp
 lang: es
 layout: post
+permalink: /es/2025-06-01-DJ Rush – Lets Change/
 tags:
 - Electronic
 - Techno
 - 00s
-title: DJ Rush – Let's Change
+title: DJ Rush – Cambiemos
 ---
 
 
-DJ RushことIsaiah Majorは、シカゴ出身でドイツを拠点に活動するテクノ＆ハウスDJ・プロデューサー。Major Rush、Russian Roulette名義でも活動している。
+Isaiah Major, también conocido como DJ Rush, es un DJ y productor de techno y house de Chicago y radicado en Alemania. También trabaja bajo los nombres de Major Rush y Russian Roulette.
 
-「Let's Change」は、Spiral Tribeの元メンバーCharlie Hall(チャーリーホール)のレーベルPro-Jexから2003年にリリースされたテクノトラック。
+"Let's Change" es una pista de techno lanzada en 2003 por el sello Pro-Jex del ex miembro de Spiral Tribe, Charlie Hall.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Let's Change
 
 (※シングルサイド)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28195059530?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28195059530?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VVXrCWjSoh4?si=Dp44ISuF3EPlDGiL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VVXrCWjSoh4?si=Dp44ISuF3EPlDGiL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

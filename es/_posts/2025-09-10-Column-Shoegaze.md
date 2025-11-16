@@ -5,50 +5,52 @@ categories:
 image: ../assets/images/column-shoegaze.webp
 lang: es
 layout: post
+permalink: /es/2025-09-10-Column-Shoegaze/
 tags:
 - Shoegaze
-title: 【コラム】 Shoegazeの発祥から現在まで — 名盤・機材・おすすめ10選
+title: '[Columna] Desde los orígenes de Shoegaze hasta el presente: 10 obras maestras,
+  equipos y recomendaciones'
 ---
 
 
 
-## Shoegaze（シューゲイザー）― 時代背景・名盤・機材の変遷とおすすめトラック10選 ―
+## Shoegaze: antecedentes históricos, récords famosos, cambios de equipo y 10 pistas recomendadas -
 
 
-文：mmr｜テーマ：Shoegazeの発祥から現在まで
+Texto: mmr｜Tema: Desde los orígenes de Shoegaze hasta la actualidad
 
-Shoegaze（シューゲイザー）は、1980年代後半からイギリスを中心に発展した音楽ジャンルで、轟音のギター、エフェクトの深いリバーブやディレイ、そして内省的なボーカルスタイルを特徴としています。その名は「靴（shoe）を見つめる（gaze）」という言葉から生まれ、エフェクター操作に集中して下を向いて演奏する姿が由来とされています。
+Shoegaze es un género musical que se desarrolló a finales de la década de 1980, principalmente en el Reino Unido, y se caracteriza por guitarras atronadoras, efectos profundos de reverberación y retardo y un estilo vocal introspectivo. El nombre proviene de la palabra "mirada", que significa mirar los zapatos, y se dice que proviene de la forma en que el jugador juega con la cabeza gacha mientras se concentra en operar los efectos.
 
-以下では、Shoegazeの歴史を年代ごとに振り返り、代表的な名盤・使用機材の変遷とともに紹介します。
+A continuación, repasaremos la historia de Shoegaze por década e introduciremos los cambios en las obras maestras representativas y el equipo utilizado.
 
 ---
 
-## 1980s — 発祥期  
-### 時代背景  
-- ポストパンクやニューウェーブの流れを受けつつ、ギターノイズとポップメロディを融合する新しいアプローチが模索されていた。  
-- Creation Recordsなどインディーレーベルがシーンを牽引。  
+## Década de 1980 — Origen
+### Antecedentes históricos
+- Siguiendo las tendencias del post-punk y new wave, se buscaba un nuevo enfoque para fusionar el ruido de guitarra y las melodías pop.
+- Los sellos independientes como Creation Records están liderando la escena.
 
-### 代表的な名盤  
-- [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
-- [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
-- [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
+### Obra maestra representativa
+- [Mi San Valentín Sangriento – *No es nada* (1988)](https://amzn.to/4njxSGF)
+- [Gemelos Cocteau – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
+- [La cadena de Jesús y María – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
 
-### 使用機材  
-- **ギター**: Fender Jazzmaster, Jaguar  
-- **エフェクター**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man  
-- **アンプ**: Vox AC30, Fender Twin Reverb  
+### Equipo utilizado
+- **Guitarra**: Fender Jazzmaster, Jaguar
+- **Efector**: Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
+- **Amplificador**: Vox AC30, Fender Twin Reverb
 
-### おすすめ10曲（1980s）  
+### 10 canciones recomendadas (década de 1980)
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
@@ -69,23 +71,23 @@ color: #fff;
 
 ---
 
-## 1990s — 黄金期  
-### 時代背景  
-- My Bloody Valentineの *Loveless* (1991) がジャンルの頂点を築く。  
-- Ride, Slowdive, Lushなどが相次いで傑作を発表。  
-- ブリットポップの隆盛とともに一時衰退するも、後世の評価が高まる。  
+## Década de 1990: edad de oro
+### Antecedentes históricos
+- My Bloody Valentine's *Loveless* (1991) marca el pináculo del género.
+- Ride, Slowdive, Lush y otros lanzaron obras maestras una tras otra.
+- Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
-### 代表的な名盤  
-- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
-- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
-- [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
+### Obra maestra representativa
+- [Mi San Valentín Sangriento – *Sin amor* (1991)](https://amzn.to/3Kijvne)
+- [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
+- [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
 
-### 使用機材  
-- **ギター**: Fender Jazzmaster, Gibson Les Paul  
-- **エフェクター**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus  
-- **録音技術**: レイヤー多重録音による「音の壁」構築  
+### Equipo utilizado
+- **Guitarra**: Fender Jazzmaster, Gibson Les Paul
+- **Efector**: Digitech Whammy, Yamaha SPX90, Boss CE-2 Chorus
+- **Tecnología de grabación**: construcción de un "muro de sonido" mediante grabación múltiple en capas
 
-### おすすめ10曲（1990s）  
+### 10 canciones recomendadas (década de 1990)
 
 | 曲名 | アーティスト | コメント |
 |------|--------------|----------|
@@ -102,23 +104,23 @@ color: #fff;
 
 ---
 
-## 2000s — リバイバル期  
-### 時代背景  
-- MogwaiやSigur Rósなどポストロック勢との融合。  
-- アメリカを中心に新世代のShoegazeリバイバルが進行。  
-- ネット文化の広がりで、再評価が加速。  
+## Década de 2000: período de resurgimiento
+### Antecedentes históricos
+- Fusión con bandas de post-rock como Mogwai y Sigur Rós.
+- Una nueva generación de renacimiento del Shoegaze está progresando principalmente en Estados Unidos.
+- Con la difusión de la cultura de Internet, la reevaluación se está acelerando.
 
-### 代表的な名盤  
-- [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
-- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
-- [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
+### Obra maestra representativa
+- [M83 – *Ciudades muertas, mares rojos y fantasmas perdidos* (2003)](https://amzn.to/46Qy7D5)
+- [Cazador de ciervos – *Microcastillo* (2008)](https://amzn.to/4mu2OCC)
+- [Asobi Seksu – *Cítricos* (2006)](https://amzn.to/4nE4GtC)
 
-### 使用機材  
-- **デジタル・リバーブ／ディレイ**（Line6 DL4）  
-- **ソフトシンセとDAW**（Pro Tools, Logic）  
-- **ギター**: Fender Stratocaster, Telecasterも増加  
+### Equipo utilizado
+- **Reverberación/retardo digital** (Line6 DL4)
+- **Sintetizadores suaves y DAW** (Pro Tools, Logic)
+- **Guitarra**: Fender Stratocaster, Telecaster también aumentaron
 
-### おすすめ10曲（2000s）  
+### 10 canciones recomendadas (años 2000)
 
 | 曲名 | アーティスト | コメント |
 |------|--------------|----------|
@@ -135,23 +137,23 @@ color: #fff;
 
 ---
 
-## 2010s — ネオ・シューゲイズ  
-### 時代背景  
-- ネット世代が発掘し、新たに支持を獲得。  
-- DIIVやNothingなど、新世代バンドが台頭。  
-- DreampopやChillwaveとの融合。  
+## Década de 2010: Neo Shoegaze
+### Antecedentes históricos
+- Descubierto por la generación de Internet y obtuvo nuevo apoyo.
+- Están surgiendo bandas de nueva generación como DIIV y Nothing.
+- Fusión con Dreampop y Chillwave.
 
-### 代表的な名盤  
-- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
-- [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
-- [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
+### Obra maestra representativa
+- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
+- [Nada – *Culpable de todo* (2014)](https://amzn.to/42C57wq)
+- [Ringo Deathstarr – *Viaje de color* (2011)](https://amzn.to/3IynMCB)
 
-### 使用機材  
-- **エフェクターの多様化**（Strymon, EarthQuaker Devices）  
-- **DAWによるミックス精度の向上**  
-- **ヴィンテージ機材再評価**（Jazzmaster, Big Muff）  
+### Equipo utilizado
+- **Diversificación de efectores** (Strymon, EarthQuaker Devices)
+- **Mejora de la precisión de la mezcla con DAW**
+- **Reevaluación de equipos antiguos** (Jazzmaster, Big Muff)
 
-### おすすめ10曲（2010s）  
+### 10 canciones recomendadas (década de 2010)
 
 | 曲名 | アーティスト | コメント |
 |------|--------------|----------|
@@ -168,23 +170,23 @@ color: #fff;
 
 ---
 
-## 2020s — 現在  
-### 時代背景  
-- 世界的に再評価が加速。  
-- フェスや配信での拡散により、若い世代にも人気。  
-- シューゲイズ的手法はK-POPや日本のシティポップ再評価ともリンク。  
+## Década de 2020: ahora
+### Antecedentes históricos
+- La reevaluación se está acelerando en todo el mundo.
+- También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
+- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
 
-### 代表的な名盤  
-- [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
-- [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
-- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  
+### Obra maestra representativa
+- [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
+- [Inmersión lenta – *Todo está vivo* (2023)](https://amzn.to/46PP5l8)
+- [Tamaryn – *Soñando en la oscuridad* (2019)](https://amzn.to/46sFjp7)
 
-### 使用機材  
-- **ソフトウェア・エフェクト**（プラグイン化が進む）  
-- **宅録・配信環境**の普及  
-- **ヴィンテージ機材と最新技術のハイブリッド運用**  
+### Equipo utilizado
+- **Efectos de software** (cada vez más complementos)
+- Popularización del **entorno de grabación/distribución en el hogar**
+- **Operación híbrida de equipos antiguos y de última tecnología**
 
-### おすすめ10曲（2020s）  
+### 10 canciones recomendadas (década de 2020)
 
 | 曲名 | アーティスト | コメント |
 |------|--------------|----------|
@@ -201,5 +203,5 @@ color: #fff;
 
 ---
 
-# 轟音と美旋律の狭間で揺れる  
-Shoegazeは1980年代後半に芽吹き、1990年代に黄金期を迎え、一度は衰退しつつも2000年代以降リバイバル。2010年代〜現在に至るまで、その音楽性は多様化・細分化しながら世界中で愛され続けています。轟音と美旋律の狭間で揺れるこのジャンルは、現代のデジタル世代にも強い影響を与え続けています。
+# Balanceándose entre un sonido rugiente y una hermosa melodía
+Shoegaze surgió a finales de la década de 1980, alcanzó su edad de oro en la década de 1990 y, aunque alguna vez decayó, ha revivido desde la década de 2000. Desde la década de 2010 hasta la actualidad, su musicalidad ha seguido siendo amada en todo el mundo, incluso cuando se ha diversificado y subdividido. Este género, que oscila entre sonidos rugientes y hermosas melodías, sigue teniendo una fuerte influencia en la generación digital actual.

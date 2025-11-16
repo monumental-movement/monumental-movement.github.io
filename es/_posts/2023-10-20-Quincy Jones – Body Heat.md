@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Quincy Jones – Body Heat.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-Quincy Jones – Body Heat/
 tags:
 - Funk
 - Soul
-title: Quincy Jones – Body Heat
+title: Quincy Jones - Calor corporal
 ---
 
 
-ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
+Body Heat es un álbum lanzado por Quincy Jones en 1974.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Body Heat
 2. Soul Saga (Song Of The Buffalo Soldier)
@@ -27,7 +28,7 @@ title: Quincy Jones – Body Heat
 9. If I Ever Lose This Heaven
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45216980435?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45216980435?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dYuA_c_6if8?si=bLBw_uQ8k20ZPAWP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYuA_c_6if8?si=bLBw_uQ8k20ZPAWP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

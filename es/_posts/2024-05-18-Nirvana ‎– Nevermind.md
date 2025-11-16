@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Nirvana – Nevermind.webp
 lang: es
 layout: post
+permalink: /es/2024-05-18-Nirvana ‎– Nevermind/
 tags:
 - Rock
 - Grunge
 - Alternative Rock
 - 90s
-title: Nirvana – Nevermind
+title: Nirvana – No importa
 ---
 
-Nirvanaは、オルタナティブロック＆グランジの先駆者として知られているUSロックバンド。「Nevermind」はNirvana2枚目のアルバムで、ビルボード1位に輝く大ヒットとなった。このアルバムのヒットにより、アメリカでグランジ/オルタナティヴ・ロックムーブメントが起こった。
+Nirvana es una banda de rock estadounidense conocida como pionera del rock alternativo y el grunge. "Nevermind" es el segundo álbum de Nirvana y fue un gran éxito, alcanzando el número uno en el Billboard. El éxito de este álbum desató el movimiento grunge/rock alternativo en Estados Unidos.
 
-「Smells Like Teen Spirit（スメルズ・ライク・ティーン・スピリット）」は「Nevermind」先行シングルとしてリリースされ、ニルヴァーナの代表曲となった。
+"Smells Like Teen Spirit" fue lanzado como sencillo principal de "Nevermind" y se convirtió en la canción insignia de Nirvana.
 
-収録曲「Something In The Way」は2022年公開の映画『THE BATMAN-ザ・バットマン-』で使用されている。
+La canción "Something In The Way" se utilizará en la película "THE BATMAN" que se estrenará en 2022.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Smells Like Teen Spirit
 A2. In Bloom
@@ -36,9 +37,9 @@ B5. On A Plain
 B6. Something In The Way
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vabnZ9-ex7o?si=0NXz__dn5sqlQNz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vabnZ9-ex7o?si=0NXz__dn5sqlQNz-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

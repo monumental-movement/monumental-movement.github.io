@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Elektrochemie LK – Girl.webp
 lang: es
 layout: post
+permalink: /es/2025-05-26-Elektrochemie LK – Girl Part 2/
 tags:
 - Electronic
 - Techno
 - Electro
 - 00s
-title: Elektrochemie LK – Girl! Part 2
+title: Electroquímica LK – ¡Chica! parte 2
 ---
 
 
-Elektrochemie LKは、90年代から活躍するドイツ出身のテクノミュージシャン・DJ Thomas Schumacher(トーマス・シューマッハ)の別名義。
+Elektrochemie LK es el alias de DJ Thomas Schumacher, un músico de techno alemán que ha estado activo desde la década de 1990.
 
-「Girl! / Part 2」は2001年にドイツのレーベルLeadedからリリースされたテクノ・エレクトロトラック。
+"Girl! / Part 2" es una pista de techno-electro lanzada en 2001 por el sello alemán Leaded.
 
-A面1曲目は、大ヒットしたI'm a Disco Dancer (And a Sweet Romancer) で知られるChristopher Just(クリストファー・ジャスト)によるremix。
+La primera canción de la cara A es un remix de Christopher Just, conocido por su gran éxito I'm a Disco Dancer (And a Sweet Romancer).
 
-A面2曲目は、ドイツのテクノDJ・プロデューサーStephan Bodzin(ステファン・ボズディン)によremix。
+La segunda pista de la cara A es un remix del DJ y productor de techno alemán Stephan Bodzin.
 
-B面1曲目は、90年代から活躍するテクノプロデューサー・パフォーマーALEXANDER KOWALSKI(アレキサンダー・コワルスキー)によるremix。
+La primera canción de la cara B es un remix de ALEXANDER KOWALSKI, productor e intérprete de techno en activo desde los años 90.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Girl! (Christopher Just Remix)
 A2. Girl! (Video Edit)
@@ -33,7 +34,7 @@ B1. Let's Roll (Alexander Kowalski Remix)
 B2. Let's Roll (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

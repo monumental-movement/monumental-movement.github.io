@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Escape AKA Transa – Nothing To Fear Solar Silence.webp
 lang: es
 layout: post
+permalink: /es/2025-10-15-escape aka transa – nothing to fear solar silence/
 tags:
 - Trance
 - 00s
-title: Escape AKA Transa – Nothing To Fear Solar Silence
+title: Escape AKA Transa – Nada que temer al silencio solar
 ---
 
 
-EscapeことTransaは、Brendan Webster &とDavid Clifford John Websterの兄弟デュオ。
+Transa, también conocida como Escape, es un dúo de hermanos formado por Brendan Webster y David Clifford John Webster.
 
-「Nothing To Fear / Solar Silence」は、2003年に自身のレーベルExciterからリリースしたTrance。
+"Nothing To Fear / Solar Silence" fue lanzado por Trance en su propio sello Exciter en 2003.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Untitled
 
@@ -24,7 +25,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38913802157?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38913802157?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vGkGAaKeYHM?si=cRWQdRbdYfim5Upz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGkGAaKeYHM?si=cRWQdRbdYfim5Upz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

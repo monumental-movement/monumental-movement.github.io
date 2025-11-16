@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Clivilles and Cole – Pride (In The Name Of Love).webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Clivilles and Cole – Pride (In The Name Of Love)/
 tags:
 - House
 - 90s
-title: Clivilles and Cole – Pride (In The Name Of Love)
+title: Clivilles y Cole – Orgullo (En nombre del amor)
 ---
 
 
-A面は、U2のPride (In The Name Of Love) をテクノ/クラブアレンジでカバー。
+La cara A es una versión con arreglo de techno/club de Pride (In The Name Of Love) de U2.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Pride (In The Name Of Love) (Techno Remake Club Mix)
 
 B. A Deeper Love (Underground Club Mix / Let's Go Chanting Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53693730056?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53693730056?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-hEAHt9-eA?si=PS44X0td-iSriiWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-hEAHt9-eA?si=PS44X0td-iSriiWg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

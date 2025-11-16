@@ -6,30 +6,32 @@ image: ../assets/images/The Cinematic Orchestra – Ode To The Big Sea Channel 1
   Remixes.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-The Cinematic Orchestra – Ode To The Big Sea Channel 1 Suite
+  Remix/
 tags:
 - Future Jazz
 - Downtempo
 - 90s
-title: The Cinematic Orchestra – Ode To The Big Sea / Channel 1 Suite (Remixes)
+title: The Cinematic Orchestra – Oda al gran mar / Suite Canal 1 (Remixes)
 ---
 
 
-The Cinematic Orchestraは、作曲家／プロデューサーの Jason Swinscoe（J Swinscoeジェイソン・スウィンスコー） が中心となって1999年にイギリス・ロンドンで結成されたジャズ／ダウンテンポ／エレクトロニカ バンド。
+The Cinematic Orchestra es una banda de jazz/downtempo/electrónica formada en Londres, Inglaterra en 1999, dirigida por el compositor y productor Jason Swinscoe.
 
-UKのインディペンデントレーベルNinja Tuneから1999年にリリースされた「Ode To The Big Sea / Channel 1 Suite 」のFuture Jazz&Downtempoリミックス。
+Remix de Future Jazz & Downtempo de "Ode To The Big Sea / Channel 1 Suite" lanzado en 1999 en el sello independiente británico Ninja Tune.
 
-A1は、Ninja TuneのDJ&プロデューサーAxis(Darren Knott／DK)のよるremix。
-A2は、Tom Tyler (Vincent Markowski)によるremix。
+A1 es un remix del DJ y productor de Ninja Tune, Axis (Darren Knott/DK).
+A2 es un remix de Tom Tyler (Vincent Markowski).
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Ode To The Big Sea (Axis Remix)
 
 A2. Channel 1 Suite (Tom Tyler Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59905697462?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m59905697462?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fwyNIxLsuMs?si=f6u2N7nRAs3mby1X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fwyNIxLsuMs?si=f6u2N7nRAs3mby1X" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

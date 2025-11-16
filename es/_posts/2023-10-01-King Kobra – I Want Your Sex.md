@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/King Kobra – I Want Your Sex.webp
 lang: es
 layout: post
+permalink: /es/2023-10-01-King Kobra – I Want Your Sex/
 tags:
 - Euro Beat
-title: King Kobra – I Want Your Sex
+title: Rey Kobra - Quiero tu sexo
 ---
 
 
-本名David Brian Srbのプロジェクトである「King Kobra」のシングルです。
+Este es un sencillo de "King Kobra", un proyecto de su nombre real David Brian Srb.
 
-David Brian Srbは、ネブラスカ州オマハ生まれで、マルチ楽器演奏家、シンガーソングライター、レコーディングエンジニア、音楽プロデューサー。
+David Brian Srb nació en Omaha, Nebraska, y es multiinstrumentista, cantautor, ingeniero de grabación y productor musical.
 
-1980年代から1998年までイタリアに拠点を置き、様々な別名でユーロビートの楽曲を多数歌いました。
-現在はイリノイ州ノースフィールドにあるクリスチャン・ヘリテージ・アカデミーでテクニカルディレクターおよびオーディトリアムマネージャーとして働いています。
+Radicado en Italia desde la década de 1980 hasta 1998, cantó muchas canciones eurobeat bajo varios alias.
+Actualmente trabaja como Director Técnico y Gerente de Auditorio en Christian Heritage Academy en Northfield, Illinois.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. I Want Your Sex (Dance Mix)
 
@@ -29,7 +30,7 @@ B2. I Want Your Sex (Radio Edit)
 B3. I Want Your Sex (Playback)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m54349709741?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m54349709741?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UTleGxk8lxA?si=dy1Bt1juayABVet0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTleGxk8lxA?si=dy1Bt1juayABVet0" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

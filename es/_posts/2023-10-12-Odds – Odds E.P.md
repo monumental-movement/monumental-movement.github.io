@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Odds – Odds E.P.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Odds – Odds E.P/
 tags:
 - Trance
 - Goa Trance
-title: Odds – Odds E.P
+title: Cuotas – Cuotas E.P
 ---
 
 
-Odds（オッズ）は、Kris Kylven（クリス・キルヴェン）とBen Silver（ベン・シルバー/B. El Metoui）によるサイケデリック・ゴアトランスミュージックプロジェクト。
+Odds es un proyecto de música psicodélica gore-trance de Kris Kylven y Ben Silver (B. El Metoui).
 
-「Odds E.P.」はUKのレーベルFlying Rhino Recordsから1995年にリリースされたゴアトランストラック。
+"Probabilidades E.P." es una pista de gore-trance lanzada en 1995 por el sello británico Flying Rhino Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Flying + To The Sky
 
 AA. Umbellikilisis
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

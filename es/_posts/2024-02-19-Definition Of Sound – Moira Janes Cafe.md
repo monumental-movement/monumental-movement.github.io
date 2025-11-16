@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Definition Of Sound – Moira Jane's Café.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Definition Of Sound – Moira Janes Cafe/
 tags:
 - House
 - UK House
 - 90s
-title: Definition Of Sound – Moira Jane's Café
+title: Definición de sonido – Moira Jane's Café
 ---
 
 
-Definition Of Sound（デフィニションオブサウンド）はロンドンを拠点とするDonald WeekesとKevin Clarkによるダンスミュージックグループ。
+Definición de sonido es un grupo de música dance con sede en Londres formado por Donald Weekes y Kevin Clark.
 
-1992年にリリースされた４枚目のシングル「Moira Jane's Café」は、英国だけでなく世界中でヒットしたハウストラック。
+Su cuarto sencillo, "Moira Jane's Café", lanzado en 1992, fue un tema house que se convirtió en un éxito no sólo en el Reino Unido sino en todo el mundo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1.Moira Jane's Café (Live Version)
 
@@ -32,7 +33,7 @@ B2.Moira Jane's Café (Maurice's House Mix)
 B3.Moira Jane's Café (Aw Shucks Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

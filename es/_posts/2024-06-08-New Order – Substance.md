@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/New Order – Substance.webp
 lang: es
 layout: post
+permalink: /es/2024-06-08-New Order – Substance/
 tags:
 - New-Wave
 - Synth-Pop
 - Rock
 - 80s
-title: New Order – Substance
+title: Nuevo Orden – Sustancia
 ---
 
 
-New Order（ニュー・オーダー）は、ポストパンクの代表的なバンドの一つJoy Division（ジョイ・ディヴィジョン）を前身とするUKロックバンド。
+New Order es una banda de rock británica cuyo antecesor fue Joy Division, una de las bandas post-punk más representativas.
 
-このカセットは1987年にリリースされたNew Orderのシングルコンピレーションで、「Ceremony（セレモニー）」「Blue Monday（ブルーマンデー）」「Confusion（コンフュージョン）」などのヒット曲が収録されている。
+Este casete es una recopilación de sencillos de New Order lanzados en 1987 e incluye éxitos como "Ceremony", "Blue Monday" y "Confusion".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Ceremony
 A2. Everything's Gone Green
@@ -35,7 +36,7 @@ B5. Bizarre Love Triangle
 B6. True Faith
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87845826707?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87845826707?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ppvaVmABNFs?si=4F-v7Mvmxd2ttymm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppvaVmABNFs?si=4F-v7Mvmxd2ttymm" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

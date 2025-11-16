@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Various – Class X Two.webp
 lang: es
 layout: post
+permalink: /es/2023-09-08-Various – Class X Two/
 tags:
 - Synth-Pop
 - Electro
-title: Various – Class X Two
+title: Varios – Clase X Dos
 ---
 
 
-Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
+Merece una colección superior entre los remixes de Razomaid. Lo más destacado de este LP de doble paquete es "The Walk" de The Cure.
 
-オリジナル バージョンよりもさらに優れた素晴らしいものです。
+Es increíble e incluso mejor que la versión original.
 
-この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
+Esta canción por sí sola hará que quieras agregarla a tu colección de discos, así que la recomiendo ampliamente.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Simple Minds–New Gold Dream
 
@@ -44,9 +45,9 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DqpaYDvTXSY?si=SwnjyFGwYvk0-FXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DqpaYDvTXSY?si=SwnjyFGwYvk0-FXB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

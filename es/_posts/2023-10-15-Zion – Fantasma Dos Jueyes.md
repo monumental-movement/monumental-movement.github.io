@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Zion – Fantasma Dos Jueyes.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Zion – Fantasma Dos Jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: Zion – Fantasma Dos Jueyes
+title: Sión – Fantasma Dos Judíos
 ---
 
 
-Zionは、ラテンアメリカのレゲトン音楽シーンで活躍するアーティストであり、プエルトリコのレゲトン・デュオであるZion & Lennoxのメンバーの一人。
+Zion es un artista activo en la escena musical del reggaetón latinoamericano y uno de los miembros del dúo de reguetón puertorriqueño Zion & Lennox.
 
-Zion & Lennoxは、Daddy YankeeやDon Omarなどとともに、レゲトンの黄金時代に台頭したグループで、多くのヒット曲をリリースしました。
+Zion & Lennox fue un grupo que surgió durante la época dorada del reggaetón, junto con Daddy Yankee y Don Omar, y lanzó muchos éxitos.
 
-B面は、プエルトリコのサルサシンガーDomingo Quiñones（ドミンゴ・キニョーネス）をフィーチャリング。
+La cara B presenta al cantante de salsa puertorriqueño Domingo Quiñones.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Fantasma (Main)
 
@@ -29,5 +30,5 @@ A3. Fantasma (Acappella)
 B1. Dos Jueyes (Main)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
 

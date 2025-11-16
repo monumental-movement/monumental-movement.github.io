@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Visionaries – If You Can't Say Love Domakesaythink.webp
 lang: es
 layout: post
+permalink: /es/2024-04-05-Visionaries – If You Cant Say Love Domakesaythink/
 tags:
 - Hiphop
 - Rap
 - 00s
-title: Visionaries – If You Can't Say Love Domakesaythink
+title: Visionarios – Si no puedes decir amor Domakesaythink
 ---
 
 
-Visionaries（ヴィジョナリーズ/ビジョナリーズ）は、 1995年に結成されたロサンゼルスを拠点とする6人組コンシャス・ヒップホップ・グループ。
+Visionaries es un grupo de hip-hop consciente de seis integrantes con sede en Los Ángeles, formado en 1995.
 
-メンバーは、LMNO (J. Kelly)、2Mex (A. Ocana)、Key-Kool (Kikuo Nishi)、 DJ Rhettmatic (N. Nirza) 、Lord Zen (D. Hood) 、Dannu（D. Reyes）。
+Los miembros son LMNO (J. Kelly), 2Mex (A. Ocana), Key-Kool (Kikuo Nishi), DJ Rhettmatic (N. Nirza), Lord Zen (D. Hood) y Dannu (D. Reyes).
 
-A面１＆３曲目は、Funky Presidentの愛称で知られる世界的なDJ J.Roccがプロデュース。
+Las pistas 1 y 3 de la cara A están producidas por el mundialmente famoso DJ J.Rocc, conocido con el sobrenombre de Funky President.
 
-B面１＆３曲目は、VisionariesのメンバーKikuo NishiことKey Koolがプロデュース。
+Las caras B 1 y 3 son producidas por Kikuo Nishi, miembro de Visionaries, también conocido como Key Kool.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. If You Can't Say Love (Album Version)
 
@@ -36,7 +37,7 @@ B2. Domakesaythink (Instrumental)
 B3. Domakesaythink (Acapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13872107286?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m13872107286?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a1UmQJ7ulb4?si=5RiVlghOzvJ08SsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a1UmQJ7ulb4?si=5RiVlghOzvJ08SsB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

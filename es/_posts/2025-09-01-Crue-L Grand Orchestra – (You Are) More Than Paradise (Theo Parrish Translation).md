@@ -6,24 +6,26 @@ image: ../assets/images/Crue-L Grand Orchestra – (You Are) More Than Paradise 
   Parrish Translation).webp
 lang: es
 layout: post
+permalink: /es/2025-09-01-Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo
+  Parrish Translation)/
 tags:
 - House
 - Deep House
 - 10s
-title: Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation)
+title: Crue-L Grand Orchestra – (Eres) más que el paraíso (traducción de Theo Parrish)
 ---
 
 
-Kenji Takimi(瀧見憲司)とTomoki Kanda(神田朋樹)によるCrue-L Grand Orchestra「(You Are) More Than Paradise」のremix。
+Un remix de "(You Are) More Than Paradise" de Crue-L Grand Orchestra de Kenji Takimi y Tomoki Kanda.
 
-Crue-L Classics 12インチシリーズとして2010年にリリースされた。
+Lanzado en 2010 como serie Crue-L Classics de 12 pulgadas.
 
-A1 & AAは、デトロイトを拠点に活動するDJ／レコードプロデューサーTheo Parrish (テオ・パリッシュ)によるremix。
+A1 & AA es un remix del DJ y productor discográfico con sede en Detroit Theo Parrish.
 
-A2は、ロンドン出身のエレクトロニックバンドFreaks (Justin Harris & Luke Solomon)によるremix。
+A2 es un remix de Freaks (Justin Harris & Luke Solomon), una banda electrónica de Londres.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. (You Are) More Than Paradise (Theo Parrish Translation)
 A2. (You Are) More Than Paradise (Freaks Switching Channels 12inch Mix)
@@ -31,7 +33,7 @@ A2. (You Are) More Than Paradise (Freaks Switching Channels 12inch Mix)
 AA. (You Are) More Than Paradise (Theo Parrish Translation Long Version 1)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26337945792?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26337945792?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sVlMvNkdsQ?si=fwNoTBPYhnqn4fcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sVlMvNkdsQ?si=fwNoTBPYhnqn4fcd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Supermatic – Can't Stop The Bumrush.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-Supermatic – Cant Stop The Bumrush/
 tags:
 - Techno
 - Break Beat
-title: Supermatic – Can't Stop The Bumrush
+title: Supermatic – No puedo detener el Bumrush
 ---
 
 
-「Can't Stop The Bumrush」は、
-1992年にレーベル「Sonic Records」からリリースされたOtto van den ToornによるプロジェクトSupermaticのEPです。
+"No puedo detener el Bumrush" es
+Este es un EP del proyecto Supermatic de Otto van den Toorn, lanzado en 1992 por el sello Sonic Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Can't Stop The Bumrush (Bass Attack)
 
@@ -26,7 +27,7 @@ B1. Can't Stop The Bumrush (Rave Attack Mix)
 B2. Bassquest
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19638471586?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m19638471586?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cLVI5zyOLHY?si=bUXi4zQDrdsqOlOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cLVI5zyOLHY?si=bUXi4zQDrdsqOlOD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

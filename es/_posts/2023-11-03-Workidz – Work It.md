@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Workidz – Work It.webp
 lang: es
 layout: post
+permalink: /es/2023-11-03-Workidz – Work It/
 tags:
 - Techno
 - Tech House
-title: Workidz – Work It
+title: Workidz – Trabajalo
 ---
 
 
-WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。
+David Nagy, también conocido como Workidz, es un fabricante de camiones con sede en Budapest, Hungría.
 
-2007年にMontini Belgiumからリリースされた「Work It」はWorkidzの代表作。
+"Work It", editado por Montini Bélgica en 2007, es la obra maestra de Workidz.
 
-B面１曲目は、セントルイスを拠点に活動するDJ Kobbeによるremix。
+La primera canción de la cara B es un remix del DJ Kobbe, con sede en St. Louis.
 
-B面２曲目はマイアミを拠点に活動するDJ/プロデューサーMartin Accorsiによるremix。
+La segunda canción de la cara B es un remix del DJ y productor con sede en Miami Martin Accorsi.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Work It (Original Mix)
 
@@ -29,7 +30,7 @@ B1. Work It (Kobbe Rmx)
 B2. Work It (Martin Accorsi Rmx) 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40800419053?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40800419053?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_J4YN3owx9o?si=a3zufyJsQxqLB62j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_J4YN3owx9o?si=a3zufyJsQxqLB62j" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

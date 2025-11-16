@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Unity – Work It Out.webp
 lang: es
 layout: post
+permalink: /es/2024-06-27-Unity – Work It Out/
 tags:
 - House
 - Garage House
 - 90s
-title: Unity – Work It Out
+title: 'Unidad: resuélvelo'
 ---
 
 
-Unityは、Gary Stormと Lionel Hermanによるプロジェクト。別名義で、Power Movement, Rugged All-Stars, S.N.H. Foundation, Storm & Hermanとしても活動している。
+Unity es un proyecto de Gary Storm y Lionel Herman. También trabaja bajo otros nombres como Power Movement, Rugged All-Stars, S.N.H. Fundación y Storm & Herman.
 
-「Work It Out」は、1993年にハウスレーベルStrictly Rhythmからリリースされたハウス・ガラージハウストラック。この時期のA&Rは、DJ Pierre（DJピエール）。
+"Work It Out" es una pista house/garage house lanzada con el sello house Strictly Rhythm en 1993. El A&R en ese momento era DJ Pierre.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Work It Out (Work It Dub)
 A2. Speech
@@ -26,7 +27,7 @@ B1. Work It Out (Together Mix)
 B2. Work It Out (All In One Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66912125862?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66912125862?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Pdly9gBdEE?si=Zs1CZd7zc7Emfk8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Pdly9gBdEE?si=Zs1CZd7zc7Emfk8n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

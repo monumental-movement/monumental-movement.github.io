@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Radiohead – Airbag How Am I Driving.webp
 lang: es
 layout: post
+permalink: /es/2024-12-04-Radiohead –Airbag How Am I Driving/
 tags:
 - Alternative Rock
 - Indie Rock
 - 90s
-title: Radiohead – Airbag / How Am I Driving?
+title: Radiohead – Airbag / ¿Cómo conduzco?
 ---
 
 
-1998年に北米でリリースされたUKロックバンドRadioheadの5枚目のEP。Radioheadの3枚目のスタジオアルバムであり、世界的な出世作となった「OK Computer」からリリースされたシングルのB面(「Lull」と「How I Made My Millions」を除く)、と「Airbag」を収録。
+El quinto EP de la banda de rock británica Radiohead, lanzado en Norteamérica en 1998. Contiene las caras B de los sencillos (excepto "Lull" y "How I Made My Millions") lanzados de "OK Computer", el tercer álbum de estudio de Radiohead y su avance mundial, y "Airbag".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Airbag
 2. Pearly
@@ -27,10 +28,10 @@ title: Radiohead – Airbag / How Am I Driving?
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a319HgaklkY?si=T-E1RQWJZjt-hInO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a319HgaklkY?si=T-E1RQWJZjt-hInO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BnJZJy85yjw?si=E3KB00Y4BH5pPTL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnJZJy85yjw?si=E3KB00Y4BH5pPTL4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

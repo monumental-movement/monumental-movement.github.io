@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Mondo Grosso – Now You Know Better.webp
 lang: es
 layout: post
+permalink: /es/2023-08-25-Mondo Grosso – Now You Know Better/
 tags:
 - House
 - JPop
 - Deep House
-title: Mondo Grosso – Now You Know Better
+title: Mondo Grosso – Ahora lo sabes mejor
 ---
 
 
-Mondo Grosso（大沢 伸一）によある「Now You Know Better」は、2000年にリリースされたEPです。
+"Now You Know Better" de Mondo Grosso (Shinichi Osawa) es un EP lanzado en 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Now You Know Better (Single Mix)
 
@@ -39,8 +40,8 @@ Featuring – Paula Lima
 Written-By – Carlos Rennó, Shinichi Osawa, Yoshito Tanaka
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14264129378?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14264129378?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2Nn20K9Cys?si=alFE-MZvYXbwtGHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2Nn20K9Cys?si=alFE-MZvYXbwtGHj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

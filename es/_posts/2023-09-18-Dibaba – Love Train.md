@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Dibaba – Love Train.webp
 lang: es
 layout: post
+permalink: /es/2023-09-18-Dibaba – Love Train/
 tags:
 - House
 - Acid
 - Electro
-title: Dibaba – Love Train
+title: Dibaba – Tren del amor
 ---
 
 
-2005年リリースのスウェーデン人のOLLE CORNEERによるユニットDIBABAによるEPです。
+Este es un EP de DIBABA, una unidad del sueco OLLE CORNEER, lanzado en 2005.
 
-John Dahlbäckによるアシッド・リミックスも収録。
+También incluye un remix ácido de John Dahlbäck.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Love Train (Andreas Tilliander Remix)
 
@@ -28,7 +29,7 @@ B1. Love Train (John Dahlbäck Acid Train Mix)
 B2. Love Train (KFK's Dar-K Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87226223493?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rHL8vlzzQts?si=HlYO2J4ImZ0acamp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rHL8vlzzQts?si=HlYO2J4ImZ0acamp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

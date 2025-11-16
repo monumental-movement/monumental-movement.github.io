@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Imbaya – Un Paso A La Eternidad.webp
 lang: es
 layout: post
+permalink: /es/2024-05-24-Imbaya – Un Paso A La Eternidad/
 tags:
 - Tribal
 - Latin
@@ -15,11 +16,11 @@ title: Imbaya – Un Paso A La Eternidad
 ---
 
 
-Imbayaは、フルートとギターを基調に時々ボーカルを加えた伝統的な南米音楽を演奏するボリビアのトリオ。メンバーは、ケーナ、ケーナチョ、フラウタ・デ・パン（パンフルート）、サンポーナなどのアンデス文化の楽器の演奏者Jaime VegaとCarlos Vega＆Mario Vega。
+Imbaya es un trío boliviano que toca música tradicional sudamericana a base de flauta y guitarra, con voces ocasionales. Los integrantes son Jaime Vega, Carlos Vega y Mario Vega, quienes tocan instrumentos de la cultura andina como la quena, quenacho, flauta de pan y sampona.
 
-「Un Paso A La Eternidad（永遠への一歩）」は、ペルーのケチュア族によって作られたネイティブ音楽をベースとしたアルバムで、1993年にリリースされたカセットテープ。
+"Un Paso A La Eternidad" es un álbum basado en música nativa hecha por el pueblo quechua del Perú, y es una cinta de casete lanzada en 1993.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Puro Runas
 2. Encuentros
@@ -38,4 +39,4 @@ Imbayaは、フルートとギターを基調に時々ボーカルを加えた�
 15. Guajira Cafe
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}

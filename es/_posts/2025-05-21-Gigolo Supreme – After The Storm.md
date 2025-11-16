@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Gigolo Supreme – After The Storm.webp
 lang: es
 layout: post
+permalink: /es/2025-05-21-Gigolo Supreme – After The Storm/
 tags:
 - Electronic
 - Deep House
 - House
 - 90s
-title: Gigolo Supreme – After The Storm
+title: Gigolo Supremo – Después de la tormenta
 ---
 
 
-「Gigolo Supreme – After The Storm」は、1996年にNervous Recordsからリリースされたハウスミュージックのクラシックな12インチシングルで、フランキー・フェリシアーノ（Frankie Feliciano）のプロデュースによるものです。
+"Gigolo Supreme – After The Storm" es un sencillo clásico de música house de 12 pulgadas lanzado por Nervous Records en 1996 y producido por Frankie Feliciano.
 
-ジャズとハウスの融合が特徴で、スムースでグルーヴィーなサウンドが魅力。サックスやキーボード、力強いドラムが織りなす「Vinyl Saturday Mix」は特に人気で、ジャズハウスやアシッドジャズのファンに愛されています。
+Caracterizado por una fusión de jazz y house, tiene un sonido suave y maravilloso. El "Vinyl Saturday Mix", que incluye saxofón, teclados y baterías potentes, es especialmente popular y amado por los fanáticos del jazz house y el acid jazz.
 
-この曲は、20年以上経った今もDJやハウスミュージック愛好者に重宝され、パーティーの盛り上げやチルアウトに最適とされています。
+Más de 20 años después, esta canción sigue siendo una de las favoritas entre los DJ y los amantes de la música house, y se considera perfecta para rockear en una fiesta o relajarse.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. After The Storm (Stolen Moments Mix)
 A2. After The Storm (Beats And Strings)
@@ -29,7 +30,7 @@ B1. After The Storm (Supreme Remix)
 B2. After The Storm (Deja Vu Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86278075606?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86278075606?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y3jSuCl-RWo?si=nvOPCphhA460DnlT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y3jSuCl-RWo?si=nvOPCphhA460DnlT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

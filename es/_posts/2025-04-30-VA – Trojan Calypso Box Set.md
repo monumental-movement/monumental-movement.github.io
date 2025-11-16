@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/VA – Trojan Calypso Box Set.webp
 lang: es
 layout: post
+permalink: /es/2025-04-30-VA – Trojan Calypso Box Set/
 tags:
 - Reggae
 - Calypso
 - Mento
-title: VA – Trojan Calypso Box Set
+title: VA – Caja Trojan Calypso
 ---
 
 
-トロージャン　カリプソコンピレーション
+Compilación del troyano Calypso
 
-限定版ボックスセット(CD3枚組)
+Caja de edición limitada (3 CD)
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Jamaican Mento, Calypso & Jump Up Sounds
 
@@ -79,7 +80,7 @@ Calypso War In The UK
 3-16	Lord Invader & His Calypso Rhythm Boys – Teddy Boy Calypso (Bring Back The Cat-o-nine)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

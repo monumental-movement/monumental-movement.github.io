@@ -5,72 +5,74 @@ categories:
 image: ../assets/images/column-euro.webp
 lang: es
 layout: post
+permalink: /es/2025-07-18-Column-Euro/
 tags:
 - Euro
 - 90s
-title: 【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
+title: '[Columna] ¿Qué era la música europea de los 90? ──Un festín de pistas de baile
+  y melodías'
 ---
 
 
-## 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
+## ¿Qué era la música europea de los 90? ──Un festín de pistas de baile y melodías
 
-文：mmr｜テーマ：90年代のユーロ・ミュージック文化の全貌
+Texto: mmr｜Tema: El panorama completo de la cultura musical europea en los años 90
 
-
-
-<hr>
-
-### Euroと呼ばれる音楽の正体とは？
-
-90年代の「ユーロ・ミュージック（Euro Music）」とは、特定のジャンルというより、ヨーロッパ大陸を中心に発展した大衆的ダンス・ポップ音楽の総称である。
-中でももっとも象徴的なのは「ユーロビート」や「ユーロダンス（Eurodance）」だが、それに留まらず、ユーロトランス、ハイエナジー、シンセポップなども同時期に併走していた。
-
-つまり90年代のユーロは、**パーティ・カルチャー、ダンス・ミュージック、キャッチーなメロディとテクノロジーが融合した“現代ヨーロッパのポップ像”**だったのだ。
 
 
 <hr>
 
-### 主なジャンル分類と特徴
+### ¿Cuál es la verdadera identidad de la música llamada Euro?
+
+La "música europea" de los años 1990 no era un género específico, sino más bien un término general para la música popular dance-pop que se desarrolló principalmente en Europa continental.
+Los más emblemáticos fueron "Eurobeat" y "Eurodance", pero otros géneros como el Eurotrance, la alta energía y el synth pop también se ejecutaban al mismo tiempo.
+
+En otras palabras, el euro de los años 90 fue la "imagen pop de la Europa moderna" que fusionaba cultura de fiesta, música dance, melodías pegadizas y tecnología.
+
+
+<hr>
+
+### Clasificación y características principales del género.
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>ジャンル</th>
-      <th>特徴</th>
-      <th>代表アーティスト</th>
+<th>Género</th>
+<th>Características</th>
+<th>Artista representativo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>ユーロダンス</td>
-      <td>4つ打ちビート、ラップ＋女性ボーカル、派手なメロ</td>
-      <td>2 Unlimited / La Bouche</td>
+<td>Baile europeo</td>
+<td>Cuatro tiempos, rap + voz femenina, melodía llamativa</td>
+<td>2 Ilimitado / La Bouche</td>
     </tr>
     <tr>
-      <td>ユーロビート</td>
-      <td>高速BPM、シンセ主体、主にイタリア制作、日本で人気</td>
-      <td>Dave Rodgers / Domino</td>
+<td>Eurobeat</td>
+<td>BPM de alta velocidad, principalmente sintetizador, producido principalmente en Italia, popular en Japón</td>
+<td>Dave Rodgers / Dominó</td>
     </tr>
     <tr>
-      <td>ユーロトランス</td>
-      <td>トランスの簡略版、メロディアス、ポップ寄り</td>
-      <td>DJ Quicksilver / Sash!</td>
+<td>Eurotrans</td>
+<td>Versión simplificada del trance, melodiosa, orientada al pop</td>
+<td>¡DJ Quicksilver / Sash!</td>
     </tr>
     <tr>
-      <td>ハイエナジー</td>
-      <td>ゲイクラブ起源、派手なビート、1980年代末から継続</td>
-      <td>Patrick Cowley / Hazell Dean</td>
+<td>Alta energía</td>
+<td>Los orígenes de los clubes gay, ritmos llamativos, continuaron desde finales de los años 1980</td>
+<td>Patrick Cowley / Hazell Dean</td>
     </tr>
     <tr>
-      <td>Italo Dance</td>
-      <td>イタリア発のダンスポップ、Eurodanceとの融合形</td>
-      <td>Eiffel 65 / Prezioso</td>
+<td>Danza Italo</td>
+<td>Dance pop de Italia, fusión con el Eurodance</td>
+<td>Eiffel 65 / Precioso</td>
     </tr>
     <tr>
-      <td>ユーロポップ</td>
-      <td>ポップス主軸、R&Bやラテンの要素も導入</td>
-      <td>Ace of Base / Roxette</td>
+<td>Europop</td>
+<td>Música principalmente pop, con R&B y elementos latinos introducidos</td>
+<td>As de base / Roxette</td>
     </tr>
   </tbody>
 </table>
@@ -79,212 +81,212 @@ title: 【コラム】 90年代ユーロ・ミュージックとは何だった�
 
 <hr>
 
-### 冷戦後ヨーロッパとポップの共通言語
+### Lenguaje común entre Europa y el pop tras la Guerra Fría
 
-1989年のベルリンの壁崩壊以降、ヨーロッパは急速に国境を越えたエンタメ市場へと変化した。英語圏ではない国々（ドイツ、オランダ、イタリア、スウェーデンなど）からも、“英語で歌うユーロ・ポップ”が国際市場に進出するようになる。
+Después de la caída del Muro de Berlín en 1989, Europa se transformó rápidamente en un mercado de entretenimiento transfronterizo. El "euro-pop cantado en inglés" comenzó a ingresar al mercado internacional incluso desde países de habla no inglesa (como Alemania, Países Bajos, Italia y Suecia).
 
-これは、ユーロミュージックが政治的境界よりも感覚的快楽を優先する音楽文化であることを意味している。リズム、シンセ、そしてシンプルで繰り返しやすいサビ。これらは言語や国境を越える“共通言語”となった。
+Esto significa que la euromúsica es una cultura musical que prioriza el placer sensorial por encima de las fronteras políticas. Ritmo, sintetizadores y un estribillo sencillo y repetible. Estos se han convertido en un “lenguaje común” que trasciende idiomas y fronteras.
 
 
 <hr>
 
-### メインストリームにおける成功例（1990〜1999）
+### Historias de éxito convencionales (1990-1999)
 
-● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
+● [2 Ilimitado – “Prepárate para esto” (1991)](https://amzn.to/4mXEgCl)
 
-オランダ発。スポーツ会場やCMにも多用される“Eurodanceアンセム”。
+De Holanda. El “himno del Eurodance” se utiliza a menudo en recintos deportivos y comerciales.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 ● [Ace of Base – “The Sign” (1993)](https://amzn.to/4mXEhGp)
 
-スウェーデンのポップグループ。Billboard Hot 100年間1位に輝く。
+Grupo de pop sueco. Clasificado #1 en Billboard Hot 100 durante 100 años.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-● [Corona – “Rhythm of the Night” (1994)](https://amzn.to/3KFlcLU)
-
-イタリア産。中南米市場でもヒットし、Eurodanceの汎用性を示す。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
+● [Corona – “Ritmo de la noche” (1994)](https://amzn.to/3KFlcLU)
 
-Italo Danceの代表作。デジタルボイスとメロディの融合。
+Fabricado en Italia. También fue un éxito en el mercado latinoamericano, demostrando la versatilidad de Eurodance.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 90年代的な音の流通
+● [Eiffel 65 – “Azul (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
-**● CDマキシシングル文化**
+Una obra maestra de la Danza Italo. Una fusión de voz y melodía digital.
 
-1曲に複数のリミックスやB面を収録し、クラブ〜家庭まで対応。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-**● MTV Europe**
+---
 
-映像と音楽をセットで売る“ビジュアル・ダンスカルチャー”の拠点に。
+### Distribución de sonido de los 90.
 
-**● スーパーユーロビート（日本）**
+**● CD Maxi Single Cultura**
 
-エイベックスが日本で独自展開したシリーズ。頭文字D文化ともリンク。
+Se incluyen múltiples remezclas y caras B en una canción, lo que la hace adecuada tanto para clubes como para hogares.
 
-**● ヨーロッパ製作、日本流通の逆輸入盤**
+**●MTV Europa**
 
-イタリア・ドイツ制作、日本企画、国内盤CD（例：MAHARAJA NIGHT）
+Una base para la "cultura visual de la danza" que vende videos y música en conjunto.
 
+**● Super Eurobeat (Japón)**
 
-<hr>
+Una serie desarrollada de forma independiente en Japón por Avex. También vinculado a la cultura Inicial D.
 
-### 日本における90'sユーロの受容
+**●Disco reimportado producido en Europa y distribuido en Japón**
 
-**ユーロビート**：avexによる独自展開
-
-- TRF、globe、小室ファミリーへの影響。
-
-- 頭文字Dやパラパラ文化の中核に。
-
-**ユーロダンス**：ディスコ～J-Popのハイブリッド
-
-- MAXやV6など、日本のグループがカバーを多数リリース。
-
-**ヴィジュアル文化との融合**：非洋楽的ユーロ文化
-
-- アニメOPやゲームBGMにも取り込まれ、“非洋楽的ユーロ文化”が成立。
+Producido en Italia y Alemania, previsto en Japón, CD nacional (por ejemplo, MAHARAJA NIGHT)
 
 
 <hr>
 
-### なぜ批評家は無視したのか？──「軽さ」と「反芸術」
+### Aceptación del euro de los 90 en Japón
 
-ユーロミュージックは批評家からは長らく評価されなかった。理由は以下の通り：
+**Eurobeat**: Desarrollo original de avex
 
-- シンプルな構造、歌詞の浅さ（しばしば無意味）
+- Impacto en TRF, Globe y la familia Komuro.
 
-- 大量生産／匿名性（特定作家の存在感が薄い）
+- En el centro de la cultura Inicial D y Parapara.
 
-- 商業的成功＝芸術性の軽視
+**Eurodance**: híbrido Disco-J-Pop
 
-だが、逆に言えばそれは誰にでも届く音楽であったという証拠でもある。
+- Grupos japoneses como MAX y V6 han lanzado muchas versiones.
 
+**Fusión con la cultura visual**: cultura del euro no occidental
 
-<hr>
-
-### 再評価とリバイバル：2020年代以降の状況
-
-近年、ユーロミュージックは次のような形で再評価されている：
-
-- HyperpopやY2Kサウンドの源流としてのユーロダンス
-
-- クラブシーンにおける90s回帰（Post-Eurodance）
-
-- City Pop同様、ネット世代が再発見した日本経由のユーロビート
-
-また、SpotifyやYouTubeでの再生数増加により、90年代ユーロは新たなリスナー層にも届いている。
-
+- También se incorporó a los OP de anime y a la música de fondo de los juegos, creando una "cultura del euro no occidental".
 
 
 <hr>
 
-### ユーロミュージックは「国境なき快楽」だった
+### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-arte"
 
-90年代のユーロミュージックは、歌詞でもなく政治でもなく、踊りと快感とメロディを国際語に変えた現象だった。
-その軽やかさこそが、ジャンルの境界や価値観の壁を越えていく武器となった。
+La música europea no fue bien recibida por la crítica durante mucho tiempo. La razón es la siguiente:
 
-いま再び、ユーロの“ナイーヴな熱さ”が、ジャンルや世代を超えて私たちに問いかけているのかもしれない。
+- Estructura simple, letras superficiales (a menudo sin sentido)
 
-それはあなたにとって懐かしさか、それとも新しさか？
+- Producción en masa/anonimato (la presencia de artistas específicos es débil)
+
+- Éxito comercial = desprecio por el arte.
+
+Pero, por otro lado, también demuestra que la música puede llegar a cualquiera.
+
+
+<hr>
+
+### Reevaluación y reactivación: la situación en la década de 2020 y más allá
+
+En los últimos años, Euromusic se ha revalorizado de las siguientes formas:
+
+- El euro dance como origen de los sonidos Hyperpop y Y2K
+
+- El regreso de los 90 (Post-Eurodance) a la escena de discotecas.
+
+- Al igual que el City Pop, el eurobeat japonés fue redescubierto por la generación de Internet.
+
+Además, Euro de los 90 está llegando a una nueva audiencia con una mayor reproducción en Spotify y YouTube.
+
+
+
+<hr>
+
+### La música europea era "un placer sin fronteras"
+
+La música europea de la década de 1990 fue un fenómeno que convirtió la danza, el placer y la melodía en un lenguaje internacional, no en letras ni en política.
+Esa ligereza se convirtió en un arma que le permitió trascender las fronteras y valores del género.
+
+Ahora, una vez más, el "calor ingenuo" del euro puede estar planteándonos una pregunta que trasciende géneros y generaciones.
+
+¿Es nostalgia o novedad para ti?
 
 <hr>
 
 
 <hr>
 
-### List
+### Lista
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>アーティスト</th>
-      <th>タイトル</th>
-      <th>形式</th>
-      <th>年代／特徴</th>
+<th>Artista</th>
+<th>Título</th>
+<th>Formato</th>
+<th>Edad/Características</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Rednex</td>
-      <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
-      <td>12″</td>
-      <td>スウェーデン産ユーロハウス／シンセポップ</td>
+<td>Rednex</td>
+<td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
+<td>12″</td>
+<td>Eurohouse sueco/synth pop</td>
     </tr>
     <tr>
-      <td>Masterboy</td>
-      <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
-      <td>CD</td>
-      <td>1994  ドイツ・ユーロダンス名盤</td>
+<td>Maestro</td>
+<td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Sueños diferentes</a></td>
+<td>CD</td>
+<td>Obra maestra alemana de eurodanza de 1994</td>
     </tr>
     <tr>
-      <td>VA</td>
-      <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
-      <td>CD</td>
-      <td>90s 非売品コンピ</td>
+<td>VA</td>
+<td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharajá Top 20 Vol.III</a></td>
+<td>CD</td>
+<td>Recopilación de los 90 no a la venta</td>
     </tr>
     <tr>
-      <td>Various</td>
-      <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
-      <td>Vinyl</td>
-      <td>90s 名トラック集コンピ</td>
+<td>Varios</td>
+<td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Remezclas durante la noche II</a></td>
+<td>Vinilo</td>
+<td>Recopilación de temas famosos de los 90</td>
     </tr>
     <tr>
-      <td>MDC‑X‑Static</td>
-      <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
-      <td>Vinyl</td>
-      <td>90s クラブヒット EP</td>
+<td>MDC‑X‑Estático</td>
+<td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">Tú y yo</a></td>
+<td>Vinilo</td>
+<td>EP de éxito del club de los 90</td>
     </tr>
     <tr>
-      <td>Ziggy</td>
-      <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
-      <td>Vinyl</td>
-      <td>90s ユーロビート／Hi‑NRG レア盤</td>
+<td>Ziggy</td>
+<td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Remix Azteca)</a></td>
+<td>Vinilo</td>
+<td>Edición rara Eurobeat/Hi-NRG de los 90</td>
     </tr>
     <tr>
-      <td>Dr. Baker</td>
-      <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
-      <td>Vinyl</td>
-      <td>1990  UKリリース・Euro House</td>
+<td>Dra. panadero</td>
+<td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
+<td>Vinilo</td>
+<td>Estreno en el Reino Unido de 1990/Euro House</td>
     </tr>
     <tr>
-      <td>Tam Arrow</td>
-      <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
-      <td>Vinyl</td>
-      <td>2001年イタリア製 Euro Beat EP</td>
+<td>Flecha Tam</td>
+<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">Chica One Shot</a></td>
+<td>Vinilo</td>
+<td>Hecho en Italia 2001 Euro Beat EP</td>
     </tr>
     <tr>
-      <td>Dao Dezi</td>
-      <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
-      <td>12″</td>
-      <td>’94年深いユーロハウス系リリース</td>
+<td>Dao Dezi</td>
+<td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
+<td>12″</td>
+<td>'94 lanzamiento profundo de la casa europea</td>
     </tr>
     <tr>
-      <td>E‑Rotic</td>
-      <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
-      <td>CD</td>
-      <td>1997  ヒット「Turn Me On」収録</td>
+<td>E-Rotic</td>
+<td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Locura sexual</a></td>
+<td>CD</td>
+<td>Incluye el éxito de 1997 “Turn Me On”</td>
     </tr>
     <tr>
-      <td>E‑Rotic</td>
-      <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
-      <td>Vinyl</td>
-      <td>90s 定番シングル</td>
+<td>E-Rotic</td>
+<td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy usa un Billy... chico</a></td>
+<td>Vinilo</td>
+<td>Single clásico de los 90</td>
     </tr>
   </tbody>
 </table>

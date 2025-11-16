@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/New Life – Got 2 B Free.webp
 lang: es
 layout: post
+permalink: /es/2025-10-13-New Life – Got 2 B Free/
 tags:
 - Euro House
 - House
 - 90s
-title: New Life – Got 2 B Free
+title: 'Nueva vida: obtuve 2 B gratis'
 ---
 
 
-New Life は、Italian house / Eurodanceアクト49ersのヴォーカルとして知られているAnn-Marie Smithが参加するプロジェクト。
+New Life es un proyecto en el que participa Ann-Marie Smith, conocida como la vocalista del grupo italiano house/Eurodance 49ers.
 
-Aは、イギリスのドラム&ベースのプロデューサーであり、garageデュオTrue Steppersとしても活躍したJonny Lによるremix。
+A es un remix de Jonny L, productor británico de drum & bass y ex miembro del dúo de garage True Steppers.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Got 2 B Free (Paradise Mix)
 
@@ -25,7 +26,7 @@ AA1. Got 2 B Free (Digit Mix)
 AA2. Got 2 B Free (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhxAsZDESU8?si=4NjElZnRUX3qtyzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhxAsZDESU8?si=4NjElZnRUX3qtyzk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

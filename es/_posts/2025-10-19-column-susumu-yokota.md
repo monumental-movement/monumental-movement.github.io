@@ -5,87 +5,89 @@ categories:
 image: ../assets/images/column-susumu-yokota.webp
 lang: es
 layout: post
+permalink: /es/2025-10-19-column-susumu-yokota/
 tags:
 - Ambient
 - Techno
 - Rock
-title: 【コラム】 ススム・ヨコタ — 静寂の中の宇宙：電子音が描く魂の風景
+title: '[Columna] Susumu Yokota — Un universo en silencio: Un paisaje del alma dibujado
+  por sonidos electrónicos'
 ---
 
 
-## 第1章：電子音楽と日本 — 横田進の位置づけ
+## Capítulo 1: La música electrónica y Japón: la posición de Susumu Yokota
 
 
-文：mmr｜テーマ：ススム・ヨコタ（Susumu Yokota）。クラブ・カルチャーとアンビエントの境界で、音の魂を探った孤高のアーティスト。その静けさと宇宙性をたどる
+Texto: mmr｜Tema: Susumu Yokota. Un artista solitario que explora el alma del sonido en la frontera entre la cultura de club y el ambient. Siguiendo su tranquilidad y naturaleza cósmica
 
 
-1990年代初頭、日本の電子音楽シーンはまだ黎明期にあった。テクノやハウスが輸入文化として浸透する中で、「環境音」や「静寂」を中心に据えたアンビエント音楽は、まだ少数派の実験的ジャンルだった。  
-ススム・ヨコタ（Susumu Yokota）は、まさにこの静寂の空間に息づく詩人であった。彼の音楽は、クラブカルチャーの延長線上にありながら、どこか「外」にいる。自然の呼吸、風の間合い、そして記憶の残響を電子の粒で描く——そんな稀有な作家性を持っていた。
+A principios de la década de 1990, la escena de la música electrónica de Japón todavía estaba en su infancia. Mientras que el techno y el house se estaban volviendo populares como cultura importada, la música ambiental, que se centraba en los "sonidos ambientales" y el "silencio", seguía siendo un género experimental minoritario.
+Susumu Yokota fue un poeta que vivió en este tranquilo espacio. Su música es una extensión de la cultura de club, pero de alguna manera "fuera" de ella. Fue un artista poco común que utilizó partículas electrónicas para representar el aliento de la naturaleza, la distancia del viento y las reverberaciones de los recuerdos.
 
-ヨコタは東京のクラブ・シーンから出発しながら、すぐにその文脈を超越した。彼の音楽は、ダンスミュージックの“リズム”よりも“間”を重視し、電子音楽における静謐と有機性を追求する方向へ進んだ。それは日本的な「侘び寂び」の感覚にも通じる。
+Aunque Yokota comenzó en la escena de clubes de Tokio, rápidamente trascendió ese contexto. Su música se centró más en la "pausa" que en el "ritmo" de la música de baile, y avanzó hacia la búsqueda de la tranquilidad y la organicidad de la música electrónica. Esto es similar al sentido japonés de "wabi-sabi".
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第2章：作家としての横田進 — サウンドスケープの詩
+## Capítulo 2: Susumu Yokota como escritor - Poesía del paisaje sonoro
 
-初期の横田作品には、アシッド・ハウスの影響が色濃く見られる。  
-『Acid Mt. Fuji』（1994）は、自然音とアシッド・シンセを融合させた画期的な作品だった。電子音楽が「自然」を描くという逆説的な構造。そこにはすでに、後年のアンビエント的思想の萌芽があった。
+Los primeros trabajos de Yokota están fuertemente influenciados por el acid house.
+Acid Mt. Fuji (1994) fue un trabajo innovador que fusionó sonidos naturales y sintetizadores ácidos. Una estructura paradójica en la que la música electrónica representa la "naturaleza". Ya existían las semillas de ideas ambientales posteriores.
 
-彼の手法は、単なるトラックメイクではなく「音響詩」である。サンプリング素材を再構成し、微細なループを空気のように漂わせる。音が時間とともに変質し、やがて記憶の奥に沈んでいくような感覚。それは彼自身の音楽観そのものだった。
+Su método no es sólo crear pistas, sino "poesía acústica". Reconstruye el material muestreado y hace que diminutos bucles floten como el aire. Se siente como si el sonido cambiara con el tiempo y eventualmente se hundiera en las profundidades de la memoria. Ésa era su propia visión de la música.
 
-そして注目すべきは、彼が複数の名義で作品を発表していたことだ。中でも「**Anima Mundi**」は重要な別名義であり、より内省的かつ瞑想的なサウンドを展開した。この名義では、リズムのない純粋な音響体験を通じて“世界の魂”＝Anima Mundiという形而上のテーマを探っている。
-
----
-
-## 第3章：アルバム解体 — 名盤の深層
-
-### 『Sakura』（1999）
-横田進の代表作であり、アンビエント音楽史に残る金字塔。  
-淡くにじむメロディと環境音が幾重にも重なり、聴く者の意識を静かに内側へと導く。桜の散る一瞬を音に閉じ込めたような儚さがあり、日本的叙情と普遍的美が融合している。
-
-アルバムは構成的にも秀逸で、全体が一つの「呼吸」のように流れる。静かに始まり、かすかなリズムが生まれ、やがて消えていく。まるで人生や季節の循環そのものだ。  
-『Sakura』が世界のアンビエントファンに愛され続けるのは、この「時間の感覚」を音で描き切っているからだろう。
-
-### 『Symbol』（2001）
-クラシック音楽のサンプリングを駆使しながら、独自の音像を構築。  
-バロックや印象派の旋律が、ヨコタの手によって電子の海に溶けていく。作品全体は“再構成された記憶”のようであり、まさにタイトル通り「象徴」の音楽だ。
-
-### 『Grinning Cat』（2000）
-幻想的な音響が心地よく、童話的な世界観を持つアルバム。  
-そこには単なるアンビエントの枠を超えた遊び心がある。音の形を変えながら、聴き手に物語を想像させる力を持っている。
-
-### 『The Boy and the Tree』（2003）
-森の中で録音されたような空気感と、生命の鼓動を思わせるリズム。  
-自然と電子のあいだに漂う、ヨコタ独自の「生命の音楽」。後期の代表作として完成度が高い。
+Lo que es digno de mención es que publicó sus obras con varios nombres. Entre ellos, "**Anima Mundi**" fue un alias importante y desarrolló un sonido más introspectivo y meditativo. Bajo este nombre explora el tema metafísico de "Anima Mundi" (el alma del mundo) a través de una experiencia acústica pura y sin ritmo.
 
 ---
 
-## 第4章：Anima Mundi名義のプロジェクト
+## Capítulo 3: Deconstrucción del álbum: las profundidades de un gran álbum
 
-「Anima Mundi（アニマ・ムンディ）」とはラテン語で“世界の魂”を意味する。  
-横田進がこの名義で展開した作品群は、まさにその名にふさわしい内容だった。  
-ドローン、環境音、そして倍音構造に重点を置いた楽曲群は、聴く者の内的空間を拡張する。そこに拍子も旋律もない。ただ「存在する音」だけがある。
+### “Sakura” (1999)
+La obra maestra de Susumu Yokota y una obra monumental en la historia de la música ambiental.
+La débil melodía y los sonidos ambientales se superponen, guiando suavemente la conciencia del oyente hacia adentro. Tiene una fugacidad que captura el momento de la caída de las flores de cerezo en el sonido, y es una fusión de lirismo japonés y belleza universal.
 
-この名義は、ヨコタにとって「無意識と宇宙をつなぐチャンネル」だったとも言える。  
-ススム・ヨコタ名義での音楽が“地上の詩”なら、Anima Mundiは“天上の祈り”である。
+El álbum tiene una estructura excelente y todo el álbum fluye como un solo "respiración". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
+La razón por la que "Sakura" sigue siendo amada por los fanáticos de la música ambiental de todo el mundo es probablemente porque representa perfectamente este "sentido del tiempo" a través del sonido.
 
-12インチの「Hebula」は、幻想的でトリップ感溢れるサウンドと、トライバルなリズムや要素が融合したテクノの楽曲です。この曲は、複雑な音響効果や重層的なサウンドテクスチャが特徴であり、聴く人を異世界へと誘います。
+### “Símbolo” (2001)
+Cree su propia imagen sonora mientras aprovecha al máximo el muestreo de música clásica.
+Melodías barrocas e impresionistas se disuelven en un mar de electrónica en las manos de Yokota. Toda la obra es como una "memoria reconstruida" y, como sugiere el título, es música "simbólica".
 
-#### Tracklist
+### “Gato sonriente” (2000)
+Un álbum con una visión del mundo de cuento de hadas, con una acústica cómoda y fantástica.
+Hay una sensación de alegría que va más allá del marco de la mera música ambiental. Tiene el poder de hacer que el oyente imagine una historia mientras cambia la forma del sonido.
+
+### “El niño y el árbol” (2003)
+Tiene una atmósfera que parece grabada en un bosque y un ritmo que te hace pensar en el latido del corazón de la vida.
+La "música de la vida" única de Yokota flotando entre la naturaleza y la electrónica. Tiene un alto grado de perfección como obra maestra de su época posterior.
+
+---
+
+## Capítulo 4: Proyecto bajo el nombre de Anima Mundi
+
+"Anima Mundi" significa "alma del mundo" en latín.
+La serie de obras que Susumu Yokota desarrolló bajo este nombre fueron verdaderamente dignas de ese nombre.
+Las canciones se centran en drones, sonidos ambientales y estructuras armónicas, ampliando el espacio interior del oyente. No hay ritmo ni melodía. Sólo existe el "sonido que existe".
+
+Para Yokota, se podría decir que este nombre es un "canal que conecta el inconsciente y el universo".
+Si la música bajo el nombre Susumu Yokota es "poesía terrenal", Anima Mundi es "oración celestial".
+
+"Hebula" de 12 pulgadas es una canción techno que combina un sonido alucinante y de ensueño con ritmos y elementos tribales. Esta canción presenta efectos acústicos complejos y texturas sonoras de múltiples capas, que transportan a los oyentes a otro mundo.
+
+#### Lista de canciones
 ```md
 A1. Hebula
 
@@ -95,57 +97,57 @@ B2. Spring
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## 第5章：国際的評価と影響
-
-2000年代初頭、Susumu Yokotaは欧米のアンビエント／エレクトロニカ・シーンで高く評価された。  
-特に『Sakura』は、Boards of CanadaやFennesz、Biosphereと並び称されるほどの完成度を誇った。  
-その美しさはジャンルの境界を越え、ポストクラシカルや瞑想音楽にも影響を与えた。
-
-また、Aphex TwinやFour Tetらが彼の作品を支持していたことも知られている。  
-海外では「日本が生んだブライアン・イーノ」と評されたが、実際のヨコタの音楽は、より感情的で詩的であった。
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第6章：ライブと身体性
+## Capítulo 5: Reputación e impacto internacional
 
-ヨコタのライブは、単なる再現ではなく「空間そのものを奏でる」試みだった。  
-彼は照明や映像を極力排し、音が持つ“空気の密度”で空間を変容させた。  
-観客は音の粒に包まれ、時の感覚を失う。まるで一人一人が音の中に溶けていくような体験だった。
+A principios de la década de 2000, Susumu Yokota fue muy aclamado en la escena ambiental y electrónica europea y americana.
+En particular, "Sakura" alardeaba de tal nivel de perfección que fue clasificada junto a las Juntas de Canadá, Fennesz y Biosphere.
+Su belleza trascendió las fronteras del género e influyó en la música posclásica y meditativa.
 
-その姿勢は、テクノのダンス的身体性と、アンビエントの瞑想性を同時に成立させる稀有な例だった。
-
----
-
-## 第7章：横田進の音楽哲学
-
-横田の音楽哲学は、簡潔に言えば「音の中に生命を見出す」ことだ。  
-彼にとって音は素材ではなく、生きている存在だった。  
-だからこそ、彼の作品には人工的な冷たさがない。電子音であっても、どこか草木のように温かい。
-
-彼の音楽はまた、時間に対する詩的な探求でもある。  
-時間が“流れる”のではなく、“たゆたう”ように感じられる。  
-その流れの中で、聴き手は自己を忘れ、音と一体化していく。
+También se sabe que Aphex Twin y Four Tet apoyaron su trabajo.
+En el extranjero, lo describían como "Brian Eno de Japón", pero la música de Yokota era en realidad más emotiva y poética.
 
 ---
 
-## 第8章：遺産と現代への継承
+## Capítulo 6: Vida y fisicalidad
 
-2015年に彼がこの世を去ったとき、多くのファンやミュージシャンがその喪失を嘆いた。  
-だが、彼の音楽は今も静かに息づいている。Bandcampや再発盤を通じて、新たな世代が彼の音に触れ続けている。  
-Ambient, Drone, Minimalといったジャンルを越え、彼の音楽は“聴く瞑想”として再発見されている。
+La actuación en vivo de Yokota no fue sólo una recreación, sino un intento de "representar el espacio mismo".
+Eliminó al máximo la iluminación y las imágenes y transformó el espacio utilizando la "densidad del aire" del sonido.
+El público queda envuelto en partículas de sonido y pierde el sentido del tiempo. Fue una experiencia en la que sentí como si cada persona se fundiera con el sonido.
 
-また、現代のアンビエント作家たち——例えばChihei HatakeyamaやHiroshi Ebinaらにも、ヨコタの精神は確実に受け継がれている。
+Su postura fue un raro ejemplo de combinación de la fisicalidad bailable del techno con la naturaleza meditativa del ambient.
 
 ---
 
-## ディスコグラフィー（主要作品）
+## Capítulo 7: La filosofía musical de Susumu Yokota
+
+La filosofía musical de Yokota, en pocas palabras, es "encontrar vida en el sonido".
+Para él, el sonido no era sólo un material, sino una entidad viva.
+Por eso sus obras no tienen ninguna frialdad artificial. Aunque es un sonido electrónico, tiene una sensación cálida y vegetal.
+
+Su música es también una exploración poética del tiempo.
+El tiempo no parece "fluir", sino más bien "oscilar".
+En este flujo, el oyente se olvida de sí mismo y se vuelve uno con el sonido.
+
+---
+
+## Capítulo 8: El patrimonio y su continuación hasta nuestros días
+
+Cuando falleció en 2015, muchos fans y músicos lamentaron su pérdida.
+Sin embargo, su música sigue viva en silencio. Las nuevas generaciones siguen expuestas a su sonido a través de Bandcamp y reediciones.
+Su música trasciende géneros como Ambient, Drone y Minimal, y está siendo redescubierta como "meditación auditiva".
+
+Además, el espíritu de Yokota ciertamente ha sido heredado por artistas ambientales contemporáneos como Chihei Hatakeyama e Hiroshi Ebina.
+
+---
+
+## Discografía (obras principales)
 
 | 年 | タイトル | 名義 | 解説 | リンク |
 |----|------------|--------|------|---------------|
@@ -161,11 +163,11 @@ Ambient, Drone, Minimalといったジャンルを越え、彼の音楽は“聴
 
 ---
 
-## 第9章：結語 — 無音の中に宿る音楽
+## Capítulo 9: Conclusión — Música en silencio
 
-ススム・ヨコタの音楽は、派手なメロディやビートではなく、「無音」と「余白」で語られる。  
-その沈黙の中には、都市のノイズ、自然の呼吸、そして人間の記憶が宿っている。  
-彼が残した音楽は、単なる作品群ではなく、**聴く者自身の内側を映す鏡**である。
+La música de Susumu Yokota no se cuenta a través de melodías y ritmos llamativos, sino a través del silencio y los espacios en blanco.
+En ese silencio habita el ruido de la ciudad, el aliento de la naturaleza y la memoria humana.
+La música que dejó no es sólo una colección de obras, sino un espejo que refleja el yo interior del oyente.
 
-音が消えた後にも、心の中に何かが残る——。  
-それこそが、Susumu Yokotaという音楽家が世界に遺した最大の“響き”なのだ。
+Incluso después de que el sonido desaparece, algo permanece en mi corazón.
+Ese es el mayor "sonido" que el músico Susumu Yokota dejó al mundo.

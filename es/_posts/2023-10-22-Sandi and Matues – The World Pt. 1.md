@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Sandi and Matues – The World Pt. 1.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Sandi and Matues – The World Pt. 1/
 tags:
 - Soul
 - Funk
 - 7inch
-title: Sandi & Matues – The World Pt. 1
+title: Sandi & Matues - El mundo pt. 1
 ---
 
 
-「Sandi & Matues – The World Pt. 1 」の原盤は、レアファンクDJ KEB DARGE(ケブ・ダージ)しか所有していないという噂もある稀少盤。
+La versión original de "Sandi & Matues – The World Pt. 1" es un disco poco común que se rumorea que solo pertenece al raro DJ de funk KEB DARGE.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Sandi & Matues – The World Pt. 1
 
 B. The Trinikas – Remember Me
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51407200617?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51407200617?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PGJVfBWYtP0?si=GnVUclVkwKuRwtD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PGJVfBWYtP0?si=GnVUclVkwKuRwtD8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

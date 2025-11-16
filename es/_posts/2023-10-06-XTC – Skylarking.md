@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/XTC – Skylarking.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-XTC – Skylarking/
 tags:
 - Rock
 - Pops
-title: XTC – Skylarking
+title: XTC - Alardeando
 ---
 
 
-「Skylarking」は、XTCのアルバムの中でも最も評価され、彼らの代表作として広く認知されています。アルバムはポップ、ロック、フォーク、プログレッシブ・ロックの要素を巧みに組み合わせた音楽スタイルであり、洗練されたメロディと深い歌詞が特徴です。
+"Skylarking" es el más aclamado de los álbumes de XTC y es ampliamente reconocido como su obra maestra. El álbum es un estilo musical que combina hábilmente elementos de pop, rock, folk y rock progresivo, y se caracteriza por melodías sofisticadas y letras profundas.
 
-アルバムにはヒット曲となった「Dear God」や「Grass」そして「The Meeting Place」などが収録されています。これらの曲は、XTCの独自のサウンドとリリックの鮮やかさが際立ち、聴衆に強い印象を与えました。
+El álbum incluye los éxitos "Dear God", "Grass" y "The Meeting Place". Estas canciones causaron una fuerte impresión en la audiencia, destacando el sonido único y las letras vívidas de XTC.
 
-アルバム全体としても統一感があり、コンセプトを持った作品となっています。宗教、自然、人間の関係など、さまざまなテーマが探求されており、その深い意味と思索を感じることができます。
+El álbum en su conjunto tiene un sentido de unidad y es un trabajo con un concepto. Se exploran varios temas como la religión, la naturaleza y las relaciones humanas, y puedes sentir el significado y el pensamiento profundos.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Summer's Cauldron
 
@@ -49,7 +50,7 @@ B6. Dying
 B7. Sacrificial Bonfire
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nErBEvTIvfo?si=gpz7OHADto7OjeWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nErBEvTIvfo?si=gpz7OHADto7OjeWY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Anthony Flanagan – Never Enough.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Anthony Flanagan – Never Enough/
 tags:
 - House
 - Deep House
-title: Anthony Flanagan – Never Enough
+title: Anthony Flanagan – Nunca es suficiente
 ---
 
 
-Anthony Flanagan(アンソニー・フラナガン )はNYを拠点にしたシンガーで、90年代後半から2000年代初頭にかけてDennis Ferrer(デニス・フェレル )と共に活動していました。
+Anthony Flanagan es un cantante radicado en Nueva York que trabajó con Dennis Ferrer desde finales de los 90 hasta principios de los 2000.
 
-「Never Enough」の作詞、プロデューサー、編曲は、「The Shelter」(92年) でNYのハウスシーンを賑わしたKerri Chandler(ケリー・チャンドラー)。
+La letra, el productor y los arreglos de "Never Enough" fueron escritos por Kerri Chandler, quien sacudió la escena house de Nueva York con "The Shelter" (1992).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Never Enough (Kerri's Main Mix)
 
@@ -27,7 +28,7 @@ B1. Never Enough (Dennis F.'s Satisfied Mix)
 B2. Never Enough (Dennis F's Aggravated Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90769743680?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90769743680?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9R1sZdr-3KQ?si=cm5gk5lMVtvbqNNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9R1sZdr-3KQ?si=cm5gk5lMVtvbqNNc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

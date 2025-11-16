@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Tangerine Dream – Thief.webp
 lang: es
 layout: post
+permalink: /es/2025-06-30-Tangerine Dream – Thief/
 tags:
 - Soundtrack
 - Ambient
 - 80s
-title: Tangerine Dream – Thief
+title: Sueño Mandarina – Ladrón
 ---
 
 
-1981年に公開されたマイケル・マンの初映画監督作品(原作フランク・ホヒマーの小説)『ザ・クラッカー/真夜中のアウトロー』（原題: Thief）のオリジナルサウンドトラック。日本盤。
+Banda sonora original de la primera película de Michael Mann como director (título original: Thief), estrenada en 1981 (título original: Thief) (basada en la novela de Frank Hochmer). Edición japonesa.
 
-音楽を担当したTangerine Dream(ダンジェリンドリーム)は、1967年にEdgar Froese(エドガー・フローゼ)によって結成されたドイツのエレクトロニックミュージックバンド。CAN(カン)、Amon Düül II(アモン・デュールII)、Kraftwerk(クラフトワーク)、NEU!(ノイ!)らとともにクラウトロックの代表的バンドの一つとして知られている。
+Tangerine Dream, quien estuvo a cargo de la música, es una banda alemana de música electrónica formada en 1967 por Edgar Froese. Junto con CAN, Amon Düül II, Kraftwerk y NEU!, son conocidos como una de las bandas líderes de krautrock.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Beach Theme
 A2. Dr. Destructo
@@ -30,7 +31,7 @@ B3. Trap Feeling
 B4. Igneous
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DTXRcBrbUW8?si=VF2Kh_FIDIrxiSbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTXRcBrbUW8?si=VF2Kh_FIDIrxiSbl" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

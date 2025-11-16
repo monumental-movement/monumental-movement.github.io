@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Mike and Rich – Expert Knob Twiddlers.webp
 lang: es
 layout: post
+permalink: /es/2025-02-26-Mike and Rich – Expert Knob Twiddlers/
 tags:
 - Downtempo
 - Experimental
 - Ambient
 - 90s
-title: Mike & Rich – Expert Knob Twiddlers
+title: Mike & Rich - Expertos en juegos de perillas
 ---
 
 
-Mike & Richの『Expert Knob Twiddlers』（1996年）は、エイフェックス・ツイン（Aphex Twin）ことRichard D. Jamesとµ-ZiqことMike Paradinasという、90年代エレクトロニック・ミュージックシーンを牽引した二人の鬼才によるコラボレーションアルバム。
+"Expert Knob Twiddlers" de Mike & Rich (1996) es un álbum colaborativo de Richard D. James, también conocido como Aphex Twin, y Mike Paradinas, también conocido como µ-Ziq, dos genios que lideraron la escena de la música electrónica en los años 90.
 
-制作は1994年のワールドカップ期間中に数日間で終わり、酒に酔った状態でのジャムセッションから生まれたとされています。この背景が、音楽に漂う軽妙で奔放な雰囲気を形作っています。
+La canción fue creada durante unos días durante la Copa del Mundo de 1994 y se dice que nació de una improvisación borracha. Este fondo crea una atmósfera ligera y de espíritu libre en la música.
 
-Paradinasが「イージーリスニングとファンクのアップデート版」と形容したように、70年代のラウンジミュージックやエレベーター音楽を思わせるメロディが、歪んだビートやアナログシンセの奇抜な音色と融合しています。
+Descrito por Paradinas como "una versión actualizada de easy listening y funk", las melodías que recuerdan a la música lounge de los 70 y la música de ascensor se fusionan con ritmos distorsionados y los tonos caprichosos de los sintetizadores analógicos.
 
-これらのトラックは、両者の持ち味であるAphex Twinの予測不能な実験性とµ-Ziqのメロディアスな構造が融合した結果であり、単なる「打ち込み音楽」を超えた音の冒険を感じさせます。
+Estos temas son el resultado de una combinación del experimentalismo impredecible de Aphex Twin y la estructura melódica de µ-Ziq, creando una aventura sonora que va más allá de la mera "música escrita".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Mr Frosty
 2. Jelly Fish
@@ -36,7 +37,7 @@ Paradinasが「イージーリスニングとファンクのアップデート�
 10. Bu Bu Bu Ba
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

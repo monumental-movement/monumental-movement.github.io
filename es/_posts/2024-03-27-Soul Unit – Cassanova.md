@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Soul Unit – Cassanova.webp
 lang: es
 layout: post
+permalink: /es/2024-03-27-Soul Unit – Cassanova/
 tags:
 - Hiphop
 - Latin
 - 00s
-title: Soul Unit – Cassanova
+title: Unidad del Alma – Cassanova
 ---
 
 
-ソウルユニットによるEP 「カサノバ」に収録されているのは、The Pharcyde（ファーサイド）のトラックメイカーSpaceboy Boogie X（スペースボーイブギーX）がプロデュースしたラテン・ヒップホップトラック。
+El EP de la unidad de soul, "Casanova", incluye una pista de hip-hop latino producida por el creador de pistas de The Pharcyde, Spaceboy Boogie X.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Cassanova (Dirty)
 
@@ -32,5 +33,5 @@ B3. Pure As Gold (Clean)
 B4. Pure As Gold (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82257965192?afid=6142608987){: .button1}
 

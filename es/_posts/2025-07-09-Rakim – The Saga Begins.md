@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Rakim – The Saga Begins.webp
 lang: es
 layout: post
+permalink: /es/2025-07-09-Rakim – The Saga Begins/
 tags:
 - Hiphop
-title: Rakim – The Saga Begins
+title: Rakim – Comienza la saga
 ---
 
 
-「The Saga Begins」は、1997年にリリースされたRakimのソロデビューアルバム「The 18th Letter ザ・エイティーンス・レター」からのシングルカット（ブートレッグ盤）。プロデューサーはPete Rock（ピート ロック）。
+"The Saga Begins" es un sencillo (versión pirata) del álbum debut en solitario de Rakim "The 18th Letter" lanzado en 1997. El productor es Pete Rock.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Saga Begins (Vocal)
 
 B1. The Saga Begins (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33228716075?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m33228716075?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6GV-Pv0saU?si=Gvh3I4aot9rhhgVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6GV-Pv0saU?si=Gvh3I4aot9rhhgVA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Grant Nelson – Seasons Of Jack.webp
 lang: es
 layout: post
+permalink: /es/2023-11-03-Grant Nelson – Seasons Of Jack/
 tags:
 - House
-title: Grant Nelson – Seasons Of Jack
+title: Grant Nelson - Temporadas de Jack
 ---
 
 
-Grant Nelson（グラント ネルソン
-）は、ロンドン出身のDJ/プロデューサーであり、Nice 'N' Ripe and Swing City Recordsの共同創設者&Freeze Driedのオーナー。
+Nelson Nelson
+) es un DJ/productor de Londres, cofundador de Nice 'N' Ripe y Swing City Records y propietario de Freeze Dried.
 
-グラント・ネルソンは、90年代のUKガレージシーンで活躍し、ハウス/ガレージプロデューサーとしても知られている。
+Grant Nelson estuvo activo en la escena garage del Reino Unido en los años 90 y también es conocido como productor de house/garage.
 
-A面、B面共に、スペインのミュージシャン・DJ のJesse Garcia(ジェシー・ガルシア)のremixを収録。
+Tanto la cara A como la B incluyen remezclas del músico y DJ español Jesse García.
 
-「Seasons Of Jack」は、2007年にUKを拠点とするレーベルBoss Recordsよりリリースされたハウス・エレクトロトラック。
+"Seasons Of Jack" es una pista de house electro lanzada por el sello británico Boss Records en 2007.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Seasons Of Jack (Original Mix)
 
@@ -31,7 +32,7 @@ B1. Seasons Of Jack (Jesse Garcia Electro Mix)
 B2. Seasons Of Jack (DJ Tool)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24953586497?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24953586497?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Fniok7hdME?si=WonT5o2x0sKvYr_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Fniok7hdME?si=WonT5o2x0sKvYr_n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

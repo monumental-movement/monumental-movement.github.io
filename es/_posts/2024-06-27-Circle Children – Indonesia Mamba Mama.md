@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Circle Children – Indonesia Mamba Mama.webp
 lang: es
 layout: post
+permalink: /es/2024-06-27-Circle Children – Indonesia Mamba Mama/
 tags:
 - House
 - Tribal House
 - 90s
-title: Circle Children – Indonesia  Mamba Mama
+title: Círculo de niños – Indonesia Mamba Mama
 ---
 
 
-Circle Childrenは、USのDJ・プロデューサーArmand Van Helden（アーマンド・ヴァン・ヘルデン）の別名義の一つ。
+Circle Children es uno de los alias del DJ y productor estadounidense Armand Van Helden.
 
-「 Indonesia / Mamba Mama」は、ハウスレーベルStrictly Rhythmから1993年にリリースされたハウス・トライバルハウストラック。エグゼクティブプロデューサーは、Strictly Rhythmの共同創設者Gladys Pizarro。
+"Indonesia / Mamba Mama" es una canción house/tribal house lanzada en 1993 por el sello house Strictly Rhythm. La productora ejecutiva es la cofundadora de Strictly Rhythm, Gladys Pizarro.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Sambal Side
 A1. Indonesia (Sambal Badjak Mix)
@@ -28,7 +29,7 @@ B1. Mamba Mama (Passion Mix)
 B2. Mamba Mama (Armand's New School Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82658729111?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82658729111?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v2HtX6854ZQ?si=A8dmFg7_3rTo976K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v2HtX6854ZQ?si=A8dmFg7_3rTo976K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

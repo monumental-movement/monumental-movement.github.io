@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Casper & Karim – U Have Control Passion5.webp
 lang: es
 layout: post
+permalink: /es/2025-08-21-Casper and Karim – U Have Control Passion5/
 tags:
 - Hard House
 - House
 - 00s
-title: Casper & Karim – U Have Control / Passion5
+title: Casper & Karim – Tienes el control / Pasión5
 ---
 
 
-UK出身のハードハウスDJ／プロデューサーChris Payne（Casper）と、ハードハウスやテクノのシーンで活躍するUK出身のDJ／プロデューサーKarim Lamouri（Karim）によるHardHouse。
+HardHouse fue creado por Chris Payne (Casper), un DJ/productor de hard house del Reino Unido, y Karim Lamouri (Karim), un DJ/productor del Reino Unido activo en las escenas de hard house y techno.
 
-2003年にNRGに特化したUK Hard DanceレーベルPassion Recordsからリリースされた。
+Fue lanzado en 2003 en Passion Records, un sello de Hard Dance del Reino Unido especializado en NRG.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Casper & Karim – U Have Control
 
@@ -29,7 +30,7 @@ B. Casper – Passion5
 Written-By – Chris Payne
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23594485609?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23594485609?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWkV_bSpObI?si=pE-HPxjLMwVX9-kE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWkV_bSpObI?si=pE-HPxjLMwVX9-kE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

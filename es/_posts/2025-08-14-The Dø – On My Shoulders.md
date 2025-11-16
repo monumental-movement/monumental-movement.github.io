@@ -5,32 +5,33 @@ categories:
 image: ../assets/images/The Dø – On My Shoulders.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-The Dø – On My Shoulders/
 tags:
 - House
 - Minimal
 - 00s
-title: The Dø – On My Shoulders
+title: El Dø – Sobre mis hombros
 ---
 
 
-The Døは、2005年にパリで結成されたフィンランド系フランスのインディーポップバンド。メンバーはOlivia Merilahti&Dan Levy。2008年リリースした1stスタジオアルバム『A Mouthful』は、フランスのチャートでトップになるなど世界的にもヒットした。
+The Dø es una banda de indie pop finlandesa-francesa formada en París en 2005. Los miembros son Olivia Merilahti y Dan Levy. Su primer álbum de estudio, "A Mouthful", lanzado en 2008, fue un éxito mundial y encabezó las listas francesas.
 
-このレコードは、1stシングル「On My Shoulders」のHouse／Minimalミックス。2009年にレーベルVoidcomからリリースされた。
+Este disco es una mezcla House/Minimal del primer sencillo "On My Shoulders". Fue lanzado en 2009 en el sello Voidcom.
 
-A面は、フレンチDJ／プロデューサーAlexkid(Alexis Mauri)とドイツのHouse DJデュオM.A.N.D.Y.(DJ Pat Bo& Phil D. Young)
-によるmix。
+El lado A presenta al DJ y productor francés Alexkid (Alexis Mauri) y al dúo alemán de DJ House M.A.N.D.Y. (DJ Pat Bo y Phil D. Young).
+mezclar por.
 
-B面は、Alexkid(Alexis Mauri)とPhilipp Jungによるmix。
+La cara B es una mezcla de Alexkid (Alexis Mauri) y Philipp Jung.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. On My Shoulders (Head&Shoulders Dub Club Reprise)
 
 B. On My Shoulders (Radio Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95424112713?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95424112713?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3bnd0BUxDQo?si=yoRqP2b2gUmy1Oxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3bnd0BUxDQo?si=yoRqP2b2gUmy1Oxo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

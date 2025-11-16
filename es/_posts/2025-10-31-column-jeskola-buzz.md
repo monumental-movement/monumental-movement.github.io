@@ -5,245 +5,247 @@ categories:
 image: ../assets/images/column-jeskola-buzz.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-column-jeskola-buzz/
 tags:
 - Jeskola Buzz
 - DAW
 - Software
 - Tracker
-title: 【コラム】 Jeskola Buzz の遺した爪痕：自由と実験精神が生んだ電子音楽の奇跡
+title: '[Columna] El legado de Jeskola Buzz: El milagro de la música electrónica nacido
+  de la libertad y el espíritu experimental'
 ---
 
 
-## 1. はじめに：1990年代のPC音楽シーンと Buzz の登場
+## 1. Introducción: la escena musical de PC de los años 90 y el surgimiento de Buzz
 
 
-文：mmr｜テーマ：Buzz の技術的特徴と歴史をたどり、次にユーザー／コミュニティの視点から “何が可能だったか” を整理し、さらに具体的なアーティストの利用例やその音楽的影響を辿る
+Texto: mmr｜Tema: Traza las características técnicas y la historia de Buzz, luego organiza lo que fue posible desde la perspectiva del usuario/comunidad y traza ejemplos específicos del uso de los artistas y su influencia musical.
 
-1990年代半ば、電子音楽／PC音楽制作の世界は大きな転換期を迎えていた。従来、ハードウェア・シンセサイザー、専用機器、レコーディングスタジオが中心であり、個人が自由に曲を制作・発表する環境は限られていた。だが、PC（Windows）とソフトウェア技術の進展により、「自宅でも自由に音を作れる時代」が本格化し始める。
+A mediados de la década de 1990, el mundo de la producción musical electrónica y para PC se encontraba en un importante punto de inflexión. Tradicionalmente, los sintetizadores de hardware, los equipos dedicados y los estudios de grabación eran el foco principal, lo que limitaba el entorno en el que los individuos podían producir y presentar canciones libremente. Sin embargo, los avances en la tecnología de PC (Windows) y de software han marcado el comienzo de una era en la que las personas pueden crear sonidos libremente en casa.
 
-そんな中、1997年頃（あるいはそれ以前にアルファ版があったとされる）に登場したのが、フィンランドの開発者 Oskari Tammelin による「Jeskola Buzz」である。 
-Buzz は、Windows 用のフリーウェア（無料配布）モジュラー・トラッカー／シーケンサーとして、多数のユーザーに支持された。その最大の魅力は、「音源（ジェネレータ）／エフェクト（マシン）／ルーティング（配線）を自由に組んで、いわばソフトウェア上に“モジュラー機材”を再現できる」環境だった。
+Mientras tanto, "Jeskola Buzz" del desarrollador finlandés Oskari Tammelin apareció alrededor de 1997 (o se dice que tuvo una versión alfa antes).
+Buzz es un rastreador/secuenciador modular gratuito (distribución gratuita) para Windows que ha sido compatible con muchos usuarios. La mayor atracción era el entorno en el que "las fuentes de sonido (generadores), los efectos (máquinas) y el enrutamiento (cableado) podían ensamblarse libremente para recrear "equipos modulares" en software".
 
-この「モジュラー＋トラッカー」という構成が、当時のGUI中心のDAW（デジタルオーディオワークステーション）とは異なり、“実験性”や“パッチ的”なアプローチを許し、自由度の高い音響探索を生んだ。そして、Buzz は単に“音を作るソフト”を超えて、個人がマシンを自作・拡張し、コミュニティとともに進化させていく「文化圏」を形成した。今ではその流れが、ソフト・モジュラー環境、プラグイン文化、さらにはハード・モジュラー回帰にも影響を与えたと見る向きもある。
+Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura enchufable e incluso un retorno a la modularidad estricta.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 2. Jeskola Buzz の誕生と進化
+## 2. Nacimiento y evolución de Jeskola Buzz
 
-Buzz の歴史をたどると、まず開発者 Oskari Tammelin によって開発が始まり、1990年代後半にフリー公開された。公式には “Jeskola Buzz is a freeware modular software music studio environment …” と定義されています。
-特徴的なのは、ソフトウェア自体が「マシン（音源・エフェクト）＋ルーティング（ケーブル的接続）＋トラッカー・シーケンサー（縦方向にパターンを並べる方式）」という構成をとっていた点である。
+Siguiendo la historia de Buzz, fue desarrollado por primera vez por el desarrollador Oskari Tammelin y lanzado de forma gratuita a finales de los años 1990. Definido oficialmente como “Jeskola Buzz es un entorno de estudio de música de software modular gratuito…”
+Lo que lo distinguía era que el software en sí consistía en una máquina (fuente de sonido/efectos) + enrutamiento (conexión de cable) + rastreador/secuenciador (un método para organizar patrones verticalmente).
 
-### 初期バージョンからの変遷
+### Cambios desde la versión inicial
 
-* 初期：Windows 95／98 上で稼働。軽量で、トラッカー風のパターン編集画面とモジュラー・ビュー（Machine View）を備えていた。
-* プラグイン・エコシステム：開発当初からユーザーが音源・エフェクトを自由に作成・配布できる「Buzzlib」仕様があり、多数のマシンがコミュニティから登場した。
-* バージョンアップ：公式開発が一時停滞した（ソースコード紛失のため）時期もあったが、2008年6月に開発再開がアナウンスされた。
-* 最終ビルド：Build 1503 が 2016年1月16日付でリリースされています。
+* Inicial: Se ejecuta en Windows 95/98. Era liviano y tenía una pantalla de edición de patrones similar a un rastreador y una vista modular (Machine View).
+* Ecosistema de complementos: desde el comienzo del desarrollo, ha existido una especificación "Buzzlib" que permite a los usuarios crear y distribuir libremente fuentes y efectos de sonido, y han aparecido muchas máquinas en la comunidad.
+* Actualización de la versión: el desarrollo oficial se estancó temporalmente (debido a la pérdida del código fuente), pero en junio de 2008 se anunció que el desarrollo se reanudaría.
+*Última compilación: compilación 1503 lanzada el 16 de enero de 2016.
 
-### 名前の意味／背景
+### Significado del nombre/antecedentes
 
-“Jeskola” は、開発者のデモシーンでの活動名「Jeskola/Finland」からとられたとされる。デモシーン（コンピュータグラフィックス・音楽を含むアンダーグラウンドのプログラミング／アート文化）出身のソフトウェアであったため、Buzz 自体にも “トラッカー” や “モジュラー” といったデモ／AMIGA 系の匂いが色濃く残っていた。
+Se dice que “Jeskola” fue tomado del nombre de la escena de demostración del desarrollador, “Jeskola/Finland”. Debido a que era un software que se originó en la demoscene (programación underground/cultura artística que incluye gráficos por computadora y música), Buzz en sí tenía un fuerte sabor demo/AMIGA, como "tracker" y "modular".
 
-### なぜ “モジュラー＋トラッカー” が画期的だったか
+### Por qué “modular + tracker” fue revolucionario
 
-* 従来、トラッカーは “サンプルを縦スクロール形式で並べてシーケンスする” 方式が主流で、音源＆エフェクトのルーティングは固定的／限定的であった。Buzz はこれを“パッチケーブル的”概念まで拡張し、ユーザーが自分で “音源 → フィルター →エフェクト →出力” という回路を組めるようにした。
-* さらに、軽量で、リアルタイムにパラメータを操作できたため、実験的な音響作品を作る土台として好まれた。
-* 無償配布／ユーザー拡張可能、というオープン・スピリットが、個人クリエイターに「自分で改変して音を作る／共有する」文化を促した。
+* Convencionalmente, el método principal de los trackers era secuenciar muestras en un formato de desplazamiento vertical, y el enrutamiento de fuentes y efectos de sonido era fijo/limitado. Buzz amplió este concepto para incluir un concepto de "cable de conexión", que permite a los usuarios crear sus propios circuitos como "fuente de sonido -> filtro -> efecto -> salida".
+* Además, era liviano y sus parámetros podían manipularse en tiempo real, lo que lo convertía en una base popular para crear obras sonoras experimentales.
+* El espíritu abierto de la distribución gratuita y la extensibilidad del usuario ha alentado a los creadores individuales a crear una cultura de "modificar sus propios sonidos para crearlos/compartirlos".
 
-このように、Buzz は「PC上でモジュラー環境を実現する」という当時としては異端かつ革新的な役割を果たした。
-
----
-
-## 3. Buzz の技術的革新：モジュラー式シーケンサーとプラグイン文化
-
-この章では、Buzz の「何が技術的に革新だったか」を細かく整理する。
-
-### 3.1 音源・エフェクトが “マシン（Machine）” 単位で扱える
-
-Buzz では、音を生み出す“ジェネレータ（Generator）”マシン、音を加工する“エフェクト（Effect）”マシンが用意されており、ユーザーはそれらを “Machine View” 上で配置・接続できた。
-たとえば、波形生成マシン（Oscillator）／サンプラーマシン（Sampler） → フィルター → エンベロープ／LFO → リバーブ／ディレイ → 出力、という流れを可視化して構築できた。
-この構成は、従来のトラッカー／シーケンサーではあまり見られなかった「自由な配線（ルーティング）」を可能にした。
-
-### 3.2 トラッカー形式＋モジュラー接続
-
-Buzz は “Tracker” と呼ばれるパターン／シーケンサー形式をベースとしており、列（トラック）／行（パターン）を用いたテキスト的な編集も可能だった。さらに、モジュラー的信号の流れ（マシン間接続）を併用することで、トラッキングとモジュラー音響処理を融合させていた。
-このため、「サンプラーでループを鳴らしながら、フィルターやエフェクトをパッチケーブルで切り替える」という音響探求が、比較的軽量なPC環境で実現可能になった。
-
-### 3.3 プラグイン／コミュニティ拡張のエコシステム
-
-Buzz のもう一つの革新は、膨大なユーザー作成マシン（音源・エフェクトプラグイン）の存在である。公式には “Buzzlib” という開発用ヘッダーが提供され、ユーザーは無償でプラグインを制作・配布できた。
-このことにより、次のような流れが生じた：
-
-* 個人開発者が音源／エフェクトを公開し、それをダウンロードして組み込むだけで新しい音／処理が楽しめる。
-* 「どこまでぶっ飛んだ回路を作れるか」「どれだけ実験的な音を得られるか」というチャレンジ精神がユーザーに芽生えた。
-* 音楽ジャンルを横断する／実験的な作品を作る人たちが、Buzzを“道具”として選択するケースが増えた。
-
-### 3.4 軽量・即時性・実験環境としての優位性
-
-当時のPC環境（Windows 95／98、Atom／初期Pentiumクラス）でも比較的快適に動作でき、リアルタイムで音を変えることも可能だった。さらに、トラッカー形式ゆえに「マウス・キーボードだけで高速にパターンを打てる」「即興演奏・ライブっぽい展開も可能」という利点があった。
-この点が、「機材もスタジオもないけど、自宅で音を探りたい」というクリエイター群にとって非常に魅力的だった。
+De esta manera, Buzz jugó un papel herético e innovador en ese momento al "realizar un entorno modular en una PC".
 
 ---
 
-## 4. コミュニティの力：ユーザー拡張とサブカルチャー形成
+## 3. Innovación de Buzz: secuenciador modular y cultura de complementos
 
-Buzz のもう一つの重要な側面は、「ユーザー・コミュニティによる支援／共有／拡張」が活発だったことである。この章では、コミュニティがどのようにBuzzを“ただのソフト”以上の存在に押し上げたかを見ていく。
+En este capítulo analizaremos en detalle "lo que era tecnológicamente innovador" de Buzz.
 
-### 4.1 無償プラグイン共有と音源マーケット的文化
+### 3.1 Las fuentes y efectos de sonido se pueden manejar en unidades “máquinas”
 
-Buzz のユーザーは、音源マシン／エフェクトマシンを制作して、フォーラム・Webサイトで無償配布していた。例えば、BuzzMachines.com やデモシーン系フォーラムに多数のマシンが掲載された。
-これは、「誰かが作ったマシンをダウンロードして、自分の曲に挿して使う」ことを当たり前にした。つまり、“ユーザーが機材（ソフト機材）を創る→そして友だちやネットで共有する”という循環が生まれた。
+Buzz tiene una máquina "Generadora" que produce sonido y una máquina de "Efectos" que procesa el sonido, y los usuarios pueden organizarlas y conectarlas en la "Vista de Máquina".
+Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
+Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
 
-### 4.2 デモシーンとの深い関係
+### 3.2 Formato Tracker + conexión modular
 
-Buzz は、北欧・東欧を中心にデモシーン（コンピュータ・アート／音楽の非商業的実験文化）で人気を博した。デモシーンでは“どれだけ少ないリソースで奇抜な音／映像を出せるか”が競われるため、Buzz の軽量・拡張性・パッチ可能性はまさに好適だった。
-このため、Buzz 上で “音源を自作してパターンを打つ” というスタイルが、多くのデモ／インディー・クリエイターに支持された。
+Buzz se basó en un formato de patrón/secuenciador llamado "Tracker", y la edición similar a un texto también era posible usando columnas (pistas) y filas (patrones). Además, mediante el uso de un flujo de señal modular (conexiones de máquina a máquina), se combinaron el seguimiento y el procesamiento de sonido modular.
+Como resultado, la exploración sonora de "reproducir un loop con un sampler y cambiar filtros y efectos usando un cable de conexión" se hizo posible en un entorno de PC relativamente liviano.
 
-### 4.3 オンラインフォーラム・チュートリアルの形成
+### 3.3 Ecosistema de extensión comunitaria/complemento
 
-Buzz に関する使い方、マシン配線のコツ、サンプル処理／エフェクトチェインの構築例などが、フォーラムやブログ、YouTube に蓄積された。結果として、初心者でも「Buzz で何ができるか」を比較的簡単に学べる環境が整った。
-この学びの文化は、“使い方を覚える／改造する／共有する”という流れを生み、Buzz を“道具”から“プラットフォーム”へと昇華させた。
+Otra innovación de Buzz es la existencia de una gran cantidad de máquinas creadas por los usuarios (generadores de sonido y complementos de efectos). Oficialmente, se proporcionó un encabezado de desarrollo llamado "Buzzlib", que permite a los usuarios crear y distribuir complementos de forma gratuita.
+Esto llevó a las siguientes tendencias:
 
-### 4.4 音楽ジャンルをまたぐ利用とサブカルチャーの創出
+* Los desarrolladores individuales publican fuentes/efectos de sonido, y usted puede disfrutar de nuevos sonidos/procesamiento simplemente descargándolos e incorporándolos.
+* Los usuarios comenzaron a asumir el desafío de "hasta dónde podían crear circuitos" y "cuánto sonido experimental podían conseguir".
+* Ha habido un aumento en el número de casos en los que las personas que crean obras experimentales que cruzan géneros musicales eligen Buzz como "herramienta".
 
-Buzz を使用するクリエイターたちは、テクノ・トランス・IDM・アンビエント・ブレイクコア・チップチューンなど、ジャンルを限定せずに使っていた。いわば「機材を選ばず、アイデアを先行させる」文化があった。
-例えば、“8ビット風PCM＋サンプラー＋フィルター＋ディレイ”という構成でチップチューン的な作品を作る人がいれば、“複数のサンプラー＋グリッチ処理＋高速パターン打ち”という構成でブレイクコアを作る人もいた。ユーザー間で“このマシン／この配線が良い”といったノウハウ交換も活発だった。
+### 3.4 Ligero, inmediato y superior como entorno experimental
 
-このように、Buzz のコミュニティは単なる“ソフトのユーザー”を超えて、「音響実験プラットフォームを共有する仲間たち」「自作マシンを配布・改変する文化圏」へと成長していった。
-
----
-
-## 5. Buzz を使ったアーティストたち：国内外の実例
-
-この章では、Buzz を実際に使用していた／使用が言及されているアーティストを取り上げ、そのエピソードを紹介する。確実に使用が確認できる者と、使用の可能性が言われている者を分けて記載する。
-
-### 5.1 確実に使用されている：James Holden
-
-James Holden は、Buzz を用いて音楽制作を行っていたことが複数のインタビューで言及されている。例えば、MusicRadar の記事では “When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*.” と述べられています。
-また、フォーラムの投稿でも「James Holden’s music … got me into it, he works extensively with (or at least used to) Buzz」などの記述があります。
-
-#### インタビュー風引用（再構成）
-
-> 「Buzz はその“モジュラー的な動き方”が僕にとって衝撃的だった。音源を繋いでいくその感じが、後々のモジュラー・シンセへの興味を引き起こしたんだ」
-> – James Holden（2006年インタビュー抜粋）
-
-このような証言から、Holden が初期の作品群（例： *The Idiots Are Winning*）を Buzz 上で制作したことはかなり信頼性が高い。Buzz を用いたことで、彼の音楽には「モジュラー的パッチング／自由なルーティング」「トラッカー形式による高速パターン編集」といった特徴が反映されていると分析できる。
-
-#### サンプルトラック解析（例）
-
-アルバム *The Idiots Are Winning* に収録されている “Blank It” 等のトラックを例に取ると、以下の点が Buzz 使用環境を想定させる：
-
-* 複雑なループ／サンプラー素材が並列に展開され、
-* モジュラー的なフィルター動作やLFO変調が見える（音響に“機械をいじってる感じ”がある）、
-* 縦パターン的な反復・細分化されたリズム構成がなされており、これはトラッカー形式での編集が容易であるBuzzならでは、と言える。
-
-このように、Holden の初期作品には、Buzz の特徴（モジュラー／トラッカー）と親和性の高い音響言語が存在している。
-
-### 5.2 使用の可能性が言及されている：Aphex Twin
-
-Aphex Twin（本名 Richard D. James）については、「Buzz を使用していた」という確固たる一次資料（公式インタビュー等）は見つかっておらず、フォーラム投稿やユーザー証言に “Buzz を使っていた／使っているかもしれない” という言及があるにとどまる。たとえば、KVR フォーラムでは「… my tracker of choice is Jeskola Buzz …」というユーザー発言とともに AFX（Aphex Twin）がトラッカー系ソフトを用いている可能性を示唆しています。
-また、HackerNews スレッドでは以下のように述べられています：
-
-> “I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing.” 
-
-
-### 5.3 その他利用アーティスト／国内クリエイター
-
-Wikipedia の該当記事には、Buzz を使用していた可能性のあるアーティストとして、Andreas Tilliander、The Field、Simon Viklund 等がリストされており、Buzz の「著名ユーザー候補」として紹介されています。
+Funcionaba con relativa comodidad en el entorno de PC de la época (Windows 95/98, Atom/primeros Pentium) y también era posible cambiar el sonido en tiempo real. Además, debido al formato de seguimiento, tenía la ventaja de poder ingresar patrones a alta velocidad usando solo un mouse y un teclado, y permitiendo presentaciones improvisadas y en vivo.
+Este punto resultaba muy atractivo para creadores que no tenían ningún equipo ni estudio, pero querían explorar sonidos en casa.
 
 ---
 
-## 6. Buzz の音楽的影響：ジャンルと表現の拡張
+## 4. El poder de la comunidad: expansión de usuarios y formación de subculturas
 
-この章では、Buzz が音楽ジャンル／表現方法にどのような影響を与えたかを整理する。
+Otro aspecto importante de Buzz fue que la comunidad de usuarios lo apoyó, compartió y amplió activamente. En este capítulo, veremos cómo la comunidad ha ayudado a hacer de Buzz algo más que una simple pieza de software.
 
-### 6.1 ジャンル横断の道具としてのBuzz
+### 4.1 Uso compartido gratuito de complementos y cultura de mercado de fuentes sólidas
 
-Buzz は、単にテクノやハウスのためのDAWではなく、以下のようなジャンル・用途において重要な役割を果たした：
+Los usuarios de Buzz creaban máquinas de fuentes de sonido/máquinas de efectos y las distribuían de forma gratuita en foros y sitios web. Por ejemplo, muchas máquinas se publicaron en BuzzMachines.com y en foros de demostraciones.
+Esto hizo que fuera común descargar la máquina de otra persona e insertarla en tus propias canciones. En otras palabras, nació un ciclo en el que "los usuarios crean equipos (equipos de software) y luego los comparten con amigos e Internet".
 
-* **ブレイクコア／IDM（知的ダンスミュージック）**：複雑なリズム、グリッチ処理、深いエフェクトチェインなどが用いられるジャンルであり、Buzz のモジュラー的接続とトラッカー形式が好適だった。
-* **チップチューン／8ビット系**：軽量で即興性が高い環境として、Buzz は「サンプラー＋波形生成＋フィルター」という構成を手早く試せる道具となった。
-* **アンビエント／実験音楽**：固定された拍子・構成を超えて、音響空間・テクスチャ・サウンドデザインを探求する場として、Buzz のパッチ可能性が活かされた。
-* **ライブパフォーマンス／インプロヴィゼーション**：先述の通り、軽量で反応性が高かったため、ラップトップ即興やライブセットのためのツールとしても使われた。
+### 4.2 Relación profunda con la demoscene
 
-### 6.2 音響表現の拡張：モジュラー思考の普及
+Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir con la menor cantidad de recursos posible.
+Por esta razón, el estilo de "crear tus propias fuentes de sonido y crear patrones" en Buzz fue apoyado por muchos creadores de demostraciones e independientes.
 
-Buzz が促した「モジュラー思考」（音を線的につなぐ・信号を自由に配線・即興で音を変化させる）は、従来の「トラック＋ミキサー＋エフェクトチェイン」というスタイルを超え、より“有機的・動的”な音響探求を可能にした。
-この記事誌に載った “Dreaming Of Wires” では、James Holden が以下のように語っています：
+### 4.3 Formación de un foro/tutorial en línea
 
-> “Buzz was pretty modular in how it worked … that way of visualising my audio chain just stuck. I got into the habit of only working with wonky, unreliably patched messes.” ([Attack Magazine][8])
+Se ha acumulado información sobre cómo utilizar Buzz, consejos sobre cableado de máquinas, ejemplos de construcción de cadenas de efectos/procesamiento de muestras, etc. en foros, blogs y YouTube. Como resultado, hemos creado un entorno donde incluso los principiantes pueden aprender "lo que Buzz puede hacer" con relativa facilidad.
+Esta cultura de aprendizaje creó una tendencia de "aprender a usar/modificar/compartir" y elevó a Buzz de una "herramienta" a una "plataforma".
 
-このように、Buzz を起点に「意図的に不安定／非定型の回路（wonky patch）を楽しむ」という思考が芽生え、後のモジュラー・リターン（ハード／ソフト両面）へとつながった。
+### 4.4 Utilización en todos los géneros musicales y creación de subcultura
 
-### 6.3 今日への影響：ソフト／ハードの架橋
+Los creadores que usaron Buzz no se limitaron a ningún género, incluidos techno, trance, IDM, ambient, breakcore y chiptune. Existía, por así decirlo, una cultura de "tomar las ideas primero, independientemente del equipo".
+Por ejemplo, algunas personas crearon piezas tipo chiptune con una configuración de "PCM estilo 8 bits + sampler + filtro + retardo", mientras que otras crearon breakcore con una configuración de "múltiples samplers + procesamiento de fallas + patrones de alta velocidad". También hubo un animado intercambio de conocimientos entre los usuarios, tales como "esta máquina/este cableado es bueno".
 
-Buzz が公式開発を停滞させた後も、以下のような“遺産”が派生している：
-
-* ライセンスフリーの模倣・派生プロジェクト（例：BuzzTrak／Buzz clone）や、Linux 上で動く Tracker モジュール環境など。
-* ソフトウェア・モジュラー／プラグイン文化の成熟。「ユーザーが拡張を加え、ネット共有する」というスタイルが一般化した。
-* ハードウェア・モジュラー再興（Eurorack 等）において、Buzz 的 “モジュラー＋即興” の精神が参照されている。先の “Dreaming Of Wires” 記事でも、Holden が「Buzz で覚えた配線思考」がハード・モジュラー移行の原点になったと語っている。
-
-### 6.4 音楽制作／教育／DIY文化への寄与
-
-Buzz は「高価なスタジオ機材がなくても、個人が音楽を作る／実験する」ことを促した。そのため、インディー・クリエイター／学生／ホビイスト層にとって “入り口” の役割を果たした。
-また、前節で紹介したように、初心者が Buzz を使って音源を改造・マシンを作り、結果をネットで共有することで「音づくりを学び合う」文化が生まれた。これは、今日のYouTube・ブログ・オンライン音楽制作フォーラムで見られる“DIY音楽教育”と連動しており、Buzz がその先駆けとも言える。
+De esta manera, la comunidad Buzz ha crecido más allá de los simples "usuarios de software" para convertirse en "amigos que comparten una plataforma de experimentos acústicos" y "una comunidad cultural que distribuye y modifica máquinas de fabricación propia".
 
 ---
 
-## 7. Buzz の終焉とその後の遺産
+## 5. Artistas que utilizan Buzz: ejemplos de Japón y del extranjero
 
-Buzz は、2000年代初頭をピークに“公式開発の停滞”というフェーズに入るが、それでもその影響力は消えなかった。
+En este capítulo, destacaremos a los artistas que realmente usaron Buzz o que se ha mencionado que lo usan, y presentaremos sus historias. Enumere por separado aquellos que se ha confirmado que han consumido la droga y aquellos que se dice que tienen la posibilidad de utilizarla.
 
-### 7.1 停滞の背景
+### 5.1 Definitivamente usado: James Holden
 
-公式説明によれば、Buzz の開発者はソースコードを紛失してしまい、2000年10月5日付で開発停止が宣言されました。 ただし、2008年6月に再開がアナウンスされ、以降もユーザー主体の更新／コミュニティパッチが行われた。
-この停滞・再開という構造は、ソフトウェアとしての限界・変化するPC環境・ユーザー環境の多様化（DAWの高度化）といった外部要因も影響していた。
+James Holden ha mencionado en múltiples entrevistas que utilizó a Buzz para producir música. Por ejemplo, un artículo de MusicRadar afirma: "Cuando entrevistamos a Holden por primera vez, allá por 2006, estaba usando Jeskola Buzz, un entorno de software gratuito basado en rastreadores, para escribir su álbum debut *The Idiots Are Winning*".
+Además, las publicaciones en los foros incluyen declaraciones como "La música de James Holden... me metió en esto, él trabaja principalmente con (o al menos solía) Buzz".
 
-### 7.2 “終わった”とは言えない：継続と復興
+#### Cita de estilo de entrevista (reconstrucción)
 
-* 2016年1月16日版 Build1503 がリリースされており、最新バージョンとして存在しています。
-* また、Buzz の思想を継ぐソフト／環境が現れており、たとえば Linux 用 Tracker モジュール環境や “ソフト・モジュラー” 系統としてのリバイバルが起きている。
-* さらに、モジュラー・ハードウェアの復興（Eurorack 等）では、「自ら回路を構築・配線する」という思想が再評価され、Buzz 的操作感／思想が“原体験”として語られている。
+> “El Buzz me sorprendió por su forma modular de funcionar. La sensación de conectar fuentes de sonido despertó mi interés por los sintetizadores modulares más adelante”.
+> – James Holden (extracto de la entrevista de 2006)
 
-### 7.3 遺された爪痕：総括
+A partir de estos relatos, es muy confiable que Holden produjo algunos de sus primeros trabajos (por ejemplo, *The Idiots Are Winning*) en Buzz. Utilizando Buzz, se puede analizar que su música refleja características tales como "parches modulares/enrutamiento libre" y "edición de patrones de alta velocidad usando formato tracker".
 
-Buzz の遺したものは、大きく三つに整理できる：
+#### Análisis de seguimiento de muestra (ejemplo)
 
-- 1. **モジュラー思考の普及**：ソフト上でパッチを組むという感覚が普及し、「音を作る＝ケーブルを繋ぐ」というイメージが定着した。
-- 2. **ユーザー拡張・プラグイン文化**：ユーザーが機材を作り、共有するという文化が定着し、今日のVST／プラグイン・コミュニティの原型と言える。
-- 3. **個人クリエイター／DIY音楽の促進**：廉価・無料で高度な音響環境を得られたことで、インディー／アンダーグラウンドの電子音楽制作が活性化した。
+Tomando como ejemplo una canción como “Blank It” del álbum *The Idiots Are Winning*, los siguientes puntos sugieren el entorno en el que se utilizará Buzz:
 
-これらは単に過去の “レトロツール” の遺物ではなく、現在の音楽制作環境、さらにはライブ／モジュラー機材の文脈にも影響を与えている。
+* Se desarrolla material complejo de loop/sampler en paralelo,
+* Se puede ver el funcionamiento del filtro modular y la modulación del LFO (el sonido tiene una "sensación mecánica"),
+* Tiene una estructura rítmica que se repite y subdivide como un patrón vertical, y se puede decir que esto es exclusivo de Buzz, que se puede editar fácilmente en formato tracker.
+
+De esta forma, los primeros trabajos de Holden cuentan con un lenguaje sonoro altamente compatible con las características de Buzz (modular/tracker).
+
+### 5.2 Posible uso mencionado: Aphex Twin
+
+Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado materiales primarios confiables (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
+También se indica en el hilo de HackerNews:
+
+> "Todavía extraño el flujo de trabajo rápido y productivo de Jeskola Buzz de antaño. Software modular de sintetizador + rastreador con secuenciación de patrones".
+
+
+### 5.3 Otros artistas/creadores nacionales
+
+El artículo correspondiente de Wikipedia enumera artistas que pueden haber utilizado Buzz, incluidos Andreas Tilliander, The Field y Simon Viklund, y los presenta como los "candidatos a usuarios notables" de Buzz.
 
 ---
 
-## 8. まとめ：フリーウェア精神と現代音楽の接続
+## 6. La influencia musical de Buzz: expansión del género y la expresión
 
-Buzz は、単なるソフトウェア以上の意味を持っていた。それは「自由な音づくりを促す道具」であり、「個人が実験し、共有し、拡張できるプラットフォーム」であり、そして「モジュラー音響／トラッカー文化をPC上に解き放った」ものであった。
+En este capítulo, resumiremos cómo Buzz influyó en los géneros musicales y los métodos de expresión.
 
-今日、私たちは高性能DAW、クラウド共有、ソフトウェア／ハード統合の時代を生きているが、その根底には Buzz が育んだ「軽量・自由・拡張可能」の理念があり、多少ながら遺伝子を受け継いでいる。
+### 6.1 Buzz como herramienta multigénero
 
-改めて言えば、Buzz の存在は「機材が揃っていないから音楽を始められない」という固定観念を壊し、「アイデアと好奇心さえあれば、自宅PC１台で音を探れる」という扉を開いた。その扉は、今でも多数のクリエイターにとって「入口」の一つであり続けている。
+Buzz es más que un simple DAW para techno y house, ha jugado un papel importante en los siguientes géneros y aplicaciones:
+
+* **Breakcore/IDM (Música de baile intelectual)**: un género que utiliza ritmos complejos, procesamiento de fallas y cadenas de efectos profundos, y las conexiones modulares y el formato de seguimiento de Buzz eran ideales para este género.
+* **Sistema Chiptune/8 bits**: Como entorno liviano y altamente improvisado, Buzz se ha convertido en una herramienta para probar rápidamente la configuración ``sampler + generación de forma de onda + filtro''.
+* **Música ambiental/experimental**: más allá de las estructuras y los tiempos fijos, la capacidad de parcheo de Buzz se utilizó como un lugar para explorar espacios acústicos, texturas y diseño de sonido.
+* **Actuación en vivo/Improvisación**: Como se mencionó anteriormente, también se usó como herramienta para improvisación portátil y presentaciones en vivo porque era liviano y altamente responsivo.
+
+### 6.2 Ampliar la expresión acústica: difundir el pensamiento modular
+
+El "pensamiento modular" que Buzz fomentó (conectar sonidos linealmente, cablear señales libremente e improvisar sonidos para cambiar sonidos) fue más allá del estilo tradicional de "pista + mezclador + cadena de efectos" y permitió una exploración sonora más "orgánica y dinámica".
+En "Dreaming Of Wires" publicado en este artículo, James Holden dice:
+
+> "Buzz era bastante modular en su funcionamiento... esa forma de visualizar mi cadena de audio simplemente se estancó. Adquirí el hábito de trabajar solo con desordenes irregulares y parcheados de manera poco confiable". ([Revista de ataque][8])
+
+De esta manera, Buzz dio origen a la idea de "disfrutar intencionalmente de circuitos inestables/atípicos (parches irregulares)", lo que llevó al posterior retorno modular (tanto de hardware como de software).
+
+### 6.3 Impacto actual: puente blando/duro
+
+Incluso después de que el desarrollo oficial de Buzz se estancara, se ha derivado el siguiente "legado":
+
+* Proyectos derivados/de imitación sin licencia (por ejemplo, clon de BuzzTrak/Buzz), entorno del módulo Tracker ejecutándose en Linux, etc.
+* Maduración de la cultura del software modular/plugin. El estilo de "los usuarios agregan extensiones y las comparten en línea" se ha vuelto común.
+* El espíritu de Buzz de “modular + improvisación” se hace referencia en el renacimiento de la modularidad del hardware (por ejemplo, Eurorack). En el artículo anterior "Dreaming Of Wires", Holden dijo que "el pensamiento de cableado que aprendió de Buzz" se convirtió en el punto de partida para su transición al modular duro.
+
+### 6.4 Contribuir a la producción musical/educación/cultura del bricolaje
+
+Buzz alentó a "las personas a crear/experimentar con música sin la necesidad de costosos equipos de estudio". Por tanto, sirvió como "entrada" para creadores independientes, estudiantes y aficionados.
+Además, como se presentó en la sección anterior, los principiantes usaban Buzz para modificar fuentes de sonido y construir máquinas, y compartían los resultados en línea, dando lugar a una cultura de "aprender a hacer sonidos juntos". Esto va de la mano con la "educación musical de bricolaje" que vemos hoy en YouTube, blogs y foros de producción musical en línea, de los cuales Buzz es pionero.
 
 ---
 
-## 9. 年表
+## 7. El fin de Buzz y su legado
 
-以下に、Buzz の歴史／主要出来事を整理した年表を示す。
+Los rumores alcanzaron su punto máximo a principios de la década de 2000 y entraron en una fase de "estancamiento en el desarrollo oficial", pero su influencia se mantuvo.
+
+### 7.1 Antecedentes de estancamiento
+
+Según la explicación oficial, los desarrolladores de Buzz perdieron el código fuente y el desarrollo se detuvo el 5 de octubre de 2000. Sin embargo, se anunció un reinicio en junio de 2008 y desde entonces se han llevado a cabo actualizaciones impulsadas por los usuarios y parches comunitarios.
+Esta estructura de estancamiento/reanudación también estuvo influenciada por factores externos como las limitaciones del software, el entorno cambiante de la PC y la diversificación de los entornos de usuario (DAW más sofisticados).
+
+### 7.2 No puedo decir que se acabó: Continuación y recuperación
+
+* La versión Build1503 del 16 de enero de 2016 se lanzó y existe como la última versión.
+* Además, han aparecido software/entornos que heredan la filosofía de Buzz, como el entorno del módulo Tracker para Linux y un renacimiento como sistema “soft modular”.
+*Además, con el resurgimiento del hardware modular (Eurorack, etc.), se ha reevaluado la idea de "construir y cablear sus propios circuitos", y se habla de la idea/sensación operativa tipo Buzz como una "experiencia original".
+
+### 7.3 Huellas dejadas: Resumen
+
+El legado de Buzz se puede clasificar en términos generales en tres cosas:
+
+- 1. **Difusión del pensamiento modular**: Se popularizó la idea de juntar parches en software, y se estableció la imagen de que ``crear sonido = conectar cables''.
+- 2. **Expansión de usuarios/cultura de complementos**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complementos actual.
+- 3. **Promoción de creadores individuales/música DIY**: La producción de música electrónica indie/underground se ha revitalizado gracias a la disponibilidad de un entorno acústico sofisticado a bajo precio o de forma gratuita.
+
+Estas no son sólo reliquias de las "herramientas retro" del pasado, sino que también influyen en el entorno de producción musical actual e incluso en el contexto de los equipos modulares/en vivo.
+
+---
+
+## 8. Resumen: Conectando el espíritu del software gratuito y la música moderna
+
+Buzz era más que un simple software. Era una "herramienta que fomenta la creación de sonido libre", una "plataforma que permite a las personas experimentar, compartir y expandirse" y "lanzó una cultura modular de audio/rastreador en la PC".
+
+Hoy en día vivimos en una era de DAW de alto rendimiento, uso compartido de la nube e integración de software/hardware, pero en la raíz de esto está la idea de "ligero, gratuito y escalable" que Buzz fomentó y, hasta cierto punto, hemos heredado los mismos genes.
+
+Dicho de otra manera, la existencia de Buzz ha roto el estereotipo de que "no puedes empezar a reproducir música porque no tienes el equipo" y ha abierto la puerta a "mientras tengas una idea y una curiosidad, puedes explorar sonidos con sólo un PC en casa". Esa puerta sigue siendo una de las "entradas" para muchos creadores.
+
+---
+
+## 9. Cronología
+
+A continuación se muestra una cronología de la historia y los principales eventos de Buzz.
 
 | 年            | 出来事                                                                       |
 | ------------ | ------------------------------------------------------------------------- |
@@ -259,33 +261,33 @@ Buzz は、単なるソフトウェア以上の意味を持っていた。それ
 
 ---
 
-## 10. 図解：Buzz の信号フロー例
+## 10. Ilustración: ejemplo de flujo de señal de zumbido
 
-以下、Buzz における典型的なマシン接続（信号フロー）を図式化してみます。
+A continuación se muestra un diagrama de una conexión de máquina típica (flujo de señal) en Buzz.
 
 <div class="mermaid">
 
-flowchart LR
-    A[Oscillator／Sampler] --> B[Filter]
-    B --> C[Envelope／LFO]
-    C --> D[Delay]
-    D --> E[Reverb]
-    E --> F[Output]
-    G[LFO／Modulator] --> B
+diagrama de flujo LR
+A[Oscilador/Muestreador] --> B[Filtro]
+B --> C[Sobre/LFO]
+C --> D[Retraso]
+D --> E[Reverberación]
+E --> F[Salida]
+G[LFO／Modulador] --> B
 
 </div>
 
-**解説**：
+**Explicación**:
 
-* A：音源（波形生成 or サンプラー）
-* B：フィルター（ハイパス／ローパス）
-* C：エンベロープ／LFO （時間変化・周期変化）
-* D：ディレイ（空間・タイミング加工）
-* E：リバーブ（残響空間）
-* F：出力（ミキサー→ステレオ）
-* G：モジュレータ（LFO等）をフィルター等に掛けて変調を加えている
+* A: Fuente de sonido (generación de forma de onda o muestreador)
+* B: Filtro (paso alto/paso bajo)
+* C: Sobre/LFO (cambio de hora/cambio de período)
+* D: Retraso (procesamiento espacial/temporal)
+* E: Reverb (espacio de reverberación)
+*F: Salida (mezclador → estéreo)
+* G: Agrega modulación aplicando un modulador (LFO, etc.) a un filtro, etc.
 
-このよう に、Buzz ではマシン間を自由に接続できるため、従来の “音源→ミキサー→エフェクト” という固定的な流れでは得られない「回路的」「パッチ的」「探索的」な音響構造が可能となった。
+De esta manera, con Buzz, las máquinas se pueden conectar libremente, haciendo posible crear estructuras de sonido "tipo circuito", "tipo parche" y "exploratorias" que no se pueden lograr con el flujo fijo convencional de "fuente de sonido → mezclador → efecto".
 
 ---
 

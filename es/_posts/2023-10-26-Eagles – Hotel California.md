@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Eagles – Hotel California.webp
 lang: es
 layout: post
+permalink: /es/2023-10-26-Eagles – Hotel California/
 tags:
 - Rock
 - Nostalgic
 - 7inch
-title: Eagles – Hotel California
+title: Águilas – Hotel California
 ---
 
 
-Eagles（イーグルス）のアルバム「ホテル・カリフォルニア」のタイトル曲。作詞・作曲は、Don Felder（ドン・フェルダー）、Don Henley（ドン・ヘンリー）。
+La canción principal del álbum de los Eagles "Hotel California". Letra y música de Don Felder y Don Henley.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Hotel California = ホテル・カリフォルニア
 
 B. Pretty Maids All In A Row = お前を夢みて
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73819642439?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73819642439?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/09839DpTctU?si=-R98dW4VeM3UtPNH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09839DpTctU?si=-R98dW4VeM3UtPNH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

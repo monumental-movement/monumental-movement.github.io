@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Orchestral Manoeuvres In The Dark – Crush.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Orchestral Manoeuvres In The Dark – Crush/
 tags:
 - New-Wave
 - Rock
-title: Orchestral Manoeuvres In The Dark – Crush
+title: Maniobras orquestales en la oscuridad – Crush
 ---
 
 
-「Crush（クラッシュ）」は、イギリスのエレクトロニック・バンド、Orchestral Manoeuvres in the Dark（OMD）の6番目のスタジオアルバムで、1985年6月17日にVirgin Recordsからリリースされました。
+Crush es el sexto álbum de estudio de la banda electrónica británica Orchestra Maneuvers in the Dark (OMD), lanzado el 17 de junio de 1985 por Virgin Records.
 
-このアルバムは、Stephen Hagueによってプロデュースされた2つのOMDスタジオアルバムの最初のものです。主にアメリカ市場をターゲットにしており、より洗練されたサウンドにグループを移行させた点が特筆されますが、以前の実験要素も残っています。
+Este álbum es el primero de dos álbumes de estudio de OMD producidos por Stephen Hague. Dirigido principalmente al mercado americano, se destaca por la transición del grupo hacia un sonido más sofisticado, aunque permanecen elementos de sus experimentos anteriores.
 
-レコーディング中、バンドは過去よりもオーガニックな楽器の使用を増やしました。
+Durante la grabación, la banda hizo mayor uso de instrumentación orgánica que en el pasado.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. So In Love
 
@@ -41,7 +42,7 @@ B4. Hold You
 B5. The Lights Are Going Out
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73878110877?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Q8clCyMdjA?si=Ul1i4Iiz9bQkS1az" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Q8clCyMdjA?si=Ul1i4Iiz9bQkS1az" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

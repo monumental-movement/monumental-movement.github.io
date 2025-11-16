@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Hertz – Look Back To See The Future EP.webp
 lang: es
 layout: post
+permalink: /es/2023-11-02-Hertz – Look Back To See The Future EP/
 tags:
 - Techno
 - Tech House
-title: Hertz – Look Back To See The Future EP
+title: Hertz – Mira hacia atrás para ver el futuro EP
 ---
 
 
-Hertz（ヘルツ）は、2001年から活動しているPierre Jerkstenによるテクノプロジェクト。
+Hertz es un proyecto techno de Pierre Jerksten que está activo desde 2001.
 
-2009年から2012年まではPetter Bとのデュオで活動していたHertzは、Defected、Toolroom Records、Underwater Records、Drumcode、Craft Music、Tresor、Virgin & Universalなど数多くのレーベルからリリースしている。
+Hertz, que formó dúo con Petter B de 2009 a 2012, ha lanzado en numerosos sellos, incluidos Defected, Toolroom Records, Underwater Records, Drumcode, Craft Music, Tresor y Virgin & Universal.
 
-「Look Back To See The Future EP」は、UmekとValentino Kanzyaniが設立したRecycled Loopsより2004年にリリースされたテクノ・テックハウストラック。
+"Look Back To See The Future EP" es una pista de techno/tech house lanzada en 2004 por Recycled Loops, fundada por Umek y Valentino Kanzyani.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Recreate
 
@@ -29,7 +30,7 @@ B1. Look Back
 B2. Filter Out
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43260356150?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43260356150?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fa5dW6r9m6I?si=mz-cdiO0bPcNGjhb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fa5dW6r9m6I?si=mz-cdiO0bPcNGjhb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Violent Femmes – The Blind Leading The Naked.webp
 lang: es
 layout: post
+permalink: /es/2025-02-15-Violent Femmes – The Blind Leading The Naked/
 tags:
 - Alternative Rock
 - Rock
 - 80s
-title: Violent Femmes – The Blind Leading The Naked
+title: Mujeres violentas – Los ciegos guiando a los desnudos
 ---
 
 
-Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミルウォーキー出身のUSフォークパンクバンド。1980年代のアンダーグラウンドフォークパンクとオルタナティヴロックシーンの不可欠なバンドとされており、特にフォークロック、インディーロック、グランジ、ポップパンク、エモ、および1980年代後半から1990年代のオルタナティヴロックシーンにおいて、その後のムーブメントに大きな影響を与えた。
+Violent Femmes es una banda estadounidense de folk-punk de Milwaukee, Wisconsin. Considerados una parte integral de las escenas underground de folk-punk y rock alternativo de la década de 1980, tuvieron una gran influencia en los movimientos posteriores, particularmente en las escenas de folk rock, indie rock, grunge, pop-punk, emo y rock alternativo de finales de la década de 1980 y 1990.
 
-1986年にリリースされたこのアルバムは、Violent Femmes3枚目のアルバムで、Talking Heads(トーキングヘッズ)のJerry Harrison(ジェリー・ハリソン)がプロデュースした。
+Este álbum, lanzado en 1986, fue el tercer álbum de Violent Femmes y fue producido por Jerry Harrison de Talking Heads.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Old Mother Reagan
 2. No Killing
@@ -34,7 +35,7 @@ Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミ�
 13. Two People
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WeTRKMPLxXk?si=XQKkXIEmI4BLQNQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WeTRKMPLxXk?si=XQKkXIEmI4BLQNQY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Björk – Medúlla.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Bjork – Medulla/
 tags:
 - Experimental
-title: Björk – Medúlla
+title: Björk – Médula
 ---
 
 
-「Björk – Medúlla」は、アイスランドのシンガーソングライターであるビョーク（Björk）のアルバムです。このアルバムは、2004年にリリースされました。
+"Björk - Medúlla" es un álbum de la cantautora islandesa Björk. Este álbum fue lanzado en 2004.
 
-「Medúlla」は、ビョークによる極めて実験的で斬新な作品であり、人間の声を中心としたヴォーカルアルバムとして知られています。ビョークは、ほとんどの楽曲で人間の声や人間の体の音を使用し、従来の楽器に頼らずにサウンドを構築しました。
+"Medúlla" es un trabajo altamente experimental e innovador de Björk, y es conocido como un álbum vocal centrado en la voz humana. Björk utiliza la voz humana y los sonidos del cuerpo humano en la mayoría de sus canciones, construyendo su sonido sin depender de instrumentos tradicionales.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.Pleasure Is All Mine
 
@@ -48,7 +49,7 @@ title: Björk – Medúlla
 15.Komid
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20361043307?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4RPvUuVdiE?si=LfqgjyWdJim9X_Be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4RPvUuVdiE?si=LfqgjyWdJim9X_Be" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

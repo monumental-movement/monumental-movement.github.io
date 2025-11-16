@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Loop Da Loop – Hazel.webp
 lang: es
 layout: post
+permalink: /es/2025-09-23-Loop Da Loop – Hazel/
 tags:
 - House
 - Breaks
@@ -14,12 +15,12 @@ title: Loop Da Loop – Hazel
 ---
 
 
-Loop Da LoopことNicolas Jean-Pierre Drestiは、イギリスのDJ ／プロデューサー Space Cowboy（スペースカウボーイ)が使っていた別名義のひとつ。他にもDJ Supreme、DJ Chromeなどの名義でも活動している。
+Nicolas Jean-Pierre Dresti, también conocido como Loop Da Loop, es uno de los alias utilizados por el DJ y productor británico Space Cowboy. También está activo bajo otros nombres como DJ Supreme y DJ Chrome.
 
-「Hazel」は 、1999年にハウス&トランスレーベルManifestoからリリースされたHouse／Breaks／UK Garage。UK チャートにも入ったヒット曲。
+"Hazel" es una canción de House/Breaks/UK Garage lanzada en el sello house y trance Manifesto en 1999. Una canción de éxito que también entró en las listas del Reino Unido.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Hazel (Loop Da Loop's Original "Bobby Dazzler" Mix)
 A2. Hazel (Loop Da Loop's Hard-Step House Mix)
@@ -27,7 +28,7 @@ A2. Hazel (Loop Da Loop's Hard-Step House Mix)
 B1. Hazel (Johan S Toxic Club Mix Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52318324701?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52318324701?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oX3QanxdhEs?si=JRWuyBlmpejxEwKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oX3QanxdhEs?si=JRWuyBlmpejxEwKw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

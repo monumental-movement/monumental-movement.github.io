@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/The Actors Pedantry – Diffrint Hings Oan E.P.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-The Actors Pedantry – Diffrint Hings Oan E.P/
 tags:
 - IDM
 - House
-title: The Actors Pedantry – Diffrint Hings Oan E.P
+title: La pedantería de los actores – Diffrint Hings Oan E.P
 ---
 
 
-スコットランドのグラスゴーにあるレーベルAmpouleより1999年にリリースされた。A面のドラムはMitchell Bottler（ミッチェル・ボトラー）、Norma Helms（ノーマ・ヘルムズ）の「Saturday Night, Sunday Morning」をサンプリング。
+Fue lanzado en 1999 por Ampoule, un sello con sede en Glasgow, Escocia. La batería en el costado Una muestra de "Saturday Night, Sunday Morning" de Mitchell Bottler y Norma Helms.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. House
 
@@ -23,7 +24,7 @@ B1. Feelings Engine
 B2. The Chocolate Factory
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43840042608?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43840042608?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVcOGMTlkmI?si=oU9R_8NA5vA287vT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CVcOGMTlkmI?si=oU9R_8NA5vA287vT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

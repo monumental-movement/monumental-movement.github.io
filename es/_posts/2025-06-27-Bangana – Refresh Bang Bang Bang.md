@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Bangana – Refresh Bang Bang Bang.webp
 lang: es
 layout: post
+permalink: /es/2025-06-27-Bangana – Refresh Bang Bang Bang/
 tags:
 - Tribal
 - Deep House
 - Broken Beat
 - 00s
-title: Bangana – Refresh Bang Bang Bang
+title: Bangana - Actualizar Bang Bang Bang
 ---
 
 
-Bangana(バンガナ)は、スウェーデン出身のAlf TumbleとMagnus Rydén によるデュオ。S.U.M.O. 、Tumble & Combo名義でも活動している。
+Bangana es un dúo sueco formado por Alf Tumble y Magnus Rydén. También activo bajo los nombres S.U.M.O. y caída y combo.
 
-「Refresh / Bang Bang Bang」は、2006年にスウェーデンのレーベルHEYA HIFI からリリースされたTribal、Deep House、Broken Beatトラック。
+"Refresh / Bang Bang Bang" es una canción Tribal, Deep House y Broken Beat lanzada por el sello sueco HEYA HIFI en 2006.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Refresh
 
 B1. Bang Bang Bang
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fH7MiB8HjHY?si=9b8b0AtNGB4G4JdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fH7MiB8HjHY?si=9b8b0AtNGB4G4JdD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7MKrcY1D6EM?si=m9ShRatNa30tRcx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7MKrcY1D6EM?si=m9ShRatNa30tRcx6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Realside – High Noon.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Realside – High Noon/
 tags:
 - Jazz
 - Future Jazz
-title: Realside – High Noon
+title: Realside - Mediodía
 ---
 
 
-「High Noon」は、2002年にUKのレーベルSirkusからリリースされたDominic Stanton & Mark Russellによるユニット「Realside」によるEPです。
+"High Noon" es un EP de la unidad "Realside" de Dominic Stanton y Mark Russell lanzado en el sello británico Sirkus en 2002.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. High Noon
 
 B. High Noon (Maddslinky Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62297432925?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m62297432925?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y81nI4NW1Eg?si=QmMyWjGpyUB4NEcT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y81nI4NW1Eg?si=QmMyWjGpyUB4NEcT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

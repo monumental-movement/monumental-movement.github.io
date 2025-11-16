@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Stompy – Starlight G-Netic – The New Odyssey.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Stompy – Starlight G-Netic –The New Odyssey/
 tags:
 - Happy Hardcore
 - Techno
-title: Stompy – Starlight G-Netic – The New Odyssey
+title: Stompy – Starlight G-Netic – La nueva odisea
 ---
 
 
-A面は、イギリスのハッピーハードコアアーティスト DJ Stompy（DJストンピー）によるトラック。「Starlight 」は DJ Stompyの代表作の一つ。
+Lado A es una pista del feliz artista británico de hardcore DJ Stompy. "Starlight" es una de las obras maestras de DJ Stompy.
 
-AA面は、G-NeticとVinylgroover & Trixxy（Scott Attril & Jim Sullivan）によるトラック。ヴォーカルはRun-DMC の Jam Master Jay（ジャムマスタージェイ）をサンプリング。
+Side AA es un tema de G-Netic y Vinylgroover & Trixxy (Scott Attril & Jim Sullivan). Las voces tomaron muestras de Jam Master Jay de Run-DMC.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. DJ Stompy–Starlight
 
 AA. G-Netic –The New Odyssey
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60668009425?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZvNXuf3Z4U?si=6i5zZQ0mG3cWKavQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4ZvNXuf3Z4U?si=6i5zZQ0mG3cWKavQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

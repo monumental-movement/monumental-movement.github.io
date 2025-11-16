@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/REO Speedwagon – Hi Infidelity.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-REO Speedwagon – Hi Infidelity/
 tags:
 - Rock
 - AOR
 - 80s
-title: REO Speedwagon – Hi Infidelity
+title: REO Speedwagon – Hola Infidelidad
 ---
 
 
-REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
+REO Speedwagon es una banda de rock estadounidense formada en Illinois en 1967. El álbum "Hi Infidelity (Forbidden Night)" lanzado en 1980 es su obra maestra.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Don't Let Him Go
 
@@ -38,7 +39,7 @@ B4. Someone Tonight
 B5. I Wish You Were There
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78682401500?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m78682401500?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DIuJ-OoKlAE?si=7k4BihDSEsqgk4F_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DIuJ-OoKlAE?si=7k4BihDSEsqgk4F_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

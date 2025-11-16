@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Dandy – Casanova.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Dandy – Casanova/
 tags:
 - Euro Beat
 - Hi NRG
@@ -12,9 +13,9 @@ title: Dandy – Casanova
 ---
 
 
-Dandy（ダンディ）の「Casanova（カサノバ）」は、イタリアのレーベルFlea Recordsから1989年にリリースされました。
+"Casanova" de Dandy fue lanzado en 1989 en el sello italiano Flea Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Casanova (Extended Version)
 
@@ -25,7 +26,7 @@ B1. Casanova (Radio Version)
 B2. Casanova (Instrumental Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70187574707?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70187574707?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mS3CSLMRm6M?si=9O9bqBX11rx7TFwJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mS3CSLMRm6M?si=9O9bqBX11rx7TFwJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/The Brothers Johnson – Kick It To The Curb.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-The Brothers Johnson – Kick It To The Curb/
 tags:
 - Funk
 - Soul
-title: The Brothers Johnson – Kick It To The Curb
+title: Los hermanos Johnson – Patéalo a la acera
 ---
 
 
-The Brothers Johnsonは、アメリカのソウル/ファンク/ジャズ/ディスコバンドです。1975年、カリフォルニア州ロサンゼルスで結成され、リーダーは兄弟のジョージ・ジョンソンとルイ・ジョンソンです。初期メンバーには、いとこのアレックス・ウェアも含まれていました。
+The Brothers Johnson es una banda estadounidense de soul/funk/jazz/disco. Formado en Los Ángeles, California en 1975, el grupo está dirigido por los hermanos George y Louis Johnson. Los primeros miembros incluyeron a su primo Alex Ware.
 
-二人は、後にプロデューサーのクインシー・ジョーンズに見出されるまで、ボビー・ウォmackやビリー・プレストンなどのバックミュージシャンとしてキャリアをスタートさせました。
+Los dos comenzaron sus carreras como músicos de apoyo para artistas como Bobby Womack y Billy Preston, antes de ser descubiertos por el productor Quincy Jones.
 
-クインシー・ジョーンズは、彼らを自身の1975年のアルバム「メロウ・マッドネス」で使用し、注目を集めました。
+Quincy Jones llamó la atención sobre ellos cuando los usó en su álbum de 1975 Mellow Madness.
 
-1976年から1988年までの間に8枚のアルバムをレコーディングし、ディスコヒットとなった「ストンプ!」(1980年)や、シューギー・オーティスの名曲「ストロベリー・レター #23」(1977年のカバー)で最も有名です。
+Grabó ocho álbumes entre 1976 y 1988 y es mejor conocido por el éxito disco "Stomp!" (1980) y el clásico de Shuggy Otis "Strawberry Letter #23" (portada de 1977).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Kick It To The Curb (12" Version)
 
@@ -29,7 +30,7 @@ B1. Kick It To The Curb
 B2. P.O. Box 2000 (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23857969355?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cJE3sGnjzOY?si=KiswVie_eyEuw39l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJE3sGnjzOY?si=KiswVie_eyEuw39l" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

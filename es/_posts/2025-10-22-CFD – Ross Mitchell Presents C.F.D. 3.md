@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/CFD – Ross Mitchell Presents C.F.D. 3.webp
 lang: es
 layout: post
+permalink: /es/2025-10-22-CFD – Ross Mitchell Presents C.F.D. 3/
 tags:
 - Jazz
 - Latin
 - Pops
 - 90s
-title: CFD – Ross Mitchell Presents C.F.D. 3
+title: CFD – Ross Mitchell presenta C.F.D. 3
 ---
 
 
-CFD(Computerized For Dancing)は、Ross Mitchell & Michael Wilsonによるプロジェクト。
+CFD (Computerized For Dancing) es un proyecto de Ross Mitchell y Michael Wilson.
 
-「Ross Mitchell Presents C.F.D. 3」は、1994年にリリースされたCool Jazz。
+"Ross Mitchell presenta C.F.D. 3" es Cool Jazz lanzado en 1994.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. You're the One That I Want
 2. Tell Her About It
@@ -39,4 +40,4 @@ CFD(Computerized For Dancing)は、Ross Mitchell & Michael Wilsonによるプロ
 17. Spanish Gipsy Dance
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93980675589?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93980675589?afid=6142608987){: .button1}

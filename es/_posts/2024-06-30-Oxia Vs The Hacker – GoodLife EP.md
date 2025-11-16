@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Oxia Vs The Hacker – GoodLife EP.webp
 lang: es
 layout: post
+permalink: /es/2024-06-30-Oxia Vs The Hacker – GoodLife EP/
 tags:
 - House
 - Tribal
 - Techno
 - Tech House
 - 00s
-title: Oxia Vs The Hacker – GoodLife EP
+title: Oxia contra el hacker – GoodLife EP
 ---
 
 
-OxiaことOlivier Raymondはフランス出身のDJ ・プロデューサー。Oxiaは、結成された当時（90年代中頃） は Stephane Deschezeaux とのデュオだったが、その後Olivier Raymondのソロプロジェクトとなった。
+Olivier Raymond, también conocido como Oxia, es un DJ y productor de Francia. Oxia se formó como dúo con Stéphane Deschezeaux a mediados de los 90, pero luego se convirtió en el proyecto en solitario de Olivier Raymond.
 
- The Hacker（ザ・ハッカー）ことMichel Amatoは、フランス出身のミュージシャン・DJ。1989年からテクノ、エレクトロ、イタロ、EBM、ニューウェーブの影響を強く受けた音楽を制作し、エレクトロデュオMiss Kittin & The Hacker としても知られている。
+Michel Amato, también conocido como The Hacker, es un músico y DJ de Francia. Desde 1989, producen música fuertemente influenciada por techno, electro, italo, EBM y new wave, y también son conocidos como el dúo electro Miss Kittin & The Hacker.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Oxia – Nation
 
 B. The Hacker – The Last
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60514393158?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60514393158?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qUGQ1TylyWs?si=W5UC_ar9zdiyzEEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUGQ1TylyWs?si=W5UC_ar9zdiyzEEf" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xEJbhaT47OU?si=bUWkm4PtE7Ai2Eft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEJbhaT47OU?si=bUWkm4PtE7Ai2Eft" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

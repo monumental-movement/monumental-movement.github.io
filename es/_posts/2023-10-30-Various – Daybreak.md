@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – Daybreak.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Various – Daybreak/
 tags:
 - Hiphop
 - Downtempo
-title: Various – Daybreak
+title: Varios – Amanecer
 ---
 
 
-「Daybreak」は、Break It Or Leave It (1997年にDJ Koenieにより設立されたWally's Groove Worldのブレイクビート部門)からのリリース。
+"Daybreak" es un lanzamiento de Break It Or Leave It (la rama breakbeat de Wally's Groove World, fundada en 1997 por DJ Koenie).
 
-A4のDVL(Davy Van Laere)はDJ AMEとのプロジェクトAfter Hoursとしても有名。現在DVLは最も人気のスケートボード写真家として活動中。
+DVL de A4 (Davy Van Laere) también es famoso por su proyecto After Hours con DJ AME. DVL es actualmente el fotógrafo de patinetas más popular.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lexadelic & Zenith–Timeless Hour
 
@@ -35,7 +36,7 @@ B3. DJ Serious & Zenith–Silent Lotus
 B4. Lexadelic & Zenith–Cruising
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56150431111?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56150431111?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WKEazL28ISU?si=CXOrpxmsZLod7buB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKEazL28ISU?si=CXOrpxmsZLod7buB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

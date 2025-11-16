@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Alec Empire – The Destroyer.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Alec Empire – The Destroyer/
 tags:
 - Digital Hardcore
 - Breakcore
-title: Alec Empire – The Destroyer
+title: Imperio Alec – El Destructor
 ---
 
 
-Alec Empire（アレック・エンパイア）は、ドイツの実験的エレクトロニック・ミュージシャンであり、バンド Atari Teenage Riotの創設メンバー。
+Alec Empire es un músico electrónico experimental alemán y miembro fundador de la banda Atari Teenage Riot.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Untitled
 A2. We All Die!
@@ -37,7 +38,7 @@ D3. Pleasure Is Our Business (Live!)
 D4. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m94890989911?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pkVKrOFxTWk?si=kZuxmX7qD-gSKCRd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pkVKrOFxTWk?si=kZuxmX7qD-gSKCRd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

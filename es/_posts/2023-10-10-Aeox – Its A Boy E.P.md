@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Aeox – It's A Boy E.P.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Aeox – Its A Boy E.P/
 tags:
 - Techno
 - Electro
-title: Aeox – It's A Boy E.P
+title: Aeox – Es un niño EP
 ---
 
 
-AeoX は、ベルリン出身のAl.X.E（Alexander Koepke,＆tafkatafta）とHanno Hinkelbeinによるテクノパンクバンド。Null recordsやMental Industriesから多数リリースしている。
+AeoX es una banda de techno-punk de Berlín formada por Al.X.E (Alexander Koepke, & tafkatafta) y Hanno Hinkelbein. Ha publicado numerosos lanzamientos de Null Records y Mental Industries.
 
-「It's A Boy E.P.」は、2000年にNull Recordsからリリースされたテクノ・エレクトロトラック。
+"Es un niño E.P." es una pista de techno electro lanzada por Null Records en 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Sophie's Hacker
 
@@ -27,7 +28,7 @@ B1. Gameboy Acid
 B2. Pity Boy
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56315696967?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56315696967?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wkiUzLXPlg8?si=v_I1TvvcI2aKxdbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wkiUzLXPlg8?si=v_I1TvvcI2aKxdbg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

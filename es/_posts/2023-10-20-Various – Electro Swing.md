@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Various – Electro Swing.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-Various – Electro Swing/
 tags:
 - Electro
 - Swing-Jazz
-title: Various – Electro Swing
+title: Varios – Electro Swing
 ---
 
 
-「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
+“Various – Electro Swing” fue lanzado por Wagram Music en 2009.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Caravan Palace –Jolie Coquine
 2. Mr. Scruf f–Get A Move On
@@ -35,5 +36,5 @@ title: Various – Electro Swing
 など、全20曲
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

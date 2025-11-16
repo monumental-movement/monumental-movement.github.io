@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/pickup-german-techno.webp
 lang: es
 layout: post
+permalink: /es/2025-08-29-Pickup-German-Techno/
 tags:
 - German Techno
 - Techno
 - 90s
 - 00s
-title: ドイツ・テクノ（German Techno）作品をピックアップ
+title: Recogiendo obras de techno alemán
 ---
 
 
-「夜を貫くビート、ベルリンの魂、ドイツ・テクノ（German Techno）作品群」
+"Beat que penetra la noche, el alma de Berlín, el Techno alemán funciona"
 
 <hr>
 
-### Tresor Compilation Vol. 7
+### Compilación Tresor vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-魅力ポイント：ドイツ発の名門レーベルT­resor によるコンピで、Sven Väth や Maurizio、Ben Sims、James Ruskin、Pacou など、テクノ界を代表する重鎮たちのトラックが並ぶ贅沢なセレクション。Berlin—Germany を象徴する硬質でミニマルかつ革新的なテクノの魅力を余すことなく体感できる一枚です。
+Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una lujosa selección de temas de algunos de los nombres más importantes del techno, entre ellos Sven Väth, Maurizio, Ben Sims, James Ruskin y Pacou. Esta es una pieza que te permite experimentar plenamente el encanto del techno duro, minimalista e innovador que simboliza Berlín-Alemania.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -42,25 +43,25 @@ title: ドイツ・テクノ（German Techno）作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Zombie Nation – Souls At Zero
+### Nación Zombie – Almas en cero
 <a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.webp"></a>
 
 
 
-魅力ポイント：ドイツの DJ／プロデューサー Splank!（Florian Senfter）によるプロジェクト Zombie Nation の代表作。特に A 面の「Souls At Zero（Original Album Version）」に、Sven Väth によるリミックス B 面が対をなす内容。Sven Väth の手によるリミックスは、ジャーマン・テクノの重厚さとドラマ性を重ねた迫力ある仕上がり。
+Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la pesadez y el dramatismo del techno alemán.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Souls At Zero (Original Album Version)
 
@@ -68,24 +69,24 @@ B. Souls At Zero (Sven Väth Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Cygnus X – The Orange Theme (The Remixes)
+### Cygnus X – El tema naranja (Los Remixes)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-魅力ポイント：ドイツのユニット Cygnus X による、エネルギッシュかつ高揚感あふれるトランステクノの代表作「The Orange Theme」のリミックス盤。Moonman、Bervoets & De Goeij、Mark Van Dale with Enrico などによるバリエーション豊かなリミックスが収録されており、原曲のエッセンスを生かしながらクラブ映えするアレンジが楽しめます
+Punto atractivo: un remix de la enérgica y edificante obra maestra del trance techno "The Orange Theme" de la unidad alemana Cygnus X. Contiene una variedad de remixes de Moonman, Bervoets & De Goeij, Mark Van Dale con Enrico y más, lo que le permite disfrutar de arreglos para clubes que capturan la esencia de la canción original.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Orange Theme (Moonman's Orange Juice Mix)
 A2. The Orange Theme (Original Mix)6:29
@@ -95,26 +96,26 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
 
-### Elektrochemie LK – Gold!
+### Electroquímica LK – ¡Oro!
 <a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.webp"></a>
 
 
 
-魅力ポイント：Thomas Schumacher（トーマス・シューマッハ）のソロプロジェクト「Elektrochemie LK」による2001年リリース作品。堅牢なビートとクラシカルなドイツ・テクノの美学が融合された魅力的な一枚。自由奔放かつエッジの効いたトラック展開が光ります。
+Punto atractivo: un lanzamiento en 2001 del proyecto solista de Thomas Schumacher "Elektrochemie LK". Una pieza atractiva que combina un ritmo sólido con una estética techno clásica alemana. El desarrollo de la pista, atrevido y de espíritu libre, brilla.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Schall (Album Version)
 A2. Things Go Wrong II
@@ -134,25 +135,25 @@ F2. Ein Nenner
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m11889088321?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
 
-### Elektrochemie LK – When I Rock
+### Elektrochemie LK – Cuando me muevo
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-魅力ポイント：「When I Rock」は同じくThomas Schumacherによる代表トラックのひとつ。オリジナルミックスに加え、DJ Rush や Santos によるリミックスが収録されており、リズムのぶつかり合いと異なる解釈の豊かさが楽しめる作品です。
+Lo atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. When I Rock (Original Mix)
 A2. When I Rock (DJ Rush's Rock Da Beat Remix) 
@@ -161,26 +162,26 @@ B1. When I Rock (Santos Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
 
-### Bad Pimps – Give It
+### Malos proxenetas: dánelo
 <a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 
 
-魅力ポイント：ドイツのKanzleramtレーベル創設者・Patrick Lindseyとベルギーのテクノアーティスト Stanny Franssen（G-Force）によるプロジェクト。Monika Kruse 主宰のレーベル Terminal M から2002年にリリースされ、TechnoとTech Houseのクロスオーバーが刺激的な一枚です。
+Lo atractivo: un proyecto del fundador del sello alemán Kanzleramt, Patrick Lindsey, y del artista belga de techno Stanny Franssen (G-Force). Lanzado en 2002 por el sello Terminal M de Monika Kruse, este es un emocionante cruce entre Techno y Tech House.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Give.It.!
 
@@ -189,25 +190,25 @@ B2. Get On Up!
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m71741554299?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
 
-### Bazz-Dee & Waldhaus Weichentechnikk – Brachial 200404
+### Bazz-Dee & Waldhaus Weichentechnikk – Braquial 200404
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-魅力ポイント：WaldhausとBazz-Deeによるインダストリアル色の強いハードテクノで、KISS の「I Was Made For Loving You」を大胆にサンプリングしたトラックも収録。タイトル通り“ブラキアル”（過激で粗野な）スタイルがファンにはたまらない内容です。
+Punto atractivo: Hard techno con un fuerte sabor industrial de Waldhaus y Bazz-Dee, que incluye un tema que muestra audazmente "I Was Made For Loving You" de KISS. Como sugiere el título, el estilo "braquial" (radical y crudo) es irresistible para los fanáticos.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Bazz-Dee &amp; Waldhaus – I Was Made For Loving Your
 
@@ -215,26 +216,26 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vs2si5KHWM8?si=VH_KYUxRTQEeOM5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vs2si5KHWM8?si=VH_KYUxRTQEeOM5I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
 
-### Johannes Heil – Future Primitive
+### Johannes Heil – Futuro Primitivo
 <a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
 
 
 
-魅力ポイント：ヨハネス・ハイルによる作品で、ダークかつドラマティックな演出が特徴。深いビートとサイケデリックなアプローチが光る、未来的なテクノ体験を誘う一作です。静寂と爆発の間を行き来するような展開が印象的。
+Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Una pieza que invita a una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Future Primitive Intro
 A2  Children Of The Night
@@ -251,11 +252,11 @@ D   Cherubim
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 

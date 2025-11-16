@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Rodrigo Y Gabriela – 1111.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-Rodrigo Y Gabriela – 1111/
 tags:
 - Latin
 - Folk
 - Rock
-title: Rodrigo Y Gabriela – 1111
+title: Rodrigo y Gabriela – 1111
 ---
 
 
-ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
+Rodrigo y Gabriela es un dúo de guitarras de México.
 
-「11:11」は、ロドリーゴ・イ・ガブリエーラが2009年にリリースしたアルバムで、彼らのシグネチャーとも言えるアコースティックギターだけでリズム、メロディ、ハーモニーを表現します。
+"11:11" es un álbum lanzado por Rodrigo y Gabriela en 2009, que expresa ritmo, melodía y armonía utilizando únicamente su característica guitarra acústica.
 
-彼らのオリジナル曲や他のアーティストのカバー曲が含まれ、ラテンアメリカのリズムやフラメンコの要素が見られる一方でロックやジャズの影響も感じられます。彼らの独自の演奏スタイルと情熱的な表現力は聴衆に強い印象を与えました。
+Se incluyen sus canciones originales y covers de otros artistas, con elementos de ritmos latinoamericanos y flamenco presentes, así como influencias del rock y el jazz. Su estilo de actuación único y su apasionada expresividad causaron una fuerte impresión en el público.
 
-ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
+Rodrigo y Gabriela ha desarrollado una amplia gama de actividades musicales y ha obtenido reconocimiento internacional.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 CD1. Hanuman
 
@@ -62,7 +63,7 @@ DVD3. Lumbini
 DVD4. Buster Voodoo Tutorial
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,137 +5,139 @@ categories:
 image: ../assets/images/column-eurorack-module.webp
 lang: es
 layout: post
+permalink: /es/2025-08-31-Column-Eurorack-Module/
 tags:
 - Eurorack Module
 - Techno
 - 00s
-title: 【コラム】 ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響
+title: '[Columna] Cambios en el sintetizador modular Eurorack y su influencia en el
+  panorama musical'
 ---
 
 
-## 「無限に広がる音のレゴブロック」
+## “Bloques Lego con sonido infinito”
 
-文：mmr｜テーマ：ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響
+Texto: mmr｜Tema: Cambios en el sintetizador modular Eurorack y su influencia en la escena musical
 
-ユーロラック（Eurorack）モジュラーシンセサイザーは、1990年代初頭にドイツのエンジニア、ディーター・ドイプファー（Dieter Doepfer）が提唱しました。彼のA-100システムを起点に、モジュールのサイズや電源規格を統一したことで、異なるメーカーのモジュールを自由に組み合わせられる仕組みが誕生しました。
+El sintetizador modular Eurorack fue inventado por el ingeniero alemán Dieter Doepfer a principios de los años 1990. A partir de su sistema A-100, al estandarizar los tamaños de los módulos y los estándares de suministro de energía, nació un sistema que permitía combinar libremente módulos de diferentes fabricantes.
 
-従来のモーグやブクラに比べて小型かつ手頃な価格で提供されたユーロラックは、多くのミュージシャンや愛好家に支持され、現在では世界中で300以上のメーカーが参加する大規模なエコシステムへと発展しています。
+Más pequeño y asequible que los tradicionales Moog y Bucla, Eurorack se ha ganado el apoyo de muchos músicos y entusiastas, y ahora se ha convertido en un gran ecosistema con más de 300 fabricantes participando en todo el mundo.
 
 <hr>
 
-### 主なモジュールとメーカーの特徴
+### Módulo principal y características del fabricante.
 
-#### Make Noise（メイクノイズ）
+#### Hacer ruido
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-**代表モジュール**: MATHS、Erbe-Verb、Phonogene
-
-**特徴**: 直感的な操作性と独創的な機能を持つモジュールを提供。MATHSはアナログコンピュータとして、複雑なモジュレーションを可能にします。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFvhsahHcpM?si=grWL0pmruhL5tqVI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### Intellijel（インテリジェル）
+**Módulos representativos**: MATHS, Erbe-Verb, Phonogene
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-**代表モジュール**: Plonk、Metropolis、Tetrapad
-
-特徴: 高品質なデジタルモジュールを多く手掛け、特にシーケンサーやパフォーマンス用のインターフェースに強みがあります。
-
-#### Mutable Instruments（ミュータブル・インストゥルメンツ）
-
-**代表モジュール**: Braids、Rings、Clouds
-
-**特徴**: オープンソースで開発され、柔軟な音作りが可能なモジュールを提供。特に音色の多様性に優れています。
+**Características**: Proporciona módulos con operabilidad intuitiva y funciones únicas. Como computadora analógica, MATHS permite una modulación compleja.
 
 ---
 
-#### Doepfer（ドイプファー）
+#### Inteligencia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-**代表モジュール**: A-110（VCO）、A-120（SVF）、A-140（EG）
-
-**特徴**: ユーロラック規格の提唱者として、基本的なモジュールを多くラインナップ。初心者にも扱いやすい設計が特徴です。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### Noise Engineering（ノイズ・エンジニアリング）
+**Módulos representativos**: Plonk, Metropolis, Tetrapad
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Características: Producimos muchos módulos digitales de alta calidad y somos particularmente fuertes en secuenciadores e interfaces de rendimiento.
+
+#### Instrumentos mutables
+
+**Módulos representativos**: Trenzas, Anillos, Nubes
+
+**Características**: Desarrollado como código abierto, proporciona módulos que permiten la creación de sonido flexible. Tiene una diversidad tonal particularmente excelente.
 
 ---
 
-**代表モジュール**: Basimilus Iteritas、Loquelic Iteritas
+#### Doepfer
 
-**特徴**: デジタルシンセシスを駆使し、鋭い音色と高い音圧を持つモジュールを提供。特にエクストリームな音作りに適しています。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
+---
 
-<hr>
+**Módulos representativos**: A-110 (VCO), A-120 (SVF), A-140 (EG)
 
-### 音楽ジャンル・シーンへの影響
+**Características**: Como defensores del estándar Eurorack, ofrecemos una amplia gama de módulos básicos. Presenta un diseño que es fácil de usar incluso para principiantes.
 
-ユーロラックモジュラーシンセサイザーは、特定の音楽ジャンルやシーンに多大な影響を与えてきました。
+---
 
-#### エクスペリメンタル／アンビエント
+#### Ingeniería de ruido
 
-アレッサンドロ・コルティーニ（Alessandro Cortini）やケイト・フルターン・ウィットマン（Keith Fullerton Whitman）などのアーティストは、ユーロラックを用いて複雑で深遠な音世界を構築しています 。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
+---
 
-#### テクノ／IDM
+**Módulo representativo**: Basimilus Iteritas, Loquelic Iteritas
 
-アーティストの中には、ユーロラックをライブパフォーマンスやスタジオ制作に活用し、即興的でダイナミックな音作りを行っている者も多くいます 。
-
-#### ポップ／ロック
-
-ColdplayやNine Inch Nailsなどのバンドもユーロラックを取り入れ、楽曲制作やライブパフォーマンスに新たな音色を加えています 。
+**Características**: Utiliza síntesis digital para proporcionar módulos con tonos nítidos y alta presión sonora. Especialmente adecuado para la creación de sonido extremo.
 
 
 <hr>
 
-### ユーザーとアーティストの活用事例
+### Influencia en el género/escena musical
 
-以下は、ユーロラックモジュラーシンセサイザーを活用している著名なアーティストとその代表的なモジュールの一部です。
+Los sintetizadores modulares Eurorack han tenido una gran influencia en determinados géneros y escenas musicales.
+
+#### Experimental/Ambiente
+
+Artistas como Alessandro Cortini y Keith Fullerton Whitman utilizan Eurorack para crear mundos sonoros complejos y profundos.
+
+
+#### Tecno/IDM
+
+Muchos artistas utilizan Eurorack para presentaciones en vivo y producciones de estudio, creando sonidos dinámicos y de improvisación.
+
+#### Pop/Rock
+
+Bandas como Coldplay y Nine Inch Nails también adoptaron el Eurorack, agregando nuevos tonos a sus composiciones y presentaciones en vivo.
+
+
+<hr>
+
+### Ejemplos de uso para usuarios y artistas
+
+A continuación se muestran algunos de los artistas notables y sus módulos exclusivos que utilizan sintetizadores modulares Eurorack.
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>アーティスト名</th>
-      <th>使用モジュール例</th>
+<th>Nombre del artista</th>
+<th>Ejemplo de módulo utilizado</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Alessandro Cortini</td>
-      <td>Make Noise MATHS、Mutable Instruments Rings</td>
+<td>Alessandro Cortini</td>
+<td>Make Noise MATHS, anillos de instrumentos mutables</td>
     </tr>
     <tr>
-      <td>Keith Fullerton Whitman</td>
-      <td>Intellijel Plonk、Mutable Instruments Clouds</td>
+<td>Keith Fullerton Whitman</td>
+<td>Intellijel Plonk, Nubes de Instrumentos Mutables</td>
     </tr>
     <tr>
-      <td>Aphex Twin</td>
-      <td>Make Noise Erbe-Verb、Mutable Instruments Braids</td>
+<td>Aphex Gemelo</td>
+<td>Hacer Ruido Erbe-Verb, Instrumentos Mutables Trenzas</td>
     </tr>
     <tr>
-      <td>Coldplay</td>
-      <td>Make Noise Shared System、Intellijel Metropolis</td>
+<td>Coldplay</td>
+<td>Sistema compartido Make Noise, Intellijel Metropolis</td>
     </tr>
     <tr>
-      <td>Nine Inch Nails</td>
-      <td>Make Noise MATHS、Mutable Instruments Clouds</td>
+<td>Clavos de nueve pulgadas</td>
+<td>Hacer Ruido MATHS, Nubes de Instrumentos Mutables</td>
     </tr>
     <tr>
-      <td>Surgeon</td>
-      <td>Mutable Instruments Braids、Make Noise MATHS、Hexinverter Mutant Hi Hats、Tiptop Audio Trigger Riot</td>
+<td>Cirujano</td>
+<td>Trenzas de instrumentos mutables, Make Noise MATHS, Hi Hats mutantes Hexinverter, Tiptop Audio Trigger Riot</td>
     </tr>
   </tbody>
 </table>
@@ -144,16 +146,16 @@ ColdplayやNine Inch Nailsなどのバンドもユーロラックを取り入れ
 
 <hr>
 
-### Surgeonのライブセットアップの特徴
+### Funciones de la configuración en vivo del cirujano
 
-Surgeonのライブセットアップは、最小限の機材で最大の表現を追求することを特徴としています。彼は、複雑な機材の組み合わせではなく、限られたモジュールを駆使して即興的なパフォーマンスを行います。これにより、観客との一体感や予測不可能な展開を生み出し、テクノのライブパフォーマンスに新たな次元をもたらしています。
+La configuración en vivo de Surgeon se caracteriza por la búsqueda de la máxima expresión con el mínimo equipo. Actúa de forma improvisada utilizando un número limitado de módulos en lugar de una combinación compleja de equipos. Esto crea una sensación de unidad con el público e imprevisibilidad, aportando una nueva dimensión a las actuaciones de techno en vivo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
 <hr>
 
 
-### 小さな箱から、無限のサウンドへ
+### De una pequeña caja al sonido infinito
 
-ユーロラックモジュラーシンセサイザーは、その柔軟性と拡張性により、アーティストに新たな創造の自由を提供しています。今後もその進化と共に、音楽シーンにおける役割はますます重要になっていくことでしょう。
+Los sintetizadores modulares Eurorack ofrecen a los artistas una nueva libertad creativa con su flexibilidad y capacidad de ampliación. A medida que siga evolucionando, su papel en la escena musical será aún más importante.

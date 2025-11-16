@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Blast From The Past EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Various – Blast From The Past EP/
 tags:
 - House
 - Deep House
 - Jazz
-title: Various – Blast From The Past EP
+title: Varios – Explosión del pasado EP
 ---
 
 
-B面は、カナダのテックハウス/ディープハウスのDJ兼プロデューサーJay Tripwire(ジェイ・トリップワイヤー)が、Herbie Hancock(ハービー・ハンコック)「Rockitt」をBootleg remix。
+La cara B es una remezcla pirata de "Rockitt" de Herbie Hancock realizada por el productor y DJ canadiense de tech house/deep house Jay Tripwire.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Swan & Mouse – Cameo Appearance
 
@@ -26,7 +27,7 @@ B1. Jay Tripwire – Rockitt
 B2. DJ Naz –Breanna Got Paged
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m65624709294?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m65624709294?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1WJprgAlOYI?si=Y3FzKz8te7OcTm5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WJprgAlOYI?si=Y3FzKz8te7OcTm5E" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

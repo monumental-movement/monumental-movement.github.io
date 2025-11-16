@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/U2 – Achtung Baby.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-U2 – Achtung Baby/
 tags:
 - Rock
 - Pops
-title: U2 – Achtung Baby
+title: U2 – Achtung Bebé
 ---
 
 
-「Achtung Baby」は、U2が新たな音楽的方向性を追求したアルバムであり、従来のサウンドに対する脱構築と再構築を試みています。アルバムは、エレクトロニックな要素やダンスミュージックの影響を取り入れながらも、U2独自のメロディと感情的な歌詞を保ちつつ、新たな表現を追求しています。
+Achtung Baby es un álbum en el que U2 explora una nueva dirección musical, intentando deconstruir y reinventar su sonido tradicional. El álbum explora nuevas expresiones al tiempo que incorpora elementos electrónicos e influencias de la música dance y al mismo tiempo conserva las melodías y letras emocionales características de U2.
 
-「Achtung Baby」には、多くのヒット曲が収録されています。例えば、「One」や「Mysterious Ways」、「Even Better Than the Real Thing」などがあります。これらの楽曲は、アルバムの実験的なアプローチと共に、独特なサウンドと強力なメロディが特徴です。
+"Achtung Baby" incluye muchos éxitos. Los ejemplos incluyen "One", "Mysterious Ways" e "Incluso mejor que lo real". Estas canciones presentan sonidos únicos y melodías fuertes, junto con el enfoque experimental del álbum.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Zoo Station
 
@@ -43,7 +44,7 @@ B5. Acrobat
 B6. Love Is Blindness
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

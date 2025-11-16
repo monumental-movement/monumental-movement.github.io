@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Scanty – Get Next To The Opposite Sex.webp
 lang: es
 layout: post
+permalink: /es/2025-10-20-Scanty – Get Next To The Opposite Sex/
 tags:
 - House
 - Tech House
 - 00s
-title: Scanty – Get Next To The Opposite Sex
+title: 'Escaso: ponte al lado del sexo opuesto'
 ---
 
 
-ScantyことRichard Marshall(リチャード・マーシャル)は、長年にわたり様々な名義で数多くの有名なクラブレコードを手がけてきた、ロンドンを拠点とするDJ／プロデューサー。
+Richard Marshall, también conocido como Scanty, es un DJ y productor radicado en Londres que ha producido muchos discos de clubes famosos con varios nombres a lo largo de los años.
 
-「Get Next To The Opposite Sex 」は、Garry Blackburn & Norman Cook主宰のレーベルSouthern Fried Recordsから2001年にリリースされたHouse／Tech House。
+"Get Next To The Opposite Sex" es una canción de House/Tech House lanzada en 2001 por el sello Southern Fried Records de Garry Blackburn y Norman Cook.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Get Next To The Opposite Sex
 
 AA. Crazy Life
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m79633518114?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m79633518114?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A_uM_rmY7ug?si=sNsdteD8Q2lMZDTp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_uM_rmY7ug?si=sNsdteD8Q2lMZDTp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Various – Metal For Muthas.webp
 lang: es
 layout: post
+permalink: /es/2024-05-13-Various – Metal For Muthas/
 tags:
 - Metal
 - Heavy Metal
 - Hard Rock
 - 80s
-title: Various – Metal For Muthas
+title: Varios – Metal Para Muthas
 ---
 
 
-【収録アーティスト】
-アイアン・メイデン、スレッジハンマー、E.F.バンド、トード・ザ・ウェット・スプロケット、エーテル・ザ・フロッグ、エンジェル・ウィッチ、サムソン、ナッズ
+[Artistas que graban]
+Iron Maiden, Sledgehammer, E.F. Band, Toad the Wet Sprocket, Aether the Frog, Angel Witch, Samson, Nuds
 
-日本では「ヘヴィメタルへの招待」として発売された名作メタルオムニバス。このアルバムは1986年にドイツのレーベルBack Boneからリリースされた再発ドイツ盤。
+Una obra maestra de metal lanzada en Japón como "Invitation to Heavy Metal". Este álbum es una reedición alemana lanzada en 1986 por el sello alemán Back Bone.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Iron Maiden – Sanctuary
 A2. Sledgehammer – Sledgehammer
@@ -33,7 +34,7 @@ B4. Samson – Tomorrow Or Yesterday
 B5. Nutz – Bootliggers
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a848h5wZrdA?si=k6c6KeQG_F1iA40V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a848h5wZrdA?si=k6c6KeQG_F1iA40V" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

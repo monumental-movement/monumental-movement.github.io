@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Hakan Lidbo – From Hackney To Caracas EP.webp
 lang: es
 layout: post
+permalink: /es/2025-06-15-Hakan Lidbo – From Hackney To Caracas EP/
 tags:
 - Electronic
 - House
 - 00s
-title: Håkan Lidbo – From Hackney To Caracas EP
+title: Håkan Lidbo – De Hackney a Caracas EP
 ---
 
 
-Hakan Lidboは、スウェーデン出身のpop/ danceミュージックのプロデューサーで、Fatboy Slim、Yello、Depeche Mode、Kool Keithなどのアーティストとremix&共同制作を行なっている。また、スウェーデンのダンスレーベルMNW Dance、Left < > Right Recordingsをマネージメント、そしてJohn Andersson と共にContainer Recordingsを運営している。
+Hakan Lidbo es un productor sueco de música pop/dance que remezcla y colabora con artistas como Fatboy Slim, Yello, Depeche Mode y Kool Keith. También gestiona los sellos de danza suecos MNW Dance, Left < > Right Recordings y dirige Container Recordings con John Andersson.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. From Hackney To Caracas
 A2. Hot Pants
@@ -25,11 +26,11 @@ B1. Both Ends Burning
 B2. Out To Lunch
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66936691060?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66936691060?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xefd6kFwKVk?si=0AUu8518hFhONZEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xefd6kFwKVk?si=0AUu8518hFhONZEU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uW7WqTJ-QPQ?si=ZHDPRYdGGh5yCXSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uW7WqTJ-QPQ?si=ZHDPRYdGGh5yCXSO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

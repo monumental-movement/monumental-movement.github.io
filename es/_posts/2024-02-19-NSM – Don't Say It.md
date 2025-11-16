@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/NSM – Don't Say It.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-NSM – Don't Say It/
 tags:
 - Downtempo
 - Broken Beat
 - 00s
-title: NSM – Don't Say It
+title: NSM – No lo digas
 ---
 
 
-NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
+NSM es el nombre de producción de Ian Grant, también conocido como IG Culture, uno de los primeros innovadores de Broken Beat.
 
-A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
+La vocalista de la primera canción de la cara A y la segunda canción de la cara B es Eska Mtungwazi, también conocida como Eska, una cantautora y multiinstrumentista británica nacida en Londres.
 
-NSM（New Sector Movements/ニュー・セクター・ムーヴメンツ）は、準グループのような存在で、メンバーは西ロンドンのブロークンビート・コミュニティ出身者を中心に流動的で、これまでに参加したメンバーには、カイディ・タタム（エイジェントK名義）、ジュリー・デクスター、ベンベ・セゲ、エスカ・ムトゥングワジ、エリック・アッパポウレイ（ murky waters名義）、弦楽デュオのチックス・ウィズ・スティックス（イジー・ダン & ステラ・ペイジ）、そして元バックショット・レフォンケのメンバー、フランク・マッコムなどがいます。
+NSM (New Sector Movements) es una especie de cuasi grupo, cuyos miembros provienen en su mayoría de la comunidad de ritmos rotos del oeste de Londres. Los miembros anteriores incluyen a Kaidi Tatum (bajo el nombre de Agente K), Julie Dexter, Bembe Sege, Eska Mtungwazi y Eric Appapoulay (turky). Waters), el dúo de cuerdas Chicks with Sticks (Izzy Dunn y Stella Page) y el ex miembro de Buckshot Refonke, Frank McComb.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Don't Say It　
 Vocals – Eska
@@ -33,7 +34,7 @@ B2. Soon Come
 Vocals – Eska
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRoUe6XlgVw?si=s713IKZmOfuwY3ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRoUe6XlgVw?si=s713IKZmOfuwY3ns" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Mondo Grosso – MG4.webp
 lang: es
 layout: post
+permalink: /es/2023-09-17-Mondo Grosso – MG4/
 tags:
 - House
 - Lounge
-title: Mondo Grosso – MG4
+title: Mundo Grosso – MG4
 ---
 
 
-大沢伸一のルーツであるジャズ、ソウル、ブラジリアン・ミュージックを土台に、生楽器を用いた繊細なアレンジと2Stepのダンスビートでまとめたジャパニーズ・クラブ・ミュージック。
+Música de club japonesa basada en las raíces de Shinichi Osawa en el jazz, el soul y la música brasileña, con delicados arreglos utilizando instrumentos en vivo y ritmos de baile de 2Step.
 
-birdをフィーチャリングし、当時ヒットした「Life」や「Butterfly」も収録。
+También se incluyen "Life" y "Butterfly", que fueron éxitos en ese momento y presentaban a Bird.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  MG2SS
 
@@ -43,7 +44,7 @@ F1  Star Suite IIII. North Star
 F2  1974-Way Home
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

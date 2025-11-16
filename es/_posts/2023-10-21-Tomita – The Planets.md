@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Tomita – The Planets.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Tomita – The Planets/
 tags:
 - Ambient
 - Classic
-title: Tomita – The Planets
+title: Tomita – Los Planetas
 ---
 
 
-冨田勲（Isao Tomita）は、日本の作曲家および電子音楽のパイオニア。
+Isao Tomita es un compositor japonés y pionero de la música electrónica.
 
-「惑星」（"The Planets"）は、冨田勲の代表作の一つで、イギリスの作曲家グスターヴ・ホルストによる同名のクラシック音楽組曲をシンセサイザーと電子音楽によって再解釈し、独自に編曲・演奏したものです。冨田勲の「惑星」は、電子音楽の革新的な作品として高く評価され、クラシック音楽と電子音楽の融合として注目を浴びました。
+"The Planets" es una de las obras maestras de Isao Tomita, y es una reinterpretación de la suite de música clásica del mismo nombre del compositor británico Gustav Holst utilizando sintetizadores y música electrónica, arreglada e interpretada de forma independiente. "Planet" de Isao Tomita fue muy elogiado como un trabajo innovador de música electrónica y llamó la atención como una fusión de música clásica y electrónica.
 
-ジャケットデザインはStanislaw Fernandes（スタニスワフ・フェルナンデス）。
+El diseño de la chaqueta es de Stanislaw Fernandes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Mars
 
@@ -35,7 +36,7 @@ B3. VI Uranus
 B4. VII Neptune
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uv707GLbFGw?si=zwE73SpUQ8yobHf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uv707GLbFGw?si=zwE73SpUQ8yobHf7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

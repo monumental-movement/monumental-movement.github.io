@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Fumiya Tanaka – Player EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-Fumiya Tanaka – Player EP/
 tags:
 - Techno
 - Tribal
-title: Fumiya Tanaka – Player EP
+title: Fumiya Tanaka - EP del jugador
 ---
 
 
-「Player EP」は、
-2002年にTorema RecordsからリリースされたFumiya TanakaのEPです。
+“Jugador EP” es
+Este es el EP de Fumiya Tanaka lanzado por Torema Records en 2002.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Talking Drums
 
@@ -27,7 +28,7 @@ B1. Polyrhythm
 B2. The 8th Of December
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93872054056?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93872054056?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t84lhM3pVmc?si=HUiuTxFa4yYNfYSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t84lhM3pVmc?si=HUiuTxFa4yYNfYSd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

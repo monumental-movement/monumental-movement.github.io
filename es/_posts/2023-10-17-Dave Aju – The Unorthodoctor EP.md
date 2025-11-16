@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Dave Aju – The Unorthodoctor EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-17-Dave Aju – The Unorthodoctor EP/
 tags:
 - House
 - Tech House
-title: Dave Aju – The Unorthodoctor EP
+title: Dave Aju - El EP Unortodoctor
 ---
 
 
-Dave AjuことMarc Barriteは、サンフランシスコに拠点活動するアメリカのDJ/プロデューサー。
-「The Unorthodoctor EP」はフランスのレーベルCircus Companyより2003年にリリースされたDave Ajuのデビュー作。
+Marc Barrite, también conocido como Dave Aju, es un DJ y productor estadounidense que vive en San Francisco.
+"The Unorthodoctor EP" es el trabajo debut de Dave Aju lanzado en 2003 por el sello francés Circus Company.
 
-Dave Ajuは、Alland Byallo、Kenneth Scott、Marc Smithと共にKammとしても活動中。
+Dave Aju también actúa como Kamm con Alland Byallo, Kenneth Scott y Marc Smith.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Smog Check
 
@@ -28,7 +29,7 @@ B1. Sourmash
 B2. Talk Shows
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44121616957?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o7wiOuOWol8?si=KXWPOW-DvCGUD9xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o7wiOuOWol8?si=KXWPOW-DvCGUD9xw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Pearl Bros.webp
 lang: es
 layout: post
+permalink: /es/2025-06-15-Pearl Bros/
 tags:
 - JPop
 - Rock
 - Pop
 - 80s
-title: パール兄弟 Pearl Bros. – 鉄カブトの女
+title: Pearl Bros. – Mujer Casco de Hierro
 ---
 
 
-パール兄弟は、1983年結成し、1986年デビューした日本のロックユニット。バンドメンバーが「兄弟」である設定にしている。
+Pearl Brothers es una unidad de rock japonesa formada en 1983 y debutó en 1986. Los miembros de la banda serán "hermanos".
 
-メンバーは、佐伯 健三(サエキけんぞう)、窪田 晴男、バカボン鈴木、松永 俊弥、矢代恒彦　他。
+Los miembros son Kenzo Saeki, Haruo Kubota, Bakabon Suzuki, Toshiya Matsunaga, Tsunehiko Yashiro y otros.
 
-「鉄カブトの女」は、1986年にポリドールレコードからリリースされたパール兄弟の1stシングル。ジャケットのイラストは、しりあがり寿。プロデューサーは、岡田 徹。
+"Tetsu Kabuto no Onna" es el primer sencillo de los Pearl Brothers lanzado por Polydor Records en 1986. La ilustración de la portada es de Kotobuki Shiriagari. El productor es Toru Okada.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. 鉄カブトの女
 
@@ -28,9 +29,9 @@ B1. バカヤロウは愛の言葉 (ディスコ・タイプ)
 B2. ◯。◯◯◯娘 (サエキ用カラオケ)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zI1Dq9i9nw0?si=lWyVFpOuRWX105TN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zI1Dq9i9nw0?si=lWyVFpOuRWX105TN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-3mb1CUdbWs?si=mVpzprXl3VtNwUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-3mb1CUdbWs?si=mVpzprXl3VtNwUQE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

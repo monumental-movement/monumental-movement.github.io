@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/DJ Rip – House Playerz E.P.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-DJ Rip – House Playerz E.P/
 tags:
 - House
 - Hard House
-title: DJ Rip – House Playerz E.P
+title: DJ Rip – House Playerz EP
 ---
 
 
-「House Playerz E.P」は、
-1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。
+“House Playerz E.P” es
+Se trata de un EP de DJ Rip, cuyo nombre real es Xavier Jacome, lanzado en 1998 bajo el sello "Underground Construction".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Man On Da Wax
 
@@ -26,7 +27,7 @@ B1. Feed Da Kitty
 B2. Feed Da Kitty (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m81262521689?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m81262521689?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EP5cub269kE?si=_if3EKSUJ3HYr4hP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EP5cub269kE?si=_if3EKSUJ3HYr4hP" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

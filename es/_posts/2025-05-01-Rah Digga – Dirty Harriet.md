@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Rah Digga – Dirty Harriet.webp
 lang: es
 layout: post
+permalink: /es/2025-05-01-Rah Digga – Dirty Harriet/
 tags:
 - Hip Hop
 - 00s
-title: Rah Digga – Dirty Harriet
+title: Rah Digga - Harriet la sucia
 ---
 
 
-『Dirty Harriet』（2000年）は、ラヒム・フィッシャーことRah Diggaのデビュー・スタジオ・アルバムであり、ヒップホップ史において過小評価されつつも重要な一枚。
+Dirty Harriet (2000) es el álbum de estudio debut de Rahim Fisher, también conocido como Rah Digga, y es una pieza subestimada pero importante en la historia del hip-hop.
 
-Flipmode Squad初の女性メンバーとして、Busta Rhymesの後ろ盾のもと、Rah Diggaは本作で卓越したリリシズムと東海岸のブームバップ・サウンドを武器に、女性MCとしての確固たる地位を築きました。
+Como la primera mujer miembro del Flipmode Squad, con el respaldo de Busta Rhymes, Rah Digga se estableció firmemente como MC femenina con su lirismo magistral y su sonido boom-bap de la costa este.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Intro
 A2. Harriet Thugman
@@ -37,7 +38,7 @@ D2. F**k All Y'all N*gg*s
 D3. Lessons Of Today
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MQIxlsGwy6U?si=NIk_ZwsymxghsjgH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQIxlsGwy6U?si=NIk_ZwsymxghsjgH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

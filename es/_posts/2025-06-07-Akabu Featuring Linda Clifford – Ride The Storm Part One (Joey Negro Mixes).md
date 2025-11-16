@@ -6,21 +6,23 @@ image: ../assets/images/Akabu Featuring Linda Clifford – Ride The Storm Part O
   Negro Mixes).webp
 lang: es
 layout: post
+permalink: /es/2025-06-07-Akabu Featuring Linda Clifford – Ride The Storm Part One
+  (Joey Negro Mixes)/
 tags:
 - Electronic
 - House
 - 00s
-title: Akabu Featuring Linda Clifford – Ride The Storm Part One (Joey Negro Mixes)
+title: Akabu con Linda Clifford – Ride The Storm Part One (Joey Negro Mixes)
 ---
 
 
-Akabu ことDave Lee は、イギリスのDJ・プロデューサー・リミキサー。Dave Lee は、1990年からJoey Negro(ジョーイ・ネグロ)別名で最もよく知られていたが、ジョージ・フロイドの抗議行動の後、2020年7月を最後にJoey Negro名義での活動を休止した。
+Dave Lee, también conocido como Akabu, es un DJ, productor y remezclador británico. Dave Lee era mejor conocido como Joey Negro desde 1990, pero se tomó un descanso de actuar como Joey Negro en julio de 2020 luego de las protestas de George Floyd.
 
-Dave Lee は、Jakatta, Doug Willis, Raven MaizeやSessomattoなど、数多くの別名義で活動している。
+Dave Lee ha actuado bajo numerosos alias, incluidos Jakatta, Doug Willis, Raven Maize y Sessomatto.
 
-Freddie Hubbard(フレディ・ハバード)のアルバムThe Love Connectionに収録されているLittle Sunflowerをベースに作られたこのレコードは、2001年にUKのレーベルNRK Sound Divisionからリリースされたハウストラック。
+Este disco, basado en Little Girasol del álbum de Freddie Hubbard, The Love Connection, es una canción house lanzada por el sello británico NRK Sound Division en 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Ride The Storm (Joey Negro Medusa Mix)
 
@@ -28,7 +30,7 @@ B1. Ride The Storm (Joey Negro Dub Storm)
 B2. Ride The Storm (Accapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63261987841?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63261987841?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ezLu4Yv1nSk?si=2YFtEsfIgc6mKe5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezLu4Yv1nSk?si=2YFtEsfIgc6mKe5I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

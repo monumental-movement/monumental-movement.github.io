@@ -5,63 +5,64 @@ categories:
 image: ../assets/images/column-vinyl-revival.webp
 lang: es
 layout: post
+permalink: /es/2025-10-22-column-vinyl-revival/
 tags:
 - Vinyl
-title: 【コラム】 回転するノスタルジー：Vinyl Revivalの心理
+title: '[Columna] Nostalgia giratoria: la psicología del resurgimiento del vinilo'
 ---
 
 
-## プロローグ：音が“データ”になったあとに残るもの
+## Prólogo: Lo que queda después del sonido se convierte en “datos”
 
 
-文：mmr｜テーマ：レコード回帰の心理学にデータ視点を加える。2000〜2025年の世界的Vinyl Revivalをグラフ化
+Texto: mmr | Tema: Agregar una perspectiva de datos a la psicología de la regresión de registros. Graficando el renacimiento global del vinilo desde 2000 hasta 2025
 
 
-音楽の消費が完全にデジタル化した2020年代、Spotifyのアルゴリズムが流すプレイリストの裏で、静かに“アナログの回帰”が進行していた。  
+En la década de 2020, cuando el consumo de música se volvió completamente digital, un "regreso a lo analógico" avanzaba silenciosamente detrás de las listas de reproducción reproducidas por el algoritmo de Spotify.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
 
-## 第1章：データと心理の交差点
+## Capítulo 1: La intersección de datos y psicología
 
-レコード復活の背景には、**心理的な欲求と社会的反動**がある。  
-物質的な音楽体験を取り戻す動きは、デジタル世代の**無意識の反抗**でもある。  
+Detrás del resurgimiento de los discos se encuentran **deseos psicológicos y reacciones sociales**.
+El movimiento para recuperar la experiencia musical física es también una rebelión inconsciente de la generación digital.
 
-以下のグラフは、2000〜2025年にかけての**世界レコード売上の推移**を示している。  
-CDが衰退する一方、Vinylが右肩上がりで復権していく様子が見て取れる。
+El siguiente gráfico muestra las tendencias récord de ventas globales desde 2000 hasta 2025.
+Se puede observar que mientras los CD están en declive, el vinilo está regresando y va en aumento.
 
 ---
 
-## 世界レコード売上推移（2000–2025）
+## Tendencias de ventas récord mundiales (2000-2025)
 
 <div class="mermaid">
 
 
-%% Vinyl Revival: 2000–2025
-timeline
-  title 世界レコード売上推移（2000–2025／IFPI推定データに基づく）
-  2000 : 全世界売上 約3億ドル（市場の片隅に）
-  2005 : 低迷期 — デジタル配信の隆盛
-  2010 : Indie再評価／Record Store Day定着
-  2015 : 10億ドルを突破（前年比＋30%）
-  2018 : LPがCD売上を逆転（UK）
-  2020 : 世界売上 約12億ドル（コロナ禍でも堅調）
-  2023 : 米国で1987年以来の最高記録（RIAA）
-  2025 : 世界市場 約25億ドル — 物質的音楽の再興
+%% Renacimiento del vinilo: 2000-2025
+línea de tiempo
+título Tendencias de ventas récord mundiales (2000-2025/basado en datos estimados de IFPI)
+2000: Ventas mundiales de aproximadamente 300 millones de dólares (en un rincón del mercado)
+2005: Recesión: el auge de la distribución digital
+2010: Se establece la reevaluación independiente/Record Store Day
+2015: Superó los mil millones de dólares (+30% respecto al año anterior)
+2018: LP anula las ventas de CD (Reino Unido)
+2020: Ventas globales de aproximadamente 1.200 millones de dólares (constantes a pesar de la pandemia de coronavirus)
+2023: récord más alto en EE. UU. desde 1987 (RIAA)
+2025: Mercado mundial de aproximadamente 2.500 millones de dólares: resurgimiento de la música física
 
 
 </div>
@@ -70,75 +71,75 @@ timeline
 ---
 
 
-## 第2章：数字が語る「儀式の復活」
+## Capítulo 2: “Resurrección de los rituales” contada en números
 
-経済データは冷たいようでいて、文化の熱を映し出す鏡でもある。
-レコードの売上増加は、単なる懐古ではなく、
-“体験を買う”という新しい消費行動の象徴だ。
+Los datos económicos pueden parecer fríos, pero también son un espejo que refleja el calor de la cultura.
+El aumento de las ventas de discos no se debe sólo a la nostalgia;
+Es un símbolo del nuevo comportamiento del consumidor de "comprar experiencias".
 
-特にZ世代の購入者の多くは「デジタル世代」そのものであり、
-彼らにとってレコードは“未知のクラシック”＝新しい物語装置として機能している。
-
----
-
-
-## 第3章：メディア考古学と所有の心理
-
-デジタルの透明性の裏側で、アナログの物質性が再び輝きを増す。
-音楽の記録メディアは、単に情報を保存するだけでなく、
-「時間」「劣化」「記憶」といった人間的な概念を可視化するメディアだ。
-
-レコードの円環は、時間の輪廻を象徴する。
-それは「音楽」そのものの比喩であり、
-「聴く行為＝時間と再会する儀式」なのだ。
+En particular, muchos de los compradores de la Generación Z son ellos mismos la “generación digital”.
+Para ellos, los discos funcionan como "clásicos desconocidos", un nuevo recurso narrativo.
 
 ---
 
 
-## 第4章：レコードが脳に与える影響
+## Capítulo 3: Arqueología de los medios y psicología de la propiedad
 
-心理学と脳科学の研究によれば、
-人間の脳は“ゆらぎ”のある音に快楽を感じる。
-アナログ音に含まれる微細なノイズや変動は、
-1/fゆらぎと呼ばれる自然現象と共鳴し、
-心拍や脳波のリズムを穏やかに整える作用を持つ。
+Detrás de la transparencia de lo digital, la materialidad de lo analógico vuelve a brillar.
+Los medios de grabación de música hacen más que simplemente almacenar información.
+Es un medio que visualiza conceptos humanos como "tiempo", "deterioro" y "memoria".
 
-──つまり、レコードを聴くことは「心の自律神経を整える行為」でもある。
+El anillo de registros simboliza el ciclo del tiempo.
+Es una metáfora de la "música" misma,
+"El acto de escuchar es un ritual de reencuentro con el tiempo."
 
 ---
 
 
-## 第5章：未来のアナログ──AI時代の反動
+## Capítulo 4: Efectos de los registros en el cerebro
 
-AIが音楽を無限に生成できる時代、
-「再現できない音」や「物質の痕跡」は、
-逆説的に希少価値を帯び始めている。
+Según investigaciones en psicología y ciencias del cerebro,
+El cerebro humano siente placer con los sonidos que tienen "fluctuaciones".
+El ruido fino y las fluctuaciones contenidos en el sonido analógico son
+Resonando con el fenómeno natural llamado fluctuación 1/f,
+Tiene el efecto de calmar el ritmo de los latidos del corazón y las ondas cerebrales.
 
-レコードは、AI生成音楽時代における
-**“アンチ・アルゴリズム的存在”**であり続けるだろう。
+──En otras palabras, escuchar discos es también un acto de "condicionamiento del sistema nervioso autónomo de la mente".
+
+---
+
+
+## Capítulo 5: Futuro analógico ─ Reacción en la era de la IA
+
+En una era en la que la IA puede generar música infinitamente,
+“Sonidos que no se pueden reproducir” y “rastro de materia” son
+Paradójicamente, está empezando a adquirir un valor de escasez.
+
+Registros en la era de la música generada por IA
+**Seguirá siendo una “entidad anti-algorítmica”**.
 
 ---
 
 
 <div class="mermaid">
 
-pie title 世界Vinyl市場シェア（2025推定）
-    "北米" : 42
-    "ヨーロッパ" : 30
-    "アジア太平洋" : 18
-    "南米・その他" : 10
+título del pastel Cuota de mercado global de vinilo (estimación para 2025)
+"América del Norte": 42
+"Europa": 30
+"Asia Pacífico": 18
+"América del Sur/Otros": 10
 
 </div>
 
 ---
 
-### 結語：回転する円盤の中の未来
+### Conclusión: El futuro dentro de un disco giratorio
 
-データ化が極まり、アルゴリズムがすべてを制御する時代。
-そのなかで、人々は再び“物質の音”を求めている。
+Vivimos en una época en la que los datos están en su apogeo y los algoritmos lo controlan todo.
+En estas circunstancias, la gente vuelve a buscar el "sonido material".
 
-レコードは死なない。
-むしろ、**人間の記憶と感情が回転する象徴**として、
-静かに、そして確実に未来へと回り続けている。
+Los registros nunca mueren.
+Más bien, como símbolo de la rotación de la memoria y las emociones humanas,
+Continúa mirando silenciosa y seguramente hacia el futuro.
 
 

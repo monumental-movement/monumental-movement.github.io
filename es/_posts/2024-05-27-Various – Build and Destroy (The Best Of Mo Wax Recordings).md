@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – Build and Destroy (The Best Of Mo Wax Recordings).webp
 lang: es
 layout: post
+permalink: /es/2024-05-27-Various – Build and Destroy (The Best Of Mo Wax Recordings)/
 tags:
 - Hiphop
 - Triphop
 - Abstract
 - 90s
-title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
+title: Varios – Build & Destroy (Lo mejor de Mo Wax Recordings)
 ---
 
 
-90年代を代表する伝説のレーベルMO WAXから1996年リリースされた2枚組のコンピレーションアルバム。
+Un álbum recopilatorio de dos discos lanzado en 1996 por MO WAX, un sello legendario que representa los años 90.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Rob Dougan –Clubbed To Death (Spoon Mix By Carl Craig)
 2. Attica Blues – Lonesome Child
@@ -30,7 +31,7 @@ title: Various – Build & Destroy (The Best Of Mo Wax Recordings)
 など全19曲
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44754932911?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

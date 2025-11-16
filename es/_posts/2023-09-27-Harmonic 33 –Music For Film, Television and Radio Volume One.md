@@ -5,26 +5,28 @@ categories:
 image: ../assets/images/Harmonic 33 –Music For Film, Television & Radio Volume One.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Harmonic 33 –Music For Film, Television and Radio Volume
+  One/
 tags:
 - Leftfield
 - Downtempo
-title: Harmonic 33 –Music For Film, Television & Radio Volume One
+title: Armónica 33 – Música para cine, televisión y radio Volumen uno
 ---
 
 
-2005年にリリースされたこのアルバムは、Warpのリリースの中でもクラシックな内容です。
+Lanzado en 2005, este álbum es un clásico entre los lanzamientos de Warp.
 
-"Optigan"のスイングするような外宇宙のグルーヴから、"Carousel"の回転する遊園地のような雰囲気まで、Harmonic 33は短い時間の中で最大限のムードを詰め込んでいます。
+Desde el ritmo oscilante del espacio exterior de "Optigan" hasta la atmósfera giratoria del parque de diversiones de "Carousel", Harmonic 33 reúne todo el estado de ánimo posible en un corto espacio de tiempo.
 
-"Bossa Nova Supernova"や"Departure Lounge"のように、イージーリスニングはスムーズに流れます。
+La escucha fácil fluye fluidamente, como "Bossa Nova Supernova" y "Departure Lounge".
 
-逆に徹底的な奇抜さを求めるなら、"Funky Duck"を聞いてみましょう。
+Por otro lado, si buscas absoluta excentricidad, escucha "Funky Duck".
 
-スパイドラマがお好みなら、"Paranoia"と"Long Shadow"が用意されています。
+Si te gustan los dramas de espías, tenemos "Paranoia" y "Long Shadow".
 
-"Marionette"のような短い楽曲でも、その存在感はしっかりと主張して、考え深くメランコリックな"Planet 54"で、このアルバムは締めくくられます。
+Incluso en canciones cortas como "Marionette", el álbum todavía hace sentir su presencia, y termina con el reflexivo y melancólico "Planet 54".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Optigan
 
@@ -59,7 +61,7 @@ title: Harmonic 33 –Music For Film, Television & Radio Volume One
 16. Pianet 54
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -6,24 +6,25 @@ image: ../assets/images/マイナー・チューニング・バンド マリリ�
   ピーナッツ.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-Minor Tuning Band - Hit in Disco/
 tags:
 - JPop
 - Soul
 - 7inch
-title: Minor Tuning Band - Hit in Disco
+title: Banda de afinación menor - Éxito en discoteca
 ---
 
 
-マイナー・チューニング・バンドによる歌謡ヒット・イン・ディスコ '76は、1976年にリリースされました。
+El popular éxito disco de la banda de afinación menor en el '76 se lanzó en 1976.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. マイナー・チューニング・バンド–ソウルこれっきりですか
 
 B. マリリン・モンロー・ハズバンド–ピーナッツ
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-EyXdh_WZ9Y?si=UwO_3_2xlvLQ0a6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-EyXdh_WZ9Y?si=UwO_3_2xlvLQ0a6U" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

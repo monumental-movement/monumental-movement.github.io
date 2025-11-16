@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Girl Eats Boy – Thrilled By Velocity and Distortion.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Girl Eats Boy – Thrilled By Velocity and Distortion/
 tags:
 - House
 - UK House
-title: Girl Eats Boy – Thrilled By Velocity and Distortion
+title: 'Chica come chico: emocionada por la velocidad y la distorsión'
 ---
 
 
-Girl Eats Boyは、イギリス出身のプロデューサー/DJ、Lol Hammond（ロル・ハモンド）のプロジェクト。「Girl Eats Boy – Thrilled By Velocity & Distortion」は1998年にHydrogen Dukeboxよりリリース。
+Girl Eats Boy es un proyecto del productor y DJ británico Lol Hammond. “Girl Eats Boy – Thrilled By Velocity & Distortion” fue lanzado por Hydrogen Dukebox en 1998.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Napalm In Bohemia
 
@@ -33,7 +34,7 @@ D1. Rude Girl Steppin'
 D2. Ram Raid
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44020854445?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44020854445?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJ6W46_m-r0?si=Z9-Dnq9B7eJyU79Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJ6W46_m-r0?si=Z9-Dnq9B7eJyU79Y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Richard Strauss.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Richard Strauss/
 tags:
 - Classical
 - Romantic
@@ -13,12 +14,12 @@ title: Richard Strauss
 ---
 
 
-・指揮者 ：Otto Ackermann オットー・アッカーマン
-・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
-・オーケストラ ：Philharmonia Orchestra フィルハーモニア管弦楽団
-・ソプラノボーカル ：Elisabeth Schwarzkopf エリーザベト・シュヴァルツコップ
+・Director: Otto Ackermann
+・Cuerno [solo]: Dennis Brain Dennis Brain
+・Orquesta: Orquesta Filarmónica
+・Voz soprano: Elisabeth Schwarzkopf
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Four Last Songs
 「4つの最後の歌」
@@ -32,4 +33,4 @@ Capriccio, Op. 85
 B1. Morgen Mittag Um Elf (Closing Scene)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

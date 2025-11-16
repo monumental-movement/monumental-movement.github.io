@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Michael Saxell – Red And Blue.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Michael Saxell – Red And Blue/
 tags:
 - Rock
 - Pops
-title: Michael Saxell – Red And Blue
+title: Michael Saxell - Rojo y azul
 ---
 
 
-Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
+Michael Saxell es un cantautor, compositor, letrista, multiinstrumentista y productor sueco.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Kelly
 
@@ -37,5 +38,5 @@ B4. Nothing But The Best
 B5. My Love Belongs To You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
 

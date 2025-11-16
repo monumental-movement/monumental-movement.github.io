@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Messengers – That's The Way A Woman Is.webp
 lang: es
 layout: post
+permalink: /es/2023-10-27-Messengers – Thats The Way A Woman Is/
 tags:
 - Rock
 - Pops
 - 7inch
-title: Messengers – That's The Way A Woman Is
+title: Mensajeros – Así es una mujer
 ---
 
 
-Messengers (メッセンジャーズ)は1962年から1972年にかけて活動したUSポップロックバンド。気になる女の子（That's The Way A Woman Is）は1971年にリリースされたMessengersの代表曲。
+Messengers fue una banda de pop rock estadounidense que estuvo activa desde 1962 hasta 1972. That's The Way A Woman Is es una canción representativa de Messengers lanzada en 1971.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. That's The Way A Woman Is (気になる女の子)
 
 B. The Letter (あの娘のレター)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10066256629?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2midSRBfkWM?si=1H76xP5LVzXbcZgT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2midSRBfkWM?si=1H76xP5LVzXbcZgT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub.webp
 lang: es
 layout: post
+permalink: /es/2024-12-04-Kazufumi Kodama A.K.A. Echo From Dub Station – Requiem Dub/
 tags:
 - Reggae
 - Dub
 - 90s
-title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
+title: Kazufumi Kodama también conocido como 'Echo' de Dub Station - Requiem Dub
 ---
 
 
-こだま和文は、ダブバンドMUTE BEATやKODAMA AND THE DUB STATION BANDなどで活躍するトランペット奏者。フィッシュマンズの1stアルバムやCHIEKO BEAUTYなど多数のアーティストのプロデュースも手掛けている。
+Kazufumi Kodama es un trompetista que participa activamente en bandas de dub como MUTE BEAT y KODAMA AND THE DUB STATION BAND. También ha producido muchos artistas como el primer álbum de Fishmans y CHIEKO BEAUTY.
 
-「Requiem Dub」は、NYレゲエの名スタジオとして知られるWackies(ワッキーズ)で録音した、こだま和文の2ndソロアルバム。1999年にSpeedstar International からリリースされた。このアルバムではこだま和文自身が全ての演奏＆プロデュースを手掛けている。
+"Requiem Dub" es el segundo álbum en solitario de Kazufumi Kodama, grabado en Wackies, conocido como un famoso estudio de reggae de Nueva York. Lanzado en 1999 por Speedstar International. El propio Kazufumi Kodama se encargó de todas las actuaciones y producción de este álbum.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Requiem
 2. Dub Requiem
@@ -32,7 +33,7 @@ title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BrI4i5TdHcY?si=Bxecb81tXGJFgpxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrI4i5TdHcY?si=Bxecb81tXGJFgpxZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

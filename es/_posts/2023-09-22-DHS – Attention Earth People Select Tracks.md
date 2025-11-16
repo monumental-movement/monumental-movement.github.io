@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/DHS – Attention Earth People Select Tracks.webp
 lang: es
 layout: post
+permalink: /es/2023-09-22-DHS – Attention Earth People Select Tracks/
 tags:
 - Break Beat
 - Minimal
-title: DHS – Attention Earth People Select Tracks
+title: DHS - Atención, gente de la Tierra, seleccione pistas
 ---
 
 
-DHS（Dimensional Holofonic Sound）はプロデューサーであるBenjamin Stokesによるプロジェクトで、特異なサウンドと革新的なエレクトロニックミュージックのアプローチで知られています。
+DHS (Dimensional Holofonic Sound) es un proyecto del productor Benjamin Stokes, conocido por su sonido único y su enfoque innovador de la música electrónica.
 
-1988年から、DHSは音楽、ビジュアル、ライブショーを作り続けています。
+Desde 1988, DHS crea música, imágenes y espectáculos en vivo.
 
-このEPは、DHSのトラックを選りすぐった作品の集合体であり、その先駆的なスタイルと音楽の多様性、進化を感じれる一枚で特別バージョンを収録した素晴らしいEPです。
+Este EP es una colección de pistas seleccionadas de DHS y es un EP maravilloso que incluye versiones especiales del estilo pionero, la diversidad musical y la evolución de DHS.
 
-フルサイズのLPはプレスされなかったので、これらの曲をヴァイナルで入手できる唯一の方法です。
+El LP de tamaño completo nunca se imprimió, por lo que esta es la única forma en que estas canciones están disponibles en vinilo.
 
-エレクトロとブレイクビーツが融合し、非常に特徴的なファンキーなシンクロペーションが全編を通して、そしてベン・ストークスの他の作品でも見られます。
+Una fusión de electro y breakbeat, con una sincronicidad funky muy distintiva que se puede apreciar a lo largo del disco y en otros trabajos de Ben Stokes.
 
-需要と価格の高騰により、このレコードは高価ですが、1曲だけ良い曲が入っているだけのレコードと比べれば、その価値は十分にあります。
+Debido a la demanda y al aumento de los precios, este disco es caro, pero comparado con un disco con sólo una buena canción, vale la pena.
 
-このEP、もしくはミニアルバムは最初から最後まで最高級の一枚で、無駄な曲がなく、完全にキラーチューンが満載です。
+Este EP, o mini-álbum, es de primera categoría de principio a fin, sin canciones desperdiciadas y absolutamente lleno de melodías increíbles.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Attention Earth People
 
@@ -41,7 +42,7 @@ B2  Venus The Morning Star
 B3  As High As It Can Go
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

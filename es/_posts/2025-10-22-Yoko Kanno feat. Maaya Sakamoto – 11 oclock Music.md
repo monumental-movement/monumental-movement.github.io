@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Yoko Kanno feat. Maaya Sakamoto – 23時の音楽.webp
 lang: es
 layout: post
+permalink: /es/2025-10-22-Yoko Kanno feat. Maaya Sakamoto – 11 oclock Music/
 tags:
 - Soundtrack
 - Jpop
 - Neo-Classical
 - 00s
-title: Yoko Kanno feat. Maaya Sakamoto – 23時の音楽
+title: Yoko Kanno hazaña. Maaya Sakamoto – 23:00 música
 ---
 
 
-菅野よう子 feat. 坂本真綾による、瀬戸朝香&吉川晃司出演のNHK連続ドラマ「真夜中は別の顔」のミニサウンドトラック。
+Mini banda sonora de la serie dramática de NHK "Midnight is another face" protagonizada por Asaka Seto y Koji Yoshikawa, de Yoko Kanno feat. Maaya Sakamoto.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Two Things
 2. Here
@@ -34,7 +35,7 @@ title: Yoko Kanno feat. Maaya Sakamoto – 23時の音楽
 14. ノエルのピアノ
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40482792919?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/laxii4Q9c6k?si=fl99wAMnkL3s_ZAL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

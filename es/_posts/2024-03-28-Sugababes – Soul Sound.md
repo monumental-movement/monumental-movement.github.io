@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Sugababes – Soul Sound.webp
 lang: es
 layout: post
+permalink: /es/2024-03-28-Sugababes – Soul Sound/
 tags:
 - Disco
 - Garage
 - 00s
-title: Sugababes – Soul Sound
+title: Sugababes – Sonido del alma
 ---
 
 
-シュガーベイブスによるEP 「ソウルサウンド」のB面１曲目は、Jakatta、Doug Willis、Raven Maize、Sessomatto名義でも知られる、UKのDJ・ハウスミュージックプロデューサJoey NegroことDave Leeによるremix。
+La primera cara B del EP ``Soul Sound'' de Sugar Babes es un remix de Dave Lee, también conocido como Joey Negro, un DJ y productor de música house del Reino Unido también conocido como Jakatta, Doug Willis, Raven Maize y Sessomatto.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Run For Cover (G4orce All Things Nice Dub)
 
@@ -26,7 +27,7 @@ B1. Soul Sound (Joey Negro Club Mix)
 B2. Soul Sound (Soulchild Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76809877901?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76809877901?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f8dxzllKuNA?si=27ksw_8qhl9Am2Pw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8dxzllKuNA?si=27ksw_8qhl9Am2Pw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

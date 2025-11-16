@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Junior Senior – Hey Hey My My Yo Yo.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-Junior Senior – Hey Hey My My Yo Yo/
 tags:
 - Synth-Pop
 - Disco
-title: Junior Senior – Hey Hey My My Yo Yo
+title: Junior Senior - Hey Hey My My Yo Yo
 ---
 
 
-このアルバムは、デンマークの音楽デュオであるJunior Senior（ジュニア・シニア）の楽曲です。この曲は、2002年にリリースされた彼らのデビューアルバム「D-D-Don't Stop the Beat」に収録されています。
+Este álbum es una canción del dúo musical danés Junior Senior. Esta canción está incluida en su álbum debut "D-D-Don't Stop the Beat", lanzado en 2002.
 
-「Hey Hey My My Yo Yo」はアップテンポでキャッチーなポップソングで、明るいメロディ、踊りやすいビート、おふざけな歌詞が特徴です。Junior Seniorの音楽は、ダンスポップやディスコの要素を取り入れ、ポップな楽曲を提供することで知られています。
+"Hey Hey My My Yo Yo" es una canción pop pegadiza y dinámica con una melodía alegre, un ritmo bailable y una letra divertida. La música de Junior Senior es conocida por sus composiciones pop, que incorporan elementos de dance-pop y disco.
 
-「Hey Hey My My Yo Yo」はJunior Seniorの最も有名な曲の1つであり、世界的なヒットとなりました。
+"Hey Hey My My Yo Yo" es una de las canciones más famosas de Junior Senior y se convirtió en un éxito mundial.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.Hello
 
@@ -46,7 +47,7 @@ title: Junior Senior – Hey Hey My My Yo Yo
 12.Hey Hey My My Yo Yo Recording Diary
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51276371738?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51276371738?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LY1Zz_ZsKf0?si=BomLoYGg1uAQtZ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LY1Zz_ZsKf0?si=BomLoYGg1uAQtZ2o" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

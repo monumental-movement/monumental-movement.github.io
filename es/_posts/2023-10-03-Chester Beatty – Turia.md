@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Chester Beatty – Turia.webp
 lang: es
 layout: post
+permalink: /es/2023-10-03-Chester Beatty – Turia/
 tags:
 - Techno
 title: Chester Beatty – Turia
 ---
 
 
-「Turia」は、
-2001年にUKのレーベル「Disq」からリリースされたRobert Armani（ロバートアルマ二）のプロジェクトChester BeattyのEPです。
+"Turia" es
+Este es un EP del proyecto Chester Beatty de Robert Armani, lanzado en 2001 en el sello británico Disq.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Untitled
 
 B. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92597172261?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m92597172261?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmYeQFJpK6U?si=FiZJaXf_hQuOaWT7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmYeQFJpK6U?si=FiZJaXf_hQuOaWT7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

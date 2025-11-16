@@ -5,53 +5,55 @@ categories:
 image: ../assets/images/column-rave-zine-save.webp
 lang: es
 layout: post
+permalink: /es/2025-09-29-Column-Rave-Zine-Save/
 tags:
 - Zine
 - Rave
 - History
-title: 【コラム】 Zineはレイヴを救えるか？：DIYメディアの記憶装置としての可能性
+title: '[Columna] ¿Puede Zine salvar a Rave? : Posibilidad de medios de bricolaje
+  como dispositivo de almacenamiento'
 ---
 
 
-## Zineは記録、Zineは表現、Zineはレイヴの延長
+## Zine es un disco, zine es una expresión, zine es una extensión de rave
 
-文：mmr｜ジャンル：メディア文化・音楽アーカイブ｜テーマ：記録されなかったカルチャーの保存装置としてのZine  
+Texto: mmr | Género: Cultura mediática/archivo musical | Tema: Zine como dispositivo de preservación de la cultura no registrada
 
 
-Zine（ジン）とは、自分で自由に作る小さなメディア。90年代パンクシーンやフェミニズム運動、スケーター文化と同じように、レイヴシーンでもZineは存在してきた。レイヴは瞬間の祝祭であるが、それを記憶し、他者と共有する手段としてZineはとても有効だ。 
+Una revista es un pequeño medio que puedes crear tú mismo. Los fanzines estaban tan presentes en la escena rave como en la escena punk de los 90, el movimiento feminista y la cultura skater. Una rave es una celebración del momento y las revistas son una excelente manera de recordarlo y compartirlo con los demás.
 
 ---
 
 
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-### 紙に焼きつく熱狂
+### Entusiasmo grabado en papel
 
-クラブのフロアで感じた身体の振動。郊外の林で朝まで続いた違法レイヴ。煙に包まれた赤外線の中で交わされた言葉なき共鳴。  
+Las vibraciones de mi cuerpo que sentí en el suelo del club. Una rave ilegal que se prolongó hasta la mañana en un bosque a las afueras de la ciudad. Una resonancia muda intercambiada en la luz infrarroja rodeada de humo.
 
-それらは多くの場合、記録されていない。メディアに載らず、履歴に残らない。  
+Muchas veces no se registran. No se informa en los medios y no queda registrado en la historia.
 
-だが今、その断片を拾い上げ、語り直す手段として注目されているのが「Zine（ジン）」というDIYメディアである。  
+Sin embargo, un medio de bricolaje llamado "Zine" está atrayendo actualmente la atención como medio para recoger los fragmentos y volver a contar la historia.
 
-Zineは、雑誌でも、日記でも、レポートでもない。だが、そのどれよりも“当事者の声”に近い。レイヴという本来、記録を拒む文化において、Zineは“記憶の補助装置”としての可能性を秘めている。  
+Un zine no es una revista, un diario o un informe. Sin embargo, está más cerca de las “voces de las personas involucradas” que cualquiera de ellas. En la cultura rave, que inherentemente se resiste a la grabación, las revistas tienen el potencial de servir como "ayudas para la memoria".
 
 ---
 
-### レイヴの記録不在という問題
+### El problema de la falta de discos rave
 
-レイヴは、「いま、ここ」の体験を重視する音楽文化であり、その性質上、メディアによる記録と相性が悪い。  
+Rave es una cultura musical que enfatiza la experiencia del aquí y ahora, y su naturaleza la hace incompatible con la grabación multimedia.
 
 | 記録されにくい理由 | 内容 |
 |--------------------|--------------------------------------------------|
@@ -59,28 +61,28 @@ Zineは、雑誌でも、日記でも、レポートでもない。だが、そ�
 | 違法性・匿名性 | 警察や行政からの摘発を避けるため、記録を残さない |
 | 一過性 | フロアの出来事はその瞬間限りで消える |
 
-こうして、多くのレイヴの「本当の姿」は残っていない。音源、映像、記録がないために、文化の継承が断絶しかねない。  
+Por tanto, la "verdadera imagen" de muchas raves no permanece. La falta de fuentes sonoras, imágenes y registros amenaza con alterar la herencia cultural.
 
 ---
 
-### Zineとは何か？：個人がつくるオルタナティブな記録
+### ¿Qué es una revista? : Registros alternativos creados por individuos
 
-Zineとは、「Magazine（雑誌）」の省略形で、誰でも自由に作れる自主制作出版物。印刷技術やWebに依存せず、紙とコピー機だけで成立する文化のかたまりだ。  
+Zine es una abreviatura de "Magazine" y es una publicación independiente que cualquiera puede crear libremente. Es una entidad cultural que no depende de la tecnología de impresión ni de la Web, sino que depende únicamente del papel y las fotocopiadoras.
 
-#### Zineの特徴
+#### Características de Zine
 
-- 編集者＝読者＝当事者という三位一体構造  
-- 手書き、切り貼り、コラージュなど自由な形式  
-- テーマは自由（音楽、政治、ジェンダー、体験記、エッセイなど）  
-- 商業主義とは無縁な“記録と共有”のための手段  
+- Estructura trinitaria de editor = lector = interesado
+- Formatos libres como escritura a mano, cortar y pegar, collage, etc.
+- Cualquier temática (música, política, género, experiencias personales, ensayos, etc.)
+- Un medio para “grabar y compartir” que no tiene nada que ver con el comercialismo.
 
 ---
 
-### Zineとレイヴの親和性
+### Zine y afinidad rave
 
-Zineは、記録されなかったレイヴの**「体験を後から再構築する手段」**になり得る。  
+Los fanzines pueden ser un "medio para reconstruir la experiencia" de raves no grabadas.
 
-#### 具体例  
+#### Ejemplo específico
 
 | 手法 | 記録できる内容 |
 |------|----------------|
@@ -91,15 +93,15 @@ Zineは、記録されなかったレイヴの**「体験を後から再構築�
 
 ---
 
-### 実例：世界のレイヴZineたち
+### Ejemplos: Rave Zines alrededor del mundo
 
 <div class="mermaid">
-flowchart TD
+diagrama de flujo TD
 
-    A["レイヴZine"] --> B["海外"]
+A["Rave Zine"] --> B["En el extranjero"]
     
-    B --> B1["Datacide<br>(ドイツ)"]
-    B --> B2["Rave Flyer Archives<br>(UK)"]
+B --> B1["Datacide<br>(Alemania)"]
+B --> B2["Archivos de folletos rave<br>(Reino Unido)"]
 </div>
 
 ---
@@ -111,7 +113,7 @@ flowchart TD
 
 ---
 
-### デジタル全盛の時代に、なぜ紙で残すのか？
+### En la era digital, ¿por qué mantener las cosas en papel?
 
 | 特徴                     | デジタル                          | 紙（Zine）                                  |
 | ------------------------ | --------------------------------- | ------------------------------------------- |
@@ -121,40 +123,40 @@ flowchart TD
 | 発信のしやすさ           | 誰でも容易に発信可能              | 作るのに手間＝作り手の思いが濃縮される       |
 
 
-レイヴが“身体的体験”であったように、Zineもまた“身体的メディア”なのである。
+Así como el rave fue una "experiencia física", el zine también es un "medio físico".
 
 ---
 
-### レイヴアーカイブ
+### Archivo delirio
 
-2007年設立のRave Archiveは、90年代レイヴ文化の記憶を保存・共有するアーカイブ。レイヴァーでありアーキビストの視点から、消えやすい文化を後世へ伝える。
+Fundado en 2007, Rave Archive es un archivo que preserva y comparte recuerdos de la cultura rave de los noventa. Desde la perspectiva de un raver y un archivero, transmitiré una cultura que tiende a desaparecer a las generaciones futuras.
 
-[Rave Archive](https://ravearchive.com)
-
-
----
-
-
-アメリカとカナダ各地の1989〜2000年のオールドスクール・レイヴ・フライヤー・アーカイブ
-
-Oldschool Rave Flyer archive 1989-2000+ from all over the US & Canada
-
-By Ernie Villalobos
-
-[Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)
+[Archivo Rave](https://ravearchive.com)
 
 
 ---
 
-### 結論：Zineは記録できなかった文化を継ぐ鍵
 
-Zineは商業でも公的記録でもない。だが、それゆえに、“誰も記録しなかったはずの瞬間”を残すことができる。それは日記であり、報告書であり、証言であり、ラブレターでもある。
+Archivos de folletos de rave de la vieja escuela de 1989 a 2000 de todo Estados Unidos y Canadá
 
-レイヴ文化の多くが失われていく中で、Zineという形で遺された記憶は、後世のリスナーやダンサーにとって、文化の輪郭を再発見する貴重な断片となるだろう。
+Archivo de Oldschool Rave Flyer 1989-2000+ de todo EE. UU. y Canadá
+
+Por Ernie Villalobos
+
+[Archivo de folletos antiguos de rave](https://flickr.com/photos/villalobosjayse/albums/)
 
 
 ---
 
-### 関連コラム
+### Conclusión: Los fanzines son la clave para heredar la cultura que no se pudo registrar
 
-🔗 [【コラム】 レイヴとメディア：記録されない音楽文化のアーカイブ化](https://monumental-movement.jp/Column-Rave-Media)
+Los fanzines no son registros comerciales ni públicos. Sin embargo, gracias a esto es posible preservar “momentos que nadie más habría registrado”. Es un diario, un informe, un testimonio y una carta de amor.
+
+A medida que se pierde gran parte de la cultura rave, los recuerdos que quedan en forma de fanzines se convertirán en fragmentos valiosos para que las generaciones futuras de oyentes y bailarines redescubran los contornos de la cultura.
+
+
+---
+
+### Columnas relacionadas
+
+🔗 [[Columna] Rave y Media: Archivando la cultura musical no grabada](https://monumental-movement.jp/Column-Rave-Media)

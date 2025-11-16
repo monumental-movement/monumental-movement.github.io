@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Taffy – Step By Step Moore Heavenly Mix.webp
 lang: es
 layout: post
+permalink: /es/2025-10-15-taffy – step by step moore heavenly mix/
 tags:
 - Italodance
 - Disco
 - 80s
-title: Taffy – Step By Step (Moore Heavenly Mix)
+title: Taffy – Paso a paso (Moore Heavenly Mix)
 ---
 
 
-Taffy (Katherine Quaye)は、ヒット曲「I Love My Radio 」で知られるUKのイタロ／ハイエナジーシンガー。
+Taffy (Katherine Quaye) es una cantante italo británica de gran energía conocida por su exitosa canción "I Love My Radio".
 
-このレコードは、レーベルRhythm KingのサブレーベTransglobalから1987年にリリースされた、Moore Heavenly によるItalodance Mix。
+Este disco es una mezcla de Italodance de Moore Heavenly, lanzado en 1987 en el subsello Transglobal de Rhythm King.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Step By Step (Moore Heavenly Mix)
 
 B. Whose?
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w4hIgfJ2DLo?si=XnKcM8Sks95AUr6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4hIgfJ2DLo?si=XnKcM8Sks95AUr6U" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

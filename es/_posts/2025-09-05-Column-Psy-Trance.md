@@ -5,49 +5,50 @@ categories:
 image: ../assets/images/column-psy-trance.webp
 lang: es
 layout: post
+permalink: /es/2025-09-05-Column-Psy-Trance/
 tags:
 - Psy-Trance
 - Trance
 - 90s
-title: 【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選
+title: '[Columna] Historia del Psy-Trance, obras maestras y 10 pistas recomendadas'
 ---
 
 
 
-## サイケデリック・トランス（Psy-Trance） — 発祥から現在までの年代別クロニクルと機材の変遷
+## Trance psicodélico (Psy-Trance) — Una crónica histórica del trance psicodélico desde sus orígenes hasta el presente y cambios en el equipamiento.
 
-文：mmr｜テーマ：Psy-Trance（サイケデリック・トランス）の発祥から現在までの歴史
+Texto: mmr｜Tema: Historia del Psy-Trance desde sus orígenes hasta la actualidad
 
 
-Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990年代中盤に“サイケデリック・トランス（Psy-Trance）”として世界に拡散。以降、音像の洗練と機材のデジタル化によって多様な派生ジャンル（Full-on、Darkpsy、Progressive、Psybient 等）を生み、フェス文化とネット配信でグローバル化しました。
+El trance de Goa, que se originó en la cultura hippie/rave de Goa, se extendió por todo el mundo a mediados de la década de 1990 como "trance psicodélico". Desde entonces, se han creado varios géneros derivados (Full-on, Darkpsy, Progressive, Psybient, etc.) mediante el refinamiento de las imágenes sonoras y la digitalización de los equipos, y se ha vuelto global a través de la cultura de los festivales y la distribución en línea.
 
-以下、年代別の流れ・代表的名盤・機材の変遷、そして**各時代のおすすめトラック10選**をまとめます。
+A continuación, resumiremos las tendencias por generación, obras maestras representativas, cambios en el equipamiento y **10 pistas recomendadas de cada época**.
 
 
 ---
 
-## 起源 — 1970s〜1980s
-- **背景:** ヒッピー文化と電子楽器の流入。中古シンセやリズムマシンがGoaに持ち込まれる。
-- **機材:** Roland TB-303, TR-808, TR-909 など。
+## Origen — Décadas de 1970 y 1980
+- **Antecedentes:** La cultura hippie y la afluencia de instrumentos musicales electrónicos. Se traen sintetizadores y cajas de ritmo usados ​​a Goa.
+- **Equipo:** Roland TB-303, TR-808, TR-909, etc.
 
-### 名盤
-- Kraftwerk – *Computer World* (1981)  
-- Tangerine Dream – *Exit* (1981)  
-- Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)  
+### Obra maestra
+- Kraftwerk – *Mundo de la informática* (1981)
+- Sueño de mandarina – *Salida* (1981)
+- Charanjit Singh – *Diez Ragas a un ritmo disco* (1982)
 
 
-### おすすめトラック 10選（1970s〜80s）
+### 10 temas recomendados (décadas de 1970 y 1980)
 
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
@@ -69,17 +70,17 @@ color: #fff;
 
 ---
 
-##  Goa Tranceの成立 — 1990〜1994
-- **背景:** インド・ゴアのフルムーンパーティ。DATテープで流れるトランスサウンドが世界に拡散。
-- **機材:** DAT, Rolandシンセ、初期サンプラー。
+## Establecimiento de Goa Trance - 1990-1994
+- **Antecedentes:** Fiesta de Luna Llena en Goa, India. Sonidos de trance reproducidos en cintas DAT repartidas por todo el mundo.
+- **Equipo:** DAT, sintetizador Roland, sampler inicial.
 
-### 名盤
-- Juno Reactor – *Transmissions* (1993)  
-- Man With No Name – *Moment of Truth* (1994)  
-- The Infinity Project – *Feeling Very Weird* (1994)  
+### Obra maestra
+- Juno Reactor – *Transmisiones* (1993)
+- Hombre sin nombre – *Momento de la verdad* (1994)
+- El Proyecto Infinity – *Sentirse muy raro* (1994)
 
 
-### おすすめトラック 10選（1990–94）
+### 10 pistas recomendadas (1990–94)
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
@@ -98,16 +99,16 @@ color: #fff;
 
 ---
 
-## 1990年代後半：Psy-Tranceの確立
-- **時代背景**: ゴアトランスが欧州に広がり、より硬質でハイテクな音作りへ。イスラエルのシーンが大きく躍進。  
-- **代表的な機材**: Access Virus, Clavia Nord Lead, Roland JP-8000  
+## Finales de la década de 1990: Establecimiento del Psy-Trance
+- **Antecedentes históricos**: El gore trance se extendió a Europa, creando un sonido más duro y de alta tecnología. La escena israelí está dando grandes pasos.
+- **Equipo típico**: Access Virus, Clavia Nord Lead, Roland JP-8000
 
-### 名盤
-- Hallucinogen – *Twisted* (1995)  
-- Infected Mushroom – *The Gathering* (1999)  
-- X-Dream – *Radio* (1998)  
+### Obra maestra
+- Alucinógeno – *Twisted* (1995)
+- Hongo infectado – *The Gathering* (1999)
+- Sueño X – *Radio* (1998)
 
-### おすすめトラック 10選（1995–99）
+### 10 pistas recomendadas (1995–99)
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
@@ -126,16 +127,16 @@ color: #fff;
 
 ---
 
-## 2000年代：世界規模のシーン拡大
-- **背景:** フェス文化の台頭（Boom Festival, Ozora）。サブジャンル化（フルオン、ダークPsy、プログレッシブPsy）が進む
-- **機材:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q 
+## Década de 2000: Ampliación de la escena global
+- **Antecedentes:** El auge de la cultura festiva (Boom Festival, Ozora). Los subgéneros (Psy completo, Psy oscuro, Psy progresivo) están progresando.
+- **Equipo:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q
 
-### 名盤
-- Infected Mushroom – *Classical Mushroom* (2000)  
-- GMS – *No Rules* (2002)  
-- Atmos – *Headcleaner* (2000)  
+### Obra maestra
+- Hongo infectado – *Hongo clásico* (2000)
+- GMS – *Sin reglas* (2002)
+- Atmos – *Limpiador de cabezales* (2000)
 
-### おすすめトラック 10選（2000s）
+### 10 pistas recomendadas (década de 2000)
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
@@ -154,16 +155,16 @@ color: #fff;
 
 ---
 
-## 2010年代：デジタル時代とクロスオーバー
-- **背景:** DAWとプラグインで制作が主流化。EDMやベースミュージックとの交流。フェス主導で世界的に定着。  
-- **機材:** Ableton Live, Serum, Massive, UAD Plugins 
+## Década de 2010: era digital y cruce
+- **Antecedentes:** La producción utilizando DAW y complementos se ha vuelto común. Interacción con EDM y bass music. Se ha consolidado en todo el mundo, liderado por los festivales.
+- **Equipo:** Ableton Live, Serum, Massive, Complementos UAD
 
-### 名盤
-- Vini Vici & Astrix – *Adhana* (2020)  
-- Liquid Soul – *Dreamcatcher* (2021)  
-- Outsiders – *Cosmic Awakenings* (2022)  
+### Obra maestra
+- Vini Vici y Astrix – *Adhana* (2020)
+- Alma líquida – *Atrapasueños* (2021)
+- Forasteros – *Despertares Cósmicos* (2022)
 
-### おすすめトラック 10選（2010s）
+### 10 pistas recomendadas (década de 2010)
 
 | #  | アーティスト / 曲名 | 年 | 備考 |
 |----|--------------------|----|------|
@@ -180,16 +181,16 @@ color: #fff;
 
 ---
 
-## 2020年代：新世代の融合と拡張
-- **背景**: Psy-Tranceとテクノ、ベースミュージック、サイケデリック・アンビエントの融合が進む。YouTubeや配信プラットフォームでの拡散により、若いリスナー層も急増。  
-- **機材**: Ableton Live 11, Arturia V Collection, Moog Subsequent 37, Eurorackモジュール  
+## Década de 2020: fusión y expansión de nueva generación
+- **Antecedentes**: Continúa la fusión de Psy-Trance, techno, bass music y ambient psicodélico. Debido a su difusión en YouTube y plataformas de distribución, el número de oyentes jóvenes está aumentando rápidamente.
+- **Equipo**: Ableton Live 11, Colección Arturia V, Moog Posterior 37, módulo Eurorack
 
-### 名盤
-- Vini Vici & Astrix – *Adhana* (2020)  
-- Liquid Soul – *Dreamcatcher* (2021)  
-- Outsiders – *Cosmic Awakenings* (2022)  
+### Obra maestra
+- Vini Vici y Astrix – *Adhana* (2020)
+- Alma líquida – *Atrapasueños* (2021)
+- Forasteros – *Despertares Cósmicos* (2022)
 
-### おすすめトラック 10選（2020s）
+### 10 pistas recomendadas (década de 2020)
 
 | # | アーティスト | トラック | 年 |
 |---|-------------|----------|----|
@@ -208,14 +209,14 @@ color: #fff;
 
 ---
 
-### サイケデリックの未来へ
-Psy-Tranceはヒッピー文化とテクノロジーの交錯から生まれ、90年代の黄金期を経て多彩に分岐し、現在も世界のフェスを席巻しています。音響デザインの進化と機材の変遷を追うと、そのサウンドのダイナミズムと文化の深みが浮かび上がります。
+### Hacia el futuro de los psicodélicos
+Psy-Trance nació de la intersección de la cultura y la tecnología hippie, se diversificó en muchas formas diferentes después de su época dorada en los años 90 y continúa dominando los festivales de todo el mundo. Seguir la evolución del diseño de sonido y los cambios en el equipamiento revela el dinamismo de su sonido y la profundidad de su cultura.
 
-アナログ機材から始まり、デジタル化を経て、現在はジャンルを超えた融合の段階にあります。**1990年代のゴア的スピリチュアル感覚**、**2000年代のハイテク・フルオンの爆発力**、**2010年代のデジタル・クロスオーバー**、そして**2020年代のジャンル横断的な進化**。それぞれの時代が独自の美学を生み出しました。  
+Empezamos con equipos analógicos, pasamos por la digitalización y ahora estamos en la etapa de fusión que trasciende géneros. **Espiritualidad sangrienta de los años 90**, **Explosividad total de alta tecnología de los años 2000**, **Crossover digital de los años 2010** y **Evolución entre géneros de los años 2020**. Cada época creó su propia estética.
 
-この流れの中で共通しているのは「意識の拡張」と「共同体験」です。ビーチパーティーから巨大フェス、さらにはオンライン配信へと舞台を変えつつも、サイケデリック体験を求める欲求は変わりません。  
+Lo que es común en este flujo es la "expansión de la conciencia" y la "experiencia conjunta". Aunque el escenario ha cambiado de fiestas en la playa a grandes festivales y streaming en línea, el deseo de experiencias psicodélicas sigue siendo el mismo.
 
-今後は、AIによる音響デザイン、VRやARと連動したサイケデリック体験、Eurorackモジュラーとデジタルを融合させたライブパフォーマンスなど、さらに次元を超えた展開が予想されます。  
+En el futuro, podemos esperar más desarrollos que trasciendan dimensiones, como el diseño de sonido utilizando IA, experiencias psicodélicas vinculadas a VR y AR, y presentaciones en vivo que combinen Eurorack modular y digital.
 
-**Psy-Tranceは単なる音楽ジャンルではなく「文化的・精神的運動」であり続けるでしょう。**  
-その歴史をたどることは、単なる音の記録ではなく、人類の「意識拡張の旅」の一部を共有することなのです。
+**Psy-Trance seguirá siendo un "movimiento cultural y espiritual", no sólo un género musical. **
+Seguir esta historia no es sólo un registro de sonido, sino una parte compartida del "viaje de expansión de la conciencia" de la humanidad.

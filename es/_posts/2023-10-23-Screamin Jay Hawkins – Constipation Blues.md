@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Screamin Jay Hawkins – Constipation Blues.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-Screamin Jay Hawkins – Constipation Blues/
 tags:
 - Soul
 - 70s
 - 7inch
-title: Screamin Jay Hawkins – Constipation Blues
+title: Screamin Jay Hawkins - Constitución Blues
 ---
 
 
-スクリーミン・ジェイ・ホーキンスによるこの曲は、彼の特異で個性的なスタイルで知られるアメリカのブルース・シンガーであるスクリーミン・ジェイ・ホーキンスによって歌われ、演奏されました。彼は独自のステージ・パフォーマンスと、力強く、荒々しいヴォーカルで知られています。
+Esta canción de Screamin' Jay Hawkins fue cantada e interpretada por Screamin' Jay Hawkins, un cantante de blues estadounidense conocido por su estilo único y singular. Es conocido por sus actuaciones escénicas únicas y su voz potente y áspera.
 
-「Constipation Blues」は、歌詞にユーモアと風刺が込められたブルースの楽曲で、特に歌詞の中でのコミカルな表現が際立っています。スクリーミン・ジェイ・ホーキンスは、その演奏スタイルとステージでの奇抜なパフォーマンスで、ブルースとロックの境界を挑戦しました。
+"Constipation Blues" es una canción de blues con humor y sátira en su letra, y las expresiones cómicas en la letra son particularmente dignas de mención. Screamin' Jay Hawkins desafió los límites entre el blues y el rock con su estilo de interpretación y sus excéntricas actuaciones en el escenario.
 
-この曲は、スクリーミン・ジェイ・ホーキンスのキャリアと個性を象徴するような作品の一つであり、彼の音楽が独自で不可思議なものであることを体現しています。
+Esta canción es una de las piezas más icónicas de la carrera y personalidad de Screamin' Jay Hawkins, y encarna la naturaleza única y misteriosa de su música.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Constipation Blues = べんぴのぶるーす
 
 B. I'm Lonely = 男泣きのブルース
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74185895481?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ic3g8Xnf7LI?si=IjXytaZWloDLct1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ic3g8Xnf7LI?si=IjXytaZWloDLct1s" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

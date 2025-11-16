@@ -5,215 +5,217 @@ categories:
 image: ../assets/images/column-madvillain-madvillainy.webp
 lang: es
 layout: post
+permalink: /es/2025-10-29-column-madvillain-madvillainy/
 tags:
 - Sampling
 - Lo-Fi
 - Hiphop
-title: 【コラム】 Madvillain 『Madvillainy』 ──断片と仮面が織りなす21世紀のヒップホップ神話
+title: '[Columna] Madvillain “Madvillainy” ─ Mito del hip-hop del siglo XXI tejido
+  a partir de fragmentos y máscaras'
 ---
 
 
-## 序章：仮面の裏の音楽
+## Prólogo: Música detrás de la máscara
 
 
-文：mmr｜テーマ：ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である[『Madvillainy』](https://amzn.to/3JhySfH)について考察
+Texto: mmr｜Tema: Un estudio de “Madvillainy” (https://amzn.to/3JhySfH), un “laberinto de sonido” que reconstruye la propia forma del hip-hop después de deconstruirla.
 
-2004年春、ロサンゼルスの小さなレーベル**Stones Throw Records**から放たれた一枚のアルバムが、ヒップホップの常識を静かに覆した。  
-**Madvillain [『Madvillainy』](https://amzn.to/3JhySfH)**――それは、**ラップアルバムでありながら、詩集でもあり、電波を通じたサウンド・コラージュでもある。**
+En la primavera de 2004, un álbum lanzado por un pequeño sello de Los Ángeles, **Stones Throw Records**, silenciosamente trastocó la sabiduría convencional del hip-hop.
+**Madvillain [``Madvillainy''](https://amzn.to/3JhySfH)** ---Es un álbum de rap, una colección de poesía y un collage sonoro a través de ondas de radio. **
 
-21世紀の初頭、アメリカのヒップホップはJay-Zや50 Centが象徴する豪奢な“ブランド文化”へと向かっていた。その裏側で、このアルバムは**匿名性と断片の詩学**を掲げ、世界の地下に深く根を張る。  
-聴く者を魅了するのは、完成度ではなく、むしろ**「未完成の美」**である。
+A principios del siglo XXI, el hip-hop estadounidense avanzaba hacia la extravagante "cultura de marca" simbolizada por Jay-Z y 50 Cent. Por otro lado, este álbum trata sobre el anonimato y la poética de los fragmentos, y tiene profundas raíces en el mundo underground.
+Lo que cautiva al oyente no es el grado de perfección, sino la "belleza inacabada".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ru2IrTY2UG0?si=TOIzzbHB9GSmWrvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ru2IrTY2UG0?si=TOIzzbHB9GSmWrvd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第一章：ふたりの異才──MadlibとMF DOOM
+## Capítulo 1: Dos talentos extraordinarios──Madlib y MF DOOM
 
-### Madlib：音のアルケミスト
-Madlib（本名Otis Jackson Jr.）は、音楽的カオスを錬金する“サンプラーの詩人”だ。  
-彼のビートは整然としたリズムの上に成り立たず、**「偶然の美学」**に支配されている。古いレコード、図書館のサウンドアーカイブ、アニメの効果音──そのどれもが素材になる。
+### Madlib: Alquimista del sonido
+Madlib (nombre real Otis Jackson Jr.) es un "poeta sampler" que alquimia el caos musical.
+Sus ritmos no se basan en un ritmo sistemático, sino que están dominados por una "estética del azar". Discos antiguos, archivos sonoros de bibliotecas, efectos de sonido de anime: todos estos pueden utilizarse como materiales.
 
-特に本作では、**SP-303 Dr. Sample**が鍵を握る。一般的なMPCよりも安価でローファイな機材だが、Madlibはその**ざらついた質感を積極的に残す**。サンプリングのピッチをずらし、ループを微妙に揺らがせることで、“生演奏では再現不能な不安定さ”を獲得した。
+Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de mayor baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
 
-### MF DOOM：仮面をかぶった詩人
-MF DOOM（本名Daniel Dumile）は、悲劇の中から生まれた。  
-KMDとしてデビューした1990年代初頭、弟Subrocを事故で失い、レーベルとの契約も白紙となる。  
-彼は数年間沈黙し、**金属のマスクをかぶって帰ってきた。**
+### MF DOOM: El poeta enmascarado
+MF DOOM (nombre real Daniel Dumile) nació de una tragedia.
+A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello fue cancelado.
+Permaneció en silencio durante varios años y regresó con una máscara de metal. **
 
-DOOMは、仮面を「逃避」ではなく「創造」の象徴とした。  
-彼のリリックは、複雑な韻律・内部韻・隠喩に満ちており、**文学的構造とストリート性が交錯する**。  
-たとえば「Figaro」では、母音の連鎖と子音のリズムがまるで楽器のように鳴る。彼は言葉を“意味”でなく“音”として操るラッパーだった。
-
----
-
-## 第二章：制作背景──宅録から生まれた神話
-
-[『Madvillainy』](https://amzn.to/3JhySfH)は、ハリウッドのスタジオではなく、**ロサンゼルス郊外のアパートの一室**で作られた。  
-Madlibはブラジル滞在中に録音したジャズやサントラをサンプリングし、**一種のカセット・ジャーナル**として音源をDOOMに送る。DOOMはそれを自宅で聴き、ほぼ即興的にラップを重ねた。
-
-この“往復制作”の速度が、作品の密度を決めた。  
-ビートもラップも、**修正を拒む生々しさ**を保ち、完成よりも“感触”を優先する。  
-当時のStones Throw代表Peanut Butter Wolfは、「録音は実験というより、儀式に近かった」と語っている。
+DOOM hizo de la máscara un símbolo de "creación" en lugar de "escape".
+Sus letras están llenas de métrica compleja, rima interna y metáfora, y son una mezcla de estructura literaria y estilo callejero.
+Por ejemplo, en "Figaro", la cadena de vocales y el ritmo de las consonantes suenan como un instrumento. Era un rapero que manipulaba las palabras no como "significados" sino como "sonidos".
 
 ---
 
-## 第三章：音響分析──断片構造の詩学
+## Capítulo 2: Antecedentes de la producción: Mitos nacidos de las grabaciones caseras
 
-[『Madvillainy』](https://amzn.to/3JhySfH)の22曲は、ひとつの長い“モンタージュ映画”のように構成されている。  
-音響的特徴は以下の3点に集約できる。
+[Madvillainy](https://amzn.to/3JhySfH) no se hizo en un estudio de Hollywood, sino en un apartamento en los suburbios de Los Ángeles.
+Madlib toma muestras del jazz y las bandas sonoras que grabó mientras estaba en Brasil y las envía a DOOM como una especie de diario en casete. DOOM lo escuchó en casa y lo rapeó casi de manera improvisada.
 
-1. **時間の切断**：曲が短く、急に終わる。トランジションは意図的に乱暴。  
-2. **空間の圧縮**：リバーブや空間処理を最小限にし、サンプル同士の距離をゼロに近づける。  
-3. **周波数の歪み**：SP-303のエフェクトを多用し、高域が削がれた**VHS的サウンド**を形成。
-
-これは、Madlibによる“**記録の再構築**”でもある。古い録音がもつノイズやチリ音を“素材”ではなく“構成要素”とみなし、ヒップホップを**音の考古学**へと変貌させた。
+La velocidad de esta "producción de ida y vuelta" determinó la densidad del trabajo.
+Tanto los ritmos como el rap mantienen una crudeza que se resiste a la modificación, priorizando la "sensación" sobre la perfección.
+Peanut Butter Wolf, director de Stones Throw en ese momento, dijo: "La grabación fue más un ritual que un experimento".
 
 ---
 
-## 第四章：トラック別分析（選抜）
+## Capítulo 3: Análisis acústico ── Poética de la estructura del fragmento
 
-### Accordion
-最初に聴こえるのは、アコーディオンのリフが不穏に鳴り響くループ。  
-ビートは単調に見えて、微妙にズレている。DOOMの声がその“歪み”を補完するように入り、**ビートとラップが補色関係**にあることを示す。  
-「リズムを支配するのではなく、漂う」──この姿勢がアルバム全体を貫く。
+Las 22 canciones de "Madvillainy" (https://amzn.to/3JhySfH) están estructuradas como una larga "película montaje".
+Las características acústicas se pueden resumir en los siguientes tres puntos.
 
-### Meat Grinder
-ベースラインが金属のように軋み、マイクに近づく呼吸音が録音されている。  
-Madlibのサンプリングは、**ピッチ補正をあえて外す**ことで、聴く者に「不快と快楽の境界」を意識させる。
+1. **Time Disconnect**: La canción es corta y termina abruptamente. Las transiciones son intencionadamente bruscas.
+2. **Compresión espacial**: Minimiza la reverberación y el procesamiento espacial para acercar la distancia entre muestras a cero.
+3. **Distorsión de frecuencia**: Crea un **sonido similar a VHS** donde las frecuencias altas se eliminan haciendo un uso extensivo de los efectos SP-303.
 
-### Figaro
-この曲におけるDOOMの韻律は、詩的構造として分析できる。  
-たとえば以下の一節：
-
-> "The rest is empty with no brain but the clever nerd"  
-
-“empty”“brain”“clever”の内部韻が連鎖し、文脈を飛び越えて**韻そのものが意味を生む**。  
-彼のラップは、**詩ではなく音響装置**として機能する。
-
-### All Caps
-「ALL CAPS when you spell the man name」──  
-ここではDOOMが自らの象徴を定義する。  
-“名前を大文字で書け”という命令文は、仮面の下の自己を守る呪文のようだ。  
-この曲のミュージックビデオ（カートゥーン風）も含め、**ヒップホップ＝スーパーヒーロー文化**の融合を先駆けた。
+Esta es también una “**reconstrucción de récord**” de Madlib. Al considerar el ruido y los crujidos de las grabaciones antiguas como "componentes" en lugar de "materiales", transformó el hip-hop en una arqueología del sonido.
 
 ---
 
-## 第五章：アートワークと仮面の政治学
+## Capítulo 4: Análisis por track (selección)
 
-ジャケット写真（Eric Coleman撮影）は、DOOMのメタルマスクのクローズアップ。  
-顔の半分が影に沈む構図は、**匿名と露出、神話と現実**のあいだを象徴している。  
-この仮面は、黒人アーティストとしての自己表現と、商業メディアへの抵抗を兼ねるものだった。
+### acordeón
+Lo primero que se oye es el siniestro bucle de un riff de acordeón.
+El ritmo parece monótono y ligeramente apagado. La voz de DOOM complementa la "distorsión", mostrando que **el ritmo y el rap tienen una relación complementaria**.
+``Más que controlar el ritmo, flota'': esta actitud recorre todo el álbum.
 
-DOOMのマスクは、ポップカルチャー的には**MarvelのDr. Doom**からの引用だが、より深くは“権力とアイデンティティ”の逆転を意味する。  
-**「ヴィラン＝語る自由を持つ者」**という逆説が、ここにある。
+### Picadora de carne
+La línea de bajo cruje como el metal y se graba el sonido de la respiración al acercarse al micrófono.
+El muestreo de Madlib **elimina deliberadamente la corrección de tono** hace que el oyente sea consciente del "límite entre la incomodidad y el placer".
 
----
+### Fígaro
+La cadencia de DOOM en esta canción se puede analizar como una estructura poética.
+Por ejemplo, el siguiente pasaje:
 
-## 第六章：批評的評価──“断片のアルバム”がもたらした革新
+> "El resto está vacío sin cerebro excepto el nerd inteligente"
 
-2004年のリリース時、商業的成功とは無縁だった[『Madvillainy』](https://amzn.to/3JhySfH)は、批評家の間でカルト的評価を受けた。  
-Pitchforkは「ヒップホップにおける**非線形編集の極致**」と評し、The Wire誌は「21世紀版『The Velvet Underground & Nico』」とまで称えた。
+Las rimas internas de “vacío”, “cerebro” e “inteligente” están encadenadas, trascendiendo el contexto y creando significado en sí mismas.
+Su rap funciona como un dispositivo sonoro más que como poesía.
 
-重要なのは、このアルバムが**「プロト・インターネット音楽」**として機能している点だ。  
-YouTubeやSoundCloud以前に、情報の断片を再編集して新たな意味を生む──その方法論がすでにここに存在する。  
-つまり、**“Madvillainy”とはポスト・ネット時代の原典**なのだ。
-
----
-
-## 第七章：文化的文脈──Stones Throwと独立の精神
-
-Stones Throw Recordsは、当時のインディ・ヒップホップ文化の象徴だった。  
-メジャーが華やかさを競うなかで、Peanut Butter Wolfが掲げたのは**“低予算でも真実を録る”**という哲学。  
-Madlib、J Dilla、Aloe Blaccらが同レーベルから登場し、**宅録と実験を結ぶ橋**を築いた。
-
-[『Madvillainy』](https://amzn.to/3JhySfH)はその象徴的成果であり、**「録音技術の制約を表現の武器にする」**という逆説的美学を確立した。
+### Todo en mayúsculas
+“TODO EN MAYÚSCULAS cuando deletreas el nombre del hombre”──
+Aquí DOOM define su propio simbolismo.
+La orden “Escribe tu nombre en letras mayúsculas” es como un hechizo para protegerte debajo de la máscara.
+Esta canción, incluido el vídeo musical (estilo de dibujos animados), fue pionera en la fusión de **hip-hop = cultura de superhéroes**.
 
 ---
 
-## 第八章：影響と遺産
+## Capítulo 5: El arte y la política de las máscaras
 
-- Flying Lotus：ジャズとビート・サイエンスの融合。  
-- Earl Sweatshirt：DOOM譲りの断片的内省ラップ。  
-- Tyler, the Creator：キャラクター構築とアイロニーの継承。  
-- lo-fi hiphop文化：SPサウンドを受け継ぎ、YouTube上の「勉強BGM」まで派生。
+La foto de la portada (tomada por Eric Coleman) es un primer plano de la máscara metálica de DOOM.
+La composición, en la que la mitad del rostro está sumergida en las sombras, simboliza la brecha entre el anonimato y la exposición, el mito y la realidad.
+Esta máscara sirvió como medio de autoexpresión como artista negro y como forma de resistencia a los medios comerciales.
 
-さらに、DOOMのマスク文化は、インターネット以降のアーティスト像にも影響を与えた。  
-匿名アカウント、VTuber、AI生成音楽など──**「誰が作ったか」より「どう響くか」**へと価値軸が移行したのだ。
-
----
-
-## 第九章：DOOM以後のヒップホップ（補章）
-
-MF DOOMの死（2020年10月31日、享年49）は、ヒップホップ史の静かな終章だった。  
-しかし彼の不在は、同時に“仮面の継承”を促した。  
-いまや**DOOMは人間ではなく「手法」**として存在する。断片をつなぎ、名を隠し、音で語る。  
-
-[『Madvillainy』](https://amzn.to/3JhySfH)を再生するたびに、リスナーは“誰でもない誰か”になる。  
-それこそが、21世紀的匿名性の快楽である。
+La máscara de DOOM es una referencia de la cultura pop al Dr. Doom de Marvel, pero más profundamente representa una inversión de poder e identidad.
+Hay aquí una paradoja: ``villano = persona que tiene la libertad de hablar''**.
 
 ---
 
-## 年表：Madvillainとその時代
+## Capítulo 6: Evaluación crítica: Innovación provocada por el “Álbum de fragmentos”
+
+[Madvillainy](https://amzn.to/3JhySfH), que no fue un éxito comercial tras su lanzamiento en 2004, recibió seguidores de culto entre los críticos.
+Pitchfork lo llamó "el pináculo de la edición no lineal en hip-hop", y The Wire lo llamó "una versión del siglo XXI de The Velvet Underground & Nico".
+
+Es importante destacar que este álbum funciona como "música proto-Internet".
+Antes de YouTube o SoundCloud, ya existía una metodología para reeditar piezas de información para crear un nuevo significado.
+En otras palabras, "Madvillainy" es el texto original de la era post-net.
+
+---
+
+## Capítulo 7: Contexto cultural: el lanzamiento de piedras y el espíritu de independencia
+
+Stones Throw Records era un símbolo de la cultura hip-hop independiente de la época.
+Mientras las principales compañías musicales compiten por el glamour, la filosofía de Peanut Butter Wolf es grabar la verdad incluso con un presupuesto bajo.
+Madlib, J Dilla, Aloe Blacc y otros aparecieron en el sello, construyendo un puente entre la grabación casera y la experimentación.
+
+[``Madvillainy''](https://amzn.to/3JhySfH) es un logro simbólico de esto, estableciendo una estética paradójica que ``utiliza las limitaciones de la tecnología de grabación como arma de expresión''.
+
+---
+
+## Capítulo 8: Impacto y legado
+
+- Flying Lotus: Una fusión de jazz y ciencia beat.
+- Earl Sweat: rap introspectivo fragmentado tomado de DOOM.
+- Tyler, the Creator: Construcción del carácter y herencia de la ironía.
+- Cultura hiphop de baja fidelidad: heredar el sonido SP e incluso crear "estudiar música de fondo" en YouTube.
+
+Además, la cultura de las máscaras de DOOM ha influido en la imagen de los artistas después de Internet.
+Cuentas anónimas, VTubers, música generada por IA, etc.: el eje de valores ha pasado de "quién lo hizo" a "cómo resuena"**.
+
+---
+
+## Capítulo 9: Hip-hop después de DOOM (capítulo complementario)
+
+La muerte de MF DOOM (31 de octubre de 2020, a la edad de 49 años) fue un capítulo final tranquilo en la historia del hip-hop.
+Sin embargo, su ausencia también fomentó la "herencia de las máscaras".
+Ahora bien, **DOOM no existe como persona sino como "método"**. Conectando fragmentos, ocultando nombres y hablando a través de sonidos.
+
+Cada vez que reproduces [“Madvillainy”](https://amzn.to/3JhySfH), el oyente se convierte en “alguien pero nadie”.
+Ése es el placer del anonimato del siglo XXI.
+
+---
+
+## Cronología: Madvillain y su época
 
 <div class="mermaid">
 
-timeline
-    title Madvillainとヒップホップ変遷（1991–2021）
-    1991 : KMDデビュー、ZeV Love Xとして活動開始
-    1993 : KMDのセカンド『Black Bastards』発禁／弟Subroc死去
-    1999 : MF DOOM名義で復活『Operation: Doomsday』
-    2002 : Madlib、Quasimoto名義で活動／Stones Throwと契約
-    2003 : Madvillain Demos録音開始（ブラジル滞在中）
-    2004 : [『Madvillainy』](https://amzn.to/3JhySfH)発売、地下シーンで熱狂的評価
-    2010 : 『Madvillainy 2: The Madlib Remix』発表
-    2020 : MF DOOM死去（公表は2020年12月31日）
-    2021 : 再評価の波、Bandcamp世代によるDOOM再読
+línea de tiempo
+título Madvillain y la evolución del hip-hop (1991-2021)
+1991: debut de KMD, inicio de actividades como ZeV Love X
+1993: La segunda canción de KMD, "Black Bastards", es prohibida / fallece el hermano menor, Subroc
+1999: Resucitado bajo el nombre MF DOOM ``Operación: Doomsday''
+2002: Madlib trabaja como Quasimoto/firma con Stones Throw
+2003: Comenzó a grabar Madvillain Demos (mientras estaba en Brasil)
+2004: Lanzamiento de [“Madvillainy”](https://amzn.to/3JhySfH), recibido con entusiasmo en la escena underground.
+2010: Se anuncia “Madvillainy 2: The Madlib Remix”
+2020: Fallece MF DOOM (anunciado el 31 de diciembre de 2020)
+2021: Ola de reevaluación, relectura de DOOM por parte de la generación Bandcamp
 
 </div>
 
 ---
 
-## 音響構造図：断片的編集のプロセス
+## Diagrama de estructura acústica: proceso de edición fragmentaria
 
 <div class="mermaid">
 
-flowchart TD
-    A["Raw Samples（Jazz / Cartoons / Library Music）"]
-    B["Chopping & Looping（SP-303）"]
-    C["Vocal Layer（MF DOOM）"]
-    D["Analog Mixdown（Cassette / 2-Track Reel）"]
-    E["Album Sequence（22短篇構成）"]
-    F["Listener’s Mind：Continuous Collage"]
+diagrama de flujo TD
+A["Muestras sin procesar (Jazz / Dibujos animados / Música de biblioteca)"]
+B["Cortar y hacer bucles (SP-303)"]
+C["Capa vocal (MF DOOM)"]
+D["Mezcla analógica (casete/carrete de 2 pistas)"]
+E["Secuencia del álbum (22 cuentos)"]
+F["Mente del oyente: Collage continuo"]
 
-    A --> B --> C --> D --> E --> F
+A --> B --> C --> D --> E --> F
 
 </div>
 
 ---
 
-## 結語：断片の中の永遠
+## Conclusión: La eternidad en fragmentos
 
-[『Madvillainy』](https://amzn.to/3JhySfH)は、ヒップホップという形式そのものを解体した後に、再構築する“音の迷宮”である。
-そこには「完成」も「終わり」もない。
-サンプリングされた音は、出自を失いながらも再び意味を獲得する。
-DOOMが残した仮面は、いまも世界中の地下スタジオで光っている。
+[“Madvillainy”](https://amzn.to/3JhySfH) es un “laberinto sonoro” que desmantela la forma del hip-hop y luego la reconstruye.
+No hay "finalización" ni "fin".
+Los sonidos muestreados recuperan significado incluso cuando pierden sus orígenes.
+La máscara que dejó DOOM todavía brilla en los estudios underground de todo el mundo.
 
-> “It ain’t nuttin’ like the villain.”
-> ― MF DOOM
+> “No es como el villano”.
+> ― CONDENACIÓN MF
 
 ---

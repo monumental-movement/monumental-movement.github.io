@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Orbital – Impact - The Remix.webp
 lang: es
 layout: post
+permalink: /es/2025-09-07-Orbital – Impact - The Remix/
 tags:
 - Techno
 - 90s
-title: Orbital – Impact - The Remix
+title: Orbital - Impacto - El Remix
 ---
 
 
-The Chemical Brothers(ケミカル・ブラザーズ)、Underworld(アンダーワールド)、 The Prodigy(プロディジー)などと並び90年代のテクノシーンを代表するUKエレクトロ／テクノ ミュージックの大御所Orbital(オービタル)の最も称賛されたアルバム『Orbital 2(Brown Album)』(1993)からピックアップしたシングルをremixした作品。
+Este trabajo es una remezcla de sencillos seleccionados del álbum más aclamado de Orbital, "Orbital 2 (Brown Album)" (1993), un importante gigante de la música electro/techno del Reino Unido que representó la escena techno de los 90 junto con The Chemical Brothers, Underworld, The Prodigy y otros.
 
-Aの「Impact USA」は、「Impact (The Earth Is Burning)」のセルフリミックス。
+"Impact USA" de A es una autoremezcla de "Impact (The Earth Is Burning)".
 
-Bの「Lush」は、EDM DJ ／プロデューサーFrancis PrèveとCochise(Jeremy Ball)によるremix。
+"Lush" de B es un remix del DJ y productor de EDM Francis Prève y Cochise (Jeremy Ball).
 
-ダンスミュージックレーベルFFRR Recordsから1993年にリリースされたTechno トラック。
+Una pista de Techno lanzada en 1993 en el sello de música dance FFRR Records.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Impact USA
 
 B. Lush (1926 Trancendance Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XyraAwHn4gM?si=Znt-t3RtpYBZnJJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XyraAwHn4gM?si=Znt-t3RtpYBZnJJR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – King Britt Presents Black To The Future.webp
 lang: es
 layout: post
+permalink: /es/2023-10-18-Various – King Britt Presents Black To The Future/
 tags:
 - Downtempo
 - Deep House
-title: Various – King Britt Presents Black To The Future
+title: Varios – King Britt presenta el negro al futuro
 ---
 
 
-フィラデルフィアのハウスシーンのキーパーソンKing Britt（キング・ブリット）によるコンピレーション 。
+Una recopilación de King Britt, figura clave de la escena house de Filadelfia.
 
-A面１曲目のThe Societyは、Senor Coconut （セニョール・ココナッツ）のツアー・メンバーであり、作曲家/編曲家/サックス奏者Thomas Hass（トーマス・ハス）のプロジェクト。
+La primera pista de la cara A, The Society, es un proyecto del compositor, arreglista y saxofonista Thomas Hass, miembro de gira de Senor Coconut.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Society –How's Life
 
@@ -29,7 +30,7 @@ B2. Capitol A – Da'Bring Back
 B3. Yesterdays New Quintet – 18 And Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69484096641?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69484096641?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1p8pzdBwvc?si=pveO8CQGK2LueCN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r1p8pzdBwvc?si=pveO8CQGK2LueCN6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

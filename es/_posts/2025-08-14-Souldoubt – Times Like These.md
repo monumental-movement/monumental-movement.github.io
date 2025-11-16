@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Souldoubt – Times Like These.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-Souldoubt – Times Like These/
 tags:
 - Deep House
 - House
 - 00s
-title: Souldoubt – Times Like These
+title: 'Duda del alma: tiempos como estos'
 ---
 
 
-SouldoubtことAlex J. Deanは、2000年代初頭に活躍したディープハウス／テックハウス プロデューサー・DJ。別名義でFreakedとしても活動した。
+Alex J. Dean, también conocido como Souldoubt, es un productor y DJ de deep house/tech house que estuvo activo a principios de la década de 2000. También actuaron bajo un nombre diferente, Freaked.
 
-「Times Like These」は、2001年にシアトルのハウスレーベルViva!からリリースされたDeep Houseトラック。
+"Times Like These" es una canción de Deep House lanzada por el sello house de Seattle Viva. en 2001.
 
-ジャケットのデザインは、1990年代後半から2000年代にかけて、カナダ西部のハウスミュージックシーンで活躍したカナダのディープハウスDJ・プロデューサー&クリエーターのTodd Omotani。
+El diseño de la portada fue de Todd Omotani, un DJ, productor y creador canadiense de deep house que estuvo activo en la escena de la música house en el oeste de Canadá desde finales de los 90 hasta los 2000.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Open Up
 
@@ -28,7 +29,7 @@ B1. Chilldoubt
 B2. Shufflers Delight
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQokuBhF5N8?si=uFq_j5RJQiZxFjWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQokuBhF5N8?si=uFq_j5RJQiZxFjWc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

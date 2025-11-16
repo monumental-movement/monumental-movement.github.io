@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/DSK – Work My Body Over (Sweat).webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-DSK – Work My Body Over (Sweat)/
 tags:
 - House
 - 90s
-title: DSK – Work My Body Over (Sweat)
+title: DSK - Trabaja mi cuerpo (sudor)
 ---
 
 
-DSKは、Davis-Stone-Klein ( Larry Davisラリー・デイヴィス、Joe Stone ジョー・ストーン、Paul Kleinポール・クライン) の Hot Productionsチームによって制作されたハウス ・ ダンスミュージックプロジェクト。
+DSK es un proyecto de música house dance creado por el equipo de Hot Productions de Davis-Stone-Klein (Larry Davis, Joe Stone, Paul Klein).
 
-「Work My Body Over (Sweat)」は、エネルギッシュで踊りやすいビートとキャッチーなボーカルが特徴的で、90年代にダンスクラブやラジオで頻繁にプレイされた一曲。
+"Work My Body Over (Sweat)" es una canción que se tocaba con frecuencia en clubes de baile y en la radio en los años 90, con su ritmo enérgico y bailable y su voz pegadiza.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Work My Body Over (Sweat) (Radio)
 
@@ -31,7 +32,7 @@ B2. Work My Body Over (Sweat) (Instrumental Freestyle)
 B3. Work My Body Over (Sweat) (Percapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U2krr7aNaKc?si=IKxtpC25OFBJU6Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2krr7aNaKc?si=IKxtpC25OFBJU6Di" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/The Soft Machine – The Soft Machine.webp
 lang: es
 layout: post
+permalink: /es/2024-06-07-The Soft Machine – The Soft Machine/
 tags:
 - Rock
 - Jazz
 - Psychedelic
 - Experimental
 - Rare
-title: The Soft Machine – The Soft Machine
+title: La máquina blanda – La máquina blanda
 ---
 
 
-The Soft Machine（ソフト・マシーン）は、1966年半ばにマイク・ラトレッジ、ロバート・ワイアット、ケビン・エアーズ、デイヴィッド・アレン、ラリー・ナウリンによって結成されたカンタベリー出身のUKプログレッシヴジャズロックバンド。バンド名は、ウィリアム S. バロウズの小説「ソフトマシーン」にちなんで名付けられた。
+The Soft Machine es una banda británica de jazz-rock progresivo de Canterbury formada a mediados de 1966 por Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen y Larry Nowlin. La banda lleva el nombre de la novela "The Soft Machine" de William S. Burroughs.
 
-ソフトマシーンは、イギリス初のサイケデリックバンドの1つとなり後にプログレッシブロックやジャズロックに移行し、1971年にはインストゥルメンタルバンドになった。
+Soft Machine se convirtió en una de las primeras bandas psicodélicas de Gran Bretaña, y luego pasó al rock progresivo y al jazz rock, y se convirtió en una banda instrumental en 1971.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Hope For Happiness
 2. Joy Of A Toy
@@ -36,7 +37,7 @@ The Soft Machine（ソフト・マシーン）は、1966年半ばにマイク・
 13. Box 25/4 Lid
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60210316220?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdQ3Uc9Rc8g?si=wKnvhQ7S8BBwF9io" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

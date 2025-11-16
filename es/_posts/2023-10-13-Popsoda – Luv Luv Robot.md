@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Popsoda – Luv Luv Robot.webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-Popsoda – Luv Luv Robot/
 tags:
 - Electro
 - Synth-Pop
-title: Popsoda – Luv Luv Robot
+title: Popsoda – Robot Luv Luv
 ---
 
 
-Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジア）の別名義。
+Popsoda es otro nombre para Technasia, la unidad de Amil Khan y Charles Siegling.
 
-B面１曲目は電気グルーヴのTakkyu Ishino（石野卓球）によるremix。B面２曲目は、ジャーマンテクノのDJ/プロデューサーMijk Van Dijk（マイク・ヴァン・ダイク）によるremix。
+La primera canción de la cara B es un remix de Takkyu Ishino de Denki Groove. La segunda pista de la cara B es un remix del DJ y productor de techno alemán Mijk Van Dijk.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Luv Luv Robot
 
@@ -27,7 +28,7 @@ B1. Luv Luv Robot (Takkyu Ishino Remix)
 B2. Luv Luv Robot (Mijk Van Dijk Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46996717389?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46996717389?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_GoQkWy8AEQ?si=QoMGX0bSuHe1gNmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GoQkWy8AEQ?si=QoMGX0bSuHe1gNmF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Morgana Dank-One – Another Night Flower.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Morgana Dank-One – Another Night Flower/
 tags:
 - Trance
-title: Morgana Dank-One – Another Night Flower
+title: Morgana Dank-One - Otra flor nocturna
 ---
 
 
-2005年にレーベル「Major Record」からリリースされたEPです。
+Este es un EP lanzado por el sello "Major Record" en 2005.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Morgana – Another Night (DJ Tora Vocal Mix)
 
 B. Dank-One – Flower (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mf-P1AFYaoI?si=Nfr7zyophUwCMcJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mf-P1AFYaoI?si=Nfr7zyophUwCMcJy" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

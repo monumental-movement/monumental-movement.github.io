@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Ella Fitzgerald – I Got The Rhythm.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Ella Fitzgerald – I Got The Rhythm/
 tags:
 - Jazz
 - Ballad
 - Pops
 - 80s
-title: Ella Fitzgerald – I Got The Rhythm
+title: Ella Fitzgerald - Tengo el ritmo
 ---
 
 
-Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady of Song（歌のファーストレディ）」、「Lady Ella（レディ・エラ）」とも呼ばれたアメリカのジャズシンガー。ビリー・ホリデイ、サラ・ヴォーンと並び称される20世紀の女性トップ・ジャズ・ボーカリストの1人。
+Ella Fitzgerald fue una cantante de jazz estadounidense también conocida como "La Primera Dama de la Canción" y "Lady Ella". Una de las principales vocalistas de jazz del siglo XX, junto con Billie Holiday y Sarah Vaughan.
 
-エラ・フィッツジェラルドは、60年近くのキャリアの中で、14 回のグラミー賞、全米芸術賞、NAACPの初代大統領賞、大統領自由勲章などの栄誉を受けた。
+Durante una carrera que abarca casi 60 años, Ella Fitzgerald recibió honores que incluyen 14 premios Grammy, el Premio Nacional de las Artes, el Premio Presidencial inaugural de la NAACP y la Medalla Presidencial de la Libertad.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Love Is Here To Stay
 2. I Got Rhythm
@@ -38,7 +39,7 @@ Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady
 16. Shall We Dance
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

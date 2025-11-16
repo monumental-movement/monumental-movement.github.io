@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/MAYO – Refrain.webp
 lang: es
 layout: post
+permalink: /es/2025-09-23-MAYO – Refrain/
 tags:
 - Kayōkyoku
 - Disco
 - City Pop
 - 70s
-title: 庄野真代 – ルフラン M・A・Y・O – Refrain
+title: Mayo Shono – Estribillo M・A・Y・O – Estribillo
 ---
 
 
-「ルフラン」は、代表曲『飛んでイスタンブール』(作曲：筒美京平)が収録された、庄野真代の4枚目のオリジナルアルバム。日本コロムビアのサブレーベル日本コロムビアから1978年にリリースされたCity Pop。
+"Refran" es el cuarto álbum original de Mayo Shono, que incluye su canción característica "Flying to Istanbul" (compuesta por Kyohei Tsutsumi). City Pop fue lanzado en 1978 por el subsello Nippon Columbia de Nippon Columbia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. 風の街角
 A2. 昨日に乾杯
@@ -32,7 +33,7 @@ B4. 街に疲れて
 B5. ルフラン
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38492680657?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GDTniYWJk1U?si=akjdin9ocwSk9GeP" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

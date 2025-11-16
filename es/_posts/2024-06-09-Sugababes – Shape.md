@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Sugababes – Shape.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Sugababes – Shape/
 tags:
 - House
 - Pops
 - UK Pop
 - Promo
-title: Sugababes – Shape
+title: Sugababes – Forma
 ---
 
 
-Sugababes（シュガーベイブス）は、All Saints（オールセインツ）のマネージャーよって1998年に結成されたUKの女性ポップグループ。
+Sugababes es un grupo de pop femenino británico formado en 1998 por el manager de All Saints.
 
-2003年にリリースされた「Shape」は、Sting（スティング）の「Shape Of My Heart」をサンプリングしたSugababes4枚目のシングルで、UKチャートで最高11位、オランダとアイルランドではトップ10入りしたヒット曲。
+Lanzado en 2003, "Shape" fue el cuarto sencillo de Sugababes, con una muestra de "Shape of My Heart" de Sting, un éxito que alcanzó el puesto número 11 en las listas del Reino Unido y alcanzó el top 10 en los Países Bajos e Irlanda.
 
-A面はNas（ナズ）, Amy Winehouse（エイミー・ワインハウス）, Sullivan（ジャズミン・サリバン）などの楽曲をプロデュースしたことで有名なUSのヒップホッププロデューサーSalaam Remi（サラーム・レミ）によるremix。
+Side A es un remix de Salaam Remi, un productor de hip-hop estadounidense famoso por producir canciones de Nas, Amy Winehouse, Sullivan y otros.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Shape (Salaam Remi Remix)
 
 B1. Shape (Double R Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hVTgQ7qeSSg?si=CclsFk8A_GhR0ZTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hVTgQ7qeSSg?si=CclsFk8A_GhR0ZTO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

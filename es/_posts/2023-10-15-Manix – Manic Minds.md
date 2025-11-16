@@ -5,35 +5,36 @@ categories:
 image: ../assets/images/Manix – Manic Minds.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Manix – Manic Minds/
 tags:
 - Techno
 - Break Beat
-title: Manix – Manic Minds
+title: Manix – Mentes maníacas
 ---
 
 
-「Manix（マニックス）」は、4 HeroのMarc Clairのソロプロジェクト。Manixは、UKのオールドスクールブレイクビーツを中心とした当時のレイブシーンにおいて重要なアーティストの一人。
+"Manix" es el proyecto en solitario de Marc Clair de 4 Hero. Manix era uno de los artistas más importantes de la escena rave del Reino Unido en ese momento, que se centraba en los breakbeats de la vieja escuela.
 
-【サンプル一覧】
-Track Ai
+[Lista de muestra]
+Seguimiento de la IA
 
-シンセ：Modular Expansion - Cubes
-ドラムブレイク：The Winstons - Amen, Brother.
-ヴォーカル/スクラッチ：Jungle Brothers - Jimmy's Bonus Beat.
-ヴォーカル：Cheryl Lynn - Encore.
+Sintetizador: Expansión modular - Cubos
+Drum Break: The Winstons - Amén, hermano.
+Vocal/Scratch: Jungle Brothers - Bonus Beat de Jimmy.
+Voz: Cheryl Lynn - Encore.
 
-Track Aii
+Pista Aii
 
-ピアノ：Bizarre Inc - Playing With Knives.
-ビープノイズ：Tears For Fears - Mad World.
-ヴォーカル：Public Enemy - Black Steel In The Hour Of Chaos.
+Piano: Bizarre Inc - Tocando con cuchillos.
+Ruido de pitido: Lágrimas de miedo - Mundo loco.
+Vocal: Public Enemy - Black Steel en la hora del caos.
 
-Track AAi
+Seguimiento de AAi
 
-ピアノ Sterling Void - Don't Wanna Go.
-ヴォーカル：Extortion Featuring Dihan Brooks - How Do You See Me Now.
+Piano Sterling Void - No quiero ir.
+Voz: Extorsión con Dihan Brooks - ¿Cómo me ves ahora?
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Ai. Stupid Dope Mix (Pt. 1){: .button1}
 
@@ -44,7 +45,7 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

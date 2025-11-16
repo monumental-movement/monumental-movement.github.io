@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/V – Sub-Machine The Unheard.webp
 lang: es
 layout: post
+permalink: /es/2023-10-25-V – Sub-Machine The Unheard/
 tags:
 - IDM
 - Indie Rock
 - 7inch
-title: V – Sub-Machine The Unheard
+title: V – Submáquina Lo Inaudito
 ---
 
 
-「Sub-Machine / The Unheard」は、
-1995年にUKのレーベル「Gift Records」からリリースされた７インチのレコードです。
+"Sub-Máquina / Lo Inaudito" es
+Este es un disco de 7 pulgadas lanzado por el sello británico "Gift Records" en 1995.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Sub-Machine
 
 B. The Unheard
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46434330656?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46434330656?afid=6142608987){: .button1}
 

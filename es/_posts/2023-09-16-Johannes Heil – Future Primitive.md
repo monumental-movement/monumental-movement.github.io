@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Johannes Heil – Future Primitive.webp
 lang: es
 layout: post
+permalink: /es/2023-09-16-Johannes Heil – Future Primitive/
 tags:
 - Techno
 - German Techno
 - Downtempo
-title: Johannes Heil – Future Primitive
+title: Johannes Heil – Futuro Primitivo
 ---
 
 
-ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
+La música de Johannes Heil tiene una atmósfera oscura y dramática, con ritmos pesados ​​y sonidos psicodélicos. La meticulosa producción y los arreglos en evolución transportan al oyente a un mundo futurista.
 
-ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
+El trabajo de Johannes Heil es muy aclamado por los fans de la música techno y la escena musical underground, y es conocido por su estilo de sonido único.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Future Primitive Intro
 
@@ -39,7 +40,7 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

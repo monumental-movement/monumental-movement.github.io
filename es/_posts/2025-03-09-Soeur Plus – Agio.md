@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Soeur Plus – Agio.webp
 lang: es
 layout: post
+permalink: /es/2025-03-09-Soeur Plus – Agio/
 tags:
 - Euro House
 - House
 - Euro
 - 90s
-title: Soeur Plus! – Agio
+title: ¡Soeur Plus! – Agio
 ---
 
 
-1996年にリリースされたオランダ出身の男女デュオ Soeur Plus! (スール・プリュ!)のデビューアルバム。
+El álbum debut del dúo holandés Soeur Plus!, lanzado en 1996.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Jolie Jacqueline
 ジョリ・ジョリ・ジャクリーン
@@ -63,7 +64,7 @@ title: Soeur Plus! – Agio
  (インストゥルメンタル・エディット)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4svCdEp6io?si=Og2p-G8a6-Tfnp70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4svCdEp6io?si=Og2p-G8a6-Tfnp70" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

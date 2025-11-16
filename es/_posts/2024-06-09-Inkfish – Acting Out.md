@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Inkfish – Acting Out.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Inkfish – Acting Out/
 tags:
 - Techno
 - Swedish Techno
 - Tribal
 - House
 - 00s
-title: Inkfish – Acting Out
+title: Inkfish - Actuando
 ---
 
 
-アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。
+Inkfish, peso pesado de la escena house underground, es un colectivo de productores y DJ que lleva activo desde los años 90. Los miembros son Mattias Lindblom, Jesper Lindquist, Andreas Hermansson y Johan Hermansson de Suecia.
 
-Inkfish は、さまざまな名義で、David West、Hardy Heller、Tomas Andersson、プログレッシブ界の伝説 Ian Ossia などの大物プロデューサー/DJ と共演している。また、Medway、Tom Novy & Jerome Isma-ae、Matt Darey などをプロデュースしている。
+Inkfish ha trabajado con varios nombres con productores y DJ de renombre como David West, Hardy Heller, Tomas Andersson y la leyenda del progresismo Ian Ossia. También ha producido artistas como Medway, Tom Novy & Jerome Isma-ae y Matt Darey.
 
-「Acting Out」は、2003年に500枚限定でリリースされたInkfishのプログレッシブ・トライバルハウストラック。
+"Acting Out" es una canción de house tribal progresivo de Inkfish que se lanzó en 2003 en una edición limitada de 500 copias.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Acting Out
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lMffgmavpE8?si=3ejHN8YBz5MOBGQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMffgmavpE8?si=3ejHN8YBz5MOBGQn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

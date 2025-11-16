@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Aux 88 – Electro Boogie.webp
 lang: es
 layout: post
+permalink: /es/2025-02-25-Aux 88 – Electro Boogie/
 tags:
 - Electro
 - Techno
@@ -13,9 +14,9 @@ title: Aux 88 – Electro Boogie
 ---
 
 
-1999年にリリースされたStudio K7のエレクトロブギー第3弾。Aux88によるデトロイトテクノ・エレクトロmixCD。
+El tercer electro boogie de Studio K7 lanzado en 1999. Detroit techno/electro mixCD de Aux88.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Aux 88 – Electro/Techno (Microknox Remix)
 2. Aux 88 – Direct Drive
@@ -37,7 +38,7 @@ title: Aux 88 – Electro Boogie
 18. Aux 88 – Xeo-Genetic Remix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m42329771656?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62RNYfG63nQ?si=J2RE3RrNG0LMRvdh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

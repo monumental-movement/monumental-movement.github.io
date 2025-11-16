@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Klaxons – Gravity's Rainbow.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Klaxons – Gravitys Rainbow/
 tags:
 - Electro
 - Pops
-title: Klaxons – Gravity's Rainbow
+title: Bocinas – El arcoíris de Gravity
 ---
 
 
-Klaxons (クラクソンズ) は、UKニュークロスで2005年に結成されたエレクトロ・ロックバンド。「Gravity's Rainbow」は、Kitsune Musicより2006年にリリースされた。
+Klaxons es una banda de electro rock formada en New Cross, Reino Unido en 2005. "Gravity's Rainbow" fue lanzado por Kitsune Music en 2006.
 
-A面２曲目はオーストラリア出身のエレクトロポップ バンドVan She（ヴァンシー）によるremix。
+La segunda canción de la cara A es un remix de la banda australiana de electro-pop Van She.
 
-B面１曲目はNightmovesことMatt Waitesによるremix。
+La primera canción de la cara B es un remix de Matt Waites, también conocido como Nightmoves.
 
-B面２曲目英国のインディーロック・シンセポップデュオTo My Boy によるremix。
+La segunda pista del lado B es un remix del dúo británico de indie rock/synth pop To My Boy.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Gravity's Rainbow
 
@@ -31,7 +32,7 @@ B1. Gravity's Rainbow (Nightmoves Remix)
 B2. Gravity's Rainbow (To My Boy Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

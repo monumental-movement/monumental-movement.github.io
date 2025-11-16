@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Kreidler – Circles.webp
 lang: es
 layout: post
+permalink: /es/2024-08-16-Kreidler – Circles/
 tags:
 - IDM
 - Downtempo
 - Minimal
 - Leftfield
 - Synth-pop
-title: Kreidler – Circles
+title: Kreidler – Círculos
 ---
 
 
-Kreidlerは、1994年にドイツ・デュッセルドルフで結成されたバンド。エレクトロニックとアコースティック楽器を融合し、リリースに応じてテクノ、エレクトロポップ、アバンギャルド、ポストロック、アンビエント、エレクトロニカ、クラウトロックなど様々なスタイルを取り入れている。
+Kreidler es una banda formada en Düsseldorf, Alemania en 1994. Fusionando instrumentos electrónicos y acústicos, incorporan varios estilos como techno, electropop, vanguardia, post-rock, ambient, electrónica y krautrock según el lanzamiento.
 
-「Circles」は、Jutta Bächnerが設立したドイツのレーベルWonderから2000年にリリースされた。
+"Circles" fue lanzado en 2000 en el sello alemán Wonder, fundado por Jutta Bächner.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Circles
 A2. Beauties
@@ -28,7 +29,7 @@ B1. Circumstanced
 B2. Lanzelot
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40999909018?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40999909018?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3dWZz6l4dTE?si=5Uco5E0QMO3fRZmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3dWZz6l4dTE?si=5Uco5E0QMO3fRZmG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Yumi Matsutoya – Da・Di・Da.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Yumi Matsutoya – DaDiDa/
 tags:
 - JPop
 - Pops
@@ -12,19 +13,19 @@ title: Yumi Matsutoya – Da・Di・Da
 ---
 
 
-「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
+"DA・DI・DA" es el decimoséptimo álbum original de Yumi Matsutoya lanzado en 1985.
 
-参加ミュージシャン
-・ベース：高水健司
-・ドラム：林立夫、Mike Baird
-・ギター：松原正樹
-・キーボード：松任谷正隆
-・パーカッション：斎藤ノブ、浜口茂外也
-・サックス：Jake H. Conception、Ernest J. Watts
-・シンセサイザープログラミング：浦田恵司、Chuck Wild
-・コーラス：松任谷由実、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、白鳥英美子、ハイ・ファイ・セット、つのだひろ、Mark I、Marvin Walker、Marvin Baker、Cindy
+Músicos participantes
+・Bajo: Kenji Takamizu
+・Batería: Tatsuo Hayashi, Mike Baird
+・Guitarra: Masaki Matsubara
+・Teclado: Masataka Matsutoya
+・Percusión: Nobu Saito, Shigeru Hamaguchi
+・Saxofón: Jake H. Conception, Ernest J. Watts
+・Programación de sintetizador: Keiji Urata, Chuck Wild
+・Estribillo: Yumi Matsutoya, Hitoshi Kirigaya, Toshihiro "Bobby" Kirigaya, Emiko Shiratori, Hi-Fi Set, Hiro Tsunoda, Mark I, Marvin Walker, Marvin Baker, Cindy
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. もう愛は始まらない
 
@@ -45,7 +46,7 @@ B4. 青春のリグレット
 B5. たとえあなたが去って行っても
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46295874765?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n2hDGI7r5Mk?si=Tw3mR4JdanLmeZwv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

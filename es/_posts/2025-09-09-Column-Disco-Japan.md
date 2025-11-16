@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/column-disco-japan.webp
 lang: es
 layout: post
+permalink: /es/2025-09-09-Column-Disco-Japan/
 tags:
 - Disco
 - 70s
@@ -12,60 +13,61 @@ tags:
 - 90s
 - 00s
 - History
-title: 【コラム】 ディスコと日本文化の交差から現在まで — 歴史・名盤・機材・クラブ文化
+title: '[Columna] Desde la intersección de la música disco y la cultura japonesa hasta
+  el presente: historia, obras maestras, equipamiento, cultura de club.'
 ---
 
 
 
-## 70年代ディスコと日本文化の交差から現在までの考察
+## Consideración desde la intersección de la música disco de los 70 y la cultura japonesa hasta el presente
 
 
-文：mmr｜テーマ：1970年代のアメリカを中心に発展したディスコの日本における独自の形で受容・発展
+Texto: mmr｜Tema: La recepción y el desarrollo únicos de la música disco en Japón, que se desarrolló principalmente en los Estados Unidos en la década de 1970.
 
 
-ディスコは1970年代にアメリカで誕生し、都市文化、黒人・ラテンコミュニティの解放感、そしてテクノロジーの進化とともに爆発的に広がりました。日本でも同時代に「ニューヨークの熱狂」が輸入され、六本木・赤坂・銀座といったナイトライフの中心地に広まりました。本記事では、ディスコと日本文化の関係性を年代別にたどりながら、代表的な名盤、機材、クラブの歴史、さらにおすすめトラックを整理します。
+La música disco nació en Estados Unidos en la década de 1970 y explotó junto con la cultura urbana, un sentido de liberación entre las comunidades negras y latinas y los avances en la tecnología. Casi al mismo tiempo, la "moda neoyorquina" se importó a Japón y se extendió a centros de vida nocturna como Roppongi, Akasaka y Ginza. En este artículo, rastrearemos la relación entre la música disco y la cultura japonesa por década y organizaremos los discos, equipos, historia del club y pistas recomendadas más famosos.
 
 ---
 
-## 1970s — ディスコの誕生と日本での導入
-- **時代背景**  
-  アメリカでゲイ・ラテン・アフロアメリカン文化の交差点として成立。日本では大阪万博（1970年）以降、西洋文化の急速な導入が進む中で「ディスコティーク」が広がり、六本木「キャンティ」や赤坂「ムゲン」が象徴的な存在となる。  
+## Década de 1970: nacimiento de la discoteca y su introducción en Japón
+- **Fondo**
+Establecido en Estados Unidos como un cruce de culturas gay, latina y afroamericana. Después de la Expo de Osaka (1970), la "discotique" se extendió con la rápida introducción de la cultura occidental, convirtiéndose el "Chianti" de Roppongi y el "Mugen" de Akasaka.
 
-- **代表的な名盤（海外）**  
-  - Donna Summer — *Love to Love You Baby* (1975)  
-  - Bee Gees — *Saturday Night Fever Soundtrack* (1977)  
-  - Giorgio Moroder — *From Here to Eternity* (1977)  
+- **Obras maestras representativas (en el extranjero)**
+- Donna Summer — *Me encanta amarte bebé* (1975)
+- Bee Gees — *Banda sonora de Fiebre del sábado por la noche* (1977)
+- Giorgio Moroder — *De aquí a la eternidad* (1977)
 
-- **代表的な名盤（日本）**  
-  - ピンク・レディー — *UFO* (1977)  
-  - 和田アキ子 — *古い日記（ディスコ・アレンジ版）* (1974)  
-  - 井上順 — *お世話になりました（ディスコ風アレンジ）*  
+- **Obra maestra representativa (Japón)**
+- Dama Rosa — *OVNI* (1977)
+- Akiko Wada — *Old Diary (versión disco arreglada)* (1974)
+- Jun Inoue — *Gracias por tu ayuda (arreglo estilo discoteca)*
 
-- **日本文化との関係**  
-  若者のファッション（ベルボトム、サイケ柄）、銀座や六本木のナイトライフ文化と結びつく。映画「サタデー・ナイト・フィーバー」（1977）は日本でも社会現象に。
+- **Relación con la cultura japonesa**
+Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado por la noche" (1977) se convirtió también en un fenómeno social en Japón.
 
-- **主な機材**  
-  - Technics SL-1200（ターンテーブル／1972年登場）  
-  - Urei 1620（クラブ用ミキサー）  
-  - JBL 4350 スピーカー  
+- **Equipo principal**
+- Technics SL-1200 (tocadiscos/lanzado en 1972)
+- Urei 1620 (mezclador de discoteca)
+- Altavoz JBL 4350
 
-- **日本の代表的クラブ／ディスコ**  
-  - 六本木「キャンティ」  
-  - 赤坂「ムゲン」  
-  - 銀座「ナウ」  
+- **Club/discoteca representativo de Japón**
+- Roppongi "Chianti"
+-Akasaka "Mugen"
+- Ginza "Ahora"
 
-### おすすめトラック10選（1970s）
+### 10 temas recomendados (década de 1970)
 
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
@@ -85,34 +87,34 @@ color: #fff;
 
 ---
 
-## 1980s — バブル期とディスコの大衆化
-- **時代背景**  
-  日本はバブル経済期に突入し、「マハラジャ」「ジュリアナ東京」といった大型ディスコが誕生。西新宿や六本木で「ジュリ扇」文化が拡大。  
+## Década de 1980: período de burbuja y popularización de la discoteca
+- **Fondo**
+Japón entró en un período de burbuja económica y nacieron grandes discotecas como "Maharaja" y "Juliana Tokyo". La cultura "Juri fan" se está expandiendo en Nishi-Shinjuku y Roppongi.
 
-- **代表的な名盤（海外）**  
-  - Michael Jackson — *Thriller* (1982)  
-  - Madonna — *Like a Virgin* (1984)  
-  - Chaka Khan — *I Feel for You* (1984)  
+- **Obras maestras representativas (en el extranjero)**
+- Michael Jackson — * Suspense * (1982)
+- Madonna — *Como una virgen* (1984)
+- Chaka Khan - *Lo siento por ti* (1984)
 
-- **代表的な名盤（日本）**  
-  - 荻野目洋子 — *ダンシング・ヒーロー* (1985)  
-  - 中森明菜 — *DESIRE -情熱-* (1986)  
-  - 佐野元春 — *Young Bloods* (1985)  
+- **Obra maestra representativa (Japón)**
+- Yoko Oginome — *Héroe del baile* (1985)
+- Akina Nakamori — *DESEO -Pasión-* (1986)
+- Motoharu Sano — *Sangre joven* (1985)
 
-- **日本文化との関係**  
-  ボディコン、ジュリアナ東京へと続く「扇子ダンス文化」の基盤形成。洋楽・邦楽のディスコリミックスがラジオやテレビで流行。
+- **Relación con la cultura japonesa**
+Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Juliana Tokyo. Las remezclas disco de música occidental y japonesa se hicieron populares en la radio y la televisión.
 
-- **主な機材**  
-  - Roland TR-808（1980年発売）  
-  - LinnDrum  
-  - Fairlight CMI（サンプラー）  
+- **Equipo principal**
+- Roland TR-808 (lanzado en 1980)
+- LinnDrum
+- Fairlight CMI (muestreador)
 
-- **日本の代表的クラブ／ディスコ**  
-  - 六本木「マハラジャ」  
-  - 六本木「キング&クイーン」  
-  - 大阪「エキゾチックマハラジャ」  
+- **Club/discoteca representativo de Japón**
+- Roppongi "Maharajá"
+- Roppongi "Rey y Reina"
+- Osaka "Maharajá exótico"
 
-### おすすめトラック10選（1980s）
+### 10 temas recomendados (década de 1980)
 
 | トラック | アーティスト | コメント |
 |----------|--------------|----------|
@@ -129,34 +131,34 @@ color: #fff;
 
 ---
 
-## 1990s — クラブカルチャーとリバイバル
-- **時代背景**  
-  日本のバブル崩壊後もディスコは「クラブ」文化に転化。ユーロビート、パラパラ文化が渋谷を中心に台頭。  
+## Década de 1990: cultura de club y renacimiento
+- **Fondo**
+Incluso después del estallido de la burbuja japonesa, la discoteca se convirtió en una cultura de "club". La cultura eurobeat y parapara surgió principalmente en Shibuya.
 
-- **代表的な名盤（海外）**  
-  - Daft Punk — *Homework* (1997)  
-  - Deee-Lite — *World Clique* (1990)  
-  - C+C Music Factory — *Gonna Make You Sweat* (1990)  
+- **Obras maestras representativas (en el extranjero)**
+- Daft Punk — *Tarea* (1997)
+- Deee-Lite — *camarilla mundial* (1990)
+- C+C Music Factory — *Te haré sudar* (1990)
 
-- **代表的な名盤（日本）**  
-  - TRF — *EZ DO DANCE* (1993)  
-  - 安室奈美恵 — *Body Feels EXIT* (1995)  
-  - globe — *DEPARTURES* (1996)  
+- **Obra maestra representativa (Japón)**
+- TRF — *EZ DO BAILE* (1993)
+- Namie Amuro — *El cuerpo siente SALIDA* (1995)
+- globo — *SALIDAS* (1996)
 
-- **日本文化との関係**  
-  「ジュリアナ東京」から渋谷クラブカルチャーへ移行。ディスコ世代がクラブ世代へと進化。
+- **Relación con la cultura japonesa**
+Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evolucionó hasta convertirse en la generación club.
 
-- **主な機材**  
-  - Akai MPCシリーズ  
-  - Pioneer CDJ-500（1992年）  
-  - Roland JP-8000  
+- **Equipo principal**
+- Serie Akai MPC
+-Pionero CDJ-500 (1992)
+-Roland JP-8000
 
-- **日本の代表的クラブ／ディスコ**  
-  - 渋谷「クラブキャメロット」  
-  - 渋谷「HARLEM」  
-  - 大阪「ジュリアナ大阪」  
+- **Club/discoteca representativo de Japón**
+- Shibuya "Club Camelot"
+-Shibuya "HARLEM"
+-Osaka "Juliana Osaka"
 
-### おすすめトラック10選（1990s）
+### 10 temas recomendados (década de 1990)
 
 | トラック | アーティスト | コメント |
 |----------|--------------|----------|
@@ -173,35 +175,35 @@ color: #fff;
 
 ---
 
-## 2000s — Nu-Discoの台頭とクラブ再編
-- **時代背景**  
-  世界的に「Nu-Disco」やエレクトロクラッシュが流行。日本でもディスコリバイバルが進み、再びクラブシーンで脚光を浴びる。 
+## Década de 2000: el auge del Nu-Disco y la reestructuración de los clubes
+- **Fondo**
+"Nu-Disco" y electroclash son populares en todo el mundo. El resurgimiento de la música disco avanza en Japón y la escena de discotecas vuelve a estar en el centro de atención.
 
-- **代表的な名盤（海外）**  
-  - Daft Punk — *Discovery* (2001)  
-  - Metro Area — *Metro Area* (2002)  
-  - LCD Soundsystem — *Sound of Silver* (2007)  
+- **Obras maestras representativas (en el extranjero)**
+- Daft Punk — *Descubrimiento* (2001)
+- Área Metropolitana — *Área Metropolitana* (2002)
+- Sistema de sonido LCD — *Sonido de plata* (2007)
 
-- **代表的な名盤（日本）**  
-  - Perfume — *GAME* (2008)  
-  - Fantastic Plastic Machine — *beautiful.* (2001)  
-  - CAPSULE — *L.D.K Lounge Designers Killer* (2005)  
+- **Obra maestra representativa (Japón)**
+- Perfume — *JUEGO* (2008)
+- Fantástica máquina de plástico — *hermosa.* (2001)
+- CÁPSULA — *L.D.K Lounge Designers Killer* (2005)
 
-- **日本文化との関係**  
-  渋谷や代官山でNu-Discoやハウスの再解釈が盛んに。ファッションも70年代風のリバイバルが目立つ。
+- **Relación con la cultura japonesa**
+Las reinterpretaciones del nu-disco y el house son populares en Shibuya y Daikanyama. También hay un notable renacimiento de la moda de los años 70 en la moda.
 
-- **主な機材**  
-  - Ableton Live（2001年登場）  
-  - Native Instruments Maschine  
-  - Pioneer CDJ-2000  
+- **Equipo principal**
+- Ableton Live (lanzado en 2001)
+- Máquina de instrumentos nativos
+-Pionero CDJ-2000
 
-- **日本の代表的クラブ／ディスコ**  
-  - 六本木：Velfarre（〜2007）、AgeHa（新木場）
-  - 渋谷：WOMB、Club Asia
-  - 大阪ミナミ：Underlounge、MOTHER HALL
+- **Club/discoteca representativo de Japón**
+- Roppongi: Velfarre (~2007), AgeHa (Shinkiba)
+- Shibuya: MUJER, Club Asia
+- Osaka Minami: salón inferior, SALA MADRE
 
 
-### おすすめトラック10選（2000s）
+### 10 pistas recomendadas (década de 2000)
 
 | トラック | アーティスト | コメント |
 |----------|-------------|----------|
@@ -218,34 +220,34 @@ color: #fff;
 
 ---
 
-## 2010s — リバイバルとシティポップ再評価
-- **時代背景**  
-  世界的にNu-Discoが拡大し、CaribouやTodd Terjeらが人気を獲得。日本ではシティポップが世界的に再評価され、星野源やCAPSULEがディスコ文脈を継承。  
+## Década de 2010: renacimiento y reevaluación del pop urbano
+- **Fondo**
+El nu-disco se expandió por todo el mundo y artistas como Caribou y Todd Terje ganaron popularidad. En Japón, el pop urbano fue reevaluado en todo el mundo y Gen Hoshino y CAPSULE heredaron el contexto disco.
 
-- **代表的な名盤（海外）**  
-  - Todd Terje — *It’s Album Time* (2014)  
-  - Daft Punk — *Random Access Memories* (2013)  
-  - Hercules & Love Affair — *Blue Songs* (2011)  
+- **Obras maestras representativas (en el extranjero)**
+- Todd Terje — *Es la hora del álbum* (2014)
+- Daft Punk — *Recuerdos de acceso aleatorio* (2013)
+- Hércules y Love Affair — *Canciones azules* (2011)
 
-- **代表的な名盤（日本）**  
-  - 星野源 — *YELLOW DANCER* (2015)  
-  - CAPSULE — *CAPS LOCK* (2013)  
-  - tofubeats — *Positive* (2015)  
+- **Obra maestra representativa (Japón)**
+- Gen Hoshino — *BAILARINA AMARILLA* (2015)
+- CÁPSULA — *BLOQ MAYÚS* (2013)
+- tofubeats — *Positivo* (2015)
 
-- **日本文化との関係**  
-  山下達郎、大貫妙子、竹内まりやなどが再発見され、ディスコ～シティポップの系譜が新世代に広まる。
+- **Relación con la cultura japonesa**
+Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi y otros fueron redescubiertos, y la genealogía del disco y el pop urbano se extendió a una nueva generación.
 
-- **機材**  
-  - DAW主体（Ableton, Logic Pro X）  
-  - Prophet-6, Moog Sub 37  
-  - DJ用デジタルコントローラー  
+- **Equipo**
+- Principalmente DAW (Ableton, Logic Pro X)
+- Profeta-6, Moog Sub 37
+- Controlador digital para DJ
 
-- **日本の代表的クラブ／ディスコ**  
-  - 六本木：Jumanji 55、ESPRIT TOKYO
-  - 渋谷：Contact、Sound Museum Vision
-  - 大阪ミナミ：Club Joule、Circus Osaka
+- **Club/discoteca representativo de Japón**
+- Roppongi: Jumanji 55, ESPRIT TOKIO
+- Shibuya: Contacto, Visión del Museo del Sonido
+- Osaka Minami: Club Joule, Circo Osaka
 
-### おすすめトラック10選（2010s）
+### 10 pistas recomendadas (década de 2010)
 
 | トラック | アーティスト | コメント |
 |----------|-------------|----------|
@@ -263,36 +265,36 @@ color: #fff;
 
 ---
 
-## 2020s — ポスト・パンデミックとハウス/ディスコの再解釈
-- **時代背景**  
-  コロナ禍以降、配信文化とリアルパーティーの価値が再定義され、ハウスやディスコの温かみが再注目。日本では「シティポップ輸出ブーム」とともに、ディスコ的グルーヴを持つ音楽が世界へ。  
+## Década de 2020: reinterpretación pospandémica y del house/disco
+- **Fondo**
+Desde la pandemia de coronavirus, el valor de la cultura del streaming y las fiestas reales se ha redefinido, y la calidez del house y la discoteca ha ganado una atención renovada. En Japón, con el "boom de exportación de pop urbano", la música con ritmos disco se extendió por el mundo.
 
-- **代表的な名盤（海外）**  
-  - Dua Lipa — *Future Nostalgia* (2020)  
-  - Jessie Ware — *What’s Your Pleasure?* (2020)  
-  - Kylie Minogue — *Disco* (2020)  
+- **Obras maestras representativas (en el extranjero)**
+- Dua Lipa — *Nostalgia del futuro* (2020)
+- Jessie Ware — *¿Cuál es tu placer?* (2020)
+- Kylie Minogue — *Discoteca* (2020)
 
-- **代表的な名盤（日本）**  
-  - Night Tempo — *Ladies In The City* (2021)  
-  - Nulbarich — *New Gravity* (2021)  
-  - iri — *Sparkle* (2020)  
+- **Obra maestra representativa (Japón)**
+- Tempo nocturno — *Damas en la ciudad* (2021)
+- Nulbarich — *Nueva gravedad* (2021)
+- iri — *Brillo* (2020)
 
-- **日本文化との関係**  
-  TikTokやYouTubeでシティポップ／ディスコが拡散。渋谷や新宿のクラブで再びアナログディスコイベントが増加。
-
-
-- **機材**  
-  - Eurorackモジュラーシンセ  
-  - Elektron Digitakt / Octatrack  
-  - AIベースのミックスツール  
-
-- **日本の代表的クラブ／ディスコ**  
-  - 六本木：1 OAK Tokyo、SEL OCTAGON
-  - 渋谷：Vent、DJ Bar Bridge
-  - 大阪ミナミ：Compufunk、Club Ammona
+- **Relación con la cultura japonesa**
+El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de discoteca analógicos están una vez más en aumento en los clubes de Shibuya y Shinjuku.
 
 
-### おすすめトラック10選（2020s）
+- **Equipo**
+- Sintetizador modular Eurorack
+-Elektron Digitakt/Octatrack
+- Herramienta de mezcla basada en IA
+
+- **Club/discoteca representativo de Japón**
+- Roppongi: 1 OAK Tokio, SEL OCTAGON
+- Shibuya: Ventilación, DJ Bar Bridge
+- Osaka Minami: Compufunk, Club Ammona
+
+
+### 10 pistas recomendadas (década de 2020)
 
 | トラック | アーティスト | コメント |
 |----------|-------------|----------|
@@ -311,5 +313,5 @@ color: #fff;
 ---
 
 
-# ディスコは「過去の遺産」ではなく、現代のクラブやポップ文化の根幹を支える生きたリズム
-70年代ディスコはアメリカのサブカルチャーから始まり、日本ではナイトライフ文化と融合して独自に進化しました。80年代にはバブルとともに「ジュリアナ東京」「マハラジャ」を生み、90年代にはクラブカルチャーに溶け込み、2000年代以降はNu-Discoやシティポップの文脈で再解釈されています。今日も日本のクラブ／ディスコ文化に息づき、世代を超えてダンスフロアを熱狂させ続けています。
+# La discoteca no es un “legado del pasado”, sino un ritmo vivo que sustenta los cimientos de la cultura pop y de discotecas moderna.
+La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, sigue vivo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.

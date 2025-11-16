@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Takkyu Ishino – Karaokejack.webp
 lang: es
 layout: post
+permalink: /es/2025-10-26-Takkyu Ishino – Karaokejack/
 tags:
 - Techno
 - JPop
@@ -13,17 +14,17 @@ title: Takkyu Ishino – Karaokejack
 ---
 
 
-2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
-9曲目「Creatures Of The Night 」は、Beroshimaとの共作。
+Álbum en solitario de Takkyu Ishino lanzado en 2001. Primer CD con cubierta de papel limitada.
+La novena canción, "Creatures Of The Night", fue coescrita con Beroshima.
 
 
-石野卓球 - カラオケジャック
+Takkyu Ishino - Karaoke Jack
 
-初回限定盤　紙ジャケ仕様
+Especificaciones de la cubierta de papel de la primera edición limitada
 
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Elektronik Go Go Go
 2. Rock Da Beat
@@ -40,7 +41,7 @@ title: Takkyu Ishino – Karaokejack
 13. Frankenstein's Haus
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

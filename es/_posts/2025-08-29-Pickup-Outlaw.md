@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/pickup-outlaw.webp
 lang: es
 layout: post
+permalink: /es/2025-08-29-Pickup-Outlaw/
 tags:
 - 50s
 - 60s
@@ -12,27 +13,27 @@ tags:
 - 80s
 - 90s
 - 00s
-title: アウトロー（Outlaw）作品をピックアップ
+title: Recoge obras de Outlaw
 ---
 
 
-「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
+“La desviación es producto de la interacción, Outlaw funciona”
 
 <hr>
 
 ### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-形式：CD
+Formato: CD
 
-ジャンル：Experimental Noise
+Género: Ruido Experimental
 
-概要：2004年にImportant Recordsからリリースされた、ノイズ・アーティスト・Merzbowによる破壊的表現の極致作品。
+Resumen: Publicado en 2004 por Importante Records, este es el último trabajo de expresión destructiva del artista de ruido Merzbow.
 
 
-アウトロー感：音の破壊を芸術にまで押し上げた挑戦性は、音楽そのものを規範から逸脱させる「合法的暴力」。周縁における自由な破壊の象徴。
+Sentimiento fuera de la ley: El desafío que eleva la destrucción sonora al nivel de arte es "violencia legal" que hace que la música misma se desvíe de la norma. Un símbolo de destrucción sin límites en la periferia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -42,28 +43,28 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Joey Beltram – The Rising Sun (CD, Mix Techno)
+### Joey Beltram – The Rising Sun (CD, Mezcla Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-形式：CD
+Formato: CD
 
-ジャンル：Mix Techno
+Género: Mezcla Techno
 
-概要：2004年リリース、Tresorとのコラボ作品。代表的なテクノプロデューサーによる深層への導入。
+Resumen: Lanzado en 2004, un trabajo de colaboración con Tresor. Una introducción profunda de un productor líder de techno.
 
 
-アウトロー感：ベルリン地下の鼓動としてのテクノ精神。制度に埋没しない音の闘争性。
+Sentimiento fuera de la ley: el espíritu del techno como latido del corazón del underground berlinés. Un sonido combativo que no queda sumergido en el sistema.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Resurgence
 2. It Works
@@ -78,28 +79,28 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Various – Tresor Compilation Vol. 6
+### Varios - Compilación Tresor vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-形式：CD
+Formato: CD
 
-ジャンル：German Techno / Compilation
+Género: Techno alemán / Compilación
 
-概要：1998年リリース、80〜90年代テクノ・シーンを俯瞰した豪華コンピ。
+Resumen: Publicado en 1998, un magnífico recopilatorio que recorre la escena techno de los años 80 y 90.
 
 
-アウトロー感：ベルリン初期テクノの歴史的結節点を体験できる、反主流の文化蓄積。
+Sentimiento fuera de la ley: una acumulación cultural anti-mainstream donde puedes experimentar la coyuntura histórica del techno berlinés temprano.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -117,26 +118,26 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
-### Tresor Compilation Vol. 7
+### Compilación Tresor vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-形式：CD
+Formato: CD
 
-ジャンル：German Techno / Compilation
+Género: Techno alemán / Compilación
 
-概要：1999年版。「深いテクノ」を俯瞰する定番コレクション。
+Resumen: edición de 1999. Una colección clásica que ofrece una visión panorámica del "techno profundo".
 
-アウトロー感：コンピという形式で複数のアウトロー音を束ねた、サウンド都市の暗部巡礼。
+Sentimiento fuera de la ley: una peregrinación al lado oscuro de la ciudad del sonido, combinando múltiples sonidos fuera de la ley en forma de recopilación.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -153,28 +154,28 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlín 1992 Tresor Kompilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-形式：Vinyl
+Formato: Vinilo
 
-ジャンル：Acid / Techno / Trance
+Género: Ácido / Techno / Trance
 
-概要：1992年リリース、Tresor初期の名コンピ。「家族の響き」を音にした歴史的一枚。
+Resumen: Publicado en 1992, una gran recopilación de los primeros años de Tresor. Una pieza histórica que encarna los "ecos de familia".
 
 
-アウトロー感：シーンの誕生を包み込む、都市的共同体の即興と暗闘の記憶。
+Sentimiento de forajido: Recuerdos de improvisación de comunidades urbanas y luchas oscuras que abarcan el nacimiento de la escena.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -190,28 +191,28 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Benga & Walsh vs Darqwan – Addicts / Megatection
+### Benga & Walsh vs Darqwan – Adictos / Megatección
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-形式：Vinyl / CD
+Formato: Vinilo/CD
 
-ジャンル：Dubstep
+Género: Dubstep
 
-概要：各アーティストの個性が際立つ構成で、低音トリガーとしてのアウトロー性を体感。
+Descripción general: Experimente la naturaleza fuera de la ley de un disparador de bajo con una composición que resalta la individualidad de cada artista.
 
 
-アウトロー感：ベースによる身体への直接侵入。聴覚を越える暴力性と連帯を内包。
+Sentimiento de forajido: Invasión directa del cuerpo por la base. Contiene violencia y solidaridad que van más allá del oído.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Benga & Walsh–Addicts
 
@@ -219,28 +220,28 @@ B. Darqwan–Megatection
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Zed Bias – Ambush Riddim / Cosmic Minefield
+### Zed Bias – Emboscada Riddim / Campo minado cósmico
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
-形式：Vinyl
+Formato: Vinilo
 
-ジャンル：Dubstep / Electronic
+Género: Dubstep/Electrónica
 
-概要：00年代初期のUK電子音楽の先端を捉えた1枚。
+Resumen: Un disco que captura la vanguardia de la música electrónica del Reino Unido a principios de la década de 2000.
 
 
-アウトロー感：リズムの攻撃性が都市空間を揺らし、非日常へとリスナーを連れ出す。
+Sentimiento fuera de la ley: La agresividad del ritmo sacude el espacio urbano y transporta al oyente a un mundo extraordinario.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Ambush Riddim
 
@@ -248,28 +249,28 @@ B. Cosmic Minefield
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Monstruos aterradores y duendes agradables
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-形式：CD
+Formato: CD
 
-ジャンル：Dubstep / Electro / Prog House
+Género: Dubstep / Electro / Prog House
 
-概要：2012年リリースの日本盤。メインストリームの境界線を揺らした金字塔。
+Resumen: Versión japonesa lanzada en 2012. Una obra monumental que sacudió los límites de lo convencional.
 
 
-アウトロー感：ポップ化しつつも暴力性を帯びたサウンドは、制度的包摂と抵抗の狭間を示す。
+Sensación de forajido: el sonido orientado al pop pero violento muestra la brecha entre la inclusión institucional y la resistencia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -283,27 +284,27 @@ B. Cosmic Minefield
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 ### T.Raumschmiere – Rabaukendisko
 <a href="https://jp.mercari.com/item/m93928773468?afid=6142608987"><img src="../assets/images/T.Raumschmiere%20%E2%80%93%20Rabaukendisko.webp"></a>
 
-形式：Vinyl
+Formato: Vinilo
 
-ジャンル：Breaks / Electro (with Industrial Hip Hop / Dubstep remix)
+Género: Breaks / Electro (con remix de Industrial Hip Hop / Dubstep)
 
-概要：2003年リリース。パンクと電子音の狭間を走るDJによる破壊性を帯びた一枚。
+Descripción general: Lanzado en 2003. Una pieza destructiva de un DJ que se sitúa a caballo entre el punk y los sonidos electrónicos.
 
 
-アウトロー感：ジャンルの衝突と混交による暴力的快楽。既成の区分を突き崩す衝動。
+Sentimiento de forajido: el placer violento de la colisión y mezcla de géneros. Una necesidad de romper las divisiones establecidas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Rabaukendisko (Version 1)
 A2. Rabaukendisko (Version 2)
@@ -313,11 +314,11 @@ B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 

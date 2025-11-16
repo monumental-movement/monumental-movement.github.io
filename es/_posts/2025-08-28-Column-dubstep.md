@@ -5,113 +5,115 @@ categories:
 image: ../assets/images/column-dubstep.webp
 lang: es
 layout: post
+permalink: /es/2025-08-28-Column-dubstep/
 tags:
 - Dubstep
 - 90s
 - 00s
-title: 【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ
+title: '[Columna] La trayectoria del Dubstep: un paisaje sonoro urbano creado por
+  bajos pesados'
 ---
 
 
-## 聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける
+## Vaya más allá del sentido del oído para sacudir el cuerpo y el espacio y conectar a los oyentes entre sí.
 
 
-文：mmr｜テーマ：ダブステップの誕生と文化的影響
-
-<hr>
-
-### ダブステップの誕生 ― サウス・ロンドンの地下から
-
-ダブステップは、1990年代末から2000年代初頭にかけて、ロンドン南部のアンダーグラウンド・シーンで誕生した。UKガラージや2ステップ、ジャングル、ドラムンベースの流れを汲みながら、**「低音至上主義」**とも言える美学を打ち出した点が特徴である。
-
-当時のロンドンは移民文化の坩堝であり、レゲエやダブ、ジャマイカのサウンドシステム文化が深く根付いていた。
-
-この土壌から生まれたダブステップは、重厚なサブベース、暗く引き締まった空間性、細分化されたリズムを核に独自の進化を遂げた。
+Texto: mmr｜Tema: El nacimiento y la influencia cultural del dubstep
 
 <hr>
 
-### サウンドの特徴
+### El nacimiento del dubstep: desde los sótanos del sur de Londres
 
-ダブステップは**「体で聴く音楽」**と言われるほど、物理的な低音の圧力に支えられている。
+El dubstep nació en la escena underground del sur de Londres a finales de los 90 y principios de los 2000. Se caracteriza por una estética que puede describirse como "supremacía del bajo", al tiempo que se inspira en las tendencias del garage, el 2-step, el Jungle y el drum'n'bass del Reino Unido.
 
-- **テンポ**：BPMはおおよそ138～142。
+Londres en ese momento era un crisol de culturas inmigrantes, con profundas raíces en el reggae, el dub y la cultura del sound system jamaicano.
 
-- **リズム**：2ステップ由来のブロークンなビート構造。キックは4つ打ちではなく、スネアが3拍目に強調される。
-
-- **ベース**：深いサブベース、歪んだベースライン、いわゆる「ワブル・ベース（Wobble Bass）」が特徴的。
-
-- **ムード**：ダークでミニマル、あるいは実験的なサウンドデザイン。
-
-代表的な初期アーティストには Skream, Benga, Digital Mystikz (Mala & Coki), Loefah らが挙げられる。彼らの活動は、伝説的なロンドンのクラブ 「Plastic People」 を中心に展開された。
+El dubstep, que nació de esta tierra, ha experimentado una evolución única centrada en los subgraves pesados, la espacialidad oscura y apretada y los ritmos subdivididos.
 
 <hr>
 
-### シーンを支えたメディアとイベント
+### Características del sonido
 
-- **DMZ**：Digital Mystikzが主宰したクラブ・イベントであり、ダブステップの象徴的存在。
+El dubstep se sustenta en la presión física de los sonidos del bajo, hasta el punto de que se dice que es "música que se escucha con el cuerpo".
 
-- **Rinse FM**：パイレート・ラジオ局として、まだ無名だったアーティストの実験的サウンドを広める場となった。
+- **Tempo**: BPM aproximadamente 138-142.
 
-- **HatchaのDJセット**：初期のダブステップを定義づけた重要な要素。
+- **Ritmo**: estructura de ritmo rota derivada de 2 pasos. El bombo no es un tiempo de cuatro tiempos, pero la trampa se enfatiza en el tercer tiempo.
+
+- **Bass**: Caracterizado por subgraves profundos, línea de bajo distorsionada y el llamado "Wobble Bass".
+
+- **Mood**: Diseño de sonido oscuro, minimalista o experimental.
+
+Los primeros artistas representativos incluyen a Skream, Benga, Digital Mystikz (Mala & Coki) y Loefah. Sus actividades giraban en torno al legendario club londinense Plastic People.
 
 <hr>
 
-### 国際的な拡大と変容
+### Medios y eventos que apoyaron la escena.
 
-2008年頃から、ダブステップはUKの地下を超えて世界に広がった。
+- **DMZ**: Un evento de club organizado por Digital Mystikz, un símbolo del dubstep.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- **Rinse FM**: Una emisora ​​de radio pirata que promocionaba los sonidos experimentales de artistas desconocidos.
+
+- **Hatcha's DJ Set**: Un elemento importante que definió los inicios del dubstep.
+
+<hr>
+
+### Expansión y transformación internacional
+
+Aproximadamente a partir de 2008, el dubstep se extendió más allá del underground del Reino Unido y se extendió por todo el mundo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/An45y6fzq6g?si=1BPJGduO5Ohi6MYi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-- **アメリカでのブレイク**：Skrillexを筆頭に、より攻撃的で派手な「ブロステップ（Brostep）」が登場。
+- **Ruptura en América**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
 
 
-- **リミックス文化**：ポップスやロック、ヒップホップにダブステップの要素が持ち込まれ、幅広いリスナーを獲得した。
+- **Cultura del remix**: los elementos del dubstep se incorporaron al pop, el rock y el hip-hop, ganando una amplia gama de oyentes.
 
-- **多様化**：ダークで重厚な路線から、メロディアスでドラマティックな展開を持つサウンドへと進化。
-
-<hr>
-
-### 日本におけるダブステップ
-
-日本でも2000年代後半から徐々に浸透し、Goth-Trad が世界的に注目を浴びた。彼のサウンドはロンドンのシーンともリンクしつつ、ノイズ／実験音楽の文脈を取り入れたユニークな進化を遂げている。
-渋谷のクラブを拠点に展開されたイベントや、国内レーベルからのリリースによって、日本独自のダブステップ文化が形成された。
+- **Diversificación**: Evolucionó de un sonido oscuro y pesado a un sonido melodioso y dramático.
 
 <hr>
 
-### ダブステップの文化的影響
+### Dubstep en Japón
 
-- **EDMシーンへの浸透**：フェス文化と結びつき、メインステージで鳴り響く存在へ。
-
-- **ベース・ミュージックの再評価**：トラップやフューチャーベースなど、後続ジャンルの発展にも大きく影響。
-
-- **サウンドデザインの革新**：ソフトシンセやサンプラーを駆使した制作手法が標準化され、現代エレクトロニック・ミュージック全般に波及。
+Gradualmente se hizo popular en Japón a finales de la década de 2000 y el Goth-Trad atrajo la atención mundial. Su sonido ha experimentado una evolución única, incorporando el contexto del ruido/música experimental y al mismo tiempo vinculándolo con la escena londinense.
+Se formó una cultura dubstep exclusivamente japonesa a través de eventos celebrados en clubes de Shibuya y lanzamientos de sellos nacionales.
 
 <hr>
 
-### 代表的な作品（Monumental Movement掲載）
+### Influencia cultural del dubstep
 
-- [**Skrillex – Scary Monsters And Nice Sprites**](https://monumental-movement.jp/Skrillex-Scary-Monsters-And-Nice-Sprites)
+- **Penetración en la escena EDM**: Conectado con la cultura del festival y convirtiéndose en una presencia que resuena en el escenario principal.
 
-→ 世界的にダブステップを拡散させた金字塔的作品。
+- **Reevaluación de la música bass**: Influyó significativamente en el desarrollo de géneros posteriores como el trap y el futuro bajo.
 
-- [**Zed Bias – Ambush Riddim / Cosmic Minefield**](https://monumental-movement.jp/Zed-Bias-Ambush-Riddim-Cosmic-Minefield)
-
-→ ガラージからダブステップへの橋渡しとなった一枚。
-
-- [**Benga & Walsh vs Darqwan – Addicts / Megatection**](https://monumental-movement.jp/Benga-and-Walsh-Vs-Darqwan-Addicts-Megatection)
-
-→ UKシーンの重鎮が揃ったクラシック。
-
-- [**Distance – Night Vision Traffic (Remixes)**](https://monumental-movement.jp/Distance-Night-Vision-Traffic-(Remixes))
-
-→ Skream、Goth-Tradらが参加した濃厚リミックス盤。
+- **Innovación en diseño de sonido**: Los métodos de producción que hacen pleno uso de sintetizadores suaves y samplers se estandarizaron y se extendieron por toda la música electrónica moderna.
 
 <hr>
 
-### 21世紀の都市文化を象徴するサウンドスケープ
+### Obras representativas (publicadas por Movimiento Monumental)
 
-ダブステップは単なる「ジャンル」を超えて、21世紀の都市文化を象徴するサウンドスケープとなった。
+- [**Skrillex – Monstruos aterradores y duendes agradables**](https://monumental-movement.jp/Skrillex-Scary-Monsters-And-Nice-Sprites)
 
-クラブのサウンドシステムで体感する低音の震動は、聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける。現在も進化を続けるダブステップは、今後も新しい世代にとって刺激的な音楽的探求の場であり続けるだろう。
+→ Una obra monumental que difundió el dubstep por todo el mundo.
+
+- [**Zed Bias – Emboscada Riddim / Campo minado cósmico**](https://monumental-movement.jp/Zed-Bias-Ambush-Riddim-Cosmic-Minefield)
+
+→ Una pieza que cerró la brecha entre el garage y el dubstep.
+
+- [**Benga & Walsh vs Darqwan – Adictos / Megatección**](https://monumental-movement.jp/Benga-and-Walsh-Vs-Darqwan-Addicts-Megatection)
+
+→ Un clásico protagonizado por los incondicionales de la escena británica.
+
+- [**Distancia – Tráfico de visión nocturna (Remixes)**](https://monumental-movement.jp/Distance-Night-Vision-Traffic-(Remixes))
+
+→ Un rico álbum de remezclas con Skream, Goth-Trad y otros.
+
+<hr>
+
+### Paisajes sonoros que simbolizan la cultura urbana del siglo XXI.
+
+Más que un simple género, el dubstep se ha convertido en un paisaje sonoro icónico de la cultura urbana del siglo XXI.
+
+Las vibraciones de graves que se experimentan a través del sistema de sonido de un club van más allá del sentido del oído, sacudiendo el cuerpo y el espacio y conectando a los oyentes entre sí. Dubstep continúa evolucionando y seguirá siendo un apasionante terreno de exploración musical para las nuevas generaciones.

@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Kinka – Prayer Burnin.webp
 lang: es
 layout: post
+permalink: /es/2024-05-13-Kinka – Prayer Burnin/
 tags:
 - House
 - Rave
 - 00s
-title: Kinka – Prayer / Burnin'
+title: Kinka – Oración / Burnin'
 ---
 
 
-KinkaことTakaya Hayakawaは、80年代後半からDJ・サウンドコンポーザー・オーガナイザー・楽曲製作者。Kinka は、ZEEKOとのユニットKEY OF KNOWLEDGE、JUZU a.k.a. MOOCHYとのユニットMONKAやaccaとしても活動している。
+Takaya Hayakawa, también conocido como Kinka, ha sido DJ, compositor de sonido, organizador y productor musical desde finales de los años 1980. Kinka también está activa como la unidad KEY OF KNOWLEDGE con ZEEKO, y las unidades MONKA y acca con JUZU, también conocido como MOOCHY.
 
-「Prayer/Burnin'」は、2006年に日本のダンスレーベルRudimentsからリリースされたKinkaのファーストソロアルバム「BEADS」からのシングルカット。
+"Prayer/Burnin'" es un sencillo del primer álbum en solitario de Kinka, "BEADS", lanzado en 2006 en el sello de baile japonés Rudiments.
 
-A面「Prayer」はUNDERSTARS a.k.a. NOVを、B面「 Burnin'」は日本のダブユニットDUBSENSEMANIA（ダブセンスマニア）のギタリストLUIをフィーチャリング。
+La cara A "Prayer" presenta a UNDERSTARS a.k.a. NOV, y la cara B "Burnin'" presenta al guitarrista LUI de la unidad de doblaje japonesa DUBSENSEMANIA.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Prayer feat. NOV
 
 B. Burnin' feat. LUI
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26045027698?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26045027698?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hvr5ESIrAjM?si=pD58cg-Lm6myaTgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvr5ESIrAjM?si=pD58cg-Lm6myaTgg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

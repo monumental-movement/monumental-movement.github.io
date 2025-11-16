@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/On Top – Until I'm Heard.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-On Top – Until I'm Heard/
 tags:
 - House
 - Garage House
 - 90s
-title: On Top – Until I'm Heard
+title: En la cima – hasta que me escuchen
 ---
 
 
-On Top（オントップ）は、Darrell Ellerbe, Julius James, Sean Penningtonからなるガラージトリオ。
+On Top es un trío de garage formado por Darrell Ellerbe, Julius James y Sean Pennington.
 
-「Until I'm Heard」は、ニューヨークを拠点に置くアメリカのエレクトロニック・ダンス ミュージックのレコードレーベルBig Beatから1991年にリリースされたガラージハウストラック。
+"Hasta que me escuchen" es una pista de garage house lanzada en 1991 por el sello discográfico estadounidense de música electrónica de baile Big Beat, con sede en Nueva York.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Until I'm Heard (Night Club Mix)
 
@@ -28,7 +29,7 @@ B1. Until I'm Heard (Till I'm Dubbed)
 B2. Until I'm Heard (Radio Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXl3TUkW5B4?si=mVaxhMLq1i-Ngeka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXl3TUkW5B4?si=mVaxhMLq1i-Ngeka" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

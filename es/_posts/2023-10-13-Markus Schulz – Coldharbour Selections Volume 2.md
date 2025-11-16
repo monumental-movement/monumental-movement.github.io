@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Markus Schulz – Coldharbour Selections Volume 2.webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-Markus Schulz – Coldharbour Selections Volume 2/
 tags:
 - Trance
 - Progressive
-title: Markus Schulz – Coldharbour Selections Volume 2
+title: Markus Schulz - Selecciones de Coldharbour Volumen 2
 ---
 
 
-フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
+Una recopilación de temas de house progresivo y trance seleccionados bajo la marca "Coldharbour" por Markus Schulz, un DJ y productor alemán con sede en Miami, Florida.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Elevation & Kenneth Thomas – Preen
 
@@ -23,7 +24,7 @@ B1. Filterheadz – Yimanya (Markus Schulz & Austin Leeds Remix)
 B2  Mind – Random Experience(Perry O'Neil, Robert Nickson)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m54053728481?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m54053728481?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4aYLP-VdE1I?si=y4vZUYs1PtFeDJgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4aYLP-VdE1I?si=y4vZUYs1PtFeDJgU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

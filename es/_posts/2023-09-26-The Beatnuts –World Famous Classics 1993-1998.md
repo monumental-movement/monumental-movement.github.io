@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/The Beatnuts –World Famous Classics 1993-1998.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-The Beatnuts –World Famous Classics 1993-1998/
 tags:
 - Hiphop
 - Compilation
-title: The Beatnuts –World Famous Classics 1993-1998
+title: The Beatnuts – Clásicos mundialmente famosos 1993-1998
 ---
 
 
-「The Beatnuts – World Famous Classics 1993-1998」(ワールド・フェイマス・クラシックス1993-1998){: .button1}は、ヒップホップグループであるビートナッツのコンピレーションアルバム＆ベスト盤です。
+"The Beatnuts – World Famous Classics 1993-1998" (World Famous Classics 1993-1998){:.button1} es un álbum recopilatorio y el mejor álbum del grupo de hip-hop Beatnuts.
 
-The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構成され、その独特なプロダクションスタイルとウィットに富んだ歌詞で1990年代に注目を集めました。
+Los Beatnuts, formados por los productores y raperos Psycho Les y JuJu, llamaron la atención en la década de 1990 con su estilo de producción único y sus letras ingeniosas.
 
-このアルバムには、The Beatnutsの初期の年にリリースされた人気曲や影響力のあるトラックが収録されています。
+Este álbum incluye canciones populares y temas influyentes de los primeros años de The Beatnuts.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.World's Famous
 
@@ -50,7 +51,7 @@ The Beatnutsは、プロデューサー兼ラッパーのPsycho LesとJuJuで構
 14.Give Me Tha Ass
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m55154639972?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CD-aPRFuHZQ?si=vpVqZ9N_nT3EQjP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CD-aPRFuHZQ?si=vpVqZ9N_nT3EQjP-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

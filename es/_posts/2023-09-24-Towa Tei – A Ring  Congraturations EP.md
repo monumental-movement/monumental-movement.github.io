@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Towa Tei – A Ring Congraturations EP.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Towa Tei – A Ring  Congraturations EP/
 tags:
 - Rock
 - Noise
 - 10inch
-title: Towa Tei – A Ring Congraturations EP
+title: Towa Tei – Un anillo de felicitaciones EP
 ---
 
 
-Towa Tei(元Deee-Liteのメンバー)は、日本の音楽プロデューサー、DJ、アーティストで、ハウス、エレクトロニック、テクノなどのジャンルを組み合わせた独自の音楽スタイルで知られています。
+Towa Tei (ex miembro de Deee-Lite) es un productor musical, DJ y artista japonés conocido por su estilo musical único que combina géneros como el house, la electrónica y el techno.
 
-「A Ring」は、ダンサブルなビートとキャッチーなメロディが特徴の楽曲で、Towa Teiの独特なサウンドアレンジとクリエイティブなサンプリングが際立っています。
+"A Ring" es una canción con un ritmo bailable y una melodía pegadiza, que destaca el arreglo de sonido único y el muestreo creativo de Towa Tei.
 
-「Congraturations!」は、よりエクスペリメンタルでエレクトロニックな要素を持った楽曲で、Towa Teiの幅広い音楽スタイルとクリエイティブなアプローチが反映されています。
+"¡Felicitaciones!" es una canción con elementos más experimentales y electrónicos, que refleja la amplia gama de estilos musicales y enfoque creativo de Towa Tei.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  A Ring
 
@@ -30,7 +31,7 @@ B1  Congratulations!
 B2  A Platinum Ring
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60231112636?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60231112636?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4a6Kz6RXPo?si=7zAXwoSRZPMzkEjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4a6Kz6RXPo?si=7zAXwoSRZPMzkEjs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

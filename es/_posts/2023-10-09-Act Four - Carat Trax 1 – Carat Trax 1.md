@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Act Four - Carat Trax 1 – Carat Trax 1.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Act Four - Carat Trax 1 – Carat Trax 1/
 tags:
 - Trance
 - 90s
-title: Act Four - Carat Trax 1 – Carat Trax 1
+title: Cuarto acto - Carat Trax 1 - Carat Trax 1
 ---
 
 
-「Carat Trax 1」は、
-1994年にベルギーのレーベル「Circus」からリリースされたとAndres RomeroとStefan WuytsによるユニットAct FourのEPです
+"Carat Trax 1" es
+Se trata de un EP de la unidad Act Four, compuesta por Andrés Romero y Stefan Wuyts, editado en 1994 por el sello belga Circus.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Blue (Deep Underground Mix)
 
@@ -27,7 +28,7 @@ B1. Blue (Deep Vocal Mix)
 B2. Blue (Piano Vocal Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76260753119?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76260753119?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F8Grfgp5b9E?si=jIPZbyknlBOtSuTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F8Grfgp5b9E?si=jIPZbyknlBOtSuTb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -6,21 +6,24 @@ image: ../assets/images/Junior Wells & Buddy Guy – Live Recording At Yuhbin-Ch
   Hall On March-1975.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Junior Wells and Buddy Guy – Live Recording At Yuhbin-Chokin
+  Hall On March-1975/
 tags:
 - Blues
 - Rare
-title: Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975
+title: Junior Wells & Buddy Guy - Grabación en vivo en Yuhbin-Chokin Hall en marzo
+  de 1975
 ---
 
 
-ジュニア・ウェルズ＆バディ・ガイによる郵便貯金ホールでのライブレコーディングです。
+Esta es una grabación en vivo de Junior Wells y Buddy Guy en el Postal Savings Hall.
 
-バディとジュニア2人ともリーダーとして腕を振るい、アルバム全体を通して存分に活躍。
+Tanto Buddy como Junior demuestran sus habilidades como líderes y están completamente activos durante todo el álbum.
 
-ブルース好きなら絶対に見逃せないLP2枚組です。
+Este conjunto de 2 LP es una visita obligada para los fanáticos del blues.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Let Me love You, Baby
 
@@ -61,7 +64,7 @@ D4. Waterman Blues (Instrumental)
 D5. Messin' With The Kid
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61574554178?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZdBIFuNbhqU?si=UiU10_aC8rWVGJLj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

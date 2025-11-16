@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/松田聖子 – 青い珊瑚礁.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Seiko Matsuda – Aoi Sangosho/
 tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 松田聖子 – 青い珊瑚礁
+title: Seiko Matsuda – Arrecife de coral azul
 ---
 
 
-「松田聖子 – 青い珊瑚礁」は、1980年にリリースされました。
+“Seiko Matsuda – Blue Coral Reef” se lanzó en 1980.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. 青い珊瑚礁 
 
 B. True Love そっとくちづけて
 ```
 
-アレンジ – 大村雅朗
-コンポーズ – 小田裕一郎
-歌詞 – 三浦徳子
-カバー写真 – 篠山紀信
+Arreglo – Masaaki Omura
+Componer – Yuichiro Oda
+Letra – Noriko Miura
+Foto de portada: Kishin Shinoyama
 
-[メルカリで購入](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mrgApjHbRLw?si=4S6VhJdtT4EWiMrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mrgApjHbRLw?si=4S6VhJdtT4EWiMrx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Wrench – Bliss.webp
 lang: es
 layout: post
+permalink: /es/2023-09-17-Wrench ‎– Bliss/
 tags:
 - Rock
 - Dub
 - Mixture
-title: Wrench – Bliss
+title: Llave inglesa – Felicidad
 ---
 
 
-Wrench（レンチ）は、1992年7月にシゲ、坂本梓、松田智宏、名越藤丸によって結成され、日本のラウドロックシーンにおいて重要な存在となってきました。
+Wrench se formó en julio de 1992 por Shige, Azusa Sakamoto, Tomohiro Matsuda y Fujimaru Nagoshi, y se ha convertido en una presencia importante en la escena del rock ruidoso de Japón.
 
-このアルバムは、2000年にリリースされた2枚組LPです。
+Este álbum es un LP doble lanzado en 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Sound Wave
 
@@ -58,7 +59,7 @@ D1  Passion
 D2  Blood Type Mysterious
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26534523251?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lJ1D_vYYAug?si=Y5Ga3kjLFF9wfMxy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

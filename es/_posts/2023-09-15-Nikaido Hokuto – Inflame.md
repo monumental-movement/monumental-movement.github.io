@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/二階堂北斗 – Inflame.webp
 lang: es
 layout: post
+permalink: /es/2023-09-15-Nikaido Hokuto – Inflame/
 tags:
 - Techno
 - Acid
 - 90s
-title: 二階堂北斗 – Inflame
+title: Nikaido Hokuto – Inflamar
 ---
 
 
-1996年に札幌のダブレックスからリリースされたテクノな一枚。
+Una pieza de techno lanzada por Doublex de Sapporo en 1996.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. 天上天下唯我独尊
 
@@ -32,5 +33,5 @@ B3. 天上天下唯我独尊 (Bleep.Bird.Burn.Mix)
 B4. Subsonic Drum (Power Peak Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93371201718?afid=6142608987){: .button1}
 

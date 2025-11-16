@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Circuit Boy Feat. Alan T. – The Door.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Circuit Boy Feat. Alan T. – The Door/
 tags:
 - Techno
-title: Circuit Boy Feat. Alan T. – The Door
+title: Circuito chico hazaña. Alan T. – La puerta
 ---
 
 
-2001年にドイツのレーベルFleshからリリースされたJay Winborn & Mike Mucciによるユニット「Circuit Boy」によるテクノな１枚。
+Un álbum de techno de la unidad "Circuit Boy" de Jay Winborn y Mike Mucci, lanzado por el sello alemán Flesh en 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The Door (Planet Tweak Mix)　Remix – Danny Tenaglia
 
 B. The Door (Mr. Sam At Nova Mix) Remix – Mr. Sam
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44348501009?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44348501009?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1sQPEHcFgpQ?si=7ICkGa2bysRoMinV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sQPEHcFgpQ?si=7ICkGa2bysRoMinV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

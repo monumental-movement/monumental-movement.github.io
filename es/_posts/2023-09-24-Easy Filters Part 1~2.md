@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/FLR - Easy Filters Part 1~2.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Easy Filters Part 1~2/
 tags:
 - Techno
 - Tech House
-title: FLR - Easy Filters Part 1~2
+title: FLR - Filtros fáciles Parte 1~2
 ---
 
 
-1998年に日本のReel Musiqレーベルからリリースされたケンイシイの別名義「FLR」によるEPです。
+Este es un EP del alias "FLR" de Ken Ishii lanzado en 1998 en el sello japonés Reel Musiq.
 
-2001年のアルバム『Easy Filters』にも収録されました。
+También se incluyó en el álbum de 2001 "Easy Filters".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Easy Filter Part 1
 
 B. Easy Filter Part 2
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66543107278?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66543107278?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gzQ1C8JyuLM?si=FgyHr7lX-Yz6Ae_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gzQ1C8JyuLM?si=FgyHr7lX-Yz6Ae_E" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

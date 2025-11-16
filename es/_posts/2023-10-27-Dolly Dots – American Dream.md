@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Dolly Dots – American Dream.webp
 lang: es
 layout: post
+permalink: /es/2023-10-27-Dolly Dots – American Dream/
 tags:
 - Disco
 - 80s
-title: Dolly Dots – American Dream
+title: Dolly Dots – Sueño americano
 ---
 
 
-Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズグループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
+Dolly Dots fue un grupo de chicas holandés que estuvo activo desde finales de los 70 hasta finales de los 80. Tuvo éxito no sólo en los Países Bajos, sino también en Bélgica, Japón y Turquía.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1.  (They Are) Rollerskating
 
@@ -41,7 +42,7 @@ B5. Hollywood
 B6. My Boyfriend's Back
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95282929146?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LCaV_cppcbM?si=MIH5qvFodmU0bWPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LCaV_cppcbM?si=MIH5qvFodmU0bWPs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

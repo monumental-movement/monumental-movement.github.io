@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/DJ Belal – Reggaeton Party Mix 05.webp
 lang: es
 layout: post
+permalink: /es/2024-01-11-DJ Belal – Reggaeton Party Mix 05/
 tags:
 - Dancehall
 - Reggae
 - Reggaeton
-title: DJ Belal – Reggaeton Party Mix 05
+title: DJ Belal – Mezcla de fiesta de reggaetón 05
 ---
 
 
-A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy Shop」のremixヴァージョン。
+El lado A es una versión remix de "1 Thing" de Amerie. La cara B es una versión remix de 50 Cent - "Candy Shop".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Club
 
@@ -30,5 +31,5 @@ B2. Instrumental
 B3. Ordinary Mix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
 

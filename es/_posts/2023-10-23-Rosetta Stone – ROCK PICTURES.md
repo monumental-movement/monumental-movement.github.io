@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Rosetta Stone – ROCK PICTURES.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-Rosetta Stone – ROCK PICTURES/
 tags:
 - Rock
 - Hard Rock
-title: Rosetta Stone – ROCK PICTURES
+title: Piedra Rosetta – IMÁGENES DE ROCK
 ---
 
 
-Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
+Rosetta Stone es una banda de rock de Irlanda del Norte formada por el ex guitarrista de Bay City Rollers, Ian Mitchell.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. (If Paradise Is) Half As Nice
 
@@ -39,7 +40,7 @@ B5. Free As A Bird
 B6. You Really Got Me
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/366a3V7VHsY?si=fTeFG8musSDx6f9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/366a3V7VHsY?si=fTeFG8musSDx6f9H" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

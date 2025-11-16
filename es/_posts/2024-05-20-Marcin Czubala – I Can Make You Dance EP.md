@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Marcin Czubala – I Can Make You Dance EP.webp
 lang: es
 layout: post
+permalink: /es/2024-05-20-Marcin Czubala – I Can Make You Dance EP/
 tags:
 - Techno
 - Minimal
 - 00s
-title: Marcin Czubala – I Can Make You Dance EP
+title: Marcin Czubala – Puedo hacerte bailar EP
 ---
 
 
-Marcin Czubalaは、クラシック音楽の経験をバックグラウンドにもつポーランド出身のミニマルテクノDJ・プロデューサー。2007年からは、ベルリンを拠点とするドイツのテクノ/ハウス レーベルMOBILEEのメンバーとしても活動している。
+Marcin Czubala es un DJ y productor de techno minimalista de Polonia con experiencia en música clásica. Desde 2007 es miembro del sello alemán de techno/house MOBILEE, con sede en Berlín.
 
-「I Can Make You Dance EP」は、2003年にフランスのテクノレーベルANLXからリリースされたテクノトラック。
+"I Can Make You Dance EP" es una pista de techno lanzada por el sello de techno francés ANLX en 2003.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Street Dance
 A2. Go Off
@@ -26,7 +27,7 @@ B1. V1 Take Off
 B2. The Real Menel
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aLLo_k0n8y8?si=6cOk92BNcXbEFczF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLLo_k0n8y8?si=6cOk92BNcXbEFczF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

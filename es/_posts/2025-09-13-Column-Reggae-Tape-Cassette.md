@@ -5,96 +5,98 @@ categories:
 image: ../assets/images/column-reggae-tape-cassette.webp
 lang: es
 layout: post
+permalink: /es/2025-09-13-Column-Reggae-Tape-Cassette/
 tags:
 - Reggae
 - Cassette
 - Dub
-title: 【コラム】 レゲエミュージックとカセット文化──ジャマイカから世界へ広がる音と物質メディアの関係
+title: '[Columna] Música reggae y cultura del casete: la relación entre los medios
+  sonoros y materiales que se extienden desde Jamaica al mundo'
 ---
 
 
 
-## レゲエとカセット文化の結びつき
+## La conexión entre el reggae y la cultura del casete
 
 
-文：mmr｜テーマ：時代背景を踏まえたレゲエとカセット文化の関係
+Texto: mmr｜Tema: Relación entre el reggae y la cultura del casete a partir de los antecedentes históricos
 
 
-レゲエミュージックは、1960年代末からジャマイカで生まれた音楽スタイルであり、そのリズムや歌詞には社会的・政治的なメッセージが込められてきた。サウンドシステムを中心とした独自の音楽流通と享受の仕組みは、商業的なレコード産業とは一線を画す存在であった。その中で重要な役割を果たしたのが「カセットテープ」というメディアである。カセットは安価かつ容易にコピー可能で、現地の庶民的な日常とレゲエ文化を強く結びつけた。ここでは、時代背景を踏まえつつ、レゲエとカセット文化の関係を考察していく。
+La música reggae es un estilo musical que se originó en Jamaica a finales de la década de 1960, y sus ritmos y letras han estado imbuidos de mensajes sociales y políticos. Su exclusivo sistema de distribución y disfrute de la música centrado en sistemas de sonido lo distingue de la industria discográfica comercial. En esto jugaron un papel importante los medios llamados ``cassette tape''. Los casetes eran baratos y fáciles de copiar, y conectaban fuertemente la vida cotidiana local con la cultura reggae. Aquí examinaremos la relación entre el reggae y la cultura del casete, teniendo en cuenta los antecedentes históricos.
 
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 1960年代末〜1970年代 — レゲエ誕生とサウンドシステム文化
+## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
 
-- **レゲエの成立**  
-  スカやロックステディを経てレゲエが成立したのは1968年前後。リズムがより重く、ベースを強調し、メッセージ性を帯びた歌詞が広まった。ボブ・マーリーやピーター・トッシュ、バーニング・スピアといったアーティストが国際的に知られるようになったのもこの時期である。
+- **Establecimiento del Reggae**
+El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
 
-- **サウンドシステムの役割**  
-  ジャマイカでは高価なレコードプレイヤーやステレオを持つことが困難だったため、町角に設置される巨大なスピーカー群＝サウンドシステムが音楽体験の中心となった。プロデューサーやDJたちは最新の7インチシングルを独自に流し、観客にアピールした。
+- **Rol del sistema de sonido**
+En Jamaica, era difícil poseer tocadiscos y equipos de música costosos, por lo que enormes parlantes (sistemas de sonido) instalados en las esquinas de las calles se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
 
-- **カセットの登場**  
-  1970年代前半、フィリップス社の規格で登場したコンパクトカセットは、すぐにジャマイカにも流入した。まだ普及初期ではあったが、現地のレゲエファンやDJはこの小型メディアの可能性に着目していくことになる。
-
----
-
-## 1980年代 — カセット文化の黄金期とレゲエの拡散
-
-- **カセットの普及**  
-  1980年代に入ると、世界的にカセットは最も普及した音楽メディアとなった。安価で持ち運びが容易、ラジカセやウォークマンといった再生機器の登場によって、レコードに比べ圧倒的に身近な存在となった。
-
-- **ジャマイカでのカセット録音**  
-  サウンドシステムのイベントやダンスホールの現場では、**ライブ録音をその場でカセットに収録し、即座に流通**するという文化が生まれた。これはブートレグ的な側面もあったが、むしろ現場の熱気をパッケージ化し、広範に届ける重要な仕組みとなった。  
-  例えば、特定のサウンドシステムの対決（サウンドクラッシュ）の模様が録音され、後日カセットで出回ることはファンにとって貴重な体験共有の手段だった。
-
-- **ディアスポラとカセット**  
-  イギリスやアメリカのカリブ系移民コミュニティにとって、ジャマイカから送られてくるカセットは「祖国の現在」を伝えるリアルタイムなメディアであった。郵送や非公式なネットワークを通じ、ジャマイカの最新のレゲエやダンスホールは瞬く間に海外へと広まった。
+- **La llegada de los casetes**
+Los casetes compactos, introducidos a principios de la década de 1970 bajo el estándar Philips, pronto llegaron a Jamaica. Aunque todavía estaba en sus primeras etapas de popularidad, los fanáticos del reggae y los DJ locales comenzaron a prestar atención al potencial de este pequeño medio.
 
 ---
 
-## 1990年代 — ダンスホール、デジタル化、そしてカセットの持続
+## Década de 1980: época dorada de la cultura del casete y la difusión del reggae
 
-- **デジタルレゲエの隆盛**  
-  1985年の「Sleng Teng」の登場以降、デジタルサウンドが主流となり、ダンスホール・レゲエが世界中に広まった。リディムの量産、MC文化の台頭、そしてスピーディーな流通が求められる状況で、カセットは依然として重要な役割を果たしていた。
+- **Popularización de casetes**
+En la década de 1980, los casetes se convirtieron en el medio musical más popular en todo el mundo. Barato y fácil de transportar, con la llegada de dispositivos de reproducción como radiocasetes y walkmans, se ha vuelto mucho más familiar que los discos.
 
-- **カセットとローカル・エコノミー**  
-  公式のCDリリースが整備される一方で、ジャマイカのストリートでは非公式のカセット販売が盛んだった。市場や屋台で売られる「ミックステープ」は、庶民にとって最新の音源を安価で手に入れる方法であり、DJにとっては自己プロモーションの手段だった。
+- **Grabación en casete en Jamaica**
+En los eventos con sistema de sonido y en las salas de baile nació una cultura en la que las grabaciones en vivo se grababan en casetes y se distribuían inmediatamente. Aunque esto tuvo algunos aspectos de contrabando, se convirtió en un mecanismo importante para empaquetar y difundir el entusiasmo del campo.
+Por ejemplo, las grabaciones de enfrentamientos específicos de sistemas de sonido (choques de sonido) y su posterior distribución en casetes fueron un medio valioso para compartir experiencias entre los fans.
 
-- **日本との関係**  
-  日本のレゲエファンやDJも90年代にはジャマイカを訪れ、現地のカセットを収集。こうした録音物はクラブイベントやレコードショップで流通し、日本国内のレゲエ文化の発展に直結した。特に渋谷や大阪のシーンでは、輸入カセットが重要な役割を果たしていた。
-
----
-
-## 2000年代以降 — デジタル時代とカセット文化の記憶
-
-- **CDとMP3の台頭**  
-  2000年代に入ると、CD-RやMP3のファイル共有が主流となり、カセットは次第に市場から姿を消していった。ジャマイカでもパソコンやインターネットを介した音楽流通が定着し、物理的なメディアとしてのカセットの役割は終焉を迎えた。
-
-- **カセット文化の残響**  
-  しかし、カセットが担った「即時性」「現場の熱気」「非公式な流通網」という特徴は、後のデジタル・ミックステープ文化やYouTube上のライブ録音アーカイブへと受け継がれている。また、世界的なアナログ回帰の流れの中で、カセットを再評価する動きも見られる。
-
-- **文化的意義の再考**  
-  カセットは単なる録音媒体ではなく、**レゲエの持つコミュニティ志向、草の根的な情報流通、そしてアウトロー的な独立性**を象徴する存在だった。カセットを通じて、レゲエは大衆にとって「自分たちの音楽」として根付いたのである。
+- **Diáspora y Cassette**
+Para las comunidades de inmigrantes caribeños en Gran Bretaña y Estados Unidos, los casetes enviados desde Jamaica eran un medio en tiempo real que transmitía el "estado actual de su patria". A través del correo y las redes informales, la última música reggae y dancehall de Jamaica se difundió rápidamente en el extranjero.
 
 ---
 
-## おすすめカセット録音集リスト
+## Década de 1990: Dancehall, digitalización y persistencia de los casetes
 
-レゲエのカセット文化を象徴する名録音をリスト化する。これらは公式盤ではなく現場の熱気を閉じ込めた記録であり、当時の空気を最もリアルに伝えている。
+- **Auge del reggae digital**
+Después del debut de Sleng Teng en 1985, el sonido digital se volvió popular y el dancehall reggae se extendió por todo el mundo. Con la producción masiva de riddims, el auge de la cultura MC y la necesidad de una distribución rápida, los casetes siguieron desempeñando un papel importante.
+
+- **Casettes y Economía Local**
+Si bien se produjeron lanzamientos oficiales de CD, las ventas no oficiales de casetes florecieron en las calles de Jamaica. Los mixtapes, vendidos en mercados y puestos de comida, eran una forma para que la gente corriente obtuviera las últimas fuentes de sonido a precios bajos y un medio de autopromoción para los DJ.
+
+- **Relación con Japón**
+Los fanáticos del reggae y los DJ japoneses también visitaron Jamaica en la década de 1990 y coleccionaron casetes locales. Estas grabaciones se distribuyeron en eventos de clubes y tiendas de discos y estaban directamente relacionadas con el desarrollo de la cultura reggae en Japón. Los casetes importados jugaron un papel importante, especialmente en las escenas de Shibuya y Osaka.
+
+---
+
+## Después de la década de 2000: recuerdos de la era digital y la cultura del casete
+
+- **Auge del CD y MP3**
+En la década de 2000, el intercambio de archivos CD-R y MP3 se volvió común y los casetes desaparecieron gradualmente del mercado. La distribución de música a través de computadoras e Internet se ha consolidado en Jamaica y el papel del casete como medio físico ha llegado a su fin.
+
+- **Reverberaciones de la cultura del casete**
+Sin embargo, las características de los casetes, como la inmediatez, el entusiasmo en el sitio y las redes de distribución informales, han sido heredadas por la cultura del mixtape digital y los archivos de grabaciones en vivo en YouTube. Además, en medio de la tendencia global hacia un retorno a lo analógico, también existe un movimiento para reevaluar los casetes.
+
+- **Repensar el significado cultural**
+Más que un simple medio de grabación, el casete simbolizaba la naturaleza comunitaria del reggae, la distribución de información de base y la independencia fuera de la ley. A través de los casetes, el reggae se arraigó como "su música" para las masas.
+
+---
+
+## Lista de colección de grabaciones en casete recomendada
+
+Una lista de grabaciones famosas que simbolizan la cultura del casete de reggae. Estos no son registros oficiales, sino registros que capturan la emoción de la escena y transmiten la atmósfera de la época de la manera más realista.
 
 | タイトル（録音名） | 年代 | 特徴 |
 |------------------|------|------|
@@ -106,9 +108,9 @@ color: #fff;
 
 ---
 
-## 時代別代表的なレゲエアーティスト表
+## Artistas representativos del reggae por época
 
-カセット文化と密接に関わった代表的なアーティスト・サウンドを年代ごとに整理。
+Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por décadas.
 
 | 時代 | 代表的アーティスト／サウンド | 特徴 |
 |------|----------------------------|------|
@@ -120,30 +122,30 @@ color: #fff;
 
 ---
 
-## 日本のレゲエシーンにおけるカセット流通史
+## Historia de la distribución de casetes en la escena del reggae japonés.
 
-ジャマイカ発のカセット文化は、1980年代以降、日本のレゲエ・シーンにも大きな影響を及ぼした。輸入盤レコードと並行して、**現地録音のカセット**が日本のファンやDJにとって極めて重要な情報源となったのである。
+La cultura del casete que se originó en Jamaica ha tenido una gran influencia en la escena del reggae japonés desde la década de 1980. Además de los discos importados, los **casetes grabados localmente** se convirtieron en una fuente de información extremadamente importante para los fans y DJ japoneses.
 
-- **1980年代：黎明期**  
-  東京・渋谷や大阪・ミナミのレコード店では、ジャマイカから持ち帰られたサウンドシステムの録音カセットが裏流通的に取引されていた。これらは正規商品ではなく、ジャマイカ現地での「ライブ録音」のコピーであり、日本のクラブシーンにおける最初期のダンスホール体験を支えた。
+- **Década de 1980: Amanecer**
+En las tiendas de discos de Shibuya, Tokio, y Minami, Osaka, se vendían de forma clandestina casetes de grabación de sistemas de sonido traídos de Jamaica. No se trataba de productos genuinos, sino copias de "grabaciones en vivo" realizadas localmente en Jamaica y que respaldaban las primeras experiencias de dancehall en la escena de clubes japonesa.
 
-- **1990年代：輸入カセットの全盛**  
-  日本のレゲエファンが急増した90年代、**現地のカセットは「最新のリディムを知る手段」**として欠かせなかった。ジャマイカ渡航者が持ち帰り、レコード店の片隅やイベント会場で販売された。大阪の**CLUB JAH JAH**や渋谷の**CLUB Citta’**周辺では、カセットが「情報の最前線」として機能していた。  
+- **Década de 1990: el apogeo de los casetes importados**
+En la década de 1990, cuando el número de fanáticos del reggae japonés aumentó rápidamente, los casetes locales eran indispensables como una forma de aprender sobre el último riddim. Lo trajeron los viajeros a Jamaica y lo vendieron en las esquinas de tiendas de discos y lugares para eventos. Alrededor del **CLUB JAH JAH** en Osaka y del **CLUB Citta'** en Shibuya, los casetes funcionaron como "primera línea de información".
 
-- **自主制作ミックステープの登場**  
-  日本人サウンドシステム（Mighty Crown, Fire Ballなど）が成長すると、彼ら自身のミックスをカセットでリリースする流れが生まれた。これにより、日本独自のレゲエ文化とジャマイカ直輸入のスタイルが融合していった。  
+- **Presentamos un mixtape independiente**
+A medida que los sistemas de sonido japoneses (Mighty Crown, Fire Ball, etc.) crecieron, comenzaron a lanzar sus propias mezclas en casete. Esto llevó a la fusión de la cultura reggae única de Japón y estilos importados directamente de Jamaica.
 
-- **2000年代以降：CD-Rとデジタル化の波**  
-  2000年代に入ると、CD-RやMP3が主流となり、カセットは徐々に姿を消していった。しかし一部のコレクターやDJは今なおカセットを保存し、デジタル化してシーンに還元している。これらは、日本におけるレゲエ受容の生々しいアーカイブとして価値を持ち続けている。
+- **Después de la década de 2000: CD-R y ola de digitalización**
+En la década de 2000, el CD-R y el MP3 se generalizaron y los casetes desaparecieron gradualmente. Sin embargo, algunos coleccionistas y DJ todavía conservan sus casetes y los digitalizan para devolverles la vida a la escena. Estos siguen teniendo valor como un archivo vívido de la recepción del reggae en Japón.
 
-- **文化的意義**  
-  日本のレゲエシーンにおけるカセット流通は、単なる「輸入音源」ではなく、**ストリート感覚を直輸入する回路**であった。カセットを通じて、ジャマイカの現場と日本のクラブが結びつき、ローカルシーンの成熟を後押ししたのである。
+- **Importancia cultural**
+La distribución de casetes en la escena del reggae japonés no era sólo una "fuente de sonido importada", sino un circuito para importar directamente música callejera. A través de casetes se conectó la escena jamaicana y los clubes japoneses, apoyando la maduración de la escena local.
 
 ---
 
-## 年表（ジャマイカと日本の並列タイムライン）
+## Cronología (cronologías paralelas de Jamaica y Japón)
 
-レゲエとカセット文化の広がりを、ジャマイカ本国と日本国内での動きとして並列で整理する。
+La difusión del reggae y la cultura del casete se organizará paralelamente como movimientos dentro de Jamaica y Japón.
 
 | 年代 | ジャマイカでの動き | 日本での動き |
 |------|-------------------|-------------|
@@ -160,7 +162,7 @@ color: #fff;
 
 ---
 
-## 代表的なイベント／クラブ名（年表形式）
+## Eventos representativos/nombres de clubes (formato de tabla cronológica)
 
 | 年代 | ジャマイカ | 日本 |
 |------|------------|------|
@@ -172,7 +174,7 @@ color: #fff;
 
 ---
 
-## monumental-movement.jp：Cassette／Reggae 関連ページ一覧
+## monumental-movement.jp: Lista de páginas relacionadas con casetes/reggae
 
 | ページ名 | フォーマット／タグ | 発表日／特徴 | リンク |
 |---|----------------------|----------------|--------|
@@ -182,14 +184,14 @@ color: #fff;
 
 ---
 
-## 結論 — レゲエとカセットが残したもの
+## Conclusión — El legado del reggae y los casetes
 
-レゲエミュージックとカセット文化の結びつきは、単に技術史的な出来事にとどまらない。そこには、  
-- 音楽と社会を結びつける **草の根的ネットワーク**  
-- 国家や産業を越えて広がる **ディアスポラ的コミュニケーション**  
-- 「現場の記録」としての **即時性・生々しさ**  
-- 日本を含む各地での **ローカルシーンの展開と成熟**  
+La conexión entre la música reggae y la cultura del casete no es sólo un acontecimiento histórico tecnológico. Hay
+- Conectando música y sociedad **Red de base**
+- **Comunicación diaspórica que se extiende más allá de las naciones y las industrias**
+- **Inmediatez y viveza** como “registro de la escena”
+- **Desarrollo y maduración de escenas locales en varias regiones incluido Japón**
 
-といった重要な側面が存在する。今日のデジタル時代においても、ストリートレベルの音楽流通やミックステープ文化を理解する上で、レゲエとカセットの関係は不可欠な参照点である。
+Hay aspectos importantes como: Incluso en la era digital actual, la relación entre el reggae y los casetes sigue siendo un punto de referencia esencial para comprender la distribución musical callejera y la cultura del mixtape.
 
 

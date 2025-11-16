@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Various – Exterminator Presents Turn On The Heat.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Various – Exterminator Presents Turn On The Heat/
 tags:
 - Reggae
 - Dancehall
-title: Various – Exterminator Presents Turn On The Heat
+title: Varios – Los regalos de Exterminator encienden la calefacción
 ---
 
 
-「Exterminator Presents Turn On The Heat」は、
-1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム
-です。
+“Exterminator presenta enciende el calor” es
+Un álbum recopilatorio muy clásico de Fatis Burrell lanzado por el sello británico "Sir Coxsone" en 1989.
+es.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Sanchez–Joy (Medley)
 
@@ -40,7 +41,7 @@ B4. Quench Aid–Nah Fight Over Woman
 B5. Fire House Crew –Version
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95069371918?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qoCuWO4b0TE?si=LZKNGTWufF0d0vE8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

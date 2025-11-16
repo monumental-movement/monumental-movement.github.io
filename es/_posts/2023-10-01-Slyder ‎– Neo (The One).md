@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Slyder – Neo (The One).webp
 lang: es
 layout: post
+permalink: /es/2023-10-01-Slyder ‎– Neo (The One)/
 tags:
 - Trance
 - Rare
-title: Slyder – Neo (The One)
+title: Slyder - Neo (El indicado)
 ---
 
 
-Slyder （スライダー）は、Chad Petree（チャド・ペトリー） と Jeremy Dawson（ジェレミー・ドーソン）によるUSダンスミュージックデュオです。
+Slyder es un dúo estadounidense de música dance formado por Chad Petree y Jeremy Dawson.
 
-彼らは、エレクトロニカ/ロックグループShiny Toy Gunsのメンバーでもあり、また別名R.R.D.S. 、cloud2ground、Mirror Machinesとしても知られています。
+También son miembros del grupo de electrónica/rock Shiny Toy Guns, también conocido como R.R.D.S., cloud2ground y Mirror Machines.
 
-Neo (The One)  は、2001 年のビデオ ゲーム Grand Theft Auto III （グランド・セフト・オートIII /GTA3）にフィーチャーされました。
+Neo (The One) apareció en el videojuego de 2001 Grand Theft Auto III (GTA3).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Neo (The One)
 
 B. Neo (The One) (R.R.D.S. Chewable Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76177887094?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76177887094?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38r_E0-k_l0?si=th34kOGkvWv25Bim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/38r_E0-k_l0?si=th34kOGkvWv25Bim" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

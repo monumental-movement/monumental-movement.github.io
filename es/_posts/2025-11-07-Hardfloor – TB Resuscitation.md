@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Hardfloor – TB Resuscitation.webp
 lang: es
 layout: post
+permalink: /es/2025-11-07-Hardfloor – TB Resuscitation/
 tags:
 - Trance
 - Techno
 - Acid
 - 90s
-title: Hardfloor – TB Resuscitation
+title: Piso duro – Reanimación de la tuberculosis
 ---
 
 
-Hardfloorは、1991年に結成した
-ドイツのアシッドテクノ／テックハウス デュオ。
+Hardfloor se formó en 1991.
+Dúo alemán de acid techno y tech house.
 
-1993年にUKのインディペンデントレーベルMoonshine Musicからリリースされた、Hardfloor(ハードフロア)のファーストアルバム。テクノ・アシッドテクノの名盤されるHardfloorの代表作。
+El primer álbum de Hardfloor fue lanzado en 1993 en el sello independiente británico Moonshine Music. La obra maestra de Hardfloor, considerada una obra maestra del techno/acid techno.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Lost In The Silver Box
 2. Trancescript
@@ -32,7 +33,7 @@ Hardfloorは、1991年に結成した
 9. Happy 20th (Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

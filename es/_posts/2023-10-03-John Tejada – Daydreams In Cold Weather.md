@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/John Tejada – Daydreams In Cold Weather.webp
 lang: es
 layout: post
+permalink: /es/2023-10-03-John Tejada – Daydreams In Cold Weather/
 tags:
 - IDM
 - Electro
-title: John Tejada – Daydreams In Cold Weather
+title: John Tejada – Sueños despiertos en climas fríos
 ---
 
 
-「Daydreams In Cold Weather」は、
-2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
+“Sueños despiertos en climas fríos” es
+Un LP doble de John Tejada lanzado en 2002 en el sello británico Plug Research.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. To The West
 
@@ -42,7 +43,7 @@ D11. In Coach5:06
 D12. Some Would Know Why
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

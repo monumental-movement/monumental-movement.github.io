@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Supertramp – Breakfast In America.webp
 lang: es
 layout: post
+permalink: /es/2023-10-25-Supertramp – Breakfast In America/
 tags:
 - Rock
 - Progressive
 - 7inch
-title: Supertramp – Breakfast In America
+title: Supertramp – Desayuno en América
 ---
 
 
-Supertramp（スーパートランプ）は、1970 年にロンドンで結成されたイギリスのロックバンド。「Breakfast In America」は1979 年の同名アルバムのタイトル曲で、世界的なヒットとなりました。
+Supertramp es una banda de rock británica formada en Londres en 1970. "Breakfast In America" ​​​​fue la canción principal del álbum de 1979 del mismo nombre y se convirtió en un éxito mundial.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Breakfast In America = ブレックファスト・イン・アメリカ
 
 B. Lord Is It Mine = すべては闇のなか
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63119040399?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63119040399?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3YQb-0P320s?si=Pti7lkfhU-9FRlr3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YQb-0P320s?si=Pti7lkfhU-9FRlr3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

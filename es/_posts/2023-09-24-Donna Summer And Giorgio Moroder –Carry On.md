@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Donna Summer And Giorgio Moroder –Carry On.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Donna Summer And Giorgio Moroder –Carry On/
 tags:
 - House
 - Disco
-title: Donna Summer And Giorgio Moroder –Carry On
+title: Donna Summer y Giorgio Moroder – Continuar
 ---
 
 
-「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
+"Carry On" es una colaboración entre Donna Summer y Giorgio Moroder, lanzada en 1977.
 
-ディスコミュージックの黄金期におけるヒット曲&重要な作品の一つとされており、現在でも音楽シーンにおいても多くの人々に愛され続けています。
+Se considera uno de los éxitos y obras importantes de la época dorada de la música disco, y sigue siendo amado por muchas personas en la escena musical incluso hoy en día.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Carry On (Fired Up Mix)
 A2  Carry On (Fired Up Dub)
@@ -26,7 +27,7 @@ AA1  Carry On (Eric Kupper's Hysteria Mix)
 AA2  Carry On (Untidy Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74209222357?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74209222357?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jGhhMedfZlw?si=4JY_zjxYLoXcgP7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGhhMedfZlw?si=4JY_zjxYLoXcgP7D" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

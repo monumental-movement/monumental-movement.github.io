@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Nomak – Calm.webp
 lang: es
 layout: post
+permalink: /es/2025-10-22-Nomak – Calm/
 tags:
 - Jazzy Hip-Hop
 - Hiphop
 - Downtempo
 - 00s
-title: Nomak – Calm
+title: Nomak – Calma
 ---
 
 
-PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのRemixで知られるNomak (Masashi Kamon)が2007年にリリースしたInstrumental／Jazzy Hip-Hop／Downtempoアルバム。
+Un álbum instrumental/jazzy hip-hop/downtempo lanzado en 2007 por Nomak (Masashi Kamon), conocido por sus remezclas de "Velodrome" de PISMO y Shingo02 y "Rokkasho" de Ryuichi Sakamoto y Shing02.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Anger Of The Earth
 2. Spiritual Home
@@ -34,7 +35,7 @@ PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのR
 14. Sanctuary
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5vh0K2YlFv0?si=z1QUPEF9nvvSj_5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vh0K2YlFv0?si=z1QUPEF9nvvSj_5p" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

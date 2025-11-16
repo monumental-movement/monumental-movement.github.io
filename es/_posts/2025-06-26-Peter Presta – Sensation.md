@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Peter Presta – Sensation.webp
 lang: es
 layout: post
+permalink: /es/2025-06-26-Peter Presta – Sensation/
 tags:
 - Progressive House
 - Tribal House
 - Tech House
 - 00s
-title: Peter Presta – Sensation
+title: Peter Presta – Sensación
 ---
 
 
-Peter Prestaは、ブルックリン出身のDJ・プロデューサー、リミキサー。Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer ,DJ Chusなど、さまざまなアーティストとコラボしたり、remixを手がけている。
+Peter Presta es un DJ, productor y remezclador de Brooklyn. Ha colaborado y remezclado con varios artistas, incluidos Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer y DJ Chus.
 
-「Sensation」は、2005年にApple Jaxx Recordingsからリリースされたプログレッシブハウス・トライバルハウス・テックハウストラック。
+"Sensation" es una pista de house progresivo/tribal house/tech house lanzada por Apple Jaxx Recordings en 2005.
 
-B面はLittle Carlos ことCarlos Cardenalesによるremix。
+La cara B es un remix de Carlos Cardenales, también conocido como Little Carlos.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Sensation
 
 B. Sensation (Little Carlos Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h7-D2gM1eLk?si=OOpJDlwcdljSRXXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7-D2gM1eLk?si=OOpJDlwcdljSRXXz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

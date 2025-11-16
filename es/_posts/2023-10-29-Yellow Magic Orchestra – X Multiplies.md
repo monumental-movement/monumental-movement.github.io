@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Yellow Magic Orchestra – X Multiplies.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Yellow Magic Orchestra – X Multiplies/
 tags:
 - JPop
 - Techno
-title: Yellow Magic Orchestra – X∞Multiplies
+title: Orquesta Mágica Amarilla – X∞Multiplica
 ---
 
-1980年9月にアルファレコードより日本で発売されたYMOのベストアルバム。
+El mejor álbum de YMO lanzado en Japón por Alpha Records en septiembre de 1980.
 
-US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
+La versión estadounidense está [aquí](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Nice Age
 
@@ -34,7 +35,7 @@ B3  Citizens Of Science
 B4  Solid State Survivor
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9n9W2dG_08?si=3ffuTZPvj0X07i5u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9n9W2dG_08?si=3ffuTZPvj0X07i5u" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

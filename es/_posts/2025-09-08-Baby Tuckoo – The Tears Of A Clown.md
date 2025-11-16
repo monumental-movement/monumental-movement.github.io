@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Baby Tuckoo – The Tears Of A Clown.webp
 lang: es
 layout: post
+permalink: /es/2025-09-08-Baby Tuckoo – The Tears Of A Clown/
 tags:
 - Hard Rock
 - Heavy Metal
 - 80s
-title: Baby Tuckoo – The Tears Of A Clown
+title: Baby Tuckoo – Las lágrimas de un payaso
 ---
 
 
-Baby Tuckooは、1982年に結成されたイギリスのハードロックバンド。NWOBHM（ニュー・ウェイヴ・オブ・ブリティッシュ・ヘヴィメタル、New Wave Of British Heavy Metal）の第二世代のとみなされているバンド。
+Baby Tuckoo es una banda británica de hard rock formada en 1982. Banda considerada parte de la segunda generación de NWOBHM (New Wave of British Heavy Metal).
 
-このレコードは1986年にイギリスのインディペンデントレーベルFun After AllからリリースされたHard Rock／Heavy Metal。
+Este disco es un disco de Hard Rock/Heavy Metal lanzado por el sello independiente británico Fun After All en 1986.
 
-Aは、Smokey Robinson & the Miraclesの「The Tears of a Clown」(制作Hank Cosby, Smokey Robinson & Stevie Wonder )のカヴァー。
+A es una versión de "The Tears of a Clown" de Smokey Robinson & the Miracles (producida por Hank Cosby, Smokey Robinson y Stevie Wonder).
 
-Bは、Baby Tuckoo のアルバム『Force Majeure』からのシングルカット。
+B es un sencillo del álbum de Baby Tuckoo "Force Majeure".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The Tears Of A Clown
 
@@ -29,7 +30,7 @@ B1. Over You
 B2. The Lights Go Down
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77587395499?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77587395499?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ImwIvAIRgus?si=7-JIsZ1kc_73zvdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ImwIvAIRgus?si=7-JIsZ1kc_73zvdE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

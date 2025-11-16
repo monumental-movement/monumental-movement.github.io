@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Mexico – Park Avenue EP.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Mexico – Park Avenue EP/
 tags:
 - House
 - Tech House
-title: Mexico – Park Avenue EP
+title: México – Park Avenue EP
 ---
 
 
-Jun Yamabeによるプロジェクト「Mexico」は日本のレーベル United Sounds Of Blueから2003年にリリースされました。
+El proyecto "México" de Jun Yamabe fue lanzado en 2003 en el sello japonés United Sounds Of Blue.
 
-V.A.「U.S.B.-United Sounds Of Blue-」からのシングルカット。
+Corte único de V.A. "U.S.B. -United Sounds Of Blue-".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Park Avenue (Throughpass Remix)
 
@@ -25,5 +26,5 @@ B1  Mr. Through (Original Mix)
 B2  Dubpark
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
 

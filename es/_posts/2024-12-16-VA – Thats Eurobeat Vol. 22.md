@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/VA – That's Eurobeat Vol. 22.webp
 lang: es
 layout: post
+permalink: /es/2024-12-16-VA – Thats Eurobeat Vol. 22/
 tags:
 - Eurobeat
 - Hi NRG
 - 90s
-title: VA – That's Eurobeat Vol. 22
+title: VA – Eso es Eurobeat vol. 22
 ---
 
 
-1990年にレーベルAlfaリリースされた、Italo-Disco/Hi-NRG/Eurobeatコンピレーションシリーズ第22弾。イラストは大西重成。
+La 22ª entrega de la serie recopilatoria Italo-Disco/Hi-NRG/Eurobeat, lanzada en 1990 con el sello Alfa. Ilustración de Shigenari Onishi.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Radiorama –Why Baby Why (Megatron Dance)
 2. Mister Black –Brown (High Energy Edit)
@@ -34,7 +35,7 @@ title: VA – That's Eurobeat Vol. 22
 9.6.. F.C.F. –Black Mother
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Megumi Asaoka – Left Hand.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Megumi Asaoka – Left Hand/
 tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 麻丘めぐみ – わたしの彼は左きき
+title: Megumi Asaoka – Mi novio es zurdo.
 ---
 
 
-「麻丘めぐみ – わたしの彼は左きき」は、1973年にリリースされました。
+“Megumi Asaoka – Mi novio es zurdo” se lanzó en 1973.
 
-歌詞– 千家和也
+Letra – Kazuya Senke
 
-ミュージック＆アレンジ – 筒美京平
+Música y arreglos – Kyohei Tsutsumi
 
-レコーディングメンバー(ギター) – 高中正義
+Miembro de grabación (guitarra) - Masayoshi Takanaka
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. わたしの彼は左きき
 
 B. ひとりの私
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39210707763?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39210707763?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jUC6W77bMtc?si=K0RVqI7KgFQtMRm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jUC6W77bMtc?si=K0RVqI7KgFQtMRm0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

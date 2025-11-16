@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Carl Craig – Landcruising.webp
 lang: es
 layout: post
+permalink: /es/2024-04-29-Carl Craig – Landcruising/
 tags:
 - Techno
 - Minimal
 - 90s
-title: Carl Craig – Landcruising
+title: Carl Craig - Crucero terrestre
 ---
 
 
-Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)に発掘された、デトロイトテクノ第二世代のCarl Craig。
+Carl Craig es miembro de la segunda generación del techno de Detroit, descubierta por Derrick May, conocido como uno de los fundadores del techno de Detroit junto con Kevin Saunderson y Juan Atkins.
 
-革新的なアンビエント、テクノ、ブレイクビート、フューチャージャズなど様々な要素を盛り込んだサウンドを作っている。
+Crea un sonido que incorpora varios elementos como ambiente innovador, techno, breakbeat y jazz del futuro.
 
-WEAの子会社Blanco Y Negroから2005年にリリースされた 「Landcruising」は、カールクレイグの1stアルバムであり名作とされる一枚。2005年にはリマスター＆リミックス＋新曲追加で、タイトル「The Album Formerly Known As...」としてレーベルRushHourからリリースされ再評価されている。
+"Landcruising", lanzado en 2005 por Blanco Y Negro, filial de WEA, es el primer álbum de Carl Craig y está considerado una obra maestra. En 2005, el álbum fue remasterizado, remezclado y se agregaron nuevas canciones, y fue lanzado bajo el título "The Album Formerly Known As..." por el sello RushHour, y fue reevaluado.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -32,7 +33,7 @@ WEAの子会社Blanco Y Negroから2005年にリリースされた 「Landcruisi
 9. Home Entertainment
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Lexy & K-Paul – Der Fernsehturm.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-Lexy and K-Paul – Der Fernsehturm/
 tags:
 - Techno
 - Electro
@@ -13,19 +14,19 @@ title: Lexy & K-Paul – Der Fernsehturm
 ---
 
 
-Lexy & K-Paul は、1999年から活動するドイツ・ベルリン出身のDJデュオ。メンバーは、Alexander Gerlach(Lexy)とKai Michael Paul(K-Paul） 。
+Lexy & K-Paul es un dúo de DJ de Berlín, Alemania, que ha estado activo desde 1999. Los miembros son Alexander Gerlach (Lexy) y Kai Michael Paul (K-Paul).
 
-このレコードは、2002年当時WestBam主宰だったレーベル Low Spirit RecordingsからリリースされたTechno／Electro。(プロモ盤)
+Este disco es un disco de Techno/Electro lanzado en 2002 por Low Spirit Recordings, el sello que presidía WestBam. (edición promocional)
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Der Fernsehturm
 
 B. Icecream, Disco, TV, Show
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24636629936?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24636629936?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m0EoJpAWBvc?si=G4iC8EOo0blAwkaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m0EoJpAWBvc?si=G4iC8EOo0blAwkaZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

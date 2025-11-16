@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Ultra Nate – Found A Cure.webp
 lang: es
 layout: post
+permalink: /es/2024-06-27-Ultra Nate – Found A Cure/
 tags:
 - House
 - Deep House
 - 90s
-title: Ultra Naté – Found A Cure
+title: Ultra Naté – Encontré una cura
 ---
 
 
-Ultra Nate（ウルトラ ナテ）は、「Free」「If You Could Read My Mind」「Automatic」などのヒット曲で知られるUSのシンガーソングライター・プロデューサー・DJ。
+Ultra Nate es un cantautor, productor y DJ estadounidense conocido por éxitos como "Free", "If You Could Read My Mind" y "Automatic".
 
-「Found a Cure」は、 1998年にリリースした 3 枚目のアルバム「Situation: Critical」の 2 枚目のシングルとしてリリースされた。アメリカの Billboard Hot Dance Club Songs チャートで 1 位を獲得し、世界的にもヒットしたハウス・ディープハウストラック。
+"Found a Cure" fue lanzado como el segundo sencillo de su tercer álbum, Situation: Critical, lanzado en 1998. Una canción house/deep house que encabezó la lista Billboard Hot Dance Club Songs de EE. UU. y se convirtió en un éxito mundial.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Found A Cure (Mood II Swing Extended Original Vocal Mix)
 
@@ -25,7 +26,7 @@ B1. Found A Cure (Mood II Rascal Crazy Guitar Mix)
 B2. Found A Cure (Mood II Rascal Search Dub Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27873360575?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27873360575?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIX2le106Ms?si=CRRoo58LRCfsLnBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIX2le106Ms?si=CRRoo58LRCfsLnBA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

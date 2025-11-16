@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Accept – Russian Roulette.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-Accept ‎– Russian Roulette/
 tags:
 - Heavy Metal
 - Rock
-title: Accept – Russian Roulette
+title: Aceptar – Ruleta Rusa
 ---
 
 
-「Accept – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
+"Accept – Russian Roulette" es un álbum de la banda alemana de heavy metal Accept. Este álbum es el séptimo álbum de estudio de la banda, lanzado en 1986.
 
-このアルバムは、ヘヴィなギターリフ、パワフルなボーカル、エネルギッシュなドラミングで知られています。
+Este álbum es conocido por sus pesados ​​riffs de guitarra, voces poderosas y baterías enérgicas.
 
-「Aiming High」- スピーディで迫力のある曲で、ギターソロやツインリードの演奏が際立ちます。Acceptの典型的なヘヴィメタルサウンドがこの曲で存分に楽しめます。
+"Aiming High" - Una canción rápida y poderosa, con un solo de guitarra y lengüetas gemelas que destacan. Podrás disfrutar plenamente del típico sonido heavy metal de Accept con esta canción.
 
-「Russian Roulette」は、Acceptのファンにとってはクラシックな作品であり、80年代のヘヴィメタルの魅力を存分に味わえるでしょう。
+``Russian Roulette'' es un clásico para los fanáticos de Accept y les dará una idea del heavy metal de los 80.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. T.V. War
 
@@ -44,7 +45,7 @@ B4. Man Enough To Cry
 B5. Stand Tight
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0kSXuCXacOA?si=AAC4Lklo1oxIzG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0kSXuCXacOA?si=AAC4Lklo1oxIzG0s" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

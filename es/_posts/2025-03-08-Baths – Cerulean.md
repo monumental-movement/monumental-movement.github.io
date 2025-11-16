@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Baths – Cerulean.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-Baths – Cerulean/
 tags:
 - Experimental
 - Hiphop
-title: Baths – Cerulean
+title: Baños – Cerúleo
 ---
 
 
-天才ビートメーカー として知られるBaths(バス)ことWill WiesenfeldはLAを拠点に活動するエレクトロニックミュージシャン。
+Will Wiesenfeld, también conocido como Baths, es conocido como un genio creador de ritmos y es un músico electrónico afincado en Los Ángeles.
 
-「Cerulean」は、2010年にDaedelusの紹介によってインディペンデントレーベルAnticon(アンチコン)からリリースされたBathsのデビューアルバム。このCDは2013年にTugboat Recordsからリリースされた日本盤。
+"Cerulean" es el álbum debut de Baths lanzado en 2010 en el sello independiente Anticon, presentado por Daedelus. Este CD es una versión japonesa publicada por Tugboat Records en 2013.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Apologetic Shoulder Blades
 2. Lovely Bloodflow
@@ -35,7 +36,7 @@ title: Baths – Cerulean
 14. Calliope (Bonus Track)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40590639127?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpUC6EIZf5o?si=lCKJswyxc2pwcRyq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

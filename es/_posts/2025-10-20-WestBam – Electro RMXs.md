@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/WestBam – Electro RMXs.webp
 lang: es
 layout: post
+permalink: /es/2025-10-20-WestBam – Electro RMXs/
 tags:
 - Electro
 - Ghettotech
 - 00s
-title: WestBam – Electro RMXs
+title: WestBam – Electro RMX
 ---
 
 
-WestBam (Maximilian Lenz)は、ドイツ出身のDJ／プロデューサーであり、レーベルLow Spiritの共同設立者。
+WestBam (Maximilian Lenz) es un DJ/productor alemán y cofundador del sello Low Spirit.
 
-「Electro RMXs」 は、2000年にLow Spirit のサブレーベルElectric KingdomからリリースされたElectro／Ghettotech。
+"Electro RMXs" es Electro/Ghettotech lanzado por el subsello Electric Kingdom de Low Spirit en 2000.
 
-Aは、USのBreaks/BreakbeatプロデューサーDJ Iceyによるremix。
+A es un remix del productor estadounidense de Breaks/Breakbeat, DJ Icey.
 
-AA1は、GhettotechのパイオニアDJ Assaultによるremix。AA2は、デトロイト出身のDJ Godfatherによるremix。
+AA1 es un remix del pionero de Ghettotech, DJ Assault. AA2 es un remix de DJ Godfather de Detroit.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Dr. Motte & WestBam – Love Parade 2000 (One World One Love Parade) (DJ Icey Mix)
 
@@ -29,7 +30,7 @@ AA1. WestBam – Hard Times (DJ Assault Remix)
 AA2. WestBam – Love Bass (DJ Godfather Detroit Ghetto Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47627276518?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47627276518?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIgW3I8_K8I?si=f_RbYW_MkTSfx2xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIgW3I8_K8I?si=f_RbYW_MkTSfx2xL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

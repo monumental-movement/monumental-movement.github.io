@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Sterac Electronics – Keep On Running.webp
 lang: es
 layout: post
+permalink: /es/2025-09-05-Sterac Electronics – Keep On Running/
 tags:
 - Techno
 - Electro
 - 00s
-title: Sterac Electronics – Keep On Running
+title: 'Electrónica Sterac: siga funcionando'
 ---
 
 
-Sterac Electronics こと Steve Rachmad は世界的に活躍するアムステルダム出身のテクノプロデューサー／DJ。オランダにデトロイトテクノを広めた存在として広く称されている。
+Steve Rachmad, también conocido como Sterac Electronics, es un productor y DJ de techno activo internacionalmente de Ámsterdam. Se le atribuye ampliamente la popularización del techno de Detroit en los Países Bajos.
 
-Sterac、Parallel 9、Ignacio、Scorp、Black Scorpion、Tons of Tones、Dreg、Adverse Matchなど様々な名義を音楽スタイルに合わせて使い分けている。
+Utiliza varios nombres dependiendo de su estilo musical, incluidos Sterac, Parallel 9, Ignacio, Scorp, Black Scorpion, Tons of Tones, Dreg y Adverse Match.
 
-Sterac Electronics は、エレクトロ、ファンク、80sディスコにフォーカスしたスタイルをリリースする際に使用しており、どの音源も高く評価されている。
+Sterac Electronics lanza estilos centrados en el electro, funk y disco de los 80, todos ellos muy aclamados.
 
-「Keep On Running」は、2003年にベルギーのレーベルMusic Man RecordsからリリースされたTechno／Electro／Indie Dance。
+"Keep On Running" es una canción de Techno/Electro/Indie Dance lanzada por el sello belga Music Man Records en 2003.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Keep On Running
 
@@ -30,7 +31,7 @@ B1. Destination Reached
 B2. Next Destination (Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61999603312?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61999603312?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7RHqlCwz2jU?si=ZoK0KYr7wdQ5Dq_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RHqlCwz2jU?si=ZoK0KYr7wdQ5Dq_n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

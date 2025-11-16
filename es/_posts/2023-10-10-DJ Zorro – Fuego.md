@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/DJ Zorro – Fuego.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-DJ Zorro – Fuego/
 tags:
 - Techno
 - Hyper Techno
@@ -12,11 +13,11 @@ title: DJ Zorro – Fuego
 ---
 
 
-「Fuego」は、スペイン語で「火」という意味を持つ単語であり、曲のタイトルからも想像できるように、情熱的でエネルギッシュな楽曲となっています。曲は、ラテンのリズムや要素を取り入れつつ、ダンスミュージックの要素と融合させています。
+"Fuego" es una palabra española que significa "fuego" y, como puedes imaginar por el título de la canción, es una canción apasionada y enérgica. La canción incorpora ritmos y elementos latinos mientras los fusiona con elementos de la música dance.
 
-DJゾロの「Fuego」は、クラブやパーティーでのプレイにおいて、ダンスフロアを盛り上げるための楽曲として頻繁に使用されてきました。そのリズミカルなビートや耳に残るメロディは、聴く人々に踊りたくなる衝動を与えるでしょう。
+"Fuego" de DJ Zorro se ha utilizado a menudo como canción para animar la pista de baile cuando toca en discotecas y fiestas. Su ritmo rítmico y su pegadiza melodía te harán querer bailar.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Fuego (DJ Sick Mix)
 
@@ -25,7 +26,7 @@ B1. Fuego (Hyper Mix)
 B2. Fuego (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80445100076?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80445100076?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dESaUV6c5Ow?si=t31chRcpKZMwMO3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dESaUV6c5Ow?si=t31chRcpKZMwMO3L" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

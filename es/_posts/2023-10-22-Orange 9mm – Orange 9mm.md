@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Orange 9mm – Orange 9mm.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Orange 9mm – Orange 9mm/
 tags:
 - Hardcore
 - Post Hardcore
-title: Orange 9mm – Orange 9mm
+title: Naranja 9mm – Naranja 9mm
 ---
 
 
-Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Malik（ チャカ・マリック）とChris Traynor （クリス・トレイナー）によって結成されたUSポストハードコアバンド。
+Orange 9mm es una banda estadounidense de post-hardcore formada por Chaka Malik y Chris Traynor en 1994 tras la disolución de la banda de hardcore neoyorquina BURN.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Driver
 
@@ -25,7 +26,7 @@ B3. Dry
 B4. Can't Decide
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m11216499808?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m11216499808?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JFAyoeCAZCc?si=A8mUpVIMcAp9Tw7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFAyoeCAZCc?si=A8mUpVIMcAp9Tw7W" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

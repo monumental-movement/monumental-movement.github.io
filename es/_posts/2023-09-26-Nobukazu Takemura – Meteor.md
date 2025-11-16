@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Nobukazu Takemura – Meteor.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-Nobukazu Takemura – Meteor/
 tags:
 - Techno
 - Minimal
-title: Nobukazu Takemura – Meteor
+title: Nobukazu Takemura – Meteorito
 ---
 
 
-「Nobukazu Takemura – Meteor」は、日本の音楽アーティストである竹村延和（タケムラ　ノブカズ）によるレコードです。竹村延和はエレクトロニックミュージックやエクスペリメンタルな音楽で知られる音楽プロデューサー、作曲家です。
+“Nobukazu Takemura – Meteor” es un disco del artista musical japonés Nobukazu Takemura (Nobukazu Takemura). Nobukazu Takemura es un productor musical y compositor conocido por su música electrónica y experimental.
 
-「Meteor」は、竹村延和の代表的な作品の1つで、1999年にリリースされ、エレクトロニックサウンドとアンビエント要素を融合させた作品であり、竹村延和の音楽の特徴である幻想的なサウンドスケープが展開されています。
+"Meteor" es una de las obras más representativas de Nobukazu Takemura. Lanzado en 1999, es un trabajo que fusiona sonidos electrónicos y elementos ambientales, y desarrolla el paisaje sonoro de ensueño característico de la música de Nobukazu Takemura.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Meteor
 
 B. Wax And Wane (Original Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6_DydCI6oEE?si=BionYn4yLBEhhz3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_DydCI6oEE?si=BionYn4yLBEhhz3-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

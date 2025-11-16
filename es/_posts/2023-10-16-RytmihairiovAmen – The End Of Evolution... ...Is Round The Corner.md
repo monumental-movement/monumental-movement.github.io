@@ -6,17 +6,19 @@ image: ../assets/images/RytmihairiovAmen – The End Of Evolution... ...Is Round
   Corner.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-RytmihairiovAmen – The End Of Evolution... ...Is Round The
+  Corner/
 tags:
 - Thrash
 - Hardcore
 - Punk
-title: RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner
+title: RytmihairiovAmen – El fin de la evolución... ...está a la vuelta de la esquina
 ---
 
 
-Rytmifäärä は、1988年に結成されたヘルシンキ出身のデスコア/ハードコア/メタルバンド。Amenは、フィンランドのハードコアパンクバンド。
+Rytmifäärä es una banda de deathcore/hardcore/metal de Helsinki formada en 1988. Amen es una banda finlandesa de hardcore punk.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. They
 A2. How Much Longer
@@ -42,7 +44,7 @@ B10. Money Rules The Fools
 B11. Spice-Song
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=mjRhOMtnUYV0l6Cd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=mjRhOMtnUYV0l6Cd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

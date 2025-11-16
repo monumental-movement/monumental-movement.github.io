@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Public Energy – Slumber Velocity.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Public Energy – Slumber Velocity/
 tags:
 - Techno
 - Acid
-title: Public Energy – Slumber Velocity
+title: 'Energía pública: velocidad del sueño'
 ---
 
 
-"Slumber" は、強烈なグルーヴと、ほぼ消え去るかのような低音ベースが特徴で、ミニマリスティックなトランスのメロディに変わり、さらに激しいサウンドに戻ります。追加のアシッドドロップもトラック全体にわたって絡みつきます。
+"Slumber" presenta un ritmo fuerte y un bajo que casi desaparece, dando paso a una melodía de trance minimalista antes de volver a un sonido más intenso. También se colocan gotas de ácido adicionales a lo largo de la pista.
 
-一方で、"Velocity" は、よりヨーロッパスタイルでドラムロールが特徴です。
+"Velocity", por otro lado, tiene un estilo más europeo y presenta redobles de tambores.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Slumber
 
 B. Velocity
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21565192734?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21565192734?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EILVXoNvfLw?si=fr1lkKeDtnzv2EA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EILVXoNvfLw?si=fr1lkKeDtnzv2EA9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

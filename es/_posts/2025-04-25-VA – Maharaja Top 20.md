@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/VA – Maharaja Top 20.webp
 lang: es
 layout: post
+permalink: /es/2025-04-25-VA – Maharaja Top 20/
 tags:
 - Techno
 - Italodance
 - Euro House
 - Eurobeat
 - 90s
-title: VA – Maharaja Top 20 Vol. III
+title: VA - Maharajá Top 20 vol. III
 ---
 
 
-マハラジャ TOP20 vol.Ⅲ
+Maharajá TOP20 vol.Ⅲ
 
-非売品
+no esta a la venta
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Maximizor Featuring Kam + Paula – I Like It (Give It To Me)
 2. Bass Expanders – Beats Go
@@ -44,7 +45,7 @@ title: VA – Maharaja Top 20 Vol. III
 20. King & Queen – He - Hey Dancin'
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24287278460?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

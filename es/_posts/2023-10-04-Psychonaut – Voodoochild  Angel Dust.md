@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Psychonaut – Voodoochild  Angel Dust.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Psychonaut – Voodoochild  Angel Dust/
 tags:
 - Trance
 - Psychedelic
-title: Psychonaut – Voodoochild  Angel Dust
+title: Psiconauta - Polvo de ángel del niño vudú
 ---
 
 
-「Voodoochild  Angel Dust」は、
-2001年にドイツのレーベル「M.A.S.H.」からリリースされたLothar HerrmannとOliver BalserによるプロジェクトPsychonautのEPです。
+“Polvo de ángel del niño vudú” es
+Este es un EP de Psychonaut, un proyecto de Lothar Herrmann y Oliver Balser, lanzado en 2001 en el sello alemán "M.A.S.H.".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Voodoochild
 
 B. Angel Dust
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57056542786?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57056542786?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ssC9JMnsRrc?si=8JMbtQ36s9zafkLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ssC9JMnsRrc?si=8JMbtQ36s9zafkLN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

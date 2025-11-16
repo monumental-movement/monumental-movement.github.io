@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/The Prodigy – Invaders Must Die.webp
 lang: es
 layout: post
+permalink: /es/2025-03-09-The Prodigy – Invaders Must Die/
 tags:
 - Breaks
 - Big Beat
 - 00s
-title: The Prodigy – Invaders Must Die
+title: El prodigio – Los invasores deben morir
 ---
 
 
-このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
+Este álbum es el quinto álbum de estudio del grupo británico de música electrónica de baile The Prodigy. El álbum, lanzado en 2009, fue el primero en incluir a todos los miembros de la banda en el proceso de producción y fue un éxito comercial.
 
-「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
+Contiene éxitos como "Invaders Must Die", "Omen", "Warrior's Dance" y "Take Me to the Hospital".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 CD-1. Invaders Must Die
 CD-2. Omen
@@ -43,7 +44,7 @@ DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

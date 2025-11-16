@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Joey Beltram – The Rising Sun（Tresor 214）.webp
 lang: es
 layout: post
+permalink: /es/2023-10-31-Joey Beltram – The Rising Sun（Tresor 214）/
 tags:
 - Techno
 - Mix
-title: Joey Beltram – The Rising Sun（Tresor 214）
+title: Joey Beltram - El sol naciente (Tresor 214)
 ---
 
 
-Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
+CD de Joey Beltram lanzado en 2004 en Tresor.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Resurgence
 2. It Works
@@ -28,7 +29,7 @@ Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジ�
 10. Tenth
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Mighty Dub Katz & Cagedbaby – Southern Fried & Tested.webp
 lang: es
 layout: post
+permalink: /es/2024-12-13-Mighty Dub Katz & Cagedbaby – Southern Fried & Tested/
 tags:
 - House
 - 00s
-title: Mighty Dub Katz & Cagedbaby – Southern Fried & Tested
+title: Mighty Dub Katz & Cagedbaby – Frito sureño y probado
 ---
 
 
-2007年にリリースされた、Fatboy SlimことNorman CookとGareth HansomeのユニットMighty Dub Katz とCagedbabyによるハウスmix CD2枚組。
+Un conjunto de 2 CD de mezclas house de Mighty Dub Katz y Cagedbaby, una unidad de Fatboy Slim, también conocido como Norman Cook, y Gareth Hansome, lanzado en 2007.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 The Mighty Dub Katz	1:16:13
 
@@ -67,7 +68,7 @@ The Mighty Dub Katz	1:16:13
 2-28. Unknown Artist - Outro
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed1YzP5_a0o?si=6h04_TWApdJ3fAzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ed1YzP5_a0o?si=6h04_TWApdJ3fAzN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

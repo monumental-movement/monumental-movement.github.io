@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Cheap Trick – In Color.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-Cheap Trick – In Color/
 tags:
 - Rock
 - Pops
-title: Cheap Trick – In Color
+title: 'Truco barato: en color'
 ---
 
 
-Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。
+Cheap Trick es una banda de rock estadounidense formada en Rockford, Illinois en 1974 por Robin Zander, Rick Nielsen, Tom Peterson y Van E. Carlos.
 
-「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
+"In Color" es el segundo álbum de Cheap Trick. El productor es Tom Werman, conocido como el productor de Ted Nugent.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Hello There
 
@@ -39,7 +40,7 @@ B4. Come On, Come On
 B5. So Good To See You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ha6vtOiRH-w?si=GH0i5wTjiIkuV3hT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ha6vtOiRH-w?si=GH0i5wTjiIkuV3hT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

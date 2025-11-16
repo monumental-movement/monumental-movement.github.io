@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/VA – This Is Latinamyl.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-VA – This Is Latinamyl/
 tags:
 - Breakbeat
 - Bossanova
 - Experimental
 - Big Beat
 - 90s
-title: VA – This Is Latinamyl
+title: VA – Esto es Latinamilo
 ---
 
 
-映画マトリックスの音楽なども手掛けるマルチジャンル・エレクトロニックミュージックプロデューサー&DJ Elite ForceことSimon Shackletonが設立したブレイクビーツレーベルFused & Bruised から1997年にリリースされたコンピレーションアルバム。
+Un álbum recopilatorio lanzado en 1997 por el sello breakbeat Fused & Bruised, fundado por el productor y DJ de música electrónica multigénero Simon Shackleton, también conocido como Elite Force, quien también trabajó en la música de la película The Matrix.
 
-Simon Shackletonは、Elite Force名義以外にもpHrack RやfUtUrEcOrE名義でも活動している。
+Simon Shackleton también actúa bajo los nombres pHrack R y fUtUrEcOrE, así como Elite Force.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Elite Force – Spirito
 2. Mr. Dan – 48 Margarita Shuffle
@@ -34,7 +35,7 @@ Simon Shackletonは、Elite Force名義以外にもpHrack RやfUtUrEcOrE名義�
 10. pHrack R – Di Genera
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – Use Me No. 1.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Various – Use Me No. 1/
 tags:
 - House
 - Techno
-title: Various – Use Me No. 1
+title: Varios – Úsame No. 1
 ---
 
 
-ドイツ出身のDJ＆プロデューサーFrank Müller（フランク・ミュラー）主宰のテクノ＆エレクトロ・レーベルMüller Recordsから1998年にリリースされたコンピレーション。DJ Rok、DJ Disko、Jonzon、Beroshimaが参加。
+Una recopilación publicada en 1998 por Müller Records, un sello de techno y electro dirigido por el DJ y productor alemán Frank Müller. Con DJ Rok, DJ Disko, Jonzon y Beroshima.
 
-B面1曲目のRok 「High Menergy」は、1978年リリースのMacho「I'm a Man」をサンプリング。
+La primera canción de la cara B, "High Menergy" de Rok, muestra "I'm a Man" de Macho, lanzada en 1978.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Rok & Disko – Dual
 
@@ -27,7 +28,7 @@ B1. Rok – High Menergy
 B2. Beroshima – String Tanga
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48896354302?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48896354302?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ojBXEiNjF1E?si=cYeCmvJEUcwaQjNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojBXEiNjF1E?si=cYeCmvJEUcwaQjNN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

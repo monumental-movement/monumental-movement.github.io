@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/8bit Project – Familiar Computing World.webp
 lang: es
 layout: post
+permalink: /es/2024-06-10-8bit Project – Familiar Computing World/
 tags:
 - Electronic
 - Chiptune
 - Techno
 - Game
 - 00s
-title: 8bit Project – Familiar Computing World
+title: Proyecto 8bit – Mundo de la informática familiar
 ---
 
 
-8bit Projectは、2006年にCDデビューした日本のテクノポップ・チップチューンユニット。メンバーは伊藤俊治、齋藤久師、東海林弘憲、木下洋介。日本シンセサイザープログラマー協会（JSPA）会長の松武秀樹を「後見人」としている。
+8bit Project es una unidad chiptune de tecno-pop japonesa que hizo su debut en CD en 2006. Los miembros son Shunji Ito, Hisashi Saito, Hironori Tokaibayashi y Yosuke Kinoshita. Tiene a Hideki Matsutake, presidente de la Asociación Japonesa de Programadores de Sintetizadores (JSPA), como su "guardián".
 
-ジャケットは、1981年リリースのKraftwerk「コンピューターワールド」のパロディ。
+La chaqueta es una parodia de "Computer World" de Kraftwerk lanzada en 1981.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. 恋のマイアヒ
 2. キューティーハニー
@@ -40,4 +41,4 @@ title: 8bit Project – Familiar Computing World
 17. テクノポリス
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

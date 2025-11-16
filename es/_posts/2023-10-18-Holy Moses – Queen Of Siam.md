@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Holy Moses – Queen Of Siam.webp
 lang: es
 layout: post
+permalink: /es/2023-10-18-Holy Moses – Queen Of Siam/
 tags:
 - Rock
 - Thrash
-title: Holy Moses – Queen Of Siam
+title: Santo Moisés – Reina de Siam
 ---
 
 
-1980年から活動するHoly Moses（ホーリー・モーゼス） は、ドイツのスラッシュメタルバンド。フロントはSabina Classen（サビナ クラッセン）。デスヴォイスの女性ボーカリストの先駆的グループとして知られる。
+Holy Moses es una banda alemana de thrash metal que ha estado activa desde 1980. La líder es Sabina Classen. Conocido como un grupo pionero de vocalistas femeninas de voces de muerte.
 
-「Queen Of Siam」は、Holy Mosesのデビューアルバムで、 ドイツのヘヴィメタルレーベルAaarrg Recordsより1986年にリリース。
+"Queen Of Siam" es el álbum debut de Holy Moses, lanzado en 1986 por el sello alemán de heavy metal Aaarrg Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Necropolis
 
@@ -37,7 +38,7 @@ B4. Dear Little Friend
 B5. Torches Of Hire
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JZR6lrA1LfA?si=bVMg3hxl6DKM4Bry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JZR6lrA1LfA?si=bVMg3hxl6DKM4Bry" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Plutocracy – Dankstahz.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Plutocracy – Dankstahz/
 tags:
 - Grindcore
 - Rock
-title: Plutocracy – Dankstahz
+title: Plutocracia – Dankstahz
 ---
 
 
-「Dankstahz」は、
-1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
+"Dankstahz" es
+Este es un disco de 10 pulgadas de la banda californiana de grindcore "Plutocracy", lanzado en 1996 por el sello alemán "Anomie Records".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Intro
 
@@ -50,7 +51,7 @@ B7. Erupt
 B8. Outro
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdLNtQ2wsGA?si=Ta1jq1h4GitaWVfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pdLNtQ2wsGA?si=Ta1jq1h4GitaWVfr" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

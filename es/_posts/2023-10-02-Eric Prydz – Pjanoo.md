@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Eric Prydz – Pjanoo.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Eric Prydz – Pjanoo/
 tags:
 - House
 - Electro
@@ -14,18 +15,18 @@ title: Eric Prydz – Pjanoo
 ---
 
 
-「Pjanoo」は、スウェーデンのDJ兼プロデューサー、エリック・プライズ（Eric Prydz）によるキーボードをベースとしたハウストラックです。この曲は、イギリスのラジオ局で中程度の放送が行われ、BBC Radio 1が「Radio 1 Big Weekend」と「Weekend in Ibiza」の広告で積極的に使用しました。
+"Pjanoo" es una pista house con teclado del DJ y productor sueco Eric Prydz. La canción recibió una difusión moderada en las estaciones de radio británicas y fue utilizada activamente por BBC Radio 1 en sus anuncios "Radio 1 Big Weekend" y "Weekend in Ibiza".
 
-シングルはスウェーデンのシングルチャートで6位を記録しました。しかし、「Pjanoo」はスウェーデン以外でも成功を収め、特にイギリスではUKシングルチャートで2位を記録し、同国のダンスチャートで10週にわたり首位を獲得しました。
+El sencillo alcanzó el número 6 en la lista de sencillos suecos. Sin embargo, "Pjanoo" también tuvo éxito fuera de Suecia, particularmente en el Reino Unido, donde alcanzó el número dos en la lista de sencillos del Reino Unido y encabezó la lista de baile del país durante diez semanas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Pjanoo (High Contrast Remix)
 
 B1. Pjanoo (Afterlife Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63849423983?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63849423983?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OH627fyAxpA?si=fcH4wFTyKz4OOTw6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OH627fyAxpA?si=fcH4wFTyKz4OOTw6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

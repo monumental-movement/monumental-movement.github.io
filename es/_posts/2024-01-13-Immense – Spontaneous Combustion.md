@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Immense – Spontaneous Combustion.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Immense – Spontaneous Combustion/
 tags:
 - Rock
 - 90s
-title: Immense – Spontaneous Combustion
+title: Inmensa – Combustión espontánea
 ---
 
 
-1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。
+Este es un EP de Immense, una banda formada por Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case y Tom Davies, lanzado en 1999 en el sello británico FatCat Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Spontaneous Combustion
 
@@ -23,7 +24,7 @@ B1. E Flat Sonic (Boom)
 B2. Perhaps You Should Talk To Someone
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96454290820?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96454290820?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9UOozm_Nih4?si=0zQYHcNPTO6huEfb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9UOozm_Nih4?si=0zQYHcNPTO6huEfb" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

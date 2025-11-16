@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Mauro Picotto & Riccardo Ferri –Alchemist EP.webp
 lang: es
 layout: post
+permalink: /es/2023-09-29-Mauro Picotto and Riccardo Ferri –Alchemist EP/
 tags:
 - Techno
-title: Mauro Picotto & Riccardo Ferri –Alchemist EP
+title: Mauro Picotto y Riccardo Ferri –Alchemist EP
 ---
 
 
-「New Time, New Place」はテクノとイギリスのハードダンスクラブの両方で大ヒットしました。
+"New Time, New Place" fue un gran éxito tanto en los clubes de techno como en los de hard dance británicos.
 
-他の曲はかなりしっかりとしたテクノで、「Pandoro」はかなり楽しいトラックです。ハードなビートと同時にトラックが発展していくと、素敵で穏やかなサウンドが広がります。
+Las otras canciones son techno bastante sólidas y "Pandoro" es una canción bastante divertida. A medida que la pista se desarrolla junto con el ritmo fuerte, crea un sonido agradable y suave.
 
-まるで古いスタイルと新しいスタイルのマウロ・ピコットのようです。
+Es como Mauro Picot, estilo antiguo y estilo nuevo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. New Time, New Place
 
@@ -28,7 +29,7 @@ C. Alchemist
 D. Pandoro
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43683328945?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43683328945?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/44_Hc7ATM5s?si=te-QUqe216PZHbu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/44_Hc7ATM5s?si=te-QUqe216PZHbu_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

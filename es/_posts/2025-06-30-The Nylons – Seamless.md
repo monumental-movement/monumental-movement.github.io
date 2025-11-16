@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/The Nylons – Seamless.webp
 lang: es
 layout: post
+permalink: /es/2025-06-30-The Nylons – Seamless/
 tags:
 - Rock
 - Vocal
 - 80s
-title: The Nylons – Seamless
+title: Las medias de nailon – Sin costuras
 ---
 
 
-The Nylonsは、1978年〜2017年まで活動したカナダのアカペラグループ。The Turtles「Happy Together」、Steam「Na Na Hey Hey Kiss Him Goodbye」、The Tokens「The Lion Sleeps Tonight」などのPopsのカヴァーでよく知られている。
+The Nylons fue un grupo canadiense a capella que estuvo activo desde 1978 hasta 2017. Es mejor conocido por sus versiones pop como "Happy Together" de The Turtles, "Na Na Hey Hey Kiss Him Goodbye" de Steam y "The Lion Sleeps Tonight" de The Tokens.
 
-「Seamless」は、1986年にOpen Air Records からリリースされたアルバム。
+"Seamless" es un álbum lanzado por Open Air Records en 1986.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Lion Sleeps Tonight
 A2. Take Me To Your Heart
@@ -32,7 +33,7 @@ B4. Remember (Walking In The Sand)
 B5. The Stars Are Ours
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m29486121471?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oqUnVUzvQYA?si=L54otN6nNfXVjaQ9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

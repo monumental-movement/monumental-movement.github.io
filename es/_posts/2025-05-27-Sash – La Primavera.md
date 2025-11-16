@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Sash – La Primavera.webp
 lang: es
 layout: post
+permalink: /es/2025-05-27-Sash – La Primavera/
 tags:
 - Electronic
 - Trance
 - 90s
-title: Sash! – La Primavera
+title: ¡Faja! – La Primavera
 ---
 
 
-Sash！(サッシュ!)は、Ralf Kappmeier、Karl Xander、Thomas "Alisson" Lüdke、Sascha LappessenによるドイツのDJ・プロダクションチーム。
+¡Faja! (Sash!) es un equipo de producción y DJ alemán formado por Ralf Kappmeier, Karl Xander, Thomas "Alisson" Lüdke y Sascha Lappessen.
 
-「La Primavera」はPatrizia Salvatoreをフィーチャーし、1998年にリリースされたSash！のセカンドアルバム「Life Goes On」のリードシングルとしてリリースされたトランストラック。
+"La Primavera" presenta a Patrizia Salvatore y fue lanzado en 1998 en Sash! Una pista de trance lanzada como sencillo principal de su segundo álbum "Life Goes On".
 
-A面は、ドイツのエレクトロニックミュージックデュオDJ JamX & De Leonによるremix。
+Side A es un remix del dúo alemán de música electrónica DJ JamX & De Leon.
 
-B面1曲目は、ケルンを拠点活動するにプロダクションデュオBlank & Jones(Piet Blank&DJ Jaspa Jones)によるremix。
+La primera pista de la cara B es un remix del dúo de productores con sede en Colonia Blank & Jones (Piet Blank y DJ Jaspa Jones).
 
-B面2曲目は、Magic AlecことAlec Millinerによるremix。
+La segunda canción de la cara B es un remix de Alec Milliner, también conocido como Magic Alec.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. La Primavera (DJ JamX & De Leon Remix)
 
@@ -31,7 +32,7 @@ B1. La Primavera (Blank & Jones Club Mix)
 B2. La Primavera (Magic Alec's As The Wind Blows Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61308099311?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61308099311?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YPLTA7PtI5I?si=0payfCdco8BqLPfZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YPLTA7PtI5I?si=0payfCdco8BqLPfZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

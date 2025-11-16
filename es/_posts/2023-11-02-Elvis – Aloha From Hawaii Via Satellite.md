@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Elvis – Aloha From Hawaii Via Satellite.webp
 lang: es
 layout: post
+permalink: /es/2023-11-02-Elvis – Aloha From Hawaii Via Satellite/
 tags:
 - Rock
 - 70s
-title: Elvis – Aloha From Hawaii Via Satellite
+title: Elvis – Aloha desde Hawaii vía satélite
 ---
 
 
-Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
+Álbum en vivo de Elvis Presley en Hawaii de 1973: compilación original de Japón.
 
-録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
+Grabado en vivo a las 00:30 horas del domingo 14 de enero de 1973 en el Centro Internacional de Honolulu.
 
-このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
+Este álbum es un álbum recopilatorio específico de Japón que se lanzó rápidamente después de que se emitió el especial de televisión.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -69,7 +70,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

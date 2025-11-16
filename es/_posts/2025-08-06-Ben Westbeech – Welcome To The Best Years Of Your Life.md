@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Ben Westbeech – Welcome To The Best Years Of Your Life.webp
 lang: es
 layout: post
+permalink: /es/2025-08-06-Ben Westbeech – Welcome To The Best Years Of Your Life/
 tags:
 - Broken Beat
 - Future Jazz
 - Downtempo
 - Neo Soul
-title: Ben Westbeech – Welcome To The Best Years Of Your Life
+title: Ben Westbeech – Bienvenido a los mejores años de tu vida
 ---
 
 
-Ben WestbeechはUK出身のDJ・プロデューサー。Breach名義やKON(Christian Taylo)とのコラボThe Visionとしても知られている。
+Ben Westbeech es un DJ y productor del Reino Unido. También conocido como Breach y colaboración con KON (Christian Taylo) The Vision.
 
-「Welcome To The Best Years Of Your Life」は、Ben Westbeechのデビューアルバムで、Gilles PetersonのUKレーベルBrownswood Recordingsから2007年にリリースされた。
+Bienvenido a los mejores años de tu vida es el álbum debut de Ben Westbeech, lanzado en 2007 por el sello británico Brownswood Recordings de Gilles Peterson.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Welcome
 2. So Good Today
@@ -37,7 +38,7 @@ Ben WestbeechはUK出身のDJ・プロデューサー。Breach名義やKON(Chris
 15. Beauty
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47412962363?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47412962363?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8HpiiEePZ-I?si=axT4mMmPWR292_D0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8HpiiEePZ-I?si=axT4mMmPWR292_D0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

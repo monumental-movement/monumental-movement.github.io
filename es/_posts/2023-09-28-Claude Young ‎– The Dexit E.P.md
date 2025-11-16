@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Claude Young – The Dexit E.P.webp
 lang: es
 layout: post
+permalink: /es/2023-09-28-Claude Young ‎– The Dexit E.P/
 tags:
 - Techno
 - Detroit Techno
 - 90s
-title: Claude Young – The Dexit E.P.
+title: Claude Young - El EP Dexit
 ---
 
 
-「The Dexit E.P.」は、1997年にベルギーのレーベルElypsiaからClaude Youngが、自身のホームタウンであるデトロイトのプロデューサー作品をリリースするために発表した1枚です。
+"El EP Dexit" fue lanzado por Claude Young en el sello belga Elypsia en 1997 para dar a conocer el trabajo de productores de su ciudad natal de Detroit.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Intro
 
@@ -26,7 +27,7 @@ B1. Prance
 B2. Fade
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

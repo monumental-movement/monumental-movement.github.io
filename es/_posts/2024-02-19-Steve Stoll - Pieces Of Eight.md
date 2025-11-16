@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Steve Stoll - Pieces Of Eight.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Steve Stoll - Pieces Of Eight/
 tags:
 - Techno
 - NY Techno
 - UK Techno
-title: Steve Stoll - Pieces Of Eight
+title: Steve Stoll - Piezas de ocho
 ---
 
 
-USテクノ＆アンビエントDJ・プロデューサーのSteve Stoll （スティーヴ・ストール）が2000年にリリースしたテクノトラック。
+Una pista de techno lanzada en 2000 por el DJ y productor de techno y ambiente estadounidense Steve Stoll.
 
-B面２曲目はロンドンを拠点に活動するUKテクノDJ・プロデューサーJustin Berkovi（ジャスティン・ベルコヴィ）のremix。
+La segunda canción de la cara B es un remix del DJ y productor de techno británico radicado en Londres, Justin Berkovi.
 
-このレコードのB1は、心地よいながらも力強いベースライン、そして最高のタイミングでパッドが登場して、さらに際立ちます。
+B1 en este disco se destaca aún más por su línea de bajo relajante pero potente y la sincronización perfecta de los pads.
 
-B2の「Killin' it」は重低音炸裂のトラックで、テクノというよりかはトリップホップ寄りで、汚くて深い低音とファンキーなリズムが特徴的です。
+"Killin' it" de B2 es una pista con muchos bajos que se inclina más hacia el trip-hop que hacia el techno, con sus bajos sucios y profundos y su ritmo funky.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A.  Pieces Of Eight
 
@@ -30,7 +31,7 @@ B1. Pieces Of Eight (Night Thoughts Remix)
 B2. Killin' It
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YyFoxNhzR7s?si=_wjCc0Gx6etXGatv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyFoxNhzR7s?si=_wjCc0Gx6etXGatv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

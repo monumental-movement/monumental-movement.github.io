@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Various – Total House Commitment EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Various – Total House Commitment EP/
 tags:
 - House
 - Deep House
-title: Various – Total House Commitment EP
+title: Varios – Compromiso total de la casa EP
 ---
 
 
-サンフランシスコ・ハウス・レーベル、THC - Total House Commitmentからリリースされた、ディープハウス/テックハウスコンピレーション。
+Una recopilación de deep house/tech house publicada por el sello house de San Francisco THC - Total House Commitment.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Ted MG –Q-Dog Roams Free
 
@@ -25,7 +26,7 @@ B1  Lance DeSardi & Tasho – It Was Yesterday
 B2. Pluton – Ripped Off In B-Minor
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55483600323?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m55483600323?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T_J5YbntaUo?si=vjqIZqX5fAek4FSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_J5YbntaUo?si=vjqIZqX5fAek4FSu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

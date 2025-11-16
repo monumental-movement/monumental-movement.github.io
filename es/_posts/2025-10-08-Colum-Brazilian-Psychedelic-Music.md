@@ -5,119 +5,120 @@ categories:
 image: ../assets/images/column-Brazilian-Psychedelic-Music.webp
 lang: es
 layout: post
+permalink: /es/2025-10-08-Colum-Brazilian-Psychedelic-Music/
 tags:
 - Psychedelic
 - Brazil
 - Rock
-title: 【コラム】 熱帯の幻影 — ブラジル・サイケデリックの世界
+title: '[Columna] Ilusiones tropicales: el mundo de los psicodélicos brasileños'
 ---
 
 
-## 序章：ブラジル・サイケデリックの夜明け
+## Prólogo: El amanecer de los psicodélicos brasileños
 
-文：mmr｜テーマ：トロピカリア運動から現代リバイバルまで、ブラジルが生んだサイケデリック音楽の系譜を辿る
+Texto: mmr | Tema: Rastreando la genealogía de la música psicodélica nacida en Brasil, desde el movimiento Tropicália hasta el resurgimiento moderno
 
-1960年代後半、リオデジャネイロとサンパウロでは、政治的緊張と文化的実験が奇妙に共存していた。軍事政権下で言論統制が進む一方、若者たちは英米のロックに刺激を受け、新しい音の自由を求めた。その最前線に立ったのが**トロピカリア運動（Tropicália）**である。
+A finales de los años 1960, las tensiones políticas y la experimentación cultural coexistieron de manera extraña en Río de Janeiro y São Paulo. Si bien el discurso estuvo cada vez más controlado bajo el régimen militar, los jóvenes se inspiraron en el rock británico y estadounidense y buscaron una nueva libertad sonora. A la vanguardia de este movimiento estaba el movimiento Tropicália.
 
-詩人**トルカト・ネト**やアーティスト**エリオ・オイチシカ**と並び、音楽面を牽引したのが**カエターノ・ヴェローゾ**と**ジルベルト・ジル**だった。彼らは「ブラジル音楽の再定義」を掲げ、ボサノヴァ、サンバ、フォルクローレ、そしてロックを自在に融合していった。
+Junto al poeta **Torcato Neto** y el artista **Hélio Oiticica**, los líderes musicales fueron **Caetano Veloso** y **Gilberto Gil**. Con el objetivo de "redefinir la música brasileña", fusionaron libremente bossa nova, samba, folklore y rock.
 
-> “Tropicáliaは、我々の魂の中の熱帯だ。”  
+> “Tropicália es el trópico en nuestras almas.”
 > — Caetano Veloso, 1968
 
-当時のスタジオでは、録音機材の制約を逆手に取った**多重録音の手作業**が繰り返された。リール式テープを物理的に切り貼りし、リバースエコーを生み出すためにテープを逆回転させるなど、**サイケデリックな音響技術**が誕生していった。
+En los estudios de la época se repetía la “sobregrabación manual”, aprovechando las limitaciones de los equipos de grabación. Así nació la "tecnología de sonido psicodélico", que incluía cortar y pegar físicamente cintas tipo carrete y girar la cinta hacia atrás para crear ecos inversos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mTFYMEPLjA0?si=A_wPO-C5Dvwii4gJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mTFYMEPLjA0?si=A_wPO-C5Dvwii4gJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章：トロピカリアとサイケデリックの融合
+## Capítulo 1: Tropicalia y fusión psicodélica
 
-1968年、コンピレーション・アルバム『**Tropicália: ou Panis et Circencis**』がリリースされる。これは、単なるアルバムではなく**文化宣言**だった。  
-ジルベルト・ジル、カエターノ・ヴェローゾ、オス・ムトゥンテス、ガル・コスタ、ナラ・レオンらが参加し、音と映像と詩が一体となったブラジル的アヴァンギャルドを提示した。
+En 1968, se lanzó el álbum recopilatorio **Tropicália: ou Panis et Circencis**. Este no fue sólo un álbum, fue una declaración cultural.
+Participaron Gilberto Gil, Caetano Veloso, Os Mutuntes, Gal Costa, Nara León y otros, presentando una vanguardia brasileña que integra sonido, video y poesía.
 
-オス・ムトゥンテス（Os Mutantes）は特に革新的だった。**セルジオ・ディアス**のファズギターと**リタ・リー**の甘くも挑発的なヴォーカル、そして即興的なノイズ操作は、英国のピンク・フロイドやソフト・マシーンと並ぶ水準にあった。彼らの1970年作『A Divina Comédia ou Ando Meio Desligado』は、ブラジル音楽史における**音響的転換点**とされる。
+Os Mutantes fue particularmente innovador. La guitarra fuzz de **Sergio Díaz**, la voz dulce pero provocativa de **Rita Lee** y la manipulación improvisada del ruido estaban a la par con los británicos Pink Floyd y Soft Machine. Su álbum de 1970 A Divina Comédia ou Ando Meio Desligado se considera un punto de inflexión sonoro en la historia de la música brasileña.
 
-> “Os Mutantesはロックを食べ、ボサノヴァを飲み込み、未来を吐き出した。”  
+> “Os Mutantes comieron piedra, tragaron bossa nova y escupieron el futuro”.
 > — Rolling Stone Brasil (1971)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gfs9DC4GNr0?si=29HrlqUKylSii00z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfs9DC4GNr0?si=29HrlqUKylSii00z" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第2章：音響革命 — ブラジル録音技術の革新
+## Capítulo 2: Revolución acústica: innovación en la tecnología de grabación brasileña
 
-当時の録音スタジオ「**Phonogram Studios（リオ）**」では、欧米製のマルチトラック機器を入手できず、**2トラック録音機を多重に重ねる**という職人的手法が採られた。  
-この制限こそが、特有の“滲んだ”音像を生んだ要因である。特にオス・ムトゥンテスのエンジニア**Arnaldo Baptista**は、ファズ回路を独自に組み、ピッチを微妙に揺らすことで、**南米特有の幻覚的浮遊感**を再現した。
+En ese momento, el estudio de grabación **Phonogram Studios (Río)** no podía obtener equipos multipista fabricados en Occidente, por lo que adoptaron el método artesanal de superponer grabadoras de dos pistas.
+Esta restricción es la causa de la imagen de sonido única "sangrada". En particular, el ingeniero de Os Mutuntes **Arnaldo Baptista** construyó su propio circuito de fuzz y hizo fluctuar sutilmente el tono, recreando la sensación alucinatoria de flotación única en Sudamérica.
 
-また、民族楽器と電子音の融合も重要な革新だった。カヴァキーニョやベルimbauといった土着の音を、Moogシンセやリバーステープと組み合わせることで、ブラジル音楽が**“サイケデリックの熱帯圏”**へと拡張されたのである。
+Otra innovación importante fue la fusión de instrumentos étnicos y sonidos electrónicos. Combinando sonidos indígenas como cavaquinho y bell imbau con sintetizadores Moog y cintas invertidas, la música brasileña se expandió hacia los "trópicos psicodélicos".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D6ZQcOZ4FJg?si=l5wWpYMS3fpaeGiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## 第3章：アンダーグラウンドの熱 — 抑圧と創造の交錯
-
-1970年代、トロピカリアの中心人物の多くは国外追放された。しかし、音楽の火は地下に潜り、ローカルシーンに息づいていた。サンパウロの学生バンドや、バイーア地方のローカルラジオでは、**カセットテープ・ネットワーク**による音の共有が続いた。
-
-一方で、ミナス・ジェライス州を拠点とする**Clube da Esquina（エスクィーナ派）**が登場する。ミルトン・ナシメントとロー・ボルゲスによる1972年のアルバム『Clube da Esquina』は、サイケデリックとフォーク、MPBの境界を溶かした名作であり、**「静かなトリップ」**を体現した。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6ZQcOZ4FJg?si=l5wWpYMS3fpaeGiR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第4章：現代の再生 — サイケデリック・リバイバルの時代
+## Capítulo 3: Fiebre subterránea: la intersección de la opresión y la creación
 
-21世紀に入り、ブラジルの若手バンドたちは再び“熱帯の幻覚”を取り戻した。  
-**Boogarins**、**Carne Doce**、**Glue Trip**、**O Terno**などが、英米のインディー・ロックと60年代の幻覚音響を架橋する。特にBoogarinsの2015年作『Manual』は、カセットとアナログミキサーを用いた**ローファイな空間録音**が特徴で、Spotify世代における「DIYサイケデリア」を象徴する。
+En la década de 1970, muchas de las figuras centrales de Tropicália fueron exiliadas. Sin embargo, el fuego de la música pasó a la clandestinidad y estuvo vivo y coleando en la escena local. Las bandas estudiantiles de São Paulo y las radios locales de Bahía continuaron compartiendo sonidos a través de redes de casetes.
 
-> “ブラジルの空気のように、我々の音は湿っている。”  
-> — Dinho Almeida（Boogarins）
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SODnHArMNzE?si=XKlAH_kmgFD--lKa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Por otro lado, aparece el **Clube da Esquina**, con sede en el estado de Minas Gerais. Clube da Esquina, el álbum de 1972 de Milton Nascimento y Lo Borges, es una obra maestra que fusionó los límites entre psicodélico, folk y MPB, y personificó el "viaje tranquilo".
 
 ---
 
-## 第5章：ライブ評 — 熱帯のトランス体験
+## Capítulo 4: Renacimiento moderno: la era del renacimiento psicodélico
 
-2018年、サンパウロのCine Joiaで行われたBoogarinsのライブは、トロピカリアの亡霊を現代に蘇らせた瞬間だった。  
-ステージ背後には流動する熱帯植物の映像、湿度を感じる照明、そして延々と続くギター・ドローン。観客は踊るのではなく、**“浮遊する”**ように音に浸っていた。
+En el siglo XXI, las jóvenes bandas brasileñas han recuperado una vez más su "ilusión tropical".
+**Boogarins**, **Carne Doce**, **Glue Trip**, **O Terno** y otros unen el indie rock británico y estadounidense con los sonidos alucinógenos de los años 60. En particular, el álbum "Manual" de Boogarins de 2015 se caracteriza por **grabación espacial de baja fidelidad** utilizando casetes y mezcladores analógicos, y simboliza la "psicodelia DIY" de la generación Spotify.
 
-アンコールで演奏された「Lucifernandis」は、まるでOs Mutantesの再来のようなカオティックな音像を描き、観客の歓声が空気を震わせた。  
-音響スタッフはアナログテープ・エコーを使用し、ホール全体を**幻覚的残響の海**に変えた。  
+> “Nuestro sonido es húmedo, como el aire brasileño”.
+> — Dinho Almeida (Boogarins)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SODnHArMNzE?si=XKlAH_kmgFD--lKa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第6章：ブラジル・サイケデリック主要年表
+## Capítulo 5: Revisión en vivo - Experiencia de trance tropical
+
+El show de los Boogarins en el Cine Joia de São Paulo en 2018 fue el momento en el que el fantasma de Tropicália volvió a la vida.
+Detrás del escenario hay imágenes en movimiento de plantas tropicales, iluminación que da una sensación de humedad y un interminable zumbido de guitarra. En lugar de bailar, el público **“flotó”**, inmerso en el sonido.
+
+El bis de "Lucifernandis" creó un sonido caótico que sonó como la segunda venida de Os Mutantes, y los vítores del público sacudieron el aire.
+El personal de sonido utilizó ecos de cintas analógicas para transformar toda la sala en un mar de reverberaciones alucinatorias.
+
+---
+
+## Capítulo 6: Cronología principal de los psicodélicos brasileños
 
 <div class="mermaid">
 
-flowchart TD
-    A1967["1967：Tropicália運動の始動"]
-    A1968a["1968：アルバム『Tropicália: ou Panis et Circencis』発表"]
-    A1968b["1968：Os Mutantes デビュー"]
-    A1969["1969：ヴェローゾとジル、ロンドン亡命"]
-    A1972["1972：『Expresso 2222』発表"]
-    A2006["2006：Os Mutantes再結成"]
-    A2015["2015：Boogarins 『Manual...』世界的評価"]
+diagrama de flujo TD
+A1967["1967: El inicio del movimiento Tropicália"]
+A1968a["1968: Lanzamiento del álbum Tropicália: ou Panis et Circencis"]
+A1968b["1968: Debut de Os Mutantes"]
+A1969["1969: Veloso y Gilles exiliados en Londres"]
+A1972["1972: "Expresso 2222" anunciado"]
+A2006["2006: Reunión de Os Mutantes"]
+A2015["2015: Boogarins 'Manual...' Aclamación mundial"]
 
-    A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
+A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
 
 </div>
 
 ---
 
-## 第7章：ディスコグラフィー — サイケデリック・ブラジルの航跡
+## Capítulo 7: Discografía — Tras el Brasil psicodélico
 
 | アーティスト | タイトル | 年 | リンク |
 |----------------|-----------|-----|----------------|
@@ -130,11 +131,11 @@ flowchart TD
 
 ---
 
-## 終章：未来への幻視 — サイケデリアは続く
+## Capítulo final: Visiones del futuro: la psicodelia continúa
 
-トロピカリアの精神は、半世紀を経た今も形を変え続けている。デジタル録音、AI生成音楽、そして映像芸術との融合を経て、ブラジルのアーティストたちは**「新しい幻覚」**を創造している。  
-それは、現実逃避ではなく、現実の再構築。  
-「熱帯の幻影」は、今なお世界のどこかで鳴り響いている。
+El espíritu de Tropicalia sigue evolucionando incluso después de medio siglo. A través de la fusión de grabaciones digitales, música generada por IA y arte visual, los artistas brasileños están creando "nuevas alucinaciones".
+No es una fuga de la realidad, sino una reconstrucción de la realidad.
+La "Visión Tropical" todavía resuena en algún lugar del mundo.
 
-> “サイケデリアとは、心の中の現実を見つめることだ。”  
+> “La psicodelia es mirar la realidad dentro de tu mente”.
 > — Gilberto Gil

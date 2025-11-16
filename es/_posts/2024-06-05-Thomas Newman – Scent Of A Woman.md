@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Thomas Newman – Scent Of A Woman.webp
 lang: es
 layout: post
+permalink: /es/2024-06-05-Thomas Newman – Scent Of A Woman/
 tags:
 - Soundtrack
 - Movie
 - Film
 - 90s
-title: Thomas Newman – Scent Of A Woman
+title: Thomas Newman – Perfume de mujer
 ---
 
 
-トラックA1〜A6、A8〜A10、B1〜B2、B4〜B7は、アメリカ出身の作曲家Thomas Newman（トーマス・ニューマン）が手がけた。 トーマス・ニューマンは、『ショーシャンクの空に』、『アメリカン・ビューティー』、『グリーンマイル』、『ファインディングニモ』、『ウォーリー』、『007 スカイフォール』、『007 スペクター』、など、数々の映画音楽を製作している。
+Las pistas A1-A6, A8-A10, B1-B2 y B4-B7 fueron compuestas por el compositor estadounidense Thomas Newman. Thomas Newman ha creado bandas sonoras para numerosas películas, incluidas The Shawshank Redemption, American Beauty, The Green Mile, Buscando a Nemo, Wall-E, Skyfall y Spectre.
 
-トラックA7、B3は、アメリカのバンドThe Tango Projectもよるもの。
+Los temas A7 y B3 también son de la banda estadounidense The Tango Project.
 
-映画「セント・オブ・ウーマン/夢の香り」
+Película "Perfume de Mujer/Perfume de Sueños"
 
-オリジナルサウンドトラック　カセットテープ
+Cinta de casete con banda sonora original
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1.  Main Title
 A2.  A Tour Of Pleasures
@@ -44,7 +45,7 @@ B6. Fleurs De Rocaille
 B7. End Title
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

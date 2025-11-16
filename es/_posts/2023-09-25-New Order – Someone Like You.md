@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/New Order – Someone Like You.webp
 lang: es
 layout: post
+permalink: /es/2023-09-25-New Order – Someone Like You/
 tags:
 - House
 - Progressive
-title: New Order – Someone Like You
+title: 'Nuevo orden: alguien como tú'
 ---
 
 
-「Someone Like You」は、New Orderの2015年のアルバム『Music Complete』に収録されており、New Orderのシグネチャーサウンドであるシンセサイザーの使用やダンスビートが際立ち、ポップな要素とエレクトロニックな要素が融合した一曲となっています。
+"Someone Like You" es del álbum de New Order de 2015, "Music Complete", y es una canción que combina elementos pop y electrónicos, destacando el sonido característico de sintetizadores y ritmos de baile de New Order.
 
-「New Order - Someone Like You」のJames HoldenによるHeavy DubリミックスとFunk D'Voidによるリミックスは、そのグルーヴ感やポップな要素を含み、オリジナル曲同様多くの人々に愛されています。
+El remix de Heavy Dub de James Holden y el remix de Funk D'Void de "New Order -Someone Like You" contienen elementos de groove y pop, y muchos los adoran, al igual que la canción original.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Someone Like You (James Holden Heavy Dub)
 
 B. Someone Like You (Funk D'Void Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12901620501?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m12901620501?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pDphOd0IdhE?si=DRDhEPqcXfTf98RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pDphOd0IdhE?si=DRDhEPqcXfTf98RV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Tuesdays Child – 2 Bad E.P.webp
 lang: es
 layout: post
+permalink: /es/2025-08-21-Tuesdays Child – 2 Bad E.P/
 tags:
 - House
 - 00s
-title: Tuesdays Child – 2 Bad E.P.
+title: Martes Niño – 2 Bad E.P.
 ---
 
 
-Tuesdays Childは、Robert Chetcuti がエレクトロニック／ハウス系のプロジェクトで使用する別名義。Robert Chetcuti は、Steve Mac とのハウスデュオRhythm Masters(リズムマスターズ)としての活動がよく知られており、1990年代～2000年代前半にかけてヨーロッパのクラブ・シーンで人気を博した。
+Tuesdays Child es el alias de Robert Chetcuti para sus proyectos electrónicos/house. Robert Chetcuti es mejor conocido por su trabajo con Steve Mac como el dúo house Rhythm Masters, que ganó popularidad en la escena de clubes europea desde los años 1990 hasta principios de los 2000.
 
-また、Armand Van Helden、Junior Jack、Michael Jackson などのリミックスも多数手がけている。
+También ha creado muchos remixes para Armand Van Helden, Junior Jack, Michael Jackson y más.
 
-2002年にリリースされた「2 Bad E.P.」は、Tuesdays Child の代表作として知られているHouseトラック。
+"2 Bad E.P.", lanzado en 2002, es un tema house conocido como la obra maestra de Tuesdays Child.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Turn It Up
 
 B. So Bad
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97388455599?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m97388455599?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2yKc10DgLfs?si=v6F0Z6ZWpCdbR4KR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2yKc10DgLfs?si=v6F0Z6ZWpCdbR4KR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

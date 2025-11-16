@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Gang Starr – Positivity.webp
 lang: es
 layout: post
+permalink: /es/2023-09-19-Gang Starr – Positivity/
 tags:
 - Hiphop
 - 90s
 - Gangsta
-title: Gang Starr – Positivity
+title: Gang Starr – Positividad
 ---
 
 
-Gang Starrは、1980年代後半から1990年代にかけて活動したアメリカのヒップホップデュオ(Guru&DJ Premier)です。「Positivity」は、彼らの3枚目のスタジオアルバムである「Daily Operation」（1992年）に収録されています。
+Gang Starr es un dúo de hip-hop estadounidense (Guru & DJ Premier) que estuvo activo desde finales de los 80 hasta los 90. "Positivity" aparece en su tercer álbum de estudio, "Daily Operation" (1992).
 
-この曲は、ポジティブなメッセージと前向きなエネルギーを伝えることをテーマにしています。
+Esta canción trata de transmitir un mensaje positivo y energía positiva.
 
-Guruの独特なラップスタイルとPremierの特徴的なビートが組み合わさり、Gang Starrの代表作の一つとして、またヒップホップのクラシックとして高く評価されています。
+La combinación del estilo de rap único de Guru y los ritmos distintivos de Premier le ha valido el reconocimiento como una de las obras maestras de Gang Starr y un clásico del hip-hop.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Positivity (Whole World Mix)
 
@@ -30,7 +31,7 @@ B1  Gotch U (Hunter Mix)
 B2  No More Mr. Nice Guy (Fed Up Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87981443033?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87981443033?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hWVROzKUETA?si=PrvYk6th-R7Nup7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hWVROzKUETA?si=PrvYk6th-R7Nup7G" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

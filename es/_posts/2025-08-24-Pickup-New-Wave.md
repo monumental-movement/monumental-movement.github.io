@@ -5,31 +5,32 @@ categories:
 image: ../assets/images/pickup-new-wave.webp
 lang: es
 layout: post
+permalink: /es/2025-08-24-Pickup-New-Wave/
 tags:
 - New-Wave
 - 80s
-title: ニューウェーブ(New Wave)作品をピックアップ
+title: Recoge obras de la nueva ola
 ---
 
 
-「独特なシンセサイザーの響きと前衛的なリズムが印象的な、注目すべきニューウェーブ(New-Wave)作品群」
+"Un grupo notable de obras New-Wave que impresionan con sus sonidos de sintetizador únicos y ritmos de vanguardia".
 
 <hr>
 
 
 
-### Elvis Costello And The Attractions – Let Them All Talk
+### Elvis Costello y las atracciones: déjalos hablar todos
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
-リリース：1984年リリースの24枚目のシングル。80年代ニューウェーブ／ロックを代表するアーティスト、エルヴィス・コステロ＆ザ・アトラクションズによる楽曲。
+Lanzamiento: 24º sencillo lanzado en 1984. Una canción de Elvis Costello & the Atracciones, un artista que representa la nueva ola/rock de los 80.
 
-バンドは1977年後半にロンドンで結成され、その多彩な音楽性でロック界に大きな足跡を残しました。2003年にはロックの殿堂入りも果たしています。
+La banda se formó en Londres a finales de 1977 y dejó una gran huella en el mundo del rock con su diversa musicalidad. También fue incluido en el Salón de la Fama del Rock and Roll en 2003.
 
-おすすめポイント
-ニューウェーブがもつエッジの効いたギターとリズム、洗練されたポップ感が見事に融合。その背景にある80年代UKロック／ニューウェーブシーンのエネルギーを感じさせる重要な1曲です。
+Puntos recomendados
+Una fusión perfecta de la guitarra vanguardista y el ritmo de la nueva ola y el sentimiento pop sofisticado. Esta es una canción importante que te permite sentir la energía de la escena rock/new wave del Reino Unido de los 80 detrás de ella.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Let Them All Talk
 
@@ -37,24 +38,24 @@ B. The Flirting Kind
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Buggles – The Age of Plastic
+### Buggles – La era del plástico
 <a href="https://jp.mercari.com/item/m56132888760?afid=6142608987"><img src="../assets/images/Buggles%20%E2%80%93%20The%20Age%20Of%20Plastic.webp"></a>
 
-リリース：2025年5月1日掲載。バグルス（Trevor Horn と Geoff Downes によるUKニューウェーブユニット）のデビューアルバム。
+Lanzamiento: Publicado el 1 de mayo de 2025. El álbum debut de The Buggles (unidad de new wave del Reino Unido formada por Trevor Horn y Geoff Downes).
 
-おすすめポイント：「Video Killed the Radio Star」など、シンセポップ／ニューウェーブの象徴的楽曲を含む、時代を象徴する名盤。後に二人がバンドYesに加入したことも話題になりました。
+Puntos recomendados: una obra maestra que simboliza la época, que incluye canciones icónicas de synth pop/new wave como "Video Killed the Radio Star". También se convirtió en un tema candente que los dos se unieron más tarde a la banda Yes.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
@@ -67,24 +68,24 @@ B. The Flirting Kind
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### The Expression – The Expression
+### La Expresión – La Expresión
 <a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
 
-リリース：2023年10月26日掲載。オーストラリアのシンセポップ・ニューウェーブバンドによるセルフタイトルアルバム。
+Lanzamiento: Publicado el 26 de octubre de 2023. Un álbum homónimo de una banda australiana de synth-pop new wave.
 
-おすすめポイント：鋭いギターリフとシンセ、ユニークなボーカルが際立つポップ色の強いニューウェーブ。初期80年代のシンセポップが好きな方にぴったりです。
+Puntos recomendados: New wave con fuerte sabor pop, con riffs de guitarra afilados, sintetizadores y voces únicas. Perfecto para quienes gustan del pop sintetizado de principios de los 80.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Present Communication
 A2. With Closed Eyes
@@ -100,23 +101,23 @@ B5. Satisfied Strangers
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### A Flock Of Seagulls – Listen
+### Una bandada de gaviotas – Escucha
 <a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
 
-リリース：2023年10月15日掲載。リバプール出身のニューウェーブ／シンセポップ／ニューロマンティックバンド、フロック・オブ・シーガルズによる1983年リリースの2ndアルバム。
+Lanzamiento: Publicado el 15 de octubre de 2023. El segundo álbum lanzado en 1983 por Flock of Seagulls, una banda de new wave/synth pop/new romantic de Liverpool.
 
-おすすめポイント：代表曲「Wishing (If I Had a Photograph of You)」などを収録。煌びやかなシンセサウンドと耽美的な世界観が光る一枚です。
+Puntos recomendados: Contiene canciones representativas como "Wishing (If I Had a Photograph of You)". Esta es una pieza que brilla con su brillante sonido de sintetizador y su visión estética del mundo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Wishing (If I Had A Photograph Of You)
 A2. Nightmares
@@ -132,24 +133,24 @@ B6. (It's Not Me) Talking
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Furniture – I Can't Crack
+### Muebles: no puedo romperlos
 <a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
 
-リリース：2023年9月9日掲載。英国のポップ／ニューウェーブ／ポストパンク要素を持つバンドによる1985年のEP。
+Lanzamiento: Publicado el 9 de septiembre de 2023. Un EP de 1985 de una banda con elementos de pop británico/new wave/post-punk.
 
 
-おすすめポイント：キャッチーなメロディと大気的なサウンド、内省的な歌詞が融合した独自の世界観。批評家からも高評価を得た作品です。
+Puntos recomendados: Una visión del mundo única que combina melodías pegadizas, sonidos atmosféricos y letras introspectivas. Este trabajo recibió grandes elogios de la crítica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Can't Crack
 A2. Switch Off
@@ -159,24 +160,24 @@ B1. I Can't Crack (Broken Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Devo – New Traditionalists
+### Devo – Nuevos tradicionalistas
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
-リリース：2024年5月18日掲載。USニューウェーブの代表、Devo（ディーヴォ）による4作目のセルフプロデュース・アルバム（1981年）。
+Lanzamiento: Publicado el 18 de mayo de 2024. El cuarto álbum de producción propia de Devo, representante de la nueva ola estadounidense (1981).
 
 
-おすすめポイント：ミニマルで冷徹なシンセリフと電子パーカッション、テーマ「脱進化」が融合した革新的なアルバム。代表曲「Through Being Cool」などを収録。
+Puntos recomendados: Un álbum innovador que combina líneas de sintetizador minimalistas y geniales, percusión electrónica y el tema de la "deevolución". Contiene canciones representativas como "Through Being Cool".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
@@ -193,24 +194,24 @@ B6. Working In The Coal Mine
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Black – More Than The Sun
+### Negro – Más que el sol
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
-リリース：2023年10月13日掲載。UKのシンガーソングライター Colín Vearncombe のソロ名義 Black による作品。
+Lanzamiento: Publicado el 13 de octubre de 2023. Un trabajo del nombre solista del cantautor británico Colín Vearncombe, Black.
 
-おすすめポイント：繊細なメロディとメランコリックな歌詞が融合したニューウェーブ／ロック作品。深みのある世界観が魅力です。
+Puntos recomendados: Una pieza de new wave/rock que combina delicadas melodías y letras melancólicas. La visión profunda del mundo es atractiva.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. More Than The Sun
 A2. Butterfly Man
@@ -221,23 +222,23 @@ B3. Stephen
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### The Rapture – In The Grace Of Your Love
+### El Rapto – En la gracia de tu amor
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
-リリース：2024年12月18日掲載。NY出身ポストパンク／ダンスパンク／ニューウェーブ色を持つバンドによる3rdアルバム（2011年作品）。
+Lanzamiento: Publicado el 18 de diciembre de 2024. El tercer álbum (lanzado en 2011) de una banda de post-punk/dance-punk/new wave de Nueva York.
 m.m.r
-おすすめポイント：ポストパンクとエレクトロ、ディスコ等を大胆にミックスしたアプローチが魅力。近年のシーンでもリバイバル感のあるダンシングニューウェーブとしておすすめです。
+Puntos recomendados: Su enfoque es una mezcla audaz de post-punk, electro, disco, etc. Recomendado como una nueva ola bailable con una sensación de revival incluso en los últimos años.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Sail Away
 2. Miss You
@@ -253,10 +254,10 @@ m.m.r
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>

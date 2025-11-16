@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Sonic Insomniac – Impermanence EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Sonic Insomniac – Impermanence EP/
 tags:
 - IDM
 - Techno
-title: Sonic Insomniac – Impermanence EP
+title: Sonic Insomniac – Impermanencia EP
 ---
 
 
-Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。
+David Ball (D Ball), también conocido como Sonic Insomniac, es un músico electrónico de Manchester, Inglaterra.
 
-カバーイラストは、デトロイト出身のアメリカ人 DJ/プロデューサー/イラストレーターで、現在はベルリンに拠点活動するAlan Oldham（アラン・オールダム）。
+La ilustración de la portada es de Alan Oldham, un DJ, productor e ilustrador estadounidense de Detroit que actualmente reside en Berlín.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Multi-Dimensional
 
@@ -27,7 +28,7 @@ B1. Emotivate
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10467596131?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10467596131?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVsUhnDdLt8?si=zDneHFkszTBKIp1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVsUhnDdLt8?si=zDneHFkszTBKIp1D" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

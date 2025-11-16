@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/DJ Omega – Spellbound.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-DJ Omega – Spellbound/
 tags:
 - House
 - Ghettotech
-title: DJ Omega – Spellbound
+title: DJ Omega - Hechizado
 ---
 
 
-DJ Omega（Will Simpson）は、デトロイト出身のエレクトロニックミュージックプロデューサー。mixは、デトロイト出身のDJ/プロデューサーDJ Godfather(Brian Jeffries)。
+DJ Omega (Will Simpson) es un productor de música electrónica de Detroit. Mezclado por el DJ/productor DJ Godfather (Brian Jeffries) de Detroit.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Spellbound
 
@@ -27,7 +28,7 @@ B2. Pop Dat
 B3. Run A Train
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31687388099?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m31687388099?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdH9-6a9mMc?si=v3VIv5QPK0eF7XZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdH9-6a9mMc?si=v3VIv5QPK0eF7XZO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

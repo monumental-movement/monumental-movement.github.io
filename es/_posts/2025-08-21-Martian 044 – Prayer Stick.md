@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Martian 044 – Prayer Stick.webp
 lang: es
 layout: post
+permalink: /es/2025-08-21-Martian 044 – Prayer Stick/
 tags:
 - Techno
 - Electro
 - 90s
-title: Martian 044 – Prayer Stick
+title: Marciano 044 – Bastón de oración
 ---
 
 
-Martian 044 は、デトロイトテクノ・ハウスシーンの重鎮Gerald Foster Mitchellのプロジェクト名。この名義はUnderground Resistance(UR)のリリース番号044 = 「Hardlife」に由来している。
+Martian 044 es el nombre del proyecto de Gerald Foster Mitchell, un incondicional de la escena techno y house de Detroit. Este nombre proviene del número de lanzamiento 044 = "Hardlife" de Underground Resistance (UR).
 
-「Prayer Stick」は、1998年にUnderground ResistanceのサブレーベルRed Planet(配給はSubmerge)からリリースされたTechno ／Electro。制作にはChuck Gibson のレーベルHitechfunk Productions が関わっている。
+"Prayer Stick" es una canción de Techno/Electro lanzada por el subsello Red Planet de Underground Resistance (distribuido por Submerge) en 1998. El sello Hitechfunk Productions de Chuck Gibson está involucrado en la producción.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Prayer Stick
 A2. Prayer Stick (Trans-Electric)
@@ -26,7 +27,7 @@ A2. Prayer Stick (Trans-Electric)
 B. Dream Dancing
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46990988578?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46990988578?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YXUenfPiUNQ?si=y5PNZnU5YN6VqRGO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YXUenfPiUNQ?si=y5PNZnU5YN6VqRGO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

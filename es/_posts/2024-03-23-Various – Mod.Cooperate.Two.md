@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Mod.Cooperate.Two.webp
 lang: es
 layout: post
+permalink: /es/2024-03-23-Various – Mod.Cooperate.Two/
 tags:
 - House
 - Minimal
 - Glitch
-title: Various – Mod.Cooperate.Two
+title: Varios – Mod.Cooperate.Two
 ---
 
 
-Treplecが設立したドイツのテクノレーベルMilnor Modernから2004年にリリースされた、Nisios 、Trike、Metaboman、Dubnoodlesによるミニマルテクノ・グリッチ・エレクトロハウスコンピレーション。
+Una compilación electro house de techno minimalista con fallas de Nisios, Trike, Metaboman y Dubnoodles lanzada en 2004 en Milnor Modern, el sello de techno alemán fundado por Treplec.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Nisios Feat. Mesa Divagadora – Divagadora
 
@@ -26,7 +27,7 @@ B1. Metaboman – Witwe Wu
 B2. Dubnoodles–Clapcity
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m19443364746?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p3Cop_yEm8E?si=2Vvs_J9HSmmCKQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p3Cop_yEm8E?si=2Vvs_J9HSmmCKQkE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Santana – Caravanserai.webp
 lang: es
 layout: post
+permalink: /es/2024-04-29-Santana – Caravanserai/
 tags:
 - Rock
 - Psychedelic
 - 70s
-title: Santana – Caravanserai
+title: Santana – Caravasar
 ---
 
 
-サンタナは、ギタリストのカルロス・サンタナが率いる1960年代後半に結成されたアメリカのラテンロックグループ。
+Santana es un grupo estadounidense de rock latino formado a finales de la década de 1960 liderado por el guitarrista Carlos Santana.
 
-「キャラバンサライ」は、バンドがロックから離れ、より実験的で複雑なサウンドを取り入れたため、サンタナのキャリアにおける新しい、よりジャズ指向の強いアルバムとして評価されている。
+"Caravanserai" ha sido aclamado como un nuevo álbum más orientado al jazz en la carrera de Santana, ya que la banda se alejó del rock y adoptó un sonido más experimental y complejo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Eternal Caravan Of Reincarnation 
 復活した永遠なるキャラバン
@@ -50,7 +51,7 @@ B4. Every Step Of The Way
 果てしなき道
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

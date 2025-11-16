@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – We Are Reasonable People.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Various – We Are Reasonable People/
 tags:
 - Techno
 - Downtempo
-title: Various – We Are Reasonable People
+title: Varios – Somos personas razonables
 ---
 
 
-『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
+Music Week le dio al álbum una crítica positiva y dijo: "Definitivamente atraerá a los fanáticos existentes y es una buena introducción para aquellos interesados ​​en los sonidos underground".
 
-また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
+"Brainwashed" también ocupa el tercer lugar entre los álbumes recopilatorios de 1998. Además, en 2013, la revista Fact clasificó a "Freeman Hardy & Willis Acid" en el puesto 10 en su lista de las 50 mejores pistas de Aphex Twin.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
@@ -43,9 +44,9 @@ title: Various – We Are Reasonable People
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ctFfLxDwB4U?si=PU-bZ89mgZtefhZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ctFfLxDwB4U?si=PU-bZ89mgZtefhZU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

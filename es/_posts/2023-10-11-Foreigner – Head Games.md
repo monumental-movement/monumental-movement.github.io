@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Foreigner – Head Games.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Foreigner – Head Games/
 tags:
 - Rock
 - Hard Rock
-title: Foreigner – Head Games
+title: Extranjero – Juegos de cabeza
 ---
 
 
-Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick Jones（ミック ジョーンズ）とイアン マクドナルド（Ian McDonald）、アメリカ人のボーカリスト Lou Gramm（ルー グラム）によって 1976 年にニューヨーク市とロンドンで結成されたイギリス系アメリカ人のロックバンド。
+Foreigner es una banda de rock británico-estadounidense formada en la ciudad de Nueva York y Londres en 1976 por los músicos británicos Mick Jones e Ian McDonald y el vocalista estadounidense Lou Gramm.
 
-「Head Games」は、Foreignerの３枚目のアルバムであり、バンドのシグネチャーサウンドとしても知られるアルバム。
+"Head Games" es el tercer álbum de Foreigner y también es conocido como el sonido característico de la banda.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Dirty White Boy
 
@@ -39,7 +40,7 @@ B4. Do What You Like
 B5. Rev On The Red Line
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfNyx_s2nxM?si=MjYOX3u9G9pfXme1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfNyx_s2nxM?si=MjYOX3u9G9pfXme1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

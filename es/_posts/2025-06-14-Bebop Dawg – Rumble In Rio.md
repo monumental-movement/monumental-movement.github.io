@@ -5,31 +5,32 @@ categories:
 image: ../assets/images/Bebop Dawg – Rumble In Rio.webp
 lang: es
 layout: post
+permalink: /es/2025-06-14-Bebop Dawg – Rumble In Rio/
 tags:
 - Electronic
 - Future Jazz
 - Latin
 - 00s
-title: Bebop Dawg – Rumble In Rio
+title: Bebop Dawg – Rumble en Río
 ---
 
 
-Bebop Dawg(ビーボップダグ)ことLasse Mosegard / Illinton(イリントン)は、バルセロナを拠点に活動するミュージシャン・プロデューサー。
+Lasse Mosegard / Illinton, también conocido como Bebop Dawg, es un músico y productor afincado en Barcelona.
 
-Frank E名義で知られるデンマーク出身のプログレッシブサイケデリックゴアトランス界の重鎮Frank MadsenとのユニットFranke And Illinton、デンマークのEDMプロデューサーMads ArpとのユニットRaoul Expressのメンバーとしても活動している。
+También es miembro de Franke And Illinton, una unidad con Frank Madsen, una figura destacada en el mundo del goa-trance psicodélico progresivo de Dinamarca, conocido como Frank E, y Raoul Express, una unidad con el productor danés de EDM Mads Arp.
 
-このレコードは、フランス・パリのアンダーグラウンドDeep-HouseレーベルMissive(1999年〜2010年)から、2002年にリリースされたフューチャージャズ・ラテントラック。
+Este disco es una futura pista de jazz/latino lanzada en 2002 por el sello underground Deep-House Missive (1999-2010) en París, Francia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Rumble In Rio
 
 B1. Um Dia Sobre La Praia
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43241616237?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBBPb65exo4?si=ZVW61qNZpcouv00R" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vrT7tRyS4Ic?si=zoHijMsjtWmsnxcn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vrT7tRyS4Ic?si=zoHijMsjtWmsnxcn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

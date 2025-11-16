@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Joi Cardwell – You Got To Pray.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Joi Cardwell – You Got To Pray/
 tags:
 - House
 - Remix
 - 90s
-title: Joi Cardwell – You Got To Pray
+title: Joi Cardwell - Tienes que orar
 ---
 
 
-Joi Cardwell（ジョイ・バーナデット・カードウェル）は、アメリカの歌手、ソングライター、プロデューサー、アーティストで、1967年にアメリカ合衆国ニューヨーク州ニューヨーク市に生まれました。
+Joi Cardwell (Joi Bernadette Cardwell) es una cantante, compositora, productora y artista estadounidense nacida en 1967 en la ciudad de Nueva York, Nueva York, Estados Unidos.
 
-幼い頃から様々な歌唱コンテストに出場し、1990年代初頭にはリル・ルイスのゲストボーカリストとして、ナンバーワンダンスシングル「Club Lonely」と「Saved My Life」で名声を得た後に、ソロキャリアをスタートさせ、数枚のアルバムをリリースしています。
+Compitió en varios concursos de canto desde temprana edad y ganó fama a principios de la década de 1990 como vocalista invitada de Lil Lewis con los sencillos de baile número uno "Club Lonely" y "Saved My Life" antes de embarcarse en una carrera en solitario y lanzar varios álbumes.
 
-彼女の音楽は、ハウス、ソウル、R&Bなどのジャンルを融合させたもので、そのパワフルでソウルフルな歌声で知られています。
+Su música es una mezcla de géneros house, soul y R&B, y es conocida por su voz poderosa y conmovedora.
 
-2017年には、自身のウェルネスセンター「Jump for Joi Wellness Center」をオープンしました。
+En 2017, abrió su propio centro de bienestar, Jump for Joi Wellness Center.
 
-現在も精力的に音楽活動とウェルネス活動に取り組んでいます。
+Actualmente, participa activamente en actividades musicales y de bienestar.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 AA1. You Got To Pray (Gomi's Lair X Beat Vocal) Remix – Gomi
 
@@ -36,7 +37,7 @@ AAA2. You Got To Pray (Thane's Pray For Your Soul Mix) Remix – Mile High Produ
 AAA3. You Got To Pray (X Bonus Beats) Remix – Gomi
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oajKE2SLIjE?si=5SwtUH-xzm1MJhp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oajKE2SLIjE?si=5SwtUH-xzm1MJhp3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

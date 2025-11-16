@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Lemare – Good Times.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-Lemare – Good Times/
 tags:
 - UK Garage
 - Funk
-title: Lemare – Good Times
+title: Lemare – Buenos tiempos
 ---
 
 
-「Good Times」は、
-1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。
+"Buenos tiempos" es
+"Good Times" del artista británico de R&B LEMARE (Lemar Obika) fue lanzado en 1998.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Good Times (Dez & Tec Mix)
 
@@ -28,7 +29,7 @@ B2. Good Times (High Supply Mix)
 B3. Good Times (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23326942990?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23326942990?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mdDt-dNShds?si=tYGNxUo7eLIHd06B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mdDt-dNShds?si=tYGNxUo7eLIHd06B" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

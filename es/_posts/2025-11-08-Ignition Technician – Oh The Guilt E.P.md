@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Ignition Technician – Oh The Guilt E.P.webp
 lang: es
 layout: post
+permalink: /es/2025-11-08-Ignition Technician – Oh The Guilt E.P/
 tags:
 - Techno
 - 00s
-title: Ignition Technician – Oh The Guilt E.P.
+title: Técnico de encendido - Oh The Guilt E.P.
 ---
 
 
-Ignition Technicianは、1999年にスタート したUK・リーズ出身のPete SimpsonとRichard WilkinsonによるTechnoプロダクションチーム。
+Ignition Technician es un equipo de producción de techno fundado en 1999 por Pete Simpson y Richard Wilkinson de Leeds, Reino Unido.
 
-初期にCarl Cox に見い出され、Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel, Colin MurryなどのDJたちもIgnition Technicianのレコードをプレイするようになった。
+Descubiertos temprano por Carl Cox, DJ como Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel y Colin Murry comenzaron a reproducir discos de Ignition Technician.
 
-「Oh The Guilt E.P.」は、Ignition Technicianが運営するレーベルIgnition Recordsから2002年にリリースしたTechnoトラック。
+"Oh, la culpa E.P." es una pista de Techno lanzada en 2002 en Ignition Records, un sello dirigido por Ignition Technician.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Oh The Guilt
 
@@ -26,7 +27,7 @@ B1. Slunk
 B2. Funka
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f7JJnn1J8PU?si=2F2Ih7jowIiUXR54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7JJnn1J8PU?si=2F2Ih7jowIiUXR54" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

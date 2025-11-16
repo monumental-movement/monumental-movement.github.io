@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/DJ Shufflemaster – EXP.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-DJ Shufflemaster – EXP/
 tags:
 - Techno
 - 00s
@@ -12,12 +13,12 @@ title: DJ Shufflemaster – EXP
 ---
 
 
-DJ Shufflemaster (金森 達也 / Tatsuya Kanamori）は、1990年代後半から活動する日本のハードテクノプロデューサー／DJ。Adam Beyer、Joel Mull、Ben Sims、Cari Lekebuschなどと共にプレイし、世界的に評価されているテクノアーティストの一人。
+DJ Shufflemaster (Tatsuya Kanamori) es un productor y DJ japonés de hard techno que ha estado activo desde finales de los años 1990. Es uno de los artistas de techno aclamados internacionalmente que ha tocado con Adam Beyer, Joel Mull, Ben Sims, Cari Lekebusch y otros.
 
-「EXP」は、2001年にベルリンの名門テクノレーベルTresor(トレゾア)からリリースされたフルアルバム。DJ Shufflemasterの代表作として知られている。
+"EXP" es un álbum de larga duración lanzado por el prestigioso sello techno de Berlín, Tresor, en 2001. Conocido como la obra maestra de DJ Shufflemaster.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. EXP
 A2. Slip Inside You
@@ -32,7 +33,7 @@ D1. Experience
 D2. Innervisions
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

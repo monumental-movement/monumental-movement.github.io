@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Benjamin Theves – Texas.webp
 lang: es
 layout: post
+permalink: /es/2025-08-06-Benjamin Theves – Texas/
 tags:
 - House
 - Electro
 - Disco
 - 00s
-title: Benjamin Theves – Texas
+title: Benjamín Theves – Texas
 ---
 
 
-Benjamin Thevesは、フランス出身のエレクトロニック・アーティスト／プロデューサー。
+Benjamin Theves es un artista/productor electrónico de Francia.
 
-「Texas」は、世界中のパーティーでヘヴィプレイされた00年代中期の名作で、Benjamin Thevesのデビュー作&代表作として知られている。
+"Texas" es una obra maestra de mediados de la década de 2000 que se tocó intensamente en fiestas de todo el mundo y es conocida como el debut y la obra maestra de Benjamin Theves.
 
-「Texas」は、2005年にPatrick Alavi 主宰のレーベルRoxourの第一弾としてリリースされた。B面は、『ReroX 』として知られるPatrick Alavi のremix版。Patrick Alavi は、Funk／House／electronicをmixしたスタイルが特徴。
+"Texas" fue lanzado en 2005 como el primer lanzamiento del sello Roxour de Patrick Alavi. La cara B es una versión remix de Patrick Alavi conocida como "ReroX". El estilo de Patrick Alavi es una mezcla de Funk/House/electrónica.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 This Side
 
@@ -32,7 +33,7 @@ Other Side
 B. Texas (Patrick Alavi Rerox)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ugvwjgl1FM?si=KnNa1x33ybDtd0Ej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ugvwjgl1FM?si=KnNa1x33ybDtd0Ej" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

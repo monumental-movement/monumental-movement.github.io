@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Sunaga T Experience – No Reason No Rhyme.webp
 lang: es
 layout: post
+permalink: /es/2023-09-16-Sunaga T Experience – No Reason No Rhyme/
 tags:
 - Jazz
 - Lounge
-title: Sunaga T Experience – No Reason No Rhyme
+title: 'Experiencia Sunaga T: sin razón, sin rima'
 ---
 
 
-Sunaga T Experienceの音楽は、ラウンジ、ジャズ、ボサノヴァなどの要素を取り入れ、幅広い音楽愛好家にアピールするユニークでエキレクティックなサウンドを生み出すことで知られています。
+La música de Sunaga T Experience es conocida por incorporar elementos de lounge, jazz, bossa nova y más para crear un sonido único y eléctrico que atrae a una amplia gama de amantes de la música.
 
-Sunaga T Experienceは、異なる音楽の影響を組み合わせ、魅力的な作品を生み出す能力で評価されています。
+Sunaga T Experience es reconocida por su capacidad para combinar diferentes influencias musicales y crear obras convincentes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. No Reason No Rhyme (Nicola Conte 'Plays A Mode For Tatsuo')
 
@@ -27,7 +28,7 @@ B1. No Reason No Rhyme (Jazztronik Mix)
 B2. No Reason No Rhyme (Insoft Batucada Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16005291032?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m16005291032?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r3bqxGX5WYA?si=qpenKDA2vGQY9qvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3bqxGX5WYA?si=qpenKDA2vGQY9qvy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

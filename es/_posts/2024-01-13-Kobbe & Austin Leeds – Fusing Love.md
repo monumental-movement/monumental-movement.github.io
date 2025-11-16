@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Kobbe & Austin Leeds – Fusing Love.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Kobbe & Austin Leeds – Fusing Love/
 tags:
 - House
 - Progressive House
 - 00s
-title: Kobbe & Austin Leeds – Fusing Love
+title: Kobbe y Austin Leeds - Fusionando amor
 ---
 
 
-アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
+Una pista de house progresivo del DJ y productor estadounidense Pierre Cobbaert, también conocido como Kobbe, y Austin Leeds.
 
-B面は、DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）によるremix。
+La cara B es un remix del DJ/productor Markus Schulz.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Fusing Love (Original)
 
 B. Fusing Love (Leeds & Schulz Remix) Remix – Markus Schulz
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m59349003998?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qqn08DSjR9s?si=hA3dPVEBQtbgHsjR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qqn08DSjR9s?si=hA3dPVEBQtbgHsjR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

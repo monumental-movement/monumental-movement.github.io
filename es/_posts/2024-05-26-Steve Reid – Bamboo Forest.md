@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Steve Reid – Bamboo Forest.webp
 lang: es
 layout: post
+permalink: /es/2024-05-26-Steve Reid – Bamboo Forest/
 tags:
 - New Age
 - Healing
 - Spiritual
 - 80s
-title: Steve Reid – Bamboo Forest
+title: Steve Reid - Bosque de bambú
 ---
 
 
-Steve Reid （スティーヴンリード ）は、アメリカのジャズパーカッショニスト＆プロデューサー。The Rippingtons（ザ・リッピントンズ）の共同創設者であり、Supertramp（スーパートランプ）のメンバーとしても活躍した。
+Steve Reid es un percusionista y productor de jazz estadounidense. Fue cofundador de The Rippingtons y miembro de Supertramp.
 
-1994年にリリースされた「Bamboo Forest」は、ワールドビートの影響を受けて制作したソロデビューアルバムであり、この時期に米ジャズ誌Jazzizのパーカッショニスト・オブ・ザ・イヤーに２度選ばれた。
+``Bamboo Forest'', lanzado en 1994, fue su álbum debut en solitario, influenciado por el ritmo mundial, y durante este período fue seleccionado dos veces como percusionista del año por la revista Jazz.
 
-このアルバムの参加メンバーは、US出身のジャズ・フュージョン界で活躍するサックス奏者Jeff Kashiwa（ジェフ・カシワ）、The Rippingtonsで活躍したベーシストKim Stone。
+Los miembros que participan en este álbum son Jeff Kashiwa, un saxofonista estadounidense activo en el mundo del jazz fusión, y el bajista Kim Stone, activo en The Rippingtons.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -34,7 +35,7 @@ Steve Reid （スティーヴンリード ）は、アメリカのジャズパ�
 10. Balloon Safari
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

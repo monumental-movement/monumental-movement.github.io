@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.webp
 lang: es
 layout: post
+permalink: /es/2023-09-08-Ol Dirty Bastard – Return To The 36 Chambers The Dirty Version/
 tags:
 - Hiphop
-title: Ol' Dirty Bastard – Return To The 36 Chambers The Dirty Version
+title: Ol' Dirty Bastard - Regreso a las 36 cámaras La versión sucia
 ---
 
 
-このアルバム「Return To The 36 Chambers The Dirty Version」はOl' Dirty Bastardがソロキャリアの中でも最も成功した作品の一つです。
+Este álbum, "Return To The 36 Chambers The Dirty Version", es uno de los lanzamientos más exitosos de la carrera en solitario de Ol' Dirty Bastard.
 
-ウータンのメンバーや他のゲストアーティストとのコラボレーションも含まれており、アルバム全体で彼の個性的な音楽スタイルが発揮され、批評家から高い評価を受け商業的にも成功しました。
+También incluyó colaboraciones con miembros de Wu-Tang y otros artistas invitados, y el álbum mostró su estilo musical individual en todo momento, obteniendo elogios de la crítica y éxito comercial.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Intro
 
@@ -62,7 +63,7 @@ D14. Proteck Ya Neck II The Zoo
 D15. Cuttin' Headz
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

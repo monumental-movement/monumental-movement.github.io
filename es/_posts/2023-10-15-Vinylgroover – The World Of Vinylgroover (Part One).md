@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Vinylgroover – The World Of Vinylgroover (Part One)/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Vinylgroover – The World Of Vinylgroover (Part One)
+title: Vinylgroover - El mundo de Vinylgroover (primera parte)
 ---
 
 
-VinylgrooverことScott Attril（スコット・アトリル）は、UK拠点とする大ハッピーハードコア＆ハードハウス・プロデューサー/DJ。
+Scott Attril, también conocido como Vinylgroover, es un feliz productor y DJ de hardcore y hard house radicado en el Reino Unido.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Time (Vinylgroover Remix)
 
@@ -33,7 +34,7 @@ D1. Can't Stop (Vinylgroover Remix)
 D2. Got To Have It
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNvgGo6rX1A?si=7jwIPbPA_ZFLNwfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BNvgGo6rX1A?si=7jwIPbPA_ZFLNwfA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

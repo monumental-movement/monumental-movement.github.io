@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/笑福亭鶴光 – うぐいすだにミュージックホール ももえちゃん.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-Shofukutei Tsuruko - Uguisudani Music Hall/
 tags:
 - Comic
 - Parody
 - 7inch
-title: Shofukutei Tsuruko - Uguisudani Music Hall
+title: Shofukutei Tsuruko - Sala de Música Uguisudani
 ---
 
 
-「うぐいすだにミュージックホール」は、笑福亭鶴光が1975年5月に発売したコミックソング。
+"Uguisudani Music Hall" es una canción cómica lanzada por Shofutei Tsurumitsu en mayo de 1975.
 
-作詞・作曲・編曲 - 山本正之
+Letra, composición, arreglo - Masayuki Yamamoto
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. うぐいすだにミュージックホール
 
 B. ももえちゃん
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rIY6pajpd70?si=LdF0932ixHxFOtbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rIY6pajpd70?si=LdF0932ixHxFOtbq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

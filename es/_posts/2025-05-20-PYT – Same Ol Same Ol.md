@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/PYT – Same Ol Same Ol.webp
 lang: es
 layout: post
+permalink: /es/2025-05-20-PYT – Same Ol Same Ol/
 tags:
 - Funk
 - Soul
 - Contemporary R&B
 - 00s
-title: PYT – Same Ol' Same Ol'
+title: PYT - Lo mismo de siempre, lo mismo de siempre
 ---
 
 
-P.Y.T.は、1998年から2002年に活動したフロリダ出身のUSガールズグループ。
+P.Y.T. es un grupo de chicas estadounidense de Florida que estuvo activo desde 1998 hasta 2002.
 
-活動中には、インシンク、ブリトニー・スピアーズ、デスティニーズチャイルド、98 Degreesとツアーを行い、2001年のスーパーボウルではパフォーマンスをした。
+Durante su carrera, realizó giras con InSync, Britney Spears, Destiny's Child y 98 Degrees, y actuó en el Super Bowl de 2001.
 
-2001年にリリースした「Same Ol' Same Ol'」は、Dr.DreのNext episodeをトラックに使用し大ヒットしたコンテンポラリーR&B。
+"Same Ol' Same Ol'", lanzada en 2001, es una canción de R&B contemporánea que se convirtió en un gran éxito utilizando el episodio Next de Dr. Dre como pista.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Same Ol' Same Ol' (Without Intro)
 A2. Same Ol' Same Ol' (With Intro)
@@ -31,7 +32,7 @@ B1. Same Ol' Same Ol' (Hip Hop Mix)
 B2. Instrumental
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97173949196?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m97173949196?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G6wEuFlTw64?si=E8sx5lRwoXpsffNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6wEuFlTw64?si=E8sx5lRwoXpsffNg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

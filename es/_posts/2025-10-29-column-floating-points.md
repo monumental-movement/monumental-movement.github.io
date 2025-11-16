@@ -5,139 +5,141 @@ categories:
 image: ../assets/images/column-floating-points.webp
 lang: es
 layout: post
+permalink: /es/2025-10-29-column-floating-points/
 tags:
 - Ambient
 - Jazz
 - Ambient Jazz
-title: 【コラム】 Floating Pointsと科学としての音響 ― アンビエント・ジャズの分析的展開
+title: '[Columna] Puntos flotantes y acústica como ciencia - Desarrollo analítico
+  del jazz ambiental'
 ---
 
 
-## 1. 導入：科学者としての音楽家
+## 1. Introducción: el músico como científico
 
 
-文：mmr｜テーマ：神経科学者Sam ShepherdによるFloating Points。彼の音楽に潜む科学的構造と、アンビエント・ジャズとしての再定義を探る
+Texto: mmr | Tema: Puntos flotantes del neurocientífico Sam Shepherd. Explora la estructura científica escondida en su música y su redefinición como jazz ambiental.
 
-Floating Pointsこと**Sam Shepherd**は、音楽家である以前に神経科学者だった。  
-彼の作品を特徴づける「緻密な音響設計」と「有機的な即興性」は、実験室とステージを往復する彼の思考そのものだ。電子音は無機的なデータではなく、**脳の反応と同様にゆらぐ波形**として捉えられる。彼にとって音は「測定可能な自然現象」でありながら、「制御不能な生命の呼吸」でもある。
+**Sam Shepherd**, también conocido como Floating Points, fue neurocientífico antes de ser músico.
+El "diseño de sonido preciso" y la "improvisación orgánica" que caracterizan su trabajo son los mismos pensamientos que crea mientras va y viene entre el laboratorio y el escenario. Los sonidos electrónicos no son datos inorgánicos, sino que pueden verse como formas de onda que fluctúan de la misma manera que las reacciones cerebrales. Para él, el sonido es a la vez un "fenómeno natural mensurable" y un "soplo de vida incontrolable".
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
 
-### 2. 構造の科学 ― Elaenia期（2015）
-デビューアルバム『Elaenia』は、アンビエント・ジャズの文脈を科学的に再構成した転換点である。  
-その音響はモジュラー・シンセサイザーの波形、Rhodesの倍音、弦楽の残響が**層として重なり、周波数的な対話**を生む。  
-この対話は即興演奏というより、**波動干渉のような「物理現象としての共鳴」**だ。
+### 2. Ciencia de la estructura - Período Elaenia (2015)
+Su álbum debut ``Elaenia'' supone un punto de inflexión en la reorganización científica del contexto del jazz ambiental.
+El sonido consta de formas de onda de sintetizador modular, armónicos Rhodes y reverberaciones de cuerdas superpuestas para crear un diálogo de frecuencia.
+Este diálogo se parece más a una "resonancia como fenómeno físico", como la interferencia de ondas, que a una improvisación.
 
-> “Silhouettes (I, II & III)” は10分間の音響実験であり、  
-> シンセのLFO（低周波振動）とドラマーLeo Taylorのリズムが  
-> **異なる周期の振動数として同期・脱同期**を繰り返す。
+> “Siluetas (I, II y III)” es un experimento sonoro de 10 minutos,
+> Sintetizador LFO (vibración de baja frecuencia) y ritmo del baterista Leo Taylor
+> **Repetir sincronización y desincronización como frecuencias de diferentes periodos**.
 
-ここには「人間のリズム」と「機械の周期」が交差する瞬間がある。  
-それは単なる融合ではなく、**観測可能なカオスの発生点**だ。
-
----
-
-### 3. 圧縮と爆縮 ― Crush期（2019）
-『Crush』では、シンセサイズされた音圧とジャズ的リズムが極限まで圧縮される。  
-その結果生まれるのは**電子的エネルギーの即興形態**だ。  
-タイトル曲「Falaise」では、アルゴリズムによるフィルター変調がミリ秒単位で変化し、  
-音はほとんど「液体の物理現象」のように流動する。
-
-Shepherdのスタジオでは、AbletonやEurorackが**脳内の神経ネットワークのモデル**として機能する。  
-各ノブの微調整は、ニューロンの発火頻度を変えるような**音響実験**なのだ。  
-ここでジャズ的な即興は、もはや“人の演奏”ではなく“信号の応答”に変質する。  
-それは「機械が奏でる即興」であり、**ポスト・ヒューマン的ジャズ**の先駆形態でもある。
+Hay un momento aquí en el que el "ritmo humano" y el "ciclo de la máquina" se cruzan.
+No es sólo una fusión, es un punto de caos observable.
 
 ---
 
-### 4. 光の共鳴 ― Promises期（2021）
-Pharoah Sandersとの共作『Promises』は、Floating Pointsの科学的音響思考が**魂の領域に到達した**作品である。  
-このアルバムは、物理的な“音の測定”と形而上的な“時間の感覚”が交錯する。  
-9章から成る組曲全体を貫くモチーフはわずか数音の反復だが、それは量子的な干渉パターンのように変化する。
+### 3. Compresión e implosión - Período de aplastamiento (2019)
+En "Crush", la presión del sonido sintetizado y los ritmos del jazz se comprimen al límite.
+El resultado es una forma improvisada de energía electrónica.
+En la canción principal "Falaise", la modulación del filtro algorítmico cambia en milisegundos,
+El sonido fluye casi como un "fenómeno físico del líquido".
 
-Pharoah Sandersのサックスは、電子音に溶け込みながらも人間の「呼吸」を保ち続ける。  
-そのバランスは、まるで**観測者と被観測物の関係**のようだ。  
-Floating Pointsの音は空間を測定し、Sandersの息はその空間をゆらがせる。  
-そこには科学とスピリチュアル、測定と祈りが**ひとつの音響現象として同居**している。
+En el estudio de Shepherd, Ableton y Eurorack sirven como modelos de redes neuronales en el cerebro.
+Cada ajuste de perilla es un experimento acústico que cambia la velocidad a la que se activan las neuronas.
+En este punto, la improvisación de jazz ya no se convierte en una "interpretación de una persona" sino en una "respuesta a una señal".
+Es "improvisación realizada por una máquina" y también es una forma pionera de **jazz poshumano**.
 
 ---
 
-### 5. 分析図：音響の三軸モデル
-以下は、Floating Pointsの音響構造を「周波数軸」「音圧軸」「即興軌跡軸」で表した抽象モデルである。
+### 4. Resonancia de la luz - Periodo de promesas (2021)
+Promises, coescrita con Pharoah Sanders, es una obra en la que el pensamiento sonoro científico de Floating Points llega al reino del alma.
+Este álbum cruza la "medición del sonido" física y el "sentido del tiempo" metafísico.
+El motivo que recorre la suite de nueve capítulos es la repetición de unas pocas notas, que cambian como patrones de interferencia cuántica.
+
+El saxofón de Pharoah Sanders se mezcla con sonidos electrónicos manteniendo su calidad de "respiración" humana.
+El equilibrio es como la relación entre el observador y el objeto observado.
+Los sonidos de Floating Points miden el espacio y la respiración de Sanders lo balancea.
+Allí conviven como un solo fenómeno acústico ciencia y espiritualidad, medición y oración.
+
+---
+
+### 5. Diagrama de análisis: Modelo triaxial acústico
+A continuación se muestra un modelo abstracto que representa la estructura acústica de las comas flotantes en términos del "eje de frecuencia", el "eje de presión del sonido" y el "eje de trayectoria de improvisación".
 
 <div class="mermaid">
 
-graph TD
-    A["周波数軸（Frequency Spectrum）"] --> B["倍音干渉による空間形成"]
-    B --> C["音圧軸（Dynamic Pressure）"]
-    C --> D["即興軌跡軸（Improvisation Path）"]
-    D --> E["アンビエント・ジャズの科学的拡張"]
+gráfico TD
+A["Espectro de frecuencia"] --> B["Formación de espacio por interferencia armónica"]
+B --> C["Presión dinámica"]
+C --> D["Camino de improvisación"]
+D --> E["Expansión científica del jazz ambiental"]
 
 
 </div>
 
-このモデルは、ジャズの即興が時間軸上の現象であったのに対し、
-Floating Pointsの音響では即興が**空間的・周波数的に展開する**ことを示す。
-聴く者は時間を追うのではなく、**空間を観測するリスナー**になる。
+Si bien la improvisación del jazz fue un fenómeno temporal, este modelo
+La acústica de Floating Points muestra que la improvisación se desarrolla en el espacio y la frecuencia.
+El oyente se convierte en un **oyente que observa el espacio** en lugar de seguir el tiempo.
 
 ---
 
-### 6. 批評的補章：アンビエント・ジャズの再定義
+### 6. Suplemento crítico: redefiniendo el jazz ambiental
 
-Floating Pointsが提示したのは、アンビエントの「静けさ」ではなく、
-動的な観測としての沈黙である。
-ここでの“Ambient”は環境音楽ではなく、“Field of Observation”──観測場なのだ。
+Lo que los Puntos Flotantes presentaban no era "tranquilidad" ambiental sino
+El silencio como observación dinámica.
+“Ambient” aquí no es música ambiental, sino “Field of Observation”.
 
-Brian Enoが空間を“拡張する音”を探求したのに対し、
-Shepherdは“分析する音”を設計する。
-この違いは、聴く者が瞑想者ではなく研究者となる転換を意味する。
-アンビエント・ジャズは、感情の音楽から思考の音楽へと変質した。
+Mientras Brian Eno exploraba sonidos en ese espacio “expandido”,
+Shepherd diseña “sonidos para analizar”.
+Esta diferencia significa un cambio en el que el oyente se convierte en investigador en lugar de meditador.
+El jazz ambiental se ha transformado de una música de emoción a una música de pensamiento.
 
 ---
 
-### 7. 年表：Floating Points 音響研究の軌跡
+### 7. Cronología: Trayectoria de la investigación acústica de puntos flotantes
 
 <div class="mermaid">
 
-timeline
-    title Floating Points 年表（2009–2025）
-    2009 : デビューEP『Vacuum Boogie』リリース。ロンドン・クラブシーンで注目。
-    2011 : Eglo Records共同設立。ソウル〜エレクトロニカ融合期。
-    2015 : 『Elaenia』発表。モジュラー構造の音響設計が評価される。
-    2017 : Floating Points Ensembleとしてライブ編成化。ジャズ性が拡張。
-    2019 : 『Crush』リリース。Eurorackによる高密度即興。
-    2021 : 『Promises』（with Pharoah Sanders & LSO）で精神性と科学が結合。
-    2023 : 現代音響学とのコラボ展示「Light Patterns」開催。
-    2025 : 新作「Spectral Biology（仮）」制作中と報道。
+línea de tiempo
+título Cronología de coma flotante (2009-2025)
+2009: Lanzamiento del EP debut “Vacuum Boogie”. Atención en la escena de discotecas de Londres.
+2011: Cofundador de Eglo Records. Periodo de fusión alma-electrónica.
+2015: Se anuncia “Elaenia”. Se elogia el diseño acústico de la estructura modular.
+2017: Organizado en vivo como Floating Points Ensemble. Carácter de jazz ampliado.
+2019: lanzamiento de “Crush”. Densa improvisación a cargo de Eurorack.
+2021: “Promises” (con Pharoah Sanders y LSO) combina espiritualidad y ciencia.
+2023: Se llevará a cabo la exposición colaborativa “Light Patterns” con acústica contemporánea.
+2025: Se informa que el nuevo trabajo "Biología espectral (título provisional)" está en producción.
 
 </div>
 
 ---
 
 
-### 8. 結論：音を観測するということ
+### 8. Conclusión: observar el sonido
 
-Floating Pointsの音楽を聴くことは、音を**“体験する”のではなく“観測する”行為に近い。
-そこでは聴覚が科学的感覚器として働き、音楽が精神と物理の中間領域**に立ち上がる。
+Escuchar música de Floating Points es más como un acto de "observar" el sonido que de "experimentarlo".
+Aquí, el oído funciona como un órgano sensorial científico y la música se sitúa en el punto medio** entre la mente y el físico.
 
-アンビエント・ジャズというジャンルは、彼の手によって「沈黙の中の実験音楽」から
-「観測としての音楽」へと進化した。
-それは科学の言語を使って、**説明できないものを説明しようとする**試みであり、
-その矛盾こそが、Floating Pointsの美学の核心なのだ。
+El género del jazz ambiental fue creado por él a partir de "música experimental en silencio".
+Evolucionó hasta convertirse en "la música como observación".
+Es un intento de explicar lo inexplicable utilizando el lenguaje de la ciencia,
+Esa contradicción está en el corazón de la estética de Floating Points.
 
 ---

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Best Of Kitaro.webp
 lang: es
 layout: post
+permalink: /es/2024-06-08-Best Of Kitaro/
 tags:
 - New Age
 - Relaxation
 - Healing
 - 80s
-title: Best Of Kitaro
+title: Lo mejor de Kitaro
 ---
 
 
-日本のキーボーディスト＆シンセサイザー奏者である喜多郎（きたろう）は、1994年にオリバー・ストーン監督の映画「天と地 (Heaven & Earth)」でゴールデングローブ賞作曲賞受賞。2001年には第43回グラミー賞最優秀ニューエイジ・アルバム賞を受賞している。
+Kitaro, teclista y sintetizador japonés, ganó el Globo de Oro a la mejor banda sonora original en 1994 por la película Heaven & Earth de Oliver Stone. En 2001, ganó el 43º premio Grammy al Mejor Álbum New Age.
 
-「Best Of Kitaro」は、ドイツのレーベルKuckuckから1985年にリリースされた喜多郎のコンピレーションカセットテープ。
+"Best of Kitaro" es una cinta recopilatoria de Kitaro lanzada en 1985 por el sello alemán Kuckuck.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Morning Prayer
 A2. Eternal Spring
@@ -35,7 +36,7 @@ B5. Shimmering Light
 B6. Everlasting Road
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lBtuPnGNnZU?si=_cQdm2F0aURtBZDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBtuPnGNnZU?si=_cQdm2F0aURtBZDv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

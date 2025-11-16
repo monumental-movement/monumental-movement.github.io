@@ -6,20 +6,22 @@ image: ../assets/images/Linoleum Lineage DJ Rylo and Omanjamari – Holes After 
   EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark
+  EP/
 tags:
 - Hiphop
-title: Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark EP
+title: Linoleum Lineage DJ Rylo y Omanjamari – Holes After Dark EP
 ---
 
 
-Linoleum Lineageは、LAを拠点とするビートメイカーDJ RyloとMC Omanjamariによるユニット。
+Linoleum Lineage es una unidad formada por el beatmaker DJ Rylo y MC Omanjamari con sede en Los Ángeles.
 
 
-リリック – Omanjamari
-マスター – Damon Tedesco
-プロディーサー/ミックス/アレンジ – DJ Rylo
+Letra – Omanjamari
+Maestro - Damon Tedesco
+Productor/Mezcla/Arreglo – DJ Rylo
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Open Arms
 
@@ -32,7 +34,7 @@ B1. Endless Paradigm
 B2. Rocketship Romance
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38371047573?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38371047573?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I0EkvTdQZQo?si=Ktf69V9U1oDBJkps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0EkvTdQZQo?si=Ktf69V9U1oDBJkps" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

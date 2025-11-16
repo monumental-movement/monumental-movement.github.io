@@ -5,193 +5,194 @@ categories:
 image: ../assets/images/column-sample-origins.webp
 lang: es
 layout: post
+permalink: /es/2025-10-28-column-sample-origins/
 tags:
 - Hiphop
 - Vinyl
-title: 【コラム】 サンプリングの源流 ─ 最もサンプリングされた音源20選
+title: '[Columna] Los orígenes del muestreo: las 20 fuentes de sonido más muestreadas'
 ---
 
 
-### 序章：音のDNAをたどる
+### Prólogo: Rastreando el ADN del sonido
 
 
-文：mmr｜テーマ：**WhoSampled**などのデータをもとに「最もサンプリングされた音源20選」を取り上げ、それぞれがどのように音楽史に刻まれてきたのかを探る
+Texto: mmr｜Tema: Basándonos en datos como **WhoSampled**, destacaremos las "20 fuentes de sonido más muestreadas" y exploraremos cómo cada una ha quedado grabada en la historia de la música.
 
 
-サンプリングとは、音楽史の中で「引用」と「再構築」を最も直接的に体現する技術だ。70年代後半のヒップホップ黎明期から今日のエレクトロニカまで、ひとつのドラムブレイク、ベースライン、叫び声が何百、何千もの曲に生まれ変わってきた。  
+El muestreo es una tecnología que encarna más directamente la "cita" y la "reconstrucción" en la historia de la música. Desde los primeros días del hip-hop a finales de los 70 hasta la electrónica actual, un solo golpe de batería, una línea de bajo o un grito se han transformado en cientos o miles de canciones.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-#### 1. The Winstons – “Amen, Brother” (1969)
-通称「**Amen Break**」。6秒のドラムソロは、ヒップホップ、ジャングル、ドラムンベース、ハードコア・テクノなど、無数のジャンルを生み出した。N.W.A.やPublic EnemyからAphex Twin、The Prodigyまで、あらゆるプロデューサーがこのブレイクを切り刻んだ。  
-元ドラマーのGregory Colemanは報われぬまま生涯を閉じたが、そのスネアとハイハットの間に宿る「グルーヴの魂」は今なお鳴り続ける。
+#### 1. Los Winston – “Amén, hermano” (1969)
+Comúnmente conocido como "**Amén Break**". El solo de batería de seis segundos generó innumerables géneros, incluidos hip-hop, jungla, drum and bass y hardcore techno. Productores de todo el mundo, desde N.W.A. y Public Enemy a Aphex Twin y The Prodigy lograron esta ruptura.
+El ex baterista Gregory Coleman falleció sin recompensa, pero el "espíritu del ritmo" que habita entre la caja y el charles continúa resonando.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GxZuq57_bYM?si=9sRN2gAN9wrfNQmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 2. Lyn Collins – “Think (About It)” (1972)
-プロデュースはJames Brown。女性の力強いシャウトと「Woo! Yeah!」ブレイクが、ヒップホップの黄金時代を象徴する。Rob Base & DJ E-Z Rockの「It Takes Two」をはじめ、Snoop Dogg、Beyoncéまでもが引用。  
-フェミニズム的強さとファンクの躍動を兼ね備え、クラブのフロアに「声の連鎖反応」を引き起こした。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GxZuq57_bYM?si=9sRN2gAN9wrfNQmR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 3. The Clash – “Straight to Hell” (1982)
-M.I.A.の「Paper Planes」で再浮上した哀愁のギターとパーカッション。移民、労働、孤独をテーマにした歌詞が、21世紀の政治的ヒップホップに呼応する。  
-この曲のサンプリングは単なる音素材ではなく、「反抗の遺伝子」として継承されている。
+#### 2. Lyn Collins – “Piénsalo” (1972)
+Producida por James Brown. El grito poderoso de una mujer y "¡Woo! ¡Sí!" break simbolizan la edad de oro del hip-hop. Las citas incluyen "It Takes Two" de Rob Base y DJ E-Z Rock, así como Snoop Dogg y Beyoncé.
+Combinando la fuerza del feminismo y el dinamismo del funk, provocó una "reacción en cadena de voces" en la pista del club.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t7SvtikTkrM?si=FUZiDw4Zb60WldzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 4. Chic – “Good Times” (1979)
-Bernard EdwardsのベースラインはSugarhill Gangの「Rapper’s Delight」で一躍有名に。ディスコとヒップホップを繋いだ“橋”として、音楽史的な重要性は計り知れない。  
-後世のDaft PunkやNile Rodgers自身によるセルフサンプリングにも通じる「再帰的ファンク」。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RLTDpewIpfw?si=MSLW6XmAfDxZeEYB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 5. James Brown – “Funky Drummer” (1970)
-Clyde Stubblefieldのドラムブレイクは、サンプリングの“聖杯”。Public Enemy、LL Cool J、Prince、Beastie Boys――そのスネアが鳴るたびに時代が更新された。  
-ヒップホップ以前からヒップホップ以降まで、最も多くの作品に命を吹き込んだ「リズムの原子核」。
+#### 3. The Clash – “Directo al infierno” (1982)
+La melancólica guitarra y la percusión resurgen en "Paper Planes" de M.I.A. Las letras sobre inmigración, trabajo y soledad hacen eco del hip-hop político del siglo XXI.
+El sampleo de esta canción no es sólo un material sonoro, sino que se ha transmitido como un "gen de rebelión".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 6. Curtis Mayfield – “Move On Up” (1970)
-Kanye Westの「Touch the Sky」で若い世代に再発見された高揚感の象徴。希望と抵抗のスピリットを合わせ持ち、ソウルの精神をヒップホップに移植した。  
-Curtisのファルセットは「進化するブラック・ミュージック」の永遠のメッセージだ。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A9RMr9KuVZo?si=v-QRYGCnN1A1nWGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t7SvtikTkrM?si=FUZiDw4Zb60WldzJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 7. Bob James – “Take Me to the Mardi Gras” (1975)
-ドラムのカウベルとベルサウンドが特徴的で、Run-D.M.C.、Beastie Boys、Eric B. & Rakimらに愛された。  
-Bob Jamesはスムースジャズの象徴でもあるが、この曲が生んだ「ハードなブレイク」は、90年代のサンプリング文化の中で神格化された。
+#### 4. Chic – “Buenos tiempos” (1979)
+La línea de bajo de Bernard Edwards se hizo famosa en "Rapper's Delight" de Sugarhill Gang. Como "puente" que conectaba la música disco y el hip-hop, su importancia en la historia de la música es inconmensurable.
+"Funk recursivo" similar al Daft Punk posterior y automuestreo del propio Nile Rodgers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 8. Incredible Bongo Band – “Apache” (1973)
-ブロンクスのブロックパーティーでKool Hercが2枚使いした伝説のブレイク。ヒップホップの原点と呼ばれる理由がここにある。  
-今でもダンサーやターンテーブリストの“聖典”として生き続ける。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WY-Z6wm6TMQ?si=M_5a01O_-SpSNVzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RLTDpewIpfw?si=MSLW6XmAfDxZeEYB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 9. Melvin Bliss – “Synthetic Substitution” (1973)
-ヒップホップの骨格を形成したもう一つの名ブレイク。Naughty by Nature、J Dilla、De La Soulらが多用。  
-メロディは控えめながら、スネアとキックの“間”が黄金比を成す。
+#### 5. James Brown – “Baterista funky” (1970)
+La pausa de batería de Clyde Stubblefield es el santo grial del sampleo. Public Enemy, LL Cool J, Prince, Beastie Boys... cada vez que tocaba esa trampa, la era se renovaba.
+El "núcleo del ritmo" ha dado vida a la mayor cantidad de obras, desde antes hasta después del hip-hop.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3RaaHfzcD0?si=AVzlgEkCT_ra0JQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 10. The Honey Drippers – “Impeach the President” (1973)
-政治的メッセージとグルーヴが共存するドラムブレイク。Nas、The Notorious B.I.G.、J. Coleまで引用。  
-タイトルが皮肉にも時代を超えて響くのは、リズムに刻まれた「抵抗の美学」が普遍だからだ。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7hNr8WpVYI0?si=IEACVEwNdD9Xf7Rb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 11. The Charmels – “As Long As I’ve Got You” (1967)
-Wu-Tang Clanの「C.R.E.A.M.」に使用されたメロディの原曲。甘美なストリングスとメランコリックなボーカルが、ストリートの詩情を支えた。  
-RZAの「陰影のサンプリング哲学」を象徴する名素材。
+#### 6. Curtis Mayfield – “Adelante” (1970)
+Un símbolo de euforia redescubierto por una generación más joven con "Touch the Sky" de Kanye West. Combinando el espíritu de esperanza y resistencia, transfirió el espíritu del soul al hip-hop.
+El falsete de Curtis es un mensaje eterno de la "música negra en evolución".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gp9uZjPaB4w?si=Le4XVqm-CtR_mIkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 12. Joe Tex – “Papa Was Too” (1966)
-James Brown的なファンクとコメディ的リズムを融合。Fatboy SlimやBeastie Boysが引用し、ファンクの「語り口」をヒップホップに変換する鍵となった。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3oQdfZVMkYI?si=4OQVI7HXZGxLl0I7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A9RMr9KuVZo?si=v-QRYGCnN1A1nWGy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 13. The Isley Brothers – “Between the Sheets” (1983)
-Notorious B.I.G.「Big Poppa」、Jay-Z「Ignorant Shit」などで有名。セクシーかつ哀愁漂うメロウネスが90年代R&Bの源流に。  
-滑らかなグルーヴは「サンプリングされる前提で書かれたような」完成度を持つ。
+#### 7. Bob James – “Llévame al Mardi Gras” (1975)
+El sonido de cencerro y campana de la batería era distintivo y adorado por Run-D.M.C., Beastie Boys, Eric B. & Rakim y otros.
+Bob James es un símbolo del smooth jazz, y el "hard break" que produjo esta canción fue divinizado en la cultura del sampleo de los años 1990.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pf_si60K9nM?si=wxf1QS5Iv_Io8ngi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 14. Mountain – “Long Red” (1972)
-ライブ中の「You know what I mean!」という掛け声がPublic EnemyやDe La Soulに多用された。  
-単なるロック曲が、声のサンプリングによってヒップホップの“パーツ”となる好例。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 15. The Emotions – “Blind Alley” (1972)
-Big Daddy Kane「Ain’t No Half-Steppin」やMary J. Bligeで知られる。スウィートソウルの温もりを、ビートの硬質さで再構築する――この対比が黄金時代のエッセンスだった。
+#### 8. Increíble Bongo Band – “Apache” (1973)
+Un break legendario que Kool Herc utilizó en dos copias en una fiesta de barrio en el Bronx. Por eso se le llama el origen del hip-hop.
+Sigue viviendo como una "escritura sagrada" para bailarines y tocadiscos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05q2-wFl_14?si=1QJzpm2q0x9vBTKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WY-Z6wm6TMQ?si=M_5a01O_-SpSNVzo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 9. Melvin Bliss – “Sustitución sintética” (1973)
+Otro break famoso que formó la columna vertebral del hip-hop. Utilizado con frecuencia por Naughty by Nature, J Dilla, De La Soul y otros.
+Aunque la melodía es modesta, el "espacio" entre la caja y el bombo forma una proporción áurea.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3RaaHfzcD0?si=AVzlgEkCT_ra0JQH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 10. Los goteros de miel – “Acusar al presidente” (1973)
+Un redoble de tambores donde conviven mensajes y ritmos políticos. Citado por Nas, The Notorious B.I.G. e incluso J. Cole.
+La razón por la que el título resuena irónicamente a través del tiempo es porque la "estética de la resistencia" grabada en el ritmo es universal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7hNr8WpVYI0?si=IEACVEwNdD9Xf7Rb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 11. Los Charmels – “Mientras te tenga” (1967)
+La melodía original utilizada en "C.R.E.A.M." de Wu-Tang Clan. Cuerdas dulces y voces melancólicas apoyaron la poesía de la calle.
+Un material famoso que simboliza la "filosofía de muestreo de tonos" de RZA.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gp9uZjPaB4w?si=Le4XVqm-CtR_mIkc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 12. Joe Tex – “Papá también era” (1966)
+Una fusión de funk al estilo James Brown y ritmos cómicos. Citado por Fatboy Slim y los Beastie Boys, se convirtió en la clave para traducir la "charla" del funk al hip-hop.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3oQdfZVMkYI?si=4OQVI7HXZGxLl0I7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 13. Los hermanos Isley – “Entre las sábanas” (1983)
+Famoso por canciones como "Big Poppa" de Notorious B.I.G. y "Ignorant Shit" de Jay-Z. La suavidad sexy y melancólica es el origen del R&B de los 90.
+El ritmo suave tiene un nivel de perfección que parece como si hubiera sido escrito con la premisa de ser sampleado.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pf_si60K9nM?si=wxf1QS5Iv_Io8ngi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 14. Montaña – “Largo rojo” (1972)
+El canto "¡Sabes a lo que me refiero!" Fue utilizado a menudo por Public Enemy y De La Soul durante presentaciones en vivo.
+Este es un gran ejemplo de cómo una simple canción de rock se convierte en una "parte" de hip-hop a través del muestreo vocal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 15. Las emociones – “Callejón sin salida” (1972)
+Conocido por "Ain't No Half-Steppin" de Big Daddy Kane y Mary J. Blige. Reconstruir la calidez del alma dulce con la dureza del ritmo: este contraste fue la esencia de la Edad de Oro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05q2-wFl_14?si=1QJzpm2q0x9vBTKx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 #### 16. Edwin Birdsong – “Cola Bottle Baby” (1979)
-Daft Punk「Harder, Better, Faster, Stronger」に再構築され、21世紀のエレクトロ・ポップの礎に。  
-70年代の実験的ファンクが、テクノロジーの時代に生まれ変わった瞬間。
+Reconstruido en "Harder, Better, Faster, Stronger" de Daft Punk, se convirtió en la piedra angular del electro-pop del siglo XXI.
+El momento en el que el funk experimental de los años 70 renació en la era de la tecnología.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3AKrwna2C8?si=IOnm-Miry5dJAPdm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 17. Dennis Coffey – “Scorpio” (1971)
-インスト・ファンクの名曲で、LL Cool JやPublic Enemyがブレイクを引用。エレクトリックギターの歪みが、都市のざらつきを象徴する。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KBn_oUH8Uo0?si=KqkkcQDOxXHnDnXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3AKrwna2C8?si=IOnm-Miry5dJAPdm" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 18. Barry White – “I’m Gonna Love You Just a Little More Baby” (1973)
-サンプリング界では「愛の象徴」。The DreamやKanye Westが引用し、ソウルと欲望の境界を行き来する。  
-甘美なストリングスの“持続音”が、ヒップホップにラグジュアリーな質感を与えた。
+#### 17. Dennis Coffey – “Escorpio” (1971)
+Una obra maestra del funk instrumental, LL Cool J y Public Enemy la citaron como una canción revelación. La distorsión de la guitarra eléctrica simboliza la aspereza de la ciudad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 19. Tom Scott – “Today” (1973)
-Pete Rock & C.L. Smooth「They Reminisce Over You」で使用。悲しみと記憶をテーマにしたこの曲は、サンプリングが“追悼”の芸術になり得ることを示した。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KYKPc-DooNo?si=dRFaHjTgOoRW21cT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBn_oUH8Uo0?si=KqkkcQDOxXHnDnXk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 20. The Soul Searchers – “Ashley’s Roachclip” (1974)
-The Roots、Eric B. & Rakim、Arrested Developmentなどが使用。ドラムブレイクの透明感と密度が、90年代の「温かいサンプリング美学」に受け継がれた。
+#### 18. Barry White – “Te amaré un poco más, bebé” (1973)
+En el mundo del sampleo, es un símbolo de amor. Citado por The Dream y Kanye West, se extiende a ambos lados de la línea entre el alma y el deseo.
+El "sonido sostenido" de las dulces cuerdas le dio al hip-hop una sensación de lujo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/md9veYbl7wI?si=X2sEcu_lKxFEpBAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6AL1XnHJZs?si=BI01tmW68_iLGjqq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 年表：サンプリングの進化史
+#### 19. Tom Scott – “Hoy” (1973)
+Utilizado en Pete Rock y C.L. "Ellos recuerdan sobre ti" de Smooth. Esta canción, que tiene temas de tristeza y memoria, demostró que el sampleo puede ser un arte de "memorial".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KYKPc-DooNo?si=dRFaHjTgOoRW21cT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 20. Los buscadores de almas – “Ashley’s Roachclip” (1974)
+Utilizado por The Roots, Eric B. & Rakim, Arrested Development y más. La transparencia y densidad del drum break fueron heredadas por la "estética cálida del sampleo" de los años 1990.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/md9veYbl7wI?si=X2sEcu_lKxFEpBAx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+### Cronología: Historia evolutiva del muestreo.
 
 | 年代 | 出来事 |
 |------|---------|
@@ -205,33 +206,33 @@ The Roots、Eric B. & Rakim、Arrested Developmentなどが使用。ドラムブ
 
 ---
 
-### 図：サンプリングの連鎖
+### Diagrama: cadena de muestreo
 
 <div class="mermaid">
 
-graph TD
-A["1969: Amen, Brother"] --> B["1970s Funky Drummer"]
-B --> C["1980s Hip-Hop Golden Age"]
-C --> D["1990s Soul Sampling"]
-D --> E["2000s Digital Revival"]
-E --> F["2020s AI Sampling Era"]
+gráfico TD
+A["1969: Amén, hermano"] --> B["Baterista funky de los años 70"]
+B --> C["Edad de oro del hip-hop de los 80"]
+C --> D["Muestreo de alma de los años 90"]
+D --> E["Renacimiento digital de la década de 2000"]
+E --> F["Era de muestreo de IA de la década de 2020"]
 
 </div>
 
 ---
 
 
-### 結語：リズムは永遠に循環する
+### Conclusión: el ritmo es siempre cíclico
 
-サンプリングとは、他者の時間を借りて新たな時代を語る行為だ。
-その背後には、名もなきミュージシャンたちの呼吸、機材のノイズ、そして文化の継承がある。
-「同じ音が何度も蘇る」ことこそ、ポップミュージックの進化の証であり、過去と未来を繋ぐ最も人間的なテクノロジーなのだ。
+El muestreo es el acto de tomar prestado el tiempo de otra persona para hablar sobre una nueva era.
+Detrás de esto está la respiración de músicos anónimos, el ruido de los equipos y la herencia de la cultura.
+"El mismo sonido regresa una y otra vez" es una prueba de la evolución de la música pop y es la tecnología más humana que conecta el pasado y el futuro.
 
 ---
 
-### 参考
+### Referencia
 
-- [WhoSampled.com](WhoSampled.com) 
-- [The Breakbeat Bible](https://amzn.to/3J9CXma) 
+- [QuiénSampled.com](QuiénSampled.com)
+- [La Biblia Breakbeat] (https://amzn.to/3J9CXma)
 
 ---

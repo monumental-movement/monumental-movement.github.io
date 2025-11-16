@@ -5,6 +5,8 @@ categories:
 image: ../assets/images/Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bosen.webp
 lang: es
 layout: post
+permalink: /es/2025-09-02-Deutsch Amerikanische Freundschaft – Die Kleinen Und Die
+  Bosen/
 tags:
 - Experimental
 - 80s
@@ -12,11 +14,11 @@ title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 
-DAFは、1978年にドイツ・デュッセルドルフで結成されたエレクトロパンク／ノイエ・ドイチェ・ヴェレ バンド。EBM、NDW、ハウス、テクノ、NDHの先駆者として知られている。
+DAF es una banda de electropunk/Neue Deutsche Welle formada en Düsseldorf, Alemania en 1978. Conocida como pionera de EBM, NDW, house, techno y NDH.
 
-このレコードは、1980年にMute RecordsからリリースされたDAFのセカンドアルバム。
+Este disco es el segundo álbum de DAF, lanzado por Mute Records en 1980.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Osten Währt Am Längsten
 A2. Essen Dann Schlafen
@@ -40,7 +42,7 @@ B11. El Basilon
 B12. Y La Gracia
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8_nyMRQKJ9Q?si=vzj01jOqYgcLzU7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_nyMRQKJ9Q?si=vzj01jOqYgcLzU7L" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/As One – Celestial Soul.webp
 lang: es
 layout: post
+permalink: /es/2025-02-15-As One – Celestial Soul/
 tags:
 - IDM
 - Techno
 - Downtempo
 - Future Jazz
 - 90s
-title: As One – Celestial Soul
+title: Como Uno – Alma Celestial
 ---
 
 
-AS ONEは、イギリスのDJ・テクノプロデューサー Kirk Degiorgio(カーク・ディジョージオ)のソロプロジェクト名義。デトロイトテクノとファンク、ソウル、ジャズがミックスしたスタイルが特徴。
+AS ONE es el nombre del proyecto en solitario del DJ y productor de techno británico Kirk Degiorgio. Su estilo es una mezcla de techno, funk, soul y jazz de Detroit.
 
-「Celestial Soul」は、1995年にレーベルNew ElectronicaからリリースされたCD。
+"Celestial Soul" es un CD lanzado por el sello New Electronica en 1995.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Celestial Soul
 2. Ikiru
@@ -34,7 +35,7 @@ AS ONEは、イギリスのDJ・テクノプロデューサー Kirk Degiorgio(�
 11. What Might Have Been
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LSX7OegxV74?si=1BBl2UB7y0dqehNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSX7OegxV74?si=1BBl2UB7y0dqehNf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

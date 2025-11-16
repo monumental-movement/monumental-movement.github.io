@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Boris Dlugosch – Bionic Breaks.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Boris Dlugosch – Bionic Breaks/
 tags:
 - Electro
 - Hiphop
-title: Boris Dlugosch – Bionic Breaks
+title: Boris Dlugosch – Escapadas biónicas
 ---
 
 
-Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
+Boris Dlugosch es un DJ y productor house afincado en Hamburgo.
 
-Boris Dlugoschは、ハンブルグの伝説的なクラブ「FRONT（フロント）」の元レジデントDJであり、ドイツのハウスミュージックカルチャーの先駆者。
+Boris Dlugosch es un antiguo DJ residente del legendario club FRONT de Hamburgo y un pionero de la cultura de la música house alemana.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Man Parrish – Hip Hop, Be Bop (Don't Stop)
 
@@ -37,10 +38,10 @@ D2. G.L.O.B.E. & Whiz Kid – Play That Beat Mr. D.J.
 D3. Gary's Gang – Makin' Music
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89964094141?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

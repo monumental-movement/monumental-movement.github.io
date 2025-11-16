@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Fumio Miyashita - Meisou.webp
 lang: es
 layout: post
+permalink: /es/2024-06-10-Fumio Miyashita - Meisou/
 tags:
 - New Age
 - Ambient
@@ -15,21 +16,21 @@ title: Fumio Miyashita - Meisou
 ---
 
 
-宮下 富実夫は、長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者。
+Tomio Miyashita es músico, musicoterapeuta y sintetizador de la prefectura de Nagano.
 
-1965年から活動を開始し、プログレッシブ・ロック・グループ「ファー・イースト・ファミリー・バンド」を結成。ファーイーストファミリーバンドには喜多郎も在籍していた。
+Iniciaron sus actividades en 1965 y formaron el grupo de rock progresivo "Far East Family Band". Kitaro también fue miembro de Far East Family Band.
 
-国内外で、ツアー＆ヒーリングコンサートを精力的に行う一方、1988年アニメ映画「風の又三郎・どんぐりと山猫」、1990年映画「天と地と」、1992年映画「ガイアシンフォニー 第一番」、手塚治虫原作のアニメ映画の「火の鳥 鳳凰編」、平田敏夫監督「火の鳥ヤマト編」、川尻善昭監督「火の鳥宇宙編」などの映画音楽や主題歌の作曲も担当した。1997年の長野オリンピックでは招致テーマ曲「寿」を制作している。
+Mientras realiza activamente giras y conciertos de curación en Japón y en el extranjero, también apareció en la película animada de 1988 "Kaze no Matasaburo: Acorn and the Wildcat", la película de 1990 "Heaven and Earth", la película de 1992 "Gaia Symphony No. 1" y la película animada "Phoenix" basada en la obra original de Osamu Tezuka. También fue responsable de componer música y temas musicales para películas como "Phoenix Edition", "Phoenix Edition" dirigida por Toshio Hirata y "Phoenix Edition" dirigida por Yoshiaki Kawajiri. Para los Juegos Olímpicos de Nagano de 1997, compuso el tema principal de la candidatura, "Kotobuki".
 
-「瞑想」は、1989年にBIWA Recordsからリリースされたニューエイジ・アンビエントアルバム。
+"Meditation" es un álbum ambiental new age lanzado por BIWA Records en 1989.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. 水織音 - Miorine, The Sound Of Water Weaving
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

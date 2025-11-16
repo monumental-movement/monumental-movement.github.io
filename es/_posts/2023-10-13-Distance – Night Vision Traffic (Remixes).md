@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Distance – Night Vision Traffic (Remixes).webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-Distance – Night Vision Traffic (Remixes)/
 tags:
 - Dubstep
 - Industrial
 - 00s
-title: Distance – Night Vision Traffic (Remixes)
+title: Distancia – Tráfico de visión nocturna (Remixes)
 ---
 
 
-レーベルPlanet Muから2009年にリリースされた、ダブステップのオリジネーターDJ Distance(Greg Sanders)によるDubstepトラックのremix。
+Un remix de una pista de dubstep del creador del dubstep DJ Distance (Greg Sanders), lanzado en 2009 en el sello Planet Mu.
 
-A面は、ダブステップシーンの初期から活躍するUKのプロデューサーSkream（Oliver Dene Jonesオリバー・ディーン・ジョーンズ ）によるremix。
+Side A es un remix de Skream (Oliver Dene Jones), un productor británico que ha estado activo desde los primeros días de la escena dubstep.
 
-B面は、日本のダブステップミュージシャン/DJ/プロデューサーGoth-Trad（ゴス・トラッド）ことTakeaki Maruyamaによるremix。
+La cara B es un remix del músico, DJ y productor de dubstep japonés Takeaki Maruyama, también conocido como Goth-Trad.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
 B. Traffic (Goth-Trad Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Euphone – The Lakewood.webp
 lang: es
 layout: post
+permalink: /es/2024-12-07-Euphone – The Lakewood/
 tags:
 - Acid Jazz
 - Future Jazz
 - 00s
-title: Euphone – The Lakewood
+title: Euphone – El Lakewood
 ---
 
 
-Euphone(ユーフォン)は、シカゴを拠点に活動するポストロックバンド。
+Euphone es una banda de post-rock con sede en Chicago.
 
-Five Style (5スタイル)の元メンバーでありThe Lonesome Organist(ロンサムオルガニスト)名義でも活動するJeremy Jacobsenがこのアルバムから正式にメンバーとして参加している。
+Jeremy Jacobsen, ex miembro de Five Style y también conocido como The Lonesome Organist, se une oficialmente a la banda a partir de este álbum.
 
-このアルバムは、2001年に音楽誌AFTERHOURSが企画・リリースしたスペシャルアルバム。従来のポストロックスタイルをベースとしながら、アシッドジャズ、DUB、音響、ミニマルなど様々な音楽テイストを取り入れた意欲作。
+Este álbum es un álbum especial planificado y lanzado por la revista musical AFTERHOURS en 2001. Se trata de un trabajo ambicioso que incorpora varios gustos musicales como el acid jazz, el DUB, la acústica y el minimalista, basándose en el estilo tradicional post-rock.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Lakewood Burning Bad Boy
 2. Tools Of Love
@@ -31,8 +32,8 @@ Five Style (5スタイル)の元メンバーでありThe Lonesome Organist(ロ�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Mh146yM3i4?si=4IDgNRphZAQesfmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Mh146yM3i4?si=4IDgNRphZAQesfmW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

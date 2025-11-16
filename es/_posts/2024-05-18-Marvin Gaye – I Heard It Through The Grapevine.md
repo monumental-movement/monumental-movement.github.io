@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Marvin Gaye – I Heard It Through The Grapevine.webp
 lang: es
 layout: post
+permalink: /es/2024-05-18-Marvin Gaye – I Heard It Through The Grapevine/
 tags:
 - Soul
 - Funk
 - Rare
-title: Marvin Gaye – I Heard It Through The Grapevine
+title: Marvin Gaye - Lo escuché a través del Grapevine
 ---
 
 
-「I Heard It Through The Grapevine（邦題：悲しいうわさ）」は、ソウルミュージシャンのマーヴィン・ゲイによる8枚目のスタジオアルバム。
+"I Heard It Through The Grapevine" es el octavo álbum de estudio del músico soul Marvin Gaye.
 
-元々は、アルバムタイトル「In the Groove」としてリリースされていたが、 I Heard It Through The Grapevineがヒットしたため、同題名に変更された。
+El álbum se lanzó originalmente con el título "In the Groove", pero se cambió al mismo título después de que I Heard It Through The Grapevine se convirtiera en un éxito.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. You
 A2. Tear It On Down
@@ -34,7 +35,7 @@ B5. You're What's Happening (In The World Today)
 B6. There Goes My Baby
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

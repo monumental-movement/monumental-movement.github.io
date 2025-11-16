@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Strip Steve – Skip School EP.webp
 lang: es
 layout: post
+permalink: /es/2024-06-13-Strip Steve – Skip School EP/
 tags:
 - Techno
 - House
 - 00s
-title: Strip Steve – Skip School EP
+title: Strip Steve - Saltar a la escuela EP
 ---
 
 
-Boys NoizeのサポートDJとしても活躍する、フランス人 DJ ・プロデューサーのStrip Steveが2007年にBoysnoize Recordsからリリースしたテクノ・ハウストラック。収録されている「You & I」はStrip Steveの代表曲で、大ヒットとなった。別名義で、CAPTCHA 、Théo Pozogaとしても活動している。
+Una pista de techno house lanzada en Boysnoize Records en 2007 por Strip Steve, un DJ y productor francés que también trabaja como DJ de apoyo para Boys Noize. "You & I", incluida en el álbum, es la canción característica de Strip Steve y se convirtió en un gran éxito. También trabaja con otros nombres como CAPTCHA y Théo Pozoga.
 
-ジャケットデザインは、ベルリンを拠点とするニュージーランド出身のグラフィックデザイナーPaul Snowdenによるもの。 Boysnoize Records やMan Recordingsのデザインを手がけている。
+El diseño de la chaqueta es de Paul Snowden, un diseñador gráfico neozelandés afincado en Berlín. Ha diseñado diseños para Boysnoize Records y Man Recordings.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. You & I
 A2. Ready Steady
@@ -26,7 +27,7 @@ B1. Tommy Boy
 B2. Pacey's
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14082763583?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14082763583?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/670qnvQIfd4?si=OLovNaDScsAdKLhn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/670qnvQIfd4?si=OLovNaDScsAdKLhn" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

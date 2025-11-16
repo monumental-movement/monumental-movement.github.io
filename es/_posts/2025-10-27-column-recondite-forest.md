@@ -5,201 +5,202 @@ categories:
 image: ../assets/images/column-recondite-forest.webp
 lang: es
 layout: post
+permalink: /es/2025-10-27-column-recondite-forest/
 tags:
 - Techno
 - Ambient
 - Ecology
-title: 【コラム】 Reconditeと森林浴 ― テクノが森に帰るとき
+title: '[Columna] Recóndito y baño de bosque - Cuando el techno vuelve al bosque'
 ---
 
 
-## 序章：森に沈むビート
+## Prólogo: Un ritmo que se hunde en el bosque
 
 
-文：mmr｜テーマ：ドイツのミニマル・テクノ・アーティストRecondite。その音楽は人工的なシーケンスの中に、森の呼吸を聴き取ることができる。ここでは彼の作品世界と森林浴（Shinrin-yoku）の哲学的交差点を探る
+Texto: mmr | Tema: Artista alemán de minimal techno Recondite. La música permite escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
 
-Recondite――本名Lorenz Brunner。  
-彼の音楽を初めて耳にしたとき、多くの人が「寂しさ」と「静謐」を感じる。  
-だがその奥には、**自然とテクノロジーの緊張関係**が流れている。  
-ドイツ南部バイエルンの森に育ったBrunnerにとって、音は都市の産物ではなく、  
-**霧と湿気、風と影の中から生まれる有機的なもの**だった。
+Recóndito――nombre real Lorenz Brunner.
+Cuando muchas personas escuchan su música por primera vez, sienten una sensación de "soledad" y "tranquilidad".
+Sin embargo, en el fondo existe una tensión entre naturaleza y tecnología.
+Para Brunner, que creció en los bosques bávaros del sur de Alemania, el sonido no es producto de la ciudad;
+**Era algo orgánico nacido de la niebla y la humedad, el viento y la sombra**.
 
-近年、日本でも「森林浴（Shinrin-yoku）」という言葉が世界的に注目を集めている。  
-それは単なるヒーリングではなく、**人間の感覚を自然環境に再接続する行為**である。  
-この概念とReconditeの音世界は、奇妙なほど親密だ。  
-彼のミニマル・トラックは、まるで**デジタルの森を歩くような体験**を与えてくれる。
+En los últimos años, el término "baño de bosque" (Shinrin-yoku) ha atraído la atención mundial, incluso en Japón.
+No se trata sólo de curación, sino del acto de reconectar los sentidos humanos con el entorno natural.
+Este concepto y el mundo sonoro de Recondite son extrañamente íntimos.
+Sus tracks minimalistas son como caminar por un bosque digital.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章：Reconditeという現象
+## Capítulo 1: El fenómeno llamado Recóndito
 
-Reconditeは2011年のデビュー以降、プログレッシブなテクノシーンにおいて独自の位置を築いてきた。  
-Berlinのクラブ文化と距離をとりながら、彼は**孤独と自然のモチーフを融合**した。  
+Desde su debut en 2011, Recondite se ha labrado una posición única en la escena del techno progresivo.
+Aunque se distanció de la cultura de clubes berlinesa, combinó motivos de soledad y naturaleza.
 
-代表作：
+Obras representativas:
 
-- [**"On Acid" (2012)**](https://amzn.to/4oCl2TY) — Roland TB-303のアシッドサウンドを湿った空気の中で再構築。  
-- [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — 故郷の風景をモチーフにしたアルバム。山の稜線をなぞるような旋律。  
-- [**"Iffy" (2014)**](https://amzn.to/4oJaMcR) — 内省的なビートと、光が差す森の一瞬のようなトーン。  
-- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — 孤立した時間の中で生まれた作品。自然への回帰がテーマ。  
-
----
-
-## 第2章：森のサウンドスケープ
-
-Reconditeの音楽を分析すると、「低域の呼吸」と「中域の湿度」が特徴的だ。  
-Kickは常に控えめで、かわりにシンセの残響が**木々の間の空気の層**を表現する。  
-この構造は、**森林浴が人間の副交感神経を刺激するメカニズム**と呼応している。
-
-> 森林浴は、自然音・光・匂い・湿度などの複合刺激によって、  
-> 人間のストレスホルモンを減少させるとされている（林野庁調査, 2004）。
-
-Reconditeのライブでは、まるで「**電子の葉擦れ**」が会場を包み込むような感覚がある。  
-それはデジタル機材によって再現された**人工の自然**でありながら、  
-聴き手はなぜか**森に近づいた錯覚**を覚える。  
+- [**"On Acid" (2012)**](https://amzn.to/4oCl2TY) — Reconstrucción del sonido ácido de Roland TB-303 en aire húmedo.
+- [**"Hinterland" (2013)**](https://amzn.to/3X1cVo8) — Un álbum con el motivo del paisaje de mi ciudad natal. Una melodía que recorre la cresta de una montaña.
+- [**"Iffy" (2014)**](https://amzn.to/4oJaMcR) — Un ritmo introspectivo y un tono que se siente como un momento fugaz de luz en un bosque.
+- [**"Dwell" (2020)**](https://amzn.to/42VHuiH) — Una obra nacida durante una época de aislamiento. El tema es un regreso a la naturaleza.
 
 ---
 
-## 第3章：テクノとエコロジーの交差点
+## Capítulo 2: Paisaje sonoro del bosque
 
-テクノミュージックはしばしば都市的、機械的、無機質と語られる。  
-しかしReconditeのアプローチは逆だ。彼はシンセを「**風景の延長**」として扱う。  
+Al analizar la música de Recondite, se caracteriza por "respiración en los graves" y "humedad en los medios".
+Kick siempre es tenue, dejando que las reverberaciones de los sintetizadores expresen las capas de aire entre los árboles.
+Esta estructura corresponde al mecanismo por el cual los baños de bosque estimulan el sistema nervioso parasimpático en los humanos.
 
-環境哲学者ティモシー・モートンは「**ダークエコロジー**」という概念を提唱した。  
-人間が自然と完全に分離することは不可能であり、むしろ**不快な混在状態**を受け入れるべきだと。  
-Reconditeの音楽は、この思想を体現している。  
-人工的なドラムマシンが森の鼓動を模倣し、シーケンサーが風のリズムを再現する。  
-それは**自然と人工の曖昧な共存**を描くサウンド・エコロジーだ。
+> Los baños de bosque utilizan múltiples estímulos como sonidos naturales, luz, olores y humedad.
+> Se dice que reduce las hormonas del estrés en los seres humanos (encuesta de la Agencia Forestal, 2004).
 
----
-
-## 第4章：森林浴のリズムと瞑想
-
-森林浴では「**ゆっくり歩く**」「**呼吸に意識を向ける**」ことが推奨される。  
-Reconditeのトラックも同様に、**速すぎないテンポ（約110〜118BPM）**を基調としている。  
-彼のビートは瞑想的で、聴く者の心拍とシンクロするように設計されている。
-
-音楽心理学的にも、一定のテンポが**副交感神経優位の状態**を促すことが知られている。  
-そのため、Reconditeのライブ体験は単なるクラブ・イベントではなく、  
-「**都市の中の森林浴**」として機能していると言える。
+En las presentaciones en vivo de Recondite, se siente como si un ``**frotamiento electrónico de hojas**'' envolviera el lugar.
+Aunque es de **naturaleza artificial** reproducida con equipos digitales,
+Por alguna razón, el oyente siente la ilusión de estar más cerca del bosque.
 
 ---
 
-## 第5章：デジタルの樹海 ― ビジュアルと音の統合
+## Capítulo 3: La intersección del tecno y la ecología
 
-Reconditeは自身でヴィジュアルも制作する。  
-霧の立ちこめる山、木々のシルエット、凍てついた湖。  
-それらは音とともに「**電子のランドスケープ**」を構築する。  
+La música techno a menudo se describe como urbana, mecánica e inorgánica.
+Pero el enfoque de Recondite es el contrario. Trata los sintetizadores como "una extensión del paisaje".
 
-この視覚的手法は、テクノにおける**没入的エコロジー表現**の一形態と考えられる。  
-つまり、彼のライブは**音による森林浴装置**であり、  
-人間の感覚を自然的記憶へと導く**デジタルな森の再現**なのだ。
-
----
-
-## 第6章：Reconditeと日本 ― 森林文化の交点
-
-興味深いのは、Reconditeが日本に訪れた際、  
-「日本の森の静けさに深く影響を受けた」と語っている点だ（2018年インタビューより）。  
-日本の「森の気配」は、西洋の森と違い、**神話的な内省性**を帯びている。  
-この影響が、彼の後期作品のミニマリズムに顕著に現れている。  
-
-> “Silence in Japan is not empty. It has presence.”  
-> — Recondite, Tokyo Interview, 2018
-
-この「存在としての沈黙」は、まさに森林浴の本質に通じる。  
-**沈黙が音を際立たせる**。  
-彼の音楽は、その哲学を電子的に翻訳している。
+El filósofo medioambiental Timothy Morton propuso el concepto de "**ecología oscura**".
+Es imposible para los humanos separarse completamente de la naturaleza, y más bien deberíamos aceptar un **estado mixto incómodo**.
+La música de Recondite encarna esta filosofía.
+Una caja de ritmos artificial imita los latidos del bosque y un secuenciador recrea el ritmo del viento.
+Es una ecología sólida que describe la coexistencia ambigua de la naturaleza y lo creado por el hombre.
 
 ---
 
-## 第7章：作品年表（Natureとの関係軸）
+## Capítulo 4: Ritmo de baños de bosque y meditación
+
+En los baños de bosque, se recomienda ``**caminar despacio**'' y ``**concentrarse en la respiración**''.
+Las pistas de Recondite siguen de manera similar un tempo moderadamente rápido (aproximadamente 110-118 BPM).
+Sus ritmos son meditativos y están diseñados para sincronizarse con los latidos del corazón del oyente.
+
+Desde la psicología musical se sabe que un determinado tempo promueve un estado en el que el sistema nervioso parasimpático es dominante.
+Por lo tanto, la experiencia en vivo de Recondite es más que un simple evento de club;
+Se puede decir que funciona como “**Baño de Bosque en la Ciudad**”.
+
+---
+
+## Capítulo 5: Mar de árboles digital: integración de imágenes y sonidos
+
+Recondite también produce sus propios visuales.
+Montañas brumosas, siluetas de árboles y lagos helados.
+Junto con el sonido, construyen un "**paisaje electrónico**".
+
+Este método visual puede considerarse una forma de **expresión ecológica inmersiva** en techno.
+En otras palabras, su actuación en directo es un dispositivo sonoro de baño de bosque.
+Es una **reproducción de un bosque digital** que lleva los sentidos humanos a la memoria natural.
+
+---
+
+## Capítulo 6: Recóndito y Japón: la intersección de la cultura forestal
+
+Lo interesante es que cuando Recondite visitó Japón,
+"Me influyó profundamente la tranquilidad de los bosques de Japón", dijo (en una entrevista de 2018).
+A diferencia de los bosques occidentales, los "signos forestales" de Japón tienen una **introspección mítica**.
+Esta influencia es evidente en el minimalismo de sus obras posteriores.
+
+> “El silencio en Japón no está vacío. Tiene presencia”.
+> — Recondita, Entrevista en Tokio, 2018
+
+Este "silencio como existencia" es la esencia misma de los baños de bosque.
+**El silencio resalta el sonido**.
+Su música es una traducción electrónica de esa filosofía.
+
+---
+
+## Capítulo 7: Cronología de las obras (relación con la Naturaleza)
 
 <div class="mermaid">
 
-timeline
-    title Reconditeと自然モチーフの進化（2011–2025）
-    2011 : "Placid" EP — 湖面の反射をテーマにした初期作品
-    2012 : "On Acid" — 有機的アシッドサウンドの探求
-    2013 : "Hinterland" — 故郷の森を描いたコンセプトアルバム
-    2014 : "Iffy" — 光と影の心理的風景
-    2016 : "Daemmerlicht" — ピアノとアンビエントによる夜明けの森
-    2020 : "Dwell" — 孤立と自然回帰
-    2023 : "Taiga" — 北方林をテーマにした架空サウンドスケープ
+línea de tiempo
+título Recóndito y la evolución de los motivos naturales (2011-2025)
+2011: EP "Placid" — Primeros trabajos con el tema de los reflejos en un lago
+2012: "On Acid" - Exploración del sonido del ácido orgánico
+2013: "Hinterland": un álbum conceptual que representa el bosque de mi ciudad natal.
+2014: "Iffy" — Paisaje psicológico de luces y sombras.
+2016: "Daemmerlicht" — Bosque al amanecer con piano y música ambiental
+2020 : "Dwell" — Aislamiento y regreso a la naturaleza
+2023: "Taiga": un paisaje sonoro ficticio centrado en el bosque boreal.
 
 </div>
 
 ---
 
-## 第8章：音響的分析 ― 森林のリズム構造
+## Capítulo 8: Análisis acústico: estructura rítmica del bosque
 
-Reconditeのトラックを波形分析すると、
-**2〜6kHz帯の中高域が有機的に揺らぐ**よう設計されている。
-これは風や木の擦れる音のスペクトラムに近い。
+Cuando analizas la forma de onda de la pista de Recondite,
+**Diseñado para fluctuar orgánicamente el rango medio-alto en la banda de 2-6kHz**.
+Esto se acerca al espectro de los sonidos del viento y del susurro de los árboles.
 
 <div class="mermaid">
 
-graph LR
-    A["低域（50〜120Hz）"] -->|呼吸／心拍| B["中域（250〜2kHz）"]
-    B -->|葉擦れ／風| C["高域（2〜6kHz）"]
-    C -->|森の残響| D["心理的沈静"]
+gráfico LR
+A["Rango bajo (50-120 Hz)"] -->|Respiración/frecuencia cardíaca| B["Rango medio (250-2kHz)"]
+B -->|Susurro de hojas/viento| C["Rango alto (2-6kHz)"]
+C -->|Reverberaciones del bosque| D["Calmante psicológico"]
 
 </div>
 
-この「音の階層構造」は、
-自然音が人間の心理を安定させる過程を模倣している。
+Esta "estructura jerárquica del sonido" es
+Imita el proceso mediante el cual los sonidos naturales estabilizan la psique humana.
 
 ---
 
 
-## 第9章：哲学的考察 ― 森林としての自己
+## Capítulo 9: Consideraciones filosóficas - El yo como bosque
 
-Reconditeの作品を聴く行為は、
-「自然を感じる」だけでなく「自然と同化する」体験だ。
-それはまるで、**聴覚による森林浴**。
+El acto de escuchar las obras de Recondite es
+Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse con la naturaleza".
+Es como **un baño auditivo en el bosque**.
 
-哲学者モーリス・メルロ＝ポンティは、
-「身体は世界の一部であり、感覚は世界との交わりの現象だ」と述べた。
-Reconditeの音楽は、この現象学的視点を電子的に実装している。
-つまり、**音楽＝感覚の森**という新たな身体性を提示しているのだ。
-
----
-
-## 第10章：結論 ― テクノは森へ還る
-
-Reconditeの音楽は、機械による自然ではなく、
-**自然の中で機械が呼吸する**ようなバランスを保っている。
-
-森林浴が「人間を自然へ戻す」行為であるなら、
-Reconditeの音楽は「テクノを自然へ戻す」行為である。
-人工と有機、都市と森、ビートと静寂――そのすべてが彼の中で溶け合い、
-新たな「**デジタル・ネイチャーの詩学**」として響いている。
-
-> 森林浴するように、Reconditeを聴く。
-> それは、テクノが再び“生きている”ことを思い出す瞬間である。
+El filósofo Maurice Merleau-Ponty
+"El cuerpo es parte del mundo y las sensaciones son fenómenos de interacción con el mundo".
+La música de Recondite implementa electrónicamente esta perspectiva fenomenológica.
+En otras palabras, presenta una nueva fisicalidad llamada **Música = Bosque de lo Sensorial**.
 
 ---
 
-## 参考文献・出典
+## Capítulo 10: Conclusión - El techno regresa al bosque
 
-- [林野庁『森林浴の生理的効果に関する研究』（2004）](https://www.ffpri.go.jp/pubs/seikasenshu/2004/documents/p46-47.pdf)
+La música de Recondite no es de naturaleza mecánica, sino
+**Mantiene un equilibrio como una máquina que respira en la naturaleza**.
 
-- [Timothy Morton, Dark Ecology (2016)](https://amzn.to/4oa80gE)
+Si los baños de bosque son un acto de "devolver a los humanos a la naturaleza",
+La música de Recondite es un acto de "devolver el techno a la naturaleza".
+Artificial y orgánico, ciudad y bosque, ritmo y silencio: todos se funden en él.
+Resuena como una nueva "**poética de naturaleza digital**".
 
-- [Recondite Interview, XLR8R (2018)](https://xlr8r.com/features/ask-the-experts-recondite)
+> Escucha Recondite como si te estuvieras dando un baño de bosque.
+> Ese es el momento en el que recordamos que el techno está "vivo" nuevamente.
+
+---
+
+## Referencias/Fuentes
+
+- [Agencia Forestal "Investigación sobre los efectos fisiológicos de los baños de bosque" (2004)](https://www.ffpri.go.jp/pubs/seikasenshu/2004/documents/p46-47.pdf)
+
+- [Timothy Morton, Ecología oscura (2016)](https://amzn.to/4oa80gE)
+
+- [Entrevista recóndita, XLR8R (2018)](https://xlr8r.com/features/ask-the-experts-recondite)
 
 ---

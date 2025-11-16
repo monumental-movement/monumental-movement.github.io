@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes/
 tags:
 - Techno
 - Hard Trance
@@ -12,10 +13,10 @@ title: Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes
 ---
 
 
-「XVX vs. Monotone Tremora Del Terra The Remixes」は、
-1993年にドイツのレーベル「Mono Tone」からリリースされたDoug OsborneとGordon MatthewmanによるユニットIlluminataeのEPです。
+"XVX vs. Monotone Tremora Del Terra The Remixes"
+Este es un EP de la unidad Illuminatae de Doug Osborne y Gordon Matthewman, lanzado en 1993 en el sello alemán "Mono Tone".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Tremora Del Terra (Biochip C. Rmx)
 
@@ -24,7 +25,7 @@ B1. Tremora Del Terra (XVX Rmx)5:37
 B2. Tremora Del Terra (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31324593280?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m31324593280?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcgIonRH-lo?si=xvfB5TEm4MbNysrW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcgIonRH-lo?si=xvfB5TEm4MbNysrW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

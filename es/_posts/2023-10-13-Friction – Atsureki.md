@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Friction – 軋轢.webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-Friction – Atsureki/
 tags:
 - Rock
 - Punk
-title: Friction – 軋轢
+title: Fricción – fricción
 ---
 
 
-「軋轢」は、日本のパンク・ロックバンドFriction（フリクション ）の1980年リリースの初のフル・スタジオ・アルバム。プロデューサー・エンジニアは坂本龍一。このアルバムは2005年の再発盤。
+"Friction" es el primer álbum de estudio completo de la banda japonesa de punk rock Friction, lanzado en 1980. El productor e ingeniero es Ryuichi Sakamoto. Este álbum es una reedición de 2005.
 
-【参加メンバー】
-・レック - ボーカル、ベース、ギター
-・ツネマツマサトシ - ギター
-・チコ・ヒゲ - ドラムス、サックス
+[Miembros participantes]
+・Rec: voz, bajo, guitarra
+・Satoshi Tsunematsu - Guitarra
+・Chico Hige – batería, saxofón
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -33,7 +34,7 @@ title: Friction – 軋轢
 10. Out
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

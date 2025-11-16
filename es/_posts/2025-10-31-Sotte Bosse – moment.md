@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Sotte Bosse – moment.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-Sotte Bosse – moment/
 tags:
 - Vocal
 - Ballad
 - Bossa Nova
 - Jpop
-title: Sotte Bosse – moment
+title: Sotte Bosse – momento
 ---
 
 
-Sotte Bosse（ソット ボッセ）は、クラブジャズユニットi-depのナカムラヒロシとCanaによるスペシャルユニット。J-POPをボサノヴァ・ジャズ風にカバーするスタイルが特徴。
+Sotte Bosse es una unidad especial compuesta por Hiroshi Nakamura y Cana de la unidad de jazz del club i-dep. Su estilo se caracteriza por versionar el J-POP en un estilo bossa nova/jazz.
 
-2007年にリリースした「moment」は、Sotte Bosse（ソット ボッセ）3枚目のアルバム。
+"Moment", lanzado en 2007, es el tercer álbum de Sotte Bosse.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. 瞳がほほえむから
 2. 君がいるだけで
@@ -33,4 +34,4 @@ Sotte Bosse（ソット ボッセ）は、クラブジャズユニットi-depの
 11. ひとひら
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27420865512?afid=6142608987){: .button1}

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Lauren Mitchell – All That I Can Be.webp
 lang: es
 layout: post
+permalink: /es/2025-06-15-Lauren Mitchell – All That I Can Be/
 tags:
 - Electronic
 - Pop
 - Europop
 - 80s
-title: Lauren Mitchell – All That I Can Be
+title: Lauren Mitchell – Todo lo que puedo ser
 ---
 
 
 
-1989年にレーベルTrax Music からリリースされたユーロポップ。
+Europop lanzado en 1989 por el sello Trax Music.
 
-プロデューサーは、映画『セント・エルモス・ファイアー』の主題歌「セント・エルモス・ファイアー」 で知られるイギリスの歌手John Parr(ジョン・パー)。
+El productor es el cantante británico John Parr, conocido por ``St. Elmo's Fire", el tema principal de la película "St. El fuego de Elmo."
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. All That I Can Be (Extended Mix)
 
@@ -28,9 +29,9 @@ B1. S.C.R.A.T.C.H.
 B2. All That I Can Be (7" Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91170141673?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91170141673?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AYjyUmreBxw?si=HkObQZ1lgTy-XnLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AYjyUmreBxw?si=HkObQZ1lgTy-XnLg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNjR2vYr6_k?si=5Jbgz0c3Dfzy36I4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNjR2vYr6_k?si=5Jbgz0c3Dfzy36I4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

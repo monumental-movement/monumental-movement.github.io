@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Johannes Heil – Leagues Under The Skin.webp
 lang: es
 layout: post
+permalink: /es/2023-09-16-Johannes Heil – Leagues Under The Skin/
 tags:
 - Techno
 - German Techno
-title: Johannes Heil – Leagues Under The Skin
+title: Johannes Heil – Ligas bajo la piel
 ---
 
 
-ヨハネス・ハイルの音楽は、ダークでエモーショナルな雰囲気&力強いビートと独特なサウンドデザインが特徴です。
+La música de Johannes Heil se caracteriza por una atmósfera oscura y emocional, ritmos potentes y un diseño de sonido único.
 
-彼のトラックはテクノミュージックシーンやアンダーグラウンドシーンで高い評価を受けており、その独自のサウンドスタイルとエネルギーが魅力とされています。
+Sus temas son muy aclamados en la escena de la música techno y underground, y son conocidos por su estilo de sonido y energía únicos.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  20.000 Leagues Under The Skin Pt.04
 
@@ -38,7 +39,7 @@ D1  20.000 Leagues Under The Skin Pt.10
 D2  20.000 Leagues Under The Skin Pt.01
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m88455250151?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b578n6nGPTw?si=FLBzLF9JjEySdQBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b578n6nGPTw?si=FLBzLF9JjEySdQBq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

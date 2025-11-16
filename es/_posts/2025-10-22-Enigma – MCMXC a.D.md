@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Enigma – MCMXC a.D.webp
 lang: es
 layout: post
+permalink: /es/2025-10-22-Enigma – MCMXC a.D/
 tags:
 - Downtempo
 - Ambient
@@ -13,11 +14,11 @@ title: Enigma – MCMXC a.D
 ---
 
 
-Enigma(エニグマ)は、Michael Cretu(マイケル・クレトゥ)によって設立されたドイツの音楽プロジェクト。
+Enigma es un proyecto musical alemán fundado por Michael Cretu.
 
-1990年にリリースした「MCMXC a.D.」は、Enigmaのファーストスタジオアルバムであり代表作。
+"MCMXC a.D.", lanzado en 1990, es el primer álbum de estudio y obra maestra de Enigma.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 I. The Voice Of Enigma
 
@@ -36,7 +37,7 @@ VII.B. Hallelujah
 VII.C. The Rivers Of Belief
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71904376964?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m71904376964?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_4tJ2iQPkY4?si=yoxyMMgji5k1yQxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_4tJ2iQPkY4?si=yoxyMMgji5k1yQxU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

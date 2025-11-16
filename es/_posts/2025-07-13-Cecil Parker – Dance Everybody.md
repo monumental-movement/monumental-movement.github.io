@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Cecil Parker – Dance Everybody.webp
 lang: es
 layout: post
+permalink: /es/2025-07-13-Cecil Parker – Dance Everybody/
 tags:
 - House
 - Funk
 - Soul
 - 90s
-title: Cecil Parker – Dance Everybody
+title: Cecil Parker - Bailen todos
 ---
 
 
-Cecil Parker(セシル・パーカー)は、フィラデルフィア出身の4オクターブを自在に操るボーカリスト&ソングライター。
+Cecil Parker es un vocalista y compositor de cuatro octavas de Filadelfia.
 
-1980年にリリースしたソウルフルなバラード「Really, Really Love You」と「Love Is」でよく知られている。
+Mejor conocido por las baladas conmovedoras "Really, Really Love You" y "Love Is", lanzadas en 1980.
 
-「Dance Everybody」は、1992年に初期のUSハウスレーベルEcho USAのサブレーベルEcho DanceからリリースされたHouseトラック。プロデューサーはJeffrey Collins、リミックスはJames BrattonとMarlon Grant。
+"Dance Everybody" es una canción House lanzada en 1992 en Echo Dance, un subsello del primer sello house estadounidense Echo USA. Producido por Jeffrey Collins, remezclado por James Bratton y Marlon Grant.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Dance Everybody (Club Remix)
 A2. Dance Everybody (Club Dub)
@@ -30,7 +31,7 @@ B1. Dance Everybody (Original Vocal)
 B2. Dance Everybody (Backburner Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

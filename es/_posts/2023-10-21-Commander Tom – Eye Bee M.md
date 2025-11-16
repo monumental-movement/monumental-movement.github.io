@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Commander Tom – Eye Bee M.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Commander Tom – Eye Bee M/
 tags:
 - Techno
 - German Techno
-title: Commander Tom – Eye Bee M
+title: Comandante Tom – Eye Bee M
 ---
 
 
-Commander Tom（コマンダー・トム）は、ドイツ出身のテクノDJ・プロデューサー。「Eye Bee M」はCommander Tomの代表曲の一つ。B面は、サンフランシスコのサイバートランスのパイオニアMars & Mystreで知られるMarsが参加した一曲。
+Commander Tom es un DJ y productor de techno de Alemania. "Eye Bee M" es una de las canciones emblemáticas del comandante Tom. La cara B es una canción con Mars, conocido por los pioneros del cibertrance de San Francisco, Mars & Mystre.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Eye Bee M
 
 B. Trip To Mars
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76767302335?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76767302335?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zqzLm_hWBfU?si=tnSSmsHbxvOVtRQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqzLm_hWBfU?si=tnSSmsHbxvOVtRQX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xCBy2F0AWms?si=RSAF-Bk2ONdbquJx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCBy2F0AWms?si=RSAF-Bk2ONdbquJx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

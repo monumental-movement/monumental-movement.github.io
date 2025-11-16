@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Dieselboy – The Director's Cut.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Dieselboy – The Directors Cut/
 tags:
 - Drum n Bass
 - Rare
-title: Dieselboy – The Director's Cut
+title: Dieselboy – La versión del director
 ---
 
 
-USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼルボーイによるキラーテックモーディーなドラムンベースミックスのレアテープです。
+Esta es una cinta poco común de una excelente mezcla de drum and bass con estilo tecnológico realizada por Diesel Boy, un DJ abrumadoramente talentoso y popular en la escena del drum and bass de Estados Unidos.
 
-このミックスも素晴らしく、タイミング、EQ、レベル、トランジション、すべてがピンポイントで彼のスキルを証明する素晴らしい代表例です。
+Esta mezcla también es excelente, con sincronización, ecualización, niveles y transiciones acertadas, un gran ejemplo de sus habilidades.
 
-いつまでも、聴き直したくなるミックスです。
+Es una mezcla que querrás escuchar una y otra vez para siempre.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Side A
 
@@ -55,7 +56,7 @@ B. Side B
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

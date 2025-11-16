@@ -5,120 +5,122 @@ categories:
 image: ../assets/images/column-ambient.webp
 lang: es
 layout: post
+permalink: /es/2025-07-16-Column-Ambient/
 tags:
 - Ambient
 - 90s
 - 80s
 - 70s
-title: 【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学
+title: '[Columna] ¿Qué es la música ambiental? Filosofía de “sonidos que existen”
+  en lugar de sonidos que se escuchan'
 ---
 
 
-## 「聴く音楽」から「感じる音楽」へ
+## De “música para escuchar” a “música para sentir”
 
-文：mmr｜テーマ：Ambient・環境音楽・電子音楽文化論
+Texto: mmr｜Tema: Ambiente, música ambiental, teoría de la cultura de la música electrónica.
 
-Ambient（アンビエント）とは、リスナーに“積極的に聴かれる”ことを目的とせず、“空間に存在する”ことを意図した音楽ジャンルである。明確なメロディやリズムを排除し、代わりに持続音（ドローン）・環境音（フィールドレコーディング）・音響処理などを用いて、聴覚的な風景を構築する。
+El ambiente es un género de música que no pretende ser "escuchado activamente" por los oyentes, sino más bien "existir en un espacio". Elimina melodías y ritmos claros y, en su lugar, utiliza sonidos sostenidos (drones), sonidos ambientales (grabaciones de campo) y procesamiento acústico para construir paisajes auditivos.
 
-このジャンルは音楽とアート、音響と空間、知覚と意識の境界に立つ、極めて哲学的な音楽である。
+Este género es una música extremadamente filosófica que se encuentra en la frontera entre la música y el arte, el sonido y el espacio, la percepción y la conciencia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### ブライアン・イーノの言葉から
+### De las palabras de Brian Eno
 
-アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作[『Ambient 1: Music for Airports』](https://amzn.to/48shEpU)において、以下のように述べている：
+Fue el músico británico Brian Eno quien definió el término ambient como género musical. En 1978, escribió lo siguiente en su obra maestra [Ambient 1: Music for Airports] (https://amzn.to/48shEpU):
 
-“Ambient music must be able to accommodate many levels of listening attention without enforcing one in particular; it must be as ignorable as it is interesting.”
-「アンビエント音楽は、聴かれることを強制せず、同時に無視されることも許容するものでなければならない。」
+"La música ambiental debe ser capaz de adaptarse a muchos niveles de atención auditiva sin forzar uno en particular; debe ser tan ignorable como interesante".
+"La música ambiental no debe obligarse a ser escuchada, pero al mismo tiempo debe permitir que la ignoren".
 
-つまりアンビエントは、BGMではないがBGMのようにも機能する音楽。**意識の背景で流れる“空間芸術”**である。
-
-
-<hr>
-
-### アンビエントの系譜と起源
-
-**● 先史時代：環境音楽の萌芽**
-
-[**エリック・サティ（Eric Satie）**](https://amzn.to/3Iqa4li)：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-[**ジョン・ケージ（John Cage）**](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-**● 1970年代：アンビエントの確立**
-
-[**ブライアン・イーノ（Brian Eno）**](https://amzn.to/4h5oST4)：アンビエントという言葉を初めて明示的に使用。
-
-代表作：
-
-- [**Discreet Music（1975）**](https://amzn.to/4nafH64)
-
-- [**Ambient 1: Music for Airports（1978）**](https://amzn.to/48shEpU)
-
----
-
-**● 1980〜1990年代：電子音楽との融合**
-
-[Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：ジャーマン・エレクトロニクスとの融合。
-
-[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
-
-Ambient House / Ambient Technoの隆盛。
-
----
-
-**● 2000年以降：ジャンルを越えた浸透**
-
-映像作品、現代美術、ヨガ、瞑想、ゲーム音楽、VR空間へと進出。
-
-Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
+En otras palabras, la música ambiental no es música de fondo, pero funciona como música de fondo. **Es “arte espacial” que fluye en el fondo de la conciencia**.
 
 
 <hr>
 
-### 輪郭を持たない音の建築
+### Genealogía y orígenes del ambient.
+
+**● Prehistoria: El germen de la música ambiental**
+
+[**Eric Satie**](https://amzn.to/3Iqa4li): Compositor de finales del siglo XIX. Presentando el concepto de "Musique d'ameublement" (música de muebles), música que funciona como mueble.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+[**John Cage**](https://amzn.to/3Vrlzf8): Propone la idea vanguardista de que "el entorno en sí es música" con música silenciosa "4'33".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+**● Década de 1970: Establecimiento del ambiente**
+
+[**Brian Eno**](https://amzn.to/4h5oST4): Primer uso explícito de la palabra ambiente.
+
+Obras representativas:
+
+- [**Música discreta (1975)**](https://amzn.to/4nafH64)
+
+- [**Ambiente 1: Música para aeropuertos (1978)**](https://amzn.to/48shEpU)
+
+---
+
+**● Década de 1980-1990: Fusión con la música electrónica**
+
+[Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief): Fusión con la electrónica alemana.
+
+[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps): Reconstrucción ambiental desde una perspectiva techno a IDM.
+
+El auge del Ambient House/Ambient Techno.
+
+---
+
+**● Desde 2000: Penetración más allá de los géneros**
+
+Expandiéndose a obras de video, arte contemporáneo, yoga, meditación, música de juegos y espacio de realidad virtual.
+
+Las listas de reproducción "relajadas" y "lo-fi" de Spotify también se ven afectadas.
+
+
+<hr>
+
+### Arquitectura del sonido sin contornos
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>要素</th>
-      <th>内容</th>
+<th>elemento</th>
+<th>Contenido</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>メロディ</td>
-      <td>最小限。しばしばドローン的、浮遊感がある。</td>
+<td>Melodía</td>
+<td>Mínimo. A menudo tiene una sensación flotante similar a la de un dron. </td>
     </tr>
     <tr>
-      <td>リズム</td>
-      <td>基本的に不在。あってもミニマルで意識されにくい。</td>
+<td>Ritmo</td>
+<td>Básicamente ausente. Incluso si lo es, es mínimo y difícil de notar. </td>
     </tr>
     <tr>
-      <td>音響処理</td>
-      <td>リバーブ、ディレイ、ループ、フィルターなど。音の空間化。</td>
+<td>Procesamiento acústico</td>
+<td>Reverberación, retardo, bucle, filtro, etc. Espacialización del sonido. </td>
     </tr>
     <tr>
-      <td>構造</td>
-      <td>明確な起承転結はなく、時間軸が曖昧。</td>
+<td>Estructura</td>
+<td>No hay un comienzo, desarrollo, desarrollo, conclusión claros y el cronograma es ambiguo. </td>
     </tr>
     <tr>
-      <td>音源</td>
-      <td>シンセ、フィールド録音、楽器のサンプリング、ノイズ等。</td>
+<td>Fuente de sonido</td>
+<td>Sintetizadores, grabaciones de campo, muestreo de instrumentos, ruido, etc. </td>
     </tr>
     <tr>
-      <td>聴取態度</td>
-      <td>積極的な集中も、受動的な没入も許される。</td>
+<td>Actitud de escucha</td>
+<td>Se permiten tanto la concentración activa como la absorción pasiva. </td>
     </tr>
   </tbody>
 </table>
@@ -128,146 +130,146 @@ Spotifyの「チル」や「Lo-fi」系プレイリストにも影響。
 
 <hr>
 
-### 主なサブジャンルとその特徴
+### Principales subgéneros y sus características
 
-**● ダーク・アンビエント（Dark Ambient）**
+**● Ambiente oscuro**
 
-不穏なドローン、インダストリアルな質感。
+Un drone inquietante, textura industrial.
 
-アーティスト：[Lustmord](https://amzn.to/3IAUS4H), [Raison d’être](https://amzn.to/4nJFtOu)
+Artista: [Lustmord](https://amzn.to/3IAUS4H), [Razón de ser](https://amzn.to/4nJFtOu)
 
-**● アンビエント・テクノ（Ambient Techno）**
+**● Tecno ambiental**
 
-テクノのリズムにアンビエントの空間処理を融合。
+Fusionando el ritmo techno con el procesamiento espacial ambiental.
 
-**アーティスト**：[The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
+**Artista**: [The Orb](https://amzn.to/48qQQ9x), [Comunicación global](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
-**● アンビエント・ドローン**
+**●Dron ambiental**
 
-音の揺らぎ、微細な変化による深い没入。
+Inmersión profunda a través de fluctuaciones sonoras y cambios diminutos.
 
-アーティスト：[Stars of the Lid](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
+Artista: [Estrellas de la tapa](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
-**● アンビエント・インダストリアル**
+**●Ambiente industrial**
 
-工場音、機械ノイズを音楽化。
+Musiciza sonidos de fábrica y ruidos de máquinas.
 
-**アーティスト**：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
+**Artista**: [Enfermera con herida](https://amzn.to/46QgJyk), [Bobina](https://amzn.to/48sI7nd)
 
-**● ニューエイジ／チルアウト系**
+**●Nueva Era/Chillout**
 
-リラクゼーションや瞑想を目的にしたアンビエント。
+Música ambiental para la relajación y la meditación.
 
-[Enya](https://amzn.to/46vL0Bg)、[Steve Roach](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB) など。
+[Enya](https://amzn.to/46vL0Bg), [Steve Roach](https://amzn.to/3VrnzEa), [Laraaji](https://amzn.to/42KqUSB), etc.
 
-
-
-<hr>
-
-### アンビエントは空間芸術である
-
-アンビエント音楽は単なるBGMではなく、次のような思想・芸術概念とも深く結びついている。
-
-**● ミニマリズムと時間芸術**
-
-アンビエントは「静けさ」「余白」「持続」を重視する。
-
-建築、現代美術（[マーク・ロスコ](https://amzn.to/48uPz1g)、[ドナルド・ジャッド](https://amzn.to/3W0xzEv)）との親和性。
-
-**● サイバーパンクと未来都市**
-
-近未来都市、無機質な空間に馴染む音。
-
-映画[『ブレードランナー』](https://amzn.to/4gzcASG)[『攻殻機動隊』](https://amzn.to/4gy1ZaG)などのサウンドスケープ。
-
-**● 自然回帰と瞑想文化**
-
-フィールドレコーディングや自然音を用いて人工と自然の融合を図る。
-
-現代のメンタルヘルス／瞑想／スローテックと結びつきが強い。
 
 
 <hr>
 
-### 現代におけるアンビエントの役割
+### El ambiente es arte espacial.
 
-**ゲーム音楽**： [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P) などで使用。
+La música ambiental no es sólo música de fondo, también está profundamente conectada con las siguientes ideas y conceptos artísticos.
 
-**ASMR / 瞑想 / ストレス緩和**： 精神医療やウェルネス業界でも活用。
+**● Minimalismo y Arte del Tiempo**
 
-NFTアートやジェネレーティブ・ミュージックとの融合も進行中。
+La música ambiental enfatiza la "quietud", el "espacio en blanco" y la "sostenibilidad".
+
+Afinidad con la arquitectura y el arte contemporáneo ([Mark Rothko](https://amzn.to/48uPz1g), [Donald Judd](https://amzn.to/3W0xzEv)).
+
+**● Cyberpunk y la ciudad del futuro**
+
+Un sonido que se funde con el espacio inorgánico de una ciudad futurista.
+
+Paisajes sonoros de películas como "Blade Runner" (https://amzn.to/4gzcASG) y "Ghost in the Shell" (https://amzn.to/4gy1ZaG).
+
+**● Regreso a la naturaleza y la cultura de la meditación**
+
+Utilizando grabaciones de campo y sonidos naturales, su objetivo es fusionar lo natural y lo creado por el hombre.
+
+Fuertemente conectado con la salud mental moderna, la meditación y la tecnología lenta.
 
 
 <hr>
 
-### アンビエントとは「音楽」と「空間」の交差点
+### El papel del ambiente en los tiempos modernos
 
-アンビエントとは、音楽の“中心”ではなく、“周辺”にあるもの。旋律やリズムではなく、空気、時間、感覚、意識の変容を扱う芸術である。
+**Música de juego**: Se utiliza en [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P), etc.
 
-それは、音楽という枠組みを越え、都市のノイズの中の静寂や、記憶と記憶の隙間に入り込むような音。耳で聴くというより、空間ごと感じる音なのだ。
+**ASMR/Meditación/Alivio del estrés**: También se utiliza en las industrias de la salud mental y el bienestar.
+
+También está en marcha la fusión con el arte NFT y la música generativa.
+
 
 <hr>
 
-### List
+### El ambiente es la intersección de “música” y “espacio”
+
+El ambiente es música que no está en el centro de la música, sino en la periferia. Es un arte que no se ocupa de la melodía o el ritmo, sino de la transformación de la atmósfera, el tiempo, la sensación y la conciencia.
+
+Es un sonido que trasciende el marco de la música y se adentra en el silencio en medio del ruido de la ciudad y los espacios entre los recuerdos. En lugar de oírlo con los oídos, es un sonido que puedes sentir en el espacio.
+
+<hr>
+
+### Lista
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>アーティスト/タイトル</th>
-      <th>年代</th>
-      <th>フォーマット</th>
-      <th>ジャンル／特徴</th>
+<th>Artista/Título</th>
+<th>era</th>
+<th>Formato</th>
+<th>Género/Características</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc  <br />– <em>Podval EP</em></a></td>
-      <td>2012</td>
-      <td>限定Vinyl</td>
-      <td>Ambient Techno、ドープなサウンドスケープ</td>
+<td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
+<td>2012</td>
+<td>Vinilo limitado</td>
+<td>Ambient Techno, paisaje sonoro genial</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
-      <td>1996</td>
-      <td>2LP Vinyl</td>
-      <td>IDM/テクノ寄りの90年代アンビエント傑作</td>
+<td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Continuo espacio-tiempo <br />- <em>Emitir Ecaps</em></a></td>
+<td>1996</td>
+<td>Vinilo 2LP</td>
+<td>Obra maestra ambiental de los 90 con inclinación IDM/techno</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
-      <td>1996</td>
-      <td>12″</td>
-      <td>トランス系アンビエント</td>
+<td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Habitaciones secretas…</em></a></td>
+<td>1996</td>
+<td>12″</td>
+<td>Ambiente de trance</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
-      <td>1997</td>
-      <td>12”</td>
-      <td>実験トリップホップ／アンビエント</td>
+<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Bucle H H aterrador…</em></a></td>
+<td>1997</td>
+<td>12”</td>
+<td>Viaje experimental/ambiente</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
-      <td>2023</td>
-      <td>Vinyl EP</td>
-      <td>チルアウト・バレアリック</td>
+<td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calma <br />- <em>Gente de…</em></a></td>
+<td>2023</td>
+<td>EP de vinilo</td>
+<td>Chillout Balear</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
-      <td>2004</td>
-      <td>Vinyl</td>
-      <td>ミニマルアンビエント</td>
+<td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>¡Naturaleza Morte!</em></a></td>
+<td>2004</td>
+<td>Vinilo</td>
+<td>Ambiente mínimo</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
-      <td>1994</td>
-      <td>2LP Vinyl</td>
-      <td>アンビエント×ダブ×ジャズなど融合サウンド</td>
+<td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Sr. En blanco <br />- <em>Sobre el terreno</em></a></td>
+<td>1994</td>
+<td>Vinilo 2LP</td>
+<td>Fusión de sonido de ambient x dub x jazz, etc.</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
-      <td>1992</td>
-      <td>CD</td>
-      <td>ワールド・アンビエント／ダウンテンポ</td>
+<td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Bosque Profundo <br />- <em>Bosque Profundo</em></a></td>
+<td>1992</td>
+<td>CD</td>
+<td>Ambiente mundial/Downtempo</td>
     </tr>
   </tbody>
 </table>
@@ -276,6 +278,6 @@ NFTアートやジェネレーティブ・ミュージックとの融合も進�
 
 ---
 
-### 関連コラム
+### Columnas relacionadas
 
-🔗  [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)

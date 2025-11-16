@@ -5,129 +5,131 @@ categories:
 image: ../assets/images/column-new-wave.webp
 lang: es
 layout: post
+permalink: /es/2025-08-24-Column-New-Wave/
 tags:
 - New-Wave
 - 80s
-title: 【コラム】 ニューウェーブ（New Wave）──ポストパンク以降の音楽革新と80年代都市文化の交差点
+title: '[Columna] New Wave: La intersección de la innovación musical post-punk y la
+  cultura urbana de los 80'
 ---
 
 
-## ニューウェーブは単なるジャンルではなく、**パンク後の実験精神を受け継ぎ、多様な音楽と文化を融合させた「時代の感性」**
+## New Wave no es sólo un género, sino una ``sensibilidad de los tiempos'' que hereda el espíritu experimental de la era post-punk y fusiona diversas músicas y culturas.**
 
 
-文：mmr｜テーマ：ポストパンク時代の芸術運動
-
-<hr>
-
-### ポストパンクからニューウェーブへ
-
-1976年のパンク・ムーブメントは「シンプルで速く、反体制的」という直接性を武器に音楽シーンを揺るがした。しかしその爆発力は短命で、パンクの商業化が進むと同時に、多くのアーティストは「パンクの精神」を維持しつつ、音楽的拡張を模索した。
-
-この試みの中から生まれた総称が「ニューウェーブ（New Wave）」である。学術的観点から言えば、ニューウェーブはポストパンク以降の多様な音楽的展開を包括する概念であり、厳密なジャンル名というよりも、時代の意識や感性を指す文化的ラベルであった。
+Texto: mmr｜Tema: Movimientos artísticos en la era post-punk
 
 <hr>
 
-### 音楽的特徴と技術革新
+### Del post-punk a la nueva ola
 
-ニューウェーブの音楽的特徴は、以下の要素に整理できる：
+El movimiento punk de 1976 sacudió la escena musical con su franqueza de ser "simple, rápido y antisistema". Sin embargo, su poder explosivo duró poco y, a medida que el punk se comercializó cada vez más, muchos artistas buscaron expansión musical manteniendo al mismo tiempo el "espíritu punk".
 
-- **シンセサイザーの台頭**
+El término general que nació de este experimento fue "Nueva Ola". Desde una perspectiva académica, la nueva ola es un concepto que abarca una variedad de desarrollos musicales desde el post-punk, y más que un nombre estricto de género, es una etiqueta cultural que se refiere a la conciencia y sensibilidad de la época.
 
-アナログ・シンセ、ドラムマシンの普及により、機械的かつ未来的なサウンドが生み出された。Gary NumanやUltravoxはその代表例である。
+<hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vIdbeJzjKSs?si=7t-Vdyzk7BsEzK9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Funciones musicales e innovaciones.
+
+Las características musicales del new wave se pueden organizar en los siguientes elementos:
+
+- **Auge del sintetizador**
+
+Con la difusión de los sintetizadores analógicos y las cajas de ritmos, se crearon sonidos mecánicos y futuristas. Gary Numan y Ultravox son buenos ejemplos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIdbeJzjKSs?si=7t-Vdyzk7BsEzK9n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-- **ジャンル横断性**
+- **Multigénero**
 
-ファンクのリズム（Talking Heads）、レゲエのグルーヴ（The Police）、ディスコ的なダンス感（Blondie）などを自在に取り込み、ジャンルの境界を越えた。
+Incorporaron libremente ritmos funk (Talking Heads), ritmos de reggae (The Police) y sentimiento de baile disco (Blondie), trascendiendo las fronteras del género.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zPwMdZOlPo8?si=P34k6oSAFvO22UK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-- **ポップと実験の共存**
-
-Joy DivisionやThe Cureのようにダークで実験的なサウンドを追求する一方、Duran DuranやSpandau Balletは華やかでキャッチーなポップ性を志向した。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J5ebkj9x5Ko?si=2KxYbmIbWGFdD58L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zPwMdZOlPo8?si=P34k6oSAFvO22UK3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-- **社会批評とアイロニー**
+- **Convivencia entre pop y experimentación**
 
-歌詞には都市生活の疎外感、冷戦下の不安、テクノロジー社会への風刺などが反映された。Devoの皮肉的パフォーマンスはその象徴だ。
+Mientras Joy Division y The Cure perseguían un sonido oscuro y experimental, Duran Duran y Spandau Ballet buscaban un estilo pop llamativo y pegadizo.
 
-音楽学的に見れば、ニューウェーブはパンクの三和音的シンプルさを基盤に、電子音響の拡張とアートロック的知性を付与した運動と位置づけられる。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<hr>
-
-### ファッションとサブカルチャー
-
-ニューウェーブは音楽だけでなく、視覚文化の運動でもあった。
-
-- **MTVの登場（1981年）**
-
-音楽ビデオがプロモーションの中心となり、Duran DuranやA Flock of Seagullsのようなバンドは映像美学と音楽を一体化させ、ニューウェーブを「視覚と音の融合ジャンル」とした。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=4mHQUF8UG1Z67hOz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5ebkj9x5Ko?si=2KxYbmIbWGFdD58L" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-- **ファッション**
+- **Crítica social e ironía**
 
-パンクのDIY精神を継承しつつ、ネオ・ロマンティック派は華美で中性的なファッションを提示。シルクのシャツ、アイライナー、鮮烈な色彩が象徴的だった。一方、シンセポップ系はモノクロームな近未来的衣装で「冷たい都会性」を演出した。
+La letra reflejaba la alienación de la vida urbana, las ansiedades de la Guerra Fría y la sátira de la sociedad tecnológica. La actuación sarcástica de Devo es un símbolo de esto.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eGlsCT4lAM0?si=lzHIXxRuSrfdPoiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Desde una perspectiva musical, la new wave puede verse como un movimiento basado en la simplicidad triádica del punk, con la expansión del sonido electrónico y la inteligencia del art rock.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+<hr>
+
+### Moda y subcultura
+
+La New Wave no fue sólo un movimiento en la música, sino también en la cultura visual.
+
+- **La llegada de MTV (1981)**
+
+Los videos musicales se convirtieron en el foco de la promoción, y bandas como Duran Duran y A Flock of Seagulls integraron la estética visual y la música, haciendo de la nueva ola un "género de fusión visual y sonoro".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=4mHQUF8UG1Z67hOz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-- **アートとの関係**
+- **Moda**
 
-NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアートやコンセプチュアルアートの影響を取り入れた。英国ではVivienne Westwoodのファッションや、ポップアート以降のデザイン感覚が直結している。
+Si bien heredó el espíritu DIY del punk, el neoromanticismo presentó una moda hermosa y andrógina. Las camisas de seda, el delineador de ojos y los colores brillantes eran icónicos. Por otro lado, el grupo de synth pop creó una "atmósfera urbana fría" con trajes futuristas monocromáticos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGlsCT4lAM0?si=lzHIXxRuSrfdPoiH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+---
 
-### 社会的・地政学的文脈
+- **Relación con el arte**
 
-ニューウェーブの多様性は、その誕生した社会背景と深く結びついている。
+Talking Heads de Nueva York se centra en el graduado de la escuela de arte David Byrne e incorpora influencias del arte minimalista y el arte conceptual. En el Reino Unido, la sensibilidad del diseño de moda y el arte post-pop de Vivienne Westwood están directamente conectadas.
 
-- **イギリス**：70年代後半の経済危機、サッチャー政権下の失業率上昇。若者は「明日なき閉塞感」を抱え、それを音楽とファッションに投影した。
-
-- **アメリカ**：ニューヨークのアートシーン（CBGB、Mudd Club）と連動し、パンク後の知的実験音楽として広がった。
-
-- **日本**：高度経済成長の余韻とテクノロジーの進展を背景に、YMOやプラスチックスといった「テクノ・ニューウェーブ」が国際的に認知された。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rRmS8sO1fYw?si=dk81ZKx-l_K1P-aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-こうした背景から、ニューウェーブは単なる音楽ジャンルではなく、冷戦下の都市文化と世代意識の反映と捉えられる。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### 衰退と継承
+### Contexto social y geopolítico
 
-1980年代半ば以降、ニューウェーブは次第にポップ化・商業化が進み、MTV的なイメージ戦略と結びつくことで大衆文化の中へ吸収されていった。
+La diversidad de la nueva ola está profundamente ligada al contexto social en el que nació.
 
-しかしその精神は次世代へと受け継がれた：
+- **Reino Unido**: Crisis económica a finales de los años 1970, aumento de la tasa de desempleo bajo la administración Thatcher. Los jóvenes sintieron un "sentimiento de estancamiento sin un mañana" y lo proyectaron en la música y la moda.
 
-- **オルタナティブ・ロック**（R.E.M.、The Smiths、後のNirvana）
+- **América**: Vinculada a la escena artística neoyorquina (CBGB, Mudd Club), se difundió como música experimental intelectual después del punk.
 
-- **シンセポップ／エレクトロポップ**（Depeche Mode以降、現代のCHVRCHES、Grimes）
+- **Japón**: En un contexto de alto crecimiento económico y avances tecnológicos, la "nueva ola tecno" como YMO y Plastics obtuvieron reconocimiento internacional.
 
-- **ポストパンク・リバイバル**（2000年代のInterpol、Franz Ferdinand、The Strokes）
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRmS8sO1fYw?si=dk81ZKx-l_K1P-aZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-ニューウェーブは「ジャンルの壁を越え、音楽を文化的運動に昇華させた」点で、音楽史上の大きな分岐点である。
+En este contexto, la new wave no es sólo un género musical, sino un reflejo de la cultura urbana y la conciencia generacional durante la Guerra Fría.
 
 <hr>
 
-### ジャンルではなく、ポストパンク時代の芸術運動
+### Decadencia y sucesión
 
-ニューウェーブは1970年代のパンクに端を発し、音楽史においては電子技術の導入、ジャンル横断性、社会批評性を兼ね備えた重要な運動だった。そして同時に、ファッション、映像、アート、ライフスタイルを巻き込み、1980年代都市文化を象徴するカルチャー全体のムーブメントでもあった。
+Desde mediados de la década de 1980 en adelante, la New Wave gradualmente se orientó y comercializó hacia el pop, y fue absorbida por la cultura popular combinándola con estrategias de imagen similares a las de MTV.
 
-ニューウェーブとは、音楽とアート、社会批評とファッションが複雑に絡み合った「時代の総合芸術」である。
+Pero el espíritu pasó a la siguiente generación:
+
+- **Rock alternativo** (R.E.M., The Smiths, más tarde Nirvana)
+
+- **Synthpop/Electropop** (después de Depeche Mode, CHVRCHES modernos, Grimes)
+
+- **Renacimiento post-punk** (Interpol de 2000, Franz Ferdinand, The Strokes)
+
+La New Wave fue un importante punto de inflexión en la historia de la música porque "cruzó las fronteras de los géneros y elevó la música a un movimiento cultural".
+
+<hr>
+
+### Movimiento artístico de la era post-punk, no un género
+
+La nueva ola se originó a partir del punk en la década de 1970 y fue un movimiento importante en la historia de la música que incorporó tecnología electrónica, cruzó géneros y fue socialmente crítico. Al mismo tiempo, fue un movimiento cultural general que simbolizó la cultura urbana de los años 80, que involucró la moda, el vídeo, el arte y el estilo de vida.
+
+New Wave es un "arte integral de la época" en el que la música, el arte, la crítica social y la moda están intrincadamente entrelazados.
 

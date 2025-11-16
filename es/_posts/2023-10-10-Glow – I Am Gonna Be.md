@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Glow – I Am Gonna Be.webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Glow – I Am Gonna Be/
 tags:
 - House
 - Euro House
-title: Glow – I Am Gonna Be
+title: Resplandor – Voy a ser
 ---
 
 
-「I Am Gonna Be」は、
-1997年にイタリアのレーベル「DUE Records」からリリースされたGlowによるEPです。
+“Yo voy a ser” es
+Este es un EP de Glow lanzado en 1997 por el sello italiano "DUE Records".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Am Gonna Be (M.V.S. Remix)
 
@@ -24,7 +25,7 @@ A2. I Am Gonna Be (Original Mix)
 B. I Am Gonna Be (Glow Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91456308602?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91456308602?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ktHmAr-ut0w?si=flnOSvKJDeYHpQqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktHmAr-ut0w?si=flnOSvKJDeYHpQqv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

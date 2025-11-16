@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Masterboy – Colours.webp
 lang: es
 layout: post
+permalink: /es/2024-05-27-Masterboy – Colours/
 tags:
 - Euro
 - Euro House
 - Euro Beat
 - 90s
-title: Masterboy – Colours
+title: Masterboy – Colores
 ---
 
 
-Tommy Schleh (トミー・シュレー)とEnrico Zabler(エンリコ・ザブラー)が中心となったMasterboyは、90年代に世界的なヒット曲を次々リリースし、ヨーロッパで最も知られたユーロダンスグループ。1990年〜2004年まで活動し、活動休止を経て、2013年から活動を再開している。
+Masterboy, dirigido por Tommy Schleh y Enrico Zabler, es el grupo de eurodance más conocido de Europa y lanzó una serie de éxitos mundiales en los años 90. Estuvieron activos de 1990 a 2004, hicieron una pausa y reanudaron sus actividades en 2013.
 
-「Colours」は、1996年にリリースされたMasterboy5枚目のアルバムで「Show Me Colours」などヒット曲が収録されているユーロハウスCD。
-13曲目はアメリカのDJ＆プロデューサーDavid Morales（デイヴィット・モラレス）によるremix。
+"Colours" es el quinto álbum de Masterboy lanzado en 1996 y es un CD Euro house que incluye éxitos como "Show Me Colours".
+La decimotercera canción es un remix del DJ y productor estadounidense David Morales.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Intro
 2. Show Me Colours
@@ -36,7 +37,7 @@ Tommy Schleh (トミー・シュレー)とEnrico Zabler(エンリコ・ザブラ
 13. Land Of Dreaming (David Morales Radio Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HogCrhWzZ8M?si=jiaqEA-jtBTiVMym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HogCrhWzZ8M?si=jiaqEA-jtBTiVMym" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Ladysmith Black Mambazo – Shaka Zulu.webp
 lang: es
 layout: post
+permalink: /es/2024-05-21-Ladysmith Black Mambazo – Shaka Zulu/
 tags:
 - Chorus
 - African
 - 80s
-title: Ladysmith Black Mambazo – Shaka Zulu
+title: Ladysmith Mambazo Negro – Shaka Zulu
 ---
 
 
-Joseph Shabalala（ジョセフ・シャバララ）が1964年に結成Ladysmith Black Mambazoは、イシカタミア(ズールー人の伝統的な音楽)やムブーベスタイルで歌う南アフリカの男性コーラスグループ。
+Fundado en 1964 por Joseph Shabalala, Ladysmith Black Mambazo es un grupo coral masculino sudafricano que canta en isikatamiya (música tradicional zulú) y estilo Mbube.
 
-サイモン&ガーファンクルのPaul Simon（ポール・サイモン）のアルバム『グレイスランド』に参加した事で世界的に有名となり、グラミー賞を含む様々な賞を獲得した。
+Obtuvo fama mundial después de aparecer en el álbum "Graceland" de Paul Simon de Simon & Garfunkel y ganó varios premios, incluido un premio Grammy.
 
-「Shaka Zulu」はPaul Simonがプロデュースしている。
+"Shaka Zulu" está producida por Paul Simon.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Unomathemba
 A2. Hello My Baby
@@ -34,7 +35,7 @@ B4. Rain, Rain, Beautiful Rain
 B5. Wawusho Kubani? (Who Were You Talking To?)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24434663274?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X2xl2fsdyGM?si=RnaEIEA5rq0GPq-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X2xl2fsdyGM?si=RnaEIEA5rq0GPq-k" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

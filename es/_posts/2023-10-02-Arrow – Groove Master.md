@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Arrow – Groove Master.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Arrow – Groove Master/
 tags:
 - House
 - Acid
 - Latin
-title: Arrow – Groove Master
+title: Flecha – Maestro de ritmo
 ---
 
 
-Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
+Alphonsus Cassell, también conocido como Arrow, fue un músico de calipso y soca de Montserrat y la primera superestrella de la soca de Montserrat. "Hot Hot Hot" de 1982 es famoso como un éxito internacional.
 
-A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
+Side A Groove Master (Acid Soca House Dub) es una canción popular entre los amantes de la música house y de discoteca.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Groove Master (Popstand Party Remix)
 
@@ -32,7 +33,7 @@ B2. Groove Master (LP Version)
 B3. Groove Master (Instrumental Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

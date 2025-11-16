@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Bros – Too Much.webp
 lang: es
 layout: post
+permalink: /es/2025-06-26-Bros – Too Much/
 tags:
 - Synth-Pop
 - Pops
 - 80s
-title: Bros – Too Much
+title: Hermanos - Demasiado
 ---
 
 
-Brosは、1987年〜1992年まで活動したイギリスのポップバンド。結成時は、双子の兄弟 Matt &Luke Goss(マット・ゴス&ルーク・ゴス)
-、Craig Logan(クレイグ・ローガン)のトリオだったが、1989年初頭にCraig Loganが脱退し、デュオとして活動した。マネージャーは元Pet Shop Boys(ペットショップボーイズ)のマネージャーTom Watkins(トム・ワトキンス)。
+Bros fue una banda de pop británica que estuvo activa desde 1987 hasta 1992. En el momento de su formación, los hermanos gemelos Matt y Luke Goss (Matt Goss y Luke Goss)
+Era un trío con Craig Logan, pero a principios de 1989 Craig Logan dejó la banda y comenzaron a trabajar como dúo. El gerente es el ex gerente de Pet Shop Boys, Tom Watkins.
 
-1989年にリリースされた「Too Much」は、Brosのセカンドアルバム『The Time』からのシングルカット。UKだけでなく日本でもヒットしたBrosの代表作。日本でのヒット&コンサート成功もあり、YAMAHAのスクーター・ヤマハ・ジョグのCMにも出演した。
+Lanzado en 1989, "Too Much" es un sencillo del segundo álbum de los Bros, The Time. La obra maestra de Bros que fue un éxito no sólo en el Reino Unido sino también en Japón. Fue un éxito y un éxito en conciertos en Japón, y también apareció en un comercial del scooter Yamaha Jog de Yamaha.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Too Much (Extended Version)
 
@@ -26,7 +27,7 @@ B1. Too Much (Seven Inch Version)
 B2. Astrologically
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

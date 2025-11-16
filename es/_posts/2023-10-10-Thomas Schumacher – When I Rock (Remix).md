@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Thomas Schumacher – When I Rock (Remix).webp
 lang: es
 layout: post
+permalink: /es/2023-10-10-Thomas Schumacher – When I Rock (Remix)/
 tags:
 - Techno
 - Electro
-title: Thomas Schumacher – When I Rock (Remix)
+title: Thomas Schumacher – Cuando rockeo (Remix)
 ---
 
 
-「 When I Rock (Remix)」は、
-1998年にUKのレーベル「Bush」からリリースされたThomas SchumacherによるEPです。
+"Cuando rockeo (Remix)"
+Este es un EP de Thomas Schumacher lanzado en 1998 en el sello británico "Bush".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. When I Rock (Anthony Rother Remix)
 
 AA. When I Rock (Johannes Heil Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24258262929?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24258262929?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_3qErhpksA?si=_DQF9TXRSNaDvCR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_3qErhpksA?si=_DQF9TXRSNaDvCR8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
