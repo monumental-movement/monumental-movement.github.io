@@ -102,34 +102,34 @@ for filename in os.listdir(SRC_DIR):
     front_matter["lang"] = "es"
     front_matter["permalink"] = f"/es/{slug}/"
 
-    # 本文翻訳
+     # 本文翻訳
     translated_body = ""
     in_code_block = False
-    in_mermaid_block = False
+    in_mermaid_block = False  # ファイルごとに初期化
 
     for line in body.splitlines():
-    # Mermaid 開始
-    if '<div class="mermaid">' in line:
-        in_mermaid_block = True
-        translated_body += line + "\n"
-        continue
-    # Mermaid 終了
-    if '</div>' in line and in_mermaid_block:
-        in_mermaid_block = False
-        translated_body += line + "\n"
-        continue
+        # Mermaid 開始
+        if '<div class="mermaid">' in line:
+            in_mermaid_block = True
+            translated_body += line + "\n"
+            continue
+        # Mermaid 終了
+        if '</div>' in line and in_mermaid_block:
+            in_mermaid_block = False
+            translated_body += line + "\n"
+            continue
 
-    # コードブロック
-    if line.strip().startswith("```"):
-        in_code_block = not in_code_block
-        translated_body += line + "\n"
-        continue
+        # コードブロック開始/終了
+        if line.strip().startswith("```"):
+            in_code_block = not in_code_block
+            translated_body += line + "\n"
+            continue
 
-    # 翻訳除外判定
-    if in_code_block or in_mermaid_block or is_non_translatable(line):
-        translated_body += line + "\n"
-    else:
-        translated_body += translate_text(line) + "\n"
+        # 翻訳除外判定
+        if in_code_block or in_mermaid_block:
+            translated_body += line + "\n"
+        else:
+            translated_body += translate_text(line) + "\n"
 
     # 出力
     output = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
