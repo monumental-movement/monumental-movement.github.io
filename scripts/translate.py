@@ -98,28 +98,35 @@ for filename in os.listdir(SRC_DIR):
 
     front_matter["lang"] = "en"
 
-    # 本文翻訳（コードブロックはスキップ）
-    translated_body = ""
-    in_code_block = False
-    for line in body.splitlines():
-        if '<div class="mermaid">' in line:
-            in_mermaid_block = True
-            translated_body += line + "\n"
-            continue
-        if '</div>' in line and in_mermaid_block:
-            in_mermaid_block = False
-            translated_body += line + "\n"
-            continue
+    # 本文翻訳（コードブロックとMermaidブロックはスキップ）
+translated_body = ""
+in_code_block = False
+in_mermaid_block = False  # ← ここで初期化
 
-        if line.strip().startswith("```"):
-            in_code_block = not in_code_block
-            translated_body += line + "\n"
-            continue
+for line in body.splitlines():
+    # Mermaid 開始
+    if '<div class="mermaid">' in line:
+        in_mermaid_block = True
+        translated_body += line + "\n"
+        continue
+    # Mermaid 終了
+    if '</div>' in line and in_mermaid_block:
+        in_mermaid_block = False
+        translated_body += line + "\n"
+        continue
 
-        if in_code_block or in_mermaid_block:
-            translated_body += line + "\n"
-        else:
-            translated_body += translate_text(line) + "\n"
+    # コードブロック開始/終了
+    if line.strip().startswith("```"):
+        in_code_block = not in_code_block
+        translated_body += line + "\n"
+        continue
+
+    # 翻訳除外判定
+    if in_code_block or in_mermaid_block:
+        translated_body += line + "\n"
+    else:
+        translated_body += translate_text(line) + "\n"
+
 
     # 英語ファイル出力
     output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
