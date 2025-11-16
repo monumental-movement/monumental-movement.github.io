@@ -10,57 +10,40 @@ os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='es')
 
-
 def is_non_translatable(line):
     """HTML・CSS・テーブル・コードを除外して誤検知を防ぐ"""
-
     stripped = line.strip()
     if not stripped:
         return True  # 空行
-
     # HTMLタグ (<div> 等)
     if re.fullmatch(r"<[^>]+>", stripped):
         return True
-
     # CSS ブロック (<style> または {...;} を含む行)
     if stripped.startswith("<style") or stripped.startswith("</style>"):
         return True
     if "{" in stripped and ";" in stripped and "}" in stripped:
         return True
-
     # Markdown table
     if stripped.startswith("|") and stripped.endswith("|"):
         return True
-
     # コードブロック開始・終了
     if stripped.startswith("```"):
         return True
-
     return False
 
-
 def translate_text(text):
-    """翻訳して必ず str を返す安全版"""
+    """翻訳が必要な場合のみ DeepTranslator を実行"""
     if is_non_translatable(text):
         return text
-
-    if not isinstance(text, str):
-        text = str(text)
-
     try:
-        result = translator.translate(text)
-
+        result = translator.translate(str(text))
         if result is None:
-            return text
-
+            return str(text)
         if isinstance(result, str):
             return result
-
         return str(result)
-
     except Exception:
-        return text
-
+        return str(text)
 
 def split_front_matter(content):
     if content.startswith("---"):
@@ -69,13 +52,26 @@ def split_front_matter(content):
             return parts[1], parts[2]
     return "", content
 
-
 def load_yaml_safe(fm):
     try:
         return yaml.safe_load(fm) or {}
     except Exception:
         return {}
 
+def extract_slug(filename):
+    """
+    日付や特殊文字を除き、URL向けに安全な slug を生成
+    例: 2025-11-08-Stoned Baby and Join Clap – AK-47 EP.md
+         → stoned-baby-and-join-clap-ak-47-ep
+    """
+    base = os.path.splitext(filename)[0]
+    # 日付部分を削除
+    base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
+    # 半角スペースや特殊文字をハイフンに置換
+    slug = re.sub(r'[^\w]+', '-', base)
+    # 小文字化 & 前後ハイフン削除
+    slug = slug.lower().strip('-')
+    return slug
 
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
@@ -96,7 +92,6 @@ for filename in os.listdir(SRC_DIR):
         with open(dest_path, "r", encoding="utf-8") as f:
             old = f.read()
         fm2, old_body = split_front_matter(old)
-
         diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
         if not diff:
             print(f"⏭️ No changes: {filename}")
@@ -108,22 +103,19 @@ for filename in os.listdir(SRC_DIR):
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
 
-    #↓↓↓↓↓↓ Spanish 用 permalink を強制設定（これが重要） ↓↓↓↓↓↓
-    slug = os.path.splitext(filename)[0]
+    # Spanish 用 permalink を強制設定
+    slug = extract_slug(filename)
     front_matter["lang"] = "es"
     front_matter["permalink"] = f"/es/{slug}/"
-    #↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
     # 本文翻訳
     translated_body = ""
     in_code_block = False
-
     for line in body.splitlines():
         if line.strip().startswith("```"):
             in_code_block = not in_code_block
             translated_body += line + "\n"
             continue
-
         if in_code_block or is_non_translatable(line):
             translated_body += line + "\n"
         else:
@@ -131,7 +123,6 @@ for filename in os.listdir(SRC_DIR):
 
     # 出力
     output = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
-
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output)
 
