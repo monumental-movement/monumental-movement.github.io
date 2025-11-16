@@ -14,29 +14,42 @@ os.makedirs(DEST_DIR, exist_ok=True)
 translator = GoogleTranslator(source='ja', target='es')
 
 
-# ---------------------------------------------
-# 翻訳除外判定
-# ---------------------------------------------
-def is_non_translatable(line):
-    stripped = line.strip()
-    if not stripped:
-        return True
-    if re.fullmatch(r"<[^>]+>", stripped):
-        return True
-    if stripped.startswith("<style") or stripped.startswith("</style>"):
-        return True
-    if "{" in stripped and ";" in stripped and "}" in stripped:
-        return True
-    if stripped.startswith("|") and stripped.endswith("|"):
-        return True
-    if stripped.startswith("```"):
-        return True
-    return False
+# =============================================
+# 1) 翻訳除外ブロックの抽出
+# =============================================
+EXCLUDE_BLOCK_PATTERNS = [
+    (r"<style[\s\S]*?</style>", "STYLE"),
+    (r"<script[\s\S]*?</script>", "SCRIPT"),
+    (r"<table[\s\S]*?</table>", "TABLE"),
+    (r"<div class=\"mermaid\"[\s\S]*?</div>", "MERMAID-WRAP"),
+]
 
 
-# ---------------------------------------------
-# 本文翻訳
-# ---------------------------------------------
+def extract_excluded_blocks(text):
+    placeholders = {}
+    idx = 0
+
+    for pattern, tag in EXCLUDE_BLOCK_PATTERNS:
+        matches = list(re.finditer(pattern, text, re.MULTILINE))
+        for m in matches:
+            block = m.group(0)
+            placeholder = f"__EXCLUDE_{tag}_{idx}__"
+            placeholders[placeholder] = block
+            text = text.replace(block, placeholder)
+            idx += 1
+
+    return text, placeholders
+
+
+def restore_excluded_blocks(text, placeholders):
+    for ph, block in placeholders.items():
+        text = text.replace(ph, block)
+    return text
+
+
+# =============================================
+# 翻訳（Deep Translator）
+# =============================================
 def translate_text(text):
     if not isinstance(text, str):
         text = str(text)
@@ -49,21 +62,21 @@ def translate_text(text):
         return text
 
 
-# ---------------------------------------------
+# =============================================
 # Mermaid 内ノード名・コメント翻訳
-# ---------------------------------------------
+# =============================================
 def translate_mermaid_line(line):
     # %% コメント翻訳
     def repl_comment(m):
         return "%% " + translate_text(m.group(1))
     line = re.sub(r"%%\s*(.*)", repl_comment, line)
 
-    # ノードラベル構文を翻訳
+    # ノードラベル構文翻訳
     patterns = [
-        (r'(\[)(.*?)(\])'),     # 四角ラベル A[ラベル]
-        (r'(\()([^()]*)(\))'),  # 丸括弧ラベル (ラベル)
-        (r'(\(\()([^()]*)(\)\))'),  # 二重丸括弧 ((ラベル))
-        (r'(\|)(.*?)(\|)'),     # パイプ |ラベル|
+        (r'(\[)(.*?)(\])'),
+        (r'(\()([^()]*)(\))'),
+        (r'(\(\()([^()]*)(\)\))'),
+        (r'(\|)(.*?)(\|)'),
     ]
 
     for pat in patterns:
@@ -73,14 +86,15 @@ def translate_mermaid_line(line):
                 translated = translate_text(text)
                 return f"{start}{translated}{end}"
             return m.group(0)
+
         line = re.sub(pat, repl, line)
 
     return line
 
 
-# ---------------------------------------------
+# =============================================
 # YAML front matter
-# ---------------------------------------------
+# =============================================
 def split_front_matter(content):
     if content.startswith("---"):
         parts = content.split('---', 2)
@@ -96,9 +110,9 @@ def load_yaml_safe(fm):
         return {}
 
 
-# ---------------------------------------------
+# =============================================
 # URL slug 生成
-# ---------------------------------------------
+# =============================================
 def extract_slug(filename):
     base = os.path.splitext(filename)[0]
     base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
@@ -106,9 +120,9 @@ def extract_slug(filename):
     return slug.lower().strip('-')
 
 
-# ---------------------------------------------
+# =============================================
 # メイン処理
-# ---------------------------------------------
+# =============================================
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -119,7 +133,13 @@ for filename in os.listdir(SRC_DIR):
     with open(src_path, "r", encoding="utf-8") as f:
         src_content = f.read()
 
-    fm, body = split_front_matter(src_content)
+    # ---------------------------------------
+    # ① まず翻訳除外ブロックを丸ごと退避
+    # ---------------------------------------
+    cleaned_body, placeholders = extract_excluded_blocks(src_content)
+
+    # front matter 抽出し直し（退避後のtext）
+    fm, body = split_front_matter(cleaned_body)
     front_matter = load_yaml_safe(fm)
 
     # 既存ファイル差分チェック
@@ -139,51 +159,64 @@ for filename in os.listdir(SRC_DIR):
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
 
-    # Spanish permalink 設定
+    # permalink
     slug = extract_slug(filename)
     front_matter["lang"] = "es"
     front_matter["permalink"] = f"/es/{slug}/"
 
-    # 本文翻訳
+    # ---------------------------------------
+    # ② cleaned body の本文行ごと翻訳
+    # ---------------------------------------
     translated_body = ""
+
     in_code_block = False
     in_mermaid_block = False
 
     for line in body.splitlines():
-        # コードブロック開始/終了
+        # コード（```）
         if line.strip().startswith("```"):
             in_code_block = not in_code_block
             translated_body += line + "\n"
             continue
 
-        # Mermaid 開始/終了
-        if '<div class="mermaid">' in line:
-            in_mermaid_block = True
-            translated_body += line + "\n"
-            continue
-        if '</div>' in line and in_mermaid_block:
-            in_mermaid_block = False
-            translated_body += line + "\n"
-            continue
-
-        # コードブロック → 翻訳しない
         if in_code_block:
             translated_body += line + "\n"
             continue
 
-        # Mermaid ブロック → ノード名とコメントだけ翻訳
+        # Mermaid ブロック本体
+        if line.strip().startswith("graph") or line.strip().startswith("flowchart"):
+            in_mermaid_block = True
+            translated_body += line + "\n"
+            continue
+
         if in_mermaid_block:
+            # Mermaid ノード翻訳
+            if line.strip() == "":
+                translated_body += line + "\n"
+                continue
             translated_body += translate_mermaid_line(line) + "\n"
             continue
 
-        # 通常本文 → 翻訳
+        # Mermaid 終了判定
+        if line.strip() == "</div>":
+            in_mermaid_block = False
+            translated_body += line + "\n"
+            continue
+
+        # 通常行翻訳
         translated_body += translate_text(line) + "\n"
 
-    # 出力
-    output = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
+    # ---------------------------------------
+    # ③ 除外した block を元に戻す
+    # ---------------------------------------
+    final_output = restore_excluded_blocks(
+        f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}",
+        placeholders
+    )
+
     with open(dest_path, "w", encoding="utf-8") as f:
-        f.write(output)
+        f.write(final_output)
 
     print(f"✅ Translated: {filename}")
 
-print("\n🎉 Spanish translation with Mermaid node translation completed!")
+print("\n🎉 Spanish translation with SAFE exclusion and Mermaid node translation completed!")
