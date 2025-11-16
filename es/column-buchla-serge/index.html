@@ -277,7 +277,7 @@ Su filosofía de diseño contenía una perspectiva sonora “antinormativa” qu
 
 <hr />
 
-<style type="text/css">
+<tipo de="" estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -288,235 +288,161 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+&lt;/estilo&gt;
 
-<h2 id="1-don-buchler-poética-del-sonido-electrónico">1. Don Buchler: Poética del sonido electrónico</h2>
 
-<h3 id="1-1-desde-el-centro-de-música-tape-de-san-francisco">1-1. Desde el Centro de Música Tape de San Francisco</h3>
 
-<p>En el Tape Music Center de San Francisco, a principios de la década de 1960, artistas como <strong>Morton Subotnick</strong> y <strong>Pauline Oliveros</strong> exploraban nuevas relaciones entre la música experimental y la tecnología.
-Lo que buscaban era “un instrumento que no fuera una extensión del piano o la guitarra”.</p>
+## 1. Don Buchler: Poética del sonido electrónico
 
-<p>La <strong>Buchla Serie 100 (1963-1966)</strong> apareció en respuesta a la petición de Subotnick.
-Se evitó intencionalmente la operatividad musical tradicional, como la configuración del circuito acústico mediante perillas y cables de conexión, y el teclado con placa táctil (en realidad, un dispositivo de entrada de voltaje sin escala).</p>
+### 1-1. Desde el Centro de Música Tape de San Francisco
 
-<blockquote>
-  <p>“Sin teclas blancas y negras”. —Don Buchla</p>
-</blockquote>
+En el Tape Music Center de San Francisco, a principios de la década de 1960, artistas como **Morton Subotnick** y **Pauline Oliveros** exploraban nuevas relaciones entre la música experimental y la tecnología.
+Lo que buscaban era "un instrumento que no fuera una extensión del piano o la guitarra".
 
-<h3 id="1-2-la-filosofía-de-buchla-la-electrónica-performativa">1-2. La filosofía de Buchla: la electrónica performativa</h3>
+La **Buchla Serie 100 (1963-1966)** apareció en respuesta a la petición de Subotnick.
+Se evitó intencionalmente la operatividad musical tradicional, como la configuración del circuito acústico mediante perillas y cables de conexión, y el teclado con placa táctil (en realidad, un dispositivo de entrada de voltaje sin escala).
 
-<p>Buchla diseñó instrumentos musicales como “un ecosistema en el que coexisten control y generación”.
+&gt; “Sin teclas blancas y negras”. —Don Buchla
+
+### 1-2. La filosofía de Buchla: la electrónica performativa
+
+Buchla diseñó instrumentos musicales como "un ecosistema en el que coexisten control y generación".
 El sonido no proviene directamente del cuerpo del intérprete, sino que se genera mediante el comportamiento abstracto de los cambios de voltaje.
-Por tanto, la interpretación se convierte en un “acto” de improvisación y el sonido es fluido.</p>
+Por tanto, la interpretación se convierte en un "acto" de improvisación y el sonido es fluido.
 
-<hr />
+---
 
 <div class="mermaid">
 
-diagrama de flujo LR
-subgrafo Buchla_System["Estructura conceptual del sistema Buchla 100/200"]
-dirección LR
-CV["Fuente de voltaje<br />(Tensión de control)"] --&gt; MOD["Bus de modulación<br />(Ruta de modulación)"]
-MOD --&gt; OSC["Oscilador complejo<br />"]
-OSC --&gt; LPG["Puerta de paso bajo<br />(tono/volumen vinculado)"]
-GLP --&gt; SALIDA["Salida de audio"]
-fin
-estilo Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
+flowchart LR
+  subgraph Buchla_System["Estructura conceptual del sistema Buchla 100/200"]
+    direction LR
+    CV["Fuente de voltaje<br />(Voltaje de control)"] --&gt; MOD["Bus de modulación<br />"]
+    MOD --&gt; OSC["Oscilador complejo<br />"]
+    OSC --&gt; LPG["Puerta de paso bajo<br />(tono/volumen vinculado)"]
+    LPG --&gt; OUT["Audio Out"]
+  end
+  style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
 
 </div>
 
-<p>Esta estructura simboliza la visión del mundo de Buchla de “catalizar el sonido en lugar de manipularlo”.
-El Low Pass Gate (un elemento que controla tanto el volumen como el timbre) se convirtió más tarde en un dispositivo filosófico estándar en la cultura Eurorack.</p>
+Esta estructura simboliza la visión del mundo de Buchla de "catalizar el sonido en lugar de manipularlo".
+El Low Pass Gate (un elemento que controla tanto el volumen como el timbre) se convirtió más tarde en un dispositivo filosófico estándar en la cultura Eurorack.
 
-<hr />
+---
 
-<h2 id="2-serge-tochenin-módulo-democratizado">2. Serge Tochenin: módulo democratizado</h2>
+## 2. Serge Tochenin: módulo democratizado
 
-<h3 id="2-1-nacimiento-del-sintetizador-del-pueblo">2-1. Nacimiento del “Sintetizador del Pueblo”</h3>
+### 2-1. Nacimiento del “Sintetizador del Pueblo”
 
-<p>A finales de la década de 1970, el joven músico Serge Tochenin quedó impresionado por la filosofía de diseño de Don Buchla y, mientras estudiaba música electrónica en UCLA, imaginó un “dispositivo similar a Buchla al que más personas pudieran tener acceso”.
-Ese es <strong>Serge Modular Music System (1974–)</strong>.</p>
+A finales de la década de 1970, el joven músico Serge Tochenin quedó impresionado por la filosofía de diseño de Don Buchla y, mientras estudiaba música electrónica en UCLA, imaginó un "dispositivo similar a Buchla al que más personas pudieran tener acceso".
+Ese es **Serge Modular Music System (1974–)**.
 
-<p>Mientras Buchler creaba máquinas personalizadas para artistas, Serge está arraigado en la cultura del bricolaje y en la comunidad universitaria, con el espíritu de “abrir los esquemas para que cualquiera pueda construirlos”.
-Esta actitud de código abierto fue una revolución conceptual que precedió a la posterior difusión de Eurorack.</p>
+Mientras Buchler creaba máquinas personalizadas para artistas, Serge está arraigado en la cultura del bricolaje y en la comunidad universitaria, con el espíritu de "abrir los esquemas para que cualquiera pueda construirlos".
+Esta actitud de código abierto fue una revolución conceptual que precedió a la posterior difusión de Eurorack.
 
-<h3 id="2-2-la-filosofía-de-serge-programabilidad-de-parches">2-2. La filosofía de Serge: programabilidad de parches</h3>
+### 2-2. La filosofía de Serge: programabilidad de parches
 
-<p>La filosofía fundamental de Serge es <strong>“Un módulo, muchas funciones”</strong>.
+La filosofía fundamental de Serge es **“Un módulo, muchas funciones”**.
 Es decir, la idea es que un único circuito pueda tener una infinidad de modos de funcionamiento dependiendo de cómo esté conectado.
-Por ejemplo, el generador de pendiente universal dual (comúnmente conocido como “DSG”)</p>
-<ul>
-  <li>sobre
--LFO</li>
-  <li>retardo de disparo</li>
-  <li>divisor de reloj</li>
-  <li>Módulo Caos
-La funcionalidad cambia según la configuración del parche.</li>
-</ul>
+Por ejemplo, el generador de pendiente universal dual (comúnmente conocido como "DSG")
+- sobre
+-LFO
+- retardo de disparo
+- divisor de reloj
+- Módulo Caos
+La funcionalidad cambia según la configuración del parche.
 
-<p>Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloques Reaktor y los “Maths” de Make Noise de Eurorack.</p>
+Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloques Reaktor y los "Maths" de Make Noise de Eurorack.
 
-<hr />
+---
 
-<h2 id="3-comparación-de-buchla-y-serge-estructura-e-ideología">3. Comparación de Buchla y Serge: estructura e ideología</h2>
+## 3. Comparación de Buchla y Serge: estructura e ideología
 
-<table>
-  <thead>
-    <tr>
-      <th>要素</th>
-      <th>Buchla</th>
-      <th>Serge</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>出発点</td>
-      <td>芸術家向け実験楽器</td>
-      <td>教育・DIY文化</td>
-    </tr>
-    <tr>
-      <td>操作思想</td>
-      <td>Performative（行為としての音）</td>
-      <td>Functional（構造としての音）</td>
-    </tr>
-    <tr>
-      <td>機能設計</td>
-      <td>専用モジュール構成</td>
-      <td>汎用モジュールを組み合わせ</td>
-    </tr>
-    <tr>
-      <td>コントロール</td>
-      <td>抽象的電圧動作</td>
-      <td>具体的信号操作</td>
-    </tr>
-    <tr>
-      <td>音響傾向</td>
-      <td>有機・動的・滑らか</td>
-      <td>線形・明快・高速レスポンス</td>
-    </tr>
-    <tr>
-      <td>文化的影響</td>
-      <td>アートサウンド、インスタレーション</td>
-      <td>ノイズ、テクノ、DIY電子音楽</td>
-    </tr>
-  </tbody>
-</table>
+| Elemento | Buchla | Serguéi |
+|------|---------|---------|
+| Punto de partida | Instrumentos experimentales para artistas | Educación y cultura del bricolaje |
+| Filosofía operativa | Performativo (sonido como acción) | Funcional (el sonido como estructura) |
+| Diseño funcional | Configuración del módulo dedicado | Combinando módulos de uso general |
+| Controlar | Operación de voltaje abstracto | Manipulación de señales concretas |
+| Tendencias acústicas | Orgánico, dinámico, suave | Respuesta lineal, clara y rápida |
+| Influencias culturales | Sonido artístico, instalación | Ruido, techno, música electrónica DIY |
 
-<hr />
+---
 
-<h2 id="4-cronología-tecnológica">4. Cronología tecnológica</h2>
+## 4. Cronología tecnológica
 
-<table>
-  <thead>
-    <tr>
-      <th>年</th>
-      <th>出来事</th>
-      <th>備考</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1963</td>
-      <td>Buchla Series 100 開発開始</td>
-      <td>Subotnick委託による最初のモジュラー</td>
-    </tr>
-    <tr>
-      <td>1966</td>
-      <td>Buchla Music Easel 原型登場</td>
-      <td>ポータブル・シンセの始祖</td>
-    </tr>
-    <tr>
-      <td>1974</td>
-      <td>Serge Modular 発表</td>
-      <td>“People’s Synthesizer”のスローガン</td>
-    </tr>
-    <tr>
-      <td>1980</td>
-      <td>Serge Dual Slope Generator 登場</td>
-      <td>パッチ哲学の完成形</td>
-    </tr>
-    <tr>
-      <td>1990s</td>
-      <td>Serge再評価期</td>
-      <td>アナログリバイバルと再発</td>
-    </tr>
-    <tr>
-      <td>2004</td>
-      <td>Eurorackブーム開始</td>
-      <td>Doepfer, Make Noiseなどに継承</td>
-    </tr>
-    <tr>
-      <td>2020s</td>
-      <td>Buchla USA / Serge復刻</td>
-      <td>オリジナル思想の再文脈化</td>
-    </tr>
-  </tbody>
-</table>
+| Año | Eventos | Notas |
+|----|--------|------|
+| 1963 | Comienza el desarrollo de Buchla Serie 100 | Primer modular encargado por Subotnick |
+| 1966 | Debut del prototipo Buchla Music Easel | El fundador de los sintetizadores portátiles |
+| 1974 | Anuncio modular de Serge | Lema “El sintetizador del pueblo” |
+| 1980 | Presentamos el generador de doble pendiente Serge | Filosofía de parche completada |
+| Década de 1990 | Período de reevaluación de Serge | Renacimiento analógico y recaída |
+| 2004 | Comienza el boom del Eurorack | Heredado por Doepfer, Make Noise, etc. |
+| Años 2020 | Buchla EE.UU. / Serge reimpresión | Recontextualización del pensamiento original |
 
-<hr />
+---
 
-<h2 id="5-impacto-en-la-cultura-modular">5. Impacto en la cultura modular</h2>
+## 5. Impacto en la cultura modular
 
-<p>La filosofía de Buchler y Sarge redefinió el sonido como un “acto social”.
-En otras palabras, cambió su enfoque de los “instrumentos” a los “entornos” y las “interfaces”.</p>
+La filosofía de Buchler y Sarge redefinió el sonido como un "acto social".
+En otras palabras, cambió su enfoque del "instrumento" al "entorno" y la "interfaz".
 
-<p>Las “infinitas combinaciones” modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
-La “física” de Buchla y la “estructuralidad” de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más “decéntrica”.</p>
+Las "infinitas combinaciones" modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
+La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más "decéntrica".
 
-<hr />
+---
 
 <div class="mermaid">
 
-línea de tiempo
-título Buchla / Serge: Evolución del pensamiento modular
-1963: desarrollo de la Serie 100 de Buchla
-1969: Serie Buchla 200
-1974: versión inicial de Serge Modular
-1980: Generador de doble pendiente Serge
-1990: Buchla 400 / Experimento MIDI
-2004: auge del eurorack
-2020: reevaluación de Buchla USA / Serge
+timeline
+  title Buchla / Serge: Evolution of Modular Thinking
+  1963 : Buchla Series 100 開発
+  1969 : Buchla 200 シリーズ
+  1974 : Serge Modular 初期版
+  1980 : Serge Dual Slope Generator
+  1990 : Buchla 400 / MIDI実験
+  2004 : Eurorackブーム
+  2020 : Buchla USA / Serge再評価
 
 </div>
 
-<hr />
+---
 
-<h2 id="6-conectándonos-con-la-era-moderna-entre-los-algoritmos-y-el-cuerpo">6. Conectándonos con la Era Moderna: Entre los Algoritmos y el Cuerpo</h2>
+## 6. Conectándonos con la Era Moderna: Entre los Algoritmos y el Cuerpo
 
-<p>El espíritu de Buchla/Serge está vivo y coleando en Max/MSP, VCV Rack e incluso en herramientas musicales generadas por IA.
-No es sólo una “combinación de módulos”, sino un marco artístico que conecta el tiempo, el espacio, el cuerpo y la probabilidad.</p>
+El espíritu de Buchla/Serge está vivo y coleando en Max/MSP, VCV Rack e incluso en herramientas musicales generadas por IA.
+No es sólo una "combinación de módulos", sino un marco artístico que conecta el tiempo, el espacio, el cuerpo y la probabilidad.
 
-<p>Los sintetizadores modulares no son sólo “herramientas” para crear sonidos;
-Es un medio que genera “eventos” que ocurren entre sonidos y personas.
-La filosofía de diseño de Buchla y Serge sigue siendo el germen de esa filosofía mediática.</p>
+Los sintetizadores modulares no son sólo "herramientas" para crear sonidos;
+Es un medio que genera "eventos" que ocurren entre sonidos y personas.
+La filosofía de diseño de Buchla y Serge sigue siendo el germen de esa filosofía mediática.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen=""></iframe>
 
-<hr />
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen=""></iframe>
-<hr />
+---
 
-<h2 id="conclusión-poética-del-voltaje-de-control">Conclusión: poética del “voltaje de control”</h2>
+## Conclusión: poética del “voltaje de control”
 
-<p>Se dice que Don Buchler dijo esto antes de su muerte.</p>
-<blockquote>
-  <p>“El voltaje no es un número, es un gesto”.</p>
-</blockquote>
+Se dice que Don Buchler dijo esto antes de su muerte.
+&gt; “El voltaje no es un número, es un gesto”.
 
-<p>Sarge también dice.</p>
-<blockquote>
-  <p>“Cada parche es una composición”.</p>
-</blockquote>
+Sarge también dice.
+&gt; “Cada parche es una composición”.
 
-<p>Para ellos, el voltaje no es sólo una señal;
-<strong>Era “un lenguaje poético que conecta la voluntad humana y las máquinas”.</strong></p>
+Para ellos, el voltaje no es sólo una señal;
+**Era "un lenguaje poético que conecta la voluntad humana y las máquinas".**
 
-<p>Incluso ahora, en 2025, seguimos escuchando la poesía de ese voltaje.</p>
+Incluso ahora, en 2025, seguimos escuchando la poesía de ese voltaje.
 
-<hr />
+---
 
+
+</tipo>
 
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
@@ -595,6 +521,83 @@ La filosofía de diseño de Buchla y Serge sigue siendo el germen de esa filosof
 
   <div class="blog-grid-container">
 
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
+  
+      
+
+      
+      
+
+      
+
+      
+
+    
   
     
   
