@@ -163,14 +163,14 @@ They all believe in **freedom built in reverberation**.
 <div class="mermaid">
 
 graph TD
-A[Original sound Source] --> B[Delay/Feedback]
-B --> C[Reverb Chamber]
-C --> D[Low Pass Filter]
-D --> E[Sub Bass Reinforcement]
-E --> F[Silence / Decay Zone]
-F --> A
-style A fill:#333,stroke:#0f0,stroke-width:2px,color:#fff
-style F fill:#000,stroke:#0f0,color:#fff
+    A[原音 Source] --> B[Delay/Feedback]
+    B --> C[Reverb Chamber]
+    C --> D[Low Pass Filter]
+    D --> E[Sub Bass Reinforcement]
+    E --> F[Silence / Decay Zone]
+    F --> A
+    style A fill:#333,stroke:#0f0,stroke-width:2px,color:#fff
+    style F fill:#000,stroke:#0f0,color:#fff
 
 </div>
 

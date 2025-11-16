@@ -50,7 +50,7 @@ It had an uplifting feel similar to a musical, and symbolized McDonald's as a "h
 
 > ♪ "You deserve a break today, so get up and get away—to McDonald"s!"
 
-This song was an unusual hit, selling as a single in the United States and entering the radio charts.
+This song was sold as a single in the United States and was an unusual hit, entering the radio charts.
 It was the first time fast food commercials entered the realm of pop music.
 
 ### 1-2 Linkage with the music industry: From advertising to hit songs
@@ -105,10 +105,10 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
-### 5-2 Trends in SNS x artist collaboration
+### 5-2　Trend of SNS x artist collaboration
 
 | Year | Brand | Artist | Song title/characteristics |
 |----|------------|----------------|-------------|
@@ -130,16 +130,16 @@ Early introduction of the concept of "music supporting taste."
 <div class="mermaid">
 
 timeline
-title Chronology of burger shops and music
-1971 : "McDonald"s "You Deserve a Break Today' released (composed by Sid Woloshin)"
-1977 : "Japanese version of 'Let"s meet at McDonald"s' (Kazuo Otani)"
-1985 : "Lotteria starts techno pop route"
-1999 : "Burger King 'Whopper Rap' (The Dust Brothers)"
-2003 : "'I'm Lovin' It' (Pharrell x Timberlake) begins"
-2005 : "Mos Burger, natural BGM by Hajime Mizoguchi"
-2015 : "SNS-linked advertising music is here to stay"
-2022 : "Burger King × Creepy Nuts"
-2023 : "McDonald's x Ado"Mac Adventure""
+    title バーガーショップと音楽の年表
+    1971 : "マクドナルド『You Deserve a Break Today』発表（Sid Woloshin作曲）"
+    1977 : "日本版『マクドナルドで会いましょう』（大谷和夫）"
+    1985 : "ロッテリア、テクノポップ路線開始"
+    1999 : "バーガーキング『Whopper Rap』（The Dust Brothers）"
+    2003 : "『I’m Lovin’ It』（Pharrell × Timberlake）開始"
+    2005 : "モスバーガー、溝口肇によるナチュラルBGM"
+    2015 : "SNS連動型広告音楽が定着"
+    2022 : "バーガーキング × Creepy Nuts"
+    2023 : "マクドナルド × Ado『マック・アドベンチャー』"
 
 </div>
 

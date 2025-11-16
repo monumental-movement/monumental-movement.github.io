@@ -58,13 +58,13 @@ Furthermore, the new recording equipment of the time supported Antonio Carlos Jo
 
 In the 1960s, Rio's Ipanema and Copacabana beaches were the epicenter of young lifestyle and fashion. His attire, which included white shirts, light dresses, straw hats, and sandals, became established as a style that symbolized ""Brazilian modernity,'' along with the light sound of bossa nova.
 
-Heloisa Pinheiro, the model for ""The Girl from Ipanema," walked along the beach and was a perfect example of the fusion of fashion and music. Sergio Mendes' stage costumes and the simple urban attire seen in bossa nova performances in the United States helped create a ""Cool Brazil" image in the international market.
+The image of Heloisa Pinheiro, the model for ""The Girl from Ipanema," walking along the beach was the perfect fusion of fashion and music. Sergio Mendes' stage costumes and the simple urban attire seen in bossa nova performances in the United States helped create a ""Cool Brazil" image in the international market.
 
-What's even more interesting is that the spread of bossa nova was in sync with the global fashion trends of the 1960s, such as mod and minimal fashion. With their sophisticated melodies and simple costumes, both shared a ""striped-down aesthetic.''
+What's even more interesting is that the spread of bossa nova was in sync with the global fashion trends of the 1960s, such as mod and minimal fashion. With their sophisticated melodies and simple costumes, they both shared a ""striped-down aesthetic.''
 
 ---
 
-### Conclusion —— Bossa Nova is a crossroads of cultures
+### Conclusion —— Bossa Nova is a cultural crossroads
 
 Looking at it this way, we can see that bossa nova was not just a music genre, but a comprehensive cultural phenomenon that symbolized modern Brazil, intersecting with architecture, technology, and fashion.
 

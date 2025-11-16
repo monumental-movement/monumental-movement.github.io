@@ -21,7 +21,7 @@ Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 19
 
 
 In the 1970s, there was a person who stood out at the border between Japanese music and visuals.
-**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific thought and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
+**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific speculation and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
 
 The place for this experiment was Geinoh Yamashirogumi, which was formed in the early 1970s.
 More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society" and was a ""place" that integrated music, ethnology, information theory, and anthropology.
@@ -99,7 +99,7 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 
 ## Chapter 4: Sound Environment - Science and Philosophy of "Listening"
 
-After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
+After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
 ### ◇ Main works and ideas
@@ -151,17 +151,17 @@ What Shoji Yamashiro explored was performing arts as an ecology of information a
 <div class="mermaid">
 
 timeline
-title Entertainment Yamashiro Gumi/Shoji Yamashiro Chronology
-1946 : Riki Ohashi (Shoji Yamashiro) is born
-1969: Graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University
-1974: Formed the Geino Yamashiro Gumi and advocated "music as a group"
-1976: Announcement of "Environmental Music I-II"
-1979: Publication of book "Sounds and Environment"
-1983: Integrating world folk music structures with "Ecophony Gaia"
-1988: Produced the "AKIRA" soundtrack and received international acclaim.
-1996: "Brain and Music Informatics" published
-2000: Lectures and presentations on "Environmental Studies of Sound" held in various locations
-2020s: Entertainment Yamashiro Gumi"s sound sources are rediscovered and reevaluated overseas
+    title 芸能山城組・山城祥二 年表
+    1946 : 大橋力（山城祥二）生まれる
+    1969 : 東北大学農学部農芸化学科を卒業
+    1974 : 芸能山城組を結成、「群れとしての音楽」を提唱
+    1976 : 『環境音楽 I〜II』発表
+    1979 : 著書『音響と環境』刊行
+    1983 : 『Ecophony Gaia』で世界民族音楽構造を統合
+    1988 : 『AKIRA』サウンドトラック制作、国際的評価を獲得
+    1996 : 『脳と音楽の情報学』出版
+    2000 : 「音の環境学」講義・講演を各地で展開
+    2020s : 芸能山城組の音源が海外で再発見・再評価
 
 </div>
 

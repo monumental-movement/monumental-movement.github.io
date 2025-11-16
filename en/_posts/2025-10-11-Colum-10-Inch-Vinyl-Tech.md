@@ -96,7 +96,7 @@ Adjust sound pressure, stereo width, and phase.
 2. **Lacquer Cutting**
 Carve grooves on a 10-inch lacquer board.
 Groove width and pitch control are important.
-"Within 12 minutes at 33⅓RPM" is one of the design criteria.
+"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
 
 3. **Electroforming**
 Copy with nickel in the order of master → mother → stamper.
@@ -175,14 +175,14 @@ In that moment when the tip of the needle traces the groove, we see the spirit o
 <div class="mermaid">
 
 flowchart TD
-A1948["1948: Columbia, LP (33⅓RPM) invention"]
-A1950["1950: 10-inch LP becomes mainstream"]
-A1955["1955: 12-inch LP became standard"]
-A1970["1970s: 45RPM re-evaluation for DJ use"]
-A2000["2000s: 10-inch re-release as limited edition/art edition"]
-A2020["2020s: Movement of reexamination by audiophiles"]
+    A1948["1948：Columbia、LP（33⅓RPM）発明"]
+    A1950["1950：10インチLPが主流に"]
+    A1955["1955：12インチLPが標準化"]
+    A1970["1970s：DJ用途で45RPM再評価"]
+    A2000["2000s：限定盤・アート盤として10インチ再登場"]
+    A2020["2020s：オーディオマニアによる再検証の動き"]
 
-A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
+    A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 
 
 </div>
@@ -194,18 +194,18 @@ A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 <div class="mermaid">
 
 flowchart TB
-S["Stylus tip"]
-G["Groove"]
-L["Lateral modulation\n→ Stereo L/R information"]
-V["Vertical modulation\n→ Low frequency/phase information"]
-D["Depth\n→ Depends on amplitude"]
-W["Groove width (Width)\n→ Proportional to sound pressure"]
+    S["針先（Stylus tip）"]
+    G["溝（V字断面 Groove）"]
+    L["横変調（Lateral modulation）\n→ ステレオL/R情報"]
+    V["縦変調（Vertical modulation）\n→ 低域・位相情報"]
+    D["溝の深さ（Depth）\n→ 振幅に依存"]
+    W["溝の幅（Width）\n→ 音圧に比例"]
 
-S -->|Follow| G
-G --> L
-G --> V
-G --> D
-G --> W
+    S -->|追従| G
+    G --> L
+    G --> V
+    G --> D
+    G --> W
 
 </div>
 
@@ -216,20 +216,20 @@ G --> W
 <div class="mermaid">
 
 flowchart TD
-O["Outer rim: High linear velocity → Good high frequency reproduction"]
-M["Middle range: Linear speed decrease → High range attenuation starts"]
-I["Inner rim: Low linear velocity → Inner rim distortion increase/high frequency attenuation"]
+    O["外周 (Outer rim)：高い線速度 → 高域再現良好"]
+    M["中間域：線速度低下 → 高域減衰開始"]
+    I["内周 (Inner rim)：低い線速度 → 内周歪増大・高域減衰"]
 
-O --> M --> I
+    O --> M --> I
 
-%% Add annotation at node
-A["Linear velocity: Outer circumference > Inner circumference → High frequency characteristics are advantageous"]
-B["inner groove distortion: increases at the inner groove → high frequencies become rounder"]
-C["Sound pressure (Amplitude): Proportional to groove width → Trade-off with playback time"]
+    %% 注釈をノードで追加
+    A["線速度 (linear velocity)：外周>内周 → 高域特性が有利"]
+    B["内周歪 (inner groove distortion)：内周で増加 → 高域が丸くなる"]
+    C["音圧 (Amplitude)：溝幅に比例 → 再生時間とトレードオフ"]
 
-A -.-> O
-B -.->I
-C -.-> M
+    A -.-> O
+    B -.-> I
+    C -.-> M
 
 </div>
 

@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen
@@ -150,7 +150,7 @@ Gong was a symbol of countercultural practice that did not separate society and 
 
 ---
 
-## Chapter 7 Transformation and inheritance——Moellan-Gong and rebirth {#chapter7}
+## Chapter 7 Transformation and Inheritance——Moellan Gong and Rebirth {#chapter7}
 
 After 1976, David Allen left.
 Pierre Moerlan took over, and the jazz fusion-oriented **Pierre Moerlan's Gong** was born.
@@ -174,13 +174,13 @@ Below is a diagram showing its symbolic structure:
 <div class="mermaid">
 
 graph TD
-A["Zero the Hero"] --> B["Planet Gong"]
-B --> C["Pot Head Pixies"]
-B --> D["Octave Doctor"]
-C --> E["Flying Teapot"]
-D --> F["Radio Gnome"]
-E --> G["Listeners on Earth"]
-G --> A
+    A["Zero the Hero"] --> B["Planet Gong"]
+    B --> C["Pot Head Pixies"]
+    B --> D["Octave Doctor"]
+    C --> E["Flying Teapot"]
+    D --> F["Radio Gnome"]
+    E --> G["Listeners on Earth"]
+    G --> A
 
 </div>
 
@@ -219,16 +219,16 @@ Gong moved between reality and myth, and the anecdotes themselves were part of t
 <div class="mermaid">
 
 timeline
-title Gong Chronology
-1967 : Formation in Paris
-1969 : "Magick Brother"
-1971 : "Camembert Electrique"
-1973 : "Flying Teapot"
-1974 : "You"
-1976 : Moerlan Era
-1990 : Reunion
-2015 : Allen's Death
-2016 : Rejoice! I'm Dead!
+    title Gong Chronology
+    1967 : Formation in Paris
+    1969 : "Magick Brother"
+    1971 : "Camembert Electrique"
+    1973 : "Flying Teapot"
+    1974 : "You"
+    1976 : Moerlan Era
+    1990 : Reunion
+    2015 : Allen's Death
+    2016 : Rejoice! I'm Dead!
 
 </div>
 

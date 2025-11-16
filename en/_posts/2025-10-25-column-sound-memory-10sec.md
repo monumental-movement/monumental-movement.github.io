@@ -68,16 +68,16 @@ Within that short span of time, we instantly judge emotions such as pleasure, di
 
 flowchart TD
 
-T["<b>Sound and memory process (auditory → emotion → memory)</b>"]
-T --> A
+    T["<b>音と記憶のプロセス（聴覚→感情→記憶）</b>"]
+    T --> A
 
-A["Sound input (10 seconds fragment)"]
-B["Emotional response in the amygdala"]
-C["Long-term memory formation in the hippocampus"]
-D["Contextualization (memory of the "situation" in which the sound was played)"]
-E["Emotions are reconstructed during playback"]
+    A["音の入力（10秒の断片）"]
+    B["扁桃体での感情反応"]
+    C["海馬での長期記憶化"]
+    D["文脈化（その音が流れた“状況”の記憶）"]
+    E["再生時に感情が再構築される"]
 
-A --> B --> C --> D --> E
+    A --> B --> C --> D --> E
 
 </div>
 
@@ -87,7 +87,7 @@ A --> B --> C --> D --> E
 
 Not only individuals but also society forms memories based on ""10 seconds of sound''.
 For example, the Olympic fanfare, the intro to a Star Wars movie, or the sound of a smartphone notification.
-These subtle sounds evoke common emotional responses across generations and borders.
+These subtle sounds evoke a common emotional response across generations and borders.
 
 It's no coincidence that TikTok and YouTube Shorts have centered around 10-15 second sound loops since the 2000s.
 The algorithm selects the ""sound that stimulates emotions the fastest,'' which has become a cultural conditioned reflex.

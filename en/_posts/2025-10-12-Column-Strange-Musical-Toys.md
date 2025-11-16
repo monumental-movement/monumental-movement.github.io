@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
@@ -212,16 +212,16 @@ The concept of "play" is once again returning to the center of music creation an
 
 flowchart TD
 
-A1970["1970: Stylophone released (UK)"]
-B1978["1978: Omnichord released (Japan)"]
-C1979["1979: Radel Electronic Tanpura introduced (India)"]
-D1980["1980: CASIO VL-TONE released (Japan)"]
-E1990["1990: Establishment of Circuit Bending concept (USA)"]
-F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
-G2010["2010: Pocket Operator Series (Sweden)"]
-H2020["2020: AI toy music device introduced"]
+    A1970["1970：Stylophone発売（英国）"]
+    B1978["1978：Omnichord発売（日本）"]
+    C1979["1979：Radel Electronic Tanpura登場（インド）"]
+    D1980["1980：CASIO VL-TONE発売（日本）"]
+    E1990["1990：Circuit Bending概念確立（米国）"]
+    F2007["2007：Teenage Engineering OP-1発売（スウェーデン）"]
+    G2010["2010：Pocket Operatorシリーズ（スウェーデン）"]
+    H2020["2020：AI玩具音楽デバイス登場"]
     
-A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
+    A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 </div>
 

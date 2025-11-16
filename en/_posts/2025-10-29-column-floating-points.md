@@ -84,10 +84,10 @@ Below is an abstract model that represents the acoustic structure of Floating Po
 <div class="mermaid">
 
 graph TD
-A["Frequency Spectrum"] --> B["Space formation by harmonic interference"]
-B --> C["Dynamic Pressure"]
-C --> D["Improvisation Path"]
-D --> E["Scientific expansion of ambient jazz"]
+    A["周波数軸（Frequency Spectrum）"] --> B["倍音干渉による空間形成"]
+    B --> C["音圧軸（Dynamic Pressure）"]
+    C --> D["即興軌跡軸（Improvisation Path）"]
+    D --> E["アンビエント・ジャズの科学的拡張"]
 
 
 </div>
@@ -116,15 +116,15 @@ Ambient jazz has transformed from a music of emotion to a music of thought.
 <div class="mermaid">
 
 timeline
-title Floating Points Chronology (2009–2025)
-2009: Debut EP "Vacuum Boogie" released. Attention in the London club scene.
-2011: Co-founded Eglo Records. Soul-electronica fusion period.
-2015: "Elaenia" announced. Acoustic design of modular structure is praised.
-2017: Organized live as Floating Points Ensemble. Expanded jazz character.
-2019: "Crush" released. Dense improvisation by Eurorack.
-2021: "Promises" (with Pharoah Sanders & LSO) combines spirituality and science.
-2023: Collaboration exhibition "Light Patterns" with contemporary acoustics will be held.
-2025: It is reported that the new work "Spectral Biology (tentative title)" is under production.
+    title Floating Points 年表（2009–2025）
+    2009 : デビューEP『Vacuum Boogie』リリース。ロンドン・クラブシーンで注目。
+    2011 : Eglo Records共同設立。ソウル〜エレクトロニカ融合期。
+    2015 : 『Elaenia』発表。モジュラー構造の音響設計が評価される。
+    2017 : Floating Points Ensembleとしてライブ編成化。ジャズ性が拡張。
+    2019 : 『Crush』リリース。Eurorackによる高密度即興。
+    2021 : 『Promises』（with Pharoah Sanders & LSO）で精神性と科学が結合。
+    2023 : 現代音響学とのコラボ展示「Light Patterns」開催。
+    2025 : 新作「Spectral Biology（仮）」制作中と報道。
 
 </div>
 

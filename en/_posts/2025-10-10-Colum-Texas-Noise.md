@@ -110,7 +110,7 @@ The Texas noise scene of the 2020s lies between the network and the land.
 While young artists from Houston and Dallas are active as a digital collective through Bandcamp, YouTube, Discord, etc.
 Older artists continue to work with analog equipment.
 
-> "Noise is a matter of attitude, not technology."
+> "Noise is not about technology, it's about attitude."
 > — Richard Ramirez (Black Leather Jesus)
 
 Texas noise continues to oscillate between wild and urban.
@@ -125,15 +125,15 @@ It could be called **"Southern literature through sound"**.
 <div class="mermaid">
 
 flowchart TD
-A2000["2000: Charalambides reissues 'Unknown Spin' (Kranky)"]
-A2002["2002: No Idea Festival to be held for the first time in Austin"]
-A2005["2005: Black Leather Jesus' "Yes, I Am That Fucking Desperate" released"]
-A2010["2010: Amulets starts its activities"]
-A2015["2015: Tom Carter's Long Time Underground" released]
-A2020["2020: Texas noise netlabel group becomes active (Bandcamp)"]
-A2024["2024: Black Leather Jesus re-evaluation movement, European tour realized"]
+    A2000["2000：Charalambidesが『Unknown Spin』を再発（Kranky）"]
+    A2002["2002：No Idea Festival、オースティンで初開催"]
+    A2005["2005：Black Leather Jesus『Yes, I Am That Fucking Desperate』発表"]
+    A2010["2010：Amuletsが活動開始"]
+    A2015["2015：Tom Carter『Long Time Underground』リリース"]
+    A2020["2020：テキサス・ノイズ・ネットレーベル群が活発化（Bandcamp）"]
+    A2024["2024：Black Leather Jesus再評価の動き、欧州ツアー実現"]
 
-A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
+    A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
 
 
 </div>

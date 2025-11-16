@@ -74,7 +74,7 @@ The members are in their late teens to early 20s.
 **Dan Catsis (bass)**, **John Waddington (guitar)** were the main players.
 
 Unlike the London punks, they were conscious of being **political and artistic**.
-Their debut album ""**Y**'' (1979) was a heresy among heretics even at the time.
+Their debut album, ""**Y**'' (1979), was a heresy of a heresy even at the time.
 The disorder of free jazz, the deep space of dub, the destructive impulse of punk...
 These intersect as **socially critical poems and poetic cries**.
 
@@ -111,7 +111,7 @@ After that, each member takes a different path.
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
+- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
 
 This divergence gave rise to the diversity of the Bristol sound.
 Trip hop, dub, experimental music, political hip hop...
@@ -122,7 +122,7 @@ The influence of The Pop Group is etched into all of them.
 ## Chapter 5: Reassessment and revival in the 21st century
 
 The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival trend.
+Since the 2000s, it has been reevaluated amidst the post-punk revival.
 Especially since 2005, following the **Gang of Four and Wire reunions**,
 They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
 
@@ -168,19 +168,19 @@ That is Bristol's greatest legacy.
 <div class="mermaid">
 
 timeline
-title The flow of Bristol music culture and the trajectory of The Pop Group (1970–2025)
-1970: Immigrant culture takes root in Bristol, sound system culture spreads
-1977: Punk sensation Mark Stewart and others prepare to form a band
-1978 : Formation of The Pop Group
-1979: "Y" released, causing a social shock
-1980 : Single "We Are All Prostitutes" released, disbanded
-1981: Rip Rig + Panic formed, expanding diverse experimental music in Bristol
-1988 : Launch of Wild Bunch, the predecessor of Massive Attack.
-1994: Portishead achieves worldwide trip-hop success with "Dummy"
-2010 : The Pop Group reunited
-2015 : "Citizen Zombie" released
-2023 : Mark Stewart passes away
-2025: Re-evaluation of Bristol's musical heritage continues
+    title ブリストル音楽文化の流れとThe Pop Groupの軌跡（1970–2025）
+    1970 : ブリストルに移民文化が定着、サウンドシステム文化が浸透
+    1977 : パンク旋風、Mark Stewartらがバンド結成準備
+    1978 : The Pop Group結成
+    1979 : 『Y』リリース、社会的衝撃を与える
+    1980 : シングル「We Are All Prostitutes」発表、解散
+    1981 : Rip Rig + Panic結成、ブリストルで多様な実験音楽が拡大
+    1988 : Massive Attack前身のWild Bunch始動
+    1994 : Portishead『Dummy』でトリップホップ世界的成功
+    2010 : The Pop Group再結成
+    2015 : 『Citizen Zombie』リリース
+    2023 : Mark Stewart死去
+    2025 : ブリストルの音楽遺産として再評価が進行
 
 </div>
 
@@ -204,14 +204,14 @@ title The flow of Bristol music culture and the trajectory of The Pop Group (197
 <div class="mermaid">
 
 flowchart TD
-A["The Pop Group (1978)"] --> B["Rip Rig + Panic (1981)"]
-A --> C["Mark Stewart & The Maffia (1982)"]
-B --> D["Massive Attack (1988)"]
-D --> E["Portishead (1994)"]
-D --> F["Tricky (1995)"]
-C --> G["On-U Sound / Adrian Sherwood"]
-E --> H["Trip Hop Movement (1990s–)"]
-A -.-> I["Post-Punk Revival (2000s–)"]
+    A["The Pop Group (1978)"] --> B["Rip Rig + Panic (1981)"]
+    A --> C["Mark Stewart & The Maffia (1982)"]
+    B --> D["Massive Attack (1988)"]
+    D --> E["Portishead (1994)"]
+    D --> F["Tricky (1995)"]
+    C --> G["On-U Sound / Adrian Sherwood"]
+    E --> H["Trip Hop Movement (1990s–)"]
+    A -.-> I["Post-Punk Revival (2000s–)"]
 
 
 </div>

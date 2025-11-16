@@ -199,33 +199,33 @@ And his heart is still beating at a 4/4 beat.
 <div class="mermaid">
 
 flowchart TD
-classDef year fill:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
+  classDef year fill:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
 
-title["Key timeline of German techno (1970–2020)"]:::year
+  title["ドイツ・テクノの主要年表（1970–2020）"]:::year
 
-n1970["1970<br/>Kraftwerk formed (Düsseldorf)"]:::year
-n1974["1974<br/>'Autobahn' released — electronic pop revolution"]:::year
-n1981["1981<br/>D.A.F. "Alles ist gut" — fusion of new wave and electro"]:::year
-n1989["1989<br/>Berlin Wall falls, Tresor opens"]:::year
-n1993["1993<br/>Sven Väth's "Accident in Paradise" released (Frankfurt)"]:::year
-n1996["1996<br/>Basic Channel/Chain Reaction establishes minimal German aesthetics"]:::year
-n2000["2000<br/>Kompakt opens the era of Cologne minimal"]:::year
-n2004["2004<br/>Ellen Allien"s "Berlinette" — symbol of Berlin"s new generation"]:::year
-n2010["2010<br/>Pantha du Prince's "Black Noise"—The maturation of the Northern Melancholy school"]:::year
-n2020["2020<br/>Modular Reevaluation and Expansion of Live Coding Culture"]:::year
+  n1970["1970<br/>Kraftwerk結成（デュッセルドルフ）"]:::year
+  n1974["1974<br/>『Autobahn』リリース — 電子音によるポップ革命"]:::year
+  n1981["1981<br/>D.A.F.『Alles ist gut』— ニューウェーブとエレクトロの融合"]:::year
+  n1989["1989<br/>ベルリンの壁崩壊、Tresorオープン"]:::year
+  n1993["1993<br/>Sven Väth『Accident in Paradise』発表（フランクフルト）"]:::year
+  n1996["1996<br/>Basic Channel／Chain Reactionがミニマル・ドイツ美学を確立"]:::year
+  n2000["2000<br/>Kompaktがケルン・ミニマルの時代を開く"]:::year
+  n2004["2004<br/>Ellen Allien『Berlinette』— ベルリンの新世代象徴"]:::year
+  n2010["2010<br/>Pantha du Prince『Black Noise』— 北部メランコリー派の成熟"]:::year
+  n2020["2020<br/>モジュラー再評価とライブコーディング文化の拡張"]:::year
 
-title --> n1970
-n1970 --> n1974
-n1974 --> n1981
-n1981 --> n1989
-n1989 --> n1993
-n1993 --> n1996
-n1996 --> n2000
-n2000 --> n2004
-n2004 --> n2010
-n2010 --> n2020
+  title --> n1970
+  n1970 --> n1974
+  n1974 --> n1981
+  n1981 --> n1989
+  n1989 --> n1993
+  n1993 --> n1996
+  n1996 --> n2000
+  n2000 --> n2004
+  n2004 --> n2010
+  n2010 --> n2020
 
-</div>
+ </div>
 
 ---
 
@@ -247,86 +247,86 @@ n2010 --> n2020
 <div class="mermaid">
 
 flowchart TD
-%% --- Subgraph: Berlin ---
-subgraph BERLIN["BERLIN"]
-direction TB
-B1["Tresor<br/>(Dimitri Hegemann)"]
-B2["Basic Channel<br/>(Markus / Moritz)"]
-B3["Raster-Noton<br/>(Alva Noto)"]
-B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
-B5["Ellen Allien"]
-B6["Richie Hawtin<br/>(Immigration/Relationship)"]
-end
+  %% --- サブグラフ：ベルリン ---
+  subgraph BERLIN["BERLIN"]
+    direction TB
+    B1["Tresor<br/>(Dimitri Hegemann)"]
+    B2["Basic Channel<br/>(Markus / Moritz)"]
+    B3["Raster-Noton<br/>(Alva Noto)"]
+    B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
+    B5["Ellen Allien"]
+    B6["Richie Hawtin<br/>(移住/関係)"]
+  end
 
-%% --- Subgraph: Düsseldorf to Cologne ---
-subgraph RHINE["DUSSELDORF — KÖLN"]
-direction TB
-C1["Kraftwerk"]
-C2["NEU! / La Düsseldorf"]
-C3["Cluster"]
-C4["Kompakt<br/>(Wolfgang Voigt)"]
-C5["Gas<br/>(Wolfgang Voigt)"]
-end
+  %% --- サブグラフ：デュッセルドルフ〜ケルン ---
+  subgraph RHINE["DUSSELDORF — KÖLN"]
+    direction TB
+    C1["Kraftwerk"]
+    C2["NEU! / La Düsseldorf"]
+    C3["Cluster"]
+    C4["Kompakt<br/>(Wolfgang Voigt)"]
+    C5["Gas<br/>(Wolfgang Voigt)"]
+  end
 
-%% --- Subgraph: Frankfurt ---
-subgraph FRANKFURT["FRANKFURT"]
-direction TB
-F1["Sven Väth"]
-F2["Eye Q/Harthouse"]
-F3["Cocoon<br/>(Sven Väth)"]
-F4["Trance / Rave lineage"]
-end
+  %% --- サブグラフ：フランクフルト ---
+  subgraph FRANKFURT["FRANKFURT"]
+    direction TB
+    F1["Sven Väth"]
+    F2["Eye Q / Harthouse"]
+    F3["Cocoon<br/>(Sven Väth)"]
+    F4["Trance / Rave lineage"]
+  end
 
-%% --- Subgraph: Hamburg-Leipzig ---
-subgraph NORTH["HAMBURG — LEIPZIG"]
-direction TB
-H1["Dial Records<br/>(Claudio PRC etc.)"]
-H2["Pantha du Prince"]
-H3["Local DIY Scenes<br/>(Leipzig underground)"]
-H4["Lawrence"]
-end
+  %% --- サブグラフ：ハンブルク〜ライプツィヒ ---
+  subgraph NORTH["HAMBURG — LEIPZIG"]
+    direction TB
+    H1["Dial Records<br/>(Claudio PRC 等)"]
+    H2["Pantha du Prince"]
+    H3["Local DIY Scenes<br/>(Leipzig underground)"]
+    H4["Lawrence"]
+  end
 
-%% --- External influences (Detroit) ---
-subgraph DETROIT["DETROIT (influence)"]
-direction TB
-D1["Juan Atkins"]
-D2["Kevin Saunderson"]
-D3["Jeff Mills<br/>(Underground Resistance)"]
-end
+  %% --- 外的影響（デトロイト） ---
+  subgraph DETROIT["DETROIT (influence)"]
+    direction TB
+    D1["Juan Atkins"]
+    D2["Kevin Saunderson"]
+    D3["Jeff Mills<br/>(Underground Resistance)"]
+  end
 
-%% --- Arrow (Influence/Genealogy) ---
-%% Berlin internal
-B1 --> B4
-B2 --> B3
-B2 --> B4
-B5 --> B4
-B6 --> B4
+  %% --- 矢印（影響 / 系譜） ---
+  %% Berlin internal
+  B1 --> B4
+  B2 --> B3
+  B2 --> B4
+  B5 --> B4
+  B6 --> B4
 
-%% Rhine internal
-C1 --> C2
-C1 --> C3
-C3 --> C4
-C4 --> C5
-C2 --> C4
+  %% Rhine internal
+  C1 --> C2
+  C1 --> C3
+  C3 --> C4
+  C4 --> C5
+  C2 --> C4
 
-%% Frankfurt internal
-F1 --> F2
-F2 --> F3
-F3 --> F4
+  %% Frankfurt internal
+  F1 --> F2
+  F2 --> F3
+  F3 --> F4
 
-%% North internal
-H1 --> H2
-H2 --> H4
-H3 --> H2
+  %% North internal
+  H1 --> H2
+  H2 --> H4
+  H3 --> H2
 
-%% Cross-city influences
-C1 --> B2
-D3 --> B1
-D1 --> C1
-F1 --> B4
-C4 --> B3
-H1 --> B3
-H3 --> B1
+  %% Cross-city influences
+  C1 --> B2
+  D3 --> B1
+  D1 --> C1
+  F1 --> B4
+  C4 --> B3
+  H1 --> B3
+  H3 --> B1
 
 </div>
 
@@ -343,7 +343,7 @@ That's why this country remains "honest in sound" more than anywhere else in the
 
 ### Related columns
 
-🔗 [[Column] Genealogy and present of German Techno - Aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Column] The genealogy and current state of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 

@@ -117,16 +117,16 @@ Incorporating even silence into noise, he has recorded the **vibration of existe
 <div class="mermaid">
 
 timeline
-title Merzbow activity timeline (1979–2025)
-1979: Formed Merzbow. Independently produces cassette works.
-1981: "Metal Acoustic Music" released, connecting with domestic and international cassette culture.
-1985: "Remblandt Assemblage" announced. Established the basis of harsh noise.
-1994: Entered the world with "Venereology" from Relapse Records.
-2000: "Merzbox" (50-disc BOX) released, legendary archive.
-2002: Announced animal welfare and veganism. This has been reflected in subsequent works.
-2010: Completed the "13 Japanese Birds" series.
-2019: Reevaluated as the antithesis of the AI ​​music era.
-2025: Development of the "Ecological Noise" series, exploring the boundary between sound and life.
+    title Merzbow活動年表（1979–2025）
+    1979 : Merzbow結成。カセット作品を自主制作。
+    1981 : "Metal Acoustic Music"リリース、国内外カセット文化と接続。
+    1985 : "Remblandt Assemblage"発表。ハーシュノイズの基礎を確立。
+    1994 : "Venereology"でRelapse Recordsより世界進出。
+    2000 : "Merzbox"（50枚組BOX）リリース、伝説的アーカイブ化。
+    2002 : 動物愛護・ヴィーガニズムを表明。以降作品群に反映。
+    2010 : "13 Japanese Birds"シリーズ完結。
+    2019 : AI音楽時代へのアンチテーゼとして再評価。
+    2025 : 「生態ノイズ」シリーズ展開、音と生命の境界を探求。
 
 </div>
 
@@ -137,12 +137,12 @@ title Merzbow activity timeline (1979–2025)
 <div class="mermaid">
 
 flowchart TD
-A["Input: Analog signal (microphone/metal/tape)"]
-B["Amplification/Feedback"]
-C["Distortion/Saturation"]
-D["Control collapse point (self-generation of noise)"]
-E["Output: Noise as acoustic space"]
-A --> B --> C --> D --> E
+    A["入力：アナログ信号（マイク・金属・テープ）"]
+    B["増幅・フィードバック"]
+    C["歪み／サチュレーション"]
+    D["制御崩壊点（ノイズの自己生成）"]
+    E["出力：音響空間としてのノイズ"]
+    A --> B --> C --> D --> E
 
 </div>
 
@@ -154,13 +154,13 @@ A --> B --> C --> D --> E
 
 flowchart LR
 
-T1["1950s: Toru Takemitsu/The Dawn of Electronic Music"]
-T2["1970s: Yuji Takahashi/Free Jazz/Fluxus"]
-T3["1980s: Merzbow appearance/cassette culture"]
-T4["2000s: Digital Noise/Vegan Period"]
-T5["2020s: Noise aesthetics after AI"]
+    T1["1950s：武満徹／電子音楽黎明"]
+    T2["1970s：高橋悠治／フリージャズ／Fluxus"]
+    T3["1980s：Merzbow登場／カセット文化"]
+    T4["2000s：デジタルノイズ／ヴィーガン期"]
+    T5["2020s：AI以降のノイズ美学"]
 
-T1 --> T2 --> T3 --> T4 --> T5
+    T1 --> T2 --> T3 --> T4 --> T5
 
 </div>
 
@@ -172,10 +172,10 @@ T1 --> T2 --> T3 --> T4 --> T5
 
 flowchart TD
 
-A["Analog era (physical destruction)"]
-B["Digital era (signal collapse)"]
-C["AI era (noise of consciousness)"]
-A --> B --> C
+    A["アナログ時代（物理的破壊）"]
+    B["デジタル時代（信号の崩壊）"]
+    C["AI時代（意識のノイズ）"]
+    A --> B --> C
 
 
 </div>

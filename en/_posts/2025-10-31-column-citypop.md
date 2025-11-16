@@ -50,7 +50,7 @@ color: #fff;
 Its musicality is multi-layered. AOR, soul, funk, jazz, disco - based on Western black music, they combined Japanese melodic beauty and poetry. Tatsuro Yamashita"s precise vocal harmony, Mariya Takeuchi"s sweet yet heartrending melody, and Eiichi Otaki's structured production. All of them functioned as a "Japanese redefinition of pop."
 
 The themes of this music are summarized in motifs such as love, nightlife, loneliness, and movement. Even though it is set in a city, there is a certain feeling of being left behind.
-It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. Now that urbanization and digitalization have progressed, they too face the same loneliness.
+It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. This is because, in a time of urbanization and digitalization, they too face the same loneliness.
 
 ---
 
@@ -60,7 +60,7 @@ From the late 1970s to the 1980s, Japanese society rapidly achieved affluence.
 Home appliances, cars, fashion, and music symbolized the "urban lifestyle."
 Sony's Walkman (1979) ushered in a revolution in ""carrying music with you,'' and City Pop became the ideal soundtrack.
 
-FM stations open one after another, and DJs play the latest hits in English. The chord progression evokes the winds of the American West Coast, and is associated with images of cities such as Tokyo, Yokohama, and Kobe.
+FM stations open one after another, and DJs play the latest hits in English. The chord progression, which evokes the winds of the American West Coast, is linked to images of cities such as Tokyo, Yokohama, and Kobe.
 It can be said that listeners at the time were expressing themselves ""living in the city'' through city pop.
 During this period, Japan's recording technology reached the highest level in the world, and the sound quality of records was extremely high. It was a time when the city really resonated both acoustically and socially.
 
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
+Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."
@@ -164,16 +164,16 @@ The city night is beginning to light up again in the ears of the world.
 <div class="mermaid">
 
 timeline
-title Timeline of the rediscovery of City Pop
-1978: Tatsuro Yamashita releases ""SPACY'', the prototype of city pop.
-1981: Recorded "Plastic Love" by Mariya Takeuchi.
-1985: Toshio Kadomatsu "SEA IS A LADY".
-1990: Bubble burst, genre decline.
-2003: DJ MURO and others released a re-discovered mix.
-2017: "Plastic Love" spread overseas on YouTube.
-2019: Night Tempo's "Showa Groove" series becomes an international success.
-2022: Spotify "Tokyo Night Drive" playlist is popular worldwide.
-2025: A dedicated City Pop stage will be installed at overseas festivals.
+    title シティポップ再発見の年表
+    1978 : 山下達郎『SPACY』発表、シティポップの原型。
+    1981 : 竹内まりや『Plastic Love』収録。
+    1985 : 角松敏生『SEA IS A LADY』。
+    1990 : バブル崩壊、ジャンル衰退。
+    2003 : DJ MUROらが再発掘ミックスを発表。
+    2017 : YouTubeで“Plastic Love”が海外拡散。
+    2019 : Night Tempo『Showa Groove』シリーズが国際的成功。
+    2022 : Spotify “Tokyo Night Drive”プレイリストが世界人気。
+    2025 : 海外フェスでCity Pop専用ステージ設置へ。
 
 </div>
 
@@ -184,12 +184,12 @@ title Timeline of the rediscovery of City Pop
 <div class="mermaid">
 
 graph TD
-A[Japanese city pop of the 80s] --> B[YouTube upload]
-B --> C [Diffusion by algorithm]
-C --> D [Rediscovery of overseas listeners]
-D --> E [Influx into DJ culture/vaporwave]
-E --> F [Influence on contemporary artists]
-F --> G [Globalization of Nostalgia]
+A[80年代の日本シティポップ] --> B[YouTubeアップロード]
+B --> C[アルゴリズムによる拡散]
+C --> D[海外リスナーの再発見]
+D --> E[DJカルチャー・Vaporwaveへの流入]
+E --> F[現代アーティストへの影響]
+F --> G[ノスタルジアのグローバル化]
 
 </div>
 

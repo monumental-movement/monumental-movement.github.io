@@ -56,7 +56,7 @@ During this period, the foundations of **temporal/rhythmic expression** in line 
 
 - **1986**: First book "SPINOZA" published (Sakushasha).
 Characterized by philosophical themes and abstract visuals.
-**Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
+By adjusting the density of lines, screen composition, and temporal rhythm, **visual musicality** is revealed.
   
 - **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
 The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
@@ -112,15 +112,15 @@ While influenced by these influences, Koike is unique in that he translates cons
 <div class="mermaid">
 
 graph LR
-A["SPINOZA (1986)<br>Motif: Philosophy/Consciousness<br>Technique: Abstract composition, density of lines<br>Musical metaphor: Minimal"]:::a
-B["G (1988)<br>Motif: Science fiction/life transformation<br>Technique: Tense dense lines<br>Music metaphor: Industrial"]:::b
-C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/Consciousness Expansion<br>Technique: Wave structure of entire page<br>Musical metaphor: Psychedelic Ambient"]:::c
+    A["SPINOZA（1986）<br>モチーフ：哲学・意識<br>技法：抽象構図、線の密度<br>音楽比喩：ミニマル"]:::a
+    B["G（1988）<br>モチーフ：SF・生命変容<br>技法：緊張感ある密線<br>音楽比喩：インダストリアル"]:::b
+    C["ULTRA HEAVEN（2002–）<br>モチーフ：幻覚・意識拡張<br>技法：ページ全体の波動構造<br>音楽比喩：サイケデリック・アンビエント"]:::c
 
-A --> B --> C
+    A --> B --> C
 
-classDef a fill:#1a1a1a,color:#fff;
-classDef b fill:#2a2a2a,color:#fff;
-classDef c fill:#3a3a3a,color:#fff;
+    classDef a fill:#1a1a1a,color:#fff;
+    classDef b fill:#2a2a2a,color:#fff;
+    classDef c fill:#3a3a3a,color:#fff;
 
 
 </div>
@@ -133,17 +133,17 @@ classDef c fill:#3a3a3a,color:#fff;
 <div class="mermaid">
 
 timeline
-title Keiichi Koike Chronology (1976–2005)
-1976: Selected for the 12th Tezuka Prize "Urashima", debuted
-1981: Moved to the United States and participated in commercial production at Richard Williams Animation Inc.
-1983: "LANDED" published in "Epic Illustrated"
-1986: First book "SPINOZA" published
-1988: "Katajikenai" and "G (GATE 1)" published
-2002: "ULTRA HEAVEN" published
-2003: "HEAVEN'S DOOR" published
-2003 : Reprint of previously published "G"
-2005: "ULTRA HEAVEN" Volume 2 published
-2009: "ULTRA HEAVEN" Volume 3 published
+    title 小池桂一 年表（1976–2005）
+    1976 : 第12回手塚賞「ウラシマ」入選、デビュー
+    1981 : 渡米、Richard Williams Animation Inc.でCM制作参加
+    1983 : 『Epic Illustrated』に『LANDED』掲載
+    1986 : 初単行本『SPINOZA』刊行
+    1988 : 『かたじけない』『G（GATE 1）』刊行
+    2002 : 『ULTRA HEAVEN』刊行
+    2003 : 『HEAVEN'S DOOR』刊行
+    2003 : 既刊『G』復刻
+    2005 : 『ULTRA HEAVEN』第2巻刊行
+    2009 : 『ULTRA HEAVEN』第3巻刊行
 
 </div>
 

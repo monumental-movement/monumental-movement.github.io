@@ -73,7 +73,7 @@ Here, we will analyze the lyrics of each song from a socially critical point of 
 
 This Heat (1976–82) was an experimental rock band from London consisting of Charles Hayward, Charles Burrell, and Gareth Williams. Cunningham was deeply involved in recording and editing, providing technical support for the introduction of tape loops, feedback, and acoustic collage.
 
-In particular, working in the **Cold Storage Studio** (an experimental studio converted from a refrigerated warehouse) became a place where Cunningham could demonstrate his technical skills. Cutting and splicing tapes, playing them backwards, and disassembling recording into 24 tracks gave rise to sounds that would later become directly connected to the post-rock and noise scene.
+In particular, working in the **Cold Storage Studio** (an experimental studio converted from a refrigerated warehouse) became a place where Cunningham could demonstrate his technical skills. Cutting and splicing tapes, playing them backwards, and disassembling recording into 24 tracks gave rise to sounds that would later become directly connected to the post-rock and noise scenes.
 
 ---
 
@@ -162,12 +162,12 @@ The studio was not just a recording space, but a testing ground for translating 
 
 <div class="mermaid">
 flowchart TD
-A["David Cunningham<br>(Producer/Recording Technician)"] --> B["The Flying Lizards"]
-A --> C["This Heat<br>(Recording/editing participation)"]
-C --> D["Album: This Heat (1979)"]
-C --> E["Album: Deceit (1981)"]
-A --> F["Solo work<br>Grey Scale (1976)"]
-A --> G["Collaboration with Michael Nyman"]
+    A["David Cunningham<br>(プロデューサー/録音技術)"] --> B["The Flying Lizards"]
+    A --> C["This Heat<br>(録音・編集参加)"]
+    C --> D["アルバム: This Heat (1979)"]
+    C --> E["アルバム: Deceit (1981)"]
+    A --> F["ソロ作品<br>Grey Scale (1976)"]
+    A --> G["Michael Nymanとの協働"]
 </div>
 
 ---
@@ -175,7 +175,7 @@ A --> G["Collaboration with Michael Nyman"]
 ### Conclusion
 
 - **Lyric Interpretation**: This Heat critiques the Cold War both lyrically and sonically.
-- **Cunningham's recording philosophy**: Uses equipment such as Revox, Studer, and EQ as a "political metaphorical device."
+- **Cunningham's recording philosophy**: Uses equipment such as Revox, Studer, and EQ as "political metaphorical devices."
 - **Historical significance of experimental music**: Beyond post-punk, it is directly connected to the foundations of modern sampling/DAW culture and even AI music production.
 
 Their music is still a group of works that should be reevaluated as ""recording = criticism = experiment.''

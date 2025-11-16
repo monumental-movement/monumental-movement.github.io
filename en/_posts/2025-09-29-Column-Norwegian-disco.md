@@ -43,17 +43,17 @@ The disco created by Norwegian producers is more than just retro playback. The m
 
 <div class="mermaid">
 flowchart TD
-PT[Prins Thomas]
-LS[Lindstrøm]
-MJ[Mungolian Jet Set]
-ST[Smalltown Supersound]
-DT [Disko B / Internasjonale collaboration]
+  PT[Prins Thomas]
+  LS[Lindstrøm]
+  MJ[Mungolian Jet Set]
+  ST[Smalltown Supersound]
+  DT[Disko B / Internasjonale コラボ]
 
-PT -->|Co-production/Remix| LS
-LS -->|Produced| OtherArtists[Diverse artists]
-MJ -->|DJ Mix / Curation| PT
-PT -->|Label/Compilation| ST
-ST --> DT
+  PT -->|共同制作/リミックス| LS
+  LS -->|プロデュース| OtherArtists[多様なアーティスト]
+  MJ -->|DJ Mix / キュレーション| PT
+  PT -->|レーベル/コンパイル| ST
+  ST --> DT
 </div>
 
 ---

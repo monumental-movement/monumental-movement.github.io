@@ -15,7 +15,7 @@ title: '[Column] Shibuya-kei sound from its origins to the present — 10 master
 
 
 
-## 渋谷系サウンドの発祥から現在まで 
+## From the origins of Shibuya-kei sound to the present
 
 
 Text: mmr｜Theme: Historical background of Shibuya-kei sound, famous records, and changes in equipment
@@ -37,7 +37,7 @@ Shibuya-kei sound is a Japanese music movement that spread around record shops a
 
 ### Equipment used
 - Synthesizers such as Roland Juno-60 and Yamaha DX7
-- Roland TR-808など初期ドラムマシン  
+- Early drum machines such as Roland TR-808
 - Home recording culture using cassette MTR
 
 ### Recommended 10 songs (1980s)
@@ -95,8 +95,8 @@ color: #fff;
 | Baby Love Child | Pizzicato Five | Famous songs that are popular overseas |
 | Camera Talk | Flipper"s Guitar | Fusion of pop and indie |
 | Young, Alive, in Love | Flipper"s Guitar | Youthful and Western music-oriented |
-| Perfect Ray | Cornelius | 実験性とポップ感 |
-| If You're Here | Cornelius | フューチャリスティックな音像 |
+| Perfect Ray | Cornelius | Experimentality and pop feel |
+| If You're Here | Cornelius | Futuristic sound image |
 | Strong feelings, strong love | Kenji Ozawa | The perfect form of Shibuya-kei pop |
 | Lovely | Kenji Ozawa | Became a national hit |
 | Until the world ends | WANDS (sphere of influence) | Pop-rock approach |
@@ -107,24 +107,24 @@ color: #fff;
 ## 2000s — Post-Shibuya-kei
 ### Historical background
 - While Shibuya-kei died out commercially, it influenced electropop by Capsule and Yasutaka Nakata.
-- ネオ渋谷系とも呼ばれるクラブミュージック的展開が増える。  
+- The development of club music, also known as neo-Shibuya-kei, will increase.
 
 ### Representative masterpiece
-- [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)  
+- [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)
 - [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)
-- [小沢健二 — *Eclectic* (2002)](https://amzn.to/4mtfA4k)  
+- [Kenji Ozawa — *Eclectic* (2002)](https://amzn.to/4mtfA4k)
 
 ### Equipment used
 - DAW popularization (Logic, Cubase SX)
-- ソフトシンセ（Native Instruments, Arturia）  
-- Laptop DJ文化  
+- Soft synth (Native Instruments, Arturia)
+- Laptop DJ Culture
 
-### おすすめ10曲（2000s）
+### Recommended 10 songs (2000s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
 | More! More! More! | Capsule | Synonymous with neo-Shibuya style |
-| Sugarless GiRL | Capsule | エレクトロとの融合 |
+| Sugarless GiRL | Capsule | Fusion with electro |
 | Beautiful Days | Fantastic Plastic Machine | Sophisticated Club Pop |
 | Love Is Psychedelic | Tomoyuki Tanaka | Shibuya Sound Inheritance |
 | Denki Bilibili | Perfume (produced by Nakata) | Evolution of Shibuya style |
@@ -139,29 +139,29 @@ color: #fff;
 ## 2010s — Re-evaluation and expansion
 ### Historical background
 - It was rediscovered by the internet generation and became a genre overseas as "Shibuya-kei".
-- シティポップ再評価とも並行してリバイバル。  
+- Revival in parallel with City Pop re-evaluation.
 
 ### Representative masterpiece
-- [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)  
+- [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)
 - [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)
-- [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)  
+- [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)
 
 ### Equipment used
-- Ableton Liveやソフトサンプラー  
+- Ableton Live and soft sampler
 - Introducing modular synths
-- 配信ライブ向けのデジタル機材  
+- Digital equipment for live streaming
 
 ### Recommended 10 songs (2010s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
 | Someday / Somewhere | Cornelius | Mature experimentation |
-| If You're Here | Cornelius | 繊細な音響感覚 |
+| If You're Here | Cornelius | Delicate acoustic sense |
 | Sound of Music | Towa Tei | Neo Shibuya sense |
 | Happy | Towa Tei | Colorful and modern |
 | Orphans | cero | Neo-Shibuya style band sound |
 | Summer Soul | cero | Soulful Revival |
-| Tokyo Lights | Dorian | 現代的な渋谷感覚 |
+| Tokyo Lights | Dorian | Modern Shibuya feel |
 | Memories | Metafive | Fusion of techno and pop |
 | Radio | Metafive | Sound experimentation |
 | Timeless Melody | Shugo Tokumaru | Folk-pop inheritance |
@@ -175,26 +175,26 @@ color: #fff;
 
 ### Representative masterpiece
 - [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)
-- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)  
+- [cero — *e o* (2021)](https://amzn.to/46LD7sJ)
 - [Various Artists — Neo Shibuya-kei compilation *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)
 
 ### Equipment used
 - Home recording/DTM environment assuming streaming distribution
 - Software-based production
-- アナログとデジタルのハイブリッド  
+- Analog and digital hybrid
 
 ### Recommended 10 songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
-| Dream in Dream | Cornelius | 静謐と実験の調和 |
-| 火花 | cero | 現代的ジャズとの交錯 |
+| Dream in Dream | Cornelius | Harmony of serenity and experimentation |
+| Spark | cero | Intersection with contemporary jazz |
 | e o | cero | The height of neo-Shibuya sense |
 | Stay | Towa Tei | Minimal and sophisticated beauty |
 | Ambience | Dorian | Neo-city pop inheritance |
-| Neon Sign | Metafive | クラブと渋谷の未来像 |
+| Neon Sign | Metafive | Future vision of clubs and Shibuya |
 | Ryusei | cero | organic groove |
-| Future Past | Cornelius | 世代を超えた実験 |
+| Future Past | Cornelius | Experiments Across Generations |
 | Groove Is In You | Towa Tei | The boundary between dance and art |
 | Nostalgia | Young indie | Neo-Shibuya style budding |
 

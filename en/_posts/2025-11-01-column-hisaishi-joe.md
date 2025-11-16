@@ -71,7 +71,7 @@ This name was first used officially on the 1981 album Information.
 
 ## Chapter 3: "Nausicaa of the Valley of the Wind" (1984) - The first encounter between film and music
 
-1984年、徳間書店とトップクラフトによる映画『風の谷のナウシカ』の音楽担当に選ばれた久石は、  
+In 1984, Hisaishi was chosen to be in charge of the music for the film ""Nausicaa of the Valley of the Wind'' by Tokuma Shoten and Top Craft.
 The song uses a combination of synthesizers and ethnic instruments, which is unusual for animation music.
 
 Initially, director Hayao Miyazaki is said to have wanted ""music that would make you feel the breath between nature and machinery.''
@@ -158,7 +158,7 @@ Throughout these works, Hisaishi's music becomes an element that governs the ""i
 
 ## Chapter 11: "How do you live?" (2023) - Sound abstraction and new challenges
 
-How do you live, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
+How do you live?, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
 Joe Hisaishi was once again in charge of the music.
 
 This work uses an abstract sound structure, emphasizing resonance and texture rather than melody.
@@ -203,14 +203,14 @@ This work is the latest example of Hisaishi's continued bridging of film music a
 <div class="mermaid">
 
 graph TD
-A[Joe Hisaishi's musical philosophy] --> B[Minimalism]
-A --> C [Memory of melody]
-A --> D [Sounding space]
-B --> E[Nausicaa of the Valley of the Wind]
-C --> F[My Neighbor Totoro]
-D --> G[Princess Mononoke]
-G --> H[Spirited Away]
-H --> I [How do you guys live?]
+    A[久石譲の音楽理念] --> B[ミニマリズム]
+    A --> C[旋律の記憶]
+    A --> D[響きの空間]
+    B --> E[風の谷のナウシカ]
+    C --> F[となりのトトロ]
+    D --> G[もののけ姫]
+    G --> H[千と千尋の神隠し]
+    H --> I[君たちはどう生きるか]
 
 </div>
 

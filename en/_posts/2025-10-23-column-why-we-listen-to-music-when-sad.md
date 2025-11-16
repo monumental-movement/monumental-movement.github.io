@@ -92,14 +92,14 @@ The chronology below shows the typical flow.
 <div class="mermaid">
 
 timeline
-title Cultural history of sadness and music (B.C. to modern times)
-500 BC: Ancient Greek "Threnos"—a ritual of collective mourning.
-1600: Baroque opera — "Lamento", a style that turns sadness into art
-1820: Romantic music — inner expression symbolized by Chopin's "Funeral March"
-1940 : Blues/Gospel — turning social pain into sound
-1970: Singer-songwriter culture — personal grief becomes poetry
-1990: Grunge/Alternative — an aesthetic that screams loneliness
-2020 : Lo-fi hiphop/emo rap — a new requiem for the age of digital loneliness
+    title 悲しみと音楽の文化史（紀元前〜現代）
+    BC500 : 古代ギリシャ「哀歌（threnos）」— 集団で悲しみを歌う儀式
+    1600 : バロック期オペラ — 哀しみを芸術化する様式「ラメント」
+    1820 : ロマン派音楽 — ショパン『葬送行進曲』に象徴される内面の表出
+    1940 : ブルース／ゴスペル — 社会的苦痛を音に変える
+    1970 : シンガーソングライター文化 — 個人の悲しみが詩となる
+    1990 : グランジ／オルタナティヴ — 孤独を叫ぶ美学
+    2020 : Lo-fi hiphop／エモラップ — デジタル孤独時代の新しい鎮魂歌
 
 
 </div>
@@ -135,10 +135,10 @@ In an anonymous space, people exchange ""quiet empathy'' through sound.
 <div class="mermaid">
 
 graph LR
-A[feelings of sadness] --> B[music selection behavior]
-B --> C[Algorithm recommendation]
-C --> D[Share playlist]
-D --> E [Circle of empathy/approval]
+    A[悲しみの感情] --> B[音楽選択行動]
+    B --> C[アルゴリズム推薦]
+    C --> D[プレイリストの共有]
+    D --> E[共感・承認の循環]
 
 </div>
 
@@ -217,22 +217,22 @@ Music is a medium that turns sadness into love.
 <div class="mermaid">
 
 graph TD
-title["Neural map of the brain: the network of music and emotion"]
+    title["脳の神経マップ：音楽と感情のネットワーク"]
 
-A[Auditory cortex (primary auditory cortex)] -->|Processing of sound information| B[Amygdala: emotional center]
-A -->|Rhythm and melody analysis| C[Prefrontal cortex: Judgment and comparison with memory]
-B -->|Induce emotional response| D[cingulate cortex: empathy/self-consciousness]
-C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
-D -->|Synchronization with other people's emotions| F[Insular cortex: Generation of physical empathy]
-E -->|Amplify satisfaction| B
+    A[聴覚野（一次聴覚皮質）] -->|音情報の処理| B[扁桃体：感情の中枢]
+    A -->|リズムとメロディ分析| C[前頭前野：判断・記憶との照合]
+    B -->|感情反応を誘発| D[帯状皮質：共感・自己意識]
+    C -->|快感評価| E[側坐核：ドーパミン報酬系]
+    D -->|他者感情との同期| F[島皮質：身体的共感の生成]
+    E -->|満足感を増幅| B
 
-style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
-style A fill:#b2df8a,stroke:#66a61e
-style B fill:#8dd3c7,stroke:#1b9e77
-style C fill:#ffffb3,stroke:#d95f02
-style D fill:#bebada,stroke:#7570b3
-style E fill:#fdb462,stroke:#e78ac3
-style F fill:#80b1d3,stroke:#1f78b4
+    style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
+    style A fill:#b2df8a,stroke:#66a61e
+    style B fill:#8dd3c7,stroke:#1b9e77
+    style C fill:#ffffb3,stroke:#d95f02
+    style D fill:#bebada,stroke:#7570b3
+    style E fill:#fdb462,stroke:#e78ac3
+    style F fill:#80b1d3,stroke:#1f78b4
 
 </div>
 
@@ -244,22 +244,22 @@ style F fill:#80b1d3,stroke:#1f78b4
 <div class="mermaid">
 
 flowchart TD
-title["Empathy Structure Diagram: Grief and Music Resonance Process"]
+    title["共感構造ダイアグラム：悲しみと音楽の共鳴プロセス"]
 
-A[Personal experience of sadness] --> B[Music selection (lyrics/melody)]
-B --> C [Self-projection: Discovering common emotions]
-C --> D [Emotional resonance: Tears, relief, purification]
-D --> E [Neural empathy: mirror neuron activation]
-E --> F [Emotional reintegration and recovery]
-F -->|Silence of mind| G[New self-understanding]
+    A[個人の悲しみ体験] --> B[音楽の選択（歌詞・メロディ）]
+    B --> C[自己投影：共通する感情の発見]
+    C --> D[情動共鳴：涙・安堵・浄化]
+    D --> E[神経的共感：ミラーニューロン活性化]
+    E --> F[感情の再統合と回復]
+    F -->|心の静寂| G[新しい自己理解]
 
-style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
-style A fill:#fbb4ae,stroke:#de2d26
-style B fill:#b3cde3,stroke:#377eb8
-style C fill:#ccebc5,stroke:#31a354
-style D fill:#decbe4,stroke:#756bb1
-style E fill:#fed9a6,stroke:#e6550d
-style F fill:#ffffcc,stroke:#636363
-style G fill:#ccebc5,stroke:#31a354,stroke-width:2px
+    style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
+    style A fill:#fbb4ae,stroke:#de2d26
+    style B fill:#b3cde3,stroke:#377eb8
+    style C fill:#ccebc5,stroke:#31a354
+    style D fill:#decbe4,stroke:#756bb1
+    style E fill:#fed9a6,stroke:#e6550d
+    style F fill:#ffffcc,stroke:#636363
+    style G fill:#ccebc5,stroke:#31a354,stroke-width:2px
 
 </div>

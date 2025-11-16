@@ -41,10 +41,10 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-A["1920s-1950s"] --> B["Era of Folk Collecting (Lomax et al.)"]
-B --> C["1960s-1970s: Evolution of portable devices"]
-C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
-D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
+  A["1920s-1950s"] --> B["民俗採集の時代（Lomaxら）"]
+  B --> C["1960s-1970s: ポータブル機器の進化"]
+  C --> D["1980s-1990s: アンビエント／フィールド採用の増加（Eno等）"]
+  D --> E["2000s-現在: デジタル化と32-bit float機の普及"]
 </div>
 
 

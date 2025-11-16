@@ -74,7 +74,7 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
+Enjoying this "freedom of bass sounds" with the sensibilities of your own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---
@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a sound that connects the world between popular songs and AOR.
+They have created a world-class sound between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---
@@ -235,15 +235,15 @@ The planet of bass has not stopped ringing yet.
 <div class="mermaid">
 
 timeline
-title Base evolution history (1950–2025)
-1950: Jazz walking bass (Ray Brown, Mingus)
-1960: Rise of rock bass (McCartney, Entwistle)
-1970 : Funk/Fusion (Larry Graham, Jaco)
-1980 : Synth bass and city pop (Haruomi Hosono, Tetsuo Sakurai)
-1990 : Post-rock and Bristol (Massive Attack, Peter Hook)
-2000: Redefining the bass of club music (Daft Punk, Squarepusher)
-2010 : Post-Jazz/Thundercat
-2020: Hybrid bass era (AI, global bass culture)
+  title ベース進化史（1950–2025）
+  1950 : ジャズの歩くベース（Ray Brown, Mingus）
+  1960 : ロックベースの台頭（McCartney, Entwistle）
+  1970 : ファンク／フュージョン（Larry Graham, Jaco）
+  1980 : シンセベースとシティポップ（細野晴臣, 櫻井哲夫）
+  1990 : ポストロックとブリストル（Massive Attack, Peter Hook）
+  2000 : クラブミュージックの低音再定義（Daft Punk, Squarepusher）
+  2010 : ポストジャズ／Thundercat
+  2020 : ハイブリッド低音時代（AI, グローバル・ベース文化）
 
 
 </div>
@@ -256,26 +256,26 @@ title Base evolution history (1950–2025)
 
 flowchart LR
 %% Center: Bass
-Bass["BASS\n(bass)\n— center of gravity, groove, and harmony"]
+Bass["BASS\n(低音)\n— 重心・グルーヴ・ハーモニーの要"]
 
 
-%%Primary roles
-Rhythm["Rhythm Foundation\n(Timekeeping)"]
-Harmony["Basics of chords\n(root/progression)"]
-Groove["Creating a groove\n(feel/nuance)"]
-Texture["Tone/Texture\n(Tone/Effect)"]
-Lead["Melody/Solo\n(Turn to the front)"]
-Design["Sound design\n(synth bass/programming)"]
+%% Primary roles
+Rhythm["リズムの基盤\n(タイムキーピング)"]
+Harmony["和音の基礎\n(ルート／進行)"]
+Groove["グルーヴの創出\n(フィール／ニュアンス)"]
+Texture["音色・テクスチャ\n(トーン／エフェクト)"]
+Lead["メロディ／ソロ\n(前面への出番)"]
+Design["サウンドデザイン\n(シンセベース／プログラミング)"]
 
 
 %% Techniques / Instruments
-Upright["Upright / Upright\n(Walking/Jazz)"]
-P_Bass["Fender P-Bass\n(rock/pop classic)"]
-J_Bass["Fender J-Bass\n(Multipurpose) "]
-Fretless["Fretless\n(Smooth tone/Make you sing) "]
-Synth["Synth bass\n(Bass design/sub bass) "]
-Slap["Slap/Tapping\n(Funk/Aggressive) "]
-Effects["Effects: Compressor\nOverdrive, chorus, etc."]
+Upright["Upright / アップライト\n(ウォーキング／ジャズ)"]
+P_Bass["Fender P-Bass\n(ロック／ポップの定番)"]
+J_Bass["Fender J-Bass\n(多目的) "]
+Fretless["Fretless\n(滑らかな音色／歌わせる) "]
+Synth["シンセベース\n(低音設計／サブベース) "]
+Slap["スラップ／タッピング\n(ファンク／アグレッシブ) "]
+Effects["エフェクト: コンプレッサー\nオーバードライブ・コーラス等"]
 
 
 %% Connections
@@ -296,8 +296,8 @@ Harmony --> J_Bass
 Lead --> Fretless
 
 
-%%Context labels
-Scene1["Scene: Jazz / Rock / Funk / Club / Postrock"]
+%% Context labels
+Scene1["シーン別: Jazz / Rock / Funk / Club / Postrock"]
 Bass --> Scene1
 
 

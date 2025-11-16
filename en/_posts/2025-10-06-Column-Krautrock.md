@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for Germans.
+"Sauerkraut" is a slang term for German people.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.
@@ -74,7 +74,7 @@ He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave rise to the concept that "recording tape itself is an instrument."
+This gave birth to the concept that the recording tape itself is an instrument.
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."
@@ -235,7 +235,7 @@ For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the st
 
 In the late 1970s, young people in Germany were once again undergoing change.
 Krautrock's experimental spirit manifests itself in punk and new wave.
-In Berlin, David Bowie and Brian Eno produced the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
+In Berlin, David Bowie and Brian Eno created the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
 
 - Bowie's "Low" (1977) is a fusion of Neu! and Cluster.
 - Joy Division and The Fall reinjected motorik rhythms into rock.
@@ -251,21 +251,21 @@ This is the very spirit of ""finding your own sound.''
 <div class="mermaid">
 
 flowchart TD
-title["Krautrock major band chronology"]
+  title["クラウトロック主要バンド年表"]
 
-A1968["1968 : Formation of CAN (Cologne)"]
-A1970["1970 : Formation of Kraftwerk (Dusseldorf)"]
-A1971a["1971 : Formation of Faust (Wuppertal)"]
-A1971b["1971 : Neu! Formed (Dusseldorf)"]
-A1971c["1971 : Tangerine Dream"Alpha Centauri""]
-A1972["1972 : Popol Vuh"Hosianna Mantra""]
-A1973["1973 : Cluster"Zuckerzeit""]
-A1974["1974 : Harmonia Formation (Forst)"]
-A1975["1975 : Klaus Schulze"Timewind""]
-A1977["1977 : Bowie & Eno, Berlin Trilogy"]
-A1990s["1990s: Stereolab / Tortoise wave of reappraisal"]
+  A1968["1968 : CAN 結成（ケルン）"]
+  A1970["1970 : Kraftwerk 結成（デュッセルドルフ）"]
+  A1971a["1971 : Faust 結成（ヴッパータール）"]
+  A1971b["1971 : Neu! 結成（デュッセルドルフ）"]
+  A1971c["1971 : Tangerine Dream『Alpha Centauri』"]
+  A1972["1972 : Popol Vuh『Hosianna Mantra』"]
+  A1973["1973 : Cluster『Zuckerzeit』"]
+  A1974["1974 : Harmonia 結成（Forst）"]
+  A1975["1975 : Klaus Schulze『Timewind』"]
+  A1977["1977 : Bowie & Eno、ベルリン三部作"]
+  A1990s["1990s : Stereolab / Tortoise に再評価の波"]
 
-A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
+  A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
 
 
 </div>

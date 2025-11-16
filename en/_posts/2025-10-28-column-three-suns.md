@@ -120,7 +120,7 @@ The ""ma'', where the density of sound is thin and exists like air, was the fore
 | Air | French duo | Analog feel and floating melody |
 | Cornelius | Japan | Home acoustic sound construction |
 | Stereolab | British and French | Retro-Future Sound |
-| Beirut | America | Standard-bearer of accordion revival |
+| Beirut | America | Standard-bearer of accordion restoration |
 
 ---
 
@@ -129,15 +129,15 @@ The ""ma'', where the density of sound is thin and exists like air, was the fore
 <div class="mermaid">
 
 timeline
-title Three Suns Chronology (1940–2000)
-1940: Formed in Pennsylvania (Al & Morty Nevins + Artie Dunn)
-1944 : "Twilight Time" a big hit
-1950: Signed with RCA, entering the modern pop era
-1956 : "Movin" "n' Groovin'" released
-1957: "Midnight for Two" – A masterpiece of the Hi-Fi era
-1962 : Activity curtailed, Nevins turned to production work.
-1990: Reissued and reevaluated due to Lounge boom
-2000: Reborn as the "retro future of sound" in the internet era
+    title Three Suns 年表（1940–2000）
+    1940 : ペンシルヴェニアで結成（Al & Morty Nevins + Artie Dunn）
+    1944 : 「Twilight Time」大ヒット
+    1950 : RCAと契約、モダン・ポップ期へ
+    1956 : 『Movin' 'n' Groovin'』発表
+    1957 : 『Midnight for Two』― Hi-Fi時代の代表作
+    1962 : 活動縮小、Nevinsが制作業へ転向
+    1990 : Loungeブームで再発・再評価
+    2000 : ネット時代に「音のレトロ・フューチャー」として再生
 
 </div>
 
@@ -177,15 +177,15 @@ It is beginning to sound once again for the sake of an ""analog future.''
 <div class="mermaid">
 
 flowchart TD
-A["Accordion (breathing and melody)"]
-B["Guitar (Rhythm and Space)"]
-C["Organ (overtones and depth)"]
-D["Home acoustics (living room reverberation)"]
+    A["アコーディオン（呼吸と旋律）"]
+    B["ギター（リズムと空間）"]
+    C["オルガン（倍音と深度）"]
+    D["家庭音響（リビングルームの残響）"]
 
-A --> D
-B --> D
-C --> D
-D -->|"Enveloping universe of sound"| E["Relaxation/Happiness/Nostalgia"]
+    A --> D
+    B --> D
+    C --> D
+    D -->|"包み込む音の宇宙"| E["リラックス／幸福感／懐かしさ"]
 
 </div>
 

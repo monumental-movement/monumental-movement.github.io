@@ -159,13 +159,13 @@ Rather, **human memory itself is a rotating device**.
 <div class="mermaid">
 
 flowchart TD
-A1877["1877: Edison invented the phonograph"] --> A1901["1901: Spread of SP (Shellac Record)"]
-A1901 --> A1948["1948: LP record debut (Columbia Records)"]
-A1948 --> A1963["1963: Birth of compact cassette"]
-A1963 --> A1982["1982: CD debut — the dawn of the digital era"]
-A1982 --> A1999["1999: MP3 revolution/emergence of Napster"]
-A1999 --> A2010["2010s: Vinyl Revival — Global Record Reappraisal"]
-A2010 --> A2020["2020s: Signs of AI music and analog recombination"]
+    A1877["1877：エジソン、蓄音機（Phonograph）発明"] --> A1901["1901：SP盤（Shellac Record）普及"]
+    A1901 --> A1948["1948：LPレコード登場（Columbia Records）"]
+    A1948 --> A1963["1963：コンパクトカセット誕生"]
+    A1963 --> A1982["1982：CD登場 — デジタル時代の幕開け"]
+    A1982 --> A1999["1999：MP3革命／Napster出現"]
+    A1999 --> A2010["2010年代：Vinyl Revival — 世界的レコード再評価"]
+    A2010 --> A2020["2020年代：AI音楽とアナログ再結合の兆し"]
 
 </div>
 

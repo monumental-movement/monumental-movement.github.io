@@ -97,12 +97,12 @@ In this context, the Pandit's silence and mask came to symbolize an idealized "f
 
 <div class="mermaid">
 timeline
-title Genealogy of exotica music
-1940 : Les Baxter's "Ritual of the Savage" appears
-1957 : Martin Denny "Exotica" hit
-1958 : Arthur Lyman "Taboo"
-1961 : Yma Sumac "Legend of the Sun Virgin"
-1990 : Re-evaluation by Combustible Edison
+    title エキゾチカ音楽の系譜
+    1940 : Les Baxter「Ritual of the Savage」登場
+    1957 : Martin Denny「Exotica」ヒット
+    1958 : Arthur Lyman「Taboo」
+    1961 : Yma Sumac「Legend of the Sun Virgin」
+    1990 : Combustible Edisonによる再評価
 </div>
 
 Les Baxter's 1952 album "Ritual of the Savage"
@@ -182,11 +182,11 @@ Since the 2000s, his videos and records have been rediscovered as collector's it
 <div class="mermaid">
 
 graph TD
-A[Hollywood movie] --> B[Exotica music]
-B --> C[Tiki culture]
-C --> D[Lifestyle consumption]
-B --> E [Modern Lo-Fi Sound]
-E --> F[Chillout / Vaporwave]
+    A[ハリウッド映画] --> B[エキゾチカ音楽]
+    B --> C[ティキ文化]
+    C --> D[ライフスタイル消費]
+    B --> E[現代Lo-Fiサウンド]
+    E --> F[チルアウト / Vaporwave]
 
 </div>
 

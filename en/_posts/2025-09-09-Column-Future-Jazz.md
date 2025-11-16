@@ -78,7 +78,7 @@ The term "Future Jazz" became established around Germany's Compost Records. The 
 - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
 - **Equipment characteristics**
-- Akai MPC3000
+-Akai MPC3000
 -EMU SP-1200
 -Roland JV-1080
 -Korg MS-20
@@ -120,7 +120,7 @@ West London's Broken Beat scene evolves Future Jazz. A fusion of rhythmic comple
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Change | Fusion of electro and jazz. |
 | 2 | 4hero | Les Fleur | Orchestral and grand. |
-| 3 | Nicola Conte | Bossa Per Due | A fusion of Bossa Nova and Future Jazz. |
+| 3 | Nicola Conte | Bossa Per Due | A fusion of bossa nova and future jazz. |
 | 4 | Vikter Duplaix | Messages | Neo-soul sound. |
 | 5 | Jazzanova | L.O.V.E. and You & I | A song that represents broken beat. |
 | 6 | Kyoto Jazz Massive | Spirit of the Sun | Important works from Japan. |
@@ -212,7 +212,7 @@ In the era of streaming and AI, Future Jazz has been reevaluated and intersected
 | No | Artist | Track | Comments |
 |---|---|---|---|
 | 1 | Alfa Mist | Keep On | Melancholy Future Jazz. |
-| 2 | Kamaal Williams | Hold On | A representative contemporary jazz piece from London. |
+| 2 | Kamaal Williams | Hold On | A representative contemporary jazz song from London. |
 | 3 | Shabaka Hutchings | Hustle | Spiritual and powerful. |
 | 4 | Nubya Garcia | Pace | Saxophone stands out. |
 | 5 | Blue Lab Beats | Pineapple | A fusion of hip-hop and jazz. |

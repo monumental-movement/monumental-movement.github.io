@@ -50,7 +50,7 @@ What was distinctive about it was that the software itself consisted of a machin
 
 ### Changes since the initial version
 
-* Initial: Runs on Windows 95/98.軽量で、トラッカー風のパターン編集画面とモジュラー・ビュー（Machine View）を備えていた。
+* Initial: Runs on Windows 95/98. It was lightweight and had a tracker-like pattern editing screen and a modular view (Machine View).
 * Plug-in ecosystem: Since the beginning of development, there has been a ""Buzzlib'' specification that allows users to freely create and distribute sound sources and effects, and many machines have appeared from the community.
 * Version upgrade: Official development was temporarily stalled (due to loss of source code), but it was announced in June 2008 that development would resume.
 *Last build: Build 1503 released on January 16, 2016.
@@ -159,7 +159,7 @@ In this way, Holden"s early works have a sonic language that is highly compatibl
 Regarding Aphex Twin (real name Richard D. James), no solid primary documents (official interviews, etc.) have been found that say he "used Buzz," and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonials. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
 Also stated in the HackerNews thread:
 
-> “I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing.” 
+> "I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing."
 
 
 ### 5.3 Other artists/domestic creators
@@ -267,12 +267,12 @@ Below is a diagram of a typical machine connection (signal flow) in Buzz.
 <div class="mermaid">
 
 flowchart LR
-A[Oscillator/Sampler] --> B[Filter]
-B --> C[Envelope/LFO]
-C --> D[Delay]
-D --> E[Reverb]
-E --> F[Output]
-G[LFO／Modulator] --> B
+    A[Oscillator／Sampler] --> B[Filter]
+    B --> C[Envelope／LFO]
+    C --> D[Delay]
+    D --> E[Reverb]
+    E --> F[Output]
+    G[LFO／Modulator] --> B
 
 </div>
 

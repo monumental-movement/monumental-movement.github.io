@@ -73,7 +73,7 @@ Since the 1980s, it has become popular as a format with high sound quality, long
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
-Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
+Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) have also appeared.
 
 ■DVD/Blu-ray: Video + Music
 
@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
+Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
@@ -102,15 +102,15 @@ The boundary between "functionality" and "artistic" in film music is once again 
 <div class="mermaid">
 
 flowchart TD
-A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
-B["💿Records (1950s-1980s) General distribution of film music. Mainly recording highlights"]
-C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music"]
-D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels"]
-E["📀 DVD / Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
-F["💻 Digital sound sources (2000s~) MP3 / FLAC, etc. High-resolution distribution and independent artists' communication"]
-G["☁ Subscription (2010s~) The era of listening to movie music. Create a playlist and redefine it"]
+  A["🎞 サウンド・オン・フィルム（1930〜60年代） 光学録音 → 磁気録音へ。ステレオ化・音質向上"]
+  B["💿 レコード（1950〜80年代） 映画音楽の一般流通。ハイライト収録中心"]
+  C["📼 カセット / 8トラック（1970〜80年代） 家庭・車載再生機器での普及。映画音楽の携帯化"]
+  D["💽 CD（1980年代以降） 高音質・長時間収録。専門レーベル登場で黄金期"]
+  E["📀 DVD / Blu-ray（1990年代以降） 映像＋立体音響でサウンドトラックを再体験"]
+  F["💻 デジタル音源（2000年代〜） MP3 / FLACなど。高解像度配信と独立作家の発信"]
+  G["☁ サブスクリプション（2010年代〜） 映画音楽を“聴き流す時代”。プレイリスト化と再定義"]
 
-A --> B --> C --> D --> E --> F --> G
+  A --> B --> C --> D --> E --> F --> G
 
 </div>
 
@@ -123,7 +123,7 @@ A --> B --> C --> D --> E --> F --> G
 <thead>
 <tr>
 <th>Item</th>
-      <th>サウンドトラック（OST）</th>
+<th>Soundtrack (OST)</th>
 <th>Score (Original Score)</th>
 </tr>
 </thead>
@@ -155,13 +155,13 @@ A --> B --> C --> D --> E --> F --> G
 
 Film music is also a popular collector's item, with the following media being particularly prized:
 
-- 未発表スコアのCD化（Expanded Editions）
+- CD version of unreleased scores (Expanded Editions)
 
 Example: Aliens - Complete Motion Picture Score (Intrada)
 
 - Reprint of analog version/color version
 
-Death WaltzやWaxwork Recordsがホラー映画音楽を美術品のようにリリース。
+Death Waltz and Waxwork Records release horror movie music like works of art.
 
 - Film score publishing
 
@@ -170,11 +170,11 @@ Scores are published for the purpose of film music performance and research.
 
 <hr>
 
-### 作曲家視点から見た媒体の変遷
+### Changes in the medium from a composer's perspective
 
 **● John Williams generation (analog to CD)**
 
-オーケストラ収録を前提としたアナログマスター → デジタル化
+Analog master for orchestral recording → digitization
 
 **● Hans Zimmer generation (digital native)**
 
@@ -184,7 +184,7 @@ A score designed with media development in mind.
 
 **● Contemporary composer (distribution-driven)**
 
-YouTube、ゲーム、ストリーミング映画（Netflix）への対応。
+Compatible with YouTube, games, and streaming movies (Netflix).
 
 Mixes based on Dolby Atmos and spatial audio are also on the rise.
 
@@ -204,11 +204,11 @@ The emergence of next-generation media that is reintegrated with images, such as
 
 <hr>
 
-### 音の記憶はどのように保存されるか？
+### How are sound memories stored?
 
 Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
 
-スクリーンに流れた音は、スピーカーを通してまた私たちの内側に帰ってくる。媒体とは、記憶の器であり、物語のもうひとつの再生装置なのだ。
+The sound that flows on the screen returns to us through the speakers. The medium is a vessel for memory and another device for reproducing the story.
 
 
 <hr>

@@ -91,17 +91,17 @@ It is also noteworthy that, amid financial difficulties, a reverse process was a
 <div class="mermaid">
 
 timeline
-title Chronology of Philip Glass and Koyaanisqatsi
-1937: Birth of Philip Glass (Baltimore, USA)
-1965: Studied at the Paris Conservatory, studying under Nadia Boulanger
-1970 : Formation of Glass Ensemble
-1976: "Einstein on the Beach" (co-written with Robert Wilson) premiered
-1977: Met Godfrey Reggio
-1979: Filming for "Koyaanisqatsi" begins
-1982: The movie "Koyaanisqatsi" is released and becomes a hot topic due to its fusion of music and video.
-1988 : Sequel "Powaqqatsi" released
-2002: Completed trilogy "Naqoyqatsi" released
-2017: Re-performance of "Einstein on the Beach", a wave of reappraisal of minimal music
+    title フィリップ・グラスとコヤニスカッツィの年表
+    1937 : フィリップ・グラス誕生（アメリカ・ボルチモア）
+    1965 : パリ音楽院に留学、ナディア・ブーランジェに師事
+    1970 : グラス・アンサンブル結成
+    1976 : 『Einstein on the Beach』（ロバート・ウィルソンと共作）初演
+    1977 : ゴッドフリー・レッジオと出会う
+    1979 : 『Koyaanisqatsi』撮影開始
+    1982 : 映画『Koyaanisqatsi』公開、音楽と映像の融合で話題に
+    1988 : 続編『Powaqqatsi』公開
+    2002 : 三部作完結『Naqoyqatsi』公開
+    2017 : 『Einstein on the Beach』再演、ミニマル音楽再評価の波
 
 </div>
 
@@ -116,13 +116,13 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 
 ---
 
-## Chapter 5: The relationship between video composition and music
+## Chapter 5: The correspondence relationship between video composition and music
 
 | Scene | Music motif | Meaning/effect |
 | ----------- | -------- | ---------- |
 | Wilderness and rocket launch | Sustained organ sound | Contrast between life and machine |
 | Urban transportation/factories | Repetition of sequences | Endless labor cycle |
-| Close-up of the face | Chorus and deceleration | Questions about the restoration of humanity |
+| Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
 As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
@@ -148,10 +148,10 @@ This work is not just a movie, but has become something that can be called an ""
 <div class="mermaid">
 
 graph TD
-A[Nature] -->|Destruction/Consumption| B[City]
-B -->|Excess/Speed| C[Machine Society]
-C -->|Collapse| D[Silence]
-D -->|Rebirth/Meditation| A
+A[自然] -->|破壊・消費| B[都市]
+B -->|過剰・速度| C[機械社会]
+C -->|崩壊| D[静寂]
+D -->|再生・瞑想| A
 
 </div>
 

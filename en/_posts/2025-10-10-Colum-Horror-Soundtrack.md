@@ -179,16 +179,16 @@ The next generation of horror composers already has an ear for turning horror in
 <div class="mermaid">
 
 flowchart TD
-A2010["2010: Insidious (Joseph Bishara)"]
-A2013["2013: The Conjuring (Joseph Bishara)"]
-A2014["2014: It Follows (Disasterpeace)"]
-A2015["2015: The Witch (Mark Korven)"]
-A2017["2017: Get Out (Michael Abels)"]
-A2018["2018: Hereditary (Colin Stetson)"]
-A2019["2019: Midsommar (The Haxan Cloak)"]
-A2020["2020: The Invisible Man (Benjamin Wallfisch)"]
-A2022["2022: Skinamarink (Jonathan Ball)"]
-A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> A2022
+    A2010["2010：Insidious（Joseph Bishara）"]
+    A2013["2013：The Conjuring（Joseph Bishara）"]
+    A2014["2014：It Follows（Disasterpeace）"]
+    A2015["2015：The Witch（Mark Korven）"]
+    A2017["2017：Get Out（Michael Abels）"]
+    A2018["2018：Hereditary（Colin Stetson）"]
+    A2019["2019：Midsommar（The Haxan Cloak）"]
+    A2020["2020：The Invisible Man（Benjamin Wallfisch）"]
+    A2022["2022：Skinamarink（Jonathan Ball）"]
+    A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> A2022
 
 
 </div>

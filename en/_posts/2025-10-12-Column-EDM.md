@@ -18,7 +18,7 @@ title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital 
 ## There is a moment when sound becomes architecture
 
 
-Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
+Text: mmr｜Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
 
 A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
 The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
@@ -120,7 +120,7 @@ Logos, perfumes, NFTs, headphones—all have become "sound-related industries."
 ### Ⅵ. Branching and mutation: Post-EDM horizon
 
 Eventually, the celebrations start to wear out.
-People tired of the glare of the main stage began to return to dark clubs.
+People who were tired of the glare of the main stage began to return to the dark clubs.
 
 "Introspective EDM" demonstrated by Porter Robinson and Madeon——
 It wasn't a festival, it was a sound dealing with individual emotions.
@@ -188,15 +188,15 @@ It's just changing form.
 <div class="mermaid">
 
 flowchart TD
-A1990["1990: Rise of Techno/Trance (expansion of European club scene)"]
-A2000["2000: The budding of Progressive House and Electro House"]
-A2010["2010: EDM boom in full swing (Avicii, Guetta, SHM)"]
-A2013["2013: Ultra Japan, Tomorrowland becomes a symbol"]
-A2016["2016: Introspective EDM by Porter Robinson and others"]
-A2020["2020: The rise of virtual festivals during the pandemic"]
-A2025["2025: AI-generated music and Metaverse DJ fusion"]
+    A1990["1990：Techno／Trance隆盛（欧州クラブシーン拡大）"]
+    A2000["2000：Progressive House、Electro Houseの萌芽"]
+    A2010["2010：EDMブーム本格化（Avicii、Guetta、SHM）"]
+    A2013["2013：Ultra Japan、Tomorrowlandが象徴的存在に"]
+    A2016["2016：Porter Robinsonらによる“内省系EDM”登場"]
+    A2020["2020：パンデミック下のバーチャルフェス台頭"]
+    A2025["2025：AI生成音楽とメタバースDJが融合"]
 
-A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
+    A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 
 
 
