@@ -29,9 +29,12 @@
       <div class="scroll-row row{{ row }}">
         {% for tag in rotated %}
           {% assign tag_slug = tag | replace: ' ', '-' %}
-          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}{% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" class="tag row{{ row }}">
-            #{{ tag }}
-          </a>
+          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
+           {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
+           {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
+   class="tag row{{ row }}">
+  #{{ tag }}
+</a>
         {% endfor %}
         {% for tag in rotated %}
           {% assign tag_slug = tag | replace: ' ', '-' %}

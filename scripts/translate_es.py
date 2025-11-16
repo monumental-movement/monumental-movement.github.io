@@ -10,6 +10,7 @@ os.makedirs(DEST_DIR, exist_ok=True)
 
 translator = GoogleTranslator(source='ja', target='es')
 
+
 def is_non_translatable(line):
     """HTML・CSS・テーブル・コードを除外して誤検知を防ぐ"""
     stripped = line.strip()
@@ -31,19 +32,16 @@ def is_non_translatable(line):
         return True
     return False
 
+
 def translate_text(text):
     """翻訳が必要な場合のみ DeepTranslator を実行"""
-    if is_non_translatable(text):
-        return text
+    if not isinstance(text, str):
+        text = str(text)
     try:
-        result = translator.translate(str(text))
-        if result is None:
-            return str(text)
-        if isinstance(result, str):
-            return result
-        return str(result)
+        return translator.translate(text)
     except Exception:
-        return str(text)
+        return text
+
 
 def split_front_matter(content):
     if content.startswith("---"):
@@ -52,26 +50,22 @@ def split_front_matter(content):
             return parts[1], parts[2]
     return "", content
 
+
 def load_yaml_safe(fm):
     try:
         return yaml.safe_load(fm) or {}
     except Exception:
         return {}
 
+
 def extract_slug(filename):
-    """
-    日付や特殊文字を除き、URL向けに安全な slug を生成
-    例: 2025-11-08-Stoned Baby and Join Clap – AK-47 EP.md
-         → stoned-baby-and-join-clap-ak-47-ep
-    """
+    """日付や特殊文字を除き URL 用に安全な slug を生成"""
     base = os.path.splitext(filename)[0]
-    # 日付部分を削除
     base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
-    # 半角スペースや特殊文字をハイフンに置換
     slug = re.sub(r'[^\w]+', '-', base)
-    # 小文字化 & 前後ハイフン削除
     slug = slug.lower().strip('-')
     return slug
+
 
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
@@ -111,12 +105,28 @@ for filename in os.listdir(SRC_DIR):
     # 本文翻訳
     translated_body = ""
     in_code_block = False
+    in_mermaid_block = False
+
     for line in body.splitlines():
+        # Mermaid 開始
+        if '<div class="mermaid">' in line:
+            in_mermaid_block = True
+            translated_body += line + "\n"
+            continue
+        # Mermaid 終了
+        if '</div>' in line and in_mermaid_block:
+            in_mermaid_block = False
+            translated_body += line + "\n"
+            continue
+
+        # コードブロック開始/終了
         if line.strip().startswith("```"):
             in_code_block = not in_code_block
             translated_body += line + "\n"
             continue
-        if in_code_block or is_non_translatable(line):
+
+        # 翻訳除外判定
+        if in_code_block or in_mermaid_block or is_non_translatable(line):
             translated_body += line + "\n"
         else:
             translated_body += translate_text(line) + "\n"

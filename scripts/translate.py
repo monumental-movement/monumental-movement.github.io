@@ -102,11 +102,21 @@ for filename in os.listdir(SRC_DIR):
     translated_body = ""
     in_code_block = False
     for line in body.splitlines():
+        if '<div class="mermaid">' in line:
+            in_mermaid_block = True
+            translated_body += line + "\n"
+            continue
+        if '</div>' in line and in_mermaid_block:
+            in_mermaid_block = False
+            translated_body += line + "\n"
+            continue
+
         if line.strip().startswith("```"):
             in_code_block = not in_code_block
             translated_body += line + "\n"
             continue
-        if in_code_block:
+
+        if in_code_block or in_mermaid_block:
             translated_body += line + "\n"
         else:
             translated_body += translate_text(line) + "\n"
