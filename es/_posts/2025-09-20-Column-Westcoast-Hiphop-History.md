@@ -23,7 +23,7 @@ El hip-hop de la costa oeste comenzó con fiestas de barrio y ritmos derivados d
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -49,11 +49,11 @@ color: #fff;
 **Álbumes recomendados**
 
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | ギャングスタ・ラップの基礎を築いた重要作 |
-| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | 社会を揺るがした問題作。西海岸の象徴 |
-| *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | エレクトロとラップの融合が際立つ一枚 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *La rima paga* (1987) | Hielo-T | [Amazon](https://amzn.to/46NqVaQ) | Un trabajo importante que sentó las bases del gangsta rap |
+| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la costa oeste |
+| *En el Nilo* (1984) | El amante egipcio | [Amazon](https://amzn.to/3VsfDCE) | Una destacada fusión de electro y rap |
 
 ---
 
@@ -67,11 +67,11 @@ color: #fff;
 
 **Álbum recomendado (extracto)**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *The Chronic* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | G-Funkを確立した金字塔 |
-| *Doggystyle* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | スムースなフロウで西海岸を世界に広めた傑作 |
-| *All Eyez on Me* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | ダブルアルバムの大作。2Pacの代表作 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *La Crónica* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | El monumento que estableció G-Funk |
+| *Estilo perrito* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | Una obra maestra que extendió la Costa Oeste al mundo con su fluidez |
+| *Todos los ojos puestos en mí* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
 
 
 ---
@@ -85,10 +85,10 @@ color: #fff;
 
 **Álbum recomendado (extracto)**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *Madvillainy* (2004) | Madvillain | [Amazon](https://amzn.to/3Kbp4ny) | 実験性と完成度を兼ね備えた地下名盤 |
-| *The Documentary* (2005) | The Game | [Amazon](https://amzn.to/4guXSMq) | Dr. Dreの後継を感じさせる復権作 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *Madvillainy* (2004) | Madvillano | [Amazon](https://amzn.to/3Kbp4ny) | Una obra maestra underground que combina experimentación y perfección |
+| *El Documental* (2005) | El juego | [Amazon](https://amzn.to/4guXSMq) | Un resurgimiento que se siente como un sucesor de Dr. Dre |
 
 
 ---
@@ -102,10 +102,10 @@ color: #fff;
 
 **Álbum recomendado (extracto)**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *good kid, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | 映画的叙事詩のような構成と物語性 |
-| *To Pimp a Butterfly* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | ジャズ／ファンクと社会批評の融合 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *buen chico, m.A.A.d city* (2012) | Kendrick Lamar | [Amazon](https://amzn.to/4pp320C) | Estructura y narrativa como una epopeya cinematográfica |
+| *Para proxenetar una mariposa* (2015) | Kendrick Lamar | [Amazon](https://amzn.to/42IAWDN) | Fusión de jazz/funk y crítica social |
 
 
 ---
@@ -113,13 +113,13 @@ color: #fff;
 ## Lista de películas
 
 
-| 映画タイトル | 年 | Amazonリンク |
+| Título de la película | Año | Enlace de Amazon |
 |--------------|----|--------------|
-| *Boyz n the Hood* | 1991 | [Amazon](https://amzn.to/3Ke8a7J) |
-| *Menace II Society* | 1993 | [Amazon](https://amzn.to/46dujM2) |
-| *Above the Rim* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
-| *Straight Outta Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
-| *All Eyez on Me* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
+| *Los chicos del barrio* | 1991 | [Amazon](https://amzn.to/3Ke8a7J) |
+| *Sociedad Amenaza II* | 1993 | [Amazon](https://amzn.to/46dujM2) |
+| *Por encima del borde* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
+| *Directamente de Compton* | 2015 | [Amazon](https://amzn.to/4pu6DuB) |
+| *Todos los ojos puestos en mí* | 2017 | [Amazon](https://amzn.to/4gCSMxU) |
 
 ---
 
@@ -136,24 +136,24 @@ color: #fff;
 
 ### N.W.A
 
-| アルバム | Amazonリンク |
+| Álbum | Enlace de Amazon |
 |----------|--------------|
-| *Straight Outta Compton* (1988) | [Amazon](https://amzn.to/4neTnsc) |
+| *Directamente de Compton* (1988) | [Amazon](https://amzn.to/4neTnsc) |
 | *Efil4zaggin* (1991) | [Amazon](https://amzn.to/48qgXgM) |
 
 ### Dr.Dre
 
-| アルバム | Amazonリンク |
+| Álbum | Enlace de Amazon |
 |----------|--------------|
-| *The Chronic* (1992) | [Amazon](https://amzn.to/42IAyVR) |
+| *La Crónica* (1992) | [Amazon](https://amzn.to/42IAyVR) |
 | *2001* (1999) | [Amazon](https://amzn.to/46xisHJ) |
 
 ### 2pac
 
-| アルバム | Amazonリンク |
+| Álbum | Enlace de Amazon |
 |----------|--------------|
-| *Me Against the World* (1995) | [Amazon](https://amzn.to/46rHIPl) |
-| *All Eyez on Me* (1996) | [Amazon](https://amzn.to/47T8DGd) |
+| *Yo contra el mundo* (1995) | [Amazon](https://amzn.to/46rHIPl) |
+| *Todos los ojos puestos en mí* (1996) | [Amazon](https://amzn.to/47T8DGd) |
 
 ---
 
@@ -162,14 +162,14 @@ color: #fff;
 A continuación se muestra una tabla horizontal y vertical en formato Mermaid que se puede incrustar en un artículo de Jekyll. Si lo publicas en tu blog, podrás comprobar visualmente los cambios en la moda a lo largo de los años.
 
 <div class="mermaid">
-diagrama de flujo TD
-relleno de estilo A:#0b1221,trazo:#ffffff,ancho de trazo:1px
-A["décadas de 1970 y 1980\nKangol, Adidas, zapatillas de deporte locales"] --> B["décadas de 1990\nDickies, Chuck Taylor, bandanas, cultura lowrider"]
-B --> C["década de 2000\nSupreme, Stüssy, BAPE, marca de skate/calle"]
-C --> D["década de 2010–actualidad\nAltas marcas x ropa urbana (Gucci, Off-White), vestimenta sin género"]
+flowchart TD
+  style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
+  A["Décadas de 1970 y 1980\nKangol, Adidas, zapatillas locales"] --> B["Dickies, Chuck Taylor, pañuelos y cultura lowrider de los años 90"]
+  B --> C["Década de 2000\nSupreme, Stüssy, BAPE, marcas de skate street"]
+  C --> D["Década de 2010–actualidad\nGrandes marcas x ropa urbana (Gucci, Off-White), vestimenta sin género"]
 
-relleno de décadas classDef:#071428,color:#e6eef8
-clase A,B,C,D décadas
+  classDef decades fill:#071428,color:#e6eef8
+  class A,B,C,D decades
 </div>
 
 ---

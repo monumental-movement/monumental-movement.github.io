@@ -36,7 +36,7 @@ En los shows en vivo de esa época, era común que el público se riera, se conf
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Capítulo 1: Escape del punk rudo y torpe
@@ -71,7 +71,7 @@ Dejan Londres y se transforman en un grupo de crítica social que cruza polític
 Los miembros no son fijos, y los amigos de la época universitaria van y vienen, a veces grabando con hasta 10 personas. Su naturaleza como colectivo de arte es cada vez más fuerte.
 
 Su obra maestra de 1989 [“The Mekons Rock ‘n’ Roll”] (https://amzn.to/4nIWLMc) fue el resumen de eso.
-Una composición espacial única con doble seguimiento de la guitarra, excesiva reverberación y bajas frecuencias suprimidas del bajo. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
+Una composición espacial única con doble seguimiento de la guitarra, reverberación excesiva y frecuencias de graves suprimidas. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
 Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 > “Sabemos que el rock and roll es peligroso. Puede destruir países”.
@@ -88,7 +88,7 @@ Durante este período, Jon Langford redescubrió que "el country es el blues de 
 
 Grabado en Woodlands, Leeds, un estudio independiente en ese momento. La guitarra, grabada directamente en línea en una cinta analógica, tiene una saturación natural que aprovecha la distorsión del amplificador, y los micrófonos de sala se utilizan a menudo para las voces.
 Este sonido de baja fidelidad crea una "sensación poética de distancia" en lugar de un "olor a barro".
-Este álbum sería más tarde reevaluado como un precursor de artistas de "alt-country" como Uncle Tupelo y Wilco.
+Este álbum sería más tarde reevaluado como un precursor del género "alt-country" de artistas como Uncle Tupelo y Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -110,7 +110,7 @@ Aunque utilizó Pro Tools para este trabajo, utilizó deliberadamente una consol
 ---
 
 ### Capítulo 5: Feminismo y solidaridad, perspectivas de las socias femeninas
-> **“A medida que crecen más voces, la verdad se vuelve más dividida.”**
+> **“A medida que las voces se multiplican, la verdad se divide.”**
 
 Sally Timms merece una mención especial en la historia de Mekons.
 Cuando se unió oficialmente al grupo en 1985, trabajó no sólo como vocalista, sino también como "narradora".
@@ -129,7 +129,7 @@ En las presentaciones en vivo, hay muchas escenas en las que Sally lee en voz al
 > **"Su arte es un testimonio y una celebración."**
 
 El documental de 2013 [Revenge of the Mekons](https://amzn.to/3KJVhCA) ​​​​mostró el núcleo del movimiento.
-El director Joe Angio los describe como "obras de arte vivientes".
+El director Joe Angio las describe como "obras de arte vivientes".
 Este trabajo muestra cómo los Mekons han atravesado diversas formas de expresión, incluyendo no sólo la música sino también la pintura, la fotografía, la poesía y el activismo político.
 El propio Jon Langford fue un pintor activo y presentó una "imagen antirromántica de Estados Unidos" al representar simbólicamente los paisajes del Medio Oeste estadounidense.
 
@@ -171,15 +171,15 @@ Por eso todavía suenan.
 
 ## Discografía principal de Mekons
 
-| 発売年 | タイトル | 備考 | リンク |
+| Año de lanzamiento | Título | Notas | Enlace |
 |:--:|:--|:--|:--|
-| 1978 | *Where Were You / I'll Have To Dance Then (On My Own)* | デビュー初期シングル、パンク精神の象徴 | [Amazon](https://amzn.to/3ICpuDb) |
-| 1979 | *The Quality of Mercy Is Not Strnen* | 初期パンクの記録 | [Amazon](https://amzn.to/475k7ED) |
-| 1985 | *Fear and Whiskey* | ポストパンク＋カントリーの融合 | [Amazon](https://amzn.to/3J1VsbQ) |
-| 1989 | *The Mekons Rock ’n’ Roll* | 社会批評の極み | [Amazon](https://amzn.to/4pY2TSl) |
-| 1994 | *Retreat from Memphis* | 再生と変容の時期 | [Amazon](https://amzn.to/4mWrggs) |
-| 2000 | *Journey to the End of the Night* | 異郷への旅 | [Amazon](https://amzn.to/4q3A5HR) |
-| 2019 | *Deserted* | 荒野に立つ集団の詩 | [Amazon](https://amzn.to/4nHdkYD) |
+| 1978 | *¿Dónde estabas / Entonces tendré que bailar (solo)* | Un primer single de debut, símbolo del espíritu punk | [Amazon](https://amzn.to/3ICpuDb) |
+| 1979 | *La cualidad de la misericordia no es estricta* | Disco punk temprano | [Amazon](https://amzn.to/475k7ED) |
+| 1985 | *Miedo y whisky* | Fusión post-punk + country | [Amazon](https://amzn.to/3J1VsbQ) |
+| 1989 | *El rock 'n' roll de Mekons * | El colmo de la crítica social | [Amazon](https://amzn.to/4pY2TSl) |
+| 1994 | *Retirada de Memphis* | Un tiempo de renacimiento y transformación | [Amazon](https://amzn.to/4mWrggs) |
+| 2000 | *Viaje al final de la noche* | Viaje a una tierra extranjera | [Amazon](https://amzn.to/4q3A5HR) |
+| 2019 | *Desierto* | Poesía de un grupo de pie en el desierto | [Amazon](https://amzn.to/4nHdkYD) |
 
 ---
 
@@ -187,19 +187,19 @@ Por eso todavía suenan.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1977["1977: Formado en la Universidad de Leeds (Jon Langford, Tom Greenhalgh et al.)"]
-A1978a["1978: Lanzamiento del sencillo "¿Dónde estabas / Tendré que bailar entonces (por mi cuenta)"?"]
-A1978b["1978: Lanzamiento del sencillo "Never Been in a Riot""]
-A1979["1979: Álbum 'La calidad de la misericordia no es Strnen'"]
-A1985["1985: Anuncio de 'Fear and Whiskey' → Cambiar a ruta rural"]
-A1989[“1989: Se anuncia “The Mekons Rock ‘n’ Roll””]
-A1993["1993: gira americana y traslado a Chicago"]
-A2000["2000: Viaje al final de la noche"]
-A2013["2013: Estreno del documental "La venganza de los Mekons""]
-A2019["2019: 'Desierto' anunciado"]
-A2025["2025: Actividades continuas — Hacia la fusión de la música y el arte"]
+flowchart TD
+    A1977["1977: Formado en la Universidad de Leeds (Jon Langford, Tom Greenhalgh et al.)"]
+    A1978a["1978: Lanzamiento del sencillo 'Dónde estabas / Tendré que bailar entonces (por mi cuenta)'"]
+    A1978b["1978: Lanzamiento del sencillo 'Never Been in a Riot'"]
+    A1979["1979: Álbum 'La calidad de la misericordia no es Strnen'"]
+    A1985["1985: Anuncio de 'Fear and Whiskey' → Cambiar a ruta rural"]
+    A1989["1989: Lanzamiento de 'The Mekons Rock 'n' Roll'"]
+    A1993["1993: gira americana y traslado a Chicago"]
+    A2000["2000: Se estrena 'Viaje al final de la noche'"]
+    A2013["2013: Se estrena el documental 'La venganza de los Mekons'"]
+    A2019["2019: Anuncio de 'Deserted'"]
+    A2025["2025: Actividades continuas - Hacia la fusión de la música y el arte"]
 
-A1977 --> A1978a --> A1978b --> A1979 --> A1985 --> A1989 --> A1993 --> A2000 --> A2013 --> A2019 --> A2025
+    A1977 --> A1978a --> A1978b --> A1979 --> A1985 --> A1989 --> A1993 --> A2000 --> A2013 --> A2019 --> A2025
 
 </div>

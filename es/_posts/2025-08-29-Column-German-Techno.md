@@ -21,15 +21,15 @@ title: '[Columna] Genealogía y actualidad del Techno alemán - La estética del
 
 Texto: mmr｜Tema: La estética del techno alemán, tejida por la repetición y el silencio.
 
-<hr>
+<hora>
 
 ### ¿Qué es el techno alemán?
 
 El "techno alemán" creció rápidamente desde finales de los 80 hasta principios de los 90 y sigue teniendo una gran influencia en la escena mundial de clubes. Ciudades como Berlín y Frankfurt en particular son conocidas como centros simbólicos para el desarrollo del techno, creando su propia estética única a través de la cultura de clubes y las actividades de las discográficas.
 
-<hr>
+<hora>
 
-### Antecedentes históricos: La caída del Muro de Berlín y la explosión del techno
+### Antecedentes históricos: la caída del Muro de Berlín y la explosión del techno
 
 La caída del Muro de Berlín en 1989 supuso un punto de inflexión en el desarrollo del techno en Alemania. Con la fusión de las culturas oriental y occidental, las fiestas que utilizaban edificios y almacenes abandonados aumentaron rápidamente, y Berlín se convirtió en la meca del techno que simboliza el "sonido de la libertad".
 
@@ -37,7 +37,7 @@ La caída del Muro de Berlín en 1989 supuso un punto de inflexión en el desarr
 
 - **Harthouse / Eye Q (Frankfurt)**: Un grupo de sellos en los que estuvo involucrado Sven Väth. Liderando la evolución del trance y el techno.
 
-<hr>
+<hora>
 
 ### Características del Techno Alemán
 
@@ -51,9 +51,9 @@ Heredero de la tradición de la música electrónica representada por Kraftwerk,
 
 - **Integración con la cultura del club**
 
-Como simbolizan el Berghain y el Tresor de Berlín, el espacio del club y el sonido son inseparables. La música era más que una simple experiencia auditiva; funcionó como parte de la cultura y el estilo de vida urbanos.
+Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido son inseparables. La música era más que una simple experiencia auditiva; funcionó como parte de la cultura y el estilo de vida urbanos.
 
-<hr>
+<hora>
 
 ### Artistas/sellos representativos
 
@@ -67,7 +67,7 @@ Como simbolizan el Berghain y el Tresor de Berlín, el espacio del club y el son
 
 - **Len Faki, Ben Klock, Marcel Dettmann**: Obtuvieron reconocimiento mundial como residentes de Berghain.
 
-<hr>
+<hora>
 
 ### Características del sonido por generación.
 
@@ -155,7 +155,7 @@ Como simbolizan el Berghain y el Tresor de Berlín, el espacio del club y el son
 
 - El techno melódico y el techno profundo obtienen apoyo mundial
 
-**Artistas representativos**: Ben Klock, Marcel Dettmann, Nina Kraviz (con base en Berlín), Stephan Bodzin.
+**Artistas representativos**: Ben Klock, Marcel Dettmann, Nina Kraviz (con sede en Berlín), Stephan Bodzin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -179,7 +179,7 @@ Si comparas las canciones por década, puedes ver un ciclo de ``Industrial y fr�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Evolucionando estrechamente conectado con el estilo de vida
 

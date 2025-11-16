@@ -26,7 +26,7 @@ En este artículo explicaremos la importancia y las obras representativas de Lef
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### ¿Qué es Leftfield? / ¿Qué es Leftfield?
 
@@ -74,25 +74,25 @@ Leftfield tiene un doble significado:
 
 ### Álbumes recomendados por época
 
-| Year | Artist | Feature | Links |
+| Año | Artista | Característica | Enlaces |
 |-------------|-----------------------|----------------|----------------|
-| 1995 | Leftfield – *Leftism* | エレクトロニカ史の金字塔 / Landmark in electronic music | [Amazon](https://amzn.to/4gEiHVR) |
-| 1999 | Underworld – *Beaucoup Fish* | Leftfield的実験精神を継承 / Continues Leftfield’s experimental spirit | [Amazon](https://amzn.to/4ndPTG9) |
-| 2001 | Four Tet – *Pause* | 新しいLeftfieldの地平を提示 / Opened a new horizon of Leftfield sound | [Amazon](https://amzn.to/48tSRSk)  |
+| 1995 | Leftfield – *Izquierdismo* | Hito en la música electrónica | [Amazon](https://amzn.to/4gEiHVR) |
+| 1999 | Inframundo – *Pez Beaucoup* | Continúa el espíritu experimental de Leftfield | [Amazon](https://amzn.to/4ndPTG9) |
+| 2001 | Cuatro Tet – *Pausa* | Abrió un nuevo horizonte del sonido Leftfield | [Amazon](https://amzn.to/48tSRSk) |
 
 ---
 
 # Mapa de género
 
 <div class="mermaid">
-diagrama de flujo TD
-A["House/Techno"] --> B["Leftfield"]
-A --> C["Trance"]
-B --> D["Salto de viaje"]
-B --> E["IDM / Electrónica"]
-D --> F["Ataque masivo"]
-E --> G["Cuatro Tet"]
-B --> H["Inframundo"]
+flowchart TD
+    A["House / Techno"] --> B["Leftfield"]
+    A --> C["Trance"]
+    B --> D["Trip Hop"]
+    B --> E["IDM / Electronica"]
+    D --> F["Massive Attack"]
+    E --> G["Four Tet"]
+    B --> H["Underworld"]
 </div>
 
 ---

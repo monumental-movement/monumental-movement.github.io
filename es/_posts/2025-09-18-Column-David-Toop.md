@@ -19,12 +19,12 @@ title: '[Columna] David Toop y el pensamiento musical sin género - Exploración
 
 Texto: mmr｜Tema: Examinando la exploración musical de David Toop por época desde la década de 1970 hasta la actualidad
 
-Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y obras representativas.
+Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y trabajos representativos.
 
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -35,7 +35,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### Un oído que trasciende géneros: David Toop Cambios en el pensamiento musical
 
@@ -50,10 +50,10 @@ Para él, la música no era una forma o un estilo, sino el acto de escuchar en s
 Durante este período, ya había desarrollado una actitud de trascender las fronteras del género.
 
 
-| 年代 | 取り上げた音源 / アーティスト | 解説 |
+| Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
-| 1970s | AMM, Derek Bailey | ロンドン即興シーンを象徴する存在。Toopは彼らの「音の自由」を強く評価。 |
-| 1975  | *New and Rediscovered Musical Instruments* (Toop & Max Eastley) | 自らも参加した実験的録音。楽器そのものの可能性を拡張する試み。 |
+| Década de 1970 | AMM, Derek Bailey | Un símbolo de la escena de improvisación londinense. Toop elogia fuertemente su "libertad de sonido". |
+| 1975 | *Instrumentos musicales nuevos y redescubiertos* (Toop y Max Eastley) | Grabación experimental en la que participó el propio Toop. Un intento de ampliar las posibilidades de los propios instrumentos musicales. |
 
 ---
 
@@ -66,11 +66,11 @@ En el contexto del boom de la música mundial, Toop propuso una escucha transcul
 En lugar de consumir otras culturas como "decoración", ha surgido una metodología que amplía la experiencia del sonido.
 Realmente veía la música como un "mapa sonoro del mundo".
 
-| 年代 | 取り上げた音源 / アーティスト | 解説 |
+| Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
-| 1981 | *Environmental Sound Recordings* | 自然や都市音をそのまま音楽として提示するアプローチを紹介。 |
-| 1983 | Jon Hassell – *Fourth World Vol.1* | 西洋と非西洋を融合した「第四世界音楽」をToopは批評的に支持。 |
-| Late 80s | フィールドレコーディング・アーカイブ作品 | 単なる記録ではなく「音のドキュメント」として再評価。 |
+| 1981 | *Grabaciones de sonido ambiental* | Presentamos un enfoque para presentar sonidos naturales y urbanos como música. |
+| 1983 | Jon Hassell – *Cuarto Mundo Vol.1* | Toop apoya críticamente la "música del Cuarto Mundo" que fusiona la música occidental y no occidental. |
+| Finales de los 80 | Trabajos de grabación/archivo de campo | Reevaluados como "documentos sonoros" y no como meros registros. |
 
 ---
 
@@ -80,11 +80,11 @@ Rap Attack es un libro innovador que no sólo narra los albores del hip-hop, sin
 Casi al mismo tiempo, habló sobre ambiente y jungla, y participó activamente en la crítica cultural de la música electrónica.
 Se puede decir que esta fue la época en la que se estableció el estilo de Toop, que combina crítica y sentido del campo.
 
-| 年代 | 取り上げた音源 / アーティスト | 解説 |
+| Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
-| 1984–1991 | *Rap Attack* (各版) | グランドマスター・フラッシュやRun-DMCを都市文化の文脈で解釈。 |
-| 1994 | Aphex Twin – *Selected Ambient Works Vol. II* | 「アンビエントの再定義」として言及、環境と音楽の関係を論じる。 |
-| 1996 | Goldie – *Timeless* | ドラムンベースを「未来都市のサウンドスケープ」として評価。 |
+| 1984–1991 | *Rap Attack* (varias ediciones) | Interpretación de Grandmaster Flash y Run-DMC en el contexto de la cultura urbana. |
+| 1994 | Aphex Twin – *Obras ambientales seleccionadas vol. III* | Mencionado como una "redefinición del ambient" y analiza la relación entre el ambiente y la música. |
+| 1996 | Goldie – *Atemporal* | Drum & Bass es evaluado como el "paisaje sonoro de la ciudad del futuro". |
 
 ---
 
@@ -94,11 +94,11 @@ Se puede decir que esta fue la época en la que se estableció el estilo de Toop
 El texto, que es una fusión de ensayo, crítica y literatura, va más allá del marco de un libro de música y funciona como "literatura auditiva".
 Sus obras ambientales también presentaron un mundo de sonidos suaves y difusos.
 
-| 年代 | 取り上げた音源 / アーティスト | 解説 |
+| Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
-| 2001 | Brian Eno – *Ambient 1: Music for Airports* (再評価) | 環境と聴覚の関係を「音の漂流」として捉え直す。 |
-| 2004 | *Haunted Weather* | 電子音楽と気象的感覚を関連づけた評論。 |
-| Mid 2000s | Oval, Fennesz などグリッチ系 | デジタル時代の「音の欠損」を美学として肯定。 |
+| 2001 | Brian Eno – *Ambient 1: Música para aeropuertos* (Reevaluación) | Reconsiderar la relación entre el entorno y la audición como "sonido a la deriva". |
+| 2004 | *Clima embrujado* | Crítica relacionando la música electrónica y las sensaciones meteorológicas. |
+| Mediados de la década de 2000 | Música con fallos como Oval, Fennesz | Afirma la "falta de sonido" en la era digital como estética. |
 
 ---
 
@@ -109,11 +109,11 @@ Ha ampliado sus actividades al campo de las bellas artes y el arte sonoro, ampli
 A través de temas como la memoria, el silencio y el espacio en blanco, reconsidera el sentido del oído desde sus raíces.
 
 
-| 年代 | 取り上げた音源 / アーティスト | 解説 |
+| Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
-| 2010 | *Sinister Resonance* | 「音の見えない影」をめぐる哲学的探究。 |
-| 2016 | *Entities Inertias Faint Beings* | 自身の作品。アンビエントと即興を融合した静謐な音世界。 |
-| Late 2010s | サウンドインスタレーション作品 | 音楽と空間の関係を問う実践的プロジェクト。 |
+| 2010 | *Resonancia siniestra* | Una exploración filosófica de la "sombra invisible del sonido". |
+| 2016 | *Entidades Inercias Seres Débiles* | Trabajo propio. Un mundo sonoro tranquilo que combina ambient e improvisación. |
+| Finales de la década de 2010 | Trabajos de instalación de sonido | Un proyecto práctico que cuestiona la relación entre música y espacio. |
 
 ---
 

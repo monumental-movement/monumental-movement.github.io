@@ -23,7 +23,7 @@ Utilizando numerosos alias como "Planetary Assault Systems", "The 7th Plain" y "
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -33,7 +33,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Antecedentes tempranos y formación musical.
@@ -49,13 +49,13 @@ En los años 90, lanzaron trabajos desde ambiental a minimalista con Warp y Nova
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Luke Slater"] --> B["Sistemas de asalto planetario"]
-A --> C["La séptima llanura"]
-A --> D["LSD (con Steve Bicknell y función)"]
-B --> E["Hard Techno / Ostgut Ton"]
-C --> F["Ambient Techno/Warp"]
-D --> G["Colaboración experimental"]
+flowchart TD
+    A["Luke Slater"] --> B["Planetary Assault Systems"]
+    A --> C["The 7th Plain"]
+    A --> D["LSD (w/ Steve Bicknell & Function)"]
+    B --> E["Hard Techno / Ostgut Ton"]
+    C --> F["Ambient Techno / Warp"]
+    D --> G["Experimental Collaboration"]
 
 
 </div>
@@ -93,14 +93,14 @@ En contraste con la variedad de actos en solitario y la naturaleza ambiental de 
 
 **Discografía**
 
-| 年    | アルバム名                  | 特徴                | リンク                                     |
-| ---- | ---------------------- | ----------------- | --------------------------------------------- |
-| 1997 | *The Drone Sector*     | インダストリアル色の濃い初期傑作  | [Amazon](https://amzn.to/477xvJn) |
-| 1999 | *Atomic Funkster*      | ハードミニマルへの進化       | [Amazon](https://amzn.to/4o7j2TJ) |
-| 2009 | *Temporary Suspension* | Ostgut Tonからのリリース | [Amazon](https://amzn.to/4nzQeTV) |
-| 2011 | *The Messenger*        | ミニマルと未来志向の融合      | [Amazon](https://amzn.to/3KA1vov) |
-| 2016 | *Arc Angel*            | 宇宙的な広がりと硬質ビート     | [Amazon](https://amzn.to/435hqS7) |
-| 2022 | *Devotion*             | 最新のPAS作品、モダンテクノの粋 | [Amazon](https://amzn.to/4gWRD4j) |
+| Año | Nombre del álbum | Características | Enlace |
+| ---- | ---------------------- | ----------------- | ------------------------------------------------ |
+| 1997 | *El sector de los drones* | Obra maestra temprana con fuertes colores industriales | [Amazon](https://amzn.to/477xvJn) |
+| 1999 | *Funkster atómico* | Evolución al mínimo duro | [Amazon](https://amzn.to/4o7j2TJ) |
+| 2009 | *Suspensión Temporal* | Publicado por Ostgut Ton | [Amazon](https://amzn.to/4nzQeTV) |
+| 2011 | *El Mensajero* | Fusión de minimalismo y visión de futuro | [Amazon](https://amzn.to/3KA1vov) |
+| 2016 | *Arco Ángel* | Extensión cósmica y ritmo duro | [Amazon](https://amzn.to/435hqS7) |
+| 2022 | *Devoción* | Los últimos trabajos de PAS, la esencia del techno moderno | [Amazon](https://amzn.to/4gWRD4j) |
 
 ---
 
@@ -112,7 +112,7 @@ En contraste con la variedad de actos en solitario y la naturaleza ambiental de 
 
 #### La séptima llanura
 
-The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los noventa.
+The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los años 1990.
 A diferencia de Planetary Assault Systems, que se caracteriza por un sonido duro para el suelo, 7th Plain persigue un techno ambiental introspectivo y flotante.
 
 **Características**
@@ -133,13 +133,13 @@ The 7th Plain = “El mundo profundo del techno ambiental” de Luke Slater.
 
 **Discografía**
 
-| 年    | アルバム名                 | 特徴                    | リンク                                     |
-| ---- | --------------------- | --------------------- | --------------------------------------------- |
-| 1994 | *The 4 Cornered Room* | アンビエント・テクノの傑作         | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *My Yellow Wise Rug*  | 空間性の高い実験作             | [Amazon](https://amzn.to/3VOULWo) |
-| 2016 | *Chronicles I*        | アーカイブ集（Warp Records期） | [Amazon](https://amzn.to/4mK8uJ7) |
-| 2016 | *Chronicles II*       | アーカイブ集第二弾             | [Amazon](https://amzn.to/4gYSJN4) |
-| 2018 | *Chronicles III*      | 未発表音源含む集大成            | [Amazon](https://amzn.to/4mPG9AW) |
+| Año | Nombre del álbum | Características | Enlace |
+| ---- | --------------------- | --------------------- | ------------------------------------------ |
+| 1994 | *La habitación de las 4 esquinas* | Una obra maestra del techno ambiental | [Amazon](https://amzn.to/4nttGUI) |
+| 1994 | *Mi alfombra sabia amarilla* | Trabajo experimental con un alto grado de espacialidad | [Amazon](https://amzn.to/3VOULWo) |
+| 2016 | *Crónicas I* | Colección de archivos (período Warp Records) | [Amazon](https://amzn.to/4mK8uJ7) |
+| 2016 | *Crónicas II* | Segunda colección de archivos | [Amazon](https://amzn.to/4gYSJN4) |
+| 2018 | *Crónicas III* | Colección que incluye fuentes sonoras inéditas | [Amazon](https://amzn.to/4mPG9AW) |
 
 ---
 
@@ -174,11 +174,11 @@ LSD = Una ``culminación del minimalismo duro'' reunida por tres maestros, incor
 
 **Discografía**
 
-| 年    | アルバム名            | 特徴         | リンク                                     |
-| ---- | ---------------- | ---------- | --------------------------------------------- |
-| 2017 | *Process*        | コラボレーション初作 | [Amazon](https://amzn.to/3Wnv3IC) |
-| 2019 | *Second Process* | ミニマルで鋭利な展開 | [Amazon](https://amzn.to/46PIaHj) |
-| 2020 | *Third Process*  | 宇宙的な音響処理   | [Amazon](https://amzn.to/42sbkuR) |
+| Año | Nombre del álbum | Características | Enlace |
+| ---- | ---------------- | ---------- | ------------------------------------------ |
+| 2017 | *Proceso* | Primer trabajo colaborativo | [Amazon](https://amzn.to/3Wnv3IC) |
+| 2019 | *Segundo Proceso* | Desarrollo mínimo y agudo | [Amazon](https://amzn.to/46PIaHj) |
+| 2020 | *Tercer Proceso* | Procesamiento de sonido cósmico | [Amazon](https://amzn.to/42sbkuR) |
 
 
 ---
@@ -203,7 +203,7 @@ Bajo su nombre solista, es conocido por una amplia gama de trabajos que abarcan 
 
 **Posición**
 
-Slater es aclamado como un creador flexible que recorre la escena, equilibrando la dureza del techno con la sensibilidad pop.
+Slater es aclamado como un creador flexible que cruza escenas, combinando la dureza del techno con una sensibilidad pop.
 Sentó las bases para alias posteriores como Planetary Assault Systems y The 7th Plain.
 
 ---
@@ -211,11 +211,11 @@ Sentó las bases para alias posteriores como Planetary Assault Systems y The 7th
 **Discografía**
 
 
-| 年    | アルバム名            | 特徴             | リンク                                     |
-| ---- | ---------------- | -------------- | --------------------------------------------- |
-| 1997 | *Freek Funk*     | ファンクとテクノの融合、名盤 | [Amazon](https://amzn.to/4pVNHoG) |
-| 1999 | *Wireless*       | ボーカル色を強めた異色作   | [Amazon](https://amzn.to/4pRPAT8) |
-| 2002 | *Alright on Top* | ポップ／エレクトロ寄り    | [Amazon](https://amzn.to/46B4ntV) |
+| Año | Nombre del álbum | Características | Enlace |
+| ---- | ---------------- | -------------- | ------------------------------------------ |
+| 1997 | *Freek Funk* | Una fusión de funk y techno, una obra maestra | [Amazon](https://amzn.to/4pVNHoG) |
+| 1999 | *Inalámbrico* | Trabajo único con voces fuertes | [Amazon](https://amzn.to/4pRPAT8) |
+| 2002 | *Muy bien arriba* | Orientado al pop/electro | [Amazon](https://amzn.to/46B4ntV) |
 
 ---
 
@@ -250,5 +250,5 @@ Luke Slater es un pionero del techno británico y ha desarrollado una amplia gam
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 

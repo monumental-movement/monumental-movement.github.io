@@ -24,7 +24,7 @@ Survival Research Laboratories (SRL) es un colectivo estadounidense de artes esc
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Principales actividades y actuaciones
@@ -95,7 +95,7 @@ Logros: Participé en el desarrollo de la infraestructura de control de máquina
 
 #### Otros colaboradores clave
 
-Amy Critchett: Apoyo al productor/gerencia.
+Amy Critchett: Apoyo al productor/gerente.
 
 Karen Marcelo: Sirve de puente entre la cultura hacker y organiza "dorkbot SF".
 
@@ -108,13 +108,13 @@ Gilles Larrain: Colaboración en registros de vídeo y fotografías.
 ### Diagrama de correlación de personas
 
 <div class="mermaid">
-diagrama de flujo TD
-A[Mark Pauline<br>Fundador/Director artístico] --> B[Matt Heckert<br>Sonido/Música mecánica]
-A --> C[Eric Werner<br>Ingeniero de robots]
-A --> D[Joe Grand<br>Diseño/Control Electrónico]
-A --> E[Amy Critchett<br>Producida]
-A --> F[Karen Marcelo<br>Colaboración con la cultura hacker]
-A --> G[Alan Rath<br>Escultor electrónico]
+flowchart TD
+    A[Mark Pauline<br>Fundador/Director artístico] --> B[Matt Heckert<br>Sonido/Música mecánica]
+    A --> C[Eric Werner<br>Ingeniero en Robótica]
+    A --> D[Joe Grand<br>Diseño/Control Electrónico]
+    A --> E[Amy Critchett<br>Producida]
+    A --> F[Karen Marcelo<br>Colaboración en la cultura hacker]
+    A --> G[Alan Rath<br>Escultor electrónico]
 </div>
 
 ---
@@ -124,10 +124,10 @@ A --> G[Alan Rath<br>Escultor electrónico]
 
 SRL también lanza DVD y álbumes que contienen experiencias acústicas de actuaciones. A continuación se muestran algunos álbumes representativos:
 
-| 作品名                          | Description        | リンク |
-| ------------------------------ | ------------ | ----------- |
-| Survival Research Laboratories | DVDプレミアムBOX鉄ケース仕様 | [Amazon](https://amzn.to/3KyG0o2) |
-| Survival Research Laboratories | 1992年から1998年のライブ録音を収録。                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
+| Título | Descripción | Enlace |
+| --------------------------- | ------------ | ----------- |
+| Laboratorios de investigación de supervivencia | Especificaciones de la caja de hierro de DVD Premium BOX | [Amazonas](https://amzn.to/3KyG0o2) |
+| Laboratorios de investigación de supervivencia | Contiene grabaciones en vivo de 1992 a 1998. | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
 
 
 ---

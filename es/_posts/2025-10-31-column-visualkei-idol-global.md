@@ -31,7 +31,7 @@ Este artículo profundizará en cómo la música de la subcultura japonesa obtuv
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: “Estilo” y “Narrativa” del Visual Kei
@@ -72,7 +72,7 @@ Estos no son sólo entretenimiento, sino un plan inteligente para la "traducció
 La razón detrás del éxito de BABYMETAL en festivales extranjeros es
 Había una estrategia estructural para incorporar el concepto de "ídolos japoneses" dentro del estilo global del metal.
 
-La exportación de la cultura de los ídolos es también una fusión de **ritual religioso y comunidad tecnológica**.
+La exportación de la cultura de los ídolos es también una fusión de ritual religioso y comunidad tecnológica.
 Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fanáticos en "seguidores".
 Esta estructura se tradujo en el extranjero como "cultura participativa" y, como resultado, se disolvieron las fronteras culturales.
 
@@ -146,15 +146,15 @@ Esta es una nueva forma de "música que trasciende fronteras".
 
 <div class="mermaid">
 
-línea de tiempo
-título Historia de la expansión global de la música de la subcultura japonesa
-1989: "Blue Blood" de X JAPAN gana popularidad en Asia
-1997: L'Arc~en~Ciel actúa en Hong Kong, se lanza la primera organización de fans en el extranjero.
-2004: Dir en grey inicia una gira europea y forma su propio fandom
-2008: El MV de Perfume se difundió en YouTube y apareció en los medios occidentales.
-2014: BABYMETAL se presenta en el Festival Sonisphere, convirtiéndose en un tema mundial
-2018: Expansión de los eventos de J-Idol en el extranjero (JAM Expo Europe, etc.)
-2022: La cultura Visual Kei/Hatsune Miku redescubierta por la generación TikTok
+timeline
+    title 日本サブカル音楽のグローバル展開史
+    1989 : X JAPAN『Blue Blood』がアジア圏で人気を獲得
+    1997 : L'Arc〜en〜Cielが香港公演、初の海外ファン組織発足
+    2004 : Dir en greyがヨーロッパツアー開始、独自ファンダム形成
+    2008 : PerfumeのMVがYouTubeで拡散、欧米メディアが特集
+    2014 : BABYMETALがSonisphere Festival出演、世界的話題に
+    2018 : 海外地下でJ-Idolイベント（JAM Expo Europe等）拡大
+    2022 : TikTok世代が再発見するヴィジュアル系／初音ミク文化
 
 </div>
 

@@ -23,7 +23,7 @@ Happy Hardcore surgió de la escena rave británica a principios de los años 19
 La música, que combina pop y melodías emocionales con ritmos explosivamente rápidos de alrededor de 170 BPM, arrasó en Europa y luego se conectó inesperadamente con la cultura japonesa, logrando un desarrollo único.
 La afinidad entre este sonido "alegre" y la "cultura japonesa" no es sólo una importación de géneros musicales, sino un nuevo híbrido cultural.
 
-<hr>
+<hora>
 
 ### ¿Qué es Happy Hardcore?
 
@@ -33,7 +33,7 @@ Derivado del rave/hardcore techno británico de principios de los noventa.
 
 Como sugiere el nombre, este género es una combinación de "Happy" y "Hardcore".
 
-<hr>
+<hora>
 
 ### Relevancia para la cultura japonesa
 
@@ -69,11 +69,11 @@ A diferencia de las raves en el Reino Unido, la escena en Japón se centra en M3
 
 La "distribución de música derivada" y la "cultura del CD doujin" apoyaron de manera única la distribución y el desarrollo de Happy Hardcore.
 
-<hr>
+<hora>
 
 ### Palabras clave culturales
 
-- **Kawaii**: la "cultura kawaii" japonesa se refleja en la rápida melodía pop.
+- **Kawaii**: la "cultura linda" japonesa se refleja en la rápida melodía pop.
 
 - **Cultura Otaku**: Directamente conectada con el anime, los doujinshi y la cultura del club Akihabara.
 
@@ -81,7 +81,7 @@ La "distribución de música derivada" y la "cultura del CD doujin" apoyaron de 
 
 - **Fenómeno de reimportación**: Un género que se originó en el Reino Unido se desarrolla de forma independiente en Japón y una vez más influye en el mundo.
 
-<hr>
+<hora>
 
 ### Artistas japoneses representativos de happy hardcore/J-Core
 
@@ -93,7 +93,7 @@ La "distribución de música derivada" y la "cultura del CD doujin" apoyaron de 
 
 - **[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – Productor popular de la cultura de clubes de Akihabara.
 
-<hr>
+<hora>
 
 ### El papel único de la cultura japonesa en la historia de la música mundial
 

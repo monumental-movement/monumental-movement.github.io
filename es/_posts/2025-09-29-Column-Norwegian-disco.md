@@ -23,7 +23,7 @@ A pesar de su clima frío y la tranquilidad escandinava, Noruega ha dado lugar a
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -33,7 +33,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Descripción general: aire escandinavo y discoteca de “temperatura”
@@ -43,18 +43,18 @@ La discoteca creada por productores noruegos es más que una simple reproducció
 ---
 
 <div class="mermaid">
-diagrama de flujo TD
-PT[Princesa Thomas]
-LS[Lindstrøm]
-MJ [Jet Set mungol]
-ST [Supersonido de ciudad pequeña]
-DT [Colaboración Disko B / Internasjonale]
+flowchart TD
+  PT[Prins Thomas]
+  LS[Lindstrøm]
+  MJ[Mungolian Jet Set]
+  ST[Smalltown Supersound]
+  DT[Colaboración Disko B / Internasjonale]
 
-PT -->|Coproducción/Remix| LS
-LS -->|Producido| OtrosArtistas[Artistas diversos]
-MJ -->|DJ Mezcla / Curación| PT
-PT -->|Etiqueta/Compilación| CALLE
-ST --> DT
+  PT -->|Coproducción/remezcla| LS
+  LS -->|producir| OtherArtists[diversos artistas]
+  MJ -->|Mezcla de DJ / Curación| PT
+  PT -->|Etiqueta/Compilación| ST
+  ST --> DT
 </div>
 
 ---
@@ -140,15 +140,15 @@ En resumen, Mungolian Jet Set es una fusión de la sensibilidad de DJ de Strange
 
 ### Álbumes recomendados por generación
 
-|   年代 | アルバム                             | アーティスト            | リンク                          |
+| Año | Álbum | Artista | Enlace |
 | ---: | -------------------------------- | ----------------- | ---------------------------------- |
-| 2006 | It's A Feedelity Affair          | Lindstrøm         | [Amazon](https://amzn.to/4mApIIz)  |
-| 2006 | Schlungs                | Mungolian Jet Set | [Amazon](https://amzn.to/4nq9YJB)    | 
-| 2008 | Where You Go I Go Too            | Lindstrøm         | [Rakuten](https://a.r10.to/h5LRGZ)          |
-| 2009 | We Gave It All Away... And Now We Are Taking It Back | Mungolian Jet Set | [Amazon](https://amzn.to/4pKpxND) |
-| 2010 | PRINS THOMAS                         | Prins Thomas      | [Amazon](https://amzn.to/4gKEeMJ) |
-| 2012 | II                               | Prins Thomas      | [Amazon](https://amzn.to/42i2zDH) |
-| 2017 | It's Alright Between Us As It Is | Lindstrøm         | [Amazon](https://amzn.to/42e521T) |
+| 2006 | Es un asunto de feedelity | Lindstrom | [Amazon](https://amzn.to/4mApIIz) |
+| 2006 | Schlungs | Jet Set mungol | [Amazon](https://amzn.to/4nq9YJB) |
+| 2008 | A donde vas yo también voy | Lindstrom | [Rakuten](https://a.r10.to/h5LRGZ) |
+| 2009 | Lo regalamos todo... y ahora lo recuperamos | Jet Set mungol | [Amazon](https://amzn.to/4pKpxND) |
+| 2010 | PRINCIPE TOMÁS | Príncipe Thomas | [Amazon](https://amzn.to/4gKEeMJ) |
+| 2012 | II | Príncipe Thomas | [Amazon](https://amzn.to/42i2zDH) |
+| 2017 | Todo está bien entre nosotros tal como está | Lindstrom | [Amazon](https://amzn.to/42e521T) |
 
 ---
 

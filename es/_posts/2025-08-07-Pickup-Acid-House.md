@@ -16,7 +16,7 @@ title: Recoger trabajos de acid house
 
 "Un notable grupo de obras de acid house que sacudieron la época con los sonidos del TB-303 y ritmos extáticos".
 
-<hr>
+<hora>
 
 ### Problema con el lápiz óptico: esa pista ácida
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
@@ -37,7 +37,7 @@ B.  That Acid Track (Dub Version)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NzQ0_D-rlIQ?si=mb3xf729ThqSdmRq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 ### Varios – Ácido urbano
@@ -64,7 +64,7 @@ B4. Charm–Walk On The Wild Side
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Petter – EP ácido sin título
@@ -86,7 +86,7 @@ B2. Everyday Balloon
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gHZDcIoj7RU?si=VBavyUOyjZCD42Ch" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Bomb The Bass – Di una pequeña oración
@@ -106,7 +106,7 @@ B. 10 Seconds To Terminate
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Equipo DMX - Nu Romantix
@@ -155,7 +155,7 @@ Una fusión romántica de acid y electro de los 80. TB-303 emite un sonido suave
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Brennan Green - Hombre de 900 libras
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
@@ -173,12 +173,12 @@ B2. 900lb Man (Original Mix)
 
 [Comprar en Mercari](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
 
-<hr>
+<hora>
 
 #### Aquasky – Tranquilidad / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Una pieza única que inyecta elementos ácidos al drum'n'bass. Están presentes una sensación de velocidad y una sensación de viaje.
+Una pieza única que inyecta elementos ácidos al drum'n'bass. La sensación de correr y la sensación de tropezar son ambas al mismo tiempo.
 
 #### Lista de canciones
 ```md
@@ -193,7 +193,7 @@ Y. Kauna
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 #### Pergón – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>

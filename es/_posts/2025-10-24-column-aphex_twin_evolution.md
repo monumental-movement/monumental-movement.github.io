@@ -20,13 +20,13 @@ title: '[Columna] Los inicios y la actualidad de Aphex Twin: más allá del punt
 
 Texto: mmr｜Tema: Comparar los primeros trabajos de Aphex Twin con sus logros actuales e interpretar críticamente los cambios en su estructura acústica, filosofía y tecnología.
 
-A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son experimentos sonoros en los que se entrelazan sueños mecánicos e ilusiones humanas, y su sonido actual se sitúa entre una estructura de inteligencia artificial y un retorno a la nostalgia.
+A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son **experimentos sonoros donde los sueños de las máquinas y las ilusiones humanas se entrelazan**, y su sonido actual se sitúa entre **estructuras similares a inteligencia artificial y el regreso de la nostalgia**.
 
 A continuación, compararemos y examinaremos estos "cambios" y "no cambios" desde los cuatro ejes: trabajo, tecnología, estética e ideología.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## I. El mundo de los primeros Aphex Twin: poética electrónica y violencia analógica
@@ -131,13 +131,13 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 ##IV. Comparación entre los primeros días y el presente: estructura de tres capas de tecnología, ideología y emoción
 
-| 項目 | 初期（1990–1995） | 現在（2014–2025） |
+| Artículo | Temprano (1990-1995) | Actual (2014-2025) |
 |------|------------------|--------------------|
-| 技術 | アナログ機材、サンプラー中心 | モジュラー＋デジタル・アルゴリズム |
-| 音の質感 | 有機的・偶発的・物質的 | 幾何学的・情報的・透明 |
-| 美学 | ノイズとリズムの共存 | データと感情の共生 |
-| 表現主体 | 個人の内面／身体 | 人間と機械の境界 |
-| 社会的文脈 | Rave〜IDM黎明期 | AI／アルゴリズム文化の成熟期 |
+| Tecnología | Principalmente equipos analógicos y samplers | Algoritmos modulares + digitales |
+| Textura del sonido | Orgánico, accidental, material | Geométrico, informativo, transparente |
+| Estética | Convivencia de ruido y ritmo | Simbiosis de datos y emociones |
+| Tema de expresión | Mundo interior/cuerpo del individuo | Límite entre humanos y máquinas |
+| Contexto social | Rave ~ los albores del IDM | La maduración de la cultura de la IA/algoritmos |
 
 ---
 
@@ -145,7 +145,7 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 El núcleo de Aphex Twin reside en "permanecer extranjero" incluso cuando los tiempos cambian.
 Incluso cuando la música se pone de moda, su sonido siempre deja un "margen".
-Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus propias emociones.
+Es en ese margen donde hay espacio para que el oyente proyecte sus propios sentimientos.
 
 ---
 
@@ -171,19 +171,19 @@ Su música actual ya no es un acto de "escuchar", sino más bien una "filosofía
 
 <div class="mermaid">
 
-línea de tiempo
-título Aphex Twin Cronología de la evolución acústica (1985-2025)
-1985: Comienza a experimentar con casetes (Cornualles)
-1991: fundó Rephlex y anunció la serie Analogue Bubblebath.
-1992: Lanzamiento de “Obras ambientales seleccionadas 85–92”
-1995: Abstrayendo el ambiente con “...Volumen II”
-1996: Cellularización del ritmo en “Richard D. James Album”
-1999: “Windowlicker” choca con los medios
-2001: Silencio con “Drukqs”
-2014: Regresión e integración tecnológica con “Syro”
-2018: Introducción de una estructura similar a la IA en “Collapse EP”
-2023: Se anuncia el nuevo EP “Blackbox Life Recorder 21f”
-2025: continúa el experimento de rendimiento de la IA modular
+timeline
+    title Aphex Twin 音響進化の年表（1985–2025）
+    1985 : カセットで実験開始（Cornwall）
+    1991 : Rephlex設立、Analogue Bubblebathシリーズ発表
+    1992 : 『Selected Ambient Works 85–92』リリース
+    1995 : 『...Volume II』でアンビエントを抽象化
+    1996 : 『Richard D. James Album』でリズムの細胞化
+    1999 : 『Windowlicker』でメディアと衝突
+    2001 : 『Drukqs』で沈黙へ
+    2014 : 『Syro』で回帰と技術統合
+    2018 : 『Collapse EP』でAI的構造を導入
+    2023 : 新作EP『Blackbox Life Recorder 21f』発表
+    2025 : モジュラーAIパフォーマンス実験継続中
 
 </div>
 
@@ -229,39 +229,39 @@ Su viaje puede predecir un futuro en el que la música misma se vuelve conscient
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A [Temprano (1990-1995)]
-B [Actual (2014-2025)]
+flowchart TD
+  A[Primeros años (1990-1995)]
+  B[Actual (2014-2025)]
 
-A --> A1["Baja frecuencia dominante<br>(60–400Hz)"]
-A --> A2["Rango dinámico estrecho"]
-A --> A3["Cinta/distorsión analógica/ruido accidental"]
-A --> A4["Patada/tiempo relativamente simple"]
+  A --> A1["Baja frecuencia dominante<br>(60–400 Hz)"]
+  A --> A2["Rango dinámico estrecho"]
+  A --> A3["Cinta/distorsión analógica/ruido accidental"]
+  A --> A4["Un golpe/golpe relativamente simple"]
 
-B --> B1["Frecuencia ampliamente distribuida<br>(equilibrada entre baja y alta)"]
-B --> B2["Amplio rango dinámico<br>Precisión transitoria ↑"]
-B --> B3["Textura compuesta modular + digital"]
-B --> B4["Diferencia de sincronización polirrítmica"]
+  B --> B1["Frecuencia ampliamente dispersa (equilibrada entre baja y alta)"]
+  B --> B2["Amplio rango dinámico<br>Precisión transitoria ↑"]
+  B --> B3["Textura compuesta modular + digital"]
+  B --> B4["Error de sincronización del polirritmo"]
 
-subgrafo VIS_LEFT ["Forma de onda (Concepto) - Inicial"]
-dirección tuberculosis
-WL1(("frase corta y repetitiva"))
-WL2(("Subgraves débiles de paso alto"))
-fin
+  subgraph VIS_LEFT ["Forma de onda (Concepto) - Inicial"]
+    direction TB
+    WL1(("Frases cortas repetidas"))
+    WL2(("Subgraves débiles de paso alto"))
+  end
 
-subgrafo VIS_RIGHT ["Forma de onda (concepto) - actual"]
-dirección tuberculosis
-WR1(("transitorio complejo"))
-WR2(("Detalle denso de alta frecuencia"))
-fin
+  subgraph VIS_RIGHT ["Forma de onda (Concepto) - Actual"]
+    direction TB
+    WR1(("Transitorio compuesto"))
+    WR2(("Detalle denso de alta frecuencia"))
+  end
 
-A1 --> WL1
-A2 --> WL2
-B1 --> WR1
-B2 --> WR2
+  A1 --> WL1
+  A2 --> WL2
+  B1 --> WR1
+  B2 --> WR2
 
-estilo VIS_LEFT relleno:#f8f9fa,trazo:#333,ancho de trazo:1px
-estilo VIS_RIGHT relleno:#f8f9fa,trazo:#333,ancho de trazo:1px
+  style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
+  style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
 
 
 </div>
@@ -274,35 +274,35 @@ estilo VIS_RIGHT relleno:#f8f9fa,trazo:#333,ancho de trazo:1px
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 
 
-A["décadas de 1980 y 1990<br>(principios)"]
-B["1996–2005<br>(Período de inflexión)"]
-C["2014–2025<br>(actual)"]
+  A["Décadas de 1980 y 1990<br>(principios)"]
+  B["1996-2005<br>(período de inflexión)"]
+  C["2014-2025<br>(Actual)"]
 
-A --> A1["TB-303 / TB-808 / SH-101<br>Ritmo analógico / Bajo"]
-A --> A2["Akai S900 / S950<br>Sampler (cortar y pegar)"]
-A --> A3["Atari ST + Cubase (inicial)"]
+  A --> A1["TB-303 / TB-808 / SH-101<br>Ritmo analógico / Bajo"]
+  A --> A2["Akai S900 / S950<br>Sampler (cortar y pegar)"]
+  A --> A3["Atari ST + Cubase (inicial)"]
 
-B --> B1["Sampler de mayor rendimiento<br>Expansión de sintetizadores de hardware"]
-B --> B2["Introducción a DAW (Pro Tools, etc.)<br>Edición de precisión"]
-B --> B3["Efectos externos/procesamiento duro"]
+  B --> B1["Sampler de mayor rendimiento <br> Ampliación de sintetizadores de hardware"]
+  B --> B2["Introducción a DAW (Pro Tools, etc.) <br>Edición de precisión"]
+  B --> B3["Efectos externos/procesamiento duro"]
 
-C --> C1["Eurorack modular<br>(cultura de parche modular)"]
-C --> C2["Max/MSP, Reaktor, módulo de software"]
-C --> C3["Híbrido: Control físico + algoritmo"]
-
-
-A1 --- B1
-A2 --- B2
-B3 --- C2
-B2 --- C2
-C1 --- C2
+  C --> C1["Eurorack modular<br>(cultura de parche modular)"]
+  C --> C2["Max/MSP, Reaktor, módulo suave"]
+  C --> C3["Híbrido: Control físico + algoritmo"]
 
 
-classDef era fill:#eef,stroke:#88a,stroke-width:1px;
-era clase A, B, C;
+  A1 --- B1
+  A2 --- B2
+  B3 --- C2
+  B2 --- C2
+  C1 --- C2
+
+
+  classDef era fill:#eef,stroke:#88a,stroke-width:1px;
+  class A,B,C era;
 
 
 </div>
@@ -315,25 +315,25 @@ era clase A, B, C;
 
 <div class="mermaid">
 
-gráfico TD
-AT[Aphex Twin (música)]:::centro
-H[Motivo humano/emocional]
-D[Datos/Algoritmo]
-A[Accidentalidad/ruido analógico]
-B[Estructuración/Polirritmia]
-C[Expresión visual/memeización]
+graph TD
+  AT[Aphex Twin (música)]:::center
+  H[Motivo humano/emocional]
+  D[Datos / Algoritmo]
+  A[Accidentalidad/ruido analógico]
+  B[Estructuración/Polirritmia]
+  C[Expresión visual/Meme]
 
-H -->|Proyección| EN
-D -->|Control/Generación| EN
-A -->|elemento de textura| EN
-B -->|Estructura rítmica| EN
-C -->|Marca/Presentación| EN
+  H -->|proyección| AT
+  D -->|Control/Generación| AT
+  A -->|elementos de textura| AT
+  B -->|estructura rítmica| AT
+  C -->|Marca/Presentación| AT
 
-EN --> H
-EN --> D
+  AT --> H
+  AT --> D
 
-relleno central classDef:#fff7e6,stroke:#b36b00,stroke-width:2px;
-centro de clase AT;
+  classDef center fill:#fff7e6,stroke:#b36b00,stroke-width:2px;
+  class AT center;
 
 </div>
 
@@ -348,27 +348,27 @@ Representación esquemática de cambios en la distribución de frecuencia, presi
 
 <div class="mermaid">
 
-diagrama de flujo de tuberculosis
-subgrafo IZQUIERDA["1992『Xtal』"]
-dirección tuberculosis
-L1["Baja frecuencia: 60–300 Hz dominante (graves analógicos)"]
-L2["Rango medio: fragmentos vocales/reverberación densa"]
-L3["Alta frecuencia: menor componente de ruido"]
-fin
+flowchart TB
+    subgraph LEFT["1992『Xtal』"]
+        direction TB
+        L1["Baja frecuencia: 60–300 Hz dominante (base analógica)"]
+        L2["Rango medio: fragmentos vocales/reverberación densa"]
+        L3["Gama alta: Menos componente de ruido"]
+    end
 
-subgrafo DERECHA["2014『minipops 67』"]
-dirección tuberculosis
-R1["Baja frecuencia: equilibrio de compresión"]
-R2["Rango medio: grupo de pulsos subdividido"]
-R3["Rango alto: micro detalle/granularidad rítmica ↑"]
-fin
+    subgraph RIGHT["2014『minipops 67』"]
+        direction TB
+        R1["Baja frecuencia: equilibrio de compresión"]
+        R2["Rango medio: grupo de pulsos subdividido"]
+        R3["Rango alto: micro detalle/granularidad rítmica ↑"]
+    end
 
-L1 --- R1
-L2 --- R2
-L3 --- R3
+    L1 --- R1
+    L2 --- R2
+    L3 --- R3
 
-estilo relleno IZQUIERDO:#f9f9f9,trazo:#666,ancho de trazo:1px
-estilo relleno DERECHO:#f9f9f9,trazo:#666,ancho de trazo:1px
+    style LEFT fill:#f9f9f9,stroke:#666,stroke-width:1px
+    style RIGHT fill:#f9f9f9,stroke:#666,stroke-width:1px
 
 </div>
 
@@ -385,39 +385,39 @@ En la parte inferior se coloca una cuadrícula de ritmo visual.
 
 <div class="mermaid">
 
-gráfico LR
-subgrafo INCLUSO["Cuadrícula 4/4"]
-dirección LR
-E1["|1|"]
-E2["|2|"]
-E3["|3|"]
-E4["|4|"]
-fin
+graph LR
+    subgraph EVEN["4/4 Grid"]
+        direction LR
+        E1["|1|"]
+        E2["|2|"]
+        E3["|3|"]
+        E4["|4|"]
+    end
 
-subgrafo IMPAR["capa 5/4"]
-dirección LR
-O1["|1|"]
-O2["|2|"]
-O3["|3|"]
-O4["|4|"]
-O5["|5|"]
-fin
+    subgraph ODD["5/4 Layer"]
+        direction LR
+        O1["|1|"]
+        O2["|2|"]
+        O3["|3|"]
+        O4["|4|"]
+        O5["|5|"]
+    end
 
-subgrafo RESULTADO["Resultado de superposición"]
-dirección LR
-R1["1"]
-R2["1,5"]
-R3["2.3"]
-R4["3.7"]
-R5["5.0"]
-fin
+    subgraph RESULT["Resultado de superposición"]
+        direction LR
+        R1["1"]
+        R2["1.5"]
+        R3["2.3"]
+        R4["3.7"]
+        R5["5.0"]
+    end
 
-INCLUSO --> RESULTADO
-IMPAR --> RESULTADO
+    EVEN --> RESULT
+    ODD --> RESULT
 
-estilo INCLUSO relleno:#eef7ff,trazo:#3366cc,ancho de trazo:1px
-estilo relleno IMPAR:#ffeef2,trazo:#cc3366,ancho de trazo:1px
-relleno de RESULTADO de estilo:#fff9e6,trazo:#cc9933,ancho de trazo:1.5px
+    style EVEN fill:#eef7ff,stroke:#3366cc,stroke-width:1px
+    style ODD fill:#ffeef2,stroke:#cc3366,stroke-width:1px
+    style RESULT fill:#fff9e6,stroke:#cc9933,stroke-width:1.5px
 
 </div>
 
@@ -434,13 +434,13 @@ Inicialmente, se concentró en el rango medio-bajo y, después de la década de 
 
 <div class="mermaid">
 
-línea de tiempo
-título Aphex Twin Evolución de la gama acústica (1990–2025)
-1992: rango promedio de 80 Hz a 8 kHz (principalmente grabación analógica)
-1995: 100 Hz–10 kHz (expansión de reverberación de ruido)
-2001: 60 Hz–12 kHz (precisión digital mejorada)
-2014: 40 Hz–18 kHz (rango completo)
-2023: 30 Hz-20 kHz (se introduce tecnología de masterización y análisis de IA)
+    timeline
+    title Aphex Twin 音響レンジの進化（1990–2025）
+    1992 : 平均レンジ 80Hz–8kHz（アナログ録音主体）
+    1995 : 100Hz–10kHz（ノイズ・リバーブ拡張）
+    2001 : 60Hz–12kHz（デジタル精度向上）
+    2014 : 40Hz–18kHz（フルレンジ化）
+    2023 : 30Hz–20kHz（マスタリング技術とAI解析導入）
 
 </div>
 

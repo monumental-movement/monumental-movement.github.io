@@ -21,7 +21,7 @@ title: '[Columna] Nala Sinephro - Respiración sonora y silencio cósmico: el es
 Texto: mmr｜Tema: El jazz no se trata de técnica o expansión de género, sino de la cuestión fundamental de qué puede aportar el sonido a los humanos.
 
 Cuando escuchamos por primera vez la música de Nala Sinephro, nos vemos obligados a dejar de lado el concepto de "canción".
-Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación como si respirara.
+Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación, como si respirara.
 
 Arpa, saxofón tenor, sintetizador modular y el espacio mismo.
 La música de Nala describe el momento en que el sonido mismo se convierte en un "ambiente espiritual".
@@ -29,7 +29,7 @@ Es una experiencia que se siente como "el universo respirando en silencio" y con
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El nacimiento de la escena londinense - Viento del Sur
@@ -55,14 +55,14 @@ Ha formado un lenguaje sonoro único que se mueve libremente entre el arpa y el 
 > “Para mí el sonido es como partículas en el aire”.
 > ― Nala Sinefro
 
-Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la luz.
+Como ella dice, el sonido está formado por capas de "partículas" y refracta el tiempo como la luz.
 
 ---
 
 ## Capítulo 2: Estructura del “Espacio 1.8” y transformación de la conciencia
 
 La estructura de pistas de Space 1.8 recuerda a una sesión de yoga o meditación.
-Desde el Espacio 1 al Espacio 8, todas las canciones están organizadas como "fases de respiración".
+Desde el Espacio 1 al Espacio 8: todas las canciones están organizadas como "fases de respiración".
 
 - **Espacio 1:** “Entrada” donde sutiles sonidos modulares abren el espacio
 - **Espacio 2:** Diálogo de arpa y saxofón, vibración interior
@@ -89,10 +89,10 @@ El ritmo desaparece, la melodía vaga y todo lo que queda es la sensación del t
 
 <div class="mermaid">
 
-diagrama de flujo LR
+flowchart LR
 A["Brian Eno<br>Ambient (1978)"] --> B["Harold Budd<br>Soft Focus"]
-B --> C["Alice Coltrane<br>Jazz espiritual"]
-C --> D["Nala Sinephro<br>Espacio 1.8 (2021)"]
+B --> C["Alice Coltrane<br>Spiritual Jazz"]
+C --> D["Nala Sinephro<br>Space 1.8 (2021)"]
 D --> E["Jazz ambiental moderno<br>Puntos flotantes / Sam Shepherd"]
 
 </div>
@@ -134,14 +134,14 @@ Al mismo tiempo, también es una declaración de lentitud frente a la velocidad 
 
 ## Capítulo complementario: Cronología de Nala Sinephro
 
-| 年 | 出来事 |
+| Año | Eventos |
 |----|--------|
-| 1998 | セントルシア系ベルギー人として生まれる |
-| 2015 | ロンドンへ移住、ジャズシーンで活動開始 |
-| 2018 | Total Refreshment Centreに参加、即興セッションを開始 |
-| 2021 | Warp Recordsより『Space 1.8』リリース |
-| 2022 | Gilles Petersonらにより国際的評価を獲得 |
-| 2024 | 新作制作・モジュラーライブ・プロジェクト開始 |
+| 1998 | Nacido como belga de ascendencia santalucensa |
+| 2015 | Se mudó a Londres y comenzó a trabajar en la escena del jazz.
+| 2018 | Únete a Total Refreshment Center y comienza sesiones de improvisación |
+| 2021 | “Space 1.8” lanzado por Warp Records |
+| 2022 | Reconocimiento internacional obtenido por Gilles Peterson y otros |
+| 2024 | Inicio de nueva producción/proyecto modular en vivo |
 
 ---
 
@@ -149,19 +149,19 @@ Al mismo tiempo, también es una declaración de lentitud frente a la velocidad 
 
 <div class="mermaid">
 
-gráfico TD
-A["Jazz espiritual<br>(Alice Coltrane, Pharoah Sanders)"]
-B["Música ambiental<br>(Brian Eno, Harold Budd)"]
-C["Meditaciones electrónicas<br>(Laraaji, Steve Roach)"]
-D["London New Jazz<br>(Shabaka Hutchings, Nubya García)"]
-E["Nala Sinephro<br>Espacio 1.8 (2021)"]
-F["Jazz post-ambient<br>Floating Points, Alfa Mist, Maria Chiara Argirò"]
+graph TD
+    A["Spiritual Jazz<br>(Alice Coltrane, Pharoah Sanders)"]
+    B["Ambient Music<br>(Brian Eno, Harold Budd)"]
+    C["Electronic Meditations<br>(Laraaji, Steve Roach)"]
+    D["London New Jazz<br>(Shabaka Hutchings, Nubya Garcia)"]
+    E["Nala Sinephro<br>Space 1.8 (2021)"]
+    F["Post-ambient Jazz<br>Floating Points, Alfa Mist, Maria Chiara Argirò"]
 
-A --> mi
-B --> mi
-C --> mi
-re --> mi
-mi -> F
+    A --> E
+    B --> E
+    C --> E
+    D --> E
+    E --> F
 
 </div>
 
@@ -173,6 +173,6 @@ La música de Nala Sinephro reabre la pregunta: "¿Qué es el jazz?"
 No se trata de una extensión de la técnica o del género, sino más bien de una cuestión fundamental de lo que el sonido puede aportar a los humanos.
 
 En el corazón del jazz ambiental está la esperanza de que "escuchar música" pueda volver a convertirse en "un acto de conexión con el mundo".
-Cada nota liberada por el arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
+Cada nota del arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
 
 ---

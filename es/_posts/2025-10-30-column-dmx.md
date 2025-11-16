@@ -27,7 +27,7 @@ Era una voz que iba más allá de la "realidad de las calles" y gritaba **dolor 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## I. Nacimiento de Roar: La existencia de DMX
@@ -98,13 +98,13 @@ DMX rápidamente alcanzó el número uno en los EE. UU. y estableció un récord
 
 <div class="mermaid">
 
-línea de tiempo
-título DMX Obras principales y antecedentes históricos
-1998: Lanzamiento de "It's Dark and Hell Is Hot" / No. 1 en los EE. UU. con su trabajo debut
-1998: “Carne de Mi Carne, Sangre de Mi Sangre” / No. 1 nuevamente después de sólo 7 meses
-1999: "And Then There Was X" / 'Party Up' se convierte en himno del club
-2001: “La Gran Depresión” / Tono introspectivo y religiosidad fortalecida
-2003: "Grand Champ" / La cima del éxito y el colapso mental
+timeline
+    title DMX 主要作品と時代背景
+    1998 : "It's Dark and Hell Is Hot" 発売 / デビュー作で全米1位
+    1998 : "Flesh of My Flesh, Blood of My Blood" / わずか7ヶ月後に再び1位
+    1999 : "And Then There Was X" / 'Party Up' がクラブアンセム化
+    2001 : "The Great Depression" / 内省的トーンと宗教性が強化
+    2003 : "Grand Champ" / 成功の頂点と精神的崩壊
 
 </div>
 
@@ -147,12 +147,12 @@ Ha sido arrestado decenas de veces. Sin embargo, la mayor parte de esto es el re
 
 ##VII. Análisis lírico: Luz en la violencia
 
-| 曲名                    | テーマ   | 特徴的リリック                                                                          | 解釈              |
-| --------------------- | ----- | -------------------------------------------------------------------------------- | --------------- |
-| *Ruff Ryders’ Anthem* | 抗争・団結 | “Stop, drop, shut ‘em down open up shop!”                                        | 攻撃性とストリートの規律の共存 |
-| *Slippin’*            | 内省・再生 | “See, to live is to suffer, but to survive is to find meaning in the suffering.” | ニーチェ的苦悩哲学の音楽化   |
-| *Lord Give Me a Sign* | 信仰・救済 | “I really need to talk to you Lord.”                                             | 神への絶望的な呼びかけ     |
-| *Who We Be*           | 社会的認識 | “The pain, the struggle, the friends, the trouble.”                              | リズム的カタログ詩法の極致   |
+| Título de la canción | Tema | Letras características | Interpretación |
+| --------------------- | ----- | ------------------------------------------------------------------ | --------------- |
+| *Himno de Ruff Ryders* | Conflicto y unidad | “¡Deténganse, suéltenlos, ciérrenlos, abran la tienda!” | Convivencia de agresión y disciplina callejera |
+| *Deslizándose* | Introspección y renacimiento | “Mira, vivir es sufrir, pero sobrevivir es encontrarle sentido al sufrimiento”. | Musicalización de la filosofía del sufrimiento de Nietzsche |
+| *Señor, dame una señal* | Fe/Salvación | "Realmente necesito hablar contigo Señor". | Un llamado desesperado a Dios |
+| *Quiénes somos* | Conciencia social | "El dolor, la lucha, los amigos, el problema". | El apogeo de la poesía rítmica de catálogo |
 
 ---
 
@@ -201,19 +201,19 @@ Pero su espíritu todavía grita "¡Arf! ¡Arf!"** en los parlantes antes del am
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología DMX (1970-2021)
-1970: Nace en Yonkers, Nueva York.
-1984: Escapar de la violencia doméstica y vivir en la calle
-1991: Conoció a Ruff Ryders y comenzó a rapear en serio.
-1998: Gran debut con "It's Dark and Hell Is Hot", número uno en EE. UU.
-1999: Lanzamiento de “And Then There Was X”, “Party Up” un éxito
-2001: Publicación de la obra autobiográfica “La Gran Depresión”
-2003: “Grand Champ” logra el puesto número uno consecutivo en Billboard
-2006: Autobiografía “E.A.R.L.” publicado
-2010: Detenido nuevamente, sentenciado a prisión y rehabilitado repetidamente
-2019: Reanudación de las actividades turísticas.
-2021: Murió de un ataque cardíaco (50 años)
+timeline
+    title DMX 年表（1970–2021）
+    1970 : ニューヨーク州ヨンカーズに生まれる
+    1984 : 家庭内暴力から逃亡、ストリート生活へ
+    1991 : Ruff Rydersに出会い、本格的にラップを始める
+    1998 : 『It's Dark and Hell Is Hot』でメジャーデビュー、全米1位
+    1999 : 『And Then There Was X』リリース、「Party Up」がヒット
+    2001 : 自伝的作品『The Great Depression』発表
+    2003 : 『Grand Champ』、Billboard連続1位記録達成
+    2006 : 自伝『E.A.R.L.』出版
+    2010 : 再逮捕・服役とリハビリを繰り返す
+    2019 : 再びツアー活動を再開
+    2021 : 心臓発作により死去（享年50）
 
 </div>
 
@@ -222,13 +222,13 @@ título Cronología DMX (1970-2021)
 
 ## Discografía de obras de referencia
 
-| 発売年  | タイトル                      | 備考                 | リンク                  |
-| ---- | -------------------------------------- | ------------------ | ------------------------------------------------ |
-| 1998 | *It’s Dark and Hell Is Hot*            | デビュー作／ストリートの咆哮     | [Amazon](https://amzn.to/3X0cPx9) |
-| 1998 | *Flesh of My Flesh, Blood of My Blood* | 血と信仰の交錯            | [Amazon](https://amzn.to/3WvpPea) |
-| 1999 | *...And Then There Was X*              | 大ヒット作／“Party Up”収録 | [Amazon](https://amzn.to/3X0cZ7J) |
-| 2001 | *The Great Depression*                 | 内省的トーンの転換点         | [Amazon](https://amzn.to/4qA3CJu) |
-| 2003 | *Grand Champ*                          | 成功の頂点と精神の崩壊        | [Amazon](https://amzn.to/47pPn2F) |
+| Año de lanzamiento | Título | Notas | Enlace |
+| ---- | ------------------------------- | ------------------ | ------------------------------- |
+| 1998 | *Está oscuro y el infierno hace calor* | Trabajo debut/Street Roar | [Amazon](https://amzn.to/3X0cPx9) |
+| 1998 | *Carne de Mi Carne, Sangre de Mi Sangre* | Intersección de sangre y fe | [Amazon](https://amzn.to/3WvpPea) |
+| 1999 | *...Y luego hubo X* | Blockbuster/“Party Up” incluido | [Amazon](https://amzn.to/3X0cZ7J) |
+| 2001 | *La Gran Depresión* | Punto de inflexión en tono reflexivo | [Amazon](https://amzn.to/4qA3CJu) |
+| 2003 | *Gran Campeón* | La cima del éxito y el colapso del espíritu | [Amazon](https://amzn.to/47pPn2F) |
 
 ---
 
@@ -236,12 +236,12 @@ título Cronología DMX (1970-2021)
 
 <div class="mermaid">
 
-gráfico LR
-A[ritmo de Swizz Beatz] --> B(batería agresiva)
-B --> C [voz rugiente de DMX]
-C --> D{Ápice de la emoción}
-D -->|Explosión| E["Romper como “Arf! ¡Arf!""]
-D -->|Silencio| F [Monólogo de oración]
+graph LR
+A[Beats Swizz Beatz] --> B(tambores agresivos)
+B --> C[La voz rugiente de DMX]
+C --> D{感情の頂点}
+D -->|explosión| E[“Se rompe como “¡Arf! ¡Arf!””]
+D -->|silencio| F[monólogo de oración]
 
 </div>
 

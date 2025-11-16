@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Trasfondo social y geopolítico detrás del Acid Jazz
 
 
 
-<hr>
+<hora>
 
 ### Nacimiento y definición del acid jazz
 
@@ -33,7 +33,7 @@ En la escena de clubes de la década de 1980, hubo un movimiento creciente para 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
-<hr>
+<hora>
 
 ### Funciones musicales
 
@@ -52,7 +52,7 @@ El acid jazz tiende a referirse a un "sentimiento híbrido" más que a un géner
 Como resultado, el acid jazz estableció un nuevo estilo de "música intelectual y bailable".
 
 
-<hr>
+<hora>
 
 ### origen social británico
 
@@ -65,14 +65,14 @@ En la década de 1980, Gran Bretaña se encontraba en un entorno de creciente di
 - **Influencia de los medios**: BBC Radio y Pirate Radio introdujeron el Acid Jazz, lo que llevó a su difusión del underground al mainstream.
 
 
-<hr>
+<hora>
 
 ### Contexto geopolítico de los países vecinos.
 
 La difusión del Acid Jazz también estuvo estrechamente relacionada con la geopolítica en Europa, Estados Unidos y Asia.
 
 
-<hr>
+<hora>
 
 #### Escena del Reino Unido
 
@@ -94,29 +94,29 @@ La difusión del Acid Jazz también estuvo estrechamente relacionada con la geop
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK): Producida por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
+- [**Galliano**](https://amzn.to/48uBEIK): Producido por Gilles Peterson. La fusión de rap y jazz le da un aire más callejero.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
-<hr>
+<hora>
 
 ### Expansión internacional
 
 
-<hr>
+<hora>
 
 #### escena estadounidense
 
 Acid Jazz fue percibido como una "reimportación". En los Estados Unidos existía el jazz funk y soul original de los años 70, por lo que la etiqueta "Acid Jazz" del Reino Unido parecía fresca y fue adoptada por las escenas de clubes de Nueva York y Chicago.
 
-Y al igual que [Deee-Lite](https://amzn.to/3W7JKj0), se expande mientras se vincula con el hip-hop.
+Y, al igual que [Deee-Lite](https://amzn.to/3W7JKj0), se expande al vincularse con el hip-hop.
 Por otro lado, se enfatizó la conexión con el hip-hop, y sirvió de puente hacia el jazz-hip-hop como [A Tribe Called Quest](https://amzn.to/4n1XXZO) y [Gang Starr](https://amzn.to/46QAJBa).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
-<hr>
+<hora>
 
 #### Escena de Japón/Asia
 
@@ -124,13 +124,13 @@ En Japón, el movimiento "club jazz" floreció en las décadas de 1980 y 1990, y
 
 Tenía afinidad con la cultura de consumo de la economía de la burbuja y la escena de Shibuya, y se convirtió en un puente entre Europa y Asia.
 
-Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que se expandía la cultura de club.
+Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que la cultura de club se expandía.
 
 En Japón, United Future Organization (UFO) en particular recibió elogios en todo el mundo y se convirtió en la cara del acid jazz en la escena de clubes de Tokio. Sucesores como [Ryota Nozaki (Jazztronik)](https://amzn.to/4nP9mxl) continúan esta tendencia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 #### Europa occidental
 
@@ -141,7 +141,7 @@ En Japón, United Future Organization (UFO) en particular recibió elogios en to
 
 
 
-<hr>
+<hora>
 
 ### Expansión geopolítica y cultura posterior a la Guerra Fría
 
@@ -153,7 +153,7 @@ Globalización → La cultura inmigrante centrada en Londres se difundió musica
 
 
 
-<hr>
+<hora>
 
 ### Escena y contexto cultural
 
@@ -167,7 +167,7 @@ El acid jazz era más que un simple género musical; era un símbolo del club y 
 
 
 
-<hr>
+<hora>
 
 ### Rechazo y reevaluación
 
@@ -177,7 +177,7 @@ Además, ha desempeñado un papel importante como puente entre la música de clu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Una cristalización del sonido que transforma la diversidad y la sofisticación urbana en ritmos.
 

@@ -20,7 +20,7 @@ title: '[Columna] La trayectoria del Dubstep: un paisaje sonoro urbano creado po
 
 Texto: mmr｜Tema: El nacimiento y la influencia cultural del dubstep
 
-<hr>
+<hora>
 
 ### El nacimiento del dubstep: desde los sótanos del sur de Londres
 
@@ -30,7 +30,7 @@ Londres en ese momento era un crisol de culturas inmigrantes, con profundas raí
 
 El dubstep, que nació de esta tierra, ha experimentado una evolución única centrada en los subgraves pesados, la espacialidad oscura y apretada y los ritmos subdivididos.
 
-<hr>
+<hora>
 
 ### Características del sonido
 
@@ -46,7 +46,7 @@ El dubstep se sustenta en la presión física de los sonidos del bajo, hasta el 
 
 Los primeros artistas representativos incluyen a Skream, Benga, Digital Mystikz (Mala & Coki) y Loefah. Sus actividades giraban en torno al legendario club londinense Plastic People.
 
-<hr>
+<hora>
 
 ### Medios y eventos que apoyaron la escena.
 
@@ -56,7 +56,7 @@ Los primeros artistas representativos incluyen a Skream, Benga, Digital Mystikz 
 
 - **Hatcha's DJ Set**: Un elemento importante que definió los inicios del dubstep.
 
-<hr>
+<hora>
 
 ### Expansión y transformación internacional
 
@@ -73,24 +73,24 @@ Aproximadamente a partir de 2008, el dubstep se extendió más allá del undergr
 
 - **Diversificación**: Evolucionó de un sonido oscuro y pesado a un sonido melodioso y dramático.
 
-<hr>
+<hora>
 
 ### Dubstep en Japón
 
 Gradualmente se hizo popular en Japón a finales de la década de 2000 y el Goth-Trad atrajo la atención mundial. Su sonido ha experimentado una evolución única, incorporando el contexto del ruido/música experimental y al mismo tiempo vinculándolo con la escena londinense.
 Se formó una cultura dubstep exclusivamente japonesa a través de eventos celebrados en clubes de Shibuya y lanzamientos de sellos nacionales.
 
-<hr>
+<hora>
 
 ### Influencia cultural del dubstep
 
-- **Penetración en la escena EDM**: Conectarse con la cultura del festival y convertirse en una presencia que resuene en el escenario principal.
+- **Penetración en la escena EDM**: Conectado con la cultura del festival y convirtiéndose en una presencia que resuena en el escenario principal.
 
 - **Reevaluación de la música bass**: Influyó significativamente en el desarrollo de géneros posteriores como el trap y el futuro bajo.
 
 - **Innovación en diseño de sonido**: Los métodos de producción que hacen pleno uso de sintetizadores suaves y samplers se estandarizaron y se extendieron por toda la música electrónica moderna.
 
-<hr>
+<hora>
 
 ### Obras representativas (publicadas por Movimiento Monumental)
 
@@ -110,7 +110,7 @@ Se formó una cultura dubstep exclusivamente japonesa a través de eventos celeb
 
 → Un rico álbum de remezclas con Skream, Goth-Trad y otros.
 
-<hr>
+<hora>
 
 ### Paisajes sonoros que simbolizan la cultura urbana del siglo XXI.
 

@@ -27,7 +27,7 @@ ReBirth superó los obstáculos para obtener hardware, el costo de mantenerlo y 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Prehistoria: Contexto de la era de los equipos analógicos/sintetizadores de hardware
@@ -117,7 +117,7 @@ De esta forma, ReBirth provocó cambios en el panorama productivo a través de l
 
 ---
 
-## Cambios en la industria, el software y los ecosistemas (ReWire, VST, complementos)
+## Cambios en la industria/software/ecosistema (ReWire/VST/pluginización)
 La introducción de ReBirth no fue sólo el éxito de un único sintetizador de software, sino que también provocó un cambio estructural en el propio entorno de producción musical.
 
 ### “Modularización” y coordinación de herramientas de producción
@@ -151,9 +151,9 @@ Una vez finalizado el soporte de ReBirth, sus ideas y funcionalidades fueron her
 Por otro lado, varios años después del lanzamiento de la versión móvil, también se eliminó de la App Store debido a problemas de derechos de propiedad intelectual y marcas comerciales. Este incidente demostró una vez más que los equipos basados ​​en software tocan el "límite de la propiedad intelectual".
 
 ### “El Fin” y su lectura
-Aunque el software ReBirth no continuó expandiéndose en su forma actual, su "muerte" en sí misma tiene múltiples significados.
+Aunque el software llamado ReBirth no continuó ampliándose en su uso activo, su "muerte" en sí misma tiene múltiples significados.
 - Una razón es que la tendencia del equipamiento al software ha alcanzado un cierto nivel de madurez y ha pasado a la "siguiente etapa".
-- Además, los problemas de propiedad intelectual, emulación, propiedad y acceso se han vuelto más evidentes de lo esperado.
+- Además, los problemas con la propiedad intelectual, la emulación, la propiedad y el acceso se han vuelto más evidentes de lo esperado.
 - Y a medida que los entornos de producción personal/software se han vuelto comunes, el tema de "reproducir equipos de hardware con software" ha comenzado a reconsiderarse.
 Por lo tanto, tiene sentido ver el "fin" de ReBirth no simplemente como el fin del servicio, sino como un "punto de cambio" en el entorno de producción.
 
@@ -168,7 +168,7 @@ Al mirar atrás a ReBirth, podemos recordar una vez más la idea de que "cualqui
 
 ### De la “propiedad” al “acceso”, del hardware al software
 Antes de ReBirth, se puede decir que el modelo de equipo de producción = propiedad era fuerte. Tener el equipo también era un estatus y también era la primera condición para el entorno de producción. ReBirth ha reescrito esto en forma de "compra de software" y ha creado un contexto en el que la "propiedad" misma se relativiza.
-Hoy en día, las herramientas de suscripción, uso compartido en la nube y alquiler de música son algo común. La puerta que abrió ReBirth puede verse como un "punto de partida" en este flujo.
+Hoy en día, las herramientas de suscripción, uso compartido en la nube y alquiler de música se han convertido en algo común. La puerta que abrió ReBirth puede verse como un "punto de partida" en este flujo.
 
 ### Reevaluación del “gusto/hábito” de los equipos de hardware
 Por otro lado, a medida que avanza el software, se tienden a perder cosas, como las peculiaridades físicas, el ruido, la distorsión y la sensación operativa inherentes a los equipos de hardware. De hecho, la emulación de ReBirth ha sido criticada por no poder reproducir completamente las distorsiones y peculiaridades del TB-303 real.
@@ -184,17 +184,17 @@ Además, hay informes de un proyecto para convertir ReBirth en un controlador/m�
 ## Cronología: Hitos principales
 A continuación se muestra un resumen de la cronología principal de ReBirth y las tendencias tecnológicas/culturales que lo rodean. Al publicar, puede insertar la tabla tal como está en formato Markdown.
 
-| 年 | 出来事 |
+| Año | Eventos |
 |----|--------|
-| 1982頃 | Roland TR‑808 ドラムマシン発売。ハウス／ヒップホップに影響を与える。 |
-| 1983頃 | Roland TB‑303 ベースライン・シンセ発売。後にアシッド・ハウスの鍵となる。 |
-| 1994 | Propellerhead Software 設立（スウェーデン） |
-| 1996‑10 | ReBirth RB‑338 アルファ版（MacOS向け）公開 |
-| 1997 | ReBirth 正式リリース |
-| 1998‑11 | ReBirthv2.0.1 リリース（TR‑909追加） |
-| 2005‑09‑01 | デスクトップ版ReBirth サポート終了、無料ダウンロードへ移行 |
-| 2010‑04 | iOS版ReBirthリリース（iPhone/iPad）|
-| 2017‑06‑15 | AppStoreからReBirth削除（知的財産権問題） |
+| Alrededor de 1982 | Lanzamiento de la caja de ritmos Roland TR‑808. Influencias house/hip hop. |
+| Alrededor de 1983 | Lanzamiento del sintetizador de línea de bajo Roland TB‑303. Más tarde se convirtió en la clave del acid house. |
+| 1994 | Software Propellerhead establecido (Suecia) |
+| 1996-10 | Lanzada la versión alfa de ReBirth RB‑338 (para MacOS) |
+| 1997 | Lanzamiento oficial de ReBirth |
+| 1998-11 | Lanzamiento de ReBirthv2.0.1 (se agregó TR‑909) |
+| 2005‑09‑01 | Finaliza el soporte para la versión de escritorio de ReBirth, transición a descarga gratuita |
+| 2010-04 | Lanzada la versión iOS de ReBirth (iPhone/iPad) |
+| 2017‑06‑15 | ReBirth eliminado de AppStore (cuestión de derechos de propiedad intelectual) |
 
 ---
 

@@ -28,7 +28,7 @@ Burning Man es más que un simple festival, es un campo de pruebas para crear co
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Origen y desarrollo: de la playa al desierto
@@ -90,17 +90,17 @@ Desde la década de 2000, los "vehículos mutantes" gigantes y las esculturas he
 ### Libros relacionados
 
 
-|    年代 | 雑誌／メディア                 | 備考・関係性               | リンク        |
-| ----: | --------------------------- | ------------------------- | ----------------- |
-|    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
-|    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
+| Año | Revista/Medios | Notas/Relación | Enlace |
+| ----: | --------------------------- | ------------------------ | ----------------- |
+| Libros | *Burning Man: Arte en llamas* (libro de fotos) | Un libro clásico que cubre el arte festivo | [Amazon](https://amzn.to/3VFwNge) |
+| Libros | *Érase una vez en el polvo* (Roxane Jessi) | Un relato de viaje que se acerca a la cultura Burning global | [Amazon](https://amzn.to/4nv3MQw) |
 
 ---
 
 
 ### Implicaciones y desafíos contemporáneos
 
-Si bien Burning Man sigue siendo un centro de creatividad, enfrenta preocupaciones sobre la comercialización, la seguridad y el medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
+Si bien Burning Man sigue siendo un centro de creatividad, enfrenta problemas de comercialización, seguridad y medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
 
 ---
 
@@ -121,37 +121,37 @@ Desde 1996, el evento ha tenido un "tema artístico" cada año (por ejemplo, "El
 A continuación, se enumeran los temas desde 1995 hasta años recientes en orden cronológico.
 
 <div class="mermaid">
-diagrama de flujo TD
-A1995["1995: Infierno"] --> A1996["1996: Desmercantilización"]
-A1996 --> A1997["1997: Fertilidad"]
-A1997 --> A1998["1998: Entidad Nebulosa"]
-A1998 --> A1999["1999: La rueda del tiempo"]
-A1999 --> A2000["2000: El Cuerpo"]
-A2000 --> A2001["2001: Siete Eras"]
-A2001 --> A2002["2002: El mundo flotante"]
-A2002 --> A2003["2003: Más allá de lo creíble"]
-A2003 --> A2004["2004: La Bóveda del Cielo"]
-A2004 --> A2005["2005: Psique"]
-A2005 --> A2006["2006: Esperanza y miedo"]
-A2006 --> A2007["2007: El hombre verde"]
-A2007 --> A2008["2008: Sueño americano"]
-A2008 --> A2009["2009: Evolución – Un banco enredado"]
-A2009 --> A2010["2010: Metrópolis – La vida de las ciudades"]
-A2010 --> A2011["2011: Ritos de iniciación"]
-A2011 --> A2012["2012: Fertilidad 2.0"]
-A2012 --> A2013["2013: Culto a la carga"]
-A2013 --> A2014["2014: Caravansario"]
-A2014 --> A2015["2015: Carnaval de los Espejos"]
-A2015 --> A2016["2016: El taller de Da Vinci"]
-A2016 --> A2017["2017: Ritual Radical"]
-A2017 --> A2018["2018: Yo, Robot"]
-A2018 --> A2019["2019 : Metamorfosis"]
-A2019 --> A2020["2020: El Multiverso (año de cancelación del evento)"]
-A2020 --> A2021["2021: Reflectante (virtual/híbrido)"]
-A2021 --> A2022["2022: Sueños despiertos"]
-A2022 --> A2023["2023: Animalia"]
-A2023 --> A2024["2024: El gran desconocido"]
-A2024 --> A2025["2025: Mañana Hoy"]
+flowchart TD
+    A1995["1995 : Inferno"] --> A1996["1996 : Decommodification"]
+    A1996 --> A1997["1997 : Fertility"]
+    A1997 --> A1998["1998 : Nebulous Entity"]
+    A1998 --> A1999["1999 : The Wheel of Time"]
+    A1999 --> A2000["2000 : The Body"]
+    A2000 --> A2001["2001 : Seven Ages"]
+    A2001 --> A2002["2002 : The Floating World"]
+    A2002 --> A2003["2003 : Beyond Belief"]
+    A2003 --> A2004["2004 : The Vault of Heaven"]
+    A2004 --> A2005["2005 : Psyche"]
+    A2005 --> A2006["2006 : Hope & Fear"]
+    A2006 --> A2007["2007 : The Green Man"]
+    A2007 --> A2008["2008 : American Dream"]
+    A2008 --> A2009["2009 : Evolution – A Tangled Bank"]
+    A2009 --> A2010["2010 : Metropolis – The Life of Cities"]
+    A2010 --> A2011["2011 : Rites of Passage"]
+    A2011 --> A2012["2012 : Fertility 2.0"]
+    A2012 --> A2013["2013 : Cargo Cult"]
+    A2013 --> A2014["2014 : Caravansary"]
+    A2014 --> A2015["2015 : Carnival of Mirrors"]
+    A2015 --> A2016["2016 : Da Vinci’s Workshop"]
+    A2016 --> A2017["2017 : Radical Ritual"]
+    A2017 --> A2018["2018 : I, Robot"]
+    A2018 --> A2019["2019 : Metamorphoses"]
+    A2019 --> A2020["2020: The Multiverse (año de cancelación del evento)"]
+    A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
+    A2021 --> A2022["2022 : Waking Dreams"]
+    A2022 --> A2023["2023 : Animalia"]
+    A2023 --> A2024["2024 : The Great Unknown"]
+    A2024 --> A2025["2025 : Tomorrow Today"]
 
 </div>
 
@@ -213,7 +213,7 @@ Además, a partir de este año comenzaron a afianzarse las instalaciones de temp
 
 #### 2001: Siete edades
 
-Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -273,7 +273,7 @@ Sin embargo, ese año, su arte en llamas "Crude Awakening", que imitaba una plat
 
 #### 2008: Sueño americano
 
-Sueño americano/Cuestiones sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
+Sueño americano/Preguntas sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
 
 ---
 
@@ -309,7 +309,7 @@ Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, 
 
 Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-Muchos de los campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
+Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
 ---
 

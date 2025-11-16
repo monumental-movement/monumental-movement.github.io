@@ -25,7 +25,7 @@ Bossa Nova es un género musical que nació en Río de Janeiro, Brasil, a finale
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -35,7 +35,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Artistas principales y sus trabajos solistas/colaboraciones
@@ -74,7 +74,7 @@ color: #fff;
 
 **Año de nacimiento**: 10 de junio de 1931 (Juazeiro, Bahía, Brasil)
 
-**Características**: Conocido como el fundador de la bossa nova, es conocido como el "dios de la bossa nova" por su forma única de tocar la guitarra y su modesto estilo de canto.
+**Características**: Conocido como el fundador de la bossa nova, es conocido como el "dios de la bossa nova" por su forma única de tocar la guitarra y su estilo de canto discreto.
 
 **Anécdota**: En 1958, durante la producción del álbum [Chega de Saudade](https://amzn.to/3W7J1yt), cuando el ingeniero de sonido señaló que el volumen de su guitarra estaba demasiado bajo, Gilberto respondió: "En lugar de subir el volumen de la guitarra, simplemente baja los demás sonidos", encarnando su filosofía musical.
 
@@ -121,81 +121,81 @@ color: #fff;
 
 ## Discografía de João Gilberto
 
-| 年 | アルバム | 解説 | リンク |
+| Año | Álbum | Comentario | Enlace |
 |----|----------|------|--------------|
-| 1959 | Chega de Saudade | ボサノバの誕生を象徴する歴史的名盤。控えめな歌声と独自のギター奏法が注目され、ブラジル音楽の新時代を切り開いた。 | [Amazon](https://amzn.to/3W7J1yt) |
-| 1960 | O Amor, o Sorriso e a Flor | 前作に続く名作で、柔らかいリズムと親密な歌唱が特徴。ジルベルトのギターワークとボーカルの調和が光る一枚。 | [Amazon](https://amzn.to/4mXnymQ) |
-| 1961 | João Gilberto | ジルベルト独自のボサノバ・スタイルを確立したアルバム。繊細でミニマルなアレンジが音楽界に新風を吹き込んだ。 | [Amazon](https://amzn.to/46z7Jh7) |
-| 1964 | Getz/Gilberto (Stan Getzとの共演) | アメリカ市場にボサノバを広めた画期的作品。ジョアンとスタン・ゲッツの融合が生み出す洗練されたジャズボサが魅力。 | [Amazon](https://amzn.to/4nAx9Ry) |
-| 1973 | João Gilberto (Warner) | ジルベルトの成熟期を感じさせる作品。静謐なアレンジとリリカルな歌声で、ボサノバの深遠な世界を表現。 | [Amazon](https://amzn.to/4gQqHTL) |
+| 1959 | Chega de Saudade | Una obra maestra histórica que simboliza el nacimiento de la bossa nova. Su modesta voz para cantar y su estilo único para tocar la guitarra llamaron la atención y marcó el comienzo de una nueva era de la música brasileña. | [Amazon](https://amzn.to/3W7J1yt) |
+| 1960 | O Amor, o Sorriso y a Flor | Una obra maestra siguiendo al trabajo anterior, caracterizada por ritmos suaves y cantos íntimos. Una pieza que resalta la armonía entre el trabajo de guitarra y voz de Gilberto. | [Amazon](https://amzn.to/4mXnymQ) |
+| 1961 | João Gilberto | Un álbum que estableció el estilo bossa nova único de Gilberto. El arreglo delicado y minimalista dio nueva vida al mundo de la música. | [Amazon](https://amzn.to/46z7Jh7) |
+| 1964 | Getz/Gilberto (coprotagonizada con Stan Getz) | Una obra rompedora que popularizó la bossa nova en el mercado americano. Resulta atractiva la sofisticada bossa de jazz producida por la fusión de Joan y Stan Getz. | [Amazon](https://amzn.to/4nAx9Ry) |
+| 1973 | João Gilberto (Warner) | Una obra que da una idea de la mayoría de edad de Gilberto. Expresando el profundo mundo de la bossa nova con arreglos tranquilos y voces líricas. | [Amazon](https://amzn.to/4gQqHTL) |
 
 ---
 
 ## Discografía de Antonio Carlos Jobim
 
-| 年 | アルバム | 解説 | リンク |
+| Año | Álbum | Comentario | Enlace |
 |----|----------|------|--------------|
-| 1963 | The Composer of Desafinado Plays | 「デサフィナード」を中心にボサノバの洗練されたコード進行とメロディを提示。ジョビンの作曲力が光る初期代表作。 | [Amazon](https://amzn.to/3VJM1AP) |
-| 1965 | The Wonderful World of Antônio Carlos Jobim | ピアノを中心にしたアレンジで、ジャズ的要素とブラジル音楽を融合。国際的評価を高めたアルバム。 | [Amazon](https://amzn.to/46zbymt) |
-| 1967 | Francis Albert Sinatra & Antônio Carlos Jobim | シナトラとの共演作品。アメリカのリスナーにボサノバの魅力を広め、名曲「イパネマの娘」も収録。 | [Amazon](https://amzn.to/42jb1Te) |
-| 1970 | Stone Flower | よりフュージョン的な試みを導入した実験作。ギターやパーカッションとの新しいハーモニーを模索。 | [Amazon](https://amzn.to/46ByhhP) |
-| 1987 | Terra Brasilis | キャリア晩期の作品で、ブラジル音楽の伝統と現代感覚を融合。豊かなオーケストレーションが特徴。 | [Amazon](https://amzn.to/46OIbLT) |
+| 1963 | El compositor de obras desafinadas | Presenta sofisticadas progresiones de acordes y melodías de bossa nova, centradas en "Desafinado". Una obra maestra temprana que muestra la capacidad compositiva de Jobim. | [Amazon](https://amzn.to/3VJM1AP) |
+| 1965 | El maravilloso mundo de Antônio Carlos Jobim | Arreglos centrados en el piano, fusionando elementos del jazz con la música brasileña. Un álbum que obtuvo reconocimiento internacional. | [Amazon](https://amzn.to/46zbymt) |
+| 1967 | Francisco Alberto Sinatra y Antonio Carlos Jobim | Una colaboración con Sinatra. Difundió el atractivo de la bossa nova entre los oyentes estadounidenses e incluye la famosa canción "La chica de Ipanema". | [Amazon](https://amzn.to/42jb1Te) |
+| 1970 | Flor de piedra | Un trabajo experimental que introduce un intento más de fusión. Explorando nuevas armonías con guitarra y percusión. | [Amazon](https://amzn.to/46ByhhP) |
+| 1987 | Tierra Brasilis | Obras de las últimas etapas de su carrera que combinan las tradiciones musicales brasileñas con la sensibilidad moderna. Caracterizado por una rica orquestación. | [Amazon](https://amzn.to/46OIbLT) |
 
 ---
 
 ## Discografía de Stan Getz
 
-| 年 | アルバム | 解説 | リンク |
+| Año | Álbum | Comentario | Enlace |
 |----|----------|------|--------------|
-| 1962 | Jazz Samba | ボサノバをジャズに導入した名盤。軽快なサックスとブラジルリズムの融合で、国際的に高く評価された。 | [Amazon](https://amzn.to/4q0kjh9) |
-| 1962 | Big Band Bossa Nova | ビッグバンド編成でボサノバを表現。豪華なアレンジと洗練されたサックスが印象的。 | [Amazon](https://amzn.to/487UWmZ) |
-| 1964 | Getz/Gilberto (João Gilbertoとの共演) | ボサノバ世界ブームの火付け役。ヒット曲「イパネマの娘」が収録され、グラミー賞も受賞。 | [Amazon](https://amzn.to/4nAx9Ry)  |
-| 1965 | Getz/Gilberto #2 | 前作の成功を受けた続編。よりジャズ寄りのアプローチでボサノバの幅を広げた。 | [Amazon](https://amzn.to/473qVDP) |
-| 1977 | The Best of Two Worlds | ジルベルトとの再共演盤。成熟した演奏と親密なインタープレイが魅力の集大成。 | [Amazon](https://amzn.to/476oikB) |
+| 1962 | Samba Jazz | Una obra maestra que introdujo la bossa nova al jazz. Recibió grandes elogios a nivel internacional por su fusión de saxofón ligero y ritmo brasileño. | [Amazon](https://amzn.to/4q0kjh9) |
+| 1962 | Big Band Bossa Nova | Expresando bossa nova con una big band. El magnífico arreglo y el sofisticado saxofón son impresionantes. | [Amazon](https://amzn.to/487UWmZ) |
+| 1964 | Getz/Gilberto (coprotagonizada con João Gilberto) | Desencadenó el boom mundial de la bossa nova. Incluía la exitosa canción "La chica de Ipanema" y ganó un premio Grammy. | [Amazon](https://amzn.to/4nAx9Ry) |
+| 1965 | Getz/Gilberto #2 | Una secuela del éxito de su predecesor. Amplió la gama de bossa nova con un enfoque más orientado al jazz. | [Amazon](https://amzn.to/473qVDP) |
+| 1977 | Lo mejor de dos mundos | Re-colaboración con Gilberto. Una atractiva culminación de actuaciones maduras y una interacción íntima. | [Amazon](https://amzn.to/476oikB) |
 
 ---
 
 ## Discografía de Sergio Mendes
 
-| 年 | アルバム | 解説 | リンク |
+| Año | Álbum | Comentario | Enlace |
 |----|----------|------|--------------|
-| 1966 | Herb Alpert Presents Sérgio Mendes & Brasil '66 | アメリカ市場向けに制作され、ヒット曲「Mas Que Nada」を収録。ブラジル音楽を世界に広めた代表作。 | [Amazon](https://amzn.to/4mR12fg) |
-| 1968 | Look Around | ポップスとボサノバの融合をさらに推進。キャッチーで洗練されたアレンジが人気。 | [Amazon](https://amzn.to/4mNhxca) |
-| 1969 | Fool on the Hill | ビートルズ曲をボサノバ風にアレンジ。ジャンルを越えた実験性が光るアルバム。 | [Amazon](https://amzn.to/4mIItdb) |
-| 1971 | Stillness | 落ち着いた雰囲気のアルバムで、アレンジやコーラスの美しさが際立つ。 | [Amazon](https://amzn.to/433P2Qj) |
-| 1983 | Confetti | キャリア後期の作品で、80年代のサウンドとブラジル音楽を融合。軽快なリズムとモダンアレンジが特徴。 | [Amazon](https://amzn.to/4o58hRH) |
+| 1966 | Herb Alpert presenta Sérgio Mendes & Brasil '66 | Producido para el mercado americano e incluye el exitoso tema "Más Que Nada". Una obra maestra que difundió la música brasileña por el mundo. | [Amazon](https://amzn.to/4mR12fg) |
+| 1968 | Mira a tu alrededor | Fomentando aún más la fusión del pop y la bossa nova. El arreglo pegadizo y sofisticado es popular. | [Amazon](https://amzn.to/4mNhxca) |
+| 1969 | Tonto en la colina | Canciones de los Beatles arregladas en estilo bossa nova. Un álbum que brilla con un experimentalismo que trasciende géneros. | [Amazon](https://amzn.to/4mIItdb) |
+| 1971 | Quietud | Este es un álbum con una atmósfera tranquila, y destaca la belleza de los arreglos y estribillos. | [Amazon](https://amzn.to/433P2Qj) |
+| 1983 | Confeti | Un trabajo tardío que combina los sonidos de los años 80 y la música brasileña. Caracterizado por un ritmo ligero y un arreglo moderno. | [Amazon](https://amzn.to/4o58hRH) |
 
 
 ---
 
 <div class="mermaid">
 
-diagrama de flujo TD
-JG1["1959: João Gilberto - Chega de Saudade"]
-JG2["1960: João Gilberto - O Amor, o Sorriso e a Flor"]
-JG3["1961: João Gilberto - João Gilberto"]
-ACJ1["1963: Antônio Carlos Jobim - El compositor de obras desafinadas"]
-SG1["1962: Stan Getz - Jazz Samba"]
-SG2["1962: Stan Getz - Big Band Bossa Nova"]
-GJ["1964: Getz/Gilberto - Stan Getz & João Gilberto"]
-ACJ2["1965: Antônio Carlos Jobim - El maravilloso mundo de Antônio Carlos Jobim"]
-SM1["1966: Sérgio Mendes y Brasil '66"]
-ACJ3["1967: Francis Albert Sinatra y Antônio Carlos Jobim"]
-JG4["1973: João Gilberto - João Gilberto"]
-ACJ4["1970: Antônio Carlos Jobim - Flor de Piedra"]
-SG3["1977: Stan Getz - Lo mejor de dos mundos"]
-SM2["1971: Sérgio Mendes - La quietud"]
-ACJ5["1987: Antônio Carlos Jobim - Terra Brasilis"]
-SM3["1983: Sérgio Mendes - Confeti"]
+flowchart TD
+    JG1["1959: João Gilberto - Chega de Saudade"]
+    JG2["1960: João Gilberto - O Amor, o Sorriso e a Flor"]
+    JG3["1961: João Gilberto - João Gilberto"]
+    ACJ1["1963: Antônio Carlos Jobim - The Composer of Desafinado Plays"]
+    SG1["1962: Stan Getz - Jazz Samba"]
+    SG2["1962: Stan Getz - Big Band Bossa Nova"]
+    GJ["1964: Getz/Gilberto - Stan Getz & João Gilberto"]
+    ACJ2["1965: Antônio Carlos Jobim - The Wonderful World of Antônio Carlos Jobim"]
+    SM1["1966: Sérgio Mendes & Brasil '66"]
+    ACJ3["1967: Francis Albert Sinatra & Antônio Carlos Jobim"]
+    JG4["1973: João Gilberto - João Gilberto"]
+    ACJ4["1970: Antônio Carlos Jobim - Stone Flower"]
+    SG3["1977: Stan Getz - The Best of Two Worlds"]
+    SM2["1971: Sérgio Mendes - Stillness"]
+    ACJ5["1987: Antônio Carlos Jobim - Terra Brasilis"]
+    SM3["1983: Sérgio Mendes - Confetti"]
 
-JG1 --> JG2 --> JG3 --> GJ
-SG1 --> GJ
-SG2 --> GJ
-ACJ1 --> GJ
-ACJ1 --> ACJ2 --> ACJ3 --> ACJ4 --> ACJ5
-SM1 --> SM2 --> SM3
-JG4 --> GJ
-SG3 --> GJ
+    JG1 --> JG2 --> JG3 --> GJ
+    SG1 --> GJ
+    SG2 --> GJ
+    ACJ1 --> GJ
+    ACJ1 --> ACJ2 --> ACJ3 --> ACJ4 --> ACJ5
+    SM1 --> SM2 --> SM3
+    JG4 --> GJ
+    SG3 --> GJ
 
 </div>
 
@@ -210,7 +210,7 @@ La bossa nova ha influido en varios géneros como el jazz, el pop y la música c
 
 ## resumen
 
-Bossa Nova es un género poco común que comenzó en un departamento en Río de Janeiro a fines de la década de 1950 y ha reescrito el mapa musical mundial. La guitarra y la voz susurrantes de João Gilberto, las sofisticadas composiciones de Antonio Carlos Jobim, la interpretación del jazz de Stan Getz y el internacionalismo pop de Sergio Mendes. Aunque sus personalidades y actividades individuales son independientes, están vinculados orgánicamente y continúan siendo escuchados a lo largo de los siglos.
+Bossa Nova es un género poco común que comenzó en un departamento en Río de Janeiro a fines de la década de 1950 y ha reescrito el mapa musical mundial. La guitarra y la voz susurrantes de João Gilberto, las sofisticadas composiciones de Antonio Carlos Jobim, la interpretación del jazz de Stan Getz y la internacionalización del pop de Sergio Mendes. Aunque sus personalidades y actividades individuales son independientes, están vinculados orgánicamente y continúan siendo escuchados a lo largo de los siglos.
 
 Incluso hoy en día, la palabra "Bossa Nova" va más allá de un simple género musical y funciona como símbolo de la "cultura brasileña" y de una "atmósfera relajada". A través de plataformas digitales como Spotify y YouTube, ha sido recibido recientemente por la generación más joven y aparece con frecuencia en recomendaciones y listas de reproducción de IA.
 

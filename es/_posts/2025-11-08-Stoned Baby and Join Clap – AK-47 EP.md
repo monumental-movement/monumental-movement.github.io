@@ -16,7 +16,7 @@ title: Stoned Baby y únete a los aplausos – AK-47 EP
 
 Raúl López Martín (DJ Peque), también conocido como Stoned Baby, es un DJ de España. También es conocido como el fundador de los sellos House D'arret y Rxxistance.
 
-"AK-47 EP" es una canción Tribal/Techno lanzada por el sello Primate Endangered Species en 2002. Edición en vinilo de color rojo limitada a la primera edición.
+"AK-47 EP" es un tema Tribal/Techno lanzado por el sello Primate Endangered Species en 2002. Edición en vinilo de color rojo limitada a la primera edición.
 
 #### Lista de canciones
 ```md

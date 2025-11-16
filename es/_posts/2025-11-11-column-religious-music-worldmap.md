@@ -30,7 +30,7 @@ Desde cánticos antiguos hasta música curativa moderna, los sonidos, ritmos y v
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Música hindú: el sonido del universo “Nada Brahma”
@@ -69,11 +69,11 @@ color: #fff;
 * La respiración y el canto están sincronizados → **Estabilidad del sistema nervioso autónomo**
 
 
-| 効果 | 生理的作用 |
+| Efectos | Efectos fisiológicos |
 |------|-------------|
-| 倍音唱法 | 呼吸を整え脳波を安定 |
-| 法螺貝・鐘 | 集中力の向上 |
-| 集団声明 | 安心感と共同体意識 |
+| Método de canto de armónicos | Regula tu respiración y estabiliza tus ondas cerebrales |
+| Caracola/campana | Mejorar la concentración |
+| Declaración del grupo | Sentido de seguridad y comunidad |
 
 ---
 
@@ -131,27 +131,27 @@ color: #fff;
 <div class="mermaid">
 
 gantt
-título Historia del desarrollo de la música religiosa mundial.
-formato de fecha AAAA
-formato de eje %Y
-hoyMarcador apagado
+    title 世界宗教音楽の発展史
+    dateFormat  YYYY
+    axisFormat  %Y
+    todayMarker off
 
-sección antigua
-Canto védico (hindú): hecho, -1500, 500
-Teoría de la música china/india antigua: -500, 500
+    section 古代
+    ヴェーダ詠唱（ヒンドゥー） :done, -1500, 500
+    古代中国・インド音楽理論 : -500, 500
 
-sección edad media
-Canto gregoriano: 800, 400
-Declaración tibetana: 1100, 900
-Música sufí: 1200, 800
+    section 中世
+    グレゴリオ聖歌 : 800, 400
+    チベット声明 : 1100, 900
+    スーフィー音楽 : 1200, 800
 
-sección moderna
-Evangelio Espiritual: 1700, 300
-Música ritual africana: 1500, 500
+    section 近代
+    ゴスペル・スピリチュアル : 1700, 300
+    アフリカ儀式音楽 : 1500, 500
 
-sección moderna
-Meditación/música curativa: 1900, 125
-Música transcultural: 2000, 50
+    section 現代
+    瞑想・ヒーリング音楽 : 1900, 125
+    クロスカルチャー音楽 : 2000, 50
 
 </div>
 
@@ -161,16 +161,16 @@ Música transcultural: 2000, 50
 
 <div class="mermaid">
 
-gráfico TD
-A[Hinduismo: Concentración de Meditación 5] -->|5| X[ ]
-B[Budismo: Concentración de Meditación 5] -->|5|
-C[Cristianismo: Elevación emocional 4] -->|4|
-D[Islam: Purificación/Concentración 5] -->|5|
-E[Judaísmo: Memoria/Concentración mental 4] -->|4|
-F[Religión Africana: Trans/Unidad 5] -->|5|
+graph TD
+    A[Hinduismo: concentración de meditación 5] -->|5| X[ ]
+    B[Budismo: concentración de meditación 5] -->|5| X
+    C[Cristianismo: elevación emocional 4] -->|4| X
+    D[Islam: Purificación/Concentración 5] -->|5| X
+    E[Judaísmo: Memoria/Concentración mental 4] -->|4| X
+    F[Religión africana: Trance Unity 5] -->|5| X
 
-relleno de barra classDef:#4f81bd,trazo:#333,ancho de trazo:1px,color:#fff;
-barra clase A,B,C,D,E,F;
+    classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
+    class A,B,C,D,E,F bar;
 
 </div>
 
@@ -180,15 +180,15 @@ barra clase A,B,C,D,E,F;
 
 <div class="mermaid">
 
-línea de tiempo
-título Cambios en series temporales de efectos psicológicos y fisiológicos
--1500: Canto védico → prototipo de meditación grupal
--500 años: declaración budista → Concentración a través de la respiración y la resonancia
-800: canto gregoriano → catarsis espiritual
-1200: melodía sufí → experiencia de trance
-1700: Evangelio → Liberación emocional y esperanza social
-1900: Música curativa → Ayuda científica para la meditación.
-2000: Música de meditación digital → integración global
+timeline
+    title 心理・生理効果の時系列変化
+    -1500年 : ヴェーダ詠唱 → 集団瞑想の原型
+    -500年 : 仏教声明 → 呼吸と共鳴による集中
+    800年 : グレゴリオ聖歌 → 精神的カタルシス
+    1200年 : スーフィ旋律 → トランス体験
+    1700年 : ゴスペル → 感情解放と社会的希望
+    1900年 : ヒーリング音楽 → 科学的瞑想補助
+    2000年 : デジタル瞑想音楽 → グローバル統合
 
 </div>
 
@@ -196,14 +196,14 @@ título Cambios en series temporales de efectos psicológicos y fisiológicos
 
 ## Matriz de efectos psicológicos de cada música religiosa.
 
-| 宗教音楽   | リラクゼーション | 集中 | 感情高揚 | 社会的結束 | トランス誘導 |
+| Música religiosa | Relajación | Concentración | Elevación emocional | Cohesión social | Inducción al trance |
 | ------ | -------- | -- | ---- | ----- | ------ |
-| ヒンドゥー教 | ◎        | ◎  | ○    | ○     | ○      |
-| 仏教     | ◎        | ◎  | △    | ○     | △      |
-| キリスト教  | ○        | △  | ◎    | ◎     | △      |
-| イスラム教  | ○        | ◎  | ○    | ○     | ◎      |
-| ユダヤ教   | △        | ○  | ◎    | ○     | △      |
-| アフリカ宗教 | △        | ○  | ○    | ◎     | ◎      |
+| Hinduismo | ◎ | ◎ | ○ | ○ | ○ |
+| Budismo | ◎ | ◎ | △ | ○ | △ |
+| Cristianismo | ○ | △ | ◎ | ◎ | △ |
+| Islam | ○ | ◎ | ○ | ○ | ◎ |
+| Judaísmo | △ | ○ | ◎ | ○ | △ |
+| Religión africana | △ | ○ | ○ | ◎ | ◎ |
 
 (◎: efecto fuerte, ○: moderado, △: débil)
 

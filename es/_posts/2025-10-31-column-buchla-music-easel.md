@@ -29,7 +29,7 @@ No era sólo un pequeño módulo modular, sino que fue concebido como un "dispos
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ---
@@ -62,11 +62,11 @@ La siguiente figura es un modelo simplificado de la relación entre FM (modulaci
 
 <div class="mermaid">
 
-gráfico TD
-A[Oscilador de modulación] -->|Señal FM| B[Oscilador complejo]
-B -->|Salida plegada en onda| C[Salida de audio]
-B --> D [Timbre armónico CV]
-D -->|Voltaje de control| B
+graph TD
+A[Modulation Oscillator] -->|FM Signal| B[Complex Oscillator]
+B -->|Wavefolded Output| C[Audio Out]
+B --> D[Harmonic Timbre CV]
+D -->|Control Voltage| B
 
 </div>
 
@@ -85,15 +85,15 @@ Music Easel consta de dos bloques principales:
 
 <div class="mermaid">
 
-gráfico LR
-A[Teclado táctil 218] -->|CV/Puerta| B[Oscilador complejo]
-B -->|Audio| C[Mezclador y salida]
-A -->|Presión CV| D[Oscilador de modulación]
+graph LR
+A[Touch Keyboard 218] -->|CV/Gate| B[Complex Oscillator]
+B -->|Audio| C[Mixer & Output]
+A -->|Pressure CV| D[Modulation Oscillator]
 D -->|FM| B
-E[Pulsador] -->|Disparador| F[Generador de sobres]
+E[Pulser] -->|Trigger| F[Envelope Generator]
 F -->|CV| B
-B --> G[Unidad de reverberación]
-G --> H [Salida principal]
+B --> G[Reverb Unit]
+G --> H[Main Out]
 
 </div>
 
@@ -125,11 +125,11 @@ El público tiene la ilusión de que "se está tocando el aire mismo".
 
 ### Análisis de forma de onda: características de la estructura de improvisación
 
-| 要素                          | 技術的要点         | 聴覚印象         |
+| Elementos | Puntos Técnicos | Impresiones auditivas |
 | --------------------------- | ------------- | ------------ |
-| Modulation OscillatorのFM量変化 | 波形が時間的に非線形に変動 | 有機的揺らぎ       |
-| Pulser＋Envelope連結           | 拍感を持たない周期の生成  | “呼吸”のような時間感覚 |
-| Reverb残響の自己干渉               | 倍音の逆相生成       | 浮遊感・残響的広がり   |
+| Cambio en la cantidad de FM del oscilador de modulación | La forma de onda fluctúa de forma no lineal con el tiempo | Fluctuación orgánica |
+| Conexión pulsador + envolvente | Generación de ciclos sin sentido del ritmo | Sentido del tiempo como “respirar” |
+| Autointerferencia de reverberación Reverb | Generación de fase opuesta de armónicos | Sensación flotante/propagación reverberante |
 
 ---
 
@@ -152,12 +152,12 @@ Produce un sonido que es como si un instrumento acústico se estuviera reconstru
 
 <div class="mermaid">
 
-gráfico TD
-A[Pulsador] -->|Disparador irregular| B[Sobre]
-B -->|Modulación CV| C[Oscilador complejo]
-C -->|Audio| D[carpeta de ondas]
-D -->|Audio| mi[reverberación]
-E -->|Salida estéreo| F[Espacio de audiencia]
+graph TD
+A[Pulser] -->|Irregular Trigger| B[Envelope]
+B -->|CV Modulation| C[Complex Oscillator]
+C -->|Audio| D[Wavefolder]
+D -->|Audio| E[Reverb]
+E -->|Stereo Out| F[Audience Space]
 
 </div>
 
@@ -221,18 +221,18 @@ Mantiene el futuro de la improvisación escondido dentro de la unidad más peque
 
 <div class="mermaid">
 
-línea de tiempo
-título Buchla Music Easel Cronología
-1963: Don Buchla comienza el desarrollo de la serie Buchla 100 (al mismo tiempo que Moog)
-1966: Investigación colaborativa con músicos experimentales en el San Francisco Tape Music Center.
-1973: Se presenta el caballete musical (modelo 208/218)
-1975 : Primera actuación en directo de Suzanne Ciani y Buchla
-1980: Charles Cohen comienza presentaciones improvisadas en vivo usando Easel.
-1990: Easel se revaloriza en la escena musical experimental underground.
-2013: Lanzamiento de la edición de reimpresión de caballete (BEMI)
-2014: Se anuncia Charles Cohen “Live at the Rotunda”
-2018: Lanzamiento de Easel Command (208c)
-2022: Ampliación del movimiento en vivo Buchla por parte de artistas de nueva generación
+timeline
+    title Buchla Music Easel 年表
+    1963 : Don Buchla、Buchla 100シリーズ開発開始（Moogと同時期）
+    1966 : San Francisco Tape Music Centerで実験音楽家と共同研究
+    1973 : Music Easel（Model 208/218）登場
+    1975 : Suzanne Ciani、Buchlaによる初ライブパフォーマンス
+    1980 : Charles Cohen、Easelを用いた即興ライブ開始
+    1990 : Easelがアンダーグラウンド実験音楽シーンで再評価
+    2013 : Easel復刻版（BEMI）発売
+    2014 : Charles Cohen “Live at the Rotunda”発表
+    2018 : Easel Command（208c）リリース
+    2022 : 新世代アーティストによるBuchlaライブ・ムーブメント拡大
 
 </div>
 

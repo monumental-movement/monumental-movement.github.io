@@ -29,7 +29,7 @@ Esta nueva expresión más tarde resonará profundamente en la música de IA.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Nacimiento de una cultura de “tocar” acordes
@@ -91,13 +91,13 @@ La relación entre ambos no es de "dominación y subordinación", sino más bien
 
 ## Capítulo 4: Evolución y comparación de las principales herramientas.
 
-| ツール名 | 開発者／団体 | 特徴 | AI連携の可能性 |
+| Nombre de la herramienta | Desarrollador/organización | Características | Posibilidad de colaboración con IA |
 |-----------|----------------|------|----------------|
-| **TidalCycles** | Alex McLean | パターン記述に特化したHaskellベースのLive Coding環境 | ChatGPT連携でリアルタイムコード生成が可能 |
-| **SuperCollider** | James McCartney | サウンド合成とアルゴリズム作曲の老舗環境 | AIモデルによるサウンドパラメータ制御が進行中 |
-| **Sonic Pi** | Sam Aaron | 教育・パフォーマンス両面を意識したRubyベース | 教育現場でAI補助コード例が活用 |
-| **Riffusion** | Seth Forsgrenら | スペクトログラムを生成する拡散モデル | AIそのものが音を直接生成 |
-| **Ocelot / Hydra** | 生成映像＋音の統合Live Coding環境 | 視覚と音のAI同期が可能 |
+| **Ciclos de marea** | Alex McLean | Entorno Live Coding basado en Haskell especializado en descripción de patrones | Es posible la generación de código en tiempo real con la integración ChatGPT |
+| **Supercolisionador** | James McCartney | Un entorno establecido desde hace mucho tiempo para la síntesis de sonido y la composición algorítmica | Está en marcha el control de parámetros de sonido mediante modelos de IA |
+| **Sonic Pi** | Sam Aarón | Basado en Ruby teniendo en cuenta tanto la educación como el rendimiento | Ejemplos de código asistido por IA utilizados en entornos educativos |
+| **Riffusión** | Seth Forsgren et al. | Modelo de difusión que genera espectrogramas | La propia IA genera sonido directamente |
+| **Ocelote / Hidra** | Entorno Live Coding que integra vídeo + sonido generado | La sincronización de visión y sonido con IA es posible |
 
 ---
 
@@ -154,14 +154,14 @@ Ya no necesitas un mouse o MIDI.
 
 <div class="mermaid">
 
-línea de tiempo
-título Evolución de la codificación en vivo y la música con IA (2000-2025)
-2000: Se forma TOPLAP y nace la cultura Live Coding
-2004: Lanzamiento de la versión inicial de TidalCycles
-2016: Modelo de generación de música con aprendizaje profundo (Magenta, OpenAI MuseNet)
-2020: Riffusion inicia la generación de espectrogramas de IA
-2023: Los eventos coprotagonistas de AI x Live Coding se expanden en Europa
-2025: Se introduce el entorno Live Coding en tiempo real basado en GPT
+timeline
+    title Live CodingとAIミュージックの進化（2000–2025）
+    2000 : TOPLAP結成、Live Coding文化が誕生
+    2004 : TidalCycles初期版登場
+    2016 : Deep Learning音楽生成モデル（Magenta, OpenAI MuseNet）
+    2020 : RiffusionがAIスペクトログラム生成を開始
+    2023 : AI × Live Coding共演イベントが欧州で拡大
+    2025 : GPTベースのリアルタイムLive Coding環境登場
 
 
 
@@ -174,13 +174,13 @@ título Evolución de la codificación en vivo y la música con IA (2000-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Human (Live Coder)"] -->|Introducción de código/improvisación| B["Entorno de codificación en vivo (Tidal, SuperCollider)"]
-B -->|Salida del sonido generado| C["Módulo de análisis de IA (análisis de tempo/estructura)"]
-C -->|Predicción/Propuesta| D["Generador de IA (Riffusion, sistema GPT)"]
-D -->|Generación de material| B
-B -->|Salida de sonido| E["Audiencia (datos de reacción)"]
-E -->|Análisis de emociones| do
+flowchart TD
+    A["Humano (codificador en vivo)"] -->|Entrada de código/improvisación| B["Entorno de codificación en vivo (Tidal, SuperCollider)"]
+    B -->|Salida de sonido generada| C["Módulo de análisis de IA (análisis de tempo/estructura)"]
+    C -->|Predicción/propuesta| D["Generador de IA (Riffusion, sistema GPT)"]
+    D -->|generación de materiales| B
+    B -->|salida de sonido| E["Audiencia (datos de reacción)"]
+    E -->|Análisis de emociones| C
 
 
 </div>
@@ -192,7 +192,7 @@ E -->|Análisis de emociones| do
 
 Live Coding se realiza a través de "expresión improvisada a través de acordes".
 Abrió la música a un acto que cualquiera podía crear.
-La IA promoverá aún más la democratización,
+La IA lo democratizará aún más,
 Estamos tratando de crear una **cultura de compartir la "inteligencia de la actuación"**.
 
 Algoritmos y humanos, máquinas y emociones.

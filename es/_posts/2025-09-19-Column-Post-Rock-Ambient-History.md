@@ -24,7 +24,7 @@ Aquí, le proporcionaremos una lista completa de obras maestras, equipos y antec
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -35,7 +35,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Década de 1970: el período embrionario: experimentación y aparición de la música ambiental
@@ -44,12 +44,12 @@ color: #fff;
 - **Antecedentes**: El apogeo del rock. Los sintetizadores y la tecnología de edición de cintas evolucionaron. Brian Eno abogó por el "ambiente".
 - **Características**: Enfoque anti-rock, no popular. Organizar el sonido en una extensión de espacio y tiempo.
 
-| 作品 | アーティスト | 年 | 特徴 |
+| Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
-| *Ambient 1: Music for Airports* | Brian Eno | 1978 | 「アンビエント」という概念を定義 |
-| *Another Green World* | Brian Eno | 1975 | ポストロック的感性の先駆け |
-| *Phaedra* | Tangerine Dream | 1974 | シーケンサー駆動の革新 |
-| *Discreet Music* | Brian Eno | 1975 | テープループ実験 |
+| *Ambiente 1: Música para Aeropuertos* | Brian Eno | 1978 | Definiendo el concepto de "ambiente" |
+| *Otro Mundo Verde* | Brian Eno | 1975 | Pionero de las sensibilidades post-rock |
+| *Fedra* | Sueño de mandarina | 1974 | Innovación impulsada por secuenciadores |
+| *Música Discreta* | Brian Eno | 1975 | Experimento de bucle de cinta |
 
 **Equipo principal**
 -Moog Modular
@@ -65,12 +65,12 @@ color: #fff;
 - **Características**: Drones, estructuras sin ritmo, influencias industriales.
 
 
-| 作品 | アーティスト | 年 | 特徴 |
+| Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
-| *The Pearl* | Harold Budd & Brian Eno | 1984 | ピアノ＋環境音 |
-| *Treasure* | Cocteau Twins | 1984 | ドリームポップ的アンビエント性 |
-| *Spirit of Eden* | Talk Talk | 1988 | ポストロックの萌芽 |
-| *Apollo: Atmospheres and Soundtracks* | Brian Eno | 1983 | 宇宙的アンビエント |
+| *La Perla* | Harold Budd y Brian Eno | 1984 | Piano + Sonidos ambientales |
+| *Tesoro* | Gemelos Cocteau | 1984 | Ambiente pop de ensueño |
+| *Espíritu del Edén* | Hablar Hablar | 1988 | El post-rock en ciernes |
+| *Apolo: Atmósferas y Bandas Sonoras* | Brian Eno | 1983 | Ambiente Cósmico |
 
 **Equipo principal**
 -Yamaha DX7
@@ -84,12 +84,12 @@ color: #fff;
 - **Antecedentes**: Diversificación del rock alternativo después del grunge. En vísperas de Internet, explotó una escena independiente experimental.
 - **Características**: Desarrollo no rockero aunque utiliza guitarra. Larga duración, contraste dinámico/estático.
 
-| 作品 | アーティスト | 年 | 特徴 |
+| Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
-| *Millions Now Living Will Never Die* | Tortoise | 1996 | ポストロック定義盤 |
-| *F♯ A♯ ∞* | Godspeed You! Black Emperor | 1997 | 荒涼とした都市音楽 |
-| *Selected Ambient Works 85–92* | Aphex Twin | 1992 | アンビエント・テクノ金字塔 |
-| *Laughing Stock* | Talk Talk | 1991 | ポストロック完成形 |
+| *Millones de personas que ahora viven nunca morirán* | Tortuga | 1996 | Álbum de definición post-rock |
+| *F♯ A♯ ∞* | ¡Que te vaya bien! Emperador Negro | 1997 | Música urbana desolada |
+| *Obras ambientales seleccionadas 85–92* | Aphex gemelo | 1992 | Monumento al Techno Ambiental |
+| *El hazmerreír* | Hablar Hablar | 1991 | Post-rock completado |
 
 **Equipo principal**
 - Línea 6 DL4
@@ -103,12 +103,12 @@ color: #fff;
 - **Antecedentes**: El post-rock impregna las bandas sonoras de las películas y la publicidad. Generalización de los entornos de producción digital.
 - **Características**: Dinámica de gran escala, intersección con el posclásico.
 
-| 作品 | アーティスト | 年 | 特徴 |
+| Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
-| *Ágætis byrjun* | Sigur Rós | 1999/2000 | 北欧的ポストロック |
-| *The Earth Is Not a Cold Dead Place* | Explosions in the Sky | 2003 | シネマティック・ポストロック |
-| *The Blue Notebooks* | Max Richter | 2004 | クラシカル×アンビエント |
-| *And Their Refinement of the Decline* | Stars of the Lid | 2007 | 静謐なドローン |
+| *Ágætis byrjun* | Sigur Ros | 1999/2000 | Post-rock nórdico |
+| *La Tierra no es un lugar frío y muerto* | Explosiones en el cielo | 2003 | Post-Rock cinematográfico |
+| *Los Cuadernos Azules* | Max Richter | 2004 | Clásica x Ambiente |
+| *Y su refinamiento de la decadencia* | Estrellas de la Tapa | 2007 | Drone tranquilo |
 
 **Equipo principal**
 - Estación de bucle Boss RC-20
@@ -124,12 +124,12 @@ color: #fff;
 
 - **Características**: Experiencia inmersiva, grabación de campo, fusión con la cultura del club.
 
-| 作品 | アーティスト | 年 | 特徴 |
+| Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
-| *Virgins* | Tim Hecker | 2013 | デジタル崩壊と美学 |
-| *Replica* | Oneohtrix Point Never | 2011 | サンプリング解体美学 |
-| *Ravedeath, 1972* | Tim Hecker | 2011 | 教会オルガン×ノイズ |
-| *Tomorrow’s Harvest* | Boards of Canada | 2013 | ディストピア的アンビエント |
+| *Vírgenes* | Tim Hecker | 2013 | Colapso digital y estética |
+| *Réplica* | Punto Oneohtrix Nunca | 2011 | Estética de la deconstrucción del muestreo |
+| *Muerte delirante, 1972* | Tim Hecker | 2011 | Órgano de iglesia x ruido |
+| *La cosecha del mañana* | Juntas de Canadá | 2013 | Ambiente distópico |
 
 **Equipo principal**
 -Eurorack Modular
@@ -143,12 +143,12 @@ color: #fff;
 - **Antecedentes**: Ampliación de la producción doméstica por pandemia. Composición automática por IA, experiencia musical vinculada con VR/AR.
 - **Características**: Creciente demanda de música generativa, instalaciones y bienestar (BGM para meditación).
 
-| 作品 | アーティスト | 年 | 特徴 |
+| Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
-| *Promises* | Floating Points, Pharoah Sanders & LSO | 2021 | ジャズ×クラシカル×アンビエント |
-| *Lamentations* | William Basinski | 2020 | デジタル時代の崩壊美学 |
-| AI Ambient Projects | Various | 2020s | 無限生成型音楽 |
-| *Everything* | Slow Meadow | 2022 | 瞑想的ポストクラシカル |
+| *Promesas* | Puntos flotantes, Pharoah Sanders y LSO | 2021 | Jazz x Clásica x Ambient |
+| *Lamentaciones* | William Basinski | 2020 | Estética colapsada en la era digital |
+| Proyectos ambientales de IA | Varios | Años 2020 | Música infinitamente generativa |
+| *Todo* | Prado lento | 2022 | Posclásico meditativo |
 
 **Equipo principal**
 - Herramientas de composición de IA (por ejemplo, [AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/))
@@ -160,15 +160,15 @@ color: #fff;
 ### Resumen del cuadro genealógico
 
 <div class="mermaid">
-diagrama de flujo TD
-A1970["Década de 1970: Música ambiental (Eno, Tangerine Dream)"]
-A1980["Década de 1980: Contexto del museo (Cocteau Twins, Talk Talk)"]
-A1990["Década de 1990: Nacimiento del post-rock (Tortoise, GY!BE, Aphex Twin)"]
-A2000["Década de 2000: Cinemática (Sigur Rós, EitS, Richter, Estrellas de la tapa)"]
-A2010["Década de 2010: Drones/Lo-Fi (Tim Hecker, OPN, BoC)"]
-A2020["Década de 2020: IA e inmersión (puntos flotantes, Basinski, IA ambiental)"]
+flowchart TD
+    A1970["Década de 1970: música ambiental (Eno, Tangerine Dream)"]
+    A1980["Década de 1980: contexto del museo (Cocteau Twins, Talk Talk)"]
+    A1990["Década de 1990: nacimiento del post-rock (Tortoise, GY!BE, Aphex Twin)"]
+    A2000["Década de 2000: cinematográfica (Sigur Rós, EitS, Richter, Stars of the Lid)"]
+    A2010["2010s: Drone/Lo-Fi (Tim Hecker, OPN, BoC)"]
+    A2020["2020s: AI & Immersive (Floating Points, Basinski, AI Ambient)"]
 
-A1970 --> A1980 --> A1990 --> A2000 --> A2010 --> A2020
+    A1970 --> A1980 --> A1990 --> A2000 --> A2010 --> A2020
 </div>
 
 ---

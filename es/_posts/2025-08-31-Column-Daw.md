@@ -21,7 +21,7 @@ Texto: mmr｜Tema: Un dispositivo cultural que simboliza la “democratización 
 
 DTM (DeskTop Music): llamado "DTM" en japonés y DAW (Digital Audio Workstation) en los países de habla inglesa, el flujo de trabajo se refiere a una cultura en la que la grabación, edición, mezcla y producción se completan utilizando computadoras y software. En este artículo, organizaremos el flujo desde su surgimiento hasta el presente, junto con una cronología, con un enfoque en los "puntos de inflexión tecnológicos" y el "impacto cultural".
 
-<hr>
+<hora>
 
 ### Tendencia por época
 
@@ -48,37 +48,37 @@ Presentamos edición no lineal, integración de música en vivo basada en clips,
 **Década de 2020**: producción asistida por IA, colaboración en la nube y mayor democratización
 La mezcla/masterización automática, la generación de IA, el intercambio de proyectos en la nube, etc. están afectando el flujo de producción.
 
-<hr>
+<hora>
 
 ### Origen y primeros días (de la cinta a la era analógica)
 
 El origen del DTM es el acto mismo de "crear una obra grabando y editando sonido". Los experimentos con medios físicos, como la edición de cintas (cortar y pegar), el bucle de cintas (crear sonidos repetidos), la inversión de cintas y la manipulación de la velocidad, dieron forma a la música electrónica a mediados del siglo XX. Esta era una época en la que el foco estaban en los grandes equipos de estudio y en los ingenieros cualificados.
 
-<hr>
+<hora>
 
 ### Revolución provocada por la llegada del MIDI (alrededor de 1983)
 
 MIDI (Interfaz digital de instrumentos musicales) es un estándar para intercambiar información de notas e información de control entre teclados, secuenciadores y computadoras. Esto facilitó mucho la producción mediante la integración de sintetizadores y módulos externos, e hizo realidad el control de secuencia de software (más tarde el núcleo de las DAW). MIDI estandariza la "información de interpretación" y aumenta drásticamente la flexibilidad de la producción musical.
 
-<hr>
+<hora>
 
 ### El auge de las computadoras y el software (década de 1990)
 
 Las mejoras en el rendimiento de las computadoras y el uso práctico de la grabación en disco duro han hecho posible editar formas de onda de audio digitalmente. Pro Tools de Avid (entonces Digidesign) permitió digitalmente flujos de trabajo de grabación y edición profesionales y se convirtió en el estándar de la industria para la producción cinematográfica, televisiva y musical. Al mismo tiempo, se hicieron populares los secuenciadores de software/DAW integrales como el Cubase de Steinberg y el Logic de Emagic (posteriormente adquirido por Apple). Además, el complemento VST (Virtual Studio Technology) propuesto por Steinberg amplió el ecosistema al proporcionar un mecanismo para que terceros desarrollen fuentes y efectos de sonido de software.
 
-<hr>
+<hora>
 
 ### Nacimiento de los estudios caseros y la “producción individual” (década de 2000)
 
 Con mejoras en el rendimiento de las PC personales, la proliferación de interfaces de audio y mejoras en la calidad de los complementos, la grabación ya no es sólo para el estudio. Los entornos de producción centrados en bucles y patrones, como FL Studio y Ableton Live, han cambiado el estilo de producción de la música electrónica y el hip-hop, y se ha vuelto común que las personas completen álbumes y bandas sonoras en casa. Con la combinación de plataformas de distribución y ventas por Internet (Bandcamp, SoundCloud, etc.), el umbral desde la producción hasta el lanzamiento se ha reducido drásticamente.
 
-<hr>
+<hora>
 
 ### Década de 2010 y años posteriores: diversificación, improvisación y computación en la nube
 
 Los DAW han evolucionado desde herramientas para simplemente "grabar, organizar y mezclar" hasta funciones multifuncionales como presentaciones en vivo (Ableton Live), colaboración en tiempo real, vinculación de video e integración modular. Las opciones de uso se están ampliando aún más, incluidas aplicaciones móviles/DAW para iPad, sincronización de proyectos en la nube y la introducción de modelos de suscripción.
 
-<hr>
+<hora>
 
 ### Elementos técnicos clave (qué soporta la DAW)
 
@@ -96,7 +96,7 @@ Los DAW han evolucionado desde herramientas para simplemente "grabar, organizar 
 
 **Edición no destructiva**: se puede editar sin cambiar los datos originales. Funciones básicas de DAW.
 
-<hr>
+<hora>
 
 ### Características de los principales DAW
 
@@ -112,7 +112,7 @@ Los DAW han evolucionado desde herramientas para simplemente "grabar, organizar 
 
 [**REAPER**](https://amzn.to/4ognVtw): Ligero y altamente personalizable. Bajo costo y mucha expansión comunitaria.
 
-<hr>
+<hora>
 
 ### Cambios en aspectos culturales y estructura industrial.
 
@@ -124,7 +124,7 @@ Los DAW han evolucionado desde herramientas para simplemente "grabar, organizar 
 
 **Aprendizaje y comunidad**: La democratización del aprendizaje está avanzando a través del intercambio de conocimientos en YouTube y foros.
 
-<hr>
+<hora>
 
 ### Tendencias actuales y futuro próximo
 
@@ -136,7 +136,7 @@ Los DAW han evolucionado desde herramientas para simplemente "grabar, organizar 
 
 **En vivo e interactivo**: la aplicación de DAW se está expandiendo no solo a la música sino también a la creación de experiencias interactivas y multimedia.
 
-<hr>
+<hora>
 
 ### Consejos prácticos (para quienes están por iniciarse en DTM)
 
@@ -150,7 +150,7 @@ Solidifique su flujo de trabajo. Adquiera el hábito de utilizar plantillas y ac
 
 Copia de seguridad y control de versiones. Guarde proyectos con frecuencia y utilice la sincronización en la nube.
 
-<hr>
+<hora>
 
 ### Mini diccionario de términos
 
@@ -164,10 +164,10 @@ Copia de seguridad y control de versiones. Guarde proyectos con frecuencia y uti
 
 **Muestreo**: Técnica que utiliza fuentes de sonido existentes como materiales.
 
-<hr>
+<hora>
 
 ### ¿Qué es DTM? — Coevolución de la tecnología y la cultura.
 
 DTM/DAW no es sólo una colección de herramientas, sino un dispositivo cultural que simboliza la "democratización de la producción musical". Desde los días de la edición de cintas y los sintetizadores de hardware, hasta el MIDI y la grabación digital, los VST y los ecosistemas de complementos, la IA y la nube, la tecnología ha reducido las barreras a la expresión y ha creado un entorno donde cualquiera puede ofrecer sonido al mundo.
 
-La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debemos hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.
+La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debo hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.

@@ -30,7 +30,7 @@ Lo que cautiva al oyente no es el grado de perfección, sino la "belleza inacaba
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Dos talentos extraordinarios──Madlib y MF DOOM
@@ -50,11 +50,11 @@ color: #fff;
 Madlib (nombre real Otis Jackson Jr.) es un "poeta sampler" que alquimia el caos musical.
 Sus ritmos no se basan en un ritmo sistemático, sino que están dominados por una "estética del azar". Discos antiguos, archivos sonoros de bibliotecas, efectos de sonido de anime: todos estos pueden utilizarse como materiales.
 
-Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
+Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de mayor baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
 
 ### MF DOOM: El poeta enmascarado
 MF DOOM (nombre real Daniel Dumile) nació de una tragedia.
-A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello llegó a su fin.
+A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello fue cancelado.
 Permaneció en silencio durante varios años y regresó con una máscara de metal. **
 
 DOOM hizo de la máscara un símbolo de "creación" en lugar de "escape".
@@ -174,17 +174,17 @@ Cada vez que reproduces [“Madvillainy”](https://amzn.to/3JhySfH), el oyente 
 
 <div class="mermaid">
 
-línea de tiempo
-título Madvillain y la evolución del hip-hop (1991-2021)
-1991: debut de KMD, inicio de actividades como ZeV Love X
-1993: La segunda canción de KMD, "Black Bastards", es prohibida / fallece el hermano menor, Subroc
-1999: Resucitado bajo el nombre MF DOOM ``Operación: Doomsday''
-2002: Madlib trabaja como Quasimoto/firma con Stones Throw
-2003: Comenzó a grabar Madvillain Demos (mientras estaba en Brasil)
-2004: Lanzamiento de [“Madvillainy”](https://amzn.to/3JhySfH), recibido con entusiasmo en la escena underground.
-2010: Se anuncia “Madvillainy 2: The Madlib Remix”
-2020: Fallece MF DOOM (anunciado el 31 de diciembre de 2020)
-2021: Ola de reevaluación, relectura de DOOM por parte de la generación Bandcamp
+timeline
+    title Madvillainとヒップホップ変遷（1991–2021）
+    1991 : KMDデビュー、ZeV Love Xとして活動開始
+    1993 : KMDのセカンド『Black Bastards』発禁／弟Subroc死去
+    1999 : MF DOOM名義で復活『Operation: Doomsday』
+    2002 : Madlib、Quasimoto名義で活動／Stones Throwと契約
+    2003 : Madvillain Demos録音開始（ブラジル滞在中）
+    2004 : [『Madvillainy』](https://amzn.to/3JhySfH)発売、地下シーンで熱狂的評価
+    2010 : 『Madvillainy 2: The Madlib Remix』発表
+    2020 : MF DOOM死去（公表は2020年12月31日）
+    2021 : 再評価の波、Bandcamp世代によるDOOM再読
 
 </div>
 
@@ -194,15 +194,15 @@ título Madvillain y la evolución del hip-hop (1991-2021)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Muestras sin procesar (Jazz / Dibujos animados / Música de biblioteca)"]
-B["Cortar y hacer bucles (SP-303)"]
-C["Capa vocal (MF DOOM)"]
-D["Mezcla analógica (casete/carrete de 2 pistas)"]
-E["Secuencia del álbum (22 cuentos)"]
-F["Mente del oyente: Collage continuo"]
+flowchart TD
+    A["Raw Samples（Jazz / Cartoons / Library Music）"]
+    B["Chopping & Looping（SP-303）"]
+    C["Vocal Layer（MF DOOM）"]
+    D["Analog Mixdown（Cassette / 2-Track Reel）"]
+    E["Secuencia del álbum (22 cuentos)"]
+    F["Listener’s Mind：Continuous Collage"]
 
-A --> B --> C --> D --> E --> F
+    A --> B --> C --> D --> E --> F
 
 </div>
 

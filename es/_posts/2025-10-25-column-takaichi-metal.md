@@ -26,7 +26,7 @@ A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,19 +37,19 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El metal, un dispositivo espiritual
 
 El metal es un arte de pasión, pero también un arte de orden y construcción. Su estilo de controlar emociones fuertes a través de construcciones matemáticas es consistente con el estilo de discurso político de Takaichi.
 
-| メタルの構造    | 高市政治の構造         |
+| Estructura metálica | Estructura política de Takaichi |
 | --------- | --------------- |
-| 轟音（情熱・怒り） | 国家・文化防衛への情念     |
-| リフ（反復）    | 政策スローガンの反復構文    |
-| ソロ（展開）    | スピーチ中の即興的強調     |
-| ブレイク（沈黙）  | 間の取り方・呼吸のコントロール |
+| Rugido (pasión/ira) | Pasión por la defensa nacional y cultural |
+| Riff (repetición) | Sintaxis repetitiva de eslóganes políticos |
+| Solo (desarrollo) | Énfasis improvisado durante el discurso |
+| Pausa (silencio) | Controlar las pausas y la respiración |
 
 
 Así como el metal es "un arte que convierte el caos en orden", el discurso de Takaichi resuena como música de palabras que sintaxis la pasión.
@@ -104,14 +104,14 @@ La estructura de su discurso se asemeja a la estructura de una canción de metal
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Introducción: Presentación silenciosa de la lógica"]
-B["Riff: Repetición del tema central"]
-C["Solo: Énfasis apasionado"]
-D["Pausa: Un momento de silencio/modulación"]
-E["Outro: Consecuencias para el orden"]
+flowchart TD
+    A["Introducción: Presentación tranquila de la lógica"]
+    B["Riff: Repetición del tema central"]
+    C["Solo: Énfasis apasionado"]
+    D["Pausa: Un momento de silencio/modulación"]
+    E["Outro: Consecuencias para el orden"]
 
-A --> B --> C --> D --> E
+    A --> B --> C --> D --> E
 
 </div>
 
@@ -131,15 +131,15 @@ Así como el metal ha evolucionado al aceptar el ruido, la política madura tamb
 
 <div class="mermaid">
     
-gráfico TD
-A1980["1980: Exposición al volumen y Judas Priest"] --> A1983["1983: Graduado del Departamento de Administración de Empresas, Facultad de Administración de Empresas, Universidad de Kobe"]
-A1983 --> A1984["1984: Se unió a la Escuela de Gobierno y Economía de Matsushita como estudiante de quinto año"]
-A1984 --> A1992["1992: Primer elegido (independiente)"]
-A1992 --> A1993["1993: Se unió al Partido Liberal Democrático a través del Partido Liberal y el Partido Shinshin"]
-A1993 --> A2002["2002: Nombrado Ministro del Interior y Comunicaciones, impulsa política de radiodifusión y derechos de autor"]
-A2002 --> A2014["2014: Liderando el debate sobre la libertad de expresión y la ética de la radiodifusión"]
-A2014 --> A2021["2021: Las elecciones presidenciales del Partido Liberal Demócrata piden 'defensa de la cultura y apoyo a la creación'"]
-A2021 --> A2025["2025: Considerando políticas para integrar cultura y tecnología"]
+graph TD
+  A1980["1980: Tocando el volumen y Judas Priest"] --> A1983["1983: Graduado del Departamento de Administración de Empresas, Facultad de Administración de Empresas de la Universidad de Kobe"]
+  A1983 --> A1984["1984: Se unió a la Escuela de Gobierno y Gestión de Matsushita como estudiante de quinto año"]
+  A1984 --> A1992["1992: Primer elegido (independiente)"]
+  A1992 --> A1993["1993: Se unió al Partido Liberal Democrático después de unirse al Partido Liberal y al Partido Shinshin"]
+  A1993 --> A2002["2002: Nombrado Ministro del Interior y Comunicaciones, promoviendo la política de radiodifusión y derechos de autor"]
+  A2002 --> A2014["2014: Liderando el debate sobre libertad de expresión y ética de la radiodifusión"]
+  A2014 --> A2021["2021: Las elecciones presidenciales del Partido Liberal Demócrata piden 'defensa de la cultura y apoyo a la creación'"]
+  A2021 --> A2025["2025: Pensando en políticas para integrar cultura y tecnología"]
 
 </div>
 
@@ -149,14 +149,14 @@ A2021 --> A2025["2025: Considerando políticas para integrar cultura y tecnolog�
 
 <div class="mermaid">
     
-diagrama de flujo LR
-A["Estética del metal (duro, construido, rebelde)"]
-B["Construcción de voz (voz metálica)"]
-C["Política cultural (derechos de los creadores y libertad de expresión)"]
-D["Visión de la nación (orden e independencia)"]
-E["Feminidad (elegancia del acero)"]
+flowchart LR
+    A["Estética del metal (duro, construido, rebelde)"]
+    B["Construcción de voz (voz metálica)"]
+    C[“Política Cultural (Derechos de los Creadores y Libertad de Expresión)”]
+    D["Visión de la nación (orden e independencia)"]
+    E["Feminidad (elegancia del acero)"]
 
-A --> B --> C --> D --> E
+    A --> B --> C --> D --> E
 
 </div>
 ---
@@ -169,16 +169,16 @@ A --> B --> C --> D --> E
 
 ### Álbumes recomendados de Black Sabbath, Deep Purple y Judas Priest
 
-| バンド              | アルバム       | 発売年  | 特徴・聴きどころ             | 
+| Banda | Álbum | Año de lanzamiento | Características y aspectos destacados |
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
-| **Black Sabbath** | **Black Sabbath（黒い安息日）** | 1970 | 世界初のヘヴィメタル誕生とされる作品。ブルースの暗黒化、教会の鐘のSEが象徴的。            |
-|                   | **Paranoid（パラノイド）** | 1970 | メタルの原型を確立した名盤。スピード、社会性、重厚さが共存。    |
-|                   | **Master of Reality**  | 1971 | ドロップDチューニングによる重低音の進化。ドゥームメタルの祖。      |
-| **Deep Purple**   | **Deep Purple in Rock**  | 1970 | ハードロックの礎を築いた名作。クラシック的構成美と爆発力の融合。                    |
-|                   | **Fireball**     | 1971 | より攻撃的で実験的。テンポ変化やブルース感が強い。                  |
-|                   | **Machine Head**               | 1972 | ロック史に残る完成度。リフとグルーヴの黄金比。          |
-| **Judas Priest**  | **Sad Wings of Destiny（運命の翼）** | 1976 | 哀愁と叙情のメタル美学が確立。ツインリードの原型。                           |
-|                   | **Sin After Sin** | 1977 | メジャーデビュー作。ロジャー・グローヴァー（Deep Purple）プロデュース。ドラマチックな展開。 |
-|                   | **Stained Class**      | 1978 | スピードメタルの萌芽。精密で冷たい音像。          |
+| **Sábado Negro** | **Sábado Negro** | 1970 | Una obra que se dice que es el nacimiento del primer heavy metal del mundo. El oscurecimiento del azul y la campana de la iglesia SE son simbólicos.            |
+| | **Paranoico** | 1970 | Una obra maestra que estableció el prototipo del metal. Conviven rapidez, sociabilidad y seriedad.    |
+| | **Maestro de la Realidad** | 1971 | Evolución del bajo pesado con afinación drop D. El padre del doom metal.      |
+| **Púrpura oscuro** | **Púrpura profundo en roca** | 1970 | Una obra maestra que sentó las bases del hard rock. Una fusión de belleza compositiva clásica y poder explosivo.                    |
+| | **Bola de fuego** | 1971 | Más agresivo y experimental. Tiene un fuerte cambio de tempo y sensación de blues.                  |
+| | **Cabeza de máquina** | 1972 | Un nivel de perfección que permanece en la historia del rock. La proporción áurea de riff y groove.          |
+| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de cables gemelos.                           |
+| | **Pecado tras pecado** | 1977 | Gran obra debut. Producida por Roger Glover (Deep Purple). Un desarrollo dramático. |
+| | **Clase manchada** | 1978 | Los inicios del speed metal. Imagen sonora precisa y fría.          |
 
 ---

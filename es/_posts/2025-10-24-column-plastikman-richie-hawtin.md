@@ -25,7 +25,7 @@ Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Ecos de Detroit, Soledad de Windsor
@@ -98,7 +98,7 @@ En su escenario, se construyó un entorno en el que la MacBook, el controlador M
 ---
 
 ## Capítulo 5: Jugando a Plastikman con “EX”
-``_EX_'', que se presentó en la Tate Modern de Londres en 2014, fue una obra que transfirió la estética de Plastikman al espacio del museo.
+``_EX_'', que se presentó en la Tate Modern de Londres en 2014, fue una obra que transfirió la estética de Plastikman al espacio de un museo.
 El escenario está envuelto en oscuridad y Houtin está como si estuviera aprisionado en una jaula resplandeciente. El público comparte la experiencia de "observar la estructura del sonido" en lugar de "mirar a un DJ".
 
 > "Plastikman sigue siendo la música de un viaje interior."
@@ -111,7 +111,7 @@ Su minimalismo evolucionó, disolviendo por completo las fronteras entre música
 Los genes de Plastikman impregnan a Villalobos, Donato Dozzy, Cio D'Or y la escena modular moderna.
 "El placer de la estructura", la "introspección del sonido" y la "temporización del espacio": estos elementos forman ahora la base del techno.
 
-En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos como diálogo entre el piano y el minimalismo. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
+En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos en **un diálogo entre piano y minimalismo**. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
 
 ---
 
@@ -127,7 +127,7 @@ La verdadera filosofía de Plastikman es su continua transformación de la músi
 
 ### 1. Presentación de DE9
 En 2001, Plastikman lanzó DE9: Closer to the Edit.
-Las mezclas de DJ tradicionales se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
+Las mezclas tradicionales de DJ se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
 Al dividir cada pista en pequeñas muestras y reorganizar los pulsos mínimos, creamos una línea de tiempo de música dance completamente nueva.
 
 ### 2. Innovación tecnológica
@@ -174,12 +174,12 @@ Minus era más que una simple plataforma de distribución, funcionaba como un lu
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[Serie DE9] -->|Edición en tiempo real| B[La etiqueta menos funciona]
-B --> C [Artista minimalista moderno]
-C --> D [Escena global del club]
-A --> E[Redefiniendo la expresión de DJ]
-mi -> re
+flowchart TD
+    A[Serie DE9] -->|edición en tiempo real| B[La etiqueta menos funciona]
+    B --> C[artista minimalista moderno]
+    C --> D[escena mundial de clubes]
+    A --> E[Redefiniendo la expresión del DJ]
+    E --> D
 
 </div>
 
@@ -197,9 +197,9 @@ mi -> re
 
 <div class="mermaid">
 
-gráfico TD
-A[Spastik] --> B[Cambio de densidad del charles]
-B --> C [Reconstrucción del ritmo]
+graph TD
+    A[Spastik] --> B[Cambio de densidad del charles]
+    B --> C[Reconstruyendo el ritmo]
 
 </div>
 
@@ -215,9 +215,9 @@ B --> C [Reconstrucción del ritmo]
 
 <div class="mermaid">
 
-gráfico TD
-A[Pulso bajo] --> B[Intersecciones de sombrero de copa]
-B --> C[Colocación en blanco]
+graph TD
+    A[Low Pulse] --> B[High Hat Intersections]
+    B --> C[Colocación en blanco]
 
 </div>
 
@@ -233,9 +233,9 @@ B --> C[Colocación en blanco]
 
 <div class="mermaid">
 
-gráfico TD
-A[Fragmento de muestra] --> B[Ritmo en capas]
-B --> C[Edición en tiempo real]
+graph TD
+    A[Sample Fragment] --> B[Layered Rhythm]
+    B --> C[edición en tiempo real]
 
 </div>
 
@@ -246,11 +246,11 @@ B --> C[Edición en tiempo real]
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[Capa de entrada sensorial<br>—Baja frecuencia/reverberación] --> B[Capa de transformación cognitiva<br>—Reconstrucción del ritmo]
-B --> C [Capa espacial interna<br>—Sincronización de pensamientos y cuerpo]
-C --> D [Capa de meditación<br>—Retorno y retorno del silencio y el sonido]
-D --> E[Expansión de la conciencia<br>— Techno = proceso de conciencia]
+flowchart TD
+    A[Capa de entrada sensorial<br>—Baja frecuencia/reverberación] --> B[Capa de transformación cognitiva<br>—Reconstrucción del ritmo]
+    B --> C[Capa espacial interna<br>—Sincronización de pensamientos y cuerpo]
+    C --> D[Capa de meditación<br>—El silencio y el sonido van y vienen]
+    D --> E[Expansión de la conciencia<br>— Techno = proceso de conciencia]
 
 </div>
 
@@ -260,19 +260,19 @@ D --> E[Expansión de la conciencia<br>— Techno = proceso de conciencia]
 
 <div class="mermaid">
 
-línea de tiempo
-título Richie Hawtin / Plastikman Timeline (1970-2025)
-1970: Nace en Banbury, Inglaterra.
-1987: Descubrí el techno de Detroit y comencé a pinchar.
-1990: Se establece el sello Plus 8 (con John Acquaviva)
-1993: Lanzamiento de “Sheet One” bajo el nombre de Plastikman.
-1994: Lanzamiento de “Musik”, la cúspide del Acid Techno
-1998: Lanzamiento de "Consumed" - Dominando la abstracción del techno
-2001: Renovación de la expresión DJ con “DE9: Closer to the Edit”
-2010: Gira Plastikman Live, producción integrada de luz y sonido.
-2014: Actuación “EX” en la Tate Modern
-2022: “Consumed in Key” (coescrito con Chilly Gonzales)
-2025: Proyecto de archivo de fusión de tecno y arte en curso
+timeline
+    title Richie Hawtin / Plastikman 年表（1970–2025）
+    1970 : 英国バンベリーに生まれる
+    1987 : デトロイト・テクノと出会い、DJ活動開始
+    1990 : Plus 8レーベル設立（John Acquavivaと共に）
+    1993 : Plastikman名義『Sheet One』発表
+    1994 : 『Musik』リリース、Acid Technoの頂点に
+    1998 : 『Consumed』発表 ― テクノの抽象化を極める
+    2001 : 「DE9: Closer to the Edit」でDJ表現を刷新
+    2010 : Plastikman Liveツアー、光と音の一体化演出
+    2014 : 『EX』Tate Modern公演
+    2022 : 『Consumed in Key』(Coescrito con Chilly Gonzales)
+    2025 : テクノとアートの融合的アーカイブ・プロジェクト進行中
 
 </div>
 
@@ -291,19 +291,19 @@ Esto se debe a que él sabe mejor que nadie que una sola rotación puede cambiar
 
 ## Discografía completa del sello Minus
 
-| 年    | アーティスト        | リリース名                       | コメント                    |
+| Año | Artista | Nombre de la versión | Comentarios |
 | ---- | ------------- | --------------------------- | ----------------------- |
-| 1994 | Plastikman    | **Musik** EP                | Plastikman名義でAcid Technoの頂点。 |
-| 1998 | Plastikman    | **Minus** EP                | Minus設立第1弾。極限のミニマルサウンド。 |
-| 1999 | Magda         | **Track 1**                 | 暗黒ミニマルの試験作。             |
-| 2000 | Richie Hawtin | **EX/EP**                   | DE9以前のライブリミックス。         |
-| 2001 | Plastikman    | **DE9: Closer to the Edit** | デジタルDJ革命。               |
-| 2003 | Villalobos    | **Allez-Allez**             | Minusからの初期ベルリン影響。       |
-| 2005 | Plastikman    | **DE9: Transitions**        | エフェクト重視の構造化。            |
-| 2006 | Gaiser        | **EP1**                     | ミニマル・テクノの探索。            |
-| 2010 | Plastikman    | **Live Set**                | Minusの思想をライブで体現。        |
-| 2014 | Plastikman    | **EX**                      | Tate Modernでのインスタレーション。 |
-| 2019 | Plastikman    | **DE9: 2.0 / Live**         | モジュラー＋デジタル編集。           |
+| 1994 | Hombre de plástico | **Música** EP | La cima del Acid Techno bajo el nombre de Plastikman. |
+| 1998 | Hombre de plástico | **Menos** EP | La primera entrega de Minus. Sonido mínimo extremo. |
+| 1999 | Magda | **Pista 1** | Pieza de prueba minimalista oscura.             |
+| 2000 | Richie Hawtin | **EX/EP** | Remezcla en vivo antes de DE9.         |
+| 2001 | Hombre de plástico | **DE9: Más cerca de la edición** | Revolución del DJ digital.               |
+| 2003 | Villalobos | **Allez-Allez** | Influencia temprana de Berlín de Minus.       |
+| 2005 | Hombre de plástico | **DE9: Transiciones** | Estructuración con énfasis en efectos.            |
+| 2006 | Gaiser | **EP1** | Exploración del techno minimalista.            |
+| 2010 | Hombre de plástico | **Configuración en vivo** | Lively encarna la filosofía de Minus.        |
+| 2014 | Hombre de plástico | **EX** | Instalación en la Tate Modern. |
+| 2019 | Hombre de plástico | **DE9: 2.0 / En vivo** | Edición modular + digital.           |
 
 
 > El sello Minus es un campo de pruebas para las ideas de Plastikman, una plataforma que permite a los artistas la libertad de explorar la libertad sonora.
@@ -315,12 +315,12 @@ Esto se debe a que él sabe mejor que nadie que una sola rotación puede cambiar
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[Serie DE9] -->|Edición de unidades de forma de onda| B[Menos trabajo de etiqueta]
-B --> C [Innovación de la expresión en vivo]
-C --> D [Escena minimalista moderna]
-B --> E[Influencia en artistas de nueva generación]
-A --> F[Redefiniendo la expresión de DJ]
-F --> D
+flowchart TD
+    A[Serie DE9] -->|Edición de unidades de forma de onda| B[La etiqueta menos funciona]
+    B --> C[Innovación en expresión viva.]
+    C --> D[escena minimalista moderna]
+    B --> E[Influencia en una nueva generación de artistas]
+    A --> F[Redefiniendo la expresión del DJ]
+    F --> D
 
 </div>

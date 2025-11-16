@@ -28,7 +28,7 @@ El Área de la Bahía, centrada alrededor de San Francisco y Oakland, es un camp
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## descripción general
@@ -47,11 +47,11 @@ El Área de la Bahía de San Francisco ha sido un centro importante para la mús
 Rastrearemos la genealogía del ruido/música experimental cultivada localmente y explicaremos las principales personas/grupos, lugares/festivales y álbumes recomendados por año.
 
 <div class="mermaid">
-diagrama de flujo TD
-A["1978: SRL (Mark Pauline)"] --> B["1980s: Negativland — Collage de cintas/experimento de radio"]
-B --> C["Década de 1990: ascenso de Indie/Bandcamp y expansión del ecosistema experimental"]
-C --> D["Década de 2000: Matmos — Evaluación internacional con énfasis en muestras/conceptos"]
-D --> E["Décadas 2010-2020: Maduración de la red regional de compilación/improvisación"]
+flowchart TD
+    A["1978: SRL（Mark Pauline）"] --> B["Década de 1980: Negativland: collage de cintas/experimento de radio"]
+    B --> C["Década de 1990: auge del sistema Indie/Bandcamp y expansión del ecosistema experimental"]
+    C --> D["Década de 2000: Matmos: evaluación internacional con énfasis en muestras/conceptos"]
+    D --> E["Décadas 2010-2020: Maduración de la red regional de compilación/improvisación"]
 </div>
 
 ---
@@ -106,13 +106,13 @@ El Área de la Bahía es sede de festivales independientes como Noise Pop y comu
 
 Las siguientes son las principales obras mencionadas en el texto principal.
 
-| アーティスト / 作品  | 年 | 備考   | リンク |
+| Artista / Obra | Año | Notas | Enlace |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape From Noise*  |  1987 | テープコラージュと短い楽曲の混在、代表作  | [Amazon](https://amzn.to/47akMEX) |
-| Matmos — *A Chance To Cut Is A Chance To Cure* |  2001 | 医療音を素材にしたコンセプト作  |  [Amazon](https://amzn.to/48IJtKN) | 
-| Matmos — *The Civil War*    |  2003 | コンセプトとサンプリング実験の継続    |  [Amazon](https://amzn.to/4gKSuoA) | 
-| Bay Area コンピ（地域編集盤）  | 2010s | ローカル流通が主。Bandcampや地元レーベルで入手推奨 |　[Bay Improviser](https://www.bayimproviser.com/cds.aspx)　|
-| Bill Orcutt — *Jump On It*   |  2023 | 実験的アコースティック。ベイエリア系ギターワークの代表例  |[Amazon](https://amzn.to/4o2jF0Q) |
+| Negativland — *Escape del ruido* | 1987 | Una mezcla de tape collage y canciones cortas, una obra maestra | [Amazon](https://amzn.to/47akMEX) |
+| Matmos — *Una oportunidad de cortar es una oportunidad de curar* | 2001 | Trabajo conceptual utilizando sonidos médicos | [Amazon](https://amzn.to/48IJtKN) |
+| Matmos — *La Guerra Civil* | 2003 | Continuación de los experimentos conceptuales y de muestreo | [Amazon](https://amzn.to/4gKSuoA) |
+| Compilación del Área de la Bahía (edición regional) | Década de 2010 | Distribución principalmente local. Recomendado para obtener de Bandcamp o sellos locales | [Bahía Improvisador](https://www.bayimproviser.com/cds.aspx) |
+| Bill Orcutt - *Salta* | 2023 | Acústica experimental. Ejemplos representativos del trabajo de guitarra del Área de la Bahía |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 

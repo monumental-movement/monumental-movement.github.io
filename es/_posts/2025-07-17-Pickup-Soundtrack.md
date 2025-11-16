@@ -14,7 +14,7 @@ title: Recoger obras de banda sonora
 
 "Una extraordinaria colección de bandas sonoras que entrelazan la emoción de la historia a través del sonido y elevan la experiencia visual a una nueva dimensión".
 
-<hr>
+<hora>
 
 ### Jerry Goldsmith - Una mancha azul
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
@@ -53,7 +53,7 @@ B9. Goodbye Selina
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=ZcAJ1_q_vtblxgJX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 
@@ -86,7 +86,7 @@ Obra: Banda sonora de la película de ciencia ficción ``Tank Girl'' de 1995. Co
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Adam Clayton y Larry Mullen – Tema de Misión: Imposible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
@@ -109,7 +109,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Ennio Morricone – Nuovo Cinema Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
@@ -144,45 +144,45 @@ Obra: Banda sonora de la película clásica de 1989 ``New Cinema Paradise''.
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista/Arreglista</th>
 <th>Título</th>
 <th>Edad/Trabaja</th>
 <th>Formato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Jerry Goldsmith</td>
 <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">Una mancha azul</a></td>
 <td>Música de la película de 1965 (reeditada en 1978)</td>
 <td>Casete</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>VA</td>
 <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Chica tanque</a></td>
 <td>banda sonora de la película de 1995</td>
 <td>CD</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Adam Clayton y Larry Mullen</td>
 <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
 <td>Tema de la película de 1996</td>
 <td>Casete</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ennio Morricone</td>
 <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
 <td>banda sonora de la película de 1989</td>
 <td>CD</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

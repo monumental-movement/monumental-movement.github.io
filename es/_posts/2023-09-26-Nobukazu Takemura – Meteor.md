@@ -9,7 +9,7 @@ permalink: /es/nobukazu-takemura-meteor/
 tags:
 - Techno
 - Minimal
-title: Nobukazu Takemura – Meteoro
+title: Nobukazu Takemura – Meteorito
 ---
 
 

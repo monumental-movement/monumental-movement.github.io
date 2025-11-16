@@ -162,17 +162,17 @@ Es un poema moderno que intenta existir bellamente a pesar del ruido.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1990["1990: Música experimental (Oval) utilizando ruido de CD como material"]
-A1995["1995: Anuncio de "+/-" de Ryoji Ikeda — Establecimiento de la estética acústica digital"]
-A2000["2000: Inicio del movimiento Clicks & Cuts (Mille Plateaux)"]
-A2004["2004: Lanzamiento de "Vrion" de Alva Noto y Ryuichi Sakamoto"]
-A2010["2010: The Glitch Moment(um)" de Rosa Menkman"]
-A2013["2013: Arca's &&&&&' lanzado - fusión de Glitch y fisicalidad"]
-A2020["2020: Ampliando la expresión de "errores simulados" en la era del arte con IA"]
-A2025["2025: Hacia la era post-Glitch—-La filosofía del error se ha convertido en algo común"]
+flowchart TD
+    A1990["1990: Aparece música experimental utilizando ruido de CD como material (Oval)"]
+    A1995["1995: Lanzamiento de "+/-" de Ryoji Ikeda: Establecimiento de la estética acústica digital"]
+    A2000["2000: Inicio del movimiento Clicks & Cuts (Mille Plateaux)"]
+    A2004["2004: Lanzamiento de" Vrion "de Alva Noto y Ryuichi Sakamoto"]
+    A2010["2010: Se publica 'The Glitch Moment(um)' de Rosa Menkman"]
+    A2013["2013: Lanzamiento de Arca's &&&&&': fusión de Glitch y fisicalidad"]
+    A2020["2020: Ampliando la expresión de "errores simulados" en la era del arte con IA"]
+    A2025["2025: Hacia la era post-Glitch: la filosofía del error se vuelve cotidiana"]
 
-A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
+    A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
 
 
 
@@ -181,7 +181,7 @@ A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -192,19 +192,19 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
 #### Discografía de Glitch que debes escuchar
 
-| 年    | アーティスト      | 作品名（Amazonリンク）                 | 備考              |
-| ---- | -------------- | ------------------------------------------------------------- | --------------- |
-| 1995 | Oval       | [94diskont](https://amzn.to/47k6D9b)           | “CD傷音”の金字塔      |
-| 1996 | Ryoji Ikeda                  | [+/-](https://amzn.to/46NnTU7)                 | ミニマル音響の頂点       |
-| 2000 | Various Artists              | [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | Glitchムーブメントの起点 |
-| 2004 | Alva Noto + Ryuichi Sakamoto | [Vrioon](https://amzn.to/4ofoSlO)              | ピアノとデジタルの共鳴     |
-| 2013 | Arca                         | [&&&&&](https://amzn.to/42ACorW)               | バグと肉体の融合        |
-| 2022 | Seiho                        | [CAMP](https://amzn.to/4n5hF74)                | 日本的グリッチ・ポップの進化  |
+| Año | Artista | Título de la obra (enlace de Amazon) | Notas |
+| ---- | -------------- | ---------------------------------------------------------------- | --------------- |
+| 1995 | Óvalo | [94diskont](https://amzn.to/47k6D9b) | Monumento de “CD Kuon” |
+| 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | El pináculo de la acústica minimalista |
+| 2000 | Varios artistas | [Clics y cortes Vol.1](https://amzn.to/4q4epvc) | El origen del movimiento Glitch |
+| 2004 | Alva Noto + Ryuichi Sakamoto | [Vrion](https://amzn.to/4ofoSlO) | Resonancia de piano y digital |
+| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusión de insecto y cuerpo |
+| 2022 | Seiho | [CAMP](https://amzn.to/4n5hF74) | Evolución del glitch pop japonés |
 
 

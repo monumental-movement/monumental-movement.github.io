@@ -22,7 +22,7 @@ En la década de 2020, cuando el consumo de música se volvió completamente dig
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -33,7 +33,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -53,16 +53,16 @@ Se puede observar que mientras los CD están en declive, el vinilo está regresa
 
 
 %% Renacimiento del vinilo: 2000-2025
-línea de tiempo
-título Tendencias de ventas récord mundiales (2000-2025/basado en datos estimados de IFPI)
-2000: Ventas mundiales de aproximadamente 300 millones de dólares (en un rincón del mercado)
-2005: Recesión: el auge de la distribución digital
-2010: Se establece la reevaluación independiente/Record Store Day
-2015: Superó los mil millones de dólares (+30% respecto al año anterior)
-2018: LP anula las ventas de CD (Reino Unido)
-2020: Ventas globales de aproximadamente 1.200 millones de dólares (constantes a pesar de la pandemia de coronavirus)
-2023: récord más alto en EE. UU. desde 1987 (RIAA)
-2025: Mercado mundial de aproximadamente 2.500 millones de dólares: resurgimiento de la música física
+timeline
+  title 世界レコード売上推移（2000–2025／IFPI推定データに基づく）
+  2000 : 全世界売上 約3億ドル（市場の片隅に）
+  2005 : 低迷期 — デジタル配信の隆盛
+  2010 : Indie再評価／Record Store Day定着
+  2015 : 10億ドルを突破（前年比＋30%）
+  2018 : LPがCD売上を逆転（UK）
+  2020 : 世界売上 約12億ドル（コロナ禍でも堅調）
+  2023 : 米国で1987年以来の最高記録（RIAA）
+  2025 : 世界市場 約25億ドル — 物質的音楽の再興
 
 
 </div>
@@ -123,11 +123,11 @@ Registros en la era de la música generada por IA
 
 <div class="mermaid">
 
-título del pastel Cuota de mercado global de vinilo (estimación para 2025)
-"América del Norte": 42
-"Europa": 30
-"Asia Pacífico": 18
-"América del Sur/Otros" : 10
+pie title 世界Vinyl市場シェア（2025推定）
+    "北米" : 42
+    "ヨーロッパ" : 30
+    "アジア太平洋" : 18
+    "南米・その他" : 10
 
 </div>
 

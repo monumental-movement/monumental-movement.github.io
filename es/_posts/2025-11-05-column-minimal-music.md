@@ -31,7 +31,7 @@ Abandonando el dramatismo y la expresión emocional que ha perseguido la música
 Más bien, se ha transformado en un arte que nos permite escuchar el "tiempo y la estructura" mismos.
 "In C" de Terry Riley, "Piano Phase" de Steve Reich,
 Y "Einstein en la playa" de Philip Glass——
-Elevaron la repetición del sonido a una experiencia meditativa en lugar de una experiencia aburrida.
+Elevaron la repetición del sonido a una experiencia meditativa en lugar de aburrida.
 
 Con el tiempo, esta filosofía impregnó el mundo de la música electrónica.
 Al ritmo constante de TR-808 y 909,
@@ -50,7 +50,7 @@ En este entorno, la gente siente la "presencia" a través del oído.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -61,7 +61,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Los orígenes de la música minimalista - Terry Riley y Steve Reich
@@ -73,12 +73,12 @@ Esta "repetición libre" es una idea que luego conduciría a la música electró
 
 **Análisis estructural**
 
-| 要素 | 内容 |
+| Elemento | Contenido |
 |------|------|
-| 基本素材 | 53のフレーズ（1～2小節単位） |
-| テンポ | 任意（一般的には♩=120前後） |
-| 反復方式 | 各奏者が自分のタイミングで次のフレーズに移る |
-| 効果 | 位相のズレによるポリリズム効果 |
+| Materiales básicos | 53 frases (en 1-2 unidades de medida) |
+| Tiempo | Cualquiera (generalmente alrededor de ♩=120) |
+| Método de repetición | Cada jugador pasa a la siguiente frase en su propio ritmo |
+| Efecto | Efecto polirritmico por cambio de fase |
 
 El siguiente trabajo de Steve Reich, Piano Phase (1967), controló estrictamente las "discrepancias" en la repetición.
 Al tener dos pianistas tocando la misma frase y uno acelerando ligeramente el tempo,
@@ -116,12 +116,12 @@ Creando tensión extrema a partir de patrones mínimos.
 
 **Análisis de composición de pistas (Robert Hood - "Rhythm of Vision")**
 
-| 要素 | 内容 |
+| Elemento | Contenido |
 |------|------|
-| 拍子 | 4/4 |
+| Golpear | 4/4 |
 | BPM | 128 |
-| サウンド構成 | Kick, Hi-hat, Snare, Sub bass |
-| 変化 | フィルターの微細変化とリズムの脱落による心理的揺れ |
+| Composición sonora | Bombo, charles, caja, subbajo |
+| Cambios | Fluctuaciones psicológicas por pequeños cambios de filtros y pérdida de ritmo |
 
 ### Reconstrucción de la atmósfera berlinesa y repetición.
 A finales de los años 1990, Basic Channel y Maurizio (Moritz von Oswald, Mark Ernestus)
@@ -141,10 +141,10 @@ Los sintetizadores repetidos y los loops vocales aportan un sentido reichiano de
 
 **Tabla comparativa: Estructura de repetición en Eno y Radiohead**
 
-| 作品 | 技術的特徴 | 効果 |
+| Obras | Características técnicas | Efectos |
 |------|-------------|------|
-| Brian Eno - *Music for Airports* | テープループの非同期再生 | 偶発的倍音の生成 |
-| Radiohead - *Everything in Its Right Place* | デジタルサンプラーの位相ずれ | 感情の分離・夢幻感 |
+| Brian Eno - *Música para aeropuertos* | Reproducción asíncrona de bucles de cinta | Generación de armónicos accidental |
+| Radiohead - *Todo en su lugar* | Cambio de fase del muestreador digital | Separación emocional/sentimiento de sueño |
 
 ---
 
@@ -164,13 +164,13 @@ El espacio acústico se presentó como "minimalismo digital".
 
 ### Lista de artistas minimalistas japoneses.
 
-| アーティスト | 主な作品 | 特徴 |
-|---------------|-----------|------|
-| 冨田勲 | 《月の光》《惑星》 | 電子クラシック／音響の緻密化 |
-| 池田亮司 | 《dataplex》《test pattern》 | 数学的・周波数的ミニマル |
-| Alva Noto + 坂本龍一 | 《Vrioon》《Summvs》 | エレクトロ音響とピアノの融合 |
-| Rei Harakami | 《Red Curb》《lust》 | Lo-fi電子の温かい反復 |
-| Asa-Chang & 巡礼 | 《花》 | ミニマルリズムと人声の交錯 |
+| Artista | Obras principales | Características |
+|------|------------|------|
+| Isao Tomita | 《Luz de luna》《Planeta》 | Música clásica electrónica/refinamiento acústico |
+| Ryoji Ikeda | 《plex de datos》《patrón de prueba》 | Minimalismo matemático/frecuencia |
+| Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusión de electroacústica y piano |
+| Rei Harakami | 《bordillo rojo》《lujuria》 | Cálida repetición de la electrónica Lo-Fi |
+| Asa-Chang y Peregrinación | 《Flores》 | Intersección de minimalismo y voz humana |
 
 ---
 
@@ -178,18 +178,18 @@ El espacio acústico se presentó como "minimalismo digital".
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de la música minimalista
-1964: Terry Riley "En C"
-1967: Steve Reich "Fase de piano"
-1976: Philip Glass "Einstein en la playa"
-1978: Brian Eno "Música para aeropuertos"
-1988: Derrick May "Las cuerdas de la vida"
-1994: Robert Hood "Nación mínima"
-1996: Canal Básico "Phylyps Trak"
-2001: Alva Noto + Ryuichi Sakamoto "Vrioon"
-2005: Ryoji Ikeda "dataplex"
-2020: Max Cooper "Anhelo del infinito"
+timeline
+    title Minimal Music Chronology
+    1964 : Terry Riley "In C"
+    1967 : Steve Reich "Piano Phase"
+    1976 : Philip Glass "Einstein on the Beach"
+    1978 : Brian Eno "Music for Airports"
+    1988 : Derrick May "Strings of Life"
+    1994 : Robert Hood "Minimal Nation"
+    1996 : Basic Channel "Phylyps Trak"
+    2001 : Alva Noto + Ryuichi Sakamoto "Vrioon"
+    2005 : Ryoji Ikeda "dataplex"
+    2020 : Max Cooper "Yearning for the Infinite"
 
 </div>
 

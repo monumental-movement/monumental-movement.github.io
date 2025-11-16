@@ -10,7 +10,7 @@ tags:
 - Trance
 - Anthem
 - 90s
-title: Denzil & Dwayne - La fuerza del hábito
+title: Denzil y Dwayne - La fuerza del hábito
 ---
 
 

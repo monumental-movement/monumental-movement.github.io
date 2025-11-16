@@ -29,7 +29,7 @@ Estas palabras nos dicen todo sobre su visión del DJ. En el siglo XXI, donde la
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: La era en la que los registros están “vivos”
@@ -51,7 +51,7 @@ En aquella época, los discos no eran sólo una fuente sonora, sino una cultura 
 El primer álbum que compró fue ``Pull Up to the Bumper'' de **Grace Jones**.
 En el momento en que su cuerpo se movió hacia esa línea de bajo, Harvey se dio cuenta de su destino como DJ.
 
-> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo".
+> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo."
 
 Esta sensación de "respiración" dio origen más tarde a su filosofía de mezcla: "Conectar a través del aire, no del tempo".
 
@@ -64,7 +64,7 @@ Para él, un registro es "el acto de llevar un registro de la vida de otra perso
 Deambulando por mercados y mercadillos, desenterrando discos polvorientos. No sólo hay sonidos sino también **rastros del tiempo** grabados allí.
 
 Harvey dice: "Cuanto más huellas humanas tiene un disco, más vivo es el sonido".
-Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 y AOR hawaiano.
+Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 e incluso AOR hawaiano.
 La selección de canciones no es aleatoria, sino que se basa en la intuición de leer el "flujo de aire del sonido".
 
 Su bolso de DJ es como un diario de viaje. Cada disco contiene recuerdos de alguna noche.
@@ -136,18 +136,18 @@ En ese momento, las fronteras entre pasado y presente, analógico y digital, cue
 
 <div class="mermaid">
 
-línea de tiempo
-título DJ Harvey Cronología (1980-2025)
-1980: Apasionado por la cultura skate y el punk en Londres
-1985: Forma Tonka Sound System y se une a la cultura rave.
-1990: Se convierte en DJ residente en Ministry of Sound.
-1995: Estableció un estilo único que combina house y rock.
-2000: Balear redefinido en el Hotel Pikes de Ibiza
-2005: Se mudó a Estados Unidos y comenzó sus actividades en Los Ángeles.
-2010: Comienza el Proyecto Locussolus, volviendo a la producción analógica.
-2017: aparición de la sala de calderas, auge de la reevaluación
-2020: Celebración de la exposición “DJ Harvey is the Sound” (Londres)
-2025: Continuar trabajando como embajador de la cultura analógica en todo el mundo.
+timeline
+  title DJ Harvey 年表（1980–2025）
+  1980 : ロンドンでスケートカルチャーとパンクに熱中  
+  1985 : Tonka Sound System 結成、レイブ文化に参加  
+  1990 : Ministry of Sound のレジデントDJに就任  
+  1995 : ハウスとロックを融合した独自スタイルを確立  
+  2000 : イビザのPikes HotelでBalearic再定義  
+  2005 : アメリカ移住、LAを拠点に活動開始  
+  2010 : プロジェクトLocussolus始動、アナログ制作に回帰  
+  2017 : Boiler Room出演、再評価ブーム  
+  2020 : 「DJ Harvey is the Sound」展を開催（ロンドン）  
+  2025 : 世界各地でアナログ文化のアンバサダーとして活動継続
 
 
 </div>
@@ -158,25 +158,25 @@ título DJ Harvey Cronología (1980-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Recopilación de registros"]
-B["Selección"]
-C["Mezcla"]
-D["Atmósfera"]
-mi["Cuerpo"]
-F["Trascendencia"]
+flowchart TD
+    A["Coleccionismo de discos"]
+    B["Selección"]
+    C["Mezclando"]
+    D["Atmósfera"]
+    E["Cuerpo"]
+    F["Trascendencia"]
 
-A --> B --> C --> D --> E --> F
+    A --> B --> C --> D --> E --> F
 
-subgrafo HarveyWorld["Filosofía sónica de DJ Harvey"]
-dirección tuberculosis
-A
-B
-do
-D
-mi
-F
-fin
+    subgraph HarveyWorld["DJ Harvey's Sonic Philosophy"]
+    direction TB
+    A
+    B
+    C
+    D
+    E
+    F
+    end
 
 
 
@@ -198,21 +198,21 @@ Su existencia no es un resurgimiento de lo analógico en la era digital;
 
 <div class="mermaid">
 
-título del pastel Composición de la caja de vinilo de DJ Harvey
-“Disco Balear/Cósmico” : 25
-"Rock y ritmos psicodélicos": 15
-"Ítalo/Euro Disco" : 10
-"Casa / Casa Profunda": 20
-"Funk/Boogie/Soul": 15
-"Ambiente/Downtempo": 10
-"Rarezas / Grabaciones de campo / Palabra hablada": 5
+pie title DJ Harvey's Vinyl Box Composition
+    "Balearic / Cosmic Disco" : 25
+    "Rock & Psychedelic Grooves" : 15
+    "Italo / Euro Disco" : 10
+    "House / Deep House" : 20
+    "Funk / Boogie / Soul" : 15
+    "Ambient / Downtempo" : 10
+    "Oddities / Field Recordings / Spoken Word" : 5
 
 </div>
 
 **Explicación**:
 La caja de discos de Harvey es un archivo orgánico basado en la mezcla de géneros.
 Lo que llama la atención es que "Rock" y "House" están colocados por igual.
-Esto simboliza el hecho de que es un DJ que siempre conecta con vibraciones, no con géneros.
+Esto simboliza el hecho de que es un DJ que siempre conecta por vibra, no por género.
 La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las horas nocturnas y en la configuración del amanecer.
 
 ---
@@ -221,17 +221,17 @@ La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las ho
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Inicio de excavación récord<br>(Destino/Mercado local)"]
-B["Búsqueda usada en tiendas de discos<br>(énfasis en el diálogo con los dueños de las tiendas)"]
-C["Vista previa y juicio de intuición de la chaqueta"]
-D["Seleccionado en función del "aire" del sonido<br>(sentimiento más que género)"]
-E["Comerciar con DJ local<br>(intercambiar los discos de cada uno)"]
-F["Reorganizado después de regresar a Japón<br>(clasificado por clima y zona horaria)"]
-G["Presentación del set de palos en práctica<br>(Verificando la adaptación "de campo" del tablero)"]
-H["Archivar / Regrabar / Editar producción"]
+flowchart TD
+    A["Inicio de excavación récord<br>(destino de viaje/mercado local)"]
+    B["Búsqueda en tiendas de discos usadas<br>(énfasis en el diálogo con los dueños de las tiendas)"]
+    C["Vista previa y juicio intuitivo de Jacket"]
+    D["Seleccionado en función de la 'atmósfera' del sonido (sentimiento más que género)"]
+    E["Comercia con DJ locales<br>(intercambia los discos de cada uno)"]
+    F["Reorganizado después de regresar a Japón (clasificado por clima y zona horaria)"]
+    G["Presentación del palo en práctica<br>(verificando la adaptación de la tabla al campo)"]
+    H["Archivar / Regrabar / Editar producción"]
 
-A --> B --> C --> D --> E --> F --> G --> H
+    A --> B --> C --> D --> E --> F --> G --> H
 
 
 </div>
@@ -249,16 +249,16 @@ El disco que encontré en el desierto de Los Ángeles y el disco que encontré e
 
 <div class="mermaid">
 
-diagrama de flujo LR
-subgrafo Ecosistema de sonido
-A["Registro físico<br>(Vinilo)"]
-B["Tocadiscos y mezclador<br>(Técnicas / Rotatorio)"]
-C["Movimiento corporal<br>(Interacción en la pista de baile)"]
-D["Respuesta atmosférica<br>(Luz, Aire, Emoción)"]
-E["Bucle de retroalimentación<br>(Reciclaje de energía)"]
-fin
+flowchart LR
+    subgraph Sound Ecosystem
+    A["Physical Record<br>(Vinyl)"]
+    B["Turntable & Mixer<br>(Technics / Rotary)"]
+    C["Body Movement<br>(Dancefloor Interaction)"]
+    D["Atmospheric Response<br>(Light, Air, Emotion)"]
+    E["Feedback Loop<br>(Energy Recycle)"]
+    end
 
-A --> B --> C --> D --> E --> A
+    A --> B --> C --> D --> E --> A
 
 </div>
 

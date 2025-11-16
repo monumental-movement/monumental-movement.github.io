@@ -15,7 +15,7 @@ title: Mayo Shono – Estribillo M・A・Y・O – Estribillo
 ---
 
 
-"Reflan" es el cuarto álbum original de Mayo Shono, que incluye su canción característica "Flying to Istanbul" (compuesta por Kyohei Tsutsumi). City Pop fue lanzado en 1978 por el subsello Nippon Columbia de Nippon Columbia.
+"Refran" es el cuarto álbum original de Mayo Shono, que incluye su canción característica "Flying to Istanbul" (compuesta por Kyohei Tsutsumi). City Pop fue lanzado en 1978 por el subsello Nippon Columbia de Nippon Columbia.
 
 #### Lista de canciones
 ```md

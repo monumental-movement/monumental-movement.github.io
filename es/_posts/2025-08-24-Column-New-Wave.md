@@ -17,9 +17,9 @@ title: '[Columna] New Wave: La intersección de la innovación musical post-punk
 ## New Wave no es sólo un género, sino una ``sensibilidad de los tiempos'' que hereda el espíritu experimental de la era post-punk y fusiona diversas músicas y culturas.**
 
 
-Texto: mmr｜Tema: Movimiento artístico de la era post-punk
+Texto: mmr｜Tema: Movimientos artísticos en la era post-punk
 
-<hr>
+<hora>
 
 ### Del post-punk a la nueva ola
 
@@ -27,7 +27,7 @@ El movimiento punk de 1976 sacudió la escena musical con su franqueza de ser "s
 
 El término general que nació de este experimento fue "Nueva Ola". Desde una perspectiva académica, la nueva ola es un concepto que abarca una variedad de desarrollos musicales desde el post-punk, y más que un nombre estricto de género, es una etiqueta cultural que se refiere a la conciencia y sensibilidad de la época.
 
-<hr>
+<hora>
 
 ### Funciones musicales e innovaciones.
 
@@ -65,7 +65,7 @@ Desde una perspectiva musical, la new wave puede verse como un movimiento basado
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Moda y subcultura
 
@@ -93,7 +93,7 @@ Talking Heads de Nueva York se centra en el graduado de la escuela de arte David
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Contexto social y geopolítico
 
@@ -109,7 +109,7 @@ La diversidad de la nueva ola está profundamente ligada al contexto social en e
 
 En este contexto, la new wave no es sólo un género musical, sino un reflejo de la cultura urbana y la conciencia generacional durante la Guerra Fría.
 
-<hr>
+<hora>
 
 ### Decadencia y sucesión
 
@@ -125,7 +125,7 @@ Pero el espíritu pasó a la siguiente generación:
 
 La New Wave fue un importante punto de inflexión en la historia de la música porque "cruzó las fronteras de los géneros y elevó la música a un movimiento cultural".
 
-<hr>
+<hora>
 
 ### Movimiento artístico de la era post-punk, no un género
 

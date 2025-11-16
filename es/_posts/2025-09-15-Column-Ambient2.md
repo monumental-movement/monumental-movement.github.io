@@ -147,7 +147,7 @@ Cultura de “música de fondo de bucle infinito” en YouTube y Twitch. El ambi
 ## Lista de 10 canciones representativas de cada generación
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -158,112 +158,112 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 <br>
 
 ### Década de 1970
 
-| アルバム | アーティスト | 年 |
+| Álbum | Artista | Año |
 |------|--------------|----|
-| [Discreet Music](https://amzn.to/46Ua7Px) | Brian Eno | 1975 |
-| [Ambient 1: Music for Airports](https://amzn.to/4nMtyPM) | Brian Eno | 1978 |
-| [Cluster & Eno](https://amzn.to/42aa6Es) | Cluster & Eno | 1977 |
-| [Mirage](https://amzn.to/3WbTdFO) | Klaus Schulze | 1977 |
-| [Rubycon](https://amzn.to/4mTiXSF) | Tangerine Dream | 1975 |
-| [Another Green World](https://amzn.to/481XdA2) | Brian Eno | 1975 |
-| [Evening Star](https://amzn.to/46EmnCm) | Fripp & Eno | 1975 |
-| [Music for Films](https://amzn.to/46tMKLa) | Brian Eno | 1978 |
-| [Phaedra](https://amzn.to/4niadpT) | Tangerine Dream | 1974 |
-| [Timewind](https://amzn.to/4ntSo7G) | Klaus Schulze | 1975 |
+| [Música discreta](https://amzn.to/46Ua7Px) | Brian Eno | 1975 |
+| [Ambiente 1: Música para Aeropuertos](https://amzn.to/4nMtyPM) | Brian Eno | 1978 |
+| [Clúster y Eno](https://amzn.to/42aa6Es) | Clúster y Eno | 1977 |
+| [Espejismo](https://amzn.to/3WbTdFO) | Klaus Schulze | 1977 |
+| [Rubycon](https://amzn.to/4mTiXSF) | Sueño de mandarina | 1975 |
+| [Otro mundo verde](https://amzn.to/481XdA2) | Brian Eno | 1975 |
+| [Estrella vespertina] (https://amzn.to/46EmnCm) | Fripp y Eno | 1975 |
+| [Música para películas](https://amzn.to/46tMKLa) | Brian Eno | 1978 |
+| [Fedra](https://amzn.to/4niadpT) | Sueño de mandarina | 1974 |
+| [Viento de tiempo] (https://amzn.to/4ntSo7G) | Klaus Schulze | 1975 |
 
 <br>
 
 ### Década de 1980
 
-| アルバム | アーティスト | 年 |
+| Álbum | Artista | Año |
 |------|--------------|----|
-| [The Plateaux of Mirror](https://amzn.to/3IutyFm) | Harold Budd & Brian Eno | 1980 |
-| [Thursday Afternoon](https://amzn.to/3VAghxS) | Brian Eno | 1985 |
-| [Structures from Silence](https://amzn.to/3IFTvSj) | Steve Roach | 1984 |
-| [Apollo: Atmospheres and Soundtracks](https://amzn.to/3W8FGPo) | Brian Eno | 1983 |
-| [Exit](https://amzn.to/4pBSSKp) | Tangerine Dream | 1981 |
-| [Quiet Music](https://amzn.to/4nKaqSx) | Steve Roach | 1986 |
-| [Ambient 4: On Land](https://amzn.to/46o3g0K) | Brian Eno | 1982 |
-| [Dreamtime Return](https://amzn.to/3IFUmT2) | Steve Roach | 1988 |
-| [Soundscape](https://amzn.to/4gCFSQi) | Hiroshi Yoshimura | 1986 |
-| [Music for Nine Post Cards](https://amzn.to/3Izvg8q) | Hiroshi Yoshimura | 1982 |
+| [Las mesetas del espejo](https://amzn.to/3IutyFm) | Harold Budd y Brian Eno | 1980 |
+| [Jueves por la tarde](https://amzn.to/3VAghxS) | Brian Eno | 1985 |
+| [Estructuras desde el silencio](https://amzn.to/3IFTvSj) | Steve Roach | 1984 |
+| [Apolo: atmósferas y bandas sonoras](https://amzn.to/3W8FGPo) | Brian Eno | 1983 |
+| [Salir](https://amzn.to/4pBSSKp) | Sueño de mandarina | 1981 |
+| [Música tranquila](https://amzn.to/4nKaqSx) | Steve Roach | 1986 |
+| [Ambiente 4: En tierra](https://amzn.to/46o3g0K) | Brian Eno | 1982 |
+| [Regreso en tiempo de ensueño](https://amzn.to/3IFUmT2) | Steve Roach | 1988 |
+| [Paisaje sonoro](https://amzn.to/4gCFSQi) | Hiroshi Yoshimura | 1986 |
+| [Música para nueve postales](https://amzn.to/3Izvg8q) | Hiroshi Yoshimura | 1982 |
 
 <br>
 
 ### Década de 1990
 
-| アルバム | アーティスト | 年 |
+| Álbum | Artista | Año |
 |------|--------------|----|
-| [Adventures Beyond the Ultraworld](https://amzn.to/46B8HYT) | The Orb | 1991 |
-| [Selected Ambient Works 85-92](https://amzn.to/4nnUy8J) | Aphex Twin | 1992 |
-| [76:14](https://amzn.to/3Vwx8BN) | Global Communication | 1994 |
-| [Substrata](https://amzn.to/4gE0YOi) | Biosphere | 1997 |
-| [Music Has the Right to Children](https://amzn.to/46pj3w8) | Boards of Canada | 1998 |
-| [Lifeforms](https://amzn.to/3VAgXU4) | The Future Sound of London | 1994 |
-| [Selected Ambient Works Vol. II](https://amzn.to/46l7Yw6) | Aphex Twin | 1994 |
-| [Chill Out](https://amzn.to/3IiP4wN) | The KLF | 1990 |
-| [The Fires of Ork](https://amzn.to/4pDYYcT) | Pete Namlook & Geir Jenssen | 1993 |
-| [Polygon Window](https://amzn.to/4nKGF43) | Aphex Twin | 1993 |
+| [Aventuras más allá del ultramundo](https://amzn.to/46B8HYT) | El orbe | 1991 |
+| [Obras ambientales seleccionadas 85-92](https://amzn.to/4nnUy8J) | Aphex gemelo | 1992 |
+| [76:14](https://amzn.to/3Vwx8BN) | Comunicación Global | 1994 |
+| [Sustratos](https://amzn.to/4gE0YOi) | Biosfera | 1997 |
+| [La música tiene derecho a los niños](https://amzn.to/46pj3w8) | Juntas de Canadá | 1998 |
+| [Formas de vida](https://amzn.to/3VAgXU4) | El sonido del futuro de Londres | 1994 |
+| [Obras ambientales seleccionadas vol. II](https://amzn.to/46l7Yw6) | Aphex gemelo | 1994 |
+| [Relájate](https://amzn.to/3IiP4wN) | El FLK | 1990 |
+| [Los fuegos de Ork](https://amzn.to/4pDYYcT) | Pete Namlook y Geir Jenssen | 1993 |
+| [Ventana poligonal](https://amzn.to/4nKGF43) | Aphex gemelo | 1993 |
 
 <br>
 
 ### 2000
 
-| アルバム | アーティスト | 年 |
+| Álbum | Artista | Año |
 |------|--------------|----|
-| [Endless Summer](https://amzn.to/428hBMi) | Fennesz | 2001 |
-| [The Disintegration Loops](https://amzn.to/3KjewCV) | William Basinski | 2002 |
-| [And Their Refinement of the Decline](https://amzn.to/46DA0Se) | Stars of the Lid | 2007 |
-| Pop | Gas | 2000 |
-| [Harmony in Ultraviolet](https://amzn.to/42a7TJ8) | Tim Hecker | 2006 |
-| [The Tired Sounds of Stars of the Lid](https://amzn.to/4pXRu51) | Stars of the Lid | 2001 |
-| [Venegance](https://amzn.to/4gFcSaJ) | Eluvium | 2003 |
-| [Far Away Trains Passing By](https://amzn.to/3KhOaRP) | Ulrich Schnauss | 2001 |
-| [Eno Box I/II (Reissues)](https://amzn.to/4nl37Rw) | Brian Eno | 2000s |
+| [Verano sin fin](https://amzn.to/428hBMi) | Fennesz | 2001 |
+| [Los bucles de desintegración](https://amzn.to/3KjewCV) | William Basinski | 2002 |
+| [Y su refinamiento del declive](https://amzn.to/46DA0Se) | Estrellas de la Tapa | 2007 |
+| pop | Gas | 2000 |
+| [Armonía en Ultravioleta](https://amzn.to/42a7TJ8) | Tim Hecker | 2006 |
+| [Los sonidos cansados ​​de las estrellas de la tapa](https://amzn.to/4pXRu51) | Estrellas de la Tapa | 2001 |
+| [Venegancia](https://amzn.to/4gFcSaJ) | Eluvio | 2003 |
+| [Pasando trenes lejanos](https://amzn.to/3KhOaRP) | Ulrich Schnauss | 2001 |
+| [Eno Box I/II (Reediciones)](https://amzn.to/4nl37Rw) | Brian Eno | Años 2000 |
 | [Spellewauerynsherde](https://amzn.to/3Vxga6n) | Akira Rabelais | 2004 |
 
 <br>
 
 ### Década de 2010 ~
 
-| アルバム | アーティスト | 年 |
+| Álbum | Artista | Año |
 |------|--------------|----|
-| [Replica](https://amzn.to/4nnCpI8) | Oneohtrix Point Never | 2011 |
-| [Virgins](https://amzn.to/482fkpG) | Tim Hecker | 2013 |
-| [Green (Reissue)](https://amzn.to/42J5iWN) | Hiroshi Yoshimura | 2017 |
-| [Atomos](https://amzn.to/4nQ1ewe) | A Winged Victory for the Sullen | 2014 |
-| Ruins | Grouper | 2014 |
-| [Reflection](https://amzn.to/3ICuCXB) | Brian Eno | 2017 |
-| [A I A: Alien Observer](https://amzn.to/4mCvN7z) | Grouper | 2011 |
-| Birth of a New Day | 2814 | 2015 |
-| [Epoch](https://amzn.to/3Kl1ogD) | Tycho | 2016 |
-| [For Those of You Who Have Never (And Also Those Who Have)](https://amzn.to/3Kjef2R) | Huerco S. | 2016 |
+| [Réplica](https://amzn.to/4nnCpI8) | Punto Oneohtrix Nunca | 2011 |
+| [Vírgenes](https://amzn.to/482fkpG) | Tim Hecker | 2013 |
+| [Verde (Reedición)](https://amzn.to/42J5iWN) | Hiroshi Yoshimura | 2017 |
+| [Átomos](https://amzn.to/4nQ1ewe) | Una victoria alada para los hoscos | 2014 |
+| Ruinas | Mero | 2014 |
+| [Reflexión](https://amzn.to/3ICuCXB) | Brian Eno | 2017 |
+| [A I ​​A: Observador alienígena](https://amzn.to/4mCvN7z) | Mero | 2011 |
+| Nacimiento de un nuevo día | 2814 | 2015 |
+| [Epoca](https://amzn.to/3Kl1ogD) | Tycho | 2016 |
+| [Para aquellos de ustedes que nunca lo han hecho (y también para aquellos que sí lo han hecho)](https://amzn.to/3Kjef2R) | Huerco S. | 2016 |
 
 ---
 
 ## ■ Cronología del equipo: tecnología que admitía música ambiental
 
-| 年代 | 機材 | 特徴・アンビエントへの影響 |
-|------|------|----------------------------|
-| 1960s | Moog Modular Synthesizer | 世界初の商用モジュラーシンセ。持続音・ドローン生成に利用。 |
-| 1970s | EMS VCS3 / Synthi A | Brian Enoらが愛用。小型ながら多彩な音響処理。 |
-| 1970s | Revox テープレコーダー | テープループ、フリップバック・システムで環境音処理。 |
-| 1980s | Yamaha DX7 | FM音源による透明なサウンド。80年代アンビエントの象徴。 |
-| 1980s | Roland Juno-60 | ウォームなパッド・ストリング音色が瞑想的空間に適合。 |
-| 1980s | Fairlight CMI | 高価なサンプラー。自然音や効果音を環境音楽に導入。 |
-| 1990s | Akai S1000/S3000 | クラブ系アンビエントを支えた定番サンプラー。 |
-| 1990s | DATレコーダー | 長時間セッション・環境音記録に不可欠。 |
-| 2000s | Ableton Live | ループベースの編集に特化。即興的アンビエント制作を可能に。 |
-| 2000s | Max/MSP | サウンドアートとの融合、リアルタイム音響処理。 |
-| 2010s | Omnisphere, Kontakt | 高精細なソフト音源が空間的質感を再現。 |
-| 2010s〜 | Zoom/Tascam フィールドレコーダー | 高音質な自然音録音により、アンビエントの生態音響的広がりを促進。 |
+| Época | Equipos | Características/Influencia en el Ambiente |
+|------|------|-----------------------|
+| Década de 1960 | Sintetizador modular Moog | El primer sintetizador modular disponible comercialmente en el mundo. Se utiliza para generar sonidos sostenidos y drones. |
+| Década de 1970 | EMS VCS3 / Synthi A | Utilizado por Brian Eno y otros. Procesamiento de sonido compacto pero versátil. |
+| Década de 1970 | Grabadora Revox | Procesamiento de sonido ambiental con tape loop y sistema flipback. |
+| Década de 1980 | Yamaha DX7 | Sonido transparente de una fuente de sonido FM. Un símbolo del ambiente de los 80. |
+| Década de 1980 | Roland Juno-60 | Tono de cuerda de pad cálido adecuado para espacios meditativos. |
+| Década de 1980 | Fairlight CMI | Muestra cara. Introducir sonidos naturales y efectos de sonido en la música ambiental. |
+| Década de 1990 | Akai S1000/S3000 | Un sampler clásico que apoyaba la música ambiental de club. |
+| Década de 1990 | Grabador DAT | Imprescindible para sesiones largas y grabación de sonidos ambientales. |
+| Años 2000 | Ableton en vivo | Especializado en edición basada en loops. Permite la producción ambiental improvisada. |
+| Años 2000 | Máx./MSP | Fusión con el arte sonoro, procesamiento de sonido en tiempo real. |
+| Década de 2010 | Omnisfera, Contacto | La fuente de sonido suave de alta definición reproduce la textura espacial. |
+| Década de 2010 ~ | Grabador de campo Zoom/Tascam | Las grabaciones de sonidos naturales de alta calidad promueven la difusión de la ecoacústica ambiental. |
 
 ---
 
@@ -296,7 +296,7 @@ color: #fff;
 ## Ambiente y arquitectura/urbanismo
 
 El ambiente tiene el aspecto de "arquitectura acústica".
-- **Aeropuertos (Música de Eno para Aeropuertos)**: Resonancia del espacio arquitectónico y del sonido.
+- **Aeropuertos (Música para Aeropuertos de Eno)**: Resonancia del espacio arquitectónico y del sonido.
 - **Urban Soundscape Studies (R. Murray Schafer)**: Los sonidos ambientales definen la experiencia urbana.
 - En la **arquitectura moderna**, se ha introducido como un "diseño acústico" que va más allá de la música de fondo, contribuyendo al confort psicológico de las ciudades.
 
@@ -334,7 +334,7 @@ El ambiente tiene el aspecto de "arquitectura acústica".
 **otros**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Los "ma" y "wabi-sabi" únicos de Japón crean una textura diferente a la de la música ambiental extranjera.
+- Los "ma" y "wabi-sabi" únicos de Japón forman una textura diferente a la de la música ambiental extranjera.
 
 ---
 
@@ -350,4 +350,4 @@ En el futuro, el ambiente será aún más esencial como "infraestructura ambient
 
 ### Columnas relacionadas
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)

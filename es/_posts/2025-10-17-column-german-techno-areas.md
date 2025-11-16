@@ -19,13 +19,13 @@ title: '[Columna] Cuatro Alemanias, cuatro technos: reverberaciones de pared y f
 
 
 Texto: mmr | Tema: Si miras a Alemania dividiéndola en cuatro áreas metropolitanas, verás que el techno no es sólo música, sino un "mapa cultural" que hace eco de recuerdos de geografía e historia.
-  
+
 Noviembre de 1989. Al otro lado del cemento desmoronado, alguien sacó un altavoz y puso un ritmo. En ese momento, el país de Alemania comenzó una **reconstrucción rítmica** antes de la "reunificación".
 Fábricas abandonadas, almacenes vacíos, túneles subterráneos: los sonidos que fluyen por allí no son copias de los sonidos británicos y estadounidenses. **“Hecho después del Muro”**. No era música para cruzar fronteras, sino música que nacía en el lugar de la frontera.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 Berlín: de las ruinas a los clubes: la capital del "post-Detroit"
@@ -199,32 +199,32 @@ Y su corazón sigue latiendo a 4/4.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-classDef año de relleno:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
+flowchart TD
+  classDef year fill:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
 
-título["Cronología clave del techno alemán (1970-2020)"]:::año
+  title["Cronología principal del techno alemán (1970-2020)"]:::year
 
-n1970["1970<br/>Se funda Kraftwerk (Düsseldorf)"]:::año
-n1974["1974<br/> Lanzamiento de 'Autobahn' - revolución del pop electrónico"]:::año
-n1981["1981<br/>D.A.F. "Alles ist gut" — fusión de new wave y electro"]:::año
-n1989["1989<br/>Cae el Muro de Berlín, se abre Tresor"]:::año
-n1993["1993<br/>Estreno de "Accidente en el paraíso" de Sven Väth (Frankfurt)"]:::año
-n1996["1996<br/>Basic Channel/Chain Reaction establece una estética minimalista alemana"]:::año
-n2000["2000<br/>Kompakt abre la era del minimalismo de Colonia"]:::año
-n2004["2004<br/>"Berlinette" de Ellen Allien: símbolo de la nueva generación berlinesa"]:::año
-n2010["2010<br/>"Ruido negro" de Pantha du Prince—La maduración de la escuela de la Melancolía del Norte"]:::año
-n2020["2020<br/>Reevaluación modular y expansión de la cultura de codificación en vivo"]:::año
+  n1970["1970<br/>Se funda Kraftwerk (Düsseldorf)"]:::year
+  n1974["1974<br/> Lanzamiento de 'Autobahn': revolución del pop electrónico"]:::year
+  n1981["1981<br/>D.A.F. "Alles ist gut" — fusión de new wave y electro"]:::year
+  n1989["1989<br/>Cae el Muro de Berlín, se abre Tresor"]:::year
+  n1993["1993<br/>Estreno de "Accidente en el paraíso" de Sven Väth (Frankfurt)"]:::year
+  n1996["1996<br/>Basic Channel/Chain Reaction establece una estética minimalista alemana"]:::year
+  n2000["2000<br/>Kompakt abre la era del minimalismo de Colonia"]:::year
+  n2004["2004<br/>"Berlinette" de Ellen Allien: símbolo de la nueva generación berlinesa"]:::year
+  n2010["2010<br/>"Black Noise" de Pantha du Prince: la maduración de la escuela de la Melancolía del Norte"]:::year
+  n2020["2020<br/>Reevaluación modular y expansión de la cultura de Live Coding"]:::year
 
-título --> n1970
-n1970 --> n1974
-n1974 --> n1981
-n1981 --> n1989
-n1989 --> n1993
-n1993 --> n1996
-n1996 --> n2000
-n2000 --> n2004
-n2004 --> n2010
-n2010 --> n2020
+  title --> n1970
+  n1970 --> n1974
+  n1974 --> n1981
+  n1981 --> n1989
+  n1989 --> n1993
+  n1993 --> n1996
+  n1996 --> n2000
+  n2000 --> n2004
+  n2004 --> n2010
+  n2010 --> n2020
 
  </div>
 
@@ -233,12 +233,12 @@ n2010 --> n2020
 ### Discografía por ciudad
 
 
-| 地域           | アーティスト         | 名盤                     | 年    | リンク                                              |
+| Región | Artista | Obra maestra | Año | Enlace |
 | ------------ | ---------------- | ---------------------- | ---- | ------------------------------------------------ |
-| ベルリン         | Basic Channel    | *Quadrant Dub*         | 1994 | [Amazon](https://amzn.to/42HRXhy) |
-| デュッセルドルフ〜ケルン | Kraftwerk        | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
-| フランクフルト      | Sven Väth        | *Accident in Paradise* | 1993 | [Amazon](https://amzn.to/3J2ouby) |
-| ハンブルク〜ライプツィヒ | Pantha du Prince | *Black Noise*          | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
+| Berlín | Canal Básico | *Doblaje de cuadrante* | 1994 | [Amazon](https://amzn.to/42HRXhy) |
+| Düsseldorf-Colonia | Kraftwerk | *Trans-Europe Express* | 1977 | [Amazon](https://amzn.to/46VatWj) |
+| Fráncfort | Sven Vath | *Accidente en el Paraíso* | 1993 | [Amazon](https://amzn.to/3J2ouby) |
+| Hamburgo-Leipzig | Pantha del Príncipe | *Ruido negro* | 2010 | [Amazon](https://amzn.to/4nSXkmu) |
 
 
 ---
@@ -247,87 +247,87 @@ n2010 --> n2020
 
 <div class="mermaid">
 
-diagrama de flujo TD
-%% --- Subgrafo: Berlín ---
-subgrafo BERLÍN["BERLÍN"]
-dirección tuberculosis
-B1["Tresor<br/>(Dimitri Hegemann)"]
-B2["Canal básico<br/>(Markus / Moritz)"]
-B3["Raster-Noton<br/>(Alva Noto)"]
-B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
-B5["Ellen Allien"]
-B6["Richie Hawtin<br/>(Inmigración/Relación)"]
-fin
+flowchart TD
+  %% --- Subgrafo: Berlín ---
+  subgraph BERLIN["BERLIN"]
+    direction TB
+    B1["Tresor<br/>(Dimitri Hegemann)"]
+    B2["Basic Channel<br/>(Markus / Moritz)"]
+    B3["Raster-Noton<br/>(Alva Noto)"]
+    B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
+    B5["Ellen Allien"]
+    B6["Richie Hawtin<br/>(Inmigración/Relaciones)"]
+  end
 
-%% --- Subgrafo: Düsseldorf a Colonia ---
-subgrafo RIN["DUSSELDORF — KÖLN"]
-dirección tuberculosis
-C1["Kraftwerk"]
-C2["¡NEU! / La Düsseldorf"]
-C3["Clúster"]
-C4["Compacto<br/>(Wolfgang Voigt)"]
-C5["Gas<br/>(Wolfgang Voigt)"]
-fin
+  %% --- Subgrafo: Düsseldorf-Colonia ---
+  subgraph RHINE["DUSSELDORF — KÖLN"]
+    direction TB
+    C1["Kraftwerk"]
+    C2["NEU! / La Düsseldorf"]
+    C3["Cluster"]
+    C4["Kompakt<br/>(Wolfgang Voigt)"]
+    C5["Gas<br/>(Wolfgang Voigt)"]
+  end
 
-%% --- Subgrafo: Frankfurt ---
-subgrafo FRANCFORT["FRANCFORT"]
-dirección tuberculosis
-F1["Sven Väth"]
-F2["Ojo Q/Harthouse"]
-F3["Capullo<br/>(Sven Väth)"]
-F4["Linaje Trance / Rave"]
-fin
+  %% --- Subgrafo: Frankfurt ---
+  subgraph FRANKFURT["FRANKFURT"]
+    direction TB
+    F1["Sven Väth"]
+    F2["Eye Q / Harthouse"]
+    F3["Cocoon<br/>(Sven Väth)"]
+    F4["Trance / Rave lineage"]
+  end
 
-%% --- Subgrafo: Hamburgo-Leipzig ---
-subgrafo NORTE["HAMBURGO — LEIPZIG"]
-dirección tuberculosis
-H1["Marcar registros<br/>(Claudio PRC etc.)"]
-H2["Pantha del Príncipe"]
-H3["Escenas locales de bricolaje<br/>(metro de Leipzig)"]
-H4["Lawrence"]
-fin
+  %% --- Subgrafo: Hamburgo-Leipzig ---
+  subgraph NORTH["HAMBURG — LEIPZIG"]
+    direction TB
+    H1["Marcar Registros<br/>(Claudio PRC etc.)"]
+    H2["Pantha du Prince"]
+    H3["Local DIY Scenes<br/>(Leipzig underground)"]
+    H4["Lawrence"]
+  end
 
-%% --- Influencias externas (Detroit) ---
-subgrafo DETROIT["DETROIT (influencia)"]
-dirección tuberculosis
-D1["Juan Atkins"]
-D2["Kevin Saunderson"]
-D3["Jeff Mills<br/>(Resistencia clandestina)"]
-fin
+  %% --- Influencias externas (Detroit) ---
+  subgraph DETROIT["DETROIT (influence)"]
+    direction TB
+    D1["Juan Atkins"]
+    D2["Kevin Saunderson"]
+    D3["Jeff Mills<br/>(Underground Resistance)"]
+  end
 
-%% --- Flecha (Influencia/Genealogía) ---
-%% Berlín interno
-B1 --> B4
-B2 --> B3
-B2 --> B4
-B5 --> B4
-B6 --> B4
+  %% --- Flecha (Influencia/Genealogía) ---
+  %% Berlín interno
+  B1 --> B4
+  B2 --> B3
+  B2 --> B4
+  B5 --> B4
+  B6 --> B4
 
-%% Rin interno
-C1 --> C2
-C1 --> C3
-C3 --> C4
-C4 --> C5
-C2 --> C4
+  %% Rin interno
+  C1 --> C2
+  C1 --> C3
+  C3 --> C4
+  C4 --> C5
+  C2 --> C4
 
-%% Frankfurt interno
-F1 --> F2
-F2 --> F3
-F3 --> F4
+  %% interior de frankfurt
+  F1 --> F2
+  F2 --> F3
+  F3 --> F4
 
-%% Norte interno
-H1 --> H2
-H2 --> H4
-H3 --> H2
+  %% Norte interno
+  H1 --> H2
+  H2 --> H4
+  H3 --> H2
 
-%% Influencias entre ciudades
-C1 --> B2
-D3 --> B1
-D1 --> C1
-F1 --> B4
-C4 --> B3
-H1 --> B3
-H3 --> B1
+  %% Influencias entre ciudades
+  C1 --> B2
+  D3 --> B1
+  D1 --> C1
+  F1 --> B4
+  C4 --> B3
+  H1 --> B3
+  H3 --> B1
 
 </div>
 
@@ -344,7 +344,7 @@ Es por eso que este país sigue siendo "honesto en sonido" más que cualquier ot
 
 ### Columnas relacionadas
 
-🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Columna] Genealogía y actualidad del Techno alemán - Estética del sonido difundiéndose desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 

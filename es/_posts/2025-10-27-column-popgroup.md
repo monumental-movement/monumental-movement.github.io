@@ -35,7 +35,7 @@ El Grupo Pop fue el origen y primera "voz de rebelión".
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El nacimiento de la ciudad de Bristol (1970-1977)
@@ -56,7 +56,7 @@ Sin embargo, entre bastidores, avanzaban las divisiones sociales, el estancamien
 Al igual que en los disturbios de Brixton (Londres) de 1976, los conflictos entre la policía y los jóvenes se intensificaron en Bristol.
 Una "desconexión entre el Estado y las calles" se convirtió en la norma.
 
-Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada debido a los inmigrantes de Jamaica.
+Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada gracias a los inmigrantes de Jamaica.
 El ritmo, el bajo centro de gravedad del bajo y el espíritu de rebelión,
 También impregnó a la juventud de la roca blanca.
 
@@ -75,7 +75,7 @@ Los miembros tienen entre 10 y 20 años.
 **Dan Catsis (bajo)**, **John Waddington (guitarra)** fueron los jugadores principales.
 
 A diferencia de los punks londinenses, eran conscientes de ser **políticos y artísticos**.
-Su álbum debut, ``**Y**'' (1979), era una herejía de herejía incluso en ese momento.
+Su álbum debut ``**Y**'' (1979) fue una herejía entre los herejes incluso en ese momento.
 El desorden del free jazz, el deep space del dub, el impulso destructivo del punk...
 Estos se cruzan como **poemas socialmente críticos y gritos poéticos**.
 
@@ -123,11 +123,11 @@ La influencia de The Pop Group está grabada en todos ellos.
 ## Capítulo 5: Reevaluación y resurgimiento en el siglo XXI
 
 El grupo pop ha sido durante mucho tiempo una figura de culto.
-Desde la década de 2000, ha sido reevaluado en medio del resurgimiento del post-punk.
+Desde la década de 2000, ha sido reevaluado en medio de la tendencia de resurgimiento post-punk.
 Especialmente desde 2005, después de las **reuniones de Gang of Four y Wire**,
 También reanudaron sus actividades en 2010. En 2015, lanzó su nuevo trabajo "Citizen Zombie".
 
-Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más agudo que antes.
+Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más claro que antes.
 Para ellos, la "reunión" no era una cuestión de nostalgia, sino de "continuación de la resistencia".
 
 > “No dejas de estar enojado porque pasa el tiempo”.
@@ -168,20 +168,20 @@ Lo que dejaron atrás no fue una respuesta sino la pregunta misma.
 
 <div class="mermaid">
 
-línea de tiempo
-título El flujo de la cultura musical de Bristol y la trayectoria de The Pop Group (1970-2025)
-1970: La cultura inmigrante echa raíces en Bristol y la cultura del sound system se extiende
-1977: La sensación del punk Mark Stewart y otros se preparan para formar una banda.
-1978: Formación del grupo pop.
-1979: Lanzamiento de “Y”, provocando conmoción social
-1980: Lanzamiento del sencillo "We Are All Prostitutes", que se disuelve.
-1981: Se forma Rip Rig + Panic, expandiendo la música experimental diversa en Bristol.
-1988: Lanzamiento de Wild Bunch, el predecesor de Massive Attack.
-1994: Portishead logra el éxito mundial del trip-hop con “Dummy”
-2010: El Grupo Pop reunido
-2015: lanzamiento de “Ciudadano Zombi”
-2023: Fallece Mark Stewart
-2025: Continúa la reevaluación del patrimonio musical de Bristol
+timeline
+    title ブリストル音楽文化の流れとThe Pop Groupの軌跡（1970–2025）
+    1970 : ブリストルに移民文化が定着、サウンドシステム文化が浸透
+    1977 : パンク旋風、Mark Stewartらがバンド結成準備
+    1978 : The Pop Group結成
+    1979 : 『Y』リリース、社会的衝撃を与える
+    1980 : シングル「We Are All Prostitutes」発表、解散
+    1981 : Rip Rig + Panic結成、ブリストルで多様な実験音楽が拡大
+    1988 : Massive Attack前身のWild Bunch始動
+    1994 : Portishead『Dummy』でトリップホップ世界的成功
+    2010 : The Pop Group再結成
+    2015 : 『Citizen Zombie』リリース
+    2023 : Mark Stewart死去
+    2025 : ブリストルの音楽遺産として再評価が進行
 
 </div>
 
@@ -190,13 +190,13 @@ título El flujo de la cultura musical de Bristol y la trayectoria de The Pop Gr
 
 ## Discografía de referencia
 
-| 年    | タイトル                                                | 備考                     | リンク |
-| ---- | --------------------------------------------------- | ---------------------- |
-| 1979 | **Y**                                               | デビュー作。実験的サウンドと社会批判の融合。 | [Amazon](https://amzn.to/4nmSqgA)] |
-| 1980 | **For How Much Longer Do We Tolerate Mass Murder?** | 政治色を強めたセカンド。           | [Amazon](https://amzn.to/3LttGWA)] |
-| 1980 | **We Are All Prostitutes**                 | 社会的アジテーションの象徴曲。        | [Amazon](https://amzn.to/4oC0FX5)] |
-| 2015 | **Citizen Zombie**                                  | 再結成後のアルバム。怒りは健在。       | [Amazon](https://amzn.to/43BBko0)] |
-| 2016 | **Honeymoon on Mars**                               | ダブとノイズが再び結合。           | [Amazon](https://amzn.to/3LgVdul)] |
+| Año | Título | Notas | Enlace |
+| ---- | ------------------------------- | ------------------------------- |
+| 1979 | **Y** | Trabajo debut. Una fusión de sonido experimental y crítica social. | [Amazon](https://amzn.to/4nmSqgA)] |
+| 1980 | **¿Durante cuánto tiempo más toleraremos el asesinato en masa?** | En segundo lugar, más cargado políticamente.           | [Amazon](https://amzn.to/3LttGWA)] |
+| 1980 | **Todas somos prostitutas** | Un símbolo de agitación social.        | [Amazon](https://amzn.to/4oC0FX5)] |
+| 2015 | **Ciudadano Zombi** | Álbum después del reencuentro. La ira está viva y coleando.       | [Amazon](https://amzn.to/43BBko0)] |
+| 2016 | **Luna de miel en Marte** | El dub y el ruido se vuelven a unir.           | [Amazon](https://amzn.to/3LgVdul)] |
 
 ---
 
@@ -204,15 +204,15 @@ título El flujo de la cultura musical de Bristol y la trayectoria de The Pop Gr
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["El grupo pop (1978)"] --> B["Rip Rig + Panic (1981)"]
-A --> C["Mark Stewart y la mafia (1982)"]
-B --> D["Ataque masivo (1988)"]
-D --> E["Portishead (1994)"]
-D --> F["Difícil (1995)"]
-C --> G["Sonido On-U / Adrian Sherwood"]
-E --> H["Movimiento Trip Hop (década de 1990–)"]
-A -.-> I["Renacimiento post-punk (década de 2000–)"]
+flowchart TD
+    A["The Pop Group (1978)"] --> B["Rip Rig + Panic (1981)"]
+    A --> C["Mark Stewart & The Maffia (1982)"]
+    B --> D["Massive Attack (1988)"]
+    D --> E["Portishead (1994)"]
+    D --> F["Tricky (1995)"]
+    C --> G["On-U Sound / Adrian Sherwood"]
+    E --> H["Trip Hop Movement (1990s–)"]
+    A -.-> I["Post-Punk Revival (2000s–)"]
 
 
 </div>
@@ -226,6 +226,6 @@ Esa actitud sigue influyendo en la cultura underground no sólo en Bristol sino 
 
 > “Esto no es entretenimiento, esto es resistencia”.
 
-Sus gritos aún resuenan en el silencio.
+Sus gritos todavía resuenan en el silencio.
 
 ---

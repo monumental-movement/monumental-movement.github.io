@@ -25,7 +25,7 @@ El trip hop (hip hop abstracto) es un género que combina la cultura del sampleo
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Historia y actualidad del trip hop (hip hop abstracto)
@@ -53,11 +53,11 @@ El trip hop es más que un simple género musical, se ha extendido al mundo de l
 ### Genealogía del trip hop
 
 <div class="mermaid">
-diagrama de flujo TD
-A["Década de 1990: nacimiento de Bristol Massive Attack"] --> B["Portishead: sonido negro"]
-B --> C["Difícil: Fusión con hip hop"]
-C --> D["Década de 2000: ampliado a la producción de bandas sonoras de DJ Shadow y UNKLE"]
-D --> E["Década de 2020: Conexión con la generación musical de IA"]
+flowchart TD
+    A["Década de 1990: nacimiento del ataque masivo de Bristol"] --> B["Portishead: sonido negro"]
+    B --> C["Tricky: Fusión con hip hop"]
+    C --> D["Década de 2000: ampliado a la producción de bandas sonoras de DJ Shadow y UNKLE"]
+    D --> E["Década de 2020: Conexión con la generación musical de IA"]
 </div>
 
 ---
@@ -65,25 +65,25 @@ D --> E["Década de 2020: Conexión con la generación musical de IA"]
 ### Recomendado por grupo de edad
 
 <div class="mermaid">
-diagrama de flujo LR
-MA90["Ataque masivo: Líneas azules de los años 90/Protección/Mezzanine"]
-MA00["Ventana número 100 de los años 2000 / Obras en vivo"]
-MA10["Heligoland de la década de 2010 / Actividades de la banda sonora"]
+flowchart LR
+    MA90["Massive Attack: 1990s Blue Lines / Protection / Mezzanine"]
+    MA00["2000s 100th Window / Live works"]
+    MA10["Heligoland de la década de 2010 / Actividades de la banda sonora"]
 
-SH90["DJ Shadow: Final de los 90 presentando..."]
-SH00["La prensa privada de los años 2000"]
-SH10["Décadas de 2010 a 2020 Cuanto menos sabes... / Nuestra patética época"]
+    SH90["DJ Shadow: 1990s Endtroducing....."]
+    SH00["2000s The Private Press"]
+    SH10["2010s〜2020s The Less You Know... / Our Pathetic Age"]
 
-PK90["Portishead: Maniquí de los años 90 / Portishead"]
-PK10["2008 Tercera Profundización de la Experimentalidad"]
+    PK90["Portishead: 1990s Dummy / Portishead"]
+    PK10[“2008 Tercera Profundización de la Experimentalidad”]
 
-KR90["DJ Krush: Década de 1990 estrictamente giradiscos / Meiso"]
-KR00["Década de 2000~Presente Jaku/Saisei - Integración de elementos japoneses"]
+    KR90["DJ Krush: 1990s Strictly Turntablized / Meiso"]
+    KR00["Década de 2000 ~ Presente Jaku/Saisei - Integración de elementos japoneses"]
 
-MA90 --> MA00 --> MA10
-SH90 --> SH00 --> SH10
-Paquete 90 --> Paquete 10
-90 coronas --> 00 coronas
+    MA90 --> MA00 --> MA10
+    SH90 --> SH00 --> SH10
+    PK90 --> PK10
+    KR90 --> KR00
 </div>
 
 ---
@@ -109,7 +109,7 @@ Derivado del sistema de sonido de Bristol "Wild Bunch". 3D (Robert Del Naja) tam
 
 #### Tecnología de producción
 
-En lugar de utilizar un tocadiscos, "convierte el estudio en un instrumento" y combina samples y música en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
+En lugar de un tocadiscos, "convierte el estudio en un instrumento" y combina muestras y presentaciones en vivo. Caracterizado por graves profundos y procesamiento espacial tipo dub.
 
 #### El vídeo funciona
 
@@ -154,7 +154,7 @@ Hay documentales sobre giras de los 90 como "Welcome to Portishead".
 Endtrousing.... está incluido en el Libro Guinness de los Récords Mundiales como el "primer álbum construido enteramente a partir de samples". Completado con MPC y tocadiscos.
 
 #### Tecnología de producción
-Hace pleno uso de la reconstrucción de ritmos, el malabarismo de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
+Aprovechar al máximo la reconstrucción de ritmos, los malabarismos de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
 
 #### El vídeo funciona
 Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).

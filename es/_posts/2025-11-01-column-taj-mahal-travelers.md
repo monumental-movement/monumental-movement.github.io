@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Una peregrinación sonora donde la improvisación y los sonid
 A principios de la década de 1960, la escena musical de vanguardia japonesa florecía silenciosamente.
 Centrado en el Taller Experimental y el Centro de Arte Sogetsu dirigido por Toru Takemitsu, Kei Ichiyanagi y Joji Yuasa, se estaban derribando las fronteras entre géneros como la música, la danza, el vídeo y la iluminación.
 
-Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de las Artes de Tokio, pero comenzaba a sentir los límites de las formas musicales tradicionales. Comenzó a ver el sonido como un "acontecimiento" más que como una "estructura", y eventualmente comenzó a explorar la improvisación y el azar.
+Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de las Artes de Tokio, pero comenzaba a sentir los límites de las formas musicales tradicionales. Comenzó a ver el sonido como un "acontecimiento" más que como una "estructura", y finalmente comenzó a explorar la improvisación y el azar.
 
 
 > “El sonido comienza a vivir cuando se separa de la voluntad del intérprete”.
@@ -35,7 +35,7 @@ Durante este período, Takehisa Kosugi estudiaba violín en la Universidad de la
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ##II. “Música Colectiva” y el encuentro con John Cage (1964)
@@ -92,23 +92,23 @@ Al aire libre, sin fuente de energía ni escenario, la actuación se improvisó 
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Tokio, Japón"] --> B["Delhi, India"]
-B --> C["Taj Mahal, Agra"]
-C --> D["Teherán, Irán"]
-D --> E["Ankara, Turquía"]
-E --> F["Estambul, Turquía"]
-F --> G["Viena, Austria"]
-G --> H["Berlín, Alemania"]
-H --> I["Ámsterdam, Países Bajos"]
-I --> J["Copenhague, Dinamarca"]
-J --> K["Estocolmo, Suecia"]
-K --> L["Londres, Reino Unido"]
+flowchart TD
+    A["Tokyo, Japan"] --> B["Delhi, India"]
+    B --> C["Taj Mahal, Agra"]
+    C --> D["Tehran, Iran"]
+    D --> E["Ankara, Turkey"]
+    E --> F["Istanbul, Turkey"]
+    F --> G["Vienna, Austria"]
+    G --> H["Berlin, Germany"]
+    H --> I["Amsterdam, Netherlands"]
+    I --> J["Copenhagen, Denmark"]
+    J --> K["Stockholm, Sweden"]
+    K --> L["London, UK"]
 
 </div>
 
 **Nota**: Este itinerario es una ruta aproximada basada en registros y testimonios reales.
-Las actuaciones de improvisación en diversos lugares abarcaron desde instalaciones culturales locales, al aire libre hasta bases para movimientos estudiantiles.
+Las actuaciones de improvisación en varios lugares abarcaron desde instalaciones culturales locales, al aire libre, hasta bases para movimientos estudiantiles.
 
 ---
 
@@ -147,7 +147,7 @@ También influyó en Brian Eno y Robert Ashley.
 
 ---
 
-##IX. Actividades y evaluación en años posteriores.
+##IX. Actividades posteriores y evaluación.
 
 Desde la década de 1980, Kosugi se ha desempeñado como director musical de la Merce Cunningham Dance Company.
 Si bien heredó la filosofía de John Cage, profundizó en la integración de la danza y el sonido.
@@ -166,29 +166,29 @@ Este es el mensaje más importante que nos dejó Kosugi.
 
 ## Cronología
 
-| 年        | 出来事                                     |
+| Año | Eventos |
 | -------- | --------------------------------------- |
-| 1938     | 神奈川県横浜市に生まれる                            |
-| 1960     | 東京藝術大学音楽学部卒業                            |
-| 1961–63  | 一柳慧、武満徹らと前衛的実験音楽活動に参加                   |
-| 1964     | 《Collective Music》結成、ケージ＆チューダーと共演       |
-| 1965–68  | Fluxus的パフォーマンスを展開（草月アートセンター等）           |
-| 1969     | 《タージ・マハル旅行団》結成                          |
-| 1971–72  | インド～欧州を巡る音楽巡礼                           |
-| 1972     | 《Taj Mahal Travelers – July 15, 1972》発表 |
-| 1975     | ソロ作《Catch-Wave》発表                       |
-| 1977–90s | マース・カニングハム舞踏団音楽監督                       |
-| 2018     | 逝去。享年80。                                |
+| 1938 | Nacido en la ciudad de Yokohama, prefectura de Kanagawa |
+| 1960 | Graduado de la Facultad de Música de la Universidad de las Artes de Tokio |
+| 1961–63 | Participó en actividades de música experimental de vanguardia con Kei Ichiyanagi, Toru Takemitsu y otros |
+| 1964 | Se forma ``Collective Music'', interpretada con Cage & Tudor |
+| 1965–68 | Actuaciones tipo Fluxus (Centro de Arte Sogetsu, etc.) |
+| 1969 | Se forma el “Taj Mahal Travel Group” |
+| 1971–72 | Peregrinación musical de la India a Europa |
+| 1972 | 《Viajeros del Taj Mahal - 15 de julio de 1972》 Anuncio |
+| 1975 | Lanzamiento del trabajo en solitario “Catch-Wave” |
+| 1977–90 | Merce Cunningham Dance Company Director musical |
+| 2018 | Falleció. Falleció a la edad de 80 años. |
 
 ---
 
 ## Discografía (obras principales)
 
-| タイトル        | 年     | リンク                  |
+| Título | Año | Enlace |
 | ------------- | ----- | ----- | -------------------------- |
-| *Taj Mahal Travelers – July 15, 1972*  | 1972  | [Amazon](https://amzn.to/4oHy02U) |
-| *Taj Mahal Travelers – August, 1974*   | 1974  | [Amazon](https://amzn.to/4oukW0Y) |
-| *Catch-Wave*                           | 1975  | [Amazon](https://amzn.to/3Js1bYY) |
+| *Viajeros del Taj Mahal – 15 de julio de 1972* | 1972 | [Amazon](https://amzn.to/4oHy02U) |
+| *Viajeros del Taj Mahal – Agosto de 1974* | 1974 | [Amazon](https://amzn.to/4oukW0Y) |
+| *Catch-Ola* | 1975 | [Amazon](https://amzn.to/3Js1bYY) |
 
 ---
 
@@ -196,7 +196,7 @@ Este es el mensaje más importante que nos dejó Kosugi.
 
 ---
 
-## Conclusión: libertad de sonido y oración.
+## Conclusión - Libertad de sonido y oración.
 
 El viaje del grupo de gira del Taj Mahal no fue sólo una "actuación de la banda en el extranjero".
 Fue un viaje espiritual que trascendió la institución de la música y resonó en el mundo.
@@ -205,6 +205,6 @@ Fue un viaje espiritual que trascendió la institución de la música y resonó 
 >—Takehisa Kosugi
 
 Incluso ahora, medio siglo después, los sonidos que emitieron todavía resuenan.
-Continúa vibrando silenciosamente en el aire, en los recuerdos y en lo profundo de los corazones de quienes lo escuchan.
+Continúa vibrando silenciosamente en el aire, en la memoria y en lo profundo del corazón de quienes lo escuchan.
 
 ---

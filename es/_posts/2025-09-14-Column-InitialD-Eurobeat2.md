@@ -21,7 +21,7 @@ title: '[Columna] Recuerdos de velocidad donde la D inicial y la música se cruz
 
 Texto: mmr｜Tema: “Después” del Eurobeat desde la D inicial
 
-<hr>
+<hora>
 
 
 ### La "salida" y el "regreso" del Eurobeat
@@ -49,7 +49,7 @@ Eurobeat se ha convertido en un medio que trasciende la velocidad física y actu
 ### Lista de canciones representativas de Eurobeat (relacionadas con la D inicial)
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -60,21 +60,21 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
-| 曲名 | アーティスト | 特徴・備考 |
+| Título de la canción | Artista | Características/Notas |
 |------|--------------|-------------| 
-| Deja Vu | Dave Rodgers | 頭文字Dとミーム文化を象徴する代表曲 | 
-| Running in the 90s | Max Coveri | ネットミームで再爆発した90年代感 | 
-| Night of Fire | Niko | パラパラ世代とアニメ世代をつなぐ定番 | 
-| Space Boy | Dave Rodgers | 疾走感とメロディの強さで人気 | 
-| Dancing | Vicky Vale | 序盤のレースシーンで印象的に使用 | 
-| Beat of the Rising Sun | Dave Rodgers | 高揚感とドラマチックな展開 | 
-| No One Sleep in Tokyo | Edo Boys | 東京的なサウンドイメージと疾走感 | 
-| Speedy Speed Boy | Marko Polo | スピード感を体現するタイトルとリズム | 
-| Remember Me | Leslie Parrish | メロディックで情緒的、人気の高い1曲 | 
-| Back on the Rocks | Mega NRG Man | レースシーンを盛り上げる定番アンセム |
+| Déjà Vu | Dave Rodgers | Canciones representativas que simbolizan la D inicial y la cultura de los memes |
+| Corriendo en los años 90 | Max Coveri | El sentimiento de los 90 volvió a explotar con memes de Internet |
+| Noche de Fuego | Nico | Un clásico que conecta la generación flip-flop y la generación anime |
+| Chico espacial | Dave Rodgers | Popular por su ritmo rápido y melodía fuerte |
+| Bailando | Vicky Vale | Utilizado de manera impresionante en la escena inicial de las carreras |
+| Ritmo del Sol Naciente | Dave Rodgers | Emoción y desarrollo dramático |
+| Nadie duerme en Tokio | Chicos Edo | Imagen sonora de Tokio y sensación de velocidad |
+| Speedy Speed ​​​​Boy | Marco Polo | Título y ritmo que encarnan la sensación de velocidad |
+| Recuérdame | Leslie Parrish | Una canción melódica, emotiva y popular |
+| De vuelta en las rocas | Hombre Mega NRG | Un himno clásico que emociona la escena de las carreras |
 
 ---
 
@@ -82,31 +82,31 @@ color: #fff;
 
 <div class="mermaid">
 
-gráfico TD
-A["Disco de los años 70\nGiorgio Moroder"] --> B["Disco Italo de los años 80\nDen Harrow / Fancy"]
-B --> C["Nacimiento del Eurobeat a finales de los 80\nHi-NRG + Italo"]
-C --> D["Avex Eurobeat de los años 90\nSerie Super Eurobeat"]
-D --> E["Banda sonora D inicial de 1998\nDave Rodgers, Marko Polo, Max Coveri"]
-E --> F["Cultura de Internet posterior a la década de 2000\n"Deja Vu" y memes "Corriendo en los 90""]
-F --> G["EDM/Synthwave contemporáneo"]
+graph TD
+    A["1970s Disco\nGiorgio Moroder"] --> B["1980s Italo Disco\nDen Harrow / Fancy"]
+    B --> C["El nacimiento del Eurobeat a finales de los 80\nHi-NRG + Italo"]
+    C --> D["Serie Avex Eurobeat\nSuper Eurobeat de los años 90"]
+    D --> E["Banda sonora inicial D de 1998\nDave Rodgers, Marko Polo, Max Coveri"]
+    E --> F["Cultura de Internet posterior a la década de 2000\n"Deja Vu" y memes de "Correr en los 90""]
+    F --> G["EDM moderno/Synthwave"]
 
-%% Nodo de cultura del corredor
-cultura del automóvil subgrafo
-X["Cultura Toge Runner\nAE86, RX-7, GT-R"]
-Y["ParaPara Club Cultura\nVelfarre, Roppongi"]
-Z["Escena de deriva moderna\nGran Premio D1, cultura del juego"]
-fin
+    %% Nodo de cultura corredor
+    subgraph 車文化
+        X["Cultura del corredor juntos\nAE86, RX-7, GT-R"] 
+        Y["Cultura del Club ParaPara\nVelfarre, Roppongi"]
+        Z["Escena de deriva moderna\nGran Premio D1, cultura del juego"]
+    end
 
-C-.->X
-D --> Y
-E --> X
-mi --> Z
-F -->Z
+    C -.-> X
+    D --> Y
+    E --> X
+    E --> Z
+    F --> Z
 
-%% Nodo de canción principal
-X --> H["Deja Vu\nDave Rodgers"]
-X --> I["Corriendo en los 90\nMax Coveri"]
-Z --> J["Noche de Fuego\nNiko"]
+    %% Nodo de canción principal
+    X --> H["Deja Vu\nDave Rodgers"]
+    X --> I["Running in the 90s\nMax Coveri"]
+    Z --> J["Night of Fire\nNiko"]
 
 </div>
 
@@ -115,7 +115,7 @@ Z --> J["Noche de Fuego\nNiko"]
 
 ### Patrón básico Eurobeat (alrededor de 150 BPM)
 
-<div class="oscilloscope"> 
+<div class="osciloscopio">
 Patada: █▄█▄█▄█▄█▄█▄
 Trampa: ▄▄▄▄██▄▄▄▄
 HiHat: -x-x-x-x-x-
@@ -125,7 +125,7 @@ Sintetizador: ░░██░░██░░██░░ </div>
 
 ### Tema icónico de Initial D al estilo "Deja Vu"
 
-<div class="oscilloscope"> 
+<div class="osciloscopio">
 Patada: █▄█▄█▄█▄█▄█▄█▄█
 Trampa : ▄▄▄▄██▄▄▄▄██▄▄
 HiHat: -x-xx-x-xx-x-xx-
@@ -135,7 +135,7 @@ Voz: ♪～～～ "Deja Vu" ♪～～～ </div>
 
 ### Deja Vu (Dave Rodgers)
 
-<div class="oscilloscope"> 
+<div class="osciloscopio">
 Patada: ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
@@ -145,7 +145,7 @@ Sonido del coche: ▒▒▒▒▒▒→ cambio de marcha AE86 </div>
 
 ### Corriendo en los 90 (Max Coveri)
 
-<div class="oscilloscope"> 
+<div class="osciloscopio">
 Patada: ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
@@ -155,7 +155,7 @@ Sonido del coche: ▒▒▒▒▒▒→ Sonido de deriva RX-7 </div>
 
 ### Noche de Fuego (Niko)
 
-<div class="oscilloscope"> 
+<div class="osciloscopio">
 Patada: ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
@@ -168,29 +168,29 @@ Sonido del coche: ▒▒▒▒▒▒→ sonido de aceleración GT-R </div>
 
 ### Cronología del equipo (producción Eurobeat)
 
-| 年代    | 機材                          | 役割                 |
+| Edad | Equipos | Rol |
 | ----- | --------------------------- | ------------------ |
-| 1980s | Roland TR-808 / TR-909      | Kick, Snare, HiHat |
-| 1980s | Yamaha DX7, Roland JX-3P    | シンセリフ・メロディ         |
-| 1980s | E-mu SP-12 / SP-1200        | サンプリング、リズムパターン     |
-| 1990s | Akai MPC60/3000             | ドラムプログラミング         |
-| 1990s | Roland TR-909               | 打ち込み補助             |
-| 2000s | DAW (Cubase, Pro Tools)     | デジタル編集・ミックス        |
-| 2010s | FL Studio, Ableton Live     | Trap/EDMアプローチ      |
-| 2020s | Soft-synth (Serum, Massive) | 現代リード・ベース          |
+| Década de 1980 | Roland TR-808 / TR-909 | Patada, caja, charles |
+| Década de 1980 | Yamaha DX7, Roland JX-3P | Melodía sintetizadora serif |
+| Década de 1980 | Emu SP-12 / SP-1200 | Muestreo, patrón rítmico |
+| Década de 1990 | Akai MPC60/3000 | Programación de batería |
+| Década de 1990 | Roland TR-909 | Ayuda a la conducción |
+| Años 2000 | DAW (Cubase, Pro Tools) | Edición/mezcla digital |
+| Década de 2010 | Estudio FL, Ableton Live | Enfoque de trampa/EDM |
+| Años 2020 | Sintetizador suave (Suero, Masivo) | Bajo principal moderno |
 
 ---
 
 ### Tabla de resumen de antecedentes de la era
 
-| 年代    | 音楽的特徴               | 関連アーティスト                 | 頭文字Dとの関係     |
-| ----- | ------------------- | ------------------------ | ------------ |
-| 1970s | Disco, シンセベース黎明期    | Giorgio Moroder          | 高速ビートの原型     |
-| 1980s | Italo Disco, Hi-NRG | Den Harrow, Fancy        | ユーロビートの源流    |
-| 1990s | Avex Eurobeat黄金期    | Dave Rodgers, Max Coveri | 頭文字Dサントラ直結   |
-| 2000s | ネット拡散、パラパラ文化        | Niko, Domino             | ゲーム・アニメ文化と結合 |
-| 2010s | ミーム化、リバイバル          | Internet memes (Deja Vu) | 世界的再注目       |
-| 2020s | EDM / Synthwave融合   | 現行DJ, Producers          | 新しい走りのサウンドへ  |
+| Época | Características musicales | Artistas relacionados | Relación con la D Inicial |
+| ----- | ------------------- | ------------------------ | ----------- |
+| Década de 1970 | Disco, los inicios del bajo sintetizado | Giorgio Moroder | El prototipo de ritmos de alta velocidad |
+| Década de 1980 | Italo Disco, Hola-NRG | Den Harrow, elegante | Origen de Eurobeat |
+| Década de 1990 | Edad de oro del Eurobeat de Avex | Dave Rodgers, Max Coveri | Banda sonora inicial D |
+| Años 2000 | Difusión de Internet, cultura parapara | Niko, Dominó | Combinando con la cultura del juego y el anime |
+| Década de 2010 | Meme, renacimiento | Memes de Internet (Deja Vu) | Reenfoque mundial |
+| Años 2020 | Fusión EDM / Synthwave | DJs y productores actuales | Hacia un nuevo sonido |
 
 ---
 
@@ -198,7 +198,7 @@ Sonido del coche: ▒▒▒▒▒▒→ sonido de aceleración GT-R </div>
 
 **AE86 Deriva × Eurobeat**
 
-<div class="oscilloscope"> 
+<div class="osciloscopio">
 Motor: ▂▄▆█▇▆▄▂▄▆█▇▆▄▂
 Patada: █▄█▄█▄█▄█▄█▄█▄█
 Trampa : ▄▄▄▄██▄▄▄▄██▄▄
@@ -210,13 +210,13 @@ Deriva: ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (sonido de deslizam
 
 ### Cuadro resumen de puntos de contacto culturales
 
-| 領域      | 代表要素                                 | ユーロビートとの接点           |
+| Área | Elementos representativos | Conexión con Eurobeat |
 | ------- | ------------------------------------ | -------------------- |
-| 峠走り屋文化  | AE86, RX-7, GT-R                     | 「頭文字D」劇中走行シーンとシンクロ   |
-| クラブ文化   | パラパラ, Velfarre                       | Avex Eurobeatと直結     |
-| ネット文化   | Deja Vu ミーム                          | YouTube / TikTokで再爆発 |
-| ゲーム文化   | Initial D Arcade Stage, Gran Turismo | ユーロビートが標準BGM化        |
-| Drift競技 | D1グランプリ, Formula Drift               | 走り屋文化が国際化、BGMにEDMと共存 |
+| Cultura Toge Runner | AE86, RX-7, GT-R | Sincronizado con la escena de conducción en "Initial D" |
+| Cultura de club | Parapara, Velfarre | Conectado directamente a Avex Eurobeat |
+| Cultura de Internet | Memes Deja Vu | Reexplosión en YouTube/TikTok |
+| Cultura del juego | Etapa inicial D Arcade, Gran Turismo | Eurobeat se convierte en música de fondo estándar |
+| Competición de deriva | Gran Premio D1, Fórmula Drift | La cultura del rider se internacionaliza, conviviendo con el EDM en BGM |
 
 ---
 

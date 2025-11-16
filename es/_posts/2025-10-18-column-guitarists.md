@@ -27,7 +27,7 @@ La imagen de un guitarrista es diferente entre Japón y el mundo. En los Estados
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 #II. Edición Mundial: El momento en que la guitarra inició una revolución
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-#III. Japón: silencio y rugiente historia de los guitarristas
+#III. Japón: una historia de guitarristas silenciosos y rugientes
 
 ## 1. Después de la guerra y los albores de la energía eléctrica (décadas de 1950 a 1970)
 
@@ -177,7 +177,7 @@ color: #fff;
 
 ## 4. La nueva generación de solitarios (2010-2020)
 
-**Ichika Nito** es una hábil artista de la generación SNS, que hace pleno uso de la polirritmia, el tapping y la construcción de armonía. Difundido al mundo a través de YouTube.
+**Ichika Nito** es una hábil artista de la generación SNS, que hace pleno uso de la polirritmia, el tapping y la construcción de armonía. Difusión al mundo a través de YouTube.
 
 **Ichiko Aoba** usa una guitarra acústica para expresar cuentos populares de ensueño.
 
@@ -193,7 +193,7 @@ La guitarra no es sólo un instrumento musical, sino un dispositivo de autoexpre
 
 - **Filosofía de la pedalera**: Creación de sonido = diseño del ego. Cada pedal se convierte en una extensión de la personalidad del intérprete.
 - **Loop/Glitch/DAW**: “memoria digital” extendida. Un solo intérprete puede realizar una expresión orquestal.
-- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo subterráneo de Kioto al mundo. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
+- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo desde el subsuelo de Kioto. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
 
 Keiji Haino trata la guitarra como una extensión de su cuerpo y mente, y es una presencia que sacude los sentidos del oyente con los extremos del sonido. La trinidad de improvisación, destrucción y expresión se convierte en una coordenada importante en la historia de la guitarra underground japonesa.
 
@@ -214,25 +214,25 @@ La guitarra siempre ha sido un símbolo de libre expresión, desde el undergroun
 
 <div class="mermaid">
 
-diagrama de flujo TD
-mundo subgrafo
-A1950["Chuck Berry, década de 1950"]
-A1960["Jimi Hendrix década de 1960"]
-A1970["Sonic Youth años 1970-80"]
-A1980["Kevin Shields década de 1990"]
-A1990["Ichika Nito década de 2010"]
-fin
+flowchart TD
+    subgraph 世界
+    A1950["Chuck Berry 1950s"]
+    A1960["Jimi Hendrix 1960s"]
+    A1970["Sonic Youth 1970s-80s"]
+    A1980["Kevin Shields 1990s"]
+    A1990["Ichika Nito 2010s"]
+    end
 
-subgrafo japon
-J1950["Takeshi Terauchi años 50"]
-J1960["Carbón 1970"]
-J1970["Seiichi Yamamoto / Keiji Haino 1980-90"]
-J1980["MONO/dedo del pie años 2000"]
-J1990["Ichika Nito / Aoba Ichiko 2010"]
-fin
+    subgraph 日本
+    J1950["Takeshi Terauchi años 50"]
+    J1960["Char 1970s"]
+    J1970["Seiichi Yamamoto/Keiji Haino, años 80 y 90"]
+    J1980["MONO / toe 2000s"]
+    J1990["Ichika Nito / Aoba Ichiko 2010"]
+    end
 
-A1950 --> A1960 --> A1970 --> A1980 --> A1990
-J1950 --> J1960 --> J1970 --> J1980 --> J1990
+    A1950 --> A1960 --> A1970 --> A1980 --> A1990
+    J1950 --> J1960 --> J1970 --> J1980 --> J1990
 
 </div>
 
@@ -241,19 +241,19 @@ J1950 --> J1960 --> J1970 --> J1980 --> J1990
 ### Discografía
 
 
-| アーティスト | 代表作 | リンク |
-|---------------|---------|---------------|
-| 山本精一（Seiichi Yamamoto） | 『カフェ・ブレイン』 | [ Amazon ](https://amzn.to/46ZnvSH) |
-| 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
-| BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |
-| MONO | 『Hymn to the Immortal Wind』 | [ Amazon ](https://amzn.to/47gIxv1) |
-| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://amzn.to/4n8w2HD) |
-| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://amzn.to/4hhJV4Z) |
-| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://amzn.to/3Wdxmhy) |
-| Char（竹中尚人） | 『Smoke』 | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
-| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://amzn.to/499jFro) |
-| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://amzn.to/4os2Yfk) |
-| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://amzn.to/4nVdaNt) |
-| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://amzn.to/3L2AbPX) |
-| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://amzn.to/3Jc5o2K) |
+| Artista | Obras representativas | Enlaces |
+|--------------|---------|---------------|
+| Seiichi Yamamoto | “Café Cerebro” | [Amazon](https://amzn.to/46ZnvSH) |
+| Keiji Haino | “¿Watashi Dake?” | [Amazon](https://amzn.to/4heT6mI) |
+| BORIS | “Gensho (con Merzbow)” | [Amazon](https://amzn.to/47gIqzB) |
+| MONO | “Himno al Viento Inmortal” | [Amazon](https://amzn.to/47gIxv1) |
+| Kevin Shields / Mi San Valentín Sangriento | “Sin amor” | [Amazon](https://amzn.to/4n8w2HD) |
+| Juventud sónica | “Nación de ensueño” | [Amazon](https://amzn.to/4hhJV4Z) |
+| Chuck Berry | “Los grandes veintiocho” | [Amazon](https://amzn.to/3Wdxmhy) |
+| Char (Naoto Takenaka) | “Humo” | [Amazon](https://www.amazon.co.jp/s?k=Char+Smoke) |
+| Takeshi Terauchi | “Todo sobre la guitarra eléctrica” | [Amazon](https://amzn.to/499jFro) |
+| Ichiko Aoba | “0 (Cero)” | [Amazon](https://amzn.to/4os2Yfk) |
+| dedo del pie | 『el libro sobre mi trama ociosa sobre una vaga ansiedad』 | [Amazon](https://amzn.to/4nVdaNt) |
+| Yvette Young / Covet | “tecnicolor” | [Amazon](https://amzn.to/3L2AbPX) |
+| Fred Frith | “Solos de guitarra” | [Amazon](https://amzn.to/3Jc5o2K) |
 

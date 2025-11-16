@@ -20,11 +20,11 @@ title: '[Columna] Nyege Nyege: Un grupo musical de Uganda que lidera la revoluci
 Texto: mmr｜Tema: Sobre un importante grupo musical que difunde al mundo “música outsider” que fusiona la música tradicional africana y la música electrónica moderna.
 
 
-"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "una necesidad irresistible de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
+"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "la irresistible necesidad de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## Tabla de contenido
 
@@ -63,13 +63,13 @@ Nyege Nyege fue fundada en Kampala en 2013 por el estadounidense Arlen Dirsigian
 A continuación, presentaremos álbumes y proyectos representativos lanzados por Nyege Nyege Tapes por año.
 
 
-| 年代 | アーティスト/アルバム | 特徴 | リンク |
-|------|------------|------|--------|
-| 2016 | Disco Vumbi - Boutiq Electroniq | チャカチャとベンガを融合したエレクトロニック・ダンスミュージック | [Amazon](https://amzn.to/479Dnlq) |
-| 2017 | Otim Alpha - Gulu City Anthems | 北ウガンダの伝統的なララカラカ結婚式の歌を電子音楽で再構築 | [Amazon](https://amzn.to/48el27Z) |
-| 2018 | Bamba Pana - Poaa | タンザニアのシンゲリ音楽を200BPM以上の高速ビートで表現 | [Amazon](https://amzn.to/3VOVlDC) |
-| 2019 | Jay Mitta - Tatizo Pesa | シンゲリの進化系で、180-190BPMのテンポと豊かなパーカッション | [Amazon](https://amzn.to/489pDrX) |
-| 2023 | Rian Treanor & Ocen James - Saccades | アコリ民族の伝統的なリギリギリ・フィドルと電子音楽の融合 | [Amazon](https://amzn.to/4pUf2HD) |
+| Año | Artista/Álbum | Características | Enlaces |
+|------|------------|------|---------|
+| 2016 | Disco Vumbi - Boutiq Electroniq | Música electrónica de baile que combina Chakacha y Benga | [Amazon](https://amzn.to/479Dnlq) |
+| 2017 | Otim Alpha - Himnos de la ciudad de Gulu | Reconstruyendo la canción nupcial tradicional Rarakaraka del norte de Uganda con música electrónica | [Amazon](https://amzn.to/48el27Z) |
+| 2018 | Bamba Pana - Poaa | Expresando la música Singeli de Tanzania con un ritmo de alta velocidad de más de 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
+| 2019 | Jay Mitta - Tatizo Pesa | Una evolución de Singeli, con un tempo de 180-190 BPM y rica percusión | [Amazon](https://amzn.to/489pDrX) |
+| 2023 | Rian Treanor y Ocen James - Sacadas | Una fusión del tradicional violín rigiri del pueblo Akori y música electrónica | [Amazon](https://amzn.to/4pUf2HD) |
 
 ---
 
@@ -87,13 +87,13 @@ Shingeli es una música de baile de ritmo rápido que se originó en Dar es Sala
 
 #### Funciones musicales
 
-| 特徴 | 詳細 |
+| Características | Detalles |
 |------|------|
-| BPM | 180〜220以上、クラブ向け超高速 |
-| リズム | 4/4拍子の連続的ドラムビート、ベースはシンプル |
-| メロディ | ミニマル・ループ中心、時折シンセやサンプル |
-| ボーカル | 女性MC主体の高速ラップやチャント |
-| 曲構造 | 即興性重視、DJ/MC裁量で変化 |
+| BPM | Más de 180-220, súper rápido para clubes |
+| Ritmo | Ritmo continuo de batería en compás de 4/4, bajo simple |
+| melodía | Principalmente loops mínimos, sintetizadores y samples ocasionales |
+| Voces | Rap de alta velocidad y cánticos dirigidos por MC femeninas |
+| Estructura de la canción | Énfasis en la improvisación, cambios a discreción del DJ/MC |
 
 ---
 
@@ -101,12 +101,12 @@ Shingeli es una música de baile de ritmo rápido que se originó en Dar es Sala
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Principios de la década de 2000: barrios marginales de Dar es Salaam"] --> B["Actuación de improvisación centrada en MCs femeninas"]
-B --> C["Difundido por fiesta callejera"]
-C --> D["Simbolización de la cultura urbana/expresión de igualdad de género"]
-D --> E["Las cintas de Nyege Nyege atraen la atención internacional"]
-E --> F["Actuado en clubes y festivales de todo el mundo"]
+flowchart TD
+    A["Principios de la década de 2000: los barrios marginales de Dar es Salaam"] --> B["Actuación de improvisación centrada en MCs femeninas"]
+    B --> C["Difundirse a través de fiestas callejeras"]
+        C --> D["Simbolización de la cultura urbana/expresión de igualdad de género"]
+    D --> E["Atención internacional con Nyege Nyege Tapes"]
+    E --> F["Actuando en clubes y festivales de todo el mundo"]
 
 </div>
 
@@ -137,10 +137,10 @@ E --> F["Actuado en clubes y festivales de todo el mundo"]
 
 <div class="mermaid">
 
-diagrama de flujo LR
-Música["Fast Beat + Rap"] --> Danza["Actuación de danza"]
-Danza --> Comunidad["Cultura juvenil/formación solidaria"]
-Comunidad --> Festivales["Festival Nyege Nyege, etc."]
+flowchart LR
+    Music["Ritmo rápido + Rap"] --> Dance["Espectáculo de danza"]
+    Dance --> Community["Cultura juvenil y formación solidaria"]
+    Community --> Festivals["Festival Nyege Nyege, etc."]
 
 </div>
 
@@ -161,14 +161,14 @@ Akolitronics es un estilo que recrea Rarakaraka, la música tradicional del pueb
 
 #### Funciones musicales
 
-| 特徴   | 詳細                       |
+| Características | Detalles |
 | ---- | ------------------------ |
-| BPM  | 120〜160BPM、伝統リズム尊重       |
-| リズム  | 打楽器主体ポリリズム、ループ化          |
-| メロディ | 弦楽器・コーラスをシンセで再現          |
-| ボーカル | 伝統歌唱サンプリング＋ラップ/チャント融合    |
-| 曲構造  | 即興性維持、クラブ向けイントロ/ビルド/ブレイク |
-| サウンド | アナログシンセ・エフェクトでテクスチャー拡張   |
+| BPM | 120-160BPM, respetando el ritmo tradicional |
+| Ritmo | Polirritmia basada en percusión, en bucle |
+| melodía | Instrumentos de cuerda y coro reproducidos con sintetizador |
+| voces | Sampleo de canto tradicional + fusión rap/chant |
+| Estructura de la canción | Mantener la improvisación, introducción/construcción/pausa para clubes |
+| Sonido | Amplíe la textura con efectos de sintetizador analógico |
 
 
 ---
@@ -178,12 +178,12 @@ Akolitronics es un estilo que recrea Rarakaraka, la música tradicional del pueb
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Tradición: música del festival Rarakaraka"] --> B["Actuado en festivales y bodas de pueblos"]
-B --> C["Fusión de música electrónica en zonas urbanas"]
-C --> D["Destacado en cintas Nyege Nyege"]
-D --> E["Actuación improvisada en clubes y festivales"]
-E --> F["Atención y colaboración internacional"]
+flowchart TD
+    A["Tradición: Música del Festival Rarakaraka"] --> B["Actuaciones en fiestas y bodas del pueblo"]
+    B --> C["Fusión de música electrónica en el ámbito urbano"]
+    C --> D["Introducido en las cintas Nyege Nyege"]
+    D --> E["Actuación improvisada en discotecas y festivales"]
+    E --> F["Atención y colaboración internacional"]
 
 </div>
 
@@ -204,16 +204,16 @@ E --> F["Atención y colaboración internacional"]
 
 - Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 
-- Expresión en festivales: Nyege En el Festival de Nyege, es habitual que el público baile libremente con música electrónica Akori.
+- Expresión en festivales: Nyege En el Festival de Nyege, es común que el público baile libremente con música electrónica Akori.
 
 ---
 
 <div class="mermaid">
 
-diagrama de flujo LR
-Música["Larakaraka + Música Electrónica"] --> Danza["Danza Improvisación"]
-Danza --> Comunidad["Cultura/Formación Comunitaria"]
-Comunidad --> Festivales["Festival Nyege Nyege, etc."]
+flowchart LR
+    Music["Larakaraka + música electrónica"] --> Dance["Baile improvisado"]
+    Dance --> Community["Cultura/Formación Comunitaria"]
+    Community --> Festivals["Festival Nyege Nyege, etc."]
 
 </div>
 
@@ -234,14 +234,14 @@ Electro Maloya es un estilo experimental que recrea la música tradicional de la
 
 #### Funciones musicales
 
-| 特徴   | 詳細                       |
+| Características | Detalles |
 | ---- | ------------------------ |
-| BPM  | 100〜140BPM、伝統マロヤのゆったりリズム |
-| リズム  | 打楽器ポリリズムをループ化            |
-| メロディ | 伝統旋律・コーラスをシンセ再構築         |
-| ボーカル | コーラス主体、サンプリング＋リバーブ       |
-| 曲構造  | 伝統基盤＋クラブ向けビルド/ブレイク/ドロップ  |
-| サウンド | アナログシンセ・ループ・エフェクトで空間拡張   |
+| BPM | 100-140BPM, ritmo lento tradicional de Maloya |
+| Ritmo | Polirritmo de percusión en bucle |
+| melodía | Reconstrucción con sintetizador de melodía y coro tradicionales |
+| voces | Principalmente coro, muestreo + reverberación |
+| Estructura de la canción | Base tradicional + construcción/rotura/caída del palo |
+| Sonido | Amplíe el espacio con efectos de bucle de sintetizador analógico |
 
 ---
 
@@ -249,12 +249,12 @@ Electro Maloya es un estilo experimental que recrea la música tradicional de la
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Tradición: Música Maloya"] --> B["Expresiones de vida y trabajo a través de la cultura esclava e inmigrante"]
-B --> C["Siglo XX: Tradición bajo restricciones"]
-C --> D["Década de 2000: comienza la fusión de música electrónica"]
-D --> E["Actuó en clubes y festivales y recibió atención internacional"]
-E --> F["Contemporáneo: Difundiéndose en la comunidad mundial de música electrónica"]
+flowchart TD
+    A["Tradición: Música Maloya"] --> B["Expresiones de vida y trabajo a través de la cultura esclava e inmigrante"]
+    B --> C["Siglo XX: Tradición bajo restricciones"]
+    C --> D["Década de 2000: El comienzo de la fusión de la música electrónica"]
+    D --> E["Actuó en clubes y festivales y recibió atención internacional"]
+    E --> F["Contemporáneo: difundido en la comunidad mundial de música electrónica"]
 
 </div>
 
@@ -284,10 +284,10 @@ Estos estilos juegan un papel importante en la forma en que Nyege Nyege Tapes re
 
 <div class="mermaid">
 
-diagrama de flujo LR
-Música["Maloya + Música Electrónica"] --> Danza["Danza Improvisación"]
-Danza --> Comunidad["Cultura/Formación Comunitaria"]
-Comunidad --> Festivales["Expresión en discotecas y festivales"]
+flowchart LR
+    Music["Maloya + Música Electrónica"] --> Dance["Baile improvisado"]
+    Dance --> Community["Cultura/Formación Comunitaria"]
+    Community --> Festivals["Expresión en discotecas y festivales"]
 </div>
 
 ---
@@ -349,5 +349,5 @@ A continuación se muestran algunos enlaces recomendados de YouTube relacionados
 ### <a id="conclusión"></a>Resumen
 
 Nyege Nyege es un importante grupo musical que difunde al mundo "música outsider" que fusiona la música tradicional africana y la música electrónica moderna. El sello Nyege Nyege Tapes está a la vanguardia en la promoción de la fusión de la música tradicional africana y la música electrónica, incluyendo Shingeli, Akolitronics, Electro Maloya, etc.
-Hemos establecido una posición única en la escena musical mundial al preservar simultáneamente la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
+Somos simultáneamente responsables de preservar la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente, y hemos establecido una posición única en la escena musical mundial. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
 

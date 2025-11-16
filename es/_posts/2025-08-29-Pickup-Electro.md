@@ -15,9 +15,9 @@ title: Recoger trabajos electro
 ---
 
 
-"Una colección de obras electrónicas en las que la fantasía cibernética de los años 80 continúa bailando hasta el día de hoy".
+"Una colección de obras electrónicas en las que la ciberfantasía de los años 80 continúa bailando hasta el día de hoy".
 
-<hr>
+<hora>
 
 ### Afrika Bambaataa y La Fuerza Soulsonic – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
@@ -40,7 +40,7 @@ B. Planet Rock (Instrumental)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -67,7 +67,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIBL1QPj2KE?si=VHO0Yo-tv9cIjQZG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -92,14 +92,14 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pro291Ujs4Y?si=9VpUkriaSso19Ody" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-Punto: "Side B" es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
+Punto: “Side B” es una canción oscura con un sentimiento electro particularmente fuerte. Una "tensión mecánica" flota a través de la atmósfera tranquila, llevándote a una visión del mundo fría pero profunda.
 
 Charm: Electro oscuro y tenso.
 
@@ -117,7 +117,7 @@ B. Video Hi 8 (Instrumental)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -145,7 +145,7 @@ B2. Dance The Machine (Disco Club Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vgvr9l78OkU?si=u_-1UUm1y7Qspum3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -172,7 +172,7 @@ B. Schmetterball
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8TE0mDP6tc?si=o_WDtTJA5fq3pJS8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RWv2m-4JdCE?si=dKoXOjRNq_OeYP2N" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -197,5 +197,5 @@ B. Freaky Mike (DJ All Star &amp; Don Disco Remix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>

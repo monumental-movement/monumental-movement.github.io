@@ -27,7 +27,7 @@ Este linaje se extendió más tarde a la cultura disco de todo el mundo y fue he
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## El nacimiento del Philadelphia Sound: Gamble & Huff y Sigma Sound
@@ -102,12 +102,12 @@ Por otro lado, su extremo perfeccionismo ponía nerviosos a los músicos del est
 
 ## Análisis de seguimiento clave
 
-| 曲名 | 年 | 特徴 | 備考 |
+| Título de la canción | Año | Características | Notas |
 |------|----|------|------|
-| **Love Break (Ooh I Love It)** | 1980 | サンプリングの宝庫。パーカッションとホーンのブレイクが後年のヒップホップで乱用。 | Public Enemy、Eric B. & Rakimなどに引用。 |
-| **Salsoul Hustle** | 1975 | 初期ディスコの原点。4/4ビートとラテン・グルーヴの融合。 | フィリー・サウンドからの飛躍を象徴。 |
-| **Nice ‘n Naasty** | 1976 | ストリングス主導のダンス・トラック。 | 洗練されたアレンジが特徴。 |
-| **Runaway (feat. Loleatta Holloway)** | 1977 | 女性ヴォーカルと弦楽が織り成す劇的展開。 | 後年ハウス界で再評価。 |
+| **Pausa de amor (Oh, me encanta)** | 1980 | Un tesoro escondido de muestreo. La percusión y los cortes de trompeta se abusaron en el hip-hop posterior. | Citado por Public Enemy, Eric B. & Rakim, etc. |
+| **Ajetreo de Salsoul** | 1975 | Los orígenes de la música disco temprana. Una fusión de ritmo 4/4 y ritmo latino. | Simboliza un salto adelante con respecto al sonido de Filadelfia. |
+| **Agradable y desagradable** | 1976 | Pista de baile con cuerdas. | Presenta un arreglo sofisticado. |
+| **Runaway (hazaña. Loleatta Holloway)** | 1977 | Un desarrollo dramático con voces femeninas y cuerdas. | Revalorizado en años posteriores en el mundo de la casa. |
 
 ---
 
@@ -125,17 +125,17 @@ Los discos de vinilo de Salsoul se han convertido en el libro sagrado de los DJ 
 
 <div class="mermaid">
 
-línea de tiempo
-título Philadelphia Sound y la genealogía de Salsoul
-1967: Gamble & Huff establecen Philadelphia International Records
-1971: Se formó MFSB y comenzó sus actividades con Sigma Sound.
-1973: Lanzamiento de “Love Is The Message”
-1975: Vincent Montana Jr. deja y forma Salsoul Orchestra.
-1976: Comienza la época dorada de la música disco con “Nice ‘n Naasty”
-1977: “Runaway” se convierte en un éxito de discoteca
-1980: Se lanza “Love Break”, el muestreo se convierte en estándar
-1992: Masters at Work remezcla clásicos de Salsoul
-Década de 2010: reevaluación y auge de la reedición analógica
+timeline
+    title フィラデルフィア・サウンドとSalsoulの系譜
+    1967 : Gamble & HuffがPhiladelphia International Records設立
+    1971 : MFSB結成、Sigma Soundで活動開始
+    1973 : 『Love Is The Message』リリース
+    1975 : Vincent Montana Jr.が脱退しSalsoul Orchestra結成
+    1976 : 『Nice ‘n Naasty』でディスコ黄金期へ
+    1977 : 「Runaway」がクラブ・ヒット
+    1980 : 「Love Break」発表、サンプリングの定番化
+    1992 : Masters at WorkがSalsoul Classicsをリミックス
+    2010s : 再評価とアナログ再発ブーム
 
 </div>
 
@@ -143,13 +143,13 @@ Década de 2010: reevaluación y auge de la reedición analógica
 
 ### Discografía (obras principales)
 
-| 年    | アーティスト             | アルバム                     | リンク |
-| ---- | --------------------- | ------------------------- | ---- |
-| 1973 | MFSB                  | Love Is The Message | [Amazon](https://amzn.to/48XNk6X)  |
-| 1975 | The Salsoul Orchestra | The Salsoul Orchestra | [Amazon](https://amzn.to/3X3V4Nt) |
-| 1976 | The Salsoul Orchestra | Nice ‘n Naasty   | [Amazon](https://amzn.to/4omnu1p)    |
-| 1977 | The Salsoul Orchestra | Magic Journey    | [Amazon](https://amzn.to/47txqQN)    |
-| 1980 | The Salsoul Orchestra | Street Sense     | [Amazon](https://amzn.to/4nBROE7)    |
+| Año | Artista | Álbum | Enlace |
+| ---- | --------------------- | ------------------------ | ---- |
+| 1973 | MFSB | El amor es el mensaje | [Amazon](https://amzn.to/48XNk6X) |
+| 1975 | La Orquesta Salsoul | La Orquesta Salsoul | [Amazon](https://amzn.to/3X3V4Nt) |
+| 1976 | La Orquesta Salsoul | Agradable y desagradable | [Amazon](https://amzn.to/4omnu1p) |
+| 1977 | La Orquesta Salsoul | Viaje Mágico | [Amazon](https://amzn.to/47txqQN) |
+| 1980 | La Orquesta Salsoul | Sentido de la calle | [Amazon](https://amzn.to/4nBROE7) |
 
 
 ---

@@ -22,7 +22,7 @@ Texto: mmr | Tema: Autechre de Sean Booth y Rob Brown. Seguimiento de la evoluci
 Autechre es más que un simple dúo de música electrónica.
 Su sonido es a la vez matemático y crudo. Parece frío y deja una aspereza un tanto humana. Sean Booth y Rob Brown, dos jóvenes que se conocieron en el norte de Manchester, emprendieron un camino para redefinir la estructura misma del sonido, utilizando el hip-hop y la curiosidad por la ingeniería como puntos de partida.
 
-A principios de la década de 1990, Autechre se destacó en la serie Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
+A principios de la década de 1990, Autechre se destacó entre las series de Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
 
 > “Para nosotros el techno no se trata de eliminar la emoción, sino de expresarla a través de una estructura”.
 
@@ -30,7 +30,7 @@ A principios de la década de 1990, Autechre se destacó en la serie Inteligenci
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## Capítulo 1: Origen e impulso inicial: desde la víspera de Rephlex hasta <Warp>
 
@@ -82,7 +82,7 @@ Su música se ha convertido en algo para experimentar en lugar de algo para escu
 
 > “Las emociones no se pueden eliminar mientras seamos seres humanos.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -105,7 +105,7 @@ Las actuaciones en directo de Autechre excluyen por completo la presentación vi
 Las luces se apagan y el escenario queda a oscuras. El público quedará envuelto en un **espacio de sonido puro**.
 Esta naturaleza completamente inorgánica es una prueba de que su objetivo es "dominar el cuerpo sólo con el sonido".
 
-En la década de 2010, lanzaron la **serie AE_LIVE**. Grabamos los sonidos que el programa improvisaba tal cual eran y presentamos una estructura diferente para cada ciudad.
+En la década de 2010, lanzaron la **serie AE_LIVE**. Los sonidos que improvisó el programa se grabaron tal cual y se presentaron estructuras diferentes para cada ciudad.
 Además, “NTS Sessions 1–4” (2018) es una obra maestra que dura más de 8 horas. Este es un logro monumental en el que Autechre ha construido un "universo de algoritmos acústicos".
 
 > “La improvisación también implica tomar prestado el pensamiento de un programa”.
@@ -151,20 +151,20 @@ Autechre sigue explorando las posibilidades del sonido **más allá de la estruc
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1991["1991: Se forma Autechre (Sean Booth y Rob Brown)"]
-A1993["1993: Debut en Warp con 'Incunables'"]
-A1994["1994: Lanzamiento de 'Amber'"]
-A1995["1995: Lanzamiento de 'Tri Repetae': un símbolo de IDM"]
-A1997["1997: Profundizando la estructura acústica con 'Chiastic Slide'"]
-A2001["2001: 'Confield': el punto de inflexión generativo con Max/MSP"]
-A2003["2003: Borrador 7.30"]
-A2010["2010: 'Excesos': regresión orgánica"]
-A2018["2018: 'NTS Sessions 1–4' — Más de 8 horas de obras maestras"]
-A2020["2020: 'SIGN' y 'PLUS' lanzados"]
-A2024["2024: Continuación de la serie AE_LIVE"]
+flowchart TD
+    A1991["1991: Se forma Autechre (Sean Booth y Rob Brown)"]
+    A1993["1993: Debut en Warp con 'Incunables'"]
+    A1994["1994: lanzamiento de 'Ámbar'"]
+    A1995["1995: Lanzamiento de 'Tri Repetae': un símbolo de IDM"]
+    A1997["1997: Profundizando la estructura acústica con 'Chiastic Slide'"]
+    A2001["2001: 'Confield': punto de inflexión generativo con Max/MSP"]
+    A2003["2003: 『Draft 7.30』"]
+    A2010["2010: 'Excesos': regresión orgánica"]
+    A2018["2018: 'NTS Sessions 1–4': más de 8 horas de obras maestras"]
+    A2020["2020: Lanzamientos de 'SIGN' y 'PLUS'"]
+    A2024["2024: continuación de la serie AE_LIVE"]
 
-A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> A2018 --> A2020 --> A2024
+    A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> A2018 --> A2020 --> A2024
 
 </div>
 
@@ -172,31 +172,31 @@ A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> 
 
 ## Discografía
 
-| 年    | タイトル             | リリース         | リンク                                              |
+| Año | Título | Lanzamiento | Enlace |
 | ---- | ---------------- | ------------ | ------------------------------------------------ |
-| 1993 | Incunabula       | Warp Records | [Amazon](https://amzn.to/48RINTp) |
-| 1994 | Amber            | Warp Records | [Amazon](https://amzn.to/48olvVe) |
-| 1995 | Tri Repetae      | Warp Records | [Amazon](https://amzn.to/4h6lwiP) |
-| 1997 | Chiastic Slide   | Warp Records | [Amazon](https://amzn.to/48Ud8Re) |
-| 2001 | Confield         | Warp Records | [Amazon](https://amzn.to/471jWds) |
-| 2003 | Draft 7.30       | Warp Records | [Amazon](https://amzn.to/46Vvte7) |
-| 2010 | Oversteps        | Warp Records | [Amazon](https://amzn.to/46JqFtG) |
-| 2018 | NTS Sessions 1–4 | Warp Records | [Amazon](https://amzn.to/4n78OBW) |
-| 2020 | SIGN             | Warp Records | [Amazon](https://amzn.to/4mTZOQg) |
-| 2020 | PLUS             | Warp Records | [Amazon](https://amzn.to/4mZfD8t) |
+| 1993 | Incunables | Registros de deformación | [Amazon](https://amzn.to/48RINTp) |
+| 1994 | Ámbar | Registros de deformación | [Amazon](https://amzn.to/48olvVe) |
+| 1995 | Tri repetición | Registros de deformación | [Amazon](https://amzn.to/4h6lwiP) |
+| 1997 | Diapositiva quiástica | Registros de deformación | [Amazon](https://amzn.to/48Ud8Re) |
+| 2001 | Confield | Registros de deformación | [Amazon](https://amzn.to/471jWds) |
+| 2003 | Borrador 7.30 | Registros de deformación | [Amazon](https://amzn.to/46Vvte7) |
+| 2010 | Sobrepasos | Registros de deformación | [Amazonas](https://amzn.to/46JqFtG) |
+| 2018 | Sesiones NTS 1 a 4 | Registros de deformación | [Amazon](https://amzn.to/4n78OBW) |
+| 2020 | FIRMAR | Registros de deformación | [Amazon](https://amzn.to/4mTZOQg) |
+| 2020 | MÁS | Registros de deformación | [Amazon](https://amzn.to/4mZfD8t) |
 
 
 ---
 
 ## Lista de tecnología y equipos utilizados.
 
-| カテゴリ    | 機材・ソフトウェア                                   | 備考                          |
-| ------- | ------------------------------------------- | --------------------------- |
-| シンセサイザー | Nord Lead, Roland SH-101, Oberheim Matrix-6 | 初期作品で頻用                     |
-| サンプラー   | Akai MPC1000, Ensoniq EPS                   | ビート構築の中心                    |
-| ソフトウェア  | Max/MSP, Kyma, Ableton Live                 | 自作アルゴリズム生成                  |
-| ドラムマシン  | Roland R8, Elektron Machinedrum             | 複雑な拍構造を実現                   |
-| 制作哲学    | 自動生成＋人間的介入                           | “Control through Chaos” の実践 |
+| Categorías | Equipos/Software | Notas |
+| ------- | ---------------------------------------- | --------------------------- |
+| Sintetizador | Nord Lead, Roland SH-101, Oberheim Matrix-6 | Utilizado con frecuencia en las primeras obras |
+| Muestrario | Akai MPC1000, Ensoniq EPS | El corazón de la construcción beat |
+| Programas | Max/MSP, Kyma, Ableton Live | Generación de algoritmos caseros |
+| Caja de ritmos | Roland R8, batería electrónica Elektron | Realiza estructuras de ritmo complejas |
+| Filosofía de producción | Generación automática + intervención humana | Práctica “Control a través del Caos” |
 
 
 ---

@@ -21,14 +21,14 @@ title: '[Columna] El movimiento embrionario del garage británico: el ritmo fluc
 
 Texto: mmr｜Tema: Garage británico criado en el metro de Londres en los años 90. Rastreando su nacimiento, transformación y la intersección de la cultura de club
 
-A mediados de la década de 1990, había una revolución sonora en marcha silenciosamente en los clubes underground de Londres.
+A mediados de la década de 1990, se estaba produciendo silenciosamente una revolución sonora en los clubes underground de Londres.
 Su nombre es "UK Garage". Basados ​​en American Garage House, han establecido un "ritmo aleatorio" único al combinar ritmos de la jungla, voces de R&B y la cultura del sistema de sonido jamaicano.
 
 Este nuevo sonido era más que un simple género de música de club: sirvió como una expresión del multiculturalismo urbano y las comunidades de inmigrantes. El garage del Reino Unido finalmente se diversificó en **2-Step, Speed ​​​​Garage, Grime y Dubstep**, convirtiéndose en la piedra angular de la cultura bass actual del Reino Unido.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Raíces: garaje estadounidense y reinterpretación del Reino Unido
@@ -111,11 +111,11 @@ Alrededor del año 2000, el garage del Reino Unido entró en su época dorada en
 
 De 2001 a 2003 surgió en los clubes un sonido más agresivo y oscuro. Este se convirtió en el punto de partida para **Grime** y **Dubstep** posteriores.
 
-| 分岐 | 特徴 | 代表アーティスト |
+| Sucursal | Características | Artista Representativo |
 |------|------|-------------------|
-| **Grime** | BPM140前後、MC主体の硬質サウンド | Wiley, Dizzee Rascal |
-| **Dubstep** | 低音重視、暗い空間性 | Skream, Benga, Digital Mystikz |
-| **Bassline** | 4つ打ち回帰、ポップなヴォーカル | T2, DJ Q |
+| **Suciedad** | Alrededor de BPM140, sonido duro basado en MC | Wiley, Dizzee Rascal |
+| **Dubstep** | Énfasis en el bajo, espacio oscuro | Skream, Benga, Digital Mystikz |
+| **Línea de bajo** | Regreso 4/4, voz pop | T2, DJ Q |
 
 ---
 
@@ -159,19 +159,19 @@ La historia del garage británico es un ciclo de música urbana en sí mismo.
 
 ## Cronología: Temas principales del garaje del Reino Unido (1988-2025)
 
-| 年 | 出来事 |
+| Año | Eventos |
 |----|--------|
-| 1988 | Acid Houseムーブメント、レイヴ文化拡大 |
-| 1992 | US Garage Houseがロンドンで流行 |
-| 1995 | Tuff Jam結成、Speed Garage形成期 |
-| 1997 | Double 99「RipGroove」リリース |
-| 1999 | Artful Dodger「Re-Rewind」ヒット |
-| 2000 | MJ Cole「Sincere」発売、UKG黄金期 |
-| 2002 | Grime誕生、Dizzee Rascalが登場 |
-| 2004 | Dubstep勃興、DMZイベント始動 |
-| 2010 | Burial再評価、Future Garage派生 |
-| 2022 | Eliza Rose「B.O.T.A.」がチャート1位 |
-| 2025 | UKGリバイバルとAIベースの再解釈進行中 |
+| 1988 | Movimiento Acid House, expansión de la cultura rave |
+| 1992 | US Garage House se vuelve popular en Londres |
+| 1995 | Formación Tuff Jam, período de formación Speed ​​​​Garage |
+| 1997 | Lanzamiento del doble 99 “RipGroove” |
+| 1999 | El ingenioso éxito de los Dodgers “Re-Rewind” |
+| 2000 | Lanzamiento de MJ Cole “Sincere”, era dorada de UKG |
+| 2002 | Nace Grime, Dizzee Rascal está aquí |
+| 2004 | El dubstep sube y comienza el evento DMZ |
+| 2010 | Reevaluación del entierro, derivado Future Garage |
+| 2022 | Eliza Rose “B.O.T.A.” ​​encabeza la lista |
+| 2025 | Reactivación del UKG y reinterpretación basada en IA en marcha |
 
 ---
 
@@ -179,13 +179,13 @@ La historia del garage británico es un ciclo de música urbana en sí mismo.
 
 <div class="mermaid">
 
-gráfico TD
-A[Casa de garaje de EE. UU.] --> B[Garaje de velocidad]
-B --> C[Garaje de 2 pasos]
-C --> D[suciedad]
-C --> E[Dubpaso]
-E --> F[Garaje futuro]
-B --> G[Línea de bajo]
+graph TD
+A[US Garage House] --> B[Speed Garage]
+B --> C[2-Step Garage]
+C --> D[Grime]
+C --> E[Dubstep]
+E --> F[Future Garage]
+B --> G[Bassline]
 
 </div>
 

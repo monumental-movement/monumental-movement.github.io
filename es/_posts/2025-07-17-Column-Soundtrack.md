@@ -19,7 +19,7 @@ Texto: mmr｜Tema: Grabación, reproducción y experiencia de la música de cine
 
 
 
-<hr>
+<hora>
 
 ### La música de cine es “una película que se ve con los oídos”
 La música de cine consta de acompañamiento musical (partitura de fondo) y
@@ -28,7 +28,7 @@ Es "otro guión" que se utiliza para guiar las emociones humanas junto con imág
 Si bien la música de cine es parte de la película en sí, también es una obra de arte independiente que se puede experimentar por sí sola. En este artículo desentrañaremos a lo largo del tiempo cómo se grabó, distribuyó, grabó y conservó esta música cinematográfica.
 
 
-<hr>
+<hora>
 
 ### Historia de la música de cine y los orígenes de la grabación.
 
@@ -46,7 +46,7 @@ Por esta época, el significado de "banda sonora = material de audio de la pelí
 
 ■Grabación sobre la propia película (sonido en película)
 
-- Banda sonora óptica
+- Método de grabación óptica (banda sonora óptica)
 
 Popularizado entre los años 1930 y 1950.
 
@@ -102,55 +102,55 @@ Una vez más se cuestiona la frontera entre "funcionalidad" y "artístico" en la
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["🎞 Sonido en película (décadas de 1930-1960) Grabación óptica → grabación magnética. Conversión estéreo y calidad de sonido mejorada"]
-B["💿Discos (décadas de 1950 a 1980) Distribución general de música de cine. Principalmente grabaciones destacadas"]
-C["📼 Cassette / 8 pistas (años 70-80) Popularidad en dispositivos de reproducción domésticos y de automóviles. Portabilidad de la música de películas"]
-D["💽 CD (años 80) Sonido de alta calidad y largo tiempo de grabación. Época dorada con la llegada de los sellos especializados"]
-E["📀 DVD/Blu-ray (años 90 y posteriores) Vuelve a experimentar la banda sonora con vídeo + sonido 3D"]
-F["💻 Fuentes de sonido digitales (década de 2000~) MP3 / FLAC, etc. Distribución de alta resolución y comunicación de artistas independientes"]
-G["☁ Suscripción (década de 2010 ~) La era de escuchar música de películas. Crea una lista de reproducción y redefínela"]
+flowchart TD
+  A["🎞 Sonido en película (décadas de 1930-1960) Grabación óptica → grabación magnética. Conversión estéreo y calidad de sonido mejorada"]
+  B["💿 Discos (décadas de 1950 a 1980) Distribución general de música de películas. Principalmente grabaciones de lo más destacado".]
+  C["📼 Cassette / 8 pistas (décadas de 1970 a 1980) Popularidad en dispositivos de reproducción domésticos y de automóviles. Portabilidad de la música de películas".]
+  D["💽CD (años 80) Sonido de alta calidad y largo tiempo de grabación. Época dorada con la llegada de los sellos especializados."]
+  E["📀 DVD/Blu-ray (años 90 y posteriores) Vuelve a experimentar la banda sonora con vídeo + sonido 3D"]
+  F["💻Fuente de sonido digital (años 2000~) MP3/FLAC, etc. Distribución y comunicación en alta resolución por artistas independientes"]
+  G["☁ Suscripción (década de 2010 ~) La era de escuchar música de películas. Crear listas de reproducción y redefinirlas"]
 
-A --> B --> C --> D --> E --> F --> G
+  A --> B --> C --> D --> E --> F --> G
 
 </div>
 
-<hr>
+<hora>
 
 ### Diferencia entre “banda sonora” y “partitura” de música de película
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artículo</th>
 <th>Banda sonora (OST)</th>
 <th>Partitura (partitura original)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Fuentes de sonido incluidas</td>
 <td>Todas las canciones utilizadas en la película (incluidas las canciones prefabricadas)</td>
 <td>Únicamente música de acompañamiento del compositor</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Formato</td>
 <td>similar a una compilación</td>
 <td>Grabado por orquesta o sintetizador</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ejemplo</td>
 <td>BSO de Trainspotting (mucha música británica de los 90)</td>
 <td>Partitura del Caballero Oscuro (Hans Zimmer)</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
 <br>
 
 
-<hr>
+<hora>
 
 ### Cultura del coleccionista y mercado de ediciones limitadas.
 
@@ -169,7 +169,7 @@ Death Waltz y Waxwork Records lanzan música de películas de terror como obras 
 Las partituras se publican con fines de interpretación e investigación de música cinematográfica.
 
 
-<hr>
+<hora>
 
 ### Cambios en el medio desde la perspectiva de un compositor
 
@@ -190,7 +190,7 @@ Compatible con YouTube, juegos y streaming de películas (Netflix).
 Las mezclas basadas en Dolby Atmos y audio espacial también están en auge.
 
 
-<hr>
+<hora>
 
 ### “Separación” y “reunificación” de música e imágenes
 
@@ -203,7 +203,7 @@ Una banda sonora que “evoca recuerdos” al separarse de las imágenes
 El surgimiento de medios de próxima generación que se reintegran con imágenes, como la música de los juegos y la realidad virtual.
 
 
-<hr>
+<hora>
 
 ### ¿Cómo se almacenan las memorias sonoras?
 
@@ -212,45 +212,45 @@ La música de las películas permanece en nuestros corazones como "tiempo" de un
 El sonido que fluye en la pantalla regresa a nosotros a través de los altavoces. El medio es un recipiente para la memoria y otro dispositivo para reproducir la historia.
 
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista/Arreglista</th>
 <th>Título</th>
 <th>Edad/Trabaja</th>
 <th>Formato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Jerry Goldsmith</td>
 <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">Una mancha azul</a></td>
 <td>Música de la película de 1965 (reeditada en 1978)</td>
 <td>Casete</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>VA</td>
 <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Chica tanque</a></td>
 <td>banda sonora de la película de 1995</td>
 <td>CD</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Adam Clayton y Larry Mullen</td>
 <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
 <td>Tema de la película de 1996</td>
 <td>Casete</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ennio Morricone</td>
 <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
 <td>banda sonora de la película de 1989</td>
 <td>CD</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

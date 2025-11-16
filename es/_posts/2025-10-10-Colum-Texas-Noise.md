@@ -28,7 +28,7 @@ Houston, Austin y San Antonio: estas ciudades pueden ser las "patrias del countr
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -38,11 +38,11 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
-### Capítulo 1: Experimentos de sonido solitario: Charalambides y la expansión de la conciencia sureña
+### Capítulo 1: Un experimento de sonido solitario: Charalambides y la expansión de la conciencia sureña
 
 A principios de la década de 2000, **Charalambides** (Christina y Tom Carter) eran un pilar de la escena ruidosa de Texas.
 Su sonido no era tanto ruido sino más bien un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
@@ -60,7 +60,7 @@ Las actividades de Charalambides se extendieron a través de los sellos **Kranky
 
 ---
 
-### Capítulo 2: Ruido de hierro y carne - Jesús de cuero negro y la genealogía de la fisicalidad
+### Capítulo 2: El ruido del hierro y la carne: Jesús del cuero negro y la genealogía de la fisicalidad
 
 **Black Leather Jesus (BLJ)**, que ha estado activo desde la década de 1990, es un grupo de ruido con sede en Houston dirigido por **Richard Ramírez**.
 BLJ continuó activo en la década de 2000 y más allá como el "extremo del ruido duro", junto con Hijikaido de Japón, MERZBOW y The Haters de Estados Unidos.
@@ -112,7 +112,7 @@ La escena del ruido de Texas de la década de 2020 se encuentra entre la red y l
 Mientras que artistas jóvenes de Houston y Dallas están activos como colectivo digital a través de Bandcamp, YouTube, Discord, etc.
 Los artistas mayores siguen trabajando con equipos analógicos.
 
-> "El ruido no se trata de tecnología, se trata de actitud."
+> "El ruido es una cuestión de actitud, no de tecnología."
 > — Richard Ramirez (Jesús de cuero negro)
 
 El ruido de Texas continúa oscilando entre lo salvaje y lo urbano.
@@ -126,16 +126,16 @@ Podría denominarse **“Literatura sureña a través del sonido”**.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A2000["2000: Charalambides reedita 'Unknown Spin' (Kranky)"]
-A2002["2002: No Idea Festival se celebrará por primera vez en Austin"]
-A2005["2005: Lanzamiento de "Sí, soy tan jodidamente desesperado" de Black Leather Jesus"]
-A2010["2010: Amuletos inicia sus actividades"]
-A2015["2015: Lanzamiento de "Long Time Underground" de Tom Carter"]
-A2020["2020: El grupo netlabel de ruido de Texas se activa (Bandcamp)"]
-A2024["2024: Movimiento de reevaluación de Black Leather Jesus, gira europea realizada"]
+flowchart TD
+    A2000["2000: Charalambides reedita 'Unknown Spin' (Kranky)"]
+    A2002["2002: No Idea Festival celebrado por primera vez en Austin"]
+    A2005["2005: Lanzamiento de" Sí, soy tan jodidamente desesperado "de Black Leather Jesus"]
+    A2010["2010: Amuletos inicia sus actividades"]
+    A2015["2015: Lanzamiento de" Long Time Underground "de Tom Carter"]
+    A2020["2020: El grupo netlabel de ruido de Texas se activa (Bandcamp)"]
+    A2024["2024: Movimiento para reevaluar Black Leather Jesus, gira europea realizada"]
 
-A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
+    A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
 
 
 </div>
@@ -146,12 +146,12 @@ A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
 
 ### Discografía
 
-| アーティスト              | タイトル                               | 年    | リンク                                              |
-| ------------------- | ---------------------------------- | ---- | ------------------------------------------------ |
-| Charalambides       | *Unknown Spin*                     | 2000 | [Amazon](https://amzn.to/3KH8BI2) |
-| Tom Carter          | *Long Time Underground*            | 2015 | [Amazon](https://amzn.to/46IETLi) |
-| Amulets             | *Between Distant and Remote*       | 2018 | [Amazon](https://amzn.to/4heNI31) |
-| Black Leather Jesus | *Bible of Burnt Skin*              | 2020 | [Amazon](https://amzn.to/4qm9NRB) |
+| Artista | Título | Año | Enlace |
+| ------------------- | ---------------------------------- | ---- | ---------------------------------- |
+| Charalambides | *Giro desconocido* | 2000 | [Amazon](https://amzn.to/3KH8BI2) |
+| Tom Carter | *Mucho tiempo bajo tierra* | 2015 | [Amazon](https://amzn.to/46IETLi) |
+| Amuletos | *Entre distante y remoto* | 2018 | [Amazonas](https://amzn.to/4heNI31) |
+| Jesús de cuero negro | *Biblia de la piel quemada* | 2020 | [Amazon](https://amzn.to/4qm9NRB) |
 
 ---
 

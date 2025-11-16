@@ -30,7 +30,7 @@ En otras palabras, la danza es la primera tecnología de la civilización.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Batería y Ritual - El Origen del Ritmo
@@ -68,15 +68,15 @@ Era un dispositivo que fundía el "yo" en un flujo rítmico que trascendía al i
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de la evolución de la danza y la música
-50000 aC: Aparición de instrumentos de percusión y danza en los rituales de caza.
-10000 aC: Rituales agrícolas y ritmos de tambores.
-1600: música de danza barroca (formalizada para la corte)
-1900: Nacimiento del jazz y los bailes de salón.
-1970: Disco y cultura psicodélica
-1989: La caída del Muro de Berlín y la cultura rave
-2020: generación de ritmo de IA y aparición de clubes online
+timeline
+    title ダンスと音楽の進化年表
+    50000BC : 狩猟儀式における打楽器と踊りの出現
+    10000BC : 農耕祭祀と太鼓のリズム
+    1600 : バロック舞踏音楽（宮廷の形式化）
+    1900 : ジャズと社交ダンスの誕生
+    1970 : ディスコとサイケデリック・カルチャー
+    1989 : ベルリンの壁崩壊とレイヴ・カルチャー
+    2020 : AIリズム生成とオンライン・クラブの出現
 
 </div>
 
@@ -114,7 +114,7 @@ Era una versión moderna de un antiguo ritual.
 
 Inmediatamente después de la caída del Muro, Berlín era una zona sin ley y un campo de pruebas para la libertad.
 Clubes como Tresor y Berghain
-Creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
+Se creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
 Allí, el "bailar" en sí mismo es
 Fue un acto político de memoria y renacimiento.
 
@@ -137,15 +137,15 @@ Puede que el cuerpo no sea una sustancia, sino una red de resonancia.
 
 <div class="mermaid">
 
-diagrama de flujo de tuberculosis
-subgrafo Diagrama de relación entre el cuerpo humano y los latidos.
-A[Estimulación sonora externa] --> B[Procesamiento auditivo por el oído]
-B --> C [Percepción del ritmo cerebral]
-C --> D [activación de la corteza motora]
-D --> E [movimiento del cuerpo (baile)]
-E --> F [Resonancia social/Sentido comunitario]
-F --> C
-fin
+flowchart TB
+    subgraph 人間の身体とビートの関係図
+        A[estimulación sonora externa] --> B[Procesamiento auditivo por el oído]
+        B --> C[Percepción del ritmo cerebral]
+        C --> D[Activación de la corteza motora.]
+        D --> E[movimientos del cuerpo (bailando)]
+        E --> F[Resonancia social/sentido comunitario]
+        F --> C
+    end
 </div>
 
 ---

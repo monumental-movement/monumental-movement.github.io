@@ -37,7 +37,7 @@ En el centro estaba el misterioso teclista "Korla Pandit".
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -48,7 +48,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Tabla de contenido
@@ -97,13 +97,13 @@ En este contexto, el silencio y la máscara del Pandit llegaron a simbolizar una
 ## Capítulo 3: El nacimiento de la música exótica: de Les Baxter a Martin Denny {#Capítulo 3}
 
 <div class="mermaid">
-línea de tiempo
-título Genealogía de la música exótica
-1940: aparece "Ritual del salvaje" de Les Baxter
-1957: éxito de Martin Denny “Exótica”
-1958: Arthur Lyman "Tabú"
-1961: Yma Sumac “Leyenda de la Virgen Sol”
-1990: Reevaluación por Combustible Edison
+timeline
+    title エキゾチカ音楽の系譜
+    1940 : Les Baxter「Ritual of the Savage」登場
+    1957 : Martin Denny「Exotica」ヒット
+    1958 : Arthur Lyman「Taboo」
+    1961 : Yma Sumac「Legend of the Sun Virgin」
+    1990 : Combustible Edisonによる再評価
 </div>
 
 El álbum de Les Baxter de 1952 "Ritual of the Savage"
@@ -164,17 +164,17 @@ Desde la década de 2000, sus vídeos y discos han sido redescubiertos como piez
 
 ## Cronología: Korla Pandit y la historia de la música exótica (1940-2020) {#Chronology}
 
-| 年 | 出来事 |
+| Año | Eventos |
 |----|--------|
-| 1916 | John Roland Redd（後のKorla Pandit）誕生 |
-| 1948 | テレビ出演開始、KTLAで「Korla Pandit」名義を使用 |
-| 1951 | 「Korla Pandit Show」放映開始 |
-| 1957 | Martin Denny『Exotica』がチャート1位に |
-| 1960 | アメリカでエキゾチカブーム最盛期 |
-| 1970 | テレビ出演減少、ラスベガスなどで演奏活動 |
-| 1998 | 正体が公表される |
-| 2014 | 映画『Korla』公開 |
-| 2020 | 彼の録音が再発・アーカイブ化 |
+| 1916 | Nace John Roland Redd (más tarde Korla Pandit) |
+| 1948 | Comienza a aparecer en televisión, usando el nombre "Korla Pandit" en KTLA |
+| 1951 | "Korla Pandit Show" comienza a transmitirse |
+| 1957 | "Exótica" de Martin Denny encabeza las listas |
+| 1960 | El apogeo del boom de los exóticos en Estados Unidos |
+| 1970 | Menos apariciones en televisión, actuaciones en Las Vegas y otros lugares |
+| 1998 | Verdadera identidad revelada |
+| 2014 | Se estrena la película “Korla” |
+| 2020 | Sus grabaciones son reeditadas y archivadas |
 
 ---
 
@@ -182,12 +182,12 @@ Desde la década de 2000, sus vídeos y discos han sido redescubiertos como piez
 
 <div class="mermaid">
 
-gráfico TD
-A[Película de Hollywood] --> B[Música exótica]
-B --> C[cultura Tiki]
-C --> D[Consumo de estilo de vida]
-B --> E [Sonido Lo-Fi moderno]
-E --> F[Chillout / Onda de vapor]
+graph TD
+    A[películas de hollywood] --> B[musica exotica]
+    B --> C[cultura tiki]
+    C --> D[consumo de estilo de vida]
+    B --> E[sonido lo-fi moderno]
+    E --> F[Relájate / Onda de vapor]
 
 </div>
 

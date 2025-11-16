@@ -15,7 +15,7 @@ title: Recogiendo obras de Detroit Techno
 
 "Las obras de Detroit Techno nacen de la brecha entre la decadencia y la esperanza"
 
-<hr>
+<hora>
 
 
 ### Claude Young – El EP Dexit
@@ -40,7 +40,7 @@ B2. Fade
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -73,7 +73,7 @@ Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista 
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -100,7 +100,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -133,7 +133,7 @@ Puntos recomendados: Un álbum con profundidad y sofisticación que lleva al oye
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -161,7 +161,7 @@ B2. Ultradyne–War Drum - Live
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -189,7 +189,7 @@ AA2. Soundtrack
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -219,7 +219,7 @@ B3. Untitled
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -246,7 +246,7 @@ B2. Black Avenger
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -273,7 +273,7 @@ B2. Scout
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -298,7 +298,7 @@ B. Circus (The Big Finale Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 Características: Tema lanzado bajo el nombre “M” por Axis en 1992. Una canción que representa el minimal temprano de Detroit.
 
-Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con un sonido áspero pero potente.
+Puntos recomendados: Un disco imprescindible para los coleccionistas que puedan experimentar la sensación underground de principios de los 90, con una sensación áspera pero resistente.
 
 
 #### Lista de canciones
@@ -326,7 +326,7 @@ B2. Getaway
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4nfv1umHFU?si=PAuZ14GX1UywqvoS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 

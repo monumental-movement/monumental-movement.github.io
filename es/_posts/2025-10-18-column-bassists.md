@@ -28,7 +28,7 @@ En el centro hay una gravedad invisible llamada "base".
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## I. Escuchar música con el cuerpo, no con los oídos
@@ -127,7 +127,7 @@ Lo que estableció fue la estética del "grooving en japonés".
 ---
 
 Hironori Ito de Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-Han creado un sonido de clase mundial entre canciones populares y AOR.
+Han creado un sonido que conecta el mundo entre las canciones populares y el AOR.
 El bajo ya no desempeñaba un papel entre bastidores, sino que se convertía en un elemento que sustentaba la "dignidad" de la música.
 
 ---
@@ -220,14 +220,14 @@ El planeta del bass aún no ha dejado de sonar.
 
 ## Discografía de referencia: El mundo y Japón giraban en torno a los sonidos del bajo.
 
-| アーティスト | 作品 | 年 | 備考 | リンク |
+| Artista | Trabajo | Año | Notas | Enlace |
 |:--|:--|:--:|:--|:--|
-| Charles Mingus | *Mingus Ah Um* | 1959 | ジャズの反骨と叙情 | [Amazon](https://amzn.to/4qmvgd2) |
-| Jaco Pastorius | *Jaco Pastorius* | 1976 | フレットレスの詩 | [Amazon](https://amzn.to/3L1qTUl) |
-| 細野晴臣 | *Philharmony* | 1982 | 日本語リズムの翻訳 | [Amazon](https://amzn.to/4qi4uT0) |
-| Mick Karn | *Dreams of Reason Produce Monsters* | 1987 | ベースが語る夢 | [Amazon](https://amzn.to/499CNWg) |
-| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
-| Thundercat | *Drunk* | 2017 | ベースが歌う現代 | [Amazon](https://amzn.to/47bvA5w) |
+| Carlos Mingus | *Mingus Ah Um* | 1959 | Rebelión y lirismo en el jazz | [Amazon](https://amzn.to/4qmvgd2) |
+| Jacó Pastorius | *Jacó Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
+| Haruomi Hosono | *Filarmonía* | 1982 | Traducción de ritmo japonés | [Amazon](https://amzn.to/4qi4uT0) |
+| Mick Karn | *Los sueños de la razón producen monstruos* | 1987 | Sueños contados por el bajo | [Amazon](https://amzn.to/499CNWg) |
+| Kentaro Nakao (NIÑA DEL NÚMERO) | *SAPPUKEI* | 2000 | Bajo urbano distorsionado | [Amazon](https://amzn.to/47115k4) |
+| Trueno | *Borracho* | 2017 | Tiempos modernos donde el bajo canta | [Amazon](https://amzn.to/47bvA5w) |
 
 ---
 
@@ -235,16 +235,16 @@ El planeta del bass aún no ha dejado de sonar.
 
 <div class="mermaid">
 
-línea de tiempo
-título Historia de la evolución de la base (1950-2025)
-1950: Bajo andante de jazz (Ray Brown, Mingus)
-1960: Auge del bajo rockero (McCartney, Entwistle)
-1970: Funk/Fusión (Larry Graham, Jaco)
-1980: Bajo sintético y pop urbano (Haruomi Hosono, Tetsuo Sakurai)
-1990: Post-rock y Bristol (Massive Attack, Peter Hook)
-2000: Redefiniendo el bajo de la música de club (Daft Punk, Squarepusher)
-2010: Post-Jazz/Thundercat
-2020: era del bajo híbrido (IA, cultura global del bajo)
+timeline
+  title ベース進化史（1950–2025）
+  1950 : ジャズの歩くベース（Ray Brown, Mingus）
+  1960 : ロックベースの台頭（McCartney, Entwistle）
+  1970 : ファンク／フュージョン（Larry Graham, Jaco）
+  1980 : シンセベースとシティポップ（細野晴臣, 櫻井哲夫）
+  1990 : ポストロックとブリストル（Massive Attack, Peter Hook）
+  2000 : クラブミュージックの低音再定義（Daft Punk, Squarepusher）
+  2010 : ポストジャズ／Thundercat
+  2020 : ハイブリッド低音時代（AI, グローバル・ベース文化）
 
 
 </div>
@@ -255,60 +255,60 @@ título Historia de la evolución de la base (1950-2025)
 
 <div class="mermaid">
 
-diagrama de flujo LR
+flowchart LR
 %% Centro: Bajo
-Bajo["BASS\n(bajo)\n— centro de gravedad, ritmo y armonía"]
+Bass["BASS\n(Bass)\n—El centro de gravedad, ritmo y armonía"]
 
 
-%%Funciones principales
-Ritmo["Fundamentos del ritmo\n(cronometraje)"]
-Armonía["Conceptos básicos de acordes\n(raíz/progresión)"]
+%% Roles primarios
+Rhythm["Fundamentos del ritmo\n(cronometraje)"]
+Harmony["Conceptos básicos de acordes\n(nota fundamental/progresión)"]
 Groove["Creando un ritmo\n(sensación/matiz)"]
-Textura["Tono/Textura\n(Tono/Efecto)"]
-Plomo["Melodía/Solo\n(Gire al frente)"]
-Diseño["Diseño de sonido\n(bajo sintetizado/programación)"]
+Texture["Tono/Textura\n(Tono/Efecto)"]
+Lead["Melodía/Solo\n(Gira al frente)"]
+Design["Diseño de sonido\n(Bajo sintetizado/Programación)"]
 
 
-%% Técnicas / Instrumentos
-Vertical["Vertical / Vertical\n(Caminar/Jazz)"]
+%% Técnicas/Instrumentos
+Upright["Vertical / Vertical\n(Caminar/Jazz)"]
 P_Bass["Fender P-Bass\n(clásico rock/pop)"]
-J_Bass["Fender J-Bass\n(Multipropósito) "]
-Fretless["Fretless\n(Tono suave/Hacerte cantar) "]
-Sintetizador["Bajo sintetizador\n(Diseño de bajo/subbajo) "]
-Bofetada["Bofetada/Tapping\n(Funk/Agresivo) "]
-Efectos["Efectos: Compresor\nOverdrive, coro, etc."]
+J_Bass["Fender J-Bass\n(multipropósito)"]
+Fretless["Sin trastes\n(tono suave/te hace cantar)"]
+Synth["Bajo sintetizado\n(Diseño de bajo/subbajo)"]
+Slap["Bofetada/Tapping\n(Funk/Agresivo)"]
+Effects["Efectos: Compresor\nOverdrive, Chorus, etc."]
 
 
 %% Conexiones
-Bajo --> Ritmo
-Bajo --> Armonía
-Bajo --> ritmo
-Bajo --> Textura
-Bajo --> Solista
-Bajo --> Diseño
+Bass --> Rhythm
+Bass --> Harmony
+Bass --> Groove
+Bass --> Texture
+Bass --> Lead
+Bass --> Design
 
 
-Groove --> Bofetada
-Textura --> Efectos
-Diseño --> Sintetizador
-Ritmo --> Vertical
-Armonía --> P_Bass
-Armonía --> J_Bass
-Plomo --> Sin trastes
+Groove --> Slap
+Texture --> Effects
+Design --> Synth
+Rhythm --> Upright
+Harmony --> P_Bass
+Harmony --> J_Bass
+Lead --> Fretless
 
 
-%%Etiquetas de contexto
-Escena1["Escena: Jazz / Rock / Funk / Club / Postrock"]
-Bajo --> Escena 1
+%% Etiquetas de contexto
+Scene1["Por escena: Jazz / Rock / Funk / Club / Postrock"]
+Bass --> Scene1
 
 
-estilo Relleno de bajo: #222, trazo: #fff, color: #fff, ancho de trazo: 2px
-estilo Relleno de ritmo:#fff,trazo:#333
-estilo Relleno de armonía:#fff, trazo:#333
-estilo Relleno de ranura:#fff,trazo:#333
-estilo Relleno de textura:#fff,trazo:#333
-estilo Relleno de plomo:#fff,trazo:#333
-estilo Relleno de diseño:#fff,trazo:#333
+style Bass fill:#222,stroke:#fff,color:#fff,stroke-width:2px
+style Rhythm fill:#fff,stroke:#333
+style Harmony fill:#fff,stroke:#333
+style Groove fill:#fff,stroke:#333
+style Texture fill:#fff,stroke:#333
+style Lead fill:#fff,stroke:#333
+style Design fill:#fff,stroke:#333
 
 </div>
 

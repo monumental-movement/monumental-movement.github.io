@@ -19,7 +19,7 @@ title: '[Columna] Comunidad Fronteriza — Una comunidad de sonido que trasciend
 
 
 Texto: mmr｜Tema: Trazando la filosofía musical de “Border Community” establecida por James Holden y la trayectoria del sello que trasciende ese “límite”
-  
+
 El nombre Comunidad Fronteriza es más que una simple etiqueta.
 Fue una declaración de "una comunidad conectada a través de la música" y un deseo de "trascender los géneros y estructuras comerciales existentes".
 
@@ -30,7 +30,7 @@ En él, James Holden exploraba sonidos que van y vienen entre melodía y ruido, 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -146,14 +146,14 @@ El viaje del sonido que trasciende fronteras aún no ha terminado.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A2001["2001: Se estrena "A Break in the Clouds" de James Holden"] --> B2003["2003: Se establece la comunidad fronteriza"]
-B2003 --> C2004["2004: Lanzamiento de ``The Sky Was Pink'' de Nathan Fake"]
-C2004 --> D2006["2006: Lanzamiento del EP debut de Luke Abbott"]
-D2006 --> E2009["2009: Lanzamiento de "Ideas del estanque" de Petar Dundov"]
-E2009 --> F2013["2013: El nuevo capítulo de Holden con 'Los herederos'"]
-F2013 --> G2017["2017: Se forma Holden & The Animal Spirits"]
-G2017 --> H2020["2020: La estética fronteriza reevaluada en un contexto post-club"]
+flowchart TD
+    A2001["2001: Lanzamiento de "A Break in the Clouds" de James Holden"] --> B2003["2003: Establecimiento de la Comunidad Fronteriza"]
+    B2003 --> C2004["2004: Lanzamiento de 'The Sky Was Pink' de Nathan Fake"]
+    C2004 --> D2006["2006: Lanzamiento del EP debut de Luke Abbott"]
+    D2006 --> E2009["2009: Lanzamiento de "Ideas del estanque" de Petar Dundov"]
+    E2009 --> F2013["2013: El nuevo capítulo de Holden con 'The Inheritors'"]
+    F2013 --> G2017["2017: se forman Holden & The Animal Spirits"]
+    G2017 --> H2020["2020: La estética fronteriza reevaluada en un contexto post-club"]
 
  </div>
 
@@ -162,13 +162,13 @@ G2017 --> H2020["2020: La estética fronteriza reevaluada en un contexto post-cl
 ### Discografía de la Comunidad Fronteriza (obras principales)
 
 
-| アーティスト        | タイトル                        | 年    | リンク                                                    |
-| ------------- | --------------------------- | ---- | ------------------------------------------------------------ |
-| James Holden  | *The Inheritors*            | 2013 | [Amazon](https://amzn.to/4nrQ5RL)             |
-| Nathan Fake   | *Drowning in a Sea of Love* | 2006 | [Amazon](https://amzn.to/47ymxvR)             |
-| Luke Abbott   | *Holkham Drones*            | 2010 | [Amazon](https://amzn.to/478NuFT)             |
-| Petar Dundov  | *Ideas from the Pond*       | 2012 | [Amazon](https://amzn.to/46V6eKr)             |
-| The MFA       | *Motherload EP*             | 2003 | [Discogs](https://www.discogs.com/release/301896-The-MFA-Motherload-Sphinx?srsltid=AfmBOoojILr1JPVK9jvzSVZgvlRjr2Ki5eL7v-oTwCmRxDnrgdBGbniO) |
-| Ricardo Tobar | *Treillis*                  | 2013 | [Amazon](https://amzn.to/4hmJ0As)             |
+| Artista | Título | Año | Enlace |
+| ------------- | --------------------------- | ---- | ------------------------------------------------------ |
+| James Holden | *Los Herederos* | 2013 | [Amazon](https://amzn.to/4nrQ5RL) |
+| Natán falso | *Ahogándose en un Mar de Amor* | 2006 | [Amazon](https://amzn.to/47ymxvR) |
+| Lucas Abbott | *Drones Holkham* | 2010 | [Amazon](https://amzn.to/478NuFT) |
+| Petar Dundov | *Ideas del estanque* | 2012 | [Amazon](https://amzn.to/46V6eKr) |
+| El Ministerio de Asuntos Exteriores | *EP de carga madre* | 2003 | [Discogs](https://www.discogs.com/release/301896-The-MFA-Motherload-Sphinx?srsltid=AfmBOoojILr1JPVK9jvzSVZgvlRjr2Ki5eL7v-oTwCmRxDnrgdBGbniO) |
+| Ricardo Tobar | *Treillis* | 2013 | [Amazon](https://amzn.to/4hmJ0As) |
 
 

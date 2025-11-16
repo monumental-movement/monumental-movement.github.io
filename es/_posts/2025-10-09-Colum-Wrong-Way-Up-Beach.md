@@ -29,7 +29,7 @@ El paraíso ya no es un lugar, sino una proyección de la mente.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El milagro de la colaboración: Eno y Cale, la intersección de dos cerebros
@@ -75,12 +75,12 @@ Por ejemplo, "Spinning Away" es una mezcla perfecta de sentimientos flotantes y 
 > Con mi lápiz convirtiendo momentos en líneas…”
 
 La melodía es como un "esbozo de memoria".
-Este álbum fue un precursor del "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
+Este álbum fue un precursor del movimiento "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
 La "falsa ascensión" puede referirse al camino que tomamos en lo que creemos que es el camino correcto.
 
 ---
 
-## Capítulo 3: “La Playa”—Una historia del colapso de una utopía en la era digital
+## Capítulo 3: “La Playa”: una historia del colapso de una utopía en la era digital
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqDoxUxpobg?si=YFA4A7iZT9YZtY_q" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -141,7 +141,7 @@ La "falsa ascensión" es ahora una metáfora de la civilización.
 El álbum de Eno & Cale tenía una premonición de "música después de renunciar al paraíso".
 La melodía pregunta en voz baja. "Si no puedes encontrar el paraíso, constrúyelo en la música".
 
-El momento al final de "The Beach" cuando Richard mira la pantalla de su computadora con una sonrisa en su rostro.
+El momento al final de "La Playa" cuando Richard mira fijamente la pantalla de su computadora con una sonrisa en su rostro.
 Ya no hay luces tropicales ni sueños de comunidad.
 Sin embargo, las "reverberaciones de sonidos lejanos" permanecen en su corazón.
 
@@ -162,25 +162,25 @@ Y en nuestros corazones seguimos dibujando silenciosamente una **playa invisible
 
 ## Apéndice: Discografía relacionada
 
-| アーティスト／作品 | 年 | 備考 | リンク |
+| Artista/Obra | Año | Notas | Enlace |
 |------------------|----|--------------|
-| Brian Eno & John Cale – *Wrong Way Up* | 1990 | コラボアルバム。人間的旋律と電子的透明さの融合。 | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y transparencia electrónica. | [Amazon](https://amzn.to/48mDETk) |
 | La Playa (Banda Sonora) | 2000 | Participan Moby, All Saints, Faithless y más. Música del mar y la soledad. | [Amazon](https://amzn.to/47mrub1)
 
 ---
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1989["1989: Eno y Cale comienzan a colaborar en Londres"]
-A1990["1990: Lanzamiento del álbum "Wrong Way Up""]
-A1991["1991: La canción grabada "Spinning Away" ha sido elogiada"]
-A1993["1993: Eno amplía su trabajo de producción con 'Zooropa' de U2"]
-A1995["1995: Cale lanza nuevamente un trabajo experimental en solitario"]
-A1999["1999: Rodaje de la película "The Beach" (Koh Phi Phi, Tailandia)"]
-A2000["2000: Lanzamiento de 'The Beach'. Las canciones de Moby y All Saints se convirtieron en un tema candente"]
+flowchart TD
+    A1989["1989: Eno y Cale comienzan a colaborar en Londres"]
+    A1990["1990: Lanzamiento del álbum 'Wrong Way Up'"]
+    A1991["1991: Se elogió la canción ``Spinning Away''".]
+    A1993["1993: Eno amplía su trabajo de producción con 'Zooropa' de U2"]
+    A1995["1995: Cale lanza nuevamente un trabajo experimental en solitario"]
+    A1999["1999: Rodaje de la película "The Beach" (Koh Phi Phi, Tailandia)"]
+    A2000["2000: Se lanza ``The Beach''. Las canciones de Moby y All Saints se convirtieron en un tema candente".]
 
-A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
+    A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
 
 
 </div>

@@ -33,7 +33,7 @@ Lo seguiremos desde las perspectivas de la historia, la ideología, la tecnolog�
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -44,7 +44,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 Nacimiento del sistema de sonido (décadas de 1940-1960)
@@ -55,11 +55,11 @@ En la Jamaica de la posguerra, los propietarios de tiendas de discos y los jóve
 
 Un sistema inicial típico es:
 
-| オペレーター | 名称 | 活動時期 | 特徴 |
-|---------------|------|-----------|------|
-| トム・ザ・グレート・セバスチャン | Tom the Great Sebastian | 1950s | ジャズやR&B中心。最初期の「移動式」システム |
-| デューク・リード | Duke Reid the Trojan | 1950s〜60s | 銃を持つ警察上がりの名オペレーター。後にTreasure Isle設立 |
-| クレメント・“コックスソン”・ドッド | Sir Coxsone Downbeat | 1950s〜 | Studio Oneの前身。スカ時代を牽引 |
+| Operador | Nombre | Periodo de actividad | Características |
+|------|------|------------|------|
+| Tom el Gran Sebastián | Década de 1950 | Principalmente jazz y R&B. Los primeros sistemas “móviles” |
+| Duque Reid | Duque Reid el troyano | Décadas de 1950 y 1960 | Un famoso operador armado que se graduó en la policía. Posteriormente se fundó Treasure Isle |
+| Clemente “Coxsone” Dodd | Sir Coxsone pesimista | Década de 1950 ~ | Antiguo Estudio Uno. Liderando la era del ska |
 
 ### ▪ Economía local y comunidad
 
@@ -92,11 +92,11 @@ Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y 
 En 1985, **`Under Mi Sleng Teng''** de Wayne Smith cambió todo.
 Se dice que esta canción, que utiliza los ajustes preestablecidos de ritmo del Casio MT-40, es el primer reggae completamente digital de la historia y, a partir de entonces, el "dancehall digital" se convirtió en algo común.
 
-| 年 | 代表曲 | アーティスト | 備考 |
+| Año | Canción representativa | Artista | Notas |
 |----|--------|---------------|------|
-| 1985 | Under Mi Sleng Teng | Wayne Smith | 世界初のデジタルリディム |
-| 1986 | Punanny | Admiral Bailey | “Slackness”の象徴 |
-| 1990 | Dem Bow | Shabba Ranks | 後にレゲトンの基礎リズムとなる |
+| 1985 | Bajo Mi Sleng Teng | Wayne Smith | El primer riddim digital del mundo |
+| 1986 | punanny | Almirante Bailey | Símbolo de “holgura” |
+| 1990 | Arco demócrata | Rangos de Shaba | Más tarde se convertirá en el ritmo básico del reggaetón |
 
 ### ▪ MC (Deejay) toma protagonismo
 
@@ -156,24 +156,24 @@ Principales jugadores japoneses:
 ### ▪ Espíritu DIY y herencia moderna
 
 En los últimos años, se ha cruzado con el dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** y otros están actualmente activos.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** están actualmente activos.
 La raíz de esto es la filosofía del sistema de sonido de "producir nuestros propios sonidos con nuestras propias manos".
 
 ---
 
 ## Cronología: La evolución de los sistemas de sonido y el dancehall
 
-| 年代 | 出来事 | キーパーソン |
+| Años | Eventos | Personas clave |
 |------|----------|----------------|
-| 1940s | サウンドシステム文化誕生 | Tom the Great Sebastian |
-| 1950s | Duke Reid, Coxsone活動開始 | Duke Reid, Coxsone Dodd |
-| 1960s | スカ→ロックステディ→レゲエへ | The Skatalites |
-| 1970s | Dub誕生、ラスタ思想浸透 | King Tubby, Lee Perry |
-| 1980s | デジタル革命、「Sleng Teng」 | Wayne Smith |
-| 1990s | ダンスホール黄金期、Mighty Crown登場 | Shabba Ranks, Beenie Man |
-| 2000s | 世界的ポップ化 | Sean Paul, Elephant Man |
-| 2010s | Global Dancehall / Reggaeton時代 | Popcaan, Drake |
-| 2020s | ローカルDIYサウンド台頭 | Mura Masa System 他 |
+| Década de 1940 | Nacimiento de la cultura del sistema de sonido | Tom el Gran Sebastián |
+| Década de 1950 | Comienza Duke Reid y Coxsone | Duque Reid, Coxsone Dodd |
+| Década de 1960 | Ska → Rocksteady → Reggae | Los Skatalitas |
+| Década de 1970 | Nacimiento del Dub, penetración de la ideología rasta | Rey Tubby, Lee Perry |
+| Década de 1980 | Revolución digital, “Sleng Teng” | Wayne Smith |
+| Década de 1990 | La edad de oro del Dancehall, emerge Mighty Crown | Rangos de Shabba, Beenie Man |
+| Años 2000 | Pop mundial | Sean Paul, el hombre elefante |
+| Década de 2010 | Era global del Dancehall/Reguetón | Popcaan, Drake |
+| Años 2020 | Aumento del sonido local DIY | Sistema Mura Masa y otros |
 
 ---
 
@@ -181,19 +181,19 @@ La raíz de esto es la filosofía del sistema de sonido de "producir nuestros pr
 
 <div class="mermaid">
 
-gráfico TD
-A["Sistema de sonido\n(década de 1940)"] --> B["Ska\n(década de 1960)"]
-B --> C["Reggae/Dub\n(década de 1970)"]
-C --> D["Dancehall\n(década de 1980)"]
-D --> E["Dancehall global\n(década de 2000)"]
-E --> F["Reguetón / Afrobeats\n(década de 2010〜)"]
-D --> G["Cultura del sistema de sonido japonés\n(década de 1990~)"]
+graph TD
+A["Sound System\n(1940s)"] --> B["Ska\n(1960s)"]
+B --> C["Reggae / Dub\n(1970s)"]
+C --> D["Dancehall\n(1980s)"]
+D --> E["Global Dancehall\n(2000s)"]
+E --> F["Reggaeton / Afrobeats\n(2010s〜)"]
+D --> G["Cultura del sistema de sonido japonés\n(década de 1990 ~)"]
 
 </div>
 
 ---
 
-## Conclusión: ¿Hacia dónde se dirige el bajo?
+## Conclusión: ¿Adónde va el bajo?
 
 Un sistema de sonido es más que un simple equipo de audio.
 Es una infraestructura de autoexpresión y un símbolo de resistencia y solidaridad.
@@ -215,48 +215,48 @@ La música es una "memoria corporal" que se comparte a través de fronteras.
 
 <div class="mermaid">
 
-gráfico TD
-A["Cultura del sistema de sonido japonés<br/>(década de 1990~)"] --> B["Zona de Kanto"]
-A --> C["área de Kansai"]
-A --> D["Área Chubu/Tokai"]
-A --> E["Área de Kyushu/Okinawa"]
-A --> F["Área de Hokkaido/Tohoku"]
+graph TD
+    A["Cultura del sistema de sonido japonés<br/>(década de 1990 ~)"] --> B["Zona de Kanto"]
+    A --> C["Área de Kansai"]
+    A --> D["Zona Chubu/Tokai"]
+    A --> E["Área de Kyushu/Okinawa"]
+    A --> F["Área de Hokkaido/Tohoku"]
 
-%% Kanto
-B --> B1["Corona poderosa<br/>(Yokohama, 1991~)"]
-B --> B2["Infinito 16<br/>(Tokio, 1998〜)"]
-B --> B3["Mercado Rub-A-Dub / Campamento de bajo"]
-B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
+    %% Kantō
+    B --> B1["Mighty Crown<br/>(Yokohama, 1991〜)"]
+    B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
+    B --> B3["Rub-A-Dub Market / Bass Camp"]
+    B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
 
-%% Kansái
-C --> C1["Zettai-Mu<br/>(Metro de Osaka)"]
-C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
-C --> C3["Rudeboy Face / Ninja Man Japón"]
+    %% Kansái
+    C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
+    C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
+    C --> C3["Rudeboy Face / Ninja Man Japan"]
 
-%% Chubu/Tokai
-D --> D1["Quemar<br/>(Eje Nara-Nagoya)"]
-D --> D2["Scorpion Int'l / Nagoya King Bass"]
+    %% Chubu/Tokai
+    D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
+    D --> D2["Scorpion Int’l / Nagoya King Bass"]
 
-%% Kyushu/Okinawa
-E --> E1["Sistema Mura Masa<br/>(Okinawa, años 2000~)"]
-E --> E2["Rey Ryukyu / Tropixx"]
+    %% Kyushu/Okinawa
+    E --> E1["Mura Masa System<br/>(Okinawa, 2000s〜)"]
+    E --> E2["King Ryukyu / Tropixx"]
 
-%% Hokkaido/Tohoku
-F --> F1["Sonido de la Isla Norte<br/>(Sapporo)"]
-F --> F2["Sendai Sound Bash / Enlace local"]
+    %% Hokkaido/Tohoku
+    F --> F1["North Island Sound<br/>(Sapporo)"]
+    F --> F2["Sendai Sound Bash / Local Link"]
 
-relleno de estilo A:#ffccff,trazo:#333,ancho de trazo:2px
-relleno estilo B:#ffe6b3
-relleno estilo C:#ffd9b3
-relleno estilo D:#c2f0c2
-relleno estilo E:#b3e0ff
-relleno estilo F:#e0ccff
+    style A fill:#ffccff,stroke:#333,stroke-width:2px
+    style B fill:#ffe6b3
+    style C fill:#ffd9b3
+    style D fill:#c2f0c2
+    style E fill:#b3e0ff
+    style F fill:#e0ccff
 
 
 </div>
 
 Este diagrama muestra la red de culturas de sistemas de sonido independientes formadas por región.
-Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = conexión directa con las calles'' y ``Okinawa = el punto de conexión entre el Caribe y Asia''.
+Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = Conexión directa a las calles'' y ``Okinawa = Punto de conexión entre el Caribe y Asia''.
 
 ---
 
@@ -265,22 +265,22 @@ Las siguientes características son claras: ``Yokohama = orientación internacio
 
 <div class="mermaid">
 
-gráfico LR
-A["Década de 1950<br/>Caja de altavoz hecha a mano<br/>(Era de amplificadores de válvulas)"] --> B["Década de 1960<br/>Mueble tipo bocina"]
-B --> C["Década de 1970<br/>Sistema de apilamiento de 4 direcciones"]
-C --> D["años 80<br/>Mezclador digital + preamplificador"]
-D --> E["Década de 1990<br/>Procesador + amplificador activo"]
-E --> F["década de 2000<br/>Configuración de tarjeta de sonido/crossover basada en PC"]
-F --> G["década de 2020<br/>DIY DSP + potencia clase D"]
+graph LR
+    A["Década de 1950<br/>Caja de altavoz hecha a mano<br/>(Era de los amplificadores de válvulas)"] --> B["1960s<br/>Horn Type Cabinet"]
+    B --> C["1970s<br/>4-Way Stack System"]
+    C --> D["1980s<br/>Digital Mixer + Preamp"]
+    D --> E["1990s<br/>Processor + Active Amp"]
+    E --> F["2000s<br/>PC-based Crossover / Soundcard Setup"]
+    F --> G["2020s<br/>DIY DSP + Class-D Power"]
 
-A --> AA["Tom el Gran Sebastián<br/>(Primer sistema de megafonía)"]
-B --> AB["King Tubby<br/>Tecnología de amplificador casera"]
-C --> AC["Sistema de sonido de canal uno<br/>Revolución de 4 vías"]
-D --> AD["Escuela de doblaje del Reino Unido<br/>Jah Shaka / Aba Shanti"]
-F --> AE["Constructores japoneses de bricolaje<br/>Mura Masa / Tokyo Dub Attack"]
+    A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
+    B --> AB["King Tubby<br/>Tecnología de amplificador casera"]
+    C --> AC["Channel One Sound System<br/>4-Way Revolution"]
+    D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
+    F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]
 
-relleno de estilo A:#ffcc00,trazo:#333,ancho de trazo:2px
-relleno de estilo G:#a3f0a3,trazo:#333,ancho de trazo:2px
+    style A fill:#ffcc00,stroke:#333,stroke-width:2px
+    style G fill:#a3f0a3,stroke:#333,stroke-width:2px
 
 </div>
 
@@ -296,27 +296,27 @@ Desde válvulas de vacío analógicas hasta control DSP, el espíritu de "crear 
 
 <div class="mermaid">
 
-gráfico TD
-A["Cultura del sistema de sonido<br/>(Jamaica 1940s~)"] --> B["Dub / Reggae<br/>(1970s)"]
-B --> C["Dancehall<br/>(década de 1980)"]
-B --> D["Hip-Hop<br/>(Nueva York años 70~)"]
-C --> E["Reguetón<br/>(Puerto Rico años 1990〜)"]
-C --> F["Afrobeats<br/>(Nigeria años 2000~)"]
-B --> G["Dub Techno / Ambient<br/>(Berlín 1990~)"]
-F --> H["K-POP Dancehall híbrido<br/>(década de 2020)"]
-C --> I["Escena del reggae japonés<br/>(década de 1990~)"]
-G --> J["Festivales de Electrónica / Arte Sonoro<br/>(Europa / Japón 2000〜)"]
+graph TD
+    A["Sound System Culture<br/>(Jamaica 1940s〜)"] --> B["Dub / Reggae<br/>(1970s)"]
+    B --> C["Dancehall<br/>(1980s)"]
+    B --> D["Hip-Hop<br/>(NY 1970s〜)"]
+    C --> E["Reggaeton<br/>(Puerto Rico 1990s〜)"]
+    C --> F["Afrobeats<br/>(Nigeria 2000s〜)"]
+    B --> G["Dub Techno / Ambient<br/>(Berlin 1990s〜)"]
+    F --> H["K-POP Dancehall Hybrid<br/>(2020s)"]
+    C --> I["Japanese Reggae Scene<br/>(1990s〜)"]
+    G --> J["Electronic Festivals / Sound Art<br/>(Europe / Japan 2000s〜)"]
 
-D --> C
-mi -> F
-Yo -> J
-G --> yo
+    D --> C
+    E --> F
+    I --> J
+    G --> I
 
-relleno de estilo A:#ffd966,trazo:#333,ancho de trazo:2px
-relleno de estilo C:#ffccff,trazo:#333,ancho de trazo:2px
-estilo que relleno:#f6baff,trazo:#333,ancho de trazo:2px
-relleno de estilo G:#ccf2ff,trazo:#333,ancho de trazo:1.5px
-relleno de estilo F:#d9f2c2,trazo:#333,ancho de trazo:1.5px
+    style A fill:#ffd966,stroke:#333,stroke-width:2px
+    style C fill:#ffccff,stroke:#333,stroke-width:2px
+    style I fill:#f6baff,stroke:#333,stroke-width:2px
+    style G fill:#ccf2ff,stroke:#333,stroke-width:1.5px
+    style F fill:#d9f2c2,stroke:#333,stroke-width:1.5px
 
 
 </div>

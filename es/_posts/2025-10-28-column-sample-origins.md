@@ -23,7 +23,7 @@ El muestreo es una tecnología que encarna más directamente la "cita" y la "rec
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 #### 1. Los Winston – “Amén, hermano” (1969)
@@ -86,7 +86,7 @@ El falsete de Curtis es un mensaje eterno de la "música negra en evolución".
 ---
 
 #### 7. Bob James – “Llévame al Mardi Gras” (1975)
-El sonido de cencerro y campana de la batería era distintivo y le encantó a Run-D.M.C., Beastie Boys, Eric B. & Rakim y otros.
+El sonido de cencerro y campana de la batería era distintivo y adorado por Run-D.M.C., Beastie Boys, Eric B. & Rakim y otros.
 Bob James es un símbolo del smooth jazz, y el "hard break" que produjo esta canción fue divinizado en la cultura del sampleo de los años 1990.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -141,7 +141,7 @@ El ritmo suave tiene un nivel de perfección que parece como si hubiera sido esc
 ---
 
 #### 14. Montaña – “Largo rojo” (1972)
-El canto "¡Sabes a lo que me refiero!" Fue utilizado frecuentemente por Public Enemy y De La Soul durante presentaciones en vivo.
+El canto "¡Sabes a lo que me refiero!" Fue utilizado a menudo por Public Enemy y De La Soul durante presentaciones en vivo.
 Este es un gran ejemplo de cómo una simple canción de rock se convierte en una "parte" de hip-hop a través del muestreo vocal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -194,15 +194,15 @@ Utilizado por The Roots, Eric B. & Rakim, Arrested Development y más. La transp
 
 ### Cronología: Historia evolutiva del muestreo.
 
-| 年代 | 出来事 |
+| Años | Eventos |
 |------|---------|
-| 1960s | ソウル／ファンクの録音技術が発展。ドラムブレイク文化の萌芽。 |
-| 1973 | Kool Hercがブロックパーティで「Apache」を二枚使い。ヒップホップ誕生。 |
-| 1984 | Run-D.M.C.が初の商業的サンプリング・ヒットを達成。 |
-| 1989 | Public Enemy『Fear of a Black Planet』で多重サンプリング技法が確立。 |
-| 1994 | Wu-Tang Clan、RZAの“ノイズ・サンプリング”が新潮流を生む。 |
-| 2000s | Daft Punk、Kanye Westがソウルサンプルをポップ化。 |
-| 2020s | AIサンプリングと著作権問題の新時代へ。 |
+| Década de 1960 | Se desarrolla la tecnología de grabación de soul/funk. La incipiente cultura del drum break. |
+| 1973 | Kool Herc pone dos copias de "Apache" en una fiesta de barrio. Nacimiento del hip hop. |
+| 1984 | Ejecutar-D.M.C. logra el primer éxito de muestreo comercial. |
+| 1989 | "Fear of a Black Planet" de Public Enemy establece múltiples técnicas de muestreo. |
+| 1994 | Wu-Tang Clan, el "muestreo de ruido" de RZA crea una nueva tendencia. |
+| Años 2000 | Daft Punk y Kanye West convierten samples de soul en pop. |
+| Años 2020 | Hacia una nueva era de muestreo de IA y cuestiones de derechos de autor. |
 
 ---
 
@@ -210,12 +210,12 @@ Utilizado por The Roots, Eric B. & Rakim, Arrested Development y más. La transp
 
 <div class="mermaid">
 
-gráfico TD
-A["1969: Amén, hermano"] --> B["Baterista funky de los años 70"]
-B --> C["Edad de oro del hip-hop de los 80"]
-C --> D["Muestreo de alma de los años 90"]
-D --> E["Renacimiento digital de la década de 2000"]
-E --> F["Era de muestreo de IA de la década de 2020"]
+graph TD
+A["1969: Amen, Brother"] --> B["1970s Funky Drummer"]
+B --> C["1980s Hip-Hop Golden Age"]
+C --> D["1990s Soul Sampling"]
+D --> E["2000s Digital Revival"]
+E --> F["2020s AI Sampling Era"]
 
 </div>
 

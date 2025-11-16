@@ -42,7 +42,7 @@ A continuación, repasaremos la historia de Shoegaze por década e introduciremo
 
 ### 10 canciones recomendadas (década de 1980)
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -53,21 +53,21 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| You Made Me Realise | My Bloody Valentine | ノイズと甘美なメロディの融合 |
-| Soon | My Bloody Valentine | 後のシューゲイズ像を決定づけた名曲 |
-| Lorelei | Cocteau Twins | ドリーミーな質感の先駆け |
-| Just Like Honey | The Jesus and Mary Chain | 甘美なメロと轟音の原型 |
-| Primitive Painters | Felt | 英国インディーと耽美性の融合 |
-| Vapour Trail | Ride | 荘厳なストリングスと轟音 |
-| Taste | Ride | 初期ライドの象徴的ナンバー |
-| Deeper Than Holy | Lush | 女性ボーカル×轟音の原点 |
-| Nothing Much to Lose | The House of Love | 美旋律とフィードバック |
-| Upside Down | The Jesus and Mary Chain | ノイズポップの金字塔 |
+| Me hiciste darme cuenta | Mi San Valentín Sangriento | Fusión de ruido y dulce melodía |
+| Pronto | Mi San Valentín Sangriento | Una obra maestra que definió la imagen futura del shoegaze |
+| Lorelei | Gemelos Cocteau | Pionero de texturas de ensueño |
+| Como la miel | La Cadena de Jesús y María | El prototipo de dulce melodía y rugido |
+| Pintores primitivos | Fieltro | Una fusión de indie británico y estética |
+| Estela de vapor | Paseo | Cuerdas majestuosas y rugido |
+| Sabor | Paseo | Números icónicos de los primeros viajes |
+| Más profundo que lo sagrado | Exuberante | El origen de la voz femenina y el rugido |
+| No hay mucho que perder | La Casa del Amor | Hermosa melodía y comentarios |
+| Al revés | La Cadena de Jesús y María | Monumento al ruido pop |
 
 ---
 
@@ -78,7 +78,7 @@ color: #fff;
 - Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
 ### Obra maestra representativa
-- [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
+- [Mi San Valentín Sangriento – *Sin amor* (1991)](https://amzn.to/3Kijvne)
 - [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
 
@@ -89,18 +89,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (década de 1990)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| Only Shallow | My Bloody Valentine | ジャンルを決定づけた轟音ポップ |
-| When the Sun Hits | Slowdive | 美しい浮遊感の象徴 |
-| Alison | Slowdive | 儚く透明な名バラード |
-| Vapour Trail | Ride | 弦楽器アレンジとドリーム感 |
-| Leave Them All Behind | Ride | プログレ的展開を持つ大作 |
-| De-Luxe | Lush | 軽やかで鮮烈なギターノイズ |
-| Desire Lines | Lush | 奥行きあるサウンドスケープ |
-| Blindfold | Curve | エレクトロ要素を取り入れた先駆 |
-| Cherry-Coloured Funk | Cocteau Twins | ドリームポップとの交錯 |
-| Sometimes | My Bloody Valentine | シューゲイズの核心を突く楽曲 |
+| Sólo superficial | Mi San Valentín Sangriento | Pop rugiente que definió el género |
+| Cuando el sol golpea | Inmersión lenta | Un símbolo de una hermosa sensación de flotar |
+| Alison | Inmersión lenta | Una famosa balada fugaz y transparente |
+| Estela de vapor | Paseo | Arreglo de instrumentos de cuerda y sentimiento de ensueño |
+| Déjalos a todos atrás | Paseo | Una obra maestra con desarrollos de rock progresivo |
+| Lujo | Exuberante | Ruido de guitarra ligero y vívido |
+| Líneas de deseo | Exuberante | Paisaje sonoro profundo |
+| Con los ojos vendados | Curva | Un pionero que incorpora elementos electro |
+| Funk color cereza | Gemelos Cocteau | Intersección con Dream Pop |
+| A veces | Mi San Valentín Sangriento | Canciones que llegan al corazón del shoegaze |
 
 ---
 
@@ -122,18 +122,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (años 2000)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| Run Into Flowers | M83 | ドリームと轟音の融合 |
-| America | Asobi Seksu | 日本的叙情とシューゲイズの邂逅 |
-| Thursday | Asobi Seksu | 美しい旋律と爆発する轟音 |
-| Nothing Ever Happened | Deerhunter | ノイズと反復のマジック |
-| Heatherwood | M83 | 幽玄なアンビエンス |
-| Dreams Burn Down (Live) | Ride | リバイバル時期の象徴的演奏 |
-| Goodbye | Ulrich Schnauss | エレクトロ・シューゲイズの代表格 |
-| When I'm Small | Phantogram | エレクトロとドリームの交差 |
-| Another Space Song | Failure | US的オルタナと轟音の融合 |
-| Sometimes Always | JAMC & Hope Sandoval | ノイズとポップの境界線 |
+| Corre hacia las flores | M83 | Fusión de sueños y rugido |
+| América | Asobi Seksu | Un encuentro entre el lirismo japonés y el shoegaze |
+| jueves | Asobi Seksu | Hermosa melodía y rugido explosivo |
+| Nunca pasó nada | Cazador de ciervos | La Magia del Ruido y la Repetición |
+| madera de brezo | M83 | Ambiente profundo |
+| Los sueños se queman (en vivo) | Paseo | Actuación icónica del período de resurgimiento |
+| Adiós | Ulrich Schnauss | Representante de electro shoegaze |
+| Cuando soy pequeño | Fantograma | Intersección de electro y sueño |
+| Otra canción espacial | Fracaso | Fusión de alternativa al estilo estadounidense y rugido |
+A veces | Siempre | JAMC y Esperanza Sandoval | La línea entre el ruido y el pop |
 
 ---
 
@@ -155,18 +155,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (década de 2010)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| How Long Have You Known | DIIV | ネオ・シューゲイズの旗手 |
-| Doused | DIIV | 疾走感と深いリバーブ |
-| Bent Nail | Nothing | 重厚な音の壁 |
-| Vertigo | Beach Fossils | インディーとドリームの融合 |
-| Imagine Hearts | Ringo Deathstarr | 爆音と甘美さの共存 |
-| Leave You Forever | Ringo Deathstarr | ライブ感溢れる轟音 |
-| Anxiety's Door | Merchandise | パンクとゲイズのミックス |
-| Lovebuzz (Cover) | Tame Impala | サイケとゲイズの交差 |
-| Blue Light | Wild Nothing | アンビエント感覚の夢幻 |
-| Ceremony (Live) | DIIV | シューゲイズとポストパンクの融合 |
+| ¿Cuánto hace que lo sabes? DIV | Abanderado del neo-shoegaze |
+| Empapado | DIV | Sensación acelerada y reverberación profunda |
+| Clavo doblado | Nada | Pesado muro de sonido |
+| Vértigo | Fósiles de playa | Fusión de indie y sueño |
+| Imagina Corazones | Ringo Estrella de la Muerte | Convivencia de explosión y dulzura |
+| Dejarte para siempre | Ringo Estrella de la Muerte | Sonido rugiente lleno de sensación de vivir |
+| La puerta de la ansiedad | Mercancía | Mezcla de Punk y Mirada |
+| Lovebuzz (Portada) | Impala domesticado | Intersección de psicología y mirada |
+| Luz azul | Nada salvaje | Paisaje onírico ambiental |
+| Ceremonia (En Vivo) | DIV | Fusión de shoegaze y post-punk |
 
 ---
 
@@ -174,7 +174,7 @@ color: #fff;
 ### Antecedentes históricos
 - La reevaluación se está acelerando en todo el mundo.
 - También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
-- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del pop urbano japonés.
+- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
 
 ### Obra maestra representativa
 - [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
@@ -188,18 +188,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (década de 2020)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| Famine Asylum | Nothing | 現代的で重厚な轟音 |
-| Catch The Breeze (Rework) | Slowdive | 新生Slowdiveの象徴 |
-| Kisses | Slowdive | 透明感ある旋律美 |
-| Say Less | Nothing | ダークで圧倒的な音の壁 |
-| Don’t Fade | Ringo Deathstarr | リフレッシュされた轟音美 |
-| Dreaming the Dark | Tamaryn | 現代的なドリーム・ゲイズ |
-| For the Guilty | Blankenberge | ロシア発の新世代 |
-| Aphasia | Holy Fawn | ブラックゲイズの拡張 |
-| Desires | DIIV | ネオ・ゲイズの深化 |
-| Shimmer | Whirr | 重厚で深淵なサウンド |
+| Asilo contra el hambre | Nada | Rugido moderno y profundo |
+| Atrapa la brisa (reelaboración) | Inmersión lenta | Símbolo del nuevo Slowdive |
+| Besos | Inmersión lenta | Belleza melódica transparente |
+| Di menos | Nada | Muro de sonido oscuro y abrumador |
+| No se desvanezca | Ringo Estrella de la Muerte | Belleza rugiente renovada |
+| Soñando la oscuridad | Tamarina | Mirada de ensueño moderna |
+| Para los culpables | Blankenberge | Nueva generación de Rusia |
+| Afasia | Santo Cervatillo | Expansión Mirada Negra |
+| Deseos | DIV | Profundización de Neo-Mirada |
+| Brillo | Zumbido | Sonido pesado y profundo |
 
 ---
 

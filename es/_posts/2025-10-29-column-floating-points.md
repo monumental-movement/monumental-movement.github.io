@@ -25,7 +25,7 @@ El "diseño de sonido preciso" y la "improvisación orgánica" que caracterizan 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -84,11 +84,11 @@ A continuación se muestra un modelo abstracto que representa la estructura acú
 
 <div class="mermaid">
 
-gráfico TD
-A["Espectro de frecuencia"] --> B["Formación de espacio por interferencia armónica"]
-B --> C["Presión dinámica"]
-C --> D["Camino de improvisación"]
-D --> E["Expansión científica del jazz ambiental"]
+graph TD
+    A["Espectro de frecuencia"] --> B["Formación del espacio por interferencia de armónicos"]
+    B --> C["Presión dinámica"]
+    C --> D["Camino de la improvisación"]
+    D --> E["Expansión científica del jazz ambiental"]
 
 
 </div>
@@ -116,16 +116,16 @@ El jazz ambiental se ha transformado de una música de emoción a una música de
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de coma flotante (2009-2025)
-2009: Lanzamiento del EP debut “Vacuum Boogie”. Atención en la escena de discotecas de Londres.
-2011: Cofundador de Eglo Records. Periodo de fusión alma-electrónica.
-2015: Se anuncia “Elaenia”. Se elogia el diseño acústico de la estructura modular.
-2017: Organizado en vivo como Floating Points Ensemble. Carácter de jazz ampliado.
-2019: lanzamiento de “Crush”. Densa improvisación a cargo de Eurorack.
-2021: “Promises” (con Pharoah Sanders y LSO) combina espiritualidad y ciencia.
-2023: Se llevará a cabo la exposición colaborativa “Light Patterns” con acústica contemporánea.
-2025: Se informa que el nuevo trabajo "Biología espectral (título provisional)" está en producción.
+timeline
+    title Floating Points 年表（2009–2025）
+    2009 : デビューEP『Vacuum Boogie』リリース。ロンドン・クラブシーンで注目。
+    2011 : Eglo Records共同設立。ソウル〜エレクトロニカ融合期。
+    2015 : 『Elaenia』発表。モジュラー構造の音響設計が評価される。
+    2017 : Floating Points Ensembleとしてライブ編成化。ジャズ性が拡張。
+    2019 : 『Crush』リリース。Eurorackによる高密度即興。
+    2021 : 『Promises』（with Pharoah Sanders & LSO）で精神性と科学が結合。
+    2023 : 現代音響学とのコラボ展示「Light Patterns」開催。
+    2025 : 新作「Spectral Biology（仮）」制作中と報道。
 
 </div>
 

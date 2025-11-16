@@ -14,7 +14,7 @@ title: Familia Newton – Don Quijote
 ---
 
 
-“Familia Newton – Don Quijote”
+“Familia Newton – Don Quijote” es
 Newton Family fue un grupo disco húngaro que estuvo activo desde mediados de los 70 hasta finales de los 80.
 
 #### Lista de canciones

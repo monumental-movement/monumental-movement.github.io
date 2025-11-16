@@ -31,7 +31,7 @@ Nació una nueva cultura de **fusión de música y tecnología**.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,13 +42,13 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 Registros y el aire de California
 
 Steve Jobs fue un producto de la contracultura de California de finales de los años 1960 y 1970.
-Muchas biografías confirman que admiraba a Bob Dylan y a los Beatles desde muy joven.
+Su admiración por Bob Dylan y los Beatles desde muy joven está confirmada por numerosas biografías.
 
 En la biografía de Walter Isaacson "Steve Jobs" (2011), su sala de estar tiene un **amplificador de válvulas y un tocadiscos**.
 Se dice que escuchaba todas las noches álbumes de Bob Dylan y Joan Baez.
@@ -135,16 +135,16 @@ De hecho, los une la filosofía de "liberar a las personas a través de la músi
 
 ## Capítulo 7 Cronología de diseño de los dos (relación entre productos principales y sonido)
 
-| 年 | 製品 | 主な設計者 | 音に関する特徴 |
+| Año | Productos | Diseñador principal | Funciones de sonido |
 |----|------|--------------|----------------|
-| 1998 | iMac G3 | Jony Ive | スピーカー一体型デザイン。音の「開放性」重視 |
-| 2000 | Power Mac G4 Cube | Jony Ive | ファンレス構造、無音の象徴 |
-| 2001 | iPod | Ive + Jobs | 「ポケットの中の音楽」革命 |
-| 2003 | iTunes Store | Jobs | 音楽配信ビジネスを刷新 |
-| 2004 | GarageBand | Apple | 音楽制作を一般化 |
-| 2007 | iPhone | Ive + Jobs | 音楽再生デバイスの統合 |
-| 2015 | Apple Music | Apple | ストリーミングへの転換点 |
-| 2023 | Linn Sondek LP12 LoveFrom Edition | LoveFrom | アナログ音響への回帰 |
+| 1998 | iMac G3 | Jony Ive | Diseño de altavoz integrado. Énfasis en la “apertura” del sonido |
+| 2000 | Cubo Power Mac G4 | Jony Ive | Estructura sin ventilador, símbolo del silencio |
+| 2001 | iPod | Ive + Empleos | Revolución “Música en tu bolsillo” |
+| 2003 | Tienda Itunes | Empleos | Renovando el negocio de distribución musical |
+| 2004 | Banda de garaje | manzana | Popularizando la producción musical |
+| 2007 | iPhone | Ive + Empleos | Integración de dispositivos de reproducción de música |
+| 2015 | Música de Apple | manzana | El punto de inflexión del streaming |
+| 2023 | Linn Sondek LP12 Edición LoveFrom | AmorDe | Volver al sonido analógico |
 
 ---
 

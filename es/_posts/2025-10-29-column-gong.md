@@ -25,7 +25,7 @@ Texto: mmr | Tema: Gong, la “comunidad cósmica” construida por David Allen 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Tabla de contenido
@@ -64,7 +64,7 @@ Gong nació justo en medio de esto. Antisistema, anarquía, mundo espiritual, cu
 
 > 🎵 Fuentes recomendadas: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
-El sonido de Gong fue una reacción química entre el caos social y las ideas utópicas espirituales.
+El sonido de Gong fue una reacción química entre el caos social y las ideas espirituales utópicas.
 
 ---
 
@@ -76,11 +76,11 @@ En París conoció a Gilli Smith y, a través de una serie de sesiones de improv
 Muchas leyendas rodean el nacimiento del Gong, incluidas sesiones en cuevas y espectáculos de protesta con ositos de peluche.
 Su base de actividad no era sólo una banda, sino una "comuna anárquica" de sonido e ideología.
 
-| 年 | 逸話・事件 |
+| Año | Anécdota/Incidente |
 | :-- | :-- |
-| 1967 | パリ五月革命の高揚期、アレン渡仏・亡命 |
-| 1968 | 「テディベア事件」――警官にぬいぐるみを投げる |
-| 1969 | *Magick Brother* 制作・初ライブ |
+| 1967 | En plena Revolución de Mayo de París, Allen viaja a Francia y se exilia |
+| 1968 | "Incidente del osito de peluche": animal de peluche arrojado a la policía |
+| 1969 | *Producción de Magick Brother* y primera presentación en vivo |
 
 *Personajes*: **Zero the Hero** (viajero), **Octave Doctor** (científico del sonido)
 
@@ -114,11 +114,11 @@ Una trilogía estrenada entre 1973 y 1974.
 
 Estos no son sólo álbumes, sino epopeyas mitológicas del "Planeta Gong". Tomando la forma de una transmisión de radio, aparecen Zero the Hero y Pot Head Pixies, y se representa el viaje a través del espacio y la conciencia.
 
-| キャラ | 特徴 |
+|Personaje |Características |
 | :-- | :-- |
-| Zero the Hero | 地球とGong惑星を行き来する旅人 |
-| Pot Head Pixies | 幸福と混沌の精霊 |
-| Octave Doctor | 音と秩序を操る科学者 |
+| Cero el héroe | Un viajero que viaja entre la Tierra y el planeta Gong |
+| Duendecillos con cabeza de maceta | Espíritus de felicidad y caos |
+| Doctor Octava | Científico que manipula el sonido y el orden |
 
 > “Soy tu gnomo de radio, directo desde el planeta Gong...”
 
@@ -133,7 +133,7 @@ Allí, la grabación, la improvisación, el diálogo filosófico, el vegetariani
 
 Los miembros iban y venían rápidamente y la estructura sonora era tan fluida como su estructura.
 A pesar de esto, el "espíritu" de Gong permaneció.
-Esto se debe a que no eran "miembros fijos", sino que existían como una **visión compartida**.
+Esto se debe a que no eran "miembros fijos" sino que existían como una **visión compartida**.
 
 El gong era la forma ideal de "una vida de música" y "tocar como si la estuvieras viviendo".
 
@@ -174,14 +174,14 @@ A continuación se muestra un diagrama que muestra su estructura simbólica:
 
 <div class="mermaid">
 
-gráfico TD
-A["Zero el héroe"] --> B["Planeta Gong"]
-B --> C["Duendecillos cabeza de marihuana"]
-B --> D["Doctor de octava"]
-C --> E["Tetera voladora"]
-D --> F["Radio Gnomo"]
-E --> G["Oyentes en la Tierra"]
-G --> A
+graph TD
+    A["Zero the Hero"] --> B["Planet Gong"]
+    B --> C["Pot Head Pixies"]
+    B --> D["Octave Doctor"]
+    C --> E["Flying Teapot"]
+    D --> F["Radio Gnome"]
+    E --> G["Listeners on Earth"]
+    G --> A
 
 </div>
 
@@ -207,29 +207,29 @@ El gong se movía entre la realidad y el mito, y las anécdotas mismas eran part
 
 ## Capítulo 10 Cronología y figuras de referencia {#chapter10}
 
-| 年         | 主な出来事                         |
+| Año | Principales acontecimientos |
 | :-------- | :---------------------------- |
-| 1967      | パリで結成。アレン亡命                   |
-| 1969      | *Magick Brother* 制作・初ライブ      |
-| 1971      | *Camembert Electrique* 発表     |
-| 1973–74   | *Radio Gnome Trilogy* 完成      |
-| 1976      | *Pierre Moerlan’s Gong* 期開始   |
-| 1990–2015 | アレン復帰、再編ライブ                   |
-| 2016–     | *Rejoice! I'm Dead!* 発表・継続活動中 |
+| 1967 | Formado en París. Allen exilio |
+| 1969 | *Producción de Magick Brother* y primera presentación en vivo |
+| 1971 | *Camembert Electrique* Anuncio |
+| 1973–74 | *Trilogía de Radio Gnome* completada |
+| 1976 | *Comienza el período Gong* de Pierre Moerlan |
+| 1990–2015 | Allen regresa, reorganización en vivo |
+| 2016– | *¡Alegrarse! ¡Estoy muerto!* Actividades anunciadas y en curso |
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología del Gong
-1967: Formación en París
-1969: "Hermano mágico"
-1971: "Camembert Eléctrico"
-1973: "La tetera voladora"
-1974: "Tú"
-1976: Era de Moerlan
-1990: Reunión
-2015: La muerte de Allen
-2016: ¡Alégrate! ¡Estoy muerto!
+timeline
+    title Gong Chronology
+    1967 : Formation in Paris
+    1969 : "Magick Brother"
+    1971 : "Camembert Electrique"
+    1973 : "Flying Teapot"
+    1974 : "You"
+    1976 : Moerlan Era
+    1990 : Reunion
+    2015 : Allen's Death
+    2016 : Rejoice! I'm Dead!
 
 </div>
 
@@ -237,16 +237,16 @@ título Cronología del Gong
 
 ## Discografía principal
 
-| 年    | タイトル          | ジャンル／備考     | リンク       |
+| Año | Título | Género/Notas | Enlace |
 | ---- | -------------- | ------------- | -------------- |
-| 1969 | *Magick Brother*      | 初期＝サイケ・ジャズ／ロック融合    | [Amazon](https://amzn.to/4hCfA1g)  |
-| 1973 | *Flying Teapot*       | “ラジオ・ノーム三部作”第1作     | [Amazon](https://amzn.to/4oJGvup) |
-| 1973 | *Angel’s Egg*       | 三部作第2作   | [Amazon](https://amzn.to/4ntEdP0)       | 
-| 1974 | *You*              | 三部作第3作           | [Amazon](https://amzn.to/3WpzEdz) |
-| 2009 | *2032*        | 復活期・神話再考盤  | [Amazon](https://amzn.to/431WbAK)                    |
-| 2016 | *Rejoice! I'm Dead!*          | 創設者死去後の新章  | [Amazon](https://amzn.to/431YDHu)        |
-| 2019 | *The Universe Also Collapses* | 最新期スタジオ盤のひとつ  | [Amazon](https://amzn.to/3Ld2M5p)   |
-| 2022 | *Pulsing Signals*             | ライブ盤（2019録音） | [Amazon](https://amzn.to/435lx0J)  |
+| 1969 | *Hermano Mágico* | Temprano = fusión psicodélica/jazz/rock | [Amazon](https://amzn.to/4hCfA1g) |
+| 1973 | *Tetera voladora* | “Trilogía Radio Gnome” 1º | [Amazon](https://amzn.to/4oJGvup) |
+| 1973 | *Huevo de ángel* | 2da parte de la trilogía | [Amazon](https://amzn.to/4ntEdP0) |
+| 1974 | *Tú* | Tercera trilogía | [Amazon](https://amzn.to/3WpzEdz) |
+| 2009 | *2032* | Edición de revisión de avivamiento/mitología | [Amazon](https://amzn.to/431WbAK) |
+| 2016 | *¡Alegrarse! ¡Estoy muerto!* | Nuevo capítulo tras la muerte del fundador | [Amazon](https://amzn.to/431YDHu) |
+| 2019 | *El Universo también colapsa* | Uno de los últimos lanzamientos de estudio | [Amazon](https://amzn.to/3Ld2M5p) |
+| 2022 | *Señales pulsantes* | Versión en vivo (grabación de 2019) | [Amazon](https://amzn.to/435lx0J) |
 
 ---
 

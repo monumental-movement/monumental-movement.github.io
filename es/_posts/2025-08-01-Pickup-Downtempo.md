@@ -15,7 +15,7 @@ title: Recoge obras de ritmo lento
 
 Una extraordinaria colección de obras downtempo que envuelven tu corazón con ritmos profundos y ritmos suaves”.
 
-<hr>
+<hora>
 
 ### Ratón modesto / 764‑HERO: siempre que lo considere oportuno
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
@@ -37,7 +37,7 @@ B2. Whenever You See Fit (Sientific American Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FhVkJkOjiU?si=-XOGs3zBc2_iqlCI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 ### B.E.F. Logro. Green Gartside – No sé por qué te amo
@@ -59,7 +59,7 @@ B2. Family Affair (Plati Party Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Alovg32ZbQ?si=oP2TuMPFpnStQw-O" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Swing Out Sister - Formas y patrones
@@ -90,7 +90,7 @@ Suave jazz electrónico y soul, popular en Japón
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### White Light Circus – Órdenes de marcha
@@ -110,8 +110,8 @@ B. The Shot! (Dub Copy)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7P0PxTEuSLY?si=md9VAShG3YBHgjyJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
-<hr>
+<hora>
+<hora>
 
 
 ### Tommy Brown – Sentimientos (EP)

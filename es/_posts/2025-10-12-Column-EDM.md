@@ -19,7 +19,7 @@ title: '[Columna] La ilusión del EDM: Celebrando y reconstruyendo en la era dig
 ## Llega un momento en el que el sonido se convierte en arquitectura
 
 
-Texto: mmr｜Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
+Texto: mmr | Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
 
 Un destello de luz láser divide el cielo nocturno, el bajo se sacude profundamente dentro de su cuerpo e innumerables brazos se levantan al unísono.
 El fenómeno llamado "EDM" era más que un simple género musical, era una celebración de la era digital.
@@ -30,7 +30,7 @@ En esta columna, echaremos un vistazo al nacimiento, la transformación y el "m�
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Ⅰ. La EDM como edificio de luz y sonido.
@@ -77,7 +77,7 @@ En la década de 2010, el EDM ascendió al centro del pop. Los sueños subterrá
 Detrás del sonido hay una **revolución DAW y sintetizador**.
 Ableton Live, FL Studio, Logic Pro. Vivimos en una era en la que puedes componer música con solo una computadora portátil.
 "Massive" de Native Instruments, "Serum" de Xfer, "Sylenth1" de Lennar Digital.
-El resultado de estos acontecimientos fue la "conversión del sonido en un arma".
+Lo que estos esfuerzos dieron origen fue la "conversión del sonido en un arma".
 
 Especialmente compresión de cadena lateral.
 Ese “bombeo” único que hace que todo el cuerpo respire al mismo tiempo que la patada.
@@ -121,7 +121,7 @@ Logotipos, perfumes, NFT, auriculares: todos se han convertido en “industrias 
 ### Ⅵ. Ramificación y mutación: horizonte post-EDM
 
 Con el tiempo, las celebraciones empiezan a agotarse.
-La gente que estaba cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
+La gente cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
 
 “EDM introspectivo” demostrado por Porter Robinson y Madeon——
 No fue un festival, fue un sonido que trataba sobre emociones individuales.
@@ -188,16 +188,16 @@ Simplemente está cambiando de forma.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1990["1990: Rise of Techno/Trance (expansión de la escena de clubes europeos)"]
-A2000["2000: El nacimiento del Progressive House y el Electro House"]
-A2010["2010: Auge de la electroerosión en pleno apogeo (Avicii, Guetta, SHM)"]
-A2013["2013: Ultra Japón, Tomorrowland se convierte en un símbolo"]
-A2016["2016: EDM introspectivo de Porter Robinson y otros"]
-A2020["2020: El auge de los festivales virtuales durante la pandemia"]
-A2025["2025: música generada por IA y fusión de DJ Metaverse"]
+flowchart TD
+    A1990["1990: El auge del Techno/Trance (expansión de la escena de clubes europeos)"]
+    A2000["2000: El surgimiento del Progressive House y el Electro House"]
+    A2010["2010: el auge de la música electrónica en pleno apogeo (Avicii, Guetta, SHM)"]
+    A2013["2013: Ultra Japan, Tomorrowland se convierte en un símbolo"]
+    A2016["2016: EDM introspectivo de Porter Robinson y otros"]
+    A2020["2020: El auge de los festivales virtuales durante la pandemia"]
+    A2025["2025: Fusión de música generada por IA y Metaverse DJ"]
 
-A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
+    A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 
 
 
@@ -207,15 +207,15 @@ A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 
 ### Apéndice B: Discografía de artistas principales
 
-| アーティスト            | 代表作             | リリース年 | リンク                                   |
+| Artista | Trabajo representativo | Año de lanzamiento | Enlace |
 | ------------------- | ------------------------ | ----- | --------------------------------- |
-| Avicii              | *True*                   | 2013  | [Amazon](https://amzn.to/4q4A3zp) |
-| Swedish House Mafia | *Until Now*              | 2012  | [Amazon](https://amzn.to/3Wx92Hl) |
-| David Guetta        | *Nothing But the Beat*   | 2011  | [Amazon](https://amzn.to/4q56bmL) |
-| ZEDD                | *Clarity*                | 2012  | [Amazon](https://amzn.to/3IGcyMz) |
-| Porter Robinson     | *Worlds*                 | 2014  | [Amazon](https://amzn.to/48lgE77) |
-| The Chainsmokers    | *Memories...Do Not Open* | 2017  | [Amazon](https://amzn.to/439Jh3x) |
-| Madeon              | *Adventure*              | 2015  | [Amazon](https://amzn.to/3J7dF7Z) |
+| Avicii | *Verdadero* | 2013 | [Amazon](https://amzn.to/4q4A3zp) |
+| Mafia de la casa sueca | *Hasta ahora* | 2012 | [Amazon](https://amzn.to/3Wx92Hl) |
+| David Guetta | *Nada más que el ritmo* | 2011 | [Amazon](https://amzn.to/4q56bmL) |
+| ZEDD | *Claridad* | 2012 | [Amazon](https://amzn.to/3IGcyMz) |
+| Portero Robinson | *Mundos* | 2014 | [Amazon](https://amzn.to/48lgE77) |
+| Los fumadores empedernidos | *Recuerdos...No abrir* | 2017 | [Amazon](https://amzn.to/439Jh3x) |
+| Madeón | *Aventura* | 2015 | [Amazon](https://amzn.to/3J7dF7Z) |
 
 
 
@@ -223,16 +223,16 @@ A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 
 ### Apéndice C: Lista principal de DAW/sintetizador/equipo
 
-| カテゴリ  | 名称                       | 備考                      |
+| Categoría | Nombre | Notas |
 | ----- | ------------------------ | ----------------------- |
-| DAW   | Ableton Live             | ライブ・パフォーマンスに最適化された設計    |
-| DAW   | FL Studio                | ビートメイキング志向、若手プロデューサー御用達 |
-| DAW   | Logic Pro                | 作曲／ミックスまでの統合環境          |
-| シンセ   | Xfer Serum               | 現代EDMの音色デザインを象徴         |
-| シンセ   | NI Massive               | 2000年代後半〜2010年代初期の主力    |
-| シンセ   | Sylenth1                 | クラシックなリード音に強い           |
-| プラグイン | Waves L2／FabFilter Pro-L | ラウドネス戦争を支えたマスタリング定番     |
-| DJ機材  | Pioneer CDJシリーズ          | グローバル標準のDJプレイ装置         |
-| モニター  | KRK Rokit／Yamaha HS5     | ベッドルームプロデューサー必須モニター     |
+| DAW | Ableton en vivo | Diseñado para presentaciones en vivo |
+| DAW | Estudio FL | Para productores jóvenes orientados a la creación de ritmos |
+| DAW | Lógica Pro | Entorno integrado para componer/mezclar |
+| Sintetizador | Suero Xfer | Simboliza el diseño tonal del EDM moderno |
+| Sintetizador | NI Masiva | Pilar de finales de la década de 2000 y principios de la de 2010 |
+| Sintetizador | Sylenth1 | Fuerte en sonidos solistas clásicos |
+| Complemento | Ondas L2/FabFilter Pro-L | Estándar de masterización que apoyó las guerras del volumen |
+| Equipos para DJ | Serie Pioneer CDJ | Equipo de juego de DJ estándar global |
+| Monitorear | KRK Rokit/Yamaha HS5 | Un monitor imprescindible para los productores de dormitorios |
 
 

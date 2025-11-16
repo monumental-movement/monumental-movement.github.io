@@ -17,7 +17,7 @@ title: Sacerdote matón - El corazón de las tinieblas
 
 Como sugiere el nombre, "Heart of Darkness" es una canción que trata los temas del conflicto interno y las profundidades de la oscuridad, y la progresión de la canción está llena de tensión, combinada con espeluznantes efectos de sonido y ritmos pesados. La letra explora contenido profundo e introspectivo en consonancia con temas oscuros.
 
-"Heart of Darkness" es un álbum que realmente encarna el estilo musical y la expresión artística únicos de Fudrum Priest.
+"Heart of Darkness" es un álbum que verdaderamente encarna el estilo musical y la expresión artística únicos de Fudrum Priest.
 
 #### Lista de canciones
 ```md

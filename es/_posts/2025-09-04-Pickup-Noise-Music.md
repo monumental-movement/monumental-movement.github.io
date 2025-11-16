@@ -14,7 +14,7 @@ title: Recoger música ruidosa funciona
 
 “Una experiencia acústica pura que trasciende los límites de la música, Noise Music funciona”
 
-<hr>
+<hora>
 
 ### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
@@ -37,7 +37,7 @@ title: Recoger música ruidosa funciona
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -69,7 +69,7 @@ B4. The Body = ザ ボディー
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -97,7 +97,7 @@ B4. The Body = ザ ボディー
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zoaAUptZ0mw?si=io-6qEGs_v6UDWeG" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -146,7 +146,7 @@ B2  Shoot
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpcsXaeZx7w?si=K2YtAvVZYNwf4xSS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -172,7 +172,7 @@ B2. Space Golf (Venusian Swing Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PzGx4oDDhAY?si=7ghPeZCVRG_1at2Z" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -203,7 +203,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -213,7 +213,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **Si entras desde el rugido real** *Merzbird*/Naked Rally's.
 - *Smoking Kills* si quieres experimentar la textura del ruido en el contexto de un club.
 - Para un **enfoque de collage**, prueba Hair Stylistics/Tipsy/WXBD.
-- Para aquellos que prefieran fabricar su propio equipo, consulten la columna de Eurorack para conocer los mejores equipos antes de escuchar.
+- **Para aquellos que quieran crear sus propias cosas**, consulten la columna de Eurorack para conocer el mejor equipo antes de escucharlo.
 
 ---
 

@@ -16,7 +16,7 @@ title: Recoger trabajos de casa profunda
 
 "Un notable grupo de obras que simbolizan el deep house, esculpiendo ritmos sofisticados y ritmos profundos que envuelven la noche de la ciudad".
 
-<hr>
+<hora>
 
 ### Varios – Taller 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
@@ -40,7 +40,7 @@ B2. Sascha Dive –Untitled
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 ### Peej – Volviéndose cósmico
@@ -48,7 +48,7 @@ B2. Sascha Dive –Untitled
 
 Resumen: Una pieza de deep house de Paul Johnston (Peej) lanzada en 2005 en DiY Discs, el sucesor del sello de música house del Reino Unido Strictly 4 Groovers. El lado A incluye múltiples mezclas como "Cosmic Love (Interstellar Overdrive Mix)".
 
-Puntos recomendados: Un deep house que envuelve suavemente al oyente, combinando un ritmo de baja fidelidad con un sonido fantástico que te hace sentir como en el espacio profundo.
+Puntos recomendados: Un deep house que envuelve suavemente al oyente, con una fusión de acústica fantástica que te da la sensación de espacio profundo y ritmos de baja fidelidad.
 
 #### Lista de canciones
 ```md
@@ -65,7 +65,7 @@ B2. Cosmic Love (FS Cosmic Regroove)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jNICn-7P5X4?si=DhSN8Z4qbXKrOcUn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -91,5 +91,5 @@ B2. Into You (Animal House Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j83LVLU8_pA?si=eBqbfZRVKCuxpkC5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>

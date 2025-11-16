@@ -23,59 +23,59 @@ Texto: mmr｜Tema: Comparación histórica de los medios musicales y perspectiva
 
 
 
-<hr>
+<hora>
 
 ### Comparación histórica de ventas de medios musicales
 En las últimas décadas, los medios musicales han experimentado una rápida innovación y diversificación tecnológica. Aquí proporcionaremos una descripción general de las estimaciones de ventas globales para los principales medios físicos: discos (LP analógicos), cintas de casete, CD y MD.
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Medios</th>
 <th>Ventas globales acumuladas (estimadas)</th>
 <th>Período pico</th>
 <th>Comentarios</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Grabación (LP)</td>
 <td>Aproximadamente 3 mil millones de copias (incluidas las reimpresiones)</td>
 <td>Resurgimiento en las décadas de 1970 y 2010 Máxima cuota de mercado en la década de 1970. </td>
 <td>Recientemente se está recuperando debido a la demanda vintage</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Cinta de casete</td>
 <td>Alrededor de 5 mil millones o más</td>
 <td>Mediados y finales de los años 1980 Tuvo su apogeo en los años 1980 y 1990. </td>
 <td> Popularizado debido al efecto Walkman. Nicho actual</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>CD</td>
 <td>Alrededor de 30 mil millones de piezas o más</td>
 <td>Década de 1990 a principios de 2000</td>
 <td>Se hizo explosivamente popular en la década de 1990 y se convirtió en el principal medio musical del mundo</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>MD (minidisco)</td>
 <td>decenas de millones a cientos de millones de copias (limitadas)</td>
 <td>Finales de los 90 a principios de los 2000</td>
 <td>Fue particularmente popular en Japón, pero limitado a escala global. Actualmente en declive</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
 
 *Las cifras de ventas son estimaciones basadas en múltiples fuentes y existen diferencias regionales y de edad.
 
 
-<hr>
+<hora>
 
 ### Diferencias en las características de frecuencia y la audición.
 
 
-<hr>
+<hora>
 
 #### Grabar (LP analógico)
 
@@ -95,7 +95,7 @@ Estilo de audición: Suave, uniforme y cálido, con tendencia a aceptar el ruido
 
 
 
-<hr>
+<hora>
 
 #### Cinta de casete
 
@@ -117,7 +117,7 @@ Audición: Ligeramente amortiguada, con frecuencias altas modestas. Es suave y c
 
 
 
-<hr>
+<hora>
 
 #### CD (disco compacto)
 
@@ -137,7 +137,7 @@ Audición: Clara y de alta resolución, pero a menudo falta calidez analógica.
 
 
 
-<hr>
+<hora>
 
 #### MD (minidisco)
 
@@ -158,12 +158,12 @@ Audición: Casi claro, pero en comparación con un CD puede sentirse un poco com
 
 
 
-<hr>
+<hora>
 
 ### Estado actual y tendencias futuras de cada medio
 
 
-<hr>
+<hora>
 
 #### Registros
 
@@ -172,7 +172,7 @@ Situación actual: a nivel mundial, las ventas de discos analógicos se están r
 Futuro: Se espera un mercado pequeño pero sostenible con el apoyo de los entusiastas de las fuentes de sonido analógicas. También están disponibles productos híbridos (analógicos + digitales).
 
 
-<hr>
+<hora>
 
 #### Cinta de casete
 
@@ -181,7 +181,7 @@ Estado actual: Los medios de comunicación que alguna vez fueron los principales
 Futuro: Popularidad de nicho como cultura retro. Sobrevive como parte de colecciones y música de bricolaje.
 
 
-<hr>
+<hora>
 
 #### CD
 
@@ -190,7 +190,7 @@ Situación actual: Las ventas han disminuido significativamente debido a la expa
 Futuro: Aunque se está reduciendo como medio empaquetado, la clave es diferenciarlo mediante la propiedad física y el valor agregado (ediciones de lujo, etc.).
 
 
-<hr>
+<hora>
 
 #### médico
 
@@ -199,12 +199,12 @@ Estado actual: Casi desaparecido del mercado. Un cierto nivel de apoyo en Japón
 En el futuro: permanecerá solo por un tiempo limitado para su conservación o como hobby.
 
 
-<hr>
+<hora>
 
 ### ¿Qué es Dolby Atmos?
 
 
-<hr>
+<hora>
 
 #### Descripción general de Dolby Atmos
 
@@ -217,7 +217,7 @@ Mejora drásticamente la sensación en vivo y la sensación de presencia de pel�
 Se puede reproducir en cines en casa, auriculares y teléfonos inteligentes.
 
 
-<hr>
+<hora>
 
 #### Dolby Atmos en la producción musical
 
@@ -230,12 +230,12 @@ Diseña libremente la localización de voces e instrumentos.
 Combinado con fuentes de sonido de alta resolución para una experiencia auditiva más inmersiva
 
 
-<hr>
+<hora>
 
 ### Tendencias futuras de los medios musicales y el potencial de Dolby Atmos
 
 
-<hr>
+<hora>
 
 #### Cambios en los medios
 
@@ -244,7 +244,7 @@ La transición del soporte físico al streaming está casi completa
 El objetivo de la próxima generación es la compatibilidad con la distribución de sonido de alta calidad (alta resolución, MQA) y audio espacial (Dolby Atmos, Sony 360 Reality Audio)
 
 
-<hr>
+<hora>
 
 #### Evolución de la experiencia
 

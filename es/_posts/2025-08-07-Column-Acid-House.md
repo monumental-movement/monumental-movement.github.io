@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Reacciones químicas del sonido y transformación cultural.
 
 
 
-<hr>
+<hora>
 
 ### Origen: Radiación subterránea en Chicago
 El acid house es un género musical que se originó en la escena de clubes underground de Chicago, EE. UU., a mediados de la década de 1980, y es un subgénero de la música house.
@@ -33,13 +33,13 @@ El sencillo de Phuture de 1987, "Acid Tracks", se convirtió en el prototipo de 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eWpA_xwT1to?si=GLz0gzYpdlJr5a0n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Características del sonido: imagen de sonido químico provocada por TB-303
 Las características más importantes del acid house son los siguientes elementos sonoros:
 
 
-<hr>
+<hora>
 
 #### Línea de base con TB-303
 
@@ -51,7 +51,7 @@ Las características más importantes del acid house son los siguientes elemento
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/omHUR3R0Qqw?si=boX8O6bMt_O796rS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 #### Patada cuádruple
 
@@ -60,7 +60,7 @@ Las características más importantes del acid house son los siguientes elemento
 - Combinación estándar con patrón de batería de TR-808 o TR-909
 
 
-<hr>
+<hora>
 
 #### Estructura mínima
 
@@ -71,14 +71,14 @@ Las características más importantes del acid house son los siguientes elemento
 Este sonido tuvo un efecto tremendo como un "sonido químico" que adormecía a los bailarines en un estado de trance en la oscuridad de un club o con luces estroboscópicas.
 
 
-<hr>
+<hora>
 
 ### Extendido a Gran Bretaña: el verano del amor y la segunda ola
 
 El acid house se extendió rápidamente al Reino Unido desde finales de 1987 hasta 1988. Los DJ de clubes trajeron la marca blanca de Chicago de regreso al Reino Unido, donde rápidamente se extendió por las escenas de clubes de Londres y Manchester.
 
 
-<hr>
+<hora>
 
 #### "Segundo verano del amor": 1988
 
@@ -89,7 +89,7 @@ El acid house se extendió rápidamente al Reino Unido desde finales de 1987 has
 - Con sede en Shoom, Londres y Haçienda, Manchester
 
 
-<hr>
+<hora>
 
 #### artistas del Reino Unido que me han influido
 
@@ -100,7 +100,7 @@ El acid house se extendió rápidamente al Reino Unido desde finales de 1987 has
 - Estilo rave con elementos ácidos como The KLF y Orbital
 
 
-<hr>
+<hora>
 
 ### Moda y símbolos: caras sonrientes y cultura del bricolaje
 
@@ -117,49 +117,49 @@ El acid house influyó no sólo en la música, sino también en la cultura visua
 Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas desde la década de 1990 en adelante.
 
 
-<hr>
+<hora>
 
 ### Difusión y evolución del acid house.
 El acid house continuó evolucionando de diversas maneras en todo el mundo después de la década de 1990.
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Tiempo</th>
 <th>Región/Estilo</th>
 <th>Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>década de 1990</td>
 <td>Ácido duro alemán</td>
 <td>Estilo más rápido y agresivo. Desarrollo hacia Acid Techno y Hard Acid</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Finales de la década de 1990</td>
 <td>Francia/Bélgica</td>
 <td>Conéctate con Rave Fusión de trance y acid</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Década de 2000 al presente</td>
 <td>Renacimiento global</td>
 <td>Reedición en vinilo de Acid House Revival, lanzamiento de muchos productos clonados de TB-303 (Behringer TD-3, etc.)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Últimos años</td>
 <td>Jazz ácido, trampa ácida, etc.</td>
 <td>También aparecen ejemplos de géneros derivados denominados "Acid"</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
-		
-<hr>
+
+<hora>
 
 
-<hr>
+<hora>
 
 ### Posicionamiento y reevaluación en los tiempos modernos
 
@@ -176,7 +176,7 @@ Hoy en día, el acid house está siendo reevaluado en medio de la cultura retro 
 Más que un simple género musical, el acid house sigue estando en el nexo entre la música electrónica y la contracultura.
 
 
-<hr>
+<hora>
 
 ### El ácido nunca mata
 

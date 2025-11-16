@@ -33,7 +33,7 @@ Aun así, la "memoria de la velocidad" del Eurobeat permanece.
 Más bien, ahora se está transformando en un nuevo tipo de "música activa" en el contexto del **espacio digital, la generación de inteligencia artificial y el sonido en tiempo real**.
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -44,12 +44,12 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ---
 
-## 1. Del “pase” a la “órbita”: la gradación del espacio musical trazada por Eurobeat
+## 1. Del “pase” a la “trayectoria”: la gradación del espacio musical trazado por Eurobeat
 
 Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D era inseparable de la historia de Toge.
 Sin embargo, no fue sólo una ayuda para el terreno y la producción visual, sino un **dispositivo que traducía la distorsión del tiempo en sonido**.
@@ -178,15 +178,15 @@ El código que los une a todos pulsa dentro de las tres letras "Eurobeat".
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1990["1990: El punto de inflexión del Italo Disco al Eurobeat"]
-A1995["1995: ``Inicial D'' animada, combinada con cultura de corredor"]
-A2000["2000: La serie SEB entra en su época dorada"]
-A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
-A2020["2020: música generada por IA/heredada de la experiencia de conducción en realidad virtual"]
-A2025["2025: Eurobeat como concepto de medios sonoros interactivos"]
+flowchart TD
+    A1990["1990: El punto de inflexión del Italo Disco al Eurobeat"]
+    A1995["1995: ``Initial D'' animada, combinada con la cultura del corredor"]
+    A2000["2000: La serie SEB entra en su época dorada"]
+    A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
+    A2020["2020: música generada por IA/heredada de la experiencia de conducción en realidad virtual"]
+    A2025["2025: Eurobeat como concepto de medios sonoros interactivos"]
 
-A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
+    A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
 
 </div>
 
@@ -194,12 +194,12 @@ A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
 
 ### Discografía de referencia (Eurobeat / Influencia seleccionada)
 
-| 年    | タイトル                  | アーティスト          | リンク                                           |
-| ---- | --------------------- | --------------- | --------------------------------------------------- |
-| 1994 | Super Eurobeat Vol.50 | V.A.            | [Amazon](https://amzn.to/46K1kzK) |
-| 1998 | Running in the 90s    | Max Coveri      | [Amazon](https://amzn.to/46OQ98U) |
-| 2000 | Deja Vu               | Dave Rodgers    | [Amazon](https://amzn.to/4q6JDSA) |
-| 2015 | Nightcore Reality     | Various Artists | [Amazon](https://amzn.to/47iXlu1) |
+| Año | Título | Artista | Enlace |
+| ---- | --------------------- | --------------- | -------------------------------------------------- |
+| 1994 | Súper Eurobeat Vol.50 | VIRGINIA. | [Amazon](https://amzn.to/46K1kzK) |
+| 1998 | Corriendo en los años 90 | Max Coveri | [Amazon](https://amzn.to/46OQ98U) |
+| 2000 | Déjà Vu | Dave Rodgers | [Amazon](https://amzn.to/4q6JDSA) |
+| 2015 | Realidad nocturna | Varios artistas | [Amazon](https://amzn.to/47iXlu1) |
 
 ---
 

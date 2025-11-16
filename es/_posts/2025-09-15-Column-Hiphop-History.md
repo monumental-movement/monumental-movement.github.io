@@ -26,7 +26,7 @@ En Estados Unidos, se formaron diferentes estilos en cada región y el desarroll
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Finales de la década de 1970: los orígenes del Bronx y los fundamentos de la cultura de clubes
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010 al presente: era del streaming y globalización
+## Década de 2010-presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
@@ -190,48 +190,48 @@ Muestra no autorizada en "Transmitiendo en vivo desde Marte". Desde entonces, De
 
 ## Diferentes épocas y tendencias de muestreo.
 
-| 年代 | 名盤 | サンプリング傾向 | 
-|------|------|----------------|------|----------------|
-| 1980s | *Paid in Full*, *It Takes a Nation of Millions* | James Brown, Funk, Soul サンプリング濫用期 | 
-| 1990s | *The Chronic*, *All Eyez on Me* | Parliament-Funkadelic, G-Funk系 |
-| 2000s | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | 
-| 2010s | *DS2*, *My Beautiful Dark Twisted Fantasy* | サンプリング縮小・自作ビート＋Auto-Tune | 
-| 2020s | *Mr. Morale & The Big Steppers*, *The Off-Season* | サンプル回帰＋AI生成ビート実験 | 
+| Años | Obras maestras | Tendencias de muestreo |
+|------|------|----------------|--------------|----------------|
+| Década de 1980 | *Pagado en su totalidad*, *Se necesita una nación de millones* | James Brown, Funk, Período de abuso de muestreo de almas |
+| Década de 1990 | *La Crónica*, *Todos los ojos puestos en mí* | Parlamento-Funkadelic, G-Funk |
+| Años 2000 | *Stakonia*, *Tha Carter III* | Muestreo reducido/sintetizador convencional |
+| Década de 2010 | *DS2*, *Mi hermosa fantasía oscura y retorcida* | Reducción de muestreo/ritmo casero + Auto-Tune |
+| Años 2020 | *Señor. Moral y los grandes pasos*, *La temporada baja* | Regresión de muestra + experimento de ritmo generado por IA |
 
 ---
 
 ## Lista de clubes/estaciones de radio representativos
 
-| 地域 | クラブ | ラジオ局 |
-|------|--------|----------|
-| East (NYC) | Paradise Garage, Tunnel, Latin Quarter | WBLS, KISS FM |
-| West (LA) | The Good Life Cafe, Club Unity, Echoplex | KKBT (The Beat), Power 106 |
-| South (ATL, Houston, Miami) | Magic City, Fifth Ward Block Parties, Club Rolex | Hot 107.9, SwishaHouse Radio, 99 Jamz |
-| Midwest (Chicago, Detroit, KC) | The Mid, Detroit Basement Parties, Blue Room (KC) | WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC) |
+| Región | club | Estación de radio |
+|------|---------|----------|
+| Este (Nueva York) | Garaje Paraíso, Túnel, Barrio Latino | WBLS, KISS FM |
+| Oeste (Los Ángeles) | The Good Life Café, Club Unity, Echoplex | KKBT (El ritmo), Poder 106 |
+| Sur (ATL, Houston, Miami) | Magic City, fiestas del barrio Fifth Ward, Club Rolex | Caliente 107.9, SwishaHouse Radio, 99 Jamz |
+| Medio Oeste (Chicago, Detroit, Kansas) | The Mid, fiestas en el sótano de Detroit, Salón Azul (KC) | WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC) |
 
 ---
 
 ## Lista de equipos representativos por grupo de edad.
 
-| 年代 | 主な機材 |
+| Año | Equipo principal |
 |------|----------|
-| 1980s | SP-1200, Technics SL-1200, Roland TR-808 |
-| 1990s | Akai MPC60/3000, Roland TR-909, Ensoniq ASR-10 |
-| 2000s | Korg Triton, Roland Fantom, Pro Tools, TR-808 |
-| 2010s | FL Studio, Ableton Live, Auto-Tune, Maschine |
-| 2020s | Serato DJ, Ableton Push, Native Instruments Maschine+, AIビート生成ツール |
+| Década de 1980 | SP-1200, Técnicas SL-1200, Roland TR-808 |
+| Década de 1990 | Akai MPC60/3000, Roland TR-909, Ensoniq ASR-10 |
+| Años 2000 | Korg Tritón, Roland Fantom, Pro Tools, TR-808 |
+| Década de 2010 | FL Studio, Ableton Live, Auto-Tune, Máquina |
+| Años 2020 | Serato DJ, Ableton Push, Native Instruments Maschine+, herramienta de generación de ritmos con IA |
 
 ---
 
 ## Cambios en la distribución eléctrica por grupo de edad
 
-| 年代 | 勢力中心 | 特徴 |
+| Edad | Centro de energía | Características |
 |------|----------|------|
-| 1980s | East (NYC中心) | サンプリング黄金期、リリシズム強調 |
-| 1990s | West (LA, Bay) | G-Funk全盛、2Pac vs Biggie構図 |
-| 2000s | South (ATL, Houston, Miami) | Trap前夜、Crunk、スクリュースタイル台頭 |
-| 2010s | Trap (South) + Midwest (Chicago Drill, Kanye, Detroitビート) | サンプリング縮小＋FL Studio普及 |
-| 2020s | 多極化 (East, West, South, Midwest) | AIビート、サンプル回帰、インターネット分散型文化 |
+| Década de 1980 | Este (centrado en Nueva York) | Edad de oro del sampleo, énfasis en el lirismo |
+| Década de 1990 | Oeste (Los Ángeles, Bahía) | G-Funk en su apogeo, 2Pac vs. Biggie |
+| Años 2000 | Sur (ATL, Houston, Miami) | Trap eve, Crunk y el auge del Screwstyle |
+| Década de 2010 | Trap (Sur) + Medio Oeste (Chicago Drill, Kanye, Detroit vencen) | Reducción de muestreo + extensión de FL Studio |
+| Años 2020 | Multipolarización (Este, Oeste, Sur, Medio Oeste) | AI Beat, regresión de muestra, cultura descentralizada de Internet |
 
 ---
 
@@ -239,31 +239,31 @@ Muestra no autorizada en "Transmitiendo en vivo desde Marte". Desde entonces, De
 
 ### Genealogía de los principales artistas.
 <div class="mermaid">
-gráfico TD
-A[DJ Kool Herc] --> B[Grandmaster Flash]
-A --> C[Afrika Bambaataa]
-B --> D[Ejecutar-D.M.C.]
-C --> E[Enemigo público]
-D --> F[N.W.A]
-F --> G[Dr. Dre]
-G --> H[Snoop Dogg]
-G --> Yo[2Pac]
-G --> J[Eminem]
-E --> K[Nas]
-E --> L [Jay-Z]
-J --> M[50 céntimos]
-M --> N[Kendrick Lamar]
-K --> O[J. Col]
-L --> O
-H --> P[Pequeño Wayne]
-P --> Q[Drake]
-P --> R[Nicki Minaj]
-Q --> S[Futuro]
-S --> T[Joven matón]
-T --> U[Travis Scott]
-Q --> V[Migos]
-V -> W [pequeño bebé]
-W --> X[21 Salvaje]
+graph TD
+    A[DJ Kool Herc] --> B[Grandmaster Flash]
+    A --> C[Afrika Bambaataa]
+    B --> D[Run-D.M.C.]
+    C --> E[Public Enemy]
+    D --> F[N.W.A]
+    F --> G[Dr. Dre]
+    G --> H[Snoop Dogg]
+    G --> I[2Pac]
+    G --> J[Eminem]
+    E --> K[Nas]
+    E --> L[Jay-Z]
+    J --> M[50 Cent]
+    M --> N[Kendrick Lamar]
+    K --> O[J. Cole]
+    L --> O
+    H --> P[Lil Wayne]
+    P --> Q[Drake]
+    P --> R[Nicki Minaj]
+    Q --> S[Future]
+    S --> T[Young Thug]
+    T --> U[Travis Scott]
+    Q --> V[Migos]
+    V --> W[Lil Baby]
+    W --> X[21 Savage]
 </div>
 
 El cuadro genealógico muestra un "linaje" que se ramifica desde sus orígenes en Nueva York hasta el oeste, el sur y el medio oeste.
@@ -275,14 +275,14 @@ Jay-Z y Nas heredaron el linaje de la Costa Este, y el linaje del Dr. Dre se ext
 
 <div class="mermaid">
 
-diagrama de flujo de tuberculosis
-E["Década de 1980<br/>Costa Este<br/>Dominio"]
-W["Década de 1990<br/>Costa Oeste<br/>G-Funk Heyday"]
-S["Década de 2000<br/>Sur<br/>Crunk / Trap Eve"]
-M["Década de 2010<br/>Trampa<br/>+ Aumento de la perforación en el Medio Oeste"]
-P["Década de 2020<br/>Multipolar:<br/>Este + Oeste + Sur + Medio Oeste"]
+flowchart TB
+        E["1980s<br/>East Coast<br/>Dominance"]
+        W["Década de 1990<br/>Costa Oeste<br/>El apogeo del G-Funk"]
+        S["Década de 2000<br/>Sur<br/>Crunk / Trap Eve"]
+        M["Década de 2010<br/>Trampa<br/>+ Auge del simulacro del Medio Oeste"]
+        P["Década de 2020<br/>Multipolarización:<br/>Este + Oeste + Sur + Medio Oeste"]
 
-E --> W --> S --> M --> P
+    E --> W --> S --> M --> P
 
 
 </div>
@@ -311,7 +311,7 @@ Puedes comprender visualmente la evolución del ritmo en el hip-hop.
 -E-mu SP-12
 </td>
 <td>
-<div class="oscilloscope">
+<div class="osciloscopio">
 Patada: ▂▄▆█▇▅▄▂
 Trampa: ▃▃▅▅██▅▃
 HiHat: - - - - - - - -
@@ -320,7 +320,7 @@ Bajo: ▂▄▅▄▂
 </div>
 </td>
 </tr>
-</table>
+</tabla>
 
 ---
 
@@ -339,7 +339,7 @@ Bajo: ▂▄▅▄▂
 -Roland TR-909
 </td>
 <td>
-<div class="oscilloscope">
+<div class="osciloscopio">
 Patada: █▄█▄█▄█
 Trampa: ▄▄▄██▄▄▄
 HiHat: -x-x-x-x-
@@ -348,7 +348,7 @@ Bajo: ▂▄▆█▇▆▄▂
 </div>
 </td>
 </tr>
-</table>
+</tabla>
 
 ---
 
@@ -366,7 +366,7 @@ Bajo: ▂▄▆█▇▆▄▂
 - Korg Tritón
 </td>
 <td>
-<div class="oscilloscope">
+<div class="osciloscopio">
 Patada: ███▄████
 Trampa: ▄▄▄▄████▄▄
 HiHat: - - x - - x -
@@ -375,7 +375,7 @@ Bajo: ▂▂▄▆██▆▄▂
 </div>
 </td>
 </tr>
-</table>
+</tabla>
 
 ---
 
@@ -393,7 +393,7 @@ Bajo: ▂▂▄▆██▆▄▂
 - Ableton en vivo
 </td>
 <td>
-<div class="oscilloscope">
+<div class="osciloscopio">
 Patada: ██████▄██████
 Trampa: ▄▄██▄▄
 HiHat: -x-x-x-x-x-x-x-
@@ -402,7 +402,7 @@ Bajo: ▂▄▆█▇▇█▆▄▂
 </div>
 </td>
 </tr>
-</table>
+</tabla>
 
 ---
 
@@ -421,7 +421,7 @@ Bajo: ▂▄▆█▇▇█▆▄▂
 (Suero, Masivo, Omnisfera)
 </td>
 <td>
-<div class="oscilloscope">
+<div class="osciloscopio">
 Patada: ████████▄▄███
 Trampa: ▄▄██▄▄██▄▄
 HiHat: -x-xx-xx-x-x-
@@ -430,7 +430,7 @@ Bajo: ▂▄▇█▇█▇█▄▂
 </div>
 </td>
 </tr>
-</table>
+</tabla>
 
 **Consideraciones adicionales**
 
@@ -443,7 +443,7 @@ El mapa de poder visualiza a qué región se ha desplazado el centro de la escen
 ---
 
 ## Conclusión
- 
+
 El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos que han influido no solo en la música, sino también en la moda, el idioma, los movimientos sociales y más. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
 
 ---

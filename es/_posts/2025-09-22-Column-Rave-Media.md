@@ -29,7 +29,7 @@ Sin embargo, en el siglo XXI, con la llegada de YouTube, las redes sociales y lo
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Rave, un espacio sin medios
@@ -79,7 +79,7 @@ Rave no era una fuente sonora ni una partitura, sino un fenómeno en sí mismo. 
 
 ### ¿Quién archiva? Deterioro de los medios
 
-**● Archivos espontáneos del subsuelo**
+**● Archivo espontáneo desde el subsuelo**
 
 Desde la década de 2000, han comenzado los siguientes intentos en todo el mundo.
 

@@ -28,7 +28,7 @@ Incluso hoy en día, el yoga y la música son inseparables. En el estudio, se re
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Combinando yoga y música: una historia, ciencia y una guía práctica
@@ -89,7 +89,7 @@ A principios del siglo XX, la musicoterapia comenzó a atraer la atención en lo
 
 ### Nacimiento de la música new age
 
-Desde la década de 1970, ha aparecido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
+Desde la década de 1970, ha surgido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
 
 ---
 
@@ -103,7 +103,7 @@ En los estudios de yoga modernos, la elección de la música de fondo influye en
 
 ### Fusión con EDM, Lo-Fi, Ambient
 
-En los últimos años también han aumentado los intentos de combinar música EDM, Lo-Fi y Ambient con el yoga. El hip-hop Lo-Fi en particular combina ritmos relajantes con sonidos ambientales para crear un espacio adecuado para la meditación o posturas estáticas.
+En los últimos años también han aumentado los intentos de combinar música EDM, Lo-Fi y Ambient con el yoga. El hip-hop Lo-Fi, en particular, combina ritmos relajantes con sonidos ambientales para crear un espacio adecuado para la meditación o posturas estáticas.
 
 ### Trinidad de respiración, movimiento y música.
 
@@ -111,33 +111,33 @@ Al ser consciente de la trinidad de técnicas de respiración (pranayama), postu
 
 ---
 
-## Capítulo 4: Perspectiva científica {#capítulo4}
+## Capítulo 4: Perspectiva científica {#chapter4}
 
 Los efectos del yoga y la música están respaldados por ondas cerebrales e investigaciones psicológicas. La siguiente figura muestra las características de cada onda cerebral y el género musical correspondiente con bocadillos.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[onda cerebral] --> B[onda Delta 0,5-4Hz]
-A --> C [onda Theta 4-8Hz]
-A --> D[onda alfa 8-13Hz]
-A --> E[onda Beta 13-30Hz]
-A --> F [onda gamma 30 Hz o más]
+flowchart TD
+    A[ondas cerebrales] --> B[Onda delta 0,5-4 Hz]
+    A --> C[Ondas theta 4-8Hz]
+    A --> D[Ondas alfa 8-13Hz]
+    A --> E[Onda Beta 13-30Hz]
+    A --> F[Onda gamma 30 Hz o más]
 
-B --> B1 [sueño profundo/descanso]
-B1 --- BB["💡 Relajación profunda con sonidos ambientales/de baja frecuencia"]
+    B --> B1[sueño profundo/descanso]
+    B1 --- BB["💡 Relajación profunda con sonidos ambientales y de baja frecuencia"]
     
-C --> C1 [Meditación/Relajación]
-C1 --- CC["💡 Calma tu mente con cantos y música de meditación"]
+    C --> C1[meditación/relajación]
+    C1 --- CC["💡 Calma tu mente con cantos y música de meditación"]
     
-D --> D1 [Meditación ligera/estabilidad]
-D1 --- DD["💡 Sonidos ambientales/naturales para mejorar la concentración"]
+    D --> D1[meditación ligera/estabilidad]
+    D1 --- DD["💡 Mejora la concentración con sonidos ambientales/naturales"]
     
-E --> E1 [Mejor concentración/eficiencia en el trabajo]
-E1 --- EE["💡 Apoye la eficiencia en el trabajo con Lo-Fi y electroerosión ligera"]
+    E --> E1[Mejorar la concentración y la eficiencia en el trabajo.]
+    E1 --- EE["💡 Apoye la eficiencia en el trabajo con Lo-Fi y EDM ligero"]
     
-F --> F1 [Alta concentración/creatividad]
-F1 --- FF["💡 Acelere la creatividad con un sintetizador enfocado"]
+    F --> F1[Alta concentración/creatividad]
+    F1 --- FF["💡 Acelera la creatividad con un sintetizador enfocado"]
 
 </div>
 
@@ -152,29 +152,29 @@ La conexión entre el yoga y la música no sólo es relevante para la salud pers
 ---
 
 
-## Capítulo 6: Guía práctica {#chapter6}
+## Capítulo 6: Guía práctica {#capítulo6}
 
 La música de fondo recomendada para cada pose se muestra en un bocadillo. También se enumeran los BPM de la música que coincide con cada estilo.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[Estilo de yoga] --> B[Estilo de relajación]
-A --> C [Flujo Dinámico (Vinyasa)]
-A --> D [Mejorar la concentración]
-A --> E [meditación profunda]
+flowchart TD
+    A[estilo de yoga] --> B[tipo relajante]
+    A --> C[Flujo Dinámico (Vinyasa)]
+    A --> D[Concentración mejorada]
+    A --> E[meditación profunda]
 
-B --> B1 [Savasana/Meditación simple]
-B1 --- B2["💡 Relájate con sonidos ambientales y de la naturaleza BPM60-70"]
+    B --> B1[Savasana/meditación sencilla]
+    B1 --- B2["💡Relájate con sonidos ambientales y de la naturaleza BPM60-70"]
 
-C --> C1 [Saludo al sol/Postura de guerrero]
-C1 --- C2["💡 Lo-Fi/Light EDM Activa la operación con BPM100-120"]
+    C --> C1[Saludo al sol/Postura del guerrero]
+    C1 --- C2["💡 Activa tu movimiento con Lo-Fi/light EDM BPM100-120"]
 
-D --> D1 [Postura de equilibrio Pranayama]
-D1 --- D2["💡 Música de meditación con sintetizador BPM70-90 para mejorar la concentración"]
+    D --> D1[postura de equilibrio pranayama]
+    D1 --- D2["💡 La música de meditación sintetizada BPM70-90 mejora la concentración"]
 
-E --> E1 [Método sentado/método respiratorio]
-E1 --- E2["💡 Meditación profunda con canto de mantra BPM50-60"]
+    E --> E1[Método de sentarse/respirar]
+    E1 --- E2["💡 Meditación profunda con canto de mantra BPM50-60"]
 
 </div>
 
@@ -192,16 +192,16 @@ Visualice la evolución del yoga y la música a lo largo de las tendencias hist�
 
 <div class="mermaid">
 
-diagrama de flujo TD
-relleno de estilo A:#f3f4f6,trazo:#333,ancho de trazo:1px
-A["c.1500 a.C.<br>Mantras de la era védica"] --> B["c.500 a.C.<br>Upanishads (textos antiguos de yoga)"]
-B --> C["Siglo VIII d.C.<br>Sistematización de la teoría de la música clásica"]
-C --> D["1800 CE<br>El yoga se introdujo en Occidente"]
-D --> E["1960 EC<br>Nueva York: Taller de meditación y música"]
-E --> F["1980 CE<br>El auge de la música New Age"]
-F --> G["Década de 2000 CE<br>popularización de la música de fondo en los estudios"]
-G --> H["2010s CE<br>Creciente popularidad en SNS"]
-H --> I["2020s CE<br>Avances en la investigación científica"]
+flowchart TD
+    style A fill:#f3f4f6,stroke:#333,stroke-width:1px
+    A["c.1500 a. C.<br>Mantra del período védico"] --> B["c.500 a. C.<br>Upanishads (antiguas escrituras de yoga)"]
+    B --> C["Siglo VIII d.C.<br>Sistematización de la teoría de la música clásica"]
+    C --> D["1800 CE<br>El yoga se introdujo en Occidente"]
+    D --> E["Década de 1960 CE<br>Nueva York: Taller de música y meditación"]
+    E --> F["Década de 1980 CE<br>Auge de la música New Age"]
+    F --> G["Década de 2000 CE<br>Popularización de la música de fondo en los estudios"]
+    G --> H["CE de la década de 2010<br>Creciente popularidad en las redes sociales"]
+    H --> I["2020 CE<br>Avances en la investigación científica"]
 
 </div>
 
@@ -219,10 +219,10 @@ Visualice la integración de la respiración, el movimiento y la música con un 
 
 <div class="mermaid">
 
-título del pastel Integración de la respiración, el movimiento y la música.
-"Respiración (Pranayama)": 33
-"Movimiento (asana)": 33
-"Música (BGM/Mantra)": 34
+pie title 呼吸・動作・音楽の統合
+    "呼吸（プラーナーヤーマ）" : 33
+    "動作（アーサナ）" : 33
+    "音楽（BGM・マントラ）" : 34
 
 </div>
 

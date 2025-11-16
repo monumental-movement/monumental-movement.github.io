@@ -27,7 +27,7 @@ En este artículo, repasamos la historia de RE/Search por año y cubrimos evento
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Origen y desarrollo de RE/Search
@@ -70,37 +70,37 @@ RE/Search es más que una simple publicación; también sirve como archivo de su
 
 ## Revistas RE/Buscar recomendadas por grupo de edad
 
-| 雑誌タイトル | 発行年 | 主な内容・特徴 | 寄稿者 | リンク |
-|------|--------------|--------|----------------|---------------------------|------------|
-| **RE/Search #1: Industrial Culture Handbook** | 1980 | インダストリアル音楽の原点を記録 | Throbbing Gristle, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
-| **RE/Search Modern Primitives** | 1981 | ボディモディフィケーション文化特集 | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
-| **RE/Search Incredibly Strange Films** | 1983 | B級映画・カルト映画特集 | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
-| **RE/Search Industrial Culture Handbook (Revised)** | 1987 | インダストリアル文化の改訂版 | SPK, Nurse With Wound | [Amazon](https://amzn.to/430Mnqx) |
-| **RE/Search J.G. Ballard** | 1988 | SF作家バラード特集 | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
-| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | ノイズ／インダストリアル文化の再考 | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
+| Título de la revista | Año de publicación | Contenidos/características principales | Colaboradores | Enlaces |
+|------|--------------|---------|----------------|---------------------|------------|
+| **RE/Búsqueda #1: Manual de cultura industrial** | 1980 | Grabando los orígenes de la música industrial | Cartílago palpitante, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
+| **RE/Buscar primitivos modernos** | 1981 | Reportaje especial sobre la cultura de modificación corporal | Faquir Musafar | [Amazon](https://amzn.to/46ygAja) |
+| **RE/Buscar películas increíblemente extrañas** | 1983 | Especial sobre películas de serie B y de culto | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
+| **RE/Search Manual de cultura industrial (revisado)** | 1987 | Edición revisada de Cultura Industrial | SPK, enfermera con herida | [Amazon](https://amzn.to/430Mnqx) |
+| **RE/Buscar J.G. Ballard** | 1988 | Reportaje especial del escritor de ciencia ficción Ballard | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
+| **RE/Search Manual de Cultura Industrial Edición 2000** | 2000 | Ruido/Repensar la Cultura Industrial | Bobina, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
 
 ---
 
 ## Por época: álbumes de música, películas y eventos artísticos relacionados
 
-| 年代 | アイテム | 種類 | 解説 | リンク |
+| Año | Artículo | Tipo | Explicación | Enlace |
 |------|----------|------|------|-------|
-| 1980 | *20 Jazz Funk Greats* | 音楽 | Throbbing Gristleによる初期インダストリアルの代表作。社会批評と音響実験を融合。 | [Amazon](https://amzn.to/3IFw77C) |
-| 1980 | Industrial Music Night | イベント | サンフランシスコでのライブシリーズ。インダストリアル文化の初期を記録。 | RE/Search Archive |
-| 1981 | *Red Mecca* | 音楽 | Cabaret Voltaireの傑作。都市的不安と冷戦時代の空気を反映。 | [Amazon](https://amzn.to/42U9djx) |
-| 1981 | *Pink Flamingos* | 映画 | John Watersによるカルト映画。サブカルチャーの象徴的存在。 | [Amazon](https://amzn.to/46QdBS2) |
-| 1983 | *Scatology* | 音楽 | Coilの初期実験作。儀式性とノイズ美学が融合。 | [Amazon](https://amzn.to/42jkIB8) |
-| 1983 | *Liquid Sky* | 映画 | NYのドラッグカルチャーを描いたカルトSF。RE/Search的世界観と共鳴。 | [Amazon](https://amzn.to/3IPyDbj) |
-| 1987 | *Leichenschrei* | 音楽 | SPKによるノイズ・インダストリアルの頂点。 | [Amazon](https://amzn.to/46QdYMq) |
-| 1987 | *Begotten* | 映画 | 無音・モノクロの実験映画。神話的で退廃的な映像美。 | [Amazon](https://amzn.to/46IZMEU) |
-| 1988 | *Homotopy to Marie* | 音楽 | Nurse With Woundの代表作。前衛音楽と現代アートを接続。 | [Amazon](https://amzn.to/4h09g3q) |
-| 1988 | *Videodrome* | 映画 | Cronenberg監督作。肉体とメディアの融合を描いたカルト作。 | [Amazon](https://amzn.to/46NeieD) |
-| 1991 | *Queen of Siam* | 音楽 | Lydia Lunchによるポストパンク的ソロ。過激な社会批評を含む。 | [Amazon](https://amzn.to/46PFkSP) |
-| 1991 | *Tetsuo: The Iron Man* | 映画 | 塚本晋也監督による日本カルト映画。身体改造と都市不安をテーマに。 | [Amazon](https://amzn.to/4nSA47G) |
-| 1996 | *The Audacity of Hype* | 音楽 | Jello Biafraによる政治的パンク作品。 | [Amazon](https://amzn.to/430M5zX) |
-| 1996 | *Tetsuo II* | 映画 | 『鉄男』の続編。身体と機械の境界をさらに探求。 | [Amazon](https://amzn.to/4nyMMsI) |
-| 2000 | *Pulse Demon* | 音楽 | Merzbowによるノイズ史に残る傑作。圧倒的な音響実験。 | [Amazon](https://amzn.to/4nAbmcG) |
-| 2000 | *Ghost in the Shell* | 映画 | 押井守監督によるアニメ映画。サイボーグとAIの哲学的物語。 | [Amazon](https://amzn.to/3WkaXiq) |
+| 1980 | *20 grandes del jazz funk* | Música | La obra maestra de Throbbing Gristle de la industria temprana. Una fusión de crítica social y experimentación acústica. | [Amazon](https://amzn.to/3IFw77C) |
+| 1980 | Noche de Música Industrial | Eventos | Serie en vivo en San Francisco. Documenta los primeros días de la cultura industrial. | RE/Buscar Archivo |
+| 1981 | *La Meca Roja* | Música | La obra maestra del Cabaret Voltaire. Reflejando la ansiedad urbana y la atmósfera de la era de la Guerra Fría. | [Amazon](https://amzn.to/42U9djx) |
+| 1981 | *Flamencos rosados* | Película | Película de culto de John Waters. Un símbolo de la subcultura. | [Amazon](https://amzn.to/46QdBS2) |
+| 1983 | *Escatología* | Música | Los primeros trabajos experimentales de Coil. Una fusión de estética ritual y ruidosa. | [Amazon](https://amzn.to/42jkIB8) |
+| 1983 | *Cielo líquido* | Película | Una película de ciencia ficción de culto que describe la cultura de las drogas en Nueva York. Resuena con la cosmovisión de RE/Search. | [Amazon](https://amzn.to/3IPyDbj) |
+| 1987 | *Leichenschrei* | Música | La cumbre de la música industrial noise de SPK. | [Amazon](https://amzn.to/46QdYMq) |
+| 1987 | *Engendrado* | Película | Película experimental muda y monocromática. Belleza visual mítica y decadente. | [Amazon](https://amzn.to/46IZMEU) |
+| 1988 | *Homotopía a Marie* | Música | La obra maestra de Nurse With Wound. Conectando música de vanguardia y arte contemporáneo. | [Amazon](https://amzn.to/4h09g3q) |
+| 1988 | *Videodromo* | Película | Dirigida por Cronenberg. Una obra de culto que representa la fusión del cuerpo y los medios. | [Amazon](https://amzn.to/46NeieD) |
+| 1991 | *Reina de Siam* | Música | Solo post-punk de Lydia Lunch. Contiene una crítica social radical. | [Amazon](https://amzn.to/46PFkSP) |
+| 1991 | *Tetsuo: El Hombre de Hierro* | Película | Una película de culto japonesa dirigida por Shinya Tsukamoto. El tema es la modificación corporal y la ansiedad urbana. | [Amazon](https://amzn.to/4nSA47G) |
+| 1996 | *La audacia del bombo* | Música | Obra de punk político de Jello Biafra. | [Amazon](https://amzn.to/430M5zX) |
+| 1996 | *Tetsuo II* | Película | Secuela de "Tetsuo". Explorando más a fondo los límites entre cuerpo y máquina. | [Amazon](https://amzn.to/4nyMMsI) |
+| 2000 | *Demonio del Pulso* | Música | La obra maestra de Merzbow en la historia del ruido. Un experimento sonoro arrollador. | [Amazon](https://amzn.to/4nAbmcG) |
+| 2000 | *Fantasma en el caparazón* | Película | Película de animación dirigida por Mamoru Oshii. Una historia filosófica de cyborgs y IA. | [Amazon](https://amzn.to/3WkaXiq) |
 
 
 ---
@@ -125,7 +125,7 @@ John Waters proporcionó muchos materiales durante la producción de Incredfully
 En 1988 viajó a Londres para entrevistar a J.G. Ballard en persona. Ballard dijo: "Nunca pensé que las personas que leerían mis novelas serían la generación punk".
 
 - **Dificultades de financiación y continuación de la cultura fanzine**
-Aunque su circulación fue pequeña, sus lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
+Aunque la circulación fue pequeña, los lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
 
 - **Resonancia con San Francisco**
 Grupos experimentales como Survival Research Laboratories y Other Cinema se reunieron en torno a RE/Search, construyendo una red de revistas y arte.

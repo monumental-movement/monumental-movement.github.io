@@ -33,7 +33,7 @@ El tamaño de 10 pulgadas existe en un "hermoso punto de equilibrio" con pocas r
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -43,7 +43,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Velocidad de rotación y velocidad lineal: leyes físicas que determinan el "momento" del sonido
@@ -123,11 +123,11 @@ En otras palabras, incluso si es fino, el sonido es tenso. Por este motivo, incl
 
 Desde una perspectiva de medición acústica, las características de frecuencia de reproducción de los discos de 10 pulgadas muestran las siguientes tendencias.
 
-| 帯域 | 平均S/N比 | 備考 |
+| Ancho de banda | Relación S/N promedio | Notas |
 |------|-------------|------|
-| 40Hz〜100Hz | +2dB | 低域のピーク強め、タイト |
-| 1kHz〜4kHz | ±0dB | フラット、明瞭 |
-| 8kHz以上 | −1〜2dB | 高域の減衰やや早い（物理的制約） |
+| 40 Hz a 100 Hz | +2dB | Pico de baja frecuencia más fuerte, más ajustado |
+| 1 kHz a 4 kHz | ±0dB | Plano, claro |
+| 8 kHz o superior | −1 a 2 dB | La atenuación de las altas frecuencias es bastante rápida (limitaciones físicas) |
 
 Esta característica da como resultado una imagen de sonido con una "sensación cercana" centrada alrededor del rango medio.
 La razón por la que se dice que los discos de 10 pulgadas tienen un "sonido en vivo" es la alta densidad del rango medio.
@@ -175,15 +175,15 @@ En ese momento en que la punta de la aguja traza el surco, vemos el espíritu de
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1948["1948: Invención de Columbia, LP (33⅓RPM)"]
-A1950["1950: el LP de 10 pulgadas se vuelve popular"]
-A1955["1955: LP de 12 pulgadas se convirtió en estándar"]
-A1970["Década de 1970: reevaluación de 45 RPM para uso de DJ"]
-A2000["Década de 2000: relanzamiento de 10 pulgadas como edición limitada/edición artística"]
-A2020["Década de 2020: Movimiento de reexamen por parte de los audiófilos"]
+flowchart TD
+    A1948["1948: Columbia inventa LP (33⅓ RPM)"]
+    A1950["1950: el LP de 10 pulgadas se vuelve popular"]
+    A1955["1955: el LP de 12 pulgadas se convirtió en estándar"]
+    A1970["Década de 1970: reevaluación de 45 RPM para uso de DJ"]
+    A2000["Década de 2000: reedición de 10 pulgadas como edición limitada/edición artística"]
+    A2020["Década de 2020: movimiento de reexamen por parte de los audiófilos"]
 
-A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
+    A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 
 
 </div>
@@ -194,19 +194,19 @@ A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 
 <div class="mermaid">
 
-diagrama de flujo de tuberculosis
-S["Punta del lápiz óptico"]
-G["ranura"]
-L["Modulación lateral\n→ Información estéreo L/R"]
-V["Modulación vertical\n→ Información de fase/baja frecuencia"]
-D["Profundidad\n→ Depende de la amplitud"]
-W["Ancho de ranura (Ancho)\n→ Proporcional a la presión sonora"]
+flowchart TB
+    S["Punta del lápiz óptico"]
+    G["Ranura"]
+    L["Modulación lateral\n→ Información estéreo L/R"]
+    V["Modulación vertical\n→ Información de fase/baja frecuencia"]
+    D["Profundidad del ritmo\n→ Depende de la amplitud"]
+    W["Ancho de ranura (Ancho)\n→ Proporcional a la presión sonora"]
 
-S -->|Seguir| GRAMO
-GRAMO --> L
-GRAMO --> V
-G --> D
-GRAMO --> W
+    S -->|Seguir| G
+    G --> L
+    G --> V
+    G --> D
+    G --> W
 
 </div>
 
@@ -216,21 +216,21 @@ GRAMO --> W
 
 <div class="mermaid">
 
-diagrama de flujo TD
-O["Borde exterior: Alta velocidad lineal → Buena reproducción de altas frecuencias"]
-M["Rango medio: Disminución de velocidad lineal → Comienza la atenuación de rango alto"]
-I["Borde interior: velocidad lineal baja → Aumento de distorsión del borde interior/atenuación de alta frecuencia"]
+flowchart TD
+    O["Borde exterior: Alta velocidad lineal → Buena reproducción de altas frecuencias"]
+    M["Rango medio: Disminución de velocidad lineal → Comienza la atenuación de rango alto"]
+    I["Borde interior: baja velocidad lineal → Aumento de la distorsión del borde interior y atenuación de alta frecuencia"]
 
-O --> M --> Yo
+    O --> M --> I
 
-%% Agregar anotación en el nodo
-A["Velocidad lineal: circunferencia exterior > circunferencia interior → Las características de alta frecuencia son ventajosas"]
-B["distorsión del surco interno: aumenta en el surco interno → las frecuencias altas se vuelven más redondas"]
-C["Presión sonora (amplitud): proporcional al ancho del surco → Compensación con el tiempo de reproducción"]
+    %% Agregar anotación con nodo
+    A["Velocidad lineal: circunferencia exterior > circunferencia interior → Las características de alta frecuencia son ventajosas".]
+    B["Distorsión del surco interno: aumenta en la circunferencia interna → las frecuencias altas se vuelven más redondas"]
+    C["Presión del sonido (amplitud): proporcional al ancho del surco → Compensación con el tiempo de reproducción"]
 
-A-.->O
-B-.->yo
-C-.->M
+    A -.-> O
+    B -.-> I
+    C -.-> M
 
 </div>
 

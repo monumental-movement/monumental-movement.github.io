@@ -32,7 +32,7 @@ Lo exploraremos desde múltiples ángulos, incluidos 1) antecedentes históricos
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -43,7 +43,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Estructura de las canciones Showa como “memoria”
@@ -103,7 +103,7 @@ En otras palabras, las canciones de Showa exportan "emoción como textura".
 ## Capítulo 5: La intersección de los archivos digitales y la política cultural japonesa
 
 Lo interesante es que este boom fue difundido por oyentes privados.
-No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la delantera.
+No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la iniciativa.
 
 Sin embargo, en la década de 2020, el contenido "Showa retro" aumentó rápidamente en festivales y exposiciones en el extranjero.
 NHK y las discográficas también han abierto canales oficiales con subtítulos en inglés.
@@ -159,26 +159,26 @@ Aunque la era Showa se ha vuelto muy lejana, continúa repitiéndose en la mente
 
 ## Cronología: El proceso de internacionalización de las canciones Showa
 
-| 年 | 出来事 | 備考 |
+| Año | Eventos | Notas |
 |----|--------|------|
-| 1950s | 戦後歌謡の形成、美空ひばり・江利チエミ登場 | 大衆の感情共有の基盤 |
-| 1970s | ニューミュージックとアイドル黄金期 | 松任谷由実、山口百恵、キャンディーズ |
-| 1980s | シティポップ成熟 | 山下達郎、大滝詠一、竹内まりや |
-| 2010s | YouTubeで海外発見、Vaporwave文化と接続 | 松原みき再評価 |
-| 2020s | TikTok・Spotify経由で世界的ブーム | 「昭和レトロ」再燃、AI昭和音楽誕生 |
+| Década de 1950 | Formación de canciones pop de posguerra, aparición de Hibari Misora ​​​​y Chiemi Eri | Fundación para compartir emociones entre las masas |
+| Década de 1970 | Nueva música y la época dorada de los ídolos | Yumi Matsutoya, Momoe Yamaguchi, Caramelos |
+| Década de 1980 | Madurez del pop urbano | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
+| Década de 2010 | Descubre el extranjero con YouTube y conéctate con la cultura vaporwave | Miki Matsubara reevaluando |
+| Años 2020 | Auge global a través de TikTok y Spotify | “Showa Retro” reavivado, nacimiento de la música AI Showa |
 
 ---
 
 <div class="mermaid">
 
-línea de tiempo
-título Proceso de difusión en el extranjero de las canciones Showa
-1950: “Formación de canciones pop de posguerra, aparece Hibari Misora”
-1970: "Nueva música ídolo Kayo"
-1980: “Madurez del City Pop y del Pop Urbano”
-2010: "Inicio de la reevaluación en el extranjero en YouTube"
-2020: "El boom de Showa en la era TikTok"
-2025: "Reconstrucción de la era Showa virtual utilizando IA"
+timeline
+    title 昭和歌謡の海外波及プロセス
+    1950 : "戦後歌謡の形成、美空ひばり登場"
+    1970 : "ニューミュージック・アイドル歌謡"
+    1980 : "シティポップと都市型ポップの成熟"
+    2010 : "YouTubeで海外再評価開始"
+    2020 : "TikTok時代の昭和ブーム"
+    2025 : "AIによる仮想昭和の再構築"
 
 </div>
 

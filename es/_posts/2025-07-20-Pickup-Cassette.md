@@ -14,7 +14,7 @@ title: Recoger cinta de casete funciona
 
 “Un grupo notable de obras en cintas de casete que capturan vívidamente el aliento del underground y emiten una estética única”.
 
-<hr>
+<hora>
 
 ### Sin artista – Entornos (casete dos)
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
@@ -34,7 +34,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### El arte del ruido: tonterías sin sentido
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
@@ -84,7 +84,7 @@ B16. One Earth
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Beso - Rock and Roll Over
@@ -113,7 +113,7 @@ B5. Makin' Love
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Amany y The Badawist – Vamos, Bassem
@@ -152,7 +152,7 @@ Come on, Bassem
 [Comprar en Mercari](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
 
 
-<hr>
+<hora>
 
 
 ### Thomas Newman – Aroma de mujer
@@ -188,7 +188,7 @@ B7. End Title
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Adam Clayton y Larry Mullen – Tema de Misión: Imposible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
@@ -209,7 +209,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Dieselboy – La versión del director
@@ -259,7 +259,7 @@ B. Side B
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Varios – ¡Disfruta! Historia
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Disfrute!%20Story.webp"></a>
@@ -310,7 +310,7 @@ D9. Higher Ground – Shake 'Em Up
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Ejecutar‑D.M.C. – Rey del rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
@@ -337,7 +337,7 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Dr. Dre - Déjame montar
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
@@ -367,92 +367,92 @@ Guest– George Clinton
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista</th>
 <th>Título</th>
 <th>era</th>
 <th>Género</th>
 <th>Comentarios</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Sin artista</td>
 <td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Entornos</a></td>
 <td>década de 1970</td>
 <td>Grabación/curación de campo</td>
 <td>Paisaje sonoro curativo que captura el entorno natural</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>El arte del ruido</td>
 <td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">Sin sentido, tonterías </a></td>
 <td>1987</td>
 <td>Sintetizador pop de Leftfield</td>
 <td>Art pop x creación de sintetizador única y experimental</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Beso</td>
 <td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Roca y rueda</a></td>
 <td>1976</td>
 <td>rock duro de los 70</td>
 <td>Cassette de la primera edición de Japón, vintage genial</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Amany y el badawista</td>
 <td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Vamos, Bassem</a></td>
 <td>1996</td>
 <td>Música tribal/mundial</td>
 <td>Sonidos tribales de Oriente Medio y África</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Thomas Newman</td>
 <td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Perfume de mujer</a></td>
 <td>1992</td>
 <td>Banda sonora de la película</td>
 <td>Cinta musical original para películas clásicas</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Adam Clayton y Larry Mullen</td>
 <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
 <td>1996</td>
 <td>Tema musical de la película</td>
 <td>Cinta oficial de la película “Misión Imposible”</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dieselboy</td>
 <td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">La versión del director</a></td>
 <td>1998</td>
 <td>Drum y bajo</td>
 <td>Mezcla intensa del DJ americano de drum and bass</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Varios</td>
 <td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">¡Disfruta! Historia</a></td>
 <td>1988</td>
 <td>Hip hop clásico</td>
 <td>Recopilación de los primeros días de la era de la Nación Zulú</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ejecutar‑D.M.C.</td>
 <td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">Rey del Rock</a></td>
 <td>1985</td>
 <td>Fusión hip-hop/rock</td>
 <td>Trabajo pionero en rock y rap popular</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dra. dre</td>
 <td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Déjame montar</a></td>
 <td>1992</td>
 <td>Hip-hop clásico/G-funk</td>
 <td>Canciones representativas del sonido de la Costa Oeste</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

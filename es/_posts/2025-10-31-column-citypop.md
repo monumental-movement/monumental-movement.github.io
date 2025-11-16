@@ -31,7 +31,7 @@ DJ Night Tempo dijo: "Esta música es nostalgia del futuro". En otras palabras, 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## 2. Definición del pop urbano: paisajes sonoros urbanos
@@ -139,16 +139,16 @@ Aquí radica la esencia de la "nostalgia digital", que va más allá de la tradu
 ## 9. Influencia en los artistas contemporáneos.
 
 En el Japón de la década de 2020 está surgiendo una nueva generación que ha heredado el ADN del pop urbano.
-No sólo Suchmos, Lucky Tapes, cero y Nulbarich, sino también artistas jóvenes como iri, Taichi Mukai y Vaundy forman parte de ese linaje.
+Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino también a artistas jóvenes como iri, Taichi Mukai y Vaundy.
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó particularmente en Estados Unidos, Brasil, Corea del Sur y Francia.
+Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
 En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
 
 ---
 
-## 10. Conclusión: La era en la que la nostalgia se convierte en un producto de exportación
+## 10. Conclusión: Una era en la que la nostalgia se convierte en un producto de exportación
 
 La música que los japoneses alguna vez crearon como un "sueño urbano" ahora resuena en la gente del otro lado del mundo, 40 años después.
 Esto no es sólo nostalgia, sino una inversión en la que "el pasado se convierte en futuro".
@@ -164,17 +164,17 @@ La noche citadina comienza a iluminarse nuevamente en los oídos del mundo.
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología del redescubrimiento del City Pop
-1978: Tatsuro Yamashita lanza "SPACY", el prototipo del pop urbano.
-1981: Grabado "Plastic Love" de Mariya Takeuchi.
-1985: Toshio Kadomatsu “EL MAR ES UNA DAMA”.
-1990: Estallido de la burbuja, declive del género.
-2003: DJ MURO y otros lanzaron una mezcla redescubierta.
-2017: “Plastic Love” se difundió en el extranjero en YouTube.
-2019: La serie "Showa Groove" de Night Tempo se convierte en un éxito internacional.
-2022: La lista de reproducción “Tokyo Night Drive” de Spotify es popular en todo el mundo.
-2025: Se instalará un escenario exclusivo City Pop en festivales extranjeros.
+timeline
+    title シティポップ再発見の年表
+    1978 : 山下達郎『SPACY』発表、シティポップの原型。
+    1981 : 竹内まりや『Plastic Love』収録。
+    1985 : 角松敏生『SEA IS A LADY』。
+    1990 : バブル崩壊、ジャンル衰退。
+    2003 : DJ MUROらが再発掘ミックスを発表。
+    2017 : YouTubeで“Plastic Love”が海外拡散。
+    2019 : Night Tempo『Showa Groove』シリーズが国際的成功。
+    2022 : Spotify “Tokyo Night Drive”プレイリストが世界人気。
+    2025 : 海外フェスでCity Pop専用ステージ設置へ。
 
 </div>
 
@@ -184,13 +184,13 @@ título Cronología del redescubrimiento del City Pop
 
 <div class="mermaid">
 
-gráfico TD
-A[pop urbano japonés de los 80] --> B[carga de YouTube]
-B --> C [Difusión por algoritmo]
-C --> D [Redescubrimiento de oyentes extranjeros]
-D --> E [Influencia en la cultura DJ/vaporwave]
-E --> F [Influencia en los artistas contemporáneos]
-F --> G [Globalización de la nostalgia]
+graph TD
+A[Pop urbano japonés de los 80] --> B[subir youtube]
+B --> C[propagación algorítmica]
+C --> D[Redescubriendo a los oyentes extranjeros]
+D --> E[Influencia en la cultura DJ/vaporwave]
+E --> F[Influencia en los artistas contemporáneos]
+F --> G[Globalización de la nostalgia]
 
 </div>
 

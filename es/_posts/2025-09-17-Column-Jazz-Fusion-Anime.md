@@ -10,8 +10,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Columna] Afinidad entre anime y jazz/fusión: Una historia de noches y música
-  de ciudad'
+title: '[Columna] La afinidad entre el anime y el jazz/fusión: una historia de noches
+  y música de ciudad'
 ---
 
 
@@ -25,7 +25,7 @@ Desde trepidantes escenas de persecución hasta tranquilas escenas cotidianas y 
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### ■ Ejemplo representativo de éxito: “Cowboy Bebop”
@@ -75,15 +75,15 @@ Representación psicológica tranquila y sonido persistente → Los sonidos déb
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1970["Década de 1970: Lupin III" El sonido del jazz de Yuji Ohno"]
-A198["Década de 1980: elementos de pop urbano + fusión de jazz impregnan la banda sonora"]
-A199["Década de 1990: "Cowboy Bebop" Yoko Kanno y los cinturones de seguridad"]
-A200["Década de 2000: "Nodame Cantabile" Clásica + Arreglo de Jazz"]
-A201["Década de 2010: Narración del jazz a través de la representación del "Apolo en la pendiente""]
-A202["Década de 2020: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington y otros)"]
+flowchart TD
+    A1970["Década de 1970: Lupin III: el sonido del jazz de Yuji Ohno"]
+    A198["Década de 1980: elementos de pop urbano + fusión de jazz impregnan la banda sonora"]
+    A199["Década de 1990: "Cowboy Bebop" Yoko Kanno y los cinturones de seguridad"]
+    A200["Década de 2000:" Nodame Cantabile "Arreglo clásico + jazz"]
+    A201["Década de 2010: Narrando el jazz a través de la representación de la sesión 'Apollo on the Slope'"]
+    A202["Década de 2020: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington y otros)"]
 
-A1970 --> A198 --> A199 --> A200 --> A201 --> A202
+    A1970 --> A198 --> A199 --> A200 --> A201 --> A202
 
 
 </div>
@@ -92,14 +92,14 @@ A1970 --> A198 --> A199 --> A200 --> A201 --> A202
 
 ### ■ Obras de jazz/fusión recomendadas para fans del anime.
 
-| 年代    | アーティスト/アルバム          | おすすめトラック                     |
-| ----- | ------------------------- | ------------------------------- |
-| 1970s | **Miles Davis** *Bitches Brew*  | 「Pharaoh's Dance」：混沌とした宇宙戦闘シーンに |
-| 1980s | **Miles Davis** *Tutu*  | 「Tutu」：都会の夜を歩くキャラクターに |
-| 1990s | **渡辺香津美** *Tokyo Ensemble Lab* | 「Manhattan Flu Dance」：ビバップ的疾走感 |
-| 2000s | **Pat Metheny & Charlie Haden** *Beyond the Missouri Sky* | 「Our Spanish Love Song」：静謐な心理描写に |
-| 2010s | **Robert Glasper Experiment** *Black Radio* | 「Afro Blue」：都市的で現代的な日常シーン |
-| 2020s | **Kamasi Washington** *Heaven and Earth* | 「Street Fighter Mas」：アクションとSF世界観にマッチ |
+| Año | Artista/Álbum | Pistas recomendadas |
+| ----- | ------------------------- | ---------------------------- |
+| Década de 1970 | **Miles Davis** *Bitches Brew* | "La danza del faraón": una caótica escena de batalla espacial |
+| Década de 1980 | **Miles Davis** *Tutú* | "Tutu": Un personaje paseando por la ciudad de noche |
+| Década de 1990 | **Katsumi Watanabe** *Laboratorio de conjunto de Tokio* | "Manhattan Flu Dance": velocidad similar al bebop |
+| Años 2000 | **Pat Metheny y Charlie Haden** *Más allá del cielo de Missouri* | “Nuestra canción de amor española”: una tranquila descripción psicológica |
+| Década de 2010 | **Experimento de Robert Glasper** *Radio Negra* | "Afro Blue": escena de la vida cotidiana urbana y contemporánea |
+| Años 2020 | **Kamasi Washington** *Cielo y Tierra* | “Street Fighter Mas”: Combina cosmovisión de acción y ciencia ficción |
 
 
 ---
@@ -107,14 +107,14 @@ A1970 --> A198 --> A199 --> A200 --> A201 --> A202
 
 ### ■ Mesa cruzada de fantasía (escenas de anime específicas x canciones de jazz)
 
-| アニメのシーン                      | 妄想で流したいジャズ／フュージョン曲                     | 解説                          |
-| ---------------------------- | -------------------------------------- | --------------------------- |
-| ルパン三世が夜の街を駆け抜ける              | Dave Brubeck「Take Five」                | 5拍子の軽快さがルパンの洒脱さを強調          |
-| スパイク vs ヴィシャス（カウボーイビバップ最終対決） | John Coltrane「A Love Supreme」          | 崇高な緊張感と宿命の戦いを象徴             |
-| 雨の日の新海誠作品のワンシーン              | Bill Evans「Waltz for Debby」            | 透明感あるピアノが映像美と共鳴             |
-| 坂道のアポロンでのセッション               | Art Blakey「Moanin'」                    | ドラムとホーンの熱量が青春の高揚を増幅         |
-| シリアスな心理戦（エヴァやデスノート）          | Miles Davis「So What」                   | クールなモード・ジャズが知的緊張感を支える       |
-| LAZARUS：終盤のタイムリミット戦闘シーン      | Kamasi Washington「Change of the Guard」 | 壮大でスピリチュアルなサウンドが人類存亡のテーマを強調 |
+| Escena de anime | Canción de jazz/fusión que quieres tocar en tu imaginación | Explicación |
+| --------------------------- | ------------------------------------ | --------------------------- |
+| Lupin Tercero corre por la ciudad de noche | Dave Brubeck “Toma cinco” | La ligereza de las cinco firmas subraya el estilo de Lupin |
+| Spike vs. Vicious (enfrentamiento final de Cowboy Bebop) | John Coltrane “Un amor supremo” | Simboliza una tensión sublime y una batalla fatídica.
+| Una escena del trabajo de Makoto Shinkai en un día lluvioso | Bill Evans "Vals para Debby" | El piano transparente resuena con la belleza de la imagen |
+| Sesión en Sakamichi no Apollon | Art Blakey "Gimiendo" | El calor de los tambores y las trompetas amplifica la alegría de la juventud |
+| Guerra psicológica grave (Eva y Death Note) | Miles Davis “Y qué” | El jazz en modo cool apoya la tensión intelectual |
+| LÁZARO: Escena de batalla por límite de tiempo final | Kamasi Washington “Cambio de guardia” | Un sonido grandioso y espiritual enfatiza el tema de la supervivencia humana |
 
 ---
 

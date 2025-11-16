@@ -29,7 +29,7 @@ Existía incluso antes de que se inventara la tecnología de grabación; era una
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Memoria y ritmo: la música como “estructura del tiempo”
@@ -61,7 +61,7 @@ Las listas de reproducción de Spotify también son solo un formato nuevo.
 
 ## Capítulo 2: Grabación y reproducción: nacimiento del “tiempo grabado”
 
-A principios del siglo XX, cuando apareció **el fonógrafo de Edison**, los humanos pudimos reproducir por primera vez los "sonidos del pasado".
+A principios del siglo XX, cuando apareció **el fonógrafo de Edison**, la humanidad pudo reproducir por primera vez los “sonidos del pasado”.
 Fue una revolución en la historia de la música y, al mismo tiempo, fue el nacimiento de la "tecnología para preservar el tiempo".
 
 Discos, cintas, CD, MP3 y streaming.
@@ -150,14 +150,14 @@ La música es una forma artística de la memoria misma.
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología principal de la música y la memoria (1900-2020)
-1900: Se difunde el fonógrafo de Edison y comienza la cultura de la grabación.
-1950: Edad de oro de la radio, memoria musical establecida en casa
-1979: Lanzamiento del Walkman de Sony, que cambia la relación entre las personas y la música.
-1999: aparece Napster y comienza el intercambio de música digital
-2010: difusión del streaming de Spotify, almacenamiento de recuerdos en la nube
-2020: la recomendación de listas de reproducción utilizando IA se vuelve común, la memoria se vuelve algorítmica
+timeline
+    title 音楽と記憶の主要年表（1900–2020）
+    1900 : エジソンの蓄音機が普及、録音文化の幕開け
+    1950 : ラジオ黄金期、家庭での音楽記憶が定着
+    1979 : Sony Walkman発売、個人と音楽の関係が変化
+    1999 : Napster登場、デジタル音楽共有が始まる
+    2010 : Spotifyのストリーミング普及、記憶のクラウド化
+    2020 : AIによるプレイリスト推薦が一般化、記憶のアルゴリズム化
 
 </div>
 
@@ -167,15 +167,15 @@ título Cronología principal de la música y la memoria (1900-2020)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[estimulación sonora] --> B[corteza auditiva]
-B --> C [hipocampo (formación de memoria)]
-B --> D [Amígdala (emoción)]
-C --> E[Memoria de episodios]
-D --> F[Reacción emocional]
-E --> G [Re-experimentar el pasado a través de la música]
-F --> GRAMO
-G --> H[Generación de nostalgia]
+flowchart TD
+    A[estimulación sonora] --> B[corteza auditiva]
+    B --> C[Hipocampo (formación de la memoria)]
+    B --> D[amígdala (emoción)]
+    C --> E[memoria episódica]
+    D --> F[reacción emocional]
+    E --> G[Reexperimentar el pasado a través de la música]
+    F --> G
+    G --> H[Generación de nostalgia]
 
 </div>
 
@@ -183,10 +183,10 @@ G --> H[Generación de nostalgia]
 
 ### Referencias
 
-| 書名 | 著者 | 出版社 | リンク |
-|------|-------|----------|---------------|
-| 音楽嗜好症 ― 脳と音楽が出会うとき | オリヴァー・サックス | 早川書房 | [Amazon](https://amzn.to/3IVGnc9) |
-| あなたの脳は音楽をどう感じるか | ダニエル・J・レヴィティン | 白揚社 | [Amazon](https://amzn.to/43k1Hig) |
-| 音楽と脳：響きあう人間の心 | 伊藤正男 | 中央公論新社 | [Amazon](https://amzn.to/3Wd4DJI) |
+| Título del libro | Autor | Editor | Enlace |
+|------|-------|-----------|---------------|
+| Musicofilia - Cuando el cerebro y la música se encuentran | Sacos Oliver | Hayakawa Shobo | [Amazon](https://amzn.to/3IVGnc9) |
+| Cómo se siente tu cerebro con la música | Daniel J. Levitin | Hakuyosha | [Amazon](https://amzn.to/43k1Hig) |
+| La música y el cerebro: corazones humanos en resonancia | Masao Ito | Chuokoron-Shinsha | [Amazon](https://amzn.to/3Wd4DJI) |
 
 

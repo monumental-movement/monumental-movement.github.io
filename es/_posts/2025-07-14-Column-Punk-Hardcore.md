@@ -14,7 +14,7 @@ title: '[Columna] Definición de punk y hardcore: el punto de inflexión entre l
 ---
 
 
-## Definición de punk y hardcore ─ La encrucijada de la ira y la expresión
+## Definición de punk y hardcore: la encrucijada de la ira y la expresión
 
 Texto: mmr｜Tema: Punk/Hardcore
 
@@ -22,7 +22,7 @@ A finales de la década de 1970, los jóvenes se sentían saturados con la músi
 En esta columna profundizaremos en las definiciones y diferencias entre punk y hardcore desde la perspectiva de la música, la ideología, la moda y la historia.
 
 
-<hr>
+<hora>
 
 ### ¿Qué es el punk?
 
@@ -53,7 +53,7 @@ En Gran Bretaña, en la década de 1970, la recesión, las crecientes tasas de d
 Políticamente, fue la etapa naciente del thatcherismo. La música funcionó como esa contracultura.
 
 
-<hr>
+<hora>
 
 ### ¿Qué es duro?
 
@@ -84,58 +84,58 @@ Políticamente, fue la etapa naciente del thatcherismo. La música funcionó com
 - La violencia y las pandillas también son un problema en algunas escenas.
 
 
-<hr>
+<hora>
 
 ### Diferencias y similitudes entre punk y hardcore
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artículo</th>
 <th>Punk</th>
 <th>Duro</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Musicalidad</td>
 <td>Simple, cercano al bloqueo inicial</td>
 <td>Más rápido, más destructivo, más profundo</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Mensaje</td>
 <td>Antisistema/antiautoridad</td>
 <td>Más radical y político</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Moda</td>
 <td>Mohawk, imperdible, decoraciones elegantes</td>
 <td>Orientado a la calle, minimalista, práctico</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>regionalidad</td>
 <td>Origen británico (+NY)</td>
 <td>Originalmente en América (especialmente en las costas oeste y este)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Espiritualidad</td>
 <td>Anarquía, libertad</td>
 <td>Disciplina (rectitud), reforma interior</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Cultura viva</td>
 <td>Destructivo pero expresivo</td>
 <td>A veces violento y centrado en el sexo grupal</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
 
 Sin embargo, los dos no tienen una relación conflictiva. Se puede decir que el hardcore es una forma evolucionada o ramificada de punk, o más bien se puede interpretar como que el hardcore se vuelve más radical como resultado de intentar mantener los aspectos fundamentalistas del punk.
 
 
-<hr>
+<hora>
 
 ### Punk y hardcore desde una perspectiva actual
 
@@ -148,7 +148,7 @@ En Japón, el hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) ha creado una cul
 Hoy en día, hay una reevaluación entre la Generación Z y los festivales de bricolaje, y continúa manteniendo su fuerza como subcultura.
 
 
-<hr>
+<hora>
 
 ### Más allá de la “rebelión”
 

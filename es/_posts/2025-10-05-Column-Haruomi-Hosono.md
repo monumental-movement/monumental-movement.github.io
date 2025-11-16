@@ -25,7 +25,7 @@ Diversas culturas, humor, nostalgia, tecnología: todo ello se mezcla en el soni
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -35,7 +35,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### Prólogo: Día de los Inocentes - Actividades Prehistóricas (1969)
 
@@ -51,7 +51,7 @@ Antes de la formación de Happy End, 1969-1970. Un período de exploración del 
 Grabación analógica en casa o en un pequeño estudio. Utiliza órgano, guitarra y micrófono simple.
 
 #### Anécdota
-Un amigo añadió efectos de sonido y risas a las grabaciones, y su sentido del humor se desarrolló rápidamente.
+Un amigo añadió efectos de sonido y risas a las grabaciones y su sentido del humor se desarrolló rápidamente.
 
 
 ---
@@ -85,7 +85,7 @@ Después de eso, se convirtió en la base para perseguir sus propios ideales son
 #### Obra maestra
 
 - “Mamá Caramelo” (1975)
-  
+
 Fusionan elementos de folk y rock psicodélico y muestran una musicalidad directamente relacionada con el Happy End posterior.
 Hosono participó en el bajo y el teclado, demostrando sus habilidades de improvisación y arreglos.
 
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) es una unidad revolucionaria que difundió la palab
 Como líder, Hosono utilizó máquinas de ritmo y secuenciadores para fusionar el humor asiático y los sonidos futuristas.
 
 #### Antecedentes históricos
-A principios de la década de 1980, Japón alcanzó la cima de su prosperidad tecnológica y económica.
+A principios de la década de 1980, Japón alcanzó la cima de su crecimiento tecnológico y económico.
 Una época en la que el desarrollo de las computadoras, los videojuegos y los instrumentos musicales electrónicos se fusionaron con la música.
 El sonido de YMO era un símbolo de Japón como nación electrónica.
 
@@ -218,7 +218,7 @@ Hosono dijo en broma: "La música se trata de vivir con el azar".
 - "ECM" (1995)
 
 Fue una época en la que trabajó en música para una amplia variedad de medios, incluyendo animación, películas y comerciales.
-"La noche en el ferrocarril galáctico" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
+"Night on the Galaxy Express" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
 
 #### Antecedentes históricos
 Tras el estallido de la burbuja económica, los valores de Japón se han visto sacudidos.

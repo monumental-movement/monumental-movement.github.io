@@ -40,7 +40,7 @@ La "música experimental" nació como un intento de desviarse de las armonías y
 ## 10 selecciones recomendadas
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -51,20 +51,20 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Pierre Schaeffer | Étude aux chemins de fer | 1948 |
-| John Cage | 4’33’’ | 1952 |
-| John Cage | Williams Mix | 1952 |
-| Pierre Henry | Symphonie pour un homme seul | 1950 |
-| Karlheinz Stockhausen | Studie II | 1954 |
-| Edgard Varèse | Poème électronique | 1958 |
-| John Cage | Imaginary Landscape No.4 | 1951 |
-| Luigi Russolo（再録音作品） | Intonarumori Demo | 1940s再現 |
-| Morton Feldman | Projection I | 1950 |
-| Earle Brown | December 1952 | 1952 |
+| Pierre Schaeffer | Estudio sobre los caminos de hierro | 1948 |
+| Juan jaula | 4'33'' | 1952 |
+| Juan jaula | Mezcla de Williams | 1952 |
+| Pedro Henry | Sinfonía para un hombre solo | 1950 |
+| Karlheinz Stockhausen | Estudio II | 1954 |
+| Edgard Varèse | Poema electrónico | 1958 |
+| Juan jaula | Paisaje Imaginario No.4 | 1951 |
+| Luigi Russolo (regrabación) | Demostración de Intonarumori | Reproducción de los años 40 |
+| Morton Feldman | Proyección I | 1950 |
+| Earle Brown | diciembre de 1952 | 1952 |
 
 ---
 
@@ -81,18 +81,18 @@ color: #fff;
 
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| La Monte Young | The Second Dream of the High-Tension Line Stepdown Transformer | 1962 |
-| Terry Riley | In C | 1968 |
-| Steve Reich | Piano Phase | 1967 |
-| Pauline Oliveros | Bye Bye Butterfly | 1965 |
-| Silver Apples | Oscillations | 1968 |
-| Stockhausen | Kontakte | 1960 |
-| Alvin Lucier | Music for Solo Performer | 1965 |
-| Cornelius Cardew | Treatise | 1967 |
-| Morton Subotnick | Silver Apples of the Moon | 1967 |
-| AMM | AMMMusic | 1966 |
+| La Monte Joven | El segundo sueño del transformador reductor de línea de alta tensión | 1962 |
+| Terry Riley | En C | 1968 |
+| Steve Reich | Fase de piano | 1967 |
+| Paulina Oliveros | Adiós mariposa | 1965 |
+| Manzanas plateadas | Oscilaciones | 1968 |
+| Stockhausen | Contacto | 1960 |
+| Alvin Lucier | Música para intérprete solista | 1965 |
+| Cornelio Cardew | Tratado | 1967 |
+| Morton Subotnick | Manzanas plateadas de la luna | 1967 |
+| AMM | AMMMúsica | 1966 |
 
 ---
 
@@ -109,18 +109,18 @@ color: #fff;
 
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Throbbing Gristle | Hamburger Lady | 1978 |
-| Brian Eno | Discreet Music | 1975 |
-| Faust | Krautrock | 1973 |
-| Philip Glass | Music in Twelve Parts (Part 1) | 1974 |
-| Laurie Anderson | O Superman (ライブ原曲) | 1979 |
-| Tangerine Dream | Phaedra | 1974 |
-| Kraftwerk | Autobahn | 1974 |
-| Suicide | Ghost Rider | 1977 |
-| Charlemagne Palestine | Strumming Music | 1974 |
-| Robert Ashley | Automatic Writing | 1979 |
+| Cartílago palpitante | Señora de la hamburguesa | 1978 |
+| Brian Eno | Música discreta | 1975 |
+| Fausto | Krautrock | 1973 |
+| Felipe Vidrio | Música en Doce Partes (Parte 1) | 1974 |
+| Laurie Anderson | Oh Superman (original en vivo) | 1979 |
+| Sueño de mandarina | Fedra | 1974 |
+| Kraftwerk | Autopista | 1974 |
+| Suicidio | El jinete fantasma | 1977 |
+| Carlomagno Palestina | Música de rasgueo | 1974 |
+| Robert Ashley | Escritura automática | 1979 |
 
 ---
 
@@ -138,17 +138,17 @@ color: #fff;
 
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Merzbow | Metal Acoustic Music | 1981 |
-| Nurse With Wound | Yagga Blues | 1982 |
-| Glenn Branca | Lesson No. 1 | 1980 |
-| Current 93 | Dogs Blood Rising | 1984 |
-| SPK | Metal Dance | 1983 |
-| Zoviet France | Popular Soviet Songs and Youth Music (excerpt) | 1985 |
-| Whitehouse | Wriggle Like a Fucking Eel | 1981 |
-| Sonic Youth | Lee Is Free | 1987 |
-| Test Dept | Compulsion | 1983 |
+| Merzbow | Música Acústica Metal | 1981 |
+| Enfermera con herida | Yagga Blues | 1982 |
+| Glenn Branca | Lección No. 1 | 1980 |
+| Actual 93 | Perros Sangre en aumento | 1984 |
+| SPK | Danza metálica | 1983 |
+| Francia Zovietna | Canciones populares soviéticas y música juvenil (extracto) | 1985 |
+| Casa Blanca | Muévete como una maldita anguila | 1981 |
+| Juventud sónica | Lee es libre | 1987 |
+| Departamento de pruebas | Compulsión | 1983 |
 | Einstürzende Neubauten | Yü-Gung | 1985 |
 
 ---
@@ -167,24 +167,24 @@ color: #fff;
 
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Oval | Do While | 1995 |
-| Aphex Twin | Rhubarb | 1994 |
+| Óvalo | Hacer mientras | 1995 |
+| Aphex gemelo | ruibarbo | 1994 |
 | Autechre | Eutow | 1995 |
-| Fennesz | Aus | 1997 |
+| Fennesz | Australia | 1997 |
 | Ryoji Ikeda | +/- [1] | 1996 |
 | Pan Sonic | Urania | 1995 |
-| Scanner | Mass Observation | 1994 |
-| Matmos | California Rhinoplasty | 1998 |
-| Ikeda + Alva Noto | Uni Acronym | 1999 |
-| Merzbow | Pulse Demon (track 1) | 1996 |
+| Escáner | Observación masiva | 1994 |
+| Matmos | Rinoplastia de California | 1998 |
+| Ikeda + Alva Noto | Acrónimo Uni | 1999 |
+| Merzbow | Pulse Demon (pista 1) | 1996 |
 
 ---
 
 
 ## Década de 2000: portátiles y globalización
-- **Antecedentes:** El ruido, la electrónica y las grabaciones de campo se difunden internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
+- **Antecedentes:** Ruido, electrónica y grabaciones de campo difundidas internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
 - **Equipo:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Obra maestra
@@ -196,18 +196,18 @@ color: #fff;
 
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Fennesz | Endless Summer | 2001 |
-| Wolf Eyes | Stabbed in the Face | 2004 |
+| Fennesz | Verano sin fin | 2001 |
+| Ojos de lobo | Apuñalado en la cara | 2004 |
 | Ryoji Ikeda | Dataplex | 2005 |
-| Christian Fennesz & Ryuichi Sakamoto | Haru | 2005 |
-| Alva Noto | Xerrox Vol.1 (Xerrox Monophaser) | 2007 |
+| Christian Fennesz y Ryuichi Sakamoto | haru | 2005 |
+| Alva Noto | Xerrox Vol.1 (Xerrox monofásico) | 2007 |
 | Tim Hecker | Radio Spiricom | 2003 |
-| Oren Ambarchi | Grapes from the Estate | 2004 |
-| Burial | Gutted (アンビエント寄り) | 2005 |
-| KTL | Forest Floor | 2007 |
-| Matmos | Supreme Balloon | 2008 |
+| Orén Ambarchi | Uvas de la Finca | 2004 |
+| Entierro | Destripado (ambiente) | 2005 |
+| KTL | Suelo del bosque | 2007 |
+| Matmos | Globo Supremo | 2008 |
 
 ---
 
@@ -225,18 +225,18 @@ color: #fff;
 
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Oneohtrix Point Never | Replica | 2011 |
-| Tim Hecker | Virgins | 2013 |
-| Holly Herndon | Chorus | 2014 |
-| Ben Frost | Venter | 2014 |
-| Yves Tumor | Licking an Orchid | 2018 |
-| Caterina Barbieri | Fantas | 2019 |
-| Kaitlyn Aurelia Smith | An Intention | 2016 |
+| Punto Oneohtrix Nunca | Réplica | 2011 |
+| Tim Hecker | Vírgenes | 2013 |
+| Holly Herndon | Coro | 2014 |
+| Ben Escarcha | Venter | 2014 |
+| Tumor de Yves | Lamiendo una orquídea | 2018 |
+| Catalina Barbieri | Fantasias | 2019 |
+| Kaitlyn Aurelia Smith | Una intención | 2016 |
 | Roly Porter | 4101 | 2016 |
-| Lawrence English | Wilderness of Mirrors | 2014 |
-| Huerco S. | For Those of You Who Have Never (And Also Those Who Have) | 2016 |
+| Lorenzo Inglés | Desierto de Espejos | 2014 |
+| Huerco S. | Para aquellos de ustedes que nunca lo han hecho (y también para aquellos que sí lo han hecho) | 2016 |
 
 ---
 
@@ -252,18 +252,18 @@ color: #fff;
 ---
 ## 10 selecciones recomendadas
 
-| アーティスト | トラック | 年 |
+| Artista | Pista | Año |
 |--------------|----------|----|
-| Holly Herndon | Frontier | 2019（AI合唱） |
-| Kali Malone | Living Torch I | 2022 |
-| Caterina Barbieri | Broken Melody | 2022 |
-| Amnesia Scanner | AS Tearless | 2020 |
-| Autechre | Sign | 2020 |
-| Lee Gamble | A Tergo Real | 2021 |
-| Object Blue | Ecstasy of Saint Teresa | 2021 |
+| Holly Herndon | Frontera | 2019 (coro de AI) |
+| Kali Malone | Antorcha Viviente I | 2022 |
+| Catalina Barbieri | Melodía rota | 2022 |
+| Escáner de amnesia | AS sin lágrimas | 2020 |
+| Autechre | Firmar | 2020 |
+| Lee apuesta | Un Tergo Real | 2021 |
+| Objeto Azul | Éxtasis de Santa Teresa | 2021 |
 | Ryoji Ikeda | Ultra | 2020 |
-| Kali Malone | The Sacrificial Code | 2020 |
-| Marina Herlop | miu | 2022 |
+| Kali Malone | El Código de Sacrificio | 2020 |
+| Puerto deportivo Herlop | miu | 2022 |
 
 ---
 

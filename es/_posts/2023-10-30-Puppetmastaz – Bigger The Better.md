@@ -13,7 +13,7 @@ title: Puppetmastaz – Cuanto más grande, mejor
 ---
 
 
-Puppetmastaz(パペットマスターズ)は、1996年にベルリンで結成されたドイツのヒップホップグループで、Max Turner(マックス ターナー)、 Chilly Gonzales(チリー ゴンザレス)、Paul PM(ポール PM/Mister Malokeミスター マローク)、Mocky(モッキー)、そして 2003 年にバンドを脱退したAlex Tiller(アレックス ティラー)といったドイツ、米国、カナダ出身のメンバーで構成されています。
+Puppetmastaz es un grupo alemán de hip-hop formado en Berlín en 1996, formado por miembros de Alemania, Estados Unidos y Canadá, incluidos Max Turner, Chilly Gonzales, Paul PM, Mister Maloke, Mocky y Alex Tiller, quienes dejaron la banda en 2003.
 
 Puppetmastaz realiza espectáculos utilizando títeres de mano y se caracteriza por un estilo musical que incorpora elementos de rap, funk y electrónica.
 

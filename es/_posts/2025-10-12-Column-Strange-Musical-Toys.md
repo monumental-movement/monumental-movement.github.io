@@ -27,7 +27,7 @@ En esta columna, rastreamos juguetes musicales inusuales de todo el mundo, desen
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ##Ⅰ. El placer de las manos jugando con el sonido
@@ -165,7 +165,7 @@ Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios 
 
 ##VII. Estética irregular escandinava
 
-En Escandinavia han aparecido pequeños sintetizadores de gran diseño.
+En Escandinavia han aparecido sintetizadores pequeños y de gran diseño.
 
 - Ingeniería adolescente OP-1
 - Serie Operador de bolsillo
@@ -202,28 +202,28 @@ Los sonidos de baja resolución y los ruidos accidentales se convierten en herra
 ## Ⅸ. Música de juguete del futuro
 
 Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
+El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un papel cultural importante en el futuro del sonido electrónico.
 
 ---
 
 ## Apéndice
 
-### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
+### Historia de la evolución de Strange Musical Toys en todo el mundo (cronología simple)
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 
-A1970["1970: Lanzamiento del Stylophone (Reino Unido)"]
-B1978["1978: Lanzamiento de Omnichord (Japón)"]
-C1979["1979: Se presenta Radel Electronic Tanpura (India)"]
-D1980["1980: Lanzamiento de CASIO VL-TONE (Japón)"]
-E1990["1990: Establecimiento del concepto de Circuit Bending (EE.UU.)"]
-F2007["2007: Lanzamiento del OP-1 de Teenage Engineering (Suecia)"]
-G2010["2010: Serie Pocket Operador (Suecia)"]
-H2020["2020: Se presenta un dispositivo de música de juguete con IA"]
+    A1970["1970: lanzamiento del Stylophone (Reino Unido)"]
+    B1978["1978: lanzamiento de Omnichord (Japón)"]
+    C1979["1979: Se presenta Radel Electronic Tanpura (India)"]
+    D1980["1980: lanzamiento de CASIO VL-TONE (Japón)"]
+    E1990["1990: Establecimiento del concepto de Circuit Bending (EE. UU.)"]
+    F2007["2007: Lanzamiento del OP-1 de Teenage Engineering (Suecia)"]
+    G2010["2010: Serie Pocket Operador (Suecia)"]
+    H2020["2020: Se presenta un dispositivo de música de juguete con IA"]
     
-A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
+    A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 </div>
 
@@ -245,16 +245,16 @@ A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
 ### Álbumes/libros recomendados de Strange Musical Toys
 
-| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
-|------------|--------------|--------|--------------------|--------------|
-| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
-| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
-| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
-| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
-| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
-| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
-| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
-| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
-| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
+| Nombre del álbum | Artista | Año de lanzamiento | Dispositivo utilizado/Características | Enlace |
+|------------|--------------|---------|--------------------|--------------|
+| Fantasma | Cornelio | 1997 | Pop/electrónica centrada en acordes Omnichord | [Amazon](https://amzn.to/4h7f2QM) |
+| Vespertino | Bjork | 2001 | Sensación de acordes delicados y sonidos electrónicos diminutos de Omnichord | [Amazon](https://amzn.to/4ojW240) |
+| Rareza espacial | David Bowie | 1969 | Estilofono usado, tono minimalista similar al espacio | [Amazon](https://amzn.to/48r48mx) |
+| Obras ambientales seleccionadas 85–92 | Aphex gemelo | 1992 | Ambient/techno con sonidos electrónicos de juguete como Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
+| Rondas | Cuatro Tet | 2003 | Sonido electrónico mini-sintetizador estilo Pocket Operador | [Amazon](https://amzn.to/4q451HY) |
+| Cosmograma | Loto volador | 2010 | Textura compleja que combina pequeños sonidos de sintetizador y juguete electrónico | [Amazon](https://amzn.to/4q2iujP) |
+| Exploraciones en circuito doblado | Reed Ghazala | 2005 | Libros sobre flexión de circuitos | [Amazon](https://amzn.to/4haxkAD) |
+| Demonio de pulso | Merzbow | 1996 | Música experimental centrada en juguetes electrónicos modificados y ruido. [Amazon](https://amzn.to/46TWAGo) |
+| Juegos de azar solares | Omar Rodríguez-López | 2010 | Mini sintetizador, guitarra de vanguardia con sonidos electrónicos de juguete | [Amazon](https://amzn.to/4ofMWoK) |
+| Gran ciencia | Laurie Anderson | 1982 | Experimentos musicales/interpretativos utilizando Stylophone y sintetizadores simples | [Amazon](https://amzn.to/3WF0yhn) |
 

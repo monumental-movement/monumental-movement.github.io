@@ -26,7 +26,7 @@ La atmósfera estaba llena de bolas de espejos brillantes, surcos tipo Soul Trai
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## 1. Un dispositivo transcultural llamado “discoteca” que nació de noche en la ciudad
@@ -116,16 +116,16 @@ En otras palabras, la "musicalidad visual" de Red Lark anticipó el "diseño vis
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de la música disco japonesa de los 70 y Red Lark
-1970: Se establece el club “MUGEN” en Akasaka, Tokio
-1972: Se lanza Red Lark y se vuelve popular entre los jóvenes.
-1973: La película "Fiebre del sábado noche" se convirtió en un tema candente en Japón.
-1975: Se abre el prototipo de discoteca “Maharaja” en Roppongi
-1977: éxito de "OVNI" de Pink Lady
-1978: la cultura del DJ se incorpora a los anuncios de Red Lark.
-1979: Se inaugura Shibuya "Navana", se introduce la iluminación láser.
-1980: La cultura disco heredada del pop urbano.
+timeline
+    title 日本の70年代Discoと赤ラークの年表
+    1970 : 東京・赤坂にクラブ「MUGEN」誕生
+    1972 : 赤ラーク発売、若者層で人気に
+    1973 : 映画『サタデー・ナイト・フィーバー』が日本でも話題に
+    1975 : 六本木にディスコ「マハラジャ」原型オープン
+    1977 : ピンク・レディー「UFO」ヒット
+    1978 : 赤ラーク広告にDJ文化が取り込まれる
+    1979 : 渋谷「ナバーナ」開店、レーザー照明導入
+    1980 : ディスコ文化がシティポップへと継承
 
 </div>
 
@@ -170,12 +170,12 @@ Cuando enciendes el Red Lark, las noches de Tokio de los años 70 regresan a ti 
 ## Apéndice: Lista de canciones disco de referencia
 
 
-| 曲名                | アーティスト             | 年    | 備考                  |
-| ----------------- | ------------------ | ---- | ------------------- |
-| Stayin' Alive     | Bee Gees           | 1977 | 『サタデー・ナイト・フィーバー』代表曲 |
-| Disco Inferno     | The Trammps        | 1976 | 日本のクラブで定番化          |
-| Boogie Wonderland | Earth, Wind & Fire | 1979 | MUGENで人気            |
-| Soul Dracula      | Hot Blood          | 1977 | 当時のDJ御用達            |
-| 愛のコリーダ            | Quincy Jones       | 1981 | 日本的ディスコ感覚の延長線       |
+| Título de la canción | Artista | Año | Notas |
+| ----------------- | ------------------ | ---- | ------------------ |
+| Mantenerse vivo | Abejas | 1977 | Canción emblemática de "Saturday Night Fever" |
+| Discoteca Infierno | Los vagabundos | 1976 | Estandarizado en los clubes japoneses |
+| El país de las maravillas del boogie | Tierra, viento y fuego | 1979 | Popular en MUGEN |
+| Alma Drácula | Sangre Caliente | 1977 | Proveedor de DJ en ese momento |
+| Corrida de Amor | Quincy Jones | 1981 | Una extensión de la sensación disco japonesa |
 
 ---

@@ -31,7 +31,7 @@ La música de Three Suns influyó silenciosamente en las generaciones venideras,
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El Fenómeno de los Tres Soles – Música para el Hogar
@@ -87,12 +87,12 @@ Fue verdaderamente un **diseño interior de sonido**.
 
 ### Palabras clave de la cultura lounge de la época
 
-| 要素 | 内容 | Three Sunsとの関係 |
+| Elemento | Contenido | Relación con los Tres Soles |
 |------|------|----------------------|
-| Hi-Fiオーディオ | ステレオ再生の家庭普及 | 音響効果を意識した録音 |
-| カクテル文化 | アーバンな余裕の象徴 | 音楽が「酔い」と融合 |
-| 家庭映画 | 8mmフィルム時代のBGM | Three Sunsが多用された |
-| 宇宙志向 | スペースエイジ美学 | 音の浮遊感が共鳴 |
+| Audio de alta fidelidad | Popularización de la reproducción estéreo en los hogares | Grabación pensando en los efectos acústicos |
+| Cultura del cóctel | Símbolo del ocio urbano | Música fusionada con "intoxicación" |
+| Películas caseras | Música de fondo en la era del cine de 8 mm | Se utilizaba con frecuencia Tres Soles |
+| Orientado al espacio | Estética de la era espacial | El sonido flotante resuena |
 
 ---
 
@@ -102,7 +102,7 @@ En la década de 1960, con el auge del rock and roll, el acordeón rápidamente 
 Three Suns desapareció gradualmente y Al Nevins se dedicó a la producción.
 
 Sin embargo, en el siglo XXI, sus grabaciones han recuperado la atención con la reevaluación de Exotica y Lounge.
-En particular, el sonido del acordeón ha llegado a ser redefinido como un "sonido electrónico orgánico" anterior a los sintetizadores analógicos.
+En particular, el sonido del acordeón llegó a ser redefinido como un "sonido electrónico orgánico" anterior a los sintetizadores analógicos.
 
 > El acordeón es un símbolo de nostalgia,
 > Reencarnado en "sonido futuro psicodélico y de baja fidelidad".
@@ -116,12 +116,12 @@ El "ma", donde la densidad del sonido es fina y existe como el aire, fue el prec
 
 ### Sucesores modernos
 
-| アーティスト | 特徴 | Three Suns的要素 |
-|---------------|------|------------------|
-| Air | フランスのデュオ | アナログ感と浮遊するメロディ |
-| Cornelius | 日本 | 家庭音響的サウンド構築 |
-| Stereolab | 英仏 | レトロ・フューチャー音響 |
-| Beirut | 米 | アコーディオン復権の旗手 |
+| Artista | Características | Elementos de los Tres Soles |
+|--------------|------|-----|
+| Aire | Dúo francés | Sensación analógica y melodía flotante |
+| Cornelio | Japón | Construcción de sonido acústico para el hogar |
+| Laboratorio estéreo | Británico y francés | Sonido Retro-Futuro |
+| Beirut | América | Abanderado de la restauración del acordeón |
 
 ---
 
@@ -129,16 +129,16 @@ El "ma", donde la densidad del sonido es fina y existe como el aire, fue el prec
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de los tres soles (1940-2000)
-1940: Formada en Pensilvania (Al & Morty Nevins + Artie Dunn)
-1944: “La hora del crepúsculo” un gran éxito
-1950: Firma con RCA, entrando en la era del pop moderno.
-1956: Lanzamiento de "Movin' 'n' Groovin'"
-1957: “Midnight for Two” – Una obra maestra de la era Hi-Fi
-1962: La actividad se reduce y Nevins se dedica al trabajo de producción.
-1990: Reeditado y reevaluado debido al boom del Lounge.
-2000: Renacido como el “futuro retro del sonido” en la era de Internet
+timeline
+    title Three Suns 年表（1940–2000）
+    1940 : ペンシルヴェニアで結成（Al & Morty Nevins + Artie Dunn）
+    1944 : 「Twilight Time」大ヒット
+    1950 : RCAと契約、モダン・ポップ期へ
+    1956 : 『Movin' 'n' Groovin'』発表
+    1957 : 『Midnight for Two』― Hi-Fi時代の代表作
+    1962 : 活動縮小、Nevinsが制作業へ転向
+    1990 : Loungeブームで再発・再評価
+    2000 : ネット時代に「音のレトロ・フューチャー」として再生
 
 </div>
 
@@ -162,13 +162,13 @@ Está empezando a sonar una vez más en aras de un "futuro analógico".
 
 ## [Discografía (obras principales)]
 
-| 年    | タイトル                | レーベル | 備考                 |
+| Año | Título | Etiqueta | Notas |
 | ---- | ------------------- | ---- | ------------------ |
-| 1944 | Twilight Time       | RCA  | 代表曲、後にPlattersがカバー |
-| 1953 | On a Magic Carpet   | RCA  | エキゾチカ的音響の萌芽        |
-| 1956 | Movin' 'n' Groovin' | RCA  | ステレオ黎明期の名盤         |
-| 1957 | Midnight for Two    | RCA  | Hi-Fi録音の完成形        |
-| 1960 | Fever & Smoke       | RCA  | ジャズ的要素の強化          |
+| 1944 | Hora del Crepúsculo | RCA | Canción exclusiva, luego versionada por Platters |
+| 1953 | Sobre una alfombra mágica | RCA | El germen del sonido exótico |
+| 1956 | Moviéndose y bailando | RCA | Una obra maestra de los primeros días del estéreo |
+| 1957 | Medianoche para dos | RCA | Grabación Hi-Fi completa |
+| 1960 | Fiebre y humo | RCA | Fortalecimiento de los elementos del jazz |
 
 
 ---
@@ -177,16 +177,16 @@ Está empezando a sonar una vez más en aras de un "futuro analógico".
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Acordeón (respiración y melodía)"]
-B["Guitarra (Ritmo y Espacio)"]
-C["Órgano (armónicos y profundidad)"]
-D["Acústica del hogar (reverberación del salón)"]
+flowchart TD
+    A["Acordeón (respiración y melodía)"]
+    B["Guitarra (Ritmo y Espacio)"]
+    C["Órgano (armónicos y profundidad)"]
+    D["Acústica del hogar (reverberación del salón)"]
 
-A -->D
-B --> D
-C --> D
-D -->|"Universo envolvente de sonido"| E["Relajación/Felicidad/Nostalgia"]
+    A --> D
+    B --> D
+    C --> D
+    D -->|"Un universo sonoro envolvente"| E["Relajación/Felicidad/Nostalgia"]
 
 </div>
 

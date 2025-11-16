@@ -24,7 +24,7 @@ Drum & Bass (D&B) es un género musical nacido en la escena de clubes undergroun
 Su evolución ha sido increíble, con muchas ramas que van desde el jungla, el liquid funk y el techstep hasta el neurofunk, el jump-up y el drumstep.
 
 
-<hr>
+<hora>
 
 ### De la jungla al D&B
 
@@ -59,46 +59,46 @@ A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto s
 **DJ Hype / Ganja Kru**: Representante del sonido de salto.
 
 
-<hr>
+<hora>
 
 ### Estética de velocidad, graves profundos y descomposición.
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>elemento</th>
 <th>Contenido</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Tempo (BPM)</td>
 <td>Alrededor de 160-180. El más rápido en la música de club. </td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Breakbeat</td>
 <td>Utiliza mucho sampleo de Amen, Funky Drummer, Apache, etc.</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Subbase</td>
 <td>Los súper graves que resuenan con tu cuerpo son el núcleo de la música</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Estructura rítmica</td>
 <td>Caracterizado por síncopa, irregularidad y fragmentación</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Diseño de sonido</td>
 <td>El procesamiento de efectos como filtros, reverberación y distorsión es muy importante</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
 <br>
 
 
-<hr>
+<hora>
 
 ### Subgénero: El mundo de D&B con sus múltiples caras
 
@@ -127,7 +127,7 @@ Con un bajo pegadizo y una estructura sencilla, se conecta directamente con la p
 Un subgénero influenciado por el entretiempo y el dubstep. Escisión, enlace descendente, etc.
 
 
-<hr>
+<hora>
 
 ### La base que sostenía a D&B
 
@@ -144,7 +144,7 @@ Un subgénero influenciado por el entretiempo y el dubstep. Escisión, enlace de
 Además, medios no oficiales como Pirate Radio y Rinse FM jugaron un papel importante en la popularización de D&B.
 
 
-<hr>
+<hora>
 
 ### Música de ciudades multiculturales del Reino Unido
 
@@ -157,7 +157,7 @@ Nacido en ciudades multiétnicas como Londres y Bristol, D&B creció en la inter
 **Cruce con techno/IDM**: Squarepusher, Autechre, etc. desarrollan ritmos D&B.
 
 
-<hr>
+<hora>
 
 ### Moda/Estilo de vida
 
@@ -168,7 +168,7 @@ Nacido en ciudades multiétnicas como Londres y Bristol, D&B creció en la inter
 **Visual**: Futurista y cyberpunk. Las obras de arte también son importantes.
 
 
-<hr>
+<hora>
 
 ### Expansión y ramificación global
 
@@ -183,7 +183,7 @@ Actualmente, D&B reina como la base de la música bass en todo el mundo. Las esc
 **Sub Focus / Wilkinson**: Un vínculo entre lo convencional y lo underground.
 
 
-<hr>
+<hora>
 
 ### Drum & Bass es el “latido del corazón de la ciudad”
 

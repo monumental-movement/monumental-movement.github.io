@@ -18,7 +18,7 @@ title: '[Columna] Shochu cultivado por el sonido: La armonía de la fermentació
 ## Prólogo: En la isla del sonido de las olas y shochu
 
 
-Texto: mmr｜Tema: Un experimento realizado en Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
+Texto: mmr｜Tema: Un experimento realizado con Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
 
 
 Amami Oshima, el punto más lejano de las Islas Nansei.
@@ -31,7 +31,7 @@ En este artículo, echaremos un vistazo a la imagen completa del "shochu añejad
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El origen del shochu de azúcar moreno Amami
@@ -61,7 +61,7 @@ No fue hasta principios del siglo XXI que surgió la idea de utilizar el sonido 
 
 ---
 
-## Capítulo 2: Nacimiento del alcohol que escucha el sonido.
+## Capítulo 2: Nacimiento del alcohol que te permite escuchar sonidos
 
 ### ● Origen de la idea
 El impulso fue el "envejecimiento acústico" del vino que un cervecero vio en Tokio.
@@ -88,12 +88,12 @@ Se dice que esto aumenta los componentes aromáticos y reduce la irritación del
 
 Cada cervecería en Amami Oshima tiene un "estilo de sonido" diferente.
 
-| 蔵名 | 使用音楽 | 効果・特徴 | 音響装置 |
+| Nombre de la cervecería | Música utilizada | Efectos/características | Equipos de sonido |
 |------|------------|--------------|------------|
-| 奄美大島開運酒造 | 島唄、太鼓、三線 | 甘みとコクが増す | 水中トランスデューサ |
-| 奄美黒糖酒造 | ジャズ（Miles Davis） | 苦味が和らぐ | 木樽スピーカー |
-| 奄美大島酒造 | クラシック（Mozart, Bach） | 香りが華やかに | 超音波振動プレート |
-| 里の曙（町田酒造） | 自然音（波・風・鳥） | 口当たりが柔らかい | 定温貯蔵＋スピーカー内蔵 |
+| Cervecería de sake Amami Oshima Kaiun | Canciones isleñas, tambores, sanshin | Mayor dulzura y riqueza | Transductor submarino |
+| Cervecería Amami Brown Sugar Sake | Jazz (Miles Davis) | Alivia el amargor | Altavoz de barril de madera |
+| Cervecería de sake Amami Oshima | Clásico (Mozart, Bach) | Magnífico aroma | Placa vibratoria ultrasónica |
+| Sato no Akebono (Fábrica de Sake Machida) | Sonidos naturales (olas, viento, pájaros) | Textura suave | Almacenamiento a temperatura constante + altavoz incorporado |
 
 Cada cervecería tiene su propio "tiempo de escucha".
 La mayoría de las cervecerías reproducen el sonido por la noche, pero algunas cervecerías reproducen el sonido durante todo el proceso de fermentación.
@@ -144,16 +144,16 @@ Ese día se acerca.
 
 ## Cronología: Historia del shochu Amami y maduración acústica
 
-| 年代 | 出来事 |
-|------|--------|
-| 1600年代 | 奄美でサトウキビ栽培が始まる |
-| 1800年代 | 黒糖を原料とした地焼酎の製造開始 |
-| 1949年 | 奄美群島の日本復帰、「黒糖焼酎」特例認可 |
-| 2005年 | 奄美大島で初の音響熟成焼酎試験開始 |
-| 2008年 | 鹿児島大学が音響熟成の科学的研究を開始 |
-| 2015年 | 各蔵が独自の音楽熟成ブランドを展開 |
-| 2020年代 | 国内外の酒蔵で音響熟成が普及、AI制御技術導入 |
-| 2025年 | 奄美黒糖焼酎がユネスコ無形文化遺産申請準備中 |
+| Años | Eventos |
+|------|---------|
+| 1600 | Comienza el cultivo de caña de azúcar en Amami |
+| 1800 | Inicio de la producción de shochu local utilizando azúcar moreno |
+| 1949 | Devolución de las islas Amami a Japón, aprobación especial del "shochu de azúcar moreno" |
+| 2005 | Comienza la primera prueba de shochu envejecido acústicamente de Amami Oshima |
+| 2008 | Universidad de Kagoshima inicia investigación científica sobre maduración acústica |
+| 2015 | Cada cervecería desarrolla su propia marca de envejecimiento musical |
+| Años 2020 | El envejecimiento acústico se vuelve popular en las cervecerías de sake de Japón y el extranjero y se introduce la tecnología de control de IA |
+| 2025 | Shochu de azúcar moreno Amami en preparación para su solicitud como patrimonio cultural inmaterial de la UNESCO |
 
 ---
 
@@ -161,12 +161,12 @@ Ese día se acerca.
 
 <div class="mermaid">
 
-gráfico TD
-A[Generación de ondas sonoras desde el altavoz] --> B[Microvibración en líquido]
-B --> C [Activación cinética molecular]
-C --> D [Promoción de la reacción de esterificación]
-D --> E [Aumento de los componentes del aroma]
-E --> F [El sabor se vuelve más suave]
+graph TD
+A[Ondas sonoras generadas por los altavoces.] --> B[Microvibración en líquido]
+B --> C[activación molecular]
+C --> D[Aceleración de la reacción de esterificación.]
+D --> E[Aumento de los componentes aromáticos.]
+E --> F[El sabor se vuelve más suave.]
 
 
 </div>
@@ -197,11 +197,11 @@ El siguiente gráfico se visualiza en base a una investigación conjunta de la U
 
 <div class="mermaid">
 
-gráfico LR
-A[Fábrica de sake Amami Oshima Kaiun<br>Sonido de tambor Shimauta/Taiko] -->|Proporción de éster +15%<br>Aldehído -10%| B[(Aroma rico, dulzura mejorada)]
-C[Cervecería Amami Brown Sugar Sake<br>Jazz Acoustics] -->|Proporción de éster +12%<br>Amargor -8%| D[(Sabor suave y profundo)]
-E[Machida Sake Brewery (Sato no Akebono)<br>Envejecimiento sonoro natural] -->|Acidez -5%<br>Duración del aroma +10%| F[(aroma suave/luz)]
-G[Amami Oshima Sake Brewery<br>Acústica clásica] -->|Acidez -7%<br>Estimulación del alcohol -12%| H[(Sabor suave y redondo)]
+graph LR
+A[Cervecería Amami Oshima Kaiun Sake<br>Sonido de tambor Shimauta/Taiko] -->|Proporción éster +15%<br>Aldehído -10%| B[(Rico aroma y dulzura mejorada)]
+C[Cervecería Amami Brown Sugar Sake<br>Jazz Acústica] -->|Proporción éster +12%<br>Amargor -8%| D[(Suave y rico)]
+E[Cervecería Machida Sake (Sato no Akebono)<br>Envejecimiento sonoro natural] -->|Acidez -5%<br>Duración de la fragancia +10%| F[(Aroma suave/luz)]
+G[Cervecería Amami Oshima Sake<br>Acústica clásica] -->|Acidez -7%<br>Estimulación alcohólica -12%| H[(Sabor suave y redondo)]
 
 </div>
 
@@ -211,11 +211,11 @@ G[Amami Oshima Sake Brewery<br>Acústica clásica] -->|Acidez -7%<br>Estimulaci�
 
 <div class="mermaid">
 
-pastel
-título Principales efectos de cada banda de frecuencia en la maduración acústica
-"Rango bajo (50-150 Hz): Promoción del movimiento molecular/sensación de pesadez": 40
-"Rango medio (300-1000Hz): Supresión de oxidación/mantenimiento del aroma": 30
-"Rango de agudos (5 kHz o superior): vibración superficial/reducción de estimulación del alcohol": 30
+pie
+    title 音響熟成の周波数帯ごとの主な影響
+    "低音域（50〜150Hz）: 分子運動促進・重厚感" : 40
+    "中音域（300〜1000Hz）: 酸化抑制・香気維持" : 30
+    "高音域（5kHz以上）: 表層振動・アルコール刺激低減" : 30
 
 </div>
 
@@ -225,18 +225,18 @@ título Principales efectos de cada banda de frecuencia en la maduración acúst
 
 <div class="mermaid">
 
-gráfico TD
-A["Shimauta/Taiko 🎵 92 puntos"] ---|"Sabor, aroma, suavidad"| B["†††††††††††††††††††††† como
-C["Clásico 🎻 89 puntos"] --- B1["■■■■■■■■■■■■■■■■■■■■■■"]
-D["Jazz 🎷 87 puntos"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
-E["Sonidos de la naturaleza 🌿 85 puntos"] --- B3["■■■■■■■■■■■■■■■■■■■"]
-F["Contraste silencioso 🔇 74 puntos"] --- B4["■■■■■■■■■■■■■■■"]
+graph TD
+    A["Sshimauta/Taiko 🎵 92 puntos"] ---|"Sabor, aroma, suavidad"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
+    C["Clásico 🎻 89 puntos"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
+    D["Jazz 🎷 87 puntos"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
+    E["Sonidos de la naturaleza 🌿 85 puntos"] --- B3["■■■■■■■■■■■■■■■■■■■"]
+    F["Contraste silencioso 🔇 74 puntos"] --- B4["■■■■■■■■■■■■■■■"]
 
-relleno de estilo A:#f9f,trazo:#333,ancho de trazo:1px
-relleno de estilo C:#9cf,trazo:#333,ancho de trazo:1px
-relleno de estilo D:#fc9,trazo:#333,ancho de trazo:1px
-relleno de estilo E:#bfb,trazo:#333,ancho de trazo:1px
-relleno de estilo F:#ccc,trazo:#333,ancho de trazo:1px
+    style A fill:#f9f,stroke:#333,stroke-width:1px
+    style C fill:#9cf,stroke:#333,stroke-width:1px
+    style D fill:#fc9,stroke:#333,stroke-width:1px
+    style E fill:#bfb,stroke:#333,stroke-width:1px
+    style F fill:#ccc,stroke:#333,stroke-width:1px
     
 </div>
 
@@ -253,21 +253,21 @@ Entre ellas, **4 cervecerías han introducido tecnología de envejecimiento acú
 
 <div class="mermaid">
 
-gráfico TD
-A[Amami Oshima] --> A1[Cervecería Amami Oshima Kaiun Sake<br>🎶 Envejecimiento en tambor Shimauta/Taiko]
-A --> A2 [Cervecería Amami Brown Sugar Sake<br>🎷 Jazz Acoustics]
-A --> A3 [Cervecería Machida Sake (Sato no Akebono)<br>🌿 Envejecimiento sonoro natural]
-A --> A4 [Cervecería de sake Amami Oshima<br>🎻 Sonido clásico]
+graph TD
+A[Amami Oshima] --> A1[Cervecería Amami Oshima Kaiun Sake<br>🎶 Canción isleña/envejecimiento del tambor taiko]
+A --> A2[Cervecería Amami Brown Sugar Sake<br>🎷 Jazz Acústica]
+A --> A3[Cervecería Machida Sake (Sato no Akebono)<br>🌿 Envejecimiento sonoro natural]
+A --> A4[Cervecería de sake Amami Oshima<br>🎻 Acústica clásica]
 
-B[Kikaijima] --> B1[Kikaijima Sake Brewery<br>⚙️ Bajo prueba de envejecimiento ultrasónico]
+B[Kikaijima] --> B1[Cervecería Kikaijima Sake<br>⚙️ Bajo prueba de envejecimiento ultrasónico]
 
 C[Tokunoshima] --> C1[Licor Amami<br>🥁 Experimento de ondas sonoras de tambor Taiko en progreso]
-C --> C2 [Cervecería Mashira Sake<br>🌾 Fermentación tradicional/silencio]
+C --> C2[Cervecería Mashira Sake<br>🌾 Fermentación/silencio tradicional]
 
-D[Isla de Okinerabu] --> D1[Okinerabu Sake Brewery<br>🌊 Envejecimiento de la corriente oceánica]
+D[Isla Okinoerabu] --> D1[Cervecería Okinoerabu Sake<br>🌊 Envejecimiento de la corriente oceánica]
 
-E[Isla Yoron] --> E1[Arimura Sake Brewery<br>🌺 Solo almacenamiento tradicional]
-E --> E2[Minankaze Sake Brewery<br>🎧 Prueba de sonido de IA introducida a partir de 2024]
+E[Isla Yoron] --> E1[Cervecería de sake Arimura<br>🌺 Solo almacenamiento tradicional]
+E --> E2[Cervecería Nanno Kaze Sake<br>🎧 Introducción de la prueba de sonido de IA a partir de 2024]
 
 </div>
 
@@ -313,11 +313,11 @@ Es otro tipo de música que toca la isla.
 
 ### Shochu de azúcar moreno recomendado
 
-| 蔵元名      | 商品名                           | 容量・度数      | リンク     |
-| -------- | ----------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 奄美大島開運酒造 | 黒糖焼酎 「れんと」     | 1800ml／25度 | [Amazon](https://amzn.to/3JaQ5aI) |
-| 奄美大島開運酒造 | 黒糖焼酎 「紅さんご」     | 720ml／40度  | [Amazon](https://amzn.to/4qwVYj3)  |
-| 町田酒造     | 黒糖焼酎 「里の曙（3年長期貯蔵）」 | 1800ml／25度 | [Amazon](https://amzn.to/4nzD0pp)   |
-| 奄美大島酒造   | 黒糖焼酎 「じょうご」   | 1800ml／25度 | [Amazon](https://amzn.to/49vtOik)  |
+| Nombre de la cervecería | Nombre del producto | Capacidad/Frecuencia | Enlace |
+| -------- | ----------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cervecería de sake Amami Oshima Kaiun | Shochu de azúcar moreno “Alquiler” | 1800ml/25 grados | [Amazon](https://amzn.to/3JaQ5aI) |
+| Cervecería de sake Amami Oshima Kaiun | Shochu de azúcar moreno “Beni Sango” | 720ml/40 grados | [Amazon](https://amzn.to/4qwVYj3) |
+| Cervecería de sake Machida | Shochu de azúcar moreno “Sato no Akebono (almacenamiento de 3 años)” | 1800ml/25 grados | [Amazon](https://amzn.to/4nzD0pp) |
+| Cervecería de sake Amami Oshima | Shochu de azúcar moreno “Embudo” | 1800ml/25 grados | [Amazon](https://amzn.to/49vtOik) |
 
 ---

@@ -29,7 +29,7 @@ Wu-Tang Clan tomó muestras de Bruce Lee, Sun Tzu y Lao Tzu, y luego resonó fue
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Pensamiento Shaolin y estética del combate anime
@@ -76,7 +76,7 @@ En este punto, la cultura asiática pasa de la mera cita al ámbito de la coprod
 
 ---
 
-## Capítulo 3: “Afro Samurai” y la cadena de reimportaciones
+## Capítulo 3: “Afro Samurai” y la cadena de reimportación
 
 En 2007, el anime japonés "Afro Samurai" se transmitió en todo el país.
 El actor de voz es Samuel L. Jackson.
@@ -93,7 +93,7 @@ Al mismo tiempo, se convirtió en un pionero de la "fusión con el hip-hop" para
 
 ---
 
-## Capítulo 4: Un nuevo horizonte para el hip-hop abierto por una cosmovisión similar al anime
+## Capítulo 4: Un nuevo horizonte para el hip-hop abierto por una cosmovisión anime
 
 Después de Wu-Tang Clan, el hip-hop adquirió el "lenguaje para hablar de anime".
 Tyler, The Creator hace referencia a "Akira" y "Neon Genesis Evangelion",
@@ -116,7 +116,7 @@ Enfatizó el aspecto "Zen" del hip-hop y resonó con el mundo espiritual de RZA.
 En particular, la música de Nujabes combina el sampleo y la estética de ma.
 Estaba conectado espiritualmente con el Clan Wu-Tang, el "Samurái del Sonido".
 
-En la década de 2020 aparecen claras referencias en las obras de anime japonés.
+En la década de 2020, también aparecen claras referencias en las obras de anime japonés.
 La influencia del hip-hop de baja fidelidad se puede ver en la música de fondo de "Jujutsu Kaisen".
 Varios artistas de hip-hop participarán en el final de "Chainsaw Man".
 Aquí, el anime vuelve a reconectarse con el lenguaje de la “calle”.
@@ -144,15 +144,15 @@ Era verdaderamente una traducción moderna de "Espíritu Samurai".
 
 <div class="mermaid">
 
-línea de tiempo
-título Wu-Tang Clan × Cronología de la cultura japonesa (1993-2025)
-1993: Lanzamiento de "Enter the Wu-Tang (36 Chambers)". Una gran cantidad de muestras de audio de películas de Kung Fu.
-1999: RZA compone la música de Ghost Dog: The Way of the Samurai. Demuestra la filosofía samurái.
-2004: Lanzamiento de la banda sonora de "Samurai Champloo" de Nujabes. RZA habla de sus influencias.
-2007: Comienza a emitirse “Afro Samurai”. RZA está a cargo de toda la música.
-2013: Ghostface Killah lanza "Doce razones para morir". Influencia del arte sobrenatural japonés.
-2019: RZA vino a Japón y dio una conferencia sobre el tema "Zen y Hip Hop".
-2025: Jóvenes artistas japoneses de hip-hop heredan la filosofía del “estilo Wu-Tang”.
+timeline
+    title Wu-Tang Clan × 日本カルチャー 年表（1993–2025）
+    1993 : 『Enter the Wu-Tang (36 Chambers)』発表。カンフー映画音声を多数サンプリング。
+    1999 : RZAが『Ghost Dog: The Way of the Samurai』の音楽を担当。侍哲学を明示。
+    2004 : Nujabes『Samurai Champloo』サントラ発表。RZAが影響を語る。
+    2007 : 『Afro Samurai』放送開始。RZAが全音楽を担当。
+    2013 : Ghostface Killahが『Twelve Reasons to Die』発表。日本的怪奇美術の影響。
+    2019 : RZAが来日し「禅とヒップホップ」をテーマに講演。
+    2025 : 日本の若手ヒップホップアーティストが“Wu-Tang流”の哲学性を継承。
 
 </div>
 
@@ -162,20 +162,20 @@ título Wu-Tang Clan × Cronología de la cultura japonesa (1993-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-Un["Clan Wu-Tang (1993~)"]
-B["Película de Kung Fu (Templo Shaolin/Li Xiaolong)"]
-C["Pensamiento Oriental (Pensamiento Zen/Laozhuang)"]
-D["Anime japonés (Dragon Ball/NARUTO/Afro/Samurai)"]
-E["Filosofía hip-hop (entrenamiento, lucha, trascendencia)"]
-F["Cultura global moderna (anime hip-hop, lo-fi, streetwear)"]
+flowchart TD
+    A["Wu-Tang Clan（1993〜）"]
+    B["Película de Kung Fu (Templo Shaolin/Li Xiaolong)"]
+    C["Pensamiento Oriental (Pensamiento Zen/Laozhuang)"]
+    D["Anime japonés (Dragon Ball/NARUTO/Afro/Samurai)"]
+    E["Filosofía hip-hop (entrenamiento, lucha, trascendencia)"]
+    F["Cultura global moderna (anime hip-hop, lo-fi, ropa urbana)"]
 
-A --> B
-B --> C
-C --> D
-re --> mi
-A --> mi
-mi -> F
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    A --> E
+    E --> F
 
 
 </div>
