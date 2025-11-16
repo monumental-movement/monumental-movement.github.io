@@ -78,9 +78,9 @@ Ambient/post-rock shows a strong presence in dialogue with urban spaces and arch
 
 <div class="mermaid">
 flowchart LR
-    Music["ポストロック / アンビエント"]
-    Film["映画"]
-    Architecture["建築・都市空間"]
+    Music["Post-rock/Ambient"]
+    Film["movie"]
+    Architecture["Architecture/Urban Space"]
 
     Music --> Film
     Music --> Architecture

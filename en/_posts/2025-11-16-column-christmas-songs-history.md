@@ -95,9 +95,9 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[1950s ポップス・ジャズ] --> B[家族・冬景色テーマ]
-B --> C[1970s ソウル・ディスコ融合]
-C --> D[世界的定番曲への橋渡し]
+A[1950s pop jazz] --> B[Family/winter scenery theme]
+B --> C[1970s soul-disco fusion]
+C --> D[A bridge to world-famous songs]
 
 </div>
 
@@ -148,9 +148,9 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[1970s ソウル・ディスコ] --> B[1980s シンセポップ]
-B --> C[恋愛・都会的冬景色テーマ]
-C --> D[世界的定番曲確立]
+A[1970s soul disco] --> B[1980s synth pop]
+B --> C[Love/urban winter scenery theme]
+C --> D[Establishment of a worldwide standard song]
 
 </div>
 
@@ -208,10 +208,10 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[1990s] --> B[マライア・キャリー時代]
-B --> C[2000s ジャンル多様化・リメイク増加]
-C --> D[2010s SNS・配信時代]
-D --> E[2020s オンライン・ストリーミング定番化]
+A[1990s] --> B[Mariah Carey era]
+B --> C[2000s Diversification of genres and increase in remakes]
+C --> D[2010s SNS/distribution era]
+D --> E[2020s Online streaming becomes standard]
 
 </div>
 

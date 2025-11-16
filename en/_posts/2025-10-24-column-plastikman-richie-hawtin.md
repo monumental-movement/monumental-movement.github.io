@@ -46,7 +46,7 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
@@ -90,7 +90,7 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which uses Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 
@@ -174,10 +174,10 @@ Minus was more than just a distribution platform, it functioned as a place to em
 <div class="mermaid">
 
 flowchart TD
-    A[DE9シリーズ] -->|リアルタイム編集| B[Minusレーベル作品]
-    B --> C[現代ミニマルアーティスト]
-    C --> D[グローバルクラブシーン]
-    A --> E[DJ表現の再定義]
+    A[DE9 series] -->|real-time editing| B[Minus label works]
+    B --> C[modern minimalist artist]
+    C --> D[global club scene]
+    A --> E[Redefining DJ expression]
     E --> D
 
 </div>
@@ -197,8 +197,8 @@ flowchart TD
 <div class="mermaid">
 
 graph TD
-    A[Spastik] --> B[ハイハット密度変化]
-    B --> C[リズムの再構築]
+    A[Spastik] --> B[Hi-hat density change]
+    B --> C[Rebuilding the rhythm]
 
 </div>
 
@@ -216,7 +216,7 @@ graph TD
 
 graph TD
     A[Low Pulse] --> B[High Hat Intersections]
-    B --> C[空白の配置]
+    B --> C[Blank placement]
 
 </div>
 
@@ -234,7 +234,7 @@ graph TD
 
 graph TD
     A[Sample Fragment] --> B[Layered Rhythm]
-    B --> C[リアルタイム編集]
+    B --> C[real-time editing]
 
 </div>
 
@@ -246,10 +246,10 @@ graph TD
 <div class="mermaid">
 
 flowchart TD
-    A[感覚入力層<br>— 低周波・残響] --> B[認知変容層<br>— リズムの再構築]
-    B --> C[内的空間層<br>— 思考と身体の同期]
-    C --> D[瞑想層<br>— 無音と音の往還]
-    D --> E[意識の拡張<br>— テクノ＝意識のプロセス]
+    A[Sensory input layer<br>—Low frequency/reverberation] --> B[Cognitive transformation layer<br>— Reconstruction of rhythm]
+    B --> C[Inner spatial layer<br>— Synchronization of thoughts and body]
+    C --> D[Meditation layer<br>— Silence and sound go back and forth]
+    D --> E[Expansion of consciousness<br>— Techno = process of consciousness]
 
 </div>
 
@@ -270,7 +270,7 @@ timeline
     2001 : 「DE9: Closer to the Edit」でDJ表現を刷新
     2010 : Plastikman Liveツアー、光と音の一体化演出
     2014 : 『EX』Tate Modern公演
-    2022 : 『Consumed in Key』(Chilly Gonzalesとの共作)
+    2022 : 『Consumed in Key』(Co-written with Chilly Gonzales)
     2025 : テクノとアートの融合的アーカイブ・プロジェクト進行中
 
 </div>
@@ -315,11 +315,11 @@ This is because he knows better than anyone that just one rotation can change th
 <div class="mermaid">
 
 flowchart TD
-    A[DE9シリーズ] -->|波形単位編集| B[Minusレーベル作品]
-    B --> C[ライブ表現の革新]
-    C --> D[現代ミニマルシーン]
-    B --> E[新世代アーティストへの影響]
-    A --> F[DJ表現の再定義]
+    A[DE9 series] -->|Waveform unit editing| B[Minus label works]
+    B --> C[Innovation in live expression]
+    C --> D[modern minimal scene]
+    B --> E[Influence on a new generation of artists]
+    A --> F[Redefining DJ expression]
     F --> D
 
 </div>

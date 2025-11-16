@@ -210,17 +210,17 @@ Ween is "endless laughter" that transcends genre barriers.
 <div class="mermaid">
 
 flowchart TD
-    A["1984"] --> B["Gene Ween & Dean Ween 結成"]
-    B --> C["1987: デモカセット『GodWeenSatan』録音開始"]
-    C --> D["1990: 『GodWeenSatan: The Oneness』リリース"]
-    D --> E["1991: 『The Pod』リリース"]
-    E --> F["1992: 『Pure Guava』リリース"]
-    F --> G["1994: 『Chocolate and Cheese』リリース"]
-    G --> H["1996: 『12 Golden Country Greats』リリース"]
-    H --> I["1997: 『The Mollusk』リリース"]
-    I --> J["2000: 『White Pepper』リリース"]
-    J --> K["2003: 『Quebec』リリース"]
-    K --> L["2007: 『La Cucaracha』リリース"]
+    A["1984"] --> B["Gene Ween & Dean Ween formed"]
+    B --> C["1987: Recording of demo cassette ""GodWeenSatan'' begins."]
+    C --> D["1990: 'GodWeenSatan: The Oneness' released"]
+    D --> E["1991: 'The Pod' released"]
+    E --> F["1992: 'Pure Guava' released"]
+    F --> G["1994: 'Chocolate and Cheese' released"]
+    G --> H["1996: '12 Golden Country Greats' Released"]
+    H --> I["1997: 'The Mollusk' released"]
+    I --> J["2000: 'White Pepper' released"]
+    J --> K["2003: 'Quebec' released"]
+    K --> L["2007: 'La Cucaracha' released"]
 </div>
 
 ---

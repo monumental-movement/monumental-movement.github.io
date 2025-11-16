@@ -203,14 +203,14 @@ This work is the latest example of Hisaishi's continued bridging of film music a
 <div class="mermaid">
 
 graph TD
-    A[久石譲の音楽理念] --> B[ミニマリズム]
-    A --> C[旋律の記憶]
-    A --> D[響きの空間]
-    B --> E[風の谷のナウシカ]
-    C --> F[となりのトトロ]
-    D --> G[もののけ姫]
-    G --> H[千と千尋の神隠し]
-    H --> I[君たちはどう生きるか]
+    A[Joe Hisaishi's musical philosophy] --> B[minimalism]
+    A --> C[memory of melody]
+    A --> D[space of resonance]
+    B --> E[Nausicaa of the Valley of the Wind]
+    C --> F[my neighbor totoro]
+    D --> G[Princess Mononoke]
+    G --> H[spirited away]
+    H --> I[how do you live]
 
 </div>
 

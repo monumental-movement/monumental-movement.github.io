@@ -16,7 +16,7 @@ title: '[Column] Recondite and forest bathing - When techno returns to the fores
 ## Prologue: A beat sinking into the forest
 
 
-Text: mmr | Theme: German minimal techno artist Recondite. The music allows you to hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
+Text: mmr | Theme: German minimal techno artist Recondite. In the music, you can hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
 
 Recondite――real name Lorenz Brunner.
 When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."
@@ -154,9 +154,9 @@ This is close to the spectrum of wind and tree rustling sounds.
 <div class="mermaid">
 
 graph LR
-    A["低域（50〜120Hz）"] -->|呼吸／心拍| B["中域（250〜2kHz）"]
-    B -->|葉擦れ／風| C["高域（2〜6kHz）"]
-    C -->|森の残響| D["心理的沈静"]
+    A["Low frequency (50-120Hz)"] -->|Breathing/heartbeat| B["Middle range (250~2kHz)"]
+    B -->|Leaf rustling/wind| C["High range (2~6kHz)"]
+    C -->|reverberations of the forest| D["Psychological calm"]
 
 </div>
 

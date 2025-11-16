@@ -148,14 +148,14 @@ And at the center of all of this is always a human being. **
 <div class="mermaid">
 
 flowchart TD
-    A1972["1972：Rhythm Ace TR-77 誕生"]
-    A1980["1980：TR-808 発売"]
-    A1983["1983：TR-909 発売"]
+    A1972["1972: Birth of Rhythm Ace TR-77"]
+    A1980["1980: TR-808 released"]
+    A1983["1983: TR-909 released"]
     A1984["1984：TR-707 / 727"]
     A1987["1987：TR-626"]
     A2014["2014：AIRA TR-8"]
     A2018["2018：TR-8S"]
-    A2025["2025：TR-1000 登場（AI×アナログ・ハイブリッド）"]
+    A2025["2025: Introducing TR-1000 (AI x Analog Hybrid)"]
 
     A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
 

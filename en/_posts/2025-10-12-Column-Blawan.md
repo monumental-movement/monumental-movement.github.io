@@ -20,7 +20,7 @@ title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Ec
 Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
+Jamie Roberts -- or Blawan -- may have grown up unconsciously inhaling its reverberations.
 The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This one song made Blawan's name definitive.
+This single song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -101,7 +101,7 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
@@ -151,7 +151,7 @@ It is also a form of resistance for the club to continue to be a ""place'' once 
 
 ## Chapter 7 SickElixir — The rhythm of the collapse and rebirth of the steel city
 
-Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare work that dismantles the structure of techno but still makes you feel the presence of "humanity'.
+Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare piece of work that dismantles the structure of techno, yet still makes you feel the presence of "humanity'.
 Amid swirling noise and distortion, the rhythm maintains its balance on the verge of collapse, and the voice loses its meaning and transforms into an instrument.
 The light shining in with "Rabbit Hole" and the torrent of deep bass with "NOS".
 With each moment, Blawan's sound straddles the line between coldness and passion.
@@ -171,14 +171,14 @@ In it, he quietly asks: Can sound still be human? **
 <div class="mermaid">
 
 flowchart TD
-    A2010["2010：『Fram』EPでデビュー（Hessle Audio）"]
-    A2011["2011：『Bohla EP』（R&S Records）リリース"]
-    A2012["2012：“Why They Hide Their Bodies Under My Garage.”でブレイク"]
-    A2013["2013：PariahとKarenn活動本格化（Sheworks設立）"]
-    A2018["2018：フルアルバム『Wet Will Always Dry』（Ternesc）発表"]
-    A2020["2020：『Immulsion』『Under Belly』など新機軸へ"]
-    A2023["2023：モジュラー中心のライブセットで再評価"]
-    A2025["2025：Blawan＝現代UKテクノの象徴として再定義"]
+    A2010["2010: Debut with 'Fram' EP (Hessle Audio)"]
+    A2011["2011: "Bohla EP" (R&S Records) released"]
+    A2012["2012: Breakthrough with "Why They Hide Their Bodies Under My Garage."]
+    A2013["2013: Pariah and Karenn activities in full swing (Sheworks established)"]
+    A2018["2018: Full album 'Wet Will Always Dry' (Ternesc) released"]
+    A2020["2020: New innovations such as 'Immulsion" and "Under Belly'"]
+    A2023["2023: Re-evaluate with modular-centered live set"]
+    A2025["2025: Blawan = redefined as a symbol of modern UK techno"]
 
     A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 

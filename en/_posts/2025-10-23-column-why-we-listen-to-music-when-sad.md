@@ -135,10 +135,10 @@ In an anonymous space, people exchange ""quiet empathy'' through sound.
 <div class="mermaid">
 
 graph LR
-    A[悲しみの感情] --> B[音楽選択行動]
-    B --> C[アルゴリズム推薦]
-    C --> D[プレイリストの共有]
-    D --> E[共感・承認の循環]
+    A[feelings of sadness] --> B[music selection behavior]
+    B --> C[algorithm recommendation]
+    C --> D[Share playlist]
+    D --> E[Cycle of empathy and approval]
 
 </div>
 
@@ -217,14 +217,14 @@ Music is a medium that turns sadness into love.
 <div class="mermaid">
 
 graph TD
-    title["脳の神経マップ：音楽と感情のネットワーク"]
+    title["Neural Map of the Brain: Music and Emotion Network"]
 
-    A[聴覚野（一次聴覚皮質）] -->|音情報の処理| B[扁桃体：感情の中枢]
-    A -->|リズムとメロディ分析| C[前頭前野：判断・記憶との照合]
-    B -->|感情反応を誘発| D[帯状皮質：共感・自己意識]
-    C -->|快感評価| E[側坐核：ドーパミン報酬系]
-    D -->|他者感情との同期| F[島皮質：身体的共感の生成]
-    E -->|満足感を増幅| B
+    A[Auditory cortex (primary auditory cortex)] -->|Processing of sound information| B[Amygdala: emotional center]
+    A -->|Rhythm and melody analysis| C[Prefrontal cortex: Comparison with judgment and memory]
+    B -->|elicit an emotional response| D[Cingulate cortex: Empathy/self-consciousness]
+    C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
+    D -->|Synchronization with other people's emotions| F[Insular cortex: generation of bodily empathy]
+    E -->|Increase satisfaction| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e
@@ -244,14 +244,14 @@ graph TD
 <div class="mermaid">
 
 flowchart TD
-    title["共感構造ダイアグラム：悲しみと音楽の共鳴プロセス"]
+    title["Empathy Structure Diagram: Resonance Process of Grief and Music"]
 
-    A[個人の悲しみ体験] --> B[音楽の選択（歌詞・メロディ）]
-    B --> C[自己投影：共通する感情の発見]
-    C --> D[情動共鳴：涙・安堵・浄化]
-    D --> E[神経的共感：ミラーニューロン活性化]
-    E --> F[感情の再統合と回復]
-    F -->|心の静寂| G[新しい自己理解]
+    A[personal experience of grief] --> B[Music selection (lyrics/melody)]
+    B --> C[Self-projection: finding common emotions]
+    C --> D[Emotional resonance: Tears, relief, purification]
+    D --> E[Neural empathy: mirror neuron activation]
+    E --> F[Emotional reintegration and recovery]
+    F -->|silence of the heart| G[new self-understanding]
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#fbb4ae,stroke:#de2d26

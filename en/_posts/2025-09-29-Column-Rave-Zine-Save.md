@@ -45,7 +45,7 @@ They are often not recorded. It is not reported in the media and is not recorded
 
 However, a DIY media called ""Zine'' is currently attracting attention as a means of picking up the fragments and retelling the story.
 
-A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids.''
+A zine is not a magazine, diary, or report. However, it is closer to the "voices of the people involved" than any of these. In the rave culture, which inherently resists recording, zines have the potential to serve as ""memory aids''.
 
 ---
 
@@ -96,9 +96,9 @@ Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
 <div class="mermaid">
 flowchart TD
 
-    A["レイヴZine"] --> B["海外"]
+    A["Rave Zine"] --> B["abroad"]
     
-    B --> B1["Datacide<br>(ドイツ)"]
+    B --> B1["Datacide<br>(Germany)"]
     B --> B2["Rave Flyer Archives<br>(UK)"]
 </div>
 

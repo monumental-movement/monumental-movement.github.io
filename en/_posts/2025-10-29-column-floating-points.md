@@ -84,10 +84,10 @@ Below is an abstract model that represents the acoustic structure of Floating Po
 <div class="mermaid">
 
 graph TD
-    A["周波数軸（Frequency Spectrum）"] --> B["倍音干渉による空間形成"]
-    B --> C["音圧軸（Dynamic Pressure）"]
-    C --> D["即興軌跡軸（Improvisation Path）"]
-    D --> E["アンビエント・ジャズの科学的拡張"]
+    A["Frequency Spectrum"] --> B["Space formation by overtone interference"]
+    B --> C["Dynamic Pressure"]
+    C --> D["Improvisation Path"]
+    D --> E["Scientific expansion of ambient jazz"]
 
 
 </div>

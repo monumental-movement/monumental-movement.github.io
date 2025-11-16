@@ -174,12 +174,12 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["人間（Live Coder）"] -->|コード入力・即興| B["Live Coding環境（Tidal, SuperCollider）"]
-    B -->|生成音の出力| C["AI解析モジュール（テンポ・構造分析）"]
-    C -->|予測・提案| D["AI生成器（Riffusion, GPT系）"]
-    D -->|素材生成| B
-    B -->|音響出力| E["観客（リアクションデータ）"]
-    E -->|感情解析| C
+    A["Human (Live Coder)"] -->|Code entry/improvisation| B["Live Coding Environment (Tidal, SuperCollider)"]
+    B -->|Generated sound output| C["AI analysis module (tempo/structure analysis)"]
+    C -->|Prediction/proposal| D["AI generator (Riffusion, GPT system)"]
+    D -->|material generation| B
+    B -->|sound output| E["Audience (reaction data)"]
+    E -->|Emotion analysis| C
 
 
 </div>

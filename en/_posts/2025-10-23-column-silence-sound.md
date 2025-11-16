@@ -124,11 +124,11 @@ In other words, the value of silence in an age of digital saturation is resurfac
 <div class="mermaid">
 
 graph TD
-    A[聴く行為] --> B[外的音（環境音・音楽）]
-    A --> C[内的音（記憶・思考・身体感覚）]
-    B --> D[選択的聴取：音楽を聴く]
-    C --> E[反響的聴取：自分を聴く]
-    D --> F[創造的沈黙：作曲・即興]
+    A[act of listening] --> B[External sounds (environmental sounds/music)]
+    A --> C[Internal sounds (memories, thoughts, physical sensations)]
+    B --> D[Selective listening: listening to music]
+    C --> E[Reflective listening: listening to yourself]
+    D --> F[Creative Silence: Composition/Improvisation]
     E --> F
 
 </div>

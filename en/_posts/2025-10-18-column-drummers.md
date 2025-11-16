@@ -254,33 +254,33 @@ And it is a musical memory that will last into the future.
 <div class="mermaid">
 
 flowchart TD
-    %% 世界と日本のドラマー変遷タイムライン（1900〜2020年代）
+    %% Timeline of drummers in the world and Japan (1900s-2020s)
 
-    A1900["1900s: 打楽器文化の基礎／ジャズ前夜"]
-    B1920["1920s: ジーン・クルーパ登場／ジャズ・ビッグバンドの隆盛"]
-    C1930["1930s: スウィング期／バディ・リッチ台頭"]
-    D1960["1960s: ジンジャー・ベイカー（Cream）、ロックドラム革命"]
-    E1968["1968: ジョン・ボーナム（Led Zeppelin）登場"]
-    F1969["1969: Tony Williams『Emergency!』— モダンジャズ革新"]
-    G1971["1971: Led Zeppelin IV — ドラムソロ文化確立"]
+    A1900["1900s: Foundations of percussion culture/The eve of jazz"]
+    B1920["1920s: The Rise of Gene Krupa/The Rise of the Jazz Big Band"]
+    C1930["1930s: Swing Era/Rise of Buddy Rich"]
+    D1960["1960s: Ginger Baker (Cream), Rock Drum Revolution"]
+    E1968["1968: John Bonham (Led Zeppelin) appears"]
+    F1969["1969: Tony Williams 'Emergency!'—Modern Jazz Innovation"]
+    G1971["1971: Led Zeppelin IV — Establishment of drum solo culture"]
     H1972["1972: Elvin Jones『Live at the Lighthouse』"]
-    I1974["1974: Kraftwerk結成（電子リズムの萌芽）"]
-    J1980["1980s: Steve Gadd／精密ドラムの極致"]
-    K1981["1981: 灰野敬二 — 日本ノイズ・アヴァンギャルド"]
-    L1983["1983: Han Bennink — ヨーロッパ前衛ドラマー活躍"]
-    M1989["1989: Boredoms結成／Yoshimio台頭"]
-    N1993["1993: 吉田達也 (Ruins) — 日本アヴァンギャルド"]
-    O1994["1994: 村上“ポンタ”秀一『Rhythm Designer』"]
-    P2002["2002: Tony Allen『HomeCooking』／アフロビート革命"]
-    Q2005["2005: 芳垣安洋 (ROVO)『Pyramid』"]
-    R2009["2009: Yo2ro — 実験音楽プロジェクト"]
-    S2010["2010: 山本達久『Red Oni』"]
-    T2015["2015: Jim O’Rourke × 山本達久『Simple Songs』"]
-    U2016["2016: 坂田学『One』"]
-    V2019["2019: 灰野敬二 × Merzbow × Balázs Pándi コラボ"]
-    W2020["2020s: 石若駿、Utena Kobayashi、坂本暁良 — 新世代ドラマー活躍"]
+    I1974["1974: Formation of Kraftwerk (the germination of electronic rhythms)"]
+    J1980["1980s: Steve Gadd/The pinnacle of precision drumming"]
+    K1981["1981: Keiji Haino — Japanese Noise Avant-garde"]
+    L1983["1983: Han Bennink — European avant-garde drummer"]
+    M1989["1989: Formation of Boredoms/Rise of Yoshimio"]
+    N1993["1993: Tatsuya Yoshida (Ruins) — Japanese Avant-garde"]
+    O1994["1994: Shuichi "Ponta" Murakami "Rhythm Designer""]
+    P2002["2002: Tony Allen's "HomeCooking"/Afrobeat Revolution"]
+    Q2005["2005: Yasuhiro Yoshigaki (ROVO) 'Pyramid'"]
+    R2009["2009: Yo2ro — Experimental music project"]
+    S2010["2010: Tatsuhisa Yamamoto "Red Oni""]
+    T2015["2015: Jim O"Rourke × Tatsuhisa Yamamoto "Simple Songs""]
+    U2016["2016: Manabu Sakata "One""]
+    V2019["2019: Keiji Haino × Merzbow × Balázs Pándi collaboration"]
+    W2020["2020s: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto — New generation drummers active"]
 
-    %% 矢印で時系列をつなぐ
+    %% Connect time series with arrows
     A1900 --> B1920 --> C1930 --> D1960 --> E1968 --> F1969 --> G1971 --> H1972 --> I1974 --> J1980
     J1980 --> K1981 --> L1983 --> M1989 --> N1993 --> O1994 --> P2002 --> Q2005 --> R2009
     R2009 --> S2010 --> T2015 --> U2016 --> V2019 --> W2020

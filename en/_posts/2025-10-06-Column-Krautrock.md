@@ -251,19 +251,19 @@ This is the very spirit of ""finding your own sound.''
 <div class="mermaid">
 
 flowchart TD
-  title["クラウトロック主要バンド年表"]
+  title["Chronology of major krautrock bands"]
 
-  A1968["1968 : CAN 結成（ケルン）"]
-  A1970["1970 : Kraftwerk 結成（デュッセルドルフ）"]
-  A1971a["1971 : Faust 結成（ヴッパータール）"]
-  A1971b["1971 : Neu! 結成（デュッセルドルフ）"]
+  A1968["1968: Formation of CAN (Cologne)"]
+  A1970["1970: Formation of Kraftwerk (Dusseldorf)"]
+  A1971a["1971: Formation of Faust (Wuppertal)"]
+  A1971b["1971 : Neu! Formed (Dusseldorf)"]
   A1971c["1971 : Tangerine Dream『Alpha Centauri』"]
   A1972["1972 : Popol Vuh『Hosianna Mantra』"]
   A1973["1973 : Cluster『Zuckerzeit』"]
-  A1974["1974 : Harmonia 結成（Forst）"]
+  A1974["1974 : Formation of Harmonia (Forst)"]
   A1975["1975 : Klaus Schulze『Timewind』"]
-  A1977["1977 : Bowie & Eno、ベルリン三部作"]
-  A1990s["1990s : Stereolab / Tortoise に再評価の波"]
+  A1977["1977 : Bowie & Eno, Berlin Trilogy"]
+  A1990s["1990s: Wave of reevaluation of Stereolab/Tortoise"]
 
   A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
 

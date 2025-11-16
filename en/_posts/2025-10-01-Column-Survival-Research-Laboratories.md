@@ -108,12 +108,12 @@ Gilles Larrain: Collaboration on video and photo records.
 
 <div class="mermaid">
 flowchart TD
-    A[Mark Pauline<br>創設者/芸術監督] --> B[Matt Heckert<br>サウンド/機械音楽]
-    A --> C[Eric Werner<br>ロボットエンジニア]
-    A --> D[Joe Grand<br>電子設計/制御]
-    A --> E[Amy Critchett<br>プロデュース]
-    A --> F[Karen Marcelo<br>ハッカー文化連携]
-    A --> G[Alan Rath<br>電子彫刻家]
+    A[Mark Pauline<br>Founder/Artistic Director] --> B[Matt Heckert<br>Sound/Mechanical Music]
+    A --> C[Eric Werner<br>Robotics Engineer]
+    A --> D[Joe Grand<br>Electronic Design/Control]
+    A --> E[Amy Critchett<br>Produced]
+    A --> F[Karen Marcelo<br>Hacker Culture Collaboration]
+    A --> G[Alan Rath<br>Electronic Sculptor]
 </div>
 
 ---

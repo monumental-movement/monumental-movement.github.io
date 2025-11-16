@@ -53,7 +53,7 @@ The vast space of the warehouse, the height of the ceiling, and the echo of the 
 
 ### Social background of Chicago in the 1980s
 
-The early 1980s were a tough economic time for Chicago.
+The early 1980s were tough economic times for Chicago.
 
 - Increased unemployment rate due to industrial decline
 - Community division due to urban redevelopment
@@ -165,13 +165,13 @@ Chicago House, thus born, spread throughout the world as a cultural phenomenon t
 <div class="mermaid">
 
 flowchart TD
-    A1977["1977：Warehouse開店"] --> B1983["1983：Frankie Knuckles DJプレイ開始"]
-    B1983 --> C1984["1984：The Power Plant開店、若手DJ台頭"]
-    C1984 --> D1985["1985：Music Boxオープン、ディープハウス浸透"]
-    D1985 --> E1986["1986：Trax Records設立、シカゴ・ハウス流通開始"]
-    E1986 --> F1987["1987：英国アシッドハウスブーム開始"]
-    F1987 --> G1988["1988：デトロイト・テクノ交流、国際ネットワーク形成"]
-    G1988 --> H1990["1990：シカゴ・ハウス世界的認知、クラブ・フェス文化拡大"]
+    A1977["1977: Opening of Warehouse"] --> B1983["1983: Frankie Knuckles begins DJing"]
+    B1983 --> C1984["1984: The Power Plant opens and young DJs emerge"]
+    C1984 --> D1985["1985: Music Box opens, deep house penetrates"]
+    D1985 --> E1986["1986: Trax Records established, Chicago house distribution started"]
+    E1986 --> F1987["1987: British acid house boom begins"]
+    F1987 --> G1988["1988: Detroit Techno Exchange, International Network Formation"]
+    G1988 --> H1990["1990: Chicago House's global recognition, expansion of club and festival culture"]
 
 </div>
 

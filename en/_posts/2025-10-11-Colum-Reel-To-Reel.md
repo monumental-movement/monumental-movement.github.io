@@ -146,11 +146,11 @@ Reel is once again turning to record the future.
 <div class="mermaid">
 
 flowchart TD
-    A1950["1950年代：家庭用オープンリール普及（ソニー、アカイ）"]
-    A1971["1971年：T. Rex『Electric Warrior』／Yes『The Yes Album』発売"]
-    A1982["1980年代：CD登場、アナログ時代の終焉"]
-    A2000["2000年代：アナログ再評価とテープ製造再開"]
-    A2025["2025年：Rhino High Fidelityがオープンリール復刻を発表"]
+    A1950["1950s: Popularization of open reel for home use (Sony, Akai)"]
+    A1971["1971: T. Rex"s "Electric Warrior"/Yes"s "The Yes Album" released"]
+    A1982["1980s: The advent of CD, the end of the analog era"]
+    A2000["2000s: Analog re-evaluation and resumption of tape production"]
+    A2025["2025: Rhino High Fidelity announces reel-to-reel reissue"]
 
     A1950 --> A1971 --> A1982 --> A2000 --> A2025
 

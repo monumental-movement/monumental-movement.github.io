@@ -223,11 +223,11 @@ flowchart TD
     end
 
     subgraph 日本
-    J1950["寺内タケシ 1950s"]
+    J1950["Takeshi Terauchi 1950s"]
     J1960["Char 1970s"]
-    J1970["山本精一 / 灰野敬二 1980s-90s"]
+    J1970["Seiichi Yamamoto / Keiji Haino 1980s-90s"]
     J1980["MONO / toe 2000s"]
-    J1990["Ichika Nito / 青葉市子 2010s"]
+    J1990["Ichika Nito / Aoba Ichiko 2010s"]
     end
 
     A1950 --> A1960 --> A1970 --> A1980 --> A1990

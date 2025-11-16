@@ -160,10 +160,10 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-    A1970["1970s: 環境音楽 (Eno, Tangerine Dream)"]
-    A1980["1980s: 美術館文脈 (Cocteau Twins, Talk Talk)"]
-    A1990["1990s: ポストロック誕生 (Tortoise, GY!BE, Aphex Twin)"]
-    A2000["2000s: シネマティック (Sigur Rós, EitS, Richter, Stars of the Lid)"]
+    A1970["1970s: Ambient music (Eno, Tangerine Dream)"]
+    A1980["1980s: Museum Context (Cocteau Twins, Talk Talk)"]
+    A1990["1990s: Birth of post-rock (Tortoise, GY!BE, Aphex Twin)"]
+    A2000["2000s: Cinematic (Sigur Rós, EitS, Richter, Stars of the Lid)"]
     A2010["2010s: Drone/Lo-Fi (Tim Hecker, OPN, BoC)"]
     A2020["2020s: AI & Immersive (Floating Points, Basinski, AI Ambient)"]
 

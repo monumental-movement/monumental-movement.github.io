@@ -177,12 +177,12 @@ The code that binds them all is pulsating within the three letters "Eurobeat."
 <div class="mermaid">
 
 flowchart TD
-    A1990["1990：Italo DiscoからEurobeatへの転換期"]
-    A1995["1995：『頭文字D』アニメ化、走り屋文化と結合"]
-    A2000["2000：SEBシリーズが黄金期を迎える"]
-    A2010["2010：ネットリバイバル（Nightcore, Eurobeat Meme）"]
-    A2020["2020：AI生成音楽／VRドライビング体験に継承"]
-    A2025["2025：Eurobeat as Interactive Sound Media 構想"]
+    A1990["1990: The turning point from Italo Disco to Eurobeat"]
+    A1995["1995: ""Initial D'' animated, combined with runner culture"]
+    A2000["2000: The SEB series enters its golden age"]
+    A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
+    A2020["2020: AI-generated music/inherited to VR driving experience"]
+    A2025["2025: Eurobeat as Interactive Sound Media concept"]
 
     A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
 

@@ -158,12 +158,12 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["Record Collecting（収集）"]
-    B["Selection（選曲）"]
-    C["Mixing（混合）"]
-    D["Atmosphere（空気）"]
-    E["Body（身体）"]
-    F["Transcendence（超越）"]
+    A["Record Collecting"]
+    B["Selection"]
+    C["Mixing"]
+    D["Atmosphere"]
+    E["Body"]
+    F["Transcendence"]
 
     A --> B --> C --> D --> E --> F
 
@@ -221,14 +221,14 @@ The "Oddities" slot is Harvey's secret weapon. Activates during after hours and 
 <div class="mermaid">
 
 flowchart TD
-    A["Record Digging Start<br>（旅先・ローカルマーケット）"]
-    B["中古レコード店探索<br>（店主との対話重視）"]
-    C["試聴 & ジャケット直感判断"]
-    D["音の“空気”で選定<br>（ジャンルより感覚）"]
-    E["現地DJとのトレード<br>（互いの盤を交換）"]
-    F["帰国後、再整理<br>（気候・時間帯別に分類）"]
-    G["クラブセットで実戦投入<br>（盤の“場”適応を検証）"]
-    H["Archive化 / 再録音 / Edit制作"]
+    A["Record Digging Start<br>(Travel destination/local market)"]
+    B["Used record store search<br>(emphasis on dialogue with store owners)"]
+    C["Preview & Intuitive Judgment of Jacket"]
+    D["Selected based on the 'air' of the sound (feeling rather than genre)"]
+    E["Trade with local DJs<br>(exchange each other's records)"]
+    F["Reorganized after returning to Japan (classified by climate and time zone)"]
+    G["Introducing the club set into practice<br>(verifying the adaption of the board to the field)"]
+    H["Archive / Re-recording / Edit production"]
 
     A --> B --> C --> D --> E --> F --> G --> H
 

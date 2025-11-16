@@ -119,11 +119,11 @@ sequenceDiagram
 <div class="mermaid">
 
 flowchart LR
-  音波 -->|集音| 耳
-  耳 -->|増幅| 蝸牛
-  蝸牛 -->|変換| 神経信号
-  神経信号 -->|伝達| 脳
-  脳 -->|認識| 聴覚体験
+  音波 -->|sound collection| 耳
+  耳 -->|amplification| 蝸牛
+  蝸牛 -->|conversion| 神経信号
+  神経信号 -->|transmission| 脳
+  脳 -->|recognition| 聴覚体験
 
 </div>
 

@@ -184,12 +184,12 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[80年代の日本シティポップ] --> B[YouTubeアップロード]
-B --> C[アルゴリズムによる拡散]
-C --> D[海外リスナーの再発見]
-D --> E[DJカルチャー・Vaporwaveへの流入]
-E --> F[現代アーティストへの影響]
-F --> G[ノスタルジアのグローバル化]
+A[80's Japanese City Pop] --> B[YouTube upload]
+B --> C[Algorithmic spread]
+C --> D[Rediscovering overseas listeners]
+D --> E[Influx into DJ culture/vaporwave]
+E --> F[Influence on contemporary artists]
+F --> G[Globalization of nostalgia]
 
 </div>
 

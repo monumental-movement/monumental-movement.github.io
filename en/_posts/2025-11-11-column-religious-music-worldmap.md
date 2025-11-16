@@ -18,7 +18,7 @@ title: '[Column] Religious music around the world and its psychological and soci
 ## Prologue: The universality of music and religion
 
 
-Text: mmr｜Theme: Comparing religious music from around the world from the perspectives of history, psychology, and physiological effects, and understanding it through illustrations
+Text: mmr｜Theme: Comparing religious music from around the world from the perspective of history, psychology, and physiological effects, and understanding it through illustrations
 
 Music is a universal element that supports religious rituals, prayers, and meditation.
 From ancient chants to modern healing music, sounds, rhythms, and voices have had a profound impact on the human mind and body.
@@ -161,12 +161,12 @@ gantt
 <div class="mermaid">
 
 graph TD
-    A[ヒンドゥー教：瞑想集中 5] -->|5| X[ ]
-    B[仏教：瞑想集中 5] -->|5| X
-    C[キリスト教：感情高揚 4] -->|4| X
-    D[イスラム教：浄化・集中 5] -->|5| X
-    E[ユダヤ教：記憶・精神集中 4] -->|4| X
-    F[アフリカ宗教：トランス・結束 5] -->|5| X
+    A[Hinduism: meditation concentration 5] -->|5| X[ ]
+    B[Buddhism: meditation concentration 5] -->|5| X
+    C[Christianity: Emotional elevation 4] -->|4| X
+    D[Islam: Purification/Concentration 5] -->|5| X
+    E[Judaism: Memory/Mind Concentration 4] -->|4| X
+    F[African Religion: Trance Unity 5] -->|5| X
 
     classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
     class A,B,C,D,E,F bar;
