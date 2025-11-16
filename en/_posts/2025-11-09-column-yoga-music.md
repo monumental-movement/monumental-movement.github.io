@@ -102,7 +102,7 @@ In modern yoga studios, the choice of background music influences the atmosphere
 
 ### Fusion with EDM, Lo-Fi, Ambient
 
-In recent years, attempts to combine EDM, Lo-Fi, and Ambient music with yoga have also increased. Lo-Fi hip-hop, in particular, combines calming beats with ambient sounds to create a space suitable for meditation or static poses.
+In recent years, attempts to combine EDM, Lo-Fi, and Ambient music with yoga have also increased. Lo-Fi hip-hop in particular combines calming beats with ambient sounds to create a space suitable for meditation or static poses.
 
 ### Trinity of breathing, movement, and music
 
@@ -117,26 +117,26 @@ The effects of yoga and music are supported by brain wave and psychological rese
 <div class="mermaid">
 
 flowchart TD
-A[Brain wave] --> B[Delta wave 0.5-4Hz]
-A --> C [Theta wave 4-8Hz]
-A --> D[Alpha wave 8-13Hz]
-A --> E[Beta wave 13-30Hz]
-A --> F [Gamma wave 30Hz or more]
+    A[脳波] --> B[デルタ波 0.5-4Hz]
+    A --> C[シータ波 4-8Hz]
+    A --> D[アルファ波 8-13Hz]
+    A --> E[ベータ波 13-30Hz]
+    A --> F[ガンマ波 30Hz以上]
 
-B --> B1 [deep sleep/rest]
-B1 --- BB["💡 Deep relaxation with low frequency/environmental sounds"]
+    B --> B1[深い睡眠・休息]
+    B1 --- BB["💡 低周波・環境音で深いリラクゼーション"]
     
-C --> C1 [Meditation/Relaxation]
-C1 --- CC["💡 Calm your mind with chanting and meditation music"]
+    C --> C1[瞑想・リラクゼーション]
+    C1 --- CC["💡 チャンティングや瞑想音楽で心を落ち着かせる"]
     
-D --> D1 [Light meditation/stability]
-D1 --- DD["💡 Ambient/Natural Sounds to Improve Concentration"]
+    D --> D1[軽い瞑想・安定]
+    D1 --- DD["💡 アンビエント・自然音で集中力を高める"]
     
-E --> E1 [Improved concentration/work efficiency]
-E1 --- EE["💡 Support work efficiency with Lo-Fi and light EDM"]
+    E --> E1[集中力・作業効率向上]
+    E1 --- EE["💡 Lo-Fiや軽めのEDMで作業効率をサポート"]
     
-F --> F1 [High concentration/creativity]
-F1 --- FF["💡 Accelerate creativity with a focused synthesizer"]
+    F --> F1[高度集中・創造性]
+    F1 --- FF["💡 集中系シンセサイザーで創造性を促進"]
 
 </div>
 
@@ -158,22 +158,22 @@ Recommended BGM for each pose is shown in a speech bubble. The BPM of the music 
 <div class="mermaid">
 
 flowchart TD
-A[Yoga style] --> B[Relaxation style]
-A --> C [Dynamic Flow (Vinyasa)]
-A --> D [Improve concentration]
-A --> E[deep meditation]
+    A[ヨガスタイル] --> B[リラックス系]
+    A --> C[動的フロー（ヴィンヤサ）]
+    A --> D[集中力向上]
+    A --> E[深い瞑想]
 
-B --> B1 [Savasana/Simple meditation]
-B1 --- B2["💡 Relax with Ambient and nature sounds BPM60-70"]
+    B --> B1[シャヴァーサナ・簡易瞑想]
+    B1 --- B2["💡 Ambientや自然音 BPM60-70でリラックス"]
 
-C --> C1 [Sun Salutation/Warrior Pose]
-C1 --- C2["💡 Lo-Fi/Light EDM Activate the operation with BPM100-120"]
+    C --> C1[太陽礼拝・戦士のポーズ]
+    C1 --- C2["💡 Lo-Fi・軽めEDM BPM100-120で動作を活性化"]
 
-D --> D1 [Balance pose Pranayama]
-D1 --- D2["💡 Synth meditation music BPM70-90 to improve concentration"]
+    D --> D1[バランスポーズ・プラーナーヤーマ]
+    D1 --- D2["💡 シンセ瞑想音楽 BPM70-90で集中力アップ"]
 
-E --> E1 [Sitting method/breathing method]
-E1 --- E2["💡 Deep meditation with chanting mantra BPM50-60"]
+    E --> E1[坐法・呼吸法]
+    E1 --- E2["💡 チャンティング・マントラ BPM50-60で深い瞑想"]
 
 </div>
 
@@ -192,15 +192,15 @@ Visualize the evolution of yoga and music along historical trends with speech bu
 <div class="mermaid">
 
 flowchart TD
-style A fill:#f3f4f6,stroke:#333,stroke-width:1px
-A["c.1500 BCE<br>Mantras of the Vedic Age"] --> B["c.500 BCE<br>Upanishads (ancient yoga texts)"]
-B --> C["8th century CE<br>Systematization of classical music theory"]
-C --> D["1800s CE<br>Yoga introduced to the West"]
-D --> E["1960s CE<br>New York: Meditation & Music Workshop"]
-E --> F["1980s CE<br>The Rise of New Age Music"]
-F --> G["2000s CE<br>BGM popularization in studios"]
-G --> H["2010s CE<br>Increasing popularity on SNS"]
-H --> I["2020s CE<br>Advances in scientific research"]
+    style A fill:#f3f4f6,stroke:#333,stroke-width:1px
+    A["c.1500 BCE<br>ヴェーダ時代のマントラ"] --> B["c.500 BCE<br>ウパニシャッド（古代ヨガ経典）"]
+    B --> C["8世紀 CE<br>古典音楽理論の体系化"]
+    C --> D["1800s CE<br>ヨガが西洋へ紹介"]
+    D --> E["1960s CE<br>ニューヨーク：瞑想＆音楽ワークショップ"]
+    E --> F["1980s CE<br>ニューエイジ音楽の台頭"]
+    F --> G["2000s CE<br>スタジオでのBGM普及"]
+    G --> H["2010s CE<br>SNSでの普及拡大"]
+    H --> I["2020s CE<br>科学的研究の進展"]
 
 </div>
 
@@ -218,10 +218,10 @@ Visualize the integration of breathing, movement, and music with a pie chart. Ad
 
 <div class="mermaid">
 
-pie title Integration of breathing, movement, and music
-"Breathing (Pranayama)" : 33
-"Movement (asana)": 33
-"Music (BGM/Mantra)" : 34
+pie title 呼吸・動作・音楽の統合
+    "呼吸（プラーナーヤーマ）" : 33
+    "動作（アーサナ）" : 33
+    "音楽（BGM・マントラ）" : 34
 
 </div>
 

@@ -56,7 +56,7 @@ Recorded at Virgin Studios in London. At the time, they said, ""It was the first
 The acoustics are rough, and the microphone distance and balance are unstable. Still, the howling guitar and distortion of the vocals were recorded as "creativity born out of ignorance." There is no producer, and the sound image is based on the DIY spirit.
 
 "We weren't political or romantic, we were just confused," says Jon Langford.
-At the time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
+At that time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ This album would later be reevaluated as a precursor to "alt-country" artists su
 In the 1990s, the Mekons moved to Chicago.
 Jon Langford deepens his collaboration with American musicians, developing other projects such as the Waco Brothers and Pine Valley Cosmonauts.
 Sally Timms will be collaborating with local poets and Tom Greenhalgh will be involved in video production.
-During this period, Mekons existed as a ""drifting artistic community'' that transcended nationality and genre.
+During this period, Mekons existed as a "drifting artistic community" that transcended nationality and genre.
 
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
@@ -109,7 +109,7 @@ Although he used Pro Tools for this work, he purposely used an analog console fo
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As voices multiply, the truth splits."**
+> **"As more voices grow, the truth becomes more divided."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."
@@ -187,18 +187,18 @@ That's why they still ring.
 <div class="mermaid">
 
 flowchart TD
-A1977["1977: Formed at Leeds University (Jon Langford, Tom Greenhalgh et al.)"]
-A1978a["1978: Single "Where Were You / I'll Have To Dance Then (On My Own)" released"]
-A1978b["1978: Single "Never Been in a Riot" released"]
-A1979["1979: Album 'The Quality of Mercy Is Not Strnen'"]
-A1985["1985: Announcement of 'Fear and Whiskey' → Switch to country route"]
-A1989["1989: "The Mekons Rock "n" Roll" announced"]
-A1993["1993: American tour and move to Chicago"]
-A2000["2000: Journey to the End of the Night"]
-A2013["2013: Documentary film "Revenge of the Mekons" released"]
-A2019["2019: 'Deserted' announced"]
-A2025["2025: Continuing activities — Towards the fusion of music and art"]
+    A1977["1977：Leeds Universityにて結成（Jon Langford, Tom Greenhalghら）"]
+    A1978a["1978：シングル『Where Were You / I'll Have To Dance Then (On My Own)』リリース"]
+    A1978b["1978：シングル『Never Been in a Riot』リリース"]
+    A1979["1979：アルバム『The Quality of Mercy Is Not Strnen』"]
+    A1985["1985：『Fear and Whiskey』発表 → カントリー路線へ転換"]
+    A1989["1989：『The Mekons Rock ’n’ Roll』発表"]
+    A1993["1993：アメリカ・ツアーとシカゴ移住"]
+    A2000["2000：『Journey to the End of the Night』リリース"]
+    A2013["2013：ドキュメンタリー映画『Revenge of the Mekons』公開"]
+    A2019["2019：『Deserted』発表"]
+    A2025["2025：活動継続中 — 音楽とアートの融合へ"]
 
-A1977 --> A1978a --> A1978b --> A1979 --> A1985 --> A1989 --> A1993 --> A2000 --> A2013 --> A2019 --> A2025
+    A1977 --> A1978a --> A1978b --> A1979 --> A1985 --> A1989 --> A1993 --> A2000 --> A2013 --> A2019 --> A2025
 
 </div>

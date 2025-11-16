@@ -171,18 +171,18 @@ His current music is no longer an act of ""listening," but rather a ""philosophy
 <div class="mermaid">
 
 timeline
-title Aphex Twin Chronology of acoustic evolution (1985–2025)
-1985: Started experimenting with cassettes (Cornwall)
-1991 : Established Rephlex and announced the Analogue Bubblebath series
-1992 : "Selected Ambient Works 85–92" released
-1995: Abstracting ambient with "...Volume II"
-1996: Cellularization of rhythm in "Richard D. James Album"
-1999: "Windowlicker" clashes with the media
-2001: Silence with "Drukqs"
-2014: Regression and technology integration with "Syro"
-2018: Introducing AI-like structure in "Collapse EP"
-2023: New EP "Blackbox Life Recorder 21f" announced
-2025: Modular AI performance experiment continues
+    title Aphex Twin 音響進化の年表（1985–2025）
+    1985 : カセットで実験開始（Cornwall）
+    1991 : Rephlex設立、Analogue Bubblebathシリーズ発表
+    1992 : 『Selected Ambient Works 85–92』リリース
+    1995 : 『...Volume II』でアンビエントを抽象化
+    1996 : 『Richard D. James Album』でリズムの細胞化
+    1999 : 『Windowlicker』でメディアと衝突
+    2001 : 『Drukqs』で沈黙へ
+    2014 : 『Syro』で回帰と技術統合
+    2018 : 『Collapse EP』でAI的構造を導入
+    2023 : 新作EP『Blackbox Life Recorder 21f』発表
+    2025 : モジュラーAIパフォーマンス実験継続中
 
 </div>
 
@@ -229,38 +229,38 @@ His journey may foretell a future in which music itself becomes conscious.
 <div class="mermaid">
 
 flowchart TD
-A [Early (1990–1995)]
-B [Current (2014–2025)]
+  A[初期（1990–1995）]
+  B[現在（2014–2025）]
 
-A --> A1["Low frequency dominant<br>(60–400Hz)"]
-A --> A2["Narrow dynamic range"]
-A --> A3["Tape/analog distortion/accidental noise"]
-A --> A4["Relatively simple kick/beat"]
+  A --> A1["低域優勢<br>(60–400Hz)"]
+  A --> A2["狭いダイナミックレンジ"]
+  A --> A3["テープ/アナログ歪み・偶発ノイズ"]
+  A --> A4["比較的単純なキック/ビート"]
 
-B --> B1["Frequency widely distributed<br>(balanced between low and high)"]
-B --> B2["Wide dynamic range<br>Transient accuracy ↑"]
-B --> B3["Modular + digital composite texture"]
-B --> B4["Polyrhythm timing difference"]
+  B --> B1["周波数が広く分散<br>(ロー〜ハイの均衡)"]
+  B --> B2["広いダイナミックレンジ<br>トランジェント精度↑"]
+  B --> B3["モジュラー＋デジタル複合テクスチャ"]
+  B --> B4["ポリリズム・タイミングズレ"]
 
-subgraph VIS_LEFT ["Waveform (Concept) - Initial"]
-direction TB
-WL1(("short repetitive phrase"))
-WL2(("High-pass weak sub-bass"))
-end
+  subgraph VIS_LEFT ["波形（概念） - 初期"]
+    direction TB
+    WL1(("短い反復フレーズ"))
+    WL2(("ハイパスの弱いサブベース"))
+  end
 
-subgraph VIS_RIGHT ["Waveform (concept) - current"]
-direction TB
-WR1(("complex transient"))
-WR2(("Dense high-frequency detail"))
-end
+  subgraph VIS_RIGHT ["波形（概念） - 現在"]
+    direction TB
+    WR1(("複合トランジェント"))
+    WR2(("密な高域ディテール"))
+  end
 
-A1 --> WL1
-A2 --> WL2
-B1 --> WR1
-B2 --> WR2
+  A1 --> WL1
+  A2 --> WL2
+  B1 --> WR1
+  B2 --> WR2
 
-style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
-style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
+  style VIS_LEFT fill:#f8f9fa,stroke:#333,stroke-width:1px
+  style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
 
 
 </div>
@@ -276,32 +276,32 @@ style VIS_RIGHT fill:#f8f9fa,stroke:#333,stroke-width:1px
 flowchart TD
 
 
-A["1980s - 1990s<br>(early)"]
-B["1996–2005<br>(Turning period)"]
-C["2014–2025<br>(current)"]
+  A["1980s - 1990s<br>(初期)"]
+  B["1996–2005<br>(転換期)"]
+  C["2014–2025<br>(現在)"]
 
-A --> A1["TB-303 / TB-808 / SH-101<br>Analog Rhythm / Bass"]
-A --> A2["Akai S900 / S950<br>Sampler (cut and paste)"]
-A --> A3["Atari ST + Cubase (initial)"]
+  A --> A1["TB-303 / TB-808 / SH-101<br>アナログ・リズム / ベース"]
+  A --> A2["Akai S900 / S950<br>サンプラー（切り貼り）"]
+  A --> A3["Atari ST + Cubase（初期）"]
 
-B --> B1["Higher performance sampler<br>Expansion of hardware synths"]
-B --> B2["DAW introduction (Pro Tools etc.)<br>Precision editing"]
-B --> B3["External effects/hard processing"]
+  B --> B1["より高性能サンプラー<br>ハードウェアシンセの拡充"]
+  B --> B2["DAW導入（Pro Tools 等）<br>精密編集"]
+  B --> B3["外部エフェクト／ハード処理"]
 
-C --> C1["Eurorack modular<br>(modular patch culture)"]
-C --> C2["Max/MSP, Reaktor, soft module"]
-C --> C3["Hybrid: Physical control + algorithm"]
-
-
-A1 --- B1
-A2 --- B2
-B3 --- C2
-B2 --- C2
-C1 --- C2
+  C --> C1["Eurorackモジュラー<br>(モジュラーパッチ文化)"]
+  C --> C2["Max/MSP, Reaktor, ソフト・モジュール"]
+  C --> C3["ハイブリッド：物理制御＋アルゴリズム"]
 
 
-classDef era fill:#eef,stroke:#88a,stroke-width:1px;
-class A,B,C era;
+  A1 --- B1
+  A2 --- B2
+  B3 --- C2
+  B2 --- C2
+  C1 --- C2
+
+
+  classDef era fill:#eef,stroke:#88a,stroke-width:1px;
+  class A,B,C era;
 
 
 </div>
@@ -315,24 +315,24 @@ class A,B,C era;
 <div class="mermaid">
 
 graph TD
-AT[Aphex Twin (music)]:::center
-H[Human / emotional motif]
-D[Data / Algorithm]
-A[Accidentality/analog noise]
-B[Structuring/Polyrhythm]
-C[Visual expression/memeization]
+  AT[Aphex Twin（音楽）]:::center
+  H[Human / 感情的モチーフ]
+  D[Data / アルゴリズム]
+  A[偶発性 / アナログノイズ]
+  B[構造化 / ポリリズム]
+  C[視覚表現 / ミーム化]
 
-H -->|Projection| AT
-D -->|Control/Generation| AT
-A -->|texture element| AT
-B -->|Rhythm structure| AT
-C -->|Branding/Presentation| AT
+  H -->|投影| AT
+  D -->|制御・生成| AT
+  A -->|テクスチャ要素| AT
+  B -->|リズム構造| AT
+  C -->|ブランド化／提示| AT
 
-AT --> H
-AT --> D
+  AT --> H
+  AT --> D
 
-classDef center fill:#fff7e6,stroke:#b36b00,stroke-width:2px;
-class AT center;
+  classDef center fill:#fff7e6,stroke:#b36b00,stroke-width:2px;
+  class AT center;
 
 </div>
 
@@ -348,26 +348,26 @@ Schematic representation of changes in frequency distribution, sound pressure, a
 <div class="mermaid">
 
 flowchart TB
-subgraph LEFT["1992"Xtal""]
-direction TB
-L1["Low frequency: 60–300Hz dominant (analog bass)"]
-L2["Middle range: vocal fragments/reverb dense"]
-L3["High frequency: less noise component"]
-end
+    subgraph LEFT["1992『Xtal』"]
+        direction TB
+        L1["低域：60–300Hz 優勢（アナログベース）"]
+        L2["中域：ボーカル断片・リバーブ密集"]
+        L3["高域：ノイズ成分少なめ"]
+    end
 
-subgraph RIGHT["2014"minipops 67""]
-direction TB
-R1["Low frequency: compression balance"]
-R2["Middle range: subdivided pulse group"]
-R3["High range: micro detail/rhythm granularity ↑"]
-end
+    subgraph RIGHT["2014『minipops 67』"]
+        direction TB
+        R1["低域：コンプレッション均衡"]
+        R2["中域：細分化されたパルス群"]
+        R3["高域：マイクロディテール・リズム粒度↑"]
+    end
 
-L1 --- R1
-L2 --- R2
-L3 --- R3
+    L1 --- R1
+    L2 --- R2
+    L3 --- R3
 
-style LEFT fill:#f9f9f9,stroke:#666,stroke-width:1px
-style RIGHT fill:#f9f9f9,stroke:#666,stroke-width:1px
+    style LEFT fill:#f9f9f9,stroke:#666,stroke-width:1px
+    style RIGHT fill:#f9f9f9,stroke:#666,stroke-width:1px
 
 </div>
 
@@ -385,38 +385,38 @@ A visual beat grid is placed at the bottom.
 <div class="mermaid">
 
 graph LR
-subgraph EVEN["4/4 Grid"]
-direction LR
-E1["|1|"]
-E2["|2|"]
-E3["|3|"]
-E4["|4|"]
-end
+    subgraph EVEN["4/4 Grid"]
+        direction LR
+        E1["|1|"]
+        E2["|2|"]
+        E3["|3|"]
+        E4["|4|"]
+    end
 
-subgraph ODD["5/4 Layer"]
-direction LR
-O1["|1|"]
-O2["|2|"]
-O3["|3|"]
-O4["|4|"]
-O5["|5|"]
-end
+    subgraph ODD["5/4 Layer"]
+        direction LR
+        O1["|1|"]
+        O2["|2|"]
+        O3["|3|"]
+        O4["|4|"]
+        O5["|5|"]
+    end
 
-subgraph RESULT["Superposition result"]
-direction LR
-R1["1"]
-R2["1.5"]
-R3["2.3"]
-R4["3.7"]
-R5["5.0"]
-end
+    subgraph RESULT["重ね合わせ結果"]
+        direction LR
+        R1["1"]
+        R2["1.5"]
+        R3["2.3"]
+        R4["3.7"]
+        R5["5.0"]
+    end
 
-EVEN --> RESULT
-ODD --> RESULT
+    EVEN --> RESULT
+    ODD --> RESULT
 
-style EVEN fill:#eef7ff,stroke:#3366cc,stroke-width:1px
-style ODD fill:#ffeef2,stroke:#cc3366,stroke-width:1px
-style RESULT fill:#fff9e6,stroke:#cc9933,stroke-width:1.5px
+    style EVEN fill:#eef7ff,stroke:#3366cc,stroke-width:1px
+    style ODD fill:#ffeef2,stroke:#cc3366,stroke-width:1px
+    style RESULT fill:#fff9e6,stroke:#cc9933,stroke-width:1.5px
 
 </div>
 
@@ -433,13 +433,13 @@ Initially, it concentrated on the mid-low range, and after the 2000s, the high a
 
 <div class="mermaid">
 
-timeline
-title Aphex Twin Evolution of the acoustic range (1990–2025)
-1992: Average range 80Hz–8kHz (mainly analog recording)
-1995 : 100Hz–10kHz (noise reverb expansion)
-2001: 60Hz–12kHz (improved digital accuracy)
-2014 : 40Hz–18kHz (full range)
-2023: 30Hz–20kHz (mastering technology and AI analysis introduced)
+    timeline
+    title Aphex Twin 音響レンジの進化（1990–2025）
+    1992 : 平均レンジ 80Hz–8kHz（アナログ録音主体）
+    1995 : 100Hz–10kHz（ノイズ・リバーブ拡張）
+    2001 : 60Hz–12kHz（デジタル精度向上）
+    2014 : 40Hz–18kHz（フルレンジ化）
+    2023 : 30Hz–20kHz（マスタリング技術とAI解析導入）
 
 </div>
 

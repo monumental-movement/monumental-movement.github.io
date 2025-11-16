@@ -171,15 +171,15 @@ And in our hearts, we continue to quietly draw a **unseen beach**.
 <div class="mermaid">
 
 flowchart TD
-A1989["1989: Eno and Cale begin collaboration in London"]
-A1990["1990: Album "Wrong Way Up" released"]
-A1991["1991: Recorded song "Spinning Away" has been praised"]
-A1993["1993: Eno expands production work with U2"s "Zooropa'"]
-A1995["1995: Cale releases experimental solo work again"]
-A1999["1999: Filming of the movie "The Beach" (Koh Phi Phi, Thailand)"]
-A2000["2000: 'The Beach' released. Songs by Moby and All Saints became a hot topic"]
+    A1989["1989: EnoとCale、ロンドンでコラボレーション開始"]
+    A1990["1990: アルバム『Wrong Way Up』リリース"]
+    A1991["1991: 収録曲『Spinning Away』が評価される"]
+    A1993["1993: Eno、U2『Zooropa』でプロデュースワークを拡大"]
+    A1995["1995: Cale、再びソロとして実験的作品を発表"]
+    A1999["1999: 映画『The Beach』撮影（タイ・ピピ島）"]
+    A2000["2000: 『The Beach』公開。MobyやAll Saintsの楽曲が話題に"]
 
-A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
+    A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
 
 
 </div>

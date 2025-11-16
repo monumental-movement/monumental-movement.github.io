@@ -133,14 +133,14 @@ Beyond that lies the image of a truly free artist.
 <div class="mermaid">
 
 timeline
-title Genealogy of destructive artists (1900–2025)
-1890: Paul Verlaine/Symbolism and wandering poet
-1888: Vincent van Gogh/Self-harm and "Starry Night"
-1930: Virginia Woolf/The collapse of the inner world and literature
-1970: Jim Morrison/Fusion of poetry and rock, death at age 27
-1994: Kurt Cobain/"I hate myself and I want to die"
-2011: Amy Winehouse/Rehab and tragedy
-2020: Diffusion of "self-destructive" expressors in the SNS era
+    title 破滅型アーティストの系譜（1900–2025）
+    1890 : ポール・ヴェルレーヌ／象徴主義と放浪の詩人
+    1888 : フィンセント・ファン・ゴッホ／自傷と『星月夜』
+    1930 : ヴァージニア・ウルフ／内的世界の崩壊と文学
+    1970 : ジム・モリソン／詩とロックの融合、27歳の死
+    1994 : カート・コバーン／「I hate myself and I want to die」
+    2011 : エイミー・ワインハウス／“Rehab”の現実と悲劇
+    2020 : SNS時代の“セルフ破滅”型表現者の拡散
 
 </div>
 
@@ -152,24 +152,24 @@ title Genealogy of destructive artists (1900–2025)
 
 <div class="mermaid">
 
-flowchart TD
-A[creative impulse] --> B[internal pain/conflict]
-B --> C [Sublimation through production]
-C --> D[Social evaluation/approval]
-D --> E[Expectations and pressure]
-E --> F [Dependence/isolation/mental anxiety]
-F --> G [Ruin (death/disappearance/deviation)]
-G -->|Reinterpretation/Mythologization| H[Public sympathy/consumption]
-H -->|Opportunity for rebirth| A
+    flowchart TD
+    A[創造衝動] --> B[内的苦痛・葛藤]
+    B --> C[作品化による昇華]
+    C --> D[社会的評価・承認]
+    D --> E[期待とプレッシャー]
+    E --> F[依存・孤立・精神不安]
+    F --> G[破滅（死・消失・逸脱）]
+    G -->|再解釈・神話化| H[大衆の共感・消費]
+    H -->|再生の契機| A
 
-style A fill:#b3e5fc,stroke:#0288d1
-style B fill:#f8bbd0,stroke:#c2185b
-style C fill:#fff9c4,stroke:#fbc02d
-style D fill:#c8e6c9,stroke:#388e3c
-style E fill:#ffe0b2,stroke:#f57c00
-style F fill:#f8bbd0,stroke:#c2185b
-style G fill:#e1bee7,stroke:#7b1fa2
-style H fill:#dcedc8,stroke:#689f38
+    style A fill:#b3e5fc,stroke:#0288d1
+    style B fill:#f8bbd0,stroke:#c2185b
+    style C fill:#fff9c4,stroke:#fbc02d
+    style D fill:#c8e6c9,stroke:#388e3c
+    style E fill:#ffe0b2,stroke:#f57c00
+    style F fill:#f8bbd0,stroke:#c2185b
+    style G fill:#e1bee7,stroke:#7b1fa2
+    style H fill:#dcedc8,stroke:#689f38
 
 </div>
 

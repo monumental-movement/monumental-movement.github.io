@@ -52,7 +52,7 @@ The most important characteristics of acid house are the following sound element
 
 <hr>
 
-#### Four kicks
+#### Quadruple kick
 
 - BPM is a stable tempo of around 120-130
 
@@ -113,7 +113,7 @@ Acid house influenced not only music, but also visual and youth culture.
 
 - Highly compatible with the Zine culture and free newspapers of the time
 
-This fashion continued into rave culture, trance, techno, breakbeat, and other scenes from the 1990s onwards.
+This fashion continued into rave culture, trance, techno, breakbeat, and other scenes from the 1990s onward.
 
 
 <hr>

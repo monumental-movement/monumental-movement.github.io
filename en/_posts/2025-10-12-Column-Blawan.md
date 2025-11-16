@@ -20,7 +20,7 @@ title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Ec
 Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts -- or Blawan -- may have grown up unconsciously inhaling its reverberations.
+Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
 The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This single song made Blawan's name definitive.
+This one song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -101,7 +101,7 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
@@ -171,16 +171,16 @@ In it, he quietly asks: Can sound still be human? **
 <div class="mermaid">
 
 flowchart TD
-A2010["2010: Debut with 'Fram' EP (Hessle Audio)"]
-A2011["2011: "Bohla EP" (R&S Records) released"]
-A2012["2012: Breakthrough with "Why They Hide Their Bodies Under My Garage."]
-A2013["2013: Pariah and Karenn activities in full swing (Sheworks established)"]
-A2018["2018: Full album "Wet Will Always Dry" (Ternesc) announced"]
-A2020["2020: New innovations such as 'Immulsion" and "Under Belly'"]
-A2023["2023: Re-evaluate with modular-centered live set"]
-A2025["2025: Blawan = redefined as a symbol of modern UK techno"]
+    A2010["2010：『Fram』EPでデビュー（Hessle Audio）"]
+    A2011["2011：『Bohla EP』（R&S Records）リリース"]
+    A2012["2012：“Why They Hide Their Bodies Under My Garage.”でブレイク"]
+    A2013["2013：PariahとKarenn活動本格化（Sheworks設立）"]
+    A2018["2018：フルアルバム『Wet Will Always Dry』（Ternesc）発表"]
+    A2020["2020：『Immulsion』『Under Belly』など新機軸へ"]
+    A2023["2023：モジュラー中心のライブセットで再評価"]
+    A2025["2025：Blawan＝現代UKテクノの象徴として再定義"]
 
-A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
+    A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
 
 
@@ -271,7 +271,7 @@ A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes rough.
+Blawan's sound is sometimes cold and sometimes harsh.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because
@@ -295,44 +295,44 @@ Blawan is an artist whose blood flows through the cold world.
 <div class="mermaid">
 
 flowchart TD
-subgraph "🎚️ Control Section"
-MATHS["Make Noise MATHS\n(Envelope / Modulator)"]
-PAM["Pamela's New Workout\n(Clock / Sync Generator)"]
-METROP["Intellijel Metropolis\n(Sequencer)"]
-end
+    subgraph "🎚️ Control Section（操作系）"
+      MATHS["Make Noise MATHS\n(Envelope / Modulator)"]
+      PAM["Pamela's New Workout\n(Clock / Sync Generator)"]
+      METROP["Intellijel Metropolis\n(Sequencer)"]
+    end
 
-subgraph "🎛️ Sound Generation (oscillation/modulation)"
-OSC["Mutable Instruments Plaits\n(Multi-oscillator)"]
-VCO["Verbos Complex VCO\n(Analog Oscillator)"]
-DFAM["Moog DFAM\n(Drum Synth)"]
-BASS["Erica Synths Bassline\n(Acid / Low-end)"]
-end
+    subgraph "🎛️ Sound Generation（発振・変調）"
+      OSC["Mutable Instruments Plaits\n(Multi-oscillator)"]
+      VCO["Verbos Complex VCO\n(Analog Oscillator)"]
+      DFAM["Moog DFAM\n(Drum Synth)"]
+      BASS["Erica Synths Bassline\n(Acid / Low-end)"]
+    end
 
-subgraph "🔧Processing/Effects"
-FILTER["XAOC Belgrad\n(Dual Filter)"]
-DIST["Elektron Analog Heat\n(Distortion / Saturator)"]
-REVERB["Strymon BigSky\n(Reverb)"]
-DELAY["Make Noise Mimeophon\n(Delay / Texture)"]
-end
+    subgraph "🔧 Processing / Effects"
+      FILTER["XAOC Belgrad\n(Dual Filter)"]
+      DIST["Elektron Analog Heat\n(Distortion / Saturator)"]
+      REVERB["Strymon BigSky\n(Reverb)"]
+      DELAY["Make Noise Mimeophon\n(Delay / Texture)"]
+    end
 
-subgraph "🔊 Output & Mixing"
-MIX["WMD Performance Mixer"]
-OUT["Audio Interface\n(RME Fireface / Ableton Integration)"]
-REC["Recording / Master Chain"]
-end
+    subgraph "🔊 Output & Mixing"
+      MIX["WMD Performance Mixer"]
+      OUT["Audio Interface\n(RME Fireface / Ableton Integration)"]
+      REC["Recording / Master Chain"]
+    end
 
-PAM --> METROP
-METROP --> OSC
-METROP --> DFAM
-MATHS --> FILTER
-OSC --> FILTER
-DFAM --> DIST
-FILTER --> DELAY
-DELAY --> REVERB
-REVERB --> MIX
-DIST --> MIX
-MIX --> OUT
-OUT --> REC
+    PAM --> METROP
+    METROP --> OSC
+    METROP --> DFAM
+    MATHS --> FILTER
+    OSC --> FILTER
+    DFAM --> DIST
+    FILTER --> DELAY
+    DELAY --> REVERB
+    REVERB --> MIX
+    DIST --> MIX
+    MIX --> OUT
+    OUT --> REC
 
 
 </div>

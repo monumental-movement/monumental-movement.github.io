@@ -30,7 +30,7 @@ Abandoning the drama and emotional expression that traditional Western music has
 Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring one.
+They elevated the repetition of sound to a meditative experience rather than a boring experience.
 
 Eventually, this philosophy permeated the world of electronic music.
 In the constant rhythm of TR-808 and 909,
@@ -178,17 +178,17 @@ The acoustic space was presented as "digital minimalism".
 <div class="mermaid">
 
 timeline
-title Minimal Music Chronology
-1964 : Terry Riley "In C"
-1967 : Steve Reich "Piano Phase"
-1976 : Philip Glass "Einstein on the Beach"
-1978 : Brian Eno "Music for Airports"
-1988 : Derrick May "Strings of Life"
-1994 : Robert Hood "Minimal Nation"
-1996 : Basic Channel "Phylyps Trak"
-2001 : Alva Noto + Ryuichi Sakamoto "Vrioon"
-2005 : Ryoji Ikeda "dataplex"
-2020 : Max Cooper "Yearning for the Infinite"
+    title Minimal Music Chronology
+    1964 : Terry Riley "In C"
+    1967 : Steve Reich "Piano Phase"
+    1976 : Philip Glass "Einstein on the Beach"
+    1978 : Brian Eno "Music for Airports"
+    1988 : Derrick May "Strings of Life"
+    1994 : Robert Hood "Minimal Nation"
+    1996 : Basic Channel "Phylyps Trak"
+    2001 : Alva Noto + Ryuichi Sakamoto "Vrioon"
+    2005 : Ryoji Ikeda "dataplex"
+    2020 : Max Cooper "Yearning for the Infinite"
 
 </div>
 

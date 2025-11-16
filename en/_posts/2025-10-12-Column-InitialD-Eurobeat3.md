@@ -80,7 +80,7 @@ And the origin of that philosophy is none other than the Eurobeat of the 90s.
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the age of generative music.
+This word now takes on new meaning in the era of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
@@ -177,14 +177,14 @@ The code that binds them all is pulsating within the three letters "Eurobeat."
 <div class="mermaid">
 
 flowchart TD
-A1990["1990: The turning point from Italo Disco to Eurobeat"]
-A1995["1995: ""Initial D'' animated, combined with runner culture"]
-A2000["2000: The SEB series enters its golden age"]
-A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
-A2020["2020: AI-generated music/inherited to VR driving experience"]
-A2025["2025: Eurobeat as Interactive Sound Media concept"]
+    A1990["1990：Italo DiscoからEurobeatへの転換期"]
+    A1995["1995：『頭文字D』アニメ化、走り屋文化と結合"]
+    A2000["2000：SEBシリーズが黄金期を迎える"]
+    A2010["2010：ネットリバイバル（Nightcore, Eurobeat Meme）"]
+    A2020["2020：AI生成音楽／VRドライビング体験に継承"]
+    A2025["2025：Eurobeat as Interactive Sound Media 構想"]
 
-A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
+    A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
 
 </div>
 

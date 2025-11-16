@@ -128,17 +128,17 @@ It is the "heartbeat" of the gigantic body that is the city.
 
 flowchart TD
 
-%% Chronology of club culture and urban evolution (1970–2025)
+%% クラブカルチャーと都市の進化年表（1970–2025）
 
-A1970["1970: Rise of disco culture (NY)"]
-A1988["1988: Second Summer of Love/Acid House Revolution (UK)"]
-A1991["1991: Berlin Tresor Open"]
-A1999["1999: The fusion of the Internet and DJ culture"]
-A2012["2012: Revision of Japan's Entertainment Business Law "A night where you can dance"]
-A2020["2020: Turning into a digital club due to the pandemic"]
-A2025["2025: Reconnecting AI DJ and real clubs"]
+    A1970["1970：ディスコ文化の勃興（NY）"]
+    A1988["1988：Second Summer of Love／アシッドハウス革命（UK）"]
+    A1991["1991：ベルリンTresorオープン"]
+    A1999["1999：インターネットとDJカルチャーの融合"]
+    A2012["2012：日本の風営法改正“踊ってもいい夜”"]
+    A2020["2020：パンデミックでデジタルクラブ化"]
+    A2025["2025：AI DJとリアルクラブの再接続"]
 
-A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
+    A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
 
 </div>
 

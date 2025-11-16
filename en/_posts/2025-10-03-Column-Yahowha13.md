@@ -177,21 +177,21 @@ Below is a Mermaid relationship diagram that simply shows the relationship betwe
 <div class="mermaid">
 
 flowchart LR
-FY["Father Yod / James Baker"] --> SF["Source Family Commune"]
-SF --> TY1["Spirit of '76 (initial name)"]
-SF --> YHW["Yahowha13 / Ya Ho Wa 13"]
-SF --> FWA["Fire, Water, Air"]
-SF --> YOD["Yodship name project"]
+  FY["Father Yod / James Baker"] --> SF["Source Family Commune"]
+  SF --> TY1["Spirit of ’76 (初期名義)"]
+  SF --> YHW["Yahowha13 / Ya Ho Wa 13"]
+  SF --> FWA["Fire, Water, Air"]
+  SF --> YOD["Yodship 名義プロジェクト"]
 
-YHW --> Pen["Penetration: An Aquarian Symphony"]
-YHW --> IGT["I'm Gonna Take You Home"]
-YHW --> TPC["To the Principles for the Children"]
+  YHW --> Pen["Penetration: An Aquarian Symphony"]
+  YHW --> IGT["I’m Gonna Take You Home"]
+  YHW --> TPC["To the Principles for the Children"]
 
-FWA --> GS["Golden Sunrise"]
-YOD --> YS["Yodship Suite"]
+  FWA --> GS["Golden Sunrise"]
+  YOD --> YS["Yodship Suite"]
 
-FY --> VOC["Yod's vocal/chant participation"]
-SF --> Mus["Faith musicians (Djin, Octavius, Sunflower, etc.)"]
+  FY --> VOC["Yod のボーカル／チャント参加"]
+  SF --> Mus["信徒ミュージシャンたち（Djin, Octavius, Sunflower 等）"]
 
 </div>
 
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Highlights & recommended listening order (beginner → intermediate → researchers)
+### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 

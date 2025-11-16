@@ -96,10 +96,10 @@ Zines can be a ""means for reconstructing the experience'' of unrecorded raves.
 <div class="mermaid">
 flowchart TD
 
-A["Rave Zine"] --> B["Overseas"]
+    A["レイヴZine"] --> B["海外"]
     
-B --> B1["Datacide<br>(Germany)"]
-B --> B2["Rave Flyer Archives<br>(UK)"]
+    B --> B1["Datacide<br>(ドイツ)"]
+    B --> B2["Rave Flyer Archives<br>(UK)"]
 </div>
 
 ---

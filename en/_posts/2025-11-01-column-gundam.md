@@ -55,7 +55,7 @@ color: #fff;
 
 ![Image](https://m.media-amazon.com/images/I/61MKY9HyTgL._UF1000%2C1000_QL80_.jpg)
 
-"Mobile Suit Gundam" began airing as a TV anime in 1979. It vividly depicted themes such as war, Newtypes, and space battles, and became the beginning of a profound series of works that went beyond the boundaries of giant robot (mobile suit) anime. However, in this series, along with the visual and narrative elements of mecha and human drama, another important pillar is ""music''. Theme songs, insert songs, and musical accompaniment (BGM) are not just accessories; they support the story, expand the worldview, and play a role in stirring the emotions of viewers.
+Mobile Suit Gundam began airing as a TV anime in 1979. It vividly depicted themes such as war, Newtypes, and space battles, and became the beginning of a profound series of works that went beyond the boundaries of giant robot (mobile suit) anime. However, in this series, along with the visual and narrative elements of mecha and human drama, another important pillar is ""music''. Theme songs, insert songs, and musical accompaniment (BGM) are not just accessories; they support the story, expand the worldview, and play a role in stirring the emotions of viewers.
 
 In this article, we will look at the Mobile Suit Gundam series from the perspective of music. While tracing the changes in the series and music from 1979 to 2025, we will decipher how music has shaped Gundam and how it has changed over time. The structure of music, changes in lyrics, melodies, recording/distribution formats, and thematic functions played by music - let's take a journey to "listen" to the world of Gundam, using these as clues.
 
@@ -113,13 +113,13 @@ At the same time, the number of theme songs with synth sounds, dance beats, and 
 
 In the TV anime "Mobile Suit Gundam W" (New Mobile Suit Gundam W) that aired in 1995, the opening theme "Just Communication" (sung by TWO-MIX) adopted a synth beat and a pop melody, making it a work that stands out from traditional Gundam theme songs.
 
-The appearance of this song was also an opportunity to change the conventional image of Gundam = war drama + heavy music to a slightly lighter version of a hero song that can be heard in pop music.
+The appearance of this song was also an opportunity to open up the conventional image of ""Gundam = war drama + heavy music" to a slightly lighter ""hero song that can be heard in pop music."
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
-### 2.3 Drama accompaniment, theme songs, and insert songs: changing tastes over time
+### 2.3 Dramatic accompaniment, theme songs, and insert songs: changing tastes over time
 
-During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under character names), remix albums, best-of albums, live albums, etc. were released one after another, and the categorization of music products progressed.
+During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under the character's name), remix albums, best albums, live albums, etc. were released one after another, and the categorization of music products progressed.
 
 The musical accompaniment (BGM) has also evolved. There was a growing movement to boldly fuse piano, strings, and synths, and a strong trend emerged from the 1980s' "battlefield" sound to express the "feelings of a character" and "detailed internal depiction" through sound.
 
@@ -137,7 +137,7 @@ We have entered an era in which "Gundam music" is not just "background music to 
 
 ### 3.2 Example: Soundtrack composition of the "Mobile Suit Gundam SEED" series
 
-For "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono and others were in charge of the music, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix disc, and "Suit CD" were developed.
+For ""Mobile Suit Gundam SEED" ​​(2002-), Hiroyuki Kono and others were actually in charge of the musical accompaniment, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix album, and ""Suit CD" were developed.
 This structure shows that Gundam music has become "a product/culture that cannot be separated from the work." Music has become a brand, and it has come to function in places other than productions (live shows, bonus CDs, collaborations).
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
@@ -174,7 +174,7 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 
-Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
+Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into content that is not only something to be "listened to" but also something to "participate in".
 
 ### 5.2 Gundam as a musical work: remix, arrangement, planning edition
 

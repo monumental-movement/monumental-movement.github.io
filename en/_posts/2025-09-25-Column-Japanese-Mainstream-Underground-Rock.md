@@ -17,7 +17,7 @@ title: '[Column] Japanese rock history: The intersection of mainstream and under
 
 Text: mmr｜Theme: Mainstream and underground Japanese rock
 
-Japanese rock began to spread with [Group Sounds (GS)] (https://amzn.to/4gP5wli), which blossomed in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
+Japanese rock began to spread with [Group Sounds (GS)](https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
 
 ---
 
@@ -85,12 +85,12 @@ Rock sounds will be connected to movie soundtrack production and AI music genera
 
 <div class="mermaid">
 flowchart TD
-A["1960s: Origins — GS and Naked Larry's"] --> B["1970s: Folk and experimental music — Keiji Haino"]
-B --> C["1980s: Behind the scenes of Shonen Knife and the band boom"]
-C --> D["1990s: Seiichi Yamamoto, Boredoms, Melt-Banana, Acid Mother's Temple"]
-D --> E["2000s: Guitar Wolf's international garage rock"]
-E --> F["2010s: Reappraisal and festival culture"]
-F --> G["2020s: AI music generation and soundtrack production"]
+    A["1960s: 発祥 — GSと裸のラリーズ"] --> B["1970s: フォークと実験音楽 — 灰野敬二"]
+    B --> C["1980s: 少年ナイフとバンドブームの裏側"]
+    C --> D["1990s: 山本精一, ボアダムス, Melt-Banana, アシッドマザーズテンプル"]
+    D --> E["2000s: ギターウルフの国際的ガレージ・ロック"]
+    E --> F["2010s: 再評価とフェス文化"]
+    F --> G["2020s: AI音楽生成とサウンドトラック制作"]
 </div>
 
 ---

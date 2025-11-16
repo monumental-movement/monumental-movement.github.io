@@ -12,7 +12,7 @@ title: Suicidal Tendencies – Lights...Camera...Revolution
 ---
 
 
-""Lights...Camera...Revolution!'' is an important work in Suicidal Tendencies" career, embodying the breadth and energy of their music. The album is characterized by intense guitar riffs, speedy drums, and Mike Muir"s powerful vocals.
+""Lights...Camera...Revolution!'' is a seminal work in Suicidal Tendencies" career, embodying the breadth and energy of their music. The album is characterized by intense guitar riffs, speedy drums, and Mike Muir"s powerful vocals.
 
 The album includes signature songs such as "You Can't Bring Me Down" and "Send Me Your Money."
 

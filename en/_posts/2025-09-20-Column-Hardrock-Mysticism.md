@@ -57,12 +57,12 @@ Seen in this way, Led Zeppelin's occult explorations and the introduction of Eas
 <div class="mermaid">
 
 flowchart LR
-A["Western machoism"] --> C["Hard rock"]
-B["Oriental thought/mysticism"] --> C
-C --> D["Soundtrack production"]
-C --> E["AI music generation"]
-D --> F["Application to film music"]
-E --> G["Next Generation Music Experience"]
+  A["西洋的マッチョさ"] --> C["ハードロック"]
+  B["東洋思想・神秘主義"] --> C
+  C --> D["サウンドトラック制作"]
+  C --> E["AI音楽生成"]
+  D --> F["映画音楽への応用"]
+  E --> G["次世代音楽体験"]
 
 </div>
 

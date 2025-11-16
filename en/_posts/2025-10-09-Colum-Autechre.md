@@ -117,7 +117,7 @@ In 2020, Autechre presents a new chapter of the two-disc set.
 Amidst the algorithmic precision, there is a tranquil, organic fluctuation.
 
 Among listeners, it is often said that "Autechre redefined Ambient."
-The tracks on ""SIGN" sound like a machine learning ""silence".
+The tracks on ""SIGN" sound like a machine learning ""silence."
 Their sound is always walking the middle ground between the future and nostalgia.
 
 ---
@@ -150,19 +150,19 @@ Autechre is still exploring the possibilities of sound **beyond structure**.
 <div class="mermaid">
 
 flowchart TD
-A1991["1991: Autechre formed (Sean Booth & Rob Brown)"]
-A1993["1993: Debut on Warp with 'Incunabula'"]
-A1994["1994: 'Amber' released"]
-A1995["1995: 'Tri Repetae' released - a symbol of IDM"]
-A1997["1997: Deepening the acoustic structure with 'Chiastic Slide'"]
-A2001["2001: 'Confield'—The Generative Turning Point with Max/MSP"]
-A2003["2003: Draft 7.30"]
-A2010["2010: 'Oversteps'—Organic Regression"]
-A2018["2018: 'NTS Sessions 1–4' — Over 8 hours of masterpieces"]
-A2020["2020: 'SIGN" and "PLUS' released"]
-A2024["2024: AE_LIVE series continuation"]
+    A1991["1991: Autechre結成（Sean Booth & Rob Brown）"]
+    A1993["1993: 『Incunabula』でWarpよりデビュー"]
+    A1994["1994: 『Amber』リリース"]
+    A1995["1995: 『Tri Repetae』発表 — IDMの象徴作に"]
+    A1997["1997: 『Chiastic Slide』で音響構造を深化"]
+    A2001["2001: 『Confield』— Max/MSPによる生成的転換点"]
+    A2003["2003: 『Draft 7.30』"]
+    A2010["2010: 『Oversteps』— 有機的な回帰"]
+    A2018["2018: 『NTS Sessions 1–4』— 8時間超の大作群"]
+    A2020["2020: 『SIGN』『PLUS』リリース"]
+    A2024["2024: AE_LIVEシリーズ継続"]
 
-A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> A2018 --> A2020 --> A2024
+    A1991 --> A1993 --> A1994 --> A1995 --> A1997 --> A2001 --> A2003 --> A2010 --> A2018 --> A2020 --> A2024
 
 </div>
 

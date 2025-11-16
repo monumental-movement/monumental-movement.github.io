@@ -162,16 +162,16 @@ It is a modern poem that attempts to exist beautifully despite the noise.
 <div class="mermaid">
 
 flowchart TD
-A1990["1990: Experimental music (Oval) using CD noise as material"]
-A1995["1995: Announcement of Ryoji Ikeda's "+/-" — Establishment of digital acoustic aesthetics"]
-A2000["2000: Clicks & Cuts movement start (Mille Plateaux)"]
-A2004["2004: Alva Noto & Ryuichi Sakamoto's "Vrion" released"]
-A2010["2010: Rosa Menkman's The Glitch Moment(um)"]
-A2013["2013: Arca's &&&&&' released — fusion of Glitch and physicality"]
-A2020["2020: Expanding the expression of "simulated bugs" in the age of AI art"]
-A2025["2025: Toward the Post-Glitch era—-Philosophy of error has become commonplace"]
+    A1990["1990：CDノイズを素材にした実験音楽（Oval）登場"]
+    A1995["1995：Ryoji Ikeda『+/-』発表 — デジタル音響美学の確立"]
+    A2000["2000：Clicks & Cutsムーブメント始動（Mille Plateaux）"]
+    A2004["2004：Alva Noto & Ryuichi Sakamoto『Vrioon』リリース"]
+    A2010["2010：Rosa Menkman『The Glitch Moment(um)』刊行"]
+    A2013["2013：Arca『&&&&&』発表 — Glitchと身体性の融合"]
+    A2020["2020：AIアート時代の“模擬的バグ”表現拡大"]
+    A2025["2025：Post-Glitch時代へ——エラーの哲学が日常化"]
 
-A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
+    A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
 
 
 

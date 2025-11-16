@@ -88,27 +88,27 @@ In the field of sound design, research on "auditory UI" using brain waves is acc
 <div class="mermaid">
 
 sequenceDiagram
-participant Sound as sound waves (air vibrations)
-Outer participant as outer ear
-participant Middle as middle ear
-Inner participant as inner ear (cochlea)
-Hair participant as hair cell
-Nerve as participant
-brainstem as participant brainstem (superior olivary nucleus, etc.)
-Midbrain participant as Inferior colliculus
-participant Thalamus as thalamus (MGN)
-participant Cortex as auditory cortex (temporal lobe)
+  participant Sound as 音波（空気の振動）
+  participant Outer as 外耳
+  participant Middle as 中耳
+  participant Inner as 内耳（蝸牛）
+  participant Hair as 有毛細胞
+  participant Nerve as 蝸牛神経
+  participant Brainstem as 脳幹（上オリーブ核など）
+  participant Midbrain as 下丘（Inferior colliculus）
+  participant Thalamus as 視床（MGN）
+  participant Cortex as 聴覚野（側頭葉）
 
-Sound->>Outer: Collect sound waves
-Outer->>Middle: Transmitted to the eardrum
-Middle->>Inner: Amplified by the auditory ossicles
-Inner->>Hair: Organ of Corti converts vibrations into electrical signals
-Hair->>Nerve: Nerve firing
-Nerve->>Brainstem: Primary signal reached
-Brainstem->>Midbrain: Sound source localization
-Midbrain->>Thalamus: Time-frequency analysis
-Thalamus->>Cortex: Recognize the meaning of sounds
-Note over Cortex: Higher-order processing linked to memory and emotion
+  Sound->>Outer: 音波を集める
+  Outer->>Middle: 鼓膜へ伝達
+  Middle->>Inner: 耳小骨で増幅
+  Inner->>Hair: コルチ器が振動を電気信号に
+  Hair->>Nerve: 神経発火
+  Nerve->>Brainstem: 一次信号到達
+  Brainstem->>Midbrain: 音源定位
+  Midbrain->>Thalamus: 時間周波数解析
+  Thalamus->>Cortex: 音の意味を認識
+  Note over Cortex: 記憶・感情と連携する高次処理
 
 </div>
 
@@ -119,11 +119,11 @@ Note over Cortex: Higher-order processing linked to memory and emotion
 <div class="mermaid">
 
 flowchart LR
-Sound waves -->|Sound collection| Ear
-Ear -->|Amplification| Cochlea
-Cochlea -->|Transformation| Nerve signals
-Neural signals -->|Transmission| Brain
-Brain -->|Cognition| Auditory experience
+  音波 -->|集音| 耳
+  耳 -->|増幅| 蝸牛
+  蝸牛 -->|変換| 神経信号
+  神経信号 -->|伝達| 脳
+  脳 -->|認識| 聴覚体験
 
 </div>
 

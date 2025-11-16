@@ -65,14 +65,14 @@ Therefore, the performance becomes an improvisational "act" and the sound is flu
 <div class="mermaid">
 
 flowchart LR
-subgraph Buchla_System["Buchla System 100/200 Conceptual Structure"]
-direction LR
-CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>(Modulation path)"]
-MOD --> OSC["Complex Oscillator<br>"]
-OSC --> LPG["Low Pass Gate<br>(tone/volume linked)"]
-LPG --> OUT["Audio Out"]
-end
-style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
+  subgraph Buchla_System["Buchla System 100/200 概念構造"]
+    direction LR
+    CV["Voltage Source<br>(コントロール電圧)"] --> MOD["Modulation Bus<br>(変調経路)"]
+    MOD --> OSC["Complex Oscillator<br>(複雑発振)"]
+    OSC --> LPG["Low Pass Gate<br>(音色・音量連動)"]
+    LPG --> OUT["Audio Out"]
+  end
+  style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
 
 </div>
 
@@ -147,14 +147,14 @@ Buchla"s ""physicality" and Serge"s ""structurality" have merged, and today's el
 <div class="mermaid">
 
 timeline
-title Buchla / Serge: Evolution of Modular Thinking
-1963 : Buchla Series 100 development
-1969 : Buchla 200 series
-1974 : Serge Modular initial version
-1980 : Serge Dual Slope Generator
-1990 : Buchla 400 / MIDI experiment
-2004 : Eurorack boom
-2020 : Buchla USA / Serge re-evaluation
+  title Buchla / Serge: Evolution of Modular Thinking
+  1963 : Buchla Series 100 開発
+  1969 : Buchla 200 シリーズ
+  1974 : Serge Modular 初期版
+  1980 : Serge Dual Slope Generator
+  1990 : Buchla 400 / MIDI実験
+  2004 : Eurorackブーム
+  2020 : Buchla USA / Serge再評価
 
 </div>
 

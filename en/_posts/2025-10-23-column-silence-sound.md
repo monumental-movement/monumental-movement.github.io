@@ -63,13 +63,13 @@ Below is a chronology showing its genealogy.
 <div class="mermaid">
 
 timeline
-title Art history of silence and listening (1950–2020)
-1952: Premiere of John Cage's 4 minutes 33 seconds - presents the concept of silence
-1967: Max Newhouse "Sound Walk"—Art as an act of listening to the city
-1978: Brian Eno "Ambient 1: Music for Airports"—Designing listening spaces
-1994: Ryuichi Sakamoto "Schola" series — Philosophical consideration of sound and time
-2005: Janet Cardiff "Audio Walks"—Experiencing movement and hearing
-2020: AI sound generation and redefining silence — an era where "silence" is analyzed as data
+    title 沈黙と聴取の芸術史（1950–2020）
+    1952 : ジョン・ケージ《4分33秒》初演 — 沈黙の概念を提示
+    1967 : マックス・ニューハウス「サウンド・ウォーク」— 都市を聴く行為としてのアート
+    1978 : ブライアン・イーノ『Ambient 1: Music for Airports』— 聴く空間のデザイン
+    1994 : 坂本龍一「スコラ」シリーズ — 音と時間の哲学的考察
+    2005 : ジャネット・カーディフ「Audio Walks」— 移動と聴覚の体験化
+    2020 : AIサウンド生成と沈黙の再定義 — “無音”がデータとして分析される時代
 
 
 </div>
@@ -124,17 +124,17 @@ In other words, the value of silence in an age of digital saturation is resurfac
 <div class="mermaid">
 
 graph TD
-A [act of listening] --> B [external sounds (environmental sounds/music)]
-A --> C [Internal sounds (memories, thoughts, physical sensations)]
-B --> D [Selective listening: Listen to music]
-C --> E [Echoic listening: Listen to yourself]
-D --> F [Creative Silence: Composition/Improvisation]
-E --> F
+    A[聴く行為] --> B[外的音（環境音・音楽）]
+    A --> C[内的音（記憶・思考・身体感覚）]
+    B --> D[選択的聴取：音楽を聴く]
+    C --> E[反響的聴取：自分を聴く]
+    D --> F[創造的沈黙：作曲・即興]
+    E --> F
 
 </div>
 
 As this diagram shows, ""listening'' is not a passive act, but a creative act.
-Silence functions not as a "space" for playing music, but as a space for thinking and empathy.
+Silence functions not as a space for playing music, but as a space for thinking and empathy.
 
 ---
 

@@ -47,7 +47,7 @@ A quiet residential area in Pennsylvania in the mid-1980s.
 Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 **Aaron Freeman (Gene Ween)** and **Mickey Melchiondo (Dean Ween)**.
 
-The existence of "**Boognish**" that they created is more than just a logo or character.
+The "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
 The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
 
@@ -210,17 +210,17 @@ Ween is "endless laughter" that transcends genre barriers.
 <div class="mermaid">
 
 flowchart TD
-A["1984"] --> B["Gene Ween & Dean Ween formed"]
-B --> C["1987: Recording of demo cassette "GodWeenSatan" begins"]
-C --> D["1990: 'GodWeenSatan: The Oneness' released"]
-D --> E["1991: 'The Pod' released"]
-E --> F["1992: 'Pure Guava' released"]
-F --> G["1994: 'Chocolate and Cheese' released"]
-G --> H["1996: ""12 Golden Country Greats'' released"]
-H --> I["1997: 'The Mollusk' released"]
-I --> J["2000: 'White Pepper' released"]
-J --> K["2003: 'Quebec' released"]
-K --> L["2007: 'La Cucaracha' released"]
+    A["1984"] --> B["Gene Ween & Dean Ween 結成"]
+    B --> C["1987: デモカセット『GodWeenSatan』録音開始"]
+    C --> D["1990: 『GodWeenSatan: The Oneness』リリース"]
+    D --> E["1991: 『The Pod』リリース"]
+    E --> F["1992: 『Pure Guava』リリース"]
+    F --> G["1994: 『Chocolate and Cheese』リリース"]
+    G --> H["1996: 『12 Golden Country Greats』リリース"]
+    H --> I["1997: 『The Mollusk』リリース"]
+    I --> J["2000: 『White Pepper』リリース"]
+    J --> K["2003: 『Quebec』リリース"]
+    K --> L["2007: 『La Cucaracha』リリース"]
 </div>
 
 ---
@@ -237,7 +237,7 @@ K --> L["2007: 'La Cucaracha' released"]
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 

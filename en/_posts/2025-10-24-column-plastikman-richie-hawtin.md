@@ -97,7 +97,7 @@ On his stage, an environment was constructed in which MacBook, MIDI controller, 
 ---
 
 ## Chapter 5: Playing Plastikman with "EX"
-""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to a museum space.
+""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to the museum space.
 The stage is shrouded in darkness, and Houtin stands as if imprisoned in a glowing cage. The audience shares the experience of ""observing the structure of sound" rather than ""watching a DJ."
 
 > "Plastikman remains the music of an inward journey."
@@ -174,11 +174,11 @@ Minus was more than just a distribution platform, it functioned as a place to em
 <div class="mermaid">
 
 flowchart TD
-A[DE9 series] -->|Real-time editing| B[Minus label works]
-B --> C [Modern Minimal Artist]
-C --> D [Global Club Scene]
-A --> E[Redefining DJ expression]
-E --> D
+    A[DE9シリーズ] -->|リアルタイム編集| B[Minusレーベル作品]
+    B --> C[現代ミニマルアーティスト]
+    C --> D[グローバルクラブシーン]
+    A --> E[DJ表現の再定義]
+    E --> D
 
 </div>
 
@@ -197,8 +197,8 @@ E --> D
 <div class="mermaid">
 
 graph TD
-A[Spastik] --> B[Hi-hat density change]
-B --> C [Rhythm reconstruction]
+    A[Spastik] --> B[ハイハット密度変化]
+    B --> C[リズムの再構築]
 
 </div>
 
@@ -215,8 +215,8 @@ B --> C [Rhythm reconstruction]
 <div class="mermaid">
 
 graph TD
-A[Low Pulse] --> B[High Hat Intersections]
-B --> C[Blank placement]
+    A[Low Pulse] --> B[High Hat Intersections]
+    B --> C[空白の配置]
 
 </div>
 
@@ -233,8 +233,8 @@ B --> C[Blank placement]
 <div class="mermaid">
 
 graph TD
-A[Sample Fragment] --> B[Layered Rhythm]
-B --> C[Real-time editing]
+    A[Sample Fragment] --> B[Layered Rhythm]
+    B --> C[リアルタイム編集]
 
 </div>
 
@@ -246,10 +246,10 @@ B --> C[Real-time editing]
 <div class="mermaid">
 
 flowchart TD
-A[Sensory input layer<br>—Low frequency/reverberation] --> B[Cognitive transformation layer<br>—Rhythm reconstruction]
-B --> C [Inner spatial layer<br>— Synchronization of thoughts and body]
-C --> D [Meditation layer<br>— Return and return of silence and sound]
-D --> E[Expansion of consciousness<br>— Techno = process of consciousness]
+    A[感覚入力層<br>— 低周波・残響] --> B[認知変容層<br>— リズムの再構築]
+    B --> C[内的空間層<br>— 思考と身体の同期]
+    C --> D[瞑想層<br>— 無音と音の往還]
+    D --> E[意識の拡張<br>— テクノ＝意識のプロセス]
 
 </div>
 
@@ -260,18 +260,18 @@ D --> E[Expansion of consciousness<br>— Techno = process of consciousness]
 <div class="mermaid">
 
 timeline
-title Richie Hawtin / Plastikman Timeline (1970–2025)
-1970 : Born in Banbury, England
-1987: Discovered Detroit techno and started DJing
-1990: Plus 8 label established (with John Acquaviva)
-1993: Released "Sheet One" under the name Plastikman
-1994: "Musik" released, the pinnacle of Acid Techno
-1998: Release of "Consumed" - Mastering the abstraction of techno
-2001: Renewal of DJ expression with "DE9: Closer to the Edit"
-2010 : Plastikman Live tour, integrated production of light and sound
-2014 : "EX" Tate Modern performance
-2022: "Consumed in Key" (co-written with Chilly Gonzales)
-2025: Techno and art fusion archive project in progress
+    title Richie Hawtin / Plastikman 年表（1970–2025）
+    1970 : 英国バンベリーに生まれる
+    1987 : デトロイト・テクノと出会い、DJ活動開始
+    1990 : Plus 8レーベル設立（John Acquavivaと共に）
+    1993 : Plastikman名義『Sheet One』発表
+    1994 : 『Musik』リリース、Acid Technoの頂点に
+    1998 : 『Consumed』発表 ― テクノの抽象化を極める
+    2001 : 「DE9: Closer to the Edit」でDJ表現を刷新
+    2010 : Plastikman Liveツアー、光と音の一体化演出
+    2014 : 『EX』Tate Modern公演
+    2022 : 『Consumed in Key』(Chilly Gonzalesとの共作)
+    2025 : テクノとアートの融合的アーカイブ・プロジェクト進行中
 
 </div>
 
@@ -315,11 +315,11 @@ This is because he knows better than anyone that just one rotation can change th
 <div class="mermaid">
 
 flowchart TD
-A[DE9 series] -->|Waveform unit editing| B[Minus label work]
-B --> C [Innovation of live expression]
-C --> D [Modern minimal scene]
-B --> E[Influence on new generation artists]
-A --> F[Redefining DJ expression]
-F --> D
+    A[DE9シリーズ] -->|波形単位編集| B[Minusレーベル作品]
+    B --> C[ライブ表現の革新]
+    C --> D[現代ミニマルシーン]
+    B --> E[新世代アーティストへの影響]
+    A --> F[DJ表現の再定義]
+    F --> D
 
 </div>

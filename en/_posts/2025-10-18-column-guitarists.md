@@ -192,7 +192,7 @@ The guitar is not just a musical instrument, but a device for self-expression.
 
 - **Pedal board philosophy**: Sound creation = ego design. Each pedal becomes an extension of the player's personality.
 - **Loop/Glitch/DAW**: Extended "finger memory". A single performer can perform orchestral expression.
-- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the world from the Kyoto underground. Influenced improvisational and experimental music both domestically and internationally.
+- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the Kyoto underground to the world. Influenced improvisational and experimental music both domestically and internationally.
 
 Keiji Haino treats the guitar as an extension of his body and mind, and is a presence that shakes the listener's senses with the extremes of sound. The trinity of improvisation, destruction, and expression becomes an important coordinate in the history of Japanese underground guitar.
 
@@ -214,24 +214,24 @@ The guitar has always been a symbol of free expression, from the underground to 
 <div class="mermaid">
 
 flowchart TD
-subgraph world
-A1950["Chuck Berry 1950s"]
-A1960["Jimi Hendrix 1960s"]
-A1970["Sonic Youth 1970s-80s"]
-A1980["Kevin Shields 1990s"]
-A1990["Ichika Nito 2010s"]
-end
+    subgraph 世界
+    A1950["Chuck Berry 1950s"]
+    A1960["Jimi Hendrix 1960s"]
+    A1970["Sonic Youth 1970s-80s"]
+    A1980["Kevin Shields 1990s"]
+    A1990["Ichika Nito 2010s"]
+    end
 
-subgraph japan
-J1950["Takeshi Terauchi 1950s"]
-J1960["Char 1970s"]
-J1970["Seiichi Yamamoto / Keiji Haino 1980s-90s"]
-J1980["MONO/toe 2000s"]
-J1990["Ichika Nito / Aoba Ichiko 2010s"]
-end
+    subgraph 日本
+    J1950["寺内タケシ 1950s"]
+    J1960["Char 1970s"]
+    J1970["山本精一 / 灰野敬二 1980s-90s"]
+    J1980["MONO / toe 2000s"]
+    J1990["Ichika Nito / 青葉市子 2010s"]
+    end
 
-A1950 --> A1960 --> A1970 --> A1980 --> A1990
-J1950 --> J1960 --> J1970 --> J1980 --> J1990
+    A1950 --> A1960 --> A1970 --> A1980 --> A1990
+    J1950 --> J1960 --> J1970 --> J1980 --> J1990
 
 </div>
 

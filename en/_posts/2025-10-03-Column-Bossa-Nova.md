@@ -15,7 +15,7 @@ title: '[Column] Bossa Nova charm and masterpiece guide: Recommended albums by a
 
 ## The charm and history of bossa nova
 
-Text: mmr｜Theme: Discography of major bossa nova artists such as Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organized in chronological order and explanation of each album
+Text: mmr｜Theme: Discography of major bossa nova artists such as Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organized in chronological order and explanation of each album.
 
 
 
@@ -170,31 +170,31 @@ color: #fff;
 <div class="mermaid">
 
 flowchart TD
-JG1["1959: João Gilberto - Chega de Saudade"]
-JG2["1960: João Gilberto - O Amor, o Sorriso e a Flor"]
-JG3["1961: João Gilberto - João Gilberto"]
-ACJ1["1963: Antônio Carlos Jobim - The Composer of Desafinado Plays"]
-SG1["1962: Stan Getz - Jazz Samba"]
-SG2["1962: Stan Getz - Big Band Bossa Nova"]
-GJ["1964: Getz/Gilberto - Stan Getz & João Gilberto"]
-ACJ2["1965: Antônio Carlos Jobim - The Wonderful World of Antônio Carlos Jobim"]
-SM1["1966: Sérgio Mendes & Brasil '66"]
-ACJ3["1967: Francis Albert Sinatra & Antônio Carlos Jobim"]
-JG4["1973: João Gilberto - João Gilberto"]
-ACJ4["1970: Antônio Carlos Jobim - Stone Flower"]
-SG3["1977: Stan Getz - The Best of Two Worlds"]
-SM2["1971: Sérgio Mendes - Stillness"]
-ACJ5["1987: Antônio Carlos Jobim - Terra Brasilis"]
-SM3["1983: Sérgio Mendes - Confetti"]
+    JG1["1959: João Gilberto - Chega de Saudade"]
+    JG2["1960: João Gilberto - O Amor, o Sorriso e a Flor"]
+    JG3["1961: João Gilberto - João Gilberto"]
+    ACJ1["1963: Antônio Carlos Jobim - The Composer of Desafinado Plays"]
+    SG1["1962: Stan Getz - Jazz Samba"]
+    SG2["1962: Stan Getz - Big Band Bossa Nova"]
+    GJ["1964: Getz/Gilberto - Stan Getz & João Gilberto"]
+    ACJ2["1965: Antônio Carlos Jobim - The Wonderful World of Antônio Carlos Jobim"]
+    SM1["1966: Sérgio Mendes & Brasil '66"]
+    ACJ3["1967: Francis Albert Sinatra & Antônio Carlos Jobim"]
+    JG4["1973: João Gilberto - João Gilberto"]
+    ACJ4["1970: Antônio Carlos Jobim - Stone Flower"]
+    SG3["1977: Stan Getz - The Best of Two Worlds"]
+    SM2["1971: Sérgio Mendes - Stillness"]
+    ACJ5["1987: Antônio Carlos Jobim - Terra Brasilis"]
+    SM3["1983: Sérgio Mendes - Confetti"]
 
-JG1 --> JG2 --> JG3 --> GJ
-SG1 --> GJ
-SG2 --> GJ
-ACJ1 --> GJ
-ACJ1 --> ACJ2 --> ACJ3 --> ACJ4 --> ACJ5
-SM1 --> SM2 --> SM3
-JG4 --> GJ
-SG3 --> GJ
+    JG1 --> JG2 --> JG3 --> GJ
+    SG1 --> GJ
+    SG2 --> GJ
+    ACJ1 --> GJ
+    ACJ1 --> ACJ2 --> ACJ3 --> ACJ4 --> ACJ5
+    SM1 --> SM2 --> SM3
+    JG4 --> GJ
+    SG3 --> GJ
 
 </div>
 

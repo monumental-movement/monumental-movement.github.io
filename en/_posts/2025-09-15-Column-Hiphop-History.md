@@ -114,7 +114,7 @@ Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a l
 
 ### Club culture
 DJ sets evolved at clubs in New York and LA. In an era before radio and streaming, songs became a buzz on club floors.
-Before demo tapes and the internet, rap battles were centered around clubs.
+Before demo tapes and the Internet, rap battles were centered around clubs.
 
 De-sampling and equipment changes
 With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create unique sound sources using synths and plug-ins without relying on sampling.
@@ -239,30 +239,30 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 ### Genealogy of major artists
 <div class="mermaid">
 graph TD
-A[DJ Kool Herc] --> B[Grandmaster Flash]
-A --> C[Afrika Bambaataa]
-B --> D[Run-D.M.C.]
-C --> E[Public Enemy]
-D --> F[N.W.A]
-F --> G[Dr. Dre]
-G --> H[Snoop Dogg]
-G --> I[2Pac]
-G --> J[Eminem]
-E --> K[Nas]
-E --> L[Jay-Z]
-J --> M[50 Cent]
-M --> N[Kendrick Lamar]
-K --> O[J. Cole]
-L --> O
-H --> P[Lil Wayne]
-P --> Q[Drake]
-P --> R[Nicki Minaj]
-Q --> S[Future]
-S --> T[Young Thug]
-T --> U[Travis Scott]
-Q --> V[Migos]
-V --> W[Lil Baby]
-W --> X[21 Savage]
+    A[DJ Kool Herc] --> B[Grandmaster Flash]
+    A --> C[Afrika Bambaataa]
+    B --> D[Run-D.M.C.]
+    C --> E[Public Enemy]
+    D --> F[N.W.A]
+    F --> G[Dr. Dre]
+    G --> H[Snoop Dogg]
+    G --> I[2Pac]
+    G --> J[Eminem]
+    E --> K[Nas]
+    E --> L[Jay-Z]
+    J --> M[50 Cent]
+    M --> N[Kendrick Lamar]
+    K --> O[J. Cole]
+    L --> O
+    H --> P[Lil Wayne]
+    P --> Q[Drake]
+    P --> R[Nicki Minaj]
+    Q --> S[Future]
+    S --> T[Young Thug]
+    T --> U[Travis Scott]
+    Q --> V[Migos]
+    V --> W[Lil Baby]
+    W --> X[21 Savage]
 </div>
 
 The genealogy chart shows a "lineage" branching out from its origins in NYC to the West, South, and Midwest.
@@ -275,13 +275,13 @@ Jay-Z and Nas inherited the East Coast lineage, and Dr. Dre's lineage extends to
 <div class="mermaid">
 
 flowchart TB
-E["1980s<br/>East Coast<br/>Dominance"]
-W["1990s<br/>West Coast<br/>G-Funk Heyday"]
-S["2000s<br/>South<br/>Crunk / Trap Eve"]
-M["2010s<br/>Trap<br/>+ Midwest Drill Rise"]
-P["2020s<br/>Multipolar:<br/>East + West + South + Midwest"]
+        E["1980s<br/>East Coast<br/>Dominance"]
+        W["1990s<br/>West Coast<br/>G-Funk 全盛"]
+        S["2000s<br/>South<br/>Crunk / Trap 前夜"]
+        M["2010s<br/>Trap<br/>+ Midwest Drill 台頭"]
+        P["2020s<br/>多極化:<br/>East + West + South + Midwest"]
 
-E --> W --> S --> M --> P
+    E --> W --> S --> M --> P
 
 
 </div>
@@ -332,8 +332,8 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
-- Akai MPC60
-- Akai MPC3000
+-Akai MPC60
+-Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
 </td>
@@ -360,7 +360,7 @@ Bass: ▂▄▆█▇▆▄▂
 </tr>
 <tr>
 <td>
--Akai MPC2000XL
+- Akai MPC2000XL
 -Pro Tools
 - Korg Triton
 </td>

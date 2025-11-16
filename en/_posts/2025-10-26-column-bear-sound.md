@@ -58,9 +58,9 @@ Both species are nocturnal, but daytime activity can also be seen during the spr
 <div class="mermaid">
 
 graph TD
-A["Frequency Band"] --> B["Human Voice: 250–4000Hz"]
-A --> C["Warning tone: 1000–8000Hz"]
-A --> D["Natural sounds: low to high frequencies"]
+A["周波数帯域"] --> B["人間の声: 250–4000Hz"]
+A --> C["警戒音: 1000–8000Hz"]
+A --> D["自然界音: 低周波〜高周波"]
 
 
 </div>
@@ -112,10 +112,10 @@ Due to the decrease in snowfall and fluctuations in fruit growth in early spring
 <div class="mermaid">
 
 graph LR
-A[whistle] --> B[light evasion]
-C[Human Voice] --> D[Moderate Evasion]
-E[Firecracker] --> F[Strong Evasion]
-G[High frequency electronic sound] --> H[Experimental avoidance]
+A[笛] --> B[軽い回避]
+C[人間の声] --> D[中程度回避]
+E[爆竹] --> F[強い回避]
+G[高周波電子音] --> H[実験的回避]
 
 </div>
 
@@ -127,7 +127,7 @@ G[High frequency electronic sound] --> H[Experimental avoidance]
 
 - **Kyushu electronic sound trial (2019–2021)**: Short-term avoidance due to the use of high-frequency equipment, long-term habituation occurs
 
-- **Tohoku AI speaker demonstration (2020–2023)**: Pre-bear invasion warning success rate 65%
+- **Tohoku AI Speaker Demonstration (2020–2023)**: Success rate of bear intrusion warning 65%
 
 ---
 
@@ -155,7 +155,7 @@ Sound generation according to behavioral patterns using AI analysis. Cover a wid
 
 ### 6.2 International cases
 
-- **California, USA**: Intrusion prevention using electronic sounds and human voice
+- **California, USA**: Intrusion prevention using electronic sounds and human voices
 
 - **BC, Canada**: Non-lethal acoustic management reduces crop damage
 
@@ -184,12 +184,12 @@ The challenge for the future is to evolve it into an ""acoustic landscape design
 <div class="mermaid">
 
 timeline
-title Sound usage examples
-2002: Hokkaido farmers test whistles and firecrackers
-2010: Introduction of AI speaker test (Tohoku)
-2015 : High frequency electronic sound trial (Kyushu)
-2020: Drone acoustic patrol system introduced (Hokkaido)
-2025: Expand demonstration experiments in local governments nationwide
+    title サウンド活用事例
+    2002 : 北海道農家が笛・爆竹試験
+    2010 : AIスピーカー試験導入（東北）
+    2015 : 高周波電子音トライアル（九州）
+    2020 : ドローン音響巡回システム導入（北海道）
+    2025 : 全国自治体で実証実験拡大
 
 </div>
 
@@ -200,10 +200,10 @@ title Sound usage examples
 <div class="mermaid">
 
 flowchart TD
-A[Farmland/village monitoring] --> B[Sensor detection]
-B --> C [Acoustic warning transmission]
-C --> D [Bear escape behavior]
-D --> E [Damage reduction/safety assurance]
+A[農地・集落の監視] --> B[センサー検知]
+B --> C[音響警告発信]
+C --> D[クマ逃避行動]
+D --> E[被害軽減・安全確保]
 
 </div>
 

@@ -125,16 +125,16 @@ Salsoul"s vinyl records have become a club DJ"s holy book.
 <div class="mermaid">
 
 timeline
-title Philadelphia Sound and Salsoul's Genealogy
-1967 : Gamble & Huff establish Philadelphia International Records
-1971 : Formed MFSB and started activities with Sigma Sound
-1973 : "Love Is The Message" released
-1975 : Vincent Montana Jr. leaves and forms Salsoul Orchestra.
-1976: The golden age of disco begins with "Nice "n Naasty"
-1977 : "Runaway" becomes a club hit
-1980: "Love Break" released, sampling became standard
-1992 : Masters at Work remixes Salsoul Classics
-2010s: Re-evaluation and analog reissue boom
+    title フィラデルフィア・サウンドとSalsoulの系譜
+    1967 : Gamble & HuffがPhiladelphia International Records設立
+    1971 : MFSB結成、Sigma Soundで活動開始
+    1973 : 『Love Is The Message』リリース
+    1975 : Vincent Montana Jr.が脱退しSalsoul Orchestra結成
+    1976 : 『Nice ‘n Naasty』でディスコ黄金期へ
+    1977 : 「Runaway」がクラブ・ヒット
+    1980 : 「Love Break」発表、サンプリングの定番化
+    1992 : Masters at WorkがSalsoul Classicsをリミックス
+    2010s : 再評価とアナログ再発ブーム
 
 </div>
 

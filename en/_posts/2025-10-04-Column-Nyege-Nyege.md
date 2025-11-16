@@ -101,11 +101,11 @@ Shingeli is a fast beat dance music that originated in Dar es Salaam, Tanzania.
 <div class="mermaid">
 
 flowchart TD
-A["Early 2000s: Dar es Salaam slums"] --> B["Improvisational performance centered on female MCs"]
-B --> C["Spread by street party"]
-C --> D["Urban culture symbolization/gender equality expression"]
-D --> E["Nyege Nyege Tapes attract international attention"]
-E --> F["Performed at clubs and festivals around the world"]
+    A["2000年代初頭: ダルエスサラームのスラム"] --> B["女性MC中心の即興パフォーマンス"]
+    B --> C["ストリートパーティで拡散"]
+        C --> D["都市文化象徴化・ジェンダー平等表現"]
+    D --> E["Nyege Nyege Tapesで国際的注目"]
+    E --> F["世界のクラブ・フェスで演奏"]
 
 </div>
 
@@ -137,9 +137,9 @@ E --> F["Performed at clubs and festivals around the world"]
 <div class="mermaid">
 
 flowchart LR
-Music["Fast Beat + Rap"] --> Dance["Dance Performance"]
-Dance --> Community["Youth culture/solidarity formation"]
-Community --> Festivals["Nyege Nyege Festival etc."]
+    Music["高速ビート + ラップ"] --> Dance["ダンス・パフォーマンス"]
+    Dance --> Community["若者文化・連帯形成"]
+    Community --> Festivals["Nyege Nyege Festival等"]
 
 </div>
 
@@ -178,11 +178,11 @@ Akolitronics is a style that recreates Rarakaraka, the traditional music of the 
 <div class="mermaid">
 
 flowchart TD
-A["Tradition: Rarakaraka festival music"] --> B["Performed at village festivals and weddings"]
-B --> C["Electronic music fusion in urban areas"]
-C --> D["Featured in Nyege Nyege Tapes"]
-D --> E["Impromptu performance at clubs and festivals"]
-E --> F["International attention and collaboration"]
+    A["伝統: ララカラカの祭礼音楽"] --> B["村祭り・結婚式で演奏"]
+    B --> C["都市部で電子音楽融合"]
+    C --> D["Nyege Nyege Tapesで紹介"]
+    D --> E["クラブ・フェスで即興パフォーマンス"]
+    E --> F["国際的注目とコラボレーション"]
 
 </div>
 
@@ -210,9 +210,9 @@ E --> F["International attention and collaboration"]
 <div class="mermaid">
 
 flowchart LR
-Music["Larakaraka + Electronic Music"] --> Dance["Improvisational Dance"]
-Dance --> Community["Culture/Community Formation"]
-Community --> Festivals["Nyege Nyege Festival etc."]
+    Music["ララカラカ + 電子音楽"] --> Dance["即興ダンス"]
+    Dance --> Community["文化・コミュニティ形成"]
+    Community --> Festivals["Nyege Nyege Festival等"]
 
 </div>
 
@@ -249,11 +249,11 @@ Electro Maloya is an experimental style that recreates the traditional music of 
 <div class="mermaid">
 
 flowchart TD
-A["Tradition: Maloya Music"] --> B["Expressions of life and labor through slave and immigrant culture"]
-B --> C["20th century: Tradition under restrictions"]
-C --> D["2000s: Electronic music fusion begins"]
-D --> E["Performed at clubs and festivals and received international attention"]
-E --> F["Contemporary: Spreading across the global electronic music community"]
+    A["伝統: マロヤ音楽"] --> B["奴隷・移民文化による生活・労働表現"]
+    B --> C["20世紀: 制限下で伝承"]
+    C --> D["2000年代: 電子音楽融合開始"]
+    D --> E["クラブ・フェスで演奏・国際的注目"]
+    E --> F["現代: グローバル電子音楽コミュニティに拡散"]
 
 </div>
 
@@ -284,9 +284,9 @@ These styles play an important role in how Nyege Nyege Tapes reinterprets Africa
 <div class="mermaid">
 
 flowchart LR
-Music["Maloya + Electronic Music"] --> Dance["Improvisational Dance"]
-Dance --> Community["Culture/Community Formation"]
-Community --> Festivals["Expression at clubs and festivals"]
+    Music["マロヤ + 電子音楽"] --> Dance["即興ダンス"]
+    Dance --> Community["文化・コミュニティ形成"]
+    Community --> Festivals["クラブ・フェスでの表現"]
 </div>
 
 ---

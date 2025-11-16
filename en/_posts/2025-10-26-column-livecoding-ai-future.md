@@ -79,7 +79,7 @@ This fusion points to a future where AI becomes a co-star in Live Coding.
 
 Human Live Coders **enjoy errors and chance**.
 Unexpected sounds and misunderstandings drive the music.
-In contrast, AI improvisation is **"reconstruction" based on past data**,
+On the other hand, AI improvisation is **"reconstruction" based on past data**,
 Essentially it remains within the bounds of probability.
 
 However, this difference is also the source of creativity.
@@ -154,13 +154,13 @@ No longer need a mouse or MIDI.
 <div class="mermaid">
 
 timeline
-title Evolution of Live Coding and AI Music (2000–2025)
-2000: TOPLAP is formed and Live Coding culture is born
-2004 : Initial version of TidalCycles released
-2016 : Deep Learning music generation model (Magenta, OpenAI MuseNet)
-2020 : Riffusion starts AI spectrogram generation
-2023: AI x Live Coding co-star events expand in Europe
-2025: GPT-based real-time Live Coding environment introduced
+    title Live CodingとAIミュージックの進化（2000–2025）
+    2000 : TOPLAP結成、Live Coding文化が誕生
+    2004 : TidalCycles初期版登場
+    2016 : Deep Learning音楽生成モデル（Magenta, OpenAI MuseNet）
+    2020 : RiffusionがAIスペクトログラム生成を開始
+    2023 : AI × Live Coding共演イベントが欧州で拡大
+    2025 : GPTベースのリアルタイムLive Coding環境登場
 
 
 
@@ -174,12 +174,12 @@ title Evolution of Live Coding and AI Music (2000–2025)
 <div class="mermaid">
 
 flowchart TD
-A["Human (Live Coder)"] -->|Code input/improvisation| B["Live Coding environment (Tidal, SuperCollider)"]
-B -->|Output of generated sound| C["AI analysis module (tempo/structure analysis)"]
-C -->|Prediction/Proposal| D["AI generator (Riffusion, GPT system)"]
-D -->|Material generation| B
-B -->|Sound output| E["Audience (reaction data)"]
-E -->|Emotion analysis| C
+    A["人間（Live Coder）"] -->|コード入力・即興| B["Live Coding環境（Tidal, SuperCollider）"]
+    B -->|生成音の出力| C["AI解析モジュール（テンポ・構造分析）"]
+    C -->|予測・提案| D["AI生成器（Riffusion, GPT系）"]
+    D -->|素材生成| B
+    B -->|音響出力| E["観客（リアクションデータ）"]
+    E -->|感情解析| C
 
 
 </div>

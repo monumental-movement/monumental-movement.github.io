@@ -9,8 +9,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Column] The affinity between anime and jazz/fusion: A story of city nights
-  and music'
+title: '[Column] Affinity between anime and jazz/fusion: A story of city nights and
+  music'
 ---
 
 
@@ -75,14 +75,14 @@ Quiet psychological depiction and lingering sound → The faint sounds of cool j
 <div class="mermaid">
 
 flowchart TD
-A1970["1970s: Lupine the Third" Yuji Ohno's Jazz Sound"]
-A198["1980s: City pop elements + jazz fusion permeate the soundtrack"]
-A199["1990s: "Cowboy Bebop" Yoko Kanno & The Seatbelts"]
-A200["2000s: "Nodame Cantabile" Classical + Jazz Arrangement"]
-A201["2010s: Storytelling of jazz through the depiction of the "Apollo on the Slope""]
-A202["2020s: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington and others)"]
+    A1970["1970年代: 「ルパン三世」大野雄二のジャズ・サウンド"]
+    A198["1980年代: シティポップ的要素＋ジャズ・フュージョンが劇伴に浸透"]
+    A199["1990年代: 「カウボーイビバップ」菅野よう子＆The Seatbelts"]
+    A200["2000年代: 「のだめカンタービレ」クラシック＋ジャズ的アレンジ"]
+    A201["2010年代: 「坂道のアポロン」セッション描写でジャズを物語化"]
+    A202["2020年代: 「LAZARUS ラザロ」（MAPPA × 渡辺信一郎 × Kamasi Washingtonほか）"]
 
-A1970 --> A198 --> A199 --> A200 --> A201 --> A202
+    A1970 --> A198 --> A199 --> A200 --> A201 --> A202
 
 
 </div>

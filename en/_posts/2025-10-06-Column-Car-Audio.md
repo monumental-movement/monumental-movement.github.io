@@ -258,7 +258,7 @@ Cars used to be "machines for transportation". However, now it is a ""space that
 Germany has imbued sound with precision engineering, Britain with tradition and formality, America with freedom and power, and Japan with delicate harmony.
 Car audio in each country is also a crystallization of that society's aesthetic sense and industrial philosophy.
 
-Rolls-Royce's ""silent stage'' is the ultimate in silence.
+Rolls-Royce's "silent stage" is the ultimate in silence.
 Tesla's DSP control connects electrical signals and emotions.
 And Mark Levinson of Lexus plays with materials and space as "instruments."
 These are not just speaker systems, but ""architectures of sound'' where humans and machines, engineering, and sensibilities intersect.

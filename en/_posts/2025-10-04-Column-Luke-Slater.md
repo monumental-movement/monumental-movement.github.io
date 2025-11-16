@@ -49,12 +49,12 @@ In the 90s, they released ambient to minimal works with Warp and NovaMute, and s
 <div class="mermaid">
 
 flowchart TD
-A["Luke Slater"] --> B["Planetary Assault Systems"]
-A --> C["The 7th Plain"]
-A --> D["LSD (w/ Steve Bicknell & Function)"]
-B --> E["Hard Techno / Ostgut Ton"]
-C --> F["Ambient Techno/Warp"]
-D --> G["Experimental Collaboration"]
+    A["Luke Slater"] --> B["Planetary Assault Systems"]
+    A --> C["The 7th Plain"]
+    A --> D["LSD (w/ Steve Bicknell & Function)"]
+    B --> E["Hard Techno / Ostgut Ton"]
+    C --> F["Ambient Techno / Warp"]
+    D --> G["Experimental Collaboration"]
 
 
 </div>
@@ -202,7 +202,7 @@ Under his solo name, he is known for a wide range of works spanning techno, elec
 
 **Position**
 
-Slater is acclaimed as a flexible creator who crosses scenes, combining the hardness of techno with a pop sensibility.
+Slater is acclaimed as a flexible creator who traverses the scene, balancing the hardness of techno with a pop sensibility.
 It laid the foundation for later aliases such as Planetary Assault Systems and The 7th Plain.
 
 ---

@@ -150,13 +150,13 @@ Music is an art form of memory itself.
 <div class="mermaid">
 
 timeline
-title Major timeline of music and memory (1900–2020)
-1900: Edison's phonograph spread, beginning recording culture
-1950: Golden age of radio, musical memory established at home
-1979: Sony Walkman released, changing the relationship between individuals and music
-1999: Napster appears and digital music sharing begins
-2010: Spotify streaming spread, cloud storage of memories
-2020: Playlist recommendation using AI becomes commonplace, memory becomes algorithmic
+    title 音楽と記憶の主要年表（1900–2020）
+    1900 : エジソンの蓄音機が普及、録音文化の幕開け
+    1950 : ラジオ黄金期、家庭での音楽記憶が定着
+    1979 : Sony Walkman発売、個人と音楽の関係が変化
+    1999 : Napster登場、デジタル音楽共有が始まる
+    2010 : Spotifyのストリーミング普及、記憶のクラウド化
+    2020 : AIによるプレイリスト推薦が一般化、記憶のアルゴリズム化
 
 </div>
 
@@ -167,14 +167,14 @@ title Major timeline of music and memory (1900–2020)
 <div class="mermaid">
 
 flowchart TD
-A[sound stimulation] --> B[auditory cortex]
-B --> C [hippocampus (memory formation)]
-B --> D [Amygdala (emotion)]
-C --> E[Episode memory]
-D --> F[Emotional reaction]
-E --> G [Re-experiencing the past through music]
-F --> G
-G --> H[Generation of nostalgia]
+    A[音刺激] --> B[聴覚皮質]
+    B --> C[海馬（記憶形成）]
+    B --> D[扁桃体（感情）]
+    C --> E[エピソード記憶]
+    D --> F[感情反応]
+    E --> G[音楽による過去の再体験]
+    F --> G
+    G --> H[ノスタルジアの生成]
 
 </div>
 

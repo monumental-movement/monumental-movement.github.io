@@ -153,16 +153,16 @@ This trend is not just a "music genre";
 <div class="mermaid">
 
 timeline
-title Chronology of Cosmic Sound and Daniele Baldelli (1977–2025)
-1977 : Baldelli starts DJing (Baia degli Angeli)
-1979 : Opening of Discoteca Cosmic (Lake Garda)
-1980: Established Cosmic Sound style and started using Revox
-1984 : Cosmic closed, became a legend
-1990 : "Cosmic: The Original" mixtape reevaluated
-2000 : Rediscovered by Nu-Disco generation
-2013 : "Cosmic Disco? Cosmic Rock!" compilation released
-2020 : Baldelli, 45th anniversary tour as DJ
-2025: Cosmic Sound research established as a field of club culture history
+    title Cosmic SoundとDaniele Baldelliの年表（1977–2025）
+    1977 : Baldelli、DJ活動を開始（Baia degli Angeli）
+    1979 : Discoteca Cosmicオープン（ガルダ湖畔）
+    1980 : Cosmic Soundスタイル確立、Revox使用開始
+    1984 : Cosmic閉店、伝説化
+    1990 : "Cosmic: The Original"ミックステープが再評価
+    2000 : Nu-Disco世代により再発見
+    2013 : 『Cosmic Disco? Cosmic Rock!』コンピ発売
+    2020 : Baldelli、DJ活動45周年記念ツアー
+    2025 : Cosmic Sound研究がクラブカルチャー史の一分野として確立
 
 </div>
 
@@ -174,10 +174,10 @@ title Chronology of Cosmic Sound and Daniele Baldelli (1977–2025)
 <div class="mermaid">
 
 flowchart TD
-A["Afro/ethnic rhythm (body)"] --> C["Speed ​​conversion (BPM operation)"]
-B["Electronic sound/krautrock (intelligence)"] --> C
-C --> D["Reconstruction of acoustic space (reverb/echo)"]
-D --> E["Cosmic Sound (fusion of body and intellect)"]
+    A["アフロ／民族リズム（身体）"] --> C["速度変換（BPM操作）"]
+    B["電子音・クラウトロック（知性）"] --> C
+    C --> D["音響空間の再構築（リヴァーブ／エコー）"]
+    D --> E["Cosmic Sound（身体と知性の融合）"]
 
 </div>
 

@@ -100,7 +100,7 @@ He gave reggae a mythical and cosmic dimension.
 > I just listen to the voice and mix it. "
 > ― Lee "Scratch" Perry
 
-His masterpiece, **The Upsetters ""Super Ape'' (1976)**, is
+His masterpiece, **The Upsetters "Super Ape" (1976)**, is
 It's a "sound jungle" where the gravity of bass and the fog of reverb intertwine.
 The Black Ark was destroyed in a fire in 1979.
 The legend spread to all parts of the world, including the UK.
@@ -160,32 +160,32 @@ It is the basis of creative acts in the 21st century.
 <div class="mermaid">
 
 timeline
-title History of the evolution of dub music
-1968 : King Tubby, initial version mix started
-1973 : Lee Perry establishes Black Ark Studio
-1976: "Super Ape" released, the pinnacle of artistic dub
-1979 : Tubby disciple Scientist rises
-1981 : Established On-U Sound in the UK, fused with post-punk
-1985 : Mad Professor "Dub Me Crazy" series begins
-1993: Basic Channel, establishment of dub techno
-2000s: Transformation into Digital Dub and Dubstep
-2010s: Burial, Kode9 and others explore the post-dub space
-2020s: Dub reconstruction using AI, entering the era of generative sound
+  title ダブ音楽の進化史
+  1968 : King Tubby、初期Versionミックス開始
+  1973 : Lee Perry、Black Ark Studio設立
+  1976 : 『Super Ape』発表、アート的ダブの頂点
+  1979 : Tubby弟子Scientistが台頭
+  1981 : UKでOn-U Sound設立、ポストパンクと融合
+  1985 : Mad Professor『Dub Me Crazy』シリーズ開始
+  1993 : Basic Channel、ダブ・テクノの確立
+  2000s : Digital Dub、Dubstepへの変容
+  2010s : Burial、Kode9らがポスト・ダブ空間を探求
+  2020s : AIによるダブ再構築、生成音響時代へ
 
 </div>
 
 ---
 
-## Diagram: Structure of Dub-like thinking
+## Diagram: Structure of Dove thinking
 
 <div class="mermaid">
 
 graph TD
-A[Pre-recorded songs] -->|Disassembly| B[Rhythm and bass]
-B -->|Relocation| C[Echo/Reverb processing]
-C -->|Improvisational operation| D[Live mix]
-D -->|Regeneration| E[New sound space]
-E -->|Ideological influence| F[Techno/Hip-hop/Ambient]
+  A[録音済み楽曲] -->|分解| B[リズムとベース]
+  B -->|再配置| C[エコー／リバーブ処理]
+  C -->|即興操作| D[ライブ・ミックス]
+  D -->|再生成| E[新しい音空間]
+  E -->|思想的影響| F[テクノ／ヒップホップ／アンビエント]
 
 </div>
 

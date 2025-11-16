@@ -85,13 +85,13 @@ Leftfield has a double meaning:
 
 <div class="mermaid">
 flowchart TD
-A["House / Techno"] --> B["Leftfield"]
-A --> C["Trance"]
-B --> D["Trip Hop"]
-B --> E["IDM / Electronica"]
-D --> F["Massive Attack"]
-E --> G["Four Tet"]
-B --> H["Underworld"]
+    A["House / Techno"] --> B["Leftfield"]
+    A --> C["Trance"]
+    B --> D["Trip Hop"]
+    B --> E["IDM / Electronica"]
+    D --> F["Massive Attack"]
+    E --> G["Four Tet"]
+    B --> H["Underworld"]
 </div>
 
 ---

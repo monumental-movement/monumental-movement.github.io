@@ -116,15 +116,15 @@ In other words, Red Lark's ""visual musicality" anticipated the later ""musical 
 <div class="mermaid">
 
 timeline
-title Chronology of Japan"s 70"s Disco and Red Lark
-1970: Club "MUGEN" is established in Akasaka, Tokyo
-1972: Red Lark is released and becomes popular among young people.
-1973: The movie "Saturday Night Fever" became a hot topic in Japan.
-1975: Prototype disco "Maharaja" opens in Roppongi
-1977 : Pink Lady "UFO" hit
-1978: DJ culture is incorporated into Red Lark advertisements
-1979: Shibuya "Navana" opened, laser lighting introduced
-1980: Disco culture inherited by city pop
+    title 日本の70年代Discoと赤ラークの年表
+    1970 : 東京・赤坂にクラブ「MUGEN」誕生
+    1972 : 赤ラーク発売、若者層で人気に
+    1973 : 映画『サタデー・ナイト・フィーバー』が日本でも話題に
+    1975 : 六本木にディスコ「マハラジャ」原型オープン
+    1977 : ピンク・レディー「UFO」ヒット
+    1978 : 赤ラーク広告にDJ文化が取り込まれる
+    1979 : 渋谷「ナバーナ」開店、レーザー照明導入
+    1980 : ディスコ文化がシティポップへと継承
 
 </div>
 

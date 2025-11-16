@@ -90,7 +90,7 @@ In the 21st century, young Brazilian bands have once again regained their "tropi
 
 ## Chapter 5: Live Review — Tropical Trance Experience
 
-The Boogarins' show at Cine Joia in São Paulo in 2018 was the moment when the ghost of Tropicália was brought back to life.
+Boogarins" 2018 show at São Paulo"s Cine Joia was the moment when the ghost of Tropicália was brought back to life.
 Behind the stage are moving images of tropical plants, lighting that gives you a sense of humidity, and an endless guitar drone. Rather than dancing, the audience **"floated"**, immersed in the sound.
 
 The encore performance of "Lucifernandis" created a chaotic sound that sounded like the second coming of Os Mutantes, and the audience's cheers shook the air.
@@ -103,15 +103,15 @@ The sound staff used analog tape echoes to transform the entire hall into a sea 
 <div class="mermaid">
 
 flowchart TD
-A1967["1967: The start of the Tropicália movement"]
-A1968a["1968: Release of the album Tropicália: ou Panis et Circencis"]
-A1968b["1968: Os Mutantes Debut"]
-A1969["1969: Veloso and Gilles in exile in London"]
-A1972["1972: "Expresso 2222" announced"]
-A2006["2006: Os Mutantes Reunion"]
-A2015["2015: Boogarins 'Manual...' Global acclaim"]
+    A1967["1967：Tropicália運動の始動"]
+    A1968a["1968：アルバム『Tropicália: ou Panis et Circencis』発表"]
+    A1968b["1968：Os Mutantes デビュー"]
+    A1969["1969：ヴェローゾとジル、ロンドン亡命"]
+    A1972["1972：『Expresso 2222』発表"]
+    A2006["2006：Os Mutantes再結成"]
+    A2015["2015：Boogarins 『Manual...』世界的評価"]
 
-A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
+    A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
 
 </div>
 

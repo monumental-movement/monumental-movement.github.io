@@ -78,7 +78,7 @@ King Tubby, Lee Perry, Errol Thompson and others used the mixing table like a mu
 
 ### ▪ Speaker bass philosophy
 
-The "bass" of the sound system had a religious sound.
+The "bass" of the sound system had a religious overtone.
 Connected with the Rastafarian spirit, they express their view of the universe as ""low tone = earth" and ""treble tone = heaven".
 This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soundclash culture**.
 
@@ -186,7 +186,7 @@ B --> C["Reggae / Dub\n(1970s)"]
 C --> D["Dancehall\n(1980s)"]
 D --> E["Global Dancehall\n(2000s)"]
 E --> F["Reggaeton / Afrobeats\n(2010s〜)"]
-D --> G["Japanese Sound System culture\n(1990s~)"]
+D --> G["日本のSound System文化\n(1990s〜)"]
 
 </div>
 
@@ -215,41 +215,41 @@ Music is a ""body memory'' that is shared across borders.
 <div class="mermaid">
 
 graph TD
-A["Japanese Sound System culture<br/>(1990s~)"] --> B["Kanto area"]
-A --> C["Kansai area"]
-A --> D["Chubu/Tokai area"]
-A --> E["Kyushu/Okinawa area"]
-A --> F["Hokkaido/Tohoku area"]
+    A["日本のSound System文化<br/>(1990s〜)"] --> B["関東エリア"]
+    A --> C["関西エリア"]
+    A --> D["中部・東海エリア"]
+    A --> E["九州・沖縄エリア"]
+    A --> F["北海道・東北エリア"]
 
-%% Kanto
-B --> B1["Mighty Crown<br/>(Yokohama, 1991~)"]
-B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
-B --> B3["Rub-A-Dub Market / Bass Camp"]
-B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
+    %% 関東
+    B --> B1["Mighty Crown<br/>(Yokohama, 1991〜)"]
+    B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
+    B --> B3["Rub-A-Dub Market / Bass Camp"]
+    B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
 
-%% Kansai
-C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
-C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
-C --> C3["Rudeboy Face / Ninja Man Japan"]
+    %% 関西
+    C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
+    C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
+    C --> C3["Rudeboy Face / Ninja Man Japan"]
 
-%% Chubu/Tokai
-D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
-D --> D2["Scorpion Int'l / Nagoya King Bass"]
+    %% 中部・東海
+    D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
+    D --> D2["Scorpion Int’l / Nagoya King Bass"]
 
-%% Kyushu/Okinawa
-E --> E1["Mura Masa System<br/>(Okinawa, 2000s~)"]
-E --> E2["King Ryukyu / Tropixx"]
+    %% 九州・沖縄
+    E --> E1["Mura Masa System<br/>(Okinawa, 2000s〜)"]
+    E --> E2["King Ryukyu / Tropixx"]
 
-%% Hokkaido/Tohoku
-F --> F1["North Island Sound<br/>(Sapporo)"]
-F --> F2["Sendai Sound Bash / Local Link"]
+    %% 北海道・東北
+    F --> F1["North Island Sound<br/>(Sapporo)"]
+    F --> F2["Sendai Sound Bash / Local Link"]
 
-style A fill:#ffccff,stroke:#333,stroke-width:2px
-style B fill:#ffe6b3
-style C fill:#ffd9b3
-style D fill:#c2f0c2
-style E fill:#b3e0ff
-style F fill:#e0ccff
+    style A fill:#ffccff,stroke:#333,stroke-width:2px
+    style B fill:#ffe6b3
+    style C fill:#ffd9b3
+    style D fill:#c2f0c2
+    style E fill:#b3e0ff
+    style F fill:#e0ccff
 
 
 </div>
@@ -265,21 +265,21 @@ The following characteristics are clear: ""Yokohama = internationally competitiv
 <div class="mermaid">
 
 graph LR
-A["1950s<br/>Handmade speaker box<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
-B --> C["1970s<br/>4-Way Stack System"]
-C --> D["1980s<br/>Digital Mixer + Preamp"]
-D --> E["1990s<br/>Processor + Active Amp"]
-E --> F["2000s<br/>PC-based Crossover / Soundcard Setup"]
-F --> G["2020s<br/>DIY DSP + Class-D Power"]
+    A["1950s<br/>手作りスピーカー箱<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
+    B --> C["1970s<br/>4-Way Stack System"]
+    C --> D["1980s<br/>Digital Mixer + Preamp"]
+    D --> E["1990s<br/>Processor + Active Amp"]
+    E --> F["2000s<br/>PC-based Crossover / Soundcard Setup"]
+    F --> G["2020s<br/>DIY DSP + Class-D Power"]
 
-A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
-B --> AB["King Tubby<br/>Homemade Amp Technology"]
-C --> AC["Channel One Sound System<br/>4-Way Revolution"]
-D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
-F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]
+    A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
+    B --> AB["King Tubby<br/>自作Amp技術"]
+    C --> AC["Channel One Sound System<br/>4-Way Revolution"]
+    D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
+    F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]
 
-style A fill:#ffcc00,stroke:#333,stroke-width:2px
-style G fill:#a3f0a3,stroke:#333,stroke-width:2px
+    style A fill:#ffcc00,stroke:#333,stroke-width:2px
+    style G fill:#a3f0a3,stroke:#333,stroke-width:2px
 
 </div>
 
@@ -296,26 +296,26 @@ From analog vacuum tubes to DSP control, the spirit of ""creating your own sound
 <div class="mermaid">
 
 graph TD
-A["Sound System Culture<br/>(Jamaica 1940s~)"] --> B["Dub / Reggae<br/>(1970s)"]
-B --> C["Dancehall<br/>(1980s)"]
-B --> D["Hip-Hop<br/>(NY 1970s~)"]
-C --> E["Reggaeton<br/>(Puerto Rico 1990s〜)"]
-C --> F["Afrobeats<br/>(Nigeria 2000s~)"]
-B --> G["Dub Techno / Ambient<br/>(Berlin 1990s~)"]
-F --> H["K-POP Dancehall Hybrid<br/>(2020s)"]
-C --> I["Japanese Reggae Scene<br/>(1990s~)"]
-G --> J["Electronic Festivals / Sound Art<br/>(Europe / Japan 2000s〜)"]
+    A["Sound System Culture<br/>(Jamaica 1940s〜)"] --> B["Dub / Reggae<br/>(1970s)"]
+    B --> C["Dancehall<br/>(1980s)"]
+    B --> D["Hip-Hop<br/>(NY 1970s〜)"]
+    C --> E["Reggaeton<br/>(Puerto Rico 1990s〜)"]
+    C --> F["Afrobeats<br/>(Nigeria 2000s〜)"]
+    B --> G["Dub Techno / Ambient<br/>(Berlin 1990s〜)"]
+    F --> H["K-POP Dancehall Hybrid<br/>(2020s)"]
+    C --> I["Japanese Reggae Scene<br/>(1990s〜)"]
+    G --> J["Electronic Festivals / Sound Art<br/>(Europe / Japan 2000s〜)"]
 
-D --> C
-E --> F
-I --> J
-G --> I
+    D --> C
+    E --> F
+    I --> J
+    G --> I
 
-style A fill:#ffd966,stroke:#333,stroke-width:2px
-style C fill:#ffccff,stroke:#333,stroke-width:2px
-style I fill:#f6baff,stroke:#333,stroke-width:2px
-style G fill:#ccf2ff,stroke:#333,stroke-width:1.5px
-style F fill:#d9f2c2,stroke:#333,stroke-width:1.5px
+    style A fill:#ffd966,stroke:#333,stroke-width:2px
+    style C fill:#ffccff,stroke:#333,stroke-width:2px
+    style I fill:#f6baff,stroke:#333,stroke-width:2px
+    style G fill:#ccf2ff,stroke:#333,stroke-width:1.5px
+    style F fill:#d9f2c2,stroke:#333,stroke-width:1.5px
 
 
 </div>

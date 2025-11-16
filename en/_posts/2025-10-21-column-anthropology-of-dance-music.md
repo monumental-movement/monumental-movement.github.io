@@ -68,14 +68,14 @@ It was a device that melted the "self" in a rhythmic flow that transcended the i
 <div class="mermaid">
 
 timeline
-title Chronology of the evolution of dance and music
-50000BC: Appearance of percussion instruments and dance in hunting rituals
-10000BC: Agricultural rituals and drum rhythms
-1600: Baroque dance music (formalized for the court)
-1900: Birth of jazz and ballroom dancing
-1970: Disco and psychedelic culture
-1989: The fall of the Berlin Wall and rave culture
-2020: AI rhythm generation and the emergence of online clubs
+    title ダンスと音楽の進化年表
+    50000BC : 狩猟儀式における打楽器と踊りの出現
+    10000BC : 農耕祭祀と太鼓のリズム
+    1600 : バロック舞踏音楽（宮廷の形式化）
+    1900 : ジャズと社交ダンスの誕生
+    1970 : ディスコとサイケデリック・カルチャー
+    1989 : ベルリンの壁崩壊とレイヴ・カルチャー
+    2020 : AIリズム生成とオンライン・クラブの出現
 
 </div>
 
@@ -137,14 +137,14 @@ The body may not be a substance, but a network of resonance.
 <div class="mermaid">
 
 flowchart TB
-subgraph Relationship diagram between the human body and beats
-A[External sound stimulation] --> B[Auditory processing by the ear]
-B --> C [Brain rhythm perception]
-C --> D [activation of motor cortex]
-D --> E[Body movement (dancing)]
-E --> F [Social Resonance/Community Sense]
-F --> C
-end
+    subgraph 人間の身体とビートの関係図
+        A[外界の音刺激] --> B[耳による聴覚処理]
+        B --> C[脳内リズム知覚]
+        C --> D[運動野の活性化]
+        D --> E[身体の動作（踊る）]
+        E --> F[社会的共振・共同体意識]
+        F --> C
+    end
 </div>
 
 ---

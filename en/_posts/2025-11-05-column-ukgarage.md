@@ -179,7 +179,7 @@ The history of UK garage is a cycle of urban music itself.
 <div class="mermaid">
 
 graph TD
-A[US Garage House] --> B[Speed ​​Garage]
+A[US Garage House] --> B[Speed Garage]
 B --> C[2-Step Garage]
 C --> D[Grime]
 C --> E[Dubstep]

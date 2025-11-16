@@ -50,7 +50,7 @@ color: #fff;
 ### Cassette MTR opens the door to personal production
 
 In the 1980s, the **cassette MTR (multi-track recorder)** released by companies such as TASCAM and Fostex laid the origin of home recording culture.
-The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency.''
+The fact that even lo-fi sound quality can be overdubbed at home has given amateur musicians the possibility of ""self-sufficiency''.
 The seeds of this development had already begun when Ryuichi Sakamoto was making demos in his home studio and home-recording artists were distributing their sound sources along with zines.
 
 ### Computer and MIDI revolution
@@ -137,12 +137,12 @@ As comment culture and derivative works intertwine in multiple layers, the bedro
 <div class="mermaid">
 
 flowchart TD
-A["Bedroom (personal space)"] --> B["DAW (production/editing)"]
-B --> C["SNS / SoundCloud / YouTube (announcement)"]
-C --> D["Listener (listeners around the world)"]
-D --> E["Feedback (comment/share)"]
-E --> A["Reproduction (Update Remix)"]
-classDef default fill:#fff8d1,stroke:#555,color:#333;
+    A["Bedroom（個人空間）"] --> B["DAW（制作・編集）"]
+    B --> C["SNS / SoundCloud / YouTube（発表）"]
+    C --> D["Listener（世界中のリスナー）"]
+    D --> E["フィードバック（コメント・シェア）"]
+    E --> A["再制作（アップデート・リミックス）"]
+    classDef default fill:#fff8d1,stroke:#555,color:#333;
 
 
 </div>
@@ -154,15 +154,15 @@ classDef default fill:#fff8d1,stroke:#555,color:#333;
 <div class="mermaid">
 
 timeline
-title Evolution of bedroom production (1970–2025)
-1970: Home recording culture emerges with the lo-fi movement
-1983: MIDI standard is born and the concept of DTM is established.
-1995: Cubase/Logic becomes popular among general users
-2005: YouTube debuts, merging video and music at home
-2007: SoundCloud and Hatsune Miku appear, and personal productions spread around the world
-2013: Porter Robinson's "Worlds" mainstreams bedroom aesthetics
-2020: Home recording production becomes standard due to the coronavirus pandemic
-2025: Toward an era of "new personal music" that combines AI, modular, and internet collaboration
+    title ベッドルーム制作の進化（1970–2025）
+    1970 : 自宅録音文化がローファイ運動とともに萌芽
+    1983 : MIDI規格誕生、DTMの概念が確立
+    1995 : Cubase / Logic が一般ユーザーに普及
+    2005 : YouTube登場、映像と音楽が自宅で融合
+    2007 : SoundCloudと初音ミクの登場、個人制作が世界に拡散
+    2013 : Porter Robinson『Worlds』、ベッドルーム美学のメインストリーム化
+    2020 : コロナ禍により宅録制作が標準化
+    2025 : AI・モジュラー・ネット共同制作が融合した“新しい個人音楽”の時代へ
 
 </div>
 
@@ -180,4 +180,4 @@ And those hands are no longer connected through the mouse or MIDI keyboard.
 Directly connected to the entire world.
 
 >"From my room to your world."
->- That may be the most honest picture of music in the 21st century.
+>- That may be the most honest picture of 21st century music.

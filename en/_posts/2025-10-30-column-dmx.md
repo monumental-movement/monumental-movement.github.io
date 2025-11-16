@@ -98,12 +98,12 @@ DMX quickly reached number one in the US, and went on to set an unprecedented re
 <div class="mermaid">
 
 timeline
-title DMX Major works and historical background
-1998 : "It's Dark and Hell Is Hot" released / No. 1 in the US with debut work
-1998 : "Flesh of My Flesh, Blood of My Blood" / No. 1 again after just 7 months
-1999 : "And Then There Was X" / 'Party Up' becomes a club anthem
-2001 : "The Great Depression" / Introspective tone and religiosity strengthened
-2003 : "Grand Champ" / The pinnacle of success and mental collapse
+    title DMX 主要作品と時代背景
+    1998 : "It's Dark and Hell Is Hot" 発売 / デビュー作で全米1位
+    1998 : "Flesh of My Flesh, Blood of My Blood" / わずか7ヶ月後に再び1位
+    1999 : "And Then There Was X" / 'Party Up' がクラブアンセム化
+    2001 : "The Great Depression" / 内省的トーンと宗教性が強化
+    2003 : "Grand Champ" / 成功の頂点と精神的崩壊
 
 </div>
 
@@ -201,18 +201,18 @@ But his spirit still screams **"Arf! Arf!"** in the pre-dawn speakers.
 <div class="mermaid">
 
 timeline
-title DMX Chronology (1970–2021)
-1970: Born in Yonkers, New York
-1984: Escaping from domestic violence and living on the streets
-1991: Met Ruff Ryders and started rapping seriously
-1998: Major debut with "It's Dark and Hell Is Hot", No. 1 in the US
-1999: "And Then There Was X" released, "Party Up" a hit
-2001: Publication of autobiographical work "The Great Depression"
-2003: "Grand Champ" achieves consecutive number one spot on Billboard
-2006: Autobiography "E.A.R.L." published
-2010: Re-arrested, sentenced to prison, and rehabilitated repeatedly
-2019 : Resumed touring activities again
-2021: Died of heart attack (age 50)
+    title DMX 年表（1970–2021）
+    1970 : ニューヨーク州ヨンカーズに生まれる
+    1984 : 家庭内暴力から逃亡、ストリート生活へ
+    1991 : Ruff Rydersに出会い、本格的にラップを始める
+    1998 : 『It's Dark and Hell Is Hot』でメジャーデビュー、全米1位
+    1999 : 『And Then There Was X』リリース、「Party Up」がヒット
+    2001 : 自伝的作品『The Great Depression』発表
+    2003 : 『Grand Champ』、Billboard連続1位記録達成
+    2006 : 自伝『E.A.R.L.』出版
+    2010 : 再逮捕・服役とリハビリを繰り返す
+    2019 : 再びツアー活動を再開
+    2021 : 心臓発作により死去（享年50）
 
 </div>
 
@@ -236,11 +236,11 @@ title DMX Chronology (1970–2021)
 <div class="mermaid">
 
 graph LR
-A[Swizz Beatz's beat] --> B(aggressive drums)
-B --> C [DMX's roaring vocals]
-C --> D{Apex of emotion}
-D -->|Explosion| E["Break like "Arf! Arf!""]
-D -->|Silence| F[Prayer Monologue]
+A[Swizz Beatzのビート] --> B(攻撃的ドラム)
+B --> C[DMXの咆哮的ボーカル]
+C --> D{感情の頂点}
+D -->|爆発| E["“Arf! Arf!”などのブレイク"]
+D -->|静寂| F[祈りの独白]
 
 </div>
 

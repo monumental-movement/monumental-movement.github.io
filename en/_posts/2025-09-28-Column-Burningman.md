@@ -121,36 +121,36 @@ Below, themes from 1995 to recent years are listed in chronological order.
 
 <div class="mermaid">
 flowchart TD
-A1995["1995 : Inferno"] --> A1996["1996 : Decommodification"]
-A1996 --> A1997["1997 : Fertility"]
-A1997 --> A1998["1998 : Nebulous Entity"]
-A1998 --> A1999["1999 : The Wheel of Time"]
-A1999 --> A2000["2000 : The Body"]
-A2000 --> A2001["2001 : Seven Ages"]
-A2001 --> A2002["2002 : The Floating World"]
-A2002 --> A2003["2003 : Beyond Belief"]
-A2003 --> A2004["2004 : The Vault of Heaven"]
-A2004 --> A2005["2005 : Psyche"]
-A2005 --> A2006["2006 : Hope & Fear"]
-A2006 --> A2007["2007 : The Green Man"]
-A2007 --> A2008["2008 : American Dream"]
-A2008 --> A2009["2009 : Evolution – A Tangled Bank"]
-A2009 --> A2010["2010 : Metropolis – The Life of Cities"]
-A2010 --> A2011["2011 : Rites of Passage"]
-A2011 --> A2012["2012 : Fertility 2.0"]
-A2012 --> A2013["2013 : Cargo Cult"]
-A2013 --> A2014["2014 : Caravansary"]
-A2014 --> A2015["2015 : Carnival of Mirrors"]
-A2015 --> A2016["2016 : Da Vinci's Workshop"]
-A2016 --> A2017["2017 : Radical Ritual"]
-A2017 --> A2018["2018 : I, Robot"]
-A2018 --> A2019["2019 : Metamorphoses"]
-A2019 --> A2020["2020 : The Multiverse (year of event cancellation)"]
-A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
-A2021 --> A2022["2022 : Waking Dreams"]
-A2022 --> A2023["2023 : Animalia"]
-A2023 --> A2024["2024 : The Great Unknown"]
-A2024 --> A2025["2025 : Tomorrow Today"]
+    A1995["1995 : Inferno"] --> A1996["1996 : Decommodification"]
+    A1996 --> A1997["1997 : Fertility"]
+    A1997 --> A1998["1998 : Nebulous Entity"]
+    A1998 --> A1999["1999 : The Wheel of Time"]
+    A1999 --> A2000["2000 : The Body"]
+    A2000 --> A2001["2001 : Seven Ages"]
+    A2001 --> A2002["2002 : The Floating World"]
+    A2002 --> A2003["2003 : Beyond Belief"]
+    A2003 --> A2004["2004 : The Vault of Heaven"]
+    A2004 --> A2005["2005 : Psyche"]
+    A2005 --> A2006["2006 : Hope & Fear"]
+    A2006 --> A2007["2007 : The Green Man"]
+    A2007 --> A2008["2008 : American Dream"]
+    A2008 --> A2009["2009 : Evolution – A Tangled Bank"]
+    A2009 --> A2010["2010 : Metropolis – The Life of Cities"]
+    A2010 --> A2011["2011 : Rites of Passage"]
+    A2011 --> A2012["2012 : Fertility 2.0"]
+    A2012 --> A2013["2013 : Cargo Cult"]
+    A2013 --> A2014["2014 : Caravansary"]
+    A2014 --> A2015["2015 : Carnival of Mirrors"]
+    A2015 --> A2016["2016 : Da Vinci’s Workshop"]
+    A2016 --> A2017["2017 : Radical Ritual"]
+    A2017 --> A2018["2018 : I, Robot"]
+    A2018 --> A2019["2019 : Metamorphoses"]
+    A2019 --> A2020["2020 : The Multiverse (イベント中止年)"]
+    A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
+    A2021 --> A2022["2022 : Waking Dreams"]
+    A2022 --> A2023["2023 : Animalia"]
+    A2023 --> A2024["2024 : The Great Unknown"]
+    A2024 --> A2025["2025 : Tomorrow Today"]
 
 </div>
 
@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening'', which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Questions on consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 

@@ -18,7 +18,7 @@ title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
 Text: mmr｜Theme: Philosophy of the acoustic universe drawn by Raja Ram and Simon Posford
 
 
-Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, they have presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
+Shpongle is a monumental psychedelic electronica/psychedelic project centered around Simon Posford and Raja Ram. Formed in 1996, inspired by the total solar eclipse in India, the band has presented an "audio-journey" that fuses ethnic sampling, acoustic instrumentation, and masterful studio production. Their sound image is distinct from club-oriented trance, and invites listeners to a story that transcends time and space.
 
 ---
 
@@ -63,11 +63,11 @@ Shpongle was born with the theme of "journey into the inner universe" at its cor
 <div class="mermaid">
 
 flowchart TD
-A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Established Twisted Records<br>Centered on Simon Posford"]
-B --> C["1998: Shpongle formed"]
-C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>Related project development"]
-D --> E["2000s: UK psych culture revival"]
-E --> F["2010s~: Fusion with world festival culture"]
+  A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Twisted Records設立<br>Simon Posford中心"]
+  B --> C["1998: Shpongle結成"]
+  C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>関連プロジェクト展開"]
+  D --> E["2000s: UKサイケ文化再興"]
+  E --> F["2010s〜: 世界フェス文化と融合"]
 
 </div>
 
@@ -112,10 +112,10 @@ Musical evolution directly corresponds to spiritual evolution.
 <div class="mermaid">
 
 flowchart TD
-A["Generation<br>(Brahman)"] --> B["Extension<br>(Lila)"]
-B --> C["Illusion<br>(Maya)"]
-C --> D["Liberation<br>(Moksha)"]
-D --> A["Play<br>(Saṃsāra)"]
+  A["生成<br>(Brahman)"] --> B["拡張<br>(Lila)"]
+  B --> C["幻化<br>(Maya)"]
+  C --> D["解脱<br>(Moksha)"]
+  D --> A["再生<br>(Saṃsāra)"]
 
 </div>
 
@@ -131,11 +131,11 @@ Listening itself is a philosophical act.
 <div class="mermaid">
 
 flowchart TD
-L2001["2001: First live "Twisted Launch Party""] --> L2005["2005: Fuji Rock Festival (first performance in Japan)"]
-L2005 --> L2009["2009: Red Rocks Amphitheater, USA"]
-L2009 --> L2014["2014: Shpongletron 3.0 Tour"]
-L2014 --> L2017["2017: Boom Festival (Portugal)"]
-L2017 --> L2020["2020: Shpongle Live at Ozora (video archive)"]
+  L2001["2001：初ライブ “Twisted Launch Party”"] --> L2005["2005：Fuji Rock Festival（日本初公演）"]
+  L2005 --> L2009["2009：Red Rocks Amphitheatre, USA"]
+  L2009 --> L2014["2014：Shpongletron 3.0 ツアー"]
+  L2014 --> L2017["2017：Boom Festival（ポルトガル）"]
+  L2017 --> L2020["2020：Shpongle Live at Ozora（映像アーカイブ）"]
 
 </div>
 
@@ -166,14 +166,14 @@ He musically put into practice the ideas that ""sound = enlightenment" and ""sou
 <div class="mermaid">
 
 flowchart TD
-A1965["1965: Stay in India and study classical music"] --> A1969["1969: Formation of Quintessence (Oriental Thought Rock)"]
-A1969 --> A1980["1980: Meditation period/exploration of consciousness"]
-A1980 --> A1994["1994: TIP Records established"]
-A1994 --> A1996["1996: Shpongle formed"]
-A1996 --> A2020["2020s: Continuing to perform at world festivals"]
+  A1965["1965：インド滞在・古典音楽修行"] --> A1969["1969：Quintessence結成（東洋思想ロック）"]
+  A1969 --> A1980["1980：瞑想期・意識探求"]
+  A1980 --> A1994["1994：TIP Records設立"]
+  A1994 --> A1996["1996：Shpongle結成"]
+  A1996 --> A2020["2020s：世界フェス出演継続中"]
 
-classDef node fill:#fdf6e3,stroke:#555,stroke-width:1px,color:#111,font-size:14px;
-class A1965,A1969,A1980,A1994,A1996,A2020 node;
+  classDef node fill:#fdf6e3,stroke:#555,stroke-width:1px,color:#111,font-size:14px;
+  class A1965,A1969,A1980,A1994,A1996,A2020 node;
 
 </div>
 
@@ -344,7 +344,7 @@ The sound transcends science, philosophy, religion, and technology.
 He is reconstructing human consciousness itself as sound.
 
 It's not just music.
-It is an evolution of the act of "listening" itself,
+It is the evolution of the act of "listening" itself,
 It is the mandala of consciousness left to humanity by Raja Ram and Simon Posford.
 
 > "Sound is born, disappears, and returns again. That's what Shpongle is."

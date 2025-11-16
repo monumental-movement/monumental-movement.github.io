@@ -17,7 +17,7 @@ title: '[Column] The Afro-Cuban skeleton - The genealogy of the heartbeat carved
 ## Introduction: Another history of American music told by taiko drums
 
 
-Text: mmr｜Theme: Based on Sabu Martinez and Arsenio Rodríguez
+Text: mmr｜Theme: Centered around Sabu Martinez and Arsenio Rodríguez
 Tracing the turning points of Latin music history longitudinally
 
 In the 1950s, a rhythm exchanged at the back door of a jazz club shook the very fabric of American music.
@@ -110,7 +110,7 @@ His sound is connected to later Afro-spiritual jazz (Pharoah Sanders, Alice Colt
 
 When Arsenio moved to the United States in 1950 and started working in Harlem,
 Sabu had been doing sessions in the same city.
-Although their point of contact is not a direct collaboration,
+Although their point of contact is not direct co-starring,
 They were deeply intersected within the **Bronx-Harlem Afro-diaspora culture**.
 
 | Era | Arsenio Rodríguez | Sabu Martinez |
@@ -134,12 +134,12 @@ Arsenio embedded it in the melodic structure, and Sabu made it the axis of the i
 <div class="mermaid">
 
 flowchart TD
-A["Clave (2–3 / 3–2)"] --> B["Montuno structure of Arsenio"]
-A --> C["Sabu's Polyrhythmic Improvisation"]
-B --> D["Rhythmization within harmony"]
-C --> E["Harmonization within percussion instruments"]
-D --> F["Latin Jazz (Machito, Dizzy Gillespie)"]
-E --> F
+    A["クラーベ（2–3 / 3–2）"] --> B["Arsenioのモントゥーノ構造"]
+    A --> C["Sabuのポリリズム即興"]
+    B --> D["ハーモニー内リズム化"]
+    C --> E["打楽器内ハーモニー化"]
+    D --> F["ラテン・ジャズ（Machito, Dizzy Gillespie）"]
+    E --> F
 
 </div>
 
@@ -195,19 +195,19 @@ At the end of this dialogue, we stand at the origin of the question, "What is mu
 <div class="mermaid">
 
 timeline
-title Crossover Chronology of Sound (1911–1979)
-1911 : Birth of Arsenio Rodríguez (Havana)
-1929 : Birth of Sabu Martinez (New York)
-1939: Arsenio makes his first recordings, including "El Diablo"
-1947 : Arsenio releases "Bruca Maniguá"
-1950: Arsenio moves to the United States and begins harem activities.
-1953 : Sabu joins Tito Puente Orchestra
-1957 : *Palo Congo* announced (Blue Note)
-1960: Arsenio's late recording "Viva Arsenio"
-1963 : Sabu, "Jazz Espagnole"
-1970 : Arsenio Rodriguez dies
-1973 : Sabu, "Afro Temple"
-1979 : Sabu Martinez dies (Sweden)
+    title 音の交差年表（1911–1979）
+    1911 : Arsenio Rodríguez 誕生（ハバナ）
+    1929 : Sabu Martinez 誕生（ニューヨーク）
+    1939 : Arsenio、「El Diablo」など初録音
+    1947 : Arsenio、「Bruca Maniguá」発表
+    1950 : Arsenio 渡米、ハーレム活動開始
+    1953 : Sabu、ティト・プエンテ楽団に加入
+    1957 : *Palo Congo* 発表（Blue Note）
+    1960 : Arsenio 晩年の録音「Viva Arsenio」
+    1963 : Sabu、「Jazz Espagnole」
+    1970 : Arsenio Rodríguez 死去
+    1973 : Sabu、「Afro Temple」
+    1979 : Sabu Martinez 死去（スウェーデン）
 
 </div>
 

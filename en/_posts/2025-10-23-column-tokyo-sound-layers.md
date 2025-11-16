@@ -119,7 +119,7 @@ All of them make up the huge sound archive that is Tokyo.
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
 Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
-The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
+The nights of Shinjuku, the clubs of Shibuya, and the cyberspace of Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
 
@@ -129,18 +129,18 @@ The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara wi
 
 flowchart TD
 
-A1950["1950s: The birth of jazz cafe culture in Shinjuku"]
-A1970["1970s: Fusion of underground theater and rock (Shinjuku LOFT)"]
-A1990["1990s: The rise of Shibuya-kei pops and club culture"]
-A2000["2000s: Vocaloid and remix culture spread from Akihabara"]
-A2010["2010s: Revival of Shimokitazawa Indies and Festival Culture"]
-A2020["2020s: The rise of AI music and virtual city live performances"]
+    A1950["1950s: 新宿にジャズ喫茶文化が誕生"]
+    A1970["1970s: アングラ演劇とロックの融合（新宿LOFT）"]
+    A1990["1990s: 渋谷系ポップスとクラブカルチャーの勃興"]
+    A2000["2000s: 秋葉原からボーカロイドとリミックス文化が拡散"]
+    A2010["2010s: 下北沢インディーズの再興とフェス文化"]
+    A2020["2020s: AI音楽と仮想都市ライブが台頭"]
 
-A1950 --> A1970
-A1970 --> A1990
-A1990 --> A2000
-A2000 --> A2010
-A2010 --> A2020
+    A1950 --> A1970
+    A1970 --> A1990
+    A1990 --> A2000
+    A2000 --> A2010
+    A2010 --> A2020
 
 
 </div>
@@ -152,18 +152,18 @@ A2010 --> A2020
 <div class="mermaid">
 
 graph LR
-subgraph ground
-Shibuya["Shibuya: Club Pop"]
-Shimokita["Shimokitazawa: Band Indies"]
-end
-subgraph underground
-Shinjuku["Shinjuku: Jazz Underground"]
-Akiba["Akihabara: electronic sound/subculture"]
-end
+    subgraph 地上
+        Shibuya["渋谷：クラブ・ポップ"]
+        Shimokita["下北沢：バンド・インディーズ"]
+    end
+    subgraph 地下
+        Shinjuku["新宿：ジャズ・アングラ"]
+        Akiba["秋葉原：電子音・サブカル"]
+    end
 
-Shibuya --> Akiba
-Shimokita --> Shinjuku
-Shinjuku --> Shibuya
+    Shibuya --> Akiba
+    Shimokita --> Shinjuku
+    Shinjuku --> Shibuya
 
 </div>
 
