@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True.webp
 lang: es
 layout: post
+permalink: /es/2023-11-03-Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – Its True/
 tags:
 - House
 - Progressive
-title: Axwell + Sebastian Ingrosso Vs. Salem Al Fakir – It's True
+title: Axwell + Sebastián Ingrosso vs. Salem Al Fakir – Es verdad
 ---
 
 
-Axwell（アクスウェル）ことAxel Christofer Hedforsは、スウェーデンの DJ、レコード プロデューサー、リミキサー、そして Axtone Records のオーナー。
+Axel Christofer Hedfors, también conocido como Axwell, es un DJ, productor discográfico, remezclador y propietario sueco de Axtone Records.
 
-Axwellは、Sebastian Ingrosso（セバスチャン・イングロッソ） 、Steve Angello（スティーブ・アンジェロ）とともにSwedish House Mafia（スウェディッシュ・ハウス・マフィア）として活動。
+Axwell formó parte de Swedish House Mafia con Sebastian Ingrosso y Steve Angello.
 
-Lars Salem Al Fakir（ラース・セーラム・アル・ファキール）は、スウェーデンのミュージシャン、シンガー、ソングライター、レコードプロデューサー。
+Lars Salem Al Fakir es un músico, cantante, compositor y productor discográfico sueco.
 
-また、オルタナティブポップミュージックデュオVargas & Lagola としても活動。
+También participa activamente como el dúo de música pop alternativa Vargas & Lagola.
 
-「It's True」は、2007年にAxtone Recordsからリリースされたプログレッシブハウストラック。
+"It's True" es una canción de house progresivo lanzada por Axtone Records en 2007.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. It's True (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99195071709?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99195071709?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kh9okdVz0I4?si=G5efD2QH3QwsTvdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kh9okdVz0I4?si=G5efD2QH3QwsTvdJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

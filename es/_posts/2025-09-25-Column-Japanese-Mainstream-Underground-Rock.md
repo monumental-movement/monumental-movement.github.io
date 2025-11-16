@@ -5,97 +5,99 @@ categories:
 image: ../assets/images/column-japanese-mainstream-underground-rock.webp
 lang: es
 layout: post
+permalink: /es/2025-09-25-Column-Japanese-Mainstream-Underground-Rock/
 tags:
 - Rock
 - Noise
 - Psychedelic Rock
-title: 【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点
+title: '[Columna] Historia del rock japonés: la intersección de lo convencional y
+  lo underground'
 ---
 
 
-## 日本ロック史の二重構造：表舞台と地下水脈
+## Doble estructura de la historia del rock japonés: escenario frontal y veta de agua subterránea.
 
-文：mmr｜テーマ：日本ロックのメインストリームとアンダーグラウンドについて
+Texto: mmr｜Tema: Rock japonés convencional y underground
 
-日本のロックは、1960年代に花開いた[グループサウンズ（GS）](https://amzn.to/4gP5wli)を起点に広がった。しかし、同時に表舞台とは別に、実験精神と破壊的エネルギーを持つ「アンダーグラウンド・ロック」の潮流が生まれた。裸のラリーズ、灰野敬二、ボアダムス、アシッド・マザーズ・テンプルなどは、日本のノイズロックやサイケデリック・シーンを国際的に知らしめた存在だ。
+El rock japonés comenzó a extenderse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
-### 1960年代：裸のラリーズの衝撃
+### Década de 1960: el impacto de los Larry desnudos
 
-[裸のラリーズ](https://amzn.to/4mxUd1T) — アシッドでノイズに満ちたサイケデリック・ロックは、日本の「地下音楽」の始祖。ブートレグ音源すら神話化されている。
-
----
-
-### 1970年代：灰野敬二の実験精神
-
-[灰野敬二](https://amzn.to/46ngHxU) — 即興演奏、フリージャズ、ノイズを横断。国内外の実験音楽シーンに決定的な影響を与えた。
-
-[はっぴいえんど『風街ろまん』](https://amzn.to/3Vzh16v)と対照的に、アンダーグラウンドはより暗黒の方向へ進化。
+[Naked Rally's](https://amzn.to/4mxUd1T) — El rock psicodélico lleno de ácido y ruido es el origen de la "música underground" de Japón. Incluso la fuente de sonido pirata se ha vuelto mítica.
 
 ---
 
-### 1980年代：バンドブーム
+### Década de 1970: el espíritu experimental de Keiji Haino
 
-[BOØWY](https://amzn.to/48lIrED) / [RCサクセション](https://amzn.to/48DtL3B)などメインストリームと同時進行で、地下からの実験精神が存在感を増した。
+[Keiji Haino](https://amzn.to/46ngHxU) — Cruce de improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
 
----
-
-### 1990年代：国際的ブレイクスルー
-
-[ボアダムス](https://amzn.to/3Vz4yzI)（[山塚アイ](https://amzn.to/42cJsuE)） — サイケデリックとノイズを融合したライブ体験は、海外のオルタナティブ・シーンに衝撃を与えた。
-
-[山本精一](https://amzn.to/4mHCi9d)（[想い出波止場](https://amzn.to/3WaQhta)、[ROVO](https://amzn.to/3Kodwxd)） — 京都拠点の実験的ロック。
-
-[少年ナイフ](https://amzn.to/3VFVclI) — 大阪発のポップ・パンク。Nirvanaのカート・コバーンも絶賛。
-
-[Melt-Banana](https://amzn.to/46pXls3) — ノイズコア・グラインド感覚を持つ圧倒的なライブバンド。ジョン・ゾーン主宰のTzadikから作品を発表し国際的に評価。
-
-[アシッド・マザーズ・テンプル](https://amzn.to/3IHRrJC) — サイケ・ドローンの大洪水。ヨーロッパのフェスで圧倒的支持。
+A diferencia de [Happy End ``Kazemachi Roman''](https://amzn.to/3Vzh16v), Underground ha evolucionado en una dirección más oscura.
 
 ---
 
-### 2000年代：ギターウルフの爆音ロックンロール
+### Década de 1980: auge de las bandas
 
-[ギターウルフ](https://amzn.to/42cIG0G) — 「ジェット・ロックンロール」の旗手。海外ツアーを重ね、ガレージ・ロック・リバイバルの象徴に。
-
----
-
-### 2010年代〜現在：再評価とデジタル時代
-
-少年ナイフ、灰野敬二、ボアダムスらは海外再評価。
-
-ロック・サウンドは映画のサウンドトラック制作やAI音楽生成に接続し、アンダーグラウンド精神が新しい形で蘇る。
+Al mismo tiempo que la música convencional como [BOØWY](https://amzn.to/48lIrED) / [RC Succession](https://amzn.to/48DtL3B), el espíritu experimental procedente del underground ha aumentado su presencia.
 
 ---
 
-### 年代別進化と主要アーティスト
+### Década de 1990: avance internacional
+
+[Boredoms](https://amzn.to/3Vz4yzI) ([Yamatsuka Ai](https://amzn.to/42cJsuE)) — Una experiencia en vivo que fusiona psicodélico y ruido ha conmocionado la escena alternativa en el extranjero.
+
+[Seiichi Yamamoto](https://amzn.to/4mHCi9d) ([Omide Hatoba](https://amzn.to/3WaQhta), [ROVO](https://amzn.to/3Kodwxd)) — Rock experimental con sede en Kioto.
+
+[Shonen Knife](https://amzn.to/3VFVclI) — Pop punk de Osaka. Kurt Cobain de Nirvana también lo elogió.
+
+[Melt-Banana](https://amzn.to/46pXls3) — Una banda en vivo abrumadora con una sensación de noisecore/grind. Su trabajo fue publicado por Tzadik de John Zorn y recibió elogios internacionales.
+
+[Templo de la Madre Ácida] (https://amzn.to/3IHRrJC) — Un diluvio de drones psicológicos. Apoyo abrumador en los festivales europeos.
+
+---
+
+### Década de 2000: el rock and roll de Guitar Wolf
+
+[Guitar Wolf](https://amzn.to/42cIG0G) — Abanderado de "Jet Rock'n'Roll". Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
+
+---
+
+### Década de 2010 al presente: reevaluación y era digital
+
+Shonen Knife, Keiji Haino, Boredoms y otros están siendo reevaluados en el extranjero.
+
+Los sonidos del rock se conectarán con la producción de bandas sonoras de películas y la generación de música mediante IA, y el espíritu underground revivirá de una nueva manera.
+
+---
+
+### Evolución por generación y principales artistas.
 
 <div class="mermaid">
-flowchart TD
-    A["1960s: 発祥 — GSと裸のラリーズ"] --> B["1970s: フォークと実験音楽 — 灰野敬二"]
-    B --> C["1980s: 少年ナイフとバンドブームの裏側"]
-    C --> D["1990s: 山本精一, ボアダムス, Melt-Banana, アシッドマザーズテンプル"]
-    D --> E["2000s: ギターウルフの国際的ガレージ・ロック"]
-    E --> F["2010s: 再評価とフェス文化"]
-    F --> G["2020s: AI音楽生成とサウンドトラック制作"]
+diagrama de flujo TD
+A["Década de 1960: Origins — GS y Naked Larry's"] --> B["Década de 1970: Música folk y experimental — Keiji Haino"]
+B --> C["Década de 1980: Detrás de escena de Shonen Knife y el boom de la banda"]
+C --> D ["Década de 1990: Seiichi Yamamoto, Aburrimientos, Melt-Banana, Acid Mother's Temple"]
+D --> E["Década de 2000: el garage rock internacional de Guitar Wolf"]
+E --> F["Década de 2010: Reevaluación y cultura festiva"]
+F --> G["Década de 2020: generación de música con IA y producción de bandas sonoras"]
 </div>
 
 ---
 
-### 年代別おすすめ名盤リスト
+### Lista de obras maestras recomendadas por generación
 
 | アーティスト | 年代 | 名盤 | 特徴 | リンク |
 |--------------|------|------|------|---------------|
@@ -118,37 +120,37 @@ flowchart TD
 
 
 
-### FAQ：アンダーグラウンド日本ロックについて
+### Preguntas frecuentes: sobre el rock japonés underground
 
 
-**Q1. 日本アンダーグラウンド・ロックとメインストリームの違いは？**  
+**P1. ¿Cuál es la diferencia entre el rock underground japonés y el mainstream? **
 
-A1. 商業的成功よりも実験性・独自性を重視する点です。海外ツアーやインディーシーンでの評価が大きいのも特徴です。  
+A1. El énfasis está en la experimentación y la originalidad más que en el éxito comercial. Otra característica es que han sido muy elogiados en giras por el extranjero y en la escena independiente.
 
-**Q2: 裸のラリーズの音源はなぜ希少？**
+**P2: ¿Por qué la fuente de sonido de Naked Larrys es tan rara? **
 
-A2: 正式リリースが少なく、ライブ録音やブート盤が伝説的扱いを受けています。
+R2: Hay pocos lanzamientos oficiales y las grabaciones en vivo y los álbumes de arranque se consideran legendarios.
 
-**Q3: ボアダムスはなぜ海外で評価された？**
+**P3: ¿Por qué Boredoms fue tan bien recibido en el extranjero? **
 
-A3: サイケデリックとノイズを融合した独自のライブ演出と圧倒的な音圧が、オルタナティブ文化圏に響いたためです。
+R3: Esto se debe a que nuestra producción en vivo única que combina psicodélico, ruido y una presión sonora abrumadora resonó en la esfera de la cultura alternativa.
 
-**Q4: Melt-Bananaはなぜ海外で人気？**
+**P4: ¿Por qué Melt-Banana es popular en el extranjero? **
 
-A4: 圧倒的なライブパフォーマンスとスピード感、ジョン・ゾーンら実験音楽家との繋がりで国際的評価を得ました。
+R4: Obtuvimos reconocimiento internacional por nuestras abrumadoras presentaciones en vivo, sentido de velocidad y conexiones con músicos experimentales como John Zorn.
 
-**Q5: 山本精一の代表作は？**
+**P5: ¿Cuál es la obra más famosa de Seiichi Yamamoto? **
 
-A5: [想い出波止場『水中joe』](https://amzn.to/4pJINuQ)や[ROVOのライブ](https://amzn.to/4gJvJRT)、ソロ作品[『Crown of Fuzzy Groove』](https://amzn.to/4pJ0ESq)などが重要です。
-
----
-
-### まとめ
-
-日本のロック史は、表の「メインストリーム」と裏の「アンダーグラウンド」が並行して進化してきた。裸のラリーズからギターウルフまでの系譜は、現在のAI時代にまで受け継がれ、ロックの可能性を拡張し続けている。日本のロックは今後も、世界の音楽シーンに「実験と衝動」を与え続けるだろう。
+R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [la presentación en vivo de ROVO](https://amzn.to/4gJvJRT) y los trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
 
 ---
 
-### 関連コラム
+### resumen
 
-🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
+La historia del rock japonés ha evolucionado en paralelo con el frente "mainstream" y el "clandestino" detrás de escena. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+
+---
+
+### Columnas relacionadas
+
+🔗 [[Columna] La trayectoria del rock y el ruido underground japonés desde los años 90 hasta los 2000](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)

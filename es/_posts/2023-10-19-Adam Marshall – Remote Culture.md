@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Adam Marshall – Remote Culture.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Adam Marshall – Remote Culture/
 tags:
 - Techno
 - Minimal
-title: Adam Marshall – Remote Culture
+title: Adam Marshall - Cultura remota
 ---
 
 
-Adam Marshall（アダム・マーシャル）は、カナダ出身で現在はベルリンを拠点とするDJ／プロデューサー＆レーベルNew Kanadaのオーナー。Christian AndersenとのユニットGrazeとしても活動。
+Adam Marshall es un DJ/productor nacido en Canadá y propietario del sello New Kanada, actualmente con sede en Berlín. También activo como una unidad llamada Graze con Christian Andersen.
 
-「Remote Culture」は、Mike Shannon主宰のカナダ発のミニマル・ダブ・ディープテクノ/ハウスレーベルCynosureから2005年にリリース。
+"Remote Culture" fue lanzado en 2005 en el sello canadiense Cynosure de dub minimalista, deep techno y house de Mike Shannon.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Magnum
 
@@ -25,7 +26,7 @@ B1. Illuminator
 B2. Nature Gone
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m22710623242?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m22710623242?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iNmLADC_mZ4?si=GaIhq38CEE623leA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNmLADC_mZ4?si=GaIhq38CEE623leA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

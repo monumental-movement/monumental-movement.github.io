@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Patrick Bernhardt – Atlantis Angelis/
 tags:
 - New Age
 - Ambient
@@ -12,10 +13,10 @@ title: Patrick Bernhardt – Atlantis Angelis
 ---
 
 
-「Atlantis Angelis」は、カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
+"Atlantis Angelis" es una cinta de casete de un álbum de Patrick Bernhardt editado por el sello canadiense "Imagine Records".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Le Chant De L'universel/The Song Of The Universal Light
 
@@ -36,7 +37,7 @@ B2. Musique Des Spheres D'om Harmony/Harmony Of The Om Spheres
 B3. Transcendastral Voyage
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83639772653?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rz-WzRuR0dY?si=VYZ5pxbQVXQFHNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rz-WzRuR0dY?si=VYZ5pxbQVXQFHNrs" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

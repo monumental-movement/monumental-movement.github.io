@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Our House – Our House.webp
 lang: es
 layout: post
+permalink: /es/2025-10-13-Our House – Our House/
 tags:
 - Hiphop
 - 90s
-title: Our House – Our House
+title: Nuestra Casa – Nuestra Casa
 ---
 
 
-Graham Nash (グラハム・ナッシュ )が書いたCrosby, Stills, Nash & Young(クロスビー、スティルス、ナッシュ&ヤング)『Our House (僕達の家)』のHipHop / Pop Rapカヴァー。
+Versión HipHop/Pop Rap de "Our House" de Crosby, Stills, Nash & Young escrita por Graham Nash.
 
-Big Beat RecordsのHouse & Freestyle部門Turnstyle Records から1992年にリリースされた。
+Fue lanzado en 1992 por Turnstyle Records, la división House & Freestyle de Big Beat Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Our House (Radio)
 A2. Our House (Instrumental)
@@ -27,7 +28,7 @@ B2. Our House (T-Ray's String Apella)
 B3. Our House (T-Ray's Acapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96040716197?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96040716197?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ybS1lOxzko?si=DgC6qFbVT2T73UcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ybS1lOxzko?si=DgC6qFbVT2T73UcM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

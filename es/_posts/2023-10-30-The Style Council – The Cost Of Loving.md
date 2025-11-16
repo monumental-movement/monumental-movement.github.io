@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/The Style Council – The Cost Of Loving.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-The Style Council – The Cost Of Loving/
 tags:
 - Pops
 - Soul
 - Synth-Pop
-title: The Style Council – The Cost Of Loving
+title: El Consejo de Estilo – El Costo de Amar
 ---
 
 
-The Style Council（スタイル・カウンシル）は、ニュー・ウェイヴ/モッズ・リバイバル・バンド the Jam（ザ・ジャム）の元シンガー＆ギタリストPaul Weller（ポール・ウェラー）と、Dexys Midnight Runners（デキシーズ・ミッドナイト・ランナーズ）、 the Bureau（ビューロー）、the Merton Parkasのメンバーだったキーボード奏者のMick Talbot（ミック・タルボット）によって1982年後半に結成されたイギリスのバンド。
+The Style Council es una banda británica formada a finales de 1982 por Paul Weller, ex cantante y guitarrista de la banda new wave/mod revival the Jam, y el teclista Mick Talbot, ex miembro de Dexys Midnight Runners, the Bureau y Merton Parkas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. It Didn't Matter
 
@@ -36,7 +37,7 @@ B4. The Cost Of Loving
 B5. Woman's Song
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89427922011?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89427922011?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KigU6XnxsF0?si=qbXY45-pBPqQLlEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KigU6XnxsF0?si=qbXY45-pBPqQLlEr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

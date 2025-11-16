@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Kierra Sheard – Just Until.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Kierra Sheard – Just Until/
 tags:
 - R&B
 - Soul
 - Gospel
-title: Kierra Sheard – Just Until
+title: Kierra Sheard – Sólo hasta
 ---
 
 
-Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
+Kierra Kiki Sheard es una cantante de gospel de Detroit, Estados Unidos. En Japón se le conoce como KiKi. Su madre es Karen Clark Sheard de la leyenda del evangelio, las Clark Sisters.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Let Go (Rock Soul Remix)
 
@@ -30,4 +31,4 @@ B2. Let Go (LP Version)
 B3. Let Go (The Godson Concept)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}

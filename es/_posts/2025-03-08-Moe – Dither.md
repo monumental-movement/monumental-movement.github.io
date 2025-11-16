@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Moe – Dither.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-Moe – Dither/
 tags:
 - Alternative Rock
 - Psychedelic Rock
 - Rock
 - 00s
-title: Moe. – Dither
+title: Moe. – Tramado
 ---
 
 
-Moe は、1989年にバッファロー大学で結成されたアメリカのジャムロックバンド。
+Moe es una banda estadounidense de jam rock formada en la Universidad de Buffalo en 1989.
 
-「Dither」は、moeの5枚目のスタジオアルバム。2001年にバンド自身のレーベルFatboy Recordsからリリースされ、DJ Logic、Kirk Juhas、Nykw-ILL brosが参加している。
+"Dither" es el quinto álbum de estudio de moe. Fue lanzado en 2001 en el propio sello de la banda, Fatboy Records, y cuenta con DJ Logic, Kirk Juhas y los hermanos Nykw-ILL.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Captain America
 2. Faker
@@ -37,7 +38,7 @@ Moe は、1989年にバッファロー大学で結成されたアメリカのジ
 12.3. Captain America Remix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

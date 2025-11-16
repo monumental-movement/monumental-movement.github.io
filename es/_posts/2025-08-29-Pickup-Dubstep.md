@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/pickup-dubstep.webp
 lang: es
 layout: post
+permalink: /es/2025-08-29-Pickup-Dubstep/
 tags:
 - Dubstep
 - 90s
 - 00s
-title: ダブステップ（Dubstep）作品をピックアップ
+title: Recoge obras de Dubstep
 ---
 
 
-「フェスの主役へと躍り出た、爆発するベースラインの衝動、注目すべきダブステップ（Dubstep）作品群」
+"Una notable colección de obras de Dubstep con una línea de bajo explosiva que se ha convertido en la principal atracción de los festivales."
 
 <hr>
 
-### Benga & Walsh Vs Darqwan – Addicts / Megatection
+### Benga & Walsh Vs Darqwan – Adictos / Megatección
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-特徴：異なるアプローチを持つ3名が各々の面を担当する、両極ともに魅力ある構成の1枚です。
+Características: Tres personas con enfoques diferentes se encargan de cada aspecto, haciendo de esta una pieza con una atractiva composición por ambas caras.
 
 
-魅力：Bengaによるベースの深さ、Walshのグルーヴ、Darqwanの独創性が、それぞれのトラックに光る。
+Por qué: la profundidad del bajo de Benga, el ritmo de Walsh y la originalidad de Darqwan brillan en cada pista.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Benga & Walsh–Addicts
 
@@ -33,24 +34,24 @@ B. Darqwan–Megatection
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Zed Bias – Ambush Riddim Cosmic Minefield
+### Zed Bias – Emboscada en el campo minado cósmico de Riddim
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 
-特徴：00年代ダブステップ黎明期を象徴するスタイルが色濃く反映されており、ビートの強靭さとベースの深みが聴きどころ。
+Características: El estilo que simboliza los primeros días del dubstep en la década de 2000 se refleja fuertemente, y la fuerza del ritmo y la profundidad del bajo son lo más destacado.
 
-魅力：Zed Bias によるサウンドデザイン は、当時のUKエレクトロニックシーンの先端を感じさせる構築性と遊び心を併せ持っています。スリリングなリズムと未来的な空間描写が共存した内容で、コレクターズピースとしても価値があります。
+Atractivo: El diseño de sonido de Zed Bias combina una sensación de estructura y alegría que se siente a la vanguardia de la escena electrónica del Reino Unido en ese momento. El contenido coexiste con ritmos emocionantes y descripciones espaciales futuristas, lo que lo hace valioso como pieza de colección.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Ambush Riddim
 
@@ -58,26 +59,26 @@ B. Cosmic Minefield
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Distance – Night Vision Traffic (Remixes)
+### Distancia – Tráfico de visión nocturna (Remixes)
 <a href="https://jp.mercari.com/item/m41976267806?afid=6142608987"><img src="../assets/images/Distance%20%E2%80%93%20Night%20Vision%20Traffic%20(Remixes).webp"></a>
 
 
-特徴：ダブステップの誕生期からシーンを牽引してきた Distance、Skream、そして日本を代表する Goth-Trad の組み合わせはまさに夢の共演。
+Características: La combinación de Distance, Skream, que lidera la escena dubstep desde su nacimiento, y Goth-Trad, que representa a Japón, es una colaboración de ensueño.
 
 
-魅力：Skream は原曲のエッセンスを活かした「破壊的なビート」、Goth-Trad は暗黒的でテクスチャ重視の再構築という、正反対とも言える音像が1枚に収まっています。クラシックとしての価値が高く、アナログ愛好家やDJからの需要も高いアイテムです。
+Charm: Skream es un "ritmo destructivo" que hace uso de la esencia de la canción original, mientras que Goth-Trad es una reconstrucción oscura y orientada a texturas, que se puede decir que son imágenes sonoras completamente opuestas contenidas en un álbum. Este artículo tiene un gran valor como clásico y tiene una gran demanda entre los entusiastas analógicos y los DJ.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
@@ -85,23 +86,23 @@ B. Traffic (Goth-Trad Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Monstruos aterradores y duendes agradables
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-特徴：本作はSkrillexの名を世界的に確立したEPで、特に「Scary Monsters And Nice Sprites」はDubstepをメインストリームに押し上げた金字塔とも呼ばれています。
+Características: Este es el EP que estableció el nombre de Skrillex en todo el mundo, y se dice que "Scary Monsters And Nice Sprites" en particular es el trabajo monumental que impulsó el dubstep a la corriente principal.
 
-魅力：Noisia、Zedd、Bare Noizeといった第一線のプロデューサーたちによるリミックスが収録されており、それぞれのアーティスト視点から楽曲の新たな魅力が引き出されています。
+Atractivo: contiene remezclas de productores líderes como Noisia, Zedd y Bare Noize, que resaltan un nuevo atractivo de las canciones desde la perspectiva de cada artista.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -115,26 +116,26 @@ B. Traffic (Goth-Trad Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Aquasky – Nylon Roadster Cosmic Glue
+### Aquasky – Pegamento cósmico de nailon Roadster
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 
 
-特徴：1996–97年にMoving Shadowレーベルからリリースされた本作は、ジャジーすぎる音から脱却し、穏やかで感情的なピアノセクションを特徴とした“滑らか”なブレイクビートを提供。まるで子守唄のように心地よく、Dubstepに通じる重厚なベースの質感も感じられます。
+Características: Publicado con el sello Moving Shadow en 1996-97, este álbum rompe con un sonido excesivamente jazzístico y ofrece un breakbeat "suave" con una sección de piano suave y emotiva. Se siente relajante, como una canción de cuna, y también puedes sentir la textura del bajo pesado, que es similar al Dubstep.
 
 
-魅力：Dubstepのダークで深みあるベースラインやビート感が好きな方にとって、聴き応えのある1枚です。
+Atractivo: Para aquellos a quienes les gustan las líneas de bajo oscuras y profundas y los ritmos del dubstep, este es un gran álbum para escuchar.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 X. Nylon Roadster
 
@@ -142,10 +143,10 @@ Y. Cosmic Glue
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>

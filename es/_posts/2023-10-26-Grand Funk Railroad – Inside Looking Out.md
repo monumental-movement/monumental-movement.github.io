@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Grand Funk Railroad – Inside Looking Out.webp
 lang: es
 layout: post
+permalink: /es/2023-10-26-Grand Funk Railroad – Inside Looking Out/
 tags:
 - Rock
 - Hard Rock
 - 7inch
-title: Grand Funk Railroad – Inside Looking Out
+title: Ferrocarril Grand Funk - Mirando hacia adentro
 ---
 
 
-Grand Funk Railroad（グランド ファンク レイルロード/グランドファンク/GFR) は、1970 年代に活躍したアメリカのハードロックバンドです。
+Grand Funk Railroad (Grand Funk Railroad/Grand Funk/GFR) es una banda estadounidense de hard rock activa en la década de 1970.
 
-「Inside Looking Out（孤独の叫び）」は、は彼らからリリースされた7インチです。
+"Inside Looking Out" es un televisor de 7 pulgadas lanzado por ellos.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Inside Looking Out = 孤独の叫び
 
 B. Paranoid = パラノイド
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lk4H8kdmirc?si=ql7PSjFjxSCYCP7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lk4H8kdmirc?si=ql7PSjFjxSCYCP7j" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

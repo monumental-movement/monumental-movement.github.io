@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Sound Fiction Feat. Kate Cameron – Alive.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Sound Fiction Feat. Kate Cameron – Alive/
 tags:
 - Trance
 - Progressive
 - 00s
-title: Sound Fiction Feat. Kate Cameron – Alive
+title: Hazaña de ficción sonora. Kate Cameron – Viva
 ---
 
 
-Sound Fiction(サウンド・フィクション)は、2002年ロシアのプロデューサー兼DJのVadim Soloviev & Dmitry Filatov(ワディム・ソロヴィエフ & ドミトリー・フィラトフ)によってモスクワで結成された。
+Sound Fiction se formó en Moscú en 2002 por los productores y DJ rusos Vadim Soloviev y Dmitry Filatov.
 
-A面はスウェーデン出身のトランス/プログレッシブDJ&プロデューサーのMike Shiver（マイク・シヴァー）によるremix。
+Side A es un remix del DJ y productor sueco de trance/progresivo Mike Shiver.
 
 
-フィーチャリングされているケイト・キャメロンは、豊かなアルトヴォイスを持つプロのハウス兼トランスシンガーで、ジョーンズ＆シモンズとの活動で最もよく知られており、特に彼らの別名である宇宙兄弟やチャクラの注目アーティストとして、『アイ・アム』や『ホーム』などのクロスオーバー作品で成功を収めています。
+Kate Cameron es una cantante profesional de house y trance con una rica voz de alto, mejor conocida por su trabajo con Jones & Simmons, particularmente como artista destacada bajo sus alias Space Brothers y Chakra, quienes han tenido éxito con crossovers como I Am y Home.
 
-彼女は、ノーマン・クック/プリーズド・ウィミンのジョンと共演した「P.A.S.S.I.O.N」、アバブ＆ビヨンドと共演した「ファー・フロム・イン・ラブ」、そしてダッチ・ハウス・アクトのシグナムと共演した「ホワット・ヤ・ガット・4・ミー」など、著名なプロデューサーとソロ・アーティストとしてチャートでの成功を収め、マウント・ラッシュモア・プレゼンツ・ザ・ナックという別名で彼女のハードハウストラック「ユー・ベター」から抜粋されたものである。
+Sus créditos incluyen ``P.A.S.S.I.O.N'' con John of Norman Cooke/ Pleased Women, ``Far From In Love'' con Above & Beyond y ``What Ya'' con el grupo holandés Signum. Fue un extracto de su tema de hard house "You Better" bajo el alias Mount Rushmore Presents the Knack, que ha tenido éxito en las listas como solista con un destacado productor, incluido "Got 4 Me".
 
-アンジー・ブラウンとともに、彼女はフリーク・パワーのヒット・アルバム『ドライブ・スルー・ブーティ』の多くの曲でバック・ボーカリストを務め、その中にはセカンド・シングル・リリースの「ラッシュ」も含まれていた。彼女はフリーク・パワーでツアーとレコーディングを続けています、
+Junto con Angie Brown, fue corista en muchas canciones del exitoso álbum Drive Thru Booty de Freak Power, incluido su segundo sencillo, "Rush". Continúa de gira y grabando con Freak Power,
 
-また、サセックス大学とチチェスター大学の両方で教鞭をとり、彼女のコーチングの著名な卒業生には、ベス・ローリー、トム・オデル、ルーク・プリチャードが含まれます。
+También ha enseñado tanto en la Universidad de Sussex como en la Universidad de Chichester, y entre sus destacados alumnos como entrenadores se encuentran Beth Lawrie, Tom Odell y Luke Pritchard.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Alive (Mike Shiver's Catching Sun Mix)
 
@@ -37,7 +38,7 @@ B1. Alive (Matias Lehtola Remix)
 B2. Alive (Soliquid Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89465785015?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89465785015?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bRKb2UDX8NE?si=JUOtFKTigm7ZU4ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRKb2UDX8NE?si=JUOtFKTigm7ZU4ra" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

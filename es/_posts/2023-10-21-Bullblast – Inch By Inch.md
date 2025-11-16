@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Bullblast – Inch By Inch.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Bullblast – Inch By Inch/
 tags:
 - House
 - Tech House
-title: Bullblast – Inch By Inch
+title: Bullblast - Pulgada a pulgada
 ---
 
 
-BULLBLASTは、TARO KAWAUCHIとK-SOBAJIMAによるユニット。「Inch By Inch」は、2000年にDJ EmmaとTaro Kawauchiによって立ち上げられたレーベルNitelist Musicより、2006年にリリースされた。
+BULLBLAST es una unidad compuesta por TARO KAWAUCHI y K-SOBAJIMA. "Inch By Inch" fue lanzado en 2006 por Nitelist Music, un sello fundado por DJ Emma y Taro Kawauchi en 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Inch By Inch (Bullblast Mix)
 
 B. Inch By Inch (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88720013341?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m88720013341?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HOHO2GGt5gk?si=T1_vxO6_sMWpYbSj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HOHO2GGt5gk?si=T1_vxO6_sMWpYbSj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

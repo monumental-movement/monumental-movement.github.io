@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Brennan Green – 900lb Man.webp
 lang: es
 layout: post
+permalink: /es/2025-07-13-Brennan Green – 900lb Man/
 tags:
 - House
 - Tech House
 - Acid House
 - 00s
-title: Brennan Green – 900lb Man
+title: Brennan Green - Hombre de 900 libras
 ---
 
 
-Brennan Greenは、NYアンダーグラウンド・ディスコ〜エレクトロのベテランDJ、プロデューサー、エンジニア。Metro Area やレーベルDFA に影響を与えた人物としても知られ、Kid Creole & The CoconutsのremixやARTHUR RUSSELLのトリビュート・バンドARTHUR'S LANDING(アーサーズ・ランディング)のプロデュースでも有名。
+Brennan Green es una veterana DJ, productora e ingeniera de música disco/electro underground de Nueva York. También es conocido como una persona que influyó en Metro Area y el sello DFA, y también es famoso por producir remixes de Kid Creole & The Coconuts y la banda tributo a ARTHUR RUSSELL ARTHUR'S LANDING.
 
-「900lb Man」は、2006年にJet Set からリリースされたHouse, Tech House, Acid Houseトラック。
+"900lb Man" es una canción de House, Tech House y Acid House lanzada por Jet Set en 2006.
 
-Aは、KZA とDJ KentによるDuo、Force Of Nature(F.O.N フォース・オブ・ネイチャー)によるremix。
+A es un remix de KZA y el dúo de DJ Kent, Force Of Nature (F.O.N Force of Nature).
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. 900lb Man (Force Of Nature Remix)
 
@@ -29,4 +30,4 @@ B1. 900lb Man (P.M.D.M.F! Ball Mix)
 B2. 900lb Man (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}

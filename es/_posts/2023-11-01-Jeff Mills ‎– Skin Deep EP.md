@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Jeff Mills – Skin Deep EP.webp
 lang: es
 layout: post
+permalink: /es/2023-11-01-Jeff Mills ‎– Skin Deep EP/
 tags:
 - Techno
 - Detroit Techno
 - 90s
-title: Jeff Mills – Skin Deep EP
+title: Jeff Mills - EP Skin Deep
 ---
 
 
-「Call Of The Wild」のサンプリングは、マイケル・ジャクソンの 1979年のアルバム「Off The Wall」に収録されている「Get on the floor」のパーカッションブレイク。
+"Call Of The Wild" muestra la pausa de percusión de "Get on the Floor" del álbum de Michael Jackson de 1979 "Off The Wall".
 
-テクノの王道的トラックえ力強くファンキーなトラックです。
+Una pista poderosa y funky que es una pista techno clásica.
 
-大音量で、ウェアハウスやアンダーグラウンドなクラブのような環境で聴くのにうってつけなレコードです。
+Es un gran disco para escuchar a volumen alto en un almacén o en un club clandestino.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Call Of The Wild
 
@@ -30,7 +31,7 @@ B1. L8
 B2. Scout
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

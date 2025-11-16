@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Lauryn Hill – Doo Wop (That Thing) Lost Ones.webp
 lang: es
 layout: post
+permalink: /es/2023-09-06-Lauryn Hill – Doo Wop (That Thing) Lost Ones/
 tags:
 - Hiphop
 - Rap
 - 90s
-title: Lauryn Hill – Doo Wop (That Thing) / Lost Ones
+title: Lauryn Hill – Doo Wop (Esa cosa) / Lost Ones
 ---
 
 
-「Lauryn Hill - Doo Wop (That Thing) / Lost Ones」は、アメリカのシンガーソングライターであるローリン・ヒル（Lauryn Hill）による楽曲です。この曲は、彼女のソロデビューアルバム『The Miseducation of Lauryn Hill』（1998年）からのシングルとしてリリースされました。
+"Lauryn Hill - Doo Wop (Esa cosa) / Lost Ones" es una canción de la cantautora estadounidense Lauryn Hill. La canción fue lanzada como sencillo de su álbum debut en solitario, The Miseducation of Lauryn Hill (1998).
 
-「Lost Ones」は、力強いビートとアグレッシブなラップが特徴の楽曲です。この曲では、ローリン・ヒルが自身の経験や社会的な問題についてメッセージを伝えており、力強い表現力と情熱的なパフォーマンスが印象的です。
+"Lost Ones" es una canción caracterizada por un ritmo poderoso y un rap agresivo. En esta canción, Lauryn Hill transmite un mensaje sobre sus propias experiencias y problemas sociales, y su poderosa expresión y su apasionada interpretación son impresionantes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Doo Wop (That Thing) (Radio Edit)
 
@@ -34,8 +35,8 @@ B3. Lost Ones (Instrumental)
 B4. Lost Ones (A Capella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23227409943?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23227409943?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T6QKqFPRZSA?si=i1iifHLJI5ahLUVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T6QKqFPRZSA?si=i1iifHLJI5ahLUVQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Svenson & Gielen – Twisted.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Svenson and Gielen – Twisted/
 tags:
 - Trance
 - Hard Trance
-title: Svenson & Gielen – Twisted
+title: Svenson & Gielen – Retorcido
 ---
 
 
-「Twisted」は、
-2002年にドイツのレーベル「Dos Or Die Recordings」からリリースされたSvenson and Johan GielenによるユニットSvenson & GielenのEPです。
+"Retorcido" es
+Este es un EP de Svenson & Gielen, una unidad de Svenson y Johan Gielen, lanzado en 2002 en el sello alemán "Dos Or Die Recordings".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Twisted (Original Mix)
 
 B. Twisted (Svenson & Gielen Energy Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85727936789?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85727936789?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UVSrfgABAGU?si=4M1CHPyPenEBWOwd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UVSrfgABAGU?si=4M1CHPyPenEBWOwd" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

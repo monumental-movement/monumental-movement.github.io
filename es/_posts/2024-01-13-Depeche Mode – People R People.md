@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Depeche Mode – People R People.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Depeche Mode – People R People/
 tags:
 - House
 - Rare
 - New-Wave
-title: Depeche Mode – People R People
+title: Modo Depeche – People R People
 ---
 
 
-Depeche Mode（デペッシュモード）「People Are People」をB&BことBastone & Burnz（フレディ・バストン＆ジェフリー・バーンスタイン）がハウスremix。1999年リリース。
+Remezcla house de "People Are People" de Depeche Mode por B&B, también conocido como Bastone & Burnz (Freddie Baston & Jeffrey Bernstein). Lanzado en 1999.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. People Are People
 
 B. People Are People (Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76377444450?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76377444450?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=K56oWU3oRvcFkDln" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=K56oWU3oRvcFkDln" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

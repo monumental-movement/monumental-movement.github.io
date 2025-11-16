@@ -5,26 +5,28 @@ categories:
 image: ../assets/images/Lisa Stansfield – All Around The World This Is The Right Time.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-Lisa Stansfield – All Around The World This Is The Right
+  Time/
 tags:
 - Soul
 - Funk
 - 7inch
-title: Lisa Stansfield – All Around The World This Is The Right Time
+title: Lisa Stansfield – En todo el mundo, este es el momento adecuado
 ---
 
 
-Lisa Stansfield(リサ・スタンスフィールド)の「All Around The World」は、世界的にヒットしたUK R&Bクラシック。
+"All Around The World" de Lisa Stansfield es un clásico del R&B del Reino Unido que se convirtió en un éxito mundial.
 
-B面のプロディーサーはNinja Tuneの創設者でもある、UKのDJ 兼プロダクション・アクトColdcut。
+La cara B fue producida por el DJ y productor británico Coldcut, quien también es el fundador de Ninja Tune.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. All Around The World
 
 B. This Is The Right Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36150169564?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m36150169564?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JVuuatjHGnY?si=oUE6SGYER6C_vQLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JVuuatjHGnY?si=oUE6SGYER6C_vQLR" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

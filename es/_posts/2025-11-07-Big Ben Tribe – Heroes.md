@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Big Ben Tribe – Heroes.webp
 lang: es
 layout: post
+permalink: /es/2025-11-07-Big Ben Tribe – Heroes/
 tags:
 - Italo-Disco
 - Disco
 - 80s
-title: Big Ben Tribe – Heroes
+title: Tribu Big Ben – Héroes
 ---
 
 
-Big Ben Tribe (ビッグベントライブ)は、1983年にイタリアのトリエステで結成されたイタロ・ディスコ・プロジェクト。
+Big Ben Tribe es un proyecto Italo disco formado en Trieste, Italia, en 1983.
 
-この曲はデヴィッド・ボウイとブライアン・イーノの共作「Heroes」(1977)のイタロディスクカヴァー。オリジナルは、イタロディスクレーベルZanza Recordsから1983年にリリースされた。このCDは2012年にリリースされたリマスターマキシシングル。
+Esta canción es una versión del disco en italiano de "Heroes" (1977), coescrita por David Bowie y Brian Eno. Fue lanzado originalmente en 1983 en el sello de discos Italo Zanza Records. Este CD es un maxi single remasterizado lanzado en 2012.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Heroes (Tony Carrasco Mix)
 2. Heroes (Tony Carrasco Instrumental Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90617146648?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90617146648?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AgFrO9Dg6OM?si=fPCIBM20yqgrprQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AgFrO9Dg6OM?si=fPCIBM20yqgrprQ_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

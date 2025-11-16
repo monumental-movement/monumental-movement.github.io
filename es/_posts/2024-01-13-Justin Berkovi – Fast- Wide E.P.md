@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Justin Berkovi – Fast- Wide E.P.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Justin Berkovi – Fast- Wide E.P/
 tags:
 - Techno
 - 90s
-title: Justin Berkovi – Fast- Wide E.P
+title: Justin Berkovi - EP rápido y amplio
 ---
 
 
-ロンドンを拠点とするイギリスのテクノDJおよびプロデューサーであるJustin BerkoviはPredicamentsの創設者です。
+Justin Berkovi, un DJ y productor de techno británico afincado en Londres, es el fundador de Predicaments.
 
-「 Fast- Wide E.P.」は、1998年にUKのレーベル「Cloned Vinyl」からリリースされたEPです。
+"EP de ancho rápido" es un EP lanzado por el sello británico "Cloned Vinyl" en 1998.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Brutal City
 
@@ -27,7 +28,7 @@ B1. Steadycam
 B2. Neon
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Dummy Run – Dummy Run.webp
 lang: es
 layout: post
+permalink: /es/2025-07-25-Dummy Run – Dummy Run/
 tags:
 - Leftfield
 - Drum n Bass
 - Experimental
 - 90s
-title: Dummy Run – Dummy Run
+title: Carrera simulada – Carrera simulada
 ---
 
 
-Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
+Dummy Run es un dúo electro experimental de Andrew Sharpley y Nick Birmingham.
 
-1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
+El álbum homónimo lanzado por el sello británico Hot Air en 1996 es un álbum en el que puedes disfrutar del estilo único de drum'n'bass + left field de Dummy Run.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Trouble
 2. Zombies
@@ -51,7 +52,7 @@ Dummy Run (ダミーラン)は、Andrew Sharpley, Nick Birminghamによるエク
 29. Chocky
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

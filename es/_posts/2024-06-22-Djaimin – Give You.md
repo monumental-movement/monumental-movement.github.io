@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Djaimin – Give You.webp
 lang: es
 layout: post
+permalink: /es/2024-06-22-Djaimin – Give You/
 tags:
 - House
 - Deep House
 - 90s
-title: Djaimin – Give You
+title: Djaimin – Darte
 ---
 
 
-Djaiminは、スイスのトップDJ・プロデューサー。1980年代にはモントルーのPlatinum Clubのレジデントを務め、スイスのラジオ局 Couleur 3で初めてライブハウスミュージックを披露した最初のDJの一人としても知られる、スイスハウスシーンのレジェンド。Mr. MikeとのユニットBlack & White Brothers としても活躍した。
+Djaimin es un destacado DJ y productor suizo. Una leyenda de la escena house suiza, fue residente en el Platinum Club de Montreux en la década de 1980 y fue uno de los primeros DJ en tocar música house en vivo en la estación de radio suiza Couleur 3. También estuvo activo como la unidad Black & White Brothers con Mr. Mike.
 
-「Give You」は、スイス初のハウスレコーディングで、世界的に大ヒットしたハウストラック。
+"Give You" fue la primera grabación house de Suiza y se convirtió en un gran éxito en todo el mundo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Give You (Mix 91 Dancefloor Syndromad Mix)
 A2. Give You (Hype Groove Mix)
@@ -26,7 +27,7 @@ B1. Give You (Mix 91 Zanz Mix)
 B2. Give You (Remix 92 Dream Sequence Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56612679362?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56612679362?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BHFrkYtP3LE?si=gBBL16vqyhTYkbH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHFrkYtP3LE?si=gBBL16vqyhTYkbH7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

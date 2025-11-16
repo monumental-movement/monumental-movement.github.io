@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Baruka – Play It Loud.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Baruka – Play It Loud/
 tags:
 - Techno
-title: Baruka – Play It Loud
+title: Baruka – Tócalo fuerte
 ---
 
 
-Barukaは、オランダ出身のテクノDJ/プロデューサー、Orlando Voorn（オーランド・ヴォールン）のプロジェクトの一つ。別名義で、Balance、Frequency、Basic Bastard、Fix、Dope Dog、Boy、Stalker、The Nighttripperなどがある。
+Baruka es uno de los proyectos del DJ y productor de techno holandés Orlando Voorn. Otros nombres incluyen Balance, Frequency, Basic Bastard, Fix, Dope Dog, Boy, Stalker y The Nighttripper.
 
-Orlando Voornの音楽は、テクノ、ドラムンベース、アンビエント、ヒップホップ、エレクトロなど、さまざまな要素がミックスされたスタイルが特徴。
+La música de Orlando Voorn se caracteriza por una mezcla de varios elementos, incluidos techno, drum'n'bass, ambient, hip-hop y electro.
 
-A面はSamuel L Session（サミュエル・エル・セッション）のリミックス。
+El lado A es un remix de Samuel L Session.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Play It Loud (SLS Mix)
 
@@ -32,7 +33,7 @@ D1. Play It Loud (Original Mix)
 D2. Play It Loud (Baruka Have A Break Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27275378332?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27275378332?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/krYUQVtZJx0?si=nD4MmJf7E3DkFBsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/krYUQVtZJx0?si=nD4MmJf7E3DkFBsC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

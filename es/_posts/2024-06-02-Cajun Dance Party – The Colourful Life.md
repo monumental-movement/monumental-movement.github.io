@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Cajun Dance Party – The Colourful Life.webp
 lang: es
 layout: post
+permalink: /es/2024-06-02-Cajun Dance Party – The Colourful Life/
 tags:
 - Rock
 - UK Rock
 - Alternative
 - Indie Rock
-title: Cajun Dance Party – The Colourful Life
+title: Fiesta de baile cajún – La vida colorida
 ---
 
 
-Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・ロンドン出身の5ピースロックバンド。
+Cajun Dance Party es una banda de rock de cinco integrantes de Londres, Inglaterra.
 
-2008年にレーベルXL Recordingsからリリースしたデビューアルバム「The Colourful Life」は、イギリスのロックバンドSuede（スウェード）のBernard Butler（バーナード・バトラー）がプロデュース。
-このアルバムをリリース後、Reading and Leeds（レディング アンド リーズ）, Glastonbury（グラストンベリー）, Oxegen（オクセゲン）, サマーソニックなど世界の様々なフェスティバルに出演した。
+Su álbum debut, "The Colorful Life", lanzado con el sello XL Recordings en 2008, fue producido por Bernard Butler de la banda de rock británica Suede.
+Después de lanzar este álbum, actuaron en varios festivales de todo el mundo, incluidos Reading y Leeds, Glastonbury, Oxegen y Summer Sonic.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Colourful Life
 2. The Race
@@ -34,7 +35,7 @@ Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・�
 11. The Parachute
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QxomqUKyb7U?si=DXv8PVgOBRAXBsKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxomqUKyb7U?si=DXv8PVgOBRAXBsKg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

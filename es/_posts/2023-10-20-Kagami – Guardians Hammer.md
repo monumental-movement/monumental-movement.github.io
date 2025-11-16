@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Kagami – Guardians Hammer.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-Kagami – Guardians Hammer/
 tags:
 - Techno
-title: Kagami – Guardians Hammer
+title: Kagami – Martillo de los Guardianes
 ---
 
 
-「Kagami – Guardians Hammer」は、テクノ/ディスコ/ハウスレーベルCarizmaより2008年にリリースされた。
+"Kagami – Guardians Hammer" fue lanzado en 2008 en el sello techno/disco/house Carizma.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Guardians Hammer
 
 B. Last Resorts Spartan
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
 

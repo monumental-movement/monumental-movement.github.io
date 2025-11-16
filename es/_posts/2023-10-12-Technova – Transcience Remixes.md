@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Technova – Transcience Remixes.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Technova – Transcience Remixes/
 tags:
 - Techno
 - Rare
-title: Technova – Transcience Remixes
+title: Technova – Remezclas de tranciencia
 ---
 
 
-TechnovaことDavid Harrow（デビッド・ハロウ）は、イギリスのキーボード奏者であり、Anne Clark（アン・クラーク）との仕事でも知られているミュージシャン。
+David Harrow, también conocido como Technova, es un teclista y músico británico conocido por su trabajo con Anne Clark.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Yeah Sista (Drum & Bass Style)
 
@@ -25,7 +26,7 @@ B1. Yeah Sista (303 Version)
 B2. Firehorse One (Original Soundtrack Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92224497926?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m92224497926?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jM29XqSiUIs?si=T2xpKEMZNkU8sD4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jM29XqSiUIs?si=T2xpKEMZNkU8sD4b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

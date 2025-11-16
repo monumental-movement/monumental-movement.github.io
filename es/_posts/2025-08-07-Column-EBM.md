@@ -5,131 +5,132 @@ categories:
 image: ../assets/images/column-ebm.webp
 lang: es
 layout: post
+permalink: /es/2025-08-07-Column-EBM/
 tags:
 - EBM
 - 80s
 - 90s
-title: 【コラム】 EBM：鋼鉄のビートが駆動する電子の肉体性
+title: '[Columna] EBM: fisicalidad electrónica impulsada por ritmos de acero'
 ---
 
 
-## Electronic Body Music（エレクトロニック・ボディ・ミュージック）とは何か？
+## ¿Qué es la Música Corporal Electrónica?
 
 
 
-文：mmr｜テーマ：エレクトロニック・ボディ・ミュージックとは何か？
+Texto: mmr｜Tema: ¿Qué es la música electrónica para el cuerpo?
 
 
-
-
-<hr>
-
-### 起源：産業の残響と機械の律動
-EBMは1980年代初頭、ヨーロッパ（主にベルギーとドイツ）で誕生した電子音楽のジャンルです。名前の由来は、身体的（Body）なダンス・グルーヴと、エレクトロニクスによって構成された音楽であることにあります。これはIndustrial（インダストリアル）ミュージックとエレクトロニック・ダンスミュージックの融合といえるでしょう。
-
-特に以下の2組がその先駆けとして知られています：
-
-- [**Front 242**](https://amzn.to/4oiO6zQ)（ベルギー）
-
-- [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
-
-彼らは冷たく鋭いエレクトロニクス、暴力的とも言えるミニマルビート、ミリタントなボーカルを駆使し、従来のポップスやロックとは異なる、新たな「肉体的電子音楽」を構築しました。
 
 
 <hr>
 
-### サウンドの特徴
-EBMのサウンドは、一言で言えば「無機質で肉体的」。以下の要素が特徴です：
+### Origen: Reverberaciones industriales y ritmos mecánicos.
+EBM es un género de música electrónica que se originó en Europa (principalmente Bélgica y Alemania) a principios de los años 1980. El nombre proviene del hecho de que la música se compone de un ritmo de baile físico y electrónica. Esto puede describirse como una fusión de música industrial y música electrónica de baile.
 
+En particular, se conocen como pioneros a los siguientes dos grupos:
 
-#### ハードでミニマルなビート
+- [**Frente 242**](https://amzn.to/4oiO6zQ) (Bélgica)
 
-- 主に4/4拍子、BPMは120〜140程度
+- [**DAF**](https://amzn.to/4ogYOH1) (Deutsch Amerikanische Freundschaft, Alemania)
 
-- 工業機械のようなメカニカルなリズム
-
-- ドラムマシン（Roland TR-808, TR-909など）を多用
-
-
-<hr>
-
-#### シンセサイザーとシーケンサー
-
-- モノクロームで暗く、重厚なシンセ音
-
-- アナログ／デジタルのシーケンサーで動くループ構成
-
-- 繰り返しが生むトランス状態と身体性の両立
+Al hacer pleno uso de la electrónica fría y afilada, los ritmos minimalistas violentos y las voces militaristas, crearon un nuevo tipo de "música electrónica física" que se diferencia del pop y el rock convencionales.
 
 
 <hr>
 
-#### ボーカル
-
-- 多くは男性による低音の無機質なボイス
-
-- 歌うというよりは命令口調、スローガン的に語る
-
-- しばしばドイツ語や英語、仏語が混ざる
-
-- ディストーション処理された声も多い
+### Características del sonido
+En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los siguientes elementos:
 
 
-<hr>
+#### Ritmo duro y minimalista
 
-#### テーマと美学
+- Principalmente tipo de compás 4/4, BPM alrededor de 120-140
 
-- 戦争、監視、機械化、人間疎外、政治的アイロニー
+- Ritmo mecánico como maquinaria industrial.
 
-- 冷戦下のヨーロッパの不安や社会構造批評
-
-- 工場、都市、軍服、フェティシズム、レザー文化
+- Uso intensivo de cajas de ritmos (Roland TR-808, TR-909, etc.)
 
 
 <hr>
 
-### 主なアーティストと作品
+#### Sintetizadores y secuenciadores
+
+- Sonido de sintetizador monocromático, oscuro y pesado.
+
+- Configuración de bucle impulsada por secuenciador analógico/digital
+
+- Equilibrar el estado de trance y la fisicalidad creada por la repetición.
+
+
+<hr>
+
+#### voz
+
+- Voces bajas e inorgánicas, en su mayoría voces masculinas.
+
+- Habla en un tono autoritario, más como un eslogan que como un canto.
+
+- A menudo mezclado con alemán, inglés y francés.
+
+- Muchas voces están distorsionadas.
+
+
+<hr>
+
+#### Tema y estética.
+
+- Guerra, vigilancia, mecanización, alienación humana, ironía política.
+
+- Ansiedad europea y crítica de la estructura social durante la Guerra Fría
+
+- Fábricas, ciudades, uniformes militares, fetichismo, cultura del cuero.
+
+
+<hr>
+
+### Principales artistas y obras
 
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>アーティスト</th>
-      <th>国</th>
-      <th>代表曲 / アルバム</th>
+<th>Artista</th>
+<th>País</th>
+<th>Canción/álbum representativo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Front 242</td>
-      <td>ベルギー</td>
-      <td>“Headhunter”, Geography (1982)</td>
+<td>Frente 242</td>
+<td>Bélgica</td>
+<td>“Headhunter”, Geografía (1982)</td>
     </tr>
     <tr>
-      <td>DAF</td>
-      <td>ドイツ</td>
-      <td>“Der Mussolini”, Alles ist gut (1981)</td>
+<td>DAF</td>
+<td>Alemania</td>
+<td>“Der Mussolini”, Alles ist gut (1981)</td>
     </tr>
     <tr>
-      <td>Nitzer Ebb</td>
-      <td>イギリス</td>
-      <td>“Join in the Chant”, That Total Age (1987)</td>
+<td>Reflujo de Nitzer</td>
+<td>Reino Unido</td>
+<td>“Únete al canto”, Esa edad total (1987)</td>
     </tr>
     <tr>
-      <td>Klinik</td>
-      <td>ベルギー</td>
-      <td>“Moving Hands”</td>
+<td>Clínica</td>
+<td>Bélgica</td>
+<td>“Manos en movimiento”</td>
     </tr>
     <tr>
-      <td>Skinny Puppy</td>
-      <td>カナダ</td>
-      <td>“Assimilate”</td>
+<td>Cachorro flaco</td>
+<td>Canadá</td>
+<td>“Asimilar”</td>
     </tr>
     <tr>
-      <td>Die Krupps</td>
-      <td>ドイツ</td>
-      <td>EBMからメタル融合まで進化</td>
+<td>Los Krupps</td>
+<td>Alemania</td>
+<td>Evolución de la EBM a la fusión de metales</td>
     </tr>
   </tbody>
 </table>
@@ -137,77 +138,77 @@ EBMのサウンドは、一言で言えば「無機質で肉体的」。以下�
     
 <hr>
 
-### シーンの広がりと影響
-EBMは1980年代後半〜1990年代初頭にかけて、クラブシーンやアンダーグラウンドで急速に広がります。特にドイツ、スウェーデン、オーストリア、フランスなど、ヨーロッパ各地のエレクトロニック・ミュージックシーンに強い影響を与えました。
+### Difusión e influencia de la escena.
+La EBM se extendió rápidamente en la escena de clubes y underground desde finales de los 80 hasta principios de los 90. Tuvo una fuerte influencia en la escena de la música electrónica en varias partes de Europa, especialmente en Alemania, Suecia, Austria y Francia.
 
-また、EBMは以下のジャンルにも多大な影響を与えました：
+La EBM también ha tenido una gran influencia en los siguientes géneros:
 
-- インダストリアル・ロック／メタル（例：[Ministry](https://amzn.to/47pfJBC)、[Nine Inch Nails](https://amzn.to/4nPTgDL)、[Rammstein](https://amzn.to/46ReLxY)）
+- Rock/metal industrial (por ejemplo, [Ministerio](https://amzn.to/47pfJBC), [Nine Inch Nails](https://amzn.to/4nPTgDL), [Rammstein](https://amzn.to/46ReLxY))
 
-- テクノ、アシッドテクノ
+- Techno, techno ácido
 
-- エレクトロクラッシュ、ダークエレクトロ、アグロテック
+- Electrocrush, Electro Oscuro, Aggrotech
 
-- ゴス／インダストリアル・クラブカルチャー（サイバーゴス）
-
-
-<hr>
-
-### クラブカルチャーとの接点：Body MusicとしてのEBM
-EBMは決して家庭内で聴かれるためだけの音楽ではなく、「踊るための音楽」としての側面が非常に強いです。1980年代後半以降、EBMは特定のナイトクラブやフェスティバル（例：Wave-Gotik-Treffen、Amphi Festival）を中心に、ダークウェア、レザー、サイバーな衣装と共に踊られる文化として定着しました。
-
-90年代に入ると、**“Old School EBM”**として回顧される一方で、シーンは以下のような形で枝分かれします：
-
-- Futurepop（[VNV Nation](https://amzn.to/4942pDT)、[Covenant](https://amzn.to/4n5mRYq)など）
-
-- Dark Electro / Harsh EBM（[Suicide Commando](https://amzn.to/3W1sPPd)、[Hocico](https://amzn.to/4oiOwWW)など）
-
-- Techno Body Music (TBM)：テクノDJによるEBMリバイバル（[Helena Hauff](https://amzn.to/46RgP9c)、[Ancient Methods](https://amzn.to/47ucub9)）
+- Cultura gótica/club industrial (Cybergoth)
 
 
 <hr>
 
-### 近年のリバイバルと現在のEBM
-2010年代以降、テクノ・インダストリアルのリバイバルと共に、EBMの再評価が進行しています。
+### Conexión con la cultura de club: EBM como música corporal
+La EBM no es sólo música para escuchar en casa, sino que tiene un aspecto muy fuerte como "música para bailar". Desde finales de la década de 1980, la EBM se ha convertido en una cultura establecida, centrada en clubes nocturnos y festivales específicos (por ejemplo, Wave-Gotik-Treffen, Amphi Festival), acompañados de ropa oscura, cuero y disfraces cibernéticos.
+
+En la década de 1990, aunque se la consideraba **“EBM de la vieja escuela”**, la escena se diversificó en lo siguiente:
+
+- Futurepop ([Nación VNV](https://amzn.to/4942pDT), [Covenant](https://amzn.to/4n5mRYq), etc.)
+
+- Dark Electro / Harsh EBM ([Comando suicida](https://amzn.to/3W1sPPd), [Hocico](https://amzn.to/4oiOwWW), etc.)
+
+- Techno Body Music (TBM): resurgimiento de la EBM a cargo de DJs de techno ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
 
 
 <hr>
 
-#### 現代アーティスト
-
-- [Phase Fatale](https://amzn.to/4qaNDkT)
-
-- [Kris Baha](https://amzn.to/474K3Qx)
-
-- [Boy Harsher](https://amzn.to/4n9b5MT)
-
-- [Linea Aspera](https://amzn.to/4nMw7lj)
-
-- [Years of Denial](https://amzn.to/46OccN4)
-
-これらのアーティストはEBMの影響を受けながらも、コールドウェーブやシンセウェーブ、ポストパンクなどの要素と組み合わせ、新しい形のEBMを創出しています。
+### Renacimiento reciente y EBM actual
+Desde la década de 2010, junto con el resurgimiento tecnoindustrial, la EBM ha sido reevaluada.
 
 
 <hr>
 
-#### 特徴的なトレンド
+#### Artista Contemporáneo
 
-- アナログ機材やハードウェア・ライブの再注目
+- [Fase fatal](https://amzn.to/4qaNDkT)
 
-- インディペンデントなカセット／ヴァイナルのリリース
+- [Kris Baha] (https://amzn.to/474K3Qx)
 
-- ファッション面でのサイバー・パンク／DIY再興
+- [Chico más duro](https://amzn.to/4n9b5MT)
 
-- クラブ／レイヴでの「肉体的」なDJセットへの回帰
+- [Línea Aspera](https://amzn.to/4nMw7lj)
+
+- [Años de negación](https://amzn.to/46OccN4)
+
+Estos artistas están influenciados por la EBM, pero la combinan con elementos como el coldwave, el synthwave y el post-punk para crear nuevas formas de EBM.
 
 
 <hr>
 
-### 肉体と電子が融合する美学
-EBMはその名の通り、「エレクトロニックな身体音楽」です。それは単なるダンスミュージックではなく、政治性、機械性、身体性、反抗性を備えたトータルな表現形式でした。
+#### Tendencias distintivas
 
-現在、クラブカルチャーやフェス、DIYシーン、アート、ファッションに至るまで、EBMの影響は多方面に波及しています。
+- Reenfoque en equipos analógicos y presentaciones en vivo de hardware.
 
-そして何よりも——
-その無機質なリズムの中に宿る“熱”が、肉体を突き動かす。
-それこそが、EBMが持つ本質的な魅力なのです。
+- Lanzamientos independientes en casete/vinilo.
+
+- Resurgimiento del Cyberpunk/DIY en términos de moda.
+
+- Regreso a sesiones de DJ "físicas" en clubes/raves
+
+
+<hr>
+
+### Estética que fusiona cuerpo físico y electrónica
+Como sugiere el nombre, EBM es "música corporal electrónica". Era más que sólo música de baile, era una forma total de expresión: política, mecánica, física y rebelde.
+
+Actualmente, la influencia de la EBM se está extendiendo por muchos campos, desde la cultura de clubes y festivales hasta la escena del bricolaje, el arte y la moda.
+
+Y sobre todo——
+El “calor” que reside en ese ritmo inorgánico mueve el cuerpo.
+Ése es el atractivo esencial de la EBM.

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Swod – Sekunden.webp
 lang: es
 layout: post
+permalink: /es/2025-06-07-Swod – Sekunden/
 tags:
 - Modern Classical
 - Experimental
 - Minimal
-title: Swod – Sekunden
+title: swod – segundos
 ---
 
 
-Swod(スウォッド)は、ミュージシャンOliver DoerellとStephan Wöhrmannによるレコーディングプロジェクト。
+Swod es un proyecto de grabación de los músicos Oliver Doerell y Stephan Wöhrmann.
 
-Oliver Doerellは、Cummi Flu名義でも活動しているエレクトロニックミュージックを基調としたマルチ・インストゥルメンタリスト。Stephan Wöhrmannはモダンクラシカルなピアノ&ドラムプレイヤー。どちらもソロで、ダンス、映画、サウンドインスタレーション音楽を作曲している。
+Oliver Doerell es un multiinstrumentista basado en la música electrónica que también trabaja bajo el nombre de Cummi Flu. Stephan Wöhrmann es un pianista y baterista clásico moderno. Ambos son artistas solistas que componen música para danza, cine e instalaciones sonoras.
 
-「Sekunden」は、ドイツのレーベルCity Centre Officesから2007年にリリースされたミニマル・モダンクラシック・エクスペリメンタルアルバム。
+"Sekunden" es un álbum experimental clásico moderno minimalista lanzado en 2007 por el sello alemán City Center Offices.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Montauk
 2. Ja
@@ -35,7 +36,7 @@ Video1. Mamaev Kurgan
 Video2.Avtobus
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-C-UI1_tagY?si=58KxQ7II4ycQGbLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-C-UI1_tagY?si=58KxQ7II4ycQGbLh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

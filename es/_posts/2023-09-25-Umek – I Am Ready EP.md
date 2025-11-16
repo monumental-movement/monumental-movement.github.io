@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Umek – I Am Ready EP.webp
 lang: es
 layout: post
+permalink: /es/2023-09-25-Umek – I Am Ready EP/
 tags:
 - Techno
 - Electro
-title: Umek – I Am Ready EP
+title: Umek – Estoy listo EP
 ---
 
 
-I Am Ready EP」は、スロベニア出身のテクノDJおよびプロデューサーであるUmekによるEPです。
+I Am Ready EP es un EP de Umek, un DJ y productor de techno de Eslovenia.
 
-このEPには、Umekの特徴的なテクノサウンドが詰まっており、ダンサブルなビート、グルーヴィなベースライン、洗練されたシンセサウンドが特徴です。彼の楽曲は、パワフルでハイエナジーな要素とメロディアスな要素を組み合わせ、クラブシーンでのプレイに最適な楽曲となっています。
+Este EP está lleno del sonido techno característico de Umek, con ritmos bailables, líneas de bajo maravillosas y sonidos de sintetizador sofisticados. Sus canciones combinan elementos melódicos, poderosos y llenos de energía, lo que las hace perfectas para tocar en la escena de clubes.
 
-「I Am Ready EP」は、Umekのファンやテクノミュージック愛好家にとって、彼の音楽の最新の表現として注目される作品となっており、Umekの音楽の魅力と独自性を堪能することができます。彼のサウンドは、テクノミュージックの進化と革新に寄与しており、多くの人々にとって不可欠な存在となっています。
+"I Am Ready EP" es la última expresión de la música de Umek para los fans de Umek y los amantes de la música techno, permitiéndoles apreciar plenamente el encanto y la singularidad de la música de Umek. Su sonido ha contribuido a la evolución e innovación de la música techno y se ha convertido en una parte esencial de la vida de muchas personas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Am Ready
 
 B1. Music Ventilator
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H9qKpbQXzfA?si=jsDAkeWH0jFXQ4Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H9qKpbQXzfA?si=jsDAkeWH0jFXQ4Sn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Krafty Kuts – Uptight.webp
 lang: es
 layout: post
+permalink: /es/2024-10-20-Krafty Kuts – Uptight/
 tags:
 - Breakbet
 - 00s
-title: Krafty Kuts – Uptight / Where's The Noise
+title: Krafty Kuts – Uptight / ¿Dónde está el ruido?
 ---
 
 
-Krafty Kuts（クラフティー カッツ）こと Martin Reeves（マーティン・リーヴス）はブライトン出身のブレイクDJ＆プロデューサー。2006年にはブレイクス界最高賞ともいわれるBreakspoll AwardsでベストDJを受賞。
+Martin Reeves, también conocido como Krafty Kuts, es un destacado DJ y productor de Brighton. En 2006, ganó el premio al Mejor DJ en los premios Breakspoll, que se dice que es el premio más alto en el mundo del break.
 
-「Uptight / Where's The Noise」は2004年にDeepcut Recordingsからリリースされたブレイクビーツトラック。
+"Uptight / Where's The Noise" es una pista breakbeat lanzada por Deepcut Recordings en 2004.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Uptight
 
 B. Where's The Noise
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85482898551?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85482898551?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zlP580RNn2w?si=76O9pjSYugic3amb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zlP580RNn2w?si=76O9pjSYugic3amb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4dejzGEGI4?si=KMdVoM70lW5msbAn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4dejzGEGI4?si=KMdVoM70lW5msbAn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

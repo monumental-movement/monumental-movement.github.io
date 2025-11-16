@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/The Beatles – Revolver.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-The Beatles – Revolver/
 tags:
 - Rock
 - Psychedelic
-title: The Beatles – Revolver
+title: Los Beatles - Revólver
 ---
 
 
-「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
+Una canción notable de "Revolver" es "Eleanor Rigby". Esta conmovedora canción cuenta con un octeto de cuerdas y muestra el talento narrativo de Paul McCartney.
 
-アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
+Hay otra canción en el álbum llamada "Taxman". Esta canción fue escrita por George Harrison y contiene críticas al alto sistema fiscal en Gran Bretaña en ese momento. “Yellow Submarine” es otra canción popular.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Good Day Sunshine
 
@@ -48,7 +49,7 @@ B6. She Said She Said
 B7. Tomorrow Never Knows
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

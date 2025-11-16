@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Bill & Ben – 10 Of Funk.webp
 lang: es
 layout: post
+permalink: /es/2023-09-23-Bill & Ben – 10 Of Funk/
 tags:
 - Break Beat
 - Techno
-title: Bill & Ben – 10 Of Funk
+title: Bill y Ben – 10 de Funk
 ---
 
 
-Bill & Benの「10" Of Funk」は、リズミカルなビート、重いベースライン、シンコペーション、そして魂を揺さぶるホーンセクションなどファンクミュージックの要素が詰まった作品です。
+"10" Of Funk de Bill & Ben está lleno de elementos musicales funk: ritmos rítmicos, líneas de bajo pesadas, síncopa y una sección de viento conmovedora.
 
-ダンスフロアを沸かせるためのパワフルなビート、ユニークなリフ、グルーヴィなリズムなどBill & Benのファンキーでエンターテイニングなサウンドを堪能できます。
+Disfruta del sonido funky y entretenido de Bill & Ben, que incluye ritmos potentes, riffs únicos y ritmos maravillosos que emocionarán a la pista de baile.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. 10" Of Funk
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76971851665?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76971851665?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LOk7poXXquI?si=1Jx5CFv1ESSnVI5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LOk7poXXquI?si=1Jx5CFv1ESSnVI5v" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

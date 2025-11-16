@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Fischerspooner – Emerge.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Fischerspooner – Emerge/
 tags:
 - Minimal
 - Electro
-title: Fischerspooner – Emerge
+title: Fischerspooner – Emerger
 ---
 
 
-「Emerge」は、アメリカのエレクトロニックデュオ、フィッシャースプーナー（Fischerspooner）による楽曲です。この曲は、彼らのデビューアルバム「# 1」（2001年）に収録されています。
+"Emerge" es una canción del dúo electrónico estadounidense Fischerspooner. Esta canción está incluida en su álbum debut "#1" (2001).
 
-「Emerge」は、ダンスミュージックとアートパフォーマンスの要素を組み合わせたフィッシャースプーナーの特徴的なサウンドを体現しています。曲は、ミニマルでグルーヴィなビート、シンセサイザーのリフ、独特なヴォーカルスタイルが特徴です。
+"Emerge" encarna el sonido característico de Fischer Spooner, combinando elementos de música de baile y actuación artística. La canción presenta un ritmo minimalista y maravilloso, riffs de sintetizador y un estilo vocal único.
 
-「Emerge」は、ダークでエモーショナルな雰囲気を持ちながらも、ダンスフロアでの盛り上がりを追求した楽曲として知られています。疾走感のあるリズムとユニークなサウンドスケープが組み合わさり、聴く人々を魅了します。
+"Emerge" es conocida como una canción que busca la emoción en la pista de baile mientras tiene una atmósfera oscura y emotiva. La combinación de ritmos trepidantes y paisajes sonoros únicos cautiva a los oyentes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Emerge
 
 B. Emerge (Adult Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i70xb7i4Dmc?si=LrTDhhKq5bpfj6sN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i70xb7i4Dmc?si=LrTDhhKq5bpfj6sN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

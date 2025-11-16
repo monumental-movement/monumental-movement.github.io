@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Adam Beyer – Tasty Bits.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Adam Beyer – Tasty Bits/
 tags:
 - Techno
 - Minimal
-title: Adam Beyer – Tasty Bits
+title: Adam Beyer - Trozos sabrosos
 ---
 
 
-90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースされた２枚組。
+Un conjunto de dos discos lanzado en 1997 por el sello Drumcode dirigido por el DJ y productor de techno sueco Adam Beyer, quien fue una figura central en la escena del techno minimalista sueco a finales de los noventa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Untitled
 
@@ -33,7 +34,7 @@ D1. Untitled
 D2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35726610630?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35726610630?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8Kctoan5dM?si=pjFlW2ar6Q3XgzYR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p8Kctoan5dM?si=pjFlW2ar6Q3XgzYR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

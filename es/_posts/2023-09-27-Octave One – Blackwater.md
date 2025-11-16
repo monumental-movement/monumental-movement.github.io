@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Octave One – Blackwater.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Octave One – Blackwater/
 tags:
 - Techno
 - Remix
-title: Octave One – Blackwater (Alter Ego Remixes)
+title: Octava Uno – Blackwater (Alter Ego Remixes)
 ---
 
 
-Octave One代表作のBlackwaterのリミックスです。
+Este es un remix de la obra maestra de Octave One, Blackwater.
 
-ジャーマンテクノシーンの大ベテラン、 Jorn Elling WuttkeとRoman FlugelによるAlter Egoリミックスは秀逸。
+El remix de Alter Ego de los veteranos de la escena techno alemana Jorn Elling Wuttke y Roman Flugel es excelente.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Blackwater (Alter Ego Vocal Mix)
 
 B. Blackwater (Alter Ego Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73391781068?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73391781068?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/687F3j2nZ-4?si=2ajm1apVr5h5OHnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/687F3j2nZ-4?si=2ajm1apVr5h5OHnY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

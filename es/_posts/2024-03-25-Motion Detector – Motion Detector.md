@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Motion Detector – Motion Detector.webp
 lang: es
 layout: post
+permalink: /es/2024-03-25-Motion Detector – Motion Detector/
 tags:
 - House
 - DUB
 - 00s
-title: Motion Detector – Motion Detector
+title: Detector de movimiento – Detector de movimiento
 ---
 
 
-アメリカのレーベルLosonofono Recordsから2002年にリリースされたMotion Detector（モーションディテクター）のハウス・ダブトラック。
+Una pista house dub de Motion Detector lanzada en 2002 por el sello estadounidense Losonofono Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Dubtrain
 
 B. Banaras Ghat
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69381674857?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69381674857?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aDizbl1agGk?si=BynfWTfuVNJ57iTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aDizbl1agGk?si=BynfWTfuVNJ57iTr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

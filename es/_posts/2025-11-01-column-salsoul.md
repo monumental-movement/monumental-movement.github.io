@@ -5,101 +5,102 @@ categories:
 image: ../assets/images/column-salsoul.webp
 lang: es
 layout: post
+permalink: /es/2025-11-01-column-salsoul/
 tags:
 - Experimental
 - Tribal
 - 70s
-title: 【コラム】 Salsoul OrchestraとMFSB ― フィラデルフィアからディスコへの進化
+title: '[Columna] Salsoul Orchestra y MFSB - Evolución de Filadelfia a la discoteca'
 ---
 
 
-## フィラデルフィアのストリングスが世界を踊らせた瞬間
+## El momento en que las cuerdas de Filadelfia hicieron bailar al mundo
 
 
-文：mmr｜テーマ：「ディスコ」の原型となる音楽革命について
+Texto: mmr｜Tema: Sobre la revolución musical que formó la base de la “discoteca”
 
-1970年代初頭、アメリカ東海岸の都市・フィラデルフィアで、後に「ディスコ」の原型となる音楽革命が起きた。  
-その中心にいたのが、**MFSB（Mother Father Sister Brother）**と**Salsoul Orchestra（サルソウル・オーケストラ）**。  
+A principios de la década de 1970, se produjo en Filadelfia, una ciudad de la costa este de Estados Unidos, una revolución musical que más tarde se convirtió en el prototipo de la "discoteca".
+En el centro de esto estaban **MFSB (Madre Padre Hermana Hermano)** y **Salsoul Orchestra**.
 
-彼らは、ストリングスとホーンをふんだんに取り入れたゴージャスなアレンジ、緻密なリズム・セクション、そしてソウルフルなスピリットを融合させ、「オーケストラ・ソウル」という新たなサウンドを確立した。  
-この系譜がのちに世界中のディスコ・カルチャーへと波及し、ハウス、ラテン、さらにはヒップホップのサンプリング文化へと受け継がれていく。
+Establecieron un nuevo sonido llamado "soul de orquesta" fusionando magníficos arreglos con muchas cuerdas y vientos, una sección rítmica detallada y un espíritu conmovedor.
+Este linaje se extendió más tarde a la cultura disco de todo el mundo y fue heredado por las culturas de muestreo house, latina e incluso hip-hop.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## フィラデルフィア・サウンドの胎動：Gamble & HuffとSigma Sound
+## El nacimiento del Philadelphia Sound: Gamble & Huff y Sigma Sound
 
-1960年代末、フィラデルフィアの音楽シーンを支えたのは、**Kenneth Gamble**と**Leon Huff**による**Philadelphia International Records (PIR)**。  
-彼らはモータウンに代わる新しい黒人音楽の中心地を目指し、**Sigma Sound Studios**を拠点に活動を開始した。
+A finales de la década de 1960, **Philadelphia International Records (PIR)**, de **Kenneth Gamble** y **Leon Huff**, apoyó la escena musical de Filadelfia.
+Comenzaron sus actividades en **Sigma Sound Studios**, con el objetivo de reemplazar a Motown como un nuevo centro de música negra.
 
-録音を支えたのが、専属セッション集団――**MFSB**である。  
-MFSBのメンバーには以下のような錚々たる顔ぶれがいた：
+La grabación contó con el apoyo de un grupo de sesión exclusivo: **MFSB**.
+Los miembros de MFSB incluyeron los siguientes:
 
-- Earl Young（ドラム）
-- Norman Harris（ギター）
-- Ronnie Baker（ベース）
-- Bobby Eli（ギター）
-- Vincent Montana Jr.（ヴィブラフォン／アレンジャー）
+- Earl Young (batería)
+-Norman Harris (guitarra)
+-Ronnie Baker (bajo)
+-Bobby Eli (guitarra)
+- Vincent Montana Jr. (vibráfono/arreglista)
 
-これらのプレイヤーが織りなす滑らかなグルーヴは、**「TSOP（The Sound of Philadelphia）」**として世界的なブランドになった。
-
----
-
-## MFSB ― ストリングスがグルーヴを支配する瞬間
-
-1973年、MFSB名義のアルバム『**Love Is The Message**』が登場。  
-同名曲はソウル史を代表するアンセムとなり、ディスコ黎明期のDJたちにとって“定番の橋渡し曲”として愛された。
-
-Earl Youngが叩き出す“四つ打ち”のリズム――これこそ後にディスコ、そしてハウスの基本ビートとなるものだった。  
-さらにVincent Montana Jr.のヴァイブとストリングス・アレンジが、黒人音楽のリズムにクラシック的な優雅さを与えた。  
-
-MFSBは単なるバンドではなく、**「スタジオ・オーケストラ」**という新しい概念の具現者だったのである。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vYjkjpUor9M?si=6apW0wVkoEBW6BL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Los suaves ritmos creados por estos músicos se convirtieron en una marca mundial conocida como "TSOP (El sonido de Filadelfia)".
 
 ---
 
-## Salsoul Orchestraの誕生：フィリー・サウンドの独立宣言
+## MFSB - El momento en que las cuerdas dominan el ritmo
 
-1975年、MFSBを離脱した**Vincent Montana Jr.**は、自らの理想を追求すべく**Salsoul Orchestra**を結成。  
-バックには**Salsoul Records**（創設者：Cayre兄弟）があり、ラテン要素を強く打ち出したディスコ・サウンドを志向していた。
+En 1973, se lanzó el álbum ``**Love Is The Message**'' bajo el nombre de MFSB.
+La canción del mismo nombre se convirtió en un himno que representa la historia de Seúl y fue amada como una "canción puente estándar" por los DJ en los primeros días de la música disco.
 
-モンタナはPIRで培ったオーケストレーション技術を武器に、ラテン・パーカッションとストリングスを融合。  
-その結果、**「ディスコ＋オーケストラ＋サルサ」＝Salsoul**という独自の方程式を生み出す。  
+El ritmo "cuatro en la pista" de Earl Young fue lo que más tarde se convertiría en el ritmo básico de la música disco y house.
+Además, las vibraciones y los arreglos de cuerdas de Vincent Montana Jr. dieron a los ritmos de la música negra una elegancia clásica.
 
-代表曲「**Salsoul Hustle**」は、まさにその象徴。  
-コンガ、ティンバレス、ストリングス、ホーン、そしてミュート・ギターが絶妙に絡み合い、ラテンの陽気さとフィリーの洗練を同時に感じさせた。
+MFSB era más que una simple banda, era la encarnación de un nuevo concepto: una "orquesta de estudio".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HTJ87N8DkLA?si=CkAZysbSjsJ11h0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## Vincent Montana Jr. ― 職人の美学とディスコの理想郷
-
-モンタナのアレンジ哲学は明快だった。  
-> 「オーケストラはクラブを支配するための武器だ。ヴァイブ、ハープ、ストリングスをグルーヴの中で踊らせる。」
-
-彼の理想は「優雅に踊る音楽」。  
-ストリート発祥のダンス文化にクラシック的な構築美を与え、音楽を“上品な祝祭”へと昇華させた。  
-
-一方で、その徹底した完璧主義はスタジオ・ミュージシャンたちを緊張させるほどで、録音は常に数十テイクにも及んだという。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vYjkjpUor9M?si=6apW0wVkoEBW6BL-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## Keyトラック解析
+## El nacimiento de la Orquesta Salsoul: una declaración de independencia para Philly Sound
+
+En 1975, **Vincent Montana Jr.** dejó MFSB y formó **Salsoul Orchestra** para perseguir sus ideales.
+Respaldados por **Salsoul Records** (fundadores: hermanos Cayre), buscaron un sonido disco con fuertes elementos latinos.
+
+Montana utiliza las habilidades de orquestación que cultivó en PIR para fusionar percusión latina y cuerdas.
+Como resultado, se creó una ecuación única: **Disco+Orquesta+Salsa=Salsoul**.
+
+La canción representativa "**Salsoul Hustle**" es un símbolo perfecto de esto.
+Congas, timbales, cuerdas, trompetas y guitarras apagadas se entrelazan exquisitamente, creando una sensación de alegría latina y sofisticación de Filadelfia al mismo tiempo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HTJ87N8DkLA?si=CkAZysbSjsJ11h0i" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+## Vincent Montana Jr. - Estética artesanal y utopía disco
+
+La filosofía de arreglos de Montana era clara.
+> "La orquesta es tu arma para dominar el club. Haz que las vibraciones, las arpas y las cuerdas bailen al ritmo".
+
+Su ideal es "música que baile con gracia".
+Dieron belleza arquitectónica clásica a la cultura de la danza que se originó en la calle y elevaron la música a un "festival elegante".
+
+Por otro lado, su extremo perfeccionismo ponía nerviosos a los músicos del estudio, y se dice que cada sesión de grabación requirió decenas de tomas.
+
+---
+
+## Análisis de seguimiento clave
 
 | 曲名 | 年 | 特徴 | 備考 |
 |------|----|------|------|
@@ -110,37 +111,37 @@ MFSBは単なるバンドではなく、**「スタジオ・オーケストラ�
 
 ---
 
-## サンプリング文化と再評価
+## Cultura de muestreo y reevaluación
 
-1980年代後半、ヒップホップがSalsoulの遺産を掘り返した。  
-「Love Break」のホーン・リフや「Ooh I Love It」のパーカッションは、Public Enemy『It Takes a Nation of Millions to Hold Us Back』やEric B. & Rakim『Paid in Full』で再構築された。  
+A finales de los 80, el hip-hop desenterró el legado de Salsoul.
+El riff de trompeta de "Love Break" y la percusión de "Ooh I Love It" fueron reinventados en "It Takes a Nation of Millions to Hold Us Back" de Public Enemy y en "Paid in Full" de Eric B. & Rakim.
 
-また1990年代には、Masters at Work（Louie Vega & Kenny Dope）がSalsoulのカタログを再編集し、ハウス文脈でリミックス。  
-Salsoulのアナログ盤は、クラブDJの“聖典”となった。
+También en la década de 1990, Masters at Work (Louie Vega y Kenny Dope) reelaboraron el catálogo de Salsoul y lo remezclaron en un contexto house.
+Los discos de vinilo de Salsoul se han convertido en el libro sagrado de los DJ de discoteca.
 
 ---
 
-## 年表：フィラデルフィアからサルソウルへの系譜
+## Cronología: genealogía desde Filadelfia hasta Salsoul
 
 <div class="mermaid">
 
-timeline
-    title フィラデルフィア・サウンドとSalsoulの系譜
-    1967 : Gamble & HuffがPhiladelphia International Records設立
-    1971 : MFSB結成、Sigma Soundで活動開始
-    1973 : 『Love Is The Message』リリース
-    1975 : Vincent Montana Jr.が脱退しSalsoul Orchestra結成
-    1976 : 『Nice ‘n Naasty』でディスコ黄金期へ
-    1977 : 「Runaway」がクラブ・ヒット
-    1980 : 「Love Break」発表、サンプリングの定番化
-    1992 : Masters at WorkがSalsoul Classicsをリミックス
-    2010s : 再評価とアナログ再発ブーム
+línea de tiempo
+título Philadelphia Sound y la genealogía de Salsoul
+1967: Gamble & Huff establecen Philadelphia International Records
+1971: Se formó MFSB y comenzó sus actividades con Sigma Sound.
+1973: Lanzamiento de “Love Is The Message”
+1975: Vincent Montana Jr. deja y forma Salsoul Orchestra.
+1976: Comienza la época dorada de la música disco con “Nice ‘n Naasty”
+1977: “Runaway” se convierte en un éxito de discoteca
+1980: Se lanza “Love Break”, el muestreo se convierte en estándar
+1992: Masters at Work remezcla clásicos de Salsoul
+Década de 2010: reevaluación y auge de la reedición analógica
 
 </div>
 
 ---
 
-### ディスコグラフィー（主要作品）
+### Discografía (obras principales)
 
 | 年    | アーティスト             | アルバム                     | リンク |
 | ---- | --------------------- | ------------------------- | ---- |
@@ -153,17 +154,17 @@ timeline
 
 ---
 
-## 結語：オーケストラ・ソウルの遺伝子
+## Conclusión: Genes del alma orquestal
 
-MFSBとSalsoul Orchestraは、黒人音楽史における「橋渡し役」である。
-彼らはソウルからディスコへの移行を、華麗で知的なサウンド設計によって実現した。
+La MFSB y la Salsoul Orchestra son "puentes" en la historia de la música negra.
+Hicieron la transición del soul a la discoteca con un diseño de sonido brillante e inteligente.
 
-クラブ・カルチャーの現在――ハウスやニューディスコの中にも、フィラデルフィアの血は確かに流れている。
-それは、**ストリングスがリズムを奏でる**という矛盾のような美しさ。
-モンタナの手によって生まれたその構築美は、いまなおダンスフロアの奥底で輝き続けている。
+La sangre de Filadelfia ciertamente fluye a través de la cultura de club actual: house y new disco.
+Es la belleza paradójica de **cuerdas tocando el ritmo**.
+La belleza arquitectónica creada por las manos de Montana continúa brillando en lo profundo de la pista de baile.
 
-> “The Sound of Philadelphia never dies—it just keeps dancing.”
-> ― Vincent Montana Jr.
+> “El sonido de Filadelfia nunca muere, simplemente sigue bailando”.
+> ―Vincent Montana Jr.
 
 
 ---

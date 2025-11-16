@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Onnazae – Dark Knight EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Onnazae – Dark Knight EP/
 tags:
 - Downtempo
 - Triphop
-title: Onnazae – Dark Knight EP
+title: Onnazae – Caballero Oscuro EP
 ---
 
 
-「Dark Knight EP」は、
-レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
+“El Caballero Oscuro EP” es
+Este es un EP de Onnazae, cuyo nombre real es Pete Prezzano, editado por el sello "Subtitled Records".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Dark Knight
 
@@ -25,5 +26,5 @@ B1. Take Easy
 B2. Take Easy (Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
 

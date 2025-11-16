@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/The Nolans –  Every Home Should Have One.webp
 lang: es
 layout: post
+permalink: /es/2023-10-27-The Nolans –  Every Home Should Have One/
 tags:
 - Disco
 - Nostalgic
 - 7inch
-title: The Nolans –  Every Home Should Have One
+title: 'Los Nolan: cada hogar debería tener uno'
 ---
 
 
-「The Nolans –  Every Home Should Have One」は、1981年に日本で開催されたコカ・コーラの懸賞の景品として配布されたシリーズのひとつです。
+“Los Nolan – Cada hogar debería tener uno” forma parte de una serie distribuida como premio en un sorteo de Coca-Cola realizado en Japón en 1981.
 
-レコードのタイトルは、ジャケットの前面では「あこがれアイ・アイ・アイ」、裏面では「あこがれアイ・アイ・アイ Every Home Should Have One」となっています。
+El título del disco es "Adored Aye Aye" en el frente de la chaqueta y "Adored Aye Aye Every Home Should Have One" en la parte posterior.
 
-レコードはA面 (レーベル面) のみ収録されており、B面 (グループのサイン入りカラー写真) には溝が切られていません。レコードは、透明な丸底のインナーレコード袋に入れられ、さらにアーティストの写真がついた外側の紙ジャケットに収められています。外側のジャケットの裏面には、アーティストの簡単な経歴 (日本語) と歌詞 (英語と日本語) が記載されています。
+El disco contiene sólo la cara A (cara de la etiqueta) y la cara B (fotografía en color firmada del grupo) no está ranurada. El disco está empaquetado en una bolsa interior transparente de fondo redondo y una funda exterior de papel con una fotografía del artista. La parte posterior de la chaqueta exterior incluye una breve biografía del artista (japonés) y letras (inglés y japonés).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Every Home Should Have One (あこがれアイ・アイ・アイ)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72093615038?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m72093615038?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S_5RIEiOm-k?si=rGc_1OAh0z98dJ4L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_5RIEiOm-k?si=rGc_1OAh0z98dJ4L" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

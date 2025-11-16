@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Rawcotiks – Nevertheless Real Heads.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Rawcotiks – Nevertheless Real Heads/
 tags:
 - Hiphop
 - 90s
-title: Rawcotiks – Nevertheless Real Heads
+title: Rawcotiks – sin embargo, cabezas reales
 ---
 
 
-「Rawcotiks – Nevertheless Real Heads」は、Opposition Recordsから1997年にリリースされました。
+"Rawcotiks - Yet Real Heads" se lanzó en 1997 en Opposition Records.
 
-Rawcotiksは、NYワシントン ハイツを拠点に活動していたドミニカ共和国のヒップホップ ミュージシャン、 Jeff Valentino（ジェフ ヴァレンティノ）と Bladmillo Castillo （ブラドミロ カスティージョ）のユニット。
+Rawcotiks es una unidad de los músicos dominicanos de hip-hop Jeff Valentino y Bladmillo Castillo con sede en Washington Heights, Nueva York.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Nevertheless (Radio Version)
 
@@ -31,7 +32,7 @@ B2. Real Heads (Street Version)
 B3. Real Heads (Instrumental Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53262349767?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOI-CkIg1ag?si=YwydBM4ogPLLLy6b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

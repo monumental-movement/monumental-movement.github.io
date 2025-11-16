@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Modjo – Chillin.webp
 lang: es
 layout: post
+permalink: /es/2024-04-13-Modjo - Chillin/
 tags:
 - House
 - French House
-title: Modjo - Chillin’
+title: Modjo - Relajándose
 ---
 
 
-「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
+"Modjo - Chillin'" es una canción lanzada en 2001 por el dúo francés Modjo. Esta canción está incluida en su álbum debut homónimo Modjo.
 
-「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。
+"Chillin'" es una canción que combina elementos de la música disco y house, con un ritmo ligero y maravilloso, una línea de bajo funky y voces cautivadoras.
 
-この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
+Esta canción se conoce como música pop dance que resuena con una atmósfera relajada y una melodía brillante.
 
-※UK盤とItaly盤がありますが、こちらはItaly盤となります。
+*Existe una versión para el Reino Unido y una versión italiana, pero esta es la versión italiana.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Chillin' (Original Extended Mix)
 
@@ -31,8 +32,8 @@ B2  The Art Of Chillin'
 Remix – Hervé Bordes
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=Z53-jrv0TmKW6CMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=Z53-jrv0TmKW6CMa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

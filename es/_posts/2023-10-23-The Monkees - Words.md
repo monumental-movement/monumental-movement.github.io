@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/The Monkees - Words.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-The Monkees - Words/
 tags:
 - Rock
 - Pops
 - 7inch
-title: The Monkees - Words
+title: Los Monos - Palabras
 ---
 
 
-The Monkees(ザ・モンキーズ)は、Davy Jones（デイビー・ジョーンズ) 、Micky Dolenz（ミッキー・ドレンツ) 、Mike Nesmith （マイク・ネスミス) Peter Tork（ピーター・トーク) の４人で結成されたUSロックバンド。The Monkeesが自ら出演する一話完結型のドタバタコメディTV番組『ザ・モンキーズ・ショー』とレコード販売を連動するメディアミックス戦略をとっていた。
+The Monkees es una banda de rock estadounidense formada por Davy Jones, Micky Dolenz, Mike Nesmith y Peter Tork. Tenían una estrategia de combinación de medios que vinculaba las ventas de discos con "The Monkees Show", un programa de televisión de comedia de un episodio en el que aparecían los propios Monkees.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Words
 
@@ -26,7 +27,7 @@ B1. A Little Bit Me, A Little Bit You
 B2. The Girl I Knew Somewhere
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4MhTAFljXKI?si=tPXBkHgcvv5FOUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4MhTAFljXKI?si=tPXBkHgcvv5FOUrl" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

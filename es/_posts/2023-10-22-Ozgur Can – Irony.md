@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Ozgur Can – Irony.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Ozgur Can – Irony/
 tags:
 - Trance
 - Progressive
-title: Özgür Can – Irony
+title: Özgür Can – Ironía
 ---
 
 
-Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
+Özgür Can es un productor y DJ de Suecia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Irony (Peter Dubs Mix)
 
 B. Irony (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44499781183?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44499781183?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-g7TT2elO7c?si=ZvB91f5pxwmed0UF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-g7TT2elO7c?si=ZvB91f5pxwmed0UF" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

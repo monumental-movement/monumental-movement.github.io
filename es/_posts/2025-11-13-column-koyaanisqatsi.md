@@ -5,117 +5,119 @@ categories:
 image: ../assets/images/column-koyaanisqatsi.webp
 lang: es
 layout: post
+permalink: /es/2025-11-13-column-koyaanisqatsi/
 tags:
 - Film
 - Minimal
 - 80s
-title: 【コラム】 映像と音の黙示録：『コヤニスカッツィ』とフィリップ・グラスの世界
+title: '[Columna] Apocalipsis de imágenes y sonidos: “Koyanisqatsi” y el mundo de
+  Philip Glass'
 ---
 
 
-## 序章：言葉なき映画が語るもの
+## Prólogo: Lo que dice una película sin palabras
 
 
-文：mmr｜テーマ：映像とミニマル音楽が融合した20世紀後半の芸術的マイルストーンについて
+Texto: mmr｜Tema: Sobre el hito artístico de la segunda mitad del siglo XX, donde se fusionaron el vídeo y la música minimalista.
 
-"ゴッドフリー・レッジオ監督、フィリップ・グラス音楽による『コヤニスカッツィ』は、20世紀後半の映像と音楽の地平を根底から変えた作品である。"
+"Koyanisqatsi, dirigida por Godfrey Reggio y con música de Philip Glass, es una obra que cambió fundamentalmente los horizontes del cine y la música en la segunda mitad del siglo XX."
 
-> “Life out of balance.”  
-> ― コヤニスカッツィ（ホピ語）
+> “Vida desequilibrada”.
+> ― Koyaanisqatsi (Hopi)
 
 
 
-1982年、アメリカの独立系映画界から、一風変わった長編ドキュメンタリーが現れた。  
-**『コヤニスカッツィ（Koyaanisqatsi）』** ——監督は**ゴッドフリー・レッジオ（Godfrey Reggio）**、音楽は**フィリップ・グラス（Philip Glass）**。
+En 1982, surgió de la escena del cine independiente estadounidense un largometraje documental inusual.
+**Koyaanisqatsi** --Dirigida por **Godfrey Reggio**, música de **Philip Glass**.
 
-この映画には、**ナレーションも台詞も存在しない**。  
-映し出されるのは、自然と人間社会の映像のみ。そしてそれらを貫くのは、グラスの**ミニマル・ミュージック**。  
-彼のリズム構造と反復の美学は、映像の流れと共鳴しながら、**「現代文明の異化」**を音として描き出す。
+No hay narración ni diálogo en esta película.
+Lo que se muestra son sólo imágenes de la naturaleza y la sociedad humana. Y lo que los atraviesa es la **música minimalista** de Glass.
+Su estructura rítmica y estética de la repetición, si bien resuenan con el flujo de las imágenes, representan la "transformación de la civilización moderna" en forma de sonido.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 ---
 
-## 第一章：黙示録としての映像詩
+## Capítulo 1: La poesía visual como apocalipsis
 
-映画のタイトル「Koyaanisqatsi」はホピ族の言葉で「バランスを失った生活」を意味する。  
-レッジオはこの言葉を、20世紀後半の産業社会・情報社会の象徴として掲げた。
+El título de la película, "Koyaanisqatsi", es una palabra hopi que significa "vida fuera de equilibrio".
+Reggio consideró esta palabra como símbolo de la sociedad industrial y de la información de la segunda mitad del siglo XX.
 
-冒頭の映像では、荒野にそびえる赤茶けた岩山が映し出され、静寂の中に低音の**コーラス “Koyaanisqatsi”** が響く。  
-やがて、人間の手による文明の機械音、都市の雑踏、そして消費社会の加速がリズムとして重なっていく。  
+En el vídeo de apertura, se muestra una montaña rocosa de color marrón rojizo que se eleva en el desierto, y el **estribillo grave ``Koyaanisqatsi''** resuena en el silencio.
+Con el tiempo, los sonidos de las máquinas de la civilización humana, el ajetreo y el bullicio de la ciudad y la aceleración de la sociedad de consumo comienzan a superponerse como un ritmo.
 
-> 自然と人工。静寂と過密。光と速度。  
-> この映画は「対比」の連続であり、それこそがメッセージである。
-
----
-
-## 第二章：フィリップ・グラスの音響構築
-
-グラスの音楽は、反復を基本とするが、単なる繰り返しではない。  
-微細な変化が積層することで、**「静止と運動のあわい」**を生み出す。  
-
-彼のスコアは、映像のカットやテンポと精密に同期しており、まるで**映像が音楽に編集されている**かのようだ。  
-実際、レッジオとグラスの制作プロセスでは、**映像と音が相互に呼応する編集**が行われた。  
-
-> 「私は音楽で編集し、映像で作曲した。」  
-> ― ゴッドフリー・レッジオ
+> Naturales y artificiales. Silencio y hacinamiento. luz y velocidad.
+> Esta película es una serie de contrastes, y ese es el mensaje.
 
 ---
 
-## 第三章：制作背景と技術的挑戦
+## Capítulo 2: La sólida construcción de Philip Glass
 
-撮影監督のロン・フリック（Ron Fricke）は、後に『バラカ』『サムサーラ』を手がける映像詩人でもある。  
-彼が開発した**タイムラプス撮影・スローモーション技法**は、当時まだ珍しいものであった。
+La música de Glass se basa en la repetición, pero no es sólo repetición.
+La superposición de cambios diminutos crea una **"diferencia entre quietud y movimiento"**.
 
-この映画は国家や企業の支援を受けず、**完全独立制作**として始まった。  
-資金難の中、音楽だけが先に完成し、その後に映像が編集されるという**逆転的プロセス**が採られたのも特筆すべき点である。
+Su partitura está precisamente sincronizada con los cortes y el tempo del metraje, como si el metraje hubiera sido editado para convertirlo en música.
+De hecho, el proceso de producción de Reggio y Glass implicó una edición en la que las imágenes y los sonidos hacían eco entre sí.
+
+> "Edité la música y compuse el video".
+> ― Godofredo Reggio
 
 ---
 
-## 年表：『コヤニスカッツィ』とフィリップ・グラスの軌跡
+## Capítulo 3: Antecedentes de producción y desafíos técnicos
+
+El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
+La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
+
+La película comenzó como una producción completamente independiente, sin apoyo estatal ni empresarial.
+También es de destacar que, en medio de dificultades financieras, se adoptó un proceso inverso en el que primero solo se completó la música y luego se editó el video.
+
+---
+
+## Cronología: “Koyanisqatsi” y la trayectoria de Philip Glass
 
 <div class="mermaid">
 
-timeline
-    title フィリップ・グラスとコヤニスカッツィの年表
-    1937 : フィリップ・グラス誕生（アメリカ・ボルチモア）
-    1965 : パリ音楽院に留学、ナディア・ブーランジェに師事
-    1970 : グラス・アンサンブル結成
-    1976 : 『Einstein on the Beach』（ロバート・ウィルソンと共作）初演
-    1977 : ゴッドフリー・レッジオと出会う
-    1979 : 『Koyaanisqatsi』撮影開始
-    1982 : 映画『Koyaanisqatsi』公開、音楽と映像の融合で話題に
-    1988 : 続編『Powaqqatsi』公開
-    2002 : 三部作完結『Naqoyqatsi』公開
-    2017 : 『Einstein on the Beach』再演、ミニマル音楽再評価の波
+línea de tiempo
+título Cronología de Philip Glass y Koyaanisqatsi
+1937: Nacimiento de Philip Glass (Baltimore, EE.UU.)
+1965: Estudió en el Conservatorio de París, con Nadia Boulanger.
+1970: Formación del conjunto de vidrio.
+1976: Se estrena "Einstein on the Beach" (coescrita con Robert Wilson)
+1977: Conoció a Godfrey Reggio
+1979: Comienza el rodaje de “Koyaanisqatsi”
+1982: Se estrena la película "Koyaanisqatsi" y se convierte en un tema candente debido a su fusión de música y vídeo.
+1988: Lanzamiento de la secuela “Powaqqatsi”
+2002: Lanzamiento de la trilogía completa “Naqoyqatsi”
+2017: Reedición de “Einstein on the Beach”, una ola de revalorización de la música minimalista
 
 </div>
 
 ---
 
-## 第四章：ミニマリズムとスピリチュアリティ
+## Capítulo 4: Minimalismo y Espiritualidad
 
-グラスの音楽は、西洋クラシックの形式を持ちながら、**東洋思想や瞑想音楽の影響**を深く受けている。
-特に、インド音楽家ラヴィ・シャンカルやチベット僧侶の声楽に影響を受けたリズム構造は顕著だ。
+La música de Glass tiene una forma clásica occidental, pero está profundamente influenciada por la filosofía oriental y la música meditativa.
+En particular, la estructura rítmica está influenciada por la música vocal del músico indio Ravi Shankar y los monjes tibetanos.
 
-レッジオもまた、修道院での経験を持つ精神的な人物であり、映画全体が**現代社会の「祈りなき祈り」**として構成されている。
+Reggio es también una figura espiritual con experiencia en un monasterio, y toda la película está estructurada como una "oración sin oración" para la sociedad moderna.
 
 ---
 
-## 第五章：映像構成と音楽の呼応関係
+## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
 
 | シーン         | 音楽モチーフ   | 意味・効果      |
 | ----------- | -------- | ---------- |
@@ -124,55 +126,55 @@ timeline
 | 顔のクローズアップ   | コーラスと減速  | 人間性の回復への問い |
 | 崩壊するロケット    | 静寂と減衰    | 文明の終焉と再生   |
 
-この表が示す通り、音楽は単なる伴奏ではなく、**映像の「感情的構文」**を構築している。
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
 
 ---
 
-## 第六章：現代への影響
+## Capítulo 6: Implicaciones para los tiempos modernos
 
-『コヤニスカッツィ』の影響は、後続の映像作品・音楽家・ゲーム・広告にまで及ぶ。
-例えば：
+La influencia de Koyaanisqatsi se extiende a trabajos en vídeo, músicos, juegos y anuncios posteriores.
+Por ejemplo:
 
-* **テレンス・マリック『ツリー・オブ・ライフ』**
-* **クリストファー・ノーラン『インターステラー』**
-* **シガー・ロス、マックス・リヒター、ブライアン・イーノ**などの現代作曲家群
-* **環境映像やVJ文化**にも直接的影響を与えた
+* **Árbol de la vida por Terrence Malick**
+* **Christopher Nolan “Interestelar”**
+* **Compositores contemporáneos como Sigur Rós, Max Richter, Brian Eno**
+* Influencia directa **películas ambientales y cultura VJ**
 
-この作品は単なる映画ではなく、「**視聴覚哲学書**」とも呼ぶべき存在になった。
+Esta obra no es sólo una película, sino que se ha convertido en algo que se puede llamar un ``**libro de filosofía audiovisual**''.
 
 ---
 
-## 図解：文明と自然のリズム構造
+## Ilustración: Estructura rítmica de la civilización y la naturaleza.
 
 <div class="mermaid">
 
-graph TD
-A[自然] -->|破壊・消費| B[都市]
-B -->|過剰・速度| C[機械社会]
-C -->|崩壊| D[静寂]
-D -->|再生・瞑想| A
+gráfico TD
+A[Naturaleza] -->|Destrucción/Consumo| B[Ciudad]
+B -->|Exceso/Velocidad| C [Sociedad de máquinas]
+C -->|Contraer| D[Silencio]
+D -->|Renacimiento/Meditación| A
 
 </div>
 
-> レッジオ＝グラスが提示したのは、破壊と再生のループ。
-> その終わりなきリズムは、グラスの音楽そのものでもある。
+> Lo que Reggio-Glass presentó fue un bucle de destrucción y renacimiento.
+> Ese ritmo interminable es también la música del propio cristal.
 
 ---
 
-## 第七章：音楽的分析 ―― 反復の中の変化
+## Capítulo 7: Análisis musical - Cambio en la repetición
 
-グラスの作曲技法「アディティヴ・プロセス」は、
-1フレーズの中で徐々に音符を増減させていく構造を持つ。
+Técnica compositiva del vidrio, ``Proceso aditivo''
+Tiene una estructura en la que el número de notas aumenta o disminuye gradualmente dentro de una frase.
 
-例：
+ejemplo:
 `123 → 1234 → 12345 → 2345 → 345`
 
-この微細な変化が、「静止しているのに進んでいる」という**時間の錯覚**を生む。
-それは、映像のスローモーションやタイムラプスの時間感覚と完全に呼応している。
+Estos pequeños cambios crean la ilusión del tiempo, en la que el objeto se mueve aunque esté estacionario.
+Corresponde perfectamente al sentido del tiempo en las películas a cámara lenta y a intervalos.
 
 ---
 
-## 第八章：『Qatsi三部作』の思想的連続性
+## Capítulo 8: Continuidad ideológica de la trilogía Qatsi
 
 | 作品                | 意味（ホピ語）      | 主題        |
 | ----------------- | ------------ | --------- |
@@ -180,33 +182,33 @@ D -->|再生・瞑想| A
 | **Powaqqatsi**    | 他者の生活を吸い取る生活 | グローバル化と搾取 |
 | **Naqoyqatsi**    | テクノロジーによる生活  | デジタル時代の喪失 |
 
-三部作全体で、レッジオとグラスは「現代の神話」を再構築したとも言える。
+Con la trilogía en su conjunto, se puede decir que Reggio y Glass han reconstruido un "mito moderno".
 
 ---
 
-## 終章：沈黙の中の再生へ
+## Capítulo final: Hacia un renacimiento en silencio
 
-『コヤニスカッツィ』のラストでは、打ち上げに失敗したロケットの残骸が、
-ゆっくりと地上に落ちていく。
-その中でグラスの音楽が静かに消えていく瞬間、観客はふと「静けさ」に包まれる。
+Al final de "Koyanisqatsi", los restos de un cohete que no logró lanzarse,
+Cae lentamente al suelo.
+En el momento en que la música de Glass se desvanece silenciosamente, el público se ve repentinamente envuelto en "silencio".
 
-それは、**文明の崩壊ではなく、再生のための余白**だ。
+No es el colapso de la civilización, sino un espacio en blanco para el renacimiento.
 
-> 音が止むとき、私たちはようやく世界を聴き始める。
+> Cuando el sonido se detiene, finalmente comenzamos a escuchar el mundo.
 
 ---
 
-## 参考文献・ディスコグラフィ
+## Referencias/Discografía
 
-* Philip Glass: *Koyaanisqatsi (Original Motion Picture Soundtrack)*, 1983.
-* Godfrey Reggio: *Koyaanisqatsi* (film), 1982.
-* Philip Glass: *Words Without Music* (Memoir), 2015.
-* Michael Nyman: *Experimental Music: Cage and Beyond*, 1974.
+* Philip Glass: *Koyaanisqatsi (Banda sonora original de la película)*, 1983.
+* Godfrey Reggio: *Koyaanisqatsi* (película), 1982.
+* Philip Glass: *Palabras sin música* (Memorias), 2015.
+* Michael Nyman: *Música experimental: Cage y más allá*, 1974.
 * Ron Fricke: *Baraka*, 1992 / *Samsara*, 2011.
 
 ---
 
-> **「Koyaanisqatsi」――それは私たち自身の鏡像である。**
+> **“Koyaanisqatsi” – es una imagen reflejada de nosotros mismos. **
 
 
 ---

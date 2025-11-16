@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Superfly – B With U.webp
 lang: es
 layout: post
+permalink: /es/2025-06-03-Superfly – B With U/
 tags:
 - Electronic
 - Hard Trance
 - 00s
-title: Superfly – B With U
+title: Superfly – B con U
 ---
 
 
-UKのR&BシンガーDee Jacobee の「I'm Alive」をアメリカのDJ・ハウスミュージックの
-リミキサーTodd TerryとD.A.R.C.がremixしたハウストラック。
+"I'm Alive" de la cantante británica de R&B Dee Jacobee interpretada por un DJ/artista de música house estadounidense
+Una pista house remezclada por los remezcladores Todd Terry y D.A.R.C.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. B With U
 
 B. Comedown
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77900628960?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77900628960?afid=6142608987){: .button1}

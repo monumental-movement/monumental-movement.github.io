@@ -5,69 +5,70 @@ categories:
 image: ../assets/images/column-research.webp
 lang: es
 layout: post
+permalink: /es/2025-10-02-Column-ReSearch/
 tags:
 - Industrial
 - Noise
 - Film
 - Zine
 - History
-title: 【コラム】 RE/Search：サブカルチャーを記録する雑誌と文化的影響
+title: '[Columna] RE/Buscar: Revistas que registran subculturas y su influencia cultural'
 ---
 
 
-##  V. ValeとRE/Search：サブカルチャーの探求者
+## V. Vale y RE/Search: Explorador de subculturas
 
-文：mmr｜テーマ：サブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産である「RE/Search」について
+Texto: mmr｜Tema: Acerca de “RE/Search”, un archivo histórico de subculturas y patrimonio cultural que registra música, películas y arte en todos los ámbitos.
 
 
-V. Valeは、1970年代後半から現在に至るまでサンフランシスコを拠点に活動する出版・編集者です。彼が手がけた『Search & Destroy』や『RE/Search』は、アンダーグラウンド文化を体系的に記録する重要なアーカイブとなりました。  
-本記事では、RE/Searchの歴史を年代別に振り返り、関連する音楽・映画・アートイベントを網羅します。
+V. Vale es un editor y editor radicado en San Francisco desde finales de los años 1970. Sus obras Search & Destroy y RE/Search se convirtieron en importantes archivos que registraron sistemáticamente la cultura underground.
+En este artículo, repasamos la historia de RE/Search por año y cubrimos eventos de música, películas y arte relacionados.
 
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## RE/Searchの起源と展開
+## Origen y desarrollo de RE/Search
 
-### Search & Destroy（1977–1979）
+### Buscar y destruir (1977-1979)
 
-パンク・ジンとして創刊。西海岸のパンクシーンを紹介し、のちのRE/Searchの基盤となった。
-
----
-
-### RE/Search創刊（1980–）
-
-1980年にスタート。インダストリアル音楽やアヴァンギャルド文化をテーマにしたインタビュー、レビューを掲載。  
-代表号として「Industrial Culture Handbook」「Modern Primitives」「Incredibly Strange Films」が知られる。
+Fundado como Punk Zine. Introdujo la escena punk de la costa oeste y luego se convirtió en la base de RE/Search.
 
 ---
 
-### 1990年代以降
+### RE/Search primer número (1980–)
 
-ボディモディフィケーション、カルト映画、サイバーパンクなどを特集。出版だけでなく、イベントや展覧会にも広がりを見せた。
-
----
-
-## RE/Searchの影響と文化的意義
-
-RE/Searchは、単なる出版物にとどまらず、サブカルチャーのアーカイブとしての役割も果たしています。Valeのインタビューやドキュメンタリーは、アンダーグラウンド文化の歴史を後世に伝える貴重な資料となっています。
+Iniciado en 1980. Contiene entrevistas y reseñas sobre temas de música industrial y cultura de vanguardia.
+Sus números representativos incluyen "Industrial Culture Handbook", "Modern Primitives" y "Incredfully Strange Films".
 
 ---
 
+### Desde la década de 1990
 
-## 年代別おすすめRE/Searchマガジン
+Con modificaciones corporales, películas de culto, cyberpunk y más. Se ha expandido más allá de la publicación para incluir eventos y exposiciones.
+
+---
+
+## El impacto y la importancia cultural de RE/Search
+
+RE/Search es más que una simple publicación; también sirve como archivo de subcultura. Las entrevistas y documentales de Vale son documentos valiosos que transmiten la historia de la cultura underground a las generaciones futuras.
+
+---
+
+
+## Revistas RE/Buscar recomendadas por grupo de edad
 
 | 雑誌タイトル | 発行年 | 主な内容・特徴 | 寄稿者 | リンク |
 |------|--------------|--------|----------------|---------------------------|------------|
@@ -80,7 +81,7 @@ RE/Searchは、単なる出版物にとどまらず、サブカルチャーの�
 
 ---
 
-## 年代別：関連音楽アルバム・映画・アートイベント
+## Por época: álbumes de música, películas y eventos artísticos relacionados
 
 | 年代 | アイテム | 種類 | 解説 | リンク |
 |------|----------|------|------|-------|
@@ -104,34 +105,34 @@ RE/Searchは、単なる出版物にとどまらず、サブカルチャーの�
 
 ---
 
-### RE/Searchの逸話と裏話
+### RE/Buscar anécdotas e historias internas
 
-RE/Searchの出版活動には数々の逸話が存在する。以下に代表的なものを挙げる。
+Hay muchas anécdotas sobre las actividades editoriales de RE/Search. A continuación se enumeran ejemplos típicos.
 
-- **Search & Destroyの誕生**  
-  ValeはサンフランシスコのCity Lights書店で働いていた際、Lawrence FerlinghettiとAllen Ginsbergの支援で『Search & Destroy』を創刊。パンクシーンのエネルギーを伝えることが目的だった。
+- **Nacimiento de Buscar y Destruir**
+Mientras trabajaba en la librería City Lights de San Francisco, Vale fundó Search & Destroy con la ayuda de Lawrence Ferlinghetti y Allen Ginsberg. El objetivo era transmitir la energía de la escena punk.
 
-- **Industrial Culture HandbookのDIY精神**  
-  電話と郵送でThrobbing GristleやCabaret Voltaireに直接インタビュー。レイアウトはValeがタイプライターで組み、印刷所に手渡しする手法で完成。
+- **El espíritu DIY del Manual de Cultura Industrial**
+Entrevistas directas con Throbbing Gristle y Cabaret Voltaire por teléfono y correo. Vale completó el diseño utilizando una máquina de escribir y entregándolo personalmente a la imprenta.
 
-- **Modern Primitivesが生んだ衝撃**  
-  身体改造を「芸術」として紹介。ピアスや刺青文化をタブーからカルチャーへと昇華させた。後のアートイベントやパフォーマンスにも直結した。
+- **Choque creado por los primitivos modernos**
+Introducir la modificación corporal como "arte". Elevó la cultura de los piercings y los tatuajes de tabú a cultura. Esto condujo directamente a eventos y representaciones artísticas posteriores.
 
-- **John Watersとの協力関係**  
-  『Incredibly Strange Films』制作時、ジョン・ウォーターズが多くの資料を提供。「Valeだけが私の映画を文化的価値として扱ってくれた」と述懐。
+- **Colaboración con John Waters**
+John Waters proporcionó muchos materiales durante la producción de Incredfully Strange Films. "Vale era el único lugar que consideraba que mis películas tenían valor cultural", recordó.
 
-- **Ballard特集とサブカル文学**  
-  1988年のJ.G. Ballard特集ではロンドンに渡航し直接インタビュー。Ballardは「自分の小説を読むのがパンク世代だとは思わなかった」と発言。
+- **Reportaje especial de Ballard y literatura sobre subculturas**
+En 1988 viajó a Londres para entrevistar a J.G. Ballard en persona. Ballard dijo: "Nunca pensé que las personas que leerían mis novelas serían la generación punk".
 
-- **資金難とZine文化の継続**  
-  発行部数は少なかったが、読者は世界中に広がり、Valeは「大量発行よりも熱狂的な読者が大事」と語った。
+- **Dificultades de financiación y continuación de la cultura fanzine**
+Aunque la circulación fue pequeña, los lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
 
-- **サンフランシスコとの共振**  
-  RE/Searchの周囲には、Survival Research LaboratoriesやOther Cinemaといった実験的集団が集い、Zineとアートのネットワークを構築した。
+- **Resonancia con San Francisco**
+Grupos experimentales como Survival Research Laboratories y Other Cinema se reunieron en torno a RE/Search, construyendo una red de revistas y arte.
 
 ---
 
-### まとめ
+### resumen
 
-V. ValeのRE/Searchは、単なる雑誌を超えてサブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産です。インダストリアルからモダンプリミティブ、カルト映画からサイバーパンクに至るまで、幅広い領域を探求し続けており、その影響は今なお世界中に波及しています。
-研究者やアンダーグラウンド文化愛好者にとって、RE/Searchは必読の資料といえるでしょう。
+RE/Search de V. Vale es más que una simple revista; es un archivo histórico de subcultura y un patrimonio cultural que atraviesa la música, el cine y el arte. Continúa explorando una amplia gama de campos, desde lo industrial hasta lo primitivo moderno, desde películas de culto hasta el cyberpunk, y su influencia continúa repercutiendo en todo el mundo.
+Para investigadores y entusiastas de la cultura underground, RE/Search es una lectura obligada.

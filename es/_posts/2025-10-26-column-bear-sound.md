@@ -5,62 +5,63 @@ categories:
 image: ../assets/images/column-bear-sound.webp
 lang: es
 layout: post
+permalink: /es/2025-10-26-column-bear-sound/
 tags:
 - Bear
 - Sound
-title: 【コラム】 クマ被害の拡大とサウンドによる影響
+title: '[Columna] Expansión del daño de los osos e impacto del sonido.'
 ---
 
 
-## 1. はじめに：クマ被害の現状と音の重要性
+## 1. Introducción: situación actual de los daños causados ​​por los osos y la importancia del sonido
 
 
-文：mmr｜テーマ：近年増加するクマによる被害を、音による影響と行動抑制の観点から分析。サウンドデザインが人間とクマの共生に果たす役割を考察
+Texto: mmr | Tema: Un análisis de los daños causados ​​por los osos, que ha ido aumentando en los últimos años, desde la perspectiva del impacto del ruido y el control del comportamiento. Examinando el papel del diseño sonoro en la convivencia de humanos y osos
 
-日本では近年、クマによる被害が急速に拡大している。農作物被害は年間約1,000件に達し、人的被害もここ10年で約2倍に増加している（環境省「野生動物による被害統計2024」）。これまでの物理的対策は十分ではなく、持続可能な被害抑制手法が求められる。
+En los últimos años, los daños causados ​​por los osos han aumentado rápidamente en Japón. Hay aproximadamente 1.000 casos de daños a los cultivos por año, y los daños humanos se han duplicado aproximadamente en los últimos 10 años (``Estadísticas de daños a animales salvajes 2024'' del Ministerio de Medio Ambiente). Las medidas físicas adoptadas hasta ahora no son suficientes y se necesitan métodos sostenibles de control de daños.
 
-注目されるのが、「音によるクマの行動制御」である。クマは聴覚が発達しており、人間の声や警告音、特定周波数の人工音に敏感に反応する。近年では、農家や自治体、研究機関での実証実験が増えており、科学的根拠に基づいた音響管理の可能性が広がっている。
+Lo que llama la atención es el "control del comportamiento de los osos a través del sonido". Los osos tienen un sentido del oído bien desarrollado y son sensibles a las voces humanas, los sonidos de advertencia y los sonidos artificiales en frecuencias específicas. En los últimos años, agricultores, gobiernos locales e instituciones de investigación han llevado a cabo un número cada vez mayor de experimentos de demostración, ampliando las posibilidades de una gestión racional basada en evidencia científica.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 2. クマの生態と行動特性
+## 2. Ecología y características de comportamiento de los osos.
 
-### 2.1 主なクマ種と分布
+### 2.1 Principales especies de osos y distribución
 
-- **ツキノワグマ（Ursus thibetanus）**：本州・四国・九州、体長120–150cm、樹上行動が得意、雑食性。  
-- **ヒグマ（Ursus arctos yesoensis）**：北海道、体長180–250cm、大型、魚類や小動物も摂取。  
+- **Oso negro asiático (Ursus thibetanus)**: Se encuentra en Honshu, Shikoku y Kyushu, longitud corporal de 120 a 150 cm, buen comportamiento arbóreo, omnívoro.
+- **Oso pardo (Ursus arctos yesoensis)**: Hokkaido, 180–250 cm de largo, grande, también consume peces y animales pequeños.
 
-両種とも夜行性だが、春や秋の食料探索期には昼間の活動も見られる。
+Ambas especies son nocturnas, pero también se puede observar actividad diurna durante las temporadas de caza de primavera y otoño.
 
-### 2.2 聴覚特性と音への反応
+### 2.2 Características auditivas y respuesta al sonido
 
-- 聴覚周波数帯域：200Hz–10kHz  
-- 人間の声（250–4000Hz）に反応可能  
-- 雷鳴・警戒音（1000–8000Hz）に敏感  
-- 自然界の低周波・高周波音も行動に影響
+- Banda de frecuencia de audición: 200 Hz–10 kHz
+- Puede responder a la voz humana (250–4000 Hz)
+- Sensible a truenos y sonidos de advertencia (1000–8000Hz)
+- Los sonidos de baja y alta frecuencia en la naturaleza también influyen en el comportamiento.
 
-### クマの聴覚特性
+### Características auditivas de los osos.
 
 <div class="mermaid">
 
-graph TD
-A["周波数帯域"] --> B["人間の声: 250–4000Hz"]
-A --> C["警戒音: 1000–8000Hz"]
-A --> D["自然界音: 低周波〜高周波"]
+gráfico TD
+A["Banda de frecuencia"] --> B["Voz humana: 250–4000Hz"]
+A --> C["Tono de advertencia: 1000–8000Hz"]
+A --> D["Sonidos naturales: frecuencias bajas a altas"]
 
 
 </div>
@@ -68,21 +69,21 @@ A --> D["自然界音: 低周波〜高周波"]
 
 ---
 
-## 3. 被害拡大の背景
+## 3. Antecedentes de la propagación del daño
 
-### 3.1 人口減少と里山放棄
+### 3.1 Disminución de la población y abandono de satoyama
 
-過疎化により山間部農地が放置され、クマの生息域が人里に近づいた。北海道では、放棄農地の面積が2000年から2020年で約30％増加しており、クマ出没の増加と相関している（北海道大学野生動物研究報告2023）。
+Debido a la despoblación, las tierras agrícolas de las zonas montañosas han quedado abandonadas y el hábitat de los osos se ha acercado a los asentamientos humanos. En Hokkaido, la superficie de tierras agrícolas abandonadas aumentó aproximadamente un 30 % entre 2000 y 2020, lo que se correlaciona con un aumento de los encuentros con osos (Informe de investigación sobre la vida silvestre de la Universidad de Hokkaido, 2023).
 
-### 3.2 農作物と森林資源の接近
+### 3.2 Proximidad de cultivos agrícolas y recursos forestales
 
-果樹園やナッツ林の増加により、クマが集落近くまで侵入するケースが増加。長野県の果樹園調査では、年間被害率が約12％に達する地域も存在する。
+Con el aumento de huertos y bosques de nueces, hay más casos de osos que invaden las comunidades. Un estudio de huertos en la prefectura de Nagano encontró que en algunas áreas, la tasa de daño anual alcanzó aproximadamente el 12%.
 
-### 3.3 気候変動の影響
+### 3.3 Impacto del cambio climático
 
-積雪量の減少や春先の果実生育の変動により、食料不足期に人里へ出没する傾向が増加。
+Debido a la disminución de las nevadas y las fluctuaciones en el crecimiento de los frutos a principios de la primavera, es más probable que visiten los asentamientos humanos durante los períodos de escasez de alimentos.
 
-### 3.4 地域別被害統計（2020–2024）
+### 3.4 Estadísticas de daños por región (2020-2024)
 
 | 地域  | 年間被害件数 | 農作物被害率 | 人的被害件数 |
 | --- | ------ | ------ | ------ |
@@ -93,127 +94,127 @@ A --> D["自然界音: 低周波〜高周波"]
 
 ---
 
-## 4. サウンドがクマに与える影響
+## 4. Efecto del sonido en los osos.
 
-### 4.1 音の種類と反応
+### 4.1 Tipos de sonido y reacciones
 
-- **笛**: 軽い回避行動
+- **Silbato**: Acción evasiva ligera
 
-- **人間の声**: 中程度回避
+- **Voz Humana**: Evasión Media
 
-- **爆竹**: 強い回避
+- **Petardo**: Evasión fuerte
 
-- **高周波電子音（8–10kHz）**: 実験的回避、慣れ防止が課題
+- **Sonido electrónico de alta frecuencia (8-10 kHz)**: evitar los experimentos y prevenir la habituación son problemas
 
 ---
 
-### 音の種類とクマ反応強度
+### Tipo de sonido y fuerza de reacción del oso.
 
 <div class="mermaid">
 
-graph LR
-A[笛] --> B[軽い回避]
-C[人間の声] --> D[中程度回避]
-E[爆竹] --> F[強い回避]
-G[高周波電子音] --> H[実験的回避]
+gráfico LR
+A[silbato] --> B[evasión de luz]
+C[Voz humana] --> D[Evasión moderada]
+E[Petardo] --> F[Fuerte Evasión]
+G[Sonido electrónico de alta frecuencia] --> H[Evitación experimental]
 
 </div>
 
 ---
 
-### 4.2 実験事例
+### 4.2 Ejemplo de experimento
 
-- **北海道果樹園（2015–2018）**: 爆竹使用により侵入率40％減
+- **Hokkaido Orchard (2015-2018)**: Tasa de invasión reducida en un 40% debido al uso de petardos
 
-- **九州電子音トライアル（2019–2021）**: 高周波装置使用で短期回避、長期では慣れが発生
+- **Prueba de sonido electrónico de Kyushu (2019-2021)**: evitación a corto plazo debido al uso de equipos de alta frecuencia, se produce una habituación a largo plazo
 
-- **東北AIスピーカー実証（2020–2023）**: クマ侵入前警告成功率65％
-
----
-
-## 5. 人間活動とサウンドの共生戦略
-
-### 5.1 センサー連動型警告音
-
-クマ接近時に自動で音響を発生。被害発生前に回避行動を促す。
-
-### 5.2 定期巡回サウンド
-
-人間の存在を知らせる音響装置で侵入意欲を減退。
-
-### 5.3 都市近郊応用
-
-長野県や北海道で導入済み。夜間巡回で人間の声＋電子音を使用し安全確保。
+- **Demostración de oradores de IA en Tohoku (2020-2023)**: Tasa de éxito de la advertencia previa a la invasión de osos: 65%
 
 ---
 
-## 6. サウンドデザインの未来
+## 5. Estrategia de convivencia entre actividades humanas y sonido
 
-### 6.1 AI・ドローン技術
+### 5.1 Sonido de advertencia vinculado al sensor
 
-AI解析で行動パターンに応じた音響発生。ドローン巡回で広範囲をカバー。
+Genera automáticamente un sonido cuando se acerca un oso. Fomentar acciones de evitación antes de que se produzcan daños.
 
-### 6.2 国際事例
+### 5.2 Sonido de patrulla regular
 
-- **米国カリフォルニア州**：電子音と人間声で侵入防止
+Un dispositivo de sonido que alerta a las personas de la presencia de humanos reduce su deseo de invadir.
 
-- **カナダBC州**：非致死的音響管理で農作物被害減少
+### 5.3 Aplicaciones urbanas y suburbanas
 
----
-
-## 7. 考察：人間とクマの関係性再定義
-
-被害対策は害獣駆除ではなく共生の問題
-
-音を介した対策は非致死的で有効
-
-- **課題**：慣れ・生態系影響・コスト
+Ya se ha introducido en la prefectura de Nagano y en Hokkaido. La seguridad se garantiza mediante el uso de voz humana y sonidos electrónicos durante las patrullas nocturnas.
 
 ---
 
-## 8. 結論
+## 6. El futuro del diseño de sonido
 
-クマ被害の拡大は、単なる野生動物の問題ではなく、人間社会の構造的変化の鏡でもある。過疎化・気候変動・森林利用の偏りなど、私たち自身が生み出した環境の歪みが、クマを山から追い出し、集落へと導いている。そうした現実の中で、サウンドによる被害抑制は「人と動物の関係を再設計するためのメディア」として、きわめて示唆的である。音は殺傷を伴わず、恐怖や学習を通じて行動を調整できる。つまり、それは暴力ではなく「共振」による制御であり、倫理的にも持続的な選択肢となりうる。
+### 6.1 Tecnología de IA/drones
 
-今後の課題は、単なる威嚇音ではなく、**地域固有の環境音や人間の生活音を織り込んだ「音響景観デザイン」**へと進化させることだ。AIが学習するクマの行動パターンと、地域の音文化や季節のリズムが結びつくとき、サウンドは警告を超えて「共存のインターフェース」となるだろう。科学的知見と文化的感性を併せ持つ音響政策こそが、これからの人間と野生の未来を形づくる鍵である。音で対話し、距離を保ち、生命圏全体の調和を取り戻す——それが、次の時代の「音の環境倫理」と言える。
+Generación de sonido según patrones de comportamiento mediante análisis de IA. Cubre un área amplia con patrullas de drones.
+
+### 6.2 Casos internacionales
+
+- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voz humana
+
+- **BC, Canadá**: La gestión acústica no letal reduce los daños a los cultivos
 
 ---
 
-### サウンドを用いた被害抑制事例（2000–2025）
+## 7. Discusión: Redefiniendo la relación entre humanos y osos
+
+El control de daños es una cuestión de convivencia, no de exterminio de plagas.
+
+Las contramedidas sólidas no son letales y son efectivas
+
+- **Desafíos**: Habituación, impacto en el ecosistema, costo.
+
+---
+
+## 8. Conclusión
+
+El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones ambientales que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas hacia las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
+
+El desafío para el futuro es convertirlo en un "diseño de paisaje acústico" que incorpore sonidos ambientales locales y sonidos de la vida humana, en lugar de simplemente un sonido amenazador. Cuando los patrones de comportamiento de los osos aprendidos por la IA se combinan con la cultura sonora local y los ritmos estacionales, el sonido irá más allá de una advertencia y se convertirá en una "interfaz para la coexistencia". Una política sólida que combine el conocimiento científico y la sensibilidad cultural es la clave para moldear el futuro de los humanos y la naturaleza. Comunicarse con el sonido, mantener la distancia y restaurar la armonía en toda la biosfera: esto puede denominarse la "ética ambiental del sonido" de la próxima era.
+
+---
+
+### Estudios de casos de control de daños mediante sonido (2000-2025)
 
 <div class="mermaid">
 
-timeline
-    title サウンド活用事例
-    2002 : 北海道農家が笛・爆竹試験
-    2010 : AIスピーカー試験導入（東北）
-    2015 : 高周波電子音トライアル（九州）
-    2020 : ドローン音響巡回システム導入（北海道）
-    2025 : 全国自治体で実証実験拡大
+línea de tiempo
+título Ejemplos de uso de sonido
+2002: Los agricultores de Hokkaido prueban silbatos y petardos
+2010: Introducción de la prueba de locutor de IA (Tohoku)
+2015: Prueba de sonido electrónico de alta frecuencia (Kyushu)
+2020: Introducción del sistema de patrulla acústica con drones (Hokkaido)
+2025: Ampliar los experimentos de demostración en los gobiernos locales a nivel nacional.
 
 </div>
 
 ---
 
-### クマ被害抑制におけるサウンド利用フロー
+### Flujo de uso de sonido para el control de daños a los osos
 
 <div class="mermaid">
 
-flowchart TD
-A[農地・集落の監視] --> B[センサー検知]
-B --> C[音響警告発信]
-C --> D[クマ逃避行動]
-D --> E[被害軽減・安全確保]
+diagrama de flujo TD
+A[Monitoreo de tierras de cultivo/aldea] --> B[Detección de sensor]
+B --> C [Transmisión de advertencia acústica]
+C --> D [Comportamiento de escape del oso]
+D --> E [Reducción de daños/garantía de seguridad]
 
 </div>
 
 ---
 
-### 参考文献・資料
+### Referencias/Materiales
 
-- [農林水産省作成リーフレット「クマにご注意下さい」](https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
-- [「クマ類の出没対応マニュアル－改定版－（環境省）」](http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
-- [「特定鳥獣保護・管理計画作成のためのガイドライン（クマ類編）環境省」](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
-- [環境省 WEB サイト「クマに関する各種情報・取組」](http://www.env.go.jp/nature/choju/effort/effort12/)
+- [Folleto elaborado por el Ministerio de Agricultura, Silvicultura y Pesca "Ten cuidado con los osos"] (https://www.maff.go.jp/j/seisan/tyozyu/higai/tyuuikanki/attach/pdf/index-12.pdf)
+- ["Manual de respuesta a las infestaciones de osos - edición revisada - (Ministerio de Medio Ambiente)"] (http://www.env.go.jp/nature/choju/docs/docs5-4a/index.html)
+- [“Directrices para la creación de planes específicos de protección y manejo de la vida silvestre (edición osos) Ministerio de Medio Ambiente”](https://www.env.go.jp/nature/choju/plan/plan3-2c/)
+- [Sitio web del Ministerio de Medio Ambiente "Diversa información e iniciativas sobre los osos"](http://www.env.go.jp/nature/choju/effort/effort12/)
 
 ---

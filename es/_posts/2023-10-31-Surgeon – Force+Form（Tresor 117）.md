@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Surgeon – Force+Form（Tresor 117）.webp
 lang: es
 layout: post
+permalink: /es/2023-10-31-Surgeon – Force+Form（Tresor 117）/
 tags:
 - Techno
 - DJ
-title: Surgeon – Force+Form（Tresor 117）
+title: Cirujano – Fuerza+Forma (Tresor 117)
 ---
 
 
-Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、Surgeon（サージョン）のCD。
+Un CD del músico y DJ electrónico británico, Surgeon, lanzado en 1999 en Tresor.
 
-Surgeonは、DJ セットでAbleton Live と Final Scratch を使用した最初の DJ の 1 人としても知られている。
+Surgeon también es conocido como uno de los primeros DJ en utilizar Ableton Live y Final Scratch en sus sesiones de DJ.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Remnants Of What Once Was
 
@@ -46,7 +47,7 @@ At The Heart Of It All
 4b. Part 2
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nbfFhkk-4Ks?si=b_AtPUTXVb6mVGwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nbfFhkk-4Ks?si=b_AtPUTXVb6mVGwp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/DJ Arne L II Presents Divino – Proper To Men.webp
 lang: es
 layout: post
+permalink: /es/2025-05-29-DJ Arne L II Presents Divino – Proper To Men/
 tags:
 - Electronic
 - Hard House
 - Hard Trance
 - 00s
-title: DJ Arne L II Presents Divino – Proper To Men
+title: DJ Arne L II presenta Divino – Proper To Men
 ---
 
 
-DJ Arne L IIことArne Leistikowは、ドイツ出身のDJ・プロデューサー。
-「Proper To Men」は、2000年にドイツのレーベルDeep Mission Trance からリリースされたハードハウス・ハードトランストラック。
+Arne Leistikow, también conocido como DJ Arne L II, es un DJ y productor de Alemania.
+"Proper To Men" es una pista de hard house/hard trance lanzada por el sello alemán Deep Mission Trance en 2000.
 
-A面1曲目は、ディスコプロジェクトC.O.P. Project によるremix。
-A面2曲目は、Jan Miesner&Lars BögeによるデュオPhantom Sheriffsによるremix。
+La primera pista de la cara A es un remix del proyecto disco C.O.P. Proyecto.
+La segunda pista de la cara A es un remix del dúo Phantom Sheriffs de Jan Miesner y Lars Böge.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Proper To Men (C.O.P. Project Mix)
 A2. Proper To Men (Phantom Sheriffs Rmx)
@@ -29,7 +30,7 @@ B1. Proper To Men (Original Mix)
 B2. Proper To Men (DJ Arne L. II Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33236670391?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m33236670391?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/We5yuFLX1d0?si=TCXXuZR6M-puYAOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/We5yuFLX1d0?si=TCXXuZR6M-puYAOV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

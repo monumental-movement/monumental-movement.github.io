@@ -5,15 +5,16 @@ categories:
 image: ../assets/images/De Tune – Get Down.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-De Tune – Get Down/
 tags:
 - House
-title: De Tune – Get Down
+title: De Tune – Abajo
 ---
 
 
-「Get Down」は、1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
+"Get Down" es un EP de De Tune lanzado en 1995 con el sello Groove On.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Get Down (Club Mix)
 
@@ -26,7 +27,7 @@ B2. Get Down (Drums Til The End)
 B3. Get Down (On It Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80710711719?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m80710711719?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4RBW3-rvSGw?si=1nSlICClEVXXUHwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4RBW3-rvSGw?si=1nSlICClEVXXUHwP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

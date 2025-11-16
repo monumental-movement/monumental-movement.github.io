@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Classified  – Union Dues Promo 12-2.webp
 lang: es
 layout: post
+permalink: /es/2023-07-24-Classified  – Union Dues Promo 12-2/
 tags:
 - Hiphop
 - Rare
-title: Classified  – Union Dues Promo 12-2
+title: Clasificados – Promoción Cuotas Sindicales 12-2
 ---
 
 
-Classified Classified（本名：Luke Donald Boyd）のUnion Dues Promo 12-2は、2002年に	レーベルHalfLife Recordsからリリースされました。
+Classified Classified (nombre real: Luke Donald Boyd) Union Dues Promo 12-2 fue lanzado en 2002 en el sello HalfLife Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Talking Shit
 
@@ -29,7 +30,7 @@ B2. It Ain't Over (Instrumental)
 B3. Average MC (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21956638266?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21956638266?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HbuhWNuciBY?si=RujTEnd6CbCWcwzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HbuhWNuciBY?si=RujTEnd6CbCWcwzm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

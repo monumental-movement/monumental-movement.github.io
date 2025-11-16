@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Rebus Tape – Drug Shaping EP.webp
 lang: es
 layout: post
+permalink: /es/2024-03-29-Rebus Tape – Drug Shaping EP/
 tags:
 - Techno
 - 00s
-title: Rebus Tape – Drug Shaping EP
+title: Cinta Rebus – EP Drug Shaping
 ---
 
 
-Rebus Tape（リーバス・テープ）は、ブレイクビーツユニットPhab Com MastersのメンバーShiro Nakajimaのソロ・ユニット。
+Rebus Tape es la unidad solista de Shiro Nakajima, miembro de la unidad de breakbeat Phab Com Masters.
 
-「Drug Shaping EP」はサブライムレコーズのサブレーベルReel Musiqから2000年にリリースされたRebus Tapeのデビュー作。
+"Drug Shaping EP" es el trabajo debut de Rebus Tape, lanzado en 2000 en el subsello Reel Musiq de Sublime Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Element Of The Ape
 
@@ -24,5 +25,5 @@ AA1. Drug Shaping
 AA2. Order Into Chaos
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
 

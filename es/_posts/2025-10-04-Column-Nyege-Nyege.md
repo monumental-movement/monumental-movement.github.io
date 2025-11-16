@@ -5,60 +5,62 @@ categories:
 image: ../assets/images/column-nyege-nyege.webp
 lang: es
 layout: post
+permalink: /es/2025-10-04-Column-Nyege-Nyege/
 tags:
 - African
 - Tribal
 - History
-title: '【コラム】 Nyege Nyege: アフリカの音楽革命を牽引するウガンダ発の音楽集団'
+title: '[Columna] Nyege Nyege: Un grupo musical de Uganda que lidera la revolución
+  musical de África'
 ---
 
 
-## 「Nyege Nyege（ニェゲ・ニェゲ）」とは？
+## ¿Qué es "Nyege Nyege"?
 
-文：mmr｜テーマ：アフリカの伝統音楽と現代の電子音楽を融合させた「アウトサイダー音楽」を世界に発信する重要な音楽集団について
+Texto: mmr｜Tema: Sobre un importante grupo musical que difunde al mundo “música outsider” que fusiona la música tradicional africana y la música electrónica moderna.
 
 
-「Nyege Nyege（ニェゲ・ニェゲ）」は、ウガンダのカンパラを拠点に活動する音楽集団で、アフリカのアンダーグラウンド音楽シーンを世界に発信する先駆者として知られています。その名はルガンダ語で「踊りたくてたまらない衝動」を意味し、音楽とダンスを通じて人々を結びつける力強いメッセージを込めています。
+"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "la irresistible necesidad de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
-## 目次
+## Tabla de contenido
 
-1. [創設と背景](#beginning)
-2. [アルバムとプロジェクトの紹介](#album) 
-3. [シンゲリ（Singeli）](#singeli)
-4. [アコリトロニクス（Acholitronix）](#acholitronix)
-5. [エレクトロ・マロヤ（Electro Maloya）](#electro-maloya)
-6. [逸話と伝説](#story)
-7. [Nyege Nyege全体の文化的意義](#culture)
-8. [現在の活動と展望](#now)
-9. [おすすめYouTubeリンク](#youtube)
-10. [まとめ](#conclusion)
-
----
-
-
-## <a id="beginning"></a>創設と背景
-
-Nyege Nyegeは、2013年にアメリカ出身のアーレン・ディルシジアンとベルギー出身のデレク・デブルによってカンパラで設立されました。彼らは「Boutiq Electroniq」というイベントを通じて、地元のDJやパーカッショニストと共に音楽シーンを活性化させました。その後、2016年には「Nyege Nyege Tapes」というレコードレーベルを立ち上げ、アフリカの伝統音楽と電子音楽を融合させた新しい音楽スタイルを発信し続けています。
+1. [Fundamentos y antecedentes] (#comienzo)
+2. [Presentación del álbum y proyecto](#album)
+3. [Singeli](#singeli)
+4. [Acolitronix](#acholitronix)
+5. [Electro Maloya](#electro-maloya)
+6. [Anécdotas y leyendas](#historia)
+7. [Importancia cultural de Nyege Nyege en su conjunto](#cultura)
+8. [Actividades actuales y perspectivas](#ahora)
+9. [Enlace de YouTube recomendado](#youtube)
+10. [Resumen](#conclusión)
 
 ---
 
-## <a id="album"></a>アルバムとプロジェクトの紹介
 
-以下に、Nyege Nyege Tapesからリリースされた代表的なアルバムとプロジェクトを年代別に紹介します。
+## <a id="beginning"></a>Fundamentos y antecedentes
+
+Nyege Nyege fue fundada en Kampala en 2013 por el estadounidense Arlen Dirsigian y el belga Derek Debre. Revitalizaron la escena musical con DJ y percusionistas locales a través de un evento llamado "Boutiq Electroniq". Posteriormente, en 2016, lanzó un sello discográfico llamado "Nyege Nyege Tapes" y continúa difundiendo un nuevo estilo musical que fusiona la música tradicional africana y la música electrónica.
+
+---
+
+## <a id="album"></a>Presentación de álbumes y proyectos
+
+A continuación, presentaremos álbumes y proyectos representativos lanzados por Nyege Nyege Tapes por año.
 
 
 | 年代 | アーティスト/アルバム | 特徴 | リンク |
@@ -71,19 +73,19 @@ Nyege Nyegeは、2013年にアメリカ出身のアーレン・ディルシジ�
 
 ---
 
-## 音楽スタイルと影響
+## Estilos musicales e influencias.
 
-Nyege Nyege Tapesの音楽は、アフリカ各地の伝統音楽と現代の電子音楽を融合させた「アウトサイダー音楽」として評価されています。特に注目すべきは、以下の音楽スタイルです：
-
----
-
-### <a id="singeli"></a>シンゲリ（Singeli）
-
-シンゲリは、**タンザニア・ダルエスサラーム発祥の高速ビートダンスミュージック**です。
+La música de Nyege Nyege Tapes ha sido aclamada como "música outsider" que combina música tradicional de varias partes de África con música electrónica moderna. De particular interés son los siguientes estilos musicales:
 
 ---
 
-#### 音楽的特徴
+### <a id="singeli"></a>Singeli
+
+Shingeli es una música de baile de ritmo rápido que se originó en Dar es Salaam, Tanzania.
+
+---
+
+#### Funciones musicales
 
 | 特徴 | 詳細 |
 |------|------|
@@ -95,69 +97,69 @@ Nyege Nyege Tapesの音楽は、アフリカ各地の伝統音楽と現代の電
 
 ---
 
-#### 歴史・発展
+#### Historia/Desarrollo
 
 <div class="mermaid">
 
-flowchart TD
-    A["2000年代初頭: ダルエスサラームのスラム"] --> B["女性MC中心の即興パフォーマンス"]
-    B --> C["ストリートパーティで拡散"]
-        C --> D["都市文化象徴化・ジェンダー平等表現"]
-    D --> E["Nyege Nyege Tapesで国際的注目"]
-    E --> F["世界のクラブ・フェスで演奏"]
+diagrama de flujo TD
+A["Principios de la década de 2000: barrios marginales de Dar es Salaam"] --> B["Actuación de improvisación centrada en MCs femeninas"]
+B --> C["Difundido por fiesta callejera"]
+C --> D["Simbolización de la cultura urbana/expresión de igualdad de género"]
+D --> E["Las cintas de Nyege Nyege atraen la atención internacional"]
+E --> F["Actuado en clubes y festivales de todo el mundo"]
 
 </div>
 
 ---
 
-#### 文化的意義
+#### Importancia cultural
 
-- 若者文化の自己表現
+- Autoexpresión de la cultura juvenil.
 
-- ジェンダー平等の象徴
+- símbolo de la igualdad de género
 
-- 国際的発信によるアフリカ音楽の最前線化
+- Llevar la música africana a la vanguardia a través de la difusión internacional.
 
 
 ---
 
-#### ダンスとの結びつき
+#### Conexión con la danza
 
-- シンゲリは音楽だけでなく、ダンス体験と一体化しています。
+- Singeli no se trata sólo de música, sino que también se integra con la experiencia de la danza.
 
-- 高速ビートに合わせた複雑な足さばき
+- Juego de pies complejo para igualar el ritmo de alta velocidad.
 
-- 観客との呼応による即興性
+- Improvisación a través de la colaboración con el público.
 
-- フェスティバルやクラブでの重要なコミュニティ形成
+- Importante construcción comunitaria en festivales y clubes.
 
 ---
 
 <div class="mermaid">
 
-flowchart LR
-    Music["高速ビート + ラップ"] --> Dance["ダンス・パフォーマンス"]
-    Dance --> Community["若者文化・連帯形成"]
-    Community --> Festivals["Nyege Nyege Festival等"]
+diagrama de flujo LR
+Música["Fast Beat + Rap"] --> Danza["Actuación de danza"]
+Danza --> Comunidad["Cultura juvenil/formación solidaria"]
+Comunidad --> Festivales["Festival Nyege Nyege, etc."]
 
 </div>
 
 ---
 
-#### シンゲリ（まとめ）
-シンゲリは超高速ビートと女性MCによる即興パフォーマンスを特徴とする、都市型ダンスミュージックです。
-単なる音楽ジャンルにとどまらず、文化的表現・社会的アイデンティティ・国際交流を担う重要な存在として、アフリカ音楽シーンの最前線に位置しています。
+#### Shingeli (Resumen)
+Shingeli es una música de baile urbana que presenta ritmos ultrarrápidos y actuaciones improvisadas de MC femeninas.
+Más que un simple género musical, está a la vanguardia de la escena musical africana y desempeña un papel importante en la expresión cultural, la identidad social y el intercambio internacional.
 
 ---
 
-### <a id="acholitronix"></a>アコリトロニクス（Acholitronix）
+### <a id="acholitronix"></a>Acholitronix
 
-アコリトロニクスは、ウガンダ北部アコリ民族の伝統音楽ララカラカを電子音楽で再構築したスタイルです。
+Akolitronics es un estilo que recrea Rarakaraka, la música tradicional del pueblo Akori en el norte de Uganda, utilizando música electrónica.
 
 
 ---
 
-#### 音楽的特徴
+#### Funciones musicales
 
 | 特徴   | 詳細                       |
 | ---- | ------------------------ |
@@ -171,66 +173,66 @@ flowchart LR
 
 ---
 
-#### 歴史・発展
+#### Historia/Desarrollo
 
 
 <div class="mermaid">
 
-flowchart TD
-    A["伝統: ララカラカの祭礼音楽"] --> B["村祭り・結婚式で演奏"]
-    B --> C["都市部で電子音楽融合"]
-    C --> D["Nyege Nyege Tapesで紹介"]
-    D --> E["クラブ・フェスで即興パフォーマンス"]
-    E --> F["国際的注目とコラボレーション"]
+diagrama de flujo TD
+A["Tradición: música del festival Rarakaraka"] --> B["Actuado en festivales y bodas de pueblos"]
+B --> C["Fusión de música electrónica en zonas urbanas"]
+C --> D["Destacado en cintas Nyege Nyege"]
+D --> E["Actuación improvisada en clubes y festivales"]
+E --> F["Atención y colaboración internacional"]
 
 </div>
 
 ---
 
-#### 文化的意義
+#### Importancia cultural
 
-- 伝統音楽の現代化と保存
+- Modernización y preservación de la música tradicional.
 
-- 都市と地方文化の橋渡し
+- Uniendo la cultura urbana y local
 
-- 国際舞台でのアフリカ音楽発信
+- Promoción de la música africana en el escenario internacional.
 
 
 ---
 
-#### パフォーマンスとダンス
+#### Actuación y Danza
 
-- 即興的ダンスとの一体化：ララカラカの伝統では踊りが音楽と一体であり、アコリトロニクスでもその即興性が受け継がれています。
+- Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 
-- フェスティバルでの表現：Nyege Nyege Festivalでは、電子化されたアコリ音楽に合わせて、観客が自由に踊るスタイルが一般的です。
+- Expresión en festivales: Nyege En el Festival de Nyege, es común que el público baile libremente con música electrónica Akori.
 
 ---
 
 <div class="mermaid">
 
-flowchart LR
-    Music["ララカラカ + 電子音楽"] --> Dance["即興ダンス"]
-    Dance --> Community["文化・コミュニティ形成"]
-    Community --> Festivals["Nyege Nyege Festival等"]
+diagrama de flujo LR
+Música["Larakaraka + Música Electrónica"] --> Danza["Danza Improvisación"]
+Danza --> Comunidad["Cultura/Formación Comunitaria"]
+Comunidad --> Festivales["Festival Nyege Nyege, etc."]
 
 </div>
 
 ---
 
-#### アコリトロニクス（まとめ）
+#### Acolitronics (Resumen)
 
-アコリトロニクスは、伝統音楽と電子音楽を融合させた都市型音楽で、文化保存・都市文化の表現・国際発信を同時に担っています。
-Nyege Nyege Tapesを通じて世界に紹介され、アフリカ北部文化の革新的表現として注目される存在です。
-
----
-
-### <a id="electro-maloya"></a>エレクトロ・マロヤ（Electro Maloya）
-
-エレクトロ・マロヤは、レユニオン島の伝統音楽マロヤを電子音楽で再構築した実験的スタイルです。
+Acolitronics es una música urbana que combina música tradicional y música electrónica, y es simultáneamente responsable de la preservación cultural, la expresión de la cultura urbana y la difusión internacional.
+Introducido al mundo a través de Nyege Nyege Tapes, ha llamado la atención como una expresión innovadora de la cultura del norte de África.
 
 ---
 
-#### 音楽的特徴
+### <a id="electro-maloya"></a>Electro Maloya
+
+Electro Maloya es un estilo experimental que recrea la música tradicional de la Isla de la Reunión, Maloya, utilizando música electrónica.
+
+---
+
+#### Funciones musicales
 
 | 特徴   | 詳細                       |
 | ---- | ------------------------ |
@@ -243,109 +245,109 @@ Nyege Nyege Tapesを通じて世界に紹介され、アフリカ北部文化の
 
 ---
 
-#### 歴史・発展
+#### Historia/Desarrollo
 
 <div class="mermaid">
 
-flowchart TD
-    A["伝統: マロヤ音楽"] --> B["奴隷・移民文化による生活・労働表現"]
-    B --> C["20世紀: 制限下で伝承"]
-    C --> D["2000年代: 電子音楽融合開始"]
-    D --> E["クラブ・フェスで演奏・国際的注目"]
-    E --> F["現代: グローバル電子音楽コミュニティに拡散"]
+diagrama de flujo TD
+A["Tradición: Música Maloya"] --> B["Expresiones de vida y trabajo a través de la cultura esclava e inmigrante"]
+B --> C["Siglo XX: Tradición bajo restricciones"]
+C --> D["Década de 2000: comienza la fusión de música electrónica"]
+D --> E["Actuó en clubes y festivales y recibió atención internacional"]
+E --> F["Contemporáneo: Difundiéndose en la comunidad mundial de música electrónica"]
 
 </div>
 
 ---
 
-#### 文化的意義
+#### Importancia cultural
 
-- 歴史的・文化的伝承の再解釈
+- Reinterpretación de tradiciones históricas y culturales.
 
-- 国際発信による地域限定音楽のグローバル化
+- Globalización de la música regionalmente limitada a través de la difusión internacional.
 
-- 伝統音楽の新しい実験的表現
+- Nueva expresión experimental de la música tradicional.
 
-これらのスタイルは、Nyege Nyege Tapesがアフリカの音楽遺産を現代的な視点で再解釈し、世界に発信する重要な役割を果たしています。
+Estos estilos juegan un papel importante en la forma en que Nyege Nyege Tapes reinterpreta la herencia musical de África con una perspectiva moderna y la comparte con el mundo.
 
 ---
 
-#### パフォーマンスと体験
+#### Rendimiento y experiencia
 
-- 伝統と現代の融合：伝統打楽器と電子音楽が共存するライブ演奏。
+- Una fusión de tradición y modernidad: Un espectáculo en vivo donde conviven instrumentos de percusión tradicionales y música electrónica.
 
-- ダンスとの連動：ゆったりBPMながら、ポリリズムに合わせた即興ダンスが可能。
+- Vinculado con la danza: Puedes improvisar danza según el polirritmo usando un BPM relajado.
 
-- フェスティバルでの体験：観客が伝統と現代の融合を体感する演出が行われる。
+- Experiencia festival: Una producción que permite al público vivir la fusión de tradición y modernidad.
 
 ---
 
 <div class="mermaid">
 
-flowchart LR
-    Music["マロヤ + 電子音楽"] --> Dance["即興ダンス"]
-    Dance --> Community["文化・コミュニティ形成"]
-    Community --> Festivals["クラブ・フェスでの表現"]
+diagrama de flujo LR
+Música["Maloya + Música Electrónica"] --> Danza["Danza Improvisación"]
+Danza --> Comunidad["Cultura/Formación Comunitaria"]
+Comunidad --> Festivales["Expresión en discotecas y festivales"]
 </div>
 
 ---
 
-#### エレクトロ・マロヤ（まとめ）
-エレクトロ・マロヤは、マロヤ伝統音楽を電子音楽で再構築した実験的ジャンルです。
-歴史の継承、文化的再解釈、都市クラブ文化との融合、国際発信を同時に担う音楽スタイルとして、世界的に注目されています。
+#### Electro Maloya (Resumen)
+Electro Maloya es un género experimental que reconstruye la música tradicional de Maloya con música electrónica.
+Está atrayendo la atención mundial como un estilo musical que simultáneamente continúa con la herencia de la historia, reinterpreta la cultura, se integra con la cultura de los clubes de la ciudad y se comunica internacionalmente.
 
 ---
 
-### <a id="culture"></a>Nyege Nyege全体の文化的意義
+### <a id="culture"></a>Nyege Importancia cultural de Nyege en su conjunto
 
-- アフリカ各地の伝統音楽と電子音楽の橋渡し
+- Uniendo la música tradicional y la música electrónica de toda África.
 
-- 都市文化と地方文化の融合
+- Fusión de cultura urbana y local.
 
-- 若者文化の自己表現とコミュニティ形成
+- Autoexpresión de la cultura juvenil y construcción comunitaria.
 
-- 国際的発信によるアフリカ音楽の世界的注目
+- Atención a la música africana en el mundo a través de la difusión internacional.
 
 
 ---
 
 
-### <a id="story"></a>逸話と伝説
+### <a id="story"></a>Anécdotas y leyendas
 
-Nyege Nyege Festivalは、毎年ウガンダのジンジャで開催されるアフリカ最大級の電子音楽フェスティバルで、2015年から開催されています。フェスティバルは、アフリカの地下音楽シーンを世界に紹介する場として、またLGBTQ+コミュニティの支援を表明する場としても注目されています。しかし、保守的な宗教団体からは批判を受けることもあり、2018年には倫理大臣が開催中止を試みましたが、内務大臣の支持を受けて開催が継続されました。現在では、6万人以上の来場者を集める一大イベントとなっています。
-
----
-
-### <a id="now"></a>現在の活動と展望
-
-Nyege Nyegeは、レコードレーベル「Nyege Nyege Tapes」とサブレーベル「Hakuna Kulala」を通じて、アフリカの音楽シーンを牽引し続けています。特に「Hakuna Kulala」は、抽象的で実験的なクラブミュージックを中心に展開し、世界中の音楽ファンから注目されています。また、アーティストのレジデンシーや国際的なコラボレーションを通じて、グローバルな音楽ネットワークを構築しています。
+El Festival Nyege Nyege es el festival de música electrónica más grande de África, se celebra cada año en Jinja, Uganda, y se lleva a cabo desde 2015. El festival está atrayendo la atención como un lugar para presentar la escena musical underground de África al mundo y mostrar apoyo a la comunidad LGBTQ+. Sin embargo, enfrentó críticas de grupos religiosos conservadores y en 2018 el Ministro de Ética intentó cancelar el evento, pero continuó con el apoyo del Ministro del Interior. Hoy en día, se ha convertido en un gran evento que atrae a más de 60.000 visitantes.
 
 ---
 
-### <a id="youtube"></a>おすすめYouTubeリンク
+### <a id="now"></a>Actividades actuales y perspectivas
 
-以下に、Nyege Nyege関連のおすすめYouTubeリンクを紹介します：
-
-#### Nyege Nyege Festival 2024 Highlights
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Nyege Nyege continúa liderando la escena musical africana a través de su sello discográfico Nyege Nyege Tapes y su subsello Hakuna Kulala. En particular, "Hakuna Kulala" gira en torno a la música de club abstracta y experimental, y está atrayendo la atención de los fanáticos de la música de todo el mundo. También estamos construyendo una red musical global a través de residencias de artistas y colaboraciones internacionales.
 
 ---
 
-#### Otim Alpha - Gulu City Anthems
+### <a id="youtube"></a>Enlaces recomendados de YouTube
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+A continuación se muestran algunos enlaces recomendados de YouTube relacionados con Nyege Nyege:
 
----
+#### Lo más destacado del Festival Nyege Nyege 2024
 
-#### Bamba Pana & Makaveli | Boiler Room x Nyege Nyege Festival
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### <a id="conclusion"></a>まとめ
+#### Otim Alpha - Himnos de la ciudad de Gulu
 
-Nyege Nyegeは、アフリカの伝統音楽と現代の電子音楽を融合させた「アウトサイダー音楽」を世界に発信する重要な音楽集団です。そして、レーベルであるNyege Nyege Tapesは、シンゲリ・アコリトロニクス・エレクトロ・マロヤなど、アフリカ伝統音楽と電子音楽の融合を推進する最前線におり、
-地域文化の保存、都市・若者文化の表現、国際的発信を同時に担い、世界の音楽シーンで独自の地位を確立しています。その活動は、音楽だけでなく、文化的多様性や社会的包摂の重要性を再認識させてくれます。今後も彼らの音楽と活動から目が離せません。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### Bamba Pana y Makaveli | Sala de calderas x Nyege Nyege Festival
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+### <a id="conclusión"></a>Resumen
+
+Nyege Nyege es un importante grupo musical que difunde al mundo "música outsider" que fusiona la música tradicional africana y la música electrónica moderna. El sello Nyege Nyege Tapes está a la vanguardia en la promoción de la fusión de la música tradicional africana y la música electrónica, incluyendo Shingeli, Akolitronics, Electro Maloya, etc.
+Somos simultáneamente responsables de preservar la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente, y hemos establecido una posición única en la escena musical mundial. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
 

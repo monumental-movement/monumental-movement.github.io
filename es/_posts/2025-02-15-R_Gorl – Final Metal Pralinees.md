@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/R_Görl – Final Metal Pralinées.webp
 lang: es
 layout: post
+permalink: /es/2025-02-15-R_Gorl – Final Metal Pralinees/
 tags:
 - Techno
 - 00s
-title: R_Görl – Final Metal Pralinées
+title: R_Görl – Pralinées de metal final
 ---
 
 
-R_Görl ことRobert Görl(ロベルト・ゲアル)は、ドイツ・ミュンヘン出身のミュージシャン。 Gabi Delgado(ガビ・デルガド)とともに、NDW( ノイエ・ドイチェ・ヴェレ ) 、EBM(エレクトロニック・ボディ・ミュージック ) 、NDH(ノイエ・ドイチェ・ヘァテ)、テクノの先駆者として知られるDeutsch Amerikanische Freundschaft（DAF）を結成したことでも有名。
+Robert Görl, también conocido como R_Görl, es un músico de Munich, Alemania. También es famoso por formar NDW (Neue Deutsche Welle), EBM (Electronic Body Music), NDH (Neue Deutsche Heate) y Deutsch Amerikanische Freundschaft (DAF), conocidos como los pioneros del techno, con Gabi Delgado.
 
-「Final Metal Pralinies」は2000年にレーベルDisko Bからリリースされたテクノアルバム。
+"Final Metal Pralinies" es un álbum de techno lanzado por el sello Disko B en el año 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. One More Hour
 2. Artificial Water
@@ -32,7 +33,7 @@ R_Görl ことRobert Görl(ロベルト・ゲアル)は、ドイツ・ミュン�
 12. Last Korg Exit
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39402109762?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WaMKLqD-fJQ?si=Uzoe9iVfuMAZ247a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WaMKLqD-fJQ?si=Uzoe9iVfuMAZ247a" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

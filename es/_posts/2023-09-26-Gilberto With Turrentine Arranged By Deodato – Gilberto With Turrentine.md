@@ -6,19 +6,21 @@ image: ../assets/images/Gilberto With Turrentine Arranged By Deodato – Gilbert
   Turrentine.webp
 lang: es
 layout: post
+permalink: /es/2023-09-26-Gilberto With Turrentine Arranged By Deodato – Gilberto
+  With Turrentine/
 tags:
 - Bossa Nova
 - Jazz
-title: Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine
+title: Gilberto Con Turrentine Arreglo De Deodato – Gilberto Con Turrentine
 ---
 
 
-ブラジルのボサノヴァ歌手ジョアン・ジルベルト（João Gilberto）とアメリカのテナーサックス奏者スタンリー・タレンタイン（Stanley Turrentine）が共演したアルバムです。
+Este álbum es una colaboración entre el cantante brasileño de bossa nova João Gilberto y el saxofonista tenor estadounidense Stanley Turrentine.
 
-「Gilberto With Turrentine」では、ジョアン・ジルベルトの優れたボサノヴァの歌声とギタープレイに、スタンリー・タレンタインのソウルフルなテナーサックスが組み合わされています。デオダートのアレンジによって、ブラジル音楽とジャズの要素が融合し、ユニークで魅力的なサウンドが生まれました。
+"Gilberto With Turrentine" combina el magistral canto de bossa nova y la guitarra de João Gilberto con el conmovedor saxofón tenor de Stanley Turrentine. Los arreglos de Deodato fusionan elementos de la música brasileña y el jazz para crear un sonido único y atractivo.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1.Wanting Things
 
@@ -49,7 +51,7 @@ Bonus Tracks
 13.Polytechnical High
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

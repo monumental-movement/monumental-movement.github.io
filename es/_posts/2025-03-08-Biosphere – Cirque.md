@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Biosphere – Cirque.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-Biosphere – Cirque/
 tags:
 - Downtempo
 - Ambient
 - House
 - 00s
-title: Biosphere – Cirque
+title: Biosfera – Circo
 ---
 
 
-BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出身のエレクトロニック・アンビエントミュージシャン。北極圏内のトロムソに住んでいるため、北極圏の自然や山々にインスピレーションを得たアンビエントやアンビエントハウススタイルが特徴。
+Geir Jenssen, también conocido como Biosphere, es un músico ambiental electrónico de Noruega. Al vivir en Tromsø, dentro del Círculo Polar Ártico, nos caracterizamos por un estilo de casa ambiental y ambiental inspirado en la naturaleza y las montañas del Círculo Polar Ártico.
 
-「Cirque」は、2000年にUKのレーベルTouchからリリースされたアルバム。このアルバムは、登山家＆作家のジョン・クラカワー作品Into the Wildのモデルとなったアメリカの冒険家クリス・マッキャンドレスにインスパイアされた作品。2曲目のLe Grand Dômeは、フランスのエレクトロニックDJ Miss Kittinが2006年にリリースしたミックスアルバムA Bugged Out Mixに収録されている。
+"Cirque" es un álbum lanzado por el sello británico Touch en 2000. Este álbum está inspirado en el aventurero estadounidense Chris McCandless, quien fue la inspiración para el trabajo del montañero y autor Jon Krakauer Into the Wild. La segunda canción, Le Grand Dôme, aparece en el álbum de mezclas de 2006 de la DJ electrónica francesa Miss Kittin, A Bugged Out Mix.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Nook & Cranny
 2. Le Grand Dôme
@@ -34,7 +35,7 @@ BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出
 11. Too Fragile To Walk On
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

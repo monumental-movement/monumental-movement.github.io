@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Selu Vibra – Stargazing.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Selu Vibra – Stargazing/
 tags:
 - Trance
-title: Selu Vibra – Stargazing
+title: Selu Vibra – Observación de estrellas
 ---
 
 
-Selu Vibra（セルビブラ）は、スウェーデンのトランスDJ/プロデューサーSebastian Brandt、Niklas Gustavsson、Ludvig Holmによるプロジェクト。
+Selu Vibra es un proyecto de los DJ y productores de trance suecos Sebastian Brandt, Niklas Gustavsson y Ludvig Holm.
 
-B面は、カナダ出身のプログレッシブトランス/トランスDJ&プロデューサー8 WondersことArnej（Arney Secerkadic）によるremix。
+La cara B es un remix de Arnej (Arney Secerkadic), también conocido como 8 Wonders, un DJ y productor de trance progresivo/trance de Canadá.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Stargazing (Original)
 
 B. Stargazing (8 Wonders' Star Traveller Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85964325673?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9t2feAuBRrQ?si=iUl_WlpjtvfPkvIC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9t2feAuBRrQ?si=iUl_WlpjtvfPkvIC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

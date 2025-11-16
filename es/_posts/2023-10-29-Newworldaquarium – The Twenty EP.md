@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Newworldaquarium – The Twenty EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Newworldaquarium – The Twenty EP/
 tags:
 - House
 - Techno
-title: Newworldaquarium – The Twenty EP
+title: Newworldaquarium – Los veinte EP
 ---
 
 
-90年代にはROSS 154名義で活動していた、Jochem Peteri ことNewworldaquarium（NWAQ）(ニューワールドアクアリウム)はアムステルダムを拠点とするデトロイト・テクノ・エレクトロアーティストです。
+Newworldaquarium (NWAQ), también conocido como Jochem Peteri, que estuvo activo bajo el nombre de ROSS 154 en los años 90, es un artista tecno-electro de Detroit afincado en Ámsterdam.
 
-このレコードはデトロイト・サウンドで有名な名門レーベル「Delsin(デルシン)」から2006年にリリースされました。
+Este disco fue lanzado en 2006 por el prestigioso sello "Delsin", famoso por su sonido de Detroit.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Introduction
 
@@ -29,7 +30,7 @@ B1. Rox
 B2. The Twenty
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48201041722?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48201041722?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X8jJzS380Pg?si=VOsfle2pxHsl5AnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X8jJzS380Pg?si=VOsfle2pxHsl5AnI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

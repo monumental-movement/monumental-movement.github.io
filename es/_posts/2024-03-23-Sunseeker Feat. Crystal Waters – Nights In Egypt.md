@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Sunseeker Feat. Crystal Waters – Nights In Egypt.webp
 lang: es
 layout: post
+permalink: /es/2024-03-23-Sunseeker Feat. Crystal Waters – Nights In Egypt/
 tags:
 - House
 - Electronic
 - 00s
-title: Sunseeker Feat. Crystal Waters – Nights In Egypt
+title: Hazaña Sunseeker. Aguas Cristalinas – Noches En Egipto
 ---
 
 
-フィーチャリングされているCrystal Waters（クリスタル・ウォーターズ）はハウス・ボーカリストで1961年にニュージャージー州デプトフォード・タウンシップ生まれました。
+Destacado Crystal Waters es una vocalista house nacida en Deptford Township, Nueva Jersey, en 1961.
 
-ジャズ・ミュージシャンのジュニア・ウォーターズの娘で、エセル・ウォーターズの曾姪であり、IAH Records を運営しています。
+Es hija del músico de jazz Junior Waters y sobrina nieta de Ethel Waters, quien dirige IAH Records.
 
-幼い頃から音楽に囲まれて育ち、父親の影響でジャズに親しみ、1980年代後半からハウス・ミュージックシーンで活動を始め、1991年にシングル「Gypsy Woman (She's Homeless)」で世界的な大ヒットを飛ばしました。
+Creció rodeada de música desde temprana edad, se familiarizó con el jazz bajo la influencia de su padre, y comenzó a trabajar en la escena de la música house a finales de los años 1980, logrando un éxito mundial con el sencillo "Gypsy Woman (She's Homeless)" en 1991.
 
-その後も「100% Pure Love」、「Destination Calabria」など数々のヒット曲をリリースし、ハウス・ミュージック界を代表するアーティストになりました。
+Desde entonces, ha lanzado muchos éxitos como "100% Pure Love" y "Destination Calabria" y se ha convertido en uno de los artistas líderes en el mundo de la música house.
 
-パワフルななボーカルとキャッチーなメロディーで知られ、ライブでも圧倒的なパフォーマンスを見せ、現在は自身のレーベル IAH Records を運営し、新進気鋭のアーティストを発掘・育成するなど、音楽シーンの活性化に貢献しています。
+Conocido por su poderosa voz y melodías pegadizas, también muestra un desempeño abrumador en shows en vivo. Actualmente dirige su propio sello, IAH Records, y contribuye a la revitalización de la escena musical descubriendo y nutriendo a artistas emergentes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Nights In Egypt (Nerio's Dubwork Remix)
 
@@ -34,7 +35,7 @@ B1. Nights In Egypt (Swen G Remix)
 B2. Nights In Egypt (Lenny Fontana Vocal Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

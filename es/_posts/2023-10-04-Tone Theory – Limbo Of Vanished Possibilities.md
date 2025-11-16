@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Tone Theory – Limbo Of Vanished Possibilities.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Tone Theory – Limbo Of Vanished Possibilities/
 tags:
 - Techno
 - Deep House
-title: Tone Theory – Limbo Of Vanished Possibilities
+title: 'Teoría del tono: limbo de posibilidades desaparecidas'
 ---
 
 
-Tone Theory（デリック・カーター）による「Limbo Of Vanished Possibilities」は、ビートと複雑に作られたパーカッション、そして力強いベースラインでダンスフロアでの演奏には完璧です。
+'Limbo Of Vanished Possibilities' de Tone Theory (Derrick Carter) es perfecto para la pista de baile, con su ritmo, percusión intrincada y potente línea de bajo.
 
-また、電子的な「口笛」のメインフック、繊細で美しい小さなメロディ、感情的ですが謎めいたボーカルがセンスの良さを感じさせます。
+Además, el gancho principal del "silbido" electrónico, la pequeña melodía delicada y hermosa y las voces emotivas pero misteriosas desprenden una sensación de buen gusto.
 
-次に、美しいオルガンとピアノのライン、小さなヒット、そしてフィルター処理された手拍子のパーカッション、そして、DCがキラーベースラインを提供し、これには「弾力」のあるテクスチャで豊かな音像を描いています。
+A continuación, hay hermosas líneas de órgano y piano, pequeños éxitos y percusión de palmas filtrada, y luego DC proporciona una línea de bajo espectacular que pinta una rica imagen sonora con una textura "animada".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A0.01　Limbo Of Vanished Possibilities
 Producer, Mixed By – Derrick Carter, The Innocent
@@ -32,7 +33,7 @@ Remix – Bushwacka!
 B0.02　Limbo Of Vanished Possibilities (Mr C Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14966528973?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q5Et2Zy4-Eo?si=9dFDNsaRRvPkOhnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q5Et2Zy4-Eo?si=9dFDNsaRRvPkOhnf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,24 @@ categories:
 image: ../assets/images/Kronos Quartet – Monk Suite.webp
 lang: es
 layout: post
+permalink: /es/2024-05-19-Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of
+  Thelonious Monk/
 tags:
 - Jazz
 - Minimal
 - Experimental
 - 80s
-title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
+title: Kronos Quartet – Monk Suite Kronos Quartet toca música de Thelonious Monk
 ---
 
 
-クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。 
+Kronos Quartet es un cuarteto de cuerda formado en Seattle en 1973 por el violinista David Harrington, y tiene su sede en San Francisco desde 1978.
 
-50年間にわたりミュージシャンが交代しながら活動しており、 最も長く続いた演奏家の組み合わせ（1978年〜1999年）は、ヴァイオリンのハリントンとジョン・シャーバ、ヴィオラのハンク・ダット、チェロのジョアン・ジャンルノー。
+La banda ha estado activa durante 50 años con un elenco rotativo de músicos, siendo la combinación de intérpretes más antigua (1978-1999) Harrington y John Schaba al violín, Hank Dutt a la viola y Joan Jeanrenot al violonchelo.
 
-カルテットは現代クラシック音楽を含む非常に幅広い音楽ジャンルをカバーしている。
+El cuarteto cubre una amplia gama de géneros musicales, incluida la música clásica contemporánea.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Monk Suite：
 1. Well, You Needn't
@@ -36,7 +38,7 @@ Monk Plays Ellington：
 9. Brilliant Corners
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

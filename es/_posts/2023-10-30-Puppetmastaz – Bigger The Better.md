@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Puppetmastaz – Bigger The Better.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Puppetmastaz – Bigger The Better/
 tags:
 - Hiphop
 - Rap
-title: Puppetmastaz – Bigger The Better
+title: Puppetmastaz – Cuanto más grande, mejor
 ---
 
 
-Puppetmastaz(パペットマスターズ)は、1996年にベルリンで結成されたドイツのヒップホップグループで、Max Turner(マックス ターナー)、 Chilly Gonzales(チリー ゴンザレス)、Paul PM(ポール PM/Mister Malokeミスター マローク)、Mocky(モッキー)、そして 2003 年にバンドを脱退したAlex Tiller(アレックス ティラー)といったドイツ、米国、カナダ出身のメンバーで構成されています。
+Puppetmastaz es un grupo alemán de hip-hop formado en Berlín en 1996, formado por miembros de Alemania, Estados Unidos y Canadá, incluidos Max Turner, Chilly Gonzales, Paul PM, Mister Maloke, Mocky y Alex Tiller, quienes dejaron la banda en 2003.
 
-Puppetmastazは、ハンドパペットを使ってショーをおこない、ラップ、ファンク、エレクトロニカなどの要素を取り入れた音楽スタイルが特徴です。
+Puppetmastaz realiza espectáculos utilizando títeres de mano y se caracteriza por un estilo musical que incorpora elementos de rap, funk y electrónica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Bigger The Better
 
@@ -27,8 +28,8 @@ B1. Mastaplan
 B2. What U Need
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42662167380?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m42662167380?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yZoEGcTtR-Q?si=DGPwvCcUvMhps1LS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yZoEGcTtR-Q?si=DGPwvCcUvMhps1LS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

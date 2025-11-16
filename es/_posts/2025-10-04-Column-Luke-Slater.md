@@ -5,92 +5,93 @@ categories:
 image: ../assets/images/column-luke-slater.webp
 lang: es
 layout: post
+permalink: /es/2025-10-04-Column-Luke-Slater/
 tags:
 - Techno
 - Acid
 - UK Techno
-title: '【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界'
+title: '[Columna] Luke Slater: el pionero del techno británico y su mundo musical'
 ---
 
 
-## UKテクノの革新者と多彩なプロジェクトの全貌
+## Historia completa sobre los innovadores del techno del Reino Unido y sus diversos proyectos.
 
-文：mmr｜テーマ：Luke Slater＝英国テクノの先駆者とその音楽世界を考察
+Texto: mmr｜Tema: Luke Slater = Examen de los pioneros del techno británico y su mundo musical
 
-Luke Slater（ルーク・スレイター）は、イギリス・バークシャー州レディング出身のテクノDJ／プロデューサーであり、1980年代後半から現在に至るまで世界的なシーンを牽引し続けています。
-「Planetary Assault Systems」「The 7th Plain」「LSD」など数々の別名義を駆使し、ハードミニマルからアンビエント、エレクトロ、クラシカルなコラボレーションまで、多岐にわたる活動を展開してきました。
+Luke Slater es un DJ y productor de techno de Reading, Berkshire, Inglaterra, que ha seguido liderando la escena mundial desde finales de los años 80 hasta el presente.
+Utilizando numerosos alias como "Planetary Assault Systems", "The 7th Plain" y "LSD", ha desarrollado una amplia gama de actividades, desde hard minimal hasta colaboraciones ambientales, electro y clásicas.
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-### 初期の背景と音楽的形成
+### Antecedentes tempranos y formación musical.
 
-Luke Slaterは父親の影響で音楽と親しみ、12歳の頃にはドラマーとして活動。1980年代後半、ロンドンのアンダーグラウンドクラブでDJとして頭角を現しました。1990年には「Momentary Vision」でデビューし、その後、テクノの進化に欠かせない存在となります。
+Luke Slater conoció la música gracias a la influencia de su padre y se convirtió en baterista cuando tenía 12 años. A finales de la década de 1980, saltó a la fama como DJ en los clubes underground de Londres. Hicieron su debut con "Momentary Vision" en 1990 y desde entonces se han convertido en una parte indispensable de la evolución del techno.
 
-90年代にはWarpやNovaMuteからアンビエント～ミニマル作品を発表し、2000年代以降はベルリンの名門クラブBerghainやレーベルOstgut Tonと強く結びつき、ヨーロッパのテクノシーンを代表する存在へと飛躍しました。
+En los años 90, lanzaron trabajos desde ambiental a minimalista con Warp y NovaMute, y desde los años 2000, han estado fuertemente conectados con el prestigioso club Berghain de Berlín y el sello Ostgut Ton, y rápidamente se han convertido en un representante de la escena techno europea.
 
 ---
 
 
-### 活動マップ
+### Mapa de actividades
 
 <div class="mermaid">
 
-flowchart TD
-    A["Luke Slater"] --> B["Planetary Assault Systems"]
-    A --> C["The 7th Plain"]
-    A --> D["LSD (w/ Steve Bicknell & Function)"]
-    B --> E["Hard Techno / Ostgut Ton"]
-    C --> F["Ambient Techno / Warp"]
-    D --> G["Experimental Collaboration"]
+diagrama de flujo TD
+A["Luke Slater"] --> B["Sistemas de asalto planetario"]
+A --> C["La séptima llanura"]
+A --> D["LSD (con Steve Bicknell y función)"]
+B --> E["Hard Techno / Ostgut Ton"]
+C --> F["Ambient Techno/Warp"]
+D --> G["Colaboración experimental"]
 
 
 </div>
 
 ---
 
-### プロジェクトごとの特色
+### Características de cada proyecto
 
 ---
 
-#### Planetary Assault Systems（PAS）
+#### Sistemas de asalto planetario (PAS)
 
-Luke Slaterが1990年代初頭から展開している代表的なプロジェクトのひとつです。
-ハードかつミニマルなテクノ・サウンドを特徴とし、世界中のクラブでプレイされる“ピークタイム・テクノ”の象徴的存在として知られています。
+Este es uno de los proyectos emblemáticos de Luke Slater desde principios de los años 1990.
+Con un sonido techno duro y minimalista, es conocido como un símbolo del "tecno pico" que se toca en clubes de todo el mundo.
 
-**特徴**
+**Características**
 
-- 硬質なキックと重厚なベースライン
+- Patada dura y línea de fondo pesada.
 
-- 宇宙的で未来的な音響処理
+- Procesamiento de sonido cósmico y futurista.
 
-- 長尺でトランス状態に導く構成
+- Una estructura larga que conduce a un estado de trance.
 
-**レーベルとの関係**
+**Relación con la etiqueta**
 
-- 90年代：Tresor（ベルリンの名門クラブ／レーベル）から多数リリース
+- Años 90: Numerosos lanzamientos de Tresor (el prestigioso club/sello de Berlín)
 
-- 2000年代以降：Ostgut Ton（Berghain直系レーベル）に拠点を移し、現在も継続的に作品を発表
+- Después de la década de 2000: se mudó a Ostgut Ton (sello directo de Berghain) y continúa lanzando trabajos hasta el día de hoy.
 
-PAS = Luke Slaterによる“クラブ向けハードテクノの最前線プロジェクト”。
+PAS = "proyecto de primera línea para club hard techno" de Luke Slater.
 
-ソロ名義の多様性や7th Plainのアンビエント性に対して、PASは純粋にフロアを揺らすためのストイックなテクノ表現と言えます。
+En contraste con la variedad de actos en solitario y la naturaleza ambiental de 7th Plain, PAS puede describirse como una expresión techno estoica cuyo único objetivo es hacer temblar la pista.
 
 ---
 
-**ディスコグラフィー**
+**Discografía**
 
 | 年    | アルバム名                  | 特徴                | リンク                                     |
 | ---- | ---------------------- | ----------------- | --------------------------------------------- |
@@ -103,34 +104,34 @@ PAS = Luke Slaterによる“クラブ向けハードテクノの最前線プロ
 
 ---
 
-**おすすめ動画**
+**Vídeos recomendados**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uy6A3hX-2dQ?si=Vj3gs0SbhBtaAHd-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### The 7th Plain
-
-The 7th Plain（セヴンス・プレイン）は、Luke Slaterが1990年代半ばに始動したアンビエント／テクノ・プロジェクトです。
-フロア向けの硬質なサウンドが特徴のPlanetary Assault Systemsに対し、7th Plainは 内省的で浮遊感のあるアンビエント・テクノ を追求しています。
-
-**特徴**
-
-- ドリーミーで瞑想的なサウンドスケープ
-
-- デトロイト・テクノの叙情性とアンビエントの融合
-
-- リスニング志向が強く、クラブよりも“没入体験”に近い
-
-
-**位置づけ**
-
-Luke Slaterの“もう一つの顔”であり、テクノシーンにおける彼の実験的かつ詩的な側面を象徴するプロジェクト。
-The 7th Plain = Luke Slaterによる“アンビエント・テクノの深淵世界” です。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uy6A3hX-2dQ?si=Vj3gs0SbhBtaAHd-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-**ディスコグラフィー**
+#### La séptima llanura
+
+The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los años 1990.
+A diferencia de Planetary Assault Systems, que se caracteriza por un sonido duro para el suelo, 7th Plain persigue un techno ambiental introspectivo y flotante.
+
+**Características**
+
+- Paisajes sonoros de ensueño y meditativos.
+
+- Una fusión de lirismo techno y ambient de Detroit.
+
+- Fuerte orientación auditiva, más parecida a una “experiencia inmersiva” que a un club
+
+
+**Posición**
+
+Un proyecto que es la “otra cara” de Luke Slater y simboliza su lado experimental y poético en la escena techno.
+The 7th Plain = “El mundo profundo del techno ambiental” de Luke Slater.
+
+---
+
+**Discografía**
 
 | 年    | アルバム名                 | 特徴                    | リンク                                     |
 | ---- | --------------------- | --------------------- | --------------------------------------------- |
@@ -142,36 +143,36 @@ The 7th Plain = Luke Slaterによる“アンビエント・テクノの深淵�
 
 ---
 
-**おすすめ動画**
+**Vídeos recomendados**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FjFt9ZFo4Gc?si=ARNHLD0Qeu9-hCYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### LSD（Luke Slater + Steve Bicknell + Function）
-
-LSDは、Luke Slater / Steve Bicknell / Function（Dave Sumner） の3人によって2017年に結成されたテクノ・プロジェクトです。
-それぞれが90年代から活動してきたベテランであり、コラボレーションにより 硬質で催眠的なサウンド を追求しています。
-
-**特徴**
-
-- 長尺でストイックなミニマル展開
-
-- アシッド的な質感と宇宙的サウンドスケープ
-
-- フロアをトランス状態に導くドライヴ感
-
-**位置づけ**
-
-LSDは、現代テクノにおける“スーパーグループ”的存在であり、各メンバーの経験とスタイルが融合したプロジェクト。
-Berghainや国際的フェスティバルでのライブは特に高い評価を受けています。
-
-LSD = 3人の巨匠が集結した“ハードミニマルの集大成” であり、テクノだけでなく、エレクトロ、ファンク、ヴォーカル曲も取り入れ、幅広い表現を展開。
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FjFt9ZFo4Gc?si=ARNHLD0Qeu9-hCYw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-**ディスコグラフィー**
+#### LSD (Luke Slater + Steve Bicknell + Función)
+
+LSD es un proyecto de techno formado en 2017 por Luke Slater, Steve Bicknell y Function (Dave Sumner).
+Cada uno de ellos son veteranos que han estado activos desde los años 90 y, a través de la colaboración, persiguen un sonido duro e hipnótico.
+
+**Características**
+
+- Desarrollo mínimo largo y estoico.
+
+- Texturas ácidas y paisajes sonoros cósmicos.
+
+- Sensación de impulso que lleva el suelo a un estado de trance.
+
+**Posición**
+
+LSD es un "supergrupo" de techno moderno, un proyecto que combina las experiencias y estilos de cada integrante.
+Las actuaciones en directo en Berghain y en festivales internacionales han recibido grandes elogios.
+
+LSD = Una ``culminación del minimalismo duro'' reunida por tres maestros, incorporando no sólo techno sino también electro, funk y canciones vocales, desarrollando una amplia gama de expresiones.
+
+
+---
+
+**Discografía**
 
 | 年    | アルバム名            | 特徴         | リンク                                     |
 | ---- | ---------------- | ---------- | --------------------------------------------- |
@@ -182,32 +183,32 @@ LSD = 3人の巨匠が集結した“ハードミニマルの集大成” であ
 
 ---
 
-**おすすめ動画**
+**Vídeos recomendados**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3TOuWGtD3k?si=7CpfXP9LFtQI37gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### ソロ名義 Luke Slater
-
-自身のソロ名義では、テクノ、エレクトロ、ブレイクビートを横断する幅広い作品で知られています。
-
-**特徴**
-
-- ハードでインダストリアルなテクノから、メロディックで実験的な作品まで多様
-
-- 4つ打ちだけでなく、ブレイクビーツやアンビエントも展開
-
-- 常にクラブシーンとアート性を両立
-
-**位置づけ**
-
-Slaterは、シーンを横断する柔軟なクリエイターとして評価され、テクノのハードさとポップな感覚を両立。
-後のPlanetary Assault SystemsやThe 7th Plainなどの別名義活動へとつながる基盤を築きました。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3TOuWGtD3k?si=7CpfXP9LFtQI37gY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-**ディスコグラフィー**
+#### Nombre en solitario Luke Slater
+
+Bajo su nombre solista, es conocido por una amplia gama de trabajos que abarcan techno, electro y breakbeat.
+
+**Características**
+
+- Variedad desde techno duro e industrial hasta piezas melódicas y experimentales.
+
+- Además de ritmos 4/4, también ofrecemos breakbeats y música ambiental.
+
+- Siempre equilibra la escena del club y el arte.
+
+**Posición**
+
+Slater es aclamado como un creador flexible que cruza escenas, combinando la dureza del techno con una sensibilidad pop.
+Sentó las bases para alias posteriores como Planetary Assault Systems y The 7th Plain.
+
+---
+
+**Discografía**
 
 
 | 年    | アルバム名            | 特徴             | リンク                                     |
@@ -218,36 +219,36 @@ Slaterは、シーンを横断する柔軟なクリエイターとして評価�
 
 ---
 
-**おすすめ動画**
+**Vídeos recomendados**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EhZm8MJcTc8?si=8o2TgcfOexJbn354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### 現在の活動
-
-Luke Slaterは今なお精力的に活動しており、2025年には「Planetary Assault Systems Reassembled」を発表。さらにクラシック音楽との融合プロジェクトにも取り組み、テクノの枠を越えた芸術的実験を続けています。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhZm8MJcTc8?si=8o2TgcfOexJbn354" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### まとめ
+### Actividades actuales
 
-Luke Slaterは、UKテクノの先駆者として、数多くのエイリアスを通じて多様な音楽スタイルを展開してきました。彼の作品は、テクノの枠を超えて、アンビエントやクラシックとの融合など、常に新しい音楽的挑戦を続けています。今後も彼の音楽から目が離せません。
-
----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/myr9W7HR0wg?si=1lBJTYJrEdJHgoXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Luke Slater sigue activo y lanzará "Planetary Assault Systems Reassembled" en 2025. También trabaja en proyectos de fusión con música clásica y continúa experimentando artísticamente más allá de los límites del techno.
 
 ---
 
+#### resumen
 
-### 関連コラム
+Luke Slater es un pionero del techno británico y ha desarrollado una amplia gama de estilos musicales a través de varios alias. Su trabajo traspasa las fronteras del techno y continúa asumiendo nuevos retos musicales, como la fusión con la música ambiental y clásica. No puedo quitar mis ojos de su música en el futuro.
 
-🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+---
 
-🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/myr9W7HR0wg?si=1lBJTYJrEdJHgoXR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+---
 
-🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
+
+### Columnas relacionadas
+
+🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
+
+🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
+
+🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
+
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 

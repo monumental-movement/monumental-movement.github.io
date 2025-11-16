@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Tony Cook and The Trunk-O-Funk – Cash Advance.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Tony Cook and The Trunk-O-Funk – Cash Advance/
 tags:
 - House
 - Funk
-title: Tony Cook and The Trunk-O-Funk – Cash Advance
+title: Tony Cook y The Trunk-O-Funk – Adelanto en efectivo
 ---
 
 
-The Trunk-O-Funk は、70年代後半からJAMES BROWN（ジェームス・ブラウン）バンドのドラマーとして活躍したTONY COOK（トニー・クック）のバンド。ハウスに現代的なファンク・グルーヴが特徴の一曲。
+The Trunk-O-Funk es la banda de TONY COOK, quien ha estado activo como baterista de la banda JAMES BROWN desde finales de los años 70. Una canción que presenta un ritmo house y funk moderno.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Original Double Dope Mix
 
 B. US X-tended Funk Mix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m73510580861?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73510580861?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bTrWGgYjIIc?si=P93DhsIA9gYF1XCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bTrWGgYjIIc?si=P93DhsIA9gYF1XCY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

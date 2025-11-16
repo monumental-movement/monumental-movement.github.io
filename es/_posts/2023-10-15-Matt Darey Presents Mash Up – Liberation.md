@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Matt Darey Presents Mash Up – Liberation.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Matt Darey Presents Mash Up – Liberation/
 tags:
 - Trance
-title: Matt Darey Presents Mash Up – Liberation
+title: Matt Darey presenta Mash Up – Liberación
 ---
 
 
-Matt Darey（マット・ダレイ）は、イギリス出身のプロデューサー/DJ。
+Matt Darey es un productor/DJ del Reino Unido.
 
-A面１曲目はFerry Corsten（フェリー・コーステン/SystemF）によるremix。
+La primera pista de la cara A es un remix de Ferry Corsten (SystemF).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Liberation (Temptation - Fly Like An Angel) (Ferry Corsten Remix)
 
@@ -24,7 +25,7 @@ A2. Liberation (Temptation - Fly Like An Angel) (Original)
 AA1. Liberation (Temptation - Fly Like An Angel) (Matt Darey Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44404211666?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m44404211666?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hl9kHP8d_3o?si=qSC_0PgrpW6gADpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hl9kHP8d_3o?si=qSC_0PgrpW6gADpE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

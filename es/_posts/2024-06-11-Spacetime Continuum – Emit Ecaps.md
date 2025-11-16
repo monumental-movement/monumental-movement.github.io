@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Spacetime Continuum – Emit Ecaps.webp
 lang: es
 layout: post
+permalink: /es/2024-06-11-Spacetime Continuum – Emit Ecaps/
 tags:
 - Techno
 - Ambient
 - IDM
 - 90s
 - Rare
-title: Spacetime Continuum – Emit Ecaps
+title: Continuo espacio-temporal – Emitir Ecaps
 ---
 
 
-90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
+Un LP doble lanzado en 1996 por Jonah Sharp, también conocido como Spacetime Continuum, un incondicional de la escena underground techno/ambient/electrónica de los años 90, en su propio sello, reflexivo Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Iform
 A2. Kario
@@ -34,7 +35,7 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

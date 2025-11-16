@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Tomaz vs Filterheadz – Latin Loopworks.webp
 lang: es
 layout: post
+permalink: /es/2025-06-26-Tomaz vs Filterheadz – Latin Loopworks/
 tags:
 - Tribal
 - Techno
@@ -13,19 +14,19 @@ title: Tomaz vs Filterheadz – Latin Loopworks
 ---
 
 
-Tomaz vs Filterheadzは、ベルギーのテクノDJ&プロデューサーTomaz（別名Thomas Janssens）とデュオFilterheadz（Bert Filip Wilmaers & Maarten Jan Wilmaers）のコラボレーション。
+Tomaz vs Filterheadz es una colaboración entre el DJ y productor de techno belga Tomaz (también conocido como Thomas Janssens) y el dúo Filterheadz (Bert Filip Wilmaers y Maarten Jan Wilmaers).
 
 
-「Latin Loopworks」は、ベルギーを代表するDJ Marco Bailey(マルコ・ベイリー)のレーベルSession Recordingsから2001年にリリースされたTribal ・Technoトラック。
+"Latin Loopworks" es una canción tribal/techno lanzada en 2001 en Session Recordings, el sello del principal DJ belga Marco Bailey.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Los Hijos Del Sol (4 Sun)
 
 B. Mi Casa Es Su Casa
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99576906867?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99576906867?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0WIzRPg5Zw4?si=XNnqZjoCMiC1SWZz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0WIzRPg5Zw4?si=XNnqZjoCMiC1SWZz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

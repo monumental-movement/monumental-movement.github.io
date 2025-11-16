@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Staxx Of Joy Featuring Carol Leeming – You.webp
 lang: es
 layout: post
+permalink: /es/2024-11-15-Staxx Of Joy Featuring Carol Leeming – You/
 tags:
 - House
 - 90s
-title: Staxx Of Joy Featuring Carol Leeming – You
+title: Staxx Of Joy con Carol Leeming - Tú
 ---
 
 
-Staxx Of Joyは、ハウス・ガラージプロデューサーのSimon ThorneとTom Jonesによるユニット。
+Staxx Of Joy es una unidad formada por los productores de casas/garajes Simon Thorne y Tom Jones.
 
-別名義でstaxx、Katch, So Damn Tuff, Tuff Boys, Tuff Productionsなどがある。
+Otros nombres incluyen staxx, Katch, So Damn Tuff, Tuff Boys y Tuff Productions.
 
-「You」はUKのシンガーCarol Leeming をフィーチャーしたハウストラック。1995年にColumbiaからリリースされた。
+"You" es una canción house de la cantante británica Carol Leeming. Publicado por Columbia en 1995.
 
-B面1曲目は、ハウスDJ・プロデューサーJunior Vasquez(ジュニア・ヴァスケス)によるremix。
+La primera canción de la cara B es un remix del DJ y productor house Junior Vasquez.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. You (Man City Vocal)
 A2. You (Staxx Original Mix)
@@ -29,7 +30,7 @@ B1. You (Sound Factory Vocal Mix)
 B2. You (Overworld Vocal)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77630892150?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77630892150?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4H5YHNY-j4o?si=egDdqQiwMoP4VyZa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4H5YHNY-j4o?si=egDdqQiwMoP4VyZa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

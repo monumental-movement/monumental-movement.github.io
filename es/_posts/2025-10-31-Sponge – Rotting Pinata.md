@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Sponge – Rotting Piñata.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-Sponge – Rotting Pinata/
 tags:
 - Alternative Rock
 - Grunge
 - Rock
 - 90s
-title: Sponge – Rotting Piñata
+title: Esponja – Piñata podrida
 ---
 
 
-Sponge(スポンジ)は、1992年にミシガン州デトロイトで結成されたアメリカのロックバンド。
+Sponge es una banda de rock estadounidense formada en Detroit, Michigan, en 1992.
 
-1995年にリリースした「Rotting Piñata(ロッティングピニャータ)」は、Spongeのファーストスタジオアルバムであり代表作。ヒット曲「Plowed」、「Molly 」が収録されている。
+"Rotting Piñata", lanzado en 1995, es el primer álbum de estudio y obra maestra de Sponge. Incluye las exitosas canciones "Plowed" y "Molly".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Pennywheels
 2. Rotting Piñata
@@ -35,7 +36,7 @@ Sponge(スポンジ)は、1992年にミシガン州デトロイトで結成さ�
 12. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

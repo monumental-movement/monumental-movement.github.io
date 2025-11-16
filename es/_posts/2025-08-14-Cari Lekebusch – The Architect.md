@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Cari Lekebusch – The Architect.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-Cari Lekebusch – The Architect/
 tags:
 - Techno
 - Deep House
 - Electro
 - Downtempo
 - 00s
-title: Cari Lekebusch – The Architect
+title: Cari Lekebusch – El arquitecto
 ---
 
 
-Cari Lekebusch (カリ レケブッシュ)は、スウェーデンを代表するDJ／プロデューサー。
+Cari Lekebusch es una DJ y productora que representa a Suecia.
 
-A1、2フィーチャーしているAaron(Aaron Phiri)は、ジャジーなHIPHOPサウンドが特徴のグループ、Boogalooの一員として活躍したミュージシャン。
+Aaron (Aaron Phiri), que aparece en A1 y 2, es un músico que estuvo activo como miembro de Boogaloo, un grupo caracterizado por un sonido HIPHOP de jazz.
 
-B2でフィーチャーしているKrister(Krister Linder/クリスター・リンダー)は、スウェーデンのエレクトロニック・ミュージシャン。
+Krister (Krister Linder), que aparece en B2, es un músico electrónico sueco.
 
-アダム・ベイヤーによって設立され、スウェーデンのストックホルムを拠点とするレコードレーベルTruesoulから2004年にリリースされたTechno／Deep House／Electro／Downtempo。
+Techno/Deep House/Electro/Downtempo fue lanzado en 2004 por Truesoul, un sello discográfico fundado por Adam Beyer y con sede en Estocolmo, Suecia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. True Blue (Club Mix) Featuring – Aaron
 A2. Electro Magnetic Featuring – Aaron
@@ -32,7 +33,7 @@ B1. Babylon
 B2. For Her Featuring – Krister
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

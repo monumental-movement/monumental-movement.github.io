@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Sash! – Encore Une Fois.webp
 lang: es
 layout: post
+permalink: /es/2023-10-07-Sash – Encore Une Fois/
 tags:
 - Trance
 - House
-title: Sash! – Encore Une Fois
+title: ¡Faja! – Encore Une Fois
 ---
 
 
-「Encore une fois」（フランス語で「もう一度」の意）は、ドイツのDJグループSash!による曲で、グループのデビューアルバム「It's My Life – The Album」（1997年）からのセカンドシングルとして、1997年1月にPolygramからリリースされ、Sash!の最も大ヒットした曲の一つです。
+"Encore une fois" (que significa "una vez más" en francés) es una canción del grupo de DJ alemán Sash!, lanzada por Polygram en enero de 1997 como segundo sencillo del álbum debut del grupo "It's My Life - The Album" (1997), y es uno de los mayores éxitos de Sash!.
 
-イギリスでは、同年2月にリリースされ、UKシングルチャートで2位に浮上し、ゴールド認定を受けました。ベルギー、フィンランド、フランス、アイスランド、イタリア、ノルウェー、スペイン、スウェーデンなど、ヨーロッパ全体でトップ10のヒットとなりました。ギリシャとアイルランドでは、この曲はチャートのトップに達しました。アメリカではクラブで大ヒットし、Billboard Hot Dance Club Playチャートで1位を獲得し、14週間にわたってチャートにランクインしました。「Encore une fois」のミュージックビデオはOliver Sommerによって監督されました。
+En el Reino Unido, se lanzó en febrero del mismo año, alcanzando el puesto número dos en la lista de singles del Reino Unido y siendo certificado oro. Fue uno de los 10 primeros éxitos en toda Europa, incluidos Bélgica, Finlandia, Francia, Islandia, Italia, Noruega, España y Suecia. En Grecia e Irlanda, la canción alcanzó la cima de las listas. Fue un gran éxito en los clubes de EE. UU., alcanzando el número uno en la lista Billboard Hot Dance Club Play y permaneciendo en la lista durante 14 semanas. El vídeo musical de "Encore une fois" fue dirigido por Oliver Sommer.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Encore Une Fois (Future Breeze Mix)
 
@@ -28,7 +29,7 @@ B1. Encore Une Fois (La Casa Di Tokapi Mix)
 B2. Encore Une Fois (Powerplant "Toke On This" Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89838653459?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89838653459?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qz2bOXLEvuE?si=aYF_2aAYLItR_UxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qz2bOXLEvuE?si=aYF_2aAYLItR_UxC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Space Frog – X-Ray (Follow Me) - Remixes.webp
 lang: es
 layout: post
+permalink: /es/2024-04-21-Space Frog – X-Ray (Follow Me) - Remixes/
 tags:
 - Trance
 - German Trance
 - 90s
-title: Space Frog – X-Ray (Follow Me) - Remixes
+title: Space Frog – X-Ray (Sígueme) - Remezclas
 ---
 
 
-ドイツのベルリン出身のハードトランス/トランスDJ Space FrogことCet Merlinによるトランストラック。
+Una pista de trance de Cet Merlin, también conocido como Space Frog, un DJ de hard trance/trance de Berlín, Alemania.
 
-「X-Ray (Follow Me) 」は、Mysterious Art、P.M. Sampson、Culture Beatなど、当時のドイツダンスチャートを席巻したレーベルDance Poolから1997年にリリース。
+"X-Ray (Follow Me)" fue lanzado en 1997 por Dance Pool, un sello que dominaba las listas dance alemanas de la época, incluyendo Mysterious Art, P.M. Sampson y Culture Beat.
 
-A面は「Ecuador」で有名なSash!(サシャ)によるremix。
+El lado A es un remix de Sash!, famoso por "Ecuador".
 
-B面はDJ Errik（Erich Schmeier）とJürgen DriessenのプロジェクトTwo Phunky Peopleによるremix。
+La cara B es un remix de DJ Errik (Erich Schmeier) y el proyecto Two Phunky People de Jürgen Driessen.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. X-Ray (Follow Me) (Sash! Remix)
 
 B. X-Ray (Follow Me) (Two Phunky People Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52094115312?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52094115312?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G-IoTqxsufY?si=ZK6FTS-5jKLMNk7-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-IoTqxsufY?si=ZK6FTS-5jKLMNk7-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

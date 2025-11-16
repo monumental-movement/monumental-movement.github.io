@@ -5,134 +5,135 @@ categories:
 image: ../assets/images/column-steve-jobs-jonathan-ive.webp
 lang: es
 layout: post
+permalink: /es/2025-11-05-column-steve-jobs-jonathan-ive/
 tags:
 - Apple
 - iPod
 - Mac
 - Design
-title: 【コラム】 スティーブ・ジョブズとジョナサン・アイブ ― 音とデザインの共鳴
+title: '[Columna] Steve Jobs y Jonathan Ive - Resonancia entre sonido y diseño'
 ---
 
 
-## 序章：音楽とテクノロジーの融合という新しい文化
+##Prólogo: Una nueva cultura de fusión de música y tecnología
 
 
-文：mmr｜テーマ：二人の音楽観・デザイン哲学・そして製品群の変遷を、一次資料と確かな証言をもとにたどっていく
+Texto: mmr｜Tema: Seguimiento de los cambios en la visión musical, la filosofía de diseño y la línea de productos del dúo basándose en materiales primarios y testimonios confiables.
 
 
-アップルが生み出した数々の製品の中でも、「音」にまつわるデザインは常に中心にあった。  
-スティーブ・ジョブズとジョナサン・アイブ、この二人の協働は、単なるプロダクト設計を超え、  
-**音楽とテクノロジーの融合**という新しい文化を生んだ。
+Entre los muchos productos que Apple ha creado, el diseño que rodea al "sonido" siempre ha estado en el centro.
+La colaboración entre Steve Jobs y Jonathan Ive va más allá del mero diseño de producto.
+Nació una nueva cultura de **fusión de música y tecnología**.
 
 
-> 「音楽は、私たちが何者であるかを語る最も純粋な形のひとつだ」  
-> — ジョナサン・アイブ（ポッドキャスト『Life in Seven Songs』より, 2024）
+> "La música es una de las formas más puras de expresar quiénes somos."
+> — Jonathan Ive (del podcast “La vida en siete canciones”, 2024)
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章　レコードとカリフォルニアの空気
+## Capítulo 1 Registros y el aire de California
 
-スティーブ・ジョブズは1960年代末から70年代にかけてのカリフォルニア・カウンターカルチャーの申し子である。  
-若い頃からボブ・ディランとビートルズを崇拝していたことは、多くの伝記で裏付けられている。  
+Steve Jobs fue un producto de la contracultura de California de finales de los años 1960 y 1970.
+Su admiración por Bob Dylan y los Beatles desde muy joven está confirmada por numerosas biografías.
 
-ウォルター・アイザックソンの伝記『スティーブ・ジョブズ』（2011年）では、彼の家のリビングには **真空管アンプとレコードプレーヤー** があり、  
-夜な夜なボブ・ディランやジョーン・バエズのアルバムを聴いていたと記されている。
+En la biografía de Walter Isaacson "Steve Jobs" (2011), su sala de estar tiene un **amplificador de válvulas y un tocadiscos**.
+Se dice que escuchaba todas las noches álbumes de Bob Dylan y Joan Baez.
 
-> 「Dylanの言葉には、魂が宿っている。あれはマシンの音ではない。」  
-> — スティーブ・ジョブズ（1982年のインタビューより）
+> "Las palabras de Dylan tienen alma. No son los sonidos de una máquina."
+> — Steve Jobs (de una entrevista de 1982)
 
-音楽は、ジョブズにとって単なる趣味ではなく、**人間と機械の距離を埋める芸術**だった。
-
----
-
-## 第2章　アイブの美学と静謐な音
-
-ジョナサン・アイブはロンドン出身。工業デザインを学び、1992年にアップルへ入社。  
-彼の審美眼はバウハウス的合理主義に根ざしているが、音へのこだわりもまた深い。
-
-2024年のポッドキャスト『Life in Seven Songs』で彼は自身の人生を形作った7曲を紹介している。  
-その中には **U2の “40”** や **The Temptations の “Papa Was a Rollin’ Stone”** が含まれ、  
-彼がアナログな音の「厚み」や「温度」に特別な親和性を持っていることが分かる。  
-
-> 「音楽は、プロダクトと同じで、空間の中に形をつくる芸術だ。」  
-> — ジョナサン・アイブ（2024年）
-
-彼がアップルを去った後に設立した会社は **LoveFrom**（ラヴフロム）である。  
-この集団は2023年、高級オーディオブランド「LINN」と協働し、アナログ・ターンテーブルを再設計した。  
-ミニマルで精緻なこの製品は、彼の“音への敬意”を体現している。
+La música no era sólo un pasatiempo para Jobs, sino un arte que servía de puente entre los humanos y las máquinas.
 
 ---
 
-## 第3章　ジョブズと音楽革命 ― iTunesからiPodへ
+## Capítulo 2 Tengo estética y sonido tranquilo.
 
-2001年、Appleはデジタル音楽の時代を決定づける製品を発表した。
+Jonathan Ive es de Londres. Tras estudiar diseño industrial, se incorporó a Apple en 1992.
+Su sentido estético tiene sus raíces en el racionalismo de la Bauhaus, pero también tiene una profunda obsesión por el sonido.
 
+En su podcast de 2024, Life in Seven Songs, comparte siete canciones que han dado forma a su vida.
+Estos incluyen “40” de **U2** y “Papa Was a Rollin’ Stone” de **The Temptations**.
+Está claro que tiene una afinidad especial por el "grosor" y la "temperatura" de los sonidos analógicos.
 
-**iPod**は、ジョブズとアイブの両者の美学が融合した象徴である。  
-ジョブズは「1000曲をポケットに」と語り、  
-アイブは **ホイール操作の“指の触覚性”** にこだわった。  
+> "La música, como los productos, es un arte que crea formas en el espacio."
+> — Jonathan Ive (2024)
 
-iTunes Store の登場（2003年）は、レコード時代以来の音楽消費の革命となった。  
-ジョブズが語ったように、「音楽産業はソフトウェアによって救われる」という予言は現実となる。
-
-> 「音楽を合法的にデジタルで届けることは、音楽家に対する最大の敬意だ。」  
-> — スティーブ・ジョブズ（2003年）
-
----
-
-## 第4章　デザインの“音楽的構造”
-
-ジョブズとアイブの共通点は、**音楽を構造的に捉えていた**ことにある。  
-ジョブズはバッハのフーガのように「反復と秩序」を語り、  
-アイブは「静寂の中に機能を残すこと」をデザインの核とした。
-
-### Power Macintoshのシルエット
-
-
-アイブが設計した Power Mac G4 Cube（2000年）は、まるで無音のスピーカーのような佇まいを持っていた。  
-ファンレス構造、透明なアクリル外装、内部の光の設計──  
-その静謐さは「音を聴くための沈黙」を体現していた。
+La empresa que fundó tras dejar Apple es **LoveFrom**.
+En 2023, el grupo colaboró ​​con la marca de audio de lujo LINN para rediseñar un tocadiscos analógico.
+Este producto minimalista y sofisticado encarna su "respeto por el sonido".
 
 ---
 
-## 第5章　Macと音楽制作の融合
+## Capítulo 3 Los empleos y la revolución musical: de iTunes al iPod
 
-アップルのマシンは単なるデジタル機器ではなく、音楽制作の道具として進化していった。  
-GarageBand（2004年）の登場は、音楽を誰もが作る時代を切り開いた。
+En 2001, Apple presentó un producto que definió la era de la música digital.
 
 
-さらにMacBook Pro（2006年〜）では、音響再生にアルミニウム筐体を活かした共鳴設計が採用された。  
-アイブは「筐体そのものが音を整える」と語っている（『FastCompany』インタビュー, 2015）。
+El **iPod** representa la fusión de la estética de Jobs y de Ive.
+Jobs dijo: "1.000 canciones en tu bolsillo".
+Me he centrado en la "tactilidad de los dedos" al operar la rueda.
 
----
+La llegada de iTunes Store (2003) marcó la primera revolución en el consumo de música desde la era discográfica.
+La predicción de Jobs de que "la industria musical se salvará gracias al software" se está haciendo realidad.
 
-## 第6章　レコードからクラウドへ ― 音の記憶の継承
-
-ジョブズは、iCloud構想を語る際にも「音楽がどこにいても流れる世界」を夢見た。  
-その根底には、**レコードを手に取り、針を落とす所作の延長**としてのクラウド概念がある。
-
-一方、アイブはLoveFromを通じて、  
-クラウド化と反対軸にある「手触りのある音」を追求している。  
-この二人のベクトルは一見対照的だが、  
-実は「音楽を通じて人を自由にする」という哲学で結ばれている。
+> "Entregar música de forma legal y digital es el mayor respeto para los músicos".
+>—Steve Jobs (2003)
 
 ---
 
-## 第7章　二人のデザイン年表（主要製品と音の関係）
+## Capítulo 4 “Estructura musical” del diseño
+
+Lo que Jobs y yo tenemos en común es que veían la música de manera estructural.
+Jobs hablaba de "repetición y orden" como en la fuga de Bach,
+El diseño principal de Ive era "conservar la funcionalidad en silencio".
+
+### Silueta de Power Macintosh
+
+
+El Power Mac G4 Cube (2000) diseñado por Ive parecía un altavoz silencioso.
+Estructura sin ventilador, exterior acrílico transparente, diseño de iluminación interior──
+La tranquilidad era la encarnación del "silencio para escuchar el sonido".
+
+---
+
+## Capítulo 5 Integración de Mac y la producción musical
+
+Las máquinas de Apple evolucionaron no sólo como dispositivos digitales, sino también como herramientas para la producción musical.
+La llegada de GarageBand (2004) marcó el comienzo de una era en la que cualquiera podía crear música.
+
+
+Además, el MacBook Pro (2006-) adoptó un diseño de resonancia que utiliza la carcasa de aluminio para la reproducción del sonido.
+Ive dice: "La propia carcasa da forma al sonido" (entrevista a Fast Company, 2015).
+
+---
+
+## Capítulo 6 De los registros a la nube - herencia de memorias sonoras
+
+Cuando Jobs habló del concepto de iCloud, soñó con "un mundo donde se pueda reproducir música sin importar dónde estés".
+En su raíz está el concepto de nube como una extensión del acto de coger un disco y dejar caer la aguja.
+
+Por otro lado, he pasado por LoveFrom,
+Buscamos el "sonido táctil", que es lo opuesto a la computación en la nube.
+Los vectores de estas dos personas parecen contrastantes, pero
+De hecho, los une la filosofía de "liberar a las personas a través de la música".
+
+---
+
+## Capítulo 7 Cronología de diseño de los dos (relación entre productos principales y sonido)
 
 | 年 | 製品 | 主な設計者 | 音に関する特徴 |
 |----|------|--------------|----------------|
@@ -147,44 +148,44 @@ GarageBand（2004年）の登場は、音楽を誰もが作る時代を切り開
 
 ---
 
-## 第8章　“音”というデザイン言語
+## Capítulo 8 El lenguaje de diseño del "sonido"
 
-ジョブズが亡くなった後、アイブは彼をこう評している。
+Después de la muerte de Jobs, lo describí de la siguiente manera:
 
-> 「彼は音楽を聴くように製品を見ていた。リズムがあり、ハーモニーがあり、沈黙がある。」
+> "Observaba los productos de la misma manera que se escucha música: hay ritmo, hay armonía, hay silencio".
 
-アイブ自身もLoveFromで続けるデザイン活動を「サウンド的プロセス」と呼ぶ。  
-つまり、デザインとは視覚の芸術であると同時に、**音を構築する行為**でもある。
-
----
-
-## 第9章　静かな革命の残響
-
-Apple製品が持つ「起動音」「クリック音」「サイレンスの設計」は、  
-すべてジョブズとアイブの音感的コラボレーションの成果だった。  
-
-彼らが生み出した音の哲学は、AI時代のいまも根底に息づいている。  
-「音楽」と「デザイン」を通じて、彼らは**テクノロジーを人間の感性に引き戻した**のだ。
+El propio Ive llama al trabajo de diseño que continúa con LoveFrom un "proceso de sonido".
+En otras palabras, el diseño no es sólo un arte visual, sino también un acto de construcción de sonido.
 
 ---
 
-## 結語 ― 愛（LoveFrom）から始まる音
+## Capítulo 9: Ecos de una revolución silenciosa
 
-LoveFromの公式声明にはこうある。
+El "sonido de inicio", el "sonido de clic" y el "diseño silencioso" de los productos Apple son
+Todo fue el resultado de una colaboración sonora entre Jobs e Ive.
 
-> “We are a creative collective. We design for love, not for markets.”
-
-「愛のために設計する」という理念は、ジョブズの精神と響き合う。  
-音楽がテクノロジーに魂を吹き込んだように、  
-デザインもまた、愛という“音”を奏で続けている。
+La filosofía del sonido que crearon sigue siendo el núcleo de la música incluso hoy en la era de la IA.
+A través de la música y el diseño, devolvieron la tecnología a la sensibilidad humana.
 
 ---
 
-### 参考文献・出典
-- Isaacson, Walter. *Steve Jobs*. Simon & Schuster, 2011.   
-- FastCompany: [Jony Ive’s first hardware project post-Apple, 2023](https://www.fastcompany.com/90919569/jony-ive-first-hardware-project-post-apple)  
-- Wikipedia: [iPod](https://ja.wikipedia.org/wiki/IPod), [Power Mac G4 Cube](https://ja.wikipedia.org/wiki/Power_Mac_G4_Cube), [GarageBand](https://en.wikipedia.org/wiki/GarageBand)  
-- Far Out Magazine: [Steve Jobs’ favourite songs](https://faroutmagazine.co.uk/steve-jobs-favourite-songs/)  
-- Ultimate Classic Rock: [Bob Dylan shared songwriting stories with Steve Jobs](https://ultimateclassicrock.com/bob-dylan-shared-songwriting-stories-with-steve-jobs/)
+## Conclusión - Sonidos que empiezan con amor (LoveFrom)
+
+La declaración oficial de LoveFrom dice:
+
+> "Somos un colectivo creativo. Diseñamos por amor, no por mercados".
+
+La filosofía de "diseñar por amor" se hace eco del espíritu de Jobs.
+Así como la música da alma a la tecnología,
+El diseño también sigue reproduciendo el "sonido" del amor.
+
+---
+
+### Referencias/Fuentes
+-Isaacson, Walter. *Steve Jobs*. Simón y Schuster, 2011.
+- FastCompany: [El primer proyecto de hardware de Jony Ive posterior a Apple, 2023](https://www.fastcompany.com/90919569/jony-ive-first-hardware-project-post-apple)
+- Wikipedia: [iPod](https://ja.wikipedia.org/wiki/IPod), [Power Mac G4 Cube](https://ja.wikipedia.org/wiki/Power_Mac_G4_Cube), [GarageBand](https://en.wikipedia.org/wiki/GarageBand)
+- Revista Far Out: [canciones favoritas de Steve Jobs] (https://faroutmagazine.co.uk/steve-jobs-favourite-songs/)
+- Ultimate Classic Rock: [Bob Dylan compartió historias de composición con Steve Jobs] (https://ultimateclassicrock.com/bob-dylan-shared-songwriting-stories-with-steve-jobs/)
 
 ---

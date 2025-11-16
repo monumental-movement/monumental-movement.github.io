@@ -5,188 +5,190 @@ categories:
 image: ../assets/images/column-hiphop-history.webp
 lang: es
 layout: post
+permalink: /es/2025-09-15-Column-Hiphop-History/
 tags:
 - Hiphop
 - 90s
 - 80s
 - 00s
-title: 【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像
+title: '[Columna] Historia del hip hop de EE. UU.: panorama general que incluye regiones,
+  clubes, medios y equipos'
 ---
 
 
-## アメリカヒップホップの歴史：地域・クラブ・メディア・機材などを含めた全体像
+## Historia del hip-hop estadounidense: panorama general que incluye regiones, clubes, medios, equipos, etc.
 
-文：mmr｜テーマ：アメリカでの地域ごとに異なるスタイルが形成されたヒップホップについて
+Texto: mmr｜Tema: Sobre el hip-hop, donde se han formado diferentes estilos en cada región de Estados Unidos
 
-ヒップホップは1970年代後半、ニューヨーク・ブロンクス地区で生まれ、単なる音楽ジャンルではなく、ダンス、グラフィティ、ファッション、そして社会運動とも結びついたカルチャーとして発展しました。
-アメリカでは地域ごとに異なるスタイルが形成され、クラブシーンやラジオ、デモテープ、そしてレコード文化が発展を支えました。また、サンプリング技術の発展とその後の脱サンプリングの流れは、ヒップホップの音楽的革新を象徴しています。
+El hip-hop nació en el Bronx, Nueva York, a finales de los años 1970, y se ha convertido en algo más que un género musical, también se ha convertido en una cultura vinculada a la danza, el graffiti, la moda y los movimientos sociales.
+En Estados Unidos, se formaron diferentes estilos en cada región y el desarrollo fue apoyado por la escena de clubes, la radio, las cintas de demostración y la cultura discográfica. Además, el desarrollo de la tecnología de muestreo y la posterior tendencia hacia el desmuestreo simbolizaron la innovación musical en el hip-hop.
 
 ---
 
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 1970年代後半：ブロンクス発祥とクラブ文化の基礎
+## Finales de la década de 1970: los orígenes del Bronx y los fundamentos de la cultura de clubes
 
-### 地域・時代背景
-ブロンクス地区の若者たちが、廃れた公共スペースやコミュニティセンターでDJパーティーを開催。ブロークン・ビート（ブレイクビーツ）を繰り返すことで、B-Boy/B-Girlたちのダンスが進化しました。
-クラブやブロックパーティーは、単なる音楽の場ではなく、地域コミュニティの結束を象徴する場でした。
+### Antecedentes de región/era
+Los jóvenes del Bronx organizan fiestas con DJ en espacios públicos y centros comunitarios abandonados. Al repetir ritmos rotos, el baile B-Boy/B-Girl evolucionó.
+Los clubes y las fiestas de barrio eran más que simples lugares de música; eran un símbolo de unidad comunitaria.
 
-### ラジオとデモテープの重要性
-当時のヒップホップはラジオ番組（例：WBLSの「The Show」）で広まり、デモテープがアーティスト発掘の重要な手段でした。
-DJクール・ハークやAfrika Bambaataaは、自らのミックステープを地域のラジオやパーティーで流し、情報拡散に寄与しました。
+### La importancia de la radio y las cintas de demostración.
+En aquella época, el hip-hop se popularizó a través de programas de radio (por ejemplo, "The Show" de WBLS) y las cintas de demostración eran un medio importante para descubrir artistas.
+DJ Kool Herc y Afrika Bambaataa tocaron sus mixtapes en la radio local y en fiestas, ayudando a correr la voz.
 
-### 代表的な名盤
+### Obra maestra representativa
 
-[The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
+[The Sugarhill Gang『El deleite del rapero』(1979)](https://amzn.to/4ngQIOx)
 
-[Grandmaster Flash and the Furious Five『The Message』(1982)](https://amzn.to/4nhcotO)
+[Gran maestro Flash y los cinco furiosos “El mensaje” (1982)] (https://amzn.to/4nhcotO)
 
-### 機材・サンプリング文化
-Technics SL-1200ターンテーブル、MPC初期型、ドラムマシン（Roland TR-808）が登場。レコードからのサンプリングが音楽制作の中心となり、DJはレコードの「ブレイク」部分を繰り返す手法を確立。
-
----
-
-## 1980年代：東海岸の黄金期と西海岸の台頭
-
-### 東海岸（ニューヨーク）
-Public EnemyやEric B. & Rakimが登場し、政治的・社会的メッセージを込めたラップが誕生。クラブは新しいビートを試す場としても機能しました。
-
-### 西海岸（カリフォルニア）
-ギャングスタ・ラップが発展。N.W.A.やIce-Tが現れ、ComptonやLos Angelesのストリート現実を描写。
-西海岸のクラブやローリング・パーティーでは独自のG-funkスタイルが磨かれました。
-
-### デモテープとラジオの役割
-地域ラジオ（KDAY, KMEL）で新曲がオンエアされ、デモテープを聴いた若者たちが口コミで拡散。特に、地元ラジオのDJはシーンの審判役でした。
-
-### 代表的な名盤
-
-[Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
-
-[Public Enemy『It Takes a Nation of Millions to Hold Us Back』(1988)](https://amzn.to/46Oz3YB)
-
-[N.W.A.『Straight Outta Compton』(1988)](https://amzn.to/46OFZoF)
-
-### サンプリング文化
-
-サンプラー（Akai MPC60/SP-1200）により、ソウル、ファンク、ジャズのレコードからフレーズを抽出。レコード文化が制作の中核であり、DJは「レコードの知識」が技術力と直結しました。
-
+### Equipo/Cultivo de muestreo
+Presentamos el tocadiscos Technics SL-1200, el primer modelo MPC y la caja de ritmos (Roland TR-808). El muestreo de discos se volvió fundamental para la producción musical y los DJ establecieron un método para repetir las partes "cortadas" de los discos.
 
 ---
 
-## 1990年代：東西対立と南部の興隆、クラブとレコード文化
+## Década de 1980: Edad de oro de la costa este y ascenso de la costa oeste
 
-### 東海岸 vs 西海岸
-The Notorious B.I.G.と2Pacの対立が象徴するように、地域間の緊張が音楽に影響。
-ニューヨークのクラブ（Tunnel、Limelight）はラップバトルや新譜の初披露の場となり、ラップ・バトル文化を育成。
+### Costa Este (Nueva York)
+Aparecieron Public Enemy y Eric B. & Rakim, y nació el rap con mensajes políticos y sociales. El club también sirvió como lugar para probar nuevos ritmos.
 
-### 南部（アトランタ、ヒューストン、ニューオリンズ）
-OutKastやUGKが登場し、独自のサウンドを確立。クラブでのテープ流通が地域ヒップホップの拡散を支えました。
+### Costa Oeste (California)
+Se desarrolla el gangsta rap. N.W.A. y aparecen Ice-T, que representan la realidad callejera de Compton y Los Ángeles.
+Se perfeccionó un estilo G-funk único en los clubes y fiestas de la costa oeste.
 
-### 脱サンプリングへの動き
-著作権問題やコストの増加により、オリジナル音源制作やライブ演奏を取り入れるアーティストが増加。
-Dr. Dre『The Chronic』(1992)はサンプリングを巧みに使用しつつ、G-funkではシンセやオリジナルベースラインを多用。
+### Papel de las cintas de demostración y la radio
+La nueva canción se transmitió en estaciones de radio locales (KDAY, KMEL) y los jóvenes que escucharon la cinta de demostración la difundieron de boca en boca. En particular, los DJ de la radio local actuaron como árbitros de la escena.
 
-### 代表的な名盤
+### Obra maestra representativa
 
-**East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
+[Ejecutar-D.M.C. “Levantando el infierno” (1986)](https://amzn.to/3IBasNE)
 
-**West Coast**: [2Pac『All Eyez on Me』(1996)](https://amzn.to/4261oak)
+[Enemigo público “Se necesita una nación de millones para detenernos” (1988)] (https://amzn.to/46Oz3YB)
 
-**South**: [OutKast『ATLiens』(1996)](https://amzn.to/4n9Fv2e)
+[N.W.A. “Directamente de Compton” (1988)](https://amzn.to/46OFZoF)
+
+### Cultura de muestreo
+
+Extraiga frases de discos de soul, funk y jazz utilizando un sampler (Akai MPC60/SP-1200). La cultura discográfica estaba en el centro de la producción, y el conocimiento de los DJ sobre los discos estaba directamente relacionado con su capacidad técnica.
+
 
 ---
 
-## 2000年代：デジタル化とクラブシーンの多様化
+## Década de 1990: el conflicto Este-Oeste, el ascenso del Sur, los clubes y la cultura discográfica
 
-### クラブ文化
-ニューヨークやLAのクラブでDJセットが進化。ラジオやストリーミング以前に、クラブのフロアで曲がバズる時代。
-ラップバトルはデモテープやインターネット以前、クラブが発信の中心でした。
+### Costa Este vs Costa Oeste
+Las tensiones regionales influyen en la música, como lo ejemplifica el conflicto entre The Notorious B.I.G. y 2Pac.
+Los clubes de Nueva York (Tunnel, Limelight) se convirtieron en lugares para batallas de rap y estrenos de nuevos lanzamientos, fomentando una cultura de batallas de rap.
 
-脱サンプリングと機材の変化
-DAW（Pro Tools, Ableton Live）の普及により、サンプリングに依存せず、シンセやプラグインで独自音源を制作可能に。
-これにより、オリジナルビートの比率が増加。
+### Sur (Atlanta, Houston, Nueva Orleans)
+OutKast y UGK surgieron y establecieron su propio sonido único. La distribución de cintas en los clubes contribuyó a la difusión del hip-hop regional.
 
-### 代表的な名盤
+### Movimiento hacia el desamuestreo
+Debido a problemas de derechos de autor y costos crecientes, un número cada vez mayor de artistas están recurriendo a la producción de fuentes de sonido originales y presentaciones en vivo.
+"The Chronic" (1992) de Dr. Dre utiliza hábilmente el muestreo, mientras que el G-funk utiliza muchos sintetizadores y líneas de bajo originales.
 
-[Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
+### Obra maestra representativa
+
+**Costa Este**: [El Notorious B.I.G. "Listo para morir" (1994)](https://amzn.to/3K94fcv)
+
+**Costa Oeste**: [2Pac “All Eyez on Me” (1996)](https://amzn.to/4261oak)
+
+**Sur**: [OutKast『ATLiens』 (1996)](https://amzn.to/4n9Fv2e)
+
+---
+
+## Década de 2000: Digitalización y diversificación de la escena de discotecas
+
+### Cultura de club
+Las sesiones de DJ evolucionaron en clubes de Nueva York y Los Ángeles. En una era anterior a la radio y el streaming, las canciones se convirtieron en un rumor en las discotecas.
+Antes de las cintas de demostración e Internet, las batallas de rap se centraban en los clubes.
+
+Demuestreo y cambios de equipos.
+Con la difusión de los DAW (Pro Tools, Ableton Live), ahora es posible crear fuentes de sonido únicas utilizando sintetizadores y complementos sin depender del muestreo.
+Esto aumenta la proporción de ritmos originales.
+
+### Obra maestra representativa
+
+[Jay-Z “El plano” (2001)] (https://amzn.to/4pC13WW)
 
 [OutKast『Speakerboxxx/The Love Below』(2003)](https://amzn.to/4gybkPM)
 
 ---
 
-## 2010年代〜現在：ストリーミング時代とグローバル化
+## Década de 2010-presente: era del streaming y globalización
 
-### クラブとオンライン文化の融合
-SoundCloud, YouTube, Spotifyなどでデジタルリリースが中心。クラブは即座に「反応を見る場」としての役割に変化。
-Battle RapやFreestyleはオンライン配信され、地域差を超えて評価される。
+### Combinando club y cultura online
+Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
+Battle Rap y Freestyle se distribuyen en línea y se aprecian más allá de las diferencias regionales.
 
-### 機材・制作環境
+### Equipo/entorno de producción
 
-ソフトウェアシンセ（Serum, Omnisphere）
+Sintetizador de software (Serum, Omnisphere)
 
-DAW（Ableton Live, FL Studio）
+DAW (Ableton Live, FL Estudio)
 
-プラグインやサンプルパックの利用拡大
+Ampliar el uso de complementos y paquetes de muestra
 
-### 代表的な名盤
+### Obra maestra representativa
 
-[Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
+[Kendrick Lamar “buen chico, m.A.A.d city” (2012)](https://amzn.to/4pCB4yv)
 
-[Migos『Culture』(2017)](https://amzn.to/3KAHUED)
-
----
-
-### 地域・クラブ・メディア・制作手法の総合的影響
-
-**東海岸**：ブレイクビーツ、社会派ラップ、レコード・サンプリング文化
-
-**西海岸**：ギャングスタ・ラップ、G-funk、クラブでのローリング・パーティー
-
-**南部**：トラップ、テープ流通、独自リズム感
-
-**クラブとラジオ**：発信力と拡散の場、フリースタイル文化の温床
-
-**サンプリング→脱サンプリング**：著作権問題や技術革新によりオリジナル制作へ進化
-
-ヒップホップは地域・クラブ・メディア・機材が密接に絡み合いながら進化してきた文化であり、今後も新技術とともに拡張し続けることが予想されます。
+[Migos『Cultura』(2017)](https://amzn.to/3KAHUED)
 
 ---
 
-## サンプリングの著作権訴訟の具体例
+### Influencia combinada de la región, el club, los medios y los métodos de producción
 
-- **Grand Upright Music v. Biz Markie (1991)**  
-  Gilbert O’Sullivanの "Alone Again" 無断サンプリング訴訟。以降、許可なしサンプルは違法と明確化。  
+**Costa Este**: Breakbeat, rap social, cultura del muestreo de discos
 
-- **Bridgeport Music v. Dimension Films (2005)**  
-  Funkadelicのギターループを無断使用した事件。サンプルは「一秒でも無断使用禁止」と判例化。  
+**Costa Oeste**: Gangsta rap, G-funk, fiestas en las discotecas
 
-- **The Turtles v. De La Soul (1989〜和解)**  
-  "Transmitting Live from Mars" における無許可サンプル。De La Soulは以降長年デジタル配信困難に。  
+**Parte sur**: Trap, distribución de cintas, sentido del ritmo único
 
----
+**Clubs y radio**: Un lugar de difusión y difusión, un hervidero de cultura freestyle
 
-## ミックステープ文化の役割
+**Muestreo → De-muestreo**: Evolución a producción original debido a problemas de derechos de autor e innovaciones tecnológicas
 
-- **DJ Clue, DJ Drama, DJ Screw** らによるミックステープは90s以降アンダーグラウンドからメインストリームへの橋渡しとなった。  
-- **南部 (Houston, ATL)** では「スクリュー・テープ」や「Gangsta Grillz」がシーンを形成し、レーベルに依存しないアーティスト発掘を可能にした。  
-- 2000年代にはMixtapeが「SoundCloud」「DatPiff」へ移行し、インターネット時代のプロモーション手段へ進化。  
+El hip-hop es una cultura que ha evolucionado a través de un estrecho entrelazamiento de regiones, clubes, medios y equipos, y se espera que continúe expandiéndose con nueva tecnología.
 
 ---
 
-## 年代別名盤とサンプリング傾向
+## Ejemplo específico de muestreo de litigios por derechos de autor
+
+- **Grand Upright Music contra Biz Markie (1991)**
+La demanda por muestreo no autorizado de Gilbert O'Sullivan por "Alone Again". Desde entonces se ha aclarado que las muestras sin permiso son ilegales.
+
+- **Bridgeport Music contra Dimension Films (2005)**
+Un incidente relacionado con el uso no autorizado del loop de guitarra de Funkadelic. Se ha convertido en un precedente legal que el uso de muestras sin permiso, aunque sea por un segundo, está prohibido.
+
+- **Las Tortugas contra De La Soul (1989~Asentamiento)**
+Muestra no autorizada en "Transmitiendo en vivo desde Marte". Desde entonces, De La Soul ha sido difícil de distribuir digitalmente durante muchos años.
+
+---
+
+## Papel de la cultura mixtape
+
+- Los mixtapes de **DJ Clue, DJ Drama, DJ Screw** y otros se convirtieron en un puente entre el underground y la corriente principal en los años 90 y más allá.
+- **Southern (Houston, ATL)** ``Screw Tape'' y ``Gangsta Grillz'' formaron la escena, permitiendo descubrir artistas independientes de los sellos.
+- En la década de 2000, Mixtape pasó a "SoundCloud" y "DatPiff" y evolucionó hasta convertirse en un medio de promoción en la era de Internet.
+
+---
+
+## Diferentes épocas y tendencias de muestreo.
 
 | 年代 | 名盤 | サンプリング傾向 | 
 |------|------|----------------|------|----------------|
@@ -198,7 +200,7 @@ DAW（Ableton Live, FL Studio）
 
 ---
 
-## 代表的クラブ／ラジオ局リスト
+## Lista de clubes/estaciones de radio representativos
 
 | 地域 | クラブ | ラジオ局 |
 |------|--------|----------|
@@ -209,7 +211,7 @@ DAW（Ableton Live, FL Studio）
 
 ---
 
-## 年代別代表機材リスト
+## Lista de equipos representativos por grupo de edad.
 
 | 年代 | 主な機材 |
 |------|----------|
@@ -221,7 +223,7 @@ DAW（Ableton Live, FL Studio）
 
 ---
 
-## 年代別勢力図の移り変わり
+## Cambios en la distribución eléctrica por grupo de edad
 
 | 年代 | 勢力中心 | 特徴 |
 |------|----------|------|
@@ -233,54 +235,54 @@ DAW（Ableton Live, FL Studio）
 
 ---
 
-## 可視化図解
+## Diagrama de visualización
 
-### 主要アーティスト系譜図
+### Genealogía de los principales artistas.
 <div class="mermaid">
-graph TD
-    A[DJ Kool Herc] --> B[Grandmaster Flash]
-    A --> C[Afrika Bambaataa]
-    B --> D[Run-D.M.C.]
-    C --> E[Public Enemy]
-    D --> F[N.W.A]
-    F --> G[Dr. Dre]
-    G --> H[Snoop Dogg]
-    G --> I[2Pac]
-    G --> J[Eminem]
-    E --> K[Nas]
-    E --> L[Jay-Z]
-    J --> M[50 Cent]
-    M --> N[Kendrick Lamar]
-    K --> O[J. Cole]
-    L --> O
-    H --> P[Lil Wayne]
-    P --> Q[Drake]
-    P --> R[Nicki Minaj]
-    Q --> S[Future]
-    S --> T[Young Thug]
-    T --> U[Travis Scott]
-    Q --> V[Migos]
-    V --> W[Lil Baby]
-    W --> X[21 Savage]
+gráfico TD
+A[DJ Kool Herc] --> B[Grandmaster Flash]
+A --> C[Afrika Bambaataa]
+B --> D[Ejecutar-D.M.C.]
+C --> E[Enemigo Público]
+D --> F[N.W.A]
+F --> G[Dr. Dre]
+G --> H[Snoop Dogg]
+G --> Yo[2Pac]
+G --> J[Eminem]
+E --> K[Nas]
+E --> L [Jay-Z]
+J --> M[50 céntimos]
+M --> N[Kendrick Lamar]
+K --> O[J. Col]
+L --> O
+H --> P[Pequeño Wayne]
+P --> Q[Drake]
+P --> R[Nicki Minaj]
+Q --> S[Futuro]
+S --> T[Joven matón]
+T --> U[Travis Scott]
+Q --> V[Migos]
+V -> W [pequeño bebé]
+W --> X[21 Salvaje]
 </div>
 
-系譜図はNYCの起源からWest、South、Midwestまで枝分かれする「血統」を示す。
-Jay-ZとNasの流れはEast Coastを継承し、Dr. DreからはWestとMidwestの二大系譜が伸びる。
+El cuadro genealógico muestra un "linaje" que se ramifica desde sus orígenes en Nueva York hasta el oeste, el sur y el medio oeste.
+Jay-Z y Nas heredaron el linaje de la Costa Este, y el linaje del Dr. Dre se extiende al Oeste y Medio Oeste.
 
 ---
 
-### 年代別勢力図の移り変わり
+### Cambios en la distribución eléctrica por grupo de edad
 
 <div class="mermaid">
 
-flowchart TB
-        E["1980s<br/>East Coast<br/>Dominance"]
-        W["1990s<br/>West Coast<br/>G-Funk 全盛"]
-        S["2000s<br/>South<br/>Crunk / Trap 前夜"]
-        M["2010s<br/>Trap<br/>+ Midwest Drill 台頭"]
-        P["2020s<br/>多極化:<br/>East + West + South + Midwest"]
+diagrama de flujo de tuberculosis
+E["Década de 1980<br/>Costa Este<br/>Dominio"]
+W["Década de 1990<br/>Costa Oeste<br/>G-Funk Heyday"]
+S["Década de 2000<br/>Sur<br/>Crunk / Trap Eve"]
+M["Década de 2010<br/>Trampa<br/>+ Aumento de la perforación en el Medio Oeste"]
+P["Década de 2020<br/>Multipolar:<br/>Este + Oeste + Sur + Medio Oeste"]
 
-    E --> W --> S --> M --> P
+E --> W --> S --> M --> P
 
 
 </div>
@@ -288,33 +290,33 @@ flowchart TB
 
 ---
 
-# ヒップホップ代表的ビートの波形比較
+# Comparación de formas de onda de ritmos típicos de hip-hop
 
-テキストベースではあるが、サイン波や矩形波を意識した擬似的な波形で表現する。  
-ヒップホップにおけるリズムの進化を「視覚的に」理解できる。
+Aunque está basado en texto, se expresa con pseudoformas de onda que tienen en cuenta ondas sinusoidales y ondas cuadradas.
+Puedes comprender visualmente la evolución del ritmo en el hip-hop.
 
 ---
 
-## 1980s（黎明期：ドラムマシンとサンプラー）
+## Década de 1980 (primeros días: cajas de ritmos y samplers)
 
 <table class="table-wave">
 <tr>
-<th>代表機材</th>
-<th>波形イメージ</th>
+<th>Equipo representativo</th>
+<th>Imagen de forma de onda</th>
 </tr>
 <tr>
 <td>
-- Roland TR-808  
-- Oberheim DMX  
-- E-mu SP-12  
+-Roland TR-808
+-Oberheim DMX
+-E-mu SP-12
 </td>
 <td>
 <div class="oscilloscope">
-Kick : ▂▄▆█▇▅▄▂  
-Snare: ▃▃▅▅██▅▃  
-HiHat: - - - - - - - -  
-Clap : ░░██░░  
-Bass : ▂▄▅▄▂  
+Patada: ▂▄▆█▇▅▄▂
+Trampa: ▃▃▅▅██▅▃
+HiHat: - - - - - - - -
+Aplaudir: ░░██░░
+Bajo: ▂▄▅▄▂
 </div>
 </td>
 </tr>
@@ -322,27 +324,27 @@ Bass : ▂▄▅▄▂
 
 ---
 
-## 1990s（黄金期：サンプリングとBoom Bap / G-Funk）
+## Década de 1990 (Edad de oro: muestreo y boom bap/G-Funk)
 
 <table class="table-wave">
 <tr>
-<th>代表機材</th>
-<th>波形イメージ</th>
+<th>Equipo representativo</th>
+<th>Imagen de forma de onda</th>
 </tr>
 <tr>
 <td>
-- Akai MPC60
-- Akai MPC3000  
-- E-mu SP-1200  
-- Roland TR-909  
+-Akai MPC60
+-Akai MPC3000
+-E-mu SP-1200
+-Roland TR-909
 </td>
 <td>
 <div class="oscilloscope">
-Kick : █▄█▄█▄█  
-Snare: ▄▄▄██▄▄▄  
-HiHat: -x-x-x-x-  
-Clap : ░█░░█░  
-Bass : ▂▄▆█▇▆▄▂  
+Patada: █▄█▄█▄█
+Trampa: ▄▄▄██▄▄▄
+HiHat: -x-x-x-x-
+Aplaudir: ░█░░█░
+Bajo: ▂▄▆█▇▆▄▂
 </div>
 </td>
 </tr>
@@ -350,26 +352,26 @@ Bass : ▂▄▆█▇▆▄▂
 
 ---
 
-## 2000s（デジタル化・クラブ重視）
+## Década de 2000 (digitalización/enfoque en clubes)
 
 <table class="table-wave">
 <tr>
-<th>代表機材</th>
-<th>波形イメージ</th>
+<th>Equipo representativo</th>
+<th>Imagen de forma de onda</th>
 </tr>
 <tr>
 <td>
-- Akai MPC2000XL  
-- Pro Tools  
-- Korg Triton  
+-Akai MPC2000XL
+-Herramientas profesionales
+- Korg Tritón
 </td>
 <td>
 <div class="oscilloscope">
-Kick : ███▄████  
-Snare: ▄▄▄▄████▄▄  
-HiHat: - - x - - x -  
-Clap : ░██░░██░  
-Bass : ▂▂▄▆██▆▄▂  
+Patada: ███▄████
+Trampa: ▄▄▄▄████▄▄
+HiHat: - - x - - x -
+Aplaudir: ░██░░██░
+Bajo: ▂▂▄▆██▆▄▂
 </div>
 </td>
 </tr>
@@ -377,26 +379,26 @@ Bass : ▂▂▄▆██▆▄▂
 
 ---
 
-## 2010s（Trap時代・サブベースと高速HiHat）
+## Década de 2010 (era Trap/subgraves y charles de alta velocidad)
 
 <table class="table-wave">
 <tr>
-<th>代表機材</th>
-<th>波形イメージ</th>
+<th>Equipo representativo</th>
+<th>Imagen de forma de onda</th>
 </tr>
 <tr>
 <td>
-- FL Studio  
-- Roland TR-808（ソフト音源）  
-- Ableton Live  
+- Estudio FL
+- Roland TR-808 (fuente de sonido suave)
+- Ableton en vivo
 </td>
 <td>
 <div class="oscilloscope">
-Kick : ██████▄██████  
-Snare: ▄▄██▄▄  
-HiHat: -x-x-x-x-x-x-x-  
-Clap : ░░██░░██░░  
-Bass : ▂▄▆█▇▇█▆▄▂  
+Patada: ██████▄██████
+Trampa: ▄▄██▄▄
+HiHat: -x-x-x-x-x-x-x-
+Aplaudir: ░░██░░██░░
+Bajo: ▂▄▆█▇▇█▆▄▂
 </div>
 </td>
 </tr>
@@ -404,53 +406,53 @@ Bass : ▂▄▆█▇▇█▆▄▂
 
 ---
 
-## 2020s（多様化・ジャンル横断）
+## Década de 2020 (diversificación/cruce de géneros)
 
 <table class="table-wave">
 <tr>
-<th>代表機材</th>
-<th>波形イメージ</th>
+<th>Equipo representativo</th>
+<th>Imagen de forma de onda</th>
 </tr>
 <tr>
 <td>
 - Ableton Live 11
-- Logic Pro X
-- Soft-synth
-（Serum, Massive, Omnisphere）  
+-Lógica Pro
+-Sintetizador suave
+(Suero, Masivo, Omnisfera)
 </td>
 <td>
 <div class="oscilloscope">
-Kick : ████████▄▄███
-Snare: ▄▄██▄▄██▄▄  
-HiHat: -x-xx-xx-x-x-  
-Clap : ░██░██░██░  
-Bass : ▂▄▇█▇█▇█▄▂  
+Patada: ████████▄▄███
+Trampa: ▄▄██▄▄██▄▄
+HiHat: -x-xx-xx-x-x-
+Aplaudir: ░██░██░██░
+Bajo: ▂▄▇█▇█▇█▄▂
 </div>
 </td>
 </tr>
 </table>
 
-**補足的考察**
+**Consideraciones adicionales**
 
-系譜図 によって「師弟関係」や「影響関係」を直感的に把握できる。
+Los diagramas genealógicos permiten a los estudiantes comprender intuitivamente las "relaciones maestro-alumno" y las "relaciones de influencia".
 
-波形比較 は、音楽的な進化を視覚的に捉えられる。
+La comparación de formas de onda le permite capturar visualmente la evolución musical.
 
-勢力図 は、時代ごとのシーンの中心がどの地域に移っていったかを可視化。
+El mapa de poder visualiza a qué región se ha desplazado el centro de la escena en cada época.
 
 ---
 
-## 結語
+## Conclusión
  
-ヒップホップは、地域ごとの文化や社会的背景を反映しながら進化してきました。東海岸、西海岸、南部それぞれに独自のスタイルが存在し、音楽だけでなく、ファッションや言語、社会運動など多岐にわたる影響を与えています。これからも新たな技術や表現方法が登場し、ヒップホップは進化し続けることでしょう。
+El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos que han influido no solo en la música, sino también en la moda, el idioma, los movimientos sociales y más. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
 
 ---
 
-### 関連コラム
+### Columnas relacionadas
 
 
-🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [[Columna] Descripción general del hip hop de la costa oeste: desde sus orígenes hasta el underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
 
-🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[Columna] Historia del hip hop de la costa este: desde el Bronx hasta Brooklyn y alrededor del mundo](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 

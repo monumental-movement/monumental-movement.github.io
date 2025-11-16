@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/VA – Tank Girl.webp
 lang: es
 layout: post
+permalink: /es/2024-12-18-VA – Tank Girl/
 tags:
 - Alternative Rock
 - Triphop
 - Gangsta
 - Punk
 - Soundtrack
-title: VA – Tank Girl
+title: VA - Chica tanque
 ---
 
 
-1995年に劇場公開されたレイチェル・タラレイ監督による終末ものSF映画「Tank Girl」のサウンドトラック。タンクガールは、UKでカルト的人気を誇るコミックの実写映像化。サウンドトラックはCourtney Love(コートニー・ラブ)によって組み立てられ、SPKのGraeme Revell(グレーム・レヴェル)はオリジナル音楽を提供した。Devoは、コミックの大ファンだったため、映画のために「Girl U Want」の新しいバージョンを録音した。
+Banda sonora de la película de ciencia ficción post-apocalíptica ``Tank Girl'' dirigida por Rachel Talalay, que se estrenó en cines en 1995. Tank Girl es una adaptación en imagen real de un cómic que tiene seguidores de culto en el Reino Unido. La banda sonora fue montada por Courtney Love y Graeme Revell de SPK proporcionó la música original. Devo grabó una nueva versión de "Girl U Want" para la película porque era una gran fanática del cómic.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -33,7 +34,7 @@ title: VA – Tank Girl
 12. Ice-T - Big Gun
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

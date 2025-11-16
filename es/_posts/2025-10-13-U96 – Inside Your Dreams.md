@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/U96 – Inside Your Dreams.webp
 lang: es
 layout: post
+permalink: /es/2025-10-13-U96 – Inside Your Dreams/
 tags:
 - Progressive House
 - Trance
 - Euro House
 - Techno
 - 90s
-title: U96 – Inside Your Dreams
+title: U96 – Dentro de tus sueños
 ---
 
 
-U96は、DJ/プロデューサーのAlex Christensenとプロデューサーチーム Matizによって結成されたドイツの音楽プロジェクト。
+U96 es un proyecto musical alemán formado por el DJ/productor Alex Christensen y el equipo de producción Matiz.
 
-1994年にリリースしたアルバム未収録曲「Inside Your Dreams」は、ヨーロッパのチャートで大ヒットを記録したProgressive House／Trance／Euro House／Techno。
+La canción que no forma parte del álbum "Inside Your Dreams" lanzada en 1994 fue un éxito de Progressive House/Trance/Euro House/Techno en las listas europeas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Inside Your Dreams (Phase 1)
 
 B. Inside Your Dreams (Phase 2)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87927697829?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87927697829?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb-RVfdwbAU?si=u2CFoka5csqKenp_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yb-RVfdwbAU?si=u2CFoka5csqKenp_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

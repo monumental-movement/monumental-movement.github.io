@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/CCP – Hard Work.webp
 lang: es
 layout: post
+permalink: /es/2024-03-23-CCP – Hard Work/
 tags:
 - House
 - Acid
 - 80s
-title: CCP – Hard Work
+title: PCC – Trabajo duro
 ---
 
 
-CCPは、Chris Hilbert, David Palmer, Peter Chapmanからなるグループです。
+CCP es un grupo formado por Chris Hilbert, David Palmer y Peter Chapman.
 
-A面のミックスは、平凡ですが、C+Cリミックス（ニューヨークシティミックス）は非常に優れており、彼らのファーストシングル「CCP - A Solution」に非常に似ています。
+La mezcla del lado A es mediocre, pero el remix de C+C (mezcla de la ciudad de Nueva York) es muy bueno, muy similar a su primer sencillo "CCP - A Solution".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Hard Work (The Workhouse Mix)
 
@@ -26,7 +27,7 @@ A2. Hard Work (Additional Edit Mix)
 B. Hard Work (New York City Mix)　Remix – Clivillés & Cole
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34295576737?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34295576737?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1U0qfUXewo?si=MUCGleeirJijUwan" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1U0qfUXewo?si=MUCGleeirJijUwan" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

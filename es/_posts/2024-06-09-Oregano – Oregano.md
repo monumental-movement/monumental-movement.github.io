@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Oregano – Oregano.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Oregano – Oregano/
 tags:
 - House
 - Deep House
 - 90s
-title: Oregano – Oregano
+title: Orégano – Orégano
 ---
 
 
-「Oregano by Oregano 」は、ミックスタイトルは記載されていませんが、1994年にFreeze RecordsからリリースされたTodd Terry（トッド・テリー）によるディープハウストラック。
+Aunque el título de la mezcla no aparece en la lista, "Oregano by Oregano" es una pista de deep house de Todd Terry lanzada por Freeze Records en 1994.
 
-Todd Terry（トッド・テリー）は、1984～86年の初期のシカゴハウスサウンドからハウスミュージックを進化させ、後にハウスのサウンドとヒップホップのブレイクを融合させよりエネルギッシュなサウンドを生み出し、アンダーグラウンドハウスシーンだけでなく商業的に成功したアメリカのDJ・レコードプロデューサー・ハウスミュージックのリミキサー。別名義でTodd Terry Project、Royal House、Black Riot、Swan Lake、Orange Lemonなどがある。Royal House名義では「Can You Party」が有名。
+Todd Terry es un DJ, productor discográfico y remezclador de música house estadounidense que evolucionó la música house a partir del sonido house temprano de Chicago de 1984-86, luego fusionó sonidos house con pausas de hip-hop para crear un sonido más enérgico y tuvo éxito comercial además de la escena house underground. Otros nombres incluyen Todd Terry Project, Royal House, Black Riot, Swan Lake y Orange Lemon. "Can You Party" es famoso bajo el nombre de Royal House.
 
-1980年代後半にはハウスとレイブミュージックを融合させたスタイルやクロスオーバーリミックスをリリースし、UKのアシッドハウスムーブメントの原動力だったと評されている。1996年にはマイケルジャクソンの「Stranger in Moscow」をリミックスするなど、リミキサー＆プロデューサーとしても精力的に活動している。
+A finales de la década de 1980, lanzaron remezclas cruzadas y un estilo que fusionaba house y música rave, y se dice que son la fuerza impulsora detrás del movimiento acid house del Reino Unido. También trabaja activamente como remezclador y productor, incluida la remezcla de "Stranger in Moscow" de Michael Jackson en 1996.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Oregano (Mix 1)
 A2. Oregano (Mix 2)
@@ -27,7 +28,7 @@ A2. Oregano (Mix 2)
 B. Oregano (Mix 3)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46563453826?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46563453826?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s5SrYB0K118?si=GNvA6g4mZHDye2Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s5SrYB0K118?si=GNvA6g4mZHDye2Rg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2).webp
 lang: es
 layout: post
+permalink: /es/2023-10-01-Lennie De Ice – We Are I.E. (Part 1 of 2)/
 tags:
 - House
 - Hard House
-title: Lennie De Ice – We Are I.E. (Part 1 of 2)
+title: Lennie De Ice – Somos I.E. (Parte 1 de 2)
 ---
 
 
-「We Are I.E.」は、イギリスのブレイクビート&ハードコアプロデューサー、Lennie De Ice(レニー・デ・アイス　本名レンワース・グリーン)の楽曲です。
+"Somos IE." es una canción del productor británico de breakbeat y hardcore Lennie De Ice (nombre real Lenworth Green).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. We Are I.E. (Johan S Toxic Mix)
 
@@ -25,7 +26,7 @@ B1. We Are I.E. (Bulletproof Underground Dub)
 B2. We Are I.E. (Original)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70780419709?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70780419709?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qe0QBw6V_5g?si=qxr3yy1UWI0PIpio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qe0QBw6V_5g?si=qxr3yy1UWI0PIpio" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,62 +5,63 @@ categories:
 image: ../assets/images/Band Aid – Do They Know It's Christmas.webp
 lang: es
 layout: post
+permalink: /es/2023-11-04-Band Aid – Do They Know Its Christmas/
 tags:
 - Rock
 - Pops
-title: Band Aid – Do They Know It's Christmas
+title: 'Band Aid: ¿saben que es Navidad?'
 ---
 
 
-Band Aid（バンドエイド）は、エチオピアの飢餓撲滅活動への資金を集めるためにボブ・ゲルドフとミッジ・ユーロによって1984年に設立された、イギリスとアイルランドのロック・ポップス界のスーパースターが集まったチャリティー・プロジェクトグループ。
+Band Aid es un grupo de proyecto benéfico formado por Bob Geldof y Midge Ure en 1984 para recaudar fondos para los esfuerzos de erradicación del hambre en Etiopía, reuniendo a superestrellas del pop y el rock británico e irlandés.
 
- 【参加アーティスト】は以下の通りです。
+[Artistas participantes] son ​​los siguientes.
 
-・フィル・コリンズ（ジェネシス）
+・Phil Collins (Génesis)
 
-・ブームタウン・ラッツ
+・Ratas de Boomtown
 
-・スパンダー・バレエ
+・Ballet Spandau
 
-・ミッジ・ユーロ、クリス・クロス（ウルトラヴォックス）
+・Midge Ure, Chris Cross (Ultravox)
 
-・デュラン・デュラン
+・Durán Durán
 
-・ポール・ヤング
+・Pablo joven
 
-・ヘヴン17
+・Cielo 17
 
-・マリリン
+・Marylin
 
-・バナナラマ
+・Plátanorama
 
-・ジョディ・ワトリー（シャラマー）
+・Jody Watley (Shalamar)
 
-・ボノ、アダム・クレイトン（U2）
+・Bono, Adam Clayton (U2)
 
-・ポール・ウェラー（スタイル・カウンシル）
+・Paul Weller (Consejo de estilo)
 
-・クール&ザ・ギャング
+・Kool y la pandilla
 
-・ジョージ・マイケル（ワム!）
+・George Michael (¡zas!)
 
-・ステイタス・クォー
+·Status quo
 
-・ボーイ・ジョージ、ジョン・モス（カルチャー・クラブ）
+・Boy George, Jon Moss (Club de Cultura)
 
-・スティング（ポリス）
+・Sting (Policía)
 
-・デヴィッド・ボウイ
+・David Bowie
 
-・フランキー・ゴーズ・トゥ・ハリウッド
+・Frankie va a Hollywood
 
-・ポール・マッカートニー 
+・Paul McCartney
 
-・ビッグ・カントリー
+・País grande
 
-・トレヴァー・ホーン
+・Trevor Horn
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Do They Know It's Christmas? (12" Mix)
 
@@ -68,7 +69,7 @@ B1. Do They Know It's Christmas? (Standard Mix)
 
 B2. Feed The World
 ```
-[メルカリで購入](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57662834439?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j3fSknbR7Y4?si=ystwOi1DXMpBHz0u" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

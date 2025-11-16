@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/DNS – Lucid Journey.webp
 lang: es
 layout: post
+permalink: /es/2024-04-15-DNS – Lucid Journey/
 tags:
 - Trance
 - Progressive Trance
-title: DNS – Lucid Journey
+title: DNS – Viaje lúcido
 ---
 
 
-DNSは、D LewisとStuart Bによるユニット。
+DNS es una unidad de D Lewis y Stuart B.
 
-プロデューサーは、ジャングルテクノの先駆者でありドラムンベースの初期から活躍したJack Smooth (J.Smooth)として知られるRon Wells（ロン・ウェルズ）。
+El productor es Ron Wells, conocido como Jack Smooth (J.Smooth), pionero del Jungle Techno y activo desde los inicios del Drum and Bass.
 
-「Lucid Journey / Static」は、Jack Smoothが運営するUKのハードトランス・トランスレーベルBedhopper Recordingsから1994年にリリースされた。
+``Lucid Journey / Static'' fue lanzado en 1994 en Bedhopper Recordings, el sello de trance duro británico de Jack Smooth.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Lucid Journey
 
 AA. Static
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKK_5uhxEUQ?si=9_2iwHpYwL2fMIHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKK_5uhxEUQ?si=9_2iwHpYwL2fMIHH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

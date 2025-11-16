@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Blues Explosion – Extra Width.webp
 lang: es
 layout: post
+permalink: /es/2024-06-10-Blues Explosion – Extra Width/
 tags:
 - Rock
 - Blues
 - Garage Rock
 - Alternative
 - 90s
-title: Blues Explosion – Extra Width
+title: Explosión de blues – Ancho extra
 ---
 
 
-The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・エクスプロージョン）は、1991年〜2016年まで活動したNY出身の3人組ロックバンド。ロックをベースにパンク、ブルース、ガレージ、ロカビリー、ソウル、ノイズロック、リズムアンドブルース、ヒップホップの要素が融合したスタイルが特徴。
+The Jon Spencer Blues Explosion fue una banda de rock de tres integrantes de Nueva York que estuvo activa desde 1991 hasta 2016. Su estilo se basa en el rock y combina elementos de punk, blues, garage, rockabilly, soul, noise rock, ritmo y blues y hip-hop.
 
-「Extra Width」1993年に発表した3rdアルバムで、日本では1995年にリリースされた。12,13曲目は日本盤のみボーナストラック。
+"Extra Width" es su tercer álbum lanzado en 1993 y fue lanzado en Japón en 1995. Las pistas 12 y 13 son pistas extra sólo en la versión japonesa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Afro
 2. History Of Lies
@@ -36,7 +37,7 @@ The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・�
 13. Memphis Soul Typecast
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

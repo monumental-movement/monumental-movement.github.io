@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Cpen – Monsters.webp
 lang: es
 layout: post
+permalink: /es/2025-08-21-Cpen – Monsters/
 tags:
 - Deep House
 - Tech House
 - 00s
-title: Cpen – Monsters
+title: Cpen – Monstruos
 ---
 
 
-CPENことChris Penny は、WestCoast House の代表的アーティストの一人として、Seasons Recordings, Naked Music, Icon Recordings, Transfusion などのレーベルで多くの作品をリリースする、エレクトロニック／ハウス プロデューサー。J.T. DonaldsonとのユニットUntitled Orchestraや、Lance DeSardiとのユニットCurb Feelersとしても活動している。
+Chris Penny, también conocido como CPEN, es un productor de electrónica/house que ha lanzado muchos trabajos en sellos como Seasons Recordings, Naked Music, Icon Recordings y Transfusion como uno de los artistas representativos de WestCoast House. También participa activamente en la unidad Untitled Orchestra con J.T. Donaldson y la unidad Curb Feelers con Lance DeSardi.
 
-「Monsters」は、レーベルMemorabiliaから2006年にリリースされたDeep House／Tech House。
+"Monsters" es una canción de Deep House/Tech House lanzada en 2006 por el sello Memorabilia.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Monsters (Original Mix)
 
@@ -26,7 +27,7 @@ B1. Monsters (DJ Mr. Gil & Ricardo Motta Remix)
 B2. Monsters (Mondino Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55407425290?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m55407425290?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GNyvKcJAFqY?si=UYCCauXWSIVA1xte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GNyvKcJAFqY?si=UYCCauXWSIVA1xte" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

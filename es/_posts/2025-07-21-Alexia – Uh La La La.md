@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Alexia – Uh La La La.webp
 lang: es
 layout: post
+permalink: /es/2025-07-21-Alexia – Uh La La La/
 tags:
 - Downtempo
 - Euro House
 - Euro
 - House
 - 90s
-title: Alexia – Uh La La La
+title: Alexia - Uh la la la
 ---
 
 
-Alexia(アレクシア)は、イタリア出身のシンガー。本名のAlessia AquilaniやAlexia Cooper名義でも活動している。
+Alexia es una cantante de Italia. También trabaja con su nombre real, Alessia Aquilani y Alexia Cooper.
 
-「 Uh La La La 」は、1997年にリリースされたAlexiaのデビューアルバム『Fun Clubファンクラブ』からのシングルカット。イタリアのチャートで1位を獲得し、世界的にもヒットしたAlexiaの代表曲。このレコードは、イタリアンハウス/ユーロダンスレーベルDWAから1997年にリリースされたDowntempo, Euro Houseトラック。
+"Uh La La La" es un sencillo del álbum debut de Alexia, "Fun Club", lanzado en 1997. La canción característica de Alexia que encabezó las listas italianas y se convirtió en un éxito mundial. Este disco es un tema Downtempo, Euro House lanzado en 1997 en el sello italiano house/Euro dance DWA.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Uh La La La (Club Mix)
 A2. Uh La La La (Cellular Mix)
@@ -28,7 +29,7 @@ B1. Uh La La La (Original Mix)
 B2. Uh La La La (Acappella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84437385117?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84437385117?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SvPErP5DJ6o?si=leNgUbDT460zJqAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SvPErP5DJ6o?si=leNgUbDT460zJqAg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

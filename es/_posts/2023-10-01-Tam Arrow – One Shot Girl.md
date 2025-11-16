@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Tam Arrow – One Shot Girl.webp
 lang: es
 layout: post
+permalink: /es/2023-10-01-Tam Arrow – One Shot Girl/
 tags:
 - Euro Beat
 - Hi NRG
-title: Tam Arrow – One Shot Girl
+title: Tam Arrow - Chica de un disparo
 ---
 
 
-「One Shot Girl」は、
-2001年にイタリアのレーベル「Live Music」からリリースされたTam Arrow(本名Claudio Magnani)によるEPです。
+“One Shot Girl” es
+Este es un EP de Tam Arrow (nombre real Claudio Magnani) lanzado en el sello italiano "Live Music" en 2001.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Joe Banana–Bang Bang Bang (Extended Version)
 
@@ -27,7 +28,7 @@ B1. Beat Man–Future Boy (Extended Version)
 B2. P. Stone–Kosmic Woofer (Extended Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53285819387?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

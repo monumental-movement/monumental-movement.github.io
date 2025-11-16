@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Larry Carlton – Larry Carlton.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Larry Carlton – Larry Carlton/
 tags:
 - Fusion Jazz
 - Jazz
@@ -13,9 +14,9 @@ title: Larry Carlton – Larry Carlton
 ---
 
 
-「Mr.335」の愛称で知られるラリー・カールトンは、4度のグラミー賞に輝き、常にフュージョン界をリードしてきたレジェンド・ギタリストです。自身の名前を関したこのアルバムは、ラリー・カールトンのギターリストとしての地位を固めた一枚となりました。
+Larry Carlton, apodado "Mr. 335", es un guitarrista legendario que ganó cuatro premios Grammy y siempre ha sido un líder en el mundo de la fusión. Este álbum, que lleva su nombre, solidificó el estatus de Larry Carlton como guitarrista.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Room 335
 
@@ -34,7 +35,7 @@ B3. Don´t Give It Up
 B4. (It Was) Only Yesterday
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14275784867?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14275784867?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PeXIWyhB4F8?si=BjZzCyzgE6e_ed2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PeXIWyhB4F8?si=BjZzCyzgE6e_ed2n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

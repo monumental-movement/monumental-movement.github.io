@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Zongamin – Zongamin.webp
 lang: es
 layout: post
+permalink: /es/2024-12-04-Zongamin – Zongamin/
 tags:
 - Abstract
 - Techno
 - Disco
 - 00s
-title: Zongamin – Zongamin
+title: Zongamín – Zongamín
 ---
 
 
-ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身のミュージシャン兼プロデューサー。 Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft等のremixerとして活躍しており、Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosisのメンバーとしてプレイしている。
+Mukai Susumu Mukai, también conocido como Zongamin, es un músico y productor japonés afincado en el Reino Unido. Está activo como remezclador de Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft, etc., y toca como miembro de Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosis.
 
-「Zongamin」は2003年にXL Recordingsからリリースされたデビューアルバム。
+"Zongamin" es el álbum debut lanzado por XL Recordings en 2003.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Make Love Not War
 2. Serious Trouble
@@ -35,8 +36,8 @@ ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身の�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1awdfNI69Bk?si=j7c9I05hSXHq0uDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1awdfNI69Bk?si=j7c9I05hSXHq0uDF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

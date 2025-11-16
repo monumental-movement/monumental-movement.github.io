@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Luke Slater – All Exhale.webp
 lang: es
 layout: post
+permalink: /es/2025-07-12-Luke Slater – All Exhale/
 tags:
 - Breaks
 - Techno
 - Electro
 - 00s
-title: Luke Slater – All Exhale
+title: Luke Slater - Todos exhalan
 ---
 
 
-「All Exhale」は、2000年にレーベルNovaMute （Muteグループ）からリリースされた、UKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるシングル。オリジナル版は、1999年リリースの名作アルバム「Wireless」に収録されている。パワフルなドライビング・テクノトラックは大ヒットとなり、クラブで頻繁にプレイされたアンセム。
+"All Exhale" es un sencillo del DJ y productor de techno británico Luke Slater, lanzado en 2000 con el sello NovaMute (grupo Mute). La versión original se incluyó en el álbum clásico "Wireless" lanzado en 1999. La poderosa pista techno fue un gran éxito y un himno que se tocaba con frecuencia en los clubes.
 
-4曲目は、1998年から2003年まで活動したイギリスのエレクトロニックデュオFutureshockによるremix。
+La cuarta canción es un remix de Futureshock, un dúo electrónico británico que estuvo activo desde 1998 hasta 2003.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. All Exhale (Electropunk Mix)
 2. All Exhale (Original Mix)
@@ -26,7 +27,7 @@ title: Luke Slater – All Exhale
 4. All Exhale (Futureshock Remix Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91117666644?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91117666644?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TimXnbtZp2c?si=ddgkL48nYixLceqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TimXnbtZp2c?si=ddgkL48nYixLceqh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Space Cowboy – Running Away.webp
 lang: es
 layout: post
+permalink: /es/2024-11-15-Space Cowboy – Running Away/
 tags:
 - House
 - Electro
 - 00s
-title: Space Cowboy – Running Away
+title: Vaquero espacial – Huyendo
 ---
 
 
-Space CowboyことNicolas Jean-Pierre Patrick Drestiはフランス系イギリス人のDJ・シンガーソングライター・プロデューサー。DJ Apex、DJ Supreme、Kings Of Rhythmなど様々な名義でリリースしているが、2002年からはSpace Cowboyを使用している。2000年代後半からはレディーガガのパーソナルDJを務める。
+Nicolas Jean-Pierre Patrick Dresti, también conocido como Space Cowboy, es un DJ, cantautor y productor franco-británico. Ha lanzado lanzamientos bajo varios nombres como DJ Apex, DJ Supreme y Kings Of Rhythm, pero ha estado usando Space Cowboy desde 2002. Desde finales de la década de 2000, ha sido el DJ personal de Lady Gaga.
 
-「Running Away」はUKのインディペンデントレーベルTiger Traxから2007年にリリースされたハウス・エレクトロトラック。
+"Running Away" es una pista de house electro lanzada en 2007 por el sello independiente británico Tiger Trax.
 
-B面はMSTRKRFTのJFKことJesse F. Keelerによるremix。
+La cara B es un remix de Jesse F. Keeler, también conocido como JFK de MSTRKRFT.
 
-ジャケットはwill.i.am, Natalia Kills, Steve Aoki, Keri Hilson, NERD などのジャケットを手がけるJames Suttonによるもの。
+La chaqueta es de James Sutton, quien ha creado chaquetas para will.i.am, Natalia Kills, Steve Aoki, Keri Hilson, NERD y más.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Running Away (Original)
 A2. Running Away (Accapella)
@@ -32,7 +33,7 @@ B1. Running Away (MSTRKRFT (JFK) Remix)
 B2. Running Away (MSTRKRFT (JFK) Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18722694725?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18722694725?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tdf70B2R3oI?si=8SqtWMaQhQnpYsMb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tdf70B2R3oI?si=8SqtWMaQhQnpYsMb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

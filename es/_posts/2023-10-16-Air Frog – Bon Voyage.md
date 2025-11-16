@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Air Frog – Bon Voyage.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-Air Frog – Bon Voyage/
 tags:
 - Techno
-title: Air Frog – Bon Voyage
+title: Rana de aire - Buen viaje
 ---
 
 
-Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。
+Air Frog es un proyecto de techno del DJ y productor de techno sueco Jesper Dahlbäck (JESPER DAHLBACK) y Stephan Grieder.
 
-B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。
+La cara B es un remix del DJ y productor de techno sueco Adam Beyer.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Bon Voyage (Original)
 
 B. Bon Voyage (Adam Beyer Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40912190756?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m40912190756?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hhqpq3PrPyY?si=xBjV-ro3DX2b-pIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hhqpq3PrPyY?si=xBjV-ro3DX2b-pIf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

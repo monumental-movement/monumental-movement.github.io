@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Outside – Suspicious.webp
 lang: es
 layout: post
+permalink: /es/2025-02-25-Outside – Suspicious/
 tags:
 - Acid Jazz
 - Downtempo
 - Ambient
 - 90s
-title: Outside – Sus?icious
+title: Afuera – Sospechoso
 ---
 
 
-Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
+Outside es un grupo británico de jazz-funk formado por Matt Cooper, Andreas Allen y Patrice Blanchard.
 
-2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
+Las pistas 2 y 8 cuentan con la participación del cantante británico Cleveland Watkiss.
 
-4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
+Las pistas 4 y 7 presentan a Constantine Weir del grupo británico de acid jazz Galliano.
 
-このCDは1998年にAvexからリリースされた日本盤。
+Este CD es una versión japonesa publicada por Avex en 1998.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. To Fly As Fast As Thought
 2. The Blackman And The Jew (Similarities)
@@ -39,7 +40,7 @@ Bonus Tracks
 11. Revelation (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

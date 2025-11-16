@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/XTC – Nonsuch.webp
 lang: es
 layout: post
+permalink: /es/2024-12-13-XTC – Nonsuch/
 tags:
 - Pop Rock
 - Rock
 - 90s
-title: XTC – Nonsuch
+title: XTC – Ninguno de estos
 ---
 
 
-「Nonsuch 」は、1992年にVirginからリリースされたUKのロックバンドXTCの12枚目のスタイルアルバム。プロデューサーにはエルトン・ジョンの作品などを手がけるGus Dudgeon(ガス・ダッジョン)。愛、人間性から湾岸戦争、P•T•バーナムまで多岐にわたるトピックに言及したXTCの中では最も政治的なアルバムとなっており、アメリカとイギリスでヒットとなった。
+"Nonsuch" es el duodécimo álbum de estilo de la banda de rock británica XTC, lanzado por Virgin en 1992. El productor es Gus Dudgeon, quien ha trabajado en las obras de Elton John. Fue el álbum más político de XTC, tocó temas que iban desde el amor y la humanidad hasta la Guerra del Golfo y P•T•Barnum, y fue un éxito en Estados Unidos y Reino Unido.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Ballad Of Peter Pumpkinhead
 2. My Bird Performs
@@ -36,7 +37,7 @@ title: XTC – Nonsuch
 17. Books Are Burning
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

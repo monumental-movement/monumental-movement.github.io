@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/pickup-tresor.webp
 lang: es
 layout: post
+permalink: /es/2025-08-26-Pickup-Tresor/
 tags:
 - Techno
 - German Techno
 - 90s
-title: Tresor(トレゾア)作品をピックアップ
+title: Recoger obras Tresor
 ---
 
 
-「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
+“El latido del techno resonando detrás de la puerta de hierro, las notables obras de Tresor”
 
 <hr>
 
 
 
-### Joey Beltram – The Rising Sun
+### Joey Beltram – El sol naciente
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-概要：2004年にTresorからリリースされたJoey Beltramの作品。MMRではCDフォーマットで入手可能です。
+Descripción general: obra de Joey Beltram publicada por Tresor en 2004. Disponible en formato CD en MMR.
 
 
-魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
+Punto atractivo: Incluye muchas canciones representativas del veterano productor de techno Joey Beltram. A través de la colaboración con Tresor, puedes disfrutar de su mundo sonoro más profundo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Resurgence
 2. It Works
@@ -42,24 +43,24 @@ title: Tresor(トレゾア)作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Joey Beltram – Game Form
+### Joey Beltram – Forma de juego
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
-概要：「Game Form」およびロバート・アルマーニやマイク・ディアボーンによるリミックスを収録したシングル。2004年リリース。
+Resumen: Un sencillo que contiene "Game Form" y remezclas de Robert Armani y Mike Dearborn. Lanzado en 2004.
 
 
-魅力ポイント：リミックス含めてダンスフロア仕様の強力なトラックが揃う、エクスクルーシブなヴァイナル作品です。
+Punto atractivo: Se trata de un trabajo exclusivo en vinilo con potentes temas de pista de baile que incluyen remezclas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Game Form
 
@@ -68,23 +69,23 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 6
+### Varios - Compilación Tresor vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-概要：1998年リリースのTresorによるコンピレーションアルバム。1999年のVol.7に続く、初期のTresorの魅力が詰まった一枚です。
+Resumen: Un álbum recopilatorio de Tresor lanzado en 1998. Después del Vol.7 de 1999, esta es una pieza llena del encanto de los primeros Tresor.
 
 
-魅力ポイント：90年代後半のベルリン・テクノシーンを象徴する豪華ラインナップが収録されており、レーベルのルーツと初期サウンドを深く味わえる良い入門盤。
+Punto atractivo: Contiene una formación lujosa que simboliza la escena techno berlinesa de finales de los 90, y es un buen álbum introductorio que permite disfrutar profundamente de las raíces y los primeros sonidos del sello.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -102,23 +103,23 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
-### Various – Tresor Compilation Vol. 7
+### Varios - Compilación Tresor vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-概要：1999年発表のTresorコンピレーション第7弾。Sven Väth や Ben Sims、James Ruskin、Daniel Bell、DJ Shufflemaster など、世界的アーティストの楽曲が収録された豪華コレクションです。
+Resumen: La séptima compilación de Tresor lanzada en 1999. Una magnífica colección de canciones de artistas mundialmente famosos como Sven Väth, Ben Sims, James Ruskin, Daniel Bell y DJ Shufflemaster.
 
 
-魅力ポイント：Dubテクノやアンビエントなど幅広いスタイルを網羅し、Tresorレーベルのエッセンスを余すところなく体感できる一枚。初心者にもおすすめです。
+Punto atractivo: Abarca una amplia gama de estilos como dub techno y ambient, y permite vivir plenamente la esencia del sello Tresor. Recomendado para principiantes.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -135,24 +136,24 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlín 1992 Tresor Kompilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-概要：1992年にリリースされたTresor初期のコンピレーション作品。A面〜D面まで多彩なアーティストによる楽曲が詰め込まれた凝縮された内容です。
+Resumen: El primer trabajo recopilatorio de Tresor lanzado en 1992. Es un contenido condensado repleto de canciones de una variedad de artistas de los lados A a D.
 
 
-魅力ポイント：「Klang Der Familie」（家族の響き）というタイトル通り、ベルリンのテクノカルチャー形成期をリアルに感じさせる歴史的名作。アナログファンには特におすすめ。
+Punto atractivo: Como sugiere el título, "Klang Der Familie" (Sonidos de la familia), se trata de una obra maestra histórica que da una sensación realista al período de formación de la cultura techno de Berlín. Especialmente recomendado para aficionados a lo analógico.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -168,23 +169,23 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 ### DJ Shufflemaster – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-概要：日本のハードテクノDJ／プロデューサーであるDJ Shufflemaster（金森達也）による、2001年リリースのフルアルバム。Tresorから発表された代表作として知られています。
+Resumen: Un álbum de larga duración lanzado en 2001 por el DJ y productor japonés de hard techno DJ Shufflemaster (Tatsuya Kanamori). Se la conoce como una obra maestra lanzada por Tresor.
 
 
-魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
+Punto atractivo: El sonido techno profundo y duro y la composición detallada son atractivos. Ha recibido grandes elogios a nivel internacional y es un valioso artista japonés que se ha extendido por el mundo a través de su relación con Tresor.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. EXP
 A2. Slip Inside You
@@ -200,23 +201,23 @@ D2. Innervisions
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
-### Chrislo – Low
+### Chrislo - Bajo
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-概要：Joey Beltramの作品ページ（The Rising Sun）の「Explore more like this」セクションに現れる関連アーティストの一つです。Chrislo Haasによる作品で、Tresor 092。
+Descripción general: uno de los artistas relacionados que aparece en la sección "Explora más como este" de la página de trabajo de Joey Beltram (The Rising Sun). Por Chrislo Haas, Tresor 092.
 
 
-魅力ポイント：D.A.F. や Liaisons Dangereuses などで知られるChrislo Haasのソロ活動として、ベルリンの実験的な電子音楽への強烈な接続を感じさせる一作。
+Punto atractivo: Este es un trabajo en solitario de Chrislo Haas, conocido por su trabajo como D.A.F. y Liaisons Dangereuses, y muestra una fuerte conexión con la música electrónica experimental de Berlín.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. La Chouette
 2. Hangars D'Orion
@@ -230,11 +231,11 @@ D2. Innervisions
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Bookem Dano – Screem.webp
 lang: es
 layout: post
+permalink: /es/2025-10-20-Bookem Dano – Screem/
 tags:
 - House
 title: Bookem Dano – Screem
 ---
 
 
-Bookem Dano (Book 'Em Dano)ことSal Dano
-はNY出身のDJ／プロデューサー。
+Bookem Dano (Book 'Em Dano) también conocido como Sal Dano
+es un DJ/productor de Nueva York.
 
-「Screem」は、UnofficialリリースのHouseトラック。
+“Screem” es una canción House lanzada por Unofficial.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Screem (Vocal)
 
 B. Screem (Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}

@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Stereo Action Unlimited – Lovelight.webp
 lang: es
 layout: post
+permalink: /es/2024-11-02-Stereo Action Unlimited – Lovelight/
 tags:
 - Downtempo
 - French
 - 00s
-title: Stereo Action Unlimited – Lovelight
+title: Acción estéreo ilimitada – Lovelight
 ---
 
 
-Stereo Action UnlimitedはChristoph H. MüllerとPhilippe Cohenによるデュオ。
+Stereo Action Unlimited es el dúo formado por Christoph H. Müller y Philippe Cohen.
 
-1995年にPhilippe Cohen(フィリップ・コーエン)が設立したフランスのレーベル¡Ya Basta!から2001年にリリースされたダウンテンポトラック。
+Un sello francés fundado por Philippe Cohen en 1995. Un tema downtempo lanzado en 2001 por Ya Basta!.
 
-A面1曲目はMo'Smog Records、Dejavu、SynthonicのレーベルプロデューサーPaolo Scotti(パオロ・スコッティ)によるremix。
+La primera pista de la cara A es un remix del productor del sello Paolo Scotti de Mo'Smog Records, Dejavu y Synthonic.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lovelight (Paolo & Edda Love Bossa Mix)
 A2. Lovelight (Original Version)
@@ -29,7 +30,7 @@ B2. Lovelight (Tiki Variation)
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63403540874?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63403540874?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cLiONsxVlmg?si=LIbID7wwpu40r7Mh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cLiONsxVlmg?si=LIbID7wwpu40r7Mh" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

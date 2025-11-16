@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Snakeman Show  – Snakeman Show.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Snakeman Show  – Snakeman Show/
 tags:
 - JPop
 - Techno
-title: Snakeman Show  – Snakeman Show
+title: Espectáculo del hombre serpiente – Espectáculo del hombre serpiente
 ---
 
 
-スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
-ポール・マッカートニー逮捕後の架空の警察尋問があります。
+Como curiosidad sobre el tema A5 incluido en el Snakeman Show "¡Date prisa y chúpalo con la boca!"
+Hay un hipotético interrogatorio policial tras el arresto de Paul McCartney.
 
-ポール・マッカートニーが日本で逮捕された後の架空の警察尋問を題材にしており、彼は何度もサインを求められます。
+La película se basa en un interrogatorio policial ficticio a Paul McCartney tras su arresto en Japón, donde le piden repetidamente su autógrafo.
 
-1980年1月、ポール・マッカートニーは来日公演のために日本を訪れました。しかし、成田空港に到着した際に、所持していた大麻の量が多すぎるとして逮捕されました。マッカートニーは数日間拘留された後、罰金刑を言い渡されて国外退去を余儀なくされました。
+En enero de 1980, Paul McCartney visitó Japón para una actuación allí. Sin embargo, cuando llegó al aeropuerto de Narita, fue arrestado por posesión de una cantidad excesiva de marihuana. Después de estar detenido durante varios días, McCartney fue condenado a una multa y obligado a abandonar el país.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Snakeman Show–盗聴エディー P-1
 
@@ -59,7 +60,7 @@ B9. ユー・アンドーミー・オルガスムス・オーケストラ–ご�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

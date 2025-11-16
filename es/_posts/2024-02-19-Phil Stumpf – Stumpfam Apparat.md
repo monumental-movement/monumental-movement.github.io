@@ -5,33 +5,34 @@ categories:
 image: ../assets/images/Phil Stumpf – Stumpfam Apparat.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Phil Stumpf – Stumpfam Apparat/
 tags:
 - Minimal
 - Techno
 - 00s
-title: Phil Stumpf – Stumpfam Apparat
+title: Phil Stumpf - Aparato Stumpfam
 ---
 
 
-ジャーマンポストロックの「OH.」のメンバーでもあり、Sam Rouanetとのユニット「DUPLEX 100」としても活躍するPhil Stumpfのミニマルトラック。
+Un tema minimalista de Phil Stumpf, quien también es miembro de la banda alemana de post-rock ``OH'' y también está activo como la unidad ``DUPLEX 100'' con Sam Rouanet.
 
-ドイツのハウスレーベルTom Bone Vibrating Music より2005年にリリース。
+Lanzado en 2005 con el sello house alemán Tom Bone Vibrating Music.
 
-A面２曲目はGwen Maze （グウェンメイズ）によるremix。
+La segunda canción de la cara A es un remix de Gwen Maze.
 
-フィル・ストゥンプ（1973年、ドイツ生まれ）は1993年からミュージシャンとして活動し、様々なバンドやプロジェクトに参加してきました。
+Phil Stumpf (nacido en 1973 en Alemania) ha estado activo como músico desde 1993 y ha participado en varias bandas y proyectos.
 
-1980年代後半から90年代初頭にかけてはインディーロック畑にいましたが、Mouse on MarsやTortoiseといったバンド、エレクトロニックミュージックとそのミニマルな構造に魅了され、影響を受けました。
+A finales de los 80 y principios de los 90, estaba en el campo del indie rock y me fascinaban e influenciaban bandas como Mouse on Mars y Tortoise, así como la música electrónica y sus estructuras minimalistas.
 
-主に所属していたバンドoh.を通してダンスフロアに辿り着いた彼は、ミニマルグルーヴを発見し、1999年には自身の名前でのクラブトラック制作を開始。
+Habiendo encontrado su camino en la pista de baile principalmente a través de su banda oh., descubrió el minimal groove y comenzó a producir temas de club bajo su propio nombre en 1999.
 
-また、フランス人パートナーのサミュエル・ルアナートとDuplex 100としても活動します。
+También trabajará como Duplex 100 con su socio francés Samuel Rouanat.
 
-2001年にはパリに移り住み、サミュエル・ルアナートと共にヌーボーカジノで「Minimal Dancin」というクラブナイトを立ち上げました。
+En 2001, se mudó a París y cofundó un club nocturno llamado "Minimal Dancin" en el Nouveau Casino con Samuel Rouanat.
 
-現在はサミュエル・ルアナートとジェームス・シンダトリーと共にパリを拠点とするエレクトロニックジャズバンドCanvasにも参加しています。
+Actualmente es miembro de la banda de jazz electrónico Canvas, con sede en París, junto con Samuel Rouanat y James Sindertree.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Stumpf Am Apparat
 
@@ -42,7 +43,7 @@ B1. Bond In Action
 B2. Temporary Threshold Shift
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VduYd8yL-Fw?si=aa3aSQn50amVlSao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VduYd8yL-Fw?si=aa3aSQn50amVlSao" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

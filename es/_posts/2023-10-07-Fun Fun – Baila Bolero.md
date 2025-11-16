@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Fun Fun – Baila Bolero.webp
 lang: es
 layout: post
+permalink: /es/2023-10-07-Fun Fun – Baila Bolero/
 tags:
 - Italo
 - Disco
-title: Fun Fun – Baila Bolero
+title: Diversión Diversión – Baila Bolero
 ---
 
 
-「Baila Bolero」は、ファン・ファンの特徴的なダンスポップサウンドを展開しています。曲名の「Baila Bolero」はスペイン語で「ボレロを踊る」という意味であり、その名の通り、楽曲は陽気で踊りやすいリズムとエネルギーに溢れています。
+"Baila Bolero" desarrolla el distintivo sonido dance-pop de Fun Fun. El título de la canción "Baila Bolero" significa "bailar el bolero" en español y, como su nombre indica, la canción está llena de energía y un ritmo alegre que es fácil de bailar.
 
-この曲は、ボレロとディスコの要素を組み合わせたダンスフロア向けの楽曲であり、カッチョイなリズムとキャッチーなメロディが特徴です。ファン・ファンのメンバーによる鮮やかなヴォーカルも、曲の魅力を引き立てています。
+Esta canción es una canción de pista de baile que combina elementos de bolero y disco, y presenta un ritmo genial y una melodía pegadiza. Las vívidas voces de los miembros de Fan Fan también realzan el encanto de la canción.
 
-「Baila Bolero」は、当時のディスコやユーロディスコブームの中で人気を博した曲の一つであり、ファン・ファンの代表作として知られています。その陽気なサウンドと踊りやすいリズムから、ダンスパーティーやクラブでの定番曲として愛されています。
+"Baila Bolero" es una de las canciones que se hizo popular durante el boom disco y eurodisco de la época, y es conocida como una obra maestra entre los fans. Su sonido alegre y ritmo bailable la convierten en una canción popular en fiestas y clubes de baile.
 
-ファン・ファンの「Baila Bolero」は、その楽しさとダンス性の高さから、ディスコやユーロディスコの愛好家にとって特別な存在です。曲を聴くことで、80年代のダンスミュージックの魅力や当時のエネルギーを感じることができます。
+El "Baila Bolero" de Fan Fan es un regalo especial para los amantes de la música disco y eurodisco por su diversión y calidad bailable. Al escuchar la canción, puedes sentir el encanto de la música dance de los 80 y la energía de esa época.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Baila Bolero (Bolero Dance Mix)
 
@@ -29,7 +30,7 @@ A2. Baila Bolero (7" Radio Mix)
 B. Baila Bolero (House Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Nt1WaRjQ3I?si=d7drBhiqBFTvZz0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Nt1WaRjQ3I?si=d7drBhiqBFTvZz0S" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

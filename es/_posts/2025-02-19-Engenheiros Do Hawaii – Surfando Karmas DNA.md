@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Engenheiros Do Hawaii – Surfando Karmas & DNA.webp
 lang: es
 layout: post
+permalink: /es/2025-02-19-Engenheiros Do Hawaii – Surfando Karmas DNA/
 tags:
 - Alternative Rock
 - Pop Rock
 - Latin
 - 00s
-title: Engenheiros Do Hawaii – Surfando Karmas & DNA
+title: Engenheiros Do Hawaii – Surfando Karmas & ADN
 ---
 
 
-Engenheiros do Hawaii（英語で「Engineers from Hawaii」）は、1983年にポルトアレグレで結成され2008年まで活動したブラジルのロックバンド。言葉遊びや皮肉で批判的な曲で大きな人気を博した。ボーカル兼ベーシストのHumberto Gessinger(ウンベルト・ゲッシンジャー)は、唯一のオリジナルメンバー。
+Engenheiros do Hawaii (Ingenieros de Hawaii) fue una banda de rock brasileña formada en Porto Alegre en 1983 y activa hasta 2008. Ganó gran popularidad por sus juegos de palabras y sus canciones sarcásticas y críticas. El vocalista y bajista Humberto Gessinger es el único miembro original.
 
-「Surfando Karmas & DNA」は、2002年にリリースされたアルバム。代表曲 「Esportes Radicais」「Terceira do Plural」等が収録されている。
+"Surfando Karmas & DNA" es un álbum lanzado en 2002. Incluye canciones representativas como "Esportes Radicais" y "Terceira do Plural".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Surfando Karmas & DNA
 2. 3ª Do Plural
@@ -33,7 +34,7 @@ Engenheiros do Hawaii（英語で「Engineers from Hawaii」）は、1983年に�
 11. Arame Farpado
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57509435335?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57509435335?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ofsiWQTj2GM?si=WSB5GDtspZKDIvCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofsiWQTj2GM?si=WSB5GDtspZKDIvCP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

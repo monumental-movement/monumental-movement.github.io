@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – Mellow Beats.webp
 lang: es
 layout: post
+permalink: /es/2025-02-21-VA – Mellow Beats/
 tags:
 - Techno
 - Tech House
 - 00s
-title: VA – Mellow Beats, Spirits & Wisdom
+title: VA – Ritmos suaves, espíritus y sabiduría
 ---
 
 
-2008年にP-Vine Recordsからリリースされた
-橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。
+Publicado en 2008 por P-Vine Records
+Un álbum recopilatorio HIPHOP suave y de jazz seleccionado y supervisado por Toru Hashimoto.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
@@ -39,7 +40,7 @@ title: VA – Mellow Beats, Spirits & Wisdom
 19. Noel Zancanella – Lovely
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

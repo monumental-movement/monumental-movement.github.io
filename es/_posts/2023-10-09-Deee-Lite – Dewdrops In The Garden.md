@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Deee-Lite – Dewdrops In The Garden.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Deee-Lite – Dewdrops In The Garden/
 tags:
 - House
 - Hiphop
-title: Deee-Lite – Dewdrops In The Garden
+title: Deee-Lite – Gotas de rocío en el jardín
 ---
 
 
-『Dewdrops in the Garden』は、アメリカのダンスミュージックバンドDeee-Liteによる3枚目かつ最後のスタジオアルバムで、1994年8月にElektra Recordsからリリースされました。
+Dewdrops in the Garden es el tercer y último álbum de estudio de la banda estadounidense de música dance Deee-Lite, lanzado en agosto de 1994 por Elektra Records.
 
-このアルバムでは、前作の政治的な歌詞内容から離れ、ダンスと親密さのテーマに移行し、サイケデリック音楽への傾斜が強調されました。
+El álbum se alejó del contenido lírico político de su predecesor, avanzando hacia temas de danza e intimidad, con énfasis en inclinarse hacia la música psicodélica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Say Ahhh...
 
@@ -63,7 +64,7 @@ title: Deee-Lite – Dewdrops In The Garden
 16.7. Bring Me Your Love (Johnny Vicious Cosmic Isness Remix 1)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

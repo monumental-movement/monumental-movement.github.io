@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Groove Coverage – Poison.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Groove Coverage – Poison/
 tags:
 - Trance
 - Euro
 - 00s
-title: Groove Coverage – Poison
+title: Cobertura de ranura – Veneno
 ---
 
 
-Groove Coverage（グルーヴ・カヴァレージ）は、Axel Konrad（アクセル・コンラート）、 DJ Novus（DJノーバス）、 Melanie Munch（ラニー・ムンク/メル）、Verena Rehm（ヴェレーナ・レーム）からなるドイツのユーロトランスバンド。
+Groove Coverage es una banda alemana de eurotrance formada por Axel Konrad, DJ Novus, Melanie Munch y Verena Rehm.
 
-「Poison」は、Alice Cooper（アリス・クーパー）のカバー曲であり、Groove Coverageの代表曲の一つ。
+"Poison" es una versión de Alice Cooper y una de las canciones emblemáticas de Groove Coverage.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Poison (Club Mix)
 
@@ -30,7 +31,7 @@ B2. Poison (Rock Mix)
 B3. Only Love
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23409895626?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23409895626?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WPuRNvDOxxU?si=9wEpz1w-C7Q8eSOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WPuRNvDOxxU?si=9wEpz1w-C7Q8eSOg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

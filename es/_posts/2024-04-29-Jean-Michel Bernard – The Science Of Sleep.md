@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Jean-Michel Bernard – The Science Of Sleep.webp
 lang: es
 layout: post
+permalink: /es/2024-04-29-Jean-Michel Bernard – The Science Of Sleep/
 tags:
 - Techno
 - Minimal
 - German Techno
-title: Jean-Michel Bernard – The Science Of Sleep
+title: Jean-Michel Bernard – La ciencia del sueño
 ---
 
 
-ビョーク、ケミカルブラザーズ、ダフトパンク、レディオヘッドなどのMVを手掛けるミシェル・ゴンドリー監督・脚本の映画「恋愛睡眠のすすめ」のサウンドトラック。
+Banda sonora de la película ``Sleep in Love'', escrita y dirigida por Michel Gondry, quien ha trabajado en videos musicales para Björk, The Chemical Brothers, Daft Punk, Radiohead y más.
 
-ミシェル・ゴンドリーは、フランスのロックバンドOui Ouiでドラマーとしても活動していた。
+Michel Gondry también fue el baterista de la banda de rock francesa Oui Oui.
 
-15&16曲目はLou Reed(ルー・リード)作曲
+Las canciones 15 y 16 fueron compuestas por Lou Reed.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Michel Bernard – Générique Stéphane
 2. Michel Bernard – Générique Début
@@ -34,7 +35,7 @@ title: Jean-Michel Bernard – The Science Of Sleep
 など全26曲
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74238887194?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1_FDeEmWask?si=tIhCa6qrd62pOJgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1_FDeEmWask?si=tIhCa6qrd62pOJgV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,52 +5,54 @@ categories:
 image: ../assets/images/column-field-recording.webp
 lang: es
 layout: post
+permalink: /es/2025-09-30-Column-Field-Recording/
 tags:
 - Field Recording
 - Ambient
-title: 【コラム】 フィールドレコーディング：音の現場を採集する技術・歴史・おすすめ盤ガイド
+title: '[Columna] Grabación de campo: Técnicas, historia y disco guía recomendado
+  para la recopilación de sitios sonoros'
 ---
 
 
-## なぜフィールドレコーディングか
+## ¿Por qué grabar en campo?
 
-文：mmr｜テーマ：フィールドレコーディングの歴史、主要機器の特徴、代表的な録音作家・プロデューサー、年代別おすすめアルバムを網羅
+Texto: mmr｜Tema: Cubre la historia de la grabación de campo, las características de los principales equipos, los artistas/productores de grabación representativos y los álbumes recomendados por generación.
 
 
-フィールドレコーディング（field recording）は、スタジオを離れ“現場の音”をそのまま記録する行為です。自然音、都市の環境音、民俗歌唱、鉄道や工場の機械音──これらは単なる効果音にとどまらず、文化のアーカイブであり音楽的素材でもあります。映画・ゲーム・音楽制作・サウンドアートのいずれにも不可欠な技術です。
+La grabación de campo es el acto de salir del estudio y grabar los "sonidos del campo" tal como son. Los sonidos naturales, los sonidos ambientales urbanos, las canciones populares, los sonidos de los ferrocarriles y las máquinas de las fábricas no son sólo efectos sonoros, sino archivos culturales y materiales musicales. Es una tecnología esencial para películas, juegos, producción musical y arte sonoro.
 
 ---
 
 
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-### 年表（概観）
+### Cronología (descripción general)
 
 <div class="mermaid">
-flowchart TD
-  A["1920s-1950s"] --> B["民俗採集の時代（Lomaxら）"]
-  B --> C["1960s-1970s: ポータブル機器の進化"]
-  C --> D["1980s-1990s: アンビエント／フィールド採用の増加（Eno等）"]
-  D --> E["2000s-現在: デジタル化と32-bit float機の普及"]
+diagrama de flujo TD
+A["décadas de 1920-1950"] --> B["Era del coleccionismo folclórico (Lomax et al.)"]
+B --> C["Décadas de 1960-1970: Evolución de los dispositivos portátiles"]
+C --> D["Décadas de 1980 a 1990: aumento en la adopción ambiental/de campo (Eno, etc.)"]
+D --> E["Década de 2000-Presente: Digitalización y difusión de máquinas flotantes de 32 bits"]
 </div>
 
 
 ---
 
-### 機材ガイド：主要メーカーとモデル
-現場録音は「マイク＋レコーダー＋電源」の三位一体です。ここでは多用途に使える定番とその特徴を簡潔に示します。
+### Guía de equipos: principales fabricantes y modelos
+La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alimentación". Aquí presentaremos brevemente el estándar versátil y sus características.
 
 | ブランド          | モデル                    | 特徴                      | 時代       |
 | ------------- | ---------------------- | ----------------------- | -------- |
@@ -65,7 +67,7 @@ flowchart TD
 ---
 
 
-### フィールドレコーディング・アーティストと使用機材リスト
+### Lista de artistas de grabación de campo y equipos utilizados
 
 | アーティスト                     | 活動概要・代表作                                                                 | 使用機材（代表的なもの）                                          |
 | -------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -82,128 +84,128 @@ flowchart TD
 
 ---
 
-### フィールドレコーディングを彩るアーティストの逸話
+### Anécdotas de artistas que colorean las grabaciones de campo
 
 #### Alan Lomax
 
-- 「フィールド録音」という言葉の前に「民俗録音」を広めた人物。
+- La persona que popularizó las "grabaciones populares" antes del término "grabación de campo".
 
-- アメリカ南部の農場で労働歌を録音する際、カメラよりも大きなリール式録音機を抱えて移動。
+- Al grabar canciones laborales en una granja del sur de Estados Unidos, llevaba una grabadora tipo carrete que era más grande que la cámara.
 
-- 生活音（食器の音や人の笑い声）まで収録し、それを「その文化のリアリティ」とした。
+- Incluso se grabaron los sonidos de la vida cotidiana (el sonido de los platos y la risa de la gente) y se convirtieron en la "realidad de esa cultura".
 
 #### Annea Lockwood
 
-- 「川のサウンドマップ」シリーズは、科学調査のように徹底的にフィールドを歩き回って記録。
+- La serie "River Sound Map" se elabora caminando minuciosamente por el campo y registrándolo como si fuera un estudio científico.
 
-- 長時間録音のため、録音機材の電源や耐候性を工夫しながら制作。
+- Debido a la larga duración de la grabación, el equipo de grabación se fabricó teniendo en cuenta cuidadosamente su suministro de energía y su resistencia a la intemperie.
 
-- 作品を聞くと「地理的移動を耳で旅する」体験が得られる。
+- Escuchar sus obras te da la experiencia de "viajar a través del movimiento geográfico con tus oídos".
 
-#### Hildegard Westerkamp
+#### Hildegarda Westerkamp
 
-- サウンドウォークのワークショップでは「今聞こえている音に耳を澄ませてください」と案内。
+- En el taller de caminata sonora, se pidió a los participantes que "escuchen atentamente los sonidos que están escuchando en este momento".
 
-- 都市騒音を「騒がしいゴミ」ではなく「現代都市の詩」として捉え直す思想を広めた。
+- Difundir la idea de reconsiderar el ruido urbano como ``poesía de las ciudades modernas'' y no como ``basura ruidosa''.
 
 #### Toshiya Tsunoda
 
-- 音の存在を「空間の共鳴」としてとらえる。
+- Comprender la existencia del sonido como "resonancia espacial".
 
-- 例：道路のアスファルト下の空洞にマイクを設置し、微細な振動を記録。
+- Ejemplo: Se instala un micrófono en una cavidad bajo el asfalto de una carretera para registrar vibraciones diminutas.
 
-- 科学実験のような手法だが、その結果は美的体験へと変換される。
+- El método es similar a un experimento científico, pero los resultados se convierten en una experiencia estética.
 
 #### Francisco López
 
-- 聴衆に「アイマスク」を配り、真っ暗闇で音を聴かせるパフォーマンスを行う。
+- Repartir "máscaras para los ojos" al público y realizar una actuación en la que puedan escuchar el sonido en total oscuridad.
 
-- 「音楽と環境音の境界を消す」ことを目指す。
+- Tiene como objetivo "borrar la frontera entre la música y los sonidos ambientales".
 
-- 作品『La Selva』では熱帯雨林をそのまま録音し、編集も最小限に留めた。
+- Para su obra ``La Selva'', grabó la selva tal como era, con una edición mínima.
 
 #### Chris Watson
 
-- バンド時代は電子音楽を探求。その後BBCに所属し、自然番組の録音を担当。
+- Exploró la música electrónica durante su época de banda. Posteriormente, se incorporó a la BBC y se encargó de grabar programas de naturaleza.
 
-- 『El Tren Fantasma』では廃線の鉄道を旅し、列車の走行音と風景音を緻密に収録。
+- "El Tren Fantasma" te lleva en un viaje a través de un ferrocarril abandonado, con grabaciones detalladas de sonidos de trenes en marcha y sonidos de paisajes.
 
-- 鳥類録音では、野生のハヤブサの巣近くで数日間動かずに待機した逸話が残っている。
+- En grabaciones de aves existe la anécdota de un halcón peregrino salvaje que permaneció inmóvil durante varios días cerca de su nido.
 
 #### Bernie Krause
 
-- 元はThe ByrdsやDoorsとも関わったシンセ奏者。
+- Anteriormente un sintetizador que también estuvo involucrado con The Byrds y Doors.
 
-- その後、自然録音に転向。
+- Después de eso, se dedicó a la grabación de la naturaleza.
 
-- 「自然界の合唱団（Biophony）」という概念を提案し、環境保護のために録音を活用。
+- Propuso el concepto de ``Coro de la Naturaleza (Biofonía)'' y utilizó grabaciones para la protección del medio ambiente.
 
 #### Ryuichi Sakamoto
 
-- 晩年の作品では「音楽は環境と切り離せない」という思想を明確化。
+- En sus obras posteriores aclaró la idea de que "la música es inseparable del medio ambiente".
 
-- 2011年以降、東日本大震災の現地音も記録し、環境音への関心を深めた。
+- Desde 2011, también graba sonidos locales del Gran Terremoto del Este de Japón, profundizando su interés por los sonidos ambientales.
 
-- 『async』では「時間の断片を残すための音楽」と語った。
-
-
----
-
-### 各アーティストと機材の逸話
-
-#### Alan LomaxとAmpex
-
-- 1950年代のAmpexは非常に大型で重量も数十kg。
-
-- Lomaxはこれを車ごと移動スタジオにして録音。
-
-- 電源の確保が最大の課題で、発電機を使用。
-
-#### Chris WatsonとNagra / Sound Devices
-
-- 「Nagraが動かなくなったのを見たことがない」と語るほど信頼。
-
-- 鳥や動物の録音では超指向性マイク（Sennheiser MKH 416/816）を愛用。
-
-- 砂漠で機材を砂から守るために「防水袋＋砂よけ布」を自作。
-
-#### Bernie KrauseのNagra
-
-- 初期の自然録音で背負ったバッテリーは10kg以上。
-
-- 「疲労よりも録り逃すことの方が恐怖」と語った。
-
-- その後DATレコーダーや軽量機材の普及で活動が飛躍的に効率化。
-
-#### Francisco LópezのDAT
-
-- DATレコーダーは高音質で人気だが、湿気に弱かった。
-
-- 熱帯雨林でカビによりテープが劣化、収録が失敗することも。
-
-- Lópezは「自然環境に機材を預ける」という発想で挑戦。
-
-#### Toshiya TsunodaのDIYマイク
-
-- 空間そのものの振動を録るため、センサーやコンタクトマイクを自作。
-
-- 「音を聴く」のではなく「空気と物体の共鳴を測る」という発想。
-
-- 市販機材の「想定外の使い方」を常に試みている。
-
-#### Ryuichi Sakamotoと日常機材
-
-- 晩年はポケットサイズのZoom H2nやSony PCMレコーダーを常に携帯。
-
-- 街の雑踏、雨音、電車の音などをそのまま素材化。
-
-- 「生活と作品をつなぐための道具」として機材を扱った。
+- Respecto a "async", dijo, "Música para dejar atrás fragmentos de tiempo".
 
 
 ---
 
+### Anécdotas sobre cada artista y equipo
 
-### フィールドレコーディング史と代表アルバム
+#### Alan Lomax y Ampex
+
+- El Ampex de los años 50 era muy grande y pesaba varias decenas de kilogramos.
+
+- Lomax utilizó esto como estudio móvil para grabar.
+
+- El mayor desafío es conseguir energía, por eso se utiliza un generador.
+
+#### Chris Watson y Nagra / Dispositivos de sonido
+
+- Tan confiable que dice: "Nunca he visto a Nagra dejar de funcionar".
+
+- Utilizo un micrófono superdireccional (Sennheiser MKH 416/816) cuando grabo aves y animales.
+
+- Hice mi propia ``bolsa impermeable + paño de arena'' para proteger mi equipo de la arena en el desierto.
+
+#### Nagra de Bernie Krause
+
+- La batería que llevaba en la espalda durante mis primeras grabaciones de la naturaleza pesaba más de 10 kg.
+
+- ``Tengo más miedo de perderme algo que de estar cansado'', dijo.
+
+- Posteriormente, con la difusión de las grabadoras DAT y los equipos livianos, las actividades se volvieron dramáticamente más eficientes.
+
+####DAT de Francisco López
+
+- Las grabadoras DAT son populares por su alta calidad de sonido, pero son sensibles a la humedad.
+
+- Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
+
+- López asume el reto de ``dejar el equipo en el entorno natural''.
+
+#### Micrófono de bricolaje de Toshiya Tsunoda
+
+- Hice mis propios sensores y micrófonos de contacto para registrar las vibraciones del propio espacio.
+
+- La idea es "medir la resonancia entre el aire y los objetos" en lugar de "escuchar el sonido".
+
+- Probar siempre "usos inesperados" de los equipos disponibles comercialmente.
+
+#### Ryuichi Sakamoto y su equipamiento diario
+
+- En sus últimos años siempre llevaba grabadores de bolsillo Zoom H2n y Sony PCM.
+
+- Crea materias primas a partir de las multitudes de la ciudad, el sonido de la lluvia, el sonido de los trenes, etc.
+
+- Se trató el equipo como una "herramienta para conectar la vida diaria y el trabajo".
+
+
+---
+
+
+### Historial de grabaciones de campo y álbumes representativos.
 
 | 年代              | アーティスト                 | 代表アルバム                                                  | コメント                                             | リンク                                        |
 | --------------- | ---------------------- | ------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
@@ -220,19 +222,19 @@ flowchart TD
 
 ---
 
-### フィールドレコーディングの現在と未来
+### El presente y el futuro de la grabación de campo
 
-フィールドレコーディングは単なる技術ではなく「音の記憶」を作る行為です。高性能なポータブル機器の普及とデジタル・アーカイブ技術の進展により、誰でも高品質な現場録音を行える時代になりました。一方で、倫理（被写体の同意、文化的帰属）や保存フォーマットの選択といった課題も残ります。フィールド録音を趣味や仕事に取り入れるなら、まずは信頼できる機材で現場に出ること、そして記録した音を正しく管理・共有するワークフローを作ることをおすすめします。
+La grabación de campo no es sólo una técnica, sino un acto de creación de una "memoria sonora". Con la proliferación de equipos portátiles de alto rendimiento y los avances en la tecnología de archivos digitales, hemos entrado en una era en la que cualquiera puede realizar grabaciones in situ de alta calidad. Por otro lado, quedan cuestiones como la ética (consentimiento del sujeto, atribución cultural) y la selección de formatos de almacenamiento. Si desea incorporar la grabación de campo a su pasatiempo o trabajo, le recomendamos primero salir al campo con un equipo confiable y crear un flujo de trabajo para administrar y compartir adecuadamente el sonido grabado.
 
 
 ---
 
-### 関連コラム
+### Columnas relacionadas
 
-🔗 [【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究](https://monumental-movement.jp/Column-David-Toop)
+🔗 [[Columna] David Toop y el pensamiento musical sin género - Exploración del sonido por generación](https://monumental-movement.jp/Column-David-Toop)
 
-🔗 [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
 
-🔗 [【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振](https://monumental-movement.jp/Column-Andy-Goldsworthy)
+🔗 [[Columna] Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza](https://monumental-movement.jp/Column-Andy-Goldsworthy)

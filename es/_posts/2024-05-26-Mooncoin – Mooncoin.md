@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Mooncoin – Mooncoin.webp
 lang: es
 layout: post
+permalink: /es/2024-05-26-Mooncoin – Mooncoin/
 tags:
 - Tribal
 - Ireland
 - British
 - Folk
 - 80s
-title: Mooncoin – Mooncoin
+title: Moneda lunar – Moneda lunar
 ---
 
 
-Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。
+Mooncoin es un dúo formado por Mickie Zekley y Michael Hubbert, cuyo estilo es una combinación de música irlandesa, música celta y música británica.
 
-「Mooncoin」は、USのレーベルKicking Mule Recordsから1982年にリリースされたレア音源。
+"Mooncoin" es una fuente de sonido poco común lanzada en 1982 por el sello estadounidense Kicking Mule Records.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Barley Straw
 A2. The Rambling Pitchfork
@@ -35,4 +36,4 @@ B4. The Claudy Banks And Eleanor Plunkett
 B5. Breton Tune And La Mair E La Hilha
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}

@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/UNKLE – In A State.webp
 lang: es
 layout: post
+permalink: /es/2023-09-10-UNKLE – In A State/
 tags:
 - House
 - Progressive
 - Remix
-title: UNKLE – In A State
+title: UNKLE – En un estado
 ---
 
 
-「In a State」は、イギリスのエレクトロニック・ミュージック・グループであるUNKLE（アンクル）による楽曲です。この曲は、彼らのアルバム「Psyence Fiction」に収録されており、その中でも特に注目されたトラックの一つです。
+"In a State" es una canción del grupo británico de música electrónica UNKLE. Esta canción está incluida en su álbum ``Psyence Fiction'' y es una de las pistas que recibió especial atención.
 
-特にこのSashaによるリミックスは、エレクトロニック・ミュージックの要素と独特のリズムが特徴で有名なトラックです。
+Este remix de Sasha en particular es famoso por sus elementos de música electrónica y su ritmo único.
 
-UNKLEの楽曲は幅広い音楽ファンから支持を受けており、特にエレクトロニック・ミュージック愛好者にとっては人気のあるバンドの一つです。
+Las canciones de UNKLE cuentan con el apoyo de una amplia gama de fanáticos de la música y son una de las bandas más populares, especialmente entre los amantes de la música electrónica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. In A State (Sasha Remix)
 
 B. In A State (Album Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76870494810?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_aZ7MLvaO2U?si=c90K8CISqlZW6PXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_aZ7MLvaO2U?si=c90K8CISqlZW6PXr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

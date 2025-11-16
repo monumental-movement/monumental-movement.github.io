@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/The Belle Stars– Iko Iko.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-The Belle Stars – Iko Iko/
 tags:
 - Pops
 - UK Pops
 - 7inch
-title: The Belle Stars– Iko Iko
+title: Las bellas estrellas – Iko Iko
 ---
 
 
-A面の「 Iko Iko 」は、 The Bodysnatchers(ボディスナッチャーズ)の元メンバーによって1980年にロンドンで結成されたUKポップ・ガールズバンドThe Belle Stars(ベル・スターズ)によるカバー曲。
+La cara A, "Iko Iko", es una versión de The Belle Stars, una banda de chicas pop del Reino Unido formada en Londres en 1980 por ex miembros de The Bodysnatchers.
 
-The Belle Starsヴァージョンの Iko Iko は映画「レインマン」（主演：ダスティン・ホフマン、トム・クルーズ）や、映画『ノッキン・オン・ヘブンズ・ドア』、映画『ハングオーバー』にも収録された。
+La versión Belle Stars de Iko Iko también apareció en la película Rain Man (protagonizada por Dustin Hoffman y Tom Cruise), Knockin' on Heaven's Door y The Hangover.
 
-B面の「Las Vegas」は、著名な映画音楽の作曲家Hans Zimmer(ハンス・ジマー)によるもので、この曲も映画「レインマン」のサウンドトラックに収録されている。
+La cara B, "Las Vegas", fue escrita por el reconocido compositor cinematográfico Hans Zimmer y también se incluyó en la banda sonora de la película "Rain Man".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The Belle Stars – Iko Iko
 
 B. Hans Zimmer -  Las Vegas
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Tfarx8koU?si=tOv2Rqp15tOS9ftk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Tfarx8koU?si=tOv2Rqp15tOS9ftk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

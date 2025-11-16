@@ -5,31 +5,32 @@ categories:
 image: ../assets/images/Earthbound– Reggie's Escape.webp
 lang: es
 layout: post
+permalink: /es/2025-09-06-Earthbound– Reggies Escape/
 tags:
 - Drum n Bass
 - Downtempo
 - 90s
-title: Earthbound– Reggie's Escape
+title: 'Terrestre: el escape de Reggie'
 ---
 
 
-Earthbound(アースバウンド)は、Alex DallasとAlex Gustafsonによるデュオ。
+Earthbound es un dúo formado por Alex Dallas y Alex Gustafson.
 
-スイスのチューリッヒを拠点とするレーベルStraight Aheadから1998年にリリースされた Earthbound「Reggie's Escape 」のDrum n Bass／Downtempo remix(1999年)。
+Remezcla de Drum n Bass/Downtempo (1999) de ``Reggie's Escape'' de Earthbound lanzado en 1998 por Straight Ahead, un sello con sede en Zurich, Suiza.
 
-Aは、UKのジャングル(jungle)DJ Charlie Dark(Charlie Williams／Attica Blues)によるremix。
+A es un remix del DJ de la jungla británica Charlie Dark (Charlie Williams/Attica Blues).
 
-Bは、Drum and Bass プロジェクトHidden Agendaとしても活躍したMarxことMark Goodingsによるremix。Mark Goodings は、Switch, Phonique, Trevor Loveysなどのmix も手掛けている。
+B es un remix de Mark Goodings, también conocido como Marx, quien también participó activamente en el proyecto Hidden Agenda de Drum and Bass. Mark Goodings también ha creado mezclas para Switch, Phonique, Trevor Loveys y más.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Reggie's Escape (Attica Blues Remix)
 
 B. Reggie's Escape (Marx Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90786572080?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90786572080?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EWwjOaNLYUc?si=rsf0WlLXqBrDm6a9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EWwjOaNLYUc?si=rsf0WlLXqBrDm6a9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

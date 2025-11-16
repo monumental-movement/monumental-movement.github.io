@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/VA – Chill Side 1.webp
 lang: es
 layout: post
+permalink: /es/2025-05-26-VA – Chill Side 1/
 tags:
 - Hiphop
 - 00s
-title: VA – Chill Side 1
+title: VA – Lado frío 1
 ---
 
 
-DJ Taiji, Hard Rock Firm, Madara, 夜光虫, Word Swingaz, 802 Flava, DJ Flesh & Kohei Japan 
+DJ Taiji, Hard Rock Firm, Madara, Yakomushi, Word Swingaz, 802 Flava, DJ Flesh y Kohei Japón
 
-2枚組LP再発盤
+Reedición LP de 2 discos
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. DJ Taiji - Intro
 A2. Hard Rock Firm - Hot Shot
@@ -34,7 +35,7 @@ D2. 802 Flava - 犧牲 - Instrumental
 D3. DJ Flesh & Kohei Japan - Funky Flow - Instrumental
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47805886707?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTH4pHF04ao?si=K7jXbuhVLROYeJfS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

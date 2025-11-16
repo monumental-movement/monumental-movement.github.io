@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/CJ Stone – City Lights (Jean Elan Mix).webp
 lang: es
 layout: post
+permalink: /es/2023-10-18-CJ Stone – City Lights (Jean Elan Mix)/
 tags:
 - House
 - Remix
-title: CJ Stone – City Lights (Jean Elan Mix)
+title: CJ Stone – Luces de la ciudad (Jean Elan Mix)
 ---
 
 
-CJ Stone（Andreas Litterscheid）はダンスミュージックシーンで活躍するドイツのDJ 兼音楽プロデューサーであり、Bass Bumpers（バス・バンパーズ）のメンバー。
+CJ Stone (Andreas Litterscheid) es un DJ y productor musical alemán activo en la escena de la música dance y miembro de Bass Bumpers.
 
-B面は、同じくBass Bumpersのメンバーである、ベルリン出身のドイツ人DJ兼ハウスミュージックプロデューサーJean Elan(Sven Koslik)によるremix。
+La cara B es un remix de Jean Elan (Sven Koslik), un DJ y productor de música house alemán de Berlín que también es miembro de Bass Bumpers.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. City Lights (Jean Elan Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m31291560077?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUHuNSXxYNk?si=h3bHHP4qdNqbeYWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUHuNSXxYNk?si=h3bHHP4qdNqbeYWx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

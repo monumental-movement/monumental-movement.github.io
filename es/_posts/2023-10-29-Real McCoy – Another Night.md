@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Real McCoy – Another Night.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Real McCoy – Another Night/
 tags:
 - House
 - Euro
 - Garage
-title: Real McCoy – Another Night
+title: Real McCoy - Otra noche
 ---
 
 
-Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
+Real McCoy es un proyecto alemán de música pop y eurodance. "Another Night", lanzada en 1994, es su canción insignia.
 
-B面はArmand Van Helden（アーマンド・ヴァン・ヘルデン）のremix。
+La cara B es un remix de Armand Van Helden.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Another Night (Club Mix)
 
@@ -28,7 +29,7 @@ B1. Another Night (Armand's Nightmare Mix)
 B2. Another Night (Armand's New School Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m15854439320?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kp8HFVPabmg?si=RyCsYbEl9pDyOBLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kp8HFVPabmg?si=RyCsYbEl9pDyOBLF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Schubert – Don't Believe.webp
 lang: es
 layout: post
+permalink: /es/2024-04-29-Schubert – Dont Believe/
 tags:
 - Techno
 - Minimal
 - German Techno
-title: Schubert – Don't Believe The Chord-Pop Hype
+title: Schubert – No creas en el bombo del pop de acordes
 ---
 
 
-ライプツィヒに拠点を置くドイツのテクノプロデューサーSchubertことMatthias Kretzschmarによるミニマル・テクノトラック。
+Una pista de techno minimalista del productor de techno alemán Schubert, también conocido como Matthias Kretzschmar, con sede en Leipzig.
 
-共同プロデューサーは、同じくライプツィヒに拠点を置くドイツの DJ＆プロデューサーのDaniel Stefanik。
+El coproductor es Daniel Stefanik, un DJ y productor alemán también afincado en Leipzig.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. ~S[1]~
 
@@ -26,7 +27,7 @@ B1. ~S[2]~
 B2. ~S[3]~
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27308353964?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27308353964?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cvT3tmifs28?si=fzKcbidYVXWX8Ig6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cvT3tmifs28?si=fzKcbidYVXWX8Ig6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

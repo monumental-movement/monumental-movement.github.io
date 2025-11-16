@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Arling & Cameron – We Love To Rock.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Arling & Cameron – We Love To Rock/
 tags:
 - House
 - Breaks
 - Electro
-title: Arling & Cameron – We Love To Rock
+title: Arling y Cameron - Nos encanta rockear
 ---
 
 
-Arling & Cameron（アーリン&キャメロン）は、Gerry ArlingとRichard Cameronによるオランダのエレクトロニックミュージックデュオ。
+Arling & Cameron es un dúo holandés de música electrónica formado por Gerry Arling y Richard Cameron.
 
-Arling & Cameronは、ピチカート・ファイヴやコーネリアスとコラボレーションするなど、フレンチポップ、ラウンジ、70 年代のライトロック、渋谷系からラップやダンス、よりモダンなエレクトロポップの要素も取り入れている。
+Arling & Cameron han colaborado con Pizzicato Five y Cornelius, y han incorporado elementos del pop francés, lounge, rock ligero de los 70 y Shibuya-kei, así como rap, dance y electropop más moderno.
 
-「We Love To Rock」のA面２曲目はCornelius（コーネリアス）によるremix。
+La segunda canción de la cara A de “We Love To Rock” es un remix de Cornelius.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. We Love To Rock (Tofu Mix)
 
@@ -30,7 +31,7 @@ B1. We Love To Rock (Radio Mix)
 B2. We Love To Rock (Album Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48539410251?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48539410251?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JjYWeSMvoTc?si=DxlvT0pq75b31NBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjYWeSMvoTc?si=DxlvT0pq75b31NBE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

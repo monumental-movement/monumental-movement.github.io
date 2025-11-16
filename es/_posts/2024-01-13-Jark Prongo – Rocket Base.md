@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Jark Prongo – Rocket Base.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Jark Prongo – Rocket Base/
 tags:
 - House
 - Techno
-title: Jark Prongo – Rocket Base
+title: Jark Prongo – Base de cohetes
 ---
 
 
-オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongo（ジャーク・プロンゴ）は、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
+Un dúo de productores que trabaja en house y techno holandés. Jark Prongo está formado por Gaston Steenquist (Amsterdam) y René ter Horst (Haarlem).
 
-また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
+También conocidos como DJ Zki & Dobre y René Et Gaston, comenzaron a trabajar juntos en 1991.
 
-同じ年に、彼らはレコードレーベルFresh Fruitを設立しました。彼らがFresh Fruitでリリースしたほとんどのトラックは、1995年にレーベルを離れるまでのものでした。
+Ese mismo año fundaron el sello discográfico Fresh Fruit. La mayoría de las canciones que lanzaron en Fresh Fruit fueron anteriores a que dejaran el sello en 1995.
 
-彼らの離脱後、Jark ProngoはPssst Musicを設立し、それ以前と同様にさまざまな別名でプロダクションをリリースし、1998年にJark Prongoの本当のサクセスストーリーが始まりました。
+Después de su partida, Jark Prongo fundó Pssst Music, lanzando producciones bajo varios alias como antes, y en 1998 comenzó la verdadera historia de éxito de Jark Prongo.
 
-Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
+Sasha toca "Movin' Thru Your System", que recibió elogios de la crítica y se incluyó en el CD de Global Underground.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Rocket Base (Laidback Luke Mix) Remix – Laidback Luke
 
@@ -30,7 +31,7 @@ A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
 Vocals – Afrika Islam
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVHP1DUjwcc?si=jZiVKD9L-0h86aa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SVHP1DUjwcc?si=jZiVKD9L-0h86aa0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

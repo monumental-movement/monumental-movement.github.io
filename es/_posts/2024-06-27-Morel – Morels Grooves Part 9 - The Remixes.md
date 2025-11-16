@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Morel – Morel's Grooves Part 9 - The Remixes.webp
 lang: es
 layout: post
+permalink: /es/2024-06-27-Morel – Morels Grooves Part 9 - The Remixes/
 tags:
 - House
 - NY House
 - 90s
-title: Morel – Morel's Grooves Part 9 - The Remixes
+title: Morel – Morel's Grooves Parte 9 - Los Remixes
 ---
 
 
-Morel こと George Morel（ジョージ モレル）は、90年代初期のニューヨークのガレージ・ハウスシーンの中心人物の一人と言われるNYのDJ・レコードプロデューサー。
+George Morel, también conocido como Morel, es un DJ y productor discográfico de Nueva York que se dice que es una de las figuras centrales de la escena garage house de Nueva York a principios de los años 1990.
 
-「Morel's Grooves Part 9 - The Remixes」は、George Morelの12インチリリースシリーズの第９弾で、1996年にハウスレーベルStrictly Rhythmからリリースされたハウストラック。
+"Morel's Grooves Part 9 - The Remixes" es el noveno de la serie de lanzamientos de 12 pulgadas de George Morel, una pista house lanzada con el sello house Strictly Rhythm en 1996.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 R.B.M Side
 A1. Todos Los Latinos (En La Casa) (The Barrio Breakdown Mix)
@@ -28,7 +29,7 @@ B1. Todos Los Latinos (En La Casa) (Morel's Jump Mix)
 B2. Todos Los Latinos (En La Casa) (Happy Drums)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

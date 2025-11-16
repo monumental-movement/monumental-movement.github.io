@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/DJ Krush FeatACO, Twigy –Tragicomic.webp
 lang: es
 layout: post
+permalink: /es/2023-09-16-DJ Krush FeatACO, Twigy –Tragicomic/
 tags:
 - Hiphop
 - Triphop
-title: DJ Krush FeatACO, Twigy –Tragicomic
+title: DJ Krush con ACO, Twigy –Tragicomic
 ---
 
 
-DJ Krushは、日本のヒップホップ、トリップホップ、ダウンテンポなどの音楽ジャンルで高く評価されるトラックメーカーで、その独自のサウンドとビートメイキングのスキルで知られています。
+DJ Krush es un creador de pistas de gran prestigio en los géneros musicales japoneses hip-hop, trip-hop y downtempo, conocido por su sonido único y sus habilidades para crear ritmos.
 
-ACOは、ソウルフルで感情的なヴォーカルスタイルで、日本国内外で高い評価を得ているシンガーの一人で、Twigyはラップのスキルとキャリアで注目を浴びています。
+ACO es uno de los cantantes que ha recibido grandes elogios tanto en Japón como en el extranjero por su estilo vocal conmovedor y emotivo, y Twigy ha llamado la atención por sus habilidades de rap y su carrera.
 
-「Tragicomic（悲喜）」は、DJ Krushのアルバムやシングルの一部としてリリースされ、トリップホップやエレクトロニカの愛好家によって楽しまれています。
+"Tragicomic" fue lanzado como parte de los álbumes y sencillos de DJ Krush y lo disfrutan los entusiastas del trip-hop y la electrónica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Tragicomic Featuring ACO, Twigy
 
@@ -29,7 +30,7 @@ B1. Tragicomic (Beyond Real Mix)
 B2. Tragicomic (Beyond Real Mix Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20863215408?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20863215408?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kr3VgFLPN18?si=RFniddTgjdd7mg4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kr3VgFLPN18?si=RFniddTgjdd7mg4i" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

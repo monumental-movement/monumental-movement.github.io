@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Bomb The Bass – Say A Little Prayer.webp
 lang: es
 layout: post
+permalink: /es/2025-07-13-Bomb The Bass – Say A Little Prayer/
 tags:
 - Acid House
 - Dub
 - Downtempo
 - 80s
-title: Bomb The Bass – Say A Little Prayer
+title: Bomb The Bass – Di una pequeña oración
 ---
 
 
-Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。
+Timothy Simenon (Tim Simenon), también conocido como Bomb The Bass, es una figura importante en la escena de la música electrónica del Reino Unido que contribuyó a la escena acid house de finales de los 80. Es mejor conocido por su obra maestra "Beat Dis".
 
-「Say A Little Prayer」は、Burt Bacharach & Hal David 作、1967年に Dionne Warwick によってリリースされた名曲のカヴァー。
+"Say A Little Prayer" es una versión de la famosa canción escrita por Burt Bacharach y Hal David y lanzada por Dionne Warwick en 1967.
 
-Bomb The Bass バージョンは、アシッドハウス&ダウンテンポremix で、1988年にハウス・アシッドハウスを専門とするレーベルRhythm Kingからリリースされた。
+La versión Bomb The Bass es un remix de acid house y downtempo lanzado en 1988 por Rhythm King, sello especializado en house y acid house.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Say A Little Prayer
 
 B. 10 Seconds To Terminate
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

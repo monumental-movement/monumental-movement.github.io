@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/pickup-acid-jazz.webp
 lang: es
 layout: post
+permalink: /es/2025-08-17-Pickup-Acid-Jazz/
 tags:
 - Acid Jazz
 - 80s
 - 90s
-title: アシッドジャズ作品をピックアップ
+title: Recoge piezas de acid jazz
 ---
 
 
-「ジャズの即興性とクラブ・グルーヴが融合し、洗練された都会的サウンドを響かせる注目すべきアシッドジャズ作品群」
+"Una notable colección de obras de acid jazz que fusionan la improvisación del jazz y los ritmos de club para crear un sonido urbano sofisticado".
 
 <hr>
 
-### Corduroy – High Havoc
+### Pana – Alto caos
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
-概要：ロンドン拠点の4人組アシッドジャズバンド・Corduroyによる、1993年リリースのコンセプトアルバムの2作目。Acid Jazz Recordsから発表されました。
+Resumen: El segundo álbum conceptual lanzado en 1993 por Corduroy, una banda de acid jazz de cuatro integrantes con sede en Londres. Publicado por Acid Jazz Records.
 
-おすすめポイント：2曲目の「London England」は1990年代のダンスフロアクラシックと称され、他にもUKインディーズチャートTOP10入りしたシングルが収録されるなど、彼らの代表作として高く評価されています。
+Puntos recomendados: La segunda canción, "London England", se considera un clásico de la pista de baile de la década de 1990 y está muy considerada como su obra maestra, incluidos otros sencillos que entraron en el top 10 de las listas independientes del Reino Unido.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. High Havoc
 2. London England
@@ -42,23 +43,23 @@ title: アシッドジャズ作品をピックアップ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Raw Stylus – Use Me
+### Lápiz óptico sin procesar: úsame
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
-概要：1990年代に活動した英国のアシッドジャズバンド・Raw Stylusが、Bill Withersの1972年のソウル／R&B楽曲「Use Me」をカヴァーしたシングル。Acid Jazzレーベルからリリースされました。
+Resumen: Un sencillo de Raw Stylus, una banda británica de acid jazz activa en la década de 1990, que versiona la canción de soul/R&B de 1972 de Bill Withers, "Use Me". Publicado en el sello Acid Jazz.
 
-おすすめポイント：「Use Me」は名曲のカヴァーでありながら、オリジナルへのリスペクトとAcid Jazz的な解釈の融合が魅力となっており、ファンクやソウルを含む多層的なサウンドが楽しめます。
+Puntos recomendados: Aunque "Use Me" es una versión de una canción famosa, su atractivo es una fusión de respeto por el original y una interpretación estilo jazz ácido, lo que permite disfrutar de un sonido de múltiples capas que incluye funk y soul.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Use Me
 
@@ -67,24 +68,24 @@ B2. Boom
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
-### Toledo – Joe
+### Toledo-Joe
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
-概要：Toledo (Toledo Diamond) によるハウス × アシッドジャズトラック。元Black GrapeメンバーDanny Saberがプロデューサーとして関与しています。
+Resumen: Tema house x acid jazz de Toledo (Toledo Diamond). El ex miembro de Black Grape, Danny Sabre, participa como productor.
 
 
-おすすめポイント：アシッドジャズのエッセンスを持ちながらハウス音楽としての洗練を掛け合わせた、クロスジャンルな楽しさが魅力的なトラックです。
+Puntos recomendados: Esta es una pista atractiva y divertida de varios géneros que combina la esencia del acid jazz con la sofisticación de la música house.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -93,20 +94,20 @@ B2. Joe (Extended Dub)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
 
 <br>
 
 
 
-### Akimbo Featuring Marcina Arnold – Everybody Knows
+### Akimbo con Marcina Arnold – Todo el mundo lo sabe
 <a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
-概要：Brand New HeaviesのギタリストSimon Bartholomewらが参加する、ファンク・ソウル・ロックバンドAkimboによるFuture Jazzトラック。1999年にUKレーベルAcid Jazzからリリースされました 。
+Resumen: Una pista de Future Jazz de la banda de funk-soul rock Akimbo, con el guitarrista Simon Bartholomew de Brand New Heavies y otros. Fue lanzado en 1999 en el sello británico Acid Jazz.
 
-おすすめポイント：Acid Jazzの進化系とも言える“Future Jazz”スタイルで、現代的なファンク／ジャズの融合を感じさせる、洗練されたトラックです。
+Puntos recomendados: Este es un tema sofisticado que se siente como una fusión moderna de funk/jazz, con un estilo "Future Jazz" que se puede decir que es una evolución del Acid Jazz.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Everybody Knows (Erobique Remix)
 
@@ -115,26 +116,26 @@ B2. Flight To Havana
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>
 
 
 
-### Various – Totally Wired Nine
+### Varios – Totalmente cableado nueve
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-概要：1992年、UKのAcid Jazzレーベルからリリースされたアシッドジャズのオールスター・コンピレーション・アルバムです。ダンスフロアで人気を博した多彩なアーティストの代表的トラックを収録。
+Resumen: Este es un álbum recopilatorio de acid jazz estelar lanzado en 1992 por el sello Acid Jazz del Reino Unido. Contiene temas exclusivos de una variedad de artistas que se han vuelto populares en la pista de baile.
 m.m.r
 
-おすすめポイント：Corduroy、Mother Earth、Sons Of Judahなど、アシッドジャズの初期を彩った名曲が並ぶ貴重な一枚。ジャンルの広がりとグルーヴ感を一気に味わえます。
+Puntos recomendados: Una pieza valiosa que incluye canciones famosas de los inicios del acid jazz, como Corduroy, Mother Earth y Sons of Judah. Puedes disfrutar de la expansión del género y la sensación de ritmo, todo al mismo tiempo.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
@@ -156,10 +157,10 @@ B5.Raw – Dreams
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hr>
 <br>

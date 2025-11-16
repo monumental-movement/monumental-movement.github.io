@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/VA – Long Live Tibet.webp
 lang: es
 layout: post
+permalink: /es/2024-12-17-VA – Long Live Tibet/
 tags:
 - Alternative Rock
 - Britpop
 - Rock
 - 90s
-title: VA – Long Live Tibet
+title: VA – Larga vida al Tíbet
 ---
 
 
-1997年にリリースされたチャリティCD。このCDの売り上げは、チベット解放＆チベット難民をサポートするTibet House Trust(チベットハウストラスト)慈善団体へ寄付された。
+CD benéfico lanzado en 1997. Las ganancias de la venta de este CD fueron donadas a la organización benéfica Tibet House Trust que apoya la liberación del Tíbet y los refugiados tibetanos.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
@@ -36,7 +37,7 @@ title: VA – Long Live Tibet
 16. Supergrass – Wait For The Sun
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Charly Lownoise Mental Theo – Wonderfull Days.webp
 lang: es
 layout: post
+permalink: /es/2023-09-28-Charly Lownoise Mental Theo – Wonderfull Days/
 tags:
 - Happy Hardcore
-title: Charly Lownoise Mental Theo – Wonderfull Days
+title: Charly Lownoise Mental Theo – Días maravillosos
 ---
 
 
-この楽曲は、1994年にリリースされたオランダのハッピーハードコアのクラシックとして知られています。Charly LownoiseとMental Theoは、オランダのDJおよびプロデューサーデュオであり、1990年代のユーロダンスやハッピーハードコアシーンで大きな成功を収めました。
+Esta canción es conocida como un clásico holandés del happy hardcore lanzado en 1994. Charly Lownoise y Mental Theo son un dúo de DJ y productores holandeses que lograron un gran éxito en las escenas Eurodance y happy hardcore de la década de 1990.
 
-「Wonderfull Days」は、多くのクラブやレイブイベントでプレイされ、そのキャッチーなメロディとポジティブなエネルギーが多くの人々に愛されています。
+"Wonderfull Days" se toca en muchos clubes y eventos rave, y muchos lo adoran por su melodía pegadiza y energía positiva.
 
-「Wonderfull Days」は、ハッピーハードコアシーンのクラシックとして今もなお人気を保っています。
+"Wonderfull Days" sigue siendo un clásico de la feliz escena hardcore.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Wonderfull Days (Rotterdam Mix)
 
@@ -26,7 +27,7 @@ B1. Wonderfull Days (Trance Mix)
 B2. Wonderfull Days (Radio Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Autechre – Peel Session 2.webp
 lang: es
 layout: post
+permalink: /es/2025-02-25-Autechre – Peel Session 2/
 tags:
 - Techno
 - Abstract
 - IDM
 - 00s
-title: Autechre – Peel Session 2
+title: Autechre – Sesión de exfoliación 2
 ---
 
 
-Peel Session 2は、Autechre2番目のジョンピールセッションで、1999年9月8日に放送され、CDは2000年にWarp Recordsからリリースされた。
+Peel Session 2 es la segunda sesión de John Peel de Autechre, transmitida el 8 de septiembre de 1999 y el CD fue lanzado en Warp Records en 2000.
 
-John Peel(ジョン・ピール)に初めてこの録音が渡された時、4曲目「19 Headaches」以外のトラックには名前が付いていなかったため、彼自身がトラックに名前を付けたと言われている。
+Cuando John Peel recibió esta grabación por primera vez, se dice que él mismo nombró las pistas, ya que ninguna de las pistas, excepto la cuarta, "19 Headaches", tenía nombre.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Gelk
 2. Blifil
@@ -26,7 +27,7 @@ John Peel(ジョン・ピール)に初めてこの録音が渡された時、4�
 4. 19 Headaches
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31277795768?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m31277795768?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwDIn7uJtp8?si=ljbvCL6PYDL9fN8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vwDIn7uJtp8?si=ljbvCL6PYDL9fN8O" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Chelonis R. Jones – Le Bateau Ivre.webp
 lang: es
 layout: post
+permalink: /es/2025-08-06-Chelonis R. Jones – Le Bateau Ivre/
 tags:
 - Electro
 - Tech House
@@ -13,15 +14,15 @@ title: Chelonis R. Jones – Le Bateau Ivre
 ---
 
 
-Chelonis R. Jonesは、2000年代からヨーロッパのエレクトロ／テックハウス・シーンで活躍したUS出身のミュージシャン、シンガーソングライター、ビジュアルアーティスト。
+Chelonis R. Jones es un músico, cantautor y artista visual de EE. UU. que ha estado activo en la escena electro/tech house europea desde la década de 2000.
 
-「 Le Bateau Ivre」は、デビューアルバム 『Dislocated Genius』（2005）からの先行シングルとして2005年にレーベルGet Physical MusicからリリースされたElectro／Tech House。
+"Le Bateau Ivre" fue lanzado por Electro/Tech House en el sello Get Physical Music en 2005 como el sencillo principal de su álbum debut "Dislocated Genius" (2005).
 
-A1&B2は、Jesper DahlbäckとTiga SontagのよるユニットThe Fairyによるremix。
+A1&B2 es un remix de Jesper Dahlbäck y la unidad de Tiga Sontag, The Fairy.
 
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Le Bateau Ivre (The Fairy Remix)
 A2. Le Bateau Ivre (Samim & Michal "Almost Sober" Mix)
@@ -30,7 +31,7 @@ B1. Middle Finger Music (Booka Shade Remix)
 B2. Le Bateau Ivre (The Fairy Dub Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16834886626?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m16834886626?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y-U8VdzdCZI?si=tPF8lADDibc6bvOi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y-U8VdzdCZI?si=tPF8lADDibc6bvOi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/pickup-90s-uktechno.webp
 lang: es
 layout: post
+permalink: /es/2025-07-13-Pickup-90s-UKTechno/
 tags:
 - UK Techno
 - 90s
-title: 90年代のUKテクノ作品をピックアップ
+title: Recogiendo obras de techno británico de los años 90
 ---
 
 
-「硬質なリズムと先鋭的サウンドデザインで、90年代UKテクノシーンを象徴する注目すべき作品群」
+"Un notable grupo de obras que simbolizaron la escena techno británica de los 90 con sus ritmos rígidos y su diseño de sonido de vanguardia."
 
 <hr>
 
-### Justin Berkovi – Fast - Wide E.P.
+### Justin Berkovi – Rápido - Amplio E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
-Released：1998年
+Lanzado: 1998
 
-UK・Cloned - Vinylよりリリースされた4トラックのEP。A面に「Brutal - City」「Risk - Rumblin’」、B面に「Steadycam」「Neon」
+Un EP de 4 pistas lanzado por Cloned - Vinyl en el Reino Unido. “Brutal – City” y “Risk – Rumblin’” en el lado A, “Steadycam” y “Neon” en el lado B.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Brutal City
 
@@ -35,11 +36,11 @@ B2. Neon
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen=""></iframe>
 
 
 <hr>
@@ -47,11 +48,11 @@ B2. Neon
 ### Autechre – Envane
 <a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.webp"></a>
 
-Released：1997年
+Lanzamiento: 1997
 
-ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
+Trabajo electro/techno británico de Sean Booth y Rob Brown. Un CD con ritmos y paisajes sonoros experimentales.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Goz Quarter
 
@@ -62,21 +63,21 @@ Released：1997年
 4. Draun Quarter
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
 
-### Luke Slater – Freek - Funk
+### Luke Slater - Freek - Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
-Released：1997年
+Lanzamiento: 1997
 
-UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
+Techno y electrónica del Reino Unido. Publicado por NovaMute. Los 5 mejores álbumes de Mixmag de los 90
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Purely
 2. Score One
@@ -97,39 +98,39 @@ UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90�
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
 ### D.O.M. – Acid War (Liberator DJs RMX)
 <a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
 
-Released：1995年（オリジナル），リミックス盤は2006年
+Lanzado: 1995 (original), versión remix lanzada en 2006.
 
-UKのJon Nuccle／Mike Humphriesのデュオによるアシッド・テクノ・リミックス
+Remix de acid techno del dúo británico Jon Nuccle/Mike Humphries
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A.  Acid War (Liberator DJs RMX)
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93454980108?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### Surgeon – Communications
+### Cirujano – Comunicaciones
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
 
-Released：1996年
+Lanzado: 1996
 
-Downwards（UK）からSurgeonの1stアルバム。レジス／Femaleのサポートでリリース
+El primer álbum de Surgeon de Downwards (Reino Unido). Publicado con el apoyo de Regis/Mujer
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Syllable
 
@@ -142,21 +143,21 @@ D1. Particle
 D2. Optic
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### Surgeon – Dry
+### Cirujano – Seco
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
-Released：1999年
+Lanzado: 1999
 
-Surgeon名義の強烈なテクノ・トラック
+Pista techno intensa bajo el nombre de Surgeon
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Untitled
 A2. Untitled
@@ -165,84 +166,84 @@ B1. Untitled
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### Hypnotist – House Is Mine ’92
+### Hipnotizador - La casa es mía '92
 <a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
 
-Released：1992年 UKテクノユニットによるハードコア・テクノ
+Lanzamiento: 1992 Techno incondicional por una unidad de techno del Reino Unido.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The House Is Mine '92 (Original)
 
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### List
+### Lista
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>アーティスト/タイトル</th>
-      <th>年代</th>
-      <th>形式</th>
-      <th>特徴</th>
+<th>Artista/Título</th>
+<th>era</th>
+<th>Formato</th>
+<th>Características</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
-      <td>1998</td>
-      <td>12”</td>
-      <td>UKクラブテクノ</td>
+<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
+<td>1998</td>
+<td>12”</td>
+<td>Techno de discoteca del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
-      <td>1997</td>
-      <td>CD</td>
-      <td>実験的エレクトロ／テクノ</td>
+<td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
+<td>1997</td>
+<td>CD</td>
+<td>Electro/techno experimental</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
-      <td>1997</td>
-      <td>CD</td>
-      <td>エレクトロニカとの境界を行くUKテクノ</td>
+<td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
+<td>1997</td>
+<td>CD</td>
+<td>Techno británico en la frontera con la electrónica</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
-      <td>1995</td>
-      <td>12”</td>
-      <td>UKアシッド・テクノ</td>
+<td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remezclas)</em></a></td>
+<td>1995</td>
+<td>12”</td>
+<td>Techno ácido del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
-      <td>1996</td>
-      <td>LP</td>
-      <td>荒々しいUKアンダーグラウンドテクノ</td>
+<td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Cirujano <br />- <em>Comunicaciones</em></a></td>
+<td>1996</td>
+<td>PL</td>
+<td>Techno underground rudo del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
-      <td>1999</td>
-      <td>12”</td>
-      <td>ミニマル～アンダーグラウンドなUKテクノ</td>
+<td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Cirujano <br />- <em>Seco</em></a></td>
+<td>1999</td>
+<td>12”</td>
+<td>Minimal ~ techno underground del Reino Unido</td>
     </tr>
     <tr>
-      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
-      <td>1992</td>
-      <td>12”</td>
-      <td>UKダンスフロア向けハードコアテクノ</td>
+<td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hipnotizador <br />- <em>La casa es mía ’92</em></a></td>
+<td>1992</td>
+<td>12”</td>
+<td>Techno duro para las pistas de baile del Reino Unido</td>
     </tr>
   </tbody>
 </table>

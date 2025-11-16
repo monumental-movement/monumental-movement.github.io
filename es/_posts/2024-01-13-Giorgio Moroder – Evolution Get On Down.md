@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/Giorgio Moroder – Evolution Get On Down.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Giorgio Moroder – Evolution Get On Down/
 tags:
 - House
 - Disco
-title: Giorgio Moroder – Evolution Get On Down
+title: Giorgio Moroder – La evolución sigue hacia abajo
 ---
 
 
-Giorgio Moroderトリビュートプロジェクトのレコードです。
+Este es un disco del proyecto tributo a Giorgio Moroder.
 
-Jerome Isma-Ae（ジェローム・イスマ・エー）は、ドイツのミュンヘン出身でトランス/テクノ/プログレッシブハウスのDJです。
+Jerome Isma-Ae es un DJ de trance/techno/house progresivo de Munich, Alemania.
 
-現在は、アメリカ合衆国、テキサス州ヒューストン在住。
-
-
-Woodbayことフロリアン・ホルツィンガーは、音楽プロデューサー、サウンドデザインが専門でエレクトロニック、ハウス、ファンクなどを得意としています。
-
-Giorgio Moroder（本名: ジョヴァンニ・ジョルジオ・モロダー [Giovanni Giorgio Moroder]）は、1940年4月26日にイタリアのボルツァーノ自治県オルティセイに生まれました。
-
-イタリア出身のミュージシャンとして作曲家、編曲家、プロデューサー、パフォーマー、DJ。エレクトロニックミュージックとディスコミュージックにおける最も革新的で影響力のある人物の一人として称えられています。
-
-オアシス・レーベルとミュージックランド・スタジオを設立し、1970年代には、ミュンヘンサウンド (しばしば、後に登場するイタロ・ディスコと混同されます)を生み出し、ドナ・サマーやロベルタ・ケリーとの象徴的な作品を世に送り出しました。
+Actualmente reside en Houston, Texas, Estados Unidos.
 
 
-#### Tracklist
+Florian Holzinger, también conocido como Woodbay, es un productor musical y diseñador de sonido especializado en electrónica, house y funk.
+
+Giorgio Moroder (nombre real: Giovanni Giorgio Moroder) nació el 26 de abril de 1940 en Ortisei, Bolzano, Italia.
+
+Músico de Italia que es compositor, arreglista, productor, intérprete y DJ. Ha sido aclamado como una de las figuras más innovadoras e influyentes de la música electrónica y disco.
+
+Fundando el sello Oasis y Musicland Studios, creó el sonido Munich (a menudo confundido con el Italo disco posterior) en la década de 1970, produciendo trabajos icónicos con Donna Summer y Roberta Kelly.
+
+
+#### Lista de canciones
 ```md
 A. Jerome Isma-Ae & Woodbay – Get On Down (inyourfacemix)
 Written-By, Producer – Florian Holzinger, Jerome Isma-Ae
@@ -38,9 +39,9 @@ Remix – Roger Sanchez
 Written-By, Producer [Original Production] – Giorgio Moroder
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LYCDi-HFe34?si=3hYuG5MJz0q9AoSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LYCDi-HFe34?si=3hYuG5MJz0q9AoSp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n6SjGH0SAbw?si=0MmzdefB-xug5Oc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n6SjGH0SAbw?si=0MmzdefB-xug5Oc0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

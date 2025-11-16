@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/April Wine – The Nature Of The Beast.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-April Wine – The Nature Of The Beast/
 tags:
 - Rock
 - Hard Rock
-title: April Wine – The Nature Of The Beast
+title: Vino de abril – La naturaleza de la bestia
 ---
 
 
-「The Nature Of The Beast」は、カナダのロックバンドApril Wineが1981年にリリースしたアルバム。このアルバムは、バンドの代表作の一つとして高く評価されており、特に「Just Between You and Me」と「Sign of the Gypsy Queen」は、商業的にも成功を収め今でもエイプリル・ワインの代表曲として有名。
+"The Nature Of The Beast" es un álbum lanzado por la banda de rock canadiense April Wine en 1981. Este álbum es muy considerado como una de las obras maestras de la banda y, en particular, "Just Between You and Me" y "Sign of the Gypsy Queen" tuvieron éxito comercial y todavía son famosos como las canciones emblemáticas de April Wine.
 
-このアルバムの成功により、バンドは国際的な知名度を高め、カナダのロックシーンで重要な位置を占めることになった。
+El éxito del álbum aumentó el perfil internacional de la banda y los estableció como una parte importante de la escena del rock canadiense.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. All Over Town
 
@@ -41,7 +42,7 @@ B4. Bad Boys
 B5. One More Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dsAso4CMy0g?si=21HaNoWtwDpqUGom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dsAso4CMy0g?si=21HaNoWtwDpqUGom" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

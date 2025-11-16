@@ -5,32 +5,33 @@ categories:
 image: ../assets/images/Ballistic Brothers – Peckings.webp
 lang: es
 layout: post
+permalink: /es/2025-02-15-Ballistic Brothers – Peckings Come On/
 tags:
 - Ska
 - Dub
 - Techno
 - Drum n Bass
 - 90s
-title: Ballistic Brothers – Peckings Come On
+title: Ballistic Brothers - Picoteos, vamos
 ---
 
 
-Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill（Nuphonic Records） が結成し、90年代イギリスを拠点に活躍したダウンビートバンド。ジャズの影響を受けたファンキーなエレクトロニカスタイルが特徴。
+Ballistic Brothers fue una banda deprimente con sede en Inglaterra en los años 90, formada por Ashley Beedle, Rocky & Diesel y David Hill (Nuphonic Records) de X-Press 2. Caracterizado por un estilo de electrónica funky influenciado por el jazz.
 
-このCDは、1995年にUKのレーベルJunior Boy's Ownからリリースされた名作アルバムLondon Hooligan Soulからのシングルカット。
+Este CD es un sencillo del álbum obra maestra London Hooligan Soul, lanzado en 1995 por el sello británico Junior Boy's Own.
 
-2曲目はジャングル・ドラムンベースのDJ＆プロデューサーSimon TemplarことPaul Saundersによるremix。
+La segunda canción es un remix del DJ y productor de Jungle Drum and Bass, Simon Templar, también conocido como Paul Saunders.
 
-3曲目はUKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるremix。
+La tercera canción es un remix del DJ y productor de techno británico Luke Slater.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Peckings
 2. Come On (Simon Templar Mix)
 3. Come On (Luke Slater Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XibBwi8wmUY?si=H7xFy0WWrh-wWI8l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XibBwi8wmUY?si=H7xFy0WWrh-wWI8l" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

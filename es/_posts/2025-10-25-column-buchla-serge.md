@@ -5,109 +5,110 @@ categories:
 image: ../assets/images/column-buchla-serge.webp
 lang: es
 layout: post
+permalink: /es/2025-10-25-column-buchla-serge/
 tags:
 - Synth
 - Techno
 - History
-title: 【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜
+title: '[Columna] Buchla y Serge: Otra genealogía de la acústica electrónica'
 ---
 
 
-## 「はじめに — モジュラーとは何か」
+## “Introducción: ¿Qué es modular?”
 
 
-文：mmr｜テーマ：西海岸モジュラーシンセの精神史。ドン・ブックラとサージ・トチェーニーの思想が、どのように今日のサウンドデザインへ継承されたのか
+Texto: mmr | Tema: Historia espiritual de los sintetizadores modulares de la costa oeste. Cómo las ideas de Don Buchler y Serge Tocheny se han trasladado al diseño de sonido actual
 
-1970年代初頭、アメリカ西海岸。  
-大学の電子音楽スタジオを離れ、**「音をデザインする装置」**を個人の創造空間へと持ち帰ろうとした人々がいた。  
-彼らの名前は **Don Buchla（ドン・ブックラ）** と **Serge Tcherepnin（サージ・トチェーニン）**。  
+Principios de la década de 1970, costa oeste de Estados Unidos.
+Hubo personas que abandonaron el estudio de música electrónica de su universidad e intentaron llevar **un dispositivo para diseñar sonido** a sus espacios creativos personales.
+Sus nombres son **Don Buchla** y **Serge Tcherepnin**.
 
-BuchlaとSergeは、いわゆる「モジュラーシンセの始祖」として語られることが多いが、実際には**商業楽器ではなく、哲学的な道具**を作ろうとした点で異彩を放っている。  
-彼らの設計思想は、今日のEurorackやMax/MSP、あるいはAIを用いた生成音楽にも通底する“反・規範的”な音響観を宿していた。
+A menudo se habla de Buchla y Serge como los llamados "progenitores de los sintetizadores modulares", pero en realidad se destacan porque buscaron crear herramientas filosóficas en lugar de instrumentos comerciales.
+Su filosofía de diseño contenía una perspectiva sonora "antinormativa" que es común al Eurorack, Max/MSP e incluso a la música generada con inteligencia artificial de hoy en día.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
 
-## 1. ドン・ブックラ：電子音の詩学
+## 1. Don Buchler: Poética del sonido electrónico
 
-### 1-1. サンフランシスコ・テープ・ミュージック・センターから
+### 1-1. Desde el Centro de Música Tape de San Francisco
 
-1960年代初期、サンフランシスコのテープ・ミュージック・センターでは、**Morton Subotnick** や **Pauline Oliveros** らが、実験音楽とテクノロジーの新しい関係を模索していた。  
-彼らが求めたのは、「ピアノやギターの延長ではない楽器」だった。
+En el Tape Music Center de San Francisco, a principios de la década de 1960, artistas como **Morton Subotnick** y **Pauline Oliveros** exploraban nuevas relaciones entre la música experimental y la tecnología.
+Lo que buscaban era "un instrumento que no fuera una extensión del piano o la guitarra".
 
-Subotnickの依頼に応えて登場したのが、**Buchla Series 100（1963–1966）**である。  
-ノブとパッチケーブルによる音響回路の構成、タッチプレート式キーボード（実際には「音階を持たない電圧入力デバイス」）など、従来の楽器的操作性を意図的に排していた。
+La **Buchla Serie 100 (1963-1966)** apareció en respuesta a la petición de Subotnick.
+Se evitó intencionalmente la operatividad musical tradicional, como la configuración del circuito acústico mediante perillas y cables de conexión, y el teclado con placa táctil (en realidad, un dispositivo de entrada de voltaje sin escala).
 
-> “No black and white keys.” — Don Buchla
+> “Sin teclas blancas y negras”. —Don Buchla
 
-### 1-2. Buchlaの思想：Performative Electronics
+### 1-2. La filosofía de Buchla: la electrónica performativa
 
-Buchlaは楽器を**「制御と生成が同居する生態系」**として設計した。  
-音は演奏者の身体から直接出るのではなく、電圧変化という**抽象的な振る舞い**によって生成される。  
-そのため、演奏は即興的な“行為”となり、音は流動する。
+Buchla diseñó instrumentos musicales como "un ecosistema en el que coexisten control y generación".
+El sonido no proviene directamente del cuerpo del intérprete, sino que se genera mediante el comportamiento abstracto de los cambios de voltaje.
+Por tanto, la interpretación se convierte en un "acto" de improvisación y el sonido es fluido.
 
 ---
 
 <div class="mermaid">
 
-flowchart LR
-  subgraph Buchla_System["Buchla System 100/200 概念構造"]
-    direction LR
-    CV["Voltage Source<br>(コントロール電圧)"] --> MOD["Modulation Bus<br>(変調経路)"]
-    MOD --> OSC["Complex Oscillator<br>(複雑発振)"]
-    OSC --> LPG["Low Pass Gate<br>(音色・音量連動)"]
-    LPG --> OUT["Audio Out"]
-  end
-  style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
+diagrama de flujo LR
+subgrafo Buchla_System["Estructura conceptual del sistema Buchla 100/200"]
+dirección LR
+CV["Fuente de voltaje<br>(Tensión de control)"] --> MOD["Bus de modulación<br>(Ruta de modulación)"]
+MOD --> OSC["Oscilador complejo<br>"]
+OSC --> LPG["Puerta de paso bajo<br>(tono/volumen vinculado)"]
+GLP --> SALIDA["Salida de audio"]
+fin
+estilo Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
 
 </div>
 
-この構造こそが、「**音を操作するのではなく、音を触媒する**」というBuchlaの世界観を象徴している。  
-Low Pass Gate（音量と音色を一体制御する素子）は、後にEurorack文化でも定番の哲学装置となった。
+Esta estructura simboliza la visión del mundo de Buchla de "catalizar el sonido en lugar de manipularlo".
+El Low Pass Gate (un elemento que controla tanto el volumen como el timbre) se convirtió más tarde en un dispositivo filosófico estándar en la cultura Eurorack.
 
 ---
 
-## 2. サージ・トチェーニン：民主化されたモジュール
+## 2. Serge Tochenin: módulo democratizado
 
-### 2-1. “The People’s Synthesizer” の誕生
+### 2-1. Nacimiento del “Sintetizador del Pueblo”
 
-1970年代後半、ドン・ブックラの設計思想に感銘を受けた若き音楽家サージ・トチェーニンは、UCLAで電子音楽を学びながら「より多くの人が手にできるBuchla的装置」を構想した。  
-それが **Serge Modular Music System（1974–）**である。
+A finales de la década de 1970, el joven músico Serge Tochenin quedó impresionado por la filosofía de diseño de Don Buchla y, mientras estudiaba música electrónica en UCLA, imaginó un "dispositivo similar a Buchla al que más personas pudieran tener acceso".
+Ese es **Serge Modular Music System (1974–)**.
 
-ブックラが芸術家のための特注機を作ったのに対し、SergeはDIY文化と大学コミュニティに根ざし、**「回路図を公開し、誰でも作れる」**という精神を掲げた。  
-このオープンソース的な姿勢は、後のEurorack普及に先駆けた概念的革命だった。
+Mientras Buchler creaba máquinas personalizadas para artistas, Serge está arraigado en la cultura del bricolaje y en la comunidad universitaria, con el espíritu de "abrir los esquemas para que cualquiera pueda construirlos".
+Esta actitud de código abierto fue una revolución conceptual que precedió a la posterior difusión de Eurorack.
 
-### 2-2. Sergeの哲学：Patch Programmability
+### 2-2. La filosofía de Serge: programabilidad de parches
 
-Sergeの根本思想は、**“One module, many functions”**。  
-つまり、単一の回路が接続方法次第で無数の動作モードを持つという考えだ。  
-たとえばDual Universal Slope Generator（通称「DSG」）は、  
-- エンベロープ  
-- LFO  
-- トリガーディレイ  
-- クロックディバイダ  
-- カオスモジュール  
-と、パッチ構成次第で機能が変容する。
+La filosofía fundamental de Serge es **“Un módulo, muchas funciones”**.
+Es decir, la idea es que un único circuito pueda tener una infinidad de modos de funcionamiento dependiendo de cómo esté conectado.
+Por ejemplo, el generador de pendiente universal dual (comúnmente conocido como "DSG")
+- sobre
+-LFO
+- retardo de disparo
+- divisor de reloj
+- Módulo Caos
+La funcionalidad cambia según la configuración del parche.
 
-この思想は今日のMax/MSPパッチング、Reaktor Blocks、あるいはEurorackのMake Noise「Maths」へと直系で受け継がれている。
+Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloques Reaktor y los "Maths" de Make Noise de Eurorack.
 
 ---
 
-## 3. BuchlaとSergeの比較：構造と思想
+## 3. Comparación de Buchla y Serge: estructura e ideología
 
 | 要素 | Buchla | Serge |
 |------|--------|--------|
@@ -120,7 +121,7 @@ Sergeの根本思想は、**“One module, many functions”**。
 
 ---
 
-## 4. 技術年表
+## 4. Cronología tecnológica
 
 | 年 | 出来事 | 備考 |
 |----|--------|------|
@@ -134,60 +135,60 @@ Sergeの根本思想は、**“One module, many functions”**。
 
 ---
 
-## 5. モジュラー文化への影響
+## 5. Impacto en la cultura modular
 
-ブックラとサージの哲学は、**音響そのものを“社会的行為”として再定義**した。  
-つまり、「楽器」から「環境」「インターフェース」へと視点を移したのだ。
+La filosofía de Buchler y Sarge redefinió el sonido como un "acto social".
+En otras palabras, cambió su enfoque del "instrumento" al "entorno" y la "interfaz".
 
-Eurorackにおけるモジュラーの“無限の組み合わせ”は、単にパーツの自由ではなく、**意味の再構成**そのもの。  
-Buchlaの「身体性」、Sergeの「構造性」が融合し、今日の電子音楽はますます“非中心的”になっている。
+Las "infinitas combinaciones" modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
+La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más "decéntrica".
 
 ---
 
 <div class="mermaid">
 
-timeline
-  title Buchla / Serge: Evolution of Modular Thinking
-  1963 : Buchla Series 100 開発
-  1969 : Buchla 200 シリーズ
-  1974 : Serge Modular 初期版
-  1980 : Serge Dual Slope Generator
-  1990 : Buchla 400 / MIDI実験
-  2004 : Eurorackブーム
-  2020 : Buchla USA / Serge再評価
+línea de tiempo
+título Buchla / Serge: Evolución del pensamiento modular
+1963: desarrollo de la Serie 100 de Buchla
+1969: Serie Buchla 200
+1974: versión inicial de Serge Modular
+1980: Generador de doble pendiente Serge
+1990: Buchla 400 / Experimento MIDI
+2004: auge del eurorack
+2020: reevaluación de Buchla USA / Serge
 
 </div>
 
 ---
 
-## 6. 現代への接続：アルゴリズムと身体のあいだで
+## 6. Conectándonos con la Era Moderna: Entre los Algoritmos y el Cuerpo
 
-Max/MSPやVCV Rack、さらにはAI生成音楽ツールにおいても、Buchla/Sergeの精神は生きている。  
-それは単なる“モジュールの組み合わせ”ではなく、**時間・空間・身体・確率を接続するアート的フレーム**である。
+El espíritu de Buchla/Serge está vivo y coleando en Max/MSP, VCV Rack e incluso en herramientas musicales generadas por IA.
+No es sólo una "combinación de módulos", sino un marco artístico que conecta el tiempo, el espacio, el cuerpo y la probabilidad.
 
-モジュラーシンセは、音を作るための「道具」ではなく、  
-音と人とのあいだに生まれる「出来事」を生成するメディアだ。  
-BuchlaとSergeの設計思想は、まさにそのメディア哲学の萌芽であり続けている。
+Los sintetizadores modulares no son sólo "herramientas" para crear sonidos;
+Es un medio que genera "eventos" que ocurren entre sonidos y personas.
+La filosofía de diseño de Buchla y Serge sigue siendo el germen de esa filosofía mediática.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 ---
 
-## 結語 — “Control Voltage” の詩学
+## Conclusión: poética del “voltaje de control”
 
-ドン・ブックラは生前、こう語ったという。  
-> “Voltage is not a number — it’s a gesture.”  
+Se dice que Don Buchler dijo esto antes de su muerte.
+> “El voltaje no es un número, es un gesto”.
 
-サージもまた言う。  
-> “Every patch is a composition.”  
+Sarge también dice.
+> “Cada parche es una composición”.
 
-彼らにとって、電圧とは単なる信号ではなく、  
-**「人間の意志と機械のあいだを結ぶ詩的な言語」**だった。  
+Para ellos, el voltaje no es sólo una señal;
+**Era "un lenguaje poético que conecta la voluntad humana y las máquinas".**
 
-2025年の今もなお、私たちはその電圧の詩を聴き続けている。
+Incluso ahora, en 2025, seguimos escuchando la poesía de ese voltaje.
 
 ---
 

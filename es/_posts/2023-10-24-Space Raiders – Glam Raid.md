@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Space Raiders – Glam Raid.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Space Raiders – Glam Raid/
 tags:
 - Big Beat
 - Techno
 - 7inch
-title: Space Raiders – Glam Raid
+title: Asaltantes espaciales – Glam Raid
 ---
 
 
-Space Raiders(スペース・レイダーズ)は、1997年に結成したイギリスのミドルズブラ出身のUKエレクトロ・トリオ。
+Space Raiders es un trío electrónico británico de Middlesbrough, Inglaterra, formado en 1997.
 
-「Glam Raid」は、Fatboy Slim(ファットボーイ スリム), Freq Nasty(フリーク ナスティ), Midfield General(ミッドフィールド ジェネラル), Lo-Fidelity Allstars(ローフィデリティ オールスターズ) など、初期のビッグビートシーンをリードしたレーベルSkintからの1998年リリース。
+"Glam Raid" fue lanzado en 1998 por Skint, un sello que lideró la primera escena del big beat, incluyendo a Fatboy Slim, Freq Nasty, Midfield General y Lo-Fidelity Allstars.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A  Glam Raid (Edit)
 
 B  Boy Power (Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38074901178?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38074901178?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJRePZq_Nbk?si=rPChQOkU5UcgoFwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJRePZq_Nbk?si=rPChQOkU5UcgoFwK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

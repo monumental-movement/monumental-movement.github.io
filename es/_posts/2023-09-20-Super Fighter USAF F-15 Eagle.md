@@ -5,15 +5,16 @@ categories:
 image: ../assets/images/Super Fighter USAF F-15 Eagle.webp
 lang: es
 layout: post
+permalink: /es/2023-09-20-Super Fighter USAF F-15 Eagle/
 tags:
 - Ambient
-title: Super Fighter USAF F-15 Eagle
+title: Súper caza USAF F-15 Eagle
 ---
 
 
-Super Fighter USAF F-15 Eagle
+Súper caza USAF F-15 Eagle
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  プロローグ
 
@@ -32,4 +33,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Philippe B – Can You Feel It.webp
 lang: es
 layout: post
+permalink: /es/2025-05-30-Philippe B – Can You Feel It/
 tags:
 - Electronic
 - House
 - French House
 - 00s
-title: Philippe B – Can You Feel It
+title: Philippe B – ¿Puedes sentirlo?
 ---
 
 
-オランダのプロデューサーグループSolid SessionsがPronti & Kalmaniをフィーチャーしたヴォーカルトランストラック「Janeiro」は、2000年のリリース以降数々の有名DJにremixされている。
+"Janeiro", una pista de trance vocal del grupo productor holandés Solid Sessions con Pronti y Kalmani, ha sido remezclada por numerosos DJ famosos desde su lanzamiento en 2000.
 
-このレコードは、2002年にレーベルAlpha+からリリースされた、オランダのDJ・プロデューサーArmin van Buuren(アーミン・ヴァン・ビューレン)とPaul Hutschによるremixバージョン。
+Este disco es una versión remix del DJ y productor holandés Armin van Buuren y Paul Hutsch, lanzado con el sello Alpha+ en 2002.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Can You Feel It
 
 (※シングルサイド)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gYoDmqiua48?si=HuPF1aCDOtmomzK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gYoDmqiua48?si=HuPF1aCDOtmomzK9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

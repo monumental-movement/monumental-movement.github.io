@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Kele Le Roc – Let Me Know.webp
 lang: es
 layout: post
+permalink: /es/2024-08-10-Kele Le Roc – Let Me Know/
 tags:
 - RnB
 - Swing
 - Soul
 - Hiphop
 - 90s
-title: Kele Le Roc – Let Me Know
+title: Kele Le Roc – Déjamelo saber
 ---
 
 
-Kele Le Roc（ケ・レル・ロック）ことKelly Biggs（ケリー・ビッグス）は、イギリスのR&B / UKガレージ/ ブリットポップシンガー。
+Kelly Biggs, también conocida como Kele Le Roc, es una cantante británica de R&B/UK Garage/Britpop.
 
-1995年にリリースされた「Let Me Know」は、アンダーグランド＆クラブヒットとなり、Kele Le Rocはこの曲で一躍有名になった。
+Lanzado en 1995, "Let Me Know" se convirtió en un éxito underground y de discotecas, y la canción catapultó a Kele Le Roc a la fama.
 
-B面２曲目の「No.1」は、UKのシンガーLemar（レマー）とのデュエット曲。
+La segunda canción de la cara B, "No.1", es un dueto con el cantante británico Lemar.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Let Me Know (Original Mix)
 A2. Let Me Know (Gee's Summer Time)
@@ -30,7 +31,7 @@ B1. Let Me Know (Dee B S Popular)
 B2. No. 1
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m17487420097?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m17487420097?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lwGNwNCQnrs?si=HXj9uMohG6dKXUvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lwGNwNCQnrs?si=HXj9uMohG6dKXUvi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/El Cantor – Toma 96 Remixes.webp
 lang: es
 layout: post
+permalink: /es/2025-03-15-El Cantor – Toma 96 Remixes/
 tags:
 - House
 - Tribal House
@@ -13,13 +14,13 @@ title: El Cantor – Toma '96 Remixes!
 ---
 
 
-El Cantor ことDavidson OspinaはNY出身のハウスDJ。自身のレーベルOspina Digital recordsを運営している。また、Christina Aguilera(クリスティーナ・アギレラ)「Ain't No Other Man」、Beyonce(ビヨンセ)「Broken Hearted Girl」等、多数の有名アーティストのremix を手掛けるリミキサーでもある。
+Davidson Ospina, también conocido como El Cantor, es un DJ house de Nueva York. Dirige su propio sello, Ospina Digital Records. También es un remezclador que ha creado remezclas para muchos artistas famosos, incluidos "Ain't No Other Man" de Christina Aguilera y "Broken Hearted Girl" de Beyoncé.
 
-「Toma '96 Remixes!」は、1996年にDigital Dungeon Recordsからリリースされたハウス・トライバルハウストラック。
+"¡Remezclas de Toma '96!" es una canción house/tribal house lanzada por Digital Dungeon Records en 1996.
 
-A面1曲目は、ブルックリン出身のイタリア系アメリカ人DJデュオJohNickによるremix。
+La primera pista de la cara A es un remix de JohNick, un dúo de DJ italoamericano de Brooklyn.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Toma (Johnick 'Henry Street' Mix)
 A2. Toma (Davidson Ospina 'En Tu Cara Mix)
@@ -28,7 +29,7 @@ B1. Toma (Prophets Of Rage 'Electro' Mix)
 B2. Toma (Ospina 'Bonus' Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49185078245?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m49185078245?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eQNhYRKYjrQ?si=N8HNdczdtk7PDMPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQNhYRKYjrQ?si=N8HNdczdtk7PDMPu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

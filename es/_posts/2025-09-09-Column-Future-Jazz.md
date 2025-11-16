@@ -5,53 +5,54 @@ categories:
 image: ../assets/images/column-future-jazz.webp
 lang: es
 layout: post
+permalink: /es/2025-09-09-Column-Future-Jazz/
 tags:
 - Future Jazz
 - Jazz
 - Electronic
 - Acid Jazz
-title: 【コラム】 Future Jazzの歴史と名盤、機材の変遷
+title: '[Columna] Historia del Future Jazz, discos famosos y cambios de equipamiento'
 ---
 
 
 
-## Future Jazzとは何か？
+## ¿Qué es el jazz del futuro?
 
 
-文：mmr｜テーマ：ジャズの即興性と電子音楽の革新性を融合させたジャンル
+Texto: mmr｜Tema: Un género que combina la naturaleza improvisacional del jazz y la innovación de la música electrónica.
 
-Future Jazz（フューチャー・ジャズ）は、**ジャズの即興性と電子音楽の革新性を融合させたジャンル**として1990年代初頭に登場しました。クラブカルチャーや新世代の音楽テクノロジーの発展とともに発展し、**Acid Jazz、Nu-Jazz、Broken Beat**などの流れと密接に関わっています。以下では年代別にその歩みを追い、代表的な名盤と使用機材の変遷を解説します。
+Future Jazz surgió a principios de la década de 1990 como un género que combina la naturaleza de improvisación del jazz con la innovación de la música electrónica. Evolucionó con el desarrollo de la cultura de club y una nueva generación de tecnología musical, y está estrechamente relacionado con tendencias como **Acid Jazz, Nu-Jazz y Broken Beat**. A continuación, seguiremos el progreso de la banda a lo largo de los años y explicaremos los cambios en las obras maestras representativas y el equipo utilizado.
 
 ---
 
-## 1990年代初頭：発芽 — Acid JazzからFuture Jazzへ
-- **時代背景**  
-  Acid JazzがUKを中心に盛り上がり、ジャズ・ファンクやソウルをクラブ向けに再構築。DJやプロデューサーがターンテーブルやサンプラーを駆使して新しいジャズ解釈を試みる時代。
+## Principios de la década de 1990: Germinación: del acid jazz al futuro jazz
+- **Fondo**
+Acid Jazz se ha hecho popular principalmente en el Reino Unido, reimaginando el jazz funk y soul para clubes. Esta fue una época en la que los DJ y productores experimentaron con nuevas interpretaciones del jazz utilizando tocadiscos y samplers.
 
-- **代表的アーティスト／名盤**  
-  - [Galliano — *In Pursuit of the 13th Note* (1991)](https://amzn.to/4mzKCaW)  
-  - [Brand New Heavies — *Heavy Rhyme Experience* (1992)](https://amzn.to/4nfUp7b)  
-  - [US3 — *Hand on the Torch* (1993)](https://amzn.to/4pHi81M)  
+- **Artistas representativos/discos maestros**
+- [Galliano — *En busca de la nota 13* (1991)](https://amzn.to/4mzKCaW)
+- [Brand New Heavies - *Experiencia de rima pesada* (1992)](https://amzn.to/4nfUp7b)
+- [US3 — *La mano en la antorcha* (1993)](https://amzn.to/4pHi81M)
 
-- **機材の特徴**  
-  - Akai MPC60 / S1000  
-  - Roland TR-808 / TR-909  
-  - ターンテーブルとサンプラー中心  
+- **Características del equipo**
+-Akai MPC60/S1000
+-Roland TR-808 / TR-909
+- Principalmente tocadiscos y sampler.
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
-### おすすめ10曲
+### 10 canciones recomendadas
 
 | No | アーティスト | トラック | コメント |
 |---|---|---|---|
@@ -68,22 +69,22 @@ color: #fff;
 
 ---
 
-## 1990年代後半：Future Jazz確立
-- **時代背景**  
-  ドイツのCompost Recordsを中心に「Future Jazz」という言葉が定着。クラブカルチャーとジャズの融合がリスニングシーンでも台頭。
+## Finales de la década de 1990: establecimiento del jazz del futuro
+- **Fondo**
+El término "Future Jazz" se estableció en torno a Compost Records de Alemania. La fusión de la cultura de club y el jazz también está surgiendo en la escena auditiva.
 
-- **代表的アーティスト／名盤**  
-  - [Kruder & Dorfmeister — *The K&D Sessions* (1998)](https://amzn.to/47VWvV1)  
-  - [Jazzanova — *Compilation Vol.1* (1997)](https://amzn.to/3KrPhOJ)  
-  - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)  
+- **Artistas representativos/discos maestros**
+- [Kruder & Dorfmeister — *Las sesiones de K&D* (1998)](https://amzn.to/47VWvV1)
+- [Jazzanova — *Compilación Vol.1* (1997)](https://amzn.to/3KrPhOJ)
+- [Trío Rainer Trüby — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
-- **機材の特徴**  
-  - Akai MPC3000  
-  - EMU SP-1200  
-  - Roland JV-1080  
-  - Korg MS-20  
+- **Características del equipo**
+-Akai MPC3000
+-UEM SP-1200
+-Roland JV-1080
+-Korg MS-20
 
-### おすすめ10曲
+### 10 canciones recomendadas
 
 | No | アーティスト | トラック | コメント |
 |---|---|---|---|
@@ -100,21 +101,21 @@ color: #fff;
 
 ---
 
-## 2000年代前半：Nu-Jazz／Broken Beat
-- **時代背景**  
-  West LondonのBroken BeatシーンがFuture Jazzを進化。リズムの複雑化と即興性が融合。
+## Principios de la década de 2000: Nu-Jazz/Broken Beat
+- **Fondo**
+La escena Broken Beat del oeste de Londres evoluciona el Future Jazz. Una fusión de complejidad rítmica e improvisación.
 
-- **代表的アーティスト／名盤**  
-  - [Bugge Wesseltoft — *New Conception of Jazz* (2001)](https://amzn.to/4nIAsFS)  
-  - [4hero — *Creating Patterns* (2001)](https://amzn.to/4gCTTgY)  
-  - [Nicola Conte — *Jet Sounds* (2000)](https://amzn.to/4h0427T)  
+- **Artistas representativos/discos maestros**
+- [Bugge Wesseltoft — *Nueva concepción del jazz* (2001)](https://amzn.to/4nIAsFS)
+- [4hero — *Creando patrones* (2001)](https://amzn.to/4gCTTgY)
+- [Nicola Conte — *Sonidos de Jet* (2000)](https://amzn.to/4h0427T)
 
-- **機材の特徴**  
-  - Cubase / Logic Audio  
-  - Nord Lead / Access Virus  
-  - Rhodes, Nord Electro  
+- **Características del equipo**
+-Cubase/Audio lógico
+- Virus Nord Lead / Acceso
+- Rodas, Nord Electro
 
-### おすすめ10曲
+### 10 canciones recomendadas
 
 | No | アーティスト | トラック | コメント |
 |---|---|---|---|
@@ -131,21 +132,21 @@ color: #fff;
 
 ---
 
-## 2000年代後半：クラブジャズからエレクトロニカへ
-- **時代背景**  
-  Nu-Jazzはエレクトロニカと融合し、リスニング色を強めた。
+## Finales de la década de 2000: del jazz de club a la electrónica
+- **Fondo**
+El Nu-Jazz se fusionó con la electrónica y fortaleció el estilo de escucha.
 
-- **代表的アーティスト／名盤**  
-  - [Nils Petter Molvær — *ER* (2005)](https://amzn.to/47WwMfb)  
-  - [Cinematic Orchestra — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)  
-  - [Jaga Jazzist — *What We Must* (2005)](https://amzn.to/4my5wqM)  
+- **Artistas representativos/discos maestros**
+- [Nils Petter Molvær — *ER* (2005)](https://amzn.to/47WwMfb)
+- [Orquesta cinematográfica — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)
+- [Jaga Jazzist — *Lo que debemos* (2005)](https://amzn.to/4my5wqM)
 
-- **機材の特徴**  
-  - Ableton Live  
-  - Native Instruments Reaktor, Kontakt  
-  - ラップトップと生楽器の融合  
+- **Características del equipo**
+- Ableton en vivo
+- Reactor de Native Instruments, Kontakt
+- Fusión de portátiles e instrumentos en vivo.
 
-### おすすめ10曲
+### 10 canciones recomendadas
 
 | No | アーティスト | トラック | コメント |
 |---|---|---|---|
@@ -162,21 +163,21 @@ color: #fff;
 
 ---
 
-## 2010年代：モダン・クロスオーバー
-- **時代背景**  
-  Future Jazzはヒップホップや現代ジャズと融合し、クロスオーバー的に進化。
+## Década de 2010: crossover moderno
+- **Fondo**
+Future Jazz se fusiona con el hip-hop y el jazz contemporáneo y evoluciona de manera cruzada.
 
-- **代表的アーティスト／名盤**  
-  - [Robert Glasper Experiment — *Black Radio* (2012)](https://amzn.to/4nmsNNV)  
-  - [Flying Lotus — *Cosmogramma* (2010)](https://amzn.to/4pGC6cW)  
-  - [BADBADNOTGOOD — *III* (2014)](https://amzn.to/4pGUoe8)  
+- **Artistas representativos/discos maestros**
+- [Experimento de Robert Glasper - *Black Radio* (2012)](https://amzn.to/4nmsNNV)
+- [Loto volador — *Cosmogramma* (2010)](https://amzn.to/4pGC6cW)
+- [BADBADNOTGOOD — *III* (2014)](https://amzn.to/4pGUoe8)
 
-- **機材の特徴**  
-  - Ableton Live + Push  
-  - Moog Sub Phatty, Prophet 08  
-  - アコースティック楽器との融合  
+- **Características del equipo**
+- Ableton Live + Empujar
+- Moog Sub Phatty, Profeta 08
+- Fusión con instrumentos acústicos
 
-### おすすめ10曲
+### 10 canciones recomendadas
 
 | No | アーティスト | トラック | コメント |
 |---|---|---|---|
@@ -193,21 +194,21 @@ color: #fff;
 
 ---
 
-## 2020年代：再評価とAI・モジュラーとの融合
-- **時代背景**  
-  ストリーミングとAI時代に入り、Future Jazzは再評価され、モジュラーやAI音楽と交差。
+## Década de 2020: reevaluación y fusión con IA y modularidad
+- **Fondo**
+En la era del streaming y la IA, Future Jazz ha sido reevaluado y se ha cruzado con la música modular y con IA.
 
-- **代表的アーティスト／名盤**  
-  - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)  
-  - [Kamaal Williams — *Wu Hen* (2020)](https://amzn.to/4gGebq3)  
-  - [Shabaka Hutchings & Sons of Kemet — *Black to the Future* (2021)](https://amzn.to/46B1doL)  
+- **Artistas representativos/discos maestros**
+- [Alfa Mist — *Traer de vuelta* (2021)](https://amzn.to/4pNoA7x)
+- [Kamaal Williams — *Wu Hen* (2020)](https://amzn.to/4gGebq3)
+- [Shabaka Hutchings & Sons of Kemet — *Negro hacia el futuro* (2021)](https://amzn.to/46B1doL)
 
-- **機材の特徴**  
-  - Eurorack Modular  
-  - Elektron Octatrack, Digitakt  
-  - AIアシストDAW  
+- **Características del equipo**
+-Eurorack Modular
+- Elektron Octatrack, Digitakt
+- DAW asistido por IA
 
-### おすすめ10曲
+### 10 canciones recomendadas
 
 | No | アーティスト | トラック | コメント |
 |---|---|---|---|
@@ -224,7 +225,7 @@ color: #fff;
 
 ---
 
-# 常に時代の先端を走り続けるジャンル
-Future Jazzは、**ジャズの伝統的即興と電子音楽の革新が交わる場所**として進化を続けてきました。90年代のクラブ文化から始まり、Broken BeatやNu-Jazzを経て、現在はモジュラーやAIも取り入れた多層的表現へと広がっています。  
+# Un género que siempre está a la vanguardia de los tiempos.
+Future Jazz ha seguido evolucionando como un lugar donde se cruzan la improvisación del jazz tradicional y la innovación electrónica. Comenzó con la cultura de club de los años 90, pasó por Broken Beat y Nu-Jazz, y ahora se está expandiendo hacia una expresión de múltiples capas que también incorpora modularidad e inteligencia artificial.
 
-「未来的なジャズ」という名前にふさわしく、常に時代の先端を走り続けるジャンルです。
+Como corresponde al nombre "jazz futurista", es un género que siempre está a la vanguardia de los tiempos.

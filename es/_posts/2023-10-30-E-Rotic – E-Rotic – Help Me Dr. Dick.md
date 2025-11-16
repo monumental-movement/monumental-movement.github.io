@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/E-Rotic – Help Me Dr. Dick.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-E-Rotic – E-Rotic – Help Me Dr. Dick/
 tags:
 - House
 - Euro House
 - Hi NRG
 - 90s
-title: E-Rotic – Help Me Dr. Dick
+title: E-Rotic - Ayúdame Dr. Dick
 ---
 
 
-1994年に結成されたE-Rotic（エロティック）はドイツのユーロダンスアクト。初期のメンバーはヴォーカリストLyane LeighとラッパーRichard Michael Smith（別名Raz-Ma-Taz）。プロデューサーは、David Brandes。
+E-Rotic es un grupo alemán de eurodance formado en 1994. Los primeros miembros fueron la vocalista Lyane Leigh y el rapero Richard Michael Smith (también conocido como Raz-Ma-Taz). El productor es David Brandes.
 
-「Help Me Dr. Dick」は、1996年にドイツ、シュトゥットガルトのダンスポップレーベルBlow Upからリリースされたユーロハウス・ユーロダンストラック。
+"Help Me Dr. Dick" es una canción de Eurohouse/Eurodance lanzada en 1996 por el sello dance-pop Blow Up en Stuttgart, Alemania.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Help Me Dr. Dick (Club Version)
 
 B. Help Me Dr. Dick (Extended Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95670817955?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95670817955?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TMQvQ-xuMn0?si=KbOyrnr3f0yrB6ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMQvQ-xuMn0?si=KbOyrnr3f0yrB6ty" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

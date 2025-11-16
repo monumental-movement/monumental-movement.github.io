@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Dubstar – Disgraceful.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Dubstar – Disgraceful/
 tags:
 - Synth-Pop
-title: Dubstar – Disgraceful
+title: Dubstar - Vergonzoso
 ---
 
 
-1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
+Este es un álbum lanzado por la banda británica Dubstar en 1995. Fue su álbum debut, lanzado en octubre de 1995 por Food Records, una subsidiaria de EMI.
 
-アルバムには2つのカバー曲が収録されています。1つは「Not So Manic Now」で、元々は1994年のEP「Somebody's Intermezzo」でBrick Supplyによって録音された曲です。もう1つは「St. Swithin's Day」で、元々は1984年のアルバム「Brewing Up with Billy Bragg」でBilly Braggによって録音された曲です。
+El álbum incluye dos versiones de canciones. Una es "Not So Manic Now", una canción grabada originalmente por Brick Supply en su EP de 1994 "Somebody's Intermezzo". La otra es "St. Swithin's Day", una canción grabada originalmente por Billy Bragg en su álbum de 1984 "Brewing Up with Billy Bragg".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Stars
 2. Anywhere
@@ -41,7 +42,7 @@ Bonus Tracks
 18. Not So Manic Now (Way Out West Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-XA7p8NiAQ?si=7MX8Mdz5dBGtT6CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-XA7p8NiAQ?si=7MX8Mdz5dBGtT6CJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

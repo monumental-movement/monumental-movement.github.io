@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Junior Vasquez – Be Quiet.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Junior Vasquez – Be Quiet/
 tags:
 - House
 - Hard House
-title: Junior Vasquez – Be Quiet
+title: Junior Vásquez – Cállate
 ---
 
 
-「Be Quiet」は、
-2000年にリリースされた本名Donald MatternによるJunior Vasquezの有名なトラックです。
+"Cállate" es
+Este es un tema famoso de Junior Vasquez, cuyo nombre real es Donald Mattern, lanzado en el año 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Be Quiet (All Y'all Be Quiet Mix)
 
@@ -24,7 +25,7 @@ B1. Be Quiet (Can U Dub)
 B2. Be Quiet (Royal Beats)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m39743201804?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39743201804?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U1TQhfGtCtY?si=o4kxHZT6LPGh-TT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U1TQhfGtCtY?si=o4kxHZT6LPGh-TT6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

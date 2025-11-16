@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/The Rascals – People Got To Be Free My World.webp
 lang: es
 layout: post
+permalink: /es/2023-10-23-The Rascals – People Got To Be Free My World/
 tags:
 - Funk
 - Soul
 - 7inch
-title: The Rascals – People Got To Be Free My World
+title: The Rascals – La gente tiene que ser libre Mi mundo
 ---
 
 
-The Rascals（ラスカルズ）は、1964年にUSニューヨークで結成されたブルー・アイド・ソウル・バンド。1965年から1969年にかけヒット曲を次々と出し、 People Got To Be Free（自由への賛歌）もヒット曲・代表曲の一つ。 
+The Rascals es una banda de soul de ojos azules formada en Nueva York en 1964. Lanzaron una serie de canciones exitosas de 1965 a 1969, y People Got To Be Free (Hymn to Freedom) es una de sus canciones exitosas y emblemáticas.
 
-浜田省吾や山下達郎など日本のミュージシャンにも影響を与えたバンド。
-#### Tracklist
+La banda también influyó en músicos japoneses como Shogo Hamada y Tatsuro Yamashita.
+#### Lista de canciones
 ```md
 A. People Got To Be Free
 
 B. My World
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47977727974?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47977727974?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gM1fbZBfcgA?si=dulcc8VmImuOBe1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gM1fbZBfcgA?si=dulcc8VmImuOBe1n" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Reel 2 Real Featuring Mad Stuntman – Go On Move.webp
 lang: es
 layout: post
+permalink: /es/2024-06-22-Reel 2 Real Featuring Mad Stuntman/
 tags:
 - House
 - 90s
-title: Reel 2 Real Featuring Mad Stuntman – Go On Move / I'm The Mad Stuntman
+title: Reel 2 Real con Mad Stuntman - Go On Move / Soy el Mad Stuntman
 ---
 
 
-Reel 2 Real は、1990年代に活躍したアメリカのヒップハウスミュージックプロジェクト。
+Reel 2 Real es un proyecto estadounidense de música hip house activo en la década de 1990.
 
-Mad Stuntman（マッド・スタントマン）をフィーチャーした「Go On Move」は、1993年にStrictly Rhythm（ストリクトリー・リズム）からリリースされ、Mad Stuntmanの独特でエネルギッシュなレゲエスタイルボーカルが評価されヒット曲となった。
+"Go On Move", con Mad Stuntman, fue lanzado por Strictly Rhythm en 1993 y se convirtió en un éxito debido a la voz única y enérgica de estilo reggae de Mad Stuntman.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Mad Side
 A1. Go On Move (Erick "More" Mix)
@@ -29,7 +30,7 @@ B2. I'm The Mad Stuntman (Mad Hip Hop)
 B3. I'm The Mad Stuntman (Funky Buddah Roach Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38805024606?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m38805024606?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tM9sx0ZpAKY?si=fH6QnJVEPQkAQWa7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tM9sx0ZpAKY?si=fH6QnJVEPQkAQWa7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

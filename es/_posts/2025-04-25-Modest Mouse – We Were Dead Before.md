@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Modest Mouse – We Were Dead Before.webp
 lang: es
 layout: post
+permalink: /es/2025-04-25-Modest Mouse – We Were Dead Before/
 tags:
 - Rock
 - Indie Rock
 - 00s
-title: Modest Mouse – We Were Dead Before
+title: 'Ratón modesto: antes estábamos muertos'
 ---
 
 
-Modest Mouse（モデストマウス）は、1992年にワシントン州で結成され、現在はオレゴン州ポートランドを拠点として活動するUSオルタナティブロック&インディーロックバンド。
+Modest Mouse es una banda estadounidense de rock alternativo e indie rock formada en el estado de Washington en 1992 y actualmente con sede en Portland, Oregon.
 
-2007年にEpic からリリースされたこのアルバムは、ビルボードアルバムチャート第1位を獲得したモデストマウスの代表作。
+Este álbum, lanzado por Epic en 2007, es la obra maestra de Modest Mouse y alcanzó el número uno en la lista de álbumes de Billboard.
 
-プロデューサーはThe Hives(ザ・ハイヴス)、Elvis Costello(エルヴィス・コステロ)、Counting Crows(Counting Crows)などを手掛けるDennis Herring。
+El productor es Dennis Herring, quien ha trabajado en bandas como The Hives, Elvis Costello y Counting Crows.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. March Into The Sea
 2. Dashboard
@@ -38,7 +39,7 @@ Modest Mouse（モデストマウス）は、1992年にワシントン州で結�
 14. Invisible
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O4XskfT6vNY?si=5z5qM172pl0q_OrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4XskfT6vNY?si=5z5qM172pl0q_OrU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

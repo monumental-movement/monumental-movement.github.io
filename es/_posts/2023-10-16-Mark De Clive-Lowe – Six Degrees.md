@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Mark De Clive-Lowe – Six Degrees.webp
 lang: es
 layout: post
+permalink: /es/2023-10-16-Mark De Clive-Lowe – Six Degrees/
 tags:
 - House
 - Latin
-title: Mark De Clive-Lowe – Six Degrees
+title: Mark De Clive-Lowe – Seis grados
 ---
 
 
-Mark De Clive-Lowe（マーク・ド・クライヴ・ロウ）は、ニュージーランド出身のジャズキーボーディスト、音楽プロデューサー、作曲家、アーティスト、クラブDJ。
+Mark De Clive-Lowe es un teclista de jazz, productor musical, compositor, artista y DJ de club de Nueva Zelanda.
 
-「Six Degrees」は、Universal Jazzから2000年にリリースされたマーク・ド・クライヴ・ロウ3枚目のアルバム。
+"Six Degrees" es el tercer álbum de Marc de Clive Lowe, lanzado en 2000 por Universal Jazz.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Roundtrip
 A2. La Zorra
@@ -35,7 +36,7 @@ D2. Motherland
 D3. El Dîa Perfecto (Reprise)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

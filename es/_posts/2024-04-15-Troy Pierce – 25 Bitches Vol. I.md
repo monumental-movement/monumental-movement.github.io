@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Troy Pierce – 25 Bitches Vol. I.webp
 lang: es
 layout: post
+permalink: /es/2024-04-15-Troy Pierce – 25 Bitches Vol. I/
 tags:
 - Techno
 - Minimal
-title: Troy Pierce – 25 Bitches Vol. I
+title: Troy Pierce - 25 perras vol. I
 ---
 
 
-Troy Pierce（トロイピアース）は、ベルリンを拠点に活動するアメリカのエレクトロニック・ミュージックDJ・プロデューサー。 
+Troy Pierce es un DJ y productor de música electrónica estadounidense afincado en Berlín.
 
-Troy Pierceは、Gibby Millerとのミニマルテクノ・ハウスプロジェクトLouderbachとしても活躍し、ドイツのレーベルItems & ThingsをMagda、Marc Houleと共に運営している。
+Troy Pierce también está activo como Louderbach, un proyecto de techno house minimalista con Gibby Miller, y dirige el sello alemán Items & Things con Magda y Marc Houle.
 
-「25 Bitches Vol. I」は、Richie Hawtin（リッチー・ホウティン）が設立したM_nusから2006年にリリースされたテクノ・ミニマルトラック。
+"25 Bitches Vol. I" es una pista de techno minimalista lanzada en 2006 por M_nus, que fue fundada por Richie Hawtin.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. 25 Bitches
 
@@ -29,7 +30,7 @@ B1. 25 Bitches (Matt John's 25 Pitches Remix)
 B2. 25 Bitches (Berg Nixon's Zigzag Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30628826020?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30628826020?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VEiKtFVxo?si=YA0-_11PejkdOymq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3VEiKtFVxo?si=YA0-_11PejkdOymq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

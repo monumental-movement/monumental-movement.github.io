@@ -5,156 +5,157 @@ categories:
 image: ../assets/images/column-ambient2.webp
 lang: es
 layout: post
+permalink: /es/2025-09-15-Column-Ambient2/
 tags:
 - Ambient
 - 90s
 - 80s
 - 70s
-title: 【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII
+title: '[Columna] Ambient: De “escuchar música” a “sentir música” II'
 ---
 
 
-## 「聴く音楽」から「感じる音楽」へ II 
+## De “música para escuchar” a “música para sentir” II
 
-文：mmr｜テーマ：Ambient・環境音楽・電子音楽文化論  
+Texto: mmr｜Tema: Ambiente, música ambiental, teoría de la cultura de la música electrónica.
 
-Ambient（アンビエント）とは、リスナーに“積極的に聴かれる”ことを目的とせず、“空間に存在する”ことを意図した音楽ジャンルである。  
-明確なメロディやリズムを排除し、代わりに持続音（ドローン）・環境音（フィールドレコーディング）・音響処理などを用いて、聴覚的な風景を構築する。  
+El ambiente es un género de música que no pretende ser "escuchado activamente" por los oyentes, sino más bien "existir en un espacio".
+Elimina melodías y ritmos claros y, en su lugar, utiliza sonidos sostenidos (drones), sonidos ambientales (grabaciones de campo) y procesamiento acústico para construir paisajes auditivos.
 
-このジャンルは音楽とアート、音響と空間、知覚と意識の境界に立つ、極めて哲学的な音楽である。  
-
----
-
-## ■ 1960年代以前：観念としての環境音楽  
-
-### 社会背景
-第二次世界大戦後、都市化と産業化の加速により、人々の生活環境は「騒音」と「沈黙」の対比を強く意識させるものとなった。芸術家や作曲家は、音楽を“娯楽”ではなく“環境”として捉え直す試みを開始。  
-
-### 代表的潮流
-- [**エリック・サティ**：「家具の音楽」(Musique d’ameublement)](https://amzn.to/42JssfB) により、音楽を積極的に聴くものではなく空間を構成する“機能”と位置付けた。  
-- [**ジョン・ケージ**《4’33”》（1952年）](https://amzn.to/4pOfrLZ)：演奏者が音を出さず、会場に漂う環境音そのものを音楽とするラディカルな実験。  
-- [**具体音楽 (Musique Concrète)**：](https://a.r10.to/hgipOu)ピエール・シェフェールらが録音・編集技術を駆使し、音の再構築を試みた。  
-
-### 機材・技術
-- テープレコーダーによる編集（カットアップ、逆回転、スピード変化）  
-- フィールドレコーディング（都市雑踏、自然音）  
-- 概念先行であり、のちのアンビエントの哲学的基盤となる。  
+Este género es una música extremadamente filosófica que se encuentra en la frontera entre la música y el arte, el sonido y el espacio, la percepción y la conciencia.
 
 ---
 
-## ■ 1970年代：アンビエントの確立  
+## ■ Antes de los años 60: la música ambiental como idea
 
-### 社会背景
-ベトナム戦争後の虚無感、石油危機、70年代的なニューエイジ思想の浸透。商業音楽のポップ化が進む一方で、「静寂」「瞑想」「内面」への志向が高まった。  
+### Antecedentes sociales
+Después de la Segunda Guerra Mundial, con la aceleración de la urbanización y la industrialización, los entornos de vida de las personas se volvieron muy conscientes del contraste entre "ruido" y "silencio". Artistas y compositores comenzaron a intentar repensar la música como un "ambiente" en lugar de un "entretenimiento".
 
-### 代表作
-- [Brian Eno 『Discreet Music』（1975）](https://amzn.to/3VBpgPl)  
-- [Brian Eno 『Ambient 1: Music for Airports』（1978）](https://amzn.to/3IFlmSB)  
-- [Cluster & Eno 『Cluster & Eno』（1977）](https://amzn.to/3KkyRYu)  
+### Tendencias representativas
+- [**Erik Satie**: “Musique d’ameublement”](https://amzn.to/42JssfB) posicionó la música no como algo que debe ser escuchado activamente, sino como una “función” que constituye un espacio.
+- [**John Cage**《4’33”》(1952)](https://amzn.to/4pOfrLZ): Un experimento radical en el que el intérprete no emite ningún sonido y utiliza los sonidos ambientales que flotan en el lugar como música.
+- [**Musique Concrète**:](https://a.r10.to/hgipOu) Pierre Schaeffer y otros intentaron reconstruir el sonido haciendo pleno uso de técnicas de grabación y edición.
 
-### 機材・技術
-- EMS VCS3、ARP 2600などモジュラーシンセ  
-- テープループ・エコーによる持続音生成  
-- プロセッシングと偶然性を重視  
-
-### 特徴
-この時代に「アンビエント」という言葉が定着し、都市の空間芸術としての音楽の役割が確立。空港、病院、公共空間に適応可能な音楽として注目を浴びる。  
+### Equipo/Tecnología
+- Edición con grabadora (corte, rotación inversa, cambio de velocidad)
+- Grabación de campo (multitud de la ciudad, sonidos naturales)
+- Fue un precedente conceptual y luego se convirtió en la base filosófica de la música ambiental.
 
 ---
 
-## ■ 1980年代：電子音楽との融合  
+## ■ Década de 1970: establecimiento de la música ambiental
 
-### 社会背景
-冷戦構造の緊張感と同時に、テクノロジーへの楽観主義が音楽を駆動。家庭用シンセサイザーの普及により、アンビエントは「聴く少数派の音楽」から「日常に寄り添う音楽」へ。  
+### Antecedentes sociales
+La sensación de vacío después de la guerra de Vietnam, la crisis del petróleo y la infiltración de la ideología de la Nueva Era de los años setenta. Si bien la música comercial se ha vuelto más orientada al pop, también ha habido una tendencia creciente hacia el "silencio", la "meditación" y la "interioridad".
 
-### 代表作
-- [Harold Budd & Brian Eno 『The Plateaux of Mirror』（1980）](https://amzn.to/4nmHFvq)  
-- [Tangerine Dream 『Exit』（1981）](https://amzn.to/42HetqK)  
-- [Brian Eno 『Thursday Afternoon』（1985）](https://amzn.to/4nfUyaE)  
+### Obra maestra
+- [Brian Eno “Música discreta” (1975)](https://amzn.to/3VBpgPl)
+- [Brian Eno “Ambient 1: Música para aeropuertos” (1978)](https://amzn.to/3IFlmSB)
+- [Clúster y Eno “Clúster y Eno” (1977)](https://amzn.to/3KkyRYu)
 
-### 機材・技術
-- [Yamaha DX7](https://amzn.to/46EXVRB)（FM音源の澄んだトーン）  
-- [Roland Juno-60](https://a.r10.to/hPUHle)（豊かなパッドサウンド）  
-- Fairlight CMIなど初期サンプラーによる環境音加工  
+### Equipo/Tecnología
+- Sintes modulares como EMS VCS3 y ARP 2600
+- Generación de sonido sostenida mediante eco de bucle de cinta.
+- Énfasis en el procesamiento y el azar.
 
-### 特徴
-ニューエイジ音楽との交差が進み、癒しや瞑想の文脈で商業的にも普及。アンビエントは「美術館音楽」から「日常のリラクゼーション」へ拡大。  
-
----
-
-## ■ 1990年代：クラブカルチャーとの邂逅  
-
-### 社会背景
-冷戦終結後のグローバル化、テクノ／レイヴ文化の爆発。大量消費される四つ打ちの合間に「チルアウト空間」が必要とされた。  
-
-### 代表作
-- [The Orb 『Adventures Beyond the Ultraworld』（1991）](https://amzn.to/4pxxQMK)  
-- [Aphex Twin 『Selected Ambient Works 85-92』（1992）](https://amzn.to/4nTlc9p)  
-- [Biosphere 『Substrata』（1997）](https://amzn.to/4mylwZO)  
-- [Global Communication 『76:14』（1994）](https://amzn.to/4myYa6o)  
-
-### 機材・技術
-- Akai S1000などのサンプラー  
-- [Roland TB-303](https://a.r10.to/h5SLY8)、[TR-808](https://a.r10.to/hRF5ke)のアンビエント的応用  
-- DATテープによるライブ録音  
-
-### 特徴
-アンビエント・ハウス、アンビエント・テクノの勃興。クラブカルチャーの「裏側」を支える音楽として機能。環境音とビートが交差する領域が開拓される。  
+### Características
+Durante este período, la palabra "ambiente" echó raíces y se estableció el papel de la música como arte espacial urbano. Ha llamado la atención como música que se puede adaptar a aeropuertos, hospitales y espacios públicos.
 
 ---
 
-## ■ 2000年代：デジタル時代と映画的広がり  
+## ■ Años 80: Fusión con la música electrónica
 
-### 社会背景
-9.11以降の不安定な世界情勢。都市化のストレスの中で「瞑想」「癒し」といったテーマが求められる。デジタル化が音響表現を飛躍的に拡張。  
+### Antecedentes sociales
+La música está impulsada por la tensión de la estructura de la Guerra Fría y al mismo tiempo por el optimismo hacia la tecnología. Con la proliferación de los sintetizadores domésticos, la música ambiental ha pasado de ser música para una minoría de oyentes a ser música que forma parte de la vida cotidiana.
 
-### 代表作
-- [Fennesz 『Endless Summer』（2001）](https://amzn.to/3VBOsp4)  
-- [William Basinski 『The Disintegration Loops』（2002）](https://amzn.to/42aRJze)  
-- [Stars of the Lid 『And Their Refinement of the Decline』（2007）](https://amzn.to/3IGEMqg)  
+### Obra maestra
+- [Harold Budd y Brian Eno “Las mesetas del espejo” (1980)] (https://amzn.to/4nmHFvq)
+- [Sueño de mandarina “Salida” (1981)](https://amzn.to/42HetqK)
+- [Brian Eno “Thursday Afternoon” (1985)](https://amzn.to/4nfUyaE)
 
-### 機材・技術
-- DAW（[Ableton Live](https://a.r10.to/h5IrNm), [Pro Tools](https://a.r10.to/hPWYEw)）の普及  
-- Max/MSPによるリアルタイム処理  
-- エレキギター＋エフェクトペダルでのドローン  
+### Equipo/Tecnología
+- [Yamaha DX7](https://amzn.to/46EXVRB) (Tono claro de la fuente de sonido FM)
+- [Roland Juno-60](https://a.r10.to/hPUHle) (sonido de pad rico)
+- Procesamiento de sonido ambiental utilizando samplers antiguos como Fairlight CMI
 
-### 特徴
-アート、映画音楽、インスタレーションへの進出。アンビエントは「聴く」から「体験する」領域へ。  
-
----
-
-## ■ 2010年代〜現在：ポスト・アンビエント  
-
-### 社会背景
-ストリーミング文化の定着、Lo-fi HipHopやChill系BGMの爆発的普及。瞑想、ヨガ、マインドフルネスと直結し、アンビエントは「生活の音楽」として再定義される。  
-
-### 代表作
-- [Tim Hecker 『Virgins』](https://amzn.to/4nNKwgP)（2013）  
-- [Oneohtrix Point Never 『Replica』](https://amzn.to/4nnCpI8)（2011）  
-- [Hiroshi Yoshimura 『Green』](https://amzn.to/42J5iWN)（1986 → 再発で国際的再注目）  
-
-### 機材・技術
-- ソフトシンセ（[Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y)）  
-- 高性能フィールドレコーダー（[Zoom](https://amzn.to/46B3TCP), [Tascam](https://amzn.to/3VxbOw3)）  
-- VR/ARとの音響統合  
-
-### 特徴
-YouTubeやTwitchでの「無限ループBGM」文化。アンビエントはリスニング対象を越えて「ネット空間の環境音」として定着。  
+### Características
+Se cruzó con la música new age y se hizo comercialmente popular en el contexto de la curación y la meditación. La música ambiental se ha expandido desde la "música de museo" hasta la "relajación cotidiana".
 
 ---
 
-## 各年代の代表10曲リスト  
+## ■ Década de 1990: Encuentro con la cultura de club
+
+### Antecedentes sociales
+La globalización y la explosión de la cultura techno/rave tras el fin de la Guerra Fría. Se necesitaba un "espacio de relajación" entre los ritmos de cuatro en la pista que consumían masas.
+
+### Obra maestra
+- [El Orbe "Aventuras más allá del Ultramundo" (1991)](https://amzn.to/4pxxQMK)
+- [Aphex Twin “Obras ambientales seleccionadas 85-92” (1992)] (https://amzn.to/4nTlc9p)
+- [Biosfera “Sustratos” (1997)](https://amzn.to/4mylwZO)
+- [Comunicación Global “76:14” (1994)](https://amzn.to/4myYa6o)
+
+### Equipo/Tecnología
+- Sampler como Akai S1000
+- Aplicación ambiental de [Roland TB-303](https://a.r10.to/h5SLY8), [TR-808](https://a.r10.to/hRF5ke)
+- Grabación en vivo con cinta DAT
+
+### Características
+El auge del ambient house y el ambient techno. Funciona como música que apoya el "detrás de escena" de la cultura de club. Se explora el área donde se cruzan los sonidos y ritmos ambientales.
+
+---
+
+## ■ Década de 2000: era digital y expansión cinematográfica
+
+### Antecedentes sociales
+La inestable situación mundial después del 11 de septiembre. En medio del estrés de la urbanización, se buscan temas como la "meditación" y la "curación". La digitalización ha ampliado drásticamente la expresión sonora.
+
+### Obra maestra
+- [Fennesz “Verano sin fin” (2001)](https://amzn.to/3VBOsp4)
+- [William Basinski “Los bucles de desintegración” (2002)](https://amzn.to/42aRJze)
+- [Estrellas de la tapa “Y su refinamiento del declive” (2007)](https://amzn.to/3IGEMqg)
+
+### Equipo/Tecnología
+- Popularización de DAW ([Ableton Live](https://a.r10.to/h5IrNm), [Pro Tools](https://a.r10.to/hPWYEw))
+- Procesamiento en tiempo real con Max/MSP
+- Drone con guitarra eléctrica + pedal de efectos.
+
+### Características
+Incursiones en el arte, la música de cine y la instalación. La música ambiental ha pasado de "escuchar" a "experimentar".
+
+---
+
+## ■ Década de 2010-presente: post-ambiente
+
+### Antecedentes sociales
+La cultura del streaming se ha establecido y el hip hop de baja fidelidad y la música de fondo estilo chill se han vuelto explosivamente populares. Directamente conectado con la meditación, el yoga y la atención plena, el ambiente se redefine como "la música de la vida".
+
+### Obra maestra
+- [Tim Hecker “Vírgenes”](https://amzn.to/4nNKwgP) (2013)
+- [Oneohtrix Point Never “Réplica”](https://amzn.to/4nnCpI8) (2011)
+- [Hiroshi Yoshimura “Green”](https://amzn.to/42J5iWN) (1986 → Reeditado y devuelto la atención internacional)
+
+### Equipo/Tecnología
+- Sintetizador suave ([Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y))
+- Grabador de campo de alto rendimiento ([Zoom](https://amzn.to/46B3TCP), [Tascam](https://amzn.to/3VxbOw3))
+- Integración de audio con VR/AR
+
+### Características
+Cultura de “música de fondo de bucle infinito” en YouTube y Twitch. El ambiente se ha consolidado como el "sonido ambiental del espacio de Internet" más allá del objetivo de escucha.
+
+---
+
+## Lista de 10 canciones representativas de cada generación
 
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
@@ -162,7 +163,7 @@ color: #fff;
 
 <br>
 
-### 1970年代
+### Década de 1970
 
 | アルバム | アーティスト | 年 |
 |------|--------------|----|
@@ -179,7 +180,7 @@ color: #fff;
 
 <br>
 
-### 1980年代
+### Década de 1980
 
 | アルバム | アーティスト | 年 |
 |------|--------------|----|
@@ -196,7 +197,7 @@ color: #fff;
 
 <br>
 
-### 1990年代
+### Década de 1990
 
 | アルバム | アーティスト | 年 |
 |------|--------------|----|
@@ -213,7 +214,7 @@ color: #fff;
 
 <br>
 
-### 2000年代
+### 2000
 
 | アルバム | アーティスト | 年 |
 |------|--------------|----|
@@ -230,7 +231,7 @@ color: #fff;
 
 <br>
 
-### 2010年代〜
+### Década de 2010 ~
 
 | アルバム | アーティスト | 年 |
 |------|--------------|----|
@@ -247,7 +248,7 @@ color: #fff;
 
 ---
 
-## ■ 機材年表：アンビエントを支えたテクノロジー  
+## ■ Cronología del equipo: tecnología que admitía música ambiental
 
 | 年代 | 機材 | 特徴・アンビエントへの影響 |
 |------|------|----------------------------|
@@ -266,87 +267,87 @@ color: #fff;
 
 ---
 
-## ■ 映画・美術館でのアンビエント活用事例  
+## ■ Ejemplos de uso ambiental en películas y museos
 
 <br>
 
-### 映画  
-- **[『2001年宇宙の旅』](https://amzn.to/4mDbiYv)（1968, Stanley Kubrick）**  
-  - リゲティやペンデレツキの無調音楽が、事実上のアンビエント的役割を果たした。  
-- **[『ブレードランナー』](https://amzn.to/46I7grO)（1982, Vangelis）**  
-  - シンセによる持続音と未来都市の音響がアンビエントの原型的な映画音楽に。  
-- **[『ソラリス』](https://amzn.to/46z8KV6)（1972, Tarkovsky / 音楽: Eduard Artemyev）**  
-  - 電子音響による宇宙的アンビエンス。静寂の心理効果を最大化。  
-- **[『ロスト・イン・トランスレーション』（](https://amzn.to/3Iurayo)2003, Sofia Coppola / 音楽: Kevin Shields, Air）**  
-  - 都市の孤独をアンビエント的サウンドで包み込む。  
+### película
+- **[“2001: Una odisea en el espacio”](https://amzn.to/4mDbiYv) (1968, Stanley Kubrick)**
+- La música atonal de Ligeti y Penderecki jugó un papel ambiental de facto.
+- **[“Blade Runner”](https://amzn.to/46I7grO) (1982, Vangelis)**
+- Los sonidos de sintetizador sostenidos y los sonidos urbanos futuristas se convierten en la música ambiental arquetípica de las películas.
+- **["Solaris"](https://amzn.to/46z8KV6) (1972, Tarkovsky / Música: Eduard Artemyev)**
+- Ambiente cósmico electroacústico. Maximizar el efecto psicológico del silencio.
+- **[“Lost in Translation” (](https://amzn.to/3Iurayo)2003, Sofia Coppola / Música: Kevin Shields, Air)**
+- Rodear la soledad de la ciudad con sonidos ambientales.
 
-### 美術館・インスタレーション  
-- **Brian Eno “77 Million Paintings”**（2006〜）  
-  - 映像と音響を融合させたジェネラティブ・インスタレーション。  
-- **Ryoji Ikeda “datamatics”**（2006〜）  
-  - データを音と映像に変換。ミニマルかつアンビエント的な没入空間を創出。  
-- **坂本龍一 “async – Installation”**（2017, ワタリウム美術館ほか）  
-  - 環境音と電子音を交差させた、死生観と記憶のアンビエント芸術。  
-- **Olafur Eliasson “The Weather Project”**（2003, テート・モダン）  
-  - 視覚と音響の統合体験として、アンビエント的没入空間を提示。  
-
----
-
-## アンビエントと建築・都市計画  
-
-アンビエントは「音響的建築」としての側面を持つ。  
-- **空港（EnoのMusic for Airports）**：建築空間と音の共鳴。  
-- **都市のサウンドスケープ研究（R. Murray Schafer）**：環境音が都市体験を規定。  
-- **現代建築**では、BGMを超えた「音響デザイン」として導入され、都市の心理的快適さに寄与。  
+### Museo/Instalación
+- **Brian Eno “77 millones de pinturas”** (2006~)
+- Una instalación generativa que combina vídeo y sonido.
+- **Ryoji Ikeda “datamática”** (2006~)
+- Convertir datos a audio y vídeo. Crea un espacio minimalista y ambiental inmersivo.
+- **Ryuichi Sakamoto “async – Instalación”** (2017, Museo de Arte Watari, etc.)
+- Arte ambiental que explora la visión de la vida, la muerte y la memoria, combinando sonidos ambientales y sonidos electrónicos.
+- **Olafur Eliasson “El proyecto meteorológico”** (2003, Tate Modern)
+- Presenta un espacio ambiental inmersivo como una experiencia visual y de audio integrada.
 
 ---
 
-## アンビエントと療法（サウンドセラピー）  
+## Ambiente y arquitectura/urbanismo
 
-- 医療現場での使用（手術前後のリラクゼーション、集中力向上）。  
-- 瞑想やヨガでの必須音楽。  
-- 自然音や低周波を用いた「バイノーラルビート」はストレス軽減効果を持つと研究報告。  
-- 精神療法、音楽療法と融合し、アンビエントは「治療のための音楽」として確立。  
+El ambiente tiene el aspecto de "arquitectura acústica".
+- **Aeropuertos (Música para Aeropuertos de Eno)**: Resonancia del espacio arquitectónico y del sonido.
+- **Urban Soundscape Studies (R. Murray Schafer)**: Los sonidos ambientales definen la experiencia urbana.
+- En la **arquitectura moderna**, se ha introducido como un "diseño acústico" que va más allá de la música de fondo, contribuyendo al confort psicológico de las ciudades.
+
+---
+
+## Ambiente y terapia (terapia de sonido)
+
+- Uso en entornos médicos (relajación antes y después de la cirugía, mejora de la concentración).
+- Música esencial para la meditación y el yoga.
+- Las investigaciones informan que los "ritmos binaurales" que utilizan sonidos naturales y bajas frecuencias tienen un efecto reductor del estrés.
+- Al fusionarse con la psicoterapia y la musicoterapia, la música ambiental se ha consolidado como "música terapéutica".
 
 ---
 
 
-## 日本のアンビエント作家特集  
+## Artículo especial sobre artistas ambientales japoneses.
 
-**吉村弘 (Hiroshi Yoshimura)**
+**Hiroshi Yoshimura**
 
-- 代表作[『Music for Nine Post Cards』](https://amzn.to/429uNQV)（1982）、[『Green』](https://amzn.to/4nN36pp)（1986）  
-- シンプルな旋律と透き通るサウンドで、近年海外再評価が進む。  
+- Obras representativas ["Music for Nine Post Cards"](https://amzn.to/429uNQV) (1982), ["Green"](https://amzn.to/4nN36pp) (1986)
+- Con su melodía sencilla y su sonido claro, ha sido reevaluado en el extranjero en los últimos años.
 
-**高橋悠治 (Yuji Takahashi)**
+**Yuji Takahashi**
 
-- ジョン・ケージら前衛作曲家と交流し、日本に実験音楽を根付かせた。  
+- Interactuó con compositores de vanguardia como John Cage y ayudó a establecer la música experimental en Japón.
 
-**坂本龍一 (Ryuichi Sakamoto)**
+**Ryuichi Sakamoto**
 
-- [『async』](https://amzn.to/4pGHDAe)（2017）で環境音と音響芸術を融合。アンビエント的要素をキャリア全体で展開。  
+- ['async'](https://amzn.to/4pGHDAe) (2017) combina sonidos ambientales y arte acústico. Se han desplegado elementos ambientales a lo largo de su carrera.
 
-**川井憲次 (Kenji Kawai)**
+**Kenji Kawai**
 
-- [『攻殻機動隊』](https://amzn.to/3VwvujB)などアニメ音楽でアンビエント的空間を表現。  
+- Expresar un espacio ambiental con música anime como [``Ghost in the Shell''] (https://amzn.to/3VwvujB).
 
-**その他**
+**otros**
 
-- 芳垣安洋、ACO、CHIhei Hatakeyama など。  
-- 日本特有の「間（ま）」や「侘び寂び」が、海外のアンビエントと異なる質感を形成。  
-
----
-
-## 結語
-
-アンビエントは **音楽の領域を越えた“空間芸術”**であり、建築、都市、心理療法、テクノロジーと結びつきながら進化してきました。  
-それは単なるジャンルではなく、「人間が環境と共に生きるためのサウンドデザイン」である。  
-
-未来においては、メタバースや都市設計において、アンビエントはさらに「環境のインフラ」として不可欠な存在になるだろう。  
-
+- Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
+- Los "ma" y "wabi-sabi" únicos de Japón forman una textura diferente a la de la música ambiental extranjera.
 
 ---
 
-### 関連コラム
+## Conclusión
 
-🔗  [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+El ambiente es un "arte espacial" que va más allá del ámbito de la música y ha evolucionado a través de conexiones con la arquitectura, las ciudades, la psicoterapia y la tecnología.
+No es sólo un género, es "un diseño sonoro para que el ser humano viva en armonía con el medio ambiente".
+
+En el futuro, el ambiente será aún más esencial como "infraestructura ambiental" en el metaverso y el diseño urbano.
+
+
+---
+
+### Columnas relacionadas
+
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)

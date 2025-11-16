@@ -5,34 +5,35 @@ categories:
 image: ../assets/images/James Brown - Hustle(Dead On It).webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-James Brown - Hustle(Dead On It)/
 tags:
 - Soul
 - Funk
 - 7inch
-title: James Brown - Hustle!!! (Dead On It)
+title: James Brown - ¡¡¡Apresúrate!!! (Muerto en ello)
 ---
 
 
-「Hustle!!! (Dead On It)」は、ジェームス・ブラウンのアルバム「Dead On The Heavy Funk 1975-1983」に収録されている曲です。
+"¡¡¡Hustle!!! (Dead On It)" es una canción del álbum de James Brown "Dead On The Heavy Funk 1975-1983".
 
-1975年にリリースされたこの曲は、ジェームス・ブラウン独自のエネルギッシュでファンキーなサウンドで知られています。
+Lanzada en 1975, esta canción es conocida por el sonido enérgico y funky único de James Brown.
 
-このアルバム全体を通して、ブラウンはファンク、ソウル、R&Bなどさまざまなジャンルを融合させる才能を披露しています。
+A lo largo del álbum, Brown muestra su talento para fusionar diferentes géneros, incluidos el funk, el soul y el R&B.
 
-「Hustle!!! (Dead On It)」の歌詞は、努力、忍耐、成功へのハッスルといったテーマを取り上げています。
+La letra de "Hustle!!! (Dead On It)" explora temas de trabajo duro, perseverancia y búsqueda del éxito.
 
-ジェームス・ブラウン特有のアップテンポでダイナミックな楽曲と演奏は、全体的なポジティブな雰囲気を醸し出しています。
+Las canciones y actuaciones dinámicas y de ritmo característico de James Brown crean una atmósfera general positiva.
 
-この曲は、その音楽性だけでなく、モチベーションを高めるメッセージでも知られ、ファンの中でファンクやソウルの音楽愛好者にとってお気に入りとなっています。
+La canción es conocida no solo por su musicalidad sino también por su mensaje motivador, lo que la convierte en una de las favoritas entre los amantes de la música funk y soul entre sus fans.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Hustle!!! (Dead On It)
 
 B. Dead On It Part II
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Tommy Brown – Feelings.webp
 lang: es
 layout: post
+permalink: /es/2023-10-29-Tommy Brown – Feelings/
 tags:
 - Downtempo
 - Italo
-title: Tommy Brown – Feelings
+title: Tommy Brown – Sentimientos
 ---
 
 
-1993年にレーベル「Disc-O-Very Records」からリリースされたTommy BrownのEPです。
+Este es el EP de Tommy Brown lanzado en 1993 por el sello "Disc-O-Very Records".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Feelings (Mix Edit)
 
@@ -23,7 +24,7 @@ B1. Feelings (Radio Edit)
 B2. Carillon
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69743649538?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q3m_c59ddTE?si=UIL3E_2dltliUTGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3m_c59ddTE?si=UIL3E_2dltliUTGU" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

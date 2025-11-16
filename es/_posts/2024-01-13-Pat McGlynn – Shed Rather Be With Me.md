@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Pat McGlynn – She'd Rather Be With Me.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Pat McGlynn – Shed Rather Be With Me/
 tags:
 - Nostalgic
 - 7inch
 - Rock
-title: Pat McGlynn – She'd Rather Be With Me
+title: Pat McGlynn – Ella preferiría estar conmigo
 ---
 
 
-スコットランド出身のパット・マッグリンは、1976年後半にBay City Rollers（ベイ シティ ローラーズ）のギタリストとして活動したのち、自身のバンドPat McGlynn's Scotties（パット・マクグリンズ・スコッティズ）を結成。
+Originario de Escocia, Pat McGlynn trabajó como guitarrista para los Bay City Rollers a finales de 1976 antes de formar su propia banda, Pat McGlynn's Scotties.
 
-「She'd Rather Be With Me（あの娘はアイドル）」は、1977年にLondon Recordsよりリリースされた。プロデューサーはNick Raymonde。 
+"She'd Rather Be With Me" fue lanzado por London Records en 1977. El productor es Nick Raymonde.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. She'd Rather Be With Me (あの娘はアイドル)
 
 B. Street Walkin' Girl (テクニカラーの女の子)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46039365171?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A1eEvI-Y6p0?si=t7IUWVojD9-kb25Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1eEvI-Y6p0?si=t7IUWVojD9-kb25Z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

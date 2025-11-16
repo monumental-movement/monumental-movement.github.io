@@ -5,15 +5,16 @@ categories:
 image: ../assets/images/Money Bazz Cozmic Ray – New York, New York Danger.webp
 lang: es
 layout: post
+permalink: /es/2023-11-01-Money Bazz Cozmic Ray – New York, New York Danger/
 tags:
 - Hiphop
-title: Money Bazz Cozmic Ray – New York, New York Danger
+title: Money Bazz Cozmic Ray – Nueva York, Peligro de Nueva York
 ---
 
 
-1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。
+Este es un EP de Money Bazz y Cozmic Ray lanzado en 1998 con el sello "Psycho V Records".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Money Bazz–New York, New York
 
@@ -28,7 +29,7 @@ B2. Cozmic Ray–Danger (Instrumental)
 B3. Cozmic Ray–Danger (Accapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18868269557?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18868269557?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htETEO_4MlI?si=AGvlJ0UYsGVr_C0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htETEO_4MlI?si=AGvlJ0UYsGVr_C0i" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

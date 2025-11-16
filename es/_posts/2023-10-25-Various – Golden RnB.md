@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Golden RnB.webp
 lang: es
 layout: post
+permalink: /es/2023-10-25-Various – Golden RnB/
 tags:
 - Soul
 - RnB
 - 7inch
-title: Various – Golden R&B
+title: Varios – R&B dorado
 ---
 
 
-「Various – Golden R&B」は、モータウン（Tamla Motown）のゴールデンコンパクトシリーズの一つとしてリリースされました。
+“Various – Golden R&B” fue lanzado como parte de la serie Golden Compact de Tamla Motown.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Temptations –My Girl
 
@@ -38,5 +39,5 @@ B3. Martha Reeves & The Vandellas –Dancing In The Street
 マルサリーヴス& ヴァンデラス –  ダンシング イン ザ ストリート
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50700944227?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m50700944227?afid=6142608987){: .button1}
 

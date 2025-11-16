@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/David Bowie – 1. Outside.webp
 lang: es
 layout: post
+permalink: /es/2024-12-17-David Bowie – 1. Outside/
 tags:
 - Leftfield
 - Abstract
 - Drum n Bass
 - 90s
-title: David Bowie – 1. Outside
+title: David Bowie – 1. Afuera
 ---
 
 
-プロデューサーにBrian Enoをむかえ、1995年にリリースされたDavid Bowieの18枚目のアルバム。20曲目は初回盤＋日本盤限定のボーナストラック。
+El decimoctavo álbum de David Bowie fue lanzado en 1995 con el productor Brian Eno. La canción número 20 es un bonus track exclusivo de la primera edición + edición japonesa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Leon Takes Us Outside
 2. Outside
@@ -40,7 +41,7 @@ title: David Bowie – 1. Outside
 20. Get Real
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

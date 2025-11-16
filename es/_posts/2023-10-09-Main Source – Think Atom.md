@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Main Source – Think Atom.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Main Source – Think Atom/
 tags:
 - Hiphop
 - Rare
-title: Main Source – Think Atom
+title: 'Fuente principal: Think Atom'
 ---
 
 
-Main Sourceは、アメリカとカナダの合同ヒップホップグループで、もともとはトロント、カナダ出身のDJ/プロデューサーの兄弟、ケビン・マッケンジー（別名K-Cut）とショーン・マッケンジー（別名Sir Scratch）、そしてクイーンズ出身のラッパー/プロデューサー、ウィリアム・ポール・ミッチェル（別名Large Professor）から成っていました。
+Main Source es un grupo de hip-hop conjunto estadounidense-canadiense formado originalmente por los hermanos DJ y productores Kevin McKenzie (también conocido como K-Cut) y Sean McKenzie (también conocido como Sir Scratch) de Toronto, Canadá, y el rapero y productor William Paul Mitchell (también conocido como Large Professor) de Queens.
 
-後にLarge Professorが脱退し、別のMCであるマイケル・デアリング（別名MC Mikey D）に交代しました。
+Large Professor se fue más tarde y fue reemplazado por otro MC, Michael Dearing (también conocido como MC Mikey D).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Think
 
@@ -27,7 +28,7 @@ B1. Atom
 B2. Atom (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m60450715366?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m60450715366?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bowQEDZYb_g?si=SBXkmSpD6Wq-A26A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bowQEDZYb_g?si=SBXkmSpD6Wq-A26A" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

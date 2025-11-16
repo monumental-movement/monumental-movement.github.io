@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Bad Religion – The New America.webp
 lang: es
 layout: post
+permalink: /es/2024-06-15-Bad Religion – The New America/
 tags:
 - Punk
 - Rock
 - US Punk
 - 00s
-title: Bad Religion – The New America
+title: 'Mala religión: la nueva América'
 ---
 
 
-Bad Religion（バッドレリジョン）は、ロサンゼルスで結成されたパンクロックバンドで、メロディック・ハードコアのスタイルを生み出したグループの一つとして知られる現代パンク・ロックの重鎮。
+Bad Religion es una banda de punk rock formada en Los Ángeles, y es una figura destacada del punk rock moderno, conocido como uno de los grupos que crearon el estilo hardcore melódico.
 
-2000年にリリースされた「The New America」は、11枚目のスタジオアルバムで、14、15曲目は日本盤ボーナストラック。
+"The New America", lanzado en 2000, es su undécimo álbum de estudio, y las pistas 14 y 15 son pistas extra de la versión japonesa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. You've Got A Chance
 2. It's A Long Way To The Promise Land
@@ -37,7 +38,7 @@ Bad Religion（バッドレリジョン）は、ロサンゼルスで結成さ�
 15. Queen Of The 21st Century
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

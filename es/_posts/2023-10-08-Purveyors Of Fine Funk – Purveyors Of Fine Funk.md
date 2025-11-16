@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Purveyors Of Fine Funk – Purveyors Of Fine Funk.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Purveyors Of Fine Funk – Purveyors Of Fine Funk/
 tags:
 - Techno
 - House
-title: Purveyors Of Fine Funk – Purveyors Of Fine Funk
+title: Proveedores de buen funk – Proveedores de buen funk
 ---
 
 
-Purveyors Of Fine Funkは、ファンクミュージックの要素を取り入れた楽曲を制作するグループであり、その名の通り、彼らは質の高いファンクを提供しています。
+Purveyors Of Fine Funk es un grupo que crea canciones que incorporan elementos de la música funk y, como sugiere el nombre, ofrecen funk de alta calidad.
 
-ファンキーなリズム、スラップベース、ブラスセクションなどの要素が特徴です。曲は、踊りやすいグルーヴやキャッチーなメロディがあり、聴く人々をリズムに乗せて楽しませます。
+Presenta elementos como ritmos funky, slap bass y una sección de metales. Las canciones tienen ritmos bailables y melodías pegadizas que entretienen a los oyentes mientras siguen el ritmo.
 
-ファンクミュージックの伝統と現代的な要素を融合させた作品として評価されています。彼らは、ファンクのルーツを尊重しつつも、独自のアーティスティックなアプローチで新たな魅力を生み出しています。
+Este trabajo ha sido elogiado por su fusión de la tradición de la música funk y elementos modernos. Si bien respetan las raíces del funk, crean un nuevo atractivo con su enfoque artístico único.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Suspended
 
@@ -39,7 +40,7 @@ D2. Telepathos Communicator
 D3. The After Midnight Call
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

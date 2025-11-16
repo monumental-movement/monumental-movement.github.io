@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Tepr – En Direct De La Cote.webp
 lang: es
 layout: post
+permalink: /es/2025-06-26-Tepr – En Direct De La Cote/
 tags:
 - House
 - Electro
@@ -13,16 +14,16 @@ title: Tepr – En Direct De La Côte
 ---
 
 
-Tepr(テプル)ことTanguy Destable(タンギー・デスタブル)は、フランス出身のミュージシャン、作曲家、芸術監督。
+Tanguy Destable, también conocido como Tepr, es un músico, compositor y director artístico francés.
 
-「En Direct De La Côte」は、2007年にイギリスのレーベルWall Of Sound(WOS)からリリースされたHouse & Electroトラック。
+"En Direct De La Côte" es un tema de House & Electro lanzado por el sello británico Wall Of Sound (WOS) en 2007.
 
-A2は、レーベルRoxourの主宰であり、Funk & Electronic専門のDJ・プロデューサーAlaviことPatrick Alavi(パトリック・アラヴィ)によるremix。
+A2 es un remix de Patrick Alavi, también conocido como Alavi, que dirige el sello Roxour y es DJ y productor especializado en Funk & Electronics.
 
-B1、B2の共同プロデューサーはGrand Marnier。
-B2は、フレンチプロデューサーdatAことDavid Guillonによるremix。
+El coproductor de B1 y B2 es Grand Marnier.
+B2 es un remix del productor francés datA, también conocido como David Guillon.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. En Direct De La Côte
 A2. En Direct De La Côte (Alavi Rerox)
@@ -31,7 +32,7 @@ B1. Minuit Jacuzzi
 B2. Minuit Jacuzzi (DatA Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1XNjd_HN0?si=OPNrSM6gN0ZoTUNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1XNjd_HN0?si=OPNrSM6gN0ZoTUNc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

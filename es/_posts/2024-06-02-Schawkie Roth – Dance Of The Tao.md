@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Schawkie Roth – Dance Of The Tao.webp
 lang: es
 layout: post
+permalink: /es/2024-06-02-Schawkie Roth – Dance Of The Tao/
 tags:
 - New Age
 - Healing
 - Free Jazz
 - 70s
-title: Schawkie Roth – Dance Of The Tao
+title: Schawkie Roth - Danza del Tao
 ---
 
 
-ニューエイジ・スピリチュアル音楽の先駆者の一人とみなされているSchawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家。
+Considerado uno de los pioneros de la música espiritual New Age, Schawkie Roth es un compositor especializado en sanación, meditación, música de relajación y jazz acústico.
 
-「Dance Of The Tao（ダンス・オブ・ザ・タオ）」は、1978年にリリースされたニューエイジアルバム。
+"Dance Of The Tao" es un álbum new age lanzado en 1978.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Heaven On Earth (excerpt)
 A2. Waves Follows Wave
@@ -29,7 +30,7 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

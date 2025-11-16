@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Moloko – Sing It Back.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-Moloko – Sing It Back/
 tags:
 - House
 - Garage House
-title: Moloko – Sing It Back
+title: Moloko - Cántalo de nuevo
 ---
 
 
-「Sing It Back」は、アイルランドとイギリスの電子音楽デュオ、Moloko（Róisín MurphyとMark Brydon）によって書かれた曲です。
+"Sing It Back" es una canción escrita por el dúo de música electrónica irlandés-británico Moloko (Róisín Murphy y Mark Brydon).
 
-この曲は最初に彼らの2枚目のアルバム「I Am Not a Doctor」（1998年）のオリジナルバージョンで登場し、1999年3月8日にシングルとしてリリースされ、イギリスのシングルチャートで45位にランクインしました。この曲は、DJ Boris Dlugoschによってリミックスされた後、1999年9月にイギリスで4位を記録し、チャートで成功を収めました。
+La canción apareció por primera vez en su versión original en su segundo álbum, "I Am Not a Doctor" (1998), y fue lanzada como sencillo el 8 de marzo de 1999, alcanzando el puesto 45 en la lista de sencillos del Reino Unido. La canción alcanzó el éxito en las listas, alcanzando el número 4 en el Reino Unido en septiembre de 1999 después de ser remezclada por DJ Boris Dlugosch.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Sing It Back (Boris Musical Mix)
 
@@ -35,7 +36,7 @@ D1. Sing It Back (Chez Maurice Mix)
 D2. Sing It Back (Herbert's Tasteful Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0XLGwTy-DDY?si=vb8Cs3jpszpG5U9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0XLGwTy-DDY?si=vb8Cs3jpszpG5U9T" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

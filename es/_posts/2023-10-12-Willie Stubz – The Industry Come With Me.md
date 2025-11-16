@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Willie Stubz – The Industry Come With Me.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Willie Stubz – The Industry Come With Me/
 tags:
 - Hiphop
 - Gangsta
-title: Willie Stubz – The Industry Come With Me
+title: Willie Stubz – La industria ven conmigo
 ---
 
 
-「Willie Stubz – The Industry Come With Me」の
-A面１、２曲目はMusalinyとN.O.R.E.をフィーチャリング。プロデューサーは全曲SPK（SPKilla）。アルバム「The Industry」のためにHydra Entertainment からリリースされたpromo盤。
+“Willie Stubz – La industria ven conmigo”
+Los lados A 1 y 2 presentan a Musaliny y N.O.R.E. El productor de todas las canciones es SPK (SPKilla). Una versión promocional lanzada por Hydra Entertainment para el álbum "The Industry".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Industry (Clean)
 
@@ -30,7 +31,7 @@ B2. Come With Me (Dirty)
 B3. Come With Me (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m69076614496?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m69076614496?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P-7DpuvTU2I?si=_s1JjFd6w5eZyHTx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-7DpuvTU2I?si=_s1JjFd6w5eZyHTx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

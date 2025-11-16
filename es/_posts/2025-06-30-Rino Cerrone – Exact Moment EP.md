@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Rino Cerrone – Exact Moment EP.webp
 lang: es
 layout: post
+permalink: /es/2025-06-30-Rino Cerrone – Exact Moment EP/
 tags:
 - Techno
 - Tech House
 - 00s
-title: Rino Cerrone – Exact Moment EP
+title: Rino Cerrone – Momento exacto EP
 ---
 
 
-Rino Cerroneは、1990年からナポリを拠点に活動したイタリアのテクノ/テックハウスDJ・プロデューサー。(2024年没)
+Rino Cerrone es un DJ y productor italiano de techno/tech house afincado en Nápoles desde 1990. (Muerte en 2024)
 
-「Exact Moment EP」は、2002年にスイス・ベルンのレーベルPhont MusicからリリースされたTechno ・ Tech Houseトラック。
-A2 & B1 の最後はlocked groove(ロックド・グルーヴ)になっている。
+"Exact Moment EP" es una pista de Techno/Tech House lanzada en 2002 por el sello bernés Phont Music.
+El final de A2 y B1 es un surco bloqueado.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Samba Diversion
 A2. Touch The Source
@@ -27,9 +28,9 @@ B1. Pushing Properly
 B2. Talkabout!
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32845972145?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32845972145?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L-xw4Vr53yA?si=QRbGPLYX6elx-upW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L-xw4Vr53yA?si=QRbGPLYX6elx-upW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hzpZYjs61VI?si=69n8CQn2HZ_JRBbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hzpZYjs61VI?si=69n8CQn2HZ_JRBbF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/ABC – Zillionaire (Bond St. Mix).webp
 lang: es
 layout: post
+permalink: /es/2023-10-01-ABC – Zillionaire (Bond St. Mix)/
 tags:
 - Pops
 - Synth-Pop
-title: ABC – Zillionaire (Bond St. Mix)
+title: ABC - Multimillonario (Bond St. Mix)
 ---
 
 
-ABCは、1980年にイギリスのシェフィールドで結成されたポップバンドで、1980年代の「The Look of Love」や「When Smokey Sings」などの曲で最も知られています。1997年以降、ABCはシンガーで創設者のマーティン・フライによるソロプロジェクトとなり、さまざまなミュージシャンと共同制作を行っています。
+ABC es una banda de pop formada en Sheffield, Inglaterra en 1980, mejor conocida por sus canciones de los años 80 como "The Look of Love" y "When Smokey Sings". Desde 1997, ABC ha sido un proyecto en solitario del cantante y fundador Martin Fry, en colaboración con varios músicos.
 
-フライはポップ志向の方向に進むようにプロデューサーとしてトレバー・ホーンを起用し、グループをABCと改名しました。
+Frye contrató a Trevor Horn como productor para avanzar en una dirección más orientada al pop y cambió el nombre del grupo a ABC.
 
-ABCは1981年11月に最初のシングル「Tears Are Not Enough」をリリースし、英国のチャートで19位にランクインしました。
+ABC lanzó su primer sencillo, "Tears Are Not Enough", en noviembre de 1981, alcanzando el puesto 19 en las listas del Reino Unido.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. How To Be A Zillionaire (Bond St. Mix)
 
@@ -27,7 +28,7 @@ B1. How To Be A Millionaire $ $ $ $ $ $ $
 B2. How To Be A Millionaire Accapella
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16492565227?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m16492565227?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/--tfwKxlZXk?si=aXbGm9B7Lv3NH7CT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--tfwKxlZXk?si=aXbGm9B7Lv3NH7CT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

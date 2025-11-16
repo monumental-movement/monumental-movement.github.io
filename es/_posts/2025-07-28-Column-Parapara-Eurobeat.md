@@ -5,136 +5,137 @@ categories:
 image: ../assets/images/column-parapara-eurobeat.webp
 lang: es
 layout: post
+permalink: /es/2025-07-28-Column-Parapara-Eurobeat/
 tags:
 - Euro
 - Eurobeat
 - 80s
 - 90s
-title: 【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？
+title: '[Columna] Eurobeat y Japón: ¿Por qué están tan estrechamente conectados?'
 ---
 
 
-## 奇跡の邂逅「ユーロビート × パラパラ」
+##Encuentro Milagroso “Eurobeat x Parapara”
 
-文：mmr｜テーマ：ダンスと音楽のシンクロニシティ
+Texto: mmr｜Tema: Sincronicidad de la danza y la música.
 
-1990年代の日本、ギャル文化の中心にあったのは“パラパラ”という手振りダンスだった。そのパラパラと**一心同体のように広まった音楽ジャンルが「ユーロビート」**である。
+En el corazón de la cultura gyaru en Japón en la década de 1990 había una danza que agitaba las manos llamada "parapara". El género musical que se ha extendido como uno solo es el "Eurobeat".
 
-ヨーロッパで生まれ、アジアで独自の進化を遂げたユーロビートが、なぜ日本でパラパラというスタイルと深く結びついたのか？
-そこには音楽的特徴だけでなく、クラブ文化、メディア戦略、消費者心理といった多面的な要因が交錯していた。
+¿Por qué el Eurobeat, que nació en Europa y evolucionó a su manera en Asia, quedó profundamente conectado con el estilo Parapara en Japón?
+Hubo una mezcla de factores como no sólo las características musicales sino también la cultura del club, la estrategia de medios y la psicología del consumidor.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<hr>
-
-### ユーロビートとは何か？──Italo Discoの進化形
-ユーロビートは、1980年代にイタリアで生まれた「Italo Disco」がルーツ。そこにハイエナジー（Hi-NRG）の要素が加わり、テンポが速く、シンセ主導のキャッチーなサウンドへと変化。
-
-● 主な音楽的特徴
-
-- **BPM**：140〜160と非常に速い
-
-- **構造**：明快なサビ、リフレインの多用
-
-- **リズム**：4つ打ちのドラム＋ハンドクラップ
-
-- **メロディ**：明るくドラマティック、かつ哀愁あり
-
-この構造が、同じパターンを繰り返すパラパラダンスに非常にマッチしていた。
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hr>
 
-### パラパラとは何か？──均一な反復の快楽
-● パラパラの起源
+### ¿Qué es Eurobeat? ─ Evolución de Italo Disco
+El eurobeat tiene sus raíces en el "Italo Disco", que nació en Italia en los años 1980. Al agregar elementos de alta energía (Hi-NRG), el tempo cambia a un sonido pegadizo impulsado por un sintetizador.
 
-- 1980年代末、東京・六本木や渋谷のディスコ（マハラジャ、ジュリアナ東京など）で発生
+● Principales características musicales
 
-- 上下左右の手の振りを細かくそろえた集団ダンス
+- **BPM**: 140-160 y muy rápido
 
-- **動きは個人より「統一性」を重視**：ソーシャル・ダンスよりも“チーム”に近い
+- **Estructura**: Estribillo claro, uso frecuente de estribillos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- **Ritmo**: tambor 4/4 + palmada
+
+- **Melodía**: Brillante, dramática y melancólica.
+
+Esta estructura combinaba perfectamente con la danza parapara, que repite el mismo patrón.
+
+
+<hr>
+
+### ¿Qué es Parapara? ──Placer de la repetición uniforme
+● Origen de Parapara
+
+- Ocurrió a finales de los años 1980 en discotecas de Roppongi y Shibuya, Tokio (Maharaja, Juliana Tokyo, etc.)
+
+- Baile en grupo con movimientos de manos finamente alineados hacia arriba, abajo, izquierda y derecha.
+
+- **El movimiento enfatiza la "unidad" más que la individualidad**: más cerca del "equipo" que del baile social
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-● なぜユーロと合ったのか？
+● ¿Por qué coincidió con el euro?
 
-- 高速テンポ → 手振りとリズムがシンクロしやすい
+- Tempo rápido → Fácil de sincronizar los gestos con las manos y el ritmo.
 
-- 明確なAメロ・サビ構成 → ダンスの“振り付け”が作りやすい
+- Borrar una estructura de melodía/coro → Fácil de crear “coreografía” de baile
 
-- ドラマティックな曲展開 → 振りの盛り上げ所と合致
-
-
-<hr>
-
-### avexの戦略：ユーロビート＝日本専用フォーマットへ
-
-● 「SUPER EUROBEAT」シリーズの誕生（1990年〜）
-
-- イタリア制作、日本市場専用のコンピレーションシリーズ
-
-- パラパラフロアとCDショップを結ぶ“連動商品”
-
-ジ- ャケットやブックレットに振り付け解説が掲載されるようになる
-
-● ユーロビート専用レーベルと契約
-
-Time、A-Beat C、Deltaなど、イタリアのレーベルがavexと専属契約し、日本市場向けに特化した楽曲制作を行う。
-
-このようにして、日本独自の「ユーロビート市場」が形成され、パラパラと一体化していった。
+- Desarrollo dramático de la canción → coincide con el clímax del swing
 
 
 <hr>
 
-### ギャル文化とカリスマ：消費されるダンス
-● 「パラパラ＝ギャル文化の象徴」へ
+### La estrategia de Avex: Eurobeat = formato exclusivo para Japón
 
-- 渋谷109系のファッションと密接に連動
+● Nacimiento de la serie “SUPER EUROBEAT” (1990-)
 
-- 振り付けビデオ（VHS、のちDVD）の流通
+- Serie recopilatoria producida en Italia, exclusivamente para el mercado japonés.
 
-- 『パラパラパラダイス』『パラパラ教典』などのシリーズも登場
+- "Productos vinculados" que conectan ParaPara Floor y las tiendas de CD
 
-● メディアの演出
+- Las explicaciones de las coreografías se publicarán en sobrecubiertas y folletos.
 
-- テレビ番組や雑誌で“ギャルカリスマ”が振り付けを紹介
+● Firmado con un sello exclusivo de Eurobeat.
 
-- 実質的に、ユーロビートがティーンのトレンドとしてメインストリームに
+Sellos italianos como Time, A-Beat C y Delta han firmado contratos exclusivos con avex para producir música específicamente para el mercado japonés.
 
-- 「振り覚えること＝参加の儀式」となり、同調圧力と一体感の文化を形成
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<hr>
-
-###  パラパラの再興とネット文化
-● 2000年代中盤以降：ブームの終焉と地下化
-
-- ギャル文化の変化、携帯・ネットへの移行
-
-- 一部クラブでは「リバイバル・イベント」が継続
-
-● YouTube世代の“振り起こし”
-
-- 過去の振り付け動画や曲がネットで共有されることで第2次パラパラブームが局地的に発生
-
-- 海外ファンが再発見、逆輸入的に評価される現象も
+De esta manera, se formó y gradualmente se integró el "mercado Eurobeat", único en Japón.
 
 
 <hr>
 
-### ユーロとパラパラは共犯関係だった
-ユーロビートとパラパラは、単なる音楽とダンスの組み合わせではない。
-**「反復性」「明確な構造」「集団性」「ドラマティックな演出」**など、共通する文化的コードによって強く結びついていた。
+### Cultura y carisma gyaru: danza consumida
+● A “ParaPara = símbolo de la cultura gal”
 
-それはまさに、“音楽が身体を通して文化となる”現象のひとつの典型だった。
+- Estrechamente vinculado a la moda Shibuya 109.
+
+- Distribución de vídeos de coreografías (VHS, posteriormente DVD)
+
+- También están disponibles series como ``Parapara Paradise'' y ``Parapara Kyonen''.
+
+● Producción de medios
+
+- “Gal charisma” introduce coreografías en programas de televisión y revistas.
+
+- El eurobeat se convierte efectivamente en tendencia adolescente
+
+- “Recordar = un ritual de participación” y crear una cultura de unidad y presión de grupo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+<hr>
+
+### Renacimiento de ParaPara y la cultura de Internet
+● Después de mediados de la década de 2000: fin del boom y clandestinidad
+
+- Cambios en la cultura gyaru, transición a los teléfonos móviles e Internet.
+
+- En algunos clubes continúan los “eventos de reactivación”
+
+● “Despertar” de la generación YouTube
+
+- Se produce un segundo auge de parapara a nivel local a medida que se comparten en línea videos y canciones de coreografías pasadas.
+
+- También hay fenómenos en los que los aficionados extranjeros se redescubren y reciben elogios como si fueran reimportados.
+
+
+<hr>
+
+### Euro y Parapara fueron cómplices
+Eurobeat y Parapara no son sólo una combinación de música y danza.
+**Estaban fuertemente vinculados por códigos culturales comunes como "repetitividad", "estructura clara", "colectividad" y "presentación dramática".**
+
+Fue un ejemplo perfecto del fenómeno de que "la música se convierte en cultura a través del cuerpo".
 
 ---
 
-### 関連コラム
+### Columnas relacionadas
 
- [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+[[Columna] Relación cultural entre Initial D y Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-[【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+[[Columna] Recuerdos de velocidad donde la D inicial y la música se cruzan](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

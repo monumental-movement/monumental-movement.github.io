@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Zeni Geva – 10000 Light Years.webp
 lang: es
 layout: post
+permalink: /es/2023-10-28-Zeni Geva – 10,000 Light Years/
 tags:
 - Noise
 - Progressive
 - Rock
-title: Zeni Geva – 10000 Light Years
+title: Zeni Geva – 10000 años luz
 ---
 
 
-「Zeni Geva – 10000 Light Years」は、
-2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
+“Zeni Geva – 10.000 años luz” es
+Promoción del álbum grabada en Chicago Electrical Audio en octubre de 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. 10,000 Light Years
 2. Implosion
@@ -28,7 +29,7 @@ title: Zeni Geva – 10000 Light Years
 8. Auto-Fuck
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

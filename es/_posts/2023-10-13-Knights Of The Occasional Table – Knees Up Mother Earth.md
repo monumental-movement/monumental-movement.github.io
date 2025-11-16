@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Earth.webp
 lang: es
 layout: post
+permalink: /es/2023-10-13-Knights Of The Occasional Table – Knees Up Mother Earth/
 tags:
 - Downtempo
 - UK Band
-title: Knights Of The Occasional Table – Knees Up Mother Earth
+title: Caballeros de la mesa ocasional – De rodillas, Madre Tierra
 ---
 
 
-Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。
+Knights Of The Ocasional Table es una banda electrónica del sureste de Londres formada por Steve Radford, Nygel Packett, Andrew Cowen y el vocalista Aquamanda.
 
-このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。
+Cuando este álbum fue lanzado en 1993, apareció en Peel Sessions de John Peel.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Choose
 2. Amoeba
@@ -32,7 +33,7 @@ Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cow
 12. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m58886170453?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pThiipHyV4?si=vefBvJJxQ_coKU8n" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

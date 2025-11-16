@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Craig Alexander - The Exhibit A EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-07-Craig Alexander ‎– The Exhibit A EP/
 tags:
 - House
 - Deep House
-title: Craig Alexander - The Exhibit A EP
+title: Craig Alexander - La exposición A EP
 ---
 
 
-クレイグ・アレキサンダーは、シカゴハウスミュージック界で30年以上のキャリアを築いてきた重要な存在です。
+Craig Alexander ha sido un elemento fijo de la música house de Chicago durante más de 30 años.
 
-音楽への愛は80年代初頭に始まり、伝説的なロン・ハーディがプレイする「ザ・ミュージック・ボックス」で初めてその音楽を聴きました。ロンのプレイを聴くことで、彼は独自のスタイルを確立し、そのスタイルは世界中のダンスフロアを揺り動かしてきました。
+Mi amor por la música comenzó a principios de los 80, cuando la escuché por primera vez en "The Music Box" interpretada por el legendario Ron Hardy. Al escuchar tocar a Ron, desarrolló un estilo único que ha sacudido las pistas de baile de todo el mundo.
 
-彼は当初、伝説的なクラブ「AKA's」でロン・ハーディと共にパーティをプロモートしていましたが、やがて自身がディスクジョッキーとして出演し始め、そのセットを聴いた多くの人々からヘッドライナーとしての出演オファーを受けるようになりました。
+Comenzó promocionando fiestas con Ron Hardy en el legendario club AKA's, pero pronto comenzó a actuar como disc jockey y muchas personas que escucharon sus presentaciones comenzaron a ofrecerle actuaciones como cabeza de cartel.
 
-彼はこれまでに、Glenn Underground、Paul Johnson、DJ Rush、Lil Louis、Thomas Bangalter（Daft Punk）など、多くのアーティストと共演してきました。音楽の旅はフランス、スイス、ドイツなど、さまざまな国々に連れて行きました。また、彼は2012年に「Oblique Records Digital」を再び立ち上げました。
+Ha actuado con muchos artistas, incluidos Glenn Underground, Paul Johnson, DJ Rush, Lil Louis y Thomas Bangalter (Daft Punk). Su viaje musical lo ha llevado a muchos países diferentes, incluidos Francia, Suiza y Alemania. Además, relanzó "Oblique Records Digital" en 2012.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Breath
 
@@ -29,7 +30,7 @@ B1. Do Your Thang
 B2. Elektro Ride
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6P3VBDl_zb8?si=WFgI1x9rGkzsocVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6P3VBDl_zb8?si=WFgI1x9rGkzsocVS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

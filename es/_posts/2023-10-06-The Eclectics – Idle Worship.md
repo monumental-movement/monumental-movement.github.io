@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/The Eclectics – Idle Worship.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-The Eclectics – Idle Worship/
 tags:
 - Ska
 - Punk
-title: The Eclectics – Idle Worship
+title: Los eclécticos – Adoración ociosa
 ---
 
 
-「Idle Worship」は、
-1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
+La “adoración ociosa” es
+Este es un álbum de la banda estadounidense de ska-punk The Eclectics, lanzado en 1997 por el sello Jump Up! Archivos.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Harry
 
@@ -39,7 +40,7 @@ B4. Near And Far
 B5. It's Not About You, Kevin
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30039999033?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30039999033?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WmUk00-yjyA?si=21WltiWT7Vp6VxFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmUk00-yjyA?si=21WltiWT7Vp6VxFn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

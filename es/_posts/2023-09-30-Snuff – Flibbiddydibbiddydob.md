@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Snuff – Flibbiddydibbiddydob.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Snuff – Flibbiddydibbiddydob/
 tags:
 - Punk
 - Rock
-title: Snuff – Flibbiddydibbiddydob
+title: Rapé – Flibbiddydibbiddydob
 ---
 
 
-「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
+"Flibbidydibbidydob" es un EP de versiones de la banda británica de punk rock Snuff, que incluye jingles comerciales y temas musicales de televisión.
 
-このEPはもともと1990年にWorkers Playtime Recordsからイギリスでリリースされ、後に1996年8月にFat Wreck Chordsから再リリースされました。
+Este EP se lanzó originalmente en el Reino Unido en Workers Playtime Records en 1990 y luego fue reeditado en Fat Wreck Chords en agosto de 1996.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Rods & Mockers
 
@@ -42,7 +43,7 @@ B5. Bran Flakes
 B6. In Sickness & In Health
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=6Tia9s2jRH-jzv2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=6Tia9s2jRH-jzv2f" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

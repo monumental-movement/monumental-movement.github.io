@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – O Samba.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-Various – O Samba/
 tags:
 - Samba
 - Latin
-title: Various – O Samba
+title: Varios – O Samba
 ---
 
 
-「Various – O Samba」は、
-1991年にリリースされたDavid Byrneによってコンパイルされたコンピレーションのカセッテテープです。
+“Varios – O Samba” es
+Esta es una cinta de casete recopilatoria compilada por David Byrne lanzada en 1991.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Clara Nunes–A Deusa Dos Orixás
 
@@ -48,7 +49,7 @@ title: Various – O Samba
 15. Paulinho Da Viola–Sarou Para Ramadés
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

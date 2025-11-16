@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/The Heptones – On Top.webp
 lang: es
 layout: post
+permalink: /es/2024-06-07-The Heptones – On Top/
 tags:
 - Reggae
 - Rocksteady
 - Rare
-title: The Heptones – On Top
+title: Los Heptones – En la cima
 ---
 
 
-The Heptones（ヘプトーンズ）は、1960年代から1970年代初頭にかけて最も活躍したジャマイカのロックステディとレゲエのボーカルトリオ。
+Los Heptones eran un trío vocal jamaicano de rocksteady y reggae que estuvo más activo en los años 1960 y principios de los 1970.
 
-The Heptonesは、the Wailers（ウェイラーズ）やthe Maytals（メイタルズ）と同時代人で、1960年代半ばに彼らに匹敵する存在として知られていた。
+Los Heptones eran contemporáneos de los Wailers y los Maytals, y eran conocidos como sus iguales a mediados de la década de 1960.
 
-「On Top」は、スカ、ロックステディ、レゲエをはじめジャマイカのポピュラー音楽スタイルの基礎を築いたジャマイカのレコーディングスタジオ＆レーベルStudio One(スタジオ・ワン)からリリースされたアルバム。このアルバムは、別名Best Of The Heptones（ベスト・オブ・ザ・ヘプトーンズ）とも言われている。
+"On Top" es un álbum lanzado por Studio One, un estudio de grabación y sello jamaicano que sentó las bases de los estilos de música popular jamaicana, incluidos el ska, el rocksteady y el reggae. Este álbum también se conoce como Best Of The Heptones.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Equal Rights
 2. Pure Sorrow
@@ -38,7 +39,7 @@ The Heptonesは、the Wailers（ウェイラーズ）やthe Maytals（メイタ�
 15. Oil In My Lamp
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1wHb-SH2skE?si=P7-S0cBx-4IpARNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1wHb-SH2skE?si=P7-S0cBx-4IpARNV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

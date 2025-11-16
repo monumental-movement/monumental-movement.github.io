@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Dao Dezi – La Jument De Mishao.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Dao Dezi – La Jument De Mishao/
 tags:
 - Euro
 - Euro House
-title: Dao Dezi – La Jument De Mishao
+title: Dao Dezi – El Jumento De Mishao
 ---
 
 
-Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。
+Dao Dezi es un proyecto de Eric Mouquet y Guillain Joncheray de DEEP FOREST.
 
-この「La Jument De Mishao」は、1994年にイタリアのレーベルGFB Recordsからリリースされました。
+"La Jument De Mishao" fue lanzado en 1994 por el sello italiano GFB Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. La Jument De Mishao (Extended Mix)
 
 B. La Jument De Mishao (Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m81110098498?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

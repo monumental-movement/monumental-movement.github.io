@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/The Peacocks – Touch And Go.webp
 lang: es
 layout: post
+permalink: /es/2025-06-07-The Peacocks – Touch And Go/
 tags:
 - Rock
 - Psychobilly
 - Punk
 - Rockabilly
-title: The Peacocks – Touch And Go
+title: Los pavos reales – Toca y vete
 ---
 
 
-The Peacocksは、1990年にスイスで結成されたロカビリーバンド。ヨーロッパだけでなく、アメリカ、カナダ、日本など世界中でツアーをおこなっている。
+Los Peacocks son una banda de rockabilly formada en Suiza en 1990. Han realizado giras no sólo por Europa sino también por todo el mundo, incluidos Estados Unidos, Canadá y Japón.
 
-「Touch And Go」は、 2007年にドイツのレーベルPeople Like You Recordsからリリースされたサイコビリー・パンク・ロカビリーアルバム。
+"Touch And Go" es un álbum de psychobilly-punk-rockabilly lanzado en 2007 por el sello alemán People Like You Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Sex And Drugs And Rocks Through Your Window
 2. Work With You
@@ -38,7 +39,7 @@ The Peacocksは、1990年にスイスで結成されたロカビリーバンド�
 16. Next Room Sleeping
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

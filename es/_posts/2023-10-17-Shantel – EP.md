@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Shantel – EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-17-Shantel – EP/
 tags:
 - House
 - Future Jazz
@@ -12,11 +13,11 @@ title: Shantel – EP
 ---
 
 
-ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
+Stefan Hantel, también conocido como Shantel, es un DJ, músico y productor musical de Alemania.
 
-「Shantel – EP」は、Stefan HantelとDaniel Haaksmanによって設立されたドイツのレーベルEssay Recordingsより1997年にリリース。
+Shantel - EP fue lanzado en 1997 por Essay Recordings, un sello alemán fundado por Stefan Hantel y Daniel Haaksman.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Tell Me Why Is It Oh So Hard To Be Oh So Lovely
 
@@ -27,7 +28,7 @@ B1. Really Good Photo
 B2. I'm Not Afraid Of You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66346340732?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66346340732?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k88QMtIU9cY?si=bbbgdaeyH2NkZbeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k88QMtIU9cY?si=bbbgdaeyH2NkZbeo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Point Blanc Featuring Maria Motjer – Point Blanc/
 tags:
 - Jazz
 - Funk
 - 10inch
-title: Point Blanc Featuring Maria Motjér – Point Blanc
+title: Point Blanc Con Maria Motjér – Point Blanc
 ---
 
 
-1996年にドイツはケルンのGroove Attack Productions (GAP) からリリースされた10インチレコードです。
+Este es un disco de 10 pulgadas lanzado en 1996 por Groove Attack Productions (GAP) en Colonia, Alemania.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Ch'an
 
@@ -32,7 +33,7 @@ B2. Capricho
 B3. Dark
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EKkeDBm11K0?si=ZLp_8T-O366NVtkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKkeDBm11K0?si=ZLp_8T-O366NVtkT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

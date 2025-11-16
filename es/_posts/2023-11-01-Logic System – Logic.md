@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Logic System – Logic.webp
 lang: es
 layout: post
+permalink: /es/2023-11-01-Logic System – Logic/
 tags:
 - Techno
 - Synth-Pop
-title: Logic System – Logic
+title: Sistema Lógico – Lógica
 ---
 
 
-DJ Harveyのミックス『Sarcastic Study Masters』でも使用された"Clash"が収録されているアルバムです。
+Este álbum incluye "Clash", que también se utilizó en la mezcla de DJ Harvey "Sarcastic Study Masters".
 
-使用機材は、Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, など
+Equipo utilizado: Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog, Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, etc.
 
-松武秀樹による1981年のオリジナル盤。
+Versión original de 1981 de Hideki Matsutake.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Intro
 
@@ -39,7 +40,7 @@ B3. Person To Person
 B4. Logic
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6slB80QStbA?si=jqnjVOeQimSQKs2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6slB80QStbA?si=jqnjVOeQimSQKs2e" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

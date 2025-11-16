@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Snap! – World Power.webp
 lang: es
 layout: post
+permalink: /es/2025-11-01-Snap! – World Power/
 tags:
 - Hip-House
 - Euro House
 - Hiphop
 - 90s
-title: Snap! – World Power
+title: ¡Quebrar! – Potencia mundial
 ---
 
 
-1990年にLogic RecordsからリリースされたドイツのEurodance(ユーロダンス)プロジェクト Snap! (スナップ)のデビューアルバム。ヒット曲「The Power」「Ooops Up」「Mary Had A Little Boy」などが収録されたSnap! の代表作。
+El álbum debut del proyecto alemán de eurodance Snap!, lanzado por Logic Records en 1990. La obra maestra de Snap!, que incluye las exitosas canciones "The Power", "Ooops Up" y "Mary Had A Little Boy".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Power
 2. Ooops Up
@@ -30,7 +31,7 @@ title: Snap! – World Power
 10. The Power (Jungle Fever Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30191324819?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30191324819?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nm6DO_7px1I?si=bDNzXKZ6XtaLZu1Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nm6DO_7px1I?si=bDNzXKZ6XtaLZu1Z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

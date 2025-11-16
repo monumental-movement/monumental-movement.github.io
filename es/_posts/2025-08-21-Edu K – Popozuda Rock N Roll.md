@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Edu K – Popozuda Rock N Roll.webp
 lang: es
 layout: post
+permalink: /es/2025-08-21-Edu K – Popozuda Rock N Roll/
 tags:
 - Ragga HipHop
 - Electro
@@ -14,14 +15,14 @@ title: Edu K – Popozuda Rock N' Roll
 ---
 
 
-Edu KことEduardo Martins Dornellesは、ブラジル出身のミュージシャン／プロデューサー。ブラジルのロックバンド、DeFalla(デファラ)のボーカリストとしてよく知られている。
+Eduardo Martins Dornelles, también conocido como Edu K, es un músico y productor de Brasil. Es mejor conocido como el vocalista de la banda de rock brasileña DeFalla.
 
-「Popozuda Rock N' Roll」は、ブラジルのバイレファンキ などをリリースするベルリン拠点のレーベルMan RecordingsからリリースされたRagga HipHop／Electro／Reggaeton／Favela Funk。
-エグゼクティブプロデューサーはDaniel Haaksman。
+"Popozuda Rock N' Roll" es Ragga HipHop/Electro/Reggaeton/Favela Funk lanzado por Man Recordings, un sello con sede en Berlín que lanza baile funki brasileño y otra música.
+El productor ejecutivo es Daniel Haaksman.
 
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Popozuda Rock N' Roll (Diplo Rmx)
 A2. Popozuda Rock N' Roll (DJ Sandrinho Mix)
@@ -32,7 +33,7 @@ B2. Popozuda Rock N' Roll (Instrumental)
 B3. Popozuda Rock N' Roll (Acappella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76702393308?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m76702393308?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BDkNozI4ywY?si=k1M5JB1Maytdvqi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BDkNozI4ywY?si=k1M5JB1Maytdvqi_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

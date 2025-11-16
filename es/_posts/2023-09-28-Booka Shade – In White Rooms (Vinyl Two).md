@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Booka Shade – In White Rooms (Vinyl Two).webp
 lang: es
 layout: post
+permalink: /es/2023-09-28-Booka Shade – In White Rooms (Vinyl Two)/
 tags:
 - House
 - Electro
-title: Booka Shade – In White Rooms (Vinyl Two)
+title: Booka Shade - En habitaciones blancas (vinilo dos)
 ---
 
 
-「Booka Shade - In White Rooms (Vinyl Two)」は、ドイツのエレクトロニックデュオであるブッカ・シェード（Booka Shade）による楽曲です。
+"Booka Shade - In White Rooms (Vinyl Two)" es una canción del dúo electrónico alemán Booka Shade.
 
-2005年にリリースされたこの曲は、ブッカ・シェードの代表作の一つであり、彼らのキャリアにおいて大きな成功を収めた曲となりました。
+Lanzada en 2005, esta canción fue una de las obras emblemáticas de Booka Shade y se convirtió en un gran éxito en su carrera.
 
-重厚なベースライン、シンセサイザーのメロディ、響きのあるリズムが組み合わさり、エレクトロニックミュージックの要素を取り入れたハウスミュージックであり、ダークでミステリアスな雰囲気が特徴な一曲となっています。
+La combinación de una línea de bajo pesada, una melodía de sintetizador y un ritmo resonante crea una música house que incorpora elementos de la música electrónica, creando una canción con una atmósfera oscura y misteriosa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 a. In White Rooms (Mexico Mix)
 
 b. In White Rooms (Shinedoe Fusion Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26356505023?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m26356505023?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeRCiX0T_ws?si=JHSqf19FtgWTF_xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeRCiX0T_ws?si=JHSqf19FtgWTF_xL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

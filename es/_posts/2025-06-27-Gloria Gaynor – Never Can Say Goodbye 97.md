@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Gloria Gaynor – Never Can Say Goodbye 97.webp
 lang: es
 layout: post
+permalink: /es/2025-06-27-Gloria Gaynor – Never Can Say Goodbye 97/
 tags:
 - House
 - Disco
 - 90s
-title: Gloria Gaynor – Never Can Say Goodbye '97
+title: Gloria Gaynor - Nunca puedo decir adiós '97
 ---
 
 
-1974年にGloria Gaynor(グロリアゲイナー)がカバーした名曲「Never Can Say Goodbye」をイタリアのレーベルNicolosi Productionsがremixし、イタリアのハウスレーベルJust Music からリリースされたHouse・Discoトラック。
+Una pista House/Disco que fue remezclada por el sello italiano Nicolosi Productions de la famosa canción "Never Can Say Goodbye", que fue versionada por Gloria Gaynor en 1974 y lanzada por el sello house italiano Just Music.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Never Can Say Goodbye (Club Mix)
 A2. Never Can Say Goodbye (Radio Mix)
@@ -24,7 +25,7 @@ B1. Never Can Say Goodbye (Dub Version)
 B2. Never Can Say Goodbye (Another Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91079101073?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m91079101073?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Pynd6ve-gA?si=ZMQb23iUpTvsawI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Pynd6ve-gA?si=ZMQb23iUpTvsawI4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

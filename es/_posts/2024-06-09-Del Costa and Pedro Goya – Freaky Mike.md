@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Del Costa & Pedro Goya – Freaky Mike.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Del Costa and Pedro Goya – Freaky Mike/
 tags:
 - Electro
 - Tech House
@@ -13,20 +14,20 @@ title: Del Costa & Pedro Goya – Freaky Mike
 ---
 
 
-Yoyaku、Ubiyu、Different Heads、Classic Music Company など有名レーベルから多数の作品をリリースしているポルトガルのエレクトロニックミュージック界の重鎮 Pedro GoyaとDel Costa の名コンビ によるエレクトロ・テックハウストラック。
+Un tema electro-tech house del gran dúo formado por Pedro Goya y Del Costa, dos pesos pesados ​​del mundo de la música electrónica portuguesa que han editado numerosos trabajos en sellos famosos como Yoyaku, Ubiyu, Different Heads y Classic Music Company.
 
-「Freaky Mike」は、DJ Linusによって設立されたドイツのハウスレーベルExun から2003年にリリースされた。
+"Freaky Mike" fue lanzado en 2003 en Exun, un sello house alemán fundado por DJ Linus.
 
-B面は、DJ All Star（Alexander Maier）と Don Discoによるremix。
+La cara B es un remix de DJ All Star (Alexander Maier) y Don Disco.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Freaky Mike (Original Cut)
 
 B. Freaky Mike (DJ All Star & Don Disco Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

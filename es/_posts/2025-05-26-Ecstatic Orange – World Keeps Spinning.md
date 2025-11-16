@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Ecstatic Orange – World Keeps Spinning.webp
 lang: es
 layout: post
+permalink: /es/2025-05-26-Ecstatic Orange – World Keeps Spinning/
 tags:
 - Electronic
 - Leftfield
 - Downtempo
 - 90s
-title: Ecstatic Orange – World Keeps Spinning
+title: 'Naranja extático: el mundo sigue girando'
 ---
 
 
-Ecstatic Orange(エクスタティック オレンジ)は、Elisa CarraharとMIchael Czerkas Amoryによるデュオ。
+Ecstatic Orange es un dúo formado por Elisa Carrahar y MIchael Czerkas Amory.
 
-「World Keeps Spinning」は、1990年〜1995年までThe Moonflowers、Praise Space Electric、Me、Rorschach、Mammal、Ecstatic Orangeの作品をリリースしていたサイケデリックロック、アートロック、インディーロック、スキュードポップ専門のUKレコードレーベルPop Godから1995年にリリースされたレフトフィールドダウンテンポトラック。
+"World Keeps Spinning" es una pista downtempo de izquierda lanzada en 1995 por Pop God, un sello discográfico del Reino Unido especializado en rock psicodélico, art rock, indie rock y pop sesgado que lanzó obras de The Moonflowers, Praise Space Electric, Me, Rorschach, Mammal y Ecstatic Orange de 1990 a 1995.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. World Keeps Spinning
 
 B. Skimming Stones
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67613286941?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67613286941?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VsOLS7N2dFs?si=VW8e261vGPTt_Ra5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VsOLS7N2dFs?si=VW8e261vGPTt_Ra5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

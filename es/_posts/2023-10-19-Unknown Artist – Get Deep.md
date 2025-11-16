@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Unknown Artist – Get Deep.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Unknown Artist – Get Deep/
 tags:
 - House
 - Mashup
-title: Unknown Artist – Get Deep
+title: Artista desconocido – Profundiza
 ---
 
 
-Roland Clark（ローランド・クラーク）の『 I Get Deep（アイ・ゲット・ディープ）』、Carl Craig（カール・クレイグ）の『Just Another Day（ジャスト・アナザー・デイ）』、Manuel Göttsching『E2-E4』をサンプリングしたCarl Craigの別名義Paperclip Peopleの『remake』のマッシュアップ。 EditはTimmy Regisford（ティミー・レジスフォード）。
+Una combinación de "I Get Deep" de Roland Clark, "Just Another Day" de Carl Craig y el "remake" de Paperclip People, alias de Carl Craig, que muestra "E2-E4" de Manuel Göttsching. Editado por Timmy Regisford.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Get Deep
 
 B. Get Deep (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62836204248?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m62836204248?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GwXhWTxhqFc?si=cCGUUnc_iZjwHADu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GwXhWTxhqFc?si=cCGUUnc_iZjwHADu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

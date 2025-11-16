@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Robert Johnson – The Legendary Blues Singer.webp
 lang: es
 layout: post
+permalink: /es/2024-12-07-Robert Johnson – The Legendary Blues Singer/
 tags:
 - Blues
-title: Robert Johnson – The Legendary Blues Singer
+title: Robert Johnson – El legendario cantante de blues
 ---
 
 
-Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの一人として知られる、ブルース&デルタブルーススタイルの巨匠。
+Robert Johnson es un maestro del estilo blues y delta blues, conocido como uno de los músicos más influyentes del siglo XX.
 
-1936年〜1937年の2回のレコーディングで残した音源は後世のミュージシャンに多大なる影響を与えた。
+Las fuentes sonoras que dejó en dos grabaciones realizadas entre 1936 y 1937 tuvieron una gran influencia en las generaciones futuras de músicos.
 
-「The Legendary Blues Singer」は、Robert Johnsonの名曲を集めたコンピレーションアルバム。
+"The Legendary Blues Singer" es un álbum recopilatorio de las famosas canciones de Robert Johnson.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Kindhearted Woman Blues
 2. Sweet Home Chicago
@@ -34,8 +35,8 @@ Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

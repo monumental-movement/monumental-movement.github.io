@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Joe Hisaishi - BRAIN and MIND.webp
 lang: es
 layout: post
+permalink: /es/2025-03-09-Joe Hisaishi - BRAIN and MIND/
 tags:
 - Classical
 - Soundtrack
 - 90s
-title: 久石譲 - BRAIN&MIND サウンドトラック Vol.1
+title: Joe Hisaishi - BRAIN&MIND Banda sonora vol.1
 ---
 
 
-宮崎駿アニメでお馴染みの作曲家 久石譲 が手がけた、NHKスペシャル「驚異の小宇宙 人体2・脳と心」のサントラ。1993年リリースだが、ミクロコスモスを音で表現したこのアルバムは時代を超えて聴き継がれる一枚。
+Banda sonora del especial de la NHK ``Amazing Microcosm: Human Body 2: Brain and Mind'', compuesta por Joe Hisaishi, compositor conocido por el anime de Hayao Miyazaki. Aunque fue lanzado en 1993, este álbum, que expresa el microcosmos a través del sonido, es un álbum que será escuchado a través de los siglos.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. BRAIN&MIND 未知の秘境へのいざない
 2. NEW GENERATION 未来人への予感
@@ -30,7 +31,7 @@ title: 久石譲 - BRAIN&MIND サウンドトラック Vol.1
 11. EMOTION 永遠の春
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

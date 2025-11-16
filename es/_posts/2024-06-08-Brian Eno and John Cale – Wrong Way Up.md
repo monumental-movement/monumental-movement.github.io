@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Brian Eno & John Cale – Wrong Way Up.webp
 lang: es
 layout: post
+permalink: /es/2024-06-08-Brian Eno and John Cale – Wrong Way Up/
 tags:
 - Ambient
 - Relaxation
 - Healing
 - 90s
 - Rare
-title: Brian Eno & John Cale – Wrong Way Up
+title: Brian Eno y John Cale - Camino equivocado
 ---
 
 
-1990年にリリースされたBrian Eno（ブライアンイーノ） と John Cale（ジョンケイル）のスタジオ・アルバムアルバム「Wrong Way Up」のプロモ用カセットテープ。
+Una cinta de casete promocional para el álbum de estudio de Brian Eno y John Cale, "Wrong Way Up", lanzado en 1990.
 
-「Wrong Way Up」は、エレクトロニック、プログレッシブロック、アートロックのジャンルの中間に位置する作品となっており、批評家に絶賛されたアルバム。
+Wrong Way Up es un álbum aclamado por la crítica que se sitúa en algún lugar entre los géneros electrónico, rock progresivo y art rock.
 
-収録曲「Spinning Away」は、アメリカのロックバンド Sugar Ray が2000年に映画『ザ・ビーチ』のサウンドトラックとしてカバーバージョンを制作したことで有名。
+La canción "Spinning Away" es famosa por ser una versión de la banda de rock estadounidense Sugar Ray para la banda sonora de la película "The Beach" en el año 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lay My Love
 A2. One Word
@@ -36,7 +37,7 @@ B4. Crime In The Desert
 B5. The River
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

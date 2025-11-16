@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.webp
 lang: es
 layout: post
+permalink: /es/2023-10-03-Afrika Bambaataa And Westbam – Agharta/
 tags:
 - Techno
 - Electro
-title: Afrika Bambaataa And Westbam – Agharta
+title: África Bambaataa y Westbam – Agharta
 ---
 
 
-「Agharta」は、
-1998年にドイツのレーベル「Low Spirit Recordings」からリリースされた
-アフリカ・バンバータとウエストバムによるEPです。
+“Agharta” es
+Publicado en 1998 en el sello alemán "Low Spirit Recordings"
+Este es un EP de Afrika Bambaataa y West Bum.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Agharta - The City Of Shamballa (Subterranean World) (Original)
 
@@ -25,7 +26,7 @@ B1. Agharta - The City Of Shamballa (Subterranean World) (Dr. Rhythm's Higher St
 B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28101658653?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28101658653?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nIBL1QPj2KE?si=VHO0Yo-tv9cIjQZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIBL1QPj2KE?si=VHO0Yo-tv9cIjQZG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

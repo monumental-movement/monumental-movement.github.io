@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Nitsch and Gleinser – Time Control.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Nitsch and Gleinser – Time Control/
 tags:
 - Electro
 - Synth-Pop
-title: Nitsch and Gleinser – Time Control
+title: Nitsch y Gleinser – Control del tiempo
 ---
 
 
-Nitsch & Gleinser （ニッチュ&グラインザー）は、ドイツのDJ/プロデューサーDaniel Nitsch とドイツ出身のプロデューサーChristian Gleinserによるデュオ。
+Nitsch & Gleinser es un dúo formado por el DJ y productor alemán Daniel Nitsch y el productor alemán Christian Gleinser.
 
-「Time Control」は、Savas Pascalidis（サヴァス・パスカリディス）が主宰するドイツのレーベルLasergunより2003年にリリースされたエレクトロ、テックハウス、シンセポップの要素が詰まった”フューチャーポップ”トラック。
+"Time Control" es una pista de "pop del futuro" llena de elementos electro, tech house y synth pop que fue lanzada en 2003 por Lasergun, un sello alemán dirigido por Savas Pascalidis.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Loop
 
@@ -27,7 +28,7 @@ B1. Time Control
 B2. Illusion
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53569289716?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m53569289716?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nEGF7xg0D4?si=9d-GW-YtLuMiWRah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1nEGF7xg0D4?si=9d-GW-YtLuMiWRah" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

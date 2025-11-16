@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Lab4 – None Of Us Are Saints.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Lab4 – None Of Us Are Saints/
 tags:
 - Trance
 - Hard Trance
-title: Lab4 – None Of Us Are Saints
+title: Lab4 – Ninguno de nosotros somos santos
 ---
 
 
-Lab4は、Adam Newman(アダム・ニューマン)& Les Elston(レス・エルストン)によるUKのハードダンスアクト。
+Lab4 es un grupo de hard dance del Reino Unido formado por Adam Newman y Les Elston.
 
-A面は日本を代表するハードダンスプロデューサー兼DJ Nishによるremix。
+Side A es un remix del DJ y productor de hard dance líder de Japón, Nish.
 
-「None Of Us Are Saints」は、avexのサブレーベルSuperb Traxより2006年にリリース。
+"None Of Us Are Saints" se lanzó en 2006 en el subsello Superb Trax de Avex.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Perfect Drug (Nish Remix)
 
@@ -27,7 +28,7 @@ B1. Rapture (Hybrid 2006){: .button1}
 B2. Perfect Drug
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75375827004?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75375827004?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3BdOyoCt9TE?si=n1bPSSIrM8-SK4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3BdOyoCt9TE?si=n1bPSSIrM8-SK4xo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

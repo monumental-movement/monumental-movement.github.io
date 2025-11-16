@@ -5,151 +5,152 @@ categories:
 image: ../assets/images/column-silence-sound.webp
 lang: es
 layout: post
+permalink: /es/2025-10-23-column-silence-sound/
 tags:
 - Ambient
 - Ai
-title: 【コラム】 沈黙の音楽：聴くという行為の再発見
+title: '[Columna] Música silenciosa: Redescubriendo el acto de escuchar'
 ---
 
 
-## 序章：音のない音楽に、私たちは何を聴くのか
+## Prólogo: ¿Qué escuchamos en la música sin sonido?
 
 
-文：mmr｜テーマ：ジョン・ケージの『4分33秒』以降、沈黙は音楽のもう一つの側面となった。聴くとは何か。音のない音楽が語りかける、人間と世界の関係の再構築を考察
+Texto: mmr | Tema: Después de "4 minutos y 33 segundos" de John Cage, el silencio se convirtió en otro aspecto de la música. ¿Qué es escuchar? Considerando la reconstrucción de la relación entre los humanos y el mundo contada por la música sin sonido.
 
-1952年、ジョン・ケージの《4分33秒》がニューヨークで初演されたとき、観客は戸惑い、そしてざわめいた。  
-ピアニストは一音も奏でない。しかし、会場には音が溢れていた——咳払い、椅子の軋み、外の風の音。  
-その瞬間、音楽とは「作曲された音」ではなく、「聴くという行為そのもの」であることが提示された。
+Cuando "4'33" de John Cage se estrenó en Nueva York en 1952, el público quedó perplejo y agitado.
+El pianista no toca una sola nota. Sin embargo, el lugar se llenó de sonidos: toses, sillas crujiendo y el viento afuera.
+En ese momento quedó claro que la música no son sólo sonidos compuestos, sino el acto mismo de escuchar.
 
-ケージは語る。「沈黙は存在しない。すべてが音である」と。  
-この理念は、音楽の領域を大きく拡張し、21世紀のサウンドアートやフィールドレコーディング、アンビエントミュージックへと受け継がれていく。
+Cage habla. "No hay silencio. Todo es sonido".
+Esta filosofía amplió enormemente el ámbito de la música y se transmitió al arte sonoro, la grabación de campo y la música ambiental del siglo XXI.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第一章：音を聴くとは何か — 感覚の再訓練としてのリスニング
+## Capítulo 1: ¿Qué es escuchar sonido? — La escucha como reentrenamiento sensorial
 
-私たちは日常の中で、あまりに多くの「無意識的な聴取」をしている。  
-スマートフォンの通知音、地下鉄のアナウンス、街角のノイズ。  
-それらは意識の背景に退き、ただの情報の一部になる。
+Hacemos demasiada "escucha inconsciente" en nuestra vida diaria.
+Sonidos de notificación de teléfonos inteligentes, anuncios del metro, ruidos de la calle.
+Pasan a un segundo plano de la conciencia y se convierten en sólo una pieza de información.
 
-しかし、ケージやミュージック・コンクレートの作曲家たちは、**「聴く」ことを再発見する訓練**を促した。  
-耳を澄ますこと——それは世界との関係を更新する行為であり、  
-音を選び取るのではなく、「すでにある音」を受け入れる態度である。
+Sin embargo, Cage y los compositores de música concreta nos animaron a practicar el redescubrimiento de la escucha.
+Escuchar es un acto de renovación de la relación con el mundo,
+Es una actitud de aceptar "los sonidos que ya existen" en lugar de elegir un sonido.
 
-この態度は、のちにブライアン・イーノのアンビエント・ミュージックにも引き継がれる。  
-彼は語る。「アンビエントとは、意識的に聴かなくても、環境と共に在る音楽である」と。
+Esta actitud se trasladaría más tarde a la música ambiental de Brian Eno.
+él habla. "La música ambiental es música que existe con el entorno, incluso si no la escuchas conscientemente".
 
 ---
 
-## 第二章：沈黙の系譜 — ケージから現代サウンドアートへ
+## Capítulo 2: Genealogía del silencio: de la jaula al arte sonoro contemporáneo
 
-ケージ以後、「沈黙」は一種の音楽的素材となった。  
-下記は、その系譜を示す年表である。
+Después de Cage, el "silencio" se convirtió en una especie de material musical.
+A continuación se muestra una cronología que muestra su genealogía.
 
 <div class="mermaid">
 
-timeline
-    title 沈黙と聴取の芸術史（1950–2020）
-    1952 : ジョン・ケージ《4分33秒》初演 — 沈黙の概念を提示
-    1967 : マックス・ニューハウス「サウンド・ウォーク」— 都市を聴く行為としてのアート
-    1978 : ブライアン・イーノ『Ambient 1: Music for Airports』— 聴く空間のデザイン
-    1994 : 坂本龍一「スコラ」シリーズ — 音と時間の哲学的考察
-    2005 : ジャネット・カーディフ「Audio Walks」— 移動と聴覚の体験化
-    2020 : AIサウンド生成と沈黙の再定義 — “無音”がデータとして分析される時代
+línea de tiempo
+título Historia del arte del silencio y la escucha (1950-2020)
+1952: Estreno de 4 minutos 33 segundos de John Cage: presenta el concepto de silencio.
+1967: Max Newhouse “Sound Walk”: el arte como acto de escucha de la ciudad
+1978: Brian Eno “Ambient 1: Música para aeropuertos”: diseño de espacios de escucha
+1994: Serie “Schola” de Ryuichi Sakamoto – Consideración filosófica del sonido y el tiempo
+2005: Janet Cardiff “Audio Walks”: experimentar el movimiento y la audición
+2020: generación de sonido mediante IA y redefinición del silencio: una era en la que el “silencio” se analiza como datos
 
 
 </div>
 
-この流れの中で、沈黙は「空白」ではなく「可能性」として扱われてきた。
-つまり、**聴くという行為が主題化されるとき、音楽はその枠を越える。**
+En esta tendencia, el silencio no ha sido tratado como un "espacio en blanco" sino como una "posibilidad".
+En otras palabras, cuando el acto de escuchar se convierte en tema, la música trasciende su marco. **
 
 ---
 
 
-## 第三章：環境としての音楽 — サウンドスケープの誕生
+## Capítulo 3: La música como entorno: el nacimiento de los paisajes sonoros
 
-1960年代後半、カナダの作曲家R・マリー・シェーファーは「サウンドスケープ」という概念を提唱した。
-それは、音を社会・文化・自然環境の一部として捉える試みだった。
+A finales de la década de 1960, el compositor canadiense R. Marie Schaefer propuso el concepto de "paisaje sonoro".
+Este fue un intento de entender el sonido como parte de la sociedad, la cultura y el entorno natural.
 
-「私たちは音の風景の中を生きている。聴くとは環境を理解することである。」
+"Vivimos en un paisaje de sonido. Escuchar es comprender el entorno".
 
-都市の雑踏、森のざわめき、川のせせらぎ——それらを録音し、編集すること自体が音楽的行為となった。
-この考えは今日のフィールドレコーディング文化や、環境音を取り入れるアーティスト（坂本龍一、Chris Watsonなど）に受け継がれている。
-
----
-
-## 第四章：沈黙の倫理 — 「聴くこと」がもたらす共感
-
-聴くという行為は、単なる感覚ではない。
-それは**他者に開かれる倫理的態度**でもある。
-
-音楽療法の現場では、「音を聴くこと」がしばしば「他者を受け入れる」訓練と重ねられる。
-また、社会学者ジェイムズ・カルホーンは「公共空間での沈黙が失われつつある」と指摘する。
-常時再生されるBGM、絶え間ない情報の流れ。
-私たちは「音のない時間」を恐れるようになってはいないか？
-
-沈黙を取り戻すとは、音楽を聴く力を取り戻すことでもある。
+El ajetreo y el bullicio de la ciudad, el susurro del bosque, el murmullo del río: grabarlos y editarlos se convirtió en un acto musical en sí mismo.
+Esta idea continúa en el campo actual de la cultura discográfica y en los artistas que incorporan sonidos ambientales (Ryuichi Sakamoto, Chris Watson, etc.).
 
 ---
 
-## 第五章：デジタル時代の沈黙 — ノイズの海の中で
+## Capítulo 4: Ética del silencio: empatía provocada por “escuchar”
 
-SpotifyやYouTubeが提供するのは、「選ばれた沈黙」だ。
-たとえば“Lo-Fi Chill”や“Focus”プレイリストは、沈黙を演出するための“音”で満たされている。
-そこには逆説的に、**静けさの演出**という消費がある。
+El acto de escuchar no es sólo una sensación.
+También es una actitud ética de estar abierto a los demás.
 
-一方で、AI音楽生成技術は無限の音を生み出し続ける。
-その中で、聴く者が求めるのは「音のない瞬間」かもしれない。
-つまり、**デジタル飽和の時代における沈黙の価値**が再浮上している。
+En el campo de la musicoterapia, "escuchar sonidos" a menudo se combina con un entrenamiento para "aceptar a los demás".
+El sociólogo James Calhoun también señala que "el silencio en los espacios públicos está desapareciendo".
+Reproducción constante de música de fondo, flujo constante de información.
+¿Le hemos dado miedo al "tiempo sin sonido"?
+
+Recuperar el silencio significa también recuperar la capacidad de escuchar música.
+
+---
+
+## Capítulo 5: Silencio en la era digital: en medio del mar de ruido
+
+Lo que ofrecen Spotify y YouTube es "silencio elegido".
+Por ejemplo, las listas de reproducción "Lo-Fi Chill" y "Focus" están llenas de "sonidos" destinados a crear silencio.
+Paradójicamente, hay un consumo de **producción de tranquilidad**.
+
+Por otro lado, la tecnología de generación de música mediante IA sigue produciendo sonidos infinitos.
+Entre ellos, lo que los oyentes pueden estar buscando es un "momento sin sonido".
+En otras palabras, el valor del silencio en una era de saturación digital está resurgiendo.
 
 
 ---
 
-## 図解：聴取の構造 — 音と沈黙のバランス
+## Ilustración: La estructura de la escucha: el equilibrio entre sonido y silencio
 
 <div class="mermaid">
 
-graph TD
-    A[聴く行為] --> B[外的音（環境音・音楽）]
-    A --> C[内的音（記憶・思考・身体感覚）]
-    B --> D[選択的聴取：音楽を聴く]
-    C --> E[反響的聴取：自分を聴く]
-    D --> F[創造的沈黙：作曲・即興]
-    E --> F
+gráfico TD
+A [acto de escuchar] --> B [sonidos externos (sonidos ambientales/música)]
+A --> C [Sonidos internos (recuerdos, pensamientos, sensaciones físicas)]
+B --> D [Escucha selectiva: escuchar música]
+C --> E [Escucha ecoica: escúchate a ti mismo]
+D --> F [Silencio creativo: Composición/Improvisación]
+mi -> F
 
 </div>
 
-この図が示すように、「聴く」とは受動的ではなく創造的な行為である。
-沈黙は、音楽を再生するための“間”としてではなく、**思考と共感を生む空間**として機能する。
+Como muestra este diagrama, "escuchar" no es un acto pasivo, sino un acto creativo.
+El silencio no funciona como un "espacio" para tocar música, sino como un espacio para el pensamiento y la empatía.
 
 ---
 
-## 結章：沈黙の未来 — 聴くことの政治学へ
+## Conclusión: El futuro del silencio: hacia una política de escucha
 
-これからの音楽文化において、「沈黙」は新たな抵抗の形になるだろう。
-過剰な情報、即時的な快楽、アルゴリズムに支配された選曲。
-その中で、耳を澄ますことは一種の**スロー・リスニング**運動になる。
+Es probable que el silencio se convierta en una nueva forma de resistencia en la cultura musical del futuro.
+Sobrecarga de información, placer instantáneo y selección musical algorítmica.
+En este contexto, escuchar se convierte en una especie de ejercicio de **escucha lenta**.
 
-「聴く」という動詞を取り戻すとき、
-音楽は再び私たちを世界とつなぐ。
+Cuando recuperamos el verbo “escuchar”,
+La música una vez más nos conecta con el mundo.
 
 ---
 
-## 参考年表：沈黙と音の哲学の広がり
+## Cronología de referencia: Ampliación de la filosofía del silencio y el sonido
 
 
 | 年     | 出来事                  | 主な人物          |

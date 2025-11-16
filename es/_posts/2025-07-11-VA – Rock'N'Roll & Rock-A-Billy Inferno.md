@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/VA – Rock'N'Roll & Rock-A-Billy Inferno.webp
 lang: es
 layout: post
+permalink: /es/2025-07-11-VA – Rock'N'Roll & Rock-A-Billy Inferno/
 tags:
 - Rockabilly
 - Rock
-title: VA – Rock'N'Roll & Rock-A-Billy Inferno
+title: VA – Rock'N'Roll y Rock-A-Billy Inferno
 ---
 
 
-ロックンロール&ロカビリーは、2001年にStardust Recordsからリリースされたロカビリーのコンピレーションアルバムです。
+Rock'n'Roll & Rockabilly es un álbum recopilatorio de rockabilly lanzado por Stardust Records en 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Alan Freed – Intro - Hosting The Moondog Show, 1958
 2. The Nighthawks Featuring Buddy Holly – When Sin Stops
@@ -52,9 +53,9 @@ title: VA – Rock'N'Roll & Rock-A-Billy Inferno
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19308591252?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m19308591252?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4fNqoHzeO4?si=3c28NhuHY7oi2cwa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4fNqoHzeO4?si=3c28NhuHY7oi2cwa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FRJaqllMoA8?si=EH1d5bwmuIMqF_Bb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FRJaqllMoA8?si=EH1d5bwmuIMqF_Bb" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

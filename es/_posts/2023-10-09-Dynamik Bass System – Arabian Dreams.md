@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Dynamik Bass System – Arabian Dreams.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Dynamik Bass System – Arabian Dreams/
 tags:
 - Electro
-title: Dynamik Bass System – Arabian Dreams
+title: Sistema de bajo Dynamik – Arabian Dreams
 ---
 
 
-「Arabian Dreams」は、
-1998年にドイツのレーベル「Gigolo Records」からリリースされたThomas WernerのプロジェクトであるDynamik Bass SystemによるEPです。
+“Sueños árabes” es
+Este es un EP de Dynamik Bass System, un proyecto de Thomas Werner, lanzado en 1998 en el sello alemán "Gigolo Records".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Arabian Dreams
 
@@ -26,7 +27,7 @@ B1. Electronic
 B2. Frequencies
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m22979609212?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m22979609212?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/McEh6frr_sk?si=O6kij959JEJJu3ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/McEh6frr_sk?si=O6kij959JEJJu3ql" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

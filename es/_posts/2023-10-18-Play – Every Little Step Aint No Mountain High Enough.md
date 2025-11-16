@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Play – Every Little Step Ain't No Mountain High Enough.webp
 lang: es
 layout: post
+permalink: /es/2023-10-18-Play – Every Little Step Aint No Mountain High Enough/
 tags:
 - R&B
 - Funk
-title: Play – Every Little Step / Ain't No Mountain High Enough
+title: Jugar – Cada pequeño paso / No hay montaña lo suficientemente alta
 ---
 
 
-2001年に結成されたスウェーデンのポップガールグループ。
+Un grupo de pop femenino sueco formado en 2001.
 
-Bobby Brown(ボビー・ブラウン)「EVERY LITTLE STEP」のカヴァーはAaron Carter (アーロン・カーター)をフィーチャリングに迎え2004年にリリースされた。
+En 2004 se lanzó una versión de "EVERY LITTLE STEP" de Bobby Brown con Aaron Carter.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Every Little Step featuring Aaron Carter
 
 B. Ain’t No Mountain High Enough
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58251300006?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m58251300006?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMoJ-ak1WD0?si=V6wpxYxTx5UFrP0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMoJ-ak1WD0?si=V6wpxYxTx5UFrP0Z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

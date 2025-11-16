@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Kay Sand – Too Funghi.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Kay Sand – Too Funghi/
 tags:
 - House
 - Tech House
-title: Kay Sand – Too Funghi
+title: Kay Sand - Demasiado Funghi
 ---
 
 
-2009年にリリースされたドイツのレーベルDeep MovesからイタリアンDJのFrancesco Sperottoによるプロジェクト「Kay Sand」。
+Kay Sand es un proyecto del DJ italiano Francesco Sperotto lanzado en 2009 en el sello alemán Deep Moves.
 
-リミックスは同じくイタリアンの「Minimono」と本名Domenico Cipriani「Lucreito」も秀逸。
+Los remixes también son excelentes, incluida la canción italiana "Minimono" y el nombre real de Domenico Cipriani, "Lucreito".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Too Funghi
 
@@ -25,7 +26,7 @@ B1. Too Funghi (Minimono Remix)
 B2. Too Funghi (Lucretio Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63658613527?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63658613527?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3M82YPKhjfQ?si=jEDwKsxsMXDp8jyT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3M82YPKhjfQ?si=jEDwKsxsMXDp8jyT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

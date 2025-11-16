@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Raging Thrash From Blind Vision.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Various – Raging Thrash From Blind Vision/
 tags:
 - Punk
 - Hardcore
-title: Various – Raging Thrash From Blind Vision
+title: Varios – Thrash furioso de visión ciega
 ---
 
 
-「Raging Thrash From Blind Vision」は、
-2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
+“Raging Thrash From Blind Vision” es
+Este disco, lanzado por Answer Records en 2000, es un álbum recopilatorio del HARDCORE local de Nagoya.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Purge –Ugly Smile
 
@@ -42,7 +43,7 @@ B5. Reality Crisis–Open Your Eyes
 B6. Reality Crisis–Last Count Down
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mFgWVarRYNc?si=xFjedn0Jj96hQ-zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mFgWVarRYNc?si=xFjedn0Jj96hQ-zU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

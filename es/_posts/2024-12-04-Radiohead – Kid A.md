@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Radiohead - Kid A.webp
 lang: es
 layout: post
+permalink: /es/2024-12-04-Radiohead – Kid A/
 tags:
 - Alternative Rock
 - Leftfield
 - IDM
 - Experimental
-title: Radiohead - Kid A
+title: Radiohead - Niño A
 ---
 
 
-UKのロックバンドRadiohead の2000年にリリースした4枚目のスタジオアルバム。プロデューサーはNigel Godrich(ナイジェル・ゴッドリッチ)。
+El cuarto álbum de estudio de la banda de rock británica Radiohead, lanzado en 2000. El productor es Nigel Godrich.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Everything In Its Right Place
 2. Kid A
@@ -31,8 +32,8 @@ UKのロックバンドRadiohead の2000年にリリースした4枚目のスタ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NUnXxh5U25Y?si=XDBa027cloU4NAt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUnXxh5U25Y?si=XDBa027cloU4NAt9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

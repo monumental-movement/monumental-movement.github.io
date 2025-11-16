@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Deep Forest – Deep Forest.webp
 lang: es
 layout: post
+permalink: /es/2025-02-21-Deep Forest – Deep Forest/
 tags:
 - New Age
 - Downtempo
 - Ambient
 - 90s
-title: Deep Forest – Deep Forest
+title: Bosque Profundo – Bosque Profundo
 ---
 
 
-Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)とÉric Mouquet(エリック・ムーケ)によって結成されたデュオ。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスした、エスニック・エレクトロニカと呼ばれるワールド・ミュージックのスタイルが特徴。
+Deep Forest es un dúo formado en 1992 por Michel Sanchez y Éric Mouquet. Se caracteriza por un estilo de música mundial llamado electrónica étnica, que es una mezcla de ritmos étnicos, electrónicos, dance y chillout.
 
-1992年にリリースされたこのアルバムは、グラミー賞のノミネートされ、「Sweet Lullaby」は世界的な大ヒットとなった。
+Lanzado en 1992, el álbum fue nominado a un premio Grammy y "Sweet Lullaby" se convirtió en un éxito mundial.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -33,7 +34,7 @@ Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)と�
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

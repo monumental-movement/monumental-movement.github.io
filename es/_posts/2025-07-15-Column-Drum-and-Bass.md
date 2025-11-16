@@ -5,90 +5,92 @@ categories:
 image: ../assets/images/column-drum-and-bass.webp
 lang: es
 layout: post
+permalink: /es/2025-07-15-Column-Drum-and-Bass/
 tags:
 - Drum n Bass
 - Jungle
-title: 【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学
+title: '[Columna] El impacto del Drum & Bass: Poéticas urbanas tejidas por el speed
+  y el bass'
 ---
 
 
-## 都市が産んだハイブリッド・ビート
+## Beat híbrido nacido en la ciudad.
 
-文：mmr｜テーマ：Drum & Bass・ジャングル・UKサウンドに関する考察
+Texto: mmr｜Tema: Pensamientos sobre el sonido Drum & Bass/Jungle/UK
 
 
-Drum & Bass（以下D&B）は、1990年代初頭のロンドンの地下クラブシーンで生まれた音楽ジャンルであり、同時に多文化的都市生活のリズムそのものである。高速ブレイクビート、唸るようなベースライン、レゲエ／ダブ／ヒップホップ／テクノなどを融合し、UKの音楽史に革新をもたらした。
+Drum & Bass (D&B) es un género musical nacido en la escena de clubes underground de Londres a principios de los años 90 y, al mismo tiempo, es el ritmo mismo de la vida urbana multicultural. Combinando ritmos rápidos, líneas de bajo rugientes y reggae/dub/hip-hop/techno, revolucionaron la historia de la música del Reino Unido.
 
-その進化は驚異的で、ジャングル、リキッドファンク、テックステップから、ニューロファンク、ジャンプアップ、ドラムステップまで、多くの枝分かれを見せている。
+Su evolución ha sido increíble, con muchas ramas que van desde el jungla, el liquid funk y el techstep hasta el neurofunk, el jump-up y el drumstep.
 
 
 <hr>
 
-### ジャングルからD&Bへ
+### De la jungla al D&B
 
-**● 1990〜1993：ジャングルの胎動**
+**● 1990-1993: Movimiento en la jungla**
 
-D&Bのルーツはジャングルというジャンルにある。これは、アシッド・ハウス、レイヴ、ヒップホップ、レゲエなどが混ざり合って生まれたカオス的ビート音楽であり、特にアーメン・ブレイク（Amen Break）のサンプリングが中核を成していた。
+Las raíces de D&B se encuentran en el género de la jungla. Se trataba de un ritmo caótico que era una mezcla de acid house, rave, hip-hop y reggae, y se centraba en una muestra de Amen Break.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 主要人物：
+#### Personajes principales:
 
-**Rebel MC / Congo Natty**：レゲエ的ルーツを色濃く残す。
+**Rebel MC / Congo Natty**: Sigue fuertemente influenciado por las raíces del reggae.
 
-**Shut Up and Dance**：ジャングルとヒップホップの橋渡し。
+**Shut Up and Dance**: Un puente entre la jungla y el hip-hop.
 
-**LTJ Bukem**：後のインテリジェントD&Bへとつながる。
+**LTJ Bukem**: Conduce a un D&B inteligente posterior.
 
-#### 1994〜1997：
+#### 1994-1997:
 
-**Drum & Bassの確立期**
+**Periodo de establecimiento de Drum & Bass**
 
-この時期からジャングルという呼称が次第にD&Bへと移行していく。これは、サウンドがより洗練され、サブベースやプロダクション技術が向上したことを意味する。クラブミュージックとしての機能性が高まり、シーンが成熟する。
+A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto significa un sonido más refinado, subgraves y técnicas de producción mejoradas. Su funcionalidad como música de club aumenta y la escena madura.
 
-#### 代表的アーティスト：
+#### Artistas representativos:
 
-**Goldie（Metalheadz）**：名作[『Timeless』](https://amzn.to/4nMAsF9)でD&Bを芸術に昇華。
+**Goldie (Metalheadz)**: Sublimó D&B al arte con la obra maestra ["Timeless"](https://amzn.to/4nMAsF9).
 
-**Roni Size / Reprazent**：ライブ演奏とジャズの融合を果たした[『New Forms』](https://amzn.to/3J3I7zN)でマーキュリー賞を受賞。
+**Roni Size / Reprazent**: Ganó el Premio Mercury por [``New Forms''](https://amzn.to/3J3I7zN), que fue una fusión de interpretación en vivo y jazz.
 
-**DJ Hype / Ganja Kru**：ジャンプアップ系サウンドの代表格。
+**DJ Hype / Ganja Kru**: Representante del sonido de salto.
 
 
 <hr>
 
-### 速度・重低音・分解の美学
+### Estética de velocidad, graves profundos y descomposición.
 
 <div class="table-border">
 <table>
   <thead>
     <tr>
-      <th>要素</th>
-      <th>内容</th>
+<th>elemento</th>
+<th>Contenido</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>テンポ（BPM）</td>
-      <td>約160〜180。クラブミュージックでは最速級。</td>
+<td>Tempo (BPM)</td>
+<td>Alrededor de 160-180. El más rápido en la música de club. </td>
     </tr>
     <tr>
-      <td>ブレイクビート</td>
-      <td>Amen、Funky Drummer、Apacheなどのサンプリングを多用</td>
+<td>Breakbeat</td>
+<td>Utiliza mucho sampleo de Amen, Funky Drummer, Apache, etc.</td>
     </tr>
     <tr>
-      <td>サブベース</td>
-      <td>身体に響く超低音が音楽の芯</td>
+<td>Subbase</td>
+<td>Los súper graves que resuenan con tu cuerpo son el núcleo de la música</td>
     </tr>
     <tr>
-      <td>リズム構造</td>
-      <td>シンコペーション、不規則性、断片化が特徴</td>
+<td>Estructura rítmica</td>
+<td>Caracterizado por síncopa, irregularidad y fragmentación</td>
     </tr>
     <tr>
-      <td>音響設計（Sound Design）</td>
-      <td>フィルター、リバーブ、ディストーションなどエフェクト処理が非常に重要</td>
+<td>Diseño de sonido</td>
+<td>El procesamiento de efectos como filtros, reverberación y distorsión es muy importante</td>
     </tr>
   </tbody>
 </table>
@@ -98,93 +100,93 @@ D&Bのルーツはジャングルというジャンルにある。これは、�
 
 <hr>
 
-### サブジャンル：多彩な顔を持つD&Bの世界
+### Subgénero: El mundo de D&B con sus múltiples caras
 
-**● ジャングル（Jungle）**
+**● Selva**
 
-D&Bの原点。ラガ・ボーカルやレゲエ・ベース、荒削りなブレイクが特徴。
+El origen de D&B. Presenta voces ragga, bajo reggae y pausas bruscas.
 
-**● テックステップ（Techstep）**
+**● Paso tecnológico**
 
-ダークでインダストリアル、無機質なサウンド。Ed Rush & Optical、Dom & Rolandなどが代表。
+Sonido oscuro, industrial, inorgánico. Los representantes incluyen a Ed Rush & Optical y Dom & Roland.
 
-**● ニューロファンク（Neurofunk）**
+**● Neurofunk**
 
-テックステップの進化形。神経質で歪んだベースラインが中心。Noisia、Phace、Mefjusなど。
+Evolución del paso tecnológico. Principalmente líneas de bajo nerviosas y distorsionadas. Noisia, Phace, Mefjus, etc.
 
-**● リキッドファンク（Liquid Funk）**
+**● Funk líquido**
 
-ジャズ、ソウル、R&Bの要素を取り入れたメロウなスタイル。Calibre、High Contrast、Netsky。
+Un estilo suave que incorpora elementos de jazz, soul y R&B. Calibre, Alto Contraste, Netsky.
 
-**● ジャンプアップ（Jump-Up）**
+**● Salto**
 
-キャッチーなベースとシンプルな構造でダンスフロア直結型。DJ Hazard、Sub Zeroなど。
+Con un bajo pegadizo y una estructura sencilla, se conecta directamente con la pista de baile. DJ Hazard, Sub Zero, etc.
 
-**● ドラムステップ（Drumstep）**
+**● Paso de tambor**
 
-ハーフタイムとダブステップの影響を受けたサブジャンル。Excision、Downlinkなど。
-
-
-<hr>
-
-### D&Bを支えた拠点
-
-**Metalheadz（Goldie）**：深みと知性を併せ持つ。
-
-**Hospital Records（Tony Colman aka London Elektricity）**：リキッドファンクの拠点。
-
-**Ram Records（Andy C）**：メインストリームを牽引。
-
-**Shogun Audio（Friction）**：幅広いスタイルをサポート。
-
-**Exit Records（dBridge）**：実験的かつ洗練された音を展開。
-
-また、Pirate Radio（海賊ラジオ）やRinse FMといった非公式メディアがD&Bの普及に果たした役割も大きい。
+Un subgénero influenciado por el entretiempo y el dubstep. Escisión, enlace descendente, etc.
 
 
 <hr>
 
-### UK多文化都市の音楽
+### La base que sostenía a D&B
 
-D&Bはロンドンやブリストルといった多民族都市で生まれ、移民文化、ストリートカルチャー、レイヴ文化が交錯する場所で育った。
+**Metalheadz (Goldie)**: Combina profundidad e inteligencia.
 
-**ブラック・ブリティッシュの影響**： サウンドシステム文化、レゲエ／ダブの手法。
+**Hospital Records (Tony Colman, también conocido como London Elektricity)**: El hogar del funk líquido.
 
-**白人労働者階級のDIY精神**： 海賊ラジオ、インディペンデントレーベル。
+**Ram Records (Andy C)**: Liderando la corriente principal.
 
-**テクノ／IDMとの交差**： Squarepusher、AutechreなどがD&B的リズムを展開。
+**Shogun Audio (Friction)**: Admite una amplia gama de estilos.
 
+**Exit Records (dBridge)**: Desarrollando sonidos experimentales y sofisticados.
 
-<hr>
-
-### ファッション・ライフスタイル
-
-**クラブウェア**： スポーツウェア、ナイロン、キャップ、ジャージ。
-
-**ストリート文化**： グラフィティ、スケート、ジャングリストの思想。
-
-**ヴィジュアル**： フューチャリスティックでサイバーパンク的。アートワークも重要。
+Además, medios no oficiales como Pirate Radio y Rinse FM jugaron un papel importante en la popularización de D&B.
 
 
 <hr>
 
-### 世界規模への拡張と分岐
+### Música de ciudades multiculturales del Reino Unido
 
-現在、D&Bは世界中のベース・ミュージックの基盤として君臨している。特にヨーロッパ（オーストリア、オランダ）、北米、日本、オーストラリアなどでシーンが確立。
+Nacido en ciudades multiétnicas como Londres y Bristol, D&B creció en la intersección de la cultura inmigrante, callejera y rave.
 
-**● 注目の現代アーティスト**
+**Influencia británica negra**: cultura sound system, técnicas de reggae/dub.
 
-**Noisia（解散済）**：神レベルのプロダクション技術。
+**El espíritu DIY de la clase trabajadora blanca**: radio pirata, sellos independientes.
 
-**Alix Perez**：ダブ〜ハーフステップまでこなす音の錬金術師。
-
-**Sub Focus / Wilkinson**：メインストリームとアンダーグラウンドを繋ぐ存在。
+**Cruce con techno/IDM**: Squarepusher, Autechre, etc. desarrollan ritmos D&B.
 
 
 <hr>
 
-### Drum & Bassとは“都市の心拍”である
+### Moda/Estilo de vida
 
-Drum & Bassは、単なるクラブ・ミュージックではない。それは都市に生きる人間たちの不安、希望、スピード、緊張、そして抵抗のビートである。
+**Clubwear**: Ropa deportiva, nylon, gorras, jerseys.
 
-この音楽は、分断された社会の中で人々をつなげ、動かし、考えさせる。ひとたびそのリズムに魅せられたなら、あなたの中にもD&Bが流れ始めるだろう。
+**Cultura callejera**: graffiti, patinaje e ideología jungla.
+
+**Visual**: Futurista y cyberpunk. Las obras de arte también son importantes.
+
+
+<hr>
+
+### Expansión y ramificación global
+
+Actualmente, D&B reina como la base de la música bass en todo el mundo. Las escenas están especialmente establecidas en Europa (Austria, Países Bajos), América del Norte, Japón y Australia.
+
+**● Artistas contemporáneos destacados**
+
+**Noisia (disuelta)**: tecnología de producción a nivel de Dios.
+
+**Alix Pérez**: Un alquimista sonoro que puede hacer de todo, desde doblaje hasta medio paso.
+
+**Sub Focus / Wilkinson**: Un vínculo entre lo convencional y lo underground.
+
+
+<hr>
+
+### Drum & Bass es el “latido del corazón de la ciudad”
+
+Drum & Bass es más que sólo música de club. Es el latido de la ansiedad, la esperanza, la velocidad, la tensión y la resistencia de la gente que vive en la ciudad.
+
+Esta música conecta, conmueve y hace pensar a la gente en una sociedad dividida. Una vez que te enamores del ritmo, D&B comenzará a fluir dentro de ti.

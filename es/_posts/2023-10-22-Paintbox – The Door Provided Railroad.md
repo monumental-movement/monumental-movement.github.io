@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Paintbox – The Door Provided Railroad.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Paintbox – The Door Provided Railroad/
 tags:
 - Hardcore
 - Punk
 - 7inch
-title: Paintbox – The Door  Provided Railroad
+title: 'Paintbox: el ferrocarril proporcionado por la puerta'
 ---
 
 
-1999年にHG Factレーベルよりリリースされた、Paintbox（ペイントボックス）の2nd 7インチ。録音はスタジオOur House。
+El segundo 7 pulgadas de Paintbox se lanzó en 1999 con el sello HG Fact. Grabado en el estudio Nuestra Casa.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. The Door
 
 B. Provided Railroad
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96596824271?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m96596824271?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/deSEdp0X3bc?si=_96F-52cDC5ktS8N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/deSEdp0X3bc?si=_96F-52cDC5ktS8N" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

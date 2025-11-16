@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Photon Inc – Project Blast.webp
 lang: es
 layout: post
+permalink: /es/2024-06-27-Photon Inc – Project Blast/
 tags:
 - House
 - Deep House
 - 90s
-title: Photon, Inc. – Project Blast
+title: Photon, Inc. – Proyecto Explosión
 ---
 
 
-Photon, Inc.は、シカゴ出身の DJ・プロデューサー DJ Pierre（DJ ピエール）の別名義。
+Photon, Inc. es el alias del DJ y productor DJ Pierre, nacido en Chicago.
 
-1995年にハウスレーベルStrictly Rhythm からリリースされた「Project: Blast」は、95年を代表するワイルドピッチハウス・ディープハウストラック。
+"Project: Blast", lanzado por el sello house Strictly Rhythm en 1995, es una pista wild pitch house/deep house que representa 1995.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Project: Blast (The Wild Pitch Mix)
 A2. Project: Blast (Wild Style Mix)
@@ -26,7 +27,7 @@ B1. Project: Blast (Whistle Blast Mix)
 B2. Project: Blast (Whistle Beats)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68166166565?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m68166166565?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DMtgzfUqmXg?si=X2DJQ_6lEqzYUbBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMtgzfUqmXg?si=X2DJQ_6lEqzYUbBr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Crystal Waters – The Boy From Ipanema.webp
 lang: es
 layout: post
+permalink: /es/2025-06-07-Crystal Waters – The Boy From Ipanema/
 tags:
 - Electronic
 - House
 - 90s
-title: Crystal Waters – The Boy From Ipanema
+title: Aguas Cristalinas – El chico de Ipanema
 ---
 
 
-Crystal Watersは、1990年代のヒット曲「Gypsy Woman(ジプシー・ウーマン)」、「100% Pure Love(100% ピュア・ラブ)」で知られるUSのハウス&ダンスミュージックシンガーソングライター。
+Crystal Waters es una cantautora estadounidense de música house y dance conocida por sus éxitos "Gypsy Woman" y "100% Pure Love" de la década de 1990.
 
-「The Boy From Ipanema」は、1996年にリリースされたハウストラック。
+"The Boy From Ipanema" es una canción house lanzada en 1996.
 
-A面は、House musicのDJ・プロデューサーFrankie Knuckles(フランキーナックルズ)のremix。
+La cara A es un remix del DJ y productor de música House Frankie Knuckles.
 
-B面は、House musicのDJ・プロデューサーTodd Terry(トッドテリー)のremix。
+La cara B es un remix del DJ y productor de música House Todd Terry.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. The Boy From Ipanema (Classic Club) 
 Remix – Frankie Knuckles
@@ -38,7 +39,7 @@ Remix – Todd Terry
 B3. The Boy From Ipanema (Original Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m37995544734?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jaKhbCm3vO4?si=7t-axcO91ppqTPsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jaKhbCm3vO4?si=7t-axcO91ppqTPsu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

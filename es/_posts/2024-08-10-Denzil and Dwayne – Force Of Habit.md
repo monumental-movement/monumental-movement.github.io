@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Denzil and Dwayne – Force Of Habit.webp
 lang: es
 layout: post
+permalink: /es/2024-08-10-Denzil and Dwayne – Force Of Habit/
 tags:
 - Trance
 - Anthem
 - 90s
-title: Denzil & Dwayne – Force Of Habit
+title: Denzil y Dwayne - La fuerza del hábito
 ---
 
 
-Denzil & Dwaynは、オランダのトランスプロデューサーでありArmada Musicの創設者の1人Maykel Pironとオランダのミュージシャン・音楽プロデューサーMichiel Van Der Kuyによるプロジェクト。
+Denzil & Dwayn es un proyecto de Maykel Piron, productor de trance holandés y uno de los fundadores de Armada Music, y Michiel Van Der Kuy, músico y productor musical holandés.
 
-「Force Of Habit」は、オランダのレーベルFlammableから1999年にリリースされたトランストラック。
+"Force Of Habit" es una pista de trance lanzada en 1999 por el sello holandés Flammable.
 
-A面は、オランダ人のトランスアーティストVincent de Moor（ヴィンセント・デ・ムーア）によるremix。Vincent de Moorは、音楽プロデューサーのFerry Corsten（フェリー・コーステン）とのユニット「Veracocha」としても活動している。
+La cara A es un remix del artista de trance holandés Vincent de Moor. Vincent de Moor también está activo como una unidad llamada "Veracocha" con el productor musical Ferry Corsten.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Force Of Habit (Vincent De Moor Remix)
 
@@ -27,7 +28,7 @@ B1. Force Of Habit (Cosmic Clayderman Remix)
 B2. Force Of Habit (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14093137625?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14093137625?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7TmC2m7m2CY?si=CTH8UpEEZPX3SorF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7TmC2m7m2CY?si=CTH8UpEEZPX3SorF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

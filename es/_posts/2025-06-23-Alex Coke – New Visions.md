@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Alex Coke – New Visions.webp
 lang: es
 layout: post
+permalink: /es/2025-06-23-Alex Coke – New Visions/
 tags:
 - Afro-Cuban Jazz
 - Experimental
 - 80s
-title: Alex Coke – New Visions
+title: Alex Coke – Nuevas visiones
 ---
 
 
-Alex Coke (アレックス・コーク)ことAlexander Seton Cokeは、ダラス出身のアメリカのジャズサックス奏者&フルート奏者。
+Alexander Seton Coke, también conocido como Alex Coke, es un saxofonista y flautista de jazz estadounidense de Dallas.
 
-Alex Cokeは、Gerald Wilson, Charles Tolliver, James Polk, Jay Rozenなど多くアーティストと共演している。1990年〜2000年は、オランダのジャズ作曲家・サックス演奏家Willem Breuker(ウィレム・ブロイカー)とツアーをおこなった。
+Alex Coke ha actuado con muchos artistas, incluidos Gerald Wilson, Charles Tolliver, James Polk y Jay Rozen. De 1990 a 2000 realizó una gira con el compositor y saxofonista de jazz holandés Willem Breuker.
 
-「New Visions」は、1981年にテキサスのLone Star Studio で収録され、1982年にレーベルRe RecordsからリリースされたファーストソロLP。
-A4とB3はインプロビゼーション(即興)。
+"New Visions" es su primer LP en solitario, grabado en Lone Star Studio en Texas en 1981 y lanzado con el sello Re Records en 1982.
+A4 y B3 son improvisaciones.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. By The River (Thinking Of 0)
 A2. Flexible Sunset
@@ -35,4 +36,4 @@ B3. Casey Jones
 B4. Sayonara
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}

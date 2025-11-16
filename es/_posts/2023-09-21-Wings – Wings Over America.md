@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Wings – Wings Over America.webp
 lang: es
 layout: post
+permalink: /es/2023-09-21-Wings – Wings Over America/
 tags:
 - Rock
-title: Wings – Wings Over America
+title: Alas – Alas sobre América
 ---
 
 
-「Wings - Wings Over America」は、1976年にリリースされたイギリスのロックバンド、ウイングス（Wings）のライブアルバム(LP3枚組)です。ウイングスは、元ビートルズのポール・マッカートニーが結成したバンドであり、その活動はビートルズの解散後に始まりました。
+"Wings - Wings Over America" ​​​​es un álbum en vivo (juego de 3 LP) de la banda de rock británica Wings, lanzado en 1976. Wings es una banda formada por el ex Beatle Paul McCartney, y sus actividades comenzaron después de la disolución de los Beatles.
 
-ウイングスのアメリカツアー（1976年）のライブ音源を収録しており、バンドのパフォーマンスとエネルギーを生き生きと捉えています。アルバムには、ウイングスのヒット曲やポール・マッカートニーのソロ作品など、幅広い楽曲が含まれています。
+Con grabaciones en vivo de la gira estadounidense de 1976 de Wings, captura vívidamente la actuación y la energía de la banda. El álbum incluye una amplia gama de canciones, incluidos éxitos de Wings y el trabajo solista de Paul McCartney.
 
-このアルバムは、ウイングスの人気と成功を象徴する作品で、ライブ演奏ならではの臨場感と、ウイングスの楽曲の魅力が詰まった作品として、ファンや音楽愛好家から高い評価を得ています。
+Este álbum es un trabajo que simboliza la popularidad y el éxito de Wings, y ha recibido grandes elogios de los fanáticos y amantes de la música como un trabajo lleno de la sensación de presencia que solo se puede lograr a través de la presentación en vivo y el encanto de las canciones de Wings.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Venus And Mars / Rock Show / Jet
 
@@ -76,7 +77,7 @@ F3. Hi, Hi, Hi
 F4. Soily
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

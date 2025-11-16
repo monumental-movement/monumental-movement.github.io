@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Various – Die Neuen Italo Superhits.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Various – Die Neuen Italo Superhits/
 tags:
 - Italo
 - Compilation
-title: Various – Die Neuen Italo Superhits
+title: Varios – Die Neuen Italo Superhits
 ---
 
 
-「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
+"Various – Die Neuen Italo Superhits" es un álbum recopilatorio lanzado por el sello alemán "Ariola" en 1987.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Morandi - Ruggeri - Tozzi–Si Può Dare Più
 
@@ -45,7 +46,7 @@ B4. Pupo - Fiordaliso–La Vita È Molto Di Più
 B5. Tony Esposito–Papa Chicoなど
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

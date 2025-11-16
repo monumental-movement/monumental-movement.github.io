@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Papa Dee – Island Rock.webp
 lang: es
 layout: post
+permalink: /es/2025-07-09-Papa Dee – Island Rock/
 tags:
 - Hiphop
 - Pops
 - 90s
-title: Papa Dee – Island Rock
+title: Papa Dee - Roca de la isla
 ---
 
 
-Papa Dee ことDavid Christopher Daniel Wahlgrenは、スウェーデン出身のラッパー。ragga(ラガ)、Dub(ダヴ)、dancehall(ダンスホール)、Reggae(レゲエ)、Hiphop(ヒップホップ)の要素をmixしたスタイルが特徴。
+David Christopher Daniel Wahlgren, también conocido como Papa Dee, es un rapero sueco. Su estilo es una mezcla de elementos de ragga, dub, dancehall, reggae y hip hop.
 
-「Island Rock」は、1998年にWEAからリリースされたPop Rapアルバム。共同プロデューサーは、スウェーデンのプロデューサーKent Gillström。
+"Island Rock" es un álbum de Pop Rap lanzado por WEA en 1998. El coproductor es el productor sueco Kent Gillström.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Endless Road
 2. Island Rock
@@ -34,7 +35,7 @@ Papa Dee ことDavid Christopher Daniel Wahlgrenは、スウェーデン出身�
 13. She's So Fine
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10533972601?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10533972601?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dFYU0IFnEic?si=Sj0scky_1yptpxvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dFYU0IFnEic?si=Sj0scky_1yptpxvV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Stellar Project Feat. Brandi Emma – Get Up Stand Up.webp
 lang: es
 layout: post
+permalink: /es/2024-03-25-Stellar Project Feat. Brandi Emma – Get Up Stand Up/
 tags:
 - House
 - Trance
 - 00s
-title: Stellar Project Feat. Brandi Emma – Get Up Stand Up
+title: Hazaña del proyecto estelar. Brandi Emma - Levántate, levántate
 ---
 
 
-Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
+Stellar Project es un proyecto de house/dance del productor italiano Stefano Sorrentino.
 
-A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。
+Side A es un remix del dúo italiano de DJ house/techno Phunk Investigation.
 
-B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren WeileのトランスプロジェクトF&Wによるremix。
+La primera pista de la cara B es un remix del productor danés Lars Frederiksen y el proyecto de trance F&W de Søren Weile.
 
-B面２曲目はUKのDJ Paul Jacksonによるremix。
+La segunda canción de la cara B es un remix del DJ británico Paul Jackson.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Get Up Stand Up (Phunk Investigation Vocal Mix)
 
@@ -30,7 +31,7 @@ B1. Get Up Stand Up (F&W Remix)
 B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XM-RRHx0t20?si=s218iIZvNKDTuHdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XM-RRHx0t20?si=s218iIZvNKDTuHdr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

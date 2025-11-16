@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Cosmic Gate – Human Beings.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Cosmic Gate – Human Beings/
 tags:
 - Trance
 - Hard Trance
-title: Cosmic Gate – Human Beings
+title: Puerta Cósmica – Seres Humanos
 ---
 
 
-「Cosmic Gate – Human Beings」の
-B面は2000年代初頭のヨーロッパダンスシーンでよく知られたトランスアクトG&M（Robert Gitelman & Jaron Martinez）によるremix。
+“Puerta Cósmica – Seres Humanos”
+La cara B es un remix de G&M (Robert Gitelman & Jaron Martinez), un grupo de trance muy conocido en la escena dance europea de principios de la década de 2000.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Human Beings (Extended Mix)
 
 B1 Human Beings (G&M Project Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58263086044?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m58263086044?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0YKPCbNBUTU?si=orDQep2j5CgtGkhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0YKPCbNBUTU?si=orDQep2j5CgtGkhI" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

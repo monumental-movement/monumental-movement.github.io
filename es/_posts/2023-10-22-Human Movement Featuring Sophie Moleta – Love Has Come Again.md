@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Human Movement Featuring Sophie Moleta – Love Has Come Again.webp
 lang: es
 layout: post
+permalink: /es/2023-10-22-Human Movement Featuring Sophie Moleta – Love Has Come Again/
 tags:
 - House
 - Tech House
-title: Human Movement Featuring Sophie Moleta – Love Has Come Again
+title: Movimiento Humano Con Sophie Moleta – Love Has Come Again
 ---
 
 
-Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。
+Human Movement es un proyecto de Marc Mitchell y Paul Mack de las Islas del Canal (Isla de Jersey) en el Reino Unido.
 
-「Love Has Come Again」は、UKのプログレッシブ・ハウス・レーベルRenaissanceより2001年にリリース。
+"Love Has Come Again" fue lanzado en 2001 por el sello británico de house progresivo Renaissance.
 
-RemixはPet Shop Boys(ペット・ショップ・ボーイズ)などのリミックスを手がけてた、ブルックリン出身の DJ Angel Moraes。
+Remix es del DJ Angel Moraes de Brooklyn, quien ha trabajado en remixes para Pet Shop Boys y otros.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Love Has Come Again (Angelstereomix)
 
@@ -29,7 +30,7 @@ B1. Love Has Come Again (Angel Moraes Orgasmic Dub)
 B2. Love Has Come Again (Angel Moraes Wah Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m81279883404?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/InSMtyCQbAY?si=khL9KAwv6hwDn28X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InSMtyCQbAY?si=khL9KAwv6hwDn28X" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

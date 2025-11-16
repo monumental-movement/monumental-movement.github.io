@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Scarfo – Scarfo.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Scarfo – Scarfo/
 tags:
 - Pops
 - Rock
-title: Scarfo – Scarfo
+title: Bufanda – Bufanda
 ---
 
 
-Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
+Scaro es una banda de rock británica formada en 1994 por Jamie Hince, Nick Prior y Al Saunders.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Eyesore
 
@@ -31,5 +32,5 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
 

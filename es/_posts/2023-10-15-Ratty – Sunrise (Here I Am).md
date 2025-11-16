@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Ratty – Sunrise (Here I Am).webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Ratty – Sunrise (Here I Am)/
 tags:
 - Trance
 - Hard Trance
-title: Ratty – Sunrise (Here I Am)
+title: Ratty – Amanecer (Aquí estoy)
 ---
 
 
-Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
+Ratty es el proyecto trance del artista alemán Scooter, que se especializa en happy hardcore, bouncy, techno, techno, trance y hardstyle.
 
-B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
+La cara B "Sunrise (Here I Am) (Instrumental)" es la versión original del sencillo de Scooter de 2000 "She's The Sun" llamado "Sunrise (Ratty's Inferno)".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -25,7 +26,7 @@ B1. Sunrise (Here I Am) (Dub Mix)
 B2. Sunrise (Here I Am) (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Elektrik Haze vs. Beck – Elektro Loser/
 tags:
 - Electro
 - Remix
-title: Elektrik Haze vs. Beck – Elektro Loser
+title: Elektrik Haze contra Beck – Elektro Loser
 ---
 
 
-「Elektro Loser」は、
-1994年にリリースされたBECK（ベック）のヒット曲「LOSER（ルーザー） 」をElektrik Hazeがエレクトロremixしたレコードです。
+"Elektro Loser" es
+Este es un disco de electro remix de Elektrik Haze de la exitosa canción de BECK "LOSER" lanzada en 1994.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Elektro Loser (Tek & Onex Mix)
 
@@ -24,7 +25,7 @@ A2. Elektro Loser (Elektribal Mix)
 B. Elektro Loser (Unity Level Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92554809496?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m92554809496?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fcp_MsapX7o?si=uC9T7juXY8AlZKRH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fcp_MsapX7o?si=uC9T7juXY8AlZKRH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

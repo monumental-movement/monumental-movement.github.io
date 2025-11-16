@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Brainkiller – Brainkiller.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Brainkiller – Brainkiller/
 tags:
 - Speedcore
 - Hardcore
-title: Brainkiller – Brainkiller
+title: Asesino de cerebros – Asesino de cerebros
 ---
 
 
-Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。
+Brainkiller es un acto de hard techno de Michael Bogdanski, Frank Behrens y MiBo (Michael B.).
 
-「Brainkiller」は、Mike Hoppe (Roy Batty)によって設立されたドイツのレーベルF%@#ing Loud!より1994年にリリースされた。
+"Brainkiller" fue lanzado en 1994 en el sello alemán F%@#ing Loud!, fundado por Mike Hoppe (Roy Batty).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Pure Energy
 
@@ -27,7 +28,7 @@ B1. Cooler Heimattrack
 B2. Wonderland
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E-oDUFarvJQ?si=SYoHzHyZzA-SBYRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E-oDUFarvJQ?si=SYoHzHyZzA-SBYRR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Christiane F. Christiana – Wunderbar Health Dub.webp
 lang: es
 layout: post
+permalink: /es/2025-08-14-Christiane F. Christiana – Wunderbar  Health Dub/
 tags:
 - Electro
 - Synth-pop
 - Leftfield
 - 00s
-title: Christiane F. Christiana – Wunderbar Health Dub
+title: Christiane F. Christiana - Doblaje de salud de Wunderbar
 ---
 
 
-自伝的書籍「Christiane F. 」原題 『Wir Kinder vom Bahnhof Zoo』や映画などで知られるChristiane Vera FelscherinowによるChristiane F. ／Christiana名義でのElectro／Synth-pop／Leftfieldトラック。ドイツのレーベルPlayhouseから2003年にリリースされた。
+Pistas de electro/synth-pop/Leftfield bajo el nombre de Christiane F./Christiana de Christiane Vera Felscherinow, conocida por el libro autobiográfico "Christiane F". y la película "Wir Kinder vom Bahnhof Zoo". Fue lanzado en 2003 por el sello alemán Playhouse.
 
-Christiane F の音楽活動には、Einstürzende Neubauten(アインシュテュルツェンデ・ノイバウテン)のAlexander Hacke(アレクサンダー・ハッケ)やF.M. Einheitが深く関わっていた。
+Alexander Hacke de Einstürzende Neubauten y F.M. Einheit estuvo profundamente involucrado en las actividades musicales de Christiane F.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Christiane F. – Wunderbar
 
 B. Christiana – Health Dub
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23448977294?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23448977294?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D21VqhAdX0A?si=Sm2EOg6cy2p4XmPi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D21VqhAdX0A?si=Sm2EOg6cy2p4XmPi" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

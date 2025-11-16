@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Marco Sfogli – reMarcoble.webp
 lang: es
 layout: post
+permalink: /es/2025-04-25-Marco Sfogli – reMarcoble/
 tags:
 - Rock
 - UK
@@ -13,12 +14,12 @@ title: Marco Sfogli – reMarcoble
 ---
 
 
-Marco Sfogli(マルコ・スフォーリ)は、イタリアのギタリスト。USのプログレッシブメタルバンドDream Theater (ドリームシアター)のJames LaBrie(ジェイムズ・ラブリエ)、PFM、Icefish等と共演している。
+Marco Sfogli es un guitarrista italiano. Ha actuado con James LaBrie de la banda estadounidense de metal progresivo Dream Theater, PFM, Icefish y otros.
 
-2012年にJTC Recordsからリリースされたこのアルバムは、Marco Sfogliの2枚目のソロアルバム。
+Este álbum, lanzado por JTC Records en 2012, es el segundo álbum en solitario de Marco Sfogli.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Intro
 2. Jester's Tears
@@ -33,7 +34,7 @@ Marco Sfogli(マルコ・スフォーリ)は、イタリアのギタリスト。
 11. The Barbarian
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

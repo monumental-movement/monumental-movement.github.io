@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/DJ Quicksilver – Cosmophobia.webp
 lang: es
 layout: post
+permalink: /es/2024-06-29-DJ Quicksilver – Cosmophobia/
 tags:
 - Trance
 - Anthem
 - 90s
-title: DJ Quicksilver – Cosmophobia
+title: DJ Quicksilver – Cosmofobia
 ---
 
 
-DJ Quicksilver（DJクイックシルバー）は、ドイツ系トルコ人のプロデューサー・DJ。代表曲に「Bellissima」や「Ameno」などがある。Ian van Dahl, Faithless（フェイスレス）,  The Verve（ザ・ヴァーヴ）のリミキサーとしても活動している。
+DJ Quicksilver es un productor y DJ alemán-turco. Las canciones representativas incluyen "Bellissima" y "Ameno". También trabaja como remezclador para Ian van Dahl, Faithless y The Verve.
 
-「Cosmophobia」は1999年にドイツのトランスレーベルUnderdogからリリースされたトランストラック。A面のボーカルはドイツ語、B面のボーカルは英語となっている。
+"Cosmophobia" es una pista de trance lanzada por el sello de trance alemán Underdog en 1999. Las voces de la cara A están en alemán y las voces de la cara B están en inglés.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Cosmophobia (R.B. Mix)
 
 B. Cosmophobia (C.J. Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90425538979?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90425538979?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a806CTNbSrU?si=BZpIfgRQ9eocgbUC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a806CTNbSrU?si=BZpIfgRQ9eocgbUC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

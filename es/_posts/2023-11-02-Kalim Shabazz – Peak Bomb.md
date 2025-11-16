@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Kalim Shabazz – Peak Bomb.webp
 lang: es
 layout: post
+permalink: /es/2023-11-02-Kalim Shabazz – Peak Bomb/
 tags:
 - House
 - Minimal
-title: Kalim Shabazz – Peak Bomb
+title: Kalim Shabazz – Bomba pico
 ---
 
 
-Kalim Shabazz（カリム・シャバズ）は、ニューヨークを拠点とするDJ兼プロデューサー。Nick Jones（ニック ジョーンズ）と共にSoul Movement
-（Moments Of Soul）としても活動。
+Kalim Shabazz es un DJ y productor afincado en Nueva York. Movimiento del alma con Nick Jones
+También activo como (Moments Of Soul).
 
-B面は、ドイツ出身でベルリンを拠点に活動するハウスDJ/プロデューサー Phonique(フォニック）ことMichael Vaterによるremix。
+La cara B es un remix de Michael Vater, también conocido como Phonique, un DJ y productor de house nacido en Alemania y radicado en Berlín.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Peak Bomb (Original Mix)
 
 B. Peak Bomb (Phonique Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35106793909?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35106793909?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ8c216Rq7o?si=F8coC7yOKqYSh_8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ8c216Rq7o?si=F8coC7yOKqYSh_8A" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

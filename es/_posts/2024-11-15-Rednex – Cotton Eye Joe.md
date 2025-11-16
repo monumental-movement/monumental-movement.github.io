@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Rednex – Cotton Eye Joe.webp
 lang: es
 layout: post
+permalink: /es/2024-11-15-Rednex – Cotton Eye Joe/
 tags:
 - House
 - Euro House
 - Synth-pop
-title: Rednex – Cotton Eye Joe
+title: Rednex – Algodón Ojo Joe
 ---
 
 
-Rednex – Cotton Eye Joe
+Rednex – Algodón Ojo Joe
 
-レッドネックス - コットンアイジョー
+Campesinos sureños - Cotton Eye Joe
 
-#### Tracklist
+#### Lista de canciones
 ```md
 Hatfield Side
 A1. Cotton Eye Joe (Madcow Mix)
@@ -30,7 +31,7 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m58300098495?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

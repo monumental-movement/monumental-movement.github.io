@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Pearl Jam – Yield.webp
 lang: es
 layout: post
+permalink: /es/2025-05-01-Pearl Jam – Yield/
 tags:
 - Rock
 - Grunge
 - Alternative Rock
 - 90s
-title: Pearl Jam – Yield
+title: Mermelada de perlas – Rendimiento
 ---
 
 
-Pearl Jam(パール・ジャム)は、1990年にシアトルで結成されたアメリカのロックバンド。サウンドガーデンやニルヴァーナ等と共に90年代初頭のグランジ運動の主要なバンドとして知られており、「90年代で最も人気のあるアメリカのロックンロールバンド」と言われている。
+Pearl Jam es una banda de rock estadounidense formada en Seattle en 1990. Son conocidos como una de las principales bandas del movimiento grunge de principios de los 90, junto con Soundgarden y Nirvana, y se dice que son "la banda estadounidense de rock and roll más popular de los 90".
 
-1998年にリリースしたPearl Jam 5枚目のスタジオアルバム「Yield(イールド)」は、バンド初期の率直なロックサウンドへの回帰を感じる仕上がりになっている。プロデューサーとしてBrendan O'Brien(ブレンダン・オブライエン)が参加している。
+El quinto álbum de estudio de Pearl Jam, "Yield", lanzado en 1998, se siente como un regreso al sonido rock directo de los primeros días de la banda. Brendan O'Brien participa como productor.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Brain Of J
 2. Faithful
@@ -36,7 +37,7 @@ Pearl Jam(パール・ジャム)は、1990年にシアトルで結成された�
 13. All Those Yesterdays
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

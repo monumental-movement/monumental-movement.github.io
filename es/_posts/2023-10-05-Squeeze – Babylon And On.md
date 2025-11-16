@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Squeeze – Babylon And On.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-Squeeze – Babylon And On/
 tags:
 - Rock
 - Post Punk
-title: Squeeze – Babylon And On
+title: Apretar - Babilonia y más
 ---
 
 
-Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
+Este álbum "Babylon And On" de Squeeze fue producido por Eric "ET" Thorngren y Glenn Tilbrook.
 
-このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
+El álbum alcanzó el puesto 14 en la lista de álbumes del Reino Unido, la clasificación más alta para un álbum de Squeeze fuera de la compilación Greatest Hits.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Hourglass
 
@@ -43,7 +44,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Track Star -Sometimes, What's The Difference.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Track Star -Sometimes, Whats The Difference/
 tags:
 - Rock
 - Noise
 - 10inch
-title: Track Star -Sometimes, What's The Difference
+title: 'Track Star: a veces, ¿cuál es la diferencia?'
 ---
 
 
-1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
+Este es un disco de 10 pulgadas de Brian Girgus, Matthew Troy y la banda Track Star de Wyatt Cusick, lanzado en 1995 por Silver Girl Records de San Diego.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Bad Time
 
@@ -36,7 +37,7 @@ B4  True Crime
 B5  Sucked Down
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Junior Vasquez – Twilo Volume 1.webp
 lang: es
 layout: post
+permalink: /es/2024-12-18-Junior Vasquez – Twilo Volume 1/
 tags:
 - House
 - Mix
 - DJMix
 - 00s
-title: Junior Vasquez – Twilo Volume 1
+title: Junior Vásquez – Twilo Volumen 1
 ---
 
 
-2000年にVirginからリリースされたDJ Junior Vasquez によるHouse ミックス2枚組。
+Un conjunto de 2 discos de mezclas House de DJ Junior Vasquez lanzado por Virgin en 2000.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1-01. Pre YMO – InDo (Junior Vasquez Remix)
 1-02. Bobby Slate – Floating Higher
@@ -41,7 +42,7 @@ title: Junior Vasquez – Twilo Volume 1
 2-09. Zelma Davis – The Power (Junior Vasquez Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m88730253725?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TXYsBCm8z40?si=x5KTgKy1y4bJH9Sp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Guniw Tools – Dazzle.webp
 lang: es
 layout: post
+permalink: /es/2025-11-07-Guniw Tools – Dazzle/
 tags:
 - Industrial
 - Electro
 - Experimental
 - 90s
-title: Guniw Tools – Dazzle
+title: Herramientas Guniw – Deslumbrante
 ---
 
 
-Guniw Tools(グニュウ ツール)は、1990年代初頭から活動するバンド。小道具、撮影、編集等などを自ら行い、全てのアルバムを映像化するという視覚と聴覚で世界観を表現するスタイルが特徴。
+Guniw Tools es una banda que ha estado activa desde principios de los noventa. Su estilo único es utilizar accesorios, fotografía, edición, etc., y visualizar todos sus álbumes, expresando su visión del mundo de forma visual y auditiva.
 
-このCDは、レーベルHappy Houseから1998年にリリースしたオリジナル盤「Dazzle」。オリジナル盤にのみ付属する3Dステッカー付き
+Este CD es la versión original "Dazzle" lanzada en 1998 por el sello Happy House. Viene con una pegatina 3D que viene sólo con la versión original.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Border Of Taboo
 2. Baby's One Do
@@ -32,7 +33,7 @@ Guniw Tools(グニュウ ツール)は、1990年代初頭から活動するバ�
 10. Hush And...
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Vrw2QctRtc?si=17VEFOjkl1vEoxxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Vrw2QctRtc?si=17VEFOjkl1vEoxxJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

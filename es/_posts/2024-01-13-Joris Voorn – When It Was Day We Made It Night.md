@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Joris Voorn – When It Was Day We Made It Night.webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Joris Voorn – When It Was Day We Made It Night/
 tags:
 - Techno
 - Tech House
 - 00s
-title: Joris Voorn – When It Was Day We Made It Night
+title: Joris Voorn – Cuando era de día, lo hicimos de noche
 ---
 
 
-Joris Voorn（ヨリス・ヴォーン）はオランダのアムステルダム出身DJ、プロデューサー、リミキサー。1997年以来、ハウスとテクノに専念している。
+Joris Voorn es un DJ, productor y remezclador de Ámsterdam, Países Bajos. Desde 1997 se dedica al house y al techno.
 
-レーベルGreenとRejectedの設立者の一人。
+Uno de los fundadores de los sellos Green y Rejected.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Minor
 
@@ -28,7 +29,7 @@ B1. Decay
 B2. When It Was Day We Made It Night
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m54807852331?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m54807852331?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62zBsPUaQF4?si=mUdki_KlAE-2yo9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62zBsPUaQF4?si=mUdki_KlAE-2yo9X" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

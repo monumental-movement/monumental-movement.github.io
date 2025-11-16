@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Tracy Chapman – Tracy Chapman.webp
 lang: es
 layout: post
+permalink: /es/2024-12-18-Tracy Chapman – Tracy Chapman/
 tags:
 - Folk Rock
 - Rock
@@ -13,11 +14,11 @@ title: Tracy Chapman – Tracy Chapman
 ---
 
 
-Tracy Chapman(トレイシー・チャップマン)は、ヒットシングル「Fast Car」（1988年）と「Give Me One Reason」（1995年）で広く知られているUSのシンガーソングライター。
+Tracy Chapman es una cantautora estadounidense ampliamente conocida por sus exitosos sencillos "Fast Car" (1988) y "Give Me One Reason" (1995).
 
-「Tracy Chapman」は1988年にElektraレコーズからリリースされたデビューアルバム。ネルソン・マンデラの70歳の誕生日トリビュートコンサートへの出演により成功を収め、プラチナ認定、アルバム・オブ・ザ・イヤーを含む6つのグラミー賞にノミネートされ、そのうち3つはベスト・ニュー・アーティスト、シングル「Fast Car」でベスト・フェミニン・ポップ・ボーカル・パフォーマンス、ベスト・コンテンポラリー・フォーク・アルバムを受賞した。
+"Tracy Chapman" es su álbum debut lanzado por Elektra Records en 1988. Su exitosa aparición en el concierto tributo por el 70 cumpleaños de Nelson Mandela le valió una certificación de platino y seis nominaciones al Grammy, incluido Álbum del año, tres de las cuales fueron a Mejor Artista Nuevo, Mejor Interpretación Vocal Pop Femenina por el sencillo "Fast Car" y Mejor Álbum Folk Contemporáneo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Talkin' Bout A Revolution
 2. Fast Car
@@ -32,7 +33,7 @@ Tracy Chapman(トレイシー・チャップマン)は、ヒットシングル�
 11. For You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AIOAlaACuv4?si=nw_2eBExIA760JgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AIOAlaACuv4?si=nw_2eBExIA760JgM" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

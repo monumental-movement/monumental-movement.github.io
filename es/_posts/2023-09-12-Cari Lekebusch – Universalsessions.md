@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Cari Lekebusch – Universalsessions.webp
 lang: es
 layout: post
+permalink: /es/2023-09-12-Cari Lekebusch – Universalsessions/
 tags:
 - Techno
 - Electro
@@ -13,11 +14,11 @@ title: Cari Lekebusch – Universalsessions - Instrumentalicks
 ---
 
 
-Cari Lekebuschによる1999年のリリースです。Side Bは特に素晴らしいエレクトロです。
+Un lanzamiento de 1999 de Cari Lekebusch. El lado B es especialmente bueno en electro.
 
-ダークなメロディが静けさを感じさせるトラックです。
+Es un tema con una melodía oscura que te da una sensación de tranquilidad.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Conrad 4 (Instrumental)
 
@@ -25,7 +26,7 @@ A. Conrad 4 (Instrumental)
 B. Video Hi 8 (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_FL1xA0fprs?si=cODlm3AUCIhxinaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_FL1xA0fprs?si=cODlm3AUCIhxinaI" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/The Communards – Red.webp
 lang: es
 layout: post
+permalink: /es/2023-10-06-The Communards – Red/
 tags:
 - Synth-Pop
 - Pops
-title: The Communards – Red
+title: Los comuneros – Rojo
 ---
 
 
-「Red」は、イギリスの音楽デュオ、The Communardsのアルバムです。このアルバムは1987年にリリースされました。The Communardsは、Jimmy SomervilleとRichard Colesによって結成されたバンドで、ダンスポップやシンセポップの要素を取り入れた音楽で知られています。
+"Red" es un álbum del dúo musical británico The Communards. Este álbum fue lanzado en 1987. The Communards es una banda formada por Jimmy Somerville y Richard Coles, conocidos por su música que incorpora elementos de dance-pop y synth-pop.
 
-「Red」は、The Communardsのデビューアルバムであり、彼らの最も成功した作品の一つとして広く認知されています。アルバムには、感情的なヴォーカルとダンサブルなビートが特徴の楽曲が収録されています。
+"Red" es el álbum debut de The Communards y es ampliamente considerado como uno de sus trabajos más exitosos. El álbum presenta canciones con voces emotivas y ritmos bailables.
 
-アルバムには、ヒットシングル「Don't Leave Me This Way」や「Never Can Say Goodbye」などが含まれています。これらの楽曲は、The Communardsの特徴的なサウンドと、ダンスフロアでの人気を受けて商業的にも成功を収めました。
+El álbum incluye sencillos exitosos como "Don't Leave Me This Way" y "Never Can Say Goodbye". Estas canciones tuvieron éxito comercial debido al sonido distintivo de The Communards y su popularidad en la pista de baile.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Tomorrow
 
@@ -41,7 +42,7 @@ B4I. f I Could Tell You
 B5. C Minor
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m61578510071?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/79nhyK2yiZw?si=4MpDc6b35bTgNX59" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79nhyK2yiZw?si=4MpDc6b35bTgNX59" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

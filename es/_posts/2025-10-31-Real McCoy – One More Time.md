@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Real McCoy – One More Time.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-Real McCoy – One More Time/
 tags:
 - Euro House
 - House
 - 90s
-title: Real McCoy – One More Time
+title: Real McCoy - Una vez más
 ---
 
 
-1997年にリリースされた「One More Time」は、ドイツのユーロハウスアクトReal McCoyの4枚目のスタジオアルバム。
+One More Time, lanzado en 1997, es el cuarto álbum de estudio del grupo alemán Eurohouse Real McCoy.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. One More Time (Original Radio Mix)
 2. Give A Little Love
@@ -34,7 +35,7 @@ title: Real McCoy – One More Time
 15. Start Loving Me
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1EbRikt1bJo?si=dT0wZFAiUl6sF6_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1EbRikt1bJo?si=dT0wZFAiUl6sF6_9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

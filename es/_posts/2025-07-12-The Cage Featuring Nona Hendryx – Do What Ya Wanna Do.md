@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/The Cage Featuring Nona Hendryx – Do What Ya Wanna Do.webp
 lang: es
 layout: post
+permalink: /es/2025-07-12-The Cage Featuring Nona Hendryx – Do What Ya Wanna Do/
 tags:
 - Disco
 - 80s
-title: The Cage Featuring Nona Hendryx – Do What Ya Wanna Do
+title: The Cage con Nona Hendryx – Haz lo que quieras hacer
 ---
 
 
-The Cageは、Nona Hendryx を中心に結成されたバンドで、制作にはニューロマンティックの発祥のバンドとして名が高いイギリスのシンセポップ・グループVisage(ヴィサージ)のメンバーだった Rusty Egan（ドラム）、Steve Barnacle（ベース／ギター）、Gary Barnacle（サックス／シンセ）が参加している。
+The Cage es una banda formada principalmente por Nona Hendryx, con la participación de Rusty Egan (batería), Steve Barnacle (bajo/guitarra) y Gary Barnacle (saxofón/sintetizador), quienes fueron miembros del grupo británico de synth pop Visage, famoso por ser el lugar de nacimiento del movimiento New Romantic.
 
-1982年にリリースされた「Do What Ya Wanna Do」は、1977年にT-ConnectionがリリースしたDiscoトラックをFunk Discoテイストにアレンジしたカヴァーヴァージョン。ディスコ・シーンとポストパンクのクロスオーバーとして高く評価されている。
+"Do What Ya Wanna Do", lanzado en 1982, es una versión de una pista disco lanzada por T-Connection en 1977, arreglada en estilo Funk Disco. Es muy aclamado como un cruce entre la escena disco y el post-punk.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Do What Ya Wanna Do (Long Version)
 
@@ -25,7 +26,7 @@ B1. Do What Ya Wanna Do (Dub Version)
 B2. The Slammer
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oXh3LAE2hV8?si=wzW_jCfptCuLZbv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oXh3LAE2hV8?si=wzW_jCfptCuLZbv2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

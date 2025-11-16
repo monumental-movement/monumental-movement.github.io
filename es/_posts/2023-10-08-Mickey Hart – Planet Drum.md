@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Mickey Hart – Planet Drum.webp
 lang: es
 layout: post
+permalink: /es/2023-10-08-Mickey Hart – Planet Drum/
 tags:
 - Tribal
 - Ambient
-title: Mickey Hart – Planet Drum
+title: Mickey Hart - Planeta tambor
 ---
 
 
-「プラネット・ドラム」は、ロックバンドであるグレイトフル・デッドのメンバーであった音楽家兼音楽学者、ミッキー・ハートによるワールドミュージックのアルバムです。
+``Planet Drums'' es un álbum de música mundial de Mickey Hart, un músico y musicólogo que fue miembro de la banda de rock Grateful Dead.
 
-コンセプトは、世界中のパーカッショニストとともにドラムミュージックを演奏し、彼らの異なる音楽スタイルと伝統を新しいグローバルなサウンドに取り入れることでした。このアルバムに参加したミュージシャンは、アメリカ本土（ミッキー・ハート）、プエルトリコ（ジョヴァンニ・イダルゴとフランク・コロン）、インド（ザキール・フセインとT.H. "ヴィック" ヴィナヤクラム）、ナイジェリア（シキル・アデポジュとババトゥンデ・オラトゥンジ）、ブラジル（アートゥ・モレイラと彼の妻、ボーカリストのフローラ・プリム）から集まりました。
+El concepto era tocar música de batería con percusionistas de todo el mundo e incorporar sus diferentes estilos y tradiciones musicales en un nuevo sonido global. Los músicos que participaron en este álbum provinieron de Estados Unidos continental (Mickey Hart), Puerto Rico (Giovanni Hidalgo y Frank Colon), India (Zakir Hussain y T.H. "Vic" Vinayakram), Nigeria (Sikiru Adepoju y Babatunde Olatunji) y Brasil (Aatu Moreira y su esposa, la vocalista Flora Purim).
 
-1991年のグラミー賞で最優秀ワールドミュージックアルバム賞を受賞しました。
+Ganó el premio al Mejor Álbum de Músicas del Mundo en los premios Grammy de 1991.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Udu Chant
 
@@ -47,7 +48,7 @@ B5. Iyanu
 B6. Mysterious Island
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30826670023?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30826670023?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fICEZNkhA1k?si=jo8IfirSq0cnkKyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fICEZNkhA1k?si=jo8IfirSq0cnkKyo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

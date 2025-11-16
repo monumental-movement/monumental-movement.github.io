@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Eve Gallagher – Love Is A Master Of Disguise.webp
 lang: es
 layout: post
+permalink: /es/2024-06-20-Eve Gallagher – Love Is A Master Of Disguise/
 tags:
 - Downtempo
 - Garage House
 - 90s
-title: Eve Gallagher – Love Is A Master Of Disguise
+title: Eve Gallagher - El amor es un maestro del disfraz
 ---
 
 
-Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。
+Eve Gallagher es una cantante de música house del Reino Unido.
 
-「Love Is A Master Of Disguise」は2枚目のシングルで、プロデューサーはMark Brydon。A面とB面１曲目はFrankie Knuckles（フランキー ナックルズ）がプロデューサーとして参加し、B面３曲目はプロデュースグループBrothers In RhythmのSteve Anderson（スティーブ アンダーソン）がremixしている。
+"Love Is A Master Of Disguise" es el segundo sencillo, producido por Mark Brydon. Frankie Knuckles participó como productor de la primera pista de la cara A y la cara B, y la tercera pista de la cara B fue remezclada por Steve Anderson del grupo de producción Brothers In Rhythm.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Love Is A Master Of Disguise (Classic Club Mix)
 A2. Love Is A Master Of Disguise (Master Suite Mix)
@@ -28,7 +29,7 @@ B2. Love Is A Master Of Disguise (The Cause & Effect Mix)
 B3. Love Is A Master Of Disguise (The Project Ozma Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Tukan – Light A Rainbow.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Tukan – Light A Rainbow/
 tags:
 - Trance
 - German Trance
-title: Tukan – Light A Rainbow
+title: Tukan – Enciende un arcoíris
 ---
 
 
-Tukan（トゥカン）は、デンマーク出身のプロデューサー、Lars Frederiksen（ラース・フレデリクセン）とSøren Weile（ソーレン・ヴァイレ）からなるトランスプロジェクト。Zekt、ATNなどの別名義でも活動。
+Tukan es un proyecto de trance formado por los productores daneses Lars Frederiksen y Søren Weile. También trabaja con otros nombres como Zekt y ATN.
 
-「Light A Rainbow」は、ドイツのトランス/ハードトランスレーベルDrizzlyから2000年にリリースされ、当時のクラブヒットとなりクラブやパーティーで頻繁にプレイされた。
+"Light A Rainbow" fue lanzado por el sello alemán de trance/hard trance Drizzly en 2000 y se convirtió en un éxito de discoteca en ese momento, tocado a menudo en clubes y fiestas.
 
-A面はドイツのトランスアーティストGreen Courtによるremix。B面２曲目はドイツ出身のDJ Worris（Lars Höhler）によるremix。
+Side A es un remix del artista de trance alemán Green Court. La segunda canción de la cara B es un remix del DJ alemán Worris (Lars Höhler).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Light A Rainbow (Green Court Feat. Marc Dawn 12" Mix)
 
@@ -27,7 +28,7 @@ B1. Light A Rainbow (Tukan's Original Mix)
 B2. Light A Rainbow (DJ Worris Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77518561932?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I2zNe3nM1ZM?si=sSeJEJjffA6RxEyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2zNe3nM1ZM?si=sSeJEJjffA6RxEyB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

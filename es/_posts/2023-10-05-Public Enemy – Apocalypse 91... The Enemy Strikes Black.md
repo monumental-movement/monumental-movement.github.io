@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Black.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-Public Enemy – Apocalypse 91... The Enemy Strikes Black/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Apocalypse 91... The Enemy Strikes Black
+title: Public Enemy – Apocalipsis 91... El enemigo ataca negro
 ---
 
 
-「Apocalypse 91... The Enemy Strikes Black」は、先行アルバム「Fear of a Black Planet」の成功を受けて制作された作品です。アルバムのタイトルは、「黒人の権利や社会的な不平等についての闘いを続ける」というメッセージを込めています。
+"Apocalypse 91... The Enemy Strikes Black" sigue el éxito de su álbum anterior "Fear of a Black Planet". El título del álbum transmite el mensaje de "continuar la lucha contra los derechos de los negros y la desigualdad social".
 
-このアルバムには、パブリック・エナミーのシグネチャーサウンドである鋭いビート、強力なベースライン、政治的なメッセージが詰まった歌詞が特徴です。
+El álbum presenta el sonido característico de Public Enemy: ritmos nítidos, líneas de bajo poderosas y letras con carga política.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lost At Birth
 
@@ -47,7 +48,7 @@ B6. Get The F--- Outta Dodge
 B7. Bring Tha Noize
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sc0UsEc04S0?si=iEMgU4__uj2DTWA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sc0UsEc04S0?si=iEMgU4__uj2DTWA7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

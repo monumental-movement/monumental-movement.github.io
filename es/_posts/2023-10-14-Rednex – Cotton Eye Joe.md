@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Rednex – Cotton Eye Joe.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Rednex – Cotton Eye Joe/
 tags:
 - Euro House
 - Synth-Pop
-title: Rednex – Cotton Eye Joe
+title: Rednex – Algodón Ojo Joe
 ---
 
 
-Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
+Rednex es un grupo sueco de Eurodance cuyo estilo musical es una combinación de música country estadounidense y Eurodance.
 
-「Cotton Eye Joe」は、アメリカの民謡「コットン・アイド・ジョー」をベースにバンジョーやフィドルを取り入れたユーロハウスで、世界的なヒットとなった。
+"Cotton Eye Joe" es una canción house europea basada en la canción popular estadounidense "Cotton Eyed Joe" que incorpora banjo y violín y se convirtió en un éxito mundial.
 
-remixには、Armand Van Helden（アーマンド・ヴァン・ヘルデン）Jeremy Healy（ジェレミー・ヒーリー）が参加。
+Armand Van Helden y Jeremy Healy participarán en el remix.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Cotton Eye Joe (Madcow Mix)
 
@@ -33,7 +34,7 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mOYZaiDZ7BM?si=HPLMf_KSsF_nLXF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mOYZaiDZ7BM?si=HPLMf_KSsF_nLXF3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

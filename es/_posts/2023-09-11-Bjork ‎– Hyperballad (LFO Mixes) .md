@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Björk – Hyperballad (LFO Mixes).webp
 lang: es
 layout: post
+permalink: /es/2023-09-11-Bjork ‎– Hyperballad (LFO Mixes) /
 tags:
 - Techno
 - 10inch
 - Electronic
-title: Björk – Hyperballad (LFO Mixes)
+title: Björk – Hyperballad (mezclas LFO)
 ---
 
 
-1995年にリリースされたビョークのセカンドアルバムに収録の名曲をあのLFOがリミックス。
+LFO remezcla la famosa canción del segundo álbum de Björk lanzado en 1995.
 
-エクスペリメンタルなサウンドで魅力的な2ミックスが収録されたエレクトロニック・クラシックの秀作です。
+Se trata de una excelente pieza de música clásica electrónica que incluye dos atractivas mezclas con un sonido experimental.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Hyperballad (Disco Sync Mix)
 
@@ -25,7 +26,7 @@ A. Hyperballad (Disco Sync Mix)
 B. Hyperballad (The Stomp Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51141432858?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m51141432858?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xENFEImvqnw?si=_VNmmlWtwOibFc7W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xENFEImvqnw?si=_VNmmlWtwOibFc7W" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

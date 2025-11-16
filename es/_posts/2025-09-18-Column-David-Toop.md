@@ -5,47 +5,49 @@ categories:
 image: ../assets/images/column-david-toop.webp
 lang: es
 layout: post
+permalink: /es/2025-09-18-Column-David-Toop/
 tags:
 - Hiphop
 - Ambient
 - Field Recording
-title: 【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究
+title: '[Columna] David Toop y el pensamiento musical sin género - Exploración de
+  los sonidos por época'
 ---
 
 
-## David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究
+## David Toop y el pensamiento musical sin género - Exploración de los sonidos por época
 
-文：mmr｜テーマ：David Toopの音楽的探究を1970年代から現在まで年代別に考察
+Texto: mmr｜Tema: Examinando la exploración musical de David Toop por época desde la década de 1970 hasta la actualidad
 
-David Toopのジャンルを超えた批評家・音楽家としての姿勢を、代表的著作や作品とともに振り返る。
+Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y trabajos representativos.
 
 ---
 
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
-### ジャンルを超える耳：David Toop 音楽思考の変遷
+### Un oído que trasciende géneros: David Toop Cambios en el pensamiento musical
 
-> 「音楽はジャンルに閉じ込められるべきではない。耳をひらけば、すべてが音楽になる。」  
-> ― David Toop
+> "La música no debe limitarse a géneros. Si abres los oídos, todo se convierte en música."
+> ―David Toop
 
 
-### 1970年代 ― 即興と前衛の狭間で
+### Década de 1970 - Entre la improvisación y la vanguardia
 
-ロンドンのフリーインプロヴィゼーション・シーンに身を置いたToopは、ギタリストとして演奏する一方、批評活動を開始。  
-彼にとって音楽とは、形式や流派ではなく「聴く行為」そのものだった。  
-この時期、すでにジャンルを越境する姿勢が芽生えていた。
+Tras establecerse en la escena de la improvisación libre de Londres, Toop comenzó su carrera como crítico mientras actuaba como guitarrista.
+Para él, la música no era una forma o un estilo, sino el acto de escuchar en sí.
+Durante este período, ya había desarrollado una actitud de trascender las fronteras del género.
 
 
 | 年代 | 取り上げた音源 / アーティスト | 解説 |
@@ -55,14 +57,14 @@ color: #fff;
 
 ---
 
-### 1980年代 ― フィールドレコーディングとワールドミュージック
+### Década de 1980: grabaciones de campo y músicas del mundo.
 
-環境音や各地の伝統音楽を探求し、音そのものを「作品」として提示。  
+Explora sonidos ambientales y música tradicional de varias regiones y presenta los sonidos mismos como "obras".
 
-環境音や各地の伝統音楽を探求し、音そのものを「作品」として提示。  
-ワールドミュージック・ブームを背景に、Toopは文化横断的な聴取を提案した。  
-異文化を「装飾」として消費するのではなく、音の経験を拡張する方法論が浮かび上がった。
-まさに音楽を「世界の音の地図」としてとらえた。
+Explora sonidos ambientales y música tradicional de varias regiones y presenta los sonidos mismos como "obras".
+En el contexto del boom de la música mundial, Toop propuso una escucha transcultural.
+En lugar de consumir otras culturas como "decoración", ha surgido una metodología que amplía la experiencia del sonido.
+Realmente veía la música como un "mapa sonoro del mundo".
 
 | 年代 | 取り上げた音源 / アーティスト | 解説 |
 |------|----------------|------|
@@ -72,11 +74,11 @@ color: #fff;
 
 ---
 
-## 1990年代 ― 『Rap Attack』と都市文化の批評
+## Década de 1990: “Rap Attack” y crítica de la cultura urbana
 
-『Rap Attack』はヒップホップの黎明を記録しただけでなく、音楽と都市文化、メディア現象を結びつけて論じた革新的な書物。  
-同時期にアンビエントやジャングルを論じ、電子音楽の文化批評にも積極的に関わった。  
-批評と現場感覚を併せ持つToopのスタイルが確立された時代といえる。
+Rap Attack es un libro innovador que no sólo narra los albores del hip-hop, sino que también conecta la música, la cultura urbana y los fenómenos mediáticos.
+Casi al mismo tiempo, habló sobre ambiente y jungla, y participó activamente en la crítica cultural de la música electrónica.
+Se puede decir que esta fue la época en la que se estableció el estilo de Toop, que combina crítica y sentido del campo.
 
 | 年代 | 取り上げた音源 / アーティスト | 解説 |
 |------|----------------|------|
@@ -86,11 +88,11 @@ color: #fff;
 
 ---
 
-### 2000年代 ― 『Ocean of Sound』と感覚の解放
+### Década de 2000: Océano de sonido y liberación sensorial
 
-「音の海」というメタファーで知られる『Ocean of Sound』は、ストリーミング普及を先取りする洞察を含んでいた。  
-エッセイ・批評・文学が融合したテキストは、音楽書という枠を超えて「聴覚の文学」として機能。  
-自身のアンビエント作品もまた、柔らかく拡散する音の世界を提示した。
+"Ocean of Sound", conocido por su metáfora de "mar de sonido", contenía ideas que anticipaban la expansión del streaming.
+El texto, que es una fusión de ensayo, crítica y literatura, va más allá del marco de un libro de música y funciona como "literatura auditiva".
+Sus obras ambientales también presentaron un mundo de sonidos suaves y difusos.
 
 | 年代 | 取り上げた音源 / アーティスト | 解説 |
 |------|----------------|------|
@@ -100,11 +102,11 @@ color: #fff;
 
 ---
 
-### 2010年代以降 ― サウンドアートと記憶の考古学
+### Desde la década de 2010 - El arte sonoro y la arqueología de la memoria
 
-『Sinister Resonance』などの著作では「聴こえないもの」や「残響」をめぐる思索を展開。  
-美術・サウンドアート領域に活動を広げ、音楽批評を空間的・哲学的な実践へと拡張している。  
-記憶、沈黙、余白といったテーマを通して、耳の感覚を根源から問い直している。
+En obras como "Sinister Resonance", explora reflexiones sobre "cosas que no se pueden oír" y "reverberación".
+Ha ampliado sus actividades al campo de las bellas artes y el arte sonoro, ampliando la crítica musical a la práctica espacial y filosófica.
+A través de temas como la memoria, el silencio y el espacio en blanco, reconsidera el sentido del oído desde sus raíces.
 
 
 | 年代 | 取り上げた音源 / アーティスト | 解説 |
@@ -115,33 +117,33 @@ color: #fff;
 
 ---
 
-### 結論 ― ジャンルレスの実践者
+### Conclusión: practicantes sin género
 
-David Toopの軌跡は「音楽をどう聴くか」をめぐる半世紀にわたる探究そのもの。  
-ジャズ、ヒップホップ、アンビエント、サウンドアート──いずれにも収まらず、むしろそれらを越境することで「音そのものの可能性」を広げ続けている。  
-
----
-
-### 参考作品リスト
-
-- **著作**
-  - [*Rap Attack* (1984 / 1991 / 2000 改訂版)](https://amzn.to/3Ij9XIc)
-  - [*Ocean of Sound* (1995)](https://amzn.to/3VnLh44)
-  - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
-  - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
-
-- **音楽作品**
-  - *New and Rediscovered Musical Instruments* (with Max Eastley, 1975)
-  - *Screen Ceremonies* (1990)
-  - *Museum of Fruit* (1996)
-  - *Entities Inertias Faint Beings* (2016)
+La trayectoria de David Toop es una exploración de medio siglo sobre cómo escuchar música.
+Jazz, hip-hop, ambient, arte sonoro: no encaja en ninguno de ellos, sino que continúa expandiendo las "posibilidades del sonido mismo" trascendiendo estos límites.
 
 ---
 
-### 関連コラム
+### Lista de obras de referencia
 
- [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
+- **Autor**
+- [*Rap Attack* (edición revisada 1984/1991/2000)](https://amzn.to/3Ij9XIc)
+- [*Océano de sonido* (1995)](https://amzn.to/3VnLh44)
+- [*Clima embrujado* (2004)](https://amzn.to/48lz4o3)
+- [*Resonancia siniestra* (2010)](https://amzn.to/3Kd5l6N)
 
- [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+- **La música funciona**
+- *Instrumentos musicales nuevos y redescubiertos* (con Max Eastley, 1975)
+- *Ceremonias de pantalla* (1990)
+- *Museo de la Fruta* (1996)
+- *Entidades Inercias Seres Débiles* (2016)
 
- [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+---
+
+### Columnas relacionadas
+
+[[Columna] Historia del hip hop de EE. UU.: panorama general que incluye regiones, clubes, medios y equipos](https://monumental-movement.jp/Column-Hiphop-History)
+
+[[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+
+[[Columna] Ambiente: De “escuchar música” a “sentir música” II](https://monumental-movement.jp/Column-Ambient2)

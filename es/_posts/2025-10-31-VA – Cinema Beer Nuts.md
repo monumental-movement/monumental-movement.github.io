@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/VA – Cinema Beer Nuts.webp
 lang: es
 layout: post
+permalink: /es/2025-10-31-VA – Cinema Beer Nuts/
 tags:
 - Rock
 - Hardcore
 - Punk
 - 90s
-title: VA – Cinema Beer Nuts
+title: VA – Cine Cerveza Nueces
 ---
 
 
-ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
+Compilación de hardcore punk: Serie de cervezas de cine Hopeless Records
 
-VA – Cinema Beer Nuts
+VA – Cine Cerveza Nueces
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time
@@ -41,4 +42,4 @@ VA – Cinema Beer Nuts
 19. Millencolin – Lozin' Must
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

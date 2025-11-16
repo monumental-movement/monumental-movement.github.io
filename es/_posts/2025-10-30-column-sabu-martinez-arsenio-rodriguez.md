@@ -5,112 +5,114 @@ categories:
 image: ../assets/images/column-sabu-martinez-arsenio-rodríguez.webp
 lang: es
 layout: post
+permalink: /es/2025-10-30-column-sabu-martinez-arsenio-rodriguez/
 tags:
 - Cuban
 - African
 - Tribal
-title: 【コラム】 アフロ・キューバンの骨格 ― Sabu MartinezとArsenio Rodríguezが刻んだ鼓動の系譜
+title: '[Columna] El esqueleto afrocubano - La genealogía del latido del corazón tallada
+  por Sabu Martinez y Arsenio Rodríguez'
 ---
 
 
-## イントロダクション：太鼓が語る、もうひとつのアメリカ音楽史
+## Introducción: Otra historia de la música americana contada por los tambores taiko
 
 
-文：mmr｜テーマ：Sabu MartinezとArsenio Rodríguezを軸に
-ラテン音楽史の転換点を縦断的に辿る
+Texto: mmr｜Tema: Centrado en Sabu Martinez y Arsenio Rodríguez
+Trazando longitudinalmente los puntos de inflexión de la historia de la música latina
 
-1950年代、ジャズクラブの裏口で交わされた一つのリズムが、アメリカ音楽の地層を揺らした。
-それは、**キューバのソン**と**アフリカの儀礼音楽**、そして**ハーレムのジャズ**が出会った瞬間だった。
-Sabu Martinezのコンガは炎のようにうねり、Arsenio Rodríguezのトレスは理論を裏切るように鳴った。
-本稿では、二人がそれぞれの側から築いた「アフロ・キューバン音楽の構造」を、
-文化・社会・音楽理論の三層で掘り下げる。
+En la década de 1950, un ritmo intercambiado en la puerta trasera de un club de jazz sacudió la estructura misma de la música estadounidense.
+Fue el momento en el que se encontraron la **canción cubana**, la **música ritual africana** y el **Harlem jazz**.
+Las congas de Sabu Martínez rugieron como llamas y el tres de Arsenio Rodríguez sonó como si desafiara la teoría.
+En este artículo discutiremos la "estructura de la música afrocubana" que los dos hombres construyeron desde sus respectivos lados.
+Profundiza en las tres capas de cultura, sociedad y teoría musical.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## **第1章：アフロ・キューバンの胎動 ― 黒い大地とカリブの海から**
+## **Capítulo 1: El nacimiento de lo afrocubano - De la tierra negra y el mar Caribe**
 
-19世紀末、キューバはスペイン植民地としての歴史を終えようとしていた。
-だが、独立戦争の喧騒の裏で、もうひとつの革命が進行していた――それが**音楽**である。
-ヨルバやコンゴの儀礼リズムが、スペイン系メロディと交わり、「ソン」「ルンバ」「アバクア」などの
-多層的なリズム構造を生んだ。
+A finales del siglo XIX, Cuba llegaba al final de su historia como colonia española.
+Sin embargo, detrás del ajetreo de la Guerra de la Independencia, se estaba gestando otra revolución: la de la música.
+Los ritmos rituales yoruba y congoleños se cruzan con melodías españolas, creando canciones como “son”, “rumba” y “abakua”.
+Esto creó una estructura rítmica de múltiples capas.
 
-* **宗教的要素：** サンテリアの「バタ鼓」、コンゴ系の「マクータ」など、祭礼リズムが都市音楽化。
-* **社会的要素：** 奴隷制廃止後のアフロ系コミュニティがハバナに形成され、黒人音楽家の職業化が進行。
-* **技術的要素：** トレス（3弦ギター）とコンガの標準化が、後のモントゥーノ構造を可能にした。
+* **Elementos religiosos: ** Ritmos rituales como el ``bata drum'' de la santería y el ``makuta'' congoleño se han convertido en música urbana.
+* **Factores sociales:** Después de la abolición de la esclavitud, se formó una comunidad afroamericana en La Habana y avanzó en la profesionalización de los músicos negros.
+* **Elementos técnicos:** La estandarización del tres (guitarra de tres cuerdas) y las congas hizo posible la posterior estructura montuno.
 
-この背景から、**Arsenio Rodríguez**（1911–1970）という盲目の革命家が登場する。
+Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
 
 ---
 
-## **第2章：Arsenio Rodríguez ― ソンを再構築した構造主義者**
+## **Capítulo 2: Arsenio Rodríguez - El estructuralista que reconstruyó al hijo**
 
-### 「El Ciego Maravilloso（奇跡の盲目奏者）」
+### “El Ciego Maravilloso (El jugador ciego milagroso)”
 
-ハバナで生まれたArsenioは、幼少期に事故で視力を失うが、
-その感覚の代償として「リズムの内部構造」を聴き取る異能を得た。
+Nacido en La Habana, Arsenio perdió la vista en un accidente cuando era niño.
+A cambio de este sentido, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
 
-### 彼の革新点：
+### Sus innovaciones:
 
-- 1. **トランペットとトレスの掛け合わせ**による拡張ソン。
-- 2. **モントゥーノ（反復パート）**をリズムの基盤として前面化。
-- 3. **コール＆レスポンス**をジャズ的インタープレイに転換。
-- 4. **ベースラインの強化**による“tumbao”概念の明確化。
+- 1. Son extendido con **combinación de trompeta y trenza**.
+- 2. **Montuno (parte repetitiva)** pasa a primer plano como base del ritmo.
+- 3. Convierta **llamada y respuesta** en interacción de jazz.
+- 4. Clarificación del concepto “tumbao” **fortaleciendo la línea base**.
 
-これにより、彼のバンドは「アフロ・キューバン・アンサンブル」としての先駆けとなり、
-後のティト・プエンテ、マチート、セロニアス・モンクにも影響を与える。
+Esto llevó a que su banda se convirtiera en pionera como "conjunto afrocubano".
+También influyó posteriormente en Tito Puente, Machito y Thelonious Monk.
 
-> 「ジャズが理性を求めるなら、ソンは記憶を呼び覚ます」
+> “Si el jazz busca la razón, el Son despierta la memoria”.
 > — Arsenio Rodríguez
 
 ---
 
-## **第3章：Sabu Martinez ― 火を打ち鳴らすビート詩人**
+## **Capítulo 3: Sabu Martinez - Vencer al Poeta con Fuego**
 
-### 「ハーレムの聖者が叩いた鼓動」
+### "El latido del corazón golpeado por el Santo de Harlem"
 
-1929年、ニューヨーク・ブロンクスに生まれたサブ・マルティネス（本名Louis Martinez）は、
-ティト・プエンテのオーケストラで頭角を現した。
-彼のスタイルは**黒人ルーツの激しさとジャズ的即興の知性**が共存していた。
+Sabu Martínez (nombre real Louis Martínez) nació en el Bronx, Nueva York, en 1929.
+Saltó a la fama en la orquesta de Tito Puente.
+Su estilo combinaba la intensidad de sus raíces negras con la inteligencia de la improvisación del jazz.
 
-#### 代表作：
+#### Obras representativas:
 
-* *Palo Congo* (Blue Note, 1957)
-* *Sabu’s Jazz Espagnole* (1960)
-* *Afro Temple* (1973)
+* *Palo Congo* (Nota Azul, 1957)
+* *Jazz Español de Sabu* (1960)
+* *Templo Afro* (1973)
 
-### 特徴：
+### Características:
 
-* **3連符とポリリズムの融合。**
-* **バタ鼓的フレーズ**をコンガに移植。
-* **録音技術の先駆的使用（マイクの距離で音像を作る）**。
+* **Una fusión de tripletes y polirritmos. **
+* Traducido **Frase de batería Bata** a conga.
+* **Uso pionero de la tecnología de grabación (creación de imágenes sonoras a la distancia del micrófono)**.
 
-彼のサウンドは、後のアフロ・スピリチュアル・ジャズ（Pharoah Sanders, Alice Coltrane）へと連なる。
+Su sonido está conectado con el jazz afroespiritual posterior (Pharoah Sanders, Alice Coltrane).
 
-> 「ドラムは叫びだ。俺はその叫びを“歌”に変えるだけだ。」
-> — Sabu Martinez
+> "Los tambores son gritos. Simplemente convierto esos gritos en canciones".
+> — Sabú Martínez
 
 ---
 
-## **第4章：交差点 ― ブロンクスとハバナのあいだで**
+## **Capítulo 4: Encrucijada - Entre el Bronx y La Habana**
 
-Arsenioが1950年に渡米し、ハーレムで活動を始めた頃、
-Sabuは同じ街でセッションを重ねていた。
-彼らの接点は直接的な共演ではないものの、
-**ブロンクス～ハーレムのアフロ・ディアスポラ文化**の中で深く交差していた。
+Cuando Arsenio se mudó a los Estados Unidos en 1950 y comenzó a trabajar en Harlem,
+Sabu había estado haciendo sesiones en la misma ciudad.
+Aunque su punto de contacto no es el coprotagonismo directo,
+Estaban profundamente entrelazados dentro de la **cultura de la diáspora afroBronx-Harlem**.
 
 | 時代    | Arsenio Rodríguez  | Sabu Martinez               |
 | ----- | ------------------ | --------------------------- |
@@ -119,100 +121,100 @@ Sabuは同じ街でセッションを重ねていた。
 | 1960s | ニューヨークで晩年の録音       | ジャズ×アフロの融合を拡張               |
 | 1970s | 没後に再評価             | ヨーロッパ移住、*Afro Temple*で精神性深化 |
 
-この時期、ニューヨークのラテン・ジャズは、
-**「アフロ・キューバン」→「アフロ・ジャズ」→「スピリチュアル・アフロ」**
-という形で進化し、SabuとArsenioはその両端に立っていた。
+Durante este período, el jazz latino de Nueva York
+**"Afro Cubano" → "Afro Jazz" → "Afro Espiritual"**
+Sabu y Arsenio estaban en extremos opuestos del espectro.
 
 ---
 
-## **第5章：音楽理論的接続 ― クラーベとポリリズムの交点**
+## **Capítulo 5: Conexiones teóricas musicales: la intersección de clave y polirritmia**
 
-クラーベ（2–3 or 3–2パターン）は、アフロ・キューバン音楽のDNAである。
-Arsenioはそれを**旋律構造に埋め込み**、Sabuは**即興構造の軸**にした。
+La clave (patrón 2–3 o 3–2) es el ADN de la música afrocubana.
+Arsenio lo incorporó a la estructura melódica y Sabu lo convirtió en el eje de la estructura de improvisación.
 
 <div class="mermaid">
 
-flowchart TD
-    A["クラーベ（2–3 / 3–2）"] --> B["Arsenioのモントゥーノ構造"]
-    A --> C["Sabuのポリリズム即興"]
-    B --> D["ハーモニー内リズム化"]
-    C --> E["打楽器内ハーモニー化"]
-    D --> F["ラテン・ジャズ（Machito, Dizzy Gillespie）"]
-    E --> F
+diagrama de flujo TD
+A["Clave (2–3 / 3–2)"] --> B["Estructura Montuno de Arsenio"]
+A --> C["Improvisación polirrítmica de Sabu"]
+B --> D["Ritmización dentro de la armonía"]
+C --> E["Armonización dentro de instrumentos de percusión"]
+D --> F["Latin Jazz (Machito, Dizzy Gillespie)"]
+mi -> F
 
 </div>
 
 
-この構造的発想が、後のエレクトロニック・ミュージック（例：Four Tet, Floating Points）にも影響していることは注目に値する。
-リズムが「メロディを生成する」思想は、彼らの遺産の延長線上にある。
+Es de destacar que esta idea estructural también influyó en la música electrónica posterior (por ejemplo, Four Tet, Floating Points).
+La idea de que el ritmo "genera melodía" es una extensión de su herencia.
 
 ---
 
-## **第6章：文化人類学的視点 ― ディアスポラの記憶装置としてのドラム**
+## **Capítulo 6: Perspectiva antropológica - Los tambores como dispositivo de memoria de la diáspora**
 
-アフロ・カリブの音楽は、**記録ではなく記憶**によって継承される。
-SabuとArsenioはともに、ドラムとトレスを「語る身体」として扱った。
-その身体性は、音楽を超えて**アイデンティティの再生装置**でもあった。
+La música afrocaribeña se hereda a través de la memoria, no de los discos.
+Tanto Sabu como Arsenio trataron los tambores y las trenzas como "cuerpos que hablan".
+Su fisicalidad iba más allá de la música y era también un dispositivo para reproducir la identidad.
 
-* **Arsenio：** 黒人キューバ人の自己定義としての音楽。
-* **Sabu：** アメリカ黒人文化の再アフリカ化の象徴。
+* **Arsenio:** La música como autodefinición del cubano negro.
+* **Sabu:** Símbolo de la reafricanización de la cultura negra estadounidense.
 
-> 「太鼓は母なる言葉を忘れない」
-> — アフロ・キューバの諺より
-
----
-
-## **第7章：遺産と再生 ― 現代への接続**
-
-現代のミュージシャン――
-例えば **Miguel Zenón**, **Daymé Arocena**, **Makaya McCraven** などは、
-SabuとArsenioの遺伝子を現代的サウンドデザインに変換している。
-
-特にMakaya McCravenの「organic beat collage」は、
-Sabuの“手で編集する”感覚の継承と言える。
-
-また、Arsenioの「tumbao構造」は、
-ヒップホップのループ構築における“リズム的対称性”の原型でもある。
+> "Taiko nunca olvidará las palabras de la madre"
+> — De un proverbio afrocubano
 
 ---
 
-## **第8章：結論 ― アフロ・キューバンの“根”を聴く**
+## **Capítulo 7: Patrimonio y Regeneración – Conexiones con la Edad Moderna**
 
-Sabu MartinezとArsenio Rodríguez――
-二人は異なる島から出発し、同じ鼓動にたどり着いた。
-彼らの音は、ラテン音楽でもジャズでもない。
-それは**「根源的なリズムの記憶」**であり、
-現代の電子音楽やヒップホップにも脈打つ。
+músico moderno--
+Por ejemplo, **Miguel Zenón**, **Daymé Arocena**, **Makaya McCraven**, etc.
+Traduciendo los genes de Sabu y Arsenio al diseño de sonido moderno.
 
-太鼓は語る。トレスは応える。
-その対話の果てに、私たちは「音楽とは何か」という問いの原点に立つ。
+En particular, el "collage de ritmos orgánicos" de Makaya McCraven
+Se puede decir que esto es una continuación del sentimiento de "edición manual" de Sabu.
+
+Además, la "estructura tumbao" de Arsenio es
+También es el prototipo de "simetría rítmica" en la construcción de loops de hip-hop.
 
 ---
 
-## **年表：Sabu Martinez × Arsenio Rodríguez**
+## **Capítulo 8: Conclusión - Escuchando las “raíces” de lo afrocubano**
+
+Sabu Martínez y Arsenio Rodríguez――
+Los dos partieron de islas diferentes y terminaron en el mismo latido.
+Su sonido no es música latina ni jazz.
+Es **“memoria del ritmo fundamental”**,
+También resuena con la música electrónica contemporánea y el hip-hop.
+
+El tambor habla. Torres responde.
+Al final de este diálogo, nos encontramos en el origen de la pregunta: "¿Qué es la música?"
+
+---
+
+## **Cronología: Sabu Martínez × Arsenio Rodríguez**
 
 <div class="mermaid">
 
-timeline
-    title 音の交差年表（1911–1979）
-    1911 : Arsenio Rodríguez 誕生（ハバナ）
-    1929 : Sabu Martinez 誕生（ニューヨーク）
-    1939 : Arsenio、「El Diablo」など初録音
-    1947 : Arsenio、「Bruca Maniguá」発表
-    1950 : Arsenio 渡米、ハーレム活動開始
-    1953 : Sabu、ティト・プエンテ楽団に加入
-    1957 : *Palo Congo* 発表（Blue Note）
-    1960 : Arsenio 晩年の録音「Viva Arsenio」
-    1963 : Sabu、「Jazz Espagnole」
-    1970 : Arsenio Rodríguez 死去
-    1973 : Sabu、「Afro Temple」
-    1979 : Sabu Martinez 死去（スウェーデン）
+línea de tiempo
+título Cronología cruzada del sonido (1911-1979)
+1911: Nacimiento de Arsenio Rodríguez (La Habana)
+1929: Nacimiento de Sabu Martínez (Nueva York)
+1939: Arsenio realiza sus primeras grabaciones, entre ellas “El Diablo”
+1947: Arsenio estrena “Bruca Maniguá”
+1950: Arsenio se traslada a Estados Unidos y comienza actividades de harén.
+1953: Sabu se une a la Orquesta de Tito Puente
+1957: *Palo Congo* anunciado (Nota Azul)
+1960: última grabación de Arsenio "Viva Arsenio"
+1963: Sabú, “Jazz Español”
+1970: Muere Arsenio Rodríguez
+1973: Sabu, “Templo Afro”
+1979: Muere Sabu Martínez (Suecia)
 
 </div>
 
 ---
 
-## **参考ディスコグラフィー**
+## **Discografía de referencia**
 
 | Artist            | Album                                                                     | Label / Year     | 備考               |
 | ----------------- | ------------------------------------------------------------------------- | ---------------- | ---------------- |

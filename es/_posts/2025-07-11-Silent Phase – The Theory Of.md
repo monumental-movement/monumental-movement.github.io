@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Silent Phase – The Theory Of.webp
 lang: es
 layout: post
+permalink: /es/2025-07-11-Silent Phase – The Theory Of/
 tags:
 - House
 - Techno
 - 90s
-title: Silent Phase – (The Theory Of)
+title: Fase silenciosa – (La teoría de)
 ---
 
 
-Silent PhaseことStacey Pullenは、1990年代に活躍したデトロイト出身のテクノDJ・プロデューサー。別名義でKosmic Messenger、Bangoなどがある。このアルバムはSilent Phase名義での唯一のアルバムで、ジャズ、アンビエント、IDM、テクノが混ざったディープでメロウなサウンドが特徴。アーティスティックなデトロイトテクノ作品として評価されている。
+Stacey Pullen, también conocida como Silent Phase, fue una DJ y productora de techno de Detroit que estuvo activa en la década de 1990. Otros nombres incluyen Kosmic Messenger y Bango. Este álbum es su único álbum bajo el nombre de Silent Phase y presenta un sonido profundo y suave que mezcla jazz, ambient, IDM y techno. Ha sido elogiada como una pieza artística del techno de Detroit.
 
-リリースは、1990年以前にデトロイトで設立された最も重要なテクノレーベルの1つ、デリック・メイ主宰のTransmat(配給はCarl Craig主宰のPlanet E )とベルギーのインディペンデントレーベルR&S Records。このCDはベルギー盤。
+Fue lanzado por Transmat de Derrick May, uno de los sellos de techno más importantes establecidos en Detroit antes de 1990 (distribuido por Planet E de Carl Craig), y el sello independiente belga R&S Records. Este CD es una edición belga.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Waterdance
 2. Body Rock
@@ -33,9 +34,9 @@ Silent PhaseことStacey Pullenは、1990年代に活躍したデトロイト出
 12. Forbidden Dance
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45830593749?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k6zY9Ae1qlI?si=307o2Nr5nDR0jv-a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6zY9Ae1qlI?si=307o2Nr5nDR0jv-a" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F68WEzlgnqo?si=zO-u_ZA_Gy0hSxrF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F68WEzlgnqo?si=zO-u_ZA_Gy0hSxrF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

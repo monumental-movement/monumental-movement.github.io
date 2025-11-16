@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Fun Fun – Gimme Some Loving (House Mix).webp
 lang: es
 layout: post
+permalink: /es/2023-10-07-Fun Fun – Gimme Some Loving (House Mix)/
 tags:
 - Italo
 - Disco
-title: Fun Fun – Gimme Some Loving (House Mix)
+title: Fun Fun - Dame un poco de amor (House Mix)
 ---
 
 
-「Gimme Some Loving (House Mix)」は、
-1988年にリリースされたFun FunによるEPです。
+“Gimme Some Loving (House Mix)” es
+Este es un EP de Fun Fun lanzado en 1988.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Gimme Some Loving (House Mix)
 
@@ -24,7 +25,7 @@ B1. Gimme Some Loving (Dub House Mix)
 B2. Gimme Some Loving (Single Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57954081770?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57954081770?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JDq0tqak-sI?si=a99mNPkYPn5A0Q4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDq0tqak-sI?si=a99mNPkYPn5A0Q4p" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Technasia – Force.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Technasia – Force/
 tags:
 - Techno
-title: Technasia – Force
+title: Technasia – Fuerza
 ---
 
 
-このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。
+"Force" de Technasia se puede llamar un himno techno.
 
-"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
+"Force" es un gran clásico, y las voces hacen que esta pista típica de Technasia sea especial.
 
-裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
+Echa un vistazo a la mezcla de breakbeat en la parte posterior, vale la pena escucharla.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Force
 
@@ -28,6 +29,6 @@ B1. Resilience
 B2. Force (Voxless)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
 https://jp.mercari.com/item/m82234983144?afid=6142608987

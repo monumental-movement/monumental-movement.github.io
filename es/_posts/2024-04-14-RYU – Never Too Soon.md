@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/RYU – Never Too Soon.webp
 lang: es
 layout: post
+permalink: /es/2024-04-14-RYU – Never Too Soon/
 tags:
 - Break Beat
 - Hiphop
 - House
-title: RYU – Never Too Soon
+title: RYU – Nunca es demasiado pronto
 ---
 
 
-RYU（流）は、DJ Hide, DJ Sak, Hideaki Ishi（DJ Krush）からなるアブストラクトヒップホップ/トリップホップグループ。
+RYU es un grupo abstracto de hip hop/trip hop formado por DJ Hide, DJ Sak y Hideaki Ishi (DJ Krush).
 
-「Never Too Soon」は、ロンドンのレーベルExceptionalから2000年にリリースされたブレイクビーツ・ハウス・ダウンテンポ トラック。
+"Never Too Soon" es una pista downtempo de breakbeat house lanzada en 2000 por el sello londinense Exceptional.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Never Too Soon (McMillan & South Mix)
 
@@ -28,7 +29,7 @@ B1. Never Too Soon (Ben Chapman's Deep Mix)
 B2. Never Too Soon (BC's Instrumental Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87367262889?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87367262889?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaB9vCbP7rg?si=1l9FvZJ2MMomSCib" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaB9vCbP7rg?si=1l9FvZJ2MMomSCib" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

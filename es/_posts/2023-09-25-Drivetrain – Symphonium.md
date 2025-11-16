@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Drivetrain – Symphonium.webp
 lang: es
 layout: post
+permalink: /es/2023-09-25-Drivetrain – Symphonium/
 tags:
 - Techno
 - Detroit Techno
 - 90s
-title: Drivetrain – Symphonium
+title: Transmisión – Sinfonio
 ---
 
 
-「Symphonium」は、デトロイトテクノシーンで活躍するアーティス、ドライブトレインによって制作されたテクノトラックです。
+"Symphonium" es una pista de techno producida por Drivetrain, un artista activo en la escena techno de Detroit.
 
-「Symphonium」は、ダークでメロディアスな要素を持ちながらも、エネルギッシュでダンサブルなリズムが特徴的で、ドライブトレインの独自のサウンドアイデンティティがしっかりと表現されています。この楽曲は、テクノファンやダンスミュージックの愛好家にとって魅力的な作品となっています。
+“Symphonium” tiene elementos oscuros y melódicos, pero presenta un ritmo enérgico y bailable, que expresa firmemente la identidad sonora única de la transmisión. Esta canción atraerá a los fanáticos del techno y a los amantes de la música dance.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Electronic Seduction
 
@@ -28,7 +29,7 @@ AA1. In The Rhythm
 AA2. Soundtrack
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

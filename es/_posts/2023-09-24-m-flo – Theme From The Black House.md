@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/m-flo – Theme From The Black House (黒い家).webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-m-flo – Theme From The Black House/
 tags:
 - JPop
 - Soundtrack
-title: m-flo – Theme From The Black House (黒い家)
+title: m-flo – Tema de la casa negra
 ---
 
 
-1999年にリリースされたm-floのトラックが収録された映画「黒い家」の主題歌のシングルカットです。
+Este es un corte sencillo del tema principal de la película "Kuroi Ie", que fue lanzada en 1999 e incluye la pista de m-flo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. M-Flo–Chronopsychology
 
@@ -31,7 +32,7 @@ B3. Tetsuo Yamazaki–The Black House
 B4. Tetsuo Yamazaki–Five Quarter
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m16599032902?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m16599032902?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2H9LIAOP18?si=GPoG2uiJFmFsoYXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2H9LIAOP18?si=GPoG2uiJFmFsoYXQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,181 +5,183 @@ categories:
 image: ../assets/images/column-blawan.webp
 lang: es
 layout: post
+permalink: /es/2025-10-12-Column-Blawan/
 tags:
 - Industrial
 - UK Techno
 - Techno
-title: 【コラム】 Blawan：鋼鉄の快楽と、夜の奥の肉体 — UKテクノが見た夢の残響
+title: '[Columna] Blawan: El placer del acero y el cuerpo en lo profundo de la noche:
+  ecos de los sueños del techno británico'
 ---
 
 
-## 序章　工場の影に育ったリズム——産業の残り香から
+## Prólogo Ritmo que creció a la sombra de las fábricas, desde el persistente aroma de la industria
 
 
-文：mmr｜テーマ：UKの地下に根を張り続けるBlawanの冷たく、そしてなぜか人間的ビートについて
+Texto: mmr｜Tema: Sobre el ritmo frío pero de algún modo humano de Blawan que sigue teniendo raíces en el underground del Reino Unido.
 
-かつてイギリス北部の工業地帯は、蒸気と金属のにおいで満ちていた。  
-その残響を、Jamie Roberts――すなわちBlawan――は無意識に吸い込んで育ったのかもしれない。  
-Sheffieldから流れ出した電子音楽の血脈（Cabaret Voltaire、Warp Records、The Black Dog）は、  
-労働のリズムと都市の息づかいを同時に鳴らしてきた。
+Érase una vez, las zonas industriales del norte de Inglaterra estaban llenas de olor a vapor y metal.
+Es posible que Jamie Roberts (o Blawan) haya crecido inhalando inconscientemente sus reverberaciones.
+El linaje de la música electrónica que fluye desde Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
+Se ha hecho eco del ritmo del trabajo y de la respiración de la ciudad al mismo tiempo.
 
-Blawanのビートには、鉄を叩くような打音と、湿った空気の圧がある。  
-それは単なるテクノではなく、**産業の記憶の再生**でもある。  
-彼がロンドンやベルリンを拠点にせず、UKの地下に根を張り続けていることも象徴的だ。  
-――音は、土地の重力を離れない。
+El ritmo de Blawan tiene el sonido del martillo de hierro y la presión del aire húmedo.
+No es sólo techno, es también un renacimiento de la memoria industrial.
+También es simbólico que no tenga su base en Londres o Berlín, sino que siga teniendo raíces en el underground del Reino Unido.
+--El sonido no abandona la gravedad de la tierra.
 
-> そのビートは冷たく、そしてなぜか人間的だった。  
-> Blawanの音楽は、鋼鉄の中に眠る「体温」の記録である。
+> El ritmo era frío y de alguna manera humano.
+> La música de Blawan es un registro de la "temperatura corporal" que duerme dentro del acero.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章　Bohlaから始まる鉄の物語
+## Capítulo 1 Historia de hierro a partir de Bohla
 
-2011年、R&S Recordsからリリースされた『Bohla EP』。  
-硬質でいて奇妙に柔らかいリズムが、クラブに“新しい重さ”をもたらした。  
-それは、ポスト・ダブステップの混沌から抜け出そうとするUKのクラブ・サウンドが  
-新たに見つけた「手触り」だった。
+"Bohla EP" fue lanzado por R&S Records en 2011.
+El ritmo duro pero extrañamente suave aportó un "nuevo peso" al club.
+Es un sonido de club del Reino Unido que intenta salir del caos del post-dubstep.
+Fue un "toque" recién descubierto.
 
-この頃のBlawanは、Rolandのリズムマシンやアナログ・フィルターをこよなく愛していた。  
-DAWの中ではなく、**指先とつまみで音を掴む**。  
-電子音を“演奏する”という身体的感覚こそが、彼の音を鉄のように熱くしていた。
+En ese momento, a Blawan le encantaban las cajas de ritmos y los filtros analógicos de Roland.
+**Capta el sonido con las yemas de los dedos y los mandos**, no en un DAW.
+Fue la sensación física de "tocar" sonidos electrónicos lo que hizo que su sonido fuera tan caliente como el hierro.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## 第2章　“Why They Hide Their Bodies Under My Garage.”——恐怖と快楽の境界
-
-2012年、世界のクラブ・シーンが震えた。  
-“Why They Hide Their Bodies Under My Garage.”  
-この一曲が、Blawanの名を決定的なものにした。
-
-タイトルからして不穏。  
-歪んだヴォーカル・サンプルは、まるで地下室で呻く亡霊のよう。  
-ビートはひたすらに重く、狂気すれすれの執念で反復する。  
-だが、その中に奇妙な**“快楽”**がある。  
-聴く者の身体を圧迫しながら、同時に解放していく――それは**恐怖と多幸が混ざり合う瞬間**だった。
-
-多くのDJがこのトラックをピークタイムに投下し、  
-クラブのフロアが一瞬、「暴力的な陶酔」に包まれたという。  
-この曲は単なるヒットではなく、  
-テクノに“感情なき感情”を蘇らせた象徴だった。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第3章　Karennという肉体——Pariahとの共鳴
+## Capítulo 2 “Por qué esconden sus cuerpos debajo de mi garaje”.——El límite entre el miedo y el placer
 
-Blawanのもう一つの顔、それが**Karenn**である。  
-盟友Pariah（Arthur Cayzer）とのデュオは、スタジオというよりも「作業場」だった。  
-Sheworksレーベルを設立し、即興の機材ライブでヨーロッパ中を巡った。
+En 2012, la escena mundial de clubes sacudió.
+"Por qué esconden sus cuerpos debajo de mi garaje".
+Esta canción hizo que el nombre de Blawan fuera definitivo.
 
-ケーブルの山。  
-鳴り止まぬリズムマシン。  
-そこにはマシンの冷たさと、人間の汗が共存していた。  
-Karennのライブは「演奏」というより「鍛造」に近い。  
-鋼を叩く音、熱せられた空気、そして観客の体温。  
-すべてが溶け合う一瞬、音楽は“物質”になる。
+El título es inquietante.
+La muestra vocal distorsionada suena como un fantasma que gime en un sótano.
+El ritmo es pesado y se repite con una tenacidad que roza la locura.
+Sin embargo, hay un extraño **"placer"** dentro de él.
+Comprimió el cuerpo del oyente y al mismo tiempo lo liberó; fue un momento de **miedo y euforia**.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q9pAoVKzgs?si=SA69Tuk-tjIlFj2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Muchos DJ lanzan este tema en las horas punta,
+Según los informes, la pista del club se vio envuelta en un momento de "violenta euforia".
+Esta canción no es sólo un éxito,
+Era un símbolo de revivir "sentimientos sin emociones" en el techno.
 
----
-
-## 第4章　Wet Will Always Dry——感情なき感情の記録
-
-2018年、ついにBlawanはフルアルバム『Wet Will Always Dry』を発表した。  
-タイトルの示す通り、**濡れて、乾く。**  
-そこにあるのは、人間の感情の不完全な循環だ。
-
-“Careless”“North”“Stell”――  
-どの曲も、冷たさの奥にわずかな温度を隠している。  
-金属のように無表情な音の中で、時折ふっと呼吸のような間が現れる。  
-そのわずかな「隙間」に、人間の感情が滲む。
-
-音を削ぎ落とし、構造だけを残す。  
-そのストイックさが逆に、Blawanの“情緒”を際立たせている。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第5章　身体なきクラブ——2020年代のBlawan
+## Capítulo 3 El cuerpo de Karenn: resonancia con Pariah
 
-パンデミックの時代、クラブは沈黙した。  
-しかし、Blawanの音は静かに変化していく。  
-“Under Belly”“Toast”などのトラックでは、以前よりも柔らかく、内省的な質感が漂う。  
-ハードウェアのノイズが、どこか優しく聴こえる。
+La otra cara de Blawan es **Karenn**.
+El dúo con su aliado Pariah (Arthur Cayzer) era más un taller que un estudio.
+Fundó el sello Sheworks y realizó giras por Europa con conciertos improvisados ​​con equipos.
 
-クラブが閉ざされても、身体のリズムは消えなかった。  
-彼は**モジュラー・シンセの中に“人間の呼吸”を見出した**。  
-電子機器が心臓の鼓動を模倣する――そんな逆説的な時代の音である。
+Un montón de cables.
+Una máquina de ritmo que nunca deja de sonar.
+Allí convivían el frío de las máquinas y el sudor de los humanos.
+Las presentaciones en vivo de Karenn se parecen más a una "forja" que a una "actuación".
+El sonido del acero golpeando, el aire caliente y el calor corporal del público.
+En un momento en el que todo se funde, la música se convierte en "sustancia".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## 第6章　Blawanをめぐる人々と都市
-
-Blawanの音は、ひとりの作家のものではない。  
-RegisやSurgeonが築いたUKインダストリアルの遺伝子、  
-Paula TempleやGiant Swanの暴力的なリズム、  
-そしてSkee Maskの繊細な粒子。  
-そのすべてが、彼の中で再構築されている。
-
-ベルリンの無機質さよりも、ロンドンの湿度を。  
-デジタルよりも、手のひらの圧を。  
-Blawanは**土地の重さ**を選び続けている。  
-それは、クラブが再び「場所」であり続けるための抵抗でもある。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rXdtjC3rdWo?si=QyrvRPgBzNP1Tc9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q9pAoVKzgs?si=SA69Tuk-tjIlFj2g" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 第7章　SickElixir — 鋼鉄都市の崩壊と再生のリズム
+## Capítulo 4 Lo húmedo siempre se secará——Registro de emociones sin emociones
 
-Blawanの最新作[『SickElixir』（2025）](https://www.amazon.co.jp/dp/B087B9MBK4)は、テクノの構造を解体しながらも、なお“人間”の存在を感じさせる稀有な作品だ。 
-ノイズと歪みが渦巻く中、リズムは崩壊寸前で均衡を保ち、声は意味を失って楽器へと変貌する。  
-“Rabbit Hole”で差し込む光、“NOS”での重低音の奔流。  
-その一瞬ごとに、Blawanの音は**冷たさと情熱の境界線**を行き来する。  
+En 2018, Blawan finalmente lanzó un álbum de larga duración, Wet Will Always Dry.
+Como sugiere el título, **Húmedo, seco. **
+Lo que vemos allí es un ciclo incompleto de emociones humanas.
 
-背景には、友人の喪失や依存との葛藤など、彼自身の“生”が横たわる。  
-冷たい機械音の奥で鳴るのは、喪失と再生の呼吸音だ。  
-『Why They Hide Their Bodies Under My Garage.』で衝撃を与えた彼が、十余年を経て到達したのは、“破壊の中に宿る祈り”である。  
+“Descuidado” “Norte” “Stell”――
+Cada canción esconde una ligera calidez debajo de su frialdad.
+En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen respirar.
+Las emociones humanas permean ese pequeño espacio.
 
-テクノが抽象化し、クラブがデジタルに溶けていく今、Blawanはあえて“重力”を取り戻す。  
-鋼鉄都市の静脈を流れるビート。  
-その中で彼は静かに問う——**音は、まだ人間でいられるか？**
+Quita el sonido y deja sólo la estructura.
+Al contrario, su estoicismo resalta la "emoción" de Blawan.
 
 ---
 
-## 第8章　年表＋ディスコグラフィー
+## Capítulo 5 Un club sin cuerpo: Blawan en la década de 2020
+
+Durante la pandemia, los clubes guardaron silencio.
+Sin embargo, el sonido de Blawan está cambiando silenciosamente.
+Temas como "Under Belly" y "Toast" tienen una sensación más suave e introspectiva que antes.
+El ruido del hardware suena algo suave.
+
+Incluso cuando el club cerró, el ritmo en su cuerpo no desapareció.
+Encontró el "aliento humano" en los sintetizadores modulares.
+Este es el sonido paradójico de una época en la que los dispositivos electrónicos imitan los latidos del corazón.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+## Capítulo 6 Personas y ciudad que rodean Blawan
+
+El sonido de Blawan no pertenece a ningún artista en particular.
+Genes industriales del Reino Unido construidos por Regis y Surgeon,
+Los ritmos violentos de Paula Temple y Giant Swan,
+Y las delicadas partículas de Skee Mask.
+Todo eso se está reconstruyendo dentro de él.
+
+Más que la esterilidad de Berlín, prefiero la humedad de Londres.
+Utilice la presión de la palma de la mano en lugar de la digital.
+Blawan sigue eligiendo **peso terrestre**.
+También es una forma de resistencia para que el club siga siendo un "lugar" una vez más.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXdtjC3rdWo?si=QyrvRPgBzNP1Tc9_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+## Capítulo 7 SickElixir - El ritmo del colapso y renacimiento de la ciudad del acero
+
+El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno pero aún te hace sentir la presencia de la 'humanidad'.
+En medio de ruidos arremolinados y distorsiones, el ritmo mantiene su equilibrio al borde del colapso, y la voz pierde su significado y se transforma en un instrumento.
+La luz que brilla con “Rabbit Hole” y el torrente de graves profundos con “NOS”.
+En cada momento, el sonido de Blawan cruza la línea entre la frialdad y la pasión.
+
+En el fondo se encuentra su propia vida, incluida la pérdida de amigos y la lucha contra las adicciones.
+Detrás de los fríos sonidos mecánicos está el sonido de la respiración de la pérdida y el renacimiento.
+Después de causar impacto con "Por qué esconden sus cuerpos debajo de mi garaje", a lo que llegó después de más de 10 años es a "una oración que habita en la destrucción".
+
+En un momento en el que el techno se vuelve más abstracto y los clubs se funden con el mundo digital, Blawan se atreve a recuperar la "gravedad".
+El ritmo que corre por las venas de la Ciudad del Acero.
+En él, pregunta en voz baja: ¿Puede el sonido seguir siendo humano? **
+
+---
+
+## Capítulo 8 Cronología + Discografía
 
 <div class="mermaid">
 
-flowchart TD
-    A2010["2010：『Fram』EPでデビュー（Hessle Audio）"]
-    A2011["2011：『Bohla EP』（R&S Records）リリース"]
-    A2012["2012：“Why They Hide Their Bodies Under My Garage.”でブレイク"]
-    A2013["2013：PariahとKarenn活動本格化（Sheworks設立）"]
-    A2018["2018：フルアルバム『Wet Will Always Dry』（Ternesc）発表"]
-    A2020["2020：『Immulsion』『Under Belly』など新機軸へ"]
-    A2023["2023：モジュラー中心のライブセットで再評価"]
-    A2025["2025：Blawan＝現代UKテクノの象徴として再定義"]
+diagrama de flujo TD
+A2010["2010: Debut con el EP 'Fram' (Hessle Audio)"]
+A2011["2011: Lanzamiento de "Bohla EP" (R&S Records)"]
+A2012["2012: Avance con "Por qué esconden sus cuerpos debajo de mi garaje".]
+A2013["2013: Actividades de Pariah y Karenn en pleno apogeo (se establece Sheworks)"]
+A2018["2018: Anunciado álbum completo "Wet Will Always Dry" (Ternesc)"]
+A2020["2020: Nuevas innovaciones como 'Immulsion' y 'Under Belly'"]
+A2023["2023: Reevaluar con un set en vivo centrado en módulos"]
+A2025["2025: Blawan = redefinido como un símbolo del techno moderno del Reino Unido"]
 
-    A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
+A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
 
 
@@ -199,146 +201,146 @@ flowchart TD
 
 ---
 
-## 付録：声の断片 — Blawanとその周辺が語る「音」と「身体」
+## Apéndice: Fragmentos de voces: “sonido” y “cuerpo” pronunciados por Blawan y su entorno
 
-> 「テクノを作るとき、僕は“曲”を作っていない。  
-> ただ、リズムが空気を震わせる瞬間を追っているだけ。」  
+> ``Cuando hago techno, no hago canciones.
+> Solo estoy persiguiendo el momento en que el ritmo hace temblar el aire. "
 > —— **Blawan**
 
 ---
 
-> 「あの“Why They Hide Their Bodies…”を初めて聴いたとき、  
->  クラブが一瞬“凍る”感じがした。  
->  恐怖と快楽が同時にくる。  
->  そんなトラックは、10年に一度だよ。」  
-> —— **Ben UFO（Hessle Audio）**
+> “Cuando escuché por primera vez eso de “Por qué esconden sus cuerpos…”
+> El club se sintió “congelado” por un momento.
+> El miedo y el placer vienen al mismo tiempo.
+> Un camión así llega una vez cada 10 años. "
+> —— **Ben OVNI (Hessle Audio)**
 
 ---
 
-> 「Blawanは“硬い音”の中にちゃんとした温度を持ってる。  
->  それが他の誰とも違う。  
->  工場で働いてるみたいに見えて、実は詩人なんだ。」  
-> —— **Pariah（Karenn）**
+> ``Blawan tiene una temperatura adecuada en su ``sonido duro''.
+> Eso es lo que me hace diferente de los demás.
+> Parezco que trabajo en una fábrica, pero en realidad soy poeta. "
+> —— **Paria (Karenn)**
 
 ---
 
-> 「彼のスタジオに行くと、まず“無音”がある。  
->  スイッチを入れる前の静寂が、すでにリズムを孕んでいる。  
->  あの空間自体が“打面”になってるんだ。」  
-> —— **Paula Temple**
+> “Cuando vas a su estudio lo primero que ves es el silencio.
+> El silencio antes de encender el interruptor ya está cargado de ritmo.
+> Ese espacio en sí es la “superficie de bateo”. "
+> —— **Paula Templo**
 
 ---
 
-> 「DJの現場でBlawanをかけると、  
->  みんな一瞬“構え”る。  
->  でも、そのあと笑うんだよ。  
->  体が勝手に反応する。あれは理屈じゃない。」  
-> —— **Objekt**
+> “Cuando pongo Blawan en el sitio del DJ,
+> Todos están preparados por un momento.
+>Pero luego te ríes.
+> Tu cuerpo reacciona por sí solo. Eso no es lógico. "
+> —— **Objeto**
 
 ---
 
-> 「Karennのライブを袖から見てたけど、  
->  まるで鉄工所の中にいるみたいだった。  
->  火花が飛んでるような音。  
->  それでも観客の顔は、どこか優しかった。」  
-> —— **Surgeon（Anthony Child）**
+> “Estaba viendo la actuación en vivo de Karenn desde el costado,
+> Me sentí como si estuviera dentro de una acería.
+> Suena como chispas volando.
+>Aun así, los rostros de la audiencia eran de alguna manera amables. "
+> —— **Cirujano (Anthony Child)**
 
 ---
 
-> 「クラブ・カルチャーがデジタルに溶けていく中で、  
->  Blawanは“重力”を取り戻した。  
->  音が地面に落ちる。  
->  それが今、一番人間的なことだと思う。」  
-> —— **Resident Advisor ライター・コメントより**
+> “A medida que la cultura del club se funde con lo digital,
+> Blawan ha recuperado su "gravedad".
+> El sonido cae al suelo.
+>Creo que eso es lo más humano que podemos hacer en este momento. "
+> —— **Del comentario del escritor del Asesor Residente**
 
 ---
 
-> 「音の中に“手”がある。  
->  それがBlawanの音だ。」  
-> —— **匿名DJ、Boiler Roomセット後の一言**
+> “Hay una “mano” en el sonido.
+> Ese es el sonido de Blawan. "
+> —— **DJ anónimo, una palabra después del set de Boiler Room**
 
 ---
 
-> 「彼の音楽は“無機質”じゃない。  
->  無機質を**演じている**だけだ。  
->  そこに温度があることを、聴く人が感じ取る瞬間。  
->  その一瞬のために彼は音を削っている。」  
-> —— **音楽ライター・再構成コメント**
-
-
----
-
-### 終章　鋼鉄の祈り——踊ること、それは生き延びること
-
-Blawanの音は、時に冷たく、時に荒々しい。
-だがその奥には、確かに「人間の祈り」が宿っている。
-踊るという行為は、都市のノイズの中で“生き延びる”ための儀式だ。
-“Why They Hide Their Bodies Under My Garage.”がいまなお人々を惹きつけるのは、
-そこに恐怖と救済の両方があるからだ。
-
-鋼鉄のような音。
-だが、聴くたびに体温が上がる。
-Blawanは、冷たい世界に血を通わせるアーティストである。
-
-> 「音は、身体の影だ」
->——Blawan（インタビューより）
+> "Su música no es 'inorgánica'.
+> Sólo está **actuando** como un personaje inorgánico.
+> El momento en que el oyente siente que hay temperatura allí.
+> Reduce el sonido en ese momento. "
+> —— **Escritor musical/comentario de reconstrucción**
 
 
 ---
 
-### 付録：Blawanのモジュラー・セットアップ図解（2020–2025）
+### Capítulo final: Oración de acero: bailar es sobrevivir
 
-> 「すべての音は、触れることから始まる。」  
-> ——Blawan
+El sonido de Blawan es a veces frío y a veces áspero.
+Sin embargo, en lo más profundo de nosotros ciertamente hay una "oración humana".
+El acto de bailar es un ritual para "sobrevivir" en el ruido de la ciudad.
+"Por qué esconden sus cuerpos debajo de mi garaje". todavía atrae a la gente porque
+Porque hay tanto miedo como alivio.
+
+Un sonido como el del acero.
+Pero cada vez que lo escucho me sube la temperatura.
+Blawan es un artista cuya sangre fluye por el mundo frío.
+
+> "El sonido es la sombra del cuerpo"
+>——Blawan (de la entrevista)
+
+
+---
+
+### Apéndice: Diagrama de configuración modular de Blawan (2020-2025)
+
+> "Todos los sonidos comienzan con el tacto".
+>——Blawan
 
 <div class="mermaid">
 
-flowchart TD
-    subgraph "🎚️ Control Section（操作系）"
-      MATHS["Make Noise MATHS\n(Envelope / Modulator)"]
-      PAM["Pamela's New Workout\n(Clock / Sync Generator)"]
-      METROP["Intellijel Metropolis\n(Sequencer)"]
-    end
+diagrama de flujo TD
+subgrafo "🎚️ Sección de Control"
+MATHS["Hacer ruido MATHS\n(Envolvente / Modulador)"]
+PAM["El nuevo entrenamiento de Pamela\n(Generador de reloj/sincronización)"]
+METROP["Intellijel Metropolis\n(Secuenciador)"]
+fin
 
-    subgraph "🎛️ Sound Generation（発振・変調）"
-      OSC["Mutable Instruments Plaits\n(Multi-oscillator)"]
-      VCO["Verbos Complex VCO\n(Analog Oscillator)"]
-      DFAM["Moog DFAM\n(Drum Synth)"]
-      BASS["Erica Synths Bassline\n(Acid / Low-end)"]
-    end
+subgrafo "🎛️ Generación de sonido (oscilación/modulación)"
+OSC["Trenzas de instrumentos mutables\n(multioscilador)"]
+VCO["VCO complejo Verbos\n(oscilador analógico)"]
+DFAM["Moog DFAM\n(Sintetizador de batería)"]
+BAJO["Erica Synths Bassline\n(Ácido/Gama baja)"]
+fin
 
-    subgraph "🔧 Processing / Effects"
-      FILTER["XAOC Belgrad\n(Dual Filter)"]
-      DIST["Elektron Analog Heat\n(Distortion / Saturator)"]
-      REVERB["Strymon BigSky\n(Reverb)"]
-      DELAY["Make Noise Mimeophon\n(Delay / Texture)"]
-    end
+subgrafo "🔧Procesamiento/Efectos"
+FILTRO["XAOC Belgrado\n(Filtro dual)"]
+DIST["Calor analógico Elektron\n(Distorsión/Saturador)"]
+REVERB["Strymon BigSky\n(Reverberación)"]
+DELAY["Hacer ruido mimeofón\n(Retraso/Textura)"]
+fin
 
-    subgraph "🔊 Output & Mixing"
-      MIX["WMD Performance Mixer"]
-      OUT["Audio Interface\n(RME Fireface / Ableton Integration)"]
-      REC["Recording / Master Chain"]
-    end
+subgrafo "🔊 Salida y mezcla"
+MIX["Mezclador de rendimiento WMD"]
+SALIDA["Interfaz de audio\n(Integración RME Fireface / Ableton)"]
+REC["Grabación/Cadena Master"]
+fin
 
-    PAM --> METROP
-    METROP --> OSC
-    METROP --> DFAM
-    MATHS --> FILTER
-    OSC --> FILTER
-    DFAM --> DIST
-    FILTER --> DELAY
-    DELAY --> REVERB
-    REVERB --> MIX
-    DIST --> MIX
-    MIX --> OUT
-    OUT --> REC
+PAM --> METROP
+METROP --> OSC
+METROP --> DFAM
+MATEMÁTICAS --> FILTRO
+OSC --> FILTRO
+DFAM --> DISTRIBUCIÓN
+FILTRO --> RETRASO
+RETARDO --> REVERB
+REVERB --> MEZCLA
+DISTRIBUCIÓN --> MEZCLA
+MEZCLA --> FUERA
+SALIDA --> GRABAR
 
 
 </div>
 
 ---
 
-### Blawanスタジオの特徴メモ
+### Nota de características de Blawan Studio
 
 | 区分         | 機材                                   | 用途         | 特徴                   |
 | ---------- | ------------------------------------ | ---------- | -------------------- |
@@ -351,39 +353,39 @@ flowchart TD
 
 ---
 
-このセットアップが生む音は、完全に手作業で作られた電子音だ。
-Blawanは「打ち込み」ではなく「演奏」をしている。
-それゆえに、彼のテクノは“人間的な不安定さ”を残しているのだ。
+Los sonidos producidos por esta configuración son sonidos electrónicos completamente hechos a mano.
+Blawan no está "escribiendo" sino "interpretando".
+Por lo tanto, su techno conserva una "inestabilidad humana".
 
-> 「電子機器を操作するのではなく、交感する感覚なんだ」
-> ——Blawan（RBMA Interview）
+> "No es como manejar un dispositivo electrónico, es un sentimiento de empatía."
+> ——Blawan (Entrevista RBMA)
 
 
 ---
 
-### 後記
+### Posdata
 
-夜の街に響く重低音。  
-誰もがスマートフォンで音を消費する時代に、  
-Blawanは、**“触れる音”**を取り戻そうとしている。  
+Los graves pesados ​​resuenan en la ciudad nocturna.
+En una era en la que todo el mundo consume sonido en sus teléfonos inteligentes,
+Blawan está intentando recuperar el sonido del tacto.
 
-スチールのような音の中に、人間のぬくもりがある。  
-その矛盾こそが、彼の存在理由だ。
+Hay una calidez humana en el sonido del acero.
+Esa contradicción es la razón de su existencia.
 
-> 「僕はテクノを信じてる。  
->  まだ、誰かが踊ってるかぎりは。」  
+> “Creo en el techno.
+> Mientras alguien todavía esté bailando. "
 > —— **Blawan**
 
 ---
 
-### 関連コラム
+### Columnas relacionadas
 
-🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)

@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Aquasky – Tranquility Kauna.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Aquasky – Tranquility Kauna/
 tags:
 - Drum n Bass
 - Acid
-title: Aquasky – Tranquility Kauna
+title: Aquasky – Tranquilidad Kauna
 ---
 
 
-1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
+Este es un EP de Aquasky lanzado en 1996 en el sello británico "Moving Shadow".
 
-AquaskyはSouthern FriedやWearhouse Musicといった4/4エイリアスのBlack Noiseに取り組んできましたが、今度は彼らのルーツに戻り、Acid Houseの時代に戻ったトラックです。
+Aquasky ha trabajado con alias 4/4 Black Noise, como Southern Fried y Wearhouse Music, pero esta vez regresan a sus raíces con un track que los transporta a sus días de Acid House.
 
-Acid、ジャングル、ドラムアンドベース、ブレイクビートを経て、現在ではあらゆるベースミュージックの形態を包括するキャリアを持つこのトリオによるこの時代のEPは必聴。
+Un EP imprescindible de esta época, de este trío cuya carrera abarcó acid, Jungle, drum and bass, breakbeat y ahora abarca todas las formas de bass music.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 X. Tranquility
 
 Y. Kauna
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kie328H__jM?si=mvYB5njf6ehILjtF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kie328H__jM?si=mvYB5njf6ehILjtF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

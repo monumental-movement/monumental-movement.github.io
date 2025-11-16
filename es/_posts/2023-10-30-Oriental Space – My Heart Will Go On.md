@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Oriental Space – My Heart Will Go On.webp
 lang: es
 layout: post
+permalink: /es/2023-10-30-Oriental Space – My Heart Will Go On/
 tags:
 - Trance
-title: Oriental Space – My Heart Will Go On
+title: Espacio Oriental – Mi Corazón Seguirá
 ---
 
 
-タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
+Versión en trance del tema principal de Titanic, MY HEART WILL GO ON de CELINE DION.
 
-Oriental Spaceは、Kousuke Okamoto (岡本 幸祐[トランス プロデューサー、DJ])のプロジェクトです。
+Oriental Space es un proyecto de Kousuke Okamoto (productor de trance, DJ).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. My Heart Will Go On
 
@@ -24,7 +25,7 @@ B1. Peace
 B2. Emperortime
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90932378296?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90932378296?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M11dQq1sHAY?si=w-sAK5ou_OaGvZ6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M11dQq1sHAY?si=w-sAK5ou_OaGvZ6y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

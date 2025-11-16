@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Eric B and Rakim – Paid In Full.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-Eric B and Rakim – Paid In Full/
 tags:
 - Hip Hop
 - 90s
-title: Eric B. & Rakim – Paid In Full
+title: Eric B. y Rakim - Pagado en su totalidad
 ---
 
 
-Eric B. & Rakimは、1986年にニューヨークのロングアイランドで、DJ Eric B.とラッパーのRakimによって結成されたアメリカのヒップホップデュオ。
+Eric B. & Rakim son un dúo de hip-hop estadounidense formado en Long Island, Nueva York en 1986 por el DJ Eric B. y el rapero Rakim.
 
-1987年にリリースされた「Paid in Full」はデビューアルバムで、"Eric B. Is President", "I Ain't No Joke", "I Know You Got Soul", "Move the Crowd",  "Paid in Full"など、全米で大ヒットしたシングルが多数収録されている。ゴールデンエイジ・ヒップホップのベンチマークアルバムとしても知られている。このCDは再発盤。
+Lanzado en 1987, "Paid in Full" fue su álbum debut e incluyó muchos sencillos exitosos en los Estados Unidos, incluidos "Eric B. Is President", "I Ain't No Joke", "I Know You Got Soul", "Move the Crowd" y "Paid in Full". También es conocido como el álbum de referencia del hip hop de la época dorada. Este CD es una reedición.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. I Ain't No Joke
 2. Eric B Is On The Cut
@@ -31,7 +32,7 @@ Eric B. & Rakimは、1986年にニューヨークのロングアイランドで�
 10. Extended Beat
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

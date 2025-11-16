@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/The Architect – Pixelated Porn King.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-The Architect – Pixelated Porn King/
 tags:
 - Techno
 - Minimal
-title: The Architect – Pixelated Porn King
+title: El arquitecto - Rey del porno pixelado
 ---
 
 
-The Architectは、DJ/プロデューサーJay Haze（ジェイ・ヘイズ）の別名義。他にも Fuckpony、 Sub Versionなどがある。Jay Hazeは、 Ricardo Villalobos（リカルド・ヴィラロボス）や Samim Winiger（サミム・ウィニガー）などのコラボレーションや、Hell, P. Diddy、Gui Borattoなどremixを担当。彼のremixの中でも、『アメリ』のYann Tiersen（ヤン・ティアセン）の映画『アメリ』テーマはクロスオーバーヒットとなった。
+The Architect es el alias del DJ/productor Jay Haze. También están Fuckpony, Sub Version, etc. Jay Haze es responsable de colaboraciones con Ricardo Villalobos y Samim Winiger, así como de remixes para Hell, P. Diddy, Gui Boratto y más. Entre sus remezclas, el tema de Yann Tiersen para la película Amélie se convirtió en un éxito cruzado.
 
-「Pixelated Porn King」は、Tuning Spork Recordsより2002年にリリースされた。
+"Pixelated Porn King" fue lanzado en 2002 por Tuning Spork Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Funkin
 
@@ -27,7 +28,7 @@ B1. Yknewk
 B2. Oinan
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82819897771?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wiw4kPKatAo?si=F8aqaoZCL-kQuebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wiw4kPKatAo?si=F8aqaoZCL-kQuebU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

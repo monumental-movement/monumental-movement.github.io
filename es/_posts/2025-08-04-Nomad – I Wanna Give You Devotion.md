@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Nomad – (I Wanna Give You) Devotion.webp
 lang: es
 layout: post
+permalink: /es/2025-08-04-Nomad – I Wanna Give You Devotion/
 tags:
 - House
 - 90s
-title: Nomad – (I Wanna Give You) Devotion
+title: Nómada – (Quiero darte) Devoción
 ---
 
 
-Nomadは、90年代を代表するUK House duo。
+Nomad es un dúo de house británico de los años 90.
 
-1991年にCapitol Records からリリースされた「 (I Wanna Give You) Devotion」は、世界的にヒットしたNomadの代表曲。90sダンスミュージックのアンセムの一つとされており、UKの有名プロデューサーSteve Macの初めての作曲作品としても知られている。
+"(I Wanna Give You) Devotion", lanzada por Capitol Records en 1991, es la canción característica de Nomad que se convirtió en un éxito mundial. Se considera uno de los himnos de la música dance de los 90 y también se conoce como la primera composición del famoso productor británico Steve Mac.
 
-B1は、UKの大御所DJ Dave Lee(Joey Negro)によるremix。
-B2は、初期のUKハウスに影響を与えたHouse DJ&Radio DJ Paul Andersonによるremix。
+B1 es un remix del famoso DJ británico Dave Lee (Joey Negro).
+B2 es un remix del House DJ y Radio DJ Paul Anderson, quien influyó en los inicios del house británico.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. (I Wanna Give You) Devotion (Original Mix)
 A2. (I Wanna Give You) Devotion (Soul Mix)
@@ -28,7 +29,7 @@ B1. (I Wanna Give You) Devotion (The Joey Negro Mix)
 B2. (I Wanna Give You) Devotion (Trouble's Underground Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GAZzZ4gbyug?si=j-SJbRonTPre_lqK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GAZzZ4gbyug?si=j-SJbRonTPre_lqK" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,123 +5,124 @@ categories:
 image: ../assets/images/column-survival-research-laboratories.webp
 lang: es
 layout: post
+permalink: /es/2025-10-01-Column-Survival-Research-Laboratories/
 tags:
 - Art
 - Experimental
-title: '【コラム】 Survival Research Laboratories（SRL）: 機械芸術の先駆者'
+title: '[Columna] Survival Research Laboratories (SRL): Pionero del arte mecánico'
 ---
 
 
-## SRLとは？
+## ¿Qué es SRL?
 
-文：mmr｜テーマ：機械と人間、技術と芸術、秩序と混沌の関係を問い直す革新的な集団について
+Texto: mmr｜Tema: Sobre un grupo innovador que cuestiona la relación entre máquinas y humanos, tecnología y arte, y orden y caos.
 
 
-Survival Research Laboratories（SRL）は、1978年にMark Paulineによってサンフランシスコで設立されたアメリカのパフォーマンスアート集団です。SRLは、産業、科学、軍事技術を芸術的かつ社会政治的な風刺に転用することを目的とし、機械やロボットを用いた大規模なパフォーマンスで知られています。彼らの作品は、ダダやジャン・ティンゲリーの芸術に関連し、技術社会の状態と方向性に疑問を投げかけるものと評価されています。
+Survival Research Laboratories (SRL) es un colectivo estadounidense de artes escénicas fundado en San Francisco en 1978 por Mark Pauline. SRL es conocida por sus actuaciones a gran escala que utilizan máquinas y robots, cuyo objetivo es reutilizar la tecnología industrial, científica y militar en una sátira artística y sociopolítica. Su trabajo está asociado con el arte de Dada y Jean Tinguely, y ha sido elogiado por cuestionar el estado y la dirección de la sociedad tecnológica.
 
 ---
 
 
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-### 主な活動とパフォーマンス
+### Principales actividades y actuaciones
 
-SRLのパフォーマンスは、機械、ロボット、特殊効果装置を用いた儀式的な相互作用で構成され、観客やオペレーターのみが人間として参加します。代表的なパフォーマンスには以下があります：
+Las actuaciones de SRL consisten en interacciones ritualizadas con máquinas, robots y equipos de efectos especiales, en las que sólo el público y los operadores participan como humanos. Las actuaciones típicas incluyen:
 
-- **Machine Sex（1979年）**：SRLの初のパフォーマンスで、The Demanufacturing Machineを使用して物体を粉砕し、観客に投げつける内容でした。
+- **Machine Sex (1979)**: Primera actuación de SRL, que implicó utilizar The Demanufacturing Machine para romper objetos y lanzarlos al público.
 
-- **Illusions of Shameless Abundance（1989年）**：サンフランシスコのSOMA地区で行われ、燃えるピアノや腐った食物、火を吹くロボットが登場し、爆発物に似た偽の彫刻がビーチ閉鎖と爆弾処理班の出動を招きました。
+- **Ilusiones de abundancia desvergonzada (1989)**: Ambientada en el distrito SOMA de San Francisco, un piano en llamas, comida podrida, robots que escupen fuego y esculturas falsas que parecen explosivos provocan el cierre de playas y el envío de escuadrones antiexplosivos.
 
-- **The Unexpected Destruction of Elaborately Engineered Artifacts（1997年）**：テキサス州オースティンで行われ、ロボット、火炎放射器、V-1ジェットエンジンが登場しました。
-
----
-
-### SRLの主要人物
-
-
-#### Mark Pauline（マーク・ポーリーン）
-
-役割：創設者（1978年〜現在）／芸術監督
-
-背景：カリフォルニア美術大学（SFAI）出身。若い頃に爆薬事故で右手を失い義手を装着、その経験から「危険と機械」をテーマにした表現を深めた。
-
-特徴：産業機械・軍事技術を転用し、社会風刺的なロボットパフォーマンスを演出。
-
-現在：ペタルマ（Petaluma, California）の拠点でSRLを率いる。
+- **La destrucción inesperada de artefactos de ingeniería elaborada (1997)**: Tiene lugar en Austin, Texas, y presenta robots, lanzallamas y motores a reacción V-1.
 
 ---
 
-#### Matt Heckert（マット・ヘッカート）
+### Cifras clave de SRL
 
-役割：サウンドデザイン、機械音楽担当（1980〜1990年代中心）
 
-功績：ロボットを楽器化し、機械による作曲・演奏を実現。後に独立して「Mechanical Sound Orchestra（MSO）」を結成。
+#### Marcos Paulina
 
-影響：SRLの「騒音と音楽の中間」に位置するサウンド面を確立。
+Rol: Fundador (1978-presente)/Director artístico
 
----
+Antecedentes: Graduado del Instituto de las Artes de California (SFAI). Cuando era joven, perdió su mano derecha en un accidente con explosivos y le colocaron una prótesis de brazo. A partir de esta experiencia profundizó su expresión sobre el tema “peligro y maquinaria”.
 
-#### Eric Werner（エリック・ヴェルナー）
+Características: Reutiliza maquinaria industrial y tecnología militar para crear actuaciones de robots socialmente satíricas.
 
-役割：ロボット工学エンジニア
-
-功績：機械制御システム、電気設計を担当。大型のロボットアームや移動機械を開発。
+Actualmente: Lidera SRL desde su base en Petaluma, California.
 
 ---
 
-#### Joe Grand（ジョー・グランド）
+#### Matt Heckert
 
-役割：エンジニア／電子設計
+Rol: Diseño de sonido, música mecánica (principalmente de los años 80 a los 90)
 
-背景：ハードウェアハッカーとしても知られる人物。
+Logros: Convertir robots en instrumentos musicales, haciendo posible componer e interpretar música mediante máquinas. Posteriormente, se independizó y formó "Mechanical Sound Orchestra (MSO)".
 
-功績：SRLの機械制御基盤や特殊インターフェースの開発に参加。
+Influencia: Consolidó el sonido de SRL que se ubica entre "el ruido y la música".
+
+---
+
+#### Eric Werner
+
+Rol: Ingeniero en Robótica
+
+Logros: Responsable del sistema de control mecánico y diseño eléctrico. Desarrolló grandes brazos robóticos y máquinas móviles.
+
+---
+
+#### Joe Grand
+
+Rol: Ingeniero/Diseño Electrónico
+
+Antecedentes: una persona también conocida como hacker de hardware.
+
+Logros: Participé en el desarrollo de la infraestructura de control de máquinas e interfaces especiales de SRL.
 
 
 ---
 
-#### Other Key Collaborators
+#### Otros colaboradores clave
 
-Amy Critchett：プロデューサー／マネジメント面でサポート。
+Amy Critchett: Apoyo al productor/gerente.
 
-Karen Marcelo：ハッカー文化との橋渡し役、「dorkbot SF」主宰。
+Karen Marcelo: Sirve de puente entre la cultura hacker y organiza "dorkbot SF".
 
-Alan Rath：初期メンバー。後に独自の電子彫刻で評価を得る。
+Alan Rath: miembro inicial. Más tarde obtuvo elogios por sus esculturas electrónicas únicas.
 
-Gilles Larrain：映像・写真記録でコラボ。
+Gilles Larrain: Colaboración en registros de vídeo y fotografías.
 
 ---
 
-### 人物相関図
+### Diagrama de correlación de personas
 
 <div class="mermaid">
-flowchart TD
-    A[Mark Pauline<br>創設者/芸術監督] --> B[Matt Heckert<br>サウンド/機械音楽]
-    A --> C[Eric Werner<br>ロボットエンジニア]
-    A --> D[Joe Grand<br>電子設計/制御]
-    A --> E[Amy Critchett<br>プロデュース]
-    A --> F[Karen Marcelo<br>ハッカー文化連携]
-    A --> G[Alan Rath<br>電子彫刻家]
+diagrama de flujo TD
+A[Mark Pauline<br>Fundador/Director artístico] --> B[Matt Heckert<br>Sonido/Música mecánica]
+A --> C[Eric Werner<br>Ingeniero de robots]
+A --> D[Joe Grand<br>Diseño/Control Electrónico]
+A --> E[Amy Critchett<br>Producida]
+A --> F[Karen Marcelo<br>Colaboración con la cultura hacker]
+A --> G[Alan Rath<br>Escultor electrónico]
 </div>
 
 ---
 
-### SRLの代表的なDVD・アルバム
+### DVD/álbum representativo de SRL
 
 
-SRLは、パフォーマンスの音響体験を収めたDVDやアルバムもリリースしています。以下は代表的なアルバムです：
+SRL también lanza DVD y álbumes que contienen experiencias acústicas de actuaciones. A continuación se muestran algunos álbumes representativos:
 
 | 作品名                          | Description        | リンク |
 | ------------------------------ | ------------ | ----------- |
@@ -131,40 +132,40 @@ SRLは、パフォーマンスの音響体験を収めたDVDやアルバムも�
 
 ---
 
-### SRLの影響と文化的意義
+### Influencia de SRL y significado cultural
 
-SRLは、ロボット工学、パフォーマンスアート、社会政治的風刺を融合させた先駆的な存在です。彼らの作品は、技術と芸術の境界を曖昧にし、観客に強烈な印象を与えます。SRLの活動は、Burning ManやBattlebotsなどのイベントにも影響を与え、現代のメイカー文化やキネティックアートに多大な影響を及ぼしました。
-
-
----
-
-### SRLの活動履歴と移転
-
-#### 創設と初期の活動（1978年〜1980年代）
-
-Survival Research Laboratories（SRL）は、1978年にMark Paulineによってサンフランシスコで創設されました。SRLは、産業、軍事、科学技術を芸術的手法で再解釈し、機械やロボットを用いたパフォーマンスを展開することで知られています。初期のパフォーマンスには、「Machine Sex」（1979年）や「Illusions of Shameless Abundance」（1989年）などがあり、これらは観客に強烈な印象を与えました。
-
-#### 移転と新たな拠点（2007年〜現在）
-
-2007年、SRLはサンフランシスコから約1時間北に位置するペタルマ（Petaluma）に移転しました。この移転は、サンフランシスコの倉庫の家賃が高騰したため、180トンの機材を運搬して行われました。現在、SRLはペタルマの839 N. Petaluma Blvdに拠点を構えており、広大なガレージで機械の製作やパフォーマンスの準備を行っています。
-
-#### 現在の活動と展望
-
-SRLは、引き続き機械やロボットを用いたパフォーマンスを行っており、近年では「Burning Man」などのイベントにも参加しています。また、インターネットを介して遠隔操作可能な機械の開発など、技術と芸術の融合を追求しています。
+SRL es una fusión pionera de robótica, performance y sátira sociopolítica. Sus obras desdibujan los límites entre tecnología y arte, dejando una fuerte impresión en el público. Las actividades de SRL influyeron en eventos como Burning Man y Battlebots, y tuvieron un gran impacto en la cultura maker y el arte cinético moderno.
 
 
 ---
 
-### SRLの最新情報とリソース
+### Historial de actividad y transferencia de SRL
 
-- [公式ウェブサイト](https://www.srl.org/)
+#### Fundación y actividades iniciales (1978-1980)
+
+Survival Research Laboratories (SRL) fue fundada en San Francisco en 1978 por Mark Pauline. SRL es conocida por su reinterpretación artística de lo industrial, militar y de ciencia y tecnología, y sus actuaciones utilizando máquinas y robots. Sus primeras actuaciones incluyeron "Machine Sex" (1979) e "Illusions of Shameless Abundance" (1989), que causaron una fuerte impresión en el público.
+
+#### Reubicación y nueva base (2007-presente)
+
+En 2007, SRL se mudó a Petaluma, aproximadamente a una hora al norte de San Francisco. Este movimiento se realizó con 180 toneladas de equipo movidas debido al aumento de los alquileres del almacén de San Francisco. Hoy en día, SRL está ubicada en 839 N. Petaluma Blvd en Petaluma, donde construyen máquinas y las preparan para presentaciones en un gran garaje.
+
+#### Actividades actuales y perspectivas
+
+SRL sigue actuando utilizando máquinas y robots, y en los últimos años ha participado en eventos como Burning Man. También buscamos la fusión de tecnología y arte, como el desarrollo de máquinas que puedan controlarse de forma remota a través de Internet.
+
+
+---
+
+### SRL Información y recursos más recientes
+
+- [Sitio web oficial](https://www.srl.org/)
 - [Instagram](https://www.instagram.com/survivalresearchlabs/)
-- [YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
+- [Canal de YouTube] (https://www.youtube.com/user/survivalresearchlabs)
 
 
 ---
 
 
-### 結論
+### Conclusión
 
-Survival Research Laboratoriesは、機械と人間、技術と芸術、秩序と混沌の関係を問い直す革新的な集団です。彼らの作品は、視覚的・聴覚的な衝撃を通じて、現代社会における技術の役割と影響を鋭く批評しています。SRLの活動は、今後も多くのアーティストや技術者にインスピレーションを与え続けるでしょう。
+Survival Research Laboratories es un grupo innovador que cuestiona la relación entre máquinas y humanos, tecnología y arte, y orden y caos. Su trabajo ofrece una crítica aguda del papel y la influencia de la tecnología en la sociedad moderna a través de impactos visuales y auditivos. Las actividades de SRL seguirán brindando inspiración a muchos artistas e ingenieros.

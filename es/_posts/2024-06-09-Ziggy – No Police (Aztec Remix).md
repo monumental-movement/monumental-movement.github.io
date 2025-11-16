@@ -5,28 +5,29 @@ categories:
 image: ../assets/images/Ziggy – No Police (Aztec Remix).webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Ziggy – No Police (Aztec Remix)/
 tags:
 - Hi NRG
 - Euro
 - Euro Beat
 - 90s
 - Rare
-title: Ziggy – No Police (Aztec Remix)
+title: Ziggy – No Police (Azteca Remix)
 ---
 
 
-「 No Police 」は、ベルギーのニュービートプロジェクトJ.C.ProjectやThe Beast、War Peopleのメンバーとして知られるChristoff WybouwことSerge Gobinが作曲・プロデュースしたハイエナジートラック。 Christoff Wybouwは、別名義のBingo!でリリースした「Arabeat」が有名。
+"No Police" es un tema lleno de energía compuesto y producido por Christoff Wybouw, también conocido como Serge Gobin, conocido como miembro del proyecto belga de new beat J.C. Project, The Beast y War People. Christoff Wybouw es famoso por "Arabeat", publicado bajo el alias Bingo!.
 
-このレコードは、メキシコのダンスレーベルMaxiから1987年にリリースされたメキシコ盤でベルギー盤とはジャケが違うレアレコード。
+Este disco es un raro disco mexicano lanzado en 1987 por el sello de baile mexicano Maxi, con una cubierta diferente a la del disco belga.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. No Police = No Llamen A La Policia (Aztec Remix)
 
 B. No Police = No Llamen A La Policia (Original Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35371062618?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

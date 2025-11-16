@@ -5,61 +5,64 @@ categories:
 image: ../assets/images/column-euro-sound.webp
 lang: es
 layout: post
+permalink: /es/2025-09-02-Column-Euro-Sound/
 tags:
 - Euro
 - Euro Beat
 - Euro House
-title: 【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い
+title: '[Columna] Los “sonidos europeos” cambian según las fronteras nacionales: Italia,
+  Alemania y Suecia: diferencias en la música europea producida por los tres principales
+  países productores'
 ---
 
 
 
-## “ユーロの音” なぜ国別で音が違うのか？
+## “El sonido del euro” ¿Por qué los sonidos difieren según el país?
 
-文：mmr｜テーマ：ジャンル：音楽コラム｜テーマ：制作国別90年代ユーロ音楽の比較分析
+Texto: mmr | Tema: Género: Columna musical | Tema: Análisis comparativo de la música europea de los 90 por país de producción
 
 
-「ユーロ・ミュージック」と一括りに語られがちだが、実際には制作された国によって“音の質感”や“美意識”がまったく異なる。  
-90年代、このジャンルの主戦場となったのは主に **イタリア、ドイツ、スウェーデン**。  
-彼らはそれぞれの文化、産業、技術背景をもとに、独自の「ユーロの音」を世界へ輸出していた。
+Aunque a menudo se la denomina "música europea", en realidad la "textura sonora" y el "sentido estético" difieren según el país en el que se produjo.
+En la década de 1990, los principales campos de batalla de este género eran **Italia, Alemania y Suecia**.
+Basándose en sus respectivos antecedentes culturales, industriales y tecnológicos, estaban exportando su propio "sonido del euro" al mundo.
 
 ---
 
-### イタリア産ユーロ：「スピード」と「シンセの艶」
-**概要**  
-- **拠点**：ミラノ、ヴェローナ、パルマなど  
-- **主なレーベル**：Time Records、A-Beat-C、Discomagic  
-- **特徴**：高速BPM、派手なシンセ、分厚いユニゾンメロディ、感情過多なボーカル  
+### Euro italiano: “Speed” y “Synth Shine”
+**descripción general**
+- **Ubicaciones**: Milán, Verona, Parma, etc.
+- **Disqueras principales**: Time Records, A-Beat-C, Discomagic
+- **Características**: BPM rápido, sintetizador elegante, melodía espesa al unísono, voces emotivas
 
-**音の特徴**  
-- BPMは140～160と非常に高速  
-- 音数が多く、シンセは派手でキラキラ  
-- リズムよりメロディを最優先  
-- ドラマチックでエモーショナルな展開  
+**Características del sonido**
+- BPM es muy rápido a 140-160
+- Hay muchos sonidos y los sintetizadores son llamativos y chispeantes.
+- Priorizar la melodía sobre el ritmo.
+- Desarrollo dramático y emocional.
 
-**代表アーティスト／ユニット**  
-- Dave Rodgers  
-- Domino  
-- Alexia  
-- Corona  
-- Eiffel 65  
+**Artista/unidad representativa**
+-Dave Rodgers
+- Dominó
+-Alexia
+- corona
+- Eiffel 65
 
-**文化的背景**  
-- Italo Disco〜ハイエナジーの継承者  
-- 映画音楽大国イタリアらしく、構成やスケール感が演劇的  
-- 国内需要は限定的、国外（特に日本）向け輸出志向  
+**Antecedentes culturales**
+- Italo Disco ~ Sucesor de High Energy
+- La estructura y la escala son teatrales, típicas de Italia, un país importante en la música de cine.
+- La demanda interna es limitada y está orientada a la exportación a países extranjeros (especialmente Japón)
 
-**代表ディスコグラフィ**  
+**Discografía representativa**
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
@@ -75,31 +78,31 @@ color: #fff;
 
 ---
 
-### ドイツ産ユーロ：「パワー」と「構造美」
-**概要**  
-- **拠点**：フランクフルト、ミュンヘン、ベルリンなど  
-- **主なレーベル**：Dance Pool（Sony Germany）、Zyx、Low Spirit  
-- **特徴**：重たいビート、機械的なベースライン、ミニマル構成、クラブ志向  
+### Euro alemán: “poder” y “belleza estructural”
+**descripción general**
+- **Ubicaciones**: Frankfurt, Munich, Berlín, etc.
+- **Disqueras principales**: Dance Pool (Sony Alemania), Zyx, Low Spirit
+- **Características**: ritmo pesado, línea de bajo mecánica, composición mínima, orientado a club
 
-**音の特徴**  
-- 太くて硬質なキックドラム、4つ打ちを強調  
-- メロディよりリズムと構造を重視  
-- コード進行はシンプルで暗め  
-- トランス的要素も多く、ループ感を活かす  
+**Características del sonido**
+- Bombo grueso y duro, enfatizando tiempos de 4/4
+- Énfasis en el ritmo y la estructura sobre la melodía.
+- La progresión de acordes es simple y oscura.
+- Hay muchos elementos parecidos al trance, haciendo uso de la sensación de bucle.
 
-**代表アーティスト／ユニット**  
-- Snap!  
-- Culture Beat  
-- Real McCoy  
-- U96  
-- Scooter  
+**Artista/unidad representativa**
+-¡Quebrar!
+-Cultura Beat
+-Real McCoy
+-U96
+-Scooter
 
-**文化的背景**  
-- 工業国家としての精密さ、技術志向  
-- クラブ・レイヴ文化の浸透度が高く、より実践的なトラックが多い  
-- ベルリンの壁崩壊後、音楽的解放が進行  
+**Antecedentes culturales**
+- Precisión y orientación tecnológica como nación industrializada
+- La cultura rave de los clubes está muy extendida y hay muchas más pistas prácticas.
+- La liberación musical avanza tras la caída del Muro de Berlín
 
-**代表ディスコグラフィ**  
+**Discografía representativa**
 
 | アーティスト | アルバム/シングル | 特徴・ヒット曲 |
 |---|---|---|
@@ -111,31 +114,31 @@ color: #fff;
 
 ---
 
-### スウェーデン産ユーロ：「洗練されたポップ感覚」
-**概要**  
-- **拠点**：ストックホルム、マルメなど  
-- **主なレーベル**：Stockholm Records、Mega Records  
-- **特徴**：清涼感あるサウンド、英語詞ポップ志向、ソフトなミックス  
+### Euro sueco: “Sensación pop sofisticada”
+**descripción general**
+- **Ubicación**: Estocolmo, Malmö, etc.
+- **Sellos principales**: Stockholm Records, Mega Records
+- **Características**: sonido genial, letras en inglés orientadas al pop, mezcla suave
 
-**音の特徴**  
-- ポップス的な構造、聴きやすく親しみやすい  
-- ミドルテンポ、バラード系の楽曲も多い  
-- リズムは控えめ、メロディとボーカル重視  
-- 洗練されたミックスとプロダクションの透明感  
+**Características del sonido**
+- Estructura pop, fácil de escuchar y accesible.
+- Muchas canciones son de medio tiempo y tipo balada.
+- Ritmo moderado, énfasis en la melodía y la voz.
+- Mezcla pulida y claridad de producción.
 
-**代表アーティスト／ユニット**  
-- Ace of Base  
-- Roxette  
-- Dr. Alban  
-- Rednex  
-- Army of Lovers  
+**Artista/unidad representativa**
+- As de base
+-Roxette
+- Dr. Albano
+-Rednex
+- Ejército de los amantes
 
-**文化的背景**  
-- スウェーデンは英語教育が高度で、歌詞も英語が基本  
-- ABBA以降、輸出志向のポップス作りが伝統  
-- ハードよりミドルでメロディ重視の音作り  
+**Antecedentes culturales**
+- Suecia tiene un alto nivel de educación en inglés y las letras están mayoritariamente en inglés.
+- Desde ABBA, ha sido una tradición hacer música pop orientada a la exportación.
+- Creación de sonido que enfatiza la melodía en el medio en lugar de la fuerte.
 
-**代表ディスコグラフィ**  
+**Discografía representativa**
 
 | アーティスト | アルバム/シングル | 特徴・ヒット曲 |
 |---|---|---|
@@ -147,7 +150,7 @@ color: #fff;
 
 ---
 
-### 比較表まとめ：制作国別「ユーロの個性」
+### Resumen del cuadro comparativo: “Personalidad del euro” por país de producción
 
 
 
@@ -162,8 +165,8 @@ color: #fff;
 
 ---
 
-### ユーロ・ミュージックは“国境の音楽”ではなく、“国民性の音”だった
-90年代ユーロ・ミュージックの最大の魅力は、「世界共通語」的に機能しながら、実はその中に各国の文化や美学が濃厚に埋め込まれていることだ。  
-同じような4つ打ちでも、イタリアの熱、ドイツの硬質さ、スウェーデンの清涼感は明らかに違う。  
+### La música europea no era “música nacional” sino “sonido nacional”
+El mayor atractivo de la música europea de los noventa es que, si bien funciona como un "lenguaje universal", en realidad está profundamente arraigado en las culturas y estéticas de cada país.
+Aunque todos son similares, el calor de Italia, la dureza de Alemania y el frescor de Suecia son claramente diferentes.
 
-グローバルとローカルの交差点に生まれた音楽。 それが、90年代ユーロの本質なのかもしれない。
+Música nacida en la intersección de lo global y lo local. Ésa puede ser la esencia del euro de los noventa.

@@ -5,184 +5,185 @@ categories:
 image: ../assets/images/column-ben-frost.webp
 lang: es
 layout: post
+permalink: /es/2025-10-11-Colum-Ben-Frost/
 tags:
 - Noise
 - Experimental
 - Ambient
 - 00s
-title: 【コラム】 Ben Frostと音響建築：ノイズと構造のあいだで
+title: '[Columna] Ben Frost y la arquitectura acústica: Entre el ruido y la estructura'
 ---
 
 
-## Ben Frostと音響建築 - 周波数の暴力
+## Ben Frost y la arquitectura acústica - Violencia de frecuencia
 
 
-文：mmr｜テーマ：Ben Frostによるデジタル時代における崇高さの再定義
+Texto: mmr | Tema: Redefiniendo lo sublime en la era digital por Ben Frost
 
 
-Ben Frostの音楽を初めて聴いたとき、多くのリスナーがまず感じるのは「音量」ではなく「密度」だ。  
-それは単なる大音響ではない。音が空間そのものを押し広げ、圧縮し、呼吸を奪うように存在する。  
+Cuando muchos oyentes escuchan la música de Ben Frost por primera vez, lo primero que notan no es el volumen, sino la densidad.
+No es sólo un ruido fuerte. El sonido expande el espacio mismo, lo comprime y existe como para quitarle el aliento.
 
-オーストラリア出身、アイスランド在住のFrostにとって、**音とは物理現象であり、暴力の一形態**である。  
-それは旋律やリズムを超えた、建築的・触覚的な体験として構築される。  
+Para Frost, originario de Australia y vive en Islandia, **el sonido es un fenómeno físico y una forma de violencia**.
+Se construye como una experiencia arquitectónica y táctil que va más allá de la melodía y el ritmo.
 
-「音は空気の彫刻であり、身体に作用する圧力だ」と彼は語る。  
+"El sonido es una escultura del aire, una presión que actúa sobre el cuerpo", afirma.
 
 ---
 
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## アイスランドの静寂とオーストラリアの粗野さ
+## El silencio de Islandia y la aspereza de Australia
 
-彼の作品には、アイスランド的な静寂とオーストラリア的な荒野が共存している。  
-レイキャヴィーク郊外の静かな風景の中で、彼は過剰なまでの歪みと重低音を作り出す。  
+Su obra tiene una coexistencia de la tranquilidad islandesa y la naturaleza australiana.
+En un paisaje tranquilo en las afueras de Reykjavik, crea una distorsión excesiva y graves profundos.
 
-Bedroom CommunityのValgeir Sigurðsson、Nico Muhlyらとの共同作業は、  
-クラシカルな構造と電子的破壊の間に張り詰めた緊張を生んだ。  
+En colaboración con Valgeir Sigurðsson y Nico Muhly de Bedroom Community,
+Creó una tensión tensa entre la estructura clásica y la destrucción electrónica.
 
-2009年の『**By the Throat**』は、まさにその象徴的作品である。  
-ここでは、音が獣のように唸り、息づき、襲いかかる。  
-フィールドレコーディングされた狼の遠吠え、呼吸音、低周波の唸り。  
-それらは環境音ではなく、「襲いかかる音響」として編成されている。
-
----
-
-## 武器としての音、儀式としての音
-
-Frostの音響哲学を語る上で外せないのは、「音の武装化」という観点である。  
-彼はサブベースと歪みを使って**音の暴力性を精密にデザイン**する。  
-
-Hildur Guðnadóttir、Tim Heckerらとのコラボレーションを通して、  
-音が「痛み」と「快楽」の境界をどのように横断するかを探求した。  
-
-彼の作品では、リスナーの身体が“共振体”になる。  
-耳ではなく、腹腔、皮膚、骨が聴く。  
-音は空間を満たす気圧のように、聴く者を包囲する。  
-
-それはもはや音楽というよりも、**儀式**だ。  
-音の連続が、意識を拡張し、現実を変質させるような瞬間が訪れる。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/snHUxlz99kA?si=PMj7lMipQhNWicjB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+``**By the Throat**'' de 2009 es una obra verdaderamente simbólica.
+Aquí, los sonidos gruñen, respiran y atacan como bestias.
+Grabaciones de campo de aullidos de lobo, sonidos respiratorios y gruñidos de baja frecuencia.
+Estos no son sonidos ambientales, sino que están organizados como "sonidos de ataque".
 
 ---
 
-## スタジオという戦場
+## El sonido como arma, el sonido como ritual
 
-Ben Frostの制作環境は、単なるレコーディングスタジオではなく「戦場」に近い。  
-膨大なモジュラーシンセ、改造マイク、過剰なコンプレッサー。  
-そこでは音を「録る」のではなく、**殴りつけるように掴み取る**。
+Cuando se habla de la filosofía acústica de Frost, no se puede ignorar la perspectiva de "convertir el sonido en un arma".
+Utiliza subgraves y distorsión para diseñar con precisión la violencia sonora.
 
-彼は偶然性を拒絶しないが、同時に「すべての周波数には存在理由がある」と言う。  
-ノイズも、歪みも、無駄ではない。  
+A través de la colaboración con Hildur Guðnadóttir, Tim Hecker y otros,
+Exploramos cómo el sonido cruza la frontera entre "dolor" y "placer".
 
-フィールドレコーディングされた風音や振動が、  
-電子的処理によって建築的な構造を持ち始めるとき、  
-それは音響建築（Sound Architecture）へと変わる。
+En sus obras, el cuerpo del oyente se convierte en un "resonador".
+La cavidad abdominal, la piel y los huesos escuchan, no los oídos.
+El sonido rodea al oyente como la presión del aire que llena un espacio.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ekzFAz7lSkY?si=sS1W8na0q2JvHfEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Es más un **ritual** que música.
+Llega un momento en que una serie de sonidos expanden la conciencia y transforman la realidad.
 
----
-
-## シネマティック・ターン：影のためのスコア
-
-2010年代以降、Frostの活動は映画・ドラマ音楽へと拡張した。  
-『**Fortitude**』『**Dark**』『**Raised by Wolves**』などのスコアは、  
-恐怖を煽るための音ではなく、**物語の空間そのものを形成する音**として機能する。  
-
-彼のスコアには旋律がほとんど存在しない。  
-かわりに存在するのは、空間の「圧」、呼吸の「間」。  
-Ben Frostは映像の中で「音の建築家」として振る舞う。
-
-暗闇の中で響く低音は、都市の鼓動のようであり、  
-人間が文明の中で失った“沈黙の記憶”を呼び起こす。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dFs4yX4V7NQ?si=5uis91ei2caQPCcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snHUxlz99kA?si=PMj7lMipQhNWicjB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 光の爆発：A U R O R Aと音の臨界
+## El campo de batalla del estudio.
 
-2014年に発表された『**A U R O R A**』は、Ben Frostのキャリアにおける分水嶺である。  
-この作品で彼は、これまでの「アコースティック＋電子音」的アプローチを捨て、  
-**ほぼ完全に電子的な音の粒子のみ**で世界を構築した。  
+El entorno de producción de Ben Frost se parece más a un campo de batalla que a un simple estudio de grabación.
+Una gran cantidad de sintetizadores modulares, micrófonos modificados y compresores de última generación.
+En lugar de "grabar" el sonido, lo **agarras como si lo estuvieras golpeando**.
 
-ドラムセットやギターは消え、代わりに**光速で閃光するパルス**と  
-金属的なノイズの断片が宇宙的な空間を描く。  
-Steve Albiniによるミックスは驚くほどドライで、  
-音の残響を削ぎ落とし、Frostの意図する“無酸素の音響”を可視化している。  
+No rechaza el azar, pero al mismo tiempo dice: "Cada frecuencia tiene una razón de ser".
+El ruido y la distorsión no son inútiles.
 
-『A U R O R A』は、アフリカ・コンゴの地での経験、  
-太陽光や熱、電力の不安定さといった**極限の物理条件**から発想された。  
-それは光による暴力、**フォトンによる音の構築**である。  
+Sonidos y vibraciones del viento registrados en el campo.
+Cuando comienza a adquirir una estructura arquitectónica a través del procesamiento electrónico,
+Se convierte en Arquitectura Sonora.
 
-このアルバム以降、彼の音はますます建築的・無機的になり、  
-同時に“生命”をもつ有機体のように脈打ち始めた。  
-A U R O R Aは、まさに**音が光になる瞬間**をとらえた作品と言える。
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9LJ2X1ZRVmA?si=pXC60kUfINLbu5jq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekzFAz7lSkY?si=sS1W8na0q2JvHfEZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 身体、機械、そして聖性
+## Giro cinematográfico: puntuación para sombras
 
-ライブパフォーマンスのFrostは、照明を最小限にし、  
-ステージを光とノイズの儀式空間へと変える。  
+Desde la década de 2010, las actividades de Frost se han expandido al cine y la música dramática.
+Puntuaciones como ``**Fortitud**'', ``**Dark**'' y ``**Raised by Wolves**'' son
+En lugar de ser un sonido que incita al miedo, funciona como un sonido que da forma al espacio de la historia misma.
 
-極端な音圧、低周波のうねり、白色光。  
-それらは観客の感覚を麻痺させ、**聖的体験**へと転化する。  
+Casi no hay melodía en sus partituras.
+Lo que existe en cambio es la "presión" del espacio y la "duración" de la respiración.
+Ben Frost actúa como "arquitecto de sonido" en el vídeo.
 
-その構造は、LaibachやSwans、さらには宗教儀式のようでもある。  
-「過剰を超えた先にある静けさ」——  
-Frostはそこに、一種の**救済**を見出している。
+El bajo que resuena en la oscuridad es como el latido del corazón de la ciudad,
+Evoca la "memoria del silencio" que los humanos hemos perdido en la civilización.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1NSfwDnnJdo?si=DWEXMeMqNZDNqzLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## 時間の崩壊とデジタルの深淵
-
-近年のFrostは、AI作曲やリアルタイム処理を通じて、  
-「制御不可能な音の自律性」に関心を寄せている。  
-
-音は彼の手を離れ、自己生成的に変化していく。  
-TarkovskyやWilliam Gibson的な未来像——  
-朽ちたテクノロジーと残響の詩学がそこにある。  
-
-Frostのサウンドは、デジタル時代における**“崇高さの再定義”**を試みている。  
-それは、崩壊を恐れずに構造を保とうとする建築家のようだ。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dFs4yX4V7NQ?si=5uis91ei2caQPCcq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 新しい音響生態系へ
+## Explosión de luz: A U R O R A y la criticidad del sonido
 
-Ben Frostが最終的に見つめているのは、自然と人工の境界ではない。  
-むしろ、**そのあいだに生まれる「新しい生態系」**だ。  
+**A U R O R A**, lanzado en 2014, fue un momento decisivo en la carrera de Ben Frost.
+Con este trabajo abandonó su anterior enfoque de "sonido acústico + electrónico",
+**Construí un mundo casi en su totalidad con partículas de sonido electrónico**.
 
-電子音は自然の模倣ではなく、自然の言語そのものになる。  
-ノイズは破壊ではなく、環境の声である。  
+La batería y la guitarra desaparecieron, reemplazadas por **pulsos que parpadean a la velocidad de la luz**
+Fragmentos de ruido metálico representan un espacio cósmico.
+La mezcla de Steve Albini es sorprendentemente seca;
+Se elimina la reverberación del sonido para visualizar la "acústica libre de oxígeno" que pretendía Frost.
 
-彼はこう語る。  
-> 「聴くという行為は、生き延びるための感覚だ。」
+“A U R O R A” está basada en mi experiencia en el Congo, África.
+Se inspiró en condiciones físicas extremas como la luz solar, el calor y la inestabilidad de la electricidad.
+Es la violencia de la luz, la construcción del sonido por los fotones.
 
-音はもはや娯楽でも芸術でもない。  
-それは、人間が世界と接続しなおすための「生理的ツール」なのだ。
+Después de este álbum, su sonido se volvió cada vez más arquitectónico e inorgánico.
+Al mismo tiempo, empezó a latir como un organismo vivo.
+Se puede decir que A U R O R A es una obra que realmente captura el momento en que el sonido se convierte en luz.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LJ2X1ZRVmA?si=pXC60kUfINLbu5jq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## ディスコグラフィー：音響地図としての作品群
+## Cuerpos, máquinas y sacralidad
+
+Para presentaciones en vivo, Frost mantiene la iluminación al mínimo;
+Transformar el escenario en un espacio ritual de luz y ruido.
+
+Presión sonora extrema, ondulaciones de baja frecuencia, luz blanca.
+Adormecen los sentidos del público y los convierten en una **experiencia sagrada**.
+
+La estructura recuerda a un Laibach, a un Swan o incluso a una ceremonia religiosa.
+“La calma que se encuentra más allá del exceso”——
+Frost encuentra una especie de **alivio** en eso.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NSfwDnnJdo?si=DWEXMeMqNZDNqzLM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+## El colapso del tiempo y el abismo digital
+
+En los últimos años, Frost ha estado utilizando la composición de IA y el procesamiento en tiempo real para
+Le interesa la "autonomía incontrolable del sonido".
+
+El sonido sale de sus manos y cambia de forma autogenerada.
+Visión del futuro al estilo de Tarkovsky y William Gibson.
+Hay una poética de tecnología decadente y reverberación.
+
+El sonido de Frost intenta redefinir lo sublime en la era digital.
+Es como un arquitecto que intenta mantener una estructura sin miedo a derrumbarse.
+
+---
+
+## Hacia un nuevo ecosistema acústico
+
+En última instancia, Ben Frost no busca el límite entre la naturaleza y lo creado por el hombre.
+Más bien, es un "nuevo ecosistema" que nacerá mientras tanto.
+
+Los sonidos electrónicos no imitan a la naturaleza, sino que se convierten en el lenguaje de la naturaleza misma.
+El ruido no es destrucción, sino la voz del medio ambiente.
+
+Él dice:
+> “El acto de escuchar es un sentido de supervivencia”.
+
+El sonido ya no es entretenimiento ni arte.
+Es una "herramienta fisiológica" que permite a los humanos reconectarse con el mundo.
+
+---
+
+## Discografía: Funciona como un mapa acústico
 
 | 年 | タイトル | 主な特徴 | リンク |
 |----|------------|-----------|---------------|
@@ -195,56 +196,56 @@ Ben Frostが最終的に見つめているのは、自然と人工の境界で�
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DB9hKpQVk9Y?si=SP0aN2CrbY2IQBd3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DB9hKpQVk9Y?si=SP0aN2CrbY2IQBd3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 残された静寂
+## Silencio dejado atrás
 
-Ben Frostは近年、再び沈黙の中へと戻っていった。  
-北極圏に近い場所で、氷の音、風の震え、雪の反響を録音しながら、  
-彼は音の「限界」を再考している。  
+Ben Frost ha vuelto a guardar silencio en los últimos años.
+En un lugar cercano al Círculo Polar Ártico grabamos el sonido del hielo, el temblor del viento y los ecos de la nieve.
+Está reconsiderando los "límites" del sonido.
 
-音とは何か。  
-ノイズとは何か。  
-そして沈黙は、果たしてその反対なのか。  
+¿Qué es el sonido?
+¿Qué es el ruido?
+¿Y el silencio es realmente lo contrario?
 
-最終的にFrostが示すのは、音の終わりにある“静寂”ではなく、  
-**静寂の中に潜む新たな音**である。  
+Al final, lo que muestra Frost no es el “silencio” al final del sonido;
+**Un nuevo sonido acecha en el silencio**.
 
-> 「音の限界はノイズではない。静けさだ。」
+> "El límite del sonido no es el ruido. Es el silencio."
 
 ---
 
-## Ben Frost 主要年表
+## Cronología principal de Ben Frost
 
 <div class="mermaid">
 
-flowchart TD
-    A2003["2003：『Steel Wound』でデビュー（Room40）"]
-    A2007["2007：『Theory of Machines』で国際的評価を得る"]
-    A2009["2009：『By the Throat』リリース（Bedroom Community）"]
-    A2014["2014：『A U R O R A』でWarp Recordsへ移籍"]
-    A2017["2017：『The Centre Cannot Hold』をSteve Albiniと制作"]
-    A2017B["2017：Netflixドラマ『Dark』のスコアを担当"]
-    A2020["2020：『Dark: Cycle III』サウンドトラック発表"]
-    A2022["2022：アイスランドで音響インスタレーションを発表"]
-    A2024["2024：AI音響生成プロジェクトに参加"]
+diagrama de flujo TD
+A2003["2003: Debut con 'Steel Wound' (Room40)"]
+A2007["2007: Recibió elogios internacionales por 'Teoría de las máquinas'"]
+A2009["2009: By the Throat" lanzado (Comunidad de dormitorio)"]
+A2014["2014: Transferido a Warp Records con 'A U R O R A'"]
+A2017["2017: Produjo 'The Center Cannot Hold' con Steve Albini"]
+A2017B["2017: Responsable de la música del drama de Netflix "Dark"]
+A2020["2020: Anuncio de la banda sonora de 'Dark: Cycle III'"]
+A2022["2022: Instalación sonora presentada en Islandia"]
+A2024["2024: Participa en proyecto de generación de sonido con IA"]
 
-    A2003 --> A2007 --> A2009 --> A2014 --> A2017 --> A2017B --> A2020 --> A2022 --> A2024
+A2003 --> A2007 --> A2009 --> A2014 --> A2017 --> A2017B --> A2020 --> A2022 --> A2024
 
 </div>
 
 
 ---
 
-### Ben Frost 公式リンク
+### Enlace oficial de Ben Frost
 
-[Official Website](https://ethermachines.com)
+[Sitio web oficial](https://ethermachines.com)
 
-[Official Instagram](https://www.instagram.com/ethermachines)
+[Instagram oficial](https://www.instagram.com/ethermachines)
 
-[Bandcamp](https://benfrost.bandcamp.com/album/steelwound-20th-anniversary-edition)
+[Bandcamp] (https://benfrost.bandcamp.com/album/steelwound-20th-anniversary-edition)
 
 [Soundcloud](https://soundcloud.com/benfrost)
 
@@ -252,14 +253,14 @@ flowchart TD
 
 
 
-### 関連コラム
+### Columnas relacionadas
 
-🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
+🔗 [[Columna] Ruido del Área de la Bahía/Escena musical experimental: 50 años de destrucción y resonancia](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
 
-🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [[Columna] Música noise — Desde sus orígenes hasta la actualidad: antecedentes históricos, discos famosos y cambios de equipamiento](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
+🔗 [[Columna] La trayectoria del rock y el ruido underground japonés desde los años 90 hasta los 2000](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
 
-🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [[Columna] Historia y obras maestras de la Música Experimental: Desde sus orígenes hasta la actualidad](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [[Columna] Altas marcas y música noise: la intersección del lujo y la acústica radical](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

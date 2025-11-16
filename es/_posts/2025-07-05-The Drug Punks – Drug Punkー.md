@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/The Drug Punks – Drug Punk.webp
 lang: es
 layout: post
+permalink: /es/2025-07-05-The Drug Punks – Drug Punkー/
 tags:
 - Electroclash
 - Electro House
 - 00s
-title: The Drug Punks – Drug Punk
+title: Los drogadictos - Drug Punk
 ---
 
 
-「Drug / Punk」は、UKのレーベルCity Rockersから2002年にリリースされたElectroclash, Electro Houseトラック。プロデューサーは、JJ Clam, The Wurlitzer。
+"Drug/Punk" es una canción de Electroclash y Electro House lanzada en 2002 por el sello británico City Rockers. Productor: JJ Clam, The Wurlitzer.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Drug
 
 AA. Punk
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55164927477?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m55164927477?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxyTLrqExWI?si=6EmcK7LMSC8HE6KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxyTLrqExWI?si=6EmcK7LMSC8HE6KN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

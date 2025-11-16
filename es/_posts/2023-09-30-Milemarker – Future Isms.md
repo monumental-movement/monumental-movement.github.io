@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Milemarker – Future Isms.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Milemarker – Future Isms/
 tags:
 - New-Wave
 - Experimental
-title: Milemarker – Future Isms
+title: Milemarker – Ismos del futuro
 ---
 
 
-Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
+Milemarker es una banda de post-hardcore de Carolina del Norte, Estados Unidos. Su sonido es una mezcla de estilos que incluyen electrónica experimental, new wave y rock alternativo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. New Lexicon
 
@@ -39,7 +40,7 @@ B4. Alchemy
 B5. Engine
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59516600898?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m59516600898?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OQW5B-o49Y4?si=I7nDqDOFRAP5ZAI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OQW5B-o49Y4?si=I7nDqDOFRAP5ZAI3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

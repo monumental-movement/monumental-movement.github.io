@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Dreamlogicc – Podval EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-03-Dreamlogicc – Podval EP/
 tags:
 - Ambient
 - Techno
@@ -12,11 +13,11 @@ title: Dreamlogicc – Podval EP
 ---
 
 
-「Dreamlogicc – Podval EP」は、アメリカのレーベル	Kimochiから2012年にリリースされました。
+“Dreamlogicc – Podval EP” fue lanzado en 2012 por el sello estadounidense Kimochi.
 
-※200枚の限定版で、A3 と A4 はクレジットされていない間奏で、ロックされたグルーヴで終わります。
+*Edición limitada de 200 copias, A3 y A4 son interludios no acreditados que terminan con un surco bloqueado.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Blanx
 
@@ -31,7 +32,7 @@ B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

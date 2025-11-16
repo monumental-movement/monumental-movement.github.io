@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Clan Greco – Brassisity.webp
 lang: es
 layout: post
+permalink: /es/2024-04-15-Clan Greco – Brassisity/
 tags:
 - House
 - Deep House
@@ -13,27 +14,27 @@ title: Clan Greco – Brassisity
 ---
 
 
-Clan Grecoは、Neffa e Sud Sound SystemやDJ Rodriguez、Bossa Nostra、Gazzaraなどのプロデューサー兼共同プロデューサーRicky Rinaldiと、イタリアのトランペット奏者Massimo Grecoによるユニット。
+Clan Greco es una unidad formada por Ricky Rinaldi, productor y coproductor de Neffa e Sud Sound System, DJ Rodriguez, Bossa Nostra, Gazzara, etc., y el trompetista italiano Massimo Greco.
 
-≡ 参加アーティスト
+≡ Artistas participantes
 
-ベース：Christian Lisi
+Bajo: Christian Lisi
 
-ドラム：Roberto Ponzio, Roberto Rossi
+Batería: Roberto Ponzio, Roberto Rossi
 
-キーボード：Maestro Garofalo, Michele Trombetti
+Teclado: Maestro Garofalo, Michele Trombetti
 
-サックス：Chicco Montefiori
+Saxofón: Chicco Montefiori
 
-トランペット： Massimo Greco
+Trompeta: Massimo Greco
 
-ヴォーカル：Silvia Donati
+Voz: Silvia Donati
 
-プロデューサー Massimo Greco, Ohm Guru
+Productor Massimo Greco, Ohm Guru
 
-共同プロデューサー：Brass Avengers 
+Coproductor: Brass Avengers
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Fast Salsa
 
@@ -60,7 +61,7 @@ D2. Free Bossa
 D3. Full Funk
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Mark Tower and Co. – My Desire.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Mark Tower and Co. – My Desire/
 tags:
 - Euro Beat
 - Hi NRG
-title: Mark Tower & Co. – My Desire
+title: Mark Tower & Co. – Mi deseo
 ---
 
 
-作曲は、Giuliano Crivellente（ジュリアーノ・クリヴェレンテ）, Mauro Farina（マウロ・ファリーナ）。vocalは、Gianni Coraini（別名義：Ken Laszlo/ケン・ラズロ、DJ NRGなど多数）。
+Compuesta por Giuliano Crivelente, Mauro Farina. El vocalista es Gianni Coraini (también conocido como Ken Laszlo, DJ NRG y muchos otros).
 
-「Mark Tower & Co. – My Desire」は、イタリアのイタロディスコ＆ユーロビートレーベルAsia Recordsより1990年にリリース。
+“Mark Tower & Co. – My Desire” fue lanzado en 1990 por el sello italiano Italo Disco y Eurobeat Asia Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. My Desire (Fireball Edit)
 
@@ -29,7 +30,7 @@ B2. My Desire (Dub Edit)
 B3. My Desire (Last Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42307915967?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m42307915967?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nnBgJyKAabc?si=P0R5k6VNSkDr9CEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nnBgJyKAabc?si=P0R5k6VNSkDr9CEY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

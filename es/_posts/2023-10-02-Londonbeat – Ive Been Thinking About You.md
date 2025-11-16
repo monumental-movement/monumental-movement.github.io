@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Londonbeat – I've Been Thinking About You.webp
 lang: es
 layout: post
+permalink: /es/2023-10-02-Londonbeat – Ive Been Thinking About You/
 tags:
 - House
 - EDM
-title: Londonbeat – I've Been Thinking About You
+title: Londonbeat – He estado pensando en ti
 ---
 
 
 
-Londonbeat（ロンドンビート）は、1990 年代初頭にポップやダンスのヒット曲を数多く生み出したイギリスのダンスポップバンドです。
-メンバーは Jimmy Helms（ジミー・ヘルムズ）、Jimmy Chambers（ジミー・チェンバース）、Charles Pierrer（チャールズ・ピエール）。
+Londonbeat es una banda británica de dance-pop que produjo muchos éxitos pop y dance a principios de los años 1990.
+Los miembros son Jimmy Helms, Jimmy Chambers y Charles Pierrer.
 
-「I've Been Thinking About You」は彼らの代表曲で、1991 年Billboard Hot 100 と Hot Dance Music/Club Play チャートで第1位を獲得。
+"I've Been Thinking About You" es su canción insignia y alcanzó el número 1 en las listas Billboard Hot 100 y Hot Dance Music/Club Play en 1991.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I've Been Thinking About You (Def 12" Mix)
 
@@ -33,7 +34,7 @@ B2. I've Been Thinking About You (The Eclipse Mix)
 B3. I've Been Thinking About You (Trak Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47205730719?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47205730719?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dGw3w_njQ4g?si=JLeWYzbBaWn8TXmz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dGw3w_njQ4g?si=JLeWYzbBaWn8TXmz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

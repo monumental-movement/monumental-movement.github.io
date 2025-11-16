@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Mauro Picotto – Lizard.webp
 lang: es
 layout: post
+permalink: /es/2023-10-20-Mauro Picotto – Lizard/
 tags:
 - Trance
 - Hard Trance
-title: Mauro Picotto – Lizard
+title: Mauro Picotto – Lagarto
 ---
 
 
-Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
-「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。
+Mauro Picotto es un productor y DJ italiano que ha estado activo desde principios de los años 1990. Ha colaborado con numerosos músicos de electrónica/trance como DJ Tiësto y Mario Piu.
+"Lizard" es una de las canciones emblemáticas de Mauro Picotto, publicada por Empire State Records en 1998.
 
-A面はAndrea RemondiniとMauro PicottoによるユニットMegavoicesによるremix。
+Side A es un remix de Megavoices, unidad compuesta por Andrea Remondini y Mauro Picotto.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A  Lizard (Megavoices Mix)
 
@@ -26,7 +27,7 @@ B1  Lizard (Mondo Bongo Mix)
 B2  Lizard (Tea Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30685941528?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m30685941528?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QxMdcwnGlLs?si=5AvhiKU4RyjmAYJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxMdcwnGlLs?si=5AvhiKU4RyjmAYJn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

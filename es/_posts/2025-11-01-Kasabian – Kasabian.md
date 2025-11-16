@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Kasabian – Kasabian.webp
 lang: es
 layout: post
+permalink: /es/2025-11-01-Kasabian – Kasabian/
 tags:
 - Rock
 - Alternative Rock
@@ -13,11 +14,11 @@ title: Kasabian – Kasabian
 ---
 
 
-イギリス・レスター出身のオルタナティブ／エレクトロ ロックバンドKasabianが、2004年にリリースしたファーストアルバム。カサビアンは、ロックエレクトロニカを融合させたサウンドが特徴。
+El primer álbum de Kasabian, una banda de rock alternativo/electro de Leicester, Inglaterra, lanzado en 2004. Kasabian se caracteriza por un sonido que combina rock electrónico.
 
-カサビアンは、21世紀にイギリスから登場したロックバンドの中で、最も活躍しているバンドのひとつと評されている。
+Kasabian es considerada una de las bandas de rock más activas que surgieron de Gran Bretaña en el siglo XXI.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Club Foot
 2. Processed Beats
@@ -35,7 +36,7 @@ title: Kasabian – Kasabian
 13.2. Reason Is Treason (Jacknife Lee Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m64130337346?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ogrEX1oBav4?si=VOAXb195Nl1q4zRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogrEX1oBav4?si=VOAXb195Nl1q4zRI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

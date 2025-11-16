@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/San Laurentino – Love Potion E.P.webp
 lang: es
 layout: post
+permalink: /es/2024-11-21-San Laurentino – Love Potion E.P/
 tags:
 - Deep House
 - Disco
-title: San Laurentino – Love Potion E.P.
+title: San Laurentino – Poción de amor E.P.
 ---
 
 
-ARTHUR RUSSELL (アーサー・ラッセル)のリミックスなどをリリースする、ロンドンのイーストエンドにあるレーベルElectric Mindsから2010年に250枚限定でリリースされたディープハウス・アンビエントハウストラック。限定盤。
+Un tema de deep house/ambient house lanzado en 2010 en una edición limitada de 250 copias por Electric Minds, un sello del East End de Londres que publica remixes de ARTHUR RUSSELL. Edición limitada.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Love Potion
 
@@ -22,7 +23,7 @@ B1. Aftermath
 B2. Indian Summer
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86037977222?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86037977222?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O3ULEO5w8Tw?si=YTCyztpGAJXDIg3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3ULEO5w8Tw?si=YTCyztpGAJXDIg3P" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

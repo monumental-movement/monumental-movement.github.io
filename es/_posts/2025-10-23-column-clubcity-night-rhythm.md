@@ -5,146 +5,148 @@ categories:
 image: ../assets/images/column-clubcity-night-rhythm.webp
 lang: es
 layout: post
+permalink: /es/2025-10-23-column-clubcity-night-rhythm/
 tags:
 - Techno
 - Sociology
-title: 【コラム】 都市の夜が生んだリズム：クラブカルチャーの社会学
+title: '[Columna] Ritmo creado por la noche de la ciudad: Sociología de la cultura
+  de discoteca'
 ---
 
 
-## 都市の夜が鳴り始めた瞬間
+## En el momento en que la noche de la ciudad comienza a sonar
 
 
-文：mmr｜テーマ：都市の社会構造の変化とともに進化してきたクラブカルチャーを、社会学・文化史・テクノロジーの観点から紐解く
+Texto: mmr｜Tema: Desentrañar la cultura de clubes que ha evolucionado junto con los cambios en la estructura social de las ciudades desde las perspectivas de la sociología, la historia cultural y la tecnología.
 
-都市は、昼間に働くための場所であると同時に、夜に自由を取り戻すための装置でもある。  
-クラブカルチャーは、まさにこの「夜の都市」が生み出した現代社会のもう一つの顔だ。  
-産業革命以降、労働と余暇、昼と夜、秩序と逸脱の境界が明確に線引きされたとき、人々は夜の街に逃げ込み、音楽と身体で新たな共同体を作り出した。
+La ciudad es a la vez un lugar de trabajo durante el día y un dispositivo para recuperar la libertad durante la noche.
+La cultura de discoteca es sólo otra cara de la sociedad moderna creada por esta "ciudad nocturna".
+Después de la Revolución Industrial, cuando los límites entre trabajo y ocio, día y noche, orden y desviación quedaron claramente delineados, la gente escapó a las calles nocturnas y creó nuevas comunidades a través de la música y sus cuerpos.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
 
-## 第1章：都市というリズム装置 — 産業化と夜の解放
+## Capítulo 1: El dispositivo rítmico de la ciudad: industrialización y liberación de la noche
 
-19世紀末の産業都市は、夜の照明によって「24時間稼働する社会」を実現した。  
-電灯がともることで、夜の街は労働だけでなく、娯楽と欲望の場へと変化する。  
-そこに現れたのが、**ダンスホールやキャバレー、そしてディスコの原型となる空間**である。
+Las ciudades industriales de finales del siglo XIX crearon una "sociedad de 24 horas" con iluminación nocturna.
+Cuando se encienden las luces, la ciudad de noche se transforma en un lugar no sólo de trabajo sino también de entretenimiento y deseo.
+Lo que surgió fue un espacio que se convirtió en el prototipo de salones de baile, cabaret y discoteca.
 
-都市社会学者ルイス・ワースが指摘するように、「都市とは匿名性と多様性を前提とした生活様式」である。  
-クラブの暗闇は、その匿名性の最たるものだ。  
-誰もが誰でもない存在として音に身を委ねることで、階級・性別・人種の境界が一時的に消滅する。
-
----
-
-## 第2章：ディスコからレイヴへ — 夜の民主化と身体の政治
-
-1970年代のディスコは、LGBTQコミュニティや黒人文化の表現の場として機能した。  
-Studio 54やParadise Garageは、社会の周縁に追いやられた人々にとって「音の解放区」であり、同時に政治的な空間でもあった。
-
-1980年代末、アシッドハウスとともに出現したレイヴカルチャーは、都市の外へと逃避する。  
-倉庫、野原、廃工場——管理されない空間で踊ることは、国家や資本による時間管理への抵抗でもあった。  
-音楽は、抗議でもあり、祝祭でもある。
+Como señala el sociólogo urbano Lewis Wirth, "las ciudades son estilos de vida basados ​​en el anonimato y la diversidad".
+La oscuridad del club es lo último en anonimato.
+A medida que todos se rinden al sonido como nadie, las fronteras de clase, género y raza desaparecen temporalmente.
 
 ---
 
-## 第3章：ベルリン、東京、ロンドン — 都市ごとのクラブ文化比較
+## Capítulo 2: De la discoteca a la rave: la democratización de la noche y la política del cuerpo
 
-### ベルリン
-壁崩壊後の廃墟都市は、自由の実験場となった。Tresor、Berghain、Watergateといったクラブは、東西の文化が溶け合う混沌から生まれた。  
-クラブは単なる娯楽ではなく、「社会の新しい公共圏」として機能する。
+Las discotecas de la década de 1970 sirvieron como plataforma para la expresión de la comunidad LGBTQ y la cultura negra.
+Studio 54 y Paradise Garage eran "zonas de emancipación sonora" para personas que fueron empujadas a los márgenes de la sociedad, pero también eran espacios políticos.
 
-### 東京
-東京のクラブは、規制と管理の都市での“密やかな逃避装置”だった。  
-渋谷WOMBや新宿LIQUIDROOM、青山Zeroのように、都市の隙間で音が鳴る。  
-しかし日本のクラブ法（風営法）は、長年“踊る自由”を制限してきた。  
-その緊張関係こそ、東京のナイトカルチャーの独自性を形づくっている。
-
-### ロンドン
-レイヴカルチャーの震源地ロンドンでは、警察と若者の「音の戦争」が繰り返された。  
-しかし同時に、音楽が社会的包摂の手段にもなった。  
-『Fabric』や『Ministry of Sound』は、音と経済が結びつく“ナイトタイム・エコノミー”の象徴である。
+A finales de los años 80, la cultura rave surgió con el acid house y huyó fuera de la ciudad.
+Almacenes, campos, fábricas abandonadas: bailar en espacios incontrolados también era una forma de resistencia al control del tiempo por parte del Estado y el capital.
+La música es a la vez protesta y celebración.
 
 ---
 
-## 第4章：音と都市空間のインターフェース — 建築・テクノロジー・身体性
+## Capítulo 3: Berlín, Tokio, Londres: Comparación de la cultura de clubes por ciudad
 
-クラブの建築は、都市のサウンドスケープを再構成する。  
-無機質なコンクリート空間に響く低音、レーザー光線、煙。  
-それらは建築的装置であると同時に、**身体とテクノロジーを接続するインターフェース**でもある。
+### Berlín
+Después de la caída del muro, la ciudad en ruinas se convirtió en un campo de pruebas para la libertad. Clubes como Tresor, Berghain y Watergate nacieron de la mezcla caótica de las culturas oriental y occidental.
+Los clubes no son sólo entretenimiento; funcionan como una "nueva esfera pública de la sociedad".
 
-DJブースは「都市の指揮台」であり、サウンドシステムは「社会の神経系」だ。  
-テクノロジーが進化するたびに、クラブの形態は変化し、音の政治も変化する。
+### Tokio
+Los clubes de Tokio eran un "dispositivo de escape secreto" en una ciudad de regulación y control.
+Al igual que Shibuya WOMB, Shinjuku LIQUIDROOM y Aoyama Zero, los sonidos se escuchan en los huecos de la ciudad.
+Sin embargo, la ley de clubes japonesa (Ley de Negocios de Entretenimiento) ha restringido durante mucho tiempo la libertad de bailar.
+Es esta tensión la que forma la singularidad de la cultura nocturna de Tokio.
 
----
-
-## 第5章：ジェンダーと夜の公共圏 — 安全と欲望の交錯点
-
-クラブは自由の場である一方で、女性や性的マイノリティにとって危険を孕む場所でもある。  
-ナイトカルチャー研究では、「安全な夜（Safe Night）」の概念が注目されている。  
-女性DJやフェミニスト・パーティーの出現は、夜の公共圏を再定義する試みだ。
-
-夜の自由とは、誰のための自由なのか——。  
-この問いは、クラブカルチャーの未来を占う鍵でもある。
+### Londres
+En Londres, epicentro de la cultura rave, hubo repetidas "guerras de sonido" entre la policía y los jóvenes.
+Pero al mismo tiempo, la música se convirtió en un medio de inclusión social.
+"Fabric" y "Ministry of Sound" son símbolos de la "economía nocturna", donde el sonido y la economía están vinculados.
 
 ---
 
-## 第6章：パンデミック以降の“夜” — デジタルクラブと新しい共同体
+## Capítulo 4: Interfaz entre el sonido y el espacio urbano: arquitectura, tecnología y fisicalidad
 
-コロナ禍によって、クラブの扉が閉ざされたとき、音はインターネットに移動した。  
-「Boiler Room」「Club Quarantine」「Twitch DJ配信」など、デジタル空間に新しいクラブ共同体が生まれた。  
-都市が沈黙しても、夜のリズムは止まらなかった。
+La arquitectura del club reconfigura el paisaje sonoro de la ciudad.
+Sonidos de graves, rayos láser y humo resuenan en el espacio de hormigón inorgánico.
+Son a la vez dispositivos arquitectónicos e interfaces que conectan el cuerpo y la tecnología.
 
-オンラインで踊ることは、孤立した身体が再び「共振」を取り戻す儀式でもあった。  
-デジタルクラブは、21世紀の都市社会における新たな“公共性”の萌芽なのかもしれない。
-
----
-
-## 結論：都市のリズムはどこへ向かうのか
-
-都市の夜は常に、社会の影と欲望を映す鏡だった。  
-クラブカルチャーはその鏡の中で、人間の根源的な「共鳴への欲求」を形にしてきた。  
-AIとデジタルが進化する時代においても、夜のリズムは消えない。  
-それは、都市という巨大な身体の“心拍”なのだ。
+La cabina del DJ es el "conductor de la ciudad" y el sistema de sonido es el "sistema nervioso de la sociedad".
+A medida que avanza la tecnología, la forma de los clubes cambia y también la política del sonido.
 
 ---
 
-## 年表：クラブカルチャーと都市の進化（1970–2025）
+## Capítulo 5: Género y la esfera pública de la noche: la intersección de la seguridad y el deseo
+
+Si bien los clubes son lugares de libertad, también son lugares de peligro para las mujeres y las minorías sexuales.
+En la investigación sobre cultura nocturna, el concepto de "noche segura" ha estado atrayendo la atención.
+La aparición de DJ femeninas y fiestas feministas es un intento de redefinir la esfera pública nocturna.
+
+¿Para quién es la libertad de la noche?
+Esta pregunta es también la clave para predecir el futuro de la cultura de club.
+
+---
+
+## Capítulo 6: “Noche” después de la pandemia: clubes digitales y nuevas comunidades
+
+Cuando los clubes cerraron sus puertas debido a la pandemia de coronavirus, el sonido se trasladó a Internet.
+Han nacido nuevas comunidades de clubes en el espacio digital, como "Boiler Room", "Club Quarantine" y "Twitch DJ Distribution".
+Aunque la ciudad quedó en silencio, el ritmo de la noche no se detuvo.
+
+Bailar online también fue un ritual para que mi cuerpo aislado recuperara su "resonancia".
+Los clubes digitales pueden ser el germen de un nuevo tipo de "naturaleza pública" en la sociedad urbana del siglo XXI.
+
+---
+
+## Conclusión: ¿Hacia dónde se dirige el ritmo urbano?
+
+La noche de la ciudad siempre ha sido un espejo que refleja las sombras y los deseos de la sociedad.
+En su espejo, la cultura de club ha dado forma al deseo humano fundamental de resonancia.
+Incluso en una era de evolución de la IA y la tecnología digital, el ritmo de la noche no desaparecerá.
+Es el "latido" del cuerpo gigantesco que es la ciudad.
+
+---
+
+## Cronología: cultura de clubes y evolución urbana (1970-2025)
 
 <div class="mermaid">
 
-flowchart TD
+diagrama de flujo TD
 
-%% クラブカルチャーと都市の進化年表（1970–2025）
+%% Cronología de la cultura de clubes y evolución urbana (1970-2025)
 
-    A1970["1970：ディスコ文化の勃興（NY）"]
-    A1988["1988：Second Summer of Love／アシッドハウス革命（UK）"]
-    A1991["1991：ベルリンTresorオープン"]
-    A1999["1999：インターネットとDJカルチャーの融合"]
-    A2012["2012：日本の風営法改正“踊ってもいい夜”"]
-    A2020["2020：パンデミックでデジタルクラブ化"]
-    A2025["2025：AI DJとリアルクラブの再接続"]
+A1970["1970: Auge de la cultura disco (NY)"]
+A1988["1988: Segundo verano de amor/Revolución de Acid House (Reino Unido)"]
+A1991["1991: Abierto Tresor de Berlín"]
+A1999["1999: La fusión de Internet y la cultura DJ"]
+A2012["2012: Revisión de la Ley de Empresas de Entretenimiento de Japón "Una noche donde puedes bailar"]
+A2020["2020: Convirtiéndonos en un club digital por la pandemia"]
+A2025["2025: Reconectando AI DJ y clubes reales"]
 
-    A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
+A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
 
 </div>
 
 ---
 
-## 参考文献・関連書籍
+## Referencias/libros relacionados
 
 | 書名             | 著者         | 出版年  | リンク                                        |
 | -------------- | ---------- | ---- | ------------------------------------------------ |

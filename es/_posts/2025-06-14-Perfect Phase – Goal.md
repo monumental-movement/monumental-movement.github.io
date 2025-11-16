@@ -5,31 +5,32 @@ categories:
 image: ../assets/images/Perfect Phase – Goal.webp
 lang: es
 layout: post
+permalink: /es/2025-06-14-Perfect Phase – Goal/
 tags:
 - Electronic
 - House
 - Hard House
 - 00s
-title: Perfect Phase – Goal!!!
+title: Fase Perfecta – ¡¡¡Gol!!!
 ---
 
 
-Perfect Phase は、1980年代から活動するオランダのテクノ、トランス、ハードハウスのDJ、プロデューサー、Freek Fontein(The Freak)とWillem Faber(Mac Zimms)によるプロジェクト。
+Perfect Phase es un proyecto de Freek Fontein (The Freak) y Willem Faber (Mac Zimms), DJs y productores holandeses de techno, trance y hard house que han estado activos desde los años 80.
 
-このレコードは、2000年にオランダのダンスレーベル2-PlayかリリースされたHouse ・HardHouseトラック。
+Este disco es una canción House/HardHouse lanzada por el sello dance holandés 2-Play en 2000.
 
-ジャケットデザインは、オランダのクラブLocomotionのレジデントとして活躍したDeaz D.ことDennis Harinckが手がけた。
+El diseño de la chaqueta fue de Dennis Harinck, también conocido como Deaz D., residente del club holandés Locomotion.
 
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Goal!!!
 
 B. Chicky Chicky
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MUPvmCzzj54?si=wUBgAlZ5lNTllQrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MUPvmCzzj54?si=wUBgAlZ5lNTllQrE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

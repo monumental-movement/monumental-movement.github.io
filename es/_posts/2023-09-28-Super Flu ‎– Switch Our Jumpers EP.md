@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Super Flu – Switch Our Jumpers EP.webp
 lang: es
 layout: post
+permalink: /es/2023-09-28-Super Flu ‎– Switch Our Jumpers EP/
 tags:
 - House
 - Progressive
-title: Super Flu – Switch Our Jumpers EP
+title: Super Flu – Cambia nuestros Jumpers EP
 ---
 
 
-2006年にドイツのレーベルKarateKlubからリリースされた作品です。
+Fue lanzado en 2006 por el sello alemán KarateKlub.
 
-Feliks ThielemannとMathias Schwarzによるユニット「Super Flu」によるトラックになります。
+Este tema es de la unidad "Super Flu" de Feliks Thielemann y Mathias Schwarz.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Hallo Zeit
 
@@ -25,7 +26,7 @@ B1. Switch Our Jumpers
 B2. Trashy Whore (Lars-Christian Müller Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85295773232?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m85295773232?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSdA90_SU8Y?si=_9kHBY1F9M-EwiR9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZSdA90_SU8Y?si=_9kHBY1F9M-EwiR9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/The Cranberries – Wake Up And Smell the Coffee.webp
 lang: es
 layout: post
+permalink: /es/2025-02-16-The Cranberries – Wake Up And Smell the Coffee/
 tags:
 - Pop Rock
 - Alternative Rock
 - Rock
-title: The Cranberries – Wake Up And Smell the Coffee
+title: Los arándanos – Despierta y huele el café
 ---
 
 
-The Cranberries(クランベリーズ)は、1989年に結成されたアイルランドのオルタナティヴ・ロックバンド。インディー・ロック、ジャングル・ポップ、ドリーム・ポップ、フォーク・ロック、ポスト・パンク、ポップ・ロックの要素を取り入れたスタイルが特徴。
+The Cranberries es una banda irlandesa de rock alternativo formada en 1989. Su estilo se caracteriza por incorporar elementos de indie rock, Jungle pop, dream pop, folk rock, post-punk y pop rock.
 
-「Wake Up and Smell the Coffee」は、2001年にリリースされたThe Cranberriesの5枚目のスタジオアルバムであり、6年間の休止前の最後のアルバム。世界中で大ヒットとなった。
+"Wake Up and Smell the Coffee" es el quinto álbum de estudio de The Cranberries, lanzado en 2001, y su último álbum antes de una pausa de seis años. Se convirtió en un gran éxito en todo el mundo.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Never Grow Old
 2. Analyse
@@ -38,7 +39,7 @@ Bonus Tracks
 15. In The Ghetto
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

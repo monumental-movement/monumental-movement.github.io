@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Adam Kroll – Sylphen.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Adam Kroll – Sylphen/
 tags:
 - Techno
 - Tech House
 - Electro
-title: Adam Kroll – Sylphen
+title: Adam Kroll – Sílfide
 ---
 
 
-GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
+Un tema minimalista de electro-tech house lanzado en 2004 por Adam Kroll, conocido por su material GODZILLA, en el sello Traum Schallplatten, con sede en Colonia, Alemania.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Squonk
 
@@ -24,7 +25,7 @@ B1. Yngoor
 B2. Puk
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m31773520944?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UBNMeHpfPO0?si=lwaDKtkLt-6HyMph" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UBNMeHpfPO0?si=lwaDKtkLt-6HyMph" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

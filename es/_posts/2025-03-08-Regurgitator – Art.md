@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Regurgitator – Art.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-Regurgitator – Art/
 tags:
 - Alternative Rock
 - Rock
 - 90s
-title: Regurgitator – ...Art
+title: Regurgitador – ...Arte
 ---
 
 
-Regurgitator(リガージテーター)は、オーストラリア出身のオルタナティヴロックバンド。1993年後半にリードボーカル、ギター、キーボードのQuan Yeomans、ベースギター、キーボード、ボーカルのBen Ely、ドラムのMartin Leeによって結成された。
+Regurgitator es una banda de rock alternativo de Australia. Formada a finales de 1993 por Quan Yeomans en voz principal, guitarra y teclados, Ben Ely en bajo, teclados y voz, y Martin Lee en batería.
 
-「 ...Art(...アート)」は、1999年にリリースされたRegurgitatorの3枚目のスタジオアルバム。
+"...Art" es el tercer álbum de estudio de Regurgitator, lanzado en 1999.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Happiness
 2. Ghost
@@ -34,7 +35,7 @@ Regurgitator(リガージテーター)は、オーストラリア出身のオル
 13. Virtual Life
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

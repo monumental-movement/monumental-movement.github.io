@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Afrika Bambaataa & The Soulsonic Force – Planet Rock.webp
 lang: es
 layout: post
+permalink: /es/2023-09-16-Afrika Bambaataa & The Soulsonic Force – Planet Rock/
 tags:
 - Hiphop
 - Funk
 - 80s
-title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
+title: Afrika Bambaataa y La Fuerza Soulsonic – Planet Rock
 ---
 
 
-アメリカのヒップホップアーティスト、Afrika Bambaataaと彼のバンドThe Soulsonic Forceによる楽曲で、1982年にリリースされました。
+Una canción del artista estadounidense de hip-hop Afrika Bambaataa y su banda The Soulsonic Force, lanzada en 1982.
 
-エレクトロニックミュージック、ファンク、ヒップホップの要素を融合させた先駆的な楽曲として知られています。この曲は、独特のシンセサイザーのリフとボーカルサンプルを特徴としており、その革新的なサウンドはヒップホップやダンスミュージックの進化に大きな影響を与えました。
+Se la conoce como una canción pionera que combina elementos de la música electrónica, funk y hip-hop. La canción presenta un riff de sintetizador y una muestra vocal únicos, y su sonido innovador tuvo una gran influencia en la evolución del hip-hop y la música dance.
 
-ブレイクダンスやストリートカルチャーの隆盛とともに大きな人気を博しヒップホップのクラシックとして認識されています。また、この曲はサンプリングの対象となり、数々のアーティストやプロデューサーによって再解釈され、さまざまなジャンルの楽曲に影響を与えました。
+Ganó gran popularidad con el auge del breakdance y la cultura callejera, y es reconocido como un clásico del hip-hop. La canción también ha sido muestreada y reinterpretada por numerosos artistas y productores, influyendo en canciones de varios géneros.
 
-「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
+'Planet Rock' es ampliamente aclamado como el trabajo característico de Afrika Bambaataa y The Soulsonic Force, cuyo sonido innovador y enfoque pionero ocupan un lugar importante en la historia del hip-hop y la música dance.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Planet Rock (Vocal)
 
@@ -30,7 +31,7 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

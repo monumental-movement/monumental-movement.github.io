@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/India Arie – Heading In The Right Direction.webp
 lang: es
 layout: post
+permalink: /es/2023-09-25-India Arie – Heading In The Right Direction/
 tags:
 - House
 - Soul
-title: India Arie – Heading In The Right Direction
+title: India Arie – En la dirección correcta
 ---
 
 
-「Heading In The Right Direction」は、アメリカのシンガーソングライター、インディア・アリーの代表作の一つです。彼女はソウルやR&Bの要素を取り入れた音楽スタイルで知られており、その真摯な歌唱と心に響く歌詞が特徴です。
+"Heading In The Right Direction" es una de las obras maestras de la cantautora estadounidense India Arie. Es conocida por su estilo musical, que incorpora elementos de soul y R&B, y es conocida por su canto sincero y sus letras sentidas.
 
-「Heading In The Right Direction」は、ポジティブなメロディと洗練されたアレンジが融合した楽曲であり、前向きなメッセージと希望に満ちた歌詞が特徴であり、困難や挫折に直面しても前進することの重要性を伝えています。
+“Heading In The Right Direction” es una canción que combina una melodía positiva con un arreglo sofisticado, y presenta un mensaje positivo y una letra esperanzadora, transmitiendo la importancia de seguir adelante incluso ante las dificultades y contratiempos.
 
-インディア・アリーの音楽は、自己愛や自己肯定感を大切にするメッセージが込められており、多くの人々に共感を呼び起こしています。
+La música de India Arie tiene un mensaje de valoración del amor propio y la autoafirmación, que resuena en muchas personas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A  Heading In The Right Direction (Shelter Vocal)
 
 B  Heading In The Right Direction (Shelter Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m57334747937?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m57334747937?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4SFE5mj7kW8?si=w-gPiJTiI9jtNaGp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SFE5mj7kW8?si=w-gPiJTiI9jtNaGp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

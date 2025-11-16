@@ -5,29 +5,30 @@ categories:
 image: ../assets/images/Benga and Walsh Vs Darqwan – Addicts Megatection.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Benga and Walsh Vs Darqwan – Addicts Megatection/
 tags:
 - Dubstep
 - UK Dubstep
-title: Benga and Walsh Vs Darqwan – Addicts Megatection
+title: Benga y Walsh Vs Darqwan – Megatección de adictos
 ---
 
 
-「Benga & Walsh Vs Darqwan – Addicts / Megatection」は、3人の著名なダブステップアーティスト、Benga、Walsh、DarqwanによるDubstepトラック。
+“Benga & Walsh Vs Darqwan – Addicts / Megatection” es una pista de dubstep de tres famosos artistas de dubstep: Benga, Walsh y Darqwan.
 
-ダブステップの先駆者の一人であるBengaは、UKサウスロンドン出身のダブステッププロデューサー。 「Katy On A Mission」（Katy B）、「I Need Air」（Magnetic Man feat. Angela Hunte）、「Fire」（Magnetic Man feat. Ms Dynamite）などのヒットシングルを手がけたことで知られている。
+Benga, uno de los pioneros del dubstep, es un productor de dubstep del sur de Londres, Reino Unido. Es conocido por producir sencillos exitosos como "Katy On A Mission" (Katy B), "I Need Air" (Magnetic Man con Angela Hunte) y "Fire" (Magnetic Man con Ms Dynamite).
 
-UKダブステップシーンの初期から活動するWalshは、クロイドンを拠点とするダブステップDJ&プロデューサー。Walshは、ダブステップシーンで高い評価を受けており、その独自のサウンドとテクニカルなスキルで知られている。
+Walsh es un DJ y productor de dubstep radicado en Croydon que ha estado activo desde los primeros días de la escena dubstep del Reino Unido. Walsh goza de gran prestigio en la escena dubstep, conocido por su sonido único y sus habilidades técnicas.
 
-Darqwanは、UKシェフィールド出身のダブステップDJ/プロデューサー/リミキサー Oris Jayの別名義。Darqwanは、ダブステップの幅広いサウンドを取り入れた作品で知られており、その独創性とクリエイティビティによって注目を集めている。
+Darqwan es el alias de Oris Jay, un DJ/productor/remezclador de dubstep de Sheffield, Reino Unido. Darqwan es conocido por su trabajo que incorpora una amplia gama de sonidos dubstep y ha llamado la atención por su originalidad y creatividad.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

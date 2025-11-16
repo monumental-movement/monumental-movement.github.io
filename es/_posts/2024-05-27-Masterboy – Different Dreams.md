@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Masterboy – Different Dreams.webp
 lang: es
 layout: post
+permalink: /es/2024-05-27-Masterboy – Different Dreams/
 tags:
 - Euro
 - Euro Beat
 - Dance
 - 90s
-title: Masterboy – Different Dreams
+title: Masterboy – Sueños diferentes
 ---
 
 
-1990年から活動するMasterboyは、ヨーロッパで最もよく知られているドイツのユーロダンスプロジェクト。
+Masterboy, activo desde 1990, es un proyecto alemán de Eurodance más conocido en Europa.
 
-「Different Dreams」は、1994年にリリースされたMasterboy3枚目のアルバムで「Feel the Heat of the Night」「I Got to Give It Up」「Everybody Needs Somebody」「Is This The Love」などヒット曲が収録されている。
+"Different Dreams" es el tercer álbum de Masterboy, lanzado en 1994, e incluye éxitos como "Feel the Heat of the Night", "I Got to Give It Up", "Everybody Needs Somebody" y "Is This The Love".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Waterfall (Intro)
 2. Different Dreams
@@ -36,7 +37,7 @@ Bonus Track For Japan
 13. Generation Of Love
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Mad Max – Rollin' Thunder.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Mad Max – Rollin Thunder/
 tags:
 - Heavy Metal
 - Hard Rock
-title: Mad Max – Rollin Thunder
+title: Mad Max – Rollin Trueno
 ---
 
 
-Mad Max（マッドマックス）は、ドイツのミュンスター出身のマイケル・ヴォス、ユルゲン・ブレフォース、ローランド・バーグマン、アクセル・クルーゼによって1981年に結成されたハードロックバンド。 
+Mad Max es una banda de hard rock formada en 1981 por Michael Voss, Jürgen Brefors, Roland Bergman y Axel Kruse de Münster, Alemania.
 
-1984年にリリースされたアルバム「Rollin' Thunder」は、Mad Max２枚目のアルバム。
+El álbum "Rollin' Thunder", lanzado en 1984, es el segundo álbum de Mad Max.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Fly, Fly Away
 
@@ -37,7 +38,7 @@ B3. Riding Through The Night
 B4. Thoughts Of A Dying Man
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90006098663?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90006098663?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bW3hkEJ4mww?si=fbn4Bw-C60jg4lil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bW3hkEJ4mww?si=fbn4Bw-C60jg4lil" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

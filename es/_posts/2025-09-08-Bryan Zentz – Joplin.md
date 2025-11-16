@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Bryan Zentz – Joplin.webp
 lang: es
 layout: post
+permalink: /es/2025-09-08-Bryan Zentz – Joplin/
 tags:
 - Techno
 - 00s
@@ -12,19 +13,19 @@ title: Bryan Zentz – Joplin
 ---
 
 
-Bryan Zentz(ブライアン・ゼンツ)は、80年代にパンクバンドDisarmのボーカリストとして活動して、90年代初期にはRichie Hawtin や John Aquaviva の Definitive レーベルから、Barada 名義でテクノ作品をリリース。その後Intec Recordsから作品をリリースし、特に「D-Clash」は Carl Cox によるリミックスでも知られるBryan Zentzの代表曲。別名義でFaculty X, Bryan Never, Stareなどがある。
+Bryan Zentz fue el vocalista de la banda de punk Disarm en los años 80 y lanzó música techno bajo el nombre de Barada en el sello Definitive de Richie Hawtin y John Aquaviva a principios de los 90. Después de eso, lanzó sus trabajos en Intec Records y, en particular, "D-Clash" es una canción característica de Bryan Zentz, que también es conocido por su remix de Carl Cox. Otros nombres incluyen Faculty X, Bryan Never y Stare.
 
-「Joplin」は、2002年にIntec RecordsからリリースされたTechno。Bryan Zentz のデビューアルバム『Seven Breaths』からのシングルカット。
+"Joplin" es una canción de Techno lanzada por Intec Records en 2002. Corte sencillo del álbum debut de Bryan Zentz "Seven Breaths".
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Joplin
 
 B. Bushido
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34179111324?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34179111324?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k5YuCMBaHRI?si=KTC9bi0WyIBU4az3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5YuCMBaHRI?si=KTC9bi0WyIBU4az3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

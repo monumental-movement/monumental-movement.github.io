@@ -5,22 +5,24 @@ categories:
 image: ../assets/images/StudioVoice別冊 オールジャンルディスクガイド スタジオボイス.webp
 lang: es
 layout: post
+permalink: /es/2023-09-18-StudioVoice disk guide/
 tags:
 - Disk Guide
 - Studio Voice
-title: StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
+title: StudioVoice Volumen independiente Guía de discos de todos los géneros Studio
+  Voice
 ---
 
 
-#### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
+#### StudioVoice Volumen separado Todos los géneros Guía de discos Studio Voice
 
-ULTIMATE CUT UP MUSIC ― 2000‐2005総集編
+ULTIMATE CUT UP MUSIC - Compilación 2000-2005
 
-500枚以上掲載のオールジャンル・コンプリート・ディスクガイド。20人以上のコラムが掲載されています。
+Una guía de discos completa de todos los géneros con más de 500 discos. Se publican columnas de más de 20 personas.
 
-全195ページ、およそ700枚掲載
+Total 195 páginas, aproximadamente 700 fotografías.
 
-#### Contents
+#### Contenido
 ```md
 
 Rock/Pop
@@ -36,4 +38,4 @@ World
 Contemporary
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Unknown Artist – Work It On The Freeway.webp
 lang: es
 layout: post
+permalink: /es/2025-09-14-Unknown Artist – Work It On The Freeway/
 tags:
 - Broken Beat
 - Latin
 - 00s
-title: Unknown Artist – Work It On The Freeway
+title: Artista desconocido - Trabaja en la autopista
 ---
 
 
-ブラジルのbroken beat (ブロークンビート)とMissy Elliott(ミッシー・エリオット)の「Work It」&Toni Braxton (トニ・ブラクストン)の「Hit The Freeway」をミックスしたUnknown ArtistによるUnofficialリミックス。(片面・2003年)
+Remix no oficial de Artista Desconocido que mezcla ritmo roto brasileño con "Work It" de Missy Elliott y "Hit The Freeway" de Toni Braxton. (Un lado, 2003)
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Work It On The Freeway
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}

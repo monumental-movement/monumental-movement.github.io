@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).webp
 lang: es
 layout: post
+permalink: /es/2023-09-08-Dance Hall Crashers – Dance Hall Crashers/
 tags:
 - Ska
 - Ska Punk
-title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
+title: Dance Hall Crashers – EL VIEJO DISCO (1989-1992)
 ---
 
 
-ダンス・ホール・クラッシャーズ (DANCE HALL CRASHERS) は、1989年にアメリカのカリフォルニア州バークレーで結成されたスカコア・バンドです。
+DANCE HALL CRASHERS es una banda estadounidense de ska-core formada en Berkeley, California en 1989.
 
-1989年、ランシドの母体バンドであるオペレーション・アイヴィーのマット・フリーマンとティム・アームストロングがサイド・プロジェクトとしての結成がはじまり。
+En 1989, Matt Freeman y Tim Armstrong de la banda matriz de Rancid, Operation Ivy, formaron la banda como un proyecto paralelo.
 
-このアルバム『THE OLD RECORD (1989-1992)』は、1996年にリリースされました。
+Este álbum "THE OLD RECORD (1989-1992)" fue lanzado en 1996.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Pick Up Lines
 
@@ -59,7 +60,7 @@ B5. Better Than Anything
 B6. DHC
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

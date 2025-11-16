@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Sinnamon – I Need You Now.webp
 lang: es
 layout: post
+permalink: /es/2025-08-06-Sinnamon – I Need You Now/
 tags:
 - House
 - Garage House
 - 90s
-title: Sinnamon – I Need You Now
+title: Sinnamon - Te necesito ahora
 ---
 
 
-Sinnamonは、アメリカ出身の女性R&Bヴォーカルトリオ。「I Need You Now」(1983)は、1980年代のR&B／エレクトロ／ポスト・ディスコ系の代表曲の一つとして知られている。
+Sinnamon es un trío vocal estadounidense de R&B. "I Need You Now" (1983) es conocida como una de las canciones representativas del R&B/electro/post-disco de la década de 1980.
 
-1996年にレーベルWorx Recordsからリリースされたこのレコードは、「I Need You Now」のHouse／Garage House MIX。
+Este disco, lanzado por el sello Worx Records en 1996, es una mezcla House/Garage House de "I Need You Now".
 
-A1は、TeeことTodd Terry(トッド・テリー)によるremix。
-A2は、 "Little" Louie VegaとKenny "Dope" GonzalezによるユニットMasters At Workによるremix。
+A1 es un remix de Todd Terry, también conocido como Tee.
+A2 es un remix de Masters At Work, una unidad formada por "Little" Louie Vega y Kenny "Dope" González.
 
-B1は、DJ&プロデューサーMatthias HeilbronnとMike DelgadoのデュオDeep Zoneによるremix。
-B2は、Johnny "D" De MairoとNicholas Palermo Jr.によるデュオJohNickによるremix。
+B1 es un remix de Deep Zone, el dúo formado por el DJ y productores Matthias Heilbronn y Mike Delgado.
+B2 es un remix de JohNick, dúo compuesto por Johnny "D" De Mairo y Nicholas Palermo Jr.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Need You Now (Tee's Master Extended)
 A2. I Need You Now (Masters At Work Mix)
@@ -33,7 +34,7 @@ B1. I Need You Now (Deepzone Club Mix)
 B2. I Need You Now (Johnick Henry St. Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86184123178?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86184123178?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oq8_lUsKWDk?si=YyE6ZTBlK5TNjmXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oq8_lUsKWDk?si=YyE6ZTBlK5TNjmXc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

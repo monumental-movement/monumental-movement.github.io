@@ -5,87 +5,89 @@ categories:
 image: ../assets/images/column-burningman.webp
 lang: es
 layout: post
+permalink: /es/2025-09-28-Column-Burningman/
 tags:
 - Rave
 - History
-title: 【コラム】 砂漠の都市──Burning Man（バーニングマン）の歴史・逸話・現代的意義
+title: '[Columna] Ciudad del Desierto: Historia, anécdotas y significado moderno de
+  Burning Man'
 ---
 
 
-## 砂漠に刻まれるアートとテーマの記憶
+## Recuerdos de arte y temas tallados en el desierto.
 
-文：mmr｜テーマ：バーニングマンの歴史を知ることは、単なるフェスを超えた「未来都市と人間の実験」を理解すること
+Texto: mmr｜Tema: Conocer la historia de Burning Man es entender que es más que un simple festival, es una “ciudad del futuro y experimento humano”
 
-Burning Man は単なるフェスティバルではなく、「一時的都市（Black Rock City）」を共同で作り上げる実験場だ。1986年のサンフランシスコ・ベイエリアのビーチで始まり、90年代以降はネバダのブラックロック砂漠で毎年開催されるようになった。アート、炎、テクノロジー、そして“ギフティング（贈与）”の文化が混じり合う場所で、ベイエリアの企業やスタートアップ文化とも深く交差している。
+Burning Man es más que un simple festival, es un campo de pruebas para crear colaborativamente una Black Rock City. Comenzó en las playas del Área de la Bahía de San Francisco en 1986 y desde la década de 1990 se celebra anualmente en el desierto Black Rock de Nevada. Es un lugar donde el arte, el fuego, la tecnología y la cultura del obsequio se cruzan, profundamente con la cultura corporativa y de startups del Área de la Bahía.
 
 ---
 
-#### BURNING MAN 2025 - All ART
+#### BURNING MAN 2025 - Todo ARTE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fo-kN2uXVik?si=Sczv6RIgofMcguM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fo-kN2uXVik?si=Sczv6RIgofMcguM7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 <style type="text/css">
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-### 起源と展開：ビーチから砂漠へ
+### Origen y desarrollo: de la playa al desierto
 
-1986年、Larry Harvey と Jerry James がサンフランシスコのベーカー・ビーチで木の人形（The Man）を焚くことから始まったのがBurning Manの起源だ。そこから参加者が増え、1990年に初めてブラックロック砂漠へ移転して以降、イベントは砂漠での一時都市づくりへと変容していった。
-
----
-
-
-#### 2004年の「10の原則」とその影響
-
-組織的な発展の中で、2004年にLarry Harvey が提唱した「10の原則（Radical Inclusion、Gifting、Decommodification 等）」がコミュニティの価値観を整理し、イベントの文化的枠組みを与えた。これがBurning Man の「理念的核」として世界中のリージョナル・バーンに波及している。
+Burning Man comenzó en 1986 cuando Larry Harvey y Jerry James quemaron una efigie de madera (El Hombre) en Baker Beach en San Francisco. A partir de ahí, el número de participantes aumentó y, tras trasladarse al desierto de Black Rock por primera vez en 1990, el evento se transformó en un proyecto temporal de construcción de una ciudad en el desierto.
 
 ---
 
 
-### ベイエリア／テックとの関係性
+#### 2004 “10 Principios” y su impacto
 
-Burning Man とシリコンバレーの関係は長い。90年代後半には、Google の創業者らが参加した逸話や、ベイエリアのクリエイティブ産業がBurning Man を文化的インフラとして利用してきたことが研究でも指摘されている。スタンフォード等の研究は、Burning Man が“新しいメディア産業”の文化的土壌になったと論じる。
-
----
-
-
-### 著名人・セレブの参加と論争
-
-Burning Man は長年にわたり著名人を引き寄せてきた — 起業家やアーティスト、時には政治家までもが顔を見せる（Mark Zuckerberg、Elon Musk、Jeff Bezos といった名前がメディアで言及されることがある）。これにより「脱商品化（decommodification）」という原則と、富や影響力を持つ参加者の実際の振る舞いの間で摩擦が生まれることもある。
+A medida que la organización evolucionó, los "10 principios" (inclusión radical, donaciones, desmercantilización, etc.) propuestos por Larry Harvey en 2004 organizaron los valores de la comunidad y proporcionaron un marco cultural para el evento. Este es el "núcleo ideológico" de Burning Man y se ha extendido a incendios regionales en todo el mundo.
 
 ---
 
 
-### 逸話・伝説
+### Relación con el Área de la Bahía/Tecnología
 
-1990年の移転時、警察によるビーチでの燃焼禁止が転機となり、砂漠への移動が決まった。
-Burning Man
-
-「Google Doodle」のルーツにBurning Man での創業者の休暇告知が関係しているという面白い話（企業文化と祭りの交差）。
-
-2000年代以降、巨大な「アート自動車（mutant vehicles）」や火を使った彫刻が注目を浴び、世界中のメディアで紹介されるようになる。
-
----
-
-#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Burning Man tiene una larga relación con Silicon Valley. A finales de la década de 1990, una investigación señala que Burning Man ha sido utilizado como infraestructura cultural por las industrias creativas del Área de la Bahía, con anécdotas de participación de los fundadores de Google. El estudio Stanford et al. El estudio sostiene que Burning Man se convirtió en la base cultural de una "industria de nuevos medios".
 
 ---
 
 
-### 関連書籍
+### Participación y controversia de personajes famosos/celebridades
+
+Burning Man ha sido durante mucho tiempo un imán para celebridades: empresarios, artistas e incluso políticos (en los medios se han mencionado nombres como Mark Zuckerberg, Elon Musk y Jeff Bezos). Esto puede crear fricciones entre el principio de "desmercantilización" y el comportamiento real de los participantes con riqueza e influencia.
+
+---
+
+
+### Anécdota/Leyenda
+
+Cuando se trasladó en 1990, la prohibición policial de quemar en las playas supuso un punto de inflexión y se tomó la decisión de trasladarse al desierto.
+hombre en llamas
+
+Una historia interesante de que las raíces de "Google Doodle" están relacionadas con el anuncio de vacaciones del fundador en Burning Man (la intersección de la cultura corporativa y los festivales).
+
+Desde la década de 2000, los "vehículos mutantes" gigantes y las esculturas hechas de fuego han llamado la atención y han aparecido en los medios de comunicación de todo el mundo.
+
+---
+
+#### Dentro de los escandalosos vehículos mutantes de Burning Man 2022 | Forbes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+
+### Libros relacionados
 
 
 |    年代 | 雑誌／メディア                 | 備考・関係性               | リンク        |
@@ -96,323 +98,323 @@ Burning Man
 ---
 
 
-### 現代的な意味と課題
+### Implicaciones y desafíos contemporáneos
 
-Burning Man は創造性のハブとしての側面を保ちつつ、商業化や安全・環境問題、そして「誰のためのバーンか？」という問いに直面している。コミュニティは持続可能性の取り組み（Leave No Trace やアート・グラント）を強化し、リージョナル・ネットワークでの知識共有を進めている。
-
----
-
-#### Burning Man 2025: The Man Burns
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Si bien Burning Man sigue siendo un centro de creatividad, enfrenta problemas de comercialización, seguridad y medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
 
 ---
 
-### 年ごとのテーマ（概要）
+#### Burning Man 2025: El hombre arde
 
-1996年以降、イベントは毎年「アートテーマ」を掲げる（例：2000年『The Body』など）。テーマはアーティストやキャンプの表現に方向性を与え、公共空間での対話を引き出すトリガーとなる。公式アーカイブには年別テーマや設置アートの記録が残されている。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 年別テーマ一覧
+### Tema por año (resumen)
 
-以下、1995年以降を中心に、近年までのテーマを年順で記載します。
+Desde 1996, el evento ha tenido un "tema artístico" cada año (por ejemplo, "El cuerpo" en 2000). Los temas dan dirección a las expresiones de los artistas y los campos y sirven como desencadenantes del diálogo en los espacios públicos. El archivo oficial registra los temas anuales y el arte instalado.
+
+---
+
+### Lista de temas por año
+
+A continuación, se enumeran los temas desde 1995 hasta años recientes en orden cronológico.
 
 <div class="mermaid">
-flowchart TD
-    A1995["1995 : Inferno"] --> A1996["1996 : Decommodification"]
-    A1996 --> A1997["1997 : Fertility"]
-    A1997 --> A1998["1998 : Nebulous Entity"]
-    A1998 --> A1999["1999 : The Wheel of Time"]
-    A1999 --> A2000["2000 : The Body"]
-    A2000 --> A2001["2001 : Seven Ages"]
-    A2001 --> A2002["2002 : The Floating World"]
-    A2002 --> A2003["2003 : Beyond Belief"]
-    A2003 --> A2004["2004 : The Vault of Heaven"]
-    A2004 --> A2005["2005 : Psyche"]
-    A2005 --> A2006["2006 : Hope & Fear"]
-    A2006 --> A2007["2007 : The Green Man"]
-    A2007 --> A2008["2008 : American Dream"]
-    A2008 --> A2009["2009 : Evolution – A Tangled Bank"]
-    A2009 --> A2010["2010 : Metropolis – The Life of Cities"]
-    A2010 --> A2011["2011 : Rites of Passage"]
-    A2011 --> A2012["2012 : Fertility 2.0"]
-    A2012 --> A2013["2013 : Cargo Cult"]
-    A2013 --> A2014["2014 : Caravansary"]
-    A2014 --> A2015["2015 : Carnival of Mirrors"]
-    A2015 --> A2016["2016 : Da Vinci’s Workshop"]
-    A2016 --> A2017["2017 : Radical Ritual"]
-    A2017 --> A2018["2018 : I, Robot"]
-    A2018 --> A2019["2019 : Metamorphoses"]
-    A2019 --> A2020["2020 : The Multiverse (イベント中止年)"]
-    A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
-    A2021 --> A2022["2022 : Waking Dreams"]
-    A2022 --> A2023["2023 : Animalia"]
-    A2023 --> A2024["2024 : The Great Unknown"]
-    A2024 --> A2025["2025 : Tomorrow Today"]
+diagrama de flujo TD
+A1995["1995: Infierno"] --> A1996["1996: Desmercantilización"]
+A1996 --> A1997["1997: Fertilidad"]
+A1997 --> A1998["1998: Entidad Nebulosa"]
+A1998 --> A1999["1999: La rueda del tiempo"]
+A1999 --> A2000["2000: El Cuerpo"]
+A2000 --> A2001["2001: Siete Eras"]
+A2001 --> A2002["2002: El mundo flotante"]
+A2002 --> A2003["2003: Más allá de lo creíble"]
+A2003 --> A2004["2004: La Bóveda del Cielo"]
+A2004 --> A2005["2005: Psique"]
+A2005 --> A2006["2006: Esperanza y miedo"]
+A2006 --> A2007["2007: El hombre verde"]
+A2007 --> A2008["2008: Sueño americano"]
+A2008 --> A2009["2009: Evolución – Un banco enredado"]
+A2009 --> A2010["2010 : Metrópolis – La vida de las ciudades"]
+A2010 --> A2011["2011: Ritos de iniciación"]
+A2011 --> A2012["2012: Fertilidad 2.0"]
+A2012 --> A2013["2013: Culto a la carga"]
+A2013 --> A2014["2014: Caravansario"]
+A2014 --> A2015["2015: Carnaval de los Espejos"]
+A2015 --> A2016["2016: El taller de Da Vinci"]
+A2016 --> A2017["2017: Ritual Radical"]
+A2017 --> A2018["2018: Yo, Robot"]
+A2018 --> A2019["2019 : Metamorfosis"]
+A2019 --> A2020["2020: El Multiverso (año de cancelación del evento)"]
+A2020 --> A2021["2021: Reflectante (virtual/híbrido)"]
+A2021 --> A2022["2022: Sueños despiertos"]
+A2022 --> A2023["2023: Animalia"]
+A2023 --> A2024["2024: El gran desconocido"]
+A2024 --> A2025["2025: Mañana Hoy"]
 
 </div>
 
 ---
 
-#### 1995年：Inferno
+#### 1995: Infierno
 
-1995年のInfernoは、「Burning Manは単なる野外フェスではなく、燃焼儀礼・精神的再生の場」 という認識を参加者間に浸透させた重要な年です。
+Inferno en 1995 fue un año importante porque difundió la conciencia entre los participantes de que "Burning Man no es sólo un festival al aire libre, sino un lugar para la quema ritual y el renacimiento espiritual".
 
-この頃から、火とアートを組み合わせた参加型体験が恒例化し、現代のバーニングマンアート文化の基盤を形成しました。
+A partir de esta época, las experiencias participativas que combinaban fuego y arte se convirtieron en la norma, formando la base de la cultura artística moderna de Burning Man.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 1996年：Decommodification
-
-1996年は、バーニングマンが「フェスティバル」からコミュニティ実験都市への変革を加速させた年。
-
-参加者が「体験そのものに価値を見出す」という価値観が浸透し、後の巨大アート作品やテーマ型都市の形成を支えました。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 1997年：Fertility
+#### 1996: Desmercantilización
 
-1997年は、Burning Manの 自然・生命・再生という象徴性 が初めてテーマの中心に据えられた年。
+1996 fue el año en que Burning Man aceleró su transformación de un "festival" a una ciudad comunitaria experimental.
 
-以降のテーマ（2004 Vault of Heaven、2012 Fertility 2.0など）に受け継がれる「生命・創造力の祝祭」の原型。
+Los valores que "encuentran valor en la experiencia misma" impregnaron a los participantes y apoyaron la formación de obras de arte a gran escala y ciudades temáticas posteriores.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ztfr8tCtgKU?si=FvHFqF32tTShOAF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 1998年：Nebulous Entity
-
-謎めいた存在、宇宙や意識の曖昧さを探るテーマ。参加型の浮遊あるいは光を使ったインタラクティブ作品が目立った。
-
-例えば、「30フィートの浮遊体 (luminous float) “Nebulous Entity”」という作品が報じられている。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 1999年：The Wheel of Time
+#### 1997: Fertilidad
 
-時の輪／循環性というテーマ。街区や通りの表示に惑星をモチーフとした改装がなされた。
+1997 fue el año en que el simbolismo de la naturaleza, la vida y el renacimiento de Burning Man se convirtió en el tema central por primera vez.
 
----
+El prototipo de "celebración de la vida y la creatividad" que han heredado los temas posteriores (2004 Vault of Heaven, 2012 Fertility 2.0, etc.).
 
-#### 2000年：The Body
-
-人体・肉体の表現・象徴が主題。身体性と美学、肉体の限界を試すインスタレーションが数多く。
-
-またこの年から Temple の設置が定着し始め、「Temple of the Mind」（あるいは類似コンセプト）など、精神性と構造性を併せ持つ設置が現れた。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztfr8tCtgKU?si=FvHFqF32tTShOAF2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2001年：Seven Ages
+#### 1998: Entidad nebulosa
 
-人生の七段階、成長と変化、世代間関係を扱うテーマ。
+Un tema que explora la existencia misteriosa y la ambigüedad del universo y la conciencia. Destacaron las obras interactivas que utilizan la levitación participativa o la luz.
 
-複数のアートやパフォーマンスで、人生の移ろいを象徴する構造物が設置された例あり。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9z7hI9TFw0?si=1Z23mcql7HzZWVrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Por ejemplo, se ha informado que hay una obra llamada "Flotador luminoso de 30 pies 'Entidad Nebulosa'".
 
 ---
 
-#### 2002年：The Floating World
+#### 1999: La rueda del tiempo
 
-「浮世（うきよ）」をモチーフに、仮設世界・非日常の拡張という観点でアートが構築。
-
-水中感覚、浮遊感、幻想性を備えた構造体が出現。
+El tema de la rueda del tiempo/circularidad. Las manzanas y calles de la ciudad han sido renovadas con motivos planetarios.
 
 ---
 
-#### 2003年：Beyond Belief
+#### 2000: El cuerpo
 
-宗教性、信仰、神秘、錯覚・超越の探求。テーマ・アート共に、儀式性・祈り・儀礼空間を意識した構成が多くなった。
+El tema es la expresión y simbolismo del cuerpo y el cuerpo humano. Son muchas las instalaciones que ponen a prueba la fisicalidad, la estética y los límites del cuerpo.
 
-この年、テーマアート登録プロジェクト数が急増した。
+Además, a partir de este año comenzaron a afianzarse las instalaciones de templos y aparecieron instalaciones que combinaban espiritualidad y estructura, como el "Templo de la Mente" (o conceptos similares).
 
----
-
-#### 2004年：The Vault of Heaven
-
-2004年は、“宇宙的視野” と “共同体の祈り” が結びついた年であり、その後の「Cargo Cult（2013）」や「I, Robot（2018）」といった科学／宇宙テーマの先駆けになったと評価されています。
-
-ベイエリアのNASAエンジニアやMITメディアラボ関係者も参加し、「サイエンス × アート × スピリチュアル」という三位一体の象徴的事例となりました。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2005年：Psyche
+#### 2001: Siete edades
 
-心性／精神世界をテーマに、夢・無意識・内省を題材にした作品群が多く出現。
+Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
----
-
-#### 2006年：Hope & Fear
-
-希望と恐怖という対立軸を探索するテーマ。人類文明の脆弱さや未来志向を仄めかす構造体・メディアアートが見られた。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9z7hI9TFw0?si=1Z23mcql7HzZWVrK" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2007年：The Green Man
+#### 2002: El mundo flotante
 
-自然と文明の関係を問い直すテーマ。「グリーンマン（植物・自然生起性の擬人像）」をモチーフにした構成。
+Con el motivo del mundo flotante, el arte se construye desde la perspectiva de ampliar el mundo temporal y lo extraordinario.
 
-ただし、この年には巨大な石油掘削塔を模した燃焼アート “Crude Awakening” が論争を呼び批判された。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Aparece una estructura con sensación submarina, sensación de flotación y fantasía.
 
 ---
 
-#### 2008年：American Dream
+#### 2003: Más allá de lo creíble
 
-アメリカ的夢／消費社会への問い。消費主義・神話・社会構造をテーマ化したアートが多く登場。
+Una exploración de la religiosidad, la fe, el misterio, la ilusión y la trascendencia. Tanto la temática como el arte tienen composiciones más conscientes de espacios rituales, de oración y ceremoniales.
 
----
-
-#### 2009年：Evolution – A Tangled Bank
-
-進化・生態系・混交・相互関係性をテーマに。複雑系的な構造配置や生命ネットワークを模したアートが中心。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ArO22tMA7gg?si=6tD01mSyq0hg0BLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Este año, el número de proyectos registrados como arte temático aumentó rápidamente.
 
 ---
 
-#### 2010年：Metropolis – The Life of Cities
+#### 2004: La Bóveda del Cielo
 
-都市論・都市の生命性を探るテーマ。建築的要素、都市構造の縮図とアレンジ、都市と人間の相互関係性を問うアートが展開された。
+2004 fue el año en el que se combinaron la "visión cósmica" y la "oración comunitaria", y se le atribuye ser el precursor de temas científicos/espaciales posteriores como "Cargo Cult (2013)" y "I, Robot (2018)".
 
----
+También participaron ingenieros de la NASA del Área de la Bahía y gente del MIT Media Lab, convirtiéndolo en un ejemplo simbólico de la trinidad de "ciencia x arte x espiritualidad".
 
-#### 2011年：Rites of Passage
-
-通過儀礼、変遷、変容を主題に。個人の人生変化や集団儀礼空間としての構成要素を持つ祭礼的インスタレーションが目立った。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2012年：Fertility 2.0
+#### 2005: Psique
 
-1997年の「Fertility」の再論・アップデート。創造性・再生・未来への萌芽をテーマ化。
+Con el tema del xinxing/mundo espiritual, han aparecido muchas obras que tratan sobre los sueños, la inconsciencia y la introspección.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### 2013年：Cargo Cult
-
-カーゴ・カルト（物質文化と信仰のズレ）をモチーフに、現代消費社会・貨物流通・儀礼化を問い直す。
-
-多くのキャンプや構造物が「信仰される物質」「贈与経済」のズレを表現。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2014年：Caravansary
+#### 2006: Esperanza y miedo
 
-キャラバンサライ（隊商宿／交易宿場）をモチーフ。人や物の移動、交易、旅路と停泊、文化交流を主題に据えたアートが構成された。
-
----
-
-#### 2015年：Carnival of Mirrors
-
-鏡のカーニバルという装置性・反射・幻影のテーマ。鏡面構造、視覚トリック、フェスティバリズム的仕掛けが特徴。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FBAIXeXkQoA?si=fo8hXTolO3l_-ya1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Un tema que explora los ejes conflictivos de la esperanza y el miedo. Había estructuras y arte mediático que insinuaban la fragilidad de la civilización humana y la orientación futura.
 
 ---
 
-#### 2016年：Da Vinci’s Workshop
+#### 2007: El hombre verde
 
-イタリア・ルネサンスを参照し、芸術・工学・発明・融合性を探るテーマ。創造と技術が交錯する構成要素が強化された。
+Un tema que reconsidera la relación entre naturaleza y civilización. Una composición basada en el motivo del "Hombre Verde" (una figura antropomorfa de plantas y plantas naturales).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Sin embargo, ese año, su arte en llamas "Crude Awakening", que imitaba una plataforma petrolera gigante, causó controversia y fue criticado.
 
----
-
-#### 2017年：Radical Ritual
-
-儀礼性・儀式性の再構築をテーマに、参加者による儀礼パフォーマンス、インタラクティブな祭礼空間構築が重視。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2018年：I, Robot
+#### 2008: Sueño americano
 
-ロボット・機械・人工知能・自律性をテーマに。サイバーパンク風、機械構造、インタラクティブ・ロボティクス寄与作品が多く登場。
-
----
-
-#### 2019年：Metamorphoses
-
-変容・変態・トランスフォーメーションを軸に、動的変化や物質変換、鋳型破りのアート表現が目立つ。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3JNHYL9BvU?si=KwU509fqVsLra6mQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Sueño americano/Preguntas sobre la sociedad de consumo. Hay mucho arte que presenta temas de consumismo, mitología y estructura social.
 
 ---
 
-#### 2020年：The Multiverse
+#### 2009: Evolución – Un banco enredado
 
-本来は多宇宙（マルチバース）構想をテーマに。しかし COVID-19 の影響で現地フェスティバルは中止。仮想空間／オンライン空間での展開を模索。
+Los temas son la evolución, los ecosistemas, el mestizaje y las interrelaciones. La atención se centra en el arte que imita complejos arreglos estructurales y redes de vida.
 
----
-
-#### 2021年：Reflective
-
-現地開催が制限される中で、「反射・省察」をテーマとしたハイブリッド／仮想・物理融合型のアプローチ。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KEbaZmcBOVU?si=NwUa9jui19bGIC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ArO22tMA7gg?si=6tD01mSyq0hg0BLC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-#### 2022年：Waking Dreams
+#### 2010: Metrópolis – La vida de las ciudades
 
-夢醒め・起醒性をテーマに、夢と現実の揺らぎや、覚醒的視点を意識した構成が行われた。
-
----
-
-#### 2023年：Animalia
-
-動物性・野生性・動物世界との共鳴をテーマ。生態系への問い、身体性、種間関係をモチーフに。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u_NrdzfDphE?si=NzNXASwS51ostH_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Teoría urbana: un tema que explora la vitalidad de las ciudades. Se desarrolló un arte que cuestionaba los elementos arquitectónicos, el microcosmos y la disposición de las estructuras urbanas y la interrelación entre las ciudades y los humanos.
 
 ---
 
-#### 2024年：The Great Unknown
+#### 2011: Ritos de iniciación
 
-未知性・予測不能性を主題とし、不確実性をアートで可視化する挑戦的構成が展開。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9LwBJgkNxzI?si=z-IjIT3gFNfnNj4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Los temas son ritos de iniciación, transición y transformación. Destacaron instalaciones tipo festival con elementos de cambios de vida individuales y espacios rituales colectivos.
 
 ---
 
-#### 2025年：Tomorrow Today
+#### 2012: Fertilidad 2.0
 
-近未来・未来発明・社会構想を主軸に。「明日を今日に」具現化するアート、プロトタイピング、未来的対話空間を誘発する設計。
+Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, el renacimiento y el avance hacia el futuro.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-### 注記と補足解説
-
-以上のリストは、Burning Man の 公式年次アーカイブ によるテーマ説明や、複数のファン・記録サイトを参照して構成しています。
-
-Temple（祈りの場）やマン本体 (The Man) 自体は、テーマとは独立しながらも毎年再構成される要素として、テーマ性に呼応して設計されることが多いです。
-
-また、テーマが必ずしも全てのキャンプ／作品に強制適用されるわけではなく、あくまで「提案的枠組み」として機能します。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-### 結語：砂漠で試される未来都市の実験
+#### 2013: Culto a la carga
 
-Burning Manは、Inferno（1995）→ Decommodification（1996）→ Fertility（1997）→ Vault of Heaven（2004）→ 2010–2025年テーマ と進化し、精神性・参加型アート・非商業化・生命表現を融合した現代の文化実験都市です。
+Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-毎年変化するテーマと巨大アート作品は、参加者の体験を通して価値観や社会的関係を問い直す装置として機能。砂漠に築かれる一瞬の都市は、個々の記憶に刻まれ、社会や文化、そして創造性に持続的影響を与え続けます。
+Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
-砂漠での焚火が消えても、その精神は次の年へ、そして私たちの想像力の中へと燃え続ける――それがバーニングマンの本質です。
+---
+
+#### 2014: Caravasar
+
+El motivo es un caravanserai (caravanserai/puesto comercial). El arte se compuso en torno a los temas del movimiento de personas y mercancías, el comercio, los viajes y paradas y el intercambio cultural.
+
+---
+
+#### 2015: Carnaval de los Espejos
+
+El tema del carnaval de los espejos es el dispositivo, el reflejo y la ilusión. Presenta estructuras reflejadas, trucos visuales y dispositivos tipo festival.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FBAIXeXkQoA?si=fo8hXTolO3l_-ya1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 2016: Taller de Da Vinci
+
+Un tema que explora el arte, la ingeniería, la invención y la fusión con referencia al Renacimiento italiano. Se ha fortalecido el componente que cruza creatividad y tecnología.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 2017: Ritual Radical
+
+Con el tema de la reconstrucción del ceremonial y la ceremonialidad, se pone énfasis en las representaciones rituales de los participantes y la construcción de espacios festivos interactivos.
+
+---
+
+#### 2018: Yo, robot
+
+El tema es robots, máquinas, inteligencia artificial y autonomía. Aparecen muchas obras que presentan estilo cyberpunk, estructuras mecánicas y robótica interactiva.
+
+---
+
+#### 2019: Metamorfosis
+
+Centrándose en la metamorfosis, la metamorfosis y la transformación, se destacan el cambio dinámico, la transformación material y las expresiones artísticas innovadoras.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3JNHYL9BvU?si=KwU509fqVsLra6mQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 2020: El Multiverso
+
+Originalmente, el tema era el concepto de multiverso. Sin embargo, debido al COVID-19, la fiesta local fue cancelada. Explorando el desarrollo en el espacio virtual/en línea.
+
+---
+
+#### 2021: Reflexivo
+
+Un enfoque de fusión híbrido/virtual/físico con el tema de "reflexión y reflexión" en medio de restricciones a los eventos presenciales.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEbaZmcBOVU?si=NwUa9jui19bGIC44" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 2022: Sueños despiertos
+
+Con el tema del despertar y el despertar, la composición fue creada teniendo en cuenta las fluctuaciones entre los sueños y la realidad y la perspectiva del despertar.
+
+---
+
+#### 2023: Animalia
+
+El tema es la animalidad, lo salvaje y la resonancia con el mundo animal. Los motivos son preguntas sobre ecosistemas, fisicalidad y relaciones entre especies.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u_NrdzfDphE?si=NzNXASwS51ostH_B" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 2024: El gran desconocido
+
+El tema es el desconocimiento y la imprevisibilidad, y se desarrolla una composición desafiante que visualiza la incertidumbre a través del arte.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9LwBJgkNxzI?si=z-IjIT3gFNfnNj4_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+#### 2025: Mañana Hoy
+
+Centrándose en el futuro próximo, futuros inventos y planes sociales. Arte que encarna "El mañana en el hoy", creación de prototipos y diseño que induce a un espacio de diálogo futurista.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+### Notas y explicaciones complementarias
+
+La lista anterior se construyó haciendo referencia a las descripciones de temas del archivo anual oficial de Burning Man, así como a múltiples sitios de fans y discos.
+
+El Templo (un lugar de oración) y el Hombre mismo a menudo se diseñan en respuesta a un tema, con elementos que son independientes del tema pero que se reconfiguran cada año.
+
+Además, el tema no se aplica necesariamente de forma obligatoria a todos los campamentos/obras, sino que funciona como un "marco de sugerencias".
+
+---
+
+### Conclusión: experimento de la futura ciudad en el desierto
+
+Burning Man es una ciudad experimental cultural moderna que ha evolucionado a partir del tema Inferno (1995) → Desmercantilización (1996) → Fertilidad (1997) → Vault of Heaven (2004) → 2010-2025, fusionando espiritualidad, arte participativo, descomercialización y expresión de la vida.
+
+El tema, que cambia cada año, y la obra de arte a gran escala funcionan como un dispositivo para que los participantes cuestionen sus valores y relaciones sociales a través de sus experiencias. Las ciudades efímeras construidas en el desierto están grabadas en la memoria de las personas y continúan teniendo un impacto duradero en la sociedad, la cultura y la creatividad.
+
+Esa es la esencia de Burning Man: incluso cuando se apagan las hogueras del desierto, el espíritu continúa ardiendo durante el próximo año y en nuestra imaginación.
 
 

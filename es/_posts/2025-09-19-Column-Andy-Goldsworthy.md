@@ -5,38 +5,40 @@ categories:
 image: ../assets/images/column-andy-goldsworthy.webp
 lang: es
 layout: post
+permalink: /es/2025-09-19-Column-Andy-Goldsworthy/
 tags:
 - Minimal
 - Ambient
 - Field Recording
-title: 【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
+title: '[Columna] Andy Goldsworthy y la música: resonancia artística en torno al tiempo
+  y la naturaleza'
 ---
 
 
-## Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
+## Andy Goldsworthy y la música - Resonancia artística en torno al tiempo y la naturaleza
 
-文：mmr｜テーマ：Andy Goldsworthyの作品とアンビエントやフィールド録音、ミニマル・ミュージックがもつ音の共鳴性について
+Texto: mmr｜Tema: Las obras de Andy Goldsworthy y la resonancia sonora del ambiente, la grabación de campo y la música minimalista.
 
-アンディー・ゴールズワージー（Andy Goldsworthy, 1956-）は、自然素材を用いたインスタレーションやランド・アートで知られるイギリスのアーティスト。彼の作品は時間の流れ、素材の変化、自然の循環といった要素をテーマにしている。そのアプローチは音楽――特にアンビエントやフィールドレコーディング、ミニマル・ミュージック――と多くの共通点を持っている。
+Andy Goldsworthy (1956-) es un artista británico conocido por sus instalaciones y land art utilizando materiales naturales. Su trabajo se centra en elementos como el paso del tiempo, los cambios de materiales y los ciclos de la naturaleza. Su enfoque tiene mucho en común con la música, especialmente con la música ambiental, la grabación de campo y la música minimalista.
 
 ---
 
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-### Goldsworthyの作品と音楽の共通性
+### Puntos en común entre el trabajo y la música de Goldsworthy
 
 | テーマ | Goldsworthyの作品 | 音楽との共通点 |
 |--------|----------------|----------------|
@@ -48,94 +50,94 @@ color: #fff;
 
 ---
 
-### Goldsworthyの代表的な作品・プロジェクト
+### Obras/proyectos representativos de Goldsworthy
 
-- **Snowball Series**: 都市に巨大な雪玉を設置し、時間と共に溶けていく様子を展示。
-- **Icicle Star**: 氷片を星形に組み上げ、日の出で融解する作品。
-- **Stone River (1997)**: アメリカ・スタンフォード大学に設置された石の蛇行する壁。
-- **Rowan Leaves and Hole**: 赤い葉を円形に配置し、水面に浮かべる作品。
-- **Storm King Wall (1997–98)**: ニューヨークのストーム・キング・アートセンターにある長大な蛇行石壁。
-
----
-
-### Goldsworthyの著書
-
-- [『A Collaboration with Nature』 (1990)](https://amzn.to/48qQfVp)
-- [『Hand to Earth』 (1990)](https://amzn.to/46r497l)
-- [『Stone』 (1994)](https://amzn.to/4n83E9l)
-- [『Time』 (2000)](https://amzn.to/3VYNbs4)
-- [『Wood』 (1996)](https://amzn.to/4pwJ04e)
-- [『Wall』 (2000)](https://amzn.to/4mmHTBm)
-- [『Arch』 (1999)](https://amzn.to/4nmEsvO)
-- [『Andy Goldsworthy: Projects』 (2004)](https://amzn.to/3IjjtLo)
+- **Serie Bola de Nieve**: Se coloca una enorme bola de nieve en una ciudad y se muestra a medida que se derrite con el tiempo.
+- **Icicle Star**: Un trozo de hielo con forma de estrella que se derrite al amanecer.
+- **Stone River (1997)**: Un muro de piedra serpenteante instalado en la Universidad de Stanford en Estados Unidos.
+- **Hojas y agujero de serbal**: Una obra en la que hojas rojas están dispuestas en círculo y flotan en la superficie del agua.
+- **Storm King Wall (1997–98)**: Un largo muro de piedra serpenteante en el Storm King Art Center de Nueva York.
 
 ---
 
-### Goldsworthy作品に合う音楽プレイリスト（ジャンル別）
+### Escrito por Goldsworthy
 
-#### アンビエント
-
-- Brian Eno ― *Ambient 1: Music for Airports*
-- Harold Budd ― *The Pearl*
-- Stars of the Lid ― *And Their Refinement of the Decline*
-
-#### フィールド録音
-
-- Chris Watson ― *Weather Report*
-- Jana Winderen ― *Energy Field*
-- Hildegard Westerkamp ― *Into the Labyrinth*
-
-#### ミニマル
-
-- Steve Reich ― *Music for 18 Musicians*
-- Terry Riley ― *In C*
-- Philip Glass ― *Glassworks*
+- [“Una colaboración con la naturaleza” (1990)](https://amzn.to/48qQfVp)
+- [“Mano a la Tierra” (1990)](https://amzn.to/46r497l)
+- [“Piedra” (1994)](https://amzn.to/4n83E9l)
+- [“Tiempo” (2000)](https://amzn.to/3VYNbs4)
+- [“Madera” (1996)](https://amzn.to/4pwJ04e)
+- [“Muro” (2000)](https://amzn.to/4mmHTBm)
+- [“Arco” (1999)](https://amzn.to/4nmEsvO)
+- [“Andy Goldsworthy: Proyectos” (2004)](https://amzn.to/3IjjtLo)
 
 ---
 
-###  「時間の流れ」に沿った構成プレイリスト
+### Lista de reproducción de música (por género) que coincide con las obras de Goldsworthy
 
-#### 朝
+#### Ambiente
 
-- Brian Eno ― *Ambient 1: Music for Airports*
-- Chris Watson ― *Morning at the River*
-- Steve Reich ― *Music for 18 Musicians*
+- Brian Eno ― *Ambiente 1: Música para aeropuertos*
+- Harold Budd - *La Perla*
+- Estrellas de la tapa ― *Y su refinamiento del declive*
 
-#### 昼
+#### Grabación de campo
 
-- Terry Riley ― *In C*
-- Jana Winderen ― *Energy Field*
-- Philip Glass ― *Glassworks*
+- Chris Watson ― *Informe meteorológico*
+- Jana Winderen ― *Campo de energía*
+- Hildegard Westerkamp - *En el laberinto*
 
-#### 夕方
+#### Mínimo
 
-- Harold Budd & Brian Eno ― *The Pearl*
+- Steve Reich ― *Música para 18 músicos*
+- Terry Riley ― *En C*
+- Philip Glass - *Vidriería*
+
+---
+
+### Lista de reproducción organizada según el "flujo del tiempo"
+
+#### mañana
+
+- Brian Eno ― *Ambiente 1: Música para aeropuertos*
+- Chris Watson ― *Mañana en el río*
+- Steve Reich ― *Música para 18 músicos*
+
+#### mediodía
+
+- Terry Riley ― *En C*
+- Jana Winderen ― *Campo de energía*
+- Philip Glass - *Vidriería*
+
+#### noche
+
+- Harold Budd y Brian Eno - *La Perla*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
-- Stars of the Lid ― *Requiem for Dying Mothers*
+- Estrellas de la Tapa - *Réquiem por las Madres Moribundas*
 
-#### 夜
+#### noche
 
-- William Basinski ― *The Disintegration Loops*
-- Eliane Radigue ― *Trilogie de la Mort*
-- Biosphere ― *Substrata*
+- William Basinski - *Los bucles de desintegración*
+- Eliane Radigue - *Trilogía de la muerte*
+- Biosfera ― *Sustratos*
 
-### 季節の流れ
+### Flujo estacional
 
-- 春：Ryuichi Sakamoto ― *Async*
-- 夏：Chris Watson ― *Weather Report*
-- 秋：Johann Johannsson ― *Orphée*
-- 冬：Alva Noto & Ryuichi Sakamoto ― *Vrioon*
-
----
-
-### 結論
-
-アンディー・ゴールズワージーの作品は、時間や自然とともに変化し消えていく「一回性」を宿している。その美学は、アンビエントやフィールド録音、ミニマル・ミュージックがもつ音の「環境性」「反復」「沈黙」と強く共鳴する。両者を組み合わせて体験することで、視覚と聴覚を横断する「自然との対話」が生まれる。
+- Primavera: Ryuichi Sakamoto - *Async*
+- Verano: Chris Watson ― *Informe meteorológico*
+- Otoño: Johann Johannsson - *Orphée*
+- Invierno: Alva Noto y Ryuichi Sakamoto - *Vrion*
 
 ---
 
-### 関連コラム
+### Conclusión
 
- [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
+Las obras de Andy Goldsworthy tienen una cualidad "única en el tiempo" que cambia y desaparece con el tiempo y la naturaleza. Su estética resuena fuertemente con el "ambiente", la "repetición" y el "silencio" del ambiente, la grabación de campo y la música minimalista. Al experimentar los dos en combinación, nace un "diálogo con la naturaleza" que cruza los sentidos visuales y auditivos.
 
- [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
+---
+
+### Columnas relacionadas
+
+[[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+
+[[Columna] Ambiente: De “escuchar música” a “sentir música” II](https://monumental-movement.jp/Column-Ambient2)

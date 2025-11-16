@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Dan Curtin – New World EP.webp
 lang: es
 layout: post
+permalink: /es/2025-09-17-Dan Curtin – New World EP/
 tags:
 - Techno
 - House
 - Tribal
 - Latin
 - 90s
-title: Dan Curtin – New World EP
+title: Dan Curtin – EP Nuevo Mundo
 ---
 
 
-Dan Curtinは、アメリカ出身のプロデューサー・DJ。テクノ／ハウスを基軸に、ヒップホップやエレクトロニックミュージックなど幅広いスタイルを取り入れている。
+Dan Curtin es un productor y DJ estadounidense. Centrándose en el techno/house, incorporan una amplia gama de estilos como el hip-hop y la música electrónica.
 
-「New World EP」は、レーベルSublime Records（サブライムレコーズ）から1998年にリリースされたTechno／House／Tribal／Latinトラック。
+"New World EP" es una canción Techno/House/Tribal/Latin lanzada en 1998 por el sello Sublime Records.
 
-D1は、オランダのレジェンドOrlando Voorn(オーランド・ヴォーン)によるremix。
+D1 es un remix de la leyenda holandesa Orlando Voorn.
 
-D2は、イギリスのテクノミュージシャンDave Angel(デイヴ・エンジェル)によるremix。
+D2 es un remix del músico de techno británico Dave Angel.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. New World
 A2 Page Me
@@ -37,7 +38,7 @@ D1. Page Me (Orlando Voorn Mix)
 D2. Sword Of Orion (Dave Angel Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zJs2ai8SWS4?si=LeWSLStQLvjsmBj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJs2ai8SWS4?si=LeWSLStQLvjsmBj7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

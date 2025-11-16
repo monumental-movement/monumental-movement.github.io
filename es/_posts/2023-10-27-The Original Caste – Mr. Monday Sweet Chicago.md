@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.webp
 lang: es
 layout: post
+permalink: /es/2023-10-27-The Original Caste – Mr. Monday Sweet Chicago/
 tags:
 - Folk
 - Nostalgic
 - 7inch
-title: The Original Caste – Mr. Monday / Sweet Chicago
+title: La casta original – Mr. Monday / Sweet Chicago
 ---
 
 
-The Original Casteは、カナダのフォーク・グループ。 1966年にアルバータ州カルガリーで結成され、当時は「ザ・ノース・カントリー・シンガーズ」という名前で活動していました。
+The Original Caste es un grupo folclórico canadiense. Formados en Calgary, Alberta en 1966, eran conocidos como The North Country Singers.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Mr. Monday
 
 B. Sweet Chicago
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75499615144?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75499615144?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5SKresJl7zA?si=KSrs2IMzRmJuk8Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5SKresJl7zA?si=KSrs2IMzRmJuk8Di" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,27 +5,28 @@ categories:
 image: ../assets/images/Aquasky – Nylon Roadster Cosmic Glue.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Aquasky – Nylon Roadster  Cosmic Glue/
 tags:
 - Drum n Bass
 - Dubstep
-title: Aquasky – Nylon Roadster  Cosmic Glue
+title: Aquasky – Pegamento cósmico de nailon Roadster
 ---
 
 
-1996年から1997年にかけての多くのMoving Shadowのリリースは、ジャジーな曲調に過度に傾倒していましたが、Aquaskyのこのリリースは、穏やかなドラム＆ベースがつまらないものである必要はないことを証明しました。
+Si bien muchos lanzamientos de Moving Shadow de 1996 a 1997 se inclinaban demasiado hacia melodías de jazz, este lanzamiento de Aquasky demostró que el drum & bass suave no tiene por qué ser aburrido.
 
-『Nylon Roadster』は、滑らかな展開のトラックで、過度に干渉しない控えめなブレイクビートが特徴です。このトラックの真髄は、途中にある穏やかで非常に感情的なピアノのセクションです。
+Nylon Roadster es una pista suave, con un ritmo tenue que no interfiere demasiado. El corazón de esta pista es la suave y muy emotiva sección de piano en el medio.
 
-まるで子守唄として完璧に使われることを想像できます。本当に素晴らしい一曲です。
+Me imagino que se usará perfectamente como canción de cuna. Es una canción realmente genial.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

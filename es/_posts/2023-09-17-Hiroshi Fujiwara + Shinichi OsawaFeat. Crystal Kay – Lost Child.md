@@ -6,19 +6,21 @@ image: ../assets/images/Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – L
   Child.webp
 lang: es
 layout: post
+permalink: /es/2023-09-17-Hiroshi Fujiwara + Shinichi OsawaFeat. Crystal Kay – Lost
+  Child/
 tags:
 - House
 - JPop
 - Downtempo
-title: Hiroshi Fujiwara + Shinichi Osawa Feat. Crystal Kay – Lost Child
+title: Hiroshi Fujiwara + Shinichi Osawa hazaña. Crystal Kay - Niño perdido
 ---
 
 
-日本の音楽プロデューサーである藤原ヒロシ（Hiroshi Fujiwara）と大沢伸一（Shinichi Osawa）がCrystal Kayをフィーチャーした楽曲で、彼らのコラボレーション作品としてリリースされました。
+Esta canción, con Crystal Kay, fue lanzada como una colaboración entre los productores musicales japoneses Hiroshi Fujiwara y Shinichi Osawa.
 
-「Lost Child」は、エレクトロニックミュージックとポップの要素を融合させた楽曲で、ユニークなビート、魅力的なメロディ、そしてクリスタル・ケイの美しいボーカルが特徴です。
+“Lost Child” es una canción que combina elementos de la música electrónica y el pop, presentando un ritmo único, una melodía encantadora y la hermosa voz de Crystal Kay.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Lost Child (Original Version)
 
@@ -27,7 +29,7 @@ A2. Lost Child (Instrumental Version)
 B1. Lost Child (Dub Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23583958254?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m23583958254?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R09-0RekivI?si=IvJl8q2N3BxjY11d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R09-0RekivI?si=IvJl8q2N3BxjY11d" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/VA – Thank God It's Friday.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-VA – Thank God Its Friday/
 tags:
 - Disco
 - 70s
-title: VA – Thank God It's Friday
+title: VA – Gracias a Dios es viernes
 ---
 
 
-「VA – Thank God It's Friday」は、1978年にCasablancaからリリースされました。
+"VA - Gracias a Dios es viernes" fue lanzado por Casablanca en 1978.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark
@@ -41,7 +42,7 @@ D6. Donna Summer– Last Dance (Reprise)
 E. Donna Summer - Je T'Aime (Moi Non Plus)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m32254074664?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lZypJPjK2Sw?si=ycy2M3pNCLSiI-rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lZypJPjK2Sw?si=ycy2M3pNCLSiI-rz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Talking Heads – Little Creatures.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-Talking Heads – Little Creatures/
 tags:
 - New-Wave
 - Post Punk
-title: Talking Heads – Little Creatures
+title: Cabezas parlantes – Pequeñas criaturas
 ---
 
 
-「Little Creatures」は、トーキング・ヘッズの音楽的な進化の一つを示す作品です。アルバムは、バンドのサウンドにポップな要素を取り入れ、メロディアスでキャッチーな曲が豊富に収録されています。これにより、彼らの音楽がより広い聴衆にアピールすることに成功しました。
+``Little Creatures'' representa una de las evoluciones musicales de Talking Heads. El álbum incorpora elementos pop al sonido de la banda y está lleno de canciones melódicas y pegadizas. Esto permitió que su música atrajera a un público más amplio.
 
-アルバムには、ヒット曲「And She Was」や「Road to Nowhere」を含む多くの楽曲が収録されています。これらの曲は、トーキング・ヘッズの特徴的なリズム、ユーモラスな歌詞、そしてキャッチーなメロディが融合しており、多くの人々に愛されました。
+El álbum incluye muchas canciones, incluidos los éxitos "And She Was" y "Road to Nowhere". Estas canciones combinaban los ritmos característicos de Talking Heads, letras humorísticas y melodías pegadizas, y fueron amadas por muchos.
 
-「Little Creatures」は、トーキング・ヘッズのキャリアの中でも商業的にも成功したアルバムであり、批評家からも高い評価を受けました。
+"Little Creatures" fue el álbum de mayor éxito comercial de la carrera de Talking Heads y recibió elogios de la crítica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. And She Was
 
@@ -39,7 +40,7 @@ B3. Television Man
 B4. Road To Nowhere
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89766672710?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m89766672710?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=WT0U3FTNIBn08KP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cl3B_FTDKD0?si=WT0U3FTNIBn08KP0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

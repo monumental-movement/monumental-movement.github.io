@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Various – Resonance Mood.webp
 lang: es
 layout: post
+permalink: /es/2024-05-13-Various – Resonance Mood/
 tags:
 - Goa Trance
 - Trance
 - 90s
-title: Various – Resonance Mood
+title: Varios – Estado de ánimo de resonancia
 ---
 
 
-MATSURI PRODUCTIONSは、1994年にDJ TSUYOSHIがJohn Perloffが設立したUKのゴアトランスレーベル。
+MATSURI PRODUCTIONS es un sello de goa trance del Reino Unido fundado en 1994 por DJ TSUYOSHI y John Perloff.
 
-レーベルは1999年まで活動し、2013年からはDJ TSUYOSHIとDJ YUTAがMATSURI DIGITAL名義でコンピレーションやサイケデリックトランスをリリースしている。
+El sello estuvo activo hasta 1999, y desde 2013 DJ TSUYOSHI y DJ YUTA lanzan compilaciones y trance psicodélico bajo el nombre MATSURI DIGITAL.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Deflo – Tio Mate
 A2. Anti Matter – Pulse II
@@ -30,9 +31,9 @@ E. Nervasystem – Decoder
 F. Sandman – Target Eye
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BqjgK3jULMU?si=i4gThYvM0UZAZ46i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqjgK3jULMU?si=i4gThYvM0UZAZ46i" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

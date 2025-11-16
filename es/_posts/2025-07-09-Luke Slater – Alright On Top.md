@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Luke Slater – Alright On Top.webp
 lang: es
 layout: post
+permalink: /es/2025-07-09-Luke Slater – Alright On Top/
 tags:
 - House
 - Techno
 - Synth-pop
 - 00s
-title: Luke Slater – Alright On Top
+title: Luke Slater - Muy bien en la cima
 ---
 
 
-レーベルMuteから2002年にリリースされた 、Ricky Barrows(リッキーバローズ)のヴォーカルを全面にフィーチャーしたアルバム。ヒット曲が「Nothing At All」が収録されている。
-Track11&12は日本盤のみボーナストラック。
+Un álbum lanzado en 2002 por el sello Mute, con la voz íntegramente de Ricky Barrows. Se incluye la exitosa canción "Nothing At All".
+Las pistas 11 y 12 son pistas extra solo para la versión japonesa.
 
-ジャケットデザインは、Stereolab, Oasis, The Prodigy, Broadcast, Razorlightなどのデザインを手掛けるUKのグラフィックデザイナーHouse ことJulian Houseによるもの。
+El diseño de la chaqueta es de Julian House, también conocido como House, un diseñador gráfico del Reino Unido que ha trabajado en diseños para Stereolab, Oasis, The Prodigy, Broadcast, Razorlight y más.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Nothing At All
 2. You Know What I Mean
@@ -37,7 +38,7 @@ Track11&12は日本盤のみボーナストラック。
 11&12ボーナストラック
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

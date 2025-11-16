@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Marco Bailey – Play It Back.webp
 lang: es
 layout: post
+permalink: /es/2024-04-21-Marco Bailey – Play It Back/
 tags:
 - Techno
 - Electro
 - 00s
-title: Marco Bailey – Play It Back
+title: Marco Bailey – Reproducirlo
 ---
 
 
-Marco Bailey（マルコ・ベイリー）は、ベルギー出身のプロデューサー兼DJ。自身のレーベルSession RecordingsやCristian Varela（クリスチャン・ヴァレラ）と共にレーベルPORNOGRAPHICを運営している。
+Marco Bailey es un productor y DJ de Bélgica. Dirige el sello PORNOGRAPHIC con su propio sello Session Recordings y Cristian Varela.
 
-2023年には、テクノレーベルElektronik Zoo Soundsを設立。
+En 2023 fundó el sello de techno Elektronik Zoo Sounds.
 
-「Play It Back」は、Redhead（レッドヘッド）ことSteve Vangilbergenと共同プロデュースしたテクノ・エレクトロトラック。
+"Play It Back" es una pista de techno electro coproducida con Steve Vangilbergen, también conocido como Redhead.
 
-カール・コックスとDJ C1が立ち上げたテクノレーベルIntec Recordsから2000年にリリース。
+Publicado en 2000 en Intec Records, un sello de techno fundado por Carl Cox y DJ C1.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Play It Back
 
@@ -32,7 +33,7 @@ B1. Orange Skills
 B2. Don't Leave The Drums
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72846267797?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m72846267797?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LuUoOfaV_40?si=lbwbZBOvUwvoK4qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LuUoOfaV_40?si=lbwbZBOvUwvoK4qL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

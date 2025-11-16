@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/G Love and Special Sauce – G Love and Special Sauce.webp
 lang: es
 layout: post
+permalink: /es/2025-03-08-G Love and Special Sauce – G Love and Special Sauce/
 tags:
 - Blues Rock
 - Acoustic
 - Hip Hop
 - Jazz
 - 90s
-title: G. Love & Special Sauce – G. Love & Special Sauce
+title: G. Amor y Salsa Especial – G. Amor y Salsa Especial
 ---
 
 
-G. Love & Special Sauceは、フィラデルフィア出身のロックバンド。ブルース、ヒップホップ、ロック、ソウルの要素を混ぜ合わせたオーガニックでユニークなスタイルが特徴。
+G. Love & Special Sauce es una banda de rock de Filadelfia. Caracterizado por un estilo orgánico y único que mezcla elementos de blues, hip-hop, rock y soul.
 
-1994年にOkeh Recordsからリリースしたセリフタイトルデビューアルバム「G. Love & Special Sauce」は、収録曲7曲目のCold Beverageのヒットもあって、大ヒットとなった。
+Su álbum debut, ``G. Love & Special Sauce'', lanzado por Okeh Records en 1994, se convirtió en un gran éxito, y la séptima canción del álbum, Cold Beverage, se convirtió en un éxito.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Things That I Used To Do
 2. Blues Music
@@ -39,7 +40,7 @@ G. Love & Special Sauceは、フィラデルフィア出身のロックバンド
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
 
-#### Youtbue
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C2if2LR7LTs?si=mEI5tgWtj63fkqWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C2if2LR7LTs?si=mEI5tgWtj63fkqWC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

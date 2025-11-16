@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Archae and Grovskopa – Emergent Properties.webp
 lang: es
 layout: post
+permalink: /es/2023-10-21-Archae and Grovskopa – Emergent Properties/
 tags:
 - Techno
 - Industrial
-title: Archae and Grovskopa – Emergent Properties
+title: Archae y Grovskopa – Propiedades emergentes
 ---
 
 
-Archae & Grovskopaは、Benny Liberg（Archae）とMika Hallbäck（Grovskopa）のスウェーデン・テクノデュオ。
+Archae & Grovskopa son el dúo de techno sueco formado por Benny Liberg (Archae) y Mika Hallbäck (Grovskopa).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Grovskopa–Grow Lighter (Archae Remake)
 
@@ -25,7 +26,7 @@ B1. Grovskopa–Grow Lighter
 B2. Archae & Grovskopa–Humors Part
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35473528354?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35473528354?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CDyctRdfyyY?si=ZQ7aLGxqaOX7Uj4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDyctRdfyyY?si=ZQ7aLGxqaOX7Uj4k" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

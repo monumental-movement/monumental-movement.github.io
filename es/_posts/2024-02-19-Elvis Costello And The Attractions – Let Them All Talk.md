@@ -5,33 +5,34 @@ categories:
 image: ../assets/images/Elvis Costello And The Attractions – Let Them All Talk.webp
 lang: es
 layout: post
+permalink: /es/2024-02-19-Elvis Costello And The Attractions – Let Them All Talk/
 tags:
 - New-Wave
 - Rock
 - 80s
-title: Elvis Costello And The Attractions – Let Them All Talk
+title: Elvis Costello y las atracciones – Déjalos hablar todos
 ---
 
 
-エルヴィス・コステロは、ローリング・ストーンの選ぶ歴史上最も偉大な100組のアーティストにも選ばれ、2003年にはエルヴィス・コステロ&ジ・アトラクションズとしてロックの殿堂入りを果たしている。
+Elvis Costello fue incluido en la lista de los 100 mejores artistas de todos los tiempos de Rolling Stone y fue incluido en el Salón de la Fama del Rock and Roll en 2003 como parte de Elvis Costello y las atracciones.
 
-「Let Them All Talk」は、1984年にリリースされたエルヴィス・コステロの24枚目のシングル。
+"Let Them All Talk" es el sencillo número 24 de Elvis Costello, lanzado en 1984.
 
-エルビス・コステロ & ザ・アトラクションズは、1977年後半にロンドンで結成されたイギリスのニューウェイヴ/ロックバンドです。
+Elvis Costello & the Atracciones es una banda británica de new wave/rock formada en Londres a finales de 1977.
 
-エルビス・コステロによって結成され、当初はシングル「Watching The Detectives」のB面にのみクレジットされました。1986年までの活動を経て、1994年から1996年まで再結成されました。
+Formados por Elvis Costello, inicialmente fueron acreditados sólo en la cara B del sencillo "Watching The Detectives". Después de estar activos hasta 1986, se reunieron de 1994 a 1996.
 
-2002年には、ブルース・トーマスを除くメンバーで、エルビス・コステロ & ザ・インポスターズとして再結成されました。
+En 2002, la banda se reformó como Elvis Costello & the Imposters, excluyendo a Bruce Thomas.
 
-そして、2003年には、エルビス・コステロ & ザ・アトラクションズは、ロックの殿堂「ロックンロール・ホール・オブ・フェーム」に殿堂入りを果たしました。
+En 2003, Elvis Costello y las atracciones fueron incluidos en el Salón de la Fama del Rock and Roll.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Let Them All Talk
 
 B. The Flirting Kind
 ```
-[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

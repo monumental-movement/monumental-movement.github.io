@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Lucky – Guiding Light.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Lucky – Guiding Light/
 tags:
 - House
 - Euro Beat
-title: Lucky – Guiding Light
+title: Suerte – Luz guía
 ---
 
 
-「Guiding Light」は、
-ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
+La “luz guía” es
+Este es un EP de Lucky lanzado por el sello belga "WL Records".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Guiding Light
 
 B. Guiding Light (Instrumental Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34273921585?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34273921585?afid=6142608987){: .button1}
 

@@ -5,151 +5,153 @@ categories:
 image: ../assets/images/column-noise-music.webp
 lang: es
 layout: post
+permalink: /es/2025-09-01-Column-Noise-Music/
 tags:
 - Noise
 - Industrial
-title: 【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷
+title: '[Columna] Música Noise — Desde sus orígenes hasta la actualidad: Antecedentes
+  históricos, discos famosos y cambios de equipamiento'
 ---
 
 
-## ノイズ＝美学：耳障りとされる音を「快楽」や「芸術」に変換する。
+## Ruido = Estética: Convertir sonidos que se consideran duros para el oído en "placer" y "arte".
 
-文：mmr｜テーマ：反逆と破壊ー既存の音楽や社会秩序への挑戦。
+Texto: mmr | Tema: Rebelión y destrucción: un desafío a la música y al orden social existentes.
 
-「ノイズ」は単に『雑音』ではなく、既成の音楽語法（旋律・和声・リズム）を逸脱し、音そのもの、質感、物理的衝撃や聴覚的な刺激を重視する表現領域を指します。芸術的・技術的・社会的背景が組み合わさって生まれ、100年以上にわたって形を変え続けてきました。
-
----
-
-## 1) 先駆（1910s–1940s）：未来派とテープ実験 — 「ノイズ」の概念化
-### 時代背景
-産業化・都市化により都市の雑踏や機械音が日常化した時代。音の「美意識」が拡張され、伝統的な楽器以外の音が芸術に取り込まれはじめた。
-
-### 重要な出来事・人物
-- 1913年、イタリアの前衛芸術家ルイージ・ルッソロが『The Art of Noises（ノイズの芸術）』を発表。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+"Ruido" no es simplemente "ruido", sino que se refiere a un campo de expresión que se desvía de los modismos musicales establecidos (melodía, armonía, ritmo) y enfatiza el sonido en sí, la textura, el impacto físico y la estimulación auditiva. Nacido de una combinación de orígenes artísticos, tecnológicos y sociales, ha seguido cambiando de forma durante más de 100 años.
 
 ---
 
-### 代表的な作品
-- ルッソロの「ノイズ・マシン」による実演記録。
+## 1) Pionero (décadas de 1910 a 1940): futurismo y experimentos con cintas: conceptualización del “ruido”
+### Antecedentes históricos
+Una época en la que la industrialización y la urbanización hicieron que el ruido de las multitudes y las maquinarias de la ciudad fuera algo habitual. El "sentido estético" del sonido se expandió y comenzaron a incorporarse al arte sonidos distintos de los instrumentos musicales tradicionales.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Eventos/personas importantes
+- En 1913, el artista de vanguardia italiano Luigi Russolo publicó "El arte de los ruidos".
 
----
-
-### 機材・技術
-- 機械音や環境音を使った実演。
-
----
-
-## 2) テープとコンクレート（1940s–1960s）：技術的基盤の形成
-### 時代背景
-第二次大戦後、磁気テープや電気音響機器の発展により「録音そのもの」を素材にした作曲（musique concrète）が可能に。
-
-### 重要な出来事・人物
-- ピエール・シェフェールによる musique concrète（1948〜）。
-
-### 代表的な作品
-- ピエール・アンリやTod Dockstaderの作品群。
-
-### 機材・技術
-- テープ編集（逆回転、ループ、切断・継接）。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 3) ロックからの逸脱とプロト・ノイズ（1960s–1970s）
-### 時代背景
-ロックの実験性が高まり、ノイズがロックの文脈に組み込まれる。
+### Obras representativas
+- Grabación en vivo de "Noise Machine" de Russolo.
 
-### 代表的作品
-- [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
-
-### 機材・技術
-- ギターのフィードバック、エフェクター、簡易録音機。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 4) インダストリアルと初期ノイズ・シーン（1970s後半–1980s）
-### 時代背景
-商業音楽に対する反発からインディペンデントなノイズ・シーンが誕生。
-
-### 重要な出来事・人物
-- Throbbing Gristle が「インダストリアル」概念を確立。
-
-### 代表的作品
-- [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
-
-### 機材・技術
-- 工業打楽器、金属音、簡易シンセサイザー。
+### Equipo/Tecnología
+- Demostraciones utilizando sonidos mecánicos y ambientales.
 
 ---
 
-## 5) パワー・エレクトロニクスと日本ノイズ（1980s）
-### 時代背景
-カセット文化とDIY精神により、国際的なノイズ・ネットワークが形成。
+## 2) Cinta y hormigón (décadas de 1940 a 1960): formación de la base tecnológica
+### Antecedentes históricos
+Después de la Segunda Guerra Mundial, el desarrollo de la cinta magnética y los equipos electroacústicos hizo posible componer música utilizando "las propias grabaciones" como material (musique concrète).
 
-### 重要な出来事・人物
-- [Whitehouse（UK）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
+### Eventos/personas importantes
+- música concreta (1948-) de Pierre Schaeffer.
 
-### 代表的作品
-- Merzbow『Pulse Demon』周辺作品、Whitehouseの初期盤。
+### Obras representativas
+- Obras de Pierre Henri y Tod Dockstader.
 
-### 機材・技術
-- 破壊的アンプ、ラジオ雑音、歪みペダル、カセット録音。
+### Equipo/Tecnología
+- Edición de cintas (rotación inversa, looping, corte/empalme).
 
----
-
-## 6) 多様化とクロスオーバー（1990s–2000s）
-### 時代背景
-ノイズはロック、メタル、ポストロック、エレクトロニカと交差。
-
-### 代表的作品／潮流
-- [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
-
-### 機材・技術
-- DAW、デジタルエフェクト、サンプラー、グラニュラー合成。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-## 7) 現代（2010s–現在）：ソフトウェアとモジュール
-### 時代背景
-モジュラーシンセ復興とラップトップ音響による多様化。
+## 3) Desviación del rock y el protonruido (décadas de 1960 a 1970)
+### Antecedentes históricos
+El rock se vuelve más experimental y el ruido se incorpora al contexto del rock.
 
-### 代表的な潮流
-- Eurorackノイズ、ライブコーディング、サウンドアートとの接続。
+### Obras representativas
+- [Lou Reed “Música de máquina de metal” (1975)] (https://amzn.to/3WNSdYQ)
 
-### 機材・技術
-- モジュラー（Eurorack）、Max/MSP、SuperCollider、回路曲げ。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Equipo/Tecnología
+- Feedback de guitarra, efectores y grabadoras simples.
 
 ---
 
-## 機材変遷まとめ
-- **初期**：ノイズ・マシン、環境音  
-- **テープ期**：磁気テープ編集  
-- **アナログ期**：シンセ、ギター＋エフェクト  
-- **カセット期**：DIYノイズ、カセット流通  
-- **デジタル期**：DAW、ソフトウェア処理  
-- **現代**：Eurorack、ライブコーディング、回路曲げ
+## 4) Escena industrial y del ruido inicial (finales de los años 1970 – años 1980)
+### Antecedentes históricos
+Una escena de ruido independiente nació de una reacción contra la música comercial.
+
+### Eventos/personas importantes
+- Throbbing Gristle establece el concepto "industrial".
+
+### Obras representativas
+- Primeros lanzamientos de [Kollaps (Einstürzende Neubauten)](https://amzn.to/4qBmQPd), [Throbbing Gristle](https://amzn.to/4oybzgF).
+
+### Equipo/Tecnología
+- Instrumentos de percusión industriales, sonidos de metal, sintetizadores sencillos.
 
 ---
 
-## 代表的名盤リスト
-- Luigi Russolo — *The Art of Noises*（1913, 理論書／実演）  
-- Pierre Schaeffer — *musique concrète* 作品群  
-- Lou Reed — *Metal Machine Music*（1975）  
-- Throbbing Gristle — 初期作品群  
-- Einstürzende Neubauten — *Kollaps*  
-- Merzbow — *Pulse Demon* 他  
-- Whitehouse — 初期作品群  
-- Boredoms — 後期実験作品  
-- Lightning Bolt — 初期2000年代作品  
+## 5) Electrónica de potencia y ruido japonés (década de 1980)
+### Antecedentes históricos
+La cultura del casete y el espíritu del bricolaje formaron una red internacional de ruido.
+
+### Eventos/personas importantes
+- [Whitehouse (Reino Unido)](https://amzn.to/4hnbz0z), [Merzbow (Japón)](https://amzn.to/3L64TI1)
+
+### Obras representativas
+- Obras relacionadas con "Pulse Demon" de Merzbow, primera edición de Whitehouse.
+
+### Equipo/Tecnología
+- Amplificadores destructivos, ruido de radio, pedales de distorsión y grabaciones en casete.
 
 ---
 
-## 終わりに
-ノイズ音楽は常に「既存の美学への挑戦」であり、音楽という枠を拡張する試みです。ルッソロの機械音からモジュラーシンセまで、100年以上の歴史を経ても、その本質は「音そのものを聴く」ことにあります。
+## 6) Diversificación y cruce (décadas de 1990 a 2000)
+### Antecedentes históricos
+El ruido se cruza con el rock, el metal, el post-rock y la electrónica.
+
+### Obras/tendencias representativas
+- [Aburrimientos](https://amzn.to/3WenMeo), [Relámpago](https://amzn.to/49apKnp), [Sonic Youth](https://amzn.to/498sFwX), etc.
+
+### Equipo/Tecnología
+- DAW, efectos digitales, samplers, síntesis granular.
+
+---
+
+## 7) Moderno (década de 2010 hasta el presente): software y módulos
+### Antecedentes históricos
+Diversificación a través del renacimiento de los sintetizadores modulares y la acústica de portátiles.
+
+### Tendencias representativas
+- Conexión con ruido Eurorack, codificación en vivo y arte sonoro.
+
+### Equipo/Tecnología
+- Modular (Eurorack), Max/MSP, SuperCollider, Circuit Bending.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+
+---
+
+## Resumen de cambios de equipo
+- **Inicial**: Máquina de ruido, sonido ambiental.
+- **Periodo de la cinta**: Edición de cinta magnética
+- **Período analógico**: sintetizador, guitarra + efectos
+- **Período del casete**: ruido de bricolaje, distribución de casetes
+- **Período digital**: DAW, procesamiento de software
+- **Moderno**: Eurorack, codificación en vivo, curvatura de circuitos
+
+---
+
+## Lista de obras maestras representativas
+- Luigi Russolo — *El arte de los ruidos* (1913, teoría/actuación)
+- Pierre Schaeffer — obras de *musique concrète*
+- Lou Reed — *Música de máquina de metal* (1975)
+- Throbbing Gristle - primeros trabajos
+-Einstürzende Neubauten — *Kollaps*
+- Merzbow — *Pulse Demon* y otros
+- Whitehouse - primeros trabajos
+- Aburrimientos — Trabajos experimentales tardíos
+- Lightning Bolt: trabajo de principios de la década de 2000
+
+---
+
+## Al final
+La música noise es siempre un desafío a la estética existente y un intento de ampliar los límites de la música. Desde los sonidos mecánicos de Russolo hasta los sintetizadores modulares, incluso después de más de 100 años de historia, la esencia de todos los instrumentos es "escuchar el sonido mismo".

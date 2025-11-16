@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Queen – Sheer Heart Attack.webp
 lang: es
 layout: post
+permalink: /es/2023-10-18-Queen – Sheer Heart Attack/
 tags:
 - Rock
-title: Queen – Sheer Heart Attack
+title: Reina – Puro ataque al corazón
 ---
 
 
-『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
-プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
+"Sheer Heart Attack" es el tercer álbum de Queen.
+Producida por Queen y Roy Thomas Baker. También fue a partir de este álbum cuando comenzaron a incluirse canciones escritas por John Deacon.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Brighton Rock
 A2. Killer Queen
@@ -32,7 +33,7 @@ B6. She Makes Me (Stormtrooper In Stilettoes)
 B7. In The Lap Of The Gods...Revisited
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

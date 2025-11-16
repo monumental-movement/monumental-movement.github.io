@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Dave and Dr. DOPE – Get Wild.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Dave and Dr. DOPE – Get Wild/
 tags:
 - Techno
 - Hyper Techno
-title: Dave and Dr. DOPE – Get Wild
+title: Dave y el Dr. DOPE - Vuélvete loco
 ---
 
 
-イタリアのプロデューサーDave Rodgers（デイヴロジャース）とDr. D.O.P.E.（ドクター・ドープ）によるTM NETWORK（TMネットワーク）の「Get Wild（ゲットワイルド）」のハイパーテクノ・アレンジミックス。
+Una mezcla de arreglos hiper-techno de "Get Wild" de TM NETWORK de los productores italianos Dave Rodgers y Dr. D.O.P.E.
 
-プロデューサーは、Alberto Contini（アルベルト・コンティニ）とDave Rodgers（デイヴロジャース）。
+Productores: Alberto Contini y Dave Rodgers.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Get Wild (Extended Mix)
 
@@ -25,7 +26,7 @@ B1. Get Wild (DJ Version)
 B2. Get Wild (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m98858239692?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1BDc8Cp9zi4?si=vfz25mLe7po7ns8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1BDc8Cp9zi4?si=vfz25mLe7po7ns8E" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

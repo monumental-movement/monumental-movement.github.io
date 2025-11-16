@@ -5,16 +5,17 @@ categories:
 image: ../assets/images/Chrislo – Low（Tresor092）.webp
 lang: es
 layout: post
+permalink: /es/2023-10-31-Chrislo – Low（Tresor092）/
 tags:
 - Techno
 - Mix
-title: Chrislo – Low（Tresor092）
+title: Chrislo – Bajo (Tresor092)
 ---
 
 
-Chrislo Haas（クリスロ・ハース/クリス・ハースは、ドイツ出身のミュージシャンで、Minus Delta t、D.A.F.、CHBB/Liaisons Dangereuses、Crime & the City Solution などのバンドとのシンセサイザー (Korg MS-20)の制作を通じて、1980 年代のドイツの音楽シーンに大きな影響を与え、テクノと現代のエレクトロニックダンスミュージックの創始者の一人とみなされています。
+Chrislo Haas es un músico alemán que tuvo una gran influencia en la escena musical alemana en la década de 1980 a través de su producción de sintetizadores (Korg MS-20) con bandas como Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses y Crime & the City Solution, y es considerado uno de los fundadores del techno y la música electrónica de baile moderna.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. La Chouette
 2. Hangars D'Orion
@@ -27,7 +28,7 @@ Chrislo Haas（クリスロ・ハース/クリス・ハースは、ドイツ出�
 9. L'Eau
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

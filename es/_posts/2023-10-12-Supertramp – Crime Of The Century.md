@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Supertramp – Crime Of The Century.webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-Supertramp – Crime Of The Century/
 tags:
 - Rock
 - Progressive
-title: Supertramp – Crime Of The Century
+title: Supertramp – Crimen del siglo
 ---
 
 
-Supertramp（スーパートランプ）は、イギリスのプログレッシブ・ロックバンド。
+Supertramp es una banda británica de rock progresivo.
 
-1974年にリリースされた「Crime Of The Century」は、スーパートランプの3枚目のスタジオアルバムで、バンドの代表作の1つとして高く評価されており、特にアルバムに収録されている「Dreamer」と「Bloody Well Right」はバンドの代表曲としてよく知られています。
+``Crime Of The Century'', lanzado en 1974, es el tercer álbum de estudio de Supertramp y está muy considerado como una de las obras maestras de la banda, especialmente ``Dreamer'' y ``Bloody Well Right'', que se incluyen en el álbum y son bien conocidas como las canciones emblemáticas de la banda.
 
-プログレッシブ・ロックやアート・ロックの要素を取り入れた「Crime Of The Century」は、音楽批評家やファンから高い評価を受け、スーパートランプの成功の礎となった重要なアルバムとされており、70年代のロックミュージックの傑作の一つとして名高い一枚。
+``Crime Of The Century'', que incorpora elementos de rock progresivo y art rock, recibió grandes elogios de críticos musicales y fanáticos, y es considerado un álbum importante que sentó las bases para el éxito de Supertramp y es reconocido como una de las obras maestras de la música rock de los años 70.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. School
 
@@ -37,7 +38,7 @@ B3. If Everyone Was Listening
 B4. Crime Of The Century
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m94592991444?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m94592991444?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JgJRM_8GWHg?si=GD6xeeTWGQLWl-gV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JgJRM_8GWHg?si=GD6xeeTWGQLWl-gV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

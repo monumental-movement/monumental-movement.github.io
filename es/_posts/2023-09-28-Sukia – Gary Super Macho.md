@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Sukia – Gary Super Macho.webp
 lang: es
 layout: post
+permalink: /es/2023-09-28-Sukia – Gary Super Macho/
 tags:
 - Hiphop
 - Triphop
-title: Sukia – Gary Super Macho
+title: Sukia-Gary Súper Macho
 ---
 
 
-1997年にMo Waxからリリースされたトリップホップです。
+Esta es una canción de trip hop lanzada por Mo Wax en 1997.
 
-Sukiaは、アメリカの電子音楽バンドで、アメリカ合衆国カリフォルニア州カマリロを拠点にしており、かつての子役俳優であるRoss Harrisが在籍しており、1970年代には『CHiPS』や『小さな家』などの番組に出演していました。
+Sukia es una banda estadounidense de música electrónica con sede en Camarillo, California, EE. UU., que presenta al ex actor infantil Ross Harris, quien apareció en programas como CHiPS y Little House en la década de 1970.
 
-1990年代初頭に、拡大するロサンゼルスのインディーミュージックシーンの中で結成され、同名のイタリアの吸血鬼コミックブックから名前を取りました。
+Formados a principios de la década de 1990 dentro de la creciente escena musical independiente de Los Ángeles, tomaron su nombre del cómic italiano de vampiros del mismo nombre.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Barry Super Macho (Dust Brothers Remix)
 
@@ -29,7 +30,7 @@ B1. Gary Super Macho (Major Force West Remix)
 B2. Gary Super Macho (Single Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBV0yuzlwVI?si=DgXqVVaYjALMlUeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBV0yuzlwVI?si=DgXqVVaYjALMlUeY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

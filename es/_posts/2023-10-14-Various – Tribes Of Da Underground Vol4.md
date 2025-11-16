@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Various – Tribes Of Da Underground Vol4.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-Various – Tribes Of Da Underground Vol4/
 tags:
 - Break Beat
 - Downtempo
-title: Various – Tribes Of Da Underground Vol4
+title: Varios – Tribus De Da Underground Vol4
 ---
 
 
-Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
+Fred Everything es un músico y DJ electrónico franco-canadiense activo en la escena deep house.
 
-Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロニックミュージックデュオ。
+Pressure Drop es un dúo de música electrónica del Reino Unido formado por Justin Langlands y Dave Henley.
 
-Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
+Sofa Surfers es una banda austriaca que toca una combinación de trip-hop, dub, acid jazz, rock y música electrónica.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Switchblade Sisters –  The Switchblade Groove
 
@@ -35,7 +36,7 @@ C2. Max.Schneider – Inercia
 D. Pathless – Forecast
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W_SMy69xcXo?si=w2Kme05uW2DwbWVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_SMy69xcXo?si=w2Kme05uW2DwbWVB" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

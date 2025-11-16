@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Necton – Mindboggler EP.webp
 lang: es
 layout: post
+permalink: /es/2023-10-04-Necton – Mindboggler EP/
 tags:
 - Trance
 - Goa Trance
@@ -12,20 +13,20 @@ title: Necton – Mindboggler EP
 ---
 
 
-2000年にドイツのレーベル「Spirit Zone Recordings」からリリースされたNectonによるEPです。
+Este es un EP de Necton lanzado en el año 2000 por el sello alemán "Spirit Zone Recordings".
 
-Nectonはデンマーク、コペンハーゲン出身のエレクトロニックミュージックプロジェクトです。このプロジェクトは1997年に結成されました。
+Necton es un proyecto de música electrónica de Copenhague, Dinamarca. Este proyecto se formó en 1997.
 
-2005年に、Martin Stääfはグループを離れ、独自のプロジェクトであるLiquid Strangerに焦点を当てることを決定しました。それ以来、NectonはPatrik Olsénのソロプロジェクトとなり、プログレッシブ/サイケデリックテックトランスを専門としています。
+En 2005, Martin Stääf decidió dejar el grupo y centrarse en su propio proyecto, Liquid Stranger. Desde entonces, Necton se ha convertido en el proyecto solista de Patrik Olsén, especializándose en tech-trance progresivo/psicodélico.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Mindboggler
 
 B. Rainbow Warrior
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sSZocxb4wB4?si=ccsLgQ1aXz9lO3Yx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sSZocxb4wB4?si=ccsLgQ1aXz9lO3Yx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

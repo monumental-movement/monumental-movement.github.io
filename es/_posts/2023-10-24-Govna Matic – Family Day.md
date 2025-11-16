@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Govna Matic – Family Day.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Govna Matic – Family Day/
 tags:
 - Hiphop
 - Hardcore
-title: Govna Matic – Family Day
+title: Govna Matic – Día de la Familia
 ---
 
 
-Govna Maticは、Diezzle Don & Tha GovernerのGov Mattic（Tha Governer）の別名義。このレコードでは、Redman、Pacewon、Roz、Runt Dog、Tame One、Young Zee、Commander Jesseなどが参加。
+Govna Matic es otro nombre de Gov Matic (Tha Governer) de Diezzle Don & Tha Governer. Este disco presenta a Redman, Pacewon, Roz, Runt Dog, Tame One, Young Zee, Commander Jesse y más.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Family Day (Dirty Version)
 
 B. Vision (Dirty Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48545639837?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m48545639837?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sju4NK2M-jM?si=-xwJA1ZwhUfsLxef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sju4NK2M-jM?si=-xwJA1ZwhUfsLxef" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

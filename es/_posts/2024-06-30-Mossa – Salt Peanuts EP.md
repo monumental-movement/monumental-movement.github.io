@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Mossa – Salt Peanuts EP.webp
 lang: es
 layout: post
+permalink: /es/2024-06-30-Mossa – Salt Peanuts EP/
 tags:
 - Tech House
 - Minimal
 - 00s
-title: Mossa – Salt Peanuts EP
+title: Mossa – Peanuts salados EP
 ---
 
 
-MossaことJeremy Petrusは、カナダのモントリオールを拠点とするミュージシャン・DJ・エレクトロニックミュージックプロデューサー。テクノからチルアウトまで幅広いスタイルの音楽をリリースするレーベルComplot Recordsを運営している。
+Jeremy Petrus, también conocido como Mossa, es un músico, DJ y productor de música electrónica que vive en Montreal, Canadá. Dirige el sello Complot Records, que publica música en una amplia gama de estilos, desde techno hasta chill-out.
 
-「Salt Peanuts EP」は、2007年にフランスのレーベルFrankie Recからリリースされたテックハウス・ミニマルトラック。
+"Salt Peanuts EP" es una pista minimalista de tech house lanzada por el sello francés Frankie Rec en 2007.
 
-B面２曲目は、モントリオール出身のテクノ/ミニマルDJ・プロデューサーであり、レーベルArchipelを運営するPheekことJean-Patrice Rémillardによるremix。
+La segunda pista de la cara B es un remix de Jean-Patrice Rémillard, también conocido como Pheek, un DJ y productor de techno/minimal de Montreal que dirige el sello Archipel.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Salt...
 A2. ...Peanuts
@@ -28,4 +29,4 @@ B1. Colorado Bitch
 B2. Colorado Bitch (Pheek Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}

@@ -5,6 +5,7 @@ categories:
 image: ../assets/images/Bitasika – Pali Pali.webp
 lang: es
 layout: post
+permalink: /es/2025-06-03-Bitasika – Pali Pali/
 tags:
 - Jazz
 - Folk
@@ -14,9 +15,9 @@ title: Bitasika – Pali Pali
 ---
 
 
-Bitasika(ビタシカ)は、コンゴ民主共和国出身の演奏家であり劇団四季「ライオンキング」初代パーカッション奏者、BB Mo-Franck(BBモフラン)率いるアフリカンバンド。ドラマー/パーカッショニストのJunJunこと渡辺 淳も参加している。
+Bitasika es una banda africana liderada por BB Mo-Franck, intérprete de la República Democrática del Congo y primer percusionista de la Compañía de Teatro Shiki ``El Rey León''. También participa el baterista y percusionista Jun Watanabe JunJun.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Nyengo
 2. Tikanga Nayemba
@@ -29,4 +30,4 @@ Bitasika(ビタシカ)は、コンゴ民主共和国出身の演奏家であり�
 9. Lost & Found
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14941575403?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m14941575403?afid=6142608987){: .button1}

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Fantasia – Tonight's The Night.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-Fantasia – Tonights The Night/
 tags:
 - House
 - Tech House
-title: Fantasia – Tonight's The Night
+title: Fantasía – Esta noche es la noche
 ---
 
 
-Fantasiaは、1988年にリリースされたHelen SheppardとTim Gordineによるプロジェクトです。
+Fantasia es un proyecto de Helen Sheppard y Tim Gordine lanzado en 1988.
 
-UK「Chrysalis」からのリリースで80'sのシンセポップです。
+Es un lanzamiento de synth pop de los 80 del Reino Unido "Chrysalis".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A  Tonight's The Night (Dancing Fish Mix)
 
@@ -25,7 +26,7 @@ B1  Tonight's The Night
 B2  Emily's Party
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66329319879?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m66329319879?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HJqIDTRD12s?si=3TGMyq6d0_stOCkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJqIDTRD12s?si=3TGMyq6d0_stOCkE" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

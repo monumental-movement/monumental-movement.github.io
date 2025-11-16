@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Wire 01 Compilation.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Various – Wire 01 Compilation/
 tags:
 - Techno
 - Mix
-title: Various – Wire 01 Compilation
+title: Varios - Compilación Wire 01
 ---
 
 
-「Wire 01 Compilation」は、
-2001年にリリースされたWire 01のコンピレーションCDです。
+“Wire 01 Compilación” es
+Este es un CD recopilatorio de Wire 01 lanzado en 2001.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Takkyu Ishino–Hyperspeed (Short)
 2. Jeff Mills–UFO
@@ -32,7 +33,7 @@ title: Various – Wire 01 Compilation
 13. Monika Kruse @ Voodooamt–Route 27
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m98255564275?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNsAbKxUGcs?si=vPb3Qx4xHcOBX06J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNsAbKxUGcs?si=vPb3Qx4xHcOBX06J" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -6,20 +6,22 @@ image: ../assets/images/Whitney Houston and Enrique Iglesias – Could I Have Th
   Forever.webp
 lang: es
 layout: post
+permalink: /es/2023-07-22-Whitney Houston and Enrique Iglesias – Could I Have This
+  Kiss Forever/
 tags:
 - Rock
 - Ballad
-title: Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever
+title: Whitney Houston y Enrique Iglesias – ¿Podría tener este beso para siempre?
 ---
 
 
-「Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever」は、アメリカの歌手Whitney Houstonとスペインの歌手Enrique Iglesiasによるコラボレーション曲です。この曲は、Whitney Houstonのアルバム「Whitney: The Greatest Hits」（2000年）およびEnrique Iglesiasのアルバム「Enrique」（1999年）に収録されています。
+"Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever" es una canción de colaboración entre la cantante estadounidense Whitney Houston y el cantante español Enrique Iglesias. Esta canción aparece en el álbum de Whitney Houston ``Whitney: The Greatest Hits'' (2000) y en el álbum de Enrique Iglesias ``Enrique'' (1999).
 
-「Could I Have This Kiss Forever」は、ポップ・バラードであり、愛の歌として知られています。Whitney HoustonとEnrique Iglesiasの力強いボーカルが美しく調和し、感情を込めたパフォーマンスを披露しています。この曲は、恋人同士の愛と絆をテーマにしており、永遠にキスを交わすことを願う情熱的なメッセージが込められています。
+"Could I Have This Kiss Forever" es una balada pop y se conoce como una canción de amor. Las poderosas voces de Whitney Houston y Enrique Iglesias trabajan juntas maravillosamente para ofrecer una interpretación cargada de emociones. Esta canción trata sobre el amor y el vínculo entre amantes y contiene un apasionado mensaje de deseo de un beso eterno.
 
-「Could I Have This Kiss Forever」は、リリース後に国際的な成功を収めました。特に、ヨーロッパやラテンアメリカのチャートで高評価を得ました。この曲は、両アーティストの人気と才能を組み合わせた魅力的なコラボレーションとして注目されました。
+"Could I Have This Kiss Forever" logró un éxito internacional tras su lanzamiento. En particular, recibió grandes elogios en las listas de Europa y América Latina. La canción se destacó como una colaboración atractiva que combinaba la popularidad y el talento de ambos artistas.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Could I Have This Kiss Forever (Metro Mix)
 
@@ -32,7 +34,7 @@ B1. Could I Have This Kiss Forever (Tin Tin Out Mix)
 B2. If I Told You That (Johnny Douglas Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47028864248?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m47028864248?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CyZkrMNF3-k?si=rs2QnxRD8zbweJXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CyZkrMNF3-k?si=rs2QnxRD8zbweJXe" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Cubic 22 – Night In Motion.webp
 lang: es
 layout: post
+permalink: /es/2024-06-09-Cubic 22 – Night In Motion/
 tags:
 - Techno
 - Hardcore Techno
 - 90s
-title: Cubic 22 – Night In Motion
+title: Cubic 22 – Noche en movimiento
 ---
 
 
-Cubic 22 は、UKで人気が出始めたハウスミュージックシーンの急成長期である1990年代初頭に活動を開始したベルギー人プロデューサーPeter Ramson と Danny Van Wauweによるダンス ミュージックプロジェクト。Peter Ramson と Danny Van Wauwe は、Set Up Systemなどさまざまな別名義で作品をリリースしている。
+Cubic 22 es un proyecto de música dance de los productores belgas Peter Ramson y Danny Van Wauwe, que comenzaron sus actividades a principios de la década de 1990, durante el floreciente período de la escena musical house del Reino Unido. Peter Ramson y Danny Van Wauwe han publicado su trabajo bajo varios alias, incluido Set Up System.
 
-1991年にリリースされた「Night In Motion」は、Cubic 22の代表作の一つで、クラブ・ダンス・レイヴシーンで大ヒットとなったクラシックハードコア・テクノトラック。
+"Night In Motion", lanzado en 1991, es una de las obras maestras de Cubic 22, un tema clásico de techno hardcore que se convirtió en un gran éxito en la escena de discotecas, dance y rave.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Night In Motion (Original Mix)
 A2. Night In Motion (Nick's Relocated Remix)
@@ -26,7 +27,7 @@ AA1. Night In Motion (Battle Plan Remix)
 AA2. Night In Motion (Drum And Bass Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m67423879835?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UgKXYU2GAeM?si=LrhNAE3oa6WnrKSj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UgKXYU2GAeM?si=LrhNAE3oa6WnrKSj" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

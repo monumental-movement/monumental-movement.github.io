@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Furniture – I Can't Crack.webp
 lang: es
 layout: post
+permalink: /es/2023-09-09-Furniture – I Cant Crack/
 tags:
 - New-Wave
 - Post Punk
 - 80s
-title: Furniture – I Can't Crack
+title: Muebles – No puedo romper
 ---
 
 
-Furnitureは、1979年から1991年まで活動していたイギリスのポップバンドです。バンドのメンバーは、ジム・アーヴィン（ボーカルとパーカッション）、ティム・ウィーラン（ギター）、ハミルトン・リー（ドラムス）、サリー・スティル（ベース）、マヤ・ギルダー（キーボード）、ラリー・ナゾーン（サックス）でした。
+Furniture fue una banda de pop británica que estuvo activa desde 1979 hasta 1991. Los miembros de la banda eran Jim Irvin (voz y percusión), Tim Whelan (guitarra), Hamilton Lee (batería), Sally Still (bajo), Maya Gilder (teclados) y Larry Nazone (saxofón).
 
-Furnitureは、1980年代初頭にポップ、ニューウェーブ、ポストパンクの要素を取り入れた独自のサウンドで人気を博しました。
+Furniture ganó popularidad a principios de la década de 1980 con un sonido único que incorporaba elementos de pop, new wave y post-punk.
 
-2枚目のアルバム「Furniture」からのこのEPは1985年にリリースされ、バンドの音楽はキャッチーなメロディ、大気感のある音響、内省的な歌詞が特徴でした。
+Este EP de su segundo álbum Furniture fue lanzado en 1985 y la música de la banda se caracterizó por melodías pegadizas, acústica atmosférica y letras introspectivas.
 
-Furnitureの音楽は、その独自のサウンドと洗練されたソングライティングにより、批評家からの賞賛を受けました。彼らはポップな感性を取り入れながらもオルタナティブなエッジを保ち、アート性とアクセシビリティを融合させていましたが、商業的な成功には至らず、1991年に解散しました。
+La música de Furniture recibió elogios de la crítica por su sonido único y su composición sofisticada. Incorporaron sensibilidades pop mientras mantenían una ventaja alternativa, fusionando arte y accesibilidad, pero no tuvieron éxito comercial y se disolvieron en 1991.
 
-Furnitureの音楽は、1980年代のイギリスのポップやオルタナティブミュージックのファンによって今も愛されています。
+La música de Furniture todavía es amada por los fanáticos del pop británico y la música alternativa de los años 80.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Can't Crack
 
@@ -37,7 +38,7 @@ A3. Pause
 B1. I Can't Crack (Broken Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,26 +5,27 @@ categories:
 image: ../assets/images/Frank Stallone - Far From Over.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Frank Stallone - Far From Over/
 tags:
 - Rock
 - Pops
 - 7inch
-title: Frank Stallone - Far From Over
+title: Frank Stallone - Lejos de terminar
 ---
 
 
-Frank Stallone(フランク・スタローン )は、USロックシンガーであり、俳優Sylvester Stallone(シルベスター・スタローン)の弟。
+Frank Stallone es un cantante de rock estadounidense y hermano menor del actor Sylvester Stallone.
 
-Frank Stalloneヒットシングル「Far From Over(ファー・フロム・オーバー)」は、1977年『 Saturday Night Fever(サタデー ナイト フィーバー)』の続編として作られた、1983 年のダンスミュージカル映画『Staying Alive(ステイイング・アライブ)』（監督：シルベスター・スタローン）のサウンドトラックに収録されました。
+El exitoso sencillo de Frank Stallone "Far From Over" se incluyó en la banda sonora de la película musical de baile de 1983 Staying Alive, dirigida por Sylvester Stallone y una secuela de la película de 1977 Saturday Night Fever.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Far From Over (ファー・フロム・オーヴァー)
 
 B. Waking Up (ウェイキング・アップ)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34024592015?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m34024592015?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KAv500Q6bfA?si=HS0K294sqBpGmzt_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KAv500Q6bfA?si=HS0K294sqBpGmzt_" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

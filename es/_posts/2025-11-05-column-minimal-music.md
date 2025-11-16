@@ -5,71 +5,73 @@ categories:
 image: ../assets/images/column-minimal-music.webp
 lang: es
 layout: post
+permalink: /es/2025-11-05-column-minimal-music/
 tags:
 - Minimal
 - Techno
 - House
 - Rock
-title: 【コラム】 Minimal Musicの拡張軌跡：Techno, House, Rockから見た反復と変化の美学
+title: '[Columna] Trayectoria en expansión de la Música Minimal: Estética de la repetición
+  y el cambio vista desde el Techno, el House y el Rock'
 ---
 
 
-## 序章：沈黙と繰り返しのあいだに
+## Prólogo: Entre el silencio y la repetición
 
 
-文：mmr｜テーマ：「反復と変化の美学」— 音楽が“少なさ”によって到達した、最も豊かな表現であるミニマル・ミュージックを、クラシックからテクノ、現代日本まで横断的に読み解く
+Texto: mmr｜Tema: “Estética de la repetición y el cambio”: una interpretación transversal de la música minimalista, la expresión más rica de la música lograda a través de la “escasez”, desde el clásico hasta el techno y el Japón contemporáneo.
 
-一つの音が鳴り、静かに消える。
-次の音が、ほんの少し違う角度で、また現れる。
-その連なりが形を成す頃、私たちは音楽の「物語」ではなく、「存在そのもの」を聴いている。
-——それが、ミニマル・ミュージックの始まりだった。
+Suena un solo sonido y luego desaparece en silencio.
+El siguiente sonido vuelve a aparecer, en un ángulo ligeramente diferente.
+Cuando la serie toma forma, no estamos escuchando la "historia" de la música sino su "existencia misma".
+--Ese fue el comienzo de la música minimalista.
 
-1960年代のアメリカで誕生したミニマル・ミュージックは、
-従来の西洋音楽が追い求めてきたドラマ性や感情表現を捨て、
-代わりに**「時間と構造」そのものを聴かせる芸術**へと変化した。
-テリー・ライリーの《In C》、スティーヴ・ライヒの《Piano Phase》、
-そしてフィリップ・グラスの《Einstein on the Beach》——
-彼らは音の反復を、退屈ではなく瞑想的な体験へと昇華させた。
+La música minimalista nació en Estados Unidos en los años 1960.
+Abandonando el dramatismo y la expresión emocional que ha perseguido la música tradicional occidental,
+Más bien, se ha transformado en un arte que nos permite escuchar el "tiempo y la estructura" mismos.
+"In C" de Terry Riley, "Piano Phase" de Steve Reich,
+Y "Einstein en la playa" de Philip Glass——
+Elevaron la repetición del sonido a una experiencia meditativa en lugar de aburrida.
 
-やがて、その理念は電子音楽の世界へ浸透していく。
-TR-808や909が刻む一定のリズムの中に、
-わずかなフィルターの変化やハイハットのズレが「生命」を宿す。
-それはライヒがピアノで行った“位相シフト”と同じ思想——
-反復の中の微細な差異こそが、音楽の時間を作るという感覚である。
+Con el tiempo, esta filosofía impregnó el mundo de la música electrónica.
+Al ritmo constante de TR-808 y 909,
+Un ligero cambio en el filtro o una desalineación del charles le da vida.
+Es la misma idea que el "cambio de fase" de Reich en el piano.
+Son las pequeñas diferencias dentro de la repetición las que crean la sensación de tiempo musical.
 
-本稿では、この「反復の美学」がどのように拡張され、
-クラシック、テクノ、ハウス、ロック、そして日本の電子音楽まで
-多様なジャンルを貫くひとつの感覚的・哲学的潮流となったのかを辿る。
+En este artículo, exploraremos cómo esta “estética de la repetición” puede extenderse y
+Música clásica, techno, house, rock e incluso electrónica japonesa.
+Seguimos cómo se convirtió en una única tendencia sensual y filosófica que impregna una variedad de géneros.
 
-ミニマルとは、単なる「削ぎ落とし」ではない。
-それは、音の最小単位に宿る「永遠」を見つめる行為である。
-静寂とリズムのあいだに生まれる、無限の揺らぎ。
-その中で、人は聴覚を通して「存在」を感じ取る。
+El minimalismo no es sólo "desnudarse".
+Es un acto de mirar la "eternidad" que reside en la unidad más pequeña de sonido.
+Una fluctuación infinita que nace entre el silencio y el ritmo.
+En este entorno, la gente siente la "presencia" a través del oído.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章：ミニマル・ミュージックの起点 ― Terry RileyとSteve Reich
+## Capítulo 1: Los orígenes de la música minimalista - Terry Riley y Steve Reich
 
-1964年、テリー・ライリーの《In C》が初演された。  
-この作品は、53の短い音型を演奏者が自由に繰り返すという、前例のない構造を持っていた。  
-各フレーズが少しずつずれながら重なり、無限に続くような音響を生む。  
-この「自由な反復」は、後の電子音楽やDJ文化に通じる発想である。
+En 1964, se estrenó In C de Terry Riley.
+Esta pieza tenía una estructura sin precedentes, con los intérpretes repitiendo libremente 53 patrones de notas cortas.
+Cada frase se superpone con un ligero cambio, creando un sonido que parece continuar indefinidamente.
+Esta "repetición libre" es una idea que luego conduciría a la música electrónica y la cultura del DJ.
 
-**構造分析**
+**Análisis estructural**
 
 | 要素 | 内容 |
 |------|------|
@@ -78,41 +80,41 @@ color: #fff;
 | 反復方式 | 各奏者が自分のタイミングで次のフレーズに移る |
 | 効果 | 位相のズレによるポリリズム効果 |
 
-続くスティーヴ・ライヒは《Piano Phase》(1967)で反復の“ズレ”を厳密にコントロールした。  
-二人のピアニストが同じフレーズを演奏し、一方のテンポをわずかに速めることで、  
-音型が徐々にずれていく。この「位相シフト（Phase Shifting）」こそ、  
-後のテクノにおけるループ構造の美学を先取りしたものだった。
+El siguiente trabajo de Steve Reich, Piano Phase (1967), controló estrictamente las "discrepancias" en la repetición.
+Al tener dos pianistas tocando la misma frase y uno acelerando ligeramente el tempo,
+El patrón de sonido cambia gradualmente. Este "cambio de fase" es lo que
+Previó la estética de las estructuras loop en el techno posterior.
 
 ---
 
-## 第2章：Philip Glassと“構築の美” ― 機械と人間の間で
+## Capítulo 2: Philip Glass y la “belleza de la construcción” – entre máquinas y humanos
 
 
-フィリップ・グラスは、反復を「構造の秩序」として昇華した。  
-オペラ《Einstein on the Beach》(1976)は、5時間に及ぶ音響の建築物である。  
-同じフレーズを段階的に変化させながら、声・オルガン・ヴァイオリンが  
-幾何学的な音のパターンを描き続ける。
+Philip Glass elevó la repetición como "orden estructural".
+La ópera Einstein on the Beach (1976) es una arquitectura acústica de cinco horas de duración.
+Mientras se cambia la misma frase paso a paso, se toca la voz, el órgano y el violín.
+Continuar dibujando patrones de sonido geométricos.
 
-**反復構造の特徴**
-- モジュール単位での加算／減算（Additive Process）
-- 音高よりも「パルス（脈動）」の優位
-- 数的規則性の上に立つ情感のゆらぎ
+**Características de la estructura repetitiva**
+- Suma/resta en unidades del módulo (Proceso Aditivo)
+- Ventaja del "pulso" sobre el tono.
+- Fluctuaciones de emoción basadas en regularidad numérica.
 
-グラスの手法は、80年代以降の**ポスト・ロック**や**エレクトロニカ**にも影響を与えた。  
-たとえばTortoiseやSigur Rósの楽曲構成にも、グラス的な「持続する律動」の影響が見られる。
+El método de Glass también influyó en el **post-rock** y la **electrónica** a partir de los años 1980.
+Por ejemplo, la influencia del "ritmo sostenido" de Grass se puede ver en las composiciones de Tortoise y Sigur Rós.
 
 ---
 
-## 第3章：テクノとハウスの中のミニマリズム ― DetroitからBerlinへ
+## Capítulo 3: Minimalismo en Techno y House - De Detroit a Berlín
 
 
-### デトロイトの幾何学的ミニマル
-デリック・メイ、ジェフ・ミルズ、ロバート・フッドらが築いた**ミニマル・テクノ**は、  
-リズムの抽象化による“精神の構築物”だった。  
-ロバート・フッドの《Minimal Nation》(1994)は、ドラムマシンTR-909による  
-最小限のパターンから極限の緊張を生み出す。
+### Minimalismo geométrico de Detroit
+**Minimal techno** fue creado por Derrick May, Jeff Mills, Robert Hood y otros.
+Era una "construcción mental" basada en la abstracción rítmica.
+"Minimal Nation" (1994) de Robert Hood se toca con la caja de ritmos TR-909.
+Creando tensión extrema a partir de patrones mínimos.
 
-**トラック構成分析（Robert Hood - "Rhythm of Vision"）**
+**Análisis de composición de pistas (Robert Hood - "Rhythm of Vision")**
 
 | 要素 | 内容 |
 |------|------|
@@ -121,23 +123,23 @@ color: #fff;
 | サウンド構成 | Kick, Hi-hat, Snare, Sub bass |
 | 変化 | フィルターの微細変化とリズムの脱落による心理的揺れ |
 
-### ベルリンの空気と反復の再構築
-1990年代後半、ベルリンではBasic ChannelやMaurizio（Moritz von Oswald, Mark Ernestus）が  
-ダブ・エコーを伴う**「Dub Techno」**を確立。  
-低域の反復と残響が、時間の感覚を拡張する音響体験を作り出した。
+### Reconstrucción de la atmósfera berlinesa y repetición.
+A finales de los años 1990, Basic Channel y Maurizio (Moritz von Oswald, Mark Ernestus)
+Estableció el ``Dub Techno'' con eco dub.
+La repetición y la reverberación de baja frecuencia crearon una experiencia acústica que amplió el sentido del tiempo.
 
 ---
 
-## 第4章：ロックとポスト・ミニマリズム ― Brian EnoからRadioheadへ
+## Capítulo 4: Rock y posminimalismo: de Brian Eno a Radiohead
 
-ブライアン・イーノの《Music for Airports》(1978)は、  
-アンビエントの祖としてだけでなく、**「静的ミニマル」**の源流でもある。  
-ループテープによる偶発的な重なりが、聴覚の時間軸を拡張した。
+Música para aeropuertos de Brian Eno (1978)
+No es sólo el padre de la música ambiental, sino también el origen del "minimalismo estático".
+La superposición accidental de cintas en bucle amplió la línea de tiempo auditiva.
 
-その後、Radioheadの《Everything in Its Right Place》(2000)では、  
-シンセとボーカルループの反復が、ライヒ的な位相感覚をポップスに持ち込んでいる。
+Más tarde, en "Todo en su lugar correcto" de Radiohead (2000),
+Los sintetizadores repetidos y los loops vocales aportan un sentido reichiano de fase a la música pop.
 
-**比較表：EnoとRadioheadにおける反復構造**
+**Tabla comparativa: Estructura de repetición en Eno y Radiohead**
 
 | 作品 | 技術的特徴 | 効果 |
 |------|-------------|------|
@@ -146,21 +148,21 @@ color: #fff;
 
 ---
 
-## 第5章：日本のミニマル ― 電子と環境の交差点
+## Capítulo 5: Minimalismo japonés: la intersección de la electrónica y el medio ambiente
 
-### 冨田勲：電子の中のシンフォニー
+### Isao Tomita: Sinfonía en los electrones
 
-冨田勲はシンセサイザーを用いて、クラシック音楽を「電子的反復」の中で再構成した。  
-《月の光》(1974)では、微細なモジュレーションの揺らぎが音の空間を形づくる。  
-この“電子的持続”の感覚は後のテクノ・アンビエントにも通じる。
+Isao Tomita utilizó un sintetizador para reconstruir la música clásica en "repetición electrónica".
+En Moonlight (1974), sutiles fluctuaciones de modulación dan forma al espacio sonoro.
+Esta sensación de "persistencia electrónica" también se aplica a la música tecno-ambiente posterior.
 
-### 池田亮司：データと周波数のミニマル
+### Ryoji Ikeda: Datos y frecuencia mínimos
 
-池田亮司の作品は、純粋な周波数・数値・データを音楽化する。  
-《dataplex》(2005)では、人間の知覚限界を試す超高周波サウンドを反復・分割し、  
-音響空間を“デジタル的ミニマル”として提示した。
+Las obras de Ryoji Ikeda transforman frecuencias, números y datos puros en música.
+"dataplex" (2005) repite y divide sonidos de frecuencia ultra alta que ponen a prueba los límites de la percepción humana.
+El espacio acústico se presentó como "minimalismo digital".
 
-### 日本のミニマル系アーティスト一覧
+### Lista de artistas minimalistas japoneses.
 
 | アーティスト | 主な作品 | 特徴 |
 |---------------|-----------|------|
@@ -172,34 +174,34 @@ color: #fff;
 
 ---
 
-## 第6章：年表 ― ミニマル音楽の進化と分岐
+## Capítulo 6: Cronología - Evolución y divergencia de la música minimalista
 
 <div class="mermaid">
 
-timeline
-    title Minimal Music Chronology
-    1964 : Terry Riley "In C"
-    1967 : Steve Reich "Piano Phase"
-    1976 : Philip Glass "Einstein on the Beach"
-    1978 : Brian Eno "Music for Airports"
-    1988 : Derrick May "Strings of Life"
-    1994 : Robert Hood "Minimal Nation"
-    1996 : Basic Channel "Phylyps Trak"
-    2001 : Alva Noto + Ryuichi Sakamoto "Vrioon"
-    2005 : Ryoji Ikeda "dataplex"
-    2020 : Max Cooper "Yearning for the Infinite"
+línea de tiempo
+título Cronología de la música minimalista
+1964: Terry Riley "En C"
+1967: Steve Reich "Fase de piano"
+1976: Philip Glass "Einstein en la playa"
+1978: Brian Eno "Música para aeropuertos"
+1988: Derrick May "Las cuerdas de la vida"
+1994: Robert Hood "Nación mínima"
+1996: Canal Básico "Phylyps Trak"
+2001: Alva Noto + Ryuichi Sakamoto "Vrioon"
+2005: Ryoji Ikeda "dataplex"
+2020: Max Cooper "Anhelo del infinito"
 
 </div>
 
 ---
 
-## 結語：反復の中に生まれる“変化”
+## Conclusión: El “cambio” nace de la repetición
 
-ミニマルとは単なる「少なさ」ではない。
-それは、**制限の中で最大の自由を発見する芸術**である。
-Terry Rileyの《In C》から、Ryoji Ikedaの《dataplex》まで続くこの系譜は、
-アナログからデジタル、身体からデータへと形を変えながら、
-今もなお「音と時間の実験」を続けている。
+El minimalismo no se trata sólo de "menos".
+Es el arte de descubrir la mayor libertad dentro de las limitaciones.
+Este linaje continúa desde "In C" de Terry Riley hasta "dataplex" de Ryoji Ikeda.
+Mientras cambiamos de forma de lo analógico a lo digital, del cuerpo a los datos,
+Incluso ahora continúa "experimentando con el sonido y el tiempo".
 
 ---
 

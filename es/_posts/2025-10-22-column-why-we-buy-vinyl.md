@@ -5,181 +5,183 @@ categories:
 image: ../assets/images/column-why-we-buy-vinyl.webp
 lang: es
 layout: post
+permalink: /es/2025-10-22-column-why-we-buy-vinyl/
 tags:
 - Vinyl
 - Psychology
-title: 【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学
+title: '[Columna] Por qué compramos discos cuando estamos cansados ​​de lo digital:
+  Psicología del regreso a los discos'
 ---
 
 
-## 序章：完璧な音からの逃走
+## Prólogo: Escape del sonido perfecto
 
 
-文：mmr｜テーマ：なぜ人は、デジタルの完璧さを捨て、アナログの不完全さへと戻っていくのか。レコード回帰の心理と文化を探る
+Texto: mmr | Tema: ¿Por qué la gente abandona la perfección digital y regresa a la imperfección analógica? Explorando la psicología y la cultura del regreso a los discos.
 
-Spotify、Apple Music、YouTube Music。  
-世界中の音が、タップ一つで手に入る時代になった。  
-しかし、そんな**完璧な便利さの中で**、奇妙な逆流が起きている。  
+Spotify, Apple Música, YouTube Música.
+Ahora estamos en una era en la que sonidos de todo el mundo están disponibles con solo un toque.
+Sin embargo, en medio de toda esta **perfecta conveniencia**, se está produciendo una extraña reacción.
 
-──レコードの復活だ。  
+--Es el resurgimiento de los discos.
 
-カセットのような一時的なブームではなく、  
-いまや「LP盤」は確実に文化的ステータスを取り戻しつつある。  
-針を落とす動作、ジャケットを開く感触、盤面のゆらぎ。  
-それは「聴く」というより、**儀式に近い行為**だ。  
+No es un auge temporal como el de los casetes, pero
+Hoy en día, los discos LP están recuperando definitivamente su estatus cultural.
+La acción de dejar caer la aguja, la sensación de abrir la chaqueta, la fluctuación de la superficie de la tabla.
+Es más un ritual que "escuchar".
 
-人はなぜ、不便なメディアに戻るのか？  
-そこには、心理学的な「接触欲求」や「記憶の回路」が深く関わっている。  
+¿Por qué la gente vuelve a los medios inconvenientes?
+El "deseo psicológico de contacto" y los "circuitos de memoria" están profundamente involucrados.
 
 ---
 
 <style type="text/css">
 
-table, td, th {
-border: 2px #111 solid;
-width: auto;
-padding: 10px; 
+mesa, td, th {
+borde: 2px #111 sólido;
+ancho: automático;
+relleno: 10px;
 }
 th {
-background-color: #111;
+color de fondo: #111;
 color: #fff;
 }
 </style>
 
 
-## 第1章：デジタルが奪った“手触り”の記憶
+## Capítulo 1: Recuerdos del “tacto” arrebatados por lo digital
 
-1982年、CDが登場したとき、世界は歓喜した。  
-ノイズレス、長時間、高耐久。音楽はデータになり、メディアは透明になった。  
+Cuando se presentó el CD en 1982, el mundo se alegró.
+Silencioso, duradero y muy duradero. La música se ha convertido en datos y los medios se han vuelto transparentes.
 
-だが、**その透明性こそが“問題”**だった。  
+Sin embargo, **esa transparencia fue el “problema”**.
 
-デジタル音は完璧すぎるがゆえに、「存在感」が薄い。  
-手に触れられない音、取り替えのきくプレイリスト。  
-心理学者のWinnicottが言う「移行対象（transitional object）」──  
-つまり、子どもが安心を感じる“ぬいぐるみ”のような存在が、音楽から失われたのだ。  
+El sonido digital es tan perfecto que carece de sensación de presencia.
+Sonidos que no puedes tocar, listas de reproducción que puedes reemplazar.
+Lo que el psicólogo Winnicott llama un "objeto transicional".
+En otras palabras, la presencia de un "peluche" que hace que los niños se sientan seguros se ha perdido en la música.
 
-レコードはその真逆だ。  
-盤は重く、埃を吸い、温度に敏感で、回転数さえ狂う。  
-まるで“生き物”のように手をかけなければ鳴らない。  
-この**面倒さが、むしろ愛着を生む**。  
-
----
-
-## 第2章：ノイズの中の記憶──アナログとノスタルジア
-
-針が落ちた瞬間の「サーッ」というノイズ。  
-それを聴くだけで、なぜか懐かしさが込み上げるという人は多い。  
-
-この現象は心理学的に「プルースト効果」と呼ばれる。  
-匂いや音など、五感の刺激が記憶を呼び起こす現象だ。  
-レコードのノイズは、**時間の経過そのもの**を聴覚化している。  
-つまり、レコードの音を聴く行為は「過去と再会する行為」でもある。  
-
-デジタル音が“現在進行形”の音だとすれば、  
-アナログ音は“記憶の残響”である。  
+Los registros son exactamente lo contrario.
+Los discos son pesados, absorben polvo, son sensibles a la temperatura e incluso giran fuera de servicio.
+Es como un "ser vivo" y no emitirá ningún sonido a menos que lo toques.
+Esta **molestia en realidad crea apego**.
 
 ---
 
-## 第3章：身体が求めるアナログ性──脳科学の視点から
+## Capítulo 2: Recuerdos en ruido - Analógico y nostalgia
 
-人間の聴覚は、連続する波の中に“ゆらぎ”を感知する能力を持つ。  
-アナログ音は物理的波形であり、  
-デジタル音よりも“自然界の音”に近いゆらぎを含む。  
+En el momento en que cae la aguja, se oye un ruido de "sah".
+Por alguna razón, muchas personas sienten nostalgia con solo escucharlo.
 
-この微妙な揺らぎ（1/fゆらぎ）は、  
-脳波のα波と共鳴し、リラックス効果を生むことが知られている。  
+Este fenómeno se denomina psicológicamente "efecto Proust".
+Se trata de un fenómeno en el que la estimulación de los cinco sentidos, como los olores y los sonidos, evoca recuerdos.
+El ruido del disco hace audible el propio paso del tiempo.
+En otras palabras, el acto de escuchar un disco es también "un acto de reencuentro con el pasado".
 
-つまり、アナログレコードは**身体にとって快適なノイズ**なのだ。  
-無意識に、私たちは「整いすぎない音」を求めている。  
-
----
-
-## 第4章：メディア考古学──物質としての音楽
-
-レコードは、**音の彫刻**でもある。  
-音を刻むという行為は、時間を物質に封じ込めることだ。  
-フリードリヒ・キットラー（Friedrich Kittler）は「メディア考古学」においてこう述べた。  
-
-> “Media determine our situation.”  
-（メディアが私たちの状況を決定する）  
-
-音が“記録”から“再生”へと進化する中で、  
-レコードだけが唯一「時間を手で触れるメディア」として残った。  
-
-針を置くと音が鳴り、針を上げると沈黙が戻る。  
-この単純な機構の中に、**時間と身体の対話**がある。  
+Si el sonido digital es sonido “actualmente en curso”,
+El sonido analógico es la "reverberación de la memoria".
 
 ---
 
-## 第5章：Z世代が針を落とす理由──新しい所有感
+## Capítulo 3: Naturaleza analógica buscada por el cuerpo - desde la perspectiva de la ciencia del cerebro
 
-Z世代のレコード購入者は、  
-実際に「アナログ時代」を知らない。  
-それでも彼らはレコードを“買い”、棚に“飾る”。  
+El oído humano tiene la capacidad de detectar "fluctuaciones" en ondas continuas.
+El sonido analógico es una forma de onda física,
+Contiene fluctuaciones que se acercan más a los "sonidos naturales" que a los sonidos digitales.
 
-彼らにとってレコードは、「アーカイブ」や「コレクション」ではない。  
-むしろ“体験の証拠”として機能している。  
+Esta sutil fluctuación (fluctuación 1/f) es
+Se sabe que resuena con las ondas cerebrales alfa y produce un efecto relajante.
 
-ジャケットのアート性、盤を裏返す所作、  
-アプリにはない物理的な手順。  
-これはデジタル時代における**反・透明文化**の表現でもある。  
-
----
-
-## 第6章：未来のノスタルジア──AI時代のアナログ感情
-
-生成AIによって音楽は、無限に生成されるようになった。  
-同じ曲を二度と再生できない、流動的な「生成的音楽」。  
-その反動として、**人々は固定された物質**を求め始めている。  
-
-もはや「アナログ回帰」は懐古ではない。  
-それは、**AI時代における“人間らしさ”の再発見**だ。  
+En otras palabras, los discos analógicos son **ruido agradable para el cuerpo**.
+Inconscientemente buscamos un sonido que no sea demasiado formal.
 
 ---
 
-## 終章：レコードが教える「不完全の幸福」
+## Capítulo 4: Arqueología de los medios: la música como material
 
-レコードの音は、完全ではない。  
-盤の歪み、ホコリ、劣化──そのすべてが音に刻まれる。  
-だが、それこそが“生きた音”だ。  
+Los discos también son **esculturas sonoras**.
+El acto de crear sonido es confinar el tiempo a la materia.
+Friedrich Kittler afirmó esto en "Media Archaeology".
 
-心理学的に、人は完璧よりも「不完全に愛着を抱く」傾向がある。  
-その不完全さを自分の一部として受け入れる。  
-それが「アナログの亡霊」としての魅力だ。  
+> “Los medios determinan nuestra situación”.
+(Los medios determinan nuestra situación)
 
-──レコードは、音楽のための墓碑ではない。  
-むしろ、**人間の記憶そのものが回転している装置**なのである。
+A medida que el sonido evoluciona de la "grabación" a la "reproducción",
+Los registros siguieron siendo el único medio que nos permitía tocar el tiempo.
+
+Cuando bajas la aguja, emite un sonido y cuando la levantas, vuelve el silencio.
+Dentro de este sencillo mecanismo, hay un **diálogo entre el tiempo y el cuerpo**.
 
 ---
 
-## アナログ音楽メディアの進化年表
+## Capítulo 5: Por qué la Generación Z está dejando caer la aguja: un nuevo sentido de propiedad
+
+Compradores de discos de la Generación Z
+En realidad, no sé nada de la "era analógica".
+Aun así, “compran” discos y los “exhiben” en sus estanterías.
+
+Para ellos, los registros no son "archivos" ni "colecciones".
+Más bien, funciona como "evidencia de la experiencia".
+
+El arte de la cubierta, el acto de darle la vuelta al disco,
+Pasos físicos no en la aplicación.
+Esto también es una expresión de la **cultura antitransparencia** en la era digital.
+
+---
+
+## Capítulo 6: Nostalgia del futuro ─ Emociones analógicas en la era de la IA
+
+La música ahora se puede generar infinitamente gracias a la generación de IA.
+"Música generativa" fluida donde nunca puedes tocar la misma canción dos veces.
+Como reacción a esto, la gente está empezando a buscar sustancias fijas.
+
+La “regresión analógica” ya no es algo nostálgico.
+Eso es **redescubrir la "humanidad" en la era de la IA**.
+
+---
+
+## Capítulo Final: Los registros nos enseñan la “felicidad de la imperfección”
+
+El sonido de los discos no es perfecto.
+Distorsión, polvo y deterioro del disco: todo eso queda grabado en el sonido.
+Pero de eso se trata un "sonido vivo".
+
+Psicológicamente, las personas tienden a "apegarse a las imperfecciones" más que a la perfección.
+Acepta esa imperfección como parte de ti mismo.
+Ése es su atractivo como "fantasma de lo analógico".
+
+--Los discos no son lápidas de la música.
+Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.
+
+---
+
+## Cronología de la evolución de los medios musicales analógicos.
 
 <div class="mermaid">
 
-flowchart TD
-    A1877["1877：エジソン、蓄音機（Phonograph）発明"] --> A1901["1901：SP盤（Shellac Record）普及"]
-    A1901 --> A1948["1948：LPレコード登場（Columbia Records）"]
-    A1948 --> A1963["1963：コンパクトカセット誕生"]
-    A1963 --> A1982["1982：CD登場 — デジタル時代の幕開け"]
-    A1982 --> A1999["1999：MP3革命／Napster出現"]
-    A1999 --> A2010["2010年代：Vinyl Revival — 世界的レコード再評価"]
-    A2010 --> A2020["2020年代：AI音楽とアナログ再結合の兆し"]
+diagrama de flujo TD
+A1877["1877: Edison inventó el fonógrafo"] --> A1901["1901: Difusión de SP (Shellac Record)"]
+A1901 --> A1948["1948: debut discográfico LP (Columbia Records)"]
+A1948 --> A1963["1963: Nacimiento del casete compacto"]
+A1963 --> A1982["1982: debut en CD: el amanecer de la era digital"]
+A1982 --> A1999["1999: Revolución MP3/aparición de Napster"]
+A1999 --> A2010["Década de 2010: Resurgimiento del vinilo - Reevaluación de récords globales"]
+A2010 --> A2020["Década de 2020: Signos de música con IA y recombinación analógica"]
 
 </div>
 
 ---
 
-### 結語：音はモノではなく、関係である
+### Conclusión: El sonido no es una cosa, sino una relación.
 
-アナログの亡霊とは、単なるレトロ趣味ではない。
-それは、人間が記憶・触感・時間とどう付き合うかという問いの象徴である。
+El fantasma analógico es más que un simple pasatiempo retro.
+Es un símbolo de la cuestión de cómo interactúan los humanos con la memoria, el tacto y el tiempo.
 
-針の先に宿る「音の魂」は、いまも静かに回転を続けている。
+El "alma del sonido" que reside en la punta de la aguja continúa girando silenciosamente.
 
 ---
 
-### 参考文献（英語原著）
+### Referencias (original en inglés)
 
 | Title                                                 | Author                            | Publisher                     | Link                                         |
 | ----------------------------------------------------- | --------------------------------- | ----------------------------- | ---------------------------------------------- |

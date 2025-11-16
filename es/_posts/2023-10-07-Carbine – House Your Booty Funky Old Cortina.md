@@ -5,31 +5,32 @@ categories:
 image: ../assets/images/Carbine – House Your Booty Funky Old Cortina.webp
 lang: es
 layout: post
+permalink: /es/2023-10-07-Carbine – House Your Booty Funky Old Cortina/
 tags:
 - Techno
 - Acid
-title: Carbine – House Your Booty Funky Old Cortina
+title: Carabina - Casa tu botín Funky Old Cortina
 ---
 
 
-「House Your Booty / Funky Old Cortina」は、Carbineのシングルとしてリリースされた楽曲であり、2つのトラックが収録されています。
+"House Your Booty / Funky Old Cortina" es una canción lanzada como sencillo por Carbine y contiene dos pistas.
 
-「House Your Booty」は、エネルギッシュでグルーヴィなハウストラックであり、フロアを盛り上げるためのビートとリズムが特徴です。キャッチーなサンプリングやフンキーなベースラインが、踊りたくなる雰囲気を醸し出しています。
+"House Your Booty" es un tema house enérgico y maravilloso con un ritmo que hace que la pista funcione. El sampleo pegadizo y la línea de bajo funky crean una atmósfera que te hace querer bailar.
 
-一方、「Funky Old Cortina」は、よりファンキーでレトロな要素を持つ楽曲です。タイトなドラムビートやクラシックなファンクサウンドが特徴であり、ヴィンテージな雰囲気を楽しむことができます。
+Por otro lado, "Funky Old Cortina" es una canción con elementos más funky y retro. Cuenta con ritmos de batería ajustados y sonidos funk clásicos, lo que te permite disfrutar de una atmósfera vintage.
 
-Carbineの音楽は、ダンスフロアを意識したハウスミュージックのスタイルであり、グルーヴ感とポジティブなエネルギーが特徴です。彼の楽曲は、クラブやフェスティバルでプレイされ、ダンスミュージック愛好家にとってはおなじみの存在となっていました。
+La música de Carbine es un estilo de música house orientada a la pista de baile, caracterizada por una sensación de ritmo y energía positiva. Sus canciones se tocaron en clubes y festivales, lo que lo convirtió en un nombre muy conocido para los amantes de la música dance.
 
-「House Your Booty / Funky Old Cortina」は、Carbineの音楽の一部を体験することができる特別なリリースであり、ハウスミュージックファンにとって興味深い作品となっています。
+"House Your Booty / Funky Old Cortina" es un lanzamiento especial que te permite experimentar una porción de la música de Carbine, lo que lo convierte en un trabajo interesante para los fanáticos de la música house.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. House Your Booty
 
 AA. Funky Old Cortina
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m99206766868?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m99206766868?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1eXNvF2BShk?si=_JVkCQ-kYPXPnaik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1eXNvF2BShk?si=_JVkCQ-kYPXPnaik" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

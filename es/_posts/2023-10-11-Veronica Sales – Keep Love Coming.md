@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Veronica Sales – Keep Love Coming.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Veronica Sales – Keep Love Coming/
 tags:
 - Euro Beat
-title: Veronica Sales – Keep Love Coming
+title: Veronica Sales - Sigue llegando el amor
 ---
 
 
-ユーロビートレーベルA.Beat-Cから1995年にリリースされたVeronica Sales（ベロニカ セールス）の「 Keep Love Coming」。Veronica Salesは、Alexandraの別名義でも活動。
+"Keep Love Coming" de Veronica Sales fue lanzado en 1995 en el sello Eurobeat A.Beat-C. Veronica Sales también trabaja bajo el alias Alexandra.
 
-プロデューサーは、イタリアのプロデューサーでユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ ロジャース）。
+El productor es Dave Rodgers, productor italiano y cofundador del sello Eurobeat A.Beat-C.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Keep Love Coming (Extended Mix)
 
@@ -26,7 +27,7 @@ B1. Keep Love Coming (Radio Version)
 B2. Keep Love Coming (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18872108798?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18872108798?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/si6RkYEMXCw?si=DIcNRraPT9CK2r5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/si6RkYEMXCw?si=DIcNRraPT9CK2r5I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

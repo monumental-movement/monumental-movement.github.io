@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Lou Reed – New York.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-Lou Reed – New York/
 tags:
 - Punk
 - Art Rock
-title: Lou Reed – New York
+title: Lou Reed – Nueva York
 ---
 
 
-「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
+"New York" es un álbum importante en la carrera de Lou Reed y se centra en su ciudad natal de Nueva York. Las letras del álbum reflejan la realidad de la ciudad de Nueva York y los problemas sociales. Con la aguda poesía de Lou Reed y su propio estilo vocal único, representa la oscuridad y la luz de la ciudad desde su perspectiva.
 
-「New York」には、政治、ドラッグ、犯罪、愛、人間関係など、様々なテーマが取り上げられています。アルバムの中でも特に知られている曲には、「Dirty Blvd.」「Halloween Parade」、「Romeo Had Juliette」などがあります。
+"Nueva York" cubre una variedad de temas, incluyendo política, drogas, crimen, amor y relaciones. Algunas de las canciones más conocidas del álbum incluyen "Dirty Blvd.", "Halloween Parade" y "Romeo Had Juliette".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Romeo Had Juliette
 
@@ -47,7 +48,7 @@ title: Lou Reed – New York
 14. Dime Store Mystery
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

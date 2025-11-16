@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Yellowman – Rambo.webp
 lang: es
 layout: post
+permalink: /es/2023-10-05-Yellowman – Rambo/
 tags:
 - Reggae
 - Dancehall
-title: Yellowman – Rambo
+title: Hombre amarillo - Rambo
 ---
 
 
-「Rambo」は、ジャマイカのレゲエミュージシャンであるイエローマン（Yellowman）の楽曲です。イエローマンは、1980年代にジャマイカ音楽界で非常に人気のあるアーティストでした。
+"Rambo" es una canción del músico de reggae jamaicano Yellowman. Yellowman fue un artista muy popular en la música jamaicana de la década de 1980.
 
-「Rambo」は、イエローマンのアルバム「King Yellowman」に収録されており、1982年にリリースされました。この曲は、イエローマンのトーストスタイルと呼ばれるスタイルで知られています。トーストスタイルは、リズムに合わせて即興で歌詞をラップするスタイルで、ジャマイカ音楽のサウンドシステムカルチャーから発展しました。
+"Rambo" está incluido en el álbum de Yellowman "King Yellowman", lanzado en 1982. Esta canción es conocida por su estilo llamado Yellowman's Toast Style. El estilo Toast es un estilo de rap que improvisa letras a un ritmo y evolucionó a partir de la cultura del sistema de sonido de la música jamaicana.
 
-「Rambo」は、同名の映画シリーズのアクションヒーローであるジョン・J・ラムボーに触発されています。曲の歌詞では、イエローマンが自身をラムボーになぞらえ、自信に満ちた姿勢やパワフルなパフォーマンスを披露しています。
+"Rambo" está inspirado en el héroe de acción John J. Rambo de la serie de películas del mismo nombre. En la letra de la canción, Yellowman se compara con Lambeau, demostrando su actitud segura y su poderosa interpretación.
 
-この曲は、ダンスホールレゲエのスタイルとパワフルなパフォーマンスで知られるイエローマンの代表曲の一つとされています。彼の独特なスタイルと独自のアーティスティックなアプローチにより、イエローマンはジャマイカ音楽シーンで大きな影響力を持つ存在となりました。
+Esta canción se considera una de las canciones emblemáticas de Yellowman, conocido por su estilo dancehall reggae y sus poderosas interpretaciones. Su estilo único y su enfoque artístico único han convertido a Yellowman en una gran influencia en la escena musical jamaicana.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Tarzan
 
@@ -39,7 +40,7 @@ B3. Love
 B4. Long Rider
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27145474489?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27145474489?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cSO1ZXvhO0I?si=7-omSN929oREkmDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSO1ZXvhO0I?si=7-omSN929oREkmDo" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

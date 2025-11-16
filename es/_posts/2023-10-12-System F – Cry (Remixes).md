@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/System F – Cry (Remixes).webp
 lang: es
 layout: post
+permalink: /es/2023-10-12-System F – Cry (Remixes)/
 tags:
 - Trance
 - Dutch Trance
-title: System F – Cry (Remixes)
+title: Sistema F – Llorar (Remixes)
 ---
 
 
-「System F – Cry (Remixes)」の
-A面１曲目は、イタリアのプロジェクトCRWによるremix。
+“Sistema F – Llorar (Remixes)”
+La primera pista de la cara A es un remix del proyecto italiano CRW.
 
-B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
+El primer tema de la cara B es un remix de Oliver Lieb, un DJ y productor activo en la escena de la música electrónica desde 1988.
 
-B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
+La segunda pista de la cara B es una mezcla de club propio de Ferry Corsten, también conocido como System F.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Cry (CRW Mix)
 
@@ -31,7 +32,7 @@ B1. Cry (Oliver Lieb Remix)
 B2. Cry (Ferry Corsten Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dnABU3Iqge4?si=_cU6vI92gaatWXSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnABU3Iqge4?si=_cU6vI92gaatWXSR" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

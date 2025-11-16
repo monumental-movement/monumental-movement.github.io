@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Small World – I Believe.webp
 lang: es
 layout: post
+permalink: /es/2024-07-03-Small World – I Believe/
 tags:
 - Triphop
 - Downtempo
 - 00s
-title: Small World – I Believe
+title: Pequeño Mundo – Yo Creo
 ---
 
 
-Small WorldことPaul Hunter（ポール・ハンター）はスコットランド・グラスゴー出身のプロデューサーであり、グランドセフトオートシリーズのGrand Theft Auto IV やSan Andreas（サンアンドレス）の音楽を手がけたMichael Hunter（マイケル・ハンター）の兄弟。Paul Hunterは、Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade, The Stic名義でも活動している。
+Paul Hunter, también conocido como Small World, es un productor de Glasgow, Escocia, y hermano de Michael Hunter, quien creó la música para Grand Theft Auto IV y San Andreas. Paul Hunter también actúa bajo los nombres de Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade y The Stic.
 
-「I Believe」は、Paul Hunter自身が運営するヒップホップ、ダウンテンポ、ファンク、ジャズ、レゲエを網羅したレーベルRed Hook Recordingsから2005年にリリースされたトリップホップ・ダウンテンポトラック。
+"I Believe" es una pista de trip-hop downtempo lanzada en 2005 por el sello Red Hook Recordings de Paul Hunter, que cubre hip-hop, downtempo, funk, jazz y reggae.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. I Believe
 A2. Develop A Style Of Your Own
@@ -26,7 +27,7 @@ B1. Penthouse In Partick
 B2. Next Exit
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m42949311386?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m42949311386?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xNtIFfD8KZE?si=GfjAWS0eJFYMSgz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNtIFfD8KZE?si=GfjAWS0eJFYMSgz7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

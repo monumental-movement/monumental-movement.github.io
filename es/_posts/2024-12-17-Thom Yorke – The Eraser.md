@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/Thom Yorke – The Eraser.webp
 lang: es
 layout: post
+permalink: /es/2024-12-17-Thom Yorke – The Eraser/
 tags:
 - Art Rock
 - Electro
 - Indie Rock
 - Experimental
 - Rock
-title: Thom Yorke – The Eraser
+title: Thom Yorke – El borrador
 ---
 
 
-「The Eraser」は、2006年にXL RecordingsからリリースされたUKのミュージシャンThom Yorke(トムヨーク)のデビューソロアルバム。プロデューサーは、Thom YorkeのバンドRadioheadの長年のプロデューサーであるNigel Godrich。
+"The Eraser" es el álbum debut en solitario del músico británico Thom Yorke, lanzado en 2006 por XL Recordings. El productor es Nigel Godrich, el veterano productor de la banda Radiohead de Thom Yorke.
 
-このアルバムは、NME誌、ローリングストーン誌によって2006年のベストアルバムの1つに選ばれ、2006年のマーキュリーミュージック賞と2007年のグラミー賞の最優秀オルタナティブミュージックアルバムにノミネートされた。
+El álbum fue nombrado uno de los mejores álbumes de 2006 por las revistas NME y Rolling Stone, y fue nominado como Mejor Álbum de Música Alternativa en los Mercury Music Awards de 2006 y en los Grammy de 2007.
 
-収録曲「Analyse」と「Black Swan」はそれぞれ
-映画「プレステージ」「スキャナー・ダークリー」のエンディングロールに使われている。
+Las canciones incluidas “Analyse” y “Black Swan” son respectivamente
+Se utiliza en los créditos finales de las películas "Prestige" y "A Scanner Darkly".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. The Eraser
 2. Analyse
@@ -35,7 +36,7 @@ title: Thom Yorke – The Eraser
 9. Cymbal Rush
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4lSiyXKu05Q?si=yO4-Exd3jk0-bfRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4lSiyXKu05Q?si=yO4-Exd3jk0-bfRy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

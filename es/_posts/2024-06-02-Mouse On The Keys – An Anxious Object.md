@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Mouse On The Keys – An Anxious Object.webp
 lang: es
 layout: post
+permalink: /es/2024-06-02-Mouse On The Keys – An Anxious Object/
 tags:
 - Contemporary
 - Jazz
 - Fusion
 - Post Rock
-title: Mouse On The Keys – An Anxious Object
+title: 'El ratón sobre las teclas: un objeto ansioso'
 ---
 
 
-2006年ポストハードコア/ポストロックバンドnine days wonderの元メンバー川﨑昭（ドラム、ピアノ）と清田敦（ピアノ、キーボード）により結成され、2007年に新留大介（ピアノ、キーボード）が加入してトリオ編成となったMouse On The Keysは、ジャズ、ファンク、ポストロック、エレクトロニックミュージックが融合した独自のスタイルが特徴。
+Mouse On The Keys se formó en 2006 por ex miembros de la banda de post-hardcore/post-rock Nine Days Wonder, Akira Kawasaki (batería, piano) y Atsushi Kiyota (piano, teclados), y se convirtió en un trío en 2007 con la incorporación de Daisuke Shindome (piano, teclados). Mouse On The Keys se caracteriza por un estilo único que fusiona jazz, funk, post-rock y música electrónica.
 
-2009年にレーベルMachupicchu Industriasからリリースされた「an anxious object」は、Mouse On The Keysのファースト・フルアルバム。
+"Un objeto ansioso", lanzado en 2009 por el sello Machupicchu Industrias, es el primer álbum de larga duración de Mouse On The Keys.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Completed Nihilism
 2. Spectres De Mouse
@@ -31,7 +32,7 @@ title: Mouse On The Keys – An Anxious Object
 9. Ouroboros
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18654186487?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18654186487?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdXJUUhce-o?si=L5TAiTUMviBkoYlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdXJUUhce-o?si=L5TAiTUMviBkoYlv" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

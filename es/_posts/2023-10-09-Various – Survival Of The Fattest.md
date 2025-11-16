@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Survival Of The Fattest.webp
 lang: es
 layout: post
+permalink: /es/2023-10-09-Various – Survival Of The Fattest/
 tags:
 - Punk
 - Hardcore
-title: Various – Survival Of The Fattest
+title: Varios – Supervivencia del más gordo
 ---
 
 
-「Survival Of The Fattest」は、
-1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
+“La supervivencia del más gordo” es
+Este es un álbum recopilatorio lanzado por el sello "Fat Wreck Chords" en 1996.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Hi-Standard–California Dreaming
 
@@ -52,7 +53,7 @@ B7. Snuff –Walk
 B8. Me First And The Gimme Gimmes–Country Roads
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

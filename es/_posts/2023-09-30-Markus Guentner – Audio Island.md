@@ -5,19 +5,20 @@ categories:
 image: ../assets/images/Markus Guentner – Audio Island.webp
 lang: es
 layout: post
+permalink: /es/2023-09-30-Markus Guentner – Audio Island/
 tags:
 - Techno
 - Minimal
-title: Markus Guentner – Audio Island
+title: Markus Guentner – Isla de audio
 ---
 
 
-Markus Guentnerによる「Audio Island」は、素晴らしい2枚組LPです。
+``Audio Island'' de Markus Guentner es un maravilloso LP doble.
 
-この2枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
+Todas las pistas de este conjunto de dos discos son canciones lentas y profundas, por lo que es imprescindible escucharlas.
 
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Droid Ships
 
@@ -36,7 +37,7 @@ D1. Sunset
 D2. Tears In Rain
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rWit_D5CxmQ?si=KlTnIZ3YgQlRoRo-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWit_D5CxmQ?si=KlTnIZ3YgQlRoRo-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

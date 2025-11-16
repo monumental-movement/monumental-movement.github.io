@@ -5,21 +5,22 @@ categories:
 image: ../assets/images/Lightnin' Hopkins – Mojo Hand.webp
 lang: es
 layout: post
+permalink: /es/2023-09-09-Lightnin Hopkins – Mojo Hand/
 tags:
 - Blues
 - Country
 - Classic
-title: Lightnin' Hopkins – Mojo Hand
+title: Lightnin' Hopkins - Mano Mojo
 ---
 
 
-「Mojo Hand（モジョ・ハンド）」は、著名なアメリカのブルースミュージシャン、ライトニン・ホプキンスによるクラシックなブルース曲です。この曲は1960年に初めて録音され、その後彼の代表曲の一つとなりました。
+"Mojo Hand" es una canción de blues clásica del famoso músico de blues estadounidense Lightnin' Hopkins. Esta canción se grabó por primera vez en 1960 y desde entonces se ha convertido en una de sus canciones emblemáticas.
 
-特徴的なギタープレイと情熱的なボーカルが「Mojo Hand」を特徴づけています。
+Una guitarra distintiva y una voz apasionada caracterizan a "Mojo Hand".
 
-この曲は、愛、旅、そしてモジョ・ハンド（ブルースの伝説では運を呼び寄せると信じられている魔法の護符）を求めるテーマを伝えており、伝統的なブルースの本質を捉えています。ライトニン・ホプキンスの情熱的な歌唱とギタープレイによって、「Mojo Hand」は時代を超えたブルースの名曲となっています。
+La canción captura la esencia del blues tradicional y transmite temas de amor, viajes y la búsqueda de una mano mojo, un talismán mágico que, según la leyenda del blues, trae buena suerte. El apasionado canto y guitarra de Lightnin' Hopkins hacen de "Mojo Hand" un clásico del blues atemporal.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Mojo Hand
 
@@ -48,7 +49,7 @@ B3. Shine On, Moon!
 B4. Santa
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49152824232?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m49152824232?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sJbnR_uKfC4?si=qUjofTxeHbcLAyTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sJbnR_uKfC4?si=qUjofTxeHbcLAyTu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

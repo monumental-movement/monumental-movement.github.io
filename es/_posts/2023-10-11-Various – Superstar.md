@@ -5,17 +5,18 @@ categories:
 image: ../assets/images/Various – Superstar.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Various – Superstar/
 tags:
 - Reggae
 - Dancehall
-title: Various – Superstar
+title: Varios – Superestrella
 ---
 
 
-「Various – Superstar」は、
-ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
+“Varios – Superestrella” es
+Este es un álbum recopilatorio lanzado por el sello jamaicano "Rookie Production".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Unknown Artist–The Enigma
 
@@ -42,5 +43,5 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
 

@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Heart – Dreamboat Annie.webp
 lang: es
 layout: post
+permalink: /es/2023-10-26-Heart – Dreamboat Annie/
 tags:
 - Rock
 - Hard Rock
-title: Heart – Dreamboat Annie
+title: Corazón – Dreamboat Annie
 ---
 
 
-「ドリームボート・アニー（Dreamboat Annie）」は、アメリカのロックバンド、ハートのデビュー・スタジオ・アルバムです。
+"Dreamboat Annie" es el álbum de estudio debut de la banda de rock estadounidense Heart.
 
-当時、バンドはブリティッシュコロンビア州バンクーバーに拠点を置いており、このアルバムはバンクーバーで録音され、最初にカナダで地元のレーベルであるマッシュルーム・レコードによって1975年9月にリリースされました。このアルバムは後にRPMのトップアルバムチャートで20位に達し、ダブルプラチナ認定を獲得しました。
+En ese momento, la banda tenía su base en Vancouver, Columbia Británica, y el álbum fue grabado allí y lanzado por primera vez en Canadá por el sello local Mushroom Records en septiembre de 1975. Posteriormente, el álbum alcanzó el número 20 en la lista de mejores álbumes de RPM y fue certificado con doble platino.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Magic Man
 
@@ -39,7 +40,7 @@ B4. How Deep It Goes
 B5. Dreamboat Annie (Reprise)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gQDJ45qJHBQ?si=viLowrphTK19Wcpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQDJ45qJHBQ?si=viLowrphTK19Wcpp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

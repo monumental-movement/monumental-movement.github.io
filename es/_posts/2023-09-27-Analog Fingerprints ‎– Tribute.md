@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Analog Fingerprints – Tribute.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Analog Fingerprints ‎– Tribute/
 tags:
 - Techno
 - Electro
-title: Analog Fingerprints – Tribute
+title: Huellas dactilares analógicas – Homenaje
 ---
 
 
-Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
+"Tribute" de Analog Fingerprints es una pista de electro house llena de baches con un ambiente rave en el lado A. B1 y B2 son pistas mínimas.
 
-Analog Fingerprintsの本名は、Marco Passarani。
+El verdadero nombre de Analog Fingerprints es Marco Passarani.
 
-イタリアのDJであり、プロデューサーです。
+DJ y productor italiano.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Tribute
 
@@ -27,7 +28,7 @@ B1. Accent
 B2. Blue Screen
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33622720673?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m33622720673?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9CatbPA2wlE?si=sg1JMc8wjofaTRvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CatbPA2wlE?si=sg1JMc8wjofaTRvl" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

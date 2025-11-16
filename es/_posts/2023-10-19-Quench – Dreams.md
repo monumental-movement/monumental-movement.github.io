@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Quench – Dreams.webp
 lang: es
 layout: post
+permalink: /es/2023-10-19-Quench – Dreams/
 tags:
 - Trance
 - 90s
-title: Quench – Dreams
+title: Apagar – Sueños
 ---
 
 
-Quenchこと、Christopher J. Dolan（クリストファー・J・ドーラン/CJ Dolan）は、オーストラリア出身のダンスミュージックプロデューサー兼ミュージシャン。「Quench – Dreams」は、世界的なヒットとなった。共同プロデューサーは、Sean Quinn（ショーン・クイン）。
+Christopher J. Dolan (CJ Dolan), también conocido como Quench, es un músico y productor de música dance australiano. “Quench – Dreams” se convirtió en un éxito mundial. Coproductor: Sean Quinn.
 
-B面1,2曲目は、イギリス出身のプログレッシブハウスデュオCrunchによるremix。
+La primera y la segunda canción de la cara B son remezclas del dúo británico de house progresivo Crunch.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Dreams (Radio Edit)
 
@@ -31,7 +32,7 @@ B2. Dreams (Crunched Down Mix)
 B3. Dreams (Global Harmony)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35294718080?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m35294718080?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Vs2SVsMEtA?si=j8YS0xlJaWqHeK2y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Vs2SVsMEtA?si=j8YS0xlJaWqHeK2y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

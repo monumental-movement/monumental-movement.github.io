@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/Photon Project – Enlightenment Illumination.webp
 lang: es
 layout: post
+permalink: /es/2023-10-11-Photon Project – Enlightenment Illumination/
 tags:
 - Trance
 - Progressive
-title: Photon Project – Enlightenment Illumination
+title: Proyecto Photon – Iluminación de la Iluminación
 ---
 
 
-Photon Projectは、オランダのトランスプロデューサー兼作曲家Geert HuininkとAlco Lammersによるプロジェクト。Geert Huininkは、2001年から2007年まで、DJ Tiëstoと最初の3枚のアルバム『In My Memory』、『Just Be』、『Elements of Life』で協力し、「Magik Journey」、「Forever Today」、「A Tear In The Open」などの曲を共作した事でも知られている。
+Photon Project es un proyecto del productor y compositor de trance holandés Geert Huinink y Alco Lammers. Geert Huinink es conocido por colaborar con DJ Tiësto de 2001 a 2007 en sus tres primeros álbumes, In My Memory, Just Be y Elements of Life, y por coescribir canciones como "Magik Journey", "Forever Today" y "A Tear In The Open".
 
-Geert HuininkとAlco Lammersは、Photon Project以外にも、2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi, Twenty-Somethingなどの別名義でも活動している。
+Además de Photon Project, Geert Huinink y Alco Lammers también trabajan con otros nombres, incluidos 2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi y Twenty-Something.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Enlightenment
 
 B. Illumination
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KhTOaMXGhnM?si=DsyCVVzIQIAju2Oa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhTOaMXGhnM?si=DsyCVVzIQIAju2Oa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,22 +5,23 @@ categories:
 image: ../assets/images/Ancient Future – Natural Rhythms.webp
 lang: es
 layout: post
+permalink: /es/2024-05-23-Ancient Future ‎– Natural Rhythms/
 tags:
 - Fusion
 - Rock
 - Psychedelic
 - Ambient
-title: Ancient Future – Natural Rhythms
+title: Futuro antiguo – Ritmos naturales
 ---
 
 
-Ancient Futureは、世界で最も偉大なアコースティックギタリスト100人の1人として評されるMatthew Montfortにより1978年に結成されたワールドフュージョンミュージックグループ。
+Ancient Future es un grupo de música fusión mundial formado en 1978 por Matthew Montfort, considerado uno de los 100 mejores guitarristas acústicos del mundo.
 
-インド、アフリカ、バリ、中東、南米のリズム、ヨーロッパのハーモニー、アジアのメロディーなど伝統的な音楽とジャズ、ロック、レゲエ、アンビエントなどの現代音楽を融合させるフュージョンスタイルが特徴で、様々な国のミュージシャンともコラボする世界的な多国籍音楽アンサンブル。
+Un conjunto musical multinacional global que se caracteriza por un estilo de fusión que combina música tradicional como ritmos de India, África, Bali, Medio Oriente y Sudamérica, armonías de Europa y melodías de Asia con música contemporánea como jazz, rock, reggae y ambient, y colabora con músicos de varios países.
 
-※）A3,5&B5以外は全てMatthew Montfortによる作曲
+*) Todas las composiciones excepto A3,5 y B5 son de Matthew Montfort.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Hummingbird
 A2. Frogorian Trance
@@ -35,9 +36,9 @@ B4. Somaloka
 B5. Eleventh Heaven（作曲 Benjy Wertheimer）
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87379215136?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m87379215136?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LWtGGKWfvu0?si=lWkGFQTN8gtNMAg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWtGGKWfvu0?si=lWkGFQTN8gtNMAg-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g4czK9AZIag?si=G3w0nKa6R_qwsriL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g4czK9AZIag?si=G3w0nKa6R_qwsriL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

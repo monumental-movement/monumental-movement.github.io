@@ -5,30 +5,31 @@ categories:
 image: ../assets/images/さだ まさし – 長崎小夜曲.webp
 lang: es
 layout: post
+permalink: /es/2023-10-24-Masashi Sada – Nagasaki/
 tags:
 - JPop
 - Nostalgic
 - 7inch
-title: さだ まさし – 長崎小夜曲
+title: Masashi Sada – Nagasaki Yoyoku
 ---
 
 
-「さだ まさし – 長崎小夜曲」は、1982年にリリースされました。
+“Masashi Sada – Nagasaki Sayokyoku” se estrenó en 1982.
 
-A面アレンジ – 渡辺俊幸 B面アレンジ – さだまさし
+Arreglo del lado A – Toshiyuki Watanabe Arreglo del lado B – Masashi Sada
 
-A面・B面 歌詞＆ミュージック – さだまさし
+Letra y música del lado A/B – Masashi Sada
 
-B面は、フジテレビ系「北の国から」の主題歌。
+La cara B es el tema principal de "Kita no Kuni Kara" de Fuji TV.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. 長崎小夜曲 
 
 B. 北の国から ー 遥かなる大地より〜蛍のテーマ
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ePgB1KwuYew?si=DOnQvl8u2e_t_Adp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePgB1KwuYew?si=DOnQvl8u2e_t_Adp" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

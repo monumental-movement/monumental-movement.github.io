@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Various – Wire 00 Compilation.webp
 lang: es
 layout: post
+permalink: /es/2023-09-17-Various – Wire 00 Compilation/
 tags:
 - Techno
 - Compilation
-title: Various – Wire 00 Compilation
+title: Varios - Compilación Wire 00
 ---
 
 
-2000年に開催された史上最大の屋内レイブ「WIRE 00」の出演者によるコンピレーション・アルバムです。
+Este es un álbum recopilatorio de los intérpretes de "WIRE 00", la rave interior más grande de la historia celebrada en el año 2000.
 
-2枚組LPで、Sven VäthやDJ Hell、WestBamのトラックも収録。
+El set de 2 LP también incluye temas de Sven Väth, DJ Hell y WestBam.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Denki Groove–Wire, Wireless (Arena)
 
@@ -48,7 +49,7 @@ D2  DJ Tasaka–Ganz Ganguro
 D3  Beroshima–WWW. (Robot Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

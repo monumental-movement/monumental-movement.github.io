@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/The Chemical Brothers–Loops Of Fury.webp
 lang: es
 layout: post
+permalink: /es/2023-09-24-The Chemical Brothers–Loops Of Fury/
 tags:
 - Trance
 - Progressive
-title: The Chemical Brothers–Loops Of Fury
+title: 'Los hermanos químicos: bucles de furia'
 ---
 
 
-「Loops of Fury」は、1996年にリリースされたイギリスのビッグ・ビート・デュオ、ザ・ケミカル・ブラザーズによるEPです。このトラック全英シングルチャートで13位まで上昇しました。
+"Loops of Fury" es un EP del dúo británico de big beat The Chemical Brothers, lanzado en 1996. La pista subió al número 13 en la lista de singles del Reino Unido.
 
-この "Get Up on It Like This" のボイスサンプルは、1983年にアフリカ・イスラムによって行われたラジオ番組から取られています。その番組からは "We're 'bout ready to rock steady" というボーカルも登場し、 "Block Rockin Beats" にも使用されています。
+Esta muestra de voz de "Get Up on It Like This" está tomada de un programa de radio realizado por Africa Islam en 1983. En ese programa, también aparece el vocalista "We're 'bout ready to rocksteady", y también se utiliza en "Block Rockin Beats".
 
-「Get Up on It Like This」は、その後のアルバム「Dig Your Own Hole」で再構築された形で収録されました。
+"Get Up on It Like This" se incluyó en una forma reconstituida en el álbum posterior "Dig Your Own Hole".
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1  Loops Of Fury
 
@@ -29,7 +30,7 @@ B1  Get Up On It Like This
 B2  Chemical Beats (Dave Clarke Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27759093508?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27759093508?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g04lgcOijYg?si=cMv0LfjJytK8xU3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g04lgcOijYg?si=cMv0LfjJytK8xU3K" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

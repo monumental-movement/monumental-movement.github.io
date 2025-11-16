@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Co-Fusion – Pod EP.webp
 lang: es
 layout: post
+permalink: /es/2023-09-25-Co-Fusion – Pod EP/
 tags:
 - Techno
 - Japanese Techno
-title: Co-Fusion – Pod EP
+title: Co-Fusión – Pod EP
 ---
 
 
-2001年にUKのレーベルPro-JexからリリースされたCo-FusionによるEPです。
+Este es un EP de Co-Fusion lanzado en el sello británico Pro-Jex en 2001.
 
-Pod EPは４曲入りでどのトラックも日本のテクノらしさを感じさせる楽曲です。
+El Pod EP contiene cuatro canciones y cada pista tiene un toque de techno japonés.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Pod
 
@@ -27,7 +28,7 @@ B1. I.T.
 B2. Wild World (Full Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37514147918?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m37514147918?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kha1c5JMlHU?si=1XAucjZDaXsPQSGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kha1c5JMlHU?si=1XAucjZDaXsPQSGg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

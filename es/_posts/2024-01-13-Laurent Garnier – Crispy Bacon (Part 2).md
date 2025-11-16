@@ -5,23 +5,24 @@ categories:
 image: ../assets/images/Laurent Garnier – Crispy Bacon (Part 2).webp
 lang: es
 layout: post
+permalink: /es/2024-01-13-Laurent Garnier – Crispy Bacon (Part 2)/
 tags:
 - Techno
 - 90s
 - Drum n Bass
-title: Laurent Garnier – Crispy Bacon (Part 2)
+title: Laurent Garnier – Tocino crujiente (Parte 2)
 ---
 
 
-Laurent Garnier(ローラン・ガルニエ）は、Choice（チョイス）としても知られるフランスの電子音楽プロデューサー兼 DJ。
+Laurent Garnier, también conocido como Choice, es un productor y DJ de música electrónica francés.
 
-「Crispy Bacon (Part 2)」は、Laurent GarnierとEric Morand（エリック・モランド）によるレーベルF Communicationsから1997年にリリースされたテクノトラック。
+"Crispy Bacon (Part 2)" es una pista de techno lanzada en 1997 por el sello F Communications de Laurent Garnier y Eric Morand.
 
-A面は、デトロイト出身のTOMTOM (トミー ハミルトン) と POSATRONIX (ウィリアム “BJ” スミス)によるエレクトロニックバンド、AUX88によるremix。
+La cara A es un remix de AUX88, una banda electrónica de Detroit formada por TOMTOM (Tommy Hamilton) y POSATRONIX (William “BJ” Smith).
 
-B面は、レーベルVersatile Recordsを運営するGilb'r Versatile によるremix。
+La cara B es un remix de Gilb'r Versatile, quien dirige el sello Versatile Records.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Crispy Bacon (Aux 88 Mix) 
 
@@ -30,7 +31,7 @@ B1. Orgasm
 B2. Crispy Bacon (Gilb'r Versatile Mix) 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27898736247?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m27898736247?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMfb3ginjVM?si=7P4gMtpoB1PhpW68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMfb3ginjVM?si=7P4gMtpoB1PhpW68" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

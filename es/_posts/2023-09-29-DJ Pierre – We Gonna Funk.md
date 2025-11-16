@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/DJ Pierre – We Gonna Funk.webp
 lang: es
 layout: post
+permalink: /es/2023-09-29-DJ Pierre – We Gonna Funk/
 tags:
 - House
 - Acid
-title: DJ Pierre – We Gonna Funk
+title: DJ Pierre – Vamos a funear
 ---
 
 
-1993年にUKのレーベルSolid Pleasureよりリリースされたこのレコードは「We Gonna Funk（(Underground Mix）」を収録。
+Este disco, publicado en 1993 por el sello británico Solid Pleasure, incluye "We Gonna Funk ((Underground Mix)").
 
-Nightcrawlersの「Push the Feeling On」の要素を取り入れたこのトラックはオリジナルよりも優れていると言える最高のミックスです。
+Incorporando elementos de "Push the Feeling On" de Nightcrawlers, esta pista es una gran mezcla que es incluso mejor que la original.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. We Gonna Funk (P&C's 9am Ultimate Mix)
 Remix – P&C
@@ -31,7 +32,7 @@ Remix, Producer – Craig Daniel Michael Yefet, Paul Newman
 AA2. We Gonna Funk (Underground Mix) (DJ Master Gola Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36364872632?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m36364872632?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ijE61Kd2i6M?si=AYvjarIf4HfQ5Kbd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijE61Kd2i6M?si=AYvjarIf4HfQ5Kbd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

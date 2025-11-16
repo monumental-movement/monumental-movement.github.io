@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Various – Dance Panic.webp
 lang: es
 layout: post
+permalink: /es/2023-10-15-Various – Dance Panic/
 tags:
 - House
 - Rare
-title: Various – Dance Panic
+title: Varios – Pánico de baile
 ---
 
 
-UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
+Scorccio (Mark Summers) y Jay Williams remezclan Number One de la cantante británica Billie Godfrey.
 
-DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オーストリア人のNorbert Reichartがプロデュースするトランスプロジェクト。
+DJ Visage es un proyecto de trance liderado por el DJ danés Martin Sig y producido por el austriaco Norbert Reichart.
 
-Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
+Airplay es un dúo de trance electrónico formado por Danny Corten y Eddy Weyns.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 
@@ -31,5 +32,5 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 B2. Reverance–Sacrifice (Paul Woodgate)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
 

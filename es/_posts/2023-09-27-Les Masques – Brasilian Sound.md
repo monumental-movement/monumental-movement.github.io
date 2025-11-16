@@ -5,18 +5,19 @@ categories:
 image: ../assets/images/Les Masques – Brasilian Sound.webp
 lang: es
 layout: post
+permalink: /es/2023-09-27-Les Masques – Brasilian Sound/
 tags:
 - Bossa Nova
 - Jazz
-title: Les Masques – Brasilian Sound
+title: Les Masques – Sonido Brasileño
 ---
 
 
-Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バンドであり、1960年代に活動していました。「Brasilian Sound」は、彼らの代表作品の一つです。
+Les Masques fue una banda francesa de jazz-funk activa en la década de 1960. "Brasilian Sound" es una de sus obras representativas.
 
-このアルバムは、レ・マスクが1969年にブラジルのジャズトリオLE TRIO CAMARAとコラボしたアルバムの再発盤です。ブラジル音楽のリズムやメロディ、パーカッションを取り入た独特のリズム感と陽気な雰囲気が特徴で、ボサノバ名盤として知られています。
+Este álbum es una reedición de la colaboración de Les Masque de 1969 con el trío de jazz brasileño LE TRIO CAMARA. Es conocida como una obra maestra de bossa nova, con una sensación rítmica única y una atmósfera alegre que incorpora los ritmos, melodías y percusión de la música brasileña.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Echo
 
@@ -41,7 +42,7 @@ Les Masques(レ・マスク)は、フランスのジャズ・ファンク・バ�
 11. Les Filles Et Les Garçons
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5gSe_2ckWLY?si=Db2soNruZ-pwthHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5gSe_2ckWLY?si=Db2soNruZ-pwthHH" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

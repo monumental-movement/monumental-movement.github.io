@@ -5,20 +5,21 @@ categories:
 image: ../assets/images/Winger – Winger.webp
 lang: es
 layout: post
+permalink: /es/2024-06-15-Winger – Winger/
 tags:
 - Rock
 - Heavy Metal
 - Glam Metal
 - 80s
-title: Winger – Winger
+title: Extremo – Extremo
 ---
 
 
-Winger（ウィンガー）は、1987年にNYで結成されたアメリカのロックバンド。ウィンガーは、1980年代後半から1990年代前半にかけて、2枚のプラチナアルバム「Winger（ウィンガー）」と「イン・ザ・ハート・オブ・ザ・ヤング」をリリース。1990年には、アメリカンミュージックアワードの「Best New Heavy Metal Band」にノミネートされた。
+Winger es una banda de rock estadounidense formada en Nueva York en 1987. Winger lanzó dos álbumes de platino a finales de los 80 y principios de los 90, "Winger" e "In the Heart of the Young". En 1990, fueron nominados como "Mejor Nueva Banda de Heavy Metal" en los American Music Awards.
 
-1988年にリリースした「Winger」は、Wingerのデビュースタジオアルバムで、Beau Hillがプロデュースした。
+Lanzado en 1988, "Winger" fue el álbum de estudio debut de Winger y fue producido por Beau Hill.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 1. Madalaine
 2. Hungry
@@ -32,7 +33,7 @@ Winger（ウィンガー）は、1987年にNYで結成されたアメリカの�
 11. Higher And Higher
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
 
-#### Youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

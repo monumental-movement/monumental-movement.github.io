@@ -5,24 +5,25 @@ categories:
 image: ../assets/images/David Morales Albert Cabrera – Higher.webp
 lang: es
 layout: post
+permalink: /es/2024-08-10-David Morales Albert Cabrera – Higher/
 tags:
 - House
 - Deep House
 - 00s
-title: David Morales & Albert Cabrera Present Moca Featuring Deanna – Higher
+title: David Morales y Albert Cabrera presentan Moca con Deanna – Superior
 ---
 
 
-「Higher」は、David MoralesとAlbert Cabreraのコラボレーション「Moca」がアメリカ出身のヴォーカリストDeannaをフューチャリングしたハウストラック。他にも、John Conte（Bass）、Cool Daddy（Guitar）、Eric Kupper（Keys）, Joey Mosk（Keys）、David Sussman（Engineer）,Steve Barkan（Engineer）が参加している。
+"Higher" es una canción house de la colaboración de David Morales y Albert Cabrera, "Moca", con la vocalista estadounidense Deanna. También participan John Conte (bajo), Cool Daddy (guitarra), Eric Kupper (teclados), Joey Mosk (teclados), David Sussman (ingeniero) y Steve Barkan (ingeniero).
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Higher (Higher Level Vox Mix)
 
 B. Higher (Mo & Al's Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95084463187?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m95084463187?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6HIoR1lTpU?si=NsgUEZHak5Z7-7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6HIoR1lTpU?si=NsgUEZHak5Z7-7PP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

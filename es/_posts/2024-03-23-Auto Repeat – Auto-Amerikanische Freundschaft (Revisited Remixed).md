@@ -5,23 +5,25 @@ categories:
 image: ../assets/images/Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed).webp
 lang: es
 layout: post
+permalink: /es/2024-03-23-Auto Repeat – Auto-Amerikanische Freundschaft (Revisited
+  Remixed)/
 tags:
 - Techno
 - House
 - 90s
-title: Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)
+title: Repetición automática - Auto-Amerikanische Freundschaft (Revisited Remixed)
 ---
 
 
-Auto Repeatことalexander müllerが1995年にリリースしたハウス・テクノトラック。
+Una pista de house techno lanzada en 1995 por Alexander Müller, también conocida como Auto Repeat.
 
-A面１曲目は、USハウスDJ Paul Johnsonによるremix。
+La primera pista de la cara A es un remix del DJ house estadounidense Paul Johnson.
 
-A面２曲目はシカゴハウスプロデューサーであり、90s後半のUSハウスプロデューサーの先駆者の一人として知られているDJ Sneakによるremix。
+La segunda pista de la cara A es un remix de DJ Sneak, un productor de house de Chicago conocido como uno de los pioneros de los productores de house estadounidenses de finales de los 90.
 
-Sneak Mixは非常にインパクトのあるトラックで、黄金の90年代中盤を代表する、時代を超えたハウス・ナンバーです。
+The Sneak Mix es un track muy impactante, un número house atemporal que representa la dorada mitad de los 90.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A1. You Can't Stop (Remixed by Paul Johnson)
 
@@ -32,7 +34,7 @@ B1. Dance Rodriguez (Remixed by Sluts N' Strings & 909){: .button1}
 B2. Def Jam (Remixed by Auto Repeat)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RoD2WO18jQU?si=iVBK0iN8LA_acqso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RoD2WO18jQU?si=iVBK0iN8LA_acqso" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

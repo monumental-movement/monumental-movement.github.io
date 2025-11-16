@@ -6,21 +6,23 @@ image: ../assets/images/Sir Piers Feat. Monique Bingham – Don't You Love Me Th
   Part 2.webp
 lang: es
 layout: post
+permalink: /es/2024-01-11-Sir Piers Feat. Monique Bingham – Don't You Love Me The
+  Remixes Part 2/
 tags:
 - House
 - Garage House
 - UK House
-title: Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2
+title: Sir Piers hazaña. Monique Bingham - ¿No me amas? Los remixes, parte 2
 ---
 
 
-Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
+Un remix de casa/garaje de "Don't You Love Me" de Monique Bingham lanzado en 2003 por Sir Piers (Piers Penfold) en su propio sello Curious.
 
-A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedettiによるremix。
+La cara A es un remix de Louis Benedetti, quien dirige SoulShine Recordings y Thompson Studios.
 
-B面は、オーストラリアのメルボルンを拠点に活動するDJ / プロデューサーDJ Jorj（Jorj Patsalides）によるremix。
+La cara B es un remix de DJ Jorj (Jorj Patsalides), un DJ/productor afincado en Melbourne, Australia.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Don't You Love Me (Louis Benedetti's Main Mix)
 
@@ -29,7 +31,7 @@ B1. Don't You Love Me (DJ Jorj Samba Dub)
 B2. Don't You Love Me (DJ Jorj Raw Samba Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m56984083624?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N801xpEjcVs?si=DMlmd2ZhAYem0JAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N801xpEjcVs?si=DMlmd2ZhAYem0JAP" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

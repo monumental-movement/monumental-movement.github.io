@@ -5,25 +5,26 @@ categories:
 image: ../assets/images/The Junkies & Nathan Barato – The Big Smoke.webp
 lang: es
 layout: post
+permalink: /es/2023-10-14-The Junkies & Nathan Barato – The Big Smoke/
 tags:
 - House
 - Tech House
-title: The Junkies & Nathan Barato – The Big Smoke
+title: The Junkies y Nathan Barato – El gran humo
 ---
 
 
-The Junkiesは、カナダのトロントを拠点に活動するDJ /プロデューサーValentino ColavecchiaとVincenzo Nicolazzoのデュオ。
+Los Junkies son un dúo de DJ/productores Valentino Colavecchia y Vincenzo Nicolazzo con base en Toronto, Canadá.
 
-Nathan Barato（ネイサン・バラト）は、カナダ出身のDJ。
+Nathan Barato es un DJ de Canadá.
 
-#### Tracklist
+#### Lista de canciones
 ```md
 A. Wow!
 
 B. For You One Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25171037533?afid=6142608987){: .button1}
+[Comprar en Mercari](https://jp.mercari.com/item/m25171037533?afid=6142608987){: .button1}
 
-#### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yKAwnPusl34?si=EszvaHoYmvhpg2Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKAwnPusl34?si=EszvaHoYmvhpg2Pc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
