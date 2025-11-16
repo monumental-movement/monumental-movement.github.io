@@ -11,8 +11,10 @@ os.makedirs(DEST_DIR, exist_ok=True)
 translator = GoogleTranslator(source='ja', target='en')
 
 
+# -----------------------------
+# 基本：安全翻訳
+# -----------------------------
 def normalize_quotes(text):
-    """全角・特殊引用符を半角 " に統一"""
     if not text:
         return text
     text = re.sub(r'[“”‘’«»„‟‹›「」『』〝〞‚‛`´]', '"', text)
@@ -23,7 +25,7 @@ def normalize_quotes(text):
 
 
 def translate_text(text):
-    """iframe・コード・空行をスキップして安全翻訳"""
+    """Mermaid以外の通常文章の翻訳"""
     if not text.strip():
         return text
     if re.search(r'<iframe.*?</iframe>', text, re.DOTALL):
@@ -33,15 +35,53 @@ def translate_text(text):
     try:
         result = translator.translate(text)
         if result is None:
+            print(f"⚠️ None returned: {text[:30]}...")
             return text
         return normalize_quotes(str(result))
     except Exception as e:
-        print(f"⚠️ 翻訳失敗: {e}（スキップ）")
+        print(f"⚠️ 翻訳失敗: {e}")
         return text
 
 
+# -----------------------------
+# Mermaid ブロックの専用翻訳
+# -----------------------------
+def translate_mermaid_line(line):
+    original = line
+
+    # %% コメント
+    def repl_comment(m):
+        text = m.group(1)
+        return "%% " + translate_text(text)
+
+    line = re.sub(r"%%\s*(.*)", repl_comment, line)
+
+    # [label] / (label) / ((label)) / |label|
+    patterns = [
+        (r'(\[)(.*?)(\])'),
+        (r'(\()([^()]*)(\))'),
+        (r'(\(\()([^()]*)(\)\))'),
+        (r'(\|)(.*?)(\|)'),
+    ]
+
+    for pat in patterns:
+        def repl(m):
+            start, text, end = m.group(1), m.group(2), m.group(3)
+            if re.search(r'[一-龯ぁ-んァ-ン]', text):
+                translated = translate_text(text)
+                return f"{start}{translated}{end}"
+            else:
+                return m.group(0)
+
+        line = re.sub(pat, repl, line)
+
+    return line
+
+
+# -----------------------------
+# YAML front matter
+# -----------------------------
 def split_front_matter(content):
-    """YAML front matter を分離"""
     if content.startswith("---"):
         parts = content.split('---', 2)
         if len(parts) >= 3:
@@ -58,15 +98,9 @@ def load_yaml_safe(fm):
         return {}
 
 
-def extract_slug(filename):
-    """日付や特殊文字を除き URL 用に安全な slug を生成"""
-    base = os.path.splitext(filename)[0]
-    base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
-    slug = re.sub(r'[^\w]+', '-', base)
-    return slug.lower().strip('-')
-
-
-# ファイル単位で処理
+# -----------------------------
+# メイン処理
+# -----------------------------
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -80,44 +114,39 @@ for filename in os.listdir(SRC_DIR):
     fm, body = split_front_matter(src_content)
     front_matter = load_yaml_safe(fm)
 
-    # 既存英語ファイルがある場合、差分を確認
+    # 既存ファイル → 差分チェック
     old_body = ""
     if os.path.exists(dest_path):
         with open(dest_path, "r", encoding="utf-8") as f:
             dest_content = f.read()
         fm2, old_body = split_front_matter(dest_content)
 
-    # 差分検出（新規記事も翻訳対象）
-    do_translate = True
     if old_body.strip():
         diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
         if not diff:
             print(f"⏭️ No changes: {filename}")
-            do_translate = False
+            continue
         else:
-            print(f"🔁 Diff detected: {filename} — 更新箇所を翻訳")
-
-    if not do_translate:
-        continue
+            print(f"🔁 Diff detected: {filename}")
 
     # タイトル翻訳
     if front_matter.get("title"):
         front_matter["title"] = translate_text(front_matter["title"])
-
     front_matter["lang"] = "en"
 
-    # 本文翻訳
+    # 本文翻訳開始
     translated_body = ""
     in_code_block = False
-    in_mermaid_block = False  # ファイルごとに初期化
+    in_mermaid_block = False
 
     for line in body.splitlines():
-        # Mermaid 開始
+        # Mermaid開始
         if '<div class="mermaid">' in line:
             in_mermaid_block = True
             translated_body += line + "\n"
             continue
-        # Mermaid 終了
+
+        # Mermaid終了
         if '</div>' in line and in_mermaid_block:
             in_mermaid_block = False
             translated_body += line + "\n"
@@ -129,14 +158,17 @@ for filename in os.listdir(SRC_DIR):
             translated_body += line + "\n"
             continue
 
-        # 翻訳除外判定
-        if in_code_block or in_mermaid_block:
+        # 翻訳分岐
+        if in_mermaid_block:
+            translated_body += translate_mermaid_line(line) + "\n"
+        elif in_code_block:
             translated_body += line + "\n"
         else:
             translated_body += translate_text(line) + "\n"
 
-    # 英語ファイル出力
+    # 出力
     output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
+
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output_content)
 
