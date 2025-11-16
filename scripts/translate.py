@@ -32,9 +32,7 @@ def translate_text(text):
         return text
     try:
         result = translator.translate(text)
-        # deep_translator が None を返した場合も安全に扱う
         if result is None:
-            print(f"⚠️ None returned from translator for: {text[:30]}...")
             return text
         return normalize_quotes(str(result))
     except Exception as e:
@@ -42,16 +40,13 @@ def translate_text(text):
         return text
 
 
-
 def split_front_matter(content):
-    """YAML front matter を分離して安全に返す"""
+    """YAML front matter を分離"""
     if content.startswith("---"):
         parts = content.split('---', 2)
         if len(parts) >= 3:
-            fm, body = parts[1], parts[2]
-            return fm, body
+            return parts[1], parts[2]
         else:
-            # 不完全な場合でも空のfront matterを返す
             return "", content
     return "", content
 
@@ -63,6 +58,15 @@ def load_yaml_safe(fm):
         return {}
 
 
+def extract_slug(filename):
+    """日付や特殊文字を除き URL 用に安全な slug を生成"""
+    base = os.path.splitext(filename)[0]
+    base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
+    slug = re.sub(r'[^\w]+', '-', base)
+    return slug.lower().strip('-')
+
+
+# ファイル単位で処理
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -83,14 +87,18 @@ for filename in os.listdir(SRC_DIR):
             dest_content = f.read()
         fm2, old_body = split_front_matter(dest_content)
 
-    # 差分検出
+    # 差分検出（新規記事も翻訳対象）
+    do_translate = True
     if old_body.strip():
         diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
         if not diff:
             print(f"⏭️ No changes: {filename}")
-            continue  # 変更なしならスキップ
+            do_translate = False
         else:
             print(f"🔁 Diff detected: {filename} — 更新箇所を翻訳")
+
+    if not do_translate:
+        continue
 
     # タイトル翻訳
     if front_matter.get("title"):
@@ -98,42 +106,40 @@ for filename in os.listdir(SRC_DIR):
 
     front_matter["lang"] = "en"
 
-    # 本文翻訳（コードブロックとMermaidブロックはスキップ）
-translated_body = ""
-in_code_block = False
-in_mermaid_block = False  # ← ここで初期化
+    # 本文翻訳
+    translated_body = ""
+    in_code_block = False
+    in_mermaid_block = False  # ファイルごとに初期化
 
-for line in body.splitlines():
-    # Mermaid 開始
-    if '<div class="mermaid">' in line:
-        in_mermaid_block = True
-        translated_body += line + "\n"
-        continue
-    # Mermaid 終了
-    if '</div>' in line and in_mermaid_block:
-        in_mermaid_block = False
-        translated_body += line + "\n"
-        continue
+    for line in body.splitlines():
+        # Mermaid 開始
+        if '<div class="mermaid">' in line:
+            in_mermaid_block = True
+            translated_body += line + "\n"
+            continue
+        # Mermaid 終了
+        if '</div>' in line and in_mermaid_block:
+            in_mermaid_block = False
+            translated_body += line + "\n"
+            continue
 
-    # コードブロック開始/終了
-    if line.strip().startswith("```"):
-        in_code_block = not in_code_block
-        translated_body += line + "\n"
-        continue
+        # コードブロック開始/終了
+        if line.strip().startswith("```"):
+            in_code_block = not in_code_block
+            translated_body += line + "\n"
+            continue
 
-    # 翻訳除外判定
-    if in_code_block or in_mermaid_block:
-        translated_body += line + "\n"
-    else:
-        translated_body += translate_text(line) + "\n"
-
+        # 翻訳除外判定
+        if in_code_block or in_mermaid_block:
+            translated_body += line + "\n"
+        else:
+            translated_body += translate_text(line) + "\n"
 
     # 英語ファイル出力
     output_content = f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}"
-
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(output_content)
 
     print(f"✅ Translated/Updated: {filename}")
 
-print("\n🎉 English posts updated successfully (only changed parts retranslated)")
+print("\n🎉 English posts updated successfully!")
